@@ -34,36 +34,36 @@ Treating teams instead as an entity made up of the currently active players, I h
 Brumbies by 15.1 on a neutral field
 
 There were 12 large changes in win probability in this match
-## Prediction without Player Minutes: Brumbies by 20.0
+## Prediction without Player Minutes: Brumbies by 19.8
 
 
-Brumbies by 16.0 on a neutral pitch
+Brumbies by 15.8 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player          |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player      |   Home Minutes |
 |---------------:|:---------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------|---------------:|
-|             59 | Dan Lienert-Brown    |      91.57 |                81 |        1 |               100 |     139.38 | James Slipper    |             52 |
-|             53 | Andrew Makalio       |      89.56 |                77 |        2 |                38 |      69.92 | Lachlan Lonergan |             57 |
-|             53 | Saula Mau            |      84.39 |                74 |        3 |                99 |     126.12 | Allan Alaalatoa  |             57 |
-|             80 | Shannon Frizell      |      97.32 |                84 |        4 |                52 |      77.76 | Darcy Swain      |             57 |
-|             32 | Josh Dickson         |      99.21 |                86 |        5 |                33 |      69.01 | Nick Frost       |             80 |
-|             63 | James Lentjes        |      86.8  |                70 |        6 |                86 |      99.85 | Rob Valetini     |             80 |
-|             80 | Billy Harmon         |     108.63 |                93 |        7 |                95 |     113.86 | Jahrome Brown    |             57 |
-|             80 | Hugh Renton          |      54.5  |                11 |        8 |                77 |      92.04 | Pete Samu        |             80 |
-|             78 | Folau Fakatava       |      79.19 |                56 |        9 |                97 |     119.31 | Nic White        |             36 |
-|             76 | Freddie Burns        |     108.69 |                93 |       10 |                80 |      95.93 | Noah Lolesio     |             80 |
-|             80 | Jona Nareki          |      85.41 |                67 |       11 |                71 |      86.89 | Corey Toole      |             80 |
-|             80 | Thomas Umaga-Jensen  |      72.88 |                40 |       12 |                68 |      87.59 | Ollie Sapsford   |             80 |
-|             80 | Fetuli Paea          |      92.38 |                74 |       13 |                90 |     106.83 | Len Ikitau       |             80 |
-|             68 | Scott Gregory        |      82.81 |                63 |       14 |                94 |     111.39 | Andy Muirhead    |             80 |
-|             80 | Connor Garden-Bachop |      99.79 |                87 |       15 |                84 |     101.33 | Tom Wright       |             80 |
-|             27 | Rhys Marshall        |      88.47 |                78 |       16 |                98 |     120.16 | Connal McInerney |             23 |
-|             21 | Ayden Johnstone      |      93.48 |                85 |       17 |                78 |      94.28 | Blake Schoupp    |             28 |
-|             27 | Jermaine Ainsley     |      88.06 |                74 |       18 |                66 |      86.97 | Rhys Van Nek     |             23 |
-|             48 | Marino Mikaele-Tu'u  |      79.47 |                53 |       19 |                51 |      77.94 | Tom Hooper       |             23 |
-|             17 | Sean Withy           |      74.52 |                49 |       20 |                87 |     102.5  | Luke Reimer      |             23 |
-|              2 | James Arscott        |      89.94 |                73 |       21 |                87 |     101.48 | Ryan Lonergan    |             44 |
-|              4 | Mitch Hunt           |     100.46 |                85 |       22 |                78 |      93.94 | Jack Debreczeni  |              0 |
-|             12 | Jonah Lowe           |      84.58 |                67 |       23 |               nan |      93.9  | Hudson Creighton |              0 |
+|             59 | Dan Lienert-Brown    |      90.75 |                80 |        1 |                99 |     139.79 | James Slipper    |             52 |
+|             53 | Andrew Makalio       |      92.18 |                80 |        2 |                36 |      69.36 | Lachlan Lonergan |             57 |
+|             53 | Saula Mau            |      84.67 |                75 |        3 |                99 |     125.48 | Allan Alaalatoa  |             57 |
+|             80 | Shannon Frizell      |      98    |                85 |        4 |                50 |      76.67 | Darcy Swain      |             57 |
+|             32 | Josh Dickson         |     100.16 |                87 |        5 |                33 |      69.53 | Nick Frost       |             80 |
+|             63 | James Lentjes        |      87.47 |                72 |        6 |                86 |      99.69 | Rob Valetini     |             80 |
+|             80 | Billy Harmon         |     108.41 |                93 |        7 |                95 |     112.15 | Jahrome Brown    |             57 |
+|             80 | Hugh Renton          |      50.72 |                 8 |        8 |                76 |      90.6  | Pete Samu        |             80 |
+|             78 | Folau Fakatava       |      79.13 |                55 |        9 |                97 |     119.41 | Nic White        |             36 |
+|             76 | Freddie Burns        |     108.25 |                92 |       10 |                79 |      95.04 | Noah Lolesio     |             80 |
+|             80 | Jona Nareki          |      85.31 |                66 |       11 |                66 |      84.49 | Corey Toole      |             80 |
+|             80 | Thomas Umaga-Jensen  |      72.47 |                39 |       12 |                70 |      89.46 | Ollie Sapsford   |             80 |
+|             80 | Fetuli Paea          |      91.15 |                72 |       13 |                90 |     106.51 | Len Ikitau       |             80 |
+|             68 | Scott Gregory        |      79.57 |                58 |       14 |                94 |     111.65 | Andy Muirhead    |             80 |
+|             80 | Connor Garden-Bachop |     100.05 |                87 |       15 |                85 |     102.41 | Tom Wright       |             80 |
+|             27 | Rhys Marshall        |      88.49 |                77 |       16 |                98 |     119.42 | Connal McInerney |             23 |
+|             21 | Ayden Johnstone      |      92.36 |                84 |       17 |                78 |      91.92 | Blake Schoupp    |             28 |
+|             27 | Jermaine Ainsley     |      87.52 |                73 |       18 |                62 |      84.11 | Rhys Van Nek     |             23 |
+|             48 | Marino Mikaele-Tu'u  |      79.26 |                52 |       19 |                50 |      76.38 | Tom Hooper       |             23 |
+|             17 | Sean Withy           |      74.97 |                50 |       20 |                86 |     101.35 | Luke Reimer      |             23 |
+|              2 | James Arscott        |      89.86 |                73 |       21 |                86 |     100.49 | Ryan Lonergan    |             44 |
+|              4 | Mitch Hunt           |      99.84 |                85 |       22 |                77 |      92.06 | Jack Debreczeni  |              0 |
+|             12 | Jonah Lowe           |      84.7  |                67 |       23 |               nan |      91.29 | Hudson Creighton |              0 |
 

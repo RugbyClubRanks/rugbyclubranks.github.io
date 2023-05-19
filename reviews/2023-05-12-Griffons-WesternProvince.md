@@ -34,36 +34,36 @@ Treating teams instead as an entity made up of the currently active players, I h
 Western Province by 14.1 on a neutral field
 
 There were 13 large changes in win probability in this match
-## Prediction without Player Minutes: Western Province by 7.4
+## Prediction without Player Minutes: Western Province by 7.5
 
 
-Western Province by 11.4 on a neutral pitch
+Western Province by 11.5 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player                       |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                 |   Home Minutes |
 |---------------:|:----------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------------|---------------:|
-|             67 | Kwenzokuhle Ndumiso Blose         |      79.61 |                53 |        1 |                42 |      73.26 | Stephan de Jager            |             69 |
-|             61 | Andre-Hugo Venter                 |      82.2  |                58 |        2 |                57 |      78.84 | Dandré Delport              |             13 |
-|             67 | Lee-Marvin Lofty Siyanda Mazibuko |     112.09 |                96 |        3 |                77 |      89    | Doctor Booysen              |             69 |
-|             64 | Patrick Kitete                    |      77.43 |               nan |        4 |               nan |      68.15 | Rian Olivier                |             69 |
-|             80 | Adre Smith                        |      77.03 |               nan |        5 |                30 |      67.95 | Michael Benadie             |             64 |
-|             11 | Junior Sipato Pokomela            |      62.27 |                16 |        6 |                92 |     107.43 | Thato Siward Mavundla       |             67 |
-|             80 | Jarrod Taylor                     |      82.8  |                63 |        7 |                55 |      79.14 | Thomas Ongera               |             80 |
-|             80 | Louw Nel                          |      74.71 |               nan |        8 |                15 |      57.03 | Sokuphumla (Soso) Xakalashe |             80 |
-|             61 | Thomas Bursey                     |      83.1  |                63 |        9 |                70 |      88.19 | Jaywinn Juries              |             80 |
-|             52 | Jean-Luc du Plessis               |      85.17 |                61 |       10 |                85 |     100.07 | Duan Pretorius              |             80 |
-|             80 | Mnombo Zwelendaba                 |      94.28 |                75 |       11 |                22 |      64.01 | Domenic Smit                |             80 |
-|             80 | Cornel Smit                       |      95.96 |                79 |       12 |               nan |      68.31 | Jeandre De Beer             |             52 |
-|             80 | Juan de Jongh                     |      69.8  |                34 |       13 |                31 |      68.49 | Carel-Jan Coetzee           |             80 |
-|             80 | Luke John Burger                  |      83.11 |                64 |       14 |                32 |      67.68 | Granwill Matthys            |             80 |
-|             80 | Clayton Blommetjies               |      86.22 |                62 |       15 |                 1 |      36.87 | Duren Hoffman               |             64 |
-|             69 | Albertus Horn                     |      76.26 |               nan |       16 |                48 |      77.25 | Hendrik Petrus van Schoor   |             67 |
-|             28 | Jurie Matthee                     |      77.23 |               nan |       17 |                 6 |      51.66 | Keanu Armandio Vers         |             28 |
-|             19 | Siyabonga Ntubeni                 |      74.23 |                47 |       18 |                27 |      65.42 | Curtley Thomas              |             16 |
-|             19 | Moegamat Kannemeyer               |      73.79 |               nan |       19 |                37 |      70.45 | Randy Fillies               |             16 |
-|             16 | Andre Goedhals                    |      76.85 |               nan |       20 |                48 |      76.62 | Jean-Jacques Pretorius      |             13 |
-|             13 | Leon Lyons                        |      74.23 |                41 |       21 |               nan |      65.27 | Wikus Nieuwenhuis           |             11 |
-|             13 | Corne Wellbach                    |      77.28 |               nan |       22 |                32 |      68.84 | Buhle Nojekwa               |             11 |
-|            nan | nan                               |     nan    |               nan |       23 |               nan |      56.42 | Xolani Jacobs               |             11 |
+|             67 | Kwenzokuhle Ndumiso Blose         |      78.95 |                50 |        1 |                39 |      72.15 | Stephan de Jager            |             69 |
+|             61 | Andre-Hugo Venter                 |      81.88 |                57 |        2 |                54 |      78.39 | Dandré Delport              |             13 |
+|             67 | Lee-Marvin Lofty Siyanda Mazibuko |     110.32 |                95 |        3 |                73 |      87.39 | Doctor Booysen              |             69 |
+|             64 | Patrick Kitete                    |      76.44 |               nan |        4 |               nan |      67.69 | Rian Olivier                |             69 |
+|             80 | Adre Smith                        |      76.81 |               nan |        5 |                30 |      68.19 | Michael Benadie             |             64 |
+|             11 | Junior Sipato Pokomela            |      63.63 |                18 |        6 |                92 |     106.16 | Thato Siward Mavundla       |             67 |
+|             80 | Jarrod Taylor                     |      82.56 |                62 |        7 |                55 |      79.17 | Thomas Ongera               |             80 |
+|             80 | Louw Nel                          |      74.76 |               nan |        8 |                15 |      57.23 | Sokuphumla (Soso) Xakalashe |             80 |
+|             61 | Thomas Bursey                     |      81.78 |                60 |        9 |                70 |      87.91 | Jaywinn Juries              |             80 |
+|             52 | Jean-Luc du Plessis               |      83.97 |                60 |       10 |                84 |      99.38 | Duan Pretorius              |             80 |
+|             80 | Mnombo Zwelendaba                 |      94.37 |                74 |       11 |                19 |      62.79 | Domenic Smit                |             80 |
+|             80 | Cornel Smit                       |      96.57 |                79 |       12 |               nan |      67.84 | Jeandre De Beer             |             52 |
+|             80 | Juan de Jongh                     |      69.79 |                33 |       13 |                32 |      69.26 | Carel-Jan Coetzee           |             80 |
+|             80 | Luke John Burger                  |      82.9  |                63 |       14 |                28 |      65.87 | Granwill Matthys            |             80 |
+|             80 | Clayton Blommetjies               |      82.93 |                56 |       15 |                 1 |      36.71 | Duren Hoffman               |             64 |
+|             69 | Albertus Horn                     |      74.77 |               nan |       16 |                46 |      75.95 | Hendrik Petrus van Schoor   |             67 |
+|             28 | Jurie Matthee                     |      77.02 |               nan |       17 |                 6 |      51.78 | Keanu Armandio Vers         |             28 |
+|             19 | Siyabonga Ntubeni                 |      75.45 |                48 |       18 |                27 |      65.36 | Curtley Thomas              |             16 |
+|             19 | Moegamat Kannemeyer               |      73.72 |               nan |       19 |                38 |      70.58 | Randy Fillies               |             16 |
+|             16 | Andre Goedhals                    |      76.62 |               nan |       20 |                44 |      75.62 | Jean-Jacques Pretorius      |             13 |
+|             13 | Leon Lyons                        |      73.88 |                40 |       21 |               nan |      64.99 | Wikus Nieuwenhuis           |             11 |
+|             13 | Corne Wellbach                    |      77.02 |               nan |       22 |                32 |      68.55 | Buhle Nojekwa               |             11 |
+|            nan | nan                               |     nan    |               nan |       23 |               nan |      56.19 | Xolani Jacobs               |             11 |
 

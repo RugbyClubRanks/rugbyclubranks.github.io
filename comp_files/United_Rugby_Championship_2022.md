@@ -1,6 +1,6 @@
 ---  
 title: "United Rugby Championship 2022 Status"  
-date: 2023-05-11 6:00:00 -0500  
+date: 2023-05-19 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -13,12 +13,12 @@ aside:
 
 | Club             |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Leinster         |       19 |     17 |                  247 |                     0 |                 14 |                   84 |
-| Stormers         |       19 |     14 |                  152 |                     3 |                 13 |                   72 |
+| Leinster         |       20 |     17 |                  246 |                     1 |                 14 |                   85 |
+| Stormers         |       20 |     15 |                  170 |                     3 |                 14 |                   77 |
 | Ulster           |       19 |     13 |                  171 |                     5 |                 12 |                   69 |
+| Munster          |       20 |     12 |                  123 |                     4 |                  9 |                   63 |
 | Glasgow Warriors |       19 |     13 |                   86 |                     0 |                 11 |                   63 |
-| Munster          |       19 |     11 |                  122 |                     4 |                  9 |                   59 |
-| Connacht         |       19 |     11 |                   35 |                     3 |                  7 |                   54 |
+| Connacht         |       20 |     11 |                   17 |                     3 |                  8 |                   55 |
 | Bulls            |       19 |     10 |                  153 |                     2 |                 11 |                   53 |
 | Sharks           |       19 |      9 |                  -24 |                     2 |                  8 |                   48 |
 | Lions            |       18 |      9 |                  -84 |                     2 |                  7 |                   45 |
@@ -35,12 +35,10 @@ aside:
 ## Projected Playoff Results
 
 
-|          | Reach Semifinals   | Reach Final   | Win Final   |
-|:---------|:-------------------|:--------------|:------------|
-| Leinster | 100.0 %            | 100.0 %       | 99.9 %      |
-| Stormers | 100.0 %            | 98.8 %        | 0.1 %       |
-| Connacht | 100.0 %            | 1.2 %         | 0.0 %       |
-| Munster  | 100.0 %            | 0.0 %         | 0.0 %       |
+|          | Reach Final   | Win Final   |
+|:---------|:--------------|:------------|
+| Stormers | 100.0 %       | 84.6 %      |
+| Munster  | 100.0 %       | 15.4 %      |
 
 
 
@@ -49,33 +47,22 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 70.9% | 11.8 |
-| Player Level: Lineup | 67.6% | 13.3 |
-| Player Level: Minutes | 64.9% | 13.7 |
+| Club Level | 70.7% | 11.8 |
+| Player Level: Lineup | 64.7% | 13.8 |
+| Player Level: Minutes | 66.0% | 14.2 |
 
 
 # Future Predictions
 
-## Semifinal
+## Final
 
-### Leinster V Munster on 2023/05/13
-
-
-Average Margin: Leinster by 11.2
-
-<p float="left">
-<img src="plots/performances_Leinster_V_Munster_20.png" width="32%" />
-<img src="plots/resultbar_Leinster_V_Munster_20.png" width="32%" />
-<img src="plots/spreads_Leinster_V_Munster_20.png" width="32%" />
-</p>
-
-### Stormers V Connacht on 2023/05/13
+### Stormers V Munster on 2023/05/27
 
 
-Average Margin: Stormers by 8.3
+Average Margin: Stormers by 3.8
 
 <p float="left">
-<img src="plots/performances_Stormers_V_Connacht_20.png" width="32%" />
-<img src="plots/resultbar_Stormers_V_Connacht_20.png" width="32%" />
-<img src="plots/spreads_Stormers_V_Connacht_20.png" width="32%" />
+<img src="plots/performances_Stormers_V_Munster_21.png" width="32%" />
+<img src="plots/resultbar_Stormers_V_Munster_21.png" width="32%" />
+<img src="plots/spreads_Stormers_V_Munster_21.png" width="32%" />
 </p>

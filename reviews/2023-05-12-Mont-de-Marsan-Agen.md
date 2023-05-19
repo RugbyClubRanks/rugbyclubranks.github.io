@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Mont-de-Marsan by 21.9
+## Prediction with Player Minutes: Mont-de-Marsan by 25.8
 
 
-Mont-de-Marsan by 17.9 on a neutral field
+Mont-de-Marsan by 21.8 on a neutral field
 
 There were 3 large changes in win probability in this match
-## Prediction without Player Minutes: Mont-de-Marsan by 24.7
+## Prediction without Player Minutes: Mont-de-Marsan by 27.9
 
 
-Mont-de-Marsan by 20.7 on a neutral pitch
+Mont-de-Marsan by 23.9 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player               |   Home Minutes |
 |---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------------|---------------:|
-|             45 | Florent Guion         |      56.7  |                13 |        1 |                80 |      91.55 | Jean-Luc Innocente        |             22 |
-|             45 | Clément Martinez      |      63.46 |                29 |        2 |                78 |      90.67 | Jose Luis Gonzalez        |             65 |
-|             62 | Alex Burin            |      79.85 |                57 |        3 |                26 |      66.06 | Anthony Alves             |             65 |
-|             48 | Antoine Erbani        |      65.51 |                27 |        4 |                46 |      74.43 | Nicolas Garrault          |             80 |
-|             80 | William Demotte       |      70    |                35 |        5 |                84 |      96.82 | Romain Durand             |             80 |
-|             62 | Arnaud Duputs         |      83.53 |                64 |        6 |                74 |      91.58 | Yann Brethous             |             62 |
-|             80 | Vincent Farré         |      74.73 |                46 |        7 |                78 |      92.88 | Veresa Tuqovu Ramototabua |             80 |
-|             51 | Martin Devergie       |      66.38 |                25 |        8 |                61 |      83.08 | Michael Faleafa           |             52 |
-|             65 | Sonatane Takulua      |      72.82 |                42 |        9 |                60 |      82.18 | Christophe Loustalot      |             65 |
-|             65 | Elton Thomas Jantjies |      72.76 |                40 |       10 |                74 |      92.29 | Willie du Plessis         |             80 |
-|             80 | Jefferson Joseph      |      89.02 |                74 |       11 |                80 |      95.05 | Kaminieli Rasaku          |             80 |
-|             80 | Kolinio Ramoka        |     116.42 |                96 |       12 |                89 |     105.65 | Jules Even                |             65 |
-|             80 | Clément Garrigues     |      79.67 |                62 |       13 |                94 |     113.32 | Nacani Wakaya             |             80 |
-|             80 | Loris Tolot           |      77.32 |                68 |       14 |                84 |      97.36 | Wame Naituvi              |             80 |
-|             80 | Jean-Marcellin Buttin |      78.95 |                50 |       15 |                81 |      99.42 | Yoann Laousse Azpiazu     |             65 |
-|             35 | Hans Lombard-Buret    |      78.03 |                53 |       16 |                19 |      65.69 | Max Curie                 |             58 |
-|             35 | Loris Zarantonello    |      72.01 |                42 |       17 |                83 |      97.05 | Aurélien Lisena           |             28 |
-|             32 | Corentin Vernet       |      72.22 |                43 |       18 |               nan |      85.78 | Leandro Luis Cedaro       |             18 |
-|             29 | Matthieu Bonnet       |     109    |                93 |       19 |                56 |      80.81 | Lucas Mensa               |             15 |
-|             18 | Zak Farrance          |      79.18 |                55 |       20 |                35 |      71.48 | Alexandre de Nardi        |             15 |
-|             18 | Walter Desmaison      |      52.71 |                 8 |       21 |                70 |      86.94 | Gheorge Gajion            |             15 |
-|             15 | Emile Dayral          |      76    |                51 |       22 |               nan |      77.85 | Clément Darbo             |             15 |
-|             15 | Theo Idjellidaine     |      63.25 |                35 |       23 |                53 |      81.22 | Simon Labouyrie           |             15 |
+|             45 | Florent Guion         |      42.11 |                 2 |        1 |                70 |      86.33 | Jean-Luc Innocente        |             22 |
+|             45 | Clément Martinez      |      68.68 |                37 |        2 |                81 |      93.53 | Jose Luis Gonzalez        |             65 |
+|             62 | Alex Burin            |      87.37 |                73 |        3 |                24 |      65.06 | Anthony Alves             |             65 |
+|             48 | Antoine Erbani        |      72.35 |                40 |        4 |                62 |      82.34 | Nicolas Garrault          |             80 |
+|             80 | William Demotte       |      76.31 |                49 |        5 |                89 |     101.46 | Romain Durand             |             80 |
+|             62 | Arnaud Duputs         |      84.19 |                65 |        6 |                77 |      93.4  | Yann Brethous             |             62 |
+|             80 | Vincent Farré         |      78.87 |                54 |        7 |                85 |      98.13 | Veresa Tuqovu Ramototabua |             80 |
+|             51 | Martin Devergie       |      71.2  |                34 |        8 |                68 |      85.73 | Michael Faleafa           |             52 |
+|             65 | Sonatane Takulua      |      73.83 |                43 |        9 |                49 |      76.58 | Christophe Loustalot      |             65 |
+|             65 | Elton Thomas Jantjies |      76.07 |                48 |       10 |                77 |      93.15 | Willie du Plessis         |             80 |
+|             80 | Jefferson Joseph      |      75.46 |                48 |       11 |                84 |      98.05 | Kaminieli Rasaku          |             80 |
+|             80 | Kolinio Ramoka        |      87.01 |                67 |       12 |                91 |     109    | Jules Even                |             65 |
+|             80 | Clément Garrigues     |      80.52 |                62 |       13 |                94 |     112.91 | Nacani Wakaya             |             80 |
+|             80 | Loris Tolot           |      76.07 |                64 |       14 |                85 |      98.02 | Wame Naituvi              |             80 |
+|             80 | Jean-Marcellin Buttin |      80.84 |                53 |       15 |                85 |     103.24 | Yoann Laousse Azpiazu     |             65 |
+|             35 | Hans Lombard-Buret    |      84.87 |                68 |       16 |                27 |      71.23 | Max Curie                 |             58 |
+|             35 | Loris Zarantonello    |      78.48 |                55 |       17 |                84 |      97.05 | Aurélien Lisena           |             28 |
+|             32 | Corentin Vernet       |      85.6  |                70 |       18 |               nan |      86.74 | Leandro Luis Cedaro       |             18 |
+|             29 | Matthieu Bonnet       |     110.9  |                94 |       19 |                64 |      85.07 | Lucas Mensa               |             15 |
+|             18 | Zak Farrance          |      65.58 |                27 |       20 |                46 |      77.5  | Alexandre de Nardi        |             15 |
+|             18 | Walter Desmaison      |      62.03 |                19 |       21 |                67 |      84.93 | Gheorge Gajion            |             15 |
+|             15 | Emile Dayral          |      82.62 |                63 |       22 |               nan |      79.25 | Clément Darbo             |             15 |
+|             15 | Theo Idjellidaine     |      66.88 |                42 |       23 |                58 |      83.34 | Simon Labouyrie           |             15 |
 

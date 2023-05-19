@@ -28,34 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Stade Francais Paris by 37.0
+## Prediction with Player Minutes: Stade Francais Paris by 30.1
 
 
-Stade Francais Paris by 33.0 on a neutral field
+Stade Francais Paris by 26.1 on a neutral field
 
-There were 6 large changes in win probability in this match
-## Prediction without Player Minutes: Stade Francais Paris by 37.0
-
-
-Stade Francais Paris by 33.0 on a neutral pitch
+There were 8 large changes in win probability in this match
+## Prediction without Player Minutes: Stade Francais Paris by 38.2
 
 
+Stade Francais Paris by 34.2 on a neutral pitch
 
-|   Away Minutes | Away Player          |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player             |   Home Minutes |
-|---------------:|:---------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------|---------------:|
-|             80 | Sébastien Taofifenua |      50.65 |                 6 |        1 |                54 |      78.19 | Moses Eneliko Alo-Emile |             80 |
-|             80 | Yanis Charcosset     |       7.85 |               nan |        2 |                55 |      81.5  | Mickaël Ivaldi          |             80 |
-|             80 | Demba Bamba          |      30.71 |                 0 |        3 |                68 |      85.3  | Paul Alo-Emile          |             80 |
-|             80 | Félix Lambey         |      73.63 |                10 |        4 |                66 |      84.56 | Paul Gabrillagues       |             80 |
-|             80 | Romain Taofifenua    |     109.66 |                93 |        5 |                25 |      67.85 | Baptiste Pesenti        |             80 |
-|             80 | Dylan Cretin         |      31    |                 0 |        6 |                35 |      69.3  | Mathieu Hirigoyen       |             80 |
-|             80 | Beka Saghinadze      |      93.99 |                80 |        7 |                58 |      80.75 | Romain Briatte          |             80 |
-|             80 | Liam Allen           |      81.66 |                54 |        8 |                57 |      80.16 | Sekou Macalou           |             80 |
-|             80 | Baptiste Couilloud   |      50.36 |                 6 |        9 |                42 |      73.27 | Arthur Coville          |             80 |
-|             80 | Jean-Marc Doussain   |     -17.7  |                 0 |       10 |                42 |      74.71 | Léo Barré               |             80 |
-|             80 | Ethan Dumortier      |     106.82 |                92 |       11 |                36 |      69.65 | Nadir Megdoud           |             80 |
-|             80 | Tavite Veredamu      |      86.24 |                69 |       12 |                34 |      69.86 | Alex Arrate             |             80 |
-|             80 | Thibaut Regard       |      24.38 |               nan |       13 |                53 |      79.22 | Jeremy Charles Ward     |             80 |
-|             80 | Noa Nakaitaci        |       7.19 |                 0 |       14 |                61 |      81.83 | Peniasi Dakuwaqa        |             80 |
-|             80 | Toby Arnold          |      84.73 |                60 |       15 |                41 |      74.6  | Kylan Hamdaoui          |             80 |
+
+
+|   Away Minutes | Away Player               |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                   |   Home Minutes |
+|---------------:|:--------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------------|---------------:|
+|             55 | Sébastien Taofifenua      |      52.87 |                 8 |        1 |                51 |      77.11 | Moses Eneliko Alo-Emile       |             58 |
+|             55 | Yanis Charcosset          |       7.96 |               nan |        2 |                53 |      81.28 | Mickaël Ivaldi                |             52 |
+|             55 | Demba Bamba               |      27.72 |                 0 |        3 |                64 |      83.13 | Paul Alo-Emile                |             52 |
+|             58 | Félix Lambey              |      74.3  |                10 |        4 |                61 |      81.94 | Paul Gabrillagues             |             80 |
+|             80 | Romain Taofifenua         |     109.36 |                93 |        5 |                26 |      68.8  | Baptiste Pesenti              |             60 |
+|             80 | Dylan Cretin              |      26.55 |                 0 |        6 |                37 |      70.91 | Mathieu Hirigoyen             |             58 |
+|             80 | Beka Saghinadze           |      96.23 |                83 |        7 |                49 |      76.56 | Romain Briatte                |             80 |
+|             67 | Liam Allen                |      82.06 |                54 |        8 |                59 |      81.01 | Sekou Macalou                 |             80 |
+|             76 | Baptiste Couilloud        |      50.76 |                 6 |        9 |                36 |      70.82 | Arthur Coville                |             69 |
+|             41 | Jean-Marc Doussain        |     -19.14 |                 0 |       10 |                47 |      77.64 | Léo Barré                     |             66 |
+|             80 | Ethan Dumortier           |     105.63 |                91 |       11 |                38 |      70.77 | Nadir Megdoud                 |             80 |
+|             80 | Tavite Veredamu           |      87.23 |                72 |       12 |                37 |      71.34 | Alex Arrate                   |             80 |
+|             80 | Thibaut Regard            |      25.18 |               nan |       13 |                56 |      81.24 | Jeremy Charles Ward           |             61 |
+|             41 | Noa Nakaitaci             |      13.12 |                 0 |       14 |                62 |      82.44 | Peniasi Dakuwaqa              |             80 |
+|             80 | Toby Arnold               |      83.42 |                57 |       15 |                40 |      74.42 | Kylan Hamdaoui                |             80 |
+|             39 | Lima Sopoaga              |      49.11 |                 2 |       16 |                61 |      81.31 | Giorgi Melikidze              |             28 |
+|             39 | Josua Tuisova             |      89.13 |                69 |       17 |                 8 |      53.23 | Laurent Panis                 |             28 |
+|             25 | Francisco Gomez Kodela    |      35.59 |                 0 |       18 |                10 |      54.11 | Pierre-Henri Azagoh           |             22 |
+|             25 | Feao Fotuaika             |      20.45 |               nan |       19 |                 9 |      58.05 | Vasil Kakovin                 |             22 |
+|             25 | Guillaume Marchand        |      12.77 |                 0 |       20 |               nan |      65.96 | Juan John (JJ) van der Mescht |             20 |
+|             22 | Temo Sukayawa Mayanavanua |      25.84 |                 0 |       21 |                 5 |      52.06 | Paolo Odogwu                  |             19 |
+|             13 | Patrick Sobela            |     -13.05 |                 0 |       22 |                27 |      66.47 | Joris Segonds                 |             14 |
+|              4 | Jonathan Pelissié         |      30.18 |                 0 |       23 |               nan |      62.33 | James Hall                    |             11 |
 

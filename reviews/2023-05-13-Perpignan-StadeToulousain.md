@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Perpignan by 0.5
+## Prediction with Player Minutes: Perpignan by 2.2
 
 
-Stade Toulousain by 3.5 on a neutral field
+Stade Toulousain by 1.8 on a neutral field
 
-There were 12 large changes in win probability in this match
-## Prediction without Player Minutes: Stade Toulousain by 2.6
+There were 15 large changes in win probability in this match
+## Prediction without Player Minutes: Stade Toulousain by 0.5
 
 
-Stade Toulousain by 6.6 on a neutral pitch
+Stade Toulousain by 4.5 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player         |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player        |   Home Minutes |
 |---------------:|:--------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------|---------------:|
-|             55 | David Ainu'u        |      60.28 |                22 |        1 |                36 |      70.63 | Giorgi Tetrashvili |             55 |
-|             55 | Julien Marchand     |      93.66 |                83 |        2 |                34 |      67.83 | Seilala Lam        |             60 |
-|             55 | Paul Mallez         |      79.07 |               nan |        3 |                57 |      79.95 | Arthur Joly        |             60 |
-|             55 | Joshua Brennan      |      66.56 |                32 |        4 |                43 |      70.55 | Tristan Labouteley |             80 |
-|             80 | Richie Arnold       |      63.94 |                24 |        5 |                61 |      82.14 | Posolo Tuilagi     |             55 |
-|             60 | Alban Placines      |      72.6  |                45 |        6 |                50 |      76.93 | Brad Shields       |             80 |
-|             60 | Francois Cros       |     143.48 |                99 |        7 |                47 |      76.94 | Kélian Galletier   |             60 |
-|             80 | Alexandre Roumat    |      25.47 |                 0 |        8 |                31 |      67.87 | Joaquin Oviedo     |             60 |
-|             80 | Paul Graou          |      84.34 |                68 |        9 |                41 |      72.79 | Sadek Deghmache    |             76 |
-|             80 | Thomas Ramos        |     120.19 |                95 |       10 |                42 |      73.75 | Jake McIntyre      |             80 |
-|             80 | Matthis Lebel       |      46.68 |                 5 |       11 |                15 |      58.24 | George Tilsley     |             80 |
-|             80 | Santiago Chocobares |      48.17 |                 5 |       12 |                18 |      59.72 | Dorian Laborde     |             80 |
-|             60 | Pierre Fouyssac     |      72.48 |                39 |       13 |                49 |      76.49 | Edward Sawailau    |             80 |
-|             60 | Arthur Retière      |      69.38 |                35 |       14 |                37 |      70.46 | Lucas Dubois       |             80 |
-|             80 | Juan Cruz Mallia    |      61.05 |                28 |       15 |                43 |      76    | Tristan Tedder     |             80 |
-|             25 | Cyril Baille        |      98.13 |                89 |       16 |                31 |      67.58 | Piula Fa'asalele   |             25 |
-|             25 | Peato Mauvaka       |      44.5  |                 7 |       17 |                18 |      60.78 | Sacha Lotrian      |             25 |
-|             25 | Dorian Aldegheri    |      89.01 |                77 |       18 |               nan |      67.07 | Siua Halanukonuka  |             20 |
-|             25 | Rynhard Elstadt     |      57.7  |                16 |       19 |                22 |      62.6  | Lucas Bachelier    |             20 |
-|             20 | Lucas Tauzin        |      71.71 |               nan |       20 |                37 |      69.3  | Mike Tadjer        |             20 |
-|             20 | Paul Costes         |      84.35 |               nan |       21 |                15 |      58.75 | Lucas Velarte      |             20 |
-|             20 | Theo Ntamack        |      64.82 |                35 |       22 |                14 |      57.28 | Tom Ecochard       |              4 |
-|             20 | Jack Willis         |     114.79 |                95 |       23 |               nan |     nan    | nan                |            nan |
+|             55 | David Ainu'u        |      54.78 |                14 |        1 |                55 |      78.76 | Giorgi Tetrashvili |             55 |
+|             55 | Julien Marchand     |      90.73 |                78 |        2 |                33 |      68.1  | Seilala Lam        |             60 |
+|             55 | Paul Mallez         |      79.68 |               nan |        3 |                43 |      74.26 | Arthur Joly        |             60 |
+|             55 | Joshua Brennan      |      66.42 |                30 |        4 |                44 |      70.91 | Tristan Labouteley |             80 |
+|             80 | Richie Arnold       |      67.32 |                29 |        5 |                62 |      82.59 | Posolo Tuilagi     |             55 |
+|             60 | Alban Placines      |      70.86 |                41 |        6 |                40 |      72.31 | Brad Shields       |             80 |
+|             60 | Francois Cros       |     142.61 |                99 |        7 |                51 |      78.48 | Kélian Galletier   |             60 |
+|             80 | Alexandre Roumat    |      23.23 |                 0 |        8 |                37 |      70.99 | Joaquin Oviedo     |             60 |
+|             80 | Paul Graou          |      85.62 |                70 |        9 |                41 |      72.93 | Sadek Deghmache    |             76 |
+|             80 | Thomas Ramos        |     119.58 |                95 |       10 |                48 |      76.28 | Jake McIntyre      |             80 |
+|             80 | Matthis Lebel       |      46.38 |                 5 |       11 |                15 |      58.19 | George Tilsley     |             80 |
+|             80 | Santiago Chocobares |      54.06 |                10 |       12 |                17 |      59.51 | Dorian Laborde     |             80 |
+|             60 | Pierre Fouyssac     |      72.16 |                38 |       13 |                44 |      73.47 | Edward Sawailau    |             80 |
+|             60 | Arthur Retière      |      64.73 |                26 |       14 |                58 |      79.57 | Lucas Dubois       |             80 |
+|             80 | Juan Cruz Mallia    |      60.26 |                25 |       15 |                46 |      77.22 | Tristan Tedder     |             80 |
+|             25 | Cyril Baille        |      97.34 |                88 |       16 |                31 |      68.23 | Piula Fa'asalele   |             25 |
+|             25 | Peato Mauvaka       |      43.31 |                 6 |       17 |                18 |      61.28 | Sacha Lotrian      |             25 |
+|             25 | Dorian Aldegheri    |      83.89 |                65 |       18 |               nan |      67.43 | Siua Halanukonuka  |             20 |
+|             25 | Rynhard Elstadt     |      64.29 |                27 |       19 |                26 |      65.81 | Lucas Bachelier    |             20 |
+|             20 | Lucas Tauzin        |      71.11 |               nan |       20 |                31 |      66.78 | Mike Tadjer        |             20 |
+|             20 | Paul Costes         |      84.33 |               nan |       21 |                14 |      58.09 | Lucas Velarte      |             20 |
+|             20 | Theo Ntamack        |      64.54 |                34 |       22 |                13 |      57.14 | Tom Ecochard       |              4 |
+|             20 | Jack Willis         |     110.54 |                94 |       23 |               nan |     nan    | nan                |            nan |
 

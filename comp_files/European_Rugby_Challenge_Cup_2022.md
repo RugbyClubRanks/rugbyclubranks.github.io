@@ -1,6 +1,6 @@
 ---  
 title: "European Rugby Challenge Cup 2022 Status"  
-date: 2023-05-11 6:00:00 -0500  
+date: 2023-05-19 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -43,8 +43,8 @@ aside:
 
 |                  | Reach Final   | Win Final   |
 |:-----------------|:--------------|:------------|
-| Toulon           | 100.0 %       | 56.9 %      |
-| Glasgow Warriors | 100.0 %       | 43.1 %      |
+| Toulon           | 100.0 %       | 50.3 %      |
+| Glasgow Warriors | 100.0 %       | 49.7 %      |
 
 
 
@@ -54,8 +54,8 @@ aside:
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
 | Club Level | 62.0% | 13.4 |
-| Player Level: Lineup | 60.0% | 18.2 |
-| Player Level: Minutes | 58.0% | 19.1 |
+| Player Level: Lineup | 58.0% | 18.1 |
+| Player Level: Minutes | 56.0% | 19.1 |
 
 
 # Future Predictions
@@ -65,7 +65,7 @@ aside:
 ### Toulon V Glasgow Warriors on 2023/05/19
 
 
-Average Margin: Toulon by 0.6
+Average Margin: Glasgow Warriors by 0.0
 
 <p float="left">
 <img src="plots/performances_Toulon_V_Glasgow Warriors_9.png" width="32%" />

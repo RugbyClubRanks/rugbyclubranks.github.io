@@ -1,6 +1,6 @@
 ---  
 title: "Nationale 2022 Status"  
-date: 2023-05-11 6:00:00 -0500  
+date: 2023-05-19 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,10 +17,10 @@ aside:
 
 | Club                       |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Dax                        |       26 |     21 |                  280 |                     2 |                 11 |                   97 |
-| Albi                       |       27 |     19 |                  235 |                     4 |                  6 |                   88 |
-| Valence Romans Drome Rugby |       26 |     17 |                  290 |                     7 |                nan |                   86 |
-| Blagnac                    |       27 |     19 |                   79 |                     3 |                  4 |                   83 |
+| Dax                        |       27 |     22 |                  300 |                     2 |                 11 |                  101 |
+| Valence Romans Drome Rugby |       27 |     18 |                  303 |                     7 |                nan |                   90 |
+| Albi                       |       28 |     19 |                  222 |                     4 |                  6 |                   88 |
+| Blagnac                    |       28 |     19 |                   59 |                     3 |                  4 |                   83 |
 | Bourgoin-Jallieu           |       27 |     17 |                   62 |                     3 |                  2 |                   73 |
 | US Bressane                |       27 |     15 |                   29 |                     5 |                  6 |                   71 |
 | Narbonne                   |       26 |     14 |                   25 |                     5 |                  6 |                   69 |
@@ -39,10 +39,10 @@ aside:
 
 | Club                       |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Dax                        |                   2 |    1.4 |                  5.9 |                   0.5 |                1.3 |                  7.6 |
-| Valence Romans Drome Rugby |                   2 |    1.1 |                  1.7 |                   0.8 |                1   |                  6.3 |
-| Albi                       |                   2 |    0.9 |                 -1.7 |                   0.9 |                0.8 |                  5.1 |
-| Blagnac                    |                   2 |    0.6 |                 -5.9 |                   1   |                0.5 |                  3.7 |
+| Dax                        |                   1 |    1   |                  7.5 |                   0   |                1   |                  4.9 |
+| Valence Romans Drome Rugby |                   1 |    0.9 |                  5.1 |                   0.1 |                0.9 |                  4.7 |
+| Albi                       |                   1 |    0.1 |                 -5.1 |                   0.6 |                0.1 |                  0.9 |
+| Blagnac                    |                   1 |    0   |                 -7.5 |                   0.4 |                0   |                  0.4 |
 
 
 
@@ -51,10 +51,10 @@ aside:
 
 | Club                       |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Dax                        |              28 |   22.4 |                285.9 |                   2.5 |               12.3 |                104.6 |
-| Albi                       |              29 |   19.9 |                233.3 |                   4.9 |                6.8 |                 93.1 |
-| Valence Romans Drome Rugby |              28 |   18.1 |                291.7 |                   7.8 |                1   |                 92.3 |
-| Blagnac                    |              29 |   19.6 |                 73.1 |                   4   |                4.5 |                 86.7 |
+| Dax                        |              28 |   23   |                307.5 |                   2   |               12   |                105.9 |
+| Valence Romans Drome Rugby |              28 |   18.9 |                308.1 |                   7.1 |                0.9 |                 94.7 |
+| Albi                       |              29 |   19.1 |                216.9 |                   4.6 |                6.1 |                 88.9 |
+| Blagnac                    |              29 |   19   |                 51.5 |                   3.4 |                4   |                 83.4 |
 | Bourgoin-Jallieu           |              27 |   17   |                 62   |                   3   |                2   |                 73   |
 | US Bressane                |              27 |   15   |                 29   |                   5   |                6   |                 71   |
 | Narbonne                   |              26 |   14   |                 25   |                   5   |                6   |                 69   |
@@ -73,43 +73,19 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 69.6% | 10.3 |
-| Player Level: Lineup | 66.7% | 11.6 |
-| Player Level: Minutes | 68.3% | 11.7 |
+| Club Level | 68.8% | 10.4 |
+| Player Level: Lineup | 67.6% | 11.8 |
+| Player Level: Minutes | 68.6% | 12.0 |
 
 
 # Future Predictions
-
-## Week 28
-
-### Blagnac V Dax on 2023/05/13
-
-
-Average Margin: Dax by 0.0
-
-<p float="left">
-<img src="plots/performances_Blagnac_V_Dax_28.png" width="32%" />
-<img src="plots/resultbar_Blagnac_V_Dax_28.png" width="32%" />
-<img src="plots/spreads_Blagnac_V_Dax_28.png" width="32%" />
-</p>
-
-### Albi V Valence Romans Drome Rugby on 2023/05/13
-
-
-Average Margin: Albi by 2.4
-
-<p float="left">
-<img src="plots/performances_Albi_V_Valence Romans Drome Rugby_28.png" width="32%" />
-<img src="plots/resultbar_Albi_V_Valence Romans Drome Rugby_28.png" width="32%" />
-<img src="plots/spreads_Albi_V_Valence Romans Drome Rugby_28.png" width="32%" />
-</p>
 
 ## Week 29
 
 ### Dax V Blagnac on 2023/05/20
 
 
-Average Margin: Dax by 6.3
+Average Margin: Dax by 8.0
 
 <p float="left">
 <img src="plots/performances_Dax_V_Blagnac_29.png" width="32%" />
@@ -120,7 +96,7 @@ Average Margin: Dax by 6.3
 ### Valence Romans Drome Rugby V Albi on 2023/05/20
 
 
-Average Margin: Valence Romans Drome Rugby by 4.2
+Average Margin: Valence Romans Drome Rugby by 5.6
 
 <p float="left">
 <img src="plots/performances_Valence Romans Drome Rugby_V_Albi_29.png" width="32%" />

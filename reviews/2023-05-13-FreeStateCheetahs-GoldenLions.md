@@ -28,32 +28,32 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Free State Cheetahs by 15.0
+## Prediction with Player Minutes: Free State Cheetahs by 15.5
 
 
-Free State Cheetahs by 11.0 on a neutral field
-## Prediction without Player Minutes: Free State Cheetahs by 15.0
+Free State Cheetahs by 11.5 on a neutral field
+## Prediction without Player Minutes: Free State Cheetahs by 15.5
 
 
-Free State Cheetahs by 11.0 on a neutral pitch
+Free State Cheetahs by 11.5 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player                |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player              |   Home Minutes |
 |---------------:|:---------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------------|---------------:|
-|             80 | Rhynardt Rijnsburger       |      96.01 |                86 |        1 |                63 |      82.48 | Schalk Ferreira          |             80 |
-|             80 | Gerrit Jacobus Visagie     |      73.8  |                46 |        2 |               nan |      86.92 | Louis van der Westhuizen |             80 |
-|             80 | Asenathi Ntlabakanye       |      65.23 |                24 |        3 |                71 |      84.37 | Hencus van Wyk           |             80 |
-|             80 | Ruan Venter                |      73.72 |                43 |        4 |                43 |      73.73 | Rynier Mark Bernardo     |             80 |
-|             80 | Ruben (Hobo) Schoeman      |      84.55 |                65 |        5 |                62 |      83.06 | Victor Kutlwano Sekekete |             80 |
-|             80 | Johannes JC Pretorius      |      83.36 |                64 |        6 |                32 |      68.48 | Gideon van der Merwe     |             80 |
-|             80 | Emmanuel Tshituka          |      65.51 |                27 |        7 |                72 |      87.59 | Sibabalo Qoma            |             80 |
-|             80 | Francke Horn               |      74.95 |                43 |        8 |                70 |      86.96 | George Cronje            |             80 |
-|             80 | Morne van der Berg         |      69.59 |                34 |        9 |                59 |      80.95 | Ruan Pienaar             |             80 |
-|             80 | Sanele Nohamba             |      71.91 |                39 |       10 |                66 |      86.52 | Reinhardt Fortuin        |             80 |
-|             80 | Edwill Charl van der Merwe |      69.75 |                36 |       11 |                78 |      91.36 | Munier Hartzenberg       |             80 |
-|             80 | Tyler Bocks                |      71.11 |                44 |       12 |                41 |      73.46 | Robert Thompson Ebersohn |             80 |
-|             80 | Rynardt Jonker             |      84.5  |                63 |       13 |                75 |      92.38 | David Benjamin Brits     |             80 |
-|             80 | Sibahle Ndiphiwe Maxwane   |      74.89 |                47 |       14 |                76 |      90.55 | Daniel Kasende Kalepula  |             80 |
-|             80 | Quan Horn                  |      70.03 |                33 |       15 |                35 |      70.46 | Evardi Boshoff           |             80 |
+|             80 | Rhynardt Rijnsburger       |      95.25 |                86 |        1 |                63 |      82.51 | Schalk Ferreira          |             80 |
+|             80 | Gerrit Jacobus Visagie     |      71.4  |                40 |        2 |               nan |      85.57 | Louis van der Westhuizen |             80 |
+|             80 | Asenathi Ntlabakanye       |      61.19 |                18 |        3 |                72 |      84.82 | Hencus van Wyk           |             80 |
+|             80 | Ruan Venter                |      75.98 |                48 |        4 |                44 |      74.06 | Rynier Mark Bernardo     |             80 |
+|             80 | Ruben (Hobo) Schoeman      |      87.44 |                71 |        5 |                64 |      83.77 | Victor Kutlwano Sekekete |             80 |
+|             80 | Johannes JC Pretorius      |      83.02 |                62 |        6 |                32 |      68.75 | Gideon van der Merwe     |             80 |
+|             80 | Emmanuel Tshituka          |      65.73 |                26 |        7 |                70 |      86.56 | Sibabalo Qoma            |             80 |
+|             80 | Francke Horn               |      74.86 |                43 |        8 |                71 |      86.7  | George Cronje            |             80 |
+|             80 | Morne van der Berg         |      68.66 |                31 |        9 |                62 |      82.75 | Ruan Pienaar             |             80 |
+|             80 | Sanele Nohamba             |      72.47 |                39 |       10 |                63 |      84.67 | Reinhardt Fortuin        |             80 |
+|             80 | Edwill Charl van der Merwe |      69.13 |                34 |       11 |                80 |      92.92 | Munier Hartzenberg       |             80 |
+|             80 | Tyler Bocks                |      69.36 |                41 |       12 |                43 |      74.03 | Robert Thompson Ebersohn |             80 |
+|             80 | Rynardt Jonker             |      84.48 |                62 |       13 |                75 |      92.78 | David Benjamin Brits     |             80 |
+|             80 | Sibahle Ndiphiwe Maxwane   |      78.2  |                55 |       14 |                78 |      91.85 | Daniel Kasende Kalepula  |             80 |
+|             80 | Quan Horn                  |      69.58 |                32 |       15 |                35 |      70.49 | Evardi Boshoff           |             80 |
 

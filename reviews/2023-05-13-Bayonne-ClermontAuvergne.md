@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Clermont Auvergne by 6.4
+## Prediction with Player Minutes: Clermont Auvergne by 9.1
 
 
-Clermont Auvergne by 10.4 on a neutral field
+Clermont Auvergne by 13.1 on a neutral field
 
 There were 9 large changes in win probability in this match
-## Prediction without Player Minutes: Clermont Auvergne by 8.3
+## Prediction without Player Minutes: Clermont Auvergne by 10.8
 
 
-Clermont Auvergne by 12.3 on a neutral pitch
+Clermont Auvergne by 14.8 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player                |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player           |   Home Minutes |
 |---------------:|:---------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------|---------------:|
-|             58 | Etienne Falgoux            |      73.89 |                43 |        1 |                33 |      69.62 | Swan Cormenier        |             47 |
-|             78 | Étienne Fourcade           |      78.34 |                56 |        2 |                19 |      59.8  | Facundo Bosch         |             47 |
-|             66 | Rabah Slimani              |      67.79 |                29 |        3 |                34 |      69.84 | Pascal Cotet          |             47 |
-|             80 | Thibault Lanen             |      82.39 |                61 |        4 |                25 |      64.54 | Denis Marchois        |             47 |
-|             80 | Tomas Lavanini             |      80.87 |                58 |        5 |                89 |     103.39 | Thomas Ceyte          |             80 |
-|             58 | Arthur Iturria             |      67.62 |                30 |        6 |                42 |      73.07 | Pierre Huguet         |             53 |
-|             80 | Judicael Cancoriet         |      69.79 |                39 |        7 |                 8 |      51.49 | Baptiste Heguy        |             80 |
-|             70 | Fritz Lee                  |      84.18 |                64 |        8 |                18 |      61.62 | Uzair Cassiem         |             80 |
-|             76 | Baptiste Jauneau           |      82.51 |                62 |        9 |                22 |      63.3  | Maxime Machenaud      |             80 |
-|             64 | Jules Plisson              |      65.26 |                25 |       10 |                 8 |      48.81 | Camille Lopez         |             80 |
-|             80 | Alivereti Raka             |      65.45 |                28 |       11 |               nan |      67.04 | Arthur Duhau          |             80 |
-|             64 | George Moala               |      76.47 |                47 |       12 |                58 |      82.05 | Yann David            |             58 |
-|             80 | Irae Simone                |      68.97 |                32 |       13 |                53 |      76.79 | Peyo Muscarditz       |             47 |
-|             80 | Damian Penaud              |      96.1  |                83 |       14 |                12 |      54.85 | Marland Yarde         |             80 |
-|             80 | Alex Newsome               |      76.05 |                43 |       15 |                18 |      60.66 | Tom Spring            |             80 |
-|             22 | Giorgi Beria               |      71.7  |                42 |       16 |                82 |      98.77 | Sireli Maqala         |             33 |
-|             22 | Lucas Dessaigne            |      90.66 |                81 |       17 |               nan |      79.37 | Torsten van Jaarsveld |             33 |
-|             16 | Julien Heriteau            |      72.33 |                41 |       18 |                63 |      76.3  | Quentin Béthune       |             33 |
-|             16 | Anthony Belleau            |      86    |                68 |       19 |                83 |      91.49 | Tevita Tatafu         |             33 |
-|             14 | Davit Kubriashvili         |      74.53 |               nan |       20 |                69 |      86.17 | Konstantin Mikautadze |             33 |
-|             10 | Peceli Yato                |      72.66 |                40 |       21 |               nan |      68.24 | Jean Monribot         |             27 |
-|              4 | Kevin Viallard             |      72.46 |               nan |       22 |                33 |      69.52 | Guillaume Martocq     |             22 |
-|              2 | Jean-Maxence Jules-Rosette |      74.44 |               nan |       23 |               nan |     nan    | nan                   |            nan |
+|             58 | Etienne Falgoux            |      72.42 |                39 |        1 |                23 |      64.07 | Swan Cormenier        |             47 |
+|             78 | Étienne Fourcade           |      80.9  |                59 |        2 |                24 |      62.55 | Facundo Bosch         |             47 |
+|             66 | Rabah Slimani              |      70.39 |                35 |        3 |                33 |      69.46 | Pascal Cotet          |             47 |
+|             80 | Thibault Lanen             |      82.56 |                62 |        4 |                30 |      67.8  | Denis Marchois        |             47 |
+|             80 | Tomas Lavanini             |      80.78 |                58 |        5 |                87 |      99.69 | Thomas Ceyte          |             80 |
+|             58 | Arthur Iturria             |      68.84 |                33 |        6 |                45 |      74.6  | Pierre Huguet         |             53 |
+|             80 | Judicael Cancoriet         |      72.04 |                44 |        7 |                11 |      55.35 | Baptiste Heguy        |             80 |
+|             70 | Fritz Lee                  |      85.68 |                68 |        8 |                15 |      59.54 | Uzair Cassiem         |             80 |
+|             76 | Baptiste Jauneau           |      86    |                67 |        9 |                23 |      64.87 | Maxime Machenaud      |             80 |
+|             64 | Jules Plisson              |      66.31 |                27 |       10 |                10 |      54.6  | Camille Lopez         |             80 |
+|             80 | Alivereti Raka             |      73.96 |                45 |       11 |               nan |      67.52 | Arthur Duhau          |             80 |
+|             64 | George Moala               |      80.91 |                56 |       12 |                58 |      82.1  | Yann David            |             58 |
+|             80 | Irae Simone                |      69.29 |                32 |       13 |                51 |      75.83 | Peyo Muscarditz       |             47 |
+|             80 | Damian Penaud              |      94.93 |                82 |       14 |                11 |      54.27 | Marland Yarde         |             80 |
+|             80 | Alex Newsome               |      85.65 |                62 |       15 |                20 |      61.84 | Tom Spring            |             80 |
+|             22 | Giorgi Beria               |      75.15 |                51 |       16 |                85 |     100.62 | Sireli Maqala         |             33 |
+|             22 | Lucas Dessaigne            |      90.63 |                80 |       17 |               nan |      74.47 | Torsten van Jaarsveld |             33 |
+|             16 | Julien Heriteau            |      74.27 |                43 |       18 |                67 |      78.04 | Quentin Béthune       |             33 |
+|             16 | Anthony Belleau            |      89.03 |                74 |       19 |                85 |      92.42 | Tevita Tatafu         |             33 |
+|             14 | Davit Kubriashvili         |      71.68 |               nan |       20 |                70 |      87    | Konstantin Mikautadze |             33 |
+|             10 | Peceli Yato                |      68.43 |                31 |       21 |               nan |      68.53 | Jean Monribot         |             27 |
+|              4 | Kevin Viallard             |      74.05 |               nan |       22 |                30 |      68.23 | Guillaume Martocq     |             22 |
+|              2 | Jean-Maxence Jules-Rosette |      74.89 |               nan |       23 |               nan |     nan    | nan                   |            nan |
 

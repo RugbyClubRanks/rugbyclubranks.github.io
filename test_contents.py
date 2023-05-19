@@ -8,6 +8,10 @@ def test_comp_contents():
     comp_files = glob.glob(os.path.join("comp_files", "*.md"))
     assert len(comp_files) > 0
 
+def test_comp_plot_contents():
+    comp_file_plots = glob.glob(os.path.join("comp_files/plots", "*"))
+    assert len(comp_file_plots) > 0
+
 def test_comp_random_accuracy():
     club_accuracy = None
     tbl_values = None

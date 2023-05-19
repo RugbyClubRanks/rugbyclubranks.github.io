@@ -66,7 +66,7 @@ key: page-recents
 ## Major League Rugby
 
 
-[2023](comp_files\Major_League_Rugby_2023) - Prediction Accuracy: 76.3% 
+[2023](comp_files\Major_League_Rugby_2023) - Prediction Accuracy: 72.6% 
 
 [2022](comp_files\Major_League_Rugby_2022) - Prediction Accuracy: 64.5% 
 
@@ -76,7 +76,7 @@ key: page-recents
 ## Super Rugby Pacific
 
 
-[2023](comp_files\Super_Rugby_Pacific_2023) - Prediction Accuracy: 78.3% 
+[2023](comp_files\Super_Rugby_Pacific_2023) - Prediction Accuracy: 79.4% 
 
 [2022](comp_files\Super_Rugby_Pacific_2022) - Prediction Accuracy: 72.0% 
 
@@ -102,7 +102,7 @@ key: page-recents
 ## Gallagher Premiership
 
 
-[2022](comp_files\Gallagher_Premiership_2022) - Prediction Accuracy: 69.4% 
+[2022](comp_files\Gallagher_Premiership_2022) - Prediction Accuracy: 69.9% 
 
 [2021](comp_files\Gallagher_Premiership_2021) - Prediction Accuracy: 62.8% 
 
@@ -110,7 +110,7 @@ key: page-recents
 ## Japan Rugby League One
 
 
-[2022](comp_files\Japan_Rugby_League_One_2022) - Prediction Accuracy: 78.9% 
+[2022](comp_files\Japan_Rugby_League_One_2022) - Prediction Accuracy: 78.4% 
 
 [2021](comp_files\Japan_Rugby_League_One_2021) - Prediction Accuracy: 75.0% 
 
@@ -126,7 +126,7 @@ key: page-recents
 ## Top 14 Orange
 
 
-[2022](comp_files\Top_14_Orange_2022) - Prediction Accuracy: 68.5% 
+[2022](comp_files\Top_14_Orange_2022) - Prediction Accuracy: 68.0% 
 
 [2021](comp_files\Top_14_Orange_2021) - Prediction Accuracy: 71.3% 
 
@@ -134,7 +134,7 @@ key: page-recents
 ## United Rugby Championship
 
 
-[2022](comp_files\United_Rugby_Championship_2022) - Prediction Accuracy: 70.9% 
+[2022](comp_files\United_Rugby_Championship_2022) - Prediction Accuracy: 70.7% 
 
 [2021](comp_files\United_Rugby_Championship_2021) - Prediction Accuracy: 67.1% 
 
@@ -170,7 +170,7 @@ key: page-recents
 ## Super Rugby Americas
 
 
-[2023](comp_files\Super_Rugby_Americas_2023) - Prediction Accuracy: 75.0% 
+[2023](comp_files\Super_Rugby_Americas_2023) - Prediction Accuracy: 72.7% 
 # Domestic Competitions
 
 ## Bunnings Warehouse NPC
@@ -186,7 +186,7 @@ key: page-recents
 ## Currie Cup
 
 
-[2023](comp_files\Currie_Cup_2023) - Prediction Accuracy: 60.0% 
+[2023](comp_files\Currie_Cup_2023) - Prediction Accuracy: 56.4% 
 
 [2022](comp_files\Currie_Cup_2022) - Prediction Accuracy: 63.6% 
 
@@ -204,7 +204,7 @@ key: page-recents
 ## Nationale
 
 
-[2022](comp_files\Nationale_2022) - Prediction Accuracy: 69.6% 
+[2022](comp_files\Nationale_2022) - Prediction Accuracy: 68.8% 
 
 [2021](comp_files\Nationale_2021) - Prediction Accuracy: 68.8% 
 
@@ -212,7 +212,7 @@ key: page-recents
 ## Pro D2
 
 
-[2022](comp_files\Pro_D2_2022) - Prediction Accuracy: 67.6% 
+[2022](comp_files\Pro_D2_2022) - Prediction Accuracy: 67.8% 
 
 [2021](comp_files\Pro_D2_2021) - Prediction Accuracy: 71.0% 
 

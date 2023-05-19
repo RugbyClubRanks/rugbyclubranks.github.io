@@ -1,6 +1,6 @@
 ---  
 title: "Gallagher Premiership 2022 Status"  
-date: 2023-05-11 6:00:00 -0500  
+date: 2023-05-19 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -13,11 +13,11 @@ aside:
 
 | Club               |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Sale Sharks        |       22 |     16 |                  225 |                     3 |                 12 |                   79 |
-| Saracens           |       21 |     16 |                  129 |                     1 |                 13 |                   78 |
+| Sale Sharks        |       23 |     17 |                  233 |                     3 |                 12 |                   83 |
+| Saracens           |       22 |     17 |                  152 |                     1 |                 14 |                   83 |
 | London Irish       |       22 |     12 |                  131 |                     7 |                 10 |                   65 |
-| Northampton Saints |       22 |     12 |                  -41 |                     3 |                nan |                   63 |
-| Leicester Tigers   |       20 |     11 |                   70 |                     4 |                  9 |                   59 |
+| Northampton Saints |       23 |     12 |                  -64 |                     3 |                nan |                   63 |
+| Leicester Tigers   |       21 |     11 |                   62 |                     4 |                  9 |                   59 |
 | Exeter Chiefs      |       21 |     11 |                  -48 |                     4 |                  5 |                   53 |
 | Bristol Rugby      |       21 |      9 |                   -6 |                     4 |                  9 |                   51 |
 | Harlequins         |       21 |      9 |                  -35 |                     4 |                nan |                   51 |
@@ -32,12 +32,10 @@ aside:
 ## Projected Playoff Results
 
 
-|                    | Reach Semifinals   | Reach Final   | Win Final   |
-|:-------------------|:-------------------|:--------------|:------------|
-| Saracens           | 100.0 %            | 99.4 %        | 53.8 %      |
-| Sale Sharks        | 100.0 %            | 90.8 %        | 43.1 %      |
-| Leicester Tigers   | 100.0 %            | 9.2 %         | 3.1 %       |
-| Northampton Saints | 100.0 %            | 0.6 %         | 0.0 %       |
+|             | Reach Final   | Win Final   |
+|:------------|:--------------|:------------|
+| Saracens    | 100.0 %       | 55.8 %      |
+| Sale Sharks | 100.0 %       | 44.2 %      |
 
 
 
@@ -46,33 +44,22 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 69.4% | 12.5 |
-| Player Level: Lineup | 70.1% | 12.3 |
-| Player Level: Minutes | 72.6% | 12.3 |
+| Club Level | 69.9% | 12.4 |
+| Player Level: Lineup | 69.7% | 12.2 |
+| Player Level: Minutes | 73.1% | 12.0 |
 
 
 # Future Predictions
 
-## Semifinal
+## Final
 
-### Saracens V Northampton Saints on 2023/05/13
-
-
-Average Margin: Saracens by 8.8
-
-<p float="left">
-<img src="plots/performances_Saracens_V_Northampton Saints_23.png" width="32%" />
-<img src="plots/resultbar_Saracens_V_Northampton Saints_23.png" width="32%" />
-<img src="plots/spreads_Saracens_V_Northampton Saints_23.png" width="32%" />
-</p>
-
-### Sale Sharks V Leicester Tigers on 2023/05/14
+### Saracens V Sale Sharks on 2023/05/27
 
 
-Average Margin: Sale Sharks by 4.2
+Average Margin: Saracens by 0.5
 
 <p float="left">
-<img src="plots/performances_Sale Sharks_V_Leicester Tigers_23.png" width="32%" />
-<img src="plots/resultbar_Sale Sharks_V_Leicester Tigers_23.png" width="32%" />
-<img src="plots/spreads_Sale Sharks_V_Leicester Tigers_23.png" width="32%" />
+<img src="plots/performances_Saracens_V_Sale Sharks_24.png" width="32%" />
+<img src="plots/resultbar_Saracens_V_Sale Sharks_24.png" width="32%" />
+<img src="plots/spreads_Saracens_V_Sale Sharks_24.png" width="32%" />
 </p>

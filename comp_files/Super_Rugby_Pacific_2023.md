@@ -1,6 +1,6 @@
 ---  
 title: "Super Rugby Pacific 2023 Status"  
-date: 2023-05-11 6:00:00 -0500  
+date: 2023-05-19 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,18 +17,18 @@ aside:
 
 | Club                     |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Chiefs                   |       10 |     10 |                  184 |                     0 |                  5 |                   45 |
-| Brumbies                 |       10 |      8 |                   74 |                     1 |                  3 |                   36 |
-| Blues                    |       10 |      7 |                  129 |                     3 |                  3 |                   34 |
-| Crusaders                |       10 |      7 |                  110 |                     1 |                  4 |                   33 |
-| Hurricanes               |       10 |      7 |                  114 |                     2 |                  2 |                   32 |
-| New South Wales Waratahs |       10 |      4 |                  -20 |                     3 |                  2 |                   21 |
-| Queensland Reds          |       10 |      4 |                  -15 |                     2 |                  1 |                   19 |
-| Fijian Drua              |       10 |      4 |                 -113 |                     1 |                  0 |                   17 |
-| Melbourne Rebels         |       10 |      3 |                  -79 |                     3 |                  0 |                   15 |
-| Highlanders              |       10 |      3 |                  -82 |                     1 |                  2 |                   15 |
-| Western Force            |       10 |      3 |                 -121 |                     1 |                  0 |                   13 |
-| Moana Pasifika           |       10 |      0 |                 -181 |                     3 |                  0 |                    3 |
+| Chiefs                   |       11 |     10 |                  181 |                     1 |                  5 |                   46 |
+| Crusaders                |       12 |      9 |                  156 |                     1 |                  5 |                   42 |
+| Brumbies                 |       11 |      9 |                   90 |                     1 |                  4 |                   41 |
+| Blues                    |       12 |      8 |                  136 |                     3 |                  3 |                   38 |
+| Hurricanes               |       11 |      8 |                  163 |                     2 |                  3 |                   37 |
+| New South Wales Waratahs |       11 |      5 |                   -2 |                     3 |                  3 |                   26 |
+| Queensland Reds          |       12 |      5 |                  -31 |                     2 |                  1 |                   23 |
+| Western Force            |       11 |      4 |                 -101 |                     1 |                  1 |                   18 |
+| Fijian Drua              |       11 |      4 |                 -133 |                     1 |                  0 |                   17 |
+| Melbourne Rebels         |       11 |      3 |                  -97 |                     3 |                  0 |                   15 |
+| Highlanders              |       11 |      3 |                  -98 |                     1 |                  2 |                   15 |
+| Moana Pasifika           |       12 |      0 |                 -264 |                     3 |                  0 |                    3 |
 
 
 
@@ -37,18 +37,18 @@ aside:
 
 | Club                     |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Chiefs                   |                   4 |    3.7 |                 49.9 |                   0.3 |                3.6 |                 18.6 |
-| Crusaders                |                   4 |    3.6 |                 43.4 |                   0.4 |                3.4 |                 18.1 |
-| Brumbies                 |                   4 |    3.3 |                 36.3 |                   0.5 |                3.2 |                 16.8 |
-| Blues                    |                   4 |    3   |                 25.1 |                   0.6 |                2.9 |                 15.6 |
-| New South Wales Waratahs |                   4 |    2.9 |                 21.8 |                   0.2 |                2.9 |                 14.8 |
-| Fijian Drua              |                   4 |    1.7 |                 -5.1 |                   1.2 |                1.6 |                  9.4 |
-| Highlanders              |                   4 |    1.7 |                -17.5 |                   0.5 |                1.6 |                  8.7 |
-| Hurricanes               |                   4 |    1.4 |                 -0.9 |                   1.1 |                1.3 |                  7.8 |
-| Western Force            |                   4 |    1.1 |                -25.3 |                   0.9 |                1   |                  6.2 |
-| Melbourne Rebels         |                   4 |    0.9 |                -28.6 |                   1   |                0.8 |                  5.3 |
-| Queensland Reds          |                   4 |    0.8 |                -30.9 |                   1.2 |                0.7 |                  5.3 |
-| Moana Pasifika           |                   4 |    0.1 |                -68   |                   0.4 |                0.1 |                  0.8 |
+| Chiefs                   |                   3 |    2.5 |                 24.1 |                   0.4 |                2.4 |                 12.9 |
+| Brumbies                 |                   3 |    2.4 |                 24.8 |                   0.5 |                2.3 |                 12.3 |
+| New South Wales Waratahs |                   3 |    2   |                 14.8 |                   0.1 |                2   |                 10   |
+| Blues                    |                   2 |    1.9 |                 22.9 |                   0.1 |                1.9 |                  9.7 |
+| Crusaders                |                   2 |    1.8 |                 17.8 |                   0.2 |                1.7 |                  9   |
+| Highlanders              |                   3 |    1.6 |                 -5.5 |                   0.4 |                1.5 |                  8.2 |
+| Fijian Drua              |                   3 |    1.3 |                 -5.1 |                   0.7 |                1.2 |                  7   |
+| Queensland Reds          |                   2 |    1   |                 -0.3 |                   0.8 |                0.8 |                  5.5 |
+| Melbourne Rebels         |                   3 |    0.8 |                -21.3 |                   0.7 |                0.7 |                  4.4 |
+| Western Force            |                   3 |    0.4 |                -24.4 |                   0.9 |                0.3 |                  2.9 |
+| Hurricanes               |                   3 |    0.3 |                -21.6 |                   1.1 |                0.2 |                  2.7 |
+| Moana Pasifika           |                   2 |    0.1 |                -26.2 |                   0.3 |                0.1 |                  0.8 |
 
 
 
@@ -57,18 +57,18 @@ aside:
 
 | Club                     |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Chiefs                   |              14 |   13.7 |                233.9 |                   0.3 |                8.6 |                 63.6 |
-| Brumbies                 |              14 |   11.3 |                110.3 |                   1.5 |                6.2 |                 52.8 |
-| Crusaders                |              14 |   10.6 |                153.4 |                   1.4 |                7.4 |                 51.1 |
-| Blues                    |              14 |   10   |                154.1 |                   3.6 |                5.9 |                 49.6 |
-| Hurricanes               |              14 |    8.4 |                113.1 |                   3.1 |                3.3 |                 39.8 |
-| New South Wales Waratahs |              14 |    6.9 |                  1.8 |                   3.2 |                4.9 |                 35.8 |
-| Fijian Drua              |              14 |    5.7 |               -118.1 |                   2.2 |                1.6 |                 26.4 |
-| Queensland Reds          |              14 |    4.8 |                -45.9 |                   3.2 |                1.7 |                 24.3 |
-| Highlanders              |              14 |    4.7 |                -99.5 |                   1.5 |                3.6 |                 23.7 |
-| Melbourne Rebels         |              14 |    3.9 |               -107.6 |                   4   |                0.8 |                 20.3 |
-| Western Force            |              14 |    4.1 |               -146.3 |                   1.9 |                1   |                 19.2 |
-| Moana Pasifika           |              14 |    0.1 |               -249   |                   3.4 |                0.1 |                  3.8 |
+| Chiefs                   |              14 |   12.5 |                205.1 |                   1.4 |                7.4 |                 58.9 |
+| Brumbies                 |              14 |   11.4 |                114.8 |                   1.5 |                6.3 |                 53.3 |
+| Crusaders                |              14 |   10.8 |                173.8 |                   1.2 |                6.7 |                 51   |
+| Blues                    |              14 |    9.9 |                158.9 |                   3.1 |                4.9 |                 47.7 |
+| Hurricanes               |              14 |    8.3 |                141.4 |                   3.1 |                3.2 |                 39.7 |
+| New South Wales Waratahs |              14 |    7   |                 12.8 |                   3.1 |                5   |                 36   |
+| Queensland Reds          |              14 |    6   |                -31.3 |                   2.8 |                1.8 |                 28.5 |
+| Fijian Drua              |              14 |    5.3 |               -138.1 |                   1.7 |                1.2 |                 24   |
+| Highlanders              |              14 |    4.6 |               -103.5 |                   1.4 |                3.5 |                 23.2 |
+| Western Force            |              14 |    4.4 |               -125.4 |                   1.9 |                1.3 |                 20.9 |
+| Melbourne Rebels         |              14 |    3.8 |               -118.3 |                   3.7 |                0.7 |                 19.4 |
+| Moana Pasifika           |              14 |    0.1 |               -290.2 |                   3.3 |                0.1 |                  3.8 |
 
 
 
@@ -77,17 +77,17 @@ aside:
 
 |                          | Reach Quarterfinals   | Reach Semifinals   | Reach Final   | Win Final   |
 |:-------------------------|:----------------------|:-------------------|:--------------|:------------|
-| Chiefs                   | 100.0 %               | 99.8 %             | 91.9 %        | 81.8 %      |
-| Crusaders                | 100.0 %               | 99.0 %             | 58.1 %        | 13.4 %      |
-| Blues                    | 100.0 %               | 95.5 %             | 21.8 %        | 2.5 %       |
-| Brumbies                 | 100.0 %               | 97.9 %             | 28.1 %        | 2.3 %       |
-| Hurricanes               | 100.0 %               | 6.3 %              | 0.1 %         | 0.0 %       |
-| New South Wales Waratahs | 100.0 %               | 1.0 %              | 0.0 %         | 0.0 %       |
-| Queensland Reds          | 59.7 %                | 0.3 %              | 0.0 %         | 0.0 %       |
-| Highlanders              | 58.8 %                | 0.2 %              | 0.0 %         | 0.0 %       |
-| Fijian Drua              | 68.6 %                | 0.0 %              | 0.0 %         | 0.0 %       |
-| Melbourne Rebels         | 9.5 %                 | 0.0 %              | 0.0 %         | 0.0 %       |
-| Western Force            | 3.4 %                 | 0.0 %              | 0.0 %         | 0.0 %       |
+| Chiefs                   | 100.0 %               | 100.0 %            | 86.7 %        | 67.6 %      |
+| Crusaders                | 100.0 %               | 99.3 %             | 69.5 %        | 25.5 %      |
+| Brumbies                 | 100.0 %               | 97.9 %             | 27.4 %        | 4.1 %       |
+| Blues                    | 100.0 %               | 92.2 %             | 16.2 %        | 2.8 %       |
+| Hurricanes               | 100.0 %               | 8.1 %              | 0.2 %         | 0.0 %       |
+| New South Wales Waratahs | 100.0 %               | 2.2 %              | 0.0 %         | 0.0 %       |
+| Queensland Reds          | 90.2 %                | 0.3 %              | 0.0 %         | 0.0 %       |
+| Highlanders              | 48.7 %                | 0.0 %              | 0.0 %         | 0.0 %       |
+| Fijian Drua              | 45.4 %                | 0.0 %              | 0.0 %         | 0.0 %       |
+| Western Force            | 10.3 %                | 0.0 %              | 0.0 %         | 0.0 %       |
+| Melbourne Rebels         | 5.4 %                 | 0.0 %              | 0.0 %         | 0.0 %       |
 
 
 
@@ -96,281 +96,191 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 78.3% | 12.3 |
-| Player Level: Lineup | 68.2% | 13.8 |
-| Player Level: Minutes | 76.7% | 13.6 |
+| Club Level | 79.4% | 12.3 |
+| Player Level: Lineup | 72.2% | 13.9 |
+| Player Level: Minutes | 77.9% | 13.8 |
 
 
 # Future Predictions
 
-## Week 11
-
-### Chiefs V Queensland Reds on 2023/05/12
-
-
-Average Margin: Chiefs by 19.7
-
-<p float="left">
-<img src="plots/performances_Chiefs_V_Queensland Reds_11.png" width="32%" />
-<img src="plots/resultbar_Chiefs_V_Queensland Reds_11.png" width="32%" />
-<img src="plots/spreads_Chiefs_V_Queensland Reds_11.png" width="32%" />
-</p>
-
-### Western Force V Fijian Drua on 2023/05/12
-
-
-Average Margin: Western Force by 3.9
-
-<p float="left">
-<img src="plots/performances_Western Force_V_Fijian Drua_11.png" width="32%" />
-<img src="plots/resultbar_Western Force_V_Fijian Drua_11.png" width="32%" />
-<img src="plots/spreads_Western Force_V_Fijian Drua_11.png" width="32%" />
-</p>
-
-### New South Wales Waratahs V Melbourne Rebels on 2023/05/13
-
-
-Average Margin: New South Wales Waratahs by 9.6
-
-<p float="left">
-<img src="plots/performances_New South Wales Waratahs_V_Melbourne Rebels_11.png" width="32%" />
-<img src="plots/resultbar_New South Wales Waratahs_V_Melbourne Rebels_11.png" width="32%" />
-<img src="plots/spreads_New South Wales Waratahs_V_Melbourne Rebels_11.png" width="32%" />
-</p>
-
-### Crusaders V Blues on 2023/05/13
-
-
-Average Margin: Crusaders by 5.8
-
-<p float="left">
-<img src="plots/performances_Crusaders_V_Blues_11.png" width="32%" />
-<img src="plots/resultbar_Crusaders_V_Blues_11.png" width="32%" />
-<img src="plots/spreads_Crusaders_V_Blues_11.png" width="32%" />
-</p>
-
-### Hurricanes V Moana Pasifika on 2023/05/13
-
-
-Average Margin: Hurricanes by 21.7
-
-<p float="left">
-<img src="plots/performances_Hurricanes_V_Moana Pasifika_11.png" width="32%" />
-<img src="plots/resultbar_Hurricanes_V_Moana Pasifika_11.png" width="32%" />
-<img src="plots/spreads_Hurricanes_V_Moana Pasifika_11.png" width="32%" />
-</p>
-
-### Brumbies V Highlanders on 2023/05/14
-
-
-Average Margin: Brumbies by 13.1
-
-<p float="left">
-<img src="plots/performances_Brumbies_V_Highlanders_11.png" width="32%" />
-<img src="plots/resultbar_Brumbies_V_Highlanders_11.png" width="32%" />
-<img src="plots/spreads_Brumbies_V_Highlanders_11.png" width="32%" />
-</p>
-
-## Week 12
-
-### Moana Pasifika V Crusaders on 2023/05/19
-
-
-Average Margin: Crusaders by 21.0
-
-<p float="left">
-<img src="plots/performances_Moana Pasifika_V_Crusaders_12.png" width="32%" />
-<img src="plots/resultbar_Moana Pasifika_V_Crusaders_12.png" width="32%" />
-<img src="plots/spreads_Moana Pasifika_V_Crusaders_12.png" width="32%" />
-</p>
-
-### Queensland Reds V Blues on 2023/05/19
-
-
-Average Margin: Blues by 8.7
-
-<p float="left">
-<img src="plots/performances_Queensland Reds_V_Blues_12.png" width="32%" />
-<img src="plots/resultbar_Queensland Reds_V_Blues_12.png" width="32%" />
-<img src="plots/spreads_Queensland Reds_V_Blues_12.png" width="32%" />
-</p>
+## Week 13
 
 ### Western Force V Brumbies on 2023/05/20
 
 
-Average Margin: Brumbies by 10.2
+Average Margin: Brumbies by 9.3
 
 <p float="left">
-<img src="plots/performances_Western Force_V_Brumbies_12.png" width="32%" />
-<img src="plots/resultbar_Western Force_V_Brumbies_12.png" width="32%" />
-<img src="plots/spreads_Western Force_V_Brumbies_12.png" width="32%" />
+<img src="plots/performances_Western Force_V_Brumbies_13.png" width="32%" />
+<img src="plots/resultbar_Western Force_V_Brumbies_13.png" width="32%" />
+<img src="plots/spreads_Western Force_V_Brumbies_13.png" width="32%" />
 </p>
 
 ### New South Wales Waratahs V Fijian Drua on 2023/05/20
 
 
-Average Margin: New South Wales Waratahs by 10.4
+Average Margin: New South Wales Waratahs by 11.9
 
 <p float="left">
-<img src="plots/performances_New South Wales Waratahs_V_Fijian Drua_12.png" width="32%" />
-<img src="plots/resultbar_New South Wales Waratahs_V_Fijian Drua_12.png" width="32%" />
-<img src="plots/spreads_New South Wales Waratahs_V_Fijian Drua_12.png" width="32%" />
+<img src="plots/performances_New South Wales Waratahs_V_Fijian Drua_13.png" width="32%" />
+<img src="plots/resultbar_New South Wales Waratahs_V_Fijian Drua_13.png" width="32%" />
+<img src="plots/spreads_New South Wales Waratahs_V_Fijian Drua_13.png" width="32%" />
 </p>
 
 ### Highlanders V Melbourne Rebels on 2023/05/20
 
 
-Average Margin: Highlanders by 6.7
+Average Margin: Highlanders by 7.1
 
 <p float="left">
-<img src="plots/performances_Highlanders_V_Melbourne Rebels_12.png" width="32%" />
-<img src="plots/resultbar_Highlanders_V_Melbourne Rebels_12.png" width="32%" />
-<img src="plots/spreads_Highlanders_V_Melbourne Rebels_12.png" width="32%" />
+<img src="plots/performances_Highlanders_V_Melbourne Rebels_13.png" width="32%" />
+<img src="plots/resultbar_Highlanders_V_Melbourne Rebels_13.png" width="32%" />
+<img src="plots/spreads_Highlanders_V_Melbourne Rebels_13.png" width="32%" />
 </p>
 
 ### Chiefs V Hurricanes on 2023/05/20
 
 
-Average Margin: Chiefs by 12.0
+Average Margin: Chiefs by 10.2
 
 <p float="left">
-<img src="plots/performances_Chiefs_V_Hurricanes_12.png" width="32%" />
-<img src="plots/resultbar_Chiefs_V_Hurricanes_12.png" width="32%" />
-<img src="plots/spreads_Chiefs_V_Hurricanes_12.png" width="32%" />
+<img src="plots/performances_Chiefs_V_Hurricanes_13.png" width="32%" />
+<img src="plots/resultbar_Chiefs_V_Hurricanes_13.png" width="32%" />
+<img src="plots/spreads_Chiefs_V_Hurricanes_13.png" width="32%" />
 </p>
 
-## Week 13
+## Week 14
 
 ### Highlanders V Queensland Reds on 2023/05/26
 
 
-Average Margin: Highlanders by 3.5
+Average Margin: Highlanders by 2.7
 
 <p float="left">
-<img src="plots/performances_Highlanders_V_Queensland Reds_13.png" width="32%" />
-<img src="plots/resultbar_Highlanders_V_Queensland Reds_13.png" width="32%" />
-<img src="plots/spreads_Highlanders_V_Queensland Reds_13.png" width="32%" />
+<img src="plots/performances_Highlanders_V_Queensland Reds_14.png" width="32%" />
+<img src="plots/resultbar_Highlanders_V_Queensland Reds_14.png" width="32%" />
+<img src="plots/spreads_Highlanders_V_Queensland Reds_14.png" width="32%" />
 </p>
 
 ### Melbourne Rebels V Western Force on 2023/05/26
 
 
-Average Margin: Melbourne Rebels by 3.4
+Average Margin: Melbourne Rebels by 2.4
 
 <p float="left">
-<img src="plots/performances_Melbourne Rebels_V_Western Force_13.png" width="32%" />
-<img src="plots/resultbar_Melbourne Rebels_V_Western Force_13.png" width="32%" />
-<img src="plots/spreads_Melbourne Rebels_V_Western Force_13.png" width="32%" />
-</p>
-
-### Crusaders V New South Wales Waratahs on 2023/05/27
-
-
-Average Margin: Crusaders by 14.0
-
-<p float="left">
-<img src="plots/performances_Crusaders_V_New South Wales Waratahs_13.png" width="32%" />
-<img src="plots/resultbar_Crusaders_V_New South Wales Waratahs_13.png" width="32%" />
-<img src="plots/spreads_Crusaders_V_New South Wales Waratahs_13.png" width="32%" />
+<img src="plots/performances_Melbourne Rebels_V_Western Force_14.png" width="32%" />
+<img src="plots/resultbar_Melbourne Rebels_V_Western Force_14.png" width="32%" />
+<img src="plots/spreads_Melbourne Rebels_V_Western Force_14.png" width="32%" />
 </p>
 
 ### Fijian Drua V Moana Pasifika on 2023/05/27
 
 
-Average Margin: Fijian Drua by 9.5
+Average Margin: Fijian Drua by 9.0
 
 <p float="left">
-<img src="plots/performances_Fijian Drua_V_Moana Pasifika_13.png" width="32%" />
-<img src="plots/resultbar_Fijian Drua_V_Moana Pasifika_13.png" width="32%" />
-<img src="plots/spreads_Fijian Drua_V_Moana Pasifika_13.png" width="32%" />
+<img src="plots/performances_Fijian Drua_V_Moana Pasifika_14.png" width="32%" />
+<img src="plots/resultbar_Fijian Drua_V_Moana Pasifika_14.png" width="32%" />
+<img src="plots/spreads_Fijian Drua_V_Moana Pasifika_14.png" width="32%" />
 </p>
 
-### Brumbies V Chiefs on 2023/05/27
+### Crusaders V New South Wales Waratahs on 2023/05/27
 
 
-Average Margin: Chiefs by 2.7
+Average Margin: Crusaders by 14.4
 
 <p float="left">
-<img src="plots/performances_Brumbies_V_Chiefs_13.png" width="32%" />
-<img src="plots/resultbar_Brumbies_V_Chiefs_13.png" width="32%" />
-<img src="plots/spreads_Brumbies_V_Chiefs_13.png" width="32%" />
+<img src="plots/performances_Crusaders_V_New South Wales Waratahs_14.png" width="32%" />
+<img src="plots/resultbar_Crusaders_V_New South Wales Waratahs_14.png" width="32%" />
+<img src="plots/spreads_Crusaders_V_New South Wales Waratahs_14.png" width="32%" />
 </p>
 
 ### Blues V Hurricanes on 2023/05/27
 
 
-Average Margin: Blues by 7.5
+Average Margin: Blues by 7.9
 
 <p float="left">
-<img src="plots/performances_Blues_V_Hurricanes_13.png" width="32%" />
-<img src="plots/resultbar_Blues_V_Hurricanes_13.png" width="32%" />
-<img src="plots/spreads_Blues_V_Hurricanes_13.png" width="32%" />
+<img src="plots/performances_Blues_V_Hurricanes_14.png" width="32%" />
+<img src="plots/resultbar_Blues_V_Hurricanes_14.png" width="32%" />
+<img src="plots/spreads_Blues_V_Hurricanes_14.png" width="32%" />
 </p>
 
-## Week 14
-
-### Brumbies V Melbourne Rebels on 2023/06/02
+### Brumbies V Chiefs on 2023/05/27
 
 
-Average Margin: Brumbies by 16.3
+Average Margin: Chiefs by 1.1
 
 <p float="left">
-<img src="plots/performances_Brumbies_V_Melbourne Rebels_14.png" width="32%" />
-<img src="plots/resultbar_Brumbies_V_Melbourne Rebels_14.png" width="32%" />
-<img src="plots/spreads_Brumbies_V_Melbourne Rebels_14.png" width="32%" />
+<img src="plots/performances_Brumbies_V_Chiefs_14.png" width="32%" />
+<img src="plots/resultbar_Brumbies_V_Chiefs_14.png" width="32%" />
+<img src="plots/spreads_Brumbies_V_Chiefs_14.png" width="32%" />
 </p>
+
+## Week 15
 
 ### Blues V Highlanders on 2023/06/02
 
 
-Average Margin: Blues by 15.1
+Average Margin: Blues by 15.5
 
 <p float="left">
-<img src="plots/performances_Blues_V_Highlanders_14.png" width="32%" />
-<img src="plots/resultbar_Blues_V_Highlanders_14.png" width="32%" />
-<img src="plots/spreads_Blues_V_Highlanders_14.png" width="32%" />
+<img src="plots/performances_Blues_V_Highlanders_15.png" width="32%" />
+<img src="plots/resultbar_Blues_V_Highlanders_15.png" width="32%" />
+<img src="plots/spreads_Blues_V_Highlanders_15.png" width="32%" />
+</p>
+
+### Brumbies V Melbourne Rebels on 2023/06/02
+
+
+Average Margin: Brumbies by 17.0
+
+<p float="left">
+<img src="plots/performances_Brumbies_V_Melbourne Rebels_15.png" width="32%" />
+<img src="plots/resultbar_Brumbies_V_Melbourne Rebels_15.png" width="32%" />
+<img src="plots/spreads_Brumbies_V_Melbourne Rebels_15.png" width="32%" />
 </p>
 
 ### Fijian Drua V Queensland Reds on 2023/06/03
 
 
-Average Margin: Queensland Reds by 0.6
+Average Margin: Queensland Reds by 2.4
 
 <p float="left">
-<img src="plots/performances_Fijian Drua_V_Queensland Reds_14.png" width="32%" />
-<img src="plots/resultbar_Fijian Drua_V_Queensland Reds_14.png" width="32%" />
-<img src="plots/spreads_Fijian Drua_V_Queensland Reds_14.png" width="32%" />
-</p>
-
-### Western Force V Chiefs on 2023/06/03
-
-
-Average Margin: Chiefs by 16.0
-
-<p float="left">
-<img src="plots/performances_Western Force_V_Chiefs_14.png" width="32%" />
-<img src="plots/resultbar_Western Force_V_Chiefs_14.png" width="32%" />
-<img src="plots/spreads_Western Force_V_Chiefs_14.png" width="32%" />
-</p>
-
-### New South Wales Waratahs V Moana Pasifika on 2023/06/03
-
-
-Average Margin: New South Wales Waratahs by 16.3
-
-<p float="left">
-<img src="plots/performances_New South Wales Waratahs_V_Moana Pasifika_14.png" width="32%" />
-<img src="plots/resultbar_New South Wales Waratahs_V_Moana Pasifika_14.png" width="32%" />
-<img src="plots/spreads_New South Wales Waratahs_V_Moana Pasifika_14.png" width="32%" />
+<img src="plots/performances_Fijian Drua_V_Queensland Reds_15.png" width="32%" />
+<img src="plots/resultbar_Fijian Drua_V_Queensland Reds_15.png" width="32%" />
+<img src="plots/spreads_Fijian Drua_V_Queensland Reds_15.png" width="32%" />
 </p>
 
 ### Hurricanes V Crusaders on 2023/06/03
 
 
-Average Margin: Crusaders by 3.1
+Average Margin: Crusaders by 3.9
 
 <p float="left">
-<img src="plots/performances_Hurricanes_V_Crusaders_14.png" width="32%" />
-<img src="plots/resultbar_Hurricanes_V_Crusaders_14.png" width="32%" />
-<img src="plots/spreads_Hurricanes_V_Crusaders_14.png" width="32%" />
+<img src="plots/performances_Hurricanes_V_Crusaders_15.png" width="32%" />
+<img src="plots/resultbar_Hurricanes_V_Crusaders_15.png" width="32%" />
+<img src="plots/spreads_Hurricanes_V_Crusaders_15.png" width="32%" />
+</p>
+
+### Western Force V Chiefs on 2023/06/03
+
+
+Average Margin: Chiefs by 13.3
+
+<p float="left">
+<img src="plots/performances_Western Force_V_Chiefs_15.png" width="32%" />
+<img src="plots/resultbar_Western Force_V_Chiefs_15.png" width="32%" />
+<img src="plots/spreads_Western Force_V_Chiefs_15.png" width="32%" />
+</p>
+
+### New South Wales Waratahs V Moana Pasifika on 2023/06/03
+
+
+Average Margin: New South Wales Waratahs by 17.8
+
+<p float="left">
+<img src="plots/performances_New South Wales Waratahs_V_Moana Pasifika_15.png" width="32%" />
+<img src="plots/resultbar_New South Wales Waratahs_V_Moana Pasifika_15.png" width="32%" />
+<img src="plots/spreads_New South Wales Waratahs_V_Moana Pasifika_15.png" width="32%" />
 </p>
