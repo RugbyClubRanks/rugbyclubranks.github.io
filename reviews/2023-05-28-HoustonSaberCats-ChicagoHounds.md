@@ -28,34 +28,34 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Houston SaberCats by 0.9
+## Prediction with Player Minutes: Houston SaberCats by 1.2
 
 
-Chicago Hounds by 3.1 on a neutral field
+Chicago Hounds by 2.8 on a neutral field
 
 There were 13 large changes in win probability in this match
-## Prediction without Player Minutes: Houston SaberCats by 0.9
+## Prediction without Player Minutes: Houston SaberCats by 1.2
 
 
-Chicago Hounds by 3.1 on a neutral pitch
+Chicago Hounds by 2.8 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player      |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player              |   Home Minutes |
 |---------------:|:-----------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------------|---------------:|
-|             80 | George Thornton  |      50.86 |                 3 |        1 |                10 |      56.07 | Rob Cobb                 |             80 |
-|             80 | Lindsey Stevens  |      54.32 |                 6 |        2 |                18 |      60.58 | Joseph Taufete'e         |             80 |
-|             80 | Paddy Ryan       |      66.83 |                24 |        3 |               nan |      67.32 | Pono Davis               |             80 |
-|             80 | John Cullen      |      74.82 |                42 |        4 |                61 |      83.25 | Marno Redelinghuys       |             80 |
-|             80 | Cam Dodson       |      73.84 |                40 |        5 |                18 |      61.95 | Nathan Den Hoedt         |             80 |
-|             80 | Mike Matarazzo   |       6.68 |                 0 |        6 |                10 |      55.84 | Malon Maurice Al-Jiboori |             80 |
-|             80 | Maclean Jones    |      64.02 |                22 |        7 |                65 |      84.43 | Wynand Grassmann         |             80 |
-|             80 | Luke White       |      60.17 |                16 |        8 |                40 |      74.23 | Gideon van Wyk           |             80 |
-|             80 | Sean Yacoubian   |      68.33 |                28 |        9 |                15 |      59.89 | Dillon Smit              |             80 |
-|             80 | Luke Carty       |      62.73 |                20 |       10 |               nan |      60.07 | Robert Povey             |             80 |
-|             80 | Julian Dominguez |      67.52 |                28 |       11 |                18 |      61.25 | Vereniki Tikoisolomone   |             80 |
-|             80 | Bill Meakes      |      65.67 |                24 |       12 |                33 |      70.57 | Louritz van der Schyff   |             80 |
-|             80 | Bryce Campbell   |      56.56 |                12 |       13 |                 5 |      49.13 | Dominic Akina            |             80 |
-|             80 | Matai Leuta      |      68.01 |                29 |       14 |                 7 |      49.09 | Christian Dyer           |             80 |
-|             80 | Chris Mattina    |     137.85 |                98 |       15 |                10 |      53.53 | Drew Wild                |             80 |
+|             80 | George Thornton  |      50.77 |                 3 |        1 |                12 |      57.93 | Rob Cobb                 |             80 |
+|             80 | Lindsey Stevens  |      60.93 |                10 |        2 |                14 |      57.75 | Joseph Taufete'e         |             80 |
+|             80 | Paddy Ryan       |      69.26 |                30 |        3 |               nan |      69.06 | Pono Davis               |             80 |
+|             80 | John Cullen      |      75.07 |                43 |        4 |                54 |      80.3  | Marno Redelinghuys       |             80 |
+|             80 | Cam Dodson       |      71.77 |                34 |        5 |                16 |      61.12 | Nathan Den Hoedt         |             80 |
+|             80 | Mike Matarazzo   |       7.92 |                 0 |        6 |                15 |      59.8  | Malon Maurice Al-Jiboori |             80 |
+|             80 | Maclean Jones    |      60.2  |                16 |        7 |                58 |      81.54 | Wynand Grassmann         |             80 |
+|             80 | Luke White       |      61.19 |                16 |        8 |                51 |      79.63 | Gideon van Wyk           |             80 |
+|             80 | Sean Yacoubian   |      68.34 |                28 |        9 |                25 |      67.06 | Dillon Smit              |             80 |
+|             80 | Luke Carty       |      61.3  |                17 |       10 |               nan |      58.52 | Robert Povey             |             80 |
+|             80 | Julian Dominguez |      69.4  |                31 |       11 |                31 |      69.02 | Vereniki Tikoisolomone   |             80 |
+|             80 | Bill Meakes      |      66.94 |                26 |       12 |                25 |      66.49 | Louritz van der Schyff   |             80 |
+|             80 | Bryce Campbell   |      62.26 |                18 |       13 |                 6 |      50.72 | Dominic Akina            |             80 |
+|             80 | Matai Leuta      |      67.91 |                29 |       14 |                 7 |      48.78 | Christian Dyer           |             80 |
+|             80 | Chris Mattina    |     138.74 |                99 |       15 |                12 |      55.91 | Drew Wild                |             80 |
 

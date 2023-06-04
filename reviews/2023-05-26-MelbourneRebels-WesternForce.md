@@ -44,26 +44,26 @@ Western Force by 3.5 on a neutral pitch
 |   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player       |   Home Minutes |
 |---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------|---------------:|
 |             47 | Angus Wagner          |      79.17 |                53 |        1 |                84 |      94.57 | Matt Gibbon       |             71 |
-|             70 | Folau Fainga'a        |     111.21 |                95 |        2 |                50 |      77.76 | Jordan Uelese     |             78 |
-|             47 | Siosifa Amone         |      89.58 |               nan |        3 |                81 |      92.6  | Sam Talakai       |             64 |
-|             41 | Felix Kalapu          |      39.66 |                 2 |        4 |                61 |      83.13 | Josh Canham       |             80 |
-|             47 | Jeremy Williams       |      82.69 |                60 |        5 |                65 |      84.69 | Matt Philip       |             70 |
-|             80 | Michael Wells         |      98.58 |                85 |        6 |                36 |      71.92 | Josh Kemeny       |             80 |
-|             80 | Carlo Tizzano         |      93.17 |                79 |        7 |                70 |      86.83 | Brad Wilkin       |             80 |
-|             70 | Rahboni Vosayaco      |     107.26 |                92 |        8 |                59 |      82.5  | Richard Hardwick  |             70 |
-|             70 | Issak Fines-Leleiwasa |      96.24 |                80 |        9 |                87 |     101.56 | Ryan Louwrens     |             70 |
-|             71 | Max Burey             |      88.32 |                67 |       10 |                62 |      85.69 | Carter Gordon     |             80 |
-|             80 | Manasa Mataele        |     104.79 |                90 |       11 |                96 |     118.54 | Monty Ioane       |             76 |
-|             80 | Hamish Stewart        |     129.45 |                98 |       12 |                85 |     101.05 | Reece Hodge       |             80 |
-|             80 | Sam Spink             |     101.33 |                86 |       13 |                59 |      83.1  | Lukas Ripley      |             49 |
-|             78 | Zach Kibirige         |      73.02 |                39 |       14 |                44 |      75.49 | Lachie Anderson   |             80 |
-|             80 | Chase Tiatia          |      87.99 |                65 |       15 |                87 |     104.04 | Andrew Kellaway   |             80 |
-|             10 | Tom Horton            |      97.95 |                85 |       16 |               nan |      83.27 | Theo Fourie       |              2 |
-|             33 | Marley Pearce         |      84.35 |               nan |       17 |               nan |      89.67 | Isaac Aedo Kailea |              9 |
-|             33 | Bo Abra               |      72.79 |               nan |       18 |                67 |      85.17 | Pone Fa'amausili  |             16 |
-|             33 | Izack Rodda           |      91.63 |               nan |       19 |                47 |      77.75 | Trevor Hosea      |             10 |
-|             39 | Tim Anstee            |      71.44 |                26 |       20 |                52 |      78.43 | Vaiolini Ekuasi   |             10 |
-|             10 | Isi Naisarani         |      73.35 |                37 |       21 |                76 |      93.98 | James Tuttle      |             10 |
-|             10 | Ian Prior             |      94.16 |                77 |       22 |                49 |      79.78 | Nick Jooste       |             31 |
-|             11 | George Poolman        |      87.07 |               nan |       23 |                51 |      80.21 | Joe Pincus        |              4 |
+|             70 | Folau Fainga'a        |     111.23 |                95 |        2 |                50 |      77.76 | Jordan Uelese     |             78 |
+|             47 | Siosifa Amone         |      89.62 |               nan |        3 |                81 |      92.6  | Sam Talakai       |             64 |
+|             41 | Felix Kalapu          |      39.72 |                 2 |        4 |                60 |      83.1  | Josh Canham       |             80 |
+|             47 | Jeremy Williams       |      82.64 |                59 |        5 |                63 |      84.69 | Matt Philip       |             70 |
+|             80 | Michael Wells         |      98.57 |                86 |        6 |                36 |      71.9  | Josh Kemeny       |             80 |
+|             80 | Carlo Tizzano         |      92.63 |                78 |        7 |                69 |      86.81 | Brad Wilkin       |             80 |
+|             70 | Rahboni Vosayaco      |     107.07 |                91 |        8 |                58 |      82.5  | Richard Hardwick  |             70 |
+|             70 | Issak Fines-Leleiwasa |      96.28 |                81 |        9 |                87 |     101.55 | Ryan Louwrens     |             70 |
+|             71 | Max Burey             |      88.32 |                66 |       10 |                61 |      85.67 | Carter Gordon     |             80 |
+|             80 | Manasa Mataele        |     104.81 |                90 |       11 |                97 |     118.53 | Monty Ioane       |             76 |
+|             80 | Hamish Stewart        |     129.55 |                98 |       12 |                85 |     101.04 | Reece Hodge       |             80 |
+|             80 | Sam Spink             |     101.31 |                86 |       13 |                59 |      83.07 | Lukas Ripley      |             49 |
+|             78 | Zach Kibirige         |      72.98 |                38 |       14 |                45 |      75.47 | Lachie Anderson   |             80 |
+|             80 | Chase Tiatia          |      88.02 |                64 |       15 |                87 |     104.03 | Andrew Kellaway   |             80 |
+|             10 | Tom Horton            |      97.97 |                85 |       16 |               nan |      83.26 | Theo Fourie       |              2 |
+|             33 | Marley Pearce         |      84.38 |               nan |       17 |               nan |      89.67 | Isaac Aedo Kailea |              9 |
+|             33 | Bo Abra               |      72.78 |               nan |       18 |                68 |      85.17 | Pone Fa'amausili  |             16 |
+|             33 | Izack Rodda           |      91.63 |               nan |       19 |                46 |      77.73 | Trevor Hosea      |             10 |
+|             39 | Tim Anstee            |      71.6  |                26 |       20 |                51 |      78.41 | Vaiolini Ekuasi   |             10 |
+|             10 | Isi Naisarani         |      73.35 |                36 |       21 |                77 |      93.98 | James Tuttle      |             10 |
+|             10 | Ian Prior             |      94.24 |                78 |       22 |                48 |      79.78 | Nick Jooste       |             31 |
+|             11 | George Poolman        |      87.11 |               nan |       23 |                50 |      80.2  | Joe Pincus        |              4 |
 

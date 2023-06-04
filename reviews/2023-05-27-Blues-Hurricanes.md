@@ -43,27 +43,27 @@ Hurricanes by 6.6 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player       |   Home Minutes |
 |---------------:|:---------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------|---------------:|
-|             60 | Xavier Numia         |     105.55 |                93 |        1 |                92 |     102.98 | Ofa Tu'ungafasi   |             54 |
-|             75 | Asafo Aumua          |     112.45 |                96 |        2 |                69 |      84.91 | Ricky Riccitelli  |             60 |
+|             60 | Xavier Numia         |     105.54 |                93 |        1 |                92 |     102.97 | Ofa Tu'ungafasi   |             54 |
+|             75 | Asafo Aumua          |     112.45 |                96 |        2 |                68 |      84.9  | Ricky Riccitelli  |             60 |
 |             60 | Tyrel Lomax          |     134.69 |                99 |        3 |                92 |     103.97 | Nepo Laulala      |             55 |
-|             80 | James Blackwell      |      86.43 |                68 |        4 |                98 |     129.37 | Patrick Tuipulotu |             80 |
-|             55 | Isaia Walker-Leawere |     105    |                90 |        5 |                86 |      99.86 | Cameron Suafoa    |             60 |
-|             72 | Caleb Delany         |      98.82 |                83 |        6 |                94 |     110.51 | Akira Ioane       |             80 |
-|             80 | Du'Plessis Kirifi    |      98.03 |                85 |        7 |                72 |      88.29 | Adrian Choat      |             54 |
-|             80 | Ardie Savea          |     118.98 |                98 |        8 |                97 |     115.37 | Hoskins Sotutu    |             80 |
-|             80 | Cam Roigard          |      98.46 |                83 |        9 |                82 |      98.21 | Finlay Christie   |             72 |
-|             58 | Aidan Morgan         |      90.22 |                71 |       10 |                87 |     102.75 | Harry Plummer     |             54 |
-|             80 | Kini Naholo          |     112.82 |                95 |       11 |                82 |      96.38 | Caleb Clarke      |             80 |
-|             80 | Jordie Barrett       |     108.42 |                92 |       12 |                72 |      91.28 | Bryce Heem        |             80 |
-|             80 | Billy Proctor        |     111.28 |                93 |       13 |                57 |      82    | Rieko Ioane       |             80 |
-|              4 | Julian Savea         |     115.93 |                96 |       14 |                91 |     105.68 | Mark Telea        |             80 |
-|             80 | Joshua Moorby        |      85.57 |                60 |       15 |                67 |      89.24 | Zarn Sullivan     |             80 |
+|             80 | James Blackwell      |      86.43 |                67 |        4 |                98 |     129.36 | Patrick Tuipulotu |             80 |
+|             55 | Isaia Walker-Leawere |     105    |                90 |        5 |                85 |      99.84 | Cameron Suafoa    |             60 |
+|             72 | Caleb Delany         |      98.82 |                83 |        6 |                94 |     110.5  | Akira Ioane       |             80 |
+|             80 | Du'Plessis Kirifi    |      98.03 |                85 |        7 |                71 |      88.24 | Adrian Choat      |             54 |
+|             80 | Ardie Savea          |     118.98 |                98 |        8 |                97 |     115.36 | Hoskins Sotutu    |             80 |
+|             80 | Cam Roigard          |      98.46 |                83 |        9 |                82 |      98.2  | Finlay Christie   |             72 |
+|             58 | Aidan Morgan         |      90.21 |                71 |       10 |                87 |     102.71 | Harry Plummer     |             54 |
+|             80 | Kini Naholo          |     112.81 |                94 |       11 |                82 |      96.37 | Caleb Clarke      |             80 |
+|             80 | Jordie Barrett       |     108.42 |                92 |       12 |                72 |      91.26 | Bryce Heem        |             80 |
+|             80 | Billy Proctor        |     111.28 |                93 |       13 |                57 |      81.99 | Rieko Ioane       |             80 |
+|              4 | Julian Savea         |     115.93 |                95 |       14 |                91 |     105.67 | Mark Telea        |             80 |
+|             80 | Joshua Moorby        |      85.56 |                59 |       15 |                66 |      89.19 | Zarn Sullivan     |             80 |
 |              5 | Hame Faiva           |      78    |                49 |       16 |                97 |     119.7  | Kurt Eklund       |             20 |
-|             20 | Tevita Mafileo       |      98    |                87 |       17 |                30 |      69.23 | Jordan Lay        |             26 |
-|             20 | Owen Franks          |     103.88 |                93 |       18 |                68 |      86.09 | Marcel Renata     |             25 |
+|             20 | Tevita Mafileo       |      98    |                86 |       17 |                30 |      69.23 | Jordan Lay        |             26 |
+|             20 | Owen Franks          |     103.88 |                93 |       18 |                69 |      86.08 | Marcel Renata     |             25 |
 |             25 | Justin Sangster      |     109.2  |                92 |       19 |                74 |      91.39 | James Tucker      |             20 |
 |              8 | Brayden Iose         |      56.59 |                11 |       20 |                32 |      69.47 | Anton Segner      |             26 |
 |             14 | Jamie Booth          |      53.01 |                 7 |       21 |                79 |      94.74 | Sam Nock          |              8 |
-|             22 | Brett Cameron        |      96.24 |                79 |       22 |                87 |     104.78 | Stephen Perofeta  |             26 |
-|             62 | Salesi Rayasi        |      86.36 |                65 |       23 |                34 |      70.8  | AJ Lam            |              0 |
+|             22 | Brett Cameron        |      96.24 |                79 |       22 |                88 |     104.78 | Stephen Perofeta  |             26 |
+|             62 | Salesi Rayasi        |      86.35 |                65 |       23 |                34 |      70.78 | AJ Lam            |              0 |
 

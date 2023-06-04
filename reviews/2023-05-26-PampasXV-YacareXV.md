@@ -41,19 +41,19 @@ Yacare XV by 2.0 on a neutral pitch
 
 |   Away Minutes | Away Player             |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                    |   Home Minutes |
 |---------------:|:------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------------------|---------------:|
-|             80 | Lucas Noguera Paz       |      68.95 |                29 |        1 |                55 |      75.5  | Miguel Angel Prince            |             80 |
-|             80 | Mariano Muntaner        |      46.38 |                 5 |        2 |                34 |      69.82 | Ramiro Gurovich                |             80 |
-|             80 | Facundo Pomponio        |      76.49 |                47 |        3 |                24 |      65.87 | Javier Angel Coronel           |             80 |
-|             80 | Lucas Sommer            |     100.51 |                87 |        4 |                32 |      69.9  | Lorenzo Colidio                |             80 |
-|             80 | Mariano Garcete Elli    |      62.88 |                19 |        5 |                 1 |      33.15 | Eliseo Fourcade                |             80 |
-|             80 | Felipe Villagran        |      62.84 |                20 |        6 |                43 |      74.37 | Nicolas Damorim                |             80 |
-|             80 | Felipe Puertas          |      94.12 |                81 |        7 |                20 |      63.13 | Manuel Bernstein               |             80 |
-|             80 | Juan Cruz Perez Rachel  |      51.68 |                 7 |        8 |                21 |      64.01 | Santiago Ruiz                  |             80 |
-|             80 | Ignacio Inchauspe       |      87.71 |                69 |        9 |                52 |      80.13 | Rafael Iriarte                 |             80 |
-|             80 | Federico Cacciabúe      |      61.89 |                19 |       10 |                12 |      57.2  | Joaquin Lamas                  |             80 |
-|             80 | Juan Daniel Gonzalez    |      41.29 |                 2 |       11 |                94 |     110.93 | Tomas Passaro                  |             80 |
-|             80 | Juan David Agudelo Rojo |      67.27 |                27 |       12 |                22 |      64.49 | Felipe de la Vega              |             80 |
-|             80 | Ramiro Amarilla         |      66.3  |                25 |       13 |                47 |      76.91 | Juan Pablo Castro Collado      |             80 |
-|             80 | Tomas Acosta Pimentel   |      89.02 |                69 |       14 |                23 |      64.76 | Benjamin Elizalde              |             80 |
-|             80 | Nicolas Picasso Cerdera |      64.4  |                21 |       15 |                 6 |      51.67 | Eliseo Nicolas Morales Abraham |             80 |
+|             80 | Lucas Noguera Paz       |      70.02 |                31 |        1 |                54 |      75.85 | Miguel Angel Prince            |             80 |
+|             80 | Mariano Muntaner        |      46.76 |                 5 |        2 |                34 |      69.2  | Ramiro Gurovich                |             80 |
+|             80 | Facundo Pomponio        |      77.18 |                48 |        3 |                22 |      65.51 | Javier Angel Coronel           |             80 |
+|             80 | Lucas Sommer            |     100.73 |                87 |        4 |                30 |      69.38 | Lorenzo Colidio                |             80 |
+|             80 | Mariano Garcete Elli    |      62.79 |                19 |        5 |                 1 |      33.38 | Eliseo Fourcade                |             80 |
+|             80 | Felipe Villagran        |      62.62 |                19 |        6 |                43 |      74.56 | Nicolas Damorim                |             80 |
+|             80 | Felipe Puertas          |      94.36 |                82 |        7 |                20 |      63.91 | Manuel Bernstein               |             80 |
+|             80 | Juan Cruz Perez Rachel  |      51.8  |                 7 |        8 |                21 |      64.11 | Santiago Ruiz                  |             80 |
+|             80 | Ignacio Inchauspe       |      87.67 |                68 |        9 |                53 |      80.51 | Rafael Iriarte                 |             80 |
+|             80 | Federico Cacciabúe      |      62.65 |                19 |       10 |                12 |      57.3  | Joaquin Lamas                  |             80 |
+|             80 | Juan Daniel Gonzalez    |      40.88 |                 2 |       11 |                94 |     111.47 | Tomas Passaro                  |             80 |
+|             80 | Juan David Agudelo Rojo |      67.43 |                27 |       12 |                23 |      65.35 | Felipe de la Vega              |             80 |
+|             80 | Ramiro Amarilla         |      66.46 |                25 |       13 |                48 |      77.23 | Juan Pablo Castro Collado      |             80 |
+|             80 | Tomas Acosta Pimentel   |      88.78 |                69 |       14 |                24 |      64.9  | Benjamin Elizalde              |             80 |
+|             80 | Nicolas Picasso Cerdera |      64.51 |                21 |       15 |                 6 |      52    | Eliseo Nicolas Morales Abraham |             80 |
 

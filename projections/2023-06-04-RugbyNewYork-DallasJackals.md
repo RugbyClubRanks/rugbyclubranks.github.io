@@ -28,8 +28,8 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Imputed Lineups: Rugby New York by 5.6
+## Prediction with Imputed Lineups: Rugby New York by 5.1
 
 
-Rugby New York by 1.6 on a neutral pitch
+Rugby New York by 1.1 on a neutral pitch
 

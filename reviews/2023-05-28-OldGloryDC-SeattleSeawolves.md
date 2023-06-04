@@ -28,34 +28,34 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Seattle Seawolves by 8.3
+## Prediction with Player Minutes: Seattle Seawolves by 5.8
 
 
-Seattle Seawolves by 12.3 on a neutral field
+Seattle Seawolves by 9.8 on a neutral field
 
 There were 4 large changes in win probability in this match
-## Prediction without Player Minutes: Seattle Seawolves by 8.3
+## Prediction without Player Minutes: Seattle Seawolves by 5.8
 
 
-Seattle Seawolves by 12.3 on a neutral pitch
+Seattle Seawolves by 9.8 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player          |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player              |   Home Minutes |
 |---------------:|:---------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------------|---------------:|
-|             80 | Jake Turnbull        |      82.74 |                64 |        1 |                 0 |      27.19 | Jack Iscaro              |             80 |
-|             80 | James Malcolm        |      54.68 |                10 |        2 |                31 |      68.18 | Nic Souchon              |             80 |
-|             80 | Sam Matenga          |      61.32 |                19 |        3 |                 9 |      55.62 | Kyle Stewart             |             80 |
-|             80 | Samu Manoa           |      61.69 |                18 |        4 |                 7 |      50.89 | Tevita Naqali            |             80 |
-|             80 | Taylor Krumrei       |      71.97 |                35 |        5 |                17 |      61    | Kyle Baillie             |             80 |
-|             80 | Ben Landry           |      58.71 |                14 |        6 |                42 |      74.05 | Lautaro Ezequiel Bavaro  |             80 |
-|             80 | Charles Elton        |      74.56 |                43 |        7 |                37 |      72.06 | Niko Jones               |             80 |
-|             80 | Ronan Foley          |      49.18 |                 5 |        8 |                79 |      94.19 | Jamason Fa'anana Schultz |             80 |
-|             80 | JP Smith             |      84.55 |                62 |        9 |                 7 |      52.46 | Danny Joseph Tusitala    |             80 |
-|             80 | AJ Alatimu           |      55.39 |                10 |       10 |                 6 |      49.65 | Joaquin Diaz Bonilla     |             80 |
-|             80 | Conner Mooneyham     |      26.31 |                 0 |       11 |               nan |      58.02 | John Rizzo               |             80 |
-|             80 | Lauina Futi          |     125.25 |                98 |       12 |                19 |      61.83 | Gradyn Bowd              |             80 |
-|             80 | Tevita Lopeti        |      58.92 |                15 |       13 |                 0 |      23.66 | William Talataina-Mu     |             80 |
-|             80 | Martin Iosefo        |      57.22 |                13 |       14 |                12 |      56.44 | Peni Lasaqa              |             80 |
-|             80 | Adriaan John Carelse |      73.5  |                38 |       15 |                26 |      68.04 | Kurt Baker               |             80 |
+|             80 | Jake Turnbull        |      81.82 |                62 |        1 |                 0 |      27.5  | Jack Iscaro              |             80 |
+|             80 | James Malcolm        |      54.61 |                 9 |        2 |                31 |      67.75 | Nic Souchon              |             80 |
+|             80 | Sam Matenga          |      61.63 |                19 |        3 |                12 |      58.09 | Kyle Stewart             |             80 |
+|             80 | Samu Manoa           |      62.4  |                18 |        4 |                 4 |      46.53 | Tevita Naqali            |             80 |
+|             80 | Taylor Krumrei       |      72.88 |                38 |        5 |                16 |      60.76 | Kyle Baillie             |             80 |
+|             80 | Ben Landry           |      59.61 |                15 |        6 |                47 |      76.21 | Lautaro Ezequiel Bavaro  |             80 |
+|             80 | Charles Elton        |      74.65 |                44 |        7 |                35 |      70.6  | Niko Jones               |             80 |
+|             80 | Ronan Foley          |      49.85 |                 6 |        8 |                80 |      94.92 | Jamason Fa'anana Schultz |             80 |
+|             80 | JP Smith             |      84.55 |                62 |        9 |                 8 |      53.29 | Danny Joseph Tusitala    |             80 |
+|             80 | AJ Alatimu           |      56.41 |                11 |       10 |                11 |      57.3  | Joaquin Diaz Bonilla     |             80 |
+|             80 | Conner Mooneyham     |      23.99 |                 0 |       11 |               nan |      61.02 | John Rizzo               |             80 |
+|             80 | Lauina Futi          |     125.47 |                98 |       12 |                30 |      70.01 | Gradyn Bowd              |             80 |
+|             80 | Tevita Lopeti        |      60.5  |                16 |       13 |                 1 |      38.89 | William Talataina-Mu     |             80 |
+|             80 | Martin Iosefo        |      60.75 |                17 |       14 |                22 |      63.94 | Peni Lasaqa              |             80 |
+|             80 | Adriaan John Carelse |      73.88 |                38 |       15 |                14 |      58.4  | Kurt Baker               |             80 |
 

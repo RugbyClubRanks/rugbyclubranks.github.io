@@ -28,34 +28,34 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Utah Warriors by 6.6
+## Prediction with Player Minutes: Utah Warriors by 5.6
 
 
-Utah Warriors by 2.6 on a neutral field
+Utah Warriors by 1.6 on a neutral field
 
 There were 8 large changes in win probability in this match
-## Prediction without Player Minutes: Utah Warriors by 6.6
+## Prediction without Player Minutes: Utah Warriors by 5.6
 
 
-Utah Warriors by 2.6 on a neutral pitch
+Utah Warriors by 1.6 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player            |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player             |   Home Minutes |
 |---------------:|:-----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------|---------------:|
-|             80 | Will Burke             |      38.61 |                 1 |        1 |                17 |      59.97 | Emerson Prior           |             80 |
-|             80 | Sidney Tobias          |      45.89 |                 4 |        2 |                11 |      54.89 | Henry Bell              |             80 |
-|             80 | John Roy Jenkinson     |      51.86 |                 6 |        3 |                11 |      55.26 | Angus McLellan          |             80 |
-|             80 | Justin Johan Basson    |      43.39 |                 3 |        4 |                 4 |      46.92 | Jamie Lane              |             80 |
-|             80 | Christian Nahuel Milan |      52.12 |                10 |        5 |                10 |      55.01 | Onehunga Havili Kaufusi |             80 |
-|             80 | Connor Cook            |      33.82 |                11 |        6 |                27 |      66.76 | Bailey Wilson           |             80 |
-|             80 | Matthew Heaton         |      36.77 |                 1 |        7 |                69 |      86.3  | Lance Williams          |             80 |
-|             80 | Vili Helu              |      97.95 |                85 |        8 |                36 |      72.29 | Thomas Tu'avao          |             80 |
-|             80 | Ryan Rees              |      55.68 |                13 |        9 |                19 |      63.42 | Zion Going              |             80 |
-|             80 | Christopher Hilsenbeck |      74.47 |                36 |       10 |                11 |      55.86 | Joel Hodgson            |             80 |
-|             80 | Jack Shaw              |      61.93 |                20 |       11 |                 2 |      39.64 | Joseph Mano             |             80 |
-|             80 | Martini Talapusi       |      73.34 |                42 |       12 |                 7 |      52.36 | Calvin Whiting          |             80 |
-|             80 | Will Leonard           |     141.29 |                99 |       13 |                92 |     109.32 | Tyler Luke Fisher       |             80 |
-|             80 | Te Rangatira Waitokia  |      35.4  |                 1 |       14 |                 9 |      52.38 | Mika Kruse              |             80 |
-|             80 | Rewita Biddle          |      51.13 |                 8 |       15 |                 7 |      48.82 | Caleb Makene            |             80 |
+|             80 | Will Burke             |      38.37 |                 1 |        1 |                17 |      60.18 | Emerson Prior           |             80 |
+|             80 | Sidney Tobias          |      47.53 |                 5 |        2 |                12 |      56.54 | Henry Bell              |             80 |
+|             80 | John Roy Jenkinson     |      45.99 |                 3 |        3 |                11 |      56.08 | Angus McLellan          |             80 |
+|             80 | Justin Johan Basson    |      44.87 |                 3 |        4 |                 4 |      46.75 | Jamie Lane              |             80 |
+|             80 | Christian Nahuel Milan |      56.49 |                14 |        5 |                12 |      57.09 | Onehunga Havili Kaufusi |             80 |
+|             80 | Connor Cook            |      33.87 |                11 |        6 |                33 |      69.86 | Bailey Wilson           |             80 |
+|             80 | Matthew Heaton         |      37.4  |                 1 |        7 |                73 |      89.23 | Lance Williams          |             80 |
+|             80 | Vili Helu              |     100.4  |                87 |        8 |                42 |      75.22 | Thomas Tu'avao          |             80 |
+|             80 | Ryan Rees              |      63.62 |                25 |        9 |                19 |      63.78 | Zion Going              |             80 |
+|             80 | Christopher Hilsenbeck |      74.92 |                36 |       10 |                10 |      54.91 | Joel Hodgson            |             80 |
+|             80 | Jack Shaw              |      61.13 |                18 |       11 |                 3 |      42.43 | Joseph Mano             |             80 |
+|             80 | Martini Talapusi       |      80.92 |                56 |       12 |                 7 |      51.89 | Calvin Whiting          |             80 |
+|             80 | Will Leonard           |     143.6  |                99 |       13 |                92 |     109.55 | Tyler Luke Fisher       |             80 |
+|             80 | Te Rangatira Waitokia  |      36.91 |                 2 |       14 |                 9 |      52.65 | Mika Kruse              |             80 |
+|             80 | Rewita Biddle          |      55.88 |                12 |       15 |                 9 |      51.34 | Caleb Makene            |             80 |
 
