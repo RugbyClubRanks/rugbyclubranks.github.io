@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Griquas by 7.7
+## Prediction with Player Minutes: Western Province by 3.5
 
 
-Griquas by 3.7 on a neutral field
+Western Province by 7.5 on a neutral field
 
-There were 13 large changes in win probability in this match
-## Prediction without Player Minutes: Griquas by 8.5
+There were 16 large changes in win probability in this match
+## Prediction without Player Minutes: Western Province by 5.4
 
 
-Griquas by 4.5 on a neutral pitch
+Western Province by 9.4 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player                       |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                |   Home Minutes |
 |---------------:|:----------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------------|---------------:|
-|             43 | Alistair Fernando Vermaak         |      72.51 |                35 |        1 |                57 |      80.88 | Kudzwai Dube               |             62 |
-|             43 | Siyabonga Ntubeni                 |      68.33 |                41 |        2 |                41 |      73.61 | Janco Uys                  |             56 |
-|             66 | Johan Neethling Fouche            |      78.34 |                46 |        3 |                60 |      83.4  | Justin Forwood             |             43 |
-|             51 | Adre Smith                        |      62.33 |                27 |        4 |                50 |      78.71 | Dylan Sjoblom              |             71 |
-|             51 | Connor Evans                      |      59.71 |                22 |        5 |                44 |      75.59 | Derrick Pretorius          |             80 |
-|             80 | Marcel Theunissen                 |      76.69 |                47 |        6 |                65 |      84.74 | Thabo Ndimande             |             53 |
-|             80 | Ben-Jason Dixon                   |     102.26 |                89 |        7 |                83 |      96.04 | Hanru Sirgel               |             80 |
-|             66 | Hacjivah Dayimani                 |      89.29 |                74 |        8 |                46 |      77.55 | Carl Els                   |             80 |
-|             67 | Albertus Paul de Wet              |      80.25 |                52 |        9 |                54 |      79.68 | Johan Mulder               |             80 |
-|             80 | Jurie Matthee                     |      75.38 |               nan |       10 |                71 |      90.41 | Lubabalo Dobela            |             77 |
-|             80 | Leolin Lucien Zas                 |      87.54 |                70 |       11 |                56 |      80.8  | Luther Obi                 |             80 |
-|             55 | Juan de Jongh                     |      61.91 |                26 |       12 |                59 |      83.39 | Tertius Kruger             |             80 |
-|             80 | Adriaan Ruhan Nel                 |      74.21 |                42 |       13 |                91 |     106.73 | Jay Cee Nel                |             67 |
-|             80 | Angelo Davids                     |     115.47 |                95 |       14 |                43 |      74.96 | Rosco Shane Specman        |             80 |
-|             80 | Clayton Blommetjies               |      79.67 |                48 |       15 |                55 |      83.48 | George Alexander Whitehead |             80 |
-|             37 | Andre-Hugo Venter                 |      74.55 |                46 |       16 |                50 |      81.74 | Cebolenkosi Dlamini        |             37 |
-|             37 | Leon Lyons                        |      79.21 |                56 |       17 |                19 |      65.16 | Stephan Smit               |             27 |
-|             29 | Ruben van Heerden                 |      81.18 |                55 |       18 |                70 |      86.02 | Sean Swart                 |             24 |
-|             29 | Willem Gerhardus Engelbrecht      |      82.5  |                62 |       19 |                85 |     102.53 | Ashlon Davids              |             18 |
-|             25 | Cornel Smit                       |      81.16 |                65 |       20 |                33 |      71.06 | Sango (Saida) Xamlashe     |             13 |
-|             14 | Lee-Marvin Lofty Siyanda Mazibuko |      93.91 |                89 |       21 |                24 |      66.77 | Johan Retief               |              9 |
-|             14 | Louw Nel                          |      60.76 |                23 |       22 |                76 |      94.09 | Eduard (Eddie) Fouche      |              3 |
-|             13 | Godlen Herschelle Derrick Masimla |      69.72 |                42 |       23 |               nan |     nan    | nan                        |            nan |
+|             43 | Alistair Fernando Vermaak         |      72.12 |                34 |        1 |                57 |      80.65 | Kudzwai Dube               |             62 |
+|             43 | Siyabonga Ntubeni                 |      92.23 |                80 |        2 |                41 |      73.67 | Janco Uys                  |             56 |
+|             66 | Johan Neethling Fouche            |      78.78 |                47 |        3 |                51 |      79.31 | Justin Forwood             |             43 |
+|             51 | Adre Smith                        |      88.02 |                70 |        4 |                52 |      79.46 | Dylan Sjoblom              |             71 |
+|             51 | Connor Evans                      |      92.59 |                77 |        5 |                35 |      72.1  | Derrick Pretorius          |             80 |
+|             80 | Marcel Theunissen                 |      76.59 |                47 |        6 |                68 |      85.83 | Thabo Ndimande             |             53 |
+|             80 | Ben-Jason Dixon                   |     101.83 |                89 |        7 |                82 |      94.61 | Hanru Sirgel               |             80 |
+|             66 | Hacjivah Dayimani                 |      88.74 |                73 |        8 |                38 |      73.66 | Carl Els                   |             80 |
+|             67 | Albertus Paul de Wet              |      80.75 |                52 |        9 |                46 |      77.25 | Johan Mulder               |             80 |
+|             80 | Jurie Matthee                     |      84.49 |               nan |       10 |                65 |      88.22 | Lubabalo Dobela            |             77 |
+|             80 | Leolin Lucien Zas                 |      87.38 |                70 |       11 |                53 |      78.95 | Luther Obi                 |             80 |
+|             55 | Juan de Jongh                     |      82.06 |                57 |       12 |                57 |      82.26 | Tertius Kruger             |             80 |
+|             80 | Adriaan Ruhan Nel                 |      74.05 |                41 |       13 |                90 |     106.11 | Jay Cee Nel                |             67 |
+|             80 | Angelo Davids                     |     114.66 |                95 |       14 |                39 |      72.72 | Rosco Shane Specman        |             80 |
+|             80 | Clayton Blommetjies               |      75.72 |                41 |       15 |                51 |      81.52 | George Alexander Whitehead |             80 |
+|             37 | Andre-Hugo Venter                 |      74.68 |                38 |       16 |                47 |      80.08 | Cebolenkosi Dlamini        |             37 |
+|             37 | Leon Lyons                        |      79.58 |                53 |       17 |                20 |      66.22 | Stephan Smit               |             27 |
+|             29 | Ruben van Heerden                 |      81.34 |                57 |       18 |                59 |      81.85 | Sean Swart                 |             24 |
+|             29 | Willem Gerhardus Engelbrecht      |      82.61 |                62 |       19 |                84 |     102.25 | Ashlon Davids              |             18 |
+|             25 | Cornel Smit                       |     104.78 |                89 |       20 |                37 |      73.45 | Sango (Saida) Xamlashe     |             13 |
+|             14 | Lee-Marvin Lofty Siyanda Mazibuko |     121.81 |                98 |       21 |                21 |      66.22 | Johan Retief               |              9 |
+|             14 | Louw Nel                          |      79.7  |                50 |       22 |                76 |      94.28 | Eduard (Eddie) Fouche      |              3 |
+|             13 | Godlen Herschelle Derrick Masimla |     101.85 |                88 |       23 |               nan |     nan    | nan                        |            nan |
 

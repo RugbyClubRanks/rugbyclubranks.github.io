@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Perpignan by 0.7
+## Prediction with Player Minutes: Perpignan by 0.3
 
 
-Perpignan by 4.7 on a neutral field
+Perpignan by 4.3 on a neutral field
 
-There were 12 large changes in win probability in this match
-## Prediction without Player Minutes: Perpignan by 0.9
+There were 13 large changes in win probability in this match
+## Prediction without Player Minutes: Perpignan by 0.4
 
 
-Perpignan by 4.9 on a neutral pitch
+Perpignan by 4.4 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player               |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:--------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
-|             54 | Sacha Lotrian             |      88.24 |                70 |        1 |                51 |      77.64 | Quentin Walcker      |             55 |
-|             60 | Victor Montgaillard       |      76.58 |                47 |        2 |                36 |      71.25 | Pierre Colonna       |             51 |
-|             54 | Ma'afu Fia                |      76.54 |                46 |        3 |                38 |      71.54 | Wilfried Hounkpatin  |             60 |
-|             60 | Shahn Eru                 |      69.55 |               nan |        4 |                25 |      66.39 | Florent Vanverberghe |             80 |
-|             49 | Piula Fa'asalele          |      77.11 |                43 |        5 |                62 |      82.82 | Leone Nakarawa       |             23 |
-|             80 | Lucas Velarte             |      77.26 |                43 |        6 |                30 |      68.72 | Mathieu Babillot     |             60 |
-|             80 | Alan Brazo                |      74.42 |                43 |        7 |                55 |      78.59 | Baptiste Delaporte   |             80 |
-|             49 | Genesis Mamea Lemalu      |      72.81 |                35 |        8 |                60 |      82.63 | Baptiste Cope        |             80 |
-|             80 | Tom Ecochard              |      75.91 |                44 |        9 |                35 |      72.17 | Jeremy Fernandez     |             79 |
-|             40 | Tristan Tedder            |      84.43 |                57 |       10 |                58 |      84.4  | Benjamin Urdapilleta |             80 |
-|             80 | Mathieu Acebes            |      82.6  |                60 |       11 |                25 |      66.1  | Josaia Raisuqe       |             80 |
-|             80 | George Tilsley            |      81.78 |                58 |       12 |                40 |      73.63 | Adrea Cocagi         |             55 |
-|             60 | Edward Sawailau           |      90.25 |                71 |       13 |                53 |      80.12 | Adrien Seguret       |             80 |
-|             80 | Théo Forner               |      92.44 |                76 |       14 |                46 |      78.77 | Geoffrey Palis       |             80 |
-|             80 | Boris Goutard             |      50.98 |                 8 |       15 |                43 |      76.12 | Julien Dumora        |             60 |
-|             40 | Matteo Rodor              |      86    |                62 |       16 |                58 |      83.67 | Brice Humbert        |             29 |
-|             31 | Joaquin Oviedo            |      85.06 |                64 |       17 |                52 |      78.75 | Antoine Tichit       |             25 |
-|             31 | Tristan Labouteley        |      81.95 |                57 |       18 |                36 |      72.38 | Vilimoni Botitu      |             25 |
-|             26 | Akato Fakatika            |      92.24 |                78 |       19 |               nan |      70.8  | Gauthier Maravat     |             20 |
-|             26 | Siua Halanukonuka         |      73.28 |               nan |       20 |                53 |      79.08 | Antoine Zeghdar      |             20 |
-|             20 | Seilala Lam               |      73.07 |                40 |       21 |                53 |      79.92 | Kevin Kornath        |             57 |
-|             20 | Alvereti Freddy Duguivalu |      76.15 |               nan |       22 |                37 |      72.58 | Aurélien Azar        |             20 |
-|             20 | Posolo Tuilagi            |     100.88 |                87 |       23 |               nan |      73.57 | Julien Blanc         |              1 |
+|             54 | Sacha Lotrian             |      80.64 |                53 |        1 |                46 |      75.41 | Quentin Walcker      |             55 |
+|             60 | Victor Montgaillard       |      77.93 |                50 |        2 |                35 |      70.37 | Pierre Colonna       |             51 |
+|             54 | Ma'afu Fia                |      74.6  |                42 |        3 |                54 |      77.98 | Wilfried Hounkpatin  |             60 |
+|             60 | Shahn Eru                 |      69.19 |               nan |        4 |                24 |      65.7  | Florent Vanverberghe |             80 |
+|             49 | Piula Fa'asalele          |      76.51 |                41 |        5 |                59 |      81.78 | Leone Nakarawa       |             23 |
+|             80 | Lucas Velarte             |      76.71 |                42 |        6 |                29 |      68.47 | Mathieu Babillot     |             60 |
+|             80 | Alan Brazo                |      74.57 |                42 |        7 |                40 |      72.16 | Baptiste Delaporte   |             80 |
+|             49 | Genesis Mamea Lemalu      |      70.78 |                32 |        8 |                60 |      82.77 | Baptiste Cope        |             80 |
+|             80 | Tom Ecochard              |      75.84 |                42 |        9 |                33 |      71.01 | Jeremy Fernandez     |             79 |
+|             40 | Tristan Tedder            |      88.98 |                66 |       10 |                41 |      74.61 | Benjamin Urdapilleta |             80 |
+|             80 | Mathieu Acebes            |      83.15 |                61 |       11 |                26 |      65.99 | Josaia Raisuqe       |             80 |
+|             80 | George Tilsley            |      81.13 |                57 |       12 |                52 |      79.5  | Adrea Cocagi         |             55 |
+|             60 | Edward Sawailau           |      90.33 |                71 |       13 |                56 |      81.28 | Adrien Seguret       |             80 |
+|             80 | Théo Forner               |      92.36 |                75 |       14 |                53 |      82.02 | Geoffrey Palis       |             80 |
+|             80 | Boris Goutard             |      44.41 |                 5 |       15 |                34 |      71.97 | Julien Dumora        |             60 |
+|             40 | Matteo Rodor              |      80.72 |                52 |       16 |                56 |      83.3  | Brice Humbert        |             29 |
+|             31 | Joaquin Oviedo            |      82.62 |                58 |       17 |                34 |      71.45 | Antoine Tichit       |             25 |
+|             31 | Tristan Labouteley        |      87.1  |                68 |       18 |                53 |      81.04 | Vilimoni Botitu      |             25 |
+|             26 | Akato Fakatika            |      93.08 |                79 |       19 |               nan |      74.77 | Gauthier Maravat     |             20 |
+|             26 | Siua Halanukonuka         |      72.89 |               nan |       20 |                54 |      79.63 | Antoine Zeghdar      |             20 |
+|             20 | Seilala Lam               |      71.76 |                38 |       21 |                49 |      78.32 | Kevin Kornath        |             57 |
+|             20 | Alvereti Freddy Duguivalu |      75.38 |               nan |       22 |                32 |      70.72 | Aurélien Azar        |             20 |
+|             20 | Posolo Tuilagi            |     100.36 |                86 |       23 |               nan |      72.98 | Julien Blanc         |              1 |
 

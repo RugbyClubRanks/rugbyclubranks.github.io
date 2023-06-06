@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Blues by 15.7
+## Prediction with Player Minutes: Blues by 15.1
 
 
-Blues by 11.7 on a neutral field
+Blues by 11.1 on a neutral field
 
 There were 7 large changes in win probability in this match
-## Prediction without Player Minutes: Blues by 15.0
+## Prediction without Player Minutes: Blues by 14.2
 
 
-Blues by 11.0 on a neutral pitch
+Blues by 10.2 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player          |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:---------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|---------------:|
-|             63 | Ethan de Groot       |      85.97 |                68 |        1 |                92 |     103.68 | Ofa Tu'ungafasi     |             63 |
-|             55 | Andrew Makalio       |      88.91 |                75 |        2 |                69 |      85.69 | Ricky Riccitelli    |             63 |
-|             69 | Jermaine Ainsley     |      86.22 |                69 |        3 |                93 |     104.69 | Nepo Laulala        |             63 |
-|             65 | Pari Pari Parkinson  |     131.9  |                98 |        4 |                98 |     130.41 | Patrick Tuipulotu   |             80 |
-|             51 | Max Hicks            |      81.5  |                56 |        5 |                74 |      91.65 | James Tucker        |             52 |
-|             80 | Shannon Frizell      |      99.11 |                87 |        6 |                86 |      93.53 | Tom Robinson        |             80 |
-|             80 | Billy Harmon         |     107.93 |                93 |        7 |                32 |      70.64 | Anton Segner        |             80 |
-|             80 | Hugh Renton          |      53.37 |                 7 |        8 |                89 |     102.5  | Dalton Papali'i     |             75 |
-|             65 | Aaron Smith          |      94.18 |                79 |        9 |                84 |      99.15 | Finlay Christie     |             63 |
-|             75 | Freddie Burns        |     107.76 |                91 |       10 |                88 |     105.12 | Stephen Perofeta    |             80 |
-|             80 | Jona Nareki          |      84.13 |                63 |       11 |                83 |      97.42 | Caleb Clarke        |             55 |
-|             80 | Sam Gilbert          |      79.98 |                53 |       12 |                88 |     105.13 | Harry Plummer       |             67 |
-|             59 | Matt Whaanga         |      72.92 |                39 |       13 |                58 |      83.04 | Rieko Ioane         |             80 |
-|             80 | Scott Gregory        |      81.32 |                57 |       14 |                91 |     106.72 | Mark Telea          |             80 |
-|             80 | Mitch Hunt           |      98.99 |                81 |       15 |                74 |      92.78 | Zarn Sullivan       |             80 |
-|             25 | Rhys Marshall        |      89.96 |                79 |       16 |                97 |     119.96 | Kurt Eklund         |             17 |
-|             17 | Dan Lienert-Brown    |      89.56 |                77 |       17 |                29 |      69.57 | Jordan Lay          |             17 |
-|             21 | Saula Mau            |      84.95 |                69 |       18 |                69 |      86.41 | Marcel Renata       |             17 |
-|             15 | Marino Mikaele-Tu'u  |      79.04 |                47 |       19 |               nan |      90.6  | Rob Rush            |              5 |
-|             29 | Sean Withy           |      72.14 |                39 |       20 |                94 |     111.56 | Akira Ioane         |             28 |
-|             15 | Folau Fakatava       |      79.34 |                54 |       21 |                79 |      94.85 | Sam Nock            |             17 |
-|             11 | Fetuli Paea          |      93.56 |                76 |       22 |                37 |      72.84 | Roger Tuivasa-Sheck |             13 |
-|              5 | Connor Garden-Bachop |      98.75 |                81 |       23 |                34 |      70.78 | AJ Lam              |             25 |
+|             63 | Ethan de Groot       |      85.79 |                68 |        1 |                91 |     103.11 | Ofa Tu'ungafasi     |             63 |
+|             55 | Andrew Makalio       |      89.87 |                77 |        2 |                68 |      85.38 | Ricky Riccitelli    |             63 |
+|             69 | Jermaine Ainsley     |      86.26 |                69 |        3 |                92 |     104.14 | Nepo Laulala        |             63 |
+|             65 | Pari Pari Parkinson  |     132.34 |                99 |        4 |                99 |     132.97 | Patrick Tuipulotu   |             80 |
+|             51 | Max Hicks            |      82.26 |                58 |        5 |                75 |      91.9  | James Tucker        |             52 |
+|             80 | Shannon Frizell      |      96    |                84 |        6 |                87 |      95.63 | Tom Robinson        |             80 |
+|             80 | Billy Harmon         |     107.75 |                93 |        7 |                33 |      71.59 | Anton Segner        |             80 |
+|             80 | Hugh Renton          |      54.06 |                 8 |        8 |                90 |     103.32 | Dalton Papali'i     |             75 |
+|             65 | Aaron Smith          |      90.28 |                73 |        9 |                83 |      98.7  | Finlay Christie     |             63 |
+|             75 | Freddie Burns        |     107.43 |                91 |       10 |                88 |     105.55 | Stephen Perofeta    |             80 |
+|             80 | Jona Nareki          |      85.32 |                65 |       11 |                83 |      97.69 | Caleb Clarke        |             55 |
+|             80 | Sam Gilbert          |      82.39 |                58 |       12 |                84 |     100.26 | Harry Plummer       |             67 |
+|             59 | Matt Whaanga         |      76.36 |                45 |       13 |                55 |      81.39 | Rieko Ioane         |             80 |
+|             80 | Scott Gregory        |      85.41 |                67 |       14 |                93 |     108.12 | Mark Telea          |             80 |
+|             80 | Mitch Hunt           |      99.95 |                82 |       15 |                72 |      92.5  | Zarn Sullivan       |             80 |
+|             25 | Rhys Marshall        |      87.76 |                75 |       16 |                97 |     118.58 | Kurt Eklund         |             17 |
+|             17 | Dan Lienert-Brown    |      90.79 |                79 |       17 |                31 |      70.3  | Jordan Lay          |             17 |
+|             21 | Saula Mau            |      85.29 |                70 |       18 |                65 |      84.3  | Marcel Renata       |             17 |
+|             15 | Marino Mikaele-Tu'u  |      81.03 |                51 |       19 |               nan |      90.42 | Rob Rush            |              5 |
+|             29 | Sean Withy           |      72.67 |                40 |       20 |                94 |     110.55 | Akira Ioane         |             28 |
+|             15 | Folau Fakatava       |      79.65 |                53 |       21 |                79 |      95.68 | Sam Nock            |             17 |
+|             11 | Fetuli Paea          |      92.87 |                75 |       22 |                35 |      71.82 | Roger Tuivasa-Sheck |             13 |
+|              5 | Connor Garden-Bachop |      99.97 |                82 |       23 |                33 |      70.57 | AJ Lam              |             25 |
 

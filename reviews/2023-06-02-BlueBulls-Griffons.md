@@ -28,40 +28,40 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Blue Bulls by 38.0
+## Prediction with Player Minutes: Blue Bulls by 28.7
 
 
-Blue Bulls by 34.0 on a neutral field
+Blue Bulls by 24.7 on a neutral field
 
-There were 5 large changes in win probability in this match
-## Prediction without Player Minutes: Blue Bulls by 34.3
+There were 6 large changes in win probability in this match
+## Prediction without Player Minutes: Blue Bulls by 25.5
 
 
-Blue Bulls by 30.3 on a neutral pitch
+Blue Bulls by 21.5 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player                 |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                  |   Home Minutes |
 |---------------:|:----------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------------------|---------------:|
-|             53 | Xolani Jacobs               |      55.86 |                 9 |        1 |                87 |      96.93 | Gerhardus Cornelis Steenkamp |             66 |
-|             58 | Hendrik Petrus van Schoor   |      65.93 |                27 |        2 |                14 |      60.01 | Jan Hendrik Wessels          |             80 |
-|             25 | Doctor Booysen              |      75.77 |                44 |        3 |                30 |      69.34 | Francois Klopper             |             42 |
-|             80 | Rian Olivier                |      50.32 |                 6 |        4 |                74 |      90.98 | Ruan Vermaak                 |             80 |
-|             52 | Michael Benadie             |      52.7  |                 8 |        5 |                48 |      77.52 | Janko Swanepoel              |             80 |
-|             80 | Thato Siward Mavundla       |     104.01 |                91 |        6 |                79 |      93.09 | Marcell Coetzee              |             80 |
-|             80 | Thomas Ongera               |      70.18 |                34 |        7 |                47 |      75.43 | Mihlali Langa Mosi           |             42 |
-|             80 | Sokuphumla (Soso) Xakalashe |      50.53 |                 6 |        8 |                73 |      89.2  | Nizaam Carr                  |             80 |
-|             80 | Jaywinn Juries              |      71.61 |                33 |        9 |                67 |      87.18 | Embrose Cheldon Papier       |             62 |
-|             55 | Robbie Petzer               |      42.23 |                 3 |       10 |                70 |      89.76 | Chris Smith                  |             80 |
-|             80 | Randy Fillies               |      63.36 |                22 |       11 |                79 |      98.11 | David Kriel                  |             80 |
-|             60 | Marquit Virgil September    |      46.3  |                 3 |       12 |                55 |      82.13 | Chris Smit                   |             80 |
-|             80 | Carel-Jan Coetzee           |      54.55 |                 9 |       13 |                86 |     102.09 | Stedman-Gee Rivett Gans      |             66 |
-|             80 | Domenic Smit                |      54.6  |                10 |       14 |                62 |      85.36 | Cornal Hendricks             |             80 |
-|             80 | Duan Pretorius              |      86.04 |                60 |       15 |                43 |      75.82 | Johannes Lodewikus Goosen    |             80 |
-|             55 | Buhle Nojekwa               |      65.69 |                29 |       16 |                87 |      97.71 | Mornay Jan Jakobus Smith     |             38 |
-|             28 | Wikus Nieuwenhuis           |      73.26 |               nan |       17 |                89 |     104.21 | Ruan Nortje                  |             38 |
-|             27 | Stephan de Jager            |      66.52 |                25 |       18 |                72 |      89.09 | Keagan Johannes              |             18 |
-|             25 | Duren Hoffman               |      39    |                 2 |       19 |                38 |      73.58 | Simphiwe Matanzima           |             14 |
-|             20 | Keanu Armandio Vers         |      46.84 |                 4 |       20 |                33 |      70.5  | Wandisile Simelane           |             14 |
-|             22 | Dandré Delport              |      80.15 |                59 |       21 |               nan |     nan    | nan                          |            nan |
+|             53 | Xolani Jacobs               |      58.07 |                12 |        1 |                80 |      92.12 | Gerhardus Cornelis Steenkamp |             66 |
+|             58 | Hendrik Petrus van Schoor   |      66.99 |                28 |        2 |                13 |      59.46 | Jan Hendrik Wessels          |             80 |
+|             25 | Doctor Booysen              |      84.38 |                65 |        3 |                28 |      69.31 | Francois Klopper             |             42 |
+|             80 | Rian Olivier                |      58.69 |                13 |        4 |                67 |      86.43 | Ruan Vermaak                 |             80 |
+|             52 | Michael Benadie             |      53.63 |                 9 |        5 |                51 |      78.39 | Janko Swanepoel              |             80 |
+|             80 | Thato Siward Mavundla       |     109.72 |                93 |        6 |                71 |      87.43 | Marcell Coetzee              |             80 |
+|             80 | Thomas Ongera               |      71.28 |                36 |        7 |                48 |      75.31 | Mihlali Langa Mosi           |             42 |
+|             80 | Sokuphumla (Soso) Xakalashe |      54.76 |                 9 |        8 |                65 |      84.32 | Nizaam Carr                  |             80 |
+|             80 | Jaywinn Juries              |      80.48 |                54 |        9 |                57 |      82.14 | Embrose Cheldon Papier       |             62 |
+|             55 | Robbie Petzer               |      46.86 |                 5 |       10 |                65 |      88.04 | Chris Smith                  |             80 |
+|             80 | Randy Fillies               |      61.85 |                19 |       11 |                75 |      93.93 | David Kriel                  |             80 |
+|             60 | Marquit Virgil September    |      39.58 |                 1 |       12 |                50 |      80.53 | Chris Smit                   |             80 |
+|             80 | Carel-Jan Coetzee           |      68.18 |                28 |       13 |                80 |      96.89 | Stedman-Gee Rivett Gans      |             66 |
+|             80 | Domenic Smit                |      51.8  |                 9 |       14 |                64 |      84.02 | Cornal Hendricks             |             80 |
+|             80 | Duan Pretorius              |      93.87 |                75 |       15 |                32 |      70.92 | Johannes Lodewikus Goosen    |             80 |
+|             55 | Buhle Nojekwa               |      68.18 |                32 |       16 |                82 |      93.89 | Mornay Jan Jakobus Smith     |             38 |
+|             28 | Wikus Nieuwenhuis           |      72.12 |               nan |       17 |                87 |     100.39 | Ruan Nortje                  |             38 |
+|             27 | Stephan de Jager            |      66.15 |                25 |       18 |                71 |      88.93 | Keagan Johannes              |             18 |
+|             25 | Duren Hoffman               |      38.51 |                 2 |       19 |                36 |      73.82 | Simphiwe Matanzima           |             14 |
+|             20 | Keanu Armandio Vers         |      39.31 |                 1 |       20 |                30 |      69.01 | Wandisile Simelane           |             14 |
+|             22 | Dandré Delport              |      80.67 |                58 |       21 |               nan |     nan    | nan                          |            nan |
 

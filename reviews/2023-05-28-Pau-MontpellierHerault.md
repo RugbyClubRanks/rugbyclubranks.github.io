@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Montpellier Herault by 4.2
+## Prediction with Player Minutes: Montpellier Herault by 3.6
 
 
-Montpellier Herault by 8.2 on a neutral field
+Montpellier Herault by 7.6 on a neutral field
 
 There were 3 large changes in win probability in this match
-## Prediction without Player Minutes: Montpellier Herault by 3.9
+## Prediction without Player Minutes: Montpellier Herault by 3.0
 
 
-Montpellier Herault by 7.9 on a neutral pitch
+Montpellier Herault by 7.0 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player              |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player              |   Home Minutes |
 |---------------:|:-------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------------|---------------:|
-|             41 | Grégory Fichten          |      79.91 |                39 |        1 |                45 |      75.78 | Ignacio David Calles     |             50 |
-|             43 | Adrien Sonzogni          |      73.76 |               nan |        2 |                57 |      78.49 | Lucas Rey                |             58 |
-|             41 | Henry Thomas             |      76.18 |                46 |        3 |                34 |      71.65 | Guram Papidze            |             41 |
-|             43 | Florian Verhaeghe        |      77.61 |                48 |        4 |                34 |      69.66 | Lekima Vuda Tagitagivalu |             50 |
-|             80 | Tyler Evan Duguid        |      78.5  |                43 |        5 |               nan |      67.79 | Mickael Capelli          |             80 |
-|             80 | Clément Doumenc          |      84.3  |                57 |        6 |                58 |      79.51 | Luke Whitelock           |             80 |
-|             80 | Alexandre Bécognée       |      75.42 |                45 |        7 |                25 |      65.95 | Reece Hewat              |             50 |
-|             73 | Lenni Nouchi             |      90    |                74 |        8 |                64 |      85.52 | Beka Gorgadze            |             80 |
-|             80 | Aubin Eymeri             |     104.21 |                88 |        9 |                50 |      78.32 | Thibault Daubagna        |             58 |
-|             55 | Louis Carbonel           |      76.23 |                44 |       10 |               nan |      67.19 | Thibault Debaes          |             65 |
-|             49 | Gabin Rocher             |      73.59 |               nan |       11 |                14 |      57.9  | Daniel Ikpefan           |             80 |
-|             80 | Paolo Garbisi            |      85.99 |                61 |       12 |                55 |      80.73 | Tumua Manu               |             80 |
-|             67 | Thomas Darmon            |      79.71 |                52 |       13 |                73 |      91.61 | Émilien Gailleton        |             80 |
-|             80 | Gabriel Ngandebe         |      65.89 |                25 |       14 |                49 |      77.11 | Clément Laporte          |             63 |
-|             80 | Julien Tisseron          |      70.17 |                32 |       15 |                36 |      72.82 | Jack Maddocks            |             80 |
-|             39 | Luca Tabarot             |      74.32 |               nan |       16 |               nan |      67.95 | Nicolas Corato           |             39 |
-|             39 | Adam Moutanga Bouare     |      73.94 |               nan |       17 |               nan |      68.14 | Rémi Seneca              |             30 |
-|             37 | Bastien Chalureau        |      72.29 |                36 |       18 |                 1 |      35.07 | Sacha Zegueur            |             30 |
-|             37 | Curtis Langdon           |      63.36 |                21 |       19 |                30 |      69.1  | Santiago Grondona        |             30 |
-|             31 | Pierre Lucas             |      73.07 |               nan |       20 |                18 |      63.03 | Dan Robson               |             22 |
-|             25 | Louis Foursans-Bourdette |      74.52 |               nan |       21 |                21 |      63.67 | Youri Delhommel          |             22 |
-|             13 | Anthony Bouthier         |      80.73 |                50 |       22 |               nan |      65.84 | Nathan Decron            |             17 |
-|              7 | Romain Delemarle         |      74.12 |               nan |       23 |                62 |      84.94 | Clement Mondinat         |             15 |
+|             41 | Grégory Fichten          |      78.3  |                35 |        1 |                41 |      74.26 | Ignacio David Calles     |             50 |
+|             43 | Adrien Sonzogni          |      73.61 |               nan |        2 |                49 |      75.77 | Lucas Rey                |             58 |
+|             41 | Henry Thomas             |      73.16 |                38 |        3 |                36 |      72.35 | Guram Papidze            |             41 |
+|             43 | Florian Verhaeghe        |      77.03 |                47 |        4 |                41 |      73.02 | Lekima Vuda Tagitagivalu |             50 |
+|             80 | Tyler Evan Duguid        |      81    |                47 |        5 |               nan |      67.59 | Mickael Capelli          |             80 |
+|             80 | Clément Doumenc          |      82.17 |                53 |        6 |                57 |      79.87 | Luke Whitelock           |             80 |
+|             80 | Alexandre Bécognée       |      74.42 |                42 |        7 |                26 |      66.6  | Reece Hewat              |             50 |
+|             73 | Lenni Nouchi             |      89.67 |                75 |        8 |                50 |      79.31 | Beka Gorgadze            |             80 |
+|             80 | Aubin Eymeri             |     103.75 |                88 |        9 |                50 |      78.42 | Thibault Daubagna        |             58 |
+|             55 | Louis Carbonel           |      72.39 |                36 |       10 |               nan |      66.46 | Thibault Debaes          |             65 |
+|             49 | Gabin Rocher             |      73.21 |               nan |       11 |                16 |      59.32 | Daniel Ikpefan           |             80 |
+|             80 | Paolo Garbisi            |      81.76 |                54 |       12 |                52 |      79.77 | Tumua Manu               |             80 |
+|             67 | Thomas Darmon            |      84.15 |                61 |       13 |                74 |      91.77 | Émilien Gailleton        |             80 |
+|             80 | Gabriel Ngandebe         |      65.24 |                25 |       14 |                51 |      77.97 | Clément Laporte          |             63 |
+|             80 | Julien Tisseron          |      69.68 |                31 |       15 |                37 |      73.52 | Jack Maddocks            |             80 |
+|             39 | Luca Tabarot             |      73.03 |               nan |       16 |               nan |      67.43 | Nicolas Corato           |             39 |
+|             39 | Adam Moutanga Bouare     |      73.41 |               nan |       17 |               nan |      67.69 | Rémi Seneca              |             30 |
+|             37 | Bastien Chalureau        |      72.82 |                36 |       18 |                 1 |      35.38 | Sacha Zegueur            |             30 |
+|             37 | Curtis Langdon           |      62.06 |                19 |       19 |                28 |      68.18 | Santiago Grondona        |             30 |
+|             31 | Pierre Lucas             |      66.66 |               nan |       20 |                19 |      63.77 | Dan Robson               |             22 |
+|             25 | Louis Foursans-Bourdette |      72.69 |               nan |       21 |                18 |      61.3  | Youri Delhommel          |             22 |
+|             13 | Anthony Bouthier         |      82.97 |                54 |       22 |               nan |      63.98 | Nathan Decron            |             17 |
+|              7 | Romain Delemarle         |      72.86 |               nan |       23 |                61 |      85.37 | Clement Mondinat         |             15 |
 

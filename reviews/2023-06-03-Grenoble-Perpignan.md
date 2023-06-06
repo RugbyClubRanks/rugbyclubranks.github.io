@@ -33,7 +33,7 @@ Treating teams instead as an entity made up of the currently active players, I h
 
 Grenoble by 2.3 on a neutral field
 
-There were 7 large changes in win probability in this match
+There were 9 large changes in win probability in this match
 ## Prediction without Player Minutes: Grenoble by 9.1
 
 
@@ -43,27 +43,27 @@ Grenoble by 5.1 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:---------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|---------------:|
-|             51 | Giorgi Tetrashvili   |      75.71 |                44 |        1 |                94 |     106.55 | Zack Gauthier       |             49 |
-|             62 | Seilala Lam          |      71.64 |                40 |        2 |                55 |      79.58 | Jean-Charles Orioli |             49 |
-|             62 | Arthur Joly          |      81.97 |                60 |        3 |                60 |      81.74 | Irakli Aptsiauri    |             40 |
-|             80 | Tristan Labouteley   |      79.73 |                57 |        4 |                51 |      78.94 | Tanginoa Halaifonua |             80 |
-|             70 | Posolo Tuilagi       |      99.45 |                87 |        5 |                95 |     110.81 | Pio Muarua          |             49 |
-|             80 | Brad Shields         |      76.18 |                47 |        6 |                69 |      86.68 | Steeve Blanc-Mappaz |             62 |
-|             60 | Kélian Galletier     |      86.65 |                69 |        7 |                78 |      91.8  | Antonin Berruyer    |             80 |
-|             47 | Genesis Mamea Lemalu |      69.31 |                29 |        8 |                32 |      69.39 | Talalelei Gray      |             61 |
-|             70 | Sadek Deghmache      |      75.74 |                43 |        9 |                41 |      74.67 | Felipe Ezcurra      |             58 |
-|             80 | Jake McIntyre        |      76.26 |                44 |       10 |                48 |      77.17 | Romain Barthélémy   |             66 |
-|             80 | Mathieu Acebes       |      76.87 |                48 |       11 |                53 |      79.26 | Lucas Dupont        |             80 |
-|             80 | Dorian Laborde       |      86.18 |                64 |       12 |                33 |      68.92 | Bautista Ezcurra    |             80 |
-|             70 | Edward Sawailau      |      85.96 |                64 |       13 |                69 |      89.14 | Romain Trouilloud   |             80 |
-|             80 | Lucas Dubois         |      88.77 |                72 |       14 |                70 |      89.32 | Romain Fusier       |             80 |
-|             80 | Tristan Tedder       |      81.57 |                54 |       15 |                57 |      84.68 | Julien Farnoux      |             80 |
-|             33 | Joaquin Oviedo       |      82.84 |                63 |       16 |                45 |      76.89 | Sam Nixon           |             40 |
-|             29 | Sacha Lotrian        |      84.37 |                66 |       17 |                52 |      78.94 | Luka Goginava       |             31 |
-|             20 | Lucas Bachelier      |      79.97 |                53 |       18 |                11 |      56.03 | Mathis Sarragallet  |             31 |
-|             18 | Mike Tadjer          |      59.9  |                15 |       19 |                13 |      58.71 | José Duarte Madeira |             31 |
-|             18 | Siua Halanukonuka    |      71.42 |               nan |       20 |                62 |      84.68 | Éric Escande        |             22 |
-|             10 | Tom Ecochard         |      70.19 |                31 |       21 |                43 |      74.2  | Marnus Schoeman     |             18 |
-|             10 | Shahn Eru            |      65.25 |                23 |       22 |                63 |      86.23 | Thomas Fortunel     |             14 |
-|             10 | George Tilsley       |      76.05 |                46 |       23 |                54 |      80.78 | Marko Gazzotti      |             19 |
+|             51 | Giorgi Tetrashvili   |      75.8  |                45 |        1 |                94 |     105.75 | Zack Gauthier       |             49 |
+|             62 | Seilala Lam          |      70.35 |                37 |        2 |                54 |      79.58 | Jean-Charles Orioli |             49 |
+|             62 | Arthur Joly          |      84.54 |                66 |        3 |                50 |      78.06 | Irakli Aptsiauri    |             40 |
+|             80 | Tristan Labouteley   |      84.91 |                68 |        4 |                46 |      76.36 | Tanginoa Halaifonua |             80 |
+|             70 | Posolo Tuilagi       |      98.95 |                87 |        5 |                96 |     114.04 | Pio Muarua          |             49 |
+|             80 | Brad Shields         |      76.73 |                48 |        6 |                66 |      84.81 | Steeve Blanc-Mappaz |             62 |
+|             60 | Kélian Galletier     |      85.25 |                67 |        7 |                79 |      92.49 | Antonin Berruyer    |             80 |
+|             47 | Genesis Mamea Lemalu |      67.33 |                24 |        8 |                30 |      68.62 | Talalelei Gray      |             61 |
+|             70 | Sadek Deghmache      |      74.51 |                40 |        9 |                47 |      77.66 | Felipe Ezcurra      |             58 |
+|             80 | Jake McIntyre        |      74.35 |                39 |       10 |                46 |      77.08 | Romain Barthélémy   |             66 |
+|             80 | Mathieu Acebes       |      77.51 |                49 |       11 |                55 |      79.84 | Lucas Dupont        |             80 |
+|             80 | Dorian Laborde       |      85.85 |                64 |       12 |                38 |      71.86 | Bautista Ezcurra    |             80 |
+|             70 | Edward Sawailau      |      86.1  |                64 |       13 |                65 |      86.55 | Romain Trouilloud   |             80 |
+|             80 | Lucas Dubois         |      86.62 |                69 |       14 |                73 |      91.18 | Romain Fusier       |             80 |
+|             80 | Tristan Tedder       |      86.16 |                62 |       15 |                57 |      84.03 | Julien Farnoux      |             80 |
+|             33 | Joaquin Oviedo       |      80.43 |                58 |       16 |                45 |      76.86 | Sam Nixon           |             40 |
+|             29 | Sacha Lotrian        |      76.83 |                48 |       17 |                52 |      78.83 | Luka Goginava       |             31 |
+|             20 | Lucas Bachelier      |      79.49 |                52 |       18 |                15 |      59.38 | Mathis Sarragallet  |             31 |
+|             18 | Mike Tadjer          |      61.53 |                17 |       19 |                13 |      58.53 | José Duarte Madeira |             31 |
+|             18 | Siua Halanukonuka    |      71.06 |               nan |       20 |                65 |      86.03 | Éric Escande        |             22 |
+|             10 | Tom Ecochard         |      70.2  |                32 |       21 |                45 |      74.95 | Marnus Schoeman     |             18 |
+|             10 | Shahn Eru            |      64.97 |                22 |       22 |                61 |      85.26 | Thomas Fortunel     |             14 |
+|             10 | George Tilsley       |      75.49 |                44 |       23 |                50 |      79.4  | Marko Gazzotti      |             19 |
 

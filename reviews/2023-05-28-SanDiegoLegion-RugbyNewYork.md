@@ -9,7 +9,7 @@ categories: match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.767, which translates to predicting San Diego Legion to win by 10.7.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.781, which translates to predicting San Diego Legion to win by 11.4.
 
 Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances
@@ -28,34 +28,34 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: San Diego Legion by 16.1
+## Prediction with Player Minutes: San Diego Legion by 11.8
 
 
-San Diego Legion by 12.1 on a neutral field
+San Diego Legion by 7.8 on a neutral field
 
 There were 6 large changes in win probability in this match
-## Prediction without Player Minutes: San Diego Legion by 16.1
+## Prediction without Player Minutes: San Diego Legion by 11.8
 
 
-San Diego Legion by 12.1 on a neutral pitch
+San Diego Legion by 7.8 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player       |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
-|             80 | Chance Wenglewski |      65.3  |                21 |        1 |                 0 |      31.02 | Faka'osi Pifeleti    |             80 |
-|             80 | Dylan Fawsitt     |      54.84 |                10 |        2 |                78 |      89.59 | Sama Malolo          |             80 |
-|             80 | Kaleb Geiger      |     112.26 |                96 |        3 |                25 |      67.54 | Luke Green           |             80 |
-|             80 | Nate Brakeley     |      51.88 |                 7 |        4 |                73 |      90.27 | Ben Grant            |             80 |
-|             80 | Hamish Dalzell    |      62.18 |                17 |        5 |                30 |      69.26 | Isaac Ross           |             80 |
-|             80 | Brad Tucker       |      59.4  |                14 |        6 |                41 |      73.58 | Tupou Afungia        |             80 |
-|             80 | Akuei Monate      |      70.15 |                33 |        7 |                30 |      68.91 | Blair Cowan          |             80 |
-|             80 | Pago Haini        |      62.39 |                19 |        8 |                17 |      61.76 | David Tameilau       |             80 |
-|             80 | Connor Buckley    |      66.43 |                25 |        9 |                61 |      84.46 | Richard Judd         |             80 |
-|             80 | Jason Emery       |      60.31 |                16 |       10 |                26 |      68.64 | Will Hooley          |             80 |
-|             80 | Teofilo Ed Fidow  |      70.93 |                34 |       11 |                23 |      64.45 | Nathaniel Augspurger |             80 |
-|             80 | Teihorangi Walden |      65.6  |                23 |       12 |                58 |      82.89 | Ma'a Nonu            |             80 |
-|             80 | Fa'asiu Fuatai    |      51.62 |                 6 |       13 |                64 |      86.12 | Marcel Brache        |             80 |
-|             80 | Brooklyn Hardaker |      61.46 |               nan |       14 |                48 |      77.49 | Tomas Aoake          |             80 |
-|             80 | Andrew Coe        |      60.5  |                17 |       15 |                56 |      79.89 | Mike Te'o            |             80 |
+|             80 | Chance Wenglewski |      69.33 |                30 |        1 |                 0 |      26.72 | Faka'osi Pifeleti    |             80 |
+|             80 | Dylan Fawsitt     |      60.02 |                16 |        2 |                78 |      89.05 | Sama Malolo          |             80 |
+|             80 | Kaleb Geiger      |     115.24 |                97 |        3 |                24 |      66.34 | Luke Green           |             80 |
+|             80 | Nate Brakeley     |      55.74 |                11 |        4 |                74 |      90.98 | Ben Grant            |             80 |
+|             80 | Hamish Dalzell    |      66.59 |                25 |        5 |                26 |      67.34 | Isaac Ross           |             80 |
+|             80 | Brad Tucker       |      62.39 |                18 |        6 |                42 |      74.28 | Tupou Afungia        |             80 |
+|             80 | Akuei Monate      |      76.16 |                47 |        7 |                28 |      68.02 | Blair Cowan          |             80 |
+|             80 | Pago Haini        |      57.15 |                11 |        8 |                15 |      60.53 | David Tameilau       |             80 |
+|             80 | Connor Buckley    |      59.67 |                15 |        9 |                63 |      85.21 | Richard Judd         |             80 |
+|             80 | Jason Emery       |      62.6  |                19 |       10 |                30 |      69.79 | Will Hooley          |             80 |
+|             80 | Teofilo Ed Fidow  |      75.49 |                44 |       11 |                21 |      62.92 | Nathaniel Augspurger |             80 |
+|             80 | Teihorangi Walden |      63.68 |                20 |       12 |                58 |      82.63 | Ma'a Nonu            |             80 |
+|             80 | Fa'asiu Fuatai    |      55.53 |                11 |       13 |                61 |      84.42 | Marcel Brache        |             80 |
+|             80 | Brooklyn Hardaker |      62.18 |               nan |       14 |                45 |      76.42 | Tomas Aoake          |             80 |
+|             80 | Andrew Coe        |      64.56 |                23 |       15 |                57 |      79.24 | Mike Te'o            |             80 |
 

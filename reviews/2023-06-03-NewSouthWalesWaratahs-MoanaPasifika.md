@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: New South Wales Waratahs by 17.1
+## Prediction with Player Minutes: New South Wales Waratahs by 16.8
 
 
-New South Wales Waratahs by 13.1 on a neutral field
+New South Wales Waratahs by 12.8 on a neutral field
 
 There were 11 large changes in win probability in this match
-## Prediction without Player Minutes: New South Wales Waratahs by 13.1
+## Prediction without Player Minutes: New South Wales Waratahs by 12.9
 
 
-New South Wales Waratahs by 9.1 on a neutral pitch
+New South Wales Waratahs by 8.9 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
-|             53 | Abraham Pole          |      83.91 |                61 |        1 |               nan |      73.69 | Nephi Leatigaga      |             33 |
-|             53 | Luteru Tolai          |      95.21 |                83 |        2 |                 6 |      48.44 | Mahe Vailanu         |             53 |
-|             53 | Joe Apikotoa          |      96.19 |                86 |        3 |                71 |      86.61 | Harry Johnson-Holmes |             46 |
-|             68 | Michael Curry         |     100.42 |                87 |        4 |                83 |      97.7  | Ned Hanigan          |             81 |
-|             81 | Samuel Slade          |      59.07 |                14 |        5 |                82 |      95.96 | Hugh Sinclair        |             81 |
-|             81 | Miracle Faiilagi      |      68.29 |                27 |        6 |                75 |      90.01 | Lachlan Swinton      |             53 |
-|             53 | Penitoa Finau         |      64.93 |                23 |        7 |               100 |     151.27 | Michael Hooper       |             81 |
-|             81 | Solomone Funaki       |      81.6  |                55 |        8 |                70 |      86.73 | Taleni Seu           |             53 |
-|             58 | Jonathan Taumateine   |      64.04 |                21 |        9 |               nan |      85.12 | Harrison Goddard     |             77 |
-|             69 | Christian Leali'ifano |     103.59 |                86 |       10 |                57 |      83.42 | Ben Donaldson        |             81 |
-|             81 | Timoci Tavatavanawai  |      75.65 |                44 |       11 |                87 |     101.91 | Dylan Pietsch        |             81 |
-|             81 | Henry Taefu           |      50.38 |                 5 |       12 |                64 |      86.14 | Mosese Tuipulotu     |             68 |
-|             81 | Levi Aumua            |     115.46 |                96 |       13 |                55 |      81.44 | Joey Walton          |             81 |
-|             59 | Tima Fainga'anuku     |     102.97 |                88 |       14 |                47 |      77.04 | Izaia Perese         |             59 |
-|             81 | William Havili        |     107.3  |                89 |       15 |                77 |      92.75 | Mark Nawaqanitawase  |             81 |
-|             28 | Samiuela Moli         |      56.02 |                10 |       16 |               nan |     110.63 | Tolu Latu            |             28 |
-|             28 | Ezekiel Lindenmuth    |      74.71 |                42 |       17 |                86 |      94.56 | Tom Lambert          |             48 |
-|             28 | Chris Apoua           |      72.83 |                33 |       18 |                70 |      87.66 | Archer Holz          |             35 |
-|             13 | Mike McKee            |      74.37 |                41 |       19 |                65 |      84.41 | Charlie Gamble       |             28 |
-|             28 | Alamanda Motuga       |      69.86 |                33 |       20 |                62 |      84.74 | Langi Gleeson        |             28 |
-|             23 | Ere Enari             |     100.63 |                85 |       21 |                92 |     108.79 | Jake Gordon          |              4 |
-|             12 | Lincoln McClutchie    |      90.64 |                72 |       22 |                57 |      83.3  | Tane Edmed           |             13 |
-|             22 | Fine Inisi            |      69.12 |                30 |       23 |                61 |      83.44 | Harry Wilson         |             22 |
+|             53 | Abraham Pole          |      84.1  |                62 |        1 |               nan |      73.72 | Nephi Leatigaga      |             33 |
+|             53 | Luteru Tolai          |      93.67 |                82 |        2 |                 5 |      47.23 | Mahe Vailanu         |             53 |
+|             53 | Joe Apikotoa          |      96.57 |                86 |        3 |                73 |      87.67 | Harry Johnson-Holmes |             46 |
+|             68 | Michael Curry         |      99.05 |                85 |        4 |                82 |      95.62 | Ned Hanigan          |             81 |
+|             81 | Samuel Slade          |      59.63 |                14 |        5 |                84 |      98.32 | Hugh Sinclair        |             81 |
+|             81 | Miracle Faiilagi      |      68.52 |                27 |        6 |                77 |      91.08 | Lachlan Swinton      |             53 |
+|             53 | Penitoa Finau         |      64.95 |                23 |        7 |                99 |     140.24 | Michael Hooper       |             81 |
+|             81 | Solomone Funaki       |      80.77 |                53 |        8 |                67 |      85.5  | Taleni Seu           |             53 |
+|             58 | Jonathan Taumateine   |      63.31 |                20 |        9 |               nan |      84.77 | Harrison Goddard     |             77 |
+|             69 | Christian Leali'ifano |     103.53 |                86 |       10 |                63 |      87.52 | Ben Donaldson        |             81 |
+|             81 | Timoci Tavatavanawai  |      76.07 |                45 |       11 |                87 |     101.45 | Dylan Pietsch        |             81 |
+|             81 | Henry Taefu           |      50.78 |                 6 |       12 |                64 |      86.05 | Mosese Tuipulotu     |             68 |
+|             81 | Levi Aumua            |     114.99 |                95 |       13 |                55 |      81.21 | Joey Walton          |             81 |
+|             59 | Tima Fainga'anuku     |     102.83 |                89 |       14 |                45 |      76.06 | Izaia Perese         |             59 |
+|             81 | William Havili        |     107.07 |                89 |       15 |                78 |      93.47 | Mark Nawaqanitawase  |             81 |
+|             28 | Samiuela Moli         |      56.09 |                11 |       16 |               nan |     111.13 | Tolu Latu            |             28 |
+|             28 | Ezekiel Lindenmuth    |      74.47 |                41 |       17 |                87 |      94.77 | Tom Lambert          |             48 |
+|             28 | Chris Apoua           |      72.64 |                32 |       18 |                73 |      89.28 | Archer Holz          |             35 |
+|             13 | Mike McKee            |      73.99 |                40 |       19 |                61 |      83.04 | Charlie Gamble       |             28 |
+|             28 | Alamanda Motuga       |      69.8  |                33 |       20 |                75 |      90.44 | Langi Gleeson        |             28 |
+|             23 | Ere Enari             |     101.64 |                87 |       21 |                96 |     115.17 | Jake Gordon          |              4 |
+|             12 | Lincoln McClutchie    |      90.71 |                72 |       22 |                58 |      84.12 | Tane Edmed           |             13 |
+|             22 | Fine Inisi            |      69.24 |                29 |       23 |                60 |      83.04 | Harry Wilson         |             22 |
 
