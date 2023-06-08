@@ -34,36 +34,36 @@ Treating teams instead as an entity made up of the currently active players, I h
 Crusaders by 9.1 on a neutral field
 
 There were 11 large changes in win probability in this match
-## Prediction without Player Minutes: Crusaders by 4.4
+## Prediction without Player Minutes: Crusaders by 3.6
 
 
-Crusaders by 8.4 on a neutral pitch
+Crusaders by 7.6 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player            |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:-----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|---------------:|
-|             61 | Tamaiti Williams       |      96    |                86 |        1 |                83 |      95.05 | Tevita Mafileo      |             65 |
-|             65 | Codie Taylor           |      92.34 |                81 |        2 |                97 |     120.44 | Dane Coles          |             56 |
-|             41 | John Afoa              |      83.19 |                63 |        3 |                99 |     136.74 | Tyrel Lomax         |             56 |
-|             83 | Quinten Strange        |      77.67 |                48 |        4 |                65 |      85.58 | James Blackwell     |             83 |
-|             41 | Sam Whitelock          |     112.02 |                94 |        5 |                81 |      93.55 | Caleb Delany        |             59 |
-|             83 | Scott Barrett          |     127.61 |                98 |        6 |                66 |      84.72 | Devan Flanders      |             73 |
-|             83 | Tom Christie           |     101.81 |                89 |        7 |                98 |     123.09 | Ardie Savea         |             83 |
-|             54 | Christian Lio-Willie   |      84.02 |                64 |        8 |                18 |      61.63 | Brayden Iose        |             83 |
-|             70 | Louie Chapman          |      94.54 |               nan |        9 |                76 |      93.03 | Cam Roigard         |             70 |
-|             83 | Richie Mo'unga         |     141.68 |                99 |       10 |                68 |      89.14 | Brett Cameron       |             83 |
-|             83 | Leicester Fainga'anuku |      78.62 |                50 |       11 |                93 |     108.27 | Kini Naholo         |             83 |
-|             83 | Jack Goodhue           |     101.03 |                86 |       12 |                92 |     109.04 | Jordie Barrett      |             83 |
-|             77 | Braydon Ennor          |     103.39 |                87 |       13 |                92 |     110.28 | Billy Proctor       |             83 |
-|             59 | Dallas McLeod          |     106.95 |                92 |       14 |                13 |      57.11 | Daniel Sinkinson    |             59 |
-|             83 | Will Jordan            |     129.37 |                97 |       15 |                52 |      81.46 | Joshua Moorby       |             83 |
-|             29 | Brodie McAlister       |     105.59 |                92 |       16 |                74 |      88.36 | Jacob Devery        |             27 |
-|             22 | Seb Calder             |      97.35 |               nan |       17 |                62 |      83.29 | Pouri Rakete-Stones |             18 |
-|             42 | Reuben O'Neill         |      86.14 |               nan |       18 |                92 |     104.19 | Owen Franks         |             27 |
-|             42 | Zach Gallagher         |      90.64 |                72 |       19 |                94 |     110.14 | Justin Sangster     |             24 |
-|             18 | Sione Havili           |      75.57 |                43 |       20 |                32 |      68.14 | TK Howden           |             10 |
-|             13 | Joel Lam               |      94.33 |               nan |       21 |                 7 |      51.71 | Jamie Booth         |             13 |
-|              6 | Fergus Burke           |      86.92 |                61 |       22 |               nan |      88.69 | Ruben Love          |              0 |
-|             24 | Chay Fihaki            |     111.96 |                95 |       23 |                84 |      99    | Bailyn Sullivan     |             24 |
+|             61 | Tamaiti Williams       |      95.97 |                85 |        1 |                82 |      94.92 | Tevita Mafileo      |             65 |
+|             65 | Codie Taylor           |      92.11 |                80 |        2 |                97 |     119.39 | Dane Coles          |             56 |
+|             41 | John Afoa              |      83.2  |                63 |        3 |                99 |     134.09 | Tyrel Lomax         |             56 |
+|             83 | Quinten Strange        |      75.94 |                44 |        4 |                66 |      85.58 | James Blackwell     |             83 |
+|             41 | Sam Whitelock          |     111.98 |                94 |        5 |                81 |      94.04 | Caleb Delany        |             59 |
+|             83 | Scott Barrett          |     127.71 |                98 |        6 |                67 |      85.25 | Devan Flanders      |             73 |
+|             83 | Tom Christie           |     101.6  |                89 |        7 |                98 |     122.38 | Ardie Savea         |             83 |
+|             54 | Christian Lio-Willie   |      83.77 |                63 |        8 |                18 |      62.13 | Brayden Iose        |             83 |
+|             70 | Louie Chapman          |      94.32 |               nan |        9 |                76 |      93.21 | Cam Roigard         |             70 |
+|             83 | Richie Mo'unga         |     143.26 |                99 |       10 |                68 |      88.79 | Brett Cameron       |             83 |
+|             83 | Leicester Fainga'anuku |      79.06 |                51 |       11 |                93 |     108.39 | Kini Naholo         |             83 |
+|             83 | Jack Goodhue           |     101.57 |                86 |       12 |                91 |     106.55 | Jordie Barrett      |             83 |
+|             77 | Braydon Ennor          |     102.79 |                87 |       13 |                93 |     110.76 | Billy Proctor       |             83 |
+|             59 | Dallas McLeod          |     107.09 |                92 |       14 |                13 |      57.11 | Daniel Sinkinson    |             59 |
+|             83 | Will Jordan            |     125.71 |                96 |       15 |                52 |      82.42 | Joshua Moorby       |             83 |
+|             29 | Brodie McAlister       |     105.63 |                92 |       16 |                72 |      87.97 | Jacob Devery        |             27 |
+|             22 | Seb Calder             |      97.06 |               nan |       17 |                61 |      83    | Pouri Rakete-Stones |             18 |
+|             42 | Reuben O'Neill         |      86.11 |               nan |       18 |                92 |     103.29 | Owen Franks         |             27 |
+|             42 | Zach Gallagher         |      90.52 |                72 |       19 |                93 |     110.13 | Justin Sangster     |             24 |
+|             18 | Sione Havili           |      75.48 |                44 |       20 |                31 |      67.95 | TK Howden           |             10 |
+|             13 | Joel Lam               |      94.11 |               nan |       21 |                 7 |      51.46 | Jamie Booth         |             13 |
+|              6 | Fergus Burke           |      86.77 |                62 |       22 |                95 |     120.97 | Ruben Love          |              0 |
+|             24 | Chay Fihaki            |     111.7  |                94 |       23 |                83 |      99.09 | Bailyn Sullivan     |             24 |
 

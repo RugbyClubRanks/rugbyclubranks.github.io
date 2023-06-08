@@ -34,36 +34,36 @@ Treating teams instead as an entity made up of the currently active players, I h
 Lyon by 1.5 on a neutral field
 
 There were 7 large changes in win probability in this match
-## Prediction without Player Minutes: Lyon by 9.1
+## Prediction without Player Minutes: Lyon by 8.8
 
 
-Lyon by 5.1 on a neutral pitch
+Lyon by 4.8 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player          |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player               |   Home Minutes |
 |---------------:|:---------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------------|---------------:|
-|             45 | Jefferson Poirot     |      88.85 |                75 |        1 |                70 |      86.64 | Sébastien Taofifenua      |             54 |
-|             45 | Maxime Lamothe       |      84.56 |                67 |        2 |                56 |      80.13 | Liam Coltman              |             60 |
-|             45 | Vadim Cobilas        |      86.09 |                69 |        3 |                59 |      81.49 | Demba Bamba               |             66 |
-|             80 | Cyril Cazeaux        |      82.13 |                58 |        4 |                69 |      87.73 | Félix Lambey              |             49 |
-|             35 | Jan Andre Marais     |      81.19 |                56 |        5 |                90 |     104.76 | Romain Taofifenua         |             80 |
-|             59 | Mahamadou Diaby      |      74.48 |                42 |        6 |                39 |      73.23 | Dylan Cretin              |             80 |
-|             80 | Pierre Bochaton      |      87.4  |                70 |        7 |                48 |      76.6  | Beka Saghinadze           |             80 |
-|             80 | Tom Willis           |      82.33 |                57 |        8 |                48 |      78.77 | Liam Allen                |             70 |
-|             80 | Maxime Lucu          |      83.73 |                60 |        9 |                53 |      79.8  | Baptiste Couilloud        |             49 |
-|             80 | Matthieu Jalibert    |      76.85 |                44 |       10 |                60 |      84.68 | Lima Sopoaga              |             71 |
-|             80 | Santiago Cordero     |      79.2  |                53 |       11 |                78 |      93.94 | Ethan Dumortier           |             80 |
-|             80 | Yoram Moefana        |      80.02 |                53 |       12 |                60 |      84.04 | Josua Tuisova             |             66 |
-|             51 | Jean-Baptiste Dubié  |      81.5  |                55 |       13 |                71 |      90.67 | Josiah Maraku             |             80 |
-|             80 | Madosh Tambwe        |      67.26 |                27 |       14 |                51 |      78.41 | Tavite Veredamu           |             80 |
-|             80 | Louis Bielle Biarrey |      98.61 |                81 |       15 |                58 |      84.94 | Toby Arnold               |             80 |
-|             35 | Lesko Kaulashvili    |      95.54 |                85 |       16 |               nan |      80.43 | Feao Fotuaika             |             26 |
-|             35 | Gabriel Oghre        |      80.29 |                58 |       17 |                35 |      74.33 | Guillaume Marchand        |             20 |
-|             35 | Sipili Falatea       |      83.06 |                65 |       18 |                38 |      75.44 | Francisco Gomez Kodela    |             14 |
-|             45 | Kane Douglas         |      82.16 |                58 |       19 |                52 |      83.13 | Temo Sukayawa Mayanavanua |             31 |
-|             21 | Caleb Timu           |      90.5  |                75 |       20 |                47 |      77.8  | Mickael Guillard          |             10 |
-|             29 | Nicolas Depoortere   |      91.13 |                76 |       21 |                52 |      82.37 | Jonathan Pelissié         |             31 |
-|            nan | nan                  |     nan    |               nan |       22 |                35 |      73.48 | Jean-Marc Doussain        |              9 |
-|            nan | nan                  |     nan    |               nan |       23 |               nan |      75.35 | Alfred Parisien           |             14 |
+|             45 | Jefferson Poirot     |      85.31 |                68 |        1 |                67 |      85.28 | Sébastien Taofifenua      |             54 |
+|             45 | Maxime Lamothe       |      83.31 |                63 |        2 |                54 |      79.38 | Liam Coltman              |             60 |
+|             45 | Vadim Cobilas        |      92.91 |                81 |        3 |                57 |      80.81 | Demba Bamba               |             66 |
+|             80 | Cyril Cazeaux        |      85.52 |                65 |        4 |                61 |      83.83 | Félix Lambey              |             49 |
+|             35 | Jan Andre Marais     |      84.85 |                64 |        5 |                89 |     103.24 | Romain Taofifenua         |             80 |
+|             59 | Mahamadou Diaby      |      69.24 |                31 |        6 |                40 |      73.3  | Dylan Cretin              |             80 |
+|             80 | Pierre Bochaton      |      84.78 |                66 |        7 |                48 |      76.69 | Beka Saghinadze           |             80 |
+|             80 | Tom Willis           |      81.79 |                56 |        8 |                46 |      78.24 | Liam Allen                |             70 |
+|             80 | Maxime Lucu          |      80.67 |                54 |        9 |                55 |      81.11 | Baptiste Couilloud        |             49 |
+|             80 | Matthieu Jalibert    |      76.57 |                45 |       10 |                61 |      85.4  | Lima Sopoaga              |             71 |
+|             80 | Santiago Cordero     |      83    |                61 |       11 |                82 |      96.93 | Ethan Dumortier           |             80 |
+|             80 | Yoram Moefana        |      89.27 |                69 |       12 |                64 |      86.39 | Josua Tuisova             |             66 |
+|             51 | Jean-Baptiste Dubié  |      81.35 |                55 |       13 |                63 |      85.9  | Josiah Maraku             |             80 |
+|             80 | Madosh Tambwe        |      66.52 |                26 |       14 |                48 |      77.25 | Tavite Veredamu           |             80 |
+|             80 | Louis Bielle Biarrey |      88.98 |                65 |       15 |                58 |      85.59 | Toby Arnold               |             80 |
+|             35 | Lesko Kaulashvili    |      88.11 |                73 |       16 |               nan |      79.21 | Feao Fotuaika             |             26 |
+|             35 | Gabriel Oghre        |      80.56 |                58 |       17 |                33 |      73.8  | Guillaume Marchand        |             20 |
+|             35 | Sipili Falatea       |      82.44 |                63 |       18 |                39 |      75.77 | Francisco Gomez Kodela    |             14 |
+|             45 | Kane Douglas         |      82.64 |                58 |       19 |                57 |      85.65 | Temo Sukayawa Mayanavanua |             31 |
+|             21 | Caleb Timu           |      90.15 |                74 |       20 |                53 |      80.91 | Mickael Guillard          |             10 |
+|             29 | Nicolas Depoortere   |      91.5  |                76 |       21 |                46 |      79.69 | Jonathan Pelissié         |             31 |
+|            nan | nan                  |     nan    |               nan |       22 |                35 |      73.7  | Jean-Marc Doussain        |              9 |
+|            nan | nan                  |     nan    |               nan |       23 |               nan |      75.53 | Alfred Parisien           |             14 |
 

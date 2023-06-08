@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Racing 92 by 0.4
+## Prediction with Player Minutes: Racing 92 by 0.2
 
 
-Racing 92 by 4.4 on a neutral field
+Racing 92 by 4.2 on a neutral field
 
-There were 9 large changes in win probability in this match
-## Prediction without Player Minutes: Stade Francais Paris by 0.1
+There were 10 large changes in win probability in this match
+## Prediction without Player Minutes: Stade Francais Paris by 0.3
 
 
-Racing 92 by 3.9 on a neutral pitch
+Racing 92 by 3.7 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player             |   Home Minutes |
 |---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------|---------------:|
-|             68 | Guram Gogichashvili   |      79.79 |                55 |        1 |                34 |      71.9  | Moses Eneliko Alo-Emile |             61 |
-|             52 | Camille Chat          |      74.15 |                43 |        2 |                35 |      70.42 | Mickaël Ivaldi          |             56 |
-|             59 | Trevor Ntando Nyakane |      80.62 |                57 |        3 |                38 |      73.12 | Paul Alo-Emile          |             41 |
-|             80 | Fabien Sanconnie      |      85.97 |                68 |        4 |                45 |      76.11 | Paul Gabrillagues       |             80 |
-|             48 | Veikoso Poloniati     |      69.38 |                30 |        5 |                53 |      79.97 | Baptiste Pesenti        |             80 |
-|             80 | Wenceslas Lauret      |      64.81 |                22 |        6 |                38 |      72.45 | Marcos Kremer           |             80 |
-|             56 | Ibrahim Diallo        |      85.5  |                67 |        7 |                27 |      67.28 | Romain Briatte          |             68 |
-|             80 | Cameron Woki          |      68.39 |                29 |        8 |                20 |      63.7  | Sekou Macalou           |             80 |
-|             56 | Nolann Le Garrec      |      87.31 |                70 |        9 |                56 |      84.3  | Arthur Coville          |             66 |
-|             80 | Finn Russell          |      92.25 |                73 |       10 |                45 |      79.98 | Joris Segonds           |             80 |
-|             80 | Juan Imhoff           |      78.21 |                51 |       11 |                57 |      80.7  | Lester Etien            |             59 |
-|             68 | Henry Chavancy        |      87.02 |                66 |       12 |                34 |      70.95 | Alex Arrate             |             80 |
-|             80 | Gael Fickou           |      98.78 |                83 |       13 |                35 |      71.18 | Jeremy Charles Ward     |             80 |
-|             59 | Donovan Taofifenua    |      53.71 |                10 |       14 |                76 |      92.22 | Peniasi Dakuwaqa        |             64 |
-|             80 | Max Spring            |      87.17 |                62 |       15 |                61 |      86.82 | Kylan Hamdaoui          |             65 |
-|             32 | Boris Palu            |      62.47 |                18 |       16 |                44 |      75.4  | Vincent Philip Koch     |             39 |
-|             24 | Antoine Gibert        |      72.46 |                35 |       17 |                41 |      73.74 | Lucas Peyresblanques    |             24 |
-|             21 | Warrick Wayne Gelant  |      63.47 |                20 |       18 |                40 |      74.17 | Pierre-Henri Azagoh     |             21 |
-|             21 | Cedate Gomes Sa       |      71.8  |               nan |       19 |                37 |      72.96 | Vasil Kakovin           |             19 |
-|             12 | Eddy Ben Arous        |      74.35 |                41 |       20 |                44 |      75.67 | Nadir Megdoud           |             16 |
-|             12 | Francis Saili         |      72.55 |                37 |       21 |                29 |      69.83 | Léo Barré               |             15 |
-|             24 | Anthime Hemery        |      74.64 |                41 |       22 |                28 |      68.3  | Morgan Parra            |             14 |
-|             28 | Janick Tarrit         |      69.75 |                32 |       23 |                52 |      77.96 | Mathieu Hirigoyen       |             12 |
+|             68 | Guram Gogichashvili   |      78.57 |                50 |        1 |                31 |      70.08 | Moses Eneliko Alo-Emile |             61 |
+|             52 | Camille Chat          |      73.85 |                41 |        2 |                34 |      70.22 | Mickaël Ivaldi          |             56 |
+|             59 | Trevor Ntando Nyakane |      80.37 |                56 |        3 |                29 |      68.84 | Paul Alo-Emile          |             41 |
+|             80 | Fabien Sanconnie      |      89.79 |                75 |        4 |                38 |      73.61 | Paul Gabrillagues       |             80 |
+|             48 | Veikoso Poloniati     |      70.43 |                32 |        5 |                51 |      79.23 | Baptiste Pesenti        |             80 |
+|             80 | Wenceslas Lauret      |      63.39 |                20 |        6 |                38 |      72.19 | Marcos Kremer           |             80 |
+|             56 | Ibrahim Diallo        |      82.56 |                61 |        7 |                30 |      68.76 | Romain Briatte          |             68 |
+|             80 | Cameron Woki          |      72.17 |                38 |        8 |                20 |      63.93 | Sekou Macalou           |             80 |
+|             56 | Nolann Le Garrec      |      83.52 |                62 |        9 |                57 |      84.08 | Arthur Coville          |             66 |
+|             80 | Finn Russell          |      92.62 |                74 |       10 |                52 |      83.57 | Joris Segonds           |             80 |
+|             80 | Juan Imhoff           |      77.38 |                48 |       11 |                61 |      83.01 | Lester Etien            |             59 |
+|             68 | Henry Chavancy        |      83.91 |                59 |       12 |                40 |      73.54 | Alex Arrate             |             80 |
+|             80 | Gael Fickou           |      99.19 |                83 |       13 |                28 |      67.74 | Jeremy Charles Ward     |             80 |
+|             59 | Donovan Taofifenua    |      52.95 |                 9 |       14 |                76 |      91.65 | Peniasi Dakuwaqa        |             64 |
+|             80 | Max Spring            |      85.44 |                58 |       15 |                68 |      89.83 | Kylan Hamdaoui          |             65 |
+|             32 | Boris Palu            |      62.64 |                18 |       16 |                44 |      75.22 | Vincent Philip Koch     |             39 |
+|             24 | Antoine Gibert        |      71.72 |                33 |       17 |                41 |      73.83 | Lucas Peyresblanques    |             24 |
+|             21 | Warrick Wayne Gelant  |      63.79 |                20 |       18 |                37 |      72.92 | Pierre-Henri Azagoh     |             21 |
+|             21 | Cedate Gomes Sa       |      72.37 |               nan |       19 |                36 |      72.36 | Vasil Kakovin           |             19 |
+|             12 | Eddy Ben Arous        |      79.63 |                54 |       20 |                44 |      75.5  | Nadir Megdoud           |             16 |
+|             12 | Francis Saili         |      72.74 |                38 |       21 |                34 |      71.75 | Léo Barré               |             15 |
+|             24 | Anthime Hemery        |      75.21 |                42 |       22 |                23 |      65.5  | Morgan Parra            |             14 |
+|             28 | Janick Tarrit         |      70.97 |                34 |       23 |                45 |      75.23 | Mathieu Hirigoyen       |             12 |
 

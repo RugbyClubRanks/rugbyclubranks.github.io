@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Queensland Reds by 6.7
+## Prediction with Player Minutes: Queensland Reds by 6.8
 
 
-Queensland Reds by 10.7 on a neutral field
+Queensland Reds by 10.8 on a neutral field
 
-There were 5 large changes in win probability in this match
-## Prediction without Player Minutes: Queensland Reds by 7.8
+There were 4 large changes in win probability in this match
+## Prediction without Player Minutes: Queensland Reds by 8.0
 
 
-Queensland Reds by 11.8 on a neutral pitch
+Queensland Reds by 12.0 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player      |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player           |   Home Minutes |
 |---------------:|:-----------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------|---------------:|
-|             53 | Peni Ravai       |      89.81 |                77 |        1 |                83 |      94.42 | Haereiti Hetet        |             75 |
-|             63 | Matt Faessler    |      78.67 |                51 |        2 |                96 |     112.7  | Tevita Ikanivere      |             72 |
-|             53 | Zane Nonggorr    |      91.71 |                79 |        3 |                16 |      61.37 | Mesake Doge           |             54 |
-|             80 | Angus Blyth      |     110.34 |                94 |        4 |                95 |     113.46 | Isoa Nasilasila       |             80 |
-|             68 | Ryan Smith       |      86.17 |                67 |        5 |                31 |      70.36 | Ratu Rotuisolia       |             41 |
-|             78 | Seru Uru         |      75.03 |                41 |        6 |                22 |      64.67 | Joseva Tamani         |             80 |
-|             80 | Fraser McReight  |      75.7  |                46 |        7 |                21 |      64.32 | Vilive Miramira       |             80 |
-|             80 | Harry Wilson     |     100.83 |                87 |        8 |                62 |      84.48 | Ratu Meli Derenalagi  |             68 |
-|             68 | Tate McDermott   |     101.66 |                87 |        9 |                35 |      72.13 | Frank Lomani          |             80 |
-|             64 | James O'Connor   |      81.45 |                56 |       10 |                37 |      72.97 | Caleb Muntz           |             80 |
-|             80 | Filipo Daugunu   |     107.01 |                92 |       11 |                99 |     135.98 | Kalaveti Ravouvou     |             80 |
-|             64 | Hunter Paisami   |     112.66 |                94 |       12 |                81 |      96.82 | Teti Tela             |             75 |
-|             71 | Josh Flook       |      77.41 |                47 |       13 |                33 |      70.46 | Iosefo Masi           |             57 |
-|             80 | Suliasi Vunivalu |      94.57 |                79 |       14 |                52 |      78.45 | Eroni Sau             |             63 |
-|             80 | Jock Campbell    |      91.19 |                71 |       15 |                30 |      68.66 | Selestino Ravutaumada |             80 |
-|             17 | Richie Asiata    |     105    |                92 |       16 |               nan |      82.27 | Mesulame Dolokoto     |              8 |
-|             27 | Dane Zander      |      87.36 |                81 |       17 |                66 |      82.38 | Meli Tuni             |              5 |
-|             27 | Sef Fa'agase     |      78.81 |                50 |       18 |                37 |      71    | Samuela Tawake        |             26 |
-|              2 | Lopeti Faifua    |      87.7  |                64 |       19 |               nan |      78.62 | Etonia Waqa           |             39 |
-|             12 | Jake Upfield     |      95.16 |                78 |       20 |                49 |      77.72 | Elia Canakaivata      |             12 |
-|             12 | Kalani Thomas    |      87.44 |                69 |       21 |                70 |      88.55 | Peni Matawalu         |             17 |
-|             16 | Tom Lynagh       |      97.94 |                82 |       22 |               nan |      86.54 | Kemu Valetini         |              5 |
-|             25 | Lawson Creighton |      89.11 |                67 |       23 |                53 |      78.72 | Michael Naitokani     |             23 |
+|             51 | Peni Ravai       |      89.8  |                76 |        1 |                83 |      94.49 | Haereiti Hetet        |             74 |
+|             63 | Matt Faessler    |      79.13 |                53 |        2 |                95 |     110.8  | Tevita Ikanivere      |             72 |
+|             51 | Zane Nonggorr    |      90.15 |                77 |        3 |                18 |      62.57 | Mesake Doge           |             54 |
+|             80 | Angus Blyth      |     109.53 |                93 |        4 |                95 |     113.12 | Isoa Nasilasila       |             80 |
+|             68 | Ryan Smith       |      86.93 |                68 |        5 |                30 |      69.87 | Ratu Rotuisolia       |             41 |
+|             77 | Seru Uru         |      74.71 |                38 |        6 |                21 |      64.56 | Joseva Tamani         |             80 |
+|             80 | Fraser McReight  |      76.59 |                48 |        7 |                23 |      65.66 | Vilive Miramira       |             80 |
+|             80 | Harry Wilson     |     102.01 |                87 |        8 |                60 |      84.18 | Ratu Meli Derenalagi  |             68 |
+|             68 | Tate McDermott   |      99.58 |                84 |        9 |                31 |      70.6  | Frank Lomani          |             80 |
+|             64 | James O'Connor   |      83.93 |                59 |       10 |                35 |      72.28 | Caleb Muntz           |             80 |
+|             80 | Filipo Daugunu   |     104.07 |                89 |       11 |                99 |     137.68 | Kalaveti Ravouvou     |             80 |
+|             64 | Hunter Paisami   |     114.07 |                95 |       12 |                80 |      96.8  | Teti Tela             |             74 |
+|             71 | Josh Flook       |      74.18 |                41 |       13 |                34 |      70.87 | Iosefo Masi           |             57 |
+|             80 | Suliasi Vunivalu |      95.58 |                80 |       14 |                41 |      74.22 | Eroni Sau             |             63 |
+|             80 | Jock Campbell    |      89.84 |                68 |       15 |                30 |      68.61 | Selestino Ravutaumada |             80 |
+|             17 | Richie Asiata    |     104.89 |                91 |       16 |               nan |      81.89 | Mesulame Dolokoto     |              8 |
+|             29 | Dane Zander      |      84.34 |                77 |       17 |                66 |      82.36 | Meli Tuni             |              6 |
+|             29 | Sef Fa'agase     |      82.63 |                59 |       18 |                36 |      70.48 | Samuela Tawake        |             26 |
+|              3 | Lopeti Faifua    |      87.06 |                62 |       19 |               nan |      78.32 | Etonia Waqa           |             39 |
+|             12 | Jake Upfield     |      95.26 |                78 |       20 |                48 |      76.85 | Elia Canakaivata      |             12 |
+|             12 | Kalani Thomas    |      88.83 |                71 |       21 |                68 |      87.53 | Peni Matawalu         |             17 |
+|             16 | Tom Lynagh       |      98.06 |                81 |       22 |               nan |      86.3  | Kemu Valetini         |              6 |
+|             25 | Lawson Creighton |      88.85 |                67 |       23 |                52 |      78.15 | Michael Naitokani     |             23 |
 
