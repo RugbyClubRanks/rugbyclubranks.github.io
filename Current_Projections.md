@@ -10,75 +10,55 @@ key: page-projections
 
 [In depth model review and projections for Major League Rugby 2022](comp_files/Major_League_Rugby_2022)
 
-Competition Accuracy: 80 of 124 (64.52%)
+Competition Accuracy: 81 of 124 (65.32%)
 
-Competition Error: 13.12 points per match
+Competition Error: 13.05 points per match
 
 Last Round Accuracy: 6 of 8 (75.0%)
 
-Last Round Error: 8.09 points per match
+Last Round Error: 8.01 points per match
 
-[2023-06-10 Old Glory DC (~1498.02) at Houston SaberCats (~1619.2)](projections//2023-06-10-HoustonSaberCats-OldGloryDC)
+[2023-06-18 Rugby ATL (~1477.52) at Old Glory DC (~1556.31)](projections//2023-06-18-OldGloryDC-RugbyATL)
 
-[2023-06-11 Chicago Hounds (~1369.04) at Utah Warriors (~1656.73)](projections//2023-06-11-UtahWarriors-ChicagoHounds)
+[2023-06-18 NOLA Gold (~1452.52) at Toronto Arrows (~1454.25)](projections//2023-06-18-TorontoArrows-NOLAGold)
 
-[2023-06-11 San Diego Legion (~1737.72) at Toronto Arrows (~1478.99)](projections//2023-06-11-TorontoArrows-SanDiegoLegion)
+[2023-06-18 Houston SaberCats (~1532.49) at New England Free Jacks (~1811.89)](projections//2023-06-18-NewEnglandFreeJacks-HoustonSaberCats)
 
-[2023-06-11 Rugby New York (~1546.5) at Rugby ATL (~1605.76)](projections//2023-06-11-RugbyATL-RugbyNewYork)
+[2023-06-18 Utah Warriors (~1523.83) at Rugby New York (~1635.96)](projections//2023-06-18-RugbyNewYork-UtahWarriors)
 
-[2023-06-11 NOLA Gold (~1459.81) at Dallas Jackals (~1451.22)](projections//2023-06-11-DallasJackals-NOLAGold)
+[2023-06-18 Chicago Hounds (~1398.96) at Dallas Jackals (~1410.36)](projections//2023-06-18-DallasJackals-ChicagoHounds)
 
-[2023-06-12 New England Free Jacks (~1723.02) at Seattle Seawolves (~1791.91)](projections//2023-06-12-SeattleSeawolves-NewEnglandFreeJacks)
-## Super Rugby Americas
-
-
-[In depth model review and projections for Super Rugby Americas 2022](comp_files/Super_Rugby_Americas_2022)
-
-Competition Accuracy: 2 of 3 (66.67%)
-
-Competition Error: 17.26 points per match
-
-Last Round Accuracy: 2 of 3 (66.67%)
-
-Last Round Error: 17.26 points per match
-
-[2023-06-09 Dogos XV (~1453.49) at Penarol Rugby (~1748.31)](projections//2023-06-09-PenarolRugby-DogosXV)
+[2023-06-19 Seattle Seawolves (~1671.3) at San Diego Legion (~1822.48)](projections//2023-06-19-SanDiegoLegion-SeattleSeawolves)
 ## Super Rugby Pacific
 
 
-[In depth model review and projections for Super Rugby Pacific 2023](comp_files/Super_Rugby_Pacific_2023)
+[In depth model review and projections for Super Rugby Pacific 2022](comp_files/Super_Rugby_Pacific_2022)
 
-Competition Accuracy: 66 of 84 (78.57%)
+Competition Accuracy: 67 of 93 (72.04%)
 
-Competition Error: 12.05 points per match
+Competition Error: 11.57 points per match
 
-Last Round Accuracy: 3 of 6 (50.0%)
+Last Round Accuracy: 5 of 6 (83.33%)
 
-Last Round Error: 13.4 points per match
+Last Round Error: 11.22 points per match
 
-[2023-06-09 New South Wales Waratahs (~1410.19) at Blues (~1701.51)](projections//2023-06-09-Blues-NewSouthWalesWaratahs)
+[2023-06-16 Blues (~1618.31) at Crusaders (~1764.49)](projections//2023-06-16-Crusaders-Blues)
 
-[2023-06-10 Queensland Reds (~1365.94) at Chiefs (~1781.16)](projections//2023-06-10-Chiefs-QueenslandReds)
-
-[2023-06-10 Fijian Drua (~1286.95) at Crusaders (~1760.76)](projections//2023-06-10-Crusaders-FijianDrua)
-
-[2023-06-10 Hurricanes (~1533.3) at Brumbies (~1620.44)](projections//2023-06-10-Brumbies-Hurricanes)
+[2023-06-17 Brumbies (~1527.88) at Chiefs (~1770.4)](projections//2023-06-17-Chiefs-Brumbies)
 ## Top 14 Orange
 
 
 [In depth model review and projections for Top 14 Orange 2022](comp_files/Top_14_Orange_2022)
 
-Competition Accuracy: 128 of 185 (69.19%)
+Competition Accuracy: 130 of 187 (69.52%)
 
-Competition Error: 11.04 points per match
+Competition Error: 11.02 points per match
 
 Last Round Accuracy: 5 of 8 (62.5%)
 
-Last Round Error: 13.64 points per match
+Last Round Error: 12.92 points per match
 
-[2023-06-09 Racing 92 (~1683.63) at Stade Toulousain (~1851.71)](projections//2023-06-09-StadeToulousain-Racing92)
-
-[2023-06-10 Bordeaux Begles (~1680.2) at La Rochelle (~1870.47)](projections//2023-06-10-LaRochelle-BordeauxBegles)
+[2023-06-17 La Rochelle (~1784.26) at Stade Toulousain (~1858.33)](projections//2023-06-17-StadeToulousain-LaRochelle)
 # Domestic Leagues
 
 ## Currie Cup
@@ -86,42 +66,14 @@ Last Round Error: 13.64 points per match
 
 [In depth model review and projections for Currie Cup 2023](comp_files/Currie_Cup_2023)
 
-Competition Accuracy: 29 of 53 (54.72%)
+Competition Accuracy: 30 of 57 (52.63%)
 
-Competition Error: 15.37 points per match
+Competition Error: 15.52 points per match
 
-Last Round Accuracy: 3 of 4 (75.0%)
+Last Round Accuracy: 1 of 4 (25.0%)
 
-Last Round Error: 9.47 points per match
+Last Round Error: 17.51 points per match
 
-[2023-06-09 Pumas (~1450.18) at Griquas (~1524.69)](projections//2023-06-09-Griquas-Pumas)
+[2023-06-17 Blue Bulls (~1453.62) at Free State Cheetahs (~1623.24)](projections//2023-06-17-FreeStateCheetahs-BlueBulls)
 
-[2023-06-09 Griffons (~1180.36) at Golden Lions (~1516.22)](projections//2023-06-09-GoldenLions-Griffons)
-
-[2023-06-10 Natal Sharks (~1546.32) at Western Province (~1492.46)](projections//2023-06-10-WesternProvince-NatalSharks)
-
-[2023-06-10 Free State Cheetahs (~1516.64) at Blue Bulls (~1550.01)](projections//2023-06-10-BlueBulls-FreeStateCheetahs)
-## URBA Top 13
-
-
-[In depth model review and projections for URBA Top 13 2022](comp_files/URBA_Top_13_2022)
-
-Competition Accuracy: 144 of 213 (67.61%)
-
-Competition Error: 11.16 points per match
-
-Last Round Accuracy: 5 of 7 (71.43%)
-
-Last Round Error: 9.01 points per match
-
-[2023-06-10 San Luis (~1576.13) at CASI (~1641.33)](projections//2023-06-10-CASI-SanLuis)
-
-[2023-06-10 Alumni (~1737.76) at Atlético del Rosario (~1701.51)](projections//2023-06-10-AtléticodelRosario-Alumni)
-
-[2023-06-10 Buenos Aires (~1662.54) at La Plata (~1755.64)](projections//2023-06-10-LaPlata-BuenosAires)
-
-[2023-06-10 Hindu (~1759.45) at SIC (~1816.79)](projections//2023-06-10-SIC-Hindu)
-
-[2023-06-10 Belgrano (~1730.11) at Pucara (~1531.04)](projections//2023-06-10-Pucara-Belgrano)
-
-[2023-06-10 Newman (~1751.55) at CUBA (~1821.26)](projections//2023-06-10-CUBA-Newman)
+[2023-06-17 Pumas (~1465.55) at Natal Sharks (~1605.71)](projections//2023-06-17-NatalSharks-Pumas)
