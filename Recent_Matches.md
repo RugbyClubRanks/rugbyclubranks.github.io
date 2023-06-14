@@ -12,19 +12,11 @@ key: page-recents
 
 Competition Accuracy: 67 of 90 (74.44%)
 
-Competition Error: 12.66 points per match
+Competition Error: 12.65 points per match
 
 Last Round Accuracy: 3 of 6 (50.0%)
 
-Last Round Error: 15.29 points per match
-
-[2023-06-03 New England Free Jacks at Rugby ATL; 35-14](reviews//2023-06-03-RugbyATL-NewEnglandFreeJacks)
-
-[2023-06-04 Old Glory DC at NOLA Gold; 28-15](reviews//2023-06-04-NOLAGold-OldGloryDC)
-
-[2023-06-04 San Diego Legion at Chicago Hounds; 36-14](reviews//2023-06-04-ChicagoHounds-SanDiegoLegion)
-
-[2023-06-04 Houston SaberCats at Toronto Arrows; 48-26](reviews//2023-06-04-TorontoArrows-HoustonSaberCats)
+Last Round Error: 15.35 points per match
 
 [2023-06-04 Dallas Jackals at Rugby New York; 14-43](reviews//2023-06-04-RugbyNewYork-DallasJackals)
 
@@ -52,10 +44,6 @@ Last Round Accuracy: 2 of 4 (50.0%)
 
 Last Round Error: 12.9 points per match
 
-[2023-06-03 Yacare XV at Penarol Rugby; 17-30](reviews//2023-06-03-PenarolRugby-YacareXV)
-
-[2023-06-03 Pampas XV at Dogos XV; 16-27](reviews//2023-06-03-DogosXV-PampasXV)
-
 [2023-06-10 Dogos XV at Penarol Rugby; 17-23](reviews//2023-06-10-PenarolRugby-DogosXV)
 ## Super Rugby Pacific
 
@@ -70,21 +58,13 @@ Last Round Accuracy: 5 of 6 (83.33%)
 
 Last Round Error: 13.26 points per match
 
-[2023-06-03 Queensland Reds at Fijian Drua; 17-41](reviews//2023-06-03-FijianDrua-QueenslandReds)
+[2023-06-09 New South Wales Waratahs at Blues; 12.0-41.0](reviews//2023-06-09-Blues-NewSouthWalesWaratahs)
 
-[2023-06-03 Crusaders at Hurricanes; 26-27](reviews//2023-06-03-Hurricanes-Crusaders)
+[2023-06-10 Queensland Reds at Chiefs; 20.0-29.0](reviews//2023-06-10-Chiefs-QueenslandReds)
 
-[2023-06-03 Moana Pasifika at New South Wales Waratahs; 33-24](reviews//2023-06-03-NewSouthWalesWaratahs-MoanaPasifika)
+[2023-06-10 Fijian Drua at Crusaders; 8.0-49.0](reviews//2023-06-10-Crusaders-FijianDrua)
 
-[2023-06-03 Chiefs at Western Force; 43-19](reviews//2023-06-03-WesternForce-Chiefs)
-
-[2023-06-09 New South Wales Waratahs at Blues; 12-41](reviews//2023-06-09-Blues-NewSouthWalesWaratahs)
-
-[2023-06-10 Queensland Reds at Chiefs; 20-29](reviews//2023-06-10-Chiefs-QueenslandReds)
-
-[2023-06-10 Fijian Drua at Crusaders; 8-49](reviews//2023-06-10-Crusaders-FijianDrua)
-
-[2023-06-10 Hurricanes at Brumbies; 33-37](reviews//2023-06-10-Brumbies-Hurricanes)
+[2023-06-10 Hurricanes at Brumbies; 33.0-37.0](reviews//2023-06-10-Brumbies-Hurricanes)
 ## Top 14 Orange
 
 
@@ -97,10 +77,6 @@ Competition Error: 11.02 points per match
 Last Round Accuracy: 5 of 8 (62.5%)
 
 Last Round Error: 12.92 points per match
-
-[2023-06-03 Racing 92 at Stade Francais Paris; 33-20](reviews//2023-06-03-StadeFrancaisParis-Racing92)
-
-[2023-06-03 Perpignan at Grenoble; 33-19](reviews//2023-06-03-Grenoble-Perpignan)
 
 [2023-06-04 Bordeaux Begles at Lyon; 32-25](reviews//2023-06-04-Lyon-BordeauxBegles)
 
@@ -116,19 +92,11 @@ Last Round Error: 12.92 points per match
 
 Competition Accuracy: 30 of 57 (52.63%)
 
-Competition Error: 15.52 points per match
+Competition Error: 15.56 points per match
 
 Last Round Accuracy: 1 of 4 (25.0%)
 
 Last Round Error: 17.51 points per match
-
-[2023-06-02 Western Province at Griquas; 29-38](reviews//2023-06-02-Griquas-WesternProvince)
-
-[2023-06-02 Griffons at Blue Bulls; 33-64](reviews//2023-06-02-BlueBulls-Griffons)
-
-[2023-06-03 Free State Cheetahs at Pumas; 29-14](reviews//2023-06-03-Pumas-FreeStateCheetahs)
-
-[2023-06-03 Golden Lions at Natal Sharks; 21-29](reviews//2023-06-03-NatalSharks-GoldenLions)
 
 [2023-06-09 Pumas at Griquas; 27-17](reviews//2023-06-09-Griquas-Pumas)
 

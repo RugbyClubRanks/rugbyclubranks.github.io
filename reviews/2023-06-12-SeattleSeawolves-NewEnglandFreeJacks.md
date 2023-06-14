@@ -28,34 +28,34 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Seattle Seawolves by 3.3
+## Prediction with Player Minutes: Seattle Seawolves by 4.1
 
 
-New England Free Jacks by 0.7 on a neutral field
+Seattle Seawolves by 0.1 on a neutral field
 
-There were 8 large changes in win probability in this match
-## Prediction without Player Minutes: Seattle Seawolves by 3.3
+There were 9 large changes in win probability in this match
+## Prediction without Player Minutes: Seattle Seawolves by 4.1
 
 
-New England Free Jacks by 0.7 on a neutral pitch
+Seattle Seawolves by 0.1 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player        |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player            |   Home Minutes |
 |---------------:|:-------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------------|---------------:|
-|             80 | Kianu Kereru-Symes |      64.32 |                19 |        1 |                64 |      83.53 | Jake Turnbull          |             80 |
-|             80 | Andrew Quattrin    |      55.42 |                10 |        2 |                18 |      62.01 | James Malcolm          |             80 |
-|             80 | Joel Hintz         |      55.15 |                 8 |        3 |                20 |      65.26 | Sam Matenga            |             80 |
-|             80 | Semisi Paea        |      81.31 |                57 |        4 |                12 |      56.95 | Samu Manoa             |             80 |
-|             80 | Reegan O'Gorman    |      60.29 |                16 |        5 |                49 |      77.18 | Taylor Krumrei         |             80 |
-|             80 | Sam Fischli        |      53.55 |                 8 |        6 |                 0 |     -34.43 | Ben Mitchell           |             80 |
-|             80 | Joe Johnston       |      19.46 |                 0 |        7 |                23 |      65.4  | Charles Elton          |             80 |
-|             80 | Cam Davidowicz     |      34.46 |                 0 |        8 |               nan |      61.6  | Andrew Durutalo        |             80 |
-|             80 | John Poland        |      98.43 |                83 |        9 |                54 |      80.32 | JP Smith               |             80 |
-|             80 | Jayson Potroz      |      80.55 |                52 |       10 |                19 |      62.63 | AJ Alatimu             |             80 |
-|             80 | Paul Balekana      |      75.12 |                43 |       11 |                14 |      57.53 | Martin Iosefo          |             80 |
-|             80 | Spencer Jones      |      59.36 |                12 |       12 |                10 |      56.06 | Daniel David Kriel     |             80 |
-|             80 | Wayne van der Bank |      74.47 |                42 |       13 |                33 |      70.45 | Tevita Lopeti          |             80 |
-|             80 | Taniela Filimone   |      54.77 |                10 |       14 |                96 |     116.93 | Lauina Futi            |             80 |
-|             80 | Beaudein Waaka     |      88.3  |                66 |       15 |                25 |      66.52 | Duncan Victor Matthews |             80 |
+|             80 | Kianu Kereru-Symes |      63.87 |                18 |        1 |                66 |      84.24 | Jake Turnbull          |             80 |
+|             80 | Andrew Quattrin    |      54.97 |                 9 |        2 |                21 |      63.31 | James Malcolm          |             80 |
+|             80 | Joel Hintz         |      55.29 |                 8 |        3 |                19 |      64.04 | Sam Matenga            |             80 |
+|             80 | Semisi Paea        |      81.73 |                58 |        4 |                11 |      56.83 | Samu Manoa             |             80 |
+|             80 | Reegan O'Gorman    |      59.63 |                14 |        5 |                48 |      76.74 | Taylor Krumrei         |             80 |
+|             80 | Sam Fischli        |      53.21 |                 8 |        6 |                 0 |     -32.58 | Ben Mitchell           |             80 |
+|             80 | Joe Johnston       |      13.11 |                 0 |        7 |                23 |      65.19 | Charles Elton          |             80 |
+|             80 | Cam Davidowicz     |      36.03 |                 0 |        8 |               nan |      61.6  | Andrew Durutalo        |             80 |
+|             80 | John Poland        |      95.19 |                80 |        9 |                47 |      77.18 | JP Smith               |             80 |
+|             80 | Jayson Potroz      |      80.14 |                52 |       10 |                19 |      62.2  | AJ Alatimu             |             80 |
+|             80 | Paul Balekana      |      74.91 |                43 |       11 |                12 |      56.76 | Martin Iosefo          |             80 |
+|             80 | Spencer Jones      |      55.97 |                10 |       12 |                10 |      55.57 | Daniel David Kriel     |             80 |
+|             80 | Wayne van der Bank |      75.24 |                43 |       13 |                32 |      70.01 | Tevita Lopeti          |             80 |
+|             80 | Taniela Filimone   |      54.97 |                11 |       14 |                96 |     115.86 | Lauina Futi            |             80 |
+|             80 | Beaudein Waaka     |      88    |                65 |       15 |                24 |      65.93 | Duncan Victor Matthews |             80 |
 
