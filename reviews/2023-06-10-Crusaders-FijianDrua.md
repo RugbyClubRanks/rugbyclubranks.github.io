@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Crusaders by 18.1
+## Prediction with Player Minutes: Crusaders by 18.8
 
 
-Crusaders by 14.1 on a neutral field
+Crusaders by 14.8 on a neutral field
 
 There were 2 large changes in win probability in this match
-## Prediction without Player Minutes: Crusaders by 19.6
+## Prediction without Player Minutes: Crusaders by 20.2
 
 
-Crusaders by 15.6 on a neutral pitch
+Crusaders by 16.2 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player             |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player            |   Home Minutes |
 |---------------:|:------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------------|---------------:|
-|             28 | Haereiti Hetet          |      95.89 |                86 |        1 |                86 |      95.81 | Tamaiti Williams       |             57 |
-|             57 | Tevita Ikanivere        |     111.93 |                95 |        2 |                82 |      93.16 | Codie Taylor           |             51 |
-|             77 | Mesake Doge             |      61.58 |                17 |        3 |                92 |     103.7  | Oli Jager              |             51 |
-|             80 | Isoa Nasilasila         |     121.22 |                96 |        4 |                98 |     126.24 | Scott Barrett          |             80 |
-|             62 | Te Ahiwaru Cirikidaveta |      93.66 |                80 |        5 |                45 |      74.95 | Quinten Strange        |             80 |
-|             80 | Vilive Miramira         |      72.76 |                39 |        6 |                44 |      75.55 | Sione Havili           |             80 |
-|             51 | Motikiai Murray         |      82.61 |               nan |        7 |                87 |     101.13 | Tom Christie           |             80 |
-|             80 | Ratu Meli Derenalagi    |      91.33 |                75 |        8 |                58 |      82.12 | Christian Lio-Willie   |             51 |
-|             62 | Frank Lomani            |      75.49 |                44 |        9 |                71 |      89.59 | Mitchell Drummond      |             51 |
-|             51 | Caleb Muntz             |      78.09 |                50 |       10 |                99 |     140.17 | Richie Mo'unga         |             71 |
-|             57 | Kalaveti Ravouvou       |     143.17 |                99 |       11 |                51 |      78.53 | Leicester Fainga'anuku |             80 |
-|             80 | Teti Tela               |     101.22 |                86 |       12 |                82 |      97.61 | Jack Goodhue           |             80 |
-|             80 | Iosefo Masi             |      74.71 |                42 |       13 |                89 |     104.75 | Braydon Ennor          |             51 |
-|             80 | Selestino Ravutaumada   |      74.55 |                40 |       14 |                89 |     102.95 | Dallas McLeod          |             43 |
-|             80 | Ilaisa Droasese         |      78.63 |                47 |       15 |                97 |     127.08 | Will Jordan            |             80 |
-|             23 | Zuriel Togiatama        |      75.76 |                48 |       16 |                92 |     105    | Brodie McAlister       |             29 |
-|             43 | Meli Tuni               |      82.59 |                67 |       17 |                80 |      91.85 | Kershawl Sykes-Martin  |             23 |
-|             12 | Samuela Tawake          |      73.3  |                37 |       18 |               nan |      84.98 | Reuben O'Neill         |             29 |
-|             18 | Etonia Waqa             |      82.78 |               nan |       19 |                74 |      89.86 | Zach Gallagher         |              7 |
-|             29 | Elia Canakaivata        |      78.15 |                50 |       20 |                99 |     131.14 | Ethan Blackadder       |              5 |
-|             18 | Peni Matawalu           |      87.82 |                68 |       21 |                75 |      93.16 | Willi Heinz            |             29 |
-|             29 | Michael Naitokani       |      81.48 |                54 |       22 |                62 |      86.29 | Fergus Burke           |             29 |
-|             23 | Eroni Sau               |      76.97 |                47 |       23 |                94 |     111.3  | Chay Fihaki            |             37 |
+|             28 | Haereiti Hetet          |      95.93 |                86 |        1 |                85 |      95.28 | Tamaiti Williams       |             57 |
+|             57 | Tevita Ikanivere        |     112.02 |                96 |        2 |                79 |      91.94 | Codie Taylor           |             51 |
+|             77 | Mesake Doge             |      60.18 |                15 |        3 |                92 |     104.15 | Oli Jager              |             51 |
+|             80 | Isoa Nasilasila         |     117.12 |                96 |        4 |                98 |     127.36 | Scott Barrett          |             80 |
+|             62 | Te Ahiwaru Cirikidaveta |      98.09 |                84 |        5 |                46 |      75.92 | Quinten Strange        |             80 |
+|             80 | Vilive Miramira         |      73.2  |                41 |        6 |                45 |      75.48 | Sione Havili           |             80 |
+|             51 | Motikiai Murray         |      82.17 |               nan |        7 |                87 |     100.26 | Tom Christie           |             80 |
+|             80 | Ratu Meli Derenalagi    |      90.07 |                73 |        8 |                57 |      81.78 | Christian Lio-Willie   |             51 |
+|             62 | Frank Lomani            |      73.31 |                39 |        9 |                70 |      88.92 | Mitchell Drummond      |             51 |
+|             51 | Caleb Muntz             |      76.58 |                47 |       10 |                99 |     141.49 | Richie Mo'unga         |             71 |
+|             57 | Kalaveti Ravouvou       |     139.5  |                99 |       11 |                52 |      78.45 | Leicester Fainga'anuku |             80 |
+|             80 | Teti Tela               |      99.74 |                84 |       12 |                81 |      97.56 | Jack Goodhue           |             80 |
+|             80 | Iosefo Masi             |      75.51 |                44 |       13 |                87 |     102.35 | Braydon Ennor          |             51 |
+|             80 | Selestino Ravutaumada   |      75.6  |                41 |       14 |                90 |     103.38 | Dallas McLeod          |             43 |
+|             80 | Ilaisa Droasese         |      79.16 |                50 |       15 |                97 |     127.54 | Will Jordan            |             80 |
+|             23 | Zuriel Togiatama        |      76.11 |                49 |       16 |                92 |     104.74 | Brodie McAlister       |             29 |
+|             43 | Meli Tuni               |      82.26 |                66 |       17 |                79 |      91.43 | Kershawl Sykes-Martin  |             23 |
+|             12 | Samuela Tawake          |      72.81 |                35 |       18 |               nan |      85.22 | Reuben O'Neill         |             29 |
+|             18 | Etonia Waqa             |      82.29 |               nan |       19 |                74 |      89.87 | Zach Gallagher         |              7 |
+|             29 | Elia Canakaivata        |      77.72 |                49 |       20 |                98 |     127.7  | Ethan Blackadder       |              5 |
+|             18 | Peni Matawalu           |      87.76 |                68 |       21 |                76 |      93.88 | Willi Heinz            |             29 |
+|             29 | Michael Naitokani       |      80.73 |                53 |       22 |                61 |      85.21 | Fergus Burke           |             29 |
+|             23 | Eroni Sau               |      77.19 |                48 |       23 |                94 |     111.9  | Chay Fihaki            |             37 |
 

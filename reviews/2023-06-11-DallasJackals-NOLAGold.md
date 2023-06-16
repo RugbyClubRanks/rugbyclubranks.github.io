@@ -9,7 +9,7 @@ categories: match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.48, which translates to predicting NOLA Gold to win by 0.7.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.472, which translates to predicting NOLA Gold to win by 1.0.
 
 Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances
@@ -28,34 +28,41 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Dallas Jackals by 8.7
+## Prediction with Player Minutes: Dallas Jackals by 2.8
 
 
-Dallas Jackals by 4.7 on a neutral field
+NOLA Gold by 1.2 on a neutral field
 
-There were 9 large changes in win probability in this match
-## Prediction without Player Minutes: Dallas Jackals by 8.7
+There were 7 large changes in win probability in this match
+## Prediction without Player Minutes: Dallas Jackals by 2.4
 
 
-Dallas Jackals by 4.7 on a neutral pitch
+NOLA Gold by 1.6 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player            |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:-----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|---------------:|
-|             80 | Matt Harmon            |      58.67 |                15 |        1 |                 6 |      51.77 | Liam Murray         |             80 |
-|             80 | Eric Howard            |      39.89 |                 2 |        2 |                 8 |      53.42 | Tomas Baravalle     |             80 |
-|             80 | Doc Irey               |      65.3  |               nan |        3 |                 7 |      53.15 | Juan Pablo Zeiss    |             80 |
-|             80 | Cameron Dolan          |      49.3  |                 5 |        4 |                 3 |      42.5  | Sam Golla           |             80 |
-|             80 | Liam Hallam-Eames      |      45.92 |                 4 |        5 |                 7 |      51.57 | Lucas Bur           |             80 |
-|             80 | Malcolm May            |      53.38 |                 8 |        6 |                 9 |      54.77 | Jeronimo Gomez Vara |             80 |
-|             80 | Moni Tonga'uiha        |      -2.96 |                 0 |        7 |                 0 |      16.5  | Conrado Roura       |             80 |
-|             80 | Maciu Koroi            |      75.66 |                44 |        8 |                 6 |      48.99 | Jan Adriaan Booysen |             80 |
-|             80 | Damian Leothon Stevens |      39.61 |                 0 |        9 |               nan |      41.54 | Danny Christensen   |             80 |
-|             80 | Reece Botha            |      46.15 |                 4 |       10 |                 3 |      43.57 | Alejandro Torres    |             80 |
-|             80 | Dougie Fife            |      61.14 |                16 |       11 |                 9 |      51.46 | Lui Sitama          |             80 |
-|             80 | Aaron Matthews         |      -6.84 |                 0 |       12 |                 0 |      24.61 | Tomas Cubilla       |             80 |
-|             80 | Ross Depperschmidt     |      36.28 |                 1 |       13 |                72 |      90.88 | Tomas Malanos       |             80 |
-|             80 | Harley Wheeler         |      45.65 |                 5 |       14 |                 0 |      23.43 | Campbell Johnstone  |             80 |
-|             80 | Jordan Trainor         |      51.79 |                 8 |       15 |                12 |      57.32 | Marcos Moroni       |             80 |
+|             53 | Matt Harmon            |      55.79 |                15 |        1 |                 6 |      52.57 | Liam Murray         |             30 |
+|             53 | Eric Howard            |      46.26 |                 5 |        2 |                 8 |      52.58 | Tomas Baravalle     |             54 |
+|             53 | Doc Irey               |      65.71 |               nan |        3 |                 9 |      55.69 | Juan Pablo Zeiss    |             64 |
+|             80 | Cameron Dolan          |      53.7  |                 9 |        4 |                 3 |      43.21 | Sam Golla           |             80 |
+|             23 | Liam Hallam-Eames      |      46.99 |                 5 |        5 |                 9 |      53.71 | Lucas Bur           |             67 |
+|             80 | Malcolm May            |      63    |                19 |        6 |                10 |      55.24 | Jeronimo Gomez Vara |             80 |
+|             68 | Moni Tonga'uiha        |       6.73 |                 0 |        7 |                 0 |      19.02 | Conrado Roura       |             80 |
+|             80 | Maciu Koroi            |      74.16 |                45 |        8 |                 7 |      51.61 | Jan Adriaan Booysen |             80 |
+|             80 | Damian Leothon Stevens |      42.65 |                 1 |        9 |               nan |      39.1  | Danny Christensen   |             80 |
+|             80 | Reece Botha            |      50.52 |                 7 |       10 |                 4 |      44.3  | Alejandro Torres    |             80 |
+|             80 | Dougie Fife            |      59.2  |                17 |       11 |                 9 |      51.91 | Lui Sitama          |             80 |
+|             71 | Aaron Matthews         |      -8.29 |                 0 |       12 |                 0 |      26.95 | Tomas Cubilla       |             80 |
+|             80 | Ross Depperschmidt     |      40.33 |                 1 |       13 |                73 |      91.74 | Tomas Malanos       |             80 |
+|             71 | Harley Wheeler         |      49.07 |                 7 |       14 |                 0 |      23.8  | Campbell Johnstone  |             71 |
+|             80 | Jordan Trainor         |      56.62 |                11 |       15 |                13 |      59.09 | Marcos Moroni       |             80 |
+|             27 | Jarred Adams           |      51.21 |                 6 |       16 |               nan |      46.86 | Alex Tucci          |             50 |
+|             27 | Alex Lopeti            |      52.67 |                14 |       17 |                 1 |      35.17 | Dewald Kotze        |             26 |
+|             27 | Dino Waldren           |      45.33 |               nan |       18 |                 6 |      51.68 | Kyle Steeves        |             16 |
+|             57 | Will Waguespack        |      67.23 |                26 |       19 |               nan |      62.53 | Maikeli Naromaitoga |             13 |
+|             12 | Osaiaisi Tonga’uiha    |      73.86 |                42 |       20 |               nan |      50.69 | Jason Tidwell       |              9 |
+|              9 | Jack Webster           |      38.49 |                 2 |       21 |               nan |     nan    | nan                 |            nan |
+|              9 | Kenneth Jinkins        |      54.72 |               nan |       22 |               nan |     nan    | nan                 |            nan |
 

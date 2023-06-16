@@ -9,7 +9,7 @@ categories: match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.632, which translates to predicting Seattle Seawolves to win by 4.8.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.629, which translates to predicting Seattle Seawolves to win by 4.7.
 
 Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances
@@ -28,34 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Seattle Seawolves by 4.1
+## Prediction with Player Minutes: New England Free Jacks by 2.5
 
 
-Seattle Seawolves by 0.1 on a neutral field
+New England Free Jacks by 6.5 on a neutral field
 
-There were 9 large changes in win probability in this match
-## Prediction without Player Minutes: Seattle Seawolves by 4.1
+There were 10 large changes in win probability in this match
+## Prediction without Player Minutes: New England Free Jacks by 0.5
 
 
-Seattle Seawolves by 0.1 on a neutral pitch
+New England Free Jacks by 4.5 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player        |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player            |   Home Minutes |
 |---------------:|:-------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------------|---------------:|
-|             80 | Kianu Kereru-Symes |      63.87 |                18 |        1 |                66 |      84.24 | Jake Turnbull          |             80 |
-|             80 | Andrew Quattrin    |      54.97 |                 9 |        2 |                21 |      63.31 | James Malcolm          |             80 |
-|             80 | Joel Hintz         |      55.29 |                 8 |        3 |                19 |      64.04 | Sam Matenga            |             80 |
-|             80 | Semisi Paea        |      81.73 |                58 |        4 |                11 |      56.83 | Samu Manoa             |             80 |
-|             80 | Reegan O'Gorman    |      59.63 |                14 |        5 |                48 |      76.74 | Taylor Krumrei         |             80 |
-|             80 | Sam Fischli        |      53.21 |                 8 |        6 |                 0 |     -32.58 | Ben Mitchell           |             80 |
-|             80 | Joe Johnston       |      13.11 |                 0 |        7 |                23 |      65.19 | Charles Elton          |             80 |
-|             80 | Cam Davidowicz     |      36.03 |                 0 |        8 |               nan |      61.6  | Andrew Durutalo        |             80 |
-|             80 | John Poland        |      95.19 |                80 |        9 |                47 |      77.18 | JP Smith               |             80 |
-|             80 | Jayson Potroz      |      80.14 |                52 |       10 |                19 |      62.2  | AJ Alatimu             |             80 |
-|             80 | Paul Balekana      |      74.91 |                43 |       11 |                12 |      56.76 | Martin Iosefo          |             80 |
-|             80 | Spencer Jones      |      55.97 |                10 |       12 |                10 |      55.57 | Daniel David Kriel     |             80 |
-|             80 | Wayne van der Bank |      75.24 |                43 |       13 |                32 |      70.01 | Tevita Lopeti          |             80 |
-|             80 | Taniela Filimone   |      54.97 |                11 |       14 |                96 |     115.86 | Lauina Futi            |             80 |
-|             80 | Beaudein Waaka     |      88    |                65 |       15 |                24 |      65.93 | Duncan Victor Matthews |             80 |
+|             61 | Kianu Kereru-Symes |      61.82 |                20 |        1 |                66 |      78.91 | Jake Turnbull          |             51 |
+|             61 | Andrew Quattrin    |      59.68 |                15 |        2 |                16 |      60.45 | James Malcolm          |             51 |
+|             61 | Joel Hintz         |      54.21 |                11 |        3 |                17 |      62.71 | Sam Matenga            |             51 |
+|             80 | Semisi Paea        |      78.52 |                58 |        4 |                13 |      58.67 | Samu Manoa             |             80 |
+|             61 | Reegan O'Gorman    |      65.32 |                23 |        5 |                50 |      77.72 | Taylor Krumrei         |             32 |
+|             80 | Sam Fischli        |      55.87 |                10 |        6 |                 0 |     -34.9  | Ben Mitchell           |             80 |
+|             68 | Joe Johnston       |      11.65 |                 0 |        7 |                22 |      64.53 | Charles Elton          |             80 |
+|             55 | Cam Davidowicz     |      35.51 |                 0 |        8 |               nan |      63.15 | Andrew Durutalo        |             46 |
+|             61 | John Poland        |      98.8  |                84 |        9 |                45 |      76.39 | JP Smith               |             75 |
+|             80 | Jayson Potroz      |      83.17 |                58 |       10 |                24 |      65.7  | AJ Alatimu             |             80 |
+|             80 | Paul Balekana      |      77.93 |                50 |       11 |                12 |      56.19 | Martin Iosefo          |             73 |
+|             63 | Spencer Jones      |      57.4  |                12 |       12 |                11 |      56.62 | Daniel David Kriel     |             80 |
+|             80 | Wayne van der Bank |      76.61 |                48 |       13 |                33 |      66.84 | Tevita Lopeti          |             80 |
+|             80 | Taniela Filimone   |      56.07 |                12 |       14 |                95 |     114.2  | Lauina Futi            |             80 |
+|             80 | Beaudein Waaka     |      86.53 |                63 |       15 |                28 |      68.33 | Duncan Victor Matthews |             63 |
+|             19 | Foster Dewitt      |     101.21 |                85 |       16 |               nan |      62.77 | Dewald Donald          |             29 |
+|             19 | James Hilterbrand  |      64.01 |               nan |       17 |                24 |      65.76 | Peter Malcolm          |             29 |
+|             19 | Conor Young        |      58.06 |               nan |       18 |                30 |      70.72 | Mason Pedersen         |             29 |
+|             19 | Jesse Parete       |      65.46 |                23 |       19 |                 6 |      49.72 | Ronan Foley            |             48 |
+|             12 | Mitchell Jacobson  |      58.64 |                13 |       20 |                 6 |      53.71 | Nakai Penny            |             34 |
+|             25 | Ethan Fryer        |      57.48 |               nan |       21 |                 0 |      28.5  | Conner Mooneyham       |              7 |
+|             19 | Holden Yungert     |      41.41 |               nan |       22 |                46 |      77.59 | Adriaan John Carelse   |             17 |
+|             17 | Isaac Olson        |      73.19 |               nan |       23 |               nan |       6.38 | Devereaux Ferris       |              5 |
 
