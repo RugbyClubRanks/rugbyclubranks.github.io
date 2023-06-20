@@ -9,7 +9,7 @@ categories: match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.609, which translates to predicting Rugby ATL to win by 4.0.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.627, which translates to predicting Rugby ATL to win by 4.6.
 
 Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances
@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Rugby New York by 17.1
+## Prediction with Player Minutes: Rugby New York by 15.1
 
 
-Rugby New York by 21.1 on a neutral field
+Rugby New York by 19.1 on a neutral field
 
-There were 7 large changes in win probability in this match
-## Prediction without Player Minutes: Rugby New York by 20.1
+There were 9 large changes in win probability in this match
+## Prediction without Player Minutes: Rugby New York by 16.7
 
 
-Rugby New York by 24.1 on a neutral pitch
+Rugby New York by 20.7 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player       |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player            |   Home Minutes |
 |---------------:|:------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------------|---------------:|
-|             51 | Chance Wenglewski |      64.37 |                20 |        1 |                 0 |     -11.12 | Alex Maughan           |             61 |
-|             69 | Dylan Fawsitt     |      52.45 |                 8 |        2 |                 6 |      48.94 | Sidney Tobias          |             74 |
-|             56 | Kaleb Geiger      |     106.49 |                94 |        3 |                 4 |      48.33 | John Roy Jenkinson     |             54 |
-|             40 | Charlie Hewitt    |     107.59 |                91 |        4 |                 4 |      45.64 | Justin Johan Basson    |             80 |
-|             80 | Hamish Dalzell    |      62.63 |                19 |        5 |                30 |      69.74 | Johannes Momsen        |             40 |
-|             80 | Brad Tucker       |      53.63 |                 8 |        6 |                90 |     105.69 | Vili Helu              |             68 |
-|             80 | Brendon O'Connor  |      63.59 |               nan |        7 |                 2 |      40.04 | Matthew Heaton         |             80 |
-|             58 | Pago Haini        |      65.4  |                22 |        8 |                 0 |      -3.21 | Ross Deacon            |             54 |
-|             52 | Connor Buckley    |      65.34 |                22 |        9 |                29 |      69.37 | Ryan Rees              |             68 |
-|             52 | Jason Emery       |      59.58 |                13 |       10 |                36 |      72.79 | Christopher Hilsenbeck |             54 |
-|             80 | Teofilo Ed Fidow  |      76.62 |                47 |       11 |                 0 |      13.85 | Nolan Tuamoheloa       |             80 |
-|             80 | Teihorangi Walden |      65.34 |                23 |       12 |                56 |      81.28 | Martini Talapusi       |             80 |
-|             80 | Fa'asiu Fuatai    |      52.13 |                 7 |       13 |                99 |     141.11 | Will Leonard           |             80 |
-|             80 | Brooklyn Hardaker |      59.97 |                17 |       14 |                 2 |      39.42 | Te Rangatira Waitokia  |             80 |
-|             46 | Andrew Coe        |      62.65 |                18 |       15 |                 0 |       2.37 | Austin White           |             80 |
-|             29 | Tevita Langi      |      78.01 |                41 |       16 |                 9 |      53.09 | Lincoln Sii            |             19 |
-|             11 | DaQuan Perry      |      67.36 |               nan |       17 |               nan |      65.26 | Isaac Bales            |              6 |
-|             24 | Nic Mayhew        |      65.61 |                22 |       18 |                 0 |      38.08 | Will Burke             |             26 |
-|             40 | Kara Pryor        |      50.19 |                 6 |       19 |                10 |      54.98 | Christian Nahuel Milan |             40 |
-|             22 | Quinn Ngawati     |      40.54 |                 1 |       20 |                 1 |      38.56 | Connor Cook            |             12 |
-|             28 | Connor McManus    |      96.41 |                79 |       21 |                81 |      88.73 | Daemon Torres          |             26 |
-|             28 | Jack Heighton     |      61.77 |                16 |       22 |                14 |      59.77 | Niall Saunders         |             12 |
-|             34 | Samuel Windsor    |      67.67 |                24 |       23 |                 3 |      45.47 | Kurt Kendall Coleman   |             26 |
+|             51 | Chance Wenglewski |      71.18 |                33 |        1 |                 0 |      -7.87 | Alex Maughan           |             61 |
+|             69 | Dylan Fawsitt     |      58.44 |                13 |        2 |                 6 |      50.48 | Sidney Tobias          |             74 |
+|             56 | Kaleb Geiger      |      98.12 |                88 |        3 |                 4 |      49.23 | John Roy Jenkinson     |             54 |
+|             40 | Charlie Hewitt    |      96.82 |                81 |        4 |                 5 |      49.09 | Justin Johan Basson    |             80 |
+|             80 | Hamish Dalzell    |      58.14 |                12 |        5 |                27 |      67.94 | Johannes Momsen        |             40 |
+|             80 | Brad Tucker       |      55.27 |                10 |        6 |                89 |     103.03 | Vili Helu              |             68 |
+|             80 | Brendon O'Connor  |      62.99 |               nan |        7 |                 3 |      44.08 | Matthew Heaton         |             80 |
+|             58 | Pago Haini        |      59.16 |                14 |        8 |                 0 |       4.89 | Ross Deacon            |             54 |
+|             52 | Connor Buckley    |      52.13 |                 5 |        9 |                28 |      68.61 | Ryan Rees              |             68 |
+|             52 | Jason Emery       |      58.07 |                11 |       10 |                36 |      72.65 | Christopher Hilsenbeck |             54 |
+|             80 | Teofilo Ed Fidow  |      84.07 |                62 |       11 |                 0 |      14.28 | Nolan Tuamoheloa       |             80 |
+|             80 | Teihorangi Walden |      66.55 |                24 |       12 |                68 |      88.12 | Martini Talapusi       |             80 |
+|             80 | Fa'asiu Fuatai    |      60.97 |                15 |       13 |                99 |     141.54 | Will Leonard           |             80 |
+|             80 | Brooklyn Hardaker |      61.61 |                19 |       14 |                 3 |      43.3  | Te Rangatira Waitokia  |             80 |
+|             46 | Andrew Coe        |      55.89 |                10 |       15 |                 0 |       1.81 | Austin White           |             80 |
+|             29 | Tevita Langi      |      74.95 |                32 |       16 |                 9 |      53.26 | Lincoln Sii            |             19 |
+|             11 | DaQuan Perry      |      70.24 |               nan |       17 |               nan |      67.96 | Isaac Bales            |              6 |
+|             24 | Nic Mayhew        |      72.6  |                37 |       18 |                 1 |      38.07 | Will Burke             |             26 |
+|             40 | Kara Pryor        |      60.2  |                16 |       19 |                 8 |      53.09 | Christian Nahuel Milan |             40 |
+|             22 | Quinn Ngawati     |      47.3  |                 4 |       20 |                 1 |      34.1  | Connor Cook            |             12 |
+|             28 | Connor McManus    |      96.71 |                78 |       21 |                88 |      94.54 | Daemon Torres          |             26 |
+|             28 | Jack Heighton     |      65.33 |                21 |       22 |                14 |      59.89 | Niall Saunders         |             12 |
+|             34 | Samuel Windsor    |      70.34 |                28 |       23 |                 5 |      51.43 | Kurt Kendall Coleman   |             26 |
 
