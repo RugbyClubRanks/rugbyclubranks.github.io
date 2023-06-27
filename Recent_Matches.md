@@ -10,13 +10,13 @@ key: page-recents
 
 [In depth model review and projections for Major League Rugby 2023](comp_files/Major_League_Rugby_2023)
 
-Competition Accuracy: 71 of 96 (73.96%)
+Competition Accuracy: 71 of 98 (72.45%)
 
-Competition Error: 12.42 points per match
+Competition Error: 12.28 points per match
 
-Last Round Accuracy: 3 of 6 (50.0%)
+Last Round Accuracy: 4 of 6 (66.67%)
 
-Last Round Error: 8.77 points per match
+Last Round Error: 9.7 points per match
 
 [2023-06-18 Chicago Hounds at Dallas Jackals; 29-28](reviews//2023-06-18-DallasJackals-ChicagoHounds)
 
@@ -29,22 +29,26 @@ Last Round Error: 8.77 points per match
 [2023-06-18 Utah Warriors at Rugby New York; 43-33](reviews//2023-06-18-RugbyNewYork-UtahWarriors)
 
 [2023-06-19 Seattle Seawolves at San Diego Legion; 19-40](reviews//2023-06-19-SanDiegoLegion-SeattleSeawolves)
+
+[2023-06-25 Houston SaberCats at Seattle Seawolves; 26-37](reviews//2023-06-25-SeattleSeawolves-HoustonSaberCats)
+
+[2023-06-26 Old Glory DC at Rugby New York; 37-33](reviews//2023-06-26-RugbyNewYork-OldGloryDC)
 ## Super Rugby Pacific
 
 
 [In depth model review and projections for Super Rugby Pacific 2023](comp_files/Super_Rugby_Pacific_2023)
 
-Competition Accuracy: 72 of 90 (80.0%)
+Competition Accuracy: 72 of 91 (79.12%)
 
-Competition Error: 12.05 points per match
+Competition Error: 12.02 points per match
 
-Last Round Accuracy: 6 of 6 (100.0%)
+Last Round Accuracy: 5 of 6 (83.33%)
 
-Last Round Error: 12.01 points per match
+Last Round Error: 11.02 points per match
 
-[2023-06-16 Blues at Crusaders; 15.0-52.0](reviews//2023-06-16-Crusaders-Blues)
+[2023-06-17 Brumbies at Chiefs; 6-19](reviews//2023-06-17-Chiefs-Brumbies)
 
-[2023-06-17 Brumbies at Chiefs; 6.0-19.0](reviews//2023-06-17-Chiefs-Brumbies)
+[2023-06-24 Crusaders at Chiefs; 25-20](reviews//2023-06-24-Chiefs-Crusaders)
 ## Top 14 Orange
 
 
@@ -56,7 +60,7 @@ Competition Error: 10.97 points per match
 
 Last Round Accuracy: 5 of 8 (62.5%)
 
-Last Round Error: 10.07 points per match
+Last Round Error: 11.08 points per match
 
 [2023-06-17 La Rochelle at Stade Toulousain; 26-29](reviews//2023-06-17-StadeToulousain-LaRochelle)
 # Domestic Leagues
@@ -66,14 +70,16 @@ Last Round Error: 10.07 points per match
 
 [In depth model review and projections for Currie Cup 2023](comp_files/Currie_Cup_2023)
 
-Competition Accuracy: 31 of 59 (52.54%)
+Competition Accuracy: 32 of 60 (53.33%)
 
-Competition Error: 15.54 points per match
+Competition Error: 15.33 points per match
 
-Last Round Accuracy: 1 of 4 (25.0%)
+Last Round Accuracy: 2 of 4 (50.0%)
 
-Last Round Error: 19.7 points per match
+Last Round Error: 18.66 points per match
 
 [2023-06-17 Blue Bulls at Free State Cheetahs; 10-32](reviews//2023-06-17-FreeStateCheetahs-BlueBulls)
 
 [2023-06-17 Pumas at Natal Sharks; 26-20](reviews//2023-06-17-NatalSharks-Pumas)
+
+[2023-06-24 Pumas at Free State Cheetahs; 17-25](reviews//2023-06-24-FreeStateCheetahs-Pumas)
