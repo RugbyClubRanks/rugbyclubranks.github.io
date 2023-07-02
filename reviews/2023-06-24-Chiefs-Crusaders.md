@@ -44,26 +44,26 @@ Crusaders by 2.1 on a neutral pitch
 |   Away Minutes | Away Player            |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:-----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|---------------:|
 |             69 | Tamaiti Williams       |      96.87 |                87 |        1 |                74 |      88.3  | Aidan Ross          |             50 |
-|             81 | Codie Taylor           |      93.05 |                81 |        2 |                96 |     113.87 | Samisoni Taukei'aho |             69 |
-|             77 | Oli Jager              |     106.36 |                94 |        3 |                62 |      82.2  | George Dyer         |             60 |
+|             81 | Codie Taylor           |      93.05 |                80 |        2 |                96 |     113.87 | Samisoni Taukei'aho |             69 |
+|             77 | Oli Jager              |     106.36 |                94 |        3 |                61 |      82.2  | George Dyer         |             60 |
 |             81 | Scott Barrett          |     128.1  |                98 |        4 |                95 |     116.17 | Brodie Retallick    |             81 |
-|             81 | Sam Whitelock          |     111.73 |                93 |        5 |                36 |      71.86 | Tupou Vaa'i         |             60 |
-|             57 | Sione Havili           |      77.41 |                51 |        6 |                82 |      97.81 | Pita Gus Sowakula   |             50 |
-|             81 | Tom Christie           |     109.15 |                93 |        7 |                98 |     128.17 | Sam Cane            |             81 |
+|             81 | Sam Whitelock          |     111.73 |                94 |        5 |                36 |      71.84 | Tupou Vaa'i         |             60 |
+|             57 | Sione Havili           |      77.41 |                51 |        6 |                82 |      97.8  | Pita Gus Sowakula   |             50 |
+|             81 | Tom Christie           |     109.16 |                93 |        7 |                98 |     128.17 | Sam Cane            |             81 |
 |             81 | Christian Lio-Willie   |      89.36 |                70 |        8 |                99 |     130.56 | Luke Jacobson       |             81 |
-|             50 | Mitchell Drummond      |      93.21 |                76 |        9 |               100 |     137.65 | Brad Weber          |             60 |
-|             81 | Richie Mo'unga         |     144.03 |                99 |       10 |                65 |      87.76 | Damian McKenzie     |             81 |
-|             81 | Leicester Fainga'anuku |      79.59 |                53 |       11 |                81 |      95.23 | Etene Nanai-Seturo  |             60 |
-|             81 | Jack Goodhue           |     103.09 |                87 |       12 |                95 |     116.35 | Anton Lienert-Brown |             81 |
-|             81 | Braydon Ennor          |     107.62 |                91 |       13 |                86 |     102.5  | Alex Nankivell      |             77 |
-|             13 | Dallas McLeod          |     107.43 |                92 |       14 |                52 |      78.99 | Emoni Narawa        |             81 |
-|             81 | Will Jordan            |     126.52 |                97 |       15 |                70 |      91.17 | Shaun Stevenson     |             81 |
-|              0 | George Bell            |      95.82 |               nan |       16 |                75 |      89.03 | Tyrone Thompson     |             12 |
-|             12 | Kershawl Sykes-Martin  |      93.58 |                79 |       17 |                85 |      94.64 | Ollie Norris        |             31 |
-|              4 | Reuben O'Neill         |      88.59 |               nan |       18 |                89 |      99.71 | John Ryan           |             21 |
-|              0 | Quinten Strange        |      76.96 |                48 |       19 |                93 |     105.83 | Naitoa Ah Kuoi      |             21 |
-|             24 | Dom Gardiner           |      86.23 |                67 |       20 |                90 |     103.58 | Samipeni Finau      |             31 |
-|             31 | Willi Heinz            |      94.96 |                75 |       21 |                85 |     100.05 | Cortez Ratima       |             21 |
-|              7 | Fergus Burke           |      89.14 |                64 |       22 |                80 |      96.31 | Josh Ioane          |             21 |
-|             61 | Chay Fihaki            |     115.92 |                95 |       23 |                77 |      94.22 | Rameka Poihipi      |              4 |
+|             50 | Mitchell Drummond      |      93.21 |                76 |        9 |               100 |     137.66 | Brad Weber          |             60 |
+|             81 | Richie Mo'unga         |     144.03 |                99 |       10 |                64 |      87.76 | Damian McKenzie     |             81 |
+|             81 | Leicester Fainga'anuku |      79.59 |                53 |       11 |                80 |      95.14 | Etene Nanai-Seturo  |             60 |
+|             81 | Jack Goodhue           |     103.09 |                87 |       12 |                95 |     116.33 | Anton Lienert-Brown |             81 |
+|             81 | Braydon Ennor          |     107.62 |                91 |       13 |                87 |     102.49 | Alex Nankivell      |             77 |
+|             13 | Dallas McLeod          |     107.43 |                93 |       14 |                52 |      78.99 | Emoni Narawa        |             81 |
+|             81 | Will Jordan            |     126.52 |                97 |       15 |                71 |      91.15 | Shaun Stevenson     |             81 |
+|              0 | George Bell            |      95.82 |               nan |       16 |                75 |      88.97 | Tyrone Thompson     |             12 |
+|             12 | Kershawl Sykes-Martin  |      93.58 |                79 |       17 |                85 |      94.62 | Ollie Norris        |             31 |
+|              4 | Reuben O'Neill         |      88.59 |               nan |       18 |                90 |      99.69 | John Ryan           |             21 |
+|              0 | Quinten Strange        |      76.96 |                48 |       19 |                93 |     105.74 | Naitoa Ah Kuoi      |             21 |
+|             24 | Dom Gardiner           |      86.23 |                68 |       20 |                90 |     103.5  | Samipeni Finau      |             31 |
+|             31 | Willi Heinz            |      94.96 |                75 |       21 |                85 |     100.04 | Cortez Ratima       |             21 |
+|              7 | Fergus Burke           |      89.14 |                65 |       22 |                79 |      96.31 | Josh Ioane          |             21 |
+|             61 | Chay Fihaki            |     115.92 |                95 |       23 |                78 |      94.19 | Rameka Poihipi      |              4 |
 
