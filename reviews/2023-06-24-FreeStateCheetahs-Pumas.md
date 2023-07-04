@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Free State Cheetahs by 4.1
+## Prediction with Player Minutes: Free State Cheetahs by 6.9
 
 
-Free State Cheetahs by 0.1 on a neutral field
+Free State Cheetahs by 2.9 on a neutral field
 
-There were 1 large changes in win probability in this match
-## Prediction without Player Minutes: Free State Cheetahs by 3.0
+There were 11 large changes in win probability in this match
+## Prediction without Player Minutes: Free State Cheetahs by 5.8
 
 
-Pumas by 1.0 on a neutral pitch
+Free State Cheetahs by 1.8 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player          |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                 |   Home Minutes |
 |---------------:|:---------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------------|---------------:|
-|             40 | Corne Fourie         |      81.19 |                58 |        1 |               nan |      71.43 | Ngobisizwe Mxoli            |             35 |
-|             70 | PJ Jacobs            |     100.33 |                89 |        2 |                93 |     108.04 | Marnus van der Merwe        |             59 |
-|             40 | Simon Raw            |      59.13 |                13 |        3 |                68 |      85.63 | Jacobus Conradus van Vuuren |             35 |
-|             80 | Deon Slabbert        |      72.15 |                37 |        4 |                49 |      77.2  | Rynier Mark Bernardo        |             66 |
-|             62 | Shane Monro Kirkwood |     116.41 |                95 |        5 |                74 |      90.95 | Victor Kutlwano Sekekete    |             80 |
-|             80 | Andre Fouché         |      68.35 |                28 |        6 |                41 |      73.38 | Gideon van der Merwe        |             40 |
-|             67 | Francois Kleinhans   |      80.74 |                59 |        7 |                59 |      80.62 | Sibabalo Qoma               |             59 |
-|             80 | Kwanda Dimaza        |      98.87 |                83 |        8 |                97 |     119.67 | Friedle Olivier             |             80 |
-|             58 | Chriswill September  |     113.23 |                94 |        9 |                91 |     108.48 | Rewan Kruger                |             77 |
-|             77 | Tinus de Beer        |     106.32 |                89 |       10 |                41 |      74.96 | Ruan Pienaar                |             80 |
-|             80 | Etienne Taljaard     |      99.31 |                84 |       11 |                82 |      96.22 | Cohen Jasper                |             80 |
-|             58 | Ali Mgijima          |     118.13 |                96 |       12 |                83 |      99.25 | Reinhardt Fortuin           |             80 |
-|             80 | Diego Appollis       |      85.75 |                65 |       13 |                74 |      92.27 | David Benjamin Brits        |             71 |
-|             80 | Andrew Kota          |      90.17 |                73 |       14 |                78 |      94.3  | Daniel Kasende Kalepula     |             80 |
-|             80 | Devon Frank Williams |      81.18 |                53 |       15 |                45 |      77.39 | Tapiwa Lloyd Mafura         |             80 |
-|             40 | Etienne Janeke       |      90.21 |               nan |       16 |                65 |      87.35 | Alulutho Tshakweni          |             45 |
-|             40 | Dewald Maritz        |      80.6  |               nan |       17 |                24 |      74.42 | Hencus van Wyk              |             45 |
-|             22 | Giovanne Snyman      |      51.96 |                 2 |       18 |                35 |      78.21 | Jeandre Rudolph             |             40 |
-|             22 | Wian van Niekerk     |      83.02 |                45 |       19 |                35 |      71.3  | Louis van der Westhuizen    |             21 |
-|             18 | Malembe Mpofu        |      73.75 |                38 |       20 |                50 |      86.39 | George Cronje               |             21 |
-|             13 | Ruwald Van der Merwe |      80.04 |                48 |       21 |                17 |      62.31 | Robert Thompson Ebersohn    |              9 |
-|             10 | Darnell Osuagwu      |      76.01 |               nan |       22 |                58 |      83.17 | Siya Masuku                 |              3 |
-|              3 | Gene Willemse        |      71.71 |               nan |       23 |                89 |     101.38 | Daniel Johannes Maartens    |             14 |
+|             40 | Corne Fourie         |      79.65 |                55 |        1 |               nan |      71.07 | Ngobisizwe Mxoli            |             35 |
+|             70 | PJ Jacobs            |      99.61 |                88 |        2 |                93 |     107.46 | Marnus van der Merwe        |             59 |
+|             40 | Simon Raw            |      57.4  |                10 |        3 |                68 |      85.37 | Jacobus Conradus van Vuuren |             35 |
+|             80 | Deon Slabbert        |      68.85 |                29 |        4 |                48 |      77.17 | Rynier Mark Bernardo        |             66 |
+|             62 | Shane Monro Kirkwood |     116.1  |                95 |        5 |                72 |      90.21 | Victor Kutlwano Sekekete    |             80 |
+|             80 | Andre Fouché         |      65.55 |                23 |        6 |                35 |      71.12 | Gideon van der Merwe        |             40 |
+|             67 | Francois Kleinhans   |      78.53 |                54 |        7 |                65 |      83.47 | Sibabalo Qoma               |             59 |
+|             80 | Kwanda Dimaza        |      97.27 |                81 |        8 |                98 |     125.08 | Friedle Olivier             |             80 |
+|             58 | Chriswill September  |     107.7  |                92 |        9 |                90 |     106.48 | Rewan Kruger                |             77 |
+|             77 | Tinus de Beer        |     104.6  |                88 |       10 |                41 |      75.22 | Ruan Pienaar                |             80 |
+|             80 | Etienne Taljaard     |      95.29 |                80 |       11 |                81 |      96.07 | Cohen Jasper                |             80 |
+|             58 | Ali Mgijima          |     116.92 |                96 |       12 |                84 |      99.84 | Reinhardt Fortuin           |             80 |
+|             80 | Diego Appollis       |      83.34 |                60 |       13 |                72 |      91.06 | David Benjamin Brits        |             71 |
+|             80 | Andrew Kota          |      87.09 |                68 |       14 |                74 |      90.37 | Daniel Kasende Kalepula     |             80 |
+|             80 | Devon Frank Williams |      78.8  |                49 |       15 |                45 |      77.18 | Tapiwa Lloyd Mafura         |             80 |
+|             40 | Etienne Janeke       |      91.38 |               nan |       16 |                64 |      86.26 | Alulutho Tshakweni          |             45 |
+|             40 | Dewald Maritz        |      79.04 |               nan |       17 |                27 |      75.45 | Hencus van Wyk              |             45 |
+|             22 | Giovanne Snyman      |      53.86 |                 4 |       18 |                31 |      76.49 | Jeandre Rudolph             |             40 |
+|             22 | Wian van Niekerk     |      82.43 |                46 |       19 |                34 |      69.76 | Louis van der Westhuizen    |             21 |
+|             18 | Malembe Mpofu        |      74.37 |                42 |       20 |                57 |      88.63 | George Cronje               |             21 |
+|             13 | Ruwald Van der Merwe |      77.92 |                47 |       21 |                18 |      63.49 | Robert Thompson Ebersohn    |              9 |
+|             10 | Darnell Osuagwu      |      73.04 |               nan |       22 |                55 |      82.37 | Siya Masuku                 |              3 |
+|              3 | Gene Willemse        |      72.09 |               nan |       23 |                88 |     100.68 | Daniel Johannes Maartens    |             14 |
 
