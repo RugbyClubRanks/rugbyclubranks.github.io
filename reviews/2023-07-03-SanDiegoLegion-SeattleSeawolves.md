@@ -9,7 +9,7 @@ categories: match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.744, which translates to predicting San Diego Legion to win by 9.5.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.747, which translates to predicting San Diego Legion to win by 9.6.
 
 Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances
@@ -33,37 +33,37 @@ Treating teams instead as an entity made up of the currently active players, I h
 
 San Diego Legion by 1.3 on a neutral field
 
-There were 10 large changes in win probability in this match
-## Prediction without Player Minutes: San Diego Legion by 6.5
+There were 9 large changes in win probability in this match
+## Prediction without Player Minutes: San Diego Legion by 6.6
 
 
-San Diego Legion by 2.5 on a neutral pitch
+San Diego Legion by 2.6 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player          |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:---------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
-|             53 | Mzamo Majola         |      68.89 |                29 |        1 |                 1 |      38.81 | Faka'osi Pifeleti    |             56 |
-|             49 | James Malcolm        |      63.44 |                18 |        2 |                83 |      95.74 | Sama Malolo          |             52 |
-|             56 | Sam Matenga          |      61.43 |                16 |        3 |                32 |      70.47 | Luke Green           |             68 |
-|             53 | Samu Manoa           |      49.14 |                 5 |        4 |                81 |      95.03 | Ben Grant            |             75 |
-|              8 | Rhyno Herbst         |      74.25 |                41 |        5 |                12 |      58.76 | Thomas Franklin      |             62 |
-|             80 | Ben Landry           |      64.76 |                22 |        6 |                17 |      61.64 | Christian Poidevin   |             80 |
-|             80 | Charles Elton        |      73.34 |                41 |        7 |                66 |      83.31 | Tupou Afungia        |             56 |
-|             80 | Riekert Hattingh     |      65.46 |                21 |        8 |                47 |      78.25 | David Tameilau       |             80 |
-|             80 | JP Smith             |      82.42 |                60 |        9 |                34 |      70.54 | Richard Judd         |             63 |
-|             80 | Jordan Chait         |      66.63 |                22 |       10 |                18 |      63.45 | Will Hooley          |             80 |
-|             63 | Martin Iosefo        |      57.06 |                12 |       11 |                34 |      69.45 | Nathaniel Augspurger |             80 |
-|             60 | AJ Alatimu           |      60.39 |                13 |       12 |                48 |      77.91 | Ma'a Nonu            |             72 |
-|             80 | Daniel David Kriel   |      53.31 |                 8 |       13 |                28 |      68.48 | Marcel Brache        |             80 |
-|             80 | Lauina Futi          |     121.56 |                97 |       14 |                37 |      72.56 | Tomas Aoake          |             80 |
-|             72 | Adriaan John Carelse |      85.96 |                62 |       15 |                35 |      71.31 | Mike Te'o            |             80 |
-|             27 | Jake Turnbull        |      92.49 |                77 |       16 |                13 |      59.39 | Nathan Sylvia        |             24 |
-|             31 | Peter Malcolm        |      60.27 |                15 |       17 |                13 |      56.08 | Shilo Klein          |             28 |
-|             24 | Mason Pedersen       |      73.72 |                37 |       18 |                10 |      57.22 | Chris Baumann        |             12 |
-|             27 | Nakai Penny          |      68.42 |                28 |       19 |                63 |      81    | Chris Turori         |              5 |
-|             72 | Ronan Foley          |      53.08 |                 7 |       20 |                10 |      56.34 | Isaac Ross           |             18 |
-|             17 | Jeremiah Sio         |      62.71 |                18 |       21 |                13 |      58.86 | Michael Smith        |             24 |
-|             20 | Tevita Lopeti        |      62.85 |                18 |       22 |                16 |      60.34 | Ryan Matyas          |             17 |
-|              8 | Devereaux Ferris     |      14.39 |                 0 |       23 |                13 |      60.08 | Josh Henderson       |              8 |
+|             53 | Mzamo Majola         |      66.9  |                25 |        1 |                 1 |      37.67 | Faka'osi Pifeleti    |             56 |
+|             49 | James Malcolm        |      60.72 |                14 |        2 |                83 |      95.69 | Sama Malolo          |             52 |
+|             56 | Sam Matenga          |      61.68 |                16 |        3 |                34 |      71.12 | Luke Green           |             68 |
+|             53 | Samu Manoa           |      47.89 |                 4 |        4 |                83 |      96.4  | Ben Grant            |             75 |
+|              8 | Rhyno Herbst         |      73.37 |                38 |        5 |                13 |      59.54 | Thomas Franklin      |             62 |
+|             80 | Ben Landry           |      64.98 |                22 |        6 |                18 |      61.68 | Christian Poidevin   |             80 |
+|             80 | Charles Elton        |      72.91 |                40 |        7 |                63 |      81.96 | Tupou Afungia        |             56 |
+|             80 | Riekert Hattingh     |      66.08 |                24 |        8 |                47 |      78.07 | David Tameilau       |             80 |
+|             80 | JP Smith             |      85.44 |                64 |        9 |                35 |      71.18 | Richard Judd         |             63 |
+|             80 | Jordan Chait         |      65.78 |                20 |       10 |                17 |      62.87 | Will Hooley          |             80 |
+|             63 | Martin Iosefo        |      54.6  |                10 |       11 |                33 |      69.47 | Nathaniel Augspurger |             80 |
+|             60 | AJ Alatimu           |      60.11 |                13 |       12 |                41 |      74.8  | Ma'a Nonu            |             72 |
+|             80 | Daniel David Kriel   |      53.01 |                 8 |       13 |                24 |      65.73 | Marcel Brache        |             80 |
+|             80 | Lauina Futi          |     122.5  |                97 |       14 |                35 |      71.97 | Tomas Aoake          |             80 |
+|             72 | Adriaan John Carelse |      85.14 |                61 |       15 |                30 |      69.11 | Mike Te'o            |             80 |
+|             27 | Jake Turnbull        |      82.75 |                55 |       16 |                11 |      58.01 | Nathan Sylvia        |             24 |
+|             31 | Peter Malcolm        |      60.07 |                15 |       17 |                12 |      55.37 | Shilo Klein          |             28 |
+|             24 | Mason Pedersen       |      71.95 |                33 |       18 |                10 |      57    | Chris Baumann        |             12 |
+|             27 | Nakai Penny          |      67.51 |                26 |       19 |                62 |      80.37 | Chris Turori         |              5 |
+|             72 | Ronan Foley          |      52.44 |                 7 |       20 |                10 |      57    | Isaac Ross           |             18 |
+|             17 | Jeremiah Sio         |      61.98 |                16 |       21 |                13 |      58.9  | Michael Smith        |             24 |
+|             20 | Tevita Lopeti        |      61.85 |                17 |       22 |                15 |      60.12 | Ryan Matyas          |             17 |
+|              8 | Devereaux Ferris     |      14.7  |                 0 |       23 |                12 |      59.68 | Josh Henderson       |              8 |
 
