@@ -10,28 +10,18 @@ key: page-projections
 
 [In depth model review and projections for Rugby Championship 2023](comp_files/Rugby_Championship_2023)
 
-[2023-07-08 New Zealand (~1824.66) at Argentina (~1650.16)](projections//2023-07-08-Argentina-NewZealand)
+Competition Accuracy: 3 of 4 (75.0%)
 
-[2023-07-08 New Zealand (~1823.1) at Argentina (~1657.52)](projections//2023-07-08-Argentina-NewZealand)
-## The Rugby Championship
+Competition Error: 15.38 points per match
 
+Last Round Accuracy: 1 of 2 (50.0%)
 
-[In depth model review and projections for The Rugby Championship 2023](comp_files/The_Rugby_Championship_2023)
+Last Round Error: 11.78 points per match
 
-[2023-07-08 Australia (~1659.76) at South Africa (~1931.62)](projections//2023-07-08-SouthAfrica-Australia)
-# Top Flight Leagues
+[2023-07-29 New Zealand (~1873.91) at Australia (~1703.18)](projections//2023-07-29-Australia-NewZealand)
 
-## Major League Rugby
+[2023-07-29 Argentina (~1573.52) at South Africa (~1929.08)](projections//2023-07-29-SouthAfrica-Argentina)
 
+[2023-07-29 New Zealand (~1874.72) at Australia (~1704.41)](projections//2023-07-29-Australia-NewZealand)
 
-[In depth model review and projections for Major League Rugby 2022](comp_files/Major_League_Rugby_2022)
-
-Competition Accuracy: 78 of 119 (65.55%)
-
-Competition Error: 13.22 points per match
-
-Last Round Accuracy: 4 of 7 (57.14%)
-
-Last Round Error: 14.81 points per match
-
-[2023-07-08 New England Free Jacks (~1756.27) at San Diego Legion (~1853.85)](projections//2023-07-08-SanDiegoLegion-NewEnglandFreeJacks)
+[2023-07-29 Argentina (~1571.03) at South Africa (~1923.11)](projections//2023-07-29-SouthAfrica-Argentina)
