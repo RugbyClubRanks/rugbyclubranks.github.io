@@ -28,40 +28,40 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Hindu by 9.6
+## Prediction with Player Minutes: Hindu by 8.5
 
 
-Hindu by 13.6 on a neutral field
+Hindu by 12.5 on a neutral field
 
 There were 8 large changes in win probability in this match
-## Prediction without Player Minutes: Alumni by 1.3
+## Prediction without Player Minutes: Alumni by 1.7
 
 
-Hindu by 2.7 on a neutral pitch
+Hindu by 2.3 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player               |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                |   Home Minutes |
 |---------------:|:--------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------------|---------------:|
-|             80 | Franco Diviesti           |      63.53 |                18 |        1 |                 0 |      35.39 | Ezequiel Oliva             |             48 |
-|             80 | Agustin Capurro           |      77.17 |                46 |        2 |                 0 |      16.12 | Tomas Bivort               |             80 |
-|             80 | Mariano Leiva             |      62.89 |                16 |        3 |                35 |      73.08 | Francisco Bottoni          |             48 |
-|             80 | Carlos Repetto            |      80.3  |                50 |        4 |                 8 |      53.52 | Nicolas Promanzio          |             79 |
-|             50 | Federico Ignacio Lavanini |      51.35 |                 7 |        5 |               nan |      93.48 | Joaquin Gonzalez Iglesias  |             58 |
-|             80 | Lautaro Ezequiel Bavaro   |      84.62 |                63 |        6 |                20 |      63.44 | Ignacio Cubilla            |             80 |
-|             80 | Gonzalo Delguy            |      43.14 |                 2 |        7 |                10 |      55.22 | Juan Patricio Anderson     |             80 |
-|             80 | Nicolas Amaya             |      94.58 |                76 |        8 |                66 |      87.87 | Tobias Moyano              |             80 |
-|             80 | Lucas Fernandez Miranda   |      88.43 |                66 |        9 |                15 |      59.8  | Tomas Passerotti           |             58 |
-|             80 | Santiago Fernandez        |      74.03 |                36 |       10 |                19 |      63.87 | Bautista Canzani           |             80 |
-|             80 | Torcuato Pulido           |      79.09 |                47 |       11 |                16 |      60.63 | Santiago Pernas            |             80 |
-|             80 | Joaquin de la Vega        |      64.05 |                21 |       12 |                35 |      71.61 | Franco Battezzati          |              4 |
-|             80 | Federico Graglia          |      65.21 |                23 |       13 |                30 |      68.77 | Alejo Gonzalez Chavez      |             80 |
-|             80 | Belisario Agulla          |      74.18 |                39 |       14 |                82 |     100.14 | Franco Sabato              |             80 |
-|             80 | Bautista Farisé           |      55.96 |                 6 |       15 |                 9 |      55.06 | Santiago Gonzalez Iglesias |             80 |
-|             30 | Juan Ignacio Comolli      |     115.88 |                94 |       16 |               nan |      59.85 | Luca Sabato                |             76 |
-|            nan | nan                       |     nan    |               nan |       17 |                30 |      68.62 | Juan Cruz Bottoni          |             32 |
-|            nan | nan                       |     nan    |               nan |       18 |                 7 |      53.73 | Bautista Vidal             |             32 |
-|            nan | nan                       |     nan    |               nan |       19 |                35 |      68.66 | Santiago Ambroa            |             22 |
-|            nan | nan                       |     nan    |               nan |       20 |               nan |      63.95 | Santiago Piazzardi         |             22 |
-|            nan | nan                       |     nan    |               nan |       21 |               nan |      60.46 | Federico Canovas           |              1 |
+|             80 | Franco Diviesti           |      58.69 |                12 |        1 |                 0 |      36.37 | Ezequiel Oliva             |             48 |
+|             80 | Agustin Capurro           |      78.78 |                50 |        2 |                 0 |      18.84 | Tomas Bivort               |             80 |
+|             80 | Mariano Leiva             |      63.33 |                16 |        3 |                35 |      72.91 | Francisco Bottoni          |             48 |
+|             80 | Carlos Repetto            |      81.94 |                54 |        4 |                10 |      54.46 | Nicolas Promanzio          |             79 |
+|             50 | Federico Ignacio Lavanini |      49.49 |                 6 |        5 |               nan |      89.64 | Joaquin Gonzalez Iglesias  |             58 |
+|             80 | Lautaro Ezequiel Bavaro   |      94.79 |                80 |        6 |                21 |      63.93 | Ignacio Cubilla            |             80 |
+|             80 | Gonzalo Delguy            |      45.44 |                 3 |        7 |                 7 |      51.46 | Juan Patricio Anderson     |             80 |
+|             80 | Nicolas Amaya             |      92.67 |                75 |        8 |                55 |      82.51 | Tobias Moyano              |             80 |
+|             80 | Lucas Fernandez Miranda   |      83.76 |                59 |        9 |                16 |      60.14 | Tomas Passerotti           |             58 |
+|             80 | Santiago Fernandez        |      72.48 |                33 |       10 |                18 |      63.16 | Bautista Canzani           |             80 |
+|             80 | Torcuato Pulido           |      84.31 |                58 |       11 |                16 |      60.67 | Santiago Pernas            |             80 |
+|             80 | Joaquin de la Vega        |      58    |                13 |       12 |                27 |      67.9  | Franco Battezzati          |              4 |
+|             80 | Federico Graglia          |      55.49 |                12 |       13 |                28 |      68.49 | Alejo Gonzalez Chavez      |             80 |
+|             80 | Belisario Agulla          |      72.89 |                36 |       14 |                86 |     102.18 | Franco Sabato              |             80 |
+|             80 | Bautista Farisé           |      56.16 |                 6 |       15 |                 9 |      55.44 | Santiago Gonzalez Iglesias |             80 |
+|             30 | Juan Ignacio Comolli      |     106.31 |                88 |       16 |               nan |      62.51 | Luca Sabato                |             76 |
+|            nan | nan                       |     nan    |               nan |       17 |                30 |      68.52 | Juan Cruz Bottoni          |             32 |
+|            nan | nan                       |     nan    |               nan |       18 |                 8 |      54.7  | Bautista Vidal             |             32 |
+|            nan | nan                       |     nan    |               nan |       19 |                38 |      70.14 | Santiago Ambroa            |             22 |
+|            nan | nan                       |     nan    |               nan |       20 |               nan |      64.25 | Santiago Piazzardi         |             22 |
+|            nan | nan                       |     nan    |               nan |       21 |               nan |      60.24 | Federico Canovas           |              1 |
 

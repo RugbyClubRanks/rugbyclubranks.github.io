@@ -28,40 +28,40 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: San Luis by 13.2
+## Prediction with Player Minutes: San Luis by 14.4
 
 
-San Luis by 9.2 on a neutral field
+San Luis by 10.4 on a neutral field
 
-There were 8 large changes in win probability in this match
-## Prediction without Player Minutes: San Luis by 7.0
+There were 7 large changes in win probability in this match
+## Prediction without Player Minutes: San Luis by 8.1
 
 
-San Luis by 3.0 on a neutral pitch
+San Luis by 4.1 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player         |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player           |   Home Minutes |
 |---------------:|:--------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------|---------------:|
-|             60 | Gaston Vaca         |      38.71 |                 1 |        1 |                34 |      72.49 | Santiago Bonavento    |             80 |
-|             50 | Diego Petrongolo    |      61.71 |                17 |        2 |               nan |      55.02 | Francisco Cantalupo   |             80 |
-|             47 | Agustin Piedrabuena |      57.27 |               nan |        3 |                 3 |      47.51 | Mateo Calistro        |             80 |
-|             80 | Bautista Durañona   |      52.8  |                 8 |        4 |                28 |      68.65 | Santiago Canal        |             80 |
-|             60 | Franco Baldoni      |      65.87 |                24 |        5 |                 3 |      41.07 | Agustin Torello       |             80 |
-|             80 | Pedro Del Carril    |      68.96 |                28 |        6 |                 1 |      34.72 | Nahuel Curti          |             59 |
-|             80 | Francisco Ibarra    |      45.29 |                 3 |        7 |                85 |     100.16 | Manuel Gnecco         |             80 |
-|             80 | Jordi Dieguez       |      58.06 |               nan |        8 |                80 |      96.76 | Facundo Alvarez Amado |             72 |
-|             47 | Mateo Freire        |      60.31 |                16 |        9 |                16 |      60.13 | Juan Vaca             |             80 |
-|             80 | Mateo Capalbo       |      53.98 |                 8 |       10 |                 6 |      50.84 | Felipe Campodonico    |             80 |
-|             80 | Benjamin Handley    |      60.5  |                16 |       11 |                13 |      59.52 | Felipe Hernandez      |             80 |
-|             80 | Agustin Lamensa     |      70.01 |                32 |       12 |                15 |      59.41 | Segundo Blanco Fresco |             80 |
-|             80 | Luis Prieto         |      47.63 |                 4 |       13 |                41 |      75.06 | Facundo Gibert        |             80 |
-|             60 | Cristobal Botto     |      59.39 |               nan |       14 |                62 |      86.54 | Eduardo Ruesta        |             80 |
-|             80 | Alejo Novo          |      61.31 |                14 |       15 |                38 |      73.39 | Valentino Quattrochi  |             80 |
-|             33 | Nicolás Esteban     |      82.12 |                57 |       16 |                22 |      64.14 | Matias Perissinotto   |             21 |
-|             33 | Juan Monasterio     |      68.97 |               nan |       17 |                19 |      63.15 | Felipe Piatti         |              8 |
-|             30 | Tomas Rosasco       |      64.6  |               nan |       18 |               nan |     nan    | nan                   |            nan |
-|             20 | Thomas Gallo        |      97.99 |                86 |       19 |               nan |     nan    | nan                   |            nan |
-|             20 | Alfonso Latorre     |      72.04 |                34 |       20 |               nan |     nan    | nan                   |            nan |
-|             20 | Jaime McGrech       |      62.2  |               nan |       21 |               nan |     nan    | nan                   |            nan |
+|             60 | Gaston Vaca         |      37.98 |                 1 |        1 |                37 |      73.48 | Santiago Bonavento    |             80 |
+|             50 | Diego Petrongolo    |      60.22 |                16 |        2 |               nan |      53.57 | Francisco Cantalupo   |             80 |
+|             47 | Agustin Piedrabuena |      57.17 |               nan |        3 |                 3 |      48.77 | Mateo Calistro        |             80 |
+|             80 | Bautista Durañona   |      53.31 |                 9 |        4 |                26 |      67.34 | Santiago Canal        |             80 |
+|             60 | Franco Baldoni      |      67.18 |                26 |        5 |                 4 |      41.92 | Agustin Torello       |             80 |
+|             80 | Pedro Del Carril    |      67.09 |                26 |        6 |                 1 |      36.48 | Nahuel Curti          |             59 |
+|             80 | Francisco Ibarra    |      44.34 |                 3 |        7 |                80 |      95.36 | Manuel Gnecco         |             80 |
+|             80 | Jordi Dieguez       |      57    |               nan |        8 |                80 |      96.83 | Facundo Alvarez Amado |             72 |
+|             47 | Mateo Freire        |      59.55 |                15 |        9 |                17 |      60.66 | Juan Vaca             |             80 |
+|             80 | Mateo Capalbo       |      54.16 |                 8 |       10 |                10 |      55.5  | Felipe Campodonico    |             80 |
+|             80 | Benjamin Handley    |      59.01 |                14 |       11 |                15 |      60.71 | Felipe Hernandez      |             80 |
+|             80 | Agustin Lamensa     |      70.73 |                33 |       12 |                16 |      60.08 | Segundo Blanco Fresco |             80 |
+|             80 | Luis Prieto         |      46.83 |                 3 |       13 |                48 |      78.1  | Facundo Gibert        |             80 |
+|             60 | Cristobal Botto     |      58.84 |               nan |       14 |                58 |      84.48 | Eduardo Ruesta        |             80 |
+|             80 | Alejo Novo          |      61.78 |                15 |       15 |                38 |      73.25 | Valentino Quattrochi  |             80 |
+|             33 | Nicolás Esteban     |      79.13 |                50 |       16 |                21 |      63.83 | Matias Perissinotto   |             21 |
+|             33 | Juan Monasterio     |      68.37 |               nan |       17 |                16 |      61.01 | Felipe Piatti         |              8 |
+|             30 | Tomas Rosasco       |      63.9  |               nan |       18 |               nan |     nan    | nan                   |            nan |
+|             20 | Thomas Gallo        |      95.65 |                82 |       19 |               nan |     nan    | nan                   |            nan |
+|             20 | Alfonso Latorre     |      73.29 |                36 |       20 |               nan |     nan    | nan                   |            nan |
+|             20 | Jaime McGrech       |      61.99 |               nan |       21 |               nan |     nan    | nan                   |            nan |
 

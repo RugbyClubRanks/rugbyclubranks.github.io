@@ -18,10 +18,10 @@ Last Round Accuracy: 1 of 2 (50.0%)
 
 Last Round Error: 11.78 points per match
 
-[2023-07-29 New Zealand (~1873.91) at Australia (~1703.18)](projections//2023-07-29-Australia-NewZealand)
+[2023-07-29 New Zealand (~1872.87) at Australia (~1705.06)](projections//2023-07-29-Australia-NewZealand)
 
-[2023-07-29 Argentina (~1573.52) at South Africa (~1929.08)](projections//2023-07-29-SouthAfrica-Argentina)
+[2023-07-29 Argentina (~1576.47) at South Africa (~1924.69)](projections//2023-07-29-SouthAfrica-Argentina)
 
-[2023-07-29 New Zealand (~1874.72) at Australia (~1704.41)](projections//2023-07-29-Australia-NewZealand)
+[2023-07-29 New Zealand (~1874.68) at Australia (~1703.63)](projections//2023-07-29-Australia-NewZealand)
 
-[2023-07-29 Argentina (~1571.03) at South Africa (~1923.11)](projections//2023-07-29-SouthAfrica-Argentina)
+[2023-07-29 Argentina (~1582.23) at South Africa (~1926.65)](projections//2023-07-29-SouthAfrica-Argentina)
