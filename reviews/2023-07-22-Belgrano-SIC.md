@@ -28,38 +28,38 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: SIC by 21.5
+## Prediction with Player Minutes: SIC by 18.7
 
 
-SIC by 25.5 on a neutral field
+SIC by 22.7 on a neutral field
 
 There were 1 large changes in win probability in this match
-## Prediction without Player Minutes: SIC by 16.9
+## Prediction without Player Minutes: SIC by 14.3
 
 
-SIC by 20.9 on a neutral pitch
+SIC by 18.3 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player             |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player              |   Home Minutes |
 |---------------:|:------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------------|---------------:|
-|             80 | Marcos Piccinini        |      68.8  |                27 |        1 |                26 |      68.75 | Francisco Ferronato      |             80 |
-|             80 | Ignacio Bottazini       |      77.68 |                48 |        2 |                23 |      64.6  | Francisco Lusaretta      |             34 |
-|             66 | Benjamin Chiappe        |      85.03 |                63 |        3 |                20 |      64.26 | Justo Durañona           |             80 |
-|             54 | Bautista Viero          |      80.47 |                51 |        4 |                63 |      86.84 | Rodrigo Fernandez Criado |             80 |
-|             80 | Lucas Sommer            |     116.31 |                94 |        5 |                26 |      68.78 | Ramon Duggan             |             54 |
-|             80 | Andrea Panzarini        |     105.82 |                91 |        6 |                26 |      67.59 | Joaquin De la Serna      |             80 |
-|             80 | Franco Delger           |      86.12 |                67 |        7 |                35 |      73.19 | Augusto Vaccarino        |             80 |
-|             80 | Tomas Meyrelles         |      84.53 |                60 |        8 |                19 |      62.58 | Matias Filgueira         |             80 |
-|             66 | Joan Soares Gache       |      84.88 |                61 |        9 |                56 |      82.26 | Ignacio Marino           |             80 |
-|             80 | Joaquin Lamas           |      79.53 |                47 |       10 |                23 |      67.1  | Theo Blaksley            |             80 |
-|             80 | Bernabé Lopez Fleming   |      80.3  |                51 |       11 |                19 |      62.28 | Tobias Bernabé           |             54 |
-|             80 | Santos Rubio            |      90.52 |                68 |       12 |                22 |      64.31 | Santiago Ruzzante        |             80 |
-|             80 | Carlos Piran            |      94.73 |                75 |       13 |               nan |      66.29 | Ramon Arana              |             80 |
-|             80 | Justo Piccardo          |     101.77 |                85 |       14 |                26 |      64.13 | Félix Ceñal              |             80 |
-|             80 | Jacinto Campbell        |      79.57 |                48 |       15 |                65 |      89.64 | Juan Ignacio Lando       |             45 |
-|             26 | Pedro Georgalos         |      65.13 |                21 |       16 |                37 |      73.37 | Pedro Arana              |             35 |
-|             14 | Francico Calandra       |      49.1  |                 4 |       17 |               nan |      66.48 | Ignacio Saporiti         |             46 |
-|             14 | Marcos Rodriguez Gauxax |      63.09 |               nan |       18 |               nan |      63.32 | Luciano Tecca            |             26 |
-|            nan | nan                     |     nan    |               nan |       19 |                26 |      66.61 | Nicolas Spinelli         |             26 |
+|             80 | Marcos Piccinini        |      70.73 |                30 |        1 |                24 |      66.73 | Francisco Ferronato      |             80 |
+|             80 | Ignacio Bottazini       |      75.46 |                43 |        2 |                26 |      66.13 | Francisco Lusaretta      |             34 |
+|             66 | Benjamin Chiappe        |      84.17 |                61 |        3 |                23 |      66.32 | Justo Durañona           |             80 |
+|             54 | Bautista Viero          |      81.05 |                51 |        4 |                68 |      88.37 | Rodrigo Fernandez Criado |             80 |
+|             80 | Lucas Sommer            |     118.02 |                95 |        5 |                27 |      70.57 | Ramon Duggan             |             54 |
+|             80 | Andrea Panzarini        |     101.26 |                86 |        6 |                29 |      69.49 | Joaquin De la Serna      |             80 |
+|             80 | Franco Delger           |      85.36 |                64 |        7 |                41 |      75.49 | Augusto Vaccarino        |             80 |
+|             80 | Tomas Meyrelles         |      84.95 |                60 |        8 |                21 |      64.61 | Matias Filgueira         |             80 |
+|             66 | Joan Soares Gache       |      84.4  |                58 |        9 |                57 |      84.2  | Ignacio Marino           |             80 |
+|             80 | Joaquin Lamas           |      74.85 |                38 |       10 |                23 |      66.76 | Theo Blaksley            |             80 |
+|             80 | Bernabé Lopez Fleming   |      80.63 |                51 |       11 |                21 |      63.47 | Tobias Bernabé           |             54 |
+|             80 | Santos Rubio            |      97.2  |                77 |       12 |                23 |      65.66 | Santiago Ruzzante        |             80 |
+|             80 | Carlos Piran            |      94.07 |                74 |       13 |               nan |      67.7  | Ramon Arana              |             80 |
+|             80 | Justo Piccardo          |      93.78 |                74 |       14 |                26 |      65    | Félix Ceñal              |             80 |
+|             80 | Jacinto Campbell        |      81.91 |                52 |       15 |                71 |      93.08 | Juan Ignacio Lando       |             45 |
+|             26 | Pedro Georgalos         |      64.25 |                19 |       16 |                39 |      74.76 | Pedro Arana              |             35 |
+|             14 | Francico Calandra       |      49.33 |                 4 |       17 |               nan |      67.51 | Ignacio Saporiti         |             46 |
+|             14 | Marcos Rodriguez Gauxax |      64.4  |               nan |       18 |               nan |      63.06 | Luciano Tecca            |             26 |
+|            nan | nan                     |     nan    |               nan |       19 |                27 |      67.78 | Nicolas Spinelli         |             26 |
 
