@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Italy by 1.3
+## Prediction with Player Minutes: Scotland by 29.4
 
 
-Italy by 5.3 on a neutral field
+Scotland by 25.4 on a neutral field
 
-There were 10 large changes in win probability in this match
-## Prediction without Player Minutes: Italy by 0.5
+There were 8 large changes in win probability in this match
+## Prediction without Player Minutes: Scotland by 30.7
 
 
-Italy by 4.5 on a neutral pitch
+Scotland by 26.7 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player        |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player       |   Home Minutes |
 |---------------:|:-------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------|---------------:|
-|             51 | Federico Zani      |      80.46 |               nan |        1 |               nan |      79.6  | Rory Sutherland   |             46 |
-|             57 | Hame Faiva         |      77.55 |                46 |        2 |               nan |      83.14 | George Turner     |             46 |
-|             60 | Pietro Ceccarelli  |      81.74 |               nan |        3 |               nan |      78.13 | Murphy Walker     |             46 |
-|             57 | David Sisi         |      81.45 |               nan |        4 |               nan |      83.84 | Sam Skinner       |             81 |
-|             81 | Andrea Zambonin    |      82.78 |               nan |        5 |               nan |      84.69 | Scott Cummings    |             64 |
-|             81 | Federico Ruzza     |      87.46 |               nan |        6 |               nan |      80.46 | Luke Crosbie      |             69 |
-|             51 | Manuel Zuliani     |      83.19 |               nan |        7 |               nan |      80.8  | Rory Darge        |             81 |
-|             81 | Toa Halafihi       |      83.66 |               nan |        8 |               nan |      81.17 | Matt Fagerson     |             81 |
-|             64 | Martin Page-Relo   |      80.68 |               nan |        9 |               nan |      79.35 | Ali Price         |             57 |
-|             81 | Tommaso Allan      |      82.06 |               nan |       10 |               nan |      79.12 | Ben Healy         |             81 |
-|             81 | Monty Ioane        |     117.11 |                95 |       11 |               nan |      78.9  | Kyle Steyn        |             81 |
-|             57 | Luca Morisi        |      81.18 |               nan |       12 |               nan |      78.69 | Stafford McDowall |             81 |
-|             81 | Tommaso Menoncello |      82.4  |               nan |       13 |                54 |      81.85 | Chris Harris      |             57 |
-|             51 | Pierre Bruno       |      80.92 |               nan |       14 |               nan |      78.49 | Darcy Graham      |             72 |
-|             81 | Lorenzo Pani       |      80.25 |               nan |       15 |               nan |      78.31 | Ollie Smith       |             81 |
-|             24 | Marco Manfredi     |      84.18 |               nan |       16 |               nan |      79.87 | Stuart McInally   |             35 |
-|             30 | Danilo Fischetti   |      81.53 |                55 |       17 |               nan |      81.58 | Jamie Bhatti      |             35 |
-|             21 | Filippo Alongi     |      84.79 |               nan |       18 |               nan |      82.03 | Javan Sebastian   |             35 |
-|             24 | Edoardo Iachizzi   |      85.5  |               nan |       19 |                90 |     108.83 | Cameron Henderson |             17 |
-|             30 | Lorenzo Cannone    |      86.36 |               nan |       20 |               nan |      80.14 | Josh Bayliss      |             12 |
-|             30 | Alessandro Garbisi |      80.05 |               nan |       21 |               nan |      80.15 | Jamie Dobie       |             24 |
-|             17 | Giacomo Da Re      |      79.86 |               nan |       22 |               nan |      82.55 | Blair Kinghorn    |              9 |
-|             24 | Federico Mori      |      79.68 |               nan |       23 |               nan |      85.76 | Cameron Redpath   |             24 |
+|             51 | Federico Zani      |      83.88 |               nan |        1 |               nan |     101.28 | Rory Sutherland   |             46 |
+|             57 | Hame Faiva         |      80.65 |                53 |        2 |               nan |     102.33 | George Turner     |             46 |
+|             60 | Pietro Ceccarelli  |      84.58 |               nan |        3 |               nan |     104.51 | Murphy Walker     |             46 |
+|             57 | David Sisi         |      85.43 |               nan |        4 |               nan |     102.64 | Sam Skinner       |             81 |
+|             81 | Andrea Zambonin    |      86.52 |               nan |        5 |                98 |     130.86 | Scott Cummings    |             64 |
+|             81 | Federico Ruzza     |      98.94 |                82 |        6 |               nan |     102.96 | Luke Crosbie      |             69 |
+|             51 | Manuel Zuliani     |      90.22 |                73 |        7 |                98 |     129.33 | Rory Darge        |             81 |
+|             81 | Toa Halafihi       |     107.6  |                89 |        8 |                84 |     100.25 | Matt Fagerson     |             81 |
+|             64 | Martin Page-Relo   |      84.1  |               nan |        9 |               nan |     101.53 | Ali Price         |             57 |
+|             81 | Tommaso Allan      |      82.4  |                51 |       10 |               nan |     101.78 | Ben Healy         |             81 |
+|             81 | Monty Ioane        |     118.76 |                96 |       11 |               nan |     101.05 | Kyle Steyn        |             81 |
+|             57 | Luca Morisi        |      84.84 |               nan |       12 |               nan |     102.05 | Stafford McDowall |             81 |
+|             81 | Tommaso Menoncello |     103.97 |                85 |       13 |                78 |      97.36 | Chris Harris      |             57 |
+|             51 | Pierre Bruno       |      84.33 |               nan |       14 |                99 |     149.73 | Darcy Graham      |             72 |
+|             81 | Lorenzo Pani       |      74.18 |                37 |       15 |                52 |      82.67 | Ollie Smith       |             81 |
+|             24 | Marco Manfredi     |      85.13 |               nan |       16 |               nan |     103.3  | Stuart McInally   |             35 |
+|             30 | Danilo Fischetti   |      77.14 |                44 |       17 |                81 |      95.15 | Jamie Bhatti      |             35 |
+|             21 | Filippo Alongi     |      86.12 |               nan |       18 |               nan |     103.67 | Javan Sebastian   |             35 |
+|             24 | Edoardo Iachizzi   |      85.76 |               nan |       19 |                95 |     120.69 | Cameron Henderson |             17 |
+|             30 | Lorenzo Cannone    |      76.82 |                44 |       20 |                42 |      77.42 | Josh Bayliss      |             12 |
+|             30 | Alessandro Garbisi |      83.67 |               nan |       21 |               nan |     104.07 | Jamie Dobie       |             24 |
+|             17 | Giacomo Da Re      |      83.28 |               nan |       22 |                99 |     141.59 | Blair Kinghorn    |              9 |
+|             24 | Federico Mori      |      83.47 |               nan |       23 |                59 |      85.03 | Cameron Redpath   |             24 |
 

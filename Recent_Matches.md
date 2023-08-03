@@ -51,29 +51,3 @@ Last Round Error: 22.28 points per match
 [2023-07-29 New Zealand at Australia; 38-7](reviews//2023-07-29-Australia-NewZealand)
 
 [2023-07-29 Argentina at South Africa; 21-22](reviews//2023-07-29-SouthAfrica-Argentina)
-# Domestic Leagues
-
-## URBA Top 13
-
-
-[In depth model review and projections for URBA Top 13 2023](comp_files/URBA_Top_13_2023)
-
-Competition Accuracy: 17 of 26 (65.38%)
-
-Competition Error: 10.81 points per match
-
-Last Round Accuracy: 4 of 6 (66.67%)
-
-Last Round Error: 11.73 points per match
-
-[2023-07-22 Hindu at Alumni; 20-23](reviews//2023-07-22-Alumni-Hindu)
-
-[2023-07-22 SIC at Belgrano; 37-17](reviews//2023-07-22-Belgrano-SIC)
-
-[2023-07-22 Atlético del Rosario at CUBA; 15-34](reviews//2023-07-22-CUBA-AtléticodelRosario)
-
-[2023-07-22 La Plata at Newman; 17-33](reviews//2023-07-22-Newman-LaPlata)
-
-[2023-07-22 CASI at Pucara; 42-19](reviews//2023-07-22-Pucara-CASI)
-
-[2023-07-22 Buenos Aires at San Luis; 23-34](reviews//2023-07-22-SanLuis-BuenosAires)
