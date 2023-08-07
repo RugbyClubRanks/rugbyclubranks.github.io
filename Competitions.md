@@ -57,6 +57,10 @@ key: page-recents
 
 
 [2022](comp_files\IRB_Pacific_Nations_Cup_2022) - Prediction Accuracy: 66.7% 
+## worldcupwarmupmatch
+
+
+[2023](comp_files\worldcupwarmupmatch_2023) - Prediction Accuracy: 66.7% 
 ## World Cup
 
 
@@ -141,6 +145,14 @@ key: page-recents
 [2021](comp_files\Japan_Rugby_League_One_2021) - Prediction Accuracy: 75.0% 
 
 [2020](comp_files\Japan_Rugby_League_One_2020) - Prediction Accuracy: 79.2% 
+## RFU Championship
+
+
+[2023](comp_files\RFU_Championship_2023)
+
+[2022](comp_files\RFU_Championship_2022) - Prediction Accuracy: 74.2% 
+
+[2021](comp_files\RFU_Championship_2021) - Prediction Accuracy: 72.0% 
 ## Superliga Americana de Rugby
 
 
@@ -149,12 +161,6 @@ key: page-recents
 [2021](comp_files\Superliga_Americana_de_Rugby_2021) - Prediction Accuracy: 75.0% 
 
 [2020](comp_files\Superliga_Americana_de_Rugby_2020) - Prediction Accuracy: 33.3% 
-## RFU Championship
-
-
-[2022](comp_files\RFU_Championship_2022) - Prediction Accuracy: 74.2% 
-
-[2021](comp_files\RFU_Championship_2021) - Prediction Accuracy: 72.0% 
 ## Rugby Europe Super Cup
 
 
@@ -186,7 +192,7 @@ key: page-recents
 ## Bunnings Warehouse NPC
 
 
-[2023](comp_files\Bunnings_Warehouse_NPC_2023)
+[2023](comp_files\Bunnings_Warehouse_NPC_2023) - Prediction Accuracy: 85.7% 
 
 [2022](comp_files\Bunnings_Warehouse_NPC_2022) - Prediction Accuracy: 70.1% 
 
@@ -203,6 +209,16 @@ key: page-recents
 [2021](comp_files\Currie_Cup_2021) - Prediction Accuracy: 50.0% 
 
 [2020](comp_files\Currie_Cup_2020) - Prediction Accuracy: 68.2% 
+## Nationale
+
+
+[2023](comp_files\Nationale_2023)
+
+[2022](comp_files\Nationale_2022) - Prediction Accuracy: 68.8% 
+
+[2021](comp_files\Nationale_2021) - Prediction Accuracy: 68.8% 
+
+[2020](comp_files\Nationale_2020) - Prediction Accuracy: 60.4% 
 ## Pro D2
 
 
@@ -221,14 +237,6 @@ key: page-recents
 [2022](comp_files\Currie_Cup_First_Division_2022) - Prediction Accuracy: 61.5% 
 
 [2021](comp_files\Currie_Cup_First_Division_2021) - Prediction Accuracy: 68.2% 
-## Nationale
-
-
-[2022](comp_files\Nationale_2022) - Prediction Accuracy: 68.8% 
-
-[2021](comp_files\Nationale_2021) - Prediction Accuracy: 68.8% 
-
-[2020](comp_files\Nationale_2020) - Prediction Accuracy: 60.4% 
 ## URBA Top 13
 
 

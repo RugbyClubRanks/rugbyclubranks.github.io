@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Tonga at Japan; 16-21  
-date: 2023-07-28 19:30:00 18:00:00 -0500  
+date: 2023-07-28 18:00:00 -0500  
 categories: match review  
 ---
 # Tonga at Japan; 16-21
@@ -24,46 +24,96 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 ![Projected Results](plots/resultbar_2023-07-28-Japan-Tonga.png)
-# Player Level Predictions
+# Player Level Predictions - Version 1
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Japan by 14.5
+## Prediction with Player Minutes: Japan by 15.3
 
 
-Japan by 10.5 on a neutral field
+Japan by 11.3 on a neutral field
+## Prediction without Player Minutes: Japan by 15.4
+
+
+Japan by 11.4 on a neutral pitch
+
+
+## Scores over Time
+
+
+![In Match Scores](plots/recap_scores_2023-07-28-Japan-Tonga.png)
+## Win Probability over Time
+
+
+![In Match Predictions](plots/recap_prob_2023-07-28-Japan-Tonga.png)
 
 There were 11 large changes in win probability in this match
-## Prediction without Player Minutes: Japan by 14.7
-
-
-Japan by 10.7 on a neutral pitch
-
-
 
 |   Away Minutes | Away Player         |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player       |   Home Minutes |
 |---------------:|:--------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------|---------------:|
-|             69 | Siegfried Fisi'ihoi |      88.45 |                70 |        1 |                87 |     100.15 | Keita Inagaki     |             59 |
-|             69 | Samiuela Moli       |      52.62 |                11 |        2 |                39 |      73.27 | Atsushi Sakate    |             59 |
-|             69 | Ben Tameifuna       |     103.15 |                91 |        3 |                99 |     127.91 | Asaeli Ai Valu    |             53 |
-|             80 | Leva Fifita         |      71.62 |                33 |        4 |                62 |      86.05 | Amato Fakatava    |             80 |
-|             47 | Steve Mafi          |      95.08 |                78 |        5 |                70 |      89.6  | Uwe Helu          |             47 |
-|             80 | Vaea Fifita         |     119.57 |                97 |        6 |                96 |     122.44 | Jack Cornelsen    |             80 |
-|             80 | Sione Havili        |      79.26 |                50 |        7 |                94 |     114.1  | Ben Gunter        |             59 |
-|             47 | Lopeti Timani       |      97.73 |                80 |        8 |                66 |      86.8  | Kazuki Himeno     |             80 |
-|             68 | Sonatane Takulua    |      79.56 |                49 |        9 |                68 |      88.51 | Naoto Saito       |             53 |
-|             73 | William Havili      |     106.17 |                86 |       10 |                49 |      81.94 | Seungsin Lee      |             47 |
-|             64 | Kyren Taumoefolau   |      84.35 |               nan |       11 |                94 |     119.46 | Semisi Masirewa   |             80 |
-|             80 | Pita Ahki           |      90.1  |                67 |       12 |               nan |      89.99 | Tomoki Osada      |             80 |
-|             80 | Afusipa Taumoepeau  |      82.12 |                54 |       13 |                94 |     115.07 | Dylan Riley       |             80 |
-|             80 | Solomone Kata       |     106.46 |                88 |       14 |                57 |      84.14 | Jone Naikabula    |             80 |
-|             80 | Charles Piutau      |      87.52 |                63 |       15 |                47 |      79.38 | Ryohei Yamanaka   |             64 |
-|             11 | Paula Ngauamo       |      87.8  |                68 |       16 |                98 |     127.21 | Shota Horie       |             21 |
-|             11 | Feao Fotuaika       |      91.99 |                82 |       17 |                76 |      90.3  | Craig Millar      |             21 |
-|             11 | David Lolohea       |      84.51 |               nan |       18 |                66 |      87.04 | Jiwon Gu          |             27 |
-|             33 | Tanginoa Halaifonua |      92.77 |                75 |       19 |                17 |      62.06 | James Moore       |             33 |
-|             33 | Solomone Funaki     |      70.09 |                31 |       20 |               nan |      90.42 | Tevita Tatafu     |             21 |
-|             12 | Manu Paea           |      70.19 |                35 |       21 |                56 |      83.76 | Yutaka Nagare     |             27 |
-|              7 | Otumaka Mausia      |      89.42 |                63 |       22 |                45 |      79.18 | Rikiya Matsuda    |             33 |
-|             16 | Malakai Fekitoa     |     111.11 |                91 |       23 |                88 |     105.67 | Kotaro Matsushima |             16 |
+|             69 | Siegfried Fisi'ihoi |      88.05 |                68 |        1 |                73 |      99.49 | Keita Inagaki     |             59 |
+|             69 | Samiuela Moli       |      52.62 |                14 |        2 |                23 |      74.24 | Atsushi Sakate    |             59 |
+|             69 | Ben Tameifuna       |     104.16 |                92 |        3 |                97 |     127.63 | Asaeli Ai Valu    |             53 |
+|             80 | Leva Fifita         |      74.02 |                34 |        4 |                40 |      85.35 | Amato Fakatava    |             80 |
+|             47 | Steve Mafi          |      94.9  |                76 |        5 |                63 |      90.17 | Uwe Helu          |             47 |
+|             80 | Vaea Fifita         |     120.04 |                97 |        6 |                90 |     122.41 | Jack Cornelsen    |             80 |
+|             80 | Sione Havili        |      78.16 |                45 |        7 |                92 |     113.73 | Ben Gunter        |             59 |
+|             47 | Lopeti Timani       |      97.08 |                84 |        8 |                37 |      86.5  | Kazuki Himeno     |             80 |
+|             68 | Sonatane Takulua    |      80.11 |                52 |        9 |                48 |      87.96 | Naoto Saito       |             53 |
+|             73 | William Havili      |     107.73 |                91 |       10 |                38 |      80.12 | Seungsin Lee      |             47 |
+|             64 | Kyren Taumoefolau   |      84.68 |                68 |       11 |                91 |     125.42 | Semisi Masirewa   |             80 |
+|             80 | Pita Ahki           |      85.34 |                58 |       12 |                34 |      88.5  | Tomoki Osada      |             80 |
+|             80 | Afusipa Taumoepeau  |      82.04 |                52 |       13 |                82 |     114.99 | Dylan Riley       |             80 |
+|             80 | Solomone Kata       |     101.46 |                84 |       14 |                27 |      83.89 | Jone Naikabula    |             80 |
+|             80 | Charles Piutau      |      89.7  |                69 |       15 |                44 |      83.62 | Ryohei Yamanaka   |             64 |
+|             11 | Paula Ngauamo       |      84.67 |                63 |       16 |                98 |     125.76 | Shota Horie       |             21 |
+|             11 | Feao Fotuaika       |      89.98 |                81 |       17 |                69 |      86.63 | Craig Millar      |             21 |
+|             11 | David Lolohea       |      84.26 |               nan |       18 |                65 |      86.73 | Jiwon Gu          |             27 |
+|             33 | Tanginoa Halaifonua |      91.85 |                66 |       19 |                 7 |      63.41 | James Moore       |             33 |
+|             33 | Solomone Funaki     |      70.59 |                31 |       20 |               nan |      90.43 | Tevita Tatafu     |             21 |
+|             12 | Manu Paea           |      70.66 |                35 |       21 |                56 |      83.03 | Yutaka Nagare     |             27 |
+|              7 | Otumaka Mausia      |      90.18 |                65 |       22 |                29 |      79.91 | Rikiya Matsuda    |             33 |
+|             16 | Malakai Fekitoa     |     113.31 |                93 |       23 |                72 |     104.6  | Kotaro Matsushima |             16 |
+
+
+# Player Level Predictions - Version 2
+
+
+Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
+## Prediction with Player Minutes: Japan by 8.3
+
+
+Japan by 5.0 on a neutral field
+## Prediction without Player Minutes: Japan by 9.1
+
+
+Japan by 5.9 on a neutral pitch
+
+
+
+|   Away Minutes | Away Player         |   Away elo |   Away variance |   Number |   Home variance |   Home elo | Home Player       |   Home Minutes |
+|---------------:|:--------------------|-----------:|----------------:|---------:|----------------:|-----------:|:------------------|---------------:|
+|             69 | Siegfried Fisi'ihoi |      51.67 |           50    |        1 |           50    |     102.17 | Keita Inagaki     |             59 |
+|             69 | Samiuela Moli       |      31.78 |           48.91 |        2 |           50    |      48.49 | Atsushi Sakate    |             59 |
+|             69 | Ben Tameifuna       |      91.75 |           48.07 |        3 |           50    |     100.76 | Asaeli Ai Valu    |             53 |
+|             80 | Leva Fifita         |      33.87 |           50    |        4 |           50    |      46.65 | Amato Fakatava    |             80 |
+|             47 | Steve Mafi          |      45.47 |           50    |        5 |           50    |      71.89 | Uwe Helu          |             47 |
+|             80 | Vaea Fifita         |     112.01 |           50    |        6 |           50    |     104.31 | Jack Cornelsen    |             80 |
+|             80 | Sione Havili        |      74.69 |           48.71 |        7 |           50    |     112.78 | Ben Gunter        |             59 |
+|             47 | Lopeti Timani       |      64.78 |           50    |        8 |           50    |      78.1  | Kazuki Himeno     |             80 |
+|             68 | Sonatane Takulua    |      46.65 |           50    |        9 |           50    |      47.71 | Naoto Saito       |             53 |
+|             73 | William Havili      |      51.47 |           48.42 |       10 |           50    |      24.79 | Seungsin Lee      |             47 |
+|             64 | Kyren Taumoefolau   |      46.65 |           50    |       11 |           50    |      64.59 | Semisi Masirewa   |             80 |
+|             80 | Pita Ahki           |      53.27 |           47.81 |       12 |           50    |      46.65 | Tomoki Osada      |             80 |
+|             80 | Afusipa Taumoepeau  |      82.57 |           50    |       13 |           49.96 |     121.25 | Dylan Riley       |             80 |
+|             80 | Solomone Kata       |      46.41 |           50    |       14 |           50    |      46.65 | Jone Naikabula    |             80 |
+|             80 | Charles Piutau      |     104.96 |           50    |       15 |           50    |      51.73 | Ryohei Yamanaka   |             64 |
+|             11 | Paula Ngauamo       |      63.46 |           50    |       16 |           50    |     119.71 | Shota Horie       |             21 |
+|             11 | Feao Fotuaika       |      45.68 |           49.45 |       17 |           50    |      55.51 | Craig Millar      |             21 |
+|             11 | David Lolohea       |      46.65 |           50    |       18 |           50    |      41.61 | Jiwon Gu          |             27 |
+|             33 | Tanginoa Halaifonua |      58.86 |           45.6  |       19 |           50    |     -11.46 | James Moore       |             33 |
+|             33 | Solomone Funaki     |      51.36 |           48.33 |       20 |           50    |      46.65 | Tevita Tatafu     |             21 |
+|             12 | Manu Paea           |      38.79 |           50    |       21 |           50    |      80.4  | Yutaka Nagare     |             27 |
+|              7 | Otumaka Mausia      |      43.5  |           50    |       22 |           50    |     116.66 | Rikiya Matsuda    |             33 |
+|             16 | Malakai Fekitoa     |      89.3  |           50    |       23 |           50    |     108.54 | Kotaro Matsushima |             16 |
 

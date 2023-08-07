@@ -10,31 +10,19 @@ key: page-recents
 
 [In depth model review and projections for IRB Pacific Nations Cup 2023](comp_files/IRB_Pacific_Nations_Cup_2023)
 
-Competition Accuracy: 2 of 4 (50.0%)
+Competition Accuracy: 4 of 6 (66.67%)
 
-Competition Error: 9.2 points per match
+Competition Error: 12.34 points per match
 
-Last Round Accuracy: 1 of 2 (50.0%)
+Last Round Accuracy: 2 of 2 (100.0%)
 
-Last Round Error: 12.24 points per match
-
-[2023-07-28 Fiji at Samoa; 33-19](reviews//2023-07-28-Samoa-Fiji)
+Last Round Error: 18.62 points per match
 
 [2023-07-28 Tonga at Japan; 16-21](reviews//2023-07-28-Japan-Tonga)
-## International Test Match
 
+[2023-08-04 Tonga at Samoa; 9.0-34.0](reviews//2023-08-04-Samoa-Tonga)
 
-[In depth model review and projections for International Test Match 2023](comp_files/International_Test_Match_2023)
-
-Competition Accuracy: 1 of 1 (100.0%)
-
-Competition Error: 3.7 points per match
-
-Last Round Accuracy: 1 of 1 (100.0%)
-
-Last Round Error: 3.7 points per match
-
-[2023-07-28 Italy at Scotland; 13-25](reviews//2023-07-28-Scotland-Italy)
+[2023-08-04 Fiji at Japan; 35.0-12.0](reviews//2023-08-04-Japan-Fiji)
 ## Rugby Championship
 
 
@@ -51,3 +39,57 @@ Last Round Error: 22.28 points per match
 [2023-07-29 New Zealand at Australia; 38-7](reviews//2023-07-29-Australia-NewZealand)
 
 [2023-07-29 Argentina at South Africa; 21-22](reviews//2023-07-29-SouthAfrica-Argentina)
+## worldcupwarmupmatch
+
+
+[In depth model review and projections for worldcupwarmupmatch 2023](comp_files/worldcupwarmupmatch_2023)
+
+Competition Accuracy: 6 of 9 (66.67%)
+
+Competition Error: 9.24 points per match
+
+Last Round Accuracy: 5 of 8 (62.5%)
+
+Last Round Error: 9.93 points per match
+
+[2023-07-29 Chile at Uruguay; 25-26](reviews//2023-07-29-Uruguay-Chile)
+
+[2023-08-04 France at Scotland; 21.0-25.0](reviews//2023-08-04-UnitedStatesofAmerica-Romania)
+
+[2023-08-04 France at Scotland; 21.0-25.0](reviews//2023-08-04-Scotland-France)
+
+[2023-08-04 Argentina at South Africa; 21-22](reviews//2023-08-04-SouthAfrica-Argentina)
+
+[2023-08-04 New Zealand at Australia; 38-7](reviews//2023-08-04-Australia-NewZealand)
+
+[2023-08-04 England at Wales; 9.0-20.0](reviews//2023-08-04-Wales-England)
+
+[2023-08-05 Fiji at Japan; 35.0-12.0](reviews//2023-08-05-Namibia-Uruguay)
+# Domestic Leagues
+
+## Bunnings Warehouse NPC
+
+
+[In depth model review and projections for Bunnings Warehouse NPC 2023](comp_files/Bunnings_Warehouse_NPC_2023)
+
+Competition Accuracy: 6 of 7 (85.71%)
+
+Competition Error: 7.27 points per match
+
+Last Round Accuracy: 6 of 7 (85.71%)
+
+Last Round Error: 7.27 points per match
+
+[2023-08-04 Counties Manukau at Taranaki; 29-37](reviews//2023-08-04-Taranaki-CountiesManukau)
+
+[2023-08-04 Counties Manukau at Taranaki; 29-37](reviews//2023-08-04-Otago-Tasman)
+
+[2023-08-05 Chile at Uruguay; 25-26](reviews//2023-08-05-Wellington-Manawatu)
+
+[2023-08-05 Chile at Uruguay; 25-26](reviews//2023-08-05-Canterbury-Northland)
+
+[2023-08-05 Chile at Uruguay; 25-26](reviews//2023-08-05-NorthHarbour-Hawke'sBay)
+
+[2023-08-06 Chile at Uruguay; 25-26](reviews//2023-08-06-Waikato-Southland)
+
+[2023-08-06 Counties Manukau at Taranaki; 29-37](reviews//2023-08-06-Auckland-BayofPlenty)
