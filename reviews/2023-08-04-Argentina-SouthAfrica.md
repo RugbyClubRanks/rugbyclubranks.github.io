@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: South Africa by 4.1
+## Prediction with Player Minutes: South Africa by 2.7
 
 
-South Africa by 8.1 on a neutral field
-## Prediction without Player Minutes: South Africa by 2.0
+South Africa by 6.7 on a neutral field
+## Prediction without Player Minutes: South Africa by 0.7
 
 
-South Africa by 6.0 on a neutral pitch
+South Africa by 4.7 on a neutral pitch
 
 
 ## Scores over Time
@@ -47,33 +47,33 @@ South Africa by 6.0 on a neutral pitch
 
 ![In Match Predictions](plots/recap_prob_2023-08-04-Argentina-SouthAfrica.png)
 
-There were 8 large changes in win probability in this match
+There were 9 large changes in win probability in this match
 
 |   Away Minutes | Away Player        |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player            |   Home Minutes |
 |---------------:|:-------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------------|---------------:|
-|             54 | Trevor Nyakane     |     109.26 |                95 |        1 |                80 |      97.63 | Thomas Gallo           |             60 |
-|             52 | Bongi Mbonambi     |     111.16 |                95 |        2 |                91 |     111.1  | Julian Montoya         |             72 |
-|             52 | Thomas du Toit     |      91.53 |                82 |        3 |                96 |     118.91 | Francisco Gomez Kodela |             60 |
-|             80 | Jean Kleyn         |      98.98 |                86 |        4 |                55 |      85.26 | Pedro Rubiolo          |             34 |
-|             48 | Marvin Orie        |      75.43 |                45 |        5 |                97 |     133.52 | Tomas Lavanini         |             80 |
-|             80 | Deon Fourie        |     123.55 |                98 |        6 |                96 |     123.96 | Pablo Matera           |             80 |
-|             80 | Franco Mostert     |     124.66 |                98 |        7 |                69 |      91.29 | Santiago Grondona      |             52 |
-|             57 | Jasper Wiese       |      98.6  |                85 |        8 |                71 |      96.36 | Juan Martin Gonzalez   |             80 |
-|             56 | Cobus Reinach      |     115.56 |                96 |        9 |                83 |     105.3  | Gonzalo Bertranou      |             72 |
-|             80 | Manie Libbok       |      90.78 |                75 |       10 |                98 |     136.97 | Santiago Carreras      |             80 |
-|             80 | Makazole Mapimpi   |     114.1  |                96 |       11 |                26 |      72.02 | Santiago Cordero       |             80 |
-|             80 | Andre Esterhuizen  |     135.84 |                99 |       12 |                93 |     112.59 | Santiago Chocobares    |              2 |
-|             41 | Lukhanyo Am        |      99.52 |                84 |       13 |                40 |      80.15 | Lucio Cinti            |             80 |
-|             80 | Canan Moodie       |     106.13 |                93 |       14 |                34 |      76.75 | Emiliano Boffelli      |             80 |
-|             80 | Damian Willemse    |     102.02 |                85 |       15 |                70 |      96.51 | Martin Bogado          |             63 |
-|             28 | Joseph Dweba       |     106.07 |                89 |       16 |                95 |     116.25 | Agustin Creevy         |              8 |
-|             26 | Gerhard Steenekamp |     100.44 |               nan |       17 |                82 |      97.58 | Joel Sclavi            |             20 |
-|             28 | Vincent Koch       |      59.22 |                15 |       18 |                80 |      95.11 | Eduardo Bello          |             20 |
-|             32 | Jean-Luc du Preez  |     105.55 |                87 |       19 |               nan |      96.73 | Guido Petti            |             46 |
-|             23 | Evan Roos          |     109.04 |                92 |       20 |                93 |     113.25 | Facundo Isa            |             28 |
-|             24 | Herschel Jantjies  |     100.67 |               nan |       21 |                66 |      89.21 | Lautaro Bazan Velez    |              8 |
-|             39 | Jesse Kriel        |     108.77 |                90 |       22 |                83 |     105.21 | Tomas Albornoz         |             17 |
-|              0 | Kurt-Lee Arendse   |     139.52 |                99 |       23 |                40 |      79.77 | Matias Moroni          |             78 |
+|             54 | Trevor Nyakane     |     110.42 |                96 |        1 |                79 |      97.51 | Thomas Gallo           |             60 |
+|             52 | Bongi Mbonambi     |     111.26 |                95 |        2 |                91 |     111.23 | Julian Montoya         |             72 |
+|             52 | Thomas du Toit     |      91.54 |                81 |        3 |                97 |     119.04 | Francisco Gomez Kodela |             60 |
+|             80 | Jean Kleyn         |      99.36 |                87 |        4 |                53 |      85.09 | Pedro Rubiolo          |             34 |
+|             48 | Marvin Orie        |      75.98 |                46 |        5 |                97 |     133.23 | Tomas Lavanini         |             80 |
+|             80 | Deon Fourie        |     123.84 |                98 |        6 |                95 |     123.87 | Pablo Matera           |             80 |
+|             80 | Franco Mostert     |     124.84 |                98 |        7 |                66 |      90.13 | Santiago Grondona      |             52 |
+|             57 | Jasper Wiese       |      98.95 |                85 |        8 |                69 |      96.14 | Juan Martin Gonzalez   |             80 |
+|             56 | Cobus Reinach      |     115.41 |                96 |        9 |                82 |     105.25 | Gonzalo Bertranou      |             72 |
+|             80 | Manie Libbok       |      92.08 |                75 |       10 |                98 |     136.78 | Santiago Carreras      |             80 |
+|             80 | Makazole Mapimpi   |     114.18 |                96 |       11 |                64 |      92.97 | Santiago Cordero       |             80 |
+|             80 | Andre Esterhuizen  |     135.8  |                99 |       12 |                93 |     114.36 | Santiago Chocobares    |              2 |
+|             41 | Lukhanyo Am        |      99.67 |                83 |       13 |                39 |      79.92 | Lucio Cinti            |             80 |
+|             80 | Canan Moodie       |     106.08 |                92 |       14 |                35 |      76.8  | Emiliano Boffelli      |             80 |
+|             80 | Damian Willemse    |     103.17 |                87 |       15 |                71 |      97.38 | Martin Bogado          |             63 |
+|             28 | Joseph Dweba       |     106.84 |                90 |       16 |                95 |     116.25 | Agustin Creevy         |              8 |
+|             26 | Gerhard Steenekamp |     100.98 |               nan |       17 |                81 |      97.5  | Joel Sclavi            |             20 |
+|             28 | Vincent Koch       |      59.32 |                15 |       18 |                79 |      95.14 | Eduardo Bello          |             20 |
+|             32 | Jean-Luc du Preez  |     104.66 |                87 |       19 |               nan |      97.6  | Guido Petti            |             46 |
+|             23 | Evan Roos          |     110    |                92 |       20 |                93 |     113.16 | Facundo Isa            |             28 |
+|             24 | Herschel Jantjies  |     100.75 |               nan |       21 |                66 |      89.03 | Lautaro Bazan Velez    |              8 |
+|             39 | Jesse Kriel        |     109.21 |                90 |       22 |                82 |     105.17 | Tomas Albornoz         |             17 |
+|              0 | Kurt-Lee Arendse   |     139.66 |                99 |       23 |                38 |      79    | Matias Moroni          |             78 |
 
 
 # Player Level Predictions - Version 2

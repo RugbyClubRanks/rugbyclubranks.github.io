@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Tonga by 3.5
+## Prediction with Player Minutes: Tonga by 3.4
 
 
-Tonga by 7.5 on a neutral field
-## Prediction without Player Minutes: Tonga by 4.6
+Tonga by 7.4 on a neutral field
+## Prediction without Player Minutes: Tonga by 4.7
 
 
-Tonga by 8.6 on a neutral pitch
+Tonga by 8.7 on a neutral pitch
 
 
 ## Scores over Time
@@ -51,29 +51,29 @@ There were 4 large changes in win probability in this match
 
 |   Away Minutes | Away Player         |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player           |   Home Minutes |
 |---------------:|:--------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------|---------------:|
-|             66 | Siegfried Fisi'ihoi |      94.03 |                67 |        1 |                99 |     124.34 | Charlie Faumuina      |             55 |
-|             59 | Siua Maile          |      63.48 |                13 |        2 |                66 |      81.1  | Sama Malolo           |             47 |
-|             61 | Ben Tameifuna       |     110.2  |                92 |        3 |                76 |      86.66 | Michael Alaalatoa     |             49 |
-|             80 | Leva Fifita         |      81.05 |                34 |        4 |                87 |     100.76 | Brian Alainu'uese     |             47 |
-|             49 | Steve Mafi          |      98.98 |                76 |        5 |                46 |      70.68 | Chris Vui             |             80 |
-|             80 | Tanginoa Halaifonua |      94.81 |                67 |        6 |                68 |      79.41 | Miracle Faiilagi      |             80 |
-|             80 | Sione Havili        |      85.1  |                46 |        7 |                55 |      76.61 | Jack Lam              |             47 |
-|             80 | Vaea Fifita         |     127.04 |                97 |        8 |                97 |     114.71 | Steven Luatua         |             80 |
-|             53 | Sonatane Takulua    |      85.45 |                50 |        9 |                42 |      70.33 | Jonathan Taumateine   |             59 |
-|             26 | William Havili      |     114.06 |                91 |       10 |                83 |      96.78 | D'Angelo Leuila       |             65 |
-|             80 | Afusipa Taumoepeau  |      89.07 |                52 |       11 |                18 |      53.48 | Ed Fidow              |             80 |
-|             80 | Pita Ahki           |      92.27 |                58 |       12 |                97 |     119.32 | Duncan Paia'aua       |             80 |
-|             80 | George Moala        |      98.92 |                69 |       13 |                66 |      85.76 | Ulupano Seuteni       |             31 |
-|             80 | Solomone Kata       |     108.46 |                84 |       14 |                79 |      89.66 | Nigel Ah Wong         |             80 |
-|             45 | Charles Piutau      |      96.73 |                69 |       15 |                72 |      86.87 | Tim Nanai-Williams    |             80 |
-|             21 | Paula Ngauamo       |      85.62 |                63 |       16 |                88 |     103.5  | Luteru Tolai          |             33 |
-|             14 | Tau Koloamatangi    |     107.56 |                95 |       17 |               nan |      86.45 | Titi Lamositele       |             25 |
-|             19 | David Lolohea       |      85.17 |               nan |       18 |                79 |      93.44 | Paul Alo-Emile        |             31 |
-|             31 | Lopeti Timani       |     101.16 |                84 |       19 |               nan |      86.25 | Theo McFarland        |             33 |
-|             14 | Solomone Funaki     |      73.55 |                31 |       20 |                97 |     119.92 | Fritz Lee             |             33 |
-|             13 | Manu Paea           |      71.72 |                35 |       21 |               nan |      74.3  | Melani Matavao        |             21 |
-|             54 | Otumaka Mausia      |      90.89 |                65 |       22 |                79 |     100.54 | Christian Leali'ifano |             49 |
-|             35 | Malakai Fekitoa     |     114.8  |                93 |       23 |                55 |      82.86 | Neria Fomai           |             15 |
+|             66 | Siegfried Fisi'ihoi |      94.16 |                66 |        1 |                99 |     124.37 | Charlie Faumuina      |             55 |
+|             59 | Siua Maile          |      63.47 |                13 |        2 |                64 |      81.09 | Sama Malolo           |             47 |
+|             61 | Ben Tameifuna       |     110.72 |                92 |        3 |                75 |      86.91 | Michael Alaalatoa     |             49 |
+|             80 | Leva Fifita         |      81.18 |                35 |        4 |                87 |     100.84 | Brian Alainu'uese     |             47 |
+|             49 | Steve Mafi          |     100.21 |                63 |        5 |                45 |      70.66 | Chris Vui             |             80 |
+|             80 | Tanginoa Halaifonua |      92.02 |                37 |        6 |                67 |      79.24 | Miracle Faiilagi      |             80 |
+|             80 | Sione Havili        |      85.3  |                29 |        7 |                55 |      76.59 | Jack Lam              |             47 |
+|             80 | Vaea Fifita         |     127.18 |                97 |        8 |                97 |     114.69 | Steven Luatua         |             80 |
+|             53 | Sonatane Takulua    |      85.79 |                33 |        9 |                43 |      70.38 | Jonathan Taumateine   |             59 |
+|             26 | William Havili      |     114.13 |                91 |       10 |                81 |      96.78 | D'Angelo Leuila       |             65 |
+|             80 | Afusipa Taumoepeau  |      89.2  |                36 |       11 |                17 |      52.91 | Ed Fidow              |             80 |
+|             80 | Pita Ahki           |      92.42 |                57 |       12 |                97 |     119.41 | Duncan Paia'aua       |             80 |
+|             80 | George Moala        |      98    |                51 |       13 |                64 |      85.87 | Ulupano Seuteni       |             31 |
+|             80 | Solomone Kata       |     108.6  |                83 |       14 |                78 |      89.64 | Nigel Ah Wong         |             80 |
+|             45 | Charles Piutau      |      96.86 |                69 |       15 |                72 |      86.29 | Tim Nanai-Williams    |             80 |
+|             21 | Paula Ngauamo       |      85.64 |                62 |       16 |                88 |     103.53 | Luteru Tolai          |             33 |
+|             14 | Tau Koloamatangi    |     107.55 |                89 |       17 |               nan |      86.69 | Titi Lamositele       |             25 |
+|             19 | David Lolohea       |      85.15 |                47 |       18 |                80 |      94.04 | Paul Alo-Emile        |             31 |
+|             31 | Lopeti Timani       |     101.24 |                83 |       19 |               nan |      86.49 | Theo McFarland        |             33 |
+|             14 | Solomone Funaki     |      73.53 |                20 |       20 |                97 |     120.42 | Fritz Lee             |             33 |
+|             13 | Manu Paea           |      71.74 |                35 |       21 |               nan |      74.3  | Melani Matavao        |             21 |
+|             54 | Otumaka Mausia      |      90.88 |                63 |       22 |                78 |     100.57 | Christian Leali'ifano |             49 |
+|             35 | Malakai Fekitoa     |     115.82 |                84 |       23 |                54 |      82.86 | Neria Fomai           |             15 |
 
 
 # Player Level Predictions - Version 2

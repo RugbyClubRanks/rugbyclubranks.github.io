@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Japan by 12.8
+## Prediction with Player Minutes: Japan by 13.5
 
 
-Japan by 8.8 on a neutral field
-## Prediction without Player Minutes: Japan by 14.8
+Japan by 9.5 on a neutral field
+## Prediction without Player Minutes: Japan by 15.6
 
 
-Japan by 10.8 on a neutral pitch
+Japan by 11.6 on a neutral pitch
 
 
 ## Scores over Time
@@ -51,29 +51,29 @@ There were 2 large changes in win probability in this match
 
 |   Away Minutes | Away Player             |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player        |   Home Minutes |
 |---------------:|:------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------|---------------:|
-|             53 | Eroni Mawi              |      52.96 |                13 |        1 |                72 |      94.35 | Keita Inagaki      |             41 |
-|             50 | Sam Matavesi            |      58.5  |                23 |        2 |                23 |      69.11 | Atsushi Sakate     |             41 |
-|             50 | Luke Tagi               |      87.72 |                79 |        3 |                97 |     123.04 | Asaeli Ai Valu     |             41 |
-|             82 | Albert Tuisue           |      64.03 |                35 |        4 |                 7 |      60.53 | James Moore        |             82 |
-|             66 | Temo Mayanavanua        |      85.98 |                75 |        5 |                40 |      78.4  | Amato Fakatava     |             23 |
-|             82 | Lekima Tagitagivalu     |      95.73 |                89 |        6 |                90 |     115.46 | Jack Cornelsen     |             82 |
-|             53 | Kitione Kamikamica      |      79.11 |                64 |        7 |                46 |      86.54 | Pieter Labuschagne |             82 |
-|             82 | Ratu Meli Derenalagi    |      96.07 |                90 |        8 |                36 |      79.54 | Kazuki Himeno      |             59 |
-|             50 | Simione Kuruvoli        |      86.79 |                72 |        9 |                48 |      83.36 | Naoto Saito        |             41 |
-|             60 | Ben Volavola            |      71.18 |                41 |       10 |                29 |      77.05 | Rikiya Matsuda     |             56 |
-|             82 | Selestino Ravutaumada   |      92.22 |                85 |       11 |                29 |      77.92 | Jone Naikabula     |             82 |
-|              7 | Vilimoni Botitu         |      86.53 |                64 |       12 |                33 |      81.56 | Tomoki Osada       |             82 |
-|             82 | Waisea Nayacalevu       |      90.79 |                81 |       13 |                82 |     108.04 | Dylan Riley        |             62 |
-|             82 | Jiuta Wainiqolo         |      90.33 |                83 |       14 |                92 |     118.48 | Semisi Masirewa    |             82 |
-|             82 | Sireli Maqala           |      96.57 |                85 |       15 |                71 |     103.19 | Kotaro Matsushima  |             82 |
-|             32 | Tevita Ikanivere        |     123.03 |                97 |       16 |                98 |     123.94 | Shota Horie        |             41 |
-|             29 | Peni Ravai              |     100.52 |                86 |       17 |                69 |      84.8  | Craig Millar       |             41 |
-|             32 | Mesake Doge             |      68.06 |                25 |       18 |                65 |      84.36 | Jiwon Gu           |             41 |
-|             16 | Te Ahiwaru Cirikidaveta |     100.72 |                84 |       19 |               nan |      88.94 | Kanji Shimokawa    |             59 |
-|             29 | Joseva Tamani           |      72.53 |                28 |       20 |                91 |     108.62 | Ben Gunter         |             23 |
-|             32 | Frank Lomani            |      81.81 |                54 |       21 |                56 |      80.67 | Yutaka Nagare      |             41 |
-|             75 | Teti Tela               |      97.15 |                78 |       22 |                37 |      76.02 | Seungsin Lee       |             26 |
-|             22 | Ilaisa Droasese         |      84.61 |                57 |       23 |               nan |      86.74 | Ryoto Nakamura     |             20 |
+|             53 | Eroni Mawi              |      52.63 |                12 |        1 |                73 |      94.93 | Keita Inagaki      |             41 |
+|             50 | Sam Matavesi            |      58.52 |                23 |        2 |                24 |      69.68 | Atsushi Sakate     |             41 |
+|             50 | Luke Tagi               |      87.75 |                79 |        3 |                97 |     123.79 | Asaeli Ai Valu     |             41 |
+|             82 | Albert Tuisue           |      64.05 |                36 |        4 |                 6 |      59.29 | James Moore        |             82 |
+|             66 | Temo Mayanavanua        |      85.76 |                73 |        5 |                39 |      78.25 | Amato Fakatava     |             23 |
+|             82 | Lekima Tagitagivalu     |      93.47 |                88 |        6 |                91 |     116.41 | Jack Cornelsen     |             82 |
+|             53 | Kitione Kamikamica      |      80.31 |                66 |        7 |                47 |      87.01 | Pieter Labuschagne |             82 |
+|             82 | Ratu Meli Derenalagi    |      96.32 |                90 |        8 |                35 |      79.28 | Kazuki Himeno      |             59 |
+|             50 | Simione Kuruvoli        |      86.8  |                72 |        9 |                48 |      83.69 | Naoto Saito        |             41 |
+|             60 | Ben Volavola            |      71.18 |                41 |       10 |                29 |      78.03 | Rikiya Matsuda     |             56 |
+|             82 | Selestino Ravutaumada   |      92.07 |                84 |       11 |                29 |      77.71 | Jone Naikabula     |             82 |
+|              7 | Vilimoni Botitu         |      85.4  |                61 |       12 |                35 |      82.36 | Tomoki Osada       |             82 |
+|             82 | Waisea Nayacalevu       |      90.8  |                81 |       13 |                82 |     108.78 | Dylan Riley        |             62 |
+|             82 | Jiuta Wainiqolo         |      90.34 |                82 |       14 |                92 |     119.7  | Semisi Masirewa    |             82 |
+|             82 | Sireli Maqala           |      96.58 |                85 |       15 |                72 |     103.78 | Kotaro Matsushima  |             82 |
+|             32 | Tevita Ikanivere        |     123.06 |                97 |       16 |                98 |     124.31 | Shota Horie        |             41 |
+|             29 | Peni Ravai              |     100.5  |                86 |       17 |                67 |      85.17 | Craig Millar       |             41 |
+|             32 | Mesake Doge             |      68.06 |                25 |       18 |                64 |      84.22 | Jiwon Gu           |             41 |
+|             16 | Te Ahiwaru Cirikidaveta |     100.76 |                83 |       19 |               nan |      88.94 | Kanji Shimokawa    |             59 |
+|             29 | Joseva Tamani           |      72.59 |                30 |       20 |                92 |     108.51 | Ben Gunter         |             23 |
+|             32 | Frank Lomani            |      81.89 |                54 |       21 |                55 |      80.81 | Yutaka Nagare      |             41 |
+|             75 | Teti Tela               |      97.23 |                77 |       22 |                36 |      75.83 | Seungsin Lee       |             26 |
+|             22 | Ilaisa Droasese         |      84.76 |                56 |       23 |               nan |      86.82 | Ryoto Nakamura     |             20 |
 
 
 # Player Level Predictions - Version 2

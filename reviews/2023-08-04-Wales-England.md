@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Wales by 1.2
+## Prediction with Player Minutes: Wales by 7.6
 
 
-England by 2.8 on a neutral field
-## Prediction without Player Minutes: England by 0.1
+Wales by 3.6 on a neutral field
+## Prediction without Player Minutes: Wales by 8.1
 
 
-England by 4.1 on a neutral pitch
+Wales by 4.1 on a neutral pitch
 
 
 ## Scores over Time
@@ -47,65 +47,65 @@ England by 4.1 on a neutral pitch
 
 ![In Match Predictions](plots/recap_prob_2023-08-04-Wales-England.png)
 
-There were 7 large changes in win probability in this match
+There were 9 large changes in win probability in this match
 
 |   Away Minutes | Away Player         |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player       |   Home Minutes |
 |---------------:|:--------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------|---------------:|
-|             69 | Ellis Genge         |      91.1  |                65 |        1 |                76 |      88.35 | Corey Domachowski |             50 |
-|             55 | Jamie Blamire       |      89.62 |                66 |        2 |                70 |      88.14 | Ryan Elias        |              7 |
-|             55 | Will Stuart         |      89.41 |                63 |        3 |                80 |      90.22 | Keiron Assiratti  |             50 |
-|             46 | David Ribbans       |     105.65 |                85 |        4 |                76 |      90.57 | Dafydd Jenkins    |             60 |
-|             80 | George Martin       |      91.84 |                63 |        5 |                76 |      90.95 | Will Rowlands     |             50 |
-|             80 | Lewis Ludlam        |      80.95 |                42 |        6 |                60 |      79.87 | Christ Tshiunza   |             50 |
-|             80 | Tom Pearson         |      91.73 |                66 |        7 |                81 |      91.36 | Jac Morgan        |             80 |
-|             55 | Alex Dombrandt      |      92.08 |                66 |        8 |                80 |      91.82 | Aaron Wainwright  |             80 |
-|             50 | Danny Care          |      90.81 |                63 |        9 |                72 |      88.58 | Gareth Davies     |             55 |
-|             60 | Marcus Smith        |      90.55 |                57 |       10 |                70 |      88.81 | Sam Costelow      |             55 |
-|             69 | Joe Cokanasiga      |      91.4  |                63 |       11 |                73 |      87.94 | Rio Dyer          |             80 |
-|             80 | Guy Porter          |     105.29 |                81 |       12 |                74 |      89.06 | Max Llewellyn     |             80 |
-|             80 | Joe Marchant        |      90.3  |                59 |       13 |                74 |      89.32 | George North      |             80 |
-|             80 | Max Malins          |      80.18 |                39 |       14 |                75 |      89.6  | Louis Rees-Zammit |             80 |
-|             80 | Freddie Steward     |     104.97 |                79 |       15 |                74 |      89.9  | Leigh Halfpenny   |             80 |
-|             25 | Theo Dan            |      91.88 |                69 |       16 |               nan |      92.34 | Elliot Dee        |             73 |
-|             11 | Bevan Rodd          |     102.95 |                91 |       17 |               nan |      92.92 | Nicky Smith       |             30 |
-|             25 | Kyle Sinckler       |      92.47 |               nan |       18 |               nan |      93.58 | Henry Thomas      |             30 |
-|             34 | Jonny Hill          |      87.84 |                65 |       19 |               nan |      94.37 | Ben Carter        |             30 |
-|             25 | Tom Willis          |      89.83 |               nan |       20 |                58 |      83.23 | Taine Plumtree    |             30 |
-|             30 | Jack van Poortvliet |     104.42 |                87 |       21 |                85 |     103.67 | Tomos Williams    |             25 |
-|             20 | George Ford         |     114.74 |                93 |       22 |                98 |     134.59 | Dan Biggar        |             25 |
-|             11 | Henry Slade         |      90.06 |               nan |       23 |               nan |      95.32 | Mason Grady       |             20 |
+|             69 | Ellis Genge         |      88.56 |                61 |        1 |                80 |      91.82 | Corey Domachowski |             50 |
+|             55 | Jamie Blamire       |      87.04 |                62 |        2 |                75 |      91.36 | Ryan Elias        |              7 |
+|             55 | Will Stuart         |      68.62 |                22 |        3 |                78 |      90.95 | Keiron Assiratti  |             50 |
+|             46 | David Ribbans       |      86.78 |                57 |        4 |                72 |      90.57 | Dafydd Jenkins    |             60 |
+|             80 | George Martin       |      92.17 |                65 |        5 |                77 |      94.37 | Will Rowlands     |             50 |
+|             80 | Lewis Ludlam        |      86.54 |                59 |        6 |                57 |      79.87 | Christ Tshiunza   |             50 |
+|             80 | Tom Pearson         |      86.31 |                59 |        7 |                77 |      89.9  | Jac Morgan        |             80 |
+|             55 | Alex Dombrandt      |      86.1  |                53 |        8 |                72 |      89.6  | Aaron Wainwright  |             80 |
+|             50 | Danny Care          |      87.31 |                59 |        9 |                74 |      92.34 | Gareth Davies     |             55 |
+|             60 | Marcus Smith        |      87.6  |                52 |       10 |                72 |      92.92 | Sam Costelow      |             55 |
+|             69 | Joe Cokanasiga      |      87.92 |                59 |       11 |                77 |      93.58 | Rio Dyer          |             80 |
+|             80 | Guy Porter          |      88.26 |                58 |       12 |                78 |      95.32 | Max Llewellyn     |             80 |
+|             80 | Joe Marchant        |      94.31 |                68 |       13 |                70 |      88.58 | George North      |             80 |
+|             80 | Max Malins          |      79.97 |                43 |       14 |                70 |      88.35 | Louis Rees-Zammit |             80 |
+|             80 | Freddie Steward     |     105.3  |                82 |       15 |                69 |      88.14 | Leigh Halfpenny   |             80 |
+|             25 | Theo Dan            |      88.89 |                68 |       16 |               nan |      89.32 | Elliot Dee        |             73 |
+|             11 | Bevan Rodd          |     103.13 |                91 |       17 |               nan |      89.06 | Nicky Smith       |             30 |
+|             25 | Kyle Sinckler       |      85.89 |               nan |       18 |               nan |      90.22 | Henry Thomas      |             30 |
+|             34 | Jonny Hill          |      86.88 |                62 |       19 |               nan |      88.81 | Ben Carter        |             30 |
+|             25 | Tom Willis          |      85.7  |               nan |       20 |                58 |      83.23 | Taine Plumtree    |             30 |
+|             30 | Jack van Poortvliet |     104.59 |                88 |       21 |                85 |     103.67 | Tomos Williams    |             25 |
+|             20 | George Ford         |     113.77 |                93 |       22 |                98 |     134.59 | Dan Biggar        |             25 |
+|             11 | Henry Slade         |      88.63 |               nan |       23 |               nan |      87.94 | Mason Grady       |             20 |
 
 
 # Player Level Predictions - Version 2
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: England by 1.1
+## Prediction with Player Minutes: England by 0.6
 
 
-England by 5.0 on a neutral field
-## Prediction without Player Minutes: England by 1.4
+England by 4.4 on a neutral field
+## Prediction without Player Minutes: England by 0.4
 
 
-England by 5.2 on a neutral pitch
+England by 4.2 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player         |   Away elo |   Away variance |   Number |   Home variance |   Home elo | Home Player       |   Home Minutes |
 |---------------:|:--------------------|-----------:|----------------:|---------:|----------------:|-----------:|:------------------|---------------:|
-|             69 | Ellis Genge         |      46.65 |           50    |        1 |              50 |      46.65 | Corey Domachowski |             50 |
+|             69 | Ellis Genge         |      51.82 |           50    |        1 |              50 |      46.65 | Corey Domachowski |             50 |
 |             55 | Jamie Blamire       |      46.65 |           50    |        2 |              50 |      46.65 | Ryan Elias        |              7 |
-|             55 | Will Stuart         |      46.65 |           50    |        3 |              50 |      46.65 | Keiron Assiratti  |             50 |
-|             46 | David Ribbans       |      73.09 |           50    |        4 |              50 |      46.65 | Dafydd Jenkins    |             60 |
+|             55 | Will Stuart         |      38.48 |           50    |        3 |              50 |      46.65 | Keiron Assiratti  |             50 |
+|             46 | David Ribbans       |      46.65 |           50    |        4 |              50 |      46.65 | Dafydd Jenkins    |             60 |
 |             80 | George Martin       |      83.37 |           50    |        5 |              50 |      46.65 | Will Rowlands     |             50 |
-|             80 | Lewis Ludlam        |      64.05 |           50    |        6 |              50 |      38.82 | Christ Tshiunza   |             50 |
+|             80 | Lewis Ludlam        |      46.65 |           50    |        6 |              50 |      38.82 | Christ Tshiunza   |             50 |
 |             80 | Tom Pearson         |      46.65 |           50    |        7 |              50 |      46.65 | Jac Morgan        |             80 |
 |             55 | Alex Dombrandt      |      46.65 |           50    |        8 |              50 |      46.65 | Aaron Wainwright  |             80 |
 |             50 | Danny Care          |      46.65 |           50    |        9 |              50 |      46.65 | Gareth Davies     |             55 |
 |             60 | Marcus Smith        |      46.65 |           50    |       10 |              50 |      46.65 | Sam Costelow      |             55 |
 |             69 | Joe Cokanasiga      |      46.65 |           50    |       11 |              50 |      46.65 | Rio Dyer          |             80 |
-|             80 | Guy Porter          |      73.69 |           50    |       12 |              50 |      46.65 | Max Llewellyn     |             80 |
-|             80 | Joe Marchant        |      46.65 |           50    |       13 |              50 |      46.65 | George North      |             80 |
+|             80 | Guy Porter          |      46.65 |           50    |       12 |              50 |      46.65 | Max Llewellyn     |             80 |
+|             80 | Joe Marchant        |      93.18 |           50    |       13 |              50 |      46.65 | George North      |             80 |
 |             80 | Max Malins          |      64.89 |           50    |       14 |              50 |      46.65 | Louis Rees-Zammit |             80 |
 |             80 | Freddie Steward     |      63.33 |           49.59 |       15 |              50 |      46.65 | Leigh Halfpenny   |             80 |
 |             25 | Theo Dan            |      50.11 |           50    |       16 |              50 |      46.65 | Elliot Dee        |             73 |

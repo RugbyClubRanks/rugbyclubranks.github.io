@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: New Zealand by 27.3
+## Prediction with Player Minutes: New Zealand by 27.2
 
 
-New Zealand by 23.3 on a neutral field
-## Prediction without Player Minutes: New Zealand by 28.7
+New Zealand by 23.2 on a neutral field
+## Prediction without Player Minutes: New Zealand by 28.4
 
 
-New Zealand by 24.7 on a neutral pitch
+New Zealand by 24.4 on a neutral pitch
 
 
 ## Scores over Time
@@ -51,29 +51,29 @@ There were 6 large changes in win probability in this match
 
 |   Away Minutes | Away Player         |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player            |   Home Minutes |
 |---------------:|:--------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------------|---------------:|
-|             56 | Angus Bell          |      83.1  |                73 |        1 |                77 |      98.29 | Tamaiti Williams       |             49 |
-|             15 | Dave Porecki        |      96.65 |                84 |        2 |                89 |     110.9  | Samisoni Taukei'aho    |             53 |
-|             57 | Pone Fa'amausili    |      85.21 |                77 |        3 |                86 |     103.3  | Nepo Laulala           |             49 |
-|             80 | Nick Frost          |      70.61 |                50 |        4 |                91 |     113.43 | Brodie Retallick       |             26 |
-|             51 | Richie Arnold       |      79.58 |                62 |        5 |                83 |     109.29 | Sam Whitelock          |             80 |
-|             80 | Tom Hooper          |      81.86 |                75 |        6 |                76 |     101.96 | Samipeni Finau         |             80 |
-|             60 | Fraser McReight     |      70    |                46 |        7 |                97 |     135.64 | Sam Cane               |             71 |
+|             56 | Angus Bell          |      83.05 |                72 |        1 |                76 |      98.35 | Tamaiti Williams       |             49 |
+|             15 | Dave Porecki        |      96.57 |                83 |        2 |                89 |     110.89 | Samisoni Taukei'aho    |             53 |
+|             57 | Pone Fa'amausili    |      85.2  |                76 |        3 |                85 |     103.28 | Nepo Laulala           |             49 |
+|             80 | Nick Frost          |      70.71 |                49 |        4 |                90 |     113.36 | Brodie Retallick       |             26 |
+|             51 | Richie Arnold       |      84.61 |                68 |        5 |                82 |     109.38 | Sam Whitelock          |             80 |
+|             80 | Tom Hooper          |      81.56 |                74 |        6 |                75 |     101.9  | Samipeni Finau         |             80 |
+|             60 | Fraser McReight     |      69.91 |                46 |        7 |                98 |     135.65 | Sam Cane               |             71 |
 |             80 | Rob Valetini        |      93.5  |                86 |        8 |                93 |     120.7  | Ardie Savea            |             80 |
-|             65 | Tate McDermott      |     101.74 |                91 |        9 |                72 |      99.13 | Finlay Christie        |             53 |
-|             65 | Carter Gordon       |      87.51 |                75 |       10 |                56 |      91.77 | Damian McKenzie        |             49 |
-|             80 | Marika Koroibete    |      69.91 |                49 |       11 |                32 |      80.39 | Leicester Fainga'anuku |             80 |
-|             76 | Samu Kerevi         |     108.34 |                95 |       12 |                85 |     113.38 | Anton Lienert-Brown    |             80 |
-|             80 | Jordan Petaia       |     110.78 |                96 |       13 |                87 |     109.76 | Braydon Ennor          |             40 |
-|             80 | Mark Nawaqanitawase |      91.27 |                84 |       14 |                53 |      91.31 | Shaun Stevenson        |             80 |
-|             80 | Andrew Kellaway     |     107.84 |                92 |       15 |                90 |     123.3  | Will Jordan            |             80 |
-|             65 | Matt Faessler       |      80.76 |                54 |       16 |                97 |     125.58 | Dane Coles             |             27 |
-|             24 | James Slipper       |     131.64 |                99 |       17 |                89 |      99.55 | Ofa Tu'ungafasi        |             31 |
-|             23 | Zane Nonggorr       |      88.46 |                65 |       18 |               nan |     102.27 | Fletcher Newell        |             31 |
-|             29 | Will Skelton        |     116.3  |                94 |       19 |                31 |      73.49 | Tupou Vaa'i            |             54 |
-|             20 | Rob Leota           |      74.4  |                38 |       20 |                98 |     127.72 | Luke Jacobson          |              9 |
-|             15 | Nic White           |     111.28 |                90 |       21 |                70 |      91.18 | Aaron Smith            |             27 |
-|             15 | Quade Cooper        |     123.37 |                95 |       22 |                99 |     140.94 | Richie Mo'unga         |             31 |
-|              4 | Izaia Perese        |      76.8  |                41 |       23 |                91 |     107.35 | Dallas McLeod          |             40 |
+|             65 | Tate McDermott      |     101.71 |                91 |        9 |                72 |      99.13 | Finlay Christie        |             53 |
+|             65 | Carter Gordon       |      87.38 |                72 |       10 |                53 |      91.83 | Damian McKenzie        |             49 |
+|             80 | Marika Koroibete    |      69.97 |                49 |       11 |                33 |      80.44 | Leicester Fainga'anuku |             80 |
+|             76 | Samu Kerevi         |     108.29 |                95 |       12 |                84 |     113.37 | Anton Lienert-Brown    |             80 |
+|             80 | Jordan Petaia       |     110.76 |                96 |       13 |                86 |     109.71 | Braydon Ennor          |             40 |
+|             80 | Mark Nawaqanitawase |      91.12 |                83 |       14 |                52 |      91.3  | Shaun Stevenson        |             80 |
+|             80 | Andrew Kellaway     |     107.82 |                93 |       15 |                91 |     123.26 | Will Jordan            |             80 |
+|             65 | Matt Faessler       |      80.73 |                53 |       16 |                97 |     125.6  | Dane Coles             |             27 |
+|             24 | James Slipper       |     131.64 |                99 |       17 |                89 |      99.58 | Ofa Tu'ungafasi        |             31 |
+|             23 | Zane Nonggorr       |      88.42 |                63 |       18 |               nan |     102.29 | Fletcher Newell        |             31 |
+|             29 | Will Skelton        |     114    |                93 |       19 |                32 |      73.48 | Tupou Vaa'i            |             54 |
+|             20 | Rob Leota           |      74.36 |                39 |       20 |                98 |     127.73 | Luke Jacobson          |              9 |
+|             15 | Nic White           |     111.26 |                91 |       21 |                69 |      91.17 | Aaron Smith            |             27 |
+|             15 | Quade Cooper        |     123.34 |                95 |       22 |                99 |     140.94 | Richie Mo'unga         |             31 |
+|              4 | Izaia Perese        |      76.85 |                41 |       23 |                80 |     107.7  | Dallas McLeod          |             40 |
 
 
 # Player Level Predictions - Version 2
