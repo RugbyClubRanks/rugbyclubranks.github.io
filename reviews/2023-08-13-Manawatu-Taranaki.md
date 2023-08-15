@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Taranaki by 10.9
+## Prediction with Player Minutes: Taranaki by 11.2
 
 
-Taranaki by 14.9 on a neutral field
-## Prediction without Player Minutes: Taranaki by 11.1
+Taranaki by 15.2 on a neutral field
+## Prediction without Player Minutes: Taranaki by 11.2
 
 
-Taranaki by 15.1 on a neutral pitch
+Taranaki by 15.2 on a neutral pitch
 
 
 ## Scores over Time
@@ -51,29 +51,29 @@ There were 2 large changes in win probability in this match
 
 |   Away Minutes | Away Player                   |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player           |   Home Minutes |
 |---------------:|:------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------|---------------:|
-|             46 | Jared Proffit                 |      79.32 |                44 |        1 |                 4 |      46.68 | Sean Bradley Paranihi |             73 |
-|             80 | Ricky Riccitelli              |      86.32 |                63 |        2 |                38 |      71.2  | Vernon Bason          |             46 |
-|             40 | Reuben O'Neill                |      75.42 |                36 |        3 |                29 |      68.48 | Feleti Sae-Ta'ufo'ou  |             46 |
-|             54 | Jesse Parete                  |      71.62 |                28 |        4 |                41 |      72.69 | Ofa Tauatevalu        |             80 |
-|             54 | Hemopo Cunningham             |      84.86 |                52 |        5 |                30 |      67.59 | Stan van den Hoven    |             60 |
-|             54 | Kaylum Boshier                |      82.67 |                52 |        6 |                50 |      74.96 | Johannes Momsen       |             80 |
-|             80 | Arese Poliko                  |      72.7  |                30 |        7 |                70 |      85.68 | Slade McDowall        |             73 |
-|             80 | Pita Gus Sowakula             |      98.11 |                79 |        8 |                27 |      64.7  | Brayden Iose          |             80 |
-|             51 | Logan Crowley                 |      78.34 |                42 |        9 |                 9 |      53.19 | Luke Campbell         |             52 |
-|             80 | Jayson Potroz                 |      92    |                58 |       10 |                76 |      97.39 | Brett Cameron         |             63 |
-|             80 | Kini Naholo                   |     116.83 |                93 |       11 |                89 |     105.32 | Tima Fainga'anuku     |             80 |
-|             57 | Teihorangi Walden             |      61.77 |                15 |       12 |                 9 |      51.02 | Jason Emery           |             57 |
-|             80 | Meihana Grindlay              |      82.51 |                47 |       13 |                41 |      72.24 | Kyle Brown            |             80 |
-|             80 | Jacob Ratumaitavuki-Kneepkens |      83.48 |                49 |       14 |                35 |      68.2  | Taniela Filimone      |             80 |
-|             52 | Matty McKenzie                |      73.29 |                30 |       15 |                50 |      77.98 | Drew Wild             |             80 |
-|             34 | Mitch O'Neill                 |      72.49 |               nan |       16 |               nan |      66.58 | Flyn Yates            |             34 |
-|             40 | Kyle Stewart                  |      71.38 |                23 |       17 |               nan |      67.43 | Leif Schwenke         |             34 |
-|             26 | Millenium Sanerivi            |      74.34 |                31 |       18 |               nan |      67.77 | Terrell Peita         |             20 |
-|             26 | Tom Florence                  |      59.33 |                14 |       19 |               nan |      66.37 | Jordi Viljoen         |             28 |
-|             26 | Bradley Slater                |      77.52 |                43 |       20 |                37 |      72.47 | Nehe Milner-Skudder   |             23 |
-|             29 | Adam Lennox                   |      75.17 |               nan |       21 |               nan |      67.11 | Isaiah Ravula         |             17 |
-|             23 | Josh Jacomb                   |      76.56 |                37 |       22 |               nan |      67.27 | Julian Goerke         |              7 |
-|             28 | Vereniki Tikoisolomone        |      75.58 |                41 |       23 |                27 |      68.96 | Joseph Gavigan        |              7 |
+|             46 | Jared Proffit                 |      79.02 |                43 |        1 |                 5 |      47.28 | Sean Bradley Paranihi |             73 |
+|             80 | Ricky Riccitelli              |      86.34 |                63 |        2 |                40 |      72.11 | Vernon Bason          |             46 |
+|             40 | Reuben O'Neill                |      75.39 |                36 |        3 |                30 |      68.71 | Feleti Sae-Ta'ufo'ou  |             46 |
+|             54 | Jesse Parete                  |      70.07 |                25 |        4 |                41 |      72.67 | Ofa Tauatevalu        |             80 |
+|             54 | Hemopo Cunningham             |      83.75 |                51 |        5 |                30 |      67.69 | Stan van den Hoven    |             60 |
+|             54 | Kaylum Boshier                |      82.51 |                52 |        6 |                50 |      74.71 | Johannes Momsen       |             80 |
+|             80 | Arese Poliko                  |      73.43 |                31 |        7 |                71 |      86.24 | Slade McDowall        |             73 |
+|             80 | Pita Gus Sowakula             |      98.15 |                80 |        8 |                26 |      64.42 | Brayden Iose          |             80 |
+|             51 | Logan Crowley                 |      80.25 |                46 |        9 |                10 |      53.76 | Luke Campbell         |             52 |
+|             80 | Jayson Potroz                 |      93.77 |                62 |       10 |                76 |      97.3  | Brett Cameron         |             63 |
+|             80 | Kini Naholo                   |     116.79 |                93 |       11 |                89 |     105.23 | Tima Fainga'anuku     |             80 |
+|             57 | Teihorangi Walden             |      62.84 |                15 |       12 |                 8 |      50.46 | Jason Emery           |             57 |
+|             80 | Meihana Grindlay              |      83.32 |                49 |       13 |                41 |      72.01 | Kyle Brown            |             80 |
+|             80 | Jacob Ratumaitavuki-Kneepkens |      82.61 |                47 |       14 |                36 |      68.59 | Taniela Filimone      |             80 |
+|             52 | Matty McKenzie                |      74.09 |                32 |       15 |                49 |      77.83 | Drew Wild             |             80 |
+|             34 | Mitch O'Neill                 |      72.55 |               nan |       16 |               nan |      66.91 | Flyn Yates            |             34 |
+|             40 | Kyle Stewart                  |      71.25 |                23 |       17 |               nan |      67.52 | Leif Schwenke         |             34 |
+|             26 | Millenium Sanerivi            |      75.04 |                31 |       18 |               nan |      67.87 | Terrell Peita         |             20 |
+|             26 | Tom Florence                  |      59.16 |                13 |       19 |               nan |      66.72 | Jordi Viljoen         |             28 |
+|             26 | Bradley Slater                |      77.47 |                43 |       20 |                35 |      71.72 | Nehe Milner-Skudder   |             23 |
+|             29 | Adam Lennox                   |      75.13 |               nan |       21 |               nan |      67.2  | Isaiah Ravula         |             17 |
+|             23 | Josh Jacomb                   |      76.91 |                38 |       22 |               nan |      67.36 | Julian Goerke         |              7 |
+|             28 | Vereniki Tikoisolomone        |      76.3  |                42 |       23 |                27 |      69.22 | Joseph Gavigan        |              7 |
 
 
 # Player Level Predictions - Version 2

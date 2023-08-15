@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Waikato by 3.0
+## Prediction with Player Minutes: Waikato by 2.9
 
 
-Waikato by 7.0 on a neutral field
-## Prediction without Player Minutes: Waikato by 5.3
+Waikato by 6.9 on a neutral field
+## Prediction without Player Minutes: Waikato by 5.2
 
 
-Waikato by 9.3 on a neutral pitch
+Waikato by 9.2 on a neutral pitch
 
 
 ## Scores over Time
@@ -51,29 +51,29 @@ There were 10 large changes in win probability in this match
 
 |   Away Minutes | Away Player                  |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:-----------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
-|             51 | Colin Ayden Johnstone        |      74.47 |                45 |        1 |                17 |      71.03 | Joe Walsh            |             61 |
-|             68 | Pita Alemania Jr Anae-Ah Sue |      76.82 |                48 |        2 |                30 |      70.8  | Jacob Payne          |             26 |
-|             68 | George Dyer                  |      79.19 |                50 |        3 |                 6 |      61.17 | Morgan Mitchell      |             61 |
-|             80 | James Tucker                 |      91.09 |                68 |        4 |                17 |      69.81 | Danny Drake          |             66 |
-|             80 | Hamilton Burr                |      75.1  |                38 |        5 |                17 |      71.86 | Josh Bekhuis         |             80 |
-|             51 | Malachi Wrampling-Alec       |      75.86 |                41 |        6 |                14 |      69.65 | Blair Ryall          |             80 |
-|             63 | Mitchell Jacobson            |      80.02 |                60 |        7 |                17 |      70.37 | Hayden Michaels      |             63 |
-|             80 | Simon Parker                 |      77.87 |                45 |        8 |                17 |      69.99 | Dylan Nel            |             80 |
-|             56 | Cortez Lee Ratima            |      74.67 |                40 |        9 |                18 |      70.17 | Jay Renton           |             80 |
-|             40 | Josh Ioane                   |      96.03 |                74 |       10 |                30 |      75.32 | Greg Dyer            |             56 |
-|             80 | Daniel Sinkinson             |      58.04 |                16 |       11 |                19 |      72.55 | Michael Manson       |             80 |
-|             44 | Mason Tupaea                 |      76.15 |                46 |       12 |                23 |      74.72 | Matt Whaanga         |             63 |
-|             80 | Gideon Wrampling             |      73.94 |                37 |       13 |                37 |      85.44 | Scott Gregory        |             80 |
-|             80 | Bailyn Sullivan              |      74.11 |                38 |       14 |                29 |      72.96 | Viliami Fine         |             80 |
-|             80 | Tepaea Cook-Savage           |      74.88 |                38 |       15 |                23 |      71.56 | Rory van Vugt        |             80 |
-|             29 | Ollie Norris                 |      93.41 |                77 |       16 |                19 |      70.58 | Jack Taylor          |             54 |
-|             29 | Patrick McCurran             |      76.47 |                39 |       17 |               nan |      71.29 | Jonah Aoina          |             19 |
-|             17 | Tai Cribb                    |      75.34 |               nan |       18 |               nan |      73.95 | Quinn Harrison-Jones |             19 |
-|             24 | Xavier Roe                   |      77.21 |               nan |       19 |               nan |      95.81 | Shneil Singh         |             14 |
-|             40 | Taha Kemara                  |      75.59 |                32 |       20 |               nan |      74.57 | Leroy Ferguson       |             17 |
-|             36 | Tana Tuhakaraina             |      77.64 |               nan |       21 |                20 |      72.19 | Marty Banks          |             24 |
-|             12 | Solomone Tukuafu             |      78.12 |               nan |       22 |                25 |      73.42 | Noah Foster          |             17 |
-|             12 | Caleb Ralph                  |      74.29 |               nan |       23 |               nan |     nan    | nan                  |            nan |
+|             51 | Colin Ayden Johnstone        |      74.65 |                45 |        1 |                18 |      71.47 | Joe Walsh            |             61 |
+|             68 | Pita Alemania Jr Anae-Ah Sue |      77.39 |                49 |        2 |                34 |      73.15 | Jacob Payne          |             26 |
+|             68 | George Dyer                  |      79.2  |                50 |        3 |                 7 |      61.98 | Morgan Mitchell      |             61 |
+|             80 | James Tucker                 |      91.09 |                68 |        4 |                18 |      70.55 | Danny Drake          |             66 |
+|             80 | Hamilton Burr                |      75.52 |                40 |        5 |                14 |      69.82 | Josh Bekhuis         |             80 |
+|             51 | Malachi Wrampling-Alec       |      76.04 |                42 |        6 |                14 |      70.17 | Blair Ryall          |             80 |
+|             63 | Mitchell Jacobson            |      81.39 |                63 |        7 |                17 |      70.98 | Hayden Michaels      |             63 |
+|             80 | Simon Parker                 |      77.87 |                45 |        8 |                18 |      70.76 | Dylan Nel            |             80 |
+|             56 | Cortez Lee Ratima            |      74.85 |                41 |        9 |                20 |      72.05 | Jay Renton           |             80 |
+|             40 | Josh Ioane                   |      96.03 |                74 |       10 |                24 |      71.22 | Greg Dyer            |             56 |
+|             80 | Daniel Sinkinson             |      58.05 |                16 |       11 |                22 |      74.14 | Michael Manson       |             80 |
+|             44 | Mason Tupaea                 |      76.33 |                48 |       12 |                23 |      74.72 | Matt Whaanga         |             63 |
+|             80 | Gideon Wrampling             |      75.28 |                41 |       13 |                37 |      85.44 | Scott Gregory        |             80 |
+|             80 | Bailyn Sullivan              |      74.29 |                39 |       14 |                28 |      72.38 | Viliami Fine         |             80 |
+|             80 | Tepaea Cook-Savage           |      75.06 |                38 |       15 |                29 |      75.51 | Rory van Vugt        |             80 |
+|             29 | Ollie Norris                 |      93.41 |                77 |       16 |                18 |      70.35 | Jack Taylor          |             54 |
+|             29 | Patrick McCurran             |      77    |                40 |       17 |               nan |      69.99 | Jonah Aoina          |             19 |
+|             17 | Tai Cribb                    |      74.12 |               nan |       18 |               nan |      74.76 | Quinn Harrison-Jones |             19 |
+|             24 | Xavier Roe                   |      76.65 |               nan |       19 |               nan |      95.81 | Shneil Singh         |             14 |
+|             40 | Taha Kemara                  |      78.31 |                37 |       20 |               nan |      71.75 | Leroy Ferguson       |             17 |
+|             36 | Tana Tuhakaraina             |      75.77 |               nan |       21 |                23 |      73.61 | Marty Banks          |             24 |
+|             12 | Solomone Tukuafu             |      77.82 |               nan |       22 |                24 |      72.74 | Noah Foster          |             17 |
+|             12 | Caleb Ralph                  |      74.47 |               nan |       23 |               nan |     nan    | nan                  |            nan |
 
 
 # Player Level Predictions - Version 2

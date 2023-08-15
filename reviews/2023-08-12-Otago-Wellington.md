@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Otago by 1.1
+## Prediction with Player Minutes: Otago by 1.3
 
 
-Wellington by 2.9 on a neutral field
-## Prediction without Player Minutes: Otago by 0.8
+Wellington by 2.7 on a neutral field
+## Prediction without Player Minutes: Otago by 1.1
 
 
-Wellington by 3.2 on a neutral pitch
+Wellington by 2.9 on a neutral pitch
 
 
 ## Scores over Time
@@ -47,33 +47,33 @@ Wellington by 3.2 on a neutral pitch
 
 ![In Match Predictions](plots/recap_prob_2023-08-12-Otago-Wellington.png)
 
-There were 5 large changes in win probability in this match
+There were 6 large changes in win probability in this match
 
 |   Away Minutes | Away Player                   |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                |   Home Minutes |
 |---------------:|:------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------------|---------------:|
-|             53 | Xavier Numia                  |      93.79 |                86 |        1 |                34 |      77.22 | Rohan Wingham              |             51 |
-|             48 | James O'Reilly                |      79.54 |                60 |        2 |                31 |      73.69 | Henry Bell                 |             44 |
-|             53 | Siale Lauaki                  |      82.22 |                65 |        3 |                32 |      76.64 | Saula Ma'u                 |             51 |
-|             80 | Caleb Delany                  |      87.56 |                75 |        4 |                38 |      80.13 | Josh Dickson               |             53 |
-|             53 | Hugo Plummer                  |      79.32 |                57 |        5 |                32 |      78.71 | Will Tucker                |             80 |
-|             80 | Brad Shields                  |      71.7  |                51 |        6 |                27 |      75.22 | Sam Fischli                |             80 |
-|             80 | Du'Plessis Kirifi             |      82.27 |                71 |        7 |                46 |      82.08 | Sean Withy                 |             55 |
-|             53 | Peter Lakai                   |      79.35 |                54 |        8 |                61 |      94.7  | Christian Lio-Willie       |             80 |
-|             56 | Kemara Henare Hauiti-Parapara |      79.35 |                57 |        9 |                37 |      77.65 | James Arscott              |             44 |
-|             80 | Aidan Morgan                  |      77.79 |                53 |       10 |                47 |      89.82 | Sam Gilbert                |             80 |
-|             80 | Pepesana Patafilo             |      81.83 |                66 |       11 |                70 |      98.7  | Jona Nareki                |             80 |
-|             48 | Peter Umaga-Jensen            |      83.63 |                64 |       12 |                26 |      74.97 | Thomas Carlos Umaga-Jensen |             80 |
-|             80 | Billy Proctor                 |     107.93 |                90 |       13 |                37 |      79.66 | Jake Te Hiwi               |             61 |
-|             56 | Losilosivale Filipo           |      80.03 |                59 |       14 |                38 |      80.39 | Josh Whaanga               |             80 |
-|             80 | Ruben Love                    |      78.83 |                60 |       15 |                38 |      80.98 | Finn Hurley                |             57 |
-|             32 | Josh Southall                 |      76.95 |                45 |       16 |                67 |      88.76 | Jermaine Ainsley           |             29 |
-|             27 | Cameron Orr                   |      81.39 |               nan |       17 |                66 |      87.69 | Abraham Pole               |             29 |
-|             27 | PJ Sheck                      |      83.5  |                58 |       18 |               nan |      74.22 | Ricky Jackson              |             36 |
-|             27 | Akira Ieremia                 |      81.98 |               nan |       19 |                47 |      79.55 | Fabian Holland             |             27 |
-|             27 | Dominic Ropeti                |      81.32 |               nan |       20 |               nan |      75    | Harry Taylor               |             25 |
-|             24 | Kyle Preston                  |      83.54 |               nan |       21 |                18 |      63.33 | Kieran McClea              |             36 |
-|             24 | Connor Garden-Bachop          |      99.49 |                80 |       22 |               nan |      76.41 | Jack Leslie                |             19 |
-|             32 | Riley Higgins                 |      79.17 |               nan |       23 |               nan |      76.24 | Cameron Millar             |             23 |
+|             53 | Xavier Numia                  |      94.01 |                87 |        1 |                38 |      79.2  | Rohan Wingham              |             51 |
+|             48 | James O'Reilly                |      79.18 |                59 |        2 |                31 |      74    | Henry Bell                 |             44 |
+|             53 | Siale Lauaki                  |      80.76 |                62 |        3 |                32 |      76.76 | Saula Ma'u                 |             51 |
+|             80 | Caleb Delany                  |      87.88 |                76 |        4 |                38 |      80.23 | Josh Dickson               |             53 |
+|             53 | Hugo Plummer                  |      79.76 |                58 |        5 |                32 |      78.97 | Will Tucker                |             80 |
+|             80 | Brad Shields                  |      72.01 |                51 |        6 |                26 |      74.7  | Sam Fischli                |             80 |
+|             80 | Du'Plessis Kirifi             |      82.57 |                72 |        7 |                45 |      82.03 | Sean Withy                 |             55 |
+|             53 | Peter Lakai                   |      79.55 |                55 |        8 |                61 |      94.68 | Christian Lio-Willie       |             80 |
+|             56 | Kemara Henare Hauiti-Parapara |      78.27 |                56 |        9 |                37 |      77.77 | James Arscott              |             44 |
+|             80 | Aidan Morgan                  |      78.1  |                53 |       10 |                46 |      89.77 | Sam Gilbert                |             80 |
+|             80 | Pepesana Patafilo             |      81.14 |                65 |       11 |                69 |      98.66 | Jona Nareki                |             80 |
+|             48 | Peter Umaga-Jensen            |      83.94 |                64 |       12 |                26 |      74.76 | Thomas Carlos Umaga-Jensen |             80 |
+|             80 | Billy Proctor                 |     108.03 |                91 |       13 |                37 |      79.76 | Jake Te Hiwi               |             61 |
+|             56 | Losilosivale Filipo           |      79.14 |                57 |       14 |                37 |      80.49 | Josh Whaanga               |             80 |
+|             80 | Ruben Love                    |      76.48 |                54 |       15 |                36 |      79.54 | Finn Hurley                |             57 |
+|             32 | Josh Southall                 |      77.95 |                47 |       16 |                67 |      88.75 | Jermaine Ainsley           |             29 |
+|             27 | Cameron Orr                   |      81.87 |               nan |       17 |                66 |      87.69 | Abraham Pole               |             29 |
+|             27 | PJ Sheck                      |      82.65 |                55 |       18 |               nan |      74    | Ricky Jackson              |             36 |
+|             27 | Akira Ieremia                 |      85.2  |               nan |       19 |                47 |      79.32 | Fabian Holland             |             27 |
+|             27 | Dominic Ropeti                |      81.63 |               nan |       20 |               nan |      75.13 | Harry Taylor               |             25 |
+|             24 | Kyle Preston                  |      83.85 |               nan |       21 |                19 |      64.72 | Kieran McClea              |             36 |
+|             24 | Connor Garden-Bachop          |      99.49 |                80 |       22 |               nan |      76.49 | Jack Leslie                |             19 |
+|             32 | Riley Higgins                 |      79.36 |               nan |       23 |               nan |      76.32 | Cameron Millar             |             23 |
 
 
 # Player Level Predictions - Version 2

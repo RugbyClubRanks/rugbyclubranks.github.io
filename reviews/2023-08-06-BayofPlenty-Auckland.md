@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Bay of Plenty by 9.6
+## Prediction with Player Minutes: Bay of Plenty by 10.8
 
 
-Bay of Plenty by 5.6 on a neutral field
-## Prediction without Player Minutes: Bay of Plenty by 13.7
+Bay of Plenty by 6.8 on a neutral field
+## Prediction without Player Minutes: Bay of Plenty by 14.9
 
 
-Bay of Plenty by 9.7 on a neutral pitch
+Bay of Plenty by 10.9 on a neutral pitch
 
 
 ## Scores over Time
@@ -51,28 +51,28 @@ There were 13 large changes in win probability in this match
 
 |   Away Minutes | Away Player                 |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player            |   Home Minutes |
 |---------------:|:----------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------------|---------------:|
-|             62 | James Lay                   |      75.94 |                53 |        1 |                65 |      87.79 | Aidan Ross             |             62 |
-|             47 | Leni Apisai                 |      78.07 |                56 |        2 |                46 |      78.99 | Kurt Eklund            |             69 |
-|             80 | Angus Ta'avao-Matau         |      79.57 |                53 |        3 |                45 |      78.98 | John Afoa              |             54 |
-|             80 | Hamish Dalzell              |      51.95 |                13 |        4 |                46 |      81.5  | Mana'aki Selby-Rickit  |             80 |
-|             80 | Josh Beehre                 |      76.43 |                41 |        5 |                43 |      80.04 | Justin Sangster        |             80 |
-|             80 | Adrian Choat                |      89.17 |                72 |        6 |                88 |     105.15 | Naitoa Ah Kuoi         |             80 |
-|             80 | Blake Gibson                |      75.31 |                41 |        7 |                45 |      79.38 | Veveni Lasaqa          |             68 |
-|             56 | Vaiolini Ekuasi             |      78.44 |                51 |        8 |                45 |      80.85 | Nikora Broughton       |             80 |
-|             52 | Taufa Funaki                |      79    |                47 |        9 |                78 |      97.43 | Te Toiroa Tahuriorangi |             52 |
-|             80 | Zarn Sullivan               |      89.1  |                59 |       10 |                43 |      81.16 | Lucas Cashmore         |             68 |
-|             80 | Salesi Tuivuna Mauri Rayasi |      77.33 |                57 |       11 |                45 |      80.29 | Ngarohi McGarvey-Black |             80 |
-|             80 | Harry Plummer               |     100.14 |                79 |       12 |                51 |      83.27 | Lalomilo Lalomilo      |             80 |
-|             80 | Bryce Heem                  |      93.73 |                71 |       13 |                50 |      82.75 | Melani Nanai           |             80 |
-|             80 | Caleb Tangitau              |      75.51 |                47 |       14 |                48 |      81.87 | Leroy Carter           |             80 |
-|             77 | Corey Evans                 |      77    |                54 |       15 |                35 |      79.18 | Cole Forbes            |             69 |
-|             33 | Soane Vikena                |      78.51 |                43 |       16 |               nan |      82.29 | Nathan Vella           |             11 |
-|             18 | Josh Fusitua                |      76.71 |                31 |       17 |               nan |      79.81 | Benet Kumeroa          |             18 |
-|             24 | Che Clark                   |      75.72 |               nan |       18 |               nan |      87.16 | Alex Johnston          |             26 |
-|             28 | Kalani Thomas               |      77.68 |               nan |       19 |                61 |      86.42 | Semisi Paea            |             12 |
-|              3 | Jock McKenzie               |      76.18 |               nan |       20 |                33 |      70.6  | Richard Judd           |             28 |
-|            nan | nan                         |     nan    |               nan |       21 |                52 |      79.59 | Wharenui Hawera        |             12 |
-|            nan | nan                         |     nan    |               nan |       22 |               nan |      80.56 | Seamus Bardoul         |             11 |
+|             62 | James Lay                   |      75.73 |                53 |        1 |                65 |      87.79 | Aidan Ross             |             62 |
+|             47 | Leni Apisai                 |      78.08 |                56 |        2 |                57 |      84.31 | Kurt Eklund            |             69 |
+|             80 | Angus Ta'avao-Matau         |      78.52 |                51 |        3 |                48 |      80.88 | John Afoa              |             54 |
+|             80 | Hamish Dalzell              |      52.03 |                14 |        4 |                47 |      82.18 | Mana'aki Selby-Rickit  |             80 |
+|             80 | Josh Beehre                 |      76.19 |                40 |        5 |                43 |      80.37 | Justin Sangster        |             80 |
+|             80 | Adrian Choat                |      89.17 |                72 |        6 |                87 |     105.15 | Naitoa Ah Kuoi         |             80 |
+|             80 | Blake Gibson                |      77.34 |                45 |        7 |                47 |      80.58 | Veveni Lasaqa          |             68 |
+|             56 | Vaiolini Ekuasi             |      78.44 |                52 |        8 |                47 |      82.9  | Nikora Broughton       |             80 |
+|             52 | Taufa Funaki                |      79.58 |                48 |        9 |                77 |      97.16 | Te Toiroa Tahuriorangi |             52 |
+|             80 | Zarn Sullivan               |      89.09 |                59 |       10 |                44 |      82.52 | Lucas Cashmore         |             68 |
+|             80 | Salesi Tuivuna Mauri Rayasi |      77.69 |                58 |       11 |                50 |      83.32 | Ngarohi McGarvey-Black |             80 |
+|             80 | Harry Plummer               |     100.13 |                80 |       12 |                47 |      81.57 | Lalomilo Lalomilo      |             80 |
+|             80 | Bryce Heem                  |      93.73 |                72 |       13 |                44 |      79.98 | Melani Nanai           |             80 |
+|             80 | Caleb Tangitau              |      75.52 |                47 |       14 |                47 |      81.86 | Leroy Carter           |             80 |
+|             77 | Corey Evans                 |      76.72 |                53 |       15 |                36 |      80.17 | Cole Forbes            |             69 |
+|             33 | Soane Vikena                |      79.01 |                45 |       16 |               nan |      81.3  | Nathan Vella           |             11 |
+|             18 | Josh Fusitua                |      76.45 |                31 |       17 |               nan |      81.05 | Benet Kumeroa          |             18 |
+|             24 | Che Clark                   |      75.32 |               nan |       18 |               nan |      87.16 | Alex Johnston          |             26 |
+|             28 | Kalani Thomas               |      77.02 |               nan |       19 |                65 |      89.31 | Semisi Paea            |             12 |
+|              3 | Jock McKenzie               |      75.95 |               nan |       20 |                38 |      73.77 | Richard Judd           |             28 |
+|            nan | nan                         |     nan    |               nan |       21 |                54 |      80.81 | Wharenui Hawera        |             12 |
+|            nan | nan                         |     nan    |               nan |       22 |               nan |      83.78 | Seamus Bardoul         |             11 |
 
 
 # Player Level Predictions - Version 2

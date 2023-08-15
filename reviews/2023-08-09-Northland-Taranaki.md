@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Taranaki by 7.6
+## Prediction with Player Minutes: Taranaki by 7.1
 
 
-Taranaki by 11.6 on a neutral field
-## Prediction without Player Minutes: Taranaki by 8.6
+Taranaki by 11.1 on a neutral field
+## Prediction without Player Minutes: Taranaki by 8.1
 
 
-Taranaki by 12.6 on a neutral pitch
+Taranaki by 12.1 on a neutral pitch
 
 
 ## Scores over Time
@@ -51,29 +51,29 @@ There were 3 large changes in win probability in this match
 
 |   Away Minutes | Away Player                   |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player        |   Home Minutes |
 |---------------:|:------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------|---------------:|
-|             58 | Jared Proffit                 |      75.85 |                44 |        1 |                 2 |      46.56 | Jarred Adams       |             53 |
-|             58 | Ricky Riccitelli              |      85.3  |                63 |        2 |                17 |      64.33 | Jordan Olsen       |             46 |
-|             58 | Reuben O'Neill                |      71.94 |                36 |        3 |                27 |      72.24 | Chris Apoua        |             53 |
-|             58 | Jesse Parete                  |      68.15 |                28 |        4 |                22 |      67.93 | Sam Weir Caird     |             60 |
-|             80 | Hemopo Cunningham             |      80.07 |                52 |        5 |                 3 |      41.25 | Liam Hallam-Eames  |             80 |
-|             70 | Kaylum Boshier                |      78.48 |                52 |        6 |                28 |      66.04 | Rob Rush           |             70 |
-|             80 | Tom Florence                  |      54.55 |                14 |        7 |                19 |      66.48 | Jonah Mau'u        |             69 |
-|             80 | Pita Gus Sowakula             |      96.7  |                79 |        8 |                28 |      66.56 | Matt Matich        |             80 |
-|             54 | Logan Crowley                 |      75.11 |                42 |        9 |                30 |      66.99 | Lisati Milo-Harris |             61 |
-|             80 | Josh Jacomb                   |      71.77 |                37 |       10 |                19 |      68.87 | Daniel Hawkins     |             80 |
-|             80 | Vereniki Tikoisolomone        |      70.79 |                41 |       11 |                30 |      67.53 | Heremaia Murray    |             80 |
-|             54 | Teihorangi Walden             |      58.54 |                15 |       12 |                82 |     102.97 | Jack Goodhue       |             80 |
-|             80 | Meihana Grindlay              |      77.72 |                47 |       13 |                74 |      94.36 | Tamati Tua         |             80 |
-|             80 | Jacob Ratumaitavuki-Kneepkens |      78.69 |                49 |       14 |                25 |      64.53 | Brady Rush         |             80 |
-|             61 | Stephen Perofeta              |     106.77 |                87 |       15 |                15 |      64.49 | Kobie Scutt        |             53 |
-|             26 | Matty McKenzie                |      71.73 |                30 |       16 |                30 |      66.35 | Matt Moulds        |             34 |
-|             26 | Adam Lennox                   |      73.62 |               nan |       17 |                23 |      64.32 | Rob Cobb           |             27 |
-|             22 | Kyle Stewart                  |      70.06 |                23 |       18 |                30 |      67.34 | Rivez Reihana      |             27 |
-|             22 | Bradley Slater                |      76.21 |                43 |       19 |                32 |      69.36 | Remsy Lemisio      |             27 |
-|             22 | Mitch O'Neill                 |      71.17 |               nan |       20 |                25 |      64.18 | Sean Sweetman      |             20 |
-|             22 | Millenium Sanerivi            |      73.02 |                31 |       21 |               nan |      64.03 | Trent Hape         |             19 |
-|             19 | Willem Ratu                   |      71.61 |               nan |       22 |                26 |      64.66 | Sam McNamara       |             11 |
-|             10 | Arese Poliko                  |      72.1  |                30 |       23 |               nan |      65.47 | Rene Ranger        |             10 |
+|             58 | Jared Proffit                 |      75.45 |                43 |        1 |                 2 |      46.76 | Jarred Adams       |             53 |
+|             58 | Ricky Riccitelli              |      85.29 |                63 |        2 |                17 |      64.82 | Jordan Olsen       |             46 |
+|             58 | Reuben O'Neill                |      71.82 |                36 |        3 |                27 |      72.18 | Chris Apoua        |             53 |
+|             58 | Jesse Parete                  |      66.5  |                25 |        4 |                19 |      66.43 | Sam Weir Caird     |             60 |
+|             80 | Hemopo Cunningham             |      78.83 |                51 |        5 |                 3 |      41.73 | Liam Hallam-Eames  |             80 |
+|             70 | Kaylum Boshier                |      78.21 |                52 |        6 |                32 |      68.52 | Rob Rush           |             70 |
+|             80 | Tom Florence                  |      54.24 |                13 |        7 |                19 |      66.86 | Jonah Mau'u        |             69 |
+|             80 | Pita Gus Sowakula             |      96.71 |                80 |        8 |                25 |      65.53 | Matt Matich        |             80 |
+|             54 | Logan Crowley                 |      76.94 |                46 |        9 |                30 |      67.37 | Lisati Milo-Harris |             61 |
+|             80 | Josh Jacomb                   |      71.99 |                38 |       10 |                19 |      69.33 | Daniel Hawkins     |             80 |
+|             80 | Vereniki Tikoisolomone        |      71.39 |                42 |       11 |                30 |      68.07 | Heremaia Murray    |             80 |
+|             54 | Teihorangi Walden             |      59.52 |                15 |       12 |                82 |     102.93 | Jack Goodhue       |             80 |
+|             80 | Meihana Grindlay              |      78.4  |                49 |       13 |                74 |      94.27 | Tamati Tua         |             80 |
+|             80 | Jacob Ratumaitavuki-Kneepkens |      77.69 |                47 |       14 |                29 |      67.32 | Brady Rush         |             80 |
+|             61 | Stephen Perofeta              |     106.75 |                87 |       15 |                15 |      64.65 | Kobie Scutt        |             53 |
+|             26 | Matty McKenzie                |      72.49 |                32 |       16 |                30 |      66.52 | Matt Moulds        |             34 |
+|             26 | Adam Lennox                   |      73.53 |               nan |       17 |                25 |      65.24 | Rob Cobb           |             27 |
+|             22 | Kyle Stewart                  |      69.89 |                23 |       18 |                27 |      65.16 | Rivez Reihana      |             27 |
+|             22 | Bradley Slater                |      76.12 |                43 |       19 |                29 |      68.13 | Remsy Lemisio      |             27 |
+|             22 | Mitch O'Neill                 |      71.2  |               nan |       20 |                25 |      64.49 | Sean Sweetman      |             20 |
+|             22 | Millenium Sanerivi            |      73.69 |                31 |       21 |               nan |      64.19 | Trent Hape         |             19 |
+|             19 | Willem Ratu                   |      71.66 |               nan |       22 |                26 |      64.33 | Sam McNamara       |             11 |
+|             10 | Arese Poliko                  |      72.82 |                31 |       23 |               nan |      65.79 | Rene Ranger        |             10 |
 
 
 # Player Level Predictions - Version 2

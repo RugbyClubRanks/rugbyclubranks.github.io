@@ -60,7 +60,7 @@ key: page-recents
 ## worldcupwarmupmatch
 
 
-[2023](comp_files\worldcupwarmupmatch_2023) - Prediction Accuracy: 66.7% 
+[2023](comp_files\worldcupwarmupmatch_2023) - Prediction Accuracy: 75.0% 
 ## World Cup
 
 
