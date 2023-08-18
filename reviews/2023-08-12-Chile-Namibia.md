@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Namibia by 1.5
+## Prediction with Player Minutes: Namibia by 4.1
 
 
-Namibia by 5.5 on a neutral field
-## Prediction without Player Minutes: Namibia by 1.5
+Namibia by 8.1 on a neutral field
+## Prediction without Player Minutes: Namibia by 1.2
 
 
-Namibia by 5.5 on a neutral pitch
+Namibia by 5.2 on a neutral pitch
 
 
 ## Scores over Time
@@ -49,23 +49,31 @@ Namibia by 5.5 on a neutral pitch
 
 There were 12 large changes in win probability in this match
 
-|   Away Minutes | Away Player               |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player             |   Home Minutes |
-|---------------:|:--------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------|---------------:|
-|             80 | Des Sethie                |      71.22 |                37 |        1 |                 9 |      58.72 | Salvador Lues           |             80 |
-|             80 | Louis van der Westhuizen  |     100.13 |                88 |        2 |                26 |      69.93 | Augusto Bohme           |             80 |
-|             80 | Johannes (Aranos) Coetzee |      67    |                28 |        3 |                11 |      61.03 | Matias Dittus           |             80 |
-|             80 | Adriaan Ludick            |      69.8  |                34 |        4 |                19 |      65.69 | Pablo Huete             |             80 |
-|             80 | Ruan Ludick               |      66.76 |                29 |        5 |                17 |      63.71 | Javier Eissmann         |             80 |
-|             80 | Wian Conradie             |      73.58 |                44 |        6 |                21 |      67.23 | Martin Sigren Molina    |             80 |
-|             80 | Muharua Wilhelm Katjijeko |      67.54 |                33 |        7 |                22 |      67.72 | Clemente Saavedra       |             80 |
-|             80 | Richard Hardwick          |      78.3  |                49 |        8 |                33 |      74.08 | Alfonso Escobar Alvarez |             80 |
-|             80 | Damian Stevens            |      46.43 |                 4 |        9 |                27 |      69.72 | Marcelo Torrealba       |             80 |
-|             80 | Tiaan Swanepoel           |      69.13 |                30 |       10 |                25 |      71.52 | Rodrigo Fernandez       |             80 |
-|             80 | JC Greyling               |      68.86 |                35 |       11 |                17 |      63.28 | Nicolas Garafulic Schar |             80 |
-|             80 | Danco Burger              |      68.61 |                32 |       12 |                35 |      75.71 | Domingo Saavedra        |             80 |
-|             80 | Johan Deysel              |      68.37 |                32 |       13 |                16 |      63.42 | Matias Garafulic        |             80 |
-|             80 | Chad Zavier Plato         |      67.25 |                32 |       14 |                13 |      60.14 | Santiago Videla         |             80 |
-|             80 | Divan Rossouw             |      67.56 |                29 |       15 |                14 |      63.86 | Inaki Ayarza Saporta    |             80 |
+|   Away Minutes | Away Player                |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player             |   Home Minutes |
+|---------------:|:---------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------|---------------:|
+|             50 | Des Sethie                 |      75.19 |       1.01667e+06 |        1 |       1.01651e+06 |      58.99 | Salvador Lues           |             52 |
+|             80 | Louis van der Westhuizen   |     100.64 |       1.01386e+06 |        2 |       1.01473e+06 |      68.32 | Augusto Bohme           |             52 |
+|             50 | Johannes (Aranos) Coetzee  |      68.29 |       1.01718e+06 |        3 |       1.01652e+06 |      61.7  | Matias Dittus           |             75 |
+|             80 | Adriaan Ludick             |      70.71 |       1.01669e+06 |        4 |       1.01473e+06 |      66.17 | Pablo Huete             |             67 |
+|             40 | Ruan Ludick                |      68.66 |       1.01718e+06 |        5 |       1.01652e+06 |      64.03 | Javier Eissmann         |             65 |
+|             80 | Wian Conradie              |      77.07 |       1.01501e+06 |        6 |       1.01306e+06 |      67.23 | Martin Sigren Molina    |             80 |
+|             40 | Muharua Wilhelm Katjijeko  |      68.86 |       1.01718e+06 |        7 |       1.01473e+06 |      66.7  | Clemente Saavedra       |             80 |
+|             80 | Richard Hardwick           |      78.15 |  746790           |        8 |       1.01472e+06 |      73.3  | Alfonso Escobar Alvarez |             80 |
+|             80 | Damian Stevens             |      46.54 |       1.01502e+06 |        9 |       1.01471e+06 |      71.62 | Marcelo Torrealba       |             74 |
+|             80 | Tiaan Swanepoel            |      69.8  |       1.01668e+06 |       10 |       1.01475e+06 |      71.54 | Rodrigo Fernandez       |             80 |
+|             80 | JC Greyling                |      68.21 |       1.01669e+06 |       11 |       1.01718e+06 |      61.13 | Nicolas Garafulic Schar |             80 |
+|             74 | Danco Burger               |      69.53 |       1.01668e+06 |       12 |  900887           |      75.72 | Domingo Saavedra        |             80 |
+|             80 | Johan Deysel               |      69.27 |       1.01669e+06 |       13 |       1.01652e+06 |      64.39 | Matias Garafulic        |             40 |
+|             80 | Chad Zavier Plato          |      69.07 |       1.01717e+06 |       14 |       1.01472e+06 |      62.33 | Santiago Videla         |             80 |
+|             80 | Divan Rossouw              |      68.81 |       1.01669e+06 |       15 |       1.01652e+06 |      63.71 | Inaki Ayarza Saporta    |             67 |
+|             30 | Jason Benade               |      68.11 |     nan           |       16 |  979983           |      61.42 | Esteban Inostroza       |              5 |
+|             30 | Casper Viviers             |      69.27 |       1.0167e+06  |       17 |       1.01652e+06 |      59.56 | Ignacio Silva           |             13 |
+|             10 | Johan Retief               |      88.87 |       1.01421e+06 |       18 |     nan           |      60.13 | Santiago Pedrero        |             15 |
+|             40 | Tiaan de Klerk             |      69.29 |     nan           |       19 |     nan           |      61.27 | Tomas Dussaillant       |             28 |
+|             30 | Prince Rivaldo Gino Gaoseb |      68.47 |     nan           |       20 |     nan           |      62.29 | Lukas Carvallo          |              6 |
+|              6 | Andre (Dries) Van der Berg |      69.31 |     nan           |       21 |       1.01474e+06 |      57.58 | Jose Ignacio Larenas    |             40 |
+|            nan | nan                        |     nan    |     nan           |       22 |     nan           |      56.12 | Francisco Urroz         |             13 |
+|            nan | nan                        |     nan    |     nan           |       23 |       1.01652e+06 |      61.46 | Javier Carrasco         |             28 |
 
 
 # Player Level Predictions - Version 2
@@ -76,28 +84,36 @@ Treating teams instead as an entity made up of the currently active players, I h
 
 
 Chile by 1.0 on a neutral field
-## Prediction without Player Minutes: Chile by 4.1
+## Prediction without Player Minutes: Chile by 4.0
 
 
-Chile by 1.0 on a neutral pitch
+Chile by 0.9 on a neutral pitch
 
 
 
-|   Away Minutes | Away Player               |   Away elo |   Away variance |   Number |   Home variance |   Home elo | Home Player             |   Home Minutes |
-|---------------:|:--------------------------|-----------:|----------------:|---------:|----------------:|-----------:|:------------------------|---------------:|
-|             80 | Des Sethie                |      46.65 |              50 |        1 |           49.94 |      47.24 | Salvador Lues           |             80 |
-|             80 | Louis van der Westhuizen  |      46.65 |              50 |        2 |           49.86 |      48.02 | Augusto Bohme           |             80 |
-|             80 | Johannes (Aranos) Coetzee |      46.65 |              50 |        3 |           49.86 |      47.99 | Matias Dittus           |             80 |
-|             80 | Adriaan Ludick            |      46.65 |              50 |        4 |           49.86 |      47.99 | Pablo Huete             |             80 |
-|             80 | Ruan Ludick               |      46.65 |              50 |        5 |           49.8  |      48.6  | Javier Eissmann         |             80 |
-|             80 | Wian Conradie             |      46.65 |              50 |        6 |           50    |      52.8  | Martin Sigren Molina    |             80 |
-|             80 | Muharua Wilhelm Katjijeko |      46.65 |              50 |        7 |           49.8  |      48.6  | Clemente Saavedra       |             80 |
-|             80 | Richard Hardwick          |      61.57 |              50 |        8 |           49.8  |      48.6  | Alfonso Escobar Alvarez |             80 |
-|             80 | Damian Stevens            |      46.65 |              50 |        9 |           49.8  |      48.6  | Marcelo Torrealba       |             80 |
-|             80 | Tiaan Swanepoel           |      46.65 |              50 |       10 |           49.8  |      48.6  | Rodrigo Fernandez       |             80 |
-|             80 | JC Greyling               |      46.65 |              50 |       11 |           50    |      46.65 | Nicolas Garafulic Schar |             80 |
-|             80 | Danco Burger              |      46.65 |              50 |       12 |           50    |      59.04 | Domingo Saavedra        |             80 |
-|             80 | Johan Deysel              |      46.65 |              50 |       13 |           49.8  |      48.6  | Matias Garafulic        |             80 |
-|             80 | Chad Zavier Plato         |      46.65 |              50 |       14 |           49.8  |      48.6  | Santiago Videla         |             80 |
-|             80 | Divan Rossouw             |      46.65 |              50 |       15 |           49.8  |      48.6  | Inaki Ayarza Saporta    |             80 |
+|   Away Minutes | Away Player                |   Away elo |   Away variance |   Number |   Home variance |   Home elo | Home Player             |   Home Minutes |
+|---------------:|:---------------------------|-----------:|----------------:|---------:|----------------:|-----------:|:------------------------|---------------:|
+|             50 | Des Sethie                 |      46.65 |              50 |        1 |           49.94 |      47.24 | Salvador Lues           |             52 |
+|             80 | Louis van der Westhuizen   |      46.65 |              50 |        2 |           49.86 |      48.02 | Augusto Bohme           |             52 |
+|             50 | Johannes (Aranos) Coetzee  |      46.65 |              50 |        3 |           49.86 |      47.99 | Matias Dittus           |             75 |
+|             80 | Adriaan Ludick             |      46.65 |              50 |        4 |           49.86 |      47.99 | Pablo Huete             |             67 |
+|             40 | Ruan Ludick                |      46.65 |              50 |        5 |           49.8  |      48.6  | Javier Eissmann         |             65 |
+|             80 | Wian Conradie              |      46.65 |              50 |        6 |           50    |      52.8  | Martin Sigren Molina    |             80 |
+|             40 | Muharua Wilhelm Katjijeko  |      46.65 |              50 |        7 |           49.8  |      48.6  | Clemente Saavedra       |             80 |
+|             80 | Richard Hardwick           |      61.57 |              50 |        8 |           49.8  |      48.6  | Alfonso Escobar Alvarez |             80 |
+|             80 | Damian Stevens             |      46.65 |              50 |        9 |           49.8  |      48.6  | Marcelo Torrealba       |             74 |
+|             80 | Tiaan Swanepoel            |      46.65 |              50 |       10 |           49.8  |      48.6  | Rodrigo Fernandez       |             80 |
+|             80 | JC Greyling                |      46.65 |              50 |       11 |           50    |      46.65 | Nicolas Garafulic Schar |             80 |
+|             74 | Danco Burger               |      46.65 |              50 |       12 |           50    |      59.04 | Domingo Saavedra        |             80 |
+|             80 | Johan Deysel               |      46.65 |              50 |       13 |           49.8  |      48.6  | Matias Garafulic        |             40 |
+|             80 | Chad Zavier Plato          |      46.65 |              50 |       14 |           49.8  |      48.6  | Santiago Videla         |             80 |
+|             80 | Divan Rossouw              |      46.65 |              50 |       15 |           49.8  |      48.6  | Inaki Ayarza Saporta    |             67 |
+|             30 | Jason Benade               |      46.65 |              50 |       16 |           50    |      44.52 | Esteban Inostroza       |              5 |
+|             30 | Casper Viviers             |      46.65 |              50 |       17 |           49.9  |      47.63 | Ignacio Silva           |             13 |
+|             10 | Johan Retief               |      46.65 |              50 |       18 |           49.94 |      47.26 | Santiago Pedrero        |             15 |
+|             40 | Tiaan de Klerk             |      42.07 |              50 |       19 |           50    |      46.65 | Tomas Dussaillant       |             28 |
+|             30 | Prince Rivaldo Gino Gaoseb |      46.65 |              50 |       20 |           50    |      46.65 | Lukas Carvallo          |              6 |
+|              6 | Andre (Dries) Van der Berg |      46.65 |              50 |       21 |           50    |      46.65 | Jose Ignacio Larenas    |             40 |
+|            nan | nan                        |     nan    |             nan |       22 |           49.98 |      46.82 | Francisco Urroz         |             13 |
+|            nan | nan                        |     nan    |             nan |       23 |           49.86 |      48.02 | Javier Carrasco         |             28 |
 

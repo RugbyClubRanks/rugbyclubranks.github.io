@@ -38,17 +38,13 @@ Last Round Error: 10.75 points per match
 
 [In depth model review and projections for Bunnings Warehouse NPC 2023](comp_files/Bunnings_Warehouse_NPC_2023)
 
-Competition Accuracy: 11 of 15 (73.33%)
+Competition Accuracy: 12 of 16 (75.0%)
 
-Competition Error: 8.22 points per match
+Competition Error: 7.79 points per match
 
 Last Round Accuracy: 5 of 7 (71.43%)
 
-Last Round Error: 7.35 points per match
-
-[2023-08-06 Waikato at Southland; 29-21](reviews//2023-08-06-Southland-Waikato)
-
-[2023-08-06 Auckland at Bay of Plenty; 32-30](reviews//2023-08-06-BayofPlenty-Auckland)
+Last Round Error: 6.85 points per match
 
 [2023-08-09 Taranaki at Northland; 28-13](reviews//2023-08-09-Northland-Taranaki)
 
@@ -63,3 +59,5 @@ Last Round Error: 7.35 points per match
 [2023-08-13 Canterbury at North Harbour; 28-24](reviews//2023-08-13-NorthHarbour-Canterbury)
 
 [2023-08-13 Taranaki at Manawatu; 26-17](reviews//2023-08-13-Manawatu-Taranaki)
+
+[2023-08-16 Waikato at Hawke's Bay; 32-35](reviews//2023-08-16-Hawke'sBay-Waikato)

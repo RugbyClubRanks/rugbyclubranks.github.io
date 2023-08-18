@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Canterbury by 23.3
+## Prediction with Player Minutes: Canterbury by 17.0
 
 
-Canterbury by 27.3 on a neutral field
-## Prediction without Player Minutes: Canterbury by 21.7
+Canterbury by 21.0 on a neutral field
+## Prediction without Player Minutes: Canterbury by 16.8
 
 
-Canterbury by 25.7 on a neutral pitch
+Canterbury by 20.8 on a neutral pitch
 
 
 ## Scores over Time
@@ -51,43 +51,43 @@ There were 11 large changes in win probability in this match
 
 |   Away Minutes | Away Player          |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player             |   Home Minutes |
 |---------------:|:---------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------|---------------:|
-|             54 | Daniel Lienert-Brown |      92.29 |                63 |        1 |                34 |      68.05 | Nic Mayhew              |             44 |
-|             64 | Ben Funnell          |      91.23 |                60 |        2 |                47 |      70.74 | Shilo Klein             |             64 |
-|             47 | Seb Calder           |      91.67 |                63 |        3 |                95 |     103.65 | Tevita Mafileo          |             64 |
-|             41 | Luke Romano          |      90.5  |                60 |        4 |                94 |     107.48 | Ben Grant               |             80 |
-|             80 | Tahlor Cahill        |      90.67 |                52 |        5 |                48 |      75.13 | Mike McKee              |             47 |
-|             41 | Corey Kellow         |      74.22 |                31 |        6 |                64 |      76.97 | Tamarau McGahan         |             80 |
-|             80 | Tom Christie         |     111.82 |                88 |        7 |                55 |      76.13 | Jed Melvin              |             47 |
-|             80 | Billy Harmon         |     109.3  |                90 |        8 |                90 |     103.06 | Cameron Suafoa          |             80 |
-|             48 | Willi Heinz          |      89.6  |                58 |        9 |                57 |      77.24 | Jamie Booth             |             64 |
-|             80 | Fergus Burke         |      92.59 |                49 |       10 |                54 |      77.03 | Oscar Koller            |             80 |
-|             80 | Blair Murray         |      92.54 |                56 |       11 |                56 |      78.86 | Tika Lelenga            |             47 |
-|             70 | Rameka Poihipi       |      95.05 |                70 |       12 |                12 |      55.04 | Henry Taefu             |             55 |
-|             80 | Dallas McLeod        |     102.8  |                80 |       13 |                64 |      79.95 | Tom Barham              |             80 |
-|             62 | Manasa Mataele       |     103    |                83 |       14 |                62 |      78.42 | Alapati Leiua           |             80 |
-|             80 | Chay Fihaki          |     121.13 |                90 |       15 |                59 |      77.37 | Kade Banks              |             80 |
-|             16 | James Mullan         |      92.11 |               nan |       16 |               nan |      73.12 | Bryn Gordon             |             16 |
-|             26 | Tom Heywood          |      88.07 |               nan |       17 |               nan |      73.09 | Sione Mafileo           |             16 |
-|             33 | Oli Jager            |     107.09 |                93 |       18 |                19 |      64.69 | Tevita Langi            |             36 |
-|             39 | Mitchell Dunshea     |      88.93 |               nan |       19 |               nan |      75.13 | Wallace Sititi          |             33 |
-|             39 | Cullen Grace         |     115.62 |                95 |       20 |               nan |      75.58 | Maetaki He Lotu Inisi   |             33 |
-|             32 | Mitchell Drummond    |      96.53 |                75 |       21 |               nan |      74.32 | Aisea Halo              |             16 |
-|             18 | Alex Harford         |      91.37 |               nan |       22 |               nan |      71.07 | John Tapueluelu         |             33 |
-|             10 | Jone Rova            |      91.9  |               nan |       23 |               nan |      73.93 | Danyon Morgan-Puterangi |             25 |
+|             54 | Daniel Lienert-Brown |      85.42 |       1.01691e+06 |        1 |       1.01602e+06 |      66.18 | Nic Mayhew              |             44 |
+|             64 | Ben Funnell          |      88.3  |       1.01692e+06 |        2 |       1.01597e+06 |      74.15 | Shilo Klein             |             64 |
+|             47 | Seb Calder           |      85.73 |       1.0169e+06  |        3 |  933081           |     103.27 | Tevita Mafileo          |             64 |
+|             41 | Luke Romano          |      89.29 |       1.01688e+06 |        4 |  897595           |     109.99 | Ben Grant               |             80 |
+|             80 | Tahlor Cahill        |      86.06 |       1.0169e+06  |        5 |       1.01718e+06 |      74.28 | Moni Ngakuru            |             47 |
+|             41 | Corey Kellow         |      89.25 |       1.01687e+06 |        6 |       1.0168e+06  |      75.9  | Tamarau McGahan         |             80 |
+|             80 | Tom Christie         |     111.86 |  897244           |        7 |       1.01677e+06 |      77.64 | Jed Melvin              |             47 |
+|             80 | Billy Harmon         |     106.46 |  828871           |        8 |  944831           |     102.91 | Cameron Suafoa          |             80 |
+|             48 | Willi Heinz          |      87.79 |       1.0169e+06  |        9 |       1.01677e+06 |      78.21 | Jamie Booth             |             64 |
+|             80 | Fergus Burke         |      82.98 |  944396           |       10 |       1.01675e+06 |      81.04 | Oscar Koller            |             80 |
+|             80 | Blair Murray         |      85.12 |       1.01692e+06 |       11 |       1.0168e+06  |      76.9  | Tika Lelenga            |             47 |
+|             70 | Rameka Poihipi       |      92.27 |  945155           |       12 |  744536           |      54.91 | Henry Taefu             |             55 |
+|             80 | Dallas McLeod        |     102.76 |  944226           |       13 |       1.0168e+06  |      77.39 | Tom Barham              |             80 |
+|             62 | Manasa Mataele       |     100.58 |  828048           |       14 |       1.01679e+06 |      78.17 | Alapati Leiua           |             80 |
+|             80 | Chay Fihaki          |     111.53 |  974365           |       15 |       1.01676e+06 |      79.8  | Kade Banks              |             80 |
+|             16 | James Mullan         |      89.01 |     nan           |       16 |     nan           |      72.65 | Bryn Gordon             |             16 |
+|             26 | Tom Heywood          |      90.28 |     nan           |       17 |     nan           |      72.72 | Sione Mafileo           |             16 |
+|             33 | Oli Jager            |     107.08 |  828992           |       18 |       1.01618e+06 |      64.41 | Tevita Langi            |             36 |
+|             39 | Mitchell Dunshea     |      90.63 |     nan           |       19 |     nan           |      72.33 | Wallace Sititi          |             33 |
+|             39 | Cullen Grace         |      89.54 |       1.01521e+06 |       20 |     nan           |      79.06 | Maetaki He Lotu Inisi   |             33 |
+|             32 | Mitchell Drummond    |      93.17 |       1.00555e+06 |       21 |     nan           |      70.98 | Aisea Halo              |             16 |
+|             18 | Alex Harford         |      91.49 |     nan           |       22 |     nan           |      73.39 | John Tapueluelu         |             33 |
+|             10 | Jone Rova            |      88.81 |     nan           |       23 |     nan           |      74.11 | Danyon Morgan-Puterangi |             25 |
 
 
 # Player Level Predictions - Version 2
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Canterbury by 4.5
+## Prediction with Player Minutes: Canterbury by 2.5
 
 
-Canterbury by 7.8 on a neutral field
-## Prediction without Player Minutes: Canterbury by 4.0
+Canterbury by 5.8 on a neutral field
+## Prediction without Player Minutes: Canterbury by 1.7
 
 
-Canterbury by 7.4 on a neutral pitch
+Canterbury by 5.0 on a neutral pitch
 
 
 
@@ -97,8 +97,8 @@ Canterbury by 7.4 on a neutral pitch
 |             64 | Ben Funnell          |      46.65 |              50 |        2 |           50    |      46.65 | Shilo Klein             |             64 |
 |             47 | Seb Calder           |      46.65 |              50 |        3 |           50    |      60.42 | Tevita Mafileo          |             64 |
 |             41 | Luke Romano          |      46.65 |              50 |        4 |           47.89 |      72.7  | Ben Grant               |             80 |
-|             80 | Tahlor Cahill        |      46.65 |              50 |        5 |           50    |      -7.59 | Mike McKee              |             47 |
-|             41 | Corey Kellow         |      49.69 |              50 |        6 |           50    |      46.65 | Tamarau McGahan         |             80 |
+|             80 | Tahlor Cahill        |      46.65 |              50 |        5 |           50    |      46.65 | Moni Ngakuru            |             47 |
+|             41 | Corey Kellow         |      46.65 |              50 |        6 |           50    |      46.65 | Tamarau McGahan         |             80 |
 |             80 | Tom Christie         |     103.08 |              50 |        7 |           50    |      46.65 | Jed Melvin              |             47 |
 |             80 | Billy Harmon         |      68.11 |              50 |        8 |           50    |      45.96 | Cameron Suafoa          |             80 |
 |             48 | Willi Heinz          |      46.65 |              50 |        9 |           50    |      46.65 | Jamie Booth             |             64 |
@@ -112,7 +112,7 @@ Canterbury by 7.4 on a neutral pitch
 |             26 | Tom Heywood          |      46.65 |              50 |       17 |           50    |      46.65 | Sione Mafileo           |             16 |
 |             33 | Oli Jager            |      82.9  |              50 |       18 |           50    |      46.65 | Tevita Langi            |             36 |
 |             39 | Mitchell Dunshea     |      46.65 |              50 |       19 |           50    |      46.65 | Wallace Sititi          |             33 |
-|             39 | Cullen Grace         |      76.75 |              50 |       20 |           50    |      46.65 | Maetaki He Lotu Inisi   |             33 |
+|             39 | Cullen Grace         |      46.65 |              50 |       20 |           50    |      46.65 | Maetaki He Lotu Inisi   |             33 |
 |             32 | Mitchell Drummond    |      66.51 |              50 |       21 |           50    |      46.65 | Aisea Halo              |             16 |
 |             18 | Alex Harford         |      46.65 |              50 |       22 |           50    |      46.65 | John Tapueluelu         |             33 |
 |             10 | Jone Rova            |      46.65 |              50 |       23 |           50    |      46.65 | Danyon Morgan-Puterangi |             25 |

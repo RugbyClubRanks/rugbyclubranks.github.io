@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: France by 6.0
+## Prediction with Player Minutes: France by 13.1
 
 
-France by 2.0 on a neutral field
-## Prediction without Player Minutes: France by 4.9
+France by 9.1 on a neutral field
+## Prediction without Player Minutes: France by 12.6
 
 
-France by 0.9 on a neutral pitch
+France by 8.6 on a neutral pitch
 
 
 ## Scores over Time
@@ -51,43 +51,43 @@ There were 10 large changes in win probability in this match
 
 |   Away Minutes | Away Player         |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:--------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
-|             55 | Pierre Schoeman     |      67.6  |                29 |        1 |                64 |      89.29 | Cyril Baille         |             49 |
-|             55 | George Turner       |     108.21 |                94 |        2 |                72 |      93.16 | Julien Marchand      |             50 |
-|             56 | WP Nel              |     119.43 |                98 |        3 |                63 |      89.07 | Dorian Aldegheri     |             50 |
-|             65 | Richie Gray         |     101.87 |                87 |        4 |                35 |      77.93 | Cameron Woki         |             80 |
-|             56 | Grant Gilchrist     |     108.38 |                91 |        5 |                52 |      85.77 | Thibaud Flament      |             64 |
-|             80 | Jamie Ritchie       |      85.79 |                72 |        6 |                72 |      94.6  | Paul Boudehent       |             80 |
-|             80 | Rory Darge          |     118.88 |                97 |        7 |                63 |      89.55 | Charles Ollivon      |             80 |
-|             75 | Jack Dempsey        |      54.37 |                14 |        8 |                51 |      86.76 | Gregory Alldritt     |             67 |
-|             55 | Ali Price           |      85.03 |                65 |        9 |                68 |      94.11 | Antoine Dupont       |             69 |
-|             80 | Finn Russell        |     100.25 |                83 |       10 |                69 |      96.12 | Romain Ntamack       |             56 |
-|             64 | Duhan van der Merwe |      84    |                63 |       11 |                82 |     104.79 | Gabin Villiere       |             80 |
-|             80 | Sione Tuipulotu     |      50.46 |                 9 |       12 |                55 |      86.45 | Jonathan Danty       |             64 |
-|             80 | Huw Jones           |      57.5  |                18 |       13 |                45 |      82.13 | Gael Fickou          |             80 |
-|             80 | Kyle Steyn          |      94.95 |                81 |       14 |                49 |      84.27 | Damian Penaud        |             80 |
-|             80 | Blair Kinghorn      |     134.19 |                99 |       15 |                70 |      97.21 | Thomas Ramos         |             80 |
-|             25 | Stuart McInally     |      65.99 |                30 |       16 |                87 |     102.16 | Pierre Bourgarit     |             30 |
-|             25 | Rory Sutherland     |     100.17 |                88 |       17 |                95 |     111.74 | Jean-Baptiste Gros   |             31 |
-|             24 | Javan Sebastian     |      57.18 |                15 |       18 |               nan |      89.99 | Uini Atonio          |             30 |
-|             15 | Scott Cummings      |     120.71 |                96 |       19 |               nan |      89.77 | Florian Verhaeghe    |             13 |
-|             24 | Sam Skinner         |      99.5  |                82 |       20 |                80 |      98.39 | Bastien Chalureau    |             16 |
-|              5 | Josh Bayliss        |      74.08 |                40 |       21 |                96 |     119.11 | Sekou Macalou        |             16 |
-|             25 | George Horne        |     107.87 |                93 |       22 |               nan |      89.57 | Maxime Lucu          |             11 |
-|             16 | Ollie Smith         |      76.18 |                39 |       23 |                93 |     111.82 | Louis Bielle-Biarrey |             24 |
+|             55 | Pierre Schoeman     |      68.22 |            794406 |        1 |           1016198 |      93.33 | Cyril Baille         |             49 |
+|             55 | George Turner       |     109.22 |            717148 |        2 |           1015842 |      93.12 | Julien Marchand      |             50 |
+|             56 | WP Nel              |     119.67 |            428998 |        3 |           1016195 |      92.7  | Dorian Aldegheri     |             50 |
+|             65 | Richie Gray         |     102.73 |            403889 |        4 |            894279 |      76.94 | Cameron Woki         |             80 |
+|             56 | Grant Gilchrist     |     109.15 |            523810 |        5 |            911349 |      91.78 | Thibaud Flament      |             64 |
+|             80 | Jamie Ritchie       |      86.72 |           1017135 |        6 |            929974 |      95.01 | Paul Boudehent       |             80 |
+|             80 | Rory Darge          |     120.87 |            969377 |        7 |           1014011 |      96.08 | Charles Ollivon      |             80 |
+|             75 | Jack Dempsey        |      54.96 |            755561 |        8 |            901063 |     110.24 | Gregory Alldritt     |             67 |
+|             55 | Ali Price           |      86.26 |            664101 |        9 |           1015822 |      99.54 | Antoine Dupont       |             69 |
+|             80 | Finn Russell        |     101    |            670426 |       10 |           1015808 |     100.67 | Romain Ntamack       |             56 |
+|             64 | Duhan van der Merwe |      84.87 |            863270 |       11 |           1014021 |     105.39 | Gabin Villiere       |             80 |
+|             80 | Sione Tuipulotu     |      51.06 |            793476 |       12 |            580747 |     104.88 | Jonathan Danty       |             64 |
+|             80 | Huw Jones           |      58.33 |            773506 |       13 |           1015566 |      84.84 | Gael Fickou          |             80 |
+|             80 | Kyle Steyn          |      96.68 |            878340 |       14 |           1015579 |      84.79 | Damian Penaud        |             80 |
+|             80 | Blair Kinghorn      |     135.25 |            803152 |       15 |           1015784 |     106.59 | Thomas Ramos         |             80 |
+|             25 | Stuart McInally     |      66.75 |            513026 |       16 |            887009 |     102.19 | Pierre Bourgarit     |             30 |
+|             25 | Rory Sutherland     |     101.18 |            747841 |       17 |            903421 |     111.11 | Jean-Baptiste Gros   |             31 |
+|             24 | Javan Sebastian     |      57.94 |            767221 |       18 |            615487 |     102.35 | Uini Atonio          |             30 |
+|             15 | Scott Cummings      |     122.18 |            795641 |       19 |            861268 |     107.85 | Florian Verhaeghe    |             13 |
+|             24 | Sam Skinner         |     101.27 |            763565 |       20 |            796999 |      97.78 | Bastien Chalureau    |             16 |
+|              5 | Josh Bayliss        |      74.35 |            853771 |       21 |            746974 |     118.65 | Sekou Macalou        |             16 |
+|             25 | George Horne        |     108.4  |            861450 |       22 |            744135 |     131.42 | Maxime Lucu          |             11 |
+|             16 | Ollie Smith         |      77.91 |            972255 |       23 |            994060 |     115.83 | Louis Bielle-Biarrey |             24 |
 
 
 # Player Level Predictions - Version 2
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Scotland by 8.9
+## Prediction with Player Minutes: Scotland by 1.1
 
 
-Scotland by 12.6 on a neutral field
-## Prediction without Player Minutes: Scotland by 9.8
+Scotland by 4.8 on a neutral field
+## Prediction without Player Minutes: Scotland by 1.6
 
 
-Scotland by 13.4 on a neutral pitch
+Scotland by 5.3 on a neutral pitch
 
 
 
@@ -97,23 +97,23 @@ Scotland by 13.4 on a neutral pitch
 |             55 | George Turner       |     108.52 |           49.93 |        2 |           50    |      46.65 | Julien Marchand      |             50 |
 |             56 | WP Nel              |      91.47 |           50    |        3 |           50    |      46.65 | Dorian Aldegheri     |             50 |
 |             65 | Richie Gray         |      58.41 |           50    |        4 |           50    |      66.19 | Cameron Woki         |             80 |
-|             56 | Grant Gilchrist     |      89.27 |           50    |        5 |           50    |      46.65 | Thibaud Flament      |             64 |
+|             56 | Grant Gilchrist     |      89.27 |           50    |        5 |           50    |      81.23 | Thibaud Flament      |             64 |
 |             80 | Jamie Ritchie       |      46.65 |           50    |        6 |           50    |      43    | Paul Boudehent       |             80 |
 |             80 | Rory Darge          |      55.69 |           49.88 |        7 |           50    |      46.65 | Charles Ollivon      |             80 |
-|             75 | Jack Dempsey        |      30.9  |           50    |        8 |           50    |      46.65 | Gregory Alldritt     |             67 |
+|             75 | Jack Dempsey        |      30.9  |           50    |        8 |           49.07 |     122.82 | Gregory Alldritt     |             67 |
 |             55 | Ali Price           |      68.87 |           49.91 |        9 |           50    |      46.65 | Antoine Dupont       |             69 |
 |             80 | Finn Russell        |     123.13 |           48.47 |       10 |           50    |      46.65 | Romain Ntamack       |             56 |
 |             64 | Duhan van der Merwe |      57.36 |           50    |       11 |           50    |      46.65 | Gabin Villiere       |             80 |
-|             80 | Sione Tuipulotu     |      32.95 |           50    |       12 |           50    |      46.65 | Jonathan Danty       |             64 |
+|             80 | Sione Tuipulotu     |      32.95 |           50    |       12 |           50    |     113.92 | Jonathan Danty       |             64 |
 |             80 | Huw Jones           |      47.19 |           50    |       13 |           50    |      46.65 | Gael Fickou          |             80 |
 |             80 | Kyle Steyn          |      86.45 |           49.48 |       14 |           50    |      46.65 | Damian Penaud        |             80 |
 |             80 | Blair Kinghorn      |     128.69 |           49.99 |       15 |           50    |      46.65 | Thomas Ramos         |             80 |
 |             25 | Stuart McInally     |      46.81 |           49.95 |       16 |           49.49 |      84.84 | Pierre Bourgarit     |             30 |
 |             25 | Rory Sutherland     |      49.19 |           49.93 |       17 |           50    |      88.07 | Jean-Baptiste Gros   |             31 |
-|             24 | Javan Sebastian     |      46.89 |           49.95 |       18 |           50    |      46.65 | Uini Atonio          |             30 |
-|             15 | Scott Cummings      |     111.11 |           49.9  |       19 |           50    |      46.65 | Florian Verhaeghe    |             13 |
+|             24 | Javan Sebastian     |      46.89 |           49.95 |       18 |           49.96 |     131.61 | Uini Atonio          |             30 |
+|             15 | Scott Cummings      |     111.11 |           49.9  |       19 |           50    |      57.17 | Florian Verhaeghe    |             13 |
 |             24 | Sam Skinner         |      66.31 |           49.88 |       20 |           50    |      67.37 | Bastien Chalureau    |             16 |
 |              5 | Josh Bayliss        |      50.62 |           49.98 |       21 |           49.76 |      91.95 | Sekou Macalou        |             16 |
-|             25 | George Horne        |     129.11 |           50    |       22 |           50    |      46.65 | Maxime Lucu          |             11 |
+|             25 | George Horne        |     129.11 |           50    |       22 |           48.71 |     126.86 | Maxime Lucu          |             11 |
 |             16 | Ollie Smith         |      73.12 |           49.88 |       23 |           49.74 |      66.01 | Louis Bielle-Biarrey |             24 |
 

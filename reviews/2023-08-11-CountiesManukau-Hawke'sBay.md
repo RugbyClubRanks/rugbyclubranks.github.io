@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Counties Manukau by 10.5
+## Prediction with Player Minutes: Counties Manukau by 14.9
 
 
-Counties Manukau by 6.5 on a neutral field
-## Prediction without Player Minutes: Counties Manukau by 9.7
+Counties Manukau by 10.9 on a neutral field
+## Prediction without Player Minutes: Counties Manukau by 14.5
 
 
-Counties Manukau by 5.7 on a neutral pitch
+Counties Manukau by 10.5 on a neutral pitch
 
 
 ## Scores over Time
@@ -47,47 +47,47 @@ Counties Manukau by 5.7 on a neutral pitch
 
 ![In Match Predictions](plots/recap_prob_2023-08-11-CountiesManukau-Hawke'sBay.png)
 
-There were 11 large changes in win probability in this match
+There were 10 large changes in win probability in this match
 
 |   Away Minutes | Away Player                |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player        |   Home Minutes |
 |---------------:|:---------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------|---------------:|
-|             51 | Pouri Gordon Rakete-Stones |      71.83 |                42 |        1 |                30 |      75.38 | Kauvaka Kaivelata  |             51 |
-|             51 | Jacob Devery               |      86.07 |                72 |        2 |                42 |      80.7  | Ian West-Stevens   |             63 |
-|             51 | Joel Hintz                 |      65.79 |                29 |        3 |                52 |      84.72 | Suetena Asomua     |             47 |
-|             80 | Frank Lochore              |      72.86 |                47 |        4 |                26 |      74.55 | Jimmy Tupou        |             80 |
-|             46 | Tom Parsons                |      73.41 |                43 |        5 |                42 |      82.4  | James Thompson     |             63 |
-|             69 | Siosiua (Josh) Kaifa       |      74.63 |                53 |        6 |                40 |      78.46 | Ma'amai Vaipulu    |             51 |
-|             80 | Sam Smith                  |      76.44 |                59 |        7 |                34 |      78.09 | Sean Reidy         |             80 |
-|             80 | Devan Flanders             |      76.32 |                51 |        8 |                93 |     112.51 | Hoskins Sotutu     |             80 |
-|             63 | Brad Weber                 |     135.83 |                99 |        9 |                33 |      76.67 | Liam Daniela       |             66 |
-|             80 | Lincoln McClutchie         |      70.18 |                38 |       10 |                28 |      76.78 | Riley Hohepa       |             80 |
-|             80 | Anzelo Tuitavuki           |      75.12 |                52 |       11 |                97 |     125.34 | Toni Pulu          |             80 |
-|             80 | Ollie Sapsford             |      81.99 |                64 |       12 |                30 |      75.25 | Nikolai Foliaki    |             61 |
-|             63 | Nicholas Grigg             |      76.54 |                53 |       13 |                41 |      82.43 | Tevita Ofa         |             80 |
-|             80 | Jonah Lowe                 |      81.25 |                55 |       14 |                33 |      76.43 | Peniasi Malimali   |             71 |
-|             63 | Harry Godfrey              |      72.01 |                42 |       15 |                40 |      83.24 | Etene Nanai-Seturo |             80 |
-|             29 | Timothy John Farrell       |      78.96 |               nan |       16 |                51 |      80.45 | Salesi Tuifua      |             33 |
-|             29 | Isaac Salmon               |      52.67 |                 8 |       17 |               nan |      77.2  | Abraham Pole       |             29 |
-|             29 | Tyrone Thompson            |      88.5  |                70 |       18 |               nan |      77.39 | Nicholas Muli      |             17 |
-|             34 | Isaia Walker-Leawere       |     104.77 |                87 |       19 |                33 |      69.28 | Alex McRobbie      |             17 |
-|             11 | Patrick Tuifua             |      75.29 |               nan |       20 |               nan |      77.58 | Viliami Taulani    |             29 |
-|             17 | Folau Fakatava             |      74.61 |                39 |       21 |                11 |      56.08 | AJ Alatimu         |             19 |
-|             17 | Chase Tiatia               |      82.49 |                54 |       22 |               nan |      77.03 | Blake Makiri       |              9 |
-|             17 | Caleb Makene               |      67.12 |                27 |       23 |               nan |      82.87 | Kanavale Helu      |             14 |
+|             51 | Pouri Gordon Rakete-Stones |      74.77 |       1.01675e+06 |        1 |       1.01661e+06 |      82.62 | Kauvaka Kaivelata  |             51 |
+|             51 | Jacob Devery               |      86.24 |  878500           |        2 |       1.0166e+06  |      90.2  | Ian West-Stevens   |             63 |
+|             51 | Joel Hintz                 |      66.04 |       1.01507e+06 |        3 |       1.01664e+06 |      83.57 | Suetena Asomua     |             47 |
+|             80 | Frank Lochore              |      71.9  |       1.01678e+06 |        4 |       1.0166e+06  |      82.08 | Jimmy Tupou        |             80 |
+|             46 | Tom Parsons                |      70.55 |       1.01679e+06 |        5 |       1.01658e+06 |      87.2  | James Thompson     |             63 |
+|             69 | Siosiua (Josh) Kaifa       |      72.6  |       1.01679e+06 |        6 |       1.01663e+06 |      82.45 | Ma'amai Vaipulu    |             51 |
+|             80 | Sam Smith                  |      76.8  |       1.01677e+06 |        7 |       1.01663e+06 |      78.8  | Sean Reidy         |             80 |
+|             80 | Devan Flanders             |      76.75 |  915193           |        8 |  894055           |     112.14 | Hoskins Sotutu     |             80 |
+|             63 | Brad Weber                 |     135.9  |  696458           |        9 |       1.01664e+06 |      78.78 | Liam Daniela       |             66 |
+|             80 | Lincoln McClutchie         |      72.18 |       1.01676e+06 |       10 |       1.01663e+06 |      78.52 | Riley Hohepa       |             80 |
+|             80 | Anzelo Tuitavuki           |      74.95 |       1.01708e+06 |       11 |  643611           |     125.27 | Toni Pulu          |             80 |
+|             80 | Ollie Sapsford             |      82.45 |  944071           |       12 |       1.01663e+06 |      79.76 | Nikolai Foliaki    |             61 |
+|             63 | Nicholas Grigg             |      78.59 |       1.01675e+06 |       13 |       1.01664e+06 |      84.37 | Tevita Ofa         |             80 |
+|             80 | Jonah Lowe                 |      81.34 |  797353           |       14 |       1.01663e+06 |      79.41 | Peniasi Malimali   |             71 |
+|             63 | Harry Godfrey              |      71.16 |       1.01678e+06 |       15 |  920052           |      82.07 | Etene Nanai-Seturo |             80 |
+|             29 | Timothy John Farrell       |      75.94 |     nan           |       16 |       1.01664e+06 |      81.99 | Salesi Tuifua      |             33 |
+|             29 | Isaac Salmon               |      48.97 |       1.01617e+06 |       17 |  921972           |      75.08 | Ezekiel Lindenmuth |             29 |
+|             29 | Tyrone Thompson            |      88.49 |  987098           |       18 |     nan           |      80.82 | Nicholas Muli      |             17 |
+|             34 | Isaia Walker-Leawere       |     104.77 |  828229           |       19 |     nan           |      90.73 | Alex McRobbie      |             17 |
+|             11 | Patrick Tuifua             |      75.12 |     nan           |       20 |     nan           |      80.45 | Viliami Taulani    |             29 |
+|             17 | Folau Fakatava             |      73.65 |       1.01678e+06 |       21 |       1.01489e+06 |      57.36 | AJ Alatimu         |             19 |
+|             17 | Chase Tiatia               |      82.63 |  741034           |       22 |     nan           |      80.63 | Blake Makiri       |              9 |
+|             17 | Caleb Makene               |      68.91 |       1.01477e+06 |       23 |     nan           |      89.08 | Kanavale Helu      |             14 |
 
 
 # Player Level Predictions - Version 2
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Counties Manukau by 2.8
+## Prediction with Player Minutes: Counties Manukau by 2.3
 
 
-Hawke's Bay by 0.5 on a neutral field
-## Prediction without Player Minutes: Counties Manukau by 2.4
+Hawke's Bay by 1.0 on a neutral field
+## Prediction without Player Minutes: Counties Manukau by 2.1
 
 
-Hawke's Bay by 0.9 on a neutral pitch
+Hawke's Bay by 1.2 on a neutral pitch
 
 
 
@@ -109,7 +109,7 @@ Hawke's Bay by 0.9 on a neutral pitch
 |             80 | Jonah Lowe                 |      46.03 |              50 |       14 |              50 |      46.65 | Peniasi Malimali   |             71 |
 |             63 | Harry Godfrey              |      46.65 |              50 |       15 |              50 |      39.38 | Etene Nanai-Seturo |             80 |
 |             29 | Timothy John Farrell       |      46.65 |              50 |       16 |              50 |      46.65 | Salesi Tuifua      |             33 |
-|             29 | Isaac Salmon               |      46.65 |              50 |       17 |              50 |      46.65 | Abraham Pole       |             29 |
+|             29 | Isaac Salmon               |      46.65 |              50 |       17 |              50 |      15.56 | Ezekiel Lindenmuth |             29 |
 |             29 | Tyrone Thompson            |      42.66 |              50 |       18 |              50 |      46.65 | Nicholas Muli      |             17 |
 |             34 | Isaia Walker-Leawere       |      88.27 |              50 |       19 |              50 |      46.65 | Alex McRobbie      |             17 |
 |             11 | Patrick Tuifua             |      46.65 |              50 |       20 |              50 |      46.65 | Viliami Taulani    |             29 |
