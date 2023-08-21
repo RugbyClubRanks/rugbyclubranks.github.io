@@ -28,42 +28,42 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Romania by 10.9
+## Prediction with Player Minutes: Romania by 11.3
 
 
-Romania by 14.9 on a neutral field
-## Prediction without Player Minutes: Romania by 11.2
+Romania by 15.3 on a neutral field
+## Prediction without Player Minutes: Romania by 11.8
 
 
-Romania by 15.2 on a neutral pitch
+Romania by 15.8 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player       |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player           |   Home Minutes |
 |---------------:|:------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------|---------------:|
-|             80 | Vasile Balan      |      71.24 |       1.01712e+06 |        1 |       1.01713e+06 |      61.97 | Mikheil Nariashvili   |             80 |
-|             80 | Tudor Butnariu    |      71.97 |       1.01711e+06 |        2 |       1.01713e+06 |      61.01 | Giorgi Chkoidze       |             80 |
-|             80 | Costel Burtila    |      79.9  |  992854           |        3 |       1.01713e+06 |      61.3  | Luka Japaridze        |             80 |
-|             80 | Adrian Motoc      |      89.99 |  901488           |        4 |       1.01712e+06 |      63.7  | Nodar Cheishvili      |             80 |
-|             80 | Stefan Iancu      |      70.82 |       1.00384e+06 |        5 |       1.01712e+06 |      64.06 | Lado Chachanidze      |             80 |
-|             80 | Florian Rosu      |      72.19 |       1.01711e+06 |        6 |       1.01712e+06 |      64.46 | Otar Giorgadze        |             80 |
-|             80 | Dragos Ser        |      51.81 |  957577           |        7 |       1.01713e+06 |      61.78 | Mikheil Gachechiladze |             80 |
-|             80 | Andre Gorin       |      72.91 |       1.0171e+06  |        8 |       1.01713e+06 |      61.15 | Luka Ivanishvili      |             80 |
-|             80 | Gabriel Rupanu    |      71.07 |       1.01712e+06 |        9 |       1.01713e+06 |      61.45 | Gela Aprasidze        |             80 |
-|             80 | Vladut Popa       |      72.65 |       1.0171e+06  |       10 |       1.01712e+06 |      63.39 | Luka Matkava          |             80 |
-|             80 | Sioeli Lama       |      71.77 |       1.01711e+06 |       11 |       1.01711e+06 |      66.13 | Otar Lashkhi          |             80 |
-|             80 | Taylor Gontineac  |      73.84 |       1.0171e+06  |       12 |       1.01712e+06 |      63.1  | Merab Sharikadze      |             80 |
-|             80 | Fonovai Tangimana |      72.41 |       1.01711e+06 |       13 |       1.01712e+06 |      62.83 | Demur Tapladze        |             80 |
-|             80 | Nicolas Onutu     |      89.02 |  932849           |       14 |       1.00356e+06 |      73.53 | Aka Tabutsadze        |             80 |
-|             80 | Ionel Melinte     |      69.54 |       1.01674e+06 |       15 |       1.01713e+06 |      62.37 | Mirian Modebadze      |             80 |
-|              0 | Rob Irimescu      |      73.2  |     nan           |       16 |     nan           |      64.93 | Shalva Mamukashvili   |              0 |
-|              0 | Iulian Hartig     |      65.08 |     nan           |       17 |     nan           |      65.47 | Nika Abuladze         |              0 |
-|              0 | Thomas Cretu      |      71.41 |     nan           |       18 |     nan           |      69.85 | Guram Papidze         |              0 |
-|              0 | Andrei Mahu       |     106.18 |  774232           |       19 |     nan           |      61.61 | Lasha Jaiani          |              0 |
-|              0 | Damian Stratila   |      76.44 |  992288           |       20 |     nan           |      68.11 | Giorgi Tsutskiridze   |              0 |
-|              0 | Vladu Bocanet     |      73.5  |     nan           |       21 |     nan           |      66.97 | Vasil Lobzhanidze     |              0 |
-|              0 | Tudor Boldor      |      71.58 |     nan           |       22 |     nan           |      62.16 | Lasha Khmaladze       |              0 |
-|              0 | Paul Popoaia      |      78.47 |     nan           |       23 |     nan           |      62.59 | Giorgi Kveseladze     |              0 |
+|             80 | Vasile Balan      |      71.83 |       1.01797e+06 |        1 |       1.01797e+06 |      62.16 | Mikheil Nariashvili   |             80 |
+|             80 | Tudor Butnariu    |      72.58 |       1.01794e+06 |        2 |       1.01797e+06 |      61.78 | Giorgi Chkoidze       |             80 |
+|             80 | Costel Burtila    |      79.9  |  993476           |        3 |       1.01797e+06 |      61.45 | Luka Japaridze        |             80 |
+|             80 | Adrian Motoc      |      89.99 |  901862           |        4 |       1.01796e+06 |      63.7  | Nodar Cheishvili      |             80 |
+|             80 | Stefan Iancu      |      70.84 |       1.0045e+06  |        5 |       1.01796e+06 |      64.06 | Lado Chachanidze      |             80 |
+|             80 | Florian Rosu      |      72.79 |       1.01794e+06 |        6 |       1.01795e+06 |      64.46 | Otar Giorgadze        |             80 |
+|             80 | Dragos Ser        |      51.81 |  958086           |        7 |       1.01798e+06 |      61.01 | Mikheil Gachechiladze |             80 |
+|             80 | Andre Gorin       |      73.02 |       1.01794e+06 |        8 |       1.01798e+06 |      61.3  | Luka Ivanishvili      |             80 |
+|             80 | Gabriel Rupanu    |      71.67 |       1.01797e+06 |        9 |       1.01797e+06 |      61.61 | Gela Aprasidze        |             80 |
+|             80 | Vladut Popa       |      73.81 |       1.01794e+06 |       10 |       1.01795e+06 |      68.11 | Luka Matkava          |             80 |
+|             80 | Sioeli Lama       |      72.38 |       1.01794e+06 |       11 |       1.01796e+06 |      63.1  | Otar Lashkhi          |             80 |
+|             80 | Taylor Gontineac  |      74.7  |  938686           |       12 |       1.01796e+06 |      62.83 | Merab Sharikadze      |             80 |
+|             80 | Fonovai Tangimana |      72.19 |       1.01794e+06 |       13 |       1.01796e+06 |      62.37 | Demur Tapladze        |             80 |
+|             80 | Nicolas Onutu     |      89.02 |  933285           |       14 |       1.00422e+06 |      73.53 | Aka Tabutsadze        |             80 |
+|             80 | Ionel Melinte     |      68.95 |       1.01744e+06 |       15 |       1.01798e+06 |      61.15 | Mirian Modebadze      |             80 |
+|              0 | Rob Irimescu      |      73.26 |     nan           |       16 |     nan           |      69.85 | Shalva Mamukashvili   |              0 |
+|              0 | Iulian Hartig     |      65.1  |       1.00394e+06 |       17 |     nan           |      64.93 | Nika Abuladze         |              0 |
+|              0 | Thomas Cretu      |      73.53 |     nan           |       18 |     nan           |      65.47 | Guram Papidze         |              0 |
+|              0 | Andrei Mahu       |     106.21 |  774435           |       19 |     nan           |      66.13 | Lasha Jaiani          |              0 |
+|              0 | Damian Stratila   |      76.44 |  992907           |       20 |     nan           |      62.59 | Giorgi Tsutskiridze   |              0 |
+|              0 | Vladu Bocanet     |      72.01 |     nan           |       21 |     nan           |      66.97 | Vasil Lobzhanidze     |              0 |
+|              0 | Tudor Boldor      |      80.93 |  938644           |       22 |     nan           |      61.97 | Lasha Khmaladze       |              0 |
+|              0 | Paul Popoaia      |      78.47 |     nan           |       23 |     nan           |      63.39 | Giorgi Kveseladze     |              0 |
 
 
 # Player Level Predictions - Version 2
@@ -74,10 +74,10 @@ Treating teams instead as an entity made up of the currently active players, I h
 
 
 Georgia by nan on a neutral field
-## Prediction without Player Minutes: Georgia by 4.4
+## Prediction without Player Minutes: Georgia by 4.1
 
 
-Georgia by 1.1 on a neutral pitch
+Georgia by 0.7 on a neutral pitch
 
 
 
@@ -94,7 +94,7 @@ Georgia by 1.1 on a neutral pitch
 |            nan | Gabriel Rupanu    |      46.65 |              50 |        9 |              50 |      46.65 | Gela Aprasidze        |            nan |
 |            nan | Vladut Popa       |      46.65 |              50 |       10 |              50 |      46.65 | Luka Matkava          |            nan |
 |            nan | Sioeli Lama       |      46.65 |              50 |       11 |              50 |      46.65 | Otar Lashkhi          |            nan |
-|            nan | Taylor Gontineac  |      46.65 |              50 |       12 |              50 |      46.65 | Merab Sharikadze      |            nan |
+|            nan | Taylor Gontineac  |      57.33 |              50 |       12 |              50 |      46.65 | Merab Sharikadze      |            nan |
 |            nan | Fonovai Tangimana |      46.65 |              50 |       13 |              50 |      46.65 | Demur Tapladze        |            nan |
 |            nan | Nicolas Onutu     |      62.6  |              50 |       14 |              50 |      46.65 | Aka Tabutsadze        |            nan |
 |            nan | Ionel Melinte     |      46.65 |              50 |       15 |              50 |      46.65 | Mirian Modebadze      |            nan |
@@ -104,6 +104,6 @@ Georgia by 1.1 on a neutral pitch
 |            nan | Andrei Mahu       |      15.7  |              50 |       19 |              50 |      46.65 | Lasha Jaiani          |            nan |
 |            nan | Damian Stratila   |      52.72 |              50 |       20 |              50 |      46.65 | Giorgi Tsutskiridze   |            nan |
 |            nan | Vladu Bocanet     |      46.65 |              50 |       21 |              50 |      46.65 | Vasil Lobzhanidze     |            nan |
-|            nan | Tudor Boldor      |      46.65 |              50 |       22 |              50 |      46.65 | Lasha Khmaladze       |            nan |
+|            nan | Tudor Boldor      |      42.87 |              50 |       22 |              50 |      46.65 | Lasha Khmaladze       |            nan |
 |            nan | Paul Popoaia      |      46.84 |              50 |       23 |              50 |      46.65 | Giorgi Kveseladze     |            nan |
 

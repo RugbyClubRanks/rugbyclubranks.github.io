@@ -60,7 +60,7 @@ key: page-recents
 ## worldcupwarmupmatch
 
 
-[2023](comp_files\worldcupwarmupmatch_2023) - Prediction Accuracy: 75.0% 
+[2023](comp_files\worldcupwarmupmatch_2023) - Prediction Accuracy: 81.0% 
 ## World Cup
 
 
@@ -120,7 +120,7 @@ key: page-recents
 ## Top 14 Orange
 
 
-[2023](comp_files\Top_14_Orange_2023)
+[2023](comp_files\Top_14_Orange_2023) - Prediction Accuracy: 57.1% 
 
 [2022](comp_files\Top_14_Orange_2022) - Prediction Accuracy: 68.0% 
 
@@ -192,7 +192,7 @@ key: page-recents
 ## Bunnings Warehouse NPC
 
 
-[2023](comp_files\Bunnings_Warehouse_NPC_2023) - Prediction Accuracy: 75.0% 
+[2023](comp_files\Bunnings_Warehouse_NPC_2023) - Prediction Accuracy: 69.6% 
 
 [2022](comp_files\Bunnings_Warehouse_NPC_2022) - Prediction Accuracy: 70.1% 
 
@@ -222,7 +222,7 @@ key: page-recents
 ## Pro D2
 
 
-[2023](comp_files\Pro_D2_2023)
+[2023](comp_files\Pro_D2_2023) - Prediction Accuracy: 87.5% 
 
 [2022](comp_files\Pro_D2_2022) - Prediction Accuracy: 67.8% 
 

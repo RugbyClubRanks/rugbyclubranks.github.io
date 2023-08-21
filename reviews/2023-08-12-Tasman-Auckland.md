@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Auckland by 10.2
+## Prediction with Player Minutes: Auckland by 11.6
 
 
-Auckland by 14.2 on a neutral field
-## Prediction without Player Minutes: Auckland by 4.0
+Auckland by 15.6 on a neutral field
+## Prediction without Player Minutes: Auckland by 5.4
 
 
-Auckland by 8.0 on a neutral pitch
+Auckland by 9.4 on a neutral pitch
 
 
 ## Scores over Time
@@ -47,33 +47,33 @@ Auckland by 8.0 on a neutral pitch
 
 ![In Match Predictions](plots/recap_prob_2023-08-12-Tasman-Auckland.png)
 
-There were 9 large changes in win probability in this match
+There were 11 large changes in win probability in this match
 
 |   Away Minutes | Away Player                 |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player            |   Home Minutes |
 |---------------:|:----------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------------|---------------:|
-|             73 | Josh Fusitua                |      78.37 |       1.01694e+06 |        1 |       1.00442e+06 |      89.55 | Kershawl Sykes-Martin  |             75 |
-|             56 | Soane Vikena                |      78.47 |       1.01697e+06 |        2 |       1.01654e+06 |      79.51 | Feleti Kaitu'u         |             57 |
-|             56 | Angus Ta'avao-Matau         |      85.11 |       1.01694e+06 |        3 |       1.01493e+06 |      62.48 | Sam Matenga            |             64 |
-|             80 | Patrick Tuipulotu           |     128.47 |  689525           |        4 |  829781           |      75.36 | Quinten Strange        |             80 |
-|             75 | Josh Beehre                 |      84.04 |       1.01694e+06 |        5 |  852357           |     131.01 | Pari Pari Parkinson    |             28 |
-|             64 | Adrian Choat                |      96.03 |  923512           |        6 |  988955           |      77.24 | Max Hicks              |             80 |
-|             80 | Blake Gibson                |      86.04 |       1.01693e+06 |        7 |  986087           |      61.61 | Anton Segner           |             80 |
-|             80 | Akira Ioane                 |     111.51 |  773217           |        8 |       1.01658e+06 |      79.78 | Tim Sail               |             77 |
-|             56 | Taufa Funaki                |      79.92 |       1.01698e+06 |        9 |       1.01656e+06 |      80.9  | Noah Hotham            |             71 |
-|             80 | Zarn Sullivan               |      95.91 |  979796           |       10 |       1.01657e+06 |      75.86 | Taine Robinson         |             77 |
-|             40 | Caleb Tangitau              |      86.61 |       1.01693e+06 |       11 |       1.01656e+06 |      77.02 | Macca Springer         |             80 |
-|             80 | Harry Plummer               |     106.94 |  891866           |       12 |  785011           |     100.88 | Alex Nankivell         |             80 |
-|             80 | Bryce Heem                  |     100.61 |  495630           |       13 |  770070           |     113.25 | Levi Aumua             |             73 |
-|             80 | AJ Lam                      |      73.63 |  946493           |       14 |  986151           |      74.51 | Timoci Tavatavanawai   |             80 |
-|             80 | Roger Tuivasa-Scheck        |      83.3  |       1.01715e+06 |       15 |       1.01715e+06 |      79.51 | Tomasi Alosio Logotuli |             80 |
-|             24 | Leni Apisai                 |      80.12 |       1.01695e+06 |       16 |     nan           |      81.24 | Quentin MacDonald      |             23 |
-|             24 | Sione Ahio                  |      83.5  |     nan           |       17 |     nan           |      83.89 | Atunaisa Moli          |             16 |
-|              7 | Ben Ake                     |      83.71 |     nan           |       18 |     nan           |      79.11 | Matt Graham-Williams   |              5 |
-|              5 | Hamish Dalzell              |      59.94 |       1.01598e+06 |       19 |     nan           |      78.74 | Angus Fletcher         |              3 |
-|             16 | Che Clark                   |      80.69 |     nan           |       20 |     nan           |      78.92 | Antonio Shalfoon       |             52 |
-|             24 | Kalani Thomas               |      78.96 |     nan           |       21 |       1.01607e+06 |      86.05 | Louie Chapman          |              9 |
-|             40 | Salesi Tuivuna Mauri Rayasi |      82.76 |       1.01697e+06 |       22 |     nan           |      76.41 | Tim O'Malley           |              3 |
-|            nan | nan                         |     nan    |     nan           |       23 |     nan           |      79.3  | Will Gualter           |              7 |
+|             73 | Josh Fusitua                |      78.13 |       1.01776e+06 |        1 |       1.00508e+06 |      89.82 | Kershawl Sykes-Martin  |             75 |
+|             56 | Soane Vikena                |      82.35 |       1.0177e+06  |        2 |       1.01717e+06 |      78.95 | Feleti Kaitu'u         |             57 |
+|             56 | Angus Ta'avao-Matau         |      85.76 |       1.01772e+06 |        3 |       1.01547e+06 |      55.5  | Sam Matenga            |             64 |
+|             80 | Patrick Tuipulotu           |     128.51 |  689647           |        4 |  830058           |      75.43 | Quinten Strange        |             80 |
+|             75 | Josh Beehre                 |      84.69 |       1.01775e+06 |        5 |  852647           |     131.1  | Pari Pari Parkinson    |             28 |
+|             64 | Adrian Choat                |      96.57 |  923928           |        6 |  989569           |      77.76 | Max Hicks              |             80 |
+|             80 | Blake Gibson                |      83.4  |       1.01776e+06 |        7 |  986690           |      62.08 | Anton Segner           |             80 |
+|             80 | Akira Ioane                 |     111.55 |  773418           |        8 |       1.01718e+06 |      80.92 | Tim Sail               |             77 |
+|             56 | Taufa Funaki                |      84.68 |       1.0177e+06  |        9 |       1.0172e+06  |      80.26 | Noah Hotham            |             71 |
+|             80 | Zarn Sullivan               |      96.48 |  980374           |       10 |       1.01722e+06 |      75.36 | Taine Robinson         |             77 |
+|             40 | Caleb Tangitau              |      85.37 |       1.01774e+06 |       11 |       1.01719e+06 |      76.64 | Macca Springer         |             80 |
+|             80 | Harry Plummer               |     107.46 |  892221           |       12 |  785228           |     100.88 | Alex Nankivell         |             80 |
+|             80 | Bryce Heem                  |     101.2  |  495662           |       13 |  770266           |     113.7  | Levi Aumua             |             73 |
+|             80 | AJ Lam                      |      73.62 |  946978           |       14 |  986755           |      74.95 | Timoci Tavatavanawai   |             80 |
+|             80 | Roger Tuivasa-Scheck        |      83.98 |       1.01801e+06 |       15 |       1.01802e+06 |      78.61 | Tomasi Alosio Logotuli |             80 |
+|             24 | Leni Apisai                 |      79.94 |       1.01777e+06 |       16 |       1.0172e+06  |      80.57 | Quentin MacDonald      |             23 |
+|             24 | Sione Ahio                  |      84.19 |     nan           |       17 |     nan           |      83.04 | Atunaisa Moli          |             16 |
+|              7 | Ben Ake                     |      83.78 |     nan           |       18 |     nan           |      79.2  | Matt Graham-Williams   |              5 |
+|              5 | Hamish Dalzell              |      59.16 |       1.01634e+06 |       19 |     nan           |      78.43 | Angus Fletcher         |              3 |
+|             16 | Che Clark                   |      78.45 |     nan           |       20 |       1.01802e+06 |      78.79 | Antonio Shalfoon       |             52 |
+|             24 | Kalani Thomas               |      80.21 |       1.01774e+06 |       21 |       1.01648e+06 |      87.02 | Louie Chapman          |              9 |
+|             40 | Salesi Tuivuna Mauri Rayasi |      86.2  |       1.01771e+06 |       22 |       1.0172e+06  |      76.64 | Tim O'Malley           |              3 |
+|            nan | nan                         |     nan    |     nan           |       23 |     nan           |      78.99 | Will Gualter           |              7 |
 
 
 # Player Level Predictions - Version 2

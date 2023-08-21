@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Portugal by 10.1
+## Prediction with Player Minutes: Portugal by 10.6
 
 
-Portugal by 6.1 on a neutral field
-## Prediction without Player Minutes: Portugal by 9.4
+Portugal by 6.6 on a neutral field
+## Prediction without Player Minutes: Portugal by 9.8
 
 
-Portugal by 5.4 on a neutral pitch
+Portugal by 5.8 on a neutral pitch
 
 
 ## Scores over Time
@@ -51,29 +51,29 @@ There were 7 large changes in win probability in this match
 
 |   Away Minutes | Away Player     |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                    |   Home Minutes |
 |---------------:|:----------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------------------|---------------:|
-|             67 | Jack Iscaro     |      77.28 |       1.01546e+06 |        1 |       1.01716e+06 |      78    | Francisco Fernandes            |             58 |
-|             72 | Dylan Fawsitt   |      59.41 |       1.01595e+06 |        2 |       1.01612e+06 |      71.63 | Mike Tadjer                    |             56 |
-|             40 | Kaleb Geiger    |      76.72 |  996910           |        3 |       1.01466e+06 |      87.1  | Anthony Alves                  |             59 |
-|             77 | Cam Dolan       |      69.58 |       1.01615e+06 |        4 |       1.01471e+06 |      76.39 | José Duarte Madeira            |             80 |
-|             80 | Greg Peterson   |      69.1  |       1.01673e+06 |        5 |       1.01716e+06 |      76.26 | Steevy Cerqueira               |             23 |
-|             80 | Sam Golla       |      71.25 |       1.01462e+06 |        6 |       1.01716e+06 |      77.65 | Joao Granate                   |             80 |
-|             80 | Paddy Ryan      |      65.52 |       1.0155e+06  |        7 |       1.00463e+06 |      76.45 | Nicolas Martins                |             80 |
-|             62 | Luke White      |      64.37 |       1.01495e+06 |        8 |       1.01717e+06 |      75.08 | Thibault De Freitas            |             14 |
-|             62 | Nick McCarthy   |      68.65 |       1.01674e+06 |        9 |       1.01717e+06 |      75.62 | Samuel Marques                 |             73 |
-|             80 | Luke Carty      |      62.14 |       1.01497e+06 |       10 |  972756           |     102.04 | Joris Moura                    |             54 |
-|             80 | Nate Augspurger |      84.01 |       1.016e+06   |       11 |       1.01465e+06 |      77.26 | Rodrigo Marta                  |             80 |
-|             80 | Tevita Lopeti   |      70.84 |       1.01488e+06 |       12 |       1.01717e+06 |      75.25 | Tomas Appleton                 |             80 |
-|             58 | Mika Kruse      |      80.06 |       1.01484e+06 |       13 |       1.01716e+06 |      76.75 | José Lima                      |             80 |
-|             80 | Christian Dyer  |      81.27 |       1.01486e+06 |       14 |       1.01717e+06 |      75.43 | Vincent Pinto                  |             69 |
-|             59 | Mitch Wilson    |      93.8  |       1.015e+06   |       15 |       1.01716e+06 |      76.03 | Nuno Sousa Guedes              |             80 |
-|             13 | Jake Turnbull   |      87.2  |  817050           |       16 |     nan           |      78.4  | David Costa                    |             22 |
-|             40 | Paul Mullen     |      75.12 |       1.01483e+06 |       17 |  348715           |      93.17 | Lionel Campergue               |             24 |
-|              8 | Peter Malcolm   |      71.17 |       1.01498e+06 |       18 |  928544           |      81.77 | Diogo Hasse Ferreira           |             21 |
-|             18 | Thomas Tu'avao  |      73.06 |  959098           |       19 |     nan           |      77.33 | David Wallis De Carvalho       |             57 |
-|              3 | Vili Helu       |     108    |  959240           |       20 |     nan           |      75.82 | Rafael Simoes                  |             66 |
-|             18 | Ruben de Haas   |      74.88 |     nan           |       21 |  988883           |      76.88 | Pedro Lucas                    |              7 |
-|             21 | Chris Mattina   |     116.27 |  932182           |       22 |     nan           |      76.5  | Miguel Jeronimo Portela Morais |             26 |
-|             22 | Lauina Futi     |     109.31 |  981029           |       23 |     nan           |      77.03 | Manuel Cardoso Pinto           |             11 |
+|             67 | Jack Iscaro     |      74.72 |           1015438 |        1 |       1.01803e+06 |      77.02 | Francisco Fernandes            |             58 |
+|             72 | Dylan Fawsitt   |      57.69 |           1016361 |        2 |       1.01661e+06 |      69.39 | Mike Tadjer                    |             56 |
+|             40 | Kaleb Geiger    |      75.66 |            997553 |        3 |       1.01803e+06 |      75.21 | Anthony Alves                  |             59 |
+|             77 | Cam Dolan       |      71.18 |           1016654 |        4 |       1.01528e+06 |      79.39 | José Duarte Madeira            |             80 |
+|             80 | Greg Peterson   |      68.32 |           1017427 |        5 |       1.01804e+06 |      74.82 | Steevy Cerqueira               |             23 |
+|             80 | Sam Golla       |      64.27 |           1016686 |        6 |       1.01803e+06 |      76.7  | Joao Granate                   |             80 |
+|             80 | Paddy Ryan      |      67.6  |           1015583 |        7 |       1.00529e+06 |      76.45 | Nicolas Martins                |             80 |
+|             62 | Luke White      |      65.53 |           1015534 |        8 |       1.01803e+06 |      75.88 | Thibault De Freitas            |             14 |
+|             62 | Nick McCarthy   |      68.16 |           1017430 |        9 |       1.01804e+06 |      75.01 | Samuel Marques                 |             73 |
+|             80 | Luke Carty      |      66.63 |           1015526 |       10 |  973313           |     101.5  | Joris Moura                    |             54 |
+|             80 | Nate Augspurger |      79.25 |           1016411 |       11 |       1.01516e+06 |      79.76 | Rodrigo Marta                  |             80 |
+|             80 | Tevita Lopeti   |      66.3  |           1015504 |       12 |       1.01804e+06 |      74.48 | Tomas Appleton                 |             80 |
+|             58 | Mika Kruse      |      81.75 |           1015620 |       13 |       1.01803e+06 |      76.13 | José Lima                      |             80 |
+|             80 | Christian Dyer  |      80.35 |           1015559 |       14 |       1.01802e+06 |      77.76 | Vincent Pinto                  |             69 |
+|             59 | Mitch Wilson    |      88.65 |           1015396 |       15 |       1.01803e+06 |      75.42 | Nuno Sousa Guedes              |             80 |
+|             13 | Jake Turnbull   |      86.6  |            817309 |       16 |     nan           |      78.19 | David Costa                    |             22 |
+|             40 | Paul Mullen     |      75.32 |           1015629 |       17 |  348727           |      93.17 | Lionel Campergue               |             24 |
+|              8 | Peter Malcolm   |      65.09 |           1015487 |       18 |  928970           |      81.94 | Diogo Hasse Ferreira           |             21 |
+|             18 | Thomas Tu'avao  |      75.99 |            959618 |       19 |     nan           |      77.37 | David Wallis De Carvalho       |             57 |
+|              3 | Vili Helu       |     109.8  |            959758 |       20 |     nan           |      74.64 | Rafael Simoes                  |             66 |
+|             18 | Ruben de Haas   |      74.29 |           1018036 |       21 |  989496           |      76.88 | Pedro Lucas                    |              7 |
+|             21 | Chris Mattina   |     121.24 |            932617 |       22 |     nan           |      75.64 | Miguel Jeronimo Portela Morais |             26 |
+|             22 | Lauina Futi     |     110.24 |            981612 |       23 |     nan           |      76.4  | Manuel Cardoso Pinto           |             11 |
 
 
 # Player Level Predictions - Version 2
