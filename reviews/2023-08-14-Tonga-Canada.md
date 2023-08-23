@@ -51,29 +51,29 @@ There were 2 large changes in win probability in this match
 
 |   Away Minutes | Away Player         |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player           |   Home Minutes |
 |---------------:|:--------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------|---------------:|
-|             37 | Liam Murray         |      70.82 |  983540           |        1 |  943544           |      48.64 | Ziggy Fisi'ihoi       |             82 |
-|             67 | Andrew Quattrin     |      67.09 |  946561           |        2 |       1.01807e+06 |      77.95 | Sosefo Sakalia        |             52 |
-|             39 | Conor Young         |      65.37 |       1.0153e+06  |        3 |  574520           |     102.55 | Ben Tameifuna         |             41 |
-|             82 | Izzak Kelly         |      72.01 |       1.0179e+06  |        4 |  462932           |      90.13 | Steve Mafi            |             66 |
-|             71 | Conor Keys          |      72.62 |  872697           |        5 |  692094           |     119.89 | Vaea Fifita           |             82 |
-|             82 | Lucas Rumball       |      97.03 |  823528           |        6 |  895364           |      58.89 | Samiuela Moli         |             82 |
-|             77 | Sion Parry          |      66.5  |       1.01789e+06 |        7 |       1.01808e+06 |      77.72 | Sione Tupou           |             66 |
-|             67 | Siaki Vikilani      |      65.87 |  981673           |        8 |  924724           |      65.92 | Solomone Funaki       |             82 |
-|             61 | Jason Higgins       |      40.96 |  978603           |        9 |       1.0171e+06  |      72.72 | Sonatane Takulua      |             62 |
-|             82 | Robbie Povey        |     105.96 |  960162           |       10 |  991086           |     111.98 | William Havili        |             62 |
-|             82 | Isaac Olson         |      66.69 |       1.01531e+06 |       11 |  944456           |      85.09 | John Ika              |             82 |
-|             67 | Spencer Jones       |      76.09 |       1.01536e+06 |       12 |  575382           |      85.75 | Pita Ahki             |             71 |
-|             82 | Mitchell Richardson |      68.06 |       1.01789e+06 |       13 |  945892           |      58.12 | Fine Inisi            |             82 |
-|             82 | Kainoa Lloyd        |      79.46 |  902016           |       14 |       1.01709e+06 |      82.25 | Kyren Taumoefolau     |             82 |
-|             82 | Peter Nelson        |     103.27 |  579919           |       15 |  877971           |      85.91 | Otumaka Mausia        |             82 |
-|             15 | Foster Dewitt       |      66.68 |     nan           |       16 |  525975           |      80.68 | Paula Ngauamo         |             30 |
-|             45 | Djustice Sears-Duru |      65.4  |  793558           |       17 |  788344           |      86.86 | Feao Fotuaika         |             41 |
-|             43 | Cole Keith          |      74.7  |  912325           |       18 |     nan           |      77.51 | Paula Latu            |             41 |
-|             11 | Piers Von Dadelszen |      67.97 |     nan           |       19 |     nan           |      77.3  | Vutulongo Puloka      |             16 |
-|              5 | Mason Flesch        |      53.98 |       1.01538e+06 |       20 |     nan           |      77.11 | Christopher Hala'ufia |             16 |
-|             15 | Travis Larsen       |      66.17 |     nan           |       21 |     nan           |      76.92 | Feleti Inoke          |             11 |
-|             21 | Ross Braude         |      81.05 |  978964           |       22 |       1.01709e+06 |      77.48 | Patrick Pellegrini    |             20 |
-|             15 | Gabe Casey          |      68.82 |     nan           |       23 |     nan           |      76.75 | Tasi Feke             |             20 |
+|             37 | Liam Murray         |      70.85 |  983547           |        1 |  943550           |      48.64 | Ziggy Fisi'ihoi       |             82 |
+|             67 | Andrew Quattrin     |      67.15 |  946567           |        2 |       1.0181e+06  |      77.48 | Sosefo Sakalia        |             52 |
+|             39 | Conor Young         |      63.56 |       1.0154e+06  |        3 |  574520           |     102.53 | Ben Tameifuna         |             41 |
+|             82 | Izzak Kelly         |      71.95 |       1.01793e+06 |        4 |  462932           |      90.09 | Steve Mafi            |             66 |
+|             71 | Conor Keys          |      72.69 |  872701           |        5 |  692095           |     119.88 | Vaea Fifita           |             82 |
+|             82 | Lucas Rumball       |      97.09 |  823531           |        6 |  895369           |      58.89 | Samiuela Moli         |             82 |
+|             77 | Sion Parry          |      66.2  |       1.01792e+06 |        7 |       1.01811e+06 |      77.28 | Sione Tupou           |             66 |
+|             67 | Siaki Vikilani      |      65.91 |  981680           |        8 |  924730           |      65.87 | Solomone Funaki       |             82 |
+|             61 | Jason Higgins       |      40.97 |  978610           |        9 |       1.01711e+06 |      72.67 | Sonatane Takulua      |             62 |
+|             82 | Robbie Povey        |     106.02 |  960168           |       10 |  991097           |     111.98 | William Havili        |             62 |
+|             82 | Isaac Olson         |      65.3  |       1.01539e+06 |       11 |  944462           |      85.09 | John Ika              |             82 |
+|             67 | Spencer Jones       |      77.96 |       1.01532e+06 |       12 |  575382           |      85.75 | Pita Ahki             |             71 |
+|             82 | Mitchell Richardson |      68.14 |       1.01792e+06 |       13 |  945898           |      58.07 | Fine Inisi            |             82 |
+|             82 | Kainoa Lloyd        |      79.52 |  902021           |       14 |       1.01711e+06 |      82.2  | Kyren Taumoefolau     |             82 |
+|             82 | Peter Nelson        |     103.33 |  579919           |       15 |  877975           |      85.9  | Otumaka Mausia        |             82 |
+|             15 | Foster Dewitt       |      66.57 |     nan           |       16 |  525975           |      80.66 | Paula Ngauamo         |             30 |
+|             45 | Djustice Sears-Duru |      65.42 |  793561           |       17 |  788347           |      86.84 | Feao Fotuaika         |             41 |
+|             43 | Cole Keith          |      74.73 |  912330           |       18 |     nan           |      77.09 | Paula Latu            |             41 |
+|             11 | Piers Von Dadelszen |      67.87 |     nan           |       19 |     nan           |      76.73 | Vutulongo Puloka      |             16 |
+|              5 | Mason Flesch        |      54.2  |       1.01533e+06 |       20 |     nan           |      77.93 | Christopher Hala'ufia |             16 |
+|             15 | Travis Larsen       |      66.06 |     nan           |       21 |     nan           |      76.9  | Feleti Inoke          |             11 |
+|             21 | Ross Braude         |      81.1  |  978971           |       22 |       1.0171e+06  |      77.43 | Patrick Pellegrini    |             20 |
+|             15 | Gabe Casey          |      68.77 |     nan           |       23 |     nan           |      77.7  | Tasi Feke             |             20 |
 
 
 # Player Level Predictions - Version 2

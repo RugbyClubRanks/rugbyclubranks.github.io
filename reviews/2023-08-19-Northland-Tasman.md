@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Tasman by 18.1
+## Prediction with Player Minutes: Tasman by 18.6
 
 
-Tasman by 22.1 on a neutral field
-## Prediction without Player Minutes: Tasman by 15.0
+Tasman by 22.6 on a neutral field
+## Prediction without Player Minutes: Tasman by 15.4
 
 
-Tasman by 19.0 on a neutral pitch
+Tasman by 19.4 on a neutral pitch
 
 
 ## Scores over Time
@@ -47,33 +47,33 @@ Tasman by 19.0 on a neutral pitch
 
 ![In Match Predictions](plots/recap_prob_2023-08-19-Northland-Tasman.png)
 
-There were 6 large changes in win probability in this match
+There were 7 large changes in win probability in this match
 
 |   Away Minutes | Away Player            |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player           |   Home Minutes |
 |---------------:|:-----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------|---------------:|
-|             47 | Ryan Cameron Coxon     |      80.15 |       1.01721e+06 |        1 |       1.01664e+06 |      53.1  | Jarred Adams          |             55 |
-|             47 | Quentin MacDonald      |      82.94 |       1.0172e+06  |        2 |       1.01763e+06 |      71.05 | Bruce Kauika-Peterson |             59 |
-|             47 | Sam Matenga            |      62.08 |       1.01547e+06 |        3 |       1.01768e+06 |      71.33 | Remsy Lemisio         |             59 |
-|             80 | Antonio Shalfoon       |      84.14 |       1.01802e+06 |        4 |       1.01762e+06 |      67.93 | Sam Weir Caird        |             80 |
-|             80 | Quinten Strange        |      77.85 |  830058           |        5 |       1.01663e+06 |      55.38 | Liam Hallam-Eames     |             40 |
-|             80 | Max Hicks              |      85.99 |  989569           |        6 |       1.01761e+06 |      73.12 | Rob Rush              |             80 |
-|             80 | Anton Segner           |      70.31 |  986690           |        7 |       1.01761e+06 |      67.9  | Jonah Mau'u           |             80 |
-|             69 | Tim Sail               |      88.84 |       1.01718e+06 |        8 |       1.01788e+06 |      70.69 | Sam McNamara          |             25 |
-|             47 | Noah Hotham            |      87.56 |       1.0172e+06  |        9 |       1.01765e+06 |      70.84 | Lisati Milo-Harris    |             55 |
-|             47 | Tim O'Malley           |      76.95 |       1.0172e+06  |       10 |       1.01768e+06 |      72.41 | Rivez Reihana         |             55 |
-|             80 | Macca Springer         |      84.87 |       1.01719e+06 |       11 |       1.01769e+06 |      67.6  | Heremaia Murray       |             80 |
-|             80 | Alex Nankivell         |     103.31 |  785228           |       12 |       1.01806e+06 |      67.54 | Blake Hohaia          |             80 |
-|             80 | Levi Aumua             |     121.21 |  770266           |       13 |  827447           |      97.69 | Tamati Tua            |             40 |
-|             80 | Timoci Tavatavanawai   |      83.18 |  986755           |       14 |       1.01763e+06 |      70.44 | Brady Rush            |             80 |
-|             59 | Tomasi Alosio Logotuli |      86.84 |       1.01802e+06 |       15 |  945194           |      85.67 | Joshua Moorby         |             80 |
-|             33 | Kershawl Sykes-Martin  |      97.54 |       1.00508e+06 |       16 |       1.01767e+06 |      68.51 | Matt Matich           |             55 |
-|             33 | Luca Inch              |      80.9  |     nan           |       17 |  739072           |     102.69 | Jack Goodhue          |             40 |
-|             33 | Taine Robinson         |      83.28 |       1.01722e+06 |       18 |     nan           |      68.13 | Hayden Jurlina        |             40 |
-|             33 | Louie Chapman          |      87.94 |       1.01648e+06 |       19 |       1.01764e+06 |      63.82 | Daniel Hawkins        |             25 |
-|             33 | Feleti Kaitu'u         |      84.82 |       1.01717e+06 |       20 |       1.01558e+06 |      72.47 | Rob Cobb              |             25 |
-|             21 | Will Gualter           |      79.71 |     nan           |       21 |     nan           |      65.78 | Trent Hape            |             25 |
-|             11 | Angus Fletcher         |      78.74 |     nan           |       22 |       1.01769e+06 |      70.15 | Matt Moulds           |             21 |
-|            nan | nan                    |     nan    |     nan           |       23 |     nan           |      67.98 | Coree Te Whata-Colley |             21 |
+|             47 | Ryan Cameron Coxon     |      81.02 |       1.0172e+06  |        1 |       1.01664e+06 |      53.68 | Jarred Adams          |             55 |
+|             47 | Quentin MacDonald      |      82.5  |       1.01722e+06 |        2 |       1.0177e+06  |      69.3  | Bruce Kauika-Peterson |             59 |
+|             47 | Sam Matenga            |      61.63 |       1.01551e+06 |        3 |       1.01763e+06 |      75.54 | Remsy Lemisio         |             59 |
+|             80 | Antonio Shalfoon       |      84    |       1.01805e+06 |        4 |       1.01772e+06 |      64.29 | Sam Weir Caird        |             80 |
+|             80 | Quinten Strange        |      77.88 |  830062           |        5 |       1.01663e+06 |      56.05 | Liam Hallam-Eames     |             40 |
+|             80 | Max Hicks              |      86.09 |  989580           |        6 |       1.01769e+06 |      69.08 | Rob Rush              |             80 |
+|             80 | Anton Segner           |      70.4  |  986699           |        7 |       1.01767e+06 |      65.34 | Jonah Mau'u           |             80 |
+|             69 | Tim Sail               |      89.43 |       1.01718e+06 |        8 |       1.0179e+06  |      71.17 | Sam McNamara          |             25 |
+|             47 | Noah Hotham            |      88.08 |       1.01719e+06 |        9 |       1.01766e+06 |      71.59 | Lisati Milo-Harris    |             55 |
+|             47 | Tim O'Malley           |      76.56 |       1.01722e+06 |       10 |       1.01766e+06 |      73.41 | Rivez Reihana         |             55 |
+|             80 | Macca Springer         |      84.45 |       1.01721e+06 |       11 |       1.01765e+06 |      70.16 | Heremaia Murray       |             80 |
+|             80 | Alex Nankivell         |     103.32 |  785231           |       12 |       1.01809e+06 |      67.66 | Blake Hohaia          |             80 |
+|             80 | Levi Aumua             |     121.3  |  770268           |       13 |  827450           |      97.24 | Tamati Tua            |             40 |
+|             80 | Timoci Tavatavanawai   |      83.28 |  986765           |       14 |       1.01768e+06 |      68.57 | Brady Rush            |             80 |
+|             59 | Tomasi Alosio Logotuli |      87.49 |       1.01804e+06 |       15 |  945200           |      85.6  | Joshua Moorby         |             80 |
+|             33 | Kershawl Sykes-Martin  |      97.61 |       1.00509e+06 |       16 |       1.01764e+06 |      70.52 | Matt Matich           |             55 |
+|             33 | Luca Inch              |      80.99 |     nan           |       17 |  739073           |     102.6  | Jack Goodhue          |             40 |
+|             33 | Taine Robinson         |      85.15 |       1.01718e+06 |       18 |     nan           |      68.18 | Hayden Jurlina        |             40 |
+|             33 | Louie Chapman          |      87.98 |       1.01649e+06 |       19 |       1.0177e+06  |      62.41 | Daniel Hawkins        |             25 |
+|             33 | Feleti Kaitu'u         |      83.61 |       1.01721e+06 |       20 |       1.01554e+06 |      73.22 | Rob Cobb              |             25 |
+|             21 | Will Gualter           |      79.74 |     nan           |       21 |     nan           |      65.9  | Trent Hape            |             25 |
+|             11 | Angus Fletcher         |      78.76 |     nan           |       22 |       1.01764e+06 |      73.73 | Matt Moulds           |             21 |
+|            nan | nan                    |     nan    |     nan           |       23 |     nan           |      68.02 | Coree Te Whata-Colley |             21 |
 
 
 # Player Level Predictions - Version 2

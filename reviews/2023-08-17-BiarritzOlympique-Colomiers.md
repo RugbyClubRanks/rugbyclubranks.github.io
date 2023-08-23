@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Colomiers by 5.9
+## Prediction with Player Minutes: Colomiers by 6.4
 
 
-Colomiers by 9.9 on a neutral field
-## Prediction without Player Minutes: Colomiers by 6.6
+Colomiers by 10.4 on a neutral field
+## Prediction without Player Minutes: Colomiers by 7.2
 
 
-Colomiers by 10.6 on a neutral pitch
+Colomiers by 11.2 on a neutral pitch
 
 
 ## Scores over Time
@@ -47,33 +47,33 @@ Colomiers by 10.6 on a neutral pitch
 
 ![In Match Predictions](plots/recap_prob_2023-08-17-BiarritzOlympique-Colomiers.png)
 
-There were 7 large changes in win probability in this match
+There were 8 large changes in win probability in this match
 
 |   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player              |   Home Minutes |
 |---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------------|---------------:|
-|             53 | Guillaume Tartas      |      74.02 |  953157           |        1 |       1.01812e+06 |      68.7  | Zakaria El Fakir         |             40 |
-|             44 | Thomas Larrieu        |      59.01 |  605664           |        2 |       1.01812e+06 |      68.87 | Brendan Le Brun          |             50 |
-|             44 | Hugo Pirlet           |      63.68 |  876990           |        3 |       1.01812e+06 |      69.04 | Mohamed Haouas           |             57 |
-|             53 | Louis Descoux         |      86.32 |       1.01202e+06 |        4 |       1.01812e+06 |      69.22 | Johan Aliouat            |             50 |
-|             80 | Maxime Granouillet    |     103.38 |  746082           |        5 |       1.01812e+06 |      69.41 | Charlie Matthews         |             80 |
-|             80 | Robert Harley         |      75.81 |       1.0181e+06  |        6 |       1.01812e+06 |      69.62 | John Dyer                |             80 |
-|             80 | Aldric Lescure        |      93.99 |  659199           |        7 |       1.0055e+06  |      79.08 | Thomas Hebert            |             57 |
-|              6 | Romain Bezian         |      95.96 |  679042           |        8 |       1.00991e+06 |      87.88 | Temo Matiu               |             80 |
-|             54 | Ugo Seguela           |      64.96 |  967893           |        9 |       1.01811e+06 |      70.07 | Rhys Webb                |             63 |
-|             80 | Brett Herron          |      75.44 |       1.0181e+06  |       10 |       1.01812e+06 |      68.55 | Ilian Perraux            |             80 |
-|             80 | Martin Dulon          |      72.24 |  964594           |       11 |       1.01811e+06 |      72.42 | Vincent Martin           |             29 |
-|             80 | Dorian Laborde        |      77.81 |       1.0166e+06  |       12 |       1.01594e+06 |      79.2  | Yann David               |             40 |
-|             80 | Enzo Salles           |      75.27 |       1.01812e+06 |       13 |       1.01811e+06 |      70.59 | Tyler Morgan             |             80 |
-|             33 | Paul Pimienta         |     104.45 |  876605           |       14 |       1.01457e+06 |      77.96 | Zach Kibirige            |             80 |
-|             54 | Ugo Pacome            |      75.62 |       1.0181e+06  |       15 |       1.01811e+06 |      70.89 | Joe Jonas                |             80 |
-|             74 | Jeremy Bechu          |      76.01 |     nan           |       16 |     nan           |      71.21 | Gervais Cordin           |             51 |
-|             47 | Fabien Perrin         |      82.68 |  619164           |       17 |       1.01567e+06 |      56.82 | Christopher Hilsenbeck   |             40 |
-|             36 | Pablo Dimcheff        |      77.22 |     nan           |       18 |     nan           |      71.57 | Guy Millar               |             40 |
-|             36 | Marco Fepulea'i       |      76.94 |     nan           |       19 |     nan           |      71.97 | Tiaan Jacobs             |             30 |
-|             27 | Pierre-Samuel Pacheco |      78.13 |  991247           |       20 |       1.01016e+06 |      79.75 | Killian Taofifenua       |             30 |
-|             27 | Jack Whetton          |      76.68 |     nan           |       21 |     nan           |      69.84 | Kevin Tougne             |             23 |
-|             26 | Edoardo Gori          |      76.44 |     nan           |       22 |     nan           |      70.32 | Pieter Jansen van Vuuren |             23 |
-|             26 | Maxime Javaux         |      76.22 |     nan           |       23 |     nan           |      72.94 | Antoine Domercq          |             17 |
+|             53 | Guillaume Tartas      |      74.02 |  953163           |        1 |       1.01814e+06 |      69.16 | Zakaria El Fakir         |             40 |
+|             44 | Thomas Larrieu        |      59.01 |  605664           |        2 |       1.01815e+06 |      68.77 | Brendan Le Brun          |             50 |
+|             44 | Hugo Pirlet           |      63.68 |  876994           |        3 |       1.01813e+06 |      72.47 | Mohamed Haouas           |             57 |
+|             53 | Louis Descoux         |      86.32 |       1.01203e+06 |        4 |       1.01815e+06 |      68.25 | Johan Aliouat            |             50 |
+|             80 | Maxime Granouillet    |     103.38 |  746083           |        5 |       1.01814e+06 |      68.96 | Charlie Matthews         |             80 |
+|             80 | Robert Harley         |      76.45 |       1.01813e+06 |        6 |       1.01815e+06 |      68.1  | John Dyer                |             80 |
+|             80 | Aldric Lescure        |      93.99 |  659200           |        7 |       1.00552e+06 |      79.08 | Thomas Hebert            |             57 |
+|              6 | Romain Bezian         |      95.96 |  679043           |        8 |       1.00992e+06 |      87.88 | Temo Matiu               |             80 |
+|             54 | Ugo Seguela           |      64.96 |  967899           |        9 |       1.01813e+06 |      71.5  | Rhys Webb                |             63 |
+|             80 | Brett Herron          |      75.28 |       1.01815e+06 |       10 |       1.01814e+06 |      69.61 | Ilian Perraux            |             80 |
+|             80 | Martin Dulon          |      72.24 |  964600           |       11 |       1.01814e+06 |      70.13 | Vincent Martin           |             29 |
+|             80 | Dorian Laborde        |      77.95 |       1.01662e+06 |       12 |       1.01601e+06 |      75.62 | Yann David               |             40 |
+|             80 | Enzo Salles           |      75.63 |       1.01814e+06 |       13 |       1.01813e+06 |      70.75 | Tyler Morgan             |             80 |
+|             33 | Paul Pimienta         |     104.45 |  876609           |       14 |       1.01458e+06 |      77.96 | Zach Kibirige            |             80 |
+|             54 | Ugo Pacome            |      76.23 |       1.01813e+06 |       15 |       1.01814e+06 |      69.86 | Joe Jonas                |             80 |
+|             74 | Jeremy Bechu          |      76.02 |     nan           |       16 |     nan           |      68.42 | Gervais Cordin           |             51 |
+|             47 | Fabien Perrin         |      82.68 |  619164           |       17 |       1.01563e+06 |      57.39 | Christopher Hilsenbeck   |             40 |
+|             36 | Pablo Dimcheff        |      77.23 |     nan           |       18 |     nan           |      69.38 | Guy Millar               |             40 |
+|             36 | Marco Fepulea'i       |      76.69 |     nan           |       19 |     nan           |      71.1  | Tiaan Jacobs             |             30 |
+|             27 | Pierre-Samuel Pacheco |      78.13 |  991258           |       20 |       1.01018e+06 |      79.75 | Killian Taofifenua       |             30 |
+|             27 | Jack Whetton          |      75.82 |     nan           |       21 |     nan           |      71.95 | Kevin Tougne             |             23 |
+|             26 | Edoardo Gori          |      75.45 |     nan           |       22 |     nan           |      70.42 | Pieter Jansen van Vuuren |             23 |
+|             26 | Maxime Javaux         |      76.95 |     nan           |       23 |     nan           |      68.59 | Antoine Domercq          |             17 |
 
 
 # Player Level Predictions - Version 2

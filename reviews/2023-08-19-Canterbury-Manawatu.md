@@ -32,10 +32,10 @@ Treating teams instead as an entity made up of the currently active players, I h
 
 
 Canterbury by 30.2 on a neutral field
-## Prediction without Player Minutes: Canterbury by 34.1
+## Prediction without Player Minutes: Canterbury by 34.6
 
 
-Canterbury by 30.1 on a neutral pitch
+Canterbury by 30.6 on a neutral pitch
 
 
 ## Scores over Time
@@ -47,33 +47,33 @@ Canterbury by 30.1 on a neutral pitch
 
 ![In Match Predictions](plots/recap_prob_2023-08-19-Canterbury-Manawatu.png)
 
-There were 8 large changes in win probability in this match
+There were 10 large changes in win probability in this match
 
 |   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
-|             43 | Joseph Gavigan        |      71.93 |       1.01754e+06 |        1 |       1.0183e+06  |      88.15 | Joe Moody            |             41 |
-|             43 | Leif Schwenke         |      68.06 |       1.01806e+06 |        2 |       1.01766e+06 |      84.72 | Ben Funnell          |             46 |
-|             43 | Flyn Yates            |      68.11 |       1.01755e+06 |        3 |  829268           |     105.98 | Oli Jager            |              2 |
-|             50 | Ofa Tauatevalu        |      70.93 |       1.01757e+06 |        4 |       1.01769e+06 |      86.46 | Mitchell Dunshea     |             65 |
-|             80 | Johannes Momsen       |      72.11 |  940418           |        5 |       1.01766e+06 |      84.17 | Tahlor Cahill        |             80 |
-|             64 | Terrell Peita         |      68.05 |       1.01807e+06 |        6 |  829145           |     106.21 | Billy Harmon         |             80 |
-|             80 | Slade McDowall        |      80.59 |       1.01537e+06 |        7 |  897607           |     102.52 | Tom Christie         |             80 |
-|             80 | Brayden Iose          |      62.85 |  892126           |        8 |       1.01485e+06 |      85.51 | Cullen Grace         |             51 |
-|             57 | Jordi Viljoen         |      68.16 |       1.01755e+06 |        9 |       1.00622e+06 |      92.36 | Mitchell Drummond    |             55 |
-|             57 | Brett Cameron         |      97.01 |  881209           |       10 |  944868           |      81.98 | Fergus Burke         |             58 |
-|             80 | Tima Fainga'anuku     |     104.78 |  829814           |       11 |       1.01762e+06 |      86.8  | Blair Murray         |             55 |
-|             80 | Jason Emery           |      49.4  |       1.01632e+06 |       12 |  945633           |      92.13 | Rameka Poihipi       |             80 |
-|             54 | Kyle Brown            |      70.12 |       1.0176e+06  |       13 |  944696           |      99.92 | Dallas McLeod        |             80 |
-|             80 | Drew Wild             |      74    |       1.0156e+06  |       14 |  828320           |     100.74 | Manasa Mataele       |             80 |
-|             80 | Beaudein Waaka        |      75.59 |       1.01533e+06 |       15 |  974927           |     110.48 | Chay Fihaki          |             80 |
-|             37 | Malakai Hala-Ngatai   |      69.49 |     nan           |       16 |       1.01766e+06 |      86.99 | Daniel Lienert-Brown |             39 |
-|             37 | Cole Keith            |      64.38 |       1.01646e+06 |       17 |       1.0176e+06  |      92.6  | Seb Calder           |             78 |
-|             37 | Raymond Tuputupu      |      65.72 |       1.01759e+06 |       18 |     nan           |      87.95 | Nick Hyde            |             34 |
-|             30 | Stan van den Hoven    |      66.45 |       1.01807e+06 |       19 |       1.01764e+06 |      88.93 | Luke Romano          |             15 |
-|             16 | Julian Goerke         |      68.86 |     nan           |       20 |       1.01764e+06 |      90.41 | Corey Kellow         |             29 |
-|             23 | Isaiah Ravula         |      68.32 |     nan           |       21 |       1.01765e+06 |      87.82 | Willi Heinz          |             25 |
-|             23 | John Poland           |     107.52 |  959049           |       22 |     nan           |      88.78 | Alex Harford         |             22 |
-|             26 | Te Rangatira Waitokia |      66.29 |       1.01561e+06 |       23 |       1.01766e+06 |      93.06 | Ryan Crotty          |             25 |
+|             43 | Joseph Gavigan        |      70.14 |       1.01761e+06 |        1 |       1.01833e+06 |      88.02 | Joe Moody            |             41 |
+|             43 | Leif Schwenke         |      67.37 |       1.0181e+06  |        2 |       1.01769e+06 |      85.17 | Ben Funnell          |             46 |
+|             43 | Flyn Yates            |      67.23 |       1.01761e+06 |        3 |  829271           |     106    | Oli Jager            |              2 |
+|             50 | Ofa Tauatevalu        |      71.93 |       1.01756e+06 |        4 |       1.01765e+06 |      91.1  | Mitchell Dunshea     |             65 |
+|             80 | Johannes Momsen       |      71.92 |  940424           |        5 |       1.01771e+06 |      84.06 | Tahlor Cahill        |             80 |
+|             64 | Terrell Peita         |      68.43 |       1.0181e+06  |        6 |  829148           |     106.31 | Billy Harmon         |             80 |
+|             80 | Slade McDowall        |      82.09 |       1.01532e+06 |        7 |  897612           |     102.66 | Tom Christie         |             80 |
+|             80 | Brayden Iose          |      62.67 |  892131           |        8 |       1.01486e+06 |      85.58 | Cullen Grace         |             51 |
+|             57 | Jordi Viljoen         |      66.38 |       1.01762e+06 |        9 |       1.00623e+06 |      92.49 | Mitchell Drummond    |             55 |
+|             57 | Brett Cameron         |      96.98 |  881213           |       10 |  944874           |      82.33 | Fergus Burke         |             58 |
+|             80 | Tima Fainga'anuku     |     104.72 |  829817           |       11 |       1.01768e+06 |      85.13 | Blair Murray         |             55 |
+|             80 | Jason Emery           |      48.81 |       1.01639e+06 |       12 |  945639           |      92.23 | Rameka Poihipi       |             80 |
+|             54 | Kyle Brown            |      71.44 |       1.01758e+06 |       13 |  944702           |     100.06 | Dallas McLeod        |             80 |
+|             80 | Drew Wild             |      74.48 |       1.01558e+06 |       14 |  828323           |     100.82 | Manasa Mataele       |             80 |
+|             80 | Beaudein Waaka        |      74.55 |       1.01541e+06 |       15 |  974934           |     110.83 | Chay Fihaki          |             80 |
+|             37 | Malakai Hala-Ngatai   |      69.46 |     nan           |       16 |       1.01772e+06 |      86.11 | Daniel Lienert-Brown |             39 |
+|             37 | Cole Keith            |      64.52 |       1.01648e+06 |       17 |       1.01771e+06 |      87.29 | Seb Calder           |             78 |
+|             37 | Raymond Tuputupu      |      67.86 |       1.01755e+06 |       18 |     nan           |      88.22 | Nick Hyde            |             34 |
+|             30 | Stan van den Hoven    |      67.01 |       1.01809e+06 |       19 |       1.01765e+06 |      91.11 | Luke Romano          |             15 |
+|             16 | Julian Goerke         |      68.61 |     nan           |       20 |       1.01767e+06 |      90.26 | Corey Kellow         |             29 |
+|             23 | Isaiah Ravula         |      68.37 |     nan           |       21 |       1.01771e+06 |      86.99 | Willi Heinz          |             25 |
+|             23 | John Poland           |     107.64 |  959055           |       22 |     nan           |      89.83 | Alex Harford         |             22 |
+|             26 | Te Rangatira Waitokia |      65.49 |       1.01569e+06 |       23 |       1.0177e+06  |      93.76 | Ryan Crotty          |             25 |
 
 
 # Player Level Predictions - Version 2

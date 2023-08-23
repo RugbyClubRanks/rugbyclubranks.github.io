@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Italy by 44.4
+## Prediction with Player Minutes: Italy by 44.7
 
 
-Italy by 40.4 on a neutral field
-## Prediction without Player Minutes: Italy by 45.4
+Italy by 40.7 on a neutral field
+## Prediction without Player Minutes: Italy by 45.7
 
 
-Italy by 41.4 on a neutral pitch
+Italy by 41.7 on a neutral pitch
 
 
 ## Scores over Time
@@ -49,29 +49,29 @@ Italy by 41.4 on a neutral pitch
 
 |   Away Minutes | Away Player       |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player        |   Home Minutes |
 |---------------:|:------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------|---------------:|
-|             46 | Iulian Hartig     |      65.1  |       1.00394e+06 |        1 |           1018124 |      86.36 | Ivan Nemer         |             41 |
-|             63 | Ovidiu Cojocaru   |      73.34 |  900942           |        2 |            955994 |     122.87 | Giacomo Nicotera   |             50 |
-|             34 | Alex Gordas       |      65.9  |  900967           |        3 |            704871 |      70.64 | Simone Ferrari     |             56 |
-|             80 | Adrian Motoc      |      79.51 |  901862           |        4 |            928213 |      58.62 | Niccolo Cannone    |             80 |
-|             80 | Stefan Iancu      |      60.37 |       1.0045e+06  |        5 |            892412 |     112.59 | Dino Lamb          |             80 |
-|             46 | Damian Stratila   |      76.44 |  992907           |        6 |            881980 |      79.63 | Sebastian Negri    |             60 |
-|             70 | Vlad Neculau      |      61.73 |  926237           |        7 |            925333 |     101.17 | Michele Lamaro     |             68 |
-|             80 | Cristian Chirica  |      47.44 |  901779           |        8 |            746386 |     117.02 | Toa Halafihi       |             80 |
-|             80 | Alin Conache      |      64.84 |       1.01744e+06 |        9 |            969751 |      65.25 | Alessandro Garbisi |             62 |
-|             29 | Mihai Muresan     |      64.56 |       1.01745e+06 |       10 |            949750 |      77.85 | Paolo Garbisi      |             80 |
-|             46 | Nicolas Onutu     |      78.55 |  933285           |       11 |            745711 |     119.59 | Monty Ioane        |             67 |
-|             80 | Tevita Manumua    |      49.97 |  851597           |       12 |            581245 |     117.74 | Luca Morisi        |             56 |
-|             57 | Jason Tomane      |      68.64 |  992932           |       13 |            622350 |     102.64 | Juan Ignacio Brex  |             80 |
-|             80 | Marius Simionescu |      45.8  |  862836           |       14 |            802505 |      97.23 | Paolo Odogwu       |             56 |
-|             80 | Hinckley Vaovasa  |      74.15 |  992972           |       15 |           1018123 |      86.56 | Ange Capuozzo      |             70 |
-|             17 | Florin Bardasu    |      87.64 |     nan           |       16 |            703300 |      82.88 | Hame Faiva         |             30 |
-|             34 | Alexandru Savin   |      60.66 |       1.00394e+06 |       17 |            811755 |      94    | Federico Zani      |             39 |
-|             46 | Gheorghe Gajion   |      63.03 |       1.01744e+06 |       18 |            796277 |      96.34 | Pietro Ceccarelli  |             24 |
-|             34 | Cristi Boboc      |      81    |  978647           |       19 |            774381 |      97.32 | Federico Ruzza     |             10 |
-|             10 | Dragos Ser        |      41.34 |  958086           |       20 |            971211 |      73.92 | Lorenzo Cannone    |             32 |
-|             23 | Florin Surugiu    |      64.03 |  465461           |       21 |            951380 |      66.6  | Alessandro Fusco   |             31 |
-|             34 | Gabriel Pop       |      65.44 |       1.01744e+06 |       22 |            699409 |      83.86 | Tommaso Allan      |             24 |
-|             51 | Tudor Boldor      |      80.93 |  938644           |       23 |            994280 |      75.65 | Lorenzo Pani       |             24 |
+|             46 | Iulian Hartig     |      65.11 |       1.00396e+06 |        1 |           1018153 |      86.62 | Ivan Nemer         |             41 |
+|             63 | Ovidiu Cojocaru   |      73.38 |  900947           |        2 |            956000 |     123.14 | Giacomo Nicotera   |             50 |
+|             34 | Alex Gordas       |      65.92 |  900972           |        3 |            704872 |      70.98 | Simone Ferrari     |             56 |
+|             80 | Adrian Motoc      |      79.63 |  901867           |        4 |            928219 |      58.79 | Niccolo Cannone    |             80 |
+|             80 | Stefan Iancu      |      60.51 |       1.00451e+06 |        5 |            892417 |     112.81 | Dino Lamb          |             80 |
+|             46 | Damian Stratila   |      76.44 |  992918           |        6 |            881984 |      79.99 | Sebastian Negri    |             60 |
+|             70 | Vlad Neculau      |      61.74 |  926243           |        7 |            925339 |     101.36 | Michele Lamaro     |             68 |
+|             80 | Cristian Chirica  |      47.5  |  901784           |        8 |            746387 |     117.14 | Toa Halafihi       |             80 |
+|             80 | Alin Conache      |      64.86 |       1.01746e+06 |        9 |            969757 |      65.29 | Alessandro Garbisi |             62 |
+|             29 | Mihai Muresan     |      64.58 |       1.01747e+06 |       10 |            949756 |      78.24 | Paolo Garbisi      |             80 |
+|             46 | Nicolas Onutu     |      78.67 |  933291           |       11 |            745712 |     120.09 | Monty Ioane        |             67 |
+|             80 | Tevita Manumua    |      50.02 |  851601           |       12 |            581245 |     117.83 | Luca Morisi        |             56 |
+|             57 | Jason Tomane      |      68.69 |  992943           |       13 |            622350 |     103.03 | Juan Ignacio Brex  |             80 |
+|             80 | Marius Simionescu |      45.86 |  862840           |       14 |            802508 |      97.58 | Paolo Odogwu       |             56 |
+|             80 | Hinckley Vaovasa  |      74.2  |  992983           |       15 |           1018152 |      86.82 | Ange Capuozzo      |             70 |
+|             17 | Florin Bardasu    |      87.65 |     nan           |       16 |            703301 |      82.97 | Hame Faiva         |             30 |
+|             34 | Alexandru Savin   |      60.7  |       1.00395e+06 |       17 |            811758 |      94.07 | Federico Zani      |             39 |
+|             46 | Gheorghe Gajion   |      63.25 |       1.01746e+06 |       18 |            796280 |      96.42 | Pietro Ceccarelli  |             24 |
+|             34 | Cristi Boboc      |      81.04 |  978654           |       19 |            774383 |      97.83 | Federico Ruzza     |             10 |
+|             10 | Dragos Ser        |      41.46 |  958092           |       20 |            971217 |      74.36 | Lorenzo Cannone    |             32 |
+|             23 | Florin Surugiu    |      64.06 |  465461           |       21 |            951386 |      66.79 | Alessandro Fusco   |             31 |
+|             34 | Gabriel Pop       |      65.67 |       1.01746e+06 |       22 |            699410 |      84.36 | Tommaso Allan      |             24 |
+|             51 | Tudor Boldor      |      80.93 |  938650           |       23 |            994291 |      76.03 | Lorenzo Pani       |             24 |
 
 
 # Player Level Predictions - Version 2

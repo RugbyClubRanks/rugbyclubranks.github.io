@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Hawke's Bay by 13.7
+## Prediction with Player Minutes: Hawke's Bay by 13.0
 
 
-Hawke's Bay by 9.7 on a neutral field
-## Prediction without Player Minutes: Hawke's Bay by 10.5
+Hawke's Bay by 9.0 on a neutral field
+## Prediction without Player Minutes: Hawke's Bay by 9.5
 
 
-Hawke's Bay by 6.5 on a neutral pitch
+Hawke's Bay by 5.5 on a neutral pitch
 
 
 ## Scores over Time
@@ -51,29 +51,29 @@ There were 19 large changes in win probability in this match
 
 |   Away Minutes | Away Player                |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                |   Home Minutes |
 |---------------:|:---------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------------|---------------:|
-|             64 | Rohan Wingham              |      72.3  |       1.01721e+06 |        1 |       1.01843e+06 |      75.22 | Isileli Tu'ungafasi        |             48 |
-|             64 | Henry Bell                 |      69.94 |       1.01568e+06 |        2 |  987707           |      91.25 | Tyrone Thompson            |             80 |
-|             52 | Saula Ma'u                 |      71.8  |       1.01721e+06 |        3 |  786364           |      94.02 | Joe Apikotoa               |             63 |
-|             57 | Josh Dickson               |      73.29 |       1.01722e+06 |        4 |       1.01808e+06 |      75.85 | Geoffrey Cridge            |             64 |
-|             80 | Will Tucker                |      72.14 |       1.01719e+06 |        5 |       1.01747e+06 |      73.98 | Tom Parsons                |             80 |
-|             80 | Sean Withy                 |      73.45 |       1.01721e+06 |        6 |       1.01809e+06 |      75.59 | Josh Gimblett              |             80 |
-|             58 | Tom Sanders                |      71.36 |       1.01842e+06 |        7 |       1.01751e+06 |      80.36 | Sam Smith                  |             70 |
-|             80 | Christian Lio-Willie       |      87.37 |  986134           |        8 |  915595           |      81.12 | Devan Flanders             |             80 |
-|             80 | Kieran McClea              |      62.25 |       1.01323e+06 |        9 |       1.01746e+06 |      76.33 | Folau Fakatava             |             74 |
-|             29 | Cameron Millar             |      73.87 |       1.018e+06   |       10 |       1.01748e+06 |      78.64 | Lincoln McClutchie         |             80 |
-|             17 | Jona Nareki                |      90.67 |  881271           |       11 |       1.01791e+06 |      79.11 | Anzelo Tuitavuki           |             52 |
-|             80 | Jack Leslie                |      74.37 |       1.018e+06   |       12 |  741204           |      84.07 | Chase Tiatia               |             80 |
-|             80 | Thomas Carlos Umaga-Jensen |      69.12 |       1.01719e+06 |       13 |  944539           |      86.66 | Ollie Sapsford             |             80 |
-|             80 | Josh Whaanga               |      73.8  |       1.01717e+06 |       14 |       1.01646e+06 |      82.21 | Paul Balekana              |             80 |
-|             52 | Sam Gilbert                |      81.81 |  944751           |       15 |       1.01746e+06 |      76.64 | Harry Godfrey              |             48 |
-|             16 | Ben Lopas                  |      76.99 |     nan           |       16 |       1.01532e+06 |      69.97 | Kianu Kereru-Symes         |             32 |
-|             28 | Jermaine Ainsley           |      87.9  |  788200           |       17 |       1.01751e+06 |      76.06 | Pouri Gordon Rakete-Stones |             17 |
-|             16 | Ricky Jackson              |      70.86 |     nan           |       18 |     nan           |      78.85 | Hunter Morrison            |             16 |
-|             22 | Sam Fischli                |      67.88 |       1.01687e+06 |       19 |     nan           |      74.45 | Patrick Tuifua             |             10 |
-|             23 | Fabian Holland             |      77.16 |       1.01716e+06 |       20 |     nan           |      75.4  | Sam Wye                    |              6 |
-|             51 | Finn Hurley                |      75.4  |       1.01717e+06 |       21 |       1.0175e+06  |      81.51 | Nicholas Grigg             |             28 |
-|             63 | Jeremiah Asi               |      71.03 |     nan           |       22 |       1.01566e+06 |      70.71 | Caleb Makene               |             32 |
-|             28 | Nathan Hastie              |      71.19 |     nan           |       23 |     nan           |     nan    | nan                        |            nan |
+|             64 | Rohan Wingham              |      74.22 |       1.0172e+06  |        1 |       1.01846e+06 |      75.32 | Isileli Tu'ungafasi        |             48 |
+|             64 | Henry Bell                 |      71.27 |       1.01564e+06 |        2 |  987717           |      91.19 | Tyrone Thompson            |             80 |
+|             52 | Saula Ma'u                 |      74.26 |       1.01719e+06 |        3 |  786367           |      94.02 | Joe Apikotoa               |             63 |
+|             57 | Josh Dickson               |      74.35 |       1.01723e+06 |        4 |       1.01812e+06 |      75.78 | Geoffrey Cridge            |             64 |
+|             80 | Will Tucker                |      73.06 |       1.01722e+06 |        5 |       1.01752e+06 |      72.59 | Tom Parsons                |             80 |
+|             80 | Sean Withy                 |      76.44 |       1.01719e+06 |        6 |       1.01811e+06 |      76.04 | Josh Gimblett              |             80 |
+|             58 | Tom Sanders                |      71.71 |       1.01845e+06 |        7 |       1.01748e+06 |      82.73 | Sam Smith                  |             70 |
+|             80 | Christian Lio-Willie       |      87.45 |  986142           |        8 |  915600           |      80.99 | Devan Flanders             |             80 |
+|             80 | Kieran McClea              |      62.26 |       1.01324e+06 |        9 |       1.01751e+06 |      75.13 | Folau Fakatava             |             74 |
+|             29 | Cameron Millar             |      73.97 |       1.01803e+06 |       10 |       1.0175e+06  |      78.77 | Lincoln McClutchie         |             80 |
+|             17 | Jona Nareki                |      90.71 |  881275           |       11 |       1.01794e+06 |      78.86 | Anzelo Tuitavuki           |             52 |
+|             80 | Jack Leslie                |      74.47 |       1.01803e+06 |       12 |  741205           |      84.09 | Chase Tiatia               |             80 |
+|             80 | Thomas Carlos Umaga-Jensen |      69.11 |       1.01723e+06 |       13 |  944545           |      86.53 | Ollie Sapsford             |             80 |
+|             80 | Josh Whaanga               |      71.21 |       1.01724e+06 |       14 |       1.01648e+06 |      82.34 | Paul Balekana              |             80 |
+|             52 | Sam Gilbert                |      81.84 |  944757           |       15 |       1.01754e+06 |      73.92 | Harry Godfrey              |             48 |
+|             16 | Ben Lopas                  |      77.6  |     nan           |       16 |       1.01539e+06 |      69.26 | Kianu Kereru-Symes         |             32 |
+|             28 | Jermaine Ainsley           |      87.9  |  788203           |       17 |       1.0175e+06  |      77.12 | Pouri Gordon Rakete-Stones |             17 |
+|             16 | Ricky Jackson              |      73.01 |     nan           |       18 |     nan           |      76    | Hunter Morrison            |             16 |
+|             22 | Sam Fischli                |      67.83 |       1.01688e+06 |       19 |     nan           |      74.72 | Patrick Tuifua             |             10 |
+|             23 | Fabian Holland             |      75.49 |       1.01722e+06 |       20 |     nan           |      75.14 | Sam Wye                    |              6 |
+|             51 | Finn Hurley                |      73.28 |       1.01724e+06 |       21 |       1.01749e+06 |      83.33 | Nicholas Grigg             |             28 |
+|             63 | Jeremiah Asi               |      71.54 |     nan           |       22 |       1.01562e+06 |      72.22 | Caleb Makene               |             32 |
+|             28 | Nathan Hastie              |      71.38 |     nan           |       23 |     nan           |     nan    | nan                        |            nan |
 
 
 # Player Level Predictions - Version 2

@@ -1,6 +1,6 @@
 ---  
 title: "worldcupwarmupmatch 2023 Status"  
-date: 2023-08-21 6:00:00 -0500  
+date: 2023-08-23 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -45,20 +45,20 @@ aside:
 
 | Club         |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Ireland      |                   1 |    1   |                 23   |                   0   |                1   |                  5   |
-| Argentina    |                   1 |    1   |                 19.3 |                   0   |                1   |                  5   |
-| Scotland     |                   1 |    1   |                 11.8 |                   0   |                1   |                  4.9 |
-| France       |                   1 |    0.9 |                 10.5 |                   0   |                0.9 |                  4.8 |
-| Italy        |                   1 |    0.8 |                  6.4 |                   0.2 |                0.8 |                  4.2 |
+| Ireland      |                   1 |    1   |                 22.7 |                   0   |                1   |                  5   |
+| Argentina    |                   1 |    1   |                 19.2 |                   0   |                1   |                  5   |
+| Scotland     |                   1 |    1   |                 12.2 |                   0   |                1   |                  4.9 |
+| France       |                   1 |    0.9 |                 10.5 |                   0.1 |                0.9 |                  4.8 |
+| Italy        |                   1 |    0.8 |                  6.3 |                   0.2 |                0.8 |                  4.2 |
 | New Zealand  |                   1 |    0.8 |                  5.2 |                   0.2 |                0.7 |                  4.1 |
 | England      |                   1 |    0.5 |                  0.5 |                   0.3 |                0.5 |                  2.9 |
 | Fiji         |                   1 |    0.5 |                 -0.5 |                   0.3 |                0.4 |                  2.7 |
 | South Africa |                   1 |    0.2 |                 -5.2 |                   0.4 |                0.2 |                  1.3 |
-| Japan        |                   1 |    0.2 |                 -6.4 |                   0.3 |                0.2 |                  1.2 |
+| Japan        |                   1 |    0.2 |                 -6.3 |                   0.3 |                0.2 |                  1.3 |
 | Australia    |                   1 |    0.1 |                -10.5 |                   0.2 |                0   |                  0.5 |
-| Georgia      |                   1 |    0   |                -11.8 |                   0.2 |                0   |                  0.3 |
-| Spain        |                   1 |    0   |                -19.3 |                   0   |                0   |                  0.1 |
-| Samoa        |                   1 |    0   |                -23   |                   0   |                0   |                  0   |
+| Georgia      |                   1 |    0   |                -12.2 |                   0.2 |                0   |                  0.3 |
+| Spain        |                   1 |    0   |                -19.2 |                   0   |                0   |                  0.1 |
+| Samoa        |                   1 |    0   |                -22.7 |                   0   |                0   |                  0   |
 
 
 
@@ -67,27 +67,27 @@ aside:
 
 | Club                     |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Ireland                  |               3 |    3   |                 58   |                   0   |                3   |                 15   |
-| Scotland                 |               4 |    3   |                 24.8 |                   1   |                2   |                 14.9 |
-| France                   |               4 |    2.9 |                 26.5 |                   1   |                0.9 |                 13.8 |
+| Ireland                  |               3 |    3   |                 57.7 |                   0   |                3   |                 15   |
+| Scotland                 |               4 |    3   |                 25.2 |                   1   |                2   |                 14.9 |
+| France                   |               4 |    2.9 |                 26.5 |                   1.1 |                0.9 |                 13.8 |
 | South Africa             |               3 |    2.2 |                 41.8 |                   0.4 |                1.2 |                 10.3 |
 | Tonga                    |               2 |    2   |                 49   |                   0   |                2   |                 10   |
 | Uruguay                  |               2 |    2   |                  9   |                   0   |                2   |                 10   |
-| Italy                    |               4 |    1.8 |                 28.4 |                   0.2 |                1.8 |                  9.2 |
-| Georgia                  |               3 |    2   |                 53.2 |                   0.2 |                0   |                  8.3 |
+| Italy                    |               4 |    1.8 |                 28.3 |                   0.2 |                1.8 |                  9.2 |
+| Georgia                  |               3 |    2   |                 52.8 |                   0.2 |                0   |                  8.3 |
 | New Zealand              |               2 |    1.8 |                  8.2 |                   0.2 |                0.7 |                  8.1 |
 | England                  |               4 |    1.5 |                -27.5 |                   0.3 |                0.5 |                  6.9 |
 | Portugal                 |               1 |    1   |                 26   |                   0   |                1   |                  5   |
-| Argentina                |               2 |    1   |                  8.3 |                   0   |                1   |                  5   |
+| Argentina                |               2 |    1   |                  8.2 |                   0   |                1   |                  5   |
 | Namibia                  |               2 |    1   |                 -6   |                   0   |                1   |                  5   |
 | United States of America |               3 |    1   |                -27   |                   0   |                1   |                  5   |
 | Wales                    |               3 |    1   |                -27   |                   1   |                0   |                  5   |
 | Chile                    |               2 |    0   |                 -3   |                   2   |                1   |                  3   |
 | Fiji                     |               2 |    0.5 |                -17.5 |                   0.3 |                0.4 |                  2.7 |
 | Australia                |               2 |    0.1 |                -13.5 |                   1.2 |                0   |                  1.5 |
-| Japan                    |               1 |    0.2 |                 -6.4 |                   0.3 |                0.2 |                  1.2 |
-| Spain                    |               1 |    0   |                -19.3 |                   0   |                0   |                  0.1 |
-| Samoa                    |               1 |    0   |                -23   |                   0   |                0   |                  0   |
+| Japan                    |               1 |    0.2 |                 -6.3 |                   0.3 |                0.2 |                  1.3 |
+| Spain                    |               1 |    0   |                -19.2 |                   0   |                0   |                  0.1 |
+| Samoa                    |               1 |    0   |                -22.7 |                   0   |                0   |                  0   |
 | Canada                   |               2 |    0   |                -49   |                   0   |                0   |                  0   |
 | Romania                  |               3 |    0   |               -114   |                   0   |                0   |                  0   |
 
@@ -99,7 +99,7 @@ aside:
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
 | Club Level | 81.0% | 10.7 |
-| Player Level: Lineup | 71.4% | 16.0 |
+| Player Level: Lineup | 72.7% | 16.0 |
 | Player Level: Minutes | 76.2% | 15.7 |
 
 
@@ -132,7 +132,7 @@ Average Margin: England by 0.5
 ### Italy V Japan on 2023/08/26
 
 
-Average Margin: Italy by 6.7
+Average Margin: Italy by 6.6
 
 <p float="left">
 <img src="plots/performances_2023-08-26-Italy_V_Japan.png" width="32%" />
@@ -143,7 +143,7 @@ Average Margin: Italy by 6.7
 ### Scotland V Georgia on 2023/08/26
 
 
-Average Margin: Scotland by 12.3
+Average Margin: Scotland by 12.7
 
 <p float="left">
 <img src="plots/performances_2023-08-26-Scotland_V_Georgia.png" width="32%" />
@@ -154,7 +154,7 @@ Average Margin: Scotland by 12.3
 ### Spain V Argentina on 2023/08/26
 
 
-Average Margin: Argentina by 19.8
+Average Margin: Argentina by 19.7
 
 <p float="left">
 <img src="plots/performances_2023-08-26-Spain_V_Argentina.png" width="32%" />
@@ -165,7 +165,7 @@ Average Margin: Argentina by 19.8
 ### Ireland V Samoa on 2023/08/26
 
 
-Average Margin: Ireland by 23.5
+Average Margin: Ireland by 23.2
 
 <p float="left">
 <img src="plots/performances_2023-08-26-Ireland_V_Samoa.png" width="32%" />

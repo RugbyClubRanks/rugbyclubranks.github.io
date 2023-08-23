@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: South Africa by 16.4
+## Prediction with Player Minutes: South Africa by 16.5
 
 
-South Africa by 20.4 on a neutral field
-## Prediction without Player Minutes: South Africa by 15.6
+South Africa by 20.5 on a neutral field
+## Prediction without Player Minutes: South Africa by 15.7
 
 
-South Africa by 19.6 on a neutral pitch
+South Africa by 19.7 on a neutral pitch
 
 
 ## Scores over Time
@@ -51,29 +51,29 @@ There were 7 large changes in win probability in this match
 
 |   Away Minutes | Away Player          |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player       |   Home Minutes |
 |---------------:|:---------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------|---------------:|
-|             47 | Steven Kitshoff      |      97.46 |            560706 |        1 |  814062           |     115.26 | Corey Domachowski |             49 |
-|             47 | Malcolm Marx         |      97.83 |            721775 |        2 |  705070           |      86.88 | Elliot Dee        |             56 |
-|             47 | Frans Malherbe       |     121.84 |            542775 |        3 |  864408           |      90.7  | Keiron Assiratti  |             49 |
-|             50 | Jean Kleyn           |     104.57 |            724460 |        4 |  969272           |      81.16 | Ben Carter        |             61 |
-|             80 | RG Snyman            |     106.25 |            792874 |        5 |  668444           |      76.15 | Will Rowlands     |             80 |
-|             41 | Siya Kolisi          |      90.92 |            567583 |        6 |  318453           |     136.15 | Dan Lydiate       |             80 |
-|             80 | Pieter-Steph du Toit |      73.13 |            621566 |        7 |  953765           |      86.69 | Jac Morgan        |             80 |
-|             50 | Jasper Wiese         |     102.52 |            875812 |        8 |  893019           |     110.47 | Aaron Wainwright  |             55 |
-|             62 | Jaden Hendrikse      |      97.22 |           1018135 |        9 |       1.01813e+06 |      85.3  | Kieran Hardy      |             53 |
-|             80 | Manie Libbok         |      97.46 |            875921 |       10 |  952377           |      73.65 | Sam Costelow      |             66 |
-|             80 | Cheslin Kolbe        |     128.56 |            676316 |       11 |  905249           |      65.48 | Rio Dyer          |             71 |
-|             80 | Damian de Allende    |     106.1  |            644361 |       12 |       1.01813e+06 |      85.7  | Johnny Williams   |             80 |
-|             80 | Jesse Kriel          |     111.76 |            731161 |       13 |  970793           |      83.63 | Mason Grady       |             62 |
-|             80 | Canan Moodie         |     111.43 |            995890 |       14 |  900529           |      73.54 | Tom Rogers        |             80 |
-|             55 | Willie Le Roux       |      90.96 |           1017053 |       15 |       1.01813e+06 |      85.91 | Cai Evans         |             75 |
-|             33 | Bongi Mbonambi       |     114.51 |            617843 |       16 |  595464           |      59.1  | Sam Parry         |             24 |
-|             33 | Ox Nche              |      87.4  |            812837 |       17 |  660478           |      71.48 | Nicky Smith       |             31 |
-|             33 | Vincent Koch         |      61.08 |            644871 |       18 |  524148           |      90.8  | Henry Thomas      |             31 |
-|             30 | Franco Mostert       |     129.96 |            650403 |       19 |     nan           |      85.49 | Teddy Williams    |             19 |
-|             39 | Marco van Staden     |      98.52 |            896990 |       20 |  904116           |      83.75 | Taine Basham      |             25 |
-|             30 | Duane Vermeulen      |     106.83 |            299636 |       21 |  712688           |     111.06 | Tomos Williams    |             27 |
-|             18 | Grant Williams       |     104.08 |            906333 |       22 |  900800           |     118.74 | Max Llewellyn     |             27 |
-|             25 | Damian Willemse      |     108.28 |            867495 |       23 |  936696           |     103.54 | Louis Rees-Zammit |             19 |
+|             47 | Steven Kitshoff      |      97.47 |            560706 |        1 |  814065           |     115.26 | Corey Domachowski |             49 |
+|             47 | Malcolm Marx         |      97.85 |            721776 |        2 |  705071           |      86.87 | Elliot Dee        |             56 |
+|             47 | Frans Malherbe       |     121.86 |            542775 |        3 |  864412           |      90.7  | Keiron Assiratti  |             49 |
+|             50 | Jean Kleyn           |     104.55 |            724461 |        4 |  969278           |      81.16 | Ben Carter        |             61 |
+|             80 | RG Snyman            |     106.27 |            792877 |        5 |  668445           |      76.15 | Will Rowlands     |             80 |
+|             41 | Siya Kolisi          |      90.92 |            567583 |        6 |  318453           |     136.2  | Dan Lydiate       |             80 |
+|             80 | Pieter-Steph du Toit |      73.16 |            621566 |        7 |  953771           |      86.68 | Jac Morgan        |             80 |
+|             50 | Jasper Wiese         |     102.5  |            875816 |        8 |  893024           |     110.47 | Aaron Wainwright  |             55 |
+|             62 | Jaden Hendrikse      |      97.23 |           1018164 |        9 |       1.01816e+06 |      85.31 | Kieran Hardy      |             53 |
+|             80 | Manie Libbok         |      97.45 |            875925 |       10 |  952383           |      73.64 | Sam Costelow      |             66 |
+|             80 | Cheslin Kolbe        |     128.6  |            676317 |       11 |  905254           |      65.47 | Rio Dyer          |             71 |
+|             80 | Damian de Allende    |     106.12 |            644362 |       12 |       1.01816e+06 |      85.92 | Johnny Williams   |             80 |
+|             80 | Jesse Kriel          |     111.77 |            731162 |       13 |  970799           |      83.63 | Mason Grady       |             62 |
+|             80 | Canan Moodie         |     111.4  |            995901 |       14 |  900534           |      73.6  | Tom Rogers        |             80 |
+|             55 | Willie Le Roux       |      90.99 |           1017068 |       15 |       1.01816e+06 |      85.5  | Cai Evans         |             75 |
+|             33 | Bongi Mbonambi       |     114.5  |            617843 |       16 |  595464           |      59.13 | Sam Parry         |             24 |
+|             33 | Ox Nche              |      87.4  |            812840 |       17 |  660479           |      71.48 | Nicky Smith       |             31 |
+|             33 | Vincent Koch         |      61.07 |            644872 |       18 |  524148           |      90.8  | Henry Thomas      |             31 |
+|             30 | Franco Mostert       |     129.94 |            650404 |       19 |     nan           |      85.7  | Teddy Williams    |             19 |
+|             39 | Marco van Staden     |      98.54 |            896995 |       20 |  904121           |      83.76 | Taine Basham      |             25 |
+|             30 | Duane Vermeulen      |     106.86 |            299636 |       21 |  712689           |     111.1  | Tomos Williams    |             27 |
+|             18 | Grant Williams       |     104.08 |            906338 |       22 |  900805           |     118.74 | Max Llewellyn     |             27 |
+|             25 | Damian Willemse      |     108.25 |            867499 |       23 |  936702           |     103.53 | Louis Rees-Zammit |             19 |
 
 
 # Player Level Predictions - Version 2
