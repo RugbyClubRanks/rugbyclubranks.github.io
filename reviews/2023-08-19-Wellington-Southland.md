@@ -28,10 +28,10 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Wellington by 34.3
+## Prediction with Player Minutes: Wellington by 33.6
 
 
-Wellington by 30.3 on a neutral field
+Wellington by 29.6 on a neutral field
 ## Prediction without Player Minutes: Wellington by 34.8
 
 
@@ -51,43 +51,43 @@ There were 3 large changes in win probability in this match
 
 |   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                   |   Home Minutes |
 |---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------------|---------------:|
-|             57 | Joe Walsh             |      67.41 |       1.01784e+06 |        1 |       1.0176e+06  |      87.62 | Cameron Orr                   |             57 |
-|             59 | Jack Taylor           |      68.16 |       1.01784e+06 |        2 |       1.01804e+06 |      84.94 | James O'Reilly                |             57 |
-|             51 | Morgan Mitchell       |      55.63 |       1.01669e+06 |        3 |       1.01763e+06 |      83.55 | PJ Sheck                      |             57 |
-|             80 | Shneil Singh          |      94.7  |  918162           |        4 |  985991           |      93.09 | Caleb Delany                  |             80 |
-|             80 | Josh Bekhuis          |      68.32 |       1.01782e+06 |        5 |       1.01762e+06 |      86.4  | Akira Ieremia                 |             57 |
-|             80 | Blair Ryall           |      65.71 |       1.01787e+06 |        6 |       1.01762e+06 |      86.62 | Dominic Ropeti                |             80 |
-|             80 | Leroy Ferguson        |      69.87 |       1.0179e+06  |        7 |  635108           |     110.86 | Ardie Savea                   |             63 |
-|             19 | Dylan Nel             |      70.42 |       1.01782e+06 |        8 |       1.01758e+06 |      83.95 | Keelan Whitman                |             80 |
-|             53 | Jay Renton            |      68.72 |       1.01784e+06 |        9 |       1.01759e+06 |      89.48 | Kyle Preston                  |             57 |
-|             53 | Greg Dyer             |      71.26 |       1.01786e+06 |       10 |       1.01756e+06 |      89.64 | Ruben Love                    |             63 |
-|             80 | Gabriel Hamer-Webb    |      65.51 |       1.01809e+06 |       11 |       1.01757e+06 |      90.48 | Pepesana Patafilo             |             80 |
-|             80 | Matt Whaanga          |      69.24 |  915305           |       12 |       1.01802e+06 |      84.19 | Riley Higgins                 |             80 |
-|             80 | Noah Foster           |      62.97 |       1.01789e+06 |       13 |  890700           |     109.57 | Billy Proctor                 |             64 |
-|             49 | Viliami Fine          |      71.3  |       1.01786e+06 |       14 |       1.01803e+06 |      83.13 | Connor Garden-Bachop          |             80 |
-|             80 | Rory van Vugt         |      72.15 |       1.0179e+06  |       15 |       1.01758e+06 |      88.08 | Tjay Clarke                   |             80 |
-|             23 | Jonah Aoina           |      74.01 |     nan           |       16 |  916762           |      97.3  | Xavier Numia                  |             23 |
-|             29 | Quinn Harrison-Jones  |      68.98 |     nan           |       17 |       1.0176e+06  |      82.55 | Josh Southall                 |             23 |
-|             21 | Ben Strang            |      61.78 |       1.01235e+06 |       18 |     nan           |      84.87 | Josiah Tavita-Metcalfe        |             23 |
-|             13 | Semisi Tupou Ta’eiloa |      69.2  |     nan           |       19 |       1.01803e+06 |      85.73 | Peter Lakai                   |             17 |
-|             48 | Grayson Knapp         |      65.58 |     nan           |       20 |     nan           |      84.67 | Teofilo Paulo                 |             23 |
-|             27 | Kaisei Tamura         |      68.5  |     nan           |       21 |       1.01758e+06 |      86.73 | Kemara Henare Hauiti-Parapara |             23 |
-|             27 | Dan Hollinshead       |      65.73 |     nan           |       22 |       1.01487e+06 |      86.96 | Aidan Morgan                  |             17 |
-|             31 | Tevita Latu           |      65.43 |     nan           |       23 |       1.01759e+06 |      85.11 | Losilosivale Filipo           |             16 |
+|             57 | Joe Walsh             |      66.32 |       1.01796e+06 |        1 |       1.01764e+06 |      91.34 | Cameron Orr                   |             57 |
+|             59 | Jack Taylor           |      66.08 |       1.01798e+06 |        2 |       1.01814e+06 |      84.09 | James O'Reilly                |             57 |
+|             51 | Morgan Mitchell       |      49.19 |       1.01683e+06 |        3 |       1.01771e+06 |      84.06 | PJ Sheck                      |             57 |
+|             80 | Shneil Singh          |      93.34 |  918387           |        4 |  986294           |      92.14 | Caleb Delany                  |             80 |
+|             80 | Josh Bekhuis          |      61.42 |       1.01802e+06 |        5 |       1.01766e+06 |      89.06 | Akira Ieremia                 |             57 |
+|             80 | Blair Ryall           |      62.71 |       1.01798e+06 |        6 |       1.01765e+06 |      90.13 | Dominic Ropeti                |             80 |
+|             80 | Leroy Ferguson        |      73.25 |       1.01801e+06 |        7 |  635179           |     110.86 | Ardie Savea                   |             63 |
+|             19 | Dylan Nel             |      67.51 |       1.01795e+06 |        8 |       1.01772e+06 |      80.89 | Keelan Whitman                |             80 |
+|             53 | Jay Renton            |      66.06 |       1.01796e+06 |        9 |       1.01769e+06 |      88.82 | Kyle Preston                  |             57 |
+|             53 | Greg Dyer             |      73.19 |       1.01795e+06 |       10 |       1.01772e+06 |      83.31 | Ruben Love                    |             63 |
+|             80 | Gabriel Hamer-Webb    |      64.48 |       1.01819e+06 |       11 |       1.01771e+06 |      86.2  | Pepesana Patafilo             |             80 |
+|             80 | Matt Whaanga          |      79.35 |       1.01635e+06 |       12 |       1.01814e+06 |      82.6  | Riley Higgins                 |             80 |
+|             80 | Noah Foster           |      68.09 |       1.01796e+06 |       13 |  890901           |     109.3  | Billy Proctor                 |             64 |
+|             49 | Viliami Fine          |      66.82 |       1.01802e+06 |       14 |       1.01813e+06 |      82.61 | Connor Garden-Bachop          |             80 |
+|             80 | Rory van Vugt         |      70.11 |       1.018e+06   |       15 |       1.01767e+06 |      87.3  | Tjay Clarke                   |             80 |
+|             23 | Jonah Aoina           |      72.9  |     nan           |       16 |       1.01691e+06 |      88.4  | Xavier Numia                  |             23 |
+|             29 | Quinn Harrison-Jones  |      72.16 |     nan           |       17 |       1.01768e+06 |      82.77 | Josh Southall                 |             23 |
+|             21 | Ben Strang            |      61.88 |       1.01268e+06 |       18 |     nan           |      83.82 | Josiah Tavita-Metcalfe        |             23 |
+|             13 | Semisi Tupou Ta’eiloa |      68.66 |     nan           |       19 |       1.01814e+06 |      84.25 | Peter Lakai                   |             17 |
+|             48 | Grayson Knapp         |      65.15 |     nan           |       20 |     nan           |      83.63 | Teofilo Paulo                 |             23 |
+|             27 | Kaisei Tamura         |      68.09 |     nan           |       21 |       1.0177e+06  |      84.49 | Kemara Henare Hauiti-Parapara |             23 |
+|             27 | Dan Hollinshead       |      65    |     nan           |       22 |       1.01767e+06 |      86.48 | Aidan Morgan                  |             17 |
+|             31 | Tevita Latu           |      64.85 |     nan           |       23 |       1.0177e+06  |      83.79 | Losilosivale Filipo           |             16 |
 
 
 # Player Level Predictions - Version 2
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Wellington by 7.5
+## Prediction with Player Minutes: Wellington by 6.6
 
 
-Wellington by 4.1 on a neutral field
-## Prediction without Player Minutes: Wellington by 7.8
+Wellington by 3.2 on a neutral field
+## Prediction without Player Minutes: Wellington by 7.1
 
 
-Wellington by 4.4 on a neutral pitch
+Wellington by 3.7 on a neutral pitch
 
 
 
@@ -99,16 +99,16 @@ Wellington by 4.4 on a neutral pitch
 |             80 | Shneil Singh          |      67.42 |              50 |        4 |           50    |      56.11 | Caleb Delany                  |             80 |
 |             80 | Josh Bekhuis          |      46.65 |              50 |        5 |           50    |      46.65 | Akira Ieremia                 |             57 |
 |             80 | Blair Ryall           |      46.65 |              50 |        6 |           50    |      46.65 | Dominic Ropeti                |             80 |
-|             80 | Leroy Ferguson        |      46.65 |              50 |        7 |           47.68 |     124.27 | Ardie Savea                   |             63 |
+|             80 | Leroy Ferguson        |      46.65 |              50 |        7 |           47.68 |     124.51 | Ardie Savea                   |             63 |
 |             19 | Dylan Nel             |      46.65 |              50 |        8 |           50    |      46.65 | Keelan Whitman                |             80 |
 |             53 | Jay Renton            |      46.65 |              50 |        9 |           50    |      46.65 | Kyle Preston                  |             57 |
 |             53 | Greg Dyer             |      46.65 |              50 |       10 |           50    |      46.65 | Ruben Love                    |             63 |
 |             80 | Gabriel Hamer-Webb    |      46.65 |              50 |       11 |           50    |      46.65 | Pepesana Patafilo             |             80 |
-|             80 | Matt Whaanga          |      34.11 |              50 |       12 |           50    |      46.65 | Riley Higgins                 |             80 |
+|             80 | Matt Whaanga          |      46.65 |              50 |       12 |           50    |      46.65 | Riley Higgins                 |             80 |
 |             80 | Noah Foster           |      46.65 |              50 |       13 |           50    |      81.11 | Billy Proctor                 |             64 |
 |             49 | Viliami Fine          |      46.65 |              50 |       14 |           50    |      46.65 | Connor Garden-Bachop          |             80 |
 |             80 | Rory van Vugt         |      46.65 |              50 |       15 |           50    |      46.65 | Tjay Clarke                   |             80 |
-|             23 | Jonah Aoina           |      46.65 |              50 |       16 |           50    |      78.87 | Xavier Numia                  |             23 |
+|             23 | Jonah Aoina           |      46.65 |              50 |       16 |           50    |      46.65 | Xavier Numia                  |             23 |
 |             29 | Quinn Harrison-Jones  |      46.65 |              50 |       17 |           50    |      46.65 | Josh Southall                 |             23 |
 |             21 | Ben Strang            |      46.23 |              50 |       18 |           50    |      46.65 | Josiah Tavita-Metcalfe        |             23 |
 |             13 | Semisi Tupou Ta’eiloa |      46.65 |              50 |       19 |           50    |      46.65 | Peter Lakai                   |             17 |

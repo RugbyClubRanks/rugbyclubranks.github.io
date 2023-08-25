@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Hawke's Bay by 0.4
+## Prediction with Player Minutes: Hawke's Bay by 1.2
 
 
-Waikato by 3.6 on a neutral field
-## Prediction without Player Minutes: Waikato by 0.0
+Waikato by 2.8 on a neutral field
+## Prediction without Player Minutes: Hawke's Bay by 0.4
 
 
-Waikato by 4.0 on a neutral pitch
+Waikato by 3.6 on a neutral pitch
 
 
 ## Scores over Time
@@ -47,47 +47,47 @@ Waikato by 4.0 on a neutral pitch
 
 ![In Match Predictions](plots/recap_prob_2023-08-16-Hawke'sBay-Waikato.png)
 
-There were 16 large changes in win probability in this match
+There were 15 large changes in win probability in this match
 
 |   Away Minutes | Away Player          |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                |   Home Minutes |
 |---------------:|:---------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------------|---------------:|
-|             69 | Ollie Norris         |      93.76 |  944460           |        1 |       1.0175e+06  |      74.72 | Pouri Gordon Rakete-Stones |             55 |
-|             51 | Rhys Marshall        |      76.58 |       1.01802e+06 |        2 |       1.01539e+06 |      67.47 | Kianu Kereru-Symes         |             41 |
-|             69 | Solomone Tukuafu     |      77.83 |       1.01788e+06 |        3 |       1.01668e+06 |      55.28 | Isaac Salmon               |             16 |
-|             31 | Tai Cribb            |      77.68 |       1.01786e+06 |        4 |       1.01755e+06 |      73.99 | Frank Lochore              |             80 |
-|             80 | Hamilton Burr        |      79.32 |       1.01783e+06 |        5 |       1.01812e+06 |      74.17 | Tom Allen                  |             80 |
-|             80 | Xavier Saifoloi      |      76.88 |       1.01812e+06 |        6 |       1.01811e+06 |      74.34 | Josh Gimblett              |             39 |
-|             52 | Patrick McCurran     |      80.72 |       1.01783e+06 |        7 |       1.01748e+06 |      78.39 | Siosiua (Josh) Kaifa       |             51 |
-|             80 | Te Rama Reuben       |      77.26 |       1.01812e+06 |        8 |       1.01749e+06 |      71.93 | Marino Mikaele Tu'u        |             80 |
-|             69 | Xavier Roe           |      78.18 |       1.01786e+06 |        9 |  696586           |     136.86 | Brad Weber                 |             60 |
-|             80 | Taha Kemara          |      79.12 |       1.01787e+06 |       10 |       1.0175e+06  |      75.29 | Lincoln McClutchie         |             80 |
-|             80 | Tana Tuhakaraina     |      81.05 |       1.0178e+06  |       11 |       1.01457e+06 |      78.57 | Jonah Lowe                 |             80 |
-|             64 | Austin Anderson      |      75.57 |       1.01802e+06 |       12 |  741205           |      83.07 | Chase Tiatia               |             80 |
-|             47 | Bailyn Sullivan      |      80.73 |       1.01781e+06 |       13 |       1.01749e+06 |      80.72 | Nicholas Grigg             |             60 |
-|             80 | Cody Nordstrom       |      77.67 |       1.01811e+06 |       14 |       1.01648e+06 |      78.85 | Paul Balekana              |             80 |
-|             80 | Liam Coombes-Fabling |     100.4  |       1.01652e+06 |       15 |       1.01562e+06 |      69.82 | Caleb Makene               |             55 |
-|             11 | Mason Tupaea         |      75.74 |       1.01789e+06 |       16 |     nan           |      77.43 | Timothy John Farrell       |             25 |
-|             29 | Sean Ralph           |      77.9  |     nan           |       17 |  987717           |      89.49 | Tyrone Thompson            |             39 |
-|             11 | Tolu Fahamokioa      |      77.06 |     nan           |       18 |       1.01647e+06 |      66.73 | Joel Hintz                 |             64 |
-|             49 | Zinzan Hansen        |      76.7  |     nan           |       19 |       1.01812e+06 |      74    | Geoffrey Cridge            |             41 |
-|             28 | Simon Parker         |      98.21 |       1.01651e+06 |       20 |       1.01748e+06 |      81.47 | Sam Smith                  |             29 |
-|             11 | Nui Muriwai          |      77.46 |     nan           |       21 |       1.01751e+06 |      74.26 | Folau Fakatava             |             20 |
-|             16 | Tepaea Cook-Savage   |      78.47 |       1.01785e+06 |       22 |       1.01794e+06 |      77.99 | Anzelo Tuitavuki           |             20 |
-|             33 | Gideon Wrampling     |      78.73 |       1.01785e+06 |       23 |       1.01754e+06 |      72.83 | Harry Godfrey              |             25 |
+|             69 | Ollie Norris         |      90.66 |  944717           |        1 |       1.01761e+06 |      73.11 | Pouri Gordon Rakete-Stones |             55 |
+|             51 | Rhys Marshall        |      77.48 |       1.01812e+06 |        2 |       1.01537e+06 |      68.63 | Kianu Kereru-Symes         |             41 |
+|             69 | Solomone Tukuafu     |      79.77 |       1.01797e+06 |        3 |       1.01684e+06 |      56.55 | Isaac Salmon               |             16 |
+|             31 | Tai Cribb            |      79.98 |       1.01801e+06 |        4 |       1.01756e+06 |      76.43 | Frank Lochore              |             80 |
+|             80 | Hamilton Burr        |      78.85 |       1.01795e+06 |        5 |       1.01822e+06 |      72.55 | Tom Allen                  |             80 |
+|             80 | Xavier Saifoloi      |      75.33 |       1.01822e+06 |        6 |       1.01822e+06 |      72.72 | Josh Gimblett              |             39 |
+|             52 | Patrick McCurran     |      77.38 |       1.01793e+06 |        7 |       1.01762e+06 |      74.35 | Siosiua (Josh) Kaifa       |             51 |
+|             80 | Te Rama Reuben       |      74.98 |       1.01823e+06 |        8 |       1.0176e+06  |      70.11 | Marino Mikaele Tu'u        |             80 |
+|             69 | Xavier Roe           |      78.29 |       1.018e+06   |        9 |  696676           |     137.06 | Brad Weber                 |             60 |
+|             80 | Taha Kemara          |      75.51 |       1.01798e+06 |       10 |       1.0176e+06  |      74.35 | Lincoln McClutchie         |             80 |
+|             80 | Tana Tuhakaraina     |      78.98 |       1.018e+06   |       11 |       1.01759e+06 |      74.62 | Jonah Lowe                 |             80 |
+|             64 | Austin Anderson      |      80.13 |       1.01812e+06 |       12 |       1.01657e+06 |      71.26 | Chase Tiatia               |             80 |
+|             47 | Bailyn Sullivan      |      76.5  |       1.01802e+06 |       13 |       1.01761e+06 |      77.61 | Nicholas Grigg             |             60 |
+|             80 | Cody Nordstrom       |      76.15 |       1.01822e+06 |       14 |       1.01648e+06 |      78.84 | Paul Balekana              |             80 |
+|             80 | Liam Coombes-Fabling |      82.44 |       1.01658e+06 |       15 |       1.01559e+06 |      69.89 | Caleb Makene               |             55 |
+|             11 | Mason Tupaea         |      84.52 |       1.01793e+06 |       16 |     nan           |      75.57 | Timothy John Farrell       |             25 |
+|             29 | Sean Ralph           |      75.72 |     nan           |       17 |  988009           |      86.31 | Tyrone Thompson            |             39 |
+|             11 | Tolu Fahamokioa      |      75.52 |     nan           |       18 |       1.01647e+06 |      67.35 | Joel Hintz                 |             64 |
+|             49 | Zinzan Hansen        |      75.15 |     nan           |       19 |       1.01822e+06 |      72.89 | Geoffrey Cridge            |             41 |
+|             28 | Simon Parker         |      86.42 |       1.01658e+06 |       20 |       1.01764e+06 |      77.18 | Sam Smith                  |             29 |
+|             11 | Nui Muriwai          |      75.93 |     nan           |       21 |       1.01756e+06 |      75.86 | Folau Fakatava             |             20 |
+|             16 | Tepaea Cook-Savage   |      77.15 |       1.01799e+06 |       22 |       1.01807e+06 |      75.29 | Anzelo Tuitavuki           |             20 |
+|             33 | Gideon Wrampling     |      78.51 |       1.01797e+06 |       23 |       1.01759e+06 |      74.12 | Harry Godfrey              |             25 |
 
 
 # Player Level Predictions - Version 2
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Hawke's Bay by 4.8
+## Prediction with Player Minutes: Hawke's Bay by 4.4
 
 
-Hawke's Bay by 1.4 on a neutral field
-## Prediction without Player Minutes: Hawke's Bay by 5.0
+Hawke's Bay by 1.1 on a neutral field
+## Prediction without Player Minutes: Hawke's Bay by 4.7
 
 
-Hawke's Bay by 1.7 on a neutral pitch
+Hawke's Bay by 1.4 on a neutral pitch
 
 
 
@@ -104,7 +104,7 @@ Hawke's Bay by 1.7 on a neutral pitch
 |             69 | Xavier Roe           |      46.65 |              50 |        9 |              50 |     102.51 | Brad Weber                 |             60 |
 |             80 | Taha Kemara          |      46.65 |              50 |       10 |              50 |      46.65 | Lincoln McClutchie         |             80 |
 |             80 | Tana Tuhakaraina     |      46.65 |              50 |       11 |              50 |      46.65 | Jonah Lowe                 |             80 |
-|             64 | Austin Anderson      |      46.65 |              50 |       12 |              50 |      55.23 | Chase Tiatia               |             80 |
+|             64 | Austin Anderson      |      46.65 |              50 |       12 |              50 |      46.65 | Chase Tiatia               |             80 |
 |             47 | Bailyn Sullivan      |      46.65 |              50 |       13 |              50 |      46.65 | Nicholas Grigg             |             60 |
 |             80 | Cody Nordstrom       |      46.65 |              50 |       14 |              50 |      46.65 | Paul Balekana              |             80 |
 |             80 | Liam Coombes-Fabling |      46.65 |              50 |       15 |              50 |      46.65 | Caleb Makene               |             55 |

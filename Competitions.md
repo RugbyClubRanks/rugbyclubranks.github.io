@@ -192,7 +192,7 @@ key: page-recents
 ## Bunnings Warehouse NPC
 
 
-[2023](comp_files\Bunnings_Warehouse_NPC_2023) - Prediction Accuracy: 70.8% 
+[2023](comp_files\Bunnings_Warehouse_NPC_2023) - Prediction Accuracy: 68.0% 
 
 [2022](comp_files\Bunnings_Warehouse_NPC_2022) - Prediction Accuracy: 70.1% 
 
@@ -222,7 +222,7 @@ key: page-recents
 ## Pro D2
 
 
-[2023](comp_files\Pro_D2_2023) - Prediction Accuracy: 87.5% 
+[2023](comp_files\Pro_D2_2023) - Prediction Accuracy: 88.9% 
 
 [2022](comp_files\Pro_D2_2022) - Prediction Accuracy: 67.8% 
 

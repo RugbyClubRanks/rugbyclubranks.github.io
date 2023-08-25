@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Bordeaux Begles by 0.1
+## Prediction with Player Minutes: Racing 92 by 2.0
 
 
-Bordeaux Begles by 4.1 on a neutral field
-## Prediction without Player Minutes: Racing 92 by 0.5
+Bordeaux Begles by 2.0 on a neutral field
+## Prediction without Player Minutes: Racing 92 by 2.8
 
 
-Bordeaux Begles by 3.5 on a neutral pitch
+Bordeaux Begles by 1.2 on a neutral pitch
 
 
 ## Scores over Time
@@ -47,33 +47,33 @@ Bordeaux Begles by 3.5 on a neutral pitch
 
 ![In Match Predictions](plots/recap_prob_2023-08-19-Racing92-BordeauxBegles.png)
 
-There were 12 large changes in win probability in this match
+There were 13 large changes in win probability in this match
 
 |   Away Minutes | Away Player               |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:--------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|---------------:|
-|              5 | Jefferson Poirot          |      90.89 |       1.01622e+06 |        1 |       1.01169e+06 |      84.99 | Thomas Moukoro      |             50 |
-|             57 | Maxime Lamothe            |      93.06 |       1.0162e+06  |        2 |       1.01586e+06 |      83.85 | Camille Chat        |             50 |
-|             57 | Carlu Johann Sadie        |      71.49 |       1.01685e+06 |        3 |       1.01582e+06 |      82.46 | Cedate Gomes Sa     |             57 |
-|             57 | Thomas Jolmes             |      86.75 |       1.01625e+06 |        4 |       1.01675e+06 |      78.11 | Baptiste Chouzenoux |             80 |
-|             80 | Kane Douglas              |      89.75 |       1.01624e+06 |        5 |       1.01586e+06 |      83.7  | Boris Palu          |             80 |
-|             80 | Mahamadou Diaby           |      90.44 |       1.01623e+06 |        6 |       1.01584e+06 |      91.15 | Wenceslas Lauret    |             80 |
-|             46 | Bastien Vergnes Taillefer |      87.01 |       1.01627e+06 |        7 |       1.01834e+06 |      79.96 | Maxime Baudonne     |             80 |
-|             46 | Marko Gazzotti            |      77.96 |       1.00913e+06 |        8 |       1.01834e+06 |      79.76 | Jordan Joseph       |             52 |
-|             75 | Paul Abadie               |      62.64 |       1.01618e+06 |        9 |       1.01583e+06 |      82.66 | Nolann Le Garrec    |             76 |
-|             80 | Zack Holmes               |      90.62 |       1.01621e+06 |       10 |       1.01572e+06 |      83.49 | Tristan Tedder      |             80 |
-|             80 | Madosh Tambwe             |      92.04 |       1.01623e+06 |       11 |  898126           |      83.89 | Wame Naituvi        |              5 |
-|             80 | Ben Tapuai                |      82.81 |       1.01834e+06 |       12 |       1.01654e+06 |      83.78 | Henry Chavancy      |             80 |
-|             80 | Nicolas Depoortere        |     103.6  |       1.01102e+06 |       13 |       1.01583e+06 |      86.1  | Olivier Klemenczak  |             57 |
-|             71 | Pablo Uberti              |      82.38 |       1.01834e+06 |       14 |       1.01582e+06 |      85.89 | Donovan Taofifenua  |             80 |
-|             80 | Romain Buros              |      82.18 |       1.01835e+06 |       15 |       1.01653e+06 |      82.12 | Max Spring          |             67 |
-|             75 | Ugo Boniface              |      92.19 |     nan           |       16 |       1.0158e+06  |      88    | Fabien Sanconnie    |             75 |
-|             34 | Raphaël Lakafia           |      94.78 |     nan           |       17 |  924048           |      73.52 | Janick Tarrit       |             30 |
-|             34 | Antoine Miquel            |      83.04 |     nan           |       18 |       1.01581e+06 |      84.43 | Eddy Ben Arous      |             30 |
-|             23 | Christopher Vaotoa        |      95.86 |  871904           |       19 |       1.01654e+06 |      82.92 | Ibrahim Diallo      |             28 |
-|             23 | Adam Coleman              |      83.28 |     nan           |       20 |       1.0158e+06  |      88.08 | Francis Saili       |             23 |
-|             23 | Clément Maynadier         |      82.59 |     nan           |       21 |     nan           |      79.57 | Will Griff John     |             23 |
-|              9 | Nans Ducuing              |      83.54 |     nan           |       22 |       1.01579e+06 |      89.98 | Antoine Gibert      |             13 |
-|              5 | Théo Nanette              |      82    |     nan           |       23 |     nan           |      79.39 | James Hall          |              4 |
+|              5 | Jefferson Poirot          |      88.74 |       1.01618e+06 |        1 |       1.01202e+06 |      84.79 | Thomas Moukoro      |             50 |
+|             57 | Maxime Lamothe            |      89.25 |       1.01616e+06 |        2 |       1.01582e+06 |      86.77 | Camille Chat        |             50 |
+|             57 | Carlu Johann Sadie        |      72.31 |       1.01698e+06 |        3 |       1.0158e+06  |      83.52 | Cedate Gomes Sa     |             57 |
+|             57 | Thomas Jolmes             |      87.89 |       1.01613e+06 |        4 |       1.01689e+06 |      82.34 | Baptiste Chouzenoux |             80 |
+|             80 | Kane Douglas              |      93.07 |       1.01616e+06 |        5 |       1.0158e+06  |      86.37 | Boris Palu          |             80 |
+|             80 | Mahamadou Diaby           |      88.46 |       1.01615e+06 |        6 |       1.01577e+06 |      94.5  | Wenceslas Lauret    |             80 |
+|             46 | Bastien Vergnes Taillefer |      91.79 |       1.01616e+06 |        7 |       1.01849e+06 |      81.22 | Maxime Baudonne     |             80 |
+|             46 | Marko Gazzotti            |      77.94 |       1.00945e+06 |        8 |       1.01849e+06 |      81.59 | Jordan Joseph       |             52 |
+|             75 | Paul Abadie               |      71.24 |       1.01608e+06 |        9 |       1.01574e+06 |      89.51 | Nolann Le Garrec    |             76 |
+|             80 | Zack Holmes               |      90.71 |       1.01617e+06 |       10 |       1.01568e+06 |      81.38 | Tristan Tedder      |             80 |
+|             80 | Madosh Tambwe             |      89.62 |       1.01615e+06 |       11 |  898327           |      83.89 | Wame Naituvi        |              5 |
+|             80 | Ben Tapuai                |      84.32 |       1.01848e+06 |       12 |       1.01661e+06 |      86.86 | Henry Chavancy      |             80 |
+|             80 | Nicolas Depoortere        |     101.06 |       1.01135e+06 |       13 |       1.01575e+06 |      90.3  | Olivier Klemenczak  |             57 |
+|             71 | Pablo Uberti              |      82.76 |       1.01849e+06 |       14 |       1.0158e+06  |      88.92 | Donovan Taofifenua  |             80 |
+|             80 | Romain Buros              |      83.57 |       1.01848e+06 |       15 |       1.01659e+06 |      86.43 | Max Spring          |             67 |
+|             75 | Ugo Boniface              |      95.87 |     nan           |       16 |       1.01578e+06 |      88.06 | Fabien Sanconnie    |             75 |
+|             34 | Raphaël Lakafia           |      97.51 |     nan           |       17 |  924274           |      74.14 | Janick Tarrit       |             30 |
+|             34 | Antoine Miquel            |      83.14 |     nan           |       18 |       1.01576e+06 |      87.78 | Eddy Ben Arous      |             30 |
+|             23 | Christopher Vaotoa        |      95.86 |  872102           |       19 |       1.01661e+06 |      85.54 | Ibrahim Diallo      |             28 |
+|             23 | Adam Coleman              |      83.35 |     nan           |       20 |       1.01578e+06 |      88.08 | Francis Saili       |             23 |
+|             23 | Clément Maynadier         |      83.81 |     nan           |       21 |     nan           |      81.8  | Will Griff John     |             23 |
+|              9 | Nans Ducuing              |      82.95 |     nan           |       22 |       1.01581e+06 |      86.79 | Antoine Gibert      |             13 |
+|              5 | Théo Nanette              |      84.05 |     nan           |       23 |     nan           |      81.4  | James Hall          |              4 |
 
 
 # Player Level Predictions - Version 2

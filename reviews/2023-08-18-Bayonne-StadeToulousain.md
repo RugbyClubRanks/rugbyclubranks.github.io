@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Stade Toulousain by 7.2
+## Prediction with Player Minutes: Stade Toulousain by 7.8
 
 
-Stade Toulousain by 11.2 on a neutral field
-## Prediction without Player Minutes: Stade Toulousain by 7.8
+Stade Toulousain by 11.8 on a neutral field
+## Prediction without Player Minutes: Stade Toulousain by 8.4
 
 
-Stade Toulousain by 11.8 on a neutral pitch
+Stade Toulousain by 12.4 on a neutral pitch
 
 
 ## Scores over Time
@@ -51,29 +51,29 @@ There were 5 large changes in win probability in this match
 
 |   Away Minutes | Away Player          |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:---------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
-|             59 | Rodrigue Neti        |      86.98 |       1.01614e+06 |        1 |       1.01597e+06 |      78.15 | Quentin Béthune      |             46 |
-|             50 | Ian Boubila          |      81.67 |       1.01832e+06 |        2 |       1.01831e+06 |      76.83 | Vincent Giudicelli   |             59 |
-|             46 | Owen Franks          |      81.87 |       1.01832e+06 |        3 |       1.01832e+06 |      76.39 | Pieter Ernst Scholtz |             46 |
-|             80 | Piula Fa'asalele     |      72.65 |       1.01573e+06 |        4 |       1.01599e+06 |      77.76 | Denis Marchois       |             80 |
-|             59 | Joshua Brennan       |      93.79 |       1.00648e+06 |        5 |  803542           |     112.9  | Thomas Ceyte         |             80 |
-|             59 | Alban Placines       |      83.18 |       1.01618e+06 |        6 |  868587           |      81.61 | Pierre Huguet        |             50 |
-|             46 | Theo Ntamack         |      85.7  |       1.00795e+06 |        7 |       1.01598e+06 |      75.48 | Baptiste Heguy       |             50 |
-|             80 | Alexandre Roumat     |      95.84 |       1.01615e+06 |        8 |       1.01601e+06 |      74.3  | Uzair Cassiem        |             80 |
-|             80 | Paul Graou           |     106.42 |  914713           |        9 |       1.01832e+06 |      75.64 | Guillaume Rouet      |             59 |
-|             69 | Baptiste Germain     |      82.09 |       1.01832e+06 |       10 |       1.01599e+06 |      75.22 | Camille Lopez        |             80 |
-|             55 | Arthur Retière       |      95.03 |       1.01616e+06 |       11 |       1.01595e+06 |      77.66 | Rémy Baget           |             80 |
-|             80 | Sofiane Guitoune     |      84.42 |       1.01612e+06 |       12 |  964811           |      67.72 | Guillaume Martocq    |             80 |
-|             80 | Pierre-Louis Barassi |      85.76 |       1.01689e+06 |       13 |       1.01595e+06 |      79.99 | Peyo Muscarditz      |             59 |
-|             80 | Lucas Tauzin         |      82.18 |       1.01676e+06 |       14 |       1.00939e+06 |      88.44 | Kaminieli Rasaku     |             80 |
-|             80 | Matthis Lebel        |      97.59 |       1.01613e+06 |       15 |       1.00597e+06 |      62.05 | Tom Spring           |             71 |
-|             34 | Joel Merkler         |      81.47 |     nan           |       16 |     nan           |      76.19 | Swan Cormenier       |             34 |
-|             34 | Léo Banos            |      80.02 |  975390           |       17 |  993680           |      90.44 | Tevita Tatafu        |             34 |
-|             30 | Malachi Hawkes       |      81.29 |     nan           |       18 |       1.01592e+06 |      83.47 | Rémi Bourdeau        |             30 |
-|             25 | Paul Costes          |      82.47 |     nan           |       19 |       1.01578e+06 |      84.16 | Arthur Iturria       |             30 |
-|             21 | Clement Verge        |      78.29 |       1.00974e+06 |       20 |     nan           |      76    | Thomas Acquier       |             21 |
-|             11 | Billy Searle         |      82.31 |     nan           |       21 |     nan           |      76.6  | Cheikh Tiberghien    |             21 |
-|             21 | Rynhard Elstadt      |      81.77 |     nan           |       22 |     nan           |      75.82 | Maxime Machenaud     |             21 |
-|             21 | Maxime Duprat        |      80.9  |  988684           |       23 |  988949           |      84.58 | Thomas Dolhagaray    |              9 |
+|             59 | Rodrigue Neti        |      92.77 |       1.0161e+06  |        1 |       1.01591e+06 |      80.36 | Quentin Béthune      |             46 |
+|             50 | Ian Boubila          |      84.77 |       1.01846e+06 |        2 |       1.01845e+06 |      79.1  | Vincent Giudicelli   |             59 |
+|             46 | Owen Franks          |      84.56 |       1.01846e+06 |        3 |       1.01845e+06 |      78.65 | Pieter Ernst Scholtz |             46 |
+|             80 | Piula Fa'asalele     |      73.18 |       1.01567e+06 |        4 |       1.01598e+06 |      77.24 | Denis Marchois       |             80 |
+|             59 | Joshua Brennan       |      93.79 |       1.0068e+06  |        5 |  803683           |     117.97 | Thomas Ceyte         |             80 |
+|             59 | Alban Placines       |      96.13 |       1.01607e+06 |        6 |  868782           |      84.52 | Pierre Huguet        |             50 |
+|             46 | Theo Ntamack         |      85.7  |       1.00827e+06 |        7 |       1.01597e+06 |      79.65 | Baptiste Heguy       |             50 |
+|             80 | Alexandre Roumat     |      90.53 |       1.01607e+06 |        8 |       1.01595e+06 |      80.73 | Uzair Cassiem        |             80 |
+|             80 | Paul Graou           |     106.42 |  914947           |        9 |       1.01846e+06 |      78.06 | Guillaume Rouet      |             59 |
+|             69 | Baptiste Germain     |      84.36 |       1.01846e+06 |       10 |       1.01597e+06 |      79.47 | Camille Lopez        |             80 |
+|             55 | Arthur Retière       |      93.81 |       1.01604e+06 |       11 |       1.01591e+06 |      82.24 | Rémy Baget           |             80 |
+|             80 | Sofiane Guitoune     |      95.92 |       1.01608e+06 |       12 |  965078           |      69.3  | Guillaume Martocq    |             80 |
+|             80 | Pierre-Louis Barassi |      95.93 |       1.01703e+06 |       13 |       1.01591e+06 |      80.58 | Peyo Muscarditz      |             59 |
+|             80 | Lucas Tauzin         |      95.51 |       1.01689e+06 |       14 |       1.00971e+06 |      88.44 | Kaminieli Rasaku     |             80 |
+|             80 | Matthis Lebel        |      89.4  |       1.01608e+06 |       15 |       1.00629e+06 |      67.64 | Tom Spring           |             71 |
+|             34 | Joel Merkler         |      84.99 |     nan           |       16 |     nan           |      78.87 | Swan Cormenier       |             34 |
+|             34 | Léo Banos            |      80.02 |  975666           |       17 |  993979           |      93.36 | Tevita Tatafu        |             34 |
+|             30 | Malachi Hawkes       |      84.17 |     nan           |       18 |       1.01586e+06 |      84.12 | Rémi Bourdeau        |             30 |
+|             25 | Paul Costes          |      82.47 |     nan           |       19 |       1.01582e+06 |      80.33 | Arthur Iturria       |             30 |
+|             21 | Clement Verge        |      78.29 |       1.01006e+06 |       20 |     nan           |      78.44 | Thomas Acquier       |             21 |
+|             11 | Billy Searle         |      85.23 |     nan           |       21 |     nan           |      77.88 | Cheikh Tiberghien    |             21 |
+|             21 | Rynhard Elstadt      |      94.41 |     nan           |       22 |     nan           |      78.25 | Maxime Machenaud     |             21 |
+|             21 | Maxime Duprat        |      80.9  |  988976           |       23 |  989250           |      86.29 | Thomas Dolhagaray    |              9 |
 
 
 # Player Level Predictions - Version 2

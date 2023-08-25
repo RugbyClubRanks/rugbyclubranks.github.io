@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Agen by 31.6
+## Prediction with Player Minutes: Agen by 20.4
 
 
-Agen by 27.6 on a neutral field
-## Prediction without Player Minutes: Agen by 30.5
+Agen by 16.4 on a neutral field
+## Prediction without Player Minutes: Agen by 19.1
 
 
-Agen by 26.5 on a neutral pitch
+Agen by 15.1 on a neutral pitch
 
 
 ## Scores over Time
@@ -47,33 +47,33 @@ Agen by 26.5 on a neutral pitch
 
 ![In Match Predictions](plots/recap_prob_2023-08-18-Agen-Brive.png)
 
-There were 10 large changes in win probability in this match
+There were 12 large changes in win probability in this match
 
 |   Away Minutes | Away Player               |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player        |   Home Minutes |
 |---------------:|:--------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------|---------------:|
-|             50 | Daniel Brennan            |      62.42 |       1.01617e+06 |        1 |       1.01817e+06 |      82.18 | Hans Lombard-Buret |             54 |
-|             61 | Issam Hamel               |      85.82 |  967738           |        2 |       1.01817e+06 |      83.58 | Mike Sosene-Feagai |             47 |
-|             50 | Marcel van der Merwe      |      62.24 |       1.01617e+06 |        3 |       1.01818e+06 |      79.88 | Alex Burin         |             47 |
-|             47 | Retief Marais             |      63.23 |       1.01817e+06 |        4 |       1.01816e+06 |      84.89 | Joe Maksymiw       |             47 |
-|             56 | Sitakeli Timani           |      83.79 |       1.01594e+06 |        5 |       1.01818e+06 |      80.11 | Evan Olmstead      |             47 |
-|             80 | Sasha Gue                 |      63.55 |       1.00171e+06 |        6 |       1.01817e+06 |      83.06 | Arnaud Duputs      |             40 |
-|             40 | Mathieu Voisin            |      63.64 |       1.01817e+06 |        7 |  963071           |     120.37 | Matthieu Bonnet    |             80 |
-|             80 | Ross Moriarty             |      62.97 |       1.01614e+06 |        8 |       1.01819e+06 |      79.29 | Fotu Lokotui       |             80 |
-|             54 | Julien Blanc              |      71.13 |       1.01571e+06 |        9 |       1.01818e+06 |      81.47 | Theo Idjellidaine  |             48 |
-|             51 | Jackson Garden-Bachop     |      63.43 |       1.01817e+06 |       10 |       1.01818e+06 |      81.15 | Thomas Vincent     |             80 |
-|             80 | Asaeli Tuivuaka           |      62.55 |       1.01818e+06 |       11 |       1.01817e+06 |      82.59 | Iban Etcheverry    |             80 |
-|             80 | Paula Walisolio           |      62.25 |       1.01819e+06 |       12 |  964453           |      74.3  | Kolinio Ramoka     |             64 |
-|             80 | Sam Johnson               |      63.04 |       1.01818e+06 |       13 |       1.01819e+06 |      79.67 | Clément Garrigues  |             80 |
-|             80 | Benjamin Lefranc          |      62.4  |       1.01819e+06 |       14 |       1.01818e+06 |      80.86 | Timilai Rokoduru   |             80 |
-|             80 | Arthur Bonneval           |      60.54 |       1.01616e+06 |       15 |       1.01817e+06 |      84.18 | Loris Tolot        |             80 |
-|             40 | Saïd Hireche              |      66.78 |     nan           |       16 |     nan           |      79.1  | Antoine Erbani     |             40 |
-|             33 | Renger Van Eerten         |      59.21 |  971523           |       17 |     nan           |      79.89 | Pierre Jouvin      |             33 |
-|             30 | Wesley Tapueluelu         |      65.56 |     nan           |       18 |     nan           |      80.59 | William Demotte    |             33 |
-|             30 | Francisco Coria Marchetti |      67.47 |       1.01043e+06 |       19 |     nan           |      80.34 | Martin Devergie    |             33 |
-|             29 | Stuart Olding             |      62.87 |     nan           |       20 |  968463           |      94.05 | Théo Sauzaret      |             33 |
-|             26 | Léo Carbonneau            |      62.7  |     nan           |       21 |  991232           |      78.16 | Dorian Bellot      |             32 |
-|             24 | Julien Delannoy           |      64.95 |       1.0161e+06  |       22 |     nan           |      81.81 | Richard Barrington |             26 |
-|             19 | Lucas Da Silva            |      61.42 |     nan           |       23 |     nan           |      79.47 | Dorian Jones       |             16 |
+|             50 | Daniel Brennan            |      74.12 |       1.01604e+06 |        1 |       1.0183e+06  |      80.11 | Hans Lombard-Buret |             54 |
+|             61 | Issam Hamel               |      85.82 |  968007           |        2 |       1.01829e+06 |      82.18 | Mike Sosene-Feagai |             47 |
+|             50 | Marcel van der Merwe      |      73.45 |       1.01606e+06 |        3 |       1.01829e+06 |      81.47 | Alex Burin         |             47 |
+|             47 | Retief Marais             |      70.41 |       1.01829e+06 |        4 |       1.01829e+06 |      80.59 | Joe Maksymiw       |             47 |
+|             56 | Sitakeli Timani           |      91.13 |       1.01584e+06 |        5 |       1.01829e+06 |      80.86 | Evan Olmstead      |             47 |
+|             80 | Sasha Gue                 |      69.01 |       1.00202e+06 |        6 |       1.01831e+06 |      79.1  | Arnaud Duputs      |             40 |
+|             40 | Mathieu Voisin            |      70.22 |       1.01829e+06 |        7 |  963337           |     120.37 | Matthieu Bonnet    |             80 |
+|             80 | Ross Moriarty             |      72.15 |       1.0161e+06  |        8 |       1.01828e+06 |      83.06 | Fotu Lokotui       |             80 |
+|             54 | Julien Blanc              |      68.57 |       1.01571e+06 |        9 |       1.01828e+06 |      83.58 | Theo Idjellidaine  |             48 |
+|             51 | Jackson Garden-Bachop     |      70.03 |       1.0183e+06  |       10 |       1.01828e+06 |      84.18 | Thomas Vincent     |             80 |
+|             80 | Asaeli Tuivuaka           |      69.69 |       1.01831e+06 |       11 |       1.0183e+06  |      80.34 | Iban Etcheverry    |             80 |
+|             80 | Paula Walisolio           |      69.53 |       1.01831e+06 |       12 |  964719           |      74.3  | Kolinio Ramoka     |             64 |
+|             80 | Sam Johnson               |      70.62 |       1.01828e+06 |       13 |       1.0183e+06  |      79.29 | Clément Garrigues  |             80 |
+|             80 | Benjamin Lefranc          |      69.86 |       1.0183e+06  |       14 |       1.01828e+06 |      84.89 | Timilai Rokoduru   |             80 |
+|             80 | Arthur Bonneval           |      78.33 |       1.01604e+06 |       15 |       1.0183e+06  |      79.47 | Loris Tolot        |             80 |
+|             40 | Saïd Hireche              |      69.34 |     nan           |       16 |     nan           |      81.15 | Antoine Erbani     |             40 |
+|             33 | Renger Van Eerten         |      72.06 |  971803           |       17 |     nan           |      79.89 | Pierre Jouvin      |             33 |
+|             30 | Wesley Tapueluelu         |      70.83 |       1.01609e+06 |       18 |     nan           |      79.88 | William Demotte    |             33 |
+|             30 | Francisco Coria Marchetti |      72.94 |       1.01076e+06 |       19 |     nan           |      81.81 | Martin Devergie    |             33 |
+|             29 | Stuart Olding             |      70.84 |       1.01828e+06 |       20 |  968735           |      94.05 | Théo Sauzaret      |             33 |
+|             26 | Léo Carbonneau            |      71.08 |     nan           |       21 |  991529           |      78.16 | Dorian Bellot      |             32 |
+|             24 | Julien Delannoy           |      74.27 |       1.01605e+06 |       22 |     nan           |      82.59 | Richard Barrington |             26 |
+|             19 | Lucas Da Silva            |      75.46 |     nan           |       23 |     nan           |      79.67 | Dorian Jones       |             16 |
 
 
 # Player Level Predictions - Version 2
