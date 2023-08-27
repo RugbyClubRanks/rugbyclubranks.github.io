@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Ireland by 2.6
+## Prediction with Player Minutes: Ireland by 3.0
 
 
-England by 1.4 on a neutral field
-## Prediction without Player Minutes: Ireland by 3.7
+England by 1.0 on a neutral field
+## Prediction without Player Minutes: Ireland by 4.1
 
 
-England by 0.3 on a neutral pitch
+Ireland by 0.1 on a neutral pitch
 
 
 ## Scores over Time
@@ -51,29 +51,29 @@ There were 7 large changes in win probability in this match
 
 |   Away Minutes | Away Player     |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:----------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|---------------:|
-|             57 | Ellis Genge     |      80.29 |            814540 |        1 |           1018269 |      91.6  | Andrew Porter       |             73 |
-|             67 | Jamie George    |     128.1  |            437592 |        2 |           1018268 |      91.85 | Dan Sheehan         |             38 |
-|             45 | Will Stuart     |      58.93 |            854580 |        3 |            707436 |     105.01 | Tadhg Furlong       |             57 |
-|             80 | Maro Itoje      |      95.46 |            669503 |        4 |            798022 |     146.17 | Tadhg Beirne        |             80 |
-|             51 | David Ribbans   |     100.48 |            864898 |        5 |            873090 |      97.01 | James Ryan          |             70 |
-|             75 | Courtney Lawes  |      79.21 |            376257 |        6 |            443351 |      64.18 | Peter O'Mahony      |             54 |
-|             80 | Ben Earl        |     101.53 |            856169 |        7 |            757420 |     110.31 | Josh van der Flier  |             80 |
-|             80 | Billy Vunipola  |      97.62 |            539677 |        8 |            969348 |      73.27 | Cian Prendergast    |             80 |
-|             57 | Ben Youngs      |      81.66 |            302412 |        9 |           1018270 |      91.36 | Jamison Gibson-Park |             67 |
-|             80 | George Ford     |     108.2  |            434929 |       10 |            794354 |      90.5  | Ross Byrne          |             70 |
-|             80 | Elliot Daly     |      99.03 |            527698 |       11 |           1018271 |      91.13 | James Lowe          |             59 |
-|             61 | Manu Tuilagi    |     110.47 |            512373 |       12 |           1018272 |      90.91 | Bundee Aki          |             69 |
-|             80 | Joe Marchant    |      80.47 |            779349 |       13 |            794521 |      80.43 | Garry Ringrose      |             80 |
-|             70 | Anthony Watson  |      89.68 |           1018273 |       14 |            923630 |      74.93 | Mack Hansen         |             80 |
-|             80 | Freddie Steward |      91.46 |            935294 |       15 |           1018274 |      90.71 | Hugo Keenan         |             80 |
-|             13 | Theo Dan        |      89.3  |            992574 |       16 |            460796 |      82.21 | Rob Herring         |             42 |
-|             23 | Joe Marler      |      73.87 |            439511 |       17 |            811135 |     104.36 | Jeremy Loughman     |              7 |
-|             35 | Kyle Sinckler   |      99.81 |            589369 |       18 |            617133 |      85.25 | Finlay Bealham      |             23 |
-|             29 | Ollie Chessum   |      85.8  |            956053 |       19 |            996642 |      83.47 | Joe McCarthy        |             26 |
-|              5 | Jack Willis     |     113.41 |            854681 |       20 |            910232 |     111.89 | Caelan Doris        |             10 |
-|             23 | Danny Care      |     124.98 |            248847 |       21 |            410762 |     127.79 | Conor Murray        |             13 |
-|             10 | Marcus Smith    |     103.33 |            884562 |       22 |            968244 |     110.7  | Jack Crowley        |             21 |
-|             19 | Ollie Lawrence  |      73.43 |            898824 |       23 |            359616 |      96.24 | Keith Earls         |             21 |
+|             57 | Ellis Genge     |      79.64 |            814930 |        1 |           1019134 |      91.75 | Andrew Porter       |             73 |
+|             67 | Jamie George    |     128.47 |            437641 |        2 |           1019135 |      91.51 | Dan Sheehan         |             38 |
+|             45 | Will Stuart     |      58.72 |            855044 |        3 |            707668 |     105.13 | Tadhg Furlong       |             57 |
+|             80 | Maro Itoje      |      93.68 |            669700 |        4 |            798398 |     146.1  | Tadhg Beirne        |             80 |
+|             51 | David Ribbans   |      99.9  |            865386 |        5 |            873596 |      97.01 | James Ryan          |             70 |
+|             75 | Courtney Lawes  |      79.88 |            376284 |        6 |            443404 |      64.1  | Peter O'Mahony      |             54 |
+|             80 | Ben Earl        |      99.75 |            856644 |        7 |            757702 |     110.31 | Josh van der Flier  |             80 |
+|             80 | Billy Vunipola  |      98.14 |            539770 |        8 |            970204 |      73.46 | Cian Prendergast    |             80 |
+|             57 | Ben Youngs      |      82.06 |            302423 |        9 |           1019133 |      92    | Jamison Gibson-Park |             67 |
+|             80 | George Ford     |     110.6  |            434978 |       10 |            794718 |      90.5  | Ross Byrne          |             70 |
+|             80 | Elliot Daly     |      97.86 |            527785 |       11 |           1019138 |      90.85 | James Lowe          |             59 |
+|             61 | Manu Tuilagi    |     112.53 |            512453 |       12 |           1019137 |      91.06 | Bundee Aki          |             69 |
+|             80 | Joe Marchant    |      80.14 |            779675 |       13 |            794886 |      80.43 | Garry Ringrose      |             80 |
+|             70 | Anthony Watson  |      89.34 |           1019139 |       14 |            924291 |      74.93 | Mack Hansen         |             80 |
+|             80 | Freddie Steward |      91.13 |            935993 |       15 |           1019136 |      91.28 | Hugo Keenan         |             80 |
+|             13 | Theo Dan        |      83.4  |            993555 |       16 |            460855 |      82.43 | Rob Herring         |             42 |
+|             23 | Joe Marler      |      74.32 |            439561 |       17 |            811518 |     104.88 | Jeremy Loughman     |              7 |
+|             35 | Kyle Sinckler   |      99.49 |            589495 |       18 |            617283 |      85.25 | Finlay Bealham      |             23 |
+|             29 | Ollie Chessum   |      85.8  |            956814 |       19 |            997644 |      83.82 | Joe McCarthy        |             26 |
+|              5 | Jack Willis     |     112.45 |            855153 |       20 |            910852 |     112.24 | Caelan Doris        |             10 |
+|             23 | Danny Care      |     124.36 |            248851 |       21 |            410803 |     128.34 | Conor Murray        |             13 |
+|             10 | Marcus Smith    |     102.58 |            885108 |       22 |            969090 |     110.87 | Jack Crowley        |             21 |
+|             19 | Ollie Lawrence  |      74.04 |            899418 |       23 |            359639 |      96.57 | Keith Earls         |             21 |
 
 
 # Player Level Predictions - Version 2

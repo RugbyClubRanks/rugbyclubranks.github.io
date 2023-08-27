@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Northland by 5.5
+## Prediction with Player Minutes: Northland by 6.2
 
 
-Northland by 9.5 on a neutral field
-## Prediction without Player Minutes: Northland by 5.6
+Northland by 10.2 on a neutral field
+## Prediction without Player Minutes: Northland by 6.3
 
 
-Northland by 9.6 on a neutral pitch
+Northland by 10.3 on a neutral pitch
 
 
 ## Scores over Time
@@ -47,33 +47,33 @@ Northland by 9.6 on a neutral pitch
 
 ![In Match Predictions](plots/recap_prob_2023-08-25-Manawatu-Northland.png)
 
-There were 13 large changes in win probability in this match
+There were 12 large changes in win probability in this match
 
 |   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player           |   Home Minutes |
 |---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------|---------------:|
-|             49 | Jarred Adams          |      58.49 |       1.01681e+06 |        1 |       1.01847e+06 |      66.55 | Malakai Hala-Ngatai   |             49 |
-|             49 | Matt Moulds           |      71.76 |       1.01784e+06 |        2 |       1.0182e+06  |      64.74 | Leif Schwenke         |             47 |
-|             59 | Remsy Lemisio         |      80.39 |       1.0178e+06  |        3 |       1.01768e+06 |      63.85 | Flyn Yates            |             51 |
-|             80 | Sam Weir Caird        |      72.81 |       1.01782e+06 |        4 |       1.0182e+06  |      64.83 | Stan van den Hoven    |             69 |
-|             59 | Hayden Jurlina        |      72.11 |       1.01848e+06 |        5 |  940674           |      68.22 | Johannes Momsen       |             80 |
-|             80 | Rob Rush              |      77.48 |       1.01781e+06 |        6 |       1.01768e+06 |      73.27 | Te Kamaka Howden      |             54 |
-|             68 | Jonah Mau'u           |      75.96 |       1.01776e+06 |        7 |       1.0153e+06  |      79.24 | Slade McDowall        |             80 |
-|             80 | Matt Matich           |      74.96 |       1.01778e+06 |        8 |  892332           |      59.17 | Brayden Iose          |             80 |
-|             57 | Lisati Milo-Harris    |      78.61 |       1.01777e+06 |        9 |       1.01766e+06 |      63.63 | Jordi Viljoen         |             52 |
-|             57 | Rivez Reihana         |      77.66 |       1.0178e+06  |       10 |  881416           |      96.34 | Brett Cameron         |             74 |
-|             80 | Heremaia Murray       |      79.86 |       1.01776e+06 |       11 |       1.01654e+06 |      85.64 | Tima Fainga'anuku     |             80 |
-|             57 | Blake Hohaia          |      76.64 |       1.01819e+06 |       12 |       1.01769e+06 |      67.16 | Kyle Brown            |             80 |
-|             80 | Tamati Tua            |     100.26 |  827629           |       13 |       1.01565e+06 |      64.94 | Te Rangatira Waitokia |             58 |
-|             80 | Brady Rush            |      76.18 |       1.01784e+06 |       14 |       1.01553e+06 |      69.43 | Drew Wild             |             80 |
-|             80 | Joshua Moorby         |      89.12 |  945452           |       15 |       1.01532e+06 |      71.94 | Beaudein Waaka        |             80 |
-|             31 | Rob Cobb              |      74.93 |       1.01557e+06 |       16 |       1.01766e+06 |      67.77 | Joseph Gavigan        |             31 |
-|             21 | Coree Te Whata-Colley |      69.39 |     nan           |       17 |       1.01648e+06 |      62.81 | Cole Keith            |             29 |
-|             31 | Bruce Kauika-Peterson |      77.86 |       1.01778e+06 |       18 |       1.01772e+06 |      62.29 | Raymond Tuputupu      |             33 |
-|             21 | Sean Sweetman         |      67.8  |       1.01803e+06 |       19 |       1.0177e+06  |      67.06 | Ofa Tauatevalu        |             11 |
-|             12 | Rory Woods            |      71.4  |     nan           |       20 |       1.0182e+06  |      63.5  | Terrell Peita         |             26 |
-|             23 | Trent Hape            |      67.15 |     nan           |       21 |  959318           |     106    | John Poland           |             28 |
-|             23 | Daniel Hawkins        |      70.52 |       1.01773e+06 |       22 |     nan           |      66.13 | Isaiah Ravula         |              6 |
-|             23 | Rene Ranger           |      63.56 |     nan           |       23 |       1.01632e+06 |      44.13 | Jason Emery           |             22 |
+|             49 | Jarred Adams          |      58.17 |       1.01695e+06 |        1 |       1.0195e+06  |      65.47 | Malakai Hala-Ngatai   |             49 |
+|             49 | Matt Moulds           |      70.31 |       1.01859e+06 |        2 |       1.01904e+06 |      63.12 | Leif Schwenke         |             47 |
+|             59 | Remsy Lemisio         |      80.39 |       1.01851e+06 |        3 |       1.01841e+06 |      61.7  | Flyn Yates            |             51 |
+|             80 | Sam Weir Caird        |      73.26 |       1.01852e+06 |        4 |       1.01904e+06 |      62.4  | Stan van den Hoven    |             69 |
+|             59 | Hayden Jurlina        |      70.57 |       1.01951e+06 |        5 |  941386           |      66.92 | Johannes Momsen       |             80 |
+|             80 | Rob Rush              |      79    |       1.0185e+06  |        6 |       1.01842e+06 |      72.11 | Te Kamaka Howden      |             54 |
+|             68 | Jonah Mau'u           |      74.29 |       1.01851e+06 |        7 |       1.0163e+06  |      64.91 | Slade McDowall        |             80 |
+|             80 | Matt Matich           |      71.24 |       1.01859e+06 |        8 |  892903           |      59.94 | Brayden Iose          |             80 |
+|             57 | Lisati Milo-Harris    |      75.94 |       1.01853e+06 |        9 |       1.0184e+06  |      61.1  | Jordi Viljoen         |             52 |
+|             57 | Rivez Reihana         |      78.79 |       1.0185e+06  |       10 |  881947           |      96.6  | Brett Cameron         |             74 |
+|             80 | Heremaia Murray       |      76.03 |       1.01854e+06 |       11 |       1.01645e+06 |      87.37 | Tima Fainga'anuku     |             80 |
+|             57 | Blake Hohaia          |      75.58 |       1.01902e+06 |       12 |       1.01839e+06 |      66.16 | Kyle Brown            |             80 |
+|             80 | Tamati Tua            |      99.67 |  828046           |       13 |       1.01631e+06 |      69.84 | Te Rangatira Waitokia |             58 |
+|             80 | Brady Rush            |      75.39 |       1.01856e+06 |       14 |       1.01712e+06 |      70.98 | Drew Wild             |             80 |
+|             80 | Joshua Moorby         |      89.11 |  946184           |       15 |       1.01761e+06 |      60.19 | Beaudein Waaka        |             80 |
+|             31 | Rob Cobb              |      69.99 |       1.01713e+06 |       16 |       1.0184e+06  |      66.06 | Joseph Gavigan        |             31 |
+|             21 | Coree Te Whata-Colley |      68.09 |     nan           |       17 |       1.0164e+06  |      60.69 | Cole Keith            |             29 |
+|             31 | Bruce Kauika-Peterson |      75.52 |       1.01856e+06 |       18 |       1.01837e+06 |      62.09 | Raymond Tuputupu      |             33 |
+|             21 | Sean Sweetman         |      66.4  |       1.01884e+06 |       19 |       1.01845e+06 |      65.15 | Ofa Tauatevalu        |             11 |
+|             12 | Rory Woods            |      69.94 |     nan           |       20 |       1.01903e+06 |      62.84 | Terrell Peita         |             26 |
+|             23 | Trent Hape            |      65.96 |     nan           |       21 |  960090           |     116.56 | John Poland           |             28 |
+|             23 | Daniel Hawkins        |      64.59 |       1.01858e+06 |       22 |     nan           |      65.5  | Isaiah Ravula         |              6 |
+|             23 | Rene Ranger           |      61.33 |     nan           |       23 |       1.01719e+06 |      45.71 | Jason Emery           |             22 |
 
 
 # Player Level Predictions - Version 2

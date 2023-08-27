@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Brive by 2.3
+## Prediction with Player Minutes: Beziers by 10.3
 
 
-Beziers by 1.7 on a neutral field
-## Prediction without Player Minutes: Brive by 1.0
+Beziers by 14.3 on a neutral field
+## Prediction without Player Minutes: Beziers by 11.5
 
 
-Beziers by 3.0 on a neutral pitch
+Beziers by 15.5 on a neutral pitch
 
 
 ## Scores over Time
@@ -47,33 +47,33 @@ Beziers by 3.0 on a neutral pitch
 
 ![In Match Predictions](plots/recap_prob_2023-08-24-Brive-Beziers.png)
 
-There were 1 large changes in win probability in this match
+There were 2 large changes in win probability in this match
 
 |   Away Minutes | Away Player         |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player           |   Home Minutes |
 |---------------:|:--------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------|---------------:|
-|             45 | Yannick Arroyo      |      78.77 |       1.01834e+06 |        1 |       1.01609e+06 |      73.97 | Wesley Tapueluelu     |              4 |
-|             39 | Wilmar Arnoldi      |      79.4  |       1.01834e+06 |        2 |  968007           |      92.22 | Issam Hamel           |             50 |
-|             53 | Jon Zabala Arrieta  |      78.38 |       1.01835e+06 |        3 |       1.01606e+06 |      78.7  | Marcel van der Merwe  |             39 |
-|             80 | Hans Nkinsi         |      78.23 |       1.01837e+06 |        4 |       1.01584e+06 |      97.01 | Sitakeli Timani       |             80 |
-|             47 | John Madigan        |      77.16 |       1.01837e+06 |        5 |       1.01605e+06 |      76.79 | Julien Delannoy       |             39 |
-|             47 | Pierrick Gunther    |      76.16 |       1.01835e+06 |        6 |       1.00202e+06 |      77.41 | Sasha Gue             |             80 |
-|             80 | Clément Ancely      |      79.8  |       1.01834e+06 |        7 |       1.01829e+06 |      75.35 | Retief Marais         |             80 |
-|             80 | Sias Koen           |      80.49 |       1.01833e+06 |        8 |       1.0161e+06  |      80.55 | Ross Moriarty         |             47 |
-|             50 | Jean Victor Goillot |      77.39 |       1.01836e+06 |        9 |       1.01571e+06 |      74.24 | Julien Blanc          |             45 |
-|             39 | Victor Dreuille     |      84.9  |  871524           |       10 |       1.0183e+06  |      75.39 | Jackson Garden-Bachop |             80 |
-|             39 | Gabin Lorre         |     101.01 |  996232           |       11 |       1.01831e+06 |      78.09 | Asaeli Tuivuaka       |             80 |
-|             80 | Paul Recor          |      71.5  |  996477           |       12 |       1.01828e+06 |      79.02 | Sam Johnson           |             80 |
-|             80 | Branden Holder      |      78.97 |       1.01835e+06 |       13 |       1.01831e+06 |      77.93 | Paula Walisolio       |             62 |
-|             80 | Maxime Espeut       |     113.87 |  928298           |       14 |       1.01604e+06 |      86.73 | Arthur Bonneval       |             80 |
-|             80 | Charly Malié        |      79.53 |       1.01835e+06 |       15 |       1.01828e+06 |      73.89 | Stuart Olding         |             52 |
-|             41 | Taleta Tupuola      |      80.77 |       1.01833e+06 |       16 |       1.01604e+06 |      79.36 | Daniel Brennan        |             76 |
-|             41 | Harry Glynn         |      97.19 |       1.00862e+06 |       17 |     nan           |      76.7  | Tevita Ratuva         |             41 |
-|             41 | Yvann Lalevee       |      81.19 |  997597           |       18 |       1.0084e+06  |      95.71 | Vakh Abdaladze        |             41 |
-|             35 | Giorgi Akhaladze    |      77.14 |  962904           |       19 |     nan           |      73.81 | Léo Carbonneau        |             35 |
-|             33 | Pierre Gayraud      |      77.45 |     nan           |       20 |     nan           |      73.54 | Saïd Hireche          |             33 |
-|             33 | William van Bost    |      57.39 |  933543           |       21 |     nan           |      76.53 | Adrien Pelissié       |             30 |
-|             30 | Liam Rimet          |      94.65 |     nan           |       22 |       1.00954e+06 |      97.57 | Mathis Ferté          |             28 |
-|             27 | Julien Rasamoelina  |      69.64 |     nan           |       23 |       1.0183e+06  |      78.26 | Benjamin Lefranc      |             18 |
+|             45 | Yannick Arroyo      |      78.25 |       1.01927e+06 |        1 |       1.01917e+06 |      66.14 | Wesley Tapueluelu     |              4 |
+|             39 | Wilmar Arnoldi      |      78.84 |       1.01927e+06 |        2 |  968849           |      94.38 | Issam Hamel           |             50 |
+|             53 | Jon Zabala Arrieta  |      79.82 |       1.01925e+06 |        3 |       1.01918e+06 |      68.23 | Marcel van der Merwe  |             39 |
+|             80 | Hans Nkinsi         |      81.24 |       1.01925e+06 |        4 |       1.0192e+06  |      67.88 | Sitakeli Timani       |             80 |
+|             47 | John Madigan        |      79.95 |       1.01925e+06 |        5 |       1.01915e+06 |      66.25 | Julien Delannoy       |             39 |
+|             47 | Pierrick Gunther    |      75.77 |       1.01929e+06 |        6 |       1.00303e+06 |      74.15 | Sasha Gue             |             80 |
+|             80 | Clément Ancely      |      78.9  |       1.01928e+06 |        7 |       1.01919e+06 |      67.24 | Retief Marais         |             80 |
+|             80 | Sias Koen           |      78.01 |       1.01928e+06 |        8 |       1.01919e+06 |      71.7  | Ross Moriarty         |             47 |
+|             50 | Jean Victor Goillot |      79.14 |       1.01926e+06 |        9 |       1.01917e+06 |      69.25 | Julien Blanc          |             45 |
+|             39 | Victor Dreuille     |      84.98 |  872028           |       10 |       1.01916e+06 |      69.69 | Jackson Garden-Bachop |             80 |
+|             39 | Gabin Lorre         |     101.09 |  997233           |       11 |       1.01915e+06 |      74.96 | Asaeli Tuivuaka       |             80 |
+|             80 | Paul Recor          |      71.51 |  997479           |       12 |       1.01919e+06 |      71.54 | Sam Johnson           |             80 |
+|             80 | Branden Holder      |      77.99 |       1.01929e+06 |       13 |       1.01918e+06 |      72.05 | Paula Walisolio       |             62 |
+|             80 | Maxime Espeut       |     113.95 |  928971           |       14 |       1.01915e+06 |      75.49 | Arthur Bonneval       |             80 |
+|             80 | Charly Malié        |      79.13 |       1.01928e+06 |       15 |       1.0192e+06  |      63.96 | Stuart Olding         |             52 |
+|             41 | Taleta Tupuola      |      78.13 |       1.01929e+06 |       16 |       1.01917e+06 |      69.23 | Daniel Brennan        |             76 |
+|             41 | Harry Glynn         |      97.42 |       1.00968e+06 |       17 |     nan           |      69.04 | Tevita Ratuva         |             41 |
+|             41 | Yvann Lalevee       |      81.21 |  998601           |       18 |       1.00946e+06 |      95.71 | Vakh Abdaladze        |             41 |
+|             35 | Giorgi Akhaladze    |      77.17 |  963691           |       19 |     nan           |      64.66 | Léo Carbonneau        |             35 |
+|             33 | Pierre Gayraud      |      77.48 |     nan           |       20 |     nan           |      65.78 | Saïd Hireche          |             33 |
+|             33 | William van Bost    |      57.41 |  934236           |       21 |     nan           |      68.88 | Adrien Pelissié       |             30 |
+|             30 | Liam Rimet          |      94.67 |     nan           |       22 |       1.01061e+06 |      83.24 | Mathis Ferté          |             28 |
+|             27 | Julien Rasamoelina  |      69.66 |     nan           |       23 |       1.01915e+06 |      74.5  | Benjamin Lefranc      |             18 |
 
 
 # Player Level Predictions - Version 2

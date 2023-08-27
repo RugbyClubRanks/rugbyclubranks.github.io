@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: La Rochelle by 27.0
+## Prediction with Player Minutes: La Rochelle by 34.8
 
 
-La Rochelle by 31.0 on a neutral field
-## Prediction without Player Minutes: La Rochelle by 26.1
+La Rochelle by 38.8 on a neutral field
+## Prediction without Player Minutes: La Rochelle by 33.7
 
 
-La Rochelle by 30.1 on a neutral pitch
+La Rochelle by 37.7 on a neutral pitch
 
 
 ## Scores over Time
@@ -51,29 +51,29 @@ There were 10 large changes in win probability in this match
 
 |   Away Minutes | Away Player               |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                         |   Home Minutes |
 |---------------:|:--------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------------------|---------------:|
-|             57 | Thierry Paiva             |      83.96 |       1.01584e+06 |        1 |       1.01858e+06 |      66.59 | Enzo Forletta                       |             53 |
-|             68 | Quentin Lespiaucq-Brettes |      93.81 |       1.01694e+06 |        2 |       1.01857e+06 |      67.99 | Silalotu Latu                       |             41 |
-|             53 | Aleksandre Kuntelia       |      81.36 |       1.01002e+06 |        3 |       1.01857e+06 |      66.93 | George (Karl) Tu'inukuafe           |             41 |
-|             80 | Thomas Lavault            |      93.36 |       1.01695e+06 |        4 |       1.01857e+06 |      67.75 | Elliott Stooke                      |             80 |
-|             74 | Rémi Picquette            |      78.47 |       1.01586e+06 |        5 |       1.01599e+06 |      71.68 | Tyler Evan Duguid                   |             65 |
-|             80 | Ultan Dillane             |      89.63 |       1.01696e+06 |        6 |       1.01858e+06 |      66.75 | Nicolaas Jacobus Janse van Rensburg |             80 |
-|             59 | Oscar Jegou               |      85.42 |       1.01582e+06 |        7 |       1.01601e+06 |      69.37 | Alexandre Bécognée                  |             80 |
-|             80 | Judicael Cancoriet        |      82.53 |       1.01577e+06 |        8 |       1.01858e+06 |      66.28 | Marco Tauleigne                     |             67 |
-|             60 | Tawera Kerr-Barlow        |     100.48 |       1.01695e+06 |        9 |  944861           |      48.48 | Léo Coly                            |             79 |
-|             80 | Ihaia West                |      98.53 |       1.01618e+06 |       10 |       1.016e+06   |      74.96 | Louis Carbonel                      |             77 |
-|             60 | Hoani Bosmorin            |      87.27 |       1.01486e+06 |       11 |       1.01857e+06 |      67.12 | George Bridge                       |             80 |
-|             80 | Jules Favre               |      81.8  |       1.01587e+06 |       12 |       1.01857e+06 |      67.31 | Jan Lodewyk Serfontein              |             80 |
-|             80 | Jack Nowell               |      84.32 |       1.01857e+06 |       13 |       1.01598e+06 |      75.43 | Thomas Darmon                       |             80 |
-|             80 | Teddy Thomas              |      84.73 |       1.01857e+06 |       14 |       1.01602e+06 |      68.48 | Gabriel Ngandebe                    |             55 |
-|             74 | Dillyn Leyds              |     102.15 |       1.01694e+06 |       15 |       1.016e+06   |      71.26 | Julien Tisseron                     |             80 |
-|             27 | Georges-Henri Colombe     |      92.85 |     nan           |       16 |     nan           |      68.26 | Vano Karkadze                       |             39 |
-|             23 | Karl Sorin                |      84.52 |     nan           |       17 |     nan           |      66.43 | D'Arcy Rae                          |             39 |
-|             21 | Noé Della Schiava         |      92.7  |     nan           |       18 |     nan           |      67.53 | Baptiste Erdocio                    |             27 |
-|             20 | Teddy Iribaren            |      88.85 |       1.01575e+06 |       19 |  904937           |      68.84 | Clément Doumenc                     |             25 |
-|             20 | Nathan Bollengier         |      84.13 |     nan           |       20 |     nan           |      80.16 | Pierre Lucas                        |             15 |
-|             12 | Sacha Idoumi              |      91.38 |     nan           |       21 |       1.00946e+06 |      63.34 | Lenni Nouchi                        |             13 |
-|              6 | Thomas Berjon             |      89.28 |     nan           |       22 |     nan           |      79.51 | Louis Foursans-Bourdette            |              3 |
-|              6 | Thomas Ployet             |      80.83 |       1.01583e+06 |       23 |       1.00248e+06 |      90.69 | Aubin Eymeri                        |              1 |
+|             57 | Thierry Paiva             |      86.96 |       1.01981e+06 |        1 |       1.01979e+06 |      67.61 | Enzo Forletta                       |             53 |
+|             68 | Quentin Lespiaucq-Brettes |      94.11 |       1.01751e+06 |        2 |       1.0198e+06  |      65.61 | Silalotu Latu                       |             41 |
+|             53 | Aleksandre Kuntelia       |      82.16 |       1.01111e+06 |        3 |       1.0198e+06  |      66.9  | George (Karl) Tu'inukuafe           |             41 |
+|             80 | Thomas Lavault            |      94.95 |       1.01751e+06 |        4 |       1.01979e+06 |      68.04 | Elliott Stooke                      |             80 |
+|             74 | Rémi Picquette            |      86.56 |       1.01982e+06 |        5 |       1.01982e+06 |      65.21 | Tyler Evan Duguid                   |             65 |
+|             80 | Ultan Dillane             |      90.81 |       1.01752e+06 |        6 |       1.01982e+06 |      64.86 | Nicolaas Jacobus Janse van Rensburg |             80 |
+|             59 | Oscar Jegou               |      88.97 |       1.01603e+06 |        7 |       1.01982e+06 |      64.7  | Alexandre Bécognée                  |             80 |
+|             80 | Judicael Cancoriet        |      88.48 |       1.01979e+06 |        8 |       1.01982e+06 |      64.4  | Marco Tauleigne                     |             67 |
+|             60 | Tawera Kerr-Barlow        |     103.35 |       1.0175e+06  |        9 |  945590           |      48.48 | Léo Coly                            |             79 |
+|             80 | Ihaia West                |      88.19 |       1.0198e+06  |       10 |       1.0198e+06  |      65.83 | Louis Carbonel                      |             77 |
+|             60 | Hoani Bosmorin            |      87.67 |       1.01599e+06 |       11 |       1.0198e+06  |      66.6  | George Bridge                       |             80 |
+|             80 | Jules Favre               |      96.16 |       1.01748e+06 |       12 |       1.01978e+06 |      69.8  | Jan Lodewyk Serfontein              |             80 |
+|             80 | Jack Nowell               |      88.8  |       1.01979e+06 |       13 |       1.01981e+06 |      65.41 | Thomas Darmon                       |             80 |
+|             80 | Teddy Thomas              |      87.18 |       1.01981e+06 |       14 |       1.0198e+06  |      66.32 | Gabriel Ngandebe                    |             55 |
+|             74 | Dillyn Leyds              |     105.31 |       1.01749e+06 |       15 |       1.01979e+06 |      67.24 | Julien Tisseron                     |             80 |
+|             27 | Georges-Henri Colombe     |      95.2  |       1.01749e+06 |       16 |     nan           |      65.03 | Vano Karkadze                       |             39 |
+|             23 | Karl Sorin                |      87.91 |     nan           |       17 |     nan           |      68.53 | D'Arcy Rae                          |             39 |
+|             21 | Noé Della Schiava         |      93.35 |     nan           |       18 |     nan           |      66.07 | Baptiste Erdocio                    |             27 |
+|             20 | Teddy Iribaren            |      87.41 |     nan           |       19 |  905540           |      74.23 | Clément Doumenc                     |             25 |
+|             20 | Nathan Bollengier         |      87.65 |     nan           |       20 |     nan           |      69.11 | Pierre Lucas                        |             15 |
+|             12 | Sacha Idoumi              |      91.78 |     nan           |       21 |       1.01053e+06 |      71.53 | Lenni Nouchi                        |             13 |
+|              6 | Thomas Berjon             |      91.34 |     nan           |       22 |     nan           |      64.54 | Louis Foursans-Bourdette            |              3 |
+|              6 | Thomas Ployet             |      86.75 |     nan           |       23 |       1.0035e+06  |      99.67 | Aubin Eymeri                        |              1 |
 
 
 # Player Level Predictions - Version 2

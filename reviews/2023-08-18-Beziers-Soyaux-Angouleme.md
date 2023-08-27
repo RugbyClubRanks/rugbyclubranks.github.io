@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Soyaux-Angouleme by 1.6
+## Prediction with Player Minutes: Soyaux-Angouleme by 1.7
 
 
-Soyaux-Angouleme by 5.6 on a neutral field
-## Prediction without Player Minutes: Soyaux-Angouleme by 4.3
+Soyaux-Angouleme by 5.7 on a neutral field
+## Prediction without Player Minutes: Soyaux-Angouleme by 4.5
 
 
-Soyaux-Angouleme by 8.3 on a neutral pitch
+Soyaux-Angouleme by 8.5 on a neutral pitch
 
 
 ## Scores over Time
@@ -51,29 +51,29 @@ There were 4 large changes in win probability in this match
 
 |   Away Minutes | Away Player                      |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:---------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|---------------:|
-|             35 | Khatchik Vartan                  |      77.73 |       1.01836e+06 |        1 |       1.01834e+06 |      76.55 | Yannick Arroyo      |             50 |
-|             52 | Rayne Barka                      |      78.95 |       1.01836e+06 |        2 |       1.01834e+06 |      76.87 | Wilmar Arnoldi      |             57 |
-|             60 | Yassin Boutemani                 |      80.39 |       1.01834e+06 |        3 |       1.01835e+06 |      75.49 | Jon Zabala Arrieta  |             65 |
-|             80 | Ian Kitwanga                     |      77.4  |       1.0056e+06  |        4 |       1.01837e+06 |      74.68 | Hans Nkinsi         |             80 |
-|             59 | Matthew Dalton                   |      78.71 |       1.01836e+06 |        5 |       1.01837e+06 |      74.5  | John Madigan        |             60 |
-|             80 | Germain Burgaud                  |     100.8  |  964042           |        6 |  933543           |      56.35 | William van Bost    |             80 |
-|             46 | Léo Morand-Bruyat                |      77.91 |       1.01836e+06 |        7 |       1.01834e+06 |      76.26 | Clément Ancely      |             80 |
-|             80 | Yassine Jarmouni                 |      87.65 |  865724           |        8 |       1.01833e+06 |      77.61 | Sias Koen           |             65 |
-|             65 | Emmanuel Saubusse                |      79.74 |       1.01834e+06 |        9 |       1.01836e+06 |      74.87 | Jean Victor Goillot |             57 |
-|             80 | Benjamin Botica                  |      79.19 |       1.01835e+06 |       10 |  871524           |      81.35 | Victor Dreuille     |             80 |
-|             80 | Marvin Lestremau                 |      78.09 |       1.01836e+06 |       11 |  996232           |      97.46 | Gabin Lorre         |             80 |
-|             65 | Mathis Lafon                     |      78.29 |       1.01836e+06 |       12 |       1.01833e+06 |      77.22 | Taleta Tupuola      |             80 |
-|             80 | Ledua Mau                        |      85.14 |  794922           |       13 |       1.01835e+06 |      75.73 | Branden Holder      |             73 |
-|             80 | Matthys Gratien                  |     113.63 |  946883           |       14 |  928298           |     110.32 | Maxime Espeut       |             80 |
-|             65 | Pierre Lafitte                   |      79.39 |  587229           |       15 |       1.01835e+06 |      75.98 | Charly Malié        |             80 |
-|             45 | Sami Zouhair                     |      70.16 |  960673           |       16 |  962904           |      75.81 | Giorgi Akhaladze    |             30 |
-|             34 | Gautier Gibouin                  |      49.51 |  454808           |       17 |  997597           |      80.17 | Yvann Lalevee       |             23 |
-|             28 | Patxi Bidart                     |      62.79 |  973640           |       18 |     nan           |      93.63 | Liam Rimet          |             23 |
-|             21 | Matt Va'ai                       |      78.5  |     nan           |       19 |       1.01835e+06 |      75.27 | Pierrick Gunther    |             20 |
-|             20 | Michael Masimba Tingini Kumbirai |     103.38 |  889138           |       20 |     nan           |      75.06 | Pauta Otunuku       |             15 |
-|             15 | Alexis Levron                    |      80.05 |     nan           |       21 |  996477           |      71.19 | Paul Recor          |              7 |
-|             15 | Corentin Glenat                  |      79.46 |     nan           |       22 |     nan           |      68.98 | Julien Rasamoelina  |             15 |
-|             15 | Nasoni Naqiri Kunavore           |     100.95 |  722843           |       23 |     nan           |     nan    | nan                 |            nan |
+|             35 | Khatchik Vartan                  |      80.43 |       1.01925e+06 |        1 |       1.01927e+06 |      75.98 | Yannick Arroyo      |             50 |
+|             52 | Rayne Barka                      |      78.13 |       1.01928e+06 |        2 |       1.01927e+06 |      76.26 | Wilmar Arnoldi      |             57 |
+|             60 | Yassin Boutemani                 |      78.76 |       1.01927e+06 |        3 |       1.01925e+06 |      76.87 | Jon Zabala Arrieta  |             65 |
+|             80 | Ian Kitwanga                     |      77.4  |       1.00662e+06 |        4 |       1.01925e+06 |      77.61 | Hans Nkinsi         |             80 |
+|             59 | Matthew Dalton                   |      79.5  |       1.01926e+06 |        5 |       1.01925e+06 |      77.22 | John Madigan        |             60 |
+|             80 | Germain Burgaud                  |     100.8  |  964843           |        6 |  934236           |      56.35 | William van Bost    |             80 |
+|             46 | Léo Morand-Bruyat                |      78.54 |       1.01927e+06 |        7 |       1.01928e+06 |      75.27 | Clément Ancely      |             80 |
+|             80 | Yassine Jarmouni                 |      87.65 |  866215           |        8 |       1.01928e+06 |      75.06 | Sias Koen           |             65 |
+|             65 | Emmanuel Saubusse                |      80.09 |       1.01926e+06 |        9 |       1.01926e+06 |      76.55 | Jean Victor Goillot |             57 |
+|             80 | Benjamin Botica                  |      77.77 |       1.01929e+06 |       10 |  872028           |      81.35 | Victor Dreuille     |             80 |
+|             80 | Marvin Lestremau                 |      79.79 |       1.01926e+06 |       11 |  997233           |      97.46 | Gabin Lorre         |             80 |
+|             65 | Mathis Lafon                     |      78.33 |       1.01928e+06 |       12 |       1.01929e+06 |      74.5  | Taleta Tupuola      |             80 |
+|             80 | Ledua Mau                        |      85.14 |  795289           |       13 |       1.01929e+06 |      74.68 | Branden Holder      |             73 |
+|             80 | Matthys Gratien                  |     113.63 |  947619           |       14 |  928971           |     110.32 | Maxime Espeut       |             80 |
+|             65 | Pierre Lafitte                   |      79.39 |  587354           |       15 |       1.01928e+06 |      75.49 | Charly Malié        |             80 |
+|             45 | Sami Zouhair                     |      70.65 |  961454           |       16 |  963691           |      75.81 | Giorgi Akhaladze    |             30 |
+|             34 | Gautier Gibouin                  |      49.51 |  454868           |       17 |  998601           |      80.17 | Yvann Lalevee       |             23 |
+|             28 | Patxi Bidart                     |      62.79 |  974526           |       18 |     nan           |      93.63 | Liam Rimet          |             23 |
+|             21 | Matt Va'ai                       |      79.24 |       1.01926e+06 |       19 |       1.01929e+06 |      74.87 | Pierrick Gunther    |             20 |
+|             20 | Michael Masimba Tingini Kumbirai |     103.38 |  889697           |       20 |     nan           |      75.73 | Pauta Otunuku       |             15 |
+|             15 | Alexis Levron                    |      77.95 |     nan           |       21 |  997479           |      71.19 | Paul Recor          |              7 |
+|             15 | Corentin Glenat                  |      78.99 |     nan           |       22 |     nan           |      68.98 | Julien Rasamoelina  |             15 |
+|             15 | Nasoni Naqiri Kunavore           |     100.95 |  723095           |       23 |     nan           |     nan    | nan                 |            nan |
 
 
 # Player Level Predictions - Version 2

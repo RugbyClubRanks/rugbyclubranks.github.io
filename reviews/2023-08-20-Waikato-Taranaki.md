@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Taranaki by 4.5
+## Prediction with Player Minutes: Taranaki by 4.9
 
 
-Taranaki by 8.5 on a neutral field
-## Prediction without Player Minutes: Taranaki by 0.3
+Taranaki by 8.9 on a neutral field
+## Prediction without Player Minutes: Taranaki by 0.8
 
 
-Taranaki by 4.3 on a neutral pitch
+Taranaki by 4.8 on a neutral pitch
 
 
 ## Scores over Time
@@ -47,34 +47,34 @@ Taranaki by 4.3 on a neutral pitch
 
 ![In Match Predictions](plots/recap_prob_2023-08-20-Waikato-Taranaki.png)
 
-There were 10 large changes in win probability in this match
+There were 9 large changes in win probability in this match
 
 |   Away Minutes | Away Player                   |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                  |   Home Minutes |
 |---------------:|:------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------------------|---------------:|
-|             54 | Jared Proffit                 |      80.43 |       1.01742e+06 |        1 |  944717           |      89.88 | Ollie Norris                 |             40 |
-|             54 | Bradley Slater                |     103.43 |       1.01491e+06 |        2 |       1.01801e+06 |      79.1  | Pita Alemania Jr Anae-Ah Sue |             63 |
-|             54 | Michael Bent                  |      74.04 |       1.01745e+06 |        3 |  987141           |      78.26 | George Dyer                  |             67 |
-|             67 | Jesse Parete                  |      68.65 |       1.01702e+06 |        4 |       1.01492e+06 |      99.21 | Laghlan McWhannell           |             49 |
-|             61 | Hemopo Cunningham             |      83.99 |       1.0174e+06  |        5 |  785476           |      90.24 | James Tucker                 |             80 |
-|             80 | Kaylum Boshier                |      82.86 |       1.01742e+06 |        6 |       1.01822e+06 |      72.29 | Xavier Saifoloi              |             51 |
-|             80 | Tom Florence                  |      66.15 |       1.01682e+06 |        7 |       1.01793e+06 |      75.4  | Patrick McCurran             |             80 |
-|             80 | Pita Gus Sowakula             |      98.45 |  878334           |        8 |       1.01658e+06 |      85.35 | Simon Parker                 |             80 |
-|             54 | Logan Crowley                 |      79.44 |       1.01744e+06 |        9 |       1.0149e+06  |     100.01 | Cortez Lee Ratima            |             61 |
-|             64 | Jayson Potroz                 |      87.56 |       1.01538e+06 |       10 |       1.01798e+06 |      72.47 | Taha Kemara                  |             80 |
-|             80 | Kini Naholo                   |     116.73 |  961249           |       11 |  992842           |      58.06 | Daniel Sinkinson             |             80 |
-|             54 | Teihorangi Walden             |      58.98 |       1.01631e+06 |       12 |       1.01812e+06 |      77.69 | Austin Anderson              |             40 |
-|             80 | Meihana Grindlay              |      83.05 |       1.01745e+06 |       13 |       1.01802e+06 |      74.71 | Bailyn Sullivan              |             78 |
-|             80 | Jacob Ratumaitavuki-Kneepkens |      84.56 |       1.01741e+06 |       14 |       1.01797e+06 |      77.25 | Gideon Wrampling             |             54 |
-|             80 | Stephen Perofeta              |     106.39 |  828288           |       15 |       1.01658e+06 |      79.4  | Liam Coombes-Fabling         |             80 |
-|             26 | Reuben O'Neill                |      77.02 |       1.01804e+06 |       16 |       1.01793e+06 |      84.1  | Mason Tupaea                 |             40 |
-|             26 | Ricky Riccitelli              |      86.5  |  787992           |       17 |     nan           |      75.55 | Quinn Tupaea                 |             40 |
-|             26 | Kyle Stewart                  |      69.25 |       1.01541e+06 |       18 |       1.01795e+06 |      75.8  | Hamilton Burr                |             31 |
-|             26 | Adam Lennox                   |      75.83 |     nan           |       19 |       1.01823e+06 |      71.94 | Te Rama Reuben               |             29 |
-|             26 | Daniel Rona                   |      98.53 |     nan           |       20 |       1.01799e+06 |      76.54 | Tepaea Cook-Savage           |             26 |
-|             19 | Millenium Sanerivi            |      73.06 |       1.01534e+06 |       21 |       1.018e+06   |      75.67 | Xavier Roe                   |             19 |
-|             16 | Matty McKenzie                |      76.03 |       1.01744e+06 |       22 |     nan           |      80.58 | Caleb Ralph                  |             17 |
-|             13 | Fiti Sa                       |      79.06 |     nan           |       23 |       1.01797e+06 |      77.15 | Solomone Tukuafu             |             13 |
-|            nan | nan                           |     nan    |     nan           |       24 |       1.01794e+06 |      78.02 | Malachi Wrampling-Alec       |              2 |
+|             54 | Jared Proffit                 |      78.15 |       1.01808e+06 |        1 |  945445           |      90.28 | Ollie Norris                 |             40 |
+|             54 | Bradley Slater                |      74    |       1.0181e+06  |        2 |       1.01873e+06 |      79.46 | Pita Alemania Jr Anae-Ah Sue |             63 |
+|             54 | Michael Bent                  |      72.82 |       1.01806e+06 |        3 |  988081           |      81.3  | George Dyer                  |             67 |
+|             67 | Jesse Parete                  |      65.87 |       1.01759e+06 |        4 |       1.01647e+06 |      92.13 | Laghlan McWhannell           |             49 |
+|             61 | Hemopo Cunningham             |      80.85 |       1.01811e+06 |        5 |  785820           |      91.35 | James Tucker                 |             80 |
+|             80 | Kaylum Boshier                |      79.33 |       1.01813e+06 |        6 |       1.01905e+06 |      69.79 | Xavier Saifoloi              |             51 |
+|             80 | Tom Florence                  |      68.82 |       1.0169e+06  |        7 |       1.01872e+06 |      71.58 | Patrick McCurran             |             80 |
+|             80 | Pita Gus Sowakula             |      98.97 |  878858           |        8 |       1.01648e+06 |      87.25 | Simon Parker                 |             80 |
+|             54 | Logan Crowley                 |      78.3  |       1.01807e+06 |        9 |       1.01882e+06 |      74.16 | Cortez Lee Ratima            |             61 |
+|             64 | Jayson Potroz                 |      86.82 |       1.01634e+06 |       10 |       1.01878e+06 |      68.34 | Taha Kemara                  |             80 |
+|             80 | Kini Naholo                   |     118.6  |  962030           |       11 |  993819           |      61.33 | Daniel Sinkinson             |             80 |
+|             54 | Teihorangi Walden             |      61.98 |       1.01718e+06 |       12 |       1.01895e+06 |      73.45 | Austin Anderson              |             40 |
+|             80 | Meihana Grindlay              |      83.53 |       1.01807e+06 |       13 |       1.01882e+06 |      72.34 | Bailyn Sullivan              |             78 |
+|             80 | Jacob Ratumaitavuki-Kneepkens |      82.51 |       1.01809e+06 |       14 |       1.01879e+06 |      73.18 | Gideon Wrampling             |             54 |
+|             80 | Stephen Perofeta              |     106.8  |  828708           |       15 |       1.01648e+06 |      77.91 | Liam Coombes-Fabling         |             80 |
+|             26 | Reuben O'Neill                |      74.02 |       1.01885e+06 |       16 |       1.01876e+06 |      78.33 | Mason Tupaea                 |             40 |
+|             26 | Ricky Riccitelli              |      87.09 |  788342           |       17 |       1.01978e+06 |      72.14 | Quinn Tupaea                 |             40 |
+|             26 | Kyle Stewart                  |      64.43 |       1.01695e+06 |       18 |       1.01874e+06 |      72.93 | Hamilton Burr                |             31 |
+|             26 | Adam Lennox                   |      71.94 |       1.01812e+06 |       19 |       1.01906e+06 |      68.82 | Te Rama Reuben               |             29 |
+|             26 | Daniel Rona                   |      75.67 |     nan           |       20 |       1.01879e+06 |      74.25 | Tepaea Cook-Savage           |             26 |
+|             19 | Millenium Sanerivi            |      65.19 |       1.01637e+06 |       21 |       1.01874e+06 |      72.71 | Xavier Roe                   |             19 |
+|             16 | Matty McKenzie                |      72.69 |       1.01813e+06 |       22 |     nan           |      73.77 | Caleb Ralph                  |             17 |
+|             13 | Fiti Sa                       |      75.5  |     nan           |       23 |       1.01878e+06 |      70.38 | Solomone Tukuafu             |             13 |
+|            nan | nan                           |     nan    |     nan           |       24 |       1.01883e+06 |      71.56 | Malachi Wrampling-Alec       |              2 |
 
 
 # Player Level Predictions - Version 2

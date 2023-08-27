@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: France by 4.5
+## Prediction with Player Minutes: France by 3.9
 
 
-France by 0.5 on a neutral field
-## Prediction without Player Minutes: France by 15.7
+Fiji by 0.1 on a neutral field
+## Prediction without Player Minutes: France by 15.3
 
 
-France by 11.7 on a neutral pitch
+France by 11.3 on a neutral pitch
 
 
 ## Scores over Time
@@ -47,33 +47,33 @@ France by 11.7 on a neutral pitch
 
 ![In Match Predictions](plots/recap_prob_2023-08-18-France-Fiji.png)
 
-There were 3 large changes in win probability in this match
+There were 1 large changes in win probability in this match
 
 |   Away Minutes | Away Player                 |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:----------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
-|             66 | Eroni Mawi                  |      59.69 |            897905 |        1 |            841814 |     100.3  | Reda Wardi           |             44 |
-|             52 | Tevita Ikanivere            |     126.52 |            943346 |        2 |            863153 |     105.94 | Peato Mauvaka        |             80 |
-|             42 | Mesake Doge                 |      71.23 |            926428 |        3 |            615619 |     102.02 | Uini Atonio          |             44 |
-|             80 | Te Ahiwaru Cirikidaveta     |     102.51 |            893681 |        4 |            861761 |     105.35 | Florian Verhaeghe    |             62 |
-|             80 | Isoa Nasilasila             |     134.71 |            998033 |        5 |            618311 |     131.69 | Paul Willemse        |             62 |
-|             80 | Meli Derenalagi             |      91.44 |           1018462 |        6 |            810654 |     146.4  | Francois Cros        |             55 |
-|             74 | Levani Botia                |      92.37 |           1010124 |        7 |            850673 |      86.76 | Dylan Cretin         |             80 |
-|             80 | Viliame Mata                |      71.45 |            851928 |        8 |            901653 |     107.18 | Gregory Alldritt     |             52 |
-|             80 | Frank Lomani                |      84.84 |            883632 |        9 |            744412 |     129.86 | Maxime Lucu          |             62 |
-|             80 | Caleb Muntz                 |      94.65 |            943257 |       10 |            821202 |      83.22 | Antoine Hastoy       |             62 |
-|             80 | Vinaya Habosi               |     120.72 |            998087 |       11 |            934954 |      96.46 | Yoram Moefana        |             80 |
-|             80 | Semi Radradra               |     127.86 |            894376 |       12 |            580845 |     101.27 | Jonathan Danty       |             80 |
-|             80 | Iosefo Masikau Baleiwairiki |      91.23 |           1018463 |       13 |            894140 |      83.99 | Arthur Vincent       |             80 |
-|             72 | Jiuta Wainiqolo             |     100.79 |            946107 |       14 |            995004 |      97.87 | Louis Bielle-Biarrey |             80 |
-|             66 | Sireli Maqala               |     105.68 |           1010118 |       15 |            967605 |     111.38 | Melvyn Jaminet       |             80 |
-|             28 | Sam Matavesi                |      63.7  |            905747 |       16 |            887555 |     100.87 | Pierre Bourgarit     |             25 |
-|             14 | Jone Koroiduadua            |      85.59 |            944115 |       17 |            904018 |     109.88 | Jean-Baptiste Gros   |             36 |
-|             38 | Luke Tagi                   |      87.59 |            917843 |       18 |               nan |      99    | Thomas Laclayat      |             36 |
-|              6 | Temo Mayanavanua            |      92.82 |            919616 |       19 |            797353 |      95.32 | Bastien Chalureau    |             18 |
-|             50 | Albert Tuisue               |      72.69 |            885259 |       20 |            911963 |      84.51 | Thibaud Flament      |             18 |
-|             14 | Kalaveti Ravouvou           |     146.17 |            998063 |       21 |            747250 |     116.33 | Sekou Macalou        |             28 |
-|              8 | Simione Kuruvoli            |      92.46 |            983901 |       22 |            657555 |     100.82 | Baptiste Serin       |             18 |
-|             39 | Ilaisa Droasese             |      87.29 |            974667 |       23 |            890115 |      95.15 | Matthieu Jalibert    |             18 |
+|             66 | Eroni Mawi                  |      58.14 |            898495 |        1 |            842253 |      99.87 | Reda Wardi           |             44 |
+|             52 | Tevita Ikanivere            |     126.51 |            944070 |        2 |            863639 |     105.68 | Peato Mauvaka        |             80 |
+|             42 | Mesake Doge                 |      71.22 |            927096 |        3 |            615767 |     102.27 | Uini Atonio          |             44 |
+|             80 | Te Ahiwaru Cirikidaveta     |     102.51 |            894254 |        4 |            862243 |     106.25 | Florian Verhaeghe    |             62 |
+|             80 | Isoa Nasilasila             |     134.7  |            999040 |        5 |            618462 |     131.12 | Paul Willemse        |             62 |
+|             80 | Meli Derenalagi             |      91.36 |           1019487 |        6 |            811036 |     146.39 | Francois Cros        |             55 |
+|             74 | Levani Botia                |      92.5  |           1011205 |        7 |            851131 |      86.5  | Dylan Cretin         |             80 |
+|             80 | Viliame Mata                |      71.44 |            852387 |        8 |            902247 |     107.61 | Gregory Alldritt     |             52 |
+|             80 | Frank Lomani                |      84.82 |            884178 |        9 |            744681 |     129.69 | Maxime Lucu          |             62 |
+|             80 | Caleb Muntz                 |      94.63 |            943981 |       10 |            821606 |      82.96 | Antoine Hastoy       |             62 |
+|             80 | Vinaya Habosi               |     120.72 |            999096 |       11 |            935651 |      94.46 | Yoram Moefana        |             80 |
+|             80 | Semi Radradra               |     127.85 |            894950 |       12 |            580967 |     101.64 | Jonathan Danty       |             80 |
+|             80 | Iosefo Masikau Baleiwairiki |      91.16 |           1019489 |       13 |            894713 |      83.49 | Arthur Vincent       |             80 |
+|             72 | Jiuta Wainiqolo             |     100.6  |            946844 |       14 |            996000 |      95.2  | Louis Bielle-Biarrey |             80 |
+|             66 | Sireli Maqala               |     105.29 |           1011199 |       15 |            968443 |     111.38 | Melvyn Jaminet       |             80 |
+|             28 | Sam Matavesi                |      63.69 |            906350 |       16 |            888111 |      99.85 | Pierre Bourgarit     |             25 |
+|             14 | Jone Koroiduadua            |      85.59 |            944839 |       17 |            904621 |     108.62 | Jean-Baptiste Gros   |             36 |
+|             38 | Luke Tagi                   |      87.59 |            918486 |       18 |               nan |      98.48 | Thomas Laclayat      |             36 |
+|              6 | Temo Mayanavanua            |      93.23 |            920264 |       19 |            797727 |      94.85 | Bastien Chalureau    |             18 |
+|             50 | Albert Tuisue               |      72.67 |            885810 |       20 |            912585 |      84.03 | Thibaud Flament      |             18 |
+|             14 | Kalaveti Ravouvou           |     146.17 |            999070 |       21 |            747521 |     114.7  | Sekou Macalou        |             28 |
+|              8 | Simione Kuruvoli            |      92.45 |            984830 |       22 |            657743 |     100.57 | Baptiste Serin       |             18 |
+|             39 | Ilaisa Droasese             |      87.29 |            975563 |       23 |            890677 |      93.54 | Matthieu Jalibert    |             18 |
 
 
 # Player Level Predictions - Version 2
