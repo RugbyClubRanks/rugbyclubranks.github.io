@@ -51,29 +51,29 @@ There were 3 large changes in win probability in this match
 
 |   Away Minutes | Away Player            |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player              |   Home Minutes |
 |---------------:|:-----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------------|---------------:|
-|             59 | Antoine Palisse        |      64.26 |  980405           |        1 |  992140           |      91.02 | Robin Poipy              |             55 |
-|             51 | Florian Lamothe        |      67.06 |  973596           |        2 |  967834           |     113.77 | Pierre Trassoudaine      |             55 |
-|             52 | Aleksi Tchitchiashvili |      64.7  |       1.0097e+06  |        3 |  880119           |      84.16 | Nicolas Ferrer           |             55 |
-|             59 | Francis Rolland        |      70.67 |       1.01994e+06 |        4 |  994575           |      98.46 | Saba Pesvianidze         |             80 |
-|             80 | Baptiste Peytavi       |      70.83 |       1.01994e+06 |        5 |       1.0074e+06  |      71.05 | Lilian Rousset           |             49 |
-|             80 | Alexis Armary          |      95.55 |  942555           |        6 |       1.01087e+06 |      67.34 | Tony Tissot              |             60 |
-|             47 | Léo Saint-Guilhem      |      83.16 |  968366           |        7 |       1.01179e+06 |      76.22 | Clément Vidoni           |             49 |
-|             80 | Aurelien Ricart        |      71.57 |       1.01994e+06 |        8 |       1.01994e+06 |      77.14 | Abongile Nonkontwana     |             80 |
-|             59 | Anthony Meric          |      71.18 |       1.01994e+06 |        9 |       1.01994e+06 |      76.39 | Lucas Rubio              |             49 |
-|             80 | Anthony  Fuertes       |      71.37 |       1.01994e+06 |       10 |       1.0068e+06  |      76.71 | Tom Deleuze              |             80 |
-|             65 | Clement Latorre        |      71.03 |       1.01327e+06 |       11 |  963843           |      49.74 | Yanis Dit Robaglia       |             80 |
-|             80 | William Pees           |      73.84 |  778900           |       12 |  937120           |      73.58 | Victorien Jacomme        |             80 |
-|             40 | Pierre Descoubet       |      73.19 |       1.01228e+06 |       13 |  963865           |      83.21 | Arthur Seigneuret        |             60 |
-|             80 | Thibaut Trotta         |      96.67 |  995476           |       14 |  973520           |      99.79 | Alex Preira              |             80 |
-|             80 | Mathieu Berbizier      |      88.43 |  907931           |       15 |  955228           |      91.23 | Giorgi Gogoladze         |             80 |
-|             40 | Julien Cantan          |      61.82 |  975459           |       16 |  665367           |      98.43 | Benjamin Prier           |             31 |
-|             33 | Dorian Bonnin          |      71.78 |     nan           |       17 |     nan           |      76.56 | Louis Bruinsma           |             31 |
-|             29 | Enzo Mondon            |      82.89 |  948027           |       18 |  947868           |      63.03 | Hugo Boutin              |             31 |
-|             28 | Johan Mees Erasmus     |      72.92 |  832932           |       19 |  994426           |      64.73 | Tijde Visser             |             25 |
-|             21 | Thibaut Dulucq         |      80.7  |  967605           |       20 |     nan           |      76.74 | Fernandez Correa         |             25 |
-|             21 | Alexandre Combier      |      66.9  |  991437           |       21 |  993154           |      79.94 | Pierre-Alexandre Duclieu |             25 |
-|             21 | Jone Trevor Seuvou     |      65.77 |  935085           |       22 |       1.0068e+06  |      79.19 | Tom Cusson               |             20 |
-|             15 | Yon Camou              |      71    |     nan           |       23 |     nan           |      76.94 | Marius Ruyffelaere       |             20 |
+|             59 | Antoine Palisse        |      64.26 |  980506           |        1 |  992244           |      91.02 | Robin Poipy              |             55 |
+|             51 | Florian Lamothe        |      67.06 |  973695           |        2 |  967932           |     113.77 | Pierre Trassoudaine      |             55 |
+|             52 | Aleksi Tchitchiashvili |      64.7  |       1.00981e+06 |        3 |  880176           |      84.16 | Nicolas Ferrer           |             55 |
+|             59 | Francis Rolland        |      71.18 |       1.02002e+06 |        4 |  994679           |      98.46 | Saba Pesvianidze         |             80 |
+|             80 | Baptiste Peytavi       |      71    |       1.02002e+06 |        5 |       1.0075e+06  |      71.05 | Lilian Rousset           |             49 |
+|             80 | Alexis Armary          |      95.55 |  942635           |        6 |       1.01098e+06 |      67.34 | Tony Tissot              |             60 |
+|             47 | Léo Saint-Guilhem      |      83.16 |  968464           |        7 |       1.0119e+06  |      76.22 | Clément Vidoni           |             49 |
+|             80 | Aurelien Ricart        |      70.67 |       1.02003e+06 |        8 |       1.02002e+06 |      77.14 | Abongile Nonkontwana     |             80 |
+|             59 | Anthony Meric          |      71.57 |       1.02002e+06 |        9 |       1.02002e+06 |      76.94 | Lucas Rubio              |             49 |
+|             80 | Anthony  Fuertes       |      71.78 |       1.02002e+06 |       10 |       1.0069e+06  |      76.71 | Tom Deleuze              |             80 |
+|             65 | Clement Latorre        |      71.03 |       1.01338e+06 |       11 |  963941           |      49.74 | Yanis Dit Robaglia       |             80 |
+|             80 | William Pees           |      73.84 |  778925           |       12 |  937198           |      73.58 | Victorien Jacomme        |             80 |
+|             40 | Pierre Descoubet       |      73.19 |       1.0124e+06  |       13 |  963963           |      83.21 | Arthur Seigneuret        |             60 |
+|             80 | Thibaut Trotta         |      96.67 |  995580           |       14 |  973619           |      99.79 | Alex Preira              |             80 |
+|             80 | Mathieu Berbizier      |      88.43 |  908002           |       15 |  955321           |      91.23 | Giorgi Gogoladze         |             80 |
+|             40 | Julien Cantan          |      61.82 |  975558           |       16 |  665376           |      98.43 | Benjamin Prier           |             31 |
+|             33 | Dorian Bonnin          |      70.83 |     nan           |       17 |     nan           |      76.74 | Louis Bruinsma           |             31 |
+|             29 | Enzo Mondon            |      82.89 |  948115           |       18 |  947956           |      63.03 | Hugo Boutin              |             31 |
+|             28 | Johan Mees Erasmus     |      72.92 |  832982           |       19 |  994530           |      64.73 | Tijde Visser             |             25 |
+|             21 | Thibaut Dulucq         |      80.7  |  967703           |       20 |     nan           |      76.39 | Fernandez Correa         |             25 |
+|             21 | Alexandre Combier      |      66.9  |  991541           |       21 |  993258           |      79.94 | Pierre-Alexandre Duclieu |             25 |
+|             21 | Jone Trevor Seuvou     |      65.77 |  935163           |       22 |       1.00691e+06 |      79.19 | Tom Cusson               |             20 |
+|             15 | Yon Camou              |      71.37 |     nan           |       23 |     nan           |      76.56 | Marius Ruyffelaere       |             20 |
 
 
 # Player Level Predictions - Version 2

@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Scotland by 20.9
+## Prediction with Player Minutes: Scotland by 19.5
 
 
-Scotland by 16.9 on a neutral field
-## Prediction without Player Minutes: Scotland by 22.2
+Scotland by 15.5 on a neutral field
+## Prediction without Player Minutes: Scotland by 21.0
 
 
-Scotland by 18.2 on a neutral pitch
+Scotland by 17.0 on a neutral pitch
 
 
 ## Scores over Time
@@ -47,43 +47,43 @@ Scotland by 18.2 on a neutral pitch
 
 ![In Match Predictions](plots/recap_prob_2023-08-25-Scotland-Georgia.png)
 
-There were 6 large changes in win probability in this match
+There were 5 large changes in win probability in this match
 
 |   Away Minutes | Away Player             |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|---------------:|
-|             52 | Mikheil Nariashvili     |     106.31 |  595277           |        1 |            857791 |      92.03 | Jamie Bhatti        |             52 |
-|             38 | Shalva Mamukashvili     |      77.43 |  611739           |        2 |            841217 |      72.28 | Dave Cherry         |             52 |
-|             57 | Beka Gigashvili         |      75.72 |  890105           |        3 |            429084 |     125.72 | WP Nel              |             80 |
-|             80 | Lado Chachanidze        |      91.78 |       1.00661e+06 |        4 |            764174 |     104.47 | Sam Skinner         |             60 |
-|             80 | Konstantine Mikautadze  |      63.48 |       1.00555e+06 |        5 |            523959 |     117.07 | Grant Gilchrist     |             80 |
-|             75 | Luka Ivanishvili        |      56.02 |  993054           |        6 |            763004 |     124.64 | Jamie Ritchie       |             80 |
-|             80 | Mikheil Gachechiladze   |      69.48 |  852580           |        7 |            971060 |     128.93 | Rory Darge          |             52 |
-|             80 | Tornike Jalagonia       |      77.03 |  973901           |        8 |            756128 |      61.42 | Jack Dempsey        |             80 |
-|             80 | Vasil Lobzhanidze       |      75.14 |       1.00554e+06 |        9 |            802931 |      90.27 | Ben White           |             52 |
-|             68 | Luka Matkava            |      79.17 |       1.01142e+06 |       10 |            670815 |     113.95 | Finn Russell        |             52 |
-|             80 | Mirian Modebadze        |      87.86 |       1.01893e+06 |       11 |            864255 |      93.87 | Duhan van der Merwe |             80 |
-|             80 | Merab Sharikadze        |     107.66 |  611925           |       12 |            794187 |      57.98 | Sione Tuipulotu     |             80 |
-|             52 | Demur Tapladze          |     111.61 |  961106           |       13 |            774139 |      66.09 | Huw Jones           |             60 |
-|             80 | Aka Tabutsadze          |      77.67 |       1.01893e+06 |       14 |            879403 |     102.36 | Kyle Steyn          |             80 |
-|             80 | Davit Niniashvili       |      95.15 |  974960           |       15 |            973977 |      77.65 | Ollie Smith         |             80 |
-|             42 | Tengiz Zamtaradze       |      84.61 |     nan           |       16 |            937911 |      93.04 | Ewan Ashman         |             28 |
-|             28 | Guram Gogichashvili     |      99.39 |  921838           |       17 |            748390 |     104.05 | Rory Sutherland     |             28 |
-|             23 | Guram Papidze           |      77.45 |  895792           |       18 |            767834 |      60.59 | Javan Sebastian     |             28 |
-|             28 | Lasha Jaiani            |      62.06 |  961062           |       19 |            796365 |     122.47 | Scott Cummings      |             20 |
-|              5 | Sandro Mamamtavrishvili |      78.51 |     nan           |       20 |            847390 |      89.06 | Matt Fagerson       |             28 |
-|             20 | Gela Aprasidze          |      80.71 |  902809           |       21 |            862425 |     111.82 | George Horne        |             28 |
-|             12 | Tedo Abzhandadze        |      78.33 |     nan           |       22 |            955537 |      78.58 | Ben Healy           |             28 |
-|             28 | Giorgi Kveseladze       |      79.7  |  902739           |       23 |            758563 |      94.07 | Chris Harris        |             20 |
+|             52 | Mikheil Nariashvili     |     106.31 |  595281           |        1 |            857842 |      92.03 | Jamie Bhatti        |             52 |
+|             38 | Shalva Mamukashvili     |      78.01 |  611743           |        2 |            841267 |      72.28 | Dave Cherry         |             52 |
+|             57 | Beka Gigashvili         |      76.29 |  890163           |        3 |            429087 |     125.72 | WP Nel              |             52 |
+|             80 | Lado Chachanidze        |      91.98 |       1.00672e+06 |        4 |            764197 |     104.47 | Sam Skinner         |             60 |
+|             52 | Konstantine Mikautadze  |      66.58 |       1.00566e+06 |        5 |            523962 |     117.07 | Grant Gilchrist     |             80 |
+|             75 | Luka Ivanishvili        |      56.73 |  993158           |        6 |            763027 |     124.64 | Jamie Ritchie       |             80 |
+|             80 | Mikheil Gachechiladze   |      69.48 |  852631           |        7 |            971159 |     128.93 | Rory Darge          |             52 |
+|             80 | Tornike Jalagonia       |      77.87 |  974000           |        8 |            756147 |      61.42 | Jack Dempsey        |             80 |
+|             60 | Vasil Lobzhanidze       |      78.24 |       1.00565e+06 |        9 |            802975 |      90.28 | Ben White           |             52 |
+|             68 | Luka Matkava            |      80    |       1.01154e+06 |       10 |            670826 |     113.95 | Finn Russell        |             52 |
+|             80 | Mirian Modebadze        |      87.19 |       1.01899e+06 |       11 |            864310 |      93.87 | Duhan van der Merwe |             80 |
+|             80 | Merab Sharikadze        |     108.49 |  611929           |       12 |            794213 |      57.98 | Sione Tuipulotu     |             80 |
+|             52 | Demur Tapladze          |     111.78 |  961201           |       13 |            774164 |      66.09 | Huw Jones           |             60 |
+|             80 | Aka Tabutsadze          |      78.93 |       1.01899e+06 |       14 |            879460 |     102.36 | Kyle Steyn          |             80 |
+|             80 | Davit Niniashvili       |      95.88 |  975059           |       15 |            974076 |      77.65 | Ollie Smith         |             80 |
+|             42 | Tengiz Zamtaradze       |      84.89 |     nan           |       16 |            937991 |      93.05 | Ewan Ashman         |             28 |
+|             28 | Guram Gogichashvili     |      99.69 |  921915           |       17 |            748409 |     104.05 | Rory Sutherland     |             28 |
+|             23 | Guram Papidze           |      77.71 |  895854           |       18 |            767857 |      60.59 | Javan Sebastian     |             28 |
+|             28 | Lasha Jaiani            |      62.06 |  961157           |       19 |            796391 |     122.47 | Scott Cummings      |             20 |
+|              5 | Sandro Mamamtavrishvili |      79.15 |     nan           |       20 |            847441 |      89.07 | Matt Fagerson       |             28 |
+|             20 | Gela Aprasidze          |      80.9  |  902874           |       21 |            862479 |     111.82 | George Horne        |             28 |
+|             12 | Tedo Abzhandadze        |      78.97 |     nan           |       22 |            955630 |      78.58 | Ben Healy           |             28 |
+|             28 | Giorgi Kveseladze       |      80.53 |  902804           |       23 |            758585 |      94.07 | Chris Harris        |             20 |
 
 
 # Player Level Predictions - Version 2
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Scotland by 10.4
+## Prediction with Player Minutes: Scotland by 10.3
 
 
-Scotland by 6.7 on a neutral field
+Scotland by 6.6 on a neutral field
 ## Prediction without Player Minutes: Scotland by 10.3
 
 
@@ -95,13 +95,13 @@ Scotland by 6.6 on a neutral pitch
 |---------------:|:------------------------|-----------:|----------------:|---------:|----------------:|-----------:|:--------------------|---------------:|
 |             52 | Mikheil Nariashvili     |      69.71 |              50 |        1 |           49.95 |      83.97 | Jamie Bhatti        |             52 |
 |             38 | Shalva Mamukashvili     |      74.79 |              50 |        2 |           50    |      49.5  | Dave Cherry         |             52 |
-|             57 | Beka Gigashvili         |      68.72 |              50 |        3 |           50    |      91.47 | WP Nel              |             80 |
+|             57 | Beka Gigashvili         |      68.72 |              50 |        3 |           50    |      91.47 | WP Nel              |             52 |
 |             80 | Lado Chachanidze        |      53.29 |              50 |        4 |           49.88 |      66.31 | Sam Skinner         |             60 |
-|             80 | Konstantine Mikautadze  |      48.28 |              50 |        5 |           50    |      89.27 | Grant Gilchrist     |             80 |
+|             52 | Konstantine Mikautadze  |      48.28 |              50 |        5 |           50    |      89.27 | Grant Gilchrist     |             80 |
 |             75 | Luka Ivanishvili        |      70.51 |              50 |        6 |           50    |     108.2  | Jamie Ritchie       |             80 |
 |             80 | Mikheil Gachechiladze   |      -3.26 |              50 |        7 |           49.88 |      55.69 | Rory Darge          |             52 |
 |             80 | Tornike Jalagonia       |      67.05 |              50 |        8 |           50    |      30.9  | Jack Dempsey        |             80 |
-|             80 | Vasil Lobzhanidze       |      48.47 |              50 |        9 |           50    |      58.76 | Ben White           |             52 |
+|             60 | Vasil Lobzhanidze       |      48.47 |              50 |        9 |           50    |      58.76 | Ben White           |             52 |
 |             68 | Luka Matkava            |      46.81 |              50 |       10 |           48.47 |     123.13 | Finn Russell        |             52 |
 |             80 | Mirian Modebadze        |      46.65 |              50 |       11 |           50    |      57.36 | Duhan van der Merwe |             80 |
 |             80 | Merab Sharikadze        |      92.26 |              50 |       12 |           50    |      32.95 | Sione Tuipulotu     |             80 |

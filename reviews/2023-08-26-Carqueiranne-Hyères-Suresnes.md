@@ -28,10 +28,10 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Carqueiranne-Hyères by 12.6
+## Prediction with Player Minutes: Carqueiranne-Hyères by 12.7
 
 
-Carqueiranne-Hyères by 8.6 on a neutral field
+Carqueiranne-Hyères by 8.7 on a neutral field
 ## Prediction without Player Minutes: Carqueiranne-Hyères by 14.0
 
 
@@ -51,29 +51,29 @@ There were 9 large changes in win probability in this match
 
 |   Away Minutes | Away Player            |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:-----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
-|             60 | Lucas Dycke            |      59.51 |  995566           |        1 |       1.01991e+06 |      69.19 | Liam Chad Hendricks  |             64 |
-|             60 | Hayam El Bibouji       |      54.35 |       1.00718e+06 |        2 |  992214           |      67.15 | Yan Tabarot          |             57 |
-|             60 | Leandro Mario Assi     |      84.44 |  680608           |        3 |       1.00989e+06 |      74.73 | Lasha Mchelidze      |             57 |
-|             63 | Florian Desbordes      |      58.29 |  964052           |        4 |  880064           |      64.12 | Lucas Cazac          |             80 |
-|             63 | Marvin Woki            |      81.66 |  968937           |        5 |       1.01991e+06 |      69.74 | César Damiani        |             25 |
-|             80 | Louis-Mathieu Jazeix   |      67.19 |  778930           |        6 |  814226           |      86.15 | Florian Munoz Rivero |             80 |
-|             80 | Jean-Baptiste Lachaise |      88.29 |       1.01039e+06 |        7 |       1.00777e+06 |      68.39 | Joachim Beaumont     |             80 |
-|             80 | Lakisipone Lee         |      51.82 |  989758           |        8 |       1.00762e+06 |      70.25 | Nicolas Baquer       |             57 |
-|             80 | Thomas Lacroix         |      47.11 |  965064           |        9 |       1.00765e+06 |      96.54 | Thomas Sonetti       |             57 |
-|             80 | Jean Chezeau           |      82.3  |       1.0113e+06  |       10 |       1.00763e+06 |      73.31 | Enzo Miot            |             69 |
-|             80 | Ervin Muric            |     129.52 |  866660           |       11 |       1.01557e+06 |      75.92 | Paul Gadea           |             80 |
-|             60 | Lilan Savioz Fouillet  |      70.01 |       1.01389e+06 |       12 |       1.01992e+06 |      68.87 | Dylan Michael Sage   |             63 |
-|             80 | Jamie-Jerry Taulagi    |      66.06 |       1.01991e+06 |       13 |       1.01991e+06 |      69.55 | Charles Brousse      |             80 |
-|             63 | Alexis Clément         |      51.09 |  989786           |       14 |  965014           |      72.73 | Vincent Alessi       |             80 |
-|             80 | Thomas Baudy           |      32.29 |  966725           |       15 |  630439           |      98.98 | Juan Kotze           |             80 |
-|             20 | Anthony Bajart         |      76.95 |  965322           |       16 |  968712           |      86.03 | Nathan Gendre        |             55 |
-|             20 | Elias Coulibaly        |      70.81 |       1.00724e+06 |       17 |     nan           |      69.36 | Spike Salman         |             23 |
-|             20 | Guiterembi Vickos      |      81.57 |  979650           |       18 |       1.00767e+06 |      48.02 | Rémi Dubié           |             23 |
-|             20 | Faraj Fartass          |      65.88 |     nan           |       19 |     nan           |      69.03 | Thomas Lithaud       |             23 |
-|             17 | Petero Tuwai           |      65.72 |     nan           |       20 |  762553           |      44.24 | Michael Tyumenev     |             23 |
-|             17 | Damien Bozic           |      64.39 |       1.01299e+06 |       21 |  719493           |      93.26 | Romain Leveque       |             17 |
+|             60 | Lucas Dycke            |      59.51 |  995670           |        1 |       1.01999e+06 |      69.74 | Liam Chad Hendricks  |             64 |
+|             60 | Hayam El Bibouji       |      54.35 |       1.00729e+06 |        2 |  992318           |      67.15 | Yan Tabarot          |             57 |
+|             60 | Leandro Mario Assi     |      84.44 |  680620           |        3 |       1.01e+06    |      74.73 | Lasha Mchelidze      |             57 |
+|             63 | Florian Desbordes      |      58.29 |  964150           |        4 |  880121           |      64.12 | Lucas Cazac          |             80 |
+|             63 | Marvin Woki            |      81.66 |  969036           |        5 |       1.01999e+06 |      69.19 | César Damiani        |             25 |
+|             80 | Louis-Mathieu Jazeix   |      67.19 |  778955           |        6 |  814271           |      86.15 | Florian Munoz Rivero |             80 |
+|             80 | Jean-Baptiste Lachaise |      88.29 |       1.0105e+06  |        7 |       1.00787e+06 |      68.39 | Joachim Beaumont     |             80 |
+|             80 | Lakisipone Lee         |      51.82 |  989860           |        8 |       1.00772e+06 |      70.25 | Nicolas Baquer       |             57 |
+|             80 | Thomas Lacroix         |      47.11 |  965162           |        9 |       1.00776e+06 |      96.54 | Thomas Sonetti       |             57 |
+|             80 | Jean Chezeau           |      82.3  |       1.01141e+06 |       10 |       1.00773e+06 |      73.31 | Enzo Miot            |             69 |
+|             80 | Ervin Muric            |     129.52 |  866717           |       11 |       1.01568e+06 |      75.92 | Paul Gadea           |             80 |
+|             60 | Lilan Savioz Fouillet  |      70.01 |       1.014e+06   |       12 |       1.01999e+06 |      69.03 | Dylan Michael Sage   |             63 |
+|             80 | Jamie-Jerry Taulagi    |      65.88 |       1.02e+06    |       13 |       1.01999e+06 |      69.36 | Charles Brousse      |             80 |
+|             63 | Alexis Clément         |      51.09 |  989888           |       14 |  965112           |      72.73 | Vincent Alessi       |             80 |
+|             80 | Thomas Baudy           |      32.29 |  966823           |       15 |  630445           |      98.98 | Juan Kotze           |             80 |
+|             20 | Anthony Bajart         |      76.95 |  965420           |       16 |  968811           |      86.03 | Nathan Gendre        |             55 |
+|             20 | Elias Coulibaly        |      70.81 |       1.00735e+06 |       17 |     nan           |      68.87 | Spike Salman         |             23 |
+|             20 | Guiterembi Vickos      |      81.57 |  979751           |       18 |       1.00778e+06 |      48.02 | Rémi Dubié           |             23 |
+|             20 | Faraj Fartass          |      66.06 |     nan           |       19 |     nan           |      69.55 | Thomas Lithaud       |             23 |
+|             17 | Petero Tuwai           |      65.72 |     nan           |       20 |  762576           |      44.24 | Michael Tyumenev     |             23 |
+|             17 | Damien Bozic           |      64.39 |       1.0131e+06  |       21 |  719507           |      93.26 | Romain Leveque       |             17 |
 |             17 | Wian Vosloo            |      65.56 |     nan           |       22 |     nan           |      72.37 | Ferdinand Changel    |             16 |
-|            nan | nan                    |     nan    |     nan           |       23 |       1.01057e+06 |      55.81 | Théo Defrance        |             11 |
+|            nan | nan                    |     nan    |     nan           |       23 |       1.01068e+06 |      55.81 | Théo Defrance        |             11 |
 
 
 # Player Level Predictions - Version 2

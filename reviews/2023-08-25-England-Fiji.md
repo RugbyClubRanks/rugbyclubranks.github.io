@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Fiji by 3.6
+## Prediction with Player Minutes: Fiji by 3.9
 
 
-Fiji by 7.6 on a neutral field
-## Prediction without Player Minutes: Fiji by 3.5
+Fiji by 7.9 on a neutral field
+## Prediction without Player Minutes: Fiji by 3.7
 
 
-Fiji by 7.5 on a neutral pitch
+Fiji by 7.7 on a neutral pitch
 
 
 ## Scores over Time
@@ -51,43 +51,43 @@ There were 12 large changes in win probability in this match
 
 |   Away Minutes | Away Player             |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player     |   Home Minutes |
 |---------------:|:------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------|---------------:|
-|             62 | Eroni Mawi              |      53.39 |            898495 |        1 |  814930           |      75.22 | Ellis Genge     |             51 |
-|             80 | Sam Matavesi            |      61.67 |            906350 |        2 |  993555           |      82.39 | Theo Dan        |             74 |
-|             70 | Luke Tagi               |      84.85 |            918486 |        3 |  365979           |      70.28 | Dan Cole        |             70 |
-|             80 | Isoa Nasilasila         |     128.93 |            999040 |        4 |  669700           |      87.47 | Maro Itoje      |             80 |
-|             65 | Te Ahiwaru Cirikidaveta |      96.75 |            894254 |        5 |  956814           |      83.56 | Ollie Chessum   |             70 |
-|             67 | Albert Tuisue           |      69.07 |            885810 |        6 |  376284           |      74.06 | Courtney Lawes  |             80 |
-|             53 | Lekima Tagitagivalu     |     104.65 |            897505 |        7 |  855153           |     112.06 | Jack Willis     |             57 |
-|             78 | Viliame Mata            |      65.68 |            852387 |        8 |  856644           |      93.55 | Ben Earl        |             80 |
-|             49 | Frank Lomani            |      79.06 |            884178 |        9 |       1.01983e+06 |      81.82 | Alex Mitchell   |             70 |
-|             80 | Caleb Muntz             |      88.87 |            943981 |       10 |  434978           |     104.39 | George Ford     |             80 |
-|             80 | Vinaya Habosi           |     114.96 |            999096 |       11 |       1.01983e+06 |      82.02 | Jonny May       |             80 |
-|             65 | Semi Radradra           |     122.09 |            894950 |       12 |  512453           |     107.79 | Manu Tuilagi    |             80 |
-|             75 | Waisea Nayacalevu       |      99.43 |           1011210 |       13 |  899418           |      72.56 | Ollie Lawrence  |             54 |
-|             80 | Selestino Ravutaumada   |     100.41 |            999122 |       14 |  772614           |      72.71 | Max Malins      |             80 |
-|             80 | Ilaisa Droasese         |      84.48 |            975563 |       15 |  935993           |      84.92 | Freddie Steward |             54 |
-|              2 | Zuriel Togiatama        |      77.3  |            986840 |       16 |     nan           |      81.64 | Jack Walker     |              6 |
-|             27 | Jone Koroiduadua        |      84.58 |            944839 |       17 |  439561           |      72.54 | Joe Marler      |             29 |
-|             10 | Samuela Tawake          |      73.64 |           1014369 |       18 |  855044           |      55.23 | Will Stuart     |             10 |
-|             18 | Temo Mayanavanua        |      92.8  |            920264 |       19 |  865386           |      95.94 | David Ribbans   |             10 |
-|             28 | Vilive Miramira         |      76.59 |            998958 |       20 |       1.01816e+06 |      83.68 | Lewis Ludlam    |             23 |
-|             31 | Simione Kuruvoli        |      91.88 |            984830 |       21 |  248851           |     122.57 | Danny Care      |             10 |
-|              5 | Teti Tela               |     105.57 |            798127 |       22 |  885108           |     101.8  | Marcus Smith    |             26 |
-|             15 | Kalaveti Ravouvou       |     145.16 |            999070 |       23 |  779675           |      73.94 | Joe Marchant    |             26 |
+|             62 | Eroni Mawi              |      53.39 |            898557 |        1 |  814977           |      75.98 | Ellis Genge     |             51 |
+|             80 | Sam Matavesi            |      61.67 |            906418 |        2 |  993659           |      82.73 | Theo Dan        |             74 |
+|             70 | Luke Tagi               |      84.85 |            918562 |        3 |  365980           |      70.11 | Dan Cole        |             70 |
+|             80 | Isoa Nasilasila         |     128.93 |            999144 |        4 |  669711           |      86.91 | Maro Itoje      |             80 |
+|             65 | Te Ahiwaru Cirikidaveta |      96.74 |            894315 |        5 |  956907           |      83.56 | Ollie Chessum   |             70 |
+|             67 | Albert Tuisue           |      69.07 |            885867 |        6 |  376285           |      73.5  | Courtney Lawes  |             80 |
+|             53 | Lekima Tagitagivalu     |     104.65 |            897567 |        7 |  855204           |     111.93 | Jack Willis     |             57 |
+|             78 | Viliame Mata            |      65.68 |            852438 |        8 |  856695           |      92.98 | Ben Earl        |             80 |
+|             49 | Frank Lomani            |      79.06 |            884235 |        9 |       1.01991e+06 |      81.64 | Alex Mitchell   |             70 |
+|             80 | Caleb Muntz             |      88.87 |            944064 |       10 |  434981           |     104.51 | George Ford     |             80 |
+|             80 | Vinaya Habosi           |     114.96 |            999200 |       11 |       1.01992e+06 |      81.45 | Jonny May       |             80 |
+|             65 | Semi Radradra           |     122.09 |            895011 |       12 |  512456           |     107.81 | Manu Tuilagi    |             80 |
+|             75 | Waisea Nayacalevu       |      99.43 |           1011321 |       13 |  899480           |      72.04 | Ollie Lawrence  |             54 |
+|             80 | Selestino Ravutaumada   |     100.41 |            999226 |       14 |  772639           |      73.74 | Max Malins      |             80 |
+|             80 | Ilaisa Droasese         |      84.48 |            975662 |       15 |  936071           |      85.44 | Freddie Steward |             54 |
+|              2 | Zuriel Togiatama        |      77.3  |            986942 |       16 |     nan           |      81.26 | Jack Walker     |              6 |
+|             27 | Jone Koroiduadua        |      84.58 |            944922 |       17 |  439564           |      72.15 | Joe Marler      |             29 |
+|             10 | Samuela Tawake          |      73.64 |           1014481 |       18 |  855095           |      55.57 | Will Stuart     |             10 |
+|             18 | Temo Mayanavanua        |      92.8  |            920340 |       19 |  865443           |      96.58 | David Ribbans   |             10 |
+|             28 | Vilive Miramira         |      76.59 |            999062 |       20 |  858281           |      72.87 | Lewis Ludlam    |             23 |
+|             31 | Simione Kuruvoli        |      91.88 |            984932 |       21 |  248851           |     123.26 | Danny Care      |             10 |
+|              5 | Teti Tela               |     105.57 |            798153 |       22 |  885165           |     102.61 | Marcus Smith    |             26 |
+|             15 | Kalaveti Ravouvou       |     145.16 |            999174 |       23 |  779700           |      74.46 | Joe Marchant    |             26 |
 
 
 # Player Level Predictions - Version 2
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: England by 12.4
+## Prediction with Player Minutes: England by 12.6
 
 
-England by 8.7 on a neutral field
-## Prediction without Player Minutes: England by 10.9
+England by 8.9 on a neutral field
+## Prediction without Player Minutes: England by 11.1
 
 
-England by 7.2 on a neutral pitch
+England by 7.4 on a neutral pitch
 
 
 
@@ -112,7 +112,7 @@ England by 7.2 on a neutral pitch
 |             27 | Jone Koroiduadua        |      44.11 |           50    |       17 |           50    |     107.79 | Joe Marler      |             29 |
 |             10 | Samuela Tawake          |      46.43 |           48.95 |       18 |           50    |      38.48 | Will Stuart     |             10 |
 |             18 | Temo Mayanavanua        |      66.98 |           49.66 |       19 |           50    |      73.09 | David Ribbans   |             10 |
-|             28 | Vilive Miramira         |      56.54 |           48.59 |       20 |           50    |      46.65 | Lewis Ludlam    |             23 |
+|             28 | Vilive Miramira         |      56.54 |           48.59 |       20 |           50    |      64.05 | Lewis Ludlam    |             23 |
 |             31 | Simione Kuruvoli        |      43.63 |           49.93 |       21 |           50    |     140.05 | Danny Care      |             10 |
 |              5 | Teti Tela               |      66.93 |           50    |       22 |           50    |      77.71 | Marcus Smith    |             26 |
 |             15 | Kalaveti Ravouvou       |      54.79 |           48.11 |       23 |           50    |      93.18 | Joe Marchant    |             26 |

@@ -28,10 +28,10 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Bayonne by 14.7
+## Prediction with Player Minutes: Bayonne by 14.8
 
 
-Bayonne by 18.7 on a neutral field
+Bayonne by 18.8 on a neutral field
 ## Prediction without Player Minutes: Bayonne by 13.5
 
 
@@ -47,33 +47,33 @@ Bayonne by 17.5 on a neutral pitch
 
 ![In Match Predictions](plots/recap_prob_2023-08-26-Toulon-Bayonne.png)
 
-There were 13 large changes in win probability in this match
+There were 14 large changes in win probability in this match
 
 |   Away Minutes | Away Player            |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:-----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|---------------:|
-|             54 | Swan Cormenier         |      83.49 |       1.01946e+06 |        1 |       1.01965e+06 |      78.78 | Bruce Devaux        |             48 |
-|             48 | Vincent Giudicelli     |      87.18 |       1.01945e+06 |        2 |       1.01968e+06 |      75.97 | Teddy Baubigny      |             25 |
-|             48 | Tevita Tatafu          |      92.07 |  994966           |        3 |       1.01966e+06 |      78.12 | Emerick Setiano     |             48 |
-|             80 | Thomas Ceyte           |     117.15 |  804052           |        4 |       1.01963e+06 |      78.8  | Matthias Halagahu   |             80 |
-|             68 | Lucas Paulos           |     116.53 |  938726           |        5 |       1.01962e+06 |      84.15 | Alun-Wyn Jones      |             48 |
-|             80 | Rémi Bourdeau          |      98.05 |       1.01749e+06 |        6 |       1.02003e+06 |      74.56 | Jules Coulon        |             80 |
-|             80 | Arthur Iturria         |      80.41 |       1.01948e+06 |        7 |       1.01965e+06 |      77.06 | Esteban Abadie      |             80 |
-|             62 | Uzair Cassiem          |      87.18 |       1.01947e+06 |        8 |       1.0174e+06  |      96.79 | Selevasio Tolofua   |             48 |
-|             54 | Guillaume Rouet        |      83.35 |       1.01948e+06 |        9 |       1.01967e+06 |      75.95 | Jules Danglot       |             48 |
-|             80 | Camille Lopez          |      86.49 |       1.01947e+06 |       10 |       1.01966e+06 |      75.86 | Enzo Hervé          |             72 |
-|             54 | Rémy Baget             |      88.35 |       1.01946e+06 |       11 |       1.02002e+06 |      74.93 | Rayan Rebbadj       |             80 |
-|             68 | Guillaume Martocq      |      72.8  |  965890           |       12 |       1.01968e+06 |      74.76 | Setariki Tuicuvu    |             80 |
-|             80 | Peyo Muscarditz        |      83.52 |       1.01948e+06 |       13 |       1.01967e+06 |      77.83 | Jérémy Sinzelle     |             43 |
-|             80 | Arnaud Erbinartegaray  |     101.53 |       1.01139e+06 |       14 |       1.00996e+06 |      75.5  | Gaël Dréan          |             80 |
-|             80 | Cheikh Tiberghien      |      80    |       1.01947e+06 |       15 |       1.01967e+06 |      74.96 | Aymeric Luc         |             80 |
-|             32 | Facundo Bosch          |      84.62 |     nan           |       16 |     nan           |      77.37 | Christopher Tolofua |             55 |
-|             32 | Pascal Cotet           |      75.07 |  967298           |       17 |     nan           |      78.55 | Mathieu Smaili      |             37 |
-|             26 | Aurelien Callandret    |     104.92 |  918221           |       18 |     nan           |      74.74 | Kieran Brookes      |             32 |
-|             26 | Maxime Machenaud       |      80.74 |     nan           |       19 |     nan           |      74.39 | Baptiste Serin      |             32 |
-|             26 | Quentin Béthune        |      84.16 |       1.01946e+06 |       20 |       1.01966e+06 |      76.13 | Cornell du Preez    |             32 |
-|             18 | Baptiste Heguy         |      82.88 |       1.01948e+06 |       21 |       1.01963e+06 |      79.51 | Mathieu Tanguy      |             32 |
-|             12 | Apisalome Ratuniyarawa |      84.43 |     nan           |       22 |     nan           |      78.44 | Dany Priso          |             32 |
-|             12 | Thomas Dolhagaray      |      84.79 |  990209           |       23 |     nan           |      83.97 | Noah Lolesio        |              8 |
+|             54 | Swan Cormenier         |      81.26 |       1.01955e+06 |        1 |       1.01974e+06 |      76.46 | Bruce Devaux        |             48 |
+|             48 | Vincent Giudicelli     |      83.51 |       1.01955e+06 |        2 |       1.01974e+06 |      76.1  | Teddy Baubigny      |             25 |
+|             48 | Tevita Tatafu          |      92.06 |  995070           |        3 |       1.01973e+06 |      77.47 | Emerick Setiano     |             48 |
+|             80 | Thomas Ceyte           |     117.14 |  804096           |        4 |       1.01969e+06 |      79.99 | Matthias Halagahu   |             80 |
+|             68 | Lucas Paulos           |     116.53 |  938806           |        5 |       1.01974e+06 |      77.08 | Alun-Wyn Jones      |             48 |
+|             80 | Rémi Bourdeau          |      98.05 |       1.0176e+06  |        6 |       1.02012e+06 |      74.57 | Jules Coulon        |             80 |
+|             80 | Arthur Iturria         |      83.03 |       1.01952e+06 |        7 |       1.01972e+06 |      76.63 | Esteban Abadie      |             80 |
+|             62 | Uzair Cassiem          |      86.08 |       1.01955e+06 |        8 |       1.01751e+06 |      96.7  | Selevasio Tolofua   |             48 |
+|             54 | Guillaume Rouet        |      85.04 |       1.01953e+06 |        9 |       1.0197e+06  |      79.05 | Jules Danglot       |             48 |
+|             80 | Camille Lopez          |      88.01 |       1.01952e+06 |       10 |       1.01972e+06 |      76.32 | Enzo Hervé          |             72 |
+|             54 | Rémy Baget             |      86.69 |       1.01954e+06 |       11 |       1.02011e+06 |      74.94 | Rayan Rebbadj       |             80 |
+|             68 | Guillaume Martocq      |      72.79 |  965988           |       12 |       1.01975e+06 |      74.48 | Setariki Tuicuvu    |             80 |
+|             80 | Peyo Muscarditz        |      87.17 |       1.01951e+06 |       13 |       1.0197e+06  |      82.03 | Jérémy Sinzelle     |             43 |
+|             80 | Arnaud Erbinartegaray  |     101.53 |       1.0115e+06  |       14 |       1.01007e+06 |      75.41 | Gaël Dréan          |             80 |
+|             80 | Cheikh Tiberghien      |      81.01 |       1.01953e+06 |       15 |       1.01971e+06 |      77.74 | Aymeric Luc         |             80 |
+|             32 | Facundo Bosch          |      84.48 |     nan           |       16 |     nan           |      77.33 | Christopher Tolofua |             55 |
+|             32 | Pascal Cotet           |      75.07 |  967396           |       17 |     nan           |      78.93 | Mathieu Smaili      |             37 |
+|             26 | Aurelien Callandret    |     104.92 |  918297           |       18 |     nan           |      74.75 | Kieran Brookes      |             32 |
+|             26 | Maxime Machenaud       |      80.23 |     nan           |       19 |     nan           |      74.4  | Baptiste Serin      |             32 |
+|             26 | Quentin Béthune        |      81.86 |       1.01955e+06 |       20 |       1.01973e+06 |      75.52 | Cornell du Preez    |             32 |
+|             18 | Baptiste Heguy         |      84.94 |       1.01952e+06 |       21 |       1.01969e+06 |      83.16 | Mathieu Tanguy      |             32 |
+|             12 | Apisalome Ratuniyarawa |      84.67 |     nan           |       22 |     nan           |      77.86 | Dany Priso          |             32 |
+|             12 | Thomas Dolhagaray      |      84.78 |  990311           |       23 |     nan           |      80.46 | Noah Lolesio        |              8 |
 
 
 # Player Level Predictions - Version 2

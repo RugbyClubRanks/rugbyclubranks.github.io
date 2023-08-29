@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Taranaki by 19.1
+## Prediction with Player Minutes: Taranaki by 19.5
 
 
-Taranaki by 15.1 on a neutral field
-## Prediction without Player Minutes: Taranaki by 16.5
+Taranaki by 15.5 on a neutral field
+## Prediction without Player Minutes: Taranaki by 16.8
 
 
-Taranaki by 12.5 on a neutral pitch
+Taranaki by 12.8 on a neutral pitch
 
 
 ## Scores over Time
@@ -51,29 +51,29 @@ There were 11 large changes in win probability in this match
 
 |   Away Minutes | Away Player            |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                   |   Home Minutes |
 |---------------:|:-----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------------|---------------:|
-|             60 | Aidan Ross             |      85.56 |  789128           |        1 |       1.01808e+06 |      81.47 | Jared Proffit                 |             66 |
-|             69 | Kurt Eklund            |      74.04 |       1.01864e+06 |        2 |  788342           |      87.56 | Ricky Riccitelli              |             52 |
-|             52 | John Afoa              |      85.44 |       1.01641e+06 |        3 |       1.01885e+06 |      75.62 | Reuben O'Neill                |             57 |
-|             80 | Mana'aki Selby-Rickit  |      69.61 |       1.01869e+06 |        4 |       1.01759e+06 |      69.99 | Jesse Parete                  |             52 |
-|             74 | Justin Sangster        |      72.87 |       1.01864e+06 |        5 |       1.01811e+06 |      84.6  | Hemopo Cunningham             |             66 |
-|             80 | Naitoa Ah Kuoi         |      87.65 |  946403           |        6 |  878858           |     100.41 | Pita Gus Sowakula             |             80 |
-|             66 | Veveni Lasaqa          |      74.18 |       1.0187e+06  |        7 |       1.0169e+06  |      73.74 | Tom Florence                  |             80 |
-|             80 | Nikora Broughton       |      71.33 |       1.01866e+06 |        8 |       1.01813e+06 |      84.25 | Kaylum Boshier                |             80 |
-|             57 | Te Toiroa Tahuriorangi |      79.99 |       1.01649e+06 |        9 |       1.01812e+06 |      73.54 | Adam Lennox                   |             66 |
-|             80 | Lucas Cashmore         |      72.96 |       1.01867e+06 |       10 |  828708           |     108.25 | Stephen Perofeta              |             80 |
-|             80 | Ngarohi McGarvey-Black |      69.58 |       1.01868e+06 |       11 |  962030           |     123.51 | Kini Naholo                   |             80 |
-|             71 | Lalomilo Lalomilo      |      72.53 |       1.01868e+06 |       12 |       1.01718e+06 |      65.3  | Teihorangi Walden             |             52 |
-|             80 | Melani Nanai           |      68.78 |       1.0187e+06  |       13 |       1.01807e+06 |      88.45 | Meihana Grindlay              |             80 |
-|             80 | Leroy Carter           |      78.49 |       1.01867e+06 |       14 |       1.01809e+06 |      87.43 | Jacob Ratumaitavuki-Kneepkens |             80 |
-|             76 | Cole Forbes            |      68.5  |       1.01862e+06 |       15 |       1.01813e+06 |      73.67 | Matty McKenzie                |             57 |
-|             20 | Josh Bartlett          |      73.43 |     nan           |       16 |       1.01806e+06 |      76.14 | Michael Bent                  |             23 |
-|             28 | Benet Kumeroa          |      81.23 |     nan           |       17 |     nan           |      78.05 | Donald Brighouse              |             14 |
-|             11 | Nathan Vella           |      79    |     nan           |       18 |       1.0181e+06  |      77.32 | Bradley Slater                |             28 |
-|              6 | Etonia Waqa            |      73.46 |     nan           |       19 |       1.01637e+06 |      66.35 | Millenium Sanerivi            |             28 |
-|             23 | Richard Judd           |      68.3  |       1.01703e+06 |       20 |       1.01758e+06 |      63.75 | Thomas Franklin               |             14 |
-|             14 | Penitoa Finau          |      84.05 |       1.01645e+06 |       21 |     nan           |      78.23 | Liam Blyde                    |             14 |
-|              9 | Seamus Bardoul         |      77.22 |     nan           |       22 |     nan           |      77.27 | Daniel Rona                   |             28 |
-|              4 | Wharenui Hawera        |      83.44 |       1.01869e+06 |       23 |       1.01634e+06 |      90.75 | Jayson Potroz                 |             23 |
+|             60 | Aidan Ross             |      85.56 |  789153           |        1 |       1.01819e+06 |      81.55 | Jared Proffit                 |             66 |
+|             69 | Kurt Eklund            |      75.33 |       1.01868e+06 |        2 |  788367           |      87.52 | Ricky Riccitelli              |             52 |
+|             52 | John Afoa              |      85.44 |       1.01652e+06 |        3 |       1.0189e+06  |      75.89 | Reuben O'Neill                |             57 |
+|             80 | Mana'aki Selby-Rickit  |      70.28 |       1.01872e+06 |        4 |       1.01769e+06 |      70.31 | Jesse Parete                  |             52 |
+|             74 | Justin Sangster        |      72.35 |       1.01871e+06 |        5 |       1.01821e+06 |      84.61 | Hemopo Cunningham             |             66 |
+|             80 | Naitoa Ah Kuoi         |      87.65 |  946489           |        6 |  878915           |     100.35 | Pita Gus Sowakula             |             80 |
+|             66 | Veveni Lasaqa          |      77.63 |       1.0187e+06  |        7 |       1.01701e+06 |      73.64 | Tom Florence                  |             80 |
+|             80 | Nikora Broughton       |      68.88 |       1.01877e+06 |        8 |       1.01824e+06 |      84.25 | Kaylum Boshier                |             80 |
+|             57 | Te Toiroa Tahuriorangi |      79.99 |       1.0166e+06  |        9 |       1.01822e+06 |      73.73 | Adam Lennox                   |             66 |
+|             80 | Lucas Cashmore         |      72.85 |       1.01872e+06 |       10 |  828758           |     108.18 | Stephen Perofeta              |             80 |
+|             80 | Ngarohi McGarvey-Black |      69.49 |       1.01873e+06 |       11 |  962125           |     123.32 | Kini Naholo                   |             80 |
+|             71 | Lalomilo Lalomilo      |      71.19 |       1.01876e+06 |       12 |       1.01728e+06 |      65.22 | Teihorangi Walden             |             52 |
+|             80 | Melani Nanai           |      70.01 |       1.01873e+06 |       13 |       1.01817e+06 |      88.44 | Meihana Grindlay              |             80 |
+|             80 | Leroy Carter           |      78.23 |       1.01872e+06 |       14 |       1.0182e+06  |      87.41 | Jacob Ratumaitavuki-Kneepkens |             80 |
+|             76 | Cole Forbes            |      64.75 |       1.01877e+06 |       15 |       1.01823e+06 |      73.86 | Matty McKenzie                |             57 |
+|             20 | Josh Bartlett          |      73.51 |     nan           |       16 |       1.01816e+06 |      76.31 | Michael Bent                  |             23 |
+|             28 | Benet Kumeroa          |      79.35 |     nan           |       17 |     nan           |      78.35 | Donald Brighouse              |             14 |
+|             11 | Nathan Vella           |      78.21 |     nan           |       18 |       1.0182e+06  |      77.45 | Bradley Slater                |             28 |
+|              6 | Etonia Waqa            |      73.54 |     nan           |       19 |       1.01648e+06 |      67.51 | Millenium Sanerivi            |             28 |
+|             23 | Richard Judd           |      68.45 |       1.01714e+06 |       20 |       1.01768e+06 |      63.92 | Thomas Franklin               |             14 |
+|             14 | Penitoa Finau          |      84.05 |       1.01656e+06 |       21 |     nan           |      78.17 | Liam Blyde                    |             14 |
+|              9 | Seamus Bardoul         |      77.39 |     nan           |       22 |     nan           |      77.24 | Daniel Rona                   |             28 |
+|              4 | Wharenui Hawera        |      86.16 |       1.0187e+06  |       23 |       1.01645e+06 |      91.21 | Jayson Potroz                 |             23 |
 
 
 # Player Level Predictions - Version 2

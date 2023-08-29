@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Grenoble by 8.6
+## Prediction with Player Minutes: Grenoble by 8.4
 
 
-Grenoble by 12.6 on a neutral field
-## Prediction without Player Minutes: Grenoble by 8.7
+Grenoble by 12.4 on a neutral field
+## Prediction without Player Minutes: Grenoble by 8.5
 
 
-Grenoble by 12.7 on a neutral pitch
+Grenoble by 12.5 on a neutral pitch
 
 
 ## Scores over Time
@@ -47,33 +47,33 @@ Grenoble by 12.7 on a neutral pitch
 
 ![In Match Predictions](plots/recap_prob_2023-08-25-Colomiers-Grenoble.png)
 
-There were 12 large changes in win probability in this match
+There were 13 large changes in win probability in this match
 
 |   Away Minutes | Away Player         |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player        |   Home Minutes |
 |---------------:|:--------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------|---------------:|
-|             49 | Zack Gauthier       |      96.42 |  995169           |        1 |  954167           |      68.21 | Guillaume Tartas   |             48 |
-|             49 | Lilian Rossi        |      76.08 |       1.01936e+06 |        2 |  605853           |      54.19 | Thomas Larrieu     |             48 |
-|             49 | Regis Montagne      |      94.5  |  971135           |        3 |  877717           |      58.86 | Hugo Pirlet        |             48 |
-|             80 | Thomas Lainault     |     123.61 |  854242           |        4 |  771116           |     103.86 | Jean Thomas        |             80 |
-|             57 | Brendon Nansen      |      77.37 |       1.01935e+06 |        5 |       1.01908e+06 |      74.4  | Jack Whetton       |             52 |
-|             80 | Antonin Berruyer    |      74.09 |       1.01682e+06 |        6 |       1.01912e+06 |      67.24 | Robert Harley      |             80 |
-|             80 | Steeve Blanc-Mappaz |      75.99 |       1.01687e+06 |        7 |       1.01907e+06 |      70.03 | Jeremy Bechu       |             52 |
-|             80 | Talalelei Gray      |      75.69 |       1.01688e+06 |        8 |  659467           |      85.23 | Aldric Lescure     |             80 |
-|             62 | Barnabé Couilloud   |      75.88 |       1.01935e+06 |        9 |  969012           |      59.04 | Ugo Seguela        |             68 |
-|             72 | Sam Davies          |      79.52 |       1.01934e+06 |       10 |       1.01909e+06 |      74.07 | Maxime Javaux      |             80 |
-|             80 | Erwan Dridi         |      74.9  |       1.01937e+06 |       11 |  965673           |      63.48 | Martin Dulon       |             80 |
-|             41 | Romain Barthélémy   |      73.22 |       1.01686e+06 |       12 |       1.01683e+06 |      81.64 | Dorian Laborde     |             54 |
-|             80 | Romain Trouilloud   |      78.95 |  974137           |       13 |  619386           |      81.16 | Fabien Perrin      |             80 |
-|             80 | Nathan Farissier    |      76.72 |       1.00788e+06 |       14 |       1.01984e+06 |      68.11 | Lucas Paulien-Camy |             62 |
-|             80 | Geoffrey Cros       |      77.34 |       1.01936e+06 |       15 |  659957           |      62    | Thomas Girard      |             80 |
-|             39 | Romain Fusier       |      73.66 |  967139           |       16 |  653332           |      72.99 | Thomas Dubois      |             32 |
-|             31 | Luka Goginava       |      74.48 |  917545           |       17 |     nan           |      72.77 | Pablo Dimcheff     |             32 |
-|             31 | Mathis Sarragallet  |      59.74 |  969898           |       18 |     nan           |      72.22 | Marco Fepulea'i    |             32 |
-|             31 | Vincent Vial        |      73.99 |       1.00785e+06 |       19 |  947197           |      62.55 | Waël Ponpon        |             28 |
-|             23 | Bernabe Massa       |      84.61 |       1.01435e+06 |       20 |       1.01348e+06 |      80.52 | Louis Descoux      |             28 |
-|             18 | Éric Escande        |      79.05 |       1.01685e+06 |       21 |       1.01908e+06 |      68.84 | Enzo Salles        |             26 |
-|              8 | Max Clément         |      75.81 |     nan           |       22 |       1.01911e+06 |      70.61 | Ugo Pacome         |             18 |
-|            nan | nan                 |     nan    |     nan           |       23 |     nan           |      73.49 | Edoardo Gori       |             12 |
+|             49 | Zack Gauthier       |      96.38 |  995273           |        1 |  954258           |      68.22 | Guillaume Tartas   |             48 |
+|             49 | Lilian Rossi        |      76.47 |       1.01941e+06 |        2 |  605857           |      54.2  | Thomas Larrieu     |             48 |
+|             49 | Regis Montagne      |      94.43 |  971234           |        3 |  877774           |      58.87 | Hugo Pirlet        |             48 |
+|             80 | Thomas Lainault     |     123.52 |  854293           |        4 |  771141           |     103.86 | Jean Thomas        |             80 |
+|             57 | Brendon Nansen      |      76.89 |       1.01942e+06 |        5 |       1.01916e+06 |      73.76 | Jack Whetton       |             52 |
+|             80 | Antonin Berruyer    |      74.05 |       1.01692e+06 |        6 |       1.01914e+06 |      68.85 | Robert Harley      |             80 |
+|             80 | Steeve Blanc-Mappaz |      75.88 |       1.01698e+06 |        7 |       1.01918e+06 |      68.07 | Jeremy Bechu       |             52 |
+|             80 | Talalelei Gray      |      75.58 |       1.01699e+06 |        8 |  659476           |      85.24 | Aldric Lescure     |             80 |
+|             62 | Barnabé Couilloud   |      75.05 |       1.01943e+06 |        9 |  969111           |      59.05 | Ugo Seguela        |             68 |
+|             72 | Sam Davies          |      78.02 |       1.01943e+06 |       10 |       1.01915e+06 |      74.28 | Maxime Javaux      |             80 |
+|             80 | Erwan Dridi         |      76.09 |       1.0194e+06  |       11 |  965771           |      63.49 | Martin Dulon       |             80 |
+|             41 | Romain Barthélémy   |      73.18 |       1.01696e+06 |       12 |       1.01693e+06 |      81.65 | Dorian Laborde     |             54 |
+|             80 | Romain Trouilloud   |      78.84 |  974236           |       13 |  619392           |      81.16 | Fabien Perrin      |             80 |
+|             80 | Nathan Farissier    |      76.72 |       1.00799e+06 |       14 |       1.01993e+06 |      68.23 | Lucas Paulien-Camy |             62 |
+|             80 | Geoffrey Cros       |      77.85 |       1.01941e+06 |       15 |  659966           |      62    | Thomas Girard      |             80 |
+|             39 | Romain Fusier       |      73.66 |  967237           |       16 |  653341           |      72.99 | Thomas Dubois      |             32 |
+|             31 | Luka Goginava       |      74.41 |  917621           |       17 |     nan           |      73.42 | Pablo Dimcheff     |             32 |
+|             31 | Mathis Sarragallet  |      59.67 |  969997           |       18 |     nan           |      72.98 | Marco Fepulea'i    |             32 |
+|             31 | Vincent Vial        |      73.99 |       1.00796e+06 |       19 |  947283           |      62.55 | Waël Ponpon        |             28 |
+|             23 | Bernabe Massa       |      84.61 |       1.01446e+06 |       20 |       1.01359e+06 |      80.53 | Louis Descoux      |             28 |
+|             18 | Éric Escande        |      78.97 |       1.01696e+06 |       21 |       1.01917e+06 |      67.59 | Enzo Salles        |             26 |
+|              8 | Max Clément         |      75.74 |     nan           |       22 |       1.01913e+06 |      71.95 | Ugo Pacome         |             18 |
+|            nan | nan                 |     nan    |     nan           |       23 |     nan           |      75.29 | Edoardo Gori       |             12 |
 
 
 # Player Level Predictions - Version 2

@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Wellington by 14.6
+## Prediction with Player Minutes: Wellington by 14.7
 
 
-Wellington by 10.6 on a neutral field
-## Prediction without Player Minutes: Wellington by 16.5
+Wellington by 10.7 on a neutral field
+## Prediction without Player Minutes: Wellington by 16.6
 
 
-Wellington by 12.5 on a neutral pitch
+Wellington by 12.6 on a neutral pitch
 
 
 ## Scores over Time
@@ -51,29 +51,29 @@ There were 3 large changes in win probability in this match
 
 |   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                   |   Home Minutes |
 |---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------------|---------------:|
-|             64 | Kershawl Sykes-Martin |      80.83 |       1.01797e+06 |        1 |           1017444 |      83.53 | Xavier Numia                  |             56 |
-|             64 | Feleti Kaitu'u        |      77.87 |       1.01802e+06 |        2 |           1018961 |      78.09 | James O'Reilly                |             60 |
-|             52 | Sam Matenga           |      58.99 |       1.01732e+06 |        3 |           1018465 |      88.3  | Siale Lauaki                  |             56 |
-|             80 | Antonio Shalfoon      |      70.42 |       1.01897e+06 |        4 |            987230 |      80.8  | Caleb Delany                  |             80 |
-|             80 | Quinten Strange       |      76.21 |  830644           |        5 |           1019824 |      80.16 | Dominic Bird                  |             56 |
-|             80 | Max Hicks             |      83.73 |       1.01607e+06 |        6 |           1016824 |      86.39 | Brad Shields                  |             80 |
-|             64 | Seta Baker            |      78.1  |       1.01799e+06 |        7 |            635349 |     108.17 | Ardie Savea                   |             60 |
-|             80 | Anton Segner          |      64.57 |  987937           |        8 |           1018955 |      83.16 | Peter Lakai                   |             80 |
-|             64 | Noah Hotham           |      78.11 |       1.01796e+06 |        9 |           1018423 |      83.26 | Kemara Henare Hauiti-Parapara |             77 |
-|             10 | Taine Robinson        |      81.37 |       1.01798e+06 |       10 |           1018390 |      86.12 | Aidan Morgan                  |             80 |
-|             80 | Macca Springer        |      76.62 |       1.01793e+06 |       11 |           1018442 |      77.68 | Pepesana Patafilo             |             60 |
-|             80 | Alex Nankivell        |     100.02 |  785689           |       12 |           1018462 |      81.67 | Peter Ionatana Umaga-Jensen   |             60 |
-|             80 | Levi Aumua            |      83.56 |       1.01646e+06 |       13 |            891468 |     106.5  | Billy Proctor                 |             80 |
-|             80 | Timoci Tavatavanawai  |      84.94 |       1.01644e+06 |       14 |           1018381 |      85.91 | Losilosivale Filipo           |             80 |
-|             80 | Tom Marshall          |      77.27 |       1.01801e+06 |       15 |           1018471 |      75.87 | Ruben Love                    |             80 |
-|             16 | Quentin MacDonald     |      74.89 |       1.01795e+06 |       16 |           1018445 |      81.92 | Cameron Orr                   |             24 |
-|             28 | Luca Inch             |      75.69 |     nan           |       17 |           1018458 |      78.01 | PJ Sheck                      |             24 |
-|             16 | Ryan Cameron Coxon    |      73.62 |       1.01794e+06 |       18 |           1018407 |      81.83 | Josh Southall                 |             20 |
-|             16 | Angus Fletcher        |      76.77 |     nan           |       19 |           1018417 |      87.9  | Hugo Plummer                  |             24 |
-|             16 | Louie Chapman         |      88.12 |       1.01642e+06 |       20 |           1018433 |      79.19 | Dominic Ropeti                |             20 |
-|             44 | Tim O'Malley          |      73.57 |       1.01799e+06 |       21 |           1018430 |      83.75 | Kyle Preston                  |              3 |
-|             26 | Will Gualter          |      75.29 |       1.01899e+06 |       22 |           1018951 |      74.86 | Riley Higgins                 |             20 |
-|            nan | nan                   |     nan    |     nan           |       23 |           1018371 |      83.46 | Tjay Clarke                   |             20 |
+|             64 | Kershawl Sykes-Martin |      80.83 |       1.01808e+06 |        1 |           1017556 |      83.57 | Xavier Numia                  |             56 |
+|             64 | Feleti Kaitu'u        |      77.87 |       1.01812e+06 |        2 |           1019021 |      77.94 | James O'Reilly                |             60 |
+|             52 | Sam Matenga           |      59.07 |       1.01742e+06 |        3 |           1018526 |      88.32 | Siale Lauaki                  |             56 |
+|             80 | Antonio Shalfoon      |      70.24 |       1.01904e+06 |        4 |            987332 |      80.86 | Caleb Delany                  |             80 |
+|             80 | Quinten Strange       |      76.21 |  830694           |        5 |           1019909 |      80.19 | Dominic Bird                  |             56 |
+|             80 | Max Hicks             |      83.71 |       1.01619e+06 |        6 |           1016930 |      86.44 | Brad Shields                  |             80 |
+|             64 | Seta Baker            |      78.11 |       1.01809e+06 |        7 |            635357 |     108.19 | Ardie Savea                   |             60 |
+|             80 | Anton Segner          |      64.56 |  988039           |        8 |           1019016 |      83.19 | Peter Lakai                   |             80 |
+|             64 | Noah Hotham           |      78.12 |       1.01806e+06 |        9 |           1018484 |      83.3  | Kemara Henare Hauiti-Parapara |             77 |
+|             10 | Taine Robinson        |      81.37 |       1.01809e+06 |       10 |           1018451 |      86.17 | Aidan Morgan                  |             80 |
+|             80 | Macca Springer        |      76.61 |       1.01803e+06 |       11 |           1018503 |      77.72 | Pepesana Patafilo             |             60 |
+|             80 | Alex Nankivell        |     100.02 |  785714           |       12 |           1018523 |      81.72 | Peter Ionatana Umaga-Jensen   |             60 |
+|             80 | Levi Aumua            |      83.54 |       1.01656e+06 |       13 |            891527 |     106.52 | Billy Proctor                 |             80 |
+|             80 | Timoci Tavatavanawai  |      84.92 |       1.01655e+06 |       14 |           1018442 |      85.96 | Losilosivale Filipo           |             80 |
+|             80 | Tom Marshall          |      77.28 |       1.01811e+06 |       15 |           1018532 |      75.93 | Ruben Love                    |             80 |
+|             16 | Quentin MacDonald     |      74.89 |       1.01806e+06 |       16 |           1018506 |      81.94 | Cameron Orr                   |             24 |
+|             28 | Luca Inch             |      75.69 |     nan           |       17 |           1018519 |      78.05 | PJ Sheck                      |             24 |
+|             16 | Ryan Cameron Coxon    |      73.62 |       1.01804e+06 |       18 |           1018468 |      81.88 | Josh Southall                 |             20 |
+|             16 | Angus Fletcher        |      76.21 |     nan           |       19 |           1018478 |      87.94 | Hugo Plummer                  |             24 |
+|             16 | Louie Chapman         |      88.11 |       1.01652e+06 |       20 |           1018494 |      79.21 | Dominic Ropeti                |             20 |
+|             44 | Tim O'Malley          |      73.56 |       1.0181e+06  |       21 |           1018491 |      83.76 | Kyle Preston                  |              3 |
+|             26 | Will Gualter          |      75.47 |       1.01904e+06 |       22 |           1019012 |      74.9  | Riley Higgins                 |             20 |
+|            nan | nan                   |     nan    |     nan           |       23 |           1018432 |      83.48 | Tjay Clarke                   |             20 |
 
 
 # Player Level Predictions - Version 2

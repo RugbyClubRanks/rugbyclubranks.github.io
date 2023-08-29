@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Castres Olympique by 37.0
+## Prediction with Player Minutes: Castres Olympique by 36.6
 
 
-Castres Olympique by 33.0 on a neutral field
-## Prediction without Player Minutes: Castres Olympique by 37.7
+Castres Olympique by 32.6 on a neutral field
+## Prediction without Player Minutes: Castres Olympique by 37.5
 
 
-Castres Olympique by 33.7 on a neutral pitch
+Castres Olympique by 33.5 on a neutral pitch
 
 
 ## Scores over Time
@@ -47,33 +47,33 @@ Castres Olympique by 33.7 on a neutral pitch
 
 ![In Match Predictions](plots/recap_prob_2023-08-19-CastresOlympique-Pau.png)
 
-There were 10 large changes in win probability in this match
+There were 11 large changes in win probability in this match
 
 |   Away Minutes | Away Player              |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                |   Home Minutes |
 |---------------:|:-------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------------|---------------:|
-|             54 | Hayden Thompson-Stringer |      54.28 |       1.01956e+06 |        1 |       1.01961e+06 |      72.98 | Quentin Walcker            |             50 |
-|             56 | Lucas Rey                |      52.85 |       1.01958e+06 |        2 |       1.01956e+06 |      77.75 | Gaëtan Barlot              |             59 |
-|             54 | Nicolas Corato           |      51.7  |       1.01962e+06 |        3 |       1.01954e+06 |      82.95 | Wilfried Hounkpatin        |             50 |
-|             54 | Guillaume Ducat          |      54.62 |       1.01956e+06 |        4 |       1.01956e+06 |      78.54 | Gauthier Maravat           |             48 |
-|             14 | Mickael Capelli          |      52.21 |       1.0196e+06  |        5 |       1.01955e+06 |      79.53 | Thomas Staniforth          |             80 |
-|             48 | Martin Puech             |      52.51 |       1.01959e+06 |        6 |       1.0196e+06  |      74.33 | Mathieu Babillot           |             80 |
-|             80 | Reece Hewat              |      51.82 |       1.01961e+06 |        7 |       1.01962e+06 |      72.62 | Nick Champion de Crespigny |             48 |
-|             80 | Luke Whitelock           |      52.67 |       1.01959e+06 |        8 |       1.01955e+06 |      80.88 | Tyler Ardron               |             80 |
-|             56 | Dan Robson               |      53.24 |       1.01957e+06 |        9 |       1.01959e+06 |      74.62 | Jérémy Fernandez           |             70 |
-|             80 | Joe Simmonds             |      51.94 |       1.0196e+06  |       10 |       1.01958e+06 |      76.07 | Louis Le Brun              |             50 |
-|             80 | Thomas Carol             |      56.75 |       1.01955e+06 |       11 |       1.0196e+06  |      74.07 | Josaia Raisuqe             |             54 |
-|             37 | Jale Vatubua             |      55.02 |       1.01956e+06 |       12 |       1.01961e+06 |      73.17 | Adrea Cocagi               |             80 |
-|             80 | Samuel Ezeala            |      53.47 |       1.01957e+06 |       13 |       1.0196e+06  |      73.59 | Adrien Seguret             |             80 |
-|             80 | Clément Laporte          |      52.35 |       1.01959e+06 |       14 |       1.01956e+06 |      77.1  | Geoffrey Palis             |             80 |
-|             80 | Jack Maddocks            |      53.04 |       1.01958e+06 |       15 |       1.01961e+06 |      73.37 | Julien Dumora              |             80 |
-|             66 | Fabrice Metz             |      52.07 |       1.0196e+06  |       16 |       1.01222e+06 |      87.32 | Baptiste Cope              |             32 |
-|             43 | Axel Desperes            |      85.37 |       1.0127e+06  |       17 |     nan           |      74.93 | Leone Nakarawa             |             32 |
-|             32 | Sacha Zegueur            |      35.97 |  918280           |       18 |       1.01961e+06 |      72.79 | Pierre Popelin             |             30 |
-|             26 | Rémi Seneca              |      53.71 |     nan           |       19 |     nan           |      73.82 | Antoine Tichit             |             30 |
-|             26 | Hugo Auradou             |      57.87 |  996246           |       20 |     nan           |      75.27 | Levan Chilachava           |             30 |
-|             26 | Siate Tokolahi           |      56.04 |     nan           |       21 |       1.01962e+06 |      72.46 | Nathanael Hulleu           |             26 |
-|             24 | Thibault Daubagna        |      55.48 |       1.01955e+06 |       22 |     nan           |      75.65 | Loris Zarantonello         |             21 |
-|             24 | Romain Ruffenach         |      53.98 |     nan           |       23 |     nan           |      76.55 | Gauthier Doubrère          |             10 |
+|             54 | Hayden Thompson-Stringer |      55.02 |       1.01963e+06 |        1 |       1.01964e+06 |      76.55 | Quentin Walcker            |             50 |
+|             56 | Lucas Rey                |      52.85 |       1.01966e+06 |        2 |       1.01962e+06 |      80.88 | Gaëtan Barlot              |             59 |
+|             54 | Nicolas Corato           |      53.47 |       1.01964e+06 |        3 |       1.01963e+06 |      77.1  | Wilfried Hounkpatin        |             50 |
+|             54 | Guillaume Ducat          |      56.75 |       1.01961e+06 |        4 |       1.01962e+06 |      79.53 | Gauthier Maravat           |             48 |
+|             14 | Mickael Capelli          |      53.04 |       1.01965e+06 |        5 |       1.01963e+06 |      77.75 | Thomas Staniforth          |             80 |
+|             48 | Martin Puech             |      51.7  |       1.01969e+06 |        6 |       1.01965e+06 |      74.33 | Mathieu Babillot           |             80 |
+|             80 | Reece Hewat              |      53.98 |       1.01964e+06 |        7 |       1.01964e+06 |      75.65 | Nick Champion de Crespigny |             48 |
+|             80 | Luke Whitelock           |      53.24 |       1.01965e+06 |        8 |       1.01967e+06 |      72.79 | Tyler Ardron               |             80 |
+|             56 | Dan Robson               |      55.48 |       1.01962e+06 |        9 |       1.01967e+06 |      73.37 | Jérémy Fernandez           |             70 |
+|             80 | Joe Simmonds             |      52.35 |       1.01966e+06 |       10 |       1.01965e+06 |      74.93 | Louis Le Brun              |             50 |
+|             80 | Thomas Carol             |      52.07 |       1.01968e+06 |       11 |       1.01966e+06 |      73.82 | Josaia Raisuqe             |             54 |
+|             37 | Jale Vatubua             |      54.28 |       1.01963e+06 |       12 |       1.01965e+06 |      74.62 | Adrea Cocagi               |             80 |
+|             80 | Samuel Ezeala            |      52.51 |       1.01966e+06 |       13 |       1.01964e+06 |      75.27 | Adrien Seguret             |             80 |
+|             80 | Clément Laporte          |      52.21 |       1.01968e+06 |       14 |       1.01962e+06 |      82.95 | Geoffrey Palis             |             80 |
+|             80 | Jack Maddocks            |      54.62 |       1.01963e+06 |       15 |       1.01967e+06 |      73.59 | Julien Dumora              |             80 |
+|             66 | Fabrice Metz             |      56.04 |       1.01962e+06 |       16 |       1.01234e+06 |      87.32 | Baptiste Cope              |             32 |
+|             43 | Axel Desperes            |      85.37 |       1.01281e+06 |       17 |     nan           |      73.17 | Leone Nakarawa             |             32 |
+|             32 | Sacha Zegueur            |      35.97 |  918356           |       18 |       1.01964e+06 |      76.07 | Pierre Popelin             |             30 |
+|             26 | Rémi Seneca              |      52.67 |     nan           |       19 |     nan           |      72.62 | Antoine Tichit             |             30 |
+|             26 | Hugo Auradou             |      57.87 |  996350           |       20 |     nan           |      72.98 | Levan Chilachava           |             30 |
+|             26 | Siate Tokolahi           |      51.82 |     nan           |       21 |       1.01966e+06 |      74.07 | Nathanael Hulleu           |             26 |
+|             24 | Thibault Daubagna        |      51.94 |       1.01968e+06 |       22 |     nan           |      72.46 | Loris Zarantonello         |             21 |
+|             24 | Romain Ruffenach         |      53.71 |     nan           |       23 |     nan           |      78.54 | Gauthier Doubrère          |             10 |
 
 
 # Player Level Predictions - Version 2
