@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Provence Rugby by 12.7
+## Prediction with Player Minutes: Provence Rugby by 13.0
 
 
-Provence Rugby by 8.7 on a neutral field
-## Prediction without Player Minutes: Provence Rugby by 14.0
+Provence Rugby by 9.0 on a neutral field
+## Prediction without Player Minutes: Provence Rugby by 14.3
 
 
-Provence Rugby by 10.0 on a neutral pitch
+Provence Rugby by 10.3 on a neutral pitch
 
 
 ## Scores over Time
@@ -47,33 +47,33 @@ Provence Rugby by 10.0 on a neutral pitch
 
 ![In Match Predictions](plots/recap_prob_2023-08-25-ProvenceRugby-Agen.png)
 
-There were 4 large changes in win probability in this match
+There were 3 large changes in win probability in this match
 
 |   Away Minutes | Away Player                   |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|---------------:|
-|             45 | Hans Lombard-Buret            |      73.85 |       1.01923e+06 |        1 |       1.01937e+06 |      79.2  | Julius Nostadt      |             61 |
-|             24 | Pierre Jouvin                 |      75.24 |       1.00677e+06 |        2 |       1.01938e+06 |      78.32 | Loïck Jammes        |             47 |
-|             45 | Alex Burin                    |      72.66 |       1.01926e+06 |        3 |       1.00995e+06 |      94.04 | Paul Mallez         |             47 |
-|             80 | Joe Maksymiw                  |      74.24 |       1.01923e+06 |        4 |       1.01938e+06 |      75.73 | Théo Hannoyer       |             51 |
-|             45 | Corentin Vernet               |      71.39 |       1.01993e+06 |        5 |       1.01937e+06 |      83.62 | Josh Tyrell         |             80 |
-|             80 | Julien Lebian                 |      82.08 |       1.01358e+06 |        6 |  929101           |      94.8  | Guillaume Piazzoli  |             15 |
-|             80 | Valentin Gayraud              |     104.72 |       1.01307e+06 |        7 |       1.01992e+06 |      78.15 | Jessy Jegerlhener   |             47 |
-|             47 | Fotu Lokotui                  |      73.61 |       1.0192e+06  |        8 |       1.01939e+06 |      82.1  | Teimana Harrison    |             80 |
-|             64 | Dorian Bellot                 |      73.65 |  992602           |        9 |       1.01671e+06 |      85.27 | Arthur Coville      |             59 |
-|             49 | Dorian Jones                  |      77.63 |       1.01925e+06 |       10 |       1.01936e+06 |      79.55 | Jimmy Gopperth      |             80 |
-|             80 | Iban Etcheverry               |      69.88 |       1.01923e+06 |       11 |  976114           |      78.94 | Nadir Bouhedjeur    |             80 |
-|             80 | Harry Sloan                   |      71.56 |       1.01992e+06 |       12 |       1.01937e+06 |      83.11 | Kaveinga Finau      |             80 |
-|             80 | Théo Belan                    |      71.73 |       1.01992e+06 |       13 |       1.01938e+06 |      76.13 | Atila Septar        |             59 |
-|             49 | Inoke Nalaga Kurukuruvakatini |      72.06 |       1.00355e+06 |       14 |       1.01936e+06 |      84.21 | Adrien Lapègue      |             80 |
-|             80 | Mathieu Lamoulie              |      72.1  |       1.01992e+06 |       15 |       1.01939e+06 |      81.76 | Thomas Salles       |             80 |
-|             56 | Mike Sosene-Feagai            |      75.97 |       1.01922e+06 |       16 |  982241           |      81.43 | Lucas Martin        |             65 |
-|             35 | Richard Barrington            |      79.39 |     nan           |       17 |       1.01694e+06 |      78.36 | Jean-Charles Orioli |             33 |
-|             35 | Antoine Erbani                |      73.47 |     nan           |       18 |       1.01937e+06 |      82.89 | Bilel Taieb         |             33 |
-|             35 | Beau Farrance                 |      67.56 |  989769           |       19 |       1.01939e+06 |      77.77 | Quentin Samaran     |             33 |
-|             33 | Martin Devergie               |      77.16 |     nan           |       20 |  769461           |      80.11 | Clément Chartier    |             29 |
-|             31 | Thomas Vincent                |      69.06 |       1.01924e+06 |       21 |  752738           |      88.1  | Joris Cazenave      |             21 |
-|             31 | Yul Charrier                  |      71.91 |     nan           |       22 |     nan           |      77.97 | Dorian Lavernhe     |             21 |
-|             16 | Theo Idjellidaine             |      73.83 |       1.01924e+06 |       23 |     nan           |      82.07 | Nicolas Toth        |             19 |
+|             45 | Hans Lombard-Buret            |      73.29 |       1.01926e+06 |        1 |       1.01942e+06 |      77.96 | Julius Nostadt      |             61 |
+|             24 | Pierre Jouvin                 |      75.26 |       1.00677e+06 |        2 |       1.0194e+06  |      80.42 | Loïck Jammes        |             47 |
+|             45 | Alex Burin                    |      73.29 |       1.01927e+06 |        3 |       1.00994e+06 |      94.02 | Paul Mallez         |             47 |
+|             80 | Joe Maksymiw                  |      75.59 |       1.01925e+06 |        4 |       1.01942e+06 |      75.41 | Théo Hannoyer       |             51 |
+|             45 | Corentin Vernet               |      71.96 |       1.01996e+06 |        5 |       1.01941e+06 |      82.67 | Josh Tyrell         |             80 |
+|             80 | Julien Lebian                 |      82.08 |       1.01357e+06 |        6 |  929102           |      94.77 | Guillaume Piazzoli  |             15 |
+|             80 | Valentin Gayraud              |     104.72 |       1.01306e+06 |        7 |       1.01996e+06 |      78.13 | Jessy Jegerlhener   |             47 |
+|             47 | Fotu Lokotui                  |      69.94 |       1.01926e+06 |        8 |       1.01939e+06 |      85.34 | Teimana Harrison    |             80 |
+|             64 | Dorian Bellot                 |      73.67 |  992597           |        9 |       1.01667e+06 |      86.33 | Arthur Coville      |             59 |
+|             49 | Dorian Jones                  |      79.56 |       1.01925e+06 |       10 |       1.01941e+06 |      77.59 | Jimmy Gopperth      |             80 |
+|             80 | Iban Etcheverry               |      69.38 |       1.01926e+06 |       11 |  976113           |      78.89 | Nadir Bouhedjeur    |             80 |
+|             80 | Harry Sloan                   |      71.77 |       1.01996e+06 |       12 |       1.0194e+06  |      83.9  | Kaveinga Finau      |             80 |
+|             80 | Théo Belan                    |      71.26 |       1.01996e+06 |       13 |       1.01942e+06 |      75.76 | Atila Septar        |             59 |
+|             49 | Inoke Nalaga Kurukuruvakatini |      72.06 |       1.00355e+06 |       14 |       1.01942e+06 |      82.47 | Adrien Lapègue      |             80 |
+|             80 | Mathieu Lamoulie              |      71.59 |       1.01996e+06 |       15 |       1.01942e+06 |      81.76 | Thomas Salles       |             80 |
+|             56 | Mike Sosene-Feagai            |      73.08 |       1.01927e+06 |       16 |  982239           |      81.43 | Lucas Martin        |             65 |
+|             35 | Richard Barrington            |      75.46 |     nan           |       17 |       1.01691e+06 |      77.67 | Jean-Charles Orioli |             33 |
+|             35 | Antoine Erbani                |      77.45 |     nan           |       18 |       1.0194e+06  |      83.62 | Bilel Taieb         |             33 |
+|             35 | Beau Farrance                 |      67.56 |  989762           |       19 |       1.01939e+06 |      80.79 | Quentin Samaran     |             33 |
+|             33 | Martin Devergie               |      74.66 |     nan           |       20 |  769462           |      80.11 | Clément Chartier    |             29 |
+|             31 | Thomas Vincent                |      72.96 |       1.01924e+06 |       21 |  752741           |      88.08 | Joris Cazenave      |             21 |
+|             31 | Yul Charrier                  |      71.42 |     nan           |       22 |     nan           |      78.31 | Dorian Lavernhe     |             21 |
+|             16 | Theo Idjellidaine             |      73.38 |       1.01926e+06 |       23 |     nan           |      82.05 | Nicolas Toth        |             19 |
 
 
 # Player Level Predictions - Version 2

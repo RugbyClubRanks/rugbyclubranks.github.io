@@ -11,6 +11,10 @@ header:
   - titles:
       en      : &EN       Competitions
     url: /Competitions.html
+  
+  - titles:
+      en      : &EN       Accuracy
+    url: /accuracy_page.html
 
   - titles:
       en      : &EN       Archive

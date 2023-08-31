@@ -28,10 +28,10 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Italy by 12.6
+## Prediction with Player Minutes: Italy by 12.5
 
 
-Italy by 8.6 on a neutral field
+Italy by 8.5 on a neutral field
 ## Prediction without Player Minutes: Italy by 12.9
 
 
@@ -51,29 +51,29 @@ There were 12 large changes in win probability in this match
 
 |   Away Minutes | Away Player       |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|---------------:|
-|             54 | Craig Millar      |      80.23 |  690531           |        1 |            962260 |      88.83 | Ivan Nemer          |             29 |
-|             61 | Shota Horie       |     119.37 |  438127           |        2 |            957110 |     126.87 | Giacomo Nicotera    |             55 |
-|             54 | Jiwon Gu          |      79.87 |       1.0116e+06  |        3 |            705208 |      75.46 | Simone Ferrari      |             54 |
-|             81 | Jack Cornelsen    |     106.44 |  790935           |        4 |            929198 |      62.43 | Niccolo Cannone     |             54 |
-|             42 | Uwe Helu          |      85.99 |  843098           |        5 |            774841 |     100.31 | Federico Ruzza      |             72 |
-|             81 | Michael Leitch    |      87.21 |  387055           |        6 |            882772 |      84.75 | Sebastian Negri     |             81 |
-|             61 | Shota Fukui       |      88.33 |       1.01794e+06 |        7 |            926307 |     104.88 | Michele Lamaro      |             81 |
-|             81 | Kazuki Himeno     |      73.07 |  877191           |        8 |            972462 |      78.16 | Lorenzo Cannone     |             54 |
-|             58 | Yutaka Nagare     |      75.98 |  804887           |        9 |            961120 |      59.17 | Stephen Varney      |             72 |
-|             42 | Seungsin Lee      |      73.23 |  995986           |       10 |            950843 |      85.24 | Paolo Garbisi       |             81 |
-|             81 | Jone Naikabula    |      68.42 |       1.01794e+06 |       11 |            746102 |     124.13 | Monty Ioane         |             81 |
-|             68 | Tomoki Osada      |      72.5  |       1.01795e+06 |       12 |            581418 |     118.59 | Luca Morisi         |             81 |
-|             81 | Dylan Riley       |     101    |  891041           |       13 |            622579 |     108.59 | Juan Ignacio Brex   |             81 |
-|             81 | Semisi Masirewa   |     110.68 |  689003           |       14 |            938887 |     101.99 | Ange Capuozzo       |             63 |
-|             81 | Kotaro Matsushima |      94.83 |  727127           |       15 |            699744 |      87.23 | Tommaso Allan       |             81 |
-|             20 | Atsushi Sakate    |      64.66 |  849381           |       16 |            705887 |      69.31 | Luca Bigi           |             26 |
-|             27 | Keita Inagaki     |      89.91 |  692952           |       17 |            933049 |      75.99 | Danilo Fischetti    |             52 |
-|             27 | Asaeli Ai Valu    |     118.14 |  808985           |       18 |            796791 |      96.25 | Pietro Ceccarelli   |             27 |
-|             39 | Amanaki Saumaki   |      84.84 |     nan           |       19 |            893245 |     116.96 | Dino Lamb           |             27 |
-|             20 | Ben Gunter        |     106.07 |  879209           |       20 |            835752 |     123.87 | Giovanni Pettinelli |              9 |
-|             23 | Naoto Saito       |      78.54 |  959099           |       21 |            958339 |      92.34 | Manuel Zuliani      |             27 |
-|             39 | Rikiya Matsuda    |      71.04 |  824556           |       22 |            965915 |     104.72 | Martin Page-Relo    |              9 |
-|             13 | Ryoto Nakamura    |     119.14 |  808291           |       23 |            803058 |      98.82 | Paolo Odogwu        |             18 |
+|             54 | Craig Millar      |      80.23 |  690532           |        1 |            962259 |      88.85 | Ivan Nemer          |             29 |
+|             61 | Shota Horie       |     119.37 |  438128           |        2 |            957108 |     126.91 | Giacomo Nicotera    |             55 |
+|             54 | Jiwon Gu          |      79.87 |       1.01159e+06 |        3 |            705209 |      75.51 | Simone Ferrari      |             54 |
+|             81 | Jack Cornelsen    |     106.44 |  790939           |        4 |            929199 |      62.47 | Niccolo Cannone     |             54 |
+|             42 | Uwe Helu          |      85.98 |  843096           |        5 |            774843 |     100.4  | Federico Ruzza      |             72 |
+|             81 | Michael Leitch    |      87.2  |  387055           |        6 |            882769 |      84.8  | Sebastian Negri     |             81 |
+|             61 | Shota Fukui       |      88.54 |       1.01791e+06 |        7 |            926308 |     104.92 | Michele Lamaro      |             81 |
+|             81 | Kazuki Himeno     |      73.07 |  877189           |        8 |            972461 |      78.22 | Lorenzo Cannone     |             54 |
+|             58 | Yutaka Nagare     |      75.98 |  804887           |        9 |            961119 |      59.18 | Stephen Varney      |             72 |
+|             42 | Seungsin Lee      |      73.22 |  995981           |       10 |            950841 |      85.3  | Paolo Garbisi       |             81 |
+|             81 | Jone Naikabula    |      68.67 |       1.01791e+06 |       11 |            746105 |     123.23 | Monty Ioane         |             81 |
+|             68 | Tomoki Osada      |      72.5  |       1.01792e+06 |       12 |            581419 |     118.64 | Luca Morisi         |             81 |
+|             81 | Dylan Riley       |     101    |  891038           |       13 |            622578 |     108.65 | Juan Ignacio Brex   |             81 |
+|             81 | Semisi Masirewa   |     110.68 |  689003           |       14 |            938888 |     102.01 | Ange Capuozzo       |             63 |
+|             81 | Kotaro Matsushima |      94.84 |  727129           |       15 |            699745 |      87.32 | Tommaso Allan       |             81 |
+|             20 | Atsushi Sakate    |      64.66 |  849379           |       16 |            705888 |      69.32 | Luca Bigi           |             26 |
+|             27 | Keita Inagaki     |      89.9  |  692953           |       17 |            933050 |      76.03 | Danilo Fischetti    |             52 |
+|             27 | Asaeli Ai Valu    |     118.13 |  808985           |       18 |            796791 |      96.3  | Pietro Ceccarelli   |             27 |
+|             39 | Amanaki Saumaki   |      84.85 |     nan           |       19 |            893241 |     117    | Dino Lamb           |             27 |
+|             20 | Ben Gunter        |     106.06 |  879207           |       20 |            835750 |     123.87 | Giovanni Pettinelli |              9 |
+|             23 | Naoto Saito       |      78.54 |  959097           |       21 |            958337 |      92.39 | Manuel Zuliani      |             27 |
+|             39 | Rikiya Matsuda    |      71.04 |  824556           |       22 |            965914 |     104.76 | Martin Page-Relo    |              9 |
+|             13 | Ryoto Nakamura    |     119.14 |  808291           |       23 |            803058 |      98.85 | Paolo Odogwu        |             18 |
 
 
 # Player Level Predictions - Version 2

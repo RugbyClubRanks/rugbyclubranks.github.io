@@ -51,29 +51,29 @@ There were 5 large changes in win probability in this match
 
 |   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
-|             72 | Angus Bell            |      89.58 |            943254 |        1 |            904689 |     111.21 | Jean-Baptiste Gros   |             48 |
-|             69 | Dave Porecki          |      98.44 |            748016 |        2 |            756821 |      88.55 | Julien Marchand      |             48 |
-|             69 | Taniela Tupou         |     125.8  |            800202 |        3 |            615772 |     105.44 | Uini Atonio          |             48 |
-|             62 | Richie Arnold         |      81.49 |            791165 |        4 |            912659 |      85.33 | Thibaud Flament      |             48 |
-|             72 | Will Skelton          |     121.56 |            680080 |        5 |            618468 |     135.58 | Paul Willemse        |             48 |
-|             81 | Tom Hooper            |      88.59 |            982325 |        6 |            811081 |     150.35 | Francois Cros        |             81 |
-|             81 | Fraser McReight       |      77.23 |            920431 |        7 |            696142 |     120.4  | Charles Ollivon      |             81 |
-|             69 | Rob Valetini          |     102.56 |            888955 |        8 |            902312 |     111.36 | Gregory Alldritt     |             65 |
-|             72 | Tate McDermott        |     109.37 |            907473 |        9 |            762207 |     111.46 | Antoine Dupont       |             60 |
-|             81 | Carter Gordon         |      96.19 |            945149 |       10 |            890737 |      94.84 | Matthieu Jalibert    |             81 |
-|             81 | Suliasi Vunivalu      |      87.34 |            976266 |       11 |            951623 |      72.96 | Gabin Villiere       |             81 |
-|             69 | Lalakai Foketi        |      90.22 |            726188 |       12 |            580971 |     107.4  | Jonathan Danty       |             81 |
-|             81 | Jordan Petaia         |     120.13 |            908930 |       13 |            646161 |      91.66 | Gael Fickou          |             81 |
-|             81 | Mark Nawaqanitawase   |     100.46 |            943318 |       14 |            817044 |      87.06 | Damian Penaud        |             81 |
-|             70 | Andrew Kellaway       |     117.24 |            740866 |       15 |            718245 |     112.08 | Thomas Ramos         |             69 |
-|             12 | Matt Faessler         |      88.43 |            945194 |       16 |            863693 |     111.45 | Peato Mauvaka        |             33 |
-|              9 | Blake Schoupp         |      87.38 |           1014422 |       17 |               nan |     100.05 | Sebastien Taofifenua |             33 |
-|             12 | Zane Nonggorr         |      91.3  |            962157 |       18 |            756615 |     107.75 | Dorian Aldegheri     |             33 |
-|              9 | Matt Philip           |      81.93 |            757325 |       19 |               nan |      99.82 | Romain Taofifenua    |             33 |
-|             19 | Rob Leota             |      76.7  |            825783 |       20 |            895475 |      68.05 | Cameron Woki         |             33 |
-|             12 | Langi Gleeson         |      88.86 |            999552 |       21 |            931401 |     101.95 | Paul Boudehent       |             16 |
-|              9 | Issak Fines-Leleiwasa |      92.83 |            846616 |       22 |            821304 |     119.61 | Baptiste Couilloud   |             21 |
-|             23 | Ben Donaldson         |      83.82 |            943522 |       23 |            968541 |     117.15 | Melvyn Jaminet       |             12 |
+|             72 | Angus Bell            |      89.49 |            943256 |        1 |            904686 |     111.12 | Jean-Baptiste Gros   |             48 |
+|             69 | Dave Porecki          |      98.58 |            748019 |        2 |            756823 |      88.57 | Julien Marchand      |             48 |
+|             69 | Taniela Tupou         |     125.76 |            800202 |        3 |            615771 |     105.49 | Uini Atonio          |             48 |
+|             62 | Richie Arnold         |      81.45 |            791169 |        4 |            912656 |      85.37 | Thibaud Flament      |             48 |
+|             72 | Will Skelton          |     121.59 |            680080 |        5 |            618467 |     135.56 | Paul Willemse        |             48 |
+|             81 | Tom Hooper            |      90.54 |            982323 |        6 |            811081 |     150.39 | Francois Cros        |             81 |
+|             81 | Fraser McReight       |      77.17 |            920431 |        7 |            696143 |     120.44 | Charles Ollivon      |             81 |
+|             69 | Rob Valetini          |     102.98 |            888952 |        8 |            902308 |     111.43 | Gregory Alldritt     |             65 |
+|             72 | Tate McDermott        |     109.38 |            907470 |        9 |            762208 |     111.48 | Antoine Dupont       |             60 |
+|             81 | Carter Gordon         |      94.61 |            945148 |       10 |            890734 |      94.69 | Matthieu Jalibert    |             81 |
+|             81 | Suliasi Vunivalu      |      87.58 |            976265 |       11 |            951621 |      73    | Gabin Villiere       |             81 |
+|             69 | Lalakai Foketi        |      90.27 |            726190 |       12 |            580972 |     107.49 | Jonathan Danty       |             81 |
+|             81 | Jordan Petaia         |     120.05 |            908927 |       13 |            646160 |      91.74 | Gael Fickou          |             81 |
+|             81 | Mark Nawaqanitawase   |     100.4  |            943320 |       14 |            817044 |      87.1  | Damian Penaud        |             81 |
+|             70 | Andrew Kellaway       |     116.97 |            740868 |       15 |            718246 |     112.11 | Thomas Ramos         |             69 |
+|             12 | Matt Faessler         |      88.45 |            945193 |       16 |            863692 |     111.44 | Peato Mauvaka        |             33 |
+|              9 | Blake Schoupp         |      85.71 |           1014416 |       17 |               nan |     100.05 | Sebastien Taofifenua |             33 |
+|             12 | Zane Nonggorr         |      91.36 |            962156 |       18 |            756617 |     107.77 | Dorian Aldegheri     |             33 |
+|              9 | Matt Philip           |      82.34 |            757326 |       19 |               nan |      99.82 | Romain Taofifenua    |             33 |
+|             19 | Rob Leota             |      76.64 |            825783 |       20 |            895471 |      67.93 | Cameron Woki         |             33 |
+|             12 | Langi Gleeson         |      88.92 |            999547 |       21 |            931402 |     101.81 | Paul Boudehent       |             16 |
+|              9 | Issak Fines-Leleiwasa |      92.67 |            846614 |       22 |            821304 |     119.45 | Baptiste Couilloud   |             21 |
+|             23 | Ben Donaldson         |      83.94 |            943524 |       23 |            968540 |     117.2  | Melvyn Jaminet       |             12 |
 
 
 # Player Level Predictions - Version 2

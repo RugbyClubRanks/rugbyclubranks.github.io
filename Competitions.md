@@ -57,6 +57,10 @@ key: page-recents
 
 
 [2022](comp_files\IRB_Pacific_Nations_Cup_2022) - Prediction Accuracy: 66.7% 
+## Rugby World Cup
+
+
+[2023](comp_files\Rugby_World_Cup_2023)
 ## worldcupwarmupmatch
 
 
@@ -192,7 +196,7 @@ key: page-recents
 ## Bunnings Warehouse NPC
 
 
-[2023](comp_files\Bunnings_Warehouse_NPC_2023) - Prediction Accuracy: 67.7% 
+[2023](comp_files\Bunnings_Warehouse_NPC_2023) - Prediction Accuracy: 65.6% 
 
 [2022](comp_files\Bunnings_Warehouse_NPC_2022) - Prediction Accuracy: 70.1% 
 

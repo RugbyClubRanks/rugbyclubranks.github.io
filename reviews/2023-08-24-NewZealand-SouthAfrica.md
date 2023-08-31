@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: South Africa by 1.1
+## Prediction with Player Minutes: South Africa by 1.0
 
 
-South Africa by 5.1 on a neutral field
-## Prediction without Player Minutes: New Zealand by 3.8
+South Africa by 5.0 on a neutral field
+## Prediction without Player Minutes: New Zealand by 3.9
 
 
-South Africa by 0.2 on a neutral pitch
+South Africa by 0.1 on a neutral pitch
 
 
 ## Scores over Time
@@ -51,29 +51,29 @@ There were 5 large changes in win probability in this match
 
 |   Away Minutes | Away Player          |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:---------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|---------------:|
-|             47 | Steven Kitshoff      |     101.13 |            560851 |        1 |            921370 |      89.08 | Ethan de Groot      |             51 |
-|             47 | Malcolm Marx         |     101.43 |            722143 |        2 |            381255 |     122.41 | Dane Coles          |             41 |
-|             47 | Frans Malherbe       |     125.49 |            542906 |        3 |            803217 |     136.32 | Tyrel Lomax         |             14 |
-|             47 | Eben Etzebeth        |     113.91 |            614146 |        4 |           1007030 |      99.7  | Sam Whitelock       |             51 |
-|             47 | Franco Mostert       |     131.98 |            650673 |        5 |            730282 |     129.99 | Scott Barrett       |             80 |
-|             47 | Siya Kolisi          |      93.88 |            567731 |        6 |            879793 |     126.9  | Luke Jacobson       |             40 |
-|             80 | Pieter-Steph du Toit |      79.13 |            621794 |        7 |            512707 |     127.58 | Sam Cane            |             63 |
-|             47 | Duane Vermeulen      |     109.22 |            299647 |        8 |            635357 |     106.8  | Ardie Savea         |             80 |
-|             80 | Faf de Klerk         |     104.11 |            631635 |        9 |            485834 |      88.58 | Aaron Smith         |             61 |
-|             80 | Manie Libbok         |     103.51 |            876700 |       10 |            686689 |     137.71 | Richie Mo'unga      |             80 |
-|             63 | Makazole Mapimpi     |     119.05 |            727712 |       11 |            832839 |     102.5  | Mark Telea          |             80 |
-|             80 | Andre Esterhuizen    |     140.93 |            720740 |       12 |            830085 |     113.05 | Jordie Barrett      |             80 |
-|             80 | Canan Moodie         |     116.99 |            997311 |       13 |            782897 |      81.95 | Rieko Ioane         |             80 |
-|             80 | Kurt-Lee Arendse     |     139.76 |            971812 |       14 |            881818 |     114.19 | Will Jordan         |             63 |
-|             80 | Damian Willemse      |     110.09 |            868250 |       15 |            499177 |     147.6  | Beauden Barrett     |             80 |
-|             33 | Bongi Mbonambi       |     116.82 |            618061 |       16 |            866958 |     105.01 | Samisoni Taukei'aho |             39 |
-|             33 | Ox Nche              |      89.78 |            813421 |       17 |            981506 |      92.37 | Tamaiti Williams    |             29 |
-|             33 | Trevor Nyakane       |     115.1  |            574000 |       18 |            976166 |      73.74 | Fletcher Newell     |             66 |
-|             33 | Jean Kleyn           |     107.84 |            724831 |       19 |            946819 |      97.44 | Josh Lord           |             29 |
-|             33 | RG Snyman            |     112.02 |            793375 |       20 |            924026 |      65.87 | Tupou Vaa'i         |             40 |
-|             33 | Marco van Staden     |     101.48 |            897843 |       21 |           1007013 |      98.2  | Dalton Papali'i     |             17 |
-|             17 | Cobus Reinach        |     118.99 |            569139 |       22 |            980668 |      92.94 | Cam Roigard         |             19 |
-|             33 | Kwagga Smith         |     102.16 |            742064 |       23 |            720490 |     102.17 | Anton Lienert-Brown |             17 |
+|             47 | Steven Kitshoff      |     101    |            560852 |        1 |            921370 |      88.99 | Ethan de Groot      |             51 |
+|             47 | Malcolm Marx         |     101.48 |            722145 |        2 |            381255 |     122.37 | Dane Coles          |             41 |
+|             47 | Frans Malherbe       |     125.36 |            542907 |        3 |            803217 |     136.33 | Tyrel Lomax         |             14 |
+|             47 | Eben Etzebeth        |     113.97 |            614145 |        4 |           1007026 |      99.74 | Sam Whitelock       |             51 |
+|             47 | Franco Mostert       |     132.05 |            650672 |        5 |            730284 |     130.08 | Scott Barrett       |             80 |
+|             47 | Siya Kolisi          |      93.88 |            567732 |        6 |            879791 |     127.02 | Luke Jacobson       |             40 |
+|             80 | Pieter-Steph du Toit |      78.95 |            621793 |        7 |            512708 |     127.64 | Sam Cane            |             63 |
+|             47 | Duane Vermeulen      |     109.04 |            299647 |        8 |            635356 |     106.29 | Ardie Savea         |             80 |
+|             80 | Faf de Klerk         |     104.17 |            631634 |        9 |            485835 |      88.49 | Aaron Smith         |             61 |
+|             80 | Manie Libbok         |     103.38 |            876698 |       10 |            686689 |     137.79 | Richie Mo'unga      |             80 |
+|             63 | Makazole Mapimpi     |     119.13 |            727714 |       11 |            832839 |     102.63 | Mark Telea          |             80 |
+|             80 | Andre Esterhuizen    |     140.75 |            720741 |       12 |            830084 |     113.04 | Jordie Barrett      |             80 |
+|             80 | Canan Moodie         |     116.81 |            997306 |       13 |            782899 |      82.07 | Rieko Ioane         |             80 |
+|             80 | Kurt-Lee Arendse     |     139.55 |            971811 |       14 |            881816 |     114.27 | Will Jordan         |             63 |
+|             80 | Damian Willemse      |     110.14 |            868248 |       15 |            499178 |     147.55 | Beauden Barrett     |             80 |
+|             33 | Bongi Mbonambi       |     116.7  |            618060 |       16 |            866956 |     105.11 | Samisoni Taukei'aho |             39 |
+|             33 | Ox Nche              |      89.78 |            813421 |       17 |            981505 |      92.37 | Tamaiti Williams    |             29 |
+|             33 | Trevor Nyakane       |     115.18 |            574001 |       18 |            976165 |      73.73 | Fletcher Newell     |             66 |
+|             33 | Jean Kleyn           |     107.7  |            724833 |       19 |            946819 |      97.43 | Josh Lord           |             29 |
+|             33 | RG Snyman            |     111.98 |            793375 |       20 |            924026 |      66.02 | Tupou Vaa'i         |             40 |
+|             33 | Marco van Staden     |     101.32 |            897839 |       21 |           1007009 |      98.01 | Dalton Papali'i     |             17 |
+|             17 | Cobus Reinach        |     118.85 |            569140 |       22 |            980667 |      92.81 | Cam Roigard         |             19 |
+|             33 | Kwagga Smith         |     102.2  |            742066 |       23 |            720491 |     102.39 | Anton Lienert-Brown |             17 |
 
 
 # Player Level Predictions - Version 2

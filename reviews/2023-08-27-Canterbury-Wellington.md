@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Canterbury by 18.5
+## Prediction with Player Minutes: Canterbury by 20.7
 
 
-Canterbury by 14.5 on a neutral field
-## Prediction without Player Minutes: Canterbury by 19.1
+Canterbury by 16.7 on a neutral field
+## Prediction without Player Minutes: Canterbury by 21.6
 
 
-Canterbury by 15.1 on a neutral pitch
+Canterbury by 17.6 on a neutral pitch
 
 
 ## Scores over Time
@@ -51,29 +51,29 @@ There were 11 large changes in win probability in this match
 
 |   Away Minutes | Away Player                 |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player       |   Home Minutes |
 |---------------:|:----------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------|---------------:|
-|             55 | Xavier Numia                |      79.18 |       1.01756e+06 |        1 |       1.01957e+06 |      84.27 | Joe Moody         |             55 |
-|             47 | Josh Southall               |      80.31 |       1.01847e+06 |        2 |       1.01863e+06 |      78.08 | Ben Funnell       |             74 |
-|             41 | PJ Sheck                    |      76.16 |       1.01852e+06 |        3 |       1.01855e+06 |      89.02 | Seb Calder        |             74 |
-|             80 | Hugo Plummer                |      86.05 |       1.01848e+06 |        4 |       1.01864e+06 |      81.43 | Mitchell Dunshea  |             80 |
-|             55 | Dominic Bird                |      58.23 |       1.01991e+06 |        5 |       1.01854e+06 |      87.94 | Tahlor Cahill     |             47 |
-|             56 | Brad Shields                |      80.17 |       1.01693e+06 |        6 |       1.01616e+06 |      98.04 | Billy Harmon      |             80 |
-|             80 | Sione Halalilo              |      75.24 |       1.02012e+06 |        7 |  898462           |     109.62 | Tom Christie      |             64 |
-|             80 | Peter Lakai                 |      76.92 |       1.01902e+06 |        8 |       1.01907e+06 |      85.05 | Cullen Grace      |             80 |
-|             64 | Kyle Preston                |      83.53 |       1.01849e+06 |        9 |       1.0077e+06  |      97.57 | Mitchell Drummond |             58 |
-|             80 | Sam Clarke                  |      75.6  |       1.02012e+06 |       10 |       1.0186e+06  |      83.48 | Fergus Burke      |             80 |
-|             60 | Chicago Doyle               |      90.24 |       1.01849e+06 |       11 |       1.01863e+06 |      80.97 | Blair Murray      |             66 |
-|             80 | Riley Higgins               |      73.33 |       1.01901e+06 |       12 |  946709           |      93.67 | Rameka Poihipi    |             55 |
-|             80 | Peter Ionatana Umaga-Jensen |      77.02 |       1.01852e+06 |       13 |  945775           |     101.9  | Dallas McLeod     |             80 |
-|             80 | Losilosivale Filipo         |      79.69 |       1.01844e+06 |       14 |       1.01661e+06 |      82.56 | Manasa Mataele    |             80 |
-|             41 | Tjay Clarke                 |      81.91 |       1.01843e+06 |       15 |       1.01862e+06 |      83.89 | Chay Fihaki       |             80 |
-|             25 | Cameron Orr                 |      80.05 |       1.01851e+06 |       16 |     nan           |      80.39 | Tom Heywood       |             25 |
-|             39 | Josiah Tavita-Metcalfe      |      81.9  |     nan           |       17 |     nan           |      79.9  | Brook Toomalatai  |              6 |
-|             33 | Penieli Poasa               |      88.15 |     nan           |       18 |     nan           |      84.08 | Nick Hyde         |              6 |
-|             25 | Teofilo Paulo               |      81.7  |     nan           |       19 |     nan           |      83.31 | Sam Darry         |             33 |
-|             24 | Dominic Ropeti              |      77.64 |       1.01849e+06 |       20 |       1.01861e+06 |      83.19 | Corey Kellow      |             16 |
-|             39 | Aidan Morgan                |      79.9  |       1.01845e+06 |       21 |       1.01853e+06 |      86.82 | Willi Heinz       |             22 |
-|             20 | Isi Saumaki                 |      75.06 |     nan           |       22 |       1.01855e+06 |      89.64 | Ryan Crotty       |             25 |
-|             16 | Sam Howling                 |      75.42 |     nan           |       23 |     nan           |      83.12 | Solomon Alaimalo  |             14 |
+|             55 | Xavier Numia                |      77.78 |       1.01752e+06 |        1 |       1.0196e+06  |      83.43 | Joe Moody         |             55 |
+|             47 | Josh Southall               |      79.55 |       1.01845e+06 |        2 |       1.01864e+06 |      77.64 | Ben Funnell       |             74 |
+|             41 | PJ Sheck                    |      74.11 |       1.01851e+06 |        3 |       1.01865e+06 |      84.57 | Seb Calder        |             74 |
+|             80 | Hugo Plummer                |      88.12 |       1.01843e+06 |        4 |       1.01856e+06 |      86.01 | Mitchell Dunshea  |             80 |
+|             55 | Dominic Bird                |      52.89 |       1.01994e+06 |        5 |       1.01863e+06 |      84.25 | Tahlor Cahill     |             47 |
+|             56 | Brad Shields                |      74.84 |       1.0169e+06  |        6 |       1.01863e+06 |      83.8  | Billy Harmon      |             80 |
+|             80 | Sione Halalilo              |      73.67 |       1.02015e+06 |        7 |  898458           |     110.92 | Tom Christie      |             64 |
+|             80 | Peter Lakai                 |      74.7  |       1.01905e+06 |        8 |       1.0191e+06  |      84.69 | Cullen Grace      |             80 |
+|             64 | Kyle Preston                |      81.32 |       1.0185e+06  |        9 |       1.00769e+06 |      98.37 | Mitchell Drummond |             58 |
+|             80 | Sam Clarke                  |      73.5  |       1.02015e+06 |       10 |       1.01857e+06 |      85.67 | Fergus Burke      |             80 |
+|             60 | Chicago Doyle               |      89.84 |       1.01847e+06 |       11 |       1.01867e+06 |      80.37 | Blair Murray      |             66 |
+|             80 | Riley Higgins               |      71.27 |       1.01905e+06 |       12 |  946709           |      94.3  | Rameka Poihipi    |             55 |
+|             80 | Peter Ionatana Umaga-Jensen |      79.59 |       1.01844e+06 |       13 |  945774           |     102.26 | Dallas McLeod     |             80 |
+|             80 | Losilosivale Filipo         |      72.64 |       1.0185e+06  |       14 |       1.01655e+06 |      85.43 | Manasa Mataele    |             80 |
+|             41 | Tjay Clarke                 |      74.47 |       1.01851e+06 |       15 |       1.01855e+06 |      89.5  | Chay Fihaki       |             80 |
+|             25 | Cameron Orr                 |      82.9  |       1.01844e+06 |       16 |     nan           |      83.94 | Tom Heywood       |             25 |
+|             39 | Josiah Tavita-Metcalfe      |      80.31 |     nan           |       17 |     nan           |      81.82 | Brook Toomalatai  |              6 |
+|             33 | Penieli Poasa               |      89.17 |     nan           |       18 |     nan           |      82.86 | Nick Hyde         |              6 |
+|             25 | Teofilo Paulo               |      80.5  |     nan           |       19 |     nan           |      82.8  | Sam Darry         |             33 |
+|             24 | Dominic Ropeti              |      77.21 |       1.01846e+06 |       20 |       1.01858e+06 |      84.37 | Corey Kellow      |             16 |
+|             39 | Aidan Morgan                |      75.91 |       1.01846e+06 |       21 |       1.01861e+06 |      81.32 | Willi Heinz       |             22 |
+|             20 | Isi Saumaki                 |      73.33 |     nan           |       22 |       1.01865e+06 |      84.86 | Ryan Crotty       |             25 |
+|             16 | Sam Howling                 |      73.86 |     nan           |       23 |     nan           |      82.62 | Solomon Alaimalo  |             14 |
 
 
 # Player Level Predictions - Version 2

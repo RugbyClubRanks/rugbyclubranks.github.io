@@ -20,13 +20,13 @@ Last Round Error: 18.48 points per match
 
 [2023-08-24 South Africa at New Zealand; 35.0-7.0](reviews//2023-08-24-NewZealand-SouthAfrica)
 
-[2023-08-25 Japan at Italy; 21.0-42.0](reviews//2023-08-25-Italy-Japan)
-
-[2023-08-25 Fiji at England; 30.0-22.0](reviews//2023-08-25-England-Fiji)
-
 [2023-08-25 Georgia at Scotland; 6.0-33.0](reviews//2023-08-25-Scotland-Georgia)
 
 [2023-08-25 Samoa at Ireland; 13.0-17.0](reviews//2023-08-25-Ireland-Samoa)
+
+[2023-08-25 Japan at Italy; 21.0-42.0](reviews//2023-08-25-Italy-Japan)
+
+[2023-08-25 Fiji at England; 30.0-22.0](reviews//2023-08-25-England-Fiji)
 
 [2023-08-26 Argentina at Spain; 62-3](reviews//2023-08-26-Spain-Argentina)
 
@@ -46,12 +46,6 @@ Last Round Accuracy: 7 of 7 (100.0%)
 
 Last Round Error: 8.26 points per match
 
-[2023-08-19 Bordeaux Begles at Racing 92; 18-23](reviews//2023-08-19-Racing92-BordeauxBegles)
-
-[2023-08-19 Pau at Castres Olympique; 23-24](reviews//2023-08-19-CastresOlympique-Pau)
-
-[2023-08-20 La Rochelle at Montpellier Herault; 15-26](reviews//2023-08-20-MontpellierHerault-LaRochelle)
-
 [2023-08-25 Oyonnax at Stade Francais Paris; 18-28](reviews//2023-08-25-StadeFrancaisParis-Oyonnax)
 
 [2023-08-26 Lyon at La Rochelle; 14-35](reviews//2023-08-26-LaRochelle-Lyon)
@@ -68,31 +62,29 @@ Last Round Error: 8.26 points per match
 
 [In depth model review and projections for Bunnings Warehouse NPC 2023](comp_files/Bunnings_Warehouse_NPC_2023)
 
-Competition Accuracy: 21 of 31 (67.74%)
+Competition Accuracy: 21 of 32 (65.62%)
 
-Competition Error: 10.19 points per match
+Competition Error: 10.58 points per match
 
 Last Round Accuracy: 4 of 7 (57.14%)
 
-Last Round Error: 8.12 points per match
-
-[2023-08-20 Taranaki at Waikato; 29-17](reviews//2023-08-20-Waikato-Taranaki)
-
-[2023-08-20 Otago at Hawke's Bay; 32-33](reviews//2023-08-20-Hawke'sBay-Otago)
+Last Round Error: 10.19 points per match
 
 [2023-08-23 Tasman at Wellington; 0-7](reviews//2023-08-23-Wellington-Tasman)
 
 [2023-08-25 Northland at Manawatu; 30-31](reviews//2023-08-25-Manawatu-Northland)
 
-[2023-08-26 Southland at Otago; 21-31](reviews//2023-08-26-Otago-Southland)
+[2023-08-26 Hawke's Bay at Auckland; 22-41](reviews//2023-08-26-Auckland-Hawke'sBay)
 
 [2023-08-26 Bay of Plenty at Taranaki; 29-26](reviews//2023-08-26-Taranaki-BayofPlenty)
 
-[2023-08-26 Hawke's Bay at Auckland; 22-41](reviews//2023-08-26-Auckland-Hawke'sBay)
+[2023-08-26 Southland at Otago; 21-31](reviews//2023-08-26-Otago-Southland)
+
+[2023-08-27 Wellington at Canterbury; 36-31](reviews//2023-08-27-Canterbury-Wellington)
 
 [2023-08-27 Counties Manukau at Waikato; 15-37](reviews//2023-08-27-Waikato-CountiesManukau)
 
-[2023-08-27 Wellington at Canterbury; 36-31](reviews//2023-08-27-Canterbury-Wellington)
+[2023-08-30 Manawatu at Auckland; 33-31](reviews//2023-08-30-Auckland-Manawatu)
 ## Nationale
 
 
