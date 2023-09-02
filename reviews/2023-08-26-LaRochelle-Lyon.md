@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: La Rochelle by 0.5
+## Prediction with Player Minutes: Lyon by 0.2
 
 
-Lyon by 3.5 on a neutral field
-## Prediction without Player Minutes: La Rochelle by 2.2
+Lyon by 4.2 on a neutral field
+## Prediction without Player Minutes: La Rochelle by 1.0
 
 
-Lyon by 1.8 on a neutral pitch
+Lyon by 3.0 on a neutral pitch
 
 
 ## Scores over Time
@@ -47,47 +47,47 @@ Lyon by 1.8 on a neutral pitch
 
 ![In Match Predictions](plots/recap_prob_2023-08-26-LaRochelle-Lyon.png)
 
-There were 6 large changes in win probability in this match
+There were 5 large changes in win probability in this match
 
 |   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player               |   Home Minutes |
 |---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------------|---------------:|
-|             49 | Jerome Rey            |      82.07 |       1.01978e+06 |        1 |       1.01755e+06 |      91.43 | Georges-Henri Colombe     |             36 |
-|             49 | Yanis Charcosset      |      82.57 |       1.01977e+06 |        2 |       1.01616e+06 |      89.51 | Billy Pollard             |             40 |
-|             49 | Demba Bamba           |      93.91 |       1.01729e+06 |        3 |  977431           |      80.03 | Archer Holz               |             40 |
-|             80 | Killian Geraci        |      87.55 |       1.01974e+06 |        4 |       1.01758e+06 |      82.34 | Thomas Lavault            |             69 |
-|             46 | Loann Goujon          |      84.9  |       1.01976e+06 |        5 |       1.0199e+06  |      76.65 | Rémi Picquette            |             80 |
-|             46 | Pierre-Samuel Pacheco |      75.2  |  992624           |        6 |       1.01759e+06 |      78.85 | Ultan Dillane             |             80 |
-|             80 | Joel Kpoku            |      83.48 |       1.01978e+06 |        7 |       1.01613e+06 |      80    | Oscar Jegou               |             55 |
-|             80 | Arno Botha            |      88.02 |       1.01973e+06 |        8 |       1.01992e+06 |      75.01 | Judicael Cancoriet        |             80 |
-|             46 | Pierre Pagès          |      82.3  |       1.01978e+06 |        9 |       1.01757e+06 |      93.74 | Tawera Kerr-Barlow        |             49 |
-|             50 | Fletcher Smith        |      86.03 |       1.01974e+06 |       10 |       1.01547e+06 |      89.54 | Hugo Reus                 |             49 |
-|             80 | Vincent Rattez        |      86.4  |       1.01975e+06 |       11 |       1.01756e+06 |      93.75 | Dillyn Leyds              |             80 |
-|             80 | Kyle Godwin           |      84.79 |       1.01978e+06 |       12 |       1.01755e+06 |      84.01 | Jules Favre               |             80 |
-|             55 | Josiah Maraku         |      89.7  |       1.01731e+06 |       13 |       1.01992e+06 |      74.79 | Jack Nowell               |             80 |
-|             80 | Xavier Mignot         |      85.25 |       1.01977e+06 |       14 |       1.01989e+06 |      76.31 | Teddy Thomas              |             64 |
-|             80 | Toby Arnold           |      91.07 |       1.0173e+06  |       15 |       1.01754e+06 |     109.28 | Brice Dulin               |             80 |
-|             34 | Mickael Guillard      |      90.57 |     nan           |       16 |       1.0199e+06  |      79.51 | Thierry Paiva             |             44 |
-|             34 | Félix Lambey          |      90.18 |       1.0173e+06  |       17 |       1.01121e+06 |      74.1  | Aleksandre Kuntelia       |             40 |
-|             34 | Paul Dumas            |      82.37 |     nan           |       18 |       1.01756e+06 |      84.76 | Quentin Lespiaucq-Brettes |             40 |
-|             31 | Hamza Kaabeche        |      85.4  |       1.01975e+06 |       19 |     nan           |      85.74 | Teddy Iribaren            |             31 |
-|             31 | Guillaume Marchand    |      97.38 |     nan           |       20 |       1.01993e+06 |      74.58 | Ihaia West                |             31 |
-|             31 | Santiago Medrano      |      82.56 |     nan           |       21 |     nan           |      90.16 | Noé Della Schiava         |             25 |
-|             30 | Paddy Jackson         |      83.51 |     nan           |       22 |     nan           |      84.6  | Nathan Bollengier         |             16 |
-|             25 | Alfred Parisien       |      94.77 |     nan           |       23 |     nan           |      86.48 | Thomas Ployet             |             11 |
+|             49 | Jerome Rey            |      83.4  |       1.02029e+06 |        1 |       1.01739e+06 |      91.17 | Georges-Henri Colombe     |             36 |
+|             49 | Yanis Charcosset      |      82.56 |       1.0203e+06  |        2 |       1.02068e+06 |      79.72 | Billy Pollard             |             40 |
+|             49 | Demba Bamba           |      95.86 |       1.01679e+06 |        3 |       1.01697e+06 |      81.48 | Archer Holz               |             40 |
+|             80 | Killian Geraci        |      86.08 |       1.02028e+06 |        4 |       1.01741e+06 |      82.8  | Thomas Lavault            |             69 |
+|             46 | Loann Goujon          |      85.56 |       1.02028e+06 |        5 |       1.02052e+06 |      76.46 | Rémi Picquette            |             80 |
+|             46 | Pierre-Samuel Pacheco |      75.26 |  993107           |        6 |       1.01741e+06 |      79.4  | Ultan Dillane             |             80 |
+|             80 | Joel Kpoku            |      84.9  |       1.02029e+06 |        7 |       1.01669e+06 |      80    | Oscar Jegou               |             55 |
+|             80 | Arno Botha            |      84.37 |       1.02031e+06 |        8 |       1.02052e+06 |      75.31 | Judicael Cancoriet        |             80 |
+|             46 | Pierre Pagès          |      85.27 |       1.02026e+06 |        9 |       1.0174e+06  |      94.25 | Tawera Kerr-Barlow        |             49 |
+|             50 | Fletcher Smith        |      84.15 |       1.0203e+06  |       10 |       1.01603e+06 |      89.54 | Hugo Reus                 |             49 |
+|             80 | Vincent Rattez        |      84.57 |       1.02031e+06 |       11 |       1.01738e+06 |      94.46 | Dillyn Leyds              |             80 |
+|             80 | Kyle Godwin           |      86.4  |       1.02028e+06 |       12 |       1.01742e+06 |      81.2  | Jules Favre               |             80 |
+|             55 | Josiah Maraku         |      87.78 |       1.01687e+06 |       13 |       1.02053e+06 |      74.45 | Jack Nowell               |             80 |
+|             80 | Xavier Mignot         |      84.78 |       1.0203e+06  |       14 |       1.02053e+06 |      74.65 | Teddy Thomas              |             64 |
+|             80 | Toby Arnold           |      95.33 |       1.01679e+06 |       15 |       1.01739e+06 |     108    | Brice Dulin               |             80 |
+|             34 | Mickael Guillard      |      90.77 |     nan           |       16 |       1.02051e+06 |      79.58 | Thierry Paiva             |             44 |
+|             34 | Félix Lambey          |      90.51 |       1.01681e+06 |       17 |       1.01174e+06 |      74.1  | Aleksandre Kuntelia       |             40 |
+|             34 | Paul Dumas            |      82.31 |     nan           |       18 |       1.01739e+06 |      85.71 | Quentin Lespiaucq-Brettes |             40 |
+|             31 | Hamza Kaabeche        |      87.2  |       1.02026e+06 |       19 |     nan           |      84.93 | Teddy Iribaren            |             31 |
+|             31 | Guillaume Marchand    |      92.04 |     nan           |       20 |       1.0205e+06  |      76.7  | Ihaia West                |             31 |
+|             31 | Santiago Medrano      |      82.5  |     nan           |       21 |     nan           |      90.16 | Noé Della Schiava         |             25 |
+|             30 | Paddy Jackson         |      84.84 |     nan           |       22 |     nan           |      84.2  | Nathan Bollengier         |             16 |
+|             25 | Alfred Parisien       |      92.03 |     nan           |       23 |     nan           |      87.63 | Thomas Ployet             |             11 |
 
 
 # Player Level Predictions - Version 2
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: La Rochelle by 4.7
+## Prediction with Player Minutes: La Rochelle by 4.9
 
 
-Lyon by 0.0 on a neutral field
-## Prediction without Player Minutes: La Rochelle by 4.7
+La Rochelle by 0.1 on a neutral field
+## Prediction without Player Minutes: La Rochelle by 5.0
 
 
-Lyon by 0.0 on a neutral pitch
+La Rochelle by 0.3 on a neutral pitch
 
 
 
@@ -95,7 +95,7 @@ Lyon by 0.0 on a neutral pitch
 |---------------:|:----------------------|-----------:|----------------:|---------:|----------------:|-----------:|:--------------------------|---------------:|
 |             49 | Jerome Rey            |      46.65 |              50 |        1 |              50 |      46.65 | Georges-Henri Colombe     |             36 |
 |             49 | Yanis Charcosset      |      46.65 |              50 |        2 |              50 |      46.65 | Billy Pollard             |             40 |
-|             49 | Demba Bamba           |      46.65 |              50 |        3 |              50 |      39.05 | Archer Holz               |             40 |
+|             49 | Demba Bamba           |      46.65 |              50 |        3 |              50 |      46.65 | Archer Holz               |             40 |
 |             80 | Killian Geraci        |      46.65 |              50 |        4 |              50 |      46.65 | Thomas Lavault            |             69 |
 |             46 | Loann Goujon          |      46.65 |              50 |        5 |              50 |      46.65 | Rémi Picquette            |             80 |
 |             46 | Pierre-Samuel Pacheco |      42.2  |              50 |        6 |              50 |      46.65 | Ultan Dillane             |             80 |

@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Counties Manukau by 6.3
+## Prediction with Player Minutes: Counties Manukau by 6.9
 
 
-Counties Manukau by 10.3 on a neutral field
-## Prediction without Player Minutes: Counties Manukau by 5.0
+Counties Manukau by 10.9 on a neutral field
+## Prediction without Player Minutes: Counties Manukau by 6.7
 
 
-Counties Manukau by 9.0 on a neutral pitch
+Counties Manukau by 10.7 on a neutral pitch
 
 
 ## Scores over Time
@@ -51,49 +51,49 @@ There were 6 large changes in win probability in this match
 
 |   Away Minutes | Away Player         |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                  |   Home Minutes |
 |---------------:|:--------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------------------|---------------:|
-|             51 | Kauvaka Kaivelata   |      75.86 |       1.01817e+06 |        1 |  945529           |      89.96 | Ollie Norris                 |             58 |
-|             51 | Ian West-Stevens    |      82.54 |       1.01815e+06 |        2 |       1.01887e+06 |      70.71 | Pita Alemania Jr Anae-Ah Sue |             66 |
-|             59 | Salesi Tuifua       |      71.75 |       1.01824e+06 |        3 |  988176           |      75.46 | George Dyer                  |             57 |
-|             71 | Alex McRobbie       |      81.7  |       1.01813e+06 |        4 |  785848           |      89.27 | James Tucker                 |             80 |
-|             80 | James Thompson      |      80.95 |       1.01816e+06 |        5 |       1.01656e+06 |      88.55 | Laghlan McWhannell           |             43 |
-|             59 | Sam Tuifua          |      74.01 |       1.01822e+06 |        6 |       1.01891e+06 |      67.47 | Hamilton Burr                |             80 |
-|             80 | Sean Reidy          |      76.35 |       1.01822e+06 |        7 |       1.01902e+06 |      75.03 | Jack Lam                     |             59 |
-|             80 | Dalton Papali'i     |      96.41 |       1.00701e+06 |        8 |       1.01658e+06 |      81.84 | Simon Parker                 |             80 |
-|             73 | Liam Daniela        |      75.25 |       1.01824e+06 |        9 |       1.01889e+06 |      69.36 | Cortez Lee Ratima            |             57 |
-|             80 | Riley Hohepa        |      76.79 |       1.01821e+06 |       10 |       1.01884e+06 |      64.66 | Taha Kemara                  |             59 |
-|             80 | Toni Pulu           |      88.79 |       1.01654e+06 |       11 |  993918           |      53.53 | Daniel Sinkinson             |             80 |
-|             16 | Nikolai Foliaki     |      73.83 |       1.0182e+06  |       12 |       1.01988e+06 |      69.04 | Quinn Tupaea                 |             80 |
-|             80 | Tevita Ofa          |      80.88 |       1.01823e+06 |       13 |       1.01891e+06 |      67.74 | Gideon Wrampling             |             53 |
-|             80 | Sione Molia         |      76.34 |       1.01922e+06 |       14 |       1.01658e+06 |      75.56 | Liam Coombes-Fabling         |             80 |
-|             80 | Etene Nanai-Seturo  |      91.57 |  921430           |       15 |       1.01887e+06 |      71.09 | Tepaea Cook-Savage           |             80 |
-|             29 | Ezekiel Lindenmuth  |      69.78 |     nan           |       16 |       1.01889e+06 |      75.6  | Colin Ayden Johnstone        |             22 |
-|             21 | Keran Van Staden    |      73.27 |     nan           |       17 |       1.01884e+06 |      71.08 | Solomone Tukuafu             |             23 |
-|             29 | Ioane Moananu       |      70.13 |       1.01818e+06 |       18 |     nan           |      70.92 | Sean Ralph                   |             14 |
-|             21 | Adam Brash          |      71.99 |     nan           |       19 |       1.0188e+06  |      75.24 | Malachi Wrampling-Alec       |             37 |
-|              9 | Jadin Kingi         |      70.36 |     nan           |       20 |  978817           |      28.85 | Joe Johnston                 |             21 |
-|              7 | Cohen Brady-Leathem |      69.79 |     nan           |       21 |       1.01882e+06 |      71.74 | Xavier Roe                   |             23 |
-|             33 | Ah See Tuala        |      72.35 |     nan           |       22 |     nan           |      68    | Aaron Cruden                 |             21 |
-|             31 | Peniasi Malimali    |      69.45 |       1.01821e+06 |       23 |       1.01885e+06 |      72    | Tana Tuhakaraina             |             27 |
+|             51 | Kauvaka Kaivelata   |      73.32 |       1.01837e+06 |        1 |       1.01916e+06 |      73.07 | Oliver Norris                |             58 |
+|             51 | Ian West-Stevens    |      80.01 |       1.01832e+06 |        2 |       1.01916e+06 |      66.84 | Pita Alemania Jr Anae-Ah Sue |             66 |
+|             59 | Salesi Tuifua       |      77.17 |       1.0183e+06  |        3 |  988657           |      69.56 | George Dyer                  |             57 |
+|             71 | Alex McRobbie       |      79.27 |       1.01831e+06 |        4 |  786010           |      86.66 | James Tucker                 |             80 |
+|             80 | James Thompson      |      77.4  |       1.01834e+06 |        5 |       1.02048e+06 |      67.98 | Laghlan McWhannell           |             43 |
+|             59 | Sam Tuifua          |      73.15 |       1.01841e+06 |        6 |       1.01921e+06 |      69.03 | Hamilton Burr                |             80 |
+|             80 | Sean Reidy          |      73.34 |       1.01841e+06 |        7 |       1.01936e+06 |      72.56 | Jack Lam                     |             59 |
+|             80 | Dalton Papali'i     |      95.3  |       1.00752e+06 |        8 |       1.01911e+06 |      67.85 | Simon Parker                 |             80 |
+|             73 | Liam Daniela        |      74.49 |       1.01838e+06 |        9 |       1.01923e+06 |      65.72 | Cortez Lee Ratima            |             57 |
+|             80 | Riley Hohepa        |      73.88 |       1.0184e+06  |       10 |       1.01914e+06 |      71.65 | Taha Kemara                  |             59 |
+|             80 | Tony Pulu           |      78.93 |       1.0184e+06  |       11 |       1.01725e+06 |      84.57 | Daniel Sinkinson             |             80 |
+|             16 | Nikolai Foliaki     |      71.12 |       1.01839e+06 |       12 |       1.02048e+06 |      68.39 | Quinn Tupaea                 |             80 |
+|             80 | Tevita Ofa          |      81.33 |       1.01835e+06 |       13 |       1.01924e+06 |      64.4  | Gideon Wrampling             |             53 |
+|             80 | Sione Molia         |      75.16 |       1.0196e+06  |       14 |       1.01937e+06 |      67.53 | Liam Coombes-Fabling         |             80 |
+|             80 | Etene Nanai-Seturo  |      95.19 |  921748           |       15 |       1.01918e+06 |      66.45 | Tepaea Cook-Savage           |             80 |
+|             29 | Ezekiel Lindenmuth  |      69.59 |     nan           |       16 |       1.01923e+06 |      72.55 | Colin Ayden Johnstone        |             22 |
+|             21 | Keran Van Staden    |      72.33 |     nan           |       17 |       1.0191e+06  |      83.08 | Solomone Tukuafu             |             23 |
+|             29 | Ioane Moananu       |      70.88 |       1.01833e+06 |       18 |     nan           |      69.14 | Sean Ralph                   |             14 |
+|             21 | Adam Brash          |      71.56 |     nan           |       19 |       1.01913e+06 |      72.06 | Malachi Wrampling-Alec       |             37 |
+|              9 | Jadin Kingi         |      70.55 |     nan           |       20 |  979267           |      29.08 | Joe Johnston                 |             21 |
+|              7 | Cohen Brady-Leathem |      69.99 |     nan           |       21 |       1.01919e+06 |      75.96 | Xavier Roe                   |             23 |
+|             33 | Ah See Tuala        |      71.23 |     nan           |       22 |     nan           |      66.56 | Aaron Cruden                 |             21 |
+|             31 | Peniasi Malimali    |      72.12 |       1.0183e+06  |       23 |       1.01918e+06 |      77.36 | Tana Tuhakaraina             |             27 |
 
 
 # Player Level Predictions - Version 2
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Waikato by 3.5
+## Prediction with Player Minutes: Waikato by 3.3
 
 
 Waikato by 0.1 on a neutral field
-## Prediction without Player Minutes: Waikato by 3.8
+## Prediction without Player Minutes: Waikato by 3.4
 
 
-Waikato by 0.4 on a neutral pitch
+Waikato by 0.0 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player         |   Away elo |   Away variance |   Number |   Home variance |   Home elo | Home Player                  |   Home Minutes |
 |---------------:|:--------------------|-----------:|----------------:|---------:|----------------:|-----------:|:-----------------------------|---------------:|
-|             51 | Kauvaka Kaivelata   |      46.65 |           50    |        1 |           50    |      62.78 | Ollie Norris                 |             58 |
+|             51 | Kauvaka Kaivelata   |      46.65 |           50    |        1 |           50    |      46.65 | Oliver Norris                |             58 |
 |             51 | Ian West-Stevens    |      46.65 |           50    |        2 |           50    |      46.65 | Pita Alemania Jr Anae-Ah Sue |             66 |
 |             59 | Salesi Tuifua       |      46.65 |           50    |        3 |           50    |      58.3  | George Dyer                  |             57 |
 |             71 | Alex McRobbie       |      46.65 |           50    |        4 |           50    |      66.26 | James Tucker                 |             80 |
@@ -103,7 +103,7 @@ Waikato by 0.4 on a neutral pitch
 |             80 | Dalton Papali'i     |      66.52 |           47.91 |        8 |           50    |      46.65 | Simon Parker                 |             80 |
 |             73 | Liam Daniela        |      46.65 |           50    |        9 |           50    |      46.65 | Cortez Lee Ratima            |             57 |
 |             80 | Riley Hohepa        |      46.65 |           50    |       10 |           50    |      46.65 | Taha Kemara                  |             59 |
-|             80 | Toni Pulu           |      46.65 |           50    |       11 |           50    |      40.79 | Daniel Sinkinson             |             80 |
+|             80 | Tony Pulu           |      46.65 |           50    |       11 |           50    |      46.65 | Daniel Sinkinson             |             80 |
 |             16 | Nikolai Foliaki     |      46.65 |           50    |       12 |           50    |      46.65 | Quinn Tupaea                 |             80 |
 |             80 | Tevita Ofa          |      46.65 |           50    |       13 |           50    |      46.65 | Gideon Wrampling             |             53 |
 |             80 | Sione Molia         |      46.65 |           50    |       14 |           50    |      46.65 | Liam Coombes-Fabling         |             80 |

@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Auckland by 27.6
+## Prediction with Player Minutes: Auckland by 30.7
 
 
-Auckland by 23.6 on a neutral field
-## Prediction without Player Minutes: Auckland by 26.4
+Auckland by 26.7 on a neutral field
+## Prediction without Player Minutes: Auckland by 29.6
 
 
-Auckland by 22.4 on a neutral pitch
+Auckland by 25.6 on a neutral pitch
 
 
 ## Scores over Time
@@ -51,56 +51,56 @@ There were 3 large changes in win probability in this match
 
 |   Away Minutes | Away Player                |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                 |   Home Minutes |
 |---------------:|:---------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------------|---------------:|
-|             40 | Isileli Tu'ungafasi        |      66.06 |       1.01988e+06 |        1 |       1.0187e+06  |      75.71 | Josh Fusitua                |             54 |
-|             65 | Tyrone Thompson            |      77.79 |  989047           |        2 |       1.01879e+06 |      73.68 | Soane Vikena                |             59 |
-|             65 | Pouri Gordon Rakete-Stones |      69.61 |       1.01838e+06 |        3 |       1.01873e+06 |      81.53 | Angus Ta'avao-Matau         |             59 |
-|             59 | Geoffrey Cridge            |      65.04 |       1.01916e+06 |        4 |       1.01907e+06 |      79.08 | Patrick Tuipulotu           |             80 |
-|             80 | Tom Parsons                |      60.41 |       1.01841e+06 |        5 |       1.01871e+06 |      81.03 | Josh Beehre                 |             67 |
-|             56 | Patrick Tuifua             |      70.63 |       1.01897e+06 |        6 |       1.01873e+06 |      81.53 | Adrian Joseph Choat         |             80 |
-|             80 | Siosiua (Josh) Kaifa       |      70    |       1.0184e+06  |        7 |       1.01876e+06 |      80.4  | Blake Gibson                |             63 |
-|             80 | Devan Flanders             |      66.81 |  916538           |        8 |  773876           |     111.52 | Akira Ioane                 |             80 |
-|             65 | Folau Fakatava             |      69.35 |       1.01832e+06 |        9 |       1.0187e+06  |      81.81 | Kalani Thomas               |             50 |
-|             58 | Lincoln McClutchie         |      63.25 |       1.01836e+06 |       10 |  981682           |      97.91 | Zarn Sullivan               |             72 |
-|             59 | Lolagi Visinia             |      70.91 |       1.01842e+06 |       11 |       1.01877e+06 |      83.48 | Salesi Tuivuna Mauri Rayasi |             65 |
-|             80 | Chase Tiatia               |      74.43 |       1.01653e+06 |       12 |       1.01872e+06 |      82.17 | Harry Plummer               |             80 |
-|             80 | Ollie Sapsford             |      72.06 |  945615           |       13 |  495769           |     100.39 | Bryce Heem                  |             80 |
-|             80 | Paul Balekana              |      81.27 |       1.01645e+06 |       14 |       1.01745e+06 |      99.9  | AJ Lam                      |             80 |
-|             80 | Harry Godfrey              |      66.1  |       1.01833e+06 |       15 |       1.01905e+06 |      79.48 | Roger Tuivasa-Scheck        |             80 |
-|             40 | Kianu Kereru-Symes         |      62.69 |       1.01638e+06 |       16 |     nan           |      78.62 | Sione Ahio                  |             21 |
-|             15 | Bo Abra                    |      81.93 |     nan           |       17 |       1.01908e+06 |      79.5  | Ben Ake                     |             26 |
-|             15 | Hisamitsu Shimada          |      64.49 |       1.01215e+06 |       18 |       1.01867e+06 |      81.6  | Leni Apisai                 |             21 |
-|             21 | Frank Lochore              |      72.14 |       1.01833e+06 |       19 |       1.01875e+06 |      74.02 | Che Clark                   |             17 |
-|             24 | Sam Smith                  |      65.12 |       1.01839e+06 |       20 |       1.01913e+06 |      63.94 | Terrell Peita               |             13 |
-|             15 | Sam Wye                    |      69.89 |     nan           |       21 |       1.01878e+06 |      72.9  | Taufa Funaki                |             30 |
-|             22 | Caleb Makene               |      63.19 |       1.01742e+06 |       22 |       1.01871e+06 |      73.65 | Jock McKenzie               |              8 |
-|             21 | Stacey Ili                 |      83.69 |     nan           |       23 |       1.01875e+06 |      77.1  | Caleb Tangitau              |             15 |
+|             40 | Isileli Tu'ungafasi        |      61.77 |       1.02047e+06 |        1 |       1.01906e+06 |      70.98 | Josh Fusitua                |             54 |
+|             65 | Tyrone Thompson            |      61.66 |       1.01929e+06 |        2 |       1.01897e+06 |      75.74 | Soane Vikena                |             59 |
+|             65 | Pouri Gordon Rakete-Stones |      65.93 |       1.01854e+06 |        3 |       1.01903e+06 |      78.73 | Angus Ta'avao-Matau         |             59 |
+|             59 | Geoffrey Cridge            |      61.08 |       1.0195e+06  |        4 |       1.01942e+06 |      77.03 | Patrick Tuipulotu           |             80 |
+|             80 | Tom Parsons                |      62.39 |       1.01856e+06 |        5 |       1.01906e+06 |      75.32 | Josh Beehre                 |             67 |
+|             56 | Patrick Tuifua             |      69.26 |       1.0193e+06  |        6 |       1.01898e+06 |      80.09 | Adrian Joseph Choat         |             80 |
+|             80 | Siosiua (Josh) Kaifa       |      68.29 |       1.01851e+06 |        7 |       1.01902e+06 |      78.93 | Blake Gibson                |             63 |
+|             80 | Devan Flanders             |      79.12 |       1.01728e+06 |        8 |  774027           |     111.32 | Akira Ioane                 |             80 |
+|             65 | Folau Fakatava             |      65.56 |       1.01857e+06 |        9 |       1.01905e+06 |      76.96 | Kalani Thomas               |             50 |
+|             58 | Lincoln McClutchie         |      54.39 |       1.01864e+06 |       10 |  982140           |      95.68 | Zarn Sullivan               |             72 |
+|             59 | Lolagi Visinia             |      71.17 |       1.01856e+06 |       11 |       1.01899e+06 |      83.22 | Salesi Tuivuna Mauri Rayasi |             65 |
+|             80 | Chase Tiatia               |      57.27 |       1.01861e+06 |       12 |       1.01907e+06 |      76.58 | Harry Plummer               |             80 |
+|             80 | Ollie Sapsford             |      71.55 |  945987           |       13 |  495791           |      98.16 | Bryce Heem                  |             80 |
+|             80 | Paul Balekana              |      71.94 |       1.01771e+06 |       14 |       1.01698e+06 |      99.26 | AJ Lam                      |             80 |
+|             80 | Harry Godfrey              |      61.63 |       1.01858e+06 |       15 |       1.01941e+06 |      77.22 | Roger Tuivasa-Scheck        |             80 |
+|             40 | Kianu Kereru-Symes         |      58.62 |       1.01769e+06 |       16 |     nan           |      77.27 | Sione Ahio                  |             21 |
+|             15 | Bo Abra                    |      81.93 |     nan           |       17 |       1.01942e+06 |      78.09 | Ben Ake                     |             26 |
+|             15 | Hisamitsu Shimada          |      64.49 |       1.01269e+06 |       18 |       1.01895e+06 |      79.98 | Leni Apisai                 |             21 |
+|             21 | Frank Lochore              |      60.87 |       1.01861e+06 |       19 |       1.01903e+06 |      73.57 | Che Clark                   |             17 |
+|             24 | Sam Smith                  |      67.34 |       1.01853e+06 |       20 |       1.01949e+06 |      67.52 | Terrell Peita               |             13 |
+|             15 | Sam Wye                    |      64.98 |     nan           |       21 |       1.01896e+06 |      75.16 | Taufa Funaki                |             30 |
+|             22 | Caleb Makene               |      59.43 |       1.01691e+06 |       22 |       1.01907e+06 |      70.32 | Jock McKenzie               |              8 |
+|             21 | Stacey Ili                 |      62.21 |       1.02066e+06 |       23 |       1.01908e+06 |      72.75 | Caleb Tangitau              |             15 |
 
 
 # Player Level Predictions - Version 2
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Auckland by 7.9
+## Prediction with Player Minutes: Auckland by 8.3
 
 
-Auckland by 4.5 on a neutral field
-## Prediction without Player Minutes: Auckland by 7.3
+Auckland by 4.9 on a neutral field
+## Prediction without Player Minutes: Auckland by 7.7
 
 
-Auckland by 4.0 on a neutral pitch
+Auckland by 4.3 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player                |   Away elo |   Away variance |   Number |   Home variance |   Home elo | Home Player                 |   Home Minutes |
 |---------------:|:---------------------------|-----------:|----------------:|---------:|----------------:|-----------:|:----------------------------|---------------:|
 |             40 | Isileli Tu'ungafasi        |      46.65 |              50 |        1 |              50 |      46.65 | Josh Fusitua                |             54 |
-|             65 | Tyrone Thompson            |      42.66 |              50 |        2 |              50 |      46.65 | Soane Vikena                |             59 |
+|             65 | Tyrone Thompson            |      46.65 |              50 |        2 |              50 |      46.65 | Soane Vikena                |             59 |
 |             65 | Pouri Gordon Rakete-Stones |      46.65 |              50 |        3 |              50 |      46.65 | Angus Ta'avao-Matau         |             59 |
 |             59 | Geoffrey Cridge            |      46.65 |              50 |        4 |              50 |      46.65 | Patrick Tuipulotu           |             80 |
 |             80 | Tom Parsons                |      46.65 |              50 |        5 |              50 |      46.65 | Josh Beehre                 |             67 |
 |             56 | Patrick Tuifua             |      46.65 |              50 |        6 |              50 |      46.65 | Adrian Joseph Choat         |             80 |
 |             80 | Siosiua (Josh) Kaifa       |      46.65 |              50 |        7 |              50 |      46.65 | Blake Gibson                |             63 |
-|             80 | Devan Flanders             |      59.92 |              50 |        8 |              50 |     102.53 | Akira Ioane                 |             80 |
+|             80 | Devan Flanders             |      46.65 |              50 |        8 |              50 |     102.53 | Akira Ioane                 |             80 |
 |             65 | Folau Fakatava             |      46.65 |              50 |        9 |              50 |      46.65 | Kalani Thomas               |             50 |
 |             58 | Lincoln McClutchie         |      46.65 |              50 |       10 |              50 |      58.84 | Zarn Sullivan               |             72 |
 |             59 | Lolagi Visinia             |      46.65 |              50 |       11 |              50 |      46.65 | Salesi Tuivuna Mauri Rayasi |             65 |

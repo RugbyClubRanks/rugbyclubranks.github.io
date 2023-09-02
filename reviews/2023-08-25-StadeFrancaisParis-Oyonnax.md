@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Stade Francais Paris by 3.1
+## Prediction with Player Minutes: Oyonnax by 7.3
 
 
-Oyonnax by 0.9 on a neutral field
-## Prediction without Player Minutes: Stade Francais Paris by 2.6
+Oyonnax by 11.3 on a neutral field
+## Prediction without Player Minutes: Oyonnax by 7.6
 
 
-Oyonnax by 1.4 on a neutral pitch
+Oyonnax by 11.6 on a neutral pitch
 
 
 ## Scores over Time
@@ -47,32 +47,32 @@ Oyonnax by 1.4 on a neutral pitch
 
 ![In Match Predictions](plots/recap_prob_2023-08-25-StadeFrancaisParis-Oyonnax.png)
 
-There were 7 large changes in win probability in this match
+There were 9 large changes in win probability in this match
 
 |   Away Minutes | Away Player       |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                   |   Home Minutes |
 |---------------:|:------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------------|---------------:|
-|             57 | Tommy Raynaud     |      86.46 |       1.01984e+06 |        1 |       1.0105e+06  |      80.51 | Sergo Abramishvili            |             52 |
-|             49 | Benjamin Geledan  |      86.1  |       1.02001e+06 |        2 |       1.01668e+06 |      87.47 | Mickaël Ivaldi                |             64 |
-|             59 | Ali Oz            |      86.72 |       1.01981e+06 |        3 |       1.01987e+06 |      87.57 | Giorgi Melikidze              |             80 |
-|             57 | Victor Lebas      |      84.66 |       1.01984e+06 |        4 |       1.01662e+06 |      92.14 | Paul Gabrillagues             |             80 |
-|             80 | Phoenix Battye    |      86.79 |       1.02001e+06 |        5 |       1.01663e+06 |      89.66 | Baptiste Pesenti              |             63 |
-|             49 | Wandrille Picault |      94.77 |  863358           |        6 |       1.02001e+06 |      84.62 | Julien Ory                    |             57 |
-|             80 | Loïc Credoz       |     113.96 |  948234           |        7 |       1.01666e+06 |      90.46 | Romain Briatte                |             80 |
-|             80 | Rory Grice        |      87.22 |       1.01983e+06 |        8 |       1.01668e+06 |      94.89 | Mathieu Hirigoyen             |             80 |
-|             49 | Jonathan Ruru     |      86.38 |       1.01981e+06 |        9 |       1.01985e+06 |      85.82 | Jules Gimbert                 |             44 |
-|             64 | Jules Soulan      |     106.05 |  945275           |       10 |       1.02001e+06 |      84.21 | Zack Henry                    |             63 |
-|             80 | Daniel Ikpefan    |      85.9  |       1.02001e+06 |       11 |  964627           |     119.65 | Stéphane Ahmed                |             80 |
-|             80 | Théo Millet       |      87    |       1.01983e+06 |       12 |       1.01986e+06 |      82.52 | Pierre Boudehent              |             57 |
-|             80 | Chris Farrell     |      89.65 |       1.0198e+06  |       13 |       1.0166e+06  |      92.92 | Jeremy Charles Ward           |             80 |
-|             80 | Darren Sweetnam   |      89.25 |       1.0198e+06  |       14 |       1.01284e+06 |      91.26 | Peniasi Dakuwaqa              |             80 |
-|             80 | Tony Ensor        |      86.54 |       1.02001e+06 |       15 |       1.01664e+06 |      86.22 | Kylan Hamdaoui                |             80 |
-|             31 | Charlie Cassang   |      89.36 |       1.01979e+06 |       16 |     nan           |      82.73 | Rory Kockott                  |             36 |
-|             31 | Kevin Lebreton    |     135.5  |  810854           |       17 |       1.01985e+06 |      86.31 | Julien Delbouis               |             23 |
-|             31 | Teddy Durand      |      53.42 |  972909           |       18 |     nan           |      84.41 | Giovanni Habel Kuffner        |             23 |
-|             23 | Leva Fifita       |      86.32 |     nan           |       19 |       1.01669e+06 |      80.98 | Moses Eneliko Alo-Emile       |             28 |
-|             23 | Adrien Bordenave  |      84.87 |     nan           |       20 |     nan           |      82.62 | Juan John (JJ) van der Mescht |             17 |
-|             21 | Thibault Berthaud |      82.89 |  921182           |       21 |       1.01659e+06 |      93.87 | Joris Segonds                 |             17 |
-|             16 | Justin Bouraux    |      94.84 |  996330           |       22 |     nan           |      84.84 | Laurent Panis                 |             16 |
+|             57 | Tommy Raynaud     |      88.62 |       1.02035e+06 |        1 |       1.01103e+06 |      80.65 | Sergo Abramishvili            |             52 |
+|             49 | Benjamin Geledan  |      86.46 |       1.02066e+06 |        2 |       1.02041e+06 |      80.36 | Mickaël Ivaldi                |             64 |
+|             59 | Ali Oz            |      86.76 |       1.02037e+06 |        3 |       1.02043e+06 |      80.83 | Giorgi Melikidze              |             80 |
+|             57 | Victor Lebas      |      86.48 |       1.02036e+06 |        4 |       1.02041e+06 |      83.25 | Paul Gabrillagues             |             80 |
+|             80 | Phoenix Battye    |      86.24 |       1.02066e+06 |        5 |       1.02044e+06 |      78.5  | Baptiste Pesenti              |             63 |
+|             49 | Wandrille Picault |      94.77 |  863599           |        6 |       1.02066e+06 |      78.22 | Julien Ory                    |             57 |
+|             80 | Loïc Credoz       |     114.19 |  948604           |        7 |       1.0204e+06  |      85.18 | Romain Briatte                |             80 |
+|             80 | Rory Grice        |      89.69 |       1.02034e+06 |        8 |       1.02044e+06 |      79.96 | Mathieu Hirigoyen             |             80 |
+|             49 | Jonathan Ruru     |      84.33 |       1.02039e+06 |        9 |       1.02042e+06 |      79.25 | Jules Gimbert                 |             44 |
+|             64 | Jules Soulan      |     106.31 |  945646           |       10 |       1.02066e+06 |      78.64 | Zack Henry                    |             63 |
+|             80 | Daniel Ikpefan    |      86.04 |       1.02066e+06 |       11 |  965015           |     119.65 | Stéphane Ahmed                |             80 |
+|             80 | Théo Millet       |      89.33 |       1.02035e+06 |       12 |       1.0204e+06  |      77.72 | Pierre Boudehent              |             57 |
+|             80 | Chris Farrell     |      88.41 |       1.02036e+06 |       13 |       1.02043e+06 |      81.09 | Jeremy Charles Ward           |             80 |
+|             80 | Darren Sweetnam   |      87.44 |       1.02038e+06 |       14 |       1.01339e+06 |      94.73 | Peniasi Dakuwaqa              |             80 |
+|             80 | Tony Ensor        |      86.93 |       1.02065e+06 |       15 |       1.02045e+06 |      72.7  | Kylan Hamdaoui                |             80 |
+|             31 | Charlie Cassang   |      87.31 |       1.02036e+06 |       16 |     nan           |      80.08 | Rory Kockott                  |             36 |
+|             31 | Kevin Lebreton    |     135.76 |  811047           |       17 |       1.02045e+06 |      77.02 | Julien Delbouis               |             23 |
+|             31 | Teddy Durand      |      53.66 |  973338           |       18 |     nan           |      78.42 | Giovanni Habel Kuffner        |             23 |
+|             23 | Leva Fifita       |      86.69 |     nan           |       19 |     nan           |      78.02 | Moses Eneliko Alo-Emile       |             28 |
+|             23 | Adrien Bordenave  |      84.69 |     nan           |       20 |     nan           |      74.95 | Juan John (JJ) van der Mescht |             17 |
+|             21 | Thibault Berthaud |      82.97 |  921498           |       21 |       1.02042e+06 |      81.37 | Joris Segonds                 |             17 |
+|             16 | Justin Bouraux    |      94.86 |  996816           |       22 |     nan           |      77.84 | Laurent Panis                 |             16 |
 
 
 # Player Level Predictions - Version 2

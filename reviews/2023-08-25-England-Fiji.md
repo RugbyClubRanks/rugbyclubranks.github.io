@@ -32,10 +32,10 @@ Treating teams instead as an entity made up of the currently active players, I h
 
 
 Fiji by 8.1 on a neutral field
-## Prediction without Player Minutes: Fiji by 3.8
+## Prediction without Player Minutes: Fiji by 3.9
 
 
-Fiji by 7.8 on a neutral pitch
+Fiji by 7.9 on a neutral pitch
 
 
 ## Scores over Time
@@ -51,29 +51,29 @@ There were 12 large changes in win probability in this match
 
 |   Away Minutes | Away Player             |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player     |   Home Minutes |
 |---------------:|:------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------|---------------:|
-|             62 | Eroni Mawi              |      53.51 |            898553 |        1 |  814977           |      75.99 | Ellis Genge     |             51 |
-|             80 | Sam Matavesi            |      61.64 |            906415 |        2 |  993654           |      82.73 | Theo Dan        |             74 |
-|             70 | Luke Tagi               |      85.04 |            918562 |        3 |  365980           |      70.13 | Dan Cole        |             70 |
-|             80 | Isoa Nasilasila         |     129.11 |            999139 |        4 |  669710           |      86.94 | Maro Itoje      |             80 |
-|             65 | Te Ahiwaru Cirikidaveta |      96.85 |            894311 |        5 |  956905           |      83.56 | Ollie Chessum   |             70 |
-|             67 | Albert Tuisue           |      69.02 |            885864 |        6 |  376285           |      73.53 | Courtney Lawes  |             80 |
-|             53 | Lekima Tagitagivalu     |     104.63 |            897563 |        7 |  855203           |     111.93 | Jack Willis     |             57 |
-|             78 | Viliame Mata            |      65.86 |            852436 |        8 |  856694           |      93.01 | Ben Earl        |             80 |
-|             49 | Frank Lomani            |      79    |            884232 |        9 |       1.01995e+06 |      81.65 | Alex Mitchell   |             70 |
-|             80 | Caleb Muntz             |      89.02 |            944064 |       10 |  434982           |     104.51 | George Ford     |             80 |
-|             80 | Vinaya Habosi           |     114.9  |            999195 |       11 |       1.01995e+06 |      81.27 | Jonny May       |             80 |
-|             65 | Semi Radradra           |     122.27 |            895007 |       12 |  512457           |     107.8  | Manu Tuilagi    |             80 |
-|             75 | Waisea Nayacalevu       |      99.41 |           1011317 |       13 |  899476           |      72.08 | Ollie Lawrence  |             54 |
-|             80 | Selestino Ravutaumada   |     100.63 |            999221 |       14 |  772640           |      73.75 | Max Malins      |             80 |
-|             80 | Ilaisa Droasese         |      84.68 |            975661 |       15 |  936072           |      85.48 | Freddie Steward |             54 |
-|              2 | Zuriel Togiatama        |      77.33 |            986940 |       16 |     nan           |      81.46 | Jack Walker     |              6 |
-|             27 | Jone Koroiduadua        |      84.57 |            944921 |       17 |  439565           |      72.18 | Joe Marler      |             29 |
-|             10 | Samuela Tawake          |      73.66 |           1014474 |       18 |  855094           |      55.6  | Will Stuart     |             10 |
-|             18 | Temo Mayanavanua        |      92.78 |            920340 |       19 |  865442           |      96.57 | David Ribbans   |             10 |
-|             28 | Vilive Miramira         |      76.79 |            999057 |       20 |  858280           |      72.88 | Lewis Ludlam    |             23 |
-|             31 | Simione Kuruvoli        |      91.98 |            984930 |       21 |  248851           |     123.26 | Danny Care      |             10 |
-|              5 | Teti Tela               |     105.56 |            798153 |       22 |  885162           |     102.62 | Marcus Smith    |             26 |
-|             15 | Kalaveti Ravouvou       |     145.32 |            999169 |       23 |  779702           |      74.5  | Joe Marchant    |             26 |
+|             62 | Eroni Mawi              |      53.47 |            898838 |        1 |  815170           |      76    | Ellis Genge     |             51 |
+|             80 | Sam Matavesi            |      61.6  |            906704 |        2 |  994140           |      82.73 | Theo Dan        |             74 |
+|             70 | Luke Tagi               |      85.03 |            918876 |        3 |  365988           |      70.14 | Dan Cole        |             70 |
+|             80 | Isoa Nasilasila         |     129.15 |            999634 |        4 |  669795           |      86.97 | Maro Itoje      |             80 |
+|             65 | Te Ahiwaru Cirikidaveta |      96.83 |            894592 |        5 |  957281           |      83.56 | Ollie Chessum   |             70 |
+|             67 | Albert Tuisue           |      68.95 |            886147 |        6 |  376294           |      73.57 | Courtney Lawes  |             80 |
+|             53 | Lekima Tagitagivalu     |     104.58 |            897845 |        7 |  855440           |     111.66 | Jack Willis     |             57 |
+|             78 | Viliame Mata            |      65.84 |            852665 |        8 |  856931           |      93.05 | Ben Earl        |             80 |
+|             49 | Frank Lomani            |      79.03 |            884512 |        9 |       1.02055e+06 |      81.28 | Alex Mitchell   |             70 |
+|             80 | Caleb Muntz             |      89.24 |            944434 |       10 |  434994           |     104.52 | George Ford     |             80 |
+|             80 | Vinaya Habosi           |     114.9  |            999690 |       11 |       1.02055e+06 |      81.46 | Jonny May       |             80 |
+|             65 | Semi Radradra           |     122.24 |            895288 |       12 |  512480           |     107.8  | Manu Tuilagi    |             80 |
+|             75 | Waisea Nayacalevu       |      99.36 |           1011851 |       13 |  899761           |      72.11 | Ollie Lawrence  |             54 |
+|             80 | Selestino Ravutaumada   |     101    |            999716 |       14 |  772788           |      73.76 | Max Malins      |             80 |
+|             80 | Ilaisa Droasese         |      84.66 |            976101 |       15 |  936415           |      85.52 | Freddie Steward |             54 |
+|              2 | Zuriel Togiatama        |      77.33 |            987415 |       16 |     nan           |      81.66 | Jack Walker     |              6 |
+|             27 | Jone Koroiduadua        |      84.57 |            945293 |       17 |  439577           |      72.2  | Joe Marler      |             29 |
+|             10 | Samuela Tawake          |      73.8  |           1015024 |       18 |  855331           |      55.63 | Will Stuart     |             10 |
+|             18 | Temo Mayanavanua        |      92.74 |            920654 |       19 |  865683           |      96.58 | David Ribbans   |             10 |
+|             28 | Vilive Miramira         |      77.21 |            999552 |       20 |  858517           |      72.88 | Lewis Ludlam    |             23 |
+|             31 | Simione Kuruvoli        |      91.96 |            985401 |       21 |  248856           |     123.26 | Danny Care      |             10 |
+|              5 | Teti Tela               |     105.6  |            798334 |       22 |  885442           |     102.62 | Marcus Smith    |             26 |
+|             15 | Kalaveti Ravouvou       |     145.39 |            999664 |       23 |  779858           |      74.54 | Joe Marchant    |             26 |
 
 
 # Player Level Predictions - Version 2

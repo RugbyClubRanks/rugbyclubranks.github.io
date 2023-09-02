@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Ireland by 27.3
+## Prediction with Player Minutes: Ireland by 27.1
 
 
-Ireland by 23.3 on a neutral field
-## Prediction without Player Minutes: Ireland by 27.8
+Ireland by 23.1 on a neutral field
+## Prediction without Player Minutes: Ireland by 27.6
 
 
-Ireland by 23.8 on a neutral pitch
+Ireland by 23.6 on a neutral pitch
 
 
 ## Scores over Time
@@ -51,29 +51,29 @@ There were 7 large changes in win probability in this match
 
 |   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player        |   Home Minutes |
 |---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------|---------------:|
-|             63 | James Lay             |      79.49 |       1.01872e+06 |        1 |            362906 |     113.26 | Cian Healy         |             21 |
-|             51 | Seilala Lam           |      83.4  |       1.01692e+06 |        2 |            995150 |      83.83 | Tom Stewart        |             51 |
-|             47 | Paul Alo-Emile        |      95.43 |  631911           |        3 |            617287 |      87.03 | Finlay Bealham     |             62 |
-|             41 | Chris Vui             |      76.99 |  781379           |        4 |            619205 |     118.17 | Iain Henderson     |             60 |
-|             80 | Theo McFarland        |     100.08 |       1.00578e+06 |        5 |            798424 |     152.29 | Tadhg Beirne       |             80 |
-|             80 | Taleni Seu            |      82.05 |  785080           |        6 |            938192 |      99.71 | Ryan Baird         |             60 |
-|             80 | Fritz Lee             |     122.37 |  488725           |        7 |            757725 |     116.51 | Josh van der Flier |             80 |
-|             63 | Steven Luatua         |     121.12 |  571174           |        8 |            910921 |     112.99 | Caelan Doris       |             80 |
-|             68 | Jonathan Taumateine   |      75.24 |  834156           |        9 |            410805 |     129.35 | Conor Murray       |             72 |
-|             80 | Lima Sopoaga          |      85.88 |       1.01733e+06 |       10 |            969188 |     112.47 | Jack Crowley       |             80 |
-|             80 | Nigel Ah Wong         |      95.97 |  673247           |       11 |            811894 |      90.33 | Jacob Stockdale    |             66 |
-|             80 | Tumua Manu            |     113.35 |  882297           |       12 |            719231 |     115.19 | Stuart McCloskey   |             80 |
-|             80 | Ulupano Seuteni       |      89.42 |  779953           |       13 |            641615 |     148.65 | Robbie Henshaw     |             80 |
-|             51 | Ed Fidow              |      56.87 |  884083           |       14 |            924368 |      81.13 | Mack Hansen        |             80 |
-|             80 | Duncan Paia'aua       |     126.28 |  773552           |       15 |            930679 |     116.33 | Jimmy O'Brien      |             53 |
-|             29 | Sama Malolo           |      84.83 |  910768           |       16 |            460859 |      85.67 | Rob Herring        |             29 |
-|             17 | Jordan Lay            |      67.45 |  882556           |       17 |            811563 |     105.42 | Jeremy Loughman    |             59 |
-|             33 | Michael Alaalatoa     |      93.68 |  732010           |       18 |            908795 |      68.66 | Tom O'Toole        |             18 |
-|             17 | Miracle Faiilagi      |      87.14 |       1.01488e+06 |       19 |            873651 |     102.43 | James Ryan         |             20 |
-|             39 | Jordan Taufua         |      87.19 |     nan           |       20 |            443408 |      68.29 | Peter O'Mahony     |             20 |
-|             12 | Ere Enari             |      93.78 |  839453           |       21 |            938300 |      83.93 | Craig Casey        |              8 |
-|              0 | Christian Leali'ifano |     104.34 |  330182           |       22 |            794744 |      95.93 | Ross Byrne         |             27 |
-|             29 | Neria Fomai           |      83.99 |       1.00767e+06 |       23 |            794912 |      86.63 | Garry Ringrose     |             14 |
+|             63 | James Lay             |      75.54 |       1.01907e+06 |        1 |            362914 |     113.28 | Cian Healy         |             21 |
+|             51 | Seilala Lam           |      87.5  |       1.02063e+06 |        2 |            995634 |      83.84 | Tom Stewart        |             51 |
+|             47 | Paul Alo-Emile        |      95.83 |  631979           |        3 |            617348 |      87.03 | Finlay Bealham     |             62 |
+|             41 | Chris Vui             |      77    |  781535           |        4 |            619267 |     118.2  | Iain Henderson     |             60 |
+|             80 | Theo McFarland        |     100.08 |       1.00629e+06 |        5 |            798605 |     152.3  | Tadhg Beirne       |             80 |
+|             80 | Taleni Seu            |      82.34 |  785240           |        6 |            938538 |      99.75 | Ryan Baird         |             60 |
+|             80 | Fritz Lee             |     122.38 |  488746           |        7 |            757864 |     116.51 | Josh van der Flier |             80 |
+|             63 | Steven Luatua         |     121.13 |  571214           |        8 |            911219 |     113.02 | Caelan Doris       |             80 |
+|             68 | Jonathan Taumateine   |      75.31 |  834375           |        9 |            410813 |     129.35 | Conor Murray       |             72 |
+|             80 | Lima Sopoaga          |      87.02 |       1.01684e+06 |       10 |            969598 |     112.51 | Jack Crowley       |             80 |
+|             80 | Nigel Ah Wong         |      95.98 |  673332           |       11 |            812088 |      90.37 | Jacob Stockdale    |             66 |
+|             80 | Tumua Manu            |     113.55 |  882574           |       12 |            719336 |     115.23 | Stuart McCloskey   |             80 |
+|             80 | Ulupano Seuteni       |      89.52 |  780109           |       13 |            641682 |     148.68 | Robbie Henshaw     |             80 |
+|             51 | Ed Fidow              |      57.1  |  884363           |       14 |            924694 |      81.13 | Mack Hansen        |             80 |
+|             80 | Duncan Paia'aua       |     126.49 |  773703           |       15 |            931013 |     116.35 | Jimmy O'Brien      |             53 |
+|             29 | Sama Malolo           |      84.84 |  911066           |       16 |            460877 |      85.69 | Rob Herring        |             29 |
+|             17 | Jordan Lay            |      67.64 |  882835           |       17 |            811757 |     105.42 | Jeremy Loughman    |             59 |
+|             33 | Michael Alaalatoa     |      93.69 |  732126           |       18 |            909093 |      68.68 | Tom O'Toole        |             18 |
+|             17 | Miracle Faiilagi      |      86.38 |       1.01543e+06 |       19 |            873907 |     102.43 | James Ryan         |             20 |
+|             39 | Jordan Taufua         |      87.3  |     nan           |       20 |            443421 |      68.29 | Peter O'Mahony     |             20 |
+|             12 | Ere Enari             |      93.77 |  839677           |       21 |            938646 |      83.95 | Craig Casey        |              8 |
+|              0 | Christian Leali'ifano |     104.42 |  330190           |       22 |            794922 |      95.93 | Ross Byrne         |             27 |
+|             29 | Neria Fomai           |      84.14 |       1.00818e+06 |       23 |            795090 |      86.63 | Garry Ringrose     |             14 |
 
 
 # Player Level Predictions - Version 2

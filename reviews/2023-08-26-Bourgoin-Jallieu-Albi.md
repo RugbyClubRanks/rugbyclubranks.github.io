@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Albi by 8.8
+## Prediction with Player Minutes: Albi by 8.6
 
 
-Albi by 12.8 on a neutral field
-## Prediction without Player Minutes: Albi by 6.2
+Albi by 12.6 on a neutral field
+## Prediction without Player Minutes: Albi by 6.1
 
 
-Albi by 10.2 on a neutral pitch
+Albi by 10.1 on a neutral pitch
 
 
 ## Scores over Time
@@ -51,29 +51,29 @@ There were 10 large changes in win probability in this match
 
 |   Away Minutes | Away Player                 |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player              |   Home Minutes |
 |---------------:|:----------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------------|---------------:|
-|             52 | Thibaud Sebire              |      77.42 |       1.01168e+06 |        1 |  964173           |      90.29 | Rémy Gaborit             |             60 |
-|             52 | Reinach Venter              |      87.48 |  885539           |        2 |  909330           |      64.01 | Maxime Castant           |             34 |
-|             52 | Dimitri Tchapnga            |      76.09 |  968153           |        3 |       1.0201e+06  |      71.65 | Pieter Rossouw de Klerk  |             52 |
-|             80 | Mohsen Essid                |      37.6  |  916101           |        4 |  603685           |      71.89 | Léandre Cotte            |             60 |
-|             52 | Jacques Jacobus Engelbrecht |      76.99 |       1.02012e+06 |        5 |  841785           |      42.22 | Morgan Eames             |             80 |
-|             80 | Vincent Calas               |      74.67 |  667908           |        6 |  967892           |     102.78 | Kevin Chaudouard         |             16 |
-|             52 | Pierre Roussel              |      78.26 |       1.0201e+06  |        7 |       1.02011e+06 |      71.26 | Théophile Cotte          |             40 |
-|             80 | Guillem Calmon              |      67.84 |       1.01074e+06 |        8 |       1.02011e+06 |      71.45 | Poutasi Luafutu          |             80 |
-|             52 | Titouan Pouzoullic          |      89.35 |  963641           |        9 |       1.02011e+06 |      71.08 | Jérémy Gondrand          |             59 |
-|             80 | Benjamin Pehau              |     103.99 |  926614           |       10 |  847652           |      67    | Aviata Silago            |             80 |
-|             66 | Kamilieni Raivono           |      81.84 |  935777           |       11 |  965559           |      76.86 | Quentin Lefort           |             80 |
-|             80 | Jarrod Poi                  |      77.57 |       1.02011e+06 |       12 |       1.02011e+06 |      70.91 | Gabiriele Lovobalavu     |             80 |
-|             80 | Baptiste Couchinave         |     136.23 |  973052           |       13 |       1.02012e+06 |      70.75 | Brieuc Plessis Couillaud |             80 |
-|             80 | Sean Jack Robinson          |      78.02 |       1.02011e+06 |       14 |  782301           |      74.04 | Christopher Bosch        |             67 |
-|             80 | Téo Dospital                |      73.4  |  965701           |       15 |  842511           |      66.37 | Nicolas Cachet           |             80 |
-|             28 | Gilen Queheille             |      90.38 |  770635           |       16 |  967775           |      84.49 | Bynjamin Rabatel         |             64 |
-|             28 | Simon Meka                  |      77.79 |     nan           |       17 |  604447           |      91.67 | Mohamed Khribache        |             46 |
-|             28 | Evrard Dion Oulai           |      77.37 |     nan           |       18 |  975632           |      90.08 | Robin Gascou             |             40 |
-|             28 | Arthur Castant              |      77.53 |  982021           |       19 |  995167           |      70.79 | Osman Dimen              |             28 |
-|             28 | Antoine Soave               |      88.33 |  877563           |       20 |     nan           |      72.08 | Tomas Munilla            |             21 |
-|             28 | Jean-Baptiste De Clercq     |      77.17 |     nan           |       21 |  948132           |      74.32 | Zhorzhi (Jorji) Saldadze |             20 |
-|             14 | Gabriel Aviragnet           |      73.58 |       1.01581e+06 |       22 |  950288           |      71.38 | Jonathan Kpoku           |             20 |
-|            nan | nan                         |     nan    |     nan           |       23 |     nan           |      71.86 | Paul-Hugo Champ          |             13 |
+|             52 | Thibaud Sebire              |      77.42 |       1.01222e+06 |        1 |  964559           |      90.29 | Rémy Gaborit             |             60 |
+|             52 | Reinach Venter              |      87.48 |  885822           |        2 |  909627           |      64.01 | Maxime Castant           |             34 |
+|             52 | Dimitri Tchapnga            |      76.09 |  968560           |        3 |       1.02078e+06 |      71.08 | Pieter Rossouw de Klerk  |             52 |
+|             80 | Mohsen Essid                |      37.6  |  916413           |        4 |  603737           |      71.89 | Léandre Cotte            |             60 |
+|             52 | Jacques Jacobus Engelbrecht |      78.02 |       1.02077e+06 |        5 |  842009           |      42.22 | Morgan Eames             |             80 |
+|             80 | Vincent Calas               |      74.67 |  667992           |        6 |  968298           |     102.78 | Kevin Chaudouard         |             16 |
+|             52 | Pierre Roussel              |      77.37 |       1.02078e+06 |        7 |       1.02078e+06 |      71.26 | Théophile Cotte          |             40 |
+|             80 | Guillem Calmon              |      67.84 |       1.01126e+06 |        8 |       1.02078e+06 |      70.91 | Poutasi Luafutu          |             80 |
+|             52 | Titouan Pouzoullic          |      89.35 |  964023           |        9 |       1.02077e+06 |      71.65 | Jérémy Gondrand          |             59 |
+|             80 | Benjamin Pehau              |     103.99 |  926941           |       10 |  847878           |      67    | Aviata Silago            |             80 |
+|             66 | Kamilieni Raivono           |      81.84 |  936118           |       11 |  965951           |      76.86 | Quentin Lefort           |             80 |
+|             80 | Jarrod Poi                  |      77.57 |       1.02078e+06 |       12 |       1.02077e+06 |      71.86 | Gabiriele Lovobalavu     |             80 |
+|             80 | Baptiste Couchinave         |     136.23 |  973484           |       13 |       1.02077e+06 |      72.08 | Brieuc Plessis Couillaud |             80 |
+|             80 | Sean Jack Robinson          |      77.17 |       1.02078e+06 |       14 |  782457           |      74.04 | Christopher Bosch        |             67 |
+|             80 | Téo Dospital                |      73.4  |  966095           |       15 |  842735           |      66.37 | Nicolas Cachet           |             80 |
+|             28 | Gilen Queheille             |      90.38 |  770785           |       16 |  968180           |      84.49 | Bynjamin Rabatel         |             64 |
+|             28 | Simon Meka                  |      76.99 |       1.02079e+06 |       17 |  604499           |      91.67 | Mohamed Khribache        |             46 |
+|             28 | Evrard Dion Oulai           |      78.26 |     nan           |       18 |  976072           |      90.08 | Robin Gascou             |             40 |
+|             28 | Arthur Castant              |      77.53 |  982480           |       19 |  995651           |      70.79 | Osman Dimen              |             28 |
+|             28 | Antoine Soave               |      88.33 |  877836           |       20 |     nan           |      71.45 | Tomas Munilla            |             21 |
+|             28 | Jean-Baptiste De Clercq     |      77.79 |     nan           |       21 |  948502           |      74.32 | Zhorzhi (Jorji) Saldadze |             20 |
+|             14 | Gabriel Aviragnet           |      73.58 |       1.01637e+06 |       22 |  950661           |      71.38 | Jonathan Kpoku           |             20 |
+|            nan | nan                         |     nan    |     nan           |       23 |     nan           |      70.75 | Paul-Hugo Champ          |             13 |
 
 
 # Player Level Predictions - Version 2
