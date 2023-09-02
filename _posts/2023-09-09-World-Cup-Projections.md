@@ -6,7 +6,7 @@ categories: projection
 
 Just a week out from the opening match, I'm recording the current predictions being made by my club level model. These predictions are updated a few times a week [here](comp_files\Rugby_World_Cup_2023) as matches are played and new information becomes available, but they shouldn't change much before kickoff, and recording them here allows for judgement once matches are played.
 
-So lets have at it. First, here's the predicted tables for each pool
+So let's have at it. First, here's the predicted tables for each pool
 
 ## Pool A
 
@@ -18,7 +18,7 @@ So lets have at it. First, here's the predicted tables for each pool
 | Namibia     | 0.7164 |             -69.1397 | 0.0% |
 | Uruguay     | 0.3592 |             -79.5039 | 0% |
 
-Unfortunately for Italy, this one seems pretty settled. France and New Zealand should both advance, but I'm not sure there's any real benefit from winning this pool instead of being the runner up. Both advance, and would play whoever comes out of the strong pool B. Italy should wind up at third, and qualify for the next tournament, but the nearly 8% chance to advance is not bad given the competition.
+Unfortunately for Italy, this one seems pretty settled. France and New Zealand should both advance, but I'm not sure there's any real benefit from winning this pool instead of being the runner-up. Both advance, and would play whoever comes out of the strong pool B. Italy should wind up at third, and qualify for the next tournament, but the nearly 8% chance to advance is not bad given the competition.
 
 ## Pool B
 
@@ -31,7 +31,7 @@ Unfortunately for Italy, this one seems pretty settled. France and New Zealand s
 | Tonga        | 0.8953 |             -48.763  | 0.0% |
 | Romania      | 0.1354 |            -102.333  | 0% |
 
-My models are all very bullish on South Africa after they beat New Zealand in Twickenham. Which is fair, but may be a bit overexaggerated. They're likely to advance, with Ireland close behind and Scotland with a smaller chance due to the unfortunate draw. Since this pool plays pool A in the Quarterfinals, it again may not matter much who wins and who gets second. Both will play difficult teams - one likely gets the All Blacks and the other likely gets France on home turf. And only two of these four teams can make it to the finals. Scotland has a decent chance at advancing as well - just one upset and then beating Tonga and Romania would do it. They've certainly showed they're capable.
+My models are all very bullish on South Africa after they beat New Zealand in Twickenham. Which is fair, but may be a bit over-exaggerated. They're likely to advance, with Ireland close behind and Scotland with a smaller chance due to the unfortunate draw. Since this pool plays pool A in the Quarterfinals, it again may not matter much who wins and who gets second. Both will play difficult teams - one likely gets the All Blacks and the other likely gets France on home turf. And only two of these four teams can make it to the finals. Scotland has a decent chance at advancing as well - just one upset and then beating Tonga and Romania would do it. They've certainly showed they're capable.
 
 ## Pool C
 
@@ -62,7 +62,7 @@ As bad as they've looked recently, England is still a pretty good team. They sho
 
 # Knockouts
 
-And here's the predictions for the knockout stages. Note that these predictions do incorporate any results that would happen to allow these teams to advance - for example, if Samoa were to reach a Quarterfinal, they likely would have had to defeat England and/or Argentina, and the future predictions would integrate this new, higher level of performance. This is extremely visible in the breakdowns of possible quarterfinal matchups. If Ireland were to meet New Zealand in the quarterfinals, one team would have to win their pool and the other team would have to be the runner up in the other pool. If Ireland wins the pool and the All Blacks are a runner up, Ireland has a nearly 71% chance to win (Ireland would likely have had to beat both South Africa and Scotland, while New Zealand likely lost to France). But if Ireland are the runners up and New Zealand topped their pool, the Irish have only a 42% chance to win that same matchup.
+And here are the predictions for the knockout stages. Note that these predictions do incorporate any results that would happen to allow these teams to advance - for example, if Samoa were to reach a Quarterfinal, they likely would have had to defeat England and/or Argentina, and the future predictions would integrate this new, higher level of performance. This is extremely visible in the breakdowns of possible quarterfinal matchups. If Ireland were to meet New Zealand in the quarterfinals, one team would have to win their pool and the other team would have to be the runner-up in the other pool. If Ireland wins the pool and the All Blacks are a runner-up, Ireland has a nearly 71% chance to win (Ireland would likely have had to beat both South Africa and Scotland, while New Zealand likely lost to France). But if Ireland are the runners-up and New Zealand topped their pool, the Irish have only a 42% chance to win that same matchup.
 
 |              | Reach Quarterfinals   | Reach Semifinals   | Reach Final   | Win Final   | Reach Bronze Final   | Win Bronze   |
 |:-------------|:----------------------|:-------------------|:--------------|:------------|:---------------------|:-------------|
@@ -87,7 +87,7 @@ Note that for quarterfinals 1 and 3, there are some matchups that occur less tha
 
 ### Quarterfinal 1
 
-| Pool C Winner   | Pool D Runner Up   |   Likelihood of Matchup |   Pool C Win Percentage |
+| Pool C Winner   | Pool D Runner-Up   |   Likelihood of Matchup |   Pool C Win Percentage |
 |:------------|:------------|-------------:|----------:|
 | Fiji        | Argentina   |        31.03 % |      84.2 % |
 | Fiji        | Samoa       |        30.13 % |      86.6 % |
@@ -111,7 +111,7 @@ Note that for quarterfinals 1 and 3, there are some matchups that occur less tha
 
 ### Quarterfinal 2
 
-| Pool A Winner   | Pool B Runner Up   |   Likelihood of Matchup |   Pool A Win Percentage |
+| Pool A Winner   | Pool B Runner-Up   |   Likelihood of Matchup |   Pool A Win Percentage |
 |:------------|:-------------|-------------:|----------:|
 | Ireland      | France      |       35.34 % |      66.1 % |
 | South Africa | France      |       32.07 % |      70.7 % |
@@ -125,7 +125,7 @@ Note that for quarterfinals 1 and 3, there are some matchups that occur less tha
 
 ### Quarterfinal 3
 
-| Pool D Winner   | Pool C Runner Up   |   Likelihood of Matchup |   Pool D Win Percentage |
+| Pool D Winner   | Pool C Runner-Up   |   Likelihood of Matchup |   Pool D Win Percentage |
 |:------------|:------------|-------------:|----------:|
 | Australia   | Argentina   |        23.09 % |      44   % |
 | Australia   | Samoa       |        19.08 % |      52.5 % |
@@ -151,7 +151,7 @@ Note that for quarterfinals 1 and 3, there are some matchups that occur less tha
 
 ### Quarterfinal 4
 
-| Pool A Winner   | Pool B Runner Up   |   Likelihood of Matchup |   Pool A Win Percentage |
+| Pool A Winner   | Pool B Runner-Up   |   Likelihood of Matchup |   Pool A Win Percentage |
 |:------------|:-------------|-------------:|----------:|
 | New Zealand | South Africa |        34.76 % |      38   % |
 | New Zealand | Ireland      |        27.23 % |      41.6 % |
@@ -166,7 +166,8 @@ Note that for quarterfinals 1 and 3, there are some matchups that occur less tha
 This is where the imbalance in pools comes to light - whatever teams come out of pools A and B are favored in the Semifinals. Note that there are some matchups that occur less than 1% of the time and have been excluded.
 
 ### Semifinal 1
-| QF 2 Winner   | QF 1 Runner Up   |   Likelihood of Matchup | QF 2 Win Percentage |
+
+| QF 2 Winner   | QF 1 Runner-Up   |   Likelihood of Matchup | QF 2 Win Percentage |
 |:-------------|:------------|-------------:|----------:|
 | Ireland      | Fiji        |        23.72 % |      85.5 % |
 | South Africa | Fiji        |        22.36 % |      89   % |
@@ -205,7 +206,8 @@ This is where the imbalance in pools comes to light - whatever teams come out of
 
 
 ### Semifinal 2
-| QF 4 Winner   | QF 3 Runner Up   |   Likelihood of Matchup | QF 4 Win Percentage |
+
+| QF 4 Winner   | QF 3 Runner-Up   |   Likelihood of Matchup | QF 4 Win Percentage |
 |:-------------|:------------|-------------:|----------:|
 | New Zealand  | Argentina   |        11.68 % |      95.8 % |
 | New Zealand  | Samoa       |         8.72 % |      95.3 % |
