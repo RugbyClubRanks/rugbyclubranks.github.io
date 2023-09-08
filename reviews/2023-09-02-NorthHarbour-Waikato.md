@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title: Waikato at North Harbour; 17-39  
+title: Waikato at North Harbour; 17.0-39.0  
 date: 2023-09-02 18:00:00 -0500  
 categories: match review  
 ---
-# Waikato at North Harbour; 17-39
+# Waikato at North Harbour; 17.0-39.0
 
 # Club Level Predictions
 
@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Waikato by 0.7
+## Prediction with Player Minutes: North Harbour by 17.8
 
 
-Waikato by 4.7 on a neutral field
-## Prediction without Player Minutes: Waikato by 0.2
+North Harbour by 13.8 on a neutral field
+## Prediction without Player Minutes: North Harbour by 19.5
 
 
-Waikato by 4.2 on a neutral pitch
+North Harbour by 15.5 on a neutral pitch
 
 
 ## Scores over Time
@@ -47,73 +47,73 @@ Waikato by 4.2 on a neutral pitch
 
 ![In Match Predictions](plots/recap_prob_2023-09-02-NorthHarbour-Waikato.png)
 
-There were 4 large changes in win probability in this match
+There were 11 large changes in win probability in this match
 
-|   Away Minutes | Away Player                  |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player             |   Home Minutes |
-|---------------:|:-----------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------|---------------:|
-|             56 | Oliver Norris                |      76.48 |       1.0195e+06  |        1 |       1.01769e+06 |      65.32 | Nic Mayhew              |             51 |
-|             48 | Pita Alemania Jr Anae-Ah Sue |      72.49 |       1.01947e+06 |        2 |       1.01779e+06 |      75.1  | Shilo Klein             |             61 |
-|             58 | George Dyer                  |      75.26 |  988847           |        3 |       1.01876e+06 |      71.5  | Tevita Mafileo          |             66 |
-|             80 | James Tucker                 |      89.03 |  786059           |        4 |  899189           |     113.42 | Ben Grant               |             65 |
-|             71 | Hamilton Burr                |      78.93 |       1.01941e+06 |        5 |       1.01973e+06 |      68.62 | Moni Ngakuru            |             80 |
-|             80 | Malachi Wrampling-Alec       |      75.89 |       1.01937e+06 |        6 |       1.01877e+06 |      72.51 | Tamarau McGahan         |             80 |
-|             56 | Jack Lam                     |      78.27 |       1.01964e+06 |        7 |       1.01887e+06 |      68.12 | Jed Melvin              |             61 |
-|             80 | Simon Parker                 |      72.63 |       1.01944e+06 |        8 |       1.01884e+06 |      71.86 | Cameron Suafoa          |             80 |
-|             57 | Cortez Lee Ratima            |      72.31 |       1.01946e+06 |        9 |       1.01885e+06 |      70.39 | Jamie Booth             |             61 |
-|             70 | Taha Kemara                  |      79.75 |       1.01936e+06 |       10 |       1.01879e+06 |      72.19 | Oscar Koller            |             80 |
-|             80 | Daniel Sinkinson             |      90.55 |       1.01733e+06 |       11 |       1.01974e+06 |      61.83 | Danyon Morgan-Puterangi |             67 |
-|             61 | Austin Anderson              |      73.4  |       1.01963e+06 |       12 |       1.01888e+06 |      67.66 | Henry Taefu             |             80 |
-|             80 | Mason Tupaea                 |      70.68 |       1.01952e+06 |       13 |       1.01875e+06 |      78.04 | Tom Barham              |             66 |
-|             80 | Tepaea Cook-Savage           |      77.01 |       1.01938e+06 |       14 |       1.01888e+06 |      70.08 | Kade Banks              |             80 |
-|             80 | Liam Coombes-Fabling         |      75.15 |       1.01965e+06 |       15 |  785782           |      78.73 | Shaun Stevenson         |             80 |
-|             24 | Joe Johnston                 |      30.42 |  979450           |       16 |     nan           |      70.46 | Sione Mafileo           |             14 |
-|             22 | Solomone Tukuafu             |      81.04 |       1.01944e+06 |       17 |       1.01767e+06 |      66.89 | Tevita Langi            |             29 |
-|             32 | Caleb Ralph                  |      75.41 |     nan           |       18 |     nan           |      70.02 | Ray Niuia               |             19 |
-|              9 | Xavier Saifoloi              |      67.9  |       1.0198e+06  |       19 |       1.0188e+06  |      68.96 | Maetaki He Lotu Inisi   |             19 |
-|             24 | Colin Ayden Johnstone        |      75.17 |       1.01948e+06 |       20 |     nan           |      71.73 | Cameron Christie        |             15 |
-|             23 | Xavier Roe                   |      77.37 |       1.01951e+06 |       21 |     nan           |      69.52 | Siaosi Nginingini       |             19 |
-|             10 | Aaron Cruden                 |      68.32 |     nan           |       22 |       1.01874e+06 |      83.42 | Alapati Leiua           |             14 |
-|             19 | Tana Tuhakaraina             |      79.35 |       1.0195e+06  |       23 |     nan           |      69.37 | Sofai Maka              |             13 |
+|   Away Minutes | Away Player            |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player             |   Home Minutes |
+|---------------:|:-----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------|---------------:|
+|             56 | Ollie Norris           |     103.55 |  961939           |        1 |  613006           |     140.31 | Nic Mayhew              |             51 |
+|             48 | Pita Anae Ah-Sue       |     116.65 |       1.02305e+06 |        2 |  963254           |      73.25 | Shilo Klein             |             61 |
+|             58 | George Dyer            |     110.08 |       1.00503e+06 |        3 |  950939           |     133.11 | Tevita Mafileo          |             66 |
+|             80 | James Tucker           |     104.48 |  800944           |        4 |  914786           |     341.88 | Ben Grant               |             65 |
+|             71 | Hamilton Burr          |      91.13 |  919507           |        5 |       1.00934e+06 |      72.22 | Mahroni Ngakuru         |             80 |
+|             80 | Malachi Wrampling-Alec |     103.89 |       1.03321e+06 |        6 |       1.02311e+06 |      99.67 | Tamarau McGahan         |             80 |
+|             56 | Jack Lam               |     106.88 |  500824           |        7 |       1.02312e+06 |     113.09 | Jed Melvin              |             61 |
+|             80 | Simon Parker           |      97.36 |  961817           |        8 |  962874           |     112.11 | Cameron Suafoa          |             80 |
+|             57 | Cortez Ratima          |     138.58 |       1.00498e+06 |        9 |  762444           |      88.01 | Jamie Booth             |             61 |
+|             70 | Taha Kemara            |     109.33 |       1.02341e+06 |       10 |       1.03305e+06 |     109    | Oscar Koller            |             80 |
+|             80 | Daniel Sinkinson       |      76.93 |       1.01087e+06 |       11 |       1.03333e+06 |     113.23 | Danyon Morgan-Puterangi |             67 |
+|             61 | Austin Anderson        |     103.68 |       1.03329e+06 |       12 |  759664           |      57.8  | Henry Taefu             |             80 |
+|             80 | Mason Tupaea           |      94.99 |       1.0332e+06  |       13 |       1.02306e+06 |      93.74 | Tom Barham              |             66 |
+|             80 | Tepaea Cook-Savage     |     100.23 |       1.00493e+06 |       14 |       1.00513e+06 |      98.75 | Kade Banks              |             80 |
+|             80 | Liam Coombes-Fabling   |     153.17 |       1.00507e+06 |       15 |  800621           |     156    | Shaun Stevenson         |             80 |
+|             24 | Joe Johnston           |     130.48 |  995563           |       16 |     nan           |     110.13 | Sione Mafileo           |             14 |
+|             22 | Solomone Tukuafu       |     115.92 |       1.01795e+06 |       17 |       1.02309e+06 |      93.5  | Tevita Langi            |             29 |
+|             32 | Caleb Ralph            |      97.93 |     nan           |       18 |  704137           |      72.75 | Ray Niuia               |             19 |
+|              9 | Xavier Saifoloi        |     103.27 |       1.03336e+06 |       19 |  963103           |     100    | Lotu Inisi              |             19 |
+|             24 | Ayden Johnstone        |     111.09 |  862581           |       20 |       1.03343e+06 |      95.86 | Cameron Christie        |             15 |
+|             23 | Xavier Roe             |      79.18 |  936347           |       21 |  932783           |      82.3  | Siaosi Nginingini       |             19 |
+|             10 | Aaron Cruden           |     102.27 |  459419           |       22 |  466073           |     134.87 | Alapati Leiua           |             14 |
+|             19 | Tana Tuhakaraina       |     108.68 |       1.02328e+06 |       23 |       1.0336e+06  |     107.59 | Sofai Maka              |             13 |
 
 
 # Player Level Predictions - Version 2
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Waikato by 0.5
+## Prediction with Player Minutes: North Harbour by 2.4
 
 
-Waikato by 3.8 on a neutral field
-## Prediction without Player Minutes: Waikato by 0.6
+Waikato by 0.9 on a neutral field
+## Prediction without Player Minutes: North Harbour by 2.7
 
 
-Waikato by 4.0 on a neutral pitch
+Waikato by 0.6 on a neutral pitch
 
 
 
-|   Away Minutes | Away Player                  |   Away elo |   Away variance |   Number |   Home variance |   Home elo | Home Player             |   Home Minutes |
-|---------------:|:-----------------------------|-----------:|----------------:|---------:|----------------:|-----------:|:------------------------|---------------:|
-|             56 | Oliver Norris                |      49.93 |           49.3  |        1 |           49.6  |      40.86 | Nic Mayhew              |             51 |
-|             48 | Pita Alemania Jr Anae-Ah Sue |      50.22 |           49.39 |        2 |           49.31 |      38.42 | Shilo Klein             |             61 |
-|             58 | George Dyer                  |      60.91 |           49.35 |        3 |           49.31 |      38.85 | Tevita Mafileo          |             66 |
-|             80 | James Tucker                 |      70.13 |           49.18 |        4 |           47.34 |      71.17 | Ben Grant               |             65 |
-|             71 | Hamilton Burr                |      54.89 |           49.11 |        5 |           49.66 |      40.22 | Moni Ngakuru            |             80 |
-|             80 | Malachi Wrampling-Alec       |      51.82 |           49.57 |        6 |           49.35 |      37.88 | Tamarau McGahan         |             80 |
-|             56 | Jack Lam                     |      50.96 |           49.84 |        7 |           49.4  |      39.7  | Jed Melvin              |             61 |
-|             80 | Simon Parker                 |      50.78 |           49.11 |        8 |           49.23 |      37.85 | Cameron Suafoa          |             80 |
-|             57 | Cortez Lee Ratima            |      49.09 |           49.42 |        9 |           49.29 |      39.33 | Jamie Booth             |             61 |
-|             70 | Taha Kemara                  |      47.7  |           49.14 |       10 |           49.17 |      37.68 | Oscar Koller            |             80 |
-|             80 | Daniel Sinkinson             |      50.55 |           49.24 |       11 |           49.51 |      38.12 | Danyon Morgan-Puterangi |             67 |
-|             61 | Austin Anderson              |      44.23 |           49.72 |       12 |           49.23 |      38.14 | Henry Taefu             |             80 |
-|             80 | Mason Tupaea                 |      46.07 |           49.75 |       13 |           49.29 |      40.44 | Tom Barham              |             66 |
-|             80 | Tepaea Cook-Savage           |      54.71 |           49.28 |       14 |           49.17 |      37.68 | Kade Banks              |             80 |
-|             80 | Liam Coombes-Fabling         |      47.11 |           49.19 |       15 |           49.53 |      82.64 | Shaun Stevenson         |             80 |
-|             24 | Joe Johnston                 |     -18.98 |           48.34 |       16 |           49.85 |      45.41 | Sione Mafileo           |             14 |
-|             22 | Solomone Tukuafu             |      48.62 |           49.65 |       17 |           49.56 |      43.32 | Tevita Langi            |             29 |
-|             32 | Caleb Ralph                  |      46    |           49.92 |       18 |           49.93 |      46.45 | Ray Niuia               |             19 |
-|              9 | Xavier Saifoloi              |      43.56 |           49.66 |       19 |           49.41 |      41.07 | Maetaki He Lotu Inisi   |             19 |
-|             24 | Colin Ayden Johnstone        |      50.98 |           49.81 |       20 |           49.94 |      44.48 | Cameron Christie        |             15 |
-|             23 | Xavier Roe                   |      48.79 |           49.58 |       21 |           50    |      46.65 | Siaosi Nginingini       |             19 |
-|             10 | Aaron Cruden                 |      48.19 |           49.94 |       22 |           49.46 |      42.78 | Alapati Leiua           |             14 |
-|             19 | Tana Tuhakaraina             |      51.25 |           49.57 |       23 |           50    |      46.65 | Sofai Maka              |             13 |
+|   Away Minutes | Away Player            |   Away elo |   Away variance |   Number |   Home variance |   Home elo | Home Player             |   Home Minutes |
+|---------------:|:-----------------------|-----------:|----------------:|---------:|----------------:|-----------:|:------------------------|---------------:|
+|             56 | Ollie Norris           |      60.86 |           49.31 |        1 |           49.61 |      75.39 | Nic Mayhew              |             51 |
+|             48 | Pita Anae Ah-Sue       |      56.19 |           49.43 |        2 |           48.46 |      45.66 | Shilo Klein             |             61 |
+|             58 | George Dyer            |      55.5  |           49.39 |        3 |           49.33 |      59.82 | Tevita Mafileo          |             66 |
+|             80 | James Tucker           |      62    |           49.23 |        4 |           47.26 |      82.71 | Ben Grant               |             65 |
+|             71 | Hamilton Burr          |      41.3  |           49.15 |        5 |           49.67 |      12.64 | Mahroni Ngakuru         |             80 |
+|             80 | Malachi Wrampling-Alec |      48.91 |           49.61 |        6 |           49.38 |      51.89 | Tamarau McGahan         |             80 |
+|             56 | Jack Lam               |      21.14 |           49.64 |        7 |           49.41 |      54.93 | Jed Melvin              |             61 |
+|             80 | Simon Parker           |      33.96 |           49.16 |        8 |           49.25 |      46.53 | Cameron Suafoa          |             80 |
+|             57 | Cortez Ratima          |      63    |           49.45 |        9 |           49.3  |      12.34 | Jamie Booth             |             61 |
+|             70 | Taha Kemara            |      43.35 |           49.16 |       10 |           49.19 |      40.7  | Oscar Koller            |             80 |
+|             80 | Daniel Sinkinson       |      48.3  |           49.29 |       11 |           49.52 |      40.06 | Danyon Morgan-Puterangi |             67 |
+|             61 | Austin Anderson        |      42.8  |           49.71 |       12 |           49.25 |      27.21 | Henry Taefu             |             80 |
+|             80 | Mason Tupaea           |      43.41 |           49.77 |       13 |           49.31 |      40.97 | Tom Barham              |             66 |
+|             80 | Tepaea Cook-Savage     |      38.93 |           49.33 |       14 |           49.19 |      44.96 | Kade Banks              |             80 |
+|             80 | Liam Coombes-Fabling   |      76.96 |           49.19 |       15 |           49.54 |      82.9  | Shaun Stevenson         |             80 |
+|             24 | Joe Johnston           |      26.81 |           48.09 |       16 |           49.85 |      72.85 | Sione Mafileo           |             14 |
+|             22 | Solomone Tukuafu       |      54.73 |           49.65 |       17 |           49.57 |      41.39 | Tevita Langi            |             29 |
+|             32 | Caleb Ralph            |      45.38 |           49.93 |       18 |           49.8  |      54.78 | Ray Niuia               |             19 |
+|              9 | Xavier Saifoloi        |      41.74 |           49.65 |       19 |           49.42 |      49.62 | Lotu Inisi              |             19 |
+|             24 | Ayden Johnstone        |      80.16 |           49.83 |       20 |           49.94 |      44.78 | Cameron Christie        |             15 |
+|             23 | Xavier Roe             |      29.73 |           49.58 |       21 |           50    |      47.97 | Siaosi Nginingini       |             19 |
+|             10 | Aaron Cruden           |      76.86 |           49.95 |       22 |           49.48 |      45.24 | Alapati Leiua           |             14 |
+|             19 | Tana Tuhakaraina       |      47.23 |           49.58 |       23 |           50    |      46.65 | Sofai Maka              |             13 |
 

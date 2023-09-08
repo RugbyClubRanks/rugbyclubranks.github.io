@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title: Toulon at Bordeaux Begles; 17-22  
+title: Toulon at Bordeaux Begles; 17.0-22.0  
 date: 2023-09-03 18:00:00 -0500  
 categories: match review  
 ---
-# Toulon at Bordeaux Begles; 17-22
+# Toulon at Bordeaux Begles; 17.0-22.0
 
 # Club Level Predictions
 
@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Toulon by 2.1
+## Prediction with Player Minutes: Toulon by 27.2
 
 
-Toulon by 6.1 on a neutral field
-## Prediction without Player Minutes: Bordeaux Begles by 1.0
+Toulon by 31.2 on a neutral field
+## Prediction without Player Minutes: Toulon by 16.6
 
 
-Toulon by 3.0 on a neutral pitch
+Toulon by 20.6 on a neutral pitch
 
 
 ## Scores over Time
@@ -47,73 +47,73 @@ Toulon by 3.0 on a neutral pitch
 
 ![In Match Predictions](plots/recap_prob_2023-09-03-BordeauxBegles-Toulon.png)
 
-There were 16 large changes in win probability in this match
+There were 20 large changes in win probability in this match
 
 |   Away Minutes | Away Player         |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player               |   Home Minutes |
 |---------------:|:--------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------------|---------------:|
-|             44 | Dany Priso          |      81.55 |       1.02066e+06 |        1 |       1.01746e+06 |      88.79 | Lesko Kaulashvili         |             51 |
-|             44 | Christopher Tolofua |      84.24 |       1.02065e+06 |        2 |       1.01748e+06 |      85.2  | Maxime Lamothe            |             58 |
-|             44 | Emerick Setiano     |      82.02 |       1.02066e+06 |        3 |       1.02149e+06 |      76.62 | Vadim Cobilas             |             35 |
-|             44 | Mathieu Tanguy      |      81.25 |       1.02064e+06 |        4 |       1.01749e+06 |      80.24 | Thomas Jolmes             |             51 |
-|             44 | Alun-Wyn Jones      |      86.39 |       1.02062e+06 |        5 |       1.01745e+06 |      87.8  | Kane Douglas              |             80 |
-|             44 | Yannick Youyoutte   |      80.04 |       1.02149e+06 |        6 |       1.01747e+06 |      79.81 | Mahamadou Diaby           |             80 |
-|             80 | Esteban Abadie      |      82.86 |       1.02067e+06 |        7 |       1.02046e+06 |      74.48 | Bastien Vergnes Taillefer |             51 |
-|             80 | Selevasio Tolofua   |      99.34 |       1.01713e+06 |        8 |       1.02049e+06 |      77.29 | Raphaël Lakafia           |             80 |
-|             80 | Baptiste Serin      |      77.31 |       1.02134e+06 |        9 |       1.02049e+06 |      74.72 | Paul Abadie               |             51 |
-|             80 | Enzo Hervé          |      82.32 |       1.02067e+06 |       10 |       1.02117e+06 |      78.22 | Mateo Garcia              |             80 |
-|             80 | Rayan Rebbadj       |      81.91 |       1.02135e+06 |       11 |       1.02048e+06 |      74.48 | Pablo Uberti              |             80 |
-|             80 | Setariki Tuicuvu    |      81.69 |       1.0207e+06  |       12 |       1.02046e+06 |      79.2  | Ben Tapuai                |             80 |
-|             67 | Maëlan Rabut        |      81.07 |  906139           |       13 |       1.01746e+06 |      92.81 | Jean-Baptiste Dubié       |             56 |
-|             80 | Gaël Dréan          |      82.71 |       1.01083e+06 |       14 |       1.0205e+06  |      73.72 | Romain Buros              |             80 |
-|             80 | Aymeric Luc         |      87.64 |       1.02062e+06 |       15 |       1.02048e+06 |      81.33 | Nans Ducuing              |             59 |
-|             36 | Kieran Brookes      |      77.13 |     nan           |       16 |       1.01755e+06 |      72.92 | Carlu Johann Sadie        |             45 |
-|             36 | Mattéo Le Corvec    |     100.31 |       1.01147e+06 |       17 |  937199           |      69.99 | Alexandre Ricard          |             29 |
-|             36 | Adrien Warion       |      80.23 |     nan           |       18 |     nan           |      78.44 | Ugo Boniface              |             29 |
-|             36 | Matthias Halagahu   |      82.6  |       1.02068e+06 |       19 |     nan           |      81.42 | Antoine Miquel            |             29 |
-|             36 | Bruce Devaux        |      87.21 |       1.02061e+06 |       20 |     nan           |      82.2  | Théo Nanette              |             29 |
-|             36 | Yanis Boulassel     |      90.96 |     nan           |       21 |       1.01337e+06 |      92    | Nicolas Depoortere        |             24 |
-|             13 | Noah Lolesio        |      78.55 |     nan           |       22 |     nan           |      80.07 | Clément Maynadier         |             22 |
-|            nan | nan                 |     nan    |     nan           |       23 |       1.01748e+06 |      89.25 | Zack Holmes               |             21 |
+|             44 | Dany Priso          |     127.75 |  776650           |        1 |            737116 |     131.09 | Lekso Kaulashvili         |             51 |
+|             44 | Christopher Tolofua |      99.83 |  621952           |        2 |            923359 |      95.09 | Maxime Lamothe            |             58 |
+|             44 | Emerick Setiano     |     111.23 |  876672           |        3 |            596232 |      94.54 | Vadim Cobilas             |             35 |
+|             44 | Mathieu Tanguy      |      84.91 |  776251           |        4 |            834927 |      88.02 | Thomas Jolmes             |             51 |
+|             44 | Alun Wyn Jones      |     134.13 |  260873           |        5 |            461846 |      81.49 | Kane Douglas              |             80 |
+|             44 | Yannick Youyoutte   |     113.3  |  985958           |        6 |            709342 |      69.88 | Mahamadou Diaby           |             80 |
+|             80 | Esteban Abadie      |     102.59 |  925202           |        7 |            959165 |     192.72 | Bastien Vergnes Taillefer |             51 |
+|             80 | Selevasio Tolofua   |     143.59 |  875972           |        8 |            335150 |      94.19 | Raphael Lakafia           |             80 |
+|             80 | Baptiste Serin      |     112.14 |  672094           |        9 |            791551 |     151.89 | Paul Abadie               |             51 |
+|             80 | Enzo Herve          |      89.59 |  910115           |       10 |           1011093 |      99.82 | Mateo Garcia              |             80 |
+|             80 | Rayan Rebbadj       |     229.18 |       1.014e+06   |       11 |            909236 |      58.53 | Pablo Uberti              |             80 |
+|             80 | Seta Tuicuvu        |      80.7  |  883613           |       12 |            423784 |      68.99 | Ben Tapuai                |             80 |
+|             67 | Maëlan Rabut        |     117.57 |  921872           |       13 |            368021 |      87.76 | Jean-Baptiste Dubie       |             56 |
+|             80 | Gaël Dréan          |      88.48 |       1.02687e+06 |       14 |            824799 |     135.8  | Romain Buros              |             80 |
+|             80 | Aymeric Luc         |     182.37 |  952669           |       15 |            775862 |     128.88 | Nans Ducuing              |             59 |
+|             36 | Kieran Brookes      |      86.49 |  439961           |       16 |            923075 |      19.94 | Carlu Sadie               |             45 |
+|             36 | Mattéo Le Corvec    |     125.83 |       1.0275e+06  |       17 |            953138 |     158.95 | Alexandre Ricard          |             29 |
+|             36 | Adrien Warion       |     190.35 |  975280           |       18 |            937011 |     187.69 | Ugo Boniface              |             29 |
+|             36 | Matthias Halagahu   |     112.56 |  986634           |       19 |            822309 |     138.82 | Antoine Miquel            |             29 |
+|             36 | Bruce Devaux        |     108.44 |  948646           |       20 |            760845 |     104.97 | Theo Nanette              |             29 |
+|             36 | Yanis Boulassel     |     110.77 |     nan           |       21 |           1029341 |      99.2  | Nicolas Depoortere        |             24 |
+|             13 | Noah Lolesio        |     140.6  |  960371           |       22 |            382065 |      73.87 | Clement Maynadier         |             22 |
+|            nan | nan                 |     nan    |     nan           |       23 |            627348 |     102.75 | Zack Holmes               |             21 |
 
 
 # Player Level Predictions - Version 2
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Bordeaux Begles by 7.1
+## Prediction with Player Minutes: Bordeaux Begles by 5.4
 
 
-Bordeaux Begles by 2.3 on a neutral field
-## Prediction without Player Minutes: Bordeaux Begles by 6.9
+Toulon by 0.6 on a neutral field
+## Prediction without Player Minutes: Bordeaux Begles by 4.7
 
 
-Bordeaux Begles by 2.2 on a neutral pitch
+Toulon by 0.1 on a neutral pitch
 
 
 
 |   Away Minutes | Away Player         |   Away elo |   Away variance |   Number |   Home variance |   Home elo | Home Player               |   Home Minutes |
 |---------------:|:--------------------|-----------:|----------------:|---------:|----------------:|-----------:|:--------------------------|---------------:|
-|             44 | Dany Priso          |      46.01 |           49.83 |        1 |           49.92 |      46.14 | Lesko Kaulashvili         |             51 |
-|             44 | Christopher Tolofua |      46.24 |           49.77 |        2 |           49.73 |      45.55 | Maxime Lamothe            |             58 |
-|             44 | Emerick Setiano     |      45.73 |           49.75 |        3 |           50    |      46.65 | Vadim Cobilas             |             35 |
-|             44 | Mathieu Tanguy      |      45.43 |           49.79 |        4 |           49.65 |      45.03 | Thomas Jolmes             |             51 |
-|             44 | Alun-Wyn Jones      |      46.29 |           49.8  |        5 |           49.63 |      45.11 | Kane Douglas              |             80 |
-|             44 | Yannick Youyoutte   |      46.65 |           50    |        6 |           49.59 |      44.89 | Mahamadou Diaby           |             80 |
-|             80 | Esteban Abadie      |      45.07 |           49.59 |        7 |           49.68 |      45.1  | Bastien Vergnes Taillefer |             51 |
-|             80 | Selevasio Tolofua   |      44.71 |           49.67 |        8 |           49.79 |      45.64 | Raphaël Lakafia           |             80 |
-|             80 | Baptiste Serin      |      47.01 |           49.91 |        9 |           49.61 |      44.98 | Paul Abadie               |             51 |
-|             80 | Enzo Hervé          |      44.98 |           49.61 |       10 |           49.9  |      46.04 | Mateo Garcia              |             80 |
-|             80 | Rayan Rebbadj       |      47.54 |           49.79 |       11 |           49.62 |      44.95 | Pablo Uberti              |             80 |
-|             80 | Setariki Tuicuvu    |      45.07 |           49.59 |       12 |           49.64 |      45.19 | Ben Tapuai                |             80 |
-|             67 | Maëlan Rabut        |      11.95 |           50    |       13 |           50    |      46.65 | Jean-Baptiste Dubié       |             56 |
-|             80 | Gaël Dréan          |      20.42 |           49.61 |       14 |           49.59 |      44.89 | Romain Buros              |             80 |
-|             80 | Aymeric Luc         |      45.07 |           49.59 |       15 |           49.93 |      46.29 | Nans Ducuing              |             59 |
-|             36 | Kieran Brookes      |      47.01 |           49.91 |       16 |           49.73 |      45.55 | Carlu Johann Sadie        |             45 |
-|             36 | Mattéo Le Corvec    |      40.97 |           50    |       17 |           49.96 |      52.64 | Alexandre Ricard          |             29 |
-|             36 | Adrien Warion       |      46.65 |           50    |       18 |           49.68 |      45.42 | Ugo Boniface              |             29 |
-|             36 | Matthias Halagahu   |      45.07 |           49.59 |       19 |           49.84 |      45.96 | Antoine Miquel            |             29 |
-|             36 | Bruce Devaux        |      45.7  |           49.75 |       20 |           49.98 |      46.56 | Théo Nanette              |             29 |
-|             36 | Yanis Boulassel     |      46.68 |           50    |       21 |           49.59 |      53.44 | Nicolas Depoortere        |             24 |
-|             13 | Noah Lolesio        |      46.49 |           49.96 |       22 |           49.86 |      45.98 | Clément Maynadier         |             22 |
-|            nan | nan                 |     nan    |          nan    |       23 |           49.69 |      45.49 | Zack Holmes               |             21 |
+|             44 | Dany Priso          |      67.06 |           49.84 |        1 |           49.93 |      67.18 | Lekso Kaulashvili         |             51 |
+|             44 | Christopher Tolofua |      75.83 |           49.78 |        2 |           49.64 |      50.77 | Maxime Lamothe            |             58 |
+|             44 | Emerick Setiano     |      65.21 |           49.76 |        3 |           50    |      81.55 | Vadim Cobilas             |             35 |
+|             44 | Mathieu Tanguy      |      23.66 |           49.8  |        4 |           49.68 |      27    | Thomas Jolmes             |             51 |
+|             44 | Alun Wyn Jones      |      98.73 |           49.8  |        5 |           49.65 |      49.03 | Kane Douglas              |             80 |
+|             44 | Yannick Youyoutte   |      48.67 |           50    |        6 |           48.53 |      57.26 | Mahamadou Diaby           |             80 |
+|             80 | Esteban Abadie      |      38.63 |           49.6  |        7 |           49.71 |      61.34 | Bastien Vergnes Taillefer |             51 |
+|             80 | Selevasio Tolofua   |      79.17 |           49.69 |        8 |           49.8  |      63.48 | Raphael Lakafia           |             80 |
+|             80 | Baptiste Serin      |      88.01 |           49.85 |        9 |           49.64 |      17.11 | Paul Abadie               |             51 |
+|             80 | Enzo Herve          |      64.06 |           49.62 |       10 |           49.92 |      43.68 | Mateo Garcia              |             80 |
+|             80 | Rayan Rebbadj       |      37.93 |           49.79 |       11 |           49.65 |      23.81 | Pablo Uberti              |             80 |
+|             80 | Seta Tuicuvu        |      35.64 |           49.6  |       12 |           49.66 |      36.9  | Ben Tapuai                |             80 |
+|             67 | Maëlan Rabut        |      28.89 |           50    |       13 |           50    |      66.54 | Jean-Baptiste Dubie       |             56 |
+|             80 | Gaël Dréan          |      23.53 |           49.62 |       14 |           49.62 |      91.36 | Romain Buros              |             80 |
+|             80 | Aymeric Luc         |      41.17 |           49.6  |       15 |           49.94 |      65.92 | Nans Ducuing              |             59 |
+|             36 | Kieran Brookes      |      38.62 |           49.91 |       16 |           49.75 |      34.62 | Carlu Sadie               |             45 |
+|             36 | Mattéo Le Corvec    |      41.13 |           50    |       17 |           49.97 |      44.08 | Alexandre Ricard          |             29 |
+|             36 | Adrien Warion       |      36.08 |           50    |       18 |           49.7  |      64.08 | Ugo Boniface              |             29 |
+|             36 | Matthias Halagahu   |      44.88 |           49.6  |       19 |           49.85 |      57.03 | Antoine Miquel            |             29 |
+|             36 | Bruce Devaux        |      44.34 |           49.76 |       20 |           49.98 |      14.08 | Theo Nanette              |             29 |
+|             36 | Yanis Boulassel     |      46.68 |           50    |       21 |           49.62 |      50.78 | Nicolas Depoortere        |             24 |
+|             13 | Noah Lolesio        |      62.6  |           49.96 |       22 |           49.87 |      60.12 | Clement Maynadier         |             22 |
+|            nan | nan                 |     nan    |          nan    |       23 |           49.7  |      75.31 | Zack Holmes               |             21 |
 

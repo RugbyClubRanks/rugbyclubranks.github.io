@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title: Auckland at Southland; 41-13  
+title: Auckland at Southland; 41.0-13.0  
 date: 2023-09-03 18:00:00 -0500  
 categories: match review  
 ---
-# Auckland at Southland; 41-13
+# Auckland at Southland; 41.0-13.0
 
 # Club Level Predictions
 
@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Auckland by 6.5
+## Prediction with Player Minutes: Auckland by 12.9
 
 
-Auckland by 10.5 on a neutral field
-## Prediction without Player Minutes: Auckland by 5.5
+Auckland by 16.9 on a neutral field
+## Prediction without Player Minutes: Auckland by 9.2
 
 
-Auckland by 9.5 on a neutral pitch
+Auckland by 13.2 on a neutral pitch
 
 
 ## Scores over Time
@@ -47,73 +47,73 @@ Auckland by 9.5 on a neutral pitch
 
 ![In Match Predictions](plots/recap_prob_2023-09-03-Southland-Auckland.png)
 
-There were 4 large changes in win probability in this match
+There were 5 large changes in win probability in this match
 
-|   Away Minutes | Away Player          |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player           |   Home Minutes |
-|---------------:|:---------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------|---------------:|
-|             57 | Josh Fusitua         |      67.64 |       1.01924e+06 |        1 |       1.02149e+06 |      63.29 | Shaun Stodart         |             62 |
-|             73 | Soane Vikena         |      65.43 |       1.01932e+06 |        2 |       1.01942e+06 |      67.93 | Jack Taylor           |             57 |
-|             69 | Sione Ahio           |      73.49 |       1.01969e+06 |        3 |       1.01939e+06 |      71.46 | Quinn Harrison-Jones  |             50 |
-|             80 | Patrick Tuipulotu    |      64.19 |       1.01968e+06 |        4 |       1.01949e+06 |      64.21 | Danny Drake           |             80 |
-|             69 | Josh Beehre          |      70.25 |       1.01924e+06 |        5 |       1.01945e+06 |      68.12 | Josh Bekhuis          |             52 |
-|             67 | Adrian Joseph Choat  |      73.94 |       1.0192e+06  |        6 |       1.01941e+06 |      70.13 | Blair Ryall           |             80 |
-|             80 | Blake Gibson         |      70.76 |       1.01927e+06 |        7 |       1.01942e+06 |      60.51 | Hayden Michaels       |             80 |
-|             80 | Vaiolini Ekuasi      |      73    |       1.01931e+06 |        8 |       1.01975e+06 |      67.06 | Semisi Tupou Ta’eiloa |             57 |
-|             56 | Kalani Thomas        |      74.52 |       1.01923e+06 |        9 |       1.01943e+06 |      68.91 | Jay Renton            |             52 |
-|             73 | Zarn Sullivan        |      87.92 |  982326           |       10 |       1.02044e+06 |      62.15 | Dan Hollinshead       |             80 |
-|             80 | Xavier TIto-Harris   |      68.19 |       1.02148e+06 |       11 |       1.01948e+06 |      59.19 | Michael Manson        |             80 |
-|             80 | Bryce Heem           |      89.57 |  495799           |       12 |       1.02043e+06 |      66.72 | Tevita Latu           |             60 |
-|             67 | Corey Evans          |      73.7  |       1.01928e+06 |       13 |       1.01949e+06 |      65.93 | Matt Whaanga          |             80 |
-|             80 | AJ Lam               |      91.16 |       1.01698e+06 |       14 |       1.01938e+06 |      74.94 | Viliami Fine          |             80 |
-|             80 | Roger Tuivasa-Scheck |      68.7  |       1.01968e+06 |       15 |       1.0194e+06  |      77.62 | Greg Dyer             |             67 |
-|             23 | Ben Ake              |      69.31 |       1.0197e+06  |       16 |     nan           |      67.46 | Jonah Aoina           |             30 |
-|              7 | Joe Royal            |      68.26 |     nan           |       17 |     nan           |      63.14 | Hunter Fahey          |             18 |
-|             11 | Marcel Renata        |      68.04 |     nan           |       18 |       1.0149e+06  |      62.37 | Nic Souchon           |             23 |
-|             13 | Che Clark            |      66.26 |       1.01929e+06 |       19 |       1.02114e+06 |      64.33 | Mike McKee            |             28 |
-|             11 | Edward Annandale     |      68.35 |     nan           |       20 |     nan           |      63    | Jacob Henry Coghlan   |             23 |
-|             24 | Taufa Funaki         |      61.66 |       1.01935e+06 |       21 |       1.01947e+06 |      68.06 | Noah Foster           |             20 |
-|              7 | Jock McKenzie        |      65.69 |       1.01925e+06 |       22 |       1.01508e+06 |      61.86 | Connor McLeod         |             28 |
-|             13 | Payton Spencer       |      63.58 |       1.02138e+06 |       23 |     nan           |      63.45 | Angus Simmers         |             13 |
+|   Away Minutes | Away Player         |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player           |   Home Minutes |
+|---------------:|:--------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------|---------------:|
+|             57 | Josh Fusitua        |      89.4  |       1.01914e+06 |        1 |  857297           |      61.2  | Shaun Stodart         |             62 |
+|             73 | Soane Vikena        |     100.36 |  998252           |        2 |       1.03318e+06 |     101.3  | Jack Taylor           |             57 |
+|             69 | Sione Ahio          |     109.33 |       1.03332e+06 |        3 |       1.03319e+06 |      97.72 | Quinn Harrison-Jones  |             50 |
+|             80 | Patrick Tuipulotu   |     162.37 |  704524           |        4 |  939437           |      90.97 | Danny Drake           |             80 |
+|             69 | Josh Beehre         |      93.6  |       1.02325e+06 |        5 |  406895           |     100.97 | Josh Bekhuis          |             52 |
+|             67 | Adrian Choat        |     109.87 |  941068           |        6 |       1.02371e+06 |      97.32 | Blair Ryall           |             80 |
+|             80 | Blake Gibson        |      99.27 |  750733           |        7 |       1.01146e+06 |     101.92 | Hayden Michaels       |             80 |
+|             80 | Vaiolini Ekuasi     |     103.13 |       1.00519e+06 |        8 |       1.03333e+06 |     102.22 | Semisi Tupou Ta’eiloa |             57 |
+|             56 | Kalani Thomas       |      90.04 |  995084           |        9 |  894146           |     177.28 | Jay Renton            |             52 |
+|             73 | Zarn Sullivan       |     137.15 |  998474           |       10 |  749010           |      71.27 | Dan Hollinshead       |             80 |
+|             80 | Xavier TIto-Harris  |      97.96 |       1.03362e+06 |       11 |       1.00556e+06 |      85.73 | Michael Manson        |             80 |
+|             80 | Bryce Heem          |      98.78 |  509361           |       12 |       1.00939e+06 |      96.29 | Tevita Latu           |             60 |
+|             67 | Corey Evans         |     101.38 |       1.00516e+06 |       13 |  932353           |     103.3  | Matt Whaanga          |             80 |
+|             80 | AJ Lam              |      87.62 |  964608           |       14 |       1.00164e+06 |      77.65 | Viliami Fine          |             80 |
+|             80 | Roger Tuivasa-Sheck |     135.42 |       1.01656e+06 |       15 |  857336           |      79.27 | Greg Dyer             |             67 |
+|             23 | Ben Ake             |     104.99 |       1.03331e+06 |       16 |     nan           |      85.83 | Jonah Aoina           |             30 |
+|              7 | Joe Royal           |      78.56 |     nan           |       17 |     nan           |      94.3  | Hunter Fahey          |             18 |
+|             11 | Marcel Renata       |     112.73 |  813545           |       18 |       1.0308e+06  |     153.64 | Nic Souchon           |             23 |
+|             13 | Che Clark           |      97.85 |       1.03316e+06 |       19 |  816519           |      59.28 | Mike McKee            |             28 |
+|             11 | Edward Annandale    |      88.93 |     nan           |       20 |     nan           |      94.08 | Jacob Henry Coghlan   |             23 |
+|             24 | Taufa Funaki        |      76.17 |       1.00522e+06 |       21 |       1.03319e+06 |      94.58 | Noah Foster           |             20 |
+|              7 | Jock McKenzie       |      94.72 |       1.00553e+06 |       22 |       1.03102e+06 |     152.23 | Connor McLeod         |             28 |
+|             13 | Payton Spencer      |      96.87 |       1.03358e+06 |       23 |     nan           |      94.52 | Angus Simmers         |             13 |
 
 
 # Player Level Predictions - Version 2
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Auckland by 6.2
+## Prediction with Player Minutes: Auckland by 9.1
 
 
-Auckland by 9.6 on a neutral field
-## Prediction without Player Minutes: Auckland by 5.8
+Auckland by 12.4 on a neutral field
+## Prediction without Player Minutes: Auckland by 8.6
 
 
-Auckland by 9.2 on a neutral pitch
+Auckland by 12.0 on a neutral pitch
 
 
 
-|   Away Minutes | Away Player          |   Away elo |   Away variance |   Number |   Home variance |   Home elo | Home Player           |   Home Minutes |
-|---------------:|:---------------------|-----------:|----------------:|---------:|----------------:|-----------:|:----------------------|---------------:|
-|             57 | Josh Fusitua         |      51.62 |           49.47 |        1 |           50    |      46.65 | Shaun Stodart         |             62 |
-|             73 | Soane Vikena         |      51.73 |           49.5  |        2 |           49.36 |      36.58 | Jack Taylor           |             57 |
-|             69 | Sione Ahio           |      47.64 |           49.8  |        3 |           49.75 |      42.27 | Quinn Harrison-Jones  |             50 |
-|             80 | Patrick Tuipulotu    |      50.68 |           49.26 |        4 |           49.66 |      42.46 | Danny Drake           |             80 |
-|             69 | Josh Beehre          |      52.67 |           49.29 |        5 |           49.17 |      33.15 | Josh Bekhuis          |             52 |
-|             67 | Adrian Joseph Choat  |      54.48 |           49.27 |        6 |           49.17 |      33.15 | Blair Ryall           |             80 |
-|             80 | Blake Gibson         |      54.35 |           49.23 |        7 |           49.42 |      39.97 | Hayden Michaels       |             80 |
-|             80 | Vaiolini Ekuasi      |      46.85 |           49.79 |        8 |           49.86 |      44.73 | Semisi Tupou Ta’eiloa |             57 |
-|             56 | Kalani Thomas        |      53.44 |           49.6  |        9 |           49.33 |      35.78 | Jay Renton            |             52 |
-|             73 | Zarn Sullivan        |      66.9  |           49.21 |       10 |           49.72 |      42.04 | Dan Hollinshead       |             80 |
-|             80 | Xavier TIto-Harris   |      46.65 |           50    |       11 |           49.37 |      39.08 | Michael Manson        |             80 |
-|             80 | Bryce Heem           |     113.46 |           49.24 |       12 |           49.88 |      43.84 | Tevita Latu           |             60 |
-|             67 | Corey Evans          |      46.7  |           49.55 |       13 |           49.21 |      34.02 | Matt Whaanga          |             80 |
-|             80 | AJ Lam               |      53.3  |           49.4  |       14 |           49.42 |      36.3  | Viliami Fine          |             80 |
-|             80 | Roger Tuivasa-Scheck |      53.3  |           49.4  |       15 |           49.67 |      39.45 | Greg Dyer             |             67 |
-|             23 | Ben Ake              |      45.21 |           49.68 |       16 |           49.77 |      42.82 | Jonah Aoina           |             30 |
-|              7 | Joe Royal            |      46.15 |           49.97 |       17 |           50    |      46.65 | Hunter Fahey          |             18 |
-|             11 | Marcel Renata        |      46.65 |           50    |       18 |           50    |      51.04 | Nic Souchon           |             23 |
-|             13 | Che Clark            |      45.99 |           49.68 |       19 |           49.86 |      44.89 | Mike McKee            |             28 |
-|             11 | Edward Annandale     |      46.65 |           50    |       20 |           50    |      46.65 | Jacob Henry Coghlan   |             23 |
-|             24 | Taufa Funaki         |      45.37 |           49.42 |       21 |           49.53 |      38.83 | Noah Foster           |             20 |
-|              7 | Jock McKenzie        |      43.47 |           49.78 |       22 |           50    |      46.49 | Connor McLeod         |             28 |
-|             13 | Payton Spencer       |      43.07 |           49.8  |       23 |           50    |      46.65 | Angus Simmers         |             13 |
+|   Away Minutes | Away Player         |   Away elo |   Away variance |   Number |   Home variance |   Home elo | Home Player           |   Home Minutes |
+|---------------:|:--------------------|-----------:|----------------:|---------:|----------------:|-----------:|:----------------------|---------------:|
+|             57 | Josh Fusitua        |      51.01 |           49.49 |        1 |           50    |      26.18 | Shaun Stodart         |             62 |
+|             73 | Soane Vikena        |      48.49 |           49.52 |        2 |           49.54 |      48.96 | Jack Taylor           |             57 |
+|             69 | Sione Ahio          |      46.63 |           49.81 |        3 |           49.84 |      47.55 | Quinn Harrison-Jones  |             50 |
+|             80 | Patrick Tuipulotu   |      78.25 |           49.3  |        4 |           49.68 |      61.68 | Danny Drake           |             80 |
+|             69 | Josh Beehre         |      51.25 |           49.33 |        5 |           49.4  |       4.68 | Josh Bekhuis          |             52 |
+|             67 | Adrian Choat        |      48.86 |           49.31 |        6 |           49.4  |      38.11 | Blair Ryall           |             80 |
+|             80 | Blake Gibson        |      71.64 |           49.26 |        7 |           49.53 |      43.67 | Hayden Michaels       |             80 |
+|             80 | Vaiolini Ekuasi     |      37.47 |           49.81 |        8 |           49.9  |      47.33 | Semisi Tupou Ta’eiloa |             57 |
+|             56 | Kalani Thomas       |      49.57 |           49.62 |        9 |           49.51 |       6.72 | Jay Renton            |             52 |
+|             73 | Zarn Sullivan       |      64.6  |           49.24 |       10 |           49.85 |      22.89 | Dan Hollinshead       |             80 |
+|             80 | Xavier TIto-Harris  |      46.65 |           50    |       11 |           49.49 |      34.9  | Michael Manson        |             80 |
+|             80 | Bryce Heem          |     113.37 |           49.28 |       12 |           49.94 |      43.58 | Tevita Latu           |             60 |
+|             67 | Corey Evans         |      52.29 |           49.58 |       13 |           49.43 |      32.32 | Matt Whaanga          |             80 |
+|             80 | AJ Lam              |      49.37 |           49.42 |       14 |           49.59 |      20.56 | Viliami Fine          |             80 |
+|             80 | Roger Tuivasa-Sheck |      33.82 |           49.42 |       15 |           49.77 |      35.01 | Greg Dyer             |             67 |
+|             23 | Ben Ake             |      43.32 |           49.71 |       16 |           49.84 |      37.56 | Jonah Aoina           |             30 |
+|              7 | Joe Royal           |      27.87 |           49.98 |       17 |           50    |      46.65 | Hunter Fahey          |             18 |
+|             11 | Marcel Renata       |      48.76 |           50    |       18 |           50    |      49.98 | Nic Souchon           |             23 |
+|             13 | Che Clark           |      44.87 |           49.7  |       19 |           49.92 |      -7.5  | Mike McKee            |             28 |
+|             11 | Edward Annandale    |      37.34 |           50    |       20 |           50    |      46.65 | Jacob Henry Coghlan   |             23 |
+|             24 | Taufa Funaki        |      30.41 |           49.46 |       21 |           49.65 |      47.18 | Noah Foster           |             20 |
+|              7 | Jock McKenzie       |      45.6  |           49.8  |       22 |           50    |      44.65 | Connor McLeod         |             28 |
+|             13 | Payton Spencer      |      41.88 |           49.82 |       23 |           50    |      46.65 | Angus Simmers         |             13 |
 

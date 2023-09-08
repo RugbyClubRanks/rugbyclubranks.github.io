@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title: Narbonne at Massy; 27-23  
+title: Narbonne at Massy; 27.0-23.0  
 date: 2023-09-02 18:00:00 -0500  
 categories: match review  
 ---
-# Narbonne at Massy; 27-23
+# Narbonne at Massy; 27.0-23.0
 
 # Club Level Predictions
 

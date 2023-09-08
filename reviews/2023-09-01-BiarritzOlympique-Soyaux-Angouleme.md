@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title: Soyaux-Angouleme at Biarritz Olympique; 18-23  
+title: Soyaux-Angouleme at Biarritz Olympique; 18.0-23.0  
 date: 2023-09-01 18:00:00 -0500  
 categories: match review  
 ---
-# Soyaux-Angouleme at Biarritz Olympique; 18-23
+# Soyaux-Angouleme at Biarritz Olympique; 18.0-23.0
 
 # Club Level Predictions
 
@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Soyaux-Angouleme by 22.7
+## Prediction with Player Minutes: Soyaux-Angouleme by 5.6
 
 
-Soyaux-Angouleme by 26.7 on a neutral field
-## Prediction without Player Minutes: Soyaux-Angouleme by 24.5
+Soyaux-Angouleme by 9.6 on a neutral field
+## Prediction without Player Minutes: Soyaux-Angouleme by 12.7
 
 
-Soyaux-Angouleme by 28.5 on a neutral pitch
+Soyaux-Angouleme by 16.7 on a neutral pitch
 
 
 ## Scores over Time
@@ -47,73 +47,73 @@ Soyaux-Angouleme by 28.5 on a neutral pitch
 
 ![In Match Predictions](plots/recap_prob_2023-09-01-BiarritzOlympique-Soyaux-Angouleme.png)
 
-There were 11 large changes in win probability in this match
+There were 10 large changes in win probability in this match
 
-|   Away Minutes | Away Player            |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player            |   Home Minutes |
-|---------------:|:-----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------------|---------------:|
-|             41 | Omar Odishvili         |      77.73 |       1.02141e+06 |        1 |       1.02108e+06 |      52.46 | Giorgi Nutsubidze      |             55 |
-|             40 | Patxi Bidart           |      65.37 |  975238           |        2 |       1.02108e+06 |      53.21 | Bastien Soury          |             40 |
-|             40 | Omar Dahir             |     101.86 |  973442           |        3 |       1.01987e+06 |      69.69 | Mohamed Haouas         |             55 |
-|             40 | William Greatbanks     |      77.91 |       1.02141e+06 |        4 |       1.01983e+06 |      78.29 | John Dyer              |             80 |
-|             80 | Matthew Dalton         |      81.76 |       1.02005e+06 |        5 |       1.01981e+06 |      77.22 | Charlie Matthews       |             49 |
-|             80 | Gautier Gibouin        |      50.84 |  454895           |        6 |       1.02108e+06 |      32.31 | Charlie Francoz        |             80 |
-|             40 | Hubert Texier          |     103.23 |       1.00115e+06 |        7 |       1.0077e+06  |      77.18 | Thomas Hebert          |             49 |
-|             80 | Alexander Masibaka     |      78.11 |       1.02141e+06 |        8 |       1.01223e+06 |      91.79 | Temo Matiu             |             80 |
-|             40 | Alexis Levron          |      79.28 |       1.02008e+06 |        9 |       1.01987e+06 |      64.44 | Antoine Domercq        |             56 |
-|             80 | Corentin Glenat        |      79.05 |       1.0201e+06  |       10 |       1.01767e+06 |      60.88 | Christopher Hilsenbeck |             80 |
-|             56 | Pierre Lafitte         |      76.3  |  587426           |       11 |       1.02107e+06 |      33.09 | Yohann Artru           |             80 |
-|             80 | Ledua Mau              |      87.46 |  795546           |       12 |       1.02109e+06 |      31.97 | Francois Vergnaud      |             80 |
-|             80 | Maxime Laforgue        |      85.65 |  945819           |       13 |       1.01987e+06 |      70.08 | Joe Jonas              |             80 |
-|             51 | Eoghan Barrett         |      76.77 |       1.02104e+06 |       14 |       1.02141e+06 |      61.43 | Baptiste Fariscot      |             80 |
-|             80 | Jules Dubecq           |      78.91 |  995715           |       15 |       1.01982e+06 |      68.98 | Gervais Cordin         |             64 |
-|             40 | Motu Farao Matu'u      |      77.55 |     nan           |       16 |  848061           |      90.99 | Thomas Sauveterre      |             40 |
-|             40 | Ian Kitwanga           |      79.71 |       1.00745e+06 |       17 |       1.01983e+06 |      70.23 | Johan Aliouat          |             31 |
-|             40 | Germain Burgaud        |     103.11 |  965476           |       18 |     nan           |      61.28 | David O'Callaghan      |             31 |
-|             40 | Seydou Diakité         |      75.75 |       1.00539e+06 |       19 |     nan           |      72.61 | Kevin Tougne           |             25 |
-|             40 | Emmanuel Saubusse      |      79.71 |       1.0201e+06  |       20 |       1.01986e+06 |      67.86 | Zakaria El Fakir       |             25 |
-|             39 | Khatchik Vartan        |      78.5  |       1.0201e+06  |       21 |     nan           |      55.48 | Kerman Aurrekoetea     |             24 |
-|             24 | Benjamin Botica        |      78.66 |       1.02008e+06 |       22 |       1.01982e+06 |      74.47 | Ilian Perraux          |             16 |
-|             29 | Nasoni Naqiri Kunavore |     100.24 |  723260           |       23 |     nan           |     nan    | nan                    |            nan |
+|   Away Minutes | Away Player            |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |   Home Minutes |
+|---------------:|:-----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|---------------:|
+|             41 | Omar Odishvili         |      68.85 |            974271 |        1 |  972989           |     193.77 | Giorgi Nutsubidze   |             55 |
+|             40 | Patxi Bidart           |     223.67 |            991321 |        2 |  804452           |      66.05 | Bastien Soury       |             40 |
+|             40 | Omar Dahir             |     205.52 |            989573 |        3 |  896621           |      97.35 | Mohamed Haouas      |             55 |
+|             40 | William Greatbanks     |     136.39 |           1033592 |        4 |  940675           |     296.7  | Johnny Dyer         |             80 |
+|             80 | Matthew Dalton         |      59.12 |            918597 |        5 |  452716           |     102.9  | Charlie Matthews    |             49 |
+|             80 | Gautier Gibouin        |     134.34 |            468437 |        6 |  879283           |     104.58 | Charlie Francoz     |             80 |
+|             40 | Hubert Texier          |     268.39 |           1017343 |        7 |       1.02388e+06 |     162.46 | Thomas Hebert       |             49 |
+|             80 | Alexander Masibaka     |     136.7  |           1033591 |        8 |       1.02824e+06 |     107.32 | Temo Matiu          |             80 |
+|             40 | Alexis Levron          |      75.42 |           1009784 |        9 |       1.03337e+06 |     118.83 | Antoine Domercq     |             56 |
+|             80 | Corentin Glenat        |      68.97 |            944579 |       10 |  777208           |     222.69 | Chris Hilsenbeck    |             80 |
+|             56 | Pierre Lafitte         |     142.19 |            601589 |       11 |  592613           |      18.87 | Yohann Artru        |             80 |
+|             80 | Ledua Mau              |     102.4  |            810315 |       12 |  951637           |     125.73 | Francois Vergnaud   |             80 |
+|             80 | Maxime Laforgue        |     192.53 |            961660 |       13 |       1.01119e+06 |     123.97 | Joe Jonas           |             80 |
+|             51 | Eoghan Barrett         |     107.3  |            974234 |       14 |       1.02183e+06 |     116.92 | Baptiste Fariscot   |             80 |
+|             80 | Jules Dubecq           |     216.87 |           1012026 |       15 |  896029           |     157.79 | Gervais Cordin      |             64 |
+|             40 | Motu Matu'u            |      90.46 |            580730 |       16 |  863173           |     155.01 | Thomas Sauveterre   |             40 |
+|             40 | Ian Kitwanga           |     169.18 |           1023662 |       17 |  794728           |      95.61 | Johan Aliouat       |             31 |
+|             40 | Germain Burgaud        |     375.63 |            981385 |       18 |  609120           |      42.88 | Dave O'Callaghan    |             31 |
+|             40 | Seydou Diakité         |     248.43 |           1021594 |       19 |  942913           |     175.83 | Kevin Tougne        |             25 |
+|             40 | Manu Saubusse          |      96.43 |            402282 |       20 |  878047           |     110.48 | Zakaria El Fakir    |             25 |
+|             39 | Khatchik Vartanov      |      62.66 |            786901 |       21 |  981284           |     219.46 | Kerman Aurrekoetxea |             24 |
+|             24 | Ben Botica             |      90.77 |            509987 |       22 |  600280           |     102.2  | Ilian Perraux       |             16 |
+|             29 | Nasoni Naqiri Kunavore |      22.73 |            737597 |       23 |     nan           |     nan    | nan                 |            nan |
 
 
 # Player Level Predictions - Version 2
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Biarritz Olympique by 3.0
+## Prediction with Player Minutes: Soyaux-Angouleme by 3.2
 
 
-Soyaux-Angouleme by 2.0 on a neutral field
-## Prediction without Player Minutes: Biarritz Olympique by 2.8
+Soyaux-Angouleme by 8.3 on a neutral field
+## Prediction without Player Minutes: Soyaux-Angouleme by 2.4
 
 
-Soyaux-Angouleme by 2.2 on a neutral pitch
+Soyaux-Angouleme by 7.5 on a neutral pitch
 
 
 
-|   Away Minutes | Away Player            |   Away elo |   Away variance |   Number |   Home variance |   Home elo | Home Player            |   Home Minutes |
-|---------------:|:-----------------------|-----------:|----------------:|---------:|----------------:|-----------:|:-----------------------|---------------:|
-|             41 | Omar Odishvili         |      46.65 |           50    |        1 |           49.9  |      43.03 | Giorgi Nutsubidze      |             55 |
-|             40 | Patxi Bidart           |      50.62 |           49.8  |        2 |           49.9  |      43.03 | Bastien Soury          |             40 |
-|             40 | Omar Dahir             |      45.56 |           49.93 |        3 |           49.75 |      46.66 | Mohamed Haouas         |             55 |
-|             40 | William Greatbanks     |      46.65 |           50    |        4 |           49.79 |      51.72 | John Dyer              |             80 |
-|             80 | Matthew Dalton         |      49.73 |           49.71 |        5 |           49.7  |      48.57 | Charlie Matthews       |             49 |
-|             80 | Gautier Gibouin        |      19.84 |           49.71 |        6 |           49.79 |      39.26 | Charlie Francoz        |             80 |
-|             40 | Hubert Texier          |      53.41 |           50    |        7 |           49.64 |      39.05 | Thomas Hebert          |             49 |
-|             80 | Alexander Masibaka     |      46.65 |           50    |        8 |           49.67 |      43.84 | Temo Matiu             |             80 |
-|             40 | Alexis Levron          |      47.65 |           49.91 |        9 |           49.83 |      43.47 | Antoine Domercq        |             56 |
-|             80 | Corentin Glenat        |      47.94 |           49.89 |       10 |           49.8  |      46.04 | Christopher Hilsenbeck |             80 |
-|             56 | Pierre Lafitte         |      47.43 |           49.83 |       11 |           49.79 |      39.26 | Yohann Artru           |             80 |
-|             80 | Ledua Mau              |      70.35 |           49.59 |       12 |           49.79 |      39.26 | Francois Vergnaud      |             80 |
-|             80 | Maxime Laforgue        |      52.47 |           50    |       13 |           49.64 |      46.37 | Joe Jonas              |             80 |
-|             51 | Eoghan Barrett         |      47.42 |           49.95 |       14 |           50    |      46.65 | Baptiste Fariscot      |             80 |
-|             80 | Jules Dubecq           |      45.4  |           50    |       15 |           49.65 |      42.51 | Gervais Cordin         |             64 |
-|             40 | Motu Farao Matu'u      |      46.65 |           50    |       16 |           50    |      60.28 | Thomas Sauveterre      |             40 |
-|             40 | Ian Kitwanga           |      48.18 |           49.59 |       17 |           49.75 |      45.57 | Johan Aliouat          |             31 |
-|             40 | Germain Burgaud        |      42.26 |           49.59 |       18 |           50    |      46.65 | David O'Callaghan      |             31 |
-|             40 | Seydou Diakité         |      41.89 |           50    |       19 |           49.94 |      48.12 | Kevin Tougne           |             25 |
-|             40 | Emmanuel Saubusse      |      50.1  |           49.68 |       20 |           49.79 |      45.4  | Zakaria El Fakir       |             25 |
-|             39 | Khatchik Vartan        |      48.36 |           49.84 |       21 |           49.91 |      43.49 | Kerman Aurrekoetea     |             24 |
-|             24 | Benjamin Botica        |      50.04 |           49.66 |       22 |           49.67 |      47.47 | Ilian Perraux          |             16 |
-|             29 | Nasoni Naqiri Kunavore |      67.35 |           49.96 |       23 |          nan    |     nan    | nan                    |            nan |
+|   Away Minutes | Away Player            |   Away elo |   Away variance |   Number |   Home variance |   Home elo | Home Player         |   Home Minutes |
+|---------------:|:-----------------------|-----------:|----------------:|---------:|----------------:|-----------:|:--------------------|---------------:|
+|             41 | Omar Odishvili         |      58.62 |           50    |        1 |           49.91 |      35.28 | Giorgi Nutsubidze   |             55 |
+|             40 | Patxi Bidart           |      47.96 |           49.79 |        2 |           49.91 |      48.04 | Bastien Soury       |             40 |
+|             40 | Omar Dahir             |      52.39 |           49.92 |        3 |           49.76 |      42.85 | Mohamed Haouas      |             55 |
+|             40 | William Greatbanks     |      46.65 |           50    |        4 |           49.78 |       2.3  | Johnny Dyer         |             80 |
+|             80 | Matthew Dalton         |      29.03 |           49.7  |        5 |           49.71 |      53.06 | Charlie Matthews    |             49 |
+|             80 | Gautier Gibouin        |      23.25 |           49.7  |        6 |           49.81 |      23.8  | Charlie Francoz     |             80 |
+|             40 | Hubert Texier          |      46    |           50    |        7 |           49.66 |      35.11 | Thomas Hebert       |             49 |
+|             80 | Alexander Masibaka     |      46.65 |           50    |        8 |           49.68 |      43.13 | Temo Matiu          |             80 |
+|             40 | Alexis Levron          |      33.65 |           49.91 |        9 |           49.85 |      44.55 | Antoine Domercq     |             56 |
+|             80 | Corentin Glenat        |      39.65 |           49.89 |       10 |           49.81 |      11.7  | Chris Hilsenbeck    |             80 |
+|             56 | Pierre Lafitte         |      42.39 |           49.83 |       11 |           49.81 |       6.71 | Yohann Artru        |             80 |
+|             80 | Ledua Mau              |      52.72 |           49.58 |       12 |           49.81 |       7.29 | Francois Vergnaud   |             80 |
+|             80 | Maxime Laforgue        |      62.36 |           50    |       13 |           49.65 |      45.95 | Joe Jonas           |             80 |
+|             51 | Eoghan Barrett         |      44.26 |           49.95 |       14 |           50    |      48.87 | Baptiste Fariscot   |             80 |
+|             80 | Jules Dubecq           |      47.4  |           50    |       15 |           49.68 |      36.64 | Gervais Cordin      |             64 |
+|             40 | Motu Matu'u            |      34.99 |           50    |       16 |           50    |      53.73 | Thomas Sauveterre   |             40 |
+|             40 | Ian Kitwanga           |      49.52 |           49.58 |       17 |           49.76 |      44.13 | Johan Aliouat       |             31 |
+|             40 | Germain Burgaud        |      58.33 |           49.58 |       18 |           50    |      19.96 | Dave O'Callaghan    |             31 |
+|             40 | Seydou Diakité         |      38.97 |           50    |       19 |           49.94 |      42.12 | Kevin Tougne        |             25 |
+|             40 | Manu Saubusse          |      61.41 |           49.67 |       20 |           49.8  |      28.54 | Zakaria El Fakir    |             25 |
+|             39 | Khatchik Vartanov      |      30.6  |           49.83 |       21 |           49.92 |      38.09 | Kerman Aurrekoetxea |             24 |
+|             24 | Ben Botica             |      64.52 |           49.65 |       22 |           49.68 |      52.71 | Ilian Perraux       |             16 |
+|             29 | Nasoni Naqiri Kunavore |      54.39 |           49.96 |       23 |          nan    |     nan    | nan                 |            nan |
 

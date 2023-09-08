@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title: La Rochelle at Clermont Auvergne; 10-11  
+title: La Rochelle at Clermont Auvergne; 10.0-11.0  
 date: 2023-09-02 18:00:00 -0500  
 categories: match review  
 ---
-# La Rochelle at Clermont Auvergne; 10-11
+# La Rochelle at Clermont Auvergne; 10.0-11.0
 
 # Club Level Predictions
 
@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: La Rochelle by 8.5
+## Prediction with Player Minutes: Clermont Auvergne by 0.7
 
 
-La Rochelle by 12.5 on a neutral field
-## Prediction without Player Minutes: La Rochelle by 9.6
+La Rochelle by 3.3 on a neutral field
+## Prediction without Player Minutes: La Rochelle by 2.7
 
 
-La Rochelle by 13.6 on a neutral pitch
+La Rochelle by 6.7 on a neutral pitch
 
 
 ## Scores over Time
@@ -47,71 +47,71 @@ La Rochelle by 13.6 on a neutral pitch
 
 ![In Match Predictions](plots/recap_prob_2023-09-02-ClermontAuvergne-LaRochelle.png)
 
-There were 5 large changes in win probability in this match
+There were 3 large changes in win probability in this match
 
-|   Away Minutes | Away Player               |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
-|---------------:|:--------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
-|             54 | Thierry Paiva             |      83.77 |       1.02092e+06 |        1 |       1.02072e+06 |      83.11 | Etienne Falgoux      |             43 |
-|             67 | Quentin Lespiaucq-Brettes |      88.51 |       1.01744e+06 |        2 |       1.02148e+06 |      75.31 | Folau Fainga'a       |             50 |
-|             54 | Aleksandre Kuntelia       |      77.4  |       1.012e+06   |        3 |       1.02076e+06 |      77.73 | Rabah Slimani        |             43 |
-|             80 | Thomas Lavault            |      88.33 |       1.0175e+06  |        4 |       1.02079e+06 |      79.99 | Thibault Lanen       |             80 |
-|             74 | Rémi Picquette            |      83.01 |       1.02094e+06 |        5 |       1.02076e+06 |      78.3  | Rob Simmons          |             80 |
-|             80 | Ultan Dillane             |      88    |       1.01743e+06 |        6 |       1.02077e+06 |      78.28 | Lucas Dessaigne      |             80 |
-|             54 | Matthias Haddad           |      82.92 |       1.02148e+06 |        7 |       1.02076e+06 |      79.62 | Peceli Yato          |             64 |
-|             80 | Judicael Cancoriet        |      81.41 |       1.02096e+06 |        8 |       1.01743e+06 |      95.73 | Caleb Timu           |             80 |
-|             70 | Tawera Kerr-Barlow        |      97.3  |       1.01748e+06 |        9 |       1.02078e+06 |      78.85 | Sebastien Bézy       |             73 |
-|             80 | Ihaia West                |      76.96 |       1.02097e+06 |       10 |       1.02119e+06 |      77.08 | Benjamin Urdapilleta |             80 |
-|             80 | Dillyn Leyds              |     100.63 |       1.01742e+06 |       11 |       1.02075e+06 |      79.54 | Joris Jurand         |             80 |
-|             80 | Jules Favre               |      88.87 |       1.01746e+06 |       12 |       1.02148e+06 |      75.5  | Leon Darricarrere    |             63 |
-|             80 | Jack Nowell               |      81.2  |       1.02096e+06 |       13 |       1.02118e+06 |      76.27 | Julien Heriteau      |             80 |
-|             70 | Teddy Thomas              |      81.31 |       1.02093e+06 |       14 |       1.02148e+06 |      75.12 | Bautista Delguy      |             80 |
-|             80 | Brice Dulin               |     108.32 |       1.01744e+06 |       15 |       1.02074e+06 |      80.41 | Alex Newsome         |             80 |
-|             26 | Georges-Henri Colombe     |      93.66 |       1.01745e+06 |       16 |     nan           |      76.48 | Daniel Bibi Biziwu   |             37 |
-|             26 | Archer Holz               |      85.19 |       1.01699e+06 |       17 |     nan           |      76.3  | Cristian Ojovan      |             37 |
-|             26 | Oscar Jegou               |      84.53 |       1.01696e+06 |       18 |       1.02078e+06 |      76.93 | Étienne Fourcade     |             30 |
-|             13 | Billy Pollard             |      83    |       1.02115e+06 |       19 |     nan           |      82.62 | Anthony Belleau      |             17 |
-|             10 | Teddy Iribaren            |      88.01 |     nan           |       20 |       1.02075e+06 |      77.61 | Killian Tixeront     |             16 |
-|             10 | Nathan Bollengier         |      86.2  |     nan           |       21 |     nan           |      75.71 | Enzo Sanga           |              7 |
-|              6 | Thomas Ployet             |      87.41 |     nan           |       22 |     nan           |     nan    | nan                  |            nan |
+|   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
+|---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
+|             54 | Thierry Paiva         |     139.46 |  851429           |        1 |  790494           |     116.43 | Etienne Falgoux      |             43 |
+|             67 | Quentin Lespiaucq     |     125.83 |  819561           |        2 |  863484           |     158.06 | Folau Fainga'a       |             50 |
+|             54 | Aleksandre Kuntelia   |     104.59 |       1.02803e+06 |        3 |  404056           |     100.07 | Rabah Slimani        |             43 |
+|             80 | Thomas Lavault        |     149.91 |  972872           |        4 |  970523           |     109.17 | Thibaud Lanen        |             80 |
+|             74 | Remi Picquette        |      91.38 |  838681           |        5 |  411869           |     122.89 | Rob Simmons          |             80 |
+|             80 | Ultan Dillane         |     116.2  |  785171           |        6 |  971851           |     155.15 | Lucas Dessaigne      |             80 |
+|             54 | Matthias Haddad       |     106.28 |  989077           |        7 |  780635           |      68.55 | Peceli Yato Senibitu |             64 |
+|             80 | Judicael Cancoriet    |     126.02 |  772672           |        8 |  888681           |     110.79 | Caleb Timu           |             80 |
+|             70 | Tawera Kerr-Barlow    |     135.44 |  501149           |        9 |  673447           |     104.86 | Sebastien Bezy       |             73 |
+|             80 | Ihaia West            |     124.27 |  666092           |       10 |  541915           |     101.18 | Benjamin Urdapilleta |             80 |
+|             80 | Dillyn Leyds          |     138.88 |  741031           |       11 |  949251           |     153.53 | Joris Jurand         |             80 |
+|             80 | Jules Favre           |     168.22 |  935409           |       12 |       1.03362e+06 |     121.96 | Leon Darricarrere    |             63 |
+|             80 | Jack Nowell           |     120.52 |  611529           |       13 |  791413           |     115.69 | Julien Heriteau      |             80 |
+|             70 | Teddy Thomas          |     165.51 |  687974           |       14 |  841881           |     216.43 | Bautista Delguy      |             80 |
+|             80 | Brice Dulin           |     144.1  |  439468           |       15 |  848457           |     120.23 | Alex Newsome         |             80 |
+|             26 | Georges-Henri Colombe |      78.2  |  896696           |       16 |  979862           |     110.44 | Daniel Bibi Biziwu   |             37 |
+|             26 | Archer Holz           |     134.12 |  994161           |       17 |  933288           |     192.37 | Cristian Ojovan      |             37 |
+|             26 | Oscar Jegou           |     106.85 |       1.03267e+06 |       18 |  866512           |     100.47 | Etienne Fourcade     |             30 |
+|             13 | Billy Pollard         |     151.14 |  999773           |       19 |  795098           |     103.69 | Anthony Belleau      |             17 |
+|             10 | Teddy Iribaren        |     110.96 |  560470           |       20 |  990004           |     134.09 | Killian Tixeront     |             16 |
+|             10 | Nathan Bollengier     |     116.81 |     nan           |       21 |  805320           |     173.41 | Enzo Sanga           |              7 |
+|              6 | Thomas Ployet         |      98.05 |  998910           |       22 |     nan           |     nan    | nan                  |            nan |
 
 
 # Player Level Predictions - Version 2
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Clermont Auvergne by 4.7
+## Prediction with Player Minutes: Clermont Auvergne by 4.0
 
 
-La Rochelle by 0.2 on a neutral field
-## Prediction without Player Minutes: Clermont Auvergne by 4.7
+Clermont Auvergne by 0.9 on a neutral field
+## Prediction without Player Minutes: Clermont Auvergne by 5.0
 
 
-La Rochelle by 0.2 on a neutral pitch
+Clermont Auvergne by 0.1 on a neutral pitch
 
 
 
-|   Away Minutes | Away Player               |   Away elo |   Away variance |   Number |   Home variance |   Home elo | Home Player          |   Home Minutes |
-|---------------:|:--------------------------|-----------:|----------------:|---------:|----------------:|-----------:|:---------------------|---------------:|
-|             54 | Thierry Paiva             |      47.61 |           49.74 |        1 |           49.74 |      46.9  | Etienne Falgoux      |             43 |
-|             67 | Quentin Lespiaucq-Brettes |      47.01 |           49.72 |        2 |           50    |      46.65 | Folau Fainga'a       |             50 |
-|             54 | Aleksandre Kuntelia       |      44.35 |           49.76 |        3 |           49.72 |      46.63 | Rabah Slimani        |             43 |
-|             80 | Thomas Lavault            |      48.44 |           49.62 |        4 |           49.77 |      50.82 | Thibault Lanen       |             80 |
-|             74 | Rémi Picquette            |      49.32 |           49.6  |        5 |           49.7  |      47.23 | Rob Simmons          |             80 |
-|             80 | Ultan Dillane             |      49.13 |           49.59 |        6 |           49.66 |      48.75 | Lucas Dessaigne      |             80 |
-|             54 | Matthias Haddad           |      46.65 |           50    |        7 |           49.83 |      48.82 | Peceli Yato          |             64 |
-|             80 | Judicael Cancoriet        |      49.13 |           49.59 |        8 |           49.61 |      47.85 | Caleb Timu           |             80 |
-|             70 | Tawera Kerr-Barlow        |      47.83 |           49.72 |        9 |           49.82 |      48.41 | Sebastien Bézy       |             73 |
-|             80 | Ihaia West                |      46.06 |           49.72 |       10 |           49.85 |      50.38 | Benjamin Urdapilleta |             80 |
-|             80 | Dillyn Leyds              |      49.32 |           49.6  |       11 |           49.61 |      47.85 | Joris Jurand         |             80 |
-|             80 | Jules Favre               |      49.13 |           49.59 |       12 |           50    |      46.65 | Leon Darricarrere    |             63 |
-|             80 | Jack Nowell               |      49.13 |           49.59 |       13 |           49.96 |      47.74 | Julien Heriteau      |             80 |
-|             70 | Teddy Thomas              |      48.13 |           49.63 |       14 |           50    |      46.65 | Bautista Delguy      |             80 |
-|             80 | Brice Dulin               |      52.45 |           49.6  |       15 |           49.61 |      47.85 | Alex Newsome         |             80 |
-|             26 | Georges-Henri Colombe     |      48.07 |           49.84 |       16 |           49.92 |      48.52 | Daniel Bibi Biziwu   |             37 |
-|             26 | Archer Holz               |      49.19 |           49.9  |       17 |           49.92 |      48.52 | Cristian Ojovan      |             37 |
-|             26 | Oscar Jegou               |      48.59 |           49.71 |       18 |           49.7  |      47.23 | Étienne Fourcade     |             30 |
-|             13 | Billy Pollard             |      49.19 |           49.9  |       19 |           49.91 |      46.83 | Anthony Belleau      |             17 |
-|             10 | Teddy Iribaren            |      47.98 |           49.87 |       20 |           49.74 |      44.81 | Killian Tixeront     |             16 |
-|             10 | Nathan Bollengier         |      47.03 |           49.91 |       21 |           50    |      46.65 | Enzo Sanga           |              7 |
-|              6 | Thomas Ployet             |      47.16 |           49.96 |       22 |          nan    |     nan    | nan                  |            nan |
+|   Away Minutes | Away Player           |   Away elo |   Away variance |   Number |   Home variance |   Home elo | Home Player          |   Home Minutes |
+|---------------:|:----------------------|-----------:|----------------:|---------:|----------------:|-----------:|:---------------------|---------------:|
+|             54 | Thierry Paiva         |      59.9  |           49.78 |        1 |           49.73 |      62.45 | Etienne Falgoux      |             43 |
+|             67 | Quentin Lespiaucq     |      53.75 |           49.76 |        2 |           50    |      84.71 | Folau Fainga'a       |             50 |
+|             54 | Aleksandre Kuntelia   |      38.9  |           49.8  |        3 |           49.72 |      66.69 | Rabah Slimani        |             43 |
+|             80 | Thomas Lavault        |      72.88 |           49.68 |        4 |           49.78 |      56.3  | Thibaud Lanen        |             80 |
+|             74 | Remi Picquette        |      50.06 |           49.68 |        5 |           49.69 |      96.08 | Rob Simmons          |             80 |
+|             80 | Ultan Dillane         |      68.4  |           49.67 |        6 |           49.66 |      66.83 | Lucas Dessaigne      |             80 |
+|             54 | Matthias Haddad       |      42.86 |           50    |        7 |           49.83 |      91.02 | Peceli Yato Senibitu |             64 |
+|             80 | Judicael Cancoriet    |      39.35 |           49.67 |        8 |           49.61 |      57.34 | Caleb Timu           |             80 |
+|             70 | Tawera Kerr-Barlow    |     118.25 |           49.16 |        9 |           49.83 |      82.46 | Sebastien Bezy       |             73 |
+|             80 | Ihaia West            |      36.64 |           49.75 |       10 |           49.86 |      92.73 | Benjamin Urdapilleta |             80 |
+|             80 | Dillyn Leyds          |     104    |           48.6  |       11 |           49.61 |      48.81 | Joris Jurand         |             80 |
+|             80 | Jules Favre           |      71.89 |           49.67 |       12 |           50    |      46.65 | Leon Darricarrere    |             63 |
+|             80 | Jack Nowell           |     103.97 |           49.67 |       13 |           49.96 |      57.89 | Julien Heriteau      |             80 |
+|             70 | Teddy Thomas          |      93.69 |           49.69 |       14 |           50    |      76.41 | Bautista Delguy      |             80 |
+|             80 | Brice Dulin           |     122.8  |           48.55 |       15 |           49.61 |      75.22 | Alex Newsome         |             80 |
+|             26 | Georges-Henri Colombe |      25.06 |           49.87 |       16 |           49.93 |      49.61 | Daniel Bibi Biziwu   |             37 |
+|             26 | Archer Holz           |      39.69 |           49.93 |       17 |           49.93 |      61.82 | Cristian Ojovan      |             37 |
+|             26 | Oscar Jegou           |      42.48 |           49.76 |       18 |           49.69 |      37.25 | Etienne Fourcade     |             30 |
+|             13 | Billy Pollard         |      49.94 |           49.93 |       19 |           49.91 |      68.92 | Anthony Belleau      |             17 |
+|             10 | Teddy Iribaren        |      64.46 |           49.9  |       20 |           49.73 |      52.8  | Killian Tixeront     |             16 |
+|             10 | Nathan Bollengier     |      45.16 |           49.92 |       21 |           50    |      48.71 | Enzo Sanga           |              7 |
+|              6 | Thomas Ployet         |      44.46 |           49.97 |       22 |          nan    |     nan    | nan                  |            nan |
 

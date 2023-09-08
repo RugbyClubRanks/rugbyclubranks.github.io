@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title: US Bressane at Albi; 16-27  
+title: US Bressane at Albi; 16.0-27.0  
 date: 2023-09-01 18:00:00 -0500  
 categories: match review  
 ---
-# US Bressane at Albi; 16-27
+# US Bressane at Albi; 16.0-27.0
 
 # Club Level Predictions
 
@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Albi by 5.5
+## Prediction with Player Minutes: Albi by 25.5
 
 
-Albi by 1.5 on a neutral field
-## Prediction without Player Minutes: Albi by 9.4
+Albi by 21.5 on a neutral field
+## Prediction without Player Minutes: Albi by 43.0
 
 
-Albi by 5.4 on a neutral pitch
+Albi by 39.0 on a neutral pitch
 
 
 ## Scores over Time
@@ -47,73 +47,73 @@ Albi by 5.4 on a neutral pitch
 
 ![In Match Predictions](plots/recap_prob_2023-09-01-Albi-USBressane.png)
 
-There were 9 large changes in win probability in this match
+There were 11 large changes in win probability in this match
 
-|   Away Minutes | Away Player                |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player                 |   Home Minutes |
-|---------------:|:---------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------------|---------------:|
-|             59 | Vazha Kapanadze            |      62.99 |  930117           |        1 |  877920           |      85.68 | Antoine Soave               |             50 |
-|             37 | Arnaud Feltrin             |      75.78 |  863559           |        2 |  885911           |      82.56 | Reinach Venter              |             63 |
-|             67 | Atonio Ulutuipalelei       |      97.67 |  982865           |        3 |  968721           |      71.17 | Dimitri Tchapnga            |             50 |
-|             59 | Koen Bloemen               |      70.14 |       1.02106e+06 |        4 |  916514           |      35.37 | Mohsen Essid                |             80 |
-|             80 | Josh Peters                |      71.43 |  908522           |        5 |       1.02131e+06 |      72.45 | Jacques Jacobus Engelbrecht |             59 |
-|             74 | Thomas Déliance            |      72.18 |       1.01114e+06 |        6 |  668023           |      67.11 | Vincent Calas               |             80 |
-|             80 | Pierre Reynaud             |      71.19 |       1.02105e+06 |        7 |       1.0213e+06  |      75.37 | Simon Meka                  |             50 |
-|             80 | Joseph Penitito            |      86.86 |  974707           |        8 |       1.01151e+06 |      60.27 | Guillem Calmon              |             80 |
-|             80 | Robin Graulle              |      73.98 |  981185           |        9 |  770831           |      87.73 | Gilen Queheille             |             67 |
-|             80 | Frederik Johannes Zeilinga |      82.83 |       1.01753e+06 |       10 |  983259           |      60.56 | Théo Vidal                  |             80 |
-|             63 | Malcolm Bertschy           |      86.4  |       1.00767e+06 |       11 |       1.0214e+06  |      71.47 | Tim Giresse                 |             80 |
-|             80 | Benjamin Doy               |      56.86 |  917467           |       12 |       1.02131e+06 |      70.01 | Jarrod Poi                  |             68 |
-|             80 | Alexandre Badet            |      52.46 |  964733           |       13 |  973654           |     128.66 | Baptiste Couchinave         |             80 |
-|             80 | Thibaut Perrette           |      48.91 |  996129           |       14 |  978503           |      83.31 | Enzo Marzocca               |             80 |
-|             80 | Florent Massip             |     103.69 |  917047           |       15 |  966245           |      65.84 | Téo Dospital                |             76 |
-|             21 | Nicolas Lemaire            |      72.38 |       1.02105e+06 |       16 |     nan           |      71.3  | Dylan Jacquot               |             30 |
-|             43 | Louis Dasalmartini         |      56.97 |       1.01164e+06 |       17 |       1.00829e+06 |      68.25 | Romain Maurice              |             17 |
-|             13 | Erich de Jager             |      32.68 |  941408           |       18 |     nan           |      75.14 | Jean-Baptiste De Clercq     |             30 |
-|             21 | Maselino Paulino           |      71.75 |       1.02105e+06 |       19 |     nan           |      74.53 | Evrard Dion Oulai           |             21 |
-|              6 | Nail Ait Naceur            |      70.45 |       1.01162e+06 |       20 |       1.0213e+06  |      73.35 | Pierre Roussel              |             30 |
-|             17 | Élie De Fleurian           |      86.06 |  977655           |       21 |  964161           |      84.44 | Titouan Pouzoullic          |             13 |
-|            nan | nan                        |     nan    |     nan           |       22 |  997866           |      66.45 | James Haydn Tedder          |             12 |
-|            nan | nan                        |     nan    |     nan           |       23 |     nan           |      91.52 | Simon Hartmann              |              4 |
+|   Away Minutes | Away Player          |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player             |   Home Minutes |
+|---------------:|:---------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------|---------------:|
+|             59 | Vazha Kapanadze      |     288.87 |  945913           |        1 |  893283           |     179.95 | Antoine Soave           |             50 |
+|             37 | Arnaud Feltrin       |     173.82 |  878781           |        2 |  901429           |     214.78 | Reinach Venter          |             63 |
+|             67 | Atonio Ulutuipalelei |     260.1  |  999013           |        3 |  984771           |     307.22 | Dimitri Tchapnga        |             50 |
+|             59 | Louis Bruinsma       |      -9.6  |  983426           |        4 |  932129           |     516.48 | Mohsen Essid            |             80 |
+|             80 | Josh Peters          |     283.07 |  924098           |        5 |  642232           |      91.93 | Jacques Engelbrecht     |             59 |
+|             74 | Thomas Déliance      |     175.3  |       1.02717e+06 |        6 |  682236           |     142.82 | Vincent Calas           |             80 |
+|             80 | Pierre Reynaud       |     155.64 |  923916           |        7 |  989511           |     262.39 | Simon Meka              |             50 |
+|             80 | Joseph Penitito      |     254.7  |  990787           |        8 |       1.02754e+06 |     183.94 | Guillem Calmon          |             80 |
+|             80 | Robin Graulle        |     199.72 |  997301           |        9 |  785493           |     114.52 | Gilen Queheille         |             67 |
+|             80 | Fred Zeilinga        |      83.33 |  698225           |       10 |  999424           |     349.88 | Théo Vidal              |             80 |
+|             63 | Malcolm Bertschy     |     119.56 |       1.02386e+06 |       11 |  790704           |     205.19 | Tim Giresse             |             80 |
+|             80 | Benjamin Doy         |     178.01 |  933127           |       12 |  708450           |      92.54 | Jarrod Poi              |             68 |
+|             80 | Alexandre Badet      |     223.59 |  981026           |       13 |  989745           |     179.43 | Baptiste Couchinave     |             80 |
+|             80 | Thibaut Perrette     |     213.74 |       1.01246e+06 |       14 |  994608           |     302.06 | Enzo Marzocca           |             80 |
+|             80 | Florent Massip       |     166.35 |  932689           |       15 |  981960           |      21.6  | Téo Dospital            |             76 |
+|             21 | Nicolas Lemaire      |     215.88 |  916633           |       16 |  786774           |      77.22 | Dylan Jacquot           |             30 |
+|             43 | Louis Dasalmartini   |     146.15 |       1.02765e+06 |       17 |       1.02444e+06 |     207.02 | Romain Maurice          |             17 |
+|             13 | Erich de Jager       |     140.46 |  957373           |       18 |  806295           |      95.51 | Jean Baptiste De Clercq |             30 |
+|             21 | Maselino Paulino     |      88.56 |  540238           |       19 |  810411           |      86.05 | Dion Evrard Oulai       |             21 |
+|              6 | Nail Ait Naceur      |     161.65 |       1.02766e+06 |       20 |  607186           |     -40.1  | Pierre Roussel          |             30 |
+|             17 | Élie De Fleurian     |     233.16 |  993755           |       21 |  980200           |     218.46 | Titouan Pouzoullic      |             13 |
+|            nan | nan                  |     nan    |     nan           |       22 |       1.01409e+06 |     187.28 | James Haydn Tedder      |             12 |
+|            nan | nan                  |     nan    |     nan           |       23 |     nan           |     331.04 | Simon Hartmann          |              4 |
 
 
 # Player Level Predictions - Version 2
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Albi by 8.9
+## Prediction with Player Minutes: Albi by 5.4
 
 
-Albi by 4.6 on a neutral field
-## Prediction without Player Minutes: Albi by 9.3
+Albi by 1.0 on a neutral field
+## Prediction without Player Minutes: Albi by 5.7
 
 
-Albi by 4.9 on a neutral pitch
+Albi by 1.3 on a neutral pitch
 
 
 
-|   Away Minutes | Away Player                |   Away elo |   Away variance |   Number |   Home variance |   Home elo | Home Player                 |   Home Minutes |
-|---------------:|:---------------------------|-----------:|----------------:|---------:|----------------:|-----------:|:----------------------------|---------------:|
-|             59 | Vazha Kapanadze            |      45.17 |           49.93 |        1 |           49.92 |      65.91 | Antoine Soave               |             50 |
-|             37 | Arnaud Feltrin             |      43.03 |           49.93 |        2 |           49.86 |      34.97 | Reinach Venter              |             63 |
-|             67 | Atonio Ulutuipalelei       |      28.91 |           49.86 |        3 |           49.86 |      56.21 | Dimitri Tchapnga            |             50 |
-|             59 | Koen Bloemen               |      43.83 |           49.8  |        4 |           49.78 |      63.67 | Mohsen Essid                |             80 |
-|             80 | Josh Peters                |      34.06 |           49.93 |        5 |           49.86 |      43.42 | Jacques Jacobus Engelbrecht |             59 |
-|             74 | Thomas Déliance            |      48.65 |           49.84 |        6 |           49.78 |      47.26 | Vincent Calas               |             80 |
-|             80 | Pierre Reynaud             |      43.83 |           49.8  |        7 |           49.92 |      44.9  | Simon Meka                  |             50 |
-|             80 | Joseph Penitito            |      59.44 |           49.8  |        8 |           49.78 |      37.78 | Guillem Calmon              |             80 |
-|             80 | Robin Graulle              |      33.19 |           50    |        9 |           49.92 |      57.62 | Gilen Queheille             |             67 |
-|             80 | Frederik Johannes Zeilinga |      43.83 |           49.8  |       10 |           50    |      66.84 | Théo Vidal                  |             80 |
-|             63 | Malcolm Bertschy           |      49.41 |           50    |       11 |           50    |      46.65 | Tim Giresse                 |             80 |
-|             80 | Benjamin Doy               |      41.38 |           49.9  |       12 |           49.78 |      41.69 | Jarrod Poi                  |             68 |
-|             80 | Alexandre Badet            |      34.88 |           49.8  |       13 |           49.78 |      62.84 | Baptiste Couchinave         |             80 |
-|             80 | Thibaut Perrette           |      39.56 |           49.8  |       14 |           50    |      76.7  | Enzo Marzocca               |             80 |
-|             80 | Florent Massip             |      82.11 |           49.8  |       15 |           49.78 |      31.38 | Téo Dospital                |             76 |
-|             21 | Nicolas Lemaire            |      44.78 |           49.86 |       16 |           50    |      46.65 | Dylan Jacquot               |             30 |
-|             43 | Louis Dasalmartini         |      36.13 |           49.86 |       17 |           50    |      49.42 | Romain Maurice              |             17 |
-|             13 | Erich de Jager             |     -15.58 |           50    |       18 |           49.92 |      44.9  | Jean-Baptiste De Clercq     |             30 |
-|             21 | Maselino Paulino           |      44.78 |           49.86 |       19 |           49.92 |      44.9  | Evrard Dion Oulai           |             21 |
-|              6 | Nail Ait Naceur            |      43.07 |           49.96 |       20 |           49.86 |      43.42 | Pierre Roussel              |             30 |
-|             17 | Élie De Fleurian           |      33.11 |           49.8  |       21 |           49.86 |      46.51 | Titouan Pouzoullic          |             13 |
-|            nan | nan                        |     nan    |          nan    |       22 |           50    |      30.09 | James Haydn Tedder          |             12 |
-|            nan | nan                        |     nan    |          nan    |       23 |           50    |      52.43 | Simon Hartmann              |              4 |
+|   Away Minutes | Away Player          |   Away elo |   Away variance |   Number |   Home variance |   Home elo | Home Player             |   Home Minutes |
+|---------------:|:---------------------|-----------:|----------------:|---------:|----------------:|-----------:|:------------------------|---------------:|
+|             59 | Vazha Kapanadze      |      48.08 |           49.93 |        1 |           49.92 |      52.48 | Antoine Soave           |             50 |
+|             37 | Arnaud Feltrin       |      43.08 |           49.93 |        2 |           49.86 |      33.64 | Reinach Venter          |             63 |
+|             67 | Atonio Ulutuipalelei |      27.27 |           49.86 |        3 |           49.86 |      57.7  | Dimitri Tchapnga        |             50 |
+|             59 | Louis Bruinsma       |      28.23 |           49.79 |        4 |           49.78 |      65.17 | Mohsen Essid            |             80 |
+|             80 | Josh Peters          |      36.67 |           49.93 |        5 |           49.86 |      12.4  | Jacques Engelbrecht     |             59 |
+|             74 | Thomas Déliance      |      50.69 |           49.83 |        6 |           49.78 |      43.87 | Vincent Calas           |             80 |
+|             80 | Pierre Reynaud       |      44.41 |           49.79 |        7 |           49.92 |      49.96 | Simon Meka              |             50 |
+|             80 | Joseph Penitito      |      60.33 |           49.79 |        8 |           49.78 |      36.99 | Guillem Calmon          |             80 |
+|             80 | Robin Graulle        |      34.37 |           50    |        9 |           49.92 |      62.54 | Gilen Queheille         |             67 |
+|             80 | Fred Zeilinga        |      60.38 |           49.79 |       10 |           50    |      70.1  | Théo Vidal              |             80 |
+|             63 | Malcolm Bertschy     |      48.12 |           50    |       11 |           50    |      55.13 | Tim Giresse             |             80 |
+|             80 | Benjamin Doy         |      46.29 |           49.9  |       12 |           49.78 |      18.06 | Jarrod Poi              |             68 |
+|             80 | Alexandre Badet      |      28.86 |           49.79 |       13 |           49.78 |      65.28 | Baptiste Couchinave     |             80 |
+|             80 | Thibaut Perrette     |      33.84 |           49.79 |       14 |           50    |      57.87 | Enzo Marzocca           |             80 |
+|             80 | Florent Massip       |      60.99 |           49.79 |       15 |           49.78 |      -3.95 | Téo Dospital            |             76 |
+|             21 | Nicolas Lemaire      |      46.39 |           49.86 |       16 |           50    |      44.15 | Dylan Jacquot           |             30 |
+|             43 | Louis Dasalmartini   |      37.43 |           49.86 |       17 |           50    |      50.11 | Romain Maurice          |             17 |
+|             13 | Erich de Jager       |      31.05 |           50    |       18 |           49.92 |      49.36 | Jean Baptiste De Clercq |             30 |
+|             21 | Maselino Paulino     |     -10.05 |           49.86 |       19 |           49.92 |       6.56 | Dion Evrard Oulai       |             21 |
+|              6 | Nail Ait Naceur      |      46.09 |           49.96 |       20 |           49.86 |      11.34 | Pierre Roussel          |             30 |
+|             17 | Élie De Fleurian     |      32.77 |           49.79 |       21 |           49.86 |      47.69 | Titouan Pouzoullic      |             13 |
+|            nan | nan                  |     nan    |          nan    |       22 |           50    |      27.42 | James Haydn Tedder      |             12 |
+|            nan | nan                  |     nan    |          nan    |       23 |           50    |      49.1  | Simon Hartmann          |              4 |
 
