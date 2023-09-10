@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Périgueux by 53.2
+## Prediction with Player Minutes: Périgueux by 53.6
 
 
-Périgueux by 49.2 on a neutral field
-## Prediction without Player Minutes: Périgueux by 41.7
+Périgueux by 49.6 on a neutral field
+## Prediction without Player Minutes: Périgueux by 42.2
 
 
-Périgueux by 37.7 on a neutral pitch
+Périgueux by 38.2 on a neutral pitch
 
 
 ## Scores over Time
@@ -51,29 +51,29 @@ There were 2 large changes in win probability in this match
 
 |   Away Minutes | Away Player              |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player       |   Home Minutes |
 |---------------:|:-------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------|---------------:|
-|             27 | Zhorzhi (Jorji) Saldadze |     224.65 |            964686 |        1 |       1.03353e+06 |     193.94 | Thomas Vidal      |             57 |
-|             27 | Mohamed Khribache        |     115.94 |            618584 |        2 |  984936           |     338.4  | Lucas Marijon     |             67 |
-|             27 | Osman Dimen              |     304.03 |           1012193 |        3 |  899726           |     402.42 | Kalaveti Tawake   |             50 |
-|             80 | Morgan Eames             |      91.43 |            856739 |        4 |  965656           |     157.87 | Clement Lanen     |             80 |
-|             27 | Jonathan Kpoku           |     306.98 |            966881 |        5 |       1.0192e+06  |     159.67 | Jaco Willemse     |             41 |
-|             60 | Bynjamin Rabatel         |     249.06 |            984342 |        6 |  842936           |     199.2  | Hendri Storm      |             63 |
-|             80 | Theophile Cotte          |     118.22 |            637219 |        7 |  670192           |     108.83 | Afaesetiti Amosa  |             50 |
-|             53 | Poutasi Luafutu          |     131.52 |            353181 |        8 |       1.03353e+06 |     197.57 | Karl Lambert      |             80 |
-|             63 | Tomas Munilla lo Duca    |     195.95 |            949309 |        9 |  959020           |      79.44 | Nicolas Faltrept  |             67 |
-|             80 | Aviata Silago            |     140.33 |            863065 |       10 |       1.03352e+06 |     202.92 | Greg Hutley       |             53 |
-|             80 | Quentin Lefort           |      88.03 |            981876 |       11 |       1.03353e+06 |     199.74 | Vincent Fouillade |             80 |
-|             80 | Gaby Lovobalavu          |      46.97 |            317418 |       12 |  880108           |     147.39 | Fred Hickes       |             80 |
-|             80 | Brieuc Plessis-Couillaud |     168.16 |            808918 |       13 |       1.03352e+06 |     202.18 | Cyril Couturier   |             80 |
-|             48 | Makalea Foliaki          |     162.75 |            999367 |       14 |  799022           |     268.33 | Axel Muller       |             80 |
-|             80 | Nicolas Cachet           |     196.71 |            857880 |       15 |  730878           |     102.34 | Rory Scholes      |             80 |
-|             53 | Rémy Gaborit             |     233.46 |            980632 |       16 |     nan           |     118.11 | Damien Lavergne   |             23 |
-|             53 | Rossouw De Klerk         |     148.96 |            467375 |       17 |       1.00848e+06 |     336.48 | Anthony Pelmard   |             30 |
-|             53 | Killian Tripier          |     252.69 |            991788 |       18 |       1.03352e+06 |     197.18 | Mathieu Pace      |             39 |
-|             53 | Robin Gascou             |     188.05 |            992347 |       19 |     nan           |     197.06 | Nicolas Labattut  |             17 |
-|             20 | Matteo Broeders          |     262.06 |           1008456 |       20 |       1.03352e+06 |     195.27 | Madioke Konate    |             30 |
-|             27 | Théo Lepage              |     288.64 |            991589 |       21 |     nan           |     197.53 | Enzo Jaubert      |             13 |
-|             17 | Remi Bouet               |     196.65 |            621308 |       22 |     nan           |     196.61 | Gaëtan Chapon     |             13 |
-|             32 | Christopher Bosch        |     178.39 |            797235 |       23 |     nan           |     351.31 | Yann Caillat      |             27 |
+|             27 | Zhorzhi (Jorji) Saldadze |     224.65 |            964969 |        1 |       1.03399e+06 |     198.57 | Thomas Vidal      |             57 |
+|             27 | Mohamed Khribache        |     115.94 |            618621 |        2 |  985254           |     338.38 | Lucas Marijon     |             67 |
+|             27 | Osman Dimen              |     304.03 |           1012576 |        3 |  899911           |     402.4  | Kalaveti Tawake   |             50 |
+|             80 | Morgan Eames             |      91.43 |            856891 |        4 |  965939           |     157.84 | Clement Lanen     |             80 |
+|             27 | Jonathan Kpoku           |     306.98 |            967164 |        5 |       1.01959e+06 |     159.66 | Jaco Willemse     |             41 |
+|             60 | Bynjamin Rabatel         |     249.06 |            984659 |        6 |  843079           |     199.18 | Hendri Storm      |             63 |
+|             80 | Theophile Cotte          |     118.22 |            637262 |        7 |  670247           |     108.82 | Afaesetiti Amosa  |             50 |
+|             53 | Poutasi Luafutu          |     131.52 |            353183 |        8 |       1.034e+06   |     196.99 | Karl Lambert      |             80 |
+|             63 | Tomas Munilla lo Duca    |     195.95 |            949560 |        9 |  959286           |      79.41 | Nicolas Faltrept  |             67 |
+|             80 | Aviata Silago            |     140.33 |            863221 |       10 |       1.034e+06   |     201.48 | Greg Hutley       |             53 |
+|             80 | Quentin Lefort           |      88.03 |            982186 |       11 |       1.03399e+06 |     203.68 | Vincent Fouillade |             80 |
+|             80 | Gaby Lovobalavu          |      46.97 |            317420 |       12 |  880276           |     147.35 | Fred Hickes       |             80 |
+|             80 | Brieuc Plessis-Couillaud |     168.16 |            809042 |       13 |       1.034e+06   |     202.15 | Cyril Couturier   |             80 |
+|             48 | Makalea Foliaki          |     162.75 |            999712 |       14 |  799138           |     268.32 | Axel Muller       |             80 |
+|             80 | Nicolas Cachet           |     196.71 |            858034 |       15 |  730956           |     102.31 | Rory Scholes      |             80 |
+|             53 | Rémy Gaborit             |     233.46 |            980938 |       16 |     nan           |     118.11 | Damien Lavergne   |             23 |
+|             53 | Rossouw De Klerk         |     148.96 |            467391 |       17 |       1.00885e+06 |     336.47 | Anthony Pelmard   |             30 |
+|             53 | Killian Tripier          |     252.69 |            992120 |       18 |       1.034e+06   |     194.87 | Mathieu Pace      |             39 |
+|             53 | Robin Gascou             |     188.05 |            992680 |       19 |     nan           |     197.22 | Nicolas Labattut  |             17 |
+|             20 | Matteo Broeders          |     262.06 |           1008822 |       20 |       1.034e+06   |     194.66 | Madioke Konate    |             30 |
+|             27 | Théo Lepage              |     288.64 |            991920 |       21 |     nan           |     196.77 | Enzo Jaubert      |             13 |
+|             17 | Remi Bouet               |     196.65 |            621345 |       22 |     nan           |     197.69 | Gaëtan Chapon     |             13 |
+|             32 | Christopher Bosch        |     178.39 |            797350 |       23 |     nan           |     351.31 | Yann Caillat      |             27 |
 
 
 # Player Level Predictions - Version 2

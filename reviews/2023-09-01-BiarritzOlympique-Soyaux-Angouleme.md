@@ -51,29 +51,29 @@ There were 10 large changes in win probability in this match
 
 |   Away Minutes | Away Player            |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:-----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|---------------:|
-|             41 | Omar Odishvili         |      68.85 |            974271 |        1 |  972989           |     193.77 | Giorgi Nutsubidze   |             55 |
-|             40 | Patxi Bidart           |     223.67 |            991321 |        2 |  804452           |      66.05 | Bastien Soury       |             40 |
-|             40 | Omar Dahir             |     205.52 |            989573 |        3 |  896621           |      97.35 | Mohamed Haouas      |             55 |
-|             40 | William Greatbanks     |     136.39 |           1033592 |        4 |  940675           |     296.7  | Johnny Dyer         |             80 |
-|             80 | Matthew Dalton         |      59.12 |            918597 |        5 |  452716           |     102.9  | Charlie Matthews    |             49 |
-|             80 | Gautier Gibouin        |     134.34 |            468437 |        6 |  879283           |     104.58 | Charlie Francoz     |             80 |
-|             40 | Hubert Texier          |     268.39 |           1017343 |        7 |       1.02388e+06 |     162.46 | Thomas Hebert       |             49 |
-|             80 | Alexander Masibaka     |     136.7  |           1033591 |        8 |       1.02824e+06 |     107.32 | Temo Matiu          |             80 |
-|             40 | Alexis Levron          |      75.42 |           1009784 |        9 |       1.03337e+06 |     118.83 | Antoine Domercq     |             56 |
-|             80 | Corentin Glenat        |      68.97 |            944579 |       10 |  777208           |     222.69 | Chris Hilsenbeck    |             80 |
-|             56 | Pierre Lafitte         |     142.19 |            601589 |       11 |  592613           |      18.87 | Yohann Artru        |             80 |
-|             80 | Ledua Mau              |     102.4  |            810315 |       12 |  951637           |     125.73 | Francois Vergnaud   |             80 |
-|             80 | Maxime Laforgue        |     192.53 |            961660 |       13 |       1.01119e+06 |     123.97 | Joe Jonas           |             80 |
-|             51 | Eoghan Barrett         |     107.3  |            974234 |       14 |       1.02183e+06 |     116.92 | Baptiste Fariscot   |             80 |
-|             80 | Jules Dubecq           |     216.87 |           1012026 |       15 |  896029           |     157.79 | Gervais Cordin      |             64 |
-|             40 | Motu Matu'u            |      90.46 |            580730 |       16 |  863173           |     155.01 | Thomas Sauveterre   |             40 |
-|             40 | Ian Kitwanga           |     169.18 |           1023662 |       17 |  794728           |      95.61 | Johan Aliouat       |             31 |
-|             40 | Germain Burgaud        |     375.63 |            981385 |       18 |  609120           |      42.88 | Dave O'Callaghan    |             31 |
-|             40 | Seydou Diakité         |     248.43 |           1021594 |       19 |  942913           |     175.83 | Kevin Tougne        |             25 |
-|             40 | Manu Saubusse          |      96.43 |            402282 |       20 |  878047           |     110.48 | Zakaria El Fakir    |             25 |
-|             39 | Khatchik Vartanov      |      62.66 |            786901 |       21 |  981284           |     219.46 | Kerman Aurrekoetxea |             24 |
-|             24 | Ben Botica             |      90.77 |            509987 |       22 |  600280           |     102.2  | Ilian Perraux       |             16 |
-|             29 | Nasoni Naqiri Kunavore |      22.73 |            737597 |       23 |     nan           |     nan    | nan                 |            nan |
+|             41 | Omar Odishvili         |      68.85 |            974562 |        1 |  973277           |     193.77 | Giorgi Nutsubidze   |             55 |
+|             40 | Patxi Bidart           |     223.67 |            991652 |        2 |  804573           |      66.05 | Bastien Soury       |             40 |
+|             40 | Omar Dahir             |     205.52 |            989897 |        3 |  896802           |      97.35 | Mohamed Haouas      |             55 |
+|             40 | William Greatbanks     |     136.39 |           1034068 |        4 |  940914           |     296.7  | Johnny Dyer         |             80 |
+|             80 | Matthew Dalton         |      59.12 |            918806 |        5 |  452728           |     102.9  | Charlie Matthews    |             49 |
+|             80 | Gautier Gibouin        |     134.34 |            468453 |        6 |  879451           |     104.58 | Charlie Francoz     |             80 |
+|             40 | Hubert Texier          |     268.39 |           1017736 |        7 |       1.0243e+06  |     162.46 | Thomas Hebert       |             49 |
+|             80 | Alexander Masibaka     |     136.7  |           1034067 |        8 |       1.02867e+06 |     107.31 | Temo Matiu          |             80 |
+|             40 | Alexis Levron          |      75.42 |           1010154 |        9 |       1.03384e+06 |     118.56 | Antoine Domercq     |             56 |
+|             80 | Corentin Glenat        |      68.97 |            944825 |       10 |  777313           |     222.69 | Chris Hilsenbeck    |             80 |
+|             56 | Pierre Lafitte         |     142.19 |            601626 |       11 |  592648           |      18.87 | Yohann Artru        |             80 |
+|             80 | Ledua Mau              |     102.4  |            810440 |       12 |  951891           |     125.73 | Francois Vergnaud   |             80 |
+|             80 | Maxime Laforgue        |     192.53 |            961932 |       13 |       1.01157e+06 |     123.96 | Joe Jonas           |             80 |
+|             51 | Eoghan Barrett         |     107.3  |            974525 |       14 |       1.02223e+06 |     116.92 | Baptiste Fariscot   |             80 |
+|             80 | Jules Dubecq           |     216.87 |           1012409 |       15 |  896210           |     157.79 | Gervais Cordin      |             64 |
+|             40 | Motu Matu'u            |      90.46 |            580761 |       16 |  863329           |     155.01 | Thomas Sauveterre   |             40 |
+|             40 | Ian Kitwanga           |     169.18 |           1024071 |       17 |  794843           |      95.61 | Johan Aliouat       |             31 |
+|             40 | Germain Burgaud        |     375.63 |            981694 |       18 |  609157           |      42.88 | Dave O'Callaghan    |             31 |
+|             40 | Seydou Diakité         |     248.43 |           1021991 |       19 |  943156           |     175.83 | Kevin Tougne        |             25 |
+|             40 | Manu Saubusse          |      96.43 |            402288 |       20 |  878213           |     110.47 | Zakaria El Fakir    |             25 |
+|             39 | Khatchik Vartanov      |      62.66 |            787009 |       21 |  981592           |     219.46 | Kerman Aurrekoetxea |             24 |
+|             24 | Ben Botica             |      90.77 |            510009 |       22 |  600317           |     102.2  | Ilian Perraux       |             16 |
+|             29 | Nasoni Naqiri Kunavore |      22.73 |            737680 |       23 |     nan           |     nan    | nan                 |            nan |
 
 
 # Player Level Predictions - Version 2

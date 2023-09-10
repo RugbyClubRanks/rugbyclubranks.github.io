@@ -51,29 +51,29 @@ There were 5 large changes in win probability in this match
 
 |   Away Minutes | Away Player            |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player            |   Home Minutes |
 |---------------:|:-----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------------|---------------:|
-|             52 | Cameron Orr            |      81.95 |  815792           |        1 |  862581           |     110.11 | Ayden Johnstone        |             52 |
-|             31 | James O'Reilly         |      73.42 |  709857           |        2 |       1.03336e+06 |     103.64 | Sean Ralph             |             56 |
-|             68 | Siale Lauaki           |     111.28 |       1.03309e+06 |        3 |       1.00503e+06 |     107.72 | George Dyer            |             68 |
-|             80 | Dominic Bird           |      91.06 |  649845           |        4 |  800944           |     103.52 | James Tucker           |             80 |
-|             52 | Hugo Plummer           |     122.74 |       1.03311e+06 |        5 |  919507           |      88.24 | Hamilton Burr          |             80 |
-|             46 | Keelan Whitman         |     100.06 |       1.00407e+06 |        6 |       1.03336e+06 |     102.9  | Xavier Saifoloi        |             56 |
-|             80 | Du'Plessis Kirifi      |     189.33 |  895073           |        7 |  995563           |     129.5  | Joe Johnston           |             59 |
-|             80 | Peter Lakai            |     120.56 |       1.02321e+06 |        8 |  961817           |      94.1  | Simon Parker           |             80 |
-|             75 | Kemara Hauiti-Parapara |     101.11 |  890231           |        9 |  936347           |      78.24 | Xavier Roe             |             59 |
-|             80 | Aidan Morgan           |     111.7  |       1.00738e+06 |       10 |       1.02341e+06 |     106.48 | Taha Kemara            |             77 |
-|             46 | Isi Saumaki            |     106.73 |       1.03357e+06 |       11 |       1.01087e+06 |      73.67 | Daniel Sinkinson       |             80 |
-|             80 | Riley Higgins          |     136.68 |       1.02155e+06 |       12 |       1.03329e+06 |     101.19 | Austin Anderson        |             80 |
-|             80 | Billy Proctor          |     127.55 |  907381           |       13 |       1.02328e+06 |     107.9  | Tana Tuhakaraina       |             80 |
-|             80 | Losi Filipo            |      92.77 |  898365           |       14 |       1.03335e+06 |     107.68 | Cody Nordstrom         |             68 |
-|             80 | Ruben Love             |     127.92 |  996251           |       15 |       1.00493e+06 |      96.97 | Tepaea Cook-Savage     |             80 |
-|             49 | Penieli Poasa          |     117.51 |     nan           |       16 |  961939           |     102.88 | Ollie Norris           |             28 |
-|             34 | Sam Clarke             |     113.87 |       1.02293e+06 |       17 |       1.02305e+06 |     114.69 | Pita Anae Ah-Sue       |             24 |
-|             34 | Brad Shields           |     141.63 |  536341           |       18 |       1.03321e+06 |     100.63 | Malachi Wrampling-Alec |             24 |
-|             28 | Dominic Ropeti         |     105.04 |       1.03312e+06 |       19 |       1.00498e+06 |     136.25 | Cortez Ratima          |             21 |
-|             28 | Xavier Numia           |     132.63 |  933780           |       20 |       1.01084e+06 |     103.1  | Te Rama Reuben         |             21 |
-|             12 | PJ Sheck               |     105.8  |       1.00411e+06 |       21 |       1.00507e+06 |     149.91 | Liam Coombes-Fabling   |             12 |
-|              5 | Sam Howling            |     102.38 |     nan           |       22 |       1.01795e+06 |     115.02 | Solomone Tukuafu       |             12 |
-|            nan | nan                    |     nan    |     nan           |       23 |     nan           |     103.91 | Zinzan Hansen          |              3 |
+|             52 | Cameron Orr            |      81.98 |  815922           |        1 |  862737           |     110.11 | Ayden Johnstone        |             52 |
+|             31 | James O'Reilly         |      73.48 |  709924           |        2 |       1.03382e+06 |     104.15 | Sean Ralph             |             56 |
+|             68 | Siale Lauaki           |     110.46 |       1.03357e+06 |        3 |       1.00538e+06 |     107.69 | George Dyer            |             68 |
+|             80 | Dominic Bird           |      91.07 |  649891           |        4 |  801061           |     103.52 | James Tucker           |             80 |
+|             52 | Hugo Plummer           |     123.29 |       1.03354e+06 |        5 |  919720           |      88.22 | Hamilton Burr          |             80 |
+|             46 | Keelan Whitman         |     100.09 |       1.00442e+06 |        6 |       1.03383e+06 |     103.37 | Xavier Saifoloi        |             56 |
+|             80 | Du'Plessis Kirifi      |     189.36 |  895250           |        7 |  995903           |     129.5  | Joe Johnston           |             59 |
+|             80 | Peter Lakai            |     120.58 |       1.02361e+06 |        8 |  962089           |      94.09 | Simon Parker           |             80 |
+|             75 | Kemara Hauiti-Parapara |     101.12 |  890405           |        9 |  936578           |      78.23 | Xavier Roe             |             59 |
+|             80 | Aidan Morgan           |     111.69 |       1.00775e+06 |       10 |       1.02382e+06 |     106.46 | Taha Kemara            |             77 |
+|             46 | Isi Saumaki            |     107    |       1.03404e+06 |       11 |       1.01125e+06 |      73.67 | Daniel Sinkinson       |             80 |
+|             80 | Riley Higgins          |     136.72 |       1.02195e+06 |       12 |       1.03375e+06 |     101.21 | Austin Anderson        |             80 |
+|             80 | Billy Proctor          |     127.56 |  907576           |       13 |       1.02369e+06 |     107.9  | Tana Tuhakaraina       |             80 |
+|             80 | Losi Filipo            |      92.76 |  898547           |       14 |       1.03383e+06 |     106.94 | Cody Nordstrom         |             68 |
+|             80 | Ruben Love             |     127.95 |  996591           |       15 |       1.00528e+06 |      96.95 | Tepaea Cook-Savage     |             80 |
+|             49 | Penieli Poasa          |     116.63 |     nan           |       16 |  962211           |     102.88 | Ollie Norris           |             28 |
+|             34 | Sam Clarke             |     113.86 |       1.02333e+06 |       17 |       1.02345e+06 |     114.68 | Pita Anae Ah-Sue       |             24 |
+|             34 | Brad Shields           |     141.62 |  536366           |       18 |       1.03366e+06 |     101.07 | Malachi Wrampling-Alec |             24 |
+|             28 | Dominic Ropeti         |     106.8  |       1.03352e+06 |       19 |       1.00533e+06 |     136.24 | Cortez Ratima          |             21 |
+|             28 | Xavier Numia           |     132.63 |  934010           |       20 |       1.01122e+06 |     103.1  | Te Rama Reuben         |             21 |
+|             12 | PJ Sheck               |     105.81 |       1.00446e+06 |       21 |       1.00542e+06 |     149.9  | Liam Coombes-Fabling   |             12 |
+|              5 | Sam Howling            |     102.18 |     nan           |       22 |       1.01834e+06 |     115.02 | Solomone Tukuafu       |             12 |
+|            nan | nan                    |     nan    |     nan           |       23 |     nan           |     104.4  | Zinzan Hansen          |              3 |
 
 
 # Player Level Predictions - Version 2

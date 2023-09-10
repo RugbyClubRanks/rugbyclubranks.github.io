@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Canterbury by 5.2
+## Prediction with Player Minutes: Canterbury by 5.1
 
 
-Canterbury by 1.2 on a neutral field
-## Prediction without Player Minutes: Canterbury by 3.6
+Canterbury by 1.1 on a neutral field
+## Prediction without Player Minutes: Canterbury by 3.5
 
 
-Taranaki by 0.4 on a neutral pitch
+Taranaki by 0.5 on a neutral pitch
 
 
 ## Scores over Time
@@ -51,29 +51,29 @@ There were 2 large changes in win probability in this match
 
 |   Away Minutes | Away Player                   |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player       |   Home Minutes |
 |---------------:|:------------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------|---------------:|
-|             60 | Jared Proffit                 |      78.06 |  807328           |        1 |  584313           |      97.43 | Joe Moody         |             59 |
-|             50 | Bradley Slater                |     121.08 |  912739           |        2 |  590616           |     116.1  | Ben Funnell       |             34 |
-|             50 | Reuben O'Neill                |      93.43 |  801563           |        3 |       1.03313e+06 |     107.23 | Seb Calder        |             49 |
-|             56 | Jesse Parete                  |      86.4  |  761309           |        4 |  497438           |      80.83 | Luke Romano       |             49 |
-|             40 | Tom Franklin                  |     137.05 |  593711           |        5 |  994475           |     117.23 | Sam Darry         |             80 |
-|             80 | Pita Gus Sowakula             |     211.05 |  894612           |        6 |  845098           |     128.03 | Billy Harmon      |             58 |
-|             80 | Tom Florence                  |     104.68 |  907521           |        7 |  914404           |     146.31 | Tom Christie      |             80 |
-|             80 | Kaylum Boshier                |      85.07 |  962545           |        8 |  962188           |     139.72 | Cullen Grace      |             80 |
-|             60 | Adam Lennox                   |      90.2  |       1.02333e+06 |        9 |  716721           |      98.49 | Mitchell Drummond |             49 |
-|             80 | Jayson Potroz                 |     107.9  |  942227           |       10 |       1.01035e+06 |      98.24 | Alex Harford      |             77 |
-|             50 | Kini Naholo                   |     143.25 |  978747           |       11 |       1.00524e+06 |      95.7  | Isaiah Punivai    |             80 |
-|             60 | Teihorangi Walden             |      96.75 |  711399           |       12 |  963214           |      95.7  | Rameka Poihipi    |             80 |
-|             80 | Daniel Rona                   |     118.12 |       1.00395e+06 |       13 |  413339           |     135.76 | Ryan Crotty       |             60 |
-|             80 | Jacob Ratumaitavuki-Kneepkens |     156.77 |  999275           |       14 |  962318           |     113.27 | Dallas McLeod     |             80 |
-|             80 | Stephen Perofeta              |     122.9  |  843996           |       15 |  992930           |     128.95 | Chay Fihaki       |             80 |
-|             20 | Donald Brighouse              |      76.6  |  750134           |       16 |  735541           |     121.57 | Dan Lienert-Brown |             21 |
-|             30 | Michael Bent                  |     113.79 |  496415           |       17 |  845192           |     115.71 | Oli Jager         |             31 |
-|             30 | Ricky Riccitelli              |      99.22 |  803472           |       18 |       1.02143e+06 |     127.7  | George Bell       |             46 |
-|             24 | Heiden Bedwell-Curtis         |      69.8  |  701697           |       19 |       1.00531e+06 |     122.19 | Zach Gallagher    |             31 |
+|             60 | Jared Proffit                 |      78.07 |  807451           |        1 |  584345           |      97.44 | Joe Moody         |             59 |
+|             50 | Bradley Slater                |     121.09 |  912940           |        2 |  590650           |     116.1  | Ben Funnell       |             34 |
+|             50 | Reuben O'Neill                |      93.42 |  801681           |        3 |       1.03361e+06 |     106.22 | Seb Calder        |             49 |
+|             56 | Jesse Parete                  |      86.4  |  761405           |        4 |  497458           |      80.84 | Luke Romano       |             49 |
+|             40 | Tom Franklin                  |     137.05 |  593746           |        5 |  994813           |     117.24 | Sam Darry         |             80 |
+|             80 | Pita Gus Sowakula             |     211.04 |  894789           |        6 |  845243           |     128.04 | Billy Harmon      |             58 |
+|             80 | Tom Florence                  |     104.69 |  907716           |        7 |  914606           |     146.32 | Tom Christie      |             80 |
+|             80 | Kaylum Boshier                |      85.08 |  962821           |        8 |  962462           |     139.73 | Cullen Grace      |             80 |
+|             60 | Adam Lennox                   |      90.2  |       1.02374e+06 |        9 |  716793           |      98.5  | Mitchell Drummond |             49 |
+|             80 | Jayson Potroz                 |     107.9  |  942468           |       10 |       1.01072e+06 |      98.24 | Alex Harford      |             77 |
+|             50 | Kini Naholo                   |     143.25 |  979047           |       11 |       1.0056e+06  |      95.7  | Isaiah Punivai    |             80 |
+|             60 | Teihorangi Walden             |      96.76 |  711469           |       12 |  963493           |      95.7  | Rameka Poihipi    |             80 |
+|             80 | Daniel Rona                   |     118.11 |       1.0043e+06  |       13 |  413346           |     135.77 | Ryan Crotty       |             60 |
+|             80 | Jacob Ratumaitavuki-Kneepkens |     156.77 |  999620           |       14 |  962594           |     113.28 | Dallas McLeod     |             80 |
+|             80 | Stephen Perofeta              |     122.91 |  844140           |       15 |  993265           |     128.97 | Chay Fihaki       |             80 |
+|             20 | Donald Brighouse              |      76.6  |  750225           |       16 |  735622           |     121.57 | Dan Lienert-Brown |             21 |
+|             30 | Michael Bent                  |     113.8  |  496435           |       17 |  845339           |     115.71 | Oli Jager         |             31 |
+|             30 | Ricky Riccitelli              |      99.22 |  803592           |       18 |       1.02183e+06 |     127.71 | George Bell       |             46 |
+|             24 | Heiden Bedwell-Curtis         |      69.81 |  701760           |       19 |       1.00566e+06 |     122.19 | Zach Gallagher    |             31 |
 |             40 | Fiti Sa                       |     108.43 |     nan           |       20 |     nan           |     150.55 | Reed Prinsep      |             22 |
-|             20 | Liam Blyde                    |     117.23 |  963362           |       21 |  466715           |     110.51 | Willi Heinz       |             31 |
-|             30 | Vereniki Tikoisolomone        |     106.33 |       1.00392e+06 |       22 |     nan           |     109.69 | Jone Rova         |              3 |
-|             20 | Matt McKenzie                 |      86.54 |  962578           |       23 |  843625           |     104.29 | Solomon Alaimalo  |             20 |
+|             20 | Liam Blyde                    |     117.23 |  963641           |       21 |  466730           |     110.51 | Willi Heinz       |             31 |
+|             30 | Vereniki Tikoisolomone        |     106.33 |       1.00427e+06 |       22 |     nan           |     109.67 | Jone Rova         |              3 |
+|             20 | Matt McKenzie                 |      86.54 |  962854           |       23 |  843772           |     104.29 | Solomon Alaimalo  |             20 |
 
 
 # Player Level Predictions - Version 2

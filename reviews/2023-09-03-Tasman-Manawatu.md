@@ -32,10 +32,10 @@ Treating teams instead as an entity made up of the currently active players, I h
 
 
 Tasman by 29.9 on a neutral field
-## Prediction without Player Minutes: Tasman by 37.6
+## Prediction without Player Minutes: Tasman by 37.5
 
 
-Tasman by 33.6 on a neutral pitch
+Tasman by 33.5 on a neutral pitch
 
 
 ## Scores over Time
@@ -51,29 +51,29 @@ There were 3 large changes in win probability in this match
 
 |   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
-|             43 | Malakai Hala-Ngatai   |      99.96 |           1033438 |        1 |  914435           |      88.7  | Ryan Coxon           |             48 |
-|              4 | Leif Schwenke         |      89.58 |            931961 |        2 |  850203           |     166.54 | Feleti Kaitu'u       |             55 |
-|             48 | Flyn Yates            |      83.13 |           1003691 |        3 |       1.0078e+06  |      90.07 | Luca Inch            |             55 |
-|             54 | Ofa Tauatevalu        |      84.64 |           1005494 |        4 |  846211           |      95.1  | Quinten Strange      |             48 |
-|             80 | Johannes Momsen       |     176.63 |            957889 |        5 |  931400           |     132.09 | Michael Curry        |             80 |
-|             51 | TK Howden             |      99.84 |           1003855 |        6 |       1.00784e+06 |     120.97 | Max Hicks            |             80 |
-|             80 | Slade McDowall        |     117.7  |            907129 |        7 |       1.0048e+06  |     110.42 | Anton Segner         |             80 |
-|             80 | Brayden Iose          |      70.04 |            908772 |        8 |  858116           |     154.86 | Ethan Blackadder     |             54 |
-|             54 | Jordi Viljoen         |      90.75 |           1033104 |        9 |       1.0116e+06  |     122.32 | Noah Hotham          |             49 |
-|             80 | Brett Cameron         |     109.02 |            897816 |       10 |       1.03357e+06 |     111.2  | Shun Miyake          |             80 |
-|             80 | Epeli Waqaicece       |     105.4  |           1033582 |       11 |       1.02295e+06 |      95.92 | Willi Gualter        |             80 |
-|             53 | Jason Emery           |     108.62 |            660757 |       12 |  800766           |     134.5  | Alex Nankivell       |             80 |
-|             80 | Te Rangatira Waitokia |      46.2  |            908838 |       13 |  785575           |     137.82 | Levi Aumua           |             48 |
-|             80 | Drew Wild             |      90.68 |           1003762 |       14 |       1.00474e+06 |     116.14 | Timoci Tavatavanawai |             80 |
-|             80 | Beaudein Waaka        |      50.06 |            700877 |       15 |       1.00852e+06 |     132.97 | Macca Springer       |             54 |
-|             37 | Joseph Gavigan        |      83.55 |           1008587 |       16 |     nan           |     105.68 | Matt Graham-Williams |             32 |
-|             76 | Raymond Tuputupu      |      92.9  |           1033065 |       17 |  963072           |      96.9  | Samuel Matenga       |             25 |
-|             32 | Cole Keith            |      88.13 |            929302 |       18 |     nan           |     109.15 | Monu Moli            |             25 |
-|             29 | Terrell Peita         |     253.23 |           1015347 |       19 |     nan           |     105.78 | Angus Fletcher       |             32 |
-|             26 | Johnny Galloway       |      72.02 |            962690 |       20 |       1.03294e+06 |     105.69 | Seta Baker           |             26 |
-|             26 | John Poland           |      44.1  |            976793 |       21 |       1.00482e+06 |      90.42 | Louie Chapman        |             31 |
-|              3 | Kyle Brown            |      92.71 |           1033092 |       22 |       1.03357e+06 |     108.17 | Jack Gray            |             32 |
-|             24 | Isaiah Ravula         |     111.86 |           1033339 |       23 |  801500           |     105.52 | Tomasi Alosio        |             26 |
+|             43 | Malakai Hala-Ngatai   |      99.93 |           1033909 |        1 |  914637           |      88.69 | Ryan Coxon           |             48 |
+|              4 | Leif Schwenke         |      89.6  |            932186 |        2 |  850353           |     166.53 | Feleti Kaitu'u       |             55 |
+|             48 | Flyn Yates            |      83.17 |           1004038 |        3 |       1.00816e+06 |      90.06 | Luca Inch            |             55 |
+|             54 | Ofa Tauatevalu        |      84.7  |           1005852 |        4 |  846358           |      95.1  | Quinten Strange      |             48 |
+|             80 | Johannes Momsen       |     176.71 |            958154 |        5 |  931625           |     132.09 | Michael Curry        |             80 |
+|             51 | TK Howden             |      99.89 |           1004202 |        6 |       1.0082e+06  |     120.96 | Max Hicks            |             80 |
+|             80 | Slade McDowall        |     117.78 |            907324 |        7 |       1.00514e+06 |     110.41 | Anton Segner         |             80 |
+|             80 | Brayden Iose          |      70.12 |            908967 |        8 |  858270           |     154.86 | Ethan Blackadder     |             54 |
+|             54 | Jordi Viljoen         |      91.02 |           1033545 |        9 |       1.01198e+06 |     122.3  | Noah Hotham          |             49 |
+|             80 | Brett Cameron         |     109.05 |            897998 |       10 |       1.03405e+06 |     110.93 | Shun Miyake          |             80 |
+|             80 | Epeli Waqaicece       |     105.63 |           1034053 |       11 |       1.02335e+06 |      95.91 | Willi Gualter        |             80 |
+|             53 | Jason Emery           |     108.63 |            660811 |       12 |  800883           |     134.5  | Alex Nankivell       |             80 |
+|             80 | Te Rangatira Waitokia |      46.26 |            909033 |       13 |  785682           |     137.8  | Levi Aumua           |             48 |
+|             80 | Drew Wild             |      90.75 |           1004109 |       14 |       1.00509e+06 |     116.13 | Timoci Tavatavanawai |             80 |
+|             80 | Beaudein Waaka        |      50.09 |            700940 |       15 |       1.00889e+06 |     132.96 | Macca Springer       |             54 |
+|             37 | Joseph Gavigan        |      83.59 |           1008953 |       16 |     nan           |     105.69 | Matt Graham-Williams |             32 |
+|             76 | Raymond Tuputupu      |      91.99 |           1033550 |       17 |  963350           |      96.89 | Samuel Matenga       |             25 |
+|             32 | Cole Keith            |      88.16 |            929526 |       18 |     nan           |     109.15 | Monu Moli            |             25 |
+|             29 | Terrell Peita         |     253.23 |           1015737 |       19 |     nan           |     105.78 | Angus Fletcher       |             32 |
+|             26 | Johnny Galloway       |      72.02 |            962966 |       20 |       1.03337e+06 |     105.68 | Seta Baker           |             26 |
+|             26 | John Poland           |      44.1  |            977090 |       21 |       1.00517e+06 |      90.42 | Louie Chapman        |             31 |
+|              3 | Kyle Brown            |      91.92 |           1033558 |       22 |       1.03405e+06 |     108.43 | Jack Gray            |             32 |
+|             24 | Isaiah Ravula         |     111.84 |           1033807 |       23 |  801618           |     105.52 | Tomasi Alosio        |             26 |
 
 
 # Player Level Predictions - Version 2

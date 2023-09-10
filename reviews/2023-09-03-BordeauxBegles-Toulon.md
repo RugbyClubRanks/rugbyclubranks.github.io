@@ -51,29 +51,29 @@ There were 20 large changes in win probability in this match
 
 |   Away Minutes | Away Player         |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player               |   Home Minutes |
 |---------------:|:--------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------------|---------------:|
-|             44 | Dany Priso          |     127.75 |  776650           |        1 |            737116 |     131.09 | Lekso Kaulashvili         |             51 |
-|             44 | Christopher Tolofua |      99.83 |  621952           |        2 |            923359 |      95.09 | Maxime Lamothe            |             58 |
-|             44 | Emerick Setiano     |     111.23 |  876672           |        3 |            596232 |      94.54 | Vadim Cobilas             |             35 |
-|             44 | Mathieu Tanguy      |      84.91 |  776251           |        4 |            834927 |      88.02 | Thomas Jolmes             |             51 |
-|             44 | Alun Wyn Jones      |     134.13 |  260873           |        5 |            461846 |      81.49 | Kane Douglas              |             80 |
-|             44 | Yannick Youyoutte   |     113.3  |  985958           |        6 |            709342 |      69.88 | Mahamadou Diaby           |             80 |
-|             80 | Esteban Abadie      |     102.59 |  925202           |        7 |            959165 |     192.72 | Bastien Vergnes Taillefer |             51 |
-|             80 | Selevasio Tolofua   |     143.59 |  875972           |        8 |            335150 |      94.19 | Raphael Lakafia           |             80 |
-|             80 | Baptiste Serin      |     112.14 |  672094           |        9 |            791551 |     151.89 | Paul Abadie               |             51 |
-|             80 | Enzo Herve          |      89.59 |  910115           |       10 |           1011093 |      99.82 | Mateo Garcia              |             80 |
-|             80 | Rayan Rebbadj       |     229.18 |       1.014e+06   |       11 |            909236 |      58.53 | Pablo Uberti              |             80 |
-|             80 | Seta Tuicuvu        |      80.7  |  883613           |       12 |            423784 |      68.99 | Ben Tapuai                |             80 |
-|             67 | Maëlan Rabut        |     117.57 |  921872           |       13 |            368021 |      87.76 | Jean-Baptiste Dubie       |             56 |
-|             80 | Gaël Dréan          |      88.48 |       1.02687e+06 |       14 |            824799 |     135.8  | Romain Buros              |             80 |
-|             80 | Aymeric Luc         |     182.37 |  952669           |       15 |            775862 |     128.88 | Nans Ducuing              |             59 |
-|             36 | Kieran Brookes      |      86.49 |  439961           |       16 |            923075 |      19.94 | Carlu Sadie               |             45 |
-|             36 | Mattéo Le Corvec    |     125.83 |       1.0275e+06  |       17 |            953138 |     158.95 | Alexandre Ricard          |             29 |
-|             36 | Adrien Warion       |     190.35 |  975280           |       18 |            937011 |     187.69 | Ugo Boniface              |             29 |
-|             36 | Matthias Halagahu   |     112.56 |  986634           |       19 |            822309 |     138.82 | Antoine Miquel            |             29 |
-|             36 | Bruce Devaux        |     108.44 |  948646           |       20 |            760845 |     104.97 | Theo Nanette              |             29 |
-|             36 | Yanis Boulassel     |     110.77 |     nan           |       21 |           1029341 |      99.2  | Nicolas Depoortere        |             24 |
-|             13 | Noah Lolesio        |     140.6  |  960371           |       22 |            382065 |      73.87 | Clement Maynadier         |             22 |
-|            nan | nan                 |     nan    |     nan           |       23 |            627348 |     102.75 | Zack Holmes               |             21 |
+|             44 | Dany Priso          |     127.75 |  776754           |        1 |            737199 |     131.09 | Lekso Kaulashvili         |             51 |
+|             44 | Christopher Tolofua |      99.83 |  621989           |        2 |            923574 |      95.09 | Maxime Lamothe            |             58 |
+|             44 | Emerick Setiano     |     111.23 |  876838           |        3 |            596268 |      94.54 | Vadim Cobilas             |             35 |
+|             44 | Mathieu Tanguy      |      84.91 |  776355           |        4 |            835069 |      88.02 | Thomas Jolmes             |             51 |
+|             44 | Alun Wyn Jones      |     134.13 |  260874           |        5 |            461861 |      81.49 | Kane Douglas              |             80 |
+|             44 | Yannick Youyoutte   |     113.3  |  986280           |        6 |            709409 |      69.88 | Mahamadou Diaby           |             80 |
+|             80 | Esteban Abadie      |     102.59 |  925423           |        7 |            959431 |     192.72 | Bastien Vergnes Taillefer |             51 |
+|             80 | Selevasio Tolofua   |     143.59 |  876138           |        8 |            335152 |      94.19 | Raphael Lakafia           |             80 |
+|             80 | Baptiste Serin      |     112.13 |  672150           |        9 |            791663 |     151.89 | Paul Abadie               |             51 |
+|             80 | Enzo Herve          |      89.59 |  910311           |       10 |           1011471 |      99.82 | Mateo Garcia              |             80 |
+|             80 | Rayan Rebbadj       |     229.18 |       1.01439e+06 |       11 |            909432 |      58.53 | Pablo Uberti              |             80 |
+|             80 | Seta Tuicuvu        |      80.7  |  883784           |       12 |            423792 |      68.99 | Ben Tapuai                |             80 |
+|             67 | Maëlan Rabut        |     117.57 |  922087           |       13 |            368023 |      87.76 | Jean-Baptiste Dubie       |             56 |
+|             80 | Gaël Dréan          |      88.48 |       1.02729e+06 |       14 |            824933 |     135.8  | Romain Buros              |             80 |
+|             80 | Aymeric Luc         |     182.37 |  952925           |       15 |            775966 |     128.88 | Nans Ducuing              |             59 |
+|             36 | Kieran Brookes      |      86.49 |  439970           |       16 |            923290 |      19.94 | Carlu Sadie               |             45 |
+|             36 | Mattéo Le Corvec    |     125.83 |       1.02793e+06 |       17 |            953395 |     158.95 | Alexandre Ricard          |             29 |
+|             36 | Adrien Warion       |     190.35 |  975572           |       18 |            937243 |     187.69 | Ugo Boniface              |             29 |
+|             36 | Matthias Halagahu   |     112.56 |  986956           |       19 |            822442 |     138.82 | Antoine Miquel            |             29 |
+|             36 | Bruce Devaux        |     108.44 |  948897           |       20 |            760941 |     104.97 | Theo Nanette              |             29 |
+|             36 | Yanis Boulassel     |     110.77 |     nan           |       21 |           1029778 |      99.2  | Nicolas Depoortere        |             24 |
+|             13 | Noah Lolesio        |     140.6  |  960641           |       22 |            382069 |      73.87 | Clement Maynadier         |             22 |
+|            nan | nan                 |     nan    |     nan           |       23 |            627388 |     102.75 | Zack Holmes               |             21 |
 
 
 # Player Level Predictions - Version 2

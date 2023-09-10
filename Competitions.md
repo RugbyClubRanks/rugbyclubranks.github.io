@@ -196,7 +196,7 @@ key: page-recents
 ## Bunnings Warehouse NPC
 
 
-[2023](comp_files\Bunnings_Warehouse_NPC_2023) - Prediction Accuracy: 70.7% 
+[2023](comp_files\Bunnings_Warehouse_NPC_2023) - Prediction Accuracy: 68.2% 
 
 [2022](comp_files\Bunnings_Warehouse_NPC_2022) - Prediction Accuracy: 70.1% 
 
@@ -216,7 +216,7 @@ key: page-recents
 ## Nationale
 
 
-[2023](comp_files\Nationale_2023) - Prediction Accuracy: 78.6% 
+[2023](comp_files\Nationale_2023) - Prediction Accuracy: 70.6% 
 
 [2022](comp_files\Nationale_2022) - Prediction Accuracy: 68.8% 
 

@@ -51,30 +51,30 @@ There were 9 large changes in win probability in this match
 
 |   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player           |   Home Minutes |
 |---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------|---------------:|
-|             62 | Robert Rodgers        |      83.53 |  996442           |        1 |  667533           |     103.26 | Thomas Dubois         |             80 |
-|             62 | Robert Rodgers        |      83.53 |  996442           |        1 |  970815           |     183.04 | Guillaume Tartas      |             47 |
-|             58 | Lilian Djomboue       |     136.9  |       1.02852e+06 |        2 |  741447           |     103.92 | Andrew Ready          |             40 |
-|             62 | Giorgi Kartvelishvili |     201.88 |  962470           |        3 |  902758           |     137.3  | Marco Fepulea'i       |             47 |
-|             80 | Heath Backhouse       |     208.64 |  952044           |        4 |  786005           |     131.77 | Jean Thomas           |             80 |
-|             54 | Mehdi Slamani         |     143.03 |       1.03196e+06 |        5 |       1.03037e+06 |     138.51 | Louis Descoux         |             47 |
-|             69 | Hugo Huurman          |     132.55 |       1.02992e+06 |        6 |  540902           |     103.31 | Anthony Coletta       |             54 |
-|             80 | Beka Shvangiradze     |     135.11 |       1.02358e+06 |        7 |  963822           |     230.26 | Waël Ponpon           |             54 |
-|             54 | Yohann Gbizie         |     193.03 |  964828           |        8 |  673693           |      91.41 | Aldric Lescure        |             80 |
-|             62 | Mikheil Alania        |     209.18 |  986183           |        9 |  985879           |     228.45 | Ugo Seguela           |             56 |
-|             80 | Antoine Aucagne       |     206.22 |  992314           |       10 |  858779           |      53.99 | Brett Herron          |             80 |
-|             80 | Juun Pieters          |     137.02 |       1.03347e+06 |       11 |  837293           |     145.88 | Valentin Saurs        |             80 |
-|             80 | Elijah Niko           |     100.24 |  722399           |       12 |  817558           |     112.47 | Dorian Laborde        |             80 |
-|             80 | Hugo Bastard          |     130.68 |       1.02852e+06 |       13 |  633434           |     103.94 | Fabien Perrin         |             80 |
-|             80 | Dachi Papunashvili    |     150.6  |       1.02778e+06 |       14 |  893022           |     128.68 | Paul Pimienta         |             80 |
-|             76 | Anderson Neisen       |     137.2  |  710837           |       15 |       1.02352e+06 |     138.73 | Max Auriac            |             14 |
-|             26 | Latuka Maituku        |     -54.13 |  549577           |       16 |     nan           |     116.43 | Baptiste Serrano      |             66 |
-|             26 | Martial Rolland       |      40.24 |  955656           |       17 |  619997           |      29.11 | Thomas Larrieu        |             40 |
-|             22 | Ronan Loughnane       |     103.67 |       1.02824e+06 |       18 |       1.00953e+06 |     222.65 | Pierre-Samuel Pacheco |             33 |
-|             18 | Jean-Jacques Gymael   |     327.37 |  984785           |       19 |  961146           |     156.52 | Janse Roux            |             33 |
-|             18 | David Delarue         |     106.84 |  824626           |       20 |  893414           |     171.7  | Hugo Pirlet           |             33 |
-|             18 | Alex Dos Santos       |     117.32 |     nan           |       21 |  468033           |     118.5  | Rob Harley            |             26 |
-|             11 | Théo Cambon           |     192.68 |  988310           |       22 |     nan           |     127.23 | Paolo Parpagiola      |             26 |
-|              4 | Jules Margarit        |     110.93 |       1.02853e+06 |       23 |       1.02384e+06 |     130.36 | Mathis Galthié        |             24 |
+|             62 | Robert Rodgers        |      83.53 |  996782           |        1 |  971102           |     183.05 | Guillaume Tartas      |             47 |
+|             62 | Robert Rodgers        |      83.53 |  996782           |        1 |  667588           |     103.26 | Thomas Dubois         |             80 |
+|             58 | Lilian Djomboue       |     136.9  |       1.02896e+06 |        2 |  741533           |     103.92 | Andrew Ready          |             40 |
+|             62 | Giorgi Kartvelishvili |     201.88 |  962746           |        3 |  902947           |     137.3  | Marco Fepulea'i       |             47 |
+|             80 | Heath Backhouse       |     208.64 |  952298           |        4 |  786112           |     131.78 | Jean Thomas           |             80 |
+|             54 | Mehdi Slamani         |     143.03 |       1.0324e+06  |        5 |       1.03081e+06 |     138.51 | Louis Descoux         |             47 |
+|             69 | Hugo Huurman          |     132.55 |       1.03036e+06 |        6 |  540928           |     103.31 | Anthony Coletta       |             54 |
+|             80 | Beka Shvangiradze     |     135.11 |       1.02399e+06 |        7 |  964102           |     230.26 | Waël Ponpon           |             54 |
+|             54 | Yohann Gbizie         |     193.03 |  965111           |        8 |  673749           |      91.42 | Aldric Lescure        |             80 |
+|             62 | Mikheil Alania        |     209.18 |  986505           |        9 |  986200           |     228.45 | Ugo Seguela           |             56 |
+|             80 | Antoine Aucagne       |     206.22 |  992647           |       10 |  858933           |      53.99 | Brett Herron          |             80 |
+|             80 | Juun Pieters          |     137.02 |       1.03394e+06 |       11 |  837435           |     145.88 | Valentin Saurs        |             80 |
+|             80 | Elijah Niko           |     100.24 |  722475           |       12 |  817690           |     112.48 | Dorian Laborde        |             80 |
+|             80 | Hugo Bastard          |     130.68 |       1.02896e+06 |       13 |  633476           |     103.94 | Fabien Perrin         |             80 |
+|             80 | Dachi Papunashvili    |     150.6  |       1.02821e+06 |       14 |  893197           |     128.68 | Paul Pimienta         |             80 |
+|             76 | Anderson Neisen       |     137.2  |  710906           |       15 |       1.02393e+06 |     138.73 | Max Auriac            |             14 |
+|             26 | Latuka Maituku        |     -54.13 |  549605           |       16 |     nan           |     116.43 | Baptiste Serrano      |             66 |
+|             26 | Martial Rolland       |      40.24 |  955917           |       17 |  620034           |      29.12 | Thomas Larrieu        |             40 |
+|             22 | Ronan Loughnane       |     103.67 |       1.02867e+06 |       18 |       1.0099e+06  |     222.65 | Pierre-Samuel Pacheco |             33 |
+|             18 | Jean-Jacques Gymael   |     327.37 |  985103           |       19 |  961416           |     156.52 | Janse Roux            |             33 |
+|             18 | David Delarue         |     106.84 |  824760           |       20 |  893589           |     171.7  | Hugo Pirlet           |             33 |
+|             18 | Alex Dos Santos       |     117.32 |     nan           |       21 |  468049           |     118.5  | Rob Harley            |             26 |
+|             11 | Théo Cambon           |     192.68 |  988633           |       22 |     nan           |     127.23 | Paolo Parpagiola      |             26 |
+|              4 | Jules Margarit        |     110.93 |       1.02896e+06 |       23 |       1.02425e+06 |     130.36 | Mathis Galthié        |             24 |
 
 
 # Player Level Predictions - Version 2

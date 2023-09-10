@@ -51,30 +51,30 @@ There were 11 large changes in win probability in this match
 
 |   Away Minutes | Away Player            |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:-----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|---------------:|
-|             60 | Rodrigue Neti          |      68.23 |  763890           |        1 |            851312 |     154.74 | Tommy Raynaud       |             69 |
-|             60 | Guillaume Cramont      |      50.35 |  978003           |        2 |            989639 |     194.26 | Teddy Durand        |             51 |
-|             50 | Owen Franks            |      93.19 |  394773           |        3 |            837193 |      81.79 | Ali Oz              |             44 |
-|             80 | Piula Faasalele        |     139.22 |  442035           |        4 |            862083 |      89.48 | Kevin Kornath       |             48 |
-|             50 | Emmanuel Meafou        |     185.33 |  902902           |        5 |            893661 |     120.29 | Hugo Fabregue       |             48 |
-|             68 | Léo Banos              |     273.54 |  993360           |        6 |            825958 |      76.02 | Kevin Lebreton      |             80 |
-|             58 | Theo Ntamack           |     106.2  |       1.02624e+06 |        7 |            964785 |     226.49 | Loïc Credoz         |             80 |
-|             80 | Alexandre Roumat       |     116.17 |  828176           |        8 |            989486 |     220    | Hugo Hermet         |             80 |
-|             80 | Alexandre Roumat       |     116.17 |  828176           |        8 |            586020 |     126.58 | Rory Grice          |             80 |
-|             80 | Paul Graou             |     160.47 |  931671           |        9 |            792925 |     164.35 | Charlie Cassang     |             56 |
-|             78 | Billy Searle           |      70.85 |  867448           |       10 |            961737 |     188.07 | Jules Soulan        |             80 |
-|             80 | Arthur Retiere         |      96.9  |  831493           |       11 |            989599 |     201.43 | Enzo Reybier        |             66 |
-|             80 | Sofiane Guitoune       |      83.54 |  330074           |       12 |            863925 |     131.4  | Theo Millet         |             80 |
-|             80 | Paul Costes            |     143.06 |       1.02807e+06 |       13 |            621030 |     104.62 | Chris Farrell       |             66 |
-|             56 | Lucas Tauzin           |     105.31 |  911930           |       14 |            816814 |      20.92 | Gavin Stark         |             80 |
-|             80 | Matthis Lebel          |     127.93 |  940783           |       15 |            789367 |     124.46 | Darren Sweetnam     |             80 |
-|             30 | Joel Merkler           |     837.6  |       1.01494e+06 |       16 |            937304 |     200    | Thibault Berthaud   |             36 |
-|             30 | Clement Verge          |     129.71 |       1.02807e+06 |       17 |            710982 |      92.26 | Victor Lebas        |             32 |
-|             24 | Pierre-Louis Barassi   |      69.88 |  866856           |       18 |            862698 |     163.24 | Leva Fifita         |             32 |
-|             22 | Alban Placines         |      58.51 |  728589           |       19 |            586931 |     112.7  | Manu Leiataua       |             29 |
-|             20 | Ian Boubila            |      80.57 |       1.01104e+06 |       20 |            817674 |      99.66 | Jonathan Ruru       |             24 |
-|             12 | Mathis Castro Ferreira |     146.34 |     nan           |       21 |            838296 |     247.91 | Lucas Mensa         |             14 |
-|              2 | Valentin Delpy         |     212.56 |       1.02721e+06 |       22 |           1013350 |     222.31 | Justin Bouraux      |             14 |
-|             20 | David Ainu'u           |     179.89 |  940854           |       23 |            639898 |      61.68 | Irakli Mirtskhulava |             11 |
+|             60 | Rodrigue Neti          |      68.23 |  763989           |        1 |            851463 |     154.74 | Tommy Raynaud       |             69 |
+|             60 | Guillaume Cramont      |      50.35 |  978303           |        2 |            989963 |     194.26 | Teddy Durand        |             51 |
+|             50 | Owen Franks            |      93.19 |  394779           |        3 |            837335 |      81.79 | Ali Oz              |             44 |
+|             80 | Piula Faasalele        |     139.22 |  442045           |        4 |            862238 |      89.48 | Kevin Kornath       |             48 |
+|             50 | Emmanuel Meafou        |     185.33 |  903091           |        5 |            893836 |     120.29 | Hugo Fabregue       |             48 |
+|             68 | Léo Banos              |     273.54 |  993696           |        6 |            826093 |      76.02 | Kevin Lebreton      |             80 |
+|             58 | Theo Ntamack           |     106.2  |       1.02666e+06 |        7 |            965068 |     226.49 | Loïc Credoz         |             80 |
+|             80 | Alexandre Roumat       |     116.17 |  828313           |        8 |            586053 |     126.58 | Rory Grice          |             80 |
+|             80 | Alexandre Roumat       |     116.17 |  828313           |        8 |            989810 |     220    | Hugo Hermet         |             80 |
+|             80 | Paul Graou             |     160.47 |  931896           |        9 |            793038 |     164.35 | Charlie Cassang     |             56 |
+|             78 | Billy Searle           |      70.85 |  867607           |       10 |            962009 |     188.07 | Jules Soulan        |             80 |
+|             80 | Arthur Retiere         |      96.9  |  831634           |       11 |            989923 |     201.43 | Enzo Reybier        |             66 |
+|             80 | Sofiane Guitoune       |      83.54 |  330076           |       12 |            864082 |     131.4  | Theo Millet         |             80 |
+|             80 | Paul Costes            |     143.06 |       1.0285e+06  |       13 |            621067 |     104.62 | Chris Farrell       |             66 |
+|             56 | Lucas Tauzin           |     105.31 |  912131           |       14 |            816946 |      20.92 | Gavin Stark         |             80 |
+|             80 | Matthis Lebel          |     127.93 |  941022           |       15 |            789477 |     124.46 | Darren Sweetnam     |             80 |
+|             30 | Joel Merkler           |     837.6  |       1.01533e+06 |       16 |            937536 |     200    | Thibault Berthaud   |             36 |
+|             30 | Clement Verge          |     129.71 |       1.02851e+06 |       17 |            711051 |      92.26 | Victor Lebas        |             32 |
+|             24 | Pierre-Louis Barassi   |      69.88 |  867015           |       18 |            862854 |     163.23 | Leva Fifita         |             32 |
+|             22 | Alban Placines         |      58.51 |  728667           |       19 |            586964 |     112.7  | Manu Leiataua       |             29 |
+|             20 | Ian Boubila            |      80.57 |       1.01142e+06 |       20 |            817806 |      99.66 | Jonathan Ruru       |             24 |
+|             12 | Mathis Castro Ferreira |     146.34 |     nan           |       21 |            838438 |     247.91 | Lucas Mensa         |             14 |
+|              2 | Valentin Delpy         |     212.56 |       1.02763e+06 |       22 |           1013739 |     222.31 | Justin Bouraux      |             14 |
+|             20 | David Ainu'u           |     179.89 |  941093           |       23 |            639941 |      61.68 | Irakli Mirtskhulava |             11 |
 
 
 # Player Level Predictions - Version 2
@@ -101,8 +101,8 @@ Oyonnax by 2.0 on a neutral pitch
 |             50 | Emmanuel Meafou        |      58.43 |           48.93 |        5 |           49.8  |      55.54 | Hugo Fabregue       |             48 |
 |             68 | Léo Banos              |      67.52 |           49.73 |        6 |           49.71 |      55.91 | Kevin Lebreton      |             80 |
 |             58 | Theo Ntamack           |      43.95 |           49.76 |        7 |           49.6  |      61.12 | Loïc Credoz         |             80 |
-|             80 | Alexandre Roumat       |      80.47 |           48.61 |        8 |           50    |      45.97 | Hugo Hermet         |             80 |
 |             80 | Alexandre Roumat       |      80.47 |           48.61 |        8 |           49.58 |      71    | Rory Grice          |             80 |
+|             80 | Alexandre Roumat       |      80.47 |           48.61 |        8 |           50    |      45.97 | Hugo Hermet         |             80 |
 |             80 | Paul Graou             |      36.81 |           49.61 |        9 |           49.76 |      81.14 | Charlie Cassang     |             56 |
 |             78 | Billy Searle           |      12.64 |           49.87 |       10 |           49.62 |      73.66 | Jules Soulan        |             80 |
 |             80 | Arthur Retiere         |      74.76 |           49.85 |       11 |           49.8  |      56.49 | Enzo Reybier        |             66 |

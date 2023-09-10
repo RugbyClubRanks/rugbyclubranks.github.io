@@ -51,29 +51,29 @@ There were 13 large changes in win probability in this match
 
 |   Away Minutes | Away Player            |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player              |   Home Minutes |
 |---------------:|:-----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------------|---------------:|
-|             40 | Geoffrey Moise         |      73.66 |            724708 |        1 |  911521           |      91.73 | Fernandez Correa         |             56 |
-|             50 | Clément Esteriola      |     141.13 |            604931 |        2 |  984666           |     269.5  | Pierre Trassoudaine      |             66 |
-|             56 | Levi Tikoipau          |     170.64 |           1028755 |        3 |       1.01151e+06 |     244.86 | Tijde Visser             |             56 |
-|             80 | Bill Caffo             |     323.07 |            999512 |        4 |       1.01167e+06 |     249.5  | Saba Pesvianidze         |             80 |
-|             56 | Dennis Visser          |     188.03 |            842649 |        5 |       1.00696e+06 |     -66.22 | Koen Bloemen             |             50 |
-|             80 | Thibault Clauzade      |     222.12 |           1024468 |        6 |  964556           |     213.13 | Hugo Boutin              |             50 |
-|             50 | Baptiste Abescat-Leroy |     359.17 |            999452 |        7 |       1.03352e+06 |     152.7  | Marius Ruyffelaere       |             80 |
-|             80 | Charles Malet          |      16.07 |            667800 |        8 |  888155           |      55.16 | Abongile Nonkontwana     |             80 |
-|             50 | Josh Valentine         |      17    |             97269 |        9 |  679702           |      -9.72 | Benjamin Prier           |             56 |
-|             75 | Gilles Bosch           |      50.99 |            435823 |       10 |       1.02382e+06 |      94.41 | Tom Deleuze              |             80 |
-|             80 | Sébastien Giorgis      |     151.92 |            808799 |       11 |  980529           |     177.85 | Yanis Dit Robaglia       |             80 |
-|             52 | Peter Betham           |     123.51 |            557638 |       12 |  953605           |     152.3  | Victorien Jacomme        |             80 |
-|             80 | Pierre Nueno           |     101.93 |            920448 |       13 |       1.02381e+06 |     111.6  | Tom Cusson               |             66 |
-|             80 | Pierre-Hugo Ducom      |     289.26 |            984095 |       14 |  990338           |     291.57 | Alex Preira              |             80 |
-|             80 | Paul Auradou           |     274.35 |           1020069 |       15 |  971893           |     182.81 | Giorgi Gogoladze         |             80 |
-|             40 | Sylvain Abadie         |     109.8  |            613782 |       16 |       1.00914e+06 |     264.68 | Robin Poipy              |             24 |
-|             30 | Christophe David       |     155.26 |            783826 |       17 |       1.01019e+06 |     297.19 | Pierre-Alexandre Duclieu |             14 |
-|             24 | Théo Castinel          |     162.11 |            878552 |       18 |  895880           |     176.03 | Nicolas Ferrer           |             24 |
-|             24 | Mohamed Kbaier         |     211.7  |            932747 |       19 |       1.02437e+06 |     170.98 | Lilian Rousset           |             30 |
-|             30 | Luke Nakobukobua       |     173.33 |           1024488 |       20 |       1.02779e+06 |     222.55 | Tony Tissot              |             30 |
-|             30 | Pablo Barbaste         |     190.45 |           1027096 |       21 |  670597           |      19.67 | Lucas Rubio              |             24 |
-|              5 | Tom Chauvet            |     228.47 |            982553 |       22 |  980551           |     249.31 | Arthur Seigneuret        |             14 |
-|             28 | Théo Mias              |     225.64 |           1012083 |       23 |     nan           |     nan    | nan                      |            nan |
+|             40 | Geoffrey Moise         |      73.66 |            724784 |        1 |  911720           |      91.73 | Fernandez Correa         |             56 |
+|             50 | Clément Esteriola      |     141.14 |            604968 |        2 |  984983           |     269.51 | Pierre Trassoudaine      |             66 |
+|             56 | Levi Tikoipau          |     170.64 |           1029192 |        3 |       1.01189e+06 |     244.86 | Tijde Visser             |             56 |
+|             80 | Bill Caffo             |     323.07 |            999857 |        4 |       1.01205e+06 |     249.51 | Saba Pesvianidze         |             80 |
+|             56 | Dennis Visser          |     188.03 |            842792 |        5 |       1.00733e+06 |     -66.22 | Koen Bloemen             |             50 |
+|             80 | Thibault Clauzade      |     222.12 |           1024883 |        6 |  964837           |     213.13 | Hugo Boutin              |             50 |
+|             50 | Baptiste Abescat-Leroy |     359.17 |            999797 |        7 |       1.03398e+06 |     152.7  | Marius Ruyffelaere       |             80 |
+|             80 | Charles Malet          |      16.07 |            667855 |        8 |  888327           |      55.17 | Abongile Nonkontwana     |             80 |
+|             50 | Josh Valentine         |      17.01 |             97269 |        9 |  679758           |      -9.71 | Benjamin Prier           |             56 |
+|             75 | Gilles Bosch           |      51    |            435832 |       10 |       1.02424e+06 |      94.42 | Tom Deleuze              |             80 |
+|             80 | Sébastien Giorgis      |     151.92 |            808923 |       11 |  980834           |     177.86 | Yanis Dit Robaglia       |             80 |
+|             52 | Peter Betham           |     123.51 |            557666 |       12 |  953862           |     152.31 | Victorien Jacomme        |             80 |
+|             80 | Pierre Nueno           |     101.93 |            920662 |       13 |       1.02422e+06 |     111.6  | Tom Cusson               |             66 |
+|             80 | Pierre-Hugo Ducom      |     289.27 |            984411 |       14 |  990665           |     291.59 | Alex Preira              |             80 |
+|             80 | Paul Auradou           |     274.36 |           1020464 |       15 |  972181           |     182.82 | Giorgi Gogoladze         |             80 |
+|             40 | Sylvain Abadie         |     109.8  |            613819 |       16 |       1.00951e+06 |     264.68 | Robin Poipy              |             24 |
+|             30 | Christophe David       |     155.26 |            783932 |       17 |       1.01057e+06 |     297.19 | Pierre-Alexandre Duclieu |             14 |
+|             24 | Théo Castinel          |     162.11 |            878718 |       18 |  896062           |     176.04 | Nicolas Ferrer           |             24 |
+|             24 | Mohamed Kbaier         |     211.7  |            932977 |       19 |       1.02478e+06 |     170.99 | Lilian Rousset           |             30 |
+|             30 | Luke Nakobukobua       |     173.33 |           1024903 |       20 |       1.02822e+06 |     222.56 | Tony Tissot              |             30 |
+|             30 | Pablo Barbaste         |     190.45 |           1027519 |       21 |  670654           |      19.67 | Lucas Rubio              |             24 |
+|              5 | Tom Chauvet            |     228.47 |            982864 |       22 |  980858           |     249.32 | Arthur Seigneuret        |             14 |
+|             28 | Théo Mias              |     225.64 |           1012466 |       23 |     nan           |     nan    | nan                      |            nan |
 
 
 # Player Level Predictions - Version 2

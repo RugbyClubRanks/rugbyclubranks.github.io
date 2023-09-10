@@ -51,29 +51,29 @@ There were 21 large changes in win probability in this match
 
 |   Away Minutes | Away Player              |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player           |   Home Minutes |
 |---------------:|:-------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------|---------------:|
-|             51 | Kamaliele Tufele         |     147.29 |  857799           |        1 |  792267           |     224.48 | Julius Nostadt        |             59 |
-|             45 | Jonathan Maiau           |     113.74 |  987450           |        2 |  776112           |      71.71 | Loick Jammes          |             50 |
-|             58 | Cleopas Kundiona         |     319.73 |       1.0099e+06  |        3 |  933072           |     152.38 | Quentin Samaran       |             45 |
-|             80 | Christiaan van der Merwe |      27.23 |  911580           |        4 |  823562           |      44.18 | Theo Hannoyer         |             64 |
-|             47 | Will Skelton             |     121.49 |  694448           |        5 |  718334           |     118.13 | Josh Tyrell           |             80 |
-|             80 | Luka Plataret            |     153.16 |  958944           |        6 |  945369           |     216.23 | Guillaume Piazzoli    |             80 |
-|             60 | Hugues Bastide           |     110.77 |  896235           |        7 |  829648           |     189.82 | Bilel Taieb           |             80 |
-|             80 | Jason-Colin Fraser       |     118.25 |  745405           |        8 |  631103           |     104.7  | Teimana Harrison      |             53 |
-|             80 | Guillaume Manevy         |     215.99 |  979797           |        9 |  866238           |     120.83 | Arthur Coville        |             71 |
-|             80 | Shaun Reynolds           |      96.02 |  884022           |       10 |  193454           |     133.19 | Jimmy Gopperth        |             64 |
-|             53 | Thomas Zenon             |     139.79 |  958696           |       11 |  992833           |     188.81 | Nadir Bouhedjeur      |             80 |
-|             68 | Rudy Derrieux            |     138.48 |  893526           |       12 |  710715           |      57.92 | Louis Marrou          |             45 |
-|             80 | Leonard Paris            |     158.37 |  918519           |       13 |  784514           |     111.13 | Atila Septar          |             80 |
-|             80 | Christian Ambadiang      |     260.78 |  997923           |       14 |  955002           |     148.96 | Adrien Lapegue-Lafaye |             80 |
-|             80 | Kylian Jaminet           |      69.07 |  830986           |       15 |  880246           |     141.17 | Thomas Salles         |             80 |
-|             35 | Elia Elia                |      94.57 |  874649           |       16 |       1.02674e+06 |     122.35 | Paul Mallez           |             35 |
-|             33 | Kevin Noah               |     242.9  |       1.0072e+06  |       17 |  844972           |     103.13 | Kaveinga Finau        |             35 |
-|             29 | Jordan Seneca            |     118.98 |  678897           |       18 |  457164           |      61.77 | Jean Charles Orioli   |             30 |
-|             27 | Arthurs Barbier          |     252.51 |       1.02625e+06 |       19 |       1.02478e+06 |     113.84 | Malohi Suta           |             27 |
+|             51 | Kamaliele Tufele         |     147.29 |  857953           |        1 |  792379           |     224.48 | Julius Nostadt        |             59 |
+|             45 | Jonathan Maiau           |     113.74 |  987772           |        2 |  776216           |      71.71 | Loick Jammes          |             50 |
+|             58 | Cleopas Kundiona         |     319.73 |       1.01027e+06 |        3 |  933302           |     152.38 | Quentin Samaran       |             45 |
+|             80 | Christiaan van der Merwe |      27.23 |  911780           |        4 |  823695           |      44.18 | Theo Hannoyer         |             64 |
+|             47 | Will Skelton             |     121.49 |  694508           |        5 |  718408           |     118.13 | Josh Tyrell           |             80 |
+|             80 | Luka Plataret            |     153.16 |  959210           |        6 |  945616           |     216.23 | Guillaume Piazzoli    |             80 |
+|             60 | Hugues Bastide           |     110.77 |  896416           |        7 |  829787           |     189.82 | Bilel Taieb           |             80 |
+|             80 | Jason-Colin Fraser       |     118.25 |  745494           |        8 |  631144           |     104.7  | Teimana Harrison      |             53 |
+|             80 | Guillaume Manevy         |     215.99 |  980101           |        9 |  866397           |     120.83 | Arthur Coville        |             71 |
+|             80 | Shaun Reynolds           |      96.02 |  884193           |       10 |  193454           |     133.19 | Jimmy Gopperth        |             64 |
+|             53 | Thomas Zenon             |     139.79 |  958962           |       11 |  993166           |     188.81 | Nadir Bouhedjeur      |             80 |
+|             68 | Rudy Derrieux            |     138.48 |  893701           |       12 |  710784           |      57.92 | Louis Marrou          |             45 |
+|             80 | Leonard Paris            |     158.37 |  918728           |       13 |  784621           |     111.13 | Atila Septar          |             80 |
+|             80 | Christian Ambadiang      |     260.78 |  998263           |       14 |  955260           |     148.96 | Adrien Lapegue-Lafaye |             80 |
+|             80 | Kylian Jaminet           |      69.07 |  831127           |       15 |  880414           |     141.17 | Thomas Salles         |             80 |
+|             35 | Elia Elia                |      94.57 |  874815           |       16 |       1.02716e+06 |     122.35 | Paul Mallez           |             35 |
+|             33 | Kevin Noah               |     242.9  |       1.00756e+06 |       17 |  845116           |     103.13 | Kaveinga Finau        |             35 |
+|             29 | Jordan Seneca            |     118.98 |  678953           |       18 |  457178           |      61.77 | Jean Charles Orioli   |             30 |
+|             27 | Arthurs Barbier          |     252.51 |       1.02667e+06 |       19 |       1.0252e+06  |     113.84 | Malohi Suta           |             27 |
 |             22 | Farai Mudariki           |     598.5  |     nan           |       20 |     nan           |     286.07 | Nicolas Toth          |             21 |
-|             20 | Robin Dione              |     233.33 |       1.00954e+06 |       21 |       1.02856e+06 |     121.91 | Charly Gambini        |             16 |
-|             12 | Mattéo Faucher           |     200.08 |  987434           |       22 |  710092           |      59.49 | Enzo Selponi          |             16 |
-|            nan | nan                      |     nan    |     nan           |       23 |  767407           |      85.78 | Joris Cazenave        |              9 |
+|             20 | Robin Dione              |     233.33 |       1.00991e+06 |       21 |       1.02899e+06 |     121.91 | Charly Gambini        |             16 |
+|             12 | Mattéo Faucher           |     200.08 |  987756           |       22 |  710160           |      59.49 | Enzo Selponi          |             16 |
+|            nan | nan                      |     nan    |     nan           |       23 |  767506           |      85.78 | Joris Cazenave        |              9 |
 
 
 # Player Level Predictions - Version 2
