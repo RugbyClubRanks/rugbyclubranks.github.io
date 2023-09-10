@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Blagnac by 80.5
+## Prediction with Player Minutes: Blagnac by 80.4
 
 
-Blagnac by 84.5 on a neutral field
-## Prediction without Player Minutes: Blagnac by 40.1
+Blagnac by 84.4 on a neutral field
+## Prediction without Player Minutes: Blagnac by 40.0
 
 
-Blagnac by 44.1 on a neutral pitch
+Blagnac by 44.0 on a neutral pitch
 
 
 ## Scores over Time
@@ -51,29 +51,29 @@ There were 13 large changes in win probability in this match
 
 |   Away Minutes | Away Player         |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player            |   Home Minutes |
 |---------------:|:--------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------------|---------------:|
-|             49 | Alexis Decaux       |     218.87 |       1.02476e+06 |        1 |            997599 |     279.94 | Antoine Palisse        |             46 |
-|             49 | Antoine Marty-Rybak |     215.81 |       1.03401e+06 |        2 |            990711 |     265.36 | Florian Lamothe        |             49 |
-|             49 | Victor Delmas       |     138.96 |  721945           |        3 |           1027038 |     148.51 | Aleksi Tchitchiashvili |             46 |
-|             46 | Vincent Mutel       |     -29.79 |  362398           |        4 |           1033987 |     166.45 | Francis Rolland        |             80 |
-|             80 | Victor Fromenteze   |     379.44 |  982056           |        5 |           1033983 |     164.8  | Baptiste Peytavi       |             46 |
-|             80 | Simon Veyrac        |     328.8  |  985179           |        6 |            959369 |     216.39 | Alexis Armary          |             80 |
-|             46 | Alexandre Perrin    |     202.97 |       1.03078e+06 |        7 |            943740 |      93.94 | Dorian Bonnin          |             49 |
-|             80 | Mathieu Vachon      |     292.43 |  983373           |        8 |            914105 |     112.5  | Len Massyn             |             80 |
-|             80 | Bernard Reggiardo   |     222.68 |  972196           |        9 |            984737 |     260.05 | Thibaut Dulucq         |             74 |
-|             80 | Ugo Seunes          |     214.92 |  986646           |       10 |            832406 |      43.07 | Anthony Fuertes        |             80 |
-|             69 | Thibault Moleana    |     258.08 |       1.00693e+06 |       11 |           1030591 |     161.13 | Clement Latorre        |             80 |
-|             63 | Aurelien Labau      |     106.41 |  974633           |       12 |            793960 |     113.93 | William Pees           |             77 |
-|             80 | Lukas Doyhenard     |     175.51 |       1.02762e+06 |       13 |            987227 |     244.36 | Johan Paulet           |             80 |
-|             80 | Peïo Retegui        |     220.94 |       1.0341e+06  |       14 |            834755 |     188.27 | Jone Tuva              |             80 |
-|             49 | Antoine Renaud      |       6.16 |  691811           |       15 |            924225 |     289.76 | Mathieu Berbizier      |             21 |
-|             31 | Romain Fricou       |     221.44 |     nan           |       16 |            848454 |     172.12 | Johan Mees Erasmus     |             34 |
-|             31 | Gabin Villerouge    |     333.1  |  991449           |       17 |            964943 |     140.72 | Enzo Mondon            |             31 |
-|             31 | Benjamin Bertrand   |     215.56 |     nan           |       18 |            868635 |      69.27 | Toma Taufa             |             34 |
-|             34 | Nikita Bekov        |     280.89 |  991814           |       19 |            951837 |     134.81 | Jone Trevor Seuvou     |             34 |
-|             34 | Ianis Ponsole       |     468.94 |  981198           |       20 |            985502 |     212.79 | Léo Saint-Guilhem      |             31 |
-|             11 | Pierre Jeudi        |     216.22 |     nan           |       21 |            795061 |      34.91 | Anthony Meric          |              6 |
-|             17 | Clément Vareilles   |     257.5  |  998495           |       22 |            992563 |     259.03 | Julien Cantan          |              3 |
-|             31 | Gérald Augustin     |     391.59 |  981416           |       23 |           1012993 |     237.86 | Thibaut Trotta         |             59 |
+|             49 | Alexis Decaux       |     218.84 |           1024986 |        1 |            997771 |     279.95 | Antoine Palisse        |             46 |
+|             49 | Antoine Marty-Rybak |     213.61 |           1034315 |        2 |            990876 |     265.36 | Florian Lamothe        |             49 |
+|             49 | Victor Delmas       |     138.93 |            721977 |        3 |           1027273 |     148.52 | Aleksi Tchitchiashvili |             46 |
+|             46 | Vincent Mutel       |     -29.81 |            362403 |        4 |           1034249 |     166.46 | Francis Rolland        |             80 |
+|             80 | Victor Fromenteze   |     379.4  |            982205 |        5 |           1034252 |     164.01 | Baptiste Peytavi       |             46 |
+|             80 | Simon Veyrac        |     328.76 |            985336 |        6 |            959494 |     216.4  | Alexis Armary          |             80 |
+|             46 | Alexandre Perrin    |     202.97 |           1031025 |        7 |            943852 |      93.95 | Dorian Bonnin          |             49 |
+|             80 | Mathieu Vachon      |     292.4  |            983525 |        8 |            914207 |     112.5  | Len Massyn             |             80 |
+|             80 | Bernard Reggiardo   |     222.65 |            972333 |        9 |            984893 |     260.05 | Thibaut Dulucq         |             74 |
+|             80 | Ugo Seunes          |     214.89 |            986806 |       10 |            832472 |      43.08 | Anthony Fuertes        |             80 |
+|             69 | Thibault Moleana    |     258.06 |           1007128 |       11 |           1030836 |     161.14 | Clement Latorre        |             80 |
+|             63 | Aurelien Labau      |     106.37 |            974771 |       12 |            794007 |     113.94 | William Pees           |             77 |
+|             80 | Lukas Doyhenard     |     175.48 |           1027851 |       13 |            987389 |     244.36 | Johan Paulet           |             80 |
+|             80 | Peïo Retegui        |     221.44 |           1034394 |       14 |            834822 |     188.27 | Jone Tuva              |             80 |
+|             49 | Antoine Renaud      |       6.12 |            691835 |       15 |            924329 |     289.77 | Mathieu Berbizier      |             21 |
+|             31 | Romain Fricou       |     220.94 |           1034396 |       16 |            848533 |     172.13 | Johan Mees Erasmus     |             34 |
+|             31 | Gabin Villerouge    |     333.1  |            991618 |       17 |            965079 |     140.72 | Enzo Mondon            |             31 |
+|             31 | Benjamin Bertrand   |     216.57 |           1034311 |       18 |            868721 |      69.27 | Toma Taufa             |             34 |
+|             34 | Nikita Bekov        |     280.88 |            991983 |       19 |            951959 |     134.81 | Jone Trevor Seuvou     |             34 |
+|             34 | Ianis Ponsole       |     468.9  |            981346 |       20 |            985663 |     212.8  | Léo Saint-Guilhem      |             31 |
+|             11 | Pierre Jeudi        |     217.87 |           1034294 |       21 |            795108 |      34.92 | Anthony Meric          |              6 |
+|             17 | Clément Vareilles   |     257.5  |            998669 |       22 |            992735 |     259.04 | Julien Cantan          |              3 |
+|             31 | Gérald Augustin     |     391.57 |            981568 |       23 |           1013204 |     237.87 | Thibaut Trotta         |             59 |
 
 
 # Player Level Predictions - Version 2

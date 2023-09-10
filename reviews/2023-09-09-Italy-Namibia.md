@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Italy by 11.0
+## Prediction with Player Minutes: Italy by 10.7
 
 
-Italy by 7.0 on a neutral field
-## Prediction without Player Minutes: Italy by 8.8
+Italy by 6.7 on a neutral field
+## Prediction without Player Minutes: Italy by 8.5
 
 
-Italy by 4.8 on a neutral pitch
+Italy by 4.5 on a neutral pitch
 
 
 ## Scores over Time
@@ -51,29 +51,29 @@ There were 7 large changes in win probability in this match
 
 |   Away Minutes | Away Player              |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player       |   Home Minutes |
 |---------------:|:-------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------|---------------:|
-|             36 | Des Sethie               |      99.8  |  901357           |        1 |            949650 |      82.15 | Danilo Fischetti  |             57 |
-|             52 | Torsten van Jaarsveld    |     138.73 |       1.03413e+06 |        2 |            973995 |     133.96 | Giacomo Nicotera  |             50 |
-|             50 | Aranos Coetzee           |     109.93 |  495034           |        3 |            719874 |     127.67 | Simone Ferrari    |             50 |
-|             53 | Adriaan Ludick           |     281.55 |  929969           |        4 |            909321 |     158.1  | Dino Lamb         |             84 |
-|             84 | Tjiuee Uanivi            |     124.54 |       1.03346e+06 |        5 |            789898 |     122.28 | Federico Ruzza    |             53 |
-|             42 | Wian Conradie            |     213.47 |  816443           |        6 |            898670 |     110.81 | Sebastian Negri   |             48 |
-|             84 | Johan Retief             |     104.17 |  918057           |        7 |            942773 |     169.52 | Michele Lamaro    |             84 |
-|             84 | Richard Hardwick         |     111.51 |  761929           |        8 |            989501 |      92.13 | Lorenzo Cannone   |             84 |
-|             58 | Damian Stevens           |      89.22 |  815807           |        9 |            978037 |      71.88 | Stephen Varney    |             48 |
-|             84 | Tiaan Swanepoel          |     129.04 |  976226           |       10 |            967686 |     165.68 | Paolo Garbisi     |             84 |
-|             84 | JC Greyling              |     163.79 |  646351           |       11 |            760836 |     151.69 | Monty Ioane       |             84 |
-|             58 | Danco Burger             |     154.78 |       1.03344e+06 |       12 |            595436 |     145.28 | Luca Morisi       |             48 |
-|             84 | Johan Deysel             |     124.87 |       1.03344e+06 |       13 |            636648 |     238.59 | Juan Ignacio Brex |             62 |
-|             64 | Gerswin Mouton           |      94.6  |       1.02263e+06 |       14 |            955570 |     179.25 | Ange Capuozzo     |             84 |
-|             84 | Divan Rossouw            |      16.77 |  923774           |       15 |            714159 |     179.4  | Tommaso Allan     |             84 |
-|             36 | Louis van der Westhuizen |     182.58 |  815470           |       16 |            718222 |      84.56 | Hame Faiva        |             34 |
-|             48 | Jason Benade             |     175.07 |       1.02262e+06 |       17 |            979183 |     144.01 | Ivan Nemer        |             27 |
-|             34 | Casper Viviers           |     306.46 |  784193           |       18 |            825420 |      92.82 | Marco Riccioni    |             34 |
-|             31 | Tiaan de Klerk           |     131.43 |     nan           |       19 |            542740 |     116.68 | Dave Sisi         |             31 |
-|             38 | Prince Gaoseb            |     157.53 |  964131           |       20 |            975233 |      63.52 | Manuel Zuliani    |             36 |
-|             26 | Jacques Theron           |     145.07 |     nan           |       21 |            982970 |     249.39 | Martin Page-Relo  |             36 |
-|             20 | Andre van der Berg       |     150.54 |       1.02262e+06 |       22 |            818238 |     115.76 | Paolo Odogwu      |             22 |
-|             26 | Le Roux Malan            |     138.42 |     nan           |       23 |            919851 |      84.85 | Pierre Bruno      |             36 |
+|             36 | Des Sethie               |     100.04 |  901452           |        1 |            949767 |      82.15 | Danilo Fischetti  |             57 |
+|             52 | Torsten van Jaarsveld    |     138.55 |       1.03443e+06 |        2 |            974133 |     133.96 | Giacomo Nicotera  |             50 |
+|             50 | Aranos Coetzee           |     110.04 |  495045           |        3 |            719906 |     127.67 | Simone Ferrari    |             50 |
+|             53 | Adriaan Ludick           |     281.78 |  930074           |        4 |            909422 |     158.1  | Dino Lamb         |             84 |
+|             84 | Tjiuee Uanivi            |     125.75 |       1.03371e+06 |        5 |            789942 |     122.29 | Federico Ruzza    |             53 |
+|             42 | Wian Conradie            |     213.76 |  816502           |        6 |            898764 |     110.81 | Sebastian Negri   |             48 |
+|             84 | Johan Retief             |     104.33 |  918160           |        7 |            942884 |     169.52 | Michele Lamaro    |             84 |
+|             84 | Richard Hardwick         |     111.75 |  761968           |        8 |            989664 |      92.13 | Lorenzo Cannone   |             84 |
+|             58 | Damian Stevens           |      89.5  |  815866           |        9 |            978178 |      71.88 | Stephen Varney    |             48 |
+|             84 | Tiaan Swanepoel          |     129.33 |  976365           |       10 |            967822 |     165.68 | Paolo Garbisi     |             84 |
+|             84 | JC Greyling              |     164.08 |  646371           |       11 |            760874 |     151.7  | Monty Ioane       |             84 |
+|             58 | Danco Burger             |     154.4  |       1.03372e+06 |       12 |            595449 |     145.28 | Luca Morisi       |             48 |
+|             84 | Johan Deysel             |     125.04 |       1.03371e+06 |       13 |            636665 |     238.59 | Juan Ignacio Brex |             62 |
+|             64 | Gerswin Mouton           |      94.74 |       1.02285e+06 |       14 |            955690 |     179.25 | Ange Capuozzo     |             84 |
+|             84 | Divan Rossouw            |      17.06 |  923878           |       15 |            714191 |     179.4  | Tommaso Allan     |             84 |
+|             36 | Louis van der Westhuizen |     182.85 |  815529           |       16 |            718254 |      84.57 | Hame Faiva        |             34 |
+|             48 | Jason Benade             |     175.11 |       1.02284e+06 |       17 |            979325 |     144.01 | Ivan Nemer        |             27 |
+|             34 | Casper Viviers           |     306.61 |  784235           |       18 |            825483 |      92.82 | Marco Riccioni    |             34 |
+|             31 | Tiaan de Klerk           |     131.12 |     nan           |       19 |            542751 |     116.69 | Dave Sisi         |             31 |
+|             38 | Prince Gaoseb            |     157.58 |  964262           |       20 |            975371 |      63.52 | Manuel Zuliani    |             36 |
+|             26 | Jacques Theron           |     144.24 |     nan           |       21 |            983122 |     249.39 | Martin Page-Relo  |             36 |
+|             20 | Andre van der Berg       |     150.57 |       1.02284e+06 |       22 |            818297 |     115.76 | Paolo Odogwu      |             22 |
+|             26 | Le Roux Malan            |     138.87 |     nan           |       23 |            919954 |      84.85 | Pierre Bruno      |             36 |
 
 
 # Player Level Predictions - Version 2

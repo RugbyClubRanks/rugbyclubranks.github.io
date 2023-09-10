@@ -51,28 +51,28 @@ There were 11 large changes in win probability in this match
 
 |   Away Minutes | Away Player          |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player             |   Home Minutes |
 |---------------:|:---------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------|---------------:|
-|             59 | Vazha Kapanadze      |     288.87 |  946161           |        1 |  893458           |     179.95 | Antoine Soave           |             50 |
-|             37 | Arnaud Feltrin       |     173.82 |  878947           |        2 |  901618           |     214.78 | Reinach Venter          |             63 |
-|             67 | Atonio Ulutuipalelei |     260.1  |  999356           |        3 |  985089           |     307.22 | Dimitri Tchapnga        |             50 |
-|             59 | Louis Bruinsma       |      -9.6  |  983740           |        4 |  932354           |     516.48 | Mohsen Essid            |             80 |
-|             80 | Josh Peters          |     283.07 |  924317           |        5 |  642275           |      91.93 | Jacques Engelbrecht     |             59 |
-|             74 | Thomas Déliance      |     175.3  |       1.0276e+06  |        6 |  682292           |     142.82 | Vincent Calas           |             80 |
-|             80 | Pierre Reynaud       |     155.64 |  924134           |        7 |  989835           |     262.39 | Simon Meka              |             50 |
-|             80 | Joseph Penitito      |     254.7  |  991117           |        8 |       1.02796e+06 |     183.94 | Guillem Calmon          |             80 |
-|             80 | Robin Graulle        |     199.72 |  997641           |        9 |  785600           |     114.52 | Gilen Queheille         |             67 |
-|             80 | Fred Zeilinga        |      83.33 |  698286           |       10 |  999769           |     349.88 | Théo Vidal              |             80 |
-|             63 | Malcolm Bertschy     |     119.56 |       1.02427e+06 |       11 |  790816           |     205.19 | Tim Giresse             |             80 |
-|             80 | Benjamin Doy         |     178.01 |  933357           |       12 |  708516           |      92.54 | Jarrod Poi              |             68 |
-|             80 | Alexandre Badet      |     223.59 |  981334           |       13 |  990069           |     179.43 | Baptiste Couchinave     |             80 |
-|             80 | Thibaut Perrette     |     213.74 |       1.01285e+06 |       14 |  994946           |     302.06 | Enzo Marzocca           |             80 |
-|             80 | Florent Massip       |     166.35 |  932919           |       15 |  982270           |      21.6  | Téo Dospital            |             76 |
-|             21 | Nicolas Lemaire      |     215.88 |  916836           |       16 |  786882           |      77.22 | Dylan Jacquot           |             30 |
-|             43 | Louis Dasalmartini   |     146.15 |       1.02808e+06 |       17 |       1.02486e+06 |     207.02 | Romain Maurice          |             17 |
-|             13 | Erich de Jager       |     140.46 |  957640           |       18 |  806418           |      95.51 | Jean Baptiste De Clercq |             30 |
-|             21 | Maselino Paulino     |      88.56 |  540263           |       19 |  810536           |      86.05 | Dion Evrard Oulai       |             21 |
-|              6 | Nail Ait Naceur      |     161.65 |       1.02809e+06 |       20 |  607223           |     -40.1  | Pierre Roussel          |             30 |
-|             17 | Élie De Fleurian     |     233.16 |  994093           |       21 |  980504           |     218.46 | Titouan Pouzoullic      |             13 |
-|            nan | nan                  |     nan    |     nan           |       22 |       1.01448e+06 |     187.28 | James Haydn Tedder      |             12 |
+|             59 | Vazha Kapanadze      |     288.87 |  946274           |        1 |  893549           |     179.95 | Antoine Soave           |             50 |
+|             37 | Arnaud Feltrin       |     173.82 |  879034           |        2 |  901713           |     214.78 | Reinach Venter          |             63 |
+|             67 | Atonio Ulutuipalelei |     260.1  |  999532           |        3 |  985245           |     307.22 | Dimitri Tchapnga        |             50 |
+|             59 | Louis Bruinsma       |      -9.6  |  983893           |        4 |  932460           |     516.48 | Mohsen Essid            |             80 |
+|             80 | Josh Peters          |     283.07 |  924421           |        5 |  642295           |      91.93 | Jacques Engelbrecht     |             59 |
+|             74 | Thomas Déliance      |     175.3  |       1.02783e+06 |        6 |  682316           |     142.82 | Vincent Calas           |             80 |
+|             80 | Pierre Reynaud       |     155.64 |  924238           |        7 |  989999           |     262.39 | Simon Meka              |             50 |
+|             80 | Joseph Penitito      |     254.7  |  991282           |        8 |       1.0282e+06  |     183.94 | Guillem Calmon          |             80 |
+|             80 | Robin Graulle        |     199.72 |  997813           |        9 |  785643           |     114.52 | Gilen Queheille         |             67 |
+|             80 | Fred Zeilinga        |      83.33 |  698310           |       10 |  999948           |     349.88 | Théo Vidal              |             80 |
+|             63 | Malcolm Bertschy     |     119.56 |       1.0245e+06  |       11 |  790862           |     205.19 | Tim Giresse             |             80 |
+|             80 | Benjamin Doy         |     178.01 |  933465           |       12 |  708546           |      92.54 | Jarrod Poi              |             68 |
+|             80 | Alexandre Badet      |     223.59 |  981481           |       13 |  990234           |     179.43 | Baptiste Couchinave     |             80 |
+|             80 | Thibaut Perrette     |     213.74 |       1.01306e+06 |       14 |  995118           |     302.06 | Enzo Marzocca           |             80 |
+|             80 | Florent Massip       |     166.35 |  933025           |       15 |  982421           |      21.6  | Téo Dospital            |             76 |
+|             21 | Nicolas Lemaire      |     215.88 |  916939           |       16 |  786926           |      77.22 | Dylan Jacquot           |             30 |
+|             43 | Louis Dasalmartini   |     146.15 |       1.02832e+06 |       17 |       1.02509e+06 |     207.02 | Romain Maurice          |             17 |
+|             13 | Erich de Jager       |     140.46 |  957763           |       18 |  806476           |      95.51 | Jean Baptiste De Clercq |             30 |
+|             21 | Maselino Paulino     |      88.56 |  540274           |       19 |  810594           |      86.05 | Dion Evrard Oulai       |             21 |
+|              6 | Nail Ait Naceur      |     161.65 |       1.02832e+06 |       20 |  607236           |     -40.1  | Pierre Roussel          |             30 |
+|             17 | Élie De Fleurian     |     233.16 |  994264           |       21 |  980646           |     218.46 | Titouan Pouzoullic      |             13 |
+|            nan | nan                  |     nan    |     nan           |       22 |       1.01469e+06 |     187.28 | James Haydn Tedder      |             12 |
 |            nan | nan                  |     nan    |     nan           |       23 |     nan           |     331.04 | Simon Hartmann          |              4 |
 
 

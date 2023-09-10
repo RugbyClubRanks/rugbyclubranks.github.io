@@ -51,29 +51,29 @@ There were 11 large changes in win probability in this match
 
 |   Away Minutes | Away Player         |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:--------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|---------------:|
-|             67 | Pouri Rakete-Stones |     105.6  |  895566           |        1 |            962261 |     116.63 | Rob Cobb            |             49 |
-|             74 | Tyrone Thompson     |     101.22 |       1.00628e+06 |        2 |            706198 |     117.29 | Matt Moulds         |             67 |
-|             67 | Joel Hintz          |      91.33 |  932461           |        3 |           1033603 |     101.73 | Remsy Lemisio       |             40 |
-|             54 | Frank Lochore       |      94.32 |       1.03351e+06 |        4 |            906408 |      91.8  | Sam Caird           |             67 |
-|             80 | Tom Parsons         |     120.34 |  667166           |        5 |            860523 |      92.33 | Liam Hallam-Eames   |             80 |
-|             80 | Marino Mikaele-Tu'u |     137.47 |  844508           |        6 |           1033933 |      99.45 | Rory Woods          |             49 |
-|             63 | Josh Kaifa          |     103.45 |  847115           |        7 |           1008128 |     103.64 | Jonah Mau'u         |             80 |
-|             80 | Devan Flanders      |     129.46 |  932791           |        8 |           1004386 |      98.24 | Rob Rush            |             80 |
-|             63 | Folau Fakatava      |      95.94 |  932683           |        9 |            803116 |      95.56 | Sam Nock            |             49 |
-|             80 | Lincoln McClutchie  |      86.49 |  940244           |       10 |            962128 |     121.82 | Rivez Reihana       |             63 |
-|             80 | Ollie Sapsford      |      93.7  |  962325           |       11 |           1005911 |     116.67 | Heremaia Murray     |             80 |
-|             72 | Stacey Ili          |     109.42 |  807598           |       12 |            754157 |     147.6  | Jack Goodhue        |             73 |
-|             67 | Nick Grigg          |     111.18 |  830548           |       13 |            843492 |      83.98 | Tamati Tua          |             80 |
-|             80 | Paula Balekana      |     158.31 |  905136           |       14 |           1034059 |     106.96 | Tama Anderson       |             80 |
-|             80 | Harry Godfrey       |     100.57 |       1.02379e+06 |       15 |            962902 |     127.49 | Joshua Moorby       |             80 |
-|             26 | Geoff Cridge        |     106.15 |  762914           |       16 |            839681 |     281.4  | Nelson Rebolo       |             40 |
-|             17 | Sam Wye             |     101.9  |     nan           |       17 |            894644 |     110.6  | Lisati Milo-Harris  |             31 |
-|             17 | Patrick Tuifua      |     109.01 |       1.03369e+06 |       18 |            810896 |     104.75 | Matt Polwart-Matich |             31 |
-|             13 | Kienan Higgins      |      95.19 |     nan           |       19 |            849620 |     120.67 | Jarred Adams        |             31 |
-|             13 | Kianu Kereru-Symes  |      98    |  937835           |       20 |            703812 |      88.43 | Daniel Hawkins      |             17 |
-|             13 | Bo Abra             |     175.36 |     nan           |       21 |            752537 |      90.39 | Jordan Olsen        |             13 |
-|              8 | Lolagi Visinia      |      87.23 |  667403           |       22 |            803127 |      81.39 | Sean Sweetman       |             13 |
-|              6 | Hisamitsu Shimada   |     309.32 |       1.02937e+06 |       23 |            407703 |      85.21 | Rene Ranger         |              7 |
+|             67 | Pouri Rakete-Stones |     105.59 |  895658           |        1 |            962387 |     116.63 | Rob Cobb            |             49 |
+|             74 | Tyrone Thompson     |     101.22 |       1.00647e+06 |        2 |            706226 |     117.29 | Matt Moulds         |             67 |
+|             67 | Joel Hintz          |      91.3  |  932567           |        3 |           1033852 |     101.96 | Remsy Lemisio       |             40 |
+|             54 | Frank Lochore       |      94.52 |       1.03375e+06 |        4 |            906504 |      91.81 | Sam Caird           |             67 |
+|             80 | Tom Parsons         |     120.33 |  667186           |        5 |            860604 |      92.31 | Liam Hallam-Eames   |             80 |
+|             80 | Marino Mikaele-Tu'u |     137.44 |  844579           |        6 |           1034193 |      99.46 | Rory Woods          |             49 |
+|             63 | Josh Kaifa          |     103.42 |  847188           |        7 |           1008326 |     103.64 | Jonah Mau'u         |             80 |
+|             80 | Devan Flanders      |     129.43 |  932897           |        8 |           1004572 |      98.24 | Rob Rush            |             80 |
+|             63 | Folau Fakatava      |      95.94 |  932789           |        9 |            803170 |      95.56 | Sam Nock            |             49 |
+|             80 | Lincoln McClutchie  |      86.46 |  940353           |       10 |            962254 |     121.82 | Rivez Reihana       |             63 |
+|             80 | Ollie Sapsford      |      93.68 |  962451           |       11 |           1006105 |     116.68 | Heremaia Murray     |             80 |
+|             72 | Stacey Ili          |     109.42 |  807655           |       12 |            754194 |     147.59 | Jack Goodhue        |             73 |
+|             67 | Nick Grigg          |     111.18 |  830611           |       13 |            843562 |      83.98 | Tamati Tua          |             80 |
+|             80 | Paula Balekana      |     158.31 |  905231           |       14 |           1034346 |     106.98 | Tama Anderson       |             80 |
+|             80 | Harry Godfrey       |     100.54 |       1.02401e+06 |       15 |            963031 |     127.5  | Joshua Moorby       |             80 |
+|             26 | Geoff Cridge        |     106.16 |  762954           |       16 |            839748 |     281.4  | Nelson Rebolo       |             40 |
+|             17 | Sam Wye             |     101.89 |     nan           |       17 |            894735 |     110.6  | Lisati Milo-Harris  |             31 |
+|             17 | Patrick Tuifua      |     109    |       1.03394e+06 |       18 |            810955 |     104.75 | Matt Polwart-Matich |             31 |
+|             13 | Kienan Higgins      |      95.19 |     nan           |       19 |            849697 |     120.67 | Jarred Adams        |             31 |
+|             13 | Kianu Kereru-Symes  |      97.99 |  937944           |       20 |            703839 |      88.43 | Daniel Hawkins      |             17 |
+|             13 | Bo Abra             |     175.36 |     nan           |       21 |            752574 |      90.39 | Jordan Olsen        |             13 |
+|              8 | Lolagi Visinia      |      87.23 |  667423           |       22 |            803181 |      81.39 | Sean Sweetman       |             13 |
+|              6 | Hisamitsu Shimada   |     309.32 |       1.02961e+06 |       23 |            407709 |      85.2  | Rene Ranger         |              7 |
 
 
 # Player Level Predictions - Version 2

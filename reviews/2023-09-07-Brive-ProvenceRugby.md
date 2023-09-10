@@ -51,29 +51,29 @@ There were 6 large changes in win probability in this match
 
 |   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player             |   Home Minutes |
 |---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------------|---------------:|
-|             47 | Thomas Vernet         |     214.37 |            940176 |        1 |            928030 |     122.29 | Daniel Brennan          |             40 |
-|             47 | Lucas Martin          |     298.8  |            999378 |        2 |            985994 |     199.3  | Issam Hamel             |             56 |
-|             47 | Paul Mallez           |     127    |           1027158 |        3 |            583749 |     115.26 | Marcel van der Merwe    |             56 |
-|             51 | Jérôme Dufour         |     224.27 |            959625 |        4 |            910219 |     108.87 | Retief Marais           |             50 |
-|             80 | Clément Chartier      |      90.32 |            784348 |        5 |            406247 |     105.45 | Sitaleki Timani         |             12 |
-|             51 | Guillaume Piazzoli    |     226.87 |            945616 |        6 |           1020447 |     239.02 | Sasha Gue               |             80 |
-|             80 | Jessy Jegerlehner     |      90.31 |            911862 |        7 |            675143 |     155.63 | Ross Moriarty           |             80 |
-|             80 | Malohi Suta           |     117.43 |           1025202 |        8 |            885508 |     121.09 | Rahboni Warren-Vosayaco |             80 |
-|             53 | Joris Cazenave        |      86.97 |            767506 |        9 |            823919 |      97.33 | Julien Blanc            |             50 |
-|             53 | Enzo Selponi          |      61.62 |            710160 |       10 |            763726 |      75.7  | Jackson Garden-Bachop   |             55 |
-|             80 | Nadir Bouhedjeur      |     199.44 |            993166 |       11 |           1009427 |     137.83 | Asaeli Tuivuaka         |             80 |
-|             53 | Dorian Lavernhe       |      88.46 |            914863 |       12 |            745077 |     139.31 | Sam Johnson             |             80 |
-|             80 | Louis Marrou          |      63.9  |            710784 |       13 |           1033865 |     135.32 | Paula Walisolio         |             80 |
-|             80 | Léo Drouet            |     218.93 |           1012484 |       14 |           1027949 |     138.32 | Mathis Ferté            |             80 |
-|             80 | Adrien Lapegue-Lafaye |     159.6  |            955260 |       15 |            620740 |      96.39 | Stuart Olding           |             53 |
-|             33 | Julius Nostadt        |     226.79 |            792379 |       16 |            914521 |     202.39 | Tevita Ratuva           |             68 |
-|             33 | Loick Jammes          |      78.36 |            776216 |       17 |            973316 |     105.33 | Wesley Tapueluelu       |             40 |
-|             33 | Quentin Samaran       |     158.36 |            933302 |       18 |           1028317 |     105.59 | Leo Carbonneau          |             30 |
-|             29 | Nicolas Mousties      |     224.38 |            991683 |       19 |            819979 |     133.38 | Julien Delannoy         |             30 |
-|             29 | Theo Hannoyer         |      52.68 |            823695 |       20 |            336030 |     102.21 | Said Hireche            |             27 |
-|             27 | Hugo Navizet          |     229.85 |           1010741 |       21 |           1027497 |     102.06 | Tom Raffy               |             25 |
-|             27 | Arthur Coville        |     130.27 |            866397 |       22 |            906593 |      91.01 | Lucas da Silva          |             24 |
-|             27 | Johnny McPhillips     |      29.3  |            920864 |       23 |           1026805 |     130.15 | Vakh Abdaladze          |             24 |
+|             47 | Thomas Vernet         |     214.37 |            940285 |        1 |            928135 |     122.29 | Daniel Brennan          |             40 |
+|             47 | Lucas Martin          |     298.8  |            999554 |        2 |            986154 |     199.29 | Issam Hamel             |             56 |
+|             47 | Paul Mallez           |     127    |           1027394 |        3 |            583762 |     115.26 | Marcel van der Merwe    |             56 |
+|             51 | Jérôme Dufour         |     224.27 |            959750 |        4 |            910320 |     108.86 | Retief Marais           |             50 |
+|             80 | Clément Chartier      |      90.32 |            784390 |        5 |            406253 |     105.45 | Sitaleki Timani         |             12 |
+|             51 | Guillaume Piazzoli    |     226.87 |            945729 |        6 |           1020664 |     239.01 | Sasha Gue               |             80 |
+|             80 | Jessy Jegerlehner     |      90.31 |            911963 |        7 |            675165 |     155.63 | Ross Moriarty           |             80 |
+|             80 | Malohi Suta           |     117.43 |           1025435 |        8 |            885598 |     121.09 | Rahboni Warren-Vosayaco |             80 |
+|             53 | Joris Cazenave        |      86.97 |            767547 |        9 |            823981 |      97.33 | Julien Blanc            |             50 |
+|             53 | Enzo Selponi          |      61.62 |            710191 |       10 |            763766 |      75.69 | Jackson Garden-Bachop   |             55 |
+|             80 | Nadir Bouhedjeur      |     199.44 |            993337 |       11 |           1009633 |     137.82 | Asaeli Tuivuaka         |             80 |
+|             53 | Dorian Lavernhe       |      88.46 |            914965 |       12 |            745112 |     139.31 | Sam Johnson             |             80 |
+|             80 | Louis Marrou          |      63.9  |            710815 |       13 |           1034120 |     135.57 | Paula Walisolio         |             80 |
+|             80 | Léo Drouet            |     218.93 |           1012695 |       14 |           1028186 |     138.31 | Mathis Ferté            |             80 |
+|             80 | Adrien Lapegue-Lafaye |     159.6  |            955380 |       15 |            620756 |      96.39 | Stuart Olding           |             53 |
+|             33 | Julius Nostadt        |     226.79 |            792425 |       16 |            914623 |     202.39 | Tevita Ratuva           |             68 |
+|             33 | Loick Jammes          |      78.36 |            776257 |       17 |            973454 |     105.33 | Wesley Tapueluelu       |             40 |
+|             33 | Quentin Samaran       |     158.36 |            933410 |       18 |           1028554 |     105.59 | Leo Carbonneau          |             30 |
+|             29 | Nicolas Mousties      |     224.38 |            991850 |       19 |            820038 |     133.38 | Julien Delannoy         |             30 |
+|             29 | Theo Hannoyer         |      52.68 |            823757 |       20 |            336033 |     102.2  | Said Hireche            |             27 |
+|             27 | Hugo Navizet          |     229.85 |           1010948 |       21 |           1027733 |     102.06 | Tom Raffy               |             25 |
+|             27 | Arthur Coville        |     130.27 |            866480 |       22 |            906689 |      91.01 | Lucas da Silva          |             24 |
+|             27 | Johnny McPhillips     |      29.3  |            920968 |       23 |           1027040 |     130.15 | Vakh Abdaladze          |             24 |
 
 
 # Player Level Predictions - Version 2

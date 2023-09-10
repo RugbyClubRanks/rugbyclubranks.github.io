@@ -51,29 +51,29 @@ There were 8 large changes in win probability in this match
 
 |   Away Minutes | Away Player      |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player       |   Home Minutes |
 |---------------:|:-----------------|-----------:|------------------:|---------:|------------------:|-----------:|:------------------|---------------:|
-|             51 | Rohan Wingham    |     105.66 |       1.03337e+06 |        1 |       1.0235e+06  |      94.67 | Tevita Langi      |             47 |
-|             51 | Ricky Jackson    |      83.79 |  910023           |        2 |  704200           |      72.98 | Ray Niuia         |             47 |
-|             51 | Saula Mau        |      98.98 |  965612           |        3 |  613043           |     142.38 | Nic Mayhew        |             36 |
-|             80 | Fabian Holland   |      93.17 |       1.00999e+06 |        4 |       1.0339e+06  |      96.48 | Cameron Christie  |             47 |
-|             51 | Josh Hill        |      73.15 |  963286           |        5 |       1.00971e+06 |      75.47 | Mahroni Ngakuru   |             80 |
-|             80 | Will Stodart     |      94.99 |       1.03411e+06 |        6 |       1.02414e+06 |      90.65 | Wallace Sititi    |             80 |
-|             80 | Harry Taylor     |     219.71 |       1.01287e+06 |        7 |       1.02376e+06 |      91.97 | Karl Ruzich       |             61 |
-|             51 | Samuel Fischli   |      96.4  |       1.00459e+06 |        8 |  963381           |     100.22 | Lotu Inisi        |             80 |
-|             54 | Nathan Hastie    |      98.23 |       1.03392e+06 |        9 |  933013           |      83.07 | Siaosi Nginingini |             64 |
-|             80 | Ajay Faleafaga   |      89.68 |       1.03398e+06 |       10 |       1.03349e+06 |     112.52 | Oscar Koller      |             51 |
-|             54 | John Tapueluelu  |      93.88 |       1.02716e+06 |       11 |       1.03408e+06 |     108.12 | Sofai Maka        |             80 |
-|             67 | Jack Leslie      |     104.6  |       1.03377e+06 |       12 |  466088           |     135.03 | Alapati Leiua     |             54 |
-|             80 | Jake Te Hiwi     |      73.76 |       1.02377e+06 |       13 |       1.00543e+06 |      93.63 | Moses Leo         |             80 |
-|             80 | Josh Whaanga     |      95.22 |       1.03338e+06 |       14 |       1.00548e+06 |     101.99 | Kade Banks        |             80 |
-|             80 | Finn Hurley      |      95.75 |       1.03336e+06 |       15 |  800738           |     156.95 | Shaun Stevenson   |             80 |
-|             29 | Abraham Pole     |     101.24 |       1.00471e+06 |       16 |     nan           |     110.3  | Sione Mafileo     |             44 |
-|             29 | Henry Bell       |     102.48 |       1.00466e+06 |       17 |  963533           |      75.72 | Shilo Klein       |             33 |
-|             29 | Jermaine Ainsley |     103.82 |  804016           |       18 |  963151           |     113.06 | Cameron Suafoa    |             33 |
-|             29 | Will Tucker      |      95.02 |  942052           |       19 |       1.00578e+06 |     106.83 | Fatongia Paea     |             33 |
-|             29 | Sean Withy       |      63.76 |       1.0094e+06  |       20 |  801167           |      98.13 | Bryn Gatland      |             29 |
-|             26 | James Arscott    |      80.69 |  964613           |       21 |       1.02347e+06 |      96.42 | Tom Barham        |             26 |
-|             26 | Jona Nareki      |     128.35 |  898062           |       22 |       1.02352e+06 |     102.91 | Tamarau McGahan   |             19 |
-|             13 | Jeremiah Asi     |     102.45 |     nan           |       23 |  762541           |      90.48 | Jamie Booth       |             16 |
+|             51 | Rohan Wingham    |     106.49 |       1.03362e+06 |        1 |       1.02372e+06 |      94.73 | Tevita Langi      |             47 |
+|             51 | Ricky Jackson    |      83.79 |  910124           |        2 |  704227           |      72.99 | Ray Niuia         |             47 |
+|             51 | Saula Mau        |      98.99 |  965747           |        3 |  613058           |     142.41 | Nic Mayhew        |             36 |
+|             80 | Fabian Holland   |      93.18 |       1.01019e+06 |        4 |       1.03416e+06 |      96.48 | Cameron Christie  |             47 |
+|             51 | Josh Hill        |      73.15 |  963416           |        5 |       1.00992e+06 |      75.49 | Mahroni Ngakuru   |             80 |
+|             80 | Will Stodart     |      95    |       1.0344e+06  |        6 |       1.02436e+06 |      90.69 | Wallace Sititi    |             80 |
+|             80 | Harry Taylor     |     219.72 |       1.01308e+06 |        7 |       1.02399e+06 |      92    | Karl Ruzich       |             61 |
+|             51 | Samuel Fischli   |      96.42 |       1.00478e+06 |        8 |  963511           |     100.25 | Lotu Inisi        |             80 |
+|             54 | Nathan Hastie    |      98.25 |       1.03418e+06 |        9 |  933120           |      83.07 | Siaosi Nginingini |             64 |
+|             80 | Ajay Faleafaga   |      89.66 |       1.03424e+06 |       10 |       1.03376e+06 |     111.82 | Oscar Koller      |             51 |
+|             54 | John Tapueluelu  |      93.86 |       1.0274e+06  |       11 |       1.03437e+06 |     108.13 | Sofai Maka        |             80 |
+|             67 | Jack Leslie      |     104.61 |       1.03402e+06 |       12 |  466098           |     135.03 | Alapati Leiua     |             54 |
+|             80 | Jake Te Hiwi     |      73.78 |       1.024e+06   |       13 |       1.00562e+06 |      93.63 | Moses Leo         |             80 |
+|             80 | Josh Whaanga     |      95.23 |       1.03363e+06 |       14 |       1.00567e+06 |     102.07 | Kade Banks        |             80 |
+|             80 | Finn Hurley      |      94.93 |       1.03363e+06 |       15 |  800788           |     156.98 | Shaun Stevenson   |             80 |
+|             29 | Abraham Pole     |     101.25 |       1.0049e+06  |       16 |     nan           |     110.3  | Sione Mafileo     |             44 |
+|             29 | Henry Bell       |     102.49 |       1.00485e+06 |       17 |  963665           |      75.79 | Shilo Klein       |             33 |
+|             29 | Jermaine Ainsley |     103.83 |  804070           |       18 |  963282           |     113.08 | Cameron Suafoa    |             33 |
+|             29 | Will Tucker      |      95.03 |  942164           |       19 |     nan           |     106.83 | Fatongia Paea     |             33 |
+|             29 | Sean Withy       |      63.77 |       1.0096e+06  |       20 |  801222           |      98.13 | Bryn Gatland      |             29 |
+|             26 | James Arscott    |      80.71 |  964747           |       21 |       1.02369e+06 |      96.47 | Tom Barham        |             26 |
+|             26 | Jona Nareki      |     128.37 |  898157           |       22 |       1.02374e+06 |     102.94 | Tamarau McGahan   |             19 |
+|             13 | Jeremiah Asi     |     102.47 |     nan           |       23 |  762582           |      90.55 | Jamie Booth       |             16 |
 
 
 # Player Level Predictions - Version 2

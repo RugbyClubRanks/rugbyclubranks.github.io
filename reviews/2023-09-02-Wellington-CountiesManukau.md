@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Wellington by 21.6
+## Prediction with Player Minutes: Wellington by 21.8
 
 
-Wellington by 17.6 on a neutral field
-## Prediction without Player Minutes: Wellington by 16.9
+Wellington by 17.8 on a neutral field
+## Prediction without Player Minutes: Wellington by 17.2
 
 
-Wellington by 12.9 on a neutral pitch
+Wellington by 13.2 on a neutral pitch
 
 
 ## Scores over Time
@@ -51,29 +51,29 @@ There were 4 large changes in win probability in this match
 
 |   Away Minutes | Away Player         |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player            |   Home Minutes |
 |---------------:|:--------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-----------------------|---------------:|
-|             34 | Kauvaka Kaivelata   |     118.01 |       1.02336e+06 |        1 |  934010           |     129.85 | Xavier Numia           |             55 |
-|             47 | Ioane Moananu       |     102.59 |       1.03339e+06 |        2 |  709924           |      71.46 | James O'Reilly         |             40 |
-|             47 | Salesi Tuifua       |     101.76 |       1.0334e+06  |        3 |       1.03357e+06 |     107.88 | Siale Lauaki           |             51 |
-|             47 | Alex McRobbie       |      86.69 |       1.00581e+06 |        4 |  649891           |      90.1  | Dominic Bird           |             65 |
-|             80 | Jim Thompson        |     107.07 |       1.03339e+06 |        5 |       1.03354e+06 |     119.25 | Hugo Plummer           |             80 |
-|             34 | Viliami Taulani     |      75.32 |  849550           |        6 |  536366           |     140.44 | Brad Shields           |             80 |
-|             80 | Sean Reidy          |     105.9  |  700080           |        7 |  895250           |     185.32 | Du'Plessis Kirifi      |             80 |
-|             59 | Hoskins Sotutu      |     151.56 |  911352           |        8 |       1.00442e+06 |      97.31 | Keelan Whitman         |             55 |
-|             65 | Liam Daniela        |      99.12 |  899777           |        9 |       1.03356e+06 |     114.59 | Kyle Preston           |             47 |
-|             80 | Riley Hohepa        |      91.9  |  963673           |       10 |       1.00775e+06 |     108.41 | Aidan Morgan           |             65 |
-|             80 | Peniasi Malimali    |      73.71 |       1.00583e+06 |       11 |       1.03404e+06 |     102.96 | Isi Saumaki            |             80 |
-|             80 | Sione Molia         |      66.15 |  710000           |       12 |  844639           |     101.74 | Peter Umaga-Jensen     |             55 |
-|             80 | Tevita Ofa          |      84.5  |       1.02343e+06 |       13 |  907576           |     126.38 | Billy Proctor          |             80 |
-|             57 | Toni Pulu           |     155.81 |  658157           |       14 |  898547           |      91.58 | Losi Filipo            |             80 |
-|             80 | Etene Nanai-Seturo  |     144.25 |  937726           |       15 |  996591           |     123.91 | Ruben Love             |             80 |
-|             33 | Keran Van Staden    |      99.15 |     nan           |       16 |  815922           |      80.72 | Cameron Orr            |             25 |
-|             46 | Siate Taupaki       |      97.78 |     nan           |       17 |     nan           |     111.78 | Josiah Tavita-Metcalfe |             29 |
-|             33 | Ian West-Stevens    |     103.36 |       1.0334e+06  |       18 |     nan           |     114.61 | Penieli Poasa          |             40 |
-|             21 | Sam Tuifua          |     106.69 |       1.02339e+06 |       19 |       1.03352e+06 |     105.95 | Akira Ieremia          |             15 |
-|             33 | William Furniss     |      89.23 |       1.02341e+06 |       20 |       1.03352e+06 |     105.54 | Dominic Ropeti         |             25 |
-|             46 | Adam Brash          |      77.73 |       1.02338e+06 |       21 |  890405           |     100.63 | Kemara Hauiti-Parapara |             33 |
-|             15 | Cohen Brady-Leathem |      96.93 |     nan           |       22 |       1.02333e+06 |     113.11 | Sam Clarke             |             15 |
-|             23 | AJ Alatimu          |     195.17 |  900039           |       23 |       1.02195e+06 |     135.46 | Riley Higgins          |             25 |
+|             34 | Kauvaka Kaivelata   |     118.05 |       1.02358e+06 |        1 |  934118           |     129.81 | Xavier Numia           |             55 |
+|             47 | Ioane Moananu       |     101.66 |       1.03366e+06 |        2 |  709955           |      71.45 | James O'Reilly         |             40 |
+|             47 | Salesi Tuifua       |     102.29 |       1.03364e+06 |        3 |       1.03381e+06 |     108.68 | Siale Lauaki           |             51 |
+|             47 | Alex McRobbie       |      86.72 |       1.00601e+06 |        4 |  649911           |      90.09 | Dominic Bird           |             65 |
+|             80 | Jim Thompson        |     106.35 |       1.03365e+06 |        5 |       1.03379e+06 |     120.19 | Hugo Plummer           |             80 |
+|             34 | Viliami Taulani     |      75.32 |  849625           |        6 |  536377           |     140.41 | Brad Shields           |             80 |
+|             80 | Sean Reidy          |     105.92 |  700104           |        7 |  895342           |     185.3  | Du'Plessis Kirifi      |             80 |
+|             59 | Hoskins Sotutu      |     151.58 |  911453           |        8 |       1.0046e+06  |      97.34 | Keelan Whitman         |             55 |
+|             65 | Liam Daniela        |      99.17 |  899872           |        9 |       1.03378e+06 |     116.25 | Kyle Preston           |             47 |
+|             80 | Riley Hohepa        |      91.95 |  963804           |       10 |       1.00794e+06 |     108.35 | Aidan Morgan           |             65 |
+|             80 | Peniasi Malimali    |      73.74 |       1.00602e+06 |       11 |       1.03433e+06 |     102.96 | Isi Saumaki            |             80 |
+|             80 | Sione Molia         |      66.17 |  710031           |       12 |  844710           |     101.72 | Peter Umaga-Jensen     |             55 |
+|             80 | Tevita Ofa          |      84.54 |       1.02365e+06 |       13 |  907674           |     126.37 | Billy Proctor          |             80 |
+|             57 | Toni Pulu           |     155.83 |  658177           |       14 |  898641           |      91.56 | Losi Filipo            |             80 |
+|             80 | Etene Nanai-Seturo  |     144.3  |  937835           |       15 |  996763           |     123.89 | Ruben Love             |             80 |
+|             33 | Keran Van Staden    |      99.09 |     nan           |       16 |  815981           |      80.72 | Cameron Orr            |             25 |
+|             46 | Siate Taupaki       |      98.78 |     nan           |       17 |     nan           |     111.75 | Josiah Tavita-Metcalfe |             29 |
+|             33 | Ian West-Stevens    |     102.92 |       1.03366e+06 |       18 |     nan           |     114.34 | Penieli Poasa          |             40 |
+|             21 | Sam Tuifua          |     106.71 |       1.02361e+06 |       19 |       1.03381e+06 |     104.69 | Akira Ieremia          |             15 |
+|             33 | William Furniss     |      89.23 |       1.02363e+06 |       20 |       1.03382e+06 |     104.34 | Dominic Ropeti         |             25 |
+|             46 | Adam Brash          |      77.74 |       1.0236e+06  |       21 |  890495           |     100.61 | Kemara Hauiti-Parapara |             33 |
+|             15 | Cohen Brady-Leathem |      96.86 |     nan           |       22 |       1.02355e+06 |     113.09 | Sam Clarke             |             15 |
+|             23 | AJ Alatimu          |     195.18 |  900134           |       23 |       1.02217e+06 |     135.46 | Riley Higgins          |             25 |
 
 
 # Player Level Predictions - Version 2

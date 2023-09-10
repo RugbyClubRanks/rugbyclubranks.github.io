@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Romania by 53.8
+## Prediction with Player Minutes: Romania by 53.6
 
 
-Romania by 57.8 on a neutral field
-## Prediction without Player Minutes: Romania by 58.6
+Romania by 57.6 on a neutral field
+## Prediction without Player Minutes: Romania by 58.4
 
 
-Romania by 62.6 on a neutral pitch
+Romania by 62.4 on a neutral pitch
 
 
 ## Scores over Time
@@ -51,29 +51,29 @@ There were 13 large changes in win probability in this match
 
 |   Away Minutes | Away Player       |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|---------------:|
-|             49 | Iulian Hartig     |     152.64 |       1.02267e+06 |        1 |  851149           |     125.54 | Andrew Porter       |             51 |
-|             55 | Ovidiu Cojocaru   |     172.35 |  918013           |        2 |  474448           |     106.95 | Rob Herring         |             51 |
-|             52 | Alex Gordas       |     180.41 |  917990           |        3 |  722156           |     123.04 | Tadhg Furlong       |             51 |
-|             84 | Adrian Motoc      |     230.29 |  918945           |        4 |       1.01505e+06 |     104.32 | Joe McCarthy        |             84 |
-|             61 | Stefan Iancu      |     118.57 |       1.0232e+06  |        5 |  889476           |     142.67 | James Ryan          |             57 |
-|             61 | Florian Rosu      |     366.36 |       1.0018e+06  |        6 |  813551           |     153.02 | Tadhg Beirne        |             84 |
-|             84 | Vlad Neculau      |      73.85 |  943632           |        7 |  456935           |     100.18 | Peter O'Mahony      |             84 |
-|             84 | Cristian Chirica  |     128.64 |  918987           |        8 |  927143           |     175.49 | Caelan Doris        |             57 |
-|             75 | Gabriel Rupanu    |     207.77 |  944568           |        9 |  650781           |     118.3  | Jamison Gibson-Park |             60 |
-|             61 | Hinckley Vaovasa  |     227.42 |       1.01173e+06 |       10 |       1.03414e+06 |     130.43 | Johnny Sexton       |             66 |
-|             76 | Tevita Manumua    |      64.17 |  867901           |       11 |  650444           |     173.9  | James Lowe          |             84 |
-|             66 | Fonovai Tangimana |     194.36 |       1.03374e+06 |       12 |  585700           |     143.1  | Bundee Aki          |             84 |
-|             84 | Jason Tomane      |     231.16 |       1.01166e+06 |       13 |  809906           |     154.13 | Garry Ringrose      |             84 |
-|             84 | Nicolas Onutu     |     204.8  |  950885           |       14 |  373323           |     104.42 | Keith Earls         |             60 |
-|             84 | Marius Simionescu |     123.45 |  879270           |       15 |  872535           |     170.58 | Hugo Keenan         |             84 |
-|             29 | Florin Bardasu    |      69.14 |     nan           |       16 |     nan           |     130.13 | Ronan Kelleher      |             33 |
-|             35 | Alexandru Savin   |     275.4  |  956684           |       17 |  826793           |      97.66 | Jeremy Loughman     |             33 |
-|             32 | Gheorghe Gajion   |     103.78 |  775684           |       18 |  924999           |     101.12 | Tom O'Toole         |             33 |
-|             23 | Marius Iftimiciuc |      40.07 |  943616           |       19 |  633288           |     161.78 | Iain Henderson      |             27 |
-|             23 | Dragos Ser        |     256.39 |  976110           |       20 |  772519           |     169.69 | Josh van der Flier  |             27 |
-|              9 | Alin Conache      |     169.59 |       1.02566e+06 |       21 |  424320           |     133.76 | Conor Murray        |             24 |
-|             23 | Tudor Boldor      |     216.65 |  956371           |       22 |  986240           |     125.36 | Jack Crowley        |             18 |
-|             26 | Taylor Gontineac  |     232.25 |  956414           |       23 |  940706           |     198.17 | Mack Hansen         |             24 |
+|             49 | Iulian Hartig     |     152.63 |       1.02289e+06 |        1 |  851226           |     125.53 | Andrew Porter       |             51 |
+|             55 | Ovidiu Cojocaru   |     172.33 |  918116           |        2 |  474459           |     106.95 | Rob Herring         |             51 |
+|             52 | Alex Gordas       |     180.4  |  918093           |        3 |  722189           |     123.03 | Tadhg Furlong       |             51 |
+|             84 | Adrian Motoc      |     230.36 |  919048           |        4 |       1.01526e+06 |     104.32 | Joe McCarthy        |             84 |
+|             61 | Stefan Iancu      |     118.62 |       1.02342e+06 |        5 |  889566           |     142.66 | James Ryan          |             57 |
+|             61 | Florian Rosu      |     366.42 |       1.00198e+06 |        6 |  813610           |     153.01 | Tadhg Beirne        |             84 |
+|             84 | Vlad Neculau      |      73.85 |  943744           |        7 |  456943           |     100.18 | Peter O'Mahony      |             84 |
+|             84 | Cristian Chirica  |     128.61 |  919090           |        8 |  927248           |     175.49 | Caelan Doris        |             57 |
+|             75 | Gabriel Rupanu    |     207.83 |  944680           |        9 |  650801           |     118.29 | Jamison Gibson-Park |             60 |
+|             61 | Hinckley Vaovasa  |     227.38 |       1.01194e+06 |       10 |       1.03443e+06 |     130.43 | Johnny Sexton       |             66 |
+|             76 | Tevita Manumua    |      64.13 |  867985           |       11 |  650464           |     173.9  | James Lowe          |             84 |
+|             66 | Fonovai Tangimana |     191.21 |       1.034e+06   |       12 |  585713           |     143.1  | Bundee Aki          |             84 |
+|             84 | Jason Tomane      |     231.13 |       1.01187e+06 |       13 |  809964           |     154.13 | Garry Ringrose      |             84 |
+|             84 | Nicolas Onutu     |     204.87 |  951003           |       14 |  373328           |     104.42 | Keith Earls         |             60 |
+|             84 | Marius Simionescu |     123.42 |  879357           |       15 |  872621           |     170.58 | Hugo Keenan         |             84 |
+|             29 | Florin Bardasu    |      69.12 |     nan           |       16 |     nan           |     130.13 | Ronan Kelleher      |             33 |
+|             35 | Alexandru Savin   |     275.38 |  956806           |       17 |  826856           |      97.66 | Jeremy Loughman     |             33 |
+|             32 | Gheorghe Gajion   |     103.76 |  775725           |       18 |  925103           |     101.12 | Tom O'Toole         |             33 |
+|             23 | Marius Iftimiciuc |      40.04 |  943728           |       19 |  633305           |     161.78 | Iain Henderson      |             27 |
+|             23 | Dragos Ser        |     256.45 |  976249           |       20 |  772560           |     169.68 | Josh van der Flier  |             27 |
+|              9 | Alin Conache      |     169.58 |       1.0259e+06  |       21 |  424326           |     133.76 | Conor Murray        |             24 |
+|             23 | Tudor Boldor      |     216.65 |  956491           |       22 |  986400           |     125.36 | Jack Crowley        |             18 |
+|             26 | Taylor Gontineac  |     232.31 |  956534           |       23 |  940815           |     198.16 | Mack Hansen         |             24 |
 
 
 # Player Level Predictions - Version 2

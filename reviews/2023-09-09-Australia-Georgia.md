@@ -51,29 +51,29 @@ There were 13 large changes in win probability in this match
 
 |   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|---------------:|
-|             52 | Nika Abuladze         |     406.47 |       1.01324e+06 |        1 |            960171 |     109.59 | Angus Bell          |             50 |
-|             58 | Shalva Mamukashvili   |     142.47 |  625983           |        2 |            762761 |     106.87 | Dave Porecki        |             59 |
-|             41 | Guram Papidze         |      55.2  |  911972           |        3 |            815344 |     103.16 | Taniela Tupou       |             69 |
-|             80 | Nodar Cheishvili      |     267.23 |  882057           |        4 |            806192 |     125.95 | Richie Arnold       |             62 |
-|             59 | Konstantin Mikautadze |      94.57 |  477580           |        5 |            694508 |     121.29 | Will Skelton        |             69 |
-|             67 | Tornike Jalagonia     |     221.31 |  991014           |        6 |            999470 |     129.21 | Tom Hooper          |             80 |
-|             80 | Luka Ivanishvili      |     309.58 |       1.01042e+06 |        7 |            936836 |     212.8  | Fraser McReight     |             80 |
-|             80 | Beka Gorgadze         |     210.14 |       1.03414e+06 |        8 |            904928 |     224.46 | Rob Valetini        |             80 |
-|             52 | Vasil Lobzhanidze     |     163.55 |  788109           |        9 |            923705 |      68.72 | Tate McDermott      |             35 |
-|             69 | Luka Matkava          |     263.71 |       1.02007e+06 |       10 |            961867 |     141.92 | Carter Gordon       |             80 |
-|             80 | Mirian Modebadze      |     195.88 |  917426           |       11 |            883597 |     103.96 | Marika Koroibete    |             80 |
-|             80 | Merab Sharikadze      |      85.12 |  625846           |       12 |            741280 |     103.64 | Samu Kerevi         |             41 |
-|             80 | Demur Tapladze        |     326.96 |  978119           |       13 |            925133 |     133.78 | Jordan Petaia       |             57 |
-|             80 | Aka Tabutsadze        |     278.85 |  976792           |       14 |            960027 |     113.64 | Mark Nawaqanitawase |             80 |
-|             62 | Davit Niniashvili     |     268.24 |  992068           |       15 |            960299 |     131.82 | Ben Donaldson       |             80 |
-|             22 | Tengiz Zamtaradze     |     210.51 |     nan           |       16 |            961816 |     158.91 | Matt Faessler       |             21 |
-|             28 | Guram Gogichashvili   |     126.85 |  938286           |       17 |           1031659 |     110.57 | Blake Schoupp       |             30 |
-|             39 | Beka Gigashvili       |     172.27 |  906184           |       18 |            979079 |     114.54 | Zane Nonggorr       |             11 |
-|             21 | Lasha Jaiani          |     323    |  978073           |       19 |            841149 |      74.95 | Rob Leota           |             18 |
-|             13 | Giorgi Tsutskiridze   |     292.23 |  884439           |       20 |           1016858 |     123.1  | Langi Gleeson       |             11 |
-|             28 | Gela Aprasidze        |     182.87 |  919056           |       21 |            575472 |     120.07 | Nic White           |             45 |
-|             11 | Tedo Abzhandadze      |     285.5  |  946928           |       22 |            740763 |     111.26 | Lalakai Foketi      |             39 |
-|             18 | Giorgi Kveseladze     |     194.12 |  919120           |       23 |            993317 |      56.48 | Suliasi Vunivalu    |             23 |
+|             52 | Nika Abuladze         |     406.47 |       1.01345e+06 |        1 |            960296 |     109.59 | Angus Bell          |             50 |
+|             58 | Shalva Mamukashvili   |     142.48 |  626000           |        2 |            762801 |     106.87 | Dave Porecki        |             59 |
+|             41 | Guram Papidze         |      55.2  |  912073           |        3 |            815403 |     103.16 | Taniela Tupou       |             69 |
+|             80 | Nodar Cheishvili      |     267.17 |  882145           |        4 |            806247 |     125.95 | Richie Arnold       |             62 |
+|             59 | Konstantin Mikautadze |      94.58 |  477591           |        5 |            694532 |     121.29 | Will Skelton        |             69 |
+|             67 | Tornike Jalagonia     |     221.32 |  991179           |        6 |            999646 |     129.23 | Tom Hooper          |             80 |
+|             80 | Luka Ivanishvili      |     309.52 |       1.01062e+06 |        7 |            936945 |     212.79 | Fraser McReight     |             80 |
+|             80 | Beka Gorgadze         |     210.13 |       1.03443e+06 |        8 |            905023 |     224.47 | Rob Valetini        |             80 |
+|             52 | Vasil Lobzhanidze     |     163.56 |  788153           |        9 |            923809 |      68.72 | Tate McDermott      |             35 |
+|             69 | Luka Matkava          |     263.65 |       1.02029e+06 |       10 |            961992 |     141.91 | Carter Gordon       |             80 |
+|             80 | Mirian Modebadze      |     195.82 |  917529           |       11 |            883687 |     103.97 | Marika Koroibete    |             80 |
+|             80 | Merab Sharikadze      |      85.06 |  625863           |       12 |            741314 |     103.64 | Samu Kerevi         |             41 |
+|             80 | Demur Tapladze        |     326.9  |  978260           |       13 |            925237 |     133.78 | Jordan Petaia       |             57 |
+|             80 | Aka Tabutsadze        |     278.79 |  976931           |       14 |            960152 |     113.64 | Mark Nawaqanitawase |             80 |
+|             62 | Davit Niniashvili     |     268.25 |  992236           |       15 |            960424 |     131.82 | Ben Donaldson       |             80 |
+|             22 | Tengiz Zamtaradze     |     210.49 |     nan           |       16 |            961941 |     158.91 | Matt Faessler       |             21 |
+|             28 | Guram Gogichashvili   |     126.85 |  938395           |       17 |           1031906 |     110.58 | Blake Schoupp       |             30 |
+|             39 | Beka Gigashvili       |     172.28 |  906279           |       18 |            979221 |     114.54 | Zane Nonggorr       |             11 |
+|             21 | Lasha Jaiani          |     323    |  978214           |       19 |            841217 |      74.95 | Rob Leota           |             18 |
+|             13 | Giorgi Tsutskiridze   |     292.24 |  884529           |       20 |           1017072 |     123.1  | Langi Gleeson       |             11 |
+|             28 | Gela Aprasidze        |     182.81 |  919159           |       21 |            575484 |     120.08 | Nic White           |             45 |
+|             11 | Tedo Abzhandadze      |     285.5  |  947042           |       22 |            740797 |     111.26 | Lalakai Foketi      |             39 |
+|             18 | Giorgi Kveseladze     |     194.13 |  919223           |       23 |            993488 |      56.48 | Suliasi Vunivalu    |             23 |
 
 
 # Player Level Predictions - Version 2

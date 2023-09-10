@@ -51,28 +51,28 @@ There were 12 large changes in win probability in this match
 
 |   Away Minutes | Away Player            |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player               |   Home Minutes |
 |---------------:|:-----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------------|---------------:|
-|             62 | Sébastien Lafrancesca  |     125.1  |           1024473 |        1 |  946161           |     295.04 | Vazha Kapanadze           |             59 |
-|             69 | Hayam El Bibouji       |     143.97 |           1024358 |        2 |  756872           |     138.62 | Clement Jullien           |             58 |
-|             72 | Victor Damian Arias    |      69.59 |            659437 |        3 |  957640           |     141.82 | Erich de Jager            |             40 |
-|             80 | Damien Bozic           |     184.97 |           1030318 |        4 |  983740           |      -7.79 | Louis Bruinsma            |             80 |
-|             80 | Marvin Woki            |     246    |            986084 |        5 |  924317           |     285.53 | Josh Peters               |             80 |
-|             80 | Louis-Mathieu Jazeix   |      81.23 |            793991 |        6 |       1.0276e+06  |     183.05 | Thomas Déliance           |             72 |
-|             62 | Wian Vosloo            |      98.68 |            891385 |        7 |  924134           |     164.02 | Pierre Reynaud            |             80 |
-|             58 | Lakisipone Lee         |     259.7  |           1007067 |        8 |  991117           |     263.08 | Joseph Penitito           |             80 |
-|             58 | Peïo Etchebest         |     162.03 |           1034073 |        9 |  734015           |      51.92 | Nicolas Faure             |             63 |
-|             80 | Victor Barnier         |     290.8  |           1007135 |       10 |  698286           |      91.71 | Fred Zeilinga             |             40 |
-|             80 | Alexis Clement         |     192.15 |           1007120 |       11 |  994093           |     234.94 | Élie De Fleurian          |             80 |
-|             80 | Petero Tuwai           |      48.93 |           1009478 |       12 |  859801           |      89.98 | Parataiso Silafai-Lea'ana |             80 |
-|             80 | JJ Taulagi             |      40.23 |            736468 |       13 |  981334           |     231.97 | Alexandre Badet           |             80 |
-|             57 | Faraj Fartass          |      53.58 |            869140 |       14 |       1.01285e+06 |     222.12 | Thibaut Perrette          |             80 |
-|             80 | Thomas Baudy           |     334.13 |            983806 |       15 |  932919           |     174.72 | Florent Massip            |             79 |
-|             23 | Lilan Savioz Fouillet  |     144.13 |           1031204 |       16 |  999356           |     267.11 | Atonio Ulutuipalelei      |             40 |
-|             22 | Jean-Baptiste Lachaise |     111.31 |           1027751 |       17 |  990240           |      24.5  | Christian Lacombe         |             40 |
-|             22 | Thomas Lacroix         |     314.34 |            981810 |       18 |       1.02808e+06 |     150.65 | Louis Dasalmartini        |             22 |
-|             18 | Elias Coulibaly        |     150    |           1024634 |       19 |  916836           |     218.08 | Nicolas Lemaire           |             21 |
-|             18 | Florian Desbordes      |     215.63 |            981044 |       20 |  862293           |     122.25 | Jeremy Valencot           |             17 |
-|             11 | Anthony Bajart         |     329.6  |            982402 |       21 |       1.02809e+06 |     162.28 | Nail Ait Naceur           |              8 |
-|              8 | Lucas Dycke            |     170.29 |           1013086 |       22 |     nan           |     158.59 | François Grange           |              1 |
+|             62 | Sébastien Lafrancesca  |     125.1  |           1024700 |        1 |  946274           |     295.04 | Vazha Kapanadze           |             59 |
+|             69 | Hayam El Bibouji       |     143.97 |           1024585 |        2 |  756909           |     138.62 | Clement Jullien           |             58 |
+|             72 | Victor Damian Arias    |      69.59 |            659457 |        3 |  957763           |     141.82 | Erich de Jager            |             40 |
+|             80 | Damien Bozic           |     184.97 |           1030562 |        4 |  983893           |      -7.79 | Louis Bruinsma            |             80 |
+|             80 | Marvin Woki            |     246.01 |            986244 |        5 |  924421           |     285.53 | Josh Peters               |             80 |
+|             80 | Louis-Mathieu Jazeix   |      81.23 |            794038 |        6 |       1.02783e+06 |     183.05 | Thomas Déliance           |             72 |
+|             62 | Wian Vosloo            |      98.69 |            891475 |        7 |  924238           |     164.02 | Pierre Reynaud            |             80 |
+|             58 | Lakisipone Lee         |     259.7  |           1007262 |        8 |  991282           |     263.08 | Joseph Penitito           |             80 |
+|             58 | Peïo Etchebest         |     162.03 |           1034357 |        9 |  734049           |      51.92 | Nicolas Faure             |             63 |
+|             80 | Victor Barnier         |     290.81 |           1007330 |       10 |  698310           |      91.71 | Fred Zeilinga             |             40 |
+|             80 | Alexis Clement         |     192.15 |           1007315 |       11 |  994264           |     234.94 | Élie De Fleurian          |             80 |
+|             80 | Petero Tuwai           |      48.93 |           1009684 |       12 |  859880           |      89.98 | Parataiso Silafai-Lea'ana |             80 |
+|             80 | JJ Taulagi             |      40.24 |            736502 |       13 |  981481           |     231.97 | Alexandre Badet           |             80 |
+|             57 | Faraj Fartass          |      53.59 |            869226 |       14 |       1.01306e+06 |     222.12 | Thibaut Perrette          |             80 |
+|             80 | Thomas Baudy           |     334.13 |            983959 |       15 |  933025           |     174.72 | Florent Massip            |             79 |
+|             23 | Lilan Savioz Fouillet  |     144.13 |           1031451 |       16 |  999532           |     267.11 | Atonio Ulutuipalelei      |             40 |
+|             22 | Jean-Baptiste Lachaise |     111.32 |           1027988 |       17 |  990405           |      24.5  | Christian Lacombe         |             40 |
+|             22 | Thomas Lacroix         |     314.35 |            981959 |       18 |       1.02832e+06 |     150.65 | Louis Dasalmartini        |             22 |
+|             18 | Elias Coulibaly        |     150    |           1024861 |       19 |  916939           |     218.08 | Nicolas Lemaire           |             21 |
+|             18 | Florian Desbordes      |     215.64 |            981190 |       20 |  862374           |     122.25 | Jeremy Valencot           |             17 |
+|             11 | Anthony Bajart         |     329.61 |            982553 |       21 |       1.02832e+06 |     162.28 | Nail Ait Naceur           |              8 |
+|              8 | Lucas Dycke            |     170.29 |           1013298 |       22 |     nan           |     158.59 | François Grange           |              1 |
 
 
 # Player Level Predictions - Version 2

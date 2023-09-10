@@ -28,10 +28,10 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Canterbury by 5.9
+## Prediction with Player Minutes: Canterbury by 6.0
 
 
-Canterbury by 9.9 on a neutral field
+Canterbury by 10.0 on a neutral field
 ## Prediction without Player Minutes: Canterbury by 6.0
 
 
@@ -51,29 +51,29 @@ There were 15 large changes in win probability in this match
 
 |   Away Minutes | Away Player       |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|---------------:|
-|             35 | Joe Moody         |      96.41 |  584345           |        1 |       1.01953e+06 |      93.32 | Josh Fusitua        |             52 |
-|             55 | George Bell       |     124.99 |       1.02183e+06 |        2 |  998593           |     105.37 | Soane Vikena        |             69 |
-|             50 | Oli Jager         |     115.17 |  845339           |        3 |  540717           |     145.5  | Angus Ta'avao       |             50 |
-|             80 | Mitchell Dunshea  |     108.14 |  802205           |        4 |       1.01029e+06 |      89.68 | Edward Annandale    |             56 |
-|             53 | Sam Darry         |     112.5  |  994813           |        5 |       1.02366e+06 |      98.33 | Josh Beehre         |             80 |
-|             80 | Billy Harmon      |     127.03 |  845243           |        6 |  941308           |     114.47 | Adrian Choat        |             80 |
-|             80 | Tom Christie      |     141.59 |  914606           |        7 |  750825           |     100.88 | Blake Gibson        |             80 |
-|             55 | Cullen Grace      |     138.33 |  962462           |        8 |  788872           |     143.48 | Akira Ioane         |             48 |
-|             50 | Mitchell Drummond |      97.64 |  716793           |        9 |  995423           |      93.89 | Kalani Thomas       |             50 |
-|             80 | Fergus Burke      |     125.98 |  962532           |       10 |  998816           |     142.16 | Zarn Sullivan       |             80 |
-|             55 | Isaiah Punivai    |      90.97 |       1.0056e+06  |       11 |       1.0341e+06  |     103.45 | Xavier TIto-Harris  |             80 |
-|             80 | Rameka Poihipi    |      94.31 |  963493           |       12 |  509383           |     104.26 | Bryce Heem          |             69 |
-|             80 | Dallas McLeod     |     111.89 |  962594           |       13 |       1.00551e+06 |     105.98 | Corey Evans         |             80 |
-|             69 | Solomon Alaimalo  |     103.95 |  843772           |       14 |  964891           |      93.12 | AJ Lam              |             80 |
-|             80 | Chay Fihaki       |     124.24 |  993265           |       15 |       1.01696e+06 |     137.04 | Roger Tuivasa-Sheck |             80 |
-|             45 | Dan Lienert-Brown |     121.21 |  735622           |       16 |       1.03378e+06 |     114.06 | Sione Ahio          |             30 |
-|             30 | Seb Calder        |     103.32 |       1.03361e+06 |       17 |       1.03377e+06 |     106.58 | Ben Ake             |             28 |
-|             25 | Ben Funnell       |     115.51 |  590650           |       18 |     nan           |      79.04 | Joe Royal           |             11 |
-|             27 | Zach Gallagher    |     120.35 |       1.00566e+06 |       19 |  865531           |     112.19 | Hamish Dalzell      |             24 |
-|             25 | Reed Prinsep      |     150.17 |     nan           |       20 |       1.00554e+06 |     108.62 | Vaiolini Ekuasi     |             32 |
-|             30 | Willi Heinz       |     109.97 |  466730           |       21 |       1.00557e+06 |      77.82 | Taufa Funaki        |             30 |
-|             25 | Ryan Crotty       |     134.72 |  413346           |       22 |       1.03405e+06 |      98.02 | Payton Spencer      |             11 |
-|             11 | Jone Rova         |     109.49 |     nan           |       23 |     nan           |     nan    | nan                 |            nan |
+|             35 | Joe Moody         |      96.41 |  584358           |        1 |       1.01975e+06 |      93.3  | Josh Fusitua        |             52 |
+|             55 | George Bell       |     124.99 |       1.02204e+06 |        2 |  998766           |     105.36 | Soane Vikena        |             69 |
+|             50 | Oli Jager         |     115.17 |  845411           |        3 |  540728           |     145.5  | Angus Ta'avao       |             50 |
+|             80 | Mitchell Dunshea  |     108.16 |  802258           |        4 |       1.01049e+06 |      89.68 | Edward Annandale    |             56 |
+|             53 | Sam Darry         |     112.49 |  994984           |        5 |       1.02388e+06 |      98.32 | Josh Beehre         |             80 |
+|             80 | Billy Harmon      |     127.05 |  845315           |        6 |  941417           |     114.46 | Adrian Choat        |             80 |
+|             80 | Tom Christie      |     141.64 |  914708           |        7 |  750862           |     100.87 | Blake Gibson        |             80 |
+|             55 | Cullen Grace      |     138.34 |  962588           |        8 |  788916           |     143.47 | Akira Ioane         |             48 |
+|             50 | Mitchell Drummond |      97.66 |  716825           |        9 |  995595           |      93.87 | Kalani Thomas       |             50 |
+|             80 | Fergus Burke      |     126.07 |  962658           |       10 |  998989           |     142.14 | Zarn Sullivan       |             80 |
+|             55 | Isaiah Punivai    |      90.95 |       1.00579e+06 |       11 |       1.0344e+06  |     103.44 | Xavier TIto-Harris  |             80 |
+|             80 | Rameka Poihipi    |      94.33 |  963623           |       12 |  509394           |     104.25 | Bryce Heem          |             69 |
+|             80 | Dallas McLeod     |     111.91 |  962720           |       13 |       1.0057e+06  |     105.98 | Corey Evans         |             80 |
+|             69 | Solomon Alaimalo  |     103.95 |  843842           |       14 |  965024           |      93.1  | AJ Lam              |             80 |
+|             80 | Chay Fihaki       |     124.32 |  993436           |       15 |       1.01717e+06 |     137.03 | Roger Tuivasa-Sheck |             80 |
+|             45 | Dan Lienert-Brown |     121.22 |  735656           |       16 |       1.03404e+06 |     114.06 | Sione Ahio          |             30 |
+|             30 | Seb Calder        |     103.63 |       1.03386e+06 |       17 |       1.03403e+06 |     106.58 | Ben Ake             |             28 |
+|             25 | Ben Funnell       |     115.53 |  590663           |       18 |     nan           |      79.04 | Joe Royal           |             11 |
+|             27 | Zach Gallagher    |     120.34 |       1.00585e+06 |       19 |  865614           |     112.2  | Hamish Dalzell      |             24 |
+|             25 | Reed Prinsep      |     150.17 |     nan           |       20 |       1.00573e+06 |     108.62 | Vaiolini Ekuasi     |             32 |
+|             30 | Willi Heinz       |     109.98 |  466740           |       21 |       1.00577e+06 |      77.82 | Taufa Funaki        |             30 |
+|             25 | Ryan Crotty       |     134.73 |  413352           |       22 |       1.03434e+06 |      97.77 | Payton Spencer      |             11 |
+|             11 | Jone Rova         |     109.45 |     nan           |       23 |     nan           |     nan    | nan                 |            nan |
 
 
 # Player Level Predictions - Version 2

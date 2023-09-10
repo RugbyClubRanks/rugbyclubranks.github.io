@@ -51,29 +51,29 @@ There were 4 large changes in win probability in this match
 
 |   Away Minutes | Away Player            |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player        |   Home Minutes |
 |---------------:|:-----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:-------------------|---------------:|
-|             53 | Ethan de Groot         |      89.36 |            937789 |        1 |            857818 |     160.17 | Reda Wardi         |             53 |
-|             57 | Codie Taylor           |     148.49 |            653702 |        2 |            771427 |     102.02 | Julien Marchand    |             12 |
-|             53 | Nepo Laulala           |     120.63 |            590231 |        3 |            629846 |     105.24 | Uini Atonio        |             53 |
-|             69 | Samuel Whitelock       |     164    |            461146 |        4 |            911573 |      96.75 | Cameron Woki       |             49 |
-|             80 | Scott Barrett          |     117.62 |            744874 |        5 |            928797 |     240.78 | Thibaud Flament    |             80 |
-|             57 | Tupou Vaa'i            |     123.23 |            940423 |        6 |            826330 |     152.64 | Francois Cros      |             63 |
-|             80 | Dalton Papalii         |     117.19 |            905631 |        7 |            710316 |     164.03 | Charles Ollivon    |             80 |
-|             80 | Ardie Savea            |     125.37 |            649471 |        8 |            918545 |     147.8  | Gregory Alldritt   |             80 |
-|             63 | Aaron Smith            |     102.56 |            499227 |        9 |            777044 |     132.58 | Antoine Dupont     |             76 |
-|             80 | Richie Mo'unga         |     140.8  |            700849 |       10 |            906772 |     101.04 | Matthieu Jalibert  |             80 |
-|             72 | Mark Telea             |     156.95 |            848271 |       11 |            968464 |     144.52 | Gabin Villiere     |             80 |
-|             63 | Anton Lienert-Brown    |     140.4  |            735039 |       12 |            952378 |     194.77 | Yoram Moefana      |             58 |
-|             80 | Rieko Ioane            |     141.36 |            797941 |       13 |            660370 |     138.7  | Gael Fickou        |             80 |
-|             80 | Will Jordan            |     157.38 |            897621 |       14 |            832335 |     132.95 | Damian Penaud      |             80 |
-|             80 | Beauden Barrett        |     129.33 |            513068 |       15 |            732784 |     155.51 | Thomas Ramos       |             76 |
-|             23 | Samisoni Taukei'aho    |     134.09 |            882693 |       16 |            879397 |     130.82 | Peato Mauvaka      |             68 |
-|             27 | Ofa Tu'ungafasi        |     110.91 |            657161 |       17 |            920964 |     123.32 | Jean-Baptiste Gros |             27 |
-|             27 | Fletcher Newell        |      90.15 |            993218 |       18 |            771610 |     106.99 | Dorian Aldegheri   |             27 |
-|             11 | Brodie Retallick       |      94.14 |            580433 |       19 |            510447 |     109.69 | Romain Taofifenua  |             31 |
-|             23 | Luke Jacobson          |     150.04 |            895689 |       20 |            947962 |     129.19 | Paul Boudehent     |             17 |
-|             17 | Finlay Christie        |     108.5  |            846244 |       21 |            759224 |     153.06 | Maxime Lucu        |              4 |
-|             17 | David Havili           |     121.02 |               nan |       22 |            910867 |     132.32 | Arthur Vincent     |             22 |
-|              8 | Leicester Fainga'anuku |     140.15 |            942857 |       23 |            985580 |     232.68 | Melvyn Jaminet     |              4 |
+|             53 | Ethan de Groot         |      89.36 |            937898 |        1 |            857896 |     160.17 | Reda Wardi         |             53 |
+|             57 | Codie Taylor           |     148.49 |            653722 |        2 |            771468 |     102.02 | Julien Marchand    |             12 |
+|             53 | Nepo Laulala           |     120.63 |            590244 |        3 |            629863 |     105.24 | Uini Atonio        |             53 |
+|             69 | Samuel Whitelock       |     164    |            461155 |        4 |            911674 |      96.75 | Cameron Woki       |             49 |
+|             80 | Scott Barrett          |     117.62 |            744909 |        5 |            928902 |     240.78 | Thibaud Flament    |             80 |
+|             57 | Tupou Vaa'i            |     123.23 |            940532 |        6 |            826393 |     152.64 | Francois Cros      |             63 |
+|             80 | Dalton Papalii         |     117.19 |            905726 |        7 |            710347 |     164.03 | Charles Ollivon    |             80 |
+|             80 | Ardie Savea            |     125.37 |            649491 |        8 |            918648 |     147.8  | Gregory Alldritt   |             80 |
+|             63 | Aaron Smith            |     102.56 |            499238 |        9 |            777085 |     132.58 | Antoine Dupont     |             76 |
+|             80 | Richie Mo'unga         |     140.8  |            700873 |       10 |            906868 |     101.04 | Matthieu Jalibert  |             80 |
+|             72 | Mark Telea             |     156.95 |            848345 |       11 |            968600 |     144.52 | Gabin Villiere     |             80 |
+|             63 | Anton Lienert-Brown    |     140.4  |            735073 |       12 |            952498 |     194.77 | Yoram Moefana      |             58 |
+|             80 | Rieko Ioane            |     141.36 |            797990 |       13 |            660390 |     138.7  | Gael Fickou        |             80 |
+|             80 | Will Jordan            |     157.38 |            897713 |       14 |            832400 |     132.95 | Damian Penaud      |             80 |
+|             80 | Beauden Barrett        |     129.34 |            513079 |       15 |            732818 |     155.51 | Thomas Ramos       |             76 |
+|             23 | Samisoni Taukei'aho    |     134.09 |            882783 |       16 |            879484 |     130.82 | Peato Mauvaka      |             68 |
+|             27 | Ofa Tu'ungafasi        |     110.91 |            657181 |       17 |            921068 |     123.32 | Jean-Baptiste Gros |             27 |
+|             27 | Fletcher Newell        |      90.15 |            993389 |       18 |            771651 |     106.99 | Dorian Aldegheri   |             27 |
+|             11 | Brodie Retallick       |      94.14 |            580445 |       19 |            510458 |     109.69 | Romain Taofifenua  |             31 |
+|             23 | Luke Jacobson          |     150.04 |            895781 |       20 |            948078 |     129.19 | Paul Boudehent     |             17 |
+|             17 | Finlay Christie        |     108.5  |            846316 |       21 |            759261 |     153.06 | Maxime Lucu        |              4 |
+|             17 | David Havili           |     121.02 |               nan |       22 |            910968 |     132.32 | Arthur Vincent     |             22 |
+|              8 | Leicester Fainga'anuku |     140.16 |            942968 |       23 |            985740 |     232.68 | Melvyn Jaminet     |              4 |
 
 
 # Player Level Predictions - Version 2

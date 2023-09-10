@@ -28,10 +28,10 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Tasman by 33.9
+## Prediction with Player Minutes: Tasman by 33.8
 
 
-Tasman by 29.9 on a neutral field
+Tasman by 29.8 on a neutral field
 ## Prediction without Player Minutes: Tasman by 37.5
 
 
@@ -51,29 +51,29 @@ There were 3 large changes in win probability in this match
 
 |   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
-|             43 | Malakai Hala-Ngatai   |      99.93 |           1033909 |        1 |  914637           |      88.69 | Ryan Coxon           |             48 |
-|              4 | Leif Schwenke         |      89.6  |            932186 |        2 |  850353           |     166.53 | Feleti Kaitu'u       |             55 |
-|             48 | Flyn Yates            |      83.17 |           1004038 |        3 |       1.00816e+06 |      90.06 | Luca Inch            |             55 |
-|             54 | Ofa Tauatevalu        |      84.7  |           1005852 |        4 |  846358           |      95.1  | Quinten Strange      |             48 |
-|             80 | Johannes Momsen       |     176.71 |            958154 |        5 |  931625           |     132.09 | Michael Curry        |             80 |
-|             51 | TK Howden             |      99.89 |           1004202 |        6 |       1.0082e+06  |     120.96 | Max Hicks            |             80 |
-|             80 | Slade McDowall        |     117.78 |            907324 |        7 |       1.00514e+06 |     110.41 | Anton Segner         |             80 |
-|             80 | Brayden Iose          |      70.12 |            908967 |        8 |  858270           |     154.86 | Ethan Blackadder     |             54 |
-|             54 | Jordi Viljoen         |      91.02 |           1033545 |        9 |       1.01198e+06 |     122.3  | Noah Hotham          |             49 |
-|             80 | Brett Cameron         |     109.05 |            897998 |       10 |       1.03405e+06 |     110.93 | Shun Miyake          |             80 |
-|             80 | Epeli Waqaicece       |     105.63 |           1034053 |       11 |       1.02335e+06 |      95.91 | Willi Gualter        |             80 |
-|             53 | Jason Emery           |     108.63 |            660811 |       12 |  800883           |     134.5  | Alex Nankivell       |             80 |
-|             80 | Te Rangatira Waitokia |      46.26 |            909033 |       13 |  785682           |     137.8  | Levi Aumua           |             48 |
-|             80 | Drew Wild             |      90.75 |           1004109 |       14 |       1.00509e+06 |     116.13 | Timoci Tavatavanawai |             80 |
-|             80 | Beaudein Waaka        |      50.09 |            700940 |       15 |       1.00889e+06 |     132.96 | Macca Springer       |             54 |
-|             37 | Joseph Gavigan        |      83.59 |           1008953 |       16 |     nan           |     105.69 | Matt Graham-Williams |             32 |
-|             76 | Raymond Tuputupu      |      91.99 |           1033550 |       17 |  963350           |      96.89 | Samuel Matenga       |             25 |
-|             32 | Cole Keith            |      88.16 |            929526 |       18 |     nan           |     109.15 | Monu Moli            |             25 |
-|             29 | Terrell Peita         |     253.23 |           1015737 |       19 |     nan           |     105.78 | Angus Fletcher       |             32 |
-|             26 | Johnny Galloway       |      72.02 |            962966 |       20 |       1.03337e+06 |     105.68 | Seta Baker           |             26 |
-|             26 | John Poland           |      44.1  |            977090 |       21 |       1.00517e+06 |      90.42 | Louie Chapman        |             31 |
-|              3 | Kyle Brown            |      91.92 |           1033558 |       22 |       1.03405e+06 |     108.43 | Jack Gray            |             32 |
-|             24 | Isaiah Ravula         |     111.84 |           1033807 |       23 |  801618           |     105.52 | Tomasi Alosio        |             26 |
+|             43 | Malakai Hala-Ngatai   |      99.98 |           1034169 |        1 |  914739           |      88.64 | Ryan Coxon           |             48 |
+|              4 | Leif Schwenke         |      89.56 |            932291 |        2 |  850430           |     166.52 | Feleti Kaitu'u       |             55 |
+|             48 | Flyn Yates            |      83.13 |           1004220 |        3 |       1.00836e+06 |      90.03 | Luca Inch            |             55 |
+|             54 | Ofa Tauatevalu        |      84.66 |           1006045 |        4 |  846431           |      95.09 | Quinten Strange      |             48 |
+|             80 | Johannes Momsen       |     176.64 |            958278 |        5 |  931730           |     132.09 | Michael Curry        |             80 |
+|             51 | TK Howden             |      99.87 |           1004386 |        6 |       1.0084e+06  |     120.92 | Max Hicks            |             80 |
+|             80 | Slade McDowall        |     117.72 |            907422 |        7 |       1.00533e+06 |     110.37 | Anton Segner         |             80 |
+|             80 | Brayden Iose          |      70.06 |            909068 |        8 |  858349           |     154.85 | Ethan Blackadder     |             54 |
+|             54 | Jordi Viljoen         |      90.52 |           1033795 |        9 |       1.01219e+06 |     122.29 | Noah Hotham          |             49 |
+|             80 | Brett Cameron         |     109.03 |            898091 |       10 |       1.03433e+06 |     110.94 | Shun Miyake          |             80 |
+|             80 | Epeli Waqaicece       |     105.63 |           1034343 |       11 |       1.02357e+06 |      95.89 | Willi Gualter        |             80 |
+|             53 | Jason Emery           |     108.61 |            660831 |       12 |  800934           |     134.48 | Alex Nankivell       |             80 |
+|             80 | Te Rangatira Waitokia |      46.24 |            909134 |       13 |  785726           |     137.8  | Levi Aumua           |             48 |
+|             80 | Drew Wild             |      90.69 |           1004292 |       14 |       1.00528e+06 |     116.09 | Timoci Tavatavanawai |             80 |
+|             80 | Beaudein Waaka        |      50.03 |            700965 |       15 |       1.0091e+06  |     132.92 | Macca Springer       |             54 |
+|             37 | Joseph Gavigan        |      83.56 |           1009159 |       16 |     nan           |     105.68 | Matt Graham-Williams |             32 |
+|             76 | Raymond Tuputupu      |      93.15 |           1033765 |       17 |  963480           |      96.88 | Samuel Matenga       |             25 |
+|             32 | Cole Keith            |      88.14 |            929631 |       18 |     nan           |     109.13 | Monu Moli            |             25 |
+|             29 | Terrell Peita         |     253.2  |           1015951 |       19 |     nan           |     105.79 | Angus Fletcher       |             32 |
+|             26 | Johnny Galloway       |      72.01 |            963095 |       20 |       1.03361e+06 |     105.67 | Seta Baker           |             26 |
+|             26 | John Poland           |      44.08 |            977231 |       21 |       1.00536e+06 |      90.39 | Louie Chapman        |             31 |
+|              3 | Kyle Brown            |      92.99 |           1033773 |       22 |       1.03433e+06 |     108.37 | Jack Gray            |             32 |
+|             24 | Isaiah Ravula         |     112.06 |           1034062 |       23 |  801670           |     105.52 | Tomasi Alosio        |             26 |
 
 
 # Player Level Predictions - Version 2

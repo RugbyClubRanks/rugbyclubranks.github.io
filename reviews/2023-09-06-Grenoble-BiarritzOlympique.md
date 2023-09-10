@@ -51,29 +51,29 @@ There were 20 large changes in win probability in this match
 
 |   Away Minutes | Away Player              |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:-------------------------|-----------:|------------------:|---------:|------------------:|-----------:|:--------------------|---------------:|
-|             45 | Kevin Tougne             |     177.72 |  943156           |        1 |       1.01266e+06 |     211.57 | Zack Gauthier       |             44 |
-|             32 | Thomas Sauveterre        |     158.04 |  863329           |        2 |       1.03167e+06 |     127.83 | Bernabe Massa       |             71 |
-|             40 | Zakaria El Fakir         |     112.37 |  878213           |        3 |  988311           |     224.37 | Regis Montagne      |             66 |
-|             80 | Johnny Dyer              |     298.48 |  940914           |        4 |  834814           |     159.06 | Georgi Javakhia     |             44 |
-|             40 | Pieter Jansen van Vuuren |      90.05 |  892047           |        5 |  859337           |     199.63 | Pierce Phillips     |             80 |
-|             57 | Tiaan Jacobs             |     120.63 |       1.03384e+06 |        6 |  902414           |     101.63 | Antonin Berruyer    |             80 |
-|             80 | Dave O'Callaghan         |      45.23 |  609157           |        7 |  893944           |     104.72 | Steeve Blanc-Mappaz |             80 |
-|             80 | Charlie Francoz          |     110.63 |  879451           |        8 |  593327           |     135.49 | Tala Gray           |             67 |
-|             51 | Kerman Aurrekoetxea      |     219.99 |  981592           |        9 |  965693           |     141.87 | Barnabe Couilloud   |             58 |
-|             80 | Chris Hilsenbeck         |     224.47 |  777313           |       10 |  623216           |     105.86 | Sam Davies          |             73 |
-|             58 | Baptiste Fariscot        |     122.98 |       1.02223e+06 |       11 |  827214           |     115.15 | Geoffrey Cros       |             80 |
-|             80 | Ilian Perraux            |     103.41 |  600317           |       12 |  698695           |      83.69 | Bautista Ezcurra    |             80 |
-|             65 | Robin McClintock         |     111.39 |       1.03395e+06 |       13 |  991256           |     172.89 | Romain Trouilloud   |             80 |
-|             80 | Zach Kibirige            |      88.84 |  725274           |       14 |  955864           |      86.22 | Erwan Dridi         |             80 |
-|             80 | Gervais Cordin           |     162.63 |  896210           |       15 |  787832           |     104.77 | Julien Farnoux      |             65 |
-|             48 | Bastien Soury            |      69.07 |  804573           |       16 |  704690           |      83.04 | Brandon Nansen      |             36 |
-|             40 | Johan Aliouat            |      96.3  |  794843           |       17 |  933921           |     131.71 | Luka Goginava       |             36 |
-|             40 | Lasha Tabidze            |     205.08 |     nan           |       18 |  571791           |     145.58 | Felipe Ezcurra      |             22 |
-|             35 | Giorgi Nutsubidze        |     197.94 |  973277           |       19 |  984246           |     142.22 | Romain Fusier       |             15 |
-|             29 | Antoine Domercq          |     122.79 |       1.03384e+06 |       20 |       1.02519e+06 |     109.84 | Vincent Vial        |             14 |
-|             23 | Simon Augry              |     162.56 |  946012           |       21 |  999387           |     232.84 | Victor Guillaumond  |             13 |
-|             22 | Joe Jonas                |     130.02 |       1.01157e+06 |       22 |       1.01268e+06 |     232.59 | Enzo Camilleri      |              9 |
-|             15 | Francois Vergnaud        |     131.78 |  951891           |       23 |     nan           |     137.13 | Max Clement         |              7 |
+|             45 | Kevin Tougne             |     177.72 |  943267           |        1 |       1.01287e+06 |     211.57 | Zack Gauthier       |             44 |
+|             32 | Thomas Sauveterre        |     158.04 |  863411           |        2 |       1.03192e+06 |     127.83 | Bernabe Massa       |             71 |
+|             40 | Zakaria El Fakir         |     112.37 |  878299           |        3 |  988474           |     224.37 | Regis Montagne      |             66 |
+|             80 | Johnny Dyer              |     298.48 |  941023           |        4 |  834881           |     159.06 | Georgi Javakhia     |             44 |
+|             40 | Pieter Jansen van Vuuren |      90.05 |  892137           |        5 |  859416           |     199.63 | Pierce Phillips     |             80 |
+|             57 | Tiaan Jacobs             |     120.36 |       1.0341e+06  |        6 |  902509           |     101.63 | Antonin Berruyer    |             80 |
+|             80 | Dave O'Callaghan         |      45.23 |  609171           |        7 |  894035           |     104.73 | Steeve Blanc-Mappaz |             80 |
+|             80 | Charlie Francoz          |     110.63 |  879538           |        8 |  593340           |     135.49 | Tala Gray           |             67 |
+|             51 | Kerman Aurrekoetxea      |     219.99 |  981740           |        9 |  965828           |     141.87 | Barnabe Couilloud   |             58 |
+|             80 | Chris Hilsenbeck         |     224.47 |  777354           |       10 |  623233           |     105.86 | Sam Davies          |             73 |
+|             58 | Baptiste Fariscot        |     122.97 |       1.02245e+06 |       11 |  827277           |     115.15 | Geoffrey Cros       |             80 |
+|             80 | Ilian Perraux            |     103.41 |  600330           |       12 |  698719           |      83.69 | Bautista Ezcurra    |             80 |
+|             65 | Robin McClintock         |     111.39 |       1.03421e+06 |       13 |  991422           |     172.89 | Romain Trouilloud   |             80 |
+|             80 | Zach Kibirige            |      88.84 |  725308           |       14 |  955984           |      86.22 | Erwan Dridi         |             80 |
+|             80 | Gervais Cordin           |     162.63 |  896302           |       15 |  787876           |     104.77 | Julien Farnoux      |             65 |
+|             48 | Bastien Soury            |      69.07 |  804627           |       16 |  704717           |      83.04 | Brandon Nansen      |             36 |
+|             40 | Johan Aliouat            |      96.3  |  794890           |       17 |  934029           |     131.71 | Luka Goginava       |             36 |
+|             40 | Lasha Tabidze            |     205.08 |     nan           |       18 |  571803           |     145.58 | Felipe Ezcurra      |             22 |
+|             35 | Giorgi Nutsubidze        |     197.93 |  973415           |       19 |  984400           |     142.22 | Romain Fusier       |             15 |
+|             29 | Antoine Domercq          |     123.06 |       1.03409e+06 |       20 |       1.02542e+06 |     109.84 | Vincent Vial        |             14 |
+|             23 | Simon Augry              |     162.56 |  946125           |       21 |  999563           |     232.84 | Victor Guillaumond  |             13 |
+|             22 | Joe Jonas                |     130.02 |       1.01178e+06 |       22 |       1.01289e+06 |     232.59 | Enzo Camilleri      |              9 |
+|             15 | Francois Vergnaud        |     131.78 |  952011           |       23 |     nan           |     137.13 | Max Clement         |              7 |
 
 
 # Player Level Predictions - Version 2

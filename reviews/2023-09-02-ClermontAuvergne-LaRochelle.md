@@ -51,28 +51,28 @@ There were 3 large changes in win probability in this match
 
 |   Away Minutes | Away Player           |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
-|             54 | Thierry Paiva         |     139.46 |  851580           |        1 |   790606          |     116.43 | Etienne Falgoux      |             43 |
-|             67 | Quentin Lespiaucq     |     125.83 |  819694           |        2 |   863640          |     158.06 | Folau Fainga'a       |             50 |
-|             54 | Aleksandre Kuntelia   |     104.59 |       1.02846e+06 |        3 |   404062          |     100.07 | Rabah Slimani        |             43 |
-|             80 | Thomas Lavault        |     149.91 |  973160           |        4 |   970810          |     109.17 | Thibaud Lanen        |             80 |
-|             74 | Remi Picquette        |      91.38 |  838823           |        5 |   411876          |     122.89 | Rob Simmons          |             80 |
-|             80 | Ultan Dillane         |     116.2  |  785278           |        6 |   972138          |     155.15 | Lucas Dessaigne      |             80 |
-|             54 | Matthias Haddad       |     106.28 |  989400           |        7 |   780741          |      68.55 | Peceli Yato Senibitu |             64 |
-|             80 | Judicael Cancoriet    |     126.02 |  772775           |        8 |   888854          |     110.79 | Caleb Timu           |             80 |
-|             70 | Tawera Kerr-Barlow    |     135.44 |  501170           |        9 |   673503          |     104.86 | Sebastien Bezy       |             73 |
-|             80 | Ihaia West            |     124.27 |  666146           |       10 |   541942          |     101.18 | Benjamin Urdapilleta |             80 |
-|             80 | Dillyn Leyds          |     138.88 |  741116           |       11 |   949502          |     153.53 | Joris Jurand         |             80 |
-|             80 | Jules Favre           |     168.22 |  935640           |       12 |        1.0341e+06 |     121.96 | Leon Darricarrere    |             63 |
-|             80 | Jack Nowell           |     120.52 |  611566           |       13 |   791525          |     115.69 | Julien Heriteau      |             80 |
-|             70 | Teddy Thomas          |     165.51 |  688032           |       14 |   842024          |     216.43 | Bautista Delguy      |             80 |
-|             80 | Brice Dulin           |     144.1  |  439477           |       15 |   848607          |     120.23 | Alex Newsome         |             80 |
-|             26 | Georges-Henri Colombe |      78.2  |  896877           |       16 |   980166          |     110.44 | Daniel Bibi Biziwu   |             37 |
-|             26 | Archer Holz           |     134.12 |  994498           |       17 |   933518          |     192.37 | Cristian Ojovan      |             37 |
-|             26 | Oscar Jegou           |     106.85 |       1.03311e+06 |       18 |   866671          |     100.47 | Etienne Fourcade     |             30 |
-|             13 | Billy Pollard         |     151.14 |       1.00012e+06 |       19 |   795213          |     103.69 | Anthony Belleau      |             17 |
-|             10 | Teddy Iribaren        |     110.96 |  560498           |       20 |   990330          |     134.09 | Killian Tixeront     |             16 |
-|             10 | Nathan Bollengier     |     116.81 |     nan           |       21 |   805442          |     173.41 | Enzo Sanga           |              7 |
-|              6 | Thomas Ployet         |      98.05 |  999253           |       22 |      nan          |     nan    | nan                  |            nan |
+|             54 | Thierry Paiva         |     139.46 |  851657           |        1 |   790650          |     116.43 | Etienne Falgoux      |             43 |
+|             67 | Quentin Lespiaucq     |     125.83 |  819753           |        2 |   863722          |     158.06 | Folau Fainga'a       |             50 |
+|             54 | Aleksandre Kuntelia   |     104.59 |       1.0287e+06  |        3 |   404068          |     100.07 | Rabah Slimani        |             43 |
+|             80 | Thomas Lavault        |     149.91 |  973298           |        4 |   970946          |     109.17 | Thibaud Lanen        |             80 |
+|             74 | Remi Picquette        |      91.38 |  838890           |        5 |   411882          |     122.89 | Rob Simmons          |             80 |
+|             80 | Ultan Dillane         |     116.2  |  785320           |        6 |   972275          |     155.15 | Lucas Dessaigne      |             80 |
+|             54 | Matthias Haddad       |     106.28 |  989563           |        7 |   780782          |      68.55 | Peceli Yato Senibitu |             64 |
+|             80 | Judicael Cancoriet    |     126.02 |  772816           |        8 |   888944          |     110.79 | Caleb Timu           |             80 |
+|             70 | Tawera Kerr-Barlow    |     135.44 |  501181           |        9 |   673525          |     104.86 | Sebastien Bezy       |             73 |
+|             80 | Ihaia West            |     124.27 |  666166           |       10 |   541953          |     101.18 | Benjamin Urdapilleta |             80 |
+|             80 | Dillyn Leyds          |     138.88 |  741150           |       11 |   949618          |     153.53 | Joris Jurand         |             80 |
+|             80 | Jules Favre           |     168.21 |  935749           |       12 |        1.0344e+06 |     121.96 | Leon Darricarrere    |             63 |
+|             80 | Jack Nowell           |     120.52 |  611580           |       13 |   791571          |     115.69 | Julien Heriteau      |             80 |
+|             70 | Teddy Thomas          |     165.51 |  688056           |       14 |   842092          |     216.43 | Bautista Delguy      |             80 |
+|             80 | Brice Dulin           |     144.1  |  439484           |       15 |   848682          |     120.23 | Alex Newsome         |             80 |
+|             26 | Georges-Henri Colombe |      78.2  |  896969           |       16 |   980308          |     110.44 | Daniel Bibi Biziwu   |             37 |
+|             26 | Archer Holz           |     134.12 |  994669           |       17 |   933626          |     192.37 | Cristian Ojovan      |             37 |
+|             26 | Oscar Jegou           |     106.85 |       1.03336e+06 |       18 |   866754          |     100.47 | Etienne Fourcade     |             30 |
+|             13 | Billy Pollard         |     151.14 |       1.0003e+06  |       19 |   795261          |     103.69 | Anthony Belleau      |             17 |
+|             10 | Teddy Iribaren        |     110.96 |  560510           |       20 |   990495          |     134.09 | Killian Tixeront     |             16 |
+|             10 | Nathan Bollengier     |     117.08 |     nan           |       21 |   805496          |     173.41 | Enzo Sanga           |              7 |
+|              6 | Thomas Ployet         |      98.05 |  999428           |       22 |      nan          |     nan    | nan                  |            nan |
 
 
 # Player Level Predictions - Version 2

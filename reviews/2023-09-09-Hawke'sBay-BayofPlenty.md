@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Bay of Plenty by 0.1
+## Prediction with Player Minutes: Hawke's Bay by 0.0
 
 
-Bay of Plenty by 4.1 on a neutral field
-## Prediction without Player Minutes: Bay of Plenty by 0.0
+Bay of Plenty by 4.0 on a neutral field
+## Prediction without Player Minutes: Hawke's Bay by 0.1
 
 
-Bay of Plenty by 4.0 on a neutral pitch
+Bay of Plenty by 3.9 on a neutral pitch
 
 
 ## Scores over Time
@@ -51,29 +51,29 @@ There were 14 large changes in win probability in this match
 
 |   Away Minutes | Away Player            |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:-----------------------|-----------:|------------------:|---------:|------------------:|-----------:|:---------------------|---------------:|
-|             71 | Aidan Ross             |     103.42 |  804261           |        1 |  895566           |     104.17 | Pouri Rakete-Stones  |             66 |
-|             79 | Nathan Vella           |      88.17 |  704410           |        2 |       1.00628e+06 |      95.83 | Tyrone Thompson      |             68 |
-|             41 | Benet Kumeroa          |     113.6  |       1.03362e+06 |        3 |  932461           |      86.45 | Joel Hintz           |             65 |
-|             80 | Manaaki Selby-Rickit   |     154.66 |  894209           |        4 |  762914           |     104.26 | Geoff Cridge         |             80 |
-|             80 | Justin Sangster        |     130.5  |       1.00523e+06 |        5 |  667166           |     114.53 | Tom Parsons          |             80 |
-|             80 | Naitoa Ah Kuoi         |     138.15 |  963253           |        6 |       1.03383e+06 |      94.19 | Josh Gimblett        |             24 |
-|             80 | Veveni Lasaqa          |      87.72 |       1.01127e+06 |        7 |  847115           |      98.87 | Josh Kaifa           |             80 |
-|             79 | Penitoa Finau          |      93.71 |       1.00519e+06 |        8 |  932791           |     123.64 | Devan Flanders       |             79 |
-|             55 | Richard Judd           |     108.65 |  802793           |        9 |  711322           |     152.9  | Brad Weber           |             65 |
-|             79 | Wharenui Hawera        |      75.03 |  705998           |       10 |  940244           |      80.67 | Lincoln McClutchie   |             80 |
-|             80 | Fehi Fineanganofo      |     106.08 |       1.03413e+06 |       11 |  962325           |      87.88 | Ollie Sapsford       |             80 |
-|             80 | Seamus Bardoul         |      92.95 |       1.02769e+06 |       12 |  756226           |     102.11 | Chase Tiatia         |             80 |
-|             80 | Melani Nanai           |     147.77 |  717303           |       13 |  830548           |     109.75 | Nick Grigg           |             80 |
-|             80 | Cody Vai               |      98.65 |       1.03375e+06 |       14 |  813234           |     112.68 | Jonah Lowe           |             80 |
-|             65 | Sekuini Tanimo         |     100.15 |       1.00526e+06 |       15 |       1.02379e+06 |      94.75 | Harry Godfrey        |             13 |
-|              9 | Josh Bartlett          |     102.81 |     nan           |       16 |  937835           |      97.06 | Kianu Kereru-Symes   |             12 |
-|             39 | Pasilio Tosi           |     106.03 |     nan           |       17 |     nan           |     174.41 | Bo Abra              |             15 |
-|              1 | Taine Kolose           |     105.53 |     nan           |       18 |     nan           |      96.34 | Timothy John Farrell |             14 |
-|              1 | Ryosuke Funahashi      |     158.95 |     nan           |       19 |       1.03351e+06 |      90.39 | Frank Lochore        |              1 |
-|             25 | Te Toiroa Tahuriorangi |     108.95 |  801576           |       20 |       1.00452e+06 |      95.06 | Sam Smith            |             56 |
-|              1 | Tamiro Armstrong       |     105.28 |     nan           |       21 |  807598           |     107.88 | Stacey Ili           |             33 |
-|             15 | Reon Paul              |     105.8  |     nan           |       22 |  905136           |     152.49 | Paula Balekana       |             34 |
-|            nan | nan                    |     nan    |     nan           |       23 |  932683           |      94.6  | Folau Fakatava       |             15 |
+|             71 | Aidan Ross             |     103.41 |  804315           |        1 |  895658           |     104.16 | Pouri Rakete-Stones  |             66 |
+|             79 | Nathan Vella           |      88.17 |  704437           |        2 |       1.00647e+06 |      95.84 | Tyrone Thompson      |             68 |
+|             41 | Benet Kumeroa          |     113.33 |       1.03388e+06 |        3 |  932567           |      86.43 | Joel Hintz           |             65 |
+|             80 | Manaaki Selby-Rickit   |     154.65 |  894300           |        4 |  762954           |     104.27 | Geoff Cridge         |             80 |
+|             80 | Justin Sangster        |     130.47 |       1.00542e+06 |        5 |  667186           |     114.51 | Tom Parsons          |             80 |
+|             80 | Naitoa Ah Kuoi         |     138.12 |  963383           |        6 |       1.03408e+06 |      94.42 | Josh Gimblett        |             24 |
+|             80 | Veveni Lasaqa          |      87.71 |       1.01148e+06 |        7 |  847188           |      98.84 | Josh Kaifa           |             80 |
+|             79 | Penitoa Finau          |      93.72 |       1.00538e+06 |        8 |  932897           |     123.62 | Devan Flanders       |             79 |
+|             55 | Richard Judd           |     108.65 |  802846           |        9 |  711353           |     152.9  | Brad Weber           |             65 |
+|             79 | Wharenui Hawera        |      75.01 |  706026           |       10 |  940353           |      80.65 | Lincoln McClutchie   |             80 |
+|             80 | Fehi Fineanganofo      |     105.77 |       1.03442e+06 |       11 |  962451           |      87.86 | Ollie Sapsford       |             80 |
+|             80 | Seamus Bardoul         |      92.95 |       1.02793e+06 |       12 |  756263           |     102.1  | Chase Tiatia         |             80 |
+|             80 | Melani Nanai           |     147.74 |  717335           |       13 |  830611           |     109.74 | Nick Grigg           |             80 |
+|             80 | Cody Vai               |      98.11 |       1.03402e+06 |       14 |  813293           |     112.67 | Jonah Lowe           |             80 |
+|             65 | Sekuini Tanimo         |     100.15 |       1.00545e+06 |       15 |       1.02401e+06 |      94.72 | Harry Godfrey        |             13 |
+|              9 | Josh Bartlett          |     103.32 |     nan           |       16 |  937944           |      97.05 | Kianu Kereru-Symes   |             12 |
+|             39 | Pasilio Tosi           |     106.02 |     nan           |       17 |     nan           |     174.41 | Bo Abra              |             15 |
+|              1 | Taine Kolose           |     105.26 |     nan           |       18 |     nan           |      96.09 | Timothy John Farrell |             14 |
+|              1 | Ryosuke Funahashi      |     158.95 |     nan           |       19 |       1.03375e+06 |      90.59 | Frank Lochore        |              1 |
+|             25 | Te Toiroa Tahuriorangi |     108.94 |  801628           |       20 |       1.00471e+06 |      95.04 | Sam Smith            |             56 |
+|              1 | Tamiro Armstrong       |     105.51 |     nan           |       21 |  807655           |     107.88 | Stacey Ili           |             33 |
+|             15 | Reon Paul              |     106.05 |     nan           |       22 |  905231           |     152.5  | Paula Balekana       |             34 |
+|            nan | nan                    |     nan    |     nan           |       23 |  932789           |      94.6  | Folau Fakatava       |             15 |
 
 
 # Player Level Predictions - Version 2

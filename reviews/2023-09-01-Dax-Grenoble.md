@@ -51,29 +51,29 @@ There were 10 large changes in win probability in this match
 
 |   Away Minutes | Away Player         |   Away elo |   Away Percentile |   Number |   Home Percentile |   Home elo | Home Player           |   Home Minutes |
 |---------------:|:--------------------|-----------:|------------------:|---------:|------------------:|-----------:|:----------------------|---------------:|
-|             49 | Luka Goginava       |     134.63 |  933921           |        1 |           1021086 |     299.53 | Louis Mary            |             51 |
-|             80 | Bernabe Massa       |     132.6  |       1.03167e+06 |        2 |            510598 |      44.77 | Maxime Delonca        |             51 |
-|             41 | Siua Halanukonuka   |      86.7  |  703133           |        3 |            889892 |      70.59 | Nephi Leatigaga       |             51 |
-|             10 | Thomas Lainault     |      95.47 |  869935           |        4 |            441559 |      91.4  | Josh Furno            |             80 |
-|             56 | Brandon Nansen      |      84.02 |  704690           |        5 |            503699 |      49.5  | Mat Luamanu           |             51 |
-|             80 | Victor Guillaumond  |     237.62 |  999387           |        6 |            614374 |      47.47 | Jean-Baptiste Barrère |             80 |
-|             80 | Steeve Blanc-Mappaz |     109.49 |  893944           |        7 |            983439 |     177.88 | Arnaud Aletti         |             59 |
-|             80 | Antonin Berruyer    |     106.4  |  902414           |        8 |            983110 |     264.32 | Brice Ferrer          |             80 |
-|             65 | Barnabe Couilloud   |     145.75 |  965693           |        9 |            946214 |     148.35 | Paul Ravier           |             54 |
-|             80 | Romain Barthelemy   |       3.86 |  472875           |       10 |            986687 |     222.72 | Hugo Cerisier         |             54 |
-|             80 | Karim Qadiri        |     196.58 |  794063           |       11 |            830778 |      76.78 | Maxime Oltmann        |             80 |
-|             54 | Terrence Hepetema   |     103.02 |  696076           |       12 |            326951 |     -50    | Ilikena Bolakoro      |             80 |
-|             80 | Romain Fusier       |     146.99 |  984246           |       13 |           1033942 |     157.3  | Bastien Daguerre      |             80 |
-|             80 | Erwan Dridi         |      90.99 |  955864           |       14 |            983171 |     182.43 | Théo Gatelier         |             80 |
-|             58 | Hugo Trouilloud     |     107.67 |       1.02395e+06 |       15 |            993728 |     201.91 | Théo Duprat           |             58 |
-|             70 | Georgi Javakhia     |     160.29 |  834814           |       16 |            805217 |     -82.13 | Asa Faitotoa          |             29 |
-|             39 | Regis Montagne      |     226.7  |  988311           |       17 |           1034062 |     121.96 | Iban Hiriart-Urruty   |             29 |
-|             31 | Zack Gauthier       |     213.41 |       1.01266e+06 |       18 |            764857 |      74.82 | Jean-Baptiste Singer  |             29 |
-|             22 | Geoffrey Cros       |     116.46 |  827214           |       19 |            883861 |     105.6  | Thibaud Dréan         |             29 |
-|             26 | Bautista Ezcurra    |      84.14 |  698695           |       20 |            983215 |     261.13 | Simon Garrouteigt     |             26 |
-|             24 | Diego Pinheiro Ruiz |     123.08 |     nan           |       21 |            862469 |     101.19 | Romuald Séguy         |             26 |
-|             15 | Max Clement         |     138.03 |     nan           |       22 |           1033877 |     145.43 | Jope Naceava          |             22 |
-|            nan | nan                 |     nan    |     nan           |       23 |            991419 |     233.45 | Théo Tremeau          |             21 |
+|             49 | Luka Goginava       |     134.63 |  934029           |        1 |           1021304 |     299.53 | Louis Mary            |             51 |
+|             80 | Bernabe Massa       |     132.6  |       1.03192e+06 |        2 |            510609 |      44.77 | Maxime Delonca        |             51 |
+|             41 | Siua Halanukonuka   |      86.7  |  703158           |        3 |            889982 |      70.59 | Nephi Leatigaga       |             51 |
+|             10 | Thomas Lainault     |      95.48 |  870021           |        4 |            441566 |      91.4  | Josh Furno            |             80 |
+|             56 | Brandon Nansen      |      84.03 |  704717           |        5 |            503710 |      49.5  | Mat Luamanu           |             51 |
+|             80 | Victor Guillaumond  |     237.62 |  999563           |        6 |            614389 |      47.47 | Jean-Baptiste Barrère |             80 |
+|             80 | Steeve Blanc-Mappaz |     109.5  |  894035           |        7 |            983591 |     177.88 | Arnaud Aletti         |             59 |
+|             80 | Antonin Berruyer    |     106.4  |  902509           |        8 |            983262 |     264.32 | Brice Ferrer          |             80 |
+|             65 | Barnabe Couilloud   |     145.75 |  965828           |        9 |            946327 |     148.35 | Paul Ravier           |             54 |
+|             80 | Romain Barthelemy   |       3.86 |  472886           |       10 |            986848 |     222.72 | Hugo Cerisier         |             54 |
+|             80 | Karim Qadiri        |     196.58 |  794110           |       11 |            830841 |      76.78 | Maxime Oltmann        |             80 |
+|             54 | Terrence Hepetema   |     103.02 |  696100           |       12 |            326953 |     -50    | Ilikena Bolakoro      |             80 |
+|             80 | Romain Fusier       |     146.99 |  984400           |       13 |           1034201 |     157.3  | Bastien Daguerre      |             80 |
+|             80 | Erwan Dridi         |      91    |  955984           |       14 |            983323 |     182.43 | Théo Gatelier         |             80 |
+|             58 | Hugo Trouilloud     |     107.67 |       1.02418e+06 |       15 |            993899 |     201.91 | Théo Duprat           |             58 |
+|             70 | Georgi Javakhia     |     160.29 |  834881           |       16 |            805271 |     -82.13 | Asa Faitotoa          |             29 |
+|             39 | Regis Montagne      |     226.7  |  988474           |       17 |           1034348 |     121.97 | Iban Hiriart-Urruty   |             29 |
+|             31 | Zack Gauthier       |     213.42 |       1.01287e+06 |       18 |            764897 |      74.82 | Jean-Baptiste Singer  |             29 |
+|             22 | Geoffrey Cros       |     116.46 |  827277           |       19 |            883951 |     105.6  | Thibaud Dréan         |             29 |
+|             26 | Bautista Ezcurra    |      84.14 |  698719           |       20 |            983367 |     261.13 | Simon Garrouteigt     |             26 |
+|             24 | Diego Pinheiro Ruiz |     123.09 |     nan           |       21 |            862550 |     101.19 | Romuald Séguy         |             26 |
+|             15 | Max Clement         |     138.03 |     nan           |       22 |           1034135 |     145.43 | Jope Naceava          |             22 |
+|            nan | nan                 |     nan    |     nan           |       23 |            991585 |     233.45 | Théo Tremeau          |             21 |
 
 
 # Player Level Predictions - Version 2
