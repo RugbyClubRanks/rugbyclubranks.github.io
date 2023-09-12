@@ -9,7 +9,7 @@ categories: match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.937, which translates to predicting South Africa to win by 35.2.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.943, which translates to predicting South Africa to win by 36.5.
 
 Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances
@@ -24,22 +24,12 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 ![Projected Results](../comp_files/plots/resultbar_2023-09-17-SouthAfrica_V_Romania.png)
-# Player Level Predictions - Version 1
-
-
-Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Imputed Lineups: Romania by 27.7
-
-
-Romania by 31.7 on a neutral pitch
-
-
 # Player Level Predictions - Version 2
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Imputed Lineups: South Africa by 37.3
+## Prediction with Imputed Lineups: South Africa by 39.3
 
 
-South Africa by 33.6 on a neutral pitch
+South Africa by 35.7 on a neutral pitch
 

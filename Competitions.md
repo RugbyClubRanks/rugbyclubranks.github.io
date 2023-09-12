@@ -60,7 +60,7 @@ key: page-recents
 ## Rugby World Cup
 
 
-[2023](comp_files\Rugby_World_Cup_2023)
+[2023](comp_files\Rugby_World_Cup_2023) - Prediction Accuracy: 75.0% 
 ## worldcupwarmupmatch
 
 
