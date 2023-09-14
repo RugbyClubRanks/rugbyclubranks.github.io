@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Ireland by 38.1
+## Prediction with Player Minutes: Ireland by 40.7
 
 
-Ireland by 38.1 on a neutral field
-## Prediction without Player Minutes: Ireland by 36.9
+Ireland by 40.7 on a neutral field
+## Prediction without Player Minutes: Ireland by 39.5
 
 
-Ireland by 36.9 on a neutral pitch
+Ireland by 39.5 on a neutral pitch
 
 
 ## Scores over Time
@@ -58,13 +58,13 @@ Ireland by 36.9 on a neutral pitch
 |             84 | Vlad Neculau      |      36.85 |        7 |      97.69 | Peter O'Mahony      |             84 |
 |             84 | Cristian Chirica  |      26.74 |        8 |     108.04 | Caelan Doris        |             57 |
 |             75 | Gabriel Rupanu    |      45.41 |        9 |     115.21 | Jamison Gibson-Park |             60 |
-|             61 | Hinckley Vaovasa  |      49.05 |       10 |      46.65 | Johnny Sexton       |             66 |
+|             61 | Hinckley Vaovasa  |      49.05 |       10 |     111.12 | Johnny Sexton       |             66 |
 |             76 | Tevita Manumua    |       9.43 |       11 |     167.21 | James Lowe          |             84 |
 |             66 | Fonovai Tangimana |      46.65 |       12 |     116.93 | Bundee Aki          |             84 |
 |             84 | Jason Tomane      |      32.13 |       13 |     115.14 | Garry Ringrose      |             84 |
 |             84 | Nicolas Onutu     |      45.33 |       14 |      53.4  | Keith Earls         |             60 |
 |             84 | Marius Simionescu |       8.12 |       15 |     116.5  | Hugo Keenan         |             84 |
-|             29 | Florin Bardasu    |      42.98 |       16 |      46.65 | Ronan Kelleher      |             33 |
+|             29 | Florin Bardasu    |      42.98 |       16 |      75.69 | Ronan Kelleher      |             33 |
 |             35 | Alexandru Savin   |      36.09 |       17 |      83.26 | Jeremy Loughman     |             33 |
 |             32 | Gheorghe Gajion   |      70.12 |       18 |      49.78 | Tom O'Toole         |             33 |
 |             23 | Marius Iftimiciuc |      25.84 |       19 |      71.93 | Iain Henderson      |             27 |
