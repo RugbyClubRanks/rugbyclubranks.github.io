@@ -51,8 +51,8 @@ There were 13 large changes in win probability in this match
 
 |   Away Minutes | Away Player           |   Away elo |   Number |   Home elo | Home Player           |   Home Minutes |
 |---------------:|:----------------------|-----------:|---------:|-----------:|:----------------------|---------------:|
-|             62 | Robert Rodgers        |      27.55 |        1 |      42.49 | Thomas Dubois         |             80 |
 |             62 | Robert Rodgers        |      27.55 |        1 |      46.65 | Guillaume Tartas      |             47 |
+|             62 | Robert Rodgers        |      27.55 |        1 |      42.49 | Thomas Dubois         |             80 |
 |             58 | Lilian Djomboue       |      45.01 |        2 |      30.97 | Andrew Ready          |             40 |
 |             62 | Giorgi Kartvelishvili |      47.28 |        3 |      11.53 | Marco Fepulea'i       |             47 |
 |             80 | Heath Backhouse       |      62.03 |        4 |      50.81 | Jean Thomas           |             80 |

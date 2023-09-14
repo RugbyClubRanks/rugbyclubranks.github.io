@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: France by 1.5
+## Prediction with Player Minutes: France by 0.8
 
 
-New Zealand by 2.2 on a neutral field
-## Prediction without Player Minutes: France by 2.2
+New Zealand by 2.8 on a neutral field
+## Prediction without Player Minutes: France by 1.5
 
 
-New Zealand by 1.5 on a neutral pitch
+New Zealand by 2.1 on a neutral pitch
 
 
 ## Scores over Time
@@ -47,7 +47,7 @@ New Zealand by 1.5 on a neutral pitch
 
 ![In Match Predictions](plots/recap_prob_V2-2023-09-08-France-NewZealand.png)
 
-There were 7 large changes in win probability in this match
+There were 8 large changes in win probability in this match
 
 |   Away Minutes | Away Player            |   Away elo |   Number |   Home elo | Home Player        |   Home Minutes |
 |---------------:|:-----------------------|-----------:|---------:|-----------:|:-------------------|---------------:|
@@ -72,6 +72,6 @@ There were 7 large changes in win probability in this match
 |             11 | Brodie Retallick       |     135.1  |       19 |      47.58 | Romain Taofifenua  |             31 |
 |             23 | Luke Jacobson          |      78.41 |       20 |      37.63 | Paul Boudehent     |             17 |
 |             17 | Finlay Christie        |      56.34 |       21 |     108.59 | Maxime Lucu        |              4 |
-|             17 | David Havili           |      46.65 |       22 |      57.59 | Arthur Vincent     |             22 |
+|             17 | David Havili           |     117.47 |       22 |      57.59 | Arthur Vincent     |             22 |
 |              8 | Leicester Fainga'anuku |      80.27 |       23 |      66.18 | Melvyn Jaminet     |              4 |
 

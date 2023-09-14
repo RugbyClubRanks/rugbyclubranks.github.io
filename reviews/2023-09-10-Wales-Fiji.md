@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Fiji by 4.0
+## Prediction with Player Minutes: Fiji by 3.5
 
 
-Fiji by 4.0 on a neutral field
-## Prediction without Player Minutes: Fiji by 3.6
+Fiji by 3.5 on a neutral field
+## Prediction without Player Minutes: Fiji by 2.9
 
 
-Fiji by 3.6 on a neutral pitch
+Fiji by 2.9 on a neutral pitch
 
 
 ## Scores over Time
@@ -47,7 +47,7 @@ Fiji by 3.6 on a neutral pitch
 
 ![In Match Predictions](plots/recap_prob_V2-2023-09-10-Wales-Fiji.png)
 
-There were 11 large changes in win probability in this match
+There were 12 large changes in win probability in this match
 
 |   Away Minutes | Away Player                    |   Away elo |   Number |   Home elo | Home Player       |   Home Minutes |
 |---------------:|:-------------------------------|-----------:|---------:|-----------:|:------------------|---------------:|
@@ -58,7 +58,7 @@ There were 11 large changes in win probability in this match
 |             70 | Te Ahiwaru Cirikidaveta        |      49.47 |        5 |      51.91 | Adam Beard        |             59 |
 |             59 | Albert Tuisue                  |      88.91 |        6 |      63.71 | Aaron Wainwright  |             71 |
 |             80 | Lekima Tagitagivalu            |      83.81 |        7 |      61.6  | Jac Morgan        |             80 |
-|             80 | Viliame Mata                   |      47.45 |        8 |      46.65 | Taulupe Faletau   |             59 |
+|             80 | Viliame Mata                   |      47.45 |        8 |      66.14 | Taulupe Faletau   |             59 |
 |             53 | Frank Lomani                   |      53.2  |        9 |      33.64 | Gareth Davies     |             49 |
 |             80 | Teti Tela                      |      83.69 |       10 |     126.1  | Dan Biggar        |             67 |
 |             53 | Vinaya Habosi                  |      60.17 |       11 |      57.57 | Josh Adams        |             59 |

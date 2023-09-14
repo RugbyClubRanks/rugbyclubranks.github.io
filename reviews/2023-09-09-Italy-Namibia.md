@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Italy by 15.4
+## Prediction with Player Minutes: Italy by 13.8
 
 
-Italy by 15.4 on a neutral field
-## Prediction without Player Minutes: Italy by 16.4
+Italy by 13.8 on a neutral field
+## Prediction without Player Minutes: Italy by 14.1
 
 
-Italy by 16.4 on a neutral pitch
+Italy by 14.1 on a neutral pitch
 
 
 ## Scores over Time
@@ -52,7 +52,7 @@ There were 4 large changes in win probability in this match
 |   Away Minutes | Away Player              |   Away elo |   Number |   Home elo | Home Player       |   Home Minutes |
 |---------------:|:-------------------------|-----------:|---------:|-----------:|:------------------|---------------:|
 |             36 | Des Sethie               |      41.94 |        1 |      40.38 | Danilo Fischetti  |             57 |
-|             52 | Torsten van Jaarsveld    |      46.65 |        2 |      92.3  | Giacomo Nicotera  |             50 |
+|             52 | Torsten van Jaarsveld    |     108.22 |        2 |      92.3  | Giacomo Nicotera  |             50 |
 |             50 | Aranos Coetzee           |      47.79 |        3 |      87.69 | Simone Ferrari    |             50 |
 |             53 | Adriaan Ludick           |      45.63 |        4 |      70.38 | Dino Lamb         |             84 |
 |             84 | Tjiuee Uanivi            |      46.65 |        5 |      98.25 | Federico Ruzza    |             53 |
