@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title: Argentina at England; 10.0-27.0  
+title: Japan at England; 12.0-34.0  
 date: 2023-09-13 18:00:00 -0500  
 categories: match review  
 ---
-# Argentina at England; 10.0-27.0
+# Japan at England; 12.0-34.0
 
 # Club Level Predictions
 

@@ -28,10 +28,10 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Japan by 15.6
+## Prediction with Player Minutes: Japan by 15.7
 
 
-Japan by 15.6 on a neutral field
+Japan by 15.7 on a neutral field
 ## Prediction without Player Minutes: Japan by 13.7
 
 
@@ -69,9 +69,9 @@ There were 6 large changes in win probability in this match
 |             23 | Augusto Bohme        |      46.65 |       16 |      86.98 | Shota Horie       |             31 |
 |             27 | Salvador Lues        |      46.65 |       17 |      39.3  | Craig Millar      |             23 |
 |             19 | Inaki Gurruchaga     |      46.65 |       18 |      79.17 | Asaeli Ai Valu    |             40 |
-|             16 | Pablo Huete          |      46.65 |       19 |      46.65 | Warner Dearns     |             26 |
+|             16 | Pablo Huete          |      46.65 |       19 |      63.12 | Warner Dearns     |             26 |
 |             25 | Santiago Pedrero     |      46.65 |       20 |      52.22 | Shota Fukui       |             31 |
 |             23 | Ignacio Silva        |      46.65 |       21 |      29.71 | Naoto Saito       |             20 |
 |             20 | Lukas Carvallo       |      46.65 |       22 |      35.2  | Tomoki Osada      |             18 |
-|             25 | Jose Ignacio Larenas |      46.65 |       23 |      46.65 | Lomano Lemeki     |             25 |
+|             25 | Jose Ignacio Larenas |      46.65 |       23 |      36.91 | Lomano Lemeki     |             25 |
 
