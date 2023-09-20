@@ -1,6 +1,6 @@
 ---  
 title: "Bunnings Warehouse NPC 2023 Status"  
-date: 2023-09-18 6:00:00 -0500  
+date: 2023-09-19 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -39,20 +39,20 @@ aside:
 
 | Club             |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Bay of Plenty    |                   3 |    2.3 |                 16   |                   0.6 |                2.2 |                 11.9 |
-| Wellington       |                   2 |    2   |                 32.6 |                   0   |                2   |                  9.9 |
-| Taranaki         |                   2 |    1.4 |                  7.2 |                   0.5 |                1.4 |                  7.5 |
-| Canterbury       |                   2 |    1.4 |                  6.9 |                   0.5 |                1.3 |                  7.5 |
-| Counties Manukau |                   2 |    1.4 |                 11.8 |                   0.4 |                1.3 |                  7.2 |
-| Auckland         |                   2 |    1.3 |                  9.2 |                   0.4 |                1.2 |                  6.8 |
-| Waikato          |                   2 |    1.3 |                  6.5 |                   0.5 |                1.2 |                  6.8 |
-| Southland        |                   3 |    0.8 |                -15.8 |                   1   |                0.7 |                  4.7 |
+| Bay of Plenty    |                   3 |    2.3 |                 15.7 |                   0.6 |                2.2 |                 11.9 |
+| Wellington       |                   2 |    2   |                 32.7 |                   0   |                2   |                  9.9 |
+| Taranaki         |                   2 |    1.4 |                  7.3 |                   0.4 |                1.4 |                  7.6 |
+| Canterbury       |                   2 |    1.4 |                  6.9 |                   0.5 |                1.3 |                  7.4 |
+| Counties Manukau |                   2 |    1.3 |                 11.5 |                   0.4 |                1.3 |                  7.1 |
+| Waikato          |                   2 |    1.3 |                  6.5 |                   0.5 |                1.3 |                  7   |
+| Auckland         |                   2 |    1.3 |                  9.6 |                   0.4 |                1.3 |                  6.9 |
+| Southland        |                   3 |    0.7 |                -16.3 |                   1   |                0.7 |                  4.6 |
 | Otago            |                   2 |    0.7 |                 -6.1 |                   0.6 |                0.7 |                  4.2 |
-| Hawke's Bay      |                   2 |    0.8 |                -13.2 |                   0.2 |                0.8 |                  4.1 |
-| Tasman           |                   2 |    0.6 |                 -6.2 |                   0.8 |                0.5 |                  3.9 |
-| Manawatu         |                   2 |    0.5 |                -13.4 |                   0.5 |                0.5 |                  3.2 |
-| Northland        |                   2 |    0.2 |                -17.3 |                   0.6 |                0.2 |                  1.8 |
-| North Harbour    |                   2 |    0.3 |                -17.9 |                   0.5 |                0.2 |                  1.8 |
+| Hawke's Bay      |                   2 |    0.8 |                -13   |                   0.2 |                0.8 |                  4.1 |
+| Tasman           |                   2 |    0.6 |                 -6.4 |                   0.8 |                0.5 |                  3.8 |
+| Manawatu         |                   2 |    0.6 |                -13   |                   0.5 |                0.5 |                  3.3 |
+| Northland        |                   2 |    0.3 |                -16.8 |                   0.6 |                0.2 |                  1.9 |
+| North Harbour    |                   2 |    0.2 |                -18.5 |                   0.5 |                0.2 |                  1.7 |
 
 
 
@@ -61,20 +61,20 @@ aside:
 
 | Club             |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Wellington       |              10 |   10   |                165.6 |                   0   |                7   |                 46.9 |
-| Canterbury       |              10 |    6.4 |                 87.9 |                   3.5 |                9.3 |                 38.5 |
-| Taranaki         |              10 |    6.4 |                 55.2 |                   2.5 |                8.4 |                 36.5 |
-| Tasman           |              10 |    6.6 |                 48.8 |                   1.8 |                5.5 |                 33.9 |
-| Auckland         |              10 |    6.3 |                 58.2 |                   1.4 |                7.2 |                 33.8 |
-| Bay of Plenty    |              10 |    6.3 |                 23   |                   1.6 |                5.2 |                 31.9 |
-| Hawke's Bay      |              10 |    5.8 |                 -1.2 |                   1.2 |                4.8 |                 29.1 |
-| Waikato          |              10 |    4.3 |                 -6.5 |                   2.5 |                6.2 |                 25.8 |
-| Counties Manukau |              10 |    4.4 |                -35.2 |                   1.4 |                6.3 |                 25.2 |
-| North Harbour    |              10 |    4.3 |                 12.1 |                   3.5 |                3.2 |                 23.8 |
+| Wellington       |              10 |   10   |                165.7 |                   0   |                7   |                 46.9 |
+| Canterbury       |              10 |    6.4 |                 87.9 |                   3.5 |                9.3 |                 38.4 |
+| Taranaki         |              10 |    6.4 |                 55.3 |                   2.4 |                8.4 |                 36.6 |
+| Auckland         |              10 |    6.3 |                 58.6 |                   1.4 |                7.3 |                 33.9 |
+| Tasman           |              10 |    6.6 |                 48.6 |                   1.8 |                5.5 |                 33.8 |
+| Bay of Plenty    |              10 |    6.3 |                 22.7 |                   1.6 |                5.2 |                 31.9 |
+| Hawke's Bay      |              10 |    5.8 |                 -1   |                   1.2 |                4.8 |                 29.1 |
+| Waikato          |              10 |    4.3 |                 -6.5 |                   2.5 |                6.3 |                 26   |
+| Counties Manukau |              10 |    4.3 |                -35.5 |                   1.4 |                6.3 |                 25.1 |
+| North Harbour    |              10 |    4.2 |                 11.5 |                   3.5 |                3.2 |                 23.7 |
 | Otago            |              10 |    2.7 |                -63.1 |                   2.6 |                3.7 |                 17.2 |
-| Northland        |              10 |    2.2 |                -49.3 |                   1.6 |                3.2 |                 15.8 |
-| Manawatu         |              10 |    2.5 |               -186.4 |                   0.5 |                4.5 |                 15.2 |
-| Southland        |              10 |    0.8 |               -108.8 |                   1   |                1.7 |                  7.7 |
+| Northland        |              10 |    2.3 |                -48.8 |                   1.6 |                3.2 |                 15.9 |
+| Manawatu         |              10 |    2.6 |               -186   |                   0.5 |                4.5 |                 15.3 |
+| Southland        |              10 |    0.7 |               -109.3 |                   1   |                1.7 |                  7.6 |
 
 
 
@@ -95,7 +95,7 @@ aside:
 ### Northland V Bay of Plenty on 2023/09/22
 
 
-Average Margin: Bay of Plenty by 5.0
+Average Margin: Bay of Plenty by 4.5
 
 <p float="left">
 <img src="plots/performances_2023-09-22-Northland_V_BayofPlenty.png" width="32%" />
@@ -106,7 +106,7 @@ Average Margin: Bay of Plenty by 5.0
 ### Counties Manukau V Manawatu on 2023/09/23
 
 
-Average Margin: Counties Manukau by 14.4
+Average Margin: Counties Manukau by 14.1
 
 <p float="left">
 <img src="plots/performances_2023-09-23-CountiesManukau_V_Manawatu.png" width="32%" />
@@ -117,7 +117,7 @@ Average Margin: Counties Manukau by 14.4
 ### Canterbury V Tasman on 2023/09/23
 
 
-Average Margin: Canterbury by 5.4
+Average Margin: Canterbury by 5.3
 
 <p float="left">
 <img src="plots/performances_2023-09-23-Canterbury_V_Tasman.png" width="32%" />
@@ -128,7 +128,7 @@ Average Margin: Canterbury by 5.4
 ### Taranaki V Auckland on 2023/09/23
 
 
-Average Margin: Taranaki by 3.2
+Average Margin: Taranaki by 2.9
 
 <p float="left">
 <img src="plots/performances_2023-09-23-Taranaki_V_Auckland.png" width="32%" />
@@ -139,7 +139,7 @@ Average Margin: Taranaki by 3.2
 ### Southland V Hawke's Bay on 2023/09/23
 
 
-Average Margin: Hawke's Bay by 5.4
+Average Margin: Hawke's Bay by 5.5
 
 <p float="left">
 <img src="plots/performances_2023-09-23-Southland_V_Hawke'sBay.png" width="32%" />
@@ -150,7 +150,7 @@ Average Margin: Hawke's Bay by 5.4
 ### Wellington V North Harbour on 2023/09/24
 
 
-Average Margin: Wellington by 14.1
+Average Margin: Wellington by 14.3
 
 <p float="left">
 <img src="plots/performances_2023-09-24-Wellington_V_NorthHarbour.png" width="32%" />
@@ -161,7 +161,7 @@ Average Margin: Wellington by 14.1
 ### Waikato V Otago on 2023/09/24
 
 
-Average Margin: Waikato by 8.5
+Average Margin: Waikato by 8.6
 
 <p float="left">
 <img src="plots/performances_2023-09-24-Waikato_V_Otago.png" width="32%" />
@@ -207,7 +207,7 @@ Average Margin: Canterbury by 1.8
 ### Taranaki V North Harbour on 2023/09/30
 
 
-Average Margin: Taranaki by 4.3
+Average Margin: Taranaki by 4.7
 
 <p float="left">
 <img src="plots/performances_2023-09-30-Taranaki_V_NorthHarbour.png" width="32%" />
@@ -218,7 +218,7 @@ Average Margin: Taranaki by 4.3
 ### Wellington V Hawke's Bay on 2023/09/30
 
 
-Average Margin: Wellington by 19.0
+Average Margin: Wellington by 18.9
 
 <p float="left">
 <img src="plots/performances_2023-09-30-Wellington_V_Hawke'sBay.png" width="32%" />
@@ -229,7 +229,7 @@ Average Margin: Wellington by 19.0
 ### Manawatu V Southland on 2023/10/01
 
 
-Average Margin: Manawatu by 0.6
+Average Margin: Manawatu by 0.8
 
 <p float="left">
 <img src="plots/performances_2023-10-01-Manawatu_V_Southland.png" width="32%" />
@@ -240,7 +240,7 @@ Average Margin: Manawatu by 0.6
 ### Otago V Counties Manukau on 2023/10/01
 
 
-Average Margin: Otago by 2.3
+Average Margin: Otago by 2.2
 
 <p float="left">
 <img src="plots/performances_2023-10-01-Otago_V_CountiesManukau.png" width="32%" />
@@ -251,7 +251,7 @@ Average Margin: Otago by 2.3
 ### Bay of Plenty V Tasman on 2023/10/01
 
 
-Average Margin: Bay of Plenty by 1.1
+Average Margin: Bay of Plenty by 1.3
 
 <p float="left">
 <img src="plots/performances_2023-10-01-BayofPlenty_V_Tasman.png" width="32%" />

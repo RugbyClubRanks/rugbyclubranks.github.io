@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: France by 17.2
+## Prediction with Player Minutes: France by 18.8
 
 
-France by 13.6 on a neutral field
-## Prediction without Player Minutes: France by 16.9
+France by 15.2 on a neutral field
+## Prediction without Player Minutes: France by 19.1
 
 
-France by 13.2 on a neutral pitch
+France by 15.4 on a neutral pitch
 
 
 ## Scores over Time
@@ -47,7 +47,7 @@ France by 13.2 on a neutral pitch
 
 ![In Match Predictions](plots/recap_prob_V2-2023-09-14-France-Uruguay.png)
 
-There were 6 large changes in win probability in this match
+There were 5 large changes in win probability in this match
 
 |   Away Minutes | Away Player        |   Away elo |   Number |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:-------------------|-----------:|---------:|-----------:|:---------------------|---------------:|
@@ -58,7 +58,7 @@ There were 6 large changes in win probability in this match
 |             80 | Manuel Leindekar   |      14.9  |        5 |      47.58 | Romain Taofifenua    |             50 |
 |             54 | Manuel Ardao       |      64.26 |        6 |      37.63 | Paul Boudehent       |             80 |
 |             80 | Santiago Civetta   |      70.48 |        7 |      87.64 | Sekou Macalou        |             80 |
-|             54 | Manuel Diana       |      46.65 |        8 |      46.65 | Anthony Jelonch      |             50 |
+|             54 | Manuel Diana       |      46.65 |        8 |     107.52 | Anthony Jelonch      |             50 |
 |             58 | Santiago Arata     |      51.44 |        9 |     108.59 | Maxime Lucu          |             64 |
 |             58 | Felipe Etcheverry  |      63.89 |       10 |      55.49 | Antoine Hastoy       |             80 |
 |             80 | Nicolas Freitas    |      17.11 |       11 |      73.03 | Gabin Villiere       |             80 |

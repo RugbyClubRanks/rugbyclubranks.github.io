@@ -28,14 +28,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: New Zealand by 28.3
+## Prediction with Player Minutes: New Zealand by 27.7
 
 
-New Zealand by 28.3 on a neutral field
-## Prediction without Player Minutes: New Zealand by 27.7
+New Zealand by 27.7 on a neutral field
+## Prediction without Player Minutes: New Zealand by 27.3
 
 
-New Zealand by 27.7 on a neutral pitch
+New Zealand by 27.3 on a neutral pitch
 
 
 ## Scores over Time
@@ -63,13 +63,13 @@ New Zealand by 27.7 on a neutral pitch
 |             18 | Le Roux Malan            |      46.65 |       12 |     117.47 | David Havili           |             80 |
 |             80 | Johan Deysel             |      46.65 |       13 |      75.52 | Anton Lienert-Brown    |             69 |
 |             80 | Gerswin Mouton           |      46.65 |       14 |      30.17 | Caleb Clarke           |             80 |
-|             80 | Cliven Loubser           |      46.65 |       15 |     143.28 | Beauden Barrett        |             60 |
+|             80 | Cliven Loubser           |      61.35 |       15 |     143.28 | Beauden Barrett        |             60 |
 |             30 | Louis van der Westhuizen |      67.24 |       16 |     121.14 | Dane Coles             |             28 |
 |             30 | Des Sethie               |      41.94 |       17 |      52.64 | Ethan de Groot         |             32 |
 |              6 | Haitembu Shifuka         |      46.65 |       18 |      22.49 | Fletcher Newell        |             32 |
 |             30 | PJ van Lill              |      85.45 |       19 |      97.95 | Scott Barrett          |             23 |
 |             15 | Adriaan Booysen          |      46.65 |       20 |      74.24 | Tupou Vaa'i            |             16 |
-|             11 | Max Katjijeko            |      46.65 |       21 |     103.41 | Aaron Smith            |             13 |
+|             11 | Max Katjijeko            |      39.63 |       21 |     103.41 | Aaron Smith            |             13 |
 |              1 | Jacques Theron           |      46.65 |       22 |     118.97 | Richie Mo'unga         |             20 |
 |             62 | JC Greyling              |      17.36 |       23 |      56.43 | Rieko Ioane            |             11 |
 
