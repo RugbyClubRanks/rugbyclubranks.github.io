@@ -12,18 +12,27 @@ categories: match review
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.987, which translates to predicting South Africa to win by 39.3.
 
 Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
-## Projected Performances
+## Projected Performances - Club Model
 
 
-![Projected Performances](plots/performances_2023-09-17-SouthAfrica-Romania.png)
-## Projected Spreads
+<p float="left">
+<img src="plots/performances_2023-09-17-SouthAfrica-Romania.png" width="99%" />
+</p>
+
+## Projected Spreads - Club Model
 
 
-![Projected Spreads](plots/spreads_2023-09-17-SouthAfrica-Romania.png)
-## Projected Results
+<p float="left">
+<img src="plots/spreads_2023-09-17-SouthAfrica-Romania.png" width="99%" />
+</p>
+
+## Projected Results - Club Model
 
 
-![Projected Results](plots/resultbar_2023-09-17-SouthAfrica-Romania.png)
+<p float="left">
+<img src="plots/resultbar_2023-09-17-SouthAfrica-Romania.png" width="99%" />
+</p>
+
 # Player Level Predictions - Version 2
 
 
@@ -38,14 +47,41 @@ South Africa by 36.0 on a neutral field
 South Africa by 35.2 on a neutral pitch
 
 
+## Projected Performances - Player Model
+
+
+<p float="left">
+<img src="plots/performances_plr_2023-09-17-SouthAfrica-Romania.png" width="99%" />
+</p>
+
+## Projected Spreads - Player Model
+
+
+<p float="left">
+<img src="plots/spreads_plr_2023-09-17-SouthAfrica-Romania.png" width="99%" />
+</p>
+
+## Projected Results - Player Model
+
+
+<p float="left">
+<img src="plots/resultbar_plr_2023-09-17-SouthAfrica-Romania.png" width="99%" />
+</p>
+
 ## Scores over Time
 
 
-![In Match Scores](plots/recap_scores_V2-2023-09-17-SouthAfrica-Romania.png)
+<p float="left">
+<img src="plots/recap_scores_V2-2023-09-17-SouthAfrica-Romania.png" width="99%" />
+</p>
+
 ## Win Probability over Time
 
 
-![In Match Predictions](plots/recap_prob_V2-2023-09-17-SouthAfrica-Romania.png)
+<p float="left">
+<img src="plots/recap_prob_V2-2023-09-17-SouthAfrica-Romania.png" width="99%" />
+</p>
+
 
 |   Away Minutes | Away Player       |   Away elo |   Number |   Home elo | Home Player       |   Home Minutes |
 |---------------:|:------------------|-----------:|---------:|-----------:|:------------------|---------------:|

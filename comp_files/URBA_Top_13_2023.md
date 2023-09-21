@@ -1,6 +1,6 @@
 ---  
 title: "URBA Top 13 2023 Status"  
-date: 2023-09-19 6:00:00 -0500  
+date: 2023-09-21 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -37,18 +37,18 @@ aside:
 
 | Club                 |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Newman               |                   3 |    2.7 |                 25.2 |                   0.3 |                2.6 |                 13.6 |
-| Alumni               |                   3 |    2.3 |                 14.2 |                   0.6 |                2.3 |                 12.2 |
-| SIC                  |                   3 |    2.3 |                 17.6 |                   0.6 |                2.2 |                 11.8 |
-| Belgrano             |                   3 |    1.8 |                 14.9 |                   0.9 |                1.8 |                  9.9 |
-| San Luis             |                   3 |    1.6 |                  2   |                   1   |                1.5 |                  9   |
-| Atlético del Rosario |                   3 |    1.5 |                 -2.5 |                   0.8 |                1.5 |                  8.3 |
-| CUBA                 |                   3 |    1.4 |                 -2.5 |                   1   |                1.3 |                  7.9 |
-| Hindu                |                   3 |    1.3 |                 -2.7 |                   1.3 |                1.2 |                  7.6 |
-| CASI                 |                   3 |    1.1 |                 -4.7 |                   1.4 |                1   |                  6.9 |
+| Newman               |                   3 |    2.6 |                 24.4 |                   0.4 |                2.5 |                 13.3 |
+| Alumni               |                   3 |    2.3 |                 13.7 |                   0.6 |                2.2 |                 12.1 |
+| SIC                  |                   3 |    2.3 |                 17.7 |                   0.6 |                2.2 |                 11.9 |
+| Belgrano             |                   3 |    1.8 |                 14.5 |                   0.8 |                1.7 |                  9.8 |
+| San Luis             |                   3 |    1.7 |                  2   |                   0.9 |                1.6 |                  9.1 |
+| Atlético del Rosario |                   3 |    1.5 |                 -2   |                   0.8 |                1.5 |                  8.3 |
+| CUBA                 |                   3 |    1.5 |                 -1.8 |                   1   |                1.4 |                  8.2 |
+| Hindu                |                   3 |    1.3 |                 -2.5 |                   1.3 |                1.2 |                  7.7 |
+| CASI                 |                   3 |    1.1 |                 -5   |                   1.4 |                1   |                  6.8 |
 | Buenos Aires         |                   3 |    1.2 |                 -8.3 |                   0.8 |                1.1 |                  6.7 |
 | La Plata             |                   3 |    0.6 |                -15.2 |                   1.2 |                0.5 |                  4.2 |
-| Pucara               |                   3 |    0.2 |                -38.2 |                   0.6 |                0.2 |                  1.4 |
+| Pucara               |                   3 |    0.2 |                -37.8 |                   0.6 |                0.2 |                  1.4 |
 
 
 
@@ -57,18 +57,18 @@ aside:
 
 | Club                 |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| SIC                  |               8 |    7.3 |                134.6 |                   0.6 |                2.2 |                 34.8 |
-| Newman               |               7 |    6.7 |                 80.2 |                   0.3 |                6.6 |                 33.6 |
-| Alumni               |               8 |    6.3 |                 22.2 |                   0.6 |                2.3 |                 28.2 |
-| Hindu                |               8 |    4.3 |                 45.3 |                   2.3 |                1.2 |                 22.6 |
-| Belgrano             |               8 |    3.8 |                -15.1 |                   0.9 |                3.8 |                 21.9 |
-| CUBA                 |               7 |    3.4 |                 23.5 |                   2   |                4.3 |                 19.9 |
-| San Luis             |               7 |    3.6 |                -31   |                   1   |                2.5 |                 18   |
-| CASI                 |               7 |    3.1 |                 13.3 |                   1.4 |                2   |                 17.9 |
-| Atlético del Rosario |               7 |    2.5 |                -28.5 |                   1.8 |                4.5 |                 16.3 |
+| SIC                  |               8 |    7.3 |                134.7 |                   0.6 |                2.2 |                 34.9 |
+| Newman               |               7 |    6.6 |                 79.4 |                   0.4 |                6.5 |                 33.3 |
+| Alumni               |               8 |    6.3 |                 21.7 |                   0.6 |                2.2 |                 28.1 |
+| Hindu                |               8 |    4.3 |                 45.5 |                   2.3 |                1.2 |                 22.7 |
+| Belgrano             |               8 |    3.8 |                -15.5 |                   0.8 |                3.7 |                 21.8 |
+| CUBA                 |               7 |    3.5 |                 24.2 |                   2   |                4.4 |                 20.2 |
+| San Luis             |               7 |    3.7 |                -31   |                   0.9 |                2.6 |                 18.1 |
+| CASI                 |               7 |    3.1 |                 13   |                   1.4 |                2   |                 17.8 |
+| Atlético del Rosario |               7 |    2.5 |                -28   |                   1.8 |                4.5 |                 16.3 |
 | Buenos Aires         |               7 |    1.2 |                -36.3 |                   2.8 |                2.1 |                  9.7 |
 | La Plata             |               7 |    0.6 |                -55.2 |                   3.2 |                1.5 |                  7.2 |
-| Pucara               |               7 |    0.2 |               -153.2 |                   0.6 |                1.2 |                  2.4 |
+| Pucara               |               7 |    0.2 |               -152.8 |                   0.6 |                1.2 |                  2.4 |
 
 
 
@@ -89,7 +89,7 @@ aside:
 ### La Plata V SIC on 2023/09/23
 
 
-Average Margin: SIC by 7.2
+Average Margin: SIC by 7.5
 
 <p float="left">
 <img src="plots/performances_2023-09-23-LaPlata_V_SIC.png" width="32%" />
@@ -111,7 +111,7 @@ Average Margin: Atlético del Rosario by 1.9
 ### Pucara V San Luis on 2023/09/23
 
 
-Average Margin: San Luis by 5.3
+Average Margin: San Luis by 5.2
 
 <p float="left">
 <img src="plots/performances_2023-09-23-Pucara_V_SanLuis.png" width="32%" />
@@ -122,7 +122,7 @@ Average Margin: San Luis by 5.3
 ### CASI V Alumni on 2023/09/23
 
 
-Average Margin: Alumni by 2.2
+Average Margin: Alumni by 2.4
 
 <p float="left">
 <img src="plots/performances_2023-09-23-CASI_V_Alumni.png" width="32%" />
@@ -133,7 +133,7 @@ Average Margin: Alumni by 2.2
 ### CUBA V Belgrano on 2023/09/23
 
 
-Average Margin: CUBA by 3.9
+Average Margin: CUBA by 4.0
 
 <p float="left">
 <img src="plots/performances_2023-09-23-CUBA_V_Belgrano.png" width="32%" />
@@ -144,7 +144,7 @@ Average Margin: CUBA by 3.9
 ### Newman V Hindu on 2023/09/23
 
 
-Average Margin: Newman by 3.7
+Average Margin: Newman by 3.4
 
 <p float="left">
 <img src="plots/performances_2023-09-23-Newman_V_Hindu.png" width="32%" />
@@ -153,28 +153,6 @@ Average Margin: Newman by 3.7
 </p>
 
 ## Week 7
-
-### San Luis V CASI on 2023/09/30
-
-
-Average Margin: San Luis by 1.7
-
-<p float="left">
-<img src="plots/performances_2023-09-30-SanLuis_V_CASI.png" width="32%" />
-<img src="plots/resultbar_2023-09-30-SanLuis_V_CASI.png" width="32%" />
-<img src="plots/spreads_2023-09-30-SanLuis_V_CASI.png" width="32%" />
-</p>
-
-### Hindu V SIC on 2023/09/30
-
-
-Average Margin: Hindu by 1.2
-
-<p float="left">
-<img src="plots/performances_2023-09-30-Hindu_V_SIC.png" width="32%" />
-<img src="plots/resultbar_2023-09-30-Hindu_V_SIC.png" width="32%" />
-<img src="plots/spreads_2023-09-30-Hindu_V_SIC.png" width="32%" />
-</p>
 
 ### Buenos Aires V La Plata on 2023/09/30
 
@@ -190,7 +168,7 @@ Average Margin: Buenos Aires by 5.4
 ### Alumni V Atlético del Rosario on 2023/09/30
 
 
-Average Margin: Alumni by 9.5
+Average Margin: Alumni by 8.9
 
 <p float="left">
 <img src="plots/performances_2023-09-30-Alumni_V_AtléticodelRosario.png" width="32%" />
@@ -198,10 +176,32 @@ Average Margin: Alumni by 9.5
 <img src="plots/spreads_2023-09-30-Alumni_V_AtléticodelRosario.png" width="32%" />
 </p>
 
+### Hindu V SIC on 2023/09/30
+
+
+Average Margin: Hindu by 1.4
+
+<p float="left">
+<img src="plots/performances_2023-09-30-Hindu_V_SIC.png" width="32%" />
+<img src="plots/resultbar_2023-09-30-Hindu_V_SIC.png" width="32%" />
+<img src="plots/spreads_2023-09-30-Hindu_V_SIC.png" width="32%" />
+</p>
+
+### San Luis V CASI on 2023/09/30
+
+
+Average Margin: San Luis by 1.9
+
+<p float="left">
+<img src="plots/performances_2023-09-30-SanLuis_V_CASI.png" width="32%" />
+<img src="plots/resultbar_2023-09-30-SanLuis_V_CASI.png" width="32%" />
+<img src="plots/spreads_2023-09-30-SanLuis_V_CASI.png" width="32%" />
+</p>
+
 ### Belgrano V Pucara on 2023/09/30
 
 
-Average Margin: Belgrano by 18.2
+Average Margin: Belgrano by 17.9
 
 <p float="left">
 <img src="plots/performances_2023-09-30-Belgrano_V_Pucara.png" width="32%" />
@@ -212,7 +212,7 @@ Average Margin: Belgrano by 18.2
 ### Newman V CUBA on 2023/09/30
 
 
-Average Margin: Newman by 6.9
+Average Margin: Newman by 6.4
 
 <p float="left">
 <img src="plots/performances_2023-09-30-Newman_V_CUBA.png" width="32%" />
@@ -225,7 +225,7 @@ Average Margin: Newman by 6.9
 ### Pucara V Newman on 2023/10/21
 
 
-Average Margin: Newman by 15.1
+Average Margin: Newman by 15.2
 
 <p float="left">
 <img src="plots/performances_2023-10-21-Pucara_V_Newman.png" width="32%" />
@@ -258,7 +258,7 @@ Average Margin: Atlético del Rosario by 4.9
 ### La Plata V Alumni on 2023/10/21
 
 
-Average Margin: Alumni by 3.0
+Average Margin: Alumni by 2.8
 
 <p float="left">
 <img src="plots/performances_2023-10-21-LaPlata_V_Alumni.png" width="32%" />
@@ -280,7 +280,7 @@ Average Margin: SIC by 12.1
 ### CUBA V Hindu on 2023/10/21
 
 
-Average Margin: CUBA by 0.3
+Average Margin: CUBA by 0.6
 
 <p float="left">
 <img src="plots/performances_2023-10-21-CUBA_V_Hindu.png" width="32%" />

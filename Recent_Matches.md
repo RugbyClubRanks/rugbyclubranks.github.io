@@ -18,27 +18,23 @@ Last Round Accuracy: 2 of 2 (100.0%)
 
 Last Round Error: 17.1 points per match
 
-[2023-09-10 Chile at Japan; 12.0-42.0](reviews//2023-09-10-Japan-Chile)
-
-[2023-09-10 Scotland at South Africa; 3.0-18.0](reviews//2023-09-10-SouthAfrica-Scotland)
-
-[2023-09-10 Fiji at Wales; 26.0-32.0](reviews//2023-09-10-Wales-Fiji)
-
 [2023-09-14 Uruguay at France; 12.0-27.0](reviews//2023-09-14-France-Uruguay)
 
 [2023-09-15 Namibia at New Zealand; 3.0-71.0](reviews//2023-09-15-NewZealand-Namibia)
 
+[2023-09-16 Portugal at Wales; 8.0-28.0](reviews//2023-09-16-Wales-Portugal)
+
 [2023-09-16 Chile at Samoa; 10.0-43.0](reviews//2023-09-16-Samoa-Chile)
 
 [2023-09-16 Tonga at Ireland; 16.0-59.0](reviews//2023-09-16-Ireland-Tonga)
-
-[2023-09-16 Portugal at Wales; 8.0-28.0](reviews//2023-09-16-Wales-Portugal)
 
 [2023-09-17 Japan at England; 12.0-34.0](reviews//2023-09-17-Fiji-Australia)
 
 [2023-09-17 Japan at England; 12.0-34.0](reviews//2023-09-17-England-Japan)
 
 [2023-09-17 Romania at South Africa; 0.0-76.0](reviews//2023-09-17-SouthAfrica-Romania)
+
+[2023-09-20 Uruguay at Italy; 17.0-38.0](reviews//2023-09-20-Italy-Uruguay)
 # Domestic Leagues
 
 ## Bunnings Warehouse NPC
@@ -54,19 +50,15 @@ Last Round Accuracy: 6 of 7 (85.71%)
 
 Last Round Error: 14.48 points per match
 
-[2023-09-10 Tasman at Taranaki; 29.0-18.0](reviews//2023-09-10-Taranaki-Tasman)
-
-[2023-09-10 Northland at Otago; 15.0-30.0](reviews//2023-09-10-Otago-Northland)
-
 [2023-09-13 Canterbury at Counties Manukau; 29.0-31.0](reviews//2023-09-13-CountiesManukau-Canterbury)
 
 [2023-09-15 Manawatu at Hawke's Bay; 7.0-57.0](reviews//2023-09-15-Hawke'sBay-Manawatu)
 
 [2023-09-16 Waikato at Auckland; 27.0-12.0](reviews//2023-09-16-Auckland-Waikato)
 
-[2023-09-16 Taranaki at Otago; 36.0-17.0](reviews//2023-09-16-Otago-Taranaki)
-
 [2023-09-16 Northland at North Harbour; 31.0-50.0](reviews//2023-09-16-NorthHarbour-Northland)
+
+[2023-09-16 Taranaki at Otago; 36.0-17.0](reviews//2023-09-16-Otago-Taranaki)
 
 [2023-09-17 Counties Manukau at Tasman; 17.0-27.0](reviews//2023-09-17-Tasman-CountiesManukau)
 
@@ -86,11 +78,11 @@ Last Round Error: 6.02 points per match
 
 [2023-09-15 Massy at Carcassonne; 9.0-22.0](reviews//2023-09-15-Carcassonne-Massy)
 
-[2023-09-16 Nice at Narbonne; 10.0-12.0](reviews//2023-09-16-Narbonne-Nice)
-
 [2023-09-16 US Bressane at Périgueux; 11.0-18.0](reviews//2023-09-16-Périgueux-USBressane)
 
 [2023-09-16 Bourgoin-Jallieu at Tarbes; 9.0-17.0](reviews//2023-09-16-Tarbes-Bourgoin-Jallieu)
+
+[2023-09-16 Nice at Narbonne; 10.0-12.0](reviews//2023-09-16-Narbonne-Nice)
 
 [2023-09-16 Blagnac at Carqueiranne-Hyères; 19.0-13.0](reviews//2023-09-16-Carqueiranne-Hyères-Blagnac)
 
@@ -112,6 +104,6 @@ Last Round Error: 11.35 points per match
 
 [2023-09-13 Mont-de-Marsan at Biarritz Olympique; 37.0-17.0](reviews//2023-09-13-BiarritzOlympique-Mont-de-Marsan)
 
-[2023-09-13 Japan at England; 12.0-34.0](reviews//2023-09-13-Beziers-Vannes)
-
 [2023-09-13 Grenoble at Aurillac; 23.0-27.0](reviews//2023-09-13-Aurillac-Grenoble)
+
+[2023-09-13 Japan at England; 12.0-34.0](reviews//2023-09-13-Beziers-Vannes)

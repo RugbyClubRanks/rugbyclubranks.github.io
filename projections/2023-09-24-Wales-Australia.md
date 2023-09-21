@@ -9,27 +9,36 @@ categories: match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.411, which translates to predicting Australia to win by 4.6.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.407, which translates to predicting Australia to win by 4.9.
 
 Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
-## Projected Performances
+## Projected Performances - Club Model
 
 
-![Projected Performances](../comp_files/plots/performances_2023-09-24-Wales_V_Australia.png)
-## Projected Spreads
+<p float="left">
+<img src="../comp_files/plots/performances_2023-09-24-Wales_V_Australia.png" width="99%" />
+</p>
+
+## Projected Spreads - Club Model
 
 
-![Projected Spreads](../comp_files/plots/spreads_2023-09-24-Wales_V_Australia.png)
-## Projected Results
+<p float="left">
+<img src="../comp_files/plots/spreads_2023-09-24-Wales_V_Australia.png" width="99%" />
+</p>
+
+## Projected Results - Club Model
 
 
-![Projected Results](../comp_files/plots/resultbar_2023-09-24-Wales_V_Australia.png)
+<p float="left">
+<img src="../comp_files/plots/resultbar_2023-09-24-Wales_V_Australia.png" width="99%" />
+</p>
+
 # Player Level Predictions - Version 2
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Imputed Lineups: Australia by 3.4
+## Prediction with Imputed Lineups: Australia by 3.7
 
 
-Australia by 7.1 on a neutral pitch
+Australia by 7.4 on a neutral pitch
 

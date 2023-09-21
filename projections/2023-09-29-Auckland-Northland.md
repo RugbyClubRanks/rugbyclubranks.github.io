@@ -12,18 +12,27 @@ categories: match projection imputed
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.728, which translates to predicting Auckland to win by 12.8.
 
 Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
-## Projected Performances
+## Projected Performances - Club Model
 
 
-![Projected Performances](../comp_files/plots/performances_2023-09-29-Auckland_V_Northland.png)
-## Projected Spreads
+<p float="left">
+<img src="../comp_files/plots/performances_2023-09-29-Auckland_V_Northland.png" width="99%" />
+</p>
+
+## Projected Spreads - Club Model
 
 
-![Projected Spreads](../comp_files/plots/spreads_2023-09-29-Auckland_V_Northland.png)
-## Projected Results
+<p float="left">
+<img src="../comp_files/plots/spreads_2023-09-29-Auckland_V_Northland.png" width="99%" />
+</p>
+
+## Projected Results - Club Model
 
 
-![Projected Results](../comp_files/plots/resultbar_2023-09-29-Auckland_V_Northland.png)
+<p float="left">
+<img src="../comp_files/plots/resultbar_2023-09-29-Auckland_V_Northland.png" width="99%" />
+</p>
+
 # Player Level Predictions - Version 2
 
 

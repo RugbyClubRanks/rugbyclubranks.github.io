@@ -9,21 +9,30 @@ categories: match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.931, which translates to predicting France to win by 30.7.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.931, which translates to predicting France to win by 30.8.
 
 Each club has a rating and a rating deviation (simiar to a Glicko system), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
-## Projected Performances
+## Projected Performances - Club Model
 
 
-![Projected Performances](../comp_files/plots/performances_2023-09-21-France_V_Namibia.png)
-## Projected Spreads
+<p float="left">
+<img src="../comp_files/plots/performances_2023-09-21-France_V_Namibia.png" width="99%" />
+</p>
+
+## Projected Spreads - Club Model
 
 
-![Projected Spreads](../comp_files/plots/spreads_2023-09-21-France_V_Namibia.png)
-## Projected Results
+<p float="left">
+<img src="../comp_files/plots/spreads_2023-09-21-France_V_Namibia.png" width="99%" />
+</p>
+
+## Projected Results - Club Model
 
 
-![Projected Results](../comp_files/plots/resultbar_2023-09-21-France_V_Namibia.png)
+<p float="left">
+<img src="../comp_files/plots/resultbar_2023-09-21-France_V_Namibia.png" width="99%" />
+</p>
+
 # Player Level Predictions - Version 2
 
 
@@ -33,6 +42,27 @@ Treating teams instead as an entity made up of the currently active players, I h
 
 France by 30.4 on a neutral pitch
 
+
+## Projected Performances - Player Model
+
+
+<p float="left">
+<img src="plots/performances_plr_2023-09-21-France-Namibia.png" width="99%" />
+</p>
+
+## Projected Spreads - Player Model
+
+
+<p float="left">
+<img src="plots/spreads_plr_2023-09-21-France-Namibia.png" width="99%" />
+</p>
+
+## Projected Results - Player Model
+
+
+<p float="left">
+<img src="plots/resultbar_plr_2023-09-21-France-Namibia.png" width="99%" />
+</p>
 
 
 | Away Player              |   Away elo |   Number |   Home elo | Home Player          |
