@@ -32,11 +32,11 @@ aside:
 
 | Club        |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| France      |        4 |  3.93  |               69.863 |                 0.063 |              1.914 |               17.697 |
-| New Zealand |        4 |  2.958 |               95.706 |                 0.037 |              2.951 |               14.82  |
-| Italy       |        4 |  2.112 |               43.716 |                 0.467 |              2.093 |               11.008 |
-| Namibia     |        4 |  0.58  |             -140.943 |                 0.26  |              0.552 |                3.132 |
-| Uruguay     |        4 |  0.42  |              -68.341 |                 0.295 |              0.398 |                2.373 |
+| France      |        4 |  3.945 |               70.329 |                 0.052 |              1.93  |               17.762 |
+| New Zealand |        4 |  2.953 |               95.761 |                 0.042 |              2.942 |               14.796 |
+| Italy       |        4 |  2.102 |               44.088 |                 0.471 |              2.079 |               10.958 |
+| Namibia     |        4 |  0.604 |             -140.951 |                 0.255 |              0.582 |                3.253 |
+| Uruguay     |        4 |  0.396 |              -69.226 |                 0.317 |              0.38  |                2.281 |
 
 
 
@@ -60,11 +60,11 @@ aside:
 
 | Club         |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Ireland      |        4 |  3.38  |              123.401 |                 0.477 |              3.282 |               17.279 |
-| South Africa |        4 |  3.452 |              115.052 |                 0.4   |              2.388 |               16.596 |
-| Scotland     |        4 |  2.153 |               20.471 |                 0.424 |              2.128 |               11.164 |
-| Tonga        |        4 |  0.866 |              -74.755 |                 0.241 |              0.843 |                4.548 |
-| Romania      |        4 |  0.149 |             -184.169 |                 0.305 |              0.134 |                1.035 |
+| Ireland      |        4 |  3.331 |              123.206 |                 0.517 |              3.236 |               17.077 |
+| South Africa |        4 |  3.474 |              114.802 |                 0.365 |              2.408 |               16.669 |
+| Scotland     |        4 |  2.18  |               21.081 |                 0.38  |              2.146 |               11.246 |
+| Tonga        |        4 |  0.873 |              -74.964 |                 0.232 |              0.856 |                4.58  |
+| Romania      |        4 |  0.142 |             -184.126 |                 0.32  |              0.122 |                1.01  |
 
 
 
@@ -88,11 +88,11 @@ aside:
 
 | Club      |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:----------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Fiji      |        4 |  2.776 |               19.761 |                 1.199 |              1.739 |               15.042 |
-| Australia |        4 |  2.765 |               29.998 |                 1.21  |              1.713 |               14.983 |
-| Wales     |        4 |  2.854 |               23.643 |                 0.689 |              2.776 |               14.881 |
-| Georgia   |        4 |  1.239 |              -25.251 |                 0.974 |              1.151 |                7.081 |
-| Portugal  |        4 |  0.366 |              -48.15  |                 0.754 |              0.336 |                2.554 |
+| Wales     |        4 |  2.911 |               24.183 |                 0.654 |              2.837 |               15.135 |
+| Fiji      |        4 |  2.762 |               19.463 |                 1.204 |              1.725 |               14.977 |
+| Australia |        4 |  2.72  |               29.582 |                 1.252 |              1.678 |               14.81  |
+| Georgia   |        4 |  1.246 |              -25.526 |                 0.94  |              1.148 |                7.072 |
+| Portugal  |        4 |  0.361 |              -47.701 |                 0.788 |              0.335 |                2.567 |
 
 
 
@@ -116,11 +116,11 @@ aside:
 
 | Club      |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:----------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| England   |        4 |  3.387 |               62.424 |                 0.395 |              2.338 |               16.281 |
-| Samoa     |        4 |  3.102 |               47.998 |                 0.67  |              2.994 |               16.072 |
-| Argentina |        4 |  2.43  |               18.577 |                 0.368 |              2.367 |               12.455 |
-| Japan     |        4 |  1.08  |              -17.549 |                 0.342 |              1.076 |                5.738 |
-| Chile     |        4 |  0.001 |             -111.45  |                 0.027 |              0.008 |                0.039 |
+| England   |        4 |  3.405 |               62.658 |                 0.362 |              2.367 |               16.349 |
+| Samoa     |        4 |  3.126 |               48.313 |                 0.631 |              3.01  |               16.145 |
+| Argentina |        4 |  2.387 |               17.833 |                 0.379 |              2.341 |               12.268 |
+| Japan     |        4 |  1.078 |              -17.964 |                 0.329 |              1.071 |                5.712 |
+| Chile     |        4 |  0.004 |             -110.84  |                 0.031 |              0.01  |                0.057 |
 
 
 
@@ -129,19 +129,19 @@ aside:
 
 |              | Reach Quarterfinals   | Reach Semifinals   | Reach Bronze Final   | Win Bronze   | Reach Final   | Win Final   |
 |:-------------|:----------------------|:-------------------|:---------------------|:-------------|:--------------|:------------|
-| South Africa | 99.0 %                | 71.8 %             | 1.2 %                | 1.2 %        | 70.6 %        | 44.7 %      |
-| Ireland      | 91.3 %                | 63.6 %             | 1.5 %                | 1.4 %        | 62.1 %        | 31.4 %      |
-| France       | 94.6 %                | 43.5 %             | 1.5 %                | 1.5 %        | 42.0 %        | 18.2 %      |
-| New Zealand  | 95.8 %                | 20.3 %             | 1.8 %                | 1.5 %        | 18.5 %        | 4.9 %       |
-| Fiji         | 69.9 %                | 45.7 %             | 43.3 %               | 25.8 %       | 2.4 %         | 0.3 %       |
-| Australia    | 74.0 %                | 49.7 %             | 48.2 %               | 28.1 %       | 1.5 %         | 0.3 %       |
-| England      | 93.9 %                | 41.6 %             | 40.3 %               | 16.3 %       | 1.3 %         | 0.1 %       |
-| Samoa        | 77.0 %                | 28.5 %             | 27.6 %               | 11.4 %       | 0.9 %         | 0.1 %       |
-| Scotland     | 9.7 %                 | 0.8 %              | 0.4 %                | 0.3 %        | 0.4 %         | 0.0 %       |
-| Wales        | 51.1 %                | 24.0 %             | 23.7 %               | 8.4 %        | 0.3 %         | 0.0 %       |
-| Argentina    | 29.0 %                | 9.1 %              | 9.1 %                | 3.9 %        | 0.0 %         | 0.0 %       |
-| Georgia      | 5.0 %                 | 1.4 %              | 1.4 %                | 0.2 %        | 0.0 %         | 0.0 %       |
-| Italy        | 9.6 %                 | 0.0 %              | 0.0 %                | 0.0 %        | 0.0 %         | 0.0 %       |
+| South Africa | 98.0 %                | 72.8 %             | 1.2 %                | 1.2 %        | 71.6 %        | 46.6 %      |
+| Ireland      | 90.3 %                | 62.6 %             | 1.2 %                | 1.2 %        | 61.4 %        | 30.2 %      |
+| France       | 95.5 %                | 46.5 %             | 1.2 %                | 1.2 %        | 45.3 %        | 18.3 %      |
+| New Zealand  | 95.3 %                | 17.2 %             | 0.7 %                | 0.7 %        | 16.5 %        | 4.7 %       |
+| Fiji         | 69.5 %                | 47.5 %             | 45.0 %               | 27.4 %       | 2.5 %         | 0.2 %       |
+| Australia    | 72.0 %                | 47.8 %             | 46.8 %               | 25.5 %       | 1.0 %         | 0.0 %       |
+| Scotland     | 11.7 %                | 0.9 %              | 0.2 %                | 0.2 %        | 0.7 %         | 0.0 %       |
+| Wales        | 52.5 %                | 25.4 %             | 24.9 %               | 8.2 %        | 0.5 %         | 0.0 %       |
+| Samoa        | 78.6 %                | 30.0 %             | 29.7 %               | 12.5 %       | 0.3 %         | 0.0 %       |
+| England      | 93.6 %                | 40.0 %             | 39.8 %               | 19.0 %       | 0.2 %         | 0.0 %       |
+| Argentina    | 27.7 %                | 8.3 %              | 8.3 %                | 2.8 %        | 0.0 %         | 0.0 %       |
+| Georgia      | 6.0 %                 | 1.0 %              | 1.0 %                | 0.1 %        | 0.0 %         | 0.0 %       |
+| Italy        | 9.2 %                 | 0.0 %              | 0.0 %                | 0.0 %        | 0.0 %         | 0.0 %       |
 | Japan        | 0.1 %                 | 0.0 %              | 0.0 %                | 0.0 %        | 0.0 %         | 0.0 %       |
 
 
@@ -153,7 +153,7 @@ aside:
 ### France V Namibia on 2023/09/21
 
 
-Average Margin: France by 30.8
+Average Margin: France by 31.2
 
 <p float="left">
 <img src="plots/performances_2023-09-21-France_V_Namibia.png" width="32%" />
@@ -164,7 +164,7 @@ Average Margin: France by 30.8
 ### Uruguay V Namibia on 2023/09/27
 
 
-Average Margin: Namibia by 1.9
+Average Margin: Namibia by 2.2
 
 <p float="left">
 <img src="plots/performances_2023-09-27-Uruguay_V_Namibia.png" width="32%" />
@@ -175,7 +175,7 @@ Average Margin: Namibia by 1.9
 ### New Zealand V Italy on 2023/09/29
 
 
-Average Margin: New Zealand by 11.3
+Average Margin: New Zealand by 10.8
 
 <p float="left">
 <img src="plots/performances_2023-09-29-NewZealand_V_Italy.png" width="32%" />
@@ -186,7 +186,7 @@ Average Margin: New Zealand by 11.3
 ### New Zealand V Uruguay on 2023/10/05
 
 
-Average Margin: New Zealand by 30.4
+Average Margin: New Zealand by 31.0
 
 <p float="left">
 <img src="plots/performances_2023-10-05-NewZealand_V_Uruguay.png" width="32%" />
@@ -197,7 +197,7 @@ Average Margin: New Zealand by 30.4
 ### France V Italy on 2023/10/06
 
 
-Average Margin: France by 10.0
+Average Margin: France by 10.1
 
 <p float="left">
 <img src="plots/performances_2023-10-06-France_V_Italy.png" width="32%" />
@@ -221,7 +221,7 @@ Average Margin: Ireland by 0.4
 ### Scotland V Tonga on 2023/09/24
 
 
-Average Margin: Scotland by 15.0
+Average Margin: Scotland by 15.6
 
 <p float="left">
 <img src="plots/performances_2023-09-24-Scotland_V_Tonga.png" width="32%" />
@@ -232,7 +232,7 @@ Average Margin: Scotland by 15.0
 ### Scotland V Romania on 2023/09/30
 
 
-Average Margin: Scotland by 26.4
+Average Margin: Scotland by 26.2
 
 <p float="left">
 <img src="plots/performances_2023-09-30-Scotland_V_Romania.png" width="32%" />
@@ -243,7 +243,7 @@ Average Margin: Scotland by 26.4
 ### South Africa V Tonga on 2023/10/01
 
 
-Average Margin: South Africa by 24.4
+Average Margin: South Africa by 24.2
 
 <p float="left">
 <img src="plots/performances_2023-10-01-SouthAfrica_V_Tonga.png" width="32%" />
@@ -254,7 +254,7 @@ Average Margin: South Africa by 24.4
 ### Ireland V Scotland on 2023/10/07
 
 
-Average Margin: Ireland by 6.0
+Average Margin: Ireland by 5.8
 
 <p float="left">
 <img src="plots/performances_2023-10-07-Ireland_V_Scotland.png" width="32%" />
@@ -265,7 +265,7 @@ Average Margin: Ireland by 6.0
 ### Tonga V Romania on 2023/10/08
 
 
-Average Margin: Tonga by 7.7
+Average Margin: Tonga by 7.9
 
 <p float="left">
 <img src="plots/performances_2023-10-08-Tonga_V_Romania.png" width="32%" />
@@ -278,7 +278,7 @@ Average Margin: Tonga by 7.7
 ### Georgia V Portugal on 2023/09/23
 
 
-Average Margin: Georgia by 4.1
+Average Margin: Georgia by 3.9
 
 <p float="left">
 <img src="plots/performances_2023-09-23-Georgia_V_Portugal.png" width="32%" />
@@ -289,7 +289,7 @@ Average Margin: Georgia by 4.1
 ### Wales V Australia on 2023/09/24
 
 
-Average Margin: Australia by 4.9
+Average Margin: Australia by 4.7
 
 <p float="left">
 <img src="plots/performances_2023-09-24-Wales_V_Australia.png" width="32%" />
@@ -300,7 +300,7 @@ Average Margin: Australia by 4.9
 ### Fiji V Georgia on 2023/09/30
 
 
-Average Margin: Fiji by 6.8
+Average Margin: Fiji by 6.6
 
 <p float="left">
 <img src="plots/performances_2023-09-30-Fiji_V_Georgia.png" width="32%" />
@@ -311,7 +311,7 @@ Average Margin: Fiji by 6.8
 ### Australia V Portugal on 2023/10/01
 
 
-Average Margin: Australia by 12.1
+Average Margin: Australia by 11.9
 
 <p float="left">
 <img src="plots/performances_2023-10-01-Australia_V_Portugal.png" width="32%" />
@@ -322,7 +322,7 @@ Average Margin: Australia by 12.1
 ### Wales V Georgia on 2023/10/07
 
 
-Average Margin: Wales by 2.5
+Average Margin: Wales by 2.9
 
 <p float="left">
 <img src="plots/performances_2023-10-07-Wales_V_Georgia.png" width="32%" />
@@ -333,7 +333,7 @@ Average Margin: Wales by 2.5
 ### Fiji V Portugal on 2023/10/08
 
 
-Average Margin: Fiji by 12.0
+Average Margin: Fiji by 11.9
 
 <p float="left">
 <img src="plots/performances_2023-10-08-Fiji_V_Portugal.png" width="32%" />
@@ -346,7 +346,7 @@ Average Margin: Fiji by 12.0
 ### Argentina V Samoa on 2023/09/22
 
 
-Average Margin: Samoa by 1.2
+Average Margin: Samoa by 1.5
 
 <p float="left">
 <img src="plots/performances_2023-09-22-Argentina_V_Samoa.png" width="32%" />
@@ -368,7 +368,7 @@ Average Margin: England by 25.3
 ### Japan V Samoa on 2023/09/28
 
 
-Average Margin: Samoa by 12.0
+Average Margin: Samoa by 12.1
 
 <p float="left">
 <img src="plots/performances_2023-09-28-Japan_V_Samoa.png" width="32%" />
@@ -379,7 +379,7 @@ Average Margin: Samoa by 12.0
 ### Argentina V Chile on 2023/09/30
 
 
-Average Margin: Argentina by 23.1
+Average Margin: Argentina by 22.5
 
 <p float="left">
 <img src="plots/performances_2023-09-30-Argentina_V_Chile.png" width="32%" />
@@ -390,7 +390,7 @@ Average Margin: Argentina by 23.1
 ### England V Samoa on 2023/10/07
 
 
-Average Margin: Samoa by 1.9
+Average Margin: Samoa by 1.7
 
 <p float="left">
 <img src="plots/performances_2023-10-07-England_V_Samoa.png" width="32%" />
@@ -401,7 +401,7 @@ Average Margin: Samoa by 1.9
 ### Japan V Argentina on 2023/10/08
 
 
-Average Margin: Argentina by 13.6
+Average Margin: Argentina by 13.8
 
 <p float="left">
 <img src="plots/performances_2023-10-08-Japan_V_Argentina.png" width="32%" />
