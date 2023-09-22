@@ -24,9 +24,9 @@ Last Round Error: 17.1 points per match
 
 [2023-09-16 Portugal at Wales; 8.0-28.0](reviews//2023-09-16-Wales-Portugal)
 
-[2023-09-16 Chile at Samoa; 10.0-43.0](reviews//2023-09-16-Samoa-Chile)
-
 [2023-09-16 Tonga at Ireland; 16.0-59.0](reviews//2023-09-16-Ireland-Tonga)
+
+[2023-09-16 Chile at Samoa; 10.0-43.0](reviews//2023-09-16-Samoa-Chile)
 
 [2023-09-17 Japan at England; 12.0-34.0](reviews//2023-09-17-Fiji-Australia)
 
@@ -42,13 +42,13 @@ Last Round Error: 17.1 points per match
 
 [In depth model review and projections for Bunnings Warehouse NPC 2023](comp_files/Bunnings_Warehouse_NPC_2023)
 
-Competition Accuracy: 38 of 55 (69.09%)
+Competition Accuracy: 39 of 56 (69.64%)
 
-Competition Error: 11.56 points per match
+Competition Error: 11.39 points per match
 
 Last Round Accuracy: 6 of 7 (85.71%)
 
-Last Round Error: 14.48 points per match
+Last Round Error: 9.89 points per match
 
 [2023-09-13 Canterbury at Counties Manukau; 29.0-31.0](reviews//2023-09-13-CountiesManukau-Canterbury)
 
@@ -56,13 +56,15 @@ Last Round Error: 14.48 points per match
 
 [2023-09-16 Waikato at Auckland; 27.0-12.0](reviews//2023-09-16-Auckland-Waikato)
 
+[2023-09-16 Taranaki at Otago; 36.0-17.0](reviews//2023-09-16-Otago-Taranaki)
+
 [2023-09-16 Northland at North Harbour; 31.0-50.0](reviews//2023-09-16-NorthHarbour-Northland)
 
-[2023-09-16 Taranaki at Otago; 36.0-17.0](reviews//2023-09-16-Otago-Taranaki)
+[2023-09-17 Southland at Canterbury; 14.0-29.0](reviews//2023-09-17-Canterbury-Southland)
 
 [2023-09-17 Counties Manukau at Tasman; 17.0-27.0](reviews//2023-09-17-Tasman-CountiesManukau)
 
-[2023-09-17 Southland at Canterbury; 14.0-29.0](reviews//2023-09-17-Canterbury-Southland)
+[2023-09-22 Bay of Plenty at Northland; 32.0-26.0](reviews//2023-09-22-Northland-BayofPlenty)
 ## Nationale
 
 

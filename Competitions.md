@@ -196,7 +196,7 @@ key: page-recents
 ## Bunnings Warehouse NPC
 
 
-[2023](comp_files\Bunnings_Warehouse_NPC_2023) - Prediction Accuracy: 69.1% 
+[2023](comp_files\Bunnings_Warehouse_NPC_2023) - Prediction Accuracy: 69.6% 
 
 [2022](comp_files\Bunnings_Warehouse_NPC_2022) - Prediction Accuracy: 70.1% 
 
