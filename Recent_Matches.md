@@ -42,15 +42,13 @@ Last Round Error: 17.1 points per match
 
 [In depth model review and projections for Bunnings Warehouse NPC 2023](comp_files/Bunnings_Warehouse_NPC_2023)
 
-Competition Accuracy: 39 of 56 (69.64%)
+Competition Accuracy: 45 of 62 (72.58%)
 
-Competition Error: 11.39 points per match
+Competition Error: 11.63 points per match
 
-Last Round Accuracy: 6 of 7 (85.71%)
+Last Round Accuracy: 7 of 7 (100.0%)
 
-Last Round Error: 9.89 points per match
-
-[2023-09-13 Canterbury at Counties Manukau; 29.0-31.0](reviews//2023-09-13-CountiesManukau-Canterbury)
+Last Round Error: 12.23 points per match
 
 [2023-09-15 Manawatu at Hawke's Bay; 7.0-57.0](reviews//2023-09-15-Hawke'sBay-Manawatu)
 
@@ -65,6 +63,16 @@ Last Round Error: 9.89 points per match
 [2023-09-17 Counties Manukau at Tasman; 17.0-27.0](reviews//2023-09-17-Tasman-CountiesManukau)
 
 [2023-09-22 Bay of Plenty at Northland; 32.0-26.0](reviews//2023-09-22-Northland-BayofPlenty)
+
+[2023-09-23 Hawke's Bay at Southland; 33.0-7.0](reviews//2023-09-23-Southland-Hawke'sBay)
+
+[2023-09-23 Auckland at Taranaki; 16.0-18.0](reviews//2023-09-23-Taranaki-Auckland)
+
+[2023-09-23 Tasman at Canterbury; 28.0-30.0](reviews//2023-09-23-Canterbury-Tasman)
+
+[2023-09-24 North Harbour at Wellington; 6.0-26.0](reviews//2023-09-24-Wellington-NorthHarbour)
+
+[2023-09-24 Otago at Waikato; 7.0-47.0](reviews//2023-09-24-Waikato-Otago)
 ## Nationale
 
 
@@ -86,26 +94,6 @@ Last Round Error: 6.02 points per match
 
 [2023-09-16 Nice at Narbonne; 10.0-12.0](reviews//2023-09-16-Narbonne-Nice)
 
-[2023-09-16 Blagnac at Carqueiranne-Hyères; 19.0-13.0](reviews//2023-09-16-Carqueiranne-Hyères-Blagnac)
-
 [2023-09-16 Chambery at Suresnes; 17.0-22.0](reviews//2023-09-16-Suresnes-Chambery)
-## Pro D2
 
-
-[In depth model review and projections for Pro D2 2023](comp_files/Pro_D2_2023)
-
-Competition Accuracy: 31 of 40 (77.5%)
-
-Competition Error: 11.58 points per match
-
-Last Round Accuracy: 5 of 8 (62.5%)
-
-Last Round Error: 11.35 points per match
-
-[2023-09-12 Nevers at Agen; 30.0-40.0](reviews//2023-09-12-Agen-Nevers)
-
-[2023-09-13 Mont-de-Marsan at Biarritz Olympique; 37.0-17.0](reviews//2023-09-13-BiarritzOlympique-Mont-de-Marsan)
-
-[2023-09-13 Grenoble at Aurillac; 23.0-27.0](reviews//2023-09-13-Aurillac-Grenoble)
-
-[2023-09-13 Japan at England; 12.0-34.0](reviews//2023-09-13-Beziers-Vannes)
+[2023-09-16 Blagnac at Carqueiranne-Hyères; 19.0-13.0](reviews//2023-09-16-Carqueiranne-Hyères-Blagnac)
