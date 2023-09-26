@@ -18,21 +18,15 @@ Last Round Accuracy: 2 of 2 (100.0%)
 
 Last Round Error: 17.1 points per match
 
-[2023-09-14 Uruguay at France; 12.0-27.0](reviews//2023-09-14-France-Uruguay)
-
-[2023-09-15 Namibia at New Zealand; 3.0-71.0](reviews//2023-09-15-NewZealand-Namibia)
+[2023-09-16 Tonga at Ireland; 16.0-59.0](reviews//2023-09-16-Ireland-Tonga)
 
 [2023-09-16 Portugal at Wales; 8.0-28.0](reviews//2023-09-16-Wales-Portugal)
 
-[2023-09-16 Tonga at Ireland; 16.0-59.0](reviews//2023-09-16-Ireland-Tonga)
-
-[2023-09-16 Chile at Samoa; 10.0-43.0](reviews//2023-09-16-Samoa-Chile)
+[2023-09-17 Romania at South Africa; 0.0-76.0](reviews//2023-09-17-SouthAfrica-Romania)
 
 [2023-09-17 Japan at England; 12.0-34.0](reviews//2023-09-17-Fiji-Australia)
 
 [2023-09-17 Japan at England; 12.0-34.0](reviews//2023-09-17-England-Japan)
-
-[2023-09-17 Romania at South Africa; 0.0-76.0](reviews//2023-09-17-SouthAfrica-Romania)
 
 [2023-09-20 Uruguay at Italy; 17.0-38.0](reviews//2023-09-20-Italy-Uruguay)
 # Domestic Leagues
@@ -50,29 +44,21 @@ Last Round Accuracy: 7 of 7 (100.0%)
 
 Last Round Error: 12.23 points per match
 
-[2023-09-15 Manawatu at Hawke's Bay; 7.0-57.0](reviews//2023-09-15-Hawke'sBay-Manawatu)
-
-[2023-09-16 Waikato at Auckland; 27.0-12.0](reviews//2023-09-16-Auckland-Waikato)
-
-[2023-09-16 Taranaki at Otago; 36.0-17.0](reviews//2023-09-16-Otago-Taranaki)
-
-[2023-09-16 Northland at North Harbour; 31.0-50.0](reviews//2023-09-16-NorthHarbour-Northland)
+[2023-09-17 Counties Manukau at Tasman; 17.0-27.0](reviews//2023-09-17-Tasman-CountiesManukau)
 
 [2023-09-17 Southland at Canterbury; 14.0-29.0](reviews//2023-09-17-Canterbury-Southland)
 
-[2023-09-17 Counties Manukau at Tasman; 17.0-27.0](reviews//2023-09-17-Tasman-CountiesManukau)
-
 [2023-09-22 Bay of Plenty at Northland; 32.0-26.0](reviews//2023-09-22-Northland-BayofPlenty)
-
-[2023-09-23 Hawke's Bay at Southland; 33.0-7.0](reviews//2023-09-23-Southland-Hawke'sBay)
-
-[2023-09-23 Auckland at Taranaki; 16.0-18.0](reviews//2023-09-23-Taranaki-Auckland)
 
 [2023-09-23 Tasman at Canterbury; 28.0-30.0](reviews//2023-09-23-Canterbury-Tasman)
 
-[2023-09-24 North Harbour at Wellington; 6.0-26.0](reviews//2023-09-24-Wellington-NorthHarbour)
+[2023-09-23 Auckland at Taranaki; 16.0-18.0](reviews//2023-09-23-Taranaki-Auckland)
+
+[2023-09-23 Hawke's Bay at Southland; 33.0-7.0](reviews//2023-09-23-Southland-Hawke'sBay)
 
 [2023-09-24 Otago at Waikato; 7.0-47.0](reviews//2023-09-24-Waikato-Otago)
+
+[2023-09-24 North Harbour at Wellington; 6.0-26.0](reviews//2023-09-24-Wellington-NorthHarbour)
 ## Nationale
 
 
@@ -86,7 +72,7 @@ Last Round Accuracy: 6 of 7 (85.71%)
 
 Last Round Error: 6.02 points per match
 
-[2023-09-15 Massy at Carcassonne; 9.0-22.0](reviews//2023-09-15-Carcassonne-Massy)
+[2023-09-16 Blagnac at Carqueiranne-Hyères; 19.0-13.0](reviews//2023-09-16-Carqueiranne-Hyères-Blagnac)
 
 [2023-09-16 US Bressane at Périgueux; 11.0-18.0](reviews//2023-09-16-Périgueux-USBressane)
 
@@ -95,5 +81,3 @@ Last Round Error: 6.02 points per match
 [2023-09-16 Nice at Narbonne; 10.0-12.0](reviews//2023-09-16-Narbonne-Nice)
 
 [2023-09-16 Chambery at Suresnes; 17.0-22.0](reviews//2023-09-16-Suresnes-Chambery)
-
-[2023-09-16 Blagnac at Carqueiranne-Hyères; 19.0-13.0](reviews//2023-09-16-Carqueiranne-Hyères-Blagnac)
