@@ -37,14 +37,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Italy by 12.9
+## Prediction with Player Minutes: Italy by 12.8
 
 
-Italy by 12.9 on a neutral field
-## Prediction without Player Minutes: Italy by 11.9
+Italy by 12.8 on a neutral field
+## Prediction without Player Minutes: Italy by 11.8
 
 
-Italy by 11.9 on a neutral pitch
+Italy by 11.8 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -104,7 +104,7 @@ There were 10 large changes in win probability in this match
 |             63 | Baltazar Amaya     |      46.65 |       15 |      85.12 | Ange Capuozzo       |             80 |
 |             23 | Guillermo Pujadas  |      87.64 |       16 |      37.2  | Federico Zani       |             12 |
 |             23 | Facundo Gattas     |      46.68 |       17 |      63.01 | Ivan Nemer          |             20 |
-|             20 | Diego Arbelo       |      46.65 |       18 |      47.18 | Pietro Ceccarelli   |             30 |
+|             20 | Diego Arbelo       |      53.65 |       18 |      47.18 | Pietro Ceccarelli   |             30 |
 |             17 | Ignacio Dotti Uria |       4.75 |       19 |      70.38 | Dino Lamb           |             30 |
 |             23 | Carlos Deus        |      68.81 |       20 |      50.85 | Manuel Zuliani      |             20 |
 |             13 | Agustin Ormaechea  |      33.63 |       21 |      46.48 | Giovanni Pettinelli |             17 |
