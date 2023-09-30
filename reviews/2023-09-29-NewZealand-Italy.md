@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title: Italy at New Zealand; 10.0-96.0  
+title: Italy at New Zealand; 17.0-96.0  
 date: 2023-09-29 18:00:00 -0500  
 categories: match review  
 ---
-# Italy at New Zealand; 10.0-96.0
+# Italy at New Zealand; 17.0-96.0
 
 # Club Level Predictions
 
@@ -37,10 +37,10 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: New Zealand by 16.5
+## Prediction with Player Minutes: New Zealand by 16.1
 
 
-New Zealand by 16.5 on a neutral field
+New Zealand by 16.1 on a neutral field
 ## Prediction without Player Minutes: New Zealand by 17.3
 
 
@@ -88,7 +88,7 @@ New Zealand by 17.3 on a neutral pitch
 |             18 | Danilo Fischetti  |      40.38 |        1 |      98.09 | Ofa Tu'ungafasi     |             49 |
 |             50 | Giacomo Nicotera  |      92.3  |        2 |     103.43 | Codie Taylor        |             57 |
 |             54 | Marco Riccioni    |      43.58 |        3 |      84.7  | Nepo Laulala        |             49 |
-|             41 | Dino Lamb         |      70.38 |        4 |     135.1  | Brodie Retallick    |             83 |
+|             41 | Dino Lamb         |      70.38 |        4 |     135.1  | Brodie Retallick    |             77 |
 |             83 | Federico Ruzza    |      98.25 |        5 |      97.95 | Scott Barrett       |             83 |
 |             50 | Sebastian Negri   |      60.14 |        6 |      56.05 | Shannon Frizell     |             49 |
 |             65 | Michele Lamaro    |      90.68 |        7 |     109.7  | Dalton Papalii      |             57 |

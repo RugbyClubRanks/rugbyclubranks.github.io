@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title: Italy at New Zealand; 10.0-96.0  
+title: Italy at New Zealand; 17.0-96.0  
 date: 2023-09-26 18:00:00 -0500  
 categories: match review  
 ---
-# Italy at New Zealand; 10.0-96.0
+# Italy at New Zealand; 17.0-96.0
 
 # Club Level Predictions
 

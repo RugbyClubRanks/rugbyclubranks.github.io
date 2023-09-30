@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title: Uruguay at Italy; 17.0-38.0  
+title: Namibia at France; 0.0-96.0  
 date: 2023-09-23 18:00:00 -0500  
 categories: match review  
 ---
-# Uruguay at Italy; 17.0-38.0
+# Namibia at France; 0.0-96.0
 
 # Club Level Predictions
 
