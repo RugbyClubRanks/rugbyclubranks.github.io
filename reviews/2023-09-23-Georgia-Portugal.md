@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title: Namibia at Uruguay; 26.0-36.0  
+title: Georgia at Fiji; 12.0-17.0  
 date: 2023-09-23 18:00:00 -0500  
 categories: match review  
 ---
-# Namibia at Uruguay; 26.0-36.0
+# Georgia at Fiji; 12.0-17.0
 
 # Club Level Predictions
 

@@ -60,7 +60,7 @@ key: page-recents
 ## Rugby World Cup
 
 
-[2023](comp_files\Rugby_World_Cup_2023) - Prediction Accuracy: 72.4% 
+[2023](comp_files\Rugby_World_Cup_2023) - Prediction Accuracy: 74.2% 
 ## worldcupwarmupmatch
 
 
@@ -216,7 +216,7 @@ key: page-recents
 ## Nationale
 
 
-[2023](comp_files\Nationale_2023) - Prediction Accuracy: 75.0% 
+[2023](comp_files\Nationale_2023) - Prediction Accuracy: 77.1% 
 
 [2022](comp_files\Nationale_2022) - Prediction Accuracy: 68.8% 
 

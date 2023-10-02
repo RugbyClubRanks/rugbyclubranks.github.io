@@ -83,7 +83,7 @@ Chambery by 2.3 on a neutral pitch
 </p>
 
 
-There were 4 large changes in win probability in this match
+There were 6 large changes in win probability in this match
 
 |   Away Minutes | Away Player               |   Away elo |   Number |   Home elo | Home Player              |   Home Minutes |
 |---------------:|:--------------------------|-----------:|---------:|-----------:|:-------------------------|---------------:|

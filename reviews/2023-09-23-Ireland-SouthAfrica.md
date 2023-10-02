@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title: Namibia at France; 0.0-96.0  
+title: Australia at Wales; 6.0-40.0  
 date: 2023-09-23 18:00:00 -0500  
 categories: match review  
 ---
-# Namibia at France; 0.0-96.0
+# Australia at Wales; 6.0-40.0
 
 # Club Level Predictions
 
