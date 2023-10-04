@@ -37,14 +37,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Fiji by 9.0
+## Prediction with Player Minutes: Fiji by 8.8
 
 
-Fiji by 9.0 on a neutral field
-## Prediction without Player Minutes: Fiji by 9.8
+Fiji by 8.8 on a neutral field
+## Prediction without Player Minutes: Fiji by 9.5
 
 
-Fiji by 9.8 on a neutral pitch
+Fiji by 9.5 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -104,7 +104,7 @@ There were 11 large changes in win probability in this match
 |             80 | Mirian Modebadze      |      87.96 |       15 |      67.14 | Ilaisa Droasese                |             80 |
 |             68 | Luka Nioradze         |      46.65 |       16 |      69.58 | Tevita Ikanivere               |             20 |
 |             36 | Nika Abuladze         |      72.5  |       17 |      43.1  | Peni Ravai Kovekalou           |             32 |
-|             21 | Irakli Aptsiauri      |      46.65 |       18 |      46.65 | Samu Tawake                    |              9 |
+|             21 | Irakli Aptsiauri      |      46.65 |       18 |      16.36 | Samu Tawake                    |              9 |
 |             63 | Nodar Cheishvili      |     130.73 |       19 |      67.97 | Temo Mayanavanua               |             15 |
 |             11 | Luka Ivanishvili      |      75.31 |       20 |      88.91 | Albert Tuisue                  |             20 |
 |             21 | Gela Aprasidze        |      54.96 |       21 |      53.2  | Frank Lomani                   |             32 |

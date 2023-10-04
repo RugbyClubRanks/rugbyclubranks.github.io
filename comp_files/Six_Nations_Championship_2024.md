@@ -1,6 +1,6 @@
 ---  
 title: "Six Nations Championship 2024 Status"  
-date: 2023-10-02 6:00:00 -0500  
+date: 2023-10-04 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,12 +17,12 @@ aside:
 
 | Club     |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Ireland  |               5 |    4.4 |                 57.8 |                   0.4 |                4.3 |                 22.5 |
-| France   |               5 |    3.6 |                 30.1 |                   1   |                3.4 |                 18.8 |
-| Scotland |               5 |    2.9 |                  6.7 |                   1.1 |                2.8 |                 15.6 |
-| Wales    |               5 |    2.1 |                -12.6 |                   1.3 |                1.9 |                 11.5 |
-| England  |               5 |    1.4 |                -25.9 |                   1.4 |                1.3 |                  8.2 |
-| Italy    |               5 |    0.6 |                -56   |                   1.1 |                0.5 |                  4   |
+| Ireland  |               5 |    4.4 |                 57.9 |                   0.5 |                4.3 |                 22.5 |
+| France   |               5 |    3.6 |                 30   |                   1   |                3.4 |                 18.7 |
+| Scotland |               5 |    2.9 |                  6.6 |                   1.1 |                2.8 |                 15.6 |
+| Wales    |               5 |    2.1 |                -11.1 |                   1.4 |                1.9 |                 11.6 |
+| England  |               5 |    1.4 |                -26.8 |                   1.3 |                1.3 |                  8.2 |
+| Italy    |               5 |    0.6 |                -56.6 |                   1.1 |                0.5 |                  4   |
 
 
 
@@ -44,7 +44,7 @@ Average Margin: Ireland by 1.3
 ### Italy V England on 2024/02/03
 
 
-Average Margin: England by 1.8
+Average Margin: England by 1.7
 
 <p float="left">
 <img src="plots/performances_2024-02-03-Italy_V_England.png" width="32%" />
@@ -68,7 +68,7 @@ Average Margin: Scotland by 0.7
 ### Scotland V France on 2024/02/10
 
 
-Average Margin: Scotland by 0.4
+Average Margin: Scotland by 0.5
 
 <p float="left">
 <img src="plots/performances_2024-02-10-Scotland_V_France.png" width="32%" />
@@ -103,7 +103,7 @@ Average Margin: Ireland by 21.6
 ### Ireland V Wales on 2024/02/22
 
 
-Average Margin: Ireland by 15.3
+Average Margin: Ireland by 14.8
 
 <p float="left">
 <img src="plots/performances_2024-02-22-Ireland_V_Wales.png" width="32%" />
@@ -114,7 +114,7 @@ Average Margin: Ireland by 15.3
 ### Scotland V England on 2024/02/24
 
 
-Average Margin: Scotland by 9.3
+Average Margin: Scotland by 9.0
 
 <p float="left">
 <img src="plots/performances_2024-02-24-Scotland_V_England.png" width="32%" />
@@ -125,7 +125,7 @@ Average Margin: Scotland by 9.3
 ### France V Italy on 2024/02/25
 
 
-Average Margin: France by 16.7
+Average Margin: France by 17.0
 
 <p float="left">
 <img src="plots/performances_2024-02-25-France_V_Italy.png" width="32%" />
@@ -149,7 +149,7 @@ Average Margin: Scotland by 7.2
 ### England V Ireland on 2024/03/09
 
 
-Average Margin: Ireland by 9.4
+Average Margin: Ireland by 10.0
 
 <p float="left">
 <img src="plots/performances_2024-03-09-England_V_Ireland.png" width="32%" />
@@ -160,7 +160,7 @@ Average Margin: Ireland by 9.4
 ### Wales V France on 2024/03/10
 
 
-Average Margin: France by 4.1
+Average Margin: France by 3.4
 
 <p float="left">
 <img src="plots/performances_2024-03-10-Wales_V_France.png" width="32%" />
@@ -173,7 +173,7 @@ Average Margin: France by 4.1
 ### France V England on 2024/03/16
 
 
-Average Margin: France by 11.5
+Average Margin: France by 11.8
 
 <p float="left">
 <img src="plots/performances_2024-03-16-France_V_England.png" width="32%" />
@@ -184,7 +184,7 @@ Average Margin: France by 11.5
 ### Ireland V Scotland on 2024/03/16
 
 
-Average Margin: Ireland by 10.7
+Average Margin: Ireland by 10.6
 
 <p float="left">
 <img src="plots/performances_2024-03-16-Ireland_V_Scotland.png" width="32%" />
@@ -195,7 +195,7 @@ Average Margin: Ireland by 10.7
 ### Wales V Italy on 2024/03/16
 
 
-Average Margin: Wales by 9.2
+Average Margin: Wales by 9.6
 
 <p float="left">
 <img src="plots/performances_2024-03-16-Wales_V_Italy.png" width="32%" />

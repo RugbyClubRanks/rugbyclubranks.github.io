@@ -37,14 +37,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Scotland by 22.2
+## Prediction with Player Minutes: Scotland by 22.1
 
 
-Scotland by 22.2 on a neutral field
-## Prediction without Player Minutes: Scotland by 21.1
+Scotland by 22.1 on a neutral field
+## Prediction without Player Minutes: Scotland by 21.3
 
 
-Scotland by 21.1 on a neutral pitch
+Scotland by 21.3 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -92,11 +92,11 @@ Scotland by 21.1 on a neutral pitch
 |             61 | Stefan Iancu      |      26.71 |        5 |      97.76 | Grant Gilchrist |             59 |
 |             80 | Florian Rosu      |      43.91 |        6 |      71.09 | Luke Crosbie    |             80 |
 |             80 | Dragos Ser        |      20.26 |        7 |      49.02 | Hamish Watson   |             65 |
-|             39 | Cristi Chirica    |      46.65 |        8 |      99.93 | Matt Fagerson   |             80 |
+|             39 | Cristian Chirica  |      26.74 |        8 |      99.93 | Matt Fagerson   |             80 |
 |             53 | Gabriel Rupanu    |      45.41 |        9 |      70.49 | Ali Price       |             55 |
 |             53 | Alin Conache      |      39.62 |       10 |      48.34 | Ben Healy       |             80 |
 |             80 | Taliauli Sikuea   |      46.65 |       11 |     100.17 | Kyle Steyn      |             80 |
-|             57 | Tangimana Fonovai |      31.97 |       12 |      52.14 | Cameron Redpath |             80 |
+|             57 | Fonovai Tangimana |      46.65 |       12 |      52.14 | Cameron Redpath |             80 |
 |             80 | Jason Tomane      |      32.13 |       13 |      69.14 | Chris Harris    |             65 |
 |             80 | Sioeli Lama       |      31.86 |       14 |      49.95 | Darcy Graham    |             80 |
 |             80 | Marius Simionescu |       8.12 |       15 |      76.11 | Ollie Smith     |             59 |

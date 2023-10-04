@@ -83,7 +83,7 @@ Scotland by 10.8 on a neutral pitch
 </p>
 
 
-There were 9 large changes in win probability in this match
+There were 8 large changes in win probability in this match
 
 |   Away Minutes | Away Player          |   Away elo |   Number |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:---------------------|-----------:|---------:|-----------:|:--------------------|---------------:|

@@ -1,6 +1,6 @@
 ---  
 title: "Nationale 2023 Status"  
-date: 2023-10-02 6:00:00 -0500  
+date: 2023-10-04 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -39,20 +39,20 @@ aside:
 
 | Club                |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Périgueux           |                  21 |   16.1 |                141.2 |                   3.7 |               15.6 |                 83.7 |
-| Carcassonne         |                  21 |   15.8 |                120.1 |                   4.3 |               15   |                 82.6 |
-| Albi                |                  21 |   15.6 |                104.3 |                   4.5 |               14.8 |                 81.7 |
-| Nice                |                  21 |   14.4 |                 84.5 |                   5.2 |               13.6 |                 76.3 |
-| Blagnac             |                  21 |   12.5 |                 41.6 |                   6.1 |               11.7 |                 67.6 |
-| Bourgoin-Jallieu    |                  21 |   11.8 |                 36.5 |                   6.7 |               10.8 |                 64.7 |
-| Narbonne            |                  21 |   11.2 |                 37.1 |                   6.6 |               10.4 |                 61.9 |
-| Chambery            |                  21 |   11   |                 30.4 |                   6.9 |               10.3 |                 61.4 |
-| Massy               |                  21 |   10.1 |                 13.7 |                   7.8 |                9.3 |                 57.4 |
-| US Bressane         |                  21 |    9.7 |                  8.4 |                   7.7 |                8.9 |                 55.3 |
-| Tarbes              |                  21 |    7.5 |                -34.5 |                   7.5 |                7.1 |                 44.8 |
-| Carqueiranne-Hyères |                  21 |    5.7 |                -76.6 |                   7.3 |                5.3 |                 35.5 |
-| Suresnes            |                  21 |    5   |                -93.8 |                   7.1 |                4.7 |                 31.8 |
-| Vienne              |                  21 |    0.6 |               -415   |                   1.6 |                0.6 |                  4.5 |
+| Carcassonne         |                  21 |   15.9 |                121.9 |                   4.2 |               15.1 |                 83   |
+| Périgueux           |                  21 |   16   |                135.1 |                   3.7 |               15.4 |                 82.9 |
+| Albi                |                  21 |   15.4 |                100.9 |                   4.7 |               14.7 |                 81   |
+| Nice                |                  21 |   14.6 |                 88.4 |                   5   |               13.9 |                 77.4 |
+| Blagnac             |                  21 |   12.4 |                 42.5 |                   6.2 |               11.7 |                 67.6 |
+| Bourgoin-Jallieu    |                  21 |   11.9 |                 37.6 |                   6.6 |               10.9 |                 65.1 |
+| Narbonne            |                  21 |   11.4 |                 40.6 |                   6.6 |               10.6 |                 62.7 |
+| Chambery            |                  21 |   11   |                 31.3 |                   7   |               10.2 |                 61.2 |
+| Massy               |                  21 |   10.1 |                 14.4 |                   7.8 |                9.3 |                 57.5 |
+| US Bressane         |                  21 |    9.5 |                  8.2 |                   7.8 |                8.9 |                 54.8 |
+| Tarbes              |                  21 |    7.6 |                -36.1 |                   7.3 |                7.1 |                 44.7 |
+| Carqueiranne-Hyères |                  21 |    5.6 |                -79.7 |                   7.2 |                5.2 |                 34.9 |
+| Suresnes            |                  21 |    5.1 |                -93.2 |                   7.2 |                4.8 |                 32.2 |
+| Vienne              |                  21 |    0.5 |               -413.9 |                   1.7 |                0.6 |                  4.3 |
 
 
 
@@ -61,20 +61,20 @@ aside:
 
 | Club                |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Périgueux           |              26 |   20.1 |                209.2 |                   4.7 |               16.6 |                101.7 |
-| Albi                |              26 |   19.6 |                168.3 |                   4.5 |               16.8 |                 99.7 |
-| Carcassonne         |              26 |   19.8 |                145.1 |                   5.3 |               15   |                 99.6 |
-| Nice                |              26 |   17.4 |                153.5 |                   6.2 |               15.6 |                 91.3 |
-| Blagnac             |              26 |   15.5 |                 67.6 |                   7.1 |               13.7 |                 82.6 |
-| Narbonne            |              26 |   16.2 |                 70.1 |                   6.6 |               10.4 |                 81.9 |
-| Bourgoin-Jallieu    |              26 |   13.8 |                 34.5 |                   7.7 |               10.8 |                 73.7 |
-| Chambery            |              26 |   12   |                 29.4 |                   8.9 |               10.3 |                 69.4 |
-| Massy               |              26 |   12.1 |                  7.7 |                   9.8 |                9.3 |                 67.4 |
-| US Bressane         |              26 |    9.7 |                -32.6 |                  10.7 |                8.9 |                 58.3 |
-| Tarbes              |              26 |    9.5 |                -98.5 |                   8.5 |                7.1 |                 53.8 |
-| Carqueiranne-Hyères |              26 |    7.7 |                -86.6 |                   8.3 |                5.3 |                 46.5 |
-| Suresnes            |              26 |    7   |               -115.8 |                   8.1 |                4.7 |                 40.8 |
-| Vienne              |              26 |    0.6 |               -554   |                   1.6 |                0.6 |                  4.5 |
+| Périgueux           |              26 |   20   |                203.1 |                   4.7 |               16.4 |                100.9 |
+| Carcassonne         |              26 |   19.9 |                146.9 |                   5.2 |               15.1 |                100   |
+| Albi                |              26 |   19.4 |                164.9 |                   4.7 |               16.7 |                 99   |
+| Nice                |              26 |   17.6 |                157.4 |                   6   |               15.9 |                 92.4 |
+| Narbonne            |              26 |   16.4 |                 73.6 |                   6.6 |               10.6 |                 82.7 |
+| Blagnac             |              26 |   15.4 |                 68.5 |                   7.2 |               13.7 |                 82.6 |
+| Bourgoin-Jallieu    |              26 |   13.9 |                 35.6 |                   7.6 |               10.9 |                 74.1 |
+| Chambery            |              26 |   12   |                 30.3 |                   9   |               10.2 |                 69.2 |
+| Massy               |              26 |   12.1 |                  8.4 |                   9.8 |                9.3 |                 67.5 |
+| US Bressane         |              26 |    9.5 |                -32.8 |                  10.8 |                8.9 |                 57.8 |
+| Tarbes              |              26 |    9.6 |               -100.1 |                   8.3 |                7.1 |                 53.7 |
+| Carqueiranne-Hyères |              26 |    7.6 |                -89.7 |                   8.2 |                5.2 |                 45.9 |
+| Suresnes            |              26 |    7.1 |               -115.2 |                   8.2 |                4.8 |                 41.2 |
+| Vienne              |              26 |    0.5 |               -552.9 |                   1.7 |                0.6 |                  4.3 |
 
 
 
@@ -95,7 +95,7 @@ aside:
 ### Albi V Narbonne on 2023/10/07
 
 
-Average Margin: Albi by 7.2
+Average Margin: Albi by 6.9
 
 <p float="left">
 <img src="plots/performances_2023-10-07-Albi_V_Narbonne.png" width="32%" />
@@ -106,7 +106,7 @@ Average Margin: Albi by 7.2
 ### Tarbes V Périgueux on 2023/10/07
 
 
-Average Margin: Périgueux by 6.5
+Average Margin: Périgueux by 6.7
 
 <p float="left">
 <img src="plots/performances_2023-10-07-Tarbes_V_Périgueux.png" width="32%" />
@@ -117,7 +117,7 @@ Average Margin: Périgueux by 6.5
 ### Bourgoin-Jallieu V Carqueiranne-Hyères on 2023/10/07
 
 
-Average Margin: Bourgoin-Jallieu by 8.2
+Average Margin: Bourgoin-Jallieu by 8.4
 
 <p float="left">
 <img src="plots/performances_2023-10-07-Bourgoin-Jallieu_V_Carqueiranne-Hyères.png" width="32%" />
@@ -128,7 +128,7 @@ Average Margin: Bourgoin-Jallieu by 8.2
 ### US Bressane V Vienne on 2023/10/07
 
 
-Average Margin: US Bressane by 24.5
+Average Margin: US Bressane by 24.4
 
 <p float="left">
 <img src="plots/performances_2023-10-07-USBressane_V_Vienne.png" width="32%" />
@@ -150,7 +150,7 @@ Average Margin: Blagnac by 3.7
 ### Chambery V Massy on 2023/10/07
 
 
-Average Margin: Chambery by 3.2
+Average Margin: Chambery by 3.1
 
 <p float="left">
 <img src="plots/performances_2023-10-07-Chambery_V_Massy.png" width="32%" />
@@ -161,7 +161,7 @@ Average Margin: Chambery by 3.2
 ### Nice V Carcassonne on 2023/10/07
 
 
-Average Margin: Nice by 1.6
+Average Margin: Nice by 2.0
 
 <p float="left">
 <img src="plots/performances_2023-10-07-Nice_V_Carcassonne.png" width="32%" />
@@ -174,7 +174,7 @@ Average Margin: Nice by 1.6
 ### Vienne V Tarbes on 2023/10/14
 
 
-Average Margin: Tarbes by 16.3
+Average Margin: Tarbes by 16.2
 
 <p float="left">
 <img src="plots/performances_2023-10-14-Vienne_V_Tarbes.png" width="32%" />
@@ -185,7 +185,7 @@ Average Margin: Tarbes by 16.3
 ### Blagnac V Chambery on 2023/10/14
 
 
-Average Margin: Blagnac by 4.9
+Average Margin: Blagnac by 4.8
 
 <p float="left">
 <img src="plots/performances_2023-10-14-Blagnac_V_Chambery.png" width="32%" />
@@ -196,7 +196,7 @@ Average Margin: Blagnac by 4.9
 ### Albi V Carqueiranne-Hyères on 2023/10/14
 
 
-Average Margin: Albi by 12.1
+Average Margin: Albi by 11.8
 
 <p float="left">
 <img src="plots/performances_2023-10-14-Albi_V_Carqueiranne-Hyères.png" width="32%" />
@@ -207,7 +207,7 @@ Average Margin: Albi by 12.1
 ### Périgueux V Narbonne on 2023/10/14
 
 
-Average Margin: Périgueux by 9.3
+Average Margin: Périgueux by 9.1
 
 <p float="left">
 <img src="plots/performances_2023-10-14-Périgueux_V_Narbonne.png" width="32%" />
@@ -218,7 +218,7 @@ Average Margin: Périgueux by 9.3
 ### US Bressane V Massy on 2023/10/14
 
 
-Average Margin: US Bressane by 1.8
+Average Margin: US Bressane by 1.7
 
 <p float="left">
 <img src="plots/performances_2023-10-14-USBressane_V_Massy.png" width="32%" />
@@ -229,7 +229,7 @@ Average Margin: US Bressane by 1.8
 ### Nice V Suresnes on 2023/10/14
 
 
-Average Margin: Nice by 12.0
+Average Margin: Nice by 12.5
 
 <p float="left">
 <img src="plots/performances_2023-10-14-Nice_V_Suresnes.png" width="32%" />
@@ -253,7 +253,7 @@ Average Margin: Carcassonne by 0.6
 ### Carqueiranne-Hyères V Périgueux on 2023/10/21
 
 
-Average Margin: Périgueux by 7.3
+Average Margin: Périgueux by 7.6
 
 <p float="left">
 <img src="plots/performances_2023-10-21-Carqueiranne-Hyères_V_Périgueux.png" width="32%" />
@@ -264,7 +264,7 @@ Average Margin: Périgueux by 7.3
 ### Carcassonne V Albi on 2023/10/21
 
 
-Average Margin: Carcassonne by 3.5
+Average Margin: Carcassonne by 3.6
 
 <p float="left">
 <img src="plots/performances_2023-10-21-Carcassonne_V_Albi.png" width="32%" />
@@ -275,7 +275,7 @@ Average Margin: Carcassonne by 3.5
 ### Tarbes V US Bressane on 2023/10/21
 
 
-Average Margin: Tarbes by 1.6
+Average Margin: Tarbes by 1.9
 
 <p float="left">
 <img src="plots/performances_2023-10-21-Tarbes_V_USBressane.png" width="32%" />
@@ -286,7 +286,7 @@ Average Margin: Tarbes by 1.6
 ### Massy V Blagnac on 2023/10/21
 
 
-Average Margin: Massy by 2.3
+Average Margin: Massy by 2.1
 
 <p float="left">
 <img src="plots/performances_2023-10-21-Massy_V_Blagnac.png" width="32%" />
@@ -308,7 +308,7 @@ Average Margin: Chambery by 0.2
 ### Suresnes V Bourgoin-Jallieu on 2023/10/21
 
 
-Average Margin: Bourgoin-Jallieu by 3.0
+Average Margin: Bourgoin-Jallieu by 3.2
 
 <p float="left">
 <img src="plots/performances_2023-10-21-Suresnes_V_Bourgoin-Jallieu.png" width="32%" />
@@ -319,7 +319,7 @@ Average Margin: Bourgoin-Jallieu by 3.0
 ### Narbonne V Vienne on 2023/10/21
 
 
-Average Margin: Narbonne by 26.1
+Average Margin: Narbonne by 27.0
 
 <p float="left">
 <img src="plots/performances_2023-10-21-Narbonne_V_Vienne.png" width="32%" />
@@ -332,7 +332,7 @@ Average Margin: Narbonne by 26.1
 ### Suresnes V Albi on 2023/11/04
 
 
-Average Margin: Albi by 6.8
+Average Margin: Albi by 6.4
 
 <p float="left">
 <img src="plots/performances_2023-11-04-Suresnes_V_Albi.png" width="32%" />
@@ -354,7 +354,7 @@ Average Margin: US Bressane by 0.4
 ### Périgueux V Carcassonne on 2023/11/04
 
 
-Average Margin: Périgueux by 4.8
+Average Margin: Périgueux by 4.5
 
 <p float="left">
 <img src="plots/performances_2023-11-04-Périgueux_V_Carcassonne.png" width="32%" />
@@ -365,7 +365,7 @@ Average Margin: Périgueux by 4.8
 ### Tarbes V Narbonne on 2023/11/04
 
 
-Average Margin: Narbonne by 0.3
+Average Margin: Narbonne by 0.5
 
 <p float="left">
 <img src="plots/performances_2023-11-04-Tarbes_V_Narbonne.png" width="32%" />
@@ -376,7 +376,7 @@ Average Margin: Narbonne by 0.3
 ### Bourgoin-Jallieu V Chambery on 2023/11/04
 
 
-Average Margin: Bourgoin-Jallieu by 3.7
+Average Margin: Bourgoin-Jallieu by 3.9
 
 <p float="left">
 <img src="plots/performances_2023-11-04-Bourgoin-Jallieu_V_Chambery.png" width="32%" />
@@ -387,7 +387,7 @@ Average Margin: Bourgoin-Jallieu by 3.7
 ### Nice V Massy on 2023/11/04
 
 
-Average Margin: Nice by 6.1
+Average Margin: Nice by 6.4
 
 <p float="left">
 <img src="plots/performances_2023-11-04-Nice_V_Massy.png" width="32%" />
@@ -398,7 +398,7 @@ Average Margin: Nice by 6.1
 ### Vienne V Carqueiranne-Hyères on 2023/11/04
 
 
-Average Margin: Carqueiranne-Hyères by 13.4
+Average Margin: Carqueiranne-Hyères by 13.6
 
 <p float="left">
 <img src="plots/performances_2023-11-04-Vienne_V_Carqueiranne-Hyères.png" width="32%" />
@@ -411,7 +411,7 @@ Average Margin: Carqueiranne-Hyères by 13.4
 ### Suresnes V Périgueux on 2023/11/11
 
 
-Average Margin: Périgueux by 8.3
+Average Margin: Périgueux by 8.5
 
 <p float="left">
 <img src="plots/performances_2023-11-11-Suresnes_V_Périgueux.png" width="32%" />
@@ -422,7 +422,7 @@ Average Margin: Périgueux by 8.3
 ### Carcassonne V Vienne on 2023/11/11
 
 
-Average Margin: Carcassonne by 29.5
+Average Margin: Carcassonne by 29.0
 
 <p float="left">
 <img src="plots/performances_2023-11-11-Carcassonne_V_Vienne.png" width="32%" />
@@ -433,7 +433,7 @@ Average Margin: Carcassonne by 29.5
 ### Blagnac V Nice on 2023/11/11
 
 
-Average Margin: Blagnac by 2.0
+Average Margin: Blagnac by 1.6
 
 <p float="left">
 <img src="plots/performances_2023-11-11-Blagnac_V_Nice.png" width="32%" />
@@ -444,7 +444,7 @@ Average Margin: Blagnac by 2.0
 ### Bourgoin-Jallieu V Massy on 2023/11/11
 
 
-Average Margin: Bourgoin-Jallieu by 3.6
+Average Margin: Bourgoin-Jallieu by 3.7
 
 <p float="left">
 <img src="plots/performances_2023-11-11-Bourgoin-Jallieu_V_Massy.png" width="32%" />
@@ -455,7 +455,7 @@ Average Margin: Bourgoin-Jallieu by 3.6
 ### Carqueiranne-Hyères V Tarbes on 2023/11/11
 
 
-Average Margin: Carqueiranne-Hyères by 2.4
+Average Margin: Carqueiranne-Hyères by 2.2
 
 <p float="left">
 <img src="plots/performances_2023-11-11-Carqueiranne-Hyères_V_Tarbes.png" width="32%" />
@@ -477,7 +477,7 @@ Average Margin: Albi by 0.8
 ### US Bressane V Narbonne on 2023/11/11
 
 
-Average Margin: US Bressane by 1.4
+Average Margin: US Bressane by 1.0
 
 <p float="left">
 <img src="plots/performances_2023-11-11-USBressane_V_Narbonne.png" width="32%" />
@@ -490,7 +490,7 @@ Average Margin: US Bressane by 1.4
 ### Albi V Massy on 2023/11/18
 
 
-Average Margin: Albi by 7.6
+Average Margin: Albi by 7.5
 
 <p float="left">
 <img src="plots/performances_2023-11-18-Albi_V_Massy.png" width="32%" />
@@ -512,7 +512,7 @@ Average Margin: Narbonne by 8.1
 ### Périgueux V Chambery on 2023/11/18
 
 
-Average Margin: Périgueux by 9.7
+Average Margin: Périgueux by 9.0
 
 <p float="left">
 <img src="plots/performances_2023-11-18-Périgueux_V_Chambery.png" width="32%" />
@@ -523,7 +523,7 @@ Average Margin: Périgueux by 9.7
 ### Tarbes V Carcassonne on 2023/11/18
 
 
-Average Margin: Carcassonne by 4.1
+Average Margin: Carcassonne by 4.2
 
 <p float="left">
 <img src="plots/performances_2023-11-18-Tarbes_V_Carcassonne.png" width="32%" />
@@ -534,7 +534,7 @@ Average Margin: Carcassonne by 4.1
 ### Vienne V Suresnes on 2023/11/18
 
 
-Average Margin: Suresnes by 11.9
+Average Margin: Suresnes by 12.5
 
 <p float="left">
 <img src="plots/performances_2023-11-18-Vienne_V_Suresnes.png" width="32%" />
@@ -545,7 +545,7 @@ Average Margin: Suresnes by 11.9
 ### Nice V US Bressane on 2023/11/18
 
 
-Average Margin: Nice by 7.8
+Average Margin: Nice by 8.1
 
 <p float="left">
 <img src="plots/performances_2023-11-18-Nice_V_USBressane.png" width="32%" />
@@ -556,7 +556,7 @@ Average Margin: Nice by 7.8
 ### Bourgoin-Jallieu V Blagnac on 2023/11/18
 
 
-Average Margin: Bourgoin-Jallieu by 2.4
+Average Margin: Bourgoin-Jallieu by 2.3
 
 <p float="left">
 <img src="plots/performances_2023-11-18-Bourgoin-Jallieu_V_Blagnac.png" width="32%" />
@@ -602,7 +602,7 @@ Average Margin: Blagnac by 0.8
 ### Chambery V Vienne on 2023/12/02
 
 
-Average Margin: Chambery by 23.2
+Average Margin: Chambery by 23.6
 
 <p float="left">
 <img src="plots/performances_2023-12-02-Chambery_V_Vienne.png" width="32%" />
@@ -613,7 +613,7 @@ Average Margin: Chambery by 23.2
 ### Carqueiranne-Hyères V US Bressane on 2023/12/02
 
 
-Average Margin: Carqueiranne-Hyères by 0.7
+Average Margin: Carqueiranne-Hyères by 0.5
 
 <p float="left">
 <img src="plots/performances_2023-12-02-Carqueiranne-Hyères_V_USBressane.png" width="32%" />
@@ -624,7 +624,7 @@ Average Margin: Carqueiranne-Hyères by 0.7
 ### Massy V Périgueux on 2023/12/02
 
 
-Average Margin: Périgueux by 1.8
+Average Margin: Périgueux by 1.5
 
 <p float="left">
 <img src="plots/performances_2023-12-02-Massy_V_Périgueux.png" width="32%" />
@@ -635,7 +635,7 @@ Average Margin: Périgueux by 1.8
 ### Suresnes V Tarbes on 2023/12/02
 
 
-Average Margin: Suresnes by 0.7
+Average Margin: Suresnes by 0.8
 
 <p float="left">
 <img src="plots/performances_2023-12-02-Suresnes_V_Tarbes.png" width="32%" />
@@ -659,7 +659,7 @@ Average Margin: Narbonne by 9.9
 ### Carcassonne V Carqueiranne-Hyères on 2023/12/09
 
 
-Average Margin: Carcassonne by 11.6
+Average Margin: Carcassonne by 12.2
 
 <p float="left">
 <img src="plots/performances_2023-12-09-Carcassonne_V_Carqueiranne-Hyères.png" width="32%" />
@@ -670,7 +670,7 @@ Average Margin: Carcassonne by 11.6
 ### Vienne V Massy on 2023/12/09
 
 
-Average Margin: Massy by 17.0
+Average Margin: Massy by 16.7
 
 <p float="left">
 <img src="plots/performances_2023-12-09-Vienne_V_Massy.png" width="32%" />
@@ -681,7 +681,7 @@ Average Margin: Massy by 17.0
 ### Chambery V Tarbes on 2023/12/09
 
 
-Average Margin: Chambery by 6.6
+Average Margin: Chambery by 6.5
 
 <p float="left">
 <img src="plots/performances_2023-12-09-Chambery_V_Tarbes.png" width="32%" />
@@ -703,7 +703,7 @@ Average Margin: US Bressane by 1.4
 ### Albi V Nice on 2023/12/09
 
 
-Average Margin: Albi by 4.7
+Average Margin: Albi by 4.4
 
 <p float="left">
 <img src="plots/performances_2023-12-09-Albi_V_Nice.png" width="32%" />
@@ -714,7 +714,7 @@ Average Margin: Albi by 4.7
 ### Blagnac V Périgueux on 2023/12/09
 
 
-Average Margin: Périgueux by 1.0
+Average Margin: Périgueux by 0.6
 
 <p float="left">
 <img src="plots/performances_2023-12-09-Blagnac_V_Périgueux.png" width="32%" />
@@ -727,7 +727,7 @@ Average Margin: Périgueux by 1.0
 ### Albi V Bourgoin-Jallieu on 2023/12/16
 
 
-Average Margin: Albi by 7.1
+Average Margin: Albi by 6.9
 
 <p float="left">
 <img src="plots/performances_2023-12-16-Albi_V_Bourgoin-Jallieu.png" width="32%" />
@@ -738,7 +738,7 @@ Average Margin: Albi by 7.1
 ### Vienne V Blagnac on 2023/12/16
 
 
-Average Margin: Blagnac by 18.5
+Average Margin: Blagnac by 17.9
 
 <p float="left">
 <img src="plots/performances_2023-12-16-Vienne_V_Blagnac.png" width="32%" />
@@ -749,7 +749,7 @@ Average Margin: Blagnac by 18.5
 ### Carcassonne V US Bressane on 2023/12/16
 
 
-Average Margin: Carcassonne by 9.2
+Average Margin: Carcassonne by 9.3
 
 <p float="left">
 <img src="plots/performances_2023-12-16-Carcassonne_V_USBressane.png" width="32%" />
@@ -760,7 +760,7 @@ Average Margin: Carcassonne by 9.2
 ### Périgueux V Nice on 2023/12/16
 
 
-Average Margin: Périgueux by 6.0
+Average Margin: Périgueux by 5.5
 
 <p float="left">
 <img src="plots/performances_2023-12-16-Périgueux_V_Nice.png" width="32%" />
@@ -771,7 +771,7 @@ Average Margin: Périgueux by 6.0
 ### Chambery V Narbonne on 2023/12/16
 
 
-Average Margin: Chambery by 2.9
+Average Margin: Chambery by 2.6
 
 <p float="left">
 <img src="plots/performances_2023-12-16-Chambery_V_Narbonne.png" width="32%" />
@@ -793,7 +793,7 @@ Average Margin: Tarbes by 0.1
 ### Suresnes V Carqueiranne-Hyères on 2023/12/16
 
 
-Average Margin: Suresnes by 1.9
+Average Margin: Suresnes by 2.1
 
 <p float="left">
 <img src="plots/performances_2023-12-16-Suresnes_V_Carqueiranne-Hyères.png" width="32%" />
@@ -806,7 +806,7 @@ Average Margin: Suresnes by 1.9
 ### Blagnac V Tarbes on 2024/01/15
 
 
-Average Margin: Blagnac by 7.6
+Average Margin: Blagnac by 8.2
 
 <p float="left">
 <img src="plots/performances_2024-01-15-Blagnac_V_Tarbes.png" width="32%" />
@@ -817,7 +817,7 @@ Average Margin: Blagnac by 7.6
 ### Bourgoin-Jallieu V Périgueux on 2024/01/15
 
 
-Average Margin: Périgueux by 1.7
+Average Margin: Périgueux by 1.5
 
 <p float="left">
 <img src="plots/performances_2024-01-15-Bourgoin-Jallieu_V_Périgueux.png" width="32%" />
@@ -828,7 +828,7 @@ Average Margin: Périgueux by 1.7
 ### US Bressane V Albi on 2024/01/15
 
 
-Average Margin: Albi by 2.3
+Average Margin: Albi by 2.1
 
 <p float="left">
 <img src="plots/performances_2024-01-15-USBressane_V_Albi.png" width="32%" />
@@ -839,7 +839,7 @@ Average Margin: Albi by 2.3
 ### Narbonne V Massy on 2024/01/15
 
 
-Average Margin: Narbonne by 3.8
+Average Margin: Narbonne by 3.7
 
 <p float="left">
 <img src="plots/performances_2024-01-15-Narbonne_V_Massy.png" width="32%" />
@@ -861,7 +861,7 @@ Average Margin: Carcassonne by 6.7
 ### Nice V Vienne on 2024/01/15
 
 
-Average Margin: Nice by 25.5
+Average Margin: Nice by 25.7
 
 <p float="left">
 <img src="plots/performances_2024-01-15-Nice_V_Vienne.png" width="32%" />
@@ -872,7 +872,7 @@ Average Margin: Nice by 25.5
 ### Chambery V Carqueiranne-Hyères on 2024/01/15
 
 
-Average Margin: Chambery by 7.7
+Average Margin: Chambery by 7.5
 
 <p float="left">
 <img src="plots/performances_2024-01-15-Chambery_V_Carqueiranne-Hyères.png" width="32%" />
@@ -883,7 +883,7 @@ Average Margin: Chambery by 7.7
 ### Bourgoin-Jallieu V Vienne on 2024/01/20
 
 
-Average Margin: Bourgoin-Jallieu by 23.0
+Average Margin: Bourgoin-Jallieu by 22.8
 
 <p float="left">
 <img src="plots/performances_2024-01-20-Bourgoin-Jallieu_V_Vienne.png" width="32%" />
@@ -894,7 +894,7 @@ Average Margin: Bourgoin-Jallieu by 23.0
 ### Périgueux V Albi on 2024/01/20
 
 
-Average Margin: Périgueux by 4.7
+Average Margin: Périgueux by 4.4
 
 <p float="left">
 <img src="plots/performances_2024-01-20-Périgueux_V_Albi.png" width="32%" />
@@ -905,7 +905,7 @@ Average Margin: Périgueux by 4.7
 ### Carqueiranne-Hyères V Massy on 2024/01/20
 
 
-Average Margin: Massy by 0.8
+Average Margin: Massy by 0.9
 
 <p float="left">
 <img src="plots/performances_2024-01-20-Carqueiranne-Hyères_V_Massy.png" width="32%" />
@@ -916,7 +916,7 @@ Average Margin: Massy by 0.8
 ### Chambery V Carcassonne on 2024/01/20
 
 
-Average Margin: Carcassonne by 0.7
+Average Margin: Carcassonne by 1.1
 
 <p float="left">
 <img src="plots/performances_2024-01-20-Chambery_V_Carcassonne.png" width="32%" />
@@ -927,7 +927,7 @@ Average Margin: Carcassonne by 0.7
 ### Nice V Tarbes on 2024/01/20
 
 
-Average Margin: Nice by 9.5
+Average Margin: Nice by 9.4
 
 <p float="left">
 <img src="plots/performances_2024-01-20-Nice_V_Tarbes.png" width="32%" />
@@ -938,7 +938,7 @@ Average Margin: Nice by 9.5
 ### Suresnes V US Bressane on 2024/01/20
 
 
-Average Margin: US Bressane by 0.9
+Average Margin: US Bressane by 1.0
 
 <p float="left">
 <img src="plots/performances_2024-01-20-Suresnes_V_USBressane.png" width="32%" />
@@ -949,7 +949,7 @@ Average Margin: US Bressane by 0.9
 ### Blagnac V Narbonne on 2024/01/20
 
 
-Average Margin: Blagnac by 3.9
+Average Margin: Blagnac by 4.0
 
 <p float="left">
 <img src="plots/performances_2024-01-20-Blagnac_V_Narbonne.png" width="32%" />
@@ -962,7 +962,7 @@ Average Margin: Blagnac by 3.9
 ### Albi V Vienne on 2024/01/27
 
 
-Average Margin: Albi by 27.3
+Average Margin: Albi by 26.8
 
 <p float="left">
 <img src="plots/performances_2024-01-27-Albi_V_Vienne.png" width="32%" />
@@ -973,7 +973,7 @@ Average Margin: Albi by 27.3
 ### Massy V Carcassonne on 2024/01/27
 
 
-Average Margin: Carcassonne by 0.9
+Average Margin: Carcassonne by 0.8
 
 <p float="left">
 <img src="plots/performances_2024-01-27-Massy_V_Carcassonne.png" width="32%" />
@@ -984,7 +984,7 @@ Average Margin: Carcassonne by 0.9
 ### Nice V Narbonne on 2024/01/27
 
 
-Average Margin: Nice by 5.5
+Average Margin: Nice by 5.7
 
 <p float="left">
 <img src="plots/performances_2024-01-27-Nice_V_Narbonne.png" width="32%" />
@@ -995,7 +995,7 @@ Average Margin: Nice by 5.5
 ### US Bressane V Périgueux on 2024/01/27
 
 
-Average Margin: Périgueux by 3.8
+Average Margin: Périgueux by 3.4
 
 <p float="left">
 <img src="plots/performances_2024-01-27-USBressane_V_Périgueux.png" width="32%" />
@@ -1006,7 +1006,7 @@ Average Margin: Périgueux by 3.8
 ### Blagnac V Carqueiranne-Hyères on 2024/01/27
 
 
-Average Margin: Blagnac by 8.8
+Average Margin: Blagnac by 9.1
 
 <p float="left">
 <img src="plots/performances_2024-01-27-Blagnac_V_Carqueiranne-Hyères.png" width="32%" />
@@ -1041,7 +1041,7 @@ Average Margin: Chambery by 9.1
 ### Tarbes V Albi on 2024/02/03
 
 
-Average Margin: Albi by 3.7
+Average Margin: Albi by 3.9
 
 <p float="left">
 <img src="plots/performances_2024-02-03-Tarbes_V_Albi.png" width="32%" />
@@ -1052,7 +1052,7 @@ Average Margin: Albi by 3.7
 ### Carcassonne V Blagnac on 2024/02/03
 
 
-Average Margin: Carcassonne by 6.5
+Average Margin: Carcassonne by 6.3
 
 <p float="left">
 <img src="plots/performances_2024-02-03-Carcassonne_V_Blagnac.png" width="32%" />
@@ -1063,7 +1063,7 @@ Average Margin: Carcassonne by 6.5
 ### Suresnes V Massy on 2024/02/03
 
 
-Average Margin: Massy by 2.5
+Average Margin: Massy by 2.7
 
 <p float="left">
 <img src="plots/performances_2024-02-03-Suresnes_V_Massy.png" width="32%" />
@@ -1085,7 +1085,7 @@ Average Margin: US Bressane by 1.8
 ### Nice V Carqueiranne-Hyères on 2024/02/03
 
 
-Average Margin: Nice by 10.2
+Average Margin: Nice by 10.5
 
 <p float="left">
 <img src="plots/performances_2024-02-03-Nice_V_Carqueiranne-Hyères.png" width="32%" />
@@ -1107,7 +1107,7 @@ Average Margin: Bourgoin-Jallieu by 3.1
 ### Vienne V Périgueux on 2024/02/03
 
 
-Average Margin: Périgueux by 20.9
+Average Margin: Périgueux by 20.3
 
 <p float="left">
 <img src="plots/performances_2024-02-03-Vienne_V_Périgueux.png" width="32%" />
@@ -1120,7 +1120,7 @@ Average Margin: Périgueux by 20.9
 ### Vienne V US Bressane on 2024/02/10
 
 
-Average Margin: US Bressane by 14.3
+Average Margin: US Bressane by 14.1
 
 <p float="left">
 <img src="plots/performances_2024-02-10-Vienne_V_USBressane.png" width="32%" />
@@ -1131,7 +1131,7 @@ Average Margin: US Bressane by 14.3
 ### Carcassonne V Nice on 2024/02/10
 
 
-Average Margin: Carcassonne by 4.5
+Average Margin: Carcassonne by 4.7
 
 <p float="left">
 <img src="plots/performances_2024-02-10-Carcassonne_V_Nice.png" width="32%" />
@@ -1142,7 +1142,7 @@ Average Margin: Carcassonne by 4.5
 ### Périgueux V Tarbes on 2024/02/10
 
 
-Average Margin: Périgueux by 11.7
+Average Margin: Périgueux by 11.5
 
 <p float="left">
 <img src="plots/performances_2024-02-10-Périgueux_V_Tarbes.png" width="32%" />
@@ -1153,7 +1153,7 @@ Average Margin: Périgueux by 11.7
 ### Narbonne V Albi on 2024/02/10
 
 
-Average Margin: Albi by 0.2
+Average Margin: Narbonne by 0.1
 
 <p float="left">
 <img src="plots/performances_2024-02-10-Narbonne_V_Albi.png" width="32%" />
@@ -1164,7 +1164,7 @@ Average Margin: Albi by 0.2
 ### Carqueiranne-Hyères V Bourgoin-Jallieu on 2024/02/10
 
 
-Average Margin: Bourgoin-Jallieu by 1.1
+Average Margin: Bourgoin-Jallieu by 1.4
 
 <p float="left">
 <img src="plots/performances_2024-02-10-Carqueiranne-Hyères_V_Bourgoin-Jallieu.png" width="32%" />
@@ -1175,7 +1175,7 @@ Average Margin: Bourgoin-Jallieu by 1.1
 ### Blagnac V Suresnes on 2024/02/10
 
 
-Average Margin: Blagnac by 10.3
+Average Margin: Blagnac by 10.2
 
 <p float="left">
 <img src="plots/performances_2024-02-10-Blagnac_V_Suresnes.png" width="32%" />
@@ -1186,7 +1186,7 @@ Average Margin: Blagnac by 10.3
 ### Massy V Chambery on 2024/02/10
 
 
-Average Margin: Massy by 3.8
+Average Margin: Massy by 3.7
 
 <p float="left">
 <img src="plots/performances_2024-02-10-Massy_V_Chambery.png" width="32%" />
@@ -1199,7 +1199,7 @@ Average Margin: Massy by 3.8
 ### Tarbes V Vienne on 2024/02/17
 
 
-Average Margin: Tarbes by 19.1
+Average Margin: Tarbes by 18.7
 
 <p float="left">
 <img src="plots/performances_2024-02-17-Tarbes_V_Vienne.png" width="32%" />
@@ -1210,7 +1210,7 @@ Average Margin: Tarbes by 19.1
 ### Suresnes V Nice on 2024/02/17
 
 
-Average Margin: Nice by 5.4
+Average Margin: Nice by 5.1
 
 <p float="left">
 <img src="plots/performances_2024-02-17-Suresnes_V_Nice.png" width="32%" />
@@ -1221,7 +1221,7 @@ Average Margin: Nice by 5.4
 ### Massy V US Bressane on 2024/02/17
 
 
-Average Margin: Massy by 5.0
+Average Margin: Massy by 5.2
 
 <p float="left">
 <img src="plots/performances_2024-02-17-Massy_V_USBressane.png" width="32%" />
@@ -1243,7 +1243,7 @@ Average Margin: Chambery by 2.0
 ### Carqueiranne-Hyères V Albi on 2024/02/17
 
 
-Average Margin: Albi by 4.8
+Average Margin: Albi by 5.0
 
 <p float="left">
 <img src="plots/performances_2024-02-17-Carqueiranne-Hyères_V_Albi.png" width="32%" />
@@ -1254,7 +1254,7 @@ Average Margin: Albi by 4.8
 ### Narbonne V Périgueux on 2024/02/17
 
 
-Average Margin: Périgueux by 1.7
+Average Margin: Périgueux by 1.1
 
 <p float="left">
 <img src="plots/performances_2024-02-17-Narbonne_V_Périgueux.png" width="32%" />
@@ -1289,7 +1289,7 @@ Average Margin: Bourgoin-Jallieu by 9.6
 ### Nice V Chambery on 2024/03/02
 
 
-Average Margin: Nice by 6.4
+Average Margin: Nice by 6.5
 
 <p float="left">
 <img src="plots/performances_2024-03-02-Nice_V_Chambery.png" width="32%" />
@@ -1311,7 +1311,7 @@ Average Margin: Blagnac by 4.5
 ### Vienne V Narbonne on 2024/03/02
 
 
-Average Margin: Narbonne by 15.6
+Average Margin: Narbonne by 15.8
 
 <p float="left">
 <img src="plots/performances_2024-03-02-Vienne_V_Narbonne.png" width="32%" />
@@ -1322,7 +1322,7 @@ Average Margin: Narbonne by 15.6
 ### Albi V Carcassonne on 2024/03/02
 
 
-Average Margin: Albi by 3.2
+Average Margin: Albi by 2.9
 
 <p float="left">
 <img src="plots/performances_2024-03-02-Albi_V_Carcassonne.png" width="32%" />
@@ -1333,7 +1333,7 @@ Average Margin: Albi by 3.2
 ### Périgueux V Carqueiranne-Hyères on 2024/03/02
 
 
-Average Margin: Périgueux by 12.7
+Average Margin: Périgueux by 12.4
 
 <p float="left">
 <img src="plots/performances_2024-03-02-Périgueux_V_Carqueiranne-Hyères.png" width="32%" />
@@ -1344,7 +1344,7 @@ Average Margin: Périgueux by 12.7
 ### US Bressane V Tarbes on 2024/03/02
 
 
-Average Margin: US Bressane by 4.7
+Average Margin: US Bressane by 5.1
 
 <p float="left">
 <img src="plots/performances_2024-03-02-USBressane_V_Tarbes.png" width="32%" />
@@ -1357,7 +1357,7 @@ Average Margin: US Bressane by 4.7
 ### Albi V Suresnes on 2024/03/09
 
 
-Average Margin: Albi by 13.3
+Average Margin: Albi by 13.2
 
 <p float="left">
 <img src="plots/performances_2024-03-09-Albi_V_Suresnes.png" width="32%" />
@@ -1368,7 +1368,7 @@ Average Margin: Albi by 13.3
 ### Massy V Nice on 2024/03/09
 
 
-Average Margin: Massy by 0.6
+Average Margin: Massy by 0.2
 
 <p float="left">
 <img src="plots/performances_2024-03-09-Massy_V_Nice.png" width="32%" />
@@ -1390,7 +1390,7 @@ Average Margin: Carqueiranne-Hyères by 17.6
 ### Chambery V Bourgoin-Jallieu on 2024/03/09
 
 
-Average Margin: Chambery by 2.9
+Average Margin: Chambery by 2.8
 
 <p float="left">
 <img src="plots/performances_2024-03-09-Chambery_V_Bourgoin-Jallieu.png" width="32%" />
@@ -1401,7 +1401,7 @@ Average Margin: Chambery by 2.9
 ### Narbonne V Tarbes on 2024/03/09
 
 
-Average Margin: Narbonne by 6.9
+Average Margin: Narbonne by 7.3
 
 <p float="left">
 <img src="plots/performances_2024-03-09-Narbonne_V_Tarbes.png" width="32%" />
@@ -1412,7 +1412,7 @@ Average Margin: Narbonne by 6.9
 ### Carcassonne V Périgueux on 2024/03/09
 
 
-Average Margin: Carcassonne by 2.4
+Average Margin: Carcassonne by 2.6
 
 <p float="left">
 <img src="plots/performances_2024-03-09-Carcassonne_V_Périgueux.png" width="32%" />
@@ -1447,7 +1447,7 @@ Average Margin: Massy by 3.0
 ### Narbonne V US Bressane on 2024/03/23
 
 
-Average Margin: Narbonne by 5.5
+Average Margin: Narbonne by 5.4
 
 <p float="left">
 <img src="plots/performances_2024-03-23-Narbonne_V_USBressane.png" width="32%" />
@@ -1458,7 +1458,7 @@ Average Margin: Narbonne by 5.5
 ### Périgueux V Suresnes on 2024/03/23
 
 
-Average Margin: Périgueux by 14.4
+Average Margin: Périgueux by 14.1
 
 <p float="left">
 <img src="plots/performances_2024-03-23-Périgueux_V_Suresnes.png" width="32%" />
@@ -1469,7 +1469,7 @@ Average Margin: Périgueux by 14.4
 ### Albi V Chambery on 2024/03/23
 
 
-Average Margin: Albi by 7.7
+Average Margin: Albi by 7.5
 
 <p float="left">
 <img src="plots/performances_2024-03-23-Albi_V_Chambery.png" width="32%" />
@@ -1480,7 +1480,7 @@ Average Margin: Albi by 7.7
 ### Vienne V Carcassonne on 2024/03/23
 
 
-Average Margin: Carcassonne by 19.5
+Average Margin: Carcassonne by 19.4
 
 <p float="left">
 <img src="plots/performances_2024-03-23-Vienne_V_Carcassonne.png" width="32%" />
@@ -1491,7 +1491,7 @@ Average Margin: Carcassonne by 19.5
 ### Nice V Blagnac on 2024/03/23
 
 
-Average Margin: Nice by 4.8
+Average Margin: Nice by 5.2
 
 <p float="left">
 <img src="plots/performances_2024-03-23-Nice_V_Blagnac.png" width="32%" />
@@ -1502,7 +1502,7 @@ Average Margin: Nice by 4.8
 ### Tarbes V Carqueiranne-Hyères on 2024/03/23
 
 
-Average Margin: Tarbes by 4.0
+Average Margin: Tarbes by 4.5
 
 <p float="left">
 <img src="plots/performances_2024-03-23-Tarbes_V_Carqueiranne-Hyères.png" width="32%" />
@@ -1515,7 +1515,7 @@ Average Margin: Tarbes by 4.0
 ### Suresnes V Vienne on 2024/03/30
 
 
-Average Margin: Suresnes by 16.3
+Average Margin: Suresnes by 15.9
 
 <p float="left">
 <img src="plots/performances_2024-03-30-Suresnes_V_Vienne.png" width="32%" />
@@ -1526,7 +1526,7 @@ Average Margin: Suresnes by 16.3
 ### Massy V Albi on 2024/03/30
 
 
-Average Margin: Albi by 0.8
+Average Margin: Albi by 0.6
 
 <p float="left">
 <img src="plots/performances_2024-03-30-Massy_V_Albi.png" width="32%" />
@@ -1537,7 +1537,7 @@ Average Margin: Albi by 0.8
 ### Carcassonne V Tarbes on 2024/03/30
 
 
-Average Margin: Carcassonne by 10.6
+Average Margin: Carcassonne by 10.7
 
 <p float="left">
 <img src="plots/performances_2024-03-30-Carcassonne_V_Tarbes.png" width="32%" />
@@ -1548,7 +1548,7 @@ Average Margin: Carcassonne by 10.6
 ### Chambery V Périgueux on 2024/03/30
 
 
-Average Margin: Périgueux by 1.8
+Average Margin: Périgueux by 1.5
 
 <p float="left">
 <img src="plots/performances_2024-03-30-Chambery_V_Périgueux.png" width="32%" />
@@ -1581,7 +1581,7 @@ Average Margin: Blagnac by 4.2
 ### Carqueiranne-Hyères V Narbonne on 2024/03/30
 
 
-Average Margin: Narbonne by 1.1
+Average Margin: Narbonne by 1.4
 
 <p float="left">
 <img src="plots/performances_2024-03-30-Carqueiranne-Hyères_V_Narbonne.png" width="32%" />
@@ -1594,7 +1594,7 @@ Average Margin: Narbonne by 1.1
 ### Périgueux V Massy on 2024/04/06
 
 
-Average Margin: Périgueux by 8.4
+Average Margin: Périgueux by 7.9
 
 <p float="left">
 <img src="plots/performances_2024-04-06-Périgueux_V_Massy.png" width="32%" />
@@ -1605,7 +1605,7 @@ Average Margin: Périgueux by 8.4
 ### Bourgoin-Jallieu V Nice on 2024/04/06
 
 
-Average Margin: Bourgoin-Jallieu by 1.0
+Average Margin: Bourgoin-Jallieu by 0.9
 
 <p float="left">
 <img src="plots/performances_2024-04-06-Bourgoin-Jallieu_V_Nice.png" width="32%" />
@@ -1627,7 +1627,7 @@ Average Margin: US Bressane by 5.9
 ### Vienne V Chambery on 2024/04/06
 
 
-Average Margin: Chambery by 14.6
+Average Margin: Chambery by 14.8
 
 <p float="left">
 <img src="plots/performances_2024-04-06-Vienne_V_Chambery.png" width="32%" />
@@ -1638,7 +1638,7 @@ Average Margin: Chambery by 14.6
 ### Albi V Blagnac on 2024/04/06
 
 
-Average Margin: Albi by 6.3
+Average Margin: Albi by 6.2
 
 <p float="left">
 <img src="plots/performances_2024-04-06-Albi_V_Blagnac.png" width="32%" />
@@ -1660,7 +1660,7 @@ Average Margin: Carcassonne by 0.4
 ### Tarbes V Suresnes on 2024/04/06
 
 
-Average Margin: Tarbes by 6.0
+Average Margin: Tarbes by 5.9
 
 <p float="left">
 <img src="plots/performances_2024-04-06-Tarbes_V_Suresnes.png" width="32%" />
@@ -1673,7 +1673,7 @@ Average Margin: Tarbes by 6.0
 ### Périgueux V Blagnac on 2024/04/27
 
 
-Average Margin: Périgueux by 7.5
+Average Margin: Périgueux by 6.9
 
 <p float="left">
 <img src="plots/performances_2024-04-27-Périgueux_V_Blagnac.png" width="32%" />
@@ -1684,7 +1684,7 @@ Average Margin: Périgueux by 7.5
 ### Carqueiranne-Hyères V Carcassonne on 2024/04/27
 
 
-Average Margin: Carcassonne by 5.0
+Average Margin: Carcassonne by 5.3
 
 <p float="left">
 <img src="plots/performances_2024-04-27-Carqueiranne-Hyères_V_Carcassonne.png" width="32%" />
@@ -1695,7 +1695,7 @@ Average Margin: Carcassonne by 5.0
 ### Massy V Vienne on 2024/04/27
 
 
-Average Margin: Massy by 21.3
+Average Margin: Massy by 21.6
 
 <p float="left">
 <img src="plots/performances_2024-04-27-Massy_V_Vienne.png" width="32%" />
@@ -1706,7 +1706,7 @@ Average Margin: Massy by 21.3
 ### Nice V Albi on 2024/04/27
 
 
-Average Margin: Nice by 2.1
+Average Margin: Nice by 2.4
 
 <p float="left">
 <img src="plots/performances_2024-04-27-Nice_V_Albi.png" width="32%" />
@@ -1728,7 +1728,7 @@ Average Margin: Narbonne by 3.0
 ### Bourgoin-Jallieu V US Bressane on 2024/04/27
 
 
-Average Margin: Bourgoin-Jallieu by 5.4
+Average Margin: Bourgoin-Jallieu by 5.5
 
 <p float="left">
 <img src="plots/performances_2024-04-27-Bourgoin-Jallieu_V_USBressane.png" width="32%" />
@@ -1739,7 +1739,7 @@ Average Margin: Bourgoin-Jallieu by 5.4
 ### Tarbes V Chambery on 2024/04/27
 
 
-Average Margin: Tarbes by 0.2
+Average Margin: Tarbes by 0.1
 
 <p float="left">
 <img src="plots/performances_2024-04-27-Tarbes_V_Chambery.png" width="32%" />
