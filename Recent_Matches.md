@@ -18,10 +18,6 @@ Last Round Accuracy: 2 of 2 (100.0%)
 
 Last Round Error: 40.77 points per match
 
-[2023-09-24 Tonga at Scotland; 17.0-45.0](reviews//2023-09-24-Scotland-Tonga)
-
-[2023-09-24 Australia at Wales; 6.0-40.0](reviews//2023-09-24-Wales-Australia)
-
 [2023-09-27 Namibia at Uruguay; 26.0-36.0](reviews//2023-09-27-Uruguay-Namibia)
 
 [2023-09-28 Samoa at Japan; 22.0-28.0](reviews//2023-09-28-Japan-Samoa)
@@ -33,6 +29,8 @@ Last Round Error: 40.77 points per match
 [2023-09-30 Chile at Argentina; 5.0-59.0](reviews//2023-09-30-Argentina-Chile)
 
 [2023-09-30 Romania at Scotland; 0.0-84.0](reviews//2023-09-30-Scotland-Romania)
+
+[2023-10-05 Uruguay at New Zealand; 0.0-73.0](reviews//2023-10-05-NewZealand-Uruguay)
 # Domestic Leagues
 
 ## Bunnings Warehouse NPC
@@ -40,13 +38,13 @@ Last Round Error: 40.77 points per match
 
 [In depth model review and projections for Bunnings Warehouse NPC 2023](comp_files/Bunnings_Warehouse_NPC_2023)
 
-Competition Accuracy: 50 of 70 (71.43%)
+Competition Accuracy: 51 of 71 (71.83%)
 
-Competition Error: 12.3 points per match
+Competition Error: 12.15 points per match
 
 Last Round Accuracy: 4 of 7 (57.14%)
 
-Last Round Error: 19.22 points per match
+Last Round Error: 17.28 points per match
 
 [2023-09-27 Bay of Plenty at Southland; 25.0-23.0](reviews//2023-09-27-Southland-BayofPlenty)
 
@@ -59,6 +57,8 @@ Last Round Error: 19.22 points per match
 [2023-10-01 Southland at Manawatu; 37.0-12.0](reviews//2023-10-01-Manawatu-Southland)
 
 [2023-10-01 Counties Manukau at Otago; 22.0-38.0](reviews//2023-10-01-Otago-CountiesManukau)
+
+[2023-10-06 Auckland at Canterbury; 24.0-29.0](reviews//2023-10-06-Canterbury-Auckland)
 ## Nationale
 
 
@@ -78,11 +78,11 @@ Last Round Error: 11.02 points per match
 
 [2023-09-29 US Bressane at Chambery; 17.0-33.0](reviews//2023-09-29-Chambery-USBressane)
 
+[2023-09-30 Bourgoin-Jallieu at Narbonne; 26.0-30.0](reviews//2023-09-30-Narbonne-Bourgoin-Jallieu)
+
 [2023-09-30 Vienne at Périgueux; 7.0-45.0](reviews//2023-09-30-Périgueux-Vienne)
 
 [2023-09-30 Nice at Carqueiranne-Hyères; 42.0-17.0](reviews//2023-09-30-Carqueiranne-Hyères-Nice)
-
-[2023-09-30 Bourgoin-Jallieu at Narbonne; 26.0-30.0](reviews//2023-09-30-Narbonne-Bourgoin-Jallieu)
 ## Pro D2
 
 
@@ -96,10 +96,10 @@ Last Round Accuracy: 5 of 8 (62.5%)
 
 Last Round Error: 10.66 points per match
 
-[2023-09-26 Italy at New Zealand; 17.0-96.0](reviews//2023-09-26-Colomiers-ProvenceRugby)
+[2023-09-26 Uruguay at New Zealand; 0.0-73.0](reviews//2023-09-26-Colomiers-ProvenceRugby)
 
 [2023-09-26 Aurillac at Mont-de-Marsan; 9.0-34.0](reviews//2023-09-26-Mont-de-Marsan-Aurillac)
 
-[2023-09-27 Agen at Grenoble; 19.0-24.0](reviews//2023-09-27-Grenoble-Agen)
-
 [2023-09-27 Dax at Brive; 12.0-15.0](reviews//2023-09-27-Brive-Dax)
+
+[2023-09-27 Agen at Grenoble; 19.0-24.0](reviews//2023-09-27-Grenoble-Agen)

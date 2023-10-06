@@ -101,8 +101,8 @@ There were 15 large changes in win probability in this match
 |             51 | Rene Ranger                   |      37.74 |       12 |      81.21 | Harry Plummer       |             42 |
 |             80 | Tamati Tua                    |      46.17 |       13 |     113.59 | Bryce Heem          |             80 |
 |             80 | Jordan Trainor                |      74.26 |       14 |      49.22 | AJ Lam              |             80 |
-|             80 | Jordan Trainor                |      74.26 |       14 |      49.22 | AJ Lam              |             80 |
 |             66 | Brady Rush                    |      42    |       14 |      49.22 | AJ Lam              |             80 |
+|             80 | Jordan Trainor                |      74.26 |       14 |      49.22 | AJ Lam              |             80 |
 |             80 | Joshua Moorby                 |      59.57 |       15 |      33.68 | Roger Tuivasa-Sheck |             70 |
 |             80 | Jordan Trainor                |      74.26 |       15 |      33.68 | Roger Tuivasa-Sheck |             70 |
 |             80 | Jordan Trainor                |      74.26 |       15 |      33.68 | Roger Tuivasa-Sheck |             70 |
