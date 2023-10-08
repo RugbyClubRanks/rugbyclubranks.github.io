@@ -100,12 +100,12 @@ There were 15 large changes in win probability in this match
 |             80 | Heremaia Murray               |      43.37 |       11 |      78.86 | Salesi Rayasi       |             80 |
 |             51 | Rene Ranger                   |      37.74 |       12 |      81.21 | Harry Plummer       |             42 |
 |             80 | Tamati Tua                    |      46.17 |       13 |     113.59 | Bryce Heem          |             80 |
-|             80 | Jordan Trainor                |      74.26 |       14 |      49.22 | AJ Lam              |             80 |
 |             66 | Brady Rush                    |      42    |       14 |      49.22 | AJ Lam              |             80 |
 |             80 | Jordan Trainor                |      74.26 |       14 |      49.22 | AJ Lam              |             80 |
+|             80 | Jordan Trainor                |      74.26 |       14 |      49.22 | AJ Lam              |             80 |
+|             80 | Jordan Trainor                |      74.26 |       15 |      33.68 | Roger Tuivasa-Sheck |             70 |
+|             80 | Jordan Trainor                |      74.26 |       15 |      33.68 | Roger Tuivasa-Sheck |             70 |
 |             80 | Joshua Moorby                 |      59.57 |       15 |      33.68 | Roger Tuivasa-Sheck |             70 |
-|             80 | Jordan Trainor                |      74.26 |       15 |      33.68 | Roger Tuivasa-Sheck |             70 |
-|             80 | Jordan Trainor                |      74.26 |       15 |      33.68 | Roger Tuivasa-Sheck |             70 |
 |             29 | Rob Cobb                      |      47.15 |       16 |      48.62 | Marcel Renata       |             35 |
 |             29 | Nelson Rebolo                 |      54.19 |       17 |      86.26 | Angus Ta'avao       |             52 |
 |             29 | Jordan Olsen                  |      41.95 |       18 |      17.34 | Leni Apisai         |             35 |

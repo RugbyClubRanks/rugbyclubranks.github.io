@@ -216,7 +216,7 @@ key: page-recents
 ## Nationale
 
 
-[2023](comp_files\Nationale_2023) - Prediction Accuracy: 77.1% 
+[2023](comp_files\Nationale_2023) - Prediction Accuracy: 76.9% 
 
 [2022](comp_files\Nationale_2022) - Prediction Accuracy: 68.8% 
 
