@@ -1,6 +1,6 @@
 ---  
 title: "European Rugby Challenge Cup 2023 Status"  
-date: 2023-10-10 6:00:00 -0500  
+date: 2023-10-12 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,24 +17,24 @@ aside:
 
 | Club                |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Sharks              |               4 |    3.4 |                 21.8 |                   0.5 |                3.2 |                 17.2 |
-| Montpellier Herault |               4 |    3   |                 14.1 |                   1   |                2.8 |                 15.6 |
-| Pau                 |               4 |    2.6 |                 21.4 |                   0.8 |                2.6 |                 13.9 |
-| Clermont Auvergne   |               4 |    2.6 |                  9.2 |                   1.2 |                2.4 |                 13.9 |
-| Oyonnax             |               4 |    2.5 |                 16.9 |                   0.9 |                2.4 |                 13.5 |
-| Gloucester Rugby    |               4 |    2.5 |                  6.1 |                   1.1 |                2.3 |                 13.5 |
-| Lions               |               4 |    2.4 |                  8   |                   1.1 |                2.3 |                 13.2 |
-| Benetton Treviso    |               4 |    2.3 |                  4.7 |                   1.4 |                2.1 |                 12.7 |
-| Castres Olympique   |               4 |    2.1 |                  4.8 |                   1.4 |                2   |                 11.8 |
-| Edinburgh           |               4 |    2.1 |                  0.7 |                   1.5 |                1.9 |                 11.6 |
-| Cheetahs            |               4 |    1.8 |                 -3.7 |                   1.2 |                1.7 |                 10.1 |
-| Ospreys             |               4 |    1.8 |                 -4.9 |                   1.3 |                1.6 |                 10   |
-| Scarlets            |               4 |    1.5 |                 -4.6 |                   1.5 |                1.4 |                  9.1 |
-| Perpignan           |               4 |    1.5 |                 -8.1 |                   1.6 |                1.3 |                  9   |
-| Dragons             |               4 |    1.2 |                -15   |                   1.4 |                1.1 |                  7.3 |
-| Black Lion          |               4 |    1.2 |                -16.4 |                   1.3 |                1   |                  7.1 |
-| Newcastle Falcons   |               4 |    1   |                -13.7 |                   1.9 |                0.8 |                  6.9 |
-| Zebre               |               4 |    0.5 |                -41.7 |                   0.9 |                0.4 |                  3.2 |
+| Sharks              |               4 |    3.4 |                 22.7 |                   0.5 |                3.3 |                 17.5 |
+| Montpellier Herault |               4 |    3   |                 14.4 |                   0.9 |                2.8 |                 15.7 |
+| Pau                 |               4 |    2.6 |                 21.8 |                   0.8 |                2.6 |                 13.9 |
+| Oyonnax             |               4 |    2.6 |                 17.1 |                   0.9 |                2.5 |                 13.6 |
+| Clermont Auvergne   |               4 |    2.5 |                  8.7 |                   1.1 |                2.4 |                 13.6 |
+| Gloucester Rugby    |               4 |    2.5 |                  6.1 |                   1.2 |                2.3 |                 13.4 |
+| Lions               |               4 |    2.5 |                  7.6 |                   1.1 |                2.3 |                 13.3 |
+| Benetton Treviso    |               4 |    2.2 |                  3.8 |                   1.4 |                2   |                 12.4 |
+| Castres Olympique   |               4 |    2.1 |                  4.6 |                   1.4 |                1.9 |                 11.7 |
+| Edinburgh           |               4 |    2.1 |                  0.2 |                   1.5 |                1.8 |                 11.6 |
+| Ospreys             |               4 |    1.8 |                 -4.7 |                   1.3 |                1.6 |                 10   |
+| Cheetahs            |               4 |    1.7 |                 -4.6 |                   1.2 |                1.6 |                  9.7 |
+| Scarlets            |               4 |    1.6 |                 -4   |                   1.5 |                1.5 |                  9.5 |
+| Perpignan           |               4 |    1.4 |                 -7.8 |                   1.7 |                1.3 |                  8.8 |
+| Black Lion          |               4 |    1.2 |                -15.8 |                   1.3 |                1.1 |                  7.3 |
+| Newcastle Falcons   |               4 |    1.1 |                -13.3 |                   1.9 |                0.9 |                  7.1 |
+| Dragons             |               4 |    1.1 |                -15.6 |                   1.4 |                1   |                  7   |
+| Zebre               |               4 |    0.5 |                -41.8 |                   0.8 |                0.5 |                  3.4 |
 
 
 
@@ -45,7 +45,7 @@ aside:
 ### Clermont Auvergne V Edinburgh on 2023/12/08
 
 
-Average Margin: Clermont Auvergne by 4.2
+Average Margin: Clermont Auvergne by 4.3
 
 <p float="left">
 <img src="plots/performances_2023-12-08-ClermontAuvergne_V_Edinburgh.png" width="32%" />
@@ -67,7 +67,7 @@ Average Margin: Cheetahs by 6.3
 ### Sharks V Pau on 2023/12/09
 
 
-Average Margin: Sharks by 5.9
+Average Margin: Sharks by 6.1
 
 <p float="left">
 <img src="plots/performances_2023-12-09-Sharks_V_Pau.png" width="32%" />
@@ -78,7 +78,7 @@ Average Margin: Sharks by 5.9
 ### Dragons V Oyonnax on 2023/12/09
 
 
-Average Margin: Oyonnax by 2.2
+Average Margin: Oyonnax by 2.5
 
 <p float="left">
 <img src="plots/performances_2023-12-09-Dragons_V_Oyonnax.png" width="32%" />
@@ -100,7 +100,7 @@ Average Margin: Ospreys by 2.3
 ### Black Lion V Gloucester Rugby on 2023/12/09
 
 
-Average Margin: Gloucester Rugby by 2.0
+Average Margin: Gloucester Rugby by 1.7
 
 <p float="left">
 <img src="plots/performances_2023-12-09-BlackLion_V_GloucesterRugby.png" width="32%" />
@@ -111,7 +111,7 @@ Average Margin: Gloucester Rugby by 2.0
 ### Castres Olympique V Scarlets on 2023/12/09
 
 
-Average Margin: Castres Olympique by 5.3
+Average Margin: Castres Olympique by 5.0
 
 <p float="left">
 <img src="plots/performances_2023-12-09-CastresOlympique_V_Scarlets.png" width="32%" />
@@ -122,7 +122,7 @@ Average Margin: Castres Olympique by 5.3
 ### Newcastle Falcons V Montpellier Herault on 2023/12/10
 
 
-Average Margin: Montpellier Herault by 2.6
+Average Margin: Montpellier Herault by 2.7
 
 <p float="left">
 <img src="plots/performances_2023-12-10-NewcastleFalcons_V_MontpellierHerault.png" width="32%" />
@@ -133,7 +133,7 @@ Average Margin: Montpellier Herault by 2.6
 ### Perpignan V Lions on 2023/12/10
 
 
-Average Margin: Lions by 0.4
+Average Margin: Lions by 0.5
 
 <p float="left">
 <img src="plots/performances_2023-12-10-Perpignan_V_Lions.png" width="32%" />
@@ -146,7 +146,7 @@ Average Margin: Lions by 0.4
 ### Gloucester Rugby V Clermont Auvergne on 2023/12/15
 
 
-Average Margin: Gloucester Rugby by 3.0
+Average Margin: Gloucester Rugby by 3.1
 
 <p float="left">
 <img src="plots/performances_2023-12-15-GloucesterRugby_V_ClermontAuvergne.png" width="32%" />
@@ -157,7 +157,7 @@ Average Margin: Gloucester Rugby by 3.0
 ### Scarlets V Black Lion on 2023/12/15
 
 
-Average Margin: Scarlets by 5.6
+Average Margin: Scarlets by 5.7
 
 <p float="left">
 <img src="plots/performances_2023-12-15-Scarlets_V_BlackLion.png" width="32%" />
@@ -168,7 +168,7 @@ Average Margin: Scarlets by 5.6
 ### Edinburgh V Castres Olympique on 2023/12/16
 
 
-Average Margin: Edinburgh by 3.5
+Average Margin: Edinburgh by 3.4
 
 <p float="left">
 <img src="plots/performances_2023-12-16-Edinburgh_V_CastresOlympique.png" width="32%" />
@@ -179,7 +179,7 @@ Average Margin: Edinburgh by 3.5
 ### Benetton Treviso V Perpignan on 2023/12/16
 
 
-Average Margin: Benetton Treviso by 6.5
+Average Margin: Benetton Treviso by 6.1
 
 <p float="left">
 <img src="plots/performances_2023-12-16-BenettonTreviso_V_Perpignan.png" width="32%" />
@@ -190,7 +190,7 @@ Average Margin: Benetton Treviso by 6.5
 ### Lions V Newcastle Falcons on 2023/12/16
 
 
-Average Margin: Lions by 7.8
+Average Margin: Lions by 7.7
 
 <p float="left">
 <img src="plots/performances_2023-12-16-Lions_V_NewcastleFalcons.png" width="32%" />
@@ -201,7 +201,7 @@ Average Margin: Lions by 7.8
 ### Oyonnax V Zebre on 2023/12/16
 
 
-Average Margin: Oyonnax by 16.0
+Average Margin: Oyonnax by 15.8
 
 <p float="left">
 <img src="plots/performances_2023-12-16-Oyonnax_V_Zebre.png" width="32%" />
@@ -212,7 +212,7 @@ Average Margin: Oyonnax by 16.0
 ### Pau V Dragons on 2023/12/16
 
 
-Average Margin: Pau by 10.4
+Average Margin: Pau by 10.5
 
 <p float="left">
 <img src="plots/performances_2023-12-16-Pau_V_Dragons.png" width="32%" />
@@ -223,7 +223,7 @@ Average Margin: Pau by 10.4
 ### Cheetahs V Sharks on 2023/12/17
 
 
-Average Margin: Sharks by 3.3
+Average Margin: Sharks by 3.5
 
 <p float="left">
 <img src="plots/performances_2023-12-17-Cheetahs_V_Sharks.png" width="32%" />
@@ -234,7 +234,7 @@ Average Margin: Sharks by 3.3
 ### Montpellier Herault V Ospreys on 2023/12/17
 
 
-Average Margin: Montpellier Herault by 7.4
+Average Margin: Montpellier Herault by 7.2
 
 <p float="left">
 <img src="plots/performances_2023-12-17-MontpellierHerault_V_Ospreys.png" width="32%" />
@@ -247,7 +247,7 @@ Average Margin: Montpellier Herault by 7.4
 ### Newcastle Falcons V Benetton Treviso on 2024/01/12
 
 
-Average Margin: Benetton Treviso by 0.0
+Average Margin: Newcastle Falcons by 0.4
 
 <p float="left">
 <img src="plots/performances_2024-01-12-NewcastleFalcons_V_BenettonTreviso.png" width="32%" />
@@ -258,7 +258,7 @@ Average Margin: Benetton Treviso by 0.0
 ### Ospreys V Perpignan on 2024/01/12
 
 
-Average Margin: Ospreys by 5.3
+Average Margin: Ospreys by 5.2
 
 <p float="left">
 <img src="plots/performances_2024-01-12-Ospreys_V_Perpignan.png" width="32%" />
@@ -269,7 +269,7 @@ Average Margin: Ospreys by 5.3
 ### Sharks V Oyonnax on 2024/01/13
 
 
-Average Margin: Sharks by 7.1
+Average Margin: Sharks by 7.3
 
 <p float="left">
 <img src="plots/performances_2024-01-13-Sharks_V_Oyonnax.png" width="32%" />
@@ -291,7 +291,7 @@ Average Margin: Dragons by 3.2
 ### Montpellier Herault V Lions on 2024/01/13
 
 
-Average Margin: Montpellier Herault by 5.3
+Average Margin: Montpellier Herault by 5.6
 
 <p float="left">
 <img src="plots/performances_2024-01-13-MontpellierHerault_V_Lions.png" width="32%" />
@@ -302,7 +302,7 @@ Average Margin: Montpellier Herault by 5.3
 ### Clermont Auvergne V Scarlets on 2024/01/13
 
 
-Average Margin: Clermont Auvergne by 6.5
+Average Margin: Clermont Auvergne by 6.3
 
 <p float="left">
 <img src="plots/performances_2024-01-13-ClermontAuvergne_V_Scarlets.png" width="32%" />
@@ -313,7 +313,7 @@ Average Margin: Clermont Auvergne by 6.5
 ### Edinburgh V Gloucester Rugby on 2024/01/13
 
 
-Average Margin: Edinburgh by 2.7
+Average Margin: Edinburgh by 2.6
 
 <p float="left">
 <img src="plots/performances_2024-01-13-Edinburgh_V_GloucesterRugby.png" width="32%" />
@@ -335,7 +335,7 @@ Average Margin: Castres Olympique by 7.3
 ### Cheetahs V Pau on 2024/01/14
 
 
-Average Margin: Pau by 0.5
+Average Margin: Pau by 1.0
 
 <p float="left">
 <img src="plots/performances_2024-01-14-Cheetahs_V_Pau.png" width="32%" />
@@ -359,7 +359,7 @@ Average Margin: Gloucester Rugby by 4.1
 ### Scarlets V Edinburgh on 2024/01/19
 
 
-Average Margin: Scarlets by 1.3
+Average Margin: Scarlets by 1.4
 
 <p float="left">
 <img src="plots/performances_2024-01-19-Scarlets_V_Edinburgh.png" width="32%" />
@@ -370,7 +370,7 @@ Average Margin: Scarlets by 1.3
 ### Oyonnax V Cheetahs on 2024/01/20
 
 
-Average Margin: Oyonnax by 6.3
+Average Margin: Oyonnax by 6.5
 
 <p float="left">
 <img src="plots/performances_2024-01-20-Oyonnax_V_Cheetahs.png" width="32%" />
@@ -381,7 +381,7 @@ Average Margin: Oyonnax by 6.3
 ### Pau V Zebre on 2024/01/20
 
 
-Average Margin: Pau by 16.8
+Average Margin: Pau by 17.0
 
 <p float="left">
 <img src="plots/performances_2024-01-20-Pau_V_Zebre.png" width="32%" />
@@ -392,7 +392,7 @@ Average Margin: Pau by 16.8
 ### Benetton Treviso V Montpellier Herault on 2024/01/20
 
 
-Average Margin: Benetton Treviso by 0.7
+Average Margin: Benetton Treviso by 0.6
 
 <p float="left">
 <img src="plots/performances_2024-01-20-BenettonTreviso_V_MontpellierHerault.png" width="32%" />
@@ -403,7 +403,7 @@ Average Margin: Benetton Treviso by 0.7
 ### Black Lion V Clermont Auvergne on 2024/01/20
 
 
-Average Margin: Clermont Auvergne by 1.8
+Average Margin: Clermont Auvergne by 1.5
 
 <p float="left">
 <img src="plots/performances_2024-01-20-BlackLion_V_ClermontAuvergne.png" width="32%" />
@@ -414,7 +414,7 @@ Average Margin: Clermont Auvergne by 1.8
 ### Lions V Ospreys on 2024/01/21
 
 
-Average Margin: Lions by 5.3
+Average Margin: Lions by 5.2
 
 <p float="left">
 <img src="plots/performances_2024-01-21-Lions_V_Ospreys.png" width="32%" />
@@ -436,7 +436,7 @@ Average Margin: Perpignan by 3.7
 ### Dragons V Sharks on 2024/01/21
 
 
-Average Margin: Sharks by 6.1
+Average Margin: Sharks by 6.2
 
 <p float="left">
 <img src="plots/performances_2024-01-21-Dragons_V_Sharks.png" width="32%" />
