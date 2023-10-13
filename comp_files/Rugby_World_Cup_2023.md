@@ -1,6 +1,6 @@
 ---  
 title: "World Cup 2023 Predictions"  
-date: 2023-10-06 6:00:00 -0500  
+date: 2023-10-13 6:00:00 -0500  
 categories: model projection  
 layout: article  
 aside:  
@@ -12,115 +12,55 @@ aside:
 ![Club Rankings](plots/rankings_WorldCup.png)
 # Pool Results
 
-## Pool A
-
-### Current Standings
+## Current Standings
 
 
 | Club        |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |
 |:------------|---------:|-------:|---------------------:|----------------------:|-------------------:|
+| France      |        4 |      4 |                  178 |                     0 |                  2 |
 | New Zealand |        4 |      3 |                  206 |                     0 |                  3 |
-| France      |        3 |      3 |                  125 |                     0 |                  1 |
-| Italy       |        3 |      2 |                  -14 |                     0 |                  2 |
+| Italy       |        4 |      2 |                  -67 |                     0 |                  2 |
 | Uruguay     |        4 |      1 |                  -99 |                     0 |                  1 |
 | Namibia     |        4 |      0 |                 -218 |                     0 |                  0 |
 
 
 
-### Projected Total Table
-
-
-| Club        |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
-|:------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| France      |        4 |  3.964 |              136.488 |                 0.034 |              1.951 |               17.841 |
-| New Zealand |        4 |  3     |              206     |                 0     |              3     |               15     |
-| Italy       |        4 |  2.036 |              -25.488 |                 0.224 |              2.033 |               10.401 |
-| Uruguay     |        4 |  1     |              -99     |                 0     |              1     |                5     |
-| Namibia     |        4 |  0     |             -218     |                 0     |              0     |                0     |
-
-
-
-## Pool B
-
-### Current Standings
+## Current Standings
 
 
 | Club         |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |
 |:-------------|---------:|-------:|---------------------:|----------------------:|-------------------:|
-| Ireland      |        3 |      3 |                  122 |                     0 |                nan |
-| Scotland     |        3 |      2 |                   97 |                     0 |                  2 |
+| Ireland      |        4 |      4 |                  144 |                     0 |                nan |
 | South Africa |        3 |      2 |                   86 |                     1 |                nan |
-| Tonga        |        2 |      0 |                  -71 |                     0 |                  0 |
-| Romania      |        3 |      0 |                 -234 |                     0 |                  0 |
+| Scotland     |        4 |      2 |                   75 |                     0 |                  2 |
+| Tonga        |        3 |      1 |                  -50 |                     0 |                  1 |
+| Romania      |        4 |      0 |                 -255 |                     0 |                  0 |
 
 
 
-### Projected Total Table
-
-
-| Club         |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
-|:-------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Ireland      |        4 |  3.775 |              127.113 |                 0.199 |              0.744 |               18.043 |
-| Scotland     |        4 |  2.225 |               91.887 |                 0.4   |              2.182 |               11.482 |
-| South Africa |        3 |  2     |               86     |                 1     |              0     |               10     |
-| Tonga        |        3 |  0.833 |              -63.811 |                 0.135 |              0.808 |                4.275 |
-| Romania      |        4 |  0.167 |             -241.189 |                 0.331 |              0.15  |                1.149 |
-
-
-
-## Pool C
-
-### Current Standings
+## Current Standings
 
 
 | Club      |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |
 |:----------|---------:|-------:|---------------------:|----------------------:|-------------------:|
-| Wales     |        3 |      3 |                   60 |                     0 |                  2 |
-| Fiji      |        3 |      2 |                    6 |                     1 |                nan |
+| Wales     |        4 |      4 |                   84 |                     0 |                  3 |
+| Fiji      |        4 |      2 |                    5 |                     2 |                nan |
+| Portugal  |        4 |      2 |                  -19 |                     0 |                nan |
 | Australia |        3 |      1 |                  -21 |                     1 |                nan |
-| Georgia   |        4 |      1 |                  -25 |                     1 |                nan |
-| Portugal  |        3 |      1 |                  -20 |                     0 |                nan |
+| Georgia   |        5 |      1 |                  -49 |                     1 |                nan |
 
 
 
-### Projected Total Table
-
-
-| Club      |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
-|:----------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Wales     |        4 |   3.8  |               65.798 |                 0.174 |              2.766 |               18.14  |
-| Fiji      |        4 |   2.96 |               18.366 |                 1.036 |              0.952 |               14.828 |
-| Georgia   |        5 |   1.2  |              -30.798 |                 1.378 |              0.169 |                6.347 |
-| Australia |        3 |   1    |              -21     |                 1     |              0     |                6     |
-| Portugal  |        4 |   1.04 |              -32.366 |                 0.168 |              0.037 |                4.365 |
-
-
-
-## Pool D
-
-### Current Standings
+## Current Standings
 
 
 | Club      |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |
 |:----------|---------:|-------:|---------------------:|----------------------:|-------------------:|
-| England   |        3 |      3 |                  110 |                     0 |                  2 |
-| Argentina |        3 |      2 |                   46 |                     0 |                  1 |
-| Japan     |        3 |      2 |                   14 |                     0 |                  1 |
-| Samoa     |        3 |      1 |                   18 |                     1 |                  1 |
+| England   |        4 |      4 |                  111 |                     0 |                  2 |
+| Argentina |        4 |      3 |                   58 |                     0 |                nan |
+| Japan     |        4 |      2 |                    2 |                     0 |                nan |
+| Samoa     |        4 |      1 |                   17 |                     2 |                  1 |
 | Chile     |        4 |      0 |                 -188 |                     0 |                  0 |
-
-
-
-### Projected Total Table
-
-
-| Club      |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
-|:----------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| England   |        4 |  3.699 |              113.942 |                 0.239 |              2.667 |               17.702 |
-| Argentina |        4 |  2.966 |               58.644 |                 0.033 |              1.953 |               13.85  |
-| Japan     |        4 |  2.034 |                1.356 |                 0.168 |              1.034 |                9.338 |
-| Samoa     |        4 |  1.301 |               14.058 |                 1.366 |              1.276 |                7.846 |
-| Chile     |        4 |  0     |             -188     |                 0     |              0     |                0     |
 
 
 
@@ -129,105 +69,410 @@ aside:
 
 |              | Reach Quarterfinals   | Reach Semifinals   | Reach Bronze Final   | Win Bronze   | Reach Final   | Win Final   |
 |:-------------|:----------------------|:-------------------|:---------------------|:-------------|:--------------|:------------|
-| Ireland      | 100.0 %               | 69.6 %             | 1.1 %                | 1.0 %        | 68.5 %        | 43.3 %      |
-| France       | 97.4 %                | 79.2 %             | 3.8 %                | 3.8 %        | 75.4 %        | 36.8 %      |
-| New Zealand  | 100.0 %               | 33.2 %             | 2.0 %                | 2.0 %        | 31.2 %        | 13.5 %      |
-| South Africa | 14.9 %                | 8.1 %              | 0.4 %                | 0.4 %        | 7.7 %         | 4.2 %       |
-| Scotland     | 85.1 %                | 9.9 %              | 2.1 %                | 1.5 %        | 7.8 %         | 0.8 %       |
-| Fiji         | 100.0 %               | 59.6 %             | 55.0 %               | 31.5 %       | 4.6 %         | 0.7 %       |
-| Wales        | 100.0 %               | 67.9 %             | 65.4 %               | 32.7 %       | 2.5 %         | 0.5 %       |
-| England      | 100.0 %               | 40.4 %             | 38.5 %               | 17.1 %       | 1.9 %         | 0.2 %       |
-| Argentina    | 96.6 %                | 31.9 %             | 31.5 %               | 9.9 %        | 0.4 %         | 0.0 %       |
-| Japan        | 3.4 %                 | 0.2 %              | 0.2 %                | 0.1 %        | 0.0 %         | 0.0 %       |
-| Italy        | 2.6 %                 | 0.0 %              | 0.0 %                | 0.0 %        | 0.0 %         | 0.0 %       |
+| Ireland      | 100.0 %               | 74.4 %             | 1.3 %                | 1.3 %        | 73.1 %        | 38.1 %      |
+| South Africa | 100.0 %               | 57.9 %             | 0.9 %                | 0.9 %        | 57.0 %        | 31.5 %      |
+| France       | 100.0 %               | 42.1 %             | 0.8 %                | 0.8 %        | 41.3 %        | 22.3 %      |
+| New Zealand  | 100.0 %               | 25.6 %             | 1.8 %                | 1.7 %        | 23.8 %        | 7.9 %       |
+| Wales        | 100.0 %               | 69.9 %             | 67.0 %               | 43.0 %       | 2.9 %         | 0.1 %       |
+| Fiji         | 100.0 %               | 50.2 %             | 48.9 %               | 18.4 %       | 1.3 %         | 0.1 %       |
+| England      | 100.0 %               | 49.8 %             | 49.4 %               | 20.7 %       | 0.4 %         | 0.0 %       |
+| Argentina    | 100.0 %               | 30.1 %             | 29.9 %               | 13.2 %       | 0.2 %         | 0.0 %       |
 
 
 
-# Pool Match Predictions
+# Knockout Match Predictions
 
-## Pool A
+## Quarterfinals
 
-### France V Italy on 2023/10/06
+### Wales V Argentina on 2023/10/14
 
 
-Average Margin: France by 11.5
+Average Margin: Wales by 2.9
 
 <p float="left">
-<img src="plots/performances_2023-10-06-France_V_Italy.png" width="32%" />
-<img src="plots/resultbar_2023-10-06-France_V_Italy.png" width="32%" />
-<img src="plots/spreads_2023-10-06-France_V_Italy.png" width="32%" />
+<img src="plots/performances_2023-10-14-Wales_V_Argentina.png" width="32%" />
+<img src="plots/resultbar_2023-10-14-Wales_V_Argentina.png" width="32%" />
+<img src="plots/spreads_2023-10-14-Wales_V_Argentina.png" width="32%" />
 </p>
 
-## Pool B
-
-### Ireland V Scotland on 2023/10/07
+### New Zealand V Ireland on 2023/10/14
 
 
-Average Margin: Ireland by 5.1
+Average Margin: Ireland by 4.2
 
 <p float="left">
-<img src="plots/performances_2023-10-07-Ireland_V_Scotland.png" width="32%" />
-<img src="plots/resultbar_2023-10-07-Ireland_V_Scotland.png" width="32%" />
-<img src="plots/spreads_2023-10-07-Ireland_V_Scotland.png" width="32%" />
+<img src="plots/performances_2023-10-14-NewZealand_V_Ireland.png" width="32%" />
+<img src="plots/resultbar_2023-10-14-NewZealand_V_Ireland.png" width="32%" />
+<img src="plots/spreads_2023-10-14-NewZealand_V_Ireland.png" width="32%" />
 </p>
 
-### Tonga V Romania on 2023/10/08
+### France V South Africa on 2023/10/15
 
 
-Average Margin: Tonga by 7.2
+Average Margin: South Africa by 1.2
 
 <p float="left">
-<img src="plots/performances_2023-10-08-Tonga_V_Romania.png" width="32%" />
-<img src="plots/resultbar_2023-10-08-Tonga_V_Romania.png" width="32%" />
-<img src="plots/spreads_2023-10-08-Tonga_V_Romania.png" width="32%" />
+<img src="plots/performances_2023-10-15-France_V_SouthAfrica.png" width="32%" />
+<img src="plots/resultbar_2023-10-15-France_V_SouthAfrica.png" width="32%" />
+<img src="plots/spreads_2023-10-15-France_V_SouthAfrica.png" width="32%" />
 </p>
 
-## Pool C
-
-### Wales V Georgia on 2023/10/07
+### Fiji V England on 2023/10/15
 
 
-Average Margin: Wales by 5.8
+Average Margin: Fiji by 0.2
 
 <p float="left">
-<img src="plots/performances_2023-10-07-Wales_V_Georgia.png" width="32%" />
-<img src="plots/resultbar_2023-10-07-Wales_V_Georgia.png" width="32%" />
-<img src="plots/spreads_2023-10-07-Wales_V_Georgia.png" width="32%" />
+<img src="plots/performances_2023-10-15-Fiji_V_England.png" width="32%" />
+<img src="plots/resultbar_2023-10-15-Fiji_V_England.png" width="32%" />
+<img src="plots/spreads_2023-10-15-Fiji_V_England.png" width="32%" />
 </p>
 
-### Fiji V Portugal on 2023/10/08
+## Semifinals
+
+### New Zealand V Wales on 2023/10/20
 
 
-Average Margin: Fiji by 12.4
+Average Margin: New Zealand by 8.2
 
 <p float="left">
-<img src="plots/performances_2023-10-08-Fiji_V_Portugal.png" width="32%" />
-<img src="plots/resultbar_2023-10-08-Fiji_V_Portugal.png" width="32%" />
-<img src="plots/spreads_2023-10-08-Fiji_V_Portugal.png" width="32%" />
+<img src="plots/performances_2023-10-20-NewZealand_V_Wales.png" width="32%" />
+<img src="plots/resultbar_2023-10-20-NewZealand_V_Wales.png" width="32%" />
+<img src="plots/spreads_2023-10-20-NewZealand_V_Wales.png" width="32%" />
 </p>
 
-## Pool D
-
-### England V Samoa on 2023/10/07
+### New Zealand V Argentina on 2023/10/20
 
 
-Average Margin: England by 3.9
+Average Margin: New Zealand by 11.3
 
 <p float="left">
-<img src="plots/performances_2023-10-07-England_V_Samoa.png" width="32%" />
-<img src="plots/resultbar_2023-10-07-England_V_Samoa.png" width="32%" />
-<img src="plots/spreads_2023-10-07-England_V_Samoa.png" width="32%" />
+<img src="plots/performances_2023-10-20-NewZealand_V_Argentina.png" width="32%" />
+<img src="plots/resultbar_2023-10-20-NewZealand_V_Argentina.png" width="32%" />
+<img src="plots/spreads_2023-10-20-NewZealand_V_Argentina.png" width="32%" />
 </p>
 
-### Japan V Argentina on 2023/10/08
+### Ireland V Argentina on 2023/10/20
 
 
-Average Margin: Argentina by 12.6
+Average Margin: Ireland by 15.4
 
 <p float="left">
-<img src="plots/performances_2023-10-08-Japan_V_Argentina.png" width="32%" />
-<img src="plots/resultbar_2023-10-08-Japan_V_Argentina.png" width="32%" />
-<img src="plots/spreads_2023-10-08-Japan_V_Argentina.png" width="32%" />
+<img src="plots/performances_2023-10-20-Ireland_V_Argentina.png" width="32%" />
+<img src="plots/resultbar_2023-10-20-Ireland_V_Argentina.png" width="32%" />
+<img src="plots/spreads_2023-10-20-Ireland_V_Argentina.png" width="32%" />
+</p>
+
+### Ireland V Wales on 2023/10/20
+
+
+Average Margin: Ireland by 12.5
+
+<p float="left">
+<img src="plots/performances_2023-10-20-Ireland_V_Wales.png" width="32%" />
+<img src="plots/resultbar_2023-10-20-Ireland_V_Wales.png" width="32%" />
+<img src="plots/spreads_2023-10-20-Ireland_V_Wales.png" width="32%" />
+</p>
+
+### South Africa V England on 2023/10/21
+
+
+Average Margin: South Africa by 15.0
+
+<p float="left">
+<img src="plots/performances_2023-10-21-SouthAfrica_V_England.png" width="32%" />
+<img src="plots/resultbar_2023-10-21-SouthAfrica_V_England.png" width="32%" />
+<img src="plots/spreads_2023-10-21-SouthAfrica_V_England.png" width="32%" />
+</p>
+
+### South Africa V Fiji on 2023/10/21
+
+
+Average Margin: South Africa by 14.8
+
+<p float="left">
+<img src="plots/performances_2023-10-21-SouthAfrica_V_Fiji.png" width="32%" />
+<img src="plots/resultbar_2023-10-21-SouthAfrica_V_Fiji.png" width="32%" />
+<img src="plots/spreads_2023-10-21-SouthAfrica_V_Fiji.png" width="32%" />
+</p>
+
+### France V England on 2023/10/21
+
+
+Average Margin: France by 12.8
+
+<p float="left">
+<img src="plots/performances_2023-10-21-France_V_England.png" width="32%" />
+<img src="plots/resultbar_2023-10-21-France_V_England.png" width="32%" />
+<img src="plots/spreads_2023-10-21-France_V_England.png" width="32%" />
+</p>
+
+### France V Fiji on 2023/10/21
+
+
+Average Margin: France by 13.6
+
+<p float="left">
+<img src="plots/performances_2023-10-21-France_V_Fiji.png" width="32%" />
+<img src="plots/resultbar_2023-10-21-France_V_Fiji.png" width="32%" />
+<img src="plots/spreads_2023-10-21-France_V_Fiji.png" width="32%" />
+</p>
+
+## Bronze Finals
+
+### Ireland V England on 2023/10/27
+
+
+Average Margin: Ireland by 12.7
+
+<p float="left">
+<img src="plots/performances_2023-10-27-Ireland_V_England.png" width="32%" />
+<img src="plots/resultbar_2023-10-27-Ireland_V_England.png" width="32%" />
+<img src="plots/spreads_2023-10-27-Ireland_V_England.png" width="32%" />
+</p>
+
+### New Zealand V Fiji on 2023/10/27
+
+
+Average Margin: New Zealand by 11.1
+
+<p float="left">
+<img src="plots/performances_2023-10-27-NewZealand_V_Fiji.png" width="32%" />
+<img src="plots/resultbar_2023-10-27-NewZealand_V_Fiji.png" width="32%" />
+<img src="plots/spreads_2023-10-27-NewZealand_V_Fiji.png" width="32%" />
+</p>
+
+### Argentina V South Africa on 2023/10/27
+
+
+Average Margin: South Africa by 11.1
+
+<p float="left">
+<img src="plots/performances_2023-10-27-Argentina_V_SouthAfrica.png" width="32%" />
+<img src="plots/resultbar_2023-10-27-Argentina_V_SouthAfrica.png" width="32%" />
+<img src="plots/spreads_2023-10-27-Argentina_V_SouthAfrica.png" width="32%" />
+</p>
+
+### Ireland V Fiji on 2023/10/27
+
+
+Average Margin: Ireland by 17.3
+
+<p float="left">
+<img src="plots/performances_2023-10-27-Ireland_V_Fiji.png" width="32%" />
+<img src="plots/resultbar_2023-10-27-Ireland_V_Fiji.png" width="32%" />
+<img src="plots/spreads_2023-10-27-Ireland_V_Fiji.png" width="32%" />
+</p>
+
+### Argentina V England on 2023/10/27
+
+
+Average Margin: England by 0.8
+
+<p float="left">
+<img src="plots/performances_2023-10-27-Argentina_V_England.png" width="32%" />
+<img src="plots/resultbar_2023-10-27-Argentina_V_England.png" width="32%" />
+<img src="plots/spreads_2023-10-27-Argentina_V_England.png" width="32%" />
+</p>
+
+### Wales V South Africa on 2023/10/27
+
+
+Average Margin: South Africa by 10.4
+
+<p float="left">
+<img src="plots/performances_2023-10-28-Wales_V_SouthAfrica.png" width="32%" />
+<img src="plots/resultbar_2023-10-28-Wales_V_SouthAfrica.png" width="32%" />
+<img src="plots/spreads_2023-10-28-Wales_V_SouthAfrica.png" width="32%" />
+</p>
+
+### Wales V England on 2023/10/27
+
+
+Average Margin: Wales by 2.1
+
+<p float="left">
+<img src="plots/performances_2023-10-27-Wales_V_England.png" width="32%" />
+<img src="plots/resultbar_2023-10-27-Wales_V_England.png" width="32%" />
+<img src="plots/spreads_2023-10-27-Wales_V_England.png" width="32%" />
+</p>
+
+### France V Wales on 2023/10/27
+
+
+Average Margin: France by 10.5
+
+<p float="left">
+<img src="plots/performances_2023-10-28-France_V_Wales.png" width="32%" />
+<img src="plots/resultbar_2023-10-28-France_V_Wales.png" width="32%" />
+<img src="plots/spreads_2023-10-28-France_V_Wales.png" width="32%" />
+</p>
+
+### Wales V Fiji on 2023/10/27
+
+
+Average Margin: Wales by 3.0
+
+<p float="left">
+<img src="plots/performances_2023-10-27-Wales_V_Fiji.png" width="32%" />
+<img src="plots/resultbar_2023-10-27-Wales_V_Fiji.png" width="32%" />
+<img src="plots/spreads_2023-10-27-Wales_V_Fiji.png" width="32%" />
+</p>
+
+### New Zealand V England on 2023/10/27
+
+
+Average Margin: New Zealand by 10.6
+
+<p float="left">
+<img src="plots/performances_2023-10-27-NewZealand_V_England.png" width="32%" />
+<img src="plots/resultbar_2023-10-27-NewZealand_V_England.png" width="32%" />
+<img src="plots/spreads_2023-10-27-NewZealand_V_England.png" width="32%" />
+</p>
+
+### Argentina V Fiji on 2023/10/27
+
+
+Average Margin: Argentina by 0.2
+
+<p float="left">
+<img src="plots/performances_2023-10-27-Argentina_V_Fiji.png" width="32%" />
+<img src="plots/resultbar_2023-10-27-Argentina_V_Fiji.png" width="32%" />
+<img src="plots/spreads_2023-10-27-Argentina_V_Fiji.png" width="32%" />
+</p>
+
+### France V Argentina on 2023/10/27
+
+
+Average Margin: France by 15.0
+
+<p float="left">
+<img src="plots/performances_2023-10-27-France_V_Argentina.png" width="32%" />
+<img src="plots/resultbar_2023-10-27-France_V_Argentina.png" width="32%" />
+<img src="plots/spreads_2023-10-27-France_V_Argentina.png" width="32%" />
+</p>
+
+## Finals
+
+### Ireland V Fiji on 2023/10/28
+
+
+Average Margin: Ireland by 17.3
+
+<p float="left">
+<img src="plots/performances_2023-10-27-Ireland_V_Fiji.png" width="32%" />
+<img src="plots/resultbar_2023-10-27-Ireland_V_Fiji.png" width="32%" />
+<img src="plots/spreads_2023-10-27-Ireland_V_Fiji.png" width="32%" />
+</p>
+
+### Ireland V England on 2023/10/28
+
+
+Average Margin: Ireland by 12.7
+
+<p float="left">
+<img src="plots/performances_2023-10-27-Ireland_V_England.png" width="32%" />
+<img src="plots/resultbar_2023-10-27-Ireland_V_England.png" width="32%" />
+<img src="plots/spreads_2023-10-27-Ireland_V_England.png" width="32%" />
+</p>
+
+### Argentina V South Africa on 2023/10/28
+
+
+Average Margin: South Africa by 11.1
+
+<p float="left">
+<img src="plots/performances_2023-10-27-Argentina_V_SouthAfrica.png" width="32%" />
+<img src="plots/resultbar_2023-10-27-Argentina_V_SouthAfrica.png" width="32%" />
+<img src="plots/spreads_2023-10-27-Argentina_V_SouthAfrica.png" width="32%" />
+</p>
+
+### France V New Zealand on 2023/10/28
+
+
+Average Margin: France by 2.7
+
+<p float="left">
+<img src="plots/performances_2023-10-28-France_V_NewZealand.png" width="32%" />
+<img src="plots/resultbar_2023-10-28-France_V_NewZealand.png" width="32%" />
+<img src="plots/spreads_2023-10-28-France_V_NewZealand.png" width="32%" />
+</p>
+
+### France V Wales on 2023/10/28
+
+
+Average Margin: France by 10.5
+
+<p float="left">
+<img src="plots/performances_2023-10-28-France_V_Wales.png" width="32%" />
+<img src="plots/resultbar_2023-10-28-France_V_Wales.png" width="32%" />
+<img src="plots/spreads_2023-10-28-France_V_Wales.png" width="32%" />
+</p>
+
+### Wales V South Africa on 2023/10/28
+
+
+Average Margin: South Africa by 10.4
+
+<p float="left">
+<img src="plots/performances_2023-10-28-Wales_V_SouthAfrica.png" width="32%" />
+<img src="plots/resultbar_2023-10-28-Wales_V_SouthAfrica.png" width="32%" />
+<img src="plots/spreads_2023-10-28-Wales_V_SouthAfrica.png" width="32%" />
+</p>
+
+### France V Ireland on 2023/10/28
+
+
+Average Margin: Ireland by 1.2
+
+<p float="left">
+<img src="plots/performances_2023-10-28-France_V_Ireland.png" width="32%" />
+<img src="plots/resultbar_2023-10-28-France_V_Ireland.png" width="32%" />
+<img src="plots/spreads_2023-10-28-France_V_Ireland.png" width="32%" />
+</p>
+
+### New Zealand V South Africa on 2023/10/28
+
+
+Average Margin: South Africa by 3.2
+
+<p float="left">
+<img src="plots/performances_2023-10-28-NewZealand_V_SouthAfrica.png" width="32%" />
+<img src="plots/resultbar_2023-10-28-NewZealand_V_SouthAfrica.png" width="32%" />
+<img src="plots/spreads_2023-10-28-NewZealand_V_SouthAfrica.png" width="32%" />
+</p>
+
+### Ireland V South Africa on 2023/10/28
+
+
+Average Margin: South Africa by 0.2
+
+<p float="left">
+<img src="plots/performances_2023-10-28-Ireland_V_SouthAfrica.png" width="32%" />
+<img src="plots/resultbar_2023-10-28-Ireland_V_SouthAfrica.png" width="32%" />
+<img src="plots/spreads_2023-10-28-Ireland_V_SouthAfrica.png" width="32%" />
+</p>
+
+### New Zealand V Fiji on 2023/10/28
+
+
+Average Margin: New Zealand by 11.1
+
+<p float="left">
+<img src="plots/performances_2023-10-27-NewZealand_V_Fiji.png" width="32%" />
+<img src="plots/resultbar_2023-10-27-NewZealand_V_Fiji.png" width="32%" />
+<img src="plots/spreads_2023-10-27-NewZealand_V_Fiji.png" width="32%" />
+</p>
+
+### New Zealand V England on 2023/10/28
+
+
+Average Margin: New Zealand by 10.6
+
+<p float="left">
+<img src="plots/performances_2023-10-27-NewZealand_V_England.png" width="32%" />
+<img src="plots/resultbar_2023-10-27-NewZealand_V_England.png" width="32%" />
+<img src="plots/spreads_2023-10-27-NewZealand_V_England.png" width="32%" />
 </p>
 
 # Completed Match Review
@@ -266,6 +511,13 @@ Average Margin: Argentina by 12.6
 | Fiji V Georgia on 2023/09/30          |        5 |                 9.5 |                  8.8 |              10.1 |
 | Scotland V Romania on 2023/09/30      |       84 |                21.3 |                 22.1 |              29.7 |
 | New Zealand V Uruguay on 2023/10/05   |       73 |                26.6 |                 25   |              32.2 |
+| France V Italy on 2023/10/06          |       53 |                25.4 |                 25.2 |              19.2 |
+| Wales V Georgia on 2023/10/07         |       24 |                 6.8 |                  6.1 |               9.2 |
+| England V Samoa on 2023/10/07         |        1 |                10.9 |                  9.9 |               7.2 |
+| Ireland V Scotland on 2023/10/07      |       22 |                14.4 |                 16   |               8.4 |
+| Japan V Argentina on 2023/10/08       |      -12 |                -0.4 |                  2.6 |             nan   |
+| Tonga V Romania on 2023/10/08         |       21 |                17   |                 17.5 |              10.5 |
+| Fiji V Portugal on 2023/10/08         |       -1 |                 8.9 |                  7.5 |             nan   |
 
 
 
@@ -274,9 +526,9 @@ Average Margin: Argentina by 12.6
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 75.0% | 21.3 |
-| Player Level: Lineup | 78.8% | 25.3 |
-| Player Level: Minutes | 80.6% | 25.4 |
+| Club Level | 76.9% | 20.0 |
+| Player Level: Lineup | 80.0% | 23.5 |
+| Player Level: Minutes | 78.9% | 23.5 |
 
 
 
