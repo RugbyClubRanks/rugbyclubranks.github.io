@@ -22,13 +22,13 @@ Last Round Error: 38.45 points per match
 
 [2023-10-06 Italy at France; 7.0-60.0](reviews//2023-10-06-France-Italy)
 
-[2023-10-07 Georgia at Wales; 19.0-43.0](reviews//2023-10-07-Wales-Georgia)
-
 [2023-10-07 Scotland at Ireland; 14.0-36.0](reviews//2023-10-07-Ireland-Scotland)
+
+[2023-10-07 Georgia at Wales; 19.0-43.0](reviews//2023-10-07-Wales-Georgia)
 
 [2023-10-07 Samoa at England; 17.0-18.0](reviews//2023-10-07-England-Samoa)
 
-[2023-10-08 Scotland at Ireland; 14.0-36.0](reviews//2023-10-08-Argentina-Japan)
+[2023-10-08 Georgia at Wales; 19.0-43.0](reviews//2023-10-08-Argentina-Japan)
 
 [2023-10-08 Romania at Tonga; 24.0-45.0](reviews//2023-10-08-Tonga-Romania)
 

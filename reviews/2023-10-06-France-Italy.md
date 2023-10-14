@@ -37,14 +37,14 @@ Each club has a rating and a rating deviation (simiar to a Glicko system), and e
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: France by 25.2
+## Prediction with Player Minutes: France by 25.1
 
 
-France by 21.6 on a neutral field
+France by 21.4 on a neutral field
 ## Prediction without Player Minutes: France by 25.4
 
 
-France by 21.8 on a neutral pitch
+France by 21.7 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -85,27 +85,27 @@ France by 21.8 on a neutral pitch
 
 |   Away Minutes | Away Player       |   Away elo |   Number |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:------------------|-----------:|---------:|-----------:|:---------------------|---------------:|
-|             61 | Simone Ferrari    |      88.76 |        1 |      96.85 | Cyril Baille         |             56 |
-|             61 | Hame Faiva        |      17.77 |        2 |      87.62 | Peato Mauvaka        |             56 |
-|             56 | Pietro Ceccarelli |      48    |        3 |     126.65 | Uini Atonio          |             45 |
-|             56 | Niccolo Cannone   |      40.46 |        4 |      63.97 | Cameron Woki         |             80 |
-|             80 | Federico Ruzza    |      99.41 |        5 |      82.37 | Thibaud Flament      |             45 |
-|             80 | Sebastian Negri   |      61.88 |        6 |     107.67 | Anthony Jelonch      |             80 |
-|             44 | Michele Lamaro    |      93.98 |        7 |     113.71 | Charles Ollivon      |             56 |
-|             80 | Lorenzo Cannone   |      81.43 |        8 |     114.37 | Gregory Alldritt     |             80 |
-|             44 | Stephen Varney    |      33.24 |        9 |     108.27 | Maxime Lucu          |             56 |
-|             80 | Tommaso Allan     |      52.46 |       10 |      98.75 | Matthieu Jalibert    |             80 |
-|             80 | Monty Ioane       |     100.89 |       11 |      58.91 | Louis Bielle-Biarrey |             80 |
-|             80 | Paolo Garbisi     |      61.33 |       12 |     116.81 | Jonathan Danty       |             80 |
-|             80 | Juan Ignacio Brex |      90.46 |       13 |     104.64 | Gael Fickou          |             61 |
-|             66 | Pierre Bruno      |      24.94 |       14 |      84.19 | Damian Penaud        |             80 |
-|             31 | Ange Capuozzo     |      87.7  |       15 |     123.71 | Thomas Ramos         |             61 |
-|             49 | Lorenzo Pani      |      20.51 |       16 |      49.52 | Romain Taofifenua    |             35 |
-|             36 | Alessandro Fusco  |      27.78 |       17 |     102.09 | Dorian Aldegheri     |             35 |
-|             36 | Manuel Zuliani    |      51.67 |       18 |      87.59 | Baptiste Couilloud   |             24 |
-|             24 | Dave Sisi         |       5.79 |       19 |     123.26 | Francois Cros        |             24 |
-|             24 | Marco Riccioni    |      44.27 |       20 |      82.75 | Reda Wardi           |             24 |
-|             19 | Federico Zani     |      37.53 |       21 |      78.18 | Pierre Bourgarit     |             24 |
-|             14 | Luca Morisi       |      84.89 |       22 |      65.99 | Melvyn Jaminet       |             19 |
-|             19 | Marco Manfredi    |      13.63 |       23 |      54.67 | Yoram Moefana        |             19 |
+|             61 | Simone Ferrari    |      88.76 |        1 |      96.85 | Cyril Baille         |             55 |
+|             61 | Hame Faiva        |      17.77 |        2 |      87.62 | Peato Mauvaka        |             55 |
+|             55 | Pietro Ceccarelli |      48.04 |        3 |     126.65 | Uini Atonio          |             45 |
+|             57 | Niccolo Cannone   |      40.51 |        4 |      63.97 | Cameron Woki         |             81 |
+|             81 | Federico Ruzza    |      99.5  |        5 |      82.37 | Thibaud Flament      |             45 |
+|             81 | Sebastian Negri   |      61.95 |        6 |     107.67 | Anthony Jelonch      |             81 |
+|             44 | Michele Lamaro    |      94.07 |        7 |     113.71 | Charles Ollivon      |             55 |
+|             81 | Lorenzo Cannone   |      81.5  |        8 |     114.37 | Gregory Alldritt     |             81 |
+|             44 | Stephen Varney    |      33.24 |        9 |     108.26 | Maxime Lucu          |             55 |
+|             81 | Tommaso Allan     |      52.54 |       10 |      98.75 | Matthieu Jalibert    |             81 |
+|             81 | Monty Ioane       |     100.97 |       11 |      58.9  | Louis Bielle-Biarrey |             81 |
+|             81 | Paolo Garbisi     |      61.42 |       12 |     116.81 | Jonathan Danty       |             81 |
+|             81 | Juan Ignacio Brex |      90.55 |       13 |     104.64 | Gael Fickou          |             61 |
+|             65 | Pierre Bruno      |      24.94 |       14 |      84.19 | Damian Penaud        |             81 |
+|             31 | Ange Capuozzo     |      87.79 |       15 |     123.71 | Thomas Ramos         |             61 |
+|             20 | Marco Manfredi    |      13.63 |       16 |      78.18 | Pierre Bourgarit     |             26 |
+|             20 | Federico Zani     |      37.54 |       17 |      82.75 | Reda Wardi           |             26 |
+|             26 | Marco Riccioni    |      44.33 |       18 |     102.08 | Dorian Aldegheri     |             36 |
+|             24 | Dave Sisi         |       5.79 |       19 |      49.51 | Romain Taofifenua    |             36 |
+|             37 | Manuel Zuliani    |      51.69 |       20 |     123.26 | Francois Cros        |             26 |
+|             37 | Alessandro Fusco  |      27.8  |       21 |      87.59 | Baptiste Couilloud   |             26 |
+|             16 | Luca Morisi       |      84.89 |       22 |      54.66 | Yoram Moefana        |             20 |
+|             50 | Lorenzo Pani      |      20.59 |       23 |      65.98 | Melvyn Jaminet       |             20 |
 

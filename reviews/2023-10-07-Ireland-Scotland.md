@@ -83,14 +83,14 @@ Ireland by 14.4 on a neutral pitch
 </p>
 
 
-There were 4 large changes in win probability in this match
+There were 2 large changes in win probability in this match
 
 |   Away Minutes | Away Player         |   Away elo |   Number |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:--------------------|-----------:|---------:|-----------:|:--------------------|---------------:|
-|             53 | Pierre Schoeman     |      50.64 |        1 |      80.6  | Andrew Porter       |             49 |
-|             60 | George Turner       |     114.26 |        2 |      59.47 | Dan Sheehan         |             49 |
-|             61 | Zander Fagerson     |     111.28 |        3 |      93.1  | Tadhg Furlong       |             49 |
-|             80 | Richie Gray         |      64.14 |        4 |     138.31 | Tadhg Beirne        |             49 |
+|             53 | Pierre Schoeman     |      50.64 |        1 |      80.6  | Andrew Porter       |             48 |
+|             59 | George Turner       |     114.26 |        2 |      59.47 | Dan Sheehan         |             48 |
+|             60 | Zander Fagerson     |     111.28 |        3 |      93.1  | Tadhg Furlong       |             49 |
+|             80 | Richie Gray         |      64.14 |        4 |     138.31 | Tadhg Beirne        |             48 |
 |             45 | Grant Gilchrist     |      99.58 |        5 |      73.11 | Iain Henderson      |             80 |
 |             19 | Jamie Ritchie       |     123.23 |        6 |     100.68 | Peter O'Mahony      |             49 |
 |             65 | Rory Darge          |      64.69 |        7 |     120.56 | Josh van der Flier  |             80 |
@@ -100,14 +100,14 @@ There were 4 large changes in win probability in this match
 |             80 | Duhan van der Merwe |      74.4  |       11 |     170.5  | James Lowe          |             41 |
 |             80 | Sione Tuipulotu     |      48.13 |       12 |     120.21 | Bundee Aki          |             80 |
 |             80 | Huw Jones           |      43.66 |       13 |     117.36 | Garry Ringrose      |             80 |
-|             51 | Darcy Graham        |      54.1  |       14 |      76.36 | Mack Hansen         |             36 |
+|             50 | Darcy Graham        |      54.1  |       14 |      76.36 | Mack Hansen         |             23 |
 |              8 | Blair Kinghorn      |     134.28 |       15 |     119.78 | Hugo Keenan         |             80 |
-|             35 | Scott Cummings      |     109.31 |       16 |      76.4  | Stuart McCloskey    |             44 |
-|             72 | Ollie Smith         |      77.77 |       17 |     112.61 | Conor Murray        |             39 |
-|             61 | Matt Fagerson       |     104.4  |       18 |      56.13 | Jack Crowley        |             35 |
-|             29 | George Horne        |     128.73 |       19 |      77.55 | Ronan Kelleher      |             31 |
-|             27 | Rory Sutherland     |      51.56 |       20 |      81.66 | Dave Kilcoyne       |             31 |
-|             19 | WP Nel              |      95.83 |       21 |      90.64 | James Ryan          |             31 |
-|             20 | Ewan Ashman         |      41.88 |       22 |     109.27 | Jack Conan          |             31 |
-|             15 | Luke Crosbie        |      73.29 |       23 |      90.32 | Finlay Bealham      |             31 |
+|             21 | Ewan Ashman         |      41.88 |       16 |      77.55 | Ronan Kelleher      |             32 |
+|             27 | Rory Sutherland     |      51.56 |       17 |      81.66 | Dave Kilcoyne       |             32 |
+|             20 | WP Nel              |      95.83 |       18 |      90.32 | Finlay Bealham      |             31 |
+|             35 | Scott Cummings      |     109.31 |       19 |      90.64 | James Ryan          |             32 |
+|             61 | Matt Fagerson       |     104.4  |       20 |     109.27 | Jack Conan          |             31 |
+|             15 | Luke Crosbie        |      73.29 |       21 |     112.61 | Conor Murray        |             39 |
+|             30 | George Horne        |     128.73 |       22 |      56.13 | Jack Crowley        |             35 |
+|             72 | Ollie Smith         |      77.77 |       23 |      76.4  | Stuart McCloskey    |             57 |
 

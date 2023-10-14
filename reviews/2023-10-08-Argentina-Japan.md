@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title: Scotland at Ireland; 14.0-36.0  
+title: Georgia at Wales; 19.0-43.0  
 date: 2023-10-08 18:00:00 -0500  
 categories: match review  
 ---
-# Scotland at Ireland; 14.0-36.0
+# Georgia at Wales; 19.0-43.0
 
 # Club Level Predictions
 
