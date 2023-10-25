@@ -2,7 +2,7 @@
 layout: page  
 title: South Africa at France; 29.0-28.0  
 date: 2023-10-15 18:00:00 -0500  
-categories: match review  
+categories: "Rugby World Cup 2023" match review  
 ---
 # South Africa at France; 29.0-28.0
 

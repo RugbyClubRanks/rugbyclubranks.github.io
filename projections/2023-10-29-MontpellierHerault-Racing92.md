@@ -2,14 +2,14 @@
 layout: page  
 title: Racing 92 at Montpellier Herault  
 date: 2023-10-29 18:00:00 -0500  
-categories: match projection imputed  
+categories: "Top 14 Orange 2023" match projection imputed  
 ---
 # Racing 92 at Montpellier Herault
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.534, which translates to predicting Montpellier Herault to win by 1.7.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.531, which translates to predicting Montpellier Herault to win by 1.6.
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model

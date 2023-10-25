@@ -60,7 +60,7 @@ key: page-recents
 ## Rugby World Cup
 
 
-[2023](comp_files\Rugby_World_Cup_2023) - Prediction Accuracy: 73.3% 
+[2023](comp_files\Rugby_World_Cup_2023) - Prediction Accuracy: 74.5% 
 ## worldcupwarmupmatch
 
 
@@ -94,7 +94,7 @@ key: page-recents
 ## Gallagher Premiership
 
 
-[2023](comp_files\Gallagher_Premiership_2023)
+[2023](comp_files\Gallagher_Premiership_2023) - Prediction Accuracy: 70.0% 
 
 [2022](comp_files\Gallagher_Premiership_2022) - Prediction Accuracy: 69.9% 
 
@@ -134,7 +134,7 @@ key: page-recents
 ## United Rugby Championship
 
 
-[2023](comp_files\United_Rugby_Championship_2023)
+[2023](comp_files\United_Rugby_Championship_2023) - Prediction Accuracy: 75.0% 
 
 [2022](comp_files\United_Rugby_Championship_2022) - Prediction Accuracy: 70.7% 
 
@@ -152,7 +152,7 @@ key: page-recents
 ## RFU Championship
 
 
-[2023](comp_files\RFU_Championship_2023)
+[2023](comp_files\RFU_Championship_2023) - Prediction Accuracy: 60.0% 
 
 [2022](comp_files\RFU_Championship_2022) - Prediction Accuracy: 74.2% 
 
@@ -216,7 +216,7 @@ key: page-recents
 ## Nationale
 
 
-[2023](comp_files\Nationale_2023) - Prediction Accuracy: 76.2% 
+[2023](comp_files\Nationale_2023) - Prediction Accuracy: 73.2% 
 
 [2022](comp_files\Nationale_2022) - Prediction Accuracy: 68.8% 
 
@@ -226,7 +226,7 @@ key: page-recents
 ## Pro D2
 
 
-[2023](comp_files\Pro_D2_2023) - Prediction Accuracy: 75.0% 
+[2023](comp_files\Pro_D2_2023) - Prediction Accuracy: 81.2% 
 
 [2022](comp_files\Pro_D2_2022) - Prediction Accuracy: 67.8% 
 

@@ -2,7 +2,7 @@
 layout: page  
 title: Pau at Perpignan  
 date: 2023-10-29 18:00:00 -0500  
-categories: match projection imputed  
+categories: "Top 14 Orange 2023" match projection imputed  
 ---
 # Pau at Perpignan
 
