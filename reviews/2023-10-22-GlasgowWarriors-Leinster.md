@@ -9,7 +9,7 @@ categories: "United Rugby Championship 2023" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.347, which translates to predicting Leinster to win by 5.6.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.353, which translates to predicting Leinster to win by 5.4.
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -44,7 +44,7 @@ Glasgow Warriors by 0.2 on a neutral field
 ## Prediction without Player Minutes: Glasgow Warriors by 5.5
 
 
-Glasgow Warriors by 1.3 on a neutral pitch
+Glasgow Warriors by 1.2 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -87,27 +87,27 @@ There were 9 large changes in win probability in this match
 
 |   Away Minutes | Away Player     |   Away elo |   Number |   Home elo | Home Player           |   Home Minutes |
 |---------------:|:----------------|-----------:|---------:|-----------:|:----------------------|---------------:|
-|             50 | Jack Boyle      |      47.78 |        1 |      88.53 | Oli Kebble            |             51 |
-|             25 | John McKee      |      59.27 |        2 |      45.16 | Angus Fraser          |             51 |
-|             50 | Thomas Clarkson |      55.21 |        3 |     111.28 | Zander Fagerson       |             59 |
-|             80 | Ross Molony     |      85.65 |        4 |      13.56 | Greg Peterson         |             80 |
-|             50 | Jason Jenkins   |      55.28 |        5 |     109.31 | Scott Cummings        |             75 |
-|             80 | Max Deegan      |      80.32 |        6 |      45.97 | Gregor Brown          |             63 |
-|             73 | Scott Penny     |      63.93 |        7 |      64.69 | Rory Darge            |             80 |
-|             50 | James Culhane   |      37.64 |        8 |      98.94 | Henco Venter          |             51 |
-|             50 | Luke McGrath    |     122.35 |        9 |      51.18 | Jamie Dobie           |             80 |
-|             80 | Harry Byrne     |      72.1  |       10 |      45.11 | Tom Jordan            |             75 |
-|             80 | Jordan Larmour  |      70.46 |       11 |     104.6  | Kyle Steyn            |             51 |
-|             80 | Charlie Ngatai  |      99.84 |       12 |      74.03 | Stafford McDowall     |             80 |
-|             66 | Liam Turner     |      59.76 |       13 |      43.66 | Huw Jones             |             80 |
-|             80 | Tommy O'Brien   |      50.97 |       14 |     104.54 | Sebastian Cancelliere |             80 |
-|             80 | Ciaran Frawley  |      56.12 |       15 |      41.5  | Josh McKay            |             80 |
-|             55 | Lee Barron      |      45.36 |       16 |      47.43 | Nathan McBeth         |             29 |
-|             30 | Rhys Ruddock    |     129.97 |       17 |      37.23 | Johnny Matthews       |             29 |
-|             30 | Paddy McCarthy  |      46.65 |       18 |     128.73 | George Horne          |             29 |
-|             30 | Rory McGuire    |      46.65 |       19 |      18.92 | Ally Miller           |             29 |
-|             30 | Brian Deeny     |      46.45 |       20 |      69.39 | Lucio Sordoni         |             21 |
-|             30 | Cormac Foley    |      49.91 |       21 |      84.25 | Tom Gordon            |             17 |
-|             14 | Sam Prendergast |      38.71 |       22 |      48.45 | Alex Samuel           |              5 |
-|              7 | Will Connors    |      58.36 |       23 |      62.33 | Duncan Weir           |              5 |
+|             50 | Jack Boyle      |      47.78 |        1 |      88.47 | Oli Kebble            |             51 |
+|             25 | John McKee      |      59.29 |        2 |      45.16 | Angus Fraser          |             51 |
+|             50 | Thomas Clarkson |      55.21 |        3 |     111.37 | Zander Fagerson       |             59 |
+|             80 | Ross Molony     |      85.6  |        4 |      12.4  | Greg Peterson         |             80 |
+|             50 | Jason Jenkins   |      55.27 |        5 |     109.46 | Scott Cummings        |             75 |
+|             80 | Max Deegan      |      80.35 |        6 |      45.93 | Gregor Brown          |             63 |
+|             73 | Scott Penny     |      63.94 |        7 |      64.74 | Rory Darge            |             80 |
+|             50 | James Culhane   |      37.63 |        8 |      98.93 | Henco Venter          |             51 |
+|             50 | Luke McGrath    |     122.35 |        9 |      51.13 | Jamie Dobie           |             80 |
+|             80 | Harry Byrne     |      72.17 |       10 |      45.07 | Tom Jordan            |             75 |
+|             80 | Jordan Larmour  |      70.43 |       11 |     104.58 | Kyle Steyn            |             51 |
+|             80 | Charlie Ngatai  |      99.86 |       12 |      73.98 | Stafford McDowall     |             80 |
+|             66 | Liam Turner     |      59.75 |       13 |      43.7  | Huw Jones             |             80 |
+|             80 | Tommy O'Brien   |      50.99 |       14 |     104.48 | Sebastian Cancelliere |             80 |
+|             80 | Ciaran Frawley  |      56.1  |       15 |      41.53 | Josh McKay            |             80 |
+|             55 | Lee Barron      |      45.36 |       16 |      47.42 | Nathan McBeth         |             29 |
+|             30 | Rhys Ruddock    |     130.04 |       17 |      37.77 | Johnny Matthews       |             29 |
+|             30 | Paddy McCarthy  |      46.65 |       18 |     128.79 | George Horne          |             29 |
+|             30 | Rory McGuire    |      46.65 |       19 |      18.9  | Ally Miller           |             29 |
+|             30 | Brian Deeny     |      46.45 |       20 |      69.4  | Lucio Sordoni         |             21 |
+|             30 | Cormac Foley    |      49.9  |       21 |      84.27 | Tom Gordon            |             17 |
+|             14 | Sam Prendergast |      38.7  |       22 |      48.41 | Alex Samuel           |              5 |
+|              7 | Will Connors    |      58.36 |       23 |      62.36 | Duncan Weir           |              5 |
 

@@ -1,6 +1,6 @@
 ---  
 title: "World Cup 2023 Predictions"  
-date: 2023-10-25 6:00:00 -0500  
+date: 2023-10-26 6:00:00 -0500  
 categories: model projection  
 layout: article  
 aside:  
@@ -69,10 +69,10 @@ aside:
 
 |              | Reach Bronze Final   | Win Bronze   | Reach Final   | Win Final   |
 |:-------------|:---------------------|:-------------|:--------------|:------------|
-| New Zealand  | 0.0 %                | 0.0 %        | 100.0 %       | 53.7 %      |
-| South Africa | 0.0 %                | 0.0 %        | 100.0 %       | 46.3 %      |
-| England      | 100.0 %              | 74.6 %       | 0.0 %         | 0.0 %       |
-| Argentina    | 100.0 %              | 25.4 %       | 0.0 %         | 0.0 %       |
+| New Zealand  | 0.0 %                | 0.0 %        | 100.0 %       | 50.6 %      |
+| South Africa | 0.0 %                | 0.0 %        | 100.0 %       | 49.4 %      |
+| England      | 100.0 %              | 74.5 %       | 0.0 %         | 0.0 %       |
+| Argentina    | 100.0 %              | 25.5 %       | 0.0 %         | 0.0 %       |
 
 
 
@@ -83,7 +83,7 @@ aside:
 ### Argentina V England on 2023/10/27
 
 
-Average Margin: England by 3.6
+Average Margin: England by 3.9
 
 <p float="left">
 <img src="plots/performances_2023-10-27-Argentina_V_England.png" width="32%" />
@@ -96,7 +96,7 @@ Average Margin: England by 3.6
 ### New Zealand V South Africa on 2023/10/28
 
 
-Average Margin: New Zealand by 0.5
+Average Margin: New Zealand by 0.2
 
 <p float="left">
 <img src="plots/performances_2023-10-28-NewZealand_V_SouthAfrica.png" width="32%" />

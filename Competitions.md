@@ -53,10 +53,18 @@ key: page-recents
 
 
 [2022](comp_files\Autumn_Nations_Series_2022) - Prediction Accuracy: 65.0% 
+## FIRA Championship D2
+
+
+[2024](comp_files\FIRA_Championship_D2_2024) - Prediction Accuracy: 42.9% 
 ## IRB Pacific Nations Cup
 
 
 [2022](comp_files\IRB_Pacific_Nations_Cup_2022) - Prediction Accuracy: 66.7% 
+## Rugby Europe Trophy
+
+
+[2023](comp_files\Rugby_Europe_Trophy_2023)
 ## Rugby World Cup
 
 
@@ -94,7 +102,7 @@ key: page-recents
 ## Gallagher Premiership
 
 
-[2023](comp_files\Gallagher_Premiership_2023) - Prediction Accuracy: 70.0% 
+[2023](comp_files\Gallagher_Premiership_2023) - Prediction Accuracy: 50.0% 
 
 [2022](comp_files\Gallagher_Premiership_2022) - Prediction Accuracy: 69.9% 
 
@@ -124,7 +132,7 @@ key: page-recents
 ## Top 14 Orange
 
 
-[2023](comp_files\Top_14_Orange_2023) - Prediction Accuracy: 76.2% 
+[2023](comp_files\Top_14_Orange_2023) - Prediction Accuracy: 71.4% 
 
 [2022](comp_files\Top_14_Orange_2022) - Prediction Accuracy: 68.0% 
 
@@ -134,7 +142,7 @@ key: page-recents
 ## United Rugby Championship
 
 
-[2023](comp_files\United_Rugby_Championship_2023) - Prediction Accuracy: 75.0% 
+[2023](comp_files\United_Rugby_Championship_2023) - Prediction Accuracy: 81.2% 
 
 [2022](comp_files\United_Rugby_Championship_2022) - Prediction Accuracy: 70.7% 
 
@@ -157,6 +165,14 @@ key: page-recents
 [2022](comp_files\RFU_Championship_2022) - Prediction Accuracy: 74.2% 
 
 [2021](comp_files\RFU_Championship_2021) - Prediction Accuracy: 72.0% 
+## Rugby Europe Super Cup
+
+
+[2023](comp_files\Rugby_Europe_Super_Cup_2023)
+
+[2022](comp_files\Rugby_Europe_Super_Cup_2022) - Prediction Accuracy: 66.7% 
+
+[2021](comp_files\Rugby_Europe_Super_Cup_2021) - Prediction Accuracy: 57.7% 
 ## Superliga Americana de Rugby
 
 
@@ -165,12 +181,6 @@ key: page-recents
 [2021](comp_files\Superliga_Americana_de_Rugby_2021) - Prediction Accuracy: 75.0% 
 
 [2020](comp_files\Superliga_Americana_de_Rugby_2020) - Prediction Accuracy: 33.3% 
-## Rugby Europe Super Cup
-
-
-[2022](comp_files\Rugby_Europe_Super_Cup_2022) - Prediction Accuracy: 66.7% 
-
-[2021](comp_files\Rugby_Europe_Super_Cup_2021) - Prediction Accuracy: 57.7% 
 ## Super Rugby Aotearoa
 
 

@@ -40,5 +40,5 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Imputed Lineups: Soyaux-Angouleme by 2.3
 
 
-Nevers by 1.3 on a neutral pitch
+Nevers by 1.4 on a neutral pitch
 
