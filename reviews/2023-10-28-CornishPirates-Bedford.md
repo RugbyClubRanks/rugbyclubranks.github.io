@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title: Bedford at Cornish Pirates; 20.0-18.0  
+title: Bedford at Cornish Pirates; 20-18  
 date: 2023-10-28 18:00:00 -0500  
 categories: "RFU Championship 2023" match review  
 ---
-# Bedford at Cornish Pirates; 20.0-18.0
+# Bedford at Cornish Pirates; 20-18
 
 # Club Level Predictions
 

@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title: Scarlets at Stormers; 7.0-52.0  
+title: Scarlets at Stormers; 7-52  
 date: 2023-10-28 18:00:00 -0500  
 categories: "United Rugby Championship 2023" match review  
 ---
-# Scarlets at Stormers; 7.0-52.0
+# Scarlets at Stormers; 7-52
 
 # Club Level Predictions
 
@@ -37,11 +37,11 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Stormers by 16.7
+## Prediction with Player Minutes: Stormers by 16.6
 
 
 Stormers by 12.8 on a neutral field
-## Prediction without Player Minutes: Stormers by 14.5
+## Prediction without Player Minutes: Stormers by 14.4
 
 
 Stormers by 10.6 on a neutral pitch
@@ -88,13 +88,13 @@ There were 3 large changes in win probability in this match
 |   Away Minutes | Away Player      |   Away elo |   Number |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:-----------------|-----------:|---------:|-----------:|:--------------------|---------------:|
 |             50 | Kemsley Mathias  |      65.76 |        1 |      73.05 | Alistair Vermaak    |             46 |
-|             80 | Shaun Evans      |      33.38 |        2 |      49.39 | Joseph Dweba        |             46 |
+|             80 | Shaun Evans      |      33.38 |        2 |      49.85 | Joseph Dweba        |             46 |
 |             40 | Sam Wainwright   |      50.5  |        3 |      55.72 | Neethling Fouche    |             48 |
 |             80 | Alex Craig       |      48.35 |        4 |      74.24 | Adre Smith          |             48 |
 |             52 | Morgan Jones     |      16.28 |        5 |      49.83 | Ruben van Heerden   |             48 |
-|             45 | Taine Plumtree   |      59.13 |        6 |      40.55 | Marcel Theunissen   |             80 |
+|             45 | Taine Plumtree   |      61.83 |        6 |      40.55 | Marcel Theunissen   |             80 |
 |             30 | Dan Davis        |      66.73 |        7 |      92.18 | Hacjivah Dayimani   |             80 |
-|             80 | Carwyn Tuipulotu |      50.44 |        8 |      70.23 | Evan Roos           |             50 |
+|             80 | Carwyn Tuipulotu |      50.44 |        8 |      70.63 | Evan Roos           |             50 |
 |             43 | Kieran Hardy     |      60.94 |        9 |      66.48 | Paul de Wet         |             57 |
 |             68 | Ioan Lloyd       |      34.49 |       10 |      87.16 | Clayton Blommetjies |             80 |
 |             40 | Ryan Conbeer     |      50.71 |       11 |      73.61 | Leolin Zas          |             80 |
@@ -109,5 +109,5 @@ There were 3 large changes in win probability in this match
 |             35 | Jac Price        |      28.08 |       20 |     123.47 | Brok Harris         |             32 |
 |             30 | Wyn Jones        |      62.35 |       21 |      38.28 | Ben-Jason Dixon     |             32 |
 |             28 | Isaac Young      |      46.65 |       22 |      20.73 | Nama Xaba           |             30 |
-|             12 | Charlie Titcombe |      46.65 |       23 |      87.06 | Herschel Jantjies   |             23 |
+|             12 | Charlie Titcombe |      46.65 |       23 |      87.46 | Herschel Jantjies   |             23 |
 

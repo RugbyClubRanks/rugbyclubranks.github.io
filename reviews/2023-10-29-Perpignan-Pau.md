@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title: Pau at Perpignan; 39.0-24.0  
+title: Pau at Perpignan; 39-24  
 date: 2023-10-29 18:00:00 -0500  
 categories: "Top 14 Orange 2023" match review  
 ---
-# Pau at Perpignan; 39.0-24.0
+# Pau at Perpignan; 39-24
 
 # Club Level Predictions
 
@@ -88,7 +88,7 @@ There were 13 large changes in win probability in this match
 |   Away Minutes | Away Player              |   Away elo |   Number |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:-------------------------|-----------:|---------:|-----------:|:--------------------|---------------:|
 |             52 | Hayden Thompson-Stringer |      72.75 |        1 |      56.42 | Sacha Lotrian       |             46 |
-|             58 | Lucas Rey                |      42.96 |        2 |      58.43 | Seilala Lam         |             61 |
+|             58 | Lucas Rey                |      42.96 |        2 |      58.33 | Seilala Lam         |             61 |
 |             58 | Siate Tokolahi           |      73.28 |        3 |     101.19 | Arthur Joly         |             46 |
 |             56 | Guillaume Ducat          |      32.11 |        4 |      48.78 | Tristan Labouteley  |             80 |
 |             62 | Mickael Capelli          |      47.84 |        5 |      43.67 | Posolo Tuilagi      |             80 |
@@ -99,12 +99,12 @@ There were 13 large changes in win probability in this match
 |             62 | Joe Simmonds             |      89.61 |       10 |      60.71 | Jake McIntyre       |             80 |
 |             80 | Samuel Ezeala            |      20.85 |       11 |      41.54 | Ali Crossdale       |             80 |
 |             80 | Nathan Decron            |      53.01 |       12 |      81.35 | Mathieu Acebes      |             80 |
-|             80 | Emilien Gailleton        |      59.13 |       13 |     -22.63 | Edward Sawailau     |             54 |
+|             80 | Emilien Gailleton        |      58.11 |       13 |     -22.63 | Edward Sawailau     |             54 |
 |             80 | Clement Laporte          |     102.18 |       14 |      53.91 | Lucas Dubois        |             61 |
-|             80 | Jack Maddocks            |      52.22 |       15 |      53.16 | Tommaso Allan       |             80 |
+|             80 | Jack Maddocks            |      52.22 |       15 |      52.3  | Tommaso Allan       |             80 |
 |             28 | Remi Seneca              |      62.34 |       16 |      18.18 | Giorgi Tetrashvili  |             34 |
 |             22 | Youri Delhommel          |      33.67 |       17 |      30.72 | Victor Montgaillard |             19 |
-|             22 | Nicolas Corato           |      30.9  |       18 |      48.11 | Pietro Ceccarelli   |             34 |
+|             22 | Nicolas Corato           |      30.9  |       18 |      48.2  | Pietro Ceccarelli   |             34 |
 |             24 | Hugo Auradou             |      27.99 |       19 |      36.33 | Kelian Galletier    |             26 |
 |             18 | Fabrice Metz             |      67.77 |       20 |      29.06 | Sadek Deghmache     |             26 |
 |             28 | Reece Hewat              |      46.81 |       21 |      56.71 | Louis Dupichot      |             19 |

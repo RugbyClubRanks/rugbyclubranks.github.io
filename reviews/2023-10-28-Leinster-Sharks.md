@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title: Sharks at Leinster; 13.0-34.0  
+title: Sharks at Leinster; 13-34  
 date: 2023-10-28 18:00:00 -0500  
 categories: "United Rugby Championship 2023" match review  
 ---
-# Sharks at Leinster; 13.0-34.0
+# Sharks at Leinster; 13-34
 
 # Club Level Predictions
 
@@ -89,7 +89,7 @@ There were 4 large changes in win probability in this match
 |---------------:|:-------------------------|-----------:|---------:|-----------:|:-------------------|---------------:|
 |             59 | Ntuthuko Mchunu          |      43.46 |        1 |      47.78 | Jack Boyle         |             59 |
 |             59 | Kerron van Vuuren        |      33.41 |        2 |      45.36 | Lee Barron         |             66 |
-|             59 | Hanro Jacobs             |      48.75 |        3 |      68.76 | Michael Ala'alatoa |             59 |
+|             59 | Hanro Jacobs             |      48.75 |        3 |      68.71 | Michael Ala'alatoa |             59 |
 |             75 | Corne Rahl               |      40.08 |        4 |      85.6  | Ross Molony        |             80 |
 |             80 | Emile van Heerden        |      41.74 |        5 |      55.27 | Jason Jenkins      |             56 |
 |             80 | James Venter             |      54.45 |        6 |     130.04 | Rhys Ruddock       |             52 |
@@ -101,7 +101,7 @@ There were 4 large changes in win probability in this match
 |             80 | Rohan Janse van Rensburg |      66.8  |       12 |      99.86 | Charlie Ngatai     |             52 |
 |             80 | Francois Venter          |      56.97 |       13 |      61.27 | Jamie Osborne      |             80 |
 |             80 | Werner Kok               |      56.83 |       14 |      50.99 | Tommy O'Brien      |             80 |
-|             80 | Aphelele Fassi           |      81.1  |       15 |      56.1  | Ciaran Frawley     |             80 |
+|             80 | Aphelele Fassi           |      81.1  |       15 |      56.58 | Ciaran Frawley     |             80 |
 |             45 | George Cronje            |      38.29 |       16 |      58.36 | Will Connors       |             28 |
 |             28 | Aphiwe Dyantyi           |      28.28 |       17 |      49.7  | Rob Russell        |             28 |
 |             21 | Khwezi Mona              |      49.05 |       18 |      46.45 | Brian Deeny        |             24 |

@@ -1,6 +1,6 @@
 ---  
 title: "FIRA Championship D2 2024 Status"  
-date: 2023-11-01 6:00:00 -0500  
+date: 2023-11-03 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -36,8 +36,8 @@ aside:
 
 | Club       |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Luxembourg |                   1 |      1 |                 23.7 |                   0   |                  1 |                  4.9 |
-| Austria    |                   1 |      0 |                -23.7 |                   0.1 |                  0 |                  0.2 |
+| Luxembourg |                   1 |      1 |                 23.4 |                   0   |                  1 |                  4.9 |
+| Austria    |                   1 |      0 |                -23.4 |                   0.1 |                  0 |                  0.2 |
 
 
 
@@ -46,7 +46,7 @@ aside:
 
 | Club                   |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Luxembourg             |               2 |      2 |                 72.7 |                   0   |                  1 |                  8.9 |
+| Luxembourg             |               2 |      2 |                 72.4 |                   0   |                  1 |                  8.9 |
 | Moldova                |               2 |      2 |                 29   |                   0   |                  0 |                  8   |
 | Hungary                |               2 |      1 |                 12   |                   0   |                  0 |                  4   |
 | Slovenia               |               1 |      1 |                 12   |                   0   |                  0 |                  4   |
@@ -54,7 +54,7 @@ aside:
 | Denmark                |               2 |      0 |                 -4   |                   1   |                  0 |                  3   |
 | Andorra                |               1 |      0 |                  0   |                   0   |                  0 |                  2   |
 | Turkey                 |               1 |      0 |                 -4   |                   1   |                  0 |                  1   |
-| Austria                |               2 |      0 |                -47.7 |                   0.1 |                  0 |                  0.2 |
+| Austria                |               2 |      0 |                -47.4 |                   0.1 |                  0 |                  0.2 |
 | Serbia                 |               1 |      0 |                -25   |                   0   |                  0 |                  0   |
 | Bosnia and Herzegovina |               1 |      0 |                -49   |                   0   |                  0 |                  0   |
 
@@ -77,7 +77,7 @@ aside:
 ### Luxembourg V Austria on 2023/11/03
 
 
-Average Margin: Luxembourg by 24.2
+Average Margin: Luxembourg by 23.9
 
 <p float="left">
 <img src="plots/performances_2023-11-03-Luxembourg_V_Austria.png" width="32%" />

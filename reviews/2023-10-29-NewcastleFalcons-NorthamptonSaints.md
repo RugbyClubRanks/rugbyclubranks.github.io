@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title: Northampton Saints at Newcastle Falcons; 16.0-14.0  
+title: Northampton Saints at Newcastle Falcons; 16-14  
 date: 2023-10-29 18:00:00 -0500  
 categories: "Gallagher Premiership 2023" match review  
 ---
-# Northampton Saints at Newcastle Falcons; 16.0-14.0
+# Northampton Saints at Newcastle Falcons; 16-14
 
 # Club Level Predictions
 
@@ -37,11 +37,11 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Northampton Saints by 2.3
+## Prediction with Player Minutes: Northampton Saints by 2.1
 
 
-Northampton Saints by 6.9 on a neutral field
-## Prediction without Player Minutes: Northampton Saints by 3.4
+Northampton Saints by 6.7 on a neutral field
+## Prediction without Player Minutes: Northampton Saints by 3.3
 
 
 Northampton Saints by 7.9 on a neutral pitch
@@ -88,12 +88,12 @@ There were 9 large changes in win probability in this match
 |   Away Minutes | Away Player         |   Away elo |   Number |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:--------------------|-----------:|---------:|-----------:|:--------------------|---------------:|
 |             47 | Ethan Waller        |      67.05 |        1 |      19.69 | Adam Brocklebank    |             59 |
-|             69 | Curtis Langdon      |      59.83 |        2 |      30.35 | Jamie Blamire       |             59 |
+|             69 | Curtis Langdon      |      59.83 |        2 |      25.4  | Jamie Blamire       |             59 |
 |             63 | Trevor Davison      |      14.22 |        3 |      28.37 | Mark Tampin         |             54 |
 |             59 | Chunya Munga        |      50.36 |        4 |      27.62 | Philip van der Walt |             63 |
 |             80 | Alex Coles          |      22.22 |        5 |      18.88 | Sebastian de Chaves |             63 |
 |             80 | Angus Scott-Young   |      44.52 |        6 |      47.51 | Sam Cross           |             61 |
-|             80 | Tom Pearson         |      85.6  |        7 |      41.29 | Guy Pepper          |             80 |
+|             80 | Tom Pearson         |      78.43 |        7 |      41.29 | Guy Pepper          |             80 |
 |             80 | Sam Graham          |      85.41 |        8 |      37.95 | Callum Chick        |             80 |
 |             80 | Tom James           |      16.06 |        9 |      -5.33 | Sam Stuart          |             68 |
 |             80 | Fin Smith           |      49.24 |       10 |      34.1  | Brett Connon        |             80 |

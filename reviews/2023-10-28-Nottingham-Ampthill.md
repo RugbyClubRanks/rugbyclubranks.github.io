@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title: Ampthill at Nottingham; 28.0-41.0  
+title: Ampthill at Nottingham; 28-41  
 date: 2023-10-28 18:00:00 -0500  
 categories: "RFU Championship 2023" match review  
 ---
-# Ampthill at Nottingham; 28.0-41.0
+# Ampthill at Nottingham; 28-41
 
 # Club Level Predictions
 
