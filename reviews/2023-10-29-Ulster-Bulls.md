@@ -37,11 +37,11 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Ulster by 7.3
+## Prediction with Player Minutes: Ulster by 7.2
 
 
 Ulster by 3.0 on a neutral field
-## Prediction without Player Minutes: Ulster by 7.8
+## Prediction without Player Minutes: Ulster by 7.7
 
 
 Ulster by 3.5 on a neutral pitch
@@ -87,9 +87,9 @@ There were 13 large changes in win probability in this match
 
 |   Away Minutes | Away Player             |   Away elo |   Number |   Home elo | Home Player       |   Home Minutes |
 |---------------:|:------------------------|-----------:|---------:|-----------:|:------------------|---------------:|
-|             46 | Gerhard Steenekamp      |      57.65 |        1 |      52.05 | Andrew Warwick    |             63 |
-|             51 | Johan Grobbelaar        |      84.2  |        2 |      41.29 | Tom Stewart       |             77 |
-|             51 | Wilco Louw              |      96.97 |        3 |      50.74 | Tom O'Toole       |             80 |
+|             46 | Gerhard Steenekamp      |      57.04 |        1 |      52.05 | Andrew Warwick    |             63 |
+|             51 | Johan Grobbelaar        |      84.2  |        2 |      40.95 | Tom Stewart       |             77 |
+|             51 | Wilco Louw              |      96.97 |        3 |      50.14 | Tom O'Toole       |             80 |
 |             74 | Ruan Vermaak            |      24.79 |        4 |      89.97 | Alan O'Connor     |             80 |
 |             80 | Ruan Nortje             |      50.46 |        5 |      46.23 | Cormac Izuchukwu  |             36 |
 |             80 | Marcell Coetzee         |      82.08 |        6 |     107.18 | Dave Ewers        |             40 |
@@ -97,7 +97,7 @@ There were 13 large changes in win probability in this match
 |             51 | Cameron Hanekom         |      41.42 |        8 |      65.2  | Nick Timoney      |             80 |
 |             69 | Embrose Papier          |      71.94 |        9 |      50.14 | Nathan Doak       |             80 |
 |             80 | Johan Goosen            |      46.29 |       10 |      69.07 | Billy Burns       |             80 |
-|             70 | Stravino Jacobs         |      35.37 |       11 |      65.39 | Jacob Stockdale   |             76 |
+|             70 | Stravino Jacobs         |      35.37 |       11 |      64.41 | Jacob Stockdale   |             76 |
 |             62 | Cornal Hendricks        |      14.24 |       12 |      49.05 | Jude Posthlewaite |             80 |
 |             80 | David Kriel             |      53.18 |       13 |      63.18 | James Hume        |             80 |
 |             80 | Sebastian de Klerk      |      87.35 |       14 |      51.27 | Robert Baloucoune |             80 |

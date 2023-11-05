@@ -40,11 +40,11 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Player Minutes: Munster by 6.8
 
 
-Munster by 10.8 on a neutral field
+Munster by 10.7 on a neutral field
 ## Prediction without Player Minutes: Munster by 7.2
 
 
-Munster by 11.2 on a neutral pitch
+Munster by 11.1 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -93,19 +93,19 @@ There were 10 large changes in win probability in this match
 |             80 | Edwin Edogbo     |      48.44 |        4 |      54.28 | Edoardo Iachizzi    |             80 |
 |             80 | Fineen Wycherley |      46.13 |        5 |      50.74 | Eli Snyman          |             80 |
 |             80 | Jack O'Donoghue  |      78.65 |        6 |      45.09 | Alessandro Izekor   |             64 |
-|             48 | John Hodnett     |      73.86 |        7 |      51.55 | Manuel Zuliani      |             71 |
-|             80 | Gavin Coombes    |      77.35 |        8 |      72.57 | Toa Halafihi        |             80 |
+|             48 | John Hodnett     |      73.86 |        7 |      52.02 | Manuel Zuliani      |             71 |
+|             80 | Gavin Coombes    |      77.35 |        8 |      73.52 | Toa Halafihi        |             80 |
 |             50 | Ethan Coughlan   |      47.86 |        9 |      28.89 | Andy Uren           |             80 |
 |             80 | Joey Carbery     |      55.6  |       10 |      67.89 | Jacob Umaga         |             59 |
-|             80 | Calvin Nash      |      89.53 |       11 |      44.96 | Edoardo Padovani    |             80 |
+|             80 | Calvin Nash      |      89.31 |       11 |      44.96 | Edoardo Padovani    |             80 |
 |             48 | Rory Scannell    |     103.76 |       12 |      36.28 | Filippo Drago       |             80 |
-|             80 | Antoine Frisch   |      70.49 |       13 |      72.33 | Malakai Fekitoa     |             80 |
+|             80 | Antoine Frisch   |      70.49 |       13 |      72.19 | Malakai Fekitoa     |             80 |
 |             52 | Shay McCarthy    |      46.65 |       14 |      21.08 | Ignacio Mendy       |             80 |
 |             80 | Shane Daly       |      96.65 |       15 |      65.58 | Rhyno Smith         |             80 |
-|             16 | John Ryan        |      82.84 |       16 |      37.7  | Federico Zani       |             31 |
-|             32 | Alex Kendellen   |      57.51 |       17 |      94.43 | Giacomo Nicotera    |             31 |
+|             16 | John Ryan        |      82.84 |       16 |      37.66 | Federico Zani       |             31 |
+|             32 | Alex Kendellen   |      57.51 |       17 |      94.95 | Giacomo Nicotera    |             31 |
 |             32 | Alex Nankivell   |      98.84 |       18 |      60.06 | Tiziano Pasquali    |             31 |
-|             30 | Paddy Patterson  |      51.18 |       19 |      64.22 | Tomas Albornoz      |             21 |
+|             30 | Paddy Patterson  |      51.18 |       19 |      64.51 | Tomas Albornoz      |             21 |
 |             28 | Sean O'Brien     |      33.11 |       20 |      25.68 | Gideon Koegelenberg |             16 |
 |             24 | Thomas Ahern     |      58.69 |       21 |      57.62 | Marco Zanon         |              9 |
 |             16 | Scott Buckley    |      49.1  |       22 |     nan    | nan                 |            nan |

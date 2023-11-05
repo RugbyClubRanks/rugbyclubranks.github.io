@@ -37,14 +37,14 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Bath Rugby by 2.6
+## Prediction with Player Minutes: Bath Rugby by 2.4
 
 
-Leicester Tigers by 2.3 on a neutral field
-## Prediction without Player Minutes: Bath Rugby by 1.0
+Leicester Tigers by 2.4 on a neutral field
+## Prediction without Player Minutes: Bath Rugby by 0.9
 
 
-Leicester Tigers by 3.8 on a neutral pitch
+Leicester Tigers by 3.9 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -89,18 +89,18 @@ There were 17 large changes in win probability in this match
 |---------------:|:----------------------|-----------:|---------:|-----------:|:------------------|---------------:|
 |             62 | James Cronin          |      67.87 |        1 |      50.77 | Beno Obano        |             67 |
 |             77 | Charlie Clare         |      29.55 |        2 |      82.29 | Tom Dunn          |             67 |
-|             62 | Joe Heyes             |      65.69 |        3 |      77.95 | Thomas du Toit    |             67 |
+|             62 | Joe Heyes             |      65.69 |        3 |      77.04 | Thomas du Toit    |             67 |
 |             80 | Cameron Henderson     |      66.54 |        4 |      69.78 | Josh McNally      |             73 |
 |             64 | Harry Wells           |      64.64 |        5 |      25.33 | Charlie Ewels     |             80 |
 |             80 | Hanro Liebenberg      |      83.92 |        6 |      27.81 | Fergus Lee-Warner |             56 |
-|             80 | Tommy Reffell         |      59.97 |        7 |      75.05 | Miles Reid        |             80 |
+|             80 | Tommy Reffell         |      60.17 |        7 |      75.05 | Miles Reid        |             80 |
 |             58 | Matt Rogerson         |      82.82 |        8 |      40.56 | Alfie Barbeary    |             72 |
 |             64 | Tom Whiteley          |      40.29 |        9 |      41.1  | Ben Spencer       |             80 |
-|             80 | James Shillcock       |      33.3  |       10 |     129.85 | Finn Russell      |             80 |
+|             80 | James Shillcock       |      33.3  |       10 |     129.11 | Finn Russell      |             80 |
 |             80 | Ollie Hassell-Collins |      70.64 |       11 |       7.2  | Will Muir         |             36 |
-|             80 | Dan Kelly             |      79.86 |       12 |      54.26 | Cameron Redpath   |             80 |
-|             80 | Guy Porter            |      55.98 |       13 |      44.12 | Max Ojomoh        |             80 |
-|             80 | Josh Bassett          |      78.02 |       14 |      71.4  | Joe Cokanasiga    |             80 |
+|             80 | Dan Kelly             |      79.86 |       12 |      54.34 | Cameron Redpath   |             80 |
+|             80 | Guy Porter            |      63.16 |       13 |      44.12 | Max Ojomoh        |             80 |
+|             80 | Josh Bassett          |      78.02 |       14 |      77.6  | Joe Cokanasiga    |             80 |
 |             80 | Mike Brown            |     103.11 |       15 |     101.59 | Matt Gallagher    |             80 |
 |             18 | Francois van Wyk      |      65.92 |       16 |      40.53 | Juan Schoeman     |             13 |
 |              3 | Nic Dolly             |      56.99 |       17 |      38.21 | Niall Annett      |             13 |

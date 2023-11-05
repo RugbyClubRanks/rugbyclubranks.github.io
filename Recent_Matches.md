@@ -10,13 +10,13 @@ key: page-recents
 
 [In depth model review and projections for Rugby World Cup 2023](comp_files/Rugby_World_Cup_2023)
 
-Competition Accuracy: 5 of 5 (100.0%)
+Competition Accuracy: 4 of 5 (80.0%)
 
-Competition Error: 25.87 points per match
+Competition Error: 26.38 points per match
 
-Last Round Accuracy: 3 of 3 (100.0%)
+Last Round Accuracy: 2 of 3 (66.67%)
 
-Last Round Error: 34.65 points per match
+Last Round Error: 35.06 points per match
 
 [2023-10-27 England at Argentina; 26-23](reviews//2023-10-27-Argentina-England)
 
@@ -48,19 +48,21 @@ Last Round Error: 11.9 points per match
 
 [In depth model review and projections for RFU Championship 2023](comp_files/RFU_Championship_2023)
 
-Competition Accuracy: 6 of 10 (60.0%)
+Competition Accuracy: 7 of 12 (58.33%)
 
-Competition Error: 15.1 points per match
+Competition Error: 15.0 points per match
 
 Last Round Accuracy: 4 of 6 (66.67%)
 
-Last Round Error: 18.69 points per match
-
-[2023-10-28 Ampthill at Nottingham; 28-41](reviews//2023-10-28-Nottingham-Ampthill)
+Last Round Error: 20.62 points per match
 
 [2023-10-28 Bedford at Cornish Pirates; 20-18](reviews//2023-10-28-CornishPirates-Bedford)
 
+[2023-10-28 Ampthill at Nottingham; 28-41](reviews//2023-10-28-Nottingham-Ampthill)
+
 [2023-10-28 Caldy at Coventry; 5-45](reviews//2023-10-28-Coventry-Caldy)
+
+[2023-11-04 Coventry at Ampthill; 24-34](reviews//2023-11-04-Ampthill-Coventry)
 ## Top 14 Orange
 
 
@@ -98,12 +100,12 @@ Last Round Error: 9.13 points per match
 
 [2023-10-28 Scarlets at Stormers; 7-52](reviews//2023-10-28-Stormers-Scarlets)
 
-[2023-10-28 Sharks at Leinster; 13-34](reviews//2023-10-28-Leinster-Sharks)
-
 [2023-10-28 Lions at Edinburgh; 16-17](reviews//2023-10-28-Edinburgh-Lions)
 
-[2023-10-29 Bulls at Ulster; 19-26](reviews//2023-10-29-Ulster-Bulls)
+[2023-10-28 Sharks at Leinster; 13-34](reviews//2023-10-28-Leinster-Sharks)
 
 [2023-10-29 Munster at Benetton Treviso; 13-13](reviews//2023-10-29-BenettonTreviso-Munster)
 
 [2023-10-29 Cardiff Blues at Dragons; 16-9](reviews//2023-10-29-Dragons-CardiffBlues)
+
+[2023-10-29 Bulls at Ulster; 19-26](reviews//2023-10-29-Ulster-Bulls)

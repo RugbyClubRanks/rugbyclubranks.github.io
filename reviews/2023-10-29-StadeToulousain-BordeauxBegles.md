@@ -91,7 +91,7 @@ There were 13 large changes in win probability in this match
 |             47 | Clement Maynadier  |      60.22 |        2 |      52.97 | Guillaume Cramont      |             46 |
 |             47 | Carlu Sadie        |      34.71 |        3 |      62    | Owen Franks            |             62 |
 |             47 | Kane Douglas       |      48.84 |        4 |      43.72 | Joshua Brennan         |             46 |
-|             80 | Adam Coleman       |     119.36 |        5 |      65.13 | Piula Faasalele        |             80 |
+|             80 | Adam Coleman       |     119.32 |        5 |      65.13 | Piula Faasalele        |             80 |
 |             80 | Pierre Bochaton    |      64.06 |        6 |      37.75 | Alban Placines         |             80 |
 |             47 | Mahamadou Diaby    |      57.39 |        7 |      47.87 | Theo Ntamack           |             58 |
 |             59 | Tevita Tatafu      |      61.62 |        8 |      85.76 | Alexandre Roumat       |             80 |
@@ -103,11 +103,11 @@ There were 13 large changes in win probability in this match
 |             80 | Romain Buros       |      91.45 |       14 |      61.54 | Lucas Tauzin           |             46 |
 |             80 | Nans Ducuing       |      66.14 |       15 |     104.53 | Matthis Lebel          |             80 |
 |             33 | Lekso Kaulashvili  |      67.45 |       16 |      60.13 | David Ainu'u           |             22 |
-|             33 | Maxime Lamothe     |      50.86 |       17 |      87.59 | Peato Mauvaka          |             34 |
-|             33 | Sipili Falatea     |      49.43 |       18 |      49.39 | Joel Merkler           |             18 |
-|             33 | Cyril Cazeaux      |      78.1  |       19 |      33.96 | Richie Arnold          |             34 |
+|             33 | Maxime Lamothe     |      50.86 |       17 |      87.83 | Peato Mauvaka          |             34 |
+|             33 | Sipili Falatea     |      49.81 |       18 |      49.39 | Joel Merkler           |             18 |
+|             33 | Cyril Cazeaux      |      78.1  |       19 |      33.55 | Richie Arnold          |             34 |
 |             21 | Marko Gazzotti     |      52.8  |       20 |      47.46 | Mathis Castro Ferreira |             22 |
 |             33 | Pete Samu          |      81.35 |       21 |      12.34 | Baptiste Germain       |             18 |
-|              6 | Theo Nanette       |      14.26 |       22 |      39.49 | Pita Ahki              |             34 |
-|              6 | Zack Holmes        |      75.02 |       23 |      88.24 | Ange Capuozzo          |             34 |
+|              6 | Theo Nanette       |      14.26 |       22 |      39.36 | Pita Ahki              |             34 |
+|              6 | Zack Holmes        |      75.02 |       23 |      88.06 | Ange Capuozzo          |             34 |
 

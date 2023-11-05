@@ -40,8 +40,8 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Player Minutes: La Rochelle by 14.9
 
 
-La Rochelle by 10.1 on a neutral field
-## Prediction without Player Minutes: La Rochelle by 14.9
+La Rochelle by 10.2 on a neutral field
+## Prediction without Player Minutes: La Rochelle by 15.0
 
 
 La Rochelle by 10.2 on a neutral pitch
@@ -87,27 +87,27 @@ There were 11 large changes in win probability in this match
 
 |   Away Minutes | Away Player                |   Away elo |   Number |   Home elo | Home Player           |   Home Minutes |
 |---------------:|:---------------------------|-----------:|---------:|-----------:|:----------------------|---------------:|
-|             40 | Quentin Walcker            |      58.38 |        1 |      60.8  | Thierry Paiva         |             60 |
-|             52 | Gaetan Barlot              |      75.47 |        2 |      54.9  | Quentin Lespiaucq     |             80 |
-|             40 | Wilfrid Hounkpatin         |      57.2  |        3 |      25.27 | Georges-Henri Colombe |             40 |
-|             67 | Gauthier Maravat           |       9.1  |        4 |      74.1  | Thomas Lavault        |             71 |
-|             52 | Florent Vanverberghe       |      45.92 |        5 |      51.18 | Remi Picquette        |             80 |
-|             80 | Mathieu Babillot           |      54.13 |        6 |      69.62 | Ultan Dillane         |             80 |
-|             52 | Nick Champion de Crespigny |      49.52 |        7 |      40.45 | Judicael Cancoriet    |             80 |
-|             80 | Tyler Ardron               |      84.32 |        8 |      66.16 | Yoan Tanga            |             80 |
-|             52 | Jeremy Fernandez           |      12.59 |        9 |     119.54 | Tawera Kerr-Barlow    |             80 |
+|             40 | Quentin Walcker            |      58.38 |        1 |      60.79 | Thierry Paiva         |             60 |
+|             52 | Gaetan Barlot              |      75.47 |        2 |      54.89 | Quentin Lespiaucq     |             80 |
+|             40 | Wilfrid Hounkpatin         |      57.2  |        3 |      25.26 | Georges-Henri Colombe |             40 |
+|             67 | Gauthier Maravat           |       9.1  |        4 |      74.09 | Thomas Lavault        |             71 |
+|             52 | Florent Vanverberghe       |      45.92 |        5 |      51.17 | Remi Picquette        |             80 |
+|             80 | Mathieu Babillot           |      54.13 |        6 |      69.6  | Ultan Dillane         |             80 |
+|             52 | Nick Champion de Crespigny |      49.52 |        7 |      40.43 | Judicael Cancoriet    |             80 |
+|             80 | Tyler Ardron               |      84.32 |        8 |      67.15 | Yoan Tanga            |             80 |
+|             52 | Jeremy Fernandez           |      12.59 |        9 |     119.52 | Tawera Kerr-Barlow    |             80 |
 |             80 | Pierre Popelin             |      51.51 |       10 |      48.97 | Hugo Reus             |             68 |
-|             80 | Nathanael Hulleu           |      68.99 |       11 |     105.2  | Dillyn Leyds          |             80 |
-|             73 | Adrea Cocagi               |      57.83 |       12 |      73.04 | Jules Favre           |             80 |
-|             80 | Adrien Seguret             |      30.29 |       13 |     105.25 | Jack Nowell           |             80 |
-|             80 | Geoffrey Palis             |      84.21 |       14 |      95.66 | Teddy Thomas          |             80 |
-|             80 | Julien Dumora              |      62.7  |       15 |     123.13 | Brice Dulin           |             40 |
+|             80 | Nathanael Hulleu           |      68.99 |       11 |     105.18 | Dillyn Leyds          |             80 |
+|             73 | Adrea Cocagi               |      57.83 |       12 |      73.02 | Jules Favre           |             80 |
+|             80 | Adrien Seguret             |      30.29 |       13 |     105.24 | Jack Nowell           |             80 |
+|             80 | Geoffrey Palis             |      84.21 |       14 |      95.65 | Teddy Thomas          |             80 |
+|             80 | Julien Dumora              |      62.7  |       15 |     124.06 | Brice Dulin           |             40 |
 |             40 | Antoine Tichit             |      73.32 |       16 |      44.58 | Karl Sorin            |             20 |
-|             28 | Loris Zarantonello         |      41.73 |       17 |      39.72 | Aleksandre Kuntelia   |             40 |
-|             40 | Levan Chilachava           |      55.8  |       18 |      44.59 | Thomas Ployet         |              9 |
-|             13 | Abraham Papali'i           |      53.59 |       19 |      38.01 | Ihaia West            |             12 |
-|             28 | Leone Nakarawa             |      76.73 |       20 |      45.31 | Nathan Bollengier     |             40 |
-|             28 | Santiago Arata             |      50.83 |       21 |     nan    | nan                   |            nan |
+|             28 | Loris Zarantonello         |      41.73 |       17 |      39.71 | Aleksandre Kuntelia   |             40 |
+|             40 | Levan Chilachava           |      55.8  |       18 |      44.58 | Thomas Ployet         |              9 |
+|             13 | Abraham Papali'i           |      53.59 |       19 |      38    | Ihaia West            |             12 |
+|             28 | Leone Nakarawa             |      76.73 |       20 |      45.3  | Nathan Bollengier     |             40 |
+|             28 | Santiago Arata             |      51.58 |       21 |     nan    | nan                   |            nan |
 |             28 | Baptiste Delaporte         |      50.28 |       22 |     nan    | nan                   |            nan |
 |              7 | Louis Le Brun              |      47.86 |       23 |     nan    | nan                   |            nan |
 

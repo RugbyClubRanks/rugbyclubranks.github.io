@@ -37,11 +37,11 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Ospreys by 13.4
+## Prediction with Player Minutes: Ospreys by 13.3
 
 
-Ospreys by 9.2 on a neutral field
-## Prediction without Player Minutes: Ospreys by 13.4
+Ospreys by 9.1 on a neutral field
+## Prediction without Player Minutes: Ospreys by 13.3
 
 
 Ospreys by 9.1 on a neutral pitch
@@ -87,10 +87,10 @@ There were 11 large changes in win probability in this match
 
 |   Away Minutes | Away Player             |   Away elo |   Number |   Home elo | Home Player            |   Home Minutes |
 |---------------:|:------------------------|-----------:|---------:|-----------:|:-----------------------|---------------:|
-|             42 | Paolo Buonfiglio        |      39.49 |        1 |      49.5  | Garyn Phillips         |             32 |
-|             44 | Luca Bigi               |      40.73 |        2 |      22.49 | Ethan Lewis            |             62 |
+|             42 | Paolo Buonfiglio        |      39.73 |        1 |      49.5  | Garyn Phillips         |             32 |
+|             44 | Luca Bigi               |      41.02 |        2 |      22.49 | Ethan Lewis            |             62 |
 |             47 | Juan Manuel Pitinari    |      32.79 |        3 |      32.6  | Tom Botha              |             53 |
-|             65 | Dave Sisi               |       5.96 |        4 |      53.37 | Rhys Davies            |             80 |
+|             65 | Dave Sisi               |       6.02 |        4 |      53.37 | Rhys Davies            |             80 |
 |             80 | Andrea Zambonin         |      31.54 |        5 |      44.21 | Huw Sutton             |             57 |
 |             80 | Guido Volpi             |      47.93 |        6 |      41.51 | James Ratti            |             80 |
 |             80 | Giacomo Ferrari         |      39.44 |        7 |     117.16 | Justin Tipuric         |             80 |
@@ -100,13 +100,13 @@ There were 11 large changes in win probability in this match
 |             80 | Simone Gesi             |       6.32 |       11 |      81.56 | Matt Protheroe         |             36 |
 |             80 | Enrico Lucchin          |      41.71 |       12 |      81.16 | Owen Watkin            |             80 |
 |             80 | Franco Smith            |      35.99 |       13 |      48.92 | Dominic Morris         |             80 |
-|             51 | Pierre Bruno            |      25.09 |       14 |       0.31 | Luke Morgan            |             80 |
-|             80 | Lorenzo Pani            |      20.39 |       15 |      51.46 | Max Nagy               |             47 |
-|             38 | Luca Rizzoli            |      31.43 |       16 |      48.23 | Nicky Smith            |             48 |
+|             51 | Pierre Bruno            |      25.15 |       14 |       0.31 | Luke Morgan            |             80 |
+|             80 | Lorenzo Pani            |      20.87 |       15 |      51.46 | Max Nagy               |             47 |
+|             38 | Luca Rizzoli            |      31.43 |       16 |      46.01 | Nicky Smith            |             48 |
 |             36 | Marco Manfredi          |      13.71 |       17 |      53.9  | Keiran Williams        |             44 |
 |             33 | Ion Neculai             |      27.25 |       18 |      67.97 | Owen Williams          |             33 |
 |             29 | Scott Gregory           |      47.99 |       19 |      51.72 | Rhys Henry             |             27 |
-|             29 | Alessandro Fusco        |      27.43 |       20 |      35.93 | James Fender           |             23 |
+|             29 | Alessandro Fusco        |      27.84 |       20 |      35.93 | James Fender           |             23 |
 |             20 | Bautista Stavile Bravin |      41.03 |       21 |      46.65 | Lewis Lloyd            |             18 |
 |             15 | Dylan De Leeuw          |      50.8  |       22 |      46.65 | Luke Davies            |             18 |
 |              5 | Giovanni Montemauri     |       7.5  |       23 |     nan    | nan                    |            nan |

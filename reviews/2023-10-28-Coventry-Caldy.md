@@ -37,14 +37,14 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Coventry by 18.4
+## Prediction with Player Minutes: Coventry by 18.0
 
 
-Coventry by 15.2 on a neutral field
-## Prediction without Player Minutes: Coventry by 17.9
+Coventry by 14.8 on a neutral field
+## Prediction without Player Minutes: Coventry by 17.6
 
 
-Coventry by 14.7 on a neutral pitch
+Coventry by 14.3 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -92,7 +92,7 @@ There were 3 large changes in win probability in this match
 |             52 | Joe Sproston      |      22.1  |        3 |      46.65 | Eliot Salt         |             40 |
 |             80 | Josiah Dickinson  |      27.51 |        4 |      46.65 | Obinna Nkwocha     |             54 |
 |             52 | Martin Gerrard    |      39.23 |        5 |      48.55 | George Smith       |             80 |
-|             68 | Ewan Murphy       |      46.65 |        6 |      49.61 | Paddy Ryan         |             80 |
+|             68 | Ewan Murphy       |      46.65 |        6 |      40.83 | Paddy Ryan         |             80 |
 |             80 | Nyle Davidson     |      36.55 |        7 |      38.77 | Matt Kvesic        |             80 |
 |             80 | Sam Dickinson     |      48.67 |        8 |      50.34 | Jack Bartlett      |             48 |
 |             48 | Joseph Murray     |      40.89 |        9 |     141.39 | Will Chudley       |             60 |

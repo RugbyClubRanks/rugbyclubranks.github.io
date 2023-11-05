@@ -160,7 +160,7 @@ key: page-recents
 ## RFU Championship
 
 
-[2023](comp_files\RFU_Championship_2023) - Prediction Accuracy: 60.0% 
+[2023](comp_files\RFU_Championship_2023) - Prediction Accuracy: 58.3% 
 
 [2022](comp_files\RFU_Championship_2022) - Prediction Accuracy: 74.2% 
 

@@ -37,14 +37,14 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Cardiff Blues by 2.7
+## Prediction with Player Minutes: Cardiff Blues by 2.4
 
 
-Cardiff Blues by 6.9 on a neutral field
-## Prediction without Player Minutes: Cardiff Blues by 3.8
+Cardiff Blues by 6.7 on a neutral field
+## Prediction without Player Minutes: Cardiff Blues by 3.6
 
 
-Cardiff Blues by 8.1 on a neutral pitch
+Cardiff Blues by 7.8 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -87,19 +87,19 @@ There were 6 large changes in win probability in this match
 
 |   Away Minutes | Away Player        |   Away elo |   Number |   Home elo | Home Player              |   Home Minutes |
 |---------------:|:-------------------|-----------:|---------:|-----------:|:-------------------------|---------------:|
-|             53 | Corey Domachowski  |      64.11 |        1 |      58.01 | Rodrigo Martinez Manzano |             80 |
+|             53 | Corey Domachowski  |      60.21 |        1 |      58.01 | Rodrigo Martinez Manzano |             80 |
 |             78 | Liam Belcher       |      54.57 |        2 |      43.52 | Bradley Roberts          |             80 |
-|             62 | Keiron Assiratti   |      46.58 |        3 |      28.65 | Lloyd Fairbrother        |             59 |
+|             62 | Keiron Assiratti   |      42.1  |        3 |      28.65 | Lloyd Fairbrother        |             59 |
 |             80 | Shane Lewis-Hughes |      21.06 |        4 |       3.19 | Matthew Screech          |             80 |
-|             70 | Teddy Williams     |      56.35 |        5 |      40.82 | Ben Carter               |             80 |
+|             70 | Teddy Williams     |      56.35 |        5 |      38.13 | Ben Carter               |             80 |
 |             80 | Ellis Jenkins      |      48.75 |        6 |      42.36 | George Nott              |             80 |
 |             80 | Thomas Young       |      83.49 |        7 |      32.16 | Sean Lonsdale            |             18 |
 |             80 | Seb Davies         |      41.46 |        8 |      -6.72 | Harrison Keddie          |             25 |
-|             80 | Tomos Williams     |      77.68 |        9 |      33.04 | Dane Blacker             |             55 |
+|             80 | Tomos Williams     |      76.49 |        9 |      33.04 | Dane Blacker             |             55 |
 |             80 | Tinus de Beer      |      72.99 |       10 |      32.53 | Angus O'Brien            |             80 |
 |             80 | Theo Cabango       |      47.68 |       11 |      67.52 | Ashton Hewitt            |             80 |
 |             59 | Uilisi Halaholo    |      98.95 |       12 |      77.92 | Steffan Hughes           |             80 |
-|             80 | Mason Grady        |      72.69 |       13 |      72.27 | Sio Tomkinson            |             66 |
+|             80 | Mason Grady        |      71.66 |       13 |      72.27 | Sio Tomkinson            |             66 |
 |             80 | Aled Summerhill    |      14.49 |       14 |      17.94 | Jared Rosser             |             80 |
 |             80 | Cam Winnett        |      31.89 |       15 |      56.69 | Jordan Williams          |             70 |
 |             27 | Rhys Carré         |      34.79 |       16 |      35.83 | James Benjamin           |             62 |

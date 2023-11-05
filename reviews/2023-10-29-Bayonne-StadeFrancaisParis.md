@@ -89,7 +89,7 @@ There were 2 large changes in win probability in this match
 |---------------:|:------------------------|-----------:|---------:|-----------:|:------------------------|---------------:|
 |             62 | Sergo Abramishvili      |      63.56 |        1 |      44.55 | Swan Cormenier          |             51 |
 |             48 | Mickael Ivaldi          |      95.13 |        2 |      65.08 | Facundo Bosch           |             47 |
-|             62 | Paul Alo-Emile          |      71.32 |        3 |      37.85 | Tevita Tatafu           |             51 |
+|             62 | Paul Alo-Emile          |      71.41 |        3 |      37.85 | Tevita Tatafu           |             51 |
 |             80 | Paul Gabrillagues       |      74.77 |        4 |      80.29 | Arthur Iturria          |             80 |
 |             54 | JJ van der Mescht       |      77.84 |        5 |      35.63 | Thomas Ceyte            |             57 |
 |             80 | Mathieu Hirigoyen       |      38.22 |        6 |      79.55 | Remi Bourdeau           |             80 |
@@ -106,7 +106,7 @@ There were 2 large changes in win probability in this match
 |             26 | Baptiste Pesenti        |      72.99 |       17 |      23.88 | Pascal Cotet            |             29 |
 |             32 | Lucas Peyresblanques    |      45.22 |       18 |      98.48 | Denis Marchois          |             29 |
 |             32 | Ryan Chapuis            |      23.58 |       19 |      58.48 | Guillaume Rouet Piffard |             26 |
-|             30 | Hugo Zabalza            |      36.66 |       20 |      72.99 | Sireli Maqala           |             23 |
+|             30 | Hugo Zabalza            |      36.66 |       20 |      72.94 | Sireli Maqala           |             23 |
 |             23 | Pierre-Henri Azagoh     |      47.42 |       21 |       5.62 | Konstantin Mikautadze   |             23 |
 |             18 | Moses Alo-Emile         |      59.11 |       22 |      51.82 | Quentin Bethune         |             29 |
 |             18 | Vasil Kakovin           |      41.16 |       23 |     nan    | nan                     |            nan |
