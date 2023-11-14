@@ -1,0 +1,154 @@
+---  
+title: "International Test Match 2023 Status"  
+date: 2023-11-13 6:00:00 -0500  
+categories: model review projection  
+layout: article  
+aside:  
+    toc: true  
+---
+# Current Team Rankings
+
+
+![Club Rankings](plots/rankings_International-Test-Match-2023.png)
+# Standings
+
+## Current Standings
+
+
+| Club                     |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
+|:-------------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
+| Latvia                   |        6 |      4 |                   56 |                     0 |                nan |                   16 |
+| Denmark                  |        3 |      2 |                   36 |                     1 |                nan |                    9 |
+| Hong Kong                |        2 |      2 |                   99 |                     0 |                nan |                    8 |
+| United States of America |        2 |      2 |                   90 |                     0 |                nan |                    8 |
+| Luxembourg               |        2 |      2 |                   62 |                     0 |                nan |                    8 |
+| Spain                    |        2 |      2 |                   44 |                     0 |                nan |                    8 |
+| Moldova                  |        2 |      2 |                   39 |                     0 |                nan |                    8 |
+| Switzerland              |        2 |      2 |                   37 |                     0 |                nan |                    8 |
+| Bulgaria                 |        2 |      2 |                   36 |                     0 |                nan |                    8 |
+| Andorra                  |        4 |      2 |                   12 |                     0 |                nan |                    8 |
+| Finland                  |        3 |      2 |                  -17 |                     0 |                nan |                    8 |
+| Slovenia                 |        4 |      2 |                  -46 |                     0 |                nan |                    8 |
+| Hungary                  |        3 |      1 |                   30 |                     1 |                nan |                    5 |
+| Botswana                 |        1 |      1 |                  108 |                     0 |                nan |                    4 |
+| Israel                   |        1 |      1 |                   43 |                     0 |                nan |                    4 |
+| Czech Republic           |        1 |      1 |                   36 |                     0 |                nan |                    4 |
+| Lebanon                  |        2 |      1 |                   14 |                     0 |                nan |                    4 |
+| Trinidad and Tobago      |        1 |      1 |                    8 |                     0 |                nan |                    4 |
+| Serbia                   |        2 |      1 |                    8 |                     0 |                nan |                    4 |
+| Malta                    |        1 |      1 |                    5 |                     0 |                nan |                    4 |
+| Korea Republic           |        2 |      1 |                    4 |                     0 |                nan |                    4 |
+| Uruguay                  |        1 |      1 |                    1 |                     0 |                nan |                    4 |
+| Ukraine                  |        2 |      1 |                   -4 |                     0 |                nan |                    4 |
+| Croatia                  |        2 |      1 |                   -8 |                     0 |                nan |                    4 |
+| Jordan                   |        2 |      1 |                  -14 |                     0 |                nan |                    4 |
+| Sweden                   |        2 |      1 |                  -20 |                     0 |                nan |                    4 |
+| Lithuania                |        2 |      0 |                   -5 |                     2 |                nan |                    2 |
+| Chile                    |        1 |      0 |                   -1 |                     1 |                nan |                    1 |
+| Cyprus                   |        1 |      0 |                   -5 |                     1 |                nan |                    1 |
+| Bosnia and Herzegovina   |        3 |      0 |                  -82 |                     1 |                nan |                    1 |
+| Barbados                 |        1 |      0 |                   -8 |                     0 |                nan |                    0 |
+| Turkey                   |        2 |      0 |                  -35 |                     0 |                nan |                    0 |
+| Canada                   |        2 |      0 |                  -44 |                     0 |                nan |                    0 |
+| Austria                  |        2 |      0 |                  -56 |                     0 |                nan |                    0 |
+| Brazil                   |        2 |      0 |                  -90 |                     0 |                nan |                    0 |
+| Malaysia                 |        2 |      0 |                 -103 |                     0 |                nan |                    0 |
+| Eswatini                 |        1 |      0 |                 -108 |                     0 |                nan |                    0 |
+| Norway                   |        4 |      0 |                 -122 |                     0 |                nan |                    0 |
+
+
+
+## Projected Remaining Table
+
+
+| Club      |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
+|:----------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
+| Hong Kong |                   2 |    1.9 |                 39.1 |                   0   |                1.9 |                  9.7 |
+| TBC       |                   2 |    1   |                  0   |                   0.7 |                0.9 |                  5.6 |
+| Germany   |                   2 |    0.1 |                -39.1 |                   0.2 |                0.2 |                  0.5 |
+
+
+
+## Projected Total Table
+
+
+| Club                     |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
+|:-------------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
+| Hong Kong                |               4 |    3.9 |                138.1 |                   0   |                1.9 |                 17.7 |
+| Latvia                   |               6 |    4   |                 56   |                   0   |                0   |                 16   |
+| Denmark                  |               3 |    2   |                 36   |                   1   |                0   |                  9   |
+| United States of America |               2 |    2   |                 90   |                   0   |                0   |                  8   |
+| Luxembourg               |               2 |    2   |                 62   |                   0   |                0   |                  8   |
+| Spain                    |               2 |    2   |                 44   |                   0   |                0   |                  8   |
+| Moldova                  |               2 |    2   |                 39   |                   0   |                0   |                  8   |
+| Switzerland              |               2 |    2   |                 37   |                   0   |                0   |                  8   |
+| Bulgaria                 |               2 |    2   |                 36   |                   0   |                0   |                  8   |
+| Andorra                  |               4 |    2   |                 12   |                   0   |                0   |                  8   |
+| Finland                  |               3 |    2   |                -17   |                   0   |                0   |                  8   |
+| Slovenia                 |               4 |    2   |                -46   |                   0   |                0   |                  8   |
+| TBC                      |               2 |    1   |                  0   |                   0.7 |                0.9 |                  5.6 |
+| Hungary                  |               3 |    1   |                 30   |                   1   |                0   |                  5   |
+| Botswana                 |               1 |    1   |                108   |                   0   |                0   |                  4   |
+| Israel                   |               1 |    1   |                 43   |                   0   |                0   |                  4   |
+| Czech Republic           |               1 |    1   |                 36   |                   0   |                0   |                  4   |
+| Lebanon                  |               2 |    1   |                 14   |                   0   |                0   |                  4   |
+| Serbia                   |               2 |    1   |                  8   |                   0   |                0   |                  4   |
+| Trinidad and Tobago      |               1 |    1   |                  8   |                   0   |                0   |                  4   |
+| Malta                    |               1 |    1   |                  5   |                   0   |                0   |                  4   |
+| Korea Republic           |               2 |    1   |                  4   |                   0   |                0   |                  4   |
+| Uruguay                  |               1 |    1   |                  1   |                   0   |                0   |                  4   |
+| Ukraine                  |               2 |    1   |                 -4   |                   0   |                0   |                  4   |
+| Croatia                  |               2 |    1   |                 -8   |                   0   |                0   |                  4   |
+| Jordan                   |               2 |    1   |                -14   |                   0   |                0   |                  4   |
+| Sweden                   |               2 |    1   |                -20   |                   0   |                0   |                  4   |
+| Lithuania                |               2 |    0   |                 -5   |                   2   |                0   |                  2   |
+| Chile                    |               1 |    0   |                 -1   |                   1   |                0   |                  1   |
+| Cyprus                   |               1 |    0   |                 -5   |                   1   |                0   |                  1   |
+| Bosnia and Herzegovina   |               3 |    0   |                -82   |                   1   |                0   |                  1   |
+| Germany                  |               2 |    0.1 |                -39.1 |                   0.2 |                0.2 |                  0.5 |
+| Barbados                 |               1 |    0   |                 -8   |                   0   |                0   |                  0   |
+| Turkey                   |               2 |    0   |                -35   |                   0   |                0   |                  0   |
+| Canada                   |               2 |    0   |                -44   |                   0   |                0   |                  0   |
+| Austria                  |               2 |    0   |                -56   |                   0   |                0   |                  0   |
+| Brazil                   |               2 |    0   |                -90   |                   0   |                0   |                  0   |
+| Malaysia                 |               2 |    0   |               -103   |                   0   |                0   |                  0   |
+| Eswatini                 |               1 |    0   |               -108   |                   0   |                0   |                  0   |
+| Norway                   |               4 |    0   |               -122   |                   0   |                0   |                  0   |
+
+
+
+# Completed Match Review
+
+
+| Model | Percent Correct Predictions | Spread Error |
+| ------ | ------ | ------ |
+| Club Level | 73.0% | 22.3 |
+| Player Level: Lineup | nan% | nan |
+| Player Level: Minutes | nan% | nan |
+
+
+# Future Predictions
+
+## Week 7
+
+### Hong Kong V Germany on 2023/11/14
+
+
+Average Margin: Hong Kong by 19.6
+
+<p float="left">
+<img src="plots/performances_2023-11-14-HongKong_V_Germany.png" width="32%" />
+<img src="plots/resultbar_2023-11-14-HongKong_V_Germany.png" width="32%" />
+<img src="plots/spreads_2023-11-14-HongKong_V_Germany.png" width="32%" />
+</p>
+
+### Hong Kong V Germany on 2023/11/18
+
+
+Average Margin: Hong Kong by 20.0
+
+<p float="left">
+<img src="plots/performances_2023-11-18-HongKong_V_Germany.png" width="32%" />
+<img src="plots/resultbar_2023-11-18-HongKong_V_Germany.png" width="32%" />
+<img src="plots/spreads_2023-11-18-HongKong_V_Germany.png" width="32%" />
+</p>
