@@ -10,7 +10,7 @@ key: page-recents
 
 [2024](comp_files\International_Test_Match_2024)
 
-[2023](comp_files\International_Test_Match_2023) - Prediction Accuracy: 73.0% 
+[2023](comp_files\International_Test_Match_2023) - Prediction Accuracy: 74.4% 
 
 [2022](comp_files\International_Test_Match_2022) - Prediction Accuracy: 70.6% 
 

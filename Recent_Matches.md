@@ -24,17 +24,17 @@ Last Round Error: 19.25 points per match
 
 [In depth model review and projections for International Test Match 2023](comp_files/International_Test_Match_2023)
 
-Competition Accuracy: 30 of 40 (75.0%)
+Competition Accuracy: 32 of 42 (76.19%)
 
-Competition Error: 21.82 points per match
+Competition Error: 21.04 points per match
 
-Last Round Accuracy: 15 of 19 (78.95%)
+Last Round Accuracy: 17 of 21 (80.95%)
 
-Last Round Error: 20.44 points per match
-
-[2023-11-04 Latvia at Andorra](reviews//2023-11-04-Andorra-Latvia)
+Last Round Error: 19.01 points per match
 
 [2023-11-11 Brazil at United States of America](reviews//2023-11-11-UnitedStatesofAmerica-Brazil)
+
+[2023-11-14 Germany at Hong Kong](reviews//2023-11-14-HongKong-Germany)
 ## Rugby Europe Trophy
 
 
@@ -48,27 +48,7 @@ Last Round Accuracy: 2 of 3 (66.67%)
 
 Last Round Error: 21.46 points per match
 
-[2023-11-04 Croatia at Czech Republic](reviews//2023-11-04-CzechRepublic-Croatia)
-
-[2023-11-04 Sweden at Switzerland](reviews//2023-11-04-Switzerland-Sweden)
-
-[2023-11-04 Lithuania at Ukraine](reviews//2023-11-04-Ukraine-Lithuania)
-
 [2023-11-11 Croatia at Ukraine](reviews//2023-11-11-Ukraine-Croatia)
-## WXV 1
-
-
-[In depth model review and projections for WXV 1 2023](comp_files/WXV_1_2023)
-
-Competition Accuracy: 7 of 9 (77.78%)
-
-Competition Error: 14.22 points per match
-
-Last Round Accuracy: 2 of 3 (66.67%)
-
-Last Round Error: 10.46 points per match
-
-[2023-11-04 Canada Women at France Women](reviews//2023-11-04-FranceWomen-CanadaWomen)
 # Top Flight Leagues
 
 ## Gallagher Premiership
@@ -83,10 +63,6 @@ Competition Error: 12.32 points per match
 Last Round Accuracy: 2 of 6 (33.33%)
 
 Last Round Error: 16.45 points per match
-
-[2023-11-04 Newcastle Falcons at Harlequins; 12-40](reviews//2023-11-04-Harlequins-NewcastleFalcons)
-
-[2023-11-04 Bath Rugby at Northampton Saints; 18-24](reviews//2023-11-04-NorthamptonSaints-BathRugby)
 
 [2023-11-05 Bristol Rugby at Exeter Chiefs; 20-29](reviews//2023-11-05-ExeterChiefs-BristolRugby)
 
@@ -110,10 +86,6 @@ Last Round Accuracy: 5 of 6 (83.33%)
 
 Last Round Error: 15.57 points per match
 
-[2023-11-04 Nottingham at Doncaster; 19-30](reviews//2023-11-04-Doncaster-Nottingham)
-
-[2023-11-04 Cambridge at Ealing Trailfinders; 7-64](reviews//2023-11-04-EalingTrailfinders-Cambridge)
-
 [2023-11-11 Hartpury College at Bedford; 12-53](reviews//2023-11-11-Bedford-HartpuryCollege)
 ## Rugby Europe Super Cup
 
@@ -127,12 +99,6 @@ Competition Error: 33.35 points per match
 Last Round Accuracy: 1 of 4 (25.0%)
 
 Last Round Error: 33.35 points per match
-
-[2023-11-04 Tel-Aviv Heat at Lusitanos XV](reviews//2023-11-04-LusitanosXV-Tel-AvivHeat)
-
-[2023-11-04 Castilla y Leon Iberians at Black Lion](reviews//2023-11-04-BlackLion-CastillayLeonIberians)
-
-[2023-11-04 Delta at Brussels Devils](reviews//2023-11-04-BrusselsDevils-Delta)
 
 [2023-11-05 Bohemia Rugby Warriors at Romanian Wolves](reviews//2023-11-05-RomanianWolves-BohemiaRugbyWarriors)
 
@@ -156,12 +122,6 @@ Last Round Accuracy: 5 of 7 (71.43%)
 
 Last Round Error: 9.01 points per match
 
-[2023-11-04 La Rochelle at Oyonnax; 17-19](reviews//2023-11-04-Oyonnax-LaRochelle)
-
-[2023-11-04 Lyon at Racing 92; 20-22](reviews//2023-11-04-Racing92-Lyon)
-
-[2023-11-04 Castres Olympique at Stade Francais Paris; 16-39](reviews//2023-11-04-StadeFrancaisParis-CastresOlympique)
-
 [2023-11-05 Stade Toulousain at Pau; 9-13](reviews//2023-11-05-Pau-StadeToulousain)
 
 [2023-11-11 Bayonne at La Rochelle; 15-18](reviews//2023-11-11-LaRochelle-Bayonne)
@@ -184,23 +144,15 @@ Last Round Accuracy: 5 of 8 (62.5%)
 
 Last Round Error: 5.33 points per match
 
-[2023-11-04 Ulster at Connacht; 20-22](reviews//2023-11-04-Connacht-Ulster)
-
-[2023-11-04 Bulls at Zebre; 54-29](reviews//2023-11-04-Zebre-Bulls)
-
-[2023-11-04 Edinburgh at Leinster; 27-36](reviews//2023-11-04-Leinster-Edinburgh)
-
-[2023-11-04 Dragons at Munster; 14-45](reviews//2023-11-04-Munster-Dragons)
-
 [2023-11-05 Lions at Benetton Treviso; 10-15](reviews//2023-11-05-BenettonTreviso-Lions)
 
 [2023-11-10 Bulls at Cardiff Blues; 18-12](reviews//2023-11-10-CardiffBlues-Bulls)
 
 [2023-11-10 Sharks at Zebre; 10-12](reviews//2023-11-10-Zebre-Sharks)
 
-[2023-11-11 Stormers at Benetton Treviso; 17-20](reviews//2023-11-11-BenettonTreviso-Stormers)
-
 [2023-11-11 Glasgow Warriors at Ospreys; 31-23](reviews//2023-11-11-Ospreys-GlasgowWarriors)
+
+[2023-11-11 Stormers at Benetton Treviso; 17-20](reviews//2023-11-11-BenettonTreviso-Stormers)
 
 [2023-11-11 Connacht at Edinburgh; 22-25](reviews//2023-11-11-Edinburgh-Connacht)
 
@@ -219,14 +171,6 @@ Competition Error: 8.47 points per match
 Last Round Accuracy: 6 of 7 (85.71%)
 
 Last Round Error: 8.71 points per match
-
-[2023-11-04 Carcassonne at Périgueux; 5-17](reviews//2023-11-04-Périgueux-Carcassonne)
-
-[2023-11-04 Narbonne at Tarbes; 20-25](reviews//2023-11-04-Tarbes-Narbonne)
-
-[2023-11-04 Chambery at Bourgoin-Jallieu; 14-13](reviews//2023-11-04-Bourgoin-Jallieu-Chambery)
-
-[2023-11-04 Massy at Nice; 9-11](reviews//2023-11-04-Nice-Massy)
 
 [2023-11-10 Narbonne at US Bressane; 17-16](reviews//2023-11-10-USBressane-Narbonne)
 
