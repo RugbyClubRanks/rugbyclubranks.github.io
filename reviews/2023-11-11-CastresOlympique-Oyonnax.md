@@ -87,27 +87,27 @@ There were 7 large changes in win probability in this match
 
 |   Away Minutes | Away Player        |   Away elo |   Number |   Home elo | Home Player                |   Home Minutes |
 |---------------:|:-------------------|-----------:|---------:|-----------:|:---------------------------|---------------:|
-|             45 | Antoine Abraham    |      48.22 |        1 |      76.61 | Antoine Tichit             |             47 |
-|             54 | Benjamin Geledan   |      33.85 |        2 |      44.05 | Loris Zarantonello         |             57 |
-|             54 | Ali Oz             |      39.11 |        3 |      59.13 | Levan Chilachava           |             47 |
-|             80 | Victor Lebas       |      24.98 |        4 |      14.6  | Gauthier Maravat           |             41 |
-|             57 | Hugo Fabregue      |      52.35 |        5 |      70.53 | Tom Staniforth             |             80 |
-|             80 | Kevin Lebreton     |      45.64 |        6 |      60.66 | Mathieu Babillot           |             68 |
-|             80 | Kevin Kornath      |      27.92 |        7 |      53.83 | Nick Champion de Crespigny |             41 |
-|             45 | Filimo Taofifenua  |      69.72 |        8 |      90.79 | Tyler Ardron               |             80 |
-|             62 | Charlie Cassang    |      75.39 |        9 |      52.82 | Santiago Arata             |             62 |
-|             80 | Jules Soulan       |      68.11 |       10 |      58.02 | Pierre Popelin             |             80 |
-|             80 | Daniel Ikpefan     |      59.62 |       11 |      75.51 | Nathanael Hulleu           |             80 |
-|             80 | Lucas Mensa        |      82.67 |       12 |      63.74 | Adrea Cocagi               |             80 |
-|             53 | Chris Farrell      |      28.45 |       13 |      36.77 | Adrien Seguret             |             80 |
-|             47 | Joe Ravouvou       |      66.82 |       14 |      53.59 | Josaia Raisuqe             |             80 |
-|             80 | Justin Bouraux     |      39.64 |       15 |      69.17 | Julien Dumora              |             67 |
-|             27 | Pedro Bettencourt  |      15.15 |       16 |      54.67 | Abraham Papali'i           |             39 |
-|             35 | Loic Godener       |      30.4  |       17 |      79.02 | Leone Nakarawa             |             39 |
-|             35 | Rory Sutherland    |      49.29 |       18 |      60.47 | Wilfrid Hounkpatin         |             33 |
-|             33 | Maxime Salles      |      51.79 |       19 |      51.06 | Wayan de Benedittis        |             33 |
-|             26 | Manu Leiataua      |      16.54 |       20 |      16.83 | Jeremy Fernandez           |             18 |
-|             23 | Leva Fifita        |       7.62 |       21 |      30.46 | Pierre Colonna             |             23 |
+|             45 | Antoine Abraham    |      48.11 |        1 |      76.56 | Antoine Tichit             |             47 |
+|             54 | Benjamin Geledan   |      33.9  |        2 |      44.08 | Loris Zarantonello         |             57 |
+|             54 | Ali Oz             |      39.09 |        3 |      60.5  | Levan Chilachava           |             47 |
+|             80 | Victor Lebas       |      24.97 |        4 |      14.7  | Gauthier Maravat           |             41 |
+|             57 | Hugo Fabregue      |      52.37 |        5 |      70.59 | Tom Staniforth             |             80 |
+|             80 | Kevin Lebreton     |      45.61 |        6 |      60.76 | Mathieu Babillot           |             68 |
+|             80 | Kevin Kornath      |      27.78 |        7 |      54.07 | Nick Champion de Crespigny |             41 |
+|             45 | Filimo Taofifenua  |      69.69 |        8 |      90.33 | Tyler Ardron               |             80 |
+|             62 | Charlie Cassang    |      76.13 |        9 |      52.72 | Santiago Arata             |             62 |
+|             80 | Jules Soulan       |      68.13 |       10 |      58.17 | Pierre Popelin             |             80 |
+|             80 | Daniel Ikpefan     |      60.46 |       11 |      75.85 | Nathanael Hulleu           |             80 |
+|             80 | Lucas Mensa        |      82.63 |       12 |      63.54 | Adrea Cocagi               |             80 |
+|             53 | Chris Farrell      |      28.99 |       13 |      37.08 | Adrien Seguret             |             80 |
+|             47 | Joe Ravouvou       |      66.74 |       14 |      53.55 | Josaia Raisuqe             |             80 |
+|             80 | Justin Bouraux     |      39.56 |       15 |      68.91 | Julien Dumora              |             67 |
+|             27 | Pedro Bettencourt  |      15.33 |       16 |      54.24 | Abraham Papali'i           |             39 |
+|             35 | Loic Godener       |      30.12 |       17 |      77.46 | Leone Nakarawa             |             39 |
+|             35 | Rory Sutherland    |      48.43 |       18 |      60.68 | Wilfrid Hounkpatin         |             33 |
+|             33 | Maxime Salles      |      51.8  |       19 |      50.96 | Wayan de Benedittis        |             33 |
+|             26 | Manu Leiataua      |      15.19 |       20 |      16.65 | Jeremy Fernandez           |             18 |
+|             23 | Leva Fifita        |       7.22 |       21 |      30.5  | Pierre Colonna             |             23 |
 |             18 | Ilan El Khattabi   |      36.45 |       22 |      52.58 | Baptiste Delaporte         |             12 |
-|             26 | Christopher Vaotoa |      36.35 |       23 |      39.55 | Théo Chabouni              |             13 |
+|             26 | Christopher Vaotoa |      36.36 |       23 |      39.55 | Théo Chabouni              |             13 |
 

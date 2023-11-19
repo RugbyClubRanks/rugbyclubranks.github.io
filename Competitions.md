@@ -180,7 +180,7 @@ key: page-recents
 ## Rugby Europe Super Cup
 
 
-[2023](comp_files\Rugby_Europe_Super_Cup_2023) - Prediction Accuracy: 50.0% 
+[2023](comp_files\Rugby_Europe_Super_Cup_2023) - Prediction Accuracy: 44.4% 
 
 [2022](comp_files\Rugby_Europe_Super_Cup_2022) - Prediction Accuracy: 66.7% 
 

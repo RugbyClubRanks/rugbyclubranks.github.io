@@ -87,27 +87,27 @@ There were 9 large changes in win probability in this match
 
 |   Away Minutes | Away Player            |   Away elo |   Number |   Home elo | Home Player               |   Home Minutes |
 |---------------:|:-----------------------|-----------:|---------:|-----------:|:--------------------------|---------------:|
-|             50 | Sylvain Abadie         |      34.61 |        1 |      41.11 | Vazha Kapanadze           |             41 |
-|             50 | Mehdi Boundjema        |      58.47 |        2 |      47.94 | Clement Jullien           |             41 |
-|             50 | John Roy Jenkinson     |      63.73 |        3 |      22.03 | Atonio Ulutuipalelei      |             60 |
-|             80 | Marius Antonescu       |      53.86 |        4 |      21.46 | Louis Bruinsma            |             80 |
-|             80 | Dennis Visser          |      35.08 |        5 |      30.47 | Josh Peters               |             80 |
-|             50 | Luke Nakobukobua       |      68.97 |        6 |      42.71 | Nicolas Tachat            |             65 |
-|             80 | Baptiste Abescat-Leroy |      44.54 |        7 |      35.74 | Loic Baradel              |             80 |
-|             80 | Charles Malet          |      21.52 |        8 |      51.42 | Joseph Penitito           |             61 |
-|             50 | Pierrick Nova          |      50.19 |        9 |      40.09 | Jeremy Valencot           |             61 |
-|             73 | Gilles Bosch           |       8.1  |       10 |      50.67 | Fred Zeilinga             |             67 |
-|             55 | Clément Clavières      |      65.1  |       11 |      27.38 | Élie De Fleurian          |             80 |
-|             80 | Peter Betham           |     117.22 |       12 |      -0.32 | Parataiso Silafai-Lea'ana |             60 |
-|             80 | Pierre Nueno           |      54.78 |       13 |      17.92 | Alexandre Badet           |             80 |
-|             80 | Pierre-Hugo Ducom      |      41.7  |       14 |      26.1  | Thibaut Perrette          |             80 |
-|             80 | James Kane             |      57.46 |       15 |      21.78 | Christian Lacombe         |             80 |
-|             30 | Théo Castinel          |      54.17 |       16 |      32.58 | Quentin Drancourt         |             39 |
-|             30 | Gabriel Atlan          |      47.44 |       17 |      33.62 | Louis Dasalmartini        |             39 |
-|             30 | Levi Tikoipau          |      50.12 |       18 |      28.22 | Erich de Jager            |             20 |
-|             30 | Thibault Clauzade      |      57.52 |       19 |      36.81 | Pierre Reynaud            |             15 |
-|             30 | Josh Valentine         |      80.72 |       20 |      47.02 | Nail Ait Naceur           |             19 |
-|              7 | Tom Chauvet            |      48.95 |       21 |      -8.15 | Nicolas Faure             |             19 |
-|             25 | Étienne Ducom          |      38.54 |       22 |      47.74 | Benjamin Doy              |             13 |
-|            nan | nan                    |     nan    |       23 |      28.43 | Maile Mamao               |             20 |
+|             50 | Sylvain Abadie         |      34.65 |        1 |      41.33 | Vazha Kapanadze           |             41 |
+|             50 | Mehdi Boundjema        |      58.58 |        2 |      48.09 | Clement Jullien           |             41 |
+|             50 | John Roy Jenkinson     |      63.99 |        3 |      21.99 | Atonio Ulutuipalelei      |             60 |
+|             80 | Marius Antonescu       |      53.87 |        4 |      21.54 | Louis Bruinsma            |             80 |
+|             80 | Dennis Visser          |      34.98 |        5 |      30.56 | Josh Peters               |             80 |
+|             50 | Luke Nakobukobua       |      68.93 |        6 |      42.54 | Nicolas Tachat            |             65 |
+|             80 | Baptiste Abescat-Leroy |      44.39 |        7 |      35.97 | Loic Baradel              |             80 |
+|             80 | Charles Malet          |      21.27 |        8 |      51.48 | Joseph Penitito           |             61 |
+|             50 | Pierrick Nova          |      50.14 |        9 |      40.26 | Jeremy Valencot           |             61 |
+|             73 | Gilles Bosch           |       8.65 |       10 |      52.1  | Fred Zeilinga             |             67 |
+|             55 | Clément Clavières      |      64.98 |       11 |      27.5  | Élie De Fleurian          |             80 |
+|             80 | Peter Betham           |     118.6  |       12 |      -0.05 | Parataiso Silafai-Lea'ana |             60 |
+|             80 | Pierre Nueno           |      54.61 |       13 |      17.93 | Alexandre Badet           |             80 |
+|             80 | Pierre-Hugo Ducom      |      41.66 |       14 |      26.06 | Thibaut Perrette          |             80 |
+|             80 | James Kane             |      57.64 |       15 |      21.9  | Christian Lacombe         |             80 |
+|             30 | Théo Castinel          |      54.06 |       16 |      32.59 | Quentin Drancourt         |             39 |
+|             30 | Gabriel Atlan          |      47.37 |       17 |      33.61 | Louis Dasalmartini        |             39 |
+|             30 | Levi Tikoipau          |      49.97 |       18 |      22.96 | Erich de Jager            |             20 |
+|             30 | Thibault Clauzade      |      57.37 |       19 |      36.98 | Pierre Reynaud            |             15 |
+|             30 | Josh Valentine         |      80.68 |       20 |      47    | Nail Ait Naceur           |             19 |
+|              7 | Tom Chauvet            |      48.87 |       21 |      -8    | Nicolas Faure             |             19 |
+|             25 | Étienne Ducom          |      38.55 |       22 |      47.88 | Benjamin Doy              |             13 |
+|            nan | nan                    |     nan    |       23 |      28.56 | Maile Mamao               |             20 |
 

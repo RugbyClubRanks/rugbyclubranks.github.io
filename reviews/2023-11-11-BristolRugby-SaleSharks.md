@@ -87,27 +87,27 @@ There were 10 large changes in win probability in this match
 
 |   Away Minutes | Away Player       |   Away elo |   Number |   Home elo | Home Player                 |   Home Minutes |
 |---------------:|:------------------|-----------:|---------:|-----------:|:----------------------------|---------------:|
-|             53 | Bevan Rodd        |      63.17 |        1 |      60.78 | Jake Woolmore               |             65 |
-|             48 | Agustin Creevy    |      90.18 |        2 |      47.54 | Gabriel Oghre               |             65 |
-|             53 | Nic Schonert      |      24.17 |        3 |      63.28 | Kyle Sinckler               |             65 |
-|             80 | Cobus Wiese       |      65.32 |        4 |      65.16 | Josh Caulfield              |             62 |
-|             53 | Josh Beaumont     |      57.86 |        5 |      57.4  | Joe Batley                  |             80 |
-|             80 | Ernst van Rhyn    |      75.11 |        6 |      48.65 | Magnus Bradbury             |             80 |
-|             68 | Ben Curry         |      45.43 |        7 |      69.51 | Harry Thacker               |             80 |
-|             80 | Daniel du Preez   |      78.35 |        8 |      59.66 | Fitz Harding                |             30 |
-|             80 | Gus Warr          |      35.65 |        9 |      73.35 | Harry Randall               |             67 |
-|             80 | George Ford       |      95.09 |       10 |      73.36 | Callum Sheedy               |             67 |
-|             80 | Arron Reed        |      59.04 |       11 |      66.93 | Richard Lane                |             80 |
-|             80 | Sam Bedlow        |      60.11 |       12 |      70.48 | Benhard Janse van Rensburg  |             80 |
-|             50 | Robert du Preez   |      50.79 |       13 |      97.19 | Virimi Vakatawa             |             63 |
-|             80 | Tom Roebuck       |      48.28 |       14 |      52.38 | Noah Heward                 |             80 |
-|             80 | Sam James         |      82.01 |       15 |      52.24 | Max Malins                  |             80 |
-|             27 | Simon McIntyre    |      74.29 |       16 |      76.63 | Samuel Alexander Grahamslaw |             15 |
-|             32 | Luke Cowan-Dickie |      71.78 |       17 |      35.52 | Will Capon                  |             15 |
-|             27 | James Harper      |      20.5  |       18 |      52.58 | George Kloska               |             15 |
-|             27 | Ben Bamber        |      44.61 |       19 |      50.91 | Daniel Thomas               |             18 |
-|             12 | Sam Dugdale       |      38.17 |       20 |      61.55 | James Dun                   |             50 |
-|             30 | Joe Carpenter     |      32.19 |       21 |      76.98 | Kieran Marmion              |             13 |
-|            nan | nan               |     nan    |       22 |      36.63 | James Williams              |             13 |
-|            nan | nan               |     nan    |       23 |      25.13 | Piers O'Conor               |             17 |
+|             53 | Bevan Rodd        |      63.54 |        1 |      61.01 | Jake Woolmore               |             65 |
+|             48 | Agustin Creevy    |      89.25 |        2 |      47.45 | Gabriel Oghre               |             65 |
+|             53 | Nic Schonert      |      24.5  |        3 |      62.88 | Kyle Sinckler               |             65 |
+|             80 | Cobus Wiese       |      65.26 |        4 |      65.04 | Josh Caulfield              |             62 |
+|             53 | Josh Beaumont     |      58.48 |        5 |      57.53 | Joe Batley                  |             80 |
+|             80 | Ernst van Rhyn    |      73.86 |        6 |      49.86 | Magnus Bradbury             |             80 |
+|             68 | Ben Curry         |      45.51 |        7 |      69.8  | Harry Thacker               |             80 |
+|             80 | Daniel du Preez   |      78.69 |        8 |      59.87 | Fitz Harding                |             30 |
+|             80 | Gus Warr          |      36.08 |        9 |      73.47 | Harry Randall               |             67 |
+|             80 | George Ford       |      92.79 |       10 |      73.38 | Callum Sheedy               |             67 |
+|             80 | Arron Reed        |      59.96 |       11 |      67.04 | Richard Lane                |             80 |
+|             80 | Sam Bedlow        |      60.09 |       12 |      70.03 | Benhard Janse van Rensburg  |             80 |
+|             50 | Robert du Preez   |      51.46 |       13 |      96.36 | Virimi Vakatawa             |             63 |
+|             80 | Tom Roebuck       |      48.78 |       14 |      52.54 | Noah Heward                 |             80 |
+|             80 | Sam James         |      81.58 |       15 |      52.27 | Max Malins                  |             80 |
+|             27 | Simon McIntyre    |      75.19 |       16 |      76.64 | Samuel Alexander Grahamslaw |             15 |
+|             32 | Luke Cowan-Dickie |      72.29 |       17 |      35.58 | Will Capon                  |             15 |
+|             27 | James Harper      |      20.59 |       18 |      52.53 | George Kloska               |             15 |
+|             27 | Ben Bamber        |      44.6  |       19 |      51.35 | Daniel Thomas               |             18 |
+|             12 | Sam Dugdale       |      38.89 |       20 |      61.67 | James Dun                   |             50 |
+|             30 | Joe Carpenter     |      33.14 |       21 |      76.04 | Kieran Marmion              |             13 |
+|            nan | nan               |     nan    |       22 |      36.32 | James Williams              |             13 |
+|            nan | nan               |     nan    |       23 |      25.25 | Piers O'Conor               |             17 |
 

@@ -1,6 +1,6 @@
 ---  
 title: "Allianz Premier 15s 2023 Status"  
-date: 2023-11-15 6:00:00 -0500  
+date: 2023-11-17 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,16 +17,16 @@ aside:
 
 | Club                      |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Exeter Chiefs Women       |              16 |   14   |                328   |                   1.6 |               13.7 |                 71   |
-| Saracens Women            |              16 |   13.5 |                309   |                   1.8 |               13.2 |                 69   |
-| Gloucester-Hartpury Women |              16 |   13   |                288.6 |                   2   |               12.6 |                 66.5 |
-| Bristol Bears Women       |              16 |    9.7 |                171   |                   2.9 |                9.4 |                 50.9 |
-| Harlequins Women          |              16 |    9.1 |                149.9 |                   2.8 |                8.9 |                 48   |
-| Loughborough Lightning    |              16 |    6.3 |                 32.2 |                   2.3 |                6.2 |                 33.7 |
-| Sale Sharks Women         |              16 |    4.5 |                -72   |                   1.5 |                4.5 |                 24.2 |
-| TBC                       |               2 |    1   |                  0   |                   0.7 |                0.9 |                  5.6 |
-| Leicester Tigers Women    |              16 |    1   |               -603.4 |                   0.4 |                1.1 |                  5.6 |
-| Ealing Trailfinders Women |              16 |    1   |               -604.7 |                   0.5 |                1.1 |                  5.4 |
+| Ealing Trailfinders Women |              16 |   14   |             267.651  |                   1.1 |               13.4 |                 70.6 |
+| Leicester Tigers Women    |              16 |   14   |             268.321  |                   1.1 |               13.4 |                 70.5 |
+| Exeter Chiefs Women       |              16 |   10.6 |              79.1907 |                   2.4 |               10.2 |                 55   |
+| Saracens Women            |              16 |   10.1 |              59.9501 |                   2.6 |                9.7 |                 52.6 |
+| Gloucester-Hartpury Women |              16 |    9.5 |              41.9997 |                   2.7 |                9.1 |                 49.9 |
+| Bristol Bears Women       |              16 |    5.8 |             -76.1736 |                   3.3 |                5.5 |                 31.9 |
+| Harlequins Women          |              16 |    5.2 |            -102.387  |                   3   |                4.9 |                 28.6 |
+| Loughborough Lightning    |              16 |    2.3 |            -216.125  |                   2.4 |                2.2 |                 13.9 |
+| TBC                       |               2 |    1   |               0      |                   0.7 |                0.9 |                  5.6 |
+| Sale Sharks Women         |              16 |    0.5 |            -322.426  |                   1.6 |                0.5 |                  4.2 |
 
 
 
@@ -37,7 +37,7 @@ aside:
 ### Bristol Bears Women V Sale Sharks Women on 2023/11/18
 
 
-Average Margin: Bristol Bears Women by 17.0
+Average Margin: Bristol Bears Women by 17.3
 
 <p float="left">
 <img src="plots/performances_2023-11-18-BristolBearsWomen_V_SaleSharksWomen.png" width="32%" />
@@ -48,7 +48,7 @@ Average Margin: Bristol Bears Women by 17.0
 ### Ealing Trailfinders Women V Harlequins Women on 2023/11/18
 
 
-Average Margin: Harlequins Women by 38.7
+Average Margin: Ealing Trailfinders Women by 26.0
 
 <p float="left">
 <img src="plots/performances_2023-11-18-EalingTrailfindersWomen_V_HarlequinsWomen.png" width="32%" />
@@ -59,7 +59,7 @@ Average Margin: Harlequins Women by 38.7
 ### Saracens Women V Loughborough Lightning on 2023/11/18
 
 
-Average Margin: Saracens Women by 18.7
+Average Margin: Saracens Women by 19.2
 
 <p float="left">
 <img src="plots/performances_2023-11-18-SaracensWomen_V_LoughboroughLightning.png" width="32%" />
@@ -70,7 +70,7 @@ Average Margin: Saracens Women by 18.7
 ### Leicester Tigers Women V Exeter Chiefs Women on 2023/11/19
 
 
-Average Margin: Exeter Chiefs Women by 49.3
+Average Margin: Leicester Tigers Women by 15.8
 
 <p float="left">
 <img src="plots/performances_2023-11-19-LeicesterTigersWomen_V_ExeterChiefsWomen.png" width="32%" />
@@ -83,7 +83,7 @@ Average Margin: Exeter Chiefs Women by 49.3
 ### Ealing Trailfinders Women V Saracens Women on 2023/11/25
 
 
-Average Margin: Saracens Women by 47.6
+Average Margin: Ealing Trailfinders Women by 16.5
 
 <p float="left">
 <img src="plots/performances_2023-11-25-EalingTrailfindersWomen_V_SaracensWomen.png" width="32%" />
@@ -94,7 +94,7 @@ Average Margin: Saracens Women by 47.6
 ### Exeter Chiefs Women V Bristol Bears Women on 2023/11/25
 
 
-Average Margin: Exeter Chiefs Women by 12.4
+Average Margin: Exeter Chiefs Women by 12.3
 
 <p float="left">
 <img src="plots/performances_2023-11-25-ExeterChiefsWomen_V_BristolBearsWomen.png" width="32%" />
@@ -105,7 +105,7 @@ Average Margin: Exeter Chiefs Women by 12.4
 ### Gloucester-Hartpury Women V Leicester Tigers Women on 2023/11/25
 
 
-Average Margin: Gloucester-Hartpury Women by 53.5
+Average Margin: Leicester Tigers Women by 11.3
 
 <p float="left">
 <img src="plots/performances_2023-11-25-Gloucester-HartpuryWomen_V_LeicesterTigersWomen.png" width="32%" />
@@ -116,7 +116,7 @@ Average Margin: Gloucester-Hartpury Women by 53.5
 ### Sale Sharks Women V Harlequins Women on 2023/11/25
 
 
-Average Margin: Harlequins Women by 9.3
+Average Margin: Harlequins Women by 9.2
 
 <p float="left">
 <img src="plots/performances_2023-11-25-SaleSharksWomen_V_HarlequinsWomen.png" width="32%" />
@@ -126,10 +126,21 @@ Average Margin: Harlequins Women by 9.3
 
 ## Week 3
 
+### Harlequins Women V Saracens Women on 2023/12/02
+
+
+Average Margin: Saracens Women by 5.6
+
+<p float="left">
+<img src="plots/performances_2023-12-02-HarlequinsWomen_V_SaracensWomen.png" width="32%" />
+<img src="plots/resultbar_2023-12-02-HarlequinsWomen_V_SaracensWomen.png" width="32%" />
+<img src="plots/spreads_2023-12-02-HarlequinsWomen_V_SaracensWomen.png" width="32%" />
+</p>
+
 ### Sale Sharks Women V Exeter Chiefs Women on 2023/12/02
 
 
-Average Margin: Exeter Chiefs Women by 18.9
+Average Margin: Exeter Chiefs Women by 19.2
 
 <p float="left">
 <img src="plots/performances_2023-12-02-SaleSharksWomen_V_ExeterChiefsWomen.png" width="32%" />
@@ -140,7 +151,7 @@ Average Margin: Exeter Chiefs Women by 18.9
 ### Bristol Bears Women V Gloucester-Hartpury Women on 2023/12/02
 
 
-Average Margin: Gloucester-Hartpury Women by 3.2
+Average Margin: Gloucester-Hartpury Women by 3.7
 
 <p float="left">
 <img src="plots/performances_2023-12-02-BristolBearsWomen_V_Gloucester-HartpuryWomen.png" width="32%" />
@@ -148,21 +159,10 @@ Average Margin: Gloucester-Hartpury Women by 3.2
 <img src="plots/spreads_2023-12-02-BristolBearsWomen_V_Gloucester-HartpuryWomen.png" width="32%" />
 </p>
 
-### Harlequins Women V Saracens Women on 2023/12/02
-
-
-Average Margin: Saracens Women by 5.8
-
-<p float="left">
-<img src="plots/performances_2023-12-02-HarlequinsWomen_V_SaracensWomen.png" width="32%" />
-<img src="plots/resultbar_2023-12-02-HarlequinsWomen_V_SaracensWomen.png" width="32%" />
-<img src="plots/spreads_2023-12-02-HarlequinsWomen_V_SaracensWomen.png" width="32%" />
-</p>
-
 ### Leicester Tigers Women V Loughborough Lightning on 2023/12/03
 
 
-Average Margin: Loughborough Lightning by 32.1
+Average Margin: Leicester Tigers Women by 30.5
 
 <p float="left">
 <img src="plots/performances_2023-12-03-LeicesterTigersWomen_V_LoughboroughLightning.png" width="32%" />
@@ -175,7 +175,7 @@ Average Margin: Loughborough Lightning by 32.1
 ### Gloucester-Hartpury Women V Sale Sharks Women on 2023/12/09
 
 
-Average Margin: Gloucester-Hartpury Women by 23.9
+Average Margin: Gloucester-Hartpury Women by 23.7
 
 <p float="left">
 <img src="plots/performances_2023-12-09-Gloucester-HartpuryWomen_V_SaleSharksWomen.png" width="32%" />
@@ -186,7 +186,7 @@ Average Margin: Gloucester-Hartpury Women by 23.9
 ### Ealing Trailfinders Women V Leicester Tigers Women on 2023/12/09
 
 
-Average Margin: Ealing Trailfinders Women by 3.3
+Average Margin: Ealing Trailfinders Women by 3.6
 
 <p float="left">
 <img src="plots/performances_2023-12-09-EalingTrailfindersWomen_V_LeicesterTigersWomen.png" width="32%" />
@@ -197,7 +197,7 @@ Average Margin: Ealing Trailfinders Women by 3.3
 ### Harlequins Women V Exeter Chiefs Women on 2023/12/09
 
 
-Average Margin: Exeter Chiefs Women by 6.8
+Average Margin: Exeter Chiefs Women by 7.0
 
 <p float="left">
 <img src="plots/performances_2023-12-09-HarlequinsWomen_V_ExeterChiefsWomen.png" width="32%" />
@@ -208,7 +208,7 @@ Average Margin: Exeter Chiefs Women by 6.8
 ### Loughborough Lightning V Bristol Bears Women on 2023/12/09
 
 
-Average Margin: Bristol Bears Women by 4.6
+Average Margin: Bristol Bears Women by 4.9
 
 <p float="left">
 <img src="plots/performances_2023-12-09-LoughboroughLightning_V_BristolBearsWomen.png" width="32%" />
@@ -221,7 +221,7 @@ Average Margin: Bristol Bears Women by 4.6
 ### Sale Sharks Women V Loughborough Lightning on 2023/12/16
 
 
-Average Margin: Loughborough Lightning by 2.7
+Average Margin: Loughborough Lightning by 2.9
 
 <p float="left">
 <img src="plots/performances_2023-12-16-SaleSharksWomen_V_LoughboroughLightning.png" width="32%" />
@@ -232,7 +232,7 @@ Average Margin: Loughborough Lightning by 2.7
 ### Bristol Bears Women V Ealing Trailfinders Women on 2023/12/16
 
 
-Average Margin: Bristol Bears Women by 46.4
+Average Margin: Ealing Trailfinders Women by 16.7
 
 <p float="left">
 <img src="plots/performances_2023-12-16-BristolBearsWomen_V_EalingTrailfindersWomen.png" width="32%" />
@@ -243,7 +243,7 @@ Average Margin: Bristol Bears Women by 46.4
 ### Leicester Tigers Women V Saracens Women on 2023/12/16
 
 
-Average Margin: Saracens Women by 47.7
+Average Margin: Leicester Tigers Women by 15.8
 
 <p float="left">
 <img src="plots/performances_2023-12-16-LeicesterTigersWomen_V_SaracensWomen.png" width="32%" />
@@ -254,7 +254,7 @@ Average Margin: Saracens Women by 47.7
 ### Exeter Chiefs Women V Gloucester-Hartpury Women on 2023/12/16
 
 
-Average Margin: Exeter Chiefs Women by 5.6
+Average Margin: Exeter Chiefs Women by 5.5
 
 <p float="left">
 <img src="plots/performances_2023-12-16-ExeterChiefsWomen_V_Gloucester-HartpuryWomen.png" width="32%" />
@@ -267,7 +267,7 @@ Average Margin: Exeter Chiefs Women by 5.6
 ### Ealing Trailfinders Women V Sale Sharks Women on 2023/12/23
 
 
-Average Margin: Sale Sharks Women by 26.7
+Average Margin: Ealing Trailfinders Women by 37.0
 
 <p float="left">
 <img src="plots/performances_2023-12-23-EalingTrailfindersWomen_V_SaleSharksWomen.png" width="32%" />
@@ -278,7 +278,7 @@ Average Margin: Sale Sharks Women by 26.7
 ### Saracens Women V Bristol Bears Women on 2023/12/23
 
 
-Average Margin: Saracens Women by 11.0
+Average Margin: Saracens Women by 11.4
 
 <p float="left">
 <img src="plots/performances_2023-12-23-SaracensWomen_V_BristolBearsWomen.png" width="32%" />
@@ -302,7 +302,7 @@ Average Margin: Exeter Chiefs Women by 13.2
 ### Harlequins Women V Gloucester-Hartpury Women on 2023/12/30
 
 
-Average Margin: Gloucester-Hartpury Women by 4.6
+Average Margin: Gloucester-Hartpury Women by 5.0
 
 <p float="left">
 <img src="plots/performances_2023-12-30-HarlequinsWomen_V_Gloucester-HartpuryWomen.png" width="32%" />
@@ -315,7 +315,7 @@ Average Margin: Gloucester-Hartpury Women by 4.6
 ### Exeter Chiefs Women V Ealing Trailfinders Women on 2024/01/06
 
 
-Average Margin: Exeter Chiefs Women by 55.6
+Average Margin: Ealing Trailfinders Women by 7.4
 
 <p float="left">
 <img src="plots/performances_2024-01-06-ExeterChiefsWomen_V_EalingTrailfindersWomen.png" width="32%" />
@@ -326,7 +326,7 @@ Average Margin: Exeter Chiefs Women by 55.6
 ### Sale Sharks Women V Saracens Women on 2024/01/06
 
 
-Average Margin: Saracens Women by 17.8
+Average Margin: Saracens Women by 18.2
 
 <p float="left">
 <img src="plots/performances_2024-01-06-SaleSharksWomen_V_SaracensWomen.png" width="32%" />
@@ -337,7 +337,7 @@ Average Margin: Saracens Women by 17.8
 ### Leicester Tigers Women V Harlequins Women on 2024/01/06
 
 
-Average Margin: Harlequins Women by 39.1
+Average Margin: Leicester Tigers Women by 24.4
 
 <p float="left">
 <img src="plots/performances_2024-01-06-LeicesterTigersWomen_V_HarlequinsWomen.png" width="32%" />
@@ -348,7 +348,7 @@ Average Margin: Harlequins Women by 39.1
 ### Gloucester-Hartpury Women V Loughborough Lightning on 2024/01/06
 
 
-Average Margin: Gloucester-Hartpury Women by 17.9
+Average Margin: Gloucester-Hartpury Women by 17.8
 
 <p float="left">
 <img src="plots/performances_2024-01-06-Gloucester-HartpuryWomen_V_LoughboroughLightning.png" width="32%" />
@@ -361,7 +361,7 @@ Average Margin: Gloucester-Hartpury Women by 17.9
 ### Harlequins Women V Loughborough Lightning on 2024/01/13
 
 
-Average Margin: Harlequins Women by 10.0
+Average Margin: Harlequins Women by 9.8
 
 <p float="left">
 <img src="plots/performances_2024-01-13-HarlequinsWomen_V_LoughboroughLightning.png" width="32%" />
@@ -372,7 +372,7 @@ Average Margin: Harlequins Women by 10.0
 ### Ealing Trailfinders Women V Gloucester-Hartpury Women on 2024/01/13
 
 
-Average Margin: Gloucester-Hartpury Women by 46.0
+Average Margin: Ealing Trailfinders Women by 16.1
 
 <p float="left">
 <img src="plots/performances_2024-01-13-EalingTrailfindersWomen_V_Gloucester-HartpuryWomen.png" width="32%" />
@@ -383,7 +383,7 @@ Average Margin: Gloucester-Hartpury Women by 46.0
 ### Leicester Tigers Women V Bristol Bears Women on 2024/01/13
 
 
-Average Margin: Bristol Bears Women by 39.5
+Average Margin: Leicester Tigers Women by 22.5
 
 <p float="left">
 <img src="plots/performances_2024-01-13-LeicesterTigersWomen_V_BristolBearsWomen.png" width="32%" />
@@ -394,7 +394,7 @@ Average Margin: Bristol Bears Women by 39.5
 ### Saracens Women V Exeter Chiefs Women on 2024/01/13
 
 
-Average Margin: Saracens Women by 2.3
+Average Margin: Saracens Women by 2.5
 
 <p float="left">
 <img src="plots/performances_2024-01-13-SaracensWomen_V_ExeterChiefsWomen.png" width="32%" />
@@ -407,7 +407,7 @@ Average Margin: Saracens Women by 2.3
 ### Loughborough Lightning V Ealing Trailfinders Women on 2024/01/20
 
 
-Average Margin: Loughborough Lightning by 38.9
+Average Margin: Ealing Trailfinders Women by 23.5
 
 <p float="left">
 <img src="plots/performances_2024-01-20-LoughboroughLightning_V_EalingTrailfindersWomen.png" width="32%" />
@@ -418,7 +418,7 @@ Average Margin: Loughborough Lightning by 38.9
 ### Bristol Bears Women V Harlequins Women on 2024/01/20
 
 
-Average Margin: Bristol Bears Women by 4.3
+Average Margin: Bristol Bears Women by 4.6
 
 <p float="left">
 <img src="plots/performances_2024-01-20-BristolBearsWomen_V_HarlequinsWomen.png" width="32%" />
@@ -429,7 +429,7 @@ Average Margin: Bristol Bears Women by 4.3
 ### Gloucester-Hartpury Women V Saracens Women on 2024/01/20
 
 
-Average Margin: Gloucester-Hartpury Women by 2.4
+Average Margin: Gloucester-Hartpury Women by 2.2
 
 <p float="left">
 <img src="plots/performances_2024-01-20-Gloucester-HartpuryWomen_V_SaracensWomen.png" width="32%" />
@@ -440,7 +440,7 @@ Average Margin: Gloucester-Hartpury Women by 2.4
 ### Sale Sharks Women V Leicester Tigers Women on 2024/01/20
 
 
-Average Margin: Sale Sharks Women by 32.8
+Average Margin: Leicester Tigers Women by 29.7
 
 <p float="left">
 <img src="plots/performances_2024-01-20-SaleSharksWomen_V_LeicesterTigersWomen.png" width="32%" />
@@ -450,32 +450,10 @@ Average Margin: Sale Sharks Women by 32.8
 
 ## Week 11
 
-### Harlequins Women V Sale Sharks Women on 2024/02/03
-
-
-Average Margin: Harlequins Women by 16.0
-
-<p float="left">
-<img src="plots/performances_2024-02-03-HarlequinsWomen_V_SaleSharksWomen.png" width="32%" />
-<img src="plots/resultbar_2024-02-03-HarlequinsWomen_V_SaleSharksWomen.png" width="32%" />
-<img src="plots/spreads_2024-02-03-HarlequinsWomen_V_SaleSharksWomen.png" width="32%" />
-</p>
-
-### Bristol Bears Women V Exeter Chiefs Women on 2024/02/03
-
-
-Average Margin: Exeter Chiefs Women by 5.3
-
-<p float="left">
-<img src="plots/performances_2024-02-03-BristolBearsWomen_V_ExeterChiefsWomen.png" width="32%" />
-<img src="plots/resultbar_2024-02-03-BristolBearsWomen_V_ExeterChiefsWomen.png" width="32%" />
-<img src="plots/spreads_2024-02-03-BristolBearsWomen_V_ExeterChiefsWomen.png" width="32%" />
-</p>
-
 ### Leicester Tigers Women V Gloucester-Hartpury Women on 2024/02/03
 
 
-Average Margin: Gloucester-Hartpury Women by 45.5
+Average Margin: Leicester Tigers Women by 15.3
 
 <p float="left">
 <img src="plots/performances_2024-02-03-LeicesterTigersWomen_V_Gloucester-HartpuryWomen.png" width="32%" />
@@ -483,10 +461,32 @@ Average Margin: Gloucester-Hartpury Women by 45.5
 <img src="plots/spreads_2024-02-03-LeicesterTigersWomen_V_Gloucester-HartpuryWomen.png" width="32%" />
 </p>
 
+### Bristol Bears Women V Exeter Chiefs Women on 2024/02/03
+
+
+Average Margin: Exeter Chiefs Women by 5.2
+
+<p float="left">
+<img src="plots/performances_2024-02-03-BristolBearsWomen_V_ExeterChiefsWomen.png" width="32%" />
+<img src="plots/resultbar_2024-02-03-BristolBearsWomen_V_ExeterChiefsWomen.png" width="32%" />
+<img src="plots/spreads_2024-02-03-BristolBearsWomen_V_ExeterChiefsWomen.png" width="32%" />
+</p>
+
+### Harlequins Women V Sale Sharks Women on 2024/02/03
+
+
+Average Margin: Harlequins Women by 15.2
+
+<p float="left">
+<img src="plots/performances_2024-02-03-HarlequinsWomen_V_SaleSharksWomen.png" width="32%" />
+<img src="plots/resultbar_2024-02-03-HarlequinsWomen_V_SaleSharksWomen.png" width="32%" />
+<img src="plots/spreads_2024-02-03-HarlequinsWomen_V_SaleSharksWomen.png" width="32%" />
+</p>
+
 ### Saracens Women V Ealing Trailfinders Women on 2024/02/03
 
 
-Average Margin: Saracens Women by 54.1
+Average Margin: Ealing Trailfinders Women by 7.6
 
 <p float="left">
 <img src="plots/performances_2024-02-03-SaracensWomen_V_EalingTrailfindersWomen.png" width="32%" />
@@ -496,21 +496,10 @@ Average Margin: Saracens Women by 54.1
 
 ## Week 12
 
-### Loughborough Lightning V Leicester Tigers Women on 2024/02/10
-
-
-Average Margin: Loughborough Lightning by 38.5
-
-<p float="left">
-<img src="plots/performances_2024-02-10-LoughboroughLightning_V_LeicesterTigersWomen.png" width="32%" />
-<img src="plots/resultbar_2024-02-10-LoughboroughLightning_V_LeicesterTigersWomen.png" width="32%" />
-<img src="plots/spreads_2024-02-10-LoughboroughLightning_V_LeicesterTigersWomen.png" width="32%" />
-</p>
-
 ### Exeter Chiefs Women V Sale Sharks Women on 2024/02/10
 
 
-Average Margin: Exeter Chiefs Women by 25.5
+Average Margin: Exeter Chiefs Women by 25.4
 
 <p float="left">
 <img src="plots/performances_2024-02-10-ExeterChiefsWomen_V_SaleSharksWomen.png" width="32%" />
@@ -521,7 +510,7 @@ Average Margin: Exeter Chiefs Women by 25.5
 ### Gloucester-Hartpury Women V Bristol Bears Women on 2024/02/10
 
 
-Average Margin: Gloucester-Hartpury Women by 9.7
+Average Margin: Gloucester-Hartpury Women by 10.0
 
 <p float="left">
 <img src="plots/performances_2024-02-10-Gloucester-HartpuryWomen_V_BristolBearsWomen.png" width="32%" />
@@ -532,7 +521,7 @@ Average Margin: Gloucester-Hartpury Women by 9.7
 ### Saracens Women V Harlequins Women on 2024/02/10
 
 
-Average Margin: Saracens Women by 12.1
+Average Margin: Saracens Women by 12.4
 
 <p float="left">
 <img src="plots/performances_2024-02-10-SaracensWomen_V_HarlequinsWomen.png" width="32%" />
@@ -540,12 +529,23 @@ Average Margin: Saracens Women by 12.1
 <img src="plots/spreads_2024-02-10-SaracensWomen_V_HarlequinsWomen.png" width="32%" />
 </p>
 
+### Loughborough Lightning V Leicester Tigers Women on 2024/02/10
+
+
+Average Margin: Leicester Tigers Women by 23.1
+
+<p float="left">
+<img src="plots/performances_2024-02-10-LoughboroughLightning_V_LeicesterTigersWomen.png" width="32%" />
+<img src="plots/resultbar_2024-02-10-LoughboroughLightning_V_LeicesterTigersWomen.png" width="32%" />
+<img src="plots/spreads_2024-02-10-LoughboroughLightning_V_LeicesterTigersWomen.png" width="32%" />
+</p>
+
 ## Week 13
 
 ### Sale Sharks Women V Gloucester-Hartpury Women on 2024/02/24
 
 
-Average Margin: Gloucester-Hartpury Women by 16.7
+Average Margin: Gloucester-Hartpury Women by 16.9
 
 <p float="left">
 <img src="plots/performances_2024-02-24-SaleSharksWomen_V_Gloucester-HartpuryWomen.png" width="32%" />
@@ -567,7 +567,7 @@ Average Margin: Bristol Bears Women by 11.1
 ### Exeter Chiefs Women V Harlequins Women on 2024/02/24
 
 
-Average Margin: Exeter Chiefs Women by 13.1
+Average Margin: Exeter Chiefs Women by 13.6
 
 <p float="left">
 <img src="plots/performances_2024-02-24-ExeterChiefsWomen_V_HarlequinsWomen.png" width="32%" />
@@ -578,7 +578,7 @@ Average Margin: Exeter Chiefs Women by 13.1
 ### Leicester Tigers Women V Ealing Trailfinders Women on 2024/02/24
 
 
-Average Margin: Leicester Tigers Women by 3.7
+Average Margin: Leicester Tigers Women by 3.6
 
 <p float="left">
 <img src="plots/performances_2024-02-24-LeicesterTigersWomen_V_EalingTrailfindersWomen.png" width="32%" />
@@ -591,7 +591,7 @@ Average Margin: Leicester Tigers Women by 3.7
 ### Ealing Trailfinders Women V Bristol Bears Women on 2024/03/02
 
 
-Average Margin: Bristol Bears Women by 39.9
+Average Margin: Ealing Trailfinders Women by 21.3
 
 <p float="left">
 <img src="plots/performances_2024-03-02-EalingTrailfindersWomen_V_BristolBearsWomen.png" width="32%" />
@@ -613,7 +613,7 @@ Average Margin: Gloucester-Hartpury Women by 1.3
 ### Loughborough Lightning V Sale Sharks Women on 2024/03/02
 
 
-Average Margin: Loughborough Lightning by 9.2
+Average Margin: Loughborough Lightning by 9.0
 
 <p float="left">
 <img src="plots/performances_2024-03-02-LoughboroughLightning_V_SaleSharksWomen.png" width="32%" />
@@ -624,7 +624,7 @@ Average Margin: Loughborough Lightning by 9.2
 ### Saracens Women V Leicester Tigers Women on 2024/03/02
 
 
-Average Margin: Saracens Women by 53.8
+Average Margin: Leicester Tigers Women by 7.4
 
 <p float="left">
 <img src="plots/performances_2024-03-02-SaracensWomen_V_LeicesterTigersWomen.png" width="32%" />
@@ -637,7 +637,7 @@ Average Margin: Saracens Women by 53.8
 ### Gloucester-Hartpury Women V Harlequins Women on 2024/03/09
 
 
-Average Margin: Gloucester-Hartpury Women by 11.0
+Average Margin: Gloucester-Hartpury Women by 11.1
 
 <p float="left">
 <img src="plots/performances_2024-03-09-Gloucester-HartpuryWomen_V_HarlequinsWomen.png" width="32%" />
@@ -648,7 +648,7 @@ Average Margin: Gloucester-Hartpury Women by 11.0
 ### Sale Sharks Women V Ealing Trailfinders Women on 2024/03/09
 
 
-Average Margin: Sale Sharks Women by 33.1
+Average Margin: Ealing Trailfinders Women by 28.7
 
 <p float="left">
 <img src="plots/performances_2024-03-09-SaleSharksWomen_V_EalingTrailfindersWomen.png" width="32%" />
@@ -659,7 +659,7 @@ Average Margin: Sale Sharks Women by 33.1
 ### Bristol Bears Women V Saracens Women on 2024/03/09
 
 
-Average Margin: Saracens Women by 4.2
+Average Margin: Saracens Women by 4.0
 
 <p float="left">
 <img src="plots/performances_2024-03-09-BristolBearsWomen_V_SaracensWomen.png" width="32%" />
@@ -670,7 +670,7 @@ Average Margin: Saracens Women by 4.2
 ### Exeter Chiefs Women V Loughborough Lightning on 2024/03/09
 
 
-Average Margin: Exeter Chiefs Women by 19.6
+Average Margin: Exeter Chiefs Women by 19.8
 
 <p float="left">
 <img src="plots/performances_2024-03-09-ExeterChiefsWomen_V_LoughboroughLightning.png" width="32%" />
@@ -683,7 +683,7 @@ Average Margin: Exeter Chiefs Women by 19.6
 ### Loughborough Lightning V Gloucester-Hartpury Women on 2024/05/11
 
 
-Average Margin: Gloucester-Hartpury Women by 10.8
+Average Margin: Gloucester-Hartpury Women by 11.0
 
 <p float="left">
 <img src="plots/performances_2024-05-11-LoughboroughLightning_V_Gloucester-HartpuryWomen.png" width="32%" />
@@ -694,7 +694,7 @@ Average Margin: Gloucester-Hartpury Women by 10.8
 ### Saracens Women V Sale Sharks Women on 2024/05/11
 
 
-Average Margin: Saracens Women by 24.2
+Average Margin: Saracens Women by 24.4
 
 <p float="left">
 <img src="plots/performances_2024-05-11-SaracensWomen_V_SaleSharksWomen.png" width="32%" />
@@ -705,7 +705,7 @@ Average Margin: Saracens Women by 24.2
 ### Ealing Trailfinders Women V Exeter Chiefs Women on 2024/05/11
 
 
-Average Margin: Exeter Chiefs Women by 47.8
+Average Margin: Ealing Trailfinders Women by 13.2
 
 <p float="left">
 <img src="plots/performances_2024-05-11-EalingTrailfindersWomen_V_ExeterChiefsWomen.png" width="32%" />
@@ -716,7 +716,7 @@ Average Margin: Exeter Chiefs Women by 47.8
 ### Harlequins Women V Leicester Tigers Women on 2024/05/11
 
 
-Average Margin: Harlequins Women by 45.0
+Average Margin: Leicester Tigers Women by 15.8
 
 <p float="left">
 <img src="plots/performances_2024-05-11-HarlequinsWomen_V_LeicesterTigersWomen.png" width="32%" />
@@ -729,7 +729,7 @@ Average Margin: Harlequins Women by 45.0
 ### Bristol Bears Women V Leicester Tigers Women on 2024/05/18
 
 
-Average Margin: Bristol Bears Women by 46.7
+Average Margin: Leicester Tigers Women by 14.9
 
 <p float="left">
 <img src="plots/performances_2024-05-18-BristolBearsWomen_V_LeicesterTigersWomen.png" width="32%" />
@@ -751,7 +751,7 @@ Average Margin: Harlequins Women by 3.0
 ### Gloucester-Hartpury Women V Ealing Trailfinders Women on 2024/05/18
 
 
-Average Margin: Gloucester-Hartpury Women by 52.9
+Average Margin: Ealing Trailfinders Women by 8.4
 
 <p float="left">
 <img src="plots/performances_2024-05-18-Gloucester-HartpuryWomen_V_EalingTrailfindersWomen.png" width="32%" />
@@ -762,7 +762,7 @@ Average Margin: Gloucester-Hartpury Women by 52.9
 ### Exeter Chiefs Women V Saracens Women on 2024/05/18
 
 
-Average Margin: Exeter Chiefs Women by 4.2
+Average Margin: Exeter Chiefs Women by 4.5
 
 <p float="left">
 <img src="plots/performances_2024-05-18-ExeterChiefsWomen_V_SaracensWomen.png" width="32%" />
@@ -775,7 +775,7 @@ Average Margin: Exeter Chiefs Women by 4.2
 ### Leicester Tigers Women V Sale Sharks Women on 2024/05/25
 
 
-Average Margin: Sale Sharks Women by 26.2
+Average Margin: Leicester Tigers Women by 35.5
 
 <p float="left">
 <img src="plots/performances_2024-05-25-LeicesterTigersWomen_V_SaleSharksWomen.png" width="32%" />
@@ -786,7 +786,7 @@ Average Margin: Sale Sharks Women by 26.2
 ### Saracens Women V Gloucester-Hartpury Women on 2024/05/25
 
 
-Average Margin: Saracens Women by 4.6
+Average Margin: Saracens Women by 4.3
 
 <p float="left">
 <img src="plots/performances_2024-05-25-SaracensWomen_V_Gloucester-HartpuryWomen.png" width="32%" />
@@ -797,7 +797,7 @@ Average Margin: Saracens Women by 4.6
 ### Ealing Trailfinders Women V Loughborough Lightning on 2024/05/25
 
 
-Average Margin: Loughborough Lightning by 32.1
+Average Margin: Ealing Trailfinders Women by 29.3
 
 <p float="left">
 <img src="plots/performances_2024-05-25-EalingTrailfindersWomen_V_LoughboroughLightning.png" width="32%" />
@@ -808,7 +808,7 @@ Average Margin: Loughborough Lightning by 32.1
 ### Harlequins Women V Bristol Bears Women on 2024/05/25
 
 
-Average Margin: Harlequins Women by 2.3
+Average Margin: Harlequins Women by 2.1
 
 <p float="left">
 <img src="plots/performances_2024-05-25-HarlequinsWomen_V_BristolBearsWomen.png" width="32%" />
@@ -821,7 +821,7 @@ Average Margin: Harlequins Women by 2.3
 ### Exeter Chiefs Women V Leicester Tigers Women on 2024/06/01
 
 
-Average Margin: Exeter Chiefs Women by 54.6
+Average Margin: Leicester Tigers Women by 6.2
 
 <p float="left">
 <img src="plots/performances_2024-06-01-ExeterChiefsWomen_V_LeicesterTigersWomen.png" width="32%" />
@@ -832,7 +832,7 @@ Average Margin: Exeter Chiefs Women by 54.6
 ### Sale Sharks Women V Bristol Bears Women on 2024/06/01
 
 
-Average Margin: Bristol Bears Women by 10.1
+Average Margin: Bristol Bears Women by 10.0
 
 <p float="left">
 <img src="plots/performances_2024-06-01-SaleSharksWomen_V_BristolBearsWomen.png" width="32%" />
@@ -843,7 +843,7 @@ Average Margin: Bristol Bears Women by 10.1
 ### Loughborough Lightning V Saracens Women on 2024/06/01
 
 
-Average Margin: Saracens Women by 12.1
+Average Margin: Saracens Women by 11.9
 
 <p float="left">
 <img src="plots/performances_2024-06-01-LoughboroughLightning_V_SaracensWomen.png" width="32%" />
@@ -854,7 +854,7 @@ Average Margin: Saracens Women by 12.1
 ### Harlequins Women V Ealing Trailfinders Women on 2024/06/01
 
 
-Average Margin: Harlequins Women by 45.0
+Average Margin: Ealing Trailfinders Women by 16.1
 
 <p float="left">
 <img src="plots/performances_2024-06-01-HarlequinsWomen_V_EalingTrailfindersWomen.png" width="32%" />

@@ -40,7 +40,7 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Player Minutes: Périgueux by 4.5
 
 
-Périgueux by 7.7 on a neutral field
+Périgueux by 7.8 on a neutral field
 ## Prediction without Player Minutes: Périgueux by 4.4
 
 
@@ -87,27 +87,27 @@ There were 18 large changes in win probability in this match
 
 |   Away Minutes | Away Player       |   Away elo |   Number |   Home elo | Home Player           |   Home Minutes |
 |---------------:|:------------------|-----------:|---------:|-----------:|:----------------------|---------------:|
-|             45 | Thomas Vidal      |      52.5  |        1 |      49.35 | Elias Coulibaly       |             58 |
-|             45 | Lucas Marijon     |      54.01 |        2 |      40.02 | Hayam El Bibouji      |             58 |
-|             45 | Kalaveti Tawake   |      34.82 |        3 |      35.3  | Victor Damian Arias   |             58 |
-|             63 | Madioke Konate    |      37.24 |        4 |      42.48 | Sacha Yahi            |             80 |
-|             80 | Jaco Willemse     |      34.19 |        5 |      23.44 | Yakine Djebarri       |             58 |
-|             80 | Marius Vialle     |      31.63 |        6 |      29.04 | Florian Desbordes     |             67 |
-|             63 | Afaesetiti Amosa  |      72.38 |        7 |      25.68 | Wian Vosloo           |             80 |
-|             80 | Karl Lambert      |      43.73 |        8 |      49.72 | Lakisipone Lee        |             80 |
-|             56 | Nicolas Faltrept  |      11.43 |        9 |      33.34 | Thomas Lacroix        |             80 |
-|             56 | Greg Hutley       |      52.35 |       10 |      43.74 | Tanguy Lacoste        |             80 |
-|             51 | Clément Cavaliere |      39.03 |       11 |      14.87 | Alexis Clement        |             80 |
-|             80 | Cyril Couturier   |      59.87 |       12 |      64.17 | Victor Barnier        |             80 |
-|             80 | Nicolas Piaton    |      46.65 |       13 |      -0.39 | JJ Taulagi            |             67 |
-|             80 | Benjamin Yarde    |      40.59 |       14 |       6.22 | Ervin Muric           |             80 |
-|             80 | Rory Scholes      |      60.73 |       15 |      22.35 | Thomas Baudy          |             67 |
-|             35 | Jason Tindiliere  |      43.15 |       16 |      18.33 | Lucas Dycke           |             22 |
-|             35 | Louis Martin      |      54.91 |       17 |      36.52 | Anthony Bajart        |             22 |
-|             35 | Anthony Pelmard   |      48.25 |       18 |      38.49 | Leandro Mario Assi    |             22 |
-|             17 | Richard Fourcade  |      32.2  |       19 |      60.51 | Marvin Woki           |             22 |
-|             17 | Nicolas Labattut  |      53.82 |       20 |      49.56 | Damien Bozic          |             13 |
-|             24 | Enzo Hardy        |      43.32 |       21 |      41.02 | Lilan Savioz Fouillet |             13 |
-|             24 | Yann Caillat      |      38.63 |       22 |      11.78 | Goulwen Gueho         |             13 |
+|             45 | Thomas Vidal      |      52.45 |        1 |      49.37 | Elias Coulibaly       |             58 |
+|             45 | Lucas Marijon     |      53.92 |        2 |      40    | Hayam El Bibouji      |             58 |
+|             45 | Kalaveti Tawake   |      34.88 |        3 |      35.33 | Victor Damian Arias   |             58 |
+|             63 | Madioke Konate    |      37.21 |        4 |      42.44 | Sacha Yahi            |             80 |
+|             80 | Jaco Willemse     |      34.43 |        5 |      23.43 | Yakine Djebarri       |             58 |
+|             80 | Marius Vialle     |      31.64 |        6 |      29.06 | Florian Desbordes     |             67 |
+|             63 | Afaesetiti Amosa  |      72.73 |        7 |      25.66 | Wian Vosloo           |             80 |
+|             80 | Karl Lambert      |      43.66 |        8 |      49.73 | Lakisipone Lee        |             80 |
+|             56 | Nicolas Faltrept  |      11.34 |        9 |      33.39 | Thomas Lacroix        |             80 |
+|             56 | Greg Hutley       |      52.28 |       10 |      43.73 | Tanguy Lacoste        |             80 |
+|             51 | Clément Cavaliere |      39.04 |       11 |      14.86 | Alexis Clement        |             80 |
+|             80 | Cyril Couturier   |      59.78 |       12 |      64.2  | Victor Barnier        |             80 |
+|             80 | Nicolas Piaton    |      46.65 |       13 |      -0.31 | JJ Taulagi            |             67 |
+|             80 | Benjamin Yarde    |      40.57 |       14 |       6.22 | Ervin Muric           |             80 |
+|             80 | Rory Scholes      |      61.26 |       15 |      22.3  | Thomas Baudy          |             67 |
+|             35 | Jason Tindiliere  |      43.15 |       16 |      18.3  | Lucas Dycke           |             22 |
+|             35 | Louis Martin      |      54.88 |       17 |      36.53 | Anthony Bajart        |             22 |
+|             35 | Anthony Pelmard   |      48.2  |       18 |      38.52 | Leandro Mario Assi    |             22 |
+|             17 | Richard Fourcade  |      32.18 |       19 |      60.46 | Marvin Woki           |             22 |
+|             17 | Nicolas Labattut  |      53.8  |       20 |      49.55 | Damien Bozic          |             13 |
+|             24 | Enzo Hardy        |      43.3  |       21 |      41    | Lilan Savioz Fouillet |             13 |
+|             24 | Yann Caillat      |      38.6  |       22 |      11.69 | Goulwen Gueho         |             13 |
 |             29 | Paul Piveteau     |      46.65 |       23 |     nan    | nan                   |            nan |
 

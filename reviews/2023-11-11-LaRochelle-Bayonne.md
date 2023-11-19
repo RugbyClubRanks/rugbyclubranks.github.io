@@ -37,14 +37,14 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: La Rochelle by 23.8
+## Prediction with Player Minutes: La Rochelle by 23.6
 
 
-La Rochelle by 19.0 on a neutral field
-## Prediction without Player Minutes: La Rochelle by 21.7
+La Rochelle by 18.9 on a neutral field
+## Prediction without Player Minutes: La Rochelle by 21.5
 
 
-La Rochelle by 16.9 on a neutral pitch
+La Rochelle by 16.8 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -87,27 +87,27 @@ There were 8 large changes in win probability in this match
 
 |   Away Minutes | Away Player             |   Away elo |   Number |   Home elo | Home Player           |   Home Minutes |
 |---------------:|:------------------------|-----------:|---------:|-----------:|:----------------------|---------------:|
-|             68 | Matis Perchaud          |      31.92 |        1 |      55.77 | Thierry Paiva         |             56 |
-|             75 | Vincent Giudicelli      |      25.89 |        2 |      48.22 | Quentin Lespiaucq     |             39 |
-|             56 | Pascal Cotet            |      25.7  |        3 |      21.89 | Georges-Henri Colombe |             41 |
-|             80 | Manuel Leindekar        |      14.18 |        4 |      68.19 | Thomas Lavault        |             80 |
-|             65 | Lucas Paulos            |      58.53 |        5 |      62.97 | Ultan Dillane         |             65 |
-|             80 | Pierre Huguet           |      20.53 |        6 |      38.27 | Paul Boudehent        |             80 |
-|             56 | Baptiste Heguy          |      66.95 |        7 |     105.46 | Levani Botia          |             80 |
-|             80 | Rodrigo Bruni           |      94.49 |        8 |      60.37 | Yoan Tanga            |             63 |
-|             67 | Guillaume Rouet Piffard |      60.08 |        9 |     113.02 | Tawera Kerr-Barlow    |             80 |
-|             80 | Camille Lopez           |      96.88 |       10 |      55    | Antoine Hastoy        |             77 |
-|             80 | Nadir Megdoud           |      59.04 |       11 |      98.6  | Jack Nowell           |             80 |
-|             71 | Federico Mori           |      37.76 |       12 |     117.85 | Jonathan Danty        |             57 |
-|             80 | Sireli Maqala           |      70.91 |       13 |      54.72 | Ulupano Seuteni       |             80 |
-|             80 | Bastien Pourailly       |       4.34 |       14 |      89    | Teddy Thomas          |             80 |
-|             63 | Tom Spring              |      25.67 |       15 |     120.88 | Brice Dulin           |             80 |
-|             15 | Thomas Ceyte            |      39.12 |       16 |      78.78 | Pierre Bourgarit      |             41 |
-|             24 | Remi Bourdeau           |      84.43 |       17 |     127.11 | Uini Atonio           |             39 |
-|             24 | Tevita Tatafu           |      40.99 |       18 |      62.43 | Joel Sclavi           |             24 |
-|             17 | Cheikh Tiberghien       |      27.39 |       19 |      66.39 | Jules Favre           |             23 |
-|             12 | Pieter Scholtz          |       8.37 |       20 |      33.8  | Judicael Cancoriet    |             17 |
-|             13 | Gela Aprasidze          |      48.83 |       21 |      44.53 | Remi Picquette        |             15 |
-|              9 | Guillaume Martocq       |      24.68 |       22 |      43.2  | Hugo Reus             |              3 |
-|              5 | Thomas Acquier          |      59.55 |       23 |     nan    | nan                   |            nan |
+|             68 | Matis Perchaud          |      31.93 |        1 |      55.96 | Thierry Paiva         |             56 |
+|             75 | Vincent Giudicelli      |      25.76 |        2 |      48.9  | Quentin Lespiaucq     |             39 |
+|             56 | Pascal Cotet            |      25.77 |        3 |      22.03 | Georges-Henri Colombe |             41 |
+|             80 | Manuel Leindekar        |      14.38 |        4 |      68.1  | Thomas Lavault        |             80 |
+|             65 | Lucas Paulos            |      58.43 |        5 |      62.13 | Ultan Dillane         |             65 |
+|             80 | Pierre Huguet           |      20.64 |        6 |      38.54 | Paul Boudehent        |             80 |
+|             56 | Baptiste Heguy          |      67    |        7 |     104.02 | Levani Botia          |             80 |
+|             80 | Rodrigo Bruni           |      96.68 |        8 |      60.5  | Yoan Tanga            |             63 |
+|             67 | Guillaume Rouet Piffard |      60.58 |        9 |     112.57 | Tawera Kerr-Barlow    |             80 |
+|             80 | Camille Lopez           |      96.02 |       10 |      54.87 | Antoine Hastoy        |             77 |
+|             80 | Nadir Megdoud           |      59.23 |       11 |      98.46 | Jack Nowell           |             80 |
+|             71 | Federico Mori           |      37.53 |       12 |     117.99 | Jonathan Danty        |             57 |
+|             80 | Sireli Maqala           |      70.7  |       13 |      54.27 | Ulupano Seuteni       |             80 |
+|             80 | Bastien Pourailly       |       4.64 |       14 |      88.97 | Teddy Thomas          |             80 |
+|             63 | Tom Spring              |      25.74 |       15 |     122.53 | Brice Dulin           |             80 |
+|             15 | Thomas Ceyte            |      39.3  |       16 |      78.48 | Pierre Bourgarit      |             41 |
+|             24 | Remi Bourdeau           |      84.66 |       17 |     127.2  | Uini Atonio           |             39 |
+|             24 | Tevita Tatafu           |      41.08 |       18 |      61.7  | Joel Sclavi           |             24 |
+|             17 | Cheikh Tiberghien       |      27.35 |       19 |      66.55 | Jules Favre           |             23 |
+|             12 | Pieter Scholtz          |       8.27 |       20 |      32.41 | Judicael Cancoriet    |             17 |
+|             13 | Gela Aprasidze          |      48.78 |       21 |      44.8  | Remi Picquette        |             15 |
+|              9 | Guillaume Martocq       |      24.7  |       22 |      43.24 | Hugo Reus             |              3 |
+|              5 | Thomas Acquier          |      59.62 |       23 |     nan    | nan                   |            nan |
 

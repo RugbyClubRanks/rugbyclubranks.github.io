@@ -40,11 +40,11 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Player Minutes: Colomiers by 0.9
 
 
-Vannes by 3.7 on a neutral field
+Vannes by 3.6 on a neutral field
 ## Prediction without Player Minutes: Vannes by 0.9
 
 
-Vannes by 5.5 on a neutral pitch
+Vannes by 5.4 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -83,31 +83,31 @@ Vannes by 5.5 on a neutral pitch
 </p>
 
 
-There were 6 large changes in win probability in this match
+There were 7 large changes in win probability in this match
 
 |   Away Minutes | Away Player         |   Away elo |   Number |   Home elo | Home Player           |   Home Minutes |
 |---------------:|:--------------------|-----------:|---------:|-----------:|:----------------------|---------------:|
-|             60 | Andy Bordelai       |      68.47 |        1 |      47.01 | Guillaume Tartas      |             50 |
-|             48 | Pat Leafa           |      75.18 |        2 |      33.75 | Andrew Ready          |             50 |
-|             49 | Phil Kite           |      70.27 |        3 |      10.89 | Marco Fepulea'i       |             50 |
-|             60 | Hamish Bain         |      59.22 |        4 |      80.85 | Rob Harley            |             80 |
-|             48 | Mattéo Desjeux      |      46.14 |        5 |      34.92 | Janse Roux            |             60 |
-|             56 | Léon Boulier        |      47.57 |        6 |      46.02 | Joseva Tamani         |             80 |
-|             80 | Gregoire Bazin      |      40.52 |        7 |      32.79 | Anthony Coletta       |             60 |
-|             80 | Joe Edwards         |      85.58 |        8 |      54.42 | Aldric Lescure        |             38 |
-|             60 | Jules Le Bail       |      51.99 |        9 |      36.46 | Ugo Seguela           |             66 |
-|             60 | Maxime Lafage       |     102.6  |       10 |      17.18 | Maxime Javaux         |             80 |
-|             80 | Romaric Camou       |      48.53 |       11 |      86.61 | Rodrigo Marta         |             80 |
-|             80 | Andres Vilaseca     |      20.01 |       12 |      42.18 | Ray Nu'u              |             80 |
-|             80 | Arthur Proult       |       3.94 |       13 |      46.32 | Enzo Salles           |             56 |
-|             80 | Martin Alonso Munoz |      44.4  |       14 |      62.6  | Vincent Pinto         |             80 |
-|             80 | Paul Surano         |      53.72 |       15 |      30.02 | Thomas Girard         |             80 |
-|             32 | Cyril Blanchard     |      43.52 |       16 |      46.66 | Jeremy Bechu          |             42 |
-|             32 | Matthieu Uhila      |      47.74 |       17 |      -1.35 | Thomas Larrieu        |             30 |
-|             31 | Jérémy Boyadjis     |      58.39 |       18 |      67.43 | Michael Simutoga      |             30 |
-|             24 | Karl Chateau        |      28.62 |       19 |      42.59 | Pierre-Samuel Pacheco |             30 |
-|             20 | Ximun Bessonart     |      37.82 |       20 |      56.1  | Paul Pimienta         |             24 |
-|             20 | Sione Kalamafoni    |      52.46 |       21 |      44.28 | Louis Descoux         |             20 |
-|             20 | Erwan Nicolas       |      40.68 |       22 |      45.98 | Waël Ponpon           |             20 |
-|             20 | Massimo Ortolan     |      22.77 |       23 |      47.17 | Arthur Diaz           |             14 |
+|             60 | Andy Bordelai       |      68.53 |        1 |      46.87 | Guillaume Tartas      |             50 |
+|             48 | Pat Leafa           |      75.56 |        2 |      33.55 | Andrew Ready          |             50 |
+|             49 | Phil Kite           |      70.3  |        3 |      12.7  | Marco Fepulea'i       |             50 |
+|             60 | Hamish Bain         |      58.51 |        4 |      82.08 | Rob Harley            |             80 |
+|             48 | Mattéo Desjeux      |      46.17 |        5 |      34.78 | Janse Roux            |             60 |
+|             56 | Léon Boulier        |      47.77 |        6 |      45.28 | Joseva Tamani         |             80 |
+|             80 | Gregoire Bazin      |      40.51 |        7 |      32.6  | Anthony Coletta       |             60 |
+|             80 | Joe Edwards         |      85.9  |        8 |      54.12 | Aldric Lescure        |             38 |
+|             60 | Jules Le Bail       |      51.93 |        9 |      36.22 | Ugo Seguela           |             66 |
+|             60 | Maxime Lafage       |     102.77 |       10 |      16.95 | Maxime Javaux         |             80 |
+|             80 | Romaric Camou       |      48.6  |       11 |      86.45 | Rodrigo Marta         |             80 |
+|             80 | Andres Vilaseca     |      19    |       12 |      43.67 | Ray Nu'u              |             80 |
+|             80 | Arthur Proult       |       3.9  |       13 |      46.17 | Enzo Salles           |             56 |
+|             80 | Martin Alonso Munoz |      44.41 |       14 |      62.45 | Vincent Pinto         |             80 |
+|             80 | Paul Surano         |      53.72 |       15 |      29.69 | Thomas Girard         |             80 |
+|             32 | Cyril Blanchard     |      43.62 |       16 |      46.62 | Jeremy Bechu          |             42 |
+|             32 | Matthieu Uhila      |      47.75 |       17 |      -1.66 | Thomas Larrieu        |             30 |
+|             31 | Jérémy Boyadjis     |      58.36 |       18 |      67.22 | Michael Simutoga      |             30 |
+|             24 | Karl Chateau        |      28.8  |       19 |      42.4  | Pierre-Samuel Pacheco |             30 |
+|             20 | Ximun Bessonart     |      37.85 |       20 |      56.09 | Paul Pimienta         |             24 |
+|             20 | Sione Kalamafoni    |      53.43 |       21 |      44.23 | Louis Descoux         |             20 |
+|             20 | Erwan Nicolas       |      40.63 |       22 |      45.72 | Waël Ponpon           |             20 |
+|             20 | Massimo Ortolan     |      22.82 |       23 |      47.15 | Arthur Diaz           |             14 |
 

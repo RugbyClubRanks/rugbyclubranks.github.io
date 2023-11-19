@@ -44,7 +44,7 @@ Bourgoin-Jallieu by 5.3 on a neutral field
 ## Prediction without Player Minutes: Bourgoin-Jallieu by 10.6
 
 
-Bourgoin-Jallieu by 6.1 on a neutral pitch
+Bourgoin-Jallieu by 6.2 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -87,27 +87,27 @@ There were 13 large changes in win probability in this match
 
 |   Away Minutes | Away Player              |   Away elo |   Number |   Home elo | Home Player              |   Home Minutes |
 |---------------:|:-------------------------|-----------:|---------:|-----------:|:-------------------------|---------------:|
-|             46 | Fernandez Correa         |       0.71 |        1 |      36.6  | Zhorzhi (Jorji) Saldadze |             64 |
-|             46 | Nolan Pienaar            |      48.24 |        2 |      57.34 | Killian Tripier          |             56 |
-|             46 | Tijde Visser             |      37.96 |        3 |      44.78 | Maxime Calliet           |             56 |
-|             58 | Saba Pesvianidze         |      54.27 |        4 |      40.81 | Poutasi Luafutu          |             72 |
-|             80 | Koen Bloemen             |      12.23 |        5 |     -12.81 | Morgan Eames             |             80 |
-|             65 | Abongile Nonkontwana     |      -1.17 |        6 |      44.14 | Kevin Chaudouard         |             80 |
-|             65 | Alexandre Loubiere       |      46.83 |        7 |      38.25 | Theophile Cotte          |             56 |
-|             80 | Samuel Nollet            |      17.17 |        8 |      64.13 | Kevin Rivoire            |             72 |
-|             40 | Lucas Rubio              |      18.45 |        9 |      60.42 | Jeremy Gondrand          |             80 |
-|             80 | Hugo Verdu               |      12.24 |       10 |      32.02 | Aviata Silago            |             80 |
-|             80 | Yanis Dit Robaglia       |      22.83 |       11 |      21.54 | Quentin Lefort           |             64 |
-|             49 | Arthur Seigneuret        |      43.41 |       12 |      54.54 | Pieter Morton            |             72 |
-|             80 | Tom Cusson               |      32.06 |       13 |      33.75 | Christopher Bosch        |             80 |
-|             80 | Martin Carre             |      51.48 |       14 |      41.02 | Paul-Hugo Champ          |             80 |
-|             80 | Tom Deleuze              |      27.8  |       15 |      39.6  | Nicolas Cachet           |             80 |
-|             40 | Alex Preira              |      58.43 |       16 |      40.55 | Romain Favaretto         |             16 |
-|             34 | Robin Poipy              |      42.31 |       17 |      24    | Mohamed Khribache        |             24 |
-|             34 | Pierre-Alexandre Duclieu |      41.49 |       18 |      48.33 | Oktay Yilmaz             |             24 |
-|             34 | Nicolas Ferrer           |      43.63 |       19 |      62.65 | Bynjamin Rabatel         |             24 |
-|             31 | Victorien Jacomme        |      48.38 |       20 |      25.09 | Brieuc Plessis-Couillaud |             16 |
-|             22 | Lilian Rousset           |      47.83 |       21 |      41.07 | Robin Gascou             |              8 |
-|             15 | Tony Tissot              |      35.81 |       22 |      53.4  | Théo Lepage              |              8 |
-|             15 | Clément Vidoni           |      42.25 |       23 |      57.77 | Tomas Munilla lo Duca    |              8 |
+|             46 | Fernandez Correa         |       0.8  |        1 |      36.59 | Zhorzhi (Jorji) Saldadze |             64 |
+|             46 | Nolan Pienaar            |      48.25 |        2 |      57.34 | Killian Tripier          |             56 |
+|             46 | Tijde Visser             |      38.01 |        3 |      44.77 | Maxime Calliet           |             56 |
+|             58 | Saba Pesvianidze         |      54.35 |        4 |      40.68 | Poutasi Luafutu          |             72 |
+|             80 | Koen Bloemen             |      11.96 |        5 |     -12.64 | Morgan Eames             |             80 |
+|             65 | Abongile Nonkontwana     |      -1.21 |        6 |      44.08 | Kevin Chaudouard         |             80 |
+|             65 | Alexandre Loubiere       |      46.8  |        7 |      38.37 | Theophile Cotte          |             56 |
+|             80 | Samuel Nollet            |      17.24 |        8 |      64.2  | Kevin Rivoire            |             72 |
+|             40 | Lucas Rubio              |      18.44 |        9 |      60.47 | Jeremy Gondrand          |             80 |
+|             80 | Hugo Verdu               |      12.35 |       10 |      32.12 | Aviata Silago            |             80 |
+|             80 | Yanis Dit Robaglia       |      22.83 |       11 |      21.63 | Quentin Lefort           |             64 |
+|             49 | Arthur Seigneuret        |      43.39 |       12 |      54.55 | Pieter Morton            |             72 |
+|             80 | Tom Cusson               |      32.04 |       13 |      33.84 | Christopher Bosch        |             80 |
+|             80 | Martin Carre             |      51.52 |       14 |      41.04 | Paul-Hugo Champ          |             80 |
+|             80 | Tom Deleuze              |      27.8  |       15 |      39.84 | Nicolas Cachet           |             80 |
+|             40 | Alex Preira              |      58.45 |       16 |      40.53 | Romain Favaretto         |             16 |
+|             34 | Robin Poipy              |      42.29 |       17 |      24.16 | Mohamed Khribache        |             24 |
+|             34 | Pierre-Alexandre Duclieu |      41.49 |       18 |      48.32 | Oktay Yilmaz             |             24 |
+|             34 | Nicolas Ferrer           |      43.66 |       19 |      62.78 | Bynjamin Rabatel         |             24 |
+|             31 | Victorien Jacomme        |      48.46 |       20 |      25.3  | Brieuc Plessis-Couillaud |             16 |
+|             22 | Lilian Rousset           |      47.79 |       21 |      41.11 | Robin Gascou             |              8 |
+|             15 | Tony Tissot              |      35.79 |       22 |      53.38 | Théo Lepage              |              8 |
+|             15 | Clément Vidoni           |      42.25 |       23 |      57.7  | Tomas Munilla lo Duca    |              8 |
 

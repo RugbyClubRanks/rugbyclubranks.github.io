@@ -40,5 +40,5 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Imputed Lineups: Nice by 12.6
 
 
-Nice by 9.3 on a neutral pitch
+Nice by 9.4 on a neutral pitch
 

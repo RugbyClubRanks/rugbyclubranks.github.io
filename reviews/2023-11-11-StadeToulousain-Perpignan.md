@@ -9,7 +9,7 @@ categories: "Top 14 Orange 2023" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.861, which translates to predicting Stade Toulousain to win by 16.1.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.862, which translates to predicting Stade Toulousain to win by 16.1.
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -40,7 +40,7 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Player Minutes: Stade Toulousain by 26.0
 
 
-Stade Toulousain by 21.0 on a neutral field
+Stade Toulousain by 21.1 on a neutral field
 ## Prediction without Player Minutes: Stade Toulousain by 26.0
 
 
@@ -87,27 +87,27 @@ There were 1 large changes in win probability in this match
 
 |   Away Minutes | Away Player          |   Away elo |   Number |   Home elo | Home Player            |   Home Minutes |
 |---------------:|:---------------------|-----------:|---------:|-----------:|:-----------------------|---------------:|
-|             52 | Sacha Lotrian        |      53.92 |        1 |      42.6  | Rodrigue Neti          |             57 |
-|             57 | Ignacio Ruiz         |      53.58 |        2 |      88.76 | Peato Mauvaka          |             57 |
-|             57 | Arthur Joly          |      98.69 |        3 |     102.87 | Dorian Aldegheri       |             57 |
-|             57 | Marvin Orie          |      48.48 |        4 |      39.72 | Richie Arnold          |             57 |
-|             80 | Mathieu Tanguy       |      23.82 |        5 |      83.04 | Thibaud Flament        |             80 |
-|             46 | Lucas Bachelier      |      64.71 |        6 |     109.14 | Anthony Jelonch        |             48 |
-|             80 | Kelian Galletier     |      34.91 |        7 |     123.68 | Francois Cros          |             52 |
-|             57 | So'otala Fa'aso'o    |      83.02 |        8 |      86.58 | Alexandre Roumat       |             80 |
-|             80 | Sadek Deghmache      |      27.66 |        9 |      42.95 | Paul Graou             |             80 |
-|             46 | Jake McIntyre        |      56.45 |       10 |     124.36 | Thomas Ramos           |             47 |
-|             80 | Lucas Dubois         |      50.71 |       11 |      80.29 | Arthur Retiere         |             52 |
-|             58 | Edward Sawailau      |     -25.59 |       12 |      64.01 | Pierre-Louis Barassi   |             80 |
-|             80 | Alivereti Duguivalu  |      17.86 |       13 |      53.17 | Paul Costes            |             80 |
-|             80 | Louis Dupichot       |      55.68 |       14 |      87.81 | Ange Capuozzo          |             80 |
-|             80 | Jean Pascal Barraque |      38.03 |       15 |      66.75 | Melvyn Jaminet         |             80 |
-|             34 | Jacobus van Tonder   |      53.28 |       16 |     138.54 | Antoine Dupont         |             33 |
-|             34 | Matteo Rodor         |      37.94 |       17 |      72.68 | Rynhardt Elstadt       |             32 |
-|             28 | Xavier Chiocci       |      31.28 |       18 |      47.7  | Mathis Castro Ferreira |             28 |
-|             23 | Pietro Ceccarelli    |      45.16 |       19 |      99.7  | Sofiane Guitoune       |             28 |
-|             23 | Posolo Tuilagi       |      39.38 |       20 |      62.68 | Owen Franks            |             23 |
-|             23 | Seilala Lam          |      55.95 |       21 |      97.55 | Cyril Baille           |             23 |
-|             22 | Mathieu Acebes       |      77.05 |       22 |      38.24 | Ian Boubila            |             23 |
-|             23 | Lucas Velarte        |      24.79 |       23 |      65.99 | Piula Faasalele        |             23 |
+|             52 | Sacha Lotrian        |      53.9  |        1 |      42.32 | Rodrigue Neti          |             57 |
+|             57 | Ignacio Ruiz         |      53.54 |        2 |      88.95 | Peato Mauvaka          |             57 |
+|             57 | Arthur Joly          |      98.6  |        3 |     102.21 | Dorian Aldegheri       |             57 |
+|             57 | Marvin Orie          |      48.95 |        4 |      39.92 | Richie Arnold          |             57 |
+|             80 | Mathieu Tanguy       |      24.13 |        5 |      83.2  | Thibaud Flament        |             80 |
+|             46 | Lucas Bachelier      |      64.76 |        6 |     109.55 | Anthony Jelonch        |             48 |
+|             80 | Kelian Galletier     |      34.71 |        7 |     123.76 | Francois Cros          |             52 |
+|             57 | So'otala Fa'aso'o    |      83.01 |        8 |      87.13 | Alexandre Roumat       |             80 |
+|             80 | Sadek Deghmache      |      27.74 |        9 |      42.67 | Paul Graou             |             80 |
+|             46 | Jake McIntyre        |      56.54 |       10 |     124.2  | Thomas Ramos           |             47 |
+|             80 | Lucas Dubois         |      50.97 |       11 |      80.27 | Arthur Retiere         |             52 |
+|             58 | Edward Sawailau      |     -25.7  |       12 |      63.82 | Pierre-Louis Barassi   |             80 |
+|             80 | Alivereti Duguivalu  |      17.97 |       13 |      53.23 | Paul Costes            |             80 |
+|             80 | Louis Dupichot       |      55.28 |       14 |      90.01 | Ange Capuozzo          |             80 |
+|             80 | Jean Pascal Barraque |      39.23 |       15 |      66.93 | Melvyn Jaminet         |             80 |
+|             34 | Jacobus van Tonder   |      53    |       16 |     138.75 | Antoine Dupont         |             33 |
+|             34 | Matteo Rodor         |      38.02 |       17 |      72.48 | Rynhardt Elstadt       |             32 |
+|             28 | Xavier Chiocci       |      30.08 |       18 |      47.71 | Mathis Castro Ferreira |             28 |
+|             23 | Pietro Ceccarelli    |      46.31 |       19 |      99.43 | Sofiane Guitoune       |             28 |
+|             23 | Posolo Tuilagi       |      39.34 |       20 |      62.37 | Owen Franks            |             23 |
+|             23 | Seilala Lam          |      56.05 |       21 |      97.16 | Cyril Baille           |             23 |
+|             22 | Mathieu Acebes       |      77.23 |       22 |      38.18 | Ian Boubila            |             23 |
+|             23 | Lucas Velarte        |      24.85 |       23 |      66.27 | Piula Faasalele        |             23 |
 

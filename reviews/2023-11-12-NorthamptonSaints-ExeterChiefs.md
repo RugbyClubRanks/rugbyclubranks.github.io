@@ -87,19 +87,19 @@ There were 5 large changes in win probability in this match
 
 |   Away Minutes | Away Player           |   Away elo |   Number |   Home elo | Home Player       |   Home Minutes |
 |---------------:|:----------------------|-----------:|---------:|-----------:|:------------------|---------------:|
-|             80 | Nika Abuladze         |      69.7  |        1 |      94.78 | Alex Waller       |             80 |
-|             80 | Dan Frost             |      53.63 |        2 |      57.72 | Curtis Langdon    |             80 |
-|             80 | Josh Iosefa-Scott     |      84.49 |        3 |      91.81 | Paul Hill         |             80 |
-|             80 | Dafydd Jenkins        |      72.67 |        4 |      79.66 | Alex Moon         |             80 |
-|             80 | Lewis Pearson         |      51.39 |        5 |      49.16 | Chunya Munga      |             80 |
-|             80 | Ethan Roots           |      66.17 |        6 |      89.33 | Courtney Lawes    |             80 |
-|             80 | Jacques Vermeulen     |      69.15 |        7 |      41.18 | Angus Scott-Young |             80 |
-|             80 | Ross Micheal Vintcent |      49.64 |        8 |      82.2  | Sam Graham        |             80 |
-|             80 | Tom Cairns            |      61.32 |        9 |      68.5  | Alex Mitchell     |             80 |
-|             80 | Harvey Skinner        |      41.59 |       10 |      45.9  | Fin Smith         |             80 |
-|             80 | Ben Hammersley        |      57.57 |       11 |      60.89 | James Ramm        |             80 |
-|             80 | Joe Hawkins           |      35.35 |       12 |      52.61 | Fraser Dingwall   |             80 |
-|             80 | Henry Slade           |     107.8  |       13 |      70.67 | Tommy Freeman     |             80 |
-|             80 | Immanuel Feyi-Waboso  |      66.76 |       14 |       0.71 | Tom Seabrook      |             80 |
-|             80 | Tom Wyatt             |      82.05 |       15 |      63.44 | George Hendy      |             80 |
+|             80 | Nika Abuladze         |      69.72 |        1 |      92.79 | Alex Waller       |             80 |
+|             80 | Dan Frost             |      53.54 |        2 |      58.1  | Curtis Langdon    |             80 |
+|             80 | Josh Iosefa-Scott     |      84.67 |        3 |      91.57 | Paul Hill         |             80 |
+|             80 | Dafydd Jenkins        |      72.91 |        4 |      79.94 | Alex Moon         |             80 |
+|             80 | Lewis Pearson         |      51.22 |        5 |      49.16 | Chunya Munga      |             80 |
+|             80 | Ethan Roots           |      66.66 |        6 |      90.63 | Courtney Lawes    |             80 |
+|             80 | Jacques Vermeulen     |      69.38 |        7 |      40.87 | Angus Scott-Young |             80 |
+|             80 | Ross Micheal Vintcent |      49.63 |        8 |      82.41 | Sam Graham        |             80 |
+|             80 | Tom Cairns            |      61.29 |        9 |      69.75 | Alex Mitchell     |             80 |
+|             80 | Harvey Skinner        |      41.7  |       10 |      46.05 | Fin Smith         |             80 |
+|             80 | Ben Hammersley        |      57.61 |       11 |      61.59 | James Ramm        |             80 |
+|             80 | Joe Hawkins           |      35.41 |       12 |      53.06 | Fraser Dingwall   |             80 |
+|             80 | Henry Slade           |     109.1  |       13 |      70.5  | Tommy Freeman     |             80 |
+|             80 | Immanuel Feyi-Waboso  |      66.79 |       14 |       0.8  | Tom Seabrook      |             80 |
+|             80 | Tom Wyatt             |      82    |       15 |      63.5  | George Hendy      |             80 |
 

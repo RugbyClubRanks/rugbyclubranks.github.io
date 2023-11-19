@@ -87,27 +87,27 @@ There were 2 large changes in win probability in this match
 
 |   Away Minutes | Away Player              |   Away elo |   Number |   Home elo | Home Player           |   Home Minutes |
 |---------------:|:-------------------------|-----------:|---------:|-----------:|:----------------------|---------------:|
-|             59 | Louan Capuano            |      32.66 |        1 |      42.41 | Florent Lorenzon      |             55 |
-|             59 | Axel Benjamin            |      39.57 |        2 |      50.54 | Raphael Carbou        |             55 |
-|             66 | Pierre-Mathieu Fernandes |      31.45 |        3 |      59.13 | Fabien Lorenzon       |             55 |
-|             80 | Ciaran O'Flynn           |      22.92 |        4 |      25.09 | Romain Manchia        |             59 |
-|             40 | Mathias Bastide          |      28.67 |        5 |      31.51 | Clément Fontaine      |             80 |
-|             53 | Romain Falcoz            |      32.39 |        6 |      42.21 | Etienne Herjean       |             80 |
-|             80 | Steven Giroud            |      25.58 |        7 |      47.2  | Valentin Sese         |             48 |
-|             62 | Geoffrey Nouhaillaguet   |       7.47 |        8 |      52.35 | Carl Fearns           |             80 |
-|             62 | Alexandre Jarguel        |      37.37 |        9 |      27.21 | Gaetan Pichon         |             59 |
-|             80 | Tom Richard              |      19.1  |       10 |      57.37 | Gabin Michet          |             59 |
-|             80 | Martin Arfi              |      37.33 |       11 |      60.04 | Clement Egiziano      |             80 |
-|             80 | Axel Derderian           |      39.42 |       12 |      21.99 | Jordan Puletua        |             80 |
-|             80 | Pierre Mollard           |      21.03 |       13 |      41.1  | Tutuila Vaea          |             80 |
-|             80 | Mathieu Bonnet-Gonnnet   |      58.6  |       14 |      78.59 | Léo Darrelatour       |             80 |
-|             75 | Brandon Bellavia         |      16.1  |       15 |      63.02 | Maxime Gianet         |             57 |
-|             21 | Benjamin Robin           |      30.53 |       16 |      46.44 | Yan Arnold            |             25 |
-|             21 | Romain Eliot             |      33.01 |       17 |      51.36 | Luka Petriashvili     |             25 |
-|             14 | Tau Junior Fifita        |      43.88 |       18 |      22.67 | Vakhtangi Akhobadze   |             25 |
-|             40 | Guillaume Moroldo        |      28.27 |       19 |      24.71 | Marius Iftimiciuc     |             21 |
-|             18 | Nathanael Grosu          |      40.08 |       20 |      43.72 | Romain Guyot          |             32 |
-|             27 | Charles Massot           |      23.36 |       21 |      -1.92 | Martin Landajo        |             21 |
-|              5 | Julien Hervouet          |      34.43 |       22 |      43.33 | Damien Añon           |             21 |
-|             18 | Malory Piet              |      15.8  |       23 |      31.06 | Sakiusa Bureitakiyaca |             23 |
+|             59 | Louan Capuano            |      32.65 |        1 |      42.47 | Florent Lorenzon      |             55 |
+|             59 | Axel Benjamin            |      39.58 |        2 |      50.4  | Raphael Carbou        |             55 |
+|             66 | Pierre-Mathieu Fernandes |      31.46 |        3 |      59.21 | Fabien Lorenzon       |             55 |
+|             80 | Ciaran O'Flynn           |      22.91 |        4 |      25    | Romain Manchia        |             59 |
+|             40 | Mathias Bastide          |      28.61 |        5 |      31.56 | Clément Fontaine      |             80 |
+|             53 | Romain Falcoz            |      32.33 |        6 |      42.1  | Etienne Herjean       |             80 |
+|             80 | Steven Giroud            |      25.57 |        7 |      47.33 | Valentin Sese         |             48 |
+|             62 | Geoffrey Nouhaillaguet   |       7.4  |        8 |      52.2  | Carl Fearns           |             80 |
+|             62 | Alexandre Jarguel        |      37.38 |        9 |      27.28 | Gaetan Pichon         |             59 |
+|             80 | Tom Richard              |      19.07 |       10 |      57.46 | Gabin Michet          |             59 |
+|             80 | Martin Arfi              |      37.36 |       11 |      60.08 | Clement Egiziano      |             80 |
+|             80 | Axel Derderian           |      39.44 |       12 |      22.19 | Jordan Puletua        |             80 |
+|             80 | Pierre Mollard           |      21    |       13 |      41.17 | Tutuila Vaea          |             80 |
+|             80 | Mathieu Bonnet-Gonnnet   |      58.56 |       14 |      78.73 | Léo Darrelatour       |             80 |
+|             75 | Brandon Bellavia         |      16.03 |       15 |      62.89 | Maxime Gianet         |             57 |
+|             21 | Benjamin Robin           |      30.51 |       16 |      46.44 | Yan Arnold            |             25 |
+|             21 | Romain Eliot             |      32.99 |       17 |      51.35 | Luka Petriashvili     |             25 |
+|             14 | Tau Junior Fifita        |      43.89 |       18 |      22.69 | Vakhtangi Akhobadze   |             25 |
+|             40 | Guillaume Moroldo        |      28.24 |       19 |      24.84 | Marius Iftimiciuc     |             21 |
+|             18 | Nathanael Grosu          |      40.09 |       20 |      43.85 | Romain Guyot          |             32 |
+|             27 | Charles Massot           |      23.3  |       21 |      -1.16 | Martin Landajo        |             21 |
+|              5 | Julien Hervouet          |      34.45 |       22 |      43.25 | Damien Añon           |             21 |
+|             18 | Malory Piet              |      15.73 |       23 |      31.07 | Sakiusa Bureitakiyaca |             23 |
 

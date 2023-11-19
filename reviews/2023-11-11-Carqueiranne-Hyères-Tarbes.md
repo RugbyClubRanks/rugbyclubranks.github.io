@@ -40,11 +40,11 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Player Minutes: Carqueiranne-Hyères by 4.6
 
 
-Carqueiranne-Hyères by 1.4 on a neutral field
+Carqueiranne-Hyères by 1.5 on a neutral field
 ## Prediction without Player Minutes: Carqueiranne-Hyères by 4.9
 
 
-Carqueiranne-Hyères by 1.7 on a neutral pitch
+Carqueiranne-Hyères by 1.8 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -87,27 +87,27 @@ There were 2 large changes in win probability in this match
 
 |   Away Minutes | Away Player            |   Away elo |   Number |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:-----------------------|-----------:|---------:|-----------:|:--------------------|---------------:|
-|             45 | Antoine Palisse        |      47.12 |        1 |      48.17 | Sti Sithole         |             53 |
-|             45 | Enzo Mondon            |      39.8  |        2 |      42.52 | Yan Tabarot         |             53 |
-|             45 | Aleksi Tchitchiashvili |      38.22 |        3 |      50.05 | Lasha Mchelidze     |             53 |
-|             80 | Baptiste Peytavi       |      46.88 |        4 |      25.6  | Adam Peters         |             80 |
-|             45 | Jone Trevor Seuvou     |      30.83 |        5 |      19.89 | Lucas Cazac         |             56 |
-|             45 | Léo Estaque            |      39.61 |        6 |      31.32 | Nicolas Baquer      |             80 |
-|             80 | Aurelien Ricart        |      45.67 |        7 |      52.5  | Joachim Beaumont    |             80 |
-|             80 | Len Massyn             |      35.81 |        8 |      50.45 | Andre Gorin         |             59 |
-|             50 | Anthony Meric          |      18.3  |        9 |      31.4  | Rémi Dubié          |             60 |
-|             80 | Anthony Fuertes        |      20.59 |       10 |      42.62 | Juan Kotze          |             67 |
-|             80 | Johan Paulet           |      25.67 |       11 |      50.11 | Paul Gadea          |             80 |
-|             80 | Kalione Nasoko         |      47.78 |       12 |      36.69 | Dylan Sage          |             80 |
-|             80 | Savenaca Rawaca        |      35.76 |       13 |      35.59 | Charles Brousse     |             80 |
-|             50 | William Pees           |      34.11 |       14 |      46.46 | Quentin Bourdieu    |             54 |
-|             50 | Yon Camou              |      48.01 |       15 |      34.52 | Adrien Amans        |             80 |
-|             35 | Alexandre Combier      |      33.27 |       16 |      42.71 | Eli Serra-Miglietti |             27 |
-|             35 | Florian Lamothe        |      49.83 |       17 |      34.37 | Theo Lachaud        |             27 |
-|             35 | Toma Taufa             |      47.19 |       18 |      48.85 | Costel Burtila      |             27 |
-|             35 | Antoine Bousquet       |      39.56 |       19 |      29.32 | Nathan Gendre       |             24 |
-|             35 | Léo Saint-Guilhem      |      40.46 |       20 |      36.9  | Spike Salman        |             21 |
-|             30 | Thibaut Dulucq         |      35.93 |       21 |      59.38 | Thomas Sonetti      |             20 |
-|             30 | Clement Latorre        |      41.74 |       22 |      36.27 | Théo Defrance       |             13 |
-|             30 | Thibaut Trotta         |      35.1  |       23 |      52.5  | Romain Leveque      |             26 |
+|             45 | Antoine Palisse        |      47.11 |        1 |      48.62 | Sti Sithole         |             53 |
+|             45 | Enzo Mondon            |      39.81 |        2 |      42.55 | Yan Tabarot         |             53 |
+|             45 | Aleksi Tchitchiashvili |      38.24 |        3 |      50.07 | Lasha Mchelidze     |             53 |
+|             80 | Baptiste Peytavi       |      46.87 |        4 |      25.55 | Adam Peters         |             80 |
+|             45 | Jone Trevor Seuvou     |      30.78 |        5 |      19.95 | Lucas Cazac         |             56 |
+|             45 | Léo Estaque            |      39.6  |        6 |      31.31 | Nicolas Baquer      |             80 |
+|             80 | Aurelien Ricart        |      45.64 |        7 |      52.44 | Joachim Beaumont    |             80 |
+|             80 | Len Massyn             |      35.86 |        8 |      50.74 | Andre Gorin         |             59 |
+|             50 | Anthony Meric          |      17.83 |        9 |      31.38 | Rémi Dubié          |             60 |
+|             80 | Anthony Fuertes        |      20.54 |       10 |      42.68 | Juan Kotze          |             67 |
+|             80 | Johan Paulet           |      25.73 |       11 |      50.14 | Paul Gadea          |             80 |
+|             80 | Kalione Nasoko         |      47.76 |       12 |      36.61 | Dylan Sage          |             80 |
+|             80 | Savenaca Rawaca        |      35.74 |       13 |      35.56 | Charles Brousse     |             80 |
+|             50 | William Pees           |      34.09 |       14 |      46.48 | Quentin Bourdieu    |             54 |
+|             50 | Yon Camou              |      48.01 |       15 |      34.56 | Adrien Amans        |             80 |
+|             35 | Alexandre Combier      |      33.28 |       16 |      42.7  | Eli Serra-Miglietti |             27 |
+|             35 | Florian Lamothe        |      49.8  |       17 |      34.4  | Theo Lachaud        |             27 |
+|             35 | Toma Taufa             |      47.23 |       18 |      48.86 | Costel Burtila      |             27 |
+|             35 | Antoine Bousquet       |      39.6  |       19 |      29.38 | Nathan Gendre       |             24 |
+|             35 | Léo Saint-Guilhem      |      40.47 |       20 |      36.67 | Spike Salman        |             21 |
+|             30 | Thibaut Dulucq         |      35.94 |       21 |      59.35 | Thomas Sonetti      |             20 |
+|             30 | Clement Latorre        |      41.73 |       22 |      36.3  | Théo Defrance       |             13 |
+|             30 | Thibaut Trotta         |      35.1  |       23 |      52.52 | Romain Leveque      |             26 |
 

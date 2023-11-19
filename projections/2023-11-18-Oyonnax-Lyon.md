@@ -40,5 +40,5 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Imputed Lineups: Lyon by 1.5
 
 
-Lyon by 6.3 on a neutral pitch
+Lyon by 6.2 on a neutral pitch
 

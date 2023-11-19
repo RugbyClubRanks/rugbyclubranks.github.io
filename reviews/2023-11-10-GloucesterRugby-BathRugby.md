@@ -37,14 +37,14 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Gloucester Rugby by 1.6
+## Prediction with Player Minutes: Gloucester Rugby by 1.7
 
 
-Bath Rugby by 3.4 on a neutral field
-## Prediction without Player Minutes: Gloucester Rugby by 3.6
+Bath Rugby by 3.3 on a neutral field
+## Prediction without Player Minutes: Gloucester Rugby by 3.7
 
 
-Bath Rugby by 1.4 on a neutral pitch
+Bath Rugby by 1.3 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -87,26 +87,26 @@ There were 13 large changes in win probability in this match
 
 |   Away Minutes | Away Player       |   Away elo |   Number |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:------------------|-----------:|---------:|-----------:|:--------------------|---------------:|
-|             69 | Beno Obano        |      47.08 |        1 |      34.93 | Mayco Vivas         |             53 |
-|             69 | Tom Dunn          |      81.27 |        2 |      54.41 | George McGuigan     |             61 |
-|             51 | Will Stuart       |      28.13 |        3 |      43.28 | Fraser Balmain      |             48 |
-|             73 | Fergus Lee-Warner |      26.48 |        4 |      38.64 | Freddie Clarke      |             80 |
-|             80 | Charlie Ewels     |      27.49 |        5 |      59.06 | Matias Alemanno     |             69 |
-|             80 | Miles Reid        |      79.71 |        6 |      41.76 | Jack Clement        |             80 |
-|             80 | Sam Underhill     |      60.04 |        7 |      42.26 | Lewis Ludlow        |             80 |
-|             61 | Alfie Barbeary    |      42.79 |        8 |      78.36 | Albert Tuisue       |             53 |
-|             79 | Ben Spencer       |      43.58 |        9 |      29.45 | Stephen Varney      |             80 |
-|             80 | Finn Russell      |     130.78 |       10 |      49.42 | George Barton       |             80 |
-|             80 | Will Muir         |       3.7  |       11 |      73.12 | Ollie Thorley       |             61 |
-|             80 | Max Ojomoh        |      41.51 |       12 |      20.69 | Sebastien Atkinson  |             80 |
-|             80 | Ollie Lawrence    |      56.02 |       13 |      69.56 | Chris Harris        |             55 |
-|             80 | Joe Cokanasiga    |      79.76 |       14 |      43.34 | Jonny May           |             80 |
-|             44 | Tom de Glanville  |      30.09 |       15 |      78.76 | Santiago Carreras   |             80 |
-|             11 | Juan Schoeman     |      43.73 |       16 |      14.63 | Jamal Ford-Robinson |             27 |
-|             11 | Niall Annett      |      41.41 |       17 |      48.08 | Santiago Socino     |             19 |
-|             29 | Thomas du Toit    |      75.73 |       18 |      52.89 | Kirill Gotovtsev    |             32 |
-|              7 | Josh McNally      |      73.21 |       19 |      51.47 | Ben Donnell         |             11 |
-|             19 | Jaco Coetzee      |      45.44 |       20 |      38.01 | Freddie Thomas      |             27 |
-|              1 | Tom Carr-Smith    |      46.65 |       21 |      84.58 | Louis Rees-Zammit   |             19 |
-|             36 | Matt Gallagher    |      96.9  |       22 |      75.88 | Max Llewellyn       |             25 |
+|             69 | Beno Obano        |      46.66 |        1 |      34.93 | Mayco Vivas         |             53 |
+|             69 | Tom Dunn          |      79.86 |        2 |      54.37 | George McGuigan     |             61 |
+|             51 | Will Stuart       |      26.45 |        3 |      43.99 | Fraser Balmain      |             48 |
+|             73 | Fergus Lee-Warner |      26.34 |        4 |      38.64 | Freddie Clarke      |             80 |
+|             80 | Charlie Ewels     |      27.07 |        5 |      57.62 | Matias Alemanno     |             69 |
+|             80 | Miles Reid        |      79.31 |        6 |      41.56 | Jack Clement        |             80 |
+|             80 | Sam Underhill     |      59.95 |        7 |      41.78 | Lewis Ludlow        |             80 |
+|             61 | Alfie Barbeary    |      42.88 |        8 |      78.49 | Albert Tuisue       |             53 |
+|             79 | Ben Spencer       |      44.58 |        9 |      29.07 | Stephen Varney      |             80 |
+|             80 | Finn Russell      |     131.97 |       10 |      49.49 | George Barton       |             80 |
+|             80 | Will Muir         |       3.51 |       11 |      73.02 | Ollie Thorley       |             61 |
+|             80 | Max Ojomoh        |      41.22 |       12 |      20.97 | Sebastien Atkinson  |             80 |
+|             80 | Ollie Lawrence    |      56.18 |       13 |      69.39 | Chris Harris        |             55 |
+|             80 | Joe Cokanasiga    |      79.12 |       14 |      45.17 | Jonny May           |             80 |
+|             44 | Tom de Glanville  |      29.8  |       15 |      79.76 | Santiago Carreras   |             80 |
+|             11 | Juan Schoeman     |      43.64 |       16 |      14.98 | Jamal Ford-Robinson |             27 |
+|             11 | Niall Annett      |      41.54 |       17 |      48.31 | Santiago Socino     |             19 |
+|             29 | Thomas du Toit    |      75.48 |       18 |      52.8  | Kirill Gotovtsev    |             32 |
+|              7 | Josh McNally      |      73.1  |       19 |      51.77 | Ben Donnell         |             11 |
+|             19 | Jaco Coetzee      |      45.27 |       20 |      38    | Freddie Thomas      |             27 |
+|              1 | Tom Carr-Smith    |      46.65 |       21 |      83.53 | Louis Rees-Zammit   |             19 |
+|             36 | Matt Gallagher    |      98.15 |       22 |      75.38 | Max Llewellyn       |             25 |
 
