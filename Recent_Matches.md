@@ -5,191 +5,125 @@ key: page-recents
 ---
 # International Matches
 
-## FIRA Championship D2
-
-
-[In depth model review and projections for FIRA Championship D2 2024](comp_files/FIRA_Championship_D2_2024)
-
-Competition Accuracy: 7 of 10 (70.0%)
-
-Competition Error: 18.34 points per match
-
-Last Round Accuracy: 6 of 8 (75.0%)
-
-Last Round Error: 19.25 points per match
-
-[2023-11-10 Norway at Latvia](reviews//2023-11-10-Latvia-Norway)
 ## International Test Match
 
 
 [In depth model review and projections for International Test Match 2023](comp_files/International_Test_Match_2023)
 
-Competition Accuracy: 34 of 44 (77.27%)
+Competition Accuracy: 35 of 45 (77.78%)
 
-Competition Error: 20.34 points per match
+Competition Error: 20.18 points per match
 
 Last Round Accuracy: 17 of 21 (80.95%)
 
-Last Round Error: 18.28 points per match
+Last Round Error: 17.02 points per match
 
-[2023-11-11 Brazil at United States of America](reviews//2023-11-11-UnitedStatesofAmerica-Brazil)
+[2023-11-22 Uganda at Tunisia](reviews//2023-11-22-Tunisia-Uganda)
 
-[2023-11-14 Germany at Hong Kong](reviews//2023-11-14-HongKong-Germany)
-## Rugby Europe Trophy
+[2023-11-24 Uganda at Tunisia](reviews//2023-11-24-Tunisia-Uganda)
 
-
-[In depth model review and projections for Rugby Europe Trophy 2023](comp_files/Rugby_Europe_Trophy_2023)
-
-Competition Accuracy: 3 of 6 (50.0%)
-
-Competition Error: 22.27 points per match
-
-Last Round Accuracy: 2 of 3 (66.67%)
-
-Last Round Error: 21.46 points per match
-
-[2023-11-11 Croatia at Ukraine](reviews//2023-11-11-Ukraine-Croatia)
+[2023-11-25 Lithuania at Czech Republic](reviews//2023-11-25-CzechRepublic-Lithuania)
 # Top Flight Leagues
 
+## Allianz Premier 15s
+
+
+[In depth model review and projections for Allianz Premier 15s 2023](comp_files/Allianz_Premier_15s_2023)
+
+Competition Accuracy: 7 of 8 (87.5%)
+
+Competition Error: 11.92 points per match
+
+Last Round Accuracy: 4 of 5 (80.0%)
+
+Last Round Error: 9.82 points per match
+
+[2023-11-25 Leicester Tigers Women at Gloucester-Hartpury Women](reviews//2023-11-25-Gloucester-HartpuryWomen-LeicesterTigersWomen)
+
+[2023-11-26 Bristol Bears Women at Exeter Chiefs Women](reviews//2023-11-26-ExeterChiefsWomen-BristolBearsWomen)
 ## Gallagher Premiership
 
 
 [In depth model review and projections for Gallagher Premiership 2023](comp_files/Gallagher_Premiership_2023)
 
-Competition Accuracy: 15 of 32 (46.88%)
+Competition Accuracy: 23 of 42 (54.76%)
 
-Competition Error: 12.32 points per match
+Competition Error: 11.22 points per match
 
-Last Round Accuracy: 2 of 6 (33.33%)
+Last Round Accuracy: 5 of 6 (83.33%)
 
-Last Round Error: 16.44 points per match
+Last Round Error: 6.13 points per match
 
-[2023-11-10 Bath Rugby at Gloucester Rugby; 45-27](reviews//2023-11-10-GloucesterRugby-BathRugby)
+[2023-11-24 Harlequins at Northampton Saints; 33-36](reviews//2023-11-24-NorthamptonSaints-Harlequins)
 
-[2023-11-11 Harlequins at Leicester Tigers; 29-25](reviews//2023-11-11-LeicesterTigers-Harlequins)
+[2023-11-25 Bristol Rugby at Saracens; 31-39](reviews//2023-11-25-Saracens-BristolRugby)
 
-[2023-11-11 Sale Sharks at Bristol Rugby; 27-13](reviews//2023-11-11-BristolRugby-SaleSharks)
+[2023-11-25 Leicester Tigers at Gloucester Rugby; 38-20](reviews//2023-11-25-GloucesterRugby-LeicesterTigers)
 
-[2023-11-12 Exeter Chiefs at Northampton Saints; 19-34](reviews//2023-11-12-NorthamptonSaints-ExeterChiefs)
+[2023-11-26 Exeter Chiefs at Newcastle Falcons; 20-14](reviews//2023-11-26-NewcastleFalcons-ExeterChiefs)
 ## RFU Championship
 
 
 [In depth model review and projections for RFU Championship 2023](comp_files/RFU_Championship_2023)
 
-Competition Accuracy: 12 of 15 (80.0%)
+Competition Accuracy: 20 of 25 (80.0%)
 
-Competition Error: 13.37 points per match
+Competition Error: 13.18 points per match
 
 Last Round Accuracy: 5 of 6 (83.33%)
 
-Last Round Error: 15.57 points per match
+Last Round Error: 13.79 points per match
 
-[2023-11-11 Hartpury College at Bedford; 12-53](reviews//2023-11-11-Bedford-HartpuryCollege)
-## Rugby Europe Super Cup
+[2023-11-24 Nottingham at Hartpury College; 32-20](reviews//2023-11-24-HartpuryCollege-Nottingham)
 
+[2023-11-25 London Scottish at Doncaster](reviews//2023-11-25-Doncaster-LondonScottish)
 
-[In depth model review and projections for Rugby Europe Super Cup 2023](comp_files/Rugby_Europe_Super_Cup_2023)
-
-Competition Accuracy: 4 of 9 (44.44%)
-
-Competition Error: 42.04 points per match
-
-Last Round Accuracy: 1 of 4 (25.0%)
-
-Last Round Error: 52.15 points per match
-
-[2023-11-10 Romanian Wolves at Delta](reviews//2023-11-10-Delta-RomanianWolves)
-
-[2023-11-11 Black Lion at Lusitanos XV](reviews//2023-11-11-LusitanosXV-BlackLion)
-
-[2023-11-11 Brussels Devils at Bohemia Rugby Warriors](reviews//2023-11-11-BohemiaRugbyWarriors-BrusselsDevils)
-
-[2023-11-12 Tel-Aviv Heat at Castilla y Leon Iberians](reviews//2023-11-12-CastillayLeonIberians-Tel-AvivHeat)
+[2023-11-25 Cambridge at Bedford](reviews//2023-11-25-Bedford-Cambridge)
 ## Top 14 Orange
 
 
 [In depth model review and projections for Top 14 Orange 2023](comp_files/Top_14_Orange_2023)
 
-Competition Accuracy: 30 of 42 (71.43%)
+Competition Accuracy: 38 of 56 (67.86%)
 
-Competition Error: 11.65 points per match
+Competition Error: 11.66 points per match
 
-Last Round Accuracy: 5 of 7 (71.43%)
+Last Round Accuracy: 6 of 7 (85.71%)
 
-Last Round Error: 9.01 points per match
+Last Round Error: 13.55 points per match
 
-[2023-11-11 Oyonnax at Castres Olympique; 11-39](reviews//2023-11-11-CastresOlympique-Oyonnax)
+[2023-11-19 Bordeaux Begles at La Rochelle; 21-25](reviews//2023-11-19-LaRochelle-BordeauxBegles)
 
-[2023-11-11 Perpignan at Stade Toulousain; 34-43](reviews//2023-11-11-StadeToulousain-Perpignan)
+[2023-11-25 Castres Olympique at Toulon; 19-41](reviews//2023-11-25-Toulon-CastresOlympique)
 
-[2023-11-11 Bayonne at La Rochelle; 15-18](reviews//2023-11-11-LaRochelle-Bayonne)
+[2023-11-25 Stade Francais Paris at Pau; 6-30](reviews//2023-11-25-Pau-StadeFrancaisParis)
 
-[2023-11-12 Racing 92 at Toulon; 26-31](reviews//2023-11-12-Toulon-Racing92)
+[2023-11-25 Clermont Auvergne at Stade Toulousain; 10-31](reviews//2023-11-25-StadeToulousain-ClermontAuvergne)
+
+[2023-11-26 La Rochelle at Racing 92; 10-32](reviews//2023-11-26-Racing92-LaRochelle)
 ## United Rugby Championship
 
 
 [In depth model review and projections for United Rugby Championship 2023](comp_files/United_Rugby_Championship_2023)
 
-Competition Accuracy: 26 of 32 (81.25%)
+Competition Accuracy: 36 of 48 (75.0%)
 
-Competition Error: 7.91 points per match
+Competition Error: 9.96 points per match
 
-Last Round Accuracy: 5 of 8 (62.5%)
+Last Round Accuracy: 6 of 8 (75.0%)
 
-Last Round Error: 5.37 points per match
+Last Round Error: 17.44 points per match
 
-[2023-11-10 Bulls at Cardiff Blues; 18-12](reviews//2023-11-10-CardiffBlues-Bulls)
+[2023-11-24 Stormers at Cardiff Blues; 24-31](reviews//2023-11-24-CardiffBlues-Stormers)
 
-[2023-11-10 Sharks at Zebre; 10-12](reviews//2023-11-10-Zebre-Sharks)
+[2023-11-25 Zebre at Lions; 19-61](reviews//2023-11-25-Lions-Zebre)
 
-[2023-11-11 Connacht at Edinburgh; 22-25](reviews//2023-11-11-Edinburgh-Connacht)
+[2023-11-25 Connacht at Bulls; 27-53](reviews//2023-11-25-Bulls-Connacht)
 
-[2023-11-11 Stormers at Benetton Treviso; 17-20](reviews//2023-11-11-BenettonTreviso-Stormers)
+[2023-11-25 Ulster at Glasgow Warriors; 20-33](reviews//2023-11-25-GlasgowWarriors-Ulster)
 
-[2023-11-11 Glasgow Warriors at Ospreys; 31-23](reviews//2023-11-11-Ospreys-GlasgowWarriors)
+[2023-11-25 Munster at Leinster; 16-21](reviews//2023-11-25-Leinster-Munster)
 
-[2023-11-12 Leinster at Dragons; 33-10](reviews//2023-11-12-Dragons-Leinster)
-# Domestic Leagues
+[2023-11-25 Dragons at Sharks; 14-69](reviews//2023-11-25-Sharks-Dragons)
 
-## Nationale
-
-
-[In depth model review and projections for Nationale 2023](comp_files/Nationale_2023)
-
-Competition Accuracy: 51 of 70 (72.86%)
-
-Competition Error: 8.47 points per match
-
-Last Round Accuracy: 6 of 7 (85.71%)
-
-Last Round Error: 8.71 points per match
-
-[2023-11-10 Vienne at Carcassonne; 5-57](reviews//2023-11-10-Carcassonne-Vienne)
-
-[2023-11-10 Narbonne at US Bressane; 17-16](reviews//2023-11-10-USBressane-Narbonne)
-
-[2023-11-11 Périgueux at Suresnes; 20-25](reviews//2023-11-11-Suresnes-Périgueux)
-
-[2023-11-11 Tarbes at Carqueiranne-Hyères; 7-29](reviews//2023-11-11-Carqueiranne-Hyères-Tarbes)
-
-[2023-11-11 Massy at Bourgoin-Jallieu; 23-26](reviews//2023-11-11-Bourgoin-Jallieu-Massy)
-## Pro D2
-
-
-[In depth model review and projections for Pro D2 2023](comp_files/Pro_D2_2023)
-
-Competition Accuracy: 59 of 80 (73.75%)
-
-Competition Error: 11.06 points per match
-
-Last Round Accuracy: 4 of 8 (50.0%)
-
-Last Round Error: 8.12 points per match
-
-[2023-11-09 Vannes at Colomiers; 10-15](reviews//2023-11-09-Colomiers-Vannes)
-
-[2023-11-10 Valence Romans Drome Rugby at Grenoble; 19-35](reviews//2023-11-10-Grenoble-ValenceRomansDromeRugby)
-
-[2023-11-10 Montauban at Mont-de-Marsan; 13-30](reviews//2023-11-10-Mont-de-Marsan-Montauban)
-
-[2023-11-10 Dax at Biarritz Olympique; 22-21](reviews//2023-11-10-BiarritzOlympique-Dax)
+[2023-11-26 Scarlets at Ospreys; 9-31](reviews//2023-11-26-Ospreys-Scarlets)

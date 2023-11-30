@@ -10,7 +10,7 @@ key: page-recents
 
 [2024](comp_files\International_Test_Match_2024)
 
-[2023](comp_files\International_Test_Match_2023) - Prediction Accuracy: 74.4% 
+[2023](comp_files\International_Test_Match_2023) - Prediction Accuracy: 77.8% 
 
 [2022](comp_files\International_Test_Match_2022) - Prediction Accuracy: 70.6% 
 
@@ -76,7 +76,7 @@ key: page-recents
 ## Rugby Europe Trophy
 
 
-[2023](comp_files\Rugby_Europe_Trophy_2023) - Prediction Accuracy: 50.0% 
+[2023](comp_files\Rugby_Europe_Trophy_2023) - Prediction Accuracy: 42.9% 
 ## Rugby World Cup
 
 
@@ -114,7 +114,7 @@ key: page-recents
 ## Gallagher Premiership
 
 
-[2023](comp_files\Gallagher_Premiership_2023) - Prediction Accuracy: 46.9% 
+[2023](comp_files\Gallagher_Premiership_2023) - Prediction Accuracy: 54.8% 
 
 [2022](comp_files\Gallagher_Premiership_2022) - Prediction Accuracy: 69.9% 
 
@@ -144,7 +144,7 @@ key: page-recents
 ## Top 14 Orange
 
 
-[2023](comp_files\Top_14_Orange_2023) - Prediction Accuracy: 71.4% 
+[2023](comp_files\Top_14_Orange_2023) - Prediction Accuracy: 67.9% 
 
 [2022](comp_files\Top_14_Orange_2022) - Prediction Accuracy: 68.0% 
 
@@ -154,7 +154,7 @@ key: page-recents
 ## United Rugby Championship
 
 
-[2023](comp_files\United_Rugby_Championship_2023) - Prediction Accuracy: 81.2% 
+[2023](comp_files\United_Rugby_Championship_2023) - Prediction Accuracy: 75.0% 
 
 [2022](comp_files\United_Rugby_Championship_2022) - Prediction Accuracy: 70.7% 
 
@@ -180,7 +180,7 @@ key: page-recents
 ## Rugby Europe Super Cup
 
 
-[2023](comp_files\Rugby_Europe_Super_Cup_2023) - Prediction Accuracy: 44.4% 
+[2023](comp_files\Rugby_Europe_Super_Cup_2023) - Prediction Accuracy: 45.5% 
 
 [2022](comp_files\Rugby_Europe_Super_Cup_2022) - Prediction Accuracy: 66.7% 
 
@@ -208,7 +208,7 @@ key: page-recents
 ## Allianz Premier 15s
 
 
-[2023](comp_files\Allianz_Premier_15s_2023)
+[2023](comp_files\Allianz_Premier_15s_2023) - Prediction Accuracy: 87.5% 
 ## Peroni Top10
 
 
@@ -242,7 +242,7 @@ key: page-recents
 ## Nationale
 
 
-[2023](comp_files\Nationale_2023) - Prediction Accuracy: 72.9% 
+[2023](comp_files\Nationale_2023) - Prediction Accuracy: 75.3% 
 
 [2022](comp_files\Nationale_2022) - Prediction Accuracy: 68.8% 
 
@@ -252,7 +252,7 @@ key: page-recents
 ## Pro D2
 
 
-[2023](comp_files\Pro_D2_2023) - Prediction Accuracy: 73.8% 
+[2023](comp_files\Pro_D2_2023) - Prediction Accuracy: 75.0% 
 
 [2022](comp_files\Pro_D2_2022) - Prediction Accuracy: 67.8% 
 

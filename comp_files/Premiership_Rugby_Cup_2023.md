@@ -1,6 +1,6 @@
 ---  
 title: "Premiership Rugby Cup 2023 Status"  
-date: 2023-11-16 6:00:00 -0500  
+date: 2023-11-29 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -47,11 +47,10 @@ aside:
 
 | Club                |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| TBC                 |                   2 |    1   |              0       |                   0.5 |                1   |                  5.5 |
-| Ealing Trailfinders |                   1 |    0.7 |              2.93964 |                   0.3 |                0.7 |                  3.8 |
-| Exeter Chiefs       |                   1 |    0.7 |              2.0105  |                   0.3 |                0.6 |                  3.8 |
-| Gloucester Rugby    |                   1 |    0.3 |             -2.0105  |                   0.6 |                0.2 |                  2   |
-| Leicester Tigers    |                   1 |    0.3 |             -2.93964 |                   0.5 |                0.2 |                  1.9 |
+| Exeter Chiefs       |                   1 |    0.7 |              2.06974 |                   0.3 |                0.6 |                  3.8 |
+| Ealing Trailfinders |                   1 |    0.7 |              2.38309 |                   0.3 |                0.6 |                  3.7 |
+| Leicester Tigers    |                   1 |    0.3 |             -2.38309 |                   0.5 |                0.2 |                  2   |
+| Gloucester Rugby    |                   1 |    0.3 |             -2.06974 |                   0.6 |                0.2 |                  1.9 |
 
 
 
@@ -60,10 +59,10 @@ aside:
 
 | Club                |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Gloucester Rugby    |               6 |    5.3 |              69.9895 |                   0.6 |                0.2 |                 22   |
-| Exeter Chiefs       |               6 |    4.7 |             140.011  |                   0.3 |                0.6 |                 19.8 |
-| Ealing Trailfinders |               5 |    4.7 |              81.9396 |                   0.3 |                0.7 |                 19.8 |
-| Leicester Tigers    |               6 |    4.3 |             129.06   |                   0.5 |                0.2 |                 17.9 |
+| Gloucester Rugby    |               6 |    5.3 |              69.9303 |                   0.6 |                0.2 |                 21.9 |
+| Exeter Chiefs       |               6 |    4.7 |             140.07   |                   0.3 |                0.6 |                 19.8 |
+| Ealing Trailfinders |               5 |    4.7 |              81.3831 |                   0.3 |                0.6 |                 19.7 |
+| Leicester Tigers    |               6 |    4.3 |             129.617  |                   0.5 |                0.2 |                 18   |
 | Newcastle Falcons   |               5 |    4   |              46      |                   0   |                0   |                 16   |
 | Harlequins          |               5 |    3   |              63      |                   0   |                0   |                 14   |
 | Sale Sharks         |               5 |    3   |              99      |                   1   |                0   |                 13   |
@@ -76,7 +75,6 @@ aside:
 | Cornish Pirates     |               4 |    2   |              52      |                   1   |                0   |                  9   |
 | Doncaster           |               5 |    2   |             -59      |                   1   |                0   |                  9   |
 | Jersey              |               3 |    2   |              46      |                   0   |                0   |                  8   |
-| TBC                 |               2 |    1   |               0      |                   0.5 |                1   |                  5.5 |
 | Caldy               |               5 |    1   |            -118      |                   0   |                0   |                  4   |
 | Hartpury College    |               5 |    1   |            -136      |                   0   |                0   |                  4   |
 | Nottingham          |               5 |    0   |            -100      |                   1   |                0   |                  3   |
@@ -103,7 +101,7 @@ aside:
 ### Gloucester Rugby V Exeter Chiefs on 2024/02/17
 
 
-Average Margin: Exeter Chiefs by 2.0
+Average Margin: Exeter Chiefs by 2.1
 
 <p float="left">
 <img src="plots/performances_2024-02-17-GloucesterRugby_V_ExeterChiefs.png" width="32%" />
@@ -114,7 +112,7 @@ Average Margin: Exeter Chiefs by 2.0
 ### Ealing Trailfinders V Leicester Tigers on 2024/02/18
 
 
-Average Margin: Ealing Trailfinders by 2.9
+Average Margin: Ealing Trailfinders by 2.4
 
 <p float="left">
 <img src="plots/performances_2024-02-18-EalingTrailfinders_V_LeicesterTigers.png" width="32%" />

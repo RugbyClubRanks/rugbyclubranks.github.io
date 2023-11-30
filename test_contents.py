@@ -30,7 +30,7 @@ def test_comp_random_accuracy():
         with open(rand_comp_file) as fp:
             content = fp.read()
             if "# Completed Match Review" in content:
-                accuracy_tbl = content.split("# Completed Match Review")[1].split("\n\n\n\n")[0]
+                accuracy_tbl = content.split("# Completed Match Review")[1].split("\n\n\n")[1]
                 tbl_values = list(map(float, re.findall(r"[0-9.]+", accuracy_tbl)))
 
     tbl_accuracies = tbl_values[::2]
