@@ -37,14 +37,14 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Stade Toulousain by 18.7
+## Prediction with Player Minutes: Stade Toulousain by 18.3
 
 
-Stade Toulousain by 13.8 on a neutral field
-## Prediction without Player Minutes: Stade Toulousain by 18.7
+Stade Toulousain by 13.3 on a neutral field
+## Prediction without Player Minutes: Stade Toulousain by 17.7
 
 
-Stade Toulousain by 13.8 on a neutral pitch
+Stade Toulousain by 12.7 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -83,23 +83,31 @@ Stade Toulousain by 13.8 on a neutral pitch
 </p>
 
 
-There were 7 large changes in win probability in this match
+There were 6 large changes in win probability in this match
 
 |   Away Minutes | Away Player          |   Away elo |   Number |   Home elo | Home Player         |   Home Minutes |
 |---------------:|:---------------------|-----------:|---------:|-----------:|:--------------------|---------------:|
-|             80 | Daniel Bibi Biziwu   |      49.09 |        1 |      42.6  | Rodrigue Neti       |             80 |
-|             80 | Robin Couly          |      44.42 |        2 |      53.47 | Guillaume Cramont   |             80 |
-|             80 | Cristian Ojovan      |      56.5  |        3 |     102.87 | Dorian Aldegheri    |             80 |
+|             56 | Daniel Bibi Biziwu   |      49.09 |        1 |      42.6  | Rodrigue Neti       |             55 |
+|             56 | Robin Couly          |      44.42 |        2 |      53.47 | Guillaume Cramont   |             71 |
+|             56 | Cristian Ojovan      |      56.5  |        3 |     102.87 | Dorian Aldegheri    |             63 |
 |             80 | Thibaud Lanen        |      55.26 |        4 |      39.72 | Richie Arnold       |             80 |
-|             80 | Peceli Yato Senibitu |      87.93 |        5 |      61.64 | Emmanuel Meafou     |             80 |
-|             80 | Killian Tixeront     |      46.66 |        6 |      83.04 | Thibaud Flament     |             80 |
-|             80 | Lucas Dessaigne      |      62.12 |        7 |     123.68 | Francois Cros       |             80 |
-|             80 | Pita Gus Sowakula    |      85.92 |        8 |     109.14 | Anthony Jelonch     |             80 |
-|             80 | Sebastien Bezy       |      81.45 |        9 |     138.54 | Antoine Dupont      |             80 |
-|             80 | Anthony Belleau      |      68.43 |       10 |     124.36 | Thomas Ramos        |             80 |
-|             80 | Thomas Roziere       |      31    |       11 |      80.29 | Arthur Retiere      |             80 |
-|             80 | Pierre Fouyssac      |      40.46 |       12 |      39.75 | Pita Ahki           |             80 |
+|             80 | Peceli Yato Senibitu |      87.93 |        5 |      61.64 | Emmanuel Meafou     |             71 |
+|             67 | Killian Tixeront     |      46.66 |        6 |      83.04 | Thibaud Flament     |             48 |
+|             53 | Lucas Dessaigne      |      62.12 |        7 |     123.68 | Francois Cros       |             80 |
+|             80 | Pita Gus Sowakula    |      85.92 |        8 |     109.14 | Anthony Jelonch     |             63 |
+|             63 | Sebastien Bezy       |      81.45 |        9 |     138.54 | Antoine Dupont      |             71 |
+|             63 | Anthony Belleau      |      68.43 |       10 |     124.36 | Thomas Ramos        |             80 |
+|             80 | Thomas Roziere       |      31    |       11 |      80.29 | Arthur Retiere      |             71 |
+|             53 | Pierre Fouyssac      |      40.46 |       12 |      39.75 | Pita Ahki           |             80 |
 |             80 | Irae Simone          |      43.14 |       13 |      39.8  | Santiago Chocobares |             80 |
 |             80 | Yerim Fall           |      52.22 |       14 |      62.04 | Lucas Tauzin        |             80 |
 |             80 | Alex Newsome         |      68.21 |       15 |     105.33 | Matthis Lebel       |             80 |
+|             27 | Leon Darricarrere    |      45.73 |       16 |      86.58 | Alexandre Roumat    |             32 |
+|             27 | Marcos Kremer        |      51.91 |       17 |      97.55 | Cyril Baille        |             25 |
+|             24 | Rabah Slimani        |      64.76 |       18 |      60.37 | David Ainu'u        |             17 |
+|             24 | Giorgi Beria         |      37.17 |       19 |      38.62 | Alban Placines      |             17 |
+|             24 | Benjamin Boudou      |      38.99 |       20 |      61.42 | Setareki Bituniyata |              9 |
+|             17 | Jules Plisson        |      79.57 |       21 |      12.54 | Baptiste Germain    |              9 |
+|             17 | Enzo Sanga           |      48.01 |       22 |      65.99 | Piula Faasalele     |              9 |
+|             13 | Paul Jedrasiak       |      28.48 |       23 |      38.24 | Ian Boubila         |              9 |
 
