@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title: Castilla y Leon Iberians at Black Lion  
+title: Castilla y Leon Iberians at Black Lion; 0-41  
 date: 2023-12-02 18:00:00 -0500  
 categories: "Rugby Europe Super Cup 2023" match review  
 ---
-# Castilla y Leon Iberians at Black Lion
+# Castilla y Leon Iberians at Black Lion; 0-41
 
 # Club Level Predictions
 

@@ -9,28 +9,28 @@ categories: "Nationale 2023" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.577, which translates to predicting Blagnac to win by 4.0.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.573, which translates to predicting Blagnac to win by 3.8.
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
 
 
 <p float="left">
-<img src="../comp_files/plots/performances_2023-12-09-Blagnac_V_Périgueux.png" width="99%" />
+<img src="../comp_files/plots/performances_2023-12-09-Blagnac_V_Perigueux.png" width="99%" />
 </p>
 
 ## Projected Spreads - Club Model
 
 
 <p float="left">
-<img src="../comp_files/plots/spreads_2023-12-09-Blagnac_V_Périgueux.png" width="99%" />
+<img src="../comp_files/plots/spreads_2023-12-09-Blagnac_V_Perigueux.png" width="99%" />
 </p>
 
 ## Projected Results - Club Model
 
 
 <p float="left">
-<img src="../comp_files/plots/resultbar_2023-12-09-Blagnac_V_Périgueux.png" width="99%" />
+<img src="../comp_files/plots/resultbar_2023-12-09-Blagnac_V_Perigueux.png" width="99%" />
 </p>
 
 # Player Level Predictions - Version 2

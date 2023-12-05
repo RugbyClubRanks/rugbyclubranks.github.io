@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title: Loughborough Lightning at Leicester Tigers Women  
+title: Loughborough Lightning at Leicester Tigers Women; 24-12  
 date: 2023-12-03 18:00:00 -0500  
 categories: "Allianz Premier 15s 2023" match review  
 ---
-# Loughborough Lightning at Leicester Tigers Women
+# Loughborough Lightning at Leicester Tigers Women; 24-12
 
 # Club Level Predictions
 

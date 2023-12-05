@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title: Romanian Wolves at Tel-Aviv Heat  
+title: Romanian Wolves at Tel-Aviv Heat; 6-31  
 date: 2023-12-02 18:00:00 -0500  
 categories: "Rugby Europe Super Cup 2023" match review  
 ---
-# Romanian Wolves at Tel-Aviv Heat
+# Romanian Wolves at Tel-Aviv Heat; 6-31
 
 # Club Level Predictions
 

@@ -1,6 +1,6 @@
 ---  
 title: "Rugby Europe Championship 2023 Status"  
-date: 2023-12-04 6:00:00 -0500  
+date: 2023-12-05 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -33,14 +33,14 @@ aside:
 
 | Club        |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Georgia     |                   3 |    3   |             73.3436  |                   0   |                3   |                 15   |
-| Portugal    |                   3 |    2.9 |             70.8642  |                   0.1 |                2.8 |                 14.4 |
-| Romania     |                   3 |    2.1 |             33.7276  |                   0.3 |                2.1 |                 10.8 |
-| Spain       |                   3 |    1.8 |              9.96525 |                   0.2 |                1.7 |                  9   |
-| Netherlands |                   3 |    1.1 |            -23.3905  |                   0.4 |                1   |                  5.7 |
-| Belgium     |                   3 |    0.7 |            -42.1614  |                   0.2 |                0.7 |                  3.7 |
-| Poland      |                   3 |    0.3 |            -62.4304  |                   0.3 |                0.3 |                  2   |
-| Germany     |                   3 |    0.2 |            -59.9184  |                   0.2 |                0.2 |                  1.2 |
+| Georgia     |                   3 |    3   |             73.7155  |                   0   |                3   |                 15   |
+| Portugal    |                   3 |    2.8 |             69.6069  |                   0.1 |                2.8 |                 14.3 |
+| Romania     |                   3 |    2.1 |             34.0183  |                   0.4 |                2.1 |                 10.9 |
+| Spain       |                   3 |    1.8 |              8.99327 |                   0.2 |                1.7 |                  9   |
+| Netherlands |                   3 |    1.1 |            -22.6669  |                   0.4 |                1.1 |                  5.9 |
+| Belgium     |                   3 |    0.7 |            -41.2348  |                   0.2 |                0.7 |                  3.8 |
+| Poland      |                   3 |    0.3 |            -62.3903  |                   0.3 |                0.4 |                  2   |
+| Germany     |                   3 |    0.1 |            -60.0419  |                   0.3 |                0.2 |                  1   |
 
 
 
@@ -49,14 +49,14 @@ aside:
 
 | Club        |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Georgia     |               8 |    8   |             257.344  |                   0   |                8   |                 40   |
-| Portugal    |               8 |    6.9 |             177.864  |                   0.1 |                5.8 |                 33.4 |
-| Romania     |               8 |    5.1 |              88.7276 |                   0.3 |                5.1 |                 25.8 |
-| Netherlands |               8 |    4.1 |             -25.3905 |                   0.4 |                3   |                 19.7 |
-| Spain       |               8 |    3.8 |             -25.0347 |                   1.2 |                2.7 |                 19   |
-| Belgium     |               8 |    1.7 |            -147.161  |                   1.2 |                0.7 |                  8.7 |
-| Poland      |               8 |    1.3 |            -164.43   |                   2.3 |                0.3 |                  8   |
-| Germany     |               8 |    1.2 |            -161.918  |                   1.2 |                1.2 |                  7.2 |
+| Georgia     |               8 |    8   |             257.716  |                   0   |                8   |                 40   |
+| Portugal    |               8 |    6.8 |             176.607  |                   0.1 |                5.8 |                 33.3 |
+| Romania     |               8 |    5.1 |              89.0183 |                   0.4 |                5.1 |                 25.9 |
+| Netherlands |               8 |    4.1 |             -24.6669 |                   0.4 |                3.1 |                 19.9 |
+| Spain       |               8 |    3.8 |             -26.0067 |                   1.2 |                2.7 |                 19   |
+| Belgium     |               8 |    1.7 |            -146.235  |                   1.2 |                0.7 |                  8.8 |
+| Poland      |               8 |    1.3 |            -164.39   |                   2.3 |                0.4 |                  8   |
+| Germany     |               8 |    1.1 |            -162.042  |                   1.3 |                1.2 |                  7   |
 
 
 
@@ -74,10 +74,21 @@ aside:
 
 ## Week 6
 
+### Netherlands V Spain on 2024/02/03
+
+
+Average Margin: Spain by 6.2
+
+<p float="left">
+<img src="plots/performances_2024-02-03-Netherlands_V_Spain.png" width="32%" />
+<img src="plots/resultbar_2024-02-03-Netherlands_V_Spain.png" width="32%" />
+<img src="plots/spreads_2024-02-03-Netherlands_V_Spain.png" width="32%" />
+</p>
+
 ### Poland V Romania on 2024/02/03
 
 
-Average Margin: Romania by 19.3
+Average Margin: Romania by 19.0
 
 <p float="left">
 <img src="plots/performances_2024-02-03-Poland_V_Romania.png" width="32%" />
@@ -88,7 +99,7 @@ Average Margin: Romania by 19.3
 ### Belgium V Portugal on 2024/02/03
 
 
-Average Margin: Portugal by 26.5
+Average Margin: Portugal by 26.1
 
 <p float="left">
 <img src="plots/performances_2024-02-03-Belgium_V_Portugal.png" width="32%" />
@@ -96,21 +107,10 @@ Average Margin: Portugal by 26.5
 <img src="plots/spreads_2024-02-03-Belgium_V_Portugal.png" width="32%" />
 </p>
 
-### Netherlands V Spain on 2024/02/03
-
-
-Average Margin: Spain by 6.8
-
-<p float="left">
-<img src="plots/performances_2024-02-03-Netherlands_V_Spain.png" width="32%" />
-<img src="plots/resultbar_2024-02-03-Netherlands_V_Spain.png" width="32%" />
-<img src="plots/spreads_2024-02-03-Netherlands_V_Spain.png" width="32%" />
-</p>
-
 ### Germany V Georgia on 2024/02/04
 
 
-Average Margin: Georgia by 28.1
+Average Margin: Georgia by 28.3
 
 <p float="left">
 <img src="plots/performances_2024-02-04-Germany_V_Georgia.png" width="32%" />
@@ -120,15 +120,15 @@ Average Margin: Georgia by 28.1
 
 ## Week 7
 
-### Georgia V Netherlands on 2024/02/10
+### Spain V Germany on 2024/02/10
 
 
-Average Margin: Georgia by 27.6
+Average Margin: Spain by 20.5
 
 <p float="left">
-<img src="plots/performances_2024-02-10-Georgia_V_Netherlands.png" width="32%" />
-<img src="plots/resultbar_2024-02-10-Georgia_V_Netherlands.png" width="32%" />
-<img src="plots/spreads_2024-02-10-Georgia_V_Netherlands.png" width="32%" />
+<img src="plots/performances_2024-02-10-Spain_V_Germany.png" width="32%" />
+<img src="plots/resultbar_2024-02-10-Spain_V_Germany.png" width="32%" />
+<img src="plots/spreads_2024-02-10-Spain_V_Germany.png" width="32%" />
 </p>
 
 ### Portugal V Poland on 2024/02/10
@@ -142,21 +142,10 @@ Average Margin: Portugal by 36.7
 <img src="plots/spreads_2024-02-10-Portugal_V_Poland.png" width="32%" />
 </p>
 
-### Spain V Germany on 2024/02/10
-
-
-Average Margin: Spain by 20.7
-
-<p float="left">
-<img src="plots/performances_2024-02-10-Spain_V_Germany.png" width="32%" />
-<img src="plots/resultbar_2024-02-10-Spain_V_Germany.png" width="32%" />
-<img src="plots/spreads_2024-02-10-Spain_V_Germany.png" width="32%" />
-</p>
-
 ### Romania V Belgium on 2024/02/10
 
 
-Average Margin: Romania by 22.1
+Average Margin: Romania by 21.9
 
 <p float="left">
 <img src="plots/performances_2024-02-10-Romania_V_Belgium.png" width="32%" />
@@ -164,34 +153,23 @@ Average Margin: Romania by 22.1
 <img src="plots/spreads_2024-02-10-Romania_V_Belgium.png" width="32%" />
 </p>
 
+### Georgia V Netherlands on 2024/02/10
+
+
+Average Margin: Georgia by 27.7
+
+<p float="left">
+<img src="plots/performances_2024-02-10-Georgia_V_Netherlands.png" width="32%" />
+<img src="plots/resultbar_2024-02-10-Georgia_V_Netherlands.png" width="32%" />
+<img src="plots/spreads_2024-02-10-Georgia_V_Netherlands.png" width="32%" />
+</p>
+
 ## Week 8
-
-### Romania V Portugal on 2024/02/17
-
-
-Average Margin: Portugal by 7.7
-
-<p float="left">
-<img src="plots/performances_2024-02-17-Romania_V_Portugal.png" width="32%" />
-<img src="plots/resultbar_2024-02-17-Romania_V_Portugal.png" width="32%" />
-<img src="plots/spreads_2024-02-17-Romania_V_Portugal.png" width="32%" />
-</p>
-
-### Belgium V Poland on 2024/02/17
-
-
-Average Margin: Belgium by 6.4
-
-<p float="left">
-<img src="plots/performances_2024-02-17-Belgium_V_Poland.png" width="32%" />
-<img src="plots/resultbar_2024-02-17-Belgium_V_Poland.png" width="32%" />
-<img src="plots/spreads_2024-02-17-Belgium_V_Poland.png" width="32%" />
-</p>
 
 ### Georgia V Spain on 2024/02/17
 
 
-Average Margin: Georgia by 17.6
+Average Margin: Georgia by 17.7
 
 <p float="left">
 <img src="plots/performances_2024-02-17-Georgia_V_Spain.png" width="32%" />
@@ -199,15 +177,37 @@ Average Margin: Georgia by 17.6
 <img src="plots/spreads_2024-02-17-Georgia_V_Spain.png" width="32%" />
 </p>
 
+### Romania V Portugal on 2024/02/17
+
+
+Average Margin: Portugal by 6.9
+
+<p float="left">
+<img src="plots/performances_2024-02-17-Romania_V_Portugal.png" width="32%" />
+<img src="plots/resultbar_2024-02-17-Romania_V_Portugal.png" width="32%" />
+<img src="plots/spreads_2024-02-17-Romania_V_Portugal.png" width="32%" />
+</p>
+
 ### Netherlands V Germany on 2024/02/17
 
 
-Average Margin: Netherlands by 11.1
+Average Margin: Netherlands by 11.3
 
 <p float="left">
 <img src="plots/performances_2024-02-17-Netherlands_V_Germany.png" width="32%" />
 <img src="plots/resultbar_2024-02-17-Netherlands_V_Germany.png" width="32%" />
 <img src="plots/spreads_2024-02-17-Netherlands_V_Germany.png" width="32%" />
+</p>
+
+### Belgium V Poland on 2024/02/17
+
+
+Average Margin: Belgium by 6.8
+
+<p float="left">
+<img src="plots/performances_2024-02-17-Belgium_V_Poland.png" width="32%" />
+<img src="plots/resultbar_2024-02-17-Belgium_V_Poland.png" width="32%" />
+<img src="plots/spreads_2024-02-17-Belgium_V_Poland.png" width="32%" />
 </p>
 
 ## Week 9

@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title: Hartpury College at Coventry  
+title: Hartpury College at Coventry; 47-29  
 date: 2023-12-02 18:00:00 -0500  
 categories: "RFU Championship 2023" match review  
 ---
-# Hartpury College at Coventry
+# Hartpury College at Coventry; 47-29
 
 # Club Level Predictions
 

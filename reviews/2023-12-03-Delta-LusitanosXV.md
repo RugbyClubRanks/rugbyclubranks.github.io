@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title: Lusitanos XV at Delta  
+title: Lusitanos XV at Delta; 53-8  
 date: 2023-12-03 18:00:00 -0500  
 categories: "Rugby Europe Super Cup 2023" match review  
 ---
-# Lusitanos XV at Delta
+# Lusitanos XV at Delta; 53-8
 
 # Club Level Predictions
 

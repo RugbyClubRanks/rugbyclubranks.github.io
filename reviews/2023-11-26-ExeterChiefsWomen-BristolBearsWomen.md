@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title: Bristol Bears Women at Exeter Chiefs Women  
+title: Bristol Bears Women at Exeter Chiefs Women; 14-29  
 date: 2023-11-26 18:00:00 -0500  
 categories: "Allianz Premier 15s 2023" match review  
 ---
-# Bristol Bears Women at Exeter Chiefs Women
+# Bristol Bears Women at Exeter Chiefs Women; 14-29
 
 # Club Level Predictions
 

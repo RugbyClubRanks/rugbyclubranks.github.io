@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title: Ealing Trailfinders at London Scottish  
+title: Ealing Trailfinders at London Scottish; 17-19  
 date: 2023-12-02 18:00:00 -0500  
 categories: "RFU Championship 2023" match review  
 ---
-# Ealing Trailfinders at London Scottish
+# Ealing Trailfinders at London Scottish; 17-19
 
 # Club Level Predictions
 

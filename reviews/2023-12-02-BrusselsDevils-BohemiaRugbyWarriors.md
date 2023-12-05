@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title: Bohemia Rugby Warriors at Brussels Devils  
+title: Bohemia Rugby Warriors at Brussels Devils; 10-44  
 date: 2023-12-02 18:00:00 -0500  
 categories: "Rugby Europe Super Cup 2023" match review  
 ---
-# Bohemia Rugby Warriors at Brussels Devils
+# Bohemia Rugby Warriors at Brussels Devils; 10-44
 
 # Club Level Predictions
 

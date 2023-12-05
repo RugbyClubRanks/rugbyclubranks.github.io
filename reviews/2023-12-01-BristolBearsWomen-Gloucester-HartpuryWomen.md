@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title: Gloucester-Hartpury Women at Bristol Bears Women  
+title: Gloucester-Hartpury Women at Bristol Bears Women; 12-0  
 date: 2023-12-01 18:00:00 -0500  
 categories: "Allianz Premier 15s 2023" match review  
 ---
-# Gloucester-Hartpury Women at Bristol Bears Women
+# Gloucester-Hartpury Women at Bristol Bears Women; 12-0
 
 # Club Level Predictions
 

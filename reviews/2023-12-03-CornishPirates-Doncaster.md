@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title: Doncaster at Cornish Pirates  
+title: Doncaster at Cornish Pirates; 39-28  
 date: 2023-12-03 18:00:00 -0500  
 categories: "RFU Championship 2023" match review  
 ---
-# Doncaster at Cornish Pirates
+# Doncaster at Cornish Pirates; 39-28
 
 # Club Level Predictions
 
