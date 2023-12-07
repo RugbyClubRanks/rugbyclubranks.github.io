@@ -1,6 +1,6 @@
 ---
 title:  "Champions and Challenge Cups"
-date:   2023-12-15 06:00:00 -0500
+date:   2023-12-05 06:00:00 -0500
 categories: projection "Challenge Cup" "Champions Cup"
 ---
 
@@ -90,4 +90,4 @@ In the challenge cup, the top four teams from each pool will also advance, then 
 | Newcastle Falcons    | 20.5 %                   | 1.6 %                 | 0.2 %              | 0.0 %         | 0.0 %       |
 | Cardiff Blues        | 11.9 %                   | 1.3 %                 | 0.1 %              | 0.0 %         | 0.0 %       |
 | Dragons              | 23.6 %                   | 0.1 %                 | 0.0 %              | 0.0 %         | 0.0 %       |
-| Zebre                | 15.7 %                   | 0.0 %                 | 0.0 %              |
+| Zebre                | 15.7 %                   | 0.0 %                 | 0.0 %              | 0.0 %         | 0.0 %       |
