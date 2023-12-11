@@ -87,7 +87,7 @@ There were 12 large changes in win probability in this match
 
 |   Away Minutes | Away Player         |   Away elo |   Number |   Home elo | Home Player        |   Home Minutes |
 |---------------:|:--------------------|-----------:|---------:|-----------:|:-------------------|---------------:|
-|             51 | Wyn Jones           |      47.17 |        1 |      58.24 | Corey Domachowski  |             51 |
+|             51 | Wyn Jones           |      47.16 |        1 |      58.24 | Corey Domachowski  |             51 |
 |             80 | Ryan Elias          |      74.97 |        2 |      53.08 | Liam Belcher       |             72 |
 |             51 | Harri O'Connor      |      27.56 |        3 |      41.34 | Keiron Assiratti   |             51 |
 |             80 | Alex Craig          |      31.79 |        4 |      39.24 | Seb Davies         |             80 |

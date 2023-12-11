@@ -1,6 +1,6 @@
 ---  
 title: "Rugby Europe Trophy 2023 Status"  
-date: 2023-12-05 6:00:00 -0500  
+date: 2023-12-11 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -31,9 +31,9 @@ aside:
 
 | Club        |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Switzerland |                   2 |      2 |              52.9778 |                   0   |                1.9 |                  9.8 |
-| Croatia     |                   1 |      0 |             -18.5904 |                   0.1 |                0.1 |                  0.3 |
-| Ukraine     |                   1 |      0 |             -34.3874 |                   0   |                0   |                  0   |
+| Switzerland |                   2 |    1.9 |              53.6317 |                   0   |                1.9 |                  9.7 |
+| Croatia     |                   1 |    0.1 |             -19.1597 |                   0.1 |                0.1 |                  0.4 |
+| Ukraine     |                   1 |    0   |             -34.472  |                   0   |                0   |                  0   |
 
 
 
@@ -42,12 +42,12 @@ aside:
 
 | Club           |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Switzerland    |               4 |      4 |              77.9778 |                   0   |                1.9 |                 17.8 |
-| Sweden         |               3 |      2 |               2      |                   0   |                0   |                  9   |
-| Croatia        |               4 |      1 |             -10.5904 |                   1.1 |                0.1 |                  5.3 |
-| Czech Republic |               2 |      1 |              15      |                   0   |                0   |                  5   |
-| Lithuania      |               2 |      1 |               4      |                   0   |                0   |                  4   |
-| Ukraine        |               3 |      0 |             -88.3874 |                   0   |                0   |                  0   |
+| Switzerland    |               4 |    3.9 |              78.6317 |                   0   |                1.9 |                 17.7 |
+| Sweden         |               3 |    2   |               2      |                   0   |                0   |                  9   |
+| Croatia        |               4 |    1.1 |             -11.1597 |                   1.1 |                0.1 |                  5.4 |
+| Czech Republic |               2 |    1   |              15      |                   0   |                0   |                  5   |
+| Lithuania      |               2 |    1   |               4      |                   0   |                0   |                  4   |
+| Ukraine        |               3 |    0   |             -88.472  |                   0   |                0   |                  0   |
 
 
 
@@ -68,7 +68,7 @@ aside:
 ### Switzerland V Croatia on 2024/03/24
 
 
-Average Margin: Switzerland by 18.6
+Average Margin: Switzerland by 19.2
 
 <p float="left">
 <img src="plots/performances_2024-03-24-Switzerland_V_Croatia.png" width="32%" />
@@ -81,7 +81,7 @@ Average Margin: Switzerland by 18.6
 ### Switzerland V Ukraine on 2024/04/13
 
 
-Average Margin: Switzerland by 34.4
+Average Margin: Switzerland by 34.5
 
 <p float="left">
 <img src="plots/performances_2024-04-13-Switzerland_V_Ukraine.png" width="32%" />

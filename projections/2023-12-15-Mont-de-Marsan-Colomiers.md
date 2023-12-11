@@ -9,7 +9,7 @@ categories: "Pro D2 2023" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.639, which translates to predicting Mont-de-Marsan to win by 7.3.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.632, which translates to predicting Mont-de-Marsan to win by 6.9.
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -40,5 +40,5 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Imputed Lineups: Mont-de-Marsan by 11.6
 
 
-Mont-de-Marsan by 6.7 on a neutral pitch
+Mont-de-Marsan by 6.8 on a neutral pitch
 

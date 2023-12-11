@@ -91,10 +91,22 @@ key: page-recents
 [2023](comp_files\World_Cup_2023)
 # Top Flight Competitions
 
+## Super Rugby Pacific
+
+
+[2024](comp_files\Super_Rugby_Pacific_2024)
+
+[2023](comp_files\Super_Rugby_Pacific_2023) - Prediction Accuracy: 79.1% 
+
+[2022](comp_files\Super_Rugby_Pacific_2022) - Prediction Accuracy: 72.0% 
+
+[2021](comp_files\Super_Rugby_Pacific_2021) - Prediction Accuracy: 96.2% 
+
+[2020](comp_files\Super_Rugby_Pacific_2020) - Prediction Accuracy: 58.7% 
 ## European Rugby Challenge Cup
 
 
-[2023](comp_files\European_Rugby_Challenge_Cup_2023)
+[2023](comp_files\European_Rugby_Challenge_Cup_2023) - Prediction Accuracy: 77.8% 
 
 [2022](comp_files\European_Rugby_Challenge_Cup_2022) - Prediction Accuracy: 62.0% 
 
@@ -104,7 +116,7 @@ key: page-recents
 ## European Rugby Champions Cup
 
 
-[2023](comp_files\European_Rugby_Champions_Cup_2023)
+[2023](comp_files\European_Rugby_Champions_Cup_2023) - Prediction Accuracy: 58.3% 
 
 [2022](comp_files\European_Rugby_Champions_Cup_2022) - Prediction Accuracy: 71.0% 
 
@@ -131,16 +143,6 @@ key: page-recents
 [2021](comp_files\Major_League_Rugby_2021) - Prediction Accuracy: 61.7% 
 
 [2020](comp_files\Major_League_Rugby_2020) - Prediction Accuracy: 58.1% 
-## Super Rugby Pacific
-
-
-[2023](comp_files\Super_Rugby_Pacific_2023) - Prediction Accuracy: 79.1% 
-
-[2022](comp_files\Super_Rugby_Pacific_2022) - Prediction Accuracy: 72.0% 
-
-[2021](comp_files\Super_Rugby_Pacific_2021) - Prediction Accuracy: 96.2% 
-
-[2020](comp_files\Super_Rugby_Pacific_2020) - Prediction Accuracy: 58.7% 
 ## Top 14 Orange
 
 
@@ -180,7 +182,7 @@ key: page-recents
 ## Rugby Europe Super Cup
 
 
-[2023](comp_files\Rugby_Europe_Super_Cup_2023) - Prediction Accuracy: 45.5% 
+[2023](comp_files\Rugby_Europe_Super_Cup_2023) - Prediction Accuracy: 60.0% 
 
 [2022](comp_files\Rugby_Europe_Super_Cup_2022) - Prediction Accuracy: 66.7% 
 
@@ -208,7 +210,7 @@ key: page-recents
 ## Allianz Premier 15s
 
 
-[2023](comp_files\Allianz_Premier_15s_2023) - Prediction Accuracy: 90.9% 
+[2023](comp_files\Allianz_Premier_15s_2023) - Prediction Accuracy: 92.9% 
 ## Peroni Top10
 
 
@@ -242,7 +244,7 @@ key: page-recents
 ## Nationale
 
 
-[2023](comp_files\Nationale_2023) - Prediction Accuracy: 73.8% 
+[2023](comp_files\Nationale_2023) - Prediction Accuracy: 73.6% 
 
 [2022](comp_files\Nationale_2022) - Prediction Accuracy: 68.8% 
 
