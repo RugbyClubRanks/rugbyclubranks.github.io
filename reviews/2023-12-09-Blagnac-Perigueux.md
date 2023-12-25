@@ -89,7 +89,7 @@ There were 10 large changes in win probability in this match
 |---------------:|:-------------------|-----------:|---------:|-----------:|:--------------------|---------------:|
 |             58 | Thomas Vidal       |      54.69 |        1 |      55.64 | Alexis Decaux       |             53 |
 |             52 | Louis Martin       |      56.37 |        2 |      42.65 | Antoine Marty-Rybak |             54 |
-|             58 | Kalaveti Tawake    |      37.01 |        3 |      52.7  | Baptiste Collet     |             54 |
+|             58 | Kalaveti Tawake    |      37.02 |        3 |      52.7  | Baptiste Collet     |             54 |
 |             54 | Richard Fourcade   |      37.02 |        4 |      68.71 | Nikita Bekov        |             58 |
 |             54 | Damien Lavergne    |      48.44 |        5 |      42.71 | Vincent Mutel       |             80 |
 |             80 | Hendri Storm       |      43.41 |        6 |      21.14 | Matthieu Thomas     |             80 |
@@ -100,7 +100,7 @@ There were 10 large changes in win probability in this match
 |             80 | Benjamin Yarde     |      36.68 |       11 |       5.08 | Francois Tardieu    |             79 |
 |             74 | Fred Hickes        |      72.23 |       12 |      54.36 | Aurelien Labau      |             80 |
 |             58 | Cyril Couturier    |      62.25 |       13 |      46.77 | Baptiste Serrano    |             80 |
-|             80 | Paul Piveteau      |      49.13 |       14 |      36.74 | Thibault Moleana    |             80 |
+|             80 | Paul Piveteau      |      49.14 |       14 |      36.74 | Thibault Moleana    |             80 |
 |             80 | Thibault Rabourdin |      35.61 |       15 |      19.01 | Antoine Renaud      |             80 |
 |             22 | Anthony Pelmard    |      48.39 |       16 |      40.68 | Romain Fricou       |             27 |
 |             28 | Baptiste Arvouet   |      43.3  |       17 |      44.51 | Gabin Villerouge    |             26 |

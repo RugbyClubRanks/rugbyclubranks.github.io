@@ -41,7 +41,7 @@ Treating teams instead as an entity made up of the currently active players, I h
 
 
 Benetton Treviso by 10.7 on a neutral field
-## Prediction without Player Minutes: Benetton Treviso by 7.3
+## Prediction without Player Minutes: Benetton Treviso by 7.2
 
 
 Benetton Treviso by 11.5 on a neutral pitch
@@ -87,27 +87,27 @@ There were 14 large changes in win probability in this match
 
 |   Away Minutes | Away Player         |   Away elo |   Number |   Home elo | Home Player            |   Home Minutes |
 |---------------:|:--------------------|-----------:|---------:|-----------:|:-----------------------|---------------:|
-|             61 | Thomas Gallo        |      71.45 |        1 |      35.89 | Gareth Thomas          |             64 |
-|             44 | Gianmarco Lucchesi  |      58.29 |        2 |      37    | Dewi Lake              |             64 |
-|             70 | Giosue Zilocchi     |      53.14 |        3 |      37.95 | Tom Botha              |             64 |
-|             48 | Niccolo Cannone     |      38.87 |        4 |      47.24 | James Fender           |             80 |
-|             64 | Federico Ruzza      |      97.08 |        5 |      57.18 | Adam Beard             |             80 |
-|             80 | Sebastian Negri     |      61.59 |        6 |      59.34 | Rhys Davies            |             80 |
-|             80 | Michele Lamaro      |      97.15 |        7 |      74.01 | Jac Morgan             |             80 |
-|             52 | Lorenzo Cannone     |      84.82 |        8 |       2.85 | Morgan Morris          |             79 |
-|             76 | Andy Uren           |      40.22 |        9 |      36.42 | Reuben Morgan-Williams |             68 |
-|             80 | Jacob Umaga         |      77.03 |       10 |      74.87 | Owen Williams          |             80 |
+|             61 | Thomas Gallo        |      71.55 |        1 |      35.9  | Gareth Thomas          |             64 |
+|             44 | Gianmarco Lucchesi  |      58.27 |        2 |      37.02 | Dewi Lake              |             64 |
+|             70 | Giosue Zilocchi     |      53.12 |        3 |      37.98 | Tom Botha              |             64 |
+|             48 | Niccolo Cannone     |      38.89 |        4 |      47.26 | James Fender           |             80 |
+|             64 | Federico Ruzza      |      97.12 |        5 |      57.21 | Adam Beard             |             80 |
+|             80 | Sebastian Negri     |      61.59 |        6 |      59.37 | Rhys Davies            |             80 |
+|             80 | Michele Lamaro      |      97.16 |        7 |      74.03 | Jac Morgan             |             80 |
+|             52 | Lorenzo Cannone     |      84.79 |        8 |       2.89 | Morgan Morris          |             79 |
+|             76 | Andy Uren           |      40.17 |        9 |      36.44 | Reuben Morgan-Williams |             68 |
+|             80 | Jacob Umaga         |      77.01 |       10 |      74.87 | Owen Williams          |             80 |
 |             80 | Onisi Ratave        |      45.63 |       11 |      -1.4  | Keelan Giles           |             66 |
-|             80 | Malakai Fekitoa     |      81.06 |       12 |      86.84 | Owen Watkin            |             80 |
-|             80 | Juan Ignacio Brex   |      86.87 |       13 |     110.67 | George North           |             80 |
-|             80 | Paolo Odogwu        |      70.6  |       14 |       7.24 | Luke Morgan            |             66 |
-|             61 | Edoardo Padovani    |      52.51 |       15 |      36.53 | Iestyn Hopkins         |             80 |
-|             19 | Mirco Spagnolo      |      56.54 |       16 |      46.21 | Nicky Smith            |             16 |
-|             36 | Bautista Bernasconi |      42.72 |       17 |      45.59 | Sam Parry              |             16 |
-|             10 | Filippo Alongi      |      36.79 |       18 |      48.48 | Ben Warren             |             16 |
-|             32 | Gideon Koegelenberg |      27.82 |       19 |      44.5  | Luke Davies            |             12 |
-|             16 | Riccardo Favretto   |      39.21 |       20 |      72.95 | Matt Protheroe         |             14 |
-|             28 | Toa Halafihi        |      77.62 |       21 |      51.84 | Jack Walsh             |             14 |
+|             80 | Malakai Fekitoa     |      81.04 |       12 |      86.88 | Owen Watkin            |             80 |
+|             80 | Juan Ignacio Brex   |      86.87 |       13 |     110.7  | George North           |             80 |
+|             80 | Paolo Odogwu        |      70.63 |       14 |       7.27 | Luke Morgan            |             66 |
+|             61 | Edoardo Padovani    |      52.45 |       15 |      36.53 | Iestyn Hopkins         |             80 |
+|             19 | Mirco Spagnolo      |      56.56 |       16 |      46.24 | Nicky Smith            |             16 |
+|             36 | Bautista Bernasconi |      42.74 |       17 |      45.6  | Sam Parry              |             16 |
+|             10 | Filippo Alongi      |      36.79 |       18 |      48.49 | Ben Warren             |             16 |
+|             32 | Gideon Koegelenberg |      27.82 |       19 |      44.51 | Luke Davies            |             12 |
+|             16 | Riccardo Favretto   |      39.2  |       20 |      72.99 | Matt Protheroe         |             14 |
+|             28 | Toa Halafihi        |      77.62 |       21 |      51.87 | Jack Walsh             |             14 |
 |              4 | Sam Hidalgo-Clyne   |      85.33 |       22 |      48.39 | Harri Deaves           |              1 |
 |             19 | Leonardo Marin      |      61.08 |       23 |     nan    | nan                    |            nan |
 

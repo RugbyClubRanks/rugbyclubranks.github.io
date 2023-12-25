@@ -37,14 +37,14 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Toulon by 8.0
+## Prediction with Player Minutes: Toulon by 8.1
 
 
 Toulon by 3.3 on a neutral field
 ## Prediction without Player Minutes: Toulon by 8.7
 
 
-Toulon by 3.9 on a neutral pitch
+Toulon by 4.0 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -87,26 +87,26 @@ There were 8 large changes in win probability in this match
 
 |   Away Minutes | Away Player          |   Away elo |   Number |   Home elo | Home Player                    |   Home Minutes |
 |---------------:|:---------------------|-----------:|---------:|-----------:|:-------------------------------|---------------:|
-|             51 | Scott Sio            |      83.66 |        1 |      43.11 | Bruce Devaux                   |             49 |
-|             51 | Dan Frost            |      53.12 |        2 |      82.86 | Jack Singleton                 |             49 |
-|             51 | Ehren Painter        |      54.71 |        3 |      54.87 | Beka Gigashvili                |             57 |
-|             54 | Rusiate Tuima        |      36.37 |        4 |      45.95 | Matthias Halagahu              |             52 |
-|             80 | Dafydd Jenkins       |      70.25 |        5 |      69.49 | Brian Alainu'uese              |             80 |
+|             51 | Scott Sio            |      83.67 |        1 |      43.1  | Bruce Devaux                   |             49 |
+|             51 | Dan Frost            |      53.12 |        2 |      82.85 | Jack Singleton                 |             49 |
+|             51 | Ehren Painter        |      54.71 |        3 |      54.86 | Beka Gigashvili                |             57 |
+|             54 | Rusiate Tuima        |      36.38 |        4 |      45.95 | Matthias Halagahu              |             52 |
+|             80 | Dafydd Jenkins       |      70.25 |        5 |      69.48 | Brian Alainu'uese              |             80 |
 |             80 | Ethan Roots          |      65.12 |        6 |      42.53 | Esteban Abadie                 |             80 |
 |             80 | Jacques Vermeulen    |      67.4  |        7 |     113.3  | Charles Ollivon                |             80 |
-|             80 | Greg Fisilau         |      60.11 |        8 |      99.06 | Facundo Isa                    |             57 |
-|             54 | Tom Cairns           |      59.88 |        9 |      64.98 | Ben White                      |             52 |
+|             80 | Greg Fisilau         |      60.11 |        8 |      99.17 | Facundo Isa                    |             57 |
+|             54 | Tom Cairns           |      59.89 |        9 |      64.98 | Ben White                      |             52 |
 |             80 | Harvey Skinner       |      39.84 |       10 |      66.3  | Enzo Herve                     |             80 |
-|             80 | Ben Hammersley       |      55.37 |       11 |      76.91 | Gabin Villiere                 |             80 |
+|             80 | Ben Hammersley       |      55.38 |       11 |      76.91 | Gabin Villiere                 |             80 |
 |             80 | Joe Hawkins          |      32.66 |       12 |      25.33 | Mathieu Smaili                 |             80 |
-|             80 | Henry Slade          |     106.05 |       13 |     125.92 | Waisea Nayacalevu Vuidravuwalu |             80 |
-|             10 | Immanuel Feyi-Waboso |      64.87 |       14 |      32.41 | Gaël Dréan                     |             80 |
-|             80 | Tom Wyatt            |      80.3  |       15 |      65.48 | Melvyn Jaminet                 |             80 |
+|             80 | Henry Slade          |     106.06 |       13 |     126.27 | Waisea Nayacalevu Vuidravuwalu |             80 |
+|             10 | Immanuel Feyi-Waboso |      64.87 |       14 |      32.4  | Gaël Dréan                     |             80 |
+|             80 | Tom Wyatt            |      80.31 |       15 |      65.5  | Melvyn Jaminet                 |             80 |
 |             29 | Nika Abuladze        |      69.19 |       16 |      75.06 | Dany Priso                     |             31 |
-|             29 | Max Norey            |      46.2  |       17 |      83.78 | Christopher Tolofua            |             31 |
+|             29 | Max Norey            |      46.2  |       17 |      83.79 | Christopher Tolofua            |             31 |
 |             29 | Marcus Street        |      29.98 |       18 |      70.4  | Emerick Setiano                |             23 |
-|             26 | Lewis Pearson        |      51.67 |       19 |      75.53 | David Ribbans                  |             28 |
-|             26 | Stu Townsend         |      66.53 |       20 |      76.06 | Cornell du Preez               |             23 |
-|             70 | Olly Woodburn        |      88.71 |       21 |      94.76 | Baptiste Serin                 |              2 |
-|            nan | nan                  |     nan    |       22 |      34.41 | Maëlan Rabut                   |             26 |
+|             26 | Lewis Pearson        |      51.67 |       19 |      75.51 | David Ribbans                  |             28 |
+|             26 | Stu Townsend         |      66.54 |       20 |      76.06 | Cornell du Preez               |             23 |
+|             70 | Olly Woodburn        |      88.71 |       21 |      94.75 | Baptiste Serin                 |              2 |
+|            nan | nan                  |     nan    |       22 |      34.42 | Maëlan Rabut                   |             26 |
 

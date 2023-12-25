@@ -40,11 +40,11 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Player Minutes: Massy by 4.9
 
 
-Massy by 7.9 on a neutral field
+Massy by 8.0 on a neutral field
 ## Prediction without Player Minutes: Massy by 4.4
 
 
-Massy by 7.4 on a neutral pitch
+Massy by 7.5 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -88,7 +88,7 @@ There were 4 large changes in win probability in this match
 |   Away Minutes | Away Player              |   Away elo |   Number |   Home elo | Home Player            |   Home Minutes |
 |---------------:|:-------------------------|-----------:|---------:|-----------:|:-----------------------|---------------:|
 |             54 | Charif Mansour           |      46.65 |        1 |      27.67 | Benjamin Robin         |             42 |
-|             64 | Mike Tadjer              |      11.82 |        2 |      44.14 | Yanis Gimenez          |             51 |
+|             64 | Mike Tadjer              |      12.58 |        2 |      44.14 | Yanis Gimenez          |             51 |
 |             53 | Tijde Visser             |      44.21 |        3 |      24.44 | Guram Kavtidze         |             53 |
 |             80 | Saba Pesvianidze         |      58.75 |        4 |      16.59 | Ciaran O'Flynn         |             64 |
 |             56 | Koen Bloemen             |      21.34 |        5 |       2.31 | Geoffrey Nouhaillaguet |             80 |
