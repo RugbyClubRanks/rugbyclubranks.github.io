@@ -37,14 +37,14 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Stade Toulousain by 5.7
+## Prediction with Player Minutes: Stade Toulousain by 5.3
 
 
-Stade Toulousain by 10.4 on a neutral field
-## Prediction without Player Minutes: Stade Toulousain by 4.9
+Stade Toulousain by 10.1 on a neutral field
+## Prediction without Player Minutes: Stade Toulousain by 4.6
 
 
-Stade Toulousain by 9.7 on a neutral pitch
+Stade Toulousain by 9.3 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -87,27 +87,27 @@ There were 7 large changes in win probability in this match
 
 |   Away Minutes | Away Player          |   Away elo |   Number |   Home elo | Home Player               |   Home Minutes |
 |---------------:|:---------------------|-----------:|---------:|-----------:|:--------------------------|---------------:|
-|             49 | Cyril Baille         |      92.96 |        1 |      98.2  | Joe Marler                |             40 |
-|             69 | Peato Mauvaka        |      88.63 |        2 |      31.32 | Jack Walker               |             72 |
-|             60 | Nepo Laulala         |      84.74 |        3 |      74.27 | Will Collier              |             49 |
-|             60 | Richie Arnold        |      38.75 |        4 |     101.74 | Joe Launchbury            |             80 |
-|             80 | Emmanuel Meafou      |      57.65 |        5 |      73.96 | Dino Lamb                 |             14 |
-|             80 | Francois Cros        |     117.8  |        6 |      75.64 | James Chisholm            |             63 |
-|             65 | Anthony Jelonch      |     102.21 |        7 |      51.87 | Will Evans                |             80 |
-|             80 | Alexandre Roumat     |      85.69 |        8 |      68.18 | Alex Dombrandt            |             80 |
-|             80 | Antoine Dupont       |     132.71 |        9 |      36.48 | Will Porter               |             49 |
-|             80 | Thomas Ramos         |     117.74 |       10 |      72.69 | Marcus Smith              |             80 |
-|             69 | Matthis Lebel        |     101.3  |       11 |      38.74 | Cadan Murley              |             40 |
-|             68 | Pita Ahki            |      42.42 |       12 |     102.26 | Andre Esterhuizen         |             80 |
-|             80 | Pierre-Louis Barassi |      58.37 |       13 |      57.53 | Will Joseph               |             80 |
-|             80 | Dimitri Delibes      |      50.93 |       14 |      36.04 | Nick David                |             80 |
-|             68 | Blair Kinghorn       |     128.11 |       15 |      62.94 | Tyrone Green              |             60 |
-|             31 | Rodrigue Neti        |      39.94 |       16 |      32.87 | Fin Baxter                |             40 |
-|             11 | Guillaume Cramont    |      50.49 |       17 |      80.56 | Dillon Lewis              |             31 |
-|             20 | David Ainu'u         |      62.12 |       18 |      52.74 | Nathan Jibulu             |              8 |
-|             20 | Alban Placines       |      35.52 |       19 |      57.78 | Irne Herbst               |             66 |
-|             15 | Piula Faasalele      |      66.14 |       20 |      50.01 | Chandler Cunningham-South |             17 |
-|             11 | Paul Costes          |      44.65 |       21 |     133.64 | Danny Care                |             31 |
-|             12 | Santiago Chocobares  |      40.51 |       22 |      50.72 | Oscar Beard               |             40 |
-|             12 | Baptiste Germain     |      14.64 |       23 |      82.91 | Jarrod Evans              |             20 |
+|             49 | Cyril Baille         |      93.51 |        1 |     105.78 | Joe Marler                |             40 |
+|             69 | Peato Mauvaka        |      87.54 |        2 |      37.75 | Jack Walker               |             72 |
+|             60 | Nepo Laulala         |      82.9  |        3 |      81.04 | Will Collier              |             49 |
+|             60 | Richie Arnold        |      49.27 |        4 |     118.39 | Joe Launchbury            |             80 |
+|             80 | Emmanuel Meafou      |      56.02 |        5 |      71.15 | Dino Lamb                 |             14 |
+|             80 | Francois Cros        |     121.77 |        6 |      85.29 | James Chisholm            |             63 |
+|             65 | Anthony Jelonch      |     105.76 |        7 |      47.73 | Will Evans                |             80 |
+|             80 | Alexandre Roumat     |      97.6  |        8 |      71.32 | Alex Dombrandt            |             80 |
+|             80 | Antoine Dupont       |     140.07 |        9 |      40.29 | Will Porter               |             49 |
+|             80 | Thomas Ramos         |     115.78 |       10 |      75.4  | Marcus Smith              |             80 |
+|             69 | Matthis Lebel        |     103.6  |       11 |      43.48 | Cadan Murley              |             40 |
+|             68 | Pita Ahki            |      45.61 |       12 |     120.03 | Andre Esterhuizen         |             80 |
+|             80 | Pierre-Louis Barassi |      59.67 |       13 |      56    | Will Joseph               |             80 |
+|             80 | Dimitri Delibes      |      57.67 |       14 |      28.98 | Nick David                |             80 |
+|             68 | Blair Kinghorn       |     131.7  |       15 |      64.85 | Tyrone Green              |             60 |
+|             31 | Rodrigue Neti        |      45.75 |       16 |      33.5  | Fin Baxter                |             40 |
+|             11 | Guillaume Cramont    |      52.39 |       17 |      82.79 | Dillon Lewis              |             31 |
+|             20 | David Ainu'u         |      67.61 |       18 |      52.88 | Nathan Jibulu             |              8 |
+|             20 | Alban Placines       |      48.2  |       19 |      63.53 | Irne Herbst               |             66 |
+|             15 | Piula Faasalele      |      58.44 |       20 |      49.41 | Chandler Cunningham-South |             17 |
+|             11 | Paul Costes          |      45.28 |       21 |     134.68 | Danny Care                |             31 |
+|             12 | Santiago Chocobares  |      56.77 |       22 |      51.11 | Oscar Beard               |             40 |
+|             12 | Baptiste Germain     |      21.61 |       23 |      89.17 | Jarrod Evans              |             20 |
 

@@ -1,6 +1,6 @@
 ---  
 title: "Japan Rugby League One D2 2023 Status"  
-date: 2023-12-18 6:00:00 -0500  
+date: 2023-12-27 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,12 +17,12 @@ aside:
 
 | Club                  |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:----------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Toyota Shuttles Aichi |        3 |      3 |                  101 |                     0 |                nan |                   13 |
-| Red Hurricanes Osaka  |        3 |      3 |                   10 |                     0 |                nan |                   12 |
-| Green Rockets Tokatsu |        3 |      2 |                   -5 |                     0 |                nan |                    8 |
-| Urayasu D-Rocks       |        3 |      1 |                   39 |                     2 |                nan |                    7 |
-| Kyuden Voltex         |        3 |      0 |                  -53 |                     2 |                nan |                    2 |
-| Kamaishi Seawaves     |        3 |      0 |                  -92 |                     1 |                nan |                    2 |
+| Toyota Shuttles Aichi |        4 |      4 |                  160 |                     0 |                  4 |                   20 |
+| Green Rockets Tokatsu |        4 |      3 |                   12 |                     0 |                  3 |                   15 |
+| Urayasu D-Rocks       |        4 |      2 |                   69 |                     2 |                  4 |                   14 |
+| Red Hurricanes Osaka  |        4 |      3 |                  -49 |                     0 |                  2 |                   14 |
+| Kyuden Voltex         |        4 |      0 |                  -70 |                     2 |                  1 |                    3 |
+| Kamaishi Seawaves     |        4 |      0 |                 -122 |                     1 |                  1 |                    2 |
 
 
 
@@ -31,12 +31,12 @@ aside:
 
 | Club                  |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:----------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Urayasu D-Rocks       |                   8 |    7   |              90.5067 |                   0.9 |                6.8 |                 35.5 |
-| Green Rockets Tokatsu |                   8 |    6.5 |              81.8697 |                   1   |                6.4 |                 33.4 |
-| Toyota Shuttles Aichi |                   8 |    4.9 |              35.5089 |                   1.7 |                4.9 |                 26.4 |
-| Red Hurricanes Osaka  |                   8 |    3.1 |             -17.0936 |                   2.1 |                3.1 |                 17.6 |
-| Kyuden Voltex         |                   8 |    2.1 |             -50.3836 |                   1.6 |                2.2 |                 12.3 |
-| Kamaishi Seawaves     |                   8 |    0.4 |            -140.408  |                   0.9 |                1   |                  3.5 |
+| Urayasu D-Rocks       |                   7 |    6   |              77.8051 |                   0.8 |                5.9 |                 30.8 |
+| Green Rockets Tokatsu |                   7 |    5.6 |              71.0246 |                   0.9 |                5.5 |                 28.8 |
+| Toyota Shuttles Aichi |                   7 |    4.5 |              43.0749 |                   1.4 |                4.4 |                 24   |
+| Red Hurricanes Osaka  |                   7 |    2.3 |             -30.0762 |                   1.6 |                2.3 |                 13.1 |
+| Kyuden Voltex         |                   7 |    2.2 |             -33.7073 |                   1.4 |                2.2 |                 12.2 |
+| Kamaishi Seawaves     |                   7 |    0.3 |            -128.121  |                   0.8 |                0.4 |                  2.4 |
 
 
 
@@ -45,12 +45,12 @@ aside:
 
 | Club                  |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:----------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Urayasu D-Rocks       |              11 |    8   |            129.507   |                   2.9 |                6.8 |                 42.5 |
-| Green Rockets Tokatsu |              11 |    8.5 |             76.8697  |                   1   |                6.4 |                 41.4 |
-| Toyota Shuttles Aichi |              11 |    7.9 |            136.509   |                   1.7 |                4.9 |                 39.4 |
-| Red Hurricanes Osaka  |              11 |    6.1 |             -7.09356 |                   2.1 |                3.1 |                 29.6 |
-| Kyuden Voltex         |              11 |    2.1 |           -103.384   |                   3.6 |                2.2 |                 14.3 |
-| Kamaishi Seawaves     |              11 |    0.4 |           -232.408   |                   1.9 |                1   |                  5.5 |
+| Urayasu D-Rocks       |              11 |    8   |             146.805  |                   2.8 |                9.9 |                 44.8 |
+| Toyota Shuttles Aichi |              11 |    8.5 |             203.075  |                   1.4 |                8.4 |                 44   |
+| Green Rockets Tokatsu |              11 |    8.6 |              83.0246 |                   0.9 |                8.5 |                 43.8 |
+| Red Hurricanes Osaka  |              11 |    5.3 |             -79.0762 |                   1.6 |                4.3 |                 27.1 |
+| Kyuden Voltex         |              11 |    2.2 |            -103.707  |                   3.4 |                3.2 |                 15.2 |
+| Kamaishi Seawaves     |              11 |    0.3 |            -250.121  |                   1.8 |                1.4 |                  4.4 |
 
 
 
@@ -59,54 +59,19 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 66.7% | 18.4 |
-| Player Level: Lineup | 66.7% | 18.1 |
-| Player Level: Minutes | 66.7% | 18.1 |
+| Club Level | 77.8% | 20.2 |
+| Player Level: Lineup | 55.6% | 22.7 |
+| Player Level: Minutes | 66.7% | 22.4 |
 
 
 # Future Predictions
-
-## Week 4
-
-### Green Rockets Tokatsu V Kyuden Voltex on 2023/12/23
-
-
-Average Margin: Green Rockets Tokatsu by 16.7
-
-<p float="left">
-<img src="plots/performances_2023-12-23-GreenRocketsTokatsu_V_KyudenVoltex.png" width="32%" />
-<img src="plots/resultbar_2023-12-23-GreenRocketsTokatsu_V_KyudenVoltex.png" width="32%" />
-<img src="plots/spreads_2023-12-23-GreenRocketsTokatsu_V_KyudenVoltex.png" width="32%" />
-</p>
-
-### Kamaishi Seawaves V Urayasu D-Rocks on 2023/12/24
-
-
-Average Margin: Urayasu D-Rocks by 20.5
-
-<p float="left">
-<img src="plots/performances_2023-12-24-KamaishiSeawaves_V_UrayasuD-Rocks.png" width="32%" />
-<img src="plots/resultbar_2023-12-24-KamaishiSeawaves_V_UrayasuD-Rocks.png" width="32%" />
-<img src="plots/spreads_2023-12-24-KamaishiSeawaves_V_UrayasuD-Rocks.png" width="32%" />
-</p>
-
-### Toyota Shuttles Aichi V Red Hurricanes Osaka on 2023/12/24
-
-
-Average Margin: Toyota Shuttles Aichi by 7.5
-
-<p float="left">
-<img src="plots/performances_2023-12-24-ToyotaShuttlesAichi_V_RedHurricanesOsaka.png" width="32%" />
-<img src="plots/resultbar_2023-12-24-ToyotaShuttlesAichi_V_RedHurricanesOsaka.png" width="32%" />
-<img src="plots/spreads_2023-12-24-ToyotaShuttlesAichi_V_RedHurricanesOsaka.png" width="32%" />
-</p>
 
 ## Week 5
 
 ### Kyuden Voltex V Kamaishi Seawaves on 2024/01/06
 
 
-Average Margin: Kyuden Voltex by 12.0
+Average Margin: Kyuden Voltex by 13.5
 
 <p float="left">
 <img src="plots/performances_2024-01-06-KyudenVoltex_V_KamaishiSeawaves.png" width="32%" />
@@ -119,7 +84,7 @@ Average Margin: Kyuden Voltex by 12.0
 ### Urayasu D-Rocks V Toyota Shuttles Aichi on 2024/01/13
 
 
-Average Margin: Urayasu D-Rocks by 8.2
+Average Margin: Urayasu D-Rocks by 7.1
 
 <p float="left">
 <img src="plots/performances_2024-01-13-UrayasuD-Rocks_V_ToyotaShuttlesAichi.png" width="32%" />
@@ -130,7 +95,7 @@ Average Margin: Urayasu D-Rocks by 8.2
 ### Red Hurricanes Osaka V Green Rockets Tokatsu on 2024/01/13
 
 
-Average Margin: Green Rockets Tokatsu by 3.2
+Average Margin: Green Rockets Tokatsu by 6.0
 
 <p float="left">
 <img src="plots/performances_2024-01-13-RedHurricanesOsaka_V_GreenRocketsTokatsu.png" width="32%" />
@@ -143,7 +108,7 @@ Average Margin: Green Rockets Tokatsu by 3.2
 ### Toyota Shuttles Aichi V Kyuden Voltex on 2024/01/28
 
 
-Average Margin: Toyota Shuttles Aichi by 13.7
+Average Margin: Toyota Shuttles Aichi by 15.6
 
 <p float="left">
 <img src="plots/performances_2024-01-28-ToyotaShuttlesAichi_V_KyudenVoltex.png" width="32%" />
@@ -156,7 +121,7 @@ Average Margin: Toyota Shuttles Aichi by 13.7
 ### Urayasu D-Rocks V Red Hurricanes Osaka on 2024/02/03
 
 
-Average Margin: Urayasu D-Rocks by 12.0
+Average Margin: Urayasu D-Rocks by 15.3
 
 <p float="left">
 <img src="plots/performances_2024-02-03-UrayasuD-Rocks_V_RedHurricanesOsaka.png" width="32%" />
@@ -167,7 +132,7 @@ Average Margin: Urayasu D-Rocks by 12.0
 ### Green Rockets Tokatsu V Kamaishi Seawaves on 2024/02/04
 
 
-Average Margin: Green Rockets Tokatsu by 24.8
+Average Margin: Green Rockets Tokatsu by 25.6
 
 <p float="left">
 <img src="plots/performances_2024-02-04-GreenRocketsTokatsu_V_KamaishiSeawaves.png" width="32%" />
@@ -180,7 +145,7 @@ Average Margin: Green Rockets Tokatsu by 24.8
 ### Red Hurricanes Osaka V Toyota Shuttles Aichi on 2024/02/10
 
 
-Average Margin: Toyota Shuttles Aichi by 0.6
+Average Margin: Toyota Shuttles Aichi by 5.0
 
 <p float="left">
 <img src="plots/performances_2024-02-10-RedHurricanesOsaka_V_ToyotaShuttlesAichi.png" width="32%" />
@@ -193,7 +158,7 @@ Average Margin: Toyota Shuttles Aichi by 0.6
 ### Urayasu D-Rocks V Kamaishi Seawaves on 2024/02/17
 
 
-Average Margin: Urayasu D-Rocks by 26.7
+Average Margin: Urayasu D-Rocks by 28.7
 
 <p float="left">
 <img src="plots/performances_2024-02-17-UrayasuD-Rocks_V_KamaishiSeawaves.png" width="32%" />
@@ -206,7 +171,7 @@ Average Margin: Urayasu D-Rocks by 26.7
 ### Kyuden Voltex V Green Rockets Tokatsu on 2024/02/24
 
 
-Average Margin: Green Rockets Tokatsu by 9.5
+Average Margin: Green Rockets Tokatsu by 9.8
 
 <p float="left">
 <img src="plots/performances_2024-02-24-KyudenVoltex_V_GreenRocketsTokatsu.png" width="32%" />
@@ -216,10 +181,21 @@ Average Margin: Green Rockets Tokatsu by 9.5
 
 ## Week 12
 
+### Red Hurricanes Osaka V Urayasu D-Rocks on 2024/03/03
+
+
+Average Margin: Urayasu D-Rocks by 8.1
+
+<p float="left">
+<img src="plots/performances_2024-03-03-RedHurricanesOsaka_V_UrayasuD-Rocks.png" width="32%" />
+<img src="plots/resultbar_2024-03-03-RedHurricanesOsaka_V_UrayasuD-Rocks.png" width="32%" />
+<img src="plots/spreads_2024-03-03-RedHurricanesOsaka_V_UrayasuD-Rocks.png" width="32%" />
+</p>
+
 ### Kyuden Voltex V Toyota Shuttles Aichi on 2024/03/03
 
 
-Average Margin: Toyota Shuttles Aichi by 7.0
+Average Margin: Toyota Shuttles Aichi by 8.7
 
 <p float="left">
 <img src="plots/performances_2024-03-03-KyudenVoltex_V_ToyotaShuttlesAichi.png" width="32%" />
@@ -230,7 +206,7 @@ Average Margin: Toyota Shuttles Aichi by 7.0
 ### Kamaishi Seawaves V Green Rockets Tokatsu on 2024/03/03
 
 
-Average Margin: Green Rockets Tokatsu by 17.9
+Average Margin: Green Rockets Tokatsu by 19.0
 
 <p float="left">
 <img src="plots/performances_2024-03-03-KamaishiSeawaves_V_GreenRocketsTokatsu.png" width="32%" />
@@ -238,23 +214,12 @@ Average Margin: Green Rockets Tokatsu by 17.9
 <img src="plots/spreads_2024-03-03-KamaishiSeawaves_V_GreenRocketsTokatsu.png" width="32%" />
 </p>
 
-### Red Hurricanes Osaka V Urayasu D-Rocks on 2024/03/03
-
-
-Average Margin: Urayasu D-Rocks by 5.3
-
-<p float="left">
-<img src="plots/performances_2024-03-03-RedHurricanesOsaka_V_UrayasuD-Rocks.png" width="32%" />
-<img src="plots/resultbar_2024-03-03-RedHurricanesOsaka_V_UrayasuD-Rocks.png" width="32%" />
-<img src="plots/spreads_2024-03-03-RedHurricanesOsaka_V_UrayasuD-Rocks.png" width="32%" />
-</p>
-
 ## Week 13
 
 ### Green Rockets Tokatsu V Red Hurricanes Osaka on 2024/03/10
 
 
-Average Margin: Green Rockets Tokatsu by 9.7
+Average Margin: Green Rockets Tokatsu by 12.5
 
 <p float="left">
 <img src="plots/performances_2024-03-10-GreenRocketsTokatsu_V_RedHurricanesOsaka.png" width="32%" />
@@ -265,7 +230,7 @@ Average Margin: Green Rockets Tokatsu by 9.7
 ### Kamaishi Seawaves V Kyuden Voltex on 2024/03/10
 
 
-Average Margin: Kyuden Voltex by 5.3
+Average Margin: Kyuden Voltex by 6.3
 
 <p float="left">
 <img src="plots/performances_2024-03-10-KamaishiSeawaves_V_KyudenVoltex.png" width="32%" />
@@ -278,7 +243,7 @@ Average Margin: Kyuden Voltex by 5.3
 ### Toyota Shuttles Aichi V Urayasu D-Rocks on 2024/03/17
 
 
-Average Margin: Urayasu D-Rocks by 1.2
+Average Margin: Urayasu D-Rocks by 0.0
 
 <p float="left">
 <img src="plots/performances_2024-03-17-ToyotaShuttlesAichi_V_UrayasuD-Rocks.png" width="32%" />
@@ -288,10 +253,21 @@ Average Margin: Urayasu D-Rocks by 1.2
 
 ## Week 15
 
+### Kamaishi Seawaves V Red Hurricanes Osaka on 2024/03/24
+
+
+Average Margin: Red Hurricanes Osaka by 10.1
+
+<p float="left">
+<img src="plots/performances_2024-03-24-KamaishiSeawaves_V_RedHurricanesOsaka.png" width="32%" />
+<img src="plots/resultbar_2024-03-24-KamaishiSeawaves_V_RedHurricanesOsaka.png" width="32%" />
+<img src="plots/spreads_2024-03-24-KamaishiSeawaves_V_RedHurricanesOsaka.png" width="32%" />
+</p>
+
 ### Kyuden Voltex V Urayasu D-Rocks on 2024/03/24
 
 
-Average Margin: Urayasu D-Rocks by 11.2
+Average Margin: Urayasu D-Rocks by 12.5
 
 <p float="left">
 <img src="plots/performances_2024-03-24-KyudenVoltex_V_UrayasuD-Rocks.png" width="32%" />
@@ -302,7 +278,7 @@ Average Margin: Urayasu D-Rocks by 11.2
 ### Green Rockets Tokatsu V Toyota Shuttles Aichi on 2024/03/24
 
 
-Average Margin: Green Rockets Tokatsu by 5.5
+Average Margin: Green Rockets Tokatsu by 4.2
 
 <p float="left">
 <img src="plots/performances_2024-03-24-GreenRocketsTokatsu_V_ToyotaShuttlesAichi.png" width="32%" />
@@ -310,23 +286,12 @@ Average Margin: Green Rockets Tokatsu by 5.5
 <img src="plots/spreads_2024-03-24-GreenRocketsTokatsu_V_ToyotaShuttlesAichi.png" width="32%" />
 </p>
 
-### Kamaishi Seawaves V Red Hurricanes Osaka on 2024/03/24
-
-
-Average Margin: Red Hurricanes Osaka by 11.4
-
-<p float="left">
-<img src="plots/performances_2024-03-24-KamaishiSeawaves_V_RedHurricanesOsaka.png" width="32%" />
-<img src="plots/resultbar_2024-03-24-KamaishiSeawaves_V_RedHurricanesOsaka.png" width="32%" />
-<img src="plots/spreads_2024-03-24-KamaishiSeawaves_V_RedHurricanesOsaka.png" width="32%" />
-</p>
-
 ## Week 16
 
 ### Urayasu D-Rocks V Green Rockets Tokatsu on 2024/03/30
 
 
-Average Margin: Urayasu D-Rocks by 5.4
+Average Margin: Urayasu D-Rocks by 6.1
 
 <p float="left">
 <img src="plots/performances_2024-03-30-UrayasuD-Rocks_V_GreenRocketsTokatsu.png" width="32%" />
@@ -337,7 +302,7 @@ Average Margin: Urayasu D-Rocks by 5.4
 ### Toyota Shuttles Aichi V Kamaishi Seawaves on 2024/03/30
 
 
-Average Margin: Toyota Shuttles Aichi by 21.8
+Average Margin: Toyota Shuttles Aichi by 25.0
 
 <p float="left">
 <img src="plots/performances_2024-03-30-ToyotaShuttlesAichi_V_KamaishiSeawaves.png" width="32%" />
@@ -348,7 +313,7 @@ Average Margin: Toyota Shuttles Aichi by 21.8
 ### Red Hurricanes Osaka V Kyuden Voltex on 2024/03/31
 
 
-Average Margin: Red Hurricanes Osaka by 9.7
+Average Margin: Red Hurricanes Osaka by 6.8
 
 <p float="left">
 <img src="plots/performances_2024-03-31-RedHurricanesOsaka_V_KyudenVoltex.png" width="32%" />

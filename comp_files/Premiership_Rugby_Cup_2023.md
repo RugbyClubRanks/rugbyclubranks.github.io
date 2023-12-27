@@ -1,6 +1,6 @@
 ---  
 title: "Premiership Rugby Cup 2023 Status"  
-date: 2023-12-18 6:00:00 -0500  
+date: 2023-12-27 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -47,10 +47,10 @@ aside:
 
 | Club                |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Exeter Chiefs       |                   1 |    0.7 |            1.63192   |                   0.3 |                0.6 |                  3.6 |
-| Leicester Tigers    |                   1 |    0.5 |            0.0670666 |                   0.5 |                0.4 |                  2.9 |
-| Ealing Trailfinders |                   1 |    0.5 |           -0.0670666 |                   0.4 |                0.4 |                  2.9 |
-| Gloucester Rugby    |                   1 |    0.3 |           -1.63192   |                   0.6 |                0.3 |                  2.2 |
+| Exeter Chiefs       |                   1 |    0.7 |              2.1223  |                   0.3 |                0.7 |                  3.8 |
+| Ealing Trailfinders |                   1 |    0.5 |              0.25519 |                   0.4 |                0.4 |                  3   |
+| Leicester Tigers    |                   1 |    0.5 |             -0.25519 |                   0.4 |                0.4 |                  2.8 |
+| Gloucester Rugby    |                   1 |    0.3 |             -2.1223  |                   0.7 |                0.2 |                  1.9 |
 
 
 
@@ -59,10 +59,10 @@ aside:
 
 | Club                |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Gloucester Rugby    |               6 |    5.3 |              70.3681 |                   0.6 |                0.3 |                 22.2 |
-| Exeter Chiefs       |               6 |    4.7 |             139.632  |                   0.3 |                0.6 |                 19.6 |
-| Leicester Tigers    |               6 |    4.5 |             132.067  |                   0.5 |                0.4 |                 18.9 |
-| Ealing Trailfinders |               5 |    4.5 |              78.9329 |                   0.4 |                0.4 |                 18.9 |
+| Gloucester Rugby    |               6 |    5.3 |              69.8777 |                   0.7 |                0.2 |                 21.9 |
+| Exeter Chiefs       |               6 |    4.7 |             140.122  |                   0.3 |                0.7 |                 19.8 |
+| Ealing Trailfinders |               5 |    4.5 |              79.2552 |                   0.4 |                0.4 |                 19   |
+| Leicester Tigers    |               6 |    4.5 |             131.745  |                   0.4 |                0.4 |                 18.8 |
 | Newcastle Falcons   |               5 |    4   |              46      |                   0   |                0   |                 16   |
 | Harlequins          |               5 |    3   |              63      |                   0   |                0   |                 14   |
 | Sale Sharks         |               5 |    3   |              99      |                   1   |                0   |                 13   |
@@ -101,7 +101,7 @@ aside:
 ### Gloucester Rugby V Exeter Chiefs on 2024/02/17
 
 
-Average Margin: Exeter Chiefs by 1.6
+Average Margin: Exeter Chiefs by 2.1
 
 <p float="left">
 <img src="plots/performances_2024-02-17-GloucesterRugby_V_ExeterChiefs.png" width="32%" />
@@ -112,7 +112,7 @@ Average Margin: Exeter Chiefs by 1.6
 ### Ealing Trailfinders V Leicester Tigers on 2024/02/18
 
 
-Average Margin: Leicester Tigers by 0.1
+Average Margin: Ealing Trailfinders by 0.3
 
 <p float="left">
 <img src="plots/performances_2024-02-18-EalingTrailfinders_V_LeicesterTigers.png" width="32%" />
