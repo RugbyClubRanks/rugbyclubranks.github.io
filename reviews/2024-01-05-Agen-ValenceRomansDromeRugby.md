@@ -1,0 +1,115 @@
+---  
+layout: page  
+title: Valence Romans Drome Rugby at Agen; 18-24  
+date: 2024-01-05 18:00:00 -0500  
+categories: "Pro D2 2023" match review  
+---
+# Valence Romans Drome Rugby at Agen; 18-24
+
+# Club Level Predictions
+
+
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.622, which translates to predicting Agen to win by 4.4.
+
+Our Over/Under is 44.5 - and combined with the spread above, we have a predicted scoreline of 20 to 24
+
+Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
+## Projected Performances - Club Model
+
+
+<p float="left">
+<img src="plots/performances_2024-01-05-Agen-ValenceRomansDromeRugby.png" width="99%" />
+</p>
+
+## Projected Spreads - Club Model
+
+
+<p float="left">
+<img src="plots/spreads_2024-01-05-Agen-ValenceRomansDromeRugby.png" width="99%" />
+</p>
+
+## Projected Results - Club Model
+
+
+<p float="left">
+<img src="plots/resultbar_2024-01-05-Agen-ValenceRomansDromeRugby.png" width="99%" />
+</p>
+
+# Player Level Predictions - Version 2
+
+
+Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
+## Prediction with Player Minutes: Agen by 7.0
+
+
+Agen by 0.5 on a neutral field
+## Prediction without Player Minutes: Agen by 7.9
+
+
+Agen by 0.4 on a neutral pitch
+
+
+## Projected Performances - Player Model
+
+
+<p float="left">
+<img src="plots/performances_plr_2024-01-05-Agen-ValenceRomansDromeRugby.png" width="99%" />
+</p>
+
+## Projected Spreads - Player Model
+
+
+<p float="left">
+<img src="plots/spreads_plr_2024-01-05-Agen-ValenceRomansDromeRugby.png" width="99%" />
+</p>
+
+## Projected Results - Player Model
+
+
+<p float="left">
+<img src="plots/resultbar_plr_2024-01-05-Agen-ValenceRomansDromeRugby.png" width="99%" />
+</p>
+
+## Scores over Time
+
+
+<p float="left">
+<img src="plots/recap_scores_V2-2024-01-05-Agen-ValenceRomansDromeRugby.png" width="99%" />
+</p>
+
+## Win Probability over Time
+
+
+<p float="left">
+<img src="plots/recap_prob_V2-2024-01-05-Agen-ValenceRomansDromeRugby.png" width="99%" />
+</p>
+
+
+There were 15 large changes in win probability in this match
+
+|   Away Minutes | Away Player           |   Away elo |   Number |   Home elo | Home Player        |   Home Minutes |
+|---------------:|:----------------------|-----------:|---------:|-----------:|:-------------------|---------------:|
+|             40 | Julien Royer          |     -12.07 |        1 |      48.5  | Hans Lombard-Buret |             60 |
+|             50 | Cyril Deligny         |     -22.28 |        2 |      20.14 | Mike Sosene-Feagai |             55 |
+|             48 | Chris Talakai         |      35.63 |        3 |      32.96 | Malik Hamadache    |             42 |
+|             80 | Ryan McCauley         |      18.14 |        4 |       6.44 | Joe Maksymiw       |             50 |
+|             21 | Darrell Dyer          |      61.34 |        5 |      -3.66 | Evan Olmstead      |             80 |
+|             65 | Axel Bruchet          |       9.69 |        6 |      20.62 | Julien Lebian      |             80 |
+|             80 | Loan Real             |      41.11 |        7 |      57.71 | Arnaud Duputs      |             80 |
+|             80 | Ioane Iashagashvili   |      64.14 |        8 |      31.06 | Martin Devergie    |             40 |
+|             58 | Tim Menzel            |      56.86 |        9 |      32.99 | Theo Idjellidaine  |             73 |
+|             80 | Lucas Meret           |       0.22 |       10 |      21.33 | Ben Volavola       |             65 |
+|             50 | Noe Perret-Tourlonias |      43.02 |       11 |      19.18 | Iban Etcheverry    |             80 |
+|             55 | Mathieu Guillomot     |      30.07 |       12 |      60.14 | Harry Sloan        |             80 |
+|             80 | Anatole Pauvert       |      58.65 |       13 |      54.96 | Clement Garrigues  |             80 |
+|             80 | Adam Vargas           |      94.16 |       14 |      62.01 | Tevita Railevu     |             80 |
+|             80 | Gauthier Minguillon   |      41.01 |       15 |      72.99 | Mathieu Lamoulie   |             65 |
+|             59 | Florian Goumat        |      39.05 |       16 |      51.51 | Valentin Gayraud   |             40 |
+|             40 | Anthony Aléo          |      20.48 |       17 |      43.93 | Théo Sauzaret      |             38 |
+|             32 | Kevin Goze            |      57.5  |       18 |      31.63 | Zak Farrance       |             30 |
+|             30 | Dorian Marco Pena     |      45.34 |       19 |      38.09 | Pierre Jouvin      |             25 |
+|             30 | Charles Bouldoire     |      69.99 |       20 |       0.16 | Florent Guion      |             20 |
+|             25 | Ben Neiceru           |      50.01 |       21 |      39.29 | Emile Dayral       |             15 |
+|             22 | Thomas Lhusero        |      78.8  |       22 |      77.88 | Henry Purdy        |             15 |
+|             15 | Éloi Massot           |      -6.23 |       23 |      45.36 | Dorian Bellot      |              7 |
+

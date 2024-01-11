@@ -126,7 +126,7 @@ key: page-recents
 ## Gallagher Premiership
 
 
-[2023](comp_files\Gallagher_Premiership_2023) - Prediction Accuracy: 59.6% 
+[2023](comp_files\Gallagher_Premiership_2023) - Prediction Accuracy: 61.3% 
 
 [2022](comp_files\Gallagher_Premiership_2022) - Prediction Accuracy: 69.9% 
 
@@ -136,7 +136,7 @@ key: page-recents
 ## Japan Rugby League One
 
 
-[2023](comp_files\Japan_Rugby_League_One_2023) - Prediction Accuracy: 72.2% 
+[2023](comp_files\Japan_Rugby_League_One_2023) - Prediction Accuracy: 79.2% 
 
 [2022](comp_files\Japan_Rugby_League_One_2022) - Prediction Accuracy: 78.4% 
 
@@ -156,7 +156,7 @@ key: page-recents
 ## Top 14 Orange
 
 
-[2023](comp_files\Top_14_Orange_2023) - Prediction Accuracy: 70.0% 
+[2023](comp_files\Top_14_Orange_2023) - Prediction Accuracy: 70.2% 
 
 [2022](comp_files\Top_14_Orange_2022) - Prediction Accuracy: 68.0% 
 
@@ -176,7 +176,7 @@ key: page-recents
 ## RFU Championship
 
 
-[2023](comp_files\RFU_Championship_2023) - Prediction Accuracy: 71.8% 
+[2023](comp_files\RFU_Championship_2023) - Prediction Accuracy: 70.0% 
 
 [2022](comp_files\RFU_Championship_2022) - Prediction Accuracy: 74.2% 
 
@@ -212,7 +212,7 @@ key: page-recents
 ## Allianz Premier 15s
 
 
-[2023](comp_files\Allianz_Premier_15s_2023) - Prediction Accuracy: 90.5% 
+[2023](comp_files\Allianz_Premier_15s_2023) - Prediction Accuracy: 89.5% 
 ## Peroni Top10
 
 
@@ -256,7 +256,7 @@ key: page-recents
 ## Pro D2
 
 
-[2023](comp_files\Pro_D2_2023) - Prediction Accuracy: 75.0% 
+[2023](comp_files\Pro_D2_2023) - Prediction Accuracy: 75.8% 
 
 [2022](comp_files\Pro_D2_2022) - Prediction Accuracy: 67.8% 
 
@@ -282,8 +282,8 @@ key: page-recents
 ## Japan Rugby League One D2
 
 
-[2023](comp_files\Japan_Rugby_League_One_D2_2023) - Prediction Accuracy: 77.8% 
+[2023](comp_files\Japan_Rugby_League_One_D2_2023) - Prediction Accuracy: 80.0% 
 ## Japan Rugby League One D3
 
 
-[2023](comp_files\Japan_Rugby_League_One_D3_2023) - Prediction Accuracy: 75.0% 
+[2023](comp_files\Japan_Rugby_League_One_D3_2023) - Prediction Accuracy: 83.3% 
