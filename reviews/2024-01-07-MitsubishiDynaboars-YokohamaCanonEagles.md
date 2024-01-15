@@ -11,7 +11,7 @@ categories: "Japan Rugby League One 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.285, which translates to predicting Yokohama Canon Eagles to win by 8.3.
 
-Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 31 to 22
+Our Over/Under is 56.5 - and combined with the spread above, we have a predicted scoreline of 33 to 24
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -89,26 +89,26 @@ There were 20 large changes in win probability in this match
 
 |   Away Minutes | Away Player       |   Away elo |   Number |   Home elo | Home Player            |   Home Minutes |
 |---------------:|:------------------|-----------:|---------:|-----------:|:-----------------------|---------------:|
-|             62 | Takato Okabe      |     103.04 |        1 |      31.38 | Shunsuke Sakamoto      |             56 |
-|             65 | Shunta Nakamura   |      54.92 |        2 |      39.72 | Yuki Miyazato          |             80 |
-|             60 | Ryosuke Iwaihara  |      52.55 |        3 |      45.31 | Chinen Yu              |             40 |
-|             80 | Liaki Moli        |       3.67 |        4 |      -4.67 | Epineri Uluiviti       |             80 |
-|             57 | Matt Philip       |      51.18 |        5 |      42.66 | Daniel Linde           |             80 |
-|             80 | Lekima Nasamila   |      47.09 |        6 |      76.6  | Kyo Yoshida            |             80 |
-|             80 | Naoto Shimada     |      30.2  |        7 |      47.17 | Yusuke Sakamoto        |             45 |
-|             68 | Sioeli Vakalahi   |      86.26 |        8 |      60.68 | Jackson Hemopo         |             64 |
-|             53 | Faf de Klerk      |     100.18 |        9 |      96.49 | Jack Stratton          |             53 |
-|             70 | Yu Tamura         |      18.65 |       10 |      53.32 | Matt To'omua           |             80 |
-|             80 | Viliame Takayawa  |     113.12 |       11 |      81.76 | Honeti Taumoha'apai    |             43 |
-|             80 | Yusuke Kajimura   |     101.02 |       12 |      42.27 | Brackin Karauria-Henry |             80 |
-|             80 | Jesse Kriel       |     129.3  |       13 |      66.85 | Curtis Rona            |             80 |
-|             80 | Inoke Burua       |      92.95 |       14 |      61.9  | Ben Paltridge          |             80 |
-|             80 | Jumpei Ogura      |     115.61 |       15 |      35.69 | Kazuki Ishida          |             45 |
-|             27 | Kafazumi Yamasuga |      50.24 |       16 |     115.74 | Tomoaki Ishii          |             40 |
-|             23 | Max Douglas       |      71.28 |       17 |      62.61 | Roland Alaiasa         |             37 |
+|             62 | Takato Okabe      |     103.04 |        1 |      31.4  | Shunsuke Sakamoto      |             56 |
+|             65 | Shunta Nakamura   |      54.94 |        2 |      39.74 | Yuki Miyazato          |             80 |
+|             60 | Ryosuke Iwaihara  |      52.56 |        3 |      45.31 | Chinen Yu              |             40 |
+|             80 | Liaki Moli        |       3.69 |        4 |      -4.66 | Epineri Uluiviti       |             80 |
+|             57 | Matt Philip       |      51.17 |        5 |      42.7  | Daniel Linde           |             80 |
+|             80 | Lekima Nasamila   |      47.1  |        6 |      76.57 | Kyo Yoshida            |             80 |
+|             80 | Naoto Shimada     |      30.19 |        7 |      47.2  | Yusuke Sakamoto        |             45 |
+|             68 | Sioeli Vakalahi   |      86.27 |        8 |      60.69 | Jackson Hemopo         |             64 |
+|             53 | Faf de Klerk      |     100.14 |        9 |      96.55 | Jack Stratton          |             53 |
+|             70 | Yu Tamura         |      18.67 |       10 |      53.31 | Matt To'omua           |             80 |
+|             80 | Viliame Takayawa  |     113.14 |       11 |      81.79 | Honeti Taumoha'apai    |             43 |
+|             80 | Yusuke Kajimura   |     101.04 |       12 |      42.28 | Brackin Karauria-Henry |             80 |
+|             80 | Jesse Kriel       |     129.34 |       13 |      66.8  | Curtis Rona            |             80 |
+|             80 | Inoke Burua       |      92.97 |       14 |      61.9  | Ben Paltridge          |             80 |
+|             80 | Jumpei Ogura      |     115.63 |       15 |      35.69 | Kazuki Ishida          |             45 |
+|             27 | Kafazumi Yamasuga |      50.24 |       16 |     115.76 | Tomoaki Ishii          |             40 |
+|             23 | Max Douglas       |      71.3  |       17 |      62.63 | Roland Alaiasa         |             37 |
 |             20 | Tatsuro Sugimoto  |       2.57 |       18 |      45.25 | Ryuta Nakamori         |             35 |
-|             18 | Chang Ho Ahn      |      53.16 |       19 |      40.84 | Jun Morimoto           |             35 |
-|             15 | Shin Kawamura     |      13.65 |       20 |      58.35 | Matt Vaega             |             27 |
-|             12 | Mitch Brown       |      62.17 |       21 |      89.83 | Masataka Tsuruya       |             24 |
-|             10 | Ryu Fukuhara      |      46.65 |       22 |      37.09 | Marino Mikaele-Tu'u    |             16 |
+|             18 | Chang Ho Ahn      |      53.17 |       19 |      40.84 | Jun Morimoto           |             35 |
+|             15 | Shin Kawamura     |      13.7  |       20 |      58.35 | Matt Vaega             |             27 |
+|             12 | Mitch Brown       |      61.73 |       21 |      89.85 | Masataka Tsuruya       |             24 |
+|             10 | Ryu Fukuhara      |      46.65 |       22 |      37.23 | Marino Mikaele-Tu'u    |             16 |
 

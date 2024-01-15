@@ -11,7 +11,7 @@ categories: "Japan Rugby League One D2 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.825, which translates to predicting Kyuden Voltex to win by 14.2.
 
-Our Over/Under is 58.5 - and combined with the spread above, we have a predicted scoreline of 22 to 37
+Our Over/Under is 61.5 - and combined with the spread above, we have a predicted scoreline of 23 to 38
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -42,8 +42,8 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Player Minutes: Kyuden Voltex by 16.5
 
 
-Kyuden Voltex by 13.1 on a neutral field
-## Prediction without Player Minutes: Kyuden Voltex by 17.1
+Kyuden Voltex by 13.2 on a neutral field
+## Prediction without Player Minutes: Kyuden Voltex by 17.2
 
 
 Kyuden Voltex by 13.8 on a neutral pitch
@@ -89,27 +89,27 @@ There were 4 large changes in win probability in this match
 
 |   Away Minutes | Away Player        |   Away elo |   Number |   Home elo | Home Player            |   Home Minutes |
 |---------------:|:-------------------|-----------:|---------:|-----------:|:-----------------------|---------------:|
-|             56 | Yusuke Yamada      |      47.27 |        1 |      55.24 | Samuel Nozomu Faialaga |             58 |
-|             58 | Daiki Ito          |       4.06 |        2 |       9.88 | Kyungmun Wang          |             76 |
-|             31 | Flyn Yates         |       1.66 |        3 |      16.7  | Yasuo Saruwatari       |             52 |
-|             80 | Hamish Dalzell     |      29.47 |        4 |      33.05 | Ray Tatafu             |             59 |
-|             80 | Ben Nee Nee        |      -2.38 |        5 |      35.27 | Sean Robinson          |             80 |
-|             40 | Kohei Ishigaki     |      26.72 |        6 |      48.08 | Ken Nakashima          |             53 |
-|             80 | Daisuke Musya      |       7.79 |        7 |      30.29 | Yuuki Yamada           |             80 |
-|             56 | Dallas Tatana      |       2.11 |        8 |      23.31 | Walker Alex Takuya     |             80 |
-|             76 | Atsushi Minami     |      32.2  |        9 |      53.99 | Shunta Takenouchi      |             59 |
-|             80 | Kazuki Ochi        |      43.87 |       10 |      58.08 | Tom Taylor             |             80 |
-|             80 | Jamie Henry        |      81.93 |       11 |      31.85 | Ren Hagiwara           |             80 |
-|             80 | Mosese Tonga       |      26.07 |       12 |      50.65 | Phil Burleigh          |             50 |
-|             52 | Osuka Lloyd Murata |      -5.38 |       13 |      38.69 | Sione Likuata          |             80 |
-|             76 | Kodai Ono          |     -31.99 |       14 |     126.33 | Akihito Yamada         |             80 |
-|             80 | Cam Bailey         |     -15.42 |       15 |     -20.24 | Makoto Kato            |             75 |
-|             49 | Taiki Noguchi      |      32.83 |       16 |      46.65 | Charlie Worthington    |             30 |
-|             40 | Seta Koroitamana   |      28.64 |       17 |      39.51 | Kosuke Oike            |             28 |
-|             28 | Syou Kataoka       |      33.93 |       18 |      46.17 | Kazuto Tokunaga        |             22 |
-|             24 | Ryunosuke Yamada   |       3.05 |       19 |      39.01 | Yusaku Kanda           |             21 |
-|             24 | Shoichiro Inada    |      27.28 |       20 |      70.77 | Aaron Carroll          |             21 |
-|             22 | Yuki Go            |      27.31 |       21 |      39    | Keisuke Yamzoe         |             27 |
-|              4 | Ryo Kikkawa        |      36.23 |       22 |      43.17 | Masaya Kanado          |              5 |
-|              4 | Takumi Tokairin    |      36.67 |       23 |      43.87 | Yuya Otsuka            |              4 |
+|             56 | Yusuke Yamada      |      47.31 |        1 |      55.25 | Samuel Nozomu Faialaga |             58 |
+|             58 | Daiki Ito          |       4.16 |        2 |       9.89 | Kyungmun Wang          |             76 |
+|             31 | Flyn Yates         |       1.03 |        3 |      16.71 | Yasuo Saruwatari       |             52 |
+|             80 | Hamish Dalzell     |      27.83 |        4 |      33.08 | Ray Tatafu             |             59 |
+|             80 | Ben Nee Nee        |      -2.33 |        5 |      35.45 | Sean Robinson          |             80 |
+|             40 | Kohei Ishigaki     |      26.79 |        6 |      48.08 | Ken Nakashima          |             53 |
+|             80 | Daisuke Musya      |       7.86 |        7 |      30.29 | Yuuki Yamada           |             80 |
+|             56 | Dallas Tatana      |       2.12 |        8 |      23.32 | Walker Alex Takuya     |             80 |
+|             76 | Atsushi Minami     |      32.27 |        9 |      54    | Shunta Takenouchi      |             59 |
+|             80 | Kazuki Ochi        |      43.91 |       10 |      58.08 | Tom Taylor             |             80 |
+|             80 | Jamie Henry        |      81.99 |       11 |      31.86 | Ren Hagiwara           |             80 |
+|             80 | Mosese Tonga       |      26.12 |       12 |      50.66 | Phil Burleigh          |             50 |
+|             52 | Osuka Lloyd Murata |      -5.3  |       13 |      38.69 | Sione Likuata          |             80 |
+|             76 | Kodai Ono          |     -31.89 |       14 |     126.22 | Akihito Yamada         |             80 |
+|             80 | Cam Bailey         |     -15.31 |       15 |     -20.25 | Makoto Kato            |             75 |
+|             49 | Taiki Noguchi      |      32.87 |       16 |      46.65 | Charlie Worthington    |             30 |
+|             40 | Seta Koroitamana   |      28.68 |       17 |      39.51 | Kosuke Oike            |             28 |
+|             28 | Syou Kataoka       |      33.96 |       18 |      46.18 | Kazuto Tokunaga        |             22 |
+|             24 | Ryunosuke Yamada   |       3.09 |       19 |      39.01 | Yusaku Kanda           |             21 |
+|             24 | Shoichiro Inada    |      27.3  |       20 |      70.83 | Aaron Carroll          |             21 |
+|             22 | Yuki Go            |      27.3  |       21 |      39    | Keisuke Yamzoe         |             27 |
+|              4 | Ryo Kikkawa        |      36.28 |       22 |      43.17 | Masaya Kanado          |              5 |
+|              4 | Takumi Tokairin    |      36.68 |       23 |      43.87 | Yuya Otsuka            |              4 |
 

@@ -11,7 +11,7 @@ categories: "Japan Rugby League One 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.728, which translates to predicting Black Rams Tokyo to win by 8.9.
 
-Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 20 to 29
+Our Over/Under is 54.5 - and combined with the spread above, we have a predicted scoreline of 23 to 32
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -89,27 +89,27 @@ There were 5 large changes in win probability in this match
 
 |   Away Minutes | Away Player       |   Away elo |   Number |   Home elo | Home Player        |   Home Minutes |
 |---------------:|:------------------|-----------:|---------:|-----------:|:-------------------|---------------:|
-|             52 | Shun Sasaki       |      31.4  |        1 |      73.14 | Yuichiro Taniguchi |             51 |
-|             52 | Keiichi Kaneko    |      39.09 |        2 |      71.69 | Ko Sato            |             80 |
-|             70 | Yuchol Mun        |      45.51 |        3 |      42.71 | Paddy Ryan         |             60 |
-|             80 | James Blackwell   |      34.17 |        4 |     -16.82 | Mike Stolberg      |             80 |
-|             24 | Sanaila Waqa      |      65.07 |        5 |      53.95 | Pohiva Lotoahea    |             63 |
-|             80 | Jed Brown         |      49.88 |        6 |      63.62 | Talau Fakatava     |             80 |
-|             52 | Tsuyoshi Murata   |      10.45 |        7 |      65.06 | Shuhei Matsuhashi  |             80 |
-|             80 | Jose Seru         |      75.1  |        8 |      91.28 | Nathan Hughes      |             60 |
-|             52 | Will Genia        |      97.32 |        9 |      50.74 | Toshiya Takahashi  |             67 |
-|             80 | Quade Cooper      |     181.87 |       10 |      46.65 | Ichigo Nakakusu    |             56 |
-|             80 | Tomoya Kimura     |      54.62 |       11 |      69.97 | Netani Vakayalia   |             80 |
-|             80 | Takumi Yoshimoto  |      36.36 |       12 |      21.14 | Yuta Kurihara      |             80 |
-|             52 | Tom Hendrickson   |      58.45 |       13 |      -5.3  | Viliami Lolohea    |             63 |
-|             80 | Joshua Nohra      |       5.81 |       14 |      30.51 | Daisuke Nishikawa  |             80 |
-|             64 | Daisuke Noguchi   |       3.22 |       15 |      60.2  | Isaac Lucas        |             80 |
+|             52 | Shun Sasaki       |      31.41 |        1 |      73.15 | Yuichiro Taniguchi |             51 |
+|             52 | Keiichi Kaneko    |      39.08 |        2 |      71.7  | Ko Sato            |             80 |
+|             70 | Yuchol Mun        |      45.51 |        3 |      42.66 | Paddy Ryan         |             60 |
+|             80 | James Blackwell   |      34.27 |        4 |     -16.81 | Mike Stolberg      |             80 |
+|             24 | Sanaila Waqa      |      65.19 |        5 |      53.97 | Pohiva Lotoahea    |             63 |
+|             80 | Jed Brown         |      49.86 |        6 |      63.63 | Talau Fakatava     |             80 |
+|             52 | Tsuyoshi Murata   |      10.57 |        7 |      65.08 | Shuhei Matsuhashi  |             80 |
+|             80 | Jose Seru         |      75.09 |        8 |      91.2  | Nathan Hughes      |             60 |
+|             52 | Will Genia        |      97.38 |        9 |      50.75 | Toshiya Takahashi  |             67 |
+|             80 | Quade Cooper      |     181.89 |       10 |      46.65 | Ichigo Nakakusu    |             56 |
+|             80 | Tomoya Kimura     |      54.61 |       11 |      69.99 | Netani Vakayalia   |             80 |
+|             80 | Takumi Yoshimoto  |      36.35 |       12 |      21.16 | Yuta Kurihara      |             80 |
+|             52 | Tom Hendrickson   |      57.87 |       13 |      -5.31 | Viliami Lolohea    |             63 |
+|             80 | Joshua Nohra      |       5.81 |       14 |      30.52 | Daisuke Nishikawa  |             80 |
+|             64 | Daisuke Noguchi   |       3.21 |       15 |      60.22 | Isaac Lucas        |             80 |
 |             56 | Takahito Sugahara |     -22.11 |       16 |      62.37 | Kazuma Nishi       |             29 |
-|             28 | Nesta Mahina      |      44.61 |       17 |      80.5  | Matt McGahan       |             24 |
-|             28 | Andrew Makalio    |      24.05 |       18 |      46.62 | Shohei Oyama       |             20 |
-|             28 | Patrick Tafa      |      15.12 |       19 |      25.62 | Jacob Skeen        |              5 |
+|             28 | Nesta Mahina      |      44.6  |       17 |      80.39 | Matt McGahan       |             24 |
+|             28 | Andrew Makalio    |      24.2  |       18 |      46.62 | Shohei Oyama       |             20 |
+|             28 | Patrick Tafa      |      15.1  |       19 |      25.63 | Jacob Skeen        |              5 |
 |             28 | Kensyo Kawamura   |      46.57 |       20 |      84.86 | Brodi McCurran     |             17 |
-|             28 | Haruki Kanazawa   |      25.44 |       21 |      60.63 | Semisi Tupou       |             17 |
+|             28 | Haruki Kanazawa   |      25.55 |       21 |      60.63 | Semisi Tupou       |             17 |
 |             16 | Liekina Kaufusi   |      39.15 |       22 |      30.81 | Takanobu Minami    |             13 |
-|             10 | Shinki Ushikubo   |      36.57 |       23 |      43.36 | Kazuhiro Koike     |             15 |
+|             10 | Shinki Ushikubo   |      36.56 |       23 |      43.36 | Kazuhiro Koike     |             15 |
 

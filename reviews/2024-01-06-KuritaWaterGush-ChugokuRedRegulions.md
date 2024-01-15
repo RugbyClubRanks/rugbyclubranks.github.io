@@ -11,7 +11,7 @@ categories: "Japan Rugby League One D3 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.766, which translates to predicting Kurita Water Gush to win by 11.0.
 
-Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 21 to 32
+Our Over/Under is 71.5 - and combined with the spread above, we have a predicted scoreline of 30 to 41
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -46,7 +46,7 @@ Kurita Water Gush by 9.6 on a neutral field
 ## Prediction without Player Minutes: Kurita Water Gush by 13.0
 
 
-Kurita Water Gush by 9.7 on a neutral pitch
+Kurita Water Gush by 9.8 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -89,27 +89,27 @@ There were 14 large changes in win probability in this match
 
 |   Away Minutes | Away Player       |   Away elo |   Number |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:------------------|-----------:|---------:|-----------:|:---------------------|---------------:|
-|             80 | Toshiyuki Ooki    |      11    |        1 |       4.83 | Shoya Koyama         |             50 |
-|             63 | Yuuki Asai        |      13.22 |        2 |      -2.08 | Ryota Kuribara       |             63 |
-|             79 | Kento Miyata      |      33.64 |        3 |      18.25 | Kuriyama Rui         |             75 |
-|             80 | Taro Nishikawa    |     -68.74 |        4 |     -42.09 | Daymon Leasuasu      |             80 |
-|             80 | Kouta Moriyama    |     -43.86 |        5 |       6.76 | Mike Williams        |             80 |
-|             80 | Shintaro Matsuda  |      23.49 |        6 |      57.21 | Tebita Oto           |             63 |
-|             63 | Riki Yamaguchi    |      14.18 |        7 |     -11.84 | Yosuke Ishii         |             55 |
-|             80 | Ed Quirk          |      -8.34 |        8 |      67.02 | Teariki Ben-Nicholas |             80 |
-|             56 | Shohei Tsukamoto  |     -15.69 |        9 |      23.78 | Ryo Omasa            |             50 |
-|             80 | Miyazaki Hayato   |      45.84 |       10 |      46.23 | Piers Francis        |             76 |
-|             66 | Masahiro Nakano   |     -13.48 |       11 |      43.82 | Tumanawa Tawhai      |             80 |
-|             80 | Makoto Torikai    |       3.11 |       12 |      44.33 | Jamie Vakalahi       |             70 |
-|             67 | Azuma Syougo      |      45.84 |       13 |     -28.19 | Ayato Sakamoto       |             80 |
-|             80 | Kentaro Fujii     |      20.76 |       14 |     -15.79 | Kentaro Sugimori     |             80 |
-|             79 | Yuto Matsuoka     |       4.8  |       15 |      51.65 | Koshi Emoto          |             80 |
-|             24 | Rintaro Kawashima |      22.81 |       16 |      39.79 | Kei Shibuya          |             30 |
-|             17 | Kentaro Iwanaga   |      -0.5  |       17 |      48.38 | Kakeru Sugihara      |             30 |
+|             80 | Toshiyuki Ooki    |      11.01 |        1 |       4.87 | Shoya Koyama         |             50 |
+|             63 | Yuuki Asai        |      13.22 |        2 |      -1.97 | Ryota Kuribara       |             63 |
+|             79 | Kento Miyata      |      33.65 |        3 |      18.33 | Kuriyama Rui         |             75 |
+|             80 | Taro Nishikawa    |     -68.72 |        4 |     -41.99 | Daymon Leasuasu      |             80 |
+|             80 | Kouta Moriyama    |     -43.84 |        5 |       6.73 | Mike Williams        |             80 |
+|             80 | Shintaro Matsuda  |      23.5  |        6 |      57.32 | Tebita Oto           |             63 |
+|             63 | Riki Yamaguchi    |      14.19 |        7 |     -11.83 | Yosuke Ishii         |             55 |
+|             80 | Ed Quirk          |      -8.32 |        8 |      67.15 | Teariki Ben-Nicholas |             80 |
+|             56 | Shohei Tsukamoto  |     -15.67 |        9 |      23.79 | Ryo Omasa            |             50 |
+|             80 | Miyazaki Hayato   |      45.85 |       10 |      46.21 | Piers Francis        |             76 |
+|             66 | Masahiro Nakano   |     -13.47 |       11 |      43.87 | Tumanawa Tawhai      |             80 |
+|             80 | Makoto Torikai    |       3.12 |       12 |      44.34 | Jamie Vakalahi       |             70 |
+|             67 | Azuma Syougo      |      45.85 |       13 |     -28.19 | Ayato Sakamoto       |             80 |
+|             80 | Kentaro Fujii     |      20.78 |       14 |     -15.67 | Kentaro Sugimori     |             80 |
+|             79 | Yuto Matsuoka     |       4.82 |       15 |      51.66 | Koshi Emoto          |             80 |
+|             24 | Rintaro Kawashima |      22.81 |       16 |      39.87 | Kei Shibuya          |             30 |
+|             17 | Kentaro Iwanaga   |      -0.48 |       17 |      48.46 | Kakeru Sugihara      |             30 |
 |             17 | Noriyuki Kureyama |      23.01 |       18 |      17.57 | Mitsuo Nakao         |             25 |
 |             14 | Keigo Hatanaka    |      -7.01 |       19 |      46.34 | Ryutaro Iguchi       |             17 |
-|             13 | Masaaki Morita    |     -23.55 |       20 |      15.21 | Kengo Nakamura       |             17 |
-|              1 | Saiya Kitajima    |       7.52 |       21 |      43.72 | Daiki Yokota         |             10 |
-|              1 | Hashizo Yoshida   |       6.99 |       22 |      41.94 | Aki Kajiwara         |              5 |
+|             13 | Masaaki Morita    |     -23.54 |       20 |      15.24 | Kengo Nakamura       |             17 |
+|              1 | Saiya Kitajima    |       7.52 |       21 |      43.79 | Daiki Yokota         |             10 |
+|              1 | Hashizo Yoshida   |       7    |       22 |      41.98 | Aki Kajiwara         |              5 |
 |            nan | nan               |     nan    |       23 |      46.65 | Shogo Yanagita       |              4 |
 

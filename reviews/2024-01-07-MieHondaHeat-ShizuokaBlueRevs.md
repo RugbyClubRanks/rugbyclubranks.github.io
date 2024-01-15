@@ -11,7 +11,7 @@ categories: "Japan Rugby League One 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.262, which translates to predicting Shizuoka Blue Revs to win by 9.4.
 
-Our Over/Under is 55.5 - and combined with the spread above, we have a predicted scoreline of 32 to 23
+Our Over/Under is 63.5 - and combined with the spread above, we have a predicted scoreline of 37 to 27
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -89,27 +89,27 @@ There were 4 large changes in win probability in this match
 
 |   Away Minutes | Away Player        |   Away elo |   Number |   Home elo | Home Player           |   Home Minutes |
 |---------------:|:-------------------|-----------:|---------:|-----------:|:----------------------|---------------:|
-|             59 | Kazuhiro Kawata    |      19.9  |        1 |      15.52 | Tatsuhiko Tsurukawa   |             53 |
-|             59 | Takeshi Hino       |      85.28 |        2 |      17.84 | Lee Seung Hyok        |             59 |
-|             53 | Heiichiro Ito      |      62.45 |        3 |      35.21 | Taiki Yoshioka        |             49 |
-|             80 | Eishin Kuwano      |      86.81 |        4 |      29.71 | Tetuhi Roberts        |             70 |
-|             59 | Murray Douglas     |     100.99 |        5 |     108.09 | Franco Mostert        |             80 |
-|             80 | Yuya Odo           |      88.99 |        6 |      13.83 | Ryota Kobayashi       |             80 |
+|             59 | Kazuhiro Kawata    |      19.88 |        1 |      15.51 | Tatsuhiko Tsurukawa   |             53 |
+|             59 | Takeshi Hino       |      85.25 |        2 |      17.84 | Lee Seung Hyok        |             59 |
+|             53 | Heiichiro Ito      |      62.43 |        3 |      35.21 | Taiki Yoshioka        |             49 |
+|             80 | Eishin Kuwano      |      86.8  |        4 |      29.7  | Tetuhi Roberts        |             70 |
+|             59 | Murray Douglas     |     100.98 |        5 |     108.13 | Franco Mostert        |             80 |
+|             80 | Yuya Odo           |      88.98 |        6 |      13.84 | Ryota Kobayashi       |             80 |
 |             80 | Kwagga Smith       |      83.15 |        7 |      -1.31 | Ryo Furuta            |             80 |
-|             57 | Malgene Ilaua      |      58.35 |        8 |      23.85 | Heiden Bedwell-Curtis |             40 |
-|             59 | Kodai Okazaki      |      46.65 |        9 |      38.47 | Shogo Nezuka          |             56 |
-|             80 | Kenta Iemura       |      58.79 |       10 |      70.78 | Mitch Hunt            |             49 |
-|             80 | Malo Tuitama       |      66.89 |       11 |     106.42 | Tevita Li             |             80 |
-|             53 | Viliami Tahitu'a   |      50.8  |       12 |      19.75 | Fraser Quirk          |             80 |
-|             80 | Charles Piutau     |      72.41 |       13 |      30.49 | Clinton Knox          |             80 |
+|             57 | Malgene Ilaua      |      58.34 |        8 |      24.01 | Heiden Bedwell-Curtis |             40 |
+|             59 | Kodai Okazaki      |      46.65 |        9 |      38.48 | Shogo Nezuka          |             56 |
+|             80 | Kenta Iemura       |      58.78 |       10 |      70.77 | Mitch Hunt            |             49 |
+|             80 | Malo Tuitama       |      66.87 |       11 |     106.22 | Tevita Li             |             80 |
+|             53 | Viliami Tahitu'a   |      50.78 |       12 |      19.74 | Fraser Quirk          |             80 |
+|             80 | Charles Piutau     |      72.39 |       13 |      30.48 | Clinton Knox          |             80 |
 |             80 | Hironori Yatomi    |      23.4  |       14 |      45    | Kanta Watanabe        |             80 |
-|             65 | Futo Yamaguchi     |      69.43 |       15 |      55    | Yoshikazu Fujita      |             14 |
-|             27 | Sohei Nishimura    |      31.24 |       16 |      45.37 | Haruhiko Uemura       |             66 |
-|             27 | Sam Greene         |       0.49 |       17 |      50.27 | Waimana Kapa          |             40 |
-|             23 | Shoji Takuma       |      44.79 |       18 |      49.49 | SongGi Pak            |             31 |
-|             21 | Shintaro Okamoto   |      62.64 |       19 |      31.68 | Matthys Basson        |             31 |
+|             65 | Futo Yamaguchi     |      69.41 |       15 |      55.01 | Yoshikazu Fujita      |             14 |
+|             27 | Sohei Nishimura    |      31.23 |       16 |      45.36 | Haruhiko Uemura       |             66 |
+|             27 | Sam Greene         |       0.48 |       17 |      50.34 | Waimana Kapa          |             40 |
+|             23 | Shoji Takuma       |      44.78 |       18 |      49.49 | SongGi Pak            |             31 |
+|             21 | Shintaro Okamoto   |      62.64 |       19 |      31.69 | Matthys Basson        |             31 |
 |             21 | Richmond Tongatama |      47.23 |       20 |      42.91 | Kanato Hirano         |             27 |
-|             21 | Bryn Hall          |     120.23 |       21 |      34.06 | Taichi Takenaka       |             24 |
+|             21 | Bryn Hall          |     120.11 |       21 |      34.05 | Taichi Takenaka       |             24 |
 |             21 | Ryosuke Funahashi  |      42.74 |       22 |      44.77 | Koki Hida             |             21 |
 |             15 | Kakeru Okumura     |      18.8  |       23 |      32.59 | Yoji Akiyama          |             10 |
 

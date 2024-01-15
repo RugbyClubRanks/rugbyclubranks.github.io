@@ -1,6 +1,6 @@
 ---  
 title: "Guinness Women's Six Nations 2024 Status"  
-date: 2024-01-10 6:00:00 -0500  
+date: 2024-01-15 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,12 +17,12 @@ aside:
 
 | Club           |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| England Women  |               5 |    4.9 |             152.084  |                   0.1 |                4.1 |                 23.8 |
-| France Women   |               5 |    4   |              74.9002 |                   0.3 |                2.7 |                 19.1 |
-| Wales Women    |               5 |    2.3 |             -31.1491 |                   0.7 |                1.4 |                 11.3 |
-| Italy Women    |               5 |    1.9 |             -40.5485 |                   0.7 |                1.3 |                  9.6 |
-| Scotland Women |               5 |    1.2 |             -55.7028 |                   0.9 |                1.3 |                  7   |
-| Ireland Women  |               5 |    0.6 |             -99.5838 |                   0.8 |                0.8 |                  4.2 |
+| England Women  |               5 |    4.9 |             153.326  |                   0.1 |                3.7 |                 23.4 |
+| France Women   |               5 |    4   |              75.7834 |                   0.3 |                2.7 |                 19.1 |
+| Wales Women    |               5 |    2.3 |             -32.4552 |                   0.7 |                1.5 |                 11.4 |
+| Italy Women    |               5 |    1.9 |             -42.4725 |                   0.7 |                1.3 |                  9.5 |
+| Scotland Women |               5 |    1.2 |             -55.7599 |                   0.9 |                1.2 |                  6.8 |
+| Ireland Women  |               5 |    0.7 |             -98.422  |                   0.9 |                0.7 |                  4.2 |
 
 
 
@@ -30,21 +30,12 @@ aside:
 
 ## Week 1
 
-### France Women V Ireland Women on 2024/03/23
-
-
-Average Margin: France Women by 33.0
-
-<p float="left">
-<img src="plots/performances_2024-03-23-FranceWomen_V_IrelandWomen.png" width="32%" />
-<img src="plots/resultbar_2024-03-23-FranceWomen_V_IrelandWomen.png" width="32%" />
-<img src="plots/spreads_2024-03-23-FranceWomen_V_IrelandWomen.png" width="32%" />
-</p>
-
 ### Wales Women V Scotland Women on 2024/03/23
 
 
-Average Margin: Wales Women by 6.4
+Average Margin: Wales Women by 6.3
+
+Average Scoreline: 27-20
 
 <p float="left">
 <img src="plots/performances_2024-03-23-WalesWomen_V_ScotlandWomen.png" width="32%" />
@@ -52,10 +43,25 @@ Average Margin: Wales Women by 6.4
 <img src="plots/spreads_2024-03-23-WalesWomen_V_ScotlandWomen.png" width="32%" />
 </p>
 
+### France Women V Ireland Women on 2024/03/23
+
+
+Average Margin: France Women by 32.6
+
+Average Scoreline: 45-12
+
+<p float="left">
+<img src="plots/performances_2024-03-23-FranceWomen_V_IrelandWomen.png" width="32%" />
+<img src="plots/resultbar_2024-03-23-FranceWomen_V_IrelandWomen.png" width="32%" />
+<img src="plots/spreads_2024-03-23-FranceWomen_V_IrelandWomen.png" width="32%" />
+</p>
+
 ### Italy Women V England Women on 2024/03/24
 
 
-Average Margin: England Women by 29.0
+Average Margin: England Women by 29.3
+
+Average Scoreline: 38-8
 
 <p float="left">
 <img src="plots/performances_2024-03-24-ItalyWomen_V_EnglandWomen.png" width="32%" />
@@ -65,21 +71,12 @@ Average Margin: England Women by 29.0
 
 ## Week 2
 
-### England Women V Wales Women on 2024/03/30
-
-
-Average Margin: England Women by 34.9
-
-<p float="left">
-<img src="plots/performances_2024-03-30-EnglandWomen_V_WalesWomen.png" width="32%" />
-<img src="plots/resultbar_2024-03-30-EnglandWomen_V_WalesWomen.png" width="32%" />
-<img src="plots/spreads_2024-03-30-EnglandWomen_V_WalesWomen.png" width="32%" />
-</p>
-
 ### Scotland Women V France Women on 2024/03/30
 
 
-Average Margin: France Women by 17.4
+Average Margin: France Women by 17.5
+
+Average Scoreline: 29-12
 
 <p float="left">
 <img src="plots/performances_2024-03-30-ScotlandWomen_V_FranceWomen.png" width="32%" />
@@ -87,10 +84,25 @@ Average Margin: France Women by 17.4
 <img src="plots/spreads_2024-03-30-ScotlandWomen_V_FranceWomen.png" width="32%" />
 </p>
 
+### England Women V Wales Women on 2024/03/30
+
+
+Average Margin: England Women by 35.4
+
+Average Scoreline: 59-24
+
+<p float="left">
+<img src="plots/performances_2024-03-30-EnglandWomen_V_WalesWomen.png" width="32%" />
+<img src="plots/resultbar_2024-03-30-EnglandWomen_V_WalesWomen.png" width="32%" />
+<img src="plots/spreads_2024-03-30-EnglandWomen_V_WalesWomen.png" width="32%" />
+</p>
+
 ### Ireland Women V Italy Women on 2024/03/31
 
 
-Average Margin: Italy Women by 7.7
+Average Margin: Italy Women by 7.3
+
+Average Scoreline: 26-19
 
 <p float="left">
 <img src="plots/performances_2024-03-31-IrelandWomen_V_ItalyWomen.png" width="32%" />
@@ -103,7 +115,9 @@ Average Margin: Italy Women by 7.7
 ### Ireland Women V Wales Women on 2024/04/13
 
 
-Average Margin: Wales Women by 8.0
+Average Margin: Wales Women by 7.5
+
+Average Scoreline: 28-21
 
 <p float="left">
 <img src="plots/performances_2024-04-13-IrelandWomen_V_WalesWomen.png" width="32%" />
@@ -114,7 +128,9 @@ Average Margin: Wales Women by 8.0
 ### Scotland Women V England Women on 2024/04/13
 
 
-Average Margin: England Women by 31.1
+Average Margin: England Women by 31.4
+
+Average Scoreline: 40-9
 
 <p float="left">
 <img src="plots/performances_2024-04-13-ScotlandWomen_V_EnglandWomen.png" width="32%" />
@@ -125,7 +141,9 @@ Average Margin: England Women by 31.1
 ### France Women V Italy Women on 2024/04/14
 
 
-Average Margin: France Women by 21.0
+Average Margin: France Women by 22.1
+
+Average Scoreline: 37-15
 
 <p float="left">
 <img src="plots/performances_2024-04-14-FranceWomen_V_ItalyWomen.png" width="32%" />
@@ -138,7 +156,9 @@ Average Margin: France Women by 21.0
 ### England Women V Ireland Women on 2024/04/20
 
 
-Average Margin: England Women by 46.0
+Average Margin: England Women by 46.2
+
+Average Scoreline: 52-6
 
 <p float="left">
 <img src="plots/performances_2024-04-20-EnglandWomen_V_IrelandWomen.png" width="32%" />
@@ -149,7 +169,9 @@ Average Margin: England Women by 46.0
 ### Italy Women V Scotland Women on 2024/04/20
 
 
-Average Margin: Italy Women by 5.7
+Average Margin: Italy Women by 5.4
+
+Average Scoreline: 26-21
 
 <p float="left">
 <img src="plots/performances_2024-04-20-ItalyWomen_V_ScotlandWomen.png" width="32%" />
@@ -162,6 +184,8 @@ Average Margin: Italy Women by 5.7
 
 Average Margin: France Women by 14.6
 
+Average Scoreline: 26-12
+
 <p float="left">
 <img src="plots/performances_2024-04-21-WalesWomen_V_FranceWomen.png" width="32%" />
 <img src="plots/resultbar_2024-04-21-WalesWomen_V_FranceWomen.png" width="32%" />
@@ -173,7 +197,9 @@ Average Margin: France Women by 14.6
 ### Wales Women V Italy Women on 2024/04/27
 
 
-Average Margin: Wales Women by 3.9
+Average Margin: Wales Women by 3.7
+
+Average Scoreline: 29-25
 
 <p float="left">
 <img src="plots/performances_2024-04-27-WalesWomen_V_ItalyWomen.png" width="32%" />
@@ -181,24 +207,28 @@ Average Margin: Wales Women by 3.9
 <img src="plots/spreads_2024-04-27-WalesWomen_V_ItalyWomen.png" width="32%" />
 </p>
 
-### Ireland Women V Scotland Women on 2024/04/27
-
-
-Average Margin: Scotland Women by 4.9
-
-<p float="left">
-<img src="plots/performances_2024-04-27-IrelandWomen_V_ScotlandWomen.png" width="32%" />
-<img src="plots/resultbar_2024-04-27-IrelandWomen_V_ScotlandWomen.png" width="32%" />
-<img src="plots/spreads_2024-04-27-IrelandWomen_V_ScotlandWomen.png" width="32%" />
-</p>
-
 ### France Women V England Women on 2024/04/27
 
 
 Average Margin: England Women by 11.1
 
+Average Scoreline: 30-19
+
 <p float="left">
 <img src="plots/performances_2024-04-27-FranceWomen_V_EnglandWomen.png" width="32%" />
 <img src="plots/resultbar_2024-04-27-FranceWomen_V_EnglandWomen.png" width="32%" />
 <img src="plots/spreads_2024-04-27-FranceWomen_V_EnglandWomen.png" width="32%" />
+</p>
+
+### Ireland Women V Scotland Women on 2024/04/27
+
+
+Average Margin: Scotland Women by 4.8
+
+Average Scoreline: 27-22
+
+<p float="left">
+<img src="plots/performances_2024-04-27-IrelandWomen_V_ScotlandWomen.png" width="32%" />
+<img src="plots/resultbar_2024-04-27-IrelandWomen_V_ScotlandWomen.png" width="32%" />
+<img src="plots/spreads_2024-04-27-IrelandWomen_V_ScotlandWomen.png" width="32%" />
 </p>
