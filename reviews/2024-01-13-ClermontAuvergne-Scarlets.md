@@ -11,7 +11,7 @@ categories: "European Rugby Challenge Cup 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.775, which translates to predicting Clermont Auvergne to win by 11.0.
 
-Our Over/Under is 57.5 - and combined with the spread above, we have a predicted scoreline of 23 to 34
+Our Over/Under is 55.5 - and combined with the spread above, we have a predicted scoreline of 22 to 33
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -90,26 +90,26 @@ There were 7 large changes in win probability in this match
 |   Away Minutes | Away Player     |   Away elo |   Number |   Home elo | Home Player          |   Home Minutes |
 |---------------:|:----------------|-----------:|---------:|-----------:|:---------------------|---------------:|
 |             44 | Kemsley Mathias |      69.66 |        1 |      43.13 | Giorgi Beria         |             80 |
-|             56 | Ryan Elias      |      95.1  |        2 |      36.94 | Etienne Fourcade     |             51 |
+|             56 | Ryan Elias      |      95.01 |        2 |      36.94 | Etienne Fourcade     |             51 |
 |             47 | Sam Wainwright  |      43.48 |        3 |      55.17 | Rabah Slimani        |             51 |
-|             80 | Alex Craig      |      35.21 |        4 |      83.72 | Rob Simmons          |             58 |
-|             47 | Jac Price       |       4.82 |        5 |      62.29 | Tomas Lavanini       |             80 |
-|             63 | Josh MacLeod    |      49.14 |        6 |      48.34 | Killian Tixeront     |             74 |
-|             40 | Dan Davis       |      82.81 |        7 |      88.78 | Pita Gus Sowakula    |             80 |
-|             80 | Vaea Fifita     |     115.79 |        8 |      75.7  | Fritz Lee            |             51 |
+|             80 | Alex Craig      |      35.12 |        4 |      83.71 | Rob Simmons          |             58 |
+|             47 | Jac Price       |       4.75 |        5 |      62.28 | Tomas Lavanini       |             80 |
+|             63 | Josh MacLeod    |      49.14 |        6 |      48.33 | Killian Tixeront     |             74 |
+|             40 | Dan Davis       |      82.72 |        7 |      88.78 | Pita Gus Sowakula    |             80 |
+|             80 | Vaea Fifita     |     115.7  |        8 |      75.69 | Fritz Lee            |             51 |
 |             51 | Archie Hughes   |      42.18 |        9 |      22.41 | Baptiste Jauneau     |             59 |
-|             40 | Sam Costelow    |      37.75 |       10 |      63.77 | Anthony Belleau      |             80 |
-|             80 | Steffan Evans   |      75.29 |       11 |      27.51 | Alivereti Raka       |             80 |
-|             80 | Johnny Williams |      75.79 |       12 |      41.24 | Leon Darricarrere    |             80 |
+|             40 | Sam Costelow    |      37.75 |       10 |      63.76 | Anthony Belleau      |             80 |
+|             80 | Steffan Evans   |      75.2  |       11 |      27.51 | Alivereti Raka       |             80 |
+|             80 | Johnny Williams |      75.7  |       12 |      41.24 | Leon Darricarrere    |             80 |
 |             80 | Joe Roberts     |      58.98 |       13 |      45.39 | Julien Heriteau      |             26 |
-|             80 | Tom Rogers      |      37.41 |       14 |      55.23 | Joris Jurand         |             58 |
-|             80 | Ioan Lloyd      |       8.19 |       15 |      54.42 | Alex Newsome         |             80 |
-|             36 | Steffan Thomas  |      35.3  |       16 |      92.14 | Folau Fainga'a       |             29 |
-|             24 | Eduan Swart     |      82.08 |       17 |      57.53 | Cristian Ojovan      |             29 |
-|             33 | Harri O'Connor  |      23.67 |       18 |     103.37 | Peceli Yato Senibitu |             22 |
-|             33 | Morgan Jones    |     -18.93 |       19 |      42.62 | Daniel Bibi Biziwu   |              6 |
-|             17 | Ben Williams    |      35.64 |       20 |      71.72 | Lucas Dessaigne      |             29 |
-|             40 | Shaun Evans     |      14.84 |       21 |      71.61 | Sebastien Bezy       |             21 |
+|             80 | Tom Rogers      |      37.32 |       14 |      55.23 | Joris Jurand         |             58 |
+|             80 | Ioan Lloyd      |       8.11 |       15 |      54.4  | Alex Newsome         |             80 |
+|             36 | Steffan Thomas  |      35.26 |       16 |      92.12 | Folau Fainga'a       |             29 |
+|             24 | Eduan Swart     |      82.08 |       17 |      57.52 | Cristian Ojovan      |             29 |
+|             33 | Harri O'Connor  |      23.61 |       18 |     103.37 | Peceli Yato Senibitu |             22 |
+|             33 | Morgan Jones    |     -18.95 |       19 |      42.61 | Daniel Bibi Biziwu   |              6 |
+|             17 | Ben Williams    |      35.64 |       20 |      71.71 | Lucas Dessaigne      |             29 |
+|             40 | Shaun Evans     |      14.84 |       21 |      71.6  | Sebastien Bezy       |             21 |
 |             29 | Kieran Hardy    |      49.73 |       22 |      16.33 | Pierre Fouyssac      |             54 |
-|             40 | Ioan Nicholas   |      42.92 |       23 |      77.73 | Jules Plisson        |             22 |
+|             40 | Ioan Nicholas   |      42.91 |       23 |      77.73 | Jules Plisson        |             22 |
 

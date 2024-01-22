@@ -11,7 +11,7 @@ categories: "Nationale 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.695, which translates to predicting Chambery to win by 7.3.
 
-Our Over/Under is 31.5 - and combined with the spread above, we have a predicted scoreline of 12 to 19
+Our Over/Under is 36.5 - and combined with the spread above, we have a predicted scoreline of 14 to 22
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -104,7 +104,7 @@ There were 9 large changes in win probability in this match
 |             80 | Charles Brousse          |      39.62 |       13 |      44.65 | Emmanuel Vaitulukina         |             60 |
 |             80 | Josselyn Bouchon         |      31.87 |       14 |      29.36 | Maewen Sao                   |             80 |
 |             62 | Ionel Melinte            |      65.96 |       15 |      19.64 | Paul Baptiste Florent Altier |             80 |
-|             30 | Sti Sithole              |      45.24 |       16 |      51.13 | Nugzar Somkhishvili          |             20 |
+|             30 | Sti Sithole              |      44.92 |       16 |      51.13 | Nugzar Somkhishvili          |             20 |
 |             30 | Yan Tabarot              |      41.65 |       17 |      20.99 | Victor Pisano                |             20 |
 |             30 | Miguel Mathieu           |      35.18 |       18 |      29.06 | Zauri Tevdorashvili          |             20 |
 |             18 | Spike Salman             |      29.5  |       19 |      21.25 | Hugo Deschaux                |             20 |

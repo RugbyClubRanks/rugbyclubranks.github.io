@@ -11,7 +11,7 @@ categories: "Pro D2 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.747, which translates to predicting Nevers to win by 9.5.
 
-Our Over/Under is 40.5 - and combined with the spread above, we have a predicted scoreline of 16 to 25
+Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 20 to 30
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -93,7 +93,7 @@ There were 10 large changes in win probability in this match
 |             80 | Brendan Lebrun           |      38.06 |        2 |      44.69 | Elia Elia                |             80 |
 |             56 | Mohamed Haouas           |      53.02 |        3 |      50    | Ilia Kaikatsishvili      |             50 |
 |             80 | Nafi Ma'afu              |      39.87 |        4 |      -7.77 | Christiaan van der Merwe |             80 |
-|             52 | Pieter Jansen van Vuuren |      24.96 |        5 |      97.88 | Will Skelton             |             50 |
+|             52 | Pieter Jansen van Vuuren |      24.96 |        5 |      97.89 | Will Skelton             |             50 |
 |             80 | Dave O'Callaghan         |      15.87 |        6 |      47.37 | Luka Plataret            |             50 |
 |             24 | Tiaan Jacobs             |      44.96 |        7 |      82.16 | Hugues Bastide           |             80 |
 |             80 | Tornike Jalagonia        |      34.85 |        8 |     107.37 | Jason-Colin Fraser       |             80 |
