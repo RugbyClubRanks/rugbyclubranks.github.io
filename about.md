@@ -18,3 +18,5 @@ For the 2023 Six Nations, the club model was right for 12 of the 15 matches, whi
 ## About Me
 
 This may get fleshed out later. For now, you can contact me via email at rugbyclubrankings@gmail.com. Feel free to leave any feedback, even if it's just that I got your favorite club's colors wrong.
+
+[Also, check us out everywhere else](https://linktr.ee/rugbyclubranks)

@@ -11,7 +11,7 @@ categories: "European Rugby Champions Cup 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.55, which translates to predicting Stade Francais Paris to win by 1.8.
 
-Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 26 to 28
+Our Over/Under is 63.5 - and combined with the spread above, we have a predicted scoreline of 31 to 33
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,14 +39,14 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Stormers by 7.8
+## Prediction with Player Minutes: Stormers by 8.8
 
 
-Stormers by 16.0 on a neutral field
-## Prediction without Player Minutes: Stormers by 6.6
+Stormers by 17.0 on a neutral field
+## Prediction without Player Minutes: Stormers by 7.7
 
 
-Stormers by 14.8 on a neutral pitch
+Stormers by 15.9 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -85,13 +85,13 @@ Stormers by 14.8 on a neutral pitch
 </p>
 
 
-There were 10 large changes in win probability in this match
+There were 9 large changes in win probability in this match
 
 |   Away Minutes | Away Player          |   Away elo |   Number |   Home elo | Home Player             |   Home Minutes |
 |---------------:|:---------------------|-----------:|---------:|-----------:|:------------------------|---------------:|
 |             54 | Sti Sithole          |      44.92 |        1 |      37.89 | Clement Castets         |             69 |
 |             53 | Joseph Dweba         |      49.6  |        2 |      43.72 | Lucas Peyresblanques    |             56 |
-|             70 | Neethling Fouche     |      54.97 |        3 |      77.18 | Francisco Gomez Kodela  |             65 |
+|             70 | Neethling Fouche     |      54.97 |        3 |      46.65 | Francisco Gomez Kodela  |             65 |
 |             54 | Adre Smith           |      80.43 |        4 |      44.83 | Paul Gabrillagues       |             70 |
 |             80 | Ruben van Heerden    |      51.01 |        5 |      46    | Pierre-Henri Azagoh     |             56 |
 |             80 | Deon Fourie          |      67.16 |        6 |      24.23 | Mathieu Hirigoyen       |             57 |

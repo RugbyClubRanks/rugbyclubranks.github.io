@@ -11,7 +11,7 @@ categories: "European Rugby Champions Cup 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.645, which translates to predicting Bulls to win by 5.2.
 
-Our Over/Under is 59.5 - and combined with the spread above, we have a predicted scoreline of 27 to 33
+Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 24 to 29
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,14 +39,14 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Bulls by 1.5
+## Prediction with Player Minutes: Bordeaux Begles by 1.3
 
 
-Bordeaux Begles by 3.3 on a neutral field
-## Prediction without Player Minutes: Bulls by 3.6
+Bordeaux Begles by 6.1 on a neutral field
+## Prediction without Player Minutes: Bulls by 0.6
 
 
-Bordeaux Begles by 1.2 on a neutral pitch
+Bordeaux Begles by 4.2 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -85,7 +85,7 @@ Bordeaux Begles by 1.2 on a neutral pitch
 </p>
 
 
-There were 13 large changes in win probability in this match
+There were 23 large changes in win probability in this match
 
 |   Away Minutes | Away Player          |   Away elo |   Number |   Home elo | Home Player                     |   Home Minutes |
 |---------------:|:---------------------|-----------:|---------:|-----------:|:--------------------------------|---------------:|
@@ -103,7 +103,7 @@ There were 13 large changes in win probability in this match
 |             80 | Pablo Uberti         |      36.46 |       12 |      87.21 | David Kriel                     |             80 |
 |             80 | Nicolas Depoortere   |      70.4  |       13 |      50.55 | Stedman Gans                    |             80 |
 |             66 | Madosh Tambwe        |      46.65 |       14 |      45.51 | Sebastian de Klerk              |             80 |
-|             80 | Romain Buros         |     124.99 |       15 |     129.29 | Willie le Roux                  |             66 |
+|             80 | Romain Buros         |     124.99 |       15 |      46.65 | Willie Le Roux                  |             66 |
 |             38 | Maxime Lamothe       |      61.35 |       16 |      46.65 | Akker van der Merwe             |             28 |
 |             28 | Ugo Boniface         |      80.32 |       17 |      59.69 | Simphiwe Matanzima              |             36 |
 |             46 | Ben Tameifuna        |     119.62 |       18 |      43.79 | Khutha Mchunu                   |             28 |
