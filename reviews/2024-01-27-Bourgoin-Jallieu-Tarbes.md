@@ -9,9 +9,9 @@ categories: "Nationale 2023" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.72, which translates to predicting Bourgoin-Jallieu to win by 8.3.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.731, which translates to predicting Bourgoin-Jallieu to win by 8.8.
 
-Our Over/Under is 40.5 - and combined with the spread above, we have a predicted scoreline of 16 to 24
+Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 18 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,14 +39,14 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Bourgoin-Jallieu by 8.8
+## Prediction with Player Minutes: Bourgoin-Jallieu by 13.0
 
 
-Bourgoin-Jallieu by 2.4 on a neutral field
-## Prediction without Player Minutes: Bourgoin-Jallieu by 8.7
+Bourgoin-Jallieu by 5.6 on a neutral field
+## Prediction without Player Minutes: Bourgoin-Jallieu by 13.2
 
 
-Bourgoin-Jallieu by 2.3 on a neutral pitch
+Bourgoin-Jallieu by 5.9 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -70,46 +70,30 @@ Bourgoin-Jallieu by 2.3 on a neutral pitch
 <img src="plots/resultbar_plr_2024-01-27-Bourgoin-Jallieu-Tarbes.png" width="99%" />
 </p>
 
-## Scores over Time
 
-
-<p float="left">
-<img src="plots/recap_scores_V2-2024-01-27-Bourgoin-Jallieu-Tarbes.png" width="99%" />
-</p>
-
-## Win Probability over Time
-
-
-<p float="left">
-<img src="plots/recap_prob_V2-2024-01-27-Bourgoin-Jallieu-Tarbes.png" width="99%" />
-</p>
-
-
-There were 7 large changes in win probability in this match
-
-|   Away Minutes | Away Player        |   Away elo |   Number |   Home elo | Home Player           |   Home Minutes |
-|---------------:|:-------------------|-----------:|---------:|-----------:|:----------------------|---------------:|
-|             49 | Johan Mees Erasmus |      31.5  |        1 |      47.56 | Rémy Gaborit          |             49 |
-|             49 | Enzo Mondon        |      47.84 |        2 |      61.19 | Killian Tripier       |             80 |
-|             54 | Toma Taufa         |      38.74 |        3 |      41.12 | Maxime Calliet        |             49 |
-|             80 | Baptiste Peytavi   |      41.88 |        4 |      -9.37 | Léandre Cotte         |             80 |
-|             54 | Jone Trevor Seuvou |      24.28 |        5 |      30.82 | Jonathan Kpoku        |             49 |
-|             79 | Aurelien Ricart    |      49.25 |        6 |     -44.67 | Morgan Eames          |             80 |
-|             59 | Jean Guicherd      |      46.99 |        7 |      19.21 | Aitor Hourcade        |             80 |
-|             80 | Filipe Manu        |      -4.47 |        8 |      49.76 | Poutasi Luafutu       |             57 |
-|             59 | Anthony Meric      |      -3.16 |        9 |      74.48 | Tomas Munilla lo Duca |             80 |
-|             80 | Mathieu Berbizier  |      20.57 |       10 |      55.04 | Nicolas Vuillemin     |             80 |
-|             80 | Jone Tuva          |      -7.25 |       11 |      12.28 | Christopher Bosch     |             80 |
-|             80 | Kalione Nasoko     |      41.96 |       12 |      23.59 | Aviata Silago         |             80 |
-|             54 | Pierre Descoubet   |      51.19 |       13 |      36.97 | Makalea Foliaki       |             79 |
-|             80 | Johan Paulet       |      15.64 |       14 |      36.09 | Quentin Lefort        |             80 |
-|             80 | Thibaut Trotta     |      30.62 |       15 |      46.87 | Paul-Hugo Champ       |             37 |
-|             31 | Antoine Palisse    |      48.18 |       16 |      38.26 | Romain Favaretto      |             31 |
-|             31 | Florian Lamothe    |      48.22 |       17 |      46.6  | Osman Dimen           |             31 |
-|             26 | Alexandre Duny     |      27.49 |       18 |      39.46 | Theophile Cotte       |             31 |
-|             26 | Léo Estaque        |      33.02 |       19 |      52.36 | Théo Lepage           |             23 |
-|              1 | Julien Cantan      |      18.36 |       20 |      16.43 | Remi Bouet            |              1 |
-|             21 | Francis Rolland    |      44.37 |       21 |      16.72 | Nicolas Cachet        |              4 |
-|             21 | Thibaut Dulucq     |      31.67 |       22 |      58.57 | Isaiah Leota          |             39 |
-|             26 | Savenaca Rawaca    |      23.36 |       23 |     nan    | nan                   |            nan |
+|   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
+|---------------:|:-------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
+|             49 | Johan Mees Erasmus |             12.51 |        1 |             56.3  | Rémy Gaborit          |             49 |
+|             49 | Enzo Mondon        |             15.15 |        2 |             69.53 | Killian Tripier       |             80 |
+|             54 | Toma Taufa         |             51.03 |        3 |             18.86 | Maxime Calliet        |             49 |
+|             80 | Baptiste Peytavi   |             23.37 |        4 |             14.42 | Léandre Cotte         |             80 |
+|             54 | Jone Trevor Seuvou |             12.09 |        5 |             62.91 | Jonathan Kpoku        |             49 |
+|             79 | Aurelien Ricart    |             59.13 |        6 |              1.63 | Morgan Eames          |             80 |
+|             59 | Jean Guicherd      |             20.54 |        7 |              9.13 | Aitor Hourcade        |             80 |
+|             80 | Filipe Manu        |              1.17 |        8 |             36.21 | Poutasi Luafutu       |             57 |
+|             59 | Anthony Meric      |              3.98 |        9 |             83.7  | Tomas Munilla lo Duca |             80 |
+|             80 | Mathieu Berbizier  |              4.59 |       10 |             76.09 | Nicolas Vuillemin     |             80 |
+|             80 | Jone Tuva          |              0.32 |       11 |             23    | Christopher Bosch     |             80 |
+|             80 | Kalione Nasoko     |             65.47 |       12 |             20.19 | Aviata Silago         |             80 |
+|             54 | Pierre Descoubet   |             17.32 |       13 |             37.16 | Makalea Foliaki       |             79 |
+|             80 | Johan Paulet       |              4.11 |       14 |             57.91 | Quentin Lefort        |             80 |
+|             80 | Thibaut Trotta     |              3.58 |       15 |             47.49 | Paul-Hugo Champ       |             37 |
+|             31 | Antoine Palisse    |             36.19 |       16 |             58.18 | Romain Favaretto      |             31 |
+|             31 | Florian Lamothe    |             35.04 |       17 |             28.69 | Osman Dimen           |             31 |
+|             26 | Alexandre Duny     |             34.58 |       18 |             41.52 | Theophile Cotte       |             31 |
+|             26 | Léo Estaque        |             28.26 |       19 |             58.88 | Théo Lepage           |             23 |
+|              1 | Julien Cantan      |             13.86 |       20 |             15.51 | Remi Bouet            |              1 |
+|             21 | Francis Rolland    |             13.14 |       21 |             22.2  | Nicolas Cachet        |              4 |
+|             21 | Thibaut Dulucq     |              4.57 |       22 |             67.26 | Isaiah Leota          |             39 |
+|             26 | Savenaca Rawaca    |             23.89 |       23 |            nan    | nan                   |            nan |
 

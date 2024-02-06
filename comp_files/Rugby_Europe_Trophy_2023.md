@@ -1,6 +1,6 @@
 ---  
 title: "Rugby Europe Trophy 2023 Status"  
-date: 2024-01-29 6:00:00 -0500  
+date: 2024-02-06 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -31,9 +31,9 @@ aside:
 
 | Club        |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Switzerland |                   2 |    1.9 |              53.2639 |                   0   |                1.3 |                  9.1 |
-| Croatia     |                   1 |    0.1 |             -19.3534 |                   0.1 |                0.1 |                  0.4 |
-| Ukraine     |                   1 |    0   |             -33.9105 |                   0   |                0.1 |                  0.1 |
+| Switzerland |                   2 |      2 |              53.6396 |                   0   |                1.4 |                  9.2 |
+| Croatia     |                   1 |      0 |             -18.9425 |                   0.1 |                0.1 |                  0.4 |
+| Ukraine     |                   1 |      0 |             -34.6971 |                   0   |                0.1 |                  0.1 |
 
 
 
@@ -42,12 +42,12 @@ aside:
 
 | Club           |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Switzerland    |               4 |    3.9 |              78.2639 |                   0   |                1.3 |                 17.1 |
-| Sweden         |               3 |    2   |               2      |                   0   |                0   |                  9   |
-| Croatia        |               4 |    1.1 |             -11.3534 |                   1.1 |                0.1 |                  5.4 |
-| Czech Republic |               2 |    1   |              15      |                   0   |                0   |                  5   |
-| Lithuania      |               2 |    1   |               4      |                   0   |                0   |                  4   |
-| Ukraine        |               3 |    0   |             -87.9105 |                   0   |                0.1 |                  0.1 |
+| Switzerland    |               4 |      4 |              78.6396 |                   0   |                1.4 |                 17.2 |
+| Sweden         |               3 |      2 |               2      |                   0   |                0   |                  9   |
+| Croatia        |               4 |      1 |             -10.9425 |                   1.1 |                0.1 |                  5.4 |
+| Czech Republic |               2 |      1 |              15      |                   0   |                0   |                  5   |
+| Lithuania      |               2 |      1 |               4      |                   0   |                0   |                  4   |
+| Ukraine        |               3 |      0 |             -88.6971 |                   0   |                0.1 |                  0.1 |
 
 
 
@@ -57,8 +57,8 @@ aside:
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
 | Club Level | 42.9% | 19.5 |
-| Player Level: Lineup | 100.0% | 8.0 |
-| Player Level: Minutes | 100.0% | 8.0 |
+| Player Level: Lineup | 100.0% | 8.8 |
+| Player Level: Minutes | 100.0% | 8.8 |
 
 
 # Future Predictions
@@ -68,9 +68,9 @@ aside:
 ### Switzerland V Croatia on 2024/03/24
 
 
-Average Margin: Switzerland by 19.4
+Average Margin: Switzerland by 18.9
 
-Average Scoreline: 39-19
+Average Scoreline: 33-14
 
 <p float="left">
 <img src="plots/performances_2024-03-24-Switzerland_V_Croatia.png" width="32%" />
@@ -83,9 +83,9 @@ Average Scoreline: 39-19
 ### Switzerland V Ukraine on 2024/04/13
 
 
-Average Margin: Switzerland by 33.9
+Average Margin: Switzerland by 34.7
 
-Average Scoreline: 40-6
+Average Scoreline: 41-7
 
 <p float="left">
 <img src="plots/performances_2024-04-13-Switzerland_V_Ukraine.png" width="32%" />

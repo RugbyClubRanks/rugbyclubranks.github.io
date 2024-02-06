@@ -9,9 +9,9 @@ categories: "Nationale 2023" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.697, which translates to predicting Blagnac to win by 7.4.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.552, which translates to predicting Blagnac to win by 1.9.
 
-Our Over/Under is 32.5 - and combined with the spread above, we have a predicted scoreline of 13 to 20
+Our Over/Under is 30.5 - and combined with the spread above, we have a predicted scoreline of 14 to 16
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,14 +39,14 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Blagnac by 6.2
+## Prediction with Player Minutes: Carqueiranne-Hyères by 15.6
 
 
-Blagnac by 2.6 on a neutral field
-## Prediction without Player Minutes: Blagnac by 5.9
+Carqueiranne-Hyères by 18.6 on a neutral field
+## Prediction without Player Minutes: Carqueiranne-Hyères by 7.7
 
 
-Blagnac by 2.3 on a neutral pitch
+Carqueiranne-Hyères by 10.7 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -70,46 +70,375 @@ Blagnac by 2.3 on a neutral pitch
 <img src="plots/resultbar_plr_2024-01-27-Blagnac-Carqueiranne-Hyeres.png" width="99%" />
 </p>
 
-## Scores over Time
 
-
-<p float="left">
-<img src="plots/recap_scores_V2-2024-01-27-Blagnac-Carqueiranne-Hyeres.png" width="99%" />
-</p>
-
-## Win Probability over Time
-
-
-<p float="left">
-<img src="plots/recap_prob_V2-2024-01-27-Blagnac-Carqueiranne-Hyeres.png" width="99%" />
-</p>
-
-
-There were 5 large changes in win probability in this match
-
-|   Away Minutes | Away Player         |   Away elo |   Number |   Home elo | Home Player         |   Home Minutes |
-|---------------:|:--------------------|-----------:|---------:|-----------:|:--------------------|---------------:|
-|             58 | Sti Sithole         |      44.92 |        1 |      38.41 | Benjamin Bertrand   |             51 |
-|             58 | Theo Lachaud        |      28.1  |        2 |      42.75 | Antoine Marty-Rybak |             51 |
-|             58 | Lasha Mchelidze     |      58.48 |        3 |      56.24 | Baptiste Collet     |             51 |
-|             80 | Adam Peters         |      21.18 |        4 |      31.11 | Vincent Mutel       |             80 |
-|             65 | Lucas Cazac         |       9.45 |        5 |     -15.15 | Victor Fromenteze   |             56 |
-|             80 | Nicolas Baquer      |      21.02 |        6 |      52.22 | Simon Veyrac        |             62 |
-|             65 | Spike Salman        |      29.5  |        7 |      74.9  | Nikita Bekov        |             80 |
-|             80 | Andre Gorin         |      59.18 |        8 |      58.29 | Ianis Ponsole       |             62 |
-|             58 | Rémi Dubié          |      28.3  |        9 |      46.65 | Ruben Courties      |             67 |
-|             80 | Juan Kotze          |      48.21 |       10 |      53.18 | Ugo Seunes          |             80 |
-|             80 | Vincent Alessi      |       3.06 |       11 |      27.12 | Dorian Terrou       |             80 |
-|             80 | Romain Leveque      |      58.11 |       12 |      43.45 | Baptiste Serrano    |             80 |
-|             80 | Dylan Sage          |      39.02 |       13 |      43.3  | Lukas Doyhenard     |             80 |
-|             40 | Josselyn Bouchon    |      31.87 |       14 |      35.68 | Peïo Retegui        |             64 |
-|             65 | Ionel Melinte       |      65.96 |       15 |      28.93 | Gérald Augustin     |             80 |
-|             22 | Eli Serra-Miglietti |      41.99 |       16 |      58.2  | Alexis Decaux       |             29 |
-|             22 | Michael Tyumenev    |      17.11 |       17 |      49.42 | Enzo Rivier         |             29 |
-|             22 | Miguel Mathieu      |      35.18 |       18 |      52.52 | Victor Delmas       |             29 |
-|             15 | Shade Barkallah     |      42.68 |       19 |      34.32 | Lucas Tolofua       |             24 |
-|             15 | Joachim Beaumont    |      58.07 |       20 |      20.77 | Matthieu Thomas     |             18 |
-|             22 | Thomas Sonetti      |      62.88 |       21 |      52.49 | Mathieu Vachon      |             18 |
-|             40 | Amaury Bobillon     |      54.11 |       22 |      58.76 | Jean-Andre Vernetti |             13 |
-|             15 | Theo Moitrier       |      50.43 |       23 |       6.72 | Clément Vareilles   |             16 |
+|   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
+|---------------:|:--------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
+|             58 | Sti Sithole         |             72.65 |        1 |             76.68 | Benjamin Bertrand   |             51 |
+|             58 | Sti Sithole         |             72.65 |        1 |             76.68 | Benjamin Bertrand   |             51 |
+|             58 | Sti Sithole         |             72.65 |        1 |             76.68 | Benjamin Bertrand   |             51 |
+|             58 | Sti Sithole         |             72.65 |        1 |             76.68 | Benjamin Bertrand   |             51 |
+|             58 | Sti Sithole         |             72.65 |        1 |             76.68 | Benjamin Bertrand   |             51 |
+|             58 | Sti Sithole         |             72.65 |        1 |             76.68 | Benjamin Bertrand   |             51 |
+|             58 | Sti Sithole         |             72.65 |        1 |             76.68 | Benjamin Bertrand   |             51 |
+|             58 | Sti Sithole         |             72.65 |        1 |             76.68 | Benjamin Bertrand   |             51 |
+|             58 | Sti Sithole         |             72.65 |        1 |             76.68 | Benjamin Bertrand   |             51 |
+|             58 | Sti Sithole         |             72.65 |        1 |             76.68 | Benjamin Bertrand   |             51 |
+|             58 | Sti Sithole         |             72.65 |        1 |             76.68 | Benjamin Bertrand   |             51 |
+|             58 | Sti Sithole         |             72.65 |        1 |             76.68 | Benjamin Bertrand   |             51 |
+|             58 | Sti Sithole         |             72.65 |        1 |             76.68 | Benjamin Bertrand   |             51 |
+|             58 | Sti Sithole         |             72.65 |        1 |             76.68 | Benjamin Bertrand   |             51 |
+|             58 | Sti Sithole         |             72.65 |        1 |             76.68 | Benjamin Bertrand   |             51 |
+|             58 | Sti Sithole         |             72.65 |        1 |             76.68 | Benjamin Bertrand   |             51 |
+|             58 | Theo Lachaud        |             10.4  |        2 |             91.79 | Antoine Marty-Rybak |             51 |
+|             58 | Theo Lachaud        |             10.4  |        2 |             91.79 | Antoine Marty-Rybak |             51 |
+|             58 | Theo Lachaud        |             10.4  |        2 |             91.79 | Antoine Marty-Rybak |             51 |
+|             58 | Theo Lachaud        |             10.4  |        2 |             91.79 | Antoine Marty-Rybak |             51 |
+|             58 | Theo Lachaud        |             10.4  |        2 |             91.79 | Antoine Marty-Rybak |             51 |
+|             58 | Theo Lachaud        |             10.4  |        2 |             91.79 | Antoine Marty-Rybak |             51 |
+|             58 | Theo Lachaud        |             10.4  |        2 |             91.79 | Antoine Marty-Rybak |             51 |
+|             58 | Theo Lachaud        |             10.4  |        2 |             91.79 | Antoine Marty-Rybak |             51 |
+|             58 | Theo Lachaud        |             10.4  |        2 |             91.79 | Antoine Marty-Rybak |             51 |
+|             58 | Theo Lachaud        |             10.4  |        2 |             91.79 | Antoine Marty-Rybak |             51 |
+|             58 | Theo Lachaud        |             10.4  |        2 |             91.79 | Antoine Marty-Rybak |             51 |
+|             58 | Theo Lachaud        |             10.4  |        2 |             91.79 | Antoine Marty-Rybak |             51 |
+|             58 | Theo Lachaud        |             10.4  |        2 |             91.79 | Antoine Marty-Rybak |             51 |
+|             58 | Theo Lachaud        |             10.4  |        2 |             91.79 | Antoine Marty-Rybak |             51 |
+|             58 | Theo Lachaud        |             10.4  |        2 |             91.79 | Antoine Marty-Rybak |             51 |
+|             58 | Theo Lachaud        |             10.4  |        2 |             91.79 | Antoine Marty-Rybak |             51 |
+|             58 | Lasha Mchelidze     |             64.61 |        3 |             93.66 | Baptiste Collet     |             51 |
+|             58 | Lasha Mchelidze     |             64.61 |        3 |             93.66 | Baptiste Collet     |             51 |
+|             58 | Lasha Mchelidze     |             64.61 |        3 |             93.66 | Baptiste Collet     |             51 |
+|             58 | Lasha Mchelidze     |             64.61 |        3 |             93.66 | Baptiste Collet     |             51 |
+|             58 | Lasha Mchelidze     |             64.61 |        3 |             93.66 | Baptiste Collet     |             51 |
+|             58 | Lasha Mchelidze     |             64.61 |        3 |             93.66 | Baptiste Collet     |             51 |
+|             58 | Lasha Mchelidze     |             64.61 |        3 |             93.66 | Baptiste Collet     |             51 |
+|             58 | Lasha Mchelidze     |             64.61 |        3 |             93.66 | Baptiste Collet     |             51 |
+|             58 | Lasha Mchelidze     |             64.61 |        3 |             93.66 | Baptiste Collet     |             51 |
+|             58 | Lasha Mchelidze     |             64.61 |        3 |             93.66 | Baptiste Collet     |             51 |
+|             58 | Lasha Mchelidze     |             64.61 |        3 |             93.66 | Baptiste Collet     |             51 |
+|             58 | Lasha Mchelidze     |             64.61 |        3 |             93.66 | Baptiste Collet     |             51 |
+|             58 | Lasha Mchelidze     |             64.61 |        3 |             93.66 | Baptiste Collet     |             51 |
+|             58 | Lasha Mchelidze     |             64.61 |        3 |             93.66 | Baptiste Collet     |             51 |
+|             58 | Lasha Mchelidze     |             64.61 |        3 |             93.66 | Baptiste Collet     |             51 |
+|             58 | Lasha Mchelidze     |             64.61 |        3 |             93.66 | Baptiste Collet     |             51 |
+|             80 | Adam Peters         |             65.12 |        4 |             95.12 | Vincent Mutel       |             80 |
+|             80 | Adam Peters         |             65.12 |        4 |             95.12 | Vincent Mutel       |             80 |
+|             80 | Adam Peters         |             65.12 |        4 |             95.12 | Vincent Mutel       |             80 |
+|             80 | Adam Peters         |             65.12 |        4 |             95.12 | Vincent Mutel       |             80 |
+|             80 | Adam Peters         |             65.12 |        4 |             95.12 | Vincent Mutel       |             80 |
+|             80 | Adam Peters         |             65.12 |        4 |             95.12 | Vincent Mutel       |             80 |
+|             80 | Adam Peters         |             65.12 |        4 |             95.12 | Vincent Mutel       |             80 |
+|             80 | Adam Peters         |             65.12 |        4 |             95.12 | Vincent Mutel       |             80 |
+|             80 | Adam Peters         |             65.12 |        4 |             95.12 | Vincent Mutel       |             80 |
+|             80 | Adam Peters         |             65.12 |        4 |             95.12 | Vincent Mutel       |             80 |
+|             80 | Adam Peters         |             65.12 |        4 |             95.12 | Vincent Mutel       |             80 |
+|             80 | Adam Peters         |             65.12 |        4 |             95.12 | Vincent Mutel       |             80 |
+|             80 | Adam Peters         |             65.12 |        4 |             95.12 | Vincent Mutel       |             80 |
+|             80 | Adam Peters         |             65.12 |        4 |             95.12 | Vincent Mutel       |             80 |
+|             80 | Adam Peters         |             65.12 |        4 |             95.12 | Vincent Mutel       |             80 |
+|             80 | Adam Peters         |             65.12 |        4 |             95.12 | Vincent Mutel       |             80 |
+|             65 | Lucas Cazac         |             15.58 |        5 |             37.21 | Victor Fromenteze   |             56 |
+|             65 | Lucas Cazac         |             15.58 |        5 |             37.21 | Victor Fromenteze   |             56 |
+|             65 | Lucas Cazac         |             15.58 |        5 |             37.21 | Victor Fromenteze   |             56 |
+|             65 | Lucas Cazac         |             15.58 |        5 |             37.21 | Victor Fromenteze   |             56 |
+|             65 | Lucas Cazac         |             15.58 |        5 |             37.21 | Victor Fromenteze   |             56 |
+|             65 | Lucas Cazac         |             15.58 |        5 |             37.21 | Victor Fromenteze   |             56 |
+|             65 | Lucas Cazac         |             15.58 |        5 |             37.21 | Victor Fromenteze   |             56 |
+|             65 | Lucas Cazac         |             15.58 |        5 |             37.21 | Victor Fromenteze   |             56 |
+|             65 | Lucas Cazac         |             15.58 |        5 |             37.21 | Victor Fromenteze   |             56 |
+|             65 | Lucas Cazac         |             15.58 |        5 |             37.21 | Victor Fromenteze   |             56 |
+|             65 | Lucas Cazac         |             15.58 |        5 |             37.21 | Victor Fromenteze   |             56 |
+|             65 | Lucas Cazac         |             15.58 |        5 |             37.21 | Victor Fromenteze   |             56 |
+|             65 | Lucas Cazac         |             15.58 |        5 |             37.21 | Victor Fromenteze   |             56 |
+|             65 | Lucas Cazac         |             15.58 |        5 |             37.21 | Victor Fromenteze   |             56 |
+|             65 | Lucas Cazac         |             15.58 |        5 |             37.21 | Victor Fromenteze   |             56 |
+|             65 | Lucas Cazac         |             15.58 |        5 |             37.21 | Victor Fromenteze   |             56 |
+|             80 | Nicolas Baquer      |              7.28 |        6 |             90.76 | Simon Veyrac        |             62 |
+|             80 | Nicolas Baquer      |              7.28 |        6 |             90.76 | Simon Veyrac        |             62 |
+|             80 | Nicolas Baquer      |              7.28 |        6 |             90.76 | Simon Veyrac        |             62 |
+|             80 | Nicolas Baquer      |              7.28 |        6 |             90.76 | Simon Veyrac        |             62 |
+|             80 | Nicolas Baquer      |              7.28 |        6 |             90.76 | Simon Veyrac        |             62 |
+|             80 | Nicolas Baquer      |              7.28 |        6 |             90.76 | Simon Veyrac        |             62 |
+|             80 | Nicolas Baquer      |              7.28 |        6 |             90.76 | Simon Veyrac        |             62 |
+|             80 | Nicolas Baquer      |              7.28 |        6 |             90.76 | Simon Veyrac        |             62 |
+|             80 | Nicolas Baquer      |              7.28 |        6 |             90.76 | Simon Veyrac        |             62 |
+|             80 | Nicolas Baquer      |              7.28 |        6 |             90.76 | Simon Veyrac        |             62 |
+|             80 | Nicolas Baquer      |              7.28 |        6 |             90.76 | Simon Veyrac        |             62 |
+|             80 | Nicolas Baquer      |              7.28 |        6 |             90.76 | Simon Veyrac        |             62 |
+|             80 | Nicolas Baquer      |              7.28 |        6 |             90.76 | Simon Veyrac        |             62 |
+|             80 | Nicolas Baquer      |              7.28 |        6 |             90.76 | Simon Veyrac        |             62 |
+|             80 | Nicolas Baquer      |              7.28 |        6 |             90.76 | Simon Veyrac        |             62 |
+|             80 | Nicolas Baquer      |              7.28 |        6 |             90.76 | Simon Veyrac        |             62 |
+|             65 | Spike Salman        |             22.39 |        7 |             98.91 | Nikita Bekov        |             80 |
+|             65 | Spike Salman        |             22.39 |        7 |             98.91 | Nikita Bekov        |             80 |
+|             65 | Spike Salman        |             22.39 |        7 |             98.91 | Nikita Bekov        |             80 |
+|             65 | Spike Salman        |             22.39 |        7 |             98.91 | Nikita Bekov        |             80 |
+|             65 | Spike Salman        |             22.39 |        7 |             98.91 | Nikita Bekov        |             80 |
+|             65 | Spike Salman        |             22.39 |        7 |             98.91 | Nikita Bekov        |             80 |
+|             65 | Spike Salman        |             22.39 |        7 |             98.91 | Nikita Bekov        |             80 |
+|             65 | Spike Salman        |             22.39 |        7 |             98.91 | Nikita Bekov        |             80 |
+|             65 | Spike Salman        |             22.39 |        7 |             98.91 | Nikita Bekov        |             80 |
+|             65 | Spike Salman        |             22.39 |        7 |             98.91 | Nikita Bekov        |             80 |
+|             65 | Spike Salman        |             22.39 |        7 |             98.91 | Nikita Bekov        |             80 |
+|             65 | Spike Salman        |             22.39 |        7 |             98.91 | Nikita Bekov        |             80 |
+|             65 | Spike Salman        |             22.39 |        7 |             98.91 | Nikita Bekov        |             80 |
+|             65 | Spike Salman        |             22.39 |        7 |             98.91 | Nikita Bekov        |             80 |
+|             65 | Spike Salman        |             22.39 |        7 |             98.91 | Nikita Bekov        |             80 |
+|             65 | Spike Salman        |             22.39 |        7 |             98.91 | Nikita Bekov        |             80 |
+|             80 | Andre Gorin         |             76.87 |        8 |             82.71 | Ianis Ponsole       |             62 |
+|             80 | Andre Gorin         |             76.87 |        8 |             82.71 | Ianis Ponsole       |             62 |
+|             80 | Andre Gorin         |             76.87 |        8 |             82.71 | Ianis Ponsole       |             62 |
+|             80 | Andre Gorin         |             76.87 |        8 |             82.71 | Ianis Ponsole       |             62 |
+|             80 | Andre Gorin         |             76.87 |        8 |             82.71 | Ianis Ponsole       |             62 |
+|             80 | Andre Gorin         |             76.87 |        8 |             82.71 | Ianis Ponsole       |             62 |
+|             80 | Andre Gorin         |             76.87 |        8 |             82.71 | Ianis Ponsole       |             62 |
+|             80 | Andre Gorin         |             76.87 |        8 |             82.71 | Ianis Ponsole       |             62 |
+|             80 | Andre Gorin         |             76.87 |        8 |             82.71 | Ianis Ponsole       |             62 |
+|             80 | Andre Gorin         |             76.87 |        8 |             82.71 | Ianis Ponsole       |             62 |
+|             80 | Andre Gorin         |             76.87 |        8 |             82.71 | Ianis Ponsole       |             62 |
+|             80 | Andre Gorin         |             76.87 |        8 |             82.71 | Ianis Ponsole       |             62 |
+|             80 | Andre Gorin         |             76.87 |        8 |             82.71 | Ianis Ponsole       |             62 |
+|             80 | Andre Gorin         |             76.87 |        8 |             82.71 | Ianis Ponsole       |             62 |
+|             80 | Andre Gorin         |             76.87 |        8 |             82.71 | Ianis Ponsole       |             62 |
+|             80 | Andre Gorin         |             76.87 |        8 |             82.71 | Ianis Ponsole       |             62 |
+|             58 | Rémi Dubié          |             16.3  |        9 |             93.24 | Ruben Courties      |             67 |
+|             58 | Rémi Dubié          |             16.3  |        9 |             93.24 | Ruben Courties      |             67 |
+|             58 | Rémi Dubié          |             16.3  |        9 |             93.24 | Ruben Courties      |             67 |
+|             58 | Rémi Dubié          |             16.3  |        9 |             93.24 | Ruben Courties      |             67 |
+|             58 | Rémi Dubié          |             16.3  |        9 |             93.24 | Ruben Courties      |             67 |
+|             58 | Rémi Dubié          |             16.3  |        9 |             93.24 | Ruben Courties      |             67 |
+|             58 | Rémi Dubié          |             16.3  |        9 |             93.24 | Ruben Courties      |             67 |
+|             58 | Rémi Dubié          |             16.3  |        9 |             93.24 | Ruben Courties      |             67 |
+|             58 | Rémi Dubié          |             16.3  |        9 |             93.24 | Ruben Courties      |             67 |
+|             58 | Rémi Dubié          |             16.3  |        9 |             93.24 | Ruben Courties      |             67 |
+|             58 | Rémi Dubié          |             16.3  |        9 |             93.24 | Ruben Courties      |             67 |
+|             58 | Rémi Dubié          |             16.3  |        9 |             93.24 | Ruben Courties      |             67 |
+|             58 | Rémi Dubié          |             16.3  |        9 |             93.24 | Ruben Courties      |             67 |
+|             58 | Rémi Dubié          |             16.3  |        9 |             93.24 | Ruben Courties      |             67 |
+|             58 | Rémi Dubié          |             16.3  |        9 |             93.24 | Ruben Courties      |             67 |
+|             58 | Rémi Dubié          |             16.3  |        9 |             93.24 | Ruben Courties      |             67 |
+|             80 | Juan Kotze          |             42.75 |       10 |             96.86 | Ugo Seunes          |             80 |
+|             80 | Juan Kotze          |             42.75 |       10 |             96.86 | Ugo Seunes          |             80 |
+|             80 | Juan Kotze          |             42.75 |       10 |             96.86 | Ugo Seunes          |             80 |
+|             80 | Juan Kotze          |             42.75 |       10 |             96.86 | Ugo Seunes          |             80 |
+|             80 | Juan Kotze          |             42.75 |       10 |             96.86 | Ugo Seunes          |             80 |
+|             80 | Juan Kotze          |             42.75 |       10 |             96.86 | Ugo Seunes          |             80 |
+|             80 | Juan Kotze          |             42.75 |       10 |             96.86 | Ugo Seunes          |             80 |
+|             80 | Juan Kotze          |             42.75 |       10 |             96.86 | Ugo Seunes          |             80 |
+|             80 | Juan Kotze          |             42.75 |       10 |             96.86 | Ugo Seunes          |             80 |
+|             80 | Juan Kotze          |             42.75 |       10 |             96.86 | Ugo Seunes          |             80 |
+|             80 | Juan Kotze          |             42.75 |       10 |             96.86 | Ugo Seunes          |             80 |
+|             80 | Juan Kotze          |             42.75 |       10 |             96.86 | Ugo Seunes          |             80 |
+|             80 | Juan Kotze          |             42.75 |       10 |             96.86 | Ugo Seunes          |             80 |
+|             80 | Juan Kotze          |             42.75 |       10 |             96.86 | Ugo Seunes          |             80 |
+|             80 | Juan Kotze          |             42.75 |       10 |             96.86 | Ugo Seunes          |             80 |
+|             80 | Juan Kotze          |             42.75 |       10 |             96.86 | Ugo Seunes          |             80 |
+|             80 | Vincent Alessi      |              1.9  |       11 |             69.51 | Dorian Terrou       |             80 |
+|             80 | Vincent Alessi      |              1.9  |       11 |             69.51 | Dorian Terrou       |             80 |
+|             80 | Vincent Alessi      |              1.9  |       11 |             69.51 | Dorian Terrou       |             80 |
+|             80 | Vincent Alessi      |              1.9  |       11 |             69.51 | Dorian Terrou       |             80 |
+|             80 | Vincent Alessi      |              1.9  |       11 |             69.51 | Dorian Terrou       |             80 |
+|             80 | Vincent Alessi      |              1.9  |       11 |             69.51 | Dorian Terrou       |             80 |
+|             80 | Vincent Alessi      |              1.9  |       11 |             69.51 | Dorian Terrou       |             80 |
+|             80 | Vincent Alessi      |              1.9  |       11 |             69.51 | Dorian Terrou       |             80 |
+|             80 | Vincent Alessi      |              1.9  |       11 |             69.51 | Dorian Terrou       |             80 |
+|             80 | Vincent Alessi      |              1.9  |       11 |             69.51 | Dorian Terrou       |             80 |
+|             80 | Vincent Alessi      |              1.9  |       11 |             69.51 | Dorian Terrou       |             80 |
+|             80 | Vincent Alessi      |              1.9  |       11 |             69.51 | Dorian Terrou       |             80 |
+|             80 | Vincent Alessi      |              1.9  |       11 |             69.51 | Dorian Terrou       |             80 |
+|             80 | Vincent Alessi      |              1.9  |       11 |             69.51 | Dorian Terrou       |             80 |
+|             80 | Vincent Alessi      |              1.9  |       11 |             69.51 | Dorian Terrou       |             80 |
+|             80 | Vincent Alessi      |              1.9  |       11 |             69.51 | Dorian Terrou       |             80 |
+|             80 | Romain Leveque      |             38.83 |       12 |             99.64 | Baptiste Serrano    |             80 |
+|             80 | Romain Leveque      |             38.83 |       12 |             99.64 | Baptiste Serrano    |             80 |
+|             80 | Romain Leveque      |             38.83 |       12 |             99.64 | Baptiste Serrano    |             80 |
+|             80 | Romain Leveque      |             38.83 |       12 |             99.64 | Baptiste Serrano    |             80 |
+|             80 | Romain Leveque      |             38.83 |       12 |             99.64 | Baptiste Serrano    |             80 |
+|             80 | Romain Leveque      |             38.83 |       12 |             99.64 | Baptiste Serrano    |             80 |
+|             80 | Romain Leveque      |             38.83 |       12 |             99.64 | Baptiste Serrano    |             80 |
+|             80 | Romain Leveque      |             38.83 |       12 |             99.64 | Baptiste Serrano    |             80 |
+|             80 | Romain Leveque      |             38.83 |       12 |             99.64 | Baptiste Serrano    |             80 |
+|             80 | Romain Leveque      |             38.83 |       12 |             99.64 | Baptiste Serrano    |             80 |
+|             80 | Romain Leveque      |             38.83 |       12 |             99.64 | Baptiste Serrano    |             80 |
+|             80 | Romain Leveque      |             38.83 |       12 |             99.64 | Baptiste Serrano    |             80 |
+|             80 | Romain Leveque      |             38.83 |       12 |             99.64 | Baptiste Serrano    |             80 |
+|             80 | Romain Leveque      |             38.83 |       12 |             99.64 | Baptiste Serrano    |             80 |
+|             80 | Romain Leveque      |             38.83 |       12 |             99.64 | Baptiste Serrano    |             80 |
+|             80 | Romain Leveque      |             38.83 |       12 |             99.64 | Baptiste Serrano    |             80 |
+|             80 | Dylan Sage          |             31.3  |       13 |             39.31 | Lukas Doyhenard     |             80 |
+|             80 | Dylan Sage          |             31.3  |       13 |             39.31 | Lukas Doyhenard     |             80 |
+|             80 | Dylan Sage          |             31.3  |       13 |             39.31 | Lukas Doyhenard     |             80 |
+|             80 | Dylan Sage          |             31.3  |       13 |             39.31 | Lukas Doyhenard     |             80 |
+|             80 | Dylan Sage          |             31.3  |       13 |             39.31 | Lukas Doyhenard     |             80 |
+|             80 | Dylan Sage          |             31.3  |       13 |             39.31 | Lukas Doyhenard     |             80 |
+|             80 | Dylan Sage          |             31.3  |       13 |             39.31 | Lukas Doyhenard     |             80 |
+|             80 | Dylan Sage          |             31.3  |       13 |             39.31 | Lukas Doyhenard     |             80 |
+|             80 | Dylan Sage          |             31.3  |       13 |             39.31 | Lukas Doyhenard     |             80 |
+|             80 | Dylan Sage          |             31.3  |       13 |             39.31 | Lukas Doyhenard     |             80 |
+|             80 | Dylan Sage          |             31.3  |       13 |             39.31 | Lukas Doyhenard     |             80 |
+|             80 | Dylan Sage          |             31.3  |       13 |             39.31 | Lukas Doyhenard     |             80 |
+|             80 | Dylan Sage          |             31.3  |       13 |             39.31 | Lukas Doyhenard     |             80 |
+|             80 | Dylan Sage          |             31.3  |       13 |             39.31 | Lukas Doyhenard     |             80 |
+|             80 | Dylan Sage          |             31.3  |       13 |             39.31 | Lukas Doyhenard     |             80 |
+|             80 | Dylan Sage          |             31.3  |       13 |             39.31 | Lukas Doyhenard     |             80 |
+|             40 | Josselyn Bouchon    |             15.51 |       14 |             99.16 | Peïo Retegui        |             64 |
+|             40 | Josselyn Bouchon    |             15.51 |       14 |             99.16 | Peïo Retegui        |             64 |
+|             40 | Josselyn Bouchon    |             15.51 |       14 |             99.16 | Peïo Retegui        |             64 |
+|             40 | Josselyn Bouchon    |             15.51 |       14 |             99.16 | Peïo Retegui        |             64 |
+|             40 | Josselyn Bouchon    |             15.51 |       14 |             99.16 | Peïo Retegui        |             64 |
+|             40 | Josselyn Bouchon    |             15.51 |       14 |             99.16 | Peïo Retegui        |             64 |
+|             40 | Josselyn Bouchon    |             15.51 |       14 |             99.16 | Peïo Retegui        |             64 |
+|             40 | Josselyn Bouchon    |             15.51 |       14 |             99.16 | Peïo Retegui        |             64 |
+|             40 | Josselyn Bouchon    |             15.51 |       14 |             99.16 | Peïo Retegui        |             64 |
+|             40 | Josselyn Bouchon    |             15.51 |       14 |             99.16 | Peïo Retegui        |             64 |
+|             40 | Josselyn Bouchon    |             15.51 |       14 |             99.16 | Peïo Retegui        |             64 |
+|             40 | Josselyn Bouchon    |             15.51 |       14 |             99.16 | Peïo Retegui        |             64 |
+|             40 | Josselyn Bouchon    |             15.51 |       14 |             99.16 | Peïo Retegui        |             64 |
+|             40 | Josselyn Bouchon    |             15.51 |       14 |             99.16 | Peïo Retegui        |             64 |
+|             40 | Josselyn Bouchon    |             15.51 |       14 |             99.16 | Peïo Retegui        |             64 |
+|             40 | Josselyn Bouchon    |             15.51 |       14 |             99.16 | Peïo Retegui        |             64 |
+|             65 | Ionel Melinte       |             32.94 |       15 |             94.75 | Gérald Augustin     |             80 |
+|             65 | Ionel Melinte       |             32.94 |       15 |             94.75 | Gérald Augustin     |             80 |
+|             65 | Ionel Melinte       |             32.94 |       15 |             94.75 | Gérald Augustin     |             80 |
+|             65 | Ionel Melinte       |             32.94 |       15 |             94.75 | Gérald Augustin     |             80 |
+|             65 | Ionel Melinte       |             32.94 |       15 |             94.75 | Gérald Augustin     |             80 |
+|             65 | Ionel Melinte       |             32.94 |       15 |             94.75 | Gérald Augustin     |             80 |
+|             65 | Ionel Melinte       |             32.94 |       15 |             94.75 | Gérald Augustin     |             80 |
+|             65 | Ionel Melinte       |             32.94 |       15 |             94.75 | Gérald Augustin     |             80 |
+|             65 | Ionel Melinte       |             32.94 |       15 |             94.75 | Gérald Augustin     |             80 |
+|             65 | Ionel Melinte       |             32.94 |       15 |             94.75 | Gérald Augustin     |             80 |
+|             65 | Ionel Melinte       |             32.94 |       15 |             94.75 | Gérald Augustin     |             80 |
+|             65 | Ionel Melinte       |             32.94 |       15 |             94.75 | Gérald Augustin     |             80 |
+|             65 | Ionel Melinte       |             32.94 |       15 |             94.75 | Gérald Augustin     |             80 |
+|             65 | Ionel Melinte       |             32.94 |       15 |             94.75 | Gérald Augustin     |             80 |
+|             65 | Ionel Melinte       |             32.94 |       15 |             94.75 | Gérald Augustin     |             80 |
+|             65 | Ionel Melinte       |             32.94 |       15 |             94.75 | Gérald Augustin     |             80 |
+|             22 | Eli Serra-Miglietti |             41.29 |       16 |             88.92 | Alexis Decaux       |             29 |
+|             22 | Eli Serra-Miglietti |             41.29 |       16 |             88.92 | Alexis Decaux       |             29 |
+|             22 | Eli Serra-Miglietti |             41.29 |       16 |             88.92 | Alexis Decaux       |             29 |
+|             22 | Eli Serra-Miglietti |             41.29 |       16 |             88.92 | Alexis Decaux       |             29 |
+|             22 | Eli Serra-Miglietti |             41.29 |       16 |             88.92 | Alexis Decaux       |             29 |
+|             22 | Eli Serra-Miglietti |             41.29 |       16 |             88.92 | Alexis Decaux       |             29 |
+|             22 | Eli Serra-Miglietti |             41.29 |       16 |             88.92 | Alexis Decaux       |             29 |
+|             22 | Eli Serra-Miglietti |             41.29 |       16 |             88.92 | Alexis Decaux       |             29 |
+|             22 | Eli Serra-Miglietti |             41.29 |       16 |             88.92 | Alexis Decaux       |             29 |
+|             22 | Eli Serra-Miglietti |             41.29 |       16 |             88.92 | Alexis Decaux       |             29 |
+|             22 | Eli Serra-Miglietti |             41.29 |       16 |             88.92 | Alexis Decaux       |             29 |
+|             22 | Eli Serra-Miglietti |             41.29 |       16 |             88.92 | Alexis Decaux       |             29 |
+|             22 | Eli Serra-Miglietti |             41.29 |       16 |             88.92 | Alexis Decaux       |             29 |
+|             22 | Eli Serra-Miglietti |             41.29 |       16 |             88.92 | Alexis Decaux       |             29 |
+|             22 | Eli Serra-Miglietti |             41.29 |       16 |             88.92 | Alexis Decaux       |             29 |
+|             22 | Eli Serra-Miglietti |             41.29 |       16 |             88.92 | Alexis Decaux       |             29 |
+|             22 | Michael Tyumenev    |              7.85 |       17 |            nan    | Enzo Rivier         |             29 |
+|             22 | Michael Tyumenev    |              7.85 |       17 |            nan    | Enzo Rivier         |             29 |
+|             22 | Michael Tyumenev    |              7.85 |       17 |            nan    | Enzo Rivier         |             29 |
+|             22 | Michael Tyumenev    |              7.85 |       17 |            nan    | Enzo Rivier         |             29 |
+|             22 | Michael Tyumenev    |              7.85 |       17 |            nan    | Enzo Rivier         |             29 |
+|             22 | Michael Tyumenev    |              7.85 |       17 |            nan    | Enzo Rivier         |             29 |
+|             22 | Michael Tyumenev    |              7.85 |       17 |            nan    | Enzo Rivier         |             29 |
+|             22 | Michael Tyumenev    |              7.85 |       17 |            nan    | Enzo Rivier         |             29 |
+|             22 | Michael Tyumenev    |              7.85 |       17 |            nan    | Enzo Rivier         |             29 |
+|             22 | Michael Tyumenev    |              7.85 |       17 |            nan    | Enzo Rivier         |             29 |
+|             22 | Michael Tyumenev    |              7.85 |       17 |            nan    | Enzo Rivier         |             29 |
+|             22 | Michael Tyumenev    |              7.85 |       17 |            nan    | Enzo Rivier         |             29 |
+|             22 | Michael Tyumenev    |              7.85 |       17 |            nan    | Enzo Rivier         |             29 |
+|             22 | Michael Tyumenev    |              7.85 |       17 |            nan    | Enzo Rivier         |             29 |
+|             22 | Michael Tyumenev    |              7.85 |       17 |            nan    | Enzo Rivier         |             29 |
+|             22 | Michael Tyumenev    |              7.85 |       17 |            nan    | Enzo Rivier         |             29 |
+|             22 | Miguel Mathieu      |             17.61 |       18 |             72.56 | Victor Delmas       |             29 |
+|             22 | Miguel Mathieu      |             17.61 |       18 |             72.56 | Victor Delmas       |             29 |
+|             22 | Miguel Mathieu      |             17.61 |       18 |             72.56 | Victor Delmas       |             29 |
+|             22 | Miguel Mathieu      |             17.61 |       18 |             72.56 | Victor Delmas       |             29 |
+|             22 | Miguel Mathieu      |             17.61 |       18 |             72.56 | Victor Delmas       |             29 |
+|             22 | Miguel Mathieu      |             17.61 |       18 |             72.56 | Victor Delmas       |             29 |
+|             22 | Miguel Mathieu      |             17.61 |       18 |             72.56 | Victor Delmas       |             29 |
+|             22 | Miguel Mathieu      |             17.61 |       18 |             72.56 | Victor Delmas       |             29 |
+|             22 | Miguel Mathieu      |             17.61 |       18 |             72.56 | Victor Delmas       |             29 |
+|             22 | Miguel Mathieu      |             17.61 |       18 |             72.56 | Victor Delmas       |             29 |
+|             22 | Miguel Mathieu      |             17.61 |       18 |             72.56 | Victor Delmas       |             29 |
+|             22 | Miguel Mathieu      |             17.61 |       18 |             72.56 | Victor Delmas       |             29 |
+|             22 | Miguel Mathieu      |             17.61 |       18 |             72.56 | Victor Delmas       |             29 |
+|             22 | Miguel Mathieu      |             17.61 |       18 |             72.56 | Victor Delmas       |             29 |
+|             22 | Miguel Mathieu      |             17.61 |       18 |             72.56 | Victor Delmas       |             29 |
+|             22 | Miguel Mathieu      |             17.61 |       18 |             72.56 | Victor Delmas       |             29 |
+|             15 | Shade Barkallah     |             37.67 |       19 |             61.98 | Lucas Tolofua       |             24 |
+|             15 | Shade Barkallah     |             37.67 |       19 |             61.98 | Lucas Tolofua       |             24 |
+|             15 | Shade Barkallah     |             37.67 |       19 |             61.98 | Lucas Tolofua       |             24 |
+|             15 | Shade Barkallah     |             37.67 |       19 |             61.98 | Lucas Tolofua       |             24 |
+|             15 | Shade Barkallah     |             37.67 |       19 |             61.98 | Lucas Tolofua       |             24 |
+|             15 | Shade Barkallah     |             37.67 |       19 |             61.98 | Lucas Tolofua       |             24 |
+|             15 | Shade Barkallah     |             37.67 |       19 |             61.98 | Lucas Tolofua       |             24 |
+|             15 | Shade Barkallah     |             37.67 |       19 |             61.98 | Lucas Tolofua       |             24 |
+|             15 | Shade Barkallah     |             37.67 |       19 |             61.98 | Lucas Tolofua       |             24 |
+|             15 | Shade Barkallah     |             37.67 |       19 |             61.98 | Lucas Tolofua       |             24 |
+|             15 | Shade Barkallah     |             37.67 |       19 |             61.98 | Lucas Tolofua       |             24 |
+|             15 | Shade Barkallah     |             37.67 |       19 |             61.98 | Lucas Tolofua       |             24 |
+|             15 | Shade Barkallah     |             37.67 |       19 |             61.98 | Lucas Tolofua       |             24 |
+|             15 | Shade Barkallah     |             37.67 |       19 |             61.98 | Lucas Tolofua       |             24 |
+|             15 | Shade Barkallah     |             37.67 |       19 |             61.98 | Lucas Tolofua       |             24 |
+|             15 | Shade Barkallah     |             37.67 |       19 |             61.98 | Lucas Tolofua       |             24 |
+|             15 | Joachim Beaumont    |             72.17 |       20 |             13.08 | Matthieu Thomas     |             18 |
+|             15 | Joachim Beaumont    |             72.17 |       20 |             13.08 | Matthieu Thomas     |             18 |
+|             15 | Joachim Beaumont    |             72.17 |       20 |             13.08 | Matthieu Thomas     |             18 |
+|             15 | Joachim Beaumont    |             72.17 |       20 |             13.08 | Matthieu Thomas     |             18 |
+|             15 | Joachim Beaumont    |             72.17 |       20 |             13.08 | Matthieu Thomas     |             18 |
+|             15 | Joachim Beaumont    |             72.17 |       20 |             13.08 | Matthieu Thomas     |             18 |
+|             15 | Joachim Beaumont    |             72.17 |       20 |             13.08 | Matthieu Thomas     |             18 |
+|             15 | Joachim Beaumont    |             72.17 |       20 |             13.08 | Matthieu Thomas     |             18 |
+|             15 | Joachim Beaumont    |             72.17 |       20 |             13.08 | Matthieu Thomas     |             18 |
+|             15 | Joachim Beaumont    |             72.17 |       20 |             13.08 | Matthieu Thomas     |             18 |
+|             15 | Joachim Beaumont    |             72.17 |       20 |             13.08 | Matthieu Thomas     |             18 |
+|             15 | Joachim Beaumont    |             72.17 |       20 |             13.08 | Matthieu Thomas     |             18 |
+|             15 | Joachim Beaumont    |             72.17 |       20 |             13.08 | Matthieu Thomas     |             18 |
+|             15 | Joachim Beaumont    |             72.17 |       20 |             13.08 | Matthieu Thomas     |             18 |
+|             15 | Joachim Beaumont    |             72.17 |       20 |             13.08 | Matthieu Thomas     |             18 |
+|             15 | Joachim Beaumont    |             72.17 |       20 |             13.08 | Matthieu Thomas     |             18 |
+|             22 | Thomas Sonetti      |             68.39 |       21 |             69.16 | Mathieu Vachon      |             18 |
+|             22 | Thomas Sonetti      |             68.39 |       21 |             69.16 | Mathieu Vachon      |             18 |
+|             22 | Thomas Sonetti      |             68.39 |       21 |             69.16 | Mathieu Vachon      |             18 |
+|             22 | Thomas Sonetti      |             68.39 |       21 |             69.16 | Mathieu Vachon      |             18 |
+|             22 | Thomas Sonetti      |             68.39 |       21 |             69.16 | Mathieu Vachon      |             18 |
+|             22 | Thomas Sonetti      |             68.39 |       21 |             69.16 | Mathieu Vachon      |             18 |
+|             22 | Thomas Sonetti      |             68.39 |       21 |             69.16 | Mathieu Vachon      |             18 |
+|             22 | Thomas Sonetti      |             68.39 |       21 |             69.16 | Mathieu Vachon      |             18 |
+|             22 | Thomas Sonetti      |             68.39 |       21 |             69.16 | Mathieu Vachon      |             18 |
+|             22 | Thomas Sonetti      |             68.39 |       21 |             69.16 | Mathieu Vachon      |             18 |
+|             22 | Thomas Sonetti      |             68.39 |       21 |             69.16 | Mathieu Vachon      |             18 |
+|             22 | Thomas Sonetti      |             68.39 |       21 |             69.16 | Mathieu Vachon      |             18 |
+|             22 | Thomas Sonetti      |             68.39 |       21 |             69.16 | Mathieu Vachon      |             18 |
+|             22 | Thomas Sonetti      |             68.39 |       21 |             69.16 | Mathieu Vachon      |             18 |
+|             22 | Thomas Sonetti      |             68.39 |       21 |             69.16 | Mathieu Vachon      |             18 |
+|             22 | Thomas Sonetti      |             68.39 |       21 |             69.16 | Mathieu Vachon      |             18 |
+|             40 | Amaury Bobillon     |             56.54 |       22 |             75.18 | Jean-Andre Vernetti |             13 |
+|             40 | Amaury Bobillon     |             56.54 |       22 |             75.18 | Jean-Andre Vernetti |             13 |
+|             40 | Amaury Bobillon     |             56.54 |       22 |             75.18 | Jean-Andre Vernetti |             13 |
+|             40 | Amaury Bobillon     |             56.54 |       22 |             75.18 | Jean-Andre Vernetti |             13 |
+|             40 | Amaury Bobillon     |             56.54 |       22 |             75.18 | Jean-Andre Vernetti |             13 |
+|             40 | Amaury Bobillon     |             56.54 |       22 |             75.18 | Jean-Andre Vernetti |             13 |
+|             40 | Amaury Bobillon     |             56.54 |       22 |             75.18 | Jean-Andre Vernetti |             13 |
+|             40 | Amaury Bobillon     |             56.54 |       22 |             75.18 | Jean-Andre Vernetti |             13 |
+|             40 | Amaury Bobillon     |             56.54 |       22 |             75.18 | Jean-Andre Vernetti |             13 |
+|             40 | Amaury Bobillon     |             56.54 |       22 |             75.18 | Jean-Andre Vernetti |             13 |
+|             40 | Amaury Bobillon     |             56.54 |       22 |             75.18 | Jean-Andre Vernetti |             13 |
+|             40 | Amaury Bobillon     |             56.54 |       22 |             75.18 | Jean-Andre Vernetti |             13 |
+|             40 | Amaury Bobillon     |             56.54 |       22 |             75.18 | Jean-Andre Vernetti |             13 |
+|             40 | Amaury Bobillon     |             56.54 |       22 |             75.18 | Jean-Andre Vernetti |             13 |
+|             40 | Amaury Bobillon     |             56.54 |       22 |             75.18 | Jean-Andre Vernetti |             13 |
+|             40 | Amaury Bobillon     |             56.54 |       22 |             75.18 | Jean-Andre Vernetti |             13 |
+|             15 | Theo Moitrier       |             46.12 |       23 |             44.8  | Clément Vareilles   |             16 |
+|             15 | Theo Moitrier       |             46.12 |       23 |             44.8  | Clément Vareilles   |             16 |
+|             15 | Theo Moitrier       |             46.12 |       23 |             44.8  | Clément Vareilles   |             16 |
+|             15 | Theo Moitrier       |             46.12 |       23 |             44.8  | Clément Vareilles   |             16 |
+|             15 | Theo Moitrier       |             46.12 |       23 |             44.8  | Clément Vareilles   |             16 |
+|             15 | Theo Moitrier       |             46.12 |       23 |             44.8  | Clément Vareilles   |             16 |
+|             15 | Theo Moitrier       |             46.12 |       23 |             44.8  | Clément Vareilles   |             16 |
+|             15 | Theo Moitrier       |             46.12 |       23 |             44.8  | Clément Vareilles   |             16 |
+|             15 | Theo Moitrier       |             46.12 |       23 |             44.8  | Clément Vareilles   |             16 |
+|             15 | Theo Moitrier       |             46.12 |       23 |             44.8  | Clément Vareilles   |             16 |
+|             15 | Theo Moitrier       |             46.12 |       23 |             44.8  | Clément Vareilles   |             16 |
+|             15 | Theo Moitrier       |             46.12 |       23 |             44.8  | Clément Vareilles   |             16 |
+|             15 | Theo Moitrier       |             46.12 |       23 |             44.8  | Clément Vareilles   |             16 |
+|             15 | Theo Moitrier       |             46.12 |       23 |             44.8  | Clément Vareilles   |             16 |
+|             15 | Theo Moitrier       |             46.12 |       23 |             44.8  | Clément Vareilles   |             16 |
+|             15 | Theo Moitrier       |             46.12 |       23 |             44.8  | Clément Vareilles   |             16 |
 

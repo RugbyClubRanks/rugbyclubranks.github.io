@@ -9,9 +9,9 @@ categories: "United Rugby Championship 2023" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.706, which translates to predicting Bulls to win by 7.8.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.687, which translates to predicting Bulls to win by 7.0.
 
-Our Over/Under is 66.5 - and combined with the spread above, we have a predicted scoreline of 29 to 37
+Our Over/Under is 67.5 - and combined with the spread above, we have a predicted scoreline of 30 to 37
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,14 +39,14 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Player Minutes: Bulls by 5.8
+## Prediction with Player Minutes: Bulls by 0.2
 
 
-Bulls by 1.0 on a neutral field
-## Prediction without Player Minutes: Bulls by 6.3
+Lions by 4.2 on a neutral field
+## Prediction without Player Minutes: Lions by 0.1
 
 
-Bulls by 1.4 on a neutral pitch
+Lions by 4.5 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -70,45 +70,29 @@ Bulls by 1.4 on a neutral pitch
 <img src="plots/resultbar_plr_2024-01-27-Bulls-Lions.png" width="99%" />
 </p>
 
-## Scores over Time
 
-
-<p float="left">
-<img src="plots/recap_scores_V2-2024-01-27-Bulls-Lions.png" width="99%" />
-</p>
-
-## Win Probability over Time
-
-
-<p float="left">
-<img src="plots/recap_prob_V2-2024-01-27-Bulls-Lions.png" width="99%" />
-</p>
-
-
-There were 17 large changes in win probability in this match
-
-|   Away Minutes | Away Player            |   Away elo |   Number |   Home elo | Home Player         |   Home Minutes |
-|---------------:|:-----------------------|-----------:|---------:|-----------:|:--------------------|---------------:|
-|             49 | Jean-Pierre Smith      |      46.83 |        1 |      59.69 | Simphiwe Matanzima  |             48 |
-|             67 | Jaco Visagie           |      51.29 |        2 |     113.32 | Akker van der Merwe |             57 |
-|             49 | Asenathi Ntlabakanye   |      24.34 |        3 |      48.29 | Mornay Smith        |             57 |
-|             37 | Ruben Schoeman         |      83.16 |        4 |      77.69 | Deon Slabbert       |             49 |
-|             80 | Reinhard Nothnagel     |     111.04 |        5 |      53.37 | Ruan Nortje         |             80 |
-|             68 | Hanru Sirgel           |     113.69 |        6 |      82.75 | Marco van Staden    |             40 |
-|             80 | Emmanuel Tshituka      |      51.43 |        7 |      75.23 | Elrigh Louw         |             80 |
-|             78 | Francke Horn           |     126.31 |        8 |      43.01 | Celimpilo Gumede    |             58 |
-|             80 | Morne Van den Berg     |      32.04 |        9 |      99.13 | Embrose Papier      |             80 |
-|             80 | Sanele Nohamba         |     120.59 |       10 |      54.66 | Johan Goosen        |             80 |
-|             80 | Edwill van der Merwe   |      64.61 |       11 |      88.48 | Sergeal Petersen    |             80 |
-|             70 | Marius Louw            |      99.42 |       12 |      99.25 | Harold Vorster      |             80 |
-|             80 | Henco van Wyk          |      73.23 |       13 |      87.21 | David Kriel         |             80 |
-|             80 | Richard Kriel          |      50.2  |       14 |      45.51 | Sebastian de Klerk  |             57 |
-|             80 | Quan Horn              |      91.48 |       15 |     129.29 | Willie le Roux      |             80 |
-|             31 | Ruan Dreyer            |     124.99 |       16 |      83.28 | Marcell Coetzee     |             40 |
-|             43 | Darrien-Lane Landsberg |      20.85 |       17 |      93.4  | Dylan Smith         |             32 |
-|             31 | Morgan Naude           |      47.76 |       18 |      37.38 | Reinhardt Ludwig    |             31 |
-|             13 | Morné Brandon          |      36.19 |       19 |     112.2  | Johan Grobbelaar    |             23 |
-|             12 | Johannes JC Pretorius  |      74.69 |       20 |      46.73 | Devon Williams      |             23 |
-|             10 | Jordan Hendrikse       |      25.49 |       21 |      27.27 | Ntuthuko Mchunu     |             23 |
-|              2 | Izan Esterhuizen       |      46.69 |       22 |      50.9  | Cameron Hanekom     |             22 |
+|   Away Minutes | Away Player            |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
+|---------------:|:-----------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
+|             49 | Jean-Pierre Smith      |             79.09 |        1 |             78.73 | Simphiwe Matanzima  |             48 |
+|             67 | Jaco Visagie           |             77.19 |        2 |             99.64 | Akker van der Merwe |             57 |
+|             49 | Asenathi Ntlabakanye   |             43.43 |        3 |             75.07 | Mornay Smith        |             57 |
+|             37 | Ruben Schoeman         |             95.35 |        4 |             84.88 | Deon Slabbert       |             49 |
+|             80 | Reinhard Nothnagel     |             91.28 |        5 |             87.91 | Ruan Nortje         |             80 |
+|             68 | Hanru Sirgel           |             97.72 |        6 |             91.09 | Marco van Staden    |             40 |
+|             80 | Emmanuel Tshituka      |             77.72 |        7 |             93.48 | Elrigh Louw         |             80 |
+|             78 | Francke Horn           |             98.36 |        8 |             56.31 | Celimpilo Gumede    |             58 |
+|             80 | Morne Van den Berg     |             65.41 |        9 |             94.23 | Embrose Papier      |             80 |
+|             80 | Sanele Nohamba         |             96.14 |       10 |             83.82 | Johan Goosen        |             80 |
+|             80 | Edwill van der Merwe   |             92.19 |       11 |             94.3  | Sergeal Petersen    |             80 |
+|             70 | Marius Louw            |             94.03 |       12 |             96.89 | Harold Vorster      |             80 |
+|             80 | Henco van Wyk          |             83.15 |       13 |             93.91 | David Kriel         |             80 |
+|             80 | Richard Kriel          |             58.02 |       14 |             97.05 | Sebastian de Klerk  |             57 |
+|             80 | Quan Horn              |             87.83 |       15 |             99.05 | Willie le Roux      |             80 |
+|             31 | Ruan Dreyer            |             99.2  |       16 |             95.65 | Marcell Coetzee     |             40 |
+|             43 | Darrien-Lane Landsberg |             27.44 |       17 |             84.99 | Dylan Smith         |             32 |
+|             31 | Morgan Naude           |             52.64 |       18 |             70.58 | Reinhardt Ludwig    |             31 |
+|             13 | Morné Brandon          |             27.92 |       19 |             95.44 | Johan Grobbelaar    |             23 |
+|             12 | Johannes JC Pretorius  |             77.93 |       20 |             82.81 | Devon Williams      |             23 |
+|             10 | Jordan Hendrikse       |             56.28 |       21 |             21.36 | Ntuthuko Mchunu     |             23 |
+|              2 | Izan Esterhuizen       |             43.8  |       22 |             70.56 | Cameron Hanekom     |             22 |
 
