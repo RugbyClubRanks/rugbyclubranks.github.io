@@ -1,7 +1,7 @@
 ---
 title:  "Champions and Challenge Cups"
 date:   2023-12-05 06:00:00 -0500
-categories: projection "Challenge Cup" "Champions Cup"
+categories: projection challenge champions
 ---
 
 These are some of my favorite competitions, because it is so hard to predict what might happen. We toss together three separate leagues, add in some teams that rarely play anyone else in these competitions, and also have club managers trying to balance success here and in their own league, as the matches alternate through the spring (spring in the Northern Hemisphere, at least). Its a mess, and its fun.
