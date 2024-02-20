@@ -120,7 +120,7 @@ key: page-recents
 ## United Rugby Championship
 
 
-[2023](comp_files\United_Rugby_Championship_2023) - Prediction Accuracy: 75.0% 
+[2023](comp_files\United_Rugby_Championship_2023) - Prediction Accuracy: 73.8% 
 
 [2022](comp_files\United_Rugby_Championship_2022) - Prediction Accuracy: 70.7% 
 
@@ -150,7 +150,7 @@ key: page-recents
 ## Top 14 Orange
 
 
-[2023](comp_files\Top_14_Orange_2023) - Prediction Accuracy: 67.3% 
+[2023](comp_files\Top_14_Orange_2023) - Prediction Accuracy: 66.7% 
 
 [2022](comp_files\Top_14_Orange_2022) - Prediction Accuracy: 68.0% 
 
@@ -160,7 +160,7 @@ key: page-recents
 ## Japan Rugby League One
 
 
-[2023](comp_files\Japan_Rugby_League_One_2023) - Prediction Accuracy: 83.3% 
+[2023](comp_files\Japan_Rugby_League_One_2023) - Prediction Accuracy: 84.2% 
 
 [2022](comp_files\Japan_Rugby_League_One_2022) - Prediction Accuracy: 78.4% 
 
@@ -216,7 +216,7 @@ key: page-recents
 ## Premiership Rugby Cup
 
 
-[2023](comp_files\Premiership_Rugby_Cup_2023) - Prediction Accuracy: 75.5% 
+[2023](comp_files\Premiership_Rugby_Cup_2023) - Prediction Accuracy: 74.5% 
 ## Super Rugby Americas
 
 
@@ -232,7 +232,7 @@ key: page-recents
 ## Allianz Premier 15s
 
 
-[2023](comp_files\Allianz_Premier_15s_2023) - Prediction Accuracy: 86.0% 
+[2023](comp_files\Allianz_Premier_15s_2023) - Prediction Accuracy: 86.4% 
 # Domestic Competitions
 
 ## Bunnings Warehouse NPC
@@ -258,7 +258,7 @@ key: page-recents
 ## Nationale
 
 
-[2023](comp_files\Nationale_2023) - Prediction Accuracy: 75.2% 
+[2023](comp_files\Nationale_2023) - Prediction Accuracy: 69.7% 
 
 [2022](comp_files\Nationale_2022) - Prediction Accuracy: 68.8% 
 
@@ -268,7 +268,7 @@ key: page-recents
 ## Pro D2
 
 
-[2023](comp_files\Pro_D2_2023) - Prediction Accuracy: 75.0% 
+[2023](comp_files\Pro_D2_2023) - Prediction Accuracy: 76.2% 
 
 [2022](comp_files\Pro_D2_2022) - Prediction Accuracy: 67.8% 
 
@@ -308,7 +308,7 @@ key: page-recents
 ## Japan Rugby League One D2
 
 
-[2023](comp_files\Japan_Rugby_League_One_D2_2023) - Prediction Accuracy: 87.5% 
+[2023](comp_files\Japan_Rugby_League_One_D2_2023) - Prediction Accuracy: 88.2% 
 ## Japan Rugby League One D3
 
 

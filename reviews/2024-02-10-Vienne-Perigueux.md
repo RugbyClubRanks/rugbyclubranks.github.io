@@ -9,9 +9,9 @@ categories: "Nationale 2023" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.214, which translates to predicting Périgueux to win by 11.7.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.146, which translates to predicting Périgueux to win by 16.0.
 
-Our Over/Under is 34.5 - and combined with the spread above, we have a predicted scoreline of 23 to 11
+Our Over/Under is 33.5 - and combined with the spread above, we have a predicted scoreline of 25 to 9
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Périgueux by 10.0 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player              |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:-------------------------|---------------:|
-|             69 | Thomas Vidal       |             78.74 |        1 |             20.36 | Louan Capuano            |             48 |
-|             54 | Baptiste Arvouet   |             32.36 |        2 |              4.75 | Dimitri Gibierge         |             48 |
-|             54 | Anthony Pelmard    |             58.92 |        3 |             19.91 | Guram Kavtidze           |             48 |
-|             60 | Richard Fourcade   |             22.6  |        4 |             49.35 | Victor Comptat           |             50 |
-|             80 | Damien Lavergne    |             30.41 |        5 |             11.01 | Ciaran O'Flynn           |             80 |
-|             54 | Hendri Storm       |             46.37 |        6 |              2.6  | Léon Peyrat              |             60 |
-|             80 | Afaesetiti Amosa   |             94.37 |        7 |             49.62 | Guillaume Moroldo        |             80 |
-|             80 | Karl Lambert       |             55.56 |        8 |             14.18 | Théo Minodier            |             80 |
-|             64 | Enzo Hardy         |             32.46 |        9 |             42.28 | Malory Piet              |             56 |
-|             64 | Greg Hutley        |             61.95 |       10 |             10.24 | Tom Richard              |             45 |
-|             80 | Arthur Duhau       |             85.61 |       11 |             31.64 | Hippolyte Massa          |             80 |
-|             50 | Cyril Couturier    |             80.34 |       12 |             11.63 | Axel Derderian           |             45 |
-|             80 | Vincent Fouillade  |             54.32 |       13 |             25.18 | Pierre Mollard           |             80 |
-|             80 | Benjamin Yarde     |             20.21 |       14 |             35.98 | Théo Brunel              |             80 |
-|             80 | Thibault Rabourdin |             15.66 |       15 |             11.57 | Brandon Bellavia         |             80 |
-|             30 | Fred Hickes        |             86.45 |       16 |              9.23 | Matthias Giovale         |             35 |
-|             26 | Clement Lanen      |             30.5  |       17 |              5.61 | Julien Hervouet          |             35 |
-|             26 | Louis Martin       |             76.6  |       18 |             12.25 | Axel Benjamin            |             32 |
-|             26 | Martin Augeix      |             26.31 |       19 |             12.88 | Pierre-Mathieu Fernandes |             32 |
-|             20 | Jaco Willemse      |             23.67 |       20 |              8.74 | Benjamin Robin           |             32 |
-|             16 | Matteo Bordenave   |             37.68 |       21 |              2.71 | Charles Massot           |             30 |
-|             16 | Yann Caillat       |             28.78 |       22 |             10.02 | Enzo Ravanello           |             24 |
-|             11 | Emilien Borges     |            nan    |       23 |             45.94 | Romain Falcoz            |             20 |
+|             69 | Thomas Vidal       |             79.2  |        1 |             20    | Louan Capuano            |             48 |
+|             54 | Baptiste Arvouet   |             32.48 |        2 |              5.32 | Dimitri Gibierge         |             48 |
+|             54 | Anthony Pelmard    |             55    |        3 |             21.52 | Guram Kavtidze           |             48 |
+|             60 | Richard Fourcade   |             21.72 |        4 |             49.31 | Victor Comptat           |             50 |
+|             80 | Damien Lavergne    |             19.02 |        5 |             11.15 | Ciaran O'Flynn           |             80 |
+|             54 | Hendri Storm       |             47.43 |        6 |              2.62 | Léon Peyrat              |             60 |
+|             80 | Afaesetiti Amosa   |             94.02 |        7 |             50.79 | Guillaume Moroldo        |             80 |
+|             80 | Karl Lambert       |             48.83 |        8 |             15.49 | Théo Minodier            |             80 |
+|             64 | Enzo Hardy         |             32.55 |        9 |             42.16 | Malory Piet              |             56 |
+|             64 | Greg Hutley        |             59    |       10 |              9.24 | Tom Richard              |             45 |
+|             80 | Arthur Duhau       |             82.08 |       11 |             34.7  | Hippolyte Massa          |             80 |
+|             50 | Cyril Couturier    |             79.09 |       12 |             11.61 | Axel Derderian           |             45 |
+|             80 | Vincent Fouillade  |             56.45 |       13 |             24.27 | Pierre Mollard           |             80 |
+|             80 | Benjamin Yarde     |             19.6  |       14 |             36.16 | Théo Brunel              |             80 |
+|             80 | Thibault Rabourdin |             11.49 |       15 |             12.18 | Brandon Bellavia         |             80 |
+|             30 | Fred Hickes        |             85.37 |       16 |              9.06 | Matthias Giovale         |             35 |
+|             26 | Clement Lanen      |             19.41 |       17 |              4.5  | Julien Hervouet          |             35 |
+|             26 | Louis Martin       |             72.29 |       18 |             11.93 | Axel Benjamin            |             32 |
+|             26 | Martin Augeix      |             25.62 |       19 |             12.59 | Pierre-Mathieu Fernandes |             32 |
+|             20 | Jaco Willemse      |             18.85 |       20 |              6.7  | Benjamin Robin           |             32 |
+|             16 | Matteo Bordenave   |             34.12 |       21 |              2.52 | Charles Massot           |             30 |
+|             16 | Yann Caillat       |             27.01 |       22 |              9.22 | Enzo Ravanello           |             24 |
+|             11 | Emilien Borges     |            nan    |       23 |             47.01 | Romain Falcoz            |             20 |
 

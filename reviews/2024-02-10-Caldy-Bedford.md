@@ -11,7 +11,7 @@ categories: "RFU Championship 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.271, which translates to predicting Bedford to win by 8.8.
 
-Our Over/Under is 63.5 - and combined with the spread above, we have a predicted scoreline of 36 to 27
+Our Over/Under is 56.5 - and combined with the spread above, we have a predicted scoreline of 33 to 24
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Bedford by 9.7 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             54 | Jamie Jack           |             16.4  |        1 |             15.14 | Nathan Rushton       |             46 |
-|             65 | Jacob Fields         |             55.94 |        2 |             61.61 | Matt Gallagher       |             65 |
-|             54 | Oisin Heffernan      |             80.09 |        3 |             66.13 | Monty Weatherby      |             51 |
-|             54 | Robin Williams       |             75.74 |        4 |             54.2  | Callum Atkinson      |             60 |
-|             80 | Tom Lockett          |             34.08 |        5 |             26.63 | Thomas Sanders       |             80 |
-|             80 | Luke Frost           |              9.97 |        6 |             27.74 | Martin Gerrard       |             56 |
-|             80 | Jac Arthur           |             55.69 |        7 |             66.2  | Ciaran Booth         |             80 |
-|             61 | Cameron King         |             10.64 |        8 |             24.82 | Josiah Dickinson     |             80 |
-|             80 | Alex Day             |             85.17 |        9 |             12.42 | Chris Pilgrim        |             32 |
-|             80 | William Maisey       |             81.46 |       10 |             10.98 | Lewis Barker         |             69 |
-|             80 | Dean Adamson         |             83.17 |       11 |             67.3  | Louis Beer           |             80 |
-|             80 | Josh Matavesi        |             31.89 |       12 |             45.56 | Michael Barlow       |             80 |
-|             80 | Michael Le Bourgeois |             61.75 |       13 |             40.89 | Connor Wilkinson     |             80 |
-|             80 | Sean French          |             43.92 |       14 |             28.15 | Rekeiti Ma'asi-White |             41 |
-|             80 | Matthew Worley       |             44.58 |       15 |             20.72 | Rhys Hayes           |             80 |
-|             26 | Ed Prowse            |             75.32 |       16 |             28.86 | Joseph Murray        |             48 |
-|             26 | Joey Conway          |             61.89 |       17 |              4.8  | Michael Cartmill     |             39 |
-|             26 | Emeka Atuanya        |             44.85 |       18 |             23.33 | Adam Aigbokhae       |             34 |
-|             19 | Kieran Curran        |             50.92 |       19 |             16.04 | Joe Sproston         |             29 |
-|             15 | Aston Gradwick-Light |            nan    |       20 |             61.32 | Ewan Murphy          |             24 |
-|            nan | nan                  |            nan    |       21 |             65.33 | Sam Dickinson        |             20 |
+|             54 | Jamie Jack           |             15.98 |        1 |             14.73 | Nathan Rushton       |             46 |
+|             65 | Jacob Fields         |             56.51 |        2 |             62.2  | Matt Gallagher       |             65 |
+|             54 | Oisin Heffernan      |             80.62 |        3 |             66.88 | Monty Weatherby      |             51 |
+|             54 | Robin Williams       |             76.21 |        4 |             54.25 | Callum Atkinson      |             60 |
+|             80 | Tom Lockett          |             32.87 |        5 |             25.52 | Thomas Sanders       |             80 |
+|             80 | Luke Frost           |              9.55 |        6 |             27.07 | Martin Gerrard       |             56 |
+|             80 | Jac Arthur           |             57.71 |        7 |             67.16 | Ciaran Booth         |             80 |
+|             61 | Cameron King         |             10.56 |        8 |             24.65 | Josiah Dickinson     |             80 |
+|             80 | Alex Day             |             85.29 |        9 |             12.35 | Chris Pilgrim        |             32 |
+|             80 | William Maisey       |             82.46 |       10 |              9.95 | Lewis Barker         |             69 |
+|             80 | Dean Adamson         |             83.96 |       11 |             68.13 | Louis Beer           |             80 |
+|             80 | Josh Matavesi        |             30.89 |       12 |             46.57 | Michael Barlow       |             80 |
+|             80 | Michael Le Bourgeois |             63.3  |       13 |             41.35 | Connor Wilkinson     |             80 |
+|             80 | Sean French          |             44.44 |       14 |             28.09 | Rekeiti Ma'asi-White |             41 |
+|             80 | Matthew Worley       |             47.13 |       15 |             20.23 | Rhys Hayes           |             80 |
+|             26 | Ed Prowse            |             75.89 |       16 |             28.82 | Joseph Murray        |             48 |
+|             26 | Joey Conway          |             62.5  |       17 |              4.99 | Michael Cartmill     |             39 |
+|             26 | Emeka Atuanya        |             45.96 |       18 |             22.86 | Adam Aigbokhae       |             34 |
+|             19 | Kieran Curran        |             52.05 |       19 |             15.62 | Joe Sproston         |             29 |
+|             15 | Aston Gradwick-Light |            nan    |       20 |             62.33 | Ewan Murphy          |             24 |
+|            nan | nan                  |            nan    |       21 |             66.44 | Sam Dickinson        |             20 |
 |            nan | nan                  |            nan    |       22 |            nan    | Edward Stagg         |             15 |
-|            nan | nan                  |            nan    |       23 |             50.6  | Sam Rogers           |             11 |
+|            nan | nan                  |            nan    |       23 |             52.18 | Sam Rogers           |             11 |
 

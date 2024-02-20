@@ -1,0 +1,95 @@
+---  
+layout: page  
+title: Kamaishi Seawaves at Urayasu D-Rocks; 5-85  
+date: 2024-02-17 18:00:00 -0500  
+categories: "Japan Rugby League One D2 2023" match review  
+---
+# Kamaishi Seawaves at Urayasu D-Rocks; 5-85
+
+# Club Level Predictions
+
+
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.946, which translates to predicting Urayasu D-Rocks to win by 26.3.
+
+Our Over/Under is 61.5 - and combined with the spread above, we have a predicted scoreline of 18 to 44
+
+Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
+## Projected Performances - Club Model
+
+
+<p float="left">
+<img src="plots/performances_2024-02-17-UrayasuD-Rocks-KamaishiSeawaves.png" width="99%" />
+</p>
+
+## Projected Spreads - Club Model
+
+
+<p float="left">
+<img src="plots/spreads_2024-02-17-UrayasuD-Rocks-KamaishiSeawaves.png" width="99%" />
+</p>
+
+## Projected Results - Club Model
+
+
+<p float="left">
+<img src="plots/resultbar_2024-02-17-UrayasuD-Rocks-KamaishiSeawaves.png" width="99%" />
+</p>
+
+# Player Level Predictions - Version 2
+
+
+Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
+## Prediction without Player Minutes: Urayasu D-Rocks by 18.1
+
+
+Urayasu D-Rocks by 15.0 on a neutral pitch
+
+
+## Projected Performances - Player Model
+
+
+<p float="left">
+<img src="plots/performances_plr_2024-02-17-UrayasuD-Rocks-KamaishiSeawaves.png" width="99%" />
+</p>
+
+## Projected Spreads - Player Model
+
+
+<p float="left">
+<img src="plots/spreads_plr_2024-02-17-UrayasuD-Rocks-KamaishiSeawaves.png" width="99%" />
+</p>
+
+## Projected Results - Player Model
+
+
+<p float="left">
+<img src="plots/resultbar_plr_2024-02-17-UrayasuD-Rocks-KamaishiSeawaves.png" width="99%" />
+</p>
+
+
+|   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
+|---------------:|:-------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
+|             45 | Yusuke Yamada      |             30.63 |        1 |             26.7  | Kazuma Nishikawa     |             48 |
+|             45 | Daiki Ito          |              4.59 |        2 |              8.62 | Franco Marais        |             80 |
+|             60 | Taiki Noguchi      |             10.62 |        3 |             45.8  | Syuhei Takeuchi      |             48 |
+|             58 | Dallas Tatana      |              6.09 |        4 |             18.51 | Levi Douglas         |             50 |
+|             80 | Hamish Dalzell     |             15.75 |        5 |             91.49 | Shingo Nakashima     |             66 |
+|             80 | Ben Nee Nee        |              8.5  |        6 |             54.98 | Shin Takeuchi        |             80 |
+|             80 | Sam Henwood        |              4.3  |        7 |             88.14 | Brody MacAskill      |             58 |
+|             30 | Seta Koroitamana   |             17.14 |        8 |             94.84 | Tyler Paul           |             80 |
+|             62 | Takumi Tokairin    |             25.29 |        9 |             64.12 | Ren Iinuma           |             48 |
+|             80 | Kazuki Ochi        |             26.78 |       10 |             54.27 | Yu Tamura            |             70 |
+|             80 | Ryuji Abe          |             18.03 |       11 |             24.42 | Kai Ishii            |             80 |
+|             80 | Mosese Tonga       |             15.1  |       12 |             96.05 | Samu Kerevi          |             80 |
+|             80 | Osuka Lloyd Murata |              4.76 |       13 |             45.53 | Samisoni Ahokovi Tua |             65 |
+|             48 | Syou Kataoka       |             21.91 |       14 |             66.25 | Siosifa Lisala       |             80 |
+|             30 | Ryo Kikkawa        |             21.38 |       15 |             87.36 | Takuhei Yasuda       |             80 |
+|             50 | Daisuke Musya      |              9.02 |       16 |             54.82 | Kazuki Ban           |             32 |
+|             50 | Darius Thomas      |            nan    |       17 |            nan    | Taisei Konishi       |             32 |
+|             35 | Shoichiro Inada    |             17.14 |       18 |             68.04 | Kim Ryom             |             32 |
+|             35 | Yuki Go            |            nan    |       19 |             88.05 | Yuta Kojima          |             30 |
+|             32 | Kohei Ishigaki     |             11.73 |       20 |             73.93 | Sekonaia Pole        |             22 |
+|             22 | Ryunosuke Yamada   |              8.29 |       21 |             82.64 | Wimpie van der Walt  |             14 |
+|             20 | Tomoyoshi Oikawa   |            nan    |       22 |             55.98 | Shane Gates          |             15 |
+|             18 | Atsushi Minami     |             26.67 |       23 |             66.59 | Hayden Cripps        |             10 |
+
