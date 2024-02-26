@@ -9,9 +9,9 @@ categories: "United Rugby Championship 2023" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.495, which translates to predicting Bulls to win by 0.2.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.511, which translates to predicting Lions to win by 0.4.
 
-Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 26 to 26
+Our Over/Under is 59.5 - and combined with the spread above, we have a predicted scoreline of 30 to 30
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,22 +69,22 @@ Bulls by 8.5 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player            |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:-----------------------|---------------:|
-|             66 | Gerhard Steenekamp  |             93.39 |        1 |             37.23 | Jean-Pierre Smith      |             51 |
-|             46 | Johan Grobbelaar    |             52.29 |        2 |             39.27 | Jaco Visagie           |             51 |
-|             61 | Mornay Smith        |             54.55 |        3 |             44.38 | Asenathi Ntlabakanye   |             52 |
-|             72 | Reinhardt Ludwig    |             57.82 |        4 |             40.34 | Etienne Oosthuizen     |             57 |
-|             80 | Ruan Nortje         |             58.39 |        5 |             37.82 | Reinhard Nothnagel     |             80 |
-|             80 | Marco van Staden    |             92.13 |        6 |             41.34 | Hanru Sirgel           |             57 |
-|             31 | Elrigh Louw         |             45.86 |        7 |             32.11 | Ruan Venter            |             72 |
-|             59 | Cameron Hanekom     |             50    |        8 |             35.45 | Francke Horn           |             80 |
-|             75 | Embrose Papier      |             54.9  |        9 |             47.65 | Morne van den Berg     |             59 |
-|             46 | Jaco van der Walt   |             44.79 |       10 |             31.75 | Sanele Nohamba         |             80 |
-|             80 | Kurt-Lee Arendse    |             98.85 |       11 |             35.43 | Edwill van der Merwe   |             80 |
-|             80 | David Kriel         |             51.16 |       12 |             34.96 | Marius Louw            |             72 |
-|             80 | Stedman Gans        |             51.16 |       13 |             34.03 | Henco van Wyk          |             80 |
-|             80 | Canan Moodie        |             99.69 |       14 |             27.46 | Richard Kriel          |             80 |
-|             80 | Devon Williams      |             46.67 |       15 |             30.8  | Quan Horn              |             80 |
-|             34 | Akker van der Merwe |             99.27 |       16 |            nan    | PJ Botha               |             29 |
+|             66 | Gerhard Steenekamp  |             93.19 |        1 |             37.54 | Jean-Pierre Smith      |             51 |
+|             46 | Johan Grobbelaar    |             52.03 |        2 |             39.48 | Jaco Visagie           |             51 |
+|             61 | Mornay Smith        |             54.3  |        3 |             44.8  | Asenathi Ntlabakanye   |             52 |
+|             72 | Reinhardt Ludwig    |             57.03 |        4 |             40.21 | Etienne Oosthuizen     |             57 |
+|             80 | Ruan Nortje         |             58.06 |        5 |             37.67 | Reinhard Nothnagel     |             80 |
+|             80 | Marco van Staden    |             92.06 |        6 |             41.59 | Hanru Sirgel           |             57 |
+|             31 | Elrigh Louw         |             46.14 |        7 |             32.7  | Ruan Venter            |             72 |
+|             59 | Cameron Hanekom     |             48.95 |        8 |             34.97 | Francke Horn           |             80 |
+|             75 | Embrose Papier      |             55.8  |        9 |             47.94 | Morne van den Berg     |             59 |
+|             46 | Jaco van der Walt   |             45.37 |       10 |             31.83 | Sanele Nohamba         |             80 |
+|             80 | Kurt-Lee Arendse    |             99.05 |       11 |             35.66 | Edwill van der Merwe   |             80 |
+|             80 | David Kriel         |             51.05 |       12 |             34.58 | Marius Louw            |             72 |
+|             80 | Stedman Gans        |             51.05 |       13 |             33.64 | Henco van Wyk          |             80 |
+|             80 | Canan Moodie        |             99.79 |       14 |             28.15 | Richard Kriel          |             80 |
+|             80 | Devon Williams      |             47.59 |       15 |             31.72 | Quan Horn              |             80 |
+|             34 | Akker van der Merwe |             99.26 |       16 |            nan    | PJ Botha               |             29 |
 |             14 | Simphiwe Matanzima  |            nan    |       17 |            nan    | Morgan Naude           |             29 |
 |             19 | Francois Klopper    |            nan    |       18 |            nan    | Conraad van Vuuren     |             28 |
 |              8 | Janko Swanepoel     |            nan    |       19 |            nan    | Darrien-Lane Landsberg |             23 |

@@ -9,9 +9,9 @@ categories: "Nationale 2023" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.574, which translates to predicting Narbonne to win by 2.6.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.612, which translates to predicting Narbonne to win by 4.0.
 
-Our Over/Under is 38.5 - and combined with the spread above, we have a predicted scoreline of 18 to 21
+Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 21 to 25
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Albi by 1.9 on a neutral pitch
 
 |   Away Minutes | Away Player             |   Away Percentile |   Number |   Home Percentile | Home Player            |   Home Minutes |
 |---------------:|:------------------------|------------------:|---------:|------------------:|:-----------------------|---------------:|
-|             56 | Antoine Soave           |             89.38 |        1 |             55.54 | Sylvain Abadie         |             54 |
-|             56 | Romain Maurice          |             87.34 |        2 |             24.59 | Clément Esteriola      |             65 |
-|             59 | Jean Baptiste De Clercq |             77.14 |        3 |             64.29 | Jamie Hagan            |             54 |
-|             80 | Simon Meka              |             91.84 |        4 |             74.71 | Marius Antonescu       |             80 |
-|             80 | Dion Evrard Oulai       |             24.14 |        5 |             25.98 | Dennis Visser          |             63 |
-|             56 | Vincent Calas           |             55.51 |        6 |             69.99 | Luke Nakobukobua       |             50 |
-|             80 | Pierre Roussel          |             42.18 |        7 |             46.69 | Baptiste Abescat-Leroy |             80 |
-|             56 | Guillem Calmon          |             33.1  |        8 |             32.39 | Charles Malet          |             80 |
-|             70 | Gilen Queheille         |             82.16 |        9 |             19.22 | Pierrick Nova          |             70 |
-|             70 | Benjamin Pehau          |             83.65 |       10 |              4.27 | Gilles Bosch           |             67 |
-|             80 | Enzo Marzocca           |             81.03 |       11 |             67.3  | Ambrose Curtis         |             80 |
-|             56 | Gabriel Aviragnet       |             65.04 |       12 |             98.84 | Peter Betham           |             50 |
-|             80 | Baptiste Couchinave     |             92.45 |       13 |             46.23 | Pierre Nueno           |             80 |
-|             80 | Kamilieni Raivono       |             50.21 |       14 |             23.79 | Pierre-Hugo Ducom      |             80 |
-|             80 | Téo Dospital            |             27.36 |       15 |             60.92 | Paul Auradou           |             80 |
-|             24 | Thibaud Sebire          |             56.16 |       16 |             64.2  | Théo Castinel          |             26 |
-|             24 | Arthur Castant          |             87.71 |       17 |             69.91 | Christophe David       |             15 |
-|             21 | Dimitri Tchapnga        |             86.16 |       18 |             58.21 | Levi Tikoipau          |             26 |
-|             24 | Mohsen Essid            |             65.29 |       19 |             13.68 | Leva Fifita            |             17 |
-|             24 | Camille Jarreau         |             72.77 |       20 |             44.18 | Thibault Clauzade      |             30 |
-|             10 | Théo Vidal              |             95.49 |       21 |             52.75 | Pablo Barbaste         |             10 |
-|             10 | James Haydn Tedder      |              3.55 |       22 |             26.3  | Tom Chauvet            |             13 |
-|             24 | Jarrod Poi              |             33.33 |       23 |             19.08 | Sébastien Giorgis      |             30 |
+|             56 | Antoine Soave           |             90.59 |        1 |             55.11 | Sylvain Abadie         |             54 |
+|             56 | Romain Maurice          |             87.08 |        2 |             24.35 | Clément Esteriola      |             65 |
+|             59 | Jean Baptiste De Clercq |             77.51 |        3 |             63.98 | Jamie Hagan            |             54 |
+|             80 | Simon Meka              |             92.7  |        4 |             74.42 | Marius Antonescu       |             80 |
+|             80 | Dion Evrard Oulai       |             27.65 |        5 |             26.27 | Dennis Visser          |             63 |
+|             56 | Vincent Calas           |             56.4  |        6 |             69.84 | Luke Nakobukobua       |             50 |
+|             80 | Pierre Roussel          |             42.43 |        7 |             46.98 | Baptiste Abescat-Leroy |             80 |
+|             56 | Guillem Calmon          |             32.87 |        8 |             31.7  | Charles Malet          |             80 |
+|             70 | Gilen Queheille         |             82.12 |        9 |             18.86 | Pierrick Nova          |             70 |
+|             70 | Benjamin Pehau          |             83.85 |       10 |              4.04 | Gilles Bosch           |             67 |
+|             80 | Enzo Marzocca           |             80.69 |       11 |             67.09 | Ambrose Curtis         |             80 |
+|             56 | Gabriel Aviragnet       |             65.31 |       12 |             98.84 | Peter Betham           |             50 |
+|             80 | Baptiste Couchinave     |             93.6  |       13 |             45.98 | Pierre Nueno           |             80 |
+|             80 | Kamilieni Raivono       |             53.65 |       14 |             24.34 | Pierre-Hugo Ducom      |             80 |
+|             80 | Téo Dospital            |             27.82 |       15 |             60.46 | Paul Auradou           |             80 |
+|             24 | Thibaud Sebire          |             55.91 |       16 |             64.43 | Théo Castinel          |             26 |
+|             24 | Arthur Castant          |             87.64 |       17 |             69.74 | Christophe David       |             15 |
+|             21 | Dimitri Tchapnga        |             89.34 |       18 |             58.33 | Levi Tikoipau          |             26 |
+|             24 | Mohsen Essid            |             64.29 |       19 |             11.41 | Leva Fifita            |             17 |
+|             24 | Camille Jarreau         |             73.66 |       20 |             44.55 | Thibault Clauzade      |             30 |
+|             10 | Théo Vidal              |             95.48 |       21 |             53.24 | Pablo Barbaste         |             10 |
+|             10 | James Haydn Tedder      |              3.33 |       22 |             26.6  | Tom Chauvet            |             13 |
+|             24 | Jarrod Poi              |             38.42 |       23 |             19.15 | Sébastien Giorgis      |             30 |
 

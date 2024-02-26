@@ -11,7 +11,7 @@ categories: "Pro D2 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.574, which translates to predicting Provence Rugby to win by 2.6.
 
-Our Over/Under is 34.5 - and combined with the spread above, we have a predicted scoreline of 16 to 19
+Our Over/Under is 41.5 - and combined with the spread above, we have a predicted scoreline of 20 to 22
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Provence Rugby by 4.8 on a neutral pitch
 
 |   Away Minutes | Away Player             |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:------------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             57 | Andy Bordelai           |             82.68 |        1 |             72.5  | Federico Wegrzyn      |             72 |
-|             65 | Théo Beziat             |             55.96 |        2 |             89.17 | Lucas Martin          |             68 |
-|             57 | Paga Tafili             |             90.98 |        3 |             99.11 | Tomas Francis         |             72 |
-|             80 | Anton Bresler           |             65.17 |        4 |             79.31 | Jérôme Dufour         |             57 |
-|             61 | Mattéo Desjeux          |             22.18 |        5 |             77.01 | Josh Tyrell           |             80 |
-|             49 | Juan Bautista Pedemonte |             21.09 |        6 |             70.09 | Guillaume Piazzoli    |             58 |
-|             80 | Francisco Gorrissen     |             98.22 |        7 |             54.46 | Charly Gambini        |             80 |
-|             49 | Sione Kalamafoni        |             55.63 |        8 |             76.76 | Teimana Harrison      |             70 |
-|             80 | Michael Ruru            |             91.37 |        9 |             50.98 | Arthur Coville        |             66 |
-|             80 | Maxime Lafage           |             95.5  |       10 |             84.36 | Jimmy Gopperth        |             80 |
-|             29 | Martin Alonso Munoz     |             22.01 |       11 |             15.2  | Adrien Lapegue-Lafaye |             80 |
-|             80 | Alex Arrate             |             13.7  |       12 |             83.28 | Kaveinga Finau        |             80 |
-|             80 | Sacha Valleau           |             85.48 |       13 |             42.86 | Atila Septar          |             66 |
-|             80 | Enzo Benmegal           |             47.17 |       14 |             81.34 | Sione Tui             |             80 |
-|             80 | Gwenaël Duplenne        |             98.85 |       15 |             82.76 | Enzo Selponi          |             80 |
-|             51 | Thibault Debaes         |             36.02 |       16 |             69.77 | Clément Chartier      |             23 |
-|             31 | Léon Boulier            |             26.23 |       17 |             35.68 | Malohi Suta           |             22 |
-|             31 | Joe Edwards             |             92.25 |       18 |             47.45 | Simon Tarel           |             14 |
-|             23 | Charles-Henri Berguet   |             38.66 |       19 |             41    | Eto Bainivalu         |             14 |
-|             23 | Phil Kite               |             80.71 |       20 |              3.85 | Loick Jammes          |             12 |
-|             15 | Pat Leafa               |             87.16 |       21 |             26.44 | Carl Axtens           |             10 |
-|             19 | Eric Marks              |             12.18 |       22 |             55.36 | Thomas Vernet         |              8 |
-|            nan | nan                     |            nan    |       23 |            nan    | Nicolas Toth          |              8 |
+|             57 | Andy Bordelai           |             85.04 |        1 |             72.85 | Federico Wegrzyn      |             72 |
+|             65 | Théo Beziat             |             55.54 |        2 |             87.45 | Lucas Martin          |             68 |
+|             57 | Paga Tafili             |             92.38 |        3 |             99.01 | Tomas Francis         |             72 |
+|             80 | Anton Bresler           |             69.47 |        4 |             74.08 | Jérôme Dufour         |             57 |
+|             61 | Mattéo Desjeux          |             22.12 |        5 |             77.19 | Josh Tyrell           |             80 |
+|             49 | Juan Bautista Pedemonte |             21.16 |        6 |             58.1  | Guillaume Piazzoli    |             58 |
+|             80 | Francisco Gorrissen     |             98.73 |        7 |             55.45 | Charly Gambini        |             80 |
+|             49 | Sione Kalamafoni        |             62.7  |        8 |             72.26 | Teimana Harrison      |             70 |
+|             80 | Michael Ruru            |             92.73 |        9 |             51.87 | Arthur Coville        |             66 |
+|             80 | Maxime Lafage           |             95.49 |       10 |             82.66 | Jimmy Gopperth        |             80 |
+|             29 | Martin Alonso Munoz     |             22.33 |       11 |              8.51 | Adrien Lapegue-Lafaye |             80 |
+|             80 | Alex Arrate             |             16.18 |       12 |             83.7  | Kaveinga Finau        |             80 |
+|             80 | Sacha Valleau           |             87.78 |       13 |             42.61 | Atila Septar          |             66 |
+|             80 | Enzo Benmegal           |             54.71 |       14 |             76.3  | Sione Tui             |             80 |
+|             80 | Gwenaël Duplenne        |             98.85 |       15 |             77.2  | Enzo Selponi          |             80 |
+|             51 | Thibault Debaes         |             36.1  |       16 |             44.93 | Clément Chartier      |             23 |
+|             31 | Léon Boulier            |             26.35 |       17 |             35.2  | Malohi Suta           |             22 |
+|             31 | Joe Edwards             |             91.84 |       18 |             31.24 | Simon Tarel           |             14 |
+|             23 | Charles-Henri Berguet   |             38.71 |       19 |             27.01 | Eto Bainivalu         |             14 |
+|             23 | Phil Kite               |             80.73 |       20 |              3.87 | Loick Jammes          |             12 |
+|             15 | Pat Leafa               |             89.67 |       21 |             26.56 | Carl Axtens           |             10 |
+|             19 | Eric Marks              |             12.44 |       22 |             55.02 | Thomas Vernet         |              8 |
+|            nan | nan                     |            nan    |       23 |             31.9  | Nicolas Toth          |              8 |
 

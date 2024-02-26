@@ -120,7 +120,7 @@ key: page-recents
 ## United Rugby Championship
 
 
-[2023](comp_files\United_Rugby_Championship_2023) - Prediction Accuracy: 73.8% 
+[2023](comp_files\United_Rugby_Championship_2023) - Prediction Accuracy: 76.2% 
 
 [2022](comp_files\United_Rugby_Championship_2022) - Prediction Accuracy: 70.7% 
 
@@ -201,6 +201,12 @@ key: page-recents
 [2022](comp_files\RFU_Championship_2022) - Prediction Accuracy: 74.2% 
 
 [2021](comp_files\RFU_Championship_2021) - Prediction Accuracy: 72.0% 
+## Super Rugby Americas
+
+
+[2024](comp_files\Super_Rugby_Americas_2024) - Prediction Accuracy: 100.0% 
+
+[2023](comp_files\Super_Rugby_Americas_2023) - Prediction Accuracy: 72.7% 
 ## Super Rugby Aotearoa
 
 
@@ -217,10 +223,6 @@ key: page-recents
 
 
 [2023](comp_files\Premiership_Rugby_Cup_2023) - Prediction Accuracy: 74.5% 
-## Super Rugby Americas
-
-
-[2023](comp_files\Super_Rugby_Americas_2023) - Prediction Accuracy: 72.7% 
 ## Peroni Top10
 
 
@@ -258,7 +260,7 @@ key: page-recents
 ## Nationale
 
 
-[2023](comp_files\Nationale_2023) - Prediction Accuracy: 69.7% 
+[2023](comp_files\Nationale_2023) - Prediction Accuracy: 70.5% 
 
 [2022](comp_files\Nationale_2022) - Prediction Accuracy: 68.8% 
 

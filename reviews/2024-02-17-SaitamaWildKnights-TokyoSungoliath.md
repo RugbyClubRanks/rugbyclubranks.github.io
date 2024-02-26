@@ -11,7 +11,7 @@ categories: "Japan Rugby League One 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.807, which translates to predicting Saitama Wild Knights to win by 12.9.
 
-Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 17 to 30
+Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 19 to 32
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Saitama Wild Knights by 6.2 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player       |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:------------------|---------------:|
-|             75 | Yukio Morikawa      |             90.89 |        1 |             43.75 | Craig Millar      |             52 |
-|             54 | Kosuke Horikoshi    |             66.42 |        2 |             79.27 | Atsushi Sakate    |             48 |
-|             47 | Shinnosuke Kakinaga |             82.95 |        3 |             78.57 | Taiki Fujii       |             48 |
-|             40 | Sam Jeffries        |             94.71 |        4 |             14.37 | Mark Abbott       |             68 |
-|             80 | Harry Hockings      |             98.51 |        5 |             94.14 | Lood de Jager     |             80 |
-|             80 | Kanji Shimokawa     |             68.84 |        6 |             78.8  | Shota Fukui       |             24 |
-|             80 | Sota Oketani        |             63.06 |        7 |             96.33 | Lachlan Boshier   |             80 |
-|             33 | Hendrik Tui         |             63.38 |        8 |             89.67 | Jack Cornelsen    |             80 |
-|             62 | Yutaka Nagare       |             83.53 |        9 |             92.16 | Taiki Koyama      |             80 |
-|             80 | Mikiya Takamoto     |             61.85 |       10 |             97.39 | Rikiya Matsuda    |             80 |
-|             80 | Shota Emi           |             72.43 |       11 |             94.23 | Marika Koroibete  |             68 |
-|             80 | Ryoto Nakamura      |             95.24 |       12 |             97.79 | Damian de Allende |             80 |
-|             62 | Taiga Ozaki         |             68.87 |       13 |             97.33 | Dylan Riley       |             51 |
-|             51 | Seiya Ozaki         |             91.3  |       14 |             42.24 | Tomoki Osada      |             80 |
-|             80 | Cheslin Kolbe       |            100    |       15 |             97.47 | Ryuji Noguchi     |             80 |
-|             47 | Ryuga Hashimoto     |             46.01 |       16 |             85.62 | Itsuki Onishi     |             56 |
-|             33 | Kan Nakano          |             51.61 |       17 |             93.21 | Shota Horie       |             32 |
-|             40 | Sione Lavemai       |             73.33 |       18 |             95.71 | Asaeli Ai Valu    |             32 |
-|             29 | Kotaro Matsushima   |             94.02 |       19 |             58.16 | Kyohei Yamasawa   |             29 |
-|             26 | Kienori Go          |            nan    |       20 |             39.55 | Daniel Perez      |             28 |
-|             18 | Naoto Saito         |             26.08 |       21 |             97.65 | Keisuke Uchida    |             12 |
-|             18 | Isaiah Punivai      |             36.47 |       22 |             31.49 | Liam Mitchell     |             12 |
+|             75 | Yukio Morikawa      |             90.86 |        1 |             44.27 | Craig Millar      |             52 |
+|             54 | Kosuke Horikoshi    |             66.42 |        2 |             79.52 | Atsushi Sakate    |             48 |
+|             47 | Shinnosuke Kakinaga |             82.89 |        3 |             78.85 | Taiki Fujii       |             48 |
+|             40 | Sam Jeffries        |             94.47 |        4 |             14.52 | Mark Abbott       |             68 |
+|             80 | Harry Hockings      |             98.5  |        5 |             94.01 | Lood de Jager     |             80 |
+|             80 | Kanji Shimokawa     |             68.99 |        6 |             78.62 | Shota Fukui       |             24 |
+|             80 | Sota Oketani        |             63.81 |        7 |             96.4  | Lachlan Boshier   |             80 |
+|             33 | Hendrik Tui         |             63.4  |        8 |             89.74 | Jack Cornelsen    |             80 |
+|             62 | Yutaka Nagare       |             84.09 |        9 |             91.94 | Taiki Koyama      |             80 |
+|             80 | Mikiya Takamoto     |             61.76 |       10 |             96.91 | Rikiya Matsuda    |             80 |
+|             80 | Shota Emi           |             72.38 |       11 |             94.07 | Marika Koroibete  |             68 |
+|             80 | Ryoto Nakamura      |             95.23 |       12 |             97.79 | Damian de Allende |             80 |
+|             62 | Taiga Ozaki         |             68.92 |       13 |             97.09 | Dylan Riley       |             51 |
+|             51 | Seiya Ozaki         |             91.43 |       14 |             42.12 | Tomoki Osada      |             80 |
+|             80 | Cheslin Kolbe       |            100    |       15 |             97.7  | Ryuji Noguchi     |             80 |
+|             47 | Ryuga Hashimoto     |             45.92 |       16 |             85.82 | Itsuki Onishi     |             56 |
+|             33 | Kan Nakano          |             51.52 |       17 |             93.36 | Shota Horie       |             32 |
+|             40 | Sione Lavemai       |             72.58 |       18 |             95.79 | Asaeli Ai Valu    |             32 |
+|             29 | Kotaro Matsushima   |             94.48 |       19 |             58.39 | Kyohei Yamasawa   |             29 |
+|             26 | Kienori Go          |            nan    |       20 |             39.61 | Daniel Perez      |             28 |
+|             18 | Naoto Saito         |             26.13 |       21 |             97.84 | Keisuke Uchida    |             12 |
+|             18 | Isaiah Punivai      |             36.09 |       22 |             32.03 | Liam Mitchell     |             12 |
 |              5 | William Hay         |            nan    |       23 |            nan    | nan               |            nan |
 

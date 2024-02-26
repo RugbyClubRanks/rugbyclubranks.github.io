@@ -9,9 +9,9 @@ categories: "United Rugby Championship 2023" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.527, which translates to predicting Sharks to win by 0.9.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.528, which translates to predicting Sharks to win by 1.0.
 
-Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 25 to 25
+Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 23 to 24
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Stormers by 4.7 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             11 | Alistair Vermaak     |             88.04 |        1 |             99.38 | Ox Nche             |             50 |
-|             50 | Joseph Dweba         |             62.94 |        2 |             41.83 | Fez Mbatha          |             45 |
-|             80 | Neethling Fouche     |             78.66 |        3 |             42.14 | Hanru Jacobs        |             33 |
-|             54 | Adre Smith           |             87.7  |        4 |             44.02 | Le Roux Roets       |             50 |
-|             80 | Ruben van Heerden    |             76.67 |        5 |             42.64 | Gerbrandt Grobler   |             70 |
-|             50 | Marcel Theunissen    |             57.61 |        6 |             34.58 | James Venter        |             80 |
-|             80 | Evan Roos            |             86.78 |        7 |             34.58 | Jeandre Labuschagne |             80 |
-|             80 | Hacjivah Dayimani    |             94.13 |        8 |             38.73 | Phepsi Buthelezi    |             80 |
-|             59 | Paul de Wet          |             85.69 |        9 |             84.12 | Jaden Hendrikse     |             80 |
-|             80 | Jurie Matthee        |             47.63 |       10 |             36.73 | Curwin Bosch        |             52 |
-|             80 | Leolin Zas           |             89.52 |       11 |             99.58 | Makazole Mapimpi    |             80 |
-|             80 | Sacha Mngomezulu     |             48.78 |       12 |             37.51 | Francois Venter     |             80 |
-|             52 | Suleiman Hartzenberg |             64.81 |       13 |             83.04 | Lukhanyo Am         |             80 |
-|             73 | Ben Loader           |             92.77 |       14 |             40.36 | Werner Kok          |             52 |
-|             80 | Warrick Gelant       |             99.08 |       15 |             33.33 | Aphelele Fassi      |             80 |
-|             30 | Andre-Hugo Venter    |             60    |       16 |             98.35 | Bongi Mbonambi      |             35 |
-|             48 | Sti Sithole          |             93.93 |       17 |            nan    | Ntuthuko Mchunu     |             30 |
-|             21 | Brok Harris          |             99.91 |       18 |             99.46 | Coenie Oosthuizen   |             47 |
+|             11 | Alistair Vermaak     |             87.99 |        1 |             99.37 | Ox Nche             |             50 |
+|             50 | Joseph Dweba         |             62.73 |        2 |             41.88 | Fez Mbatha          |             45 |
+|             80 | Neethling Fouche     |             78.94 |        3 |             42.56 | Hanru Jacobs        |             33 |
+|             54 | Adre Smith           |             87.33 |        4 |             43.78 | Le Roux Roets       |             50 |
+|             80 | Ruben van Heerden    |             76.96 |        5 |             42.17 | Gerbrandt Grobler   |             70 |
+|             50 | Marcel Theunissen    |             58.52 |        6 |             34.97 | James Venter        |             80 |
+|             80 | Evan Roos            |             86.98 |        7 |             34.97 | Jeandre Labuschagne |             80 |
+|             80 | Hacjivah Dayimani    |             93.71 |        8 |             38    | Phepsi Buthelezi    |             80 |
+|             59 | Paul de Wet          |             85.85 |        9 |             84.68 | Jaden Hendrikse     |             80 |
+|             80 | Jurie Matthee        |             47.74 |       10 |             36.82 | Curwin Bosch        |             52 |
+|             80 | Leolin Zas           |             89.74 |       11 |             99.68 | Makazole Mapimpi    |             80 |
+|             80 | Sacha Mngomezulu     |             48.43 |       12 |             37.02 | Francois Venter     |             80 |
+|             52 | Suleiman Hartzenberg |             65.08 |       13 |             83.35 | Lukhanyo Am         |             80 |
+|             73 | Ben Loader           |             92.7  |       14 |             40.32 | Werner Kok          |             52 |
+|             80 | Warrick Gelant       |             99.31 |       15 |             34.94 | Aphelele Fassi      |             80 |
+|             30 | Andre-Hugo Venter    |             59.78 |       16 |             98.34 | Bongi Mbonambi      |             35 |
+|             48 | Sti Sithole          |             93.73 |       17 |            nan    | Ntuthuko Mchunu     |             30 |
+|             21 | Brok Harris          |             99.91 |       18 |             99.55 | Coenie Oosthuizen   |             47 |
 |             26 | Salmaan Moerat       |            nan    |       19 |            nan    | Hyron Andrews       |             10 |
-|             30 | Ben-Jason Dixon      |             31.9  |       20 |            nan    | Vincent Tshituka    |             30 |
-|             21 | Herschel Jantjies    |             91.76 |       21 |            nan    | Bradley Davids      |              0 |
-|              7 | Angelo Davids        |             94.65 |       22 |            nan    | Siya Masuku         |             28 |
+|             30 | Ben-Jason Dixon      |             32.49 |       20 |            nan    | Vincent Tshituka    |             30 |
+|             21 | Herschel Jantjies    |             91.55 |       21 |            nan    | Bradley Davids      |              0 |
+|              7 | Angelo Davids        |             94.6  |       22 |            nan    | Siya Masuku         |             28 |
 |             28 | Wandisile Simelane   |            nan    |       23 |            nan    | Aphiwe Dyantyi      |             28 |
 

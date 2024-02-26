@@ -9,9 +9,9 @@ categories: "Nationale 2023" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.724, which translates to predicting Périgueux to win by 8.5.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.72, which translates to predicting Périgueux to win by 8.3.
 
-Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 22 to 31
+Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 21 to 29
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Périgueux by 4.3 on a neutral pitch
 
 |   Away Minutes | Away Player            |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:-----------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             62 | Johan Mees Erasmus     |             33.3  |        1 |             19.02 | Damien Lavergne    |             40 |
-|             51 | Vincent Dolier         |             58.72 |        2 |             72.29 | Louis Martin       |             11 |
-|             51 | Aleksi Tchitchiashvili |             13.66 |        3 |             55    | Anthony Pelmard    |             40 |
-|             80 | Léo Saint-Guilhem      |             73.45 |        4 |             11.26 | Madioke Konate     |             56 |
-|             55 | Baptiste Peytavi       |             71.84 |        5 |             18.85 | Jaco Willemse      |             56 |
-|             80 | Alexis Armary          |             92.86 |        6 |             19.41 | Clement Lanen      |             80 |
-|             57 | Jean Guicherd          |             65.27 |        7 |             94.02 | Afaesetiti Amosa   |             80 |
-|             55 | Julien Cantan          |             22.54 |        8 |             48.83 | Karl Lambert       |             80 |
-|             57 | Thibaut Dulucq         |             41.37 |        9 |             34.12 | Matteo Bordenave   |             40 |
-|             55 | Mathieu Berbizier      |             31.04 |       10 |             59    | Greg Hutley        |             40 |
-|             80 | Jone Tuva              |              1.89 |       11 |             82.08 | Arthur Duhau       |             80 |
-|             80 | Clement Latorre        |             46.81 |       12 |             85.37 | Fred Hickes        |             80 |
-|             80 | Savenaca Rawaca        |             67.83 |       13 |             79.09 | Cyril Couturier    |             40 |
-|             80 | Johan Paulet           |              2.31 |       14 |             29.35 | Paul Piveteau      |             80 |
-|             80 | Yon Camou              |             67.82 |       15 |             11.49 | Thibault Rabourdin |             80 |
-|             29 | Alexandre Duny         |             41.34 |       16 |             75.6  | Lucas Marijon      |             69 |
-|             29 | Florian Lamothe        |             51.38 |       17 |             56.45 | Vincent Fouillade  |             40 |
-|             25 | Léo Estaque            |             22.67 |       18 |             27.01 | Yann Caillat       |             40 |
-|             25 | Filipe Manu            |             10.8  |       19 |             79.2  | Thomas Vidal       |             40 |
-|             25 | Anthony Fuertes        |              6.16 |       20 |             25.62 | Martin Augeix      |             40 |
-|             23 | Mickael Thébault       |             66.27 |       21 |             32.55 | Enzo Hardy         |             40 |
-|             23 | Jon Abadie             |            nan    |       22 |             21.72 | Richard Fourcade   |             24 |
-|             18 | Léo Baratgin           |            nan    |       23 |             68.05 | Mathieu Pace       |             24 |
+|             62 | Johan Mees Erasmus     |             41.67 |        1 |             19    | Damien Lavergne    |             40 |
+|             51 | Vincent Dolier         |             63.84 |        2 |             72.69 | Louis Martin       |             11 |
+|             51 | Aleksi Tchitchiashvili |             16.67 |        3 |             56.09 | Anthony Pelmard    |             40 |
+|             80 | Léo Saint-Guilhem      |             77.42 |        4 |             11.52 | Madioke Konate     |             56 |
+|             55 | Baptiste Peytavi       |             73.62 |        5 |             20.05 | Jaco Willemse      |             56 |
+|             80 | Alexis Armary          |             93.12 |        6 |             25.17 | Clement Lanen      |             80 |
+|             57 | Jean Guicherd          |             71.11 |        7 |             93.97 | Afaesetiti Amosa   |             80 |
+|             55 | Julien Cantan          |             22.14 |        8 |             48.02 | Karl Lambert       |             80 |
+|             57 | Thibaut Dulucq         |             50.1  |        9 |             33.99 | Matteo Bordenave   |             40 |
+|             55 | Mathieu Berbizier      |             37.53 |       10 |             58.91 | Greg Hutley        |             40 |
+|             80 | Jone Tuva              |              2.54 |       11 |             80.46 | Arthur Duhau       |             80 |
+|             80 | Clement Latorre        |             51.92 |       12 |             85.22 | Fred Hickes        |             80 |
+|             80 | Savenaca Rawaca        |             71.71 |       13 |             79.86 | Cyril Couturier    |             40 |
+|             80 | Johan Paulet           |              2.96 |       14 |             30.05 | Paul Piveteau      |             80 |
+|             80 | Yon Camou              |             71.26 |       15 |             11.95 | Thibault Rabourdin |             80 |
+|             29 | Alexandre Duny         |             41.85 |       16 |             70.11 | Lucas Marijon      |             69 |
+|             29 | Florian Lamothe        |             50.74 |       17 |             53.43 | Vincent Fouillade  |             40 |
+|             25 | Léo Estaque            |             23.07 |       18 |             25.42 | Yann Caillat       |             40 |
+|             25 | Filipe Manu            |             13.99 |       19 |             79.3  | Thomas Vidal       |             40 |
+|             25 | Anthony Fuertes        |              5.7  |       20 |             25.72 | Martin Augeix      |             40 |
+|             23 | Mickael Thébault       |             66.4  |       21 |             28.29 | Enzo Hardy         |             40 |
+|             23 | Jon Abadie             |             53.54 |       22 |             20.62 | Richard Fourcade   |             24 |
+|             18 | Léo Baratgin           |            nan    |       23 |             67.05 | Mathieu Pace       |             24 |
 

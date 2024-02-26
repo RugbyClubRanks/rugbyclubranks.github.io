@@ -11,7 +11,7 @@ categories: "Super Rugby Americas 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.789, which translates to predicting Dogos XV to win by 12.6.
 
-Our Over/Under is 70.5 - and combined with the spread above, we have a predicted scoreline of 29 to 42
+Our Over/Under is 71.5 - and combined with the spread above, we have a predicted scoreline of 30 to 42
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Dogos XV by 13.0 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player               |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:--------------------------|---------------:|
-|             68 | Ma'ake Muti           |             15.18 |        1 |             88.84 | Santiago Pulella          |             59 |
-|             70 | Diego Fortuny         |             12.29 |        2 |             74.68 | Boris Wenger              |             47 |
-|             54 | Facundo Pomponio      |             46.79 |        3 |             78.3  | Octavio Filippa           |             53 |
-|             40 | Javon Camp-Villalovos |             15.63 |        4 |             69.54 | Lautaro Simes             |             80 |
-|             80 | Mikey Grandy          |             16.32 |        5 |             96.09 | Franco Molina             |             47 |
-|             62 | Alexander Vainikolo   |             34.21 |        6 |             45.23 | Aitor Bildosola           |             80 |
-|             80 | Aidan Christians      |             32.32 |        7 |             41.03 | Ignacio Jose Gandini      |             62 |
-|             65 | Diego Magno           |              1.41 |        8 |             72.54 | Efrain Elias              |             80 |
-|             80 | Devereaux Ferris      |              0.2  |        9 |             73.53 | Agustin Moyano            |             58 |
-|             53 | Patrick Madden        |             24.17 |       10 |             65.88 | Julian Ignacio Hernandez  |             49 |
-|             60 | Thomas Morani         |             79.04 |       11 |             71.28 | Ernesto Giudice           |             80 |
-|             80 | Aki Pulu              |             26.48 |       12 |             48.9  | Leonardo Gea Salim        |             48 |
-|             80 | Zach Hall             |             35.19 |       13 |             88.62 | Agustin Segura            |             80 |
-|             80 | Rufus McLean          |             63.21 |       14 |             42.77 | Lautaro Cipriani          |             80 |
-|             80 | Francisco Quinn       |             31.72 |       15 |             53.33 | Mateo Soler               |             80 |
-|             40 | Will Crawford         |              4.83 |       16 |             17.59 | Tomas Bartolini           |             33 |
-|             27 | John LeFevre          |             23.33 |       17 |             55.98 | Lorenzo Colidio           |             33 |
-|             26 | Clay Markoff          |            nan    |       18 |             64    | Faustino Sánchez Valarolo |             32 |
-|             20 | Watson Filikitonga    |             21.72 |       19 |             50.24 | Juan Baronio              |             31 |
-|             15 | Shawn Clark           |             35.47 |       20 |            nan    | Pedro Delgado             |             27 |
-|             18 | Tommy Clark           |             57.82 |       21 |            nan    | Nicolas Viola             |             22 |
-|             12 | Koby Baker            |            nan    |       22 |             51.31 | Valentin Cabral           |             18 |
+|             68 | Ma'ake Muti           |             14.96 |        1 |             88.89 | Santiago Pulella          |             59 |
+|             70 | Diego Fortuny         |             12.36 |        2 |             74.91 | Boris Wenger              |             47 |
+|             54 | Facundo Pomponio      |             47.04 |        3 |             78.58 | Octavio Filippa           |             53 |
+|             40 | Javon Camp-Villalovos |             15.9  |        4 |             68.43 | Lautaro Simes             |             80 |
+|             80 | Mikey Grandy          |             16.59 |        5 |             96.43 | Franco Molina             |             47 |
+|             62 | Alexander Vainikolo   |             34.6  |        6 |             45.61 | Aitor Bildosola           |             80 |
+|             80 | Aidan Christians      |             32.91 |        7 |             41.27 | Ignacio Jose Gandini      |             62 |
+|             65 | Diego Magno           |              1.4  |        8 |             72.73 | Efrain Elias              |             80 |
+|             80 | Devereaux Ferris      |              0.2  |        9 |             73.48 | Agustin Moyano            |             58 |
+|             53 | Patrick Madden        |             24.23 |       10 |             65.56 | Julian Ignacio Hernandez  |             49 |
+|             60 | Thomas Morani         |             79.26 |       11 |             71.22 | Ernesto Giudice           |             80 |
+|             80 | Aki Pulu              |             26.31 |       12 |             48.54 | Leonardo Gea Salim        |             48 |
+|             80 | Zach Hall             |             34.81 |       13 |             88.94 | Agustin Segura            |             80 |
+|             80 | Rufus McLean          |             62.65 |       14 |             42.65 | Lautaro Cipriani          |             80 |
+|             80 | Francisco Quinn       |             33.1  |       15 |             54.02 | Mateo Soler               |             80 |
+|             40 | Will Crawford         |              4.72 |       16 |             17.29 | Tomas Bartolini           |             33 |
+|             27 | John LeFevre          |             23.58 |       17 |             55.3  | Lorenzo Colidio           |             33 |
+|             26 | Clay Markoff          |            nan    |       18 |             64.26 | Faustino Sánchez Valarolo |             32 |
+|             20 | Watson Filikitonga    |             21.77 |       19 |             50.36 | Juan Baronio              |             31 |
+|             15 | Shawn Clark           |             35.77 |       20 |            nan    | Pedro Delgado             |             27 |
+|             18 | Tommy Clark           |             58.73 |       21 |            nan    | Nicolas Viola             |             22 |
+|             12 | Koby Baker            |            nan    |       22 |             51.53 | Valentin Cabral           |             18 |
 |             10 | Jackson Zabierek      |            nan    |       23 |            nan    | Juan Aguirre              |             21 |
 

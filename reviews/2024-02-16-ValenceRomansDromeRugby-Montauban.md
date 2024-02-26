@@ -69,27 +69,27 @@ Valence Romans Drome Rugby by 0.7 on a neutral pitch
 
 |   Away Minutes | Away Player             |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:------------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             41 | Lucas Seyrolle          |             12.05 |        1 |             70.8  | Andrea Pontanier    |             28 |
-|             57 | Ru-Hann Greyling        |             22.94 |        2 |              3.3  | Cyril Deligny       |             51 |
-|             41 | Mirian Burduli          |              6.43 |        3 |             27.05 | Gareth Milasinovich |             56 |
-|             80 | Tjuee Uanivi            |              8.97 |        4 |             28.74 | Ryan McCauley       |             68 |
-|             51 | Lewis Bean              |             34.14 |        5 |             51.15 | Yassine Maamry      |             57 |
-|             80 | Frank Bradshaw          |             88.67 |        6 |             32.21 | Axel Bruchet        |             69 |
-|             41 | Stéphane Munoz          |             44.39 |        7 |             80.48 | Thembelani Bholi    |             80 |
-|             41 | Corentin Coularis       |             26.06 |        8 |             83.33 | Ioane Iashagashvili |             80 |
-|             55 | Alexis Bernadet         |             65.49 |        9 |             52.35 | Léopold Dupas       |             50 |
-|             57 | Jérôme Bosviel          |             85.78 |       10 |             19.19 | Lucas Meret         |             80 |
-|             80 | Yvan Reilhac            |             53.88 |       11 |             81.55 | Mosese Mawalu       |             80 |
-|             80 | Dan Goggin              |             79.79 |       12 |             10.34 | Mathieu Guillomot   |             65 |
-|             80 | Simon Renda             |             68.29 |       13 |             81.53 | Ben Neiceru         |             80 |
-|             80 | Josua Vici              |             28.41 |       14 |             94.55 | Adam Vargas         |             80 |
-|             80 | Semesa Rokoduguni       |             88.05 |       15 |             22.3  | George Worth        |             80 |
-|             39 | Malino Vanai            |              1.88 |       16 |             26.61 | Anthony Aléo        |             52 |
-|             39 | Tietie Tuimauga         |             62.59 |       17 |             82.94 | Joris Moura         |             30 |
-|             39 | Frédéric Quercy         |              4.2  |       18 |             69.17 | Dorian Marco Pena   |             29 |
-|             39 | Taumua Lui Sanft Naeata |            nan    |       19 |             23.04 | Chris Talakai       |             24 |
-|             29 | Dimitri Vaotoa          |             34.02 |       20 |             71.15 | Florian Goumat      |             23 |
-|             25 | Shaun Venter            |              5.69 |       21 |             69.57 | Anatole Pauvert     |             15 |
-|             23 | Thomas Fortunel         |             21.33 |       22 |              2.83 | Éloi Massot         |             11 |
-|             23 | Kevin Firmin            |              6.24 |       23 |             86.55 | Darrell Dyer        |             12 |
+|             41 | Lucas Seyrolle          |             12.19 |        1 |             70.88 | Andrea Pontanier    |             28 |
+|             57 | Ru-Hann Greyling        |             23.25 |        2 |              2.77 | Cyril Deligny       |             51 |
+|             41 | Mirian Burduli          |              6.45 |        3 |             26.88 | Gareth Milasinovich |             56 |
+|             80 | Tjuee Uanivi            |              6.91 |        4 |             29.15 | Ryan McCauley       |             68 |
+|             51 | Lewis Bean              |             27.53 |        5 |             50.81 | Yassine Maamry      |             57 |
+|             80 | Frank Bradshaw          |             88.78 |        6 |             32.8  | Axel Bruchet        |             69 |
+|             41 | Stéphane Munoz          |             44.76 |        7 |             80.63 | Thembelani Bholi    |             80 |
+|             41 | Corentin Coularis       |             25.87 |        8 |             82.98 | Ioane Iashagashvili |             80 |
+|             55 | Alexis Bernadet         |             65.82 |        9 |             50.88 | Léopold Dupas       |             50 |
+|             57 | Jérôme Bosviel          |             81.47 |       10 |             19.71 | Lucas Meret         |             80 |
+|             80 | Yvan Reilhac            |             47.09 |       11 |             81.48 | Mosese Mawalu       |             80 |
+|             80 | Dan Goggin              |             80.09 |       12 |             10.24 | Mathieu Guillomot   |             65 |
+|             80 | Simon Renda             |             61.82 |       13 |             82.07 | Ben Neiceru         |             80 |
+|             80 | Josua Vici              |             29.1  |       14 |             94.39 | Adam Vargas         |             80 |
+|             80 | Semesa Rokoduguni       |             88.68 |       15 |             22.53 | George Worth        |             80 |
+|             39 | Malino Vanai            |              0.99 |       16 |             26.43 | Anthony Aléo        |             52 |
+|             39 | Tietie Tuimauga         |             55.56 |       17 |             80.29 | Joris Moura         |             30 |
+|             39 | Frédéric Quercy         |              4.2  |       18 |             68.82 | Dorian Marco Pena   |             29 |
+|             39 | Taumua Lui Sanft Naeata |             12.7  |       19 |             23.3  | Chris Talakai       |             24 |
+|             29 | Dimitri Vaotoa          |             34.45 |       20 |             69.7  | Florian Goumat      |             23 |
+|             25 | Shaun Venter            |              4.91 |       21 |             69.5  | Anatole Pauvert     |             15 |
+|             23 | Thomas Fortunel         |             21.38 |       22 |              2.86 | Éloi Massot         |             11 |
+|             23 | Kevin Firmin            |              6.27 |       23 |             85.6  | Darrell Dyer        |             12 |
 

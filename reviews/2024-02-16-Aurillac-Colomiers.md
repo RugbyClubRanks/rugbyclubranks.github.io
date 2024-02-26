@@ -11,7 +11,7 @@ categories: "Pro D2 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.571, which translates to predicting Aurillac to win by 2.5.
 
-Our Over/Under is 40.5 - and combined with the spread above, we have a predicted scoreline of 19 to 21
+Our Over/Under is 37.5 - and combined with the spread above, we have a predicted scoreline of 17 to 20
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Colomiers by 0.8 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             55 | Hugo Djehi            |             74.55 |        1 |             11.61 | Robert Rodgers        |             62 |
-|             55 | Thomas Larrieu        |             26.06 |        2 |             41.47 | Ronan Loughnane       |             51 |
-|             55 | Hugo Pirlet           |             64.55 |        3 |             64.82 | Giorgi Kartvelishvili |             67 |
-|             59 | Jean Thomas           |             56.09 |        4 |             81.95 | Eoghan Masterson      |             68 |
-|             80 | Janse Roux            |             56.67 |        5 |             79.08 | Cam Dodson            |             80 |
-|             47 | Joseva Tamani         |             70.83 |        6 |             81.01 | Heath Backhouse       |             57 |
-|             80 | Aldric Lescure        |             91.61 |        7 |             72.61 | Hugo Huurman          |             80 |
-|             47 | Jorick Dastugue       |             61.97 |        8 |             46.48 | Didier Tison          |             57 |
-|             59 | Ugo Seguela           |             59.22 |        9 |             26.47 | David Delarue         |             71 |
-|             80 | Brett Herron          |              1.18 |       10 |             39.1  | Antoine Aucagne       |             80 |
-|             80 | Farell Delourmel      |             42.35 |       11 |             73.38 | AJ Coertzen           |             80 |
-|             59 | Paul Pimienta         |             47.97 |       12 |             71.78 | Ofa Manuofetoa        |             80 |
-|             80 | Martin Dulon          |             13.82 |       13 |             48.2  | Hugo Bastard          |             68 |
-|             80 | Vincent Pinto         |             85.01 |       14 |             11.01 | Simeli Yabaki         |             80 |
-|             80 | Thomas Girard         |             45.52 |       15 |             16.78 | Marc Palmier          |             80 |
-|             33 | Anthony Coletta       |             37.46 |       16 |             53.48 | Irakli Mtchedlidze    |             29 |
-|             33 | Jeremy Bechu          |             38.97 |       17 |             10.09 | Latuka Maituku        |             23 |
-|             25 | Pierre-Samuel Pacheco |             52.26 |       18 |             13.01 | Théo Cambon           |             23 |
-|             25 | Marco Fepulea'i       |             22.05 |       19 |             12.68 | Jean-Jacques Gymael   |             18 |
-|             25 | Andrew Ready          |             23.3  |       20 |             28.57 | Tim Daniel-Meissen    |             13 |
-|             21 | Alexandre Manukula    |             54.48 |       21 |             54.94 | Martial Rolland       |             12 |
-|             21 | Edoardo Gori          |             89.8  |       22 |             64.99 | Juun Pieters          |             12 |
-|             21 | Dorian Laborde        |             62.95 |       23 |            nan    | Leo Salvan            |              9 |
+|             55 | Hugo Djehi            |             76.97 |        1 |             12.81 | Robert Rodgers        |             62 |
+|             55 | Thomas Larrieu        |             30.44 |        2 |             41.51 | Ronan Loughnane       |             51 |
+|             55 | Hugo Pirlet           |             68.01 |        3 |             64.78 | Giorgi Kartvelishvili |             67 |
+|             59 | Jean Thomas           |             55.41 |        4 |             82.49 | Eoghan Masterson      |             68 |
+|             80 | Janse Roux            |             59.1  |        5 |             80.18 | Cam Dodson            |             80 |
+|             47 | Joseva Tamani         |             71.22 |        6 |             82.12 | Heath Backhouse       |             57 |
+|             80 | Aldric Lescure        |             92.59 |        7 |             72.91 | Hugo Huurman          |             80 |
+|             47 | Jorick Dastugue       |             61.31 |        8 |             47.94 | Didier Tison          |             57 |
+|             59 | Ugo Seguela           |             64.24 |        9 |             27.11 | David Delarue         |             71 |
+|             80 | Brett Herron          |              1.43 |       10 |             40.86 | Antoine Aucagne       |             80 |
+|             80 | Farell Delourmel      |             42.22 |       11 |             74.29 | AJ Coertzen           |             80 |
+|             59 | Paul Pimienta         |             52.85 |       12 |             72.53 | Ofa Manuofetoa        |             80 |
+|             80 | Martin Dulon          |             15.72 |       13 |             50.06 | Hugo Bastard          |             68 |
+|             80 | Vincent Pinto         |             86.88 |       14 |             11.01 | Simeli Yabaki         |             80 |
+|             80 | Thomas Girard         |             53.33 |       15 |             19.08 | Marc Palmier          |             80 |
+|             33 | Anthony Coletta       |             42.54 |       16 |             53.41 | Irakli Mtchedlidze    |             29 |
+|             33 | Jeremy Bechu          |             44.99 |       17 |             10.26 | Latuka Maituku        |             23 |
+|             25 | Pierre-Samuel Pacheco |             52.59 |       18 |             13.33 | Théo Cambon           |             23 |
+|             25 | Marco Fepulea'i       |             22.13 |       19 |             12.9  | Jean-Jacques Gymael   |             18 |
+|             25 | Andrew Ready          |             23.62 |       20 |             28.67 | Tim Daniel-Meissen    |             13 |
+|             21 | Alexandre Manukula    |             53.92 |       21 |             54.38 | Martial Rolland       |             12 |
+|             21 | Edoardo Gori          |             89.59 |       22 |             67.72 | Juun Pieters          |             12 |
+|             21 | Dorian Laborde        |             63.21 |       23 |            nan    | Leo Salvan            |              9 |
 

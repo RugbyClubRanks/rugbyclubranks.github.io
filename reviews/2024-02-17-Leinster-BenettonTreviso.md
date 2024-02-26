@@ -9,9 +9,9 @@ categories: "United Rugby Championship 2023" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.848, which translates to predicting Leinster to win by 15.2.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.847, which translates to predicting Leinster to win by 15.2.
 
-Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 19 to 34
+Our Over/Under is 61.5 - and combined with the spread above, we have a predicted scoreline of 23 to 38
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Leinster by 3.5 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             80 | Thomas Gallo        |             91.34 |        1 |             54.06 | Jack Boyle         |             47 |
-|             47 | Siua Maile          |              2.02 |        2 |             54.13 | Lee Barron         |             47 |
-|             51 | Tiziano Pasquali    |             35.71 |        3 |             54.06 | Thomas Clarkson    |             47 |
-|             80 | Gideon Koegelenberg |             35.86 |        4 |             95.17 | Ross Molony        |             80 |
-|             80 | Eli Snyman          |             82.18 |        5 |             78.74 | Jason Jenkins      |             67 |
-|             47 | Giovanni Pettinelli |             28.86 |        6 |             51.84 | Will Connors       |             59 |
-|             72 | Toa Halafihi        |             81.74 |        7 |             54.04 | Scott Penny        |             80 |
-|             51 | Henry Time-Stowers  |             37.32 |        8 |             54.93 | Max Deegan         |             80 |
-|             56 | Andy Uren           |             19.02 |        9 |             99.02 | Luke McGrath       |             59 |
-|             64 | Tomas Albornoz      |             82.23 |       10 |             96.45 | Ross Byrne         |             70 |
-|             80 | Onisi Ratave        |             33.23 |       11 |             54.09 | Rob Russell        |             80 |
-|             70 | Marco Zanon         |             69.8  |       12 |             53.02 | Jamie Osborne      |             80 |
-|             80 | Malakai Fekitoa     |             83.16 |       13 |             53.02 | Liam Turner        |             80 |
-|             80 | Ignacio Mendy       |             28.93 |       14 |             53.67 | Tommy O'Brien      |             49 |
-|             80 | Jacob Umaga         |             28.28 |       15 |             50.34 | Henry McErlean     |             80 |
-|             33 | Giacomo Nicotera    |             98.17 |       16 |            nan    | John McKee         |             33 |
-|              8 | Federico Zani       |             14.37 |       17 |            nan    | Ed Byrne           |             33 |
-|             29 | Filippo Alongi      |             19.91 |       18 |             95.36 | Michael Ala'alatoa |             33 |
+|             80 | Thomas Gallo        |             91.22 |        1 |             53.9  | Jack Boyle         |             47 |
+|             47 | Siua Maile          |              2.03 |        2 |             53.69 | Lee Barron         |             47 |
+|             51 | Tiziano Pasquali    |             36.02 |        3 |             53.9  | Thomas Clarkson    |             47 |
+|             80 | Gideon Koegelenberg |             35.94 |        4 |             95.05 | Ross Molony        |             80 |
+|             80 | Eli Snyman          |             81.8  |        5 |             78.92 | Jason Jenkins      |             67 |
+|             47 | Giovanni Pettinelli |             28.89 |        6 |             52.28 | Will Connors       |             59 |
+|             72 | Toa Halafihi        |             81.8  |        7 |             55.03 | Scott Penny        |             80 |
+|             51 | Henry Time-Stowers  |             37.06 |        8 |             54.08 | Max Deegan         |             80 |
+|             56 | Andy Uren           |             19.06 |        9 |             98.82 | Luke McGrath       |             59 |
+|             64 | Tomas Albornoz      |             80.76 |       10 |             95.96 | Ross Byrne         |             70 |
+|             80 | Onisi Ratave        |             33.76 |       11 |             53.44 | Rob Russell        |             80 |
+|             70 | Marco Zanon         |             69.73 |       12 |             53.03 | Jamie Osborne      |             80 |
+|             80 | Malakai Fekitoa     |             83.59 |       13 |             53.03 | Liam Turner        |             80 |
+|             80 | Ignacio Mendy       |             29.63 |       14 |             53.12 | Tommy O'Brien      |             49 |
+|             80 | Jacob Umaga         |             28.97 |       15 |             51.03 | Henry McErlean     |             80 |
+|             33 | Giacomo Nicotera    |             98.15 |       16 |            nan    | John McKee         |             33 |
+|              8 | Federico Zani       |             14.43 |       17 |            nan    | Ed Byrne           |             33 |
+|             29 | Filippo Alongi      |             19.8  |       18 |             95.34 | Michael Ala'alatoa |             33 |
 |             29 | Riccardo Favretto   |            nan    |       19 |            nan    | Brian Deeny        |             13 |
-|             33 | Alessandro Izekor   |             72.4  |       20 |            nan    | Rhys Ruddock       |             21 |
-|             24 | Alessandro Garbisi  |             78.63 |       21 |            nan    | Ben Murphy         |             21 |
+|             33 | Alessandro Izekor   |             72.7  |       20 |            nan    | Rhys Ruddock       |             21 |
+|             24 | Alessandro Garbisi  |             78.19 |       21 |            nan    | Ben Murphy         |             21 |
 |             16 | Leonardo Marin      |            nan    |       22 |            nan    | Sam Prendergast    |             10 |
 |             10 | Filippo Drago       |            nan    |       23 |            nan    | Ben Brownlee       |             31 |
 

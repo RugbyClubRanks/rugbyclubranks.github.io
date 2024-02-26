@@ -11,7 +11,7 @@ categories: "Top 14 Orange 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.549, which translates to predicting Bayonne to win by 1.7.
 
-Our Over/Under is 41.5 - and combined with the spread above, we have a predicted scoreline of 20 to 21
+Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 21 to 22
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Bayonne by 1.1 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             52 | Giorgi Beria         |             58.66 |        1 |             54.37 | Matis Perchaud        |             61 |
-|             61 | Yohan Beheregaray    |             29.72 |        2 |             13.58 | Vincent Giudicelli    |             52 |
-|             52 | Rabah Slimani        |             91.07 |        3 |             78.75 | Luke Tagi             |             61 |
-|             52 | Thibaud Lanen        |             83.22 |        4 |             96.9  | Denis Marchois        |             52 |
-|             80 | Rob Simmons          |             96.32 |        5 |             44.25 | Thomas Ceyte          |             80 |
-|             23 | Killian Tixeront     |             76.08 |        6 |             95.38 | Remi Bourdeau         |             68 |
-|             64 | Marcos Kremer        |             85.73 |        7 |             87.51 | Arthur Iturria        |             64 |
-|             80 | Fritz Lee            |             92.49 |        8 |             81.22 | Uzair Cassiem         |             69 |
-|             80 | Baptiste Jauneau     |             51.76 |        9 |             92.55 | Maxime Machenaud      |             80 |
-|             80 | Benjamin Urdapilleta |             91.71 |       10 |             95.26 | Camille Lopez         |             80 |
-|             74 | Alivereti Raka       |             36.27 |       11 |             88.57 | Remy Baget            |             80 |
-|             80 | Pierre Fouyssac      |             31.01 |       12 |             52.73 | Federico Mori         |             80 |
-|             80 | Alex Newsome         |             82.93 |       13 |             32.75 | Guillaume Martocq     |             80 |
-|             67 | Joris Jurand         |             79.87 |       14 |             39.73 | Arnaud Erbinartegaray |             80 |
-|             80 | Thomas Roziere       |             40.69 |       15 |             15.86 | Cheikh Tiberghien     |             80 |
-|             19 | Robin Couly          |            nan    |       16 |             90.64 | Facundo Bosch         |             28 |
-|             28 | Daniel Bibi Biziwu   |            nan    |       17 |             53.3  | Swan Cormenier        |             19 |
-|             28 | Tomas Lavanini       |             94.25 |       18 |              7.13 | Manuel Leindekar      |             28 |
-|             16 | Peceli Yato          |             42.6  |       19 |             90.45 | Baptiste Heguy        |             39 |
-|             57 | Lucas Dessaigne      |            nan    |       20 |             60.98 | Gela Aprasidze        |              0 |
-|              0 | Theo Giral           |            nan    |       21 |             45.5  | Thomas Dolhagaray     |              0 |
+|             52 | Giorgi Beria         |             45.43 |        1 |             58.24 | Matis Perchaud        |             61 |
+|             61 | Yohan Beheregaray    |             29.89 |        2 |             13.84 | Vincent Giudicelli    |             52 |
+|             52 | Rabah Slimani        |             90.95 |        3 |             79.84 | Luke Tagi             |             61 |
+|             52 | Thibaud Lanen        |             82.83 |        4 |             97    | Denis Marchois        |             52 |
+|             80 | Rob Simmons          |             94.93 |        5 |             47.12 | Thomas Ceyte          |             80 |
+|             23 | Killian Tixeront     |             75.77 |        6 |             95.45 | Remi Bourdeau         |             68 |
+|             64 | Marcos Kremer        |             80.32 |        7 |             87.72 | Arthur Iturria        |             64 |
+|             80 | Fritz Lee            |             91.14 |        8 |             80.89 | Uzair Cassiem         |             69 |
+|             80 | Baptiste Jauneau     |             52.46 |        9 |             92.93 | Maxime Machenaud      |             80 |
+|             80 | Benjamin Urdapilleta |             87.89 |       10 |             94.54 | Camille Lopez         |             80 |
+|             74 | Alivereti Raka       |             21.48 |       11 |             89.84 | Remy Baget            |             80 |
+|             80 | Pierre Fouyssac      |             20.61 |       12 |             62.17 | Federico Mori         |             80 |
+|             80 | Alex Newsome         |             76.78 |       13 |             37.37 | Guillaume Martocq     |             80 |
+|             67 | Joris Jurand         |             80.21 |       14 |             43.31 | Arnaud Erbinartegaray |             80 |
+|             80 | Thomas Roziere       |             41.84 |       15 |             18.16 | Cheikh Tiberghien     |             80 |
+|             19 | Robin Couly          |            nan    |       16 |             91.33 | Facundo Bosch         |             28 |
+|             28 | Daniel Bibi Biziwu   |            nan    |       17 |             53.23 | Swan Cormenier        |             19 |
+|             28 | Tomas Lavanini       |             92.74 |       18 |              9.56 | Manuel Leindekar      |             28 |
+|             16 | Peceli Yato          |             42.86 |       19 |             91.53 | Baptiste Heguy        |             39 |
+|             57 | Lucas Dessaigne      |            nan    |       20 |             61.1  | Gela Aprasidze        |              0 |
+|              0 | Theo Giral           |            nan    |       21 |             49.88 | Thomas Dolhagaray     |              0 |
 |             19 | Bautista Delguy      |            nan    |       22 |            nan    | Aurelien Callandret   |              0 |
 |             28 | Cristian Ojovan      |            nan    |       23 |            nan    | Tevita Tatafu         |             19 |
 

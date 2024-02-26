@@ -9,9 +9,9 @@ categories: "Nationale 2023" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.578, which translates to predicting Carcassonne to win by 2.8.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.625, which translates to predicting Carcassonne to win by 4.5.
 
-Our Over/Under is 29.5 - and combined with the spread above, we have a predicted scoreline of 14 to 16
+Our Over/Under is 27.5 - and combined with the spread above, we have a predicted scoreline of 12 to 16
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Nice by 0.0 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             55 | Jules Martinez       |              2.68 |        1 |             92.41 | Andrei Ursache        |             62 |
-|             55 | Pierre Strippoli     |              8.26 |        2 |             55.23 | Raphael Carbou        |             62 |
-|             55 | Nicolas Ciancio      |              9.91 |        3 |             78.04 | Fabien Lorenzon       |             55 |
-|             77 | Tom Murday           |             99.89 |        4 |             21.26 | Romain Manchia        |             80 |
-|             59 | Martin Freytes       |             47.13 |        5 |             28.85 | Clément Fontaine      |             80 |
-|             80 | Louis Suaud          |             97.17 |        6 |             32    | Corentin Bousquet     |             55 |
-|             80 | Arthur Vignolles     |             68.73 |        7 |             65.16 | Romain Guyot          |             62 |
-|             60 | Laijiasa Bolenaivalu |             91.31 |        8 |             68.31 | Etienne Herjean       |             74 |
-|             76 | Jules Solinas        |             87.06 |        9 |             21.96 | Gaetan Pichon         |             80 |
-|             80 | Romain Riguet        |             82.7  |       10 |             33.41 | Enahemo Artaud        |             80 |
-|             80 | Simon Delas          |             93.4  |       11 |             80.08 | Léo Darrelatour       |             80 |
-|             71 | Baptiste Lafond      |              1.63 |       12 |             14.63 | Jordan Puletua        |             64 |
-|             80 | Luca Cutayar         |              9.87 |       13 |             63.53 | Pierre Aguillon       |             80 |
-|             80 | Andrzej Charlat      |             97.38 |       14 |             26    | Sakiusa Bureitakiyaca |             80 |
-|             80 | David Odiete         |             89.2  |       15 |             68.97 | Maxime Gianet         |             71 |
-|             25 | Sunia Vola           |             84.82 |       16 |             49.38 | Florent Lorenzon      |             18 |
-|             25 | Sione Anga'aelangi   |             85.14 |       17 |             71.38 | Luka Petriashvili     |             18 |
-|             25 | Luvuyo Pupuma        |             59.38 |       18 |              3.21 | Vakhtangi Akhobadze   |             25 |
-|              3 | Louis Vincent        |             16.58 |       19 |             65.69 | Shaun Adendorff       |             25 |
-|             21 | Thibault Rey         |              3.56 |       20 |             36.83 | Valentin Sese         |             18 |
-|             20 | Bastien Berenguel    |             32.53 |       21 |             50.94 | Ferdinand Dreno       |              6 |
-|              4 | Corentin Penc'hoat   |             73.1  |       22 |             52.85 | Tutuila Vaea          |             16 |
-|              9 | Alban Conduche       |              5.34 |       23 |             37.01 | Damien Añon           |              9 |
+|             55 | Jules Martinez       |              3.76 |        1 |             91.67 | Andrei Ursache        |             62 |
+|             55 | Pierre Strippoli     |             12.55 |        2 |             50    | Raphael Carbou        |             62 |
+|             55 | Nicolas Ciancio      |              9.77 |        3 |             78.32 | Fabien Lorenzon       |             55 |
+|             77 | Tom Murday           |             99.88 |        4 |             18.66 | Romain Manchia        |             80 |
+|             59 | Martin Freytes       |             57.37 |        5 |             26.96 | Clément Fontaine      |             80 |
+|             80 | Louis Suaud          |             97.46 |        6 |             32.59 | Corentin Bousquet     |             55 |
+|             80 | Arthur Vignolles     |             75.45 |        7 |             65.29 | Romain Guyot          |             62 |
+|             60 | Laijiasa Bolenaivalu |             93.01 |        8 |             68.78 | Etienne Herjean       |             74 |
+|             76 | Jules Solinas        |             90.18 |        9 |             20.04 | Gaetan Pichon         |             80 |
+|             80 | Romain Riguet        |             84.32 |       10 |             28.74 | Enahemo Artaud        |             80 |
+|             80 | Simon Delas          |             94.5  |       11 |             78.73 | Léo Darrelatour       |             80 |
+|             71 | Baptiste Lafond      |              2.21 |       12 |             14.32 | Jordan Puletua        |             64 |
+|             80 | Luca Cutayar         |             12.34 |       13 |             63.8  | Pierre Aguillon       |             80 |
+|             80 | Andrzej Charlat      |             97.57 |       14 |             26.56 | Sakiusa Bureitakiyaca |             80 |
+|             80 | David Odiete         |             92.87 |       15 |             68.51 | Maxime Gianet         |             71 |
+|             25 | Sunia Vola           |             84.77 |       16 |             49.46 | Florent Lorenzon      |             18 |
+|             25 | Sione Anga'aelangi   |             85.42 |       17 |             71.4  | Luka Petriashvili     |             18 |
+|             25 | Luvuyo Pupuma        |             74.28 |       18 |              3.23 | Vakhtangi Akhobadze   |             25 |
+|              3 | Louis Vincent        |             16.93 |       19 |             60.14 | Shaun Adendorff       |             25 |
+|             21 | Thibault Rey         |              5.07 |       20 |             37.25 | Valentin Sese         |             18 |
+|             20 | Bastien Berenguel    |             51.22 |       21 |             49.88 | Ferdinand Dreno       |              6 |
+|              4 | Corentin Penc'hoat   |             73.33 |       22 |             47.03 | Tutuila Vaea          |             16 |
+|              9 | Alban Conduche       |              5.36 |       23 |             33.02 | Damien Añon           |              9 |
 

@@ -11,7 +11,7 @@ categories: "Pro D2 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.631, which translates to predicting Dax to win by 4.7.
 
-Our Over/Under is 42.5 - and combined with the spread above, we have a predicted scoreline of 19 to 23
+Our Over/Under is 41.5 - and combined with the spread above, we have a predicted scoreline of 18 to 23
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Dax by 2.9 on a neutral pitch
 
 |   Away Minutes | Away Player            |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:-----------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             48 | Luca Tabarot           |             60.71 |        1 |             48.39 | Asa Faitotoa          |             51 |
-|             48 | Patxi Bidart           |             43.67 |        2 |             49.72 | Maxime Delonca        |             51 |
-|             52 | Yassine Boutemane      |              6.61 |        3 |             16.25 | Nephi Leatigaga       |             51 |
-|             48 | Matt Beukeboom         |             18.39 |        4 |             51.72 | Josh Furno            |             80 |
-|             80 | Matthew Dalton         |              7.01 |        5 |             71.49 | Mat Luamanu           |             56 |
-|             80 | Gautier Gibouin        |              4.62 |        6 |             24.55 | Jean-Baptiste Barrère |             52 |
-|             61 | Hubert Texier          |             41.55 |        7 |             26.86 | Ratu Nacika           |             80 |
-|             80 | Maxence Lemardelet     |             27    |        8 |             87.09 | Genesis Mamea Lemalu  |             80 |
-|             48 | Manu Saubusse          |             50.59 |        9 |             72.75 | Sylvère Reteau        |             48 |
-|             44 | Ben Botica             |             71.33 |       10 |             63.74 | Hugo Cerisier         |             56 |
-|             80 | Marvin Lestremau       |             31.34 |       11 |             69.29 | Jope Naceava          |             80 |
-|             44 | Nasoni Naqiri Kunavore |             88.5  |       12 |             81.07 | Ilikena Bolakoro      |             80 |
-|             80 | Ledua Mau              |             77.82 |       13 |             62.02 | Bastien Daguerre      |             80 |
-|             80 | Inaki Ayarza           |             40.57 |       14 |             79.56 | Théo Gatelier         |             61 |
-|             80 | Jules Dubecq           |             46.9  |       15 |             55.63 | Théo Duprat           |             80 |
-|             36 | Akuila Joeli Tabualevu |             80.37 |       16 |             79.22 | Simon Garrouteigt     |             32 |
-|             36 | Jacob Botica           |             34.36 |       17 |             67.52 | Iban Hiriart-Urruty   |             29 |
-|             32 | Sami Zouhair           |             94.2  |       18 |             73.21 | Louis Mary            |             29 |
-|             32 | German Kessler         |             41.28 |       19 |             22.59 | David Lolohea         |             29 |
-|             32 | Alexis Levron          |             28.43 |       20 |             61.28 | Arnaud Aletti         |             28 |
-|             32 | Saba Pesvianidze       |             21.3  |       21 |             68.97 | Étienne Loiret        |             24 |
-|             28 | Seydou Diakité         |             19.38 |       22 |             54.5  | Romuald Séguy         |             24 |
-|             19 | Germain Burgaud        |             75.03 |       23 |             10.48 | Maxime Oltmann        |             19 |
+|             48 | Luca Tabarot           |             60.48 |        1 |             48.57 | Asa Faitotoa          |             51 |
+|             48 | Patxi Bidart           |             51.85 |        2 |             49.08 | Maxime Delonca        |             51 |
+|             52 | Yassine Boutemane      |             10.93 |        3 |             15.95 | Nephi Leatigaga       |             51 |
+|             48 | Matt Beukeboom         |             18.2  |        4 |             49.88 | Josh Furno            |             80 |
+|             80 | Matthew Dalton         |              7.37 |        5 |             70.85 | Mat Luamanu           |             56 |
+|             80 | Gautier Gibouin        |              4.44 |        6 |             24.97 | Jean-Baptiste Barrère |             52 |
+|             61 | Hubert Texier          |             41.8  |        7 |             27.09 | Ratu Nacika           |             80 |
+|             80 | Maxence Lemardelet     |             42.19 |        8 |             86.95 | Genesis Mamea Lemalu  |             80 |
+|             48 | Manu Saubusse          |             51.47 |        9 |             72.69 | Sylvère Reteau        |             48 |
+|             44 | Ben Botica             |             76.96 |       10 |             63.42 | Hugo Cerisier         |             56 |
+|             80 | Marvin Lestremau       |             32.06 |       11 |             69.1  | Jope Naceava          |             80 |
+|             44 | Nasoni Naqiri Kunavore |             88.82 |       12 |             81.37 | Ilikena Bolakoro      |             80 |
+|             80 | Ledua Mau              |             84.17 |       13 |             62.28 | Bastien Daguerre      |             80 |
+|             80 | Inaki Ayarza           |             40.53 |       14 |             79.89 | Théo Gatelier         |             61 |
+|             80 | Jules Dubecq           |             63.91 |       15 |             56.32 | Théo Duprat           |             80 |
+|             36 | Akuila Joeli Tabualevu |             80.68 |       16 |             78.59 | Simon Garrouteigt     |             32 |
+|             36 | Jacob Botica           |             34.2  |       17 |             69.93 | Iban Hiriart-Urruty   |             29 |
+|             32 | Sami Zouhair           |             95.52 |       18 |             71.42 | Louis Mary            |             29 |
+|             32 | German Kessler         |             41.33 |       19 |             22.67 | David Lolohea         |             29 |
+|             32 | Alexis Levron          |             37.13 |       20 |             63.17 | Arnaud Aletti         |             28 |
+|             32 | Saba Pesvianidze       |             21.59 |       21 |             67.86 | Étienne Loiret        |             24 |
+|             28 | Seydou Diakité         |             19.27 |       22 |             54.87 | Romuald Séguy         |             24 |
+|             19 | Germain Burgaud        |             81.16 |       23 |              9.2  | Maxime Oltmann        |             19 |
 

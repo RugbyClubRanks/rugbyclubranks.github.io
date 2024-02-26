@@ -9,9 +9,9 @@ categories: "Top 14 Orange 2023" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.846, which translates to predicting Stade Toulousain to win by 15.0.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.846, which translates to predicting Stade Toulousain to win by 14.9.
 
-Our Over/Under is 65.5 - and combined with the spread above, we have a predicted scoreline of 25 to 40
+Our Over/Under is 70.5 - and combined with the spread above, we have a predicted scoreline of 28 to 43
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Stade Toulousain by 9.2 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             49 | Antoine Abraham      |             43.66 |        1 |             44.2  | Rodrigue Neti        |             45 |
-|             56 | Teddy Durand         |             46.06 |        2 |             66.79 | Guillaume Cramont    |             60 |
-|             49 | Thibault Berthaud    |             43.57 |        3 |             96.43 | Nepo Laulala         |             49 |
-|             80 | Phoenix Battye       |             42.87 |        4 |             62.76 | Joshua Brennan       |             80 |
-|             56 | Ewan Johnson         |             40.11 |        5 |             70.69 | Richie Arnold        |             49 |
-|             56 | Wandrille Picault    |             37.36 |        6 |             52.15 | Leo Banos            |             80 |
-|             80 | Hugo Hermet          |             35.78 |        7 |             68    | Alban Placines       |             55 |
-|             75 | Loic Godener         |             12.44 |        8 |             51.41 | Theo Ntamack         |             66 |
-|             60 | Charlie Cassang      |             84.31 |        9 |             56.08 | Paul Graou           |             80 |
-|             69 | Jules Soulan         |             36.49 |       10 |             96.68 | Juan Cruz Mallia     |             60 |
-|             80 | Enzo Reybier         |             39.36 |       11 |             98.74 | Matthis Lebel        |             80 |
-|             76 | Lucas Mensa          |             76.19 |       12 |             57.26 | Pita Ahki            |             54 |
-|             64 | Pedro Bettencourt    |             19.98 |       13 |             81.65 | Pierre-Louis Barassi |             80 |
-|             80 | Souleymane Coulibaly |             39.36 |       14 |             71.17 | Setareki Bituniyata  |             69 |
-|             71 | Maxime Salles        |             35.17 |       15 |             92.41 | Ange Capuozzo        |             80 |
+|             49 | Antoine Abraham      |             44.18 |        1 |             44.62 | Rodrigue Neti        |             45 |
+|             56 | Teddy Durand         |             45.57 |        2 |             77.86 | Guillaume Cramont    |             60 |
+|             49 | Thibault Berthaud    |             44.09 |        3 |             96.42 | Nepo Laulala         |             49 |
+|             80 | Phoenix Battye       |             42.51 |        4 |             73.5  | Joshua Brennan       |             80 |
+|             56 | Ewan Johnson         |             39.98 |        5 |             70.16 | Richie Arnold        |             49 |
+|             56 | Wandrille Picault    |             30.26 |        6 |             68.89 | Leo Banos            |             80 |
+|             80 | Hugo Hermet          |             36.08 |        7 |             70.79 | Alban Placines       |             55 |
+|             75 | Loic Godener         |             12.35 |        8 |             50.58 | Theo Ntamack         |             66 |
+|             60 | Charlie Cassang      |             82.51 |        9 |             56.97 | Paul Graou           |             80 |
+|             69 | Jules Soulan         |             36.58 |       10 |             97.15 | Juan Cruz Mallia     |             60 |
+|             80 | Enzo Reybier         |             39.31 |       11 |             98.2  | Matthis Lebel        |             80 |
+|             76 | Lucas Mensa          |             76.37 |       12 |             56.93 | Pita Ahki            |             54 |
+|             64 | Pedro Bettencourt    |             17.11 |       13 |             87.19 | Pierre-Louis Barassi |             80 |
+|             80 | Souleymane Coulibaly |             39.31 |       14 |             71.11 | Setareki Bituniyata  |             69 |
+|             71 | Maxime Salles        |             36.32 |       15 |             94.02 | Ange Capuozzo        |             80 |
 |             29 | Manu Leiataua        |            nan    |       16 |            nan    | Paul Mallez          |             20 |
-|             31 | Adrien Bordenave     |            nan    |       17 |             79.02 | David Ainu'u         |             35 |
-|             24 | Victor Lebas         |              7.59 |       18 |            nan    | Clement Verge        |             31 |
-|             24 | Filimo Taofifenua    |            nan    |       19 |             96.01 | Alexandre Roumat     |              0 |
+|             31 | Adrien Bordenave     |            nan    |       17 |             86.11 | David Ainu'u         |             35 |
+|             24 | Victor Lebas         |              7.72 |       18 |            nan    | Clement Verge        |             31 |
+|             24 | Filimo Taofifenua    |            nan    |       19 |             95.8  | Alexandre Roumat     |              0 |
 |             20 | Ilan El Khattabi     |            nan    |       20 |            nan    | Mathis Castro        |             39 |
-|             20 | Justin Bouraux       |             39.77 |       21 |              3.08 | Baptiste Germain     |             31 |
-|             20 | Theo Millet          |             78.86 |       22 |             95.47 | Sofiane Guitoune     |             26 |
+|             20 | Justin Bouraux       |             32.64 |       21 |              6.68 | Baptiste Germain     |             31 |
+|             20 | Theo Millet          |             76.25 |       22 |             95.58 | Sofiane Guitoune     |             26 |
 |             31 | Irakli Mirtskhulava  |            nan    |       23 |            nan    | Joel Merkler         |             31 |
 

@@ -1,6 +1,6 @@
 ---  
 title: "Premiership Rugby Cup 2023 Status"  
-date: 2024-02-20 6:00:00 -0500  
+date: 2024-02-26 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,10 +17,10 @@ aside:
 
 | Club                |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Gloucester Rugby    |        7 |      7 |                   78 |                     0 |                nan |                   28 |
-| Leicester Tigers    |        7 |      6 |                  148 |                     0 |                nan |                   24 |
-| Exeter Chiefs       |        7 |      4 |                  132 |                     2 |                nan |                   18 |
-| Ealing Trailfinders |        6 |      4 |                   63 |                     0 |                nan |                   16 |
+| Gloucester Rugby    |        6 |      6 |                   75 |                     0 |                nan |                   24 |
+| Leicester Tigers    |        6 |      5 |                  140 |                     0 |                nan |                   20 |
+| Exeter Chiefs       |        6 |      4 |                  135 |                     1 |                nan |                   17 |
+| Ealing Trailfinders |        5 |      4 |                   71 |                     0 |                nan |                   16 |
 | Newcastle Falcons   |        5 |      4 |                   46 |                     0 |                nan |                   16 |
 | Harlequins          |        5 |      3 |                   63 |                     0 |                nan |                   14 |
 | Sale Sharks         |        5 |      3 |                   99 |                     1 |                nan |                   13 |
@@ -55,10 +55,10 @@ aside:
 
 | Club                |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Gloucester Rugby    |               7 |      7 |                   78 |                     0 |                  0 |                   28 |
-| Leicester Tigers    |               7 |      6 |                  148 |                     0 |                  0 |                   24 |
-| Exeter Chiefs       |               7 |      4 |                  132 |                     2 |                  0 |                   18 |
-| Ealing Trailfinders |               6 |      4 |                   63 |                     0 |                  0 |                   16 |
+| Gloucester Rugby    |               6 |      6 |                   75 |                     0 |                  0 |                   24 |
+| Leicester Tigers    |               6 |      5 |                  140 |                     0 |                  0 |                   20 |
+| Exeter Chiefs       |               6 |      4 |                  135 |                     1 |                  0 |                   17 |
+| Ealing Trailfinders |               5 |      4 |                   71 |                     0 |                  0 |                   16 |
 | Newcastle Falcons   |               5 |      4 |                   46 |                     0 |                  0 |                   16 |
 | Harlequins          |               5 |      3 |                   63 |                     0 |                  0 |                   14 |
 | Sale Sharks         |               5 |      3 |                   99 |                     1 |                  0 |                   13 |
@@ -92,4 +92,4 @@ aside:
 
 # Future Predictions
 
-## Week 8
+## Week 7
