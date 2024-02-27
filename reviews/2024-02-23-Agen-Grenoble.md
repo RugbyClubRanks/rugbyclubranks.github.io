@@ -11,7 +11,7 @@ categories: "Pro D2 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.522, which translates to predicting Agen to win by 0.8.
 
-Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 24 to 25
+Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 21 to 22
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Grenoble by 6.7 on a neutral pitch
 
 |   Away Minutes | Away Player                 |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:----------------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             52 | Luka Goginava               |             40.68 |        1 |             27.33 | Florent Guion      |             48 |
-|             57 | Mathis Sarragallet          |             19.56 |        2 |             54.61 | Clement Martinez   |             57 |
-|             48 | Vincent Vial                |             36.92 |        3 |             57.08 | Beau Farrance      |             48 |
-|             52 | Thomas Lainault             |             25.35 |        4 |              6.8  | Evan Olmstead      |             80 |
-|             80 | Georgi Javakhia             |             68.55 |        5 |             89.52 | William Demotte    |             60 |
-|             80 | Jose Madeira                |             87.41 |        6 |             67.72 | Matthieu Bonnet    |             80 |
-|             66 | Steeve Blanc-Mappaz         |             52.17 |        7 |             84.66 | Arnaud Duputs      |             80 |
-|             80 | Thibaut Martel              |             26.57 |        8 |             29.6  | Fotu Lokotui       |             57 |
-|             60 | Barnabe Couilloud           |              4.72 |        9 |             11    | Sonatane Takulua   |             60 |
-|             60 | Romain Barthelemy           |             42.52 |       10 |             71.73 | Thomas Vincent     |             60 |
-|             80 | Karim Qadiri                |             46.98 |       11 |             54.81 | Iban Etcheverry    |             80 |
-|             80 | Terrence Hepetema           |             46.8  |       12 |             76.6  | Clement Garrigues  |             80 |
-|             80 | Romain Trouilloud           |             39.81 |       13 |             66.71 | Theo Belan         |             57 |
-|             47 | Atunaisa Taulanga Vaka Manu |             15.13 |       14 |             72.91 | Tevita Railevu     |             80 |
-|             80 | Julien Farnoux              |             94.25 |       15 |             88.51 | Mathieu Lamoulie   |             80 |
-|             33 | Geoffrey Cros               |             48.15 |       16 |             57.89 | Hans Lombard-Buret |             32 |
-|             32 | Irakli Aptsiauri            |             69.09 |       17 |             61.92 | Alex Burin         |             32 |
-|             28 | Eli Eglaine                 |             13.17 |       18 |             23.99 | Pierre Jouvin      |             23 |
-|             28 | Pierce Phillips             |             46.2  |       19 |             19.15 | Julien Lebian      |             23 |
-|             23 | Lilian Rossi                |             46.13 |       20 |             26.72 | Theo Idjellidaine  |             20 |
-|             20 | Felipe Ezcurra              |             96.46 |       21 |             41.94 | Corentin Vernet    |             20 |
-|             20 | Max Clement                 |            nan    |       22 |             38.72 | Ben Volavola       |             20 |
-|             14 | Diego Pinheiro Ruiz         |            nan    |       23 |             91.96 | Henry Purdy        |             23 |
+|             52 | Luka Goginava               |             40.97 |        1 |             27.28 | Florent Guion      |             48 |
+|             57 | Mathis Sarragallet          |             19.3  |        2 |             54.78 | Clement Martinez   |             57 |
+|             48 | Vincent Vial                |             36.85 |        3 |             57.42 | Beau Farrance      |             48 |
+|             52 | Thomas Lainault             |             25.37 |        4 |              6.66 | Evan Olmstead      |             80 |
+|             80 | Georgi Javakhia             |             69    |        5 |             90.01 | William Demotte    |             60 |
+|             80 | Jose Madeira                |             87.7  |        6 |             67.76 | Matthieu Bonnet    |             80 |
+|             66 | Steeve Blanc-Mappaz         |             52.28 |        7 |             84.94 | Arnaud Duputs      |             80 |
+|             80 | Thibaut Martel              |             25.87 |        8 |             28.9  | Fotu Lokotui       |             57 |
+|             60 | Barnabe Couilloud           |              4.33 |        9 |             10.43 | Sonatane Takulua   |             60 |
+|             60 | Romain Barthelemy           |             42.62 |       10 |             71.67 | Thomas Vincent     |             60 |
+|             80 | Karim Qadiri                |             47.03 |       11 |             54.98 | Iban Etcheverry    |             80 |
+|             80 | Terrence Hepetema           |             45.93 |       12 |             76.74 | Clement Garrigues  |             80 |
+|             80 | Romain Trouilloud           |             39.19 |       13 |             66.4  | Theo Belan         |             57 |
+|             47 | Atunaisa Taulanga Vaka Manu |             14.83 |       14 |             72.99 | Tevita Railevu     |             80 |
+|             80 | Julien Farnoux              |             93.07 |       15 |             88.22 | Mathieu Lamoulie   |             80 |
+|             33 | Geoffrey Cros               |             48.09 |       16 |             58.14 | Hans Lombard-Buret |             32 |
+|             32 | Irakli Aptsiauri            |             69.41 |       17 |             61.9  | Alex Burin         |             32 |
+|             28 | Eli Eglaine                 |             13.15 |       18 |             23.9  | Pierre Jouvin      |             23 |
+|             28 | Pierce Phillips             |             46.27 |       19 |             19.09 | Julien Lebian      |             23 |
+|             23 | Lilian Rossi                |             45.96 |       20 |             26.38 | Theo Idjellidaine  |             20 |
+|             20 | Felipe Ezcurra              |             96.46 |       21 |             42.37 | Corentin Vernet    |             20 |
+|             20 | Max Clement                 |            nan    |       22 |             38.57 | Ben Volavola       |             20 |
+|             14 | Diego Pinheiro Ruiz         |            nan    |       23 |             91.63 | Henry Purdy        |             23 |
 

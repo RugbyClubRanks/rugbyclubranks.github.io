@@ -1,6 +1,6 @@
 ---  
 title: "International Test Match 2024 Status"  
-date: 2024-02-26 6:00:00 -0500  
+date: 2024-02-27 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -27,28 +27,28 @@ aside:
 
 | Club                   |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Andorra                |                   2 |    1.7 |            26.6388   |                   0.2 |                1.2 |                  8.3 |
-| Denmark                |                   2 |    1.2 |            18.3857   |                   0.3 |                1   |                  6.2 |
-| Bulgaria               |                   2 |    1.2 |            25.2084   |                   0.2 |                1   |                  6   |
-| Czech Republic         |                   2 |    1.2 |            10.777    |                   0.3 |                0.8 |                  5.9 |
-| Finland                |                   2 |    1.1 |             5.69378  |                   0.3 |                1   |                  5.8 |
-| Hungary                |                   2 |    1   |            -0.205593 |                   0.3 |                0.9 |                  5.3 |
-| Slovenia               |                   1 |    1   |            23.9747   |                   0   |                0.7 |                  4.6 |
-| Sweden                 |                   1 |    1   |            21.0969   |                   0   |                0.7 |                  4.6 |
-| Luxembourg             |                   1 |    0.8 |             8.6469   |                   0.1 |                0.6 |                  3.8 |
-| Moldova                |                   1 |    0.8 |             9.96635  |                   0.1 |                0.4 |                  3.7 |
-| Switzerland            |                   1 |    0.7 |             7.20262  |                   0.1 |                0.4 |                  3.5 |
-| Latvia                 |                   1 |    0.7 |             6.80111  |                   0.2 |                0.4 |                  3.5 |
-| Austria                |                   2 |    0.7 |           -19.1943   |                   0.2 |                0.6 |                  3.5 |
-| Bosnia and Herzegovina |                   2 |    0.5 |           -13.2217   |                   0.5 |                0.6 |                  3.2 |
-| Turkey                 |                   1 |    0.6 |             5.64287  |                   0.2 |                0.4 |                  3.1 |
-| Croatia                |                   1 |    0.6 |             2.56836  |                   0.2 |                0.2 |                  2.8 |
-| Cyprus                 |                   1 |    0.6 |             2.10331  |                   0.2 |                0.3 |                  2.8 |
-| Malta                  |                   1 |    0.4 |            -2.10331  |                   0.3 |                0.3 |                  2.3 |
-| Lithuania              |                   1 |    0.4 |            -2.56836  |                   0.2 |                0.2 |                  2.1 |
-| Serbia                 |                   2 |    0.4 |           -40.8176   |                   0.2 |                0.2 |                  1.8 |
-| Norway                 |                   3 |    0.2 |           -57.5194   |                   0.3 |                0.8 |                  1.8 |
-| Ukraine                |                   2 |    0.1 |           -39.0765   |                   0.2 |                0.4 |                  0.9 |
+| Andorra                |                   2 |    1.7 |            25.9227   |                   0.2 |                1.3 |                  8.4 |
+| Denmark                |                   2 |    1.3 |            18.0061   |                   0.2 |                1.1 |                  6.3 |
+| Bulgaria               |                   2 |    1.2 |            25.9931   |                   0.2 |                1.1 |                  6   |
+| Czech Republic         |                   2 |    1.2 |            11.2508   |                   0.3 |                0.9 |                  6   |
+| Finland                |                   2 |    1.1 |             4.91844  |                   0.3 |                1.1 |                  5.7 |
+| Hungary                |                   2 |    1   |            -0.997498 |                   0.3 |                0.7 |                  5.1 |
+| Slovenia               |                   1 |    1   |            23.7931   |                   0   |                0.7 |                  4.6 |
+| Sweden                 |                   1 |    1   |            20.9772   |                   0   |                0.7 |                  4.6 |
+| Luxembourg             |                   1 |    0.8 |             8.44105  |                   0.2 |                0.6 |                  3.8 |
+| Moldova                |                   1 |    0.8 |            10.1006   |                   0.1 |                0.3 |                  3.6 |
+| Latvia                 |                   1 |    0.7 |             6.8837   |                   0.2 |                0.4 |                  3.5 |
+| Switzerland            |                   1 |    0.7 |             7.16439  |                   0.1 |                0.3 |                  3.4 |
+| Austria                |                   2 |    0.7 |           -18.7686   |                   0.2 |                0.4 |                  3.4 |
+| Bosnia and Herzegovina |                   2 |    0.5 |           -12.468    |                   0.5 |                0.5 |                  3.2 |
+| Turkey                 |                   1 |    0.6 |             5.96813  |                   0.1 |                0.4 |                  3.1 |
+| Croatia                |                   1 |    0.6 |             3.26043  |                   0.2 |                0.2 |                  2.9 |
+| Cyprus                 |                   1 |    0.6 |             2.41404  |                   0.2 |                0.2 |                  2.8 |
+| Malta                  |                   1 |    0.4 |            -2.41404  |                   0.3 |                0.3 |                  2.2 |
+| Norway                 |                   3 |    0.2 |           -55.7308   |                   0.3 |                1   |                  2.1 |
+| Lithuania              |                   1 |    0.4 |            -3.26043  |                   0.3 |                0.2 |                  2   |
+| Serbia                 |                   2 |    0.4 |           -42.0618   |                   0.2 |                0.2 |                  1.8 |
+| Ukraine                |                   2 |    0.1 |           -39.3924   |                   0.2 |                0.4 |                  0.8 |
 
 
 
@@ -57,29 +57,29 @@ aside:
 
 | Club                   |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Andorra                |               2 |    1.7 |            26.6388   |                   0.2 |                1.2 |                  8.3 |
-| Denmark                |               2 |    1.2 |            18.3857   |                   0.3 |                1   |                  6.2 |
-| Bulgaria               |               2 |    1.2 |            25.2084   |                   0.2 |                1   |                  6   |
-| Czech Republic         |               2 |    1.2 |            10.777    |                   0.3 |                0.8 |                  5.9 |
-| Finland                |               2 |    1.1 |             5.69378  |                   0.3 |                1   |                  5.8 |
-| Hungary                |               2 |    1   |            -0.205593 |                   0.3 |                0.9 |                  5.3 |
-| Slovenia               |               1 |    1   |            23.9747   |                   0   |                0.7 |                  4.6 |
-| Sweden                 |               1 |    1   |            21.0969   |                   0   |                0.7 |                  4.6 |
+| Andorra                |               2 |    1.7 |            25.9227   |                   0.2 |                1.3 |                  8.4 |
+| Denmark                |               2 |    1.3 |            18.0061   |                   0.2 |                1.1 |                  6.3 |
+| Bulgaria               |               2 |    1.2 |            25.9931   |                   0.2 |                1.1 |                  6   |
+| Czech Republic         |               2 |    1.2 |            11.2508   |                   0.3 |                0.9 |                  6   |
+| Finland                |               2 |    1.1 |             4.91844  |                   0.3 |                1.1 |                  5.7 |
+| Hungary                |               2 |    1   |            -0.997498 |                   0.3 |                0.7 |                  5.1 |
+| Slovenia               |               1 |    1   |            23.7931   |                   0   |                0.7 |                  4.6 |
+| Sweden                 |               1 |    1   |            20.9772   |                   0   |                0.7 |                  4.6 |
 | Algeria                |               1 |    1   |            14        |                   0   |                0   |                  4   |
-| Luxembourg             |               1 |    0.8 |             8.6469   |                   0.1 |                0.6 |                  3.8 |
-| Moldova                |               1 |    0.8 |             9.96635  |                   0.1 |                0.4 |                  3.7 |
-| Switzerland            |               1 |    0.7 |             7.20262  |                   0.1 |                0.4 |                  3.5 |
-| Latvia                 |               1 |    0.7 |             6.80111  |                   0.2 |                0.4 |                  3.5 |
-| Austria                |               2 |    0.7 |           -19.1943   |                   0.2 |                0.6 |                  3.5 |
-| Bosnia and Herzegovina |               2 |    0.5 |           -13.2217   |                   0.5 |                0.6 |                  3.2 |
-| Turkey                 |               1 |    0.6 |             5.64287  |                   0.2 |                0.4 |                  3.1 |
-| Croatia                |               1 |    0.6 |             2.56836  |                   0.2 |                0.2 |                  2.8 |
-| Cyprus                 |               1 |    0.6 |             2.10331  |                   0.2 |                0.3 |                  2.8 |
-| Malta                  |               1 |    0.4 |            -2.10331  |                   0.3 |                0.3 |                  2.3 |
-| Lithuania              |               1 |    0.4 |            -2.56836  |                   0.2 |                0.2 |                  2.1 |
-| Serbia                 |               2 |    0.4 |           -40.8176   |                   0.2 |                0.2 |                  1.8 |
-| Norway                 |               3 |    0.2 |           -57.5194   |                   0.3 |                0.8 |                  1.8 |
-| Ukraine                |               2 |    0.1 |           -39.0765   |                   0.2 |                0.4 |                  0.9 |
+| Luxembourg             |               1 |    0.8 |             8.44105  |                   0.2 |                0.6 |                  3.8 |
+| Moldova                |               1 |    0.8 |            10.1006   |                   0.1 |                0.3 |                  3.6 |
+| Latvia                 |               1 |    0.7 |             6.8837   |                   0.2 |                0.4 |                  3.5 |
+| Switzerland            |               1 |    0.7 |             7.16439  |                   0.1 |                0.3 |                  3.4 |
+| Austria                |               2 |    0.7 |           -18.7686   |                   0.2 |                0.4 |                  3.4 |
+| Bosnia and Herzegovina |               2 |    0.5 |           -12.468    |                   0.5 |                0.5 |                  3.2 |
+| Turkey                 |               1 |    0.6 |             5.96813  |                   0.1 |                0.4 |                  3.1 |
+| Croatia                |               1 |    0.6 |             3.26043  |                   0.2 |                0.2 |                  2.9 |
+| Cyprus                 |               1 |    0.6 |             2.41404  |                   0.2 |                0.2 |                  2.8 |
+| Malta                  |               1 |    0.4 |            -2.41404  |                   0.3 |                0.3 |                  2.2 |
+| Norway                 |               3 |    0.2 |           -55.7308   |                   0.3 |                1   |                  2.1 |
+| Lithuania              |               1 |    0.4 |            -3.26043  |                   0.3 |                0.2 |                  2   |
+| Serbia                 |               2 |    0.4 |           -42.0618   |                   0.2 |                0.2 |                  1.8 |
+| Ukraine                |               2 |    0.1 |           -39.3924   |                   0.2 |                0.4 |                  0.8 |
 | Senegal                |               1 |    0   |           -14        |                   0   |                0   |                  0   |
 
 
@@ -103,7 +103,7 @@ aside:
 
 Average Margin: Switzerland by 7.2
 
-Average Scoreline: 23-16
+Average Scoreline: 28-21
 
 <p float="left">
 <img src="plots/performances_2024-03-09-CzechRepublic_V_Switzerland.png" width="32%" />
@@ -116,9 +116,9 @@ Average Scoreline: 23-16
 ### Croatia V Lithuania on 2024/03/16
 
 
-Average Margin: Croatia by 2.6
+Average Margin: Croatia by 3.3
 
-Average Scoreline: 28-25
+Average Scoreline: 29-26
 
 <p float="left">
 <img src="plots/performances_2024-03-16-Croatia_V_Lithuania.png" width="32%" />
@@ -131,9 +131,9 @@ Average Scoreline: 28-25
 ### Ukraine V Czech Republic on 2024/03/23
 
 
-Average Margin: Czech Republic by 18.0
+Average Margin: Czech Republic by 18.4
 
-Average Scoreline: 36-18
+Average Scoreline: 39-20
 
 <p float="left">
 <img src="plots/performances_2024-03-23-Ukraine_V_CzechRepublic.png" width="32%" />
@@ -146,7 +146,7 @@ Average Scoreline: 36-18
 ### Sweden V Ukraine on 2024/04/06
 
 
-Average Margin: Sweden by 21.1
+Average Margin: Sweden by 21.0
 
 Average Scoreline: 30-9
 
@@ -159,9 +159,9 @@ Average Scoreline: 30-9
 ### Hungary V Luxembourg on 2024/04/06
 
 
-Average Margin: Luxembourg by 8.6
+Average Margin: Luxembourg by 8.4
 
-Average Scoreline: 32-23
+Average Scoreline: 37-28
 
 <p float="left">
 <img src="plots/performances_2024-04-06-Hungary_V_Luxembourg.png" width="32%" />
@@ -172,9 +172,9 @@ Average Scoreline: 32-23
 ### Austria V Bosnia and Herzegovina on 2024/04/06
 
 
-Average Margin: Austria by 4.8
+Average Margin: Austria by 5.0
 
-Average Scoreline: 26-22
+Average Scoreline: 23-18
 
 <p float="left">
 <img src="plots/performances_2024-04-06-Austria_V_BosniaandHerzegovina.png" width="32%" />
@@ -187,9 +187,9 @@ Average Scoreline: 26-22
 ### Serbia V Turkey on 2024/04/13
 
 
-Average Margin: Turkey by 5.6
+Average Margin: Turkey by 6.0
 
-Average Scoreline: 19-14
+Average Scoreline: 21-15
 
 <p float="left">
 <img src="plots/performances_2024-04-13-Serbia_V_Turkey.png" width="32%" />
@@ -200,9 +200,9 @@ Average Scoreline: 19-14
 ### Slovenia V Austria on 2024/04/13
 
 
-Average Margin: Slovenia by 24.0
+Average Margin: Slovenia by 23.8
 
-Average Scoreline: 30-6
+Average Scoreline: 32-8
 
 <p float="left">
 <img src="plots/performances_2024-04-13-Slovenia_V_Austria.png" width="32%" />
@@ -213,9 +213,9 @@ Average Scoreline: 30-6
 ### Denmark V Norway on 2024/04/13
 
 
-Average Margin: Denmark by 25.2
+Average Margin: Denmark by 24.9
 
-Average Scoreline: 28-3
+Average Scoreline: 30-6
 
 <p float="left">
 <img src="plots/performances_2024-04-13-Denmark_V_Norway.png" width="32%" />
@@ -226,9 +226,9 @@ Average Scoreline: 28-3
 ### Andorra V Finland on 2024/04/13
 
 
-Average Margin: Andorra by 8.1
+Average Margin: Andorra by 8.3
 
-Average Scoreline: 21-13
+Average Scoreline: 26-18
 
 <p float="left">
 <img src="plots/performances_2024-04-13-Andorra_V_Finland.png" width="32%" />
@@ -241,9 +241,9 @@ Average Scoreline: 21-13
 ### Latvia V Denmark on 2024/04/20
 
 
-Average Margin: Latvia by 6.8
+Average Margin: Latvia by 6.9
 
-Average Scoreline: 18-11
+Average Scoreline: 22-16
 
 <p float="left">
 <img src="plots/performances_2024-04-20-Latvia_V_Denmark.png" width="32%" />
@@ -254,9 +254,9 @@ Average Scoreline: 18-11
 ### Bulgaria V Serbia on 2024/04/20
 
 
-Average Margin: Bulgaria by 35.2
+Average Margin: Bulgaria by 36.1
 
-Average Scoreline: 36-1
+Average Scoreline: 38-2
 
 <p float="left">
 <img src="plots/performances_2024-04-20-Bulgaria_V_Serbia.png" width="32%" />
@@ -267,9 +267,9 @@ Average Scoreline: 36-1
 ### Bosnia and Herzegovina V Hungary on 2024/04/20
 
 
-Average Margin: Hungary by 8.4
+Average Margin: Hungary by 7.4
 
-Average Scoreline: 29-20
+Average Scoreline: 26-18
 
 <p float="left">
 <img src="plots/performances_2024-04-20-BosniaandHerzegovina_V_Hungary.png" width="32%" />
@@ -282,9 +282,9 @@ Average Scoreline: 29-20
 ### Norway V Andorra on 2024/05/04
 
 
-Average Margin: Andorra by 18.5
+Average Margin: Andorra by 17.7
 
-Average Scoreline: 34-15
+Average Scoreline: 29-11
 
 <p float="left">
 <img src="plots/performances_2024-05-04-Norway_V_Andorra.png" width="32%" />
@@ -295,9 +295,9 @@ Average Scoreline: 34-15
 ### Moldova V Bulgaria on 2024/05/04
 
 
-Average Margin: Moldova by 10.0
+Average Margin: Moldova by 10.1
 
-Average Scoreline: 21-11
+Average Scoreline: 23-13
 
 <p float="left">
 <img src="plots/performances_2024-05-04-Moldova_V_Bulgaria.png" width="32%" />
@@ -308,9 +308,9 @@ Average Scoreline: 21-11
 ### Cyprus V Malta on 2024/05/04
 
 
-Average Margin: Cyprus by 2.1
+Average Margin: Cyprus by 2.4
 
-Average Scoreline: 22-20
+Average Scoreline: 31-29
 
 <p float="left">
 <img src="plots/performances_2024-05-04-Cyprus_V_Malta.png" width="32%" />
@@ -323,9 +323,9 @@ Average Scoreline: 22-20
 ### Norway V Finland on 2024/05/11
 
 
-Average Margin: Finland by 13.8
+Average Margin: Finland by 13.2
 
-Average Scoreline: 34-20
+Average Scoreline: 29-15
 
 <p float="left">
 <img src="plots/performances_2024-05-11-Norway_V_Finland.png" width="32%" />

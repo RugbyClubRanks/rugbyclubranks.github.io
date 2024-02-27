@@ -9,9 +9,9 @@ categories: "Nationale 2023" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.408, which translates to predicting Nice to win by 3.3.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.357, which translates to predicting Nice to win by 5.2.
 
-Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 23 to 20
+Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 24 to 19
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,19 +69,19 @@ Suresnes by 13.7 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player            |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:-----------------------|---------------:|
-|             80 | Jules Martinez       |              3.76 |        1 |             22.85 | Elias Coulibaly        |             80 |
-|             80 | Pierre Strippoli     |             12.55 |        2 |             77.12 | Hayam El Bibouji       |             80 |
-|             80 | Luvuyo Pupuma        |             74.28 |        3 |             88.26 | Leandro Mario Assi     |             80 |
-|             80 | Thibault Rey         |              5.07 |        4 |             22.35 | Damien Bozic           |             80 |
-|             80 | Martin Freytes       |             57.37 |        5 |             89.06 | Marvin Woki            |             80 |
-|             80 | Bastien Berenguel    |             51.22 |        6 |             52.91 | Jean-Baptiste Lachaise |             80 |
-|             80 | Arthur Vignolles     |             75.45 |        7 |             61.8  | Florian Desbordes      |             80 |
-|             80 | Laijiasa Bolenaivalu |             93.01 |        8 |             24.48 | Lakisipone Lee         |             80 |
-|             80 | Jules Solinas        |             90.18 |        9 |             54.22 | Théo Bachiri           |             80 |
-|             80 | Romain Riguet        |             84.32 |       10 |             14.25 | Tanguy Lacoste         |             80 |
-|             80 | Simon Delas          |             94.5  |       11 |             40    | Alexis Clement         |             80 |
-|             80 | Baptiste Lafond      |              2.21 |       12 |             87.43 | Petero Tuwai           |             80 |
-|             80 | Luca Cutayar         |             12.34 |       13 |             93.71 | Victor Barnier         |             80 |
-|             80 | Hugo Martin          |              4.44 |       14 |             98.1  | Faraj Fartass          |             80 |
-|             80 | David Odiete         |             92.87 |       15 |             30.8  | Thomas Baudy           |             80 |
+|             80 | Jules Martinez       |              3.22 |        1 |             22.9  | Elias Coulibaly        |             80 |
+|             80 | Pierre Strippoli     |             11.21 |        2 |             77.39 | Hayam El Bibouji       |             80 |
+|             80 | Luvuyo Pupuma        |             70.3  |        3 |             88.64 | Leandro Mario Assi     |             80 |
+|             80 | Thibault Rey         |              4.94 |        4 |             22.5  | Damien Bozic           |             80 |
+|             80 | Martin Freytes       |             54.65 |        5 |             89.32 | Marvin Woki            |             80 |
+|             80 | Bastien Berenguel    |             51.22 |        6 |             53.02 | Jean-Baptiste Lachaise |             80 |
+|             80 | Arthur Vignolles     |             72.22 |        7 |             61.72 | Florian Desbordes      |             80 |
+|             80 | Laijiasa Bolenaivalu |             93.01 |        8 |             23.78 | Lakisipone Lee         |             80 |
+|             80 | Jules Solinas        |             90.16 |        9 |             54.33 | Théo Bachiri           |             80 |
+|             80 | Romain Riguet        |             84.29 |       10 |             14.29 | Tanguy Lacoste         |             80 |
+|             80 | Simon Delas          |             94.39 |       11 |             40.25 | Alexis Clement         |             80 |
+|             80 | Baptiste Lafond      |              1.4  |       12 |             87.56 | Petero Tuwai           |             80 |
+|             80 | Luca Cutayar         |             12.21 |       13 |             93.84 | Victor Barnier         |             80 |
+|             80 | Hugo Martin          |              4.24 |       14 |             97.99 | Faraj Fartass          |             80 |
+|             80 | David Odiete         |             91.22 |       15 |             31.18 | Thomas Baudy           |             80 |
 

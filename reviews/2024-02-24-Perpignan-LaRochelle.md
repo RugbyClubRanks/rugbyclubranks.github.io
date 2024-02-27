@@ -9,9 +9,9 @@ categories: "Top 14 Orange 2023" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.306, which translates to predicting La Rochelle to win by 7.2.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.305, which translates to predicting La Rochelle to win by 7.2.
 
-Our Over/Under is 56.5 - and combined with the spread above, we have a predicted scoreline of 32 to 25
+Our Over/Under is 57.5 - and combined with the spread above, we have a predicted scoreline of 33 to 25
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: La Rochelle by 4.3
+## Prediction without Player Minutes: La Rochelle by 1.1
 
 
-La Rochelle by 13.0 on a neutral pitch
+La Rochelle by 9.8 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ La Rochelle by 13.0 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             57 | Louis Penverne        |             28.32 |        1 |              2.87 | Giorgi Tetrashvili    |             57 |
-|             45 | Sacha Idoumi          |             50.37 |        2 |             88.93 | Seilala Lam           |             60 |
-|             49 | Georges-Henri Colombe |              2.96 |        3 |             57.44 | Nemo Roelofse         |             74 |
-|             59 | Thomas Ployet         |             38.71 |        4 |             70.05 | Jacobus van Tonder    |             68 |
-|             80 | Remi Picquette        |             50.69 |        5 |             57.6  | Mathieu Tanguy        |             80 |
-|             80 | Judicael Cancoriet    |             22.96 |        6 |             93.23 | Patrick Sobela        |             80 |
-|             73 | Levani Botia          |             97.04 |        7 |             73.97 | Alan Brazo            |             70 |
-|             80 | Yoan Tanga            |             59.44 |        8 |             81.59 | Joaquin Oviedo        |             60 |
-|             73 | Tawera Kerr-Barlow    |             97.64 |        9 |             80.55 | Tom Ecochard          |             57 |
-|             80 | Antoine Hastoy        |             49.17 |       10 |             83.61 | Jake McIntyre         |             49 |
-|             59 | Raymond Rhule         |             97.99 |       11 |             64.66 | Lucas Dubois          |             80 |
-|             80 | Jules Favre           |             79.16 |       12 |             99.77 | Jeronimo de la Fuente |             80 |
-|             80 | Ulupano Seuteni       |             61.93 |       13 |             13.04 | Alivereti Duguivalu   |             80 |
-|             80 | Teddy Thomas          |             87.51 |       14 |             68.78 | Tavite Veredamu       |             80 |
-|             73 | Brice Dulin           |             99.08 |       15 |             81.38 | Tommaso Allan         |             80 |
-|             35 | Quentin Lespiaucq     |             71.22 |       16 |             28.06 | Apisai Naqalevu       |             31 |
-|             31 | Alexandre Kuntelia    |             54.12 |       17 |             42.92 | Xavier Chiocci        |             23 |
-|             23 | Joel Sclavi           |             85.57 |       18 |              8.06 | Sadek Deghmache       |             23 |
-|             21 | Oscar Jegou           |             30.9  |       19 |             69    | Ignacio Ruiz          |             20 |
-|             21 | Ihaia West            |             53.2  |       20 |             13.75 | Lucas Velarte         |             20 |
-|              7 | Thomas Berjon         |             80.53 |       21 |              2.19 | Shahn Eru             |             12 |
-|              7 | Matthias Haddad       |             45.82 |       22 |             19.01 | Tristan Labouteley    |             10 |
-|              7 | Simeli Daunivucu      |             59.14 |       23 |              8.51 | Akato Fakatika        |              6 |
+|             56 | Louis Penverne        |             30.14 |        1 |              2.68 | Giorgi Tetrashvili    |             56 |
+|             44 | Sacha Idoumi          |             37.13 |        2 |             88.97 | Seilala Lam           |             60 |
+|             49 | Georges-Henri Colombe |              2.95 |        3 |             55.37 | Nemo Roelofse         |             73 |
+|             59 | Thomas Ployet         |             39.15 |        4 |             75.66 | Jacobus van Tonder    |             80 |
+|             80 | Remi Picquette        |             53.04 |        5 |             51.44 | Mathieu Tanguy        |             68 |
+|             80 | Judicael Cancoriet    |             23.33 |        6 |             92.79 | Patrick Sobela        |             80 |
+|             71 | Levani Botia          |             97.14 |        7 |             73.91 | Alan Brazo            |             76 |
+|             80 | Yoan Tanga            |             61.31 |        8 |             80.89 | Joaquin Oviedo        |             60 |
+|             71 | Tawera Kerr-Barlow    |             97.83 |        9 |             84.84 | Tom Ecochard          |             57 |
+|             80 | Antoine Hastoy        |             51.19 |       10 |             87.86 | Jake McIntyre         |             49 |
+|             59 | Raymond Rhule         |             33.9  |       11 |             61.44 | Lucas Dubois          |             80 |
+|             80 | Jules Favre           |             78.6  |       12 |             99.77 | Jeronimo de la Fuente |             80 |
+|             72 | Ulupano Seuteni       |             63.37 |       13 |             11.74 | Alivereti Duguivalu   |             80 |
+|             80 | Teddy Thomas          |             87.61 |       14 |             72.67 | Tavite Veredamu       |             80 |
+|             80 | Brice Dulin           |             99.08 |       15 |             80.6  | Tommaso Allan         |             80 |
+|             36 | Quentin Lespiaucq     |             71.32 |       16 |            nan    | Ignacio Ruiz          |             20 |
+|             24 | Joel Sclavi           |             85.69 |       17 |             41.32 | Xavier Chiocci        |             24 |
+|              9 | Matthias Haddad       |             45.71 |       18 |              1.72 | Shahn Eru             |             12 |
+|             21 | Oscar Jegou           |            nan    |       19 |            nan    | Tristan Labouteley    |              4 |
+|              9 | Thomas Berjon         |             80.19 |       20 |             13.05 | Lucas Velarte         |             20 |
+|             21 | Ihaia West            |             52.79 |       21 |              7.28 | Sadek Deghmache       |             23 |
+|              8 | Simeli Daunivucu      |            nan    |       22 |             29.88 | Apisai Naqalevu       |             31 |
+|             31 | Alexandre Kuntelia    |             54.11 |       23 |            nan    | Akato Fakatika        |              7 |
 

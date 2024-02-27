@@ -9,9 +9,9 @@ categories: "Nationale 2023" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.653, which translates to predicting Massy to win by 5.6.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.662, which translates to predicting Massy to win by 5.9.
 
-Our Over/Under is 38.5 - and combined with the spread above, we have a predicted scoreline of 17 to 22
+Our Over/Under is 41.5 - and combined with the spread above, we have a predicted scoreline of 18 to 24
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,19 +69,19 @@ Massy by 1.3 on a neutral pitch
 
 |   Away Minutes | Away Player               |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:--------------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             80 | Vazha Kapanadze           |             73.3  |        1 |              5.2  | Fernandez Correa     |             80 |
-|             80 | Clement Jullien           |             85.61 |        2 |             92.44 | Pierre Trassoudaine  |             80 |
-|             80 | Erich de Jager            |             63.71 |        3 |             79.75 | Tijde Visser         |             80 |
-|             80 | Guillaume Marin           |             57.49 |        4 |              1.15 | Abongile Nonkontwana |             80 |
-|             80 | Josh Peters               |             13.36 |        5 |             87.1  | Andrei Mahu          |             80 |
-|             80 | Pierre Reynaud            |             56.93 |        6 |             17.14 | Tony Tissot          |             80 |
-|             80 | Loic Baradel              |             67.62 |        7 |             95.24 | Clément Vidoni       |             80 |
-|             80 | Joseph Penitito           |             65.03 |        8 |             68.76 | Samuel Nollet        |             80 |
-|             80 | Jeremy Valencot           |             55.4  |        9 |             44.79 | Loris Rouet          |             80 |
-|             80 | Christian Lacombe         |              6.18 |       10 |              4.75 | Hugo Verdu           |             80 |
-|             80 | Élie De Fleurian          |             36.19 |       11 |             55.87 | Giorgi Gogoladze     |             80 |
-|             80 | Parataiso Silafai-Lea'ana |             35.86 |       12 |             50.52 | Victorien Jacomme    |             80 |
-|             80 | Maile Mamao               |             27.12 |       13 |             87.54 | Tom Cusson           |             80 |
-|             80 | Dimitri Doucet            |             65.08 |       14 |              8.99 | Yanis Dit Robaglia   |             80 |
-|             80 | Florent Massip            |             85.52 |       15 |             70.8  | Tom Deleuze          |             80 |
+|             80 | Vazha Kapanadze           |             73.7  |        1 |              5.19 | Fernandez Correa     |             80 |
+|             80 | Clement Jullien           |             85.85 |        2 |             92.46 | Pierre Trassoudaine  |             80 |
+|             80 | Erich de Jager            |             63.86 |        3 |             80.05 | Tijde Visser         |             80 |
+|             80 | Guillaume Marin           |             57.98 |        4 |              0.8  | Abongile Nonkontwana |             80 |
+|             80 | Josh Peters               |             13.32 |        5 |             87.49 | Andrei Mahu          |             80 |
+|             80 | Pierre Reynaud            |             56.73 |        6 |             16.97 | Tony Tissot          |             80 |
+|             80 | Loic Baradel              |             67.66 |        7 |             94.91 | Clément Vidoni       |             80 |
+|             80 | Joseph Penitito           |             65.27 |        8 |             68.53 | Samuel Nollet        |             80 |
+|             80 | Jeremy Valencot           |             55.51 |        9 |             45.28 | Loris Rouet          |             80 |
+|             80 | Christian Lacombe         |              6.19 |       10 |              4.76 | Hugo Verdu           |             80 |
+|             80 | Élie De Fleurian          |             36.02 |       11 |             56.04 | Giorgi Gogoladze     |             80 |
+|             80 | Parataiso Silafai-Lea'ana |             36.05 |       12 |             49.88 | Victorien Jacomme    |             80 |
+|             80 | Maile Mamao               |             27.09 |       13 |             87.67 | Tom Cusson           |             80 |
+|             80 | Dimitri Doucet            |             65.04 |       14 |              8.9  | Yanis Dit Robaglia   |             80 |
+|             80 | Florent Massip            |             84.99 |       15 |             71.13 | Tom Deleuze          |             80 |
 

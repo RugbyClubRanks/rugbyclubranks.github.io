@@ -1,6 +1,6 @@
 ---  
 title: "Premiership Rugby Cup 2023 Status"  
-date: 2024-02-26 6:00:00 -0500  
+date: 2024-02-27 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  

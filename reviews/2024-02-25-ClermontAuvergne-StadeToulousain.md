@@ -9,9 +9,9 @@ categories: "Top 14 Orange 2023" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.485, which translates to predicting Stade Toulousain to win by 0.5.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.484, which translates to predicting Stade Toulousain to win by 0.6.
 
-Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 25 to 24
+Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 24 to 24
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Clermont Auvergne by 18.3
+## Prediction without Player Minutes: Clermont Auvergne by 18.2
 
 
-Clermont Auvergne by 10.9 on a neutral pitch
+Clermont Auvergne by 10.8 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -67,28 +67,29 @@ Clermont Auvergne by 10.9 on a neutral pitch
 </p>
 
 
-|   Away Minutes | Away Player            |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
-|---------------:|:-----------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             51 | David Ainu'u           |             86.11 |        1 |             45.43 | Giorgi Beria         |             51 |
-|             62 | Guillaume Cramont      |             77.86 |        2 |             94.65 | Folau Fainga'a       |             80 |
-|             51 | Joel Merkler           |             75.54 |        3 |             72.94 | Cristian Ojovan      |             80 |
-|             80 | Joshua Brennan         |             73.5  |        4 |             94.93 | Rob Simmons          |             80 |
-|             54 | Piula Faasalele        |             84.45 |        5 |             92.74 | Tomas Lavanini       |             51 |
-|             10 | Alban Placines         |             70.79 |        6 |             90.37 | Peceli Yato Senibitu |             51 |
-|             80 | Leo Banos              |             68.89 |        7 |             80.32 | Marcos Kremer        |             80 |
-|             62 | Mathis Castro Ferreira |             59.21 |        8 |             91.14 | Fritz Lee            |             14 |
-|             62 | Baptiste Germain       |              6.68 |        9 |             92.53 | Sebastien Bezy       |             45 |
-|             80 | Juan Cruz Mallia       |             97.15 |       10 |             87.89 | Benjamin Urdapilleta |             60 |
-|             80 | Arthur Retiere         |             95.24 |       11 |             21.48 | Alivereti Raka       |             80 |
-|             80 | Pierre-Louis Barassi   |             87.19 |       12 |             95.46 | George Moala         |             80 |
-|             80 | Paul Costes            |             61.7  |       13 |             20.61 | Pierre Fouyssac      |             60 |
-|             80 | Lucas Tauzin           |             79.58 |       14 |             85.93 | Bautista Delguy      |             80 |
-|             80 | Kalvin Gourgues        |             59.08 |       15 |             76.78 | Alex Newsome         |             80 |
-|             70 | Clement Verge          |             43.2  |       16 |             90.95 | Rabah Slimani        |             66 |
-|             29 | Rodrigue Neti          |             44.62 |       17 |             52.46 | Baptiste Jauneau     |             35 |
-|             29 | Paul Mallez            |             65.59 |       18 |             82.83 | Thibaud Lanen        |             29 |
-|             26 | Richie Arnold          |             70.16 |       19 |             75.77 | Killian Tixeront     |             29 |
-|             18 | Léo Labarthe           |            nan    |       20 |             23.57 | Daniel Bibi Biziwu   |             29 |
-|             18 | Malachi Hawkes         |            nan    |       21 |             24.83 | Thomas Roziere       |             20 |
-|             18 | Sofiane Guitoune       |             95.58 |       22 |             80.05 | Jules Plisson        |             20 |
+|   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
+|---------------:|:---------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
+|             52 | David Ainu'u         |             87.03 |        1 |             45.35 | Giorgi Beria         |             52 |
+|             63 | Guillaume Cramont    |             78.68 |        2 |             94.67 | Folau Fainga'a       |             80 |
+|             52 | Joel Merkler         |             64.67 |        3 |             73.35 | Cristian Ojovan      |             80 |
+|             73 | Joshua Brennan       |             73.48 |        4 |             95.18 | Rob Simmons          |             80 |
+|             62 | Piula Fa'asalele     |             65.9  |        5 |             93    | Tomas Lavanini       |             52 |
+|             11 | Alban Placines       |             72    |        6 |             28.31 | Peceli Yato          |             55 |
+|             80 | Leo Banos            |             70.84 |        7 |             80.81 | Marcos Kremer        |             77 |
+|             63 | Mathis Castro        |             60.14 |        8 |             91.14 | Fritz Lee            |             15 |
+|             63 | Baptiste Germain     |              6.1  |        9 |             93.11 | Sebastien Bezy       |             46 |
+|             80 | Juan Cruz Mallia     |             97.38 |       10 |             87.38 | Benjamin Urdapilleta |             61 |
+|             80 | Arthur Retiere       |             95.13 |       11 |             21.19 | Alivereti Raka       |             80 |
+|             80 | Pierre-Louis Barassi |             88.14 |       12 |             95.58 | George Moala         |             80 |
+|             80 | Paul Costes          |             58.95 |       13 |             20.35 | Pierre Fouyssac      |             61 |
+|             79 | Lucas Tauzin         |             62.29 |       14 |             85.7  | Bautista Delguy      |             80 |
+|             80 | Kalvin Gourgues      |             58.2  |       15 |             76.44 | Alex Newsome         |             80 |
+|             17 | Malachi Hawkes       |            nan    |       16 |            nan    | Henzo Kiteau         |              0 |
+|             28 | Rodrigue Neti        |             45.8  |       17 |             23.43 | Daniel Bibi Biziwu   |             28 |
+|             25 | Richie Arnold        |             70.72 |       18 |             83.47 | Thibaud Lanen        |             28 |
+|             69 | Clement Verge        |            nan    |       19 |             75.93 | Killian Tixeront     |             28 |
+|             17 | Leo Labarthe         |            nan    |       20 |             52.56 | Baptiste Jauneau     |             34 |
+|              1 | Celian Pouzelgues    |            nan    |       21 |            nan    | Jules Plisson        |             19 |
+|             17 | Sofiane Guitoune     |             95.81 |       22 |             25.87 | Thomas Roziere       |             19 |
+|             28 | Paul Mallez          |            nan    |       23 |             91.14 | Rabah Slimani        |             65 |
 

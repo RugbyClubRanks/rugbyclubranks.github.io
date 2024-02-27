@@ -9,9 +9,9 @@ categories: "Nationale 2023" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.689, which translates to predicting Narbonne to win by 7.2.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.64, which translates to predicting Narbonne to win by 5.2.
 
-Our Over/Under is 41.5 - and combined with the spread above, we have a predicted scoreline of 17 to 24
+Our Over/Under is 37.5 - and combined with the spread above, we have a predicted scoreline of 16 to 22
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,19 +69,19 @@ Narbonne by 6.2 on a neutral pitch
 
 |   Away Minutes | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             80 | Jason Tindiliere  |             27.87 |        1 |             55.11 | Sylvain Abadie     |             80 |
-|             80 | Lucas Marijon     |             70.11 |        2 |             24.35 | Clément Esteriola  |             80 |
-|             80 | Anthony Pelmard   |             56.09 |        3 |             63.98 | Jamie Hagan        |             80 |
-|             80 | Richard Fourcade  |             20.62 |        4 |             74.42 | Marius Antonescu   |             80 |
-|             80 | Jaco Willemse     |             20.05 |        5 |             11.41 | Leva Fifita        |             80 |
-|             80 | Marius Vialle     |             12.49 |        6 |             69.84 | Luke Nakobukobua   |             80 |
-|             80 | Hendri Storm      |             49.42 |        7 |             57.14 | Arthur Christienne |             80 |
-|             80 | Clement Lanen     |             25.17 |        8 |             31.7  | Charles Malet      |             80 |
-|             80 | Enzo Hardy        |             28.29 |        9 |             18.86 | Pierrick Nova      |             80 |
-|             80 | Yann Caillat      |             25.42 |       10 |              4.04 | Gilles Bosch       |             80 |
-|             80 | Pierre Tournebize |             13.44 |       11 |             67.09 | Ambrose Curtis     |             80 |
-|             80 | Cyril Couturier   |             79.86 |       12 |             98.84 | Peter Betham       |             80 |
-|             80 | Vincent Fouillade |             53.43 |       13 |             45.98 | Pierre Nueno       |             80 |
-|             80 | Benjamin Yarde    |             20.74 |       14 |             75.24 | Clément Clavières  |             80 |
-|             80 | Arthur Duhau      |             80.46 |       15 |             60.46 | Paul Auradou       |             80 |
+|             80 | Jason Tindiliere  |             27.82 |        1 |             55.1  | Sylvain Abadie     |             80 |
+|             80 | Lucas Marijon     |             70.77 |        2 |             24.26 | Clément Esteriola  |             80 |
+|             80 | Anthony Pelmard   |             56.35 |        3 |             64.13 | Jamie Hagan        |             80 |
+|             80 | Richard Fourcade  |             20.67 |        4 |             74.51 | Marius Antonescu   |             80 |
+|             80 | Jaco Willemse     |             20.09 |        5 |             11.37 | Leva Fifita        |             80 |
+|             80 | Marius Vialle     |             12.41 |        6 |             69.78 | Luke Nakobukobua   |             80 |
+|             80 | Hendri Storm      |             49.31 |        7 |             56.95 | Arthur Christienne |             80 |
+|             80 | Clement Lanen     |             24.48 |        8 |             31.7  | Charles Malet      |             80 |
+|             80 | Enzo Hardy        |             27.95 |        9 |             18.11 | Pierrick Nova      |             80 |
+|             80 | Yann Caillat      |             25.48 |       10 |              4.05 | Gilles Bosch       |             80 |
+|             80 | Pierre Tournebize |             13.24 |       11 |             66.74 | Ambrose Curtis     |             80 |
+|             80 | Cyril Couturier   |             80    |       12 |             98.84 | Peter Betham       |             80 |
+|             80 | Vincent Fouillade |             53.02 |       13 |             45.12 | Pierre Nueno       |             80 |
+|             80 | Benjamin Yarde    |             20.44 |       14 |             75.53 | Clément Clavières  |             80 |
+|             80 | Arthur Duhau      |             80.14 |       15 |             60.28 | Paul Auradou       |             80 |
 

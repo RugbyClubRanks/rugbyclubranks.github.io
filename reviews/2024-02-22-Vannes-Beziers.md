@@ -11,7 +11,7 @@ categories: "Pro D2 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.681, which translates to predicting Vannes to win by 6.7.
 
-Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 21 to 28
+Our Over/Under is 55.5 - and combined with the spread above, we have a predicted scoreline of 24 to 31
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Vannes by 5.4 on a neutral pitch
 
 |   Away Minutes | Away Player             |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:------------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             63 | Giorgi Akhaladze        |             43.37 |        1 |             85.04 | Andy Bordelai         |             51 |
-|             58 | Jose Luis Gonzalez      |             83.21 |        2 |             89.67 | Pat Leafa             |             57 |
-|             56 | Luka Tchelidze          |             62.9  |        3 |             92.38 | Paga Tafili           |             57 |
-|             80 | Clément Bitz            |             69.12 |        4 |             69.47 | Anton Bresler         |             70 |
-|             80 | Pierre Gayraud          |             14.29 |        5 |             85.02 | Darren O'Shea         |             51 |
-|             80 | Pierrick Gunther        |              0.63 |        6 |             20.74 | Karl Chateau          |             51 |
-|             63 | Gillian Benoy           |              9.31 |        7 |             98.73 | Francisco Gorrissen   |             80 |
-|             53 | Joaquim Selma           |             31.93 |        8 |             62.7  | Sione Kalamafoni      |             80 |
-|             80 | Jean Victor Goillot     |             21.41 |        9 |             92.73 | Michael Ruru          |             80 |
-|             63 | Tim Nanai-Williams      |             92.4  |       10 |             95.49 | Maxime Lafage         |             80 |
-|             80 | Nicolas Plazy           |             78.94 |       11 |             70.26 | Romaric Camou         |             60 |
-|             37 | Watisoni Votu           |             89.41 |       12 |             16.18 | Alex Arrate           |             70 |
-|             80 | Paul Recor              |             59.72 |       13 |             87.78 | Sacha Valleau         |             80 |
-|             80 | Paul Alquier            |             18.94 |       14 |             54.71 | Enzo Benmegal         |             80 |
-|             80 | Victor Dreuille         |             22.76 |       15 |             65.52 | Paul Surano           |             80 |
-|             43 | Maxime Vacquier         |            nan    |       16 |             38.71 | Charles-Henri Berguet |             29 |
-|             24 | Yannick Arroyo          |             74.73 |       17 |             12.44 | Eric Marks            |             29 |
+|             63 | Giorgi Akhaladze        |             43.56 |        1 |             85.06 | Andy Bordelai         |             51 |
+|             58 | Jose Luis Gonzalez      |             83.46 |        2 |             89.89 | Pat Leafa             |             57 |
+|             56 | Luka Tchelidze          |             62.88 |        3 |             92.58 | Paga Tafili           |             57 |
+|             80 | Clément Bitz            |             69.58 |        4 |             69.92 | Anton Bresler         |             70 |
+|             80 | Pierre Gayraud          |             14.24 |        5 |             85.53 | Darren O'Shea         |             51 |
+|             80 | Pierrick Gunther        |              0.64 |        6 |             20.68 | Karl Chateau          |             51 |
+|             63 | Gillian Benoy           |              9.33 |        7 |             98.62 | Francisco Gorrissen   |             80 |
+|             53 | Joaquim Selma           |             31.93 |        8 |             62.94 | Sione Kalamafoni      |             80 |
+|             80 | Jean Victor Goillot     |             20.67 |        9 |             92.52 | Michael Ruru          |             80 |
+|             63 | Tim Nanai-Williams      |             91.9  |       10 |             95    | Maxime Lafage         |             80 |
+|             80 | Nicolas Plazy           |             79.13 |       11 |             69.81 | Romaric Camou         |             60 |
+|             37 | Watisoni Votu           |             89.53 |       12 |             16.16 | Alex Arrate           |             70 |
+|             80 | Paul Recor              |             59.42 |       13 |             87.91 | Sacha Valleau         |             80 |
+|             80 | Paul Alquier            |             18.54 |       14 |             54.87 | Enzo Benmegal         |             80 |
+|             80 | Victor Dreuille         |             22.86 |       15 |             65.36 | Paul Surano           |             80 |
+|             43 | Maxime Vacquier         |            nan    |       16 |             38.82 | Charles-Henri Berguet |             29 |
+|             24 | Yannick Arroyo          |             74.96 |       17 |             12.4  | Eric Marks            |             29 |
 |             27 | Thomas Canaleta         |            nan    |       18 |             91.84 | Joe Edwards           |             29 |
-|             22 | Yanis Boulassel         |             48.71 |       19 |             55.54 | Théo Beziat           |             23 |
-|             17 | Clément Samper          |            nan    |       20 |             75.81 | Jérémy Boyadjis       |             23 |
-|             17 | Harry Glynn             |            nan    |       21 |              7.36 | Massimo Ortolan       |             20 |
+|             22 | Yanis Boulassel         |             48.53 |       19 |             55.7  | Théo Beziat           |             23 |
+|             17 | Clément Samper          |            nan    |       20 |             76.12 | Jérémy Boyadjis       |             23 |
+|             17 | Harry Glynn             |            nan    |       21 |              7.38 | Massimo Ortolan       |             20 |
 |             17 | Petero Taviraki Mailulu |            nan    |       22 |            nan    | Timothé Mezou         |             10 |
-|            nan | nan                     |            nan    |       23 |             55.21 | Jules Le Bail         |             10 |
+|            nan | nan                     |            nan    |       23 |             55.31 | Jules Le Bail         |             10 |
 

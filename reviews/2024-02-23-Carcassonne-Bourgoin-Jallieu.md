@@ -9,9 +9,9 @@ categories: "Nationale 2023" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.707, which translates to predicting Carcassonne to win by 7.8.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.681, which translates to predicting Carcassonne to win by 6.7.
 
-Our Over/Under is 22.5 - and combined with the spread above, we have a predicted scoreline of 8 to 15
+Our Over/Under is 36.5 - and combined with the spread above, we have a predicted scoreline of 15 to 21
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Carcassonne by 6.6 on a neutral pitch
 
 |   Away Minutes | Away Player              |   Away Percentile |   Number |   Home Percentile | Home Player       |   Home Minutes |
 |---------------:|:-------------------------|------------------:|---------:|------------------:|:------------------|---------------:|
-|             57 | Romain Favaretto         |             57.97 |        1 |             91.67 | Andrei Ursache    |             65 |
-|             62 | Killian Tripier          |             73.06 |        2 |             50    | Raphael Carbou    |             80 |
-|             46 | Maxime Calliet           |             21.51 |        3 |             70.61 | Nikoloz Narmania  |             65 |
-|             59 | Robin Gascou             |             64.4  |        4 |             18.66 | Romain Manchia    |             80 |
-|             80 | Jonathan Kpoku           |             74.77 |        5 |             26.96 | Clément Fontaine  |             55 |
-|             80 | Kevin Chaudouard         |             54.39 |        6 |             82.22 | Gary Graham       |             80 |
-|             77 | Theophile Cotte          |             67.41 |        7 |             68.78 | Etienne Herjean   |             80 |
-|             65 | Poutasi Luafutu          |             36.83 |        8 |             60.14 | Shaun Adendorff   |              5 |
-|             65 | Martin Doan              |             65.23 |        9 |             20.04 | Gaetan Pichon     |             80 |
-|             51 | Nicolas Vuillemin        |             86.46 |       10 |             33.02 | Damien Añon       |             80 |
-|             80 | Adrien Pontarollo        |             17.88 |       11 |             77.14 | Clement Egiziano  |             80 |
-|             80 | Aviata Silago            |             32.13 |       12 |             47.03 | Tutuila Vaea      |             80 |
-|             80 | Christopher Bosch        |             39    |       13 |             58.79 | Mathys Barka      |             80 |
-|             80 | Makalea Foliaki          |             65.5  |       14 |             78.73 | Léo Darrelatour   |             80 |
-|             80 | Paul-Hugo Champ          |             57.01 |       15 |             28.74 | Enahemo Artaud    |             80 |
-|             23 | Zhorzhi (Jorji) Saldadze |             16.76 |       16 |             49.46 | Florent Lorenzon  |             15 |
-|             18 | Mohamed Khribache        |             24.17 |       17 |             78.32 | Fabien Lorenzon   |             15 |
-|             34 | Oktay Yilmaz             |             56    |       18 |             11.87 | Marius Iftimiciuc |             25 |
-|             21 | Kemueli Lavetanakoroi    |             78.09 |       19 |             65.29 | Romain Guyot      |             75 |
-|             15 | Aitor Hourcade           |             11.64 |       20 |            nan    | nan               |            nan |
+|             57 | Romain Favaretto         |             55.19 |        1 |             91.86 | Andrei Ursache    |             65 |
+|             62 | Killian Tripier          |             66.36 |        2 |             50.18 | Raphael Carbou    |             80 |
+|             46 | Maxime Calliet           |             16.37 |        3 |             71.02 | Nikoloz Narmania  |             65 |
+|             59 | Robin Gascou             |             58.44 |        4 |             18.71 | Romain Manchia    |             80 |
+|             80 | Jonathan Kpoku           |             74.74 |        5 |             26.98 | Clément Fontaine  |             55 |
+|             80 | Kevin Chaudouard         |             40.62 |        6 |             82.5  | Gary Graham       |             80 |
+|             77 | Theophile Cotte          |             67.44 |        7 |             68.82 | Etienne Herjean   |             80 |
+|             65 | Poutasi Luafutu          |             34.27 |        8 |             59.91 | Shaun Adendorff   |              5 |
+|             65 | Martin Doan              |             61.02 |        9 |             19.29 | Gaetan Pichon     |             80 |
+|             51 | Nicolas Vuillemin        |             84.05 |       10 |             33.1  | Damien Añon       |             80 |
+|             80 | Adrien Pontarollo        |             17.58 |       11 |             77.33 | Clement Egiziano  |             80 |
+|             80 | Aviata Silago            |             30.12 |       12 |             46.16 | Tutuila Vaea      |             80 |
+|             80 | Christopher Bosch        |             28.37 |       13 |             58.37 | Mathys Barka      |             80 |
+|             80 | Makalea Foliaki          |             52.97 |       14 |             78.92 | Léo Darrelatour   |             80 |
+|             80 | Paul-Hugo Champ          |             46.65 |       15 |             28.87 | Enahemo Artaud    |             80 |
+|             23 | Zhorzhi (Jorji) Saldadze |             12.97 |       16 |             49.46 | Florent Lorenzon  |             15 |
+|             18 | Mohamed Khribache        |             24.08 |       17 |             78.62 | Fabien Lorenzon   |             15 |
+|             34 | Oktay Yilmaz             |             56.26 |       18 |             11.83 | Marius Iftimiciuc |             25 |
+|             21 | Kemueli Lavetanakoroi    |             77.86 |       19 |             64.79 | Romain Guyot      |             75 |
+|             15 | Aitor Hourcade           |              9.44 |       20 |            nan    | nan               |            nan |
 |              3 | Matteo Broeders          |            nan    |       21 |            nan    | nan               |            nan |
-|             15 | Tomas Munilla lo Duca    |             84.48 |       22 |            nan    | nan               |            nan |
-|             29 | Isaiah Leota             |             72.99 |       23 |            nan    | nan               |            nan |
+|             15 | Tomas Munilla lo Duca    |             81.3  |       22 |            nan    | nan               |            nan |
+|             29 | Isaiah Leota             |             68.26 |       23 |            nan    | nan               |            nan |
 
