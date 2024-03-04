@@ -9,7 +9,7 @@ categories: "Nationale 2023" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.886, which translates to predicting Tarbes to win by 20.9.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.883, which translates to predicting Tarbes to win by 20.6.
 
 Our Over/Under is 40.5 - and combined with the spread above, we have a predicted scoreline of 10 to 31
 
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Tarbes by 13.3
+## Prediction without Player Minutes: Tarbes by 12.4
 
 
-Tarbes by 7.0 on a neutral pitch
+Tarbes by 6.1 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -67,21 +67,29 @@ Tarbes by 7.0 on a neutral pitch
 </p>
 
 
-|   Away Minutes | Away Player      |   Away Percentile |   Number |   Home Percentile | Home Player            |   Home Minutes |
-|---------------:|:-----------------|------------------:|---------:|------------------:|:-----------------------|---------------:|
-|             80 | Louan Capuano    |             16.64 |        1 |             42.13 | Johan Mees Erasmus     |             80 |
-|             80 | Dimitri Gibierge |              3.68 |        2 |             64.15 | Vincent Dolier         |             80 |
-|             80 | Corentin Durand  |             42.04 |        3 |             16.91 | Aleksi Tchitchiashvili |             80 |
-|             80 | Pierre Chapelle  |             28.13 |        4 |             77.96 | Léo Saint-Guilhem      |             80 |
-|             80 | Ciaran O'Flynn   |              9.87 |        5 |             73.59 | Baptiste Peytavi       |             80 |
-|             80 | Léon Peyrat      |              2.65 |        6 |             71.05 | Jean Guicherd          |             80 |
-|             80 | Charles Massot   |              2.44 |        7 |             53.66 | Jon Abadie             |             80 |
-|             80 | Théo Minodier    |             12.82 |        8 |             13.29 | Filipe Manu            |             80 |
-|             80 | Malory Piet      |             38.39 |        9 |             50.2  | Thibaut Dulucq         |             80 |
-|             80 | Tom Richard      |              7.14 |       10 |             37.62 | Mathieu Berbizier      |             80 |
-|             80 | Hippolyte Massa  |             29.98 |       11 |              2.65 | Jone Tuva              |             80 |
-|             80 | Matthias Giovale |              7.79 |       12 |             51.28 | Clement Latorre        |             80 |
-|             80 | Pierre Mollard   |             20.81 |       13 |             71.98 | Savenaca Rawaca        |             80 |
-|             80 | Théo Brunel      |             31.04 |       14 |              3.07 | Johan Paulet           |             80 |
-|             80 | Brandon Bellavia |             10.85 |       15 |             71.59 | Yon Camou              |             80 |
+|   Away Minutes | Away Player              |   Away Percentile |   Number |   Home Percentile | Home Player            |   Home Minutes |
+|---------------:|:-------------------------|------------------:|---------:|------------------:|:-----------------------|---------------:|
+|             53 | Louan Capuano            |             14.52 |        1 |             44.1  | Johan Mees Erasmus     |             58 |
+|             53 | Dimitri Gibierge         |              4.72 |        2 |             61.13 | Vincent Dolier         |             48 |
+|             53 | Corentin Durand          |             34.39 |        3 |             15.88 | Aleksi Tchitchiashvili |             48 |
+|             80 | Pierre Chapelle          |             23.41 |        4 |             78.82 | Léo Saint-Guilhem      |             80 |
+|             53 | Ciaran O'Flynn           |              9.29 |        5 |             74    | Baptiste Peytavi       |             58 |
+|             80 | Léon Peyrat              |              2.58 |        6 |             73.33 | Jean Guicherd          |             80 |
+|             60 | Charles Massot           |              2.59 |        7 |             52.38 | Jon Abadie             |             60 |
+|             80 | Théo Minodier            |             13.62 |        8 |             15.26 | Filipe Manu            |             61 |
+|             80 | Malory Piet              |             25.95 |        9 |             49.1  | Thibaut Dulucq         |             80 |
+|             52 | Tom Richard              |              5.5  |       10 |             35.27 | Mathieu Berbizier      |             52 |
+|             46 | Hippolyte Massa          |             31.73 |       11 |              3    | Jone Tuva              |             80 |
+|             80 | Matthias Giovale         |              5.65 |       12 |             54.18 | Clement Latorre        |             80 |
+|             80 | Pierre Mollard           |             16.14 |       13 |             72.79 | Savenaca Rawaca        |             80 |
+|             47 | Théo Brunel              |             33.12 |       14 |              3.32 | Johan Paulet           |             80 |
+|             80 | Brandon Bellavia         |             10.53 |       15 |             71.29 | Yon Camou              |             80 |
+|             34 | Mathieu Bonnet-Gonnnet   |             53.38 |       16 |             54.17 | Alexandre Duny         |             32 |
+|             33 | Axel Derderian           |             11.54 |       17 |             61.32 | Florian Lamothe        |             32 |
+|             28 | Enzo Ravanello           |              6.28 |       18 |              7.97 | Anthony Fuertes        |             28 |
+|             27 | Axel Benjamin            |              7.17 |       19 |             13.53 | Jone Trevor Seuvou     |             22 |
+|             27 | Pierre-Mathieu Fernandes |             12.7  |       20 |            nan    | Léo Baratgin           |             22 |
+|             27 | Romain Eliot             |             23.41 |       21 |             22.79 | Léo Estaque            |             20 |
+|             27 | Victor Comptat           |             48.24 |       22 |             22.77 | Julien Cantan          |             19 |
+|             20 | Steven Giroud            |             43.63 |       23 |            nan    | nan                    |            nan |
 

@@ -11,7 +11,7 @@ categories: "Pro D2 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.644, which translates to predicting Mont-de-Marsan to win by 5.2.
 
-Our Over/Under is 42.5 - and combined with the spread above, we have a predicted scoreline of 18 to 24
+Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 22 to 27
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Mont-de-Marsan by 6.0 on a neutral pitch
 
 |   Away Minutes | Away Player              |   Away Percentile |   Number |   Home Percentile | Home Player               |   Home Minutes |
 |---------------:|:-------------------------|------------------:|---------:|------------------:|:--------------------------|---------------:|
-|             52 | Jordan Seneca            |             35.69 |        1 |             59.21 | Dino Casadei              |             56 |
-|             59 | Jonathan Maiau           |             15.07 |        2 |             49.82 | Florian Dufour            |             59 |
-|             48 | Cleopas Kundiona         |             40.43 |        3 |             57.07 | Mattéo Lalanne            |             63 |
-|             80 | Christiaan van der Merwe |              8.38 |        4 |             74.05 | Nicolas Garrault          |             80 |
-|             56 | Chris Gabriel            |             57.41 |        5 |             28.59 | Myles Edwards             |             19 |
-|             53 | Luka Plataret            |             79.64 |        6 |             54.72 | Aurélien Lisena           |             80 |
-|             80 | Julien Kazubek           |             85.15 |        7 |             74.23 | Veresa Tuqovu Ramototabua |             80 |
-|             53 | Steven David             |             63.17 |        8 |             38.93 | Mike Faleafa              |             48 |
-|             80 | Hugo Bouyssou            |             12.01 |        9 |             56.3  | Christophe Loustalot      |             34 |
-|             56 | Shaun Reynolds           |             40.24 |       10 |             89.76 | Willie du Plessis         |             80 |
-|             80 | Johan Georg Wasserman    |             47.56 |       11 |             76.69 | Pierre Sayerse            |             80 |
-|             80 | Rudy Derrieux            |             88.26 |       12 |             75.35 | Jules Even                |             66 |
-|             75 | Arthur Mathiron          |             50.7  |       13 |             91.74 | Nacani Wakaya             |             80 |
-|             80 | Christian Ambadiang      |             61.97 |       14 |             74.36 | Eroni Sau                 |             80 |
-|             80 | Dylan Jaminet            |             70.44 |       15 |             45.03 | Théo Cortes               |             80 |
-|             32 | Aselo Ikahehegi          |            nan    |       16 |             80.14 | Romain Durand             |             61 |
-|             28 | Tornike Mataradze        |             56.89 |       17 |             63.94 | Raphaël Robic             |             32 |
-|             27 | Kevin Noah               |             35.13 |       18 |             40.75 | Kevin Viallard            |             46 |
-|             24 | Lado Chachanidze         |             50.75 |       19 |             10.73 | Jean-Luc Innocente        |             24 |
-|             24 | Yohan Le Bourhis         |             73.1  |       20 |             71.11 | Mathis Bats               |             17 |
-|             27 | Hugues Bastide           |             89.93 |       21 |             59.74 | Samuel Lagrange           |             21 |
-|             21 | Quentin Beaudaux         |             42.46 |       22 |             18.6  | Simon Desaubies           |             14 |
-|              5 | Arthurs Barbier          |             75.79 |       23 |            nan    | nan                       |            nan |
+|             52 | Jordan Seneca            |             36.03 |        1 |             58.26 | Dino Casadei              |             56 |
+|             59 | Jonathan Maiau           |             15.47 |        2 |             57.74 | Florian Dufour            |             59 |
+|             48 | Cleopas Kundiona         |             40.83 |        3 |             64.07 | Mattéo Lalanne            |             63 |
+|             80 | Christiaan van der Merwe |              8.35 |        4 |             76.46 | Nicolas Garrault          |             80 |
+|             56 | Chris Gabriel            |             56.35 |        5 |             28.71 | Myles Edwards             |             19 |
+|             53 | Luka Plataret            |             79.81 |        6 |             64.15 | Aurélien Lisena           |             80 |
+|             80 | Julien Kazubek           |             84.88 |        7 |             74.41 | Veresa Tuqovu Ramototabua |             80 |
+|             53 | Steven David             |             62.21 |        8 |             39.67 | Mike Faleafa              |             48 |
+|             80 | Hugo Bouyssou            |             12.18 |        9 |             54.29 | Christophe Loustalot      |             34 |
+|             56 | Shaun Reynolds           |             39.37 |       10 |             91.06 | Willie du Plessis         |             80 |
+|             80 | Johan Georg Wasserman    |             47.59 |       11 |             76.63 | Pierre Sayerse            |             80 |
+|             80 | Rudy Derrieux            |             87.51 |       12 |             79.86 | Jules Even                |             66 |
+|             75 | Arthur Mathiron          |             52.73 |       13 |             91.28 | Nacani Wakaya             |             80 |
+|             80 | Christian Ambadiang      |             62.59 |       14 |             80.49 | Eroni Sau                 |             80 |
+|             80 | Dylan Jaminet            |             67.94 |       15 |             55.26 | Théo Cortes               |             80 |
+|             32 | Aselo Ikahehegi          |            nan    |       16 |             79.29 | Romain Durand             |             61 |
+|             28 | Tornike Mataradze        |             57.17 |       17 |             66.67 | Raphaël Robic             |             32 |
+|             27 | Kevin Noah               |             35.06 |       18 |             54.49 | Kevin Viallard            |             46 |
+|             24 | Lado Chachanidze         |             48.35 |       19 |             16.15 | Jean-Luc Innocente        |             24 |
+|             24 | Yohan Le Bourhis         |             72.95 |       20 |             70.69 | Mathis Bats               |             17 |
+|             27 | Hugues Bastide           |             89.85 |       21 |             58.49 | Samuel Lagrange           |             21 |
+|             21 | Quentin Beaudaux         |             42.45 |       22 |             19.08 | Simon Desaubies           |             14 |
+|              5 | Arthurs Barbier          |             74.65 |       23 |            nan    | nan                       |            nan |
 

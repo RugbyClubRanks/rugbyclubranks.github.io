@@ -11,7 +11,7 @@ categories: "Pro D2 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.623, which translates to predicting Dax to win by 4.4.
 
-Our Over/Under is 39.5 - and combined with the spread above, we have a predicted scoreline of 18 to 22
+Our Over/Under is 35.5 - and combined with the spread above, we have a predicted scoreline of 16 to 20
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Dax by 2.2 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             41 | Robert Rodgers      |             12.7  |        1 |             71.82 | Louis Mary           |             53 |
-|             69 | Luka Nioradze       |             17.83 |        2 |             70.59 | Iban Hiriart-Urruty  |             53 |
-|             41 | Tim Daniel-Meissen  |             28.53 |        3 |             10.47 | Diogo Hasse Ferreira |             53 |
-|             50 | Eoghan Masterson    |             83.01 |        4 |             50.06 | Josh Furno           |             80 |
-|             80 | Cam Dodson          |             80.71 |        5 |              7.92 | Jean-Baptiste Singer |             65 |
-|             58 | Heath Backhouse     |             82.4  |        6 |             62.99 | Arnaud Aletti        |             80 |
-|             55 | Didier Tison        |             47.83 |        7 |             75.19 | Paul Arnaud Ausset   |             28 |
-|             80 | Beka Shvangiradze   |             57.34 |        8 |             86.71 | Genesis Mamea Lemalu |             80 |
-|             41 | David Delarue       |             26.77 |        9 |             72.83 | Sylvère Reteau       |             67 |
-|             80 | Antoine Aucagne     |             41.19 |       10 |             55.48 | Romuald Séguy        |             67 |
-|             80 | AJ Coertzen         |             74.68 |       11 |             62.82 | Guillaume Bouche     |             67 |
-|             80 | Ofa Manuofetoa      |             72.67 |       12 |             80.93 | Alex McHenry         |             80 |
-|             61 | Hugo Bastard        |             49.53 |       13 |             15.23 | Benjamin Puntous     |             80 |
-|             80 | Juun Pieters        |             67.37 |       14 |             87.71 | Hugo Fourquet        |             80 |
-|             80 | Marc Palmier        |             19.17 |       15 |              9.24 | Maxime Oltmann       |             80 |
-|             39 | Irakli Mtchedlidze  |             53.4  |       16 |             26.72 | Ratu Nacika          |             52 |
-|             39 | Mikheil Alania      |             37.4  |       17 |             48.57 | Asa Faitotoa         |             27 |
-|             39 | Thomas Cretu        |             39.53 |       18 |             16.18 | Louis Barrere        |             27 |
-|             30 | Martial Rolland     |             54.88 |       19 |             22.63 | David Lolohea        |             27 |
-|             25 | Hugo Huurman        |             73.06 |       20 |             68.43 | Étienne Loiret       |             15 |
-|             19 | Christa Powell      |             12.67 |       21 |             63.33 | Hugo Cerisier        |             13 |
-|             22 | Aleksandre Burduli  |            nan    |       22 |             78.54 | Paul Ravier          |             13 |
-|             11 | Jean-Jacques Gymael |             12.79 |       23 |             55.89 | Théo Duprat          |             13 |
+|             41 | Robert Rodgers      |             13.79 |        1 |             71.42 | Louis Mary           |             53 |
+|             69 | Luka Nioradze       |             18.3  |        2 |             69.62 | Iban Hiriart-Urruty  |             53 |
+|             41 | Tim Daniel-Meissen  |             30.58 |        3 |             10.71 | Diogo Hasse Ferreira |             53 |
+|             50 | Eoghan Masterson    |             82    |        4 |             49.29 | Josh Furno           |             80 |
+|             80 | Cam Dodson          |             80.35 |        5 |              8    | Jean-Baptiste Singer |             65 |
+|             58 | Heath Backhouse     |             82.51 |        6 |             63.07 | Arnaud Aletti        |             80 |
+|             55 | Didier Tison        |             47.52 |        7 |             75.38 | Paul Arnaud Ausset   |             28 |
+|             80 | Beka Shvangiradze   |             57.04 |        8 |             86.15 | Genesis Mamea Lemalu |             80 |
+|             41 | David Delarue       |             28.54 |        9 |             72.06 | Sylvère Reteau       |             67 |
+|             80 | Antoine Aucagne     |             42.03 |       10 |             49.03 | Romuald Séguy        |             67 |
+|             80 | AJ Coertzen         |             75.24 |       11 |             63.56 | Guillaume Bouche     |             67 |
+|             80 | Ofa Manuofetoa      |             73.14 |       12 |             75.5  | Alex McHenry         |             80 |
+|             61 | Hugo Bastard        |             49.47 |       13 |             15.67 | Benjamin Puntous     |             80 |
+|             80 | Juun Pieters        |             67.52 |       14 |             83.16 | Hugo Fourquet        |             80 |
+|             80 | Marc Palmier        |             21.05 |       15 |              5.98 | Maxime Oltmann       |             80 |
+|             39 | Irakli Mtchedlidze  |             52.9  |       16 |             26.89 | Ratu Nacika          |             52 |
+|             39 | Mikheil Alania      |             37.33 |       17 |             48.28 | Asa Faitotoa         |             27 |
+|             39 | Thomas Cretu        |             39.75 |       18 |             16.23 | Louis Barrere        |             27 |
+|             30 | Martial Rolland     |             57.76 |       19 |             18.06 | David Lolohea        |             27 |
+|             25 | Hugo Huurman        |             74.3  |       20 |             67.41 | Étienne Loiret       |             15 |
+|             19 | Christa Powell      |             13.43 |       21 |             64.01 | Hugo Cerisier        |             13 |
+|             22 | Aleksandre Burduli  |            nan    |       22 |             71.66 | Paul Ravier          |             13 |
+|             11 | Jean-Jacques Gymael |             12.89 |       23 |             54.55 | Théo Duprat          |             13 |
 

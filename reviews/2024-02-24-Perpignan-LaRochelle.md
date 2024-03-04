@@ -11,7 +11,7 @@ categories: "Top 14 Orange 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.305, which translates to predicting La Rochelle to win by 7.2.
 
-Our Over/Under is 57.5 - and combined with the spread above, we have a predicted scoreline of 33 to 25
+Our Over/Under is 60.5 - and combined with the spread above, we have a predicted scoreline of 34 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: La Rochelle by 1.1
+## Prediction without Player Minutes: La Rochelle by 1.3
 
 
-La Rochelle by 9.8 on a neutral pitch
+La Rochelle by 10.0 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ La Rochelle by 9.8 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             56 | Louis Penverne        |             30.14 |        1 |              2.68 | Giorgi Tetrashvili    |             56 |
-|             44 | Sacha Idoumi          |             37.13 |        2 |             88.97 | Seilala Lam           |             60 |
-|             49 | Georges-Henri Colombe |              2.95 |        3 |             55.37 | Nemo Roelofse         |             73 |
-|             59 | Thomas Ployet         |             39.15 |        4 |             75.66 | Jacobus van Tonder    |             80 |
-|             80 | Remi Picquette        |             53.04 |        5 |             51.44 | Mathieu Tanguy        |             68 |
-|             80 | Judicael Cancoriet    |             23.33 |        6 |             92.79 | Patrick Sobela        |             80 |
-|             71 | Levani Botia          |             97.14 |        7 |             73.91 | Alan Brazo            |             76 |
-|             80 | Yoan Tanga            |             61.31 |        8 |             80.89 | Joaquin Oviedo        |             60 |
-|             71 | Tawera Kerr-Barlow    |             97.83 |        9 |             84.84 | Tom Ecochard          |             57 |
-|             80 | Antoine Hastoy        |             51.19 |       10 |             87.86 | Jake McIntyre         |             49 |
-|             59 | Raymond Rhule         |             33.9  |       11 |             61.44 | Lucas Dubois          |             80 |
-|             80 | Jules Favre           |             78.6  |       12 |             99.77 | Jeronimo de la Fuente |             80 |
-|             72 | Ulupano Seuteni       |             63.37 |       13 |             11.74 | Alivereti Duguivalu   |             80 |
-|             80 | Teddy Thomas          |             87.61 |       14 |             72.67 | Tavite Veredamu       |             80 |
-|             80 | Brice Dulin           |             99.08 |       15 |             80.6  | Tommaso Allan         |             80 |
-|             36 | Quentin Lespiaucq     |             71.32 |       16 |            nan    | Ignacio Ruiz          |             20 |
-|             24 | Joel Sclavi           |             85.69 |       17 |             41.32 | Xavier Chiocci        |             24 |
-|              9 | Matthias Haddad       |             45.71 |       18 |              1.72 | Shahn Eru             |             12 |
-|             21 | Oscar Jegou           |            nan    |       19 |            nan    | Tristan Labouteley    |              4 |
-|              9 | Thomas Berjon         |             80.19 |       20 |             13.05 | Lucas Velarte         |             20 |
-|             21 | Ihaia West            |             52.79 |       21 |              7.28 | Sadek Deghmache       |             23 |
-|              8 | Simeli Daunivucu      |            nan    |       22 |             29.88 | Apisai Naqalevu       |             31 |
-|             31 | Alexandre Kuntelia    |             54.11 |       23 |            nan    | Akato Fakatika        |              7 |
+|             56 | Louis Penverne        |             38.38 |        1 |              2.36 | Giorgi Tetrashvili    |             56 |
+|             44 | Sacha Idoumi          |             36.79 |        2 |             88.68 | Seilala Lam           |             60 |
+|             49 | Georges-Henri Colombe |              3.99 |        3 |             54.81 | Nemo Roelofse         |             73 |
+|             59 | Thomas Ployet         |             37.88 |        4 |             72.25 | Jacobus van Tonder    |             80 |
+|             80 | Remi Picquette        |             58.82 |        5 |             44.12 | Mathieu Tanguy        |             68 |
+|             80 | Judicael Cancoriet    |             30.24 |        6 |             92.55 | Patrick Sobela        |             80 |
+|             71 | Levani Botia          |             97.62 |        7 |             73.54 | Alan Brazo            |             76 |
+|             80 | Yoan Tanga            |             65.49 |        8 |             78.17 | Joaquin Oviedo        |             60 |
+|             71 | Tawera Kerr-Barlow    |             98.2  |        9 |             84.23 | Tom Ecochard          |             57 |
+|             80 | Antoine Hastoy        |             55.8  |       10 |             88.41 | Jake McIntyre         |             49 |
+|             59 | Raymond Rhule         |             33.98 |       11 |             62.17 | Lucas Dubois          |             80 |
+|             80 | Jules Favre           |             80.68 |       12 |             99.65 | Jeronimo de la Fuente |             80 |
+|             72 | Ulupano Seuteni       |             68.55 |       13 |             12.13 | Alivereti Duguivalu   |             80 |
+|             80 | Teddy Thomas          |             89.5  |       14 |             69.56 | Tavite Veredamu       |             80 |
+|             80 | Brice Dulin           |             99.28 |       15 |             77.05 | Tommaso Allan         |             80 |
+|             36 | Quentin Lespiaucq     |             71.13 |       16 |             58.11 | Ignacio Ruiz          |             20 |
+|             24 | Joel Sclavi           |             85.12 |       17 |             41.56 | Xavier Chiocci        |             24 |
+|              9 | Matthias Haddad       |             45.57 |       18 |              2.12 | Shahn Eru             |             12 |
+|             21 | Oscar Jegou           |            nan    |       19 |             10.94 | Tristan Labouteley    |              4 |
+|              9 | Thomas Berjon         |             80.17 |       20 |             14.08 | Lucas Velarte         |             20 |
+|             21 | Ihaia West            |             51.94 |       21 |              7.58 | Sadek Deghmache       |             23 |
+|              8 | Simeli Daunivucu      |            nan    |       22 |             30.15 | Apisai Naqalevu       |             31 |
+|             31 | Alexandre Kuntelia    |             53.72 |       23 |            nan    | Akato Fakatika        |              7 |
 

@@ -69,27 +69,27 @@ Brive by 7.8 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player               |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:--------------------------|---------------:|
-|             80 | Julien Royer          |              6.53 |        1 |             73.97 | Hugo Reilhes              |             50 |
-|             58 | Cyril Deligny         |              2.21 |        2 |             36.21 | Benjamin Boudou           |             50 |
-|             39 | Mathis Roume          |             34.44 |        3 |             67.71 | Vakh Abdaladze            |             50 |
-|             58 | Darrell Dyer          |             86.11 |        4 |             72.9  | Retief Marais             |             50 |
-|             58 | Florian Goumat        |             70.15 |        5 |             72.1  | Tevita Ratuva             |             50 |
-|             80 | Éloi Massot           |              2.86 |        6 |             92.36 | Ross Moriarty             |             50 |
-|             80 | Charles Brayer        |             51.33 |        7 |             57.16 | Sasha Gue                 |             80 |
-|             80 | Sven Bernat Girlando  |             75.29 |        8 |             65.03 | Rahboni Warren-Vosayaco   |             50 |
-|             51 | Léopold Dupas         |             50.98 |        9 |             34.06 | Leo Carbonneau            |             80 |
-|             60 | Joris Moura           |             80.48 |       10 |             22.14 | Tom Raffy                 |             80 |
-|             80 | Gauthier Minguillon   |             56.14 |       11 |             64.83 | Mathis Ferté              |             80 |
-|             80 | Isaac Te Tamaki       |              7.67 |       12 |             91.16 | Sam Johnson               |             80 |
-|             80 | Esteban Tercq         |             38.14 |       13 |             37.09 | Paula Walisolio           |             56 |
-|             58 | Jonathan Quinnez      |             60.49 |       14 |             78.71 | Arthur Bonneval           |             80 |
-|             47 | Charles Bouldoire     |             89.38 |       15 |             87.76 | Stuart Olding             |             80 |
-|             41 | Chris Talakai         |             23.26 |       16 |             68.52 | Wesley Tapueluelu         |             30 |
-|             29 | Matéo Lajous          |            nan    |       17 |             79.41 | Issam Hamel               |             30 |
+|             80 | Julien Royer          |              6.72 |        1 |             68.97 | Hugo Reilhes              |             50 |
+|             58 | Cyril Deligny         |              2.83 |        2 |             35.85 | Benjamin Boudou           |             50 |
+|             39 | Mathis Roume          |             34.94 |        3 |             67.06 | Vakh Abdaladze            |             50 |
+|             58 | Darrell Dyer          |             85.06 |        4 |             68.25 | Retief Marais             |             50 |
+|             58 | Florian Goumat        |             69.18 |        5 |             70.12 | Tevita Ratuva             |             50 |
+|             80 | Éloi Massot           |              2.81 |        6 |             84.74 | Ross Moriarty             |             50 |
+|             80 | Charles Brayer        |             51.3  |        7 |             52.7  | Sasha Gue                 |             80 |
+|             80 | Sven Bernat Girlando  |             75.12 |        8 |             67.1  | Rahboni Warren-Vosayaco   |             50 |
+|             51 | Léopold Dupas         |             59.08 |        9 |             27.54 | Leo Carbonneau            |             80 |
+|             60 | Joris Moura           |             81.64 |       10 |             22.22 | Tom Raffy                 |             80 |
+|             80 | Gauthier Minguillon   |             56.59 |       11 |             53.59 | Mathis Ferté              |             80 |
+|             80 | Isaac Te Tamaki       |              8.13 |       12 |             90.81 | Sam Johnson               |             80 |
+|             80 | Esteban Tercq         |             37.22 |       13 |             31.21 | Paula Walisolio           |             56 |
+|             58 | Jonathan Quinnez      |             61.09 |       14 |             75.67 | Arthur Bonneval           |             80 |
+|             47 | Charles Bouldoire     |             89.47 |       15 |             88.16 | Stuart Olding             |             80 |
+|             41 | Chris Talakai         |             23.5  |       16 |             67.88 | Wesley Tapueluelu         |             30 |
+|             29 | Matéo Lajous          |            nan    |       17 |             76.98 | Issam Hamel               |             30 |
 |             22 | Etienne Narmand       |            nan    |       18 |            nan    | Teun Karst                |             30 |
-|             22 | Yassine Maamry        |             50.86 |       19 |             34.56 | Julien Delannoy           |             30 |
-|             22 | Loan Real             |             32.03 |       20 |            nan    | Loan Lavergne             |             30 |
-|             20 | Clément Doucet        |             31.67 |       21 |             91.41 | Said Hireche              |             30 |
-|             22 | Noe Perret-Tourlonias |             38.24 |       22 |             16.73 | Francisco Coria Marchetti |             30 |
-|             33 | Esteban Chouteau      |            nan    |       23 |             59.77 | Guillaume Galletier       |             24 |
+|             22 | Yassine Maamry        |             59.88 |       19 |             30.24 | Julien Delannoy           |             30 |
+|             22 | Loan Real             |             32.4  |       20 |            nan    | Loan Lavergne             |             30 |
+|             20 | Clément Doucet        |             31.4  |       21 |             91.47 | Said Hireche              |             30 |
+|             22 | Noe Perret-Tourlonias |             38.91 |       22 |             16.79 | Francisco Coria Marchetti |             30 |
+|             33 | Esteban Chouteau      |            nan    |       23 |             56.3  | Guillaume Galletier       |             24 |
 

@@ -11,7 +11,7 @@ categories: "Top 14 Orange 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.682, which translates to predicting Racing 92 to win by 6.7.
 
-Our Over/Under is 57.5 - and combined with the spread above, we have a predicted scoreline of 25 to 32
+Our Over/Under is 55.5 - and combined with the spread above, we have a predicted scoreline of 25 to 31
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Racing 92 by 7.7
+## Prediction without Player Minutes: Racing 92 by 7.5
 
 
-Racing 92 by 0.9 on a neutral pitch
+Racing 92 by 0.7 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Racing 92 by 0.9 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             72 | Clement Castets      |             51.7  |        1 |              6.17 | Hassane Kolingar   |             66 |
-|             59 | Mickael Ivaldi       |             96.88 |        2 |             90.44 | Camille Chat       |             66 |
-|             66 | Paul Alo-Emile       |             90.07 |        3 |             46.06 | Trevor Nyakane     |             66 |
-|             47 | Pierre-Henri Azagoh  |             75.32 |        4 |             71.76 | Boris Palu         |             70 |
-|             72 | Tanginoa Halaifonua  |             44.32 |        5 |              4.59 | Veikoso Poloniati  |             66 |
-|             61 | Ryan Chapuis         |              6.36 |        6 |              5.62 | Ibrahim Diallo     |             64 |
-|             78 | Romain Briatte       |             78.37 |        7 |             90.24 | Siya Kolisi        |             80 |
-|             80 | Sekou Macalou        |             94.87 |        8 |             87.18 | Wenceslas Lauret   |             40 |
-|             63 | Rory Kockott         |             99.02 |        9 |             21.46 | Max Spring         |             72 |
-|             80 | Zack Henry           |             85.95 |       10 |             11.43 | Martin Meliande    |             80 |
-|             80 | Lester Etien         |             90.57 |       11 |              9.43 | Wame Naituvi       |             80 |
-|             80 | Julien Delbouis      |             91.4  |       12 |             97.79 | Henry Chavancy     |             80 |
-|             80 | Joe Marchant         |             92.44 |       13 |              5.93 | Olivier Klemenczak |             68 |
-|             80 | Peniasi Dakuwaqa     |             51.48 |       14 |              7.73 | Henry Arundell     |             80 |
-|             40 | Kylan Hamdaoui       |             57.27 |       15 |             27.25 | Tristan Tedder     |             80 |
-|             21 | Lucas Peyresblanques |             21.88 |       16 |             15.81 | Janick Tarrit      |             14 |
-|              8 | Vasil Kakovin        |             36.31 |       17 |             97.94 | Eddy Ben Arous     |             14 |
-|              8 | JJ van der Mescht    |             87.14 |       18 |            nan    | Junior Kpoku       |             14 |
-|             33 | Baptiste Pesenti     |            nan    |       19 |             41.15 | Maxime Baudonne    |             26 |
-|             21 | Mathieu Hirigoyen    |              5.51 |       20 |             53.38 | Jordan Joseph      |             40 |
-|             17 | Brad Weber           |             96.85 |       21 |             16.74 | Francis Saili      |             12 |
-|             40 | Joris Segonds        |             72.62 |       22 |             94.92 | Christian Wade     |              8 |
-|             14 | Hugo Ndiaye          |             46.33 |       23 |             66.82 | Cedate Gomes Sa    |             14 |
+|             72 | Clement Castets      |             49.73 |        1 |              6.17 | Hassane Kolingar   |             66 |
+|             59 | Mickael Ivaldi       |             96.98 |        2 |             89.81 | Camille Chat       |             66 |
+|             66 | Paul Alo-Emile       |             89.75 |        3 |             45.01 | Trevor Nyakane     |             66 |
+|             47 | Pierre-Henri Azagoh  |             73.65 |        4 |             71.18 | Boris Palu         |             70 |
+|             72 | Tanginoa Halaifonua  |             43.18 |        5 |              4.71 | Veikoso Poloniati  |             66 |
+|             61 | Ryan Chapuis         |              6.05 |        6 |              5.72 | Ibrahim Diallo     |             64 |
+|             78 | Romain Briatte       |             78.29 |        7 |             90.06 | Siya Kolisi        |             80 |
+|             80 | Sekou Macalou        |             95.9  |        8 |             87.32 | Wenceslas Lauret   |             40 |
+|             63 | Rory Kockott         |             99    |        9 |             20.96 | Max Spring         |             72 |
+|             80 | Zack Henry           |             84.78 |       10 |             12.08 | Martin Meliande    |             80 |
+|             80 | Lester Etien         |             90.14 |       11 |              9.65 | Wame Naituvi       |             80 |
+|             80 | Julien Delbouis      |             90.93 |       12 |             97.76 | Henry Chavancy     |             80 |
+|             80 | Joe Marchant         |             92.11 |       13 |              6.48 | Olivier Klemenczak |             68 |
+|             80 | Peniasi Dakuwaqa     |             49.62 |       14 |              8.04 | Henry Arundell     |             80 |
+|             40 | Kylan Hamdaoui       |             55.5  |       15 |             27.03 | Tristan Tedder     |             80 |
+|             21 | Lucas Peyresblanques |             29.62 |       16 |             16.42 | Janick Tarrit      |             14 |
+|              8 | Vasil Kakovin        |             36.84 |       17 |             97.73 | Eddy Ben Arous     |             14 |
+|              8 | JJ van der Mescht    |             86.35 |       18 |            nan    | Junior Kpoku       |             14 |
+|             33 | Baptiste Pesenti     |             83.88 |       19 |             31.97 | Maxime Baudonne    |             26 |
+|             21 | Mathieu Hirigoyen    |              6.26 |       20 |             43.43 | Jordan Joseph      |             40 |
+|             17 | Brad Weber           |             97.01 |       21 |             15.43 | Francis Saili      |             12 |
+|             40 | Joris Segonds        |             72.46 |       22 |             94.75 | Christian Wade     |              8 |
+|             14 | Hugo Ndiaye          |             46.19 |       23 |             66.06 | Cedate Gomes Sa    |             14 |
 
