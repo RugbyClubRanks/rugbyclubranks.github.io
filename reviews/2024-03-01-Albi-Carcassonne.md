@@ -9,7 +9,7 @@ categories: "Nationale 2023" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.65, which translates to predicting Albi to win by 5.4.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.627, which translates to predicting Albi to win by 4.6.
 
 Our Over/Under is 34.5 - and combined with the spread above, we have a predicted scoreline of 15 to 20
 
@@ -69,27 +69,27 @@ Albi by 7.2 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player             |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:------------------------|---------------:|
-|             54 | Florent Lorenzon      |             45.28 |        1 |             90.56 | Antoine Soave           |             51 |
+|             54 | Florent Lorenzon      |             45.32 |        1 |             90.55 | Antoine Soave           |             51 |
 |             54 | Luka Petriashvili     |             66.42 |        2 |             88.49 | Romain Maurice          |             62 |
-|             54 | Fabien Lorenzon       |             76.77 |        3 |             78.68 | Jean Baptiste De Clercq |             51 |
-|             80 | Romain Manchia        |             18.47 |        4 |             41.29 | Guillem Calmon          |             80 |
+|             54 | Fabien Lorenzon       |             76.75 |        3 |             78.66 | Jean Baptiste De Clercq |             51 |
+|             80 | Romain Manchia        |             18.47 |        4 |             41.41 | Guillem Calmon          |             80 |
 |             54 | Marius Iftimiciuc     |             11.53 |        5 |             12.35 | Jacques Engelbrecht     |             53 |
-|             58 | Gary Graham           |             81.86 |        6 |             47.95 | Pierre Roussel          |             80 |
-|             80 | Etienne Herjean       |             66.2  |        7 |             59.72 | Vincent Calas           |             80 |
+|             58 | Gary Graham           |             81.84 |        6 |             47.89 | Pierre Roussel          |             80 |
+|             80 | Etienne Herjean       |             66.16 |        7 |             59.68 | Vincent Calas           |             80 |
 |             54 | Romain Guyot          |             60.33 |        8 |             82.39 | Sandrick Maciotta       |             60 |
 |             80 | Gaetan Pichon         |             18.16 |        9 |             83.03 | Gilen Queheille         |             60 |
-|             80 | Damien Añon           |             29.95 |       10 |             83.82 | Benjamin Pehau          |             80 |
+|             80 | Damien Añon           |             30.02 |       10 |             83.78 | Benjamin Pehau          |             80 |
 |             80 | Clement Egiziano      |             75.88 |       11 |             64.09 | Sean Robinson           |             80 |
-|             54 | Tutuila Vaea          |             44.64 |       12 |             66.43 | Gabriel Aviragnet       |             51 |
+|             54 | Tutuila Vaea          |             44.76 |       12 |             66.43 | Gabriel Aviragnet       |             51 |
 |             80 | Mathys Barka          |             55.59 |       13 |             93.64 | Baptiste Couchinave     |             53 |
 |             80 | Sakiusa Bureitakiyaca |             23.79 |       14 |             78.46 | Simon Hartmann          |             80 |
 |             54 | Enahemo Artaud        |             27.27 |       15 |             33.01 | Téo Dospital            |             80 |
-|             26 | Jordan Puletua        |             14.25 |       16 |             88.84 | Dimitri Tchapnga        |             29 |
-|             26 | Nikoloz Narmania      |             70.51 |       17 |             37.1  | Jarrod Poi              |             29 |
-|             26 | Valentin Sese         |             36.72 |       18 |            nan    | Lucas Pindor            |             29 |
-|             26 | Yan Arnold            |            nan    |       19 |              3.38 | James Haydn Tedder      |             27 |
+|             26 | Jordan Puletua        |             14.37 |       16 |             88.83 | Dimitri Tchapnga        |             29 |
+|             26 | Nikoloz Narmania      |             70.48 |       17 |             37.22 | Jarrod Poi              |             29 |
+|             26 | Valentin Sese         |             36.76 |       18 |            nan    | Lucas Pindor            |             29 |
+|             26 | Yan Arnold            |            nan    |       19 |              3.39 | James Haydn Tedder      |             27 |
 |             26 | Clément Fontaine      |             27.29 |       20 |             25.76 | Dion Evrard Oulai       |             27 |
 |             26 | Maxime Gianet         |             66.75 |       21 |             72.77 | Camille Jarreau         |             20 |
 |             26 | Raphael Carbou        |             49.25 |       22 |             95.21 | Théo Vidal              |             20 |
-|             22 | Corentin Bousquet     |             32.83 |       23 |             17.92 | Reinach Venter          |             18 |
+|             22 | Corentin Bousquet     |             32.86 |       23 |             17.92 | Reinach Venter          |             18 |
 

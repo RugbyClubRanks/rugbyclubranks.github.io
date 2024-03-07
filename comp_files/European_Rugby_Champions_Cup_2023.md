@@ -1,6 +1,6 @@
 ---  
 title: "European Rugby Champions Cup 2023 Status"  
-date: 2024-03-04 6:00:00 -0500  
+date: 2024-03-07 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -137,21 +137,21 @@ aside:
 
 |                    | Reach Round of Sixteen   | Reach Quarterfinals   | Reach Semifinals   | Reach Final   | Win Final   |
 |:-------------------|:-------------------------|:----------------------|:-------------------|:--------------|:------------|
-| Leinster           | 100.0 %                  | 99.8 %                | 99.4 %             | 99.2 %        | 89.8 %      |
-| Stade Toulousain   | 100.0 %                  | 100.0 %               | 96.8 %             | 91.7 %        | 9.5 %       |
-| Bulls              | 100.0 %                  | 99.4 %                | 56.2 %             | 5.9 %         | 0.6 %       |
-| Northampton Saints | 100.0 %                  | 73.2 %                | 54.4 %             | 1.4 %         | 0.1 %       |
-| Bordeaux Begles    | 100.0 %                  | 68.6 %                | 51.2 %             | 0.9 %         | 0.0 %       |
-| Harlequins         | 100.0 %                  | 74.5 %                | 23.5 %             | 0.6 %         | 0.0 %       |
-| Stormers           | 100.0 %                  | 65.3 %                | 5.8 %              | 0.2 %         | 0.0 %       |
-| Exeter Chiefs      | 100.0 %                  | 90.6 %                | 5.0 %              | 0.1 %         | 0.0 %       |
-| La Rochelle        | 100.0 %                  | 34.7 %                | 3.9 %              | 0.0 %         | 0.0 %       |
-| Saracens           | 100.0 %                  | 31.4 %                | 1.3 %              | 0.0 %         | 0.0 %       |
-| Munster            | 100.0 %                  | 26.8 %                | 1.3 %              | 0.0 %         | 0.0 %       |
-| Bath Rugby         | 100.0 %                  | 9.4 %                 | 1.0 %              | 0.0 %         | 0.0 %       |
-| Glasgow Warriors   | 100.0 %                  | 25.5 %                | 0.2 %              | 0.0 %         | 0.0 %       |
-| Lyon               | 100.0 %                  | 0.6 %                 | 0.0 %              | 0.0 %         | 0.0 %       |
+| Leinster           | 100.0 %                  | 99.8 %                | 99.4 %             | 98.3 %        | 87.7 %      |
+| Stade Toulousain   | 100.0 %                  | 100.0 %               | 96.0 %             | 90.4 %        | 11.3 %      |
+| Bulls              | 100.0 %                  | 99.9 %                | 62.2 %             | 7.3 %         | 0.5 %       |
+| Northampton Saints | 100.0 %                  | 72.4 %                | 55.1 %             | 2.1 %         | 0.2 %       |
+| La Rochelle        | 100.0 %                  | 36.0 %                | 5.1 %              | 0.4 %         | 0.2 %       |
+| Harlequins         | 100.0 %                  | 74.4 %                | 21.1 %             | 0.4 %         | 0.1 %       |
+| Bordeaux Begles    | 100.0 %                  | 69.1 %                | 46.4 %             | 0.8 %         | 0.0 %       |
+| Stormers           | 100.0 %                  | 64.0 %                | 7.5 %              | 0.3 %         | 0.0 %       |
+| Exeter Chiefs      | 100.0 %                  | 92.0 %                | 3.2 %              | 0.0 %         | 0.0 %       |
+| Munster            | 100.0 %                  | 27.6 %                | 1.8 %              | 0.0 %         | 0.0 %       |
+| Saracens           | 100.0 %                  | 30.9 %                | 1.2 %              | 0.0 %         | 0.0 %       |
+| Glasgow Warriors   | 100.0 %                  | 25.6 %                | 0.6 %              | 0.0 %         | 0.0 %       |
+| Bath Rugby         | 100.0 %                  | 8.0 %                 | 0.4 %              | 0.0 %         | 0.0 %       |
 | Leicester Tigers   | 100.0 %                  | 0.2 %                 | 0.0 %              | 0.0 %         | 0.0 %       |
+| Lyon               | 100.0 %                  | 0.1 %                 | 0.0 %              | 0.0 %         | 0.0 %       |
 | Racing 92          | 100.0 %                  | 0.0 %                 | 0.0 %              | 0.0 %         | 0.0 %       |
 
 
@@ -163,7 +163,7 @@ aside:
 ### Exeter Chiefs V Bath Rugby on 2024/04/06
 
 
-Average Margin: Exeter Chiefs by 5.2
+Average Margin: Exeter Chiefs by 5.1
 
 <p float="left">
 <img src="plots/performances_2024-04-06-ExeterChiefs_V_BathRugby.png" width="32%" />
@@ -174,7 +174,7 @@ Average Margin: Exeter Chiefs by 5.2
 ### Leinster V Leicester Tigers on 2024/04/06
 
 
-Average Margin: Leinster by 10.9
+Average Margin: Leinster by 10.6
 
 <p float="left">
 <img src="plots/performances_2024-04-06-Leinster_V_LeicesterTigers.png" width="32%" />
@@ -185,7 +185,7 @@ Average Margin: Leinster by 10.9
 ### Stade Toulousain V Racing 92 on 2024/04/06
 
 
-Average Margin: Stade Toulousain by 9.8
+Average Margin: Stade Toulousain by 10.2
 
 <p float="left">
 <img src="plots/performances_2024-04-06-StadeToulousain_V_Racing92.png" width="32%" />
@@ -196,7 +196,7 @@ Average Margin: Stade Toulousain by 9.8
 ### Northampton Saints V Munster on 2024/04/06
 
 
-Average Margin: Northampton Saints by 2.5
+Average Margin: Northampton Saints by 2.3
 
 <p float="left">
 <img src="plots/performances_2024-04-06-NorthamptonSaints_V_Munster.png" width="32%" />
@@ -207,7 +207,7 @@ Average Margin: Northampton Saints by 2.5
 ### Stormers V La Rochelle on 2024/04/06
 
 
-Average Margin: Stormers by 1.3
+Average Margin: Stormers by 1.2
 
 <p float="left">
 <img src="plots/performances_2024-04-06-Stormers_V_LaRochelle.png" width="32%" />
@@ -229,7 +229,7 @@ Average Margin: Bulls by 9.1
 ### Harlequins V Glasgow Warriors on 2024/04/06
 
 
-Average Margin: Harlequins by 2.7
+Average Margin: Harlequins by 2.9
 
 <p float="left">
 <img src="plots/performances_2024-04-06-Harlequins_V_GlasgowWarriors.png" width="32%" />
@@ -240,7 +240,7 @@ Average Margin: Harlequins by 2.7
 ### Bordeaux Begles V Saracens on 2024/04/06
 
 
-Average Margin: Bordeaux Begles by 1.8
+Average Margin: Bordeaux Begles by 2.0
 
 <p float="left">
 <img src="plots/performances_2024-04-06-BordeauxBegles_V_Saracens.png" width="32%" />
@@ -250,318 +250,10 @@ Average Margin: Bordeaux Begles by 1.8
 
 ## Quarterfinals
 
-### Bulls V Harlequins on 2024/04/13
-
-
-Average Margin: Bulls by 6.4
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Bulls_V_Harlequins.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Bulls_V_Harlequins.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Bulls_V_Harlequins.png" width="32%" />
-</p>
-
-### Leinster V Munster on 2024/04/13
-
-
-Average Margin: Leinster by 9.3
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Leinster_V_Munster.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Leinster_V_Munster.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Leinster_V_Munster.png" width="32%" />
-</p>
-
-### Bulls V La Rochelle on 2024/04/13
-
-
-Average Margin: Bulls by 3.0
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Bulls_V_LaRochelle.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Bulls_V_LaRochelle.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Bulls_V_LaRochelle.png" width="32%" />
-</p>
-
-### Northampton Saints V Bath Rugby on 2024/04/13
-
-
-Average Margin: Northampton Saints by 5.4
-
-<p float="left">
-<img src="plots/performances_2024-04-13-NorthamptonSaints_V_BathRugby.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-NorthamptonSaints_V_BathRugby.png" width="32%" />
-<img src="plots/spreads_2024-04-13-NorthamptonSaints_V_BathRugby.png" width="32%" />
-</p>
-
-### Bordeaux Begles V La Rochelle on 2024/04/13
-
-
-Average Margin: Bordeaux Begles by 1.5
-
-<p float="left">
-<img src="plots/performances_2024-04-13-BordeauxBegles_V_LaRochelle.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-BordeauxBegles_V_LaRochelle.png" width="32%" />
-<img src="plots/spreads_2024-04-13-BordeauxBegles_V_LaRochelle.png" width="32%" />
-</p>
-
-### Bordeaux Begles V Stormers on 2024/04/13
-
-
-Average Margin: Bordeaux Begles by 3.0
-
-<p float="left">
-<img src="plots/performances_2024-04-13-BordeauxBegles_V_Stormers.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-BordeauxBegles_V_Stormers.png" width="32%" />
-<img src="plots/spreads_2024-04-13-BordeauxBegles_V_Stormers.png" width="32%" />
-</p>
-
-### Stade Toulousain V Saracens on 2024/04/13
-
-
-Average Margin: Stade Toulousain by 6.4
-
-<p float="left">
-<img src="plots/performances_2024-04-13-StadeToulousain_V_Saracens.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-StadeToulousain_V_Saracens.png" width="32%" />
-<img src="plots/spreads_2024-04-13-StadeToulousain_V_Saracens.png" width="32%" />
-</p>
-
-### Northampton Saints V Stormers on 2024/04/13
-
-
-Average Margin: Northampton Saints by 4.5
-
-<p float="left">
-<img src="plots/performances_2024-04-13-NorthamptonSaints_V_Stormers.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-NorthamptonSaints_V_Stormers.png" width="32%" />
-<img src="plots/spreads_2024-04-13-NorthamptonSaints_V_Stormers.png" width="32%" />
-</p>
-
-### Harlequins V Exeter Chiefs on 2024/04/13
-
-
-Average Margin: Harlequins by 2.8
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Harlequins_V_ExeterChiefs.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Harlequins_V_ExeterChiefs.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Harlequins_V_ExeterChiefs.png" width="32%" />
-</p>
-
-### Bulls V Glasgow Warriors on 2024/04/13
-
-
-Average Margin: Bulls by 6.7
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Bulls_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Bulls_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Bulls_V_GlasgowWarriors.png" width="32%" />
-</p>
-
-### Harlequins V Bulls on 2024/04/13
-
-
-Average Margin: Harlequins by 0.9
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Harlequins_V_Bulls.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Harlequins_V_Bulls.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Harlequins_V_Bulls.png" width="32%" />
-</p>
-
-### Stade Toulousain V Stormers on 2024/04/13
-
-
-Average Margin: Stade Toulousain by 6.8
-
-<p float="left">
-<img src="plots/performances_2024-05-04-StadeToulousain_V_Stormers.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-StadeToulousain_V_Stormers.png" width="32%" />
-<img src="plots/spreads_2024-05-04-StadeToulousain_V_Stormers.png" width="32%" />
-</p>
-
-### Northampton Saints V La Rochelle on 2024/04/13
-
-
-Average Margin: Northampton Saints by 0.4
-
-<p float="left">
-<img src="plots/performances_2024-04-13-NorthamptonSaints_V_LaRochelle.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-NorthamptonSaints_V_LaRochelle.png" width="32%" />
-<img src="plots/spreads_2024-04-13-NorthamptonSaints_V_LaRochelle.png" width="32%" />
-</p>
-
-### Stormers V Exeter Chiefs on 2024/04/13
-
-
-Average Margin: Stormers by 4.1
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Stormers_V_ExeterChiefs.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Stormers_V_ExeterChiefs.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Stormers_V_ExeterChiefs.png" width="32%" />
-</p>
-
-### Bulls V Bath Rugby on 2024/04/13
-
-
-Average Margin: Bulls by 9.2
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Bulls_V_BathRugby.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Bulls_V_BathRugby.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Bulls_V_BathRugby.png" width="32%" />
-</p>
-
-### Harlequins V Stormers on 2024/04/13
-
-
-Average Margin: Harlequins by 4.8
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Harlequins_V_Stormers.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Harlequins_V_Stormers.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Harlequins_V_Stormers.png" width="32%" />
-</p>
-
-### Stade Toulousain V Glasgow Warriors on 2024/04/13
-
-
-Average Margin: Stade Toulousain by 6.1
-
-<p float="left">
-<img src="plots/performances_2024-04-13-StadeToulousain_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-StadeToulousain_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/spreads_2024-04-13-StadeToulousain_V_GlasgowWarriors.png" width="32%" />
-</p>
-
-### Northampton Saints V Exeter Chiefs on 2024/04/13
-
-
-Average Margin: Northampton Saints by 4.2
-
-<p float="left">
-<img src="plots/performances_2024-04-13-NorthamptonSaints_V_ExeterChiefs.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-NorthamptonSaints_V_ExeterChiefs.png" width="32%" />
-<img src="plots/spreads_2024-04-13-NorthamptonSaints_V_ExeterChiefs.png" width="32%" />
-</p>
-
-### Leinster V Bath Rugby on 2024/04/13
-
-
-Average Margin: Leinster by 13.2
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Leinster_V_BathRugby.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Leinster_V_BathRugby.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Leinster_V_BathRugby.png" width="32%" />
-</p>
-
-### Bordeaux Begles V Bath Rugby on 2024/04/13
-
-
-Average Margin: Bordeaux Begles by 4.5
-
-<p float="left">
-<img src="plots/performances_2024-04-13-BordeauxBegles_V_BathRugby.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-BordeauxBegles_V_BathRugby.png" width="32%" />
-<img src="plots/spreads_2024-04-13-BordeauxBegles_V_BathRugby.png" width="32%" />
-</p>
-
-### Northampton Saints V Harlequins on 2024/04/13
-
-
-Average Margin: Northampton Saints by 3.9
-
-<p float="left">
-<img src="plots/performances_2024-04-13-NorthamptonSaints_V_Harlequins.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-NorthamptonSaints_V_Harlequins.png" width="32%" />
-<img src="plots/spreads_2024-04-13-NorthamptonSaints_V_Harlequins.png" width="32%" />
-</p>
-
-### Leinster V Bulls on 2024/04/13
-
-
-Average Margin: Leinster by 7.5
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Leinster_V_Bulls.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Leinster_V_Bulls.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Leinster_V_Bulls.png" width="32%" />
-</p>
-
-### Stade Toulousain V La Rochelle on 2024/04/13
-
-
-Average Margin: Stade Toulousain by 5.3
-
-<p float="left">
-<img src="plots/performances_2024-04-13-StadeToulousain_V_LaRochelle.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-StadeToulousain_V_LaRochelle.png" width="32%" />
-<img src="plots/spreads_2024-04-13-StadeToulousain_V_LaRochelle.png" width="32%" />
-</p>
-
-### Bordeaux Begles V Bulls on 2024/04/13
-
-
-Average Margin: Bordeaux Begles by 0.6
-
-<p float="left">
-<img src="plots/performances_2024-04-13-BordeauxBegles_V_Bulls.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-BordeauxBegles_V_Bulls.png" width="32%" />
-<img src="plots/spreads_2024-04-13-BordeauxBegles_V_Bulls.png" width="32%" />
-</p>
-
-### Leinster V Stormers on 2024/04/13
-
-
-Average Margin: Leinster by 11.1
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Leinster_V_Stormers.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Leinster_V_Stormers.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Leinster_V_Stormers.png" width="32%" />
-</p>
-
-### Stade Toulousain V Exeter Chiefs on 2024/04/13
-
-
-Average Margin: Stade Toulousain by 7.0
-
-<p float="left">
-<img src="plots/performances_2024-04-13-StadeToulousain_V_ExeterChiefs.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-StadeToulousain_V_ExeterChiefs.png" width="32%" />
-<img src="plots/spreads_2024-04-13-StadeToulousain_V_ExeterChiefs.png" width="32%" />
-</p>
-
-### Leinster V La Rochelle on 2024/04/13
-
-
-Average Margin: Leinster by 8.8
-
-<p float="left">
-<img src="plots/performances_2024-05-04-Leinster_V_LaRochelle.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-Leinster_V_LaRochelle.png" width="32%" />
-<img src="plots/spreads_2024-05-04-Leinster_V_LaRochelle.png" width="32%" />
-</p>
-
-### Bulls V Stormers on 2024/04/13
-
-
-Average Margin: Bulls by 6.8
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Bulls_V_Stormers.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Bulls_V_Stormers.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Bulls_V_Stormers.png" width="32%" />
-</p>
-
 ### Bordeaux Begles V Exeter Chiefs on 2024/04/13
 
 
-Average Margin: Bordeaux Begles by 3.3
+Average Margin: Bordeaux Begles by 4.4
 
 <p float="left">
 <img src="plots/performances_2024-04-13-BordeauxBegles_V_ExeterChiefs.png" width="32%" />
@@ -569,87 +261,54 @@ Average Margin: Bordeaux Begles by 3.3
 <img src="plots/spreads_2024-04-13-BordeauxBegles_V_ExeterChiefs.png" width="32%" />
 </p>
 
-### Leinster V Harlequins on 2024/04/13
+### Bulls V Harlequins on 2024/04/13
 
 
-Average Margin: Leinster by 10.1
+Average Margin: Bulls by 5.9
 
 <p float="left">
-<img src="plots/performances_2024-05-04-Leinster_V_Harlequins.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-Leinster_V_Harlequins.png" width="32%" />
-<img src="plots/spreads_2024-05-04-Leinster_V_Harlequins.png" width="32%" />
+<img src="plots/performances_2024-05-04-Bulls_V_Harlequins.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-Bulls_V_Harlequins.png" width="32%" />
+<img src="plots/spreads_2024-05-04-Bulls_V_Harlequins.png" width="32%" />
 </p>
 
-### Stade Toulousain V Munster on 2024/04/13
+### Bordeaux Begles V La Rochelle on 2024/04/13
 
 
-Average Margin: Stade Toulousain by 5.8
+Average Margin: La Rochelle by 0.1
 
 <p float="left">
-<img src="plots/performances_2024-04-13-StadeToulousain_V_Munster.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-StadeToulousain_V_Munster.png" width="32%" />
-<img src="plots/spreads_2024-04-13-StadeToulousain_V_Munster.png" width="32%" />
+<img src="plots/performances_2024-04-13-BordeauxBegles_V_LaRochelle.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-BordeauxBegles_V_LaRochelle.png" width="32%" />
+<img src="plots/spreads_2024-04-13-BordeauxBegles_V_LaRochelle.png" width="32%" />
 </p>
 
-### Leinster V Saracens on 2024/04/13
+### Leinster V Munster on 2024/04/13
 
 
-Average Margin: Leinster by 10.1
+Average Margin: Leinster by 11.0
 
 <p float="left">
-<img src="plots/performances_2024-04-13-Leinster_V_Saracens.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Leinster_V_Saracens.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Leinster_V_Saracens.png" width="32%" />
+<img src="plots/performances_2024-05-04-Leinster_V_Munster.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-Leinster_V_Munster.png" width="32%" />
+<img src="plots/spreads_2024-05-04-Leinster_V_Munster.png" width="32%" />
 </p>
 
-### Harlequins V La Rochelle on 2024/04/13
+### Leinster V Bulls on 2024/04/13
 
 
-Average Margin: Harlequins by 1.4
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Harlequins_V_LaRochelle.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Harlequins_V_LaRochelle.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Harlequins_V_LaRochelle.png" width="32%" />
-</p>
-
-### Bulls V Exeter Chiefs on 2024/04/13
-
-
-Average Margin: Bulls by 6.3
+Average Margin: Leinster by 7.7
 
 <p float="left">
-<img src="plots/performances_2024-04-13-Bulls_V_ExeterChiefs.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Bulls_V_ExeterChiefs.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Bulls_V_ExeterChiefs.png" width="32%" />
-</p>
-
-### Leinster V Glasgow Warriors on 2024/04/13
-
-
-Average Margin: Leinster by 10.7
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Leinster_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Leinster_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Leinster_V_GlasgowWarriors.png" width="32%" />
-</p>
-
-### Leinster V Exeter Chiefs on 2024/04/13
-
-
-Average Margin: Leinster by 11.4
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Leinster_V_ExeterChiefs.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Leinster_V_ExeterChiefs.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Leinster_V_ExeterChiefs.png" width="32%" />
+<img src="plots/performances_2024-05-24-Leinster_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2024-05-24-Leinster_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2024-05-24-Leinster_V_Bulls.png" width="32%" />
 </p>
 
 ### Northampton Saints V Bulls on 2024/04/13
 
 
-Average Margin: Northampton Saints by 1.3
+Average Margin: Northampton Saints by 1.0
 
 <p float="left">
 <img src="plots/performances_2024-04-13-NorthamptonSaints_V_Bulls.png" width="32%" />
@@ -660,7 +319,7 @@ Average Margin: Northampton Saints by 1.3
 ### Bordeaux Begles V Harlequins on 2024/04/13
 
 
-Average Margin: Bordeaux Begles by 3.2
+Average Margin: Bordeaux Begles by 3.0
 
 <p float="left">
 <img src="plots/performances_2024-04-13-BordeauxBegles_V_Harlequins.png" width="32%" />
@@ -668,78 +327,21 @@ Average Margin: Bordeaux Begles by 3.2
 <img src="plots/spreads_2024-04-13-BordeauxBegles_V_Harlequins.png" width="32%" />
 </p>
 
-## Semifinals
-
-### Leinster V Exeter Chiefs on 2024/05/04
+### Bulls V Exeter Chiefs on 2024/04/13
 
 
-Average Margin: Leinster by 11.4
+Average Margin: Bulls by 7.0
 
 <p float="left">
-<img src="plots/performances_2024-04-13-Leinster_V_ExeterChiefs.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Leinster_V_ExeterChiefs.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Leinster_V_ExeterChiefs.png" width="32%" />
+<img src="plots/performances_2024-04-13-Bulls_V_ExeterChiefs.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Bulls_V_ExeterChiefs.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Bulls_V_ExeterChiefs.png" width="32%" />
 </p>
 
-### Bordeaux Begles V Harlequins on 2024/05/04
+### Stade Toulousain V Glasgow Warriors on 2024/04/13
 
 
-Average Margin: Bordeaux Begles by 3.2
-
-<p float="left">
-<img src="plots/performances_2024-04-13-BordeauxBegles_V_Harlequins.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-BordeauxBegles_V_Harlequins.png" width="32%" />
-<img src="plots/spreads_2024-04-13-BordeauxBegles_V_Harlequins.png" width="32%" />
-</p>
-
-### Bulls V Stormers on 2024/05/04
-
-
-Average Margin: Bulls by 6.8
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Bulls_V_Stormers.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Bulls_V_Stormers.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Bulls_V_Stormers.png" width="32%" />
-</p>
-
-### Harlequins V Exeter Chiefs on 2024/05/04
-
-
-Average Margin: Harlequins by 2.8
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Harlequins_V_ExeterChiefs.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Harlequins_V_ExeterChiefs.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Harlequins_V_ExeterChiefs.png" width="32%" />
-</p>
-
-### Harlequins V La Rochelle on 2024/05/04
-
-
-Average Margin: Harlequins by 1.4
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Harlequins_V_LaRochelle.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Harlequins_V_LaRochelle.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Harlequins_V_LaRochelle.png" width="32%" />
-</p>
-
-### Leinster V Glasgow Warriors on 2024/05/04
-
-
-Average Margin: Leinster by 10.7
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Leinster_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Leinster_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Leinster_V_GlasgowWarriors.png" width="32%" />
-</p>
-
-### Stade Toulousain V Glasgow Warriors on 2024/05/04
-
-
-Average Margin: Stade Toulousain by 6.1
+Average Margin: Stade Toulousain by 6.2
 
 <p float="left">
 <img src="plots/performances_2024-04-13-StadeToulousain_V_GlasgowWarriors.png" width="32%" />
@@ -747,21 +349,32 @@ Average Margin: Stade Toulousain by 6.1
 <img src="plots/spreads_2024-04-13-StadeToulousain_V_GlasgowWarriors.png" width="32%" />
 </p>
 
-### Leinster V Stormers on 2024/05/04
+### Northampton Saints V La Rochelle on 2024/04/13
 
 
-Average Margin: Leinster by 11.1
+Average Margin: Northampton Saints by 1.1
 
 <p float="left">
-<img src="plots/performances_2024-04-13-Leinster_V_Stormers.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Leinster_V_Stormers.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Leinster_V_Stormers.png" width="32%" />
+<img src="plots/performances_2024-04-13-NorthamptonSaints_V_LaRochelle.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-NorthamptonSaints_V_LaRochelle.png" width="32%" />
+<img src="plots/spreads_2024-04-13-NorthamptonSaints_V_LaRochelle.png" width="32%" />
 </p>
 
-### Leinster V Bath Rugby on 2024/05/04
+### Bulls V Stormers on 2024/04/13
 
 
-Average Margin: Leinster by 13.2
+Average Margin: Bulls by 7.1
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Bulls_V_Stormers.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Bulls_V_Stormers.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Bulls_V_Stormers.png" width="32%" />
+</p>
+
+### Leinster V Bath Rugby on 2024/04/13
+
+
+Average Margin: Leinster by 13.7
 
 <p float="left">
 <img src="plots/performances_2024-04-13-Leinster_V_BathRugby.png" width="32%" />
@@ -769,54 +382,98 @@ Average Margin: Leinster by 13.2
 <img src="plots/spreads_2024-04-13-Leinster_V_BathRugby.png" width="32%" />
 </p>
 
-### Leinster V Saracens on 2024/05/04
+### Harlequins V La Rochelle on 2024/04/13
 
 
-Average Margin: Leinster by 10.1
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Leinster_V_Saracens.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Leinster_V_Saracens.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Leinster_V_Saracens.png" width="32%" />
-</p>
-
-### Leinster V Munster on 2024/05/04
-
-
-Average Margin: Leinster by 9.3
+Average Margin: Harlequins by 1.1
 
 <p float="left">
-<img src="plots/performances_2024-04-13-Leinster_V_Munster.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Leinster_V_Munster.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Leinster_V_Munster.png" width="32%" />
+<img src="plots/performances_2024-05-04-Harlequins_V_LaRochelle.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-Harlequins_V_LaRochelle.png" width="32%" />
+<img src="plots/spreads_2024-05-04-Harlequins_V_LaRochelle.png" width="32%" />
 </p>
 
-### Leinster V Harlequins on 2024/05/04
+### Stormers V Exeter Chiefs on 2024/04/13
 
 
-Average Margin: Leinster by 10.1
+Average Margin: Stormers by 4.7
 
 <p float="left">
-<img src="plots/performances_2024-05-04-Leinster_V_Harlequins.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-Leinster_V_Harlequins.png" width="32%" />
-<img src="plots/spreads_2024-05-04-Leinster_V_Harlequins.png" width="32%" />
+<img src="plots/performances_2024-04-13-Stormers_V_ExeterChiefs.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Stormers_V_ExeterChiefs.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Stormers_V_ExeterChiefs.png" width="32%" />
 </p>
 
-### Stade Toulousain V Northampton Saints on 2024/05/04
+### Bulls V Glasgow Warriors on 2024/04/13
 
 
-Average Margin: Stade Toulousain by 6.0
+Average Margin: Bulls by 3.6
 
 <p float="left">
-<img src="plots/performances_2024-05-04-StadeToulousain_V_NorthamptonSaints.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-StadeToulousain_V_NorthamptonSaints.png" width="32%" />
-<img src="plots/spreads_2024-05-04-StadeToulousain_V_NorthamptonSaints.png" width="32%" />
+<img src="plots/performances_2024-04-13-Bulls_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Bulls_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Bulls_V_GlasgowWarriors.png" width="32%" />
 </p>
 
-### Leinster V La Rochelle on 2024/05/04
+### Bulls V La Rochelle on 2024/04/13
 
 
-Average Margin: Leinster by 8.8
+Average Margin: Bulls by 4.9
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Bulls_V_LaRochelle.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Bulls_V_LaRochelle.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Bulls_V_LaRochelle.png" width="32%" />
+</p>
+
+### Harlequins V Exeter Chiefs on 2024/04/13
+
+
+Average Margin: Harlequins by 3.8
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Harlequins_V_ExeterChiefs.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Harlequins_V_ExeterChiefs.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Harlequins_V_ExeterChiefs.png" width="32%" />
+</p>
+
+### Northampton Saints V Bath Rugby on 2024/04/13
+
+
+Average Margin: Northampton Saints by 6.5
+
+<p float="left">
+<img src="plots/performances_2024-04-13-NorthamptonSaints_V_BathRugby.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-NorthamptonSaints_V_BathRugby.png" width="32%" />
+<img src="plots/spreads_2024-04-13-NorthamptonSaints_V_BathRugby.png" width="32%" />
+</p>
+
+### Stade Toulousain V Stormers on 2024/04/13
+
+
+Average Margin: Stade Toulousain by 6.7
+
+<p float="left">
+<img src="plots/performances_2024-05-04-StadeToulousain_V_Stormers.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-StadeToulousain_V_Stormers.png" width="32%" />
+<img src="plots/spreads_2024-05-04-StadeToulousain_V_Stormers.png" width="32%" />
+</p>
+
+### Leinster V Glasgow Warriors on 2024/04/13
+
+
+Average Margin: Leinster by 9.8
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Leinster_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Leinster_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Leinster_V_GlasgowWarriors.png" width="32%" />
+</p>
+
+### Leinster V La Rochelle on 2024/04/13
+
+
+Average Margin: Leinster by 9.1
 
 <p float="left">
 <img src="plots/performances_2024-05-04-Leinster_V_LaRochelle.png" width="32%" />
@@ -824,21 +481,485 @@ Average Margin: Leinster by 8.8
 <img src="plots/spreads_2024-05-04-Leinster_V_LaRochelle.png" width="32%" />
 </p>
 
+### Stade Toulousain V Exeter Chiefs on 2024/04/13
+
+
+Average Margin: Stade Toulousain by 7.5
+
+<p float="left">
+<img src="plots/performances_2024-04-13-StadeToulousain_V_ExeterChiefs.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-StadeToulousain_V_ExeterChiefs.png" width="32%" />
+<img src="plots/spreads_2024-04-13-StadeToulousain_V_ExeterChiefs.png" width="32%" />
+</p>
+
+### Harlequins V Bulls on 2024/04/13
+
+
+Average Margin: Harlequins by 0.6
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Harlequins_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Harlequins_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Harlequins_V_Bulls.png" width="32%" />
+</p>
+
+### Bordeaux Begles V Stormers on 2024/04/13
+
+
+Average Margin: Bordeaux Begles by 2.4
+
+<p float="left">
+<img src="plots/performances_2024-04-13-BordeauxBegles_V_Stormers.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-BordeauxBegles_V_Stormers.png" width="32%" />
+<img src="plots/spreads_2024-04-13-BordeauxBegles_V_Stormers.png" width="32%" />
+</p>
+
+### Leinster V Exeter Chiefs on 2024/04/13
+
+
+Average Margin: Leinster by 11.5
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Leinster_V_ExeterChiefs.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Leinster_V_ExeterChiefs.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Leinster_V_ExeterChiefs.png" width="32%" />
+</p>
+
+### Stade Toulousain V Munster on 2024/04/13
+
+
+Average Margin: Stade Toulousain by 5.5
+
+<p float="left">
+<img src="plots/performances_2024-04-13-StadeToulousain_V_Munster.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-StadeToulousain_V_Munster.png" width="32%" />
+<img src="plots/spreads_2024-04-13-StadeToulousain_V_Munster.png" width="32%" />
+</p>
+
+### Exeter Chiefs V La Rochelle on 2024/04/13
+
+
+Average Margin: La Rochelle by 0.4
+
+<p float="left">
+<img src="plots/performances_2024-04-13-ExeterChiefs_V_LaRochelle.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-ExeterChiefs_V_LaRochelle.png" width="32%" />
+<img src="plots/spreads_2024-04-13-ExeterChiefs_V_LaRochelle.png" width="32%" />
+</p>
+
+### Bordeaux Begles V Bath Rugby on 2024/04/13
+
+
+Average Margin: Bordeaux Begles by 4.7
+
+<p float="left">
+<img src="plots/performances_2024-04-13-BordeauxBegles_V_BathRugby.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-BordeauxBegles_V_BathRugby.png" width="32%" />
+<img src="plots/spreads_2024-04-13-BordeauxBegles_V_BathRugby.png" width="32%" />
+</p>
+
+### Bulls V Bath Rugby on 2024/04/13
+
+
+Average Margin: Bulls by 7.3
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Bulls_V_BathRugby.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Bulls_V_BathRugby.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Bulls_V_BathRugby.png" width="32%" />
+</p>
+
+### Harlequins V Stormers on 2024/04/13
+
+
+Average Margin: Harlequins by 3.4
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Harlequins_V_Stormers.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Harlequins_V_Stormers.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Harlequins_V_Stormers.png" width="32%" />
+</p>
+
+### Leinster V Saracens on 2024/04/13
+
+
+Average Margin: Leinster by 10.9
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Leinster_V_Saracens.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Leinster_V_Saracens.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Leinster_V_Saracens.png" width="32%" />
+</p>
+
+### Northampton Saints V Exeter Chiefs on 2024/04/13
+
+
+Average Margin: Northampton Saints by 4.9
+
+<p float="left">
+<img src="plots/performances_2024-04-13-NorthamptonSaints_V_ExeterChiefs.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-NorthamptonSaints_V_ExeterChiefs.png" width="32%" />
+<img src="plots/spreads_2024-04-13-NorthamptonSaints_V_ExeterChiefs.png" width="32%" />
+</p>
+
+### Northampton Saints V Stormers on 2024/04/13
+
+
+Average Margin: Northampton Saints by 4.1
+
+<p float="left">
+<img src="plots/performances_2024-04-13-NorthamptonSaints_V_Stormers.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-NorthamptonSaints_V_Stormers.png" width="32%" />
+<img src="plots/spreads_2024-04-13-NorthamptonSaints_V_Stormers.png" width="32%" />
+</p>
+
+### Stade Toulousain V Saracens on 2024/04/13
+
+
+Average Margin: Stade Toulousain by 6.0
+
+<p float="left">
+<img src="plots/performances_2024-04-13-StadeToulousain_V_Saracens.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-StadeToulousain_V_Saracens.png" width="32%" />
+<img src="plots/spreads_2024-04-13-StadeToulousain_V_Saracens.png" width="32%" />
+</p>
+
+### Leinster V Harlequins on 2024/04/13
+
+
+Average Margin: Leinster by 10.2
+
+<p float="left">
+<img src="plots/performances_2024-05-04-Leinster_V_Harlequins.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-Leinster_V_Harlequins.png" width="32%" />
+<img src="plots/spreads_2024-05-04-Leinster_V_Harlequins.png" width="32%" />
+</p>
+
+### Bordeaux Begles V Bulls on 2024/04/13
+
+
+Average Margin: Bordeaux Begles by 0.4
+
+<p float="left">
+<img src="plots/performances_2024-04-13-BordeauxBegles_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-BordeauxBegles_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2024-04-13-BordeauxBegles_V_Bulls.png" width="32%" />
+</p>
+
+### Northampton Saints V Harlequins on 2024/04/13
+
+
+Average Margin: Northampton Saints by 3.6
+
+<p float="left">
+<img src="plots/performances_2024-04-13-NorthamptonSaints_V_Harlequins.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-NorthamptonSaints_V_Harlequins.png" width="32%" />
+<img src="plots/spreads_2024-04-13-NorthamptonSaints_V_Harlequins.png" width="32%" />
+</p>
+
+### Stade Toulousain V La Rochelle on 2024/04/13
+
+
+Average Margin: Stade Toulousain by 4.5
+
+<p float="left">
+<img src="plots/performances_2024-04-13-StadeToulousain_V_LaRochelle.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-StadeToulousain_V_LaRochelle.png" width="32%" />
+<img src="plots/spreads_2024-04-13-StadeToulousain_V_LaRochelle.png" width="32%" />
+</p>
+
+### Leinster V Stormers on 2024/04/13
+
+
+Average Margin: Leinster by 11.4
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Leinster_V_Stormers.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Leinster_V_Stormers.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Leinster_V_Stormers.png" width="32%" />
+</p>
+
+## Semifinals
+
+### Harlequins V La Rochelle on 2024/05/04
+
+
+Average Margin: Harlequins by 1.1
+
+<p float="left">
+<img src="plots/performances_2024-05-04-Harlequins_V_LaRochelle.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-Harlequins_V_LaRochelle.png" width="32%" />
+<img src="plots/spreads_2024-05-04-Harlequins_V_LaRochelle.png" width="32%" />
+</p>
+
+### Leinster V Exeter Chiefs on 2024/05/04
+
+
+Average Margin: Leinster by 11.5
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Leinster_V_ExeterChiefs.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Leinster_V_ExeterChiefs.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Leinster_V_ExeterChiefs.png" width="32%" />
+</p>
+
+### Leinster V Glasgow Warriors on 2024/05/04
+
+
+Average Margin: Leinster by 9.8
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Leinster_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Leinster_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Leinster_V_GlasgowWarriors.png" width="32%" />
+</p>
+
+### Stormers V Exeter Chiefs on 2024/05/04
+
+
+Average Margin: Stormers by 4.7
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Stormers_V_ExeterChiefs.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Stormers_V_ExeterChiefs.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Stormers_V_ExeterChiefs.png" width="32%" />
+</p>
+
+### Stade Toulousain V Munster on 2024/05/04
+
+
+Average Margin: Stade Toulousain by 5.5
+
+<p float="left">
+<img src="plots/performances_2024-04-13-StadeToulousain_V_Munster.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-StadeToulousain_V_Munster.png" width="32%" />
+<img src="plots/spreads_2024-04-13-StadeToulousain_V_Munster.png" width="32%" />
+</p>
+
+### Bordeaux Begles V Harlequins on 2024/05/04
+
+
+Average Margin: Bordeaux Begles by 3.0
+
+<p float="left">
+<img src="plots/performances_2024-04-13-BordeauxBegles_V_Harlequins.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-BordeauxBegles_V_Harlequins.png" width="32%" />
+<img src="plots/spreads_2024-04-13-BordeauxBegles_V_Harlequins.png" width="32%" />
+</p>
+
+### Leinster V Bath Rugby on 2024/05/04
+
+
+Average Margin: Leinster by 13.7
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Leinster_V_BathRugby.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Leinster_V_BathRugby.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Leinster_V_BathRugby.png" width="32%" />
+</p>
+
+### Stade Toulousain V Saracens on 2024/05/04
+
+
+Average Margin: Stade Toulousain by 6.0
+
+<p float="left">
+<img src="plots/performances_2024-04-13-StadeToulousain_V_Saracens.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-StadeToulousain_V_Saracens.png" width="32%" />
+<img src="plots/spreads_2024-04-13-StadeToulousain_V_Saracens.png" width="32%" />
+</p>
+
+### Bordeaux Begles V La Rochelle on 2024/05/04
+
+
+Average Margin: La Rochelle by 0.1
+
+<p float="left">
+<img src="plots/performances_2024-04-13-BordeauxBegles_V_LaRochelle.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-BordeauxBegles_V_LaRochelle.png" width="32%" />
+<img src="plots/spreads_2024-04-13-BordeauxBegles_V_LaRochelle.png" width="32%" />
+</p>
+
+### Northampton Saints V Harlequins on 2024/05/04
+
+
+Average Margin: Northampton Saints by 3.6
+
+<p float="left">
+<img src="plots/performances_2024-04-13-NorthamptonSaints_V_Harlequins.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-NorthamptonSaints_V_Harlequins.png" width="32%" />
+<img src="plots/spreads_2024-04-13-NorthamptonSaints_V_Harlequins.png" width="32%" />
+</p>
+
+### Leinster V Saracens on 2024/05/04
+
+
+Average Margin: Leinster by 10.9
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Leinster_V_Saracens.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Leinster_V_Saracens.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Leinster_V_Saracens.png" width="32%" />
+</p>
+
+### Bordeaux Begles V Bulls on 2024/05/04
+
+
+Average Margin: Bordeaux Begles by 0.4
+
+<p float="left">
+<img src="plots/performances_2024-04-13-BordeauxBegles_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-BordeauxBegles_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2024-04-13-BordeauxBegles_V_Bulls.png" width="32%" />
+</p>
+
+### Leinster V Stormers on 2024/05/04
+
+
+Average Margin: Leinster by 11.4
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Leinster_V_Stormers.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Leinster_V_Stormers.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Leinster_V_Stormers.png" width="32%" />
+</p>
+
+### Stade Toulousain V Stormers on 2024/05/04
+
+
+Average Margin: Stade Toulousain by 6.7
+
+<p float="left">
+<img src="plots/performances_2024-05-04-StadeToulousain_V_Stormers.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-StadeToulousain_V_Stormers.png" width="32%" />
+<img src="plots/spreads_2024-05-04-StadeToulousain_V_Stormers.png" width="32%" />
+</p>
+
+### Stade Toulousain V Bordeaux Begles on 2024/05/04
+
+
+Average Margin: Stade Toulousain by 7.1
+
+<p float="left">
+<img src="plots/performances_2024-05-04-StadeToulousain_V_BordeauxBegles.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-StadeToulousain_V_BordeauxBegles.png" width="32%" />
+<img src="plots/spreads_2024-05-04-StadeToulousain_V_BordeauxBegles.png" width="32%" />
+</p>
+
+### Stade Toulousain V La Rochelle on 2024/05/04
+
+
+Average Margin: Stade Toulousain by 4.5
+
+<p float="left">
+<img src="plots/performances_2024-04-13-StadeToulousain_V_LaRochelle.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-StadeToulousain_V_LaRochelle.png" width="32%" />
+<img src="plots/spreads_2024-04-13-StadeToulousain_V_LaRochelle.png" width="32%" />
+</p>
+
+### Northampton Saints V Bulls on 2024/05/04
+
+
+Average Margin: Northampton Saints by 1.0
+
+<p float="left">
+<img src="plots/performances_2024-04-13-NorthamptonSaints_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-NorthamptonSaints_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2024-04-13-NorthamptonSaints_V_Bulls.png" width="32%" />
+</p>
+
+### Bulls V Harlequins on 2024/05/04
+
+
+Average Margin: Bulls by 5.9
+
+<p float="left">
+<img src="plots/performances_2024-05-04-Bulls_V_Harlequins.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-Bulls_V_Harlequins.png" width="32%" />
+<img src="plots/spreads_2024-05-04-Bulls_V_Harlequins.png" width="32%" />
+</p>
+
+### Stade Toulousain V Exeter Chiefs on 2024/05/04
+
+
+Average Margin: Stade Toulousain by 7.5
+
+<p float="left">
+<img src="plots/performances_2024-04-13-StadeToulousain_V_ExeterChiefs.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-StadeToulousain_V_ExeterChiefs.png" width="32%" />
+<img src="plots/spreads_2024-04-13-StadeToulousain_V_ExeterChiefs.png" width="32%" />
+</p>
+
+### Leinster V Munster on 2024/05/04
+
+
+Average Margin: Leinster by 11.0
+
+<p float="left">
+<img src="plots/performances_2024-05-04-Leinster_V_Munster.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-Leinster_V_Munster.png" width="32%" />
+<img src="plots/spreads_2024-05-04-Leinster_V_Munster.png" width="32%" />
+</p>
+
 ### Leinster V Northampton Saints on 2024/05/04
 
 
-Average Margin: Leinster by 10.5
+Average Margin: Leinster by 10.6
 
 <p float="left">
-<img src="plots/performances_2024-05-24-Leinster_V_NorthamptonSaints.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-Leinster_V_NorthamptonSaints.png" width="32%" />
-<img src="plots/spreads_2024-05-24-Leinster_V_NorthamptonSaints.png" width="32%" />
+<img src="plots/performances_2024-05-04-Leinster_V_NorthamptonSaints.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-Leinster_V_NorthamptonSaints.png" width="32%" />
+<img src="plots/spreads_2024-05-04-Leinster_V_NorthamptonSaints.png" width="32%" />
+</p>
+
+### Bulls V Exeter Chiefs on 2024/05/04
+
+
+Average Margin: Bulls by 7.0
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Bulls_V_ExeterChiefs.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Bulls_V_ExeterChiefs.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Bulls_V_ExeterChiefs.png" width="32%" />
+</p>
+
+### Stade Toulousain V Harlequins on 2024/05/04
+
+
+Average Margin: Stade Toulousain by 6.9
+
+<p float="left">
+<img src="plots/performances_2024-05-04-StadeToulousain_V_Harlequins.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-StadeToulousain_V_Harlequins.png" width="32%" />
+<img src="plots/spreads_2024-05-04-StadeToulousain_V_Harlequins.png" width="32%" />
+</p>
+
+### Leinster V Harlequins on 2024/05/04
+
+
+Average Margin: Leinster by 10.2
+
+<p float="left">
+<img src="plots/performances_2024-05-04-Leinster_V_Harlequins.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-Leinster_V_Harlequins.png" width="32%" />
+<img src="plots/spreads_2024-05-04-Leinster_V_Harlequins.png" width="32%" />
+</p>
+
+### Bulls V Stormers on 2024/05/04
+
+
+Average Margin: Bulls by 7.1
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Bulls_V_Stormers.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Bulls_V_Stormers.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Bulls_V_Stormers.png" width="32%" />
 </p>
 
 ### Stade Toulousain V Bulls on 2024/05/04
 
 
-Average Margin: Stade Toulousain by 4.5
+Average Margin: Stade Toulousain by 4.1
 
 <p float="left">
 <img src="plots/performances_2024-05-04-StadeToulousain_V_Bulls.png" width="32%" />
@@ -846,15 +967,15 @@ Average Margin: Stade Toulousain by 4.5
 <img src="plots/spreads_2024-05-04-StadeToulousain_V_Bulls.png" width="32%" />
 </p>
 
-### Stade Toulousain V Bordeaux Begles on 2024/05/04
+### Stade Toulousain V Northampton Saints on 2024/05/04
 
 
-Average Margin: Stade Toulousain by 7.2
+Average Margin: Stade Toulousain by 5.3
 
 <p float="left">
-<img src="plots/performances_2024-05-04-StadeToulousain_V_BordeauxBegles.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-StadeToulousain_V_BordeauxBegles.png" width="32%" />
-<img src="plots/spreads_2024-05-04-StadeToulousain_V_BordeauxBegles.png" width="32%" />
+<img src="plots/performances_2024-05-24-StadeToulousain_V_NorthamptonSaints.png" width="32%" />
+<img src="plots/resultbar_2024-05-24-StadeToulousain_V_NorthamptonSaints.png" width="32%" />
+<img src="plots/spreads_2024-05-24-StadeToulousain_V_NorthamptonSaints.png" width="32%" />
 </p>
 
 ### Leinster V Bordeaux Begles on 2024/05/04
@@ -868,144 +989,34 @@ Average Margin: Leinster by 11.4
 <img src="plots/spreads_2024-05-04-Leinster_V_BordeauxBegles.png" width="32%" />
 </p>
 
-### Bordeaux Begles V Bulls on 2024/05/04
-
-
-Average Margin: Bordeaux Begles by 0.6
-
-<p float="left">
-<img src="plots/performances_2024-04-13-BordeauxBegles_V_Bulls.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-BordeauxBegles_V_Bulls.png" width="32%" />
-<img src="plots/spreads_2024-04-13-BordeauxBegles_V_Bulls.png" width="32%" />
-</p>
-
 ### Leinster V Bulls on 2024/05/04
 
 
-Average Margin: Leinster by 7.5
+Average Margin: Leinster by 7.7
 
 <p float="left">
-<img src="plots/performances_2024-04-13-Leinster_V_Bulls.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Leinster_V_Bulls.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Leinster_V_Bulls.png" width="32%" />
+<img src="plots/performances_2024-05-24-Leinster_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2024-05-24-Leinster_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2024-05-24-Leinster_V_Bulls.png" width="32%" />
 </p>
 
-### Stade Toulousain V La Rochelle on 2024/05/04
+### Leinster V La Rochelle on 2024/05/04
 
 
-Average Margin: Stade Toulousain by 5.3
-
-<p float="left">
-<img src="plots/performances_2024-04-13-StadeToulousain_V_LaRochelle.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-StadeToulousain_V_LaRochelle.png" width="32%" />
-<img src="plots/spreads_2024-04-13-StadeToulousain_V_LaRochelle.png" width="32%" />
-</p>
-
-### Stade Toulousain V Saracens on 2024/05/04
-
-
-Average Margin: Stade Toulousain by 6.4
+Average Margin: Leinster by 9.1
 
 <p float="left">
-<img src="plots/performances_2024-04-13-StadeToulousain_V_Saracens.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-StadeToulousain_V_Saracens.png" width="32%" />
-<img src="plots/spreads_2024-04-13-StadeToulousain_V_Saracens.png" width="32%" />
-</p>
-
-### Stade Toulousain V Exeter Chiefs on 2024/05/04
-
-
-Average Margin: Stade Toulousain by 7.0
-
-<p float="left">
-<img src="plots/performances_2024-04-13-StadeToulousain_V_ExeterChiefs.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-StadeToulousain_V_ExeterChiefs.png" width="32%" />
-<img src="plots/spreads_2024-04-13-StadeToulousain_V_ExeterChiefs.png" width="32%" />
-</p>
-
-### Bulls V Harlequins on 2024/05/04
-
-
-Average Margin: Bulls by 6.4
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Bulls_V_Harlequins.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Bulls_V_Harlequins.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Bulls_V_Harlequins.png" width="32%" />
-</p>
-
-### Stade Toulousain V Harlequins on 2024/05/04
-
-
-Average Margin: Stade Toulousain by 6.7
-
-<p float="left">
-<img src="plots/performances_2024-05-04-StadeToulousain_V_Harlequins.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-StadeToulousain_V_Harlequins.png" width="32%" />
-<img src="plots/spreads_2024-05-04-StadeToulousain_V_Harlequins.png" width="32%" />
-</p>
-
-### Stade Toulousain V Stormers on 2024/05/04
-
-
-Average Margin: Stade Toulousain by 6.8
-
-<p float="left">
-<img src="plots/performances_2024-05-04-StadeToulousain_V_Stormers.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-StadeToulousain_V_Stormers.png" width="32%" />
-<img src="plots/spreads_2024-05-04-StadeToulousain_V_Stormers.png" width="32%" />
-</p>
-
-### Northampton Saints V Bulls on 2024/05/04
-
-
-Average Margin: Northampton Saints by 1.3
-
-<p float="left">
-<img src="plots/performances_2024-04-13-NorthamptonSaints_V_Bulls.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-NorthamptonSaints_V_Bulls.png" width="32%" />
-<img src="plots/spreads_2024-04-13-NorthamptonSaints_V_Bulls.png" width="32%" />
+<img src="plots/performances_2024-05-04-Leinster_V_LaRochelle.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-Leinster_V_LaRochelle.png" width="32%" />
+<img src="plots/spreads_2024-05-04-Leinster_V_LaRochelle.png" width="32%" />
 </p>
 
 ## Finals
 
-### Stade Toulousain V Harlequins on 2024/05/24
-
-
-Average Margin: Stade Toulousain by 6.7
-
-<p float="left">
-<img src="plots/performances_2024-05-04-StadeToulousain_V_Harlequins.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-StadeToulousain_V_Harlequins.png" width="32%" />
-<img src="plots/spreads_2024-05-04-StadeToulousain_V_Harlequins.png" width="32%" />
-</p>
-
-### Stade Toulousain V Bulls on 2024/05/24
-
-
-Average Margin: Stade Toulousain by 4.5
-
-<p float="left">
-<img src="plots/performances_2024-05-04-StadeToulousain_V_Bulls.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-StadeToulousain_V_Bulls.png" width="32%" />
-<img src="plots/spreads_2024-05-04-StadeToulousain_V_Bulls.png" width="32%" />
-</p>
-
-### Leinster V Northampton Saints on 2024/05/24
-
-
-Average Margin: Leinster by 10.5
-
-<p float="left">
-<img src="plots/performances_2024-05-24-Leinster_V_NorthamptonSaints.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-Leinster_V_NorthamptonSaints.png" width="32%" />
-<img src="plots/spreads_2024-05-24-Leinster_V_NorthamptonSaints.png" width="32%" />
-</p>
-
 ### Stade Toulousain V Bordeaux Begles on 2024/05/24
 
 
-Average Margin: Stade Toulousain by 7.2
+Average Margin: Stade Toulousain by 7.1
 
 <p float="left">
 <img src="plots/performances_2024-05-04-StadeToulousain_V_BordeauxBegles.png" width="32%" />
@@ -1013,21 +1024,10 @@ Average Margin: Stade Toulousain by 7.2
 <img src="plots/spreads_2024-05-04-StadeToulousain_V_BordeauxBegles.png" width="32%" />
 </p>
 
-### Leinster V Stormers on 2024/05/24
-
-
-Average Margin: Leinster by 11.1
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Leinster_V_Stormers.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Leinster_V_Stormers.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Leinster_V_Stormers.png" width="32%" />
-</p>
-
 ### Stade Toulousain V Leinster on 2024/05/24
 
 
-Average Margin: Leinster by 4.4
+Average Margin: Leinster by 4.3
 
 <p float="left">
 <img src="plots/performances_2024-05-24-StadeToulousain_V_Leinster.png" width="32%" />
@@ -1035,37 +1035,26 @@ Average Margin: Leinster by 4.4
 <img src="plots/spreads_2024-05-24-StadeToulousain_V_Leinster.png" width="32%" />
 </p>
 
-### Stade Toulousain V Northampton Saints on 2024/05/24
+### Bulls V La Rochelle on 2024/05/24
 
 
-Average Margin: Stade Toulousain by 6.0
+Average Margin: Bulls by 4.9
 
 <p float="left">
-<img src="plots/performances_2024-05-04-StadeToulousain_V_NorthamptonSaints.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-StadeToulousain_V_NorthamptonSaints.png" width="32%" />
-<img src="plots/spreads_2024-05-04-StadeToulousain_V_NorthamptonSaints.png" width="32%" />
+<img src="plots/performances_2024-04-13-Bulls_V_LaRochelle.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Bulls_V_LaRochelle.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Bulls_V_LaRochelle.png" width="32%" />
 </p>
 
-### Leinster V Exeter Chiefs on 2024/05/24
+### Bulls V Stormers on 2024/05/24
 
 
-Average Margin: Leinster by 11.4
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Leinster_V_ExeterChiefs.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Leinster_V_ExeterChiefs.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Leinster_V_ExeterChiefs.png" width="32%" />
-</p>
-
-### Leinster V Bulls on 2024/05/24
-
-
-Average Margin: Leinster by 7.5
+Average Margin: Bulls by 7.1
 
 <p float="left">
-<img src="plots/performances_2024-04-13-Leinster_V_Bulls.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Leinster_V_Bulls.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Leinster_V_Bulls.png" width="32%" />
+<img src="plots/performances_2024-04-13-Bulls_V_Stormers.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Bulls_V_Stormers.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Bulls_V_Stormers.png" width="32%" />
 </p>
 
 ### Leinster V Bordeaux Begles on 2024/05/24
@@ -1079,15 +1068,92 @@ Average Margin: Leinster by 11.4
 <img src="plots/spreads_2024-05-04-Leinster_V_BordeauxBegles.png" width="32%" />
 </p>
 
+### Stade Toulousain V Bulls on 2024/05/24
+
+
+Average Margin: Stade Toulousain by 4.1
+
+<p float="left">
+<img src="plots/performances_2024-05-04-StadeToulousain_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-StadeToulousain_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2024-05-04-StadeToulousain_V_Bulls.png" width="32%" />
+</p>
+
+### Leinster V La Rochelle on 2024/05/24
+
+
+Average Margin: Leinster by 9.1
+
+<p float="left">
+<img src="plots/performances_2024-05-04-Leinster_V_LaRochelle.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-Leinster_V_LaRochelle.png" width="32%" />
+<img src="plots/spreads_2024-05-04-Leinster_V_LaRochelle.png" width="32%" />
+</p>
+
+### Stade Toulousain V Northampton Saints on 2024/05/24
+
+
+Average Margin: Stade Toulousain by 5.3
+
+<p float="left">
+<img src="plots/performances_2024-05-24-StadeToulousain_V_NorthamptonSaints.png" width="32%" />
+<img src="plots/resultbar_2024-05-24-StadeToulousain_V_NorthamptonSaints.png" width="32%" />
+<img src="plots/spreads_2024-05-24-StadeToulousain_V_NorthamptonSaints.png" width="32%" />
+</p>
+
+### Leinster V Northampton Saints on 2024/05/24
+
+
+Average Margin: Leinster by 10.6
+
+<p float="left">
+<img src="plots/performances_2024-05-04-Leinster_V_NorthamptonSaints.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-Leinster_V_NorthamptonSaints.png" width="32%" />
+<img src="plots/spreads_2024-05-04-Leinster_V_NorthamptonSaints.png" width="32%" />
+</p>
+
+### Leinster V Stormers on 2024/05/24
+
+
+Average Margin: Leinster by 11.4
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Leinster_V_Stormers.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Leinster_V_Stormers.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Leinster_V_Stormers.png" width="32%" />
+</p>
+
 ### Leinster V Harlequins on 2024/05/24
 
 
-Average Margin: Leinster by 10.1
+Average Margin: Leinster by 10.2
 
 <p float="left">
 <img src="plots/performances_2024-05-04-Leinster_V_Harlequins.png" width="32%" />
 <img src="plots/resultbar_2024-05-04-Leinster_V_Harlequins.png" width="32%" />
 <img src="plots/spreads_2024-05-04-Leinster_V_Harlequins.png" width="32%" />
+</p>
+
+### Leinster V Bulls on 2024/05/24
+
+
+Average Margin: Leinster by 7.7
+
+<p float="left">
+<img src="plots/performances_2024-05-24-Leinster_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2024-05-24-Leinster_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2024-05-24-Leinster_V_Bulls.png" width="32%" />
+</p>
+
+### Northampton Saints V La Rochelle on 2024/05/24
+
+
+Average Margin: Northampton Saints by 1.1
+
+<p float="left">
+<img src="plots/performances_2024-04-13-NorthamptonSaints_V_LaRochelle.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-NorthamptonSaints_V_LaRochelle.png" width="32%" />
+<img src="plots/spreads_2024-04-13-NorthamptonSaints_V_LaRochelle.png" width="32%" />
 </p>
 
 # Completed Match Review
@@ -1098,7 +1164,7 @@ Average Margin: Leinster by 10.1
 | Connacht V Bordeaux Begles on 2023/12/08              |      -36 |                -2.2 |                 -0.6 |               2.7 |
 | Glasgow Warriors V Northampton Saints on 2023/12/08   |       -9 |                 3.3 |                  4.9 |               7.7 |
 | Toulon V Exeter Chiefs on 2023/12/09                  |       -1 |                 5.2 |                  4.2 |               3.5 |
-| Bath Rugby V Ulster on 2023/12/09                     |       23 |                -1.4 |                 -1.5 |               1.1 |
+| Bath Rugby V Ulster on 2023/12/09                     |       23 |                -1.4 |                 -1.5 |               1.9 |
 | Stade Toulousain V Cardiff Blues on 2023/12/09        |       45 |                20.6 |                 18.7 |              12.7 |
 | Munster V Bayonne on 2023/12/09                       |        0 |                14.5 |                 13   |              12.6 |
 | Bulls V Saracens on 2023/12/09                        |       11 |                -7.2 |                 -7   |               2.7 |
@@ -1115,25 +1181,25 @@ Average Margin: Leinster by 10.1
 | Leinster V Sale Sharks on 2023/12/16                  |       10 |                16.7 |                 16.1 |              10.2 |
 | Lyon V Bulls on 2023/12/16                            |        1 |                -8.9 |                 -8.4 |               2.6 |
 | Cardiff Blues V Bath Rugby on 2023/12/16              |       -7 |                -9   |                 -6.9 |               1.1 |
-| Ulster V Racing 92 on 2023/12/16                      |       16 |                -5.8 |                 -4.7 |               5.5 |
+| Ulster V Racing 92 on 2023/12/16                      |       16 |                -5.8 |                 -4.7 |               4.7 |
 | Exeter Chiefs V Munster on 2023/12/17                 |        8 |               -11.1 |                -10.9 |               2.8 |
 | Harlequins V Stade Toulousain on 2023/12/17           |      -28 |                -9.6 |                 -9.3 |               1.3 |
 | Stade Francais Paris V Leicester Tigers on 2023/12/17 |       -3 |                 2.1 |                  1.6 |               1.2 |
 | Northampton Saints V Bayonne on 2024/01/12            |       47 |                11   |                  9.4 |               8.7 |
-| Lyon V Connacht on 2024/01/13                         |       14 |                -2   |                 -1.2 |               5.9 |
+| Lyon V Connacht on 2024/01/13                         |       14 |                -2   |                 -1.2 |               6   |
 | Leinster V Stade Francais Paris on 2024/01/13         |       36 |                26.8 |                 25.2 |              15   |
 | Stormers V Sale Sharks on 2024/01/13                  |        7 |                 5.2 |                  5.6 |               3.6 |
 | Exeter Chiefs V Glasgow Warriors on 2024/01/13        |        2 |                 0.6 |                 -1.7 |               6.7 |
 | Cardiff Blues V Harlequins on 2024/01/13              |      -39 |                -5   |                 -3.5 |              -1.7 |
-| Ulster V Stade Toulousain on 2024/01/13               |      -24 |               -29.8 |                -27.9 |               1.6 |
+| Ulster V Stade Toulousain on 2024/01/13               |      -24 |               -29.8 |                -27.9 |               0.9 |
 | Bristol Rugby V Bulls on 2024/01/13                   |      -14 |                -7.6 |                 -5.8 |              -0.1 |
 | Toulon V Munster on 2024/01/13                        |      -11 |                 3.6 |                  2.8 |               3.1 |
 | La Rochelle V Leicester Tigers on 2024/01/14          |       33 |                10.8 |                  8.8 |               5.8 |
 | Bordeaux Begles V Saracens on 2024/01/14              |       40 |                 9.2 |                  7.5 |               3.6 |
-| Bath Rugby V Racing 92 on 2024/01/14                  |        4 |                 0.9 |                  0.7 |               4.1 |
-| Connacht V Bristol Rugby on 2024/01/19                |       17 |                 0.8 |                  0.8 |               3.9 |
+| Bath Rugby V Racing 92 on 2024/01/14                  |        4 |                 0.9 |                  0.7 |               4   |
+| Connacht V Bristol Rugby on 2024/01/19                |       17 |                 0.8 |                  0.8 |               3.8 |
 | Glasgow Warriors V Toulon on 2024/01/19               |       24 |                10.9 |                 10   |               3.7 |
-| Harlequins V Ulster on 2024/01/20                     |       28 |                14.6 |                 12.2 |               4   |
+| Harlequins V Ulster on 2024/01/20                     |       28 |                14.6 |                 12.2 |               4.8 |
 | Leicester Tigers V Leinster on 2024/01/20             |      -17 |               -18.1 |                -17.9 |              -2.3 |
 | Racing 92 V Cardiff Blues on 2024/01/20               |       22 |                15.8 |                 13.8 |              11.1 |
 | Munster V Northampton Saints on 2024/01/20            |       -3 |                -2.3 |                 -3.1 |               7   |
@@ -1151,7 +1217,7 @@ Average Margin: Leinster by 10.1
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 70.8% | 13.3 |
+| Club Level | 70.8% | 13.2 |
 | Player Level: Lineup | 66.7% | 11.9 |
 | Player Level: Minutes | 64.6% | 12.3 |
 

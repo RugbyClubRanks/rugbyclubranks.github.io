@@ -9,9 +9,9 @@ categories: "United Rugby Championship 2023" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.674, which translates to predicting Bulls to win by 6.4.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.676, which translates to predicting Bulls to win by 6.5.
 
-Our Over/Under is 56.5 - and combined with the spread above, we have a predicted scoreline of 25 to 32
+Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 22 to 29
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Bulls by 2.6 on a neutral pitch
 
 |   Away Minutes | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player                     |   Home Minutes |
 |---------------:|:------------------|------------------:|---------:|------------------:|:--------------------------------|---------------:|
-|             56 | Sti Sithole       |             93.28 |        1 |             94.92 | Gerhard Steenekamp              |             63 |
+|             56 | Sti Sithole       |             93.28 |        1 |             94.91 | Gerhard Steenekamp              |             63 |
 |             51 | Joseph Dweba      |             60    |        2 |             96.79 | Johan Grobbelaar                |             53 |
-|             64 | Neethling Fouche  |             77.77 |        3 |             99.73 | Wilco Louw                      |             63 |
+|             64 | Neethling Fouche  |             77.75 |        3 |             99.73 | Wilco Louw                      |             63 |
 |             44 | Adre Smith        |             86.12 |        4 |             53.18 | Ruan Vermaak                    |             58 |
 |             80 | Ruben van Heerden |             72.82 |        5 |             90.82 | Ruan Nortje                     |             80 |
-|             52 | Deon Fourie       |             96.98 |        6 |             93.63 | Marco van Staden                |             66 |
-|             80 | Evan Roos         |             86.07 |        7 |             79.59 | Reinhardt Ludwig                |             80 |
+|             52 | Deon Fourie       |             96.97 |        6 |             93.73 | Marco van Staden                |             66 |
+|             80 | Evan Roos         |             86.05 |        7 |             79.57 | Reinhardt Ludwig                |             80 |
 |             51 | Hacjivah Dayimani |             93.66 |        8 |             95.31 | Marcell Coetzee                 |             65 |
 |             56 | Herschel Jantjies |             90.82 |        9 |             95.41 | Embrose Papier                  |             78 |
-|             80 | Manie Libbok      |             78.5  |       10 |             85.27 | Johan Goosen                    |             80 |
+|             80 | Manie Libbok      |             78.45 |       10 |             85.23 | Johan Goosen                    |             80 |
 |             80 | Leolin Zas        |             88.64 |       11 |             99.36 | Kurt-Lee Arendse                |             69 |
 |             80 | Damian Willemse   |             95.05 |       12 |             95.29 | David Kriel                     |             80 |
 |             64 | Daniel du Plessis |             88.69 |       13 |             58.3  | Stedman Gans                    |             61 |
 |             80 | Ben Loader        |             91.64 |       14 |             99.89 | Canan Moodie                    |             80 |
 |             80 | Warrick Gelant    |             99.04 |       15 |             86.36 | Devon Williams                  |             80 |
 |             29 | Andre-Hugo Venter |             59.25 |       16 |             99.25 | Akker van der Merwe             |             27 |
-|             24 | Brok Harris       |             99.91 |       17 |             76.04 | Simphiwe Matanzima              |             17 |
+|             24 | Brok Harris       |             99.91 |       17 |             76.11 | Simphiwe Matanzima              |             17 |
 |             16 | Sazi Sandi        |            nan    |       18 |            nan    | Francois Klopper                |             17 |
 |             36 | Salmaan Moerat    |             54.35 |       19 |            nan    | Jacob Frederick Nel Van Heerden |             22 |
-|             29 | Ben-Jason Dixon   |             32.72 |       20 |            nan    | Nizaam Carr                     |             15 |
-|             28 | Marcel Theunissen |             59.94 |       21 |            nan    | Zak Burger                      |              2 |
+|             29 | Ben-Jason Dixon   |             32.76 |       20 |            nan    | Nizaam Carr                     |             15 |
+|             28 | Marcel Theunissen |             59.89 |       21 |            nan    | Zak Burger                      |              2 |
 |             24 | Paul de Wet       |             86.03 |       22 |             98.09 | Willie le Roux                  |             30 |
 |             16 | Sacha Mngomezulu  |             54.3  |       23 |            nan    | Celimpilo Gumede                |             14 |
 

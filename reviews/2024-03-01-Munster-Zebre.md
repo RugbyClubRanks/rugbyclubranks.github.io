@@ -11,7 +11,7 @@ categories: "United Rugby Championship 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.909, which translates to predicting Munster to win by 20.4.
 
-Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 16 to 37
+Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 13 to 34
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,18 +69,18 @@ Munster by 13.2 on a neutral pitch
 
 |   Away Minutes | Away Player            |   Away Percentile |   Number |   Home Percentile | Home Player      |   Home Minutes |
 |---------------:|:-----------------------|------------------:|---------:|------------------:|:-----------------|---------------:|
-|             69 | Luca Rizzoli           |             45.92 |        1 |             33.03 | Josh Wycherley   |             51 |
+|             69 | Luca Rizzoli           |             45.96 |        1 |             33.06 | Josh Wycherley   |             51 |
 |             61 | Luca Bigi              |             67.17 |        2 |             90.57 | Niall Scannell   |             51 |
-|             63 | Muhamed Hasa           |             46.01 |        3 |             92.47 | John Ryan        |             51 |
+|             63 | Muhamed Hasa           |             46.05 |        3 |             92.46 | John Ryan        |             51 |
 |             66 | Dave Sisi              |              7.76 |        4 |             56.59 | Thomas Ahern     |             59 |
 |             80 | Leonard Krumov         |              6.59 |        5 |             99.06 | RG Snyman        |             55 |
-|             61 | Giacomo Ferrari        |             40.93 |        6 |             53.24 | Ruadhan Quinn    |             80 |
-|             55 | Bautista Stavile       |             41.04 |        7 |             68.68 | Alex Kendellen   |             80 |
+|             61 | Giacomo Ferrari        |             40.86 |        6 |             53.19 | Ruadhan Quinn    |             80 |
+|             55 | Bautista Stavile       |             40.97 |        7 |             68.65 | Alex Kendellen   |             80 |
 |             80 | Giovanni Licata        |             37.56 |        8 |             79.81 | Gavin Coombes    |             80 |
 |             56 | Alessandro Fusco       |              8.58 |        9 |             81.24 | Craig Casey      |             55 |
-|             63 | Tiff Eden              |             39.86 |       10 |             40.1  | Tony Butler      |             80 |
+|             63 | Tiff Eden              |             39.71 |       10 |             39.95 | Tony Butler      |             80 |
 |             80 | Simone Gesi            |              9    |       11 |             95.18 | Shane Daly       |             80 |
-|             80 | Damiano Mazza          |             70.67 |       12 |             90.46 | Alex Nankivell   |             80 |
+|             80 | Damiano Mazza          |             70.55 |       12 |             90.46 | Alex Nankivell   |             80 |
 |             80 | Luca Morisi            |             94.58 |       13 |             87.87 | Antoine Frisch   |             63 |
 |             80 | Scott Gregory          |             56.16 |       14 |             19.72 | Sean O'Brien     |             80 |
 |             80 | Geronimo Prisciantelli |             92.34 |       15 |             86.84 | Mike Haley       |             80 |

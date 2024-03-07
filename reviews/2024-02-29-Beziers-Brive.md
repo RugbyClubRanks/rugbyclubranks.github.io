@@ -11,7 +11,7 @@ categories: "Pro D2 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.596, which translates to predicting Beziers to win by 3.4.
 
-Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 24 to 27
+Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 22 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Beziers by 1.3 on a neutral pitch
 
 |   Away Minutes | Away Player               |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:--------------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             56 | Hugo Reilhes              |             68.97 |        1 |             33.58 | Francisco Fernandes |             76 |
-|             62 | Issam Hamel               |             76.98 |        2 |             84.91 | Jose Luis Gonzalez  |             55 |
-|             51 | Marcel van der Merwe      |             11.62 |        3 |             82.4  | Jon Zabala Arrieta  |             68 |
+|             56 | Hugo Reilhes              |             68.94 |        1 |             33.61 | Francisco Fernandes |             76 |
+|             62 | Issam Hamel               |             76.98 |        2 |             84.72 | Jose Luis Gonzalez  |             55 |
+|             51 | Marcel van der Merwe      |             11.63 |        3 |             82.38 | Jon Zabala Arrieta  |             68 |
 |             51 | Tevita Ratuva             |             70.12 |        4 |             70.94 | Clément Bitz        |             55 |
-|             51 | Julien Delannoy           |             30.24 |        5 |             41.65 | John Madigan        |             55 |
-|             80 | Retief Marais             |             68.25 |        6 |             62.96 | William van Bost    |             80 |
-|             62 | Sasha Gue                 |             52.7  |        7 |             80.13 | Sias Koen           |             80 |
+|             51 | Julien Delannoy           |             30.24 |        5 |             41.76 | John Madigan        |             55 |
+|             80 | Retief Marais             |             68.22 |        6 |             62.92 | William van Bost    |             80 |
+|             62 | Sasha Gue                 |             52.65 |        7 |             80.11 | Sias Koen           |             80 |
 |             80 | Ross Moriarty             |             84.74 |        8 |             14.32 | Hans N'kinsi        |             80 |
 |             80 | Leo Carbonneau            |             27.54 |        9 |             94.61 | Samuel Marques      |             73 |
-|             68 | Stuart Olding             |             88.16 |       10 |             73.19 | Charly Malie        |             58 |
+|             68 | Stuart Olding             |             88.14 |       10 |             73.37 | Charly Malie        |             58 |
 |             30 | Rahboni Warren-Vosayaco   |             67.1  |       11 |             81.99 | Nicolas Plazy       |             80 |
 |             80 | Guillaume Galletier       |             56.3  |       12 |             78.8  | Taleta Tupuola      |             80 |
-|             80 | Paula Walisolio           |             31.21 |       13 |             64.78 | Paul Recor          |             80 |
+|             80 | Paula Walisolio           |             31.33 |       13 |             64.78 | Paul Recor          |             80 |
 |             80 | Arthur Bonneval           |             75.67 |       14 |             94.21 | Raffaele Storti     |             58 |
 |             80 | Mathis Ferté              |             53.59 |       15 |             92.82 | Gabin Lorre         |             80 |
 |             50 | Thomas Laranjeira         |             76.79 |       16 |             14.35 | Pierre Gayraud      |             25 |
 |             29 | Asier Usarraga            |             67.29 |       17 |             77.36 | Wilmar Arnoldi      |             25 |
-|             29 | Renger Van Eerten         |             53.76 |       18 |              9.29 | Gillian Benoy       |             25 |
-|             29 | Francisco Coria Marchetti |             16.79 |       19 |             92.51 | Tim Nanai-Williams  |             22 |
+|             29 | Renger Van Eerten         |             53.76 |       18 |              9.3  | Gillian Benoy       |             25 |
+|             29 | Francisco Coria Marchetti |             16.8  |       19 |             92.49 | Tim Nanai-Williams  |             22 |
 |             24 | Nathan Fraissenon         |            nan    |       20 |             34.41 | Pierre Courtaud     |             22 |
-|             18 | Lucas da Silva            |             34.72 |       21 |             61.89 | Luka Tchelidze      |             12 |
-|             18 | Taniela Sadrugu           |             51.64 |       22 |             21.16 | Jean Victor Goillot |              7 |
+|             18 | Lucas da Silva            |             34.72 |       21 |             61.85 | Luka Tchelidze      |             12 |
+|             18 | Taniela Sadrugu           |             51.64 |       22 |             20.96 | Jean Victor Goillot |              7 |
 |             12 | Julien Blanc              |             66.47 |       23 |            nan    | Clément Samper      |              4 |
 

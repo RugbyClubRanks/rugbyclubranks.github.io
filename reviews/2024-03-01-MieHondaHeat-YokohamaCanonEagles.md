@@ -11,7 +11,7 @@ categories: "Japan Rugby League One 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.149, which translates to predicting Yokohama Canon Eagles to win by 15.6.
 
-Our Over/Under is 62.5 - and combined with the spread above, we have a predicted scoreline of 39 to 24
+Our Over/Under is 57.5 - and combined with the spread above, we have a predicted scoreline of 36 to 21
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -71,24 +71,24 @@ Yokohama Canon Eagles by 16.1 on a neutral pitch
 |---------------:|:-------------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
 |             61 | Takato Okabe             |             94.46 |        1 |              3.45 | Tatsuhiko Tsurukawa   |             40 |
 |             51 | Shunta Nakamura          |             83.96 |        2 |              6.42 | Lee Seung Hyok        |             70 |
-|             61 | Ryosuke Iwaihara         |             62.16 |        3 |             12.43 | Taiki Yoshioka        |             49 |
+|             61 | Ryosuke Iwaihara         |             62.13 |        3 |             12.44 | Taiki Yoshioka        |             49 |
 |             80 | Max Douglas              |             78.47 |        4 |             15.65 | Tetuhi Roberts        |             80 |
 |             51 | Matt Philip              |             47.53 |        5 |             91.06 | Franco Mostert        |             80 |
-|             80 | Kobus Van Dyk            |             86.72 |        6 |              3.89 | Ryota Kobayashi       |             80 |
-|             80 | Naoto Shimada            |             73    |        7 |             54.1  | Kosuke Hattori        |             57 |
+|             80 | Kobus Van Dyk            |             86.7  |        6 |              3.89 | Ryota Kobayashi       |             80 |
+|             80 | Naoto Shimada            |             72.97 |        7 |             54.05 | Kosuke Hattori        |             57 |
 |             33 | Amanaki Mafi             |             90.85 |        8 |             17.14 | Heiden Bedwell-Curtis |             51 |
 |             52 | Kafazumi Yamasuga        |             65.47 |        9 |             17.76 | Shogo Nezuka          |             49 |
-|             61 | Yu Tamura                |             58.94 |       10 |             65.46 | Mitch Hunt            |             49 |
+|             61 | Yu Tamura                |             58.84 |       10 |             65.38 | Mitch Hunt            |             49 |
 |             61 | Masayoshi Takezawa       |             23.9  |       11 |             29.15 | Kanta Watanabe        |             80 |
 |             80 | Yusuke Kajimura          |             91.17 |       12 |              5.06 | Fraser Quirk          |             49 |
 |             80 | Rohan Janse van Rensburg |             73.5  |       13 |              4.59 | Clinton Knox          |             80 |
 |             80 | Viliame Takayawa         |             92.93 |       14 |             17.36 | Haruhiko Uemura       |             80 |
 |             80 | Jumpei Ogura             |             96.65 |       15 |             81.34 | Tom Banks             |             80 |
-|             47 | Sione Halasili           |             64.08 |       16 |             44.37 | Takumi Fuji           |             40 |
-|             29 | Liaki Moli               |              4.47 |       17 |             23.05 | Katsuyuki Hoshino     |             31 |
-|             29 | Yusuke Niwai             |             64.72 |       18 |             25.36 | Gwangtee Oh           |             31 |
+|             47 | Sione Halasili           |             64.08 |       16 |             44.41 | Takumi Fuji           |             40 |
+|             29 | Liaki Moli               |              4.47 |       17 |             23.07 | Katsuyuki Hoshino     |             31 |
+|             29 | Yusuke Niwai             |             64.72 |       18 |             25.42 | Gwangtee Oh           |             31 |
 |             28 | Toshiki Amano            |            nan    |       19 |            nan    | Takuro Hojo           |             31 |
-|             19 | Chang Ho Ahn             |             52.09 |       20 |             95.82 | Tevita Li             |             31 |
+|             19 | Chang Ho Ahn             |             52.04 |       20 |             95.82 | Tevita Li             |             31 |
 |             19 | Tatsuro Sugimoto         |              3.54 |       21 |            nan    | Justin Downey         |             29 |
 |             19 | Chihito Matsui           |             68.7  |       22 |            nan    | Yoji Akiyama          |             23 |
 |             19 | SP Marais                |             96.17 |       23 |            nan    | Hiroaki Shirahama     |             10 |

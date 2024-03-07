@@ -9,9 +9,9 @@ categories: "Nationale 2023" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.149, which translates to predicting Narbonne to win by 15.4.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.185, which translates to predicting Narbonne to win by 13.1.
 
-Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 32 to 17
+Our Over/Under is 29.5 - and combined with the spread above, we have a predicted scoreline of 21 to 8
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Narbonne by 8.0 on a neutral pitch
 
 |   Away Minutes | Away Player            |   Away Percentile |   Number |   Home Percentile | Home Player            |   Home Minutes |
 |---------------:|:-----------------------|------------------:|---------:|------------------:|:-----------------------|---------------:|
-|             49 | Geoffrey Moise         |             27.95 |        1 |             14.52 | Louan Capuano          |             47 |
+|             49 | Geoffrey Moise         |             28.07 |        1 |             14.53 | Louan Capuano          |             47 |
 |             63 | Mehdi Boundjema        |             88.87 |        2 |              7.17 | Axel Benjamin          |             47 |
-|             53 | Mohammed Loukia        |             34.85 |        3 |             34.39 | Corentin Durand        |             47 |
+|             53 | Mohammed Loukia        |             34.88 |        3 |             34.33 | Corentin Durand        |             47 |
 |             80 | Leva Fifita            |             17.53 |        4 |             23.41 | Pierre Chapelle        |             53 |
 |             53 | Dennis Visser          |             34.47 |        5 |              9.29 | Ciaran O'Flynn         |             58 |
-|             80 | Thibault Clauzade      |             57.24 |        6 |             36.07 | Guillaume Moroldo      |             80 |
-|             80 | Bill Caffo             |             25.92 |        7 |             43.63 | Steven Giroud          |             80 |
+|             80 | Thibault Clauzade      |             57.19 |        6 |             36.11 | Guillaume Moroldo      |             80 |
+|             80 | Bill Caffo             |             25.95 |        7 |             43.57 | Steven Giroud          |             80 |
 |             53 | Baptiste Abescat-Leroy |             53.29 |        8 |              2.58 | Léon Peyrat            |             53 |
 |             53 | Pablo Barbaste         |             69.06 |        9 |             25.95 | Malory Piet            |             80 |
-|             80 | Tom Chauvet            |             39.61 |       10 |              6.28 | Enzo Ravanello         |             58 |
+|             80 | Tom Chauvet            |             39.47 |       10 |              6.3  | Enzo Ravanello         |             58 |
 |             38 | Étienne Ducom          |             19.83 |       11 |              7.5  | Martin Arfi            |             80 |
-|             80 | Théo Mias              |             39.81 |       12 |              5.65 | Matthias Giovale       |             80 |
+|             80 | Théo Mias              |             39.93 |       12 |              5.65 | Matthias Giovale       |             80 |
 |             68 | Ambrose Curtis         |             68.9  |       13 |             16.14 | Pierre Mollard         |             80 |
 |             80 | Pierre-Hugo Ducom      |             34.51 |       14 |             53.38 | Mathieu Bonnet-Gonnnet |             80 |
 |             80 | Thibault Santoro       |             53.11 |       15 |              5.5  | Tom Richard            |             47 |
-|             31 | Benito Delacruz        |             53.09 |       16 |              6.99 | Benjamin Robin         |             33 |
+|             31 | Benito Delacruz        |             53.04 |       16 |              6.99 | Benjamin Robin         |             33 |
 |             17 | Clément Esteriola      |             24.34 |       17 |              4.72 | Dimitri Gibierge       |             33 |
-|             27 | Jamie Hagan            |             63.61 |       18 |             22.14 | Guram Kavtidze         |             33 |
+|             27 | Jamie Hagan            |             63.58 |       18 |             22.07 | Guram Kavtidze         |             33 |
 |             27 | Mauro Rebussone        |             70.59 |       19 |              2.59 | Charles Massot         |             27 |
-|             27 | Arthur Christienne     |             56.37 |       20 |             18    | Antoine Frambourg      |             22 |
+|             27 | Arthur Christienne     |             56.32 |       20 |             18    | Antoine Frambourg      |             22 |
 |             27 | Josh Valentine         |             96.01 |       21 |             13.62 | Théo Minodier          |             27 |
-|             42 | Peter Betham           |             98.82 |       22 |             30.04 | Anzize Said Omar       |             22 |
-|             12 | Gilles Bosch           |              4.11 |       23 |             31.73 | Hippolyte Massa        |             33 |
+|             42 | Peter Betham           |             98.82 |       22 |             30.15 | Anzize Said Omar       |             22 |
+|             12 | Gilles Bosch           |              4.12 |       23 |             31.83 | Hippolyte Massa        |             33 |
 

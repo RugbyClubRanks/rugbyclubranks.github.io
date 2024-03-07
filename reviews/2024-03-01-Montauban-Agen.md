@@ -69,27 +69,27 @@ Agen by 4.2 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             56 | Hans Lombard-Buret |             69.24 |        1 |             28.13 | Thomas Bue          |             56 |
+|             56 | Hans Lombard-Buret |             69.21 |        1 |             28.25 | Thomas Bue          |             56 |
 |             56 | Clement Martinez   |             59.06 |        2 |             15.09 | Badri Alkhazashvili |             56 |
-|             59 | Alex Burin         |             73.5  |        3 |              4.72 | Mirian Burduli      |             80 |
+|             59 | Alex Burin         |             73.48 |        3 |              4.72 | Mirian Burduli      |             80 |
 |             80 | Evan Olmstead      |              8.12 |        4 |             88.47 | Frank Bradshaw      |             80 |
 |             56 | William Demotte    |             90.12 |        5 |             30    | Dimitri Vaotoa      |             54 |
-|             80 | Julien Lebian      |             28.08 |        6 |             12.85 | Karl Wilkins        |             80 |
-|             80 | Arnaud Duputs      |             87.04 |        7 |             40.6  | Stéphane Munoz      |             54 |
-|             59 | Fotu Lokotui       |             33.33 |        8 |             24.65 | Corentin Coularis   |             44 |
+|             80 | Julien Lebian      |             28.11 |        6 |             12.86 | Karl Wilkins        |             80 |
+|             80 | Arnaud Duputs      |             87.03 |        7 |             40.54 | Stéphane Munoz      |             54 |
+|             59 | Fotu Lokotui       |             33.1  |        8 |             24.65 | Corentin Coularis   |             44 |
 |             80 | Sonatane Takulua   |             13.57 |        9 |             59.48 | Alexis Bernadet     |             80 |
-|             80 | Thomas Vincent     |             76.09 |       10 |             81.16 | Jérôme Bosviel      |             80 |
+|             80 | Thomas Vincent     |             76.03 |       10 |             81.11 | Jérôme Bosviel      |             80 |
 |             80 | Iban Etcheverry    |             62.49 |       11 |             42.87 | Yvan Reilhac        |             80 |
 |              6 | Clement Garrigues  |             76.33 |       12 |             78.33 | Dan Goggin          |             80 |
-|             80 | Theo Belan         |             69.38 |       13 |             58.19 | Simon Renda         |             72 |
+|             80 | Theo Belan         |             69.26 |       13 |             58.19 | Simon Renda         |             72 |
 |             80 | Henry Purdy        |             93.68 |       14 |              7.82 | Raphael Sanchez     |             80 |
 |             69 | Mathieu Lamoulie   |             90.67 |       15 |             84.21 | Semesa Rokoduguni   |             80 |
-|             26 | Harry Sloan        |             75.97 |       16 |             24.84 | Quentin Witt        |             36 |
-|             48 | Ben Volavola       |             37.68 |       17 |             64.69 | Otar Giorgadze      |             26 |
-|             24 | Florent Guion      |             27.59 |       18 |              6.24 | Kevin Gimeno        |             26 |
-|             24 | Mike Sosene-Feagai |             13.58 |       19 |             12.25 | Lucas Seyrolle      |             24 |
+|             26 | Harry Sloan        |             75.97 |       16 |             24.86 | Quentin Witt        |             36 |
+|             48 | Ben Volavola       |             37.53 |       17 |             64.65 | Otar Giorgadze      |             26 |
+|             24 | Florent Guion      |             27.7  |       18 |              6.24 | Kevin Gimeno        |             26 |
+|             24 | Mike Sosene-Feagai |             13.58 |       19 |             12.26 | Lucas Seyrolle      |             24 |
 |             24 | Joe Maksymiw       |             10.71 |       20 |             22.83 | Ru-Hann Greyling    |             24 |
-|             21 | Beau Farrance      |             56.62 |       21 |             12.84 | Maxime Mathy        |              8 |
-|             21 | Valentin Gayraud   |             42.44 |       22 |            nan    | nan                 |            nan |
+|             21 | Beau Farrance      |             56.58 |       21 |             12.96 | Maxime Mathy        |              8 |
+|             21 | Valentin Gayraud   |             42.38 |       22 |            nan    | nan                 |            nan |
 |             11 | Theo Idjellidaine  |             26.55 |       23 |            nan    | nan                 |            nan |
 

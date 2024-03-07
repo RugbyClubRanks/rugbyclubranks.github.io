@@ -1,6 +1,6 @@
 ---  
 title: "Guinness U20 Six Nations 2024 Status"  
-date: 2024-03-04 6:00:00 -0500  
+date: 2024-03-07 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -31,12 +31,12 @@ aside:
 
 | Club         |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Ireland U20  |                   2 |    1.7 |              40.7976 |                   0.2 |                1.1 |                  8   |
-| France U20   |                   2 |    1.6 |              22.6188 |                   0.2 |                0.9 |                  7.5 |
-| Italy U20    |                   2 |    1.4 |              17.0942 |                   0.3 |                0.9 |                  6.8 |
-| England U20  |                   2 |    0.6 |             -12.9074 |                   0.4 |                0.4 |                  3.3 |
-| Wales U20    |                   2 |    0.6 |             -16.8179 |                   0.4 |                0.3 |                  3   |
-| Scotland U20 |                   2 |    0.1 |             -50.7853 |                   0.1 |                0.2 |                  0.9 |
+| Ireland U20  |                   2 |    1.7 |              40.5758 |                   0.2 |                1.1 |                  8   |
+| France U20   |                   2 |    1.6 |              21.0259 |                   0.3 |                1   |                  7.4 |
+| Italy U20    |                   2 |    1.4 |              16.7803 |                   0.3 |                0.7 |                  6.6 |
+| England U20  |                   2 |    0.6 |             -11.7154 |                   0.4 |                0.3 |                  3.3 |
+| Wales U20    |                   2 |    0.6 |             -15.564  |                   0.4 |                0.4 |                  3.2 |
+| Scotland U20 |                   2 |    0.1 |             -51.1026 |                   0.1 |                0.3 |                  1   |
 
 
 
@@ -45,12 +45,12 @@ aside:
 
 | Club         |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Ireland U20  |               5 |    4.7 |             82.7976  |                   0.2 |                1.1 |                 20   |
-| England U20  |               5 |    3.6 |             46.0926  |                   0.4 |                0.4 |                 15.3 |
-| France U20   |               5 |    2.6 |             28.6188  |                   2.2 |                0.9 |                 13.5 |
-| Italy U20    |               5 |    2.4 |             -5.90578 |                   1.3 |                0.9 |                 11.8 |
-| Wales U20    |               5 |    1.6 |            -64.8179  |                   0.4 |                0.3 |                  7   |
-| Scotland U20 |               5 |    0.1 |            -86.7853  |                   0.1 |                0.2 |                  0.9 |
+| Ireland U20  |               5 |    4.7 |             82.5758  |                   0.2 |                1.1 |                 20   |
+| England U20  |               5 |    3.6 |             47.2846  |                   0.4 |                0.3 |                 15.3 |
+| France U20   |               5 |    2.6 |             27.0259  |                   2.3 |                1   |                 13.4 |
+| Italy U20    |               5 |    2.4 |             -6.21968 |                   1.3 |                0.7 |                 11.6 |
+| Wales U20    |               5 |    1.6 |            -63.564   |                   0.4 |                0.4 |                  7.2 |
+| Scotland U20 |               5 |    0.1 |            -87.1026  |                   0.1 |                0.3 |                  1   |
 
 
 
@@ -68,12 +68,38 @@ aside:
 
 ## Week 4
 
+### England U20 V Ireland U20 on 2024/03/07
+
+
+Average Margin: Ireland U20 by 5.4
+
+Average Scoreline: 34-29
+
+<p float="left">
+<img src="plots/performances_2024-03-07-EnglandU20_V_IrelandU20.png" width="32%" />
+<img src="plots/resultbar_2024-03-07-EnglandU20_V_IrelandU20.png" width="32%" />
+<img src="plots/spreads_2024-03-07-EnglandU20_V_IrelandU20.png" width="32%" />
+</p>
+
+### Italy U20 V Scotland U20 on 2024/03/07
+
+
+Average Margin: Italy U20 by 15.9
+
+Average Scoreline: 36-20
+
+<p float="left">
+<img src="plots/performances_2024-03-07-ItalyU20_V_ScotlandU20.png" width="32%" />
+<img src="plots/resultbar_2024-03-07-ItalyU20_V_ScotlandU20.png" width="32%" />
+<img src="plots/spreads_2024-03-07-ItalyU20_V_ScotlandU20.png" width="32%" />
+</p>
+
 ### Wales U20 V France U20 on 2024/03/07
 
 
-Average Margin: France U20 by 15.7
+Average Margin: France U20 by 14.7
 
-Average Scoreline: 41-25
+Average Scoreline: 33-18
 
 <p float="left">
 <img src="plots/performances_2024-03-07-WalesU20_V_FranceU20.png" width="32%" />
@@ -81,40 +107,14 @@ Average Scoreline: 41-25
 <img src="plots/spreads_2024-03-07-WalesU20_V_FranceU20.png" width="32%" />
 </p>
 
-### Italy U20 V Scotland U20 on 2024/03/08
-
-
-Average Margin: Italy U20 by 16.0
-
-Average Scoreline: 33-17
-
-<p float="left">
-<img src="plots/performances_2024-03-08-ItalyU20_V_ScotlandU20.png" width="32%" />
-<img src="plots/resultbar_2024-03-08-ItalyU20_V_ScotlandU20.png" width="32%" />
-<img src="plots/spreads_2024-03-08-ItalyU20_V_ScotlandU20.png" width="32%" />
-</p>
-
-### England U20 V Ireland U20 on 2024/03/08
-
-
-Average Margin: Ireland U20 by 6.0
-
-Average Scoreline: 36-30
-
-<p float="left">
-<img src="plots/performances_2024-03-08-EnglandU20_V_IrelandU20.png" width="32%" />
-<img src="plots/resultbar_2024-03-08-EnglandU20_V_IrelandU20.png" width="32%" />
-<img src="plots/spreads_2024-03-08-EnglandU20_V_IrelandU20.png" width="32%" />
-</p>
-
 ## Week 5
 
 ### Ireland U20 V Scotland U20 on 2024/03/15
 
 
-Average Margin: Ireland U20 by 34.8
+Average Margin: Ireland U20 by 35.2
 
-Average Scoreline: 47-12
+Average Scoreline: 46-11
 
 <p float="left">
 <img src="plots/performances_2024-03-15-IrelandU20_V_ScotlandU20.png" width="32%" />
@@ -122,28 +122,28 @@ Average Scoreline: 47-12
 <img src="plots/spreads_2024-03-15-IrelandU20_V_ScotlandU20.png" width="32%" />
 </p>
 
-### Wales U20 V Italy U20 on 2024/03/15
-
-
-Average Margin: Italy U20 by 1.1
-
-Average Scoreline: 24-22
-
-<p float="left">
-<img src="plots/performances_2024-03-15-WalesU20_V_ItalyU20.png" width="32%" />
-<img src="plots/resultbar_2024-03-15-WalesU20_V_ItalyU20.png" width="32%" />
-<img src="plots/spreads_2024-03-15-WalesU20_V_ItalyU20.png" width="32%" />
-</p>
-
 ### France U20 V England U20 on 2024/03/15
 
 
-Average Margin: France U20 by 6.9
+Average Margin: France U20 by 6.3
 
-Average Scoreline: 30-23
+Average Scoreline: 32-26
 
 <p float="left">
 <img src="plots/performances_2024-03-15-FranceU20_V_EnglandU20.png" width="32%" />
 <img src="plots/resultbar_2024-03-15-FranceU20_V_EnglandU20.png" width="32%" />
 <img src="plots/spreads_2024-03-15-FranceU20_V_EnglandU20.png" width="32%" />
+</p>
+
+### Wales U20 V Italy U20 on 2024/03/15
+
+
+Average Margin: Italy U20 by 0.8
+
+Average Scoreline: 23-22
+
+<p float="left">
+<img src="plots/performances_2024-03-15-WalesU20_V_ItalyU20.png" width="32%" />
+<img src="plots/resultbar_2024-03-15-WalesU20_V_ItalyU20.png" width="32%" />
+<img src="plots/spreads_2024-03-15-WalesU20_V_ItalyU20.png" width="32%" />
 </p>

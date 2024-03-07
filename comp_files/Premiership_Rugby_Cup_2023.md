@@ -1,6 +1,6 @@
 ---  
 title: "Premiership Rugby Cup 2023 Status"  
-date: 2024-03-04 6:00:00 -0500  
+date: 2024-03-05 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,10 +17,10 @@ aside:
 
 | Club                |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Gloucester Rugby    |        6 |      6 |                   75 |                     0 |                nan |                   24 |
-| Leicester Tigers    |        6 |      5 |                  140 |                     0 |                nan |                   20 |
-| Exeter Chiefs       |        6 |      4 |                  135 |                     1 |                nan |                   17 |
-| Ealing Trailfinders |        5 |      4 |                   71 |                     0 |                nan |                   16 |
+| Gloucester Rugby    |        5 |      5 |                   72 |                     0 |                nan |                   20 |
+| Exeter Chiefs       |        5 |      4 |                  138 |                     0 |                nan |                   16 |
+| Leicester Tigers    |        5 |      4 |                  132 |                     0 |                nan |                   16 |
+| Ealing Trailfinders |        4 |      4 |                   79 |                     0 |                nan |                   16 |
 | Newcastle Falcons   |        5 |      4 |                   46 |                     0 |                nan |                   16 |
 | Harlequins          |        5 |      3 |                   63 |                     0 |                nan |                   14 |
 | Sale Sharks         |        5 |      3 |                   99 |                     1 |                nan |                   13 |
@@ -55,10 +55,10 @@ aside:
 
 | Club                |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Gloucester Rugby    |               6 |      6 |                   75 |                     0 |                  0 |                   24 |
-| Leicester Tigers    |               6 |      5 |                  140 |                     0 |                  0 |                   20 |
-| Exeter Chiefs       |               6 |      4 |                  135 |                     1 |                  0 |                   17 |
-| Ealing Trailfinders |               5 |      4 |                   71 |                     0 |                  0 |                   16 |
+| Gloucester Rugby    |               5 |      5 |                   72 |                     0 |                  0 |                   20 |
+| Exeter Chiefs       |               5 |      4 |                  138 |                     0 |                  0 |                   16 |
+| Leicester Tigers    |               5 |      4 |                  132 |                     0 |                  0 |                   16 |
+| Ealing Trailfinders |               4 |      4 |                   79 |                     0 |                  0 |                   16 |
 | Newcastle Falcons   |               5 |      4 |                   46 |                     0 |                  0 |                   16 |
 | Harlequins          |               5 |      3 |                   63 |                     0 |                  0 |                   14 |
 | Sale Sharks         |               5 |      3 |                   99 |                     1 |                  0 |                   13 |
@@ -85,11 +85,11 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 74.5% | 18.0 |
+| Club Level | 75.5% | 18.4 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
 
 # Future Predictions
 
-## Week 7
+## Week 6

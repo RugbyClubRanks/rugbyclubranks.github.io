@@ -69,27 +69,27 @@ Glasgow Warriors by 4.4 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             61 | Nathan McBeth         |             55.44 |        1 |             90.11 | Thomas Gallo        |             78 |
+|             61 | Nathan McBeth         |             55.4  |        1 |             90.1  | Thomas Gallo        |             78 |
 |             61 | Johnny Matthews       |             37.55 |        2 |              1.13 | Siua Maile          |             69 |
-|             80 | Lucio Sordoni         |             93.1  |        3 |             95.74 | Simone Ferrari      |             73 |
+|             80 | Lucio Sordoni         |             93.1  |        3 |             95.73 | Simone Ferrari      |             73 |
 |             80 | Max Williamson        |             63.18 |        4 |             16.71 | Gideon Koegelenberg |             46 |
 |             64 | Alex Samuel           |             60.47 |        5 |             79.06 | Eli Snyman          |             80 |
-|             64 | Euan Ferrie           |             57.67 |        6 |             62.2  | Alessandro Izekor   |             78 |
-|             78 | Tom Gordon            |             95.68 |        7 |             23    | Giovanni Pettinelli |             65 |
+|             64 | Euan Ferrie           |             57.62 |        6 |             62.16 | Alessandro Izekor   |             78 |
+|             78 | Tom Gordon            |             95.78 |        7 |             23.03 | Giovanni Pettinelli |             65 |
 |             80 | Henco Venter          |             96.95 |        8 |             73.71 | Toa Halafihi        |             80 |
 |             80 | Jamie Dobie           |             77.25 |        9 |             72.26 | Alessandro Garbisi  |             63 |
-|             64 | Ross Thompson         |             57    |       10 |             78.26 | Tomas Albornoz      |             70 |
+|             64 | Ross Thompson         |             56.9  |       10 |             78.21 | Tomas Albornoz      |             70 |
 |             68 | Facundo Cordero       |             91.53 |       11 |             35.58 | Onisi Ratave        |             80 |
 |             80 | Tom Jordan            |             56.89 |       12 |             64.08 | Marco Zanon         |             80 |
 |             80 | Stafford McDowall     |             91.05 |       13 |             81.04 | Malakai Fekitoa     |             80 |
 |             80 | Sebastian Cancelliere |             98.07 |       14 |             27.22 | Ignacio Mendy       |             80 |
 |             80 | Josh McKay            |             48.09 |       15 |             74.16 | Jacob Umaga         |             80 |
-|             19 | Gregor Hiddleston     |            nan    |       16 |             14.61 | Federico Zani       |             11 |
-|             19 | Allan Dell            |            nan    |       17 |             81.58 | Ivan Nemer          |              2 |
-|             10 | Oli Kebble            |             96.64 |       18 |             82.58 | Tiziano Pasquali    |              7 |
-|             16 | Sintu Manjezi         |             64.24 |       19 |             30.02 | Riccardo Favretto   |              2 |
+|             19 | Gregor Hiddleston     |            nan    |       16 |             14.62 | Federico Zani       |             11 |
+|             19 | Allan Dell            |            nan    |       17 |             81.47 | Ivan Nemer          |              2 |
+|             10 | Oli Kebble            |             96.64 |       18 |             82.56 | Tiziano Pasquali    |              7 |
+|             16 | Sintu Manjezi         |             64.24 |       19 |             30.05 | Riccardo Favretto   |              2 |
 |             16 | Ally Miller           |            nan    |       20 |             79.53 | Edoardo Iachizzi    |             34 |
 |              2 | Angus Fraser          |            nan    |       21 |             10.56 | Henry Time-Stowers  |             15 |
-|              2 | Ben Afshar            |             49.5  |       22 |             19.56 | Andy Uren           |             17 |
-|             16 | Duncan Weir           |             77.54 |       23 |             12.92 | Giacomo Da Re       |             10 |
+|              2 | Ben Afshar            |             49.3  |       22 |             19.56 | Andy Uren           |             17 |
+|             16 | Duncan Weir           |             77.48 |       23 |             12.92 | Giacomo Da Re       |             10 |
 
