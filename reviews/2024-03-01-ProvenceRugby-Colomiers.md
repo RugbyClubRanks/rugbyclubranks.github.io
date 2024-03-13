@@ -11,7 +11,7 @@ categories: "Pro D2 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.645, which translates to predicting Provence Rugby to win by 5.3.
 
-Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 21 to 26
+Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 23 to 28
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Provence Rugby by 5.2 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             53 | Guillaume Tartas   |             75.93 |        1 |             75.84 | Julius Nostadt        |             48 |
-|             53 | Andrew Ready       |             27.36 |        2 |             86.79 | Lucas Martin          |             80 |
-|             53 | Michael Simutoga   |             85.01 |        3 |             99    | Tomas Francis         |             60 |
-|             80 | Jean Thomas        |             59.06 |        4 |             58.94 | Charly Gambini        |             80 |
-|             57 | Maxime Granouillet |             81.18 |        5 |             76.12 | Josh Tyrell           |             80 |
-|             80 | Anthony Coletta    |             44.22 |        6 |             56.86 | Guillaume Piazzoli    |             80 |
-|             80 | Jeremy Bechu       |             44.32 |        7 |             84.97 | Bilel Taieb           |             80 |
-|             57 | Jorick Dastugue    |             61.74 |        8 |             71.83 | Teimana Harrison      |             57 |
-|             63 | Ugo Seguela        |             64.07 |        9 |             49.9  | Arthur Coville        |             73 |
-|             80 | Brett Herron       |              1.45 |       10 |             82.81 | Jimmy Gopperth        |             80 |
-|             80 | Rodrigo Marta      |             97.11 |       11 |             36.76 | Léo Drouet            |             65 |
-|             58 | Dorian Laborde     |             66.31 |       12 |             82.92 | Kaveinga Finau        |             80 |
-|             80 | Martin Dulon       |             16.61 |       13 |             41.46 | Atila Septar          |             65 |
-|             80 | Farell Delourmel   |             44.27 |       14 |             10.08 | Adrien Lapegue-Lafaye |             80 |
-|             66 | Antoine Lere       |             40.43 |       15 |             77.51 | Enzo Selponi          |             80 |
-|             27 | Thomas Dubois      |             31.15 |       16 |             32.43 | Nicolas Toth          |             32 |
-|             27 | Thomas Larrieu     |             30.38 |       17 |             35.68 | Malohi Suta           |             23 |
-|             27 | Marco Fepulea'i    |             22.71 |       18 |             72.66 | Federico Wegrzyn      |             20 |
-|             23 | Louis Descoux      |             47.88 |       19 |             27.68 | Eto Bainivalu         |             15 |
-|             23 | Waël Ponpon        |             32.22 |       20 |             81.51 | Louis Marrou          |             15 |
-|             22 | Fabien Perrin      |             47.59 |       21 |             68.66 | Joris Cazenave        |              7 |
-|             17 | Edoardo Gori       |             88.82 |       22 |            nan    | nan                   |            nan |
-|             14 | Thomas Girard      |             50.96 |       23 |            nan    | nan                   |            nan |
+|             53 | Guillaume Tartas   |             75.16 |        1 |             75.8  | Julius Nostadt        |             48 |
+|             53 | Andrew Ready       |             28.24 |        2 |             86.64 | Lucas Martin          |             80 |
+|             53 | Michael Simutoga   |             84.97 |        3 |             98.99 | Tomas Francis         |             60 |
+|             80 | Jean Thomas        |             59.36 |        4 |             58.28 | Charly Gambini        |             80 |
+|             57 | Maxime Granouillet |             81.76 |        5 |             77.12 | Josh Tyrell           |             80 |
+|             80 | Anthony Coletta    |             46.7  |        6 |             56.39 | Guillaume Piazzoli    |             80 |
+|             80 | Jeremy Bechu       |             47.09 |        7 |             85.24 | Bilel Taieb           |             80 |
+|             57 | Jorick Dastugue    |             61.65 |        8 |             75    | Teimana Harrison      |             57 |
+|             63 | Ugo Seguela        |             65.03 |        9 |             51.12 | Arthur Coville        |             73 |
+|             80 | Brett Herron       |              1.49 |       10 |             82.59 | Jimmy Gopperth        |             80 |
+|             80 | Rodrigo Marta      |             97.1  |       11 |             37.59 | Léo Drouet            |             65 |
+|             58 | Dorian Laborde     |             66.9  |       12 |             82.5  | Kaveinga Finau        |             80 |
+|             80 | Martin Dulon       |             17.62 |       13 |             43.21 | Atila Septar          |             65 |
+|             80 | Farell Delourmel   |             43.93 |       14 |             10.2  | Adrien Lapegue-Lafaye |             80 |
+|             66 | Antoine Lere       |             41.49 |       15 |             78.66 | Enzo Selponi          |             80 |
+|             27 | Thomas Dubois      |             30.61 |       16 |             31.71 | Nicolas Toth          |             32 |
+|             27 | Thomas Larrieu     |             30.15 |       17 |             30.34 | Malohi Suta           |             23 |
+|             27 | Marco Fepulea'i    |             22.64 |       18 |             63.34 | Federico Wegrzyn      |             20 |
+|             23 | Louis Descoux      |             47.91 |       19 |             27.26 | Eto Bainivalu         |             15 |
+|             23 | Waël Ponpon        |             31.06 |       20 |             80.24 | Louis Marrou          |             15 |
+|             22 | Fabien Perrin      |             47.14 |       21 |             68.92 | Joris Cazenave        |              7 |
+|             17 | Edoardo Gori       |             88.75 |       22 |            nan    | nan                   |            nan |
+|             14 | Thomas Girard      |             53    |       23 |            nan    | nan                   |            nan |
 

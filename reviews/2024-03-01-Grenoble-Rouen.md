@@ -11,7 +11,7 @@ categories: "Pro D2 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.757, which translates to predicting Grenoble to win by 10.0.
 
-Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 19 to 29
+Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 22 to 32
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Rouen by 0.1 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             51 | Enzo Baggiani        |             33.33 |        1 |             51.59 | Luka Goginava       |             59 |
-|             51 | Lucas Malbert        |             16.98 |        2 |             25.28 | Mathis Sarragallet  |             49 |
-|             51 | Luka Azariashvili    |              2.82 |        3 |             75.2  | Regis Montagne      |             42 |
-|             41 | Jean Leleu           |             23.76 |        4 |             36.35 | Thomas Lainault     |             80 |
-|             56 | Toby Salmon          |             62.24 |        5 |             50.47 | Pierce Phillips     |             63 |
-|             80 | Lucas Costa          |             35.57 |        6 |             42.16 | Antonin Berruyer    |             56 |
-|             80 | Julien Ruaud         |             84    |        7 |             60.22 | Steeve Blanc-Mappaz |             80 |
-|             80 | Tino Mapapalangi     |             23.94 |        8 |             37.32 | Thibaut Martel      |             80 |
-|             59 | Florent Campeggia    |             35.53 |        9 |             89.22 | Eric Escande        |             65 |
-|             56 | Edgar Retiere        |             49.64 |       10 |             38.74 | Max Clement         |             59 |
-|             80 | Paul Vallee          |             54.23 |       11 |             71.06 | Erwan Dridi         |             80 |
-|             80 | JT Jackson           |             16.37 |       12 |             22.14 | Romain Fusier       |             80 |
-|             80 | Alex Luatua          |              7.66 |       13 |             49.23 | Romain Trouilloud   |             80 |
-|             59 | Benjamin Descamps    |             53.8  |       14 |             78.99 | Wilfried Hulleu     |             80 |
-|             80 | Pete Lydon           |             83.73 |       15 |             44.26 | Geoffrey Cros       |             65 |
-|             39 | Raphaël Vieilledent  |             61.88 |       16 |             63.96 | Barnabé Massa       |             31 |
-|             29 | Cody Thomas          |             18.62 |       17 |             37.42 | Vincent Vial        |             38 |
-|             29 | Efi Ma'afu           |             39.25 |       18 |             45.31 | Pio Muarua          |             24 |
-|             29 | Sidi-Mohammed Diallo |            nan    |       19 |             13.17 | Eli Eglaine         |             21 |
-|             24 | Baptiste Mouchous    |             66.51 |       20 |             96.11 | Bautista Ezcurra    |             21 |
-|             24 | Jimi Maximin         |             26.12 |       21 |             42.59 | Brandon Nansen      |             17 |
-|             21 | Maxime Sidobre       |             73.65 |       22 |             14.59 | Hugo Trouilloud     |             15 |
-|             21 | Kevin Bly            |             89.17 |       23 |             96.41 | Felipe Ezcurra      |             15 |
+|             51 | Enzo Baggiani        |             32.63 |        1 |             51.33 | Luka Goginava       |             59 |
+|             51 | Lucas Malbert        |             17.18 |        2 |             24.62 | Mathis Sarragallet  |             49 |
+|             51 | Luka Azariashvili    |              2.84 |        3 |             74.61 | Regis Montagne      |             42 |
+|             41 | Jean Leleu           |             23.6  |        4 |             48.15 | Thomas Lainault     |             80 |
+|             56 | Toby Salmon          |             62.1  |        5 |             62.34 | Pierce Phillips     |             63 |
+|             80 | Lucas Costa          |             35.35 |        6 |             56.07 | Antonin Berruyer    |             56 |
+|             80 | Julien Ruaud         |             83.7  |        7 |             70.48 | Steeve Blanc-Mappaz |             80 |
+|             80 | Tino Mapapalangi     |             24.51 |        8 |             36.65 | Thibaut Martel      |             80 |
+|             59 | Florent Campeggia    |             47.85 |        9 |             91.41 | Eric Escande        |             65 |
+|             56 | Edgar Retiere        |             48.51 |       10 |             53.98 | Max Clement         |             59 |
+|             80 | Paul Vallee          |             66.81 |       11 |             78.63 | Erwan Dridi         |             80 |
+|             80 | JT Jackson           |             23.21 |       12 |             32.38 | Romain Fusier       |             80 |
+|             80 | Alex Luatua          |              7.5  |       13 |             60.6  | Romain Trouilloud   |             80 |
+|             59 | Benjamin Descamps    |             53.81 |       14 |             84.75 | Wilfried Hulleu     |             80 |
+|             80 | Pete Lydon           |             84.65 |       15 |             44.36 | Geoffrey Cros       |             65 |
+|             39 | Raphaël Vieilledent  |             61.5  |       16 |             70.8  | Barnabé Massa       |             31 |
+|             29 | Cody Thomas          |             18.61 |       17 |             36.94 | Vincent Vial        |             38 |
+|             29 | Efi Ma'afu           |             38.74 |       18 |             45.39 | Pio Muarua          |             24 |
+|             29 | Sidi-Mohammed Diallo |            nan    |       19 |             17.42 | Eli Eglaine         |             21 |
+|             24 | Baptiste Mouchous    |             72.9  |       20 |             96.31 | Bautista Ezcurra    |             21 |
+|             24 | Jimi Maximin         |             26.22 |       21 |             42.55 | Brandon Nansen      |             17 |
+|             21 | Maxime Sidobre       |             73.42 |       22 |             15.59 | Hugo Trouilloud     |             15 |
+|             21 | Kevin Bly            |             90.23 |       23 |             96.11 | Felipe Ezcurra      |             15 |
 

@@ -9,9 +9,9 @@ categories: "Super Rugby Americas 2024" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.532, which translates to predicting Selknam to win by 1.2.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.536, which translates to predicting Selknam to win by 1.3.
 
-Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 25 to 26
+Our Over/Under is 66.5 - and combined with the spread above, we have a predicted scoreline of 32 to 34
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -42,5 +42,5 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Imputed Lineups: Selknam by 0.1
 
 
-Pampas XV by 2.3 on a neutral pitch
+Pampas XV by 2.2 on a neutral pitch
 

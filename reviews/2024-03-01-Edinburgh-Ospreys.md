@@ -9,9 +9,9 @@ categories: "United Rugby Championship 2023" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.674, which translates to predicting Edinburgh to win by 6.4.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.672, which translates to predicting Edinburgh to win by 6.4.
 
-Our Over/Under is 38.5 - and combined with the spread above, we have a predicted scoreline of 16 to 22
+Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 21 to 27
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Edinburgh by 3.2 on a neutral pitch
 
 |   Away Minutes | Away Player     |   Away Percentile |   Number |   Home Percentile | Home Player       |   Home Minutes |
 |---------------:|:----------------|------------------:|---------:|------------------:|:------------------|---------------:|
-|             69 | Nicky Smith     |             54.59 |        1 |             24.34 | Boan Venter       |             70 |
-|             56 | Sam Parry       |             62.26 |        2 |             64.34 | Dave Cherry       |             64 |
-|             59 | Tom Botha       |             73.66 |        3 |             99.64 | WP Nel            |             52 |
-|             80 | James Ratti     |             58.59 |        4 |             84.24 | Sam Skinner       |             64 |
-|             54 | Victor Sekekete |             18.24 |        5 |              9.06 | Glen Young        |             80 |
-|             80 | Harri Deaves    |             82.81 |        6 |             37.3  | Tom Dodd          |             64 |
-|             80 | Justin Tipuric  |             98.27 |        7 |             73.08 | Hamish Watson     |             80 |
-|             54 | Jeandre Rudolph |             46.95 |        8 |             84.04 | Viliame Mata      |             80 |
-|             80 | Luke Davies     |             49.7  |        9 |             88.22 | Ben Vellacott     |             57 |
-|             62 | Dan Edwards     |             36.08 |       10 |             87.65 | Ben Healy         |             80 |
-|             80 | Keelan Giles    |              6.97 |       11 |             13.72 | Chris Dean        |             57 |
-|             80 | Keiran Williams |             82.21 |       12 |             89.75 | Matt Currie       |             80 |
-|             80 | Evardi Boshoff  |             39.1  |       13 |             69.38 | Mark Bennett      |             80 |
-|             67 | Alex Cuthbert   |             98.71 |       14 |             47.91 | Harry Paterson    |             80 |
-|             80 | Jack Walsh      |             17.94 |       15 |             61.24 | Emiliano Boffelli |             80 |
+|             69 | Nicky Smith     |             54.54 |        1 |             24.29 | Boan Venter       |             70 |
+|             56 | Sam Parry       |             61.83 |        2 |             63.74 | Dave Cherry       |             64 |
+|             59 | Tom Botha       |             72.87 |        3 |             99.54 | WP Nel            |             52 |
+|             80 | James Ratti     |             58.05 |        4 |             84.62 | Sam Skinner       |             64 |
+|             54 | Victor Sekekete |             19.43 |        5 |              8.82 | Glen Young        |             80 |
+|             80 | Harri Deaves    |             82.49 |        6 |             37.22 | Tom Dodd          |             64 |
+|             80 | Justin Tipuric  |             98.46 |        7 |             71.92 | Hamish Watson     |             80 |
+|             54 | Jeandre Rudolph |             46.6  |        8 |             82.77 | Viliame Mata      |             80 |
+|             80 | Luke Davies     |             49.9  |        9 |             88.14 | Ben Vellacott     |             57 |
+|             62 | Dan Edwards     |             35.32 |       10 |             87.81 | Ben Healy         |             80 |
+|             80 | Keelan Giles    |              6.77 |       11 |             13.86 | Chris Dean        |             57 |
+|             80 | Keiran Williams |             81.19 |       12 |             89.29 | Matt Currie       |             80 |
+|             80 | Evardi Boshoff  |             39.17 |       13 |             68.93 | Mark Bennett      |             80 |
+|             67 | Alex Cuthbert   |             98.6  |       14 |             47.58 | Harry Paterson    |             80 |
+|             80 | Jack Walsh      |             18.94 |       15 |             60.67 | Emiliano Boffelli |             80 |
 |             24 | Lewis Lloyd     |            nan    |       16 |            nan    | Patrick Harrison  |             16 |
-|             11 | Rhys Henry      |             83.38 |       17 |             27.88 | Luan de Bruin     |             10 |
-|             21 | Ben Warren      |            nan    |       18 |             71.12 | Javan Sebastian   |             28 |
-|             26 | Rhys Davies     |             89.95 |       19 |             89.88 | Marshall Sykes    |             16 |
+|             11 | Rhys Henry      |             83.41 |       17 |             27.5  | Luan de Bruin     |             10 |
+|             21 | Ben Warren      |            nan    |       18 |             70.21 | Javan Sebastian   |             28 |
+|             26 | Rhys Davies     |             89.54 |       19 |             89.75 | Marshall Sykes    |             16 |
 |             26 | Morgan Morris   |            nan    |       20 |            nan    | Ben Muncaster     |             16 |
-|              0 | Cam Jones       |            nan    |       21 |             87.82 | Ali Price         |             23 |
-|             18 | Owen Williams   |             93.7  |       22 |            nan    | Cameron Scott     |              0 |
-|             13 | Matt Protheroe  |             92.07 |       23 |            nan    | Wes Goosen        |             23 |
+|              0 | Cam Jones       |            nan    |       21 |             87.73 | Ali Price         |             23 |
+|             18 | Owen Williams   |             92.79 |       22 |            nan    | Cameron Scott     |              0 |
+|             13 | Matt Protheroe  |             92.05 |       23 |            nan    | Wes Goosen        |             23 |
 

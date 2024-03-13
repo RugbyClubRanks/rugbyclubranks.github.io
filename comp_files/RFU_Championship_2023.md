@@ -1,6 +1,6 @@
 ---  
 title: "RFU Championship 2023 Status"  
-date: 2024-03-07 6:00:00 -0500  
+date: 2024-03-11 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,17 +17,17 @@ aside:
 
 | Club                |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Ealing Trailfinders |       12 |     11 |                  277 |                     1 |                nan |                   54 |
-| Coventry            |       13 |      8 |                  122 |                     2 |                nan |                   42 |
-| Cornish Pirates     |       12 |      9 |                   93 |                     1 |                nan |                   42 |
-| Hartpury College    |       14 |      8 |                   64 |                     2 |                nan |                   40 |
-| Doncaster           |       13 |      8 |                    8 |                     1 |                nan |                   39 |
-| Bedford             |       13 |      7 |                   69 |                     4 |                nan |                   38 |
-| Ampthill            |       12 |      5 |                  -35 |                     2 |                nan |                   29 |
-| Nottingham          |       12 |      5 |                  -72 |                     1 |                nan |                   28 |
+| Ealing Trailfinders |       13 |     11 |                  275 |                     2 |                nan |                   55 |
+| Coventry            |       14 |      9 |                  124 |                     2 |                nan |                   46 |
+| Cornish Pirates     |       13 |     10 |                  112 |                     1 |                nan |                   46 |
+| Hartpury College    |       15 |      9 |                   67 |                     2 |                nan |                   44 |
+| Doncaster           |       14 |      9 |                   22 |                     1 |                nan |                   43 |
+| Bedford             |       14 |      8 |                   79 |                     4 |                nan |                   42 |
+| Ampthill            |       13 |      5 |                  -54 |                     2 |                nan |                   29 |
+| Nottingham          |       13 |      5 |                  -75 |                     2 |                nan |                   29 |
 | Caldy               |       13 |      4 |                 -147 |                     1 |                nan |                   24 |
-| Cambridge           |       13 |      2 |                 -283 |                     3 |                nan |                   16 |
-| London Scottish     |       11 |      1 |                  -96 |                     5 |                nan |                   14 |
+| Cambridge           |       14 |      2 |                 -293 |                     3 |                nan |                   16 |
+| London Scottish     |       12 |      1 |                 -110 |                     5 |                nan |                   14 |
 
 
 
@@ -36,18 +36,18 @@ aside:
 
 | Club                |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Ealing Trailfinders |                   8 |    7.6 |            125.49    |                   0.4 |                6.4 |                 37.2 |
-| Jersey              |                   8 |    6.9 |            115.519   |                   0.7 |                5.7 |                 34   |
-| Cornish Pirates     |                   9 |    6.8 |             54.9768  |                   1.5 |                4.9 |                 33.7 |
-| Coventry            |                   8 |    5.4 |             47.9192  |                   1.8 |                4.7 |                 28.2 |
-| Bedford             |                   8 |    5.4 |             22.6684  |                   0.9 |                3.9 |                 26.6 |
-| Hartpury College    |                   8 |    4.6 |              3.33778 |                   2.1 |                3.1 |                 23.6 |
-| Nottingham          |                   8 |    3.3 |            -20.9568  |                   2.6 |                3.1 |                 19.1 |
-| Doncaster           |                   8 |    3.1 |            -26.2338  |                   2.2 |                3.3 |                 17.8 |
-| Cambridge           |                   9 |    1.9 |            -81.8822  |                   2.1 |                2   |                 11.6 |
-| Ampthill            |                   8 |    1.5 |            -73.0345  |                   2.2 |                3.1 |                 11.5 |
-| Caldy               |                   8 |    1.4 |            -84.1359  |                   1.4 |                2.9 |                 10   |
-| London Scottish     |                   8 |    0.9 |            -83.667   |                   2.5 |                1.5 |                  7.6 |
+| Ealing Trailfinders |                   7 |    6.7 |            115.433   |                   0.2 |                5.6 |                 32.8 |
+| Jersey              |                   7 |    5.9 |             90.3952  |                   0.7 |                4.9 |                 29.2 |
+| Cornish Pirates     |                   8 |    5.7 |             42.4434  |                   1.7 |                4.3 |                 28.8 |
+| Coventry            |                   7 |    5.4 |             57.0824  |                   1.2 |                4.7 |                 27.6 |
+| Bedford             |                   7 |    4.6 |             16.4759  |                   0.7 |                3.5 |                 22.8 |
+| Hartpury College    |                   7 |    4.2 |              5.08789 |                   1.6 |                2.5 |                 20.7 |
+| Nottingham          |                   8 |    3.8 |            -13.6635  |                   2.1 |                3.3 |                 20.4 |
+| Doncaster           |                   7 |    2.3 |            -27.2756  |                   2.1 |                2.7 |                 14   |
+| Ampthill            |                   7 |    1.4 |            -60.1998  |                   2.2 |                2.6 |                 10.6 |
+| Cambridge           |                   8 |    1.7 |            -78.1422  |                   1.7 |                1.4 |                  9.9 |
+| Caldy               |                   7 |    1.5 |            -56.9467  |                   1.3 |                2.3 |                  9.6 |
+| London Scottish     |                   8 |    0.8 |            -90.6903  |                   2.2 |                1.2 |                  6.3 |
 
 
 
@@ -56,18 +56,18 @@ aside:
 
 | Club                |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Ealing Trailfinders |              20 |   18.6 |             402.49   |                   1.4 |                6.4 |                 91.2 |
-| Cornish Pirates     |              21 |   15.8 |             147.977  |                   2.5 |                4.9 |                 75.7 |
-| Coventry            |              21 |   13.4 |             169.919  |                   3.8 |                4.7 |                 70.2 |
-| Bedford             |              21 |   12.4 |              91.6684 |                   4.9 |                3.9 |                 64.6 |
-| Hartpury College    |              22 |   12.6 |              67.3378 |                   4.1 |                3.1 |                 63.6 |
-| Doncaster           |              21 |   11.1 |             -18.2338 |                   3.2 |                3.3 |                 56.8 |
-| Nottingham          |              20 |    8.3 |             -92.9568 |                   3.6 |                3.1 |                 47.1 |
-| Ampthill            |              20 |    6.5 |            -108.035  |                   4.2 |                3.1 |                 40.5 |
-| Jersey              |               8 |    6.9 |             115.519  |                   0.7 |                5.7 |                 34   |
-| Caldy               |              21 |    5.4 |            -231.136  |                   2.4 |                2.9 |                 34   |
-| Cambridge           |              22 |    3.9 |            -364.882  |                   5.1 |                2   |                 27.6 |
-| London Scottish     |              19 |    1.9 |            -179.667  |                   7.5 |                1.5 |                 21.6 |
+| Ealing Trailfinders |              20 |   17.7 |            390.433   |                   2.2 |                5.6 |                 87.8 |
+| Cornish Pirates     |              21 |   15.7 |            154.443   |                   2.7 |                4.3 |                 74.8 |
+| Coventry            |              21 |   14.4 |            181.082   |                   3.2 |                4.7 |                 73.6 |
+| Bedford             |              21 |   12.6 |             95.4759  |                   4.7 |                3.5 |                 64.8 |
+| Hartpury College    |              22 |   13.2 |             72.0879  |                   3.6 |                2.5 |                 64.7 |
+| Doncaster           |              21 |   11.3 |             -5.27558 |                   3.1 |                2.7 |                 57   |
+| Nottingham          |              21 |    8.8 |            -88.6635  |                   4.1 |                3.3 |                 49.4 |
+| Ampthill            |              20 |    6.4 |           -114.2     |                   4.2 |                2.6 |                 39.6 |
+| Caldy               |              20 |    5.5 |           -203.947   |                   2.3 |                2.3 |                 33.6 |
+| Jersey              |               7 |    5.9 |             90.3952  |                   0.7 |                4.9 |                 29.2 |
+| Cambridge           |              22 |    3.7 |           -371.142   |                   4.7 |                1.4 |                 25.9 |
+| London Scottish     |              20 |    1.8 |           -200.69    |                   7.2 |                1.2 |                 20.3 |
 
 
 
@@ -76,112 +76,47 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 66.2% | 13.1 |
-| Player Level: Lineup | 63.3% | 14.5 |
-| Player Level: Minutes | 65.0% | 14.4 |
+| Club Level | 65.8% | 12.6 |
+| Player Level: Lineup | 63.9% | 14.3 |
+| Player Level: Minutes | 65.6% | 14.2 |
 
 
 # Future Predictions
 
-## Week 15
-
-### Nottingham V Hartpury College on 2024/03/08
-
-
-Average Margin: Hartpury College by 0.5
-
-Average Scoreline: 34-33
-
-<p float="left">
-<img src="plots/performances_2024-03-08-Nottingham_V_HartpuryCollege.png" width="32%" />
-<img src="plots/resultbar_2024-03-08-Nottingham_V_HartpuryCollege.png" width="32%" />
-<img src="plots/spreads_2024-03-08-Nottingham_V_HartpuryCollege.png" width="32%" />
-</p>
-
-### London Scottish V Doncaster on 2024/03/09
-
-
-Average Margin: Doncaster by 5.1
-
-Average Scoreline: 33-28
-
-<p float="left">
-<img src="plots/performances_2024-03-09-LondonScottish_V_Doncaster.png" width="32%" />
-<img src="plots/resultbar_2024-03-09-LondonScottish_V_Doncaster.png" width="32%" />
-<img src="plots/spreads_2024-03-09-LondonScottish_V_Doncaster.png" width="32%" />
-</p>
-
-### Cambridge V Bedford on 2024/03/09
-
-
-Average Margin: Bedford by 8.4
-
-Average Scoreline: 33-25
-
-<p float="left">
-<img src="plots/performances_2024-03-09-Cambridge_V_Bedford.png" width="32%" />
-<img src="plots/resultbar_2024-03-09-Cambridge_V_Bedford.png" width="32%" />
-<img src="plots/spreads_2024-03-09-Cambridge_V_Bedford.png" width="32%" />
-</p>
-
-### Coventry V Ealing Trailfinders on 2024/03/09
-
-
-Average Margin: Ealing Trailfinders by 5.8
-
-Average Scoreline: 34-28
-
-<p float="left">
-<img src="plots/performances_2024-03-09-Coventry_V_EalingTrailfinders.png" width="32%" />
-<img src="plots/resultbar_2024-03-09-Coventry_V_EalingTrailfinders.png" width="32%" />
-<img src="plots/spreads_2024-03-09-Coventry_V_EalingTrailfinders.png" width="32%" />
-</p>
-
-### Cornish Pirates V Ampthill on 2024/03/09
-
-
-Average Margin: Cornish Pirates by 14.1
-
-Average Scoreline: 29-15
-
-<p float="left">
-<img src="plots/performances_2024-03-09-CornishPirates_V_Ampthill.png" width="32%" />
-<img src="plots/resultbar_2024-03-09-CornishPirates_V_Ampthill.png" width="32%" />
-<img src="plots/spreads_2024-03-09-CornishPirates_V_Ampthill.png" width="32%" />
-</p>
-
-### Jersey V Caldy on 2024/03/09
-
-
-Average Margin: Jersey by 25.5
-
-Average Scoreline: 43-18
-
-<p float="left">
-<img src="plots/performances_2024-03-09-Jersey_V_Caldy.png" width="32%" />
-<img src="plots/resultbar_2024-03-09-Jersey_V_Caldy.png" width="32%" />
-<img src="plots/spreads_2024-03-09-Jersey_V_Caldy.png" width="32%" />
-</p>
-
 ## Week 16
 
-### Cambridge V Nottingham on 2024/03/23
+### Nottingham V London Scottish on 2024/03/15
 
 
-Average Margin: Nottingham by 2.9
+Average Margin: Nottingham by 9.3
 
-Average Scoreline: 32-29
+Average Scoreline: 29-19
 
 <p float="left">
-<img src="plots/performances_2024-03-23-Cambridge_V_Nottingham.png" width="32%" />
-<img src="plots/resultbar_2024-03-23-Cambridge_V_Nottingham.png" width="32%" />
-<img src="plots/spreads_2024-03-23-Cambridge_V_Nottingham.png" width="32%" />
+<img src="plots/performances_2024-03-15-Nottingham_V_LondonScottish.png" width="32%" />
+<img src="plots/resultbar_2024-03-15-Nottingham_V_LondonScottish.png" width="32%" />
+<img src="plots/spreads_2024-03-15-Nottingham_V_LondonScottish.png" width="32%" />
+</p>
+
+## Week 17
+
+### Hartpury College V Coventry on 2024/03/23
+
+
+Average Margin: Coventry by 3.5
+
+Average Scoreline: 35-32
+
+<p float="left">
+<img src="plots/performances_2024-03-23-HartpuryCollege_V_Coventry.png" width="32%" />
+<img src="plots/resultbar_2024-03-23-HartpuryCollege_V_Coventry.png" width="32%" />
+<img src="plots/spreads_2024-03-23-HartpuryCollege_V_Coventry.png" width="32%" />
 </p>
 
 ### Ealing Trailfinders V London Scottish on 2024/03/23
 
 
-Average Margin: Ealing Trailfinders by 29.0
+Average Margin: Ealing Trailfinders by 28.9
 
 Average Scoreline: 42-13
 
@@ -191,25 +126,12 @@ Average Scoreline: 42-13
 <img src="plots/spreads_2024-03-23-EalingTrailfinders_V_LondonScottish.png" width="32%" />
 </p>
 
-### Bedford V Caldy on 2024/03/23
-
-
-Average Margin: Bedford by 13.2
-
-Average Scoreline: 32-19
-
-<p float="left">
-<img src="plots/performances_2024-03-23-Bedford_V_Caldy.png" width="32%" />
-<img src="plots/resultbar_2024-03-23-Bedford_V_Caldy.png" width="32%" />
-<img src="plots/spreads_2024-03-23-Bedford_V_Caldy.png" width="32%" />
-</p>
-
 ### Doncaster V Cornish Pirates on 2024/03/23
 
 
-Average Margin: Cornish Pirates by 2.3
+Average Margin: Cornish Pirates by 1.7
 
-Average Scoreline: 27-25
+Average Scoreline: 37-36
 
 <p float="left">
 <img src="plots/performances_2024-03-23-Doncaster_V_CornishPirates.png" width="32%" />
@@ -217,12 +139,38 @@ Average Scoreline: 27-25
 <img src="plots/spreads_2024-03-23-Doncaster_V_CornishPirates.png" width="32%" />
 </p>
 
+### Cambridge V Nottingham on 2024/03/23
+
+
+Average Margin: Nottingham by 3.1
+
+Average Scoreline: 39-36
+
+<p float="left">
+<img src="plots/performances_2024-03-23-Cambridge_V_Nottingham.png" width="32%" />
+<img src="plots/resultbar_2024-03-23-Cambridge_V_Nottingham.png" width="32%" />
+<img src="plots/spreads_2024-03-23-Cambridge_V_Nottingham.png" width="32%" />
+</p>
+
+### Bedford V Caldy on 2024/03/23
+
+
+Average Margin: Bedford by 13.4
+
+Average Scoreline: 35-21
+
+<p float="left">
+<img src="plots/performances_2024-03-23-Bedford_V_Caldy.png" width="32%" />
+<img src="plots/resultbar_2024-03-23-Bedford_V_Caldy.png" width="32%" />
+<img src="plots/spreads_2024-03-23-Bedford_V_Caldy.png" width="32%" />
+</p>
+
 ### Ampthill V Jersey on 2024/03/23
 
 
-Average Margin: Jersey by 16.3
+Average Margin: Jersey by 16.9
 
-Average Scoreline: 36-20
+Average Scoreline: 40-23
 
 <p float="left">
 <img src="plots/performances_2024-03-23-Ampthill_V_Jersey.png" width="32%" />
@@ -230,27 +178,14 @@ Average Scoreline: 36-20
 <img src="plots/spreads_2024-03-23-Ampthill_V_Jersey.png" width="32%" />
 </p>
 
-### Hartpury College V Coventry on 2024/03/23
-
-
-Average Margin: Coventry by 3.6
-
-Average Scoreline: 26-22
-
-<p float="left">
-<img src="plots/performances_2024-03-23-HartpuryCollege_V_Coventry.png" width="32%" />
-<img src="plots/resultbar_2024-03-23-HartpuryCollege_V_Coventry.png" width="32%" />
-<img src="plots/spreads_2024-03-23-HartpuryCollege_V_Coventry.png" width="32%" />
-</p>
-
-## Week 17
+## Week 18
 
 ### Cornish Pirates V Ealing Trailfinders on 2024/04/06
 
 
-Average Margin: Ealing Trailfinders by 8.0
+Average Margin: Ealing Trailfinders by 7.4
 
-Average Scoreline: 31-23
+Average Scoreline: 39-31
 
 <p float="left">
 <img src="plots/performances_2024-04-06-CornishPirates_V_EalingTrailfinders.png" width="32%" />
@@ -258,51 +193,12 @@ Average Scoreline: 31-23
 <img src="plots/spreads_2024-04-06-CornishPirates_V_EalingTrailfinders.png" width="32%" />
 </p>
 
-### Coventry V Cambridge on 2024/04/06
-
-
-Average Margin: Coventry by 20.1
-
-Average Scoreline: 34-14
-
-<p float="left">
-<img src="plots/performances_2024-04-06-Coventry_V_Cambridge.png" width="32%" />
-<img src="plots/resultbar_2024-04-06-Coventry_V_Cambridge.png" width="32%" />
-<img src="plots/spreads_2024-04-06-Coventry_V_Cambridge.png" width="32%" />
-</p>
-
-### Caldy V Ampthill on 2024/04/06
-
-
-Average Margin: Caldy by 1.2
-
-Average Scoreline: 34-33
-
-<p float="left">
-<img src="plots/performances_2024-04-06-Caldy_V_Ampthill.png" width="32%" />
-<img src="plots/resultbar_2024-04-06-Caldy_V_Ampthill.png" width="32%" />
-<img src="plots/spreads_2024-04-06-Caldy_V_Ampthill.png" width="32%" />
-</p>
-
-### London Scottish V Hartpury College on 2024/04/06
-
-
-Average Margin: Hartpury College by 6.1
-
-Average Scoreline: 33-27
-
-<p float="left">
-<img src="plots/performances_2024-04-06-LondonScottish_V_HartpuryCollege.png" width="32%" />
-<img src="plots/resultbar_2024-04-06-LondonScottish_V_HartpuryCollege.png" width="32%" />
-<img src="plots/spreads_2024-04-06-LondonScottish_V_HartpuryCollege.png" width="32%" />
-</p>
-
 ### Nottingham V Bedford on 2024/04/06
 
 
-Average Margin: Bedford by 1.7
+Average Margin: Bedford by 2.5
 
-Average Scoreline: 28-27
+Average Scoreline: 39-36
 
 <p float="left">
 <img src="plots/performances_2024-04-06-Nottingham_V_Bedford.png" width="32%" />
@@ -310,12 +206,38 @@ Average Scoreline: 28-27
 <img src="plots/spreads_2024-04-06-Nottingham_V_Bedford.png" width="32%" />
 </p>
 
+### London Scottish V Hartpury College on 2024/04/06
+
+
+Average Margin: Hartpury College by 7.0
+
+Average Scoreline: 38-31
+
+<p float="left">
+<img src="plots/performances_2024-04-06-LondonScottish_V_HartpuryCollege.png" width="32%" />
+<img src="plots/resultbar_2024-04-06-LondonScottish_V_HartpuryCollege.png" width="32%" />
+<img src="plots/spreads_2024-04-06-LondonScottish_V_HartpuryCollege.png" width="32%" />
+</p>
+
+### Caldy V Ampthill on 2024/04/06
+
+
+Average Margin: Caldy by 1.5
+
+Average Scoreline: 33-31
+
+<p float="left">
+<img src="plots/performances_2024-04-06-Caldy_V_Ampthill.png" width="32%" />
+<img src="plots/resultbar_2024-04-06-Caldy_V_Ampthill.png" width="32%" />
+<img src="plots/spreads_2024-04-06-Caldy_V_Ampthill.png" width="32%" />
+</p>
+
 ### Jersey V Doncaster on 2024/04/06
 
 
-Average Margin: Jersey by 18.1
+Average Margin: Jersey by 17.2
 
-Average Scoreline: 36-18
+Average Scoreline: 37-20
 
 <p float="left">
 <img src="plots/performances_2024-04-06-Jersey_V_Doncaster.png" width="32%" />
@@ -323,14 +245,27 @@ Average Scoreline: 36-18
 <img src="plots/spreads_2024-04-06-Jersey_V_Doncaster.png" width="32%" />
 </p>
 
-## Week 18
+### Coventry V Cambridge on 2024/04/06
+
+
+Average Margin: Coventry by 20.9
+
+Average Scoreline: 36-15
+
+<p float="left">
+<img src="plots/performances_2024-04-06-Coventry_V_Cambridge.png" width="32%" />
+<img src="plots/resultbar_2024-04-06-Coventry_V_Cambridge.png" width="32%" />
+<img src="plots/spreads_2024-04-06-Coventry_V_Cambridge.png" width="32%" />
+</p>
+
+## Week 19
 
 ### Doncaster V Caldy on 2024/04/13
 
 
-Average Margin: Doncaster by 10.8
+Average Margin: Doncaster by 11.2
 
-Average Scoreline: 31-20
+Average Scoreline: 30-18
 
 <p float="left">
 <img src="plots/performances_2024-04-13-Doncaster_V_Caldy.png" width="32%" />
@@ -338,38 +273,12 @@ Average Scoreline: 31-20
 <img src="plots/spreads_2024-04-13-Doncaster_V_Caldy.png" width="32%" />
 </p>
 
-### Nottingham V Coventry on 2024/04/13
-
-
-Average Margin: Coventry by 7.1
-
-Average Scoreline: 32-25
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Nottingham_V_Coventry.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Nottingham_V_Coventry.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Nottingham_V_Coventry.png" width="32%" />
-</p>
-
-### Cambridge V London Scottish on 2024/04/13
-
-
-Average Margin: Cambridge by 2.9
-
-Average Scoreline: 33-30
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Cambridge_V_LondonScottish.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Cambridge_V_LondonScottish.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Cambridge_V_LondonScottish.png" width="32%" />
-</p>
-
 ### Bedford V Ampthill on 2024/04/13
 
 
-Average Margin: Bedford by 11.5
+Average Margin: Bedford by 11.7
 
-Average Scoreline: 36-24
+Average Scoreline: 29-17
 
 <p float="left">
 <img src="plots/performances_2024-04-13-Bedford_V_Ampthill.png" width="32%" />
@@ -377,12 +286,25 @@ Average Scoreline: 36-24
 <img src="plots/spreads_2024-04-13-Bedford_V_Ampthill.png" width="32%" />
 </p>
 
+### Nottingham V Coventry on 2024/04/13
+
+
+Average Margin: Coventry by 7.7
+
+Average Scoreline: 38-30
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Nottingham_V_Coventry.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Nottingham_V_Coventry.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Nottingham_V_Coventry.png" width="32%" />
+</p>
+
 ### Hartpury College V Cornish Pirates on 2024/04/13
 
 
-Average Margin: Cornish Pirates by 1.2
+Average Margin: Cornish Pirates by 0.9
 
-Average Scoreline: 21-20
+Average Scoreline: 30-29
 
 <p float="left">
 <img src="plots/performances_2024-04-13-HartpuryCollege_V_CornishPirates.png" width="32%" />
@@ -393,9 +315,9 @@ Average Scoreline: 21-20
 ### Ealing Trailfinders V Jersey on 2024/04/13
 
 
-Average Margin: Ealing Trailfinders by 5.5
+Average Margin: Ealing Trailfinders by 5.0
 
-Average Scoreline: 32-26
+Average Scoreline: 27-22
 
 <p float="left">
 <img src="plots/performances_2024-04-13-EalingTrailfinders_V_Jersey.png" width="32%" />
@@ -403,40 +325,40 @@ Average Scoreline: 32-26
 <img src="plots/spreads_2024-04-13-EalingTrailfinders_V_Jersey.png" width="32%" />
 </p>
 
-## Week 19
-
-### Jersey V Hartpury College on 2024/04/20
+### Cambridge V London Scottish on 2024/04/13
 
 
-Average Margin: Jersey by 17.0
+Average Margin: Cambridge by 2.8
 
-Average Scoreline: 35-18
+Average Scoreline: 30-27
 
 <p float="left">
-<img src="plots/performances_2024-04-20-Jersey_V_HartpuryCollege.png" width="32%" />
-<img src="plots/resultbar_2024-04-20-Jersey_V_HartpuryCollege.png" width="32%" />
-<img src="plots/spreads_2024-04-20-Jersey_V_HartpuryCollege.png" width="32%" />
+<img src="plots/performances_2024-04-13-Cambridge_V_LondonScottish.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Cambridge_V_LondonScottish.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Cambridge_V_LondonScottish.png" width="32%" />
 </p>
 
-### Cambridge V Cornish Pirates on 2024/04/20
+## Week 20
+
+### Ampthill V Doncaster on 2024/04/20
 
 
-Average Margin: Cornish Pirates by 11.1
+Average Margin: Doncaster by 2.5
 
-Average Scoreline: 30-19
+Average Scoreline: 34-32
 
 <p float="left">
-<img src="plots/performances_2024-04-20-Cambridge_V_CornishPirates.png" width="32%" />
-<img src="plots/resultbar_2024-04-20-Cambridge_V_CornishPirates.png" width="32%" />
-<img src="plots/spreads_2024-04-20-Cambridge_V_CornishPirates.png" width="32%" />
+<img src="plots/performances_2024-04-20-Ampthill_V_Doncaster.png" width="32%" />
+<img src="plots/resultbar_2024-04-20-Ampthill_V_Doncaster.png" width="32%" />
+<img src="plots/spreads_2024-04-20-Ampthill_V_Doncaster.png" width="32%" />
 </p>
 
 ### Caldy V Ealing Trailfinders on 2024/04/20
 
 
-Average Margin: Ealing Trailfinders by 21.0
+Average Margin: Ealing Trailfinders by 19.9
 
-Average Scoreline: 40-19
+Average Scoreline: 46-26
 
 <p float="left">
 <img src="plots/performances_2024-04-20-Caldy_V_EalingTrailfinders.png" width="32%" />
@@ -447,9 +369,9 @@ Average Scoreline: 40-19
 ### London Scottish V Nottingham on 2024/04/20
 
 
-Average Margin: Nottingham by 2.5
+Average Margin: Nottingham by 2.8
 
-Average Scoreline: 33-30
+Average Scoreline: 35-32
 
 <p float="left">
 <img src="plots/performances_2024-04-20-LondonScottish_V_Nottingham.png" width="32%" />
@@ -457,12 +379,38 @@ Average Scoreline: 33-30
 <img src="plots/spreads_2024-04-20-LondonScottish_V_Nottingham.png" width="32%" />
 </p>
 
+### Jersey V Hartpury College on 2024/04/20
+
+
+Average Margin: Jersey by 16.6
+
+Average Scoreline: 40-23
+
+<p float="left">
+<img src="plots/performances_2024-04-20-Jersey_V_HartpuryCollege.png" width="32%" />
+<img src="plots/resultbar_2024-04-20-Jersey_V_HartpuryCollege.png" width="32%" />
+<img src="plots/spreads_2024-04-20-Jersey_V_HartpuryCollege.png" width="32%" />
+</p>
+
+### Cambridge V Cornish Pirates on 2024/04/20
+
+
+Average Margin: Cornish Pirates by 12.0
+
+Average Scoreline: 44-32
+
+<p float="left">
+<img src="plots/performances_2024-04-20-Cambridge_V_CornishPirates.png" width="32%" />
+<img src="plots/resultbar_2024-04-20-Cambridge_V_CornishPirates.png" width="32%" />
+<img src="plots/spreads_2024-04-20-Cambridge_V_CornishPirates.png" width="32%" />
+</p>
+
 ### Coventry V Bedford on 2024/04/20
 
 
-Average Margin: Coventry by 8.3
+Average Margin: Coventry by 8.4
 
-Average Scoreline: 29-21
+Average Scoreline: 30-22
 
 <p float="left">
 <img src="plots/performances_2024-04-20-Coventry_V_Bedford.png" width="32%" />
@@ -470,25 +418,12 @@ Average Scoreline: 29-21
 <img src="plots/spreads_2024-04-20-Coventry_V_Bedford.png" width="32%" />
 </p>
 
-### Ampthill V Doncaster on 2024/04/20
-
-
-Average Margin: Doncaster by 1.9
-
-Average Scoreline: 31-29
-
-<p float="left">
-<img src="plots/performances_2024-04-20-Ampthill_V_Doncaster.png" width="32%" />
-<img src="plots/resultbar_2024-04-20-Ampthill_V_Doncaster.png" width="32%" />
-<img src="plots/spreads_2024-04-20-Ampthill_V_Doncaster.png" width="32%" />
-</p>
-
 ### Cornish Pirates V Cambridge on 2024/04/21
 
 
-Average Margin: Cornish Pirates by 17.7
+Average Margin: Cornish Pirates by 18.3
 
-Average Scoreline: 36-18
+Average Scoreline: 32-14
 
 <p float="left">
 <img src="plots/performances_2024-04-21-CornishPirates_V_Cambridge.png" width="32%" />
@@ -496,14 +431,27 @@ Average Scoreline: 36-18
 <img src="plots/spreads_2024-04-21-CornishPirates_V_Cambridge.png" width="32%" />
 </p>
 
-## Week 20
+## Week 21
+
+### Bedford V Doncaster on 2024/05/04
+
+
+Average Margin: Bedford by 5.7
+
+Average Scoreline: 33-27
+
+<p float="left">
+<img src="plots/performances_2024-05-04-Bedford_V_Doncaster.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-Bedford_V_Doncaster.png" width="32%" />
+<img src="plots/spreads_2024-05-04-Bedford_V_Doncaster.png" width="32%" />
+</p>
 
 ### Nottingham V Cornish Pirates on 2024/05/04
 
 
-Average Margin: Cornish Pirates by 4.6
+Average Margin: Cornish Pirates by 5.1
 
-Average Scoreline: 30-26
+Average Scoreline: 36-31
 
 <p float="left">
 <img src="plots/performances_2024-05-04-Nottingham_V_CornishPirates.png" width="32%" />
@@ -511,36 +459,10 @@ Average Scoreline: 30-26
 <img src="plots/spreads_2024-05-04-Nottingham_V_CornishPirates.png" width="32%" />
 </p>
 
-### Cambridge V Jersey on 2024/05/04
-
-
-Average Margin: Jersey by 19.7
-
-Average Scoreline: 35-16
-
-<p float="left">
-<img src="plots/performances_2024-05-04-Cambridge_V_Jersey.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-Cambridge_V_Jersey.png" width="32%" />
-<img src="plots/spreads_2024-05-04-Cambridge_V_Jersey.png" width="32%" />
-</p>
-
-### Hartpury College V Caldy on 2024/05/04
-
-
-Average Margin: Hartpury College by 11.6
-
-Average Scoreline: 32-20
-
-<p float="left">
-<img src="plots/performances_2024-05-04-HartpuryCollege_V_Caldy.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-HartpuryCollege_V_Caldy.png" width="32%" />
-<img src="plots/spreads_2024-05-04-HartpuryCollege_V_Caldy.png" width="32%" />
-</p>
-
 ### Coventry V London Scottish on 2024/05/04
 
 
-Average Margin: Coventry by 19.7
+Average Margin: Coventry by 20.5
 
 Average Scoreline: 36-16
 
@@ -550,25 +472,38 @@ Average Scoreline: 36-16
 <img src="plots/spreads_2024-05-04-Coventry_V_LondonScottish.png" width="32%" />
 </p>
 
-### Bedford V Doncaster on 2024/05/04
+### Hartpury College V Caldy on 2024/05/04
 
 
-Average Margin: Bedford by 5.8
+Average Margin: Hartpury College by 11.8
 
-Average Scoreline: 31-26
+Average Scoreline: 28-16
 
 <p float="left">
-<img src="plots/performances_2024-05-04-Bedford_V_Doncaster.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-Bedford_V_Doncaster.png" width="32%" />
-<img src="plots/spreads_2024-05-04-Bedford_V_Doncaster.png" width="32%" />
+<img src="plots/performances_2024-05-04-HartpuryCollege_V_Caldy.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-HartpuryCollege_V_Caldy.png" width="32%" />
+<img src="plots/spreads_2024-05-04-HartpuryCollege_V_Caldy.png" width="32%" />
+</p>
+
+### Cambridge V Jersey on 2024/05/04
+
+
+Average Margin: Jersey by 20.5
+
+Average Scoreline: 40-19
+
+<p float="left">
+<img src="plots/performances_2024-05-04-Cambridge_V_Jersey.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-Cambridge_V_Jersey.png" width="32%" />
+<img src="plots/spreads_2024-05-04-Cambridge_V_Jersey.png" width="32%" />
 </p>
 
 ### Ealing Trailfinders V Ampthill on 2024/05/04
 
 
-Average Margin: Ealing Trailfinders by 25.4
+Average Margin: Ealing Trailfinders by 25.0
 
-Average Scoreline: 41-15
+Average Scoreline: 43-18
 
 <p float="left">
 <img src="plots/performances_2024-05-04-EalingTrailfinders_V_Ampthill.png" width="32%" />
@@ -576,27 +511,14 @@ Average Scoreline: 41-15
 <img src="plots/spreads_2024-05-04-EalingTrailfinders_V_Ampthill.png" width="32%" />
 </p>
 
-## Week 21
-
-### Jersey V Nottingham on 2024/05/11
-
-
-Average Margin: Jersey by 20.5
-
-Average Scoreline: 38-18
-
-<p float="left">
-<img src="plots/performances_2024-05-11-Jersey_V_Nottingham.png" width="32%" />
-<img src="plots/resultbar_2024-05-11-Jersey_V_Nottingham.png" width="32%" />
-<img src="plots/spreads_2024-05-11-Jersey_V_Nottingham.png" width="32%" />
-</p>
+## Week 22
 
 ### Doncaster V Ealing Trailfinders on 2024/05/11
 
 
-Average Margin: Ealing Trailfinders by 13.5
+Average Margin: Ealing Trailfinders by 12.3
 
-Average Scoreline: 36-22
+Average Scoreline: 39-27
 
 <p float="left">
 <img src="plots/performances_2024-05-11-Doncaster_V_EalingTrailfinders.png" width="32%" />
@@ -604,12 +526,25 @@ Average Scoreline: 36-22
 <img src="plots/spreads_2024-05-11-Doncaster_V_EalingTrailfinders.png" width="32%" />
 </p>
 
+### Jersey V Nottingham on 2024/05/11
+
+
+Average Margin: Jersey by 21.0
+
+Average Scoreline: 44-23
+
+<p float="left">
+<img src="plots/performances_2024-05-11-Jersey_V_Nottingham.png" width="32%" />
+<img src="plots/resultbar_2024-05-11-Jersey_V_Nottingham.png" width="32%" />
+<img src="plots/spreads_2024-05-11-Jersey_V_Nottingham.png" width="32%" />
+</p>
+
 ### Cornish Pirates V Coventry on 2024/05/11
 
 
-Average Margin: Cornish Pirates by 1.3
+Average Margin: Cornish Pirates by 0.7
 
-Average Scoreline: 30-28
+Average Scoreline: 37-36
 
 <p float="left">
 <img src="plots/performances_2024-05-11-CornishPirates_V_Coventry.png" width="32%" />
@@ -617,38 +552,12 @@ Average Scoreline: 30-28
 <img src="plots/spreads_2024-05-11-CornishPirates_V_Coventry.png" width="32%" />
 </p>
 
-### Caldy V Cambridge on 2024/05/11
-
-
-Average Margin: Caldy by 4.8
-
-Average Scoreline: 30-25
-
-<p float="left">
-<img src="plots/performances_2024-05-11-Caldy_V_Cambridge.png" width="32%" />
-<img src="plots/resultbar_2024-05-11-Caldy_V_Cambridge.png" width="32%" />
-<img src="plots/spreads_2024-05-11-Caldy_V_Cambridge.png" width="32%" />
-</p>
-
-### London Scottish V Bedford on 2024/05/11
-
-
-Average Margin: Bedford by 7.7
-
-Average Scoreline: 33-25
-
-<p float="left">
-<img src="plots/performances_2024-05-11-LondonScottish_V_Bedford.png" width="32%" />
-<img src="plots/resultbar_2024-05-11-LondonScottish_V_Bedford.png" width="32%" />
-<img src="plots/spreads_2024-05-11-LondonScottish_V_Bedford.png" width="32%" />
-</p>
-
 ### Ampthill V Hartpury College on 2024/05/11
 
 
-Average Margin: Hartpury College by 2.7
+Average Margin: Hartpury College by 3.2
 
-Average Scoreline: 32-29
+Average Scoreline: 34-31
 
 <p float="left">
 <img src="plots/performances_2024-05-11-Ampthill_V_HartpuryCollege.png" width="32%" />
@@ -656,40 +565,40 @@ Average Scoreline: 32-29
 <img src="plots/spreads_2024-05-11-Ampthill_V_HartpuryCollege.png" width="32%" />
 </p>
 
-## Week 22
-
-### Nottingham V Caldy on 2024/05/25
+### London Scottish V Bedford on 2024/05/11
 
 
-Average Margin: Nottingham by 8.1
+Average Margin: Bedford by 8.4
 
-Average Scoreline: 26-18
+Average Scoreline: 40-32
 
 <p float="left">
-<img src="plots/performances_2024-05-25-Nottingham_V_Caldy.png" width="32%" />
-<img src="plots/resultbar_2024-05-25-Nottingham_V_Caldy.png" width="32%" />
-<img src="plots/spreads_2024-05-25-Nottingham_V_Caldy.png" width="32%" />
+<img src="plots/performances_2024-05-11-LondonScottish_V_Bedford.png" width="32%" />
+<img src="plots/resultbar_2024-05-11-LondonScottish_V_Bedford.png" width="32%" />
+<img src="plots/spreads_2024-05-11-LondonScottish_V_Bedford.png" width="32%" />
 </p>
 
-### London Scottish V Cornish Pirates on 2024/05/25
+### Caldy V Cambridge on 2024/05/11
 
 
-Average Margin: Cornish Pirates by 10.7
+Average Margin: Caldy by 5.6
 
-Average Scoreline: 36-25
+Average Scoreline: 28-22
 
 <p float="left">
-<img src="plots/performances_2024-05-25-LondonScottish_V_CornishPirates.png" width="32%" />
-<img src="plots/resultbar_2024-05-25-LondonScottish_V_CornishPirates.png" width="32%" />
-<img src="plots/spreads_2024-05-25-LondonScottish_V_CornishPirates.png" width="32%" />
+<img src="plots/performances_2024-05-11-Caldy_V_Cambridge.png" width="32%" />
+<img src="plots/resultbar_2024-05-11-Caldy_V_Cambridge.png" width="32%" />
+<img src="plots/spreads_2024-05-11-Caldy_V_Cambridge.png" width="32%" />
 </p>
+
+## Week 23
 
 ### Ealing Trailfinders V Bedford on 2024/05/25
 
 
-Average Margin: Ealing Trailfinders by 17.3
+Average Margin: Ealing Trailfinders by 16.9
 
-Average Scoreline: 34-17
+Average Scoreline: 41-24
 
 <p float="left">
 <img src="plots/performances_2024-05-25-EalingTrailfinders_V_Bedford.png" width="32%" />
@@ -697,25 +606,51 @@ Average Scoreline: 34-17
 <img src="plots/spreads_2024-05-25-EalingTrailfinders_V_Bedford.png" width="32%" />
 </p>
 
-### Cambridge V Ampthill on 2024/05/25
+### Nottingham V Caldy on 2024/05/25
 
 
-Average Margin: Ampthill by 0.1
+Average Margin: Nottingham by 7.6
 
-Average Scoreline: 31-31
+Average Scoreline: 28-20
 
 <p float="left">
-<img src="plots/performances_2024-05-25-Cambridge_V_Ampthill.png" width="32%" />
-<img src="plots/resultbar_2024-05-25-Cambridge_V_Ampthill.png" width="32%" />
-<img src="plots/spreads_2024-05-25-Cambridge_V_Ampthill.png" width="32%" />
+<img src="plots/performances_2024-05-25-Nottingham_V_Caldy.png" width="32%" />
+<img src="plots/resultbar_2024-05-25-Nottingham_V_Caldy.png" width="32%" />
+<img src="plots/spreads_2024-05-25-Nottingham_V_Caldy.png" width="32%" />
+</p>
+
+### Hartpury College V Doncaster on 2024/05/25
+
+
+Average Margin: Hartpury College by 4.1
+
+Average Scoreline: 32-28
+
+<p float="left">
+<img src="plots/performances_2024-05-25-HartpuryCollege_V_Doncaster.png" width="32%" />
+<img src="plots/resultbar_2024-05-25-HartpuryCollege_V_Doncaster.png" width="32%" />
+<img src="plots/spreads_2024-05-25-HartpuryCollege_V_Doncaster.png" width="32%" />
+</p>
+
+### London Scottish V Cornish Pirates on 2024/05/25
+
+
+Average Margin: Cornish Pirates by 11.1
+
+Average Scoreline: 40-29
+
+<p float="left">
+<img src="plots/performances_2024-05-25-LondonScottish_V_CornishPirates.png" width="32%" />
+<img src="plots/resultbar_2024-05-25-LondonScottish_V_CornishPirates.png" width="32%" />
+<img src="plots/spreads_2024-05-25-LondonScottish_V_CornishPirates.png" width="32%" />
 </p>
 
 ### Coventry V Jersey on 2024/05/25
 
 
-Average Margin: Jersey by 3.7
+Average Margin: Jersey by 3.2
 
-Average Scoreline: 28-24
+Average Scoreline: 33-30
 
 <p float="left">
 <img src="plots/performances_2024-05-25-Coventry_V_Jersey.png" width="32%" />
@@ -723,15 +658,15 @@ Average Scoreline: 28-24
 <img src="plots/spreads_2024-05-25-Coventry_V_Jersey.png" width="32%" />
 </p>
 
-### Hartpury College V Doncaster on 2024/05/25
+### Cambridge V Ampthill on 2024/05/25
 
 
-Average Margin: Hartpury College by 4.3
+Average Margin: Ampthill by 0.6
 
-Average Scoreline: 31-26
+Average Scoreline: 38-37
 
 <p float="left">
-<img src="plots/performances_2024-05-25-HartpuryCollege_V_Doncaster.png" width="32%" />
-<img src="plots/resultbar_2024-05-25-HartpuryCollege_V_Doncaster.png" width="32%" />
-<img src="plots/spreads_2024-05-25-HartpuryCollege_V_Doncaster.png" width="32%" />
+<img src="plots/performances_2024-05-25-Cambridge_V_Ampthill.png" width="32%" />
+<img src="plots/resultbar_2024-05-25-Cambridge_V_Ampthill.png" width="32%" />
+<img src="plots/spreads_2024-05-25-Cambridge_V_Ampthill.png" width="32%" />
 </p>

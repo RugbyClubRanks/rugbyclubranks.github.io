@@ -9,9 +9,9 @@ categories: "Nationale 2023" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.705, which translates to predicting Bourgoin-Jallieu to win by 7.7.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.711, which translates to predicting Bourgoin-Jallieu to win by 7.9.
 
-Our Over/Under is 37.5 - and combined with the spread above, we have a predicted scoreline of 15 to 23
+Our Over/Under is 39.5 - and combined with the spread above, we have a predicted scoreline of 16 to 24
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Suresnes by 0.5 on a neutral pitch
 
 |   Away Minutes | Away Player             |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:------------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             59 | Sébastien Lafrancesca   |             88.74 |        1 |             58.49 | Romain Favaretto      |             62 |
-|             55 | Jean-Étienne Lesueur    |              9.06 |        2 |             73.58 | Killian Tripier       |             57 |
-|             80 | Leandro Mario Assi      |             88.56 |        3 |             34.15 | Osman Dimen           |             58 |
-|             59 | Christopher van Leeuwen |              8.47 |        4 |             64.94 | Robin Gascou          |             48 |
-|             80 | Yakine Djebarri         |             18.35 |        5 |             74.82 | Jonathan Kpoku        |             80 |
-|             80 | Damien Bozic            |             16.76 |        6 |             54.7  | Kevin Chaudouard      |             80 |
-|             71 | Wian Vosloo             |             80.76 |        7 |             68.43 | Theophile Cotte       |             80 |
-|             80 | Louis-Mathieu Jazeix    |             44.84 |        8 |             38.5  | Poutasi Luafutu       |             59 |
-|             80 | Théo Bachiri            |             55.09 |        9 |             65.27 | Martin Doan           |             65 |
-|             80 | Victor Barnier          |             92.01 |       10 |             29.78 | Aviata Silago         |             40 |
-|             80 | Ervin Muric             |              1.82 |       11 |             79.53 | Quentin Lefort        |             80 |
-|             80 | Petero Tuwai            |             87.75 |       12 |             74.2  | Isaiah Leota          |             34 |
-|             80 | JJ Taulagi              |              1.3  |       13 |             38.63 | Christopher Bosch     |             80 |
-|             55 | Faraj Fartass           |             97.75 |       14 |             63.45 | Paul-Hugo Champ       |             80 |
-|             80 | Goulwen Gueho           |              1.67 |       15 |              0.48 | Antoine Renaud        |             80 |
-|             25 | Thomas Baudy            |             30.86 |       16 |             53.99 | Théo Lepage           |             46 |
-|             25 | Anthony Bajart          |             56.6  |       17 |              5.57 | Remi Bouet            |             40 |
-|             21 | Lucas Dycke             |             19.07 |       18 |             29.06 | Léandre Cotte         |             32 |
-|             21 | Sacha Yahi              |             87.65 |       19 |             23.58 | Mohamed Khribache     |             23 |
-|              9 | Youssouf Yatera         |             63.65 |       20 |             21.98 | Maxime Calliet        |             22 |
-|            nan | nan                     |            nan    |       21 |             43.7  | Pieter Morton         |             21 |
-|            nan | nan                     |            nan    |       22 |             55.86 | Oktay Yilmaz          |             18 |
-|            nan | nan                     |            nan    |       23 |             84.03 | Tomas Munilla lo Duca |             15 |
+|             59 | Sébastien Lafrancesca   |             88.73 |        1 |             52.06 | Romain Favaretto      |             62 |
+|             55 | Jean-Étienne Lesueur    |              9.35 |        2 |             67.18 | Killian Tripier       |             57 |
+|             80 | Leandro Mario Assi      |             88.36 |        3 |             33.73 | Osman Dimen           |             58 |
+|             59 | Christopher van Leeuwen |              8.1  |        4 |             56.38 | Robin Gascou          |             48 |
+|             80 | Yakine Djebarri         |             18    |        5 |             75.09 | Jonathan Kpoku        |             80 |
+|             80 | Damien Bozic            |             16.52 |        6 |             43.28 | Kevin Chaudouard      |             80 |
+|             71 | Wian Vosloo             |             78.96 |        7 |             63.22 | Theophile Cotte       |             80 |
+|             80 | Louis-Mathieu Jazeix    |             42.23 |        8 |             32.04 | Poutasi Luafutu       |             59 |
+|             80 | Théo Bachiri            |             54.81 |        9 |             56.03 | Martin Doan           |             65 |
+|             80 | Victor Barnier          |             92.74 |       10 |             19.65 | Aviata Silago         |             40 |
+|             80 | Ervin Muric             |              1.83 |       11 |             74.33 | Quentin Lefort        |             80 |
+|             80 | Petero Tuwai            |             87.02 |       12 |             72.98 | Isaiah Leota          |             34 |
+|             80 | JJ Taulagi              |              1.19 |       13 |             31.07 | Christopher Bosch     |             80 |
+|             55 | Faraj Fartass           |             97.64 |       14 |             53.28 | Paul-Hugo Champ       |             80 |
+|             80 | Goulwen Gueho           |              1.68 |       15 |              0.48 | Antoine Renaud        |             80 |
+|             25 | Thomas Baudy            |             27.82 |       16 |             55.1  | Théo Lepage           |             46 |
+|             25 | Anthony Bajart          |             49.81 |       17 |              5.59 | Remi Bouet            |             40 |
+|             21 | Lucas Dycke             |             18.24 |       18 |             22.77 | Léandre Cotte         |             32 |
+|             21 | Sacha Yahi              |             87.84 |       19 |             23.28 | Mohamed Khribache     |             23 |
+|              9 | Youssouf Yatera         |             63.53 |       20 |             17.32 | Maxime Calliet        |             22 |
+|            nan | nan                     |            nan    |       21 |             37.02 | Pieter Morton         |             21 |
+|            nan | nan                     |            nan    |       22 |             55.55 | Oktay Yilmaz          |             18 |
+|            nan | nan                     |            nan    |       23 |             83.84 | Tomas Munilla lo Duca |             15 |
 

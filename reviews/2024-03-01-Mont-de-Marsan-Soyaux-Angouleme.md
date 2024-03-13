@@ -11,7 +11,7 @@ categories: "Pro D2 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.752, which translates to predicting Mont-de-Marsan to win by 9.8.
 
-Our Over/Under is 57.5 - and combined with the spread above, we have a predicted scoreline of 24 to 34
+Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 21 to 30
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Soyaux-Angouleme by 0.6 on a neutral pitch
 
 |   Away Minutes | Away Player            |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:-----------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             53 | Omar Odishvili         |             59.95 |        1 |             16.17 | Jean-Luc Innocente |             46 |
-|             40 | Rayne Barka            |             69.25 |        2 |             57.74 | Florian Dufour     |             36 |
-|             56 | Omar Dahir             |             36.51 |        3 |             64.03 | Mattéo Lalanne     |             54 |
-|             80 | William Greatbanks     |             61.41 |        4 |             52.24 | Jules Dussutour    |             49 |
-|             30 | Saba Pesvianidze       |             26    |        5 |             71.06 | Andrei Ostrikov    |             80 |
-|             50 | Germain Burgaud        |             79.03 |        6 |             64.22 | Aurélien Lisena    |             80 |
-|             80 | Irakli Tskhadadze      |             76.32 |        7 |             76.43 | Nicolas Garrault   |             40 |
-|             80 | Maxence Lemardelet     |             31.92 |        8 |             66.67 | Raphaël Robic      |             80 |
-|             80 | Adrien Bau             |              3.39 |        9 |             54.49 | Kevin Viallard     |             60 |
-|             80 | Jacob Botica           |             24.94 |       10 |             91.04 | Willie du Plessis  |             51 |
-|             80 | Eoghan Barrett         |             46.52 |       11 |             80.39 | Eroni Sau          |             80 |
-|             30 | Nasoni Naqiri Kunavore |             87.04 |       12 |             79.86 | Jules Even         |             80 |
-|             36 | Akuila Joeli Tabualevu |             78.92 |       13 |             48.17 | Gatien Masse       |             80 |
-|             80 | Inaki Ayarza           |             29.69 |       14 |             69.02 | Semi Lagivala      |             40 |
-|             80 | Pierre Lafitte         |             45.69 |       15 |             55.26 | Théo Cortes        |             80 |
-|             13 | Matthys Gratien        |             77.6  |       16 |             58.49 | Samuel Lagrange    |             44 |
-|             50 | Sikeli Nabou           |             86.71 |       17 |             82.16 | William Wavrin     |             40 |
-|             44 | Rémi Brosset           |             36.6  |       18 |             19.08 | Simon Desaubies    |             40 |
-|             40 | German Kessler         |             41.7  |       19 |             58.22 | Dino Casadei       |             34 |
-|             37 | Manu Saubusse          |             50.5  |       20 |             79.29 | Romain Durand      |             31 |
-|             30 | Ian Kitwanga           |             49.88 |       21 |             18.16 | Joris Pialot       |             29 |
-|             27 | Georgy Balakarev       |            nan    |       22 |             16.89 | Anthony Alves      |             26 |
-|             24 | Seydou Diakité         |             19.8  |       23 |             42.91 | Baptiste Canut     |             20 |
+|             53 | Omar Odishvili         |             59.85 |        1 |             15.86 | Jean-Luc Innocente |             46 |
+|             40 | Rayne Barka            |             68.51 |        2 |             57.06 | Florian Dufour     |             36 |
+|             56 | Omar Dahir             |             36.11 |        3 |             64.16 | Mattéo Lalanne     |             54 |
+|             80 | William Greatbanks     |             64.96 |        4 |             51.97 | Jules Dussutour    |             49 |
+|             30 | Saba Pesvianidze       |             26.1  |        5 |             71.51 | Andrei Ostrikov    |             80 |
+|             50 | Germain Burgaud        |             81.28 |        6 |             63.44 | Aurélien Lisena    |             80 |
+|             80 | Irakli Tskhadadze      |             75.44 |        7 |             75.66 | Nicolas Garrault   |             40 |
+|             80 | Maxence Lemardelet     |             39.32 |        8 |             66.02 | Raphaël Robic      |             80 |
+|             80 | Adrien Bau             |              3.68 |        9 |             54.4  | Kevin Viallard     |             60 |
+|             80 | Jacob Botica           |             24.63 |       10 |             90.55 | Willie du Plessis  |             51 |
+|             80 | Eoghan Barrett         |             52.74 |       11 |             79.59 | Eroni Sau          |             80 |
+|             30 | Nasoni Naqiri Kunavore |             86.43 |       12 |             78.93 | Jules Even         |             80 |
+|             36 | Akuila Joeli Tabualevu |             77.5  |       13 |             47.74 | Gatien Masse       |             80 |
+|             80 | Inaki Ayarza           |             36.84 |       14 |             68.74 | Semi Lagivala      |             40 |
+|             80 | Pierre Lafitte         |             46.52 |       15 |             54.68 | Théo Cortes        |             80 |
+|             13 | Matthys Gratien        |             76.58 |       16 |             58.4  | Samuel Lagrange    |             44 |
+|             50 | Sikeli Nabou           |             86.17 |       17 |             81.72 | William Wavrin     |             40 |
+|             44 | Rémi Brosset           |             37.17 |       18 |             18.81 | Simon Desaubies    |             40 |
+|             40 | German Kessler         |             41.03 |       19 |             58.2  | Dino Casadei       |             34 |
+|             37 | Manu Saubusse          |             50.72 |       20 |             80.93 | Romain Durand      |             31 |
+|             30 | Ian Kitwanga           |             50.18 |       21 |             17.16 | Joris Pialot       |             29 |
+|             27 | Georgy Balakarev       |            nan    |       22 |             16.96 | Anthony Alves      |             26 |
+|             24 | Seydou Diakité         |             19.62 |       23 |             42.94 | Baptiste Canut     |             20 |
 

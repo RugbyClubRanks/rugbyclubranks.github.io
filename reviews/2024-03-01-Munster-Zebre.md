@@ -11,7 +11,7 @@ categories: "United Rugby Championship 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.909, which translates to predicting Munster to win by 20.4.
 
-Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 13 to 34
+Our Over/Under is 42.5 - and combined with the spread above, we have a predicted scoreline of 11 to 31
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Munster by 13.2 on a neutral pitch
 
 |   Away Minutes | Away Player            |   Away Percentile |   Number |   Home Percentile | Home Player      |   Home Minutes |
 |---------------:|:-----------------------|------------------:|---------:|------------------:|:-----------------|---------------:|
-|             69 | Luca Rizzoli           |             45.96 |        1 |             33.06 | Josh Wycherley   |             51 |
-|             61 | Luca Bigi              |             67.17 |        2 |             90.57 | Niall Scannell   |             51 |
-|             63 | Muhamed Hasa           |             46.05 |        3 |             92.46 | John Ryan        |             51 |
-|             66 | Dave Sisi              |              7.76 |        4 |             56.59 | Thomas Ahern     |             59 |
-|             80 | Leonard Krumov         |              6.59 |        5 |             99.06 | RG Snyman        |             55 |
-|             61 | Giacomo Ferrari        |             40.86 |        6 |             53.19 | Ruadhan Quinn    |             80 |
-|             55 | Bautista Stavile       |             40.97 |        7 |             68.65 | Alex Kendellen   |             80 |
-|             80 | Giovanni Licata        |             37.56 |        8 |             79.81 | Gavin Coombes    |             80 |
-|             56 | Alessandro Fusco       |              8.58 |        9 |             81.24 | Craig Casey      |             55 |
-|             63 | Tiff Eden              |             39.71 |       10 |             39.95 | Tony Butler      |             80 |
-|             80 | Simone Gesi            |              9    |       11 |             95.18 | Shane Daly       |             80 |
-|             80 | Damiano Mazza          |             70.55 |       12 |             90.46 | Alex Nankivell   |             80 |
-|             80 | Luca Morisi            |             94.58 |       13 |             87.87 | Antoine Frisch   |             63 |
-|             80 | Scott Gregory          |             56.16 |       14 |             19.72 | Sean O'Brien     |             80 |
-|             80 | Geronimo Prisciantelli |             92.34 |       15 |             86.84 | Mike Haley       |             80 |
+|             69 | Luca Rizzoli           |             45.92 |        1 |             32.45 | Josh Wycherley   |             51 |
+|             61 | Luca Bigi              |             66.41 |        2 |             90.65 | Niall Scannell   |             51 |
+|             63 | Muhamed Hasa           |             46.01 |        3 |             92.12 | John Ryan        |             51 |
+|             66 | Dave Sisi              |              7.63 |        4 |             56.14 | Thomas Ahern     |             59 |
+|             80 | Leonard Krumov         |              6.79 |        5 |             99.05 | RG Snyman        |             55 |
+|             61 | Giacomo Ferrari        |             40.97 |        6 |             52.42 | Ruadhan Quinn    |             80 |
+|             55 | Bautista Stavile       |             41.08 |        7 |             67.29 | Alex Kendellen   |             80 |
+|             80 | Giovanni Licata        |             36.89 |        8 |             78.88 | Gavin Coombes    |             80 |
+|             56 | Alessandro Fusco       |              8.79 |        9 |             81.19 | Craig Casey      |             55 |
+|             63 | Tiff Eden              |             39.3  |       10 |             39.55 | Tony Butler      |             80 |
+|             80 | Simone Gesi            |              8.7  |       11 |             95.17 | Shane Daly       |             80 |
+|             80 | Damiano Mazza          |             70.24 |       12 |             90.12 | Alex Nankivell   |             80 |
+|             80 | Luca Morisi            |             94.52 |       13 |             87.14 | Antoine Frisch   |             63 |
+|             80 | Scott Gregory          |             56.07 |       14 |             19.55 | Sean O'Brien     |             80 |
+|             80 | Geronimo Prisciantelli |             93.53 |       15 |             87.53 | Mike Haley       |             80 |
 |             19 | Giampietro Ribaldi     |            nan    |       16 |            nan    | Eoghan Clarke    |             29 |
-|             11 | Samuele Taddei         |            nan    |       17 |             95.19 | Jeremy Loughman  |             29 |
+|             11 | Samuele Taddei         |            nan    |       17 |             95.14 | Jeremy Loughman  |             29 |
 |             17 | Riccardo Genovese      |            nan    |       18 |            nan    | Stephen Archer   |             29 |
-|             14 | Dylan De Leeuw         |            nan    |       19 |             28.24 | Fineen Wycherley |             25 |
+|             14 | Dylan De Leeuw         |            nan    |       19 |             28.37 | Fineen Wycherley |             25 |
 |             19 | Davide Ruggeri         |            nan    |       20 |            nan    | Jack O'Sullivan  |             21 |
 |             24 | Thomas Dominguez       |            nan    |       21 |            nan    | Ethan Coughlan   |             25 |
-|             17 | Jacopo Trulla          |            nan    |       22 |             94.11 | Rory Scannell    |             17 |
+|             17 | Jacopo Trulla          |            nan    |       22 |             93.93 | Rory Scannell    |             17 |
 |             25 | Josh Kaifa             |            nan    |       23 |            nan    | Ben O'Connor     |              0 |
 

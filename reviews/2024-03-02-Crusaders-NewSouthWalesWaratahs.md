@@ -11,7 +11,7 @@ categories: "Super Rugby Pacific 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.907, which translates to predicting Crusaders to win by 20.7.
 
-Our Over/Under is 39.5 - and combined with the spread above, we have a predicted scoreline of 9 to 30
+Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 13 to 34
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Crusaders by 12.7 on a neutral pitch
 
 |   Away Minutes | Away Player              |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:-------------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             59 | Angus Bell               |             90.92 |        1 |              9.9  | George Bower         |             57 |
-|             69 | Mahe Vailanu             |             23.77 |        2 |             22.64 | George Bell          |             69 |
-|             62 | Harry Johnson-Holmes     |             72.84 |        3 |              2.54 | Fletcher Newell      |             57 |
-|             80 | Jed Holloway             |             40.71 |        4 |             95.06 | Scott Barrett        |             80 |
-|             59 | Hugh Sinclair            |             28    |        5 |             82.94 | Quinten Strange      |             52 |
-|             42 | Fergus Lee-Warner        |             26.27 |        6 |             54.49 | Dom Gardiner         |             80 |
-|             80 | Charlie Gamble           |             76.22 |        7 |             75.14 | Tom Christie         |             80 |
-|             80 | Langi Gleeson            |             70.89 |        8 |             75.59 | Cullen Grace         |             52 |
-|             80 | Jake Gordon              |             91.22 |        9 |             52.69 | Noah Hotham          |             48 |
-|             80 | Tane Edmed               |             41.65 |       10 |             13.8  | Taha Kemara          |             59 |
-|             41 | Dylan Pietsch            |             77.06 |       11 |             36.12 | Macca Springer       |             80 |
-|             80 | Joey Walton              |             85.63 |       12 |             97.29 | David Havili         |             80 |
-|             69 | Harry Wilson             |             47.11 |       13 |             74.09 | Levi Aumua           |             59 |
-|             80 | Mark Nawaqanitawase      |             51.88 |       14 |             84.67 | Sevu Reece           |             80 |
-|             80 | Max Jorgensen            |             74.4  |       15 |             22.01 | Chay Fihaki          |             80 |
-|             11 | Julian Heaven            |            nan    |       16 |             95.28 | Quentin MacDonald    |             11 |
-|             21 | Hayden Thompson-Stringer |             93.46 |       17 |             77.66 | Joe Moody            |             23 |
+|             59 | Angus Bell               |             91.11 |        1 |              6.97 | George Bower         |             57 |
+|             69 | Mahe Vailanu             |             23.66 |        2 |             15.46 | George Bell          |             69 |
+|             62 | Harry Johnson-Holmes     |             72.04 |        3 |              1.92 | Fletcher Newell      |             57 |
+|             80 | Jed Holloway             |             41.72 |        4 |             93.8  | Scott Barrett        |             80 |
+|             59 | Hugh Sinclair            |             28.49 |        5 |             79.74 | Quinten Strange      |             52 |
+|             42 | Fergus Lee-Warner        |             25    |        6 |             35.02 | Dom Gardiner         |             80 |
+|             80 | Charlie Gamble           |             75.22 |        7 |             62.11 | Tom Christie         |             80 |
+|             80 | Langi Gleeson            |             70.39 |        8 |             70.87 | Cullen Grace         |             52 |
+|             80 | Jake Gordon              |             91.21 |        9 |             52.97 | Noah Hotham          |             48 |
+|             80 | Tane Edmed               |             41.29 |       10 |              8.71 | Taha Kemara          |             59 |
+|             41 | Dylan Pietsch            |             76.05 |       11 |             35.98 | Macca Springer       |             80 |
+|             80 | Joey Walton              |             85.12 |       12 |             96.43 | David Havili         |             80 |
+|             69 | Harry Wilson             |             46.67 |       13 |             68.1  | Levi Aumua           |             59 |
+|             80 | Mark Nawaqanitawase      |             51.77 |       14 |             78.09 | Sevu Reece           |             80 |
+|             80 | Max Jorgensen            |             75.3  |       15 |             13.91 | Chay Fihaki          |             80 |
+|             11 | Julian Heaven            |            nan    |       16 |             95.23 | Quentin MacDonald    |             11 |
+|             21 | Hayden Thompson-Stringer |             93.49 |       17 |             77.18 | Joe Moody            |             23 |
 |             28 | Daniel Botha             |            nan    |       18 |             79.56 | Owen Franks          |             23 |
-|             21 | Miles Amatosero          |              5.18 |       19 |            nan    | Jamie Hannah         |             28 |
-|             28 | Ned Hanigan              |             46.24 |       20 |             40.38 | Christian Lio-Willie |             28 |
-|              0 | Teddy Wilson             |            nan    |       21 |             92.81 | Mitchell Drummond    |             32 |
-|             11 | Mosese Tuipulotu         |             21.44 |       22 |             98.47 | Ryan Crotty          |             21 |
-|             39 | Triston Reilly           |            nan    |       23 |             57.95 | Dallas McLeod        |             21 |
+|             21 | Miles Amatosero          |              5.36 |       19 |            nan    | Jamie Hannah         |             28 |
+|             28 | Ned Hanigan              |             48.24 |       20 |             39.81 | Christian Lio-Willie |             28 |
+|              0 | Teddy Wilson             |            nan    |       21 |             92.43 | Mitchell Drummond    |             32 |
+|             11 | Mosese Tuipulotu         |             20.83 |       22 |             98.45 | Ryan Crotty          |             21 |
+|             39 | Triston Reilly           |             58.43 |       23 |             57.86 | Dallas McLeod        |             21 |
 

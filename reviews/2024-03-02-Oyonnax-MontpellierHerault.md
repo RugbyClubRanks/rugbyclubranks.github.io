@@ -9,9 +9,9 @@ categories: "Top 14 Orange 2023" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.482, which translates to predicting Montpellier Herault to win by 0.6.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.483, which translates to predicting Montpellier Herault to win by 0.6.
 
-Our Over/Under is 42.5 - and combined with the spread above, we have a predicted scoreline of 22 to 21
+Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 23 to 23
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Montpellier Herault by 1.2
+## Prediction without Player Minutes: Montpellier Herault by 0.8
 
 
-Montpellier Herault by 8.8 on a neutral pitch
+Montpellier Herault by 8.4 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -67,29 +67,29 @@ Montpellier Herault by 8.8 on a neutral pitch
 </p>
 
 
-|   Away Minutes | Away Player                 |   Away Percentile |   Number |   Home Percentile | Home Player             |   Home Minutes |
-|---------------:|:----------------------------|------------------:|---------:|------------------:|:------------------------|---------------:|
-|             61 | Baptiste Erdocio            |             14.26 |        1 |             81.56 | Tommy Raynaud           |             49 |
-|             61 | Christopher Tolofua         |             95.47 |        2 |             35.66 | Teddy Durand            |             61 |
-|             53 | Harry Williams              |             97    |        3 |             34.42 | Christopher Vaotoa      |             61 |
-|             68 | Yacouba Camara              |             94.71 |        4 |             97.53 | Phoenix Battye          |             80 |
-|             80 | Tyler Duguid                |             69.76 |        5 |             33.88 | Ewan Johnson            |             54 |
-|             74 | Nicolaas Janse van Rensburg |             91.14 |        6 |             42.81 | Kevin Lebreton          |             80 |
-|             50 | Lenni Nouchi                |             62.05 |        7 |             31.46 | Loic Credoz             |             65 |
-|             57 | Sam Simmonds                |             76.29 |        8 |             11.27 | Loic Godener            |             63 |
-|             61 | Leo Coly                    |             67.27 |        9 |             80.24 | Charlie Cassang         |             80 |
-|             80 | Louis Carbonel              |             73.12 |       10 |             89.35 | Domingo Miotti          |             80 |
-|             80 | Masivesi Dakuwaqa           |             84.99 |       11 |             33.44 | Enzo Reybier            |             80 |
-|              8 | Jan Serfontein              |             83.86 |       12 |             71.97 | Theo Millet             |             80 |
-|             73 | Auguste Cadot               |             69.02 |       13 |              9.31 | Pedro Bettencourt Avila |             49 |
-|             80 | Julien Tisseron             |             64.84 |       14 |             71.49 | Daniel Ikpefan          |             59 |
-|             80 | Anthony Bouthier            |             82.06 |       15 |             26.56 | Justin Bouraux          |             76 |
-|             19 | Brandon Paenga-Amosa        |             86.23 |       16 |              1.51 | Manu Leiataua           |             19 |
-|             19 | Enzo Forletta               |             77.48 |       17 |             34.24 | Rory Sutherland         |             31 |
-|             30 | Paul Willemse               |             70.71 |       18 |             21.76 | Steve Mafi              |             27 |
-|             30 | Marco Tauleigne             |             93.65 |       19 |             58.69 | Rory Grice              |             31 |
-|             18 | Alexandre Becognee          |             48.86 |       20 |            nan    | Ilan El Khattabi        |              0 |
-|             19 | Cobus Reinach               |             94.81 |       21 |             74.79 | Lucas Mensa             |             31 |
-|             72 | Arthur Vincent              |             64.43 |       22 |             15.65 | Gavin Stark             |             25 |
-|             27 | Lasha Macharashvili         |             58.76 |       23 |             43.05 | Thibault Berthaud       |             19 |
+|   Away Minutes | Away Player                 |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
+|---------------:|:----------------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
+|             61 | Baptiste Erdocio            |             12.74 |        1 |             84.6  | Tommy Raynaud      |             49 |
+|             61 | Christopher Tolofua         |             95.42 |        2 |             35.5  | Teddy Durand       |             61 |
+|             53 | Harry Williams              |             96.98 |        3 |             50.78 | Christopher Vaotoa |             61 |
+|             68 | Yacouba Camara              |             94.99 |        4 |             97.85 | Phoenix Battye     |             80 |
+|             80 | Tyler Duguid                |             69.85 |        5 |             43.74 | Ewan Johnson       |             54 |
+|             74 | Nicolaas Janse van Rensburg |             90.2  |        6 |             58.37 | Kevin Lebreton     |             80 |
+|             50 | Lenni Nouchi                |             59.58 |        7 |             30.29 | Loic Credoz        |             65 |
+|             57 | Sam Simmonds                |             75.97 |        8 |             13.83 | Loic Godener       |             63 |
+|             61 | Leo Coly                    |             67.89 |        9 |             85.28 | Charlie Cassang    |             80 |
+|             80 | Louis Carbonel              |             71.64 |       10 |             91.04 | Domingo Miotti     |             80 |
+|             80 | Masivesi Dakuwaqa           |             84.21 |       11 |             47.69 | Enzo Reybier       |             80 |
+|              8 | Jan Serfontein              |             81.9  |       12 |             77.38 | Theo Millet        |             80 |
+|             73 | Auguste Cadot               |             68.69 |       13 |             20.95 | Pedro Bettencourt  |             49 |
+|             80 | Julien Tisseron             |             64.34 |       14 |             70.68 | Daniel Ikpefan     |             59 |
+|             80 | Anthony Bouthier            |             81.29 |       15 |             40.29 | Justin Bouraux     |             76 |
+|             19 | Brandon Paenga-Amosa        |             85.69 |       16 |              1.53 | Manu Leiataua      |             19 |
+|             19 | Enzo Forletta               |             76.99 |       17 |             33.82 | Rory Sutherland    |             31 |
+|             30 | Paul Willemse               |             70.8  |       18 |             22.05 | Steve Mafi         |             27 |
+|             30 | Marco Tauleigne             |             89.56 |       19 |             68.83 | Rory Grice         |             31 |
+|             18 | Alexandre Becognee          |             48.13 |       20 |            nan    | Ilan El Khattabi   |              0 |
+|             19 | Cobus Reinach               |             94.48 |       21 |             73.45 | Lucas Mensa        |             31 |
+|             72 | Arthur Vincent              |             66.43 |       22 |             20.3  | Gavin Stark        |             25 |
+|             27 | Lasha Macharashvili         |             58.57 |       23 |             42.71 | Thibault Berthaud  |             19 |
 
