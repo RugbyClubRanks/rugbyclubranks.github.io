@@ -11,7 +11,7 @@ categories: "Pro D2 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.706, which translates to predicting Vannes to win by 7.7.
 
-Our Over/Under is 54.5 - and combined with the spread above, we have a predicted scoreline of 24 to 31
+Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 22 to 29
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Vannes by 4.7 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player             |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:------------------------|---------------:|
-|             50 | Eli Eglaine         |             17.42 |        1 |             31.99 | Charles-Henri Berguet   |             68 |
-|             53 | Barnabé Massa       |             70.8  |        2 |             86.45 | Pat Leafa               |             51 |
-|             71 | Irakli Aptsiauri    |             77.73 |        3 |             33.36 | Simon Bourgeois         |             51 |
-|             48 | Thomas Lainault     |             48.15 |        4 |             92.97 | Joe Edwards             |             80 |
-|             69 | Pierce Phillips     |             62.34 |        5 |             15.61 | Mattéo Desjeux          |             68 |
-|             80 | Jose Madeira        |             91.63 |        6 |             14.32 | Karl Chateau            |             51 |
-|             80 | Steeve Blanc-Mappaz |             70.48 |        7 |             97.91 | Francisco Gorrissen     |             80 |
-|             58 | Antonin Berruyer    |             56.07 |        8 |             52.67 | Sione Kalamafoni        |             58 |
-|             59 | Eric Escande        |             91.41 |        9 |             39.67 | Jules Le Bail           |             74 |
-|             80 | Max Clement         |             53.98 |       10 |             93.78 | Maxime Lafage           |             80 |
-|             80 | Erwan Dridi         |             78.63 |       11 |             40.71 | Enzo Benmegal           |             80 |
-|             80 | Romain Trouilloud   |             60.6  |       12 |             12.14 | Alex Arrate             |             80 |
-|             62 | Romain Fusier       |             32.38 |       13 |             82.74 | Sacha Valleau           |             80 |
-|             80 | Wilfried Hulleu     |             84.75 |       14 |             13.64 | Martin Alonso Munoz     |             80 |
-|             80 | Julien Farnoux      |             96.16 |       15 |             53.72 | Paul Surano             |             58 |
-|             30 | Luka Goginava       |             51.33 |       16 |             20.7  | Juan Bautista Pedemonte |             29 |
-|             32 | Georgi Javakhia     |             68.06 |       17 |             80.38 | Phil Kite               |             29 |
-|             27 | Mathis Sarragallet  |             24.62 |       18 |             54.2  | Théo Beziat             |             29 |
-|             22 | Thibaut Martel      |             36.65 |       19 |             11.32 | Eric Marks              |             22 |
-|             21 | Barnabe Couilloud   |              5.11 |       20 |             45.52 | Thibault Debaes         |             22 |
-|             18 | Bautista Ezcurra    |             96.31 |       21 |             29.51 | Thomas Moukoro          |             12 |
-|             11 | Brandon Nansen      |             42.55 |       22 |            nan    | Timothé Mezou           |             12 |
+|             50 | Eli Eglaine         |             17.07 |        1 |             31.81 | Charles-Henri Berguet   |             68 |
+|             53 | Barnabé Massa       |             70.77 |        2 |             86.54 | Pat Leafa               |             51 |
+|             71 | Irakli Aptsiauri    |             77.61 |        3 |             33.12 | Simon Bourgeois         |             51 |
+|             48 | Thomas Lainault     |             48.44 |        4 |             93.15 | Joe Edwards             |             80 |
+|             69 | Pierce Phillips     |             62.26 |        5 |             14.9  | Mattéo Desjeux          |             68 |
+|             80 | Jose Madeira        |             91.21 |        6 |             14.43 | Karl Chateau            |             51 |
+|             80 | Steeve Blanc-Mappaz |             70.46 |        7 |             98.08 | Francisco Gorrissen     |             80 |
+|             58 | Antonin Berruyer    |             55.72 |        8 |             52.8  | Sione Kalamafoni        |             58 |
+|             59 | Eric Escande        |             91.29 |        9 |             39.42 | Jules Le Bail           |             74 |
+|             80 | Max Clement         |             54.64 |       10 |             92.23 | Maxime Lafage           |             80 |
+|             80 | Erwan Dridi         |             78.45 |       11 |             40.37 | Enzo Benmegal           |             80 |
+|             80 | Romain Trouilloud   |             59.15 |       12 |             11.88 | Alex Arrate             |             80 |
+|             62 | Romain Fusier       |             30.91 |       13 |             82.3  | Sacha Valleau           |             80 |
+|             80 | Wilfried Hulleu     |             84.68 |       14 |             13.46 | Martin Alonso Munoz     |             80 |
+|             80 | Julien Farnoux      |             96.14 |       15 |             52.53 | Paul Surano             |             58 |
+|             30 | Luka Goginava       |             50.93 |       16 |             20.52 | Juan Bautista Pedemonte |             29 |
+|             32 | Georgi Javakhia     |             67.67 |       17 |             80.32 | Phil Kite               |             29 |
+|             27 | Mathis Sarragallet  |             23.85 |       18 |             53.27 | Théo Beziat             |             29 |
+|             22 | Thibaut Martel      |             36.74 |       19 |             11.18 | Eric Marks              |             22 |
+|             21 | Barnabe Couilloud   |              4.77 |       20 |             44.86 | Thibault Debaes         |             22 |
+|             18 | Bautista Ezcurra    |             96.36 |       21 |             29.2  | Thomas Moukoro          |             12 |
+|             11 | Brandon Nansen      |             42.67 |       22 |            nan    | Timothé Mezou           |             12 |
 |              9 | Théo Lavoine        |            nan    |       23 |            nan    | Alexandre Gouaux        |              6 |
 

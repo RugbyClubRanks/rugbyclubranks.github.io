@@ -11,7 +11,7 @@ categories: "Pro D2 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.657, which translates to predicting Biarritz Olympique to win by 5.7.
 
-Our Over/Under is 44.5 - and combined with the spread above, we have a predicted scoreline of 19 to 25
+Our Over/Under is 41.5 - and combined with the spread above, we have a predicted scoreline of 18 to 23
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Montauban by 3.7 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             54 | Thomas Bue          |             21.54 |        1 |             39.69 | Killian Taofifenua |             57 |
-|             41 | Ru-Hann Greyling    |             17.37 |        2 |             43.13 | Luteru Tolai       |             80 |
-|             54 | Mirian Burduli      |              3.85 |        3 |             82.31 | Mohamed Haouas     |             61 |
-|             80 | Frank Bradshaw      |             86.29 |        4 |              3.34 | Adrian Motoc       |             80 |
-|             54 | Kevin Gimeno        |              4.29 |        5 |             65.91 | Nafi Ma'afu        |             57 |
-|             41 | Karl Wilkins        |             10.57 |        6 |             36.12 | Dave O'Callaghan   |             61 |
-|             80 | Stéphane Munoz      |             30.4  |        7 |             53.74 | Simon Augry        |             80 |
-|             47 | Quentin Witt        |             24.03 |        8 |             41.02 | Temo Matiu         |             80 |
-|             47 | Shaun Venter        |              4.29 |        9 |             31.29 | Pierre Pages       |             68 |
-|             80 | Tedo Abzhandadze    |             57.46 |       10 |              9.45 | Billy Searle       |             80 |
-|             80 | Yvan Reilhac        |             35.02 |       11 |             53.06 | Gervais Cordin     |             71 |
-|             47 | Dan Goggin          |             75.12 |       12 |              7.02 | Francois Vergnaud  |             47 |
-|             80 | Maxime Mathy        |             11.31 |       13 |             19.52 | Vincent Martin     |             80 |
-|             80 | Josua Vici          |             22.34 |       14 |             19.76 | Zach Kibirige      |             80 |
-|             80 | Semesa Rokoduguni   |             82.97 |       15 |             70.5  | Joe Jonas          |             80 |
-|             39 | Badri Alkhazashvili |             15.27 |       16 |             59.95 | Ilian Perraux      |             33 |
-|             39 | Kyllian Ringuet     |             32.38 |       17 |             20.35 | Kevin Tougne       |             23 |
-|             33 | Otar Giorgadze      |             63.88 |       18 |             69.01 | Charlie Matthews   |             23 |
-|             33 | Jérôme Bosviel      |             81.09 |       19 |             20.81 | Tornike Jalagonia  |             19 |
-|             26 | Lucas Seyrolle      |             12.1  |       20 |              5.22 | Alfie Petch        |             19 |
-|             26 | Dimitri Vaotoa      |             30.04 |       21 |             47.24 | Imanol Biscay      |             12 |
-|             26 | Tietie Tuimauga     |             55.09 |       22 |             57.57 | Baptiste Fariscot  |              9 |
-|             33 | Alexis Bernadet     |             59.71 |       23 |            nan    | nan                |            nan |
+|             54 | Thomas Bue          |             20.71 |        1 |             39.27 | Killian Taofifenua |             57 |
+|             41 | Ru-Hann Greyling    |             16.73 |        2 |             42.88 | Luteru Tolai       |             80 |
+|             54 | Mirian Burduli      |              3.73 |        3 |             82.28 | Mohamed Haouas     |             61 |
+|             80 | Frank Bradshaw      |             86.3  |        4 |              3.37 | Adrian Motoc       |             80 |
+|             54 | Kevin Gimeno        |              4.45 |        5 |             65.75 | Nafi Ma'afu        |             57 |
+|             41 | Karl Wilkins        |             10.94 |        6 |             36.08 | Dave O'Callaghan   |             61 |
+|             80 | Stéphane Munoz      |             30.33 |        7 |             53.1  | Simon Augry        |             80 |
+|             47 | Quentin Witt        |             22.14 |        8 |             40.88 | Temo Matiu         |             80 |
+|             47 | Shaun Venter        |              3.94 |        9 |             30.29 | Pierre Pages       |             68 |
+|             80 | Tedo Abzhandadze    |             58.15 |       10 |              9.52 | Billy Searle       |             80 |
+|             80 | Yvan Reilhac        |             34.25 |       11 |             53.28 | Gervais Cordin     |             71 |
+|             47 | Dan Goggin          |             74.67 |       12 |              7.03 | Francois Vergnaud  |             47 |
+|             80 | Maxime Mathy        |             10.79 |       13 |             18.79 | Vincent Martin     |             80 |
+|             80 | Josua Vici          |             21.88 |       14 |             19.47 | Zach Kibirige      |             80 |
+|             80 | Semesa Rokoduguni   |             82.89 |       15 |             68.92 | Joe Jonas          |             80 |
+|             39 | Badri Alkhazashvili |             14.81 |       16 |             60.4  | Ilian Perraux      |             33 |
+|             39 | Kyllian Ringuet     |             32.47 |       17 |             19.78 | Kevin Tougne       |             23 |
+|             33 | Otar Giorgadze      |             62.91 |       18 |             68.75 | Charlie Matthews   |             23 |
+|             33 | Jérôme Bosviel      |             80.7  |       19 |             20.63 | Tornike Jalagonia  |             19 |
+|             26 | Lucas Seyrolle      |             11.94 |       20 |              5.22 | Alfie Petch        |             19 |
+|             26 | Dimitri Vaotoa      |             29.57 |       21 |             47.51 | Imanol Biscay      |             12 |
+|             26 | Tietie Tuimauga     |             54.85 |       22 |             57.55 | Baptiste Fariscot  |              9 |
+|             33 | Alexis Bernadet     |             59.75 |       23 |            nan    | nan                |            nan |
 

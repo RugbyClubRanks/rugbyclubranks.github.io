@@ -11,7 +11,7 @@ categories: "Six Nations Championship 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.42, which translates to predicting Scotland to win by 2.9.
 
-Our Over/Under is 57.5 - and combined with the spread above, we have a predicted scoreline of 30 to 27
+Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 26 to 24
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Scotland by 6.3 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             59 | Pierre Schoeman     |             92.21 |        1 |             71.22 | Danilo Fischetti   |             59 |
-|             59 | George Turner       |             99.62 |        2 |             98.66 | Giacomo Nicotera   |             51 |
-|             70 | Zander Fagerson     |             99.18 |        3 |             96.24 | Simone Ferrari     |             51 |
-|             70 | Grant Gilchrist     |             94.87 |        4 |             60.07 | Niccolo Cannone    |             73 |
-|             80 | Scott Cummings      |             96.78 |        5 |             96.54 | Federico Ruzza     |             80 |
-|             59 | Andy Christie       |             19.05 |        6 |             87    | Sebastian Negri    |             59 |
-|             70 | Rory Darge          |             72.91 |        7 |             96.37 | Michele Lamaro     |             80 |
-|             80 | Jack Dempsey        |             37.62 |        8 |             68.93 | Ross Vintcent      |             80 |
-|             59 | George Horne        |             99.59 |        9 |             78.73 | Martin Page-Relo   |             51 |
-|             80 | Finn Russell        |             99.25 |       10 |             81.59 | Paolo Garbisi      |             80 |
-|             80 | Duhan van der Merwe |             80.99 |       11 |             98.71 | Monty Ioane        |             80 |
-|             80 | Cameron Redpath     |             51.79 |       12 |             86.07 | Tommaso Menoncello |             79 |
-|             80 | Huw Jones           |             33.1  |       13 |             93.57 | Juan Ignacio Brex  |             80 |
-|             80 | Kyle Steyn          |             96.03 |       14 |             80.88 | Louis Lynagh       |             71 |
-|             80 | Blair Kinghorn      |             99.76 |       15 |             95.44 | Ange Capuozzo      |             80 |
-|             21 | Ewan Ashman         |             87.98 |       16 |             79.58 | Gianmarco Lucchesi |             29 |
-|             21 | Alec Hepburn        |             68.1  |       17 |            nan    | Mirco Spagnolo     |             21 |
-|             10 | Elliot Millar-Mills |            nan    |       18 |             61.59 | Giosue Zilocchi    |             29 |
-|             10 | Sam Skinner         |             84.62 |       19 |             44.22 | Andrea Zambonin    |              7 |
-|             10 | Jamie Ritchie       |            100    |       20 |             90.05 | Lorenzo Cannone    |             21 |
-|             21 | Matt Fagerson       |             96.7  |       21 |             19.02 | Stephen Varney     |             29 |
-|             21 | Ali Price           |             87.73 |       22 |             63.93 | Leonardo Marin     |              1 |
-|              0 | Kyle Rowe           |             77.23 |       23 |             61.55 | Federico Mori      |              9 |
+|             59 | Pierre Schoeman     |             93.28 |        1 |             73.79 | Danilo Fischetti   |             59 |
+|             59 | George Turner       |             99.62 |        2 |             98.65 | Giacomo Nicotera   |             51 |
+|             70 | Zander Fagerson     |             99.16 |        3 |             96.64 | Simone Ferrari     |             51 |
+|             70 | Grant Gilchrist     |             95.19 |        4 |             64.54 | Niccolo Cannone    |             73 |
+|             80 | Scott Cummings      |             97.12 |        5 |             96.88 | Federico Ruzza     |             80 |
+|             59 | Andy Christie       |             24.8  |        6 |             87.37 | Sebastian Negri    |             59 |
+|             70 | Rory Darge          |             77.56 |        7 |             96.39 | Michele Lamaro     |             80 |
+|             80 | Jack Dempsey        |             48.42 |        8 |             68.86 | Ross Vintcent      |             80 |
+|             59 | George Horne        |             99.38 |        9 |             78.63 | Martin Page-Relo   |             51 |
+|             80 | Finn Russell        |             99.75 |       10 |             82.71 | Paolo Garbisi      |             80 |
+|             80 | Duhan van der Merwe |             84.57 |       11 |             98.8  | Monty Ioane        |             80 |
+|             80 | Cameron Redpath     |             51.03 |       12 |             87.64 | Tommaso Menoncello |             79 |
+|             80 | Huw Jones           |             41.09 |       13 |             93.94 | Juan Ignacio Brex  |             80 |
+|             80 | Kyle Steyn          |             97.26 |       14 |             83.59 | Louis Lynagh       |             71 |
+|             80 | Blair Kinghorn      |             99.76 |       15 |             94.22 | Ange Capuozzo      |             80 |
+|             21 | Ewan Ashman         |             88.27 |       16 |             79.62 | Gianmarco Lucchesi |             29 |
+|             21 | Alec Hepburn        |             67.44 |       17 |            nan    | Mirco Spagnolo     |             21 |
+|             10 | Elliot Millar-Mills |            nan    |       18 |             60.82 | Giosue Zilocchi    |             29 |
+|             10 | Sam Skinner         |             84.74 |       19 |             44.47 | Andrea Zambonin    |              7 |
+|             10 | Jamie Ritchie       |            100    |       20 |             91.48 | Lorenzo Cannone    |             21 |
+|             21 | Matt Fagerson       |             96.17 |       21 |             27.59 | Stephen Varney     |             29 |
+|             21 | Ali Price           |             87.97 |       22 |             63.66 | Leonardo Marin     |              1 |
+|              0 | Kyle Rowe           |             77.24 |       23 |             60.24 | Federico Mori      |              9 |
 

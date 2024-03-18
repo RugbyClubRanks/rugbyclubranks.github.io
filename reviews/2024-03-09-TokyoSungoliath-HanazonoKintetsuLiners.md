@@ -11,7 +11,7 @@ categories: "Japan Rugby League One 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.946, which translates to predicting Tokyo Sungoliath to win by 25.8.
 
-Our Over/Under is 61.5 - and combined with the spread above, we have a predicted scoreline of 18 to 43
+Our Over/Under is 69.5 - and combined with the spread above, we have a predicted scoreline of 22 to 48
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Tokyo Sungoliath by 16.3 on a neutral pitch
 
 |   Away Minutes | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player       |   Home Minutes |
 |---------------:|:------------------|------------------:|---------:|------------------:|:------------------|---------------:|
-|             56 | Kenta Tanaka      |              7.42 |        1 |             90.83 | Yukio Morikawa    |             31 |
-|             56 | Keiichi Kaneko    |              8.59 |        2 |             66.03 | Kosuke Horikoshi  |             61 |
-|             40 | Kota Mitake       |             16.13 |        3 |             54.9  | Kan Nakano        |             56 |
-|             80 | Patrick Tafa      |              6.44 |        4 |             20.38 | Trevor Hosea      |             70 |
-|             40 | James Blackwell   |             21.81 |        5 |             98.33 | Harry Hockings    |             80 |
-|             80 | Takahito Sugahara |              0.66 |        6 |             69.05 | Kanji Shimokawa   |             80 |
-|             80 | Shohei Nonaka     |             17.84 |        7 |             49.89 | Ryuga Hashimoto   |             80 |
-|             65 | Jose Seru         |             34.71 |        8 |             63.11 | Hendrik Tui       |             45 |
-|             40 | Tomoya Nakamura   |             25.97 |        9 |             27.4  | Naoto Saito       |             49 |
-|             80 | Quade Cooper      |             98.51 |       10 |             62.44 | Mikiya Takamoto   |             40 |
-|             80 | Ryosuke Kataoka   |             63.05 |       11 |             70.46 | Taiga Ozaki       |             80 |
-|             78 | Haruki Kanazawa   |             15.95 |       12 |             95.48 | Ryoto Nakamura    |             70 |
-|             62 | Tom Hendrickson   |             60.71 |       13 |             36.67 | Isaiah Punivai    |             80 |
-|             80 | Tomoya Kimura     |             12.57 |       14 |             90.87 | Seiya Ozaki       |             80 |
-|             80 | Semisi Masirewa   |             19.18 |       15 |             95.2  | Kotaro Matsushima |             80 |
-|             40 | Will Genia        |             90.59 |       16 |            nan    | William Hay       |             49 |
-|             40 | Lata Tangimana    |              7.97 |       17 |             92.04 | Nicolas Sanchez   |             40 |
-|             40 | Isamu Matsuoka    |              8.7  |       18 |             72.59 | Sione Lavemai     |             35 |
-|             24 | Kazuma Matsuda    |             26.53 |       19 |             83.23 | Yutaka Nagare     |             31 |
-|             24 | Shun Sasaki       |              4.58 |       20 |             51.05 | Kotaro Hosoki     |             24 |
-|             18 | Vincent Sefo      |             45.44 |       21 |            nan    | Kienori Go        |             19 |
-|             15 | Jed Brown         |             15.64 |       22 |             95.35 | Sam Jeffries      |             10 |
-|              2 | Yoshizumi Takeda  |             41.01 |       23 |              5.6  | Joe Kamana        |             10 |
+|             56 | Kenta Tanaka      |              7.28 |        1 |             91.04 | Yukio Morikawa    |             31 |
+|             56 | Keiichi Kaneko    |              8.27 |        2 |             69.81 | Kosuke Horikoshi  |             61 |
+|             40 | Kota Mitake       |             16.04 |        3 |             54.66 | Kan Nakano        |             56 |
+|             80 | Patrick Tafa      |              6.37 |        4 |             20.19 | Trevor Hosea      |             70 |
+|             40 | James Blackwell   |             21.39 |        5 |             98.68 | Harry Hockings    |             80 |
+|             80 | Takahito Sugahara |              0.68 |        6 |             72.6  | Kanji Shimokawa   |             80 |
+|             80 | Shohei Nonaka     |             17.7  |        7 |             48.93 | Ryuga Hashimoto   |             80 |
+|             65 | Jose Seru         |             34.55 |        8 |             64.23 | Hendrik Tui       |             45 |
+|             40 | Tomoya Nakamura   |             25.1  |        9 |             26.14 | Naoto Saito       |             49 |
+|             80 | Quade Cooper      |             98.5  |       10 |             66.42 | Mikiya Takamoto   |             40 |
+|             80 | Ryosuke Kataoka   |             62.8  |       11 |             72.98 | Taiga Ozaki       |             80 |
+|             78 | Haruki Kanazawa   |             15.39 |       12 |             96.48 | Ryoto Nakamura    |             70 |
+|             62 | Tom Hendrickson   |             59.39 |       13 |             40.12 | Isaiah Punivai    |             80 |
+|             80 | Tomoya Kimura     |             12.25 |       14 |             91.58 | Seiya Ozaki       |             80 |
+|             80 | Semisi Masirewa   |             19.04 |       15 |             94.7  | Kotaro Matsushima |             80 |
+|             40 | Will Genia        |             90.25 |       16 |            nan    | William Hay       |             49 |
+|             40 | Lata Tangimana    |              7.93 |       17 |             91.23 | Nicolas Sanchez   |             40 |
+|             40 | Isamu Matsuoka    |              8.77 |       18 |             72.36 | Sione Lavemai     |             35 |
+|             24 | Kazuma Matsuda    |             25.58 |       19 |             84.44 | Yutaka Nagare     |             31 |
+|             24 | Shun Sasaki       |              4.57 |       20 |             50.65 | Kotaro Hosoki     |             24 |
+|             18 | Vincent Sefo      |             45.19 |       21 |            nan    | Kienori Go        |             19 |
+|             15 | Jed Brown         |             16.01 |       22 |             95.79 | Sam Jeffries      |             10 |
+|              2 | Yoshizumi Takeda  |             40    |       23 |              5.58 | Joe Kamana        |             10 |
 

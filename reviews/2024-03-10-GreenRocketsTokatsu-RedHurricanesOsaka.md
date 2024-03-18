@@ -11,7 +11,7 @@ categories: "Japan Rugby League One D2 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.887, which translates to predicting Green Rockets Tokatsu to win by 18.8.
 
-Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 17 to 36
+Our Over/Under is 30.5 - and combined with the spread above, we have a predicted scoreline of 6 to 25
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Green Rockets Tokatsu by 5.5 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             53 | Hiromichi Sakamoto   |              9.9  |        1 |              2.11 | Sunao Takizawa        |             48 |
-|             53 | Hisamitsu Shimada    |             45.42 |        2 |             97.52 | Ash Dixon             |             61 |
-|             61 | Munekata Sashida     |             47.66 |        3 |             81.67 | Kanta Higashionna     |             27 |
-|             80 | Michael Allardice    |             17.4  |        4 |             65.67 | Daiki Yamagiwa        |             80 |
-|             47 | Tatsunari Fujita     |             11.56 |        5 |             95.35 | Sam Jeffries          |             70 |
-|             80 | Toru Sugishita       |             10.24 |        6 |             62.44 | Mitieli Tuinakauvadra |             80 |
-|             80 | Blake Gibson         |             84.91 |        7 |             73.02 | Ryoi Kamei            |             61 |
-|             69 | Hiroki Hanada        |             37.86 |        8 |             73.79 | Aseri Masivou         |             80 |
-|             61 | Toshihiro Yamamouchi |             44.99 |        9 |             93.05 | Nick Phipps           |             67 |
-|             80 | Colin Bourke         |             64.68 |       10 |             90.8  | Taisetsu Kanai        |             61 |
-|             80 | Kouki Shigeno        |             11.06 |       11 |              3.01 | Hiroyuki Miyajima     |             14 |
-|             47 | Yonhi Kimu           |              7.74 |       12 |             61.31 | Christian Laui        |             80 |
-|             80 | Benjamin Saunders    |             60.48 |       13 |              9.52 | Maritino Nemani       |             80 |
-|             80 | Ryo Tsuruda          |             77.55 |       14 |             82.81 | Kenta Omata           |             80 |
-|             69 | Kanta Yamamoto       |             23.02 |       15 |             12.71 | Tom Marshall          |             80 |
-|             33 | Mifiposeti Paea      |             10.83 |       16 |            nan    | Masaki Obata          |             66 |
-|             33 | Tom Jeffries         |             55.54 |       17 |             82.68 | Keisuke Kikuta        |             53 |
-|             27 | Ryosei Kojima        |            nan    |       18 |             82.22 | Kosei Yamamoto        |             32 |
-|             27 | Yo Sato              |            nan    |       19 |             60.2  | Tiaan Swanepoel       |             19 |
+|             53 | Hiromichi Sakamoto   |              7.65 |        1 |              2.15 | Sunao Takizawa        |             48 |
+|             53 | Hisamitsu Shimada    |             37.69 |        2 |             97.5  | Ash Dixon             |             61 |
+|             61 | Munekata Sashida     |             37.78 |        3 |             81.62 | Kanta Higashionna     |             27 |
+|             80 | Michael Allardice    |             12.26 |        4 |             65.5  | Daiki Yamagiwa        |             80 |
+|             47 | Tatsunari Fujita     |              9.38 |        5 |             95.79 | Sam Jeffries          |             70 |
+|             80 | Toru Sugishita       |              8.79 |        6 |             61.44 | Mitieli Tuinakauvadra |             80 |
+|             80 | Blake Gibson         |             82.41 |        7 |             72.49 | Ryoi Kamei            |             61 |
+|             69 | Hiroki Hanada        |             29.2  |        8 |             73.72 | Aseri Masivou         |             80 |
+|             61 | Toshihiro Yamamouchi |             36.31 |        9 |             92.95 | Nick Phipps           |             67 |
+|             80 | Colin Bourke         |             58.4  |       10 |             89.97 | Taisetsu Kanai        |             61 |
+|             80 | Kouki Shigeno        |             10.72 |       11 |              3.06 | Hiroyuki Miyajima     |             14 |
+|             47 | Yonhi Kimu           |              5.94 |       12 |             60    | Christian Laui        |             80 |
+|             80 | Benjamin Saunders    |             59.03 |       13 |              9.7  | Maritino Nemani       |             80 |
+|             80 | Ryo Tsuruda          |             73.3  |       14 |             82.93 | Kenta Omata           |             80 |
+|             69 | Kanta Yamamoto       |             17.35 |       15 |             12.53 | Tom Marshall          |             80 |
+|             33 | Mifiposeti Paea      |             10.55 |       16 |            nan    | Masaki Obata          |             66 |
+|             33 | Tom Jeffries         |             55.77 |       17 |             82.56 | Keisuke Kikuta        |             53 |
+|             27 | Ryosei Kojima        |            nan    |       18 |             82.18 | Kosei Yamamoto        |             32 |
+|             27 | Yo Sato              |            nan    |       19 |             60.65 | Tiaan Swanepoel       |             19 |
 |             19 | Tatsuya Hamano       |            nan    |       20 |            nan    | Ren Osawa             |             19 |
-|             19 | Hiroshi Kitajima     |            nan    |       21 |              4.85 | Yoshiya Hosoda        |             19 |
-|             11 | Hibiki Noda          |             51.49 |       22 |            nan    | Fumiaki Tanaka        |             13 |
-|             11 | Oh Ryong Tee         |             42.54 |       23 |             23    | Luke Porter           |             10 |
+|             19 | Hiroshi Kitajima     |            nan    |       21 |              4.96 | Yoshiya Hosoda        |             19 |
+|             11 | Hibiki Noda          |             51.8  |       22 |            nan    | Fumiaki Tanaka        |             13 |
+|             11 | Oh Ryong Tee         |             42.11 |       23 |             22.48 | Luke Porter           |             10 |
 

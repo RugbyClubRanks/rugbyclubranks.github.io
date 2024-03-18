@@ -11,7 +11,7 @@ categories: "Japan Rugby League One 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.737, which translates to predicting Kubota Spears to win by 9.3.
 
-Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 20 to 30
+Our Over/Under is 63.5 - and combined with the spread above, we have a predicted scoreline of 27 to 36
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Toyota Verblitz by 1.4 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             65 | Shogo Miura          |             92.58 |        1 |             87.17 | Kota Kaishi         |             51 |
-|             80 | Yoshikatsu Hikosaka  |             96.95 |        2 |             52.29 | Schalk Erasmus      |             51 |
-|             55 | Genki Sudo           |             86.89 |        3 |             46.75 | Satoshi Saita       |             51 |
-|             80 | Josh Dickson         |             50.06 |        4 |             98.93 | Ruan Botha          |             57 |
-|             61 | Daichi Akiyama       |             78.78 |        5 |             79.02 | David Bulbring      |             80 |
-|             61 | Will Tupou           |             17.18 |        6 |             92.07 | Lappies Labuschagne |             57 |
-|             80 | Kazuki Himeno        |             77.42 |        7 |             85.13 | Takeo Suenaga       |             80 |
-|             80 | Pieter-Steph du Toit |             83.01 |        8 |             80.83 | Faulua Makisi       |             80 |
-|             57 | Aaron Smith          |             97.14 |        9 |             45.19 | Shinobu Fujiwara    |             79 |
-|             80 | Beauden Barrett      |            100    |       10 |             58.21 | Tomoki Kishioka     |             57 |
-|             80 | Vatiliai Tuidraki    |             65.31 |       11 |             77.66 | Haruto Kida         |             55 |
-|             80 | Charlie Lawrence     |             91.43 |       12 |             71.31 | Harumichi Tatekawa  |             80 |
-|             80 | Siosaia Fifita       |              1.67 |       13 |             52.86 | Rikus Pretorius     |             80 |
-|             80 | Yuichiro Wada        |             51.99 |       14 |             71    | Suryung Kim         |             80 |
-|             80 | Taichi Takahashi     |             85.13 |       15 |             20.38 | Yuhei Shimada       |             80 |
-|             25 | Yusuke Kizu          |             56.74 |       16 |             50.5  | Yota Kaminori       |             29 |
-|              7 | Kenta Fukuda         |             73.62 |       17 |             68.84 | Opeti Helu          |             29 |
-|             19 | Isaiah Mapusua       |             88.68 |       18 |            nan    | Hayate Era          |             29 |
-|             19 | Ryusei Koike         |             61.14 |       19 |             71.54 | Halatoa Vailea      |             23 |
-|             16 | Shuhei Yamaguchi     |            nan    |       20 |             85.61 | Koga Nezuka         |             25 |
-|             15 | Gaku Shimizu         |            nan    |       21 |             87.96 | Uwe Helu            |             23 |
-|            nan | nan                  |            nan    |       22 |             75.55 | Finau Tupa          |             23 |
+|             65 | Shogo Miura          |             90.76 |        1 |             85.82 | Kota Kaishi         |             51 |
+|             80 | Yoshikatsu Hikosaka  |             94.23 |        2 |             58.08 | Schalk Erasmus      |             51 |
+|             55 | Genki Sudo           |             86.01 |        3 |             33.77 | Satoshi Saita       |             51 |
+|             80 | Josh Dickson         |             34.74 |        4 |             98.32 | Ruan Botha          |             57 |
+|             61 | Daichi Akiyama       |             67.91 |        5 |             78.37 | David Bulbring      |             80 |
+|             61 | Will Tupou           |             11.95 |        6 |             90.42 | Lappies Labuschagne |             57 |
+|             80 | Kazuki Himeno        |             63.5  |        7 |             84.22 | Takeo Suenaga       |             80 |
+|             80 | Pieter-Steph du Toit |             80.54 |        8 |             80.78 | Faulua Makisi       |             80 |
+|             57 | Aaron Smith          |             96.89 |        9 |             40.87 | Shinobu Fujiwara    |             79 |
+|             80 | Beauden Barrett      |            100    |       10 |             54.89 | Tomoki Kishioka     |             57 |
+|             80 | Vatiliai Tuidraki    |             47.26 |       11 |             71.12 | Haruto Kida         |             55 |
+|             80 | Charlie Lawrence     |             85.33 |       12 |             67.88 | Harumichi Tatekawa  |             80 |
+|             80 | Siosaia Fifita       |              0.61 |       13 |             46.06 | Rikus Pretorius     |             80 |
+|             80 | Yuichiro Wada        |             50    |       14 |             74.84 | Suryung Kim         |             80 |
+|             80 | Taichi Takahashi     |             78.55 |       15 |             24.58 | Yuhei Shimada       |             80 |
+|             25 | Yusuke Kizu          |             44.96 |       16 |             49.91 | Yota Kaminori       |             29 |
+|              7 | Kenta Fukuda         |             73.24 |       17 |             68.94 | Opeti Helu          |             29 |
+|             19 | Isaiah Mapusua       |             86.92 |       18 |            nan    | Hayate Era          |             29 |
+|             19 | Ryusei Koike         |             61.18 |       19 |             71.66 | Halatoa Vailea      |             23 |
+|             16 | Shuhei Yamaguchi     |            nan    |       20 |             84.35 | Koga Nezuka         |             25 |
+|             15 | Gaku Shimizu         |            nan    |       21 |             88.34 | Uwe Helu            |             23 |
+|            nan | nan                  |            nan    |       22 |             75.08 | Finau Tupa          |             23 |
 |            nan | nan                  |            nan    |       23 |            nan    | Shunta Koga         |              1 |
 

@@ -1,6 +1,6 @@
 ---  
 title: "European Rugby Challenge Cup 2023 Status"  
-date: 2024-03-11 6:00:00 -0500  
+date: 2024-03-18 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -107,21 +107,21 @@ aside:
 
 |                     | Reach Round of Sixteen   | Reach Quarterfinals   | Reach Semifinals   | Reach Final   | Win Final   |
 |:--------------------|:-------------------------|:----------------------|:-------------------|:--------------|:------------|
-| Gloucester Rugby    | 100.0 %                  | 85.3 %                | 69.4 %             | 58.0 %        | 32.6 %      |
-| Benetton Treviso    | 100.0 %                  | 72.1 %                | 49.0 %             | 38.4 %        | 16.7 %      |
-| Montpellier Herault | 100.0 %                  | 78.1 %                | 48.4 %             | 25.8 %        | 14.4 %      |
-| Clermont Auvergne   | 100.0 %                  | 94.9 %                | 38.3 %             | 18.5 %        | 10.9 %      |
-| Sharks              | 100.0 %                  | 100.0 %               | 69.2 %             | 27.1 %        | 7.9 %       |
-| Sale Sharks         | 100.0 %                  | 48.4 %                | 21.5 %             | 6.9 %         | 5.4 %       |
-| Pau                 | 100.0 %                  | 68.7 %                | 45.4 %             | 8.3 %         | 3.2 %       |
-| Ulster              | 100.0 %                  | 21.9 %                | 8.3 %              | 3.4 %         | 2.5 %       |
-| Edinburgh           | 100.0 %                  | 91.3 %                | 19.8 %             | 4.0 %         | 2.3 %       |
-| Ospreys             | 100.0 %                  | 51.6 %                | 14.5 %             | 5.5 %         | 1.7 %       |
-| Connacht            | 100.0 %                  | 31.3 %                | 8.0 %              | 2.0 %         | 1.3 %       |
-| Lions               | 100.0 %                  | 27.9 %                | 4.1 %              | 1.2 %         | 0.7 %       |
-| Castres Olympique   | 100.0 %                  | 14.7 %                | 2.2 %              | 0.4 %         | 0.2 %       |
-| Cheetahs            | 100.0 %                  | 5.1 %                 | 1.1 %              | 0.4 %         | 0.1 %       |
-| Bayonne             | 100.0 %                  | 8.7 %                 | 0.8 %              | 0.1 %         | 0.1 %       |
+| Gloucester Rugby    | 100.0 %                  | 90.3 %                | 73.3 %             | 61.3 %        | 37.3 %      |
+| Benetton Treviso    | 100.0 %                  | 74.4 %                | 48.8 %             | 39.2 %        | 14.0 %      |
+| Montpellier Herault | 100.0 %                  | 79.1 %                | 46.2 %             | 25.8 %        | 14.0 %      |
+| Sharks              | 100.0 %                  | 100.0 %               | 69.4 %             | 27.7 %        | 9.7 %       |
+| Clermont Auvergne   | 100.0 %                  | 93.6 %                | 35.3 %             | 13.9 %        | 7.6 %       |
+| Sale Sharks         | 100.0 %                  | 51.0 %                | 22.8 %             | 8.7 %         | 6.6 %       |
+| Pau                 | 100.0 %                  | 66.3 %                | 46.1 %             | 8.5 %         | 2.4 %       |
+| Edinburgh           | 100.0 %                  | 90.9 %                | 18.2 %             | 4.1 %         | 2.2 %       |
+| Ulster              | 100.0 %                  | 20.9 %                | 7.7 %              | 2.6 %         | 1.9 %       |
+| Ospreys             | 100.0 %                  | 49.0 %                | 15.1 %             | 3.6 %         | 1.8 %       |
+| Connacht            | 100.0 %                  | 33.7 %                | 8.4 %              | 2.6 %         | 1.5 %       |
+| Lions               | 100.0 %                  | 25.6 %                | 4.4 %              | 1.4 %         | 0.7 %       |
+| Castres Olympique   | 100.0 %                  | 9.7 %                 | 1.2 %              | 0.3 %         | 0.2 %       |
+| Cheetahs            | 100.0 %                  | 6.4 %                 | 1.7 %              | 0.2 %         | 0.1 %       |
+| Bayonne             | 100.0 %                  | 9.1 %                 | 1.4 %              | 0.1 %         | 0.0 %       |
 | Zebre               | 100.0 %                  | 0.0 %                 | 0.0 %              | 0.0 %         | 0.0 %       |
 
 
@@ -133,7 +133,7 @@ aside:
 ### Clermont Auvergne V Cheetahs on 2024/04/06
 
 
-Average Margin: Clermont Auvergne by 9.1
+Average Margin: Clermont Auvergne by 8.8
 
 <p float="left">
 <img src="plots/performances_2024-04-06-ClermontAuvergne_V_Cheetahs.png" width="32%" />
@@ -141,48 +141,15 @@ Average Margin: Clermont Auvergne by 9.1
 <img src="plots/spreads_2024-04-06-ClermontAuvergne_V_Cheetahs.png" width="32%" />
 </p>
 
-### Benetton Treviso V Lions on 2024/04/06
+### Pau V Connacht on 2024/04/06
 
 
-Average Margin: Benetton Treviso by 2.4
-
-<p float="left">
-<img src="plots/performances_2024-04-06-BenettonTreviso_V_Lions.png" width="32%" />
-<img src="plots/resultbar_2024-04-06-BenettonTreviso_V_Lions.png" width="32%" />
-<img src="plots/spreads_2024-04-06-BenettonTreviso_V_Lions.png" width="32%" />
-</p>
-
-### Sharks V Zebre on 2024/04/06
-
-
-Average Margin: Sharks by 13.3
+Average Margin: Pau by 1.6
 
 <p float="left">
-<img src="plots/performances_2024-04-06-Sharks_V_Zebre.png" width="32%" />
-<img src="plots/resultbar_2024-04-06-Sharks_V_Zebre.png" width="32%" />
-<img src="plots/spreads_2024-04-06-Sharks_V_Zebre.png" width="32%" />
-</p>
-
-### Ospreys V Sale Sharks on 2024/04/06
-
-
-Average Margin: Ospreys by 0.1
-
-<p float="left">
-<img src="plots/performances_2024-04-06-Ospreys_V_SaleSharks.png" width="32%" />
-<img src="plots/resultbar_2024-04-06-Ospreys_V_SaleSharks.png" width="32%" />
-<img src="plots/spreads_2024-04-06-Ospreys_V_SaleSharks.png" width="32%" />
-</p>
-
-### Edinburgh V Bayonne on 2024/04/06
-
-
-Average Margin: Edinburgh by 4.7
-
-<p float="left">
-<img src="plots/performances_2024-04-06-Edinburgh_V_Bayonne.png" width="32%" />
-<img src="plots/resultbar_2024-04-06-Edinburgh_V_Bayonne.png" width="32%" />
-<img src="plots/spreads_2024-04-06-Edinburgh_V_Bayonne.png" width="32%" />
+<img src="plots/performances_2024-04-06-Pau_V_Connacht.png" width="32%" />
+<img src="plots/resultbar_2024-04-06-Pau_V_Connacht.png" width="32%" />
+<img src="plots/spreads_2024-04-06-Pau_V_Connacht.png" width="32%" />
 </p>
 
 ### Montpellier Herault V Ulster on 2024/04/06
@@ -199,7 +166,7 @@ Average Margin: Montpellier Herault by 2.8
 ### Gloucester Rugby V Castres Olympique on 2024/04/06
 
 
-Average Margin: Gloucester Rugby by 3.7
+Average Margin: Gloucester Rugby by 4.2
 
 <p float="left">
 <img src="plots/performances_2024-04-06-GloucesterRugby_V_CastresOlympique.png" width="32%" />
@@ -207,34 +174,298 @@ Average Margin: Gloucester Rugby by 3.7
 <img src="plots/spreads_2024-04-06-GloucesterRugby_V_CastresOlympique.png" width="32%" />
 </p>
 
-### Pau V Connacht on 2024/04/06
+### Benetton Treviso V Lions on 2024/04/06
 
 
-Average Margin: Pau by 1.8
+Average Margin: Benetton Treviso by 2.8
 
 <p float="left">
-<img src="plots/performances_2024-04-06-Pau_V_Connacht.png" width="32%" />
-<img src="plots/resultbar_2024-04-06-Pau_V_Connacht.png" width="32%" />
-<img src="plots/spreads_2024-04-06-Pau_V_Connacht.png" width="32%" />
+<img src="plots/performances_2024-04-06-BenettonTreviso_V_Lions.png" width="32%" />
+<img src="plots/resultbar_2024-04-06-BenettonTreviso_V_Lions.png" width="32%" />
+<img src="plots/spreads_2024-04-06-BenettonTreviso_V_Lions.png" width="32%" />
+</p>
+
+### Ospreys V Sale Sharks on 2024/04/06
+
+
+Average Margin: Sale Sharks by 0.1
+
+<p float="left">
+<img src="plots/performances_2024-04-06-Ospreys_V_SaleSharks.png" width="32%" />
+<img src="plots/resultbar_2024-04-06-Ospreys_V_SaleSharks.png" width="32%" />
+<img src="plots/spreads_2024-04-06-Ospreys_V_SaleSharks.png" width="32%" />
+</p>
+
+### Edinburgh V Bayonne on 2024/04/06
+
+
+Average Margin: Edinburgh by 4.6
+
+<p float="left">
+<img src="plots/performances_2024-04-06-Edinburgh_V_Bayonne.png" width="32%" />
+<img src="plots/resultbar_2024-04-06-Edinburgh_V_Bayonne.png" width="32%" />
+<img src="plots/spreads_2024-04-06-Edinburgh_V_Bayonne.png" width="32%" />
+</p>
+
+### Sharks V Zebre on 2024/04/06
+
+
+Average Margin: Sharks by 13.2
+
+<p float="left">
+<img src="plots/performances_2024-04-06-Sharks_V_Zebre.png" width="32%" />
+<img src="plots/resultbar_2024-04-06-Sharks_V_Zebre.png" width="32%" />
+<img src="plots/spreads_2024-04-06-Sharks_V_Zebre.png" width="32%" />
 </p>
 
 ## Quarterfinals
 
-### Clermont Auvergne V Bayonne on 2024/04/13
+### Sharks V Bayonne on 2024/04/13
+
+
+Average Margin: Sharks by 3.3
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Sharks_V_Bayonne.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Sharks_V_Bayonne.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Sharks_V_Bayonne.png" width="32%" />
+</p>
+
+### Cheetahs V Montpellier Herault on 2024/04/13
+
+
+Average Margin: Montpellier Herault by 0.7
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Cheetahs_V_MontpellierHerault.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Cheetahs_V_MontpellierHerault.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Cheetahs_V_MontpellierHerault.png" width="32%" />
+</p>
+
+### Sharks V Cheetahs on 2024/04/13
+
+
+Average Margin: Sharks by 7.3
+
+<p float="left">
+<img src="plots/performances_2024-05-04-Sharks_V_Cheetahs.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-Sharks_V_Cheetahs.png" width="32%" />
+<img src="plots/spreads_2024-05-04-Sharks_V_Cheetahs.png" width="32%" />
+</p>
+
+### Connacht V Sale Sharks on 2024/04/13
+
+
+Average Margin: Connacht by 2.8
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Connacht_V_SaleSharks.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Connacht_V_SaleSharks.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Connacht_V_SaleSharks.png" width="32%" />
+</p>
+
+### Pau V Ulster on 2024/04/13
+
+
+Average Margin: Ulster by 0.1
+
+<p float="left">
+<img src="plots/performances_2024-05-04-Pau_V_Ulster.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-Pau_V_Ulster.png" width="32%" />
+<img src="plots/spreads_2024-05-04-Pau_V_Ulster.png" width="32%" />
+</p>
+
+### Clermont Auvergne V Edinburgh on 2024/04/13
+
+
+Average Margin: Clermont Auvergne by 4.0
+
+<p float="left">
+<img src="plots/performances_2024-05-04-ClermontAuvergne_V_Edinburgh.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-ClermontAuvergne_V_Edinburgh.png" width="32%" />
+<img src="plots/spreads_2024-05-04-ClermontAuvergne_V_Edinburgh.png" width="32%" />
+</p>
+
+### Gloucester Rugby V Connacht on 2024/04/13
+
+
+Average Margin: Gloucester Rugby by 3.0
+
+<p float="left">
+<img src="plots/performances_2024-05-04-GloucesterRugby_V_Connacht.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-GloucesterRugby_V_Connacht.png" width="32%" />
+<img src="plots/spreads_2024-05-04-GloucesterRugby_V_Connacht.png" width="32%" />
+</p>
+
+### Ospreys V Lions on 2024/04/13
+
+
+Average Margin: Ospreys by 1.4
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Ospreys_V_Lions.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Ospreys_V_Lions.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Ospreys_V_Lions.png" width="32%" />
+</p>
+
+### Ospreys V Clermont Auvergne on 2024/04/13
+
+
+Average Margin: Ospreys by 2.1
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Ospreys_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Ospreys_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Ospreys_V_ClermontAuvergne.png" width="32%" />
+</p>
+
+### Sharks V Castres Olympique on 2024/04/13
+
+
+Average Margin: Sharks by 2.9
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Sharks_V_CastresOlympique.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Sharks_V_CastresOlympique.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Sharks_V_CastresOlympique.png" width="32%" />
+</p>
+
+### Ospreys V Edinburgh on 2024/04/13
+
+
+Average Margin: Ospreys by 2.3
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Ospreys_V_Edinburgh.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Ospreys_V_Edinburgh.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Ospreys_V_Edinburgh.png" width="32%" />
+</p>
+
+### Clermont Auvergne V Montpellier Herault on 2024/04/13
+
+
+Average Margin: Clermont Auvergne by 3.3
+
+<p float="left">
+<img src="plots/performances_2024-05-04-ClermontAuvergne_V_MontpellierHerault.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-ClermontAuvergne_V_MontpellierHerault.png" width="32%" />
+<img src="plots/spreads_2024-05-04-ClermontAuvergne_V_MontpellierHerault.png" width="32%" />
+</p>
+
+### Montpellier Herault V Ospreys on 2024/04/13
+
+
+Average Margin: Montpellier Herault by 5.1
+
+<p float="left">
+<img src="plots/performances_2024-04-13-MontpellierHerault_V_Ospreys.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-MontpellierHerault_V_Ospreys.png" width="32%" />
+<img src="plots/spreads_2024-04-13-MontpellierHerault_V_Ospreys.png" width="32%" />
+</p>
+
+### Sharks V Ulster on 2024/04/13
+
+
+Average Margin: Sharks by 0.9
+
+<p float="left">
+<img src="plots/performances_2024-05-04-Sharks_V_Ulster.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-Sharks_V_Ulster.png" width="32%" />
+<img src="plots/spreads_2024-05-04-Sharks_V_Ulster.png" width="32%" />
+</p>
+
+### Clermont Auvergne V Ulster on 2024/04/13
+
+
+Average Margin: Clermont Auvergne by 1.7
+
+<p float="left">
+<img src="plots/performances_2024-04-13-ClermontAuvergne_V_Ulster.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-ClermontAuvergne_V_Ulster.png" width="32%" />
+<img src="plots/spreads_2024-04-13-ClermontAuvergne_V_Ulster.png" width="32%" />
+</p>
+
+### Montpellier Herault V Connacht on 2024/04/13
+
+
+Average Margin: Montpellier Herault by 3.7
+
+<p float="left">
+<img src="plots/performances_2024-04-13-MontpellierHerault_V_Connacht.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-MontpellierHerault_V_Connacht.png" width="32%" />
+<img src="plots/spreads_2024-04-13-MontpellierHerault_V_Connacht.png" width="32%" />
+</p>
+
+### Gloucester Rugby V Montpellier Herault on 2024/04/13
+
+
+Average Margin: Gloucester Rugby by 2.4
+
+<p float="left">
+<img src="plots/performances_2024-05-04-GloucesterRugby_V_MontpellierHerault.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-GloucesterRugby_V_MontpellierHerault.png" width="32%" />
+<img src="plots/spreads_2024-05-04-GloucesterRugby_V_MontpellierHerault.png" width="32%" />
+</p>
+
+### Clermont Auvergne V Sale Sharks on 2024/04/13
+
+
+Average Margin: Sale Sharks by 0.6
+
+<p float="left">
+<img src="plots/performances_2024-05-04-ClermontAuvergne_V_SaleSharks.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-ClermontAuvergne_V_SaleSharks.png" width="32%" />
+<img src="plots/spreads_2024-05-04-ClermontAuvergne_V_SaleSharks.png" width="32%" />
+</p>
+
+### Pau V Sale Sharks on 2024/04/13
+
+
+Average Margin: Sale Sharks by 0.8
+
+<p float="left">
+<img src="plots/performances_2024-05-04-Pau_V_SaleSharks.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-Pau_V_SaleSharks.png" width="32%" />
+<img src="plots/spreads_2024-05-04-Pau_V_SaleSharks.png" width="32%" />
+</p>
+
+### Sharks V Montpellier Herault on 2024/04/13
+
+
+Average Margin: Sharks by 0.7
+
+<p float="left">
+<img src="plots/performances_2024-05-04-Sharks_V_MontpellierHerault.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-Sharks_V_MontpellierHerault.png" width="32%" />
+<img src="plots/spreads_2024-05-04-Sharks_V_MontpellierHerault.png" width="32%" />
+</p>
+
+### Pau V Edinburgh on 2024/04/13
+
+
+Average Margin: Pau by 2.7
+
+<p float="left">
+<img src="plots/performances_2024-05-04-Pau_V_Edinburgh.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-Pau_V_Edinburgh.png" width="32%" />
+<img src="plots/spreads_2024-05-04-Pau_V_Edinburgh.png" width="32%" />
+</p>
+
+### Clermont Auvergne V Lions on 2024/04/13
 
 
 Average Margin: Clermont Auvergne by 4.3
 
 <p float="left">
-<img src="plots/performances_2024-04-13-ClermontAuvergne_V_Bayonne.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-ClermontAuvergne_V_Bayonne.png" width="32%" />
-<img src="plots/spreads_2024-04-13-ClermontAuvergne_V_Bayonne.png" width="32%" />
+<img src="plots/performances_2024-05-24-ClermontAuvergne_V_Lions.png" width="32%" />
+<img src="plots/resultbar_2024-05-24-ClermontAuvergne_V_Lions.png" width="32%" />
+<img src="plots/spreads_2024-05-24-ClermontAuvergne_V_Lions.png" width="32%" />
 </p>
 
 ### Sharks V Lions on 2024/04/13
 
 
-Average Margin: Sharks by 0.2
+Average Margin: Sharks by 0.1
 
 <p float="left">
 <img src="plots/performances_2024-05-04-Sharks_V_Lions.png" width="32%" />
@@ -242,59 +473,15 @@ Average Margin: Sharks by 0.2
 <img src="plots/spreads_2024-05-04-Sharks_V_Lions.png" width="32%" />
 </p>
 
-### Montpellier Herault V Edinburgh on 2024/04/13
+### Montpellier Herault V Sale Sharks on 2024/04/13
 
 
-Average Margin: Montpellier Herault by 3.2
-
-<p float="left">
-<img src="plots/performances_2024-05-04-MontpellierHerault_V_Edinburgh.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-MontpellierHerault_V_Edinburgh.png" width="32%" />
-<img src="plots/spreads_2024-05-04-MontpellierHerault_V_Edinburgh.png" width="32%" />
-</p>
-
-### Clermont Auvergne V Connacht on 2024/04/13
-
-
-Average Margin: Clermont Auvergne by 3.3
+Average Margin: Montpellier Herault by 0.2
 
 <p float="left">
-<img src="plots/performances_2024-05-04-ClermontAuvergne_V_Connacht.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-ClermontAuvergne_V_Connacht.png" width="32%" />
-<img src="plots/spreads_2024-05-04-ClermontAuvergne_V_Connacht.png" width="32%" />
-</p>
-
-### Gloucester Rugby V Bayonne on 2024/04/13
-
-
-Average Margin: Gloucester Rugby by 5.0
-
-<p float="left">
-<img src="plots/performances_2024-04-13-GloucesterRugby_V_Bayonne.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-GloucesterRugby_V_Bayonne.png" width="32%" />
-<img src="plots/spreads_2024-04-13-GloucesterRugby_V_Bayonne.png" width="32%" />
-</p>
-
-### Gloucester Rugby V Lions on 2024/04/13
-
-
-Average Margin: Gloucester Rugby by 3.5
-
-<p float="left">
-<img src="plots/performances_2024-04-13-GloucesterRugby_V_Lions.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-GloucesterRugby_V_Lions.png" width="32%" />
-<img src="plots/spreads_2024-04-13-GloucesterRugby_V_Lions.png" width="32%" />
-</p>
-
-### Ospreys V Edinburgh on 2024/04/13
-
-
-Average Margin: Ospreys by 1.2
-
-<p float="left">
-<img src="plots/performances_2024-05-24-Ospreys_V_Edinburgh.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-Ospreys_V_Edinburgh.png" width="32%" />
-<img src="plots/spreads_2024-05-24-Ospreys_V_Edinburgh.png" width="32%" />
+<img src="plots/performances_2024-05-24-MontpellierHerault_V_SaleSharks.png" width="32%" />
+<img src="plots/resultbar_2024-05-24-MontpellierHerault_V_SaleSharks.png" width="32%" />
+<img src="plots/spreads_2024-05-24-MontpellierHerault_V_SaleSharks.png" width="32%" />
 </p>
 
 ### Clermont Auvergne V Castres Olympique on 2024/04/13
@@ -303,180 +490,15 @@ Average Margin: Ospreys by 1.2
 Average Margin: Clermont Auvergne by 4.0
 
 <p float="left">
-<img src="plots/performances_2024-05-04-ClermontAuvergne_V_CastresOlympique.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-ClermontAuvergne_V_CastresOlympique.png" width="32%" />
-<img src="plots/spreads_2024-05-04-ClermontAuvergne_V_CastresOlympique.png" width="32%" />
-</p>
-
-### Pau V Sale Sharks on 2024/04/13
-
-
-Average Margin: Sale Sharks by 0.5
-
-<p float="left">
-<img src="plots/performances_2024-05-24-Pau_V_SaleSharks.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-Pau_V_SaleSharks.png" width="32%" />
-<img src="plots/spreads_2024-05-24-Pau_V_SaleSharks.png" width="32%" />
-</p>
-
-### Sharks V Ospreys on 2024/04/13
-
-
-Average Margin: Sharks by 4.0
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Sharks_V_Ospreys.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Sharks_V_Ospreys.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Sharks_V_Ospreys.png" width="32%" />
-</p>
-
-### Benetton Treviso V Connacht on 2024/04/13
-
-
-Average Margin: Benetton Treviso by 2.0
-
-<p float="left">
-<img src="plots/performances_2024-04-13-BenettonTreviso_V_Connacht.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-BenettonTreviso_V_Connacht.png" width="32%" />
-<img src="plots/spreads_2024-04-13-BenettonTreviso_V_Connacht.png" width="32%" />
-</p>
-
-### Clermont Auvergne V Ospreys on 2024/04/13
-
-
-Average Margin: Clermont Auvergne by 6.0
-
-<p float="left">
-<img src="plots/performances_2024-04-13-ClermontAuvergne_V_Ospreys.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-ClermontAuvergne_V_Ospreys.png" width="32%" />
-<img src="plots/spreads_2024-04-13-ClermontAuvergne_V_Ospreys.png" width="32%" />
-</p>
-
-### Sharks V Castres Olympique on 2024/04/13
-
-
-Average Margin: Sharks by 1.2
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Sharks_V_CastresOlympique.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Sharks_V_CastresOlympique.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Sharks_V_CastresOlympique.png" width="32%" />
-</p>
-
-### Cheetahs V Montpellier Herault on 2024/04/13
-
-
-Average Margin: Montpellier Herault by 2.1
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Cheetahs_V_MontpellierHerault.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Cheetahs_V_MontpellierHerault.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Cheetahs_V_MontpellierHerault.png" width="32%" />
-</p>
-
-### Ospreys V Lions on 2024/04/13
-
-
-Average Margin: Ospreys by 3.4
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Ospreys_V_Lions.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Ospreys_V_Lions.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Ospreys_V_Lions.png" width="32%" />
-</p>
-
-### Benetton Treviso V Ulster on 2024/04/13
-
-
-Average Margin: Ulster by 0.2
-
-<p float="left">
-<img src="plots/performances_2024-04-13-BenettonTreviso_V_Ulster.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-BenettonTreviso_V_Ulster.png" width="32%" />
-<img src="plots/spreads_2024-04-13-BenettonTreviso_V_Ulster.png" width="32%" />
-</p>
-
-### Sharks V Cheetahs on 2024/04/13
-
-
-Average Margin: Sharks by 6.3
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Sharks_V_Cheetahs.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Sharks_V_Cheetahs.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Sharks_V_Cheetahs.png" width="32%" />
-</p>
-
-### Gloucester Rugby V Montpellier Herault on 2024/04/13
-
-
-Average Margin: Gloucester Rugby by 2.0
-
-<p float="left">
-<img src="plots/performances_2024-05-24-GloucesterRugby_V_MontpellierHerault.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-GloucesterRugby_V_MontpellierHerault.png" width="32%" />
-<img src="plots/spreads_2024-05-24-GloucesterRugby_V_MontpellierHerault.png" width="32%" />
-</p>
-
-### Montpellier Herault V Pau on 2024/04/13
-
-
-Average Margin: Montpellier Herault by 5.6
-
-<p float="left">
-<img src="plots/performances_2024-05-04-MontpellierHerault_V_Pau.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-MontpellierHerault_V_Pau.png" width="32%" />
-<img src="plots/spreads_2024-05-04-MontpellierHerault_V_Pau.png" width="32%" />
-</p>
-
-### Benetton Treviso V Montpellier Herault on 2024/04/13
-
-
-Average Margin: Benetton Treviso by 1.0
-
-<p float="left">
-<img src="plots/performances_2024-05-04-BenettonTreviso_V_MontpellierHerault.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-BenettonTreviso_V_MontpellierHerault.png" width="32%" />
-<img src="plots/spreads_2024-05-04-BenettonTreviso_V_MontpellierHerault.png" width="32%" />
-</p>
-
-### Pau V Edinburgh on 2024/04/13
-
-
-Average Margin: Pau by 3.2
-
-<p float="left">
-<img src="plots/performances_2024-05-04-Pau_V_Edinburgh.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-Pau_V_Edinburgh.png" width="32%" />
-<img src="plots/spreads_2024-05-04-Pau_V_Edinburgh.png" width="32%" />
-</p>
-
-### Ulster V Sale Sharks on 2024/04/13
-
-
-Average Margin: Ulster by 2.4
-
-<p float="left">
-<img src="plots/performances_2024-05-04-Ulster_V_SaleSharks.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-Ulster_V_SaleSharks.png" width="32%" />
-<img src="plots/spreads_2024-05-04-Ulster_V_SaleSharks.png" width="32%" />
-</p>
-
-### Gloucester Rugby V Ospreys on 2024/04/13
-
-
-Average Margin: Gloucester Rugby by 5.1
-
-<p float="left">
-<img src="plots/performances_2024-04-13-GloucesterRugby_V_Ospreys.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-GloucesterRugby_V_Ospreys.png" width="32%" />
-<img src="plots/spreads_2024-04-13-GloucesterRugby_V_Ospreys.png" width="32%" />
+<img src="plots/performances_2024-04-13-ClermontAuvergne_V_CastresOlympique.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-ClermontAuvergne_V_CastresOlympique.png" width="32%" />
+<img src="plots/spreads_2024-04-13-ClermontAuvergne_V_CastresOlympique.png" width="32%" />
 </p>
 
 ### Sharks V Pau on 2024/04/13
 
 
-Average Margin: Sharks by 3.5
+Average Margin: Sharks by 3.9
 
 <p float="left">
 <img src="plots/performances_2024-05-04-Sharks_V_Pau.png" width="32%" />
@@ -484,59 +506,147 @@ Average Margin: Sharks by 3.5
 <img src="plots/spreads_2024-05-04-Sharks_V_Pau.png" width="32%" />
 </p>
 
-### Clermont Auvergne V Montpellier Herault on 2024/04/13
+### Montpellier Herault V Edinburgh on 2024/04/13
 
 
-Average Margin: Clermont Auvergne by 2.5
+Average Margin: Montpellier Herault by 3.4
 
 <p float="left">
-<img src="plots/performances_2024-05-24-ClermontAuvergne_V_MontpellierHerault.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-ClermontAuvergne_V_MontpellierHerault.png" width="32%" />
-<img src="plots/spreads_2024-05-24-ClermontAuvergne_V_MontpellierHerault.png" width="32%" />
+<img src="plots/performances_2024-05-04-MontpellierHerault_V_Edinburgh.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-MontpellierHerault_V_Edinburgh.png" width="32%" />
+<img src="plots/spreads_2024-05-04-MontpellierHerault_V_Edinburgh.png" width="32%" />
 </p>
 
-### Sharks V Ulster on 2024/04/13
+### Gloucester Rugby V Lions on 2024/04/13
 
 
-Average Margin: Sharks by 0.4
+Average Margin: Gloucester Rugby by 3.8
 
 <p float="left">
-<img src="plots/performances_2024-04-13-Sharks_V_Ulster.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Sharks_V_Ulster.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Sharks_V_Ulster.png" width="32%" />
+<img src="plots/performances_2024-05-04-GloucesterRugby_V_Lions.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-GloucesterRugby_V_Lions.png" width="32%" />
+<img src="plots/spreads_2024-05-04-GloucesterRugby_V_Lions.png" width="32%" />
 </p>
 
-### Clermont Auvergne V Sale Sharks on 2024/04/13
+### Benetton Treviso V Bayonne on 2024/04/13
 
 
-Average Margin: Clermont Auvergne by 2.2
+Average Margin: Benetton Treviso by 3.6
 
 <p float="left">
-<img src="plots/performances_2024-05-04-ClermontAuvergne_V_SaleSharks.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-ClermontAuvergne_V_SaleSharks.png" width="32%" />
-<img src="plots/spreads_2024-05-04-ClermontAuvergne_V_SaleSharks.png" width="32%" />
+<img src="plots/performances_2024-04-13-BenettonTreviso_V_Bayonne.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-BenettonTreviso_V_Bayonne.png" width="32%" />
+<img src="plots/spreads_2024-04-13-BenettonTreviso_V_Bayonne.png" width="32%" />
 </p>
 
-### Sharks V Clermont Auvergne on 2024/04/13
+### Sharks V Ospreys on 2024/04/13
 
 
-Average Margin: Sharks by 1.9
+Average Margin: Sharks by 3.5
 
 <p float="left">
-<img src="plots/performances_2024-05-04-Sharks_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-Sharks_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/spreads_2024-05-04-Sharks_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/performances_2024-05-04-Sharks_V_Ospreys.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-Sharks_V_Ospreys.png" width="32%" />
+<img src="plots/spreads_2024-05-04-Sharks_V_Ospreys.png" width="32%" />
+</p>
+
+### Benetton Treviso V Connacht on 2024/04/13
+
+
+Average Margin: Benetton Treviso by 2.9
+
+<p float="left">
+<img src="plots/performances_2024-04-13-BenettonTreviso_V_Connacht.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-BenettonTreviso_V_Connacht.png" width="32%" />
+<img src="plots/spreads_2024-04-13-BenettonTreviso_V_Connacht.png" width="32%" />
+</p>
+
+### Pau V Montpellier Herault on 2024/04/13
+
+
+Average Margin: Pau by 1.5
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Pau_V_MontpellierHerault.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Pau_V_MontpellierHerault.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Pau_V_MontpellierHerault.png" width="32%" />
+</p>
+
+### Benetton Treviso V Ospreys on 2024/04/13
+
+
+Average Margin: Benetton Treviso by 3.9
+
+<p float="left">
+<img src="plots/performances_2024-04-13-BenettonTreviso_V_Ospreys.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-BenettonTreviso_V_Ospreys.png" width="32%" />
+<img src="plots/spreads_2024-04-13-BenettonTreviso_V_Ospreys.png" width="32%" />
+</p>
+
+### Ulster V Connacht on 2024/04/13
+
+
+Average Margin: Ulster by 1.7
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Ulster_V_Connacht.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Ulster_V_Connacht.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Ulster_V_Connacht.png" width="32%" />
+</p>
+
+### Sharks V Edinburgh on 2024/04/13
+
+
+Average Margin: Sharks by 2.1
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Sharks_V_Edinburgh.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Sharks_V_Edinburgh.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Sharks_V_Edinburgh.png" width="32%" />
 </p>
 
 ### Benetton Treviso V Castres Olympique on 2024/04/13
 
 
-Average Margin: Benetton Treviso by 2.8
+Average Margin: Benetton Treviso by 2.1
 
 <p float="left">
 <img src="plots/performances_2024-04-13-BenettonTreviso_V_CastresOlympique.png" width="32%" />
 <img src="plots/resultbar_2024-04-13-BenettonTreviso_V_CastresOlympique.png" width="32%" />
 <img src="plots/spreads_2024-04-13-BenettonTreviso_V_CastresOlympique.png" width="32%" />
+</p>
+
+### Clermont Auvergne V Connacht on 2024/04/13
+
+
+Average Margin: Clermont Auvergne by 2.7
+
+<p float="left">
+<img src="plots/performances_2024-04-13-ClermontAuvergne_V_Connacht.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-ClermontAuvergne_V_Connacht.png" width="32%" />
+<img src="plots/spreads_2024-04-13-ClermontAuvergne_V_Connacht.png" width="32%" />
+</p>
+
+### Pau V Clermont Auvergne on 2024/04/13
+
+
+Average Margin: Pau by 1.7
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Pau_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Pau_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Pau_V_ClermontAuvergne.png" width="32%" />
+</p>
+
+### Sharks V Sale Sharks on 2024/04/13
+
+
+Average Margin: Sale Sharks by 0.6
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Sharks_V_SaleSharks.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Sharks_V_SaleSharks.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Sharks_V_SaleSharks.png" width="32%" />
 </p>
 
 ### Montpellier Herault V Lions on 2024/04/13
@@ -550,87 +660,10 @@ Average Margin: Montpellier Herault by 4.5
 <img src="plots/spreads_2024-04-13-MontpellierHerault_V_Lions.png" width="32%" />
 </p>
 
-### Benetton Treviso V Bayonne on 2024/04/13
-
-
-Average Margin: Benetton Treviso by 4.9
-
-<p float="left">
-<img src="plots/performances_2024-04-13-BenettonTreviso_V_Bayonne.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-BenettonTreviso_V_Bayonne.png" width="32%" />
-<img src="plots/spreads_2024-04-13-BenettonTreviso_V_Bayonne.png" width="32%" />
-</p>
-
-### Clermont Auvergne V Ulster on 2024/04/13
-
-
-Average Margin: Clermont Auvergne by 2.7
-
-<p float="left">
-<img src="plots/performances_2024-04-13-ClermontAuvergne_V_Ulster.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-ClermontAuvergne_V_Ulster.png" width="32%" />
-<img src="plots/spreads_2024-04-13-ClermontAuvergne_V_Ulster.png" width="32%" />
-</p>
-
-### Sharks V Edinburgh on 2024/04/13
-
-
-Average Margin: Sharks by 2.0
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Sharks_V_Edinburgh.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Sharks_V_Edinburgh.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Sharks_V_Edinburgh.png" width="32%" />
-</p>
-
-### Ospreys V Clermont Auvergne on 2024/04/13
-
-
-Average Margin: Ospreys by 1.3
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Ospreys_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Ospreys_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Ospreys_V_ClermontAuvergne.png" width="32%" />
-</p>
-
-### Pau V Ospreys on 2024/04/13
-
-
-Average Margin: Pau by 3.2
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Pau_V_Ospreys.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Pau_V_Ospreys.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Pau_V_Ospreys.png" width="32%" />
-</p>
-
-### Gloucester Rugby V Connacht on 2024/04/13
-
-
-Average Margin: Gloucester Rugby by 3.1
-
-<p float="left">
-<img src="plots/performances_2024-05-04-GloucesterRugby_V_Connacht.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-GloucesterRugby_V_Connacht.png" width="32%" />
-<img src="plots/spreads_2024-05-04-GloucesterRugby_V_Connacht.png" width="32%" />
-</p>
-
-### Benetton Treviso V Sale Sharks on 2024/04/13
-
-
-Average Margin: Benetton Treviso by 0.4
-
-<p float="left">
-<img src="plots/performances_2024-04-13-BenettonTreviso_V_SaleSharks.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-BenettonTreviso_V_SaleSharks.png" width="32%" />
-<img src="plots/spreads_2024-04-13-BenettonTreviso_V_SaleSharks.png" width="32%" />
-</p>
-
 ### Montpellier Herault V Clermont Auvergne on 2024/04/13
 
 
-Average Margin: Montpellier Herault by 3.4
+Average Margin: Montpellier Herault by 3.7
 
 <p float="left">
 <img src="plots/performances_2024-04-13-MontpellierHerault_V_ClermontAuvergne.png" width="32%" />
@@ -638,65 +671,10 @@ Average Margin: Montpellier Herault by 3.4
 <img src="plots/spreads_2024-04-13-MontpellierHerault_V_ClermontAuvergne.png" width="32%" />
 </p>
 
-### Pau V Montpellier Herault on 2024/04/13
-
-
-Average Margin: Pau by 1.2
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Pau_V_MontpellierHerault.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Pau_V_MontpellierHerault.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Pau_V_MontpellierHerault.png" width="32%" />
-</p>
-
-### Benetton Treviso V Ospreys on 2024/04/13
-
-
-Average Margin: Benetton Treviso by 4.1
-
-<p float="left">
-<img src="plots/performances_2024-04-13-BenettonTreviso_V_Ospreys.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-BenettonTreviso_V_Ospreys.png" width="32%" />
-<img src="plots/spreads_2024-04-13-BenettonTreviso_V_Ospreys.png" width="32%" />
-</p>
-
-### Montpellier Herault V Connacht on 2024/04/13
-
-
-Average Margin: Montpellier Herault by 2.5
-
-<p float="left">
-<img src="plots/performances_2024-05-24-MontpellierHerault_V_Connacht.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-MontpellierHerault_V_Connacht.png" width="32%" />
-<img src="plots/spreads_2024-05-24-MontpellierHerault_V_Connacht.png" width="32%" />
-</p>
-
-### Benetton Treviso V Edinburgh on 2024/04/13
-
-
-Average Margin: Benetton Treviso by 2.4
-
-<p float="left">
-<img src="plots/performances_2024-05-04-BenettonTreviso_V_Edinburgh.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-BenettonTreviso_V_Edinburgh.png" width="32%" />
-<img src="plots/spreads_2024-05-04-BenettonTreviso_V_Edinburgh.png" width="32%" />
-</p>
-
-### Gloucester Rugby V Ulster on 2024/04/13
-
-
-Average Margin: Gloucester Rugby by 1.5
-
-<p float="left">
-<img src="plots/performances_2024-05-04-GloucesterRugby_V_Ulster.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-GloucesterRugby_V_Ulster.png" width="32%" />
-<img src="plots/spreads_2024-05-04-GloucesterRugby_V_Ulster.png" width="32%" />
-</p>
-
 ### Sharks V Connacht on 2024/04/13
 
 
-Average Margin: Sharks by 2.5
+Average Margin: Sharks by 2.0
 
 <p float="left">
 <img src="plots/performances_2024-04-13-Sharks_V_Connacht.png" width="32%" />
@@ -704,111 +682,10 @@ Average Margin: Sharks by 2.5
 <img src="plots/spreads_2024-04-13-Sharks_V_Connacht.png" width="32%" />
 </p>
 
-### Montpellier Herault V Ospreys on 2024/04/13
+### Benetton Treviso V Sale Sharks on 2024/04/13
 
 
-Average Margin: Montpellier Herault by 5.4
-
-<p float="left">
-<img src="plots/performances_2024-04-13-MontpellierHerault_V_Ospreys.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-MontpellierHerault_V_Ospreys.png" width="32%" />
-<img src="plots/spreads_2024-04-13-MontpellierHerault_V_Ospreys.png" width="32%" />
-</p>
-
-### Gloucester Rugby V Sale Sharks on 2024/04/13
-
-
-Average Margin: Gloucester Rugby by 2.1
-
-<p float="left">
-<img src="plots/performances_2024-04-13-GloucesterRugby_V_SaleSharks.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-GloucesterRugby_V_SaleSharks.png" width="32%" />
-<img src="plots/spreads_2024-04-13-GloucesterRugby_V_SaleSharks.png" width="32%" />
-</p>
-
-### Pau V Ulster on 2024/04/13
-
-
-Average Margin: Ulster by 0.8
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Pau_V_Ulster.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Pau_V_Ulster.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Pau_V_Ulster.png" width="32%" />
-</p>
-
-### Pau V Clermont Auvergne on 2024/04/13
-
-
-Average Margin: Pau by 1.0
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Pau_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Pau_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Pau_V_ClermontAuvergne.png" width="32%" />
-</p>
-
-### Clermont Auvergne V Edinburgh on 2024/04/13
-
-
-Average Margin: Clermont Auvergne by 3.3
-
-<p float="left">
-<img src="plots/performances_2024-04-13-ClermontAuvergne_V_Edinburgh.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-ClermontAuvergne_V_Edinburgh.png" width="32%" />
-<img src="plots/spreads_2024-04-13-ClermontAuvergne_V_Edinburgh.png" width="32%" />
-</p>
-
-### Sharks V Sale Sharks on 2024/04/13
-
-
-Average Margin: Sale Sharks by 0.1
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Sharks_V_SaleSharks.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Sharks_V_SaleSharks.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Sharks_V_SaleSharks.png" width="32%" />
-</p>
-
-### Gloucester Rugby V Edinburgh on 2024/04/13
-
-
-Average Margin: Gloucester Rugby by 3.5
-
-<p float="left">
-<img src="plots/performances_2024-04-13-GloucesterRugby_V_Edinburgh.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-GloucesterRugby_V_Edinburgh.png" width="32%" />
-<img src="plots/spreads_2024-04-13-GloucesterRugby_V_Edinburgh.png" width="32%" />
-</p>
-
-### Clermont Auvergne V Lions on 2024/04/13
-
-
-Average Margin: Clermont Auvergne by 4.2
-
-<p float="left">
-<img src="plots/performances_2024-04-13-ClermontAuvergne_V_Lions.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-ClermontAuvergne_V_Lions.png" width="32%" />
-<img src="plots/spreads_2024-04-13-ClermontAuvergne_V_Lions.png" width="32%" />
-</p>
-
-## Semifinals
-
-### Benetton Treviso V Ulster on 2024/05/04
-
-
-Average Margin: Ulster by 0.2
-
-<p float="left">
-<img src="plots/performances_2024-04-13-BenettonTreviso_V_Ulster.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-BenettonTreviso_V_Ulster.png" width="32%" />
-<img src="plots/spreads_2024-04-13-BenettonTreviso_V_Ulster.png" width="32%" />
-</p>
-
-### Benetton Treviso V Sale Sharks on 2024/05/04
-
-
-Average Margin: Benetton Treviso by 0.4
+Average Margin: Sale Sharks by 0.0
 
 <p float="left">
 <img src="plots/performances_2024-04-13-BenettonTreviso_V_SaleSharks.png" width="32%" />
@@ -816,15 +693,248 @@ Average Margin: Benetton Treviso by 0.4
 <img src="plots/spreads_2024-04-13-BenettonTreviso_V_SaleSharks.png" width="32%" />
 </p>
 
-### Clermont Auvergne V Lions on 2024/05/04
+### Gloucester Rugby V Edinburgh on 2024/04/13
 
 
-Average Margin: Clermont Auvergne by 4.2
+Average Margin: Gloucester Rugby by 3.4
 
 <p float="left">
-<img src="plots/performances_2024-04-13-ClermontAuvergne_V_Lions.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-ClermontAuvergne_V_Lions.png" width="32%" />
-<img src="plots/spreads_2024-04-13-ClermontAuvergne_V_Lions.png" width="32%" />
+<img src="plots/performances_2024-04-13-GloucesterRugby_V_Edinburgh.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-GloucesterRugby_V_Edinburgh.png" width="32%" />
+<img src="plots/spreads_2024-04-13-GloucesterRugby_V_Edinburgh.png" width="32%" />
+</p>
+
+### Pau V Ospreys on 2024/04/13
+
+
+Average Margin: Pau by 3.0
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Pau_V_Ospreys.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Pau_V_Ospreys.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Pau_V_Ospreys.png" width="32%" />
+</p>
+
+### Sharks V Clermont Auvergne on 2024/04/13
+
+
+Average Margin: Sharks by 1.4
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Sharks_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Sharks_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Sharks_V_ClermontAuvergne.png" width="32%" />
+</p>
+
+### Benetton Treviso V Edinburgh on 2024/04/13
+
+
+Average Margin: Benetton Treviso by 2.2
+
+<p float="left">
+<img src="plots/performances_2024-04-13-BenettonTreviso_V_Edinburgh.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-BenettonTreviso_V_Edinburgh.png" width="32%" />
+<img src="plots/spreads_2024-04-13-BenettonTreviso_V_Edinburgh.png" width="32%" />
+</p>
+
+### Gloucester Rugby V Ulster on 2024/04/13
+
+
+Average Margin: Gloucester Rugby by 1.8
+
+<p float="left">
+<img src="plots/performances_2024-04-13-GloucesterRugby_V_Ulster.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-GloucesterRugby_V_Ulster.png" width="32%" />
+<img src="plots/spreads_2024-04-13-GloucesterRugby_V_Ulster.png" width="32%" />
+</p>
+
+### Gloucester Rugby V Ospreys on 2024/04/13
+
+
+Average Margin: Gloucester Rugby by 4.4
+
+<p float="left">
+<img src="plots/performances_2024-04-13-GloucesterRugby_V_Ospreys.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-GloucesterRugby_V_Ospreys.png" width="32%" />
+<img src="plots/spreads_2024-04-13-GloucesterRugby_V_Ospreys.png" width="32%" />
+</p>
+
+### Gloucester Rugby V Bayonne on 2024/04/13
+
+
+Average Margin: Gloucester Rugby by 5.8
+
+<p float="left">
+<img src="plots/performances_2024-04-13-GloucesterRugby_V_Bayonne.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-GloucesterRugby_V_Bayonne.png" width="32%" />
+<img src="plots/spreads_2024-04-13-GloucesterRugby_V_Bayonne.png" width="32%" />
+</p>
+
+### Gloucester Rugby V Sale Sharks on 2024/04/13
+
+
+Average Margin: Gloucester Rugby by 1.7
+
+<p float="left">
+<img src="plots/performances_2024-04-13-GloucesterRugby_V_SaleSharks.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-GloucesterRugby_V_SaleSharks.png" width="32%" />
+<img src="plots/spreads_2024-04-13-GloucesterRugby_V_SaleSharks.png" width="32%" />
+</p>
+
+### Benetton Treviso V Ulster on 2024/04/13
+
+
+Average Margin: Benetton Treviso by 0.6
+
+<p float="left">
+<img src="plots/performances_2024-05-04-BenettonTreviso_V_Ulster.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-BenettonTreviso_V_Ulster.png" width="32%" />
+<img src="plots/spreads_2024-05-04-BenettonTreviso_V_Ulster.png" width="32%" />
+</p>
+
+## Semifinals
+
+### Clermont Auvergne V Montpellier Herault on 2024/05/04
+
+
+Average Margin: Clermont Auvergne by 3.3
+
+<p float="left">
+<img src="plots/performances_2024-05-04-ClermontAuvergne_V_MontpellierHerault.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-ClermontAuvergne_V_MontpellierHerault.png" width="32%" />
+<img src="plots/spreads_2024-05-04-ClermontAuvergne_V_MontpellierHerault.png" width="32%" />
+</p>
+
+### Gloucester Rugby V Clermont Auvergne on 2024/05/04
+
+
+Average Margin: Gloucester Rugby by 2.6
+
+<p float="left">
+<img src="plots/performances_2024-05-04-GloucesterRugby_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-GloucesterRugby_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/spreads_2024-05-04-GloucesterRugby_V_ClermontAuvergne.png" width="32%" />
+</p>
+
+### Connacht V Sale Sharks on 2024/05/04
+
+
+Average Margin: Connacht by 2.8
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Connacht_V_SaleSharks.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Connacht_V_SaleSharks.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Connacht_V_SaleSharks.png" width="32%" />
+</p>
+
+### Benetton Treviso V Connacht on 2024/05/04
+
+
+Average Margin: Benetton Treviso by 2.9
+
+<p float="left">
+<img src="plots/performances_2024-04-13-BenettonTreviso_V_Connacht.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-BenettonTreviso_V_Connacht.png" width="32%" />
+<img src="plots/spreads_2024-04-13-BenettonTreviso_V_Connacht.png" width="32%" />
+</p>
+
+### Gloucester Rugby V Montpellier Herault on 2024/05/04
+
+
+Average Margin: Gloucester Rugby by 2.4
+
+<p float="left">
+<img src="plots/performances_2024-05-04-GloucesterRugby_V_MontpellierHerault.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-GloucesterRugby_V_MontpellierHerault.png" width="32%" />
+<img src="plots/spreads_2024-05-04-GloucesterRugby_V_MontpellierHerault.png" width="32%" />
+</p>
+
+### Benetton Treviso V Sharks on 2024/05/04
+
+
+Average Margin: Benetton Treviso by 3.8
+
+<p float="left">
+<img src="plots/performances_2024-05-24-BenettonTreviso_V_Sharks.png" width="32%" />
+<img src="plots/resultbar_2024-05-24-BenettonTreviso_V_Sharks.png" width="32%" />
+<img src="plots/spreads_2024-05-24-BenettonTreviso_V_Sharks.png" width="32%" />
+</p>
+
+### Clermont Auvergne V Castres Olympique on 2024/05/04
+
+
+Average Margin: Clermont Auvergne by 4.0
+
+<p float="left">
+<img src="plots/performances_2024-04-13-ClermontAuvergne_V_CastresOlympique.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-ClermontAuvergne_V_CastresOlympique.png" width="32%" />
+<img src="plots/spreads_2024-04-13-ClermontAuvergne_V_CastresOlympique.png" width="32%" />
+</p>
+
+### Sharks V Connacht on 2024/05/04
+
+
+Average Margin: Sharks by 2.0
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Sharks_V_Connacht.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Sharks_V_Connacht.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Sharks_V_Connacht.png" width="32%" />
+</p>
+
+### Gloucester Rugby V Bayonne on 2024/05/04
+
+
+Average Margin: Gloucester Rugby by 5.8
+
+<p float="left">
+<img src="plots/performances_2024-04-13-GloucesterRugby_V_Bayonne.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-GloucesterRugby_V_Bayonne.png" width="32%" />
+<img src="plots/spreads_2024-04-13-GloucesterRugby_V_Bayonne.png" width="32%" />
+</p>
+
+### Benetton Treviso V Edinburgh on 2024/05/04
+
+
+Average Margin: Benetton Treviso by 2.2
+
+<p float="left">
+<img src="plots/performances_2024-04-13-BenettonTreviso_V_Edinburgh.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-BenettonTreviso_V_Edinburgh.png" width="32%" />
+<img src="plots/spreads_2024-04-13-BenettonTreviso_V_Edinburgh.png" width="32%" />
+</p>
+
+### Gloucester Rugby V Sale Sharks on 2024/05/04
+
+
+Average Margin: Gloucester Rugby by 1.7
+
+<p float="left">
+<img src="plots/performances_2024-04-13-GloucesterRugby_V_SaleSharks.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-GloucesterRugby_V_SaleSharks.png" width="32%" />
+<img src="plots/spreads_2024-04-13-GloucesterRugby_V_SaleSharks.png" width="32%" />
+</p>
+
+### Gloucester Rugby V Lions on 2024/05/04
+
+
+Average Margin: Gloucester Rugby by 3.8
+
+<p float="left">
+<img src="plots/performances_2024-05-04-GloucesterRugby_V_Lions.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-GloucesterRugby_V_Lions.png" width="32%" />
+<img src="plots/spreads_2024-05-04-GloucesterRugby_V_Lions.png" width="32%" />
+</p>
+
+### Sharks V Pau on 2024/05/04
+
+
+Average Margin: Sharks by 3.9
+
+<p float="left">
+<img src="plots/performances_2024-05-04-Sharks_V_Pau.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-Sharks_V_Pau.png" width="32%" />
+<img src="plots/spreads_2024-05-04-Sharks_V_Pau.png" width="32%" />
 </p>
 
 ### Benetton Treviso V Pau on 2024/05/04
@@ -838,87 +948,54 @@ Average Margin: Benetton Treviso by 3.4
 <img src="plots/spreads_2024-05-04-BenettonTreviso_V_Pau.png" width="32%" />
 </p>
 
-### Sharks V Castres Olympique on 2024/05/04
+### Sharks V Clermont Auvergne on 2024/05/04
 
 
-Average Margin: Sharks by 1.2
+Average Margin: Sharks by 1.4
 
 <p float="left">
-<img src="plots/performances_2024-04-13-Sharks_V_CastresOlympique.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Sharks_V_CastresOlympique.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Sharks_V_CastresOlympique.png" width="32%" />
+<img src="plots/performances_2024-04-13-Sharks_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Sharks_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Sharks_V_ClermontAuvergne.png" width="32%" />
 </p>
 
-### Benetton Treviso V Castres Olympique on 2024/05/04
+### Ospreys V Edinburgh on 2024/05/04
 
 
-Average Margin: Benetton Treviso by 2.8
+Average Margin: Ospreys by 2.3
 
 <p float="left">
-<img src="plots/performances_2024-04-13-BenettonTreviso_V_CastresOlympique.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-BenettonTreviso_V_CastresOlympique.png" width="32%" />
-<img src="plots/spreads_2024-04-13-BenettonTreviso_V_CastresOlympique.png" width="32%" />
+<img src="plots/performances_2024-04-13-Ospreys_V_Edinburgh.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Ospreys_V_Edinburgh.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Ospreys_V_Edinburgh.png" width="32%" />
 </p>
 
-### Ulster V Sale Sharks on 2024/05/04
+### Clermont Auvergne V Sharks on 2024/05/04
 
 
-Average Margin: Ulster by 2.4
+Average Margin: Clermont Auvergne by 3.2
 
 <p float="left">
-<img src="plots/performances_2024-05-04-Ulster_V_SaleSharks.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-Ulster_V_SaleSharks.png" width="32%" />
-<img src="plots/spreads_2024-05-04-Ulster_V_SaleSharks.png" width="32%" />
+<img src="plots/performances_2024-05-04-ClermontAuvergne_V_Sharks.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-ClermontAuvergne_V_Sharks.png" width="32%" />
+<img src="plots/spreads_2024-05-04-ClermontAuvergne_V_Sharks.png" width="32%" />
 </p>
 
-### Sharks V Sale Sharks on 2024/05/04
+### Pau V Ospreys on 2024/05/04
 
 
-Average Margin: Sale Sharks by 0.1
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Sharks_V_SaleSharks.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Sharks_V_SaleSharks.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Sharks_V_SaleSharks.png" width="32%" />
-</p>
-
-### Gloucester Rugby V Clermont Auvergne on 2024/05/04
-
-
-Average Margin: Gloucester Rugby by 2.2
+Average Margin: Pau by 3.0
 
 <p float="left">
-<img src="plots/performances_2024-05-24-GloucesterRugby_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-GloucesterRugby_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/spreads_2024-05-24-GloucesterRugby_V_ClermontAuvergne.png" width="32%" />
-</p>
-
-### Montpellier Herault V Lions on 2024/05/04
-
-
-Average Margin: Montpellier Herault by 4.5
-
-<p float="left">
-<img src="plots/performances_2024-04-13-MontpellierHerault_V_Lions.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-MontpellierHerault_V_Lions.png" width="32%" />
-<img src="plots/spreads_2024-04-13-MontpellierHerault_V_Lions.png" width="32%" />
-</p>
-
-### Sharks V Lions on 2024/05/04
-
-
-Average Margin: Sharks by 0.2
-
-<p float="left">
-<img src="plots/performances_2024-05-04-Sharks_V_Lions.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-Sharks_V_Lions.png" width="32%" />
-<img src="plots/spreads_2024-05-04-Sharks_V_Lions.png" width="32%" />
+<img src="plots/performances_2024-04-13-Pau_V_Ospreys.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Pau_V_Ospreys.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Pau_V_Ospreys.png" width="32%" />
 </p>
 
 ### Sharks V Edinburgh on 2024/05/04
 
 
-Average Margin: Sharks by 2.0
+Average Margin: Sharks by 2.1
 
 <p float="left">
 <img src="plots/performances_2024-04-13-Sharks_V_Edinburgh.png" width="32%" />
@@ -926,10 +1003,142 @@ Average Margin: Sharks by 2.0
 <img src="plots/spreads_2024-04-13-Sharks_V_Edinburgh.png" width="32%" />
 </p>
 
+### Sharks V Castres Olympique on 2024/05/04
+
+
+Average Margin: Sharks by 2.9
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Sharks_V_CastresOlympique.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Sharks_V_CastresOlympique.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Sharks_V_CastresOlympique.png" width="32%" />
+</p>
+
+### Clermont Auvergne V Sale Sharks on 2024/05/04
+
+
+Average Margin: Sale Sharks by 0.6
+
+<p float="left">
+<img src="plots/performances_2024-05-04-ClermontAuvergne_V_SaleSharks.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-ClermontAuvergne_V_SaleSharks.png" width="32%" />
+<img src="plots/spreads_2024-05-04-ClermontAuvergne_V_SaleSharks.png" width="32%" />
+</p>
+
+### Benetton Treviso V Ulster on 2024/05/04
+
+
+Average Margin: Benetton Treviso by 0.6
+
+<p float="left">
+<img src="plots/performances_2024-05-04-BenettonTreviso_V_Ulster.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-BenettonTreviso_V_Ulster.png" width="32%" />
+<img src="plots/spreads_2024-05-04-BenettonTreviso_V_Ulster.png" width="32%" />
+</p>
+
+### Clermont Auvergne V Lions on 2024/05/04
+
+
+Average Margin: Clermont Auvergne by 4.3
+
+<p float="left">
+<img src="plots/performances_2024-05-24-ClermontAuvergne_V_Lions.png" width="32%" />
+<img src="plots/resultbar_2024-05-24-ClermontAuvergne_V_Lions.png" width="32%" />
+<img src="plots/spreads_2024-05-24-ClermontAuvergne_V_Lions.png" width="32%" />
+</p>
+
+### Sharks V Sale Sharks on 2024/05/04
+
+
+Average Margin: Sale Sharks by 0.6
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Sharks_V_SaleSharks.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Sharks_V_SaleSharks.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Sharks_V_SaleSharks.png" width="32%" />
+</p>
+
+### Sharks V Ospreys on 2024/05/04
+
+
+Average Margin: Sharks by 3.5
+
+<p float="left">
+<img src="plots/performances_2024-05-04-Sharks_V_Ospreys.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-Sharks_V_Ospreys.png" width="32%" />
+<img src="plots/spreads_2024-05-04-Sharks_V_Ospreys.png" width="32%" />
+</p>
+
+### Benetton Treviso V Bayonne on 2024/05/04
+
+
+Average Margin: Benetton Treviso by 3.6
+
+<p float="left">
+<img src="plots/performances_2024-04-13-BenettonTreviso_V_Bayonne.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-BenettonTreviso_V_Bayonne.png" width="32%" />
+<img src="plots/spreads_2024-04-13-BenettonTreviso_V_Bayonne.png" width="32%" />
+</p>
+
+### Ospreys V Clermont Auvergne on 2024/05/04
+
+
+Average Margin: Ospreys by 2.1
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Ospreys_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Ospreys_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Ospreys_V_ClermontAuvergne.png" width="32%" />
+</p>
+
+### Sharks V Montpellier Herault on 2024/05/04
+
+
+Average Margin: Sharks by 0.7
+
+<p float="left">
+<img src="plots/performances_2024-05-04-Sharks_V_MontpellierHerault.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-Sharks_V_MontpellierHerault.png" width="32%" />
+<img src="plots/spreads_2024-05-04-Sharks_V_MontpellierHerault.png" width="32%" />
+</p>
+
+### Clermont Auvergne V Connacht on 2024/05/04
+
+
+Average Margin: Clermont Auvergne by 2.7
+
+<p float="left">
+<img src="plots/performances_2024-04-13-ClermontAuvergne_V_Connacht.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-ClermontAuvergne_V_Connacht.png" width="32%" />
+<img src="plots/spreads_2024-04-13-ClermontAuvergne_V_Connacht.png" width="32%" />
+</p>
+
+### Gloucester Rugby V Ulster on 2024/05/04
+
+
+Average Margin: Gloucester Rugby by 1.8
+
+<p float="left">
+<img src="plots/performances_2024-04-13-GloucesterRugby_V_Ulster.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-GloucesterRugby_V_Ulster.png" width="32%" />
+<img src="plots/spreads_2024-04-13-GloucesterRugby_V_Ulster.png" width="32%" />
+</p>
+
+### Clermont Auvergne V Ulster on 2024/05/04
+
+
+Average Margin: Clermont Auvergne by 1.7
+
+<p float="left">
+<img src="plots/performances_2024-04-13-ClermontAuvergne_V_Ulster.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-ClermontAuvergne_V_Ulster.png" width="32%" />
+<img src="plots/spreads_2024-04-13-ClermontAuvergne_V_Ulster.png" width="32%" />
+</p>
+
 ### Pau V Edinburgh on 2024/05/04
 
 
-Average Margin: Pau by 3.2
+Average Margin: Pau by 2.7
 
 <p float="left">
 <img src="plots/performances_2024-05-04-Pau_V_Edinburgh.png" width="32%" />
@@ -937,26 +1146,15 @@ Average Margin: Pau by 3.2
 <img src="plots/spreads_2024-05-04-Pau_V_Edinburgh.png" width="32%" />
 </p>
 
-### Gloucester Rugby V Sale Sharks on 2024/05/04
+### Montpellier Herault V Pau on 2024/05/04
 
 
-Average Margin: Gloucester Rugby by 2.1
-
-<p float="left">
-<img src="plots/performances_2024-04-13-GloucesterRugby_V_SaleSharks.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-GloucesterRugby_V_SaleSharks.png" width="32%" />
-<img src="plots/spreads_2024-04-13-GloucesterRugby_V_SaleSharks.png" width="32%" />
-</p>
-
-### Sharks V Cheetahs on 2024/05/04
-
-
-Average Margin: Sharks by 6.3
+Average Margin: Montpellier Herault by 5.5
 
 <p float="left">
-<img src="plots/performances_2024-04-13-Sharks_V_Cheetahs.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Sharks_V_Cheetahs.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Sharks_V_Cheetahs.png" width="32%" />
+<img src="plots/performances_2024-05-24-MontpellierHerault_V_Pau.png" width="32%" />
+<img src="plots/resultbar_2024-05-24-MontpellierHerault_V_Pau.png" width="32%" />
+<img src="plots/spreads_2024-05-24-MontpellierHerault_V_Pau.png" width="32%" />
 </p>
 
 ### Benetton Treviso V Clermont Auvergne on 2024/05/04
@@ -970,103 +1168,70 @@ Average Margin: Clermont Auvergne by 1.2
 <img src="plots/spreads_2024-05-24-BenettonTreviso_V_ClermontAuvergne.png" width="32%" />
 </p>
 
-### Benetton Treviso V Connacht on 2024/05/04
+### Gloucester Rugby V Sharks on 2024/05/04
 
 
-Average Margin: Benetton Treviso by 2.0
+Average Margin: Gloucester Rugby by 2.9
 
 <p float="left">
-<img src="plots/performances_2024-04-13-BenettonTreviso_V_Connacht.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-BenettonTreviso_V_Connacht.png" width="32%" />
-<img src="plots/spreads_2024-04-13-BenettonTreviso_V_Connacht.png" width="32%" />
+<img src="plots/performances_2024-05-24-GloucesterRugby_V_Sharks.png" width="32%" />
+<img src="plots/resultbar_2024-05-24-GloucesterRugby_V_Sharks.png" width="32%" />
+<img src="plots/spreads_2024-05-24-GloucesterRugby_V_Sharks.png" width="32%" />
 </p>
 
-### Gloucester Rugby V Ulster on 2024/05/04
+### Montpellier Herault V Sale Sharks on 2024/05/04
 
 
-Average Margin: Gloucester Rugby by 1.5
+Average Margin: Montpellier Herault by 0.2
 
 <p float="left">
-<img src="plots/performances_2024-05-04-GloucesterRugby_V_Ulster.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-GloucesterRugby_V_Ulster.png" width="32%" />
-<img src="plots/spreads_2024-05-04-GloucesterRugby_V_Ulster.png" width="32%" />
+<img src="plots/performances_2024-05-24-MontpellierHerault_V_SaleSharks.png" width="32%" />
+<img src="plots/resultbar_2024-05-24-MontpellierHerault_V_SaleSharks.png" width="32%" />
+<img src="plots/spreads_2024-05-24-MontpellierHerault_V_SaleSharks.png" width="32%" />
 </p>
 
-### Sharks V Montpellier Herault on 2024/05/04
+### Montpellier Herault V Connacht on 2024/05/04
 
 
-Average Margin: Sharks by 0.8
+Average Margin: Montpellier Herault by 3.7
 
 <p float="left">
-<img src="plots/performances_2024-05-04-Sharks_V_MontpellierHerault.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-Sharks_V_MontpellierHerault.png" width="32%" />
-<img src="plots/spreads_2024-05-04-Sharks_V_MontpellierHerault.png" width="32%" />
+<img src="plots/performances_2024-04-13-MontpellierHerault_V_Connacht.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-MontpellierHerault_V_Connacht.png" width="32%" />
+<img src="plots/spreads_2024-04-13-MontpellierHerault_V_Connacht.png" width="32%" />
 </p>
 
-### Benetton Treviso V Edinburgh on 2024/05/04
+### Montpellier Herault V Ospreys on 2024/05/04
 
 
-Average Margin: Benetton Treviso by 2.4
+Average Margin: Montpellier Herault by 5.1
 
 <p float="left">
-<img src="plots/performances_2024-05-04-BenettonTreviso_V_Edinburgh.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-BenettonTreviso_V_Edinburgh.png" width="32%" />
-<img src="plots/spreads_2024-05-04-BenettonTreviso_V_Edinburgh.png" width="32%" />
+<img src="plots/performances_2024-04-13-MontpellierHerault_V_Ospreys.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-MontpellierHerault_V_Ospreys.png" width="32%" />
+<img src="plots/spreads_2024-04-13-MontpellierHerault_V_Ospreys.png" width="32%" />
 </p>
 
-### Sharks V Clermont Auvergne on 2024/05/04
+### Sharks V Cheetahs on 2024/05/04
 
 
-Average Margin: Sharks by 1.9
+Average Margin: Sharks by 7.3
 
 <p float="left">
-<img src="plots/performances_2024-05-04-Sharks_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-Sharks_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/spreads_2024-05-04-Sharks_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/performances_2024-05-04-Sharks_V_Cheetahs.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-Sharks_V_Cheetahs.png" width="32%" />
+<img src="plots/spreads_2024-05-04-Sharks_V_Cheetahs.png" width="32%" />
 </p>
 
-### Gloucester Rugby V Bayonne on 2024/05/04
+### Pau V Ulster on 2024/05/04
 
 
-Average Margin: Gloucester Rugby by 5.0
-
-<p float="left">
-<img src="plots/performances_2024-04-13-GloucesterRugby_V_Bayonne.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-GloucesterRugby_V_Bayonne.png" width="32%" />
-<img src="plots/spreads_2024-04-13-GloucesterRugby_V_Bayonne.png" width="32%" />
-</p>
-
-### Benetton Treviso V Sharks on 2024/05/04
-
-
-Average Margin: Benetton Treviso by 3.5
+Average Margin: Ulster by 0.1
 
 <p float="left">
-<img src="plots/performances_2024-05-24-BenettonTreviso_V_Sharks.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-BenettonTreviso_V_Sharks.png" width="32%" />
-<img src="plots/spreads_2024-05-24-BenettonTreviso_V_Sharks.png" width="32%" />
-</p>
-
-### Ospreys V Edinburgh on 2024/05/04
-
-
-Average Margin: Ospreys by 1.2
-
-<p float="left">
-<img src="plots/performances_2024-05-24-Ospreys_V_Edinburgh.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-Ospreys_V_Edinburgh.png" width="32%" />
-<img src="plots/spreads_2024-05-24-Ospreys_V_Edinburgh.png" width="32%" />
-</p>
-
-### Pau V Ospreys on 2024/05/04
-
-
-Average Margin: Pau by 3.2
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Pau_V_Ospreys.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Pau_V_Ospreys.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Pau_V_Ospreys.png" width="32%" />
+<img src="plots/performances_2024-05-04-Pau_V_Ulster.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-Pau_V_Ulster.png" width="32%" />
+<img src="plots/spreads_2024-05-04-Pau_V_Ulster.png" width="32%" />
 </p>
 
 ### Montpellier Herault V Sharks on 2024/05/04
@@ -1075,92 +1240,26 @@ Average Margin: Pau by 3.2
 Average Margin: Montpellier Herault by 2.1
 
 <p float="left">
-<img src="plots/performances_2024-05-24-MontpellierHerault_V_Sharks.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-MontpellierHerault_V_Sharks.png" width="32%" />
-<img src="plots/spreads_2024-05-24-MontpellierHerault_V_Sharks.png" width="32%" />
+<img src="plots/performances_2024-05-04-MontpellierHerault_V_Sharks.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-MontpellierHerault_V_Sharks.png" width="32%" />
+<img src="plots/spreads_2024-05-04-MontpellierHerault_V_Sharks.png" width="32%" />
 </p>
 
-### Sharks V Connacht on 2024/05/04
+### Clermont Auvergne V Edinburgh on 2024/05/04
 
 
-Average Margin: Sharks by 2.5
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Sharks_V_Connacht.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Sharks_V_Connacht.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Sharks_V_Connacht.png" width="32%" />
-</p>
-
-### Sharks V Ulster on 2024/05/04
-
-
-Average Margin: Sharks by 0.4
+Average Margin: Clermont Auvergne by 4.0
 
 <p float="left">
-<img src="plots/performances_2024-04-13-Sharks_V_Ulster.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Sharks_V_Ulster.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Sharks_V_Ulster.png" width="32%" />
-</p>
-
-### Pau V Sale Sharks on 2024/05/04
-
-
-Average Margin: Sale Sharks by 0.5
-
-<p float="left">
-<img src="plots/performances_2024-05-24-Pau_V_SaleSharks.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-Pau_V_SaleSharks.png" width="32%" />
-<img src="plots/spreads_2024-05-24-Pau_V_SaleSharks.png" width="32%" />
-</p>
-
-### Clermont Auvergne V Ospreys on 2024/05/04
-
-
-Average Margin: Clermont Auvergne by 6.0
-
-<p float="left">
-<img src="plots/performances_2024-04-13-ClermontAuvergne_V_Ospreys.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-ClermontAuvergne_V_Ospreys.png" width="32%" />
-<img src="plots/spreads_2024-04-13-ClermontAuvergne_V_Ospreys.png" width="32%" />
-</p>
-
-### Gloucester Rugby V Edinburgh on 2024/05/04
-
-
-Average Margin: Gloucester Rugby by 3.5
-
-<p float="left">
-<img src="plots/performances_2024-04-13-GloucesterRugby_V_Edinburgh.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-GloucesterRugby_V_Edinburgh.png" width="32%" />
-<img src="plots/spreads_2024-04-13-GloucesterRugby_V_Edinburgh.png" width="32%" />
-</p>
-
-### Clermont Auvergne V Sale Sharks on 2024/05/04
-
-
-Average Margin: Clermont Auvergne by 2.2
-
-<p float="left">
-<img src="plots/performances_2024-05-04-ClermontAuvergne_V_SaleSharks.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-ClermontAuvergne_V_SaleSharks.png" width="32%" />
-<img src="plots/spreads_2024-05-04-ClermontAuvergne_V_SaleSharks.png" width="32%" />
-</p>
-
-### Sharks V Ospreys on 2024/05/04
-
-
-Average Margin: Sharks by 4.0
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Sharks_V_Ospreys.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Sharks_V_Ospreys.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Sharks_V_Ospreys.png" width="32%" />
+<img src="plots/performances_2024-05-04-ClermontAuvergne_V_Edinburgh.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-ClermontAuvergne_V_Edinburgh.png" width="32%" />
+<img src="plots/spreads_2024-05-04-ClermontAuvergne_V_Edinburgh.png" width="32%" />
 </p>
 
 ### Gloucester Rugby V Ospreys on 2024/05/04
 
 
-Average Margin: Gloucester Rugby by 5.1
+Average Margin: Gloucester Rugby by 4.4
 
 <p float="left">
 <img src="plots/performances_2024-04-13-GloucesterRugby_V_Ospreys.png" width="32%" />
@@ -1168,153 +1267,10 @@ Average Margin: Gloucester Rugby by 5.1
 <img src="plots/spreads_2024-04-13-GloucesterRugby_V_Ospreys.png" width="32%" />
 </p>
 
-### Montpellier Herault V Pau on 2024/05/04
-
-
-Average Margin: Montpellier Herault by 5.6
-
-<p float="left">
-<img src="plots/performances_2024-05-04-MontpellierHerault_V_Pau.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-MontpellierHerault_V_Pau.png" width="32%" />
-<img src="plots/spreads_2024-05-04-MontpellierHerault_V_Pau.png" width="32%" />
-</p>
-
-### Gloucester Rugby V Pau on 2024/05/04
-
-
-Average Margin: Gloucester Rugby by 4.7
-
-<p float="left">
-<img src="plots/performances_2024-05-24-GloucesterRugby_V_Pau.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-GloucesterRugby_V_Pau.png" width="32%" />
-<img src="plots/spreads_2024-05-24-GloucesterRugby_V_Pau.png" width="32%" />
-</p>
-
-### Clermont Auvergne V Sharks on 2024/05/04
-
-
-Average Margin: Clermont Auvergne by 3.9
-
-<p float="left">
-<img src="plots/performances_2024-05-04-ClermontAuvergne_V_Sharks.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-ClermontAuvergne_V_Sharks.png" width="32%" />
-<img src="plots/spreads_2024-05-04-ClermontAuvergne_V_Sharks.png" width="32%" />
-</p>
-
-### Montpellier Herault V Ospreys on 2024/05/04
-
-
-Average Margin: Montpellier Herault by 5.4
-
-<p float="left">
-<img src="plots/performances_2024-04-13-MontpellierHerault_V_Ospreys.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-MontpellierHerault_V_Ospreys.png" width="32%" />
-<img src="plots/spreads_2024-04-13-MontpellierHerault_V_Ospreys.png" width="32%" />
-</p>
-
-### Clermont Auvergne V Connacht on 2024/05/04
-
-
-Average Margin: Clermont Auvergne by 3.3
-
-<p float="left">
-<img src="plots/performances_2024-05-04-ClermontAuvergne_V_Connacht.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-ClermontAuvergne_V_Connacht.png" width="32%" />
-<img src="plots/spreads_2024-05-04-ClermontAuvergne_V_Connacht.png" width="32%" />
-</p>
-
-### Clermont Auvergne V Montpellier Herault on 2024/05/04
-
-
-Average Margin: Clermont Auvergne by 2.5
-
-<p float="left">
-<img src="plots/performances_2024-05-24-ClermontAuvergne_V_MontpellierHerault.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-ClermontAuvergne_V_MontpellierHerault.png" width="32%" />
-<img src="plots/spreads_2024-05-24-ClermontAuvergne_V_MontpellierHerault.png" width="32%" />
-</p>
-
-### Gloucester Rugby V Lions on 2024/05/04
-
-
-Average Margin: Gloucester Rugby by 3.5
-
-<p float="left">
-<img src="plots/performances_2024-04-13-GloucesterRugby_V_Lions.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-GloucesterRugby_V_Lions.png" width="32%" />
-<img src="plots/spreads_2024-04-13-GloucesterRugby_V_Lions.png" width="32%" />
-</p>
-
-### Pau V Clermont Auvergne on 2024/05/04
-
-
-Average Margin: Pau by 1.0
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Pau_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Pau_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Pau_V_ClermontAuvergne.png" width="32%" />
-</p>
-
-### Montpellier Herault V Sale Sharks on 2024/05/04
-
-
-Average Margin: Montpellier Herault by 1.9
-
-<p float="left">
-<img src="plots/performances_2024-05-24-MontpellierHerault_V_SaleSharks.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-MontpellierHerault_V_SaleSharks.png" width="32%" />
-<img src="plots/spreads_2024-05-24-MontpellierHerault_V_SaleSharks.png" width="32%" />
-</p>
-
-### Gloucester Rugby V Montpellier Herault on 2024/05/04
-
-
-Average Margin: Gloucester Rugby by 2.0
-
-<p float="left">
-<img src="plots/performances_2024-05-24-GloucesterRugby_V_MontpellierHerault.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-GloucesterRugby_V_MontpellierHerault.png" width="32%" />
-<img src="plots/spreads_2024-05-24-GloucesterRugby_V_MontpellierHerault.png" width="32%" />
-</p>
-
-### Benetton Treviso V Ospreys on 2024/05/04
-
-
-Average Margin: Benetton Treviso by 4.1
-
-<p float="left">
-<img src="plots/performances_2024-04-13-BenettonTreviso_V_Ospreys.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-BenettonTreviso_V_Ospreys.png" width="32%" />
-<img src="plots/spreads_2024-04-13-BenettonTreviso_V_Ospreys.png" width="32%" />
-</p>
-
-### Montpellier Herault V Connacht on 2024/05/04
-
-
-Average Margin: Montpellier Herault by 2.5
-
-<p float="left">
-<img src="plots/performances_2024-05-24-MontpellierHerault_V_Connacht.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-MontpellierHerault_V_Connacht.png" width="32%" />
-<img src="plots/spreads_2024-05-24-MontpellierHerault_V_Connacht.png" width="32%" />
-</p>
-
-### Sharks V Pau on 2024/05/04
-
-
-Average Margin: Sharks by 3.5
-
-<p float="left">
-<img src="plots/performances_2024-05-04-Sharks_V_Pau.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-Sharks_V_Pau.png" width="32%" />
-<img src="plots/spreads_2024-05-04-Sharks_V_Pau.png" width="32%" />
-</p>
-
 ### Montpellier Herault V Clermont Auvergne on 2024/05/04
 
 
-Average Margin: Montpellier Herault by 3.4
+Average Margin: Montpellier Herault by 3.7
 
 <p float="left">
 <img src="plots/performances_2024-04-13-MontpellierHerault_V_ClermontAuvergne.png" width="32%" />
@@ -1322,287 +1278,10 @@ Average Margin: Montpellier Herault by 3.4
 <img src="plots/spreads_2024-04-13-MontpellierHerault_V_ClermontAuvergne.png" width="32%" />
 </p>
 
-### Clermont Auvergne V Edinburgh on 2024/05/04
+### Benetton Treviso V Sale Sharks on 2024/05/04
 
 
-Average Margin: Clermont Auvergne by 3.3
-
-<p float="left">
-<img src="plots/performances_2024-04-13-ClermontAuvergne_V_Edinburgh.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-ClermontAuvergne_V_Edinburgh.png" width="32%" />
-<img src="plots/spreads_2024-04-13-ClermontAuvergne_V_Edinburgh.png" width="32%" />
-</p>
-
-### Gloucester Rugby V Sharks on 2024/05/04
-
-
-Average Margin: Gloucester Rugby by 3.1
-
-<p float="left">
-<img src="plots/performances_2024-05-04-GloucesterRugby_V_Sharks.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-GloucesterRugby_V_Sharks.png" width="32%" />
-<img src="plots/spreads_2024-05-04-GloucesterRugby_V_Sharks.png" width="32%" />
-</p>
-
-### Clermont Auvergne V Pau on 2024/05/04
-
-
-Average Margin: Clermont Auvergne by 4.0
-
-<p float="left">
-<img src="plots/performances_2024-05-24-ClermontAuvergne_V_Pau.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-ClermontAuvergne_V_Pau.png" width="32%" />
-<img src="plots/spreads_2024-05-24-ClermontAuvergne_V_Pau.png" width="32%" />
-</p>
-
-### Gloucester Rugby V Connacht on 2024/05/04
-
-
-Average Margin: Gloucester Rugby by 3.1
-
-<p float="left">
-<img src="plots/performances_2024-05-04-GloucesterRugby_V_Connacht.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-GloucesterRugby_V_Connacht.png" width="32%" />
-<img src="plots/spreads_2024-05-04-GloucesterRugby_V_Connacht.png" width="32%" />
-</p>
-
-### Benetton Treviso V Montpellier Herault on 2024/05/04
-
-
-Average Margin: Benetton Treviso by 1.0
-
-<p float="left">
-<img src="plots/performances_2024-05-04-BenettonTreviso_V_MontpellierHerault.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-BenettonTreviso_V_MontpellierHerault.png" width="32%" />
-<img src="plots/spreads_2024-05-04-BenettonTreviso_V_MontpellierHerault.png" width="32%" />
-</p>
-
-### Pau V Ulster on 2024/05/04
-
-
-Average Margin: Ulster by 0.8
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Pau_V_Ulster.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Pau_V_Ulster.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Pau_V_Ulster.png" width="32%" />
-</p>
-
-### Clermont Auvergne V Ulster on 2024/05/04
-
-
-Average Margin: Clermont Auvergne by 2.7
-
-<p float="left">
-<img src="plots/performances_2024-04-13-ClermontAuvergne_V_Ulster.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-ClermontAuvergne_V_Ulster.png" width="32%" />
-<img src="plots/spreads_2024-04-13-ClermontAuvergne_V_Ulster.png" width="32%" />
-</p>
-
-### Ospreys V Clermont Auvergne on 2024/05/04
-
-
-Average Margin: Ospreys by 1.3
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Ospreys_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Ospreys_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Ospreys_V_ClermontAuvergne.png" width="32%" />
-</p>
-
-### Clermont Auvergne V Castres Olympique on 2024/05/04
-
-
-Average Margin: Clermont Auvergne by 4.0
-
-<p float="left">
-<img src="plots/performances_2024-05-04-ClermontAuvergne_V_CastresOlympique.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-ClermontAuvergne_V_CastresOlympique.png" width="32%" />
-<img src="plots/spreads_2024-05-04-ClermontAuvergne_V_CastresOlympique.png" width="32%" />
-</p>
-
-### Ospreys V Pau on 2024/05/04
-
-
-Average Margin: Ospreys by 2.8
-
-<p float="left">
-<img src="plots/performances_2024-05-04-Ospreys_V_Pau.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-Ospreys_V_Pau.png" width="32%" />
-<img src="plots/spreads_2024-05-04-Ospreys_V_Pau.png" width="32%" />
-</p>
-
-### Montpellier Herault V Edinburgh on 2024/05/04
-
-
-Average Margin: Montpellier Herault by 3.2
-
-<p float="left">
-<img src="plots/performances_2024-05-04-MontpellierHerault_V_Edinburgh.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-MontpellierHerault_V_Edinburgh.png" width="32%" />
-<img src="plots/spreads_2024-05-04-MontpellierHerault_V_Edinburgh.png" width="32%" />
-</p>
-
-## Finals
-
-### Benetton Treviso V Pau on 2024/05/24
-
-
-Average Margin: Benetton Treviso by 3.4
-
-<p float="left">
-<img src="plots/performances_2024-05-04-BenettonTreviso_V_Pau.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-BenettonTreviso_V_Pau.png" width="32%" />
-<img src="plots/spreads_2024-05-04-BenettonTreviso_V_Pau.png" width="32%" />
-</p>
-
-### Montpellier Herault V Clermont Auvergne on 2024/05/24
-
-
-Average Margin: Montpellier Herault by 3.4
-
-<p float="left">
-<img src="plots/performances_2024-04-13-MontpellierHerault_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-MontpellierHerault_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/spreads_2024-04-13-MontpellierHerault_V_ClermontAuvergne.png" width="32%" />
-</p>
-
-### Pau V Clermont Auvergne on 2024/05/24
-
-
-Average Margin: Pau by 1.0
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Pau_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Pau_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Pau_V_ClermontAuvergne.png" width="32%" />
-</p>
-
-### Ulster V Sale Sharks on 2024/05/24
-
-
-Average Margin: Ulster by 2.4
-
-<p float="left">
-<img src="plots/performances_2024-05-04-Ulster_V_SaleSharks.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-Ulster_V_SaleSharks.png" width="32%" />
-<img src="plots/spreads_2024-05-04-Ulster_V_SaleSharks.png" width="32%" />
-</p>
-
-### Clermont Auvergne V Ulster on 2024/05/24
-
-
-Average Margin: Clermont Auvergne by 2.7
-
-<p float="left">
-<img src="plots/performances_2024-04-13-ClermontAuvergne_V_Ulster.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-ClermontAuvergne_V_Ulster.png" width="32%" />
-<img src="plots/spreads_2024-04-13-ClermontAuvergne_V_Ulster.png" width="32%" />
-</p>
-
-### Clermont Auvergne V Montpellier Herault on 2024/05/24
-
-
-Average Margin: Clermont Auvergne by 2.5
-
-<p float="left">
-<img src="plots/performances_2024-05-24-ClermontAuvergne_V_MontpellierHerault.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-ClermontAuvergne_V_MontpellierHerault.png" width="32%" />
-<img src="plots/spreads_2024-05-24-ClermontAuvergne_V_MontpellierHerault.png" width="32%" />
-</p>
-
-### Benetton Treviso V Ospreys on 2024/05/24
-
-
-Average Margin: Benetton Treviso by 4.1
-
-<p float="left">
-<img src="plots/performances_2024-04-13-BenettonTreviso_V_Ospreys.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-BenettonTreviso_V_Ospreys.png" width="32%" />
-<img src="plots/spreads_2024-04-13-BenettonTreviso_V_Ospreys.png" width="32%" />
-</p>
-
-### Montpellier Herault V Ospreys on 2024/05/24
-
-
-Average Margin: Montpellier Herault by 5.4
-
-<p float="left">
-<img src="plots/performances_2024-04-13-MontpellierHerault_V_Ospreys.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-MontpellierHerault_V_Ospreys.png" width="32%" />
-<img src="plots/spreads_2024-04-13-MontpellierHerault_V_Ospreys.png" width="32%" />
-</p>
-
-### Gloucester Rugby V Ulster on 2024/05/24
-
-
-Average Margin: Gloucester Rugby by 1.5
-
-<p float="left">
-<img src="plots/performances_2024-05-04-GloucesterRugby_V_Ulster.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-GloucesterRugby_V_Ulster.png" width="32%" />
-<img src="plots/spreads_2024-05-04-GloucesterRugby_V_Ulster.png" width="32%" />
-</p>
-
-### Clermont Auvergne V Sale Sharks on 2024/05/24
-
-
-Average Margin: Clermont Auvergne by 2.2
-
-<p float="left">
-<img src="plots/performances_2024-05-04-ClermontAuvergne_V_SaleSharks.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-ClermontAuvergne_V_SaleSharks.png" width="32%" />
-<img src="plots/spreads_2024-05-04-ClermontAuvergne_V_SaleSharks.png" width="32%" />
-</p>
-
-### Montpellier Herault V Gloucester Rugby on 2024/05/24
-
-
-Average Margin: Montpellier Herault by 0.3
-
-<p float="left">
-<img src="plots/performances_2024-05-24-MontpellierHerault_V_GloucesterRugby.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-MontpellierHerault_V_GloucesterRugby.png" width="32%" />
-<img src="plots/spreads_2024-05-24-MontpellierHerault_V_GloucesterRugby.png" width="32%" />
-</p>
-
-### Pau V Sale Sharks on 2024/05/24
-
-
-Average Margin: Sale Sharks by 0.5
-
-<p float="left">
-<img src="plots/performances_2024-05-24-Pau_V_SaleSharks.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-Pau_V_SaleSharks.png" width="32%" />
-<img src="plots/spreads_2024-05-24-Pau_V_SaleSharks.png" width="32%" />
-</p>
-
-### Clermont Auvergne V Connacht on 2024/05/24
-
-
-Average Margin: Clermont Auvergne by 3.3
-
-<p float="left">
-<img src="plots/performances_2024-05-04-ClermontAuvergne_V_Connacht.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-ClermontAuvergne_V_Connacht.png" width="32%" />
-<img src="plots/spreads_2024-05-04-ClermontAuvergne_V_Connacht.png" width="32%" />
-</p>
-
-### Gloucester Rugby V Sale Sharks on 2024/05/24
-
-
-Average Margin: Gloucester Rugby by 2.1
-
-<p float="left">
-<img src="plots/performances_2024-04-13-GloucesterRugby_V_SaleSharks.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-GloucesterRugby_V_SaleSharks.png" width="32%" />
-<img src="plots/spreads_2024-04-13-GloucesterRugby_V_SaleSharks.png" width="32%" />
-</p>
-
-### Benetton Treviso V Sale Sharks on 2024/05/24
-
-
-Average Margin: Benetton Treviso by 0.4
+Average Margin: Sale Sharks by 0.0
 
 <p float="left">
 <img src="plots/performances_2024-04-13-BenettonTreviso_V_SaleSharks.png" width="32%" />
@@ -1610,246 +1289,149 @@ Average Margin: Benetton Treviso by 0.4
 <img src="plots/spreads_2024-04-13-BenettonTreviso_V_SaleSharks.png" width="32%" />
 </p>
 
-### Ospreys V Edinburgh on 2024/05/24
+### Sharks V Ulster on 2024/05/04
 
 
-Average Margin: Ospreys by 1.2
-
-<p float="left">
-<img src="plots/performances_2024-05-24-Ospreys_V_Edinburgh.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-Ospreys_V_Edinburgh.png" width="32%" />
-<img src="plots/spreads_2024-05-24-Ospreys_V_Edinburgh.png" width="32%" />
-</p>
-
-### Montpellier Herault V Sharks on 2024/05/24
-
-
-Average Margin: Montpellier Herault by 2.1
+Average Margin: Sharks by 0.9
 
 <p float="left">
-<img src="plots/performances_2024-05-24-MontpellierHerault_V_Sharks.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-MontpellierHerault_V_Sharks.png" width="32%" />
-<img src="plots/spreads_2024-05-24-MontpellierHerault_V_Sharks.png" width="32%" />
+<img src="plots/performances_2024-05-04-Sharks_V_Ulster.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-Sharks_V_Ulster.png" width="32%" />
+<img src="plots/spreads_2024-05-04-Sharks_V_Ulster.png" width="32%" />
 </p>
 
-### Gloucester Rugby V Clermont Auvergne on 2024/05/24
+### Montpellier Herault V Edinburgh on 2024/05/04
 
 
-Average Margin: Gloucester Rugby by 2.2
+Average Margin: Montpellier Herault by 3.4
 
 <p float="left">
-<img src="plots/performances_2024-05-24-GloucesterRugby_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-GloucesterRugby_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/spreads_2024-05-24-GloucesterRugby_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/performances_2024-05-04-MontpellierHerault_V_Edinburgh.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-MontpellierHerault_V_Edinburgh.png" width="32%" />
+<img src="plots/spreads_2024-05-04-MontpellierHerault_V_Edinburgh.png" width="32%" />
 </p>
 
-### Sharks V Castres Olympique on 2024/05/24
+### Pau V Clermont Auvergne on 2024/05/04
 
 
-Average Margin: Sharks by 1.2
+Average Margin: Pau by 1.7
 
 <p float="left">
-<img src="plots/performances_2024-04-13-Sharks_V_CastresOlympique.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Sharks_V_CastresOlympique.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Sharks_V_CastresOlympique.png" width="32%" />
+<img src="plots/performances_2024-04-13-Pau_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Pau_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Pau_V_ClermontAuvergne.png" width="32%" />
 </p>
 
-### Gloucester Rugby V Montpellier Herault on 2024/05/24
+### Benetton Treviso V Montpellier Herault on 2024/05/04
 
 
-Average Margin: Gloucester Rugby by 2.0
+Average Margin: Benetton Treviso by 1.2
 
 <p float="left">
-<img src="plots/performances_2024-05-24-GloucesterRugby_V_MontpellierHerault.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-GloucesterRugby_V_MontpellierHerault.png" width="32%" />
-<img src="plots/spreads_2024-05-24-GloucesterRugby_V_MontpellierHerault.png" width="32%" />
+<img src="plots/performances_2024-05-24-BenettonTreviso_V_MontpellierHerault.png" width="32%" />
+<img src="plots/resultbar_2024-05-24-BenettonTreviso_V_MontpellierHerault.png" width="32%" />
+<img src="plots/spreads_2024-05-24-BenettonTreviso_V_MontpellierHerault.png" width="32%" />
 </p>
 
-### Pau V Montpellier Herault on 2024/05/24
+### Pau V Sale Sharks on 2024/05/04
 
 
-Average Margin: Pau by 1.2
+Average Margin: Sale Sharks by 0.8
 
 <p float="left">
-<img src="plots/performances_2024-04-13-Pau_V_MontpellierHerault.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Pau_V_MontpellierHerault.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Pau_V_MontpellierHerault.png" width="32%" />
+<img src="plots/performances_2024-05-04-Pau_V_SaleSharks.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-Pau_V_SaleSharks.png" width="32%" />
+<img src="plots/spreads_2024-05-04-Pau_V_SaleSharks.png" width="32%" />
 </p>
 
-### Sharks V Clermont Auvergne on 2024/05/24
+### Gloucester Rugby V Connacht on 2024/05/04
 
 
-Average Margin: Sharks by 1.9
+Average Margin: Gloucester Rugby by 3.0
 
 <p float="left">
-<img src="plots/performances_2024-05-04-Sharks_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-Sharks_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/spreads_2024-05-04-Sharks_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/performances_2024-05-04-GloucesterRugby_V_Connacht.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-GloucesterRugby_V_Connacht.png" width="32%" />
+<img src="plots/spreads_2024-05-04-GloucesterRugby_V_Connacht.png" width="32%" />
 </p>
 
-### Ospreys V Clermont Auvergne on 2024/05/24
+### Gloucester Rugby V Pau on 2024/05/04
 
 
-Average Margin: Ospreys by 1.3
+Average Margin: Gloucester Rugby by 4.9
 
 <p float="left">
-<img src="plots/performances_2024-04-13-Ospreys_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Ospreys_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Ospreys_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/performances_2024-05-04-GloucesterRugby_V_Pau.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-GloucesterRugby_V_Pau.png" width="32%" />
+<img src="plots/spreads_2024-05-04-GloucesterRugby_V_Pau.png" width="32%" />
 </p>
 
-### Gloucester Rugby V Sharks on 2024/05/24
+### Benetton Treviso V Ospreys on 2024/05/04
 
 
-Average Margin: Gloucester Rugby by 3.1
+Average Margin: Benetton Treviso by 3.9
 
 <p float="left">
-<img src="plots/performances_2024-05-04-GloucesterRugby_V_Sharks.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-GloucesterRugby_V_Sharks.png" width="32%" />
-<img src="plots/spreads_2024-05-04-GloucesterRugby_V_Sharks.png" width="32%" />
+<img src="plots/performances_2024-04-13-BenettonTreviso_V_Ospreys.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-BenettonTreviso_V_Ospreys.png" width="32%" />
+<img src="plots/spreads_2024-04-13-BenettonTreviso_V_Ospreys.png" width="32%" />
 </p>
 
-### Montpellier Herault V Pau on 2024/05/24
+### Gloucester Rugby V Edinburgh on 2024/05/04
 
 
-Average Margin: Montpellier Herault by 5.6
+Average Margin: Gloucester Rugby by 3.4
 
 <p float="left">
-<img src="plots/performances_2024-05-04-MontpellierHerault_V_Pau.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-MontpellierHerault_V_Pau.png" width="32%" />
-<img src="plots/spreads_2024-05-04-MontpellierHerault_V_Pau.png" width="32%" />
+<img src="plots/performances_2024-04-13-GloucesterRugby_V_Edinburgh.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-GloucesterRugby_V_Edinburgh.png" width="32%" />
+<img src="plots/spreads_2024-04-13-GloucesterRugby_V_Edinburgh.png" width="32%" />
 </p>
 
-### Pau V Ulster on 2024/05/24
+### Sharks V Lions on 2024/05/04
 
 
-Average Margin: Ulster by 0.8
+Average Margin: Sharks by 0.1
 
 <p float="left">
-<img src="plots/performances_2024-04-13-Pau_V_Ulster.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Pau_V_Ulster.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Pau_V_Ulster.png" width="32%" />
+<img src="plots/performances_2024-05-04-Sharks_V_Lions.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-Sharks_V_Lions.png" width="32%" />
+<img src="plots/spreads_2024-05-04-Sharks_V_Lions.png" width="32%" />
 </p>
 
-### Sharks V Connacht on 2024/05/24
+## Finals
+
+### Gloucester Rugby V Sale Sharks on 2024/05/24
 
 
-Average Margin: Sharks by 2.5
+Average Margin: Gloucester Rugby by 1.7
 
 <p float="left">
-<img src="plots/performances_2024-04-13-Sharks_V_Connacht.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Sharks_V_Connacht.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Sharks_V_Connacht.png" width="32%" />
+<img src="plots/performances_2024-04-13-GloucesterRugby_V_SaleSharks.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-GloucesterRugby_V_SaleSharks.png" width="32%" />
+<img src="plots/spreads_2024-04-13-GloucesterRugby_V_SaleSharks.png" width="32%" />
 </p>
 
-### Benetton Treviso V Ulster on 2024/05/24
-
-
-Average Margin: Ulster by 0.2
-
-<p float="left">
-<img src="plots/performances_2024-04-13-BenettonTreviso_V_Ulster.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-BenettonTreviso_V_Ulster.png" width="32%" />
-<img src="plots/spreads_2024-04-13-BenettonTreviso_V_Ulster.png" width="32%" />
-</p>
-
-### Clermont Auvergne V Bayonne on 2024/05/24
+### Clermont Auvergne V Lions on 2024/05/24
 
 
 Average Margin: Clermont Auvergne by 4.3
 
 <p float="left">
-<img src="plots/performances_2024-04-13-ClermontAuvergne_V_Bayonne.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-ClermontAuvergne_V_Bayonne.png" width="32%" />
-<img src="plots/spreads_2024-04-13-ClermontAuvergne_V_Bayonne.png" width="32%" />
+<img src="plots/performances_2024-05-24-ClermontAuvergne_V_Lions.png" width="32%" />
+<img src="plots/resultbar_2024-05-24-ClermontAuvergne_V_Lions.png" width="32%" />
+<img src="plots/spreads_2024-05-24-ClermontAuvergne_V_Lions.png" width="32%" />
 </p>
 
-### Clermont Auvergne V Benetton Treviso on 2024/05/24
+### Benetton Treviso V Edinburgh on 2024/05/24
 
 
-Average Margin: Clermont Auvergne by 0.2
-
-<p float="left">
-<img src="plots/performances_2024-05-24-ClermontAuvergne_V_BenettonTreviso.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-ClermontAuvergne_V_BenettonTreviso.png" width="32%" />
-<img src="plots/spreads_2024-05-24-ClermontAuvergne_V_BenettonTreviso.png" width="32%" />
-</p>
-
-### Ospreys V Gloucester Rugby on 2024/05/24
-
-
-Average Margin: Gloucester Rugby by 2.8
+Average Margin: Benetton Treviso by 2.2
 
 <p float="left">
-<img src="plots/performances_2024-05-24-Ospreys_V_GloucesterRugby.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-Ospreys_V_GloucesterRugby.png" width="32%" />
-<img src="plots/spreads_2024-05-24-Ospreys_V_GloucesterRugby.png" width="32%" />
-</p>
-
-### Clermont Auvergne V Sharks on 2024/05/24
-
-
-Average Margin: Clermont Auvergne by 3.9
-
-<p float="left">
-<img src="plots/performances_2024-05-04-ClermontAuvergne_V_Sharks.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-ClermontAuvergne_V_Sharks.png" width="32%" />
-<img src="plots/spreads_2024-05-04-ClermontAuvergne_V_Sharks.png" width="32%" />
-</p>
-
-### Montpellier Herault V Connacht on 2024/05/24
-
-
-Average Margin: Montpellier Herault by 2.5
-
-<p float="left">
-<img src="plots/performances_2024-05-24-MontpellierHerault_V_Connacht.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-MontpellierHerault_V_Connacht.png" width="32%" />
-<img src="plots/spreads_2024-05-24-MontpellierHerault_V_Connacht.png" width="32%" />
-</p>
-
-### Sharks V Pau on 2024/05/24
-
-
-Average Margin: Sharks by 3.5
-
-<p float="left">
-<img src="plots/performances_2024-05-04-Sharks_V_Pau.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-Sharks_V_Pau.png" width="32%" />
-<img src="plots/spreads_2024-05-04-Sharks_V_Pau.png" width="32%" />
-</p>
-
-### Montpellier Herault V Lions on 2024/05/24
-
-
-Average Margin: Montpellier Herault by 4.5
-
-<p float="left">
-<img src="plots/performances_2024-04-13-MontpellierHerault_V_Lions.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-MontpellierHerault_V_Lions.png" width="32%" />
-<img src="plots/spreads_2024-04-13-MontpellierHerault_V_Lions.png" width="32%" />
-</p>
-
-### Gloucester Rugby V Pau on 2024/05/24
-
-
-Average Margin: Gloucester Rugby by 4.7
-
-<p float="left">
-<img src="plots/performances_2024-05-24-GloucesterRugby_V_Pau.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-GloucesterRugby_V_Pau.png" width="32%" />
-<img src="plots/spreads_2024-05-24-GloucesterRugby_V_Pau.png" width="32%" />
-</p>
-
-### Gloucester Rugby V Ospreys on 2024/05/24
-
-
-Average Margin: Gloucester Rugby by 5.1
-
-<p float="left">
-<img src="plots/performances_2024-04-13-GloucesterRugby_V_Ospreys.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-GloucesterRugby_V_Ospreys.png" width="32%" />
-<img src="plots/spreads_2024-04-13-GloucesterRugby_V_Ospreys.png" width="32%" />
+<img src="plots/performances_2024-04-13-BenettonTreviso_V_Edinburgh.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-BenettonTreviso_V_Edinburgh.png" width="32%" />
+<img src="plots/spreads_2024-04-13-BenettonTreviso_V_Edinburgh.png" width="32%" />
 </p>
 
 ### Benetton Treviso V Clermont Auvergne on 2024/05/24
@@ -1863,120 +1445,10 @@ Average Margin: Clermont Auvergne by 1.2
 <img src="plots/spreads_2024-05-24-BenettonTreviso_V_ClermontAuvergne.png" width="32%" />
 </p>
 
-### Clermont Auvergne V Lions on 2024/05/24
-
-
-Average Margin: Clermont Auvergne by 4.2
-
-<p float="left">
-<img src="plots/performances_2024-04-13-ClermontAuvergne_V_Lions.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-ClermontAuvergne_V_Lions.png" width="32%" />
-<img src="plots/spreads_2024-04-13-ClermontAuvergne_V_Lions.png" width="32%" />
-</p>
-
-### Sharks V Ospreys on 2024/05/24
-
-
-Average Margin: Sharks by 4.0
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Sharks_V_Ospreys.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Sharks_V_Ospreys.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Sharks_V_Ospreys.png" width="32%" />
-</p>
-
-### Montpellier Herault V Sale Sharks on 2024/05/24
-
-
-Average Margin: Montpellier Herault by 1.9
-
-<p float="left">
-<img src="plots/performances_2024-05-24-MontpellierHerault_V_SaleSharks.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-MontpellierHerault_V_SaleSharks.png" width="32%" />
-<img src="plots/spreads_2024-05-24-MontpellierHerault_V_SaleSharks.png" width="32%" />
-</p>
-
-### Sharks V Sale Sharks on 2024/05/24
-
-
-Average Margin: Sale Sharks by 0.1
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Sharks_V_SaleSharks.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Sharks_V_SaleSharks.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Sharks_V_SaleSharks.png" width="32%" />
-</p>
-
-### Clermont Auvergne V Pau on 2024/05/24
-
-
-Average Margin: Clermont Auvergne by 4.0
-
-<p float="left">
-<img src="plots/performances_2024-05-24-ClermontAuvergne_V_Pau.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-ClermontAuvergne_V_Pau.png" width="32%" />
-<img src="plots/spreads_2024-05-24-ClermontAuvergne_V_Pau.png" width="32%" />
-</p>
-
-### Benetton Treviso V Sharks on 2024/05/24
-
-
-Average Margin: Benetton Treviso by 3.5
-
-<p float="left">
-<img src="plots/performances_2024-05-24-BenettonTreviso_V_Sharks.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-BenettonTreviso_V_Sharks.png" width="32%" />
-<img src="plots/spreads_2024-05-24-BenettonTreviso_V_Sharks.png" width="32%" />
-</p>
-
-### Benetton Treviso V Connacht on 2024/05/24
-
-
-Average Margin: Benetton Treviso by 2.0
-
-<p float="left">
-<img src="plots/performances_2024-04-13-BenettonTreviso_V_Connacht.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-BenettonTreviso_V_Connacht.png" width="32%" />
-<img src="plots/spreads_2024-04-13-BenettonTreviso_V_Connacht.png" width="32%" />
-</p>
-
-### Sharks V Ulster on 2024/05/24
-
-
-Average Margin: Sharks by 0.4
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Sharks_V_Ulster.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Sharks_V_Ulster.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Sharks_V_Ulster.png" width="32%" />
-</p>
-
-### Clermont Auvergne V Edinburgh on 2024/05/24
-
-
-Average Margin: Clermont Auvergne by 3.3
-
-<p float="left">
-<img src="plots/performances_2024-04-13-ClermontAuvergne_V_Edinburgh.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-ClermontAuvergne_V_Edinburgh.png" width="32%" />
-<img src="plots/spreads_2024-04-13-ClermontAuvergne_V_Edinburgh.png" width="32%" />
-</p>
-
-### Gloucester Rugby V Edinburgh on 2024/05/24
-
-
-Average Margin: Gloucester Rugby by 3.5
-
-<p float="left">
-<img src="plots/performances_2024-04-13-GloucesterRugby_V_Edinburgh.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-GloucesterRugby_V_Edinburgh.png" width="32%" />
-<img src="plots/spreads_2024-04-13-GloucesterRugby_V_Edinburgh.png" width="32%" />
-</p>
-
 ### Sharks V Lions on 2024/05/24
 
 
-Average Margin: Sharks by 0.2
+Average Margin: Sharks by 0.1
 
 <p float="left">
 <img src="plots/performances_2024-05-04-Sharks_V_Lions.png" width="32%" />
@@ -1984,10 +1456,175 @@ Average Margin: Sharks by 0.2
 <img src="plots/spreads_2024-05-04-Sharks_V_Lions.png" width="32%" />
 </p>
 
+### Gloucester Rugby V Ospreys on 2024/05/24
+
+
+Average Margin: Gloucester Rugby by 4.4
+
+<p float="left">
+<img src="plots/performances_2024-04-13-GloucesterRugby_V_Ospreys.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-GloucesterRugby_V_Ospreys.png" width="32%" />
+<img src="plots/spreads_2024-04-13-GloucesterRugby_V_Ospreys.png" width="32%" />
+</p>
+
+### Gloucester Rugby V Clermont Auvergne on 2024/05/24
+
+
+Average Margin: Gloucester Rugby by 2.6
+
+<p float="left">
+<img src="plots/performances_2024-05-04-GloucesterRugby_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-GloucesterRugby_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/spreads_2024-05-04-GloucesterRugby_V_ClermontAuvergne.png" width="32%" />
+</p>
+
+### Benetton Treviso V Castres Olympique on 2024/05/24
+
+
+Average Margin: Benetton Treviso by 2.1
+
+<p float="left">
+<img src="plots/performances_2024-04-13-BenettonTreviso_V_CastresOlympique.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-BenettonTreviso_V_CastresOlympique.png" width="32%" />
+<img src="plots/spreads_2024-04-13-BenettonTreviso_V_CastresOlympique.png" width="32%" />
+</p>
+
+### Sharks V Pau on 2024/05/24
+
+
+Average Margin: Sharks by 3.9
+
+<p float="left">
+<img src="plots/performances_2024-05-04-Sharks_V_Pau.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-Sharks_V_Pau.png" width="32%" />
+<img src="plots/spreads_2024-05-04-Sharks_V_Pau.png" width="32%" />
+</p>
+
+### Montpellier Herault V Gloucester Rugby on 2024/05/24
+
+
+Average Margin: Gloucester Rugby by 0.2
+
+<p float="left">
+<img src="plots/performances_2024-05-24-MontpellierHerault_V_GloucesterRugby.png" width="32%" />
+<img src="plots/resultbar_2024-05-24-MontpellierHerault_V_GloucesterRugby.png" width="32%" />
+<img src="plots/spreads_2024-05-24-MontpellierHerault_V_GloucesterRugby.png" width="32%" />
+</p>
+
+### Benetton Treviso V Ulster on 2024/05/24
+
+
+Average Margin: Benetton Treviso by 0.6
+
+<p float="left">
+<img src="plots/performances_2024-05-04-BenettonTreviso_V_Ulster.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-BenettonTreviso_V_Ulster.png" width="32%" />
+<img src="plots/spreads_2024-05-04-BenettonTreviso_V_Ulster.png" width="32%" />
+</p>
+
+### Benetton Treviso V Connacht on 2024/05/24
+
+
+Average Margin: Benetton Treviso by 2.9
+
+<p float="left">
+<img src="plots/performances_2024-04-13-BenettonTreviso_V_Connacht.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-BenettonTreviso_V_Connacht.png" width="32%" />
+<img src="plots/spreads_2024-04-13-BenettonTreviso_V_Connacht.png" width="32%" />
+</p>
+
+### Sharks V Connacht on 2024/05/24
+
+
+Average Margin: Sharks by 2.0
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Sharks_V_Connacht.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Sharks_V_Connacht.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Sharks_V_Connacht.png" width="32%" />
+</p>
+
+### Clermont Auvergne V Montpellier Herault on 2024/05/24
+
+
+Average Margin: Clermont Auvergne by 3.3
+
+<p float="left">
+<img src="plots/performances_2024-05-04-ClermontAuvergne_V_MontpellierHerault.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-ClermontAuvergne_V_MontpellierHerault.png" width="32%" />
+<img src="plots/spreads_2024-05-04-ClermontAuvergne_V_MontpellierHerault.png" width="32%" />
+</p>
+
+### Gloucester Rugby V Montpellier Herault on 2024/05/24
+
+
+Average Margin: Gloucester Rugby by 2.4
+
+<p float="left">
+<img src="plots/performances_2024-05-04-GloucesterRugby_V_MontpellierHerault.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-GloucesterRugby_V_MontpellierHerault.png" width="32%" />
+<img src="plots/spreads_2024-05-04-GloucesterRugby_V_MontpellierHerault.png" width="32%" />
+</p>
+
+### Ulster V Connacht on 2024/05/24
+
+
+Average Margin: Ulster by 1.7
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Ulster_V_Connacht.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Ulster_V_Connacht.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Ulster_V_Connacht.png" width="32%" />
+</p>
+
+### Connacht V Sale Sharks on 2024/05/24
+
+
+Average Margin: Connacht by 2.8
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Connacht_V_SaleSharks.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Connacht_V_SaleSharks.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Connacht_V_SaleSharks.png" width="32%" />
+</p>
+
+### Montpellier Herault V Pau on 2024/05/24
+
+
+Average Margin: Montpellier Herault by 5.5
+
+<p float="left">
+<img src="plots/performances_2024-05-24-MontpellierHerault_V_Pau.png" width="32%" />
+<img src="plots/resultbar_2024-05-24-MontpellierHerault_V_Pau.png" width="32%" />
+<img src="plots/spreads_2024-05-24-MontpellierHerault_V_Pau.png" width="32%" />
+</p>
+
+### Clermont Auvergne V Connacht on 2024/05/24
+
+
+Average Margin: Clermont Auvergne by 2.7
+
+<p float="left">
+<img src="plots/performances_2024-04-13-ClermontAuvergne_V_Connacht.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-ClermontAuvergne_V_Connacht.png" width="32%" />
+<img src="plots/spreads_2024-04-13-ClermontAuvergne_V_Connacht.png" width="32%" />
+</p>
+
+### Clermont Auvergne V Sharks on 2024/05/24
+
+
+Average Margin: Clermont Auvergne by 3.2
+
+<p float="left">
+<img src="plots/performances_2024-05-04-ClermontAuvergne_V_Sharks.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-ClermontAuvergne_V_Sharks.png" width="32%" />
+<img src="plots/spreads_2024-05-04-ClermontAuvergne_V_Sharks.png" width="32%" />
+</p>
+
 ### Gloucester Rugby V Benetton Treviso on 2024/05/24
 
 
-Average Margin: Gloucester Rugby by 0.8
+Average Margin: Gloucester Rugby by 1.5
 
 <p float="left">
 <img src="plots/performances_2024-05-24-GloucesterRugby_V_BenettonTreviso.png" width="32%" />
@@ -1995,54 +1632,10 @@ Average Margin: Gloucester Rugby by 0.8
 <img src="plots/spreads_2024-05-24-GloucesterRugby_V_BenettonTreviso.png" width="32%" />
 </p>
 
-### Montpellier Herault V Edinburgh on 2024/05/24
-
-
-Average Margin: Montpellier Herault by 3.2
-
-<p float="left">
-<img src="plots/performances_2024-05-04-MontpellierHerault_V_Edinburgh.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-MontpellierHerault_V_Edinburgh.png" width="32%" />
-<img src="plots/spreads_2024-05-04-MontpellierHerault_V_Edinburgh.png" width="32%" />
-</p>
-
-### Clermont Auvergne V Ospreys on 2024/05/24
-
-
-Average Margin: Clermont Auvergne by 6.0
-
-<p float="left">
-<img src="plots/performances_2024-04-13-ClermontAuvergne_V_Ospreys.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-ClermontAuvergne_V_Ospreys.png" width="32%" />
-<img src="plots/spreads_2024-04-13-ClermontAuvergne_V_Ospreys.png" width="32%" />
-</p>
-
-### Sharks V Montpellier Herault on 2024/05/24
-
-
-Average Margin: Sharks by 0.8
-
-<p float="left">
-<img src="plots/performances_2024-05-04-Sharks_V_MontpellierHerault.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-Sharks_V_MontpellierHerault.png" width="32%" />
-<img src="plots/spreads_2024-05-04-Sharks_V_MontpellierHerault.png" width="32%" />
-</p>
-
-### Sharks V Edinburgh on 2024/05/24
-
-
-Average Margin: Sharks by 2.0
-
-<p float="left">
-<img src="plots/performances_2024-04-13-Sharks_V_Edinburgh.png" width="32%" />
-<img src="plots/resultbar_2024-04-13-Sharks_V_Edinburgh.png" width="32%" />
-<img src="plots/spreads_2024-04-13-Sharks_V_Edinburgh.png" width="32%" />
-</p>
-
 ### Gloucester Rugby V Connacht on 2024/05/24
 
 
-Average Margin: Gloucester Rugby by 3.1
+Average Margin: Gloucester Rugby by 3.0
 
 <p float="left">
 <img src="plots/performances_2024-05-04-GloucesterRugby_V_Connacht.png" width="32%" />
@@ -2050,15 +1643,389 @@ Average Margin: Gloucester Rugby by 3.1
 <img src="plots/spreads_2024-05-04-GloucesterRugby_V_Connacht.png" width="32%" />
 </p>
 
+### Sharks V Cheetahs on 2024/05/24
+
+
+Average Margin: Sharks by 7.3
+
+<p float="left">
+<img src="plots/performances_2024-05-04-Sharks_V_Cheetahs.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-Sharks_V_Cheetahs.png" width="32%" />
+<img src="plots/spreads_2024-05-04-Sharks_V_Cheetahs.png" width="32%" />
+</p>
+
 ### Benetton Treviso V Montpellier Herault on 2024/05/24
 
 
-Average Margin: Benetton Treviso by 1.0
+Average Margin: Benetton Treviso by 1.2
 
 <p float="left">
-<img src="plots/performances_2024-05-04-BenettonTreviso_V_MontpellierHerault.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-BenettonTreviso_V_MontpellierHerault.png" width="32%" />
-<img src="plots/spreads_2024-05-04-BenettonTreviso_V_MontpellierHerault.png" width="32%" />
+<img src="plots/performances_2024-05-24-BenettonTreviso_V_MontpellierHerault.png" width="32%" />
+<img src="plots/resultbar_2024-05-24-BenettonTreviso_V_MontpellierHerault.png" width="32%" />
+<img src="plots/spreads_2024-05-24-BenettonTreviso_V_MontpellierHerault.png" width="32%" />
+</p>
+
+### Montpellier Herault V Ospreys on 2024/05/24
+
+
+Average Margin: Montpellier Herault by 5.1
+
+<p float="left">
+<img src="plots/performances_2024-04-13-MontpellierHerault_V_Ospreys.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-MontpellierHerault_V_Ospreys.png" width="32%" />
+<img src="plots/spreads_2024-04-13-MontpellierHerault_V_Ospreys.png" width="32%" />
+</p>
+
+### Sharks V Sale Sharks on 2024/05/24
+
+
+Average Margin: Sale Sharks by 0.6
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Sharks_V_SaleSharks.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Sharks_V_SaleSharks.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Sharks_V_SaleSharks.png" width="32%" />
+</p>
+
+### Gloucester Rugby V Ulster on 2024/05/24
+
+
+Average Margin: Gloucester Rugby by 1.8
+
+<p float="left">
+<img src="plots/performances_2024-04-13-GloucesterRugby_V_Ulster.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-GloucesterRugby_V_Ulster.png" width="32%" />
+<img src="plots/spreads_2024-04-13-GloucesterRugby_V_Ulster.png" width="32%" />
+</p>
+
+### Pau V Edinburgh on 2024/05/24
+
+
+Average Margin: Pau by 2.7
+
+<p float="left">
+<img src="plots/performances_2024-05-04-Pau_V_Edinburgh.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-Pau_V_Edinburgh.png" width="32%" />
+<img src="plots/spreads_2024-05-04-Pau_V_Edinburgh.png" width="32%" />
+</p>
+
+### Clermont Auvergne V Sale Sharks on 2024/05/24
+
+
+Average Margin: Sale Sharks by 0.6
+
+<p float="left">
+<img src="plots/performances_2024-05-04-ClermontAuvergne_V_SaleSharks.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-ClermontAuvergne_V_SaleSharks.png" width="32%" />
+<img src="plots/spreads_2024-05-04-ClermontAuvergne_V_SaleSharks.png" width="32%" />
+</p>
+
+### Montpellier Herault V Sharks on 2024/05/24
+
+
+Average Margin: Montpellier Herault by 2.1
+
+<p float="left">
+<img src="plots/performances_2024-05-04-MontpellierHerault_V_Sharks.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-MontpellierHerault_V_Sharks.png" width="32%" />
+<img src="plots/spreads_2024-05-04-MontpellierHerault_V_Sharks.png" width="32%" />
+</p>
+
+### Gloucester Rugby V Sharks on 2024/05/24
+
+
+Average Margin: Gloucester Rugby by 2.9
+
+<p float="left">
+<img src="plots/performances_2024-05-24-GloucesterRugby_V_Sharks.png" width="32%" />
+<img src="plots/resultbar_2024-05-24-GloucesterRugby_V_Sharks.png" width="32%" />
+<img src="plots/spreads_2024-05-24-GloucesterRugby_V_Sharks.png" width="32%" />
+</p>
+
+### Montpellier Herault V Connacht on 2024/05/24
+
+
+Average Margin: Montpellier Herault by 3.7
+
+<p float="left">
+<img src="plots/performances_2024-04-13-MontpellierHerault_V_Connacht.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-MontpellierHerault_V_Connacht.png" width="32%" />
+<img src="plots/spreads_2024-04-13-MontpellierHerault_V_Connacht.png" width="32%" />
+</p>
+
+### Montpellier Herault V Sale Sharks on 2024/05/24
+
+
+Average Margin: Montpellier Herault by 0.2
+
+<p float="left">
+<img src="plots/performances_2024-05-24-MontpellierHerault_V_SaleSharks.png" width="32%" />
+<img src="plots/resultbar_2024-05-24-MontpellierHerault_V_SaleSharks.png" width="32%" />
+<img src="plots/spreads_2024-05-24-MontpellierHerault_V_SaleSharks.png" width="32%" />
+</p>
+
+### Sharks V Montpellier Herault on 2024/05/24
+
+
+Average Margin: Sharks by 0.7
+
+<p float="left">
+<img src="plots/performances_2024-05-04-Sharks_V_MontpellierHerault.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-Sharks_V_MontpellierHerault.png" width="32%" />
+<img src="plots/spreads_2024-05-04-Sharks_V_MontpellierHerault.png" width="32%" />
+</p>
+
+### Sharks V Ulster on 2024/05/24
+
+
+Average Margin: Sharks by 0.9
+
+<p float="left">
+<img src="plots/performances_2024-05-04-Sharks_V_Ulster.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-Sharks_V_Ulster.png" width="32%" />
+<img src="plots/spreads_2024-05-04-Sharks_V_Ulster.png" width="32%" />
+</p>
+
+### Sharks V Edinburgh on 2024/05/24
+
+
+Average Margin: Sharks by 2.1
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Sharks_V_Edinburgh.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Sharks_V_Edinburgh.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Sharks_V_Edinburgh.png" width="32%" />
+</p>
+
+### Gloucester Rugby V Pau on 2024/05/24
+
+
+Average Margin: Gloucester Rugby by 4.9
+
+<p float="left">
+<img src="plots/performances_2024-05-04-GloucesterRugby_V_Pau.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-GloucesterRugby_V_Pau.png" width="32%" />
+<img src="plots/spreads_2024-05-04-GloucesterRugby_V_Pau.png" width="32%" />
+</p>
+
+### Gloucester Rugby V Edinburgh on 2024/05/24
+
+
+Average Margin: Gloucester Rugby by 3.4
+
+<p float="left">
+<img src="plots/performances_2024-04-13-GloucesterRugby_V_Edinburgh.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-GloucesterRugby_V_Edinburgh.png" width="32%" />
+<img src="plots/spreads_2024-04-13-GloucesterRugby_V_Edinburgh.png" width="32%" />
+</p>
+
+### Pau V Sale Sharks on 2024/05/24
+
+
+Average Margin: Sale Sharks by 0.8
+
+<p float="left">
+<img src="plots/performances_2024-05-04-Pau_V_SaleSharks.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-Pau_V_SaleSharks.png" width="32%" />
+<img src="plots/spreads_2024-05-04-Pau_V_SaleSharks.png" width="32%" />
+</p>
+
+### Sharks V Bayonne on 2024/05/24
+
+
+Average Margin: Sharks by 3.3
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Sharks_V_Bayonne.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Sharks_V_Bayonne.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Sharks_V_Bayonne.png" width="32%" />
+</p>
+
+### Pau V Clermont Auvergne on 2024/05/24
+
+
+Average Margin: Pau by 1.7
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Pau_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Pau_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Pau_V_ClermontAuvergne.png" width="32%" />
+</p>
+
+### Benetton Treviso V Sharks on 2024/05/24
+
+
+Average Margin: Benetton Treviso by 3.8
+
+<p float="left">
+<img src="plots/performances_2024-05-24-BenettonTreviso_V_Sharks.png" width="32%" />
+<img src="plots/resultbar_2024-05-24-BenettonTreviso_V_Sharks.png" width="32%" />
+<img src="plots/spreads_2024-05-24-BenettonTreviso_V_Sharks.png" width="32%" />
+</p>
+
+### Ospreys V Edinburgh on 2024/05/24
+
+
+Average Margin: Ospreys by 2.3
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Ospreys_V_Edinburgh.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Ospreys_V_Edinburgh.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Ospreys_V_Edinburgh.png" width="32%" />
+</p>
+
+### Benetton Treviso V Sale Sharks on 2024/05/24
+
+
+Average Margin: Sale Sharks by 0.0
+
+<p float="left">
+<img src="plots/performances_2024-04-13-BenettonTreviso_V_SaleSharks.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-BenettonTreviso_V_SaleSharks.png" width="32%" />
+<img src="plots/spreads_2024-04-13-BenettonTreviso_V_SaleSharks.png" width="32%" />
+</p>
+
+### Ospreys V Clermont Auvergne on 2024/05/24
+
+
+Average Margin: Ospreys by 2.1
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Ospreys_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Ospreys_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Ospreys_V_ClermontAuvergne.png" width="32%" />
+</p>
+
+### Ospreys V Lions on 2024/05/24
+
+
+Average Margin: Ospreys by 1.4
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Ospreys_V_Lions.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Ospreys_V_Lions.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Ospreys_V_Lions.png" width="32%" />
+</p>
+
+### Clermont Auvergne V Benetton Treviso on 2024/05/24
+
+
+Average Margin: Benetton Treviso by 0.0
+
+<p float="left">
+<img src="plots/performances_2024-05-24-ClermontAuvergne_V_BenettonTreviso.png" width="32%" />
+<img src="plots/resultbar_2024-05-24-ClermontAuvergne_V_BenettonTreviso.png" width="32%" />
+<img src="plots/spreads_2024-05-24-ClermontAuvergne_V_BenettonTreviso.png" width="32%" />
+</p>
+
+### Clermont Auvergne V Ulster on 2024/05/24
+
+
+Average Margin: Clermont Auvergne by 1.7
+
+<p float="left">
+<img src="plots/performances_2024-04-13-ClermontAuvergne_V_Ulster.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-ClermontAuvergne_V_Ulster.png" width="32%" />
+<img src="plots/spreads_2024-04-13-ClermontAuvergne_V_Ulster.png" width="32%" />
+</p>
+
+### Clermont Auvergne V Edinburgh on 2024/05/24
+
+
+Average Margin: Clermont Auvergne by 4.0
+
+<p float="left">
+<img src="plots/performances_2024-05-04-ClermontAuvergne_V_Edinburgh.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-ClermontAuvergne_V_Edinburgh.png" width="32%" />
+<img src="plots/spreads_2024-05-04-ClermontAuvergne_V_Edinburgh.png" width="32%" />
+</p>
+
+### Benetton Treviso V Ospreys on 2024/05/24
+
+
+Average Margin: Benetton Treviso by 3.9
+
+<p float="left">
+<img src="plots/performances_2024-04-13-BenettonTreviso_V_Ospreys.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-BenettonTreviso_V_Ospreys.png" width="32%" />
+<img src="plots/spreads_2024-04-13-BenettonTreviso_V_Ospreys.png" width="32%" />
+</p>
+
+### Montpellier Herault V Clermont Auvergne on 2024/05/24
+
+
+Average Margin: Montpellier Herault by 3.7
+
+<p float="left">
+<img src="plots/performances_2024-04-13-MontpellierHerault_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-MontpellierHerault_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/spreads_2024-04-13-MontpellierHerault_V_ClermontAuvergne.png" width="32%" />
+</p>
+
+### Benetton Treviso V Pau on 2024/05/24
+
+
+Average Margin: Benetton Treviso by 3.4
+
+<p float="left">
+<img src="plots/performances_2024-05-04-BenettonTreviso_V_Pau.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-BenettonTreviso_V_Pau.png" width="32%" />
+<img src="plots/spreads_2024-05-04-BenettonTreviso_V_Pau.png" width="32%" />
+</p>
+
+### Montpellier Herault V Edinburgh on 2024/05/24
+
+
+Average Margin: Montpellier Herault by 3.4
+
+<p float="left">
+<img src="plots/performances_2024-05-04-MontpellierHerault_V_Edinburgh.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-MontpellierHerault_V_Edinburgh.png" width="32%" />
+<img src="plots/spreads_2024-05-04-MontpellierHerault_V_Edinburgh.png" width="32%" />
+</p>
+
+### Sharks V Ospreys on 2024/05/24
+
+
+Average Margin: Sharks by 3.5
+
+<p float="left">
+<img src="plots/performances_2024-05-04-Sharks_V_Ospreys.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-Sharks_V_Ospreys.png" width="32%" />
+<img src="plots/spreads_2024-05-04-Sharks_V_Ospreys.png" width="32%" />
+</p>
+
+### Sharks V Clermont Auvergne on 2024/05/24
+
+
+Average Margin: Sharks by 1.4
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Sharks_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Sharks_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Sharks_V_ClermontAuvergne.png" width="32%" />
+</p>
+
+### Pau V Ulster on 2024/05/24
+
+
+Average Margin: Ulster by 0.1
+
+<p float="left">
+<img src="plots/performances_2024-05-04-Pau_V_Ulster.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-Pau_V_Ulster.png" width="32%" />
+<img src="plots/spreads_2024-05-04-Pau_V_Ulster.png" width="32%" />
+</p>
+
+### Sharks V Castres Olympique on 2024/05/24
+
+
+Average Margin: Sharks by 2.9
+
+<p float="left">
+<img src="plots/performances_2024-04-13-Sharks_V_CastresOlympique.png" width="32%" />
+<img src="plots/resultbar_2024-04-13-Sharks_V_CastresOlympique.png" width="32%" />
+<img src="plots/spreads_2024-04-13-Sharks_V_CastresOlympique.png" width="32%" />
 </p>
 
 # Completed Match Review

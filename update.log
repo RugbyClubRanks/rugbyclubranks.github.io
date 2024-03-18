@@ -5,33 +5,11 @@ rootdir: C:\Users\Graeham\Documents\GITHUB_PROJECTS\grieman.github.io
 collected 6 items
 
 test_contents.py::test_comp_contents PASSED                              [ 16%]
-test_contents.py::test_comp_plot_contents FAILED                         [ 33%]
-test_contents.py::test_projections_contents FAILED                       [ 50%]
+test_contents.py::test_comp_plot_contents PASSED                         [ 33%]
+test_contents.py::test_projections_contents PASSED                       [ 50%]
 test_contents.py::test_reviews_contents PASSED                           [ 66%]
 test_contents.py::test_comp_random_accuracy PASSED                       [ 83%]
 test_contents.py::test_comp_random_playoff PASSED                        [100%]
 
-================================== FAILURES ===================================
-___________________________ test_comp_plot_contents ___________________________
-
-    def test_comp_plot_contents():
-        comp_file_plots = glob.glob(os.path.join("comp_files/plots", "*"))
->       assert len(comp_file_plots) > 0
-E       assert 0 > 0
-E        +  where 0 = len([])
-
-test_contents.py:13: AssertionError
-__________________________ test_projections_contents __________________________
-
-    def test_projections_contents():
-        comp_files = glob.glob(os.path.join("projections", "*.md"))
->       assert len(comp_files) > 0
-E       assert 0 > 0
-E        +  where 0 = len([])
-
-test_contents.py:17: AssertionError
-=========================== short test summary info ===========================
-FAILED test_contents.py::test_comp_plot_contents - assert 0 > 0
-FAILED test_contents.py::test_projections_contents - assert 0 > 0
-========================= 2 failed, 4 passed in 0.28s =========================
-Tests failed. Stopping the script. 
+============================== 6 passed in 0.08s ==============================
+All tests passed. 

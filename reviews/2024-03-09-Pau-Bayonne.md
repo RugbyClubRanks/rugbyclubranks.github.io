@@ -11,7 +11,7 @@ categories: "Top 14 Orange 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.628, which translates to predicting Pau to win by 4.6.
 
-Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 22 to 26
+Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 23 to 28
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Pau by 0.5 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             45 | Swan Cormenier        |             58.85 |        1 |             33.27 | Simon-Pierre Chauvac |             61 |
-|             61 | Vincent Giudicelli    |             19.85 |        2 |             13.55 | Lucas Rey            |             49 |
-|             54 | Tevita Tatafu         |             42.99 |        3 |             83.32 | Siate Tokolahi       |             61 |
-|             45 | Denis Marchois        |             97.26 |        4 |             60.43 | Hugo Auradou         |             61 |
-|             45 | Thomas Ceyte          |             59.83 |        5 |             99.28 | Samuel Whitelock     |             54 |
-|             83 | Remi Bourdeau         |             96.26 |        6 |             98.79 | Luke Whitelock       |             83 |
-|             83 | Arthur Iturria        |             90.97 |        7 |             64.21 | Reece Hewat          |             54 |
-|             83 | Uzair Cassiem         |             83.98 |        8 |             51.21 | Beka Gorgadze        |             83 |
-|             59 | Maxime Machenaud      |             94.07 |        9 |             86.5  | Thibault Daubagna    |             61 |
-|             83 | Camille Lopez         |             95.77 |       10 |             83.58 | Joe Simmonds         |             83 |
-|             62 | Remy Baget            |             91.3  |       11 |              5.37 | Samuel Ezeala        |             56 |
-|             30 | Guillaume Martocq     |             45.12 |       12 |             94.05 | Tumua Manu           |             83 |
-|             83 | Arnaud Erbinartegaray |             56.07 |       13 |             33.93 | Emilien Gailleton    |             83 |
-|             83 | Mateo Carreras        |             73.68 |       14 |             42.64 | Theo Attissogbe      |             83 |
-|             83 | Cheikh Tiberghien     |             29.26 |       15 |             78.42 | Jack Maddocks        |             83 |
-|             22 | Thomas Acquier        |             85.11 |       16 |             55.73 | Youri Delhommel      |             34 |
-|             38 | Matis Perchaud        |             62.24 |       17 |             48.03 | Siegfried Fisi'ihoi  |             22 |
-|             38 | Konstantin Mikautadze |              5.13 |       18 |             19.9  | Guillaume Ducat      |             22 |
-|             38 | Baptiste Heguy        |             92.95 |       19 |             70.56 | Lekima Tagitagivalu  |             29 |
-|             24 | Gela Aprasidze        |             60.53 |       20 |             52.43 | Sacha Zegueur        |             29 |
-|             53 | Yan Lestrade          |             91.55 |       21 |             98.57 | Dan Robson           |             22 |
-|             21 | Reece Hodge           |             82.62 |       22 |             57.21 | Axel Desperes        |             27 |
-|             29 | Pieter Scholtz        |              3.67 |       23 |              8.62 | Nicolas Corato       |             22 |
+|             45 | Swan Cormenier        |             58.4  |        1 |             32.93 | Simon-Pierre Chauvac |             61 |
+|             61 | Vincent Giudicelli    |             19.04 |        2 |             13.27 | Lucas Rey            |             49 |
+|             54 | Tevita Tatafu         |             42.54 |        3 |             83.21 | Siate Tokolahi       |             61 |
+|             45 | Denis Marchois        |             97.24 |        4 |             60.58 | Hugo Auradou         |             61 |
+|             45 | Thomas Ceyte          |             59.98 |        5 |             99.4  | Samuel Whitelock     |             54 |
+|             83 | Remi Bourdeau         |             95.6  |        6 |             98.76 | Luke Whitelock       |             83 |
+|             83 | Arthur Iturria        |             90.53 |        7 |             63.25 | Reece Hewat          |             54 |
+|             83 | Uzair Cassiem         |             84.18 |        8 |             51.34 | Beka Gorgadze        |             83 |
+|             59 | Maxime Machenaud      |             93.98 |        9 |             86.72 | Thibault Daubagna    |             61 |
+|             83 | Camille Lopez         |             95.74 |       10 |             83.46 | Joe Simmonds         |             83 |
+|             62 | Remy Baget            |             90.81 |       11 |              5.36 | Samuel Ezeala        |             56 |
+|             30 | Guillaume Martocq     |             43.88 |       12 |             94.06 | Tumua Manu           |             83 |
+|             83 | Arnaud Erbinartegaray |             54.79 |       13 |             32.24 | Emilien Gailleton    |             83 |
+|             83 | Mateo Carreras        |             73.74 |       14 |             42.12 | Theo Attissogbe      |             83 |
+|             83 | Cheikh Tiberghien     |             28.67 |       15 |             77.83 | Jack Maddocks        |             83 |
+|             22 | Thomas Acquier        |             85.19 |       16 |             55.19 | Youri Delhommel      |             34 |
+|             38 | Matis Perchaud        |             61.57 |       17 |             47.57 | Siegfried Fisi'ihoi  |             22 |
+|             38 | Konstantin Mikautadze |              5.29 |       18 |             19.71 | Guillaume Ducat      |             22 |
+|             38 | Baptiste Heguy        |             92.33 |       19 |             70.31 | Lekima Tagitagivalu  |             29 |
+|             24 | Gela Aprasidze        |             60.58 |       20 |             52.55 | Sacha Zegueur        |             29 |
+|             53 | Yan Lestrade          |             91.39 |       21 |             98.55 | Dan Robson           |             22 |
+|             21 | Reece Hodge           |             82.18 |       22 |             57.89 | Axel Desperes        |             27 |
+|             29 | Pieter Scholtz        |              3.54 |       23 |              8.68 | Nicolas Corato       |             22 |
 

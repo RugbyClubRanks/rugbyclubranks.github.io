@@ -11,7 +11,7 @@ categories: "Top 14 Orange 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.63, which translates to predicting Lyon to win by 4.7.
 
-Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 21 to 25
+Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 21 to 25
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Lyon by 2.8 on a neutral pitch
 
 |   Away Minutes | Away Player                |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:---------------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             54 | Lois Guerois-Galisson      |             62.51 |        1 |             28.23 | Jerome Rey           |             60 |
-|             54 | Gaetan Barlot              |             78.63 |        2 |             82.63 | Liam Coltman         |             60 |
-|             54 | Levan Chilachava           |             81.58 |        3 |             60.49 | Feao Fotuaika        |             51 |
-|             83 | Gauthier Maravat           |              5.84 |        4 |             79.38 | Felix Lambey         |             83 |
-|             64 | Tom Staniforth             |             81.53 |        5 |             69.13 | Mickael Guillard     |             71 |
-|             83 | Baptiste Delaporte         |             84.69 |        6 |             53.63 | Joel Kpoku           |             83 |
-|             51 | Baptiste Cope              |             54.63 |        7 |             65.31 | Liam Allen           |             64 |
-|             55 | Abraham Papali'i           |             54.85 |        8 |             93.2  | Jordan Taufua        |             72 |
-|             67 | Santiago Arata             |             74.03 |        9 |             93.25 | Baptiste Couilloud   |             68 |
-|             68 | Louis Le Brun              |             74.38 |       10 |             65.67 | Leo Berdeu           |             64 |
-|             83 | Antoine Bouzerand          |             40.17 |       11 |             81.31 | Davit Niniashvili    |             83 |
-|             83 | Adrea Cocagi               |             88.93 |       12 |             16.55 | Josiah Maraku        |             68 |
-|             64 | Adrien Seguret             |             32.62 |       13 |             62.86 | Alfred Parisien      |             83 |
-|             83 | Josaia Raisuqe             |             74.11 |       14 |             96.35 | Vincent Rattez       |             83 |
-|             83 | Pierre Popelin             |             67.39 |       15 |             57.55 | Alexandre Tchaptchet |             83 |
-|             29 | Loris Zarantonello         |             52.67 |       16 |             22.71 | Guillaume Marchand   |             23 |
-|             29 | Quentin Walcker            |            nan    |       17 |             66.36 | Vivien Devisme       |             23 |
-|             19 | Florent Vanverberghe       |             66.15 |       18 |             64.48 | Alban Roussel        |             23 |
-|             32 | Mathieu Babillot           |             50.22 |       19 |             22.58 | Theo William         |             19 |
-|             28 | Nick Champion de Crespigny |             47.91 |       20 |             63.39 | Joe Powell           |             15 |
-|             16 | Jeremy Fernandez           |             31.9  |       21 |             82.34 | Paddy Jackson        |             19 |
-|             34 | Vilimoni Botitu            |             62.38 |       22 |             67.38 | Kyle Godwin          |             15 |
-|             29 | Henry Thomas               |             64.44 |       23 |            nan    | Valentin Simutoga    |             32 |
+|             54 | Lois Guerois-Galisson      |             61.94 |        1 |             27.99 | Jerome Rey           |             60 |
+|             54 | Gaetan Barlot              |             79.04 |        2 |             82.12 | Liam Coltman         |             60 |
+|             54 | Levan Chilachava           |             81.53 |        3 |             59.98 | Feao Fotuaika        |             51 |
+|             83 | Gauthier Maravat           |              5.77 |        4 |             79.33 | Felix Lambey         |             83 |
+|             64 | Tom Staniforth             |             81.61 |        5 |             68.87 | Mickael Guillard     |             71 |
+|             83 | Baptiste Delaporte         |             84.67 |        6 |             52.99 | Joel Kpoku           |             83 |
+|             51 | Baptiste Cope              |             54    |        7 |             64.94 | Liam Allen           |             64 |
+|             55 | Abraham Papali'i           |             54.74 |        8 |             92.94 | Jordan Taufua        |             72 |
+|             67 | Santiago Arata             |             73.86 |        9 |             93.15 | Baptiste Couilloud   |             68 |
+|             68 | Louis Le Brun              |             73.68 |       10 |             64.91 | Leo Berdeu           |             64 |
+|             83 | Antoine Bouzerand          |             39.82 |       11 |             81.4  | Davit Niniashvili    |             83 |
+|             83 | Adrea Cocagi               |             88.73 |       12 |             16    | Josiah Maraku        |             68 |
+|             64 | Adrien Seguret             |             31.15 |       13 |             61.7  | Alfred Parisien      |             83 |
+|             83 | Josaia Raisuqe             |             74.07 |       14 |             96.39 | Vincent Rattez       |             83 |
+|             83 | Pierre Popelin             |             65.06 |       15 |             56.39 | Alexandre Tchaptchet |             83 |
+|             29 | Loris Zarantonello         |             51.73 |       16 |             21.92 | Guillaume Marchand   |             23 |
+|             29 | Quentin Walcker            |            nan    |       17 |             65.76 | Vivien Devisme       |             23 |
+|             19 | Florent Vanverberghe       |             65.99 |       18 |             64.42 | Alban Roussel        |             23 |
+|             32 | Mathieu Babillot           |             49.27 |       19 |             22.32 | Theo William         |             19 |
+|             28 | Nick Champion de Crespigny |             47.13 |       20 |             63.49 | Joe Powell           |             15 |
+|             16 | Jeremy Fernandez           |             30.91 |       21 |             81.45 | Paddy Jackson        |             19 |
+|             34 | Vilimoni Botitu            |             61.09 |       22 |             66.55 | Kyle Godwin          |             15 |
+|             29 | Henry Thomas               |             63.9  |       23 |            nan    | Valentin Simutoga    |             32 |
 
