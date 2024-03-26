@@ -11,7 +11,7 @@ categories: "Six Nations Championship 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.735, which translates to predicting France to win by 9.1.
 
-Our Over/Under is 57.5 - and combined with the spread above, we have a predicted scoreline of 24 to 33
+Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 19 to 28
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ France by 2.5 on a neutral pitch
 
 |   Away Minutes | Away Player    |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:---------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             50 | Ellis Genge    |             48.41 |        1 |             95.06 | Cyril Baille          |             48 |
-|             50 | Jamie George   |             98.46 |        2 |             98.27 | Julien Marchand       |             48 |
-|             50 | Dan Cole       |             47.85 |        3 |             99.63 | Uini Atonio           |             62 |
-|             80 | Maro Itoje     |             95.67 |        4 |             89.9  | Thibaud Flament       |             80 |
-|             80 | George Martin  |             91.47 |        5 |             83.05 | Emmanuel Meafou       |             48 |
-|             55 | Ollie Chessum  |             81.96 |        6 |             97.86 | Francois Cros         |             80 |
-|             67 | Sam Underhill  |             89.4  |        7 |             97.29 | Charles Ollivon       |             62 |
-|             80 | Ben Earl       |             94.65 |        8 |             99.03 | Gregory Alldritt      |             70 |
-|             70 | Alex Mitchell  |             95.23 |        9 |             73.44 | Nolann Le Garrec      |             67 |
-|             80 | George Ford    |             92.73 |       10 |             93.23 | Thomas Ramos          |             80 |
-|             80 | Elliot Daly    |             82.71 |       11 |             74.51 | Louis Bielle-Biarrey  |             80 |
-|             80 | Ollie Lawrence |             79.03 |       12 |             36.12 | Nicolas Depoortere    |             60 |
-|             60 | Henry Slade    |             97.58 |       13 |             95.15 | Gael Fickou           |             80 |
-|             80 | Tommy Freeman  |             96.83 |       14 |             94.09 | Damian Penaud         |             80 |
-|              8 | George Furbank |             95.9  |       15 |             78.31 | Leo Barre             |             80 |
-|             30 | Theo Dan       |             36.15 |       16 |             92.69 | Peato Mauvaka         |             32 |
-|             30 | Joe Marler     |             98.32 |       17 |             15.67 | Sebastien Taofifenua  |             32 |
-|             30 | Will Stuart    |             21.46 |       18 |              3.82 | Georges-Henri Colombe |             18 |
-|             25 | Ethan Roots    |             73.17 |       19 |             48.32 | Romain Taofifenua     |             32 |
-|             13 | Alex Dombrandt |             88.32 |       20 |             95.86 | Alexandre Roumat      |             18 |
-|             10 | Danny Care     |            100    |       21 |             13.08 | Paul Boudehent        |             10 |
-|             72 | Marcus Smith   |             87.72 |       22 |             99.17 | Maxime Lucu           |             13 |
-|             20 | Manu Tuilagi   |             97.7  |       23 |             82.82 | Yoram Moefana         |             20 |
+|             50 | Ellis Genge    |             48.39 |        1 |             94.99 | Cyril Baille          |             48 |
+|             50 | Jamie George   |             98.45 |        2 |             98.25 | Julien Marchand       |             48 |
+|             50 | Dan Cole       |             37.71 |        3 |             99.62 | Uini Atonio           |             62 |
+|             80 | Maro Itoje     |             95.39 |        4 |             89.81 | Thibaud Flament       |             80 |
+|             80 | George Martin  |             91.14 |        5 |             82.89 | Emmanuel Meafou       |             48 |
+|             55 | Ollie Chessum  |             78.88 |        6 |             97.94 | Francois Cros         |             80 |
+|             67 | Sam Underhill  |             90.61 |        7 |             97.28 | Charles Ollivon       |             62 |
+|             80 | Ben Earl       |             96.91 |        8 |             99.75 | Gregory Alldritt      |             70 |
+|             70 | Alex Mitchell  |             94.8  |        9 |             78.79 | Nolann Le Garrec      |             67 |
+|             80 | George Ford    |             92.39 |       10 |             93.4  | Thomas Ramos          |             80 |
+|             80 | Elliot Daly    |             83.05 |       11 |             75.75 | Louis Bielle-Biarrey  |             80 |
+|             80 | Ollie Lawrence |             80.44 |       12 |             36.09 | Nicolas Depoortere    |             60 |
+|             60 | Henry Slade    |             97.57 |       13 |             96.72 | Gael Fickou           |             80 |
+|             80 | Tommy Freeman  |             97.12 |       14 |             94.35 | Damian Penaud         |             80 |
+|              8 | George Furbank |             95.33 |       15 |             76.41 | Leo Barre             |             80 |
+|             30 | Theo Dan       |             52.43 |       16 |             92.82 | Peato Mauvaka         |             32 |
+|             30 | Joe Marler     |             98.3  |       17 |             13.99 | Sebastien Taofifenua  |             32 |
+|             30 | Will Stuart    |             21.27 |       18 |              5.48 | Georges-Henri Colombe |             18 |
+|             25 | Ethan Roots    |             73.54 |       19 |             45.39 | Romain Taofifenua     |             32 |
+|             13 | Alex Dombrandt |             82.47 |       20 |             94.81 | Alexandre Roumat      |             18 |
+|             10 | Danny Care     |            100    |       21 |             13.75 | Paul Boudehent        |             10 |
+|             72 | Marcus Smith   |             83.76 |       22 |             99.17 | Maxime Lucu           |             13 |
+|             20 | Manu Tuilagi   |             97.45 |       23 |             76.67 | Yoram Moefana         |             20 |
 

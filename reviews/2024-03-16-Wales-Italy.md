@@ -11,7 +11,7 @@ categories: "Six Nations Championship 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.713, which translates to predicting Wales to win by 8.2.
 
-Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 18 to 26
+Our Over/Under is 41.5 - and combined with the spread above, we have a predicted scoreline of 17 to 25
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Italy by 2.8 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player      |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:-----------------|---------------:|
-|             58 | Danilo Fischetti   |             73.79 |        1 |             52.52 | Gareth Thomas    |             74 |
-|             47 | Giacomo Nicotera   |             98.65 |        2 |             87.5  | Elliot Dee       |             74 |
-|             51 | Simone Ferrari     |             96.64 |        3 |             95.52 | Dillon Lewis     |             74 |
-|             76 | Niccolo Cannone    |             64.54 |        4 |             91.59 | Dafydd Jenkins   |             82 |
-|             82 | Federico Ruzza     |             96.88 |        5 |             92.91 | Adam Beard       |             52 |
-|             61 | Sebastian Negri    |             87.37 |        6 |              9.81 | Alex Mann        |             58 |
-|             82 | Michele Lamaro     |             96.39 |        7 |             89.06 | Tommy Reffell    |             82 |
-|             51 | Lorenzo Cannone    |             91.48 |        8 |             81.51 | Aaron Wainwright |             82 |
-|             51 | Stephen Varney     |             27.59 |        9 |             80.91 | Tomos Williams   |             63 |
-|             82 | Paolo Garbisi      |             82.71 |       10 |             31.08 | Sam Costelow     |             74 |
-|             76 | Monty Ioane        |             98.8  |       11 |             20.35 | Rio Dyer         |             82 |
-|             82 | Tommaso Menoncello |             87.64 |       12 |             97.94 | Nick Tompkins    |             49 |
-|             82 | Juan Ignacio Brex  |             93.94 |       13 |             99.52 | George North     |             80 |
-|             82 | Louis Lynagh       |             83.59 |       14 |             59.96 | Josh Adams       |             82 |
-|             82 | Lorenzo Pani       |             40.72 |       15 |             43.86 | Cameron Winnett  |             82 |
-|             35 | Gianmarco Lucchesi |             79.62 |       16 |            nan    | Evan Lloyd       |              8 |
-|             24 | Mirco Spagnolo     |            nan    |       17 |             60.26 | Kemsley Mathias  |              8 |
-|             31 | Giosue Zilocchi    |             60.82 |       18 |              8.49 | Harri O'Connor   |              8 |
-|              6 | Riccardo Favretto  |             28.75 |       19 |             18.87 | Will Rowlands    |             30 |
-|             31 | Ross Vintcent      |             68.86 |       20 |             27.74 | Mackenzie Martin |             24 |
-|             21 | Manuel Zuliani     |             67.08 |       21 |             70.12 | Kieran Hardy     |             19 |
-|             31 | Martin Page-Relo   |             78.63 |       22 |              7.52 | Ioan Lloyd       |              8 |
-|              6 | Leonardo Marin     |             63.66 |       23 |             70.35 | Mason Grady      |             33 |
+|             58 | Danilo Fischetti   |             73.63 |        1 |             52.55 | Gareth Thomas    |             74 |
+|             47 | Giacomo Nicotera   |             98.64 |        2 |             87.38 | Elliot Dee       |             74 |
+|             51 | Simone Ferrari     |             96.12 |        3 |             95.46 | Dillon Lewis     |             74 |
+|             76 | Niccolo Cannone    |             64.32 |        4 |             91.26 | Dafydd Jenkins   |             82 |
+|             82 | Federico Ruzza     |             96.84 |        5 |             92.72 | Adam Beard       |             52 |
+|             61 | Sebastian Negri    |             87.51 |        6 |              9.74 | Alex Mann        |             58 |
+|             82 | Michele Lamaro     |             96.33 |        7 |             87.29 | Tommy Reffell    |             82 |
+|             51 | Lorenzo Cannone    |             90.86 |        8 |             81.23 | Aaron Wainwright |             82 |
+|             51 | Stephen Varney     |             42.41 |        9 |             81.08 | Tomos Williams   |             63 |
+|             82 | Paolo Garbisi      |             82.23 |       10 |             37.06 | Sam Costelow     |             74 |
+|             76 | Monty Ioane        |             99    |       11 |             20.16 | Rio Dyer         |             82 |
+|             82 | Tommaso Menoncello |             87.61 |       12 |             98.54 | Nick Tompkins    |             49 |
+|             82 | Juan Ignacio Brex  |             94.05 |       13 |             99.51 | George North     |             80 |
+|             82 | Louis Lynagh       |             79.96 |       14 |             60.13 | Josh Adams       |             82 |
+|             82 | Lorenzo Pani       |             40.54 |       15 |             43.98 | Cameron Winnett  |             82 |
+|             35 | Gianmarco Lucchesi |             79.22 |       16 |            nan    | Evan Lloyd       |              8 |
+|             24 | Mirco Spagnolo     |            nan    |       17 |             62.67 | Kemsley Mathias  |              8 |
+|             31 | Giosue Zilocchi    |             60.87 |       18 |              9.45 | Harri O'Connor   |              8 |
+|              6 | Riccardo Favretto  |             28.98 |       19 |             25.24 | Will Rowlands    |             30 |
+|             31 | Ross Vintcent      |             68.15 |       20 |             29.63 | Mackenzie Martin |             24 |
+|             21 | Manuel Zuliani     |             67.7  |       21 |             70.06 | Kieran Hardy     |             19 |
+|             31 | Martin Page-Relo   |             77.75 |       22 |              9.34 | Ioan Lloyd       |              8 |
+|              6 | Leonardo Marin     |             62.94 |       23 |             77.52 | Mason Grady      |             33 |
 

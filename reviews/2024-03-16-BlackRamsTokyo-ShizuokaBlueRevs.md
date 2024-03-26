@@ -69,27 +69,27 @@ Shizuoka Blue Revs by 3.9 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player       |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:------------------|---------------:|
-|             63 | Takayoshi Mohara   |             26.31 |        1 |             68.1  | Kazuma Nishi      |             52 |
-|             63 | Takeshi Hino       |             96.92 |        2 |             76.15 | Ko Sato           |             80 |
-|             74 | Heiichiro Ito      |             89.65 |        3 |             71.55 | Paddy Ryan        |             56 |
-|             80 | Eishin Kuwano      |             85.58 |        4 |             41.35 | Josh Goodhue      |             80 |
-|             80 | Murray Douglas     |             94.59 |        5 |             71.39 | Talau Fakatava    |             80 |
-|             80 | Yuya Odo           |             95.15 |        6 |             34.5  | Daiki Yanagawa    |             46 |
-|             74 | Richard Goh Jones  |             51.3  |        7 |             74.41 | Shuhei Matsuhashi |             80 |
-|             48 | Malgene Ilaua      |             57.66 |        8 |             88.08 | Nathan Hughes     |             56 |
-|             66 | Bryn Hall          |             97.1  |        9 |             55.81 | Syota Yamamoto    |             71 |
-|             74 | Kenta Iemura       |             67.92 |       10 |             46.37 | Ichigo Nakakusu   |             60 |
-|             80 | Malo Tuitama       |             78.88 |       11 |             69.15 | Netani Vakayalia  |             80 |
-|             56 | Viliami Tahitu'a   |             74.3  |       12 |             99.39 | Hadleigh Parkes   |             37 |
-|             80 | Charles Piutau     |             84.73 |       13 |             61.58 | Ryohei Isoda      |             80 |
-|             80 | Kakeru Okumura     |             25.93 |       14 |             43.11 | Daisuke Nishikawa |             80 |
-|             80 | Futo Yamaguchi     |             67.71 |       15 |             86.02 | Matt McGahan      |             80 |
-|             32 | Shoji Takuma       |             35.4  |       16 |             73.43 | Isaac Lucas       |             43 |
-|             24 | Sam Greene         |              4.76 |       17 |             79.59 | Brodi McCurran    |             34 |
+|             63 | Takayoshi Mohara   |             26.28 |        1 |             68.34 | Kazuma Nishi      |             52 |
+|             63 | Takeshi Hino       |             97.09 |        2 |             75.92 | Ko Sato           |             80 |
+|             74 | Heiichiro Ito      |             89.7  |        3 |             71.36 | Paddy Ryan        |             56 |
+|             80 | Eishin Kuwano      |             85.19 |        4 |             41.75 | Josh Goodhue      |             80 |
+|             80 | Murray Douglas     |             94.9  |        5 |             71.36 | Talau Fakatava    |             80 |
+|             80 | Yuya Odo           |             94.96 |        6 |             34.36 | Daiki Yanagawa    |             46 |
+|             74 | Richard Goh Jones  |             51.09 |        7 |             74.8  | Shuhei Matsuhashi |             80 |
+|             48 | Malgene Ilaua      |             56.54 |        8 |             88.4  | Nathan Hughes     |             56 |
+|             66 | Bryn Hall          |             96.88 |        9 |             55.72 | Syota Yamamoto    |             71 |
+|             74 | Kenta Iemura       |             67.01 |       10 |             46.95 | Ichigo Nakakusu   |             60 |
+|             80 | Malo Tuitama       |             79.84 |       11 |             69.88 | Netani Vakayalia  |             80 |
+|             56 | Viliami Tahitu'a   |             74.24 |       12 |             99.39 | Hadleigh Parkes   |             37 |
+|             80 | Charles Piutau     |             84.93 |       13 |             60.87 | Ryohei Isoda      |             80 |
+|             80 | Kakeru Okumura     |             25.8  |       14 |             43.08 | Daisuke Nishikawa |             80 |
+|             80 | Futo Yamaguchi     |             67.32 |       15 |             85.75 | Matt McGahan      |             80 |
+|             32 | Shoji Takuma       |             35.74 |       16 |             72.84 | Isaac Lucas       |             43 |
+|             24 | Sam Greene         |              4.82 |       17 |             79.95 | Brodi McCurran    |             34 |
 |             17 | Kenta Yamashita    |            nan    |       18 |            nan    | Takeo Makabe      |             28 |
-|             17 | Richmond Tongatama |            nan    |       19 |             41.79 | Shohei Oyama      |             24 |
-|             14 | Yuki Yatomi        |             66.6  |       20 |              4.81 | Mike Stolberg     |             24 |
-|              6 | Riki Sugihara      |            nan    |       21 |             29.21 | Yuta Kurihara     |             20 |
-|              6 | Keagan Faria       |             46.06 |       22 |             71.58 | Toshiya Takahashi |              9 |
+|             17 | Richmond Tongatama |            nan    |       19 |             41.97 | Shohei Oyama      |             24 |
+|             14 | Yuki Yatomi        |             66.53 |       20 |              5.1  | Mike Stolberg     |             24 |
+|              6 | Riki Sugihara      |            nan    |       21 |             29.4  | Yuta Kurihara     |             20 |
+|              6 | Keagan Faria       |             46.18 |       22 |             71.52 | Toshiya Takahashi |              9 |
 |              6 | Sean Vete          |            nan    |       23 |            nan    | nan               |            nan |
 
