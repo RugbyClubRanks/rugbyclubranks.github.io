@@ -11,7 +11,7 @@ categories: "Japan Rugby League One 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.453, which translates to predicting Toyota Verblitz to win by 1.7.
 
-Our Over/Under is 61.5 - and combined with the spread above, we have a predicted scoreline of 31 to 30
+Our Over/Under is 68.5 - and combined with the spread above, we have a predicted scoreline of 35 to 33
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Toyota Verblitz by 2.5 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player            |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:-----------------------|---------------:|
-|             63 | Shogo Miura          |             91.64 |        1 |             13.87 | Mototsugu Hachiya      |             67 |
-|             63 | Ryusei Kato          |             63.14 |        2 |             76.47 | Yoshimitsu Yasue       |             67 |
-|             45 | Runya Choi           |             88.13 |        3 |             43.49 | Kanzo Schinckel        |             70 |
-|             80 | Josh Dickson         |             46.06 |        4 |             69.93 | Walt Steenkamp         |             67 |
-|             74 | Daichi Akiyama       |             73.03 |        5 |             10.62 | Epineri Uluiviti       |             69 |
-|             67 | Will Tupou           |             16.34 |        6 |             78.22 | Kyo Yoshida            |             80 |
-|             80 | Kazuki Himeno        |             71.73 |        7 |             31.87 | Yusuke Sakamoto        |             80 |
-|             80 | Pieter-Steph du Toit |             85.12 |        8 |             72.2  | Jackson Hemopo         |             80 |
-|             69 | Aaron Smith          |             96.25 |        9 |             77.71 | Kota Iwamura           |             67 |
-|             80 | Beauden Barrett      |            100    |       10 |             68    | James Grayson          |             67 |
-|             69 | Yuichiro Wada        |             55.49 |       11 |             69.31 | Honeti Taumoha'apai    |             69 |
-|             80 | Charlie Lawrence     |             88.84 |       12 |             30.01 | Tonishio Vaiahu        |             80 |
-|             80 | Siosaia Fifita       |              1.08 |       13 |             52.58 | Matt Vaega             |             80 |
-|             52 | Shuhei Yamaguchi     |             63.31 |       14 |             59.46 | Ben Paltridge          |             80 |
-|             80 | Taichi Takahashi     |             84.29 |       15 |             10.97 | Kazuki Ishida          |             80 |
-|             35 | Yusuke Kizu          |             47.29 |       16 |             88.54 | Jack Stratton          |             13 |
-|             28 | Yuki Okada           |             86.07 |       17 |             54.26 | Brackin Karauria-Henry |             13 |
-|             17 | Ryuhei Arita         |            nan    |       18 |             40.2  | Yuki Miyazato          |             13 |
-|             17 | Shunsuke Asaoka      |            nan    |       19 |             20.73 | Marino Mikaele-Tu'u    |             13 |
-|             13 | Masato Furukawa      |             56.89 |       20 |              7.41 | Hayato Hosoda          |             13 |
-|             11 | Kaito Shigeno        |            nan    |       21 |             31.98 | Daniel Linde           |             11 |
-|             11 | Tiaan Falcon         |             84    |       22 |            nan    | Ryoto Fukuyama         |             11 |
-|              6 | Ryusei Koike         |             59.56 |       23 |             96.77 | Tomoaki Ishii          |             10 |
+|             63 | Shogo Miura          |             91.71 |        1 |             14.39 | Mototsugu Hachiya      |             67 |
+|             63 | Ryusei Kato          |             62.48 |        2 |             76.03 | Yoshimitsu Yasue       |             67 |
+|             45 | Runya Choi           |             87.99 |        3 |             42.99 | Kanzo Schinckel        |             70 |
+|             80 | Josh Dickson         |             45.93 |        4 |             69.98 | Walt Steenkamp         |             67 |
+|             74 | Daichi Akiyama       |             73.44 |        5 |             10.77 | Epineri Uluiviti       |             69 |
+|             67 | Will Tupou           |             15.78 |        6 |             78.07 | Kyo Yoshida            |             80 |
+|             80 | Kazuki Himeno        |             71.35 |        7 |             31.09 | Yusuke Sakamoto        |             80 |
+|             80 | Pieter-Steph du Toit |             85.26 |        8 |             72.24 | Jackson Hemopo         |             80 |
+|             69 | Aaron Smith          |             96.42 |        9 |             78.11 | Kota Iwamura           |             67 |
+|             80 | Beauden Barrett      |            100    |       10 |             67.18 | James Grayson          |             67 |
+|             69 | Yuichiro Wada        |             54.73 |       11 |             69.71 | Honeti Taumoha'apai    |             69 |
+|             80 | Charlie Lawrence     |             89.08 |       12 |             29.73 | Tonishio Vaiahu        |             80 |
+|             80 | Siosaia Fifita       |              0.97 |       13 |             52.06 | Matt Vaega             |             80 |
+|             52 | Shuhei Yamaguchi     |             61.94 |       14 |             58.67 | Ben Paltridge          |             80 |
+|             80 | Taichi Takahashi     |             83.96 |       15 |             10.53 | Kazuki Ishida          |             80 |
+|             35 | Yusuke Kizu          |             46.52 |       16 |             88.21 | Jack Stratton          |             13 |
+|             28 | Yuki Okada           |             86.6  |       17 |             53.76 | Brackin Karauria-Henry |             13 |
+|             17 | Ryuhei Arita         |            nan    |       18 |             39.1  | Yuki Miyazato          |             13 |
+|             17 | Shunsuke Asaoka      |            nan    |       19 |             22.6  | Marino Mikaele-Tu'u    |             13 |
+|             13 | Masato Furukawa      |             55.92 |       20 |              7.24 | Hayato Hosoda          |             13 |
+|             11 | Kaito Shigeno        |            nan    |       21 |             31.94 | Daniel Linde           |             11 |
+|             11 | Tiaan Falcon         |             83.33 |       22 |            nan    | Ryoto Fukuyama         |             11 |
+|              6 | Ryusei Koike         |             58    |       23 |             96.66 | Tomoaki Ishii          |             10 |
 

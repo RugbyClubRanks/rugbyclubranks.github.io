@@ -11,7 +11,7 @@ categories: "URBA Top 12 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.512, which translates to predicting Buenos Aires to win by 0.4.
 
-Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 23 to 24
+Our Over/Under is 44.5 - and combined with the spread above, we have a predicted scoreline of 22 to 23
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -67,29 +67,29 @@ CUBA by 0.0 on a neutral pitch
 </p>
 
 
-|   Away Minutes | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player            |   Home Minutes |
-|---------------:|:------------------|------------------:|---------:|------------------:|:-----------------------|---------------:|
-|             80 | Joaquin Yaquiche  |             24.64 |        1 |             61.78 | Pablo Gaston Vaca      |             80 |
-|             80 | Tomas Anderlic    |             25.88 |        2 |             62.16 | Tomas Rosasco          |             80 |
-|             80 | Facundo Aguirre   |             24.64 |        3 |             61.78 | Tomas Gallo            |             80 |
-|             80 | Santiago Landau   |             27.92 |        4 |             61.1  | Francisco Jose Sluga   |             80 |
-|             80 | Santiago Uriarte  |             32.58 |        5 |             61.69 | Franco Baldoni         |             80 |
-|             80 | Francisco Sied    |             25.26 |        6 |             57.01 | Pedro Maria Del Carril |             80 |
-|             80 | Segundo Pisani    |             23.64 |        7 |             55.97 | Matias Espina          |             80 |
-|             80 | Lucas Campion     |             25.61 |        8 |             56.1  | Jordi Dieguez          |             80 |
-|             80 | Manuel Madero     |             31.67 |        9 |             60.42 | Mateo Freire           |             80 |
-|             80 | Felipe de la Vega |             20.5  |       10 |             53.5  | Mateo Capalbo          |             80 |
-|             80 | Marcos Moroni     |             27.41 |       11 |             59.91 | Tomas Acosta Pimentel  |             80 |
-|             80 | Felipe Perdomo    |             25.81 |       12 |             53.12 | Agustin Lamensa Sanudo |             80 |
-|             80 | Francisco Patrono |             25.45 |       13 |             53.12 | Tobias Diaz Borda      |             80 |
-|             80 | Santiago Cardini  |             26.73 |       14 |             58.21 | Alfonso Latorre        |             80 |
-|             80 | Segundo Perdomo   |             23.69 |       15 |             52.87 | Julian Quetglas Bojar  |             80 |
-|              0 | Away Team 16      |            nan    |       16 |            nan    | Home Team 16           |              0 |
-|              0 | Away Team 17      |            nan    |       17 |            nan    | Home Team 17           |              0 |
-|              0 | Away Team 18      |            nan    |       18 |            nan    | Home Team 18           |              0 |
-|              0 | Away Team 19      |            nan    |       19 |            nan    | Home Team 19           |              0 |
-|              0 | Away Team 20      |            nan    |       20 |            nan    | Home Team 20           |              0 |
-|              0 | Away Team 21      |            nan    |       21 |            nan    | Home Team 21           |              0 |
-|              0 | Away Team 22      |            nan    |       22 |            nan    | Home Team 22           |              0 |
-|              0 | Away Team 23      |            nan    |       23 |            nan    | Home Team 23           |              0 |
+|   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player            |   Home Minutes |
+|---------------:|:----------------------|------------------:|---------:|------------------:|:-----------------------|---------------:|
+|             80 | Joaquin Yaquiche      |             24.69 |        1 |             61.58 | Pablo Gaston Vaca      |             80 |
+|             80 | Tomas Anderlic        |             25.74 |        2 |             62.08 | Tomas Rosasco          |             80 |
+|             80 | Facundo Aguirre       |             21.26 |        3 |             60.92 | Tomas Gallo            |             80 |
+|             80 | Santiago Landau       |             28.23 |        4 |             59.57 | Francisco Jose Sluga   |             80 |
+|             80 | Santiago Uriarte      |             27.63 |        5 |             60.29 | Franco Baldoni         |             80 |
+|             80 | Francisco Sied        |             21.35 |        6 |             55.68 | Pedro Maria Del Carril |             80 |
+|             80 | Segundo Pisani        |             24.4  |        7 |             53.02 | Matias Espina          |             80 |
+|             80 | Lucas Campion         |             26.78 |        8 |             56.02 | Jordi Dieguez          |             80 |
+|             80 | Manuel Madero         |             29.47 |        9 |             58.32 | Mateo Freire           |             80 |
+|             80 | Felipe de la Vega     |             22.33 |       10 |             51.54 | Mateo Capalbo          |             80 |
+|             80 | Marcos Moroni         |             27.48 |       11 |             58.22 | Tomas Acosta Pimentel  |             80 |
+|             80 | Felipe Perdomo        |             22.57 |       12 |             51.64 | Agustin Lamensa Sanudo |             80 |
+|             80 | Francisco Patrono     |             24.66 |       13 |             51.64 | Tobias Diaz Borda      |             80 |
+|             80 | Santiago Cardini      |             24.44 |       14 |             55.29 | Alfonso Latorre        |             80 |
+|             80 | Segundo Perdomo       |             22.56 |       15 |             51.38 | Julian Quetglas Bojar  |             80 |
+|              0 | Francisco Garoby      |             39.94 |       16 |             41.65 | Tomas Ruiz             |              0 |
+|              0 | Enrique Devoto        |             36.15 |       17 |             42.71 | Tomas Herrador         |              0 |
+|              0 | Esteban Tribarne      |            nan    |       18 |            nan    | Juan Ignacio Giovenali |              0 |
+|              0 | Francisco Nabia       |            nan    |       19 |            nan    | Lucas Etcheverry       |              0 |
+|              0 | Benito Ortiz de Rozas |             36.61 |       20 |             42.26 | Tomas Etcheverry       |              0 |
+|              0 | Valentin Mastroizi    |             34.62 |       21 |            nan    | Francisco Lamensa      |              0 |
+|              0 | Jeronimo Conte Grand  |            nan    |       22 |            nan    | Juan Monasterio        |              0 |
+|              0 | Simon Benitez Cruz    |            nan    |       23 |            nan    | Tomas Bunge            |              0 |
 

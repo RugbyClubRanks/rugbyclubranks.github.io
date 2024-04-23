@@ -11,7 +11,7 @@ categories: "URBA Top 12 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.732, which translates to predicting Belgrano to win by 9.1.
 
-Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 21 to 30
+Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 20 to 29
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ CASI by 0.0 on a neutral pitch
 
 |   Away Minutes | Away Player                |   Away Percentile |   Number |   Home Percentile | Home Player            |   Home Minutes |
 |---------------:|:---------------------------|------------------:|---------:|------------------:|:-----------------------|---------------:|
-|             80 | Facundo Scaiano            |             48.81 |        1 |             61.54 | Francisco Ferronato    |             80 |
-|             80 | Juan Torres Obeid          |             47.84 |        2 |             61.37 | Francisco Lusarreta    |             80 |
-|             80 | Juan Ignacio Nieto Sanchez |             48.72 |        3 |             58.12 | Lisandro Garcia Dragui |             80 |
-|             80 | Salvador Ochoa             |             49.11 |        4 |             57.4  | Luciano Tecca          |             80 |
-|             80 | Ignacio Torrado            |             49.11 |        5 |             57.64 | Ramon Duggan           |             80 |
-|             80 | Eugenio Sartori            |             45.48 |        6 |             56.6  | Joaquin de la Serna    |             80 |
-|             80 | Joaquin Saenz de Miera     |             45.48 |        7 |             56.6  | Julian Rebusone        |             80 |
-|             80 | Luis Briatore              |             44.39 |        8 |             54.63 | Franco Vega            |             80 |
-|             80 | Luca Canzani               |             46.88 |        9 |             52.08 | Ignacio Marino         |             80 |
-|             80 | Felipe Hileman             |             41.25 |       10 |             52.75 | Joaquin Mihura         |             80 |
-|             80 | Jeronimo Tumbarello        |             47.51 |       11 |             58.89 | Ignacio Diaz           |             80 |
-|             80 | Bruno Devoto               |             41.84 |       12 |             52.16 | Ramon Arana            |             80 |
-|             80 | Jeronimo Solveyra          |             41.84 |       13 |             52.16 | Tomas Etchepare        |             80 |
-|             80 | Santiago David             |             47.51 |       14 |             42.02 | Tobias Bernabe         |             80 |
-|             80 | Juan Akemeier              |             40.65 |       15 |             51.87 | Juan Lando             |             80 |
-|              0 | Away Team 16               |            nan    |       16 |            nan    | Home Team 16           |              0 |
-|              0 | Away Team 17               |            nan    |       17 |            nan    | Home Team 17           |              0 |
-|              0 | Away Team 18               |            nan    |       18 |            nan    | Home Team 18           |              0 |
-|              0 | Away Team 19               |            nan    |       19 |            nan    | Home Team 19           |              0 |
-|              0 | Away Team 20               |            nan    |       20 |            nan    | Home Team 20           |              0 |
-|              0 | Away Team 21               |            nan    |       21 |            nan    | Home Team 21           |              0 |
-|              0 | Away Team 22               |            nan    |       22 |            nan    | Home Team 22           |              0 |
-|              0 | Away Team 23               |            nan    |       23 |            nan    | Home Team 23           |              0 |
+|             80 | Facundo Scaiano            |             47.47 |        1 |             65.49 | Francisco Ferronato    |             80 |
+|             80 | Juan Torres Obeid          |             66.6  |        2 |             64.64 | Francisco Lusarreta    |             80 |
+|             80 | Juan Ignacio Nieto Sanchez |             67.3  |        3 |             61.2  | Lisandro Garcia Dragui |             80 |
+|             80 | Salvador Ochoa             |             65.31 |        4 |             59.81 | Luciano Tecca          |             80 |
+|             80 | Ignacio Torrado            |             48.33 |        5 |             60.77 | Ramon Duggan           |             80 |
+|             80 | Eugenio Sartori            |             61.54 |        6 |             59.8  | Joaquin de la Serna    |             80 |
+|             80 | Joaquin Saenz de Miera     |             61.54 |        7 |             59.8  | Julian Rebusone        |             80 |
+|             80 | Luis Briatore              |             61.67 |        8 |             58.97 | Franco Vega            |             80 |
+|             80 | Luca Canzani               |             64.42 |        9 |             59.79 | Ignacio Marino         |             80 |
+|             80 | Felipe Hileman             |             56.15 |       10 |             55.64 | Joaquin Mihura         |             80 |
+|             80 | Jeronimo Tumbarello        |             64.47 |       11 |             63.29 | Ignacio Diaz           |             80 |
+|             80 | Bruno Devoto               |             57.83 |       12 |             56.61 | Ramon Arana            |             80 |
+|             80 | Jeronimo Solveyra          |             57.83 |       13 |             56.61 | Tomas Etchepare        |             80 |
+|             80 | Santiago David             |             64.47 |       14 |             48.42 | Tobias Bernabe         |             80 |
+|             80 | Juan Akemeier              |             57.39 |       15 |             56.39 | Juan Lando             |             80 |
+|              0 | Matias Dirube              |            nan    |       16 |            nan    | Jose Saporitti         |              0 |
+|              0 | Felix Paolucci             |            nan    |       17 |            nan    | Eliseo Marchetti       |              0 |
+|              0 | Joaquin Britto             |             66.83 |       18 |            nan    | Mikael Quesada         |              0 |
+|              0 | Hugo Garcia                |            nan    |       19 |            nan    | Justo Duranona         |              0 |
+|              0 | Leo Mazzini                |             64.83 |       20 |            nan    | Augusto Vaccarino      |              0 |
+|              0 | Felipe Phelan              |            nan    |       21 |            nan    | Theo Blaksley          |              0 |
+|              0 | Benjamin Rocca Rivarola    |            nan    |       22 |            nan    | Felix Senal Barakat    |              0 |
+|              0 | Benjamin Belaga            |            nan    |       23 |            nan    | Juan Brescia           |              0 |
 

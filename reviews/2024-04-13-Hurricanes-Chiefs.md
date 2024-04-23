@@ -11,7 +11,7 @@ categories: "Super Rugby Pacific 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.627, which translates to predicting Hurricanes to win by 4.7.
 
-Our Over/Under is 56.5 - and combined with the spread above, we have a predicted scoreline of 26 to 31
+Our Over/Under is 54.5 - and combined with the spread above, we have a predicted scoreline of 25 to 30
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Hurricanes by 10.1 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             57 | Aidan Ross          |             97.44 |        1 |             96.3  | Xavier Numia         |             60 |
-|             64 | Samisoni Taukei'aho |             91.96 |        2 |             97.25 | Asafo Aumua          |             75 |
-|             41 | Reuben O'Neill      |             26.31 |        3 |             94.87 | Tyrel Lomax          |             60 |
-|             57 | Naitoa Ah Kuoi      |             93.44 |        4 |             86.87 | Caleb Delany         |             80 |
-|             80 | Tupou Vaa'i         |             86.4  |        5 |             96.54 | Isaia Walker-Leawere |             64 |
-|             80 | Samipeni Finau      |             91.66 |        6 |             91.89 | Brad Shields         |             52 |
-|             80 | Luke Jacobson       |             89.92 |        7 |             94.21 | Peter Lakai          |             80 |
-|             60 | Wallace Sititi      |             27.07 |        8 |              1.95 | Brayden Iose         |             51 |
-|             71 | Cortez Ratima       |             65.62 |        9 |             97.29 | TJ Perenara          |             70 |
-|             80 | Damian McKenzie     |             97.25 |       10 |             19.5  | Brett Cameron        |             80 |
-|             80 | Etene Nanai-Seturo  |             33.52 |       11 |             96.72 | Kini Naholo          |             80 |
-|             80 | Rameka Poihipi      |             66.99 |       12 |             96.4  | Jordie Barrett       |             80 |
-|             54 | Daniel Rona         |             68.91 |       13 |             93.04 | Billy Proctor        |             74 |
-|             80 | Emoni Narawa        |             88.56 |       14 |             86.75 | Joshua Moorby        |             80 |
-|             28 | Shaun Stevenson     |             89.78 |       15 |             94.26 | Ruben Love           |             80 |
-|             16 | Bradley Slater      |             79.41 |       16 |             32.75 | James O'Reilly       |              5 |
-|             23 | Ollie Norris        |             79.77 |       17 |             86.89 | Pouri Rakete-Stones  |             20 |
-|             39 | George Dyer         |             78.06 |       18 |             56.13 | Pasilio Tosi         |             20 |
-|             23 | Jimmy Tupou         |             30.55 |       19 |             70.88 | Justin Sangster      |             16 |
-|             20 | Kaylum Boshier      |             34.3  |       20 |             90.03 | Du'Plessis Kirifi    |             28 |
-|              9 | Xavier Roe          |             37.08 |       21 |             81.22 | Devan Flanders       |             29 |
-|             52 | Josh Ioane          |             47.13 |       22 |             95.62 | Richard Judd         |             10 |
-|             26 | Quinn Tupaea        |             84.39 |       23 |             39.38 | Peter Umaga-Jensen   |              6 |
+|             57 | Aidan Ross          |             97.33 |        1 |             96.09 | Xavier Numia         |             60 |
+|             64 | Samisoni Taukei'aho |             92.14 |        2 |             97.25 | Asafo Aumua          |             75 |
+|             41 | Reuben O'Neill      |             26.02 |        3 |             94.95 | Tyrel Lomax          |             60 |
+|             57 | Naitoa Ah Kuoi      |             93.42 |        4 |             87.08 | Caleb Delany         |             80 |
+|             80 | Tupou Vaa'i         |             86.6  |        5 |             97.49 | Isaia Walker-Leawere |             64 |
+|             80 | Samipeni Finau      |             91.65 |        6 |             93.39 | Brad Shields         |             52 |
+|             80 | Luke Jacobson       |             89.91 |        7 |             94.08 | Peter Lakai          |             80 |
+|             60 | Wallace Sititi      |             28.5  |        8 |              2.21 | Brayden Iose         |             51 |
+|             71 | Cortez Ratima       |             66.11 |        9 |             97.68 | TJ Perenara          |             70 |
+|             80 | Damian McKenzie     |             97.18 |       10 |             20.77 | Brett Cameron        |             80 |
+|             80 | Etene Nanai-Seturo  |             33.9  |       11 |             97.18 | Kini Naholo          |             80 |
+|             80 | Rameka Poihipi      |             67.6  |       12 |             96.72 | Jordie Barrett       |             80 |
+|             54 | Daniel Rona         |             69.3  |       13 |             93.69 | Billy Proctor        |             74 |
+|             80 | Emoni Narawa        |             89.3  |       14 |             87.47 | Joshua Moorby        |             80 |
+|             28 | Shaun Stevenson     |             89.47 |       15 |             94.24 | Ruben Love           |             80 |
+|             16 | Bradley Slater      |             78.39 |       16 |             44.01 | James O'Reilly       |              5 |
+|             23 | Ollie Norris        |             79.98 |       17 |             86.65 | Pouri Rakete-Stones  |             20 |
+|             39 | George Dyer         |             77.79 |       18 |             50.91 | Pasilio Tosi         |             20 |
+|             23 | Jimmy Tupou         |             30.62 |       19 |             71.17 | Justin Sangster      |             16 |
+|             20 | Kaylum Boshier      |             33.76 |       20 |             92.46 | Du'Plessis Kirifi    |             28 |
+|              9 | Xavier Roe          |             37.89 |       21 |             83.05 | Devan Flanders       |             29 |
+|             52 | Josh Ioane          |             46.87 |       22 |             95.58 | Richard Judd         |             10 |
+|             26 | Quinn Tupaea        |             83.98 |       23 |             39.44 | Peter Umaga-Jensen   |              6 |
 

@@ -11,7 +11,7 @@ categories: "European Rugby Challenge Cup 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.641, which translates to predicting Sharks to win by 5.1.
 
-Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 23 to 28
+Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 22 to 27
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Edinburgh by 0.8 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             63 | Pierre Schoeman     |             90.98 |        1 |             99.81 | Ox Nche             |             69 |
-|             58 | Ewan Ashman         |             81.76 |        2 |             96.47 | Bongi Mbonambi      |             58 |
-|             66 | WP Nel              |             98.96 |        3 |             56.41 | Vincent Koch        |             74 |
-|             84 | Sam Skinner         |             77.33 |        4 |             98.45 | Eben Etzebeth       |             84 |
-|             63 | Grant Gilchrist     |             94.75 |        5 |             59.07 | Emile van Heerden   |             74 |
-|             84 | Jamie Ritchie       |            100    |        6 |             71.38 | James Venter        |             38 |
-|             84 | Hamish Watson       |             54.35 |        7 |             85.28 | Vincent Tshituka    |             84 |
-|             58 | Viliame Mata        |             75.85 |        8 |             57.32 | Phepsi Buthelezi    |             84 |
-|             58 | Ben Vellacott       |             77.29 |        9 |             84.38 | Jaden Hendrikse     |             63 |
-|             84 | Ben Healy           |             76.75 |       10 |             55.75 | Siya Masuku         |             74 |
-|             84 | Duhan van der Merwe |             82.67 |       11 |             99.55 | Makazole Mapimpi    |             84 |
-|             84 | Matt Currie         |             80.07 |       12 |             46.94 | Ethan Hooker        |             70 |
-|             66 | Mark Bennett        |             64.35 |       13 |             86.55 | Lukhanyo Am         |             84 |
-|             70 | Jacob Henry         |             25.48 |       14 |             74.63 | Werner Kok          |             84 |
-|             84 | Wes Goosen          |             92.52 |       15 |             91.52 | Aphelele Fassi      |             84 |
-|             26 | Dave Cherry         |             56.27 |       16 |            nan    | Dan Jooste          |             26 |
-|             21 | Boan Venter         |             15.86 |       17 |             33.14 | Ntuthuko Mchunu     |             15 |
-|             18 | D'Arcy Rae          |             53.18 |       18 |             51.95 | Hanru Jacobs        |             10 |
-|             21 | Jamie Hodgson       |             88.78 |       19 |             54.77 | Corne Rahl          |             10 |
-|             26 | Luke Crosbie        |             93.74 |       20 |             40.79 | Jeandre Labuschagne |             46 |
-|             26 | Ali Price           |             83.75 |       21 |             55.42 | Grant Williams      |             21 |
-|             18 | James Lang          |             92.44 |       22 |             86    | Curwin Bosch        |             10 |
-|             14 | Chris Dean          |              9.36 |       23 |             48.98 | Francois Venter     |             14 |
+|             63 | Pierre Schoeman     |             91.04 |        1 |             99.81 | Ox Nche             |             69 |
+|             58 | Ewan Ashman         |             81.73 |        2 |             96.46 | Bongi Mbonambi      |             58 |
+|             66 | WP Nel              |             98.86 |        3 |             55.39 | Vincent Koch        |             74 |
+|             84 | Sam Skinner         |             77.87 |        4 |             98.33 | Eben Etzebeth       |             84 |
+|             63 | Grant Gilchrist     |             94.86 |        5 |             58.49 | Emile van Heerden   |             74 |
+|             84 | Jamie Ritchie       |            100    |        6 |             71    | James Venter        |             38 |
+|             84 | Hamish Watson       |             52.78 |        7 |             84.92 | Vincent Tshituka    |             84 |
+|             58 | Viliame Mata        |             76.41 |        8 |             56.76 | Phepsi Buthelezi    |             84 |
+|             58 | Ben Vellacott       |             77.47 |        9 |             84.63 | Jaden Hendrikse     |             63 |
+|             84 | Ben Healy           |             76.67 |       10 |             54.36 | Siya Masuku         |             74 |
+|             84 | Duhan van der Merwe |             83.56 |       11 |             99.55 | Makazole Mapimpi    |             84 |
+|             84 | Matt Currie         |             84.68 |       12 |             46.97 | Ethan Hooker        |             70 |
+|             66 | Mark Bennett        |             65.78 |       13 |             86.53 | Lukhanyo Am         |             84 |
+|             70 | Jacob Henry         |             26.69 |       14 |             75.45 | Werner Kok          |             84 |
+|             84 | Wes Goosen          |             92.98 |       15 |             91.23 | Aphelele Fassi      |             84 |
+|             26 | Dave Cherry         |             53.44 |       16 |             47.94 | Dan Jooste          |             26 |
+|             21 | Boan Venter         |             15.54 |       17 |             44.71 | Ntuthuko Mchunu     |             15 |
+|             18 | D'Arcy Rae          |             52.24 |       18 |             58.44 | Hanru Jacobs        |             10 |
+|             21 | Jamie Hodgson       |             88.88 |       19 |             60.17 | Corne Rahl          |             10 |
+|             26 | Luke Crosbie        |             93.16 |       20 |             39.56 | Jeandre Labuschagne |             46 |
+|             26 | Ali Price           |             83.58 |       21 |             63.58 | Grant Williams      |             21 |
+|             18 | James Lang          |             91.14 |       22 |             84.62 | Curwin Bosch        |             10 |
+|             14 | Chris Dean          |              9.22 |       23 |             54.98 | Francois Venter     |             14 |
 

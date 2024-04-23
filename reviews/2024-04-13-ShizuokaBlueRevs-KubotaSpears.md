@@ -9,9 +9,9 @@ categories: "Japan Rugby League One 2023" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.536, which translates to predicting Shizuoka Blue Revs to win by 1.3.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.557, which translates to predicting Shizuoka Blue Revs to win by 2.0.
 
-Our Over/Under is 72.5 - and combined with the spread above, we have a predicted scoreline of 36 to 37
+Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 25 to 27
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Kubota Spears by 2.7 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             53 | Kota Kaishi         |             83.67 |        1 |             44.92 | Takayoshi Mohara   |             75 |
-|             53 | Dane Coles          |             99.8  |        2 |             96.27 | Takeshi Hino       |             73 |
-|             53 | Opeti Helu          |             70.94 |        3 |             88.6  | Heiichiro Ito      |             53 |
-|             80 | Ruan Botha          |             97.85 |        4 |             85.92 | Eishin Kuwano      |             80 |
-|             53 | David Bulbring      |             72.2  |        5 |             94.27 | Murray Douglas     |             52 |
-|             80 | Lappies Labuschagne |             85.98 |        6 |             95.02 | Yuya Odo           |             80 |
-|             68 | Takeo Suenaga       |             78.56 |        7 |             49.71 | Shoji Takuma       |             53 |
-|             80 | Faulua Makisi       |             80.49 |        8 |             51.95 | Malgene Ilaua      |             40 |
-|             67 | Shinobu Fujiwara    |             30.21 |        9 |             96.67 | Bryn Hall          |             40 |
-|             80 | Bernard Foley       |             98.75 |       10 |             25.75 | Kakeru Okumura     |             80 |
-|             80 | Suryung Kim         |             76.22 |       11 |             81.88 | Malo Tuitama       |             80 |
-|             80 | Harumichi Tatekawa  |             58.34 |       12 |             49.7  | Sylvian Mahuza     |             75 |
-|             53 | Sione Teaupa        |             74.79 |       13 |             87.39 | Charles Piutau     |             80 |
-|             67 | Koga Nezuka         |             83.01 |       14 |             62.85 | Keagan Faria       |             80 |
-|             80 | Yuhei Shimada       |             18.2  |       15 |             71.07 | Futo Yamaguchi     |             80 |
-|             29 | Hayate Era          |            nan    |       16 |             51.71 | Sione Vuna         |             42 |
-|             29 | Yota Kaminori       |             51.38 |       17 |             53.54 | Kodai Okazaki      |             42 |
-|             29 | Kengo Kitagawa      |             85.19 |       18 |             56.6  | Sean Vete          |             29 |
-|             29 | JD Schickerling     |              2.86 |       19 |            nan    | Vueti Tupou        |             30 |
-|             29 | Rikus Pretorius     |             37.58 |       20 |             51.1  | Richard Goh Jones  |             29 |
-|             15 | Tomoki Kishioka     |             45.5  |       21 |            nan    | Richmond Tongatama |              9 |
-|             15 | Halatoa Vailea      |             72.03 |       22 |             32.19 | Kenta Yamashita    |              7 |
-|             14 | Finau Tupa          |             70.1  |       23 |             76.11 | Jonathan Faauli    |              7 |
+|             53 | Kota Kaishi         |             83.98 |        1 |             44.14 | Takayoshi Mohara   |             75 |
+|             53 | Dane Coles          |             99.8  |        2 |             97.45 | Takeshi Hino       |             73 |
+|             53 | Opeti Helu          |             71.21 |        3 |             90.09 | Heiichiro Ito      |             53 |
+|             80 | Ruan Botha          |             97.97 |        4 |             88.76 | Eishin Kuwano      |             80 |
+|             53 | David Bulbring      |             72.25 |        5 |             94.14 | Murray Douglas     |             52 |
+|             80 | Lappies Labuschagne |             85.38 |        6 |             94.78 | Yuya Odo           |             80 |
+|             68 | Takeo Suenaga       |             78.42 |        7 |             53.25 | Shoji Takuma       |             53 |
+|             80 | Faulua Makisi       |             81.08 |        8 |             57.25 | Malgene Ilaua      |             40 |
+|             67 | Shinobu Fujiwara    |             31.16 |        9 |             96.63 | Bryn Hall          |             40 |
+|             80 | Bernard Foley       |             98.72 |       10 |             34.1  | Kakeru Okumura     |             80 |
+|             80 | Suryung Kim         |             77.14 |       11 |             85.02 | Malo Tuitama       |             80 |
+|             80 | Harumichi Tatekawa  |             58.74 |       12 |             54    | Sylvian Mahuza     |             75 |
+|             53 | Sione Teaupa        |             74.88 |       13 |             89.68 | Charles Piutau     |             80 |
+|             67 | Koga Nezuka         |             83.33 |       14 |             61.49 | Keagan Faria       |             80 |
+|             80 | Yuhei Shimada       |             18.55 |       15 |             74.44 | Futo Yamaguchi     |             80 |
+|             29 | Hayate Era          |            nan    |       16 |             51.6  | Sione Vuna         |             42 |
+|             29 | Yota Kaminori       |             50.62 |       17 |             60.63 | Kodai Okazaki      |             42 |
+|             29 | Kengo Kitagawa      |             85.22 |       18 |             55.48 | Sean Vete          |             29 |
+|             29 | JD Schickerling     |              3.11 |       19 |             45.48 | Vueti Tupou        |             30 |
+|             29 | Rikus Pretorius     |             37.99 |       20 |             49.54 | Richard Goh Jones  |             29 |
+|             15 | Tomoki Kishioka     |             44.87 |       21 |            nan    | Richmond Tongatama |              9 |
+|             15 | Halatoa Vailea      |             72.3  |       22 |             40.99 | Kenta Yamashita    |              7 |
+|             14 | Finau Tupa          |             69.37 |       23 |             76.58 | Jonathan Faauli    |              7 |
 

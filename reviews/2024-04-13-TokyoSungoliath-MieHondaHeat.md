@@ -9,9 +9,9 @@ categories: "Japan Rugby League One 2023" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.962, which translates to predicting Tokyo Sungoliath to win by 29.0.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.96, which translates to predicting Tokyo Sungoliath to win by 28.5.
 
-Our Over/Under is 71.5 - and combined with the spread above, we have a predicted scoreline of 21 to 50
+Our Over/Under is 68.5 - and combined with the spread above, we have a predicted scoreline of 20 to 49
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Tokyo Sungoliath by 20.6 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             47 | Takumi Fuji         |             14.81 |        1 |             92.97 | Yukio Morikawa      |             80 |
-|             47 | Lee Seung Hyok      |              5.49 |        2 |             77.84 | Kosuke Horikoshi    |             80 |
-|             47 | Matthys Basson      |             21.37 |        3 |             88.89 | Shinnosuke Kakinaga |             80 |
-|             80 | Yoji Akiyama        |             23.99 |        4 |             97.14 | Sam Jeffries        |             80 |
-|             62 | Franco Mostert      |             89.98 |        5 |             98.93 | Harry Hockings      |             80 |
-|             80 | Ryota Kobayashi     |              3.71 |        6 |             60.37 | Ryuga Hashimoto     |             80 |
-|             47 | Kosuke Hattori      |             49.25 |        7 |             59.68 | Kai Yamamoto        |             80 |
-|             80 | Ryo Furuta          |              2.2  |        8 |             32.44 | Tamati Ioane        |             80 |
-|             47 | Shogo Nezuka        |             15    |        9 |             87.29 | Yutaka Nagare       |             80 |
-|             80 | Gwangtee Oh         |             17.5  |       10 |             74.75 | Mikiya Takamoto     |             80 |
-|             62 | Kanta Watanabe      |             23.22 |       11 |             76.1  | Shota Emi           |             80 |
-|             80 | Dawid Kellerman     |             11.88 |       12 |             53.9  | Isaiah Punivai      |             80 |
-|             51 | Soki Watanabe       |             15.73 |       13 |             78.15 | Taiga Ozaki         |             80 |
-|             80 | Haruhiko Uemura     |             14.38 |       14 |             93.88 | Seiya Ozaki         |             80 |
-|             80 | Tom Banks           |             81.05 |       15 |             95.76 | Kotaro Matsushima   |             80 |
+|             47 | Takumi Fuji         |             15.25 |        1 |             92.37 | Yukio Morikawa      |             80 |
+|             47 | Lee Seung Hyok      |              5.3  |        2 |             72.3  | Kosuke Horikoshi    |             80 |
+|             47 | Matthys Basson      |             21.64 |        3 |             87.42 | Shinnosuke Kakinaga |             80 |
+|             80 | Yoji Akiyama        |             24.16 |        4 |             97.13 | Sam Jeffries        |             80 |
+|             62 | Franco Mostert      |             90.31 |        5 |             98.68 | Harry Hockings      |             80 |
+|             80 | Ryota Kobayashi     |              3.36 |        6 |             58.82 | Ryuga Hashimoto     |             80 |
+|             47 | Kosuke Hattori      |             47.8  |        7 |             53.6  | Kai Yamamoto        |             80 |
+|             80 | Ryo Furuta          |              2.46 |        8 |             27.76 | Tamati Ioane        |             80 |
+|             47 | Shogo Nezuka        |             14.95 |        9 |             86.53 | Yutaka Nagare       |             80 |
+|             80 | Gwangtee Oh         |             18.97 |       10 |             71.54 | Mikiya Takamoto     |             80 |
+|             62 | Kanta Watanabe      |             23.76 |       11 |             74.44 | Shota Emi           |             80 |
+|             80 | Dawid Kellerman     |             11.89 |       12 |             47.57 | Isaiah Punivai      |             80 |
+|             51 | Soki Watanabe       |             16.02 |       13 |             75.12 | Taiga Ozaki         |             80 |
+|             80 | Haruhiko Uemura     |             14.64 |       14 |             92.91 | Seiya Ozaki         |             80 |
+|             80 | Tom Banks           |             80.2  |       15 |             95.49 | Kotaro Matsushima   |             80 |
 |             33 | Koki Hida           |            nan    |       16 |            nan    | nan                 |            nan |
-|             33 | Tatsuhiko Tsurukawa |              2.85 |       17 |            nan    | nan                 |            nan |
-|             33 | Katsuyuki Hoshino   |             17.95 |       18 |            nan    | nan                 |            nan |
-|             33 | Waimana Kapa        |             19.76 |       19 |            nan    | nan                 |            nan |
+|             33 | Tatsuhiko Tsurukawa |              2.67 |       17 |            nan    | nan                 |            nan |
+|             33 | Katsuyuki Hoshino   |             18.3  |       18 |            nan    | nan                 |            nan |
+|             33 | Waimana Kapa        |             21.62 |       19 |            nan    | nan                 |            nan |
 |             33 | Taichi Takenaka     |            nan    |       20 |            nan    | nan                 |            nan |
-|             29 | Fraser Quirk        |              4.8  |       21 |            nan    | nan                 |            nan |
+|             29 | Fraser Quirk        |              4.85 |       21 |            nan    | nan                 |            nan |
 |             18 | Connor Wihongi      |            nan    |       22 |            nan    | nan                 |            nan |
-|             18 | Mitch Hunt          |             64    |       23 |            nan    | nan                 |            nan |
+|             18 | Mitch Hunt          |             62.82 |       23 |            nan    | nan                 |            nan |
 

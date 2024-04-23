@@ -11,7 +11,7 @@ categories: "Pro D2 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.73, which translates to predicting Grenoble to win by 8.7.
 
-Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 20 to 29
+Our Over/Under is 55.5 - and combined with the spread above, we have a predicted scoreline of 23 to 32
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Grenoble by 14.7 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             67 | Alexandre Plantier  |             64.77 |        1 |             22.7  | Eli Eglaine         |             46 |
-|             63 | Luka Nioradze       |             12.55 |        2 |             74.51 | Barnabé Massa       |             46 |
-|             41 | Thomas Cretu        |             33.9  |        3 |             81.48 | Irakli Aptsiauri    |             52 |
-|             80 | Eoghan Masterson    |             73.15 |        4 |             55.85 | Thomas Lainault     |             55 |
-|             41 | Martial Rolland     |             37.11 |        5 |             49.52 | Brandon Nansen      |             46 |
-|             41 | Latuka Maituku      |              6.37 |        6 |             91.31 | Jose Madeira        |             80 |
-|             46 | Théo Cambon         |             11.82 |        7 |             73.23 | Steeve Blanc-Mappaz |             55 |
-|             80 | Beka Shvangiradze   |             49.27 |        8 |             62.93 | Pio Muarua          |             80 |
-|             63 | Mikheil Alania      |             25.42 |        9 |             90.21 | Eric Escande        |             80 |
-|             80 | Marc Palmier        |             13.25 |       10 |             83.25 | Sam Davies          |             80 |
-|             80 | Axel Bevia          |             18.35 |       11 |             50.28 | Karim Qadiri        |             41 |
-|             80 | Christa Powell      |              9.24 |       12 |             96.28 | Bautista Ezcurra    |             80 |
-|             80 | Juun Pieters        |             54.5  |       13 |             59.66 | Romain Trouilloud   |             80 |
-|             55 | Simeli Yabaki       |              7.47 |       14 |             86.86 | Wilfried Hulleu     |             27 |
-|             80 | Jules Margarit      |             18.95 |       15 |             95.51 | Julien Farnoux      |             80 |
-|             39 | Tim Daniel-Meissen  |             23.65 |       16 |             29.17 | Romain Fusier       |             53 |
-|             39 | Hugo Huurman        |             65.47 |       17 |             53.25 | Max Clement         |             39 |
-|             39 | Heath Backhouse     |             81.26 |       18 |             57.08 | Luka Goginava       |             34 |
-|             34 | Aleksandre Burduli  |            nan    |       19 |             46.08 | Lilian Rossi        |             34 |
-|             25 | Anderson Neisen     |             32    |       20 |             69.57 | Georgi Javakhia     |             34 |
-|             17 | Leo Salvan          |            nan    |       21 |             74.17 | Regis Montagne      |             28 |
-|             17 | Lilian Djomboue     |             42.35 |       22 |             34.15 | Thibaut Martel      |             25 |
-|             13 | Jean-Jacques Gymael |             12.63 |       23 |             51.46 | Antonin Berruyer    |             25 |
+|             67 | Alexandre Plantier  |             64.63 |        1 |             22.88 | Eli Eglaine         |             46 |
+|             63 | Luka Nioradze       |             12.38 |        2 |             74.66 | Barnabé Massa       |             46 |
+|             41 | Thomas Cretu        |             33.46 |        3 |             81.51 | Irakli Aptsiauri    |             52 |
+|             80 | Eoghan Masterson    |             80.98 |        4 |             55.38 | Thomas Lainault     |             55 |
+|             41 | Martial Rolland     |             37.56 |        5 |             49.16 | Brandon Nansen      |             46 |
+|             41 | Latuka Maituku      |              6.26 |        6 |             91.3  | Jose Madeira        |             80 |
+|             46 | Théo Cambon         |             10.9  |        7 |             72.85 | Steeve Blanc-Mappaz |             55 |
+|             80 | Beka Shvangiradze   |             55.53 |        8 |             69.53 | Pio Muarua          |             80 |
+|             63 | Mikheil Alania      |             26.11 |        9 |             90.74 | Eric Escande        |             80 |
+|             80 | Marc Palmier        |             20.05 |       10 |             82.82 | Sam Davies          |             80 |
+|             80 | Axel Bevia          |             18.69 |       11 |             49.55 | Karim Qadiri        |             41 |
+|             80 | Christa Powell      |              9.1  |       12 |             96.24 | Bautista Ezcurra    |             80 |
+|             80 | Juun Pieters        |             69.82 |       13 |             73.18 | Romain Trouilloud   |             80 |
+|             55 | Simeli Yabaki       |              7.66 |       14 |             87.39 | Wilfried Hulleu     |             27 |
+|             80 | Jules Margarit      |             19.05 |       15 |             96.74 | Julien Farnoux      |             80 |
+|             39 | Tim Daniel-Meissen  |             23.64 |       16 |             43.2  | Romain Fusier       |             53 |
+|             39 | Hugo Huurman        |             69.95 |       17 |             71.79 | Max Clement         |             39 |
+|             39 | Heath Backhouse     |             81.82 |       18 |             56.05 | Luka Goginava       |             34 |
+|             34 | Aleksandre Burduli  |            nan    |       19 |             44.99 | Lilian Rossi        |             34 |
+|             25 | Anderson Neisen     |             31.54 |       20 |             82.89 | Georgi Javakhia     |             34 |
+|             17 | Leo Salvan          |            nan    |       21 |             83.13 | Regis Montagne      |             28 |
+|             17 | Lilian Djomboue     |             40.86 |       22 |             62.18 | Thibaut Martel      |             25 |
+|             13 | Jean-Jacques Gymael |             12.96 |       23 |             63.81 | Antonin Berruyer    |             25 |
 

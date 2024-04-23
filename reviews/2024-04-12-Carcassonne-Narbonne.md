@@ -9,9 +9,9 @@ categories: "Nationale 2023" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.668, which translates to predicting Carcassonne to win by 6.1.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.666, which translates to predicting Carcassonne to win by 6.1.
 
-Our Over/Under is 40.5 - and combined with the spread above, we have a predicted scoreline of 17 to 23
+Our Over/Under is 37.5 - and combined with the spread above, we have a predicted scoreline of 16 to 22
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Narbonne by 1.7 on a neutral pitch
 
 |   Away Minutes | Away Player            |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:-----------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             60 | Théo Castinel          |             80.25 |        1 |             95.82 | Andrei Ursache        |             75 |
-|             72 | Clément Esteriola      |              9.02 |        2 |             74.9  | Raphael Carbou        |             75 |
-|             33 | Jamie Hagan            |             46.15 |        3 |             88.41 | Fabien Lorenzon       |             67 |
-|             80 | Marius Antonescu       |              7.76 |        4 |             55.49 | Romain Manchia        |             59 |
-|             40 | Leva Fifita            |              9.31 |        5 |             55.01 | Romain Guyot          |             50 |
-|             80 | Arthur Christienne     |              8.46 |        6 |              5.56 | Valentin Sese         |             80 |
-|             47 | Thibault Clauzade      |             80.3  |        7 |             84.24 | Etienne Herjean       |             80 |
-|             80 | Baptiste Abescat-Leroy |             69.02 |        8 |             61.22 | Shaun Adendorff       |             80 |
-|             54 | Pierrick Nova          |             55.83 |        9 |              1.25 | Martin Landajo        |             80 |
-|             80 | Gilles Bosch           |              3    |       10 |             56.5  | Gabin Michet          |             80 |
-|             80 | Étienne Ducom          |             82.33 |       11 |             94.56 | Clement Egiziano      |             80 |
-|             80 | Peter Betham           |             99.4  |       12 |             42.86 | Jeremy To'a           |             54 |
-|             54 | Pierre Nueno           |             26.17 |       13 |              7.56 | Mathys Barka          |             62 |
-|             80 | Clément Clavières      |             38.28 |       14 |              9.85 | Sakiusa Bureitakiyaca |             80 |
-|             80 | Paul Auradou           |             79.8  |       15 |             74.06 | Damien Añon           |             80 |
-|             20 | Sylvain Abadie         |              8.64 |       16 |             35.23 | Florent Lorenzon      |              5 |
-|              8 | Christophe David       |             87.65 |       17 |            nan    | Baptiste Moreno       |              5 |
-|             47 | Mohammed Loukia        |             12.35 |       18 |             16.71 | Vakhtangi Akhobadze   |             13 |
-|             40 | Dennis Visser          |             50.95 |       19 |             42.18 | Ferdinand Dreno       |             21 |
-|             33 | Luke Nakobukobua       |             91.43 |       20 |             34.73 | Clément Fontaine      |             30 |
-|             26 | Josh Valentine         |             93.33 |       21 |             14.29 | Tutuila Vaea          |             26 |
-|              3 | Sébastien Giorgis      |             56.63 |       22 |             91.77 | Maxime Gianet         |             18 |
-|             23 | James Kane             |             45.39 |       23 |            nan    | nan                   |            nan |
+|             60 | Théo Castinel          |             80.27 |        1 |             95.71 | Andrei Ursache        |             75 |
+|             72 | Clément Esteriola      |              8.84 |        2 |             75.05 | Raphael Carbou        |             75 |
+|             33 | Jamie Hagan            |             45.47 |        3 |             88.37 | Fabien Lorenzon       |             67 |
+|             80 | Marius Antonescu       |              7.89 |        4 |             55.26 | Romain Manchia        |             59 |
+|             40 | Leva Fifita            |              9.45 |        5 |             54.9  | Romain Guyot          |             50 |
+|             80 | Arthur Christienne     |              8.12 |        6 |              5.45 | Valentin Sese         |             80 |
+|             47 | Thibault Clauzade      |             79.7  |        7 |             83.87 | Etienne Herjean       |             80 |
+|             80 | Baptiste Abescat-Leroy |             68.06 |        8 |             59.95 | Shaun Adendorff       |             80 |
+|             54 | Pierrick Nova          |             54.74 |        9 |              1.26 | Martin Landajo        |             80 |
+|             80 | Gilles Bosch           |              2.82 |       10 |             55.13 | Gabin Michet          |             80 |
+|             80 | Étienne Ducom          |             82.55 |       11 |             94.48 | Clement Egiziano      |             80 |
+|             80 | Peter Betham           |             99.39 |       12 |             42.35 | Jeremy To'a           |             54 |
+|             54 | Pierre Nueno           |             25.73 |       13 |              7.65 | Mathys Barka          |             62 |
+|             80 | Clément Clavières      |             38.4  |       14 |              9.91 | Sakiusa Bureitakiyaca |             80 |
+|             80 | Paul Auradou           |             78.95 |       15 |             72.43 | Damien Añon           |             80 |
+|             20 | Sylvain Abadie         |              8.48 |       16 |             34.89 | Florent Lorenzon      |              5 |
+|              8 | Christophe David       |             87.62 |       17 |            nan    | Baptiste Moreno       |              5 |
+|             47 | Mohammed Loukia        |             12.68 |       18 |             17.06 | Vakhtangi Akhobadze   |             13 |
+|             40 | Dennis Visser          |             50.36 |       19 |             40.95 | Ferdinand Dreno       |             21 |
+|             33 | Luke Nakobukobua       |             91.42 |       20 |             34.57 | Clément Fontaine      |             30 |
+|             26 | Josh Valentine         |             93.68 |       21 |             14.68 | Tutuila Vaea          |             26 |
+|              3 | Sébastien Giorgis      |             56.08 |       22 |             91.48 | Maxime Gianet         |             18 |
+|             23 | James Kane             |             45.36 |       23 |            nan    | nan                   |            nan |
 

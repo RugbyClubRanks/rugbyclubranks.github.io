@@ -11,7 +11,7 @@ categories: "Super Rugby Americas 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.916, which translates to predicting Penarol Rugby to win by 21.9.
 
-Our Over/Under is 56.5 - and combined with the spread above, we have a predicted scoreline of 17 to 39
+Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 13 to 35
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,26 +69,26 @@ Penarol Rugby by 10.0 on a neutral pitch
 
 |   Away Minutes | Away Player               |   Away Percentile |   Number |   Home Percentile | Home Player                     |   Home Minutes |
 |---------------:|:--------------------------|------------------:|---------:|------------------:|:--------------------------------|---------------:|
-|             76 | Luciano Gabellieri        |             69.61 |        1 |             11.4  | Mateo Sanguinetti               |             60 |
-|             40 | Henrique Ribeiro Ferreira |             21.96 |        2 |             23.14 | Francisco Garcia                |             80 |
-|             80 | Francisco Moreno          |             75.31 |        3 |             25.26 | Santiago Martirene              |             66 |
-|             80 | Franco Carrera            |             70.64 |        4 |             34.61 | Manuel Rosmarino                |             66 |
-|             57 | Gabriel Paganini          |              1.91 |        5 |             64.56 | Lucas Bianchi                   |             80 |
-|             74 | Cleber Dias               |              6.6  |        6 |             48.9  | Santiago Civetta                |             80 |
-|             57 | Rafael Teixeira           |             57.59 |        7 |             67.9  | Carlos Deus                     |             80 |
-|             80 | Andre Arruda              |             10.49 |        8 |             75.61 | Manuel Diana Olaso              |             80 |
-|             80 | Felipe Goncalves Cunha    |             60    |        9 |             65.21 | Santiago Álvarez Viera Da Cunha |             40 |
-|             60 | Joao Amaral               |             61.5  |       10 |             79.75 | Juan Zuccarino                  |             80 |
-|             80 | Ariel Rodrigues           |             40.77 |       11 |             26.5  | Dante Soto                      |             80 |
-|             80 | Robert Tenorio            |             10.56 |       12 |             19.45 | Juan Manuel Alonso Dieguez      |             80 |
-|             80 | Carlo Mignot              |             54.62 |       13 |             63.63 | Felipe Arcos Perez              |             80 |
-|             60 | Agustin Llano             |             68.63 |       14 |              3.96 | Gaston Mieres Valente           |             80 |
-|             80 | Luca Mignot               |             56.11 |       15 |             31.17 | Ignacio Alvarez                 |             40 |
-|             40 | Endy Willian              |             11.37 |       16 |            nan    | Pedro Hoblog                    |             40 |
-|             23 | Gabriel Oliveira          |             21.12 |       17 |            nan    | Valentin Grille Dotti           |             40 |
-|             23 | Adrio Melo                |             55.12 |       18 |             60.49 | Mateo Perillo                   |             20 |
-|             20 | Lucas Tranquez            |              6.73 |       19 |            nan    | Duban Silvera                   |             14 |
-|             20 | Lorenzo Massari           |             19.69 |       20 |            nan    | Tomas Etcheverry                |             14 |
+|             76 | Luciano Gabellieri        |             69.69 |        1 |             11.34 | Mateo Sanguinetti               |             60 |
+|             40 | Henrique Ribeiro Ferreira |             22    |        2 |             23.18 | Francisco Garcia                |             80 |
+|             80 | Francisco Moreno          |             75.31 |        3 |             25.17 | Santiago Martirene              |             66 |
+|             80 | Franco Carrera            |             70.93 |        4 |             34.33 | Manuel Rosmarino                |             66 |
+|             57 | Gabriel Paganini          |              2.15 |        5 |             64.71 | Lucas Bianchi                   |             80 |
+|             74 | Cleber Dias               |              6.5  |        6 |             46.98 | Santiago Civetta                |             80 |
+|             57 | Rafael Teixeira           |             56.5  |        7 |             67.52 | Carlos Deus                     |             80 |
+|             80 | Andre Arruda              |             10.32 |        8 |             75.92 | Manuel Diana Olaso              |             80 |
+|             80 | Felipe Goncalves Cunha    |             59.37 |        9 |             65.26 | Santiago Álvarez Viera Da Cunha |             40 |
+|             60 | Joao Amaral               |             61.03 |       10 |             78.97 | Juan Zuccarino                  |             80 |
+|             80 | Ariel Rodrigues           |             40.99 |       11 |             27.25 | Dante Soto                      |             80 |
+|             80 | Robert Tenorio            |             10.44 |       12 |             19.54 | Juan Manuel Alonso Dieguez      |             80 |
+|             80 | Carlo Mignot              |             54.73 |       13 |             64.44 | Felipe Arcos Perez              |             80 |
+|             60 | Agustin Llano             |             68.69 |       14 |              3.83 | Gaston Mieres Valente           |             80 |
+|             80 | Luca Mignot               |             55.14 |       15 |             30.58 | Ignacio Alvarez                 |             40 |
+|             40 | Endy Willian              |             11.39 |       16 |            nan    | Pedro Hoblog                    |             40 |
+|             23 | Gabriel Oliveira          |             21.53 |       17 |            nan    | Valentin Grille Dotti           |             40 |
+|             23 | Adrio Melo                |             54.79 |       18 |             59.77 | Mateo Perillo                   |             20 |
+|             20 | Lucas Tranquez            |              6.77 |       19 |            nan    | Duban Silvera                   |             14 |
+|             20 | Lorenzo Massari           |             19.78 |       20 |            nan    | Tomas Etcheverry                |             14 |
 |              6 | Pedro Aparecido           |            nan    |       21 |            nan    | nan                             |            nan |
-|              4 | Levy Marinho              |             27.16 |       22 |            nan    | nan                             |            nan |
+|              4 | Levy Marinho              |             26.69 |       22 |            nan    | nan                             |            nan |
 
