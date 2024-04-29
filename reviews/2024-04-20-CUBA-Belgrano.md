@@ -11,7 +11,7 @@ categories: "URBA Top 12 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.647, which translates to predicting CUBA to win by 5.5.
 
-Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 20 to 26
+Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 24 to 29
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,21 +69,21 @@ Belgrano by 0.0 on a neutral pitch
 
 |   Away Minutes | Away Player            |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:-----------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             64 | Francisco Ferronato    |             65.49 |        1 |             39.94 | Francisco Garoby      |             64 |
-|             86 | Francisco Lusarreta    |             64.64 |        2 |             36.15 | Enrique Devoto        |             86 |
-|             64 | Lisandro Garcia Dragui |             61.2  |        3 |             21.26 | Facundo Aguirre       |             64 |
-|             41 | Luciano Tecca          |             59.81 |        4 |             27.63 | Santiago Uriarte      |             86 |
-|             50 | Ramon Duggan           |             60.77 |        5 |             24.4  | Segundo Pisani        |             86 |
-|             86 | Joaquin de la Serna    |             59.8  |        6 |             21.35 | Francisco Sied        |             86 |
-|             86 | Julian Rebusone        |             59.8  |        7 |             38.17 | Pedro Mastroizi       |             50 |
-|             86 | Franco Vega            |             58.97 |        8 |             36.61 | Benito Ortiz de Rozas |             86 |
-|             86 | Ignacio Marino         |             59.79 |        9 |             29.47 | Manuel Madero         |             38 |
-|             86 | Joaquin Mihura         |             55.64 |       10 |             34.62 | Valentin Mastroizi    |             86 |
-|             86 | Ignacio Diaz           |             63.29 |       11 |             24.44 | Santiago Cardini      |             69 |
-|             86 | Ramon Arana            |             56.61 |       12 |             22.33 | Felipe de la Vega     |             86 |
-|             86 | Tomas Etchepare        |             56.61 |       13 |             22.57 | Felipe Perdomo        |             86 |
-|             73 | Tobias Bernabe         |             48.42 |       14 |             24.66 | Francisco Patrono     |             64 |
-|             86 | Juan Lando             |             56.39 |       15 |             22.56 | Segundo Perdomo       |             36 |
+|             64 | Francisco Ferronato    |             65.86 |        1 |             40.41 | Francisco Garoby      |             64 |
+|             86 | Francisco Lusarreta    |             64.26 |        2 |             35.94 | Enrique Devoto        |             86 |
+|             64 | Lisandro Garcia Dragui |             61.43 |        3 |             21.31 | Facundo Aguirre       |             64 |
+|             41 | Luciano Tecca          |             59.01 |        4 |             27.81 | Santiago Uriarte      |             86 |
+|             50 | Ramon Duggan           |             60.34 |        5 |             24.43 | Segundo Pisani        |             86 |
+|             86 | Joaquin de la Serna    |             58.58 |        6 |             20.86 | Francisco Sied        |             86 |
+|             86 | Julian Rebusone        |             58.58 |        7 |             37.19 | Pedro Mastroizi       |             50 |
+|             86 | Franco Vega            |             59.1  |        8 |             35.16 | Benito Ortiz de Rozas |             86 |
+|             86 | Ignacio Marino         |             58.35 |        9 |             29.18 | Manuel Madero         |             38 |
+|             86 | Joaquin Mihura         |             56.1  |       10 |             35.84 | Valentin Mastroizi    |             86 |
+|             86 | Ignacio Diaz           |             62.51 |       11 |             24    | Santiago Cardini      |             69 |
+|             86 | Ramon Arana            |             56.43 |       12 |             21.63 | Felipe de la Vega     |             86 |
+|             86 | Tomas Etchepare        |             56.43 |       13 |             22    | Felipe Perdomo        |             86 |
+|             73 | Tobias Bernabe         |             48    |       14 |             24.23 | Francisco Patrono     |             64 |
+|             86 | Juan Lando             |             55.73 |       15 |             20.87 | Segundo Perdomo       |             36 |
 |              0 | Away Team 16           |            nan    |       16 |            nan    | Home Team 16          |              0 |
 |             22 | Away Team 17           |            nan    |       17 |            nan    | Home Team 17          |             22 |
 |             22 | Away Team 18           |            nan    |       18 |            nan    | Home Team 18          |             22 |

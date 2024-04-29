@@ -9,9 +9,9 @@ categories: "United Rugby Championship 2023" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.819, which translates to predicting Benetton Treviso to win by 13.4.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.819, which translates to predicting Benetton Treviso to win by 13.3.
 
-Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 15 to 28
+Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 19 to 32
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Benetton Treviso by 13.6 on a neutral pitch
 
 |   Away Minutes | Away Player      |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:-----------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             65 | Rodrigo Martinez |             61.11 |        1 |             55.2  | Mirco Spagnolo      |             52 |
-|             69 | James Benjamin   |             13.95 |        2 |             85.27 | Gianmarco Lucchesi  |             52 |
-|             47 | Luke Yendle      |             43.37 |        3 |             65.68 | Giosue Zilocchi     |             52 |
-|             80 | Ben Carter       |             19.26 |        4 |             46.05 | Scott Scrafton      |             41 |
-|             80 | George Nott      |             24.52 |        5 |             34.45 | Riccardo Favretto   |             61 |
-|             47 | Dan Lydiate      |             29.7  |        6 |             87.24 | Sebastian Negri     |             48 |
-|             80 | Sean Lonsdale    |             22.16 |        7 |             96.64 | Michele Lamaro      |             80 |
-|             57 | Taine Basham     |             32.43 |        8 |             72.73 | Toa Halafihi        |             80 |
-|             57 | Dane Blacker     |             10.53 |        9 |             16    | Andy Uren           |             56 |
-|             80 | Will Reed        |             29.49 |       10 |             79.23 | Tomas Albornoz      |             52 |
-|             80 | Jared Rosser     |              4.84 |       11 |             34.23 | Onisi Ratave        |             80 |
-|             80 | Aneurin Owen     |             62.5  |       12 |             62.99 | Marco Zanon         |             80 |
-|             47 | Sio Tomkinson    |             39.32 |       13 |             93.2  | Juan Ignacio Brex   |             80 |
-|             80 | Rio Dyer         |             24.77 |       14 |             70.95 | Leonardo Marin      |             80 |
-|             57 | Cai Evans        |             14.54 |       15 |             88.97 | Rhyno Smith         |             80 |
-|             11 | Brodie Coghlan   |             38.51 |       16 |            nan    | Bautista Bernasconi |             28 |
-|             15 | Aki Seiuli       |             11.06 |       17 |             82.46 | Ivan Nemer          |             28 |
-|             33 | Dimitri Arhip    |            nan    |       18 |             83.79 | Tiziano Pasquali    |             28 |
-|             23 | Harrison Keddie  |              1.97 |       19 |             15.55 | Gideon Koegelenberg |             39 |
-|             33 | Aaron Wainwright |             84.28 |       20 |             71.77 | Edoardo Iachizzi    |             19 |
-|             23 | Che Hope         |            nan    |       21 |             53.71 | Alessandro Izekor   |             32 |
-|             33 | Joe Westwood     |             34.1  |       22 |            nan    | Dewaldt Duvenage    |             24 |
-|             23 | Jordan Williams  |            nan    |       23 |             68.72 | Jacob Umaga         |             28 |
+|             65 | Rodrigo Martinez |             61.33 |        1 |             54.87 | Mirco Spagnolo      |             52 |
+|             69 | James Benjamin   |             13.25 |        2 |             84.74 | Gianmarco Lucchesi  |             52 |
+|             47 | Luke Yendle      |             43.59 |        3 |             66.06 | Giosue Zilocchi     |             52 |
+|             80 | Ben Carter       |             20.68 |        4 |             45.83 | Scott Scrafton      |             41 |
+|             80 | George Nott      |             24.67 |        5 |             34.7  | Riccardo Favretto   |             61 |
+|             47 | Dan Lydiate      |             28.72 |        6 |             87.37 | Sebastian Negri     |             48 |
+|             80 | Sean Lonsdale    |             21.69 |        7 |             96.42 | Michele Lamaro      |             80 |
+|             57 | Taine Basham     |             31.7  |        8 |             71.32 | Toa Halafihi        |             80 |
+|             57 | Dane Blacker     |             10.57 |        9 |             13.74 | Andy Uren           |             56 |
+|             80 | Will Reed        |             30.65 |       10 |             76.1  | Tomas Albornoz      |             52 |
+|             80 | Jared Rosser     |              5.03 |       11 |             33.94 | Onisi Ratave        |             80 |
+|             80 | Aneurin Owen     |             63.04 |       12 |             56.74 | Marco Zanon         |             80 |
+|             47 | Sio Tomkinson    |             38.57 |       13 |             93.08 | Juan Ignacio Brex   |             80 |
+|             80 | Rio Dyer         |             25.71 |       14 |             65.6  | Leonardo Marin      |             80 |
+|             57 | Cai Evans        |             15.06 |       15 |             88.69 | Rhyno Smith         |             80 |
+|             11 | Brodie Coghlan   |             38.96 |       16 |            nan    | Bautista Bernasconi |             28 |
+|             15 | Aki Seiuli       |             11.09 |       17 |             81.97 | Ivan Nemer          |             28 |
+|             33 | Dimitri Arhip    |            nan    |       18 |             83.51 | Tiziano Pasquali    |             28 |
+|             23 | Harrison Keddie  |              2.03 |       19 |             16.08 | Gideon Koegelenberg |             39 |
+|             33 | Aaron Wainwright |             84.54 |       20 |             69.17 | Edoardo Iachizzi    |             19 |
+|             23 | Che Hope         |            nan    |       21 |             48.15 | Alessandro Izekor   |             32 |
+|             33 | Joe Westwood     |             33.62 |       22 |            nan    | Dewaldt Duvenage    |             24 |
+|             23 | Jordan Williams  |            nan    |       23 |             68.96 | Jacob Umaga         |             28 |
 

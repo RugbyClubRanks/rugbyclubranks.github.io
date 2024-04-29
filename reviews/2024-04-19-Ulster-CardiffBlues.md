@@ -9,7 +9,7 @@ categories: "United Rugby Championship 2023" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.762, which translates to predicting Ulster to win by 10.3.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.754, which translates to predicting Ulster to win by 9.9.
 
 Our Over/Under is 44.5 - and combined with the spread above, we have a predicted scoreline of 17 to 27
 
@@ -69,27 +69,27 @@ Cardiff Blues by 0.9 on a neutral pitch
 
 |   Away Minutes | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             52 | Corey Domachowski |             82.08 |        1 |             40.04 | Eric O'Sullivan    |             52 |
-|             76 | Liam Belcher      |             69.94 |        2 |              3.14 | Tom Stewart        |             60 |
-|             55 | Keiron Assiratti  |             38.32 |        3 |             58.53 | Scott Wilson       |             61 |
-|             80 | Ben Donnell       |             86.84 |        4 |             81.7  | Harry Sheridan     |             80 |
-|             66 | Teddy Williams    |             25.48 |        5 |             64.23 | Alan O'Connor      |             66 |
-|             58 | Alex Mann         |             17.17 |        6 |             88.98 | Dave Ewers         |             80 |
-|             80 | Thomas Young      |             89.21 |        7 |             90.72 | Marcus Rea         |             72 |
-|             30 | Taulupe Faletau   |             83.29 |        8 |             60.2  | David McCann       |             80 |
-|             55 | Ellis Bevan       |             56    |        9 |             24.42 | Nathan Doak        |             55 |
-|             80 | Tinus de Beer     |             65.9  |       10 |             25.13 | Jake Flannery      |             41 |
-|             80 | Theo Cabango      |             53.38 |       11 |             34.46 | Jacob Stockdale    |             80 |
-|             80 | Ben Thomas        |             62.26 |       12 |             54.25 | Jude Postlethwaite |             80 |
-|             80 | Mason Grady       |             80.95 |       13 |             23.06 | James Hume         |             20 |
-|             80 | Josh Adams        |             72.75 |       14 |             33.67 | Mike Lowry         |             80 |
-|              4 | Cameron Winnett   |             29.32 |       15 |             83.21 | Will Addison       |             80 |
-|              4 | Evan Lloyd        |            nan    |       16 |             34.38 | John Andrew        |             20 |
-|             28 | Rhys Carré        |             14.68 |       17 |             12.87 | Andrew Warwick     |             28 |
-|             25 | Ciaran Parker     |            nan    |       18 |             61.3  | Tom O'Toole        |             19 |
-|             14 | Rory Thornton     |              6.46 |       19 |             51.44 | Cormac Izuchukwu   |             14 |
-|             22 | Ellis Jenkins     |             45.01 |       20 |            nan    | Greg Jones         |              8 |
-|             50 | Mackenzie Martin  |             41.52 |       21 |             87.58 | John Cooney        |             25 |
-|             25 | Gonzalo Bertranou |             70.11 |       22 |             39.49 | Billy Burns        |             39 |
-|             76 | Jacob Beetham     |             17.79 |       23 |             81.08 | Ethan McIlroy      |             60 |
+|             52 | Corey Domachowski |             81.58 |        1 |             40.5  | Eric O'Sullivan    |             52 |
+|             76 | Liam Belcher      |             67.27 |        2 |              4.62 | Tom Stewart        |             60 |
+|             55 | Keiron Assiratti  |             34.33 |        3 |             65.19 | Scott Wilson       |             61 |
+|             80 | Ben Donnell       |             85.97 |        4 |             84.64 | Harry Sheridan     |             80 |
+|             66 | Teddy Williams    |             23.1  |        5 |             68.08 | Alan O'Connor      |             66 |
+|             58 | Alex Mann         |             15.38 |        6 |             90.82 | Dave Ewers         |             80 |
+|             80 | Thomas Young      |             89.51 |        7 |             90.94 | Marcus Rea         |             72 |
+|             30 | Taulupe Faletau   |             82.29 |        8 |             65.84 | David McCann       |             80 |
+|             55 | Ellis Bevan       |             55.6  |        9 |             23.89 | Nathan Doak        |             55 |
+|             80 | Tinus de Beer     |             65.45 |       10 |             26.23 | Jake Flannery      |             41 |
+|             80 | Theo Cabango      |             50.74 |       11 |             38.4  | Jacob Stockdale    |             80 |
+|             80 | Ben Thomas        |             58.84 |       12 |             54.51 | Jude Postlethwaite |             80 |
+|             80 | Mason Grady       |             79.73 |       13 |             22.5  | James Hume         |             20 |
+|             80 | Josh Adams        |             72.11 |       14 |             33.26 | Mike Lowry         |             80 |
+|              4 | Cameron Winnett   |             25.45 |       15 |             83.68 | Will Addison       |             80 |
+|              4 | Evan Lloyd        |            nan    |       16 |             33.73 | John Andrew        |             20 |
+|             28 | Rhys Carré        |             16.39 |       17 |             12.83 | Andrew Warwick     |             28 |
+|             25 | Ciaran Parker     |            nan    |       18 |             61.52 | Tom O'Toole        |             19 |
+|             14 | Rory Thornton     |              6.41 |       19 |             52    | Cormac Izuchukwu   |             14 |
+|             22 | Ellis Jenkins     |             43.62 |       20 |            nan    | Greg Jones         |              8 |
+|             50 | Mackenzie Martin  |             42.64 |       21 |             89.85 | John Cooney        |             25 |
+|             25 | Gonzalo Bertranou |             68.5  |       22 |             47.01 | Billy Burns        |             39 |
+|             76 | Jacob Beetham     |             17.05 |       23 |             79.43 | Ethan McIlroy      |             60 |
 

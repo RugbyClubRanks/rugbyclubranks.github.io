@@ -11,7 +11,7 @@ categories: "Pro D2 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.493, which translates to predicting Brive to win by 0.3.
 
-Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 23 to 22
+Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 22 to 21
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Brive by 0.7 on a neutral pitch
 
 |   Away Minutes | Away Player               |   Away Percentile |   Number |   Home Percentile | Home Player            |   Home Minutes |
 |---------------:|:--------------------------|------------------:|---------:|------------------:|:-----------------------|---------------:|
-|             50 | Hugo Reilhes              |             67.87 |        1 |             97.04 | Sami Zouhair           |             61 |
-|             50 | Benjamin Boudou           |             41.26 |        2 |             17.49 | Motu Matu'u            |             46 |
-|             50 | Marcel van der Merwe      |             12.49 |        3 |             24.4  | Yassine Boutemane      |             61 |
-|             80 | Renger Van Eerten         |             55.74 |        4 |             60.53 | Maxence Lemardelet     |             61 |
-|             50 | Tevita Ratuva             |             65.55 |        5 |             86.96 | Sikeli Nabou           |             80 |
-|             61 | Sasha Gue                 |             47.68 |        6 |             84.34 | Germain Burgaud        |             61 |
-|             80 | Matthieu Voisin           |             33.18 |        7 |             86.43 | Nicolas Martins        |             80 |
-|             61 | Ross Moriarty             |             88.7  |        8 |             61.92 | Alexander Masibaka     |             80 |
-|             80 | Leo Carbonneau            |             47.16 |        9 |              5.68 | Adrien Bau             |             46 |
-|             64 | Stuart Olding             |             88.97 |       10 |             83.85 | Ben Botica             |             80 |
-|             71 | Asaeli Tuivuaka           |             66.55 |       11 |             71.73 | Jules Dubecq           |             80 |
-|             80 | Sam Johnson               |             86.41 |       12 |             87.74 | Ledua Mau              |             69 |
-|             80 | Sammy Arnold              |             37.86 |       13 |             87.99 | George Tilsley         |             80 |
-|             80 | Mathis Ferté              |             66.78 |       14 |             66.89 | Eoghan Barrett         |             61 |
-|             80 | Nic Krone                 |             40.1  |       15 |             68.17 | Pierre Lafitte         |             80 |
+|             50 | Hugo Reilhes              |             68.47 |        1 |             97.01 | Sami Zouhair           |             61 |
+|             50 | Benjamin Boudou           |             42.17 |        2 |             17.07 | Motu Matu'u            |             46 |
+|             50 | Marcel van der Merwe      |             12.54 |        3 |             32.79 | Yassine Boutemane      |             61 |
+|             80 | Renger Van Eerten         |             59.73 |        4 |             59.98 | Maxence Lemardelet     |             61 |
+|             50 | Tevita Ratuva             |             66.99 |        5 |             86.58 | Sikeli Nabou           |             80 |
+|             61 | Sasha Gue                 |             47.08 |        6 |             85.1  | Germain Burgaud        |             61 |
+|             80 | Matthieu Voisin           |             32.9  |        7 |             89.15 | Nicolas Martins        |             80 |
+|             61 | Ross Moriarty             |             88.78 |        8 |             68.08 | Alexander Masibaka     |             80 |
+|             80 | Leo Carbonneau            |             50.74 |        9 |              7.4  | Adrien Bau             |             46 |
+|             64 | Stuart Olding             |             89.87 |       10 |             84.42 | Ben Botica             |             80 |
+|             71 | Asaeli Tuivuaka           |             66.06 |       11 |             71.5  | Jules Dubecq           |             80 |
+|             80 | Sam Johnson               |             87.39 |       12 |             87.27 | Ledua Mau              |             69 |
+|             80 | Sammy Arnold              |             41.41 |       13 |             89.49 | George Tilsley         |             80 |
+|             80 | Mathis Ferté              |             68.69 |       14 |             66.29 | Eoghan Barrett         |             61 |
+|             80 | Nic Krone                 |             41.22 |       15 |             66.41 | Pierre Lafitte         |             80 |
 |             30 | Nathan Fraissenon         |            nan    |       16 |             50.11 | Manu Saubusse          |             34 |
-|             30 | Lucas da Silva            |             35.56 |       17 |             76.82 | Rayne Barka            |             34 |
-|             30 | Francisco Coria Marchetti |             16.87 |       18 |             57.18 | Enzo Morand-Bruyat     |             19 |
-|             30 | Asier Usarraga            |             75.72 |       19 |             29.82 | Rémi Brosset           |             19 |
-|             19 | Retief Marais             |             77.61 |       20 |             33.75 | Omar Dahir             |             19 |
-|             19 | Taniela Sadrugu           |             50.37 |       21 |             60.34 | Omar Odishvili         |             19 |
-|             16 | Julien Blanc              |             60.42 |       22 |              5.68 | Gautier Gibouin        |             19 |
-|              9 | Wesley Douglas            |            nan    |       23 |             77.06 | Akuila Joeli Tabualevu |             11 |
+|             30 | Lucas da Silva            |             38.15 |       17 |             82.73 | Rayne Barka            |             34 |
+|             30 | Francisco Coria Marchetti |             16.59 |       18 |             66.51 | Enzo Morand-Bruyat     |             19 |
+|             30 | Asier Usarraga            |             75.57 |       19 |             48.83 | Rémi Brosset           |             19 |
+|             19 | Retief Marais             |             78.43 |       20 |             33.75 | Omar Dahir             |             19 |
+|             19 | Taniela Sadrugu           |             49.38 |       21 |             71.46 | Omar Odishvili         |             19 |
+|             16 | Julien Blanc              |             58.99 |       22 |              7.99 | Gautier Gibouin        |             19 |
+|              9 | Wesley Douglas            |            nan    |       23 |             76.39 | Akuila Joeli Tabualevu |             11 |
 

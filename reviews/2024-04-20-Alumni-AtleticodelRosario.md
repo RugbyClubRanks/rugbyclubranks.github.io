@@ -11,7 +11,7 @@ categories: "URBA Top 12 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.749, which translates to predicting Alumni to win by 9.9.
 
-Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 19 to 29
+Our Over/Under is 55.5 - and combined with the spread above, we have a predicted scoreline of 23 to 32
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,21 +69,21 @@ Atlético del Rosario by 0.0 on a neutral pitch
 
 |   Away Minutes | Away Player                 |   Away Percentile |   Number |   Home Percentile | Home Player       |   Home Minutes |
 |---------------:|:----------------------------|------------------:|---------:|------------------:|:------------------|---------------:|
-|             74 | Agustin Fernandez           |             18.49 |        1 |             70.16 | Federico Lucca    |             70 |
-|             71 | Jeremias Aime               |             15.52 |        2 |             67.58 | Tomas Bivort      |             74 |
-|             65 | Lisandro Dipierri           |             15.16 |        3 |             68.45 | Bautista Vidal    |             62 |
-|             71 | Matias Kremer               |             19.38 |        4 |             68.3  | Manuel Mora       |             82 |
-|             82 | Octavio Capella             |             18.06 |        5 |             61.24 | Santiago Alduncin |             82 |
-|             82 | Santiago Casals             |             14.68 |        6 |             62.76 | Ignacio Cubilla   |             73 |
-|             82 | Lucas Malanos               |             14.68 |        7 |             64.04 | Juan Anderson     |             82 |
-|             82 | Valentin Tumosa             |             17.94 |        8 |             62.16 | Tobias Moyano     |             69 |
-|             82 | Matias Savatierra           |             14.74 |        9 |             66.32 | Tomas Passerotti  |             74 |
-|             82 | Pedro de Aro                |             14.36 |       10 |             58.72 | Joaquin Luzzi     |             82 |
-|             82 | Maximiliano Nicoli Fiscella |             23.65 |       11 |             64.08 | Luca Sabato       |             82 |
-|             82 | Guido Vidalle               |             16.14 |       12 |             59.83 | Franco Battezzati |             75 |
-|             82 | Valentino Aime              |             25.24 |       13 |             61.17 | Alejo Chavez      |             82 |
-|             82 | Facundo Gerosa              |             30.41 |       14 |             66.33 | Ramon Fuentes     |             82 |
-|             82 | Pedro Bisio                 |             15.79 |       15 |             52.13 | Tomas Corneille   |             82 |
+|             74 | Agustin Fernandez           |             18.51 |        1 |             70.49 | Federico Lucca    |             70 |
+|             71 | Jeremias Aime               |             15.26 |        2 |             66.67 | Tomas Bivort      |             74 |
+|             65 | Lisandro Dipierri           |             14.56 |        3 |             69.05 | Bautista Vidal    |             62 |
+|             71 | Matias Kremer               |             19.71 |        4 |             67.59 | Manuel Mora       |             82 |
+|             82 | Octavio Capella             |             18.26 |        5 |             60.7  | Santiago Alduncin |             82 |
+|             82 | Santiago Casals             |             14.12 |        6 |             61.74 | Ignacio Cubilla   |             73 |
+|             82 | Lucas Malanos               |             14.12 |        7 |             63.41 | Juan Anderson     |             82 |
+|             82 | Valentin Tumosa             |             16.96 |        8 |             61.1  | Tobias Moyano     |             69 |
+|             82 | Matias Savatierra           |             15.22 |        9 |             65.33 | Tomas Passerotti  |             74 |
+|             82 | Pedro de Aro                |             15.32 |       10 |             58.96 | Joaquin Luzzi     |             82 |
+|             82 | Maximiliano Nicoli Fiscella |             23.2  |       11 |             63.54 | Luca Sabato       |             82 |
+|             82 | Guido Vidalle               |             15.95 |       12 |             59.83 | Franco Battezzati |             75 |
+|             82 | Valentino Aime              |             25.34 |       13 |             60.82 | Alejo Chavez      |             82 |
+|             82 | Facundo Gerosa              |             29.37 |       14 |             65.94 | Ramon Fuentes     |             82 |
+|             82 | Pedro Bisio                 |             14.76 |       15 |             51.65 | Tomas Corneille   |             82 |
 |              0 | Away Team 16                |            nan    |       16 |            nan    | Home Team 16      |              0 |
 |              0 | Away Team 17                |            nan    |       17 |            nan    | Home Team 17      |              0 |
 |              0 | Away Team 18                |            nan    |       18 |            nan    | Home Team 18      |              0 |

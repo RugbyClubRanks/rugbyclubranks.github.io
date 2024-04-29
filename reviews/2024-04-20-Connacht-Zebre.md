@@ -9,9 +9,9 @@ categories: "United Rugby Championship 2023" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.833, which translates to predicting Connacht to win by 14.2.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.833, which translates to predicting Connacht to win by 14.3.
 
-Our Over/Under is 42.5 - and combined with the spread above, we have a predicted scoreline of 14 to 28
+Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 17 to 31
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Connacht by 10.3 on a neutral pitch
 
 |   Away Minutes | Away Player            |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:-----------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             62 | Muhamed Hasa           |             34.8  |        1 |             29.55 | Jordan Duggan         |             48 |
-|             57 | Giampietro Ribaldi     |             33.6  |        2 |             65.23 | Dave Heffernan        |             70 |
-|             66 | Juan Pitinari          |             19.26 |        3 |             96.47 | Finlay Bealham        |             58 |
-|             54 | Leonard Krumov         |              5.14 |        4 |             95.22 | Joe Joyce             |             59 |
-|             80 | Andrea Zambonin        |             35.89 |        5 |             89.83 | Niall Murray          |             80 |
-|             80 | Guido Volpi            |             28.77 |        6 |             59.28 | Shamus Hurley-Langton |             66 |
-|             50 | Davide Ruggeri         |             48.61 |        7 |             82.37 | Conor Oliver          |             80 |
-|             72 | Giovanni Licata        |             26.54 |        8 |             30.71 | Sean O'Brien          |             54 |
-|             54 | Gonzalo Garcia         |             35.79 |        9 |             46.95 | Matthew Devine        |             55 |
-|             65 | Geronimo Prisciantelli |             88.46 |       10 |             87.44 | JJ Hanrahan           |             75 |
-|             80 | Simone Gesi            |              6.42 |       11 |              8.9  | Andrew Smith          |             64 |
-|             62 | Fetuli Paea            |             66.5  |       12 |             98.67 | Bundee Aki            |             80 |
-|             80 | Scott Gregory          |             42.6  |       13 |             52.55 | Tom Farrell           |             80 |
-|             80 | Jacopo Trulla          |              6.31 |       14 |             50.68 | John Porch            |             80 |
-|             80 | Lorenzo Pani           |             31.83 |       15 |             54.64 | Shane Jennings        |             80 |
-|             23 | Tommaso Di Bartolomeo  |            nan    |       16 |             24.17 | Tadgh McElroy         |             10 |
-|             26 | Danilo Fischetti       |             71.88 |       17 |             97.43 | Peter Dooley          |             32 |
+|             62 | Muhamed Hasa           |             24.98 |        1 |             29.6  | Jordan Duggan         |             48 |
+|             57 | Giampietro Ribaldi     |             33.53 |        2 |             64.86 | Dave Heffernan        |             70 |
+|             66 | Juan Pitinari          |             19.29 |        3 |             96.05 | Finlay Bealham        |             58 |
+|             54 | Leonard Krumov         |              3.75 |        4 |             95.04 | Joe Joyce             |             59 |
+|             80 | Andrea Zambonin        |             36.15 |        5 |             89.48 | Niall Murray          |             80 |
+|             80 | Guido Volpi            |             21.57 |        6 |             58.05 | Shamus Hurley-Langton |             66 |
+|             50 | Davide Ruggeri         |             48.27 |        7 |             82.84 | Conor Oliver          |             80 |
+|             72 | Giovanni Licata        |             25.19 |        8 |             29.68 | Sean O'Brien          |             54 |
+|             54 | Gonzalo Garcia         |             35.1  |        9 |             46.51 | Matthew Devine        |             55 |
+|             65 | Geronimo Prisciantelli |             87.53 |       10 |             87.79 | JJ Hanrahan           |             75 |
+|             80 | Simone Gesi            |              6.06 |       11 |              8.69 | Andrew Smith          |             64 |
+|             62 | Fetuli Paea            |             65.88 |       12 |             98.76 | Bundee Aki            |             80 |
+|             80 | Scott Gregory          |             39.31 |       13 |             52.41 | Tom Farrell           |             80 |
+|             80 | Jacopo Trulla          |              5.26 |       14 |             49.94 | John Porch            |             80 |
+|             80 | Lorenzo Pani           |             22.9  |       15 |             59.31 | Shane Jennings        |             80 |
+|             23 | Tommaso Di Bartolomeo  |            nan    |       16 |             23.9  | Tadgh McElroy         |             10 |
+|             26 | Danilo Fischetti       |             61.91 |       17 |             97.4  | Peter Dooley          |             32 |
 |             14 | Riccardo Genovese      |            nan    |       18 |            nan    | Sam Illo              |             22 |
-|             26 | Matteo Canali          |             87.68 |       19 |             62.2  | Oisin Dowling         |             21 |
-|             29 | Iacopo Bianchi         |              5.8  |       20 |             85.75 | Jarrad Butler         |             14 |
-|             26 | Thomas Dominguez       |            nan    |       21 |             75.79 | Caolin Blade          |             25 |
-|             15 | Franco Smith           |             28.52 |       22 |             21.72 | Cathal Forde          |             16 |
-|             18 | Enrico Lucchin         |            nan    |       23 |             57    | Paul Boyle            |             26 |
+|             26 | Matteo Canali          |             87.67 |       19 |             61.31 | Oisin Dowling         |             21 |
+|             29 | Iacopo Bianchi         |              4.65 |       20 |             84.79 | Jarrad Butler         |             14 |
+|             26 | Thomas Dominguez       |            nan    |       21 |             75.69 | Caolin Blade          |             25 |
+|             15 | Franco Smith           |             20.64 |       22 |             21.14 | Cathal Forde          |             16 |
+|             18 | Enrico Lucchin         |            nan    |       23 |             56.36 | Paul Boyle            |             26 |
 

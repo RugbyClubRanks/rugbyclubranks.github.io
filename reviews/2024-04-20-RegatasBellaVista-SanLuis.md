@@ -11,7 +11,7 @@ categories: "URBA Top 12 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.586, which translates to predicting Regatas Bella Vista to win by 3.2.
 
-Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 21 to 24
+Our Over/Under is 44.5 - and combined with the spread above, we have a predicted scoreline of 21 to 24
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,21 +69,21 @@ San Luis by 0.0 on a neutral pitch
 
 |   Away Minutes | Away Player               |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:--------------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             73 | Alejo Garcia              |             30.03 |        1 |             45.66 | Tomas Barbaccia      |             75 |
-|             80 | Franco Cantalupo          |             36.35 |        2 |             53.05 | Pedro Colinas        |             73 |
-|             80 | Mateo Calistro            |             35.46 |        3 |             48.33 | Juan Gobet           |             42 |
-|             80 | Ramiro Bruni              |             37.44 |        4 |             52.63 | Tomas Sanguinetti    |             80 |
-|             80 | Santiago Canal            |             39.35 |        5 |             54.43 | Valentin Sanguinetti |             80 |
-|             45 | Manuel Gnecco             |             36.77 |        6 |             56.03 | Marcos Ferro         |             80 |
-|             62 | Nahuel Curti              |             32.6  |        7 |             55.22 | Francisco Ploder     |             70 |
-|             80 | Facundo Alvarez Amado     |             35.87 |        8 |             45.45 | Felipe Camerlinckx   |             80 |
-|             65 | Martin Aereboe            |             37.05 |        9 |             45.26 | Marcos Joseph        |             80 |
-|             80 | Isidro Lazzarini          |             27.44 |       10 |             38.97 | Juan Otsubo          |              8 |
-|             80 | Segundo Galan             |             33.45 |       11 |             44.88 | Enrique Camerlinckx  |             80 |
-|             80 | Guillermo Chaves Lucesole |             34.22 |       12 |             51.94 | Juan Corso           |             80 |
-|             80 | Benjamin Marban           |             33.25 |       13 |             40.9  | Alejo Barrera        |             80 |
-|             80 | Eduardo Ruesta            |             36.37 |       14 |             44.88 | Francisco Pisani     |             80 |
-|             80 | Valentino Quattrocchi     |             33.83 |       15 |             39.6  | Cruz Camerlinckx     |             80 |
+|             73 | Alejo Garcia              |             29.99 |        1 |             46.29 | Tomas Barbaccia      |             75 |
+|             80 | Franco Cantalupo          |             36.14 |        2 |             52.21 | Pedro Colinas        |             73 |
+|             80 | Mateo Calistro            |             35.49 |        3 |             49.08 | Juan Gobet           |             42 |
+|             80 | Ramiro Bruni              |             37.61 |        4 |             53.2  | Tomas Sanguinetti    |             80 |
+|             80 | Santiago Canal            |             39.18 |        5 |             54.66 | Valentin Sanguinetti |             80 |
+|             45 | Manuel Gnecco             |             36    |        6 |             54.71 | Marcos Ferro         |             80 |
+|             62 | Nahuel Curti              |             32.06 |        7 |             53.64 | Francisco Ploder     |             70 |
+|             80 | Facundo Alvarez Amado     |             33.92 |        8 |             44.39 | Felipe Camerlinckx   |             80 |
+|             65 | Martin Aereboe            |             36.36 |        9 |             45.03 | Marcos Joseph        |             80 |
+|             80 | Isidro Lazzarini          |             28.05 |       10 |             39.48 | Juan Otsubo          |              8 |
+|             80 | Segundo Galan             |             33.03 |       11 |             44.51 | Enrique Camerlinckx  |             80 |
+|             80 | Guillermo Chaves Lucesole |             33.75 |       12 |             52.16 | Juan Corso           |             80 |
+|             80 | Benjamin Marban           |             33.13 |       13 |             40.3  | Alejo Barrera        |             80 |
+|             80 | Eduardo Ruesta            |             36    |       14 |             44.51 | Francisco Pisani     |             80 |
+|             80 | Valentino Quattrocchi     |             31.04 |       15 |             36.39 | Cruz Camerlinckx     |             80 |
 |              0 | Away Team 16              |            nan    |       16 |            nan    | Home Team 16         |              7 |
 |              7 | Away Team 17              |            nan    |       17 |            nan    | Home Team 17         |              5 |
 |              0 | Away Team 18              |            nan    |       18 |            nan    | Home Team 18         |              0 |

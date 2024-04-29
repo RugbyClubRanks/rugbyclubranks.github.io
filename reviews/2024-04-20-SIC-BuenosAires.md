@@ -11,7 +11,7 @@ categories: "URBA Top 12 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.801, which translates to predicting SIC to win by 12.6.
 
-Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 17 to 30
+Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 18 to 31
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,21 +69,21 @@ Buenos Aires by 0.0 on a neutral pitch
 
 |   Away Minutes | Away Player            |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:-----------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             52 | Tomas Herrador         |             42.71 |        1 |             82.36 | Marcos Piccinini   |             80 |
-|             80 | Tomas Ruiz             |             41.65 |        2 |             80.35 | Lucas Rocha        |             74 |
-|             40 | Tomas Gallo            |             60.92 |        3 |             77.12 | Benjamin Chiappe   |             64 |
-|             70 | Francisco Jose Sluga   |             59.57 |        4 |             77.99 | Bautista Viero     |             64 |
-|             80 | Franco Baldoni         |             60.29 |        5 |             72.49 | Tomas Borghi       |             80 |
-|             51 | Pedro Maria Del Carril |             55.68 |        6 |             71.11 | Andrea Panzarini   |             80 |
-|             80 | Matias Espina          |             53.02 |        7 |             59.4  | Alejo Daireaux     |             80 |
-|             80 | Tomas Etcheverry       |             42.26 |        8 |             63.14 | Tomas Meyrelles    |             74 |
-|             75 | Mateo Freire           |             58.32 |        9 |             74.74 | Felipe Sascaro     |             80 |
-|             75 | Mateo Capalbo          |             51.54 |       10 |             72.31 | Santiago Pavlovsky |             80 |
-|             80 | Tomas Acosta Pimentel  |             58.22 |       11 |             67.34 | Nicanor Acosta     |             80 |
-|             80 | Agustin Lamensa Sanudo |             51.64 |       12 |             71.72 | Santos Rubio       |             80 |
-|             80 | Tobias Diaz Borda      |             51.64 |       13 |             62.01 | Carlos Piran       |             80 |
-|             80 | Alfonso Latorre        |             55.29 |       14 |             77.03 | Franco Moneta      |             80 |
-|             80 | Julian Quetglas Bojar  |             51.38 |       15 |             71.68 | Jacinto Campbell   |             80 |
+|             52 | Tomas Herrador         |             43.2  |        1 |             81.87 | Marcos Piccinini   |             80 |
+|             80 | Tomas Ruiz             |             42.57 |        2 |             79.92 | Lucas Rocha        |             74 |
+|             40 | Tomas Gallo            |             61.14 |        3 |             76.66 | Benjamin Chiappe   |             64 |
+|             70 | Francisco Jose Sluga   |             58.77 |        4 |             77.99 | Bautista Viero     |             64 |
+|             80 | Franco Baldoni         |             59.61 |        5 |             71.95 | Tomas Borghi       |             80 |
+|             51 | Pedro Maria Del Carril |             54.11 |        6 |             70.32 | Andrea Panzarini   |             80 |
+|             80 | Matias Espina          |             52.32 |        7 |             58.28 | Alejo Daireaux     |             80 |
+|             80 | Tomas Etcheverry       |             41.15 |        8 |             62.59 | Tomas Meyrelles    |             74 |
+|             75 | Mateo Freire           |             57.51 |        9 |             73.57 | Felipe Sascaro     |             80 |
+|             75 | Mateo Capalbo          |             53.77 |       10 |             71.69 | Santiago Pavlovsky |             80 |
+|             80 | Tomas Acosta Pimentel  |             57.03 |       11 |             66.63 | Nicanor Acosta     |             80 |
+|             80 | Agustin Lamensa Sanudo |             51.73 |       12 |             71.08 | Santos Rubio       |             80 |
+|             80 | Tobias Diaz Borda      |             51.73 |       13 |             61.43 | Carlos Piran       |             80 |
+|             80 | Alfonso Latorre        |             54.74 |       14 |             76.23 | Franco Moneta      |             80 |
+|             80 | Julian Quetglas Bojar  |             50.38 |       15 |             70.99 | Jacinto Campbell   |             80 |
 |              0 | Away Team 16           |            nan    |       16 |            nan    | Home Team 16       |              0 |
 |             28 | Away Team 17           |            nan    |       17 |            nan    | Home Team 17       |              6 |
 |             40 | Away Team 18           |            nan    |       18 |            nan    | Home Team 18       |             16 |

@@ -9,9 +9,9 @@ categories: "Top 14 Orange 2023" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.502, which translates to predicting Perpignan to win by 0.1.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.503, which translates to predicting Perpignan to win by 0.1.
 
-Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 24 to 24
+Our Over/Under is 54.5 - and combined with the spread above, we have a predicted scoreline of 27 to 27
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Lyon by 1.5 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             55 | Jerome Rey         |             27.36 |        1 |             66.54 | Sacha Lotrian         |             56 |
-|             54 | Liam Coltman       |             82.12 |        2 |             87.23 | Ignacio Ruiz          |             70 |
-|             47 | Feao Fotuaika      |             61.49 |        3 |             76.74 | Nemo Roelofse         |             51 |
-|             80 | Felix Lambey       |             79.07 |        4 |             70.1  | Mathieu Tanguy        |             72 |
-|             80 | Romain Taofifenua  |             41.15 |        5 |             35.53 | Posolo Tuilagi        |             65 |
-|             73 | Mickael Guillard   |             58.93 |        6 |             81.44 | Alan Brazo            |             66 |
-|             41 | Beka Saghinadze    |             82.83 |        7 |             81.09 | Jacobus van Tonder    |             79 |
-|             80 | Arno Botha         |             85.5  |        8 |             93.61 | So'otala Fa'aso'o     |             59 |
-|             65 | Baptiste Couilloud |             91.79 |        9 |             89.05 | Tom Ecochard          |             60 |
-|             58 | Leo Berdeu         |             64.62 |       10 |             92.05 | Jake McIntyre         |             79 |
-|             80 | Monty Ioane        |             97.52 |       11 |             81.19 | Lucas Dubois          |             80 |
-|             80 | Josiah Maraku      |             13.96 |       12 |             99.27 | Jeronimo de la Fuente |             80 |
-|             67 | Alfred Parisien    |             58.86 |       13 |             31.19 | Alivereti Duguivalu   |             80 |
-|             80 | Vincent Rattez     |             96.06 |       14 |             84.12 | Tavite Veredamu       |             70 |
-|             80 | Davit Niniashvili  |             77.94 |       15 |             67.92 | Louis Dupichot        |             80 |
-|             26 | Yanis Charcosset   |             50.88 |       16 |            nan    | Victor Montgaillard   |             10 |
-|             32 | Vivien Devisme     |             69.4  |       17 |             41.18 | Xavier Chiocci        |             24 |
-|             29 | Joel Kpoku         |             59.51 |       18 |             91.27 | Marvin Orie           |             15 |
-|             10 | Maxime Gouzou      |             37.1  |       19 |             81.33 | Joaquin Oviedo        |             29 |
-|             15 | Martin Page-Relo   |             75.37 |       20 |             94.43 | Patrick Sobela        |             15 |
-|             22 | Paddy Jackson      |             78.72 |       21 |              7.58 | Sadek Deghmache       |             21 |
-|             13 | Kyle Godwin        |             63.11 |       22 |             46.72 | Apisai Naqalevu       |             10 |
-|             33 | Demba Bamba        |             91.99 |       23 |             57.96 | Pietro Ceccarelli     |             29 |
+|             55 | Jerome Rey         |             27.29 |        1 |             67.02 | Sacha Lotrian         |             56 |
+|             54 | Liam Coltman       |             83.94 |        2 |             87.15 | Ignacio Ruiz          |             70 |
+|             47 | Feao Fotuaika      |             61.72 |        3 |             76.37 | Nemo Roelofse         |             51 |
+|             80 | Felix Lambey       |             81.74 |        4 |             74    | Mathieu Tanguy        |             72 |
+|             80 | Romain Taofifenua  |             45.47 |        5 |             48.73 | Posolo Tuilagi        |             65 |
+|             73 | Mickael Guillard   |             62.34 |        6 |             81.88 | Alan Brazo            |             66 |
+|             41 | Beka Saghinadze    |             83.19 |        7 |             82.72 | Jacobus van Tonder    |             79 |
+|             80 | Arno Botha         |             89.27 |        8 |             92.77 | So'otala Fa'aso'o     |             59 |
+|             65 | Baptiste Couilloud |             92.18 |        9 |             89.22 | Tom Ecochard          |             60 |
+|             58 | Leo Berdeu         |             70.39 |       10 |             93.77 | Jake McIntyre         |             79 |
+|             80 | Monty Ioane        |             97.71 |       11 |             84    | Lucas Dubois          |             80 |
+|             80 | Josiah Maraku      |             16.32 |       12 |             99.38 | Jeronimo de la Fuente |             80 |
+|             67 | Alfred Parisien    |             63.41 |       13 |             37.08 | Alivereti Duguivalu   |             80 |
+|             80 | Vincent Rattez     |             95.31 |       14 |             86.29 | Tavite Veredamu       |             70 |
+|             80 | Davit Niniashvili  |             80.92 |       15 |             73.28 | Louis Dupichot        |             80 |
+|             26 | Yanis Charcosset   |             50    |       16 |            nan    | Victor Montgaillard   |             10 |
+|             32 | Vivien Devisme     |             70.01 |       17 |             64.42 | Xavier Chiocci        |             24 |
+|             29 | Joel Kpoku         |             61.03 |       18 |             91.17 | Marvin Orie           |             15 |
+|             10 | Maxime Gouzou      |             35.66 |       19 |             85.29 | Joaquin Oviedo        |             29 |
+|             15 | Martin Page-Relo   |             75.26 |       20 |             94.64 | Patrick Sobela        |             15 |
+|             22 | Paddy Jackson      |             79.48 |       21 |             12.26 | Sadek Deghmache       |             21 |
+|             13 | Kyle Godwin        |             62.3  |       22 |             46.11 | Apisai Naqalevu       |             10 |
+|             33 | Demba Bamba        |             90.94 |       23 |             74.64 | Pietro Ceccarelli     |             29 |
 

@@ -1,6 +1,6 @@
 ---  
 title: "European Rugby Challenge Cup 2023 Status"  
-date: 2024-04-22 6:00:00 -0500  
+date: 2024-04-29 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -15,10 +15,10 @@ aside:
 
 |                   | Reach Semifinals   | Reach Final   | Win Final   |
 |:------------------|:-------------------|:--------------|:------------|
-| Gloucester Rugby  | 100.0 %            | 87.3 %        | 43.7 %      |
-| Sharks            | 100.0 %            | 82.1 %        | 41.6 %      |
-| Clermont Auvergne | 100.0 %            | 17.9 %        | 10.1 %      |
-| Benetton Treviso  | 100.0 %            | 12.7 %        | 4.6 %       |
+| Sharks            | 100.0 %            | 82.4 %        | 48.0 %      |
+| Gloucester Rugby  | 100.0 %            | 83.8 %        | 33.8 %      |
+| Clermont Auvergne | 100.0 %            | 17.6 %        | 11.7 %      |
+| Benetton Treviso  | 100.0 %            | 16.2 %        | 6.5 %       |
 
 
 
@@ -29,7 +29,7 @@ aside:
 ### Sharks V Clermont Auvergne on 2024/05/04
 
 
-Average Margin: Sharks by 3.3
+Average Margin: Sharks by 3.2
 
 <p float="left">
 <img src="plots/performances_2024-05-04-Sharks_V_ClermontAuvergne.png" width="32%" />
@@ -40,7 +40,7 @@ Average Margin: Sharks by 3.3
 ### Gloucester Rugby V Benetton Treviso on 2024/05/04
 
 
-Average Margin: Gloucester Rugby by 4.2
+Average Margin: Gloucester Rugby by 3.5
 
 <p float="left">
 <img src="plots/performances_2024-05-04-GloucesterRugby_V_BenettonTreviso.png" width="32%" />
@@ -53,7 +53,7 @@ Average Margin: Gloucester Rugby by 4.2
 ### Gloucester Rugby V Sharks on 2024/05/24
 
 
-Average Margin: Sharks by 0.0
+Average Margin: Sharks by 0.6
 
 <p float="left">
 <img src="plots/performances_2024-05-24-GloucesterRugby_V_Sharks.png" width="32%" />
@@ -61,21 +61,10 @@ Average Margin: Sharks by 0.0
 <img src="plots/spreads_2024-05-24-GloucesterRugby_V_Sharks.png" width="32%" />
 </p>
 
-### Benetton Treviso V Sharks on 2024/05/24
-
-
-Average Margin: Sharks by 1.6
-
-<p float="left">
-<img src="plots/performances_2024-05-24-BenettonTreviso_V_Sharks.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-BenettonTreviso_V_Sharks.png" width="32%" />
-<img src="plots/spreads_2024-05-24-BenettonTreviso_V_Sharks.png" width="32%" />
-</p>
-
 ### Clermont Auvergne V Gloucester Rugby on 2024/05/24
 
 
-Average Margin: Clermont Auvergne by 0.3
+Average Margin: Clermont Auvergne by 1.4
 
 <p float="left">
 <img src="plots/performances_2024-05-24-ClermontAuvergne_V_GloucesterRugby.png" width="32%" />
@@ -83,26 +72,37 @@ Average Margin: Clermont Auvergne by 0.3
 <img src="plots/spreads_2024-05-24-ClermontAuvergne_V_GloucesterRugby.png" width="32%" />
 </p>
 
-### Benetton Treviso V Clermont Auvergne on 2024/05/24
+### Benetton Treviso V Sharks on 2024/05/24
 
 
-Average Margin: Clermont Auvergne by 0.5
+Average Margin: Sharks by 1.5
 
 <p float="left">
-<img src="plots/performances_2024-05-24-BenettonTreviso_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-BenettonTreviso_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/spreads_2024-05-24-BenettonTreviso_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/performances_2024-05-24-BenettonTreviso_V_Sharks.png" width="32%" />
+<img src="plots/resultbar_2024-05-24-BenettonTreviso_V_Sharks.png" width="32%" />
+<img src="plots/spreads_2024-05-24-BenettonTreviso_V_Sharks.png" width="32%" />
 </p>
 
 ### Gloucester Rugby V Clermont Auvergne on 2024/05/24
 
 
-Average Margin: Clermont Auvergne by 0.0
+Average Margin: Clermont Auvergne by 2.1
 
 <p float="left">
 <img src="plots/performances_2024-05-24-GloucesterRugby_V_ClermontAuvergne.png" width="32%" />
 <img src="plots/resultbar_2024-05-24-GloucesterRugby_V_ClermontAuvergne.png" width="32%" />
 <img src="plots/spreads_2024-05-24-GloucesterRugby_V_ClermontAuvergne.png" width="32%" />
+</p>
+
+### Benetton Treviso V Clermont Auvergne on 2024/05/24
+
+
+Average Margin: Clermont Auvergne by 0.1
+
+<p float="left">
+<img src="plots/performances_2024-05-24-BenettonTreviso_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/resultbar_2024-05-24-BenettonTreviso_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/spreads_2024-05-24-BenettonTreviso_V_ClermontAuvergne.png" width="32%" />
 </p>
 
 # Completed Match Review
@@ -117,11 +117,11 @@ Average Margin: Clermont Auvergne by 0.0
 | Castres Olympique V Scarlets on 2023/12/09            |       18 |                 7   |                  6.9 |               9.5 |
 | Ospreys V Benetton Treviso on 2023/12/09              |        9 |               -13.1 |                -10.9 |               1.6 |
 | Dragons V Oyonnax on 2023/12/09                       |       17 |                -1.9 |                 -0.4 |              -2.6 |
-| Perpignan V Lions on 2023/12/10                       |      -16 |               -10.6 |                 -8.9 |              -0.2 |
+| Perpignan V Lions on 2023/12/10                       |      -16 |               -10.6 |                 -8.9 |              -1.2 |
 | Newcastle Falcons V Montpellier Herault on 2023/12/10 |       -5 |                -8.8 |                 -8   |              -0.2 |
 | Gloucester Rugby V Clermont Auvergne on 2023/12/15    |       11 |                -7.9 |                 -6.6 |               2.7 |
 | Scarlets V Black Lion on 2023/12/15                   |      -16 |               -14.2 |                -13.5 |              -0.3 |
-| Lions V Newcastle Falcons on 2023/12/16               |       22 |                22.7 |                 20.7 |               9.8 |
+| Lions V Newcastle Falcons on 2023/12/16               |       22 |                22.7 |                 20.7 |              10.7 |
 | Pau V Dragons on 2023/12/16                           |        3 |                 9   |                  8.4 |              13.3 |
 | Edinburgh V Castres Olympique on 2023/12/16           |       13 |                 0.6 |                 -0.3 |               4.1 |
 | Oyonnax V Zebre on 2023/12/16                         |       -7 |                 8.6 |                  8.2 |              15.5 |
@@ -134,8 +134,8 @@ Average Margin: Clermont Auvergne by 0.0
 | Sharks V Oyonnax on 2024/01/13                        |       31 |                12.3 |                 11.5 |               6.7 |
 | Castres Olympique V Black Lion on 2024/01/13          |       22 |                -7.9 |                 -5.6 |               2.8 |
 | Zebre V Dragons on 2024/01/13                         |        3 |                -1.6 |                 -1   |               0.2 |
-| Edinburgh V Gloucester Rugby on 2024/01/13            |       -1 |                13.9 |                 11.1 |               6.3 |
-| Montpellier Herault V Lions on 2024/01/13             |       10 |                 1.6 |                  2.4 |               2.7 |
+| Edinburgh V Gloucester Rugby on 2024/01/13            |       -1 |                13.9 |                 11.1 |               6.2 |
+| Montpellier Herault V Lions on 2024/01/13             |       10 |                 1.6 |                  2.4 |               1.9 |
 | Cheetahs V Pau on 2024/01/14                          |      -13 |                10.9 |                 10.3 |               3.5 |
 | Gloucester Rugby V Castres Olympique on 2024/01/19    |       30 |                 0.1 |                 -0.9 |               3.8 |
 | Scarlets V Edinburgh on 2024/01/19                    |      -12 |               -17.9 |                -16.3 |              -2.5 |
@@ -144,18 +144,18 @@ Average Margin: Clermont Auvergne by 0.0
 | Benetton Treviso V Montpellier Herault on 2024/01/20  |        8 |                 5.5 |                  4   |               4.1 |
 | Oyonnax V Cheetahs on 2024/01/20                      |        1 |               -13.1 |                -14.2 |               3.7 |
 | Perpignan V Newcastle Falcons on 2024/01/21           |       -9 |                 0.6 |                  1.6 |               6.3 |
-| Lions V Ospreys on 2024/01/21                         |      -10 |                15.4 |                 16.4 |               8.7 |
+| Lions V Ospreys on 2024/01/21                         |      -10 |                15.4 |                 16.4 |               9.5 |
 | Dragons V Sharks on 2024/01/21                        |      -20 |               -13.7 |                -12.3 |              -2.5 |
 | Gloucester Rugby V Castres Olympique on 2024/04/05    |        5 |                 5.3 |                  4.4 |               5.5 |
 | Clermont Auvergne V Cheetahs on 2024/04/06            |        5 |                 6   |                  5.2 |               9.6 |
-| Benetton Treviso V Lions on 2024/04/06                |       10 |                 4.7 |                  4.2 |               1.2 |
+| Benetton Treviso V Lions on 2024/04/06                |       10 |                 4.7 |                  4.2 |               0.8 |
 | Edinburgh V Bayonne on 2024/04/06                     |       18 |                15   |                 14   |               5.1 |
-| Ospreys V Sale Sharks on 2024/04/06                   |        8 |                -1.5 |                 -0.8 |               1   |
-| Montpellier Herault V Ulster on 2024/04/07            |      -23 |                 2.2 |                  2.1 |               3.9 |
+| Ospreys V Sale Sharks on 2024/04/06                   |        8 |                -1.5 |                 -0.8 |               1.1 |
+| Montpellier Herault V Ulster on 2024/04/07            |      -23 |                 2.2 |                  2.1 |               4.3 |
 | Sharks V Zebre on 2024/04/07                          |       44 |                16.5 |                 14.6 |              15.8 |
-| Pau V Connacht on 2024/04/07                          |      -10 |                -6.8 |                 -6.1 |               5.1 |
-| Gloucester Rugby V Ospreys on 2024/04/12              |       10 |                 0.7 |                  0.3 |               6.1 |
-| Clermont Auvergne V Ulster on 2024/04/13              |       39 |                -2.4 |                 -0.9 |               3.9 |
+| Pau V Connacht on 2024/04/07                          |      -10 |                -6.8 |                 -6.1 |               5   |
+| Gloucester Rugby V Ospreys on 2024/04/12              |       10 |                 0.7 |                  0.3 |               6   |
+| Clermont Auvergne V Ulster on 2024/04/13              |       39 |                -2.4 |                 -0.9 |               4.3 |
 | Sharks V Edinburgh on 2024/04/13                      |        6 |                -0.8 |                 -0.8 |               5.1 |
 | Benetton Treviso V Connacht on 2024/04/14             |       15 |                 3.4 |                  3.6 |               4.9 |
 

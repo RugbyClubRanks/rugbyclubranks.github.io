@@ -1,6 +1,6 @@
 ---  
 title: "Super Rugby Pacific 2024 Status"  
-date: 2024-04-22 6:00:00 -0500  
+date: 2024-04-29 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,18 +17,18 @@ aside:
 
 | Club                     |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Hurricanes               |        8 |      8 |                  144 |                     0 |                  5 |                   37 |
-| Blues                    |        8 |      7 |                  171 |                     0 |                  4 |                   32 |
-| Brumbies                 |        8 |      6 |                   27 |                     0 |                  3 |                   27 |
-| Melbourne Rebels         |        8 |      5 |                  -17 |                     0 |                  4 |                   24 |
-| Chiefs                   |        8 |      5 |                   88 |                     1 |                  2 |                   23 |
-| Queensland Reds          |        8 |      4 |                   64 |                     3 |                  3 |                   22 |
-| Fijian Drua              |        8 |      3 |                  -57 |                     1 |                  0 |                   13 |
-| Moana Pasifika           |        8 |      3 |                 -140 |                     1 |                  0 |                   13 |
-| New South Wales Waratahs |        8 |      2 |                  -39 |                     4 |                  0 |                   12 |
-| Highlanders              |        8 |      2 |                  -87 |                     2 |                  1 |                   11 |
-| Western Force            |        8 |      2 |                  -89 |                     1 |                  0 |                    9 |
-| Crusaders                |        8 |      1 |                  -65 |                     3 |                  0 |                    7 |
+| Hurricanes               |        9 |      8 |                  136 |                     0 |                  5 |                   37 |
+| Blues                    |        9 |      8 |                  178 |                     0 |                  4 |                   36 |
+| Brumbies                 |        9 |      7 |                   35 |                     0 |                  3 |                   31 |
+| Chiefs                   |        9 |      6 |                  104 |                     1 |                  3 |                   28 |
+| Melbourne Rebels         |        9 |      5 |                  -56 |                     0 |                  4 |                   24 |
+| Queensland Reds          |        9 |      4 |                   57 |                     4 |                  3 |                   23 |
+| Fijian Drua              |       10 |      5 |                  -43 |                     1 |                nan |                   21 |
+| Highlanders              |        9 |      3 |                  -86 |                     2 |                  1 |                   15 |
+| Moana Pasifika           |       10 |      3 |                 -154 |                     3 |                nan |                   15 |
+| Crusaders                |        9 |      2 |                  -26 |                     3 |                  1 |                   12 |
+| New South Wales Waratahs |        9 |      2 |                  -55 |                     4 |                  0 |                   12 |
+| Western Force            |        9 |      2 |                  -90 |                     2 |                  0 |                   10 |
 
 
 
@@ -37,18 +37,18 @@ aside:
 
 | Club                     |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Blues                    |                   6 |    5.2 |              50.7477 |                   0.7 |                2   |                 23.6 |
-| Chiefs                   |                   6 |    4.6 |              44.7295 |                   1   |                2.1 |                 21.3 |
-| Brumbies                 |                   6 |    4.6 |              35.2081 |                   1   |                1.6 |                 21.2 |
-| Hurricanes               |                   6 |    4.4 |              58.518  |                   1.1 |                2.3 |                 21.1 |
-| Crusaders                |                   6 |    3.8 |              20.2407 |                   1.4 |                1   |                 17.5 |
-| Queensland Reds          |                   6 |    3.5 |              10.8585 |                   1.6 |                1.3 |                 16.8 |
-| Fijian Drua              |                   6 |    2.3 |             -14.9352 |                   1.9 |                0.6 |                 11.8 |
-| Highlanders              |                   6 |    2.3 |             -33.6234 |                   1.3 |                0.5 |                 11.1 |
-| New South Wales Waratahs |                   6 |    2.1 |             -23.7455 |                   1.8 |                0.5 |                 10.9 |
-| Western Force            |                   6 |    1.5 |             -36.8763 |                   1.8 |                0.4 |                  8.3 |
-| Moana Pasifika           |                   6 |    0.9 |             -63.7408 |                   1.4 |                0.2 |                  5.1 |
-| Melbourne Rebels         |                   6 |    0.7 |             -47.3812 |                   1.9 |                0.3 |                  5   |
+| Brumbies                 |                   5 |    4.5 |              42.9063 |                   0.5 |                1.7 |                 20.1 |
+| Blues                    |                   5 |    4.4 |              47.0274 |                   0.5 |                1.5 |                 19.7 |
+| Chiefs                   |                   5 |    3.8 |              40.8265 |                   0.8 |                1.7 |                 17.7 |
+| Hurricanes               |                   5 |    3.5 |              50.3106 |                   0.9 |                1.8 |                 16.9 |
+| Queensland Reds          |                   5 |    3.3 |              17.0549 |                   1.2 |                0.9 |                 15.5 |
+| Crusaders                |                   5 |    2.9 |              13.358  |                   1.3 |                0.9 |                 13.9 |
+| New South Wales Waratahs |                   5 |    1.8 |             -19.6446 |                   1.6 |                0.4 |                  9.2 |
+| Fijian Drua              |                   5 |    1.4 |             -24.6324 |                   1.8 |                0.3 |                  7.6 |
+| Western Force            |                   5 |    1.4 |             -30.4259 |                   1.2 |                0.3 |                  7.3 |
+| Highlanders              |                   5 |    1.4 |             -40.3297 |                   1.1 |                0.3 |                  7.2 |
+| Moana Pasifika           |                   5 |    0.9 |             -53.0522 |                   1   |                0.2 |                  4.7 |
+| Melbourne Rebels         |                   5 |    0.5 |             -43.3989 |                   1.4 |                0.2 |                  3.8 |
 
 
 
@@ -57,18 +57,18 @@ aside:
 
 | Club                     |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Hurricanes               |              14 |   12.4 |             202.518  |                   1.1 |                7.3 |                 58.1 |
-| Blues                    |              14 |   12.2 |             221.748  |                   0.7 |                6   |                 55.6 |
-| Brumbies                 |              14 |   10.6 |              62.2081 |                   1   |                4.6 |                 48.2 |
-| Chiefs                   |              14 |    9.6 |             132.729  |                   2   |                4.1 |                 44.3 |
-| Queensland Reds          |              14 |    7.5 |              74.8585 |                   4.6 |                4.3 |                 38.8 |
-| Melbourne Rebels         |              14 |    5.7 |             -64.3812 |                   1.9 |                4.3 |                 29   |
-| Fijian Drua              |              14 |    5.3 |             -71.9352 |                   2.9 |                0.6 |                 24.8 |
-| Crusaders                |              14 |    4.8 |             -44.7593 |                   4.4 |                1   |                 24.5 |
-| New South Wales Waratahs |              14 |    4.1 |             -62.7455 |                   5.8 |                0.5 |                 22.9 |
-| Highlanders              |              14 |    4.3 |            -120.623  |                   3.3 |                1.5 |                 22.1 |
-| Moana Pasifika           |              14 |    3.9 |            -203.741  |                   2.4 |                0.2 |                 18.1 |
-| Western Force            |              14 |    3.5 |            -125.876  |                   2.8 |                0.4 |                 17.3 |
+| Blues                    |              14 |   12.4 |             225.027  |                   0.5 |                5.5 |                 55.7 |
+| Hurricanes               |              14 |   11.5 |             186.311  |                   0.9 |                6.8 |                 53.9 |
+| Brumbies                 |              14 |   11.5 |              77.9063 |                   0.5 |                4.7 |                 51.1 |
+| Chiefs                   |              14 |    9.8 |             144.826  |                   1.8 |                4.7 |                 45.7 |
+| Queensland Reds          |              14 |    7.3 |              74.0549 |                   5.2 |                3.9 |                 38.5 |
+| Fijian Drua              |              15 |    6.4 |             -67.6324 |                   2.8 |                0.3 |                 28.6 |
+| Melbourne Rebels         |              14 |    5.5 |             -99.3989 |                   1.4 |                4.2 |                 27.8 |
+| Crusaders                |              14 |    4.9 |             -12.642  |                   4.3 |                1.9 |                 25.9 |
+| Highlanders              |              14 |    4.4 |            -126.33   |                   3.1 |                1.3 |                 22.2 |
+| New South Wales Waratahs |              14 |    3.8 |             -74.6446 |                   5.6 |                0.4 |                 21.2 |
+| Moana Pasifika           |              15 |    3.9 |            -207.052  |                   4   |                0.2 |                 19.7 |
+| Western Force            |              14 |    3.4 |            -120.426  |                   3.2 |                0.3 |                 17.3 |
 
 
 
@@ -77,101 +77,21 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 72.9% | 14.1 |
-| Player Level: Lineup | 72.9% | 14.4 |
-| Player Level: Minutes | 70.8% | 14.5 |
+| Club Level | 74.5% | 13.4 |
+| Player Level: Lineup | 72.2% | 14.0 |
+| Player Level: Minutes | 72.2% | 14.0 |
 
 
 # Future Predictions
 
-## Week 9
-
-### New South Wales Waratahs V Chiefs on 2024/04/26
-
-
-Average Margin: Chiefs by 7.8
-
-Average Scoreline: 31-24
-
-<p float="left">
-<img src="plots/performances_2024-04-26-NewSouthWalesWaratahs_V_Chiefs.png" width="32%" />
-<img src="plots/resultbar_2024-04-26-NewSouthWalesWaratahs_V_Chiefs.png" width="32%" />
-<img src="plots/spreads_2024-04-26-NewSouthWalesWaratahs_V_Chiefs.png" width="32%" />
-</p>
-
-### Crusaders V Melbourne Rebels on 2024/04/26
-
-
-Average Margin: Crusaders by 8.8
-
-Average Scoreline: 27-18
-
-<p float="left">
-<img src="plots/performances_2024-04-26-Crusaders_V_MelbourneRebels.png" width="32%" />
-<img src="plots/resultbar_2024-04-26-Crusaders_V_MelbourneRebels.png" width="32%" />
-<img src="plots/spreads_2024-04-26-Crusaders_V_MelbourneRebels.png" width="32%" />
-</p>
-
-### Brumbies V Hurricanes on 2024/04/27
-
-
-Average Margin: Hurricanes by 3.5
-
-Average Scoreline: 32-28
-
-<p float="left">
-<img src="plots/performances_2024-04-27-Brumbies_V_Hurricanes.png" width="32%" />
-<img src="plots/resultbar_2024-04-27-Brumbies_V_Hurricanes.png" width="32%" />
-<img src="plots/spreads_2024-04-27-Brumbies_V_Hurricanes.png" width="32%" />
-</p>
-
-### Fijian Drua V Moana Pasifika on 2024/04/27
-
-
-Average Margin: Fijian Drua by 7.0
-
-Average Scoreline: 31-24
-
-<p float="left">
-<img src="plots/performances_2024-04-27-FijianDrua_V_MoanaPasifika.png" width="32%" />
-<img src="plots/resultbar_2024-04-27-FijianDrua_V_MoanaPasifika.png" width="32%" />
-<img src="plots/spreads_2024-04-27-FijianDrua_V_MoanaPasifika.png" width="32%" />
-</p>
-
-### Queensland Reds V Blues on 2024/04/27
-
-
-Average Margin: Blues by 6.6
-
-Average Scoreline: 29-22
-
-<p float="left">
-<img src="plots/performances_2024-04-27-QueenslandReds_V_Blues.png" width="32%" />
-<img src="plots/resultbar_2024-04-27-QueenslandReds_V_Blues.png" width="32%" />
-<img src="plots/spreads_2024-04-27-QueenslandReds_V_Blues.png" width="32%" />
-</p>
-
-### Highlanders V Western Force on 2024/04/27
-
-
-Average Margin: Highlanders by 4.4
-
-Average Scoreline: 30-25
-
-<p float="left">
-<img src="plots/performances_2024-04-27-Highlanders_V_WesternForce.png" width="32%" />
-<img src="plots/resultbar_2024-04-27-Highlanders_V_WesternForce.png" width="32%" />
-<img src="plots/spreads_2024-04-27-Highlanders_V_WesternForce.png" width="32%" />
-</p>
-
-## Week 10
+## Week 11
 
 ### Melbourne Rebels V Blues on 2024/05/03
 
 
-Average Margin: Blues by 10.6
+Average Margin: Blues by 11.9
 
-Average Scoreline: 32-21
+Average Scoreline: 36-24
 
 <p float="left">
 <img src="plots/performances_2024-05-03-MelbourneRebels_V_Blues.png" width="32%" />
@@ -184,7 +104,7 @@ Average Scoreline: 32-21
 
 Average Margin: Hurricanes by 16.6
 
-Average Scoreline: 39-22
+Average Scoreline: 36-20
 
 <p float="left">
 <img src="plots/performances_2024-05-03-Hurricanes_V_NewSouthWalesWaratahs.png" width="32%" />
@@ -192,25 +112,12 @@ Average Scoreline: 39-22
 <img src="plots/spreads_2024-05-03-Hurricanes_V_NewSouthWalesWaratahs.png" width="32%" />
 </p>
 
-### Brumbies V Fijian Drua on 2024/05/04
-
-
-Average Margin: Brumbies by 13.1
-
-Average Scoreline: 33-20
-
-<p float="left">
-<img src="plots/performances_2024-05-04-Brumbies_V_FijianDrua.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-Brumbies_V_FijianDrua.png" width="32%" />
-<img src="plots/spreads_2024-05-04-Brumbies_V_FijianDrua.png" width="32%" />
-</p>
-
 ### Moana Pasifika V Highlanders on 2024/05/04
 
 
-Average Margin: Highlanders by 0.7
+Average Margin: Moana Pasifika by 0.3
 
-Average Scoreline: 31-31
+Average Scoreline: 27-27
 
 <p float="left">
 <img src="plots/performances_2024-05-04-MoanaPasifika_V_Highlanders.png" width="32%" />
@@ -221,9 +128,9 @@ Average Scoreline: 31-31
 ### Crusaders V Queensland Reds on 2024/05/04
 
 
-Average Margin: Crusaders by 4.2
+Average Margin: Crusaders by 4.8
 
-Average Scoreline: 30-26
+Average Scoreline: 28-23
 
 <p float="left">
 <img src="plots/performances_2024-05-04-Crusaders_V_QueenslandReds.png" width="32%" />
@@ -234,9 +141,9 @@ Average Scoreline: 30-26
 ### Chiefs V Western Force on 2024/05/04
 
 
-Average Margin: Chiefs by 17.9
+Average Margin: Chiefs by 18.5
 
-Average Scoreline: 33-15
+Average Scoreline: 36-18
 
 <p float="left">
 <img src="plots/performances_2024-05-04-Chiefs_V_WesternForce.png" width="32%" />
@@ -244,14 +151,27 @@ Average Scoreline: 33-15
 <img src="plots/spreads_2024-05-04-Chiefs_V_WesternForce.png" width="32%" />
 </p>
 
-## Week 11
+### Brumbies V Fijian Drua on 2024/05/04
+
+
+Average Margin: Brumbies by 14.3
+
+Average Scoreline: 34-19
+
+<p float="left">
+<img src="plots/performances_2024-05-04-Brumbies_V_FijianDrua.png" width="32%" />
+<img src="plots/resultbar_2024-05-04-Brumbies_V_FijianDrua.png" width="32%" />
+<img src="plots/spreads_2024-05-04-Brumbies_V_FijianDrua.png" width="32%" />
+</p>
+
+## Week 12
 
 ### Queensland Reds V Melbourne Rebels on 2024/05/10
 
 
-Average Margin: Queensland Reds by 7.6
+Average Margin: Queensland Reds by 8.1
 
-Average Scoreline: 29-21
+Average Scoreline: 31-23
 
 <p float="left">
 <img src="plots/performances_2024-05-10-QueenslandReds_V_MelbourneRebels.png" width="32%" />
@@ -262,9 +182,9 @@ Average Scoreline: 29-21
 ### Moana Pasifika V Chiefs on 2024/05/10
 
 
-Average Margin: Chiefs by 14.7
+Average Margin: Chiefs by 14.9
 
-Average Scoreline: 34-20
+Average Scoreline: 33-18
 
 <p float="left">
 <img src="plots/performances_2024-05-10-MoanaPasifika_V_Chiefs.png" width="32%" />
@@ -272,12 +192,25 @@ Average Scoreline: 34-20
 <img src="plots/spreads_2024-05-10-MoanaPasifika_V_Chiefs.png" width="32%" />
 </p>
 
+### New South Wales Waratahs V Brumbies on 2024/05/11
+
+
+Average Margin: Brumbies by 4.1
+
+Average Scoreline: 27-23
+
+<p float="left">
+<img src="plots/performances_2024-05-11-NewSouthWalesWaratahs_V_Brumbies.png" width="32%" />
+<img src="plots/resultbar_2024-05-11-NewSouthWalesWaratahs_V_Brumbies.png" width="32%" />
+<img src="plots/spreads_2024-05-11-NewSouthWalesWaratahs_V_Brumbies.png" width="32%" />
+</p>
+
 ### Western Force V Fijian Drua on 2024/05/11
 
 
-Average Margin: Western Force by 2.9
+Average Margin: Western Force by 4.1
 
-Average Scoreline: 28-25
+Average Scoreline: 29-25
 
 <p float="left">
 <img src="plots/performances_2024-05-11-WesternForce_V_FijianDrua.png" width="32%" />
@@ -288,9 +221,9 @@ Average Scoreline: 28-25
 ### Blues V Hurricanes on 2024/05/11
 
 
-Average Margin: Blues by 3.3
+Average Margin: Blues by 4.5
 
-Average Scoreline: 25-22
+Average Scoreline: 28-23
 
 <p float="left">
 <img src="plots/performances_2024-05-11-Blues_V_Hurricanes.png" width="32%" />
@@ -298,25 +231,12 @@ Average Scoreline: 25-22
 <img src="plots/spreads_2024-05-11-Blues_V_Hurricanes.png" width="32%" />
 </p>
 
-### New South Wales Waratahs V Brumbies on 2024/05/11
-
-
-Average Margin: Brumbies by 3.0
-
-Average Scoreline: 32-29
-
-<p float="left">
-<img src="plots/performances_2024-05-11-NewSouthWalesWaratahs_V_Brumbies.png" width="32%" />
-<img src="plots/resultbar_2024-05-11-NewSouthWalesWaratahs_V_Brumbies.png" width="32%" />
-<img src="plots/spreads_2024-05-11-NewSouthWalesWaratahs_V_Brumbies.png" width="32%" />
-</p>
-
 ### Highlanders V Crusaders on 2024/05/11
 
 
-Average Margin: Crusaders by 3.7
+Average Margin: Crusaders by 4.9
 
-Average Scoreline: 30-26
+Average Scoreline: 29-24
 
 <p float="left">
 <img src="plots/performances_2024-05-11-Highlanders_V_Crusaders.png" width="32%" />
@@ -324,27 +244,14 @@ Average Scoreline: 30-26
 <img src="plots/spreads_2024-05-11-Highlanders_V_Crusaders.png" width="32%" />
 </p>
 
-## Week 12
-
-### Hurricanes V Moana Pasifika on 2024/05/17
-
-
-Average Margin: Hurricanes by 23.4
-
-Average Scoreline: 53-30
-
-<p float="left">
-<img src="plots/performances_2024-05-17-Hurricanes_V_MoanaPasifika.png" width="32%" />
-<img src="plots/resultbar_2024-05-17-Hurricanes_V_MoanaPasifika.png" width="32%" />
-<img src="plots/spreads_2024-05-17-Hurricanes_V_MoanaPasifika.png" width="32%" />
-</p>
+## Week 13
 
 ### Melbourne Rebels V Chiefs on 2024/05/17
 
 
-Average Margin: Chiefs by 8.7
+Average Margin: Chiefs by 10.1
 
-Average Scoreline: 36-27
+Average Scoreline: 36-26
 
 <p float="left">
 <img src="plots/performances_2024-05-17-MelbourneRebels_V_Chiefs.png" width="32%" />
@@ -352,12 +259,25 @@ Average Scoreline: 36-27
 <img src="plots/spreads_2024-05-17-MelbourneRebels_V_Chiefs.png" width="32%" />
 </p>
 
+### Hurricanes V Moana Pasifika on 2024/05/17
+
+
+Average Margin: Hurricanes by 22.0
+
+Average Scoreline: 45-23
+
+<p float="left">
+<img src="plots/performances_2024-05-17-Hurricanes_V_MoanaPasifika.png" width="32%" />
+<img src="plots/resultbar_2024-05-17-Hurricanes_V_MoanaPasifika.png" width="32%" />
+<img src="plots/spreads_2024-05-17-Hurricanes_V_MoanaPasifika.png" width="32%" />
+</p>
+
 ### Western Force V New South Wales Waratahs on 2024/05/18
 
 
-Average Margin: New South Wales Waratahs by 0.3
+Average Margin: Western Force by 0.6
 
-Average Scoreline: 30-29
+Average Scoreline: 26-26
 
 <p float="left">
 <img src="plots/performances_2024-05-18-WesternForce_V_NewSouthWalesWaratahs.png" width="32%" />
@@ -368,9 +288,9 @@ Average Scoreline: 30-29
 ### Fijian Drua V Queensland Reds on 2024/05/18
 
 
-Average Margin: Queensland Reds by 3.3
+Average Margin: Queensland Reds by 3.6
 
-Average Scoreline: 36-33
+Average Scoreline: 26-23
 
 <p float="left">
 <img src="plots/performances_2024-05-18-FijianDrua_V_QueenslandReds.png" width="32%" />
@@ -381,9 +301,9 @@ Average Scoreline: 36-33
 ### Blues V Highlanders on 2024/05/18
 
 
-Average Margin: Blues by 19.1
+Average Margin: Blues by 20.0
 
-Average Scoreline: 34-15
+Average Scoreline: 39-19
 
 <p float="left">
 <img src="plots/performances_2024-05-18-Blues_V_Highlanders.png" width="32%" />
@@ -394,9 +314,9 @@ Average Scoreline: 34-15
 ### Brumbies V Crusaders on 2024/05/18
 
 
-Average Margin: Brumbies by 5.3
+Average Margin: Brumbies by 5.5
 
-Average Scoreline: 25-20
+Average Scoreline: 27-22
 
 <p float="left">
 <img src="plots/performances_2024-05-18-Brumbies_V_Crusaders.png" width="32%" />
@@ -404,14 +324,14 @@ Average Scoreline: 25-20
 <img src="plots/spreads_2024-05-18-Brumbies_V_Crusaders.png" width="32%" />
 </p>
 
-## Week 13
+## Week 14
 
 ### Chiefs V Hurricanes on 2024/05/24
 
 
-Average Margin: Chiefs by 1.1
+Average Margin: Chiefs by 2.7
 
-Average Scoreline: 28-27
+Average Scoreline: 29-26
 
 <p float="left">
 <img src="plots/performances_2024-05-24-Chiefs_V_Hurricanes.png" width="32%" />
@@ -422,9 +342,9 @@ Average Scoreline: 28-27
 ### Brumbies V Melbourne Rebels on 2024/05/24
 
 
-Average Margin: Brumbies by 10.7
+Average Margin: Brumbies by 12.0
 
-Average Scoreline: 32-21
+Average Scoreline: 31-19
 
 <p float="left">
 <img src="plots/performances_2024-05-24-Brumbies_V_MelbourneRebels.png" width="32%" />
@@ -435,9 +355,9 @@ Average Scoreline: 32-21
 ### Moana Pasifika V New South Wales Waratahs on 2024/05/25
 
 
-Average Margin: New South Wales Waratahs by 3.6
+Average Margin: New South Wales Waratahs by 2.1
 
-Average Scoreline: 34-30
+Average Scoreline: 25-23
 
 <p float="left">
 <img src="plots/performances_2024-05-25-MoanaPasifika_V_NewSouthWalesWaratahs.png" width="32%" />
@@ -445,25 +365,12 @@ Average Scoreline: 34-30
 <img src="plots/spreads_2024-05-25-MoanaPasifika_V_NewSouthWalesWaratahs.png" width="32%" />
 </p>
 
-### Crusaders V Blues on 2024/05/25
-
-
-Average Margin: Blues by 5.5
-
-Average Scoreline: 29-24
-
-<p float="left">
-<img src="plots/performances_2024-05-25-Crusaders_V_Blues.png" width="32%" />
-<img src="plots/resultbar_2024-05-25-Crusaders_V_Blues.png" width="32%" />
-<img src="plots/spreads_2024-05-25-Crusaders_V_Blues.png" width="32%" />
-</p>
-
 ### Queensland Reds V Western Force on 2024/05/25
 
 
-Average Margin: Queensland Reds by 10.5
+Average Margin: Queensland Reds by 9.6
 
-Average Scoreline: 30-19
+Average Scoreline: 31-22
 
 <p float="left">
 <img src="plots/performances_2024-05-25-QueenslandReds_V_WesternForce.png" width="32%" />
@@ -471,12 +378,25 @@ Average Scoreline: 30-19
 <img src="plots/spreads_2024-05-25-QueenslandReds_V_WesternForce.png" width="32%" />
 </p>
 
+### Crusaders V Blues on 2024/05/25
+
+
+Average Margin: Blues by 5.2
+
+Average Scoreline: 32-27
+
+<p float="left">
+<img src="plots/performances_2024-05-25-Crusaders_V_Blues.png" width="32%" />
+<img src="plots/resultbar_2024-05-25-Crusaders_V_Blues.png" width="32%" />
+<img src="plots/spreads_2024-05-25-Crusaders_V_Blues.png" width="32%" />
+</p>
+
 ### Highlanders V Fijian Drua on 2024/05/26
 
 
-Average Margin: Highlanders by 3.5
+Average Margin: Highlanders by 3.8
 
-Average Scoreline: 30-26
+Average Scoreline: 31-27
 
 <p float="left">
 <img src="plots/performances_2024-05-26-Highlanders_V_FijianDrua.png" width="32%" />
@@ -484,14 +404,14 @@ Average Scoreline: 30-26
 <img src="plots/spreads_2024-05-26-Highlanders_V_FijianDrua.png" width="32%" />
 </p>
 
-## Week 14
+## Week 15
 
 ### New South Wales Waratahs V Queensland Reds on 2024/05/31
 
 
-Average Margin: Queensland Reds by 0.2
+Average Margin: Queensland Reds by 0.5
 
-Average Scoreline: 32-32
+Average Scoreline: 27-27
 
 <p float="left">
 <img src="plots/performances_2024-05-31-NewSouthWalesWaratahs_V_QueenslandReds.png" width="32%" />
@@ -502,9 +422,9 @@ Average Scoreline: 32-32
 ### Crusaders V Moana Pasifika on 2024/05/31
 
 
-Average Margin: Crusaders by 14.3
+Average Margin: Crusaders by 14.4
 
-Average Scoreline: 38-24
+Average Scoreline: 34-19
 
 <p float="left">
 <img src="plots/performances_2024-05-31-Crusaders_V_MoanaPasifika.png" width="32%" />
@@ -515,9 +435,9 @@ Average Scoreline: 38-24
 ### Hurricanes V Highlanders on 2024/06/01
 
 
-Average Margin: Hurricanes by 19.3
+Average Margin: Hurricanes by 18.9
 
-Average Scoreline: 36-17
+Average Scoreline: 40-22
 
 <p float="left">
 <img src="plots/performances_2024-06-01-Hurricanes_V_Highlanders.png" width="32%" />
@@ -525,12 +445,25 @@ Average Scoreline: 36-17
 <img src="plots/spreads_2024-06-01-Hurricanes_V_Highlanders.png" width="32%" />
 </p>
 
+### Western Force V Brumbies on 2024/06/01
+
+
+Average Margin: Brumbies by 7.0
+
+Average Scoreline: 29-22
+
+<p float="left">
+<img src="plots/performances_2024-06-01-WesternForce_V_Brumbies.png" width="32%" />
+<img src="plots/resultbar_2024-06-01-WesternForce_V_Brumbies.png" width="32%" />
+<img src="plots/spreads_2024-06-01-WesternForce_V_Brumbies.png" width="32%" />
+</p>
+
 ### Blues V Chiefs on 2024/06/01
 
 
-Average Margin: Blues by 5.6
+Average Margin: Blues by 5.3
 
-Average Scoreline: 29-24
+Average Scoreline: 27-22
 
 <p float="left">
 <img src="plots/performances_2024-06-01-Blues_V_Chiefs.png" width="32%" />
@@ -541,25 +474,12 @@ Average Scoreline: 29-24
 ### Fijian Drua V Melbourne Rebels on 2024/06/01
 
 
-Average Margin: Fijian Drua by 1.0
+Average Margin: Fijian Drua by 1.3
 
-Average Scoreline: 29-28
+Average Scoreline: 31-30
 
 <p float="left">
 <img src="plots/performances_2024-06-01-FijianDrua_V_MelbourneRebels.png" width="32%" />
 <img src="plots/resultbar_2024-06-01-FijianDrua_V_MelbourneRebels.png" width="32%" />
 <img src="plots/spreads_2024-06-01-FijianDrua_V_MelbourneRebels.png" width="32%" />
-</p>
-
-### Western Force V Brumbies on 2024/06/01
-
-
-Average Margin: Brumbies by 6.6
-
-Average Scoreline: 34-27
-
-<p float="left">
-<img src="plots/performances_2024-06-01-WesternForce_V_Brumbies.png" width="32%" />
-<img src="plots/resultbar_2024-06-01-WesternForce_V_Brumbies.png" width="32%" />
-<img src="plots/spreads_2024-06-01-WesternForce_V_Brumbies.png" width="32%" />
 </p>

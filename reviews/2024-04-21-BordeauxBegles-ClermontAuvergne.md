@@ -11,7 +11,7 @@ categories: "Top 14 Orange 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.684, which translates to predicting Bordeaux Begles to win by 6.8.
 
-Our Over/Under is 41.5 - and combined with the spread above, we have a predicted scoreline of 17 to 24
+Our Over/Under is 42.5 - and combined with the spread above, we have a predicted scoreline of 18 to 25
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Bordeaux Begles by 14.2 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player               |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:--------------------------|---------------:|
-|             21 | Daniel Bibi Biziwu |             10.1  |        1 |             88.08 | Ugo Boniface              |             57 |
-|             55 | Etienne Fourcade   |             32.81 |        2 |             14.73 | Romain Latterrade         |             50 |
-|             50 | Rabah Slimani      |             74.93 |        3 |             40.61 | Toma'akino Taufa          |             53 |
-|             80 | Paul Jedrasiak     |             10.89 |        4 |             88.52 | Guido Petti               |             57 |
-|             71 | Rob Simmons        |             91.99 |        5 |             98.09 | Adam Coleman              |             75 |
-|             54 | Killian Tixeront   |             62.88 |        6 |             69.84 | Bastien Vergnes Taillefer |             80 |
-|             54 | Alexandre Fischer  |             70.65 |        7 |             73.2  | Mahamadou Diaby           |             80 |
-|             71 | Pita Gus Sowakula  |             81.82 |        8 |             68.8  | Antoine Miquel            |             30 |
-|             57 | Baptiste Jauneau   |             24.63 |        9 |             98.95 | Maxime Lucu               |             80 |
-|             55 | Anthony Belleau    |             89.23 |       10 |             95.64 | Matthieu Jalibert         |             62 |
-|             39 | Alivereti Raka     |             14.53 |       11 |             92.68 | Madosh Tambwe             |             80 |
-|             80 | Julien Heriteau    |             49.88 |       12 |             47.69 | Ben Tapuai                |             80 |
-|             80 | Leon Darricarrere  |             53.16 |       13 |             80.34 | Nicolas Depoortere        |             62 |
-|             71 | Joris Jurand       |             71.51 |       14 |             95.16 | Damian Penaud             |             80 |
-|             80 | Alex Newsome       |             66.92 |       15 |             96.49 | Romain Buros              |             54 |
-|             25 | Yohan Beheregaray  |             32.22 |       16 |             51.87 | Maxime Lamothe            |             30 |
-|             59 | Giorgi Beria       |             19.35 |       17 |             87.04 | Lekso Kaulashvili         |             23 |
-|             35 | Anthime Hemery     |             73.68 |       18 |             89.47 | Cyril Cazeaux             |             28 |
-|             35 | Marcos Kremer      |             74.71 |       19 |             84.69 | Pete Samu                 |             50 |
-|             23 | Sebastien Bezy     |             83.37 |       20 |              2.95 | Paul Abadie               |             18 |
-|             25 | Theo Giral         |            nan    |       21 |             10.92 | Pablo Uberti              |             18 |
-|             50 | Yerim Fall         |             31.08 |       22 |             73.31 | Louis Bielle-Biarrey      |             26 |
-|             30 | Cristian Ojovan    |             72.74 |       23 |             96.28 | Ben Tameifuna             |             27 |
+|             21 | Daniel Bibi Biziwu |              9.74 |        1 |             90.36 | Ugo Boniface              |             57 |
+|             55 | Etienne Fourcade   |             45.98 |        2 |             14.66 | Romain Latterrade         |             50 |
+|             50 | Rabah Slimani      |             78.98 |        3 |             40.98 | Toma'akino Taufa          |             53 |
+|             80 | Paul Jedrasiak     |             11    |        4 |             88.39 | Guido Petti               |             57 |
+|             71 | Rob Simmons        |             93.23 |        5 |             98.67 | Adam Coleman              |             75 |
+|             54 | Killian Tixeront   |             61.98 |        6 |             76.16 | Bastien Vergnes Taillefer |             80 |
+|             54 | Alexandre Fischer  |             69.85 |        7 |             77.95 | Mahamadou Diaby           |             80 |
+|             71 | Pita Gus Sowakula  |             80.05 |        8 |             67.08 | Antoine Miquel            |             30 |
+|             57 | Baptiste Jauneau   |             37    |        9 |             99.37 | Maxime Lucu               |             80 |
+|             55 | Anthony Belleau    |             91.69 |       10 |             96.62 | Matthieu Jalibert         |             62 |
+|             39 | Alivereti Raka     |             22.29 |       11 |             92.11 | Madosh Tambwe             |             80 |
+|             80 | Julien Heriteau    |             49.81 |       12 |             54.26 | Ben Tapuai                |             80 |
+|             80 | Leon Darricarrere  |             61.8  |       13 |             79.98 | Nicolas Depoortere        |             62 |
+|             71 | Joris Jurand       |             70.51 |       14 |             95.66 | Damian Penaud             |             80 |
+|             80 | Alex Newsome       |             73.54 |       15 |             97.46 | Romain Buros              |             54 |
+|             25 | Yohan Beheregaray  |             32.53 |       16 |             61.04 | Maxime Lamothe            |             30 |
+|             59 | Giorgi Beria       |             33.27 |       17 |             87.27 | Lekso Kaulashvili         |             23 |
+|             35 | Anthime Hemery     |             73.04 |       18 |             91.66 | Cyril Cazeaux             |             28 |
+|             35 | Marcos Kremer      |             78.9  |       19 |             85.46 | Pete Samu                 |             50 |
+|             23 | Sebastien Bezy     |             83.93 |       20 |              2.96 | Paul Abadie               |             18 |
+|             25 | Theo Giral         |            nan    |       21 |             10.63 | Pablo Uberti              |             18 |
+|             50 | Yerim Fall         |             30.17 |       22 |             78.51 | Louis Bielle-Biarrey      |             26 |
+|             30 | Cristian Ojovan    |             72.71 |       23 |             95.85 | Ben Tameifuna             |             27 |
 

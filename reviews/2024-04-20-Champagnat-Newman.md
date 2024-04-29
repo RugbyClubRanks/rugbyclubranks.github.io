@@ -11,7 +11,7 @@ categories: "URBA Top 12 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.074, which translates to predicting Newman to win by 22.9.
 
-Our Over/Under is 39.5 - and combined with the spread above, we have a predicted scoreline of 31 to 8
+Our Over/Under is 55.5 - and combined with the spread above, we have a predicted scoreline of 39 to 16
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,21 +69,21 @@ Newman by 0.0 on a neutral pitch
 
 |   Away Minutes | Away Player               |   Away Percentile |   Number |   Home Percentile | Home Player                   |   Home Minutes |
 |---------------:|:--------------------------|------------------:|---------:|------------------:|:------------------------------|---------------:|
-|             49 | Miguel Prince             |             24.59 |        1 |             52.14 | Tomas Distel                  |             60 |
-|             70 | Marcelo Brandi            |             25.54 |        2 |             52.26 | Fernando Rodriguez Pascarella |             80 |
-|             60 | Luciano Borio             |             48.52 |        3 |             52.53 | Alberto Adissi                |             80 |
-|             41 | Tomas Ureta               |             30.26 |        4 |             51.67 | Inaki Ustariz                 |             80 |
-|             80 | Alejandro Urtubey         |             29.55 |        5 |             52.15 | Santiago Escuti               |             77 |
-|             80 | Mateo Montoya             |             19.14 |        6 |             47.39 | Matias Alonso Boto            |             80 |
-|             57 | Joaquin de la Vega        |             24.36 |        7 |             47.39 | Francisco Castelli            |             80 |
-|             80 | Rodrigo Diaz de Vivar     |             46.44 |        8 |             48.4  | Matias Muniagurria            |             80 |
-|             80 | Felix Branca              |             28.21 |        9 |             48.84 | Martin Graciarena             |             55 |
-|             80 | Gonzalo Guiterrez Taboada |             24.62 |       10 |             42.05 | Benjamin Panelo               |             80 |
-|             71 | Agustin Gosio             |             22.97 |       11 |             51.01 | Tomas Baca Castex             |             71 |
-|             80 | Tomas Keena               |             26.09 |       12 |             44.17 | Tobias Imbrosciano            |             80 |
-|              3 | Benjamin Lanfranco        |             28.64 |       13 |             44.05 | Tomas Cotter                  |             77 |
-|             80 | Leandro Leivas            |             28.83 |       14 |             50.79 | Simon Zappella                |             80 |
-|             80 | Francisco Pasman          |             23.81 |       15 |             44.11 | Geronimo Tomasella            |             70 |
+|             49 | Miguel Prince             |             24.11 |        1 |             52.65 | Tomas Distel                  |             60 |
+|             70 | Marcelo Brandi            |             25.3  |        2 |             51.2  | Fernando Rodriguez Pascarella |             80 |
+|             60 | Luciano Borio             |             49.28 |        3 |             53.04 | Alberto Adissi                |             80 |
+|             41 | Tomas Ureta               |             30.59 |        4 |             52.24 | Inaki Ustariz                 |             80 |
+|             80 | Alejandro Urtubey         |             29.63 |        5 |             52.6  | Santiago Escuti               |             77 |
+|             80 | Mateo Montoya             |             19.07 |        6 |             46.9  | Matias Alonso Boto            |             80 |
+|             57 | Joaquin de la Vega        |             23.96 |        7 |             46.9  | Francisco Castelli            |             80 |
+|             80 | Rodrigo Diaz de Vivar     |             45.14 |        8 |             47.13 | Matias Muniagurria            |             80 |
+|             80 | Felix Branca              |             28.33 |        9 |             48.41 | Martin Graciarena             |             55 |
+|             80 | Gonzalo Guiterrez Taboada |             25.71 |       10 |             42.6  | Benjamin Panelo               |             80 |
+|             71 | Agustin Gosio             |             22.51 |       11 |             50.17 | Tomas Baca Castex             |             71 |
+|             80 | Tomas Keena               |             26.33 |       12 |             43.39 | Tobias Imbrosciano            |             80 |
+|              3 | Benjamin Lanfranco        |             28.68 |       13 |             43.26 | Tomas Cotter                  |             77 |
+|             80 | Leandro Leivas            |             27.77 |       14 |             50.06 | Simon Zappella                |             80 |
+|             80 | Francisco Pasman          |             21.88 |       15 |             40.97 | Geronimo Tomasella            |             70 |
 |             10 | Away Team 16              |            nan    |       16 |            nan    | Home Team 16                  |              0 |
 |             40 | Away Team 17              |            nan    |       17 |            nan    | Home Team 17                  |             20 |
 |             20 | Away Team 18              |            nan    |       18 |            nan    | Home Team 18                  |              9 |

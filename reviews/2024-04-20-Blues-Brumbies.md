@@ -11,7 +11,7 @@ categories: "Super Rugby Pacific 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.751, which translates to predicting Blues to win by 9.9.
 
-Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 19 to 29
+Our Over/Under is 54.5 - and combined with the spread above, we have a predicted scoreline of 23 to 32
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Blues by 6.6 on a neutral pitch
 
 |   Away Minutes | Away Player      |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:-----------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             60 | James Slipper    |             92.95 |        1 |             98.67 | Ofa Tu'ungafasi    |             54 |
-|             61 | Billy Pollard    |             65.42 |        2 |             78.78 | Ricky Riccitelli   |             59 |
-|             61 | Sefo Kautai      |             33.27 |        3 |             77.98 | Marcel Renata      |             54 |
-|             51 | Darcy Swain      |             54.67 |        4 |             94.26 | Patrick Tuipulotu  |             80 |
-|             51 | Cadeyrn Neville  |             98.44 |        5 |             95.57 | Laghlan McWhannell |             61 |
-|             80 | Rob Valetini     |             97.33 |        6 |             95.82 | Akira Ioane        |             72 |
-|             55 | Jahrome Brown    |             83.99 |        7 |             98.49 | Dalton Papalii     |             80 |
-|             80 | Charlie Cale     |             45.95 |        8 |             94.35 | Hoskins Sotutu     |             80 |
-|             70 | Ryan Lonergan    |             72    |        9 |             18.32 | Taufa Funaki       |             69 |
-|             80 | Noah Lolesio     |             82.56 |       10 |             90.51 | Harry Plummer      |             76 |
-|             80 | Corey Toole      |             50.9  |       11 |             54.39 | Caleb Clarke       |             80 |
-|             67 | Tamati Tua       |             53.88 |       12 |             98.06 | Bryce Heem         |             59 |
-|             76 | Hudson Creighton |             50.24 |       13 |             83.5  | Rieko Ioane        |             80 |
-|             80 | Ollie Sapsford   |             89.86 |       14 |             72.41 | Mark Tele'a        |             80 |
-|             80 | Tom Wright       |             69.17 |       15 |             64.91 | Cole Forbes        |             80 |
-|             19 | Connal McInerney |             85.85 |       16 |             89    | Kurt Eklund        |             21 |
-|             29 | Blake Schoupp    |             45    |       17 |             49.86 | Josh Fusitu'a      |             26 |
-|             19 | Rhys Van Nek     |             63.2  |       18 |             95.33 | Angus Ta'avao      |             26 |
-|             29 | Nick Frost       |             56.46 |       19 |             32.78 | Sam Darry          |             19 |
-|             29 | Tom Hooper       |             72.74 |       20 |             63.11 | Adrian Choat       |              0 |
-|             20 | Luke Reimer      |             52.44 |       21 |             72.84 | Sam Nock           |             11 |
-|             10 | Harrison Goddard |             26.32 |       22 |             41.54 | Lucas Cashmore     |              4 |
-|             13 | Jack Debreczeni  |             68.46 |       23 |             68.24 | AJ Lam             |             21 |
+|             60 | James Slipper    |             94.41 |        1 |             98.84 | Ofa Tu'ungafasi    |             54 |
+|             61 | Billy Pollard    |             73.69 |        2 |             78.51 | Ricky Riccitelli   |             59 |
+|             61 | Sefo Kautai      |             33.08 |        3 |             77.24 | Marcel Renata      |             54 |
+|             51 | Darcy Swain      |             62.52 |        4 |             94.44 | Patrick Tuipulotu  |             80 |
+|             51 | Cadeyrn Neville  |             98.79 |        5 |             95.41 | Laghlan McWhannell |             61 |
+|             80 | Rob Valetini     |             97.62 |        6 |             95.83 | Akira Ioane        |             72 |
+|             55 | Jahrome Brown    |             84.74 |        7 |             98.81 | Dalton Papalii     |             80 |
+|             80 | Charlie Cale     |             53.12 |        8 |             94.26 | Hoskins Sotutu     |             80 |
+|             70 | Ryan Lonergan    |             74.84 |        9 |             21.56 | Taufa Funaki       |             69 |
+|             80 | Noah Lolesio     |             84.68 |       10 |             90.65 | Harry Plummer      |             76 |
+|             80 | Corey Toole      |             57.83 |       11 |             53.6  | Caleb Clarke       |             80 |
+|             67 | Tamati Tua       |             62.18 |       12 |             98.39 | Bryce Heem         |             59 |
+|             76 | Hudson Creighton |             50.31 |       13 |             85.04 | Rieko Ioane        |             80 |
+|             80 | Ollie Sapsford   |             90.51 |       14 |             71.54 | Mark Tele'a        |             80 |
+|             80 | Tom Wright       |             72.77 |       15 |             64.89 | Cole Forbes        |             80 |
+|             19 | Connal McInerney |             85.34 |       16 |             88.55 | Kurt Eklund        |             21 |
+|             29 | Blake Schoupp    |             45.42 |       17 |             50.34 | Josh Fusitu'a      |             26 |
+|             19 | Rhys Van Nek     |             63.55 |       18 |             95.76 | Angus Ta'avao      |             26 |
+|             29 | Nick Frost       |             56.11 |       19 |             39.54 | Sam Darry          |             19 |
+|             29 | Tom Hooper       |             72.59 |       20 |             62.46 | Adrian Choat       |              0 |
+|             20 | Luke Reimer      |             52.09 |       21 |             72.09 | Sam Nock           |             11 |
+|             10 | Harrison Goddard |             26.22 |       22 |             42.08 | Lucas Cashmore     |              4 |
+|             13 | Jack Debreczeni  |             68.57 |       23 |             71.2  | AJ Lam             |             21 |
 

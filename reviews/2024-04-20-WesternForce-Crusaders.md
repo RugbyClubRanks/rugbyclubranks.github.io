@@ -11,7 +11,7 @@ categories: "Super Rugby Pacific 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.274, which translates to predicting Crusaders to win by 8.8.
 
-Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 28 to 19
+Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 30 to 21
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Crusaders by 1.4 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             41 | Joe Moody            |             58.63 |        1 |             24.31 | Ryan Coxon            |             49 |
-|             40 | Brodie McAlister     |             84.48 |        2 |             54.62 | Tom Horton            |             77 |
-|             41 | Owen Franks          |             72.45 |        3 |              6.86 | Santiago Medrano      |             67 |
-|             81 | Quinten Strange      |             78.71 |        4 |             95.1  | Sam Carter            |             81 |
-|             70 | Jamie Hannah         |             31.1  |        5 |             90.79 | Tom Franklin          |             21 |
-|             81 | Ethan Blackadder     |             95.94 |        6 |             68.45 | Will Harris           |             61 |
-|             81 | Tom Christie         |             58.35 |        7 |             14.15 | Carlo Tizzano         |             81 |
-|             61 | Christian Lio-Willie |             21.13 |        8 |             87.47 | Reed Prinsep          |             81 |
-|             55 | Mitchell Drummond    |             83.79 |        9 |             99.16 | Nic White             |             61 |
-|             81 | Riley Hohepa         |              6.41 |       10 |             52.05 | Ben Donaldson         |             81 |
-|             81 | Macca Springer       |             23.31 |       11 |             76.8  | Chase Tiatia          |             61 |
-|             20 | Dallas McLeod        |             60.19 |       12 |             80.46 | Hamish Stewart        |             81 |
-|             73 | Levi Aumua           |             62.86 |       13 |             29.37 | Sam Spink             |             81 |
-|             81 | Sevu Reece           |             78.6  |       14 |              6.53 | Bayley Kuenzle        |             81 |
-|             81 | Chay Fihaki          |             12.53 |       15 |             52.63 | Kurtley Beale         |             81 |
-|             41 | George Bell          |              8.64 |       16 |             94.7  | Ben Funnell           |              4 |
-|             40 | George Bower         |              9.91 |       17 |             23.93 | Marley Pearce         |             32 |
-|             40 | Fletcher Newell      |              1.81 |       18 |            nan    | Tiaan Tauakipulu      |             14 |
-|             11 | Dom Gardiner         |             28.89 |       19 |             77.63 | Izack Rodda           |             60 |
-|             20 | Cullen Grace         |             75.18 |       20 |              2.2  | Michael Wells         |             20 |
-|             26 | Noah Hotham          |             64.63 |       21 |             42.32 | Issak Fines-Leleiwasa |             20 |
-|             19 | Rivez Reihana        |             32.31 |       22 |              7.27 | Max Burey             |              0 |
-|             50 | Ryan Crotty          |             97.57 |       23 |            nan    | Henry O'Donnell       |             20 |
+|             41 | Joe Moody            |             58.63 |        1 |             23.92 | Ryan Coxon            |             49 |
+|             40 | Brodie McAlister     |             86.95 |        2 |             53.41 | Tom Horton            |             77 |
+|             41 | Owen Franks          |             72.32 |        3 |              6.75 | Santiago Medrano      |             67 |
+|             81 | Quinten Strange      |             84.76 |        4 |             94.92 | Sam Carter            |             81 |
+|             70 | Jamie Hannah         |             31.32 |        5 |             90.45 | Tom Franklin          |             21 |
+|             81 | Ethan Blackadder     |             97.38 |        6 |             67.82 | Will Harris           |             61 |
+|             81 | Tom Christie         |             57.45 |        7 |             13.35 | Carlo Tizzano         |             81 |
+|             61 | Christian Lio-Willie |             25.69 |        8 |             86.78 | Reed Prinsep          |             81 |
+|             55 | Mitchell Drummond    |             87.74 |        9 |             98.94 | Nic White             |             61 |
+|             81 | Riley Hohepa         |              6.23 |       10 |             54.29 | Ben Donaldson         |             81 |
+|             81 | Macca Springer       |             22.86 |       11 |             76    | Chase Tiatia          |             61 |
+|             20 | Dallas McLeod        |             66.13 |       12 |             80.22 | Hamish Stewart        |             81 |
+|             73 | Levi Aumua           |             70.21 |       13 |             29.54 | Sam Spink             |             81 |
+|             81 | Sevu Reece           |             82.4  |       14 |              6.29 | Bayley Kuenzle        |             81 |
+|             81 | Chay Fihaki          |             12.47 |       15 |             52.16 | Kurtley Beale         |             81 |
+|             41 | George Bell          |              9.04 |       16 |             94.58 | Ben Funnell           |              4 |
+|             40 | George Bower         |             11.67 |       17 |             27.19 | Marley Pearce         |             32 |
+|             40 | Fletcher Newell      |              1.93 |       18 |            nan    | Tiaan Tauakipulu      |             14 |
+|             11 | Dom Gardiner         |             28.13 |       19 |             82.95 | Izack Rodda           |             60 |
+|             20 | Cullen Grace         |             81.29 |       20 |              2.26 | Michael Wells         |             20 |
+|             26 | Noah Hotham          |             63.85 |       21 |             42.28 | Issak Fines-Leleiwasa |             20 |
+|             19 | Rivez Reihana        |             50.39 |       22 |              6.87 | Max Burey             |              0 |
+|             50 | Ryan Crotty          |             97.53 |       23 |            nan    | Henry O'Donnell       |             20 |
 

@@ -11,7 +11,7 @@ categories: "Pro D2 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.414, which translates to predicting Vannes to win by 3.1.
 
-Our Over/Under is 44.5 - and combined with the spread above, we have a predicted scoreline of 24 to 20
+Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 25 to 22
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Vannes by 11.0 on a neutral pitch
 
 |   Away Minutes | Away Player             |   Away Percentile |   Number |   Home Percentile | Home Player       |   Home Minutes |
 |---------------:|:------------------------|------------------:|---------:|------------------:|:------------------|---------------:|
-|             59 | Andy Bordelai           |             88.94 |        1 |             18.97 | Thomas Bue        |             32 |
-|             51 | Cyril Blanchard         |             41.45 |        2 |             26.33 | German Kessler    |             51 |
-|             51 | Paga Tafili             |             93.52 |        3 |              2.29 | Mirian Burduli    |             51 |
-|             59 | Anton Bresler           |             67.58 |        4 |              5.62 | Tjuee Uanivi      |             80 |
-|             72 | Mattéo Desjeux          |             21.41 |        5 |             23.33 | Dimitri Vaotoa    |             51 |
-|             80 | Juan Bautista Pedemonte |             28.42 |        6 |             22.85 | Kyllian Ringuet   |             51 |
-|             80 | Francisco Gorrissen     |             98.03 |        7 |             46.64 | Noa Kanika        |             80 |
-|             51 | Sione Kalamafoni        |             53.07 |        8 |             12.29 | Tyrone Viiga      |             47 |
-|             80 | Michael Ruru            |             93.05 |        9 |             48.42 | Alexis Bernadet   |             56 |
-|             80 | Maxime Lafage           |             94.62 |       10 |             18.21 | Thomas Fortunel   |             51 |
-|             80 | Martin Alonso Munoz     |             18.13 |       11 |             85.81 | Stephane Ahmed    |             80 |
-|             80 | Andres Vilaseca         |             15.78 |       12 |             49.64 | Simon Renda       |             80 |
-|             80 | Robin Taccola           |             54.61 |       13 |             27.55 | Yvan Reilhac      |             80 |
-|             80 | Théo Bastardie          |             70.38 |       14 |             16.67 | Josua Vici        |             80 |
-|             59 | Gwenaël Duplenne        |             97.99 |       15 |             79.45 | Semesa Rokoduguni |             80 |
-|             29 | Phil Kite               |             80.74 |       16 |              0.38 | Malino Vanai      |             48 |
-|             29 | Théo Beziat             |             54.42 |       17 |             23.59 | Corentin Coularis |             33 |
-|             29 | Joe Edwards             |             92.38 |       18 |              6.09 | Kevin Firmin      |             29 |
-|             21 | Eric Marks              |             14.83 |       19 |             53.08 | Tedo Abzhandadze  |             29 |
-|             21 | Thibault Debaes         |             57.14 |       20 |             25.12 | Lewis Bean        |             29 |
-|             21 | Ximun Bessonart         |              8.1  |       21 |             10.21 | Karl Wilkins      |             29 |
-|              8 | Karl Chateau            |             17.52 |       22 |             55    | Tietie Tuimauga   |             29 |
-|            nan | nan                     |            nan    |       23 |             63.79 | Yoan Cottin       |             24 |
+|             59 | Andy Bordelai           |             90.65 |        1 |             19    | Thomas Bue        |             32 |
+|             51 | Cyril Blanchard         |             42.37 |        2 |             25.9  | German Kessler    |             51 |
+|             51 | Paga Tafili             |             94.12 |        3 |              2.22 | Mirian Burduli    |             51 |
+|             59 | Anton Bresler           |             70.01 |        4 |              5.44 | Tjuee Uanivi      |             80 |
+|             72 | Mattéo Desjeux          |             21.4  |        5 |             23.58 | Dimitri Vaotoa    |             51 |
+|             80 | Juan Bautista Pedemonte |             39.57 |        6 |             30.51 | Kyllian Ringuet   |             51 |
+|             80 | Francisco Gorrissen     |             98.45 |        7 |             46.13 | Noa Kanika        |             80 |
+|             51 | Sione Kalamafoni        |             59.35 |        8 |             11.97 | Tyrone Viiga      |             47 |
+|             80 | Michael Ruru            |             94.08 |        9 |             47.99 | Alexis Bernadet   |             56 |
+|             80 | Maxime Lafage           |             94.81 |       10 |             19.22 | Thomas Fortunel   |             51 |
+|             80 | Martin Alonso Munoz     |             17.6  |       11 |             87.31 | Stephane Ahmed    |             80 |
+|             80 | Andres Vilaseca         |             22.25 |       12 |             49.69 | Simon Renda       |             80 |
+|             80 | Robin Taccola           |             63.91 |       13 |             33.87 | Yvan Reilhac      |             80 |
+|             80 | Théo Bastardie          |             69.37 |       14 |             21.03 | Josua Vici        |             80 |
+|             59 | Gwenaël Duplenne        |             98.73 |       15 |             78.63 | Semesa Rokoduguni |             80 |
+|             29 | Phil Kite               |             80.14 |       16 |              0.39 | Malino Vanai      |             48 |
+|             29 | Théo Beziat             |             62.85 |       17 |             22.69 | Corentin Coularis |             33 |
+|             29 | Joe Edwards             |             91.27 |       18 |              5.82 | Kevin Firmin      |             29 |
+|             21 | Eric Marks              |             15.11 |       19 |             57.92 | Tedo Abzhandadze  |             29 |
+|             21 | Thibault Debaes         |             64.68 |       20 |             25.15 | Lewis Bean        |             29 |
+|             21 | Ximun Bessonart         |              7.91 |       21 |             15.48 | Karl Wilkins      |             29 |
+|              8 | Karl Chateau            |             17.4  |       22 |             58.05 | Tietie Tuimauga   |             29 |
+|            nan | nan                     |            nan    |       23 |             63    | Yoan Cottin       |             24 |
 

@@ -69,27 +69,27 @@ Beziers by 3.4 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             56 | Giorgi Akhaladze   |             20.59 |        1 |             12.11 | Robert Rodgers     |             49 |
-|             46 | Yanis Boulassel    |             21.02 |        2 |             37.92 | Ronan Loughnane    |             49 |
-|             46 | Jon Zabala Arrieta |             73.02 |        3 |             38.8  | Lasha Mchelidze    |              8 |
-|             80 | Pierrick Gunther   |              0.36 |        4 |             80.98 | Eoghan Masterson   |             80 |
-|             49 | John Madigan       |             25.84 |        5 |             80.26 | Cam Dodson         |             80 |
-|             71 | William van Bost   |             27.73 |        6 |             69.95 | Hugo Huurman       |             56 |
-|             80 | Clement Ancely     |             74.94 |        7 |             44.32 | Didier Tison       |             71 |
-|             80 | Sias Koen          |             61.18 |        8 |             55.53 | Beka Shvangiradze  |             43 |
-|             56 | Samuel Marques     |             89.26 |        9 |             30.11 | David Delarue      |             56 |
-|             80 | Charly Malie       |             59.74 |       10 |             37.18 | Antoine Aucagne    |             80 |
-|             80 | Nicolas Plazy      |             73.42 |       11 |             73.87 | AJ Coertzen        |             80 |
-|             27 | Taleta Tupuola     |             58.25 |       12 |             73.67 | Ofa Manuofetoa     |             71 |
-|             80 | Paul Recor         |             55.22 |       13 |             42.23 | Hugo Bastard       |             80 |
-|             80 | Raffaele Storti    |             88.51 |       14 |             69.82 | Juun Pieters       |             80 |
-|             66 | Victor Dreuille    |             13.03 |       15 |             20.05 | Marc Palmier       |             80 |
-|             53 | Watisoni Votu      |             88.83 |       16 |             23.64 | Tim Daniel-Meissen |             72 |
-|             34 | Jose Luis Gonzalez |             80.16 |       17 |              6.26 | Latuka Maituku     |             37 |
-|             34 | Filippo Alongi     |            nan    |       18 |             52.62 | Irakli Mtchedlidze |             31 |
-|             31 | Pierre Gayraud     |             16.75 |       19 |             12.38 | Luka Nioradze      |             31 |
-|             24 | Mitch Short        |             36.42 |       20 |             26.11 | Mikheil Alania     |             24 |
-|             24 | Youssef Amrouni    |             47.09 |       21 |            nan    | Aleksandre Burduli |             24 |
-|             14 | Harry Glynn        |            nan    |       22 |             31.54 | Anderson Neisen    |              9 |
-|              9 | Thomas Hoarau      |             18.43 |       23 |             10.9  | Théo Cambon        |              9 |
+|             56 | Giorgi Akhaladze   |             20.64 |        1 |             10.7  | Robert Rodgers     |             49 |
+|             46 | Yanis Boulassel    |             19.88 |        2 |             37.95 | Ronan Loughnane    |             49 |
+|             46 | Jon Zabala Arrieta |             73    |        3 |             39.05 | Lasha Mchelidze    |              8 |
+|             80 | Pierrick Gunther   |              0.36 |        4 |             79.2  | Eoghan Masterson   |             80 |
+|             49 | John Madigan       |             25.76 |        5 |             78.36 | Cam Dodson         |             80 |
+|             71 | William van Bost   |             26.22 |        6 |             67.1  | Hugo Huurman       |             56 |
+|             80 | Clement Ancely     |             73.06 |        7 |             39.45 | Didier Tison       |             71 |
+|             80 | Sias Koen          |             58.1  |        8 |             54.61 | Beka Shvangiradze  |             43 |
+|             56 | Samuel Marques     |             89.43 |        9 |             26.64 | David Delarue      |             56 |
+|             80 | Charly Malie       |             60    |       10 |             34.81 | Antoine Aucagne    |             80 |
+|             80 | Nicolas Plazy      |             72.91 |       11 |             71.43 | AJ Coertzen        |             80 |
+|             27 | Taleta Tupuola     |             58.47 |       12 |             71.2  | Ofa Manuofetoa     |             71 |
+|             80 | Paul Recor         |             53.65 |       13 |             40.67 | Hugo Bastard       |             80 |
+|             80 | Raffaele Storti    |             87.77 |       14 |             66.86 | Juun Pieters       |             80 |
+|             66 | Victor Dreuille    |             13.51 |       15 |             17.56 | Marc Palmier       |             80 |
+|             53 | Watisoni Votu      |             88.13 |       16 |             31.34 | Tim Daniel-Meissen |             72 |
+|             34 | Jose Luis Gonzalez |             79.72 |       17 |              8.23 | Latuka Maituku     |             37 |
+|             34 | Filippo Alongi     |             13.89 |       18 |             53.23 | Irakli Mtchedlidze |             31 |
+|             31 | Pierre Gayraud     |             13.42 |       19 |             14.06 | Luka Nioradze      |             31 |
+|             24 | Mitch Short        |             33.62 |       20 |             25.79 | Mikheil Alania     |             24 |
+|             24 | Youssef Amrouni    |             36.16 |       21 |            nan    | Aleksandre Burduli |             24 |
+|             14 | Harry Glynn        |             25.19 |       22 |             33.25 | Anderson Neisen    |              9 |
+|              9 | Thomas Hoarau      |             17.71 |       23 |             10.85 | Théo Cambon        |              9 |
 
