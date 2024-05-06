@@ -1,6 +1,6 @@
 ---  
 title: "Nationale 2023 Status"  
-date: 2024-04-29 6:00:00 -0500  
+date: 2024-05-06 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,20 +17,20 @@ aside:
 
 | Club                |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Narbonne            |       27 |     19 |                  166 |                     6 |                  8 |                   90 |
+| Narbonne            |       27 |     19 |                  159 |                     6 |                  8 |                   90 |
+| Carcassonne         |       28 |     19 |                  215 |                     4 |                nan |                   87 |
 | Nice                |       26 |     17 |                  291 |                     4 |                nan |                   84 |
-| Albi                |       26 |     17 |                  208 |                     7 |                nan |                   81 |
-| Carcassonne         |       27 |     17 |                  180 |                     5 |                nan |                   80 |
-| Chambery            |       26 |     16 |                  132 |                     5 |                nan |                   75 |
-| Suresnes            |       26 |     16 |                   47 |                     3 |                nan |                   72 |
+| Albi                |       27 |     17 |                  205 |                     8 |                nan |                   82 |
+| Suresnes            |       27 |     17 |                   50 |                     3 |                nan |                   76 |
+| Chambery            |       27 |     16 |                  123 |                     5 |                nan |                   75 |
 | Périgueux           |       26 |     14 |                  124 |                     6 |                nan |                   70 |
-| Bourgoin-Jallieu    |       26 |     13 |                   24 |                     6 |                nan |                   64 |
+| Bourgoin-Jallieu    |       26 |     13 |                    6 |                     6 |                nan |                   64 |
 | US Bressane         |       26 |     11 |                   43 |                    11 |                nan |                   61 |
 | Massy               |       26 |     11 |                   14 |                    10 |                nan |                   56 |
 | Carqueiranne-Hyères |       26 |     12 |                  -92 |                     3 |                  2 |                   55 |
-| Tarbes              |       26 |      9 |                 -186 |                     9 |                  1 |                   46 |
-| Blagnac             |       26 |      5 |                 -399 |                     2 |                nan |                   27 |
-| Vienne              |       26 |      3 |                 -552 |                     3 |                nan |                   15 |
+| Tarbes              |       26 |     10 |                 -114 |                     9 |                  1 |                   50 |
+| Blagnac             |       26 |      4 |                 -410 |                     2 |                nan |                   23 |
+| Vienne              |       26 |      2 |                 -614 |                     3 |                nan |                   11 |
 
 
 
@@ -39,10 +39,10 @@ aside:
 
 | Club        |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Albi        |                   1 |    1   |              10.3474 |                   0   |                0.4 |                  4.4 |
-| Carcassonne |                   1 |    0.9 |               5.6575 |                   0.1 |                0.2 |                  4   |
-| Chambery    |                   1 |    0.1 |              -5.6575 |                   0.6 |                0.3 |                  1.1 |
-| Suresnes    |                   1 |    0   |             -10.3474 |                   0.2 |                0.2 |                  0.4 |
+| Nice        |                   1 |    1   |              9.67481 |                   0   |                0.5 |                  4.5 |
+| Narbonne    |                   1 |    0.7 |              1.71039 |                   0.3 |                0.2 |                  3.3 |
+| Carcassonne |                   1 |    0.3 |             -1.71039 |                   0.6 |                0.2 |                  2   |
+| Suresnes    |                   1 |    0   |             -9.67481 |                   0.3 |                0.2 |                  0.4 |
 
 
 
@@ -51,20 +51,20 @@ aside:
 
 | Club                |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Narbonne            |              27 |   19   |             166      |                   6   |                8   |                 90   |
-| Albi                |              27 |   18   |             218.347  |                   7   |                0.4 |                 85.4 |
-| Nice                |              26 |   17   |             291      |                   4   |                0   |                 84   |
-| Carcassonne         |              28 |   17.9 |             185.657  |                   5.1 |                0.2 |                 84   |
-| Chambery            |              27 |   16.1 |             126.343  |                   5.6 |                0.3 |                 76.1 |
-| Suresnes            |              27 |   16   |              36.6526 |                   3.2 |                0.2 |                 72.4 |
+| Narbonne            |              28 |   19.7 |             160.71   |                   6.3 |                8.2 |                 93.3 |
+| Carcassonne         |              29 |   19.3 |             213.29   |                   4.6 |                0.2 |                 89   |
+| Nice                |              27 |   18   |             300.675  |                   4   |                0.5 |                 88.5 |
+| Albi                |              27 |   17   |             205      |                   8   |                0   |                 82   |
+| Suresnes            |              28 |   17   |              40.3252 |                   3.3 |                0.2 |                 76.4 |
+| Chambery            |              27 |   16   |             123      |                   5   |                0   |                 75   |
 | Périgueux           |              26 |   14   |             124      |                   6   |                0   |                 70   |
-| Bourgoin-Jallieu    |              26 |   13   |              24      |                   6   |                0   |                 64   |
+| Bourgoin-Jallieu    |              26 |   13   |               6      |                   6   |                0   |                 64   |
 | US Bressane         |              26 |   11   |              43      |                  11   |                0   |                 61   |
 | Massy               |              26 |   11   |              14      |                  10   |                0   |                 56   |
 | Carqueiranne-Hyères |              26 |   12   |             -92      |                   3   |                2   |                 55   |
-| Tarbes              |              26 |    9   |            -186      |                   9   |                1   |                 46   |
-| Blagnac             |              26 |    5   |            -399      |                   2   |                0   |                 27   |
-| Vienne              |              26 |    3   |            -552      |                   3   |                0   |                 15   |
+| Tarbes              |              26 |   10   |            -114      |                   9   |                1   |                 50   |
+| Blagnac             |              26 |    4   |            -410      |                   2   |                0   |                 23   |
+| Vienne              |              26 |    2   |            -614      |                   3   |                0   |                 11   |
 
 
 
@@ -73,37 +73,37 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 76.0% | 12.7 |
-| Player Level: Lineup | 69.4% | 13.5 |
-| Player Level: Minutes | 68.2% | 15.7 |
+| Club Level | 75.7% | 10.6 |
+| Player Level: Lineup | 69.1% | 14.1 |
+| Player Level: Minutes | 68.0% | 17.1 |
 
 
 # Future Predictions
 
-## Week 28
+## Week 29
 
-### Carcassonne V Chambery on 2024/05/04
+### Narbonne V Carcassonne on 2024/05/11
 
 
-Average Margin: Carcassonne by 5.7
+Average Margin: Narbonne by 1.7
 
-Average Scoreline: 22-16
+Average Scoreline: 22-20
 
 <p float="left">
-<img src="plots/performances_2024-05-04-Carcassonne_V_Chambery.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-Carcassonne_V_Chambery.png" width="32%" />
-<img src="plots/spreads_2024-05-04-Carcassonne_V_Chambery.png" width="32%" />
+<img src="plots/performances_2024-05-11-Narbonne_V_Carcassonne.png" width="32%" />
+<img src="plots/resultbar_2024-05-11-Narbonne_V_Carcassonne.png" width="32%" />
+<img src="plots/spreads_2024-05-11-Narbonne_V_Carcassonne.png" width="32%" />
 </p>
 
-### Albi V Suresnes on 2024/05/04
+### Nice V Suresnes on 2024/05/11
 
 
-Average Margin: Albi by 10.3
+Average Margin: Nice by 9.7
 
-Average Scoreline: 25-15
+Average Scoreline: 30-20
 
 <p float="left">
-<img src="plots/performances_2024-05-04-Albi_V_Suresnes.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-Albi_V_Suresnes.png" width="32%" />
-<img src="plots/spreads_2024-05-04-Albi_V_Suresnes.png" width="32%" />
+<img src="plots/performances_2024-05-11-Nice_V_Suresnes.png" width="32%" />
+<img src="plots/resultbar_2024-05-11-Nice_V_Suresnes.png" width="32%" />
+<img src="plots/spreads_2024-05-11-Nice_V_Suresnes.png" width="32%" />
 </p>

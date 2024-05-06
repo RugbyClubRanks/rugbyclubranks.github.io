@@ -11,7 +11,7 @@ categories: "Top 14 Orange 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.708, which translates to predicting La Rochelle to win by 7.8.
 
-Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 19 to 27
+Our Over/Under is 36.5 - and combined with the spread above, we have a predicted scoreline of 14 to 22
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: La Rochelle by 19.4
+## Prediction without Player Minutes: La Rochelle by 19.2
 
 
-La Rochelle by 12.2 on a neutral pitch
+La Rochelle by 12.0 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,26 +69,27 @@ La Rochelle by 12.2 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             61 | Jean-Baptiste Gros |             96.82 |        1 |             37.42 | Louis Penverne     |             61 |
-|             80 | Jack Singleton     |             91.97 |        2 |             87.75 | Tolu Latu          |             80 |
-|             40 | Emerick Setiano    |             91.9  |        3 |             99.52 | Uini Atonio        |             56 |
-|             51 | Matthias Halagahu  |             34.58 |        4 |             76.9  | Ultan Dillane      |             11 |
-|             80 | Swan Rebbadj       |             74.97 |        5 |             98.07 | Will Skelton       |             80 |
-|             45 | Matteo Le Corvec   |             66.03 |        6 |             13.47 | Paul Boudehent     |             39 |
-|             80 | Yannick Youyoutte  |             61.62 |        7 |             97.14 | Levani Botia       |             80 |
-|             46 | Jules Coulon       |             37.41 |        8 |             98.5  | Gregory Alldritt   |             80 |
-|             56 | Ben White          |             81.18 |        9 |             83.72 | Teddy Iribaren     |             40 |
-|             80 | Paolo Garbisi      |             82.86 |       10 |             50.65 | Hugo Reus          |             51 |
-|             80 | Seta Tuicuvu       |             70.97 |       11 |             84.34 | Jules Favre        |             64 |
-|              6 | Mathieu Smaili     |             13.84 |       12 |             90.98 | Jonathan Danty     |             80 |
-|             80 | Maëlan Rabut       |             23.11 |       13 |             64.89 | Ulupano Seuteni    |             80 |
-|             80 | Jiuta Wainiqolo    |             88.46 |       14 |             96.46 | Jack Nowell        |             80 |
-|             80 | Marius Domon       |             51.15 |       15 |             98.47 | Dillyn Leyds       |             80 |
-|             74 | Jérémy Sinzelle    |             21.56 |       16 |             33.25 | Judicael Cancoriet |             69 |
-|             40 | Beka Gigashvili    |             69.91 |       17 |            nan    | Lucas Zamora       |             40 |
-|             35 | Selevasio Tolofua  |             80.57 |       18 |             41.24 | Oscar Jegou        |             41 |
-|             34 | Charles Ollivon    |             97.51 |       19 |             55.98 | Antoine Hastoy     |             29 |
-|             29 | David Ribbans      |             88.88 |       20 |             87.46 | Joel Sclavi        |             24 |
-|             24 | Baptiste Serin     |             96.19 |       21 |             50.82 | Alexandre Kaddouri |             19 |
-|             19 | Bruce Devaux       |             13.11 |       22 |             87.43 | Teddy Thomas       |             16 |
+|             62 | Jean-Baptiste Gros |             96.87 |        1 |             37.41 | Louis Penverne     |             62 |
+|             67 | Jack Singleton     |             91.62 |        2 |             88.14 | Tolu Latu          |             57 |
+|             41 | Emerick Setiano    |             92.16 |        3 |             99.51 | Uini Atonio        |             57 |
+|             52 | Matthias Halagahu  |             33.86 |        4 |             76.7  | Ultan Dillane      |             12 |
+|             76 | Swan Rebbadj       |             73.79 |        5 |             98.18 | Will Skelton       |             81 |
+|             47 | Matteo Le Corvec   |             65.59 |        6 |             13.74 | Paul Boudehent     |             40 |
+|             57 | Yannick Youyoutte  |             59.5  |        7 |             97.13 | Levani Botia       |             81 |
+|             64 | Jules Coulon       |             38.36 |        8 |             98.47 | Gregory Alldritt   |             81 |
+|             57 | Ben White          |             81.06 |        9 |             83.83 | Teddy Iribaren     |             41 |
+|             81 | Paolo Garbisi      |             82.25 |       10 |             50.39 | Hugo Reus          |             52 |
+|             81 | Seta Tuicuvu       |             70.64 |       11 |             84.68 | Jules Favre        |             65 |
+|              7 | Mathieu Smaili     |             13.45 |       12 |             91.16 | Jonathan Danty     |             81 |
+|             81 | Maelan Rabut       |             41.97 |       13 |             64.26 | Ulupano Seuteni    |             81 |
+|             81 | Jiuta Wainiqolo    |             88.65 |       14 |             96.73 | Jack Nowell        |             69 |
+|             81 | Marius Domon       |             51.76 |       15 |             98.24 | Dillyn Leyds       |             81 |
+|             14 | Pierre Damond      |            nan    |       16 |             71.78 | Quentin Lespiaucq  |             24 |
+|             26 | Bruce Devaux       |             13.22 |       17 |             50.44 | Alexandre Kaddouri |             19 |
+|             34 | David Ribbans      |             89.08 |       18 |             32.86 | Judicael Cancoriet |             69 |
+|             34 | Charles Ollivon    |             97.7  |       19 |             41.58 | Oscar Jegou        |             41 |
+|             34 | Selevasio Tolofua  |             80.41 |       20 |            nan    | Lucas Zamora       |             40 |
+|             24 | Baptiste Serin     |             96.17 |       21 |             56.28 | Antoine Hastoy     |             29 |
+|             74 | Jeremy Sinzelle    |            nan    |       22 |             87.6  | Teddy Thomas       |             28 |
+|             40 | Beka Gigashvili    |             70.03 |       23 |             87.27 | Joel Sclavi        |             24 |
 

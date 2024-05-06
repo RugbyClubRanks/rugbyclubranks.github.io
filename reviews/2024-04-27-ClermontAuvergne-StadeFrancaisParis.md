@@ -11,7 +11,7 @@ categories: "Top 14 Orange 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.607, which translates to predicting Clermont Auvergne to win by 3.8.
 
-Our Over/Under is 42.5 - and combined with the spread above, we have a predicted scoreline of 19 to 23
+Our Over/Under is 33.5 - and combined with the spread above, we have a predicted scoreline of 15 to 19
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Clermont Auvergne by 1.0
+## Prediction without Player Minutes: Stade Francais Paris by 1.0
 
 
-Stade Francais Paris by 6.5 on a neutral pitch
+Stade Francais Paris by 8.5 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -67,31 +67,29 @@ Stade Francais Paris by 6.5 on a neutral pitch
 </p>
 
 
-|   Away Minutes | Away Player             |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
-|---------------:|:------------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             41 | Clement Castets         |             35.39 |        1 |             33.27 | Giorgi Beria         |             80 |
-|             41 | Clement Castets         |             35.39 |        1 |             33.27 | Giorgi Beria         |             80 |
-|             41 | Mickael Ivaldi          |             95.18 |        2 |             45.98 | Etienne Fourcade     |             64 |
-|             41 | Giorgi Melikidze        |             92.19 |        3 |             78.98 | Rabah Slimani        |             49 |
-|             41 | Pierre-Henri Azagoh     |             70.98 |        4 |             77.39 | Thibaud Lanen        |             64 |
-|             64 | Baptiste Pesenti        |             78.96 |        5 |             93.23 | Rob Simmons          |             80 |
-|             80 | Tanginoa Halaifonua     |             22.65 |        6 |             91.06 | Peceli Yato Senibitu |             49 |
-|             80 | Romain Briatte          |             56.97 |        7 |             78.9  | Marcos Kremer        |             62 |
-|             80 | Mathieu Hirigoyen       |              3.24 |        8 |             91.77 | Fritz Lee            |             80 |
-|             64 | Brad Weber              |             95.77 |        9 |             37    | Baptiste Jauneau     |             75 |
-|             56 | Zack Henry              |             76.62 |       10 |             91.69 | Anthony Belleau      |             80 |
-|             80 | Lester Etien            |             86.74 |       11 |             22.29 | Alivereti Raka       |             80 |
-|             41 | Julien Delbouis         |             83.93 |       12 |             93.33 | George Moala         |             80 |
-|             80 | Jeremy Ward             |             81.58 |       13 |             61.8  | Leon Darricarrere    |             55 |
-|             80 | Joe Marchant            |             88.34 |       14 |             81.71 | Bautista Delguy      |             80 |
-|             80 | Leo Barre               |             65.39 |       15 |             73.54 | Alex Newsome         |             80 |
-|             39 | Clement Castets         |             35.39 |       16 |             72.71 | Cristian Ojovan      |             25 |
-|             39 | Clement Castets         |             35.39 |       16 |             72.71 | Cristian Ojovan      |             25 |
-|             39 | Peniasi Dakuwaqa        |             55.54 |       17 |             80.05 | Pita Gus Sowakula    |             31 |
-|             39 | Lucas Peyresblanques    |             34.34 |       18 |             49.81 | Julien Heriteau      |             25 |
-|             39 | Francisco Gomez Kodela  |             94.7  |       19 |             69.85 | Alexandre Fischer    |             18 |
-|             39 | JJ van der Mescht       |             85.61 |       20 |             91.54 | Tomas Lavanini       |             16 |
-|             24 | Joris Segonds           |             77.92 |       21 |             32.53 | Yohan Beheregaray    |             16 |
-|             16 | Giovanni Habel-Kueffner |             90.27 |       22 |            nan    | Giorgi Dzmanashvili  |              6 |
-|             16 | Jules Gimbert           |             12.9  |       23 |            nan    | Théo Giral           |              5 |
+|   Away Minutes | Away Player             |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
+|---------------:|:------------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
+|             58 | Sergo Abramishvili      |             24    |        1 |             49.36 | Giorgi Beria        |             81 |
+|             41 | Mickael Ivaldi          |             94.68 |        2 |             58.28 | Etienne Fourcade    |             64 |
+|             58 | Giorgi Melikidze        |             91.58 |        3 |             83.55 | Rabah Slimani       |             49 |
+|             41 | Pierre-Henri Azagoh     |             70.39 |        4 |             77.91 | Thibaud Lanen       |             64 |
+|             73 | Baptiste Pesenti        |             77.06 |        5 |             93.69 | Rob Simmons         |             81 |
+|             81 | Tanginoa Halaifonua     |             21.51 |        6 |             34.65 | Peceli Yato         |             66 |
+|             81 | Romain Briatte          |             55.91 |        7 |             82.08 | Marcos Kremer       |             62 |
+|             81 | Mathieu Hirigoyen       |              3.32 |        8 |             92.33 | Fritz Lee           |             64 |
+|             64 | Brad Weber              |             95.74 |        9 |             48.94 | Baptiste Jauneau    |             74 |
+|             56 | Zack Henry              |             76.24 |       10 |             93.21 | Anthony Belleau     |             81 |
+|             81 | Lester Etien            |             86.67 |       11 |             23.63 | Alivereti Raka      |             81 |
+|             41 | Julien Delbouis         |             84.18 |       12 |             93.4  | George Moala        |             70 |
+|             81 | Jeremy Ward             |             81.32 |       13 |             69.24 | Leon Darricarrere   |             66 |
+|             81 | Joe Marchant            |             88.3  |       14 |             85.73 | Bautista Delguy     |             81 |
+|             81 | Leo Barre               |             65.33 |       15 |             78.14 | Alex Newsome        |             81 |
+|             40 | Lucas Peyresblanques    |             34.56 |       16 |             33.13 | Yohan Beheregaray   |             17 |
+|             23 | Clement Castets         |             53.57 |       17 |            nan    | Giorgi Dzmanashvili |              7 |
+|             40 | JJ van der Mescht       |             85.8  |       18 |             92.72 | Tomas Lavanini      |             17 |
+|             18 | Giovanni Habel-Kueffner |             90.03 |       19 |             80.31 | Pita Gus Sowakula   |             32 |
+|             17 | Jules Gimbert           |             12.77 |       20 |             67.74 | Alexandre Fischer   |             19 |
+|             25 | Joris Segonds           |             78.07 |       21 |            nan    | Theo Giral          |              7 |
+|             30 | Peniasi Dakuwaqa        |             54.97 |       22 |             62.39 | Julien Heriteau     |             26 |
+|             23 | Francisco Gomez Kodela  |             94.71 |       23 |             72.97 | Cristian Ojovan     |             25 |
 

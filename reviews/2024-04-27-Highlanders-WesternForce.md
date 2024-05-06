@@ -11,7 +11,7 @@ categories: "Super Rugby Pacific 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.75, which translates to predicting Highlanders to win by 9.9.
 
-Our Over/Under is 55.5 - and combined with the spread above, we have a predicted scoreline of 23 to 33
+Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 18 to 28
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Western Force by 0.4
+## Prediction without Player Minutes: Highlanders by 1.3
 
 
-Western Force by 5.0 on a neutral pitch
+Western Force by 3.3 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -67,21 +67,29 @@ Western Force by 5.0 on a neutral pitch
 </p>
 
 
-|   Away Minutes | Away Player      |   Away Percentile |   Number |   Home Percentile | Home Player                   |   Home Minutes |
-|---------------:|:-----------------|------------------:|---------:|------------------:|:------------------------------|---------------:|
-|             80 | Marley Pearce    |             27.19 |        1 |             54.97 | Ethan de Groot                |             80 |
-|             80 | Tom Horton       |             53.41 |        2 |             13.86 | Henry Bell                    |             80 |
-|             80 | Santiago Medrano |              6.75 |        3 |             24.59 | Saula Mau                     |             80 |
-|             80 | Sam Carter       |             94.92 |        4 |             74.24 | Mitchell Dunshea              |             80 |
-|             80 | Izack Rodda      |             82.95 |        5 |             64.33 | Fabian Holland                |             80 |
-|             80 | Will Harris      |             67.82 |        6 |             41.48 | Oliver Haig                   |             80 |
-|             80 | Carlo Tizzano    |             13.35 |        7 |              7.39 | Sean Withy                    |             80 |
-|             80 | Reed Prinsep     |             86.78 |        8 |             43.14 | Billy Harmon                  |             80 |
-|             80 | Nic White        |             98.94 |        9 |             40.17 | Folau Fakatava                |             80 |
-|             80 | Ben Donaldson    |             54.29 |       10 |             96.36 | Rhys Patchell                 |             80 |
-|             80 | Chase Tiatia     |             76    |       11 |             36.8  | Connor Garden-Bachop          |             80 |
-|             80 | Hamish Stewart   |             80.22 |       12 |             11.99 | Jake Te Hiwi                  |             80 |
-|             80 | Sam Spink        |             29.54 |       13 |             13.72 | Tanielu Teleʻa                |             80 |
-|             80 | Bayley Kuenzle   |              6.29 |       14 |             11.89 | Timoci Tavatavanawai          |             80 |
-|             80 | Kurtley Beale    |             93.64 |       15 |             93.89 | Jacob Ratumaitavuki-Kneepkens |             80 |
+|   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player                   |   Home Minutes |
+|---------------:|:----------------------|------------------:|---------:|------------------:|:------------------------------|---------------:|
+|             48 | Marley Pearce         |             26.64 |        1 |             54.16 | Ethan de Groot                |             70 |
+|             73 | Tom Horton            |             47.03 |        2 |             25.77 | Henry Bell                    |             62 |
+|             64 | Santiago Medrano      |              4.7  |        3 |             30.56 | Saula Ma'u                    |             74 |
+|             54 | Sam Carter            |             94.66 |        4 |             83.98 | Mitchell Dunshea              |             76 |
+|             80 | Izack Rodda           |             82.77 |        5 |             70.87 | Fabian Holland                |             80 |
+|             61 | Will Harris           |             62.84 |        6 |             54.96 | Oliver Haig                   |             80 |
+|             80 | Carlo Tizzano         |             10.99 |        7 |             13.14 | Sean Withy                    |             73 |
+|             80 | Reed Prinsep          |             84.4  |        8 |             56.27 | Billy Harmon                  |             80 |
+|             66 | Nic White             |             98.94 |        9 |             55.11 | Folau Fakatava                |             78 |
+|             80 | Ben Donaldson         |             48.3  |       10 |             96.34 | Rhys Patchell                 |             24 |
+|             66 | Chase Tiatia          |             72.51 |       11 |             49.36 | Connor Garden-Bachop          |             66 |
+|             80 | Hamish Stewart        |             77.09 |       12 |             18.06 | Jake Te Hiwi                  |             80 |
+|             80 | Sam Spink             |             22.54 |       13 |             43.71 | Tanielu Tele'a                |             80 |
+|             80 | Bayley Kuenzle        |              5.96 |       14 |             22.11 | Timoci Tavatavanawai          |             80 |
+|             80 | Kurtley Beale         |             93.72 |       15 |             94.97 | Jacob Ratumaitavuki-Kneepkens |             80 |
+|              7 | Feleti Kaitu'u        |             27.61 |       16 |             48.88 | Jack Taylor                   |             18 |
+|             32 | Josh Bartlett         |             30.85 |       17 |             18.71 | Dan Lienert-Brown             |             10 |
+|             16 | Tiaan Tauakipulu      |            nan    |       18 |            nan    | Solomone Tukuafu              |              6 |
+|             26 | Jeremy Williams       |             16.99 |       19 |             14.2  | Will Tucker                   |              4 |
+|             19 | Michael Wells         |              2.27 |       20 |             23.02 | Nikora Broughton              |              7 |
+|             14 | Issak Fines-Leleiwasa |             35.74 |       21 |              6.38 | James Arscott                 |              2 |
+|              0 | Max Burey             |              6.28 |       22 |             59.01 | Cameron Millar                |             56 |
+|             14 | Henry O'Donnell       |            nan    |       23 |             49.24 | Martin Bogado                 |             14 |
 

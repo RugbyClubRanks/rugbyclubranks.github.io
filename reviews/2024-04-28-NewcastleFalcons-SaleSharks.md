@@ -11,7 +11,7 @@ categories: "Gallagher Premiership 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.362, which translates to predicting Sale Sharks to win by 5.0.
 
-Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 27 to 22
+Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 25 to 20
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Sale Sharks by 11.4
+## Prediction without Player Minutes: Sale Sharks by 10.0
 
 
-Sale Sharks by 19.2 on a neutral pitch
+Sale Sharks by 17.8 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,19 +69,27 @@ Sale Sharks by 19.2 on a neutral pitch
 
 |   Away Minutes | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             80 | Bevan Rodd        |             92    |        1 |              1.06 | Adam Brocklebank    |             80 |
-|             80 | Luke Cowan-Dickie |             87.35 |        2 |              3.01 | Jamie Blamire       |             80 |
-|             80 | James Harper      |             14.66 |        3 |              1.74 | Eduardo Bello       |             80 |
-|             80 | Cobus Wiese       |             87.3  |        4 |             15.84 | Philip van der Walt |             80 |
-|             80 | Josh Beaumont     |             81.5  |        5 |              5.68 | Sebastian de Chaves |             80 |
-|             80 | Ben Curry         |             39.21 |        6 |             30.27 | Sam Cross           |             80 |
-|             80 | Sam Dugdale       |             12.75 |        7 |              9.3  | Guy Pepper          |             80 |
-|             80 | Jean-Luc du Preez |             99.5  |        8 |              2.24 | Callum Chick        |             80 |
-|             80 | Raffi Quirke      |             65.12 |        9 |              1.69 | Sam Stuart          |             80 |
-|             80 | George Ford       |             94.55 |       10 |              3.64 | Brett Connon        |             80 |
-|             80 | Arron Reed        |             72.8  |       11 |             37.03 | Ben Redshaw         |             80 |
-|             80 | Manu Tuilagi      |             97.65 |       12 |             56.12 | Rory Jennings       |             80 |
-|             80 | Robert du Preez   |             50.06 |       13 |             99.26 | Matias Moroni       |             80 |
-|             80 | Tom Roebuck       |             63.43 |       14 |             38.97 | Adam Radwan         |             80 |
-|             80 | Joe Carpenter     |              8.14 |       15 |             13.23 | Elliott Obatoyinbo  |             80 |
+|             49 | Bevan Rodd        |             91.67 |        1 |              0.88 | Adam Brocklebank    |             79 |
+|             73 | Luke Cowan-Dickie |             87.32 |        2 |              2.86 | Jamie Blamire       |             73 |
+|             26 | James Harper      |             12.63 |        3 |              1.76 | Eduardo Bello       |             60 |
+|             60 | Cobus Wiese       |             87.01 |        4 |             17.6  | Philip van der Walt |             23 |
+|             54 | Josh Beaumont     |             80.46 |        5 |              5.58 | Sebastian de Chaves |             80 |
+|             80 | Ben Curry         |             40.62 |        6 |             28.79 | Sam Cross           |             80 |
+|             80 | Sam Dugdale       |             13.62 |        7 |              9.2  | Guy Pepper          |             64 |
+|             80 | Jean-Luc du Preez |             99.49 |        8 |              2.3  | Callum Chick        |             80 |
+|             46 | Raffi Quirke      |             61.7  |        9 |              1.7  | Sam Stuart          |             71 |
+|             80 | George Ford       |             95.04 |       10 |              3.66 | Brett Connon        |             80 |
+|             52 | Arron Reed        |             71.23 |       11 |             36.14 | Ben Redshaw         |             80 |
+|             73 | Manu Tuilagi      |             97.63 |       12 |             56.29 | Rory Jennings       |             67 |
+|             80 | Robert du Preez   |             51.43 |       13 |             99.13 | Matias Moroni       |             80 |
+|             80 | Tom Roebuck       |             63.74 |       14 |             37.54 | Adam Radwan         |             80 |
+|             80 | Joe Carpenter     |              7.79 |       15 |             14.57 | Elliott Obatoyinbo  |             30 |
+|              7 | Tommy Taylor      |             13.5  |       16 |             68.51 | Bryan Byrne         |              7 |
+|             31 | Simon McIntyre    |             90.3  |       17 |            nan    | Mark Dormer         |              1 |
+|             56 | WillGriff John    |            nan    |       18 |             36.92 | Richard Palframan   |             20 |
+|             20 | Ben Bamber        |             23.42 |       19 |             30.46 | Tim Cardall         |             57 |
+|             26 | Hyron Andrews     |             24.15 |       20 |             35.96 | Freddie Lockwood    |             16 |
+|             34 | Gus Warr          |             20    |       21 |              2.13 | James Elliott       |              9 |
+|              7 | Sam James         |             82.44 |       22 |             34.99 | Oliver Spencer      |             13 |
+|             26 | Tom O'Flaherty    |             91.7  |       23 |             70.36 | Tom Penny           |             50 |
 

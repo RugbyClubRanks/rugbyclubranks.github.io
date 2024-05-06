@@ -1,6 +1,6 @@
 ---  
 title: "URBA Top 12 2024 Status"  
-date: 2024-04-22 6:00:00 -0500  
+date: 2024-05-06 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,18 +17,18 @@ aside:
 
 | Club                 |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| SIC                  |        3 |      3 |                   68 |                     0 |                  3 |                   15 |
-| Alumni               |        3 |      3 |                   37 |                     0 |                  2 |                   14 |
-| Belgrano             |        3 |      3 |                   14 |                     0 |                nan |                   12 |
-| CASI                 |        3 |      2 |                   37 |                     1 |                  0 |                    9 |
-| Champagnat           |        3 |      1 |                   -2 |                     1 |                  1 |                    8 |
-| Buenos Aires         |        3 |      1 |                   10 |                     2 |                nan |                    6 |
-| San Luis             |        3 |      1 |                   -7 |                     1 |                  1 |                    6 |
-| Regatas Bella Vista  |        3 |      1 |                   -2 |                     1 |                  0 |                    5 |
-| Newman               |        3 |      1 |                  -26 |                     1 |                  0 |                    5 |
-| Hindu                |        3 |      1 |                  -39 |                     1 |                nan |                    5 |
-| CUBA                 |        3 |      0 |                  -22 |                     2 |                  1 |                    3 |
-| Atlético del Rosario |        3 |      0 |                  -68 |                     0 |                nan |                    2 |
+| SIC                  |        4 |      4 |                   76 |                     0 |                  3 |                   19 |
+| Alumni               |        4 |      4 |                   42 |                     0 |                  2 |                   18 |
+| CASI                 |        4 |      3 |                   40 |                     1 |                  0 |                   13 |
+| Belgrano             |        4 |      3 |                    6 |                     0 |                nan |                   12 |
+| Buenos Aires         |        4 |      2 |                   20 |                     2 |                nan |                   10 |
+| Newman               |        4 |      2 |                    2 |                     1 |                  1 |                   10 |
+| Hindu                |        4 |      2 |                  -36 |                     1 |                nan |                    9 |
+| Champagnat           |        4 |      1 |                  -12 |                     1 |                  1 |                    8 |
+| San Luis             |        4 |      1 |                  -10 |                     2 |                  1 |                    7 |
+| Regatas Bella Vista  |        4 |      1 |                   -7 |                     2 |                  0 |                    6 |
+| CUBA                 |        4 |      0 |                  -25 |                     3 |                  1 |                    4 |
+| Atlético del Rosario |        4 |      0 |                  -96 |                     0 |                nan |                    2 |
 
 
 
@@ -37,18 +37,18 @@ aside:
 
 | Club                 |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Newman               |                   1 |    1   |            11.1787   |                   0   |                0.3 |                  4.2 |
-| Champagnat           |                   1 |    0.9 |            15.3597   |                   0.1 |                0.2 |                  3.8 |
-| Hindu                |                   1 |    0.7 |             3.65542  |                   0.2 |                0.3 |                  3.4 |
-| SIC                  |                   1 |    0.7 |             3.13715  |                   0.3 |                0.3 |                  3.3 |
-| Alumni               |                   1 |    0.7 |             3.29195  |                   0.3 |                0.2 |                  3.1 |
-| CASI                 |                   1 |    0.6 |             0.705324 |                   0.3 |                0.2 |                  2.8 |
-| San Luis             |                   1 |    0.4 |            -0.705324 |                   0.4 |                0.6 |                  2.8 |
-| Regatas Bella Vista  |                   1 |    0.3 |            -3.29195  |                   0.4 |                0.1 |                  1.8 |
-| CUBA                 |                   1 |    0.3 |            -3.65542  |                   0.4 |                0.2 |                  1.8 |
-| Belgrano             |                   1 |    0.3 |            -3.13715  |                   0.4 |                0.1 |                  1.7 |
-| Buenos Aires         |                   1 |    0.1 |           -15.3597   |                   0.2 |                0.1 |                  0.8 |
-| Atlético del Rosario |                   1 |    0   |           -11.1787   |                   0.2 |                0.4 |                  0.7 |
+| SIC                  |                   1 |    1   |             12.9845  |                   0   |                0.5 |                  4.5 |
+| Champagnat           |                   1 |    1   |             22.9962  |                   0   |                0.1 |                  4   |
+| CUBA                 |                   1 |    0.9 |              8.48692 |                   0.1 |                0.3 |                  4   |
+| CASI                 |                   1 |    0.9 |              8.53362 |                   0.1 |                0.3 |                  3.9 |
+| Alumni               |                   1 |    0.7 |              3.42242 |                   0.2 |                0.3 |                  3.4 |
+| Buenos Aires         |                   1 |    0.7 |              3.47957 |                   0.3 |                0.2 |                  3.3 |
+| Atlético del Rosario |                   1 |    0.3 |             -3.47957 |                   0.4 |                0.5 |                  2.1 |
+| Newman               |                   1 |    0.3 |             -3.42242 |                   0.4 |                0.2 |                  1.8 |
+| Regatas Bella Vista  |                   1 |    0.1 |             -8.53362 |                   0.3 |                0.2 |                  1   |
+| San Luis             |                   1 |    0.1 |             -8.48692 |                   0.3 |                0.2 |                  0.8 |
+| Belgrano             |                   1 |    0   |            -22.9962  |                   0.1 |                0.2 |                  0.4 |
+| Hindu                |                   1 |    0   |            -12.9845  |                   0.1 |                0.1 |                  0.3 |
 
 
 
@@ -57,18 +57,18 @@ aside:
 
 | Club                 |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| SIC                  |               4 |    3.7 |             71.1371  |                   0.3 |                3.3 |                 18.3 |
-| Alumni               |               4 |    3.7 |             40.292   |                   0.3 |                2.2 |                 17.1 |
-| Belgrano             |               4 |    3.3 |             10.8629  |                   0.4 |                0.1 |                 13.7 |
-| CASI                 |               4 |    2.6 |             37.7053  |                   1.3 |                0.2 |                 11.8 |
-| Champagnat           |               4 |    1.9 |             13.3597  |                   1.1 |                1.2 |                 11.8 |
-| Newman               |               4 |    2   |            -14.8213  |                   1   |                0.3 |                  9.2 |
-| San Luis             |               4 |    1.4 |             -7.70532 |                   1.4 |                1.6 |                  8.8 |
-| Hindu                |               4 |    1.7 |            -35.3446  |                   1.2 |                0.3 |                  8.4 |
-| Regatas Bella Vista  |               4 |    1.3 |             -5.29195 |                   1.4 |                0.1 |                  6.8 |
-| Buenos Aires         |               4 |    1.1 |             -5.35972 |                   2.2 |                0.1 |                  6.8 |
-| CUBA                 |               4 |    0.3 |            -25.6554  |                   2.4 |                1.2 |                  4.8 |
-| Atlético del Rosario |               4 |    0   |            -79.1787  |                   0.2 |                0.4 |                  2.7 |
+| SIC                  |               5 |    5   |             88.9845  |                   0   |                3.5 |                 23.5 |
+| Alumni               |               5 |    4.7 |             45.4224  |                   0.2 |                2.3 |                 21.4 |
+| CASI                 |               5 |    3.9 |             48.5336  |                   1.1 |                0.3 |                 16.9 |
+| Buenos Aires         |               5 |    2.7 |             23.4796  |                   2.3 |                0.2 |                 13.3 |
+| Belgrano             |               5 |    3   |            -16.9962  |                   0.1 |                0.2 |                 12.4 |
+| Champagnat           |               5 |    2   |             10.9962  |                   1   |                1.1 |                 12   |
+| Newman               |               5 |    2.3 |             -1.42242 |                   1.4 |                1.2 |                 11.8 |
+| Hindu                |               5 |    2   |            -48.9845  |                   1.1 |                0.1 |                  9.3 |
+| CUBA                 |               5 |    0.9 |            -16.5131  |                   3.1 |                1.3 |                  8   |
+| San Luis             |               5 |    1.1 |            -18.4869  |                   2.3 |                1.2 |                  7.8 |
+| Regatas Bella Vista  |               5 |    1.1 |            -15.5336  |                   2.3 |                0.2 |                  7   |
+| Atlético del Rosario |               5 |    0.3 |            -99.4796  |                   0.4 |                0.5 |                  4.1 |
 
 
 
@@ -77,89 +77,89 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 61.1% | 14.9 |
-| Player Level: Lineup | 61.1% | 11.2 |
-| Player Level: Minutes | 61.1% | 11.2 |
+| Club Level | 66.7% | 13.2 |
+| Player Level: Lineup | 58.3% | 11.0 |
+| Player Level: Minutes | 58.3% | 11.0 |
 
 
 # Future Predictions
 
-## Week 4
+## Week 5
 
-### Buenos Aires V Champagnat on 2024/04/27
+### Alumni V Newman on 2024/05/11
 
 
-Average Margin: Champagnat by 15.4
+Average Margin: Alumni by 3.4
 
-Average Scoreline: 29-14
+Average Scoreline: 27-24
 
 <p float="left">
-<img src="plots/performances_2024-04-27-BuenosAires_V_Champagnat.png" width="32%" />
-<img src="plots/resultbar_2024-04-27-BuenosAires_V_Champagnat.png" width="32%" />
-<img src="plots/spreads_2024-04-27-BuenosAires_V_Champagnat.png" width="32%" />
+<img src="plots/performances_2024-05-11-Alumni_V_Newman.png" width="32%" />
+<img src="plots/resultbar_2024-05-11-Alumni_V_Newman.png" width="32%" />
+<img src="plots/spreads_2024-05-11-Alumni_V_Newman.png" width="32%" />
 </p>
 
-### Newman V Atlético del Rosario on 2024/04/27
+### CASI V Regatas Bella Vista on 2024/05/11
 
 
-Average Margin: Newman by 11.2
+Average Margin: CASI by 8.5
 
-Average Scoreline: 33-22
+Average Scoreline: 28-20
 
 <p float="left">
-<img src="plots/performances_2024-04-27-Newman_V_AtleticodelRosario.png" width="32%" />
-<img src="plots/resultbar_2024-04-27-Newman_V_AtleticodelRosario.png" width="32%" />
-<img src="plots/spreads_2024-04-27-Newman_V_AtleticodelRosario.png" width="32%" />
+<img src="plots/performances_2024-05-11-CASI_V_RegatasBellaVista.png" width="32%" />
+<img src="plots/resultbar_2024-05-11-CASI_V_RegatasBellaVista.png" width="32%" />
+<img src="plots/spreads_2024-05-11-CASI_V_RegatasBellaVista.png" width="32%" />
 </p>
 
-### Belgrano V SIC on 2024/04/27
+### CUBA V San Luis on 2024/05/11
 
 
-Average Margin: SIC by 3.1
+Average Margin: CUBA by 8.5
 
-Average Scoreline: 26-23
+Average Scoreline: 30-21
 
 <p float="left">
-<img src="plots/performances_2024-04-27-Belgrano_V_SIC.png" width="32%" />
-<img src="plots/resultbar_2024-04-27-Belgrano_V_SIC.png" width="32%" />
-<img src="plots/spreads_2024-04-27-Belgrano_V_SIC.png" width="32%" />
+<img src="plots/performances_2024-05-11-CUBA_V_SanLuis.png" width="32%" />
+<img src="plots/resultbar_2024-05-11-CUBA_V_SanLuis.png" width="32%" />
+<img src="plots/spreads_2024-05-11-CUBA_V_SanLuis.png" width="32%" />
 </p>
 
-### Hindu V CUBA on 2024/04/27
+### Atlético del Rosario V Buenos Aires on 2024/05/11
 
 
-Average Margin: Hindu by 3.7
+Average Margin: Buenos Aires by 3.5
 
-Average Scoreline: 31-28
+Average Scoreline: 27-24
 
 <p float="left">
-<img src="plots/performances_2024-04-27-Hindu_V_CUBA.png" width="32%" />
-<img src="plots/resultbar_2024-04-27-Hindu_V_CUBA.png" width="32%" />
-<img src="plots/spreads_2024-04-27-Hindu_V_CUBA.png" width="32%" />
+<img src="plots/performances_2024-05-11-AtleticodelRosario_V_BuenosAires.png" width="32%" />
+<img src="plots/resultbar_2024-05-11-AtleticodelRosario_V_BuenosAires.png" width="32%" />
+<img src="plots/spreads_2024-05-11-AtleticodelRosario_V_BuenosAires.png" width="32%" />
 </p>
 
-### Regatas Bella Vista V Alumni on 2024/04/27
+### Champagnat V Belgrano on 2024/05/11
 
 
-Average Margin: Alumni by 3.3
+Average Margin: Champagnat by 23.0
 
-Average Scoreline: 25-22
+Average Scoreline: 33-10
 
 <p float="left">
-<img src="plots/performances_2024-04-27-RegatasBellaVista_V_Alumni.png" width="32%" />
-<img src="plots/resultbar_2024-04-27-RegatasBellaVista_V_Alumni.png" width="32%" />
-<img src="plots/spreads_2024-04-27-RegatasBellaVista_V_Alumni.png" width="32%" />
+<img src="plots/performances_2024-05-11-Champagnat_V_Belgrano.png" width="32%" />
+<img src="plots/resultbar_2024-05-11-Champagnat_V_Belgrano.png" width="32%" />
+<img src="plots/spreads_2024-05-11-Champagnat_V_Belgrano.png" width="32%" />
 </p>
 
-### San Luis V CASI on 2024/04/27
+### SIC V Hindu on 2024/05/11
 
 
-Average Margin: CASI by 0.7
+Average Margin: SIC by 13.0
 
-Average Scoreline: 24-24
+Average Scoreline: 32-19
 
 <p float="left">
-<img src="plots/performances_2024-04-27-SanLuis_V_CASI.png" width="32%" />
-<img src="plots/resultbar_2024-04-27-SanLuis_V_CASI.png" width="32%" />
-<img src="plots/spreads_2024-04-27-SanLuis_V_CASI.png" width="32%" />
+<img src="plots/performances_2024-05-11-SIC_V_Hindu.png" width="32%" />
+<img src="plots/resultbar_2024-05-11-SIC_V_Hindu.png" width="32%" />
+<img src="plots/spreads_2024-05-11-SIC_V_Hindu.png" width="32%" />
 </p>

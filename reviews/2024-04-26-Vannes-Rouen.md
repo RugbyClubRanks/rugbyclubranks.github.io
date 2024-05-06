@@ -11,7 +11,7 @@ categories: "Pro D2 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.796, which translates to predicting Vannes to win by 11.9.
 
-Our Over/Under is 57.5 - and combined with the spread above, we have a predicted scoreline of 23 to 35
+Our Over/Under is 67.5 - and combined with the spread above, we have a predicted scoreline of 28 to 40
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Vannes by 5.5 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player             |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:------------------------|---------------:|
-|             54 | Antoine Fournier   |             68.85 |        1 |             90.65 | Andy Bordelai           |             54 |
-|             59 | Jeremie Maurouard  |              3.21 |        2 |             62.85 | Théo Beziat             |             54 |
-|             52 | Soso Bekoshvili    |             72.9  |        3 |             94.12 | Paga Tafili             |             54 |
-|             80 | John-Charles Astle |             33.62 |        4 |             70.01 | Anton Bresler           |             50 |
-|             54 | Toby Salmon        |             57.32 |        5 |             85.25 | Darren O'Shea           |             54 |
-|             80 | Lucas Costa        |             34.92 |        6 |             39.57 | Juan Bautista Pedemonte |             80 |
-|             80 | Jean Leleu         |             13.95 |        7 |             98.45 | Francisco Gorrissen     |             80 |
-|             59 | Tino Mapapalangi   |             17.46 |        8 |             59.35 | Sione Kalamafoni        |             54 |
-|             54 | Florent Campeggia  |             51.37 |        9 |             94.08 | Michael Ruru            |             63 |
-|             54 | Franck Pourteau    |             84.16 |       10 |             64.68 | Thibault Debaes         |             63 |
-|             80 | Paul Vallee        |             61.37 |       11 |             80    | Romaric Camou           |             80 |
-|             80 | JT Jackson         |             27.32 |       12 |             22.25 | Andres Vilaseca         |             80 |
-|             63 | Pablo Patilla      |             42.03 |       13 |             63.91 | Robin Taccola           |             80 |
-|             80 | Kevin Bly          |             88.8  |       14 |             70.4  | Paul Surano             |             80 |
-|             80 | Pete Lydon         |             83.46 |       15 |             98.73 | Gwenaël Duplenne        |             80 |
-|             28 | Luka Azariashvili  |              2.03 |       16 |             15.11 | Eric Marks              |             30 |
-|             26 | Cody Thomas        |             37.61 |       17 |              7.91 | Ximun Bessonart         |             26 |
-|             26 | Julien Ruaud       |             81.17 |       18 |             42.37 | Cyril Blanchard         |             26 |
-|             26 | Maxime Sidobre     |             72.94 |       19 |             21.4  | Mattéo Desjeux          |             26 |
-|             26 | Edgar Retiere      |             48.57 |       20 |             32.5  | Simon Bourgeois         |             26 |
-|             21 | Efi Ma'afu         |             36.35 |       21 |             91.27 | Joe Edwards             |             26 |
-|             21 | Willy N'Diaye      |              3.81 |       22 |             94.81 | Maxime Lafage           |             17 |
-|             17 | Opetera Peleseuma  |              7.17 |       23 |             37.84 | Jules Le Bail           |             17 |
+|             54 | Antoine Fournier   |             68.95 |        1 |             90.5  | Andy Bordelai           |             54 |
+|             59 | Jeremie Maurouard  |              3.27 |        2 |             62.99 | Théo Beziat             |             54 |
+|             52 | Soso Bekoshvili    |             73.26 |        3 |             94.42 | Paga Tafili             |             54 |
+|             80 | John-Charles Astle |             33.25 |        4 |             70.02 | Anton Bresler           |             50 |
+|             54 | Toby Salmon        |             57.65 |        5 |             85.32 | Darren O'Shea           |             54 |
+|             80 | Lucas Costa        |             34.77 |        6 |             39.43 | Juan Bautista Pedemonte |             80 |
+|             80 | Jean Leleu         |             14.22 |        7 |             98.45 | Francisco Gorrissen     |             80 |
+|             59 | Tino Mapapalangi   |             17.9  |        8 |             58.57 | Sione Kalamafoni        |             54 |
+|             54 | Florent Campeggia  |             51.49 |        9 |             94.04 | Michael Ruru            |             63 |
+|             54 | Franck Pourteau    |             83.55 |       10 |             64.23 | Thibault Debaes         |             63 |
+|             80 | Paul Vallee        |             61.29 |       11 |             80    | Romaric Camou           |             80 |
+|             80 | JT Jackson         |             27.52 |       12 |             22.17 | Andres Vilaseca         |             80 |
+|             63 | Pablo Patilla      |             41.84 |       13 |             63.26 | Robin Taccola           |             80 |
+|             80 | Kevin Bly          |             89.01 |       14 |             70.29 | Paul Surano             |             80 |
+|             80 | Pete Lydon         |             83.17 |       15 |             98.49 | Gwenaël Duplenne        |             80 |
+|             28 | Luka Azariashvili  |              1.96 |       16 |             15.29 | Eric Marks              |             30 |
+|             26 | Cody Thomas        |             37.12 |       17 |              7.44 | Ximun Bessonart         |             26 |
+|             26 | Julien Ruaud       |             81    |       18 |             42.33 | Cyril Blanchard         |             26 |
+|             26 | Maxime Sidobre     |             72.77 |       19 |             21.36 | Mattéo Desjeux          |             26 |
+|             26 | Edgar Retiere      |             47.78 |       20 |             32.03 | Simon Bourgeois         |             26 |
+|             21 | Efi Ma'afu         |             36.2  |       21 |             91.05 | Joe Edwards             |             26 |
+|             21 | Willy N'Diaye      |              3.82 |       22 |             94.78 | Maxime Lafage           |             17 |
+|             17 | Opetera Peleseuma  |              6.97 |       23 |             37.87 | Jules Le Bail           |             17 |
 

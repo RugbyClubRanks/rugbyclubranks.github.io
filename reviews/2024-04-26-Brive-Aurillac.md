@@ -11,7 +11,7 @@ categories: "Pro D2 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.75, which translates to predicting Brive to win by 9.6.
 
-Our Over/Under is 57.5 - and combined with the spread above, we have a predicted scoreline of 24 to 34
+Our Over/Under is 44.5 - and combined with the spread above, we have a predicted scoreline of 18 to 27
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Brive by 11.7 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player               |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:--------------------------|---------------:|
-|             45 | Robert Rodgers     |             10.7  |        1 |             14.08 | Daniel Brennan            |             53 |
-|             45 | Luka Nioradze      |             14.06 |        2 |             38.15 | Lucas da Silva            |             53 |
-|             51 | Tim Daniel-Meissen |             31.34 |        3 |             75.41 | Vakh Abdaladze            |             53 |
-|             80 | Eoghan Masterson   |             79.2  |        4 |             59.73 | Renger Van Eerten         |             80 |
-|             80 | Cam Dodson         |             78.36 |        5 |             66.99 | Tevita Ratuva             |             53 |
-|             62 | Hugo Huurman       |             67.1  |        6 |             78.43 | Retief Marais             |             80 |
-|             80 | Didier Tison       |             39.45 |        7 |             94.28 | Said Hireche              |             55 |
-|             45 | Latuka Maituku     |              8.23 |        8 |             88.78 | Ross Moriarty             |             53 |
-|             53 | David Delarue      |             26.64 |        9 |             50.74 | Leo Carbonneau            |             80 |
-|             80 | Antoine Aucagne    |             34.81 |       10 |             89.87 | Stuart Olding             |             65 |
-|             80 | AJ Coertzen        |             71.43 |       11 |             78.97 | Arthur Bonneval           |             80 |
-|             80 | Ofa Manuofetoa     |             71.2  |       12 |             87.39 | Sam Johnson               |             80 |
-|             45 | Hugo Bastard       |             40.67 |       13 |             41.41 | Sammy Arnold              |             80 |
-|             80 | Juun Pieters       |             66.86 |       14 |             68.69 | Mathis Ferté              |             61 |
-|             80 | Marc Palmier       |             17.56 |       15 |             41.22 | Nic Krone                 |             80 |
-|             35 | Alexandre Plantier |             65.09 |       16 |             68.66 | Wesley Tapueluelu         |             27 |
-|             35 | Ronan Loughnane    |             37.95 |       17 |             42.17 | Benjamin Boudou           |             27 |
-|             35 | Aleksandre Burduli |            nan    |       18 |             49.38 | Taniela Sadrugu           |             27 |
-|             35 | Christa Powell     |              9.39 |       19 |             75.57 | Asier Usarraga            |             27 |
-|             29 | Thomas Cretu       |             33.46 |       20 |             16.59 | Francisco Coria Marchetti |             27 |
-|             27 | Mikheil Alania     |             25.79 |       21 |             47.08 | Sasha Gue                 |             25 |
-|             18 | Théo Cambon        |             10.85 |       22 |            nan    | Wesley Douglas            |             19 |
-|            nan | nan                |            nan    |       23 |             40    | Tom Raffy                 |             15 |
+|             45 | Robert Rodgers     |             10.68 |        1 |             14.1  | Daniel Brennan            |             53 |
+|             45 | Luka Nioradze      |             14.31 |        2 |             37.63 | Lucas da Silva            |             53 |
+|             51 | Tim Daniel-Meissen |             30.95 |        3 |             75.61 | Vakh Abdaladze            |             53 |
+|             80 | Eoghan Masterson   |             78.76 |        4 |             60.07 | Renger Van Eerten         |             80 |
+|             80 | Cam Dodson         |             78.03 |        5 |             66.5  | Tevita Ratuva             |             53 |
+|             62 | Hugo Huurman       |             66.67 |        6 |             77.9  | Retief Marais             |             80 |
+|             80 | Didier Tison       |             39.31 |        7 |             94.27 | Said Hireche              |             55 |
+|             45 | Latuka Maituku     |              8.44 |        8 |             88.24 | Ross Moriarty             |             53 |
+|             53 | David Delarue      |             26.17 |        9 |             50.64 | Leo Carbonneau            |             80 |
+|             80 | Antoine Aucagne    |             34.2  |       10 |             89.56 | Stuart Olding             |             65 |
+|             80 | AJ Coertzen        |             71.11 |       11 |             78.71 | Arthur Bonneval           |             80 |
+|             80 | Ofa Manuofetoa     |             70.86 |       12 |             87.55 | Sam Johnson               |             80 |
+|             45 | Hugo Bastard       |             40.47 |       13 |             41.22 | Sammy Arnold              |             80 |
+|             80 | Juun Pieters       |             66.32 |       14 |             67.95 | Mathis Ferté              |             61 |
+|             80 | Marc Palmier       |             17.34 |       15 |             42.21 | Nic Krone                 |             80 |
+|             35 | Alexandre Plantier |             65.23 |       16 |             68.76 | Wesley Tapueluelu         |             27 |
+|             35 | Ronan Loughnane    |             37.42 |       17 |             41.92 | Benjamin Boudou           |             27 |
+|             35 | Aleksandre Burduli |            nan    |       18 |             48.85 | Taniela Sadrugu           |             27 |
+|             35 | Christa Powell     |              9.09 |       19 |             75.12 | Asier Usarraga            |             27 |
+|             29 | Thomas Cretu       |             32.91 |       20 |             16.55 | Francisco Coria Marchetti |             27 |
+|             27 | Mikheil Alania     |             25.53 |       21 |             46.83 | Sasha Gue                 |             25 |
+|             18 | Théo Cambon        |             10.75 |       22 |            nan    | Wesley Douglas            |             19 |
+|            nan | nan                |            nan    |       23 |             40.47 | Tom Raffy                 |             15 |
 

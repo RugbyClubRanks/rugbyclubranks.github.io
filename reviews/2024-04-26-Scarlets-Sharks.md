@@ -11,7 +11,7 @@ categories: "United Rugby Championship 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.409, which translates to predicting Sharks to win by 3.2.
 
-Our Over/Under is 39.5 - and combined with the spread above, we have a predicted scoreline of 21 to 18
+Our Over/Under is 54.5 - and combined with the spread above, we have a predicted scoreline of 29 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Sharks by 13.4 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player      |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:-----------------|---------------:|
-|             58 | Ox Nche             |             99.81 |        1 |             58.53 | Kemsley Mathias  |             52 |
-|             75 | Fez Mbatha          |             87.95 |        2 |             91.16 | Ryan Elias       |             71 |
-|             58 | Vincent Koch        |             57.18 |        3 |             16.78 | Sam Wainwright   |             52 |
-|             63 | Eben Etzebeth       |             98.31 |        4 |              3.63 | Morgan Jones     |             70 |
-|             80 | Emile van Heerden   |             59.37 |        5 |             65.3  | Sam Lousi        |             80 |
-|             80 | Phepsi Buthelezi    |             56.02 |        6 |             54.83 | Taine Plumtree   |             80 |
-|             58 | Jeandre Labuschagne |             41.72 |        7 |             62.1  | Dan Davis        |             80 |
-|             80 | Vincent Tshituka    |             82.54 |        8 |             93.52 | Vaea Fifita      |             49 |
-|             57 | Grant Williams      |             62.37 |        9 |             35.52 | Gareth Davies    |             57 |
-|             80 | Siya Masuku         |             56.62 |       10 |             40.26 | Sam Costelow     |             80 |
-|             80 | Makazole Mapimpi    |             99.43 |       11 |             78.86 | Tomi Lewis       |             80 |
-|             63 | Ethan Hooker        |             33    |       12 |             22.62 | Eddie James      |             80 |
-|             80 | Lukhanyo Am         |             86.16 |       13 |             70.95 | Johnny Williams  |             80 |
-|             80 | Werner Kok          |             74.63 |       14 |             16.69 | Tom Rogers       |             58 |
-|             75 | Aphelele Fassi      |             90.59 |       15 |              9.92 | Ioan Nicholas    |             80 |
-|             23 | Jaden Hendrikse     |             84.57 |       16 |             45.89 | Carwyn Tuipulotu |             31 |
-|             22 | Gerbrandt Grobler   |             19.83 |       17 |             19.67 | Steffan Thomas   |             28 |
-|             22 | Ntuthuko Mchunu     |             45.03 |       18 |              8.97 | Harri O'Connor   |             28 |
-|             22 | Hanru Jacobs        |             46.48 |       19 |             61.52 | Kieran Hardy     |             23 |
-|             17 | Corne Rahl          |             20.07 |       20 |             19.31 | Ryan Conbeer     |             22 |
-|             17 | Francois Venter     |             55.01 |       21 |              5.56 | Jac Price        |             10 |
-|              5 | Kerron van Vuuren   |             31.33 |       22 |              5.22 | Shaun Evans      |              9 |
-|              5 | Boeta Chamberlain   |             46.23 |       23 |            nan    | nan              |            nan |
+|             59 | Ox Nche             |             99.61 |        1 |             58.57 | Kemsley Mathias  |             53 |
+|             76 | Fez Mbatha          |             87.53 |        2 |             91    | Ryan Elias       |             72 |
+|             59 | Vincent Koch        |             49.07 |        3 |             16.75 | Sam Wainwright   |             53 |
+|             64 | Eben Etzebeth       |             98.06 |        4 |              3.64 | Morgan Jones     |             71 |
+|             80 | Emile van Heerden   |             58.86 |        5 |             64.68 | Sam Lousi        |             80 |
+|             80 | Phepsi Buthelezi    |             47.31 |        6 |             54.72 | Taine Plumtree   |             80 |
+|             59 | Jeandre Labuschagne |             45.76 |        7 |             61.41 | Dan Davis        |             80 |
+|             80 | Vincent Tshituka    |             83.27 |        8 |             93.35 | Vaea Fifita      |             50 |
+|             58 | Grant Williams      |             53.19 |        9 |             36.17 | Gareth Davies    |             58 |
+|             80 | Siya Masuku         |             51.7  |       10 |             40.99 | Sam Costelow     |             80 |
+|             80 | Makazole Mapimpi    |             99.42 |       11 |             78.6  | Tomi Lewis       |             80 |
+|             64 | Ethan Hooker        |             45.08 |       12 |             23.04 | Eddie James      |             77 |
+|             80 | Lukhanyo Am         |             83.56 |       13 |             70.73 | Johnny Williams  |             80 |
+|             80 | Werner Kok          |             69.01 |       14 |             17.31 | Tom Rogers       |             59 |
+|             76 | Aphelele Fassi      |             88.44 |       15 |              9.3  | Ioan Nicholas    |             80 |
+|              4 | Kerron van Vuuren   |             32.11 |       16 |              5.52 | Shaun Evans      |              8 |
+|             21 | Ntuthuko Mchunu     |             44.56 |       17 |             19.29 | Steffan Thomas   |             27 |
+|             21 | Hanru Jacobs        |             58.08 |       18 |              8.91 | Harri O'Connor   |             27 |
+|             16 | Corne Rahl          |             59.95 |       19 |              5.83 | Jac Price        |              9 |
+|             21 | Gerbrandt Grobler   |             19.78 |       20 |             44.76 | Carwyn Tuipulotu |             30 |
+|             22 | Jaden Hendrikse     |             84.47 |       21 |             60.64 | Kieran Hardy     |             22 |
+|              4 | Boeta Chamberlain   |             51.51 |       22 |             66.32 | Dan Jones        |              3 |
+|             16 | Francois Venter     |             55.04 |       23 |             19.77 | Ryan Conbeer     |             21 |
 

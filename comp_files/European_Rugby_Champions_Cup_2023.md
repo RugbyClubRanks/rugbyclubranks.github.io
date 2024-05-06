@@ -1,6 +1,6 @@
 ---  
 title: "European Rugby Champions Cup 2023 Status"  
-date: 2024-04-29 6:00:00 -0500  
+date: 2024-05-06 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -10,56 +10,7 @@ aside:
 
 
 ![Club Rankings](plots/rankings_European_Rugby_Champions_Cup_2023.png)
-# Projected Playoff Results
-
-
-|                    | Reach Semifinals   | Reach Final   | Win Final   |
-|:-------------------|:-------------------|:--------------|:------------|
-| Leinster           | 100.0 %            | 99.3 %        | 82.5 %      |
-| Stade Toulousain   | 100.0 %            | 99.5 %        | 17.1 %      |
-| Northampton Saints | 100.0 %            | 0.7 %         | 0.4 %       |
-| Harlequins         | 100.0 %            | 0.5 %         | 0.0 %       |
-
-
-
 # Knockout Match Predictions
-
-## Semifinals
-
-### Leinster V Northampton Saints on 2024/05/04
-
-
-Average Margin: Leinster by 9.2
-
-<p float="left">
-<img src="plots/performances_2024-05-04-Leinster_V_NorthamptonSaints.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-Leinster_V_NorthamptonSaints.png" width="32%" />
-<img src="plots/spreads_2024-05-04-Leinster_V_NorthamptonSaints.png" width="32%" />
-</p>
-
-### Stade Toulousain V Harlequins on 2024/05/05
-
-
-Average Margin: Stade Toulousain by 7.6
-
-<p float="left">
-<img src="plots/performances_2024-05-05-StadeToulousain_V_Harlequins.png" width="32%" />
-<img src="plots/resultbar_2024-05-05-StadeToulousain_V_Harlequins.png" width="32%" />
-<img src="plots/spreads_2024-05-05-StadeToulousain_V_Harlequins.png" width="32%" />
-</p>
-
-## Finals
-
-### Stade Toulousain V Leinster on 2024/05/24
-
-
-Average Margin: Leinster by 3.4
-
-<p float="left">
-<img src="plots/performances_2024-05-24-StadeToulousain_V_Leinster.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-StadeToulousain_V_Leinster.png" width="32%" />
-<img src="plots/spreads_2024-05-24-StadeToulousain_V_Leinster.png" width="32%" />
-</p>
 
 # Completed Match Review
 
@@ -114,18 +65,20 @@ Average Margin: Leinster by 3.4
 | Sale Sharks V La Rochelle on 2024/01/21               |      -13 |               -10   |                 -6   |               3.2 |
 | Stade Toulousain V Bath Rugby on 2024/01/21           |       12 |                 9.4 |                  7.2 |               7.8 |
 | Bayonne V Exeter Chiefs on 2024/01/21                 |       23 |               -11.1 |                 -9.5 |              -2.2 |
-| Harlequins V Glasgow Warriors on 2024/04/05           |        4 |                -5.7 |                 -3.8 |               2.4 |
+| Harlequins V Glasgow Warriors on 2024/04/05           |        4 |                -5.9 |                 -3.9 |               2.4 |
 | Bulls V Lyon on 2024/04/06                            |       40 |                15.9 |                 13.2 |              10   |
-| Exeter Chiefs V Bath Rugby on 2024/04/06              |        6 |                -9.9 |                 -6.2 |               4.7 |
+| Exeter Chiefs V Bath Rugby on 2024/04/06              |        6 |               -10   |                 -6.3 |               4.7 |
 | Stormers V La Rochelle on 2024/04/06                  |       -1 |                -8.1 |                 -7.9 |               2.9 |
 | Bordeaux Begles V Saracens on 2024/04/06              |       33 |                -4.9 |                 -3.9 |               1.7 |
 | Leinster V Leicester Tigers on 2024/04/06             |       14 |                27.6 |                 25.6 |              13.3 |
 | Northampton Saints V Munster on 2024/04/07            |       10 |                -0.9 |                 -0.5 |               3   |
 | Stade Toulousain V Racing 92 on 2024/04/07            |       24 |                18   |                 15.9 |               9.7 |
-| Bordeaux Begles V Harlequins on 2024/04/13            |       -1 |                 7.6 |                  6.3 |               5   |
+| Bordeaux Begles V Harlequins on 2024/04/13            |       -1 |                 7.7 |                  6.4 |               5   |
 | Leinster V La Rochelle on 2024/04/13                  |       27 |                 4.2 |                  5.7 |              10.7 |
 | Northampton Saints V Bulls on 2024/04/13              |       37 |                 7.3 |                  7.1 |               1.5 |
 | Stade Toulousain V Exeter Chiefs on 2024/04/14        |       38 |                17.9 |                 16.1 |               8.5 |
+| Leinster V Northampton Saints on 2024/05/04           |        3 |                11.3 |                  9.9 |              10.2 |
+| Stade Toulousain V Harlequins on 2024/05/05           |       12 |                 9.6 |                  9.7 |               8.7 |
 
 
 
@@ -134,9 +87,9 @@ Average Margin: Leinster by 3.4
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 73.3% | 13.5 |
-| Player Level: Lineup | 66.7% | 13.0 |
-| Player Level: Minutes | 66.7% | 13.2 |
+| Club Level | 74.2% | 13.3 |
+| Player Level: Lineup | 67.7% | 12.7 |
+| Player Level: Minutes | 67.7% | 12.9 |
 
 
 

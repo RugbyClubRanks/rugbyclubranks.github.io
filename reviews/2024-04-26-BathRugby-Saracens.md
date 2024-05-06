@@ -11,7 +11,7 @@ categories: "Gallagher Premiership 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.534, which translates to predicting Bath Rugby to win by 1.2.
 
-Our Over/Under is 42.5 - and combined with the spread above, we have a predicted scoreline of 21 to 22
+Our Over/Under is 60.5 - and combined with the spread above, we have a predicted scoreline of 30 to 31
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Saracens by 3.0
+## Prediction without Player Minutes: Saracens by 2.7
 
 
-Saracens by 10.9 on a neutral pitch
+Saracens by 10.6 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Saracens by 10.9 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             44 | Eroni Mawi           |             76.28 |        1 |             87.75 | Beno Obano         |             50 |
-|             62 | Jamie George         |             97.79 |        2 |             40.56 | Niall Annett       |             50 |
-|             50 | Christian Judge      |             75.31 |        3 |             41.27 | Will Stuart        |             50 |
-|             80 | Maro Itoje           |             93.83 |        4 |             93.59 | Quinn Roux         |             62 |
-|             68 | Nick Isiekwe         |             86.7  |        5 |             57.19 | Charlie Ewels      |             80 |
-|             80 | Juan Martin Gonzalez |             91.78 |        6 |             80.33 | Ted Hill           |             80 |
-|             80 | Ben Earl             |             96.07 |        7 |             88.8  | Sam Underhill      |             69 |
-|             57 | Tom Willis           |             19.2  |        8 |             70.57 | Alfie Barbeary     |             62 |
-|             66 | Aled Davies          |             73.78 |        9 |             78.01 | Ben Spencer        |             80 |
-|             80 | Owen Farrell         |             99.22 |       10 |             31.69 | Orlando Bailey     |             72 |
-|             80 | Tom Parton           |             89.94 |       11 |             11.31 | Will Muir          |             80 |
-|             80 | Nick Tompkins        |             97.03 |       12 |             82.57 | Max Ojomoh         |             62 |
-|             80 | Lucio Cinti          |             47.71 |       13 |             84.18 | Ollie Lawrence     |             80 |
-|             80 | Rotimi Segun         |             29.14 |       14 |             91.09 | Joe Cokanasiga     |             80 |
-|             80 | Elliot Daly          |             79.64 |       15 |             95.93 | Matt Gallagher     |             80 |
-|             36 | Mako Vunipola        |             99.61 |       16 |             93.25 | Thomas du Toit     |             30 |
-|             18 | Theo Dan             |             46.59 |       17 |             95.98 | Tom Dunn           |             30 |
-|             30 | Marco Riccioni       |             29.03 |       18 |            nan    | Archie Griffin     |             30 |
-|             12 | Hugh Tizard          |             46.8  |       19 |             13.18 | Jacques du Plessis |             18 |
-|             23 | Billy Vunipola       |             97.76 |       20 |             15.26 | Josh Bayliss       |             11 |
-|             14 | Ivan van Zyl         |             71.88 |       21 |             33.42 | Jaco Coetzee       |             18 |
-|            nan | nan                  |            nan    |       22 |             65.96 | Louis Schreuder    |              8 |
-|            nan | nan                  |            nan    |       23 |             48.95 | Cameron Redpath    |             18 |
+|             45 | Eroni Mawi           |             76.69 |        1 |             87.56 | Beno Obano         |             51 |
+|             65 | Jamie George         |             97.96 |        2 |             40.49 | Niall Annett       |             51 |
+|             51 | Christian Judge      |             75.51 |        3 |             40.45 | Will Stuart        |             51 |
+|             80 | Maro Itoje           |             93.93 |        4 |             93.45 | Quinn Roux         |             63 |
+|             69 | Nick Isiekwe         |             86.89 |        5 |             57.52 | Charlie Ewels      |             80 |
+|             80 | Juan Martin Gonzalez |             91.64 |        6 |             80.17 | Ted Hill           |             80 |
+|             80 | Ben Earl             |             96.06 |        7 |             88.89 | Sam Underhill      |             69 |
+|             58 | Tom Willis           |             19.69 |        8 |             70.08 | Alfie Barbeary     |             63 |
+|             67 | Aled Davies          |             73.62 |        9 |             77.66 | Ben Spencer        |             80 |
+|             80 | Owen Farrell         |             99.22 |       10 |             31.59 | Orlando Bailey     |             73 |
+|             80 | Tom Parton           |             90.18 |       11 |             11.7  | Will Muir          |             80 |
+|             80 | Nick Tompkins        |             97.26 |       12 |             82.81 | Max Ojomoh         |             63 |
+|             80 | Lucio Cinti          |             47.95 |       13 |             84.56 | Ollie Lawrence     |             80 |
+|             80 | Rotimi Segun         |             29.59 |       14 |             91.23 | Joe Cokanasiga     |             80 |
+|             80 | Elliot Daly          |             79.65 |       15 |             95.48 | Matt Gallagher     |             80 |
+|             15 | Theo Dan             |             47.44 |       16 |             96.11 | Tom Dunn           |             29 |
+|             35 | Mako Vunipola        |             99.71 |       17 |             93.34 | Thomas du Toit     |             29 |
+|             29 | Marco Riccioni       |             28.5  |       18 |            nan    | Archie Griffin     |             29 |
+|             11 | Hugh Tizard          |             46.97 |       19 |             13.96 | Jacques du Plessis |             17 |
+|             22 | Billy Vunipola       |             97.95 |       20 |             15.53 | Josh Bayliss       |             11 |
+|              0 | Toby Knight          |             74.67 |       21 |             65.32 | Louis Schreuder    |              7 |
+|             13 | Ivan van Zyl         |             71.28 |       22 |             48.94 | Cameron Redpath    |             17 |
+|              0 | Alex Goode           |             77.89 |       23 |             33.5  | Jaco Coetzee       |             17 |
 

@@ -9,7 +9,7 @@ categories: "Nationale 2023" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.494, which translates to predicting Narbonne to win by 0.2.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.499, which translates to predicting Narbonne to win by 0.0.
 
 Our Over/Under is 44.5 - and combined with the spread above, we have a predicted scoreline of 22 to 22
 
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Suresnes by 5.8
+## Prediction without Player Minutes: Suresnes by 4.9
 
 
-Suresnes by 3.0 on a neutral pitch
+Suresnes by 2.1 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,19 +69,27 @@ Suresnes by 3.0 on a neutral pitch
 
 |   Away Minutes | Away Player            |   Away Percentile |   Number |   Home Percentile | Home Player             |   Home Minutes |
 |---------------:|:-----------------------|------------------:|---------:|------------------:|:------------------------|---------------:|
-|             80 | Geoffrey Moise         |             75.12 |        1 |             85.82 | Elias Coulibaly         |             80 |
-|             80 | Clément Esteriola      |             18.07 |        2 |             22.49 | Anthony Bajart          |             80 |
-|             80 | Levi Tikoipau          |             84.38 |        3 |             28.64 | Leandro Mario Assi      |             80 |
-|             80 | Marius Antonescu       |             10.76 |        4 |              6.89 | Christopher van Leeuwen |             80 |
-|             80 | Dennis Visser          |             64.09 |        5 |             30.96 | Yakine Djebarri         |             80 |
-|             80 | Baptiste Abescat-Leroy |             77.71 |        6 |             12.28 | Louis-Mathieu Jazeix    |             80 |
-|             80 | Paul Belzons           |              9.42 |        7 |             21.22 | Florian Desbordes       |             80 |
-|             80 | Charles Malet          |              3.49 |        8 |             50.62 | Jean-Baptiste Lachaise  |             80 |
-|             80 | Pierrick Nova          |             67.23 |        9 |             44.4  | Thomas Lacroix          |             80 |
-|             80 | Gilles Bosch           |              4.94 |       10 |             49.61 | Jean Chezeau            |             80 |
-|             80 | Pierre-Hugo Ducom      |              9.37 |       11 |             73.14 | Faraj Fartass           |             80 |
-|             80 | Peter Betham           |             99.51 |       12 |             62.05 | Petero Tuwai            |             80 |
-|             80 | Pierre Nueno           |             38.69 |       13 |             71.69 | Victor Barnier          |             80 |
-|             80 | Clément Clavières      |             55.43 |       14 |              9.94 | Ervin Muric             |             80 |
-|             80 | Paul Auradou           |             85.75 |       15 |              5.34 | Thomas Baudy            |             80 |
+|             59 | Geoffrey Moise         |             72.09 |        1 |             91.28 | Elias Coulibaly         |             29 |
+|             72 | Clément Esteriola      |             16.77 |        2 |             32.72 | Anthony Bajart          |             50 |
+|             54 | Levi Tikoipau          |             81.19 |        3 |             52.01 | Leandro Mario Assi      |             50 |
+|             80 | Marius Antonescu       |             10.19 |        4 |             10.56 | Christopher van Leeuwen |             80 |
+|             54 | Dennis Visser          |             58.5  |        5 |             47.09 | Yakine Djebarri         |             72 |
+|             80 | Baptiste Abescat-Leroy |             76.46 |        6 |             12.78 | Louis-Mathieu Jazeix    |             80 |
+|             80 | Paul Belzons           |              8.84 |        7 |             24.13 | Florian Desbordes       |             59 |
+|             62 | Charles Malet          |              2.81 |        8 |             65.22 | Jean-Baptiste Lachaise  |             80 |
+|             80 | Pierrick Nova          |             66.6  |        9 |             45.74 | Thomas Lacroix          |             80 |
+|             65 | Gilles Bosch           |              4.7  |       10 |             65.01 | Jean Chezeau            |             41 |
+|             47 | Pierre-Hugo Ducom      |              7.6  |       11 |             82.46 | Faraj Fartass           |             50 |
+|             80 | Peter Betham           |             99.5  |       12 |             68.99 | Petero Tuwai            |             80 |
+|             80 | Pierre Nueno           |             36.99 |       13 |             80.07 | Victor Barnier          |             80 |
+|             80 | Clément Clavières      |             53.45 |       14 |             10.41 | Ervin Muric             |             80 |
+|             80 | Paul Auradou           |             85.18 |       15 |             11.06 | Thomas Baudy            |             47 |
+|             21 | Théo Castinel          |             79.53 |       16 |             65.13 | Sébastien Lafrancesca   |             51 |
+|              8 | Christophe David       |             87.93 |       17 |             19.22 | Jean-Étienne Lesueur    |             30 |
+|             26 | Jamie Hagan            |             45.54 |       18 |             34.87 | Guiterembi Vickos       |             30 |
+|             26 | Leva Fifita            |              9.22 |       19 |             61.41 | Sacha Yahi              |              8 |
+|             18 | Thibault Clauzade      |             79.69 |       20 |             70.25 | Damien Bozic            |             21 |
+|             15 | Tom Chauvet            |             34.73 |       21 |             72.85 | Tanguy Lacoste          |             39 |
+|             33 | Ambrose Curtis         |             59.65 |       22 |             15.07 | JJ Taulagi              |             30 |
+|            nan | nan                    |            nan    |       23 |             12.55 | Théo Bachiri            |             33 |
 

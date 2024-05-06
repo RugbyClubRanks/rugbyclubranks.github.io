@@ -11,7 +11,7 @@ categories: "Top 14 Orange 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.516, which translates to predicting Oyonnax to win by 0.5.
 
-Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 23 to 23
+Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 23 to 24
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Castres Olympique by 3.9 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             49 | Antoine Tichit       |             86.11 |        1 |             47.64 | Antoine Abraham    |             45 |
-|             62 | Loris Zarantonello   |             38.55 |        2 |             24.7  | Benjamin Geledan   |             71 |
-|             80 | Levan Chilachava     |             79.65 |        3 |             13.4  | Christopher Vaotoa |             67 |
-|             80 | Leone Nakarawa       |             93.71 |        4 |             96.25 | Phoenix Battye     |             80 |
-|             63 | Florent Vanverberghe |             67.71 |        5 |             65.18 | Hugo Fabregue      |             54 |
-|             74 | Mathieu Babillot     |             29.2  |        6 |             42.19 | Kevin Lebreton     |             80 |
-|             57 | Baptiste Delaporte   |             78.31 |        7 |             60.55 | Rory Grice         |             54 |
-|             80 | Yann Peysson         |             73.57 |        8 |              4.49 | Loic Godener       |             80 |
-|             52 | Jeremy Fernandez     |             25.37 |        9 |              7.19 | Vasil Lobzhanidze  |             13 |
-|             80 | Louis Le Brun        |             71.95 |       10 |             86.23 | Domingo Miotti     |             80 |
-|             80 | Filipo Nakosi        |             82.29 |       11 |             33.37 | Enzo Reybier       |             80 |
-|             80 | Adrea Cocagi         |             85.91 |       12 |             59.58 | Lucas Mensa        |             45 |
-|             71 | Adrien Seguret       |             18.17 |       13 |             12.48 | Chris Farrell      |             80 |
-|             71 | Nathanael Hulleu     |             79.89 |       14 |              8.46 | Gavin Stark        |             80 |
-|             80 | Julien Dumora        |             78.88 |       15 |              7.38 | Justin Bouraux     |             65 |
-|             28 | Santiago Arata       |             64.69 |       16 |             93.02 | Jonathan Ruru      |             67 |
-|             31 | Quentin Walcker      |             74.73 |       17 |             83.41 | Tommy Raynaud      |             35 |
-|             23 | Henry Thomas         |             46.19 |       18 |             74.41 | Theo Millet        |             35 |
-|             18 | Pierre Colonna       |             22.29 |       19 |              7.62 | Victor Lebas       |             26 |
-|             17 | Ryno Pieterse        |             63.48 |       20 |             54.41 | Ewan Johnson       |             26 |
-|              9 | Josaia Raisuqe       |             76.91 |       21 |             36.64 | Maxime Salles      |             15 |
-|              9 | Vilimoni Botitu      |             44.68 |       22 |             38.48 | Thibault Berthaud  |             13 |
-|              6 | Abraham Papali'i     |             38.65 |       23 |            nan    | Julien Ratajczak   |              9 |
+|             49 | Antoine Tichit       |             85.99 |        1 |             46.72 | Antoine Abraham    |             45 |
+|             62 | Loris Zarantonello   |             38.65 |        2 |             24.54 | Benjamin Geledan   |             70 |
+|             80 | Levan Chilachava     |             80.22 |        3 |             13.42 | Christopher Vaotoa |             67 |
+|             80 | Leone Nakarawa       |             94.05 |        4 |             96    | Phoenix Battye     |             80 |
+|             63 | Florent Vanverberghe |             67.35 |        5 |             64.32 | Hugo Fabregue      |             54 |
+|             74 | Mathieu Babillot     |             30.11 |        6 |             41.82 | Kevin Lebreton     |             80 |
+|             56 | Baptiste Delaporte   |             78.14 |        7 |             59.62 | Rory Grice         |             60 |
+|             80 | Yann Peysson         |             73.4  |        8 |              4.6  | Loic Godener       |             74 |
+|             63 | Jeremy Fernandez     |             25.74 |        9 |              7.23 | Vasil Lobzhanidze  |             13 |
+|             80 | Louis Le Brun        |             71.54 |       10 |             85.9  | Domingo Miotti     |             80 |
+|             65 | Filipo Nakosi        |             82.34 |       11 |             33.45 | Enzo Reybier       |             80 |
+|             80 | Adrea Cocagi         |             86.05 |       12 |             59.28 | Lucas Mensa        |             45 |
+|             71 | Adrien Seguret       |             18.43 |       13 |             12.2  | Chris Farrell      |             80 |
+|             70 | Nathanael Hulleu     |             79.88 |       14 |              8.77 | Gavin Stark        |             67 |
+|             80 | Julien Dumora        |             78.89 |       15 |              6.78 | Justin Bouraux     |             64 |
+|             18 | Pierre Colonna       |             22.49 |       16 |            nan    | Julien Ratajczak   |             23 |
+|             31 | Quentin Walcker      |             74.93 |       17 |             83.06 | Tommy Raynaud      |             35 |
+|             17 | Ryno Pieterse        |             63.35 |       18 |             54.73 | Ewan Johnson       |             26 |
+|              6 | Abraham Papali'i     |             37.85 |       19 |              7.52 | Victor Lebas       |             26 |
+|             32 | Santiago Arata       |             64.04 |       20 |             92.98 | Jonathan Ruru      |             67 |
+|              9 | Vilimoni Botitu      |             44.91 |       21 |             74.1  | Theo Millet        |             35 |
+|             10 | Josaia Raisuqe       |             76.49 |       22 |            nan    | Maxime Salles      |             16 |
+|             24 | Henry Thomas         |             45.64 |       23 |             38    | Thibault Berthaud  |             13 |
 

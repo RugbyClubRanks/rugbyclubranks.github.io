@@ -1,6 +1,6 @@
 ---  
 title: "European Rugby Challenge Cup 2023 Status"  
-date: 2024-04-29 6:00:00 -0500  
+date: 2024-05-06 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -10,100 +10,7 @@ aside:
 
 
 ![Club Rankings](plots/rankings_European_Rugby_Challenge_Cup_2023.png)
-# Projected Playoff Results
-
-
-|                   | Reach Semifinals   | Reach Final   | Win Final   |
-|:------------------|:-------------------|:--------------|:------------|
-| Sharks            | 100.0 %            | 82.4 %        | 48.0 %      |
-| Gloucester Rugby  | 100.0 %            | 83.8 %        | 33.8 %      |
-| Clermont Auvergne | 100.0 %            | 17.6 %        | 11.7 %      |
-| Benetton Treviso  | 100.0 %            | 16.2 %        | 6.5 %       |
-
-
-
 # Knockout Match Predictions
-
-## Semifinals
-
-### Sharks V Clermont Auvergne on 2024/05/04
-
-
-Average Margin: Sharks by 3.2
-
-<p float="left">
-<img src="plots/performances_2024-05-04-Sharks_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-Sharks_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/spreads_2024-05-04-Sharks_V_ClermontAuvergne.png" width="32%" />
-</p>
-
-### Gloucester Rugby V Benetton Treviso on 2024/05/04
-
-
-Average Margin: Gloucester Rugby by 3.5
-
-<p float="left">
-<img src="plots/performances_2024-05-04-GloucesterRugby_V_BenettonTreviso.png" width="32%" />
-<img src="plots/resultbar_2024-05-04-GloucesterRugby_V_BenettonTreviso.png" width="32%" />
-<img src="plots/spreads_2024-05-04-GloucesterRugby_V_BenettonTreviso.png" width="32%" />
-</p>
-
-## Finals
-
-### Gloucester Rugby V Sharks on 2024/05/24
-
-
-Average Margin: Sharks by 0.6
-
-<p float="left">
-<img src="plots/performances_2024-05-24-GloucesterRugby_V_Sharks.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-GloucesterRugby_V_Sharks.png" width="32%" />
-<img src="plots/spreads_2024-05-24-GloucesterRugby_V_Sharks.png" width="32%" />
-</p>
-
-### Clermont Auvergne V Gloucester Rugby on 2024/05/24
-
-
-Average Margin: Clermont Auvergne by 1.4
-
-<p float="left">
-<img src="plots/performances_2024-05-24-ClermontAuvergne_V_GloucesterRugby.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-ClermontAuvergne_V_GloucesterRugby.png" width="32%" />
-<img src="plots/spreads_2024-05-24-ClermontAuvergne_V_GloucesterRugby.png" width="32%" />
-</p>
-
-### Benetton Treviso V Sharks on 2024/05/24
-
-
-Average Margin: Sharks by 1.5
-
-<p float="left">
-<img src="plots/performances_2024-05-24-BenettonTreviso_V_Sharks.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-BenettonTreviso_V_Sharks.png" width="32%" />
-<img src="plots/spreads_2024-05-24-BenettonTreviso_V_Sharks.png" width="32%" />
-</p>
-
-### Gloucester Rugby V Clermont Auvergne on 2024/05/24
-
-
-Average Margin: Clermont Auvergne by 2.1
-
-<p float="left">
-<img src="plots/performances_2024-05-24-GloucesterRugby_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-GloucesterRugby_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/spreads_2024-05-24-GloucesterRugby_V_ClermontAuvergne.png" width="32%" />
-</p>
-
-### Benetton Treviso V Clermont Auvergne on 2024/05/24
-
-
-Average Margin: Clermont Auvergne by 0.1
-
-<p float="left">
-<img src="plots/performances_2024-05-24-BenettonTreviso_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/resultbar_2024-05-24-BenettonTreviso_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/spreads_2024-05-24-BenettonTreviso_V_ClermontAuvergne.png" width="32%" />
-</p>
 
 # Completed Match Review
 
@@ -158,6 +65,8 @@ Average Margin: Clermont Auvergne by 0.1
 | Clermont Auvergne V Ulster on 2024/04/13              |       39 |                -2.4 |                 -0.9 |               4.3 |
 | Sharks V Edinburgh on 2024/04/13                      |        6 |                -0.8 |                 -0.8 |               5.1 |
 | Benetton Treviso V Connacht on 2024/04/14             |       15 |                 3.4 |                  3.6 |               4.9 |
+| Sharks V Clermont Auvergne on 2024/05/04              |        1 |                 7   |                  6.9 |               4   |
+| Gloucester Rugby V Benetton Treviso on 2024/05/04     |       17 |                -7.4 |                 -5.2 |               4.4 |
 
 
 
@@ -166,9 +75,9 @@ Average Margin: Clermont Auvergne by 0.1
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 79.2% | 14.3 |
-| Player Level: Lineup | 64.6% | 13.6 |
-| Player Level: Minutes | 60.4% | 13.6 |
+| Club Level | 80.0% | 14.0 |
+| Player Level: Lineup | 64.0% | 13.7 |
+| Player Level: Minutes | 60.0% | 13.7 |
 
 
 
