@@ -11,8 +11,8 @@ if %errorlevel% neq 0 (
     echo All tests passed. >> %LOG_FILE%
 )
 
-for /f "delims=" %%A in ('wmic os get localdatetime ^| find "."') do set datetime=%%A
-set "date_today=%datetime:~0,4%-%datetime:~4,2%-%datetime:~6,2%"
+set datestr=%date%
+set "date_today=%datestr:* =%"
 set "commit_message=Automated update for %date_today%"
 
 git add .

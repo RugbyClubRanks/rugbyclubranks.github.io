@@ -24,13 +24,13 @@ Last Round Error: 36.96 points per match
 
 [In depth model review and projections for International Test Match 2024](comp_files/International_Test_Match_2024)
 
-Competition Accuracy: 18 of 23 (78.26%)
+Competition Accuracy: 17 of 22 (77.27%)
 
-Competition Error: 18.9 points per match
+Competition Error: 19.17 points per match
 
-Last Round Accuracy: 12 of 16 (75.0%)
+Last Round Accuracy: 11 of 15 (73.33%)
 
-Last Round Error: 21.89 points per match
+Last Round Error: 22.48 points per match
 
 [2024-04-30 Kazakhstan at Qatar; 33-31](reviews//2024-04-30-Qatar-Kazakhstan)
 
@@ -42,9 +42,9 @@ Last Round Error: 21.89 points per match
 
 [2024-05-04 Malta at Cyprus; 24-14](reviews//2024-05-04-Cyprus-Malta)
 
-[2024-05-04 Cayman Islands at Bermuda; 44-12](reviews//2024-05-04-Bermuda-CaymanIslands)
-
 [2024-05-04 Bulgaria at Moldova; 6-48](reviews//2024-05-04-Moldova-Bulgaria)
+
+[2024-05-04 Cayman Islands at Bermuda; 44-12](reviews//2024-05-04-Bermuda-CaymanIslands)
 
 [2024-05-04 Sri Lanka at Kazakhstan; 45-7](reviews//2024-05-04-Kazakhstan-SriLanka)
 
@@ -78,7 +78,7 @@ Last Round Error: 1.22 points per match
 
 Competition Accuracy: 40 of 50 (80.0%)
 
-Competition Error: 14.03 points per match
+Competition Error: 14.04 points per match
 
 Last Round Accuracy: 9 of 11 (81.82%)
 
@@ -94,11 +94,11 @@ Last Round Error: 14.2 points per match
 
 Competition Accuracy: 46 of 62 (74.19%)
 
-Competition Error: 13.29 points per match
+Competition Error: 13.27 points per match
 
 Last Round Accuracy: 10 of 12 (83.33%)
 
-Last Round Error: 12.91 points per match
+Last Round Error: 12.92 points per match
 
 [2024-05-04 Northampton Saints at Leinster; 17-20](reviews//2024-05-04-Leinster-NorthamptonSaints)
 
@@ -122,11 +122,11 @@ Last Round Error: 21.93 points per match
 
 [2024-05-04 Kubota Spears at Tokyo Sungoliath; 45-26](reviews//2024-05-04-TokyoSungoliath-KubotaSpears)
 
+[2024-05-05 Toyota Verblitz at Black Rams Tokyo; 45-18](reviews//2024-05-05-BlackRamsTokyo-ToyotaVerblitz)
+
 [2024-05-05 Toshiba Brave Lupus at Shizuoka Blue Revs; 59-20](reviews//2024-05-05-ShizuokaBlueRevs-ToshibaBraveLupus)
 
 [2024-05-05 Mitsubishi Dynaboars at Hanazono Kintetsu Liners; 46-36](reviews//2024-05-05-HanazonoKintetsuLiners-MitsubishiDynaboars)
-
-[2024-05-05 Toyota Verblitz at Black Rams Tokyo; 45-18](reviews//2024-05-05-BlackRamsTokyo-ToyotaVerblitz)
 ## Major League Rugby
 
 
@@ -162,9 +162,9 @@ Last Round Accuracy: 6 of 6 (100.0%)
 
 Last Round Error: 11.04 points per match
 
-[2024-05-03 Cornish Pirates at Nottingham; 29-7](reviews//2024-05-03-Nottingham-CornishPirates)
-
 [2024-05-03 London Scottish at Coventry; 14-27](reviews//2024-05-03-Coventry-LondonScottish)
+
+[2024-05-03 Cornish Pirates at Nottingham; 29-7](reviews//2024-05-03-Nottingham-CornishPirates)
 
 [2024-05-04 Caldy at Hartpury College; 36-57](reviews//2024-05-04-HartpuryCollege-Caldy)
 
@@ -196,25 +196,29 @@ Last Round Error: 13.27 points per match
 
 [In depth model review and projections for Super Rugby Pacific 2024](comp_files/Super_Rugby_Pacific_2024)
 
-Competition Accuracy: 44 of 60 (73.33%)
+Competition Accuracy: 46 of 62 (74.19%)
 
 Competition Error: 13.71 points per match
 
 Last Round Accuracy: 4 of 6 (66.67%)
 
-Last Round Error: 14.69 points per match
+Last Round Error: 14.63 points per match
 
 [2024-05-03 Blues at Melbourne Rebels; 38-11](reviews//2024-05-03-MelbourneRebels-Blues)
 
-[2024-05-03 New South Wales Waratahs at Hurricanes; 12-41](reviews//2024-05-03-Hurricanes-NewSouthWalesWaratahs)
-
 [2024-05-03 Highlanders at Moana Pasifika; 28-17](reviews//2024-05-03-MoanaPasifika-Highlanders)
 
-[2024-05-04 Fijian Drua at Brumbies; 20-28](reviews//2024-05-04-Brumbies-FijianDrua)
+[2024-05-03 New South Wales Waratahs at Hurricanes; 12-41](reviews//2024-05-03-Hurricanes-NewSouthWalesWaratahs)
 
 [2024-05-04 Queensland Reds at Crusaders; 33-28](reviews//2024-05-04-Crusaders-QueenslandReds)
 
+[2024-05-04 Fijian Drua at Brumbies; 20-28](reviews//2024-05-04-Brumbies-FijianDrua)
+
 [2024-05-04 Western Force at Chiefs; 7-56](reviews//2024-05-04-Chiefs-WesternForce)
+
+[2024-05-10 Melbourne Rebels at Queensland Reds; 22-26](reviews//2024-05-10-QueenslandReds-MelbourneRebels)
+
+[2024-05-10 Chiefs at Moana Pasifika; 43-7](reviews//2024-05-10-MoanaPasifika-Chiefs)
 # Domestic Leagues
 
 ## Japan Rugby League One D3
@@ -238,13 +242,13 @@ Last Round Error: 15.67 points per match
 
 [In depth model review and projections for Nationale 2023](comp_files/Nationale_2023)
 
-Competition Accuracy: 140 of 185 (75.68%)
+Competition Accuracy: 136 of 185 (73.51%)
 
-Competition Error: 10.53 points per match
+Competition Error: 12.66 points per match
 
 Last Round Accuracy: 4 of 7 (57.14%)
 
-Last Round Error: 18.53 points per match
+Last Round Error: 18.55 points per match
 
 [2024-05-04 Suresnes at Albi; 21-18](reviews//2024-05-04-Albi-Suresnes)
 

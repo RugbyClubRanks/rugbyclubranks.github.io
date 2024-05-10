@@ -11,7 +11,7 @@ categories: "Super Rugby Pacific 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.666, which translates to predicting Crusaders to win by 6.2.
 
-Our Over/Under is 55.5 - and combined with the spread above, we have a predicted scoreline of 25 to 31
+Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 24 to 30
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -70,26 +70,26 @@ Crusaders by 2.3 on a neutral pitch
 |   Away Minutes | Away Player               |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:--------------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
 |             52 | Peni Ravai Kovekalou      |             58.33 |        1 |              6.89 | George Bower         |             66 |
-|             61 | Matt Faessler             |             77.74 |        2 |             88.87 | Brodie McAlister     |             20 |
+|             61 | Matt Faessler             |             77    |        2 |             88.83 | Brodie McAlister     |             20 |
 |             52 | Jeff Toomaga-Allen        |             94.26 |        3 |              1.31 | Fletcher Newell      |             66 |
-|             80 | Ryan Smith                |             47.02 |        4 |             94.64 | Scott Barrett        |             14 |
-|             66 | Angus Blyth               |             93.43 |        5 |             90.5  | Quinten Strange      |             80 |
-|             80 | Liam Wright               |             97.49 |        6 |             80.04 | Cullen Grace         |             80 |
-|             67 | Fraser McReight           |             94.58 |        7 |             65.9  | Corey Kellow         |             80 |
-|             80 | Harry Wilson              |             69.78 |        8 |             36.09 | Christian Lio-Willie |             41 |
-|             61 | Kalani Thomas             |             67.62 |        9 |             87.72 | Mitchell Drummond    |             53 |
-|             80 | Lawson Creighton          |             17.71 |       10 |             93.3  | David Havili         |             80 |
-|             80 | Mac Grealy                |             87.71 |       11 |             82.28 | Sevu Reece           |             80 |
-|             80 | Hunter Paisami            |             79.43 |       12 |             62.87 | Dallas McLeod        |             80 |
-|             80 | Josh Flook                |             45.25 |       13 |             68.46 | Levi Aumua           |             66 |
-|             70 | Tim Ryan                  |             52.18 |       14 |             82.87 | Johnny McNicholl     |             80 |
-|             80 | Jock Campbell             |             71.79 |       15 |             75.43 | Leigh Halfpenny      |             44 |
-|             19 | Josh Nasser               |            nan    |       16 |              8.97 | George Bell          |             60 |
-|             28 | Sef Fa'agase              |             72.19 |       17 |             44.87 | Joe Moody            |             14 |
-|             28 | Zane Nonggorr             |             79.98 |       18 |             76.54 | Owen Franks          |             14 |
+|             80 | Ryan Smith                |             46.01 |        4 |             94.64 | Scott Barrett        |             14 |
+|             66 | Angus Blyth               |             93.23 |        5 |             90.6  | Quinten Strange      |             80 |
+|             80 | Liam Wright               |             97.29 |        6 |             80.04 | Cullen Grace         |             80 |
+|             67 | Fraser McReight           |             94.48 |        7 |             66    | Corey Kellow         |             80 |
+|             80 | Harry Wilson              |             68.91 |        8 |             36.09 | Christian Lio-Willie |             41 |
+|             61 | Kalani Thomas             |             67.67 |        9 |             87.74 | Mitchell Drummond    |             53 |
+|             80 | Lawson Creighton          |             17.24 |       10 |             93.32 | David Havili         |             80 |
+|             80 | Mac Grealy                |             87.6  |       11 |             82.27 | Sevu Reece           |             80 |
+|             80 | Hunter Paisami            |             79.35 |       12 |             62.91 | Dallas McLeod        |             80 |
+|             80 | Josh Flook                |             44.15 |       13 |             68.6  | Levi Aumua           |             66 |
+|             70 | Tim Ryan                  |             51.36 |       14 |             82.85 | Johnny McNicholl     |             80 |
+|             80 | Jock Campbell             |             71.03 |       15 |             75.32 | Leigh Halfpenny      |             44 |
+|             19 | Josh Nasser               |            nan    |       16 |              9    | George Bell          |             60 |
+|             28 | Sef Fa'agase              |             76.78 |       17 |             45.04 | Joe Moody            |             14 |
+|             28 | Zane Nonggorr             |             80.07 |       18 |             76.54 | Owen Franks          |             14 |
 |             14 | Connor Vest               |             43.28 |       19 |             31.24 | Jamie Hannah         |             66 |
 |             13 | John Bryant               |             49.35 |       20 |             60.68 | Tom Christie         |             39 |
-|             19 | Louis Werchon             |            nan    |       21 |             64.77 | Noah Hotham          |             27 |
-|              0 | Harry McLaughlin-Phillips |             56.37 |       22 |             52.27 | Rivez Reihana        |             14 |
-|             10 | Suliasi Vunivalu          |             47.24 |       23 |             11.54 | Chay Fihaki          |             36 |
+|             19 | Louis Werchon             |            nan    |       21 |             64.83 | Noah Hotham          |             27 |
+|              0 | Harry McLaughlin-Phillips |             56.47 |       22 |             52.37 | Rivez Reihana        |             14 |
+|             10 | Suliasi Vunivalu          |             47.19 |       23 |             11.37 | Chay Fihaki          |             36 |
 

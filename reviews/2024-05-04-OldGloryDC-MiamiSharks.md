@@ -11,7 +11,7 @@ categories: "Major League Rugby 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.604, which translates to predicting Old Glory DC to win by 3.9.
 
-Our Over/Under is 60.5 - and combined with the spread above, we have a predicted scoreline of 28 to 32
+Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 22 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Miami Sharks by 3.6 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player              |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:-------------------------|---------------:|
-|             80 | Jonas Petrakopoulos |             55.13 |        1 |             13.95 | Jack Iscaro              |             80 |
-|             80 | Sean Mcnulty        |             45.02 |        2 |             31.73 | Martín Vaca              |             80 |
-|             80 | Tevita Sole         |             23.79 |        3 |             68.99 | Stevie Longwell          |             80 |
-|             80 | Stan Van Den Hoven  |             49.34 |        4 |             36.2  | Rob Harley               |             80 |
+|             80 | Jonas Petrakopoulos |             55.21 |        1 |             14.03 | Jack Iscaro              |             80 |
+|             80 | Sean Mcnulty        |             45.17 |        2 |             31.83 | Martín Vaca              |             80 |
+|             80 | Tevita Sole         |             23.79 |        3 |             69.07 | Stevie Longwell          |             80 |
+|             80 | Stan Van Den Hoven  |             49.24 |        4 |             36.1  | Rob Harley               |             80 |
 |             80 | Michael Etete       |             27.4  |        5 |             43.88 | Tevita Naqali            |             80 |
-|             80 | Dan Pryor           |             15.85 |        6 |             52.96 | Jamason Fa'Anana-Schultz |             80 |
+|             80 | Dan Pryor           |             15.75 |        6 |             52.86 | Jamason Fa'Anana-Schultz |             80 |
 |             80 | Rick Rose           |             30.09 |        7 |             20.76 | Cory Gilliland-Daniel    |             80 |
 |             80 | Manuel Ardao        |             73.91 |        8 |             40    | Lautaro Bavaro           |             80 |
-|             80 | Tomas Inciarte      |             28.11 |        9 |             59.61 | Ethan Mcveigh            |             80 |
-|             80 | Santiago Videla     |             18.14 |       10 |             50.97 | Gradyn Bowd              |             80 |
-|             80 | Michael Hand        |             51.4  |       11 |             46.08 | Axel Muller              |             80 |
-|             80 | Nick Grigg          |             32.38 |       12 |              2    | Tommaso Boni             |             80 |
-|             80 | Guiseppe Du Toit    |             46.52 |       13 |             41.67 | Willie Talataina-Mu      |             80 |
-|             80 | Marcos Young        |             27.98 |       14 |             28.36 | Perry Humphreys          |             80 |
-|             80 | Felipe Etcheverry   |             70.3  |       15 |             28.85 | Damien Hoyland           |             80 |
+|             80 | Tomas Inciarte      |             28.24 |        9 |             59.86 | Ethan Mcveigh            |             80 |
+|             80 | Santiago Videla     |             18.32 |       10 |             51.08 | Gradyn Bowd              |             80 |
+|             80 | Michael Hand        |             51.55 |       11 |             46.12 | Axel Muller              |             80 |
+|             80 | Nick Grigg          |             32.35 |       12 |              2    | Tommaso Boni             |             80 |
+|             80 | Guiseppe Du Toit    |             46.58 |       13 |             41.62 | Willie Talataina-Mu      |             80 |
+|             80 | Marcos Young        |             28    |       14 |             28.39 | Perry Humphreys          |             80 |
+|             80 | Felipe Etcheverry   |             69.96 |       15 |             28.97 | Damien Hoyland           |             80 |
 |              0 | Alex Glover         |            nan    |       16 |            nan    | Koikoi Nelligan          |              0 |
-|              0 | Rob Evans           |             16.9  |       17 |             54.63 | Quentin Newcomer         |              0 |
-|              0 | Alec Mcdonnell      |             42.49 |       18 |             44.38 | Cali Martinez            |              0 |
+|              0 | Rob Evans           |             16.98 |       17 |             54.72 | Quentin Newcomer         |              0 |
+|              0 | Alec Mcdonnell      |             42.41 |       18 |             44.38 | Cali Martinez            |              0 |
 |              0 | David Beach         |            nan    |       19 |             56.02 | Bill Whiteside           |              0 |
-|              0 | Chase Schor-Haskin  |            nan    |       20 |             59.68 | Brady Daniel             |              0 |
-|              0 | Nicolás Elewaut     |            nan    |       21 |             31.49 | Connor Buckley           |              0 |
-|              0 | Eric Naposki        |             39.4  |       22 |             31.32 | Jason Robertson          |              0 |
-|              0 | Avery Oitomen       |             34.37 |       23 |             59.49 | John Powers              |              0 |
+|              0 | Chase Schor-Haskin  |            nan    |       20 |             59.58 | Brady Daniel             |              0 |
+|              0 | Nicolás Elewaut     |            nan    |       21 |             31.62 | Connor Buckley           |              0 |
+|              0 | Eric Naposki        |             39.44 |       22 |             31.47 | Jason Robertson          |              0 |
+|              0 | Avery Oitomen       |             34.4  |       23 |             59.54 | John Powers              |              0 |
 

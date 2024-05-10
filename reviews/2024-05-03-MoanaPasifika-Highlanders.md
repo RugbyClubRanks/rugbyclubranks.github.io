@@ -11,7 +11,7 @@ categories: "Super Rugby Pacific 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.538, which translates to predicting Moana Pasifika to win by 1.4.
 
-Our Over/Under is 58.5 - and combined with the spread above, we have a predicted scoreline of 28 to 30
+Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 24 to 25
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Moana Pasifika by 5.1 on a neutral pitch
 
 |   Away Minutes | Away Player                   |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:------------------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             56 | Dan Lienert-Brown             |             17.64 |        1 |             14.68 | Abraham Pole          |             56 |
-|             69 | Henry Bell                    |             21.1  |        2 |              3.65 | Samiuela Moli         |             52 |
-|             46 | Saula Ma'u                    |             29.12 |        3 |             47.99 | Sione Mafileo         |             56 |
+|             56 | Dan Lienert-Brown             |             17.64 |        1 |              8.2  | Abraham Pole          |             56 |
+|             69 | Henry Bell                    |             21.17 |        2 |              3.67 | Samiuela Moli         |             52 |
+|             46 | Saula Ma'u                    |             28.96 |        3 |             33.14 | Sione Mafileo         |             56 |
 |             80 | Mitchell Dunshea              |             86.05 |        4 |             90.8  | Tom Savage            |             80 |
-|             59 | Fabian Holland                |             72.7  |        5 |             16.18 | Allan Craig           |             52 |
-|             63 | Oliver Haig                   |             56.97 |        6 |             84.15 | Jacob Norris          |             80 |
+|             59 | Fabian Holland                |             72.9  |        5 |             10.01 | Allan Craig           |             52 |
+|             63 | Oliver Haig                   |             56.87 |        6 |             84.05 | Jacob Norris          |             80 |
 |             80 | Sean Withy                    |             11.13 |        7 |             78.03 | Sione Havili Talitui  |             80 |
-|             67 | Billy Harmon                  |             69.35 |        8 |             10.22 | Lotu Inisi            |             52 |
-|             70 | Folau Fakatava                |             63.17 |        9 |             38.97 | Jonathan Taumateine   |              2 |
-|             80 | Cameron Millar                |             61.99 |       10 |             76.24 | Christian Leali'ifano |             80 |
-|             52 | Connor Garden-Bachop          |             50.24 |       11 |              4.84 | Fine Inisi            |             80 |
-|             69 | Jake Te Hiwi                  |             16.56 |       12 |             97.05 | Julian Savea          |             59 |
-|             80 | Tanielu Tele'a                |             43.78 |       13 |             19.2  | Henry Taefu           |             80 |
-|             80 | Timoci Tavatavanawai          |             18.49 |       14 |              3.87 | Viliami Fine          |             41 |
-|             80 | Jacob Ratumaitavuki-Kneepkens |             95.51 |       15 |             19.87 | William Havili        |             80 |
-|             11 | Jack Taylor                   |             51.5  |       16 |             58.8  | Sama Malolo           |             28 |
+|             67 | Billy Harmon                  |             69.35 |        8 |              6.74 | Lotu Inisi            |             52 |
+|             70 | Folau Fakatava                |             63.23 |        9 |             39.08 | Jonathan Taumateine   |              2 |
+|             80 | Cameron Millar                |             62.07 |       10 |             76.29 | Christian Leali'ifano |             80 |
+|             52 | Connor Garden-Bachop          |             50.29 |       11 |              4.84 | Fine Inisi            |             80 |
+|             69 | Jake Te Hiwi                  |             16.54 |       12 |             97.05 | Julian Savea          |             59 |
+|             80 | Tanielu Tele'a                |             43.62 |       13 |             19.28 | Henry Taefu           |             80 |
+|             80 | Timoci Tavatavanawai          |             18.51 |       14 |              3.88 | Viliami Fine          |             41 |
+|             80 | Jacob Ratumaitavuki-Kneepkens |             95.49 |       15 |             19.74 | William Havili        |             80 |
+|             11 | Jack Taylor                   |             51.67 |       16 |             43.67 | Sama Malolo           |             28 |
 |             24 | Ayden Johnstone               |             94.75 |       17 |            nan    | Sateki Latu           |             24 |
-|             34 | Jermaine Ainsley              |             62.76 |       18 |             85.81 | Sekope Kepu           |             24 |
+|             34 | Jermaine Ainsley              |             62.67 |       18 |             85.73 | Sekope Kepu           |             24 |
 |             21 | Will Tucker                   |             12.54 |       19 |             34.88 | Ola Tauelangi         |             28 |
 |             30 | Nikora Broughton              |             21.52 |       20 |             84.35 | Solomone Funaki       |             28 |
-|             10 | James Arscott                 |              5.16 |       21 |              2.85 | Ere Enari             |             78 |
-|             11 | Sam Gilbert                   |             14.24 |       22 |             10.26 | Danny Toala           |             21 |
-|             28 | Martin Bogado                 |             61.57 |       23 |             91.97 | Neria Fomai           |             39 |
+|             10 | James Arscott                 |              5.15 |       21 |              2.84 | Ere Enari             |             78 |
+|             11 | Sam Gilbert                   |             14.33 |       22 |              6.11 | Danny Toala           |             21 |
+|             28 | Martin Bogado                 |             61.63 |       23 |             87.79 | Neria Fomai           |             39 |
 

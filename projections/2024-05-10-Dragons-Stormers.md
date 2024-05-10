@@ -9,9 +9,9 @@ categories: "United Rugby Championship 2023" match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.154, which translates to predicting Stormers to win by 11.0.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.165, which translates to predicting Stormers to win by 10.5.
 
-Our Over/Under is 56.5 - and combined with the spread above, we have a predicted scoreline of 34 to 23
+Our Over/Under is 57.5 - and combined with the spread above, we have a predicted scoreline of 34 to 23
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Stormers by 17.4 on a neutral pitch
 
 | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player        |
 |:---------------------|------------------:|---------:|------------------:|:-------------------|
-| Sti Sithole          |             67.68 |        1 |              3.69 | Rhodri Jones       |
-| Joseph Dweba         |             64.95 |        2 |             91.2  | Elliot Dee         |
-| Frans Malherbe       |             84.5  |        3 |             31.34 | Chris Coleman      |
-| Salmaan Moerat       |             69.97 |        4 |              0.81 | Matthew Screech    |
-| Ruben van Heerden    |             80.28 |        5 |             20.32 | George Nott        |
+| Sti Sithole          |             67.76 |        1 |              3.77 | Rhodri Jones       |
+| Joseph Dweba         |             64.83 |        2 |             91.17 | Elliot Dee         |
+| Frans Malherbe       |             84.41 |        3 |             31.26 | Chris Coleman      |
+| Salmaan Moerat       |             70.07 |        4 |              0.81 | Matthew Screech    |
+| Ruben van Heerden    |             80.28 |        5 |             20.53 | George Nott        |
 | Willie Engelbrecht   |             81.64 |        6 |             20.36 | Sean Lonsdale      |
-| Ben-Jason Dixon      |             53.46 |        7 |              1.6  | Harrison Keddie    |
+| Ben-Jason Dixon      |             53.36 |        7 |              1.6  | Harrison Keddie    |
 | Evan Roos            |             82.61 |        8 |             89.57 | Aaron Wainwright   |
-| Herschel Jantjies    |             91.99 |        9 |              8.01 | Dane Blacker       |
-| Manie Libbok         |             79.48 |       10 |             27    | Will Reed          |
-| Angelo Davids        |             94.39 |       11 |            nan    | Christopher Hollis |
-| Daniel du Plessis    |             88.82 |       12 |             64.14 | Aneurin Owen       |
-| Wandisile Simelane   |             81.22 |       13 |             82.07 | Steffan Hughes     |
-| Suleiman Hartzenberg |             68.64 |       14 |             37.27 | Rio Dyer           |
-| Warrick Gelant       |             98.08 |       15 |             76.92 | Jordan Williams    |
-| Andre-Hugo Venter    |             68.27 |       16 |             39.04 | Brodie Coghlan     |
-| Brok Harris          |             99.92 |       17 |             62.59 | Rodrigo Martinez   |
-| Neethling Fouche     |             84.41 |       18 |            nan    | Dimitri Arhip      |
-| Adre Smith           |             82.31 |       19 |             10.47 | James Benjamin     |
-| Hacjivah Dayimani    |             93.88 |       20 |             28.69 | Taine Basham       |
-| Stefan Ungerer       |             18.33 |       21 |            nan    | Morgan Lloyd       |
-| Jean-Luc du Plessis  |            nan    |       22 |              7.78 | Angus O'Brien      |
-| Sacha Mngomezulu     |             73.42 |       23 |             86.08 | Sio Tomkinson      |
+| Herschel Jantjies    |             92.01 |        9 |              8.53 | Dane Blacker       |
+| Manie Libbok         |             79.53 |       10 |             27.16 | Will Reed          |
+| Angelo Davids        |             94.38 |       11 |            nan    | Christopher Hollis |
+| Daniel du Plessis    |             88.83 |       12 |             64.38 | Aneurin Owen       |
+| Wandisile Simelane   |             81.24 |       13 |             82.09 | Steffan Hughes     |
+| Suleiman Hartzenberg |             68.6  |       14 |             37.31 | Rio Dyer           |
+| Warrick Gelant       |             98.07 |       15 |             76.82 | Jordan Williams    |
+| Andre-Hugo Venter    |             68.17 |       16 |             39.17 | Brodie Coghlan     |
+| Brok Harris          |             99.92 |       17 |             62.92 | Rodrigo Martinez   |
+| Neethling Fouche     |             84.33 |       18 |            nan    | Dimitri Arhip      |
+| Adre Smith           |             82.31 |       19 |             10.67 | James Benjamin     |
+| Hacjivah Dayimani    |             93.78 |       20 |             28.89 | Taine Basham       |
+| Stefan Ungerer       |             18.29 |       21 |            nan    | Morgan Lloyd       |
+| Jean-Luc du Plessis  |            nan    |       22 |              7.76 | Angus O'Brien      |
+| Sacha Mngomezulu     |             73.45 |       23 |             86.09 | Sio Tomkinson      |
 

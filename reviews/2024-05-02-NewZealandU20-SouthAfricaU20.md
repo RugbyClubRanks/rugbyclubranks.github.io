@@ -11,7 +11,7 @@ categories: "Rugby Championship U20 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.661, which translates to predicting New Zealand U20 to win by 7.3.
 
-Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 22 to 30
+Our Over/Under is 73.5 - and combined with the spread above, we have a predicted scoreline of 33 to 40
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ New Zealand U20 by 0.0 on a neutral pitch
 
 |   Away Minutes | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player            |   Home Minutes |
 |---------------:|:------------------|------------------:|---------:|------------------:|:-----------------------|---------------:|
-|             61 | Ruan Swart        |             47.5  |        1 |             60.21 | Will Martin            |           49   |
-|             51 | Juan Smal         |             48.17 |        2 |             61.13 | Vernon Bason           |           17   |
-|             73 | Zachary Porthen   |             47.91 |        3 |             52.91 | Joshua Smith           |           24.5 |
+|             61 | Ruan Swart        |             47.66 |        1 |             60.3  | Will Martin            |           49   |
+|             51 | Juan Smal         |             48.5  |        2 |             61    | Vernon Bason           |           17   |
+|             73 | Zachary Porthen   |             48.15 |        3 |             53.08 | Joshua Smith           |           24.5 |
 |             80 | Thomas Dyer       |             50.56 |        4 |             45.3  | Tom Allen              |           80   |
-|             40 | Adam De Waal      |             48.23 |        5 |             56.83 | Liam Jack              |           64   |
+|             40 | Adam De Waal      |             48.13 |        5 |             56.83 | Liam Jack              |           64   |
 |             68 | Sibabalwe Mahashe |             44.23 |        6 |             47.94 | Andrew Smith           |           24.5 |
-|             80 | Batho Hlekani     |             48.63 |        7 |             39.52 | Johnny Lee             |           80   |
-|             80 | Tiaan Jacobs      |             43.91 |        8 |             55.43 | Malachi Wrampling-Alec |           54   |
-|             80 | Asad Moos         |             47.69 |        9 |             44.48 | Ben O'Donovan          |           80   |
-|             73 | Tylor Sefoor      |             42.33 |       10 |             39.09 | Cooper Grant           |           49   |
-|             40 | Litelihle Bester  |             45.4  |       11 |             42.88 | Stanley Solomon        |           80   |
-|             80 | Bruce Sherwood    |             42.3  |       12 |             55.49 | Xavi Taele             |           80   |
-|             80 | Jurenzo Julius    |             41.35 |       13 |             38.5  | Aki Tuivailala         |           64   |
-|             80 | Joel Leotlela     |             48.6  |       14 |             56.15 | Frank Vaenuku          |           80   |
-|             73 | Michail Damon     |             40.38 |       15 |             37.18 | Isaac Hutchinson       |           80   |
-|             40 | Ethan Bester      |             47.18 |       16 |            nan    | A-One Lolofie          |            9   |
+|             80 | Batho Hlekani     |             48.43 |        7 |             39.52 | Johnny Lee             |           80   |
+|             80 | Tiaan Jacobs      |             43.7  |        8 |             55.43 | Malachi Wrampling-Alec |           54   |
+|             80 | Asad Moos         |             47.6  |        9 |             44.4  | Ben O'Donovan          |           80   |
+|             73 | Tylor Sefoor      |             42.24 |       10 |             39.01 | Cooper Grant           |           49   |
+|             40 | Litelihle Bester  |             45.45 |       11 |             42.93 | Stanley Solomon        |           80   |
+|             80 | Bruce Sherwood    |             42.26 |       12 |             55.43 | Xavi Taele             |           80   |
+|             80 | Jurenzo Julius    |             41.31 |       13 |             38.46 | Aki Tuivailala         |           64   |
+|             80 | Joel Leotlela     |             48.55 |       14 |             56.2  | Frank Vaenuku          |           80   |
+|             73 | Michail Damon     |             40.34 |       15 |             37.12 | Isaac Hutchinson       |           80   |
+|             40 | Ethan Bester      |             47.5  |       16 |            nan    | A-One Lolofie          |            9   |
 |             19 | Mbasa Maqubela    |             42.82 |       17 |            nan    | Senio Sanele           |           31   |
 |              7 | Reno Hirst        |             42.74 |       18 |            nan    | Kurene Luamanuvae      |           31   |
 |             40 | JF van Heerden    |             38.22 |       19 |             63.7  | Cameron Christie       |           16   |
 |             12 | Thabang Mphafi    |            nan    |       20 |            nan    | Mosese Bason           |           17   |
-|              7 | Ezekiel Ngubane   |            nan    |       21 |             58.54 | Dylan Pledger          |           31   |
-|              7 | Thurlon Williams  |             38.66 |       22 |             53.78 | Rico Simpson           |           31   |
-|             29 | Joshua Boulle     |             44.43 |       23 |            nan    | Josh Whaanga           |           16   |
+|              7 | Ezekiel Ngubane   |            nan    |       21 |             58.61 | Dylan Pledger          |           31   |
+|              7 | Thurlon Williams  |             38.58 |       22 |             53.88 | Rico Simpson           |           31   |
+|             29 | Joshua Boulle     |             44.57 |       23 |            nan    | Josh Whaanga           |           16   |
 

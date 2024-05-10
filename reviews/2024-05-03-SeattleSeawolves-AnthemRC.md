@@ -11,7 +11,7 @@ categories: "Major League Rugby 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.991, which translates to predicting Seattle Seawolves to win by 45.4.
 
-Our Over/Under is 78.5 - and combined with the spread above, we have a predicted scoreline of 17 to 62
+Our Over/Under is 70.5 - and combined with the spread above, we have a predicted scoreline of 13 to 58
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -70,26 +70,26 @@ Seattle Seawolves by 19.2 on a neutral pitch
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player       |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:------------------|---------------:|
 |             80 | Jake Turnbull         |              2.46 |        1 |             63.49 | Dewald Donald     |             80 |
-|             80 | Connor Robinson       |             18.77 |        2 |             54.65 | Daquan Perry      |             80 |
-|             80 | Joe Apikotoa          |             26.17 |        3 |             54.47 | Oli Kilifi        |             80 |
+|             80 | Connor Robinson       |             18.83 |        2 |             54.83 | Daquan Perry      |             80 |
+|             80 | Joe Apikotoa          |             26.09 |        3 |             54.55 | Oli Kilifi        |             80 |
 |             80 | James Rivers          |              6.07 |        4 |             51.67 | Taylor Krumrei    |             80 |
 |             80 | Reagan Leslie         |              5.26 |        5 |             41.66 | Mahonri Ngakuru   |             80 |
 |             80 | Shneil Singh          |              6.02 |        6 |             84.75 | Charles Elton     |             80 |
-|             80 | Joe Basser            |              5.22 |        7 |             53.86 | Kara Pryor        |             80 |
+|             80 | Joe Basser            |              5.22 |        7 |             53.76 | Kara Pryor        |             80 |
 |             80 | Dylan Fortune         |             13.04 |        8 |             75.87 | Riekert Hattingh  |             80 |
-|             80 | Conor Mcmanus         |              8.72 |        9 |             54.63 | Ryan Rees         |             80 |
-|             80 | Cliven Loubser        |             44.92 |       10 |             66.52 | Sam Windsor       |             80 |
-|             80 | Te Rangatira Waitokia |              4.94 |       11 |             79.19 | Jade Stighling    |             80 |
-|             80 | Junior Gafa           |              8.76 |       12 |             90.93 | Tavite Lopeti     |             80 |
-|             80 | Dom Iacovino          |             38.08 |       13 |             57.38 | Tevita Kuridrani  |             80 |
-|             80 | Cael Hodgson          |              4.74 |       14 |             56.24 | Conner Mooneyham  |             80 |
-|             80 | Tomasi Alosio         |             36.11 |       15 |             52.99 | Duncan Matthews   |             80 |
-|              0 | Jack Manzo            |             21.26 |       16 |             88.54 | Joe Taufete'E     |              0 |
-|              0 | Dan Hanson            |            nan    |       17 |             79.74 | Cameron Orr       |              0 |
-|              0 | Stephan Bernal-Wendt  |             16.57 |       18 |             61.53 | Chance Wenglewski |              0 |
+|             80 | Conor Mcmanus         |              8.88 |        9 |             54.53 | Ryan Rees         |             80 |
+|             80 | Cliven Loubser        |             44.83 |       10 |             66.59 | Sam Windsor       |             80 |
+|             80 | Te Rangatira Waitokia |              4.94 |       11 |             79.07 | Jade Stighling    |             80 |
+|             80 | Junior Gafa           |              8.75 |       12 |             90.83 | Tavite Lopeti     |             80 |
+|             80 | Dom Iacovino          |             37.93 |       13 |             57.22 | Tevita Kuridrani  |             80 |
+|             80 | Cael Hodgson          |              4.75 |       14 |             56.3  | Conner Mooneyham  |             80 |
+|             80 | Tomasi Alosio         |             36.05 |       15 |             53    | Duncan Matthews   |             80 |
+|              0 | Jack Manzo            |             21.33 |       16 |             88.5  | Joe Taufete'E     |              0 |
+|              0 | Dan Hanson            |            nan    |       17 |             79.82 | Cameron Orr       |              0 |
+|              0 | Stephan Bernal-Wendt  |             16.65 |       18 |             61.61 | Chance Wenglewski |              0 |
 |              0 | Lucas Gramlick        |             24.97 |       19 |            nan    | Isaia Lotawa      |              0 |
 |              0 | Graeme Pedegana       |            nan    |       20 |             61.08 | Huw Taylor        |              0 |
-|              0 | Siaosi Nai            |              9.25 |       21 |             83.99 | Jp Smith          |              0 |
-|              0 | Shane Barry           |              3.21 |       22 |             76.89 | Mack Mason        |              0 |
-|              0 | Tyren Al-Jiboori      |              2.9  |       23 |             68.25 | Lauina Futi       |              0 |
+|              0 | Siaosi Nai            |              9.24 |       21 |             84.01 | Jp Smith          |              0 |
+|              0 | Shane Barry           |              3.22 |       22 |             76.94 | Mack Mason        |              0 |
+|              0 | Tyren Al-Jiboori      |              2.91 |       23 |             68.22 | Lauina Futi       |              0 |
 
