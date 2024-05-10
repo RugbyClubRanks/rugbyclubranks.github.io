@@ -1,6 +1,6 @@
 ---  
 title: "Super Rugby Americas 2024 Status"  
-date: 2024-05-06 6:00:00 -0500  
+date: 2024-05-09 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -32,12 +32,12 @@ aside:
 
 | Club             |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Pampas XV        |                   3 |    2.9 |             53.4572  |                   0.1 |                2   |                 13.8 |
-| Yacare XV        |                   2 |    1.8 |             25.736   |                   0.2 |                1.5 |                  8.8 |
+| Pampas XV        |                   3 |    2.9 |             53.4572  |                   0.1 |                2   |                 13.7 |
+| Yacare XV        |                   2 |    1.8 |             25.736   |                   0.2 |                1.5 |                  8.9 |
 | Selknam          |                   3 |    1.5 |              2.29624 |                   0.5 |                1.3 |                  7.6 |
 | Dogos XV         |                   2 |    1.5 |              9.60847 |                   0.4 |                0.8 |                  7.1 |
 | Cobras           |                   2 |    0.8 |            -23.9981  |                   0.2 |                0.9 |                  4.1 |
-| Penarol Rugby    |                   3 |    0.4 |            -24.2654  |                   1   |                0.6 |                  3   |
+| Penarol Rugby    |                   3 |    0.4 |            -24.2654  |                   1   |                0.6 |                  3.1 |
 | American Raptors |                   3 |    0.3 |            -42.8343  |                   0.5 |                0.7 |                  2.2 |
 
 
@@ -47,13 +47,13 @@ aside:
 
 | Club             |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Pampas XV        |               6 |    5.9 |             112.457  |                   0.1 |                4   |                 27.8 |
+| Pampas XV        |               6 |    5.9 |             112.457  |                   0.1 |                4   |                 27.7 |
 | Dogos XV         |               5 |    4.5 |             128.608  |                   0.4 |                3.8 |                 22.1 |
 | Selknam          |               4 |    2.5 |              26.2962 |                   0.5 |                2.3 |                 12.6 |
 | Cobras           |               5 |    2.8 |             -37.9981 |                   0.2 |                0.9 |                 12.1 |
-| Yacare XV        |               6 |    1.8 |             -26.264  |                   1.2 |                3.5 |                 11.8 |
+| Yacare XV        |               6 |    1.8 |             -26.264  |                   1.2 |                3.5 |                 11.9 |
 | American Raptors |               7 |    1.3 |            -170.834  |                   0.5 |                1.7 |                  7.2 |
-| Penarol Rugby    |               5 |    0.4 |             -32.2654 |                   3   |                0.6 |                  5   |
+| Penarol Rugby    |               5 |    0.4 |             -32.2654 |                   3   |                0.6 |                  5.1 |
 
 
 

@@ -35,12 +35,12 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 <img src="../comp_files/plots/resultbar_2024-05-11-Cobras_V_AmericanRaptors.png" width="99%" />
 </p>
 
-# Player Level Predictions - Version 2
+# Player Level Predictions
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
 ## Prediction with Imputed Lineups: American Raptors by 4.6
 
 
-American Raptors by 7.0 on a neutral pitch
+American Raptors by 6.9 on a neutral pitch
 

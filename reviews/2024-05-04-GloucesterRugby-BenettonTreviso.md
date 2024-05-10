@@ -9,9 +9,9 @@ categories: "European Rugby Challenge Cup 2023" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.621, which translates to predicting Gloucester Rugby to win by 4.4.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.617, which translates to predicting Gloucester Rugby to win by 4.2.
 
-Our Over/Under is 56.5 - and combined with the spread above, we have a predicted scoreline of 26 to 30
+Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 23 to 28
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -35,14 +35,14 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 <img src="plots/resultbar_2024-05-04-GloucesterRugby-BenettonTreviso.png" width="99%" />
 </p>
 
-# Player Level Predictions - Version 2
+# Player Level Predictions
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Gloucester Rugby by 0.7
+## Prediction without Player Minutes: Gloucester Rugby by 1.1
 
 
-Benetton Treviso by 7.4 on a neutral pitch
+Benetton Treviso by 7.2 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Benetton Treviso by 7.4 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             65 | Thomas Gallo       |             86.58 |        1 |              7.74 | Mayco Vivas         |             45 |
-|             45 | Giacomo Nicotera   |             97.55 |        2 |             59.92 | Sebastian Blake     |             45 |
-|             54 | Simone Ferrari     |             94.81 |        3 |             90.01 | Kirill Gotovtsev    |             63 |
-|             41 | Scott Scrafton     |             57.4  |        4 |             79    | Freddie Clarke      |             80 |
-|             60 | Eli Snyman         |             71.24 |        5 |             50.85 | Freddie Thomas      |             63 |
-|             49 | Sebastian Negri    |             85.54 |        6 |             88.77 | Ruan Ackermann      |             68 |
-|             80 | Michele Lamaro     |             95.58 |        7 |             50.66 | Lewis Ludlow        |             80 |
-|             80 | Toa Halafihi       |             62.66 |        8 |             60.1  | Zach Mercer         |             80 |
-|             49 | Alessandro Garbisi |             65.74 |        9 |             76.81 | Caolan Englefield   |             71 |
-|             68 | Tomas Albornoz     |             73.11 |       10 |             98.17 | Adam Hastings       |             80 |
-|             80 | Onisi Ratave       |             25.85 |       11 |             83.04 | Ollie Thorley       |             80 |
-|             80 | Juan Ignacio Brex  |             92.28 |       12 |             44.96 | Sebastien Atkinson  |             80 |
-|             80 | Tommaso Menoncello |             83.69 |       13 |             74.97 | Chris Harris        |             80 |
-|             80 | Ignacio Mendy      |             13.22 |       14 |             60.47 | Jonny May           |             80 |
-|             80 | Rhyno Smith        |             85.43 |       15 |             40.7  | Josh Hathaway       |             80 |
-|             35 | Gianmarco Lucchesi |             84.87 |       16 |             55.01 | Santiago Socino     |             35 |
-|             13 | Mirco Spagnolo     |             55.14 |       17 |             11.07 | Jamal Ford-Robinson |             35 |
-|             28 | Giosue Zilocchi    |             66.11 |       18 |            nan    | Ciaran Knight       |             17 |
-|             39 | Niccolo Cannone    |             64.44 |       19 |             89.61 | Albert Tuisue       |             17 |
-|             20 | Edoardo Iachizzi   |             69.05 |       20 |             15.77 | Jack Clement        |             12 |
-|             31 | Alessandro Izekor  |             48.03 |       21 |             14.47 | Stephen Varney      |              9 |
-|             31 | Andy Uren          |             13.62 |       22 |             51.96 | Charlie Atkinson    |              0 |
-|             12 | Leonardo Marin     |             65.5  |       23 |             63.51 | Alex Hearle         |              0 |
+|             65 | Thomas Gallo       |             89.25 |        1 |             12.22 | Mayco Vivas         |             45 |
+|             45 | Giacomo Nicotera   |             97.84 |        2 |             77.91 | Sebastian Blake     |             45 |
+|             54 | Simone Ferrari     |             95.24 |        3 |             90.73 | Kirill Gotovtsev    |             63 |
+|             41 | Scott Scrafton     |             60.47 |        4 |             77.15 | Freddie Clarke      |             80 |
+|             60 | Eli Snyman         |             75.33 |        5 |             83.32 | Freddie Thomas      |             63 |
+|             49 | Sebastian Negri    |             87.76 |        6 |             90.57 | Ruan Ackermann      |             68 |
+|             80 | Michele Lamaro     |             96.29 |        7 |             62.69 | Lewis Ludlow        |             80 |
+|             80 | Toa Halafihi       |             65.87 |        8 |             52.39 | Zach Mercer         |             80 |
+|             49 | Alessandro Garbisi |             70.11 |        9 |             86.83 | Caolan Englefield   |             71 |
+|             68 | Tomas Albornoz     |             78.19 |       10 |             98.49 | Adam Hastings       |             80 |
+|             80 | Onisi Ratave       |             27.88 |       11 |             83.06 | Ollie Thorley       |             80 |
+|             80 | Juan Ignacio Brex  |             93.46 |       12 |             46.84 | Sebastien Atkinson  |             80 |
+|             80 | Tommaso Menoncello |             85.44 |       13 |             77.64 | Chris Harris        |             80 |
+|             80 | Ignacio Mendy      |             12.97 |       14 |             59.63 | Jonny May           |             80 |
+|             80 | Rhyno Smith        |             88.03 |       15 |             51.07 | Josh Hathaway       |             80 |
+|             35 | Gianmarco Lucchesi |             87.87 |       16 |             78.74 | Santiago Socino     |             35 |
+|             13 | Mirco Spagnolo     |             56.52 |       17 |             19.85 | Jamal Ford-Robinson |             35 |
+|             28 | Giosue Zilocchi    |             72.27 |       18 |            nan    | Ciaran Knight       |             17 |
+|             39 | Niccolo Cannone    |             67.95 |       19 |             90.67 | Albert Tuisue       |             17 |
+|             20 | Edoardo Iachizzi   |             72.09 |       20 |             61.99 | Jack Clement        |             12 |
+|             31 | Alessandro Izekor  |             51.05 |       21 |              9.07 | Stephen Varney      |              9 |
+|             31 | Andy Uren          |             13.7  |       22 |             58.32 | Charlie Atkinson    |              0 |
+|             12 | Leonardo Marin     |             69.51 |       23 |             59.92 | Alex Hearle         |              0 |
 

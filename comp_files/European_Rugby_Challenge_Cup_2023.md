@@ -1,6 +1,6 @@
 ---  
 title: "European Rugby Challenge Cup 2023 Status"  
-date: 2024-05-06 6:00:00 -0500  
+date: 2024-05-09 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  

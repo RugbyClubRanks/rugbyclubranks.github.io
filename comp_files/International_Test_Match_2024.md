@@ -1,6 +1,6 @@
 ---  
 title: "International Test Match 2024 Status"  
-date: 2024-05-06 6:00:00 -0500  
+date: 2024-05-09 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -54,7 +54,7 @@ aside:
 | Club    |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
 | Finland |                   1 |    0.9 |              15.7831 |                   0.1 |                0.7 |                  4.4 |
-| Norway  |                   1 |    0.1 |             -15.7831 |                   0.1 |                0.3 |                  0.7 |
+| Norway  |                   1 |    0.1 |             -15.7831 |                   0.1 |                0.2 |                  0.7 |
 
 
 
@@ -82,7 +82,7 @@ aside:
 | Bulgaria               |               2 |    1   |             -19      |                   0   |                0   |                  4   |
 | Kazakhstan             |               2 |    1   |             -36      |                   0   |                0   |                  4   |
 | Denmark                |               1 |    0   |              -4      |                   1   |                0   |                  1   |
-| Norway                 |               2 |    0.1 |             -39.7831 |                   0.1 |                0.3 |                  0.7 |
+| Norway                 |               2 |    0.1 |             -39.7831 |                   0.1 |                0.2 |                  0.7 |
 | Cyprus                 |               1 |    0   |             -10      |                   0   |                0   |                  0   |
 | Senegal                |               1 |    0   |             -14      |                   0   |                0   |                  0   |
 | Serbia                 |               1 |    0   |             -23      |                   0   |                0   |                  0   |

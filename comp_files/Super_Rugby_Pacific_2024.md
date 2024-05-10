@@ -1,6 +1,6 @@
 ---  
 title: "Super Rugby Pacific 2024 Status"  
-date: 2024-05-06 6:00:00 -0500  
+date: 2024-05-09 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -37,16 +37,16 @@ aside:
 
 | Club                     |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Brumbies                 |                   4 |    3.6 |             29.8572  |                   0.4 |                1.2 |                 15.8 |
+| Brumbies                 |                   4 |    3.6 |             29.8572  |                   0.4 |                1.1 |                 15.8 |
 | Blues                    |                   4 |    3.5 |             36.9764  |                   0.4 |                1   |                 15.5 |
 | Queensland Reds          |                   4 |    3.3 |             26.138   |                   0.6 |                1.1 |                 15   |
-| Chiefs                   |                   4 |    2.8 |             25.1618  |                   0.8 |                1.1 |                 13.1 |
-| Hurricanes               |                   4 |    2.5 |             34.9647  |                   0.9 |                1.3 |                 12.3 |
+| Chiefs                   |                   4 |    2.8 |             25.1618  |                   0.8 |                1.1 |                 13.2 |
+| Hurricanes               |                   4 |    2.5 |             34.9647  |                   0.9 |                1.2 |                 12.2 |
 | Crusaders                |                   4 |    1.9 |              4.5898  |                   1.1 |                0.8 |                  9.6 |
 | New South Wales Waratahs |                   4 |    1.8 |             -3.55321 |                   1.6 |                0.4 |                  9   |
-| Fijian Drua              |                   4 |    1.5 |             -8.26615 |                   1.6 |                0.4 |                  8   |
+| Fijian Drua              |                   4 |    1.5 |             -8.26615 |                   1.6 |                0.3 |                  8   |
 | Western Force            |                   4 |    1.3 |            -14.0241  |                   1.3 |                0.2 |                  6.9 |
-| Highlanders              |                   4 |    1.1 |            -36.5317  |                   0.7 |                0.1 |                  5.1 |
+| Highlanders              |                   4 |    1.1 |            -36.5317  |                   0.7 |                0.2 |                  5.1 |
 | Melbourne Rebels         |                   4 |    0.4 |            -35.8113  |                   1.1 |                0.2 |                  2.8 |
 | Moana Pasifika           |                   4 |    0.3 |            -59.5014  |                   0.6 |                0   |                  1.7 |
 
@@ -58,13 +58,13 @@ aside:
 | Club                     |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
 | Blues                    |              14 |   12.5 |             241.976  |                   0.4 |                6   |                 56.5 |
-| Hurricanes               |              14 |   11.5 |             199.965  |                   0.9 |                7.3 |                 54.3 |
-| Brumbies                 |              14 |   11.6 |              72.8572 |                   0.4 |                4.2 |                 50.8 |
-| Chiefs                   |              14 |    9.8 |             178.162  |                   1.8 |                5.1 |                 46.1 |
+| Hurricanes               |              14 |   11.5 |             199.965  |                   0.9 |                7.2 |                 54.2 |
+| Brumbies                 |              14 |   11.6 |              72.8572 |                   0.4 |                4.1 |                 50.8 |
+| Chiefs                   |              14 |    9.8 |             178.162  |                   1.8 |                5.1 |                 46.2 |
 | Queensland Reds          |              14 |    8.3 |              88.138  |                   4.6 |                4.1 |                 42   |
 | Melbourne Rebels         |              14 |    5.4 |            -118.811  |                   1.1 |                4.2 |                 26.8 |
-| Fijian Drua              |              14 |    5.5 |             -66.2661 |                   2.6 |                0.4 |                 25   |
-| Highlanders              |              14 |    5.1 |            -111.532  |                   2.7 |                1.1 |                 24.1 |
+| Fijian Drua              |              14 |    5.5 |             -66.2661 |                   2.6 |                0.3 |                 25   |
+| Highlanders              |              14 |    5.1 |            -111.532  |                   2.7 |                1.2 |                 24.1 |
 | Crusaders                |              14 |    3.9 |             -26.4102 |                   5.1 |                1.8 |                 22.6 |
 | New South Wales Waratahs |              14 |    3.8 |             -87.5532 |                   5.6 |                0.4 |                 21   |
 | Western Force            |              14 |    3.3 |            -153.024  |                   3.3 |                0.2 |                 16.9 |

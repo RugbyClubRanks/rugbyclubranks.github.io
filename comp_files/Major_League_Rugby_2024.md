@@ -1,6 +1,6 @@
 ---  
 title: "Major League Rugby 2024 Status"  
-date: 2024-05-06 6:00:00 -0500  
+date: 2024-05-09 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -37,18 +37,18 @@ aside:
 
 | Club                   |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| New England Free Jacks |                   7 |    5.8 |             78.0523  |                   1   |                3.8 |                 28.2 |
+| New England Free Jacks |                   7 |    5.8 |             78.0523  |                   1   |                3.9 |                 28.3 |
 | Houston SaberCats      |                   7 |    5.6 |             73.7063  |                   1.1 |                4.5 |                 28   |
-| Chicago Hounds         |                   7 |    5.6 |             74.6808  |                   1   |                3.3 |                 26.6 |
-| Seattle Seawolves      |                   7 |    5.1 |             42.544   |                   1.4 |                3.5 |                 25.3 |
-| San Diego Legion       |                   7 |    4.6 |             52.0853  |                   1.9 |                3.2 |                 23.5 |
-| Utah Warriors          |                   7 |    3.8 |              9.1494  |                   1.9 |                2.2 |                 19.2 |
-| Miami Sharks           |                   7 |    3.7 |             16.2432  |                   1.7 |                2.3 |                 18.8 |
+| Chicago Hounds         |                   7 |    5.6 |             74.6808  |                   1   |                3.2 |                 26.5 |
+| Seattle Seawolves      |                   7 |    5.1 |             42.544   |                   1.4 |                3.4 |                 25.3 |
+| San Diego Legion       |                   7 |    4.6 |             52.0853  |                   1.9 |                3.2 |                 23.4 |
+| Utah Warriors          |                   7 |    3.8 |              9.1494  |                   1.9 |                2.2 |                 19.3 |
+| Miami Sharks           |                   7 |    3.7 |             16.2432  |                   1.7 |                2.2 |                 18.8 |
 | Dallas Jackals         |                   7 |    2.7 |            -15.5683  |                   2   |                1.8 |                 14.4 |
 | Old Glory DC           |                   7 |    2.3 |             -7.79591 |                   1.7 |                2.2 |                 13.1 |
 | NOLA Gold              |                   8 |    1.9 |            -41.1923  |                   3   |                1.9 |                 12.3 |
 | RFC Los Angeles        |                   8 |    2   |            -50.384   |                   1.5 |                2.1 |                 11.5 |
-| Anthem RC              |                   7 |    0   |           -231.521   |                   0.1 |                1.1 |                  1.2 |
+| Anthem RC              |                   7 |    0   |           -231.521   |                   0.1 |                1   |                  1.2 |
 
 
 
@@ -57,18 +57,18 @@ aside:
 
 | Club                   |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Seattle Seawolves      |              17 |   13.1 |             132.544  |                   2.4 |                3.5 |                 60.3 |
-| New England Free Jacks |              17 |   11.8 |             163.052  |                   3   |                3.8 |                 56.2 |
+| Seattle Seawolves      |              17 |   13.1 |             132.544  |                   2.4 |                3.4 |                 60.3 |
+| New England Free Jacks |              17 |   11.8 |             163.052  |                   3   |                3.9 |                 56.3 |
 | Houston SaberCats      |              15 |   12.6 |             153.706  |                   1.1 |                4.5 |                 56   |
-| Chicago Hounds         |              15 |   10.6 |             144.681  |                   2   |                3.3 |                 49.6 |
-| San Diego Legion       |              16 |   10.6 |              56.0853 |                   3.9 |                3.2 |                 49.5 |
-| Utah Warriors          |              16 |    7.8 |              19.1494 |                   4.9 |                2.2 |                 38.2 |
+| Chicago Hounds         |              15 |   10.6 |             144.681  |                   2   |                3.2 |                 49.5 |
+| San Diego Legion       |              16 |   10.6 |              56.0853 |                   3.9 |                3.2 |                 49.4 |
+| Utah Warriors          |              16 |    7.8 |              19.1494 |                   4.9 |                2.2 |                 38.3 |
 | Dallas Jackals         |              16 |    6.7 |              19.4317 |                   6   |                1.8 |                 34.4 |
 | Old Glory DC           |              16 |    6.3 |             -45.7959 |                   2.7 |                2.2 |                 30.1 |
-| Miami Sharks           |              16 |    5.7 |             -12.7568 |                   4.7 |                2.3 |                 29.8 |
+| Miami Sharks           |              16 |    5.7 |             -12.7568 |                   4.7 |                2.2 |                 29.8 |
 | NOLA Gold              |              16 |    5.9 |             -17.1923 |                   4   |                1.9 |                 29.3 |
 | RFC Los Angeles        |              16 |    3   |            -141.384  |                   3.5 |                2.1 |                 19.5 |
-| Anthem RC              |              16 |    0   |            -471.521  |                   0.1 |                1.1 |                  1.2 |
+| Anthem RC              |              16 |    0   |            -471.521  |                   0.1 |                1   |                  1.2 |
 
 
 

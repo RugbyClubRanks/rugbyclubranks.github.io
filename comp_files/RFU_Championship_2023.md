@@ -1,6 +1,6 @@
 ---  
 title: "RFU Championship 2023 Status"  
-date: 2024-05-06 6:00:00 -0500  
+date: 2024-05-09 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -36,18 +36,18 @@ aside:
 
 | Club                |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Ealing Trailfinders |                   2 |    2   |            28.3329   |                   0   |                1.5 |                  9.5 |
+| Ealing Trailfinders |                   2 |    2   |            28.3329   |                   0   |                1.6 |                  9.6 |
 | Jersey              |                   2 |    1.6 |            25.0498   |                   0.3 |                1.3 |                  8   |
-| Ampthill            |                   2 |    1.6 |            10.6112   |                   0.4 |                1.2 |                  7.9 |
+| Ampthill            |                   2 |    1.6 |            10.6112   |                   0.4 |                1.1 |                  7.9 |
 | Cornish Pirates     |                   2 |    1.4 |             7.78202  |                   0.5 |                0.9 |                  7.2 |
 | Hartpury College    |                   2 |    1.1 |             1.2935   |                   0.8 |                0.8 |                  5.9 |
 | Caldy               |                   2 |    0.9 |             0.336687 |                   0.5 |                0.8 |                  5.1 |
 | Coventry            |                   2 |    0.9 |            -1.14407  |                   0.8 |                0.5 |                  5.1 |
-| Nottingham          |                   2 |    1   |           -15.8303   |                   0   |                0.7 |                  4.6 |
+| Nottingham          |                   2 |    1   |           -15.8303   |                   0   |                0.6 |                  4.5 |
 | Bedford             |                   2 |    0.8 |           -12.057    |                   0.2 |                0.8 |                  4.4 |
 | Doncaster           |                   2 |    0.2 |           -14.9306   |                   0.7 |                0.7 |                  2.4 |
-| London Scottish     |                   2 |    0.2 |           -12.6611   |                   0.9 |                0.4 |                  2   |
-| Cambridge           |                   2 |    0.2 |           -16.7831   |                   0.7 |                0.4 |                  1.7 |
+| London Scottish     |                   2 |    0.2 |           -12.6611   |                   0.9 |                0.3 |                  2   |
+| Cambridge           |                   2 |    0.2 |           -16.7831   |                   0.7 |                0.4 |                  1.8 |
 
 
 
@@ -56,17 +56,17 @@ aside:
 
 | Club                |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Ealing Trailfinders |              20 |   17   |             395.333  |                   2   |                1.5 |                 85.5 |
+| Ealing Trailfinders |              20 |   17   |             395.333  |                   2   |                1.6 |                 85.6 |
 | Coventry            |              21 |   14.9 |             278.856  |                   2.8 |                0.5 |                 77.1 |
 | Cornish Pirates     |              20 |   14.4 |             164.782  |                   1.5 |                0.9 |                 72.2 |
 | Bedford             |              20 |   11.8 |              58.943  |                   4.2 |                0.8 |                 63.4 |
 | Hartpury College    |              21 |   11.1 |              66.2935 |                   4.8 |                0.8 |                 57.9 |
-| Ampthill            |              20 |   10.6 |             -24.3888 |                   2.4 |                1.2 |                 57.9 |
+| Ampthill            |              20 |   10.6 |             -24.3888 |                   2.4 |                1.1 |                 57.9 |
 | Doncaster           |              20 |   10.2 |             -13.9306 |                   2.7 |                0.7 |                 54.4 |
-| Nottingham          |              21 |    8   |            -158.83   |                   2   |                0.7 |                 46.6 |
-| London Scottish     |              20 |    4.2 |            -104.661  |                   6.9 |                0.4 |                 34   |
+| Nottingham          |              21 |    8   |            -158.83   |                   2   |                0.6 |                 46.5 |
+| London Scottish     |              20 |    4.2 |            -104.661  |                   6.9 |                0.3 |                 34   |
 | Caldy               |              21 |    4.9 |            -263.663  |                   1.5 |                0.8 |                 30.1 |
-| Cambridge           |              20 |    2.2 |            -423.783  |                   4.7 |                5.4 |                 18.7 |
+| Cambridge           |              20 |    2.2 |            -423.783  |                   4.7 |                5.4 |                 18.8 |
 | Jersey              |               2 |    1.6 |              25.0498 |                   0.3 |                1.3 |                  8   |
 
 

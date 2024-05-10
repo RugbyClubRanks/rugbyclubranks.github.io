@@ -2,14 +2,14 @@
 layout: page  
 title: Crusaders at Highlanders  
 date: 2024-05-11 18:00:00 -0500  
-categories: "Super Rugby Pacific 2024" match projection imputed  
+categories: "Super Rugby Pacific 2024" match projection  
 ---
 # Crusaders at Highlanders
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.424, which translates to predicting Crusaders to win by 2.6.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.328, which translates to predicting Crusaders to win by 2.6.
 
 Our Over/Under is 69.5 - and combined with the spread above, we have a predicted scoreline of 36 to 34
 
@@ -35,12 +35,61 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 <img src="../comp_files/plots/resultbar_2024-05-11-Highlanders_V_Crusaders.png" width="99%" />
 </p>
 
-# Player Level Predictions - Version 2
+# Player Level Predictions
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Imputed Lineups: Crusaders by 1.5
+## Prediction without Player Minutes: Crusaders by 7.7
 
 
-Crusaders by 6.2 on a neutral pitch
+Crusaders by 12.4 on a neutral pitch
+
+
+## Projected Performances - Player Model
+
+
+<p float="left">
+<img src="plots/performances_plr_2024-05-11-Highlanders-Crusaders.png" width="99%" />
+</p>
+
+## Projected Spreads - Player Model
+
+
+<p float="left">
+<img src="plots/spreads_plr_2024-05-11-Highlanders-Crusaders.png" width="99%" />
+</p>
+
+## Projected Results - Player Model
+
+
+<p float="left">
+<img src="plots/resultbar_plr_2024-05-11-Highlanders-Crusaders.png" width="99%" />
+</p>
+
+
+| Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player                   |
+|:---------------------|------------------:|---------:|------------------:|:------------------------------|
+| Tamaiti Williams     |             84.91 |        1 |             54.31 | Ethan de Groot                |
+| Codie Taylor         |             99.17 |        2 |             21.1  | Henry Bell                    |
+| Fletcher Newell      |              1.31 |        3 |             62.76 | Jermaine Ainsley              |
+| Scott Barrett        |             94.64 |        4 |             86.05 | Mitchell Dunshea              |
+| Quinten Strange      |             90.5  |        5 |             72.7  | Fabian Holland                |
+| Cullen Grace         |             80.04 |        6 |             56.97 | Oliver Haig                   |
+| Corey Kellow         |             65.9  |        7 |             11.13 | Sean Withy                    |
+| Christian Lio-Willie |             36.09 |        8 |             21.52 | Nikora Broughton              |
+| Noah Hotham          |             64.77 |        9 |             63.17 | Folau Fakatava                |
+| David Havili         |             93.3  |       10 |             61.99 | Cameron Millar                |
+| Sevu Reece           |             82.28 |       11 |             61.57 | Martin Bogado                 |
+| Dallas McLeod        |             62.87 |       12 |             16.56 | Jake Te Hiwi                  |
+| Levi Aumua           |             68.46 |       13 |             43.78 | Tanielu Tele'a                |
+| Chay Fihaki          |             11.54 |       14 |             18.49 | Timoci Tavatavanawai          |
+| Johnny McNicholl     |             82.87 |       15 |             95.51 | Jacob Ratumaitavuki-Kneepkens |
+| George Bell          |              8.97 |       16 |             51.5  | Jack Taylor                   |
+| George Bower         |              6.89 |       17 |             94.75 | Ayden Johnstone               |
+| Owen Franks          |             76.54 |       18 |             29.12 | Saula Ma'u                    |
+| Jamie Hannah         |             31.24 |       19 |             12.54 | Will Tucker                   |
+| Tom Christie         |             60.68 |       20 |            nan    | Will Stodart                  |
+| Mitchell Drummond    |             87.72 |       21 |              5.16 | James Arscott                 |
+| Rivez Reihana        |             52.27 |       22 |             14.24 | Sam Gilbert                   |
+| Macca Springer       |             21.88 |       23 |            nan    | Finn Hurley                   |
 

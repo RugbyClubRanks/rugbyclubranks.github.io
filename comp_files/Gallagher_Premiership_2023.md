@@ -1,6 +1,6 @@
 ---  
 title: "Gallagher Premiership 2023 Status"  
-date: 2024-05-06 6:00:00 -0500  
+date: 2024-05-09 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -38,15 +38,15 @@ aside:
 | Club               |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
 | Bath Rugby         |                   2 |    1.6 |             8.20399  |                   0.4 |                0.8 |                  7.5 |
-| Northampton Saints |                   2 |    1.4 |             7.15336  |                   0.6 |                0.7 |                  6.7 |
+| Northampton Saints |                   2 |    1.4 |             7.15336  |                   0.6 |                0.7 |                  6.8 |
 | Saracens           |                   2 |    1.4 |             5.8457   |                   0.6 |                0.5 |                  6.6 |
 | Harlequins         |                   2 |    1.1 |             0.894696 |                   0.8 |                0.7 |                  5.7 |
 | Gloucester Rugby   |                   2 |    1   |             3.01909  |                   0.4 |                0.7 |                  5.1 |
 | Leicester Tigers   |                   2 |    1   |            -0.458976 |                   0.8 |                0.4 |                  5.1 |
-| Exeter Chiefs      |                   2 |    1   |            -0.560881 |                   0.9 |                0.5 |                  5.1 |
+| Exeter Chiefs      |                   2 |    1   |            -0.560881 |                   0.9 |                0.4 |                  5.1 |
 | Sale Sharks        |                   2 |    0.9 |            -2.07549  |                   0.7 |                0.4 |                  4.7 |
 | Bristol Rugby      |                   2 |    0.7 |            -3.64504  |                   1   |                0.6 |                  4.5 |
-| Newcastle Falcons  |                   2 |    0.1 |           -18.3764   |                   0.5 |                0.2 |                  1   |
+| Newcastle Falcons  |                   2 |    0.1 |           -18.3764   |                   0.5 |                0.3 |                  1.1 |
 
 
 
@@ -56,16 +56,16 @@ aside:
 | Club               |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
 | Saracens           |              19 |   12.4 |            174.846   |                   2.6 |               10.5 |                 62.6 |
-| Northampton Saints |              18 |   12.4 |             50.1534  |                   2.6 |                9.7 |                 61.7 |
+| Northampton Saints |              18 |   12.4 |             50.1534  |                   2.6 |                9.7 |                 61.8 |
 | Bath Rugby         |              19 |   10.6 |             64.204   |                   5.4 |                0.8 |                 59.5 |
-| Exeter Chiefs      |              20 |   11   |             69.4391  |                   1.9 |                0.5 |                 57.1 |
+| Exeter Chiefs      |              20 |   11   |             69.4391  |                   1.9 |                0.4 |                 57.1 |
 | Harlequins         |              20 |   10.1 |            -21.1053  |                   4.8 |                0.7 |                 56.7 |
 | Bristol Rugby      |              19 |   10.7 |            136.355   |                   3   |                0.6 |                 55.5 |
 | Sale Sharks        |              18 |   10.9 |              4.92451 |                   1.7 |                6.4 |                 51.7 |
 | Leicester Tigers   |              19 |    9   |             17.541   |                   4.8 |                0.4 |                 47.1 |
 | Gloucester Rugby   |              19 |    5   |           -141.981   |                   4.4 |                0.7 |                 34.1 |
+| Newcastle Falcons  |              20 |    0.1 |           -354.376   |                   4.5 |                0.3 |                  8.1 |
 | Worcester Warriors |               4 |    2   |              0       |                   0   |                0   |                  8   |
-| Newcastle Falcons  |              20 |    0.1 |           -354.376   |                   4.5 |                0.2 |                  8   |
 | Wasps              |               3 |    1   |              0       |                   0   |                0   |                  6   |
 
 

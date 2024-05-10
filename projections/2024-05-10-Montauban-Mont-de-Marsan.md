@@ -35,12 +35,12 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 <img src="../comp_files/plots/resultbar_2024-05-10-Montauban_V_Mont-de-Marsan.png" width="99%" />
 </p>
 
-# Player Level Predictions - Version 2
+# Player Level Predictions
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
 ## Prediction with Imputed Lineups: Montauban by 1.0
 
 
-Mont-de-Marsan by 5.7 on a neutral pitch
+Mont-de-Marsan by 5.6 on a neutral pitch
 
