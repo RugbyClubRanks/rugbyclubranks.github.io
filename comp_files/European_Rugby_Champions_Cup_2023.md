@@ -1,6 +1,6 @@
 ---  
 title: "European Rugby Champions Cup 2023 Status"  
-date: 2024-05-10 6:00:00 -0500  
+date: 2024-05-13 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -47,7 +47,7 @@ aside:
 | Stormers V Sale Sharks on 2024/01/13                  |        7 |                 4.7 |                  4.7 |               3.5 |
 | Exeter Chiefs V Glasgow Warriors on 2024/01/13        |        2 |                 1.6 |                 -0.6 |               6.7 |
 | Cardiff Blues V Harlequins on 2024/01/13              |      -39 |                -6   |                 -3.9 |              -1.7 |
-| Ulster V Stade Toulousain on 2024/01/13               |      -24 |               -29.8 |                -27.9 |               0.9 |
+| Ulster V Stade Toulousain on 2024/01/13               |      -24 |               -29.8 |                -27.9 |               1.1 |
 | Bristol Rugby V Bulls on 2024/01/13                   |      -14 |                -7   |                 -5.2 |              -0.1 |
 | Toulon V Munster on 2024/01/13                        |      -11 |                 3.1 |                  2.4 |               3.1 |
 | La Rochelle V Leicester Tigers on 2024/01/14          |       33 |                 9.3 |                  7.4 |               5.8 |
@@ -55,7 +55,7 @@ aside:
 | Bath Rugby V Racing 92 on 2024/01/14                  |        4 |                 1.9 |                  1.6 |               4   |
 | Connacht V Bristol Rugby on 2024/01/19                |       17 |                -0.9 |                 -0.7 |               4.1 |
 | Glasgow Warriors V Toulon on 2024/01/19               |       24 |                11   |                  9.9 |               3.7 |
-| Harlequins V Ulster on 2024/01/20                     |       28 |                15.4 |                 13.3 |               4.7 |
+| Harlequins V Ulster on 2024/01/20                     |       28 |                15.4 |                 13.3 |               4.6 |
 | Leicester Tigers V Leinster on 2024/01/20             |      -17 |               -16.8 |                -16.5 |              -2.3 |
 | Racing 92 V Cardiff Blues on 2024/01/20               |       22 |                14.5 |                 12.6 |              11.2 |
 | Munster V Northampton Saints on 2024/01/20            |       -3 |                -2.3 |                 -3   |               6.9 |

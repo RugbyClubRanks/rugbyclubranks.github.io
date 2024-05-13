@@ -1,6 +1,6 @@
 ---  
 title: "European Rugby Challenge Cup 2023 Status"  
-date: 2024-05-10 6:00:00 -0500  
+date: 2024-05-13 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -41,11 +41,11 @@ aside:
 | Sharks V Oyonnax on 2024/01/13                        |       31 |                12.3 |                 11.5 |               6.7 |
 | Castres Olympique V Black Lion on 2024/01/13          |       22 |                -7.5 |                 -5.2 |               3.1 |
 | Zebre V Dragons on 2024/01/13                         |        3 |                -2.5 |                 -1.9 |               0.1 |
-| Edinburgh V Gloucester Rugby on 2024/01/13            |       -1 |                12.7 |                 10.1 |               6.2 |
+| Edinburgh V Gloucester Rugby on 2024/01/13            |       -1 |                12.7 |                 10.1 |               6.1 |
 | Montpellier Herault V Lions on 2024/01/13             |       10 |                 1.8 |                  2.6 |               2   |
 | Cheetahs V Pau on 2024/01/14                          |      -13 |                11   |                 10.3 |               3.5 |
 | Gloucester Rugby V Castres Olympique on 2024/01/19    |       30 |                 0.9 |                  0   |               3.8 |
-| Scarlets V Edinburgh on 2024/01/19                    |      -12 |               -17.8 |                -16.2 |              -2.5 |
+| Scarlets V Edinburgh on 2024/01/19                    |      -12 |               -17.8 |                -16.2 |              -2.4 |
 | Pau V Zebre on 2024/01/20                             |        1 |                 8.2 |                  7.8 |              15.4 |
 | Black Lion V Clermont Auvergne on 2024/01/20          |      -33 |                 5.5 |                  6.1 |               5.4 |
 | Benetton Treviso V Montpellier Herault on 2024/01/20  |        8 |                 5.3 |                  3.8 |               3.8 |
@@ -56,14 +56,14 @@ aside:
 | Gloucester Rugby V Castres Olympique on 2024/04/05    |        5 |                 6   |                  4.7 |               5.5 |
 | Clermont Auvergne V Cheetahs on 2024/04/06            |        5 |                 6.2 |                  5.3 |               9.5 |
 | Benetton Treviso V Lions on 2024/04/06                |       10 |                 5.1 |                  4.6 |               2   |
-| Edinburgh V Bayonne on 2024/04/06                     |       18 |                15   |                 14   |               5.5 |
+| Edinburgh V Bayonne on 2024/04/06                     |       18 |                15   |                 14   |               5.4 |
 | Ospreys V Sale Sharks on 2024/04/06                   |        8 |                -2.9 |                 -1.7 |               1   |
-| Montpellier Herault V Ulster on 2024/04/07            |      -23 |                 2.3 |                  2.2 |               4   |
+| Montpellier Herault V Ulster on 2024/04/07            |      -23 |                 2.5 |                  2.4 |               3.9 |
 | Sharks V Zebre on 2024/04/07                          |       44 |                16.3 |                 14.5 |              15.4 |
 | Pau V Connacht on 2024/04/07                          |      -10 |                -7   |                 -6.3 |               3.9 |
 | Gloucester Rugby V Ospreys on 2024/04/12              |       10 |                 2.8 |                  1.9 |               6.1 |
-| Clermont Auvergne V Ulster on 2024/04/13              |       39 |                -2.2 |                 -0.6 |               4   |
-| Sharks V Edinburgh on 2024/04/13                      |        6 |                -0.7 |                 -0.7 |               4.5 |
+| Clermont Auvergne V Ulster on 2024/04/13              |       39 |                -2.2 |                 -0.6 |               3.9 |
+| Sharks V Edinburgh on 2024/04/13                      |        6 |                -0.7 |                 -0.7 |               4.6 |
 | Benetton Treviso V Connacht on 2024/04/14             |       15 |                 3.6 |                  3.8 |               3.8 |
 | Sharks V Clermont Auvergne on 2024/05/04              |        1 |                 7.1 |                  6.9 |               3.8 |
 | Gloucester Rugby V Benetton Treviso on 2024/05/04     |       17 |                -7.1 |                 -5.2 |               4.2 |

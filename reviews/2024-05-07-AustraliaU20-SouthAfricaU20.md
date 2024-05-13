@@ -11,7 +11,7 @@ categories: "Rugby Championship U20 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.654, which translates to predicting Australia U20 to win by 6.9.
 
-Our Over/Under is 72.5 - and combined with the spread above, we have a predicted scoreline of 33 to 40
+Our Over/Under is 54.5 - and combined with the spread above, we have a predicted scoreline of 24 to 31
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,28 +69,28 @@ Australia U20 by 0.9 on a neutral pitch
 
 |   Away Minutes | Away Player               |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:--------------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|           80   | Mbasa Maqubela            |             42.82 |        1 |             83.76 | Angus Bell          |             57 |
-|           32.5 | Ethan Bester              |             47.5  |        2 |             38.67 | Ottavio Tuipulotu   |             40 |
-|           57   | Reno Hirst                |             42.74 |        3 |             38.97 | Nick Bloomfield     |             51 |
-|           80   | Batho Hlekani             |             48.43 |        4 |             28.41 | Toby Macpherson     |             80 |
-|           80   | JF van Heerden            |             38.22 |        5 |             47.22 | Ollie Mccrea        |             20 |
-|           24   | Divan Fuller              |             40.52 |        6 |             37.81 | Ben Di Staso        |             80 |
-|           52   | Keanu Coetsee             |             39.92 |        7 |             45.04 | Dane Sawers         |             80 |
-|           52   | Tiaan Jacobs              |             43.7  |        8 |             25.22 | Jack Harley         |             80 |
-|           73   | Asad Moos                 |             47.6  |        9 |             46.54 | Hwi Sharples        |             69 |
-|           80   | Thurlon Williams          |             38.58 |       10 |             37.93 | Cullen Gray         |             54 |
-|           32.5 | Litelihle Bester          |             45.45 |       11 |             42.64 | Angus Staniforth    |             80 |
-|           65   | Philip-Albert Van Niekerk |             37.83 |       12 |             25.5  | Ronan Leahy         |             80 |
-|           80   | Jurenzo Julius            |             41.31 |       13 |             42.68 | Frankie Goldsbrough |             80 |
-|           80   | Joshua Boulle             |             44.57 |       14 |             48.16 | Kauri Tipene-Grace  |             64 |
-|           40   | Michail Damon             |             40.34 |       15 |             25.32 | Shane Wilcox        |             80 |
-|           15   | Cj Erasmus                |            nan    |       16 |             26.5  | Bryn Edwards        |             40 |
+|           80   | Mbasa Maqubela            |             42.87 |        1 |             79.54 | Angus Bell          |             57 |
+|           32.5 | Ethan Bester              |             46.88 |        2 |             28.78 | Ottavio Tuipulotu   |             40 |
+|           57   | Reno Hirst                |             42.79 |        3 |             24.12 | Nick Bloomfield     |             51 |
+|           80   | Batho Hlekani             |             45.16 |        4 |             17.39 | Toby Macpherson     |             80 |
+|           80   | JF van Heerden            |             39.3  |        5 |             45.93 | Ollie Mccrea        |             20 |
+|           24   | Divan Fuller              |             41.11 |        6 |             38.54 | Ben Di Staso        |             80 |
+|           52   | Keanu Coetsee             |             40.61 |        7 |             34.09 | Dane Sawers         |             80 |
+|           52   | Tiaan Jacobs              |             44.35 |        8 |             19.4  | Jack Harley         |             80 |
+|           73   | Asad Moos                 |             48.34 |        9 |             46.77 | Hwi Sharples        |             69 |
+|           80   | Thurlon Williams          |             40.51 |       10 |             39.66 | Cullen Gray         |             54 |
+|           32.5 | Litelihle Bester          |             46.38 |       11 |             22.1  | Angus Staniforth    |             80 |
+|           65   | Philip-Albert Van Niekerk |             41.79 |       12 |             15.67 | Ronan Leahy         |             80 |
+|           80   | Jurenzo Julius            |             42.69 |       13 |             43.01 | Frankie Goldsbrough |             80 |
+|           80   | Joshua Boulle             |             40.9  |       14 |             47.83 | Kauri Tipene-Grace  |             64 |
+|           40   | Michail Damon             |             40.56 |       15 |             25.75 | Shane Wilcox        |             80 |
+|           15   | Cj Erasmus                |            nan    |       16 |             25.82 | Bryn Edwards        |             40 |
 |           56   | Liyema Ntshanga           |            nan    |       17 |            nan    | Lington Ieli        |             23 |
-|           23   | Casper Badenhorst         |            nan    |       18 |             25.51 | Tevita Alatini      |             29 |
-|           28   | Adam De Waal              |             48.13 |       19 |             28.01 | Harvey Cordukes     |             60 |
-|           28   | Thabang Mphafi            |            nan    |       20 |             20.46 | Joe Liddy           |              0 |
-|            7   | Hassiem Pead              |            nan    |       21 |             25.04 | Doug Philipson      |             11 |
-|           15   | Bruce Sherwood            |             42.26 |       22 |             24.35 | Joey Fowler         |             26 |
-|           40   | Jc Mars                   |            nan    |       23 |            nan    | Divad Palu          |             16 |
+|           23   | Casper Badenhorst         |            nan    |       18 |             25.75 | Tevita Alatini      |             29 |
+|           28   | Adam De Waal              |             46.73 |       19 |             18.79 | Harvey Cordukes     |             60 |
+|           28   | Thabang Mphafi            |            nan    |       20 |             20.55 | Joe Liddy           |              0 |
+|            7   | Hassiem Pead              |            nan    |       21 |             17.45 | Doug Philipson      |             11 |
+|           15   | Bruce Sherwood            |             42.7  |       22 |             25.8  | Joey Fowler         |             26 |
+|           40   | Jc Mars                   |            nan    |       23 |             28.29 | Divad Palu          |             16 |
 |          nan   | nan                       |            nan    |       24 |            nan    |                     |              0 |
 
