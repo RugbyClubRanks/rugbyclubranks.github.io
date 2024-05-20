@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Model Accuracies  
-date: 2024-05-13 6:00:00 -0500  
+date: 2024-05-20 6:00:00 -0500  
 categories: model  
 ---
 
@@ -10,9 +10,9 @@ This project involves many models, retrained many times and then making new proj
 I have two distinct predictions for each match - a prediction of which team wins, and a prediction of the winning margin. This is essentially a classification problem to predict the winner, and a regression problem to predict the margin (with negative predictions favoring the away team).
 As such, I can use some different measures for each task. For the binary prediction, I can use accuracy and Brier scores, and for the score prediction I can use metrics like RMSE and MAE.
 
-Currently I have three different models that generate predictions on this site. Each of these three generates predictions for winners and margins of each match where enough data is available.
+Currently I have two different models that generate predictions on this site. Each of these three generates predictions for winners and margins of each match where enough data is available.
 The first model, which requires the least amount of information to make a prediction, assigns glicko-style scores to each named club and uses those to predict outcomes for each match. This allows for predictions far into the future, but also cannot differentiate between a side named by a club to play in a competition's playoff (likely a side full strength) and a side named by that same club to play the week previous in a tune up match with no playoff repercussions (that likely excludes some strong players to rest them).
-The other two models seek to address that issue by assigning elo-style (for V1) or glicko-style (for V2) scores to each player, then combining these player scores together to generate scores for any named side. This can be weighted by minutes played by the players after the match is completed, but to predict a match these minutes would need to be predicted as well, adding in some extra uncertainty. However, these models cannot predict matches until clubs name sides. Theoretically, they could be fed likely lineups for each club, but predicting lineups is another issue altogether and I don't want to try to guess what team Eddie Jones might name each week.
+The other model seeks to address that issue by assigning glicko-style scores to each player, then combining these player scores together to generate scores for any named side. This can be weighted by minutes played by the players after the match is completed, but to predict a match these minutes would need to be predicted as well, adding in some extra uncertainty. However, these models cannot predict matches until clubs name sides. Theoretically, they could be fed likely lineups for each club, but predicting lineups is another issue altogether and I don't want to try to guess what team Eddie Jones might name each week.
     
 # Binary Prediction: Match Winners
 
@@ -72,9 +72,8 @@ This drastically increases the complexity, but also allows the chance to forecas
     
 
 <p float="left">
-<img src="reviews/plots/club_comp_rmse_skills.png" width="32%" />
-<img src="reviews/plots/v1_comp_rmse_skills.png" width="32%" />
-<img src="reviews/plots/v2_comp_rmse_skills.png" width="32%" />
+<img src="reviews/plots/club_comp_rmse_skills.png" width="49%" />
+<img src="reviews/plots/v2_comp_rmse_skills.png" width="49%" />
 </p>
 
 
