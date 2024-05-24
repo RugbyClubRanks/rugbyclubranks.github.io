@@ -69,27 +69,27 @@ Bristol Rugby by 1.6 on a neutral pitch
 
 |   Away Minutes | Away Player                |   Away Percentile |   Number |   Home Percentile | Home Player               |   Home Minutes |
 |---------------:|:---------------------------|------------------:|---------:|------------------:|:--------------------------|---------------:|
-|             37 | Ellis Genge                |             79.38 |        1 |             20.95 | Fin Baxter                |             60 |
-|             57 | Harry Thacker              |             88.85 |        2 |              7.54 | Jack Walker               |             72 |
-|             57 | Kyle Sinckler              |             93.81 |        3 |             91.69 | Will Collier              |             51 |
-|             73 | James Dun                  |             93.82 |        4 |             54.2  | Irne Herbst               |             68 |
-|             80 | Joe Batley                 |             88.65 |        5 |             71.43 | Stephan Lewies            |             80 |
-|             80 | Steven Luatua              |             99.51 |        6 |             70.08 | Chandler Cunningham-South |             51 |
+|             37 | Ellis Genge                |             79.36 |        1 |             20.96 | Fin Baxter                |             60 |
+|             57 | Harry Thacker              |             88.85 |        2 |              7.7  | Jack Walker               |             72 |
+|             57 | Kyle Sinckler              |             93.8  |        3 |             91.68 | Will Collier              |             51 |
+|             73 | James Dun                  |             93.81 |        4 |             54.16 | Irne Herbst               |             68 |
+|             80 | Joe Batley                 |             88.64 |        5 |             71.4  | Stephan Lewies            |             80 |
+|             80 | Steven Luatua              |             99.61 |        6 |             70.08 | Chandler Cunningham-South |             51 |
 |             80 | Fitz Harding               |             94.98 |        7 |             71.95 | Will Evans                |             80 |
 |             73 | Magnus Bradbury            |             65.06 |        8 |             82.64 | Alex Dombrandt            |             80 |
 |             75 | Harry Randall              |             95.29 |        9 |             99.48 | Danny Care                |             51 |
 |             37 | Callum Sheedy              |             79.62 |       10 |             80.25 | Marcus Smith              |             80 |
 |             80 | Gabriel Ibitoye            |             93.65 |       11 |             51.25 | Oscar Beard               |             80 |
-|             80 | James Williams             |             77.75 |       12 |             98.43 | Andre Esterhuizen         |             49 |
-|              4 | Benhard Janse van Rensburg |             93.6  |       13 |             72.61 | Luke Northmore            |             80 |
+|             80 | James Williams             |             77.67 |       12 |             98.43 | Andre Esterhuizen         |             49 |
+|              4 | Benhard Janse van Rensburg |             93.61 |       13 |             72.64 | Luke Northmore            |             80 |
 |             80 | Noah Heward                |             89.13 |       14 |             78.75 | Louis Lynagh              |             60 |
 |             80 | Max Malins                 |             62.61 |       15 |             57.69 | Tyrone Green              |             80 |
 |             23 | Gabriel Oghre              |             67.38 |       16 |             70    | Sam Riley                 |              8 |
-|             43 | Jake Woolmore              |             81.58 |       17 |             29.1  | Simon Kerrod              |             20 |
-|             23 | Max Lahiff                 |             57.38 |       18 |             94.95 | Dillon Lewis              |             29 |
-|              7 | Josh Caulfield             |             16.41 |       19 |             20.67 | George Hammond            |             12 |
+|             43 | Jake Woolmore              |             81.57 |       17 |             29.12 | Simon Kerrod              |             20 |
+|             23 | Max Lahiff                 |             57.42 |       18 |             94.94 | Dillon Lewis              |             29 |
+|              7 | Josh Caulfield             |             16.43 |       19 |             20.69 | George Hammond            |             12 |
 |              7 | Benjamin Grondona          |            nan    |       20 |             92.81 | James Chisholm            |             29 |
 |              5 | Kieran Marmion             |             89.53 |       21 |             23.04 | Will Porter               |             29 |
-|             76 | Virimi Vakatawa            |             94.02 |       22 |             89.17 | Jarrod Evans              |             20 |
-|             43 | Ratu Naulago               |             64.13 |       23 |             74.29 | Will Joseph               |             31 |
+|             76 | Virimi Vakatawa            |             94.03 |       22 |             89.17 | Jarrod Evans              |             20 |
+|             43 | Ratu Naulago               |             64.13 |       23 |             74.32 | Will Joseph               |             31 |
 

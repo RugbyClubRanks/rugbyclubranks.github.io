@@ -11,7 +11,7 @@ categories: "Pro D2 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.767, which translates to predicting Mont-de-Marsan to win by 10.5.
 
-Our Over/Under is 62.5 - and combined with the spread above, we have a predicted scoreline of 26 to 36
+Our Over/Under is 61.5 - and combined with the spread above, we have a predicted scoreline of 25 to 36
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Mont-de-Marsan by 1.5 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player               |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:--------------------------|---------------:|
-|             62 | Elias El Ansari    |             35.94 |        1 |              5.46 | Jean-Luc Innocente        |             62 |
+|             62 | Elias El Ansari    |             36.05 |        1 |              5.46 | Jean-Luc Innocente        |             62 |
 |             55 | Jeremie Maurouard  |              4.59 |        2 |             97.21 | Torsten van Jaarsveld     |             58 |
-|             62 | Soso Bekoshvili    |             81.34 |        3 |              3.42 | Anthony Alves             |             52 |
-|             80 | Jean Leleu         |             25.84 |        4 |             73.76 | Romain Durand             |             80 |
-|             67 | Will Witty         |             61.4  |        5 |             10.33 | Myles Edwards             |             45 |
+|             62 | Soso Bekoshvili    |             81.32 |        3 |              3.43 | Anthony Alves             |             52 |
+|             80 | Jean Leleu         |             25.86 |        4 |             73.73 | Romain Durand             |             80 |
+|             67 | Will Witty         |             61.36 |        5 |             10.34 | Myles Edwards             |             45 |
 |             26 | Lucas Costa        |             59.65 |        6 |             47.54 | Aurélien Lisena           |             80 |
 |             80 | Samuel Maximin     |             58.46 |        7 |             80.31 | Leo Banos                 |             55 |
 |             80 | Abdelkarim Fofana  |             69.25 |        8 |             52.51 | Veresa Tuqovu Ramototabua |             80 |
 |             52 | Florent Campeggia  |             67.54 |        9 |             26.35 | Nicolas Darquier          |             50 |
 |             80 | Franck Pourteau    |             90.87 |       10 |             14.65 | Joris Pialot              |             41 |
 |             80 | Paul Vallee        |             76.73 |       11 |             48.27 | Semi Lagivala             |             45 |
-|             80 | JT Jackson         |             45.86 |       12 |             71.56 | Jules Even                |             80 |
-|             52 | Opetera Peleseuma  |              9.13 |       13 |             82.58 | Nacani Wakaya             |             80 |
+|             80 | JT Jackson         |             45.91 |       12 |             71.59 | Jules Even                |             80 |
+|             52 | Opetera Peleseuma  |              9.12 |       13 |             82.6  | Nacani Wakaya             |             80 |
 |             41 | Benito Masilevu    |             87.5  |       14 |              9.9  | Simao Broeiro Bento       |             80 |
 |             80 | Baptiste Mouchous  |             89.32 |       15 |             39.53 | Théo Cortes               |             80 |
 |             54 | Willy N'Diaye      |              3.05 |       16 |             87.69 | Willie du Plessis         |             39 |
-|             39 | Pablo Patilla      |             44.18 |       17 |             52.18 | Jules Dussutour           |             35 |
-|             28 | Pete Lydon         |             84.4  |       18 |             46.27 | Gatien Masse              |             35 |
+|             39 | Pablo Patilla      |             44.23 |       17 |             52.13 | Jules Dussutour           |             35 |
+|             28 | Pete Lydon         |             84.4  |       18 |             46.33 | Gatien Masse              |             35 |
 |             28 | Maxime Sidobre     |             76.96 |       19 |             35.08 | Kevin Viallard            |             30 |
-|             25 | Efi Ma'afu         |             35.74 |       20 |             78.32 | Gheorghe Gajion           |             28 |
-|             18 | Antoine Fournier   |             71.64 |       21 |             81.5  | William Wavrin            |             25 |
-|             18 | Cody Thomas        |             46.13 |       22 |             47.54 | Samuel Lagrange           |             22 |
-|             13 | John-Charles Astle |             55.32 |       23 |             33.17 | Thomas Bultel             |             18 |
+|             25 | Efi Ma'afu         |             35.74 |       20 |             78.3  | Gheorghe Gajion           |             28 |
+|             18 | Antoine Fournier   |             71.62 |       21 |             81.5  | William Wavrin            |             25 |
+|             18 | Cody Thomas        |             46    |       22 |             47.54 | Samuel Lagrange           |             22 |
+|             13 | John-Charles Astle |             55.27 |       23 |             33.2  | Thomas Bultel             |             18 |
 

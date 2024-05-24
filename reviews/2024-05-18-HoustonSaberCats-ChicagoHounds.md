@@ -11,7 +11,7 @@ categories: "Major League Rugby 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.687, which translates to predicting Houston SaberCats to win by 7.1.
 
-Our Over/Under is 58.5 - and combined with the spread above, we have a predicted scoreline of 26 to 33
+Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 22 to 29
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Chicago Hounds by 8.8 on a neutral pitch
 
 |   Away Minutes | Away Player             |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:------------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             80 | Charlie Abel            |             69.44 |        1 |             84.76 | Ezekiel Lindenmuth |             80 |
+|             80 | Charlie Abel            |             69.41 |        1 |             84.75 | Ezekiel Lindenmuth |             80 |
 |             80 | Dylan Fawsitt           |             99.02 |        2 |             47.05 | Pita Anae Ah-Sue   |             80 |
-|             80 | Paddy Ryan              |             51.51 |        3 |             57.86 | Maks Van Dyk       |             80 |
-|             80 | George Merrick          |             39.72 |        4 |             72.44 | Johan Momsen       |             80 |
-|             80 | James Scott             |             80.04 |        5 |             63.83 | Nathan Den Hoedt   |             80 |
+|             80 | Paddy Ryan              |             51.39 |        3 |             57.83 | Maks Van Dyk       |             80 |
+|             80 | George Merrick          |             39.76 |        4 |             72.41 | Johan Momsen       |             80 |
+|             80 | James Scott             |             80.02 |        5 |             63.79 | Nathan Den Hoedt   |             80 |
 |             80 | Ben Landry              |             73.43 |        6 |             69    | Marno Redelinghuys |             80 |
 |             80 | Maclean Jones           |             67.81 |        7 |             71.06 | Keni Nasoqeqe      |             80 |
 |             80 | Conall Boomer           |             50.63 |        8 |             77.82 | Ronan Murphy       |             80 |
 |             80 | Nick McCarthy           |             60.38 |        9 |             72.08 | André Riaan Warner |             80 |
-|             80 | Adriaan Carelse         |             66.24 |       10 |             70.49 | Aj Alatimu         |             80 |
+|             80 | Adriaan Carelse         |             66.45 |       10 |             70.49 | Aj Alatimu         |             80 |
 |             80 | Julián Dominguez Widmer |             49.52 |       11 |             77.98 | Line Latu          |             80 |
-|             80 | Bryce Campbell          |             56.45 |       12 |             75.13 | Sam Hill           |             80 |
-|             80 | Mark O'Keeffe           |             34    |       13 |             62.01 | Dominic Akina      |             80 |
+|             80 | Bryce Campbell          |             56.39 |       12 |             75.16 | Sam Hill           |             80 |
+|             80 | Mark O'Keeffe           |             33.96 |       13 |             62.05 | Dominic Akina      |             80 |
 |             80 | Nate Augspurger         |             99.23 |       14 |             68.37 | Seimou Smith       |             80 |
 |             80 | Luke Carty              |             25.64 |       15 |             64.32 | David Coetzer      |             80 |
 |              0 | Janus Venter            |            nan    |       16 |             82.95 | Tiaan Erasmus      |              0 |
 |              0 | Fred Apulu              |            nan    |       17 |            nan    | Larome White       |              0 |
-|              0 | Ignacio Peculo          |             90.87 |       18 |            nan    | Pono Davis         |              0 |
+|              0 | Ignacio Peculo          |             90.86 |       18 |            nan    | Pono Davis         |              0 |
 |              0 | Mason Flesch            |              4.82 |       19 |             65.16 | Emmanuel Albert    |              0 |
 |              0 | Brad Tucker             |            nan    |       20 |             31.17 | Tomiwa Agbongbon   |              0 |
 |              0 | Dave Kearney            |             45.51 |       21 |            nan    | Carlo De Nysschen  |              0 |
-|              0 | Cassh Maluia            |             25.71 |       22 |            nan    | Max Schumacher     |              0 |
-|              0 | Luke White              |             14.64 |       23 |             53.65 | Jeremy Misailegalu |              0 |
+|              0 | Cassh Maluia            |             25.68 |       22 |            nan    | Max Schumacher     |              0 |
+|              0 | Luke White              |             14.44 |       23 |             53.65 | Jeremy Misailegalu |              0 |
 

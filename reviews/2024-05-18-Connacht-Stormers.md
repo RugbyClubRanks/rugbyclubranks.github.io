@@ -11,7 +11,7 @@ categories: "United Rugby Championship 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.523, which translates to predicting Connacht to win by 0.8.
 
-Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 24 to 25
+Our Over/Under is 40.5 - and combined with the spread above, we have a predicted scoreline of 20 to 20
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -70,10 +70,10 @@ Stormers by 3.4 on a neutral pitch
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
 |             77 | Brok Harris          |             99.92 |        1 |             97.23 | Peter Dooley          |             64 |
-|             53 | Joseph Dweba         |             73.44 |        2 |             64.26 | Dave Heffernan        |             71 |
-|             52 | Frans Malherbe       |             88.75 |        3 |             96.74 | Finlay Bealham        |             52 |
-|             80 | Salmaan Moerat       |             78.82 |        4 |             95.44 | Joe Joyce             |             69 |
-|             66 | Ruben van Heerden    |             85.41 |        5 |             36.47 | Darragh Murray        |             73 |
+|             53 | Joseph Dweba         |             73.11 |        2 |             64.26 | Dave Heffernan        |             71 |
+|             52 | Frans Malherbe       |             88.74 |        3 |             96.74 | Finlay Bealham        |             52 |
+|             80 | Salmaan Moerat       |             78.8  |        4 |             95.44 | Joe Joyce             |             69 |
+|             66 | Ruben van Heerden    |             85.5  |        5 |             36.51 | Darragh Murray        |             73 |
 |             80 | Evan Roos            |             89.57 |        6 |             56.69 | Cian Prendergast      |             80 |
 |             80 | Ben-Jason Dixon      |             68.41 |        7 |             57.68 | Shamus Hurley-Langton |             64 |
 |             61 | Hacjivah Dayimani    |             91.63 |        8 |             17.78 | Sean Jansen           |             69 |
@@ -81,15 +81,15 @@ Stormers by 3.4 on a neutral pitch
 |             80 | Manie Libbok         |             84.29 |       10 |             92.57 | Jack Carty            |             71 |
 |             61 | Angelo Davids        |             94.81 |       11 |              6.44 | Byron Ralston         |             80 |
 |             80 | Damian Willemse      |             96.75 |       12 |             98.95 | Bundee Aki            |             80 |
-|             77 | Daniel du Plessis    |             91.82 |       13 |             71.77 | David Hawkshaw        |             80 |
+|             77 | Daniel du Plessis    |             91.82 |       13 |             71.8  | David Hawkshaw        |             80 |
 |             80 | Suleiman Hartzenberg |             77.02 |       14 |             92.02 | John Porch            |             80 |
 |             80 | Warrick Gelant       |             98.93 |       15 |             85.9  | Tiernan O'Halloran    |             62 |
 |             27 | Andre-Hugo Venter    |             69.51 |       16 |             65.57 | Dylan Tierney-Martin  |              9 |
-|              3 | Kwenzo Blose         |            nan    |       17 |             28.36 | Jordan Duggan         |             16 |
-|             28 | Neethling Fouche     |             84.43 |       18 |             74.9  | Jack Aungier          |             28 |
-|             14 | Adre Smith           |             82.37 |       19 |             68.39 | Oisin Dowling         |             18 |
+|              3 | Kwenzo Blose         |            nan    |       17 |             28.47 | Jordan Duggan         |             16 |
+|             28 | Neethling Fouche     |             84.42 |       18 |             74.88 | Jack Aungier          |             28 |
+|             14 | Adre Smith           |             82.35 |       19 |             68.15 | Oisin Dowling         |             18 |
 |             19 | Marcel Theunissen    |             41.63 |       20 |             85.56 | Jarrad Butler         |             27 |
-|             13 | Stefan Ungerer       |             18.32 |       21 |             41.54 | Colm Reilly           |             11 |
-|              3 | Jean-Luc du Plessis  |             71.46 |       22 |             20.67 | Cathal Forde          |              9 |
-|             19 | Sacha Mngomezulu     |             73.77 |       23 |             97.5  | Santiago Cordero      |             18 |
+|             13 | Stefan Ungerer       |             18.32 |       21 |             41.36 | Colm Reilly           |             11 |
+|              3 | Jean-Luc du Plessis  |             71.49 |       22 |             20.65 | Cathal Forde          |              9 |
+|             19 | Sacha Mngomezulu     |             73.79 |       23 |             97.5  | Santiago Cordero      |             18 |
 

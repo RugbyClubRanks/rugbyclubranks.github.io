@@ -11,7 +11,7 @@ categories: "Major League Rugby 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.413, which translates to predicting Seattle Seawolves to win by 3.1.
 
-Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 26 to 23
+Our Over/Under is 34.5 - and combined with the spread above, we have a predicted scoreline of 19 to 16
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,25 +69,25 @@ Seattle Seawolves by 0.8 on a neutral pitch
 
 |   Away Minutes | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             80 | Cameron Orr       |             38.79 |        1 |             68.7  | Joaquín Horcada     |             80 |
+|             80 | Cameron Orr       |             38.83 |        1 |             68.68 | Joaquín Horcada     |             80 |
 |             80 | Dewald Donald     |             61.8  |        2 |             51.97 | Dewald Kotze        |             80 |
-|             80 |                   |             37.73 |        3 |             57.78 | Kyle Steeves        |             80 |
-|             80 | Rhyno Herbst      |             57.14 |        4 |             38.5  | Daemon Torres       |             80 |
-|             80 | Jean Droste       |             55.62 |        5 |             61.5  | Lucas Bur           |             80 |
+|             80 |                   |             37.77 |        3 |             57.75 | Kyle Steeves        |             80 |
+|             80 | Rhyno Herbst      |             57.1  |        4 |             38.54 | Daemon Torres       |             80 |
+|             80 | Jean Droste       |             55.58 |        5 |             61.46 | Lucas Bur           |             80 |
 |             80 | Reid Davis        |             33.76 |        6 |             52.95 | Jero Gomez Vara     |             80 |
 |             80 | Huw Taylor        |             36.71 |        7 |             50.89 | Makeen Alikhan      |             80 |
 |             80 | Riekert Hattingh  |             52.72 |        8 |             56.69 | Ronan Foley         |             80 |
 |             80 | Jp Smith          |             56.2  |        9 |             46.07 | Pit Imhoff          |             80 |
 |             80 | Mack Mason        |             52.87 |       10 |             50.96 | Martin Elias        |             80 |
 |             80 | Toni Pulu         |             54.9  |       11 |             60.1  | Nic Benn            |             80 |
-|             80 | Dan Kriel         |             49.63 |       12 |             38.61 | Tomás Cubilla       |             80 |
-|             80 | Tavite Lopeti     |             91.19 |       13 |             61.07 | Mitchell Richardson |             80 |
+|             80 | Dan Kriel         |             49.69 |       12 |             38.57 | Tomás Cubilla       |             80 |
+|             80 | Tavite Lopeti     |             91.19 |       13 |             61.11 | Mitchell Richardson |             80 |
 |             80 | Conner Mooneyham  |             60.38 |       14 |             55    | Tomy Malanos        |             80 |
 |             80 | Divan Rossouw     |             29.49 |       15 |             47.86 | Nazareno Valentini  |             80 |
 |              0 | Daquan Perry      |             51.8  |       16 |            nan    | Connor Grindal      |              0 |
 |              0 | Chance Wenglewski |            nan    |       17 |            nan    | Tomás Bekerman      |              0 |
-|              0 | Oli Kilifi        |             45.72 |       18 |              0.08 | Liam Murray         |              0 |
-|              0 | Taylor Krumrei    |             50.86 |       19 |            nan    | Kyle Breytenbach    |              0 |
+|              0 | Oli Kilifi        |             45.68 |       18 |              0.08 | Liam Murray         |              0 |
+|              0 | Taylor Krumrei    |             50.81 |       19 |            nan    | Kyle Breytenbach    |              0 |
 |              0 | Pago Haini        |            nan    |       20 |            nan    | Marques Fuala'Au    |              0 |
 |              0 | Ryan Rees         |             49.74 |       21 |            nan    | Brock Gallagher     |              0 |
 |              0 | Sam Windsor       |             47.13 |       22 |            nan    | Manuel Covella      |              0 |

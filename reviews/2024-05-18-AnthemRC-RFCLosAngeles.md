@@ -11,7 +11,7 @@ categories: "Major League Rugby 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.095, which translates to predicting RFC Los Angeles to win by 20.6.
 
-Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 34 to 13
+Our Over/Under is 59.5 - and combined with the spread above, we have a predicted scoreline of 40 to 19
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,23 +69,23 @@ RFC Los Angeles by 1.0 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             80 | Dane Zander           |             58.76 |        1 |             25.75 | Jake Turnbull         |             80 |
+|             80 | Dane Zander           |             58.73 |        1 |             25.77 | Jake Turnbull         |             80 |
 |             80 | Ben Strang            |             40.82 |        2 |              4.92 | Connor Robinson       |             80 |
-|             80 | Conor Young           |             31.21 |        3 |              5.54 | Joe Apikotoa          |             80 |
-|             80 | Reegan O'Gorman       |             39.92 |        4 |             17.53 | Reagan Leslie         |             80 |
-|             80 | Theo Vukasinovic      |             53.09 |        5 |             13.48 | Lucas Gramlick        |             80 |
+|             80 | Conor Young           |             31.24 |        3 |              5.55 | Joe Apikotoa          |             80 |
+|             80 | Reegan O'Gorman       |             39.96 |        4 |             17.55 | Reagan Leslie         |             80 |
+|             80 | Theo Vukasinovic      |             53.04 |        5 |             13.49 | Lucas Gramlick        |             80 |
 |             80 | Michael Amiras        |             37.7  |        6 |              9.35 | Shneil Singh          |             80 |
 |             80 | Matt Heaton           |             43.5  |        7 |             13.29 | Albert O'Shannessey   |             80 |
 |             80 | Jason Damm            |             29.92 |        8 |             24.69 | Michael Ma'Afu        |             80 |
 |             80 | Niall Saunders        |             50.79 |        9 |             23.21 | Siaosi Nai            |             80 |
 |             80 | Jordan Chait          |             48.41 |       10 |             17.41 | Cliven Loubser        |             80 |
 |             80 | Jack Shaw             |             43.56 |       11 |              8.94 | Te Rangatira Waitokia |             80 |
-|             80 | James Stokes          |             49.42 |       12 |              7.03 | Junior Gafa           |             80 |
-|             80 | Seth Purdey           |             36.31 |       13 |             34.84 | Mateo Gadsden         |             80 |
+|             80 | James Stokes          |             49.48 |       12 |              7.02 | Junior Gafa           |             80 |
+|             80 | Seth Purdey           |             36.27 |       13 |             34.8  | Mateo Gadsden         |             80 |
 |             80 | Brooklyn Hardaker     |             21.73 |       14 |             10.96 | Cael Hodgson          |             80 |
 |             80 | Andrew Coe            |             74.36 |       15 |             11.97 | Tomasi Alosio         |             80 |
 |              0 | Bruce Kauika-Petersen |             46.07 |       16 |            nan    | Jack Manzo            |              0 |
-|              0 | Wilton Rebolo         |              8.15 |       17 |            nan    | Ivan Pula             |              0 |
+|              0 | Wilton Rebolo         |              8.16 |       17 |            nan    | Ivan Pula             |              0 |
 |              0 | Sam Buckley           |            nan    |       18 |            nan    | Mika Felix            |              0 |
 |              0 | Max Katjijeko         |             45.57 |       19 |            nan    | Logan Weidner         |              0 |
 |              0 | Semi Kunatani         |             19.46 |       20 |            nan    | Sione Latu            |              0 |

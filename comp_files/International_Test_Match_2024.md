@@ -1,6 +1,6 @@
 ---  
 title: "International Test Match 2024 Status"  
-date: 2024-05-20 6:00:00 -0500  
+date: 2024-05-23 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -58,8 +58,8 @@ aside:
 
 | Club       |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Moldova    |                   1 |    0.7 |              6.80809 |                   0.2 |                0.3 |                  3.4 |
-| Luxembourg |                   1 |    0.3 |             -6.80809 |                   0.2 |                0.2 |                  1.5 |
+| Moldova    |                   1 |    0.7 |              6.55947 |                   0.2 |                0.3 |                  3.3 |
+| Luxembourg |                   1 |    0.3 |             -6.55947 |                   0.2 |                0.2 |                  1.5 |
 
 
 
@@ -68,11 +68,11 @@ aside:
 
 | Club                   |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Luxembourg             |               3 |    2.3 |              73.1919 |                   0.2 |                0.2 |                  9.5 |
+| Luxembourg             |               3 |    2.3 |              73.4405 |                   0.2 |                0.2 |                  9.5 |
 | Sri Lanka              |               2 |    2   |              73      |                   0   |                0   |                  8   |
 | Switzerland            |               2 |    2   |              41      |                   0   |                0   |                  8   |
 | Sweden                 |               2 |    2   |              31      |                   0   |                0   |                  8   |
-| Moldova                |               2 |    1.7 |              48.8081 |                   0.2 |                0.3 |                  7.4 |
+| Moldova                |               2 |    1.7 |              48.5595 |                   0.2 |                0.3 |                  7.3 |
 | Hungary                |               2 |    1   |              32      |                   1   |                0   |                  5   |
 | Qatar                  |               2 |    1   |               7      |                   1   |                0   |                  5   |
 | Finland                |               1 |    1   |              50      |                   0   |                0   |                  4   |
@@ -121,7 +121,7 @@ aside:
 ### Luxembourg V Moldova on 2024/05/25
 
 
-Average Margin: Moldova by 6.8
+Average Margin: Moldova by 6.6
 
 Average Scoreline: 35-28
 

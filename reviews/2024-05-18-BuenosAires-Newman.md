@@ -11,7 +11,7 @@ categories: "URBA Top 12 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.562, which translates to predicting Buenos Aires to win by 2.2.
 
-Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 23 to 25
+Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 25 to 27
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Buenos Aires by 5.0 on a neutral pitch
 
 |   Away Minutes | Away Player               |   Away Percentile |   Number |   Home Percentile | Home Player            |   Home Minutes |
 |---------------:|:--------------------------|------------------:|---------:|------------------:|:-----------------------|---------------:|
-|             80 | Miguel Prince             |             35.45 |        1 |             31.78 | Tomas Herrador         |             80 |
+|             80 | Miguel Prince             |             35.48 |        1 |             31.81 | Tomas Herrador         |             80 |
 |             80 | Rodrigo Pueyrredon        |             59.02 |        2 |             66.39 | Tomas Rosasco          |             80 |
-|             80 | Bautista Bosch            |             32.11 |        3 |             65.04 | Tomas Gallo            |             80 |
-|             80 | Pablo Cardinal            |             69.2  |        4 |             62.21 | Francisco Jose Sluga   |             80 |
-|             80 | Alejandro Urtubey         |             55.72 |        5 |             62.61 | Pedro Maria Del Carril |             80 |
+|             80 | Bautista Bosch            |             32.14 |        3 |             65.01 | Tomas Gallo            |             80 |
+|             80 | Pablo Cardinal            |             69.17 |        4 |             62.17 | Francisco Jose Sluga   |             80 |
+|             80 | Alejandro Urtubey         |             55.68 |        5 |             62.58 | Pedro Maria Del Carril |             80 |
 |             80 | Mateo Montoya             |             24.9  |        6 |             58.76 | Jordi Dieguez          |             80 |
 |             80 | Joaquin de la Vega        |             52.85 |        7 |             56.59 | Matias Espina          |             80 |
 |             80 | Rodrigo Diaz de Vivar     |             67.15 |        8 |             43.72 | Tomas Etcheverry       |             80 |
 |             80 | Felix Branca              |             53.58 |        9 |             61.78 | Mateo Freire           |             80 |
 |             80 | Gonzalo Guiterrez Taboada |             50.32 |       10 |             57.32 | Mateo Capalbo          |             80 |
-|             80 | Justo Ortiz Basualdo      |             68.46 |       11 |             60.77 | Tomas Acosta Pimentel  |             80 |
-|             80 | Tomas Keena               |             47.95 |       12 |             56.09 | Agustin Lamensa Sanudo |             80 |
-|             80 | Benjamin Lanfranco        |             35.78 |       13 |             56.09 | Tobias Diaz Borda      |             80 |
+|             80 | Justo Ortiz Basualdo      |             68.65 |       11 |             60.77 | Tomas Acosta Pimentel  |             80 |
+|             80 | Tomas Keena               |             48.01 |       12 |             56.13 | Agustin Lamensa Sanudo |             80 |
+|             80 | Benjamin Lanfranco        |             35.74 |       13 |             56.13 | Tobias Diaz Borda      |             80 |
 |             80 | Leandro Leivas            |             54.04 |       14 |             59.33 | Alfonso Latorre        |             80 |
 |             80 | Santiago Marolda          |             48.29 |       15 |             55.34 | Julian Quetglas Bojar  |             80 |
-|              0 | James Wright              |            nan    |       16 |             42.79 | Tomas Ruiz             |              0 |
-|              0 | Fermin Perkins            |             63.98 |       17 |             74.65 | Pablo Gaston Vaca      |              0 |
-|              0 | Luciano Borio             |             66.75 |       18 |            nan    | Blas Armando Coria     |              0 |
-|              0 | Tomas Ureta               |             28.98 |       19 |             44.19 | Lucas Etcheverry       |              0 |
+|              0 | James Wright              |            nan    |       16 |             42.95 | Tomas Ruiz             |              0 |
+|              0 | Fermin Perkins            |             63.95 |       17 |             74.63 | Pablo Gaston Vaca      |              0 |
+|              0 | Luciano Borio             |             66.72 |       18 |            nan    | Blas Armando Coria     |              0 |
+|              0 | Tomas Ureta               |             29.01 |       19 |             44.19 | Lucas Etcheverry       |              0 |
 |              0 | Faustino Santarelli       |            nan    |       20 |            nan    | Tomas Alvarez Bayon    |              0 |
 |              0 | Pablo Tezanos Pinto       |            nan    |       21 |            nan    | Juan Monasterio        |              0 |
 |              0 | Carlos Menendez           |            nan    |       22 |            nan    | Tomas Bunge            |              0 |
-|              0 | Silvestre Casa            |             54.46 |       23 |             46.63 | Benjamin Handley       |              0 |
+|              0 | Silvestre Casa            |             54.51 |       23 |             46.63 | Benjamin Handley       |              0 |
 

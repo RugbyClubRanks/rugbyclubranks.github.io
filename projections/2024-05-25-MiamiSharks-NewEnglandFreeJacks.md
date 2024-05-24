@@ -9,7 +9,7 @@ categories: "Major League Rugby 2024" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.336, which translates to predicting New England Free Jacks to win by 5.9.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.338, which translates to predicting New England Free Jacks to win by 5.8.
 
 Our Over/Under is 77.5 - and combined with the spread above, we have a predicted scoreline of 42 to 36
 

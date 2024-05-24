@@ -1,6 +1,6 @@
 ---  
 title: "Top 14 Orange 2023 Status"  
-date: 2024-05-20 6:00:00 -0500  
+date: 2024-05-23 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -39,20 +39,20 @@ aside:
 
 | Club                 |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Bordeaux Begles      |                   2 |    1.9 |          15.7945     |                   0.1 |                0.5 |                  8.2 |
-| Stade Toulousain     |                   2 |    1.9 |           8.99203    |                   0.1 |                0.3 |                  7.9 |
-| Bayonne              |                   2 |    1.4 |           3.31552    |                   0.6 |                0.2 |                  6.3 |
-| Toulon               |                   2 |    1.2 |           2.95077    |                   0.7 |                0.2 |                  5.7 |
-| Stade Francais Paris |                   2 |    1   |          -0.094438   |                   0.8 |                0.1 |                  5   |
-| Clermont Auvergne    |                   2 |    1   |           0.76993    |                   0.5 |                0.2 |                  4.8 |
-| Pau                  |                   2 |    1   |           0.00341589 |                   0.5 |                0.2 |                  4.7 |
-| La Rochelle          |                   2 |    1   |           2.32237    |                   0.4 |                0.1 |                  4.6 |
-| Castres Olympique    |                   2 |    0.9 |          -1.03666    |                   0.9 |                0.1 |                  4.5 |
-| Racing 92            |                   2 |    1   |          -2.66265    |                   0.2 |                0.2 |                  4.2 |
-| Montpellier Herault  |                   2 |    0.8 |          -3.31374    |                   0.6 |                0.1 |                  3.9 |
-| Lyon                 |                   2 |    0.4 |          -5.64577    |                   1.2 |                0.1 |                  2.7 |
-| Oyonnax              |                   2 |    0.4 |         -12.9399     |                   0.5 |                0   |                  2.3 |
-| Perpignan            |                   2 |    0.2 |          -8.45533    |                   1   |                0.1 |                  1.7 |
+| Bordeaux Begles      |                   2 |    1.9 |            15.763    |                   0.1 |                0.6 |                  8.2 |
+| Stade Toulousain     |                   2 |    1.9 |             9.32811  |                   0.1 |                0.2 |                  7.8 |
+| Bayonne              |                   2 |    1.4 |             3.07429  |                   0.6 |                0.1 |                  6.2 |
+| Toulon               |                   2 |    1.2 |             3.442    |                   0.6 |                0.2 |                  5.8 |
+| Stade Francais Paris |                   2 |    1   |            -0.207049 |                   0.8 |                0.1 |                  4.9 |
+| Clermont Auvergne    |                   2 |    1   |             0.567672 |                   0.5 |                0.2 |                  4.8 |
+| Pau                  |                   2 |    1   |             0.158275 |                   0.5 |                0.2 |                  4.7 |
+| La Rochelle          |                   2 |    1   |             2.15259  |                   0.4 |                0.1 |                  4.6 |
+| Castres Olympique    |                   2 |    0.9 |            -0.935349 |                   0.9 |                0.1 |                  4.6 |
+| Racing 92            |                   2 |    1   |            -2.67154  |                   0.2 |                0.1 |                  4.2 |
+| Montpellier Herault  |                   2 |    0.8 |            -3.13053  |                   0.6 |                0.1 |                  4   |
+| Lyon                 |                   2 |    0.3 |            -5.97262  |                   1.2 |                0.1 |                  2.5 |
+| Oyonnax              |                   2 |    0.4 |           -12.9899   |                   0.5 |                0   |                  2.3 |
+| Perpignan            |                   2 |    0.2 |            -8.57903  |                   1   |                0.1 |                  1.8 |
 
 
 
@@ -61,20 +61,20 @@ aside:
 
 | Club                 |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Stade Toulousain     |              26 |   17.9 |             193.992  |                   3.1 |                7.3 |                 81.9 |
-| Stade Francais Paris |              26 |   17   |              33.9056 |                   1.8 |                4.1 |                 76   |
-| Bordeaux Begles      |              26 |   15.9 |             108.794  |                   4.1 |                4.5 |                 72.2 |
-| Toulon               |              26 |   15.2 |             148.951  |                   3.7 |                4.2 |                 68.7 |
-| La Rochelle          |              26 |   13   |              96.3224 |                   7.4 |                5.1 |                 64.6 |
-| Racing 92            |              26 |   13   |              69.3373 |                   4.2 |                5.2 |                 61.2 |
-| Clermont Auvergne    |              26 |   13   |             -44.2301 |                   3.5 |                5.2 |                 60.8 |
-| Pau                  |              26 |   13   |              18.0034 |                   5.5 |                3.2 |                 60.7 |
-| Castres Olympique    |              26 |   11.9 |             -20.0367 |                   6.9 |                4.1 |                 58.5 |
-| Bayonne              |              26 |   12.4 |             -75.6845 |                   6.6 |                2.2 |                 58.3 |
-| Perpignan            |              26 |   12.2 |             -70.4553 |                   2   |                5.1 |                 55.7 |
-| Lyon                 |              26 |   11.4 |            -126.646  |                   3.2 |                5.1 |                 53.7 |
-| Montpellier Herault  |              26 |    8.8 |             -94.3137 |                   7.6 |                1.1 |                 43.9 |
-| Oyonnax              |              26 |    6.4 |            -237.94   |                   4.5 |                0   |                 32.3 |
+| Stade Toulousain     |              26 |   17.9 |             194.328  |                   3.1 |                7.2 |                 81.8 |
+| Stade Francais Paris |              26 |   17   |              33.793  |                   1.8 |                4.1 |                 75.9 |
+| Bordeaux Begles      |              26 |   15.9 |             108.763  |                   4.1 |                4.6 |                 72.2 |
+| Toulon               |              26 |   15.2 |             149.442  |                   3.6 |                4.2 |                 68.8 |
+| La Rochelle          |              26 |   13   |              96.1526 |                   7.4 |                5.1 |                 64.6 |
+| Racing 92            |              26 |   13   |              69.3285 |                   4.2 |                5.1 |                 61.2 |
+| Clermont Auvergne    |              26 |   13   |             -44.4323 |                   3.5 |                5.2 |                 60.8 |
+| Pau                  |              26 |   13   |              18.1583 |                   5.5 |                3.2 |                 60.7 |
+| Castres Olympique    |              26 |   11.9 |             -19.9353 |                   6.9 |                4.1 |                 58.6 |
+| Bayonne              |              26 |   12.4 |             -75.9257 |                   6.6 |                2.1 |                 58.2 |
+| Perpignan            |              26 |   12.2 |             -70.579  |                   2   |                5.1 |                 55.8 |
+| Lyon                 |              26 |   11.3 |            -126.973  |                   3.2 |                5.1 |                 53.5 |
+| Montpellier Herault  |              26 |    8.8 |             -94.1305 |                   7.6 |                1.1 |                 44   |
+| Oyonnax              |              26 |    6.4 |            -237.99   |                   4.5 |                0   |                 32.3 |
 
 
 
@@ -108,7 +108,7 @@ Average Scoreline: 29-28
 ### Castres Olympique V Stade Francais Paris on 2024/06/01
 
 
-Average Margin: Castres Olympique by 1.8
+Average Margin: Castres Olympique by 1.6
 
 Average Scoreline: 37-35
 
@@ -121,7 +121,7 @@ Average Scoreline: 37-35
 ### Montpellier Herault V Lyon on 2024/06/01
 
 
-Average Margin: Montpellier Herault by 2.1
+Average Margin: Montpellier Herault by 2.3
 
 Average Scoreline: 33-31
 
@@ -147,7 +147,7 @@ Average Scoreline: 27-24
 ### Racing 92 V Pau on 2024/06/01
 
 
-Average Margin: Racing 92 by 5.1
+Average Margin: Racing 92 by 5.2
 
 Average Scoreline: 22-17
 
@@ -160,9 +160,9 @@ Average Scoreline: 22-17
 ### Stade Toulousain V La Rochelle on 2024/06/01
 
 
-Average Margin: Stade Toulousain by 5.5
+Average Margin: Stade Toulousain by 5.7
 
-Average Scoreline: 20-15
+Average Scoreline: 20-14
 
 <p float="left">
 <img src="plots/performances_2024-06-01-StadeToulousain_V_LaRochelle.png" width="32%" />
@@ -173,7 +173,7 @@ Average Scoreline: 20-15
 ### Toulon V Clermont Auvergne on 2024/06/01
 
 
-Average Margin: Toulon by 4.7
+Average Margin: Toulon by 4.9
 
 Average Scoreline: 25-20
 
@@ -201,7 +201,7 @@ Average Scoreline: 27-19
 ### Pau V Perpignan on 2024/06/08
 
 
-Average Margin: Pau by 5.1
+Average Margin: Pau by 5.3
 
 Average Scoreline: 30-25
 
@@ -214,9 +214,9 @@ Average Scoreline: 30-25
 ### Lyon V Stade Toulousain on 2024/06/08
 
 
-Average Margin: Stade Toulousain by 3.5
+Average Margin: Stade Toulousain by 3.7
 
-Average Scoreline: 30-26
+Average Scoreline: 28-25
 
 <p float="left">
 <img src="plots/performances_2024-06-08-Lyon_V_StadeToulousain.png" width="32%" />
@@ -227,9 +227,9 @@ Average Scoreline: 30-26
 ### Stade Francais Paris V Toulon on 2024/06/08
 
 
-Average Margin: Stade Francais Paris by 1.7
+Average Margin: Stade Francais Paris by 1.4
 
-Average Scoreline: 23-21
+Average Scoreline: 23-22
 
 <p float="left">
 <img src="plots/performances_2024-06-08-StadeFrancaisParis_V_Toulon.png" width="32%" />
@@ -240,7 +240,7 @@ Average Scoreline: 23-21
 ### Bayonne V Castres Olympique on 2024/06/08
 
 
-Average Margin: Bayonne by 2.9
+Average Margin: Bayonne by 2.6
 
 Average Scoreline: 27-24
 

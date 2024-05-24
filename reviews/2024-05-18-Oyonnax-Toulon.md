@@ -69,27 +69,27 @@ Toulon by 16.0 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             48 | Dany Priso         |             93.32 |        1 |             43.03 | Antoine Abraham    |             52 |
+|             48 | Dany Priso         |             93.31 |        1 |             43.07 | Antoine Abraham    |             52 |
 |             48 | Teddy Baubigny     |             65.9  |        2 |             17.54 | Benjamin Geledan   |             46 |
-|             48 | Beka Gigashvili    |             80.03 |        3 |              8.39 | Christopher Vaotoa |             64 |
-|             80 | David Ribbans      |             90.98 |        4 |             50.35 | Ewan Johnson       |             62 |
-|             67 | Brian Alainu'uese  |             91.69 |        5 |             61.7  | Hugo Fabregue      |             64 |
+|             48 | Beka Gigashvili    |             80.02 |        3 |              8.4  | Christopher Vaotoa |             64 |
+|             80 | David Ribbans      |             90.97 |        4 |             50.3  | Ewan Johnson       |             62 |
+|             67 | Brian Alainu'uese  |             91.78 |        5 |             61.66 | Hugo Fabregue      |             64 |
 |             77 | Cornell du Preez   |             88.29 |        6 |             34.84 | Kevin Lebreton     |             80 |
 |             80 | Jules Coulon       |             48.43 |        7 |             21.46 | Hugo Hermet        |             46 |
 |             51 | Charles Ollivon    |             98.12 |        8 |              2.93 | Loic Godener       |             61 |
 |             51 | Ben White          |             85.51 |        9 |              9.42 | Vasil Lobzhanidze  |             61 |
 |             51 | Dan Biggar         |             98.09 |       10 |              5.31 | Justin Bouraux     |             80 |
 |             80 | Gael Drean         |             18.08 |       11 |             67.02 | Daniel Ikpefan     |             80 |
-|             80 | Mathieu Smaili     |             15.11 |       12 |             58.45 | Lucas Mensa        |             80 |
-|             62 | Seta Tuicuvu       |             69.15 |       13 |             71.14 | Theo Millet        |             80 |
+|             80 | Mathieu Smaili     |             15.09 |       12 |             58.49 | Lucas Mensa        |             80 |
+|             62 | Seta Tuicuvu       |             69.18 |       13 |             71.17 | Theo Millet        |             80 |
 |             80 | Jiuta Wainiqolo    |             90.19 |       14 |             29.23 | Enzo Reybier       |             80 |
 |             80 | Melvyn Jaminet     |             89.1  |       15 |             66.03 | Darren Sweetnam    |             19 |
 |             32 | Jack Singleton     |             92.95 |       16 |              6.07 | Teddy Durand       |             34 |
-|             32 | Jean-Baptiste Gros |             97.07 |       17 |             84.03 | Tommy Raynaud      |             28 |
-|             13 | Matthias Halagahu  |             35.06 |       18 |            nan    | Kevin Kornath      |             34 |
+|             32 | Jean-Baptiste Gros |             97.06 |       17 |             84.01 | Tommy Raynaud      |             28 |
+|             13 | Matthias Halagahu  |             35.09 |       18 |            nan    | Kevin Kornath      |             34 |
 |             32 | Selevasio Tolofua  |             83.96 |       19 |             37.6  | Loic Credoz        |             34 |
 |             29 | Paolo Garbisi      |             84.71 |       20 |             94.07 | Jonathan Ruru      |             19 |
 |             29 | Baptiste Serin     |             96.68 |       21 |             87.26 | Domingo Miotti     |             61 |
 |             18 | Jeremy Sinzelle    |            nan    |       22 |            nan    | David Odiase       |             19 |
-|             32 | Kieran Brookes     |             21.68 |       23 |             39.45 | Thibault Berthaud  |             16 |
+|             32 | Kieran Brookes     |             21.7  |       23 |             39.48 | Thibault Berthaud  |             16 |
 

@@ -1,6 +1,6 @@
 ---  
 title: "Super Rugby Pacific 2024 Status"  
-date: 2024-05-20 6:00:00 -0500  
+date: 2024-05-23 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -37,18 +37,18 @@ aside:
 
 | Club                     |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Brumbies                 |                   2 |    1.8 |            16.9406   |                   0.2 |                0.7 |                  8.2 |
-| Blues                    |                   2 |    1.7 |            12.4936   |                   0.2 |                0.5 |                  7.7 |
-| Queensland Reds          |                   2 |    1.6 |             9.46732  |                   0.4 |                0.3 |                  7   |
-| Hurricanes               |                   2 |    1.3 |            14.2501   |                   0.5 |                0.6 |                  6.2 |
-| Crusaders                |                   2 |    1.1 |             6.87662  |                   0.4 |                0.5 |                  5.2 |
-| New South Wales Waratahs |                   2 |    1   |            -0.162514 |                   0.8 |                0.2 |                  5   |
-| Chiefs                   |                   2 |    0.9 |            -1.80189  |                   0.7 |                0.1 |                  4.4 |
-| Fijian Drua              |                   2 |    0.8 |            -3.49129  |                   0.8 |                0.2 |                  4.1 |
-| Highlanders              |                   2 |    0.8 |           -12.829    |                   0.2 |                0.1 |                  3.6 |
-| Melbourne Rebels         |                   2 |    0.4 |           -13.1817   |                   0.6 |                0.1 |                  2.4 |
-| Moana Pasifika           |                   2 |    0.4 |           -15.9264   |                   0.6 |                0.1 |                  2.1 |
-| Western Force            |                   2 |    0.2 |           -12.6354   |                   0.9 |                0.1 |                  1.9 |
+| Brumbies                 |                   2 |    1.8 |            17.1021   |                   0.2 |                0.7 |                  8.1 |
+| Blues                    |                   2 |    1.8 |            12.6835   |                   0.2 |                0.5 |                  7.7 |
+| Queensland Reds          |                   2 |    1.5 |             9.20208  |                   0.4 |                0.3 |                  6.9 |
+| Hurricanes               |                   2 |    1.2 |            14.1304   |                   0.5 |                0.6 |                  6.1 |
+| Crusaders                |                   2 |    1.1 |             6.72073  |                   0.4 |                0.5 |                  5.2 |
+| New South Wales Waratahs |                   2 |    1   |             0.339705 |                   0.8 |                0.2 |                  5.1 |
+| Chiefs                   |                   2 |    0.9 |            -1.96629  |                   0.7 |                0.1 |                  4.4 |
+| Fijian Drua              |                   2 |    0.9 |            -2.57199  |                   0.8 |                0.2 |                  4.4 |
+| Highlanders              |                   2 |    0.8 |           -13.125    |                   0.2 |                0.1 |                  3.5 |
+| Melbourne Rebels         |                   2 |    0.4 |           -13.6979   |                   0.6 |                0.2 |                  2.3 |
+| Western Force            |                   2 |    0.3 |           -12.6616   |                   0.8 |                0.1 |                  2   |
+| Moana Pasifika           |                   2 |    0.4 |           -16.1558   |                   0.6 |                0.1 |                  2   |
 
 
 
@@ -57,18 +57,18 @@ aside:
 
 | Club                     |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Blues                    |              14 |   12.7 |             255.494  |                   0.2 |                6.5 |                 57.7 |
-| Hurricanes               |              14 |   11.3 |             183.25   |                   1.5 |                6.6 |                 53.2 |
-| Brumbies                 |              14 |   11.8 |              74.9406 |                   0.2 |                3.7 |                 51.2 |
-| Chiefs                   |              14 |    9.9 |             190.198  |                   1.7 |                5.1 |                 46.4 |
-| Queensland Reds          |              14 |    7.6 |              66.4673 |                   4.4 |                3.3 |                 38   |
-| Melbourne Rebels         |              14 |    5.4 |            -103.182  |                   2.6 |                4.1 |                 28.4 |
-| Highlanders              |              14 |    5.8 |            -118.829  |                   2.2 |                1.1 |                 26.6 |
-| Fijian Drua              |              14 |    5.8 |             -90.4913 |                   1.8 |                0.2 |                 25.1 |
-| Western Force            |              14 |    4.2 |             -93.6354 |                   2.9 |                1.1 |                 20.9 |
-| Crusaders                |              14 |    3.1 |             -34.1234 |                   6.4 |                1.5 |                 20.2 |
-| New South Wales Waratahs |              14 |    3   |            -112.163  |                   4.8 |                0.2 |                 17   |
-| Moana Pasifika           |              14 |    3.4 |            -217.926  |                   2.6 |                0.1 |                 16.1 |
+| Blues                    |              14 |   12.8 |             255.684  |                   0.2 |                6.5 |                 57.7 |
+| Hurricanes               |              14 |   11.2 |             183.13   |                   1.5 |                6.6 |                 53.1 |
+| Brumbies                 |              14 |   11.8 |              75.1021 |                   0.2 |                3.7 |                 51.1 |
+| Chiefs                   |              14 |    9.9 |             190.034  |                   1.7 |                5.1 |                 46.4 |
+| Queensland Reds          |              14 |    7.5 |              66.2021 |                   4.4 |                3.3 |                 37.9 |
+| Melbourne Rebels         |              14 |    5.4 |            -103.698  |                   2.6 |                4.2 |                 28.3 |
+| Highlanders              |              14 |    5.8 |            -119.125  |                   2.2 |                1.1 |                 26.5 |
+| Fijian Drua              |              14 |    5.9 |             -89.572  |                   1.8 |                0.2 |                 25.4 |
+| Western Force            |              14 |    4.3 |             -93.6616 |                   2.8 |                1.1 |                 21   |
+| Crusaders                |              14 |    3.1 |             -34.2793 |                   6.4 |                1.5 |                 20.2 |
+| New South Wales Waratahs |              14 |    3   |            -111.66   |                   4.8 |                0.2 |                 17.1 |
+| Moana Pasifika           |              14 |    3.4 |            -218.156  |                   2.6 |                0.1 |                 16   |
 
 
 
@@ -78,7 +78,7 @@ aside:
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
 | Club Level | 75.0% | 13.3 |
-| Player Level: Lineup | 76.4% | 13.5 |
+| Player Level: Lineup | 70.5% | 13.5 |
 | Player Level: Minutes | 75.0% | 13.5 |
 
 
@@ -115,7 +115,7 @@ Average Scoreline: 26-23
 ### Queensland Reds V Western Force on 2024/05/25
 
 
-Average Margin: Queensland Reds by 7.6
+Average Margin: Queensland Reds by 7.4
 
 Average Scoreline: 28-21
 
@@ -128,7 +128,7 @@ Average Scoreline: 28-21
 ### Moana Pasifika V New South Wales Waratahs on 2024/05/25
 
 
-Average Margin: New South Wales Waratahs by 1.7
+Average Margin: New South Wales Waratahs by 2.1
 
 Average Scoreline: 27-25
 
@@ -154,7 +154,7 @@ Average Scoreline: 36-28
 ### Highlanders V Fijian Drua on 2024/05/26
 
 
-Average Margin: Highlanders by 4.8
+Average Margin: Highlanders by 4.4
 
 Average Scoreline: 26-21
 
@@ -169,7 +169,7 @@ Average Scoreline: 26-21
 ### New South Wales Waratahs V Queensland Reds on 2024/05/31
 
 
-Average Margin: Queensland Reds by 1.9
+Average Margin: Queensland Reds by 1.8
 
 Average Scoreline: 30-28
 
@@ -182,9 +182,9 @@ Average Scoreline: 30-28
 ### Crusaders V Moana Pasifika on 2024/05/31
 
 
-Average Margin: Crusaders by 14.2
+Average Margin: Crusaders by 14.0
 
-Average Scoreline: 29-14
+Average Scoreline: 29-15
 
 <p float="left">
 <img src="plots/performances_2024-05-31-Crusaders_V_MoanaPasifika.png" width="32%" />
@@ -195,9 +195,9 @@ Average Scoreline: 29-14
 ### Fijian Drua V Melbourne Rebels on 2024/06/01
 
 
-Average Margin: Fijian Drua by 1.3
+Average Margin: Fijian Drua by 1.8
 
-Average Scoreline: 28-27
+Average Scoreline: 28-26
 
 <p float="left">
 <img src="plots/performances_2024-06-01-FijianDrua_V_MelbourneRebels.png" width="32%" />
@@ -208,7 +208,7 @@ Average Scoreline: 28-27
 ### Blues V Chiefs on 2024/06/01
 
 
-Average Margin: Blues by 5.2
+Average Margin: Blues by 5.4
 
 Average Scoreline: 29-23
 
@@ -221,7 +221,7 @@ Average Scoreline: 29-23
 ### Western Force V Brumbies on 2024/06/01
 
 
-Average Margin: Brumbies by 5.0
+Average Margin: Brumbies by 5.2
 
 Average Scoreline: 31-25
 
@@ -234,7 +234,7 @@ Average Scoreline: 31-25
 ### Hurricanes V Highlanders on 2024/06/01
 
 
-Average Margin: Hurricanes by 17.6
+Average Margin: Hurricanes by 17.5
 
 Average Scoreline: 35-18
 

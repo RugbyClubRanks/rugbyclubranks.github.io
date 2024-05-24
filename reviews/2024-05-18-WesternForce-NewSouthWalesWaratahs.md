@@ -11,7 +11,7 @@ categories: "Super Rugby Pacific 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.557, which translates to predicting Western Force to win by 2.1.
 
-Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 22 to 24
+Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 23 to 25
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Western Force by 6.3 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             51 | Lewis Ponini        |             30.97 |        1 |             51.92 | Harry Hoopert         |             45 |
+|             51 | Lewis Ponini        |             31    |        1 |             51.88 | Harry Hoopert         |             45 |
 |             65 | Jay Fonokalafi      |             45.74 |        2 |             70.66 | Tom Horton            |             70 |
-|             76 | Enrique Pieretto    |             35.7  |        3 |             14.51 | Santiago Medrano      |             55 |
-|             58 | Fergus Lee-Warner   |             17.43 |        4 |             30.6  | Jeremy Williams       |             80 |
-|             37 | Miles Amatosero     |              3.34 |        5 |             90.68 | Izack Rodda           |             73 |
+|             76 | Enrique Pieretto    |             35.73 |        3 |             14.52 | Santiago Medrano      |             55 |
+|             58 | Fergus Lee-Warner   |             17.44 |        4 |             30.63 | Jeremy Williams       |             80 |
+|             37 | Miles Amatosero     |              3.35 |        5 |             90.67 | Izack Rodda           |             73 |
 |             80 | Lachlan Swinton     |             10.63 |        6 |             78.54 | Will Harris           |             50 |
-|             65 | Charlie Gamble      |             66.24 |        7 |             21.06 | Carlo Tizzano         |             80 |
+|             65 | Charlie Gamble      |             66.34 |        7 |             21.06 | Carlo Tizzano         |             80 |
 |             80 | Jed Holloway        |             19.04 |        8 |             89.54 | Reed Prinsep          |             80 |
 |             65 | Jake Gordon         |             84.99 |        9 |             99.65 | Nic White             |             70 |
 |             50 | Will Harrison       |              3.18 |       10 |             62.63 | Ben Donaldson         |             80 |
 |             80 | Dylan Pietsch       |             77.12 |       11 |             83.08 | Chase Tiatia          |             55 |
-|             50 | Lalakai Foketi      |             71.25 |       12 |             87.09 | Hamish Stewart        |             80 |
-|             80 | Joey Walton         |             79.12 |       13 |              9.34 | Bayley Kuenzle        |             80 |
-|             80 | Triston Reilly      |             50.38 |       14 |             69.52 | George Poolman        |             80 |
+|             50 | Lalakai Foketi      |             71.28 |       12 |             87.11 | Hamish Stewart        |             80 |
+|             80 | Joey Walton         |             79.14 |       13 |              9.33 | Bayley Kuenzle        |             80 |
+|             80 | Triston Reilly      |             50.38 |       14 |             69.62 | George Poolman        |             80 |
 |             80 | Mark Nawaqanitawase |             17.95 |       15 |             96.58 | Kurtley Beale         |             80 |
-|             15 | Ben Sugars          |            nan    |       16 |             22.62 | Feleti Kaitu'u        |             10 |
-|             29 | George Thornton     |            nan    |       17 |             40.26 | Marley Pearce         |             35 |
+|             15 | Ben Sugars          |            nan    |       16 |             22.46 | Feleti Kaitu'u        |             10 |
+|             29 | George Thornton     |            nan    |       17 |             40.29 | Marley Pearce         |             35 |
 |             15 | Bradley Amituanai   |            nan    |       18 |            nan    | Tiaan Tauakipulu      |             25 |
-|             26 | Hugh Sinclair       |             11.65 |       19 |             17.22 | Lopeti Faifua         |              7 |
+|             26 | Hugh Sinclair       |             11.66 |       19 |             17.24 | Lopeti Faifua         |              7 |
 |             43 | Langi Gleeson       |             64.02 |       20 |              1.57 | Michael Wells         |             30 |
 |             15 | Jack Grant          |            nan    |       21 |             34.9  | Issak Fines-Leleiwasa |             10 |
-|             30 | Tane Edmed          |             31    |       22 |             23.4  | Sam Spink             |             25 |
-|             30 | Izaia Perese        |             31.69 |       23 |            nan    | Henry O'Donnell       |              0 |
+|             30 | Tane Edmed          |             31    |       22 |             23.38 | Sam Spink             |             25 |
+|             30 | Izaia Perese        |             31.66 |       23 |            nan    | Henry O'Donnell       |              0 |
 

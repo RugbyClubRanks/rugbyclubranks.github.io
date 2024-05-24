@@ -168,11 +168,11 @@ Last Round Error: 5.41 points per match
 
 Competition Accuracy: 104 of 136 (76.47%)
 
-Competition Error: 10.46 points per match
+Competition Error: 10.45 points per match
 
 Last Round Accuracy: 4 of 8 (50.0%)
 
-Last Round Error: 11.8 points per match
+Last Round Error: 11.78 points per match
 
 [2024-05-17 Munster at Edinburgh; 29-26](reviews//2024-05-17-Edinburgh-Munster)
 
@@ -196,13 +196,13 @@ Last Round Error: 11.8 points per match
 
 [In depth model review and projections for Nationale 2023](comp_files/Nationale_2023)
 
-Competition Accuracy: 140 of 189 (74.07%)
+Competition Accuracy: 145 of 189 (76.72%)
 
-Competition Error: 10.27 points per match
+Competition Error: 10.36 points per match
 
 Last Round Accuracy: 6 of 8 (75.0%)
 
-Last Round Error: 12.46 points per match
+Last Round Error: 12.61 points per match
 
 [2024-05-18 Narbonne at Nice; 30-39](reviews//2024-05-18-Nice-Narbonne)
 
@@ -254,8 +254,8 @@ Last Round Error: 16.3 points per match
 
 [2024-05-18 Newman at Buenos Aires; 30-29](reviews//2024-05-18-BuenosAires-Newman)
 
-[2024-05-18 SIC at San Luis; 28-21](reviews//2024-05-18-SanLuis-SIC)
+[2024-05-18 Alumni at CASI; 20-55](reviews//2024-05-18-CASI-Alumni)
 
 [2024-05-18 CUBA at Regatas Bella Vista; 27-35](reviews//2024-05-18-RegatasBellaVista-CUBA)
 
-[2024-05-18 Alumni at CASI; 20-55](reviews//2024-05-18-CASI-Alumni)
+[2024-05-18 SIC at San Luis; 28-21](reviews//2024-05-18-SanLuis-SIC)

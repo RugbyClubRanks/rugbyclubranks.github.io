@@ -11,7 +11,7 @@ categories: "Gallagher Premiership 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.629, which translates to predicting Leicester Tigers to win by 4.7.
 
-Our Over/Under is 57.5 - and combined with the spread above, we have a predicted scoreline of 26 to 31
+Our Over/Under is 60.5 - and combined with the spread above, we have a predicted scoreline of 28 to 33
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Leicester Tigers by 0.5 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             49 | Scott Sio            |             98.29 |        1 |             86.8  | Francois van Wyk      |             55 |
+|             49 | Scott Sio            |             98.29 |        1 |             86.79 | Francois van Wyk      |             55 |
 |             49 | Max Norey            |             84.1  |        2 |             95.08 | Julian Montoya        |             59 |
-|             49 | Marcus Street        |             47.76 |        3 |             47.68 | Dan Cole              |             47 |
-|             48 | Jack Dunne           |             52.48 |        4 |             85.31 | Harry Wells           |             70 |
-|             82 | Dafydd Jenkins       |             93.92 |        5 |             93.21 | George Martin         |             82 |
+|             49 | Marcus Street        |             47.63 |        3 |             47.72 | Dan Cole              |             47 |
+|             48 | Jack Dunne           |             52.43 |        4 |             85.29 | Harry Wells           |             70 |
+|             82 | Dafydd Jenkins       |             93.91 |        5 |             93.2  | George Martin         |             82 |
 |             55 | Ethan Roots          |             87.01 |        6 |             93.5  | Hanro Liebenberg      |             82 |
 |             82 | Jacques Vermeulen    |             90.65 |        7 |             86.71 | Tommy Reffell         |             59 |
 |             82 | Greg Fisilau         |             80.96 |        8 |             84.31 | Jasper Wiese          |             82 |
 |             55 | Tom Cairns           |             86.56 |        9 |             76.27 | Jack van Poortvliet   |             62 |
 |             82 | Harvey Skinner       |             67.73 |       10 |             89.6  | Handre Pollard        |             55 |
 |             82 | Olly Woodburn        |             93.75 |       11 |             84.04 | Ollie Hassell-Collins |             82 |
-|             55 | Joe Hawkins          |             57.08 |       12 |             89.19 | Dan Kelly             |             55 |
-|             82 | Henry Slade          |             98.01 |       13 |             89.82 | Matt Scott            |             82 |
+|             55 | Joe Hawkins          |             57.13 |       12 |             89.2  | Dan Kelly             |             55 |
+|             82 | Henry Slade          |             98.01 |       13 |             89.83 | Matt Scott            |             82 |
 |             82 | Immanuel Feyi-Waboso |             89.04 |       14 |             95.38 | Mike Brown            |             82 |
 |             82 | Dan John             |             60.47 |       15 |             40.17 | Freddie Steward       |             82 |
 |             33 | Dan Frost            |             90    |       16 |              8.36 | Charlie Clare         |             23 |
-|             33 | Billy Keast          |            nan    |       17 |             89.81 | James Cronin          |             27 |
-|             33 | Ehren Painter        |             70.17 |       18 |             89.57 | Joe Heyes             |             35 |
+|             33 | Billy Keast          |            nan    |       17 |             89.8  | James Cronin          |             27 |
+|             33 | Ehren Painter        |             70.15 |       18 |             89.56 | Joe Heyes             |             35 |
 |             34 | Christ Tshiunza      |             49.11 |       19 |             83.07 | Finn Carnduff         |             12 |
 |             27 | Ross Vintcent        |             79.08 |       20 |             37.01 | Olly Cracknell        |             23 |
 |             27 | Niall Armstrong      |            nan    |       21 |             63.87 | Tom Whiteley          |             20 |
 |              0 | Will Haydon-Wood     |            nan    |       22 |            nan    | Kieran Wilkinson      |             27 |
-|             27 | Zack Wimbush         |             53.2  |       23 |             32.32 | Solomone Kata         |             27 |
+|             27 | Zack Wimbush         |             53.25 |       23 |             32.29 | Solomone Kata         |             27 |
 

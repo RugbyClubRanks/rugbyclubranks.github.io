@@ -9,9 +9,9 @@ categories: "United Rugby Championship 2023" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.376, which translates to predicting Leinster to win by 4.5.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.378, which translates to predicting Leinster to win by 4.4.
 
-Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 24 to 19
+Our Over/Under is 42.5 - and combined with the spread above, we have a predicted scoreline of 24 to 19
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Leinster by 13.2 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             61 | Cian Healy         |             92.99 |        1 |             86.55 | Eric O'Sullivan    |             55 |
+|             61 | Cian Healy         |             92.99 |        1 |             86.54 | Eric O'Sullivan    |             55 |
 |             61 | Ronan Kelleher     |             93.28 |        2 |             94.75 | Rob Herring        |             49 |
-|             61 | Michael Ala'alatoa |             94.46 |        3 |             73.59 | Tom O'Toole        |             65 |
-|             55 | Brian Deeny        |             43.26 |        4 |             71.12 | Kieran Treadwell   |             69 |
-|             80 | James Ryan         |             95.64 |        5 |             81.56 | Alan O'Connor      |             80 |
+|             61 | Michael Ala'alatoa |             94.45 |        3 |             73.57 | Tom O'Toole        |             65 |
+|             55 | Brian Deeny        |             43.2  |        4 |             71.1  | Kieran Treadwell   |             69 |
+|             80 | James Ryan         |             95.64 |        5 |             81.54 | Alan O'Connor      |             80 |
 |             80 | Max Deegan         |             91.04 |        6 |             64.57 | Cormac Izuchukwu   |             62 |
 |             66 | Will Connors       |             83.56 |        7 |             80.51 | David McCann       |             80 |
 |             80 | Jack Conan         |             98.54 |        8 |             88.08 | Nick Timoney       |             80 |
 |             80 | Cormac Foley       |             45.2  |        9 |             93.37 | John Cooney        |             80 |
 |             74 | Harry Byrne        |             87.05 |       10 |             62.85 | Billy Burns        |             74 |
-|             80 | Rob Russell        |             65.29 |       11 |             57.79 | Jacob Stockdale    |             80 |
-|             26 | Charlie Ngatai     |             88.35 |       12 |             83.84 | Stuart McCloskey   |             74 |
-|             80 | Jimmy O'Brien      |             90.35 |       13 |             89.72 | Will Addison       |             80 |
-|             37 | Tommy O'Brien      |             50.29 |       14 |             62.12 | Mike Lowry         |             80 |
-|             80 | Hugo Keenan        |             99.36 |       15 |             80.98 | Ethan McIlroy      |             55 |
+|             80 | Rob Russell        |             65.19 |       11 |             57.79 | Jacob Stockdale    |             80 |
+|             26 | Charlie Ngatai     |             88.36 |       12 |             83.86 | Stuart McCloskey   |             74 |
+|             80 | Jimmy O'Brien      |             90.36 |       13 |             89.73 | Will Addison       |             80 |
+|             37 | Tommy O'Brien      |             50.19 |       14 |             62.12 | Mike Lowry         |             80 |
+|             80 | Hugo Keenan        |             99.36 |       15 |             81.2  | Ethan McIlroy      |             55 |
 |             19 | John McKee         |             68.69 |       16 |              3.93 | Tom Stewart        |             31 |
-|             19 | Michael Milne      |             68.79 |       17 |             10.76 | Andrew Warwick     |             25 |
-|             19 | Thomas Clarkson    |             81.09 |       18 |             70.9  | Scott Wilson       |             15 |
-|             25 | Ross Molony        |             94.73 |       19 |             87.44 | Harry Sheridan     |             11 |
-|             14 | Scott Penny        |             82.68 |       20 |             68.31 | Matty Rea          |             18 |
+|             19 | Michael Milne      |             68.76 |       17 |             10.77 | Andrew Warwick     |             25 |
+|             19 | Thomas Clarkson    |             81.08 |       18 |             70.88 | Scott Wilson       |             15 |
+|             25 | Ross Molony        |             94.73 |       19 |             87.42 | Harry Sheridan     |             11 |
+|             14 | Scott Penny        |             82.58 |       20 |             68.31 | Matty Rea          |             18 |
 |             43 | Luke McGrath       |             98.78 |       21 |             23.73 | Nathan Doak        |              6 |
 |              6 | Sam Prendergast    |             32.91 |       22 |             87.39 | Stewart Moore      |             25 |
-|             54 | Ben Brownlee       |             26.02 |       23 |             59.29 | Jude Postlethwaite |              6 |
+|             54 | Ben Brownlee       |             26    |       23 |             59.33 | Jude Postlethwaite |              6 |
 

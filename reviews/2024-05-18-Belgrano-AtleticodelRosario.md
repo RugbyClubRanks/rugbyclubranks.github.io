@@ -11,7 +11,7 @@ categories: "URBA Top 12 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.803, which translates to predicting Belgrano to win by 12.7.
 
-Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 20 to 33
+Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 18 to 31
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,19 +69,19 @@ Belgrano by 8.5 on a neutral pitch
 
 |   Away Minutes | Away Player                 |   Away Percentile |   Number |   Home Percentile | Home Player            |   Home Minutes |
 |---------------:|:----------------------------|------------------:|---------:|------------------:|:-----------------------|---------------:|
-|             80 | Agustin Fernandez           |              7.09 |        1 |             80.77 | Francisco Ferronato    |             80 |
-|             80 | Jeremias Aime               |              5.57 |        2 |             81.31 | Francisco Lusarreta    |             80 |
-|             80 | Bruno Montenegro            |             30.4  |        3 |             78.81 | Lisandro Garcia Dragui |             80 |
-|             80 | Matias Kremer               |              9.12 |        4 |             80.95 | Luciano Tecca          |             80 |
-|             80 | Octavio Capella             |              8.81 |        5 |             67.98 | Mikael Quesada         |             80 |
+|             80 | Agustin Fernandez           |              7.1  |        1 |             80.75 | Francisco Ferronato    |             80 |
+|             80 | Jeremias Aime               |              5.57 |        2 |             81.48 | Francisco Lusarreta    |             80 |
+|             80 | Bruno Montenegro            |             30.42 |        3 |             78.79 | Lisandro Garcia Dragui |             80 |
+|             80 | Matias Kremer               |              9.13 |        4 |             80.93 | Luciano Tecca          |             80 |
+|             80 | Octavio Capella             |              8.82 |        5 |             67.95 | Mikael Quesada         |             80 |
 |             80 | Santiago Casals             |              6.5  |        6 |             76.57 | Joaquin de la Serna    |             80 |
 |             80 | Jose Caseres                |             29.63 |        7 |             63.09 | Augusto Vaccarino      |             80 |
 |             80 | Lucas Malanos               |              8.79 |        8 |             72.8  | Franco Vega            |             80 |
 |             80 | Martin Del Pazo             |             36.65 |        9 |             58.99 | Ignacio Marino         |             80 |
 |             80 | Pedro de Aro                |              6.37 |       10 |             52.44 | Juan Aparicio          |             80 |
 |             80 | Facundo Gerosa              |             15.29 |       11 |             75.67 | Ignacio Diaz           |             80 |
-|             80 | Guido Vidalle               |              8.39 |       12 |             72.46 | Ramon Arana            |             80 |
-|             80 | Valentino Aime              |             12.28 |       13 |             72.46 | Tomas Etchepare        |             80 |
+|             80 | Guido Vidalle               |              8.39 |       12 |             72.48 | Ramon Arana            |             80 |
+|             80 | Valentino Aime              |             12.26 |       13 |             72.48 | Tomas Etchepare        |             80 |
 |             80 | Nicolas Cripovich           |             32.5  |       14 |             66.44 | Tobias Bernabe         |             80 |
 |             80 | Pedro Bisio                 |              5.98 |       15 |             70.73 | Juan Lando             |             80 |
 |              0 | Matias Malanos              |            nan    |       16 |            nan    | Jose Saporitti         |              0 |
@@ -91,5 +91,5 @@ Belgrano by 8.5 on a neutral pitch
 |              0 | Jose Ignacio Ferrer         |            nan    |       20 |            nan    | Octavio Carroll        |              0 |
 |              0 | Felipe Paloma               |            nan    |       21 |            nan    | Francisco Gradin       |              0 |
 |              0 | Ramiro Musio                |            nan    |       22 |             68.76 | Theo Blaksley          |              0 |
-|              0 | Maximiliano Nicoli Fiscella |             14.9  |       23 |            nan    | Juan Brescia           |              0 |
+|              0 | Maximiliano Nicoli Fiscella |             14.81 |       23 |            nan    | Juan Brescia           |              0 |
 

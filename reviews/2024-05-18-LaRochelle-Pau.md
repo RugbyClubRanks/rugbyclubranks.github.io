@@ -11,7 +11,7 @@ categories: "Top 14 Orange 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.789, which translates to predicting La Rochelle to win by 11.6.
 
-Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 20 to 31
+Our Over/Under is 54.5 - and combined with the spread above, we have a predicted scoreline of 21 to 33
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ La Rochelle by 11.2 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             38 | Ignacio Calles       |             54.2  |        1 |             27.71 | Louis Penverne        |             45 |
+|             38 | Ignacio Calles       |             54.16 |        1 |             27.65 | Louis Penverne        |             45 |
 |             47 | Romain Ruffenach     |             71.64 |        2 |             69.02 | Quentin Lespiaucq     |             45 |
-|             51 | Nicolas Corato       |             13.28 |        3 |             99.27 | Uini Atonio           |             49 |
-|             48 | Samuel Whitelock     |             99.19 |        4 |             89.87 | Thomas Lavault        |             61 |
-|             81 | Lekima Tagitagivalu  |             74.06 |        5 |             98.48 | Will Skelton          |             74 |
-|             63 | Sacha Zegueur        |             31.99 |        6 |             17.22 | Judicael Cancoriet    |             81 |
+|             51 | Nicolas Corato       |             13.3  |        3 |             99.27 | Uini Atonio           |             49 |
+|             48 | Samuel Whitelock     |             99.19 |        4 |             89.86 | Thomas Lavault        |             61 |
+|             81 | Lekima Tagitagivalu  |             74.04 |        5 |             98.48 | Will Skelton          |             74 |
+|             63 | Sacha Zegueur        |             31.89 |        6 |             17.22 | Judicael Cancoriet    |             81 |
 |             54 | Thibaut Hamonou      |             37.11 |        7 |             24.21 | Oscar Jegou           |             61 |
 |             81 | Beka Gorgadze        |             74.69 |        8 |             97.49 | Gregory Alldritt      |             81 |
 |             61 | Thibault Daubagna    |             92.84 |        9 |             78.53 | Thomas Berjon         |             67 |
 |             72 | Joe Simmonds         |             85.77 |       10 |             37.79 | Ihaia West            |             70 |
 |             74 | Elliot Roudil        |             22.6  |       11 |             97.98 | Dillyn Leyds          |             81 |
-|             81 | Nathan Decron        |             74.61 |       12 |             28.96 | Simeli Daunivucu      |             49 |
-|             81 | Emilien Gailleton    |             70.3  |       13 |             77.23 | Jules Favre           |             81 |
+|             81 | Nathan Decron        |             74.63 |       12 |             28.93 | Simeli Daunivucu      |             49 |
+|             81 | Emilien Gailleton    |             70.34 |       13 |             77.25 | Jules Favre           |             81 |
 |             81 | Theo Attissogbe      |             24.04 |       14 |             95.58 | Jack Nowell           |             81 |
 |             81 | Jack Maddocks        |             85.26 |       15 |             45.09 | Antoine Hastoy        |             81 |
 |             34 | Youri Delhommel      |             52.95 |       16 |             90.82 | Tolu Latu             |             36 |
-|             43 | Simon-Pierre Chauvac |             45.31 |       17 |             96.82 | Reda Wardi            |             36 |
-|             33 | Guillaume Ducat      |             19.15 |       18 |             64.03 | Remi Picquette        |             20 |
+|             43 | Simon-Pierre Chauvac |             45.27 |       17 |             96.82 | Reda Wardi            |             36 |
+|             33 | Guillaume Ducat      |             19.17 |       18 |             64    | Remi Picquette        |             20 |
 |             18 | Martin Puech         |             76.08 |       19 |             51.18 | Matthias Haddad       |             27 |
 |             27 | Reece Hewat          |             78.94 |       20 |             71.76 | Yoan Tanga            |             32 |
 |             29 | Dan Robson           |             97.91 |       21 |            nan    | Mathis Brunet         |             14 |
 |              7 | Axel Desperes        |             80.04 |       22 |             45.01 | Hugo Reus             |             11 |
-|             30 | Siate Tokolahi       |             84.11 |       23 |              3.75 | Georges-Henri Colombe |             32 |
+|             30 | Siate Tokolahi       |             84.09 |       23 |              3.67 | Georges-Henri Colombe |             32 |
 

@@ -11,7 +11,7 @@ categories: "Pro D2 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.734, which translates to predicting Brive to win by 8.9.
 
-Our Over/Under is 58.5 - and combined with the spread above, we have a predicted scoreline of 25 to 34
+Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 22 to 31
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Brive by 10.5 on a neutral pitch
 
 |   Away Minutes | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             46 | Zakaria El Fakir  |             10.19 |        1 |             16.71 | Daniel Brennan       |             40 |
+|             46 | Zakaria El Fakir  |             10.2  |        1 |             16.72 | Daniel Brennan       |             40 |
 |             40 | Thomas Sauveterre |             70.82 |        2 |             56.39 | Lucas da Silva       |             57 |
-|             67 | Mohamed Haouas    |             77.59 |        3 |             79.79 | Vakh Abdaladze       |             40 |
-|             75 | Adrian Motoc      |              2.23 |        4 |             72.85 | Renger Van Eerten    |             80 |
-|             80 | Charlie Matthews  |             64.84 |        5 |             76.09 | Tevita Ratuva        |             80 |
+|             67 | Mohamed Haouas    |             77.57 |        3 |             79.77 | Vakh Abdaladze       |             40 |
+|             75 | Adrian Motoc      |              2.23 |        4 |             72.82 | Renger Van Eerten    |             80 |
+|             80 | Charlie Matthews  |             64.81 |        5 |             76.06 | Tevita Ratuva        |             80 |
 |             80 | Dave O'Callaghan  |             48.82 |        6 |             86.22 | Retief Marais        |             80 |
 |             44 | Johnny Dyer       |              1.67 |        7 |             95.87 | Said Hireche         |             57 |
 |             52 | Tornike Jalagonia |             40.17 |        8 |             91    | Ross Moriarty        |             57 |
 |             67 | Pierre Pages      |             18.67 |        9 |             67.02 | Leo Carbonneau       |             80 |
 |             80 | Billy Searle      |              5.1  |       10 |             92.78 | Stuart Olding        |             57 |
 |             80 | Steeve Barry      |             18.46 |       11 |             86.83 | Arthur Bonneval      |             80 |
-|             80 | Yann David        |             70.09 |       12 |             92.65 | Sam Johnson          |             80 |
-|             80 | Jonathan Joseph   |             84.05 |       13 |             61.49 | Georges Shvelidze    |             80 |
+|             80 | Yann David        |             70.13 |       12 |             92.66 | Sam Johnson          |             80 |
+|             80 | Jonathan Joseph   |             84.07 |       13 |             61.53 | Georges Shvelidze    |             80 |
 |             80 | Zach Kibirige     |              8.75 |       14 |             77.5  | Mathis Ferté         |             16 |
 |             58 | Gervais Cordin    |             35.26 |       15 |             60.68 | Nic Krone            |             80 |
-|             40 | Luteru Tolai      |             53.61 |       16 |             42.25 | Tom Raffy            |             64 |
+|             40 | Luteru Tolai      |             53.93 |       16 |             42.25 | Tom Raffy            |             64 |
 |             36 | Temo Matiu        |             21.97 |       17 |            nan    | Nathan Fraissenon    |             40 |
-|             34 | Giorgi Nutsubidze |              3.34 |       18 |             12.22 | Marcel van der Merwe |             40 |
+|             34 | Giorgi Nutsubidze |              3.34 |       18 |             12.23 | Marcel van der Merwe |             40 |
 |             28 | Charlie Francoz   |              5.22 |       19 |             42.13 | Benjamin Boudou      |             23 |
-|             22 | Vincent Martin    |             12.6  |       20 |             32.02 | Julien Delannoy      |             23 |
-|             13 | Lasha Tabidze     |             65.61 |       21 |             60.46 | Taniela Sadrugu      |             23 |
-|             13 | Antoine Domercq   |             36.13 |       22 |             52.36 | Guillaume Galletier  |             23 |
+|             22 | Vincent Martin    |             12.6  |       20 |             31.95 | Julien Delannoy      |             23 |
+|             13 | Lasha Tabidze     |             65.58 |       21 |             60.46 | Taniela Sadrugu      |             23 |
+|             13 | Antoine Domercq   |             36.13 |       22 |             52.31 | Guillaume Galletier  |             23 |
 |              5 | Thomas Hebert     |             27.17 |       23 |            nan    | nan                  |            nan |
 
