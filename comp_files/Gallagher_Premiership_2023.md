@@ -1,6 +1,6 @@
 ---  
 title: "Gallagher Premiership 2023 Status"  
-date: 2024-05-23 6:00:00 -0500  
+date: 2024-05-27 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -39,10 +39,10 @@ aside:
 
 | Club               |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Bath Rugby         |                   1 |    0.8 |              3.20474 |                   0.2 |                0.2 |                  3.7 |
-| Northampton Saints |                   1 |    0.8 |              2.91065 |                   0.2 |                0.2 |                  3.5 |
-| Saracens           |                   1 |    0.2 |             -2.91065 |                   0.6 |                0.2 |                  1.7 |
-| Sale Sharks        |                   1 |    0.2 |             -3.20474 |                   0.7 |                0.2 |                  1.7 |
+| Bath Rugby         |                   1 |    0.8 |              3.20042 |                   0.2 |                0.3 |                  3.7 |
+| Northampton Saints |                   1 |    0.8 |              2.99214 |                   0.2 |                0.2 |                  3.5 |
+| Saracens           |                   1 |    0.2 |             -2.99214 |                   0.6 |                0.2 |                  1.7 |
+| Sale Sharks        |                   1 |    0.2 |             -3.20042 |                   0.6 |                0.3 |                  1.7 |
 
 
 
@@ -51,10 +51,10 @@ aside:
 
 | Club               |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Bath Rugby         |              20 |   11.8 |             101.205  |                   5.2 |                0.2 |                 65.7 |
-| Northampton Saints |              19 |   12.8 |             104.911  |                   2.2 |               10.2 |                 63.5 |
-| Saracens           |              19 |   11.2 |             132.089  |                   2.6 |               10.2 |                 57.7 |
-| Sale Sharks        |              19 |   12.2 |              22.7953 |                   1.7 |                7.2 |                 57.7 |
+| Bath Rugby         |              20 |   11.8 |             101.2    |                   5.2 |                0.3 |                 65.7 |
+| Northampton Saints |              19 |   12.8 |             104.992  |                   2.2 |               10.2 |                 63.5 |
+| Saracens           |              19 |   11.2 |             132.008  |                   2.6 |               10.2 |                 57.7 |
+| Sale Sharks        |              19 |   12.2 |              22.7996 |                   1.6 |                7.3 |                 57.7 |
 | Bristol Rugby      |              19 |   11   |             144      |                   2   |                0   |                 56   |
 | Harlequins         |              19 |    9   |             -34      |                   4   |                0   |                 53   |
 | Exeter Chiefs      |              19 |   10   |              75      |                   1   |                0   |                 52   |
@@ -74,8 +74,8 @@ aside:
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
 | Club Level | 63.3% | 13.6 |
-| Player Level: Lineup | 67.8% | 13.5 |
-| Player Level: Minutes | 64.4% | 13.6 |
+| Player Level: Lineup | 67.1% | 13.1 |
+| Player Level: Minutes | 64.7% | 13.2 |
 
 
 # Future Predictions
@@ -85,9 +85,9 @@ aside:
 ### Northampton Saints V Saracens on 2024/05/31
 
 
-Average Margin: Northampton Saints by 2.9
+Average Margin: Northampton Saints by 3.0
 
-Average Scoreline: 25-23
+Average Scoreline: 27-24
 
 <p float="left">
 <img src="plots/performances_2024-05-31-NorthamptonSaints_V_Saracens.png" width="32%" />
@@ -100,7 +100,7 @@ Average Scoreline: 25-23
 
 Average Margin: Bath Rugby by 3.2
 
-Average Scoreline: 30-27
+Average Scoreline: 25-22
 
 <p float="left">
 <img src="plots/performances_2024-06-01-BathRugby_V_SaleSharks.png" width="32%" />

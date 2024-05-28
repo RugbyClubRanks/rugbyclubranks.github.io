@@ -104,7 +104,7 @@ key: page-recents
 ## Super Rugby Pacific
 
 
-[2024](comp_files\Super_Rugby_Pacific_2024) - Prediction Accuracy: 75.0% 
+[2024](comp_files\Super_Rugby_Pacific_2024) - Prediction Accuracy: 73.7% 
 
 [2023](comp_files\Super_Rugby_Pacific_2023) - Prediction Accuracy: 79.1% 
 
@@ -116,7 +116,7 @@ key: page-recents
 ## United Rugby Championship
 
 
-[2023](comp_files\United_Rugby_Championship_2023) - Prediction Accuracy: 76.5% 
+[2023](comp_files\United_Rugby_Championship_2023) - Prediction Accuracy: 75.7% 
 
 [2022](comp_files\United_Rugby_Championship_2022) - Prediction Accuracy: 70.7% 
 
@@ -266,7 +266,7 @@ key: page-recents
 ## Pro D2
 
 
-[2023](comp_files\Pro_D2_2023) - Prediction Accuracy: 74.6% 
+[2023](comp_files\Pro_D2_2023) - Prediction Accuracy: 74.8% 
 
 [2022](comp_files\Pro_D2_2022) - Prediction Accuracy: 67.8% 
 

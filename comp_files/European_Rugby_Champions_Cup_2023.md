@@ -1,6 +1,6 @@
 ---  
 title: "European Rugby Champions Cup 2023 Status"  
-date: 2024-05-23 6:00:00 -0500  
+date: 2024-05-24 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -101,7 +101,7 @@ Average Margin: Leinster by 2.7
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
 | Club Level | 74.2% | 13.3 |
-| Player Level: Lineup | 66.1% | 12.6 |
+| Player Level: Lineup | 65.1% | 12.6 |
 | Player Level: Minutes | 66.1% | 12.8 |
 
 
