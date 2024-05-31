@@ -13,3 +13,1110 @@ test_contents.py::test_comp_random_playoff PASSED                        [100%]
 
 ============================== 6 passed in 0.04s ==============================
 All tests passed. 
+[main a5a5fc9f7f] Automated update for 05/27/2024
+ 1120 files changed, 5905 insertions(+), 8764 deletions(-)
+ rewrite Current_Projections.md (83%)
+ rewrite Recent_Matches.md (87%)
+ rewrite comp_files/Allianz_Premier_15s_2023.md (63%)
+ create mode 100644 comp_files/Asia_Rugby_Championship_-_Top_3_2024.md
+ rewrite comp_files/Super_Rugby_Pacific_2024.md (63%)
+ rewrite comp_files/URBA_Top_12_2024.md (61%)
+ delete mode 100644 comp_files/plots/performances_2024-05-23-Grenoble_V_Dax.png
+ delete mode 100644 comp_files/plots/performances_2024-05-24-Beziers_V_Brive.png
+ delete mode 100644 comp_files/plots/performances_2024-05-24-Brumbies_V_MelbourneRebels.png
+ delete mode 100644 comp_files/plots/performances_2024-05-24-Chiefs_V_Hurricanes.png
+ delete mode 100644 comp_files/plots/performances_2024-05-24-HanazonoKintetsuLiners_V_UrayasuD-Rocks.png
+ delete mode 100644 comp_files/plots/performances_2024-05-24-Nottingham_V_Caldy.png
+ delete mode 100644 comp_files/plots/performances_2024-05-24-SeattleSeawolves_V_OldGloryDC.png
+ delete mode 100644 comp_files/plots/performances_2024-05-24-Sharks_V_GloucesterRugby.png
+ delete mode 100644 comp_files/plots/performances_2024-05-25-Alumni_V_BuenosAires.png
+ delete mode 100644 comp_files/plots/performances_2024-05-25-AtleticodelRosario_V_Hindu.png
+ delete mode 100644 comp_files/plots/performances_2024-05-25-BlackRamsTokyo_V_GreenRocketsTokatsu.png
+ delete mode 100644 comp_files/plots/performances_2024-05-25-CUBA_V_CASI.png
+ delete mode 100644 comp_files/plots/performances_2024-05-25-Cambridge_V_Ampthill.png
+ delete mode 100644 comp_files/plots/performances_2024-05-25-Champagnat_V_SanLuis.png
+ delete mode 100644 comp_files/plots/performances_2024-05-25-Coventry_V_Jersey.png
+ delete mode 100644 comp_files/plots/performances_2024-05-25-Crusaders_V_Blues.png
+ delete mode 100644 comp_files/plots/performances_2024-05-25-DogosXV_V_PenarolRugby.png
+ delete mode 100644 comp_files/plots/performances_2024-05-25-EalingTrailfindersWomen_V_LoughboroughLightning.png
+ delete mode 100644 comp_files/plots/performances_2024-05-25-EalingTrailfinders_V_Bedford.png
+ delete mode 100644 comp_files/plots/performances_2024-05-25-HarlequinsWomen_V_BristolBearsWomen.png
+ delete mode 100644 comp_files/plots/performances_2024-05-25-HartpuryCollege_V_Doncaster.png
+ delete mode 100644 comp_files/plots/performances_2024-05-25-LeicesterTigersWomen_V_SaleSharksWomen.png
+ delete mode 100644 comp_files/plots/performances_2024-05-25-Leinster_V_StadeToulousain.png
+ delete mode 100644 comp_files/plots/performances_2024-05-25-LondonScottish_V_CornishPirates.png
+ delete mode 100644 comp_files/plots/performances_2024-05-25-Luxembourg_V_Moldova.png
+ delete mode 100644 comp_files/plots/performances_2024-05-25-MiamiSharks_V_NewEnglandFreeJacks.png
+ delete mode 100644 comp_files/plots/performances_2024-05-25-MieHondaHeat_V_ToyotaShuttlesAichi.png
+ delete mode 100644 comp_files/plots/performances_2024-05-25-MoanaPasifika_V_NewSouthWalesWaratahs.png
+ delete mode 100644 comp_files/plots/performances_2024-05-25-Newman_V_Belgrano.png
+ delete mode 100644 comp_files/plots/performances_2024-05-25-PampasXV_V_Cobras.png
+ delete mode 100644 comp_files/plots/performances_2024-05-25-QueenslandReds_V_WesternForce.png
+ delete mode 100644 comp_files/plots/performances_2024-05-25-SIC_V_RegatasBellaVista.png
+ delete mode 100644 comp_files/plots/performances_2024-05-25-SaracensWomen_V_Gloucester-HartpuryWomen.png
+ delete mode 100644 comp_files/plots/performances_2024-05-25-Selknam_V_AmericanRaptors.png
+ delete mode 100644 comp_files/plots/performances_2024-05-25-YokohamaCanonEagles_V_TokyoSungoliath.png
+ delete mode 100644 comp_files/plots/performances_2024-05-26-ChicagoHounds_V_NOLAGold.png
+ delete mode 100644 comp_files/plots/performances_2024-05-26-Highlanders_V_FijianDrua.png
+ delete mode 100644 comp_files/plots/performances_2024-05-26-RFCLosAngeles_V_SanDiegoLegion.png
+ delete mode 100644 comp_files/plots/performances_2024-05-26-SaitamaWildKnights_V_ToshibaBraveLupus.png
+ create mode 100644 comp_files/plots/performances_2024-05-30-ProvenceRugby_V_Grenoble.png
+ rewrite comp_files/plots/performances_2024-05-31-Crusaders_V_MoanaPasifika.png (99%)
+ rewrite comp_files/plots/performances_2024-05-31-GlasgowWarriors_V_Zebre.png (99%)
+ rewrite comp_files/plots/performances_2024-05-31-Leinster_V_Connacht.png (99%)
+ rewrite comp_files/plots/performances_2024-05-31-NewSouthWalesWaratahs_V_QueenslandReds.png (99%)
+ rewrite comp_files/plots/performances_2024-05-31-NorthamptonSaints_V_Saracens.png (99%)
+ create mode 100644 comp_files/plots/performances_2024-05-31-Vannes_V_Beziers.png
+ rewrite comp_files/plots/performances_2024-06-01-BathRugby_V_SaleSharks.png (98%)
+ create mode 100644 comp_files/plots/performances_2024-06-01-Belgrano_V_BuenosAires.png
+ rewrite comp_files/plots/performances_2024-06-01-BenettonTreviso_V_Edinburgh.png (99%)
+ create mode 100644 comp_files/plots/performances_2024-06-01-Bermuda_V_Bahamas.png
+ rewrite comp_files/plots/performances_2024-06-01-Blues_V_Chiefs.png (98%)
+ create mode 100644 comp_files/plots/performances_2024-06-01-CASI_V_SIC.png
+ create mode 100644 comp_files/plots/performances_2024-06-01-CUBA_V_Alumni.png
+ rewrite comp_files/plots/performances_2024-06-01-CardiffBlues_V_Ospreys.png (99%)
+ rewrite comp_files/plots/performances_2024-06-01-CastresOlympique_V_StadeFrancaisParis.png (99%)
+ create mode 100644 comp_files/plots/performances_2024-06-01-CaymanIslands_V_Mexico.png
+ rewrite comp_files/plots/performances_2024-06-01-ExeterChiefsWomen_V_LeicesterTigersWomen.png (99%)
+ rewrite comp_files/plots/performances_2024-06-01-FijianDrua_V_MelbourneRebels.png (98%)
+ rewrite comp_files/plots/performances_2024-06-01-HarlequinsWomen_V_EalingTrailfindersWomen.png (99%)
+ create mode 100644 comp_files/plots/performances_2024-06-01-Hindu_V_Newman.png
+ create mode 100644 comp_files/plots/performances_2024-06-01-HongKong_V_UnitedArabEmirates.png
+ rewrite comp_files/plots/performances_2024-06-01-Hurricanes_V_Highlanders.png (99%)
+ create mode 100644 comp_files/plots/performances_2024-06-01-Korea_V_Malaysia.png
+ rewrite comp_files/plots/performances_2024-06-01-LoughboroughLightning_V_SaracensWomen.png (98%)
+ rewrite comp_files/plots/performances_2024-06-01-MontpellierHerault_V_Lyon.png (99%)
+ rewrite comp_files/plots/performances_2024-06-01-Munster_V_Ulster.png (99%)
+ rewrite comp_files/plots/performances_2024-06-01-NOLAGold_V_HoustonSaberCats.png (99%)
+ rewrite comp_files/plots/performances_2024-06-01-OldGloryDC_V_AnthemRC.png (99%)
+ rewrite comp_files/plots/performances_2024-06-01-Oyonnax_V_Bayonne.png (99%)
+ rewrite comp_files/plots/performances_2024-06-01-Perpignan_V_BordeauxBegles.png (98%)
+ rewrite comp_files/plots/performances_2024-06-01-Racing92_V_Pau.png (99%)
+ create mode 100644 comp_files/plots/performances_2024-06-01-RegatasBellaVista_V_Champagnat.png
+ rewrite comp_files/plots/performances_2024-06-01-SaleSharksWomen_V_BristolBearsWomen.png (99%)
+ create mode 100644 comp_files/plots/performances_2024-06-01-SanLuis_V_AtleticodelRosario.png
+ rewrite comp_files/plots/performances_2024-06-01-Scarlets_V_Dragons.png (98%)
+ rewrite comp_files/plots/performances_2024-06-01-Sharks_V_Bulls.png (99%)
+ delete mode 100644 comp_files/plots/performances_2024-06-01-StadeToulousain_V_LaRochelle.png
+ rewrite comp_files/plots/performances_2024-06-01-Stormers_V_Lions.png (99%)
+ delete mode 100644 comp_files/plots/performances_2024-06-01-Toulon_V_ClermontAuvergne.png
+ rewrite comp_files/plots/performances_2024-06-01-UtahWarriors_V_SanDiegoLegion.png (98%)
+ rewrite comp_files/plots/performances_2024-06-01-WesternForce_V_Brumbies.png (98%)
+ create mode 100644 comp_files/plots/performances_2024-06-02-KoreaRepublic_V_Malaysia.png
+ rewrite comp_files/plots/performances_2024-06-02-Narbonne_V_Montauban.png (99%)
+ rewrite comp_files/plots/performances_2024-06-02-NewEnglandFreeJacks_V_DallasJackals.png (99%)
+ rewrite comp_files/plots/performances_2024-06-02-RFCLosAngeles_V_MiamiSharks.png (98%)
+ create mode 100644 comp_files/plots/performances_2024-06-02-StadeToulousain_V_LaRochelle.png
+ create mode 100644 comp_files/plots/performances_2024-06-02-Toulon_V_ClermontAuvergne.png
+ rewrite comp_files/plots/performances_2024-06-08-Bayonne_V_CastresOlympique.png (99%)
+ rewrite comp_files/plots/performances_2024-06-08-BordeauxBegles_V_Oyonnax.png (99%)
+ rewrite comp_files/plots/performances_2024-06-08-ClermontAuvergne_V_MontpellierHerault.png (99%)
+ rewrite comp_files/plots/performances_2024-06-08-HoustonSaberCats_V_RFCLosAngeles.png (99%)
+ rewrite comp_files/plots/performances_2024-06-08-LaRochelle_V_Racing92.png (99%)
+ rewrite comp_files/plots/performances_2024-06-08-Lyon_V_StadeToulousain.png (99%)
+ rewrite comp_files/plots/performances_2024-06-08-OldGloryDC_V_NewEnglandFreeJacks.png (99%)
+ rewrite comp_files/plots/performances_2024-06-08-Pau_V_Perpignan.png (99%)
+ rewrite comp_files/plots/performances_2024-06-08-StadeFrancaisParis_V_Toulon.png (98%)
+ rewrite comp_files/plots/performances_2024-06-09-DallasJackals_V_ChicagoHounds.png (99%)
+ rewrite comp_files/plots/performances_2024-06-09-MiamiSharks_V_NOLAGold.png (99%)
+ rewrite comp_files/plots/performances_2024-06-09-SanDiegoLegion_V_AnthemRC.png (99%)
+ rewrite comp_files/plots/performances_2024-06-09-SeattleSeawolves_V_UtahWarriors.png (98%)
+ rewrite comp_files/plots/performances_2024-06-14-DallasJackals_V_OldGloryDC.png (98%)
+ rewrite comp_files/plots/performances_2024-06-15-ChicagoHounds_V_SanDiegoLegion.png (99%)
+ rewrite comp_files/plots/performances_2024-06-15-HoustonSaberCats_V_SeattleSeawolves.png (98%)
+ rewrite comp_files/plots/performances_2024-06-16-AnthemRC_V_MiamiSharks.png (99%)
+ rewrite comp_files/plots/performances_2024-06-16-NewEnglandFreeJacks_V_UtahWarriors.png (99%)
+ rewrite comp_files/plots/performances_2024-06-16-RFCLosAngeles_V_NOLAGold.png (98%)
+ rewrite comp_files/plots/performances_2024-06-22-AnthemRC_V_ChicagoHounds.png (98%)
+ rewrite comp_files/plots/performances_2024-06-22-MiamiSharks_V_OldGloryDC.png (99%)
+ rewrite comp_files/plots/performances_2024-06-22-NOLAGold_V_NewEnglandFreeJacks.png (98%)
+ rewrite comp_files/plots/performances_2024-06-22-SeattleSeawolves_V_RFCLosAngeles.png (99%)
+ rewrite comp_files/plots/performances_2024-06-22-UtahWarriors_V_DallasJackals.png (98%)
+ rewrite comp_files/plots/performances_2024-06-23-SanDiegoLegion_V_HoustonSaberCats.png (99%)
+ rewrite comp_files/plots/performances_2024-06-28-UtahWarriors_V_RFCLosAngeles.png (99%)
+ rewrite comp_files/plots/performances_2024-06-29-ChicagoHounds_V_MiamiSharks.png (99%)
+ rewrite comp_files/plots/performances_2024-06-29-HoustonSaberCats_V_DallasJackals.png (99%)
+ rewrite comp_files/plots/performances_2024-06-29-NewEnglandFreeJacks_V_AnthemRC.png (99%)
+ rewrite comp_files/plots/performances_2024-06-29-OldGloryDC_V_NOLAGold.png (99%)
+ rewrite comp_files/plots/performances_2024-06-29-SanDiegoLegion_V_SeattleSeawolves.png (99%)
+ rewrite comp_files/plots/performances_2024-06-30-UtahWarriors_V_RFCLosAngeles.png (98%)
+ rewrite comp_files/plots/performances_2025-01-31-France_V_Wales.png (98%)
+ rewrite comp_files/plots/performances_2025-02-01-Ireland_V_England.png (99%)
+ rewrite comp_files/plots/performances_2025-02-01-Scotland_V_Italy.png (99%)
+ rewrite comp_files/plots/performances_2025-02-08-England_V_France.png (99%)
+ rewrite comp_files/plots/performances_2025-02-08-Italy_V_Wales.png (99%)
+ rewrite comp_files/plots/performances_2025-02-09-Scotland_V_Ireland.png (99%)
+ rewrite comp_files/plots/performances_2025-02-22-England_V_Scotland.png (98%)
+ rewrite comp_files/plots/performances_2025-02-22-Wales_V_Ireland.png (99%)
+ rewrite comp_files/plots/performances_2025-02-23-Italy_V_France.png (99%)
+ rewrite comp_files/plots/performances_2025-03-08-Ireland_V_France.png (98%)
+ rewrite comp_files/plots/performances_2025-03-08-Scotland_V_Wales.png (99%)
+ rewrite comp_files/plots/performances_2025-03-09-England_V_Italy.png (99%)
+ rewrite comp_files/plots/performances_2025-03-15-France_V_Scotland.png (99%)
+ rewrite comp_files/plots/performances_2025-03-15-Italy_V_Ireland.png (99%)
+ rewrite comp_files/plots/performances_2025-03-15-Wales_V_England.png (99%)
+ rewrite comp_files/plots/rankings_Allianz-Premier-15s-2023.png (99%)
+ create mode 100644 comp_files/plots/rankings_Asia-Rugby-Championship---Top-3-2024.png
+ delete mode 100644 comp_files/plots/rankings_European_Rugby_Challenge_Cup_2023.png
+ delete mode 100644 comp_files/plots/rankings_European_Rugby_Champions_Cup_2023.png
+ rewrite comp_files/plots/rankings_Gallagher-Premiership-2023.png (99%)
+ rewrite comp_files/plots/rankings_International-Test-Match-2024.png (98%)
+ delete mode 100644 comp_files/plots/rankings_Japan-Rugby-League-One-2023.png
+ rewrite comp_files/plots/rankings_Major-League-Rugby-2024.png (98%)
+ rewrite comp_files/plots/rankings_Pro-D2-2023.png (98%)
+ delete mode 100644 comp_files/plots/rankings_RFU-Championship-2023.png
+ rewrite comp_files/plots/rankings_Six-Nations-Championship-2024.png (99%)
+ delete mode 100644 comp_files/plots/rankings_Super-Rugby-Americas-2024.png
+ rewrite comp_files/plots/rankings_Super-Rugby-Pacific-2024.png (98%)
+ rewrite comp_files/plots/rankings_Top-14-Orange-2023.png (98%)
+ rewrite comp_files/plots/rankings_URBA-Top-12-2024.png (98%)
+ rewrite comp_files/plots/rankings_United-Rugby-Championship-2023.png (98%)
+ delete mode 100644 comp_files/plots/resultbar_2024-05-23-Grenoble_V_Dax.png
+ delete mode 100644 comp_files/plots/resultbar_2024-05-24-Beziers_V_Brive.png
+ delete mode 100644 comp_files/plots/resultbar_2024-05-24-Brumbies_V_MelbourneRebels.png
+ delete mode 100644 comp_files/plots/resultbar_2024-05-24-Chiefs_V_Hurricanes.png
+ delete mode 100644 comp_files/plots/resultbar_2024-05-24-HanazonoKintetsuLiners_V_UrayasuD-Rocks.png
+ delete mode 100644 comp_files/plots/resultbar_2024-05-24-Nottingham_V_Caldy.png
+ delete mode 100644 comp_files/plots/resultbar_2024-05-24-SeattleSeawolves_V_OldGloryDC.png
+ delete mode 100644 comp_files/plots/resultbar_2024-05-24-Sharks_V_GloucesterRugby.png
+ delete mode 100644 comp_files/plots/resultbar_2024-05-25-Alumni_V_BuenosAires.png
+ delete mode 100644 comp_files/plots/resultbar_2024-05-25-AtleticodelRosario_V_Hindu.png
+ delete mode 100644 comp_files/plots/resultbar_2024-05-25-BlackRamsTokyo_V_GreenRocketsTokatsu.png
+ delete mode 100644 comp_files/plots/resultbar_2024-05-25-CUBA_V_CASI.png
+ delete mode 100644 comp_files/plots/resultbar_2024-05-25-Cambridge_V_Ampthill.png
+ delete mode 100644 comp_files/plots/resultbar_2024-05-25-Champagnat_V_SanLuis.png
+ delete mode 100644 comp_files/plots/resultbar_2024-05-25-Coventry_V_Jersey.png
+ delete mode 100644 comp_files/plots/resultbar_2024-05-25-Crusaders_V_Blues.png
+ delete mode 100644 comp_files/plots/resultbar_2024-05-25-DogosXV_V_PenarolRugby.png
+ delete mode 100644 comp_files/plots/resultbar_2024-05-25-EalingTrailfindersWomen_V_LoughboroughLightning.png
+ delete mode 100644 comp_files/plots/resultbar_2024-05-25-EalingTrailfinders_V_Bedford.png
+ delete mode 100644 comp_files/plots/resultbar_2024-05-25-HarlequinsWomen_V_BristolBearsWomen.png
+ delete mode 100644 comp_files/plots/resultbar_2024-05-25-HartpuryCollege_V_Doncaster.png
+ delete mode 100644 comp_files/plots/resultbar_2024-05-25-LeicesterTigersWomen_V_SaleSharksWomen.png
+ delete mode 100644 comp_files/plots/resultbar_2024-05-25-Leinster_V_StadeToulousain.png
+ delete mode 100644 comp_files/plots/resultbar_2024-05-25-LondonScottish_V_CornishPirates.png
+ delete mode 100644 comp_files/plots/resultbar_2024-05-25-Luxembourg_V_Moldova.png
+ delete mode 100644 comp_files/plots/resultbar_2024-05-25-MiamiSharks_V_NewEnglandFreeJacks.png
+ delete mode 100644 comp_files/plots/resultbar_2024-05-25-MieHondaHeat_V_ToyotaShuttlesAichi.png
+ delete mode 100644 comp_files/plots/resultbar_2024-05-25-MoanaPasifika_V_NewSouthWalesWaratahs.png
+ delete mode 100644 comp_files/plots/resultbar_2024-05-25-Newman_V_Belgrano.png
+ delete mode 100644 comp_files/plots/resultbar_2024-05-25-PampasXV_V_Cobras.png
+ delete mode 100644 comp_files/plots/resultbar_2024-05-25-QueenslandReds_V_WesternForce.png
+ delete mode 100644 comp_files/plots/resultbar_2024-05-25-SIC_V_RegatasBellaVista.png
+ delete mode 100644 comp_files/plots/resultbar_2024-05-25-SaracensWomen_V_Gloucester-HartpuryWomen.png
+ delete mode 100644 comp_files/plots/resultbar_2024-05-25-Selknam_V_AmericanRaptors.png
+ delete mode 100644 comp_files/plots/resultbar_2024-05-25-YokohamaCanonEagles_V_TokyoSungoliath.png
+ delete mode 100644 comp_files/plots/resultbar_2024-05-26-ChicagoHounds_V_NOLAGold.png
+ delete mode 100644 comp_files/plots/resultbar_2024-05-26-Highlanders_V_FijianDrua.png
+ delete mode 100644 comp_files/plots/resultbar_2024-05-26-RFCLosAngeles_V_SanDiegoLegion.png
+ delete mode 100644 comp_files/plots/resultbar_2024-05-26-SaitamaWildKnights_V_ToshibaBraveLupus.png
+ create mode 100644 comp_files/plots/resultbar_2024-05-30-ProvenceRugby_V_Grenoble.png
+ rewrite comp_files/plots/resultbar_2024-05-31-Crusaders_V_MoanaPasifika.png (84%)
+ rewrite comp_files/plots/resultbar_2024-05-31-Leinster_V_Connacht.png (99%)
+ rewrite comp_files/plots/resultbar_2024-05-31-NewSouthWalesWaratahs_V_QueenslandReds.png (90%)
+ rewrite comp_files/plots/resultbar_2024-05-31-NorthamptonSaints_V_Saracens.png (85%)
+ create mode 100644 comp_files/plots/resultbar_2024-05-31-Vannes_V_Beziers.png
+ rewrite comp_files/plots/resultbar_2024-06-01-BathRugby_V_SaleSharks.png (85%)
+ create mode 100644 comp_files/plots/resultbar_2024-06-01-Belgrano_V_BuenosAires.png
+ rewrite comp_files/plots/resultbar_2024-06-01-BenettonTreviso_V_Edinburgh.png (85%)
+ create mode 100644 comp_files/plots/resultbar_2024-06-01-Bermuda_V_Bahamas.png
+ rewrite comp_files/plots/resultbar_2024-06-01-Blues_V_Chiefs.png (81%)
+ create mode 100644 comp_files/plots/resultbar_2024-06-01-CASI_V_SIC.png
+ create mode 100644 comp_files/plots/resultbar_2024-06-01-CUBA_V_Alumni.png
+ rewrite comp_files/plots/resultbar_2024-06-01-CardiffBlues_V_Ospreys.png (84%)
+ rewrite comp_files/plots/resultbar_2024-06-01-CastresOlympique_V_StadeFrancaisParis.png (85%)
+ create mode 100644 comp_files/plots/resultbar_2024-06-01-CaymanIslands_V_Mexico.png
+ rewrite comp_files/plots/resultbar_2024-06-01-FijianDrua_V_MelbourneRebels.png (85%)
+ rewrite comp_files/plots/resultbar_2024-06-01-HarlequinsWomen_V_EalingTrailfindersWomen.png (88%)
+ create mode 100644 comp_files/plots/resultbar_2024-06-01-Hindu_V_Newman.png
+ create mode 100644 comp_files/plots/resultbar_2024-06-01-HongKong_V_UnitedArabEmirates.png
+ rewrite comp_files/plots/resultbar_2024-06-01-Hurricanes_V_Highlanders.png (97%)
+ create mode 100644 comp_files/plots/resultbar_2024-06-01-Korea_V_Malaysia.png
+ rewrite comp_files/plots/resultbar_2024-06-01-LoughboroughLightning_V_SaracensWomen.png (86%)
+ rewrite comp_files/plots/resultbar_2024-06-01-MontpellierHerault_V_Lyon.png (84%)
+ rewrite comp_files/plots/resultbar_2024-06-01-Munster_V_Ulster.png (99%)
+ rewrite comp_files/plots/resultbar_2024-06-01-NOLAGold_V_HoustonSaberCats.png (85%)
+ rewrite comp_files/plots/resultbar_2024-06-01-Oyonnax_V_Bayonne.png (84%)
+ rewrite comp_files/plots/resultbar_2024-06-01-Perpignan_V_BordeauxBegles.png (85%)
+ rewrite comp_files/plots/resultbar_2024-06-01-Racing92_V_Pau.png (82%)
+ create mode 100644 comp_files/plots/resultbar_2024-06-01-RegatasBellaVista_V_Champagnat.png
+ create mode 100644 comp_files/plots/resultbar_2024-06-01-SanLuis_V_AtleticodelRosario.png
+ rewrite comp_files/plots/resultbar_2024-06-01-Scarlets_V_Dragons.png (99%)
+ rewrite comp_files/plots/resultbar_2024-06-01-Sharks_V_Bulls.png (82%)
+ delete mode 100644 comp_files/plots/resultbar_2024-06-01-StadeToulousain_V_LaRochelle.png
+ rewrite comp_files/plots/resultbar_2024-06-01-Stormers_V_Lions.png (99%)
+ delete mode 100644 comp_files/plots/resultbar_2024-06-01-Toulon_V_ClermontAuvergne.png
+ rewrite comp_files/plots/resultbar_2024-06-01-UtahWarriors_V_SanDiegoLegion.png (83%)
+ rewrite comp_files/plots/resultbar_2024-06-01-WesternForce_V_Brumbies.png (83%)
+ create mode 100644 comp_files/plots/resultbar_2024-06-02-KoreaRepublic_V_Malaysia.png
+ rewrite comp_files/plots/resultbar_2024-06-02-Narbonne_V_Montauban.png (82%)
+ rewrite comp_files/plots/resultbar_2024-06-02-NewEnglandFreeJacks_V_DallasJackals.png (85%)
+ rewrite comp_files/plots/resultbar_2024-06-02-RFCLosAngeles_V_MiamiSharks.png (85%)
+ create mode 100644 comp_files/plots/resultbar_2024-06-02-StadeToulousain_V_LaRochelle.png
+ create mode 100644 comp_files/plots/resultbar_2024-06-02-Toulon_V_ClermontAuvergne.png
+ rewrite comp_files/plots/resultbar_2024-06-08-Bayonne_V_CastresOlympique.png (85%)
+ rewrite comp_files/plots/resultbar_2024-06-08-ClermontAuvergne_V_MontpellierHerault.png (86%)
+ rewrite comp_files/plots/resultbar_2024-06-08-HoustonSaberCats_V_RFCLosAngeles.png (99%)
+ rewrite comp_files/plots/resultbar_2024-06-08-LaRochelle_V_Racing92.png (84%)
+ rewrite comp_files/plots/resultbar_2024-06-08-Lyon_V_StadeToulousain.png (83%)
+ rewrite comp_files/plots/resultbar_2024-06-08-OldGloryDC_V_NewEnglandFreeJacks.png (95%)
+ rewrite comp_files/plots/resultbar_2024-06-08-Pau_V_Perpignan.png (82%)
+ rewrite comp_files/plots/resultbar_2024-06-08-StadeFrancaisParis_V_Toulon.png (85%)
+ rewrite comp_files/plots/resultbar_2024-06-09-DallasJackals_V_ChicagoHounds.png (85%)
+ rewrite comp_files/plots/resultbar_2024-06-09-MiamiSharks_V_NOLAGold.png (84%)
+ rewrite comp_files/plots/resultbar_2024-06-09-SeattleSeawolves_V_UtahWarriors.png (88%)
+ rewrite comp_files/plots/resultbar_2024-06-14-DallasJackals_V_OldGloryDC.png (84%)
+ rewrite comp_files/plots/resultbar_2024-06-15-ChicagoHounds_V_SanDiegoLegion.png (86%)
+ rewrite comp_files/plots/resultbar_2024-06-15-HoustonSaberCats_V_SeattleSeawolves.png (96%)
+ rewrite comp_files/plots/resultbar_2024-06-16-AnthemRC_V_MiamiSharks.png (85%)
+ rewrite comp_files/plots/resultbar_2024-06-16-NewEnglandFreeJacks_V_UtahWarriors.png (99%)
+ rewrite comp_files/plots/resultbar_2024-06-16-RFCLosAngeles_V_NOLAGold.png (84%)
+ rewrite comp_files/plots/resultbar_2024-06-22-AnthemRC_V_ChicagoHounds.png (83%)
+ rewrite comp_files/plots/resultbar_2024-06-22-MiamiSharks_V_OldGloryDC.png (84%)
+ rewrite comp_files/plots/resultbar_2024-06-22-NOLAGold_V_NewEnglandFreeJacks.png (85%)
+ rewrite comp_files/plots/resultbar_2024-06-22-SeattleSeawolves_V_RFCLosAngeles.png (92%)
+ rewrite comp_files/plots/resultbar_2024-06-22-UtahWarriors_V_DallasJackals.png (85%)
+ rewrite comp_files/plots/resultbar_2024-06-23-SanDiegoLegion_V_HoustonSaberCats.png (85%)
+ rewrite comp_files/plots/resultbar_2024-06-28-UtahWarriors_V_RFCLosAngeles.png (85%)
+ rewrite comp_files/plots/resultbar_2024-06-29-ChicagoHounds_V_MiamiSharks.png (85%)
+ rewrite comp_files/plots/resultbar_2024-06-29-HoustonSaberCats_V_DallasJackals.png (88%)
+ rewrite comp_files/plots/resultbar_2024-06-29-OldGloryDC_V_NOLAGold.png (84%)
+ rewrite comp_files/plots/resultbar_2024-06-29-SanDiegoLegion_V_SeattleSeawolves.png (86%)
+ rewrite comp_files/plots/resultbar_2024-06-30-UtahWarriors_V_RFCLosAngeles.png (86%)
+ rewrite comp_files/plots/resultbar_2025-01-31-France_V_Wales.png (82%)
+ rewrite comp_files/plots/resultbar_2025-02-01-Ireland_V_England.png (81%)
+ rewrite comp_files/plots/resultbar_2025-02-01-Scotland_V_Italy.png (84%)
+ rewrite comp_files/plots/resultbar_2025-02-08-England_V_France.png (82%)
+ rewrite comp_files/plots/resultbar_2025-02-08-Italy_V_Wales.png (83%)
+ rewrite comp_files/plots/resultbar_2025-02-09-Scotland_V_Ireland.png (82%)
+ rewrite comp_files/plots/resultbar_2025-02-22-England_V_Scotland.png (83%)
+ rewrite comp_files/plots/resultbar_2025-02-22-Wales_V_Ireland.png (98%)
+ rewrite comp_files/plots/resultbar_2025-02-23-Italy_V_France.png (98%)
+ rewrite comp_files/plots/resultbar_2025-03-08-Ireland_V_France.png (82%)
+ rewrite comp_files/plots/resultbar_2025-03-08-Scotland_V_Wales.png (83%)
+ rewrite comp_files/plots/resultbar_2025-03-09-England_V_Italy.png (81%)
+ rewrite comp_files/plots/resultbar_2025-03-15-France_V_Scotland.png (83%)
+ rewrite comp_files/plots/resultbar_2025-03-15-Italy_V_Ireland.png (99%)
+ rewrite comp_files/plots/resultbar_2025-03-15-Wales_V_England.png (83%)
+ delete mode 100644 comp_files/plots/spreads_2024-05-23-Grenoble_V_Dax.png
+ delete mode 100644 comp_files/plots/spreads_2024-05-24-Beziers_V_Brive.png
+ delete mode 100644 comp_files/plots/spreads_2024-05-24-Brumbies_V_MelbourneRebels.png
+ delete mode 100644 comp_files/plots/spreads_2024-05-24-Chiefs_V_Hurricanes.png
+ delete mode 100644 comp_files/plots/spreads_2024-05-24-HanazonoKintetsuLiners_V_UrayasuD-Rocks.png
+ delete mode 100644 comp_files/plots/spreads_2024-05-24-Nottingham_V_Caldy.png
+ delete mode 100644 comp_files/plots/spreads_2024-05-24-SeattleSeawolves_V_OldGloryDC.png
+ delete mode 100644 comp_files/plots/spreads_2024-05-24-Sharks_V_GloucesterRugby.png
+ delete mode 100644 comp_files/plots/spreads_2024-05-25-Alumni_V_BuenosAires.png
+ delete mode 100644 comp_files/plots/spreads_2024-05-25-AtleticodelRosario_V_Hindu.png
+ delete mode 100644 comp_files/plots/spreads_2024-05-25-BlackRamsTokyo_V_GreenRocketsTokatsu.png
+ delete mode 100644 comp_files/plots/spreads_2024-05-25-CUBA_V_CASI.png
+ delete mode 100644 comp_files/plots/spreads_2024-05-25-Cambridge_V_Ampthill.png
+ delete mode 100644 comp_files/plots/spreads_2024-05-25-Champagnat_V_SanLuis.png
+ delete mode 100644 comp_files/plots/spreads_2024-05-25-Coventry_V_Jersey.png
+ delete mode 100644 comp_files/plots/spreads_2024-05-25-Crusaders_V_Blues.png
+ delete mode 100644 comp_files/plots/spreads_2024-05-25-DogosXV_V_PenarolRugby.png
+ delete mode 100644 comp_files/plots/spreads_2024-05-25-EalingTrailfindersWomen_V_LoughboroughLightning.png
+ delete mode 100644 comp_files/plots/spreads_2024-05-25-EalingTrailfinders_V_Bedford.png
+ delete mode 100644 comp_files/plots/spreads_2024-05-25-HarlequinsWomen_V_BristolBearsWomen.png
+ delete mode 100644 comp_files/plots/spreads_2024-05-25-HartpuryCollege_V_Doncaster.png
+ delete mode 100644 comp_files/plots/spreads_2024-05-25-LeicesterTigersWomen_V_SaleSharksWomen.png
+ delete mode 100644 comp_files/plots/spreads_2024-05-25-Leinster_V_StadeToulousain.png
+ delete mode 100644 comp_files/plots/spreads_2024-05-25-LondonScottish_V_CornishPirates.png
+ delete mode 100644 comp_files/plots/spreads_2024-05-25-Luxembourg_V_Moldova.png
+ delete mode 100644 comp_files/plots/spreads_2024-05-25-MiamiSharks_V_NewEnglandFreeJacks.png
+ delete mode 100644 comp_files/plots/spreads_2024-05-25-MieHondaHeat_V_ToyotaShuttlesAichi.png
+ delete mode 100644 comp_files/plots/spreads_2024-05-25-MoanaPasifika_V_NewSouthWalesWaratahs.png
+ delete mode 100644 comp_files/plots/spreads_2024-05-25-Newman_V_Belgrano.png
+ delete mode 100644 comp_files/plots/spreads_2024-05-25-PampasXV_V_Cobras.png
+ delete mode 100644 comp_files/plots/spreads_2024-05-25-QueenslandReds_V_WesternForce.png
+ delete mode 100644 comp_files/plots/spreads_2024-05-25-SIC_V_RegatasBellaVista.png
+ delete mode 100644 comp_files/plots/spreads_2024-05-25-SaracensWomen_V_Gloucester-HartpuryWomen.png
+ delete mode 100644 comp_files/plots/spreads_2024-05-25-Selknam_V_AmericanRaptors.png
+ delete mode 100644 comp_files/plots/spreads_2024-05-25-YokohamaCanonEagles_V_TokyoSungoliath.png
+ delete mode 100644 comp_files/plots/spreads_2024-05-26-ChicagoHounds_V_NOLAGold.png
+ delete mode 100644 comp_files/plots/spreads_2024-05-26-Highlanders_V_FijianDrua.png
+ delete mode 100644 comp_files/plots/spreads_2024-05-26-RFCLosAngeles_V_SanDiegoLegion.png
+ delete mode 100644 comp_files/plots/spreads_2024-05-26-SaitamaWildKnights_V_ToshibaBraveLupus.png
+ create mode 100644 comp_files/plots/spreads_2024-05-30-ProvenceRugby_V_Grenoble.png
+ rewrite comp_files/plots/spreads_2024-05-31-Crusaders_V_MoanaPasifika.png (99%)
+ rewrite comp_files/plots/spreads_2024-05-31-GlasgowWarriors_V_Zebre.png (98%)
+ rewrite comp_files/plots/spreads_2024-05-31-Leinster_V_Connacht.png (98%)
+ rewrite comp_files/plots/spreads_2024-05-31-NewSouthWalesWaratahs_V_QueenslandReds.png (98%)
+ rewrite comp_files/plots/spreads_2024-05-31-NorthamptonSaints_V_Saracens.png (98%)
+ create mode 100644 comp_files/plots/spreads_2024-05-31-Vannes_V_Beziers.png
+ rewrite comp_files/plots/spreads_2024-06-01-BathRugby_V_SaleSharks.png (99%)
+ create mode 100644 comp_files/plots/spreads_2024-06-01-Belgrano_V_BuenosAires.png
+ rewrite comp_files/plots/spreads_2024-06-01-BenettonTreviso_V_Edinburgh.png (98%)
+ create mode 100644 comp_files/plots/spreads_2024-06-01-Bermuda_V_Bahamas.png
+ rewrite comp_files/plots/spreads_2024-06-01-Blues_V_Chiefs.png (99%)
+ create mode 100644 comp_files/plots/spreads_2024-06-01-CASI_V_SIC.png
+ create mode 100644 comp_files/plots/spreads_2024-06-01-CUBA_V_Alumni.png
+ rewrite comp_files/plots/spreads_2024-06-01-CardiffBlues_V_Ospreys.png (98%)
+ rewrite comp_files/plots/spreads_2024-06-01-CastresOlympique_V_StadeFrancaisParis.png (99%)
+ create mode 100644 comp_files/plots/spreads_2024-06-01-CaymanIslands_V_Mexico.png
+ rewrite comp_files/plots/spreads_2024-06-01-ExeterChiefsWomen_V_LeicesterTigersWomen.png (99%)
+ rewrite comp_files/plots/spreads_2024-06-01-FijianDrua_V_MelbourneRebels.png (98%)
+ rewrite comp_files/plots/spreads_2024-06-01-HarlequinsWomen_V_EalingTrailfindersWomen.png (98%)
+ create mode 100644 comp_files/plots/spreads_2024-06-01-Hindu_V_Newman.png
+ create mode 100644 comp_files/plots/spreads_2024-06-01-HongKong_V_UnitedArabEmirates.png
+ rewrite comp_files/plots/spreads_2024-06-01-Hurricanes_V_Highlanders.png (98%)
+ create mode 100644 comp_files/plots/spreads_2024-06-01-Korea_V_Malaysia.png
+ rewrite comp_files/plots/spreads_2024-06-01-LoughboroughLightning_V_SaracensWomen.png (99%)
+ rewrite comp_files/plots/spreads_2024-06-01-MontpellierHerault_V_Lyon.png (99%)
+ rewrite comp_files/plots/spreads_2024-06-01-Munster_V_Ulster.png (98%)
+ rewrite comp_files/plots/spreads_2024-06-01-NOLAGold_V_HoustonSaberCats.png (99%)
+ rewrite comp_files/plots/spreads_2024-06-01-OldGloryDC_V_AnthemRC.png (99%)
+ rewrite comp_files/plots/spreads_2024-06-01-Oyonnax_V_Bayonne.png (99%)
+ rewrite comp_files/plots/spreads_2024-06-01-Perpignan_V_BordeauxBegles.png (99%)
+ rewrite comp_files/plots/spreads_2024-06-01-Racing92_V_Pau.png (99%)
+ create mode 100644 comp_files/plots/spreads_2024-06-01-RegatasBellaVista_V_Champagnat.png
+ rewrite comp_files/plots/spreads_2024-06-01-SaleSharksWomen_V_BristolBearsWomen.png (99%)
+ create mode 100644 comp_files/plots/spreads_2024-06-01-SanLuis_V_AtleticodelRosario.png
+ rewrite comp_files/plots/spreads_2024-06-01-Scarlets_V_Dragons.png (98%)
+ rewrite comp_files/plots/spreads_2024-06-01-Sharks_V_Bulls.png (99%)
+ delete mode 100644 comp_files/plots/spreads_2024-06-01-StadeToulousain_V_LaRochelle.png
+ rewrite comp_files/plots/spreads_2024-06-01-Stormers_V_Lions.png (98%)
+ delete mode 100644 comp_files/plots/spreads_2024-06-01-Toulon_V_ClermontAuvergne.png
+ rewrite comp_files/plots/spreads_2024-06-01-UtahWarriors_V_SanDiegoLegion.png (99%)
+ rewrite comp_files/plots/spreads_2024-06-01-WesternForce_V_Brumbies.png (99%)
+ create mode 100644 comp_files/plots/spreads_2024-06-02-KoreaRepublic_V_Malaysia.png
+ rewrite comp_files/plots/spreads_2024-06-02-Narbonne_V_Montauban.png (98%)
+ rewrite comp_files/plots/spreads_2024-06-02-NewEnglandFreeJacks_V_DallasJackals.png (99%)
+ rewrite comp_files/plots/spreads_2024-06-02-RFCLosAngeles_V_MiamiSharks.png (99%)
+ create mode 100644 comp_files/plots/spreads_2024-06-02-StadeToulousain_V_LaRochelle.png
+ create mode 100644 comp_files/plots/spreads_2024-06-02-Toulon_V_ClermontAuvergne.png
+ rewrite comp_files/plots/spreads_2024-06-08-Bayonne_V_CastresOlympique.png (99%)
+ rewrite comp_files/plots/spreads_2024-06-08-BordeauxBegles_V_Oyonnax.png (99%)
+ rewrite comp_files/plots/spreads_2024-06-08-ClermontAuvergne_V_MontpellierHerault.png (98%)
+ rewrite comp_files/plots/spreads_2024-06-08-HoustonSaberCats_V_RFCLosAngeles.png (99%)
+ rewrite comp_files/plots/spreads_2024-06-08-LaRochelle_V_Racing92.png (99%)
+ rewrite comp_files/plots/spreads_2024-06-08-Lyon_V_StadeToulousain.png (99%)
+ rewrite comp_files/plots/spreads_2024-06-08-OldGloryDC_V_NewEnglandFreeJacks.png (99%)
+ rewrite comp_files/plots/spreads_2024-06-08-Pau_V_Perpignan.png (98%)
+ rewrite comp_files/plots/spreads_2024-06-08-StadeFrancaisParis_V_Toulon.png (98%)
+ rewrite comp_files/plots/spreads_2024-06-09-DallasJackals_V_ChicagoHounds.png (99%)
+ rewrite comp_files/plots/spreads_2024-06-09-MiamiSharks_V_NOLAGold.png (98%)
+ rewrite comp_files/plots/spreads_2024-06-09-SanDiegoLegion_V_AnthemRC.png (98%)
+ rewrite comp_files/plots/spreads_2024-06-09-SeattleSeawolves_V_UtahWarriors.png (99%)
+ rewrite comp_files/plots/spreads_2024-06-14-DallasJackals_V_OldGloryDC.png (99%)
+ rewrite comp_files/plots/spreads_2024-06-15-ChicagoHounds_V_SanDiegoLegion.png (99%)
+ rewrite comp_files/plots/spreads_2024-06-15-HoustonSaberCats_V_SeattleSeawolves.png (98%)
+ rewrite comp_files/plots/spreads_2024-06-16-AnthemRC_V_MiamiSharks.png (99%)
+ rewrite comp_files/plots/spreads_2024-06-16-NewEnglandFreeJacks_V_UtahWarriors.png (99%)
+ rewrite comp_files/plots/spreads_2024-06-16-RFCLosAngeles_V_NOLAGold.png (98%)
+ rewrite comp_files/plots/spreads_2024-06-22-AnthemRC_V_ChicagoHounds.png (99%)
+ rewrite comp_files/plots/spreads_2024-06-22-MiamiSharks_V_OldGloryDC.png (99%)
+ rewrite comp_files/plots/spreads_2024-06-22-NOLAGold_V_NewEnglandFreeJacks.png (98%)
+ rewrite comp_files/plots/spreads_2024-06-22-SeattleSeawolves_V_RFCLosAngeles.png (99%)
+ rewrite comp_files/plots/spreads_2024-06-22-UtahWarriors_V_DallasJackals.png (99%)
+ rewrite comp_files/plots/spreads_2024-06-23-SanDiegoLegion_V_HoustonSaberCats.png (98%)
+ rewrite comp_files/plots/spreads_2024-06-28-UtahWarriors_V_RFCLosAngeles.png (99%)
+ rewrite comp_files/plots/spreads_2024-06-29-ChicagoHounds_V_MiamiSharks.png (99%)
+ rewrite comp_files/plots/spreads_2024-06-29-HoustonSaberCats_V_DallasJackals.png (99%)
+ rewrite comp_files/plots/spreads_2024-06-29-NewEnglandFreeJacks_V_AnthemRC.png (99%)
+ rewrite comp_files/plots/spreads_2024-06-29-OldGloryDC_V_NOLAGold.png (98%)
+ rewrite comp_files/plots/spreads_2024-06-29-SanDiegoLegion_V_SeattleSeawolves.png (98%)
+ rewrite comp_files/plots/spreads_2024-06-30-UtahWarriors_V_RFCLosAngeles.png (99%)
+ rewrite comp_files/plots/spreads_2025-01-31-France_V_Wales.png (99%)
+ rewrite comp_files/plots/spreads_2025-02-01-Ireland_V_England.png (99%)
+ rewrite comp_files/plots/spreads_2025-02-01-Scotland_V_Italy.png (98%)
+ rewrite comp_files/plots/spreads_2025-02-08-England_V_France.png (99%)
+ rewrite comp_files/plots/spreads_2025-02-08-Italy_V_Wales.png (99%)
+ rewrite comp_files/plots/spreads_2025-02-09-Scotland_V_Ireland.png (99%)
+ rewrite comp_files/plots/spreads_2025-02-22-England_V_Scotland.png (99%)
+ rewrite comp_files/plots/spreads_2025-02-22-Wales_V_Ireland.png (99%)
+ rewrite comp_files/plots/spreads_2025-02-23-Italy_V_France.png (99%)
+ rewrite comp_files/plots/spreads_2025-03-08-Ireland_V_France.png (99%)
+ rewrite comp_files/plots/spreads_2025-03-08-Scotland_V_Wales.png (99%)
+ rewrite comp_files/plots/spreads_2025-03-09-England_V_Italy.png (99%)
+ rewrite comp_files/plots/spreads_2025-03-15-France_V_Scotland.png (99%)
+ rewrite comp_files/plots/spreads_2025-03-15-Italy_V_Ireland.png (98%)
+ rewrite comp_files/plots/spreads_2025-03-15-Wales_V_England.png (99%)
+ delete mode 100644 projections/2024-05-23-Grenoble-Dax.md
+ delete mode 100644 projections/2024-05-24-Beziers-Brive.md
+ delete mode 100644 projections/2024-05-24-Brumbies-MelbourneRebels.md
+ delete mode 100644 projections/2024-05-24-Chiefs-Hurricanes.md
+ delete mode 100644 projections/2024-05-24-GloucesterRugby-Sharks.md
+ delete mode 100644 projections/2024-05-24-HanazonoKintetsuLiners-UrayasuD-Rocks.md
+ delete mode 100644 projections/2024-05-24-Nottingham-Caldy.md
+ delete mode 100644 projections/2024-05-24-SeattleSeawolves-OldGloryDC.md
+ delete mode 100644 projections/2024-05-25-Alumni-BuenosAires.md
+ delete mode 100644 projections/2024-05-25-AtleticodelRosario-Hindu.md
+ delete mode 100644 projections/2024-05-25-BlackRamsTokyo-GreenRocketsTokatsu.md
+ delete mode 100644 projections/2024-05-25-CUBA-CASI.md
+ delete mode 100644 projections/2024-05-25-Cambridge-Ampthill.md
+ delete mode 100644 projections/2024-05-25-Champagnat-SanLuis.md
+ delete mode 100644 projections/2024-05-25-Coventry-Jersey.md
+ delete mode 100644 projections/2024-05-25-Crusaders-Blues.md
+ delete mode 100644 projections/2024-05-25-DogosXV-PenarolRugby.md
+ delete mode 100644 projections/2024-05-25-EalingTrailfinders-Bedford.md
+ delete mode 100644 projections/2024-05-25-EalingTrailfindersWomen-LoughboroughLightning.md
+ delete mode 100644 projections/2024-05-25-HarlequinsWomen-BristolBearsWomen.md
+ delete mode 100644 projections/2024-05-25-HartpuryCollege-Doncaster.md
+ delete mode 100644 projections/2024-05-25-Highlanders-FijianDrua.md
+ delete mode 100644 projections/2024-05-25-LeicesterTigersWomen-SaleSharksWomen.md
+ delete mode 100644 projections/2024-05-25-Leinster-StadeToulousain.md
+ delete mode 100644 projections/2024-05-25-LondonScottish-CornishPirates.md
+ delete mode 100644 projections/2024-05-25-Luxembourg-Moldova.md
+ delete mode 100644 projections/2024-05-25-MiamiSharks-NewEnglandFreeJacks.md
+ delete mode 100644 projections/2024-05-25-MieHondaHeat-ToyotaShuttlesAichi.md
+ delete mode 100644 projections/2024-05-25-MoanaPasifika-NewSouthWalesWaratahs.md
+ delete mode 100644 projections/2024-05-25-Newman-Belgrano.md
+ delete mode 100644 projections/2024-05-25-PampasXV-Cobras.md
+ delete mode 100644 projections/2024-05-25-QueenslandReds-WesternForce.md
+ delete mode 100644 projections/2024-05-25-SIC-RegatasBellaVista.md
+ delete mode 100644 projections/2024-05-25-SaracensWomen-Gloucester-HartpuryWomen.md
+ delete mode 100644 projections/2024-05-25-Selknam-AmericanRaptors.md
+ delete mode 100644 projections/2024-05-25-YokohamaCanonEagles-TokyoSungoliath.md
+ delete mode 100644 projections/2024-05-26-ChicagoHounds-NOLAGold.md
+ delete mode 100644 projections/2024-05-26-Highlanders-FijianDrua.md
+ delete mode 100644 projections/2024-05-26-RFCLosAngeles-SanDiegoLegion.md
+ delete mode 100644 projections/2024-05-26-SaitamaWildKnights-ToshibaBraveLupus.md
+ create mode 100644 projections/2024-05-30-ProvenceRugby-Grenoble.md
+ create mode 100644 projections/2024-05-31-Crusaders-MoanaPasifika.md
+ create mode 100644 projections/2024-05-31-GlasgowWarriors-Zebre.md
+ create mode 100644 projections/2024-05-31-Leinster-Connacht.md
+ create mode 100644 projections/2024-05-31-NewSouthWalesWaratahs-QueenslandReds.md
+ create mode 100644 projections/2024-05-31-NorthamptonSaints-Saracens.md
+ create mode 100644 projections/2024-05-31-Vannes-Beziers.md
+ create mode 100644 projections/2024-06-01-BathRugby-SaleSharks.md
+ create mode 100644 projections/2024-06-01-Belgrano-BuenosAires.md
+ create mode 100644 projections/2024-06-01-BenettonTreviso-Edinburgh.md
+ create mode 100644 projections/2024-06-01-Bermuda-Bahamas.md
+ create mode 100644 projections/2024-06-01-Blues-Chiefs.md
+ create mode 100644 projections/2024-06-01-CASI-SIC.md
+ create mode 100644 projections/2024-06-01-CUBA-Alumni.md
+ create mode 100644 projections/2024-06-01-CardiffBlues-Ospreys.md
+ create mode 100644 projections/2024-06-01-CastresOlympique-StadeFrancaisParis.md
+ create mode 100644 projections/2024-06-01-CaymanIslands-Mexico.md
+ create mode 100644 projections/2024-06-01-ExeterChiefsWomen-LeicesterTigersWomen.md
+ create mode 100644 projections/2024-06-01-FijianDrua-MelbourneRebels.md
+ create mode 100644 projections/2024-06-01-HarlequinsWomen-EalingTrailfindersWomen.md
+ create mode 100644 projections/2024-06-01-Hindu-Newman.md
+ create mode 100644 projections/2024-06-01-HongKong-UnitedArabEmirates.md
+ create mode 100644 projections/2024-06-01-Hurricanes-Highlanders.md
+ create mode 100644 projections/2024-06-01-Korea-Malaysia.md
+ create mode 100644 projections/2024-06-01-LoughboroughLightning-SaracensWomen.md
+ create mode 100644 projections/2024-06-01-MontpellierHerault-Lyon.md
+ create mode 100644 projections/2024-06-01-Munster-Ulster.md
+ create mode 100644 projections/2024-06-01-NOLAGold-HoustonSaberCats.md
+ create mode 100644 projections/2024-06-01-OldGloryDC-AnthemRC.md
+ create mode 100644 projections/2024-06-01-Oyonnax-Bayonne.md
+ create mode 100644 projections/2024-06-01-Perpignan-BordeauxBegles.md
+ create mode 100644 projections/2024-06-01-Racing92-Pau.md
+ create mode 100644 projections/2024-06-01-RegatasBellaVista-Champagnat.md
+ create mode 100644 projections/2024-06-01-SaleSharksWomen-BristolBearsWomen.md
+ create mode 100644 projections/2024-06-01-SanLuis-AtleticodelRosario.md
+ create mode 100644 projections/2024-06-01-Scarlets-Dragons.md
+ create mode 100644 projections/2024-06-01-Sharks-Bulls.md
+ create mode 100644 projections/2024-06-01-Stormers-Lions.md
+ create mode 100644 projections/2024-06-01-UtahWarriors-SanDiegoLegion.md
+ create mode 100644 projections/2024-06-01-WesternForce-Brumbies.md
+ create mode 100644 projections/2024-06-02-KoreaRepublic-Malaysia.md
+ create mode 100644 projections/2024-06-02-Narbonne-Montauban.md
+ create mode 100644 projections/2024-06-02-NewEnglandFreeJacks-DallasJackals.md
+ create mode 100644 projections/2024-06-02-RFCLosAngeles-MiamiSharks.md
+ create mode 100644 projections/2024-06-02-StadeToulousain-LaRochelle.md
+ create mode 100644 projections/2024-06-02-Toulon-ClermontAuvergne.md
+ delete mode 100644 projections/plots/performances_plr_2024-05-24-Brumbies-MelbourneRebels.png
+ delete mode 100644 projections/plots/performances_plr_2024-05-24-Chiefs-Hurricanes.png
+ delete mode 100644 projections/plots/performances_plr_2024-05-24-GloucesterRugby-Sharks.png
+ delete mode 100644 projections/plots/performances_plr_2024-05-25-Crusaders-Blues.png
+ delete mode 100644 projections/plots/performances_plr_2024-05-25-Highlanders-FijianDrua.png
+ delete mode 100644 projections/plots/performances_plr_2024-05-25-MoanaPasifika-NewSouthWalesWaratahs.png
+ delete mode 100644 projections/plots/performances_plr_2024-05-25-QueenslandReds-WesternForce.png
+ delete mode 100644 projections/plots/resultbar_plr_2024-05-24-Brumbies-MelbourneRebels.png
+ delete mode 100644 projections/plots/resultbar_plr_2024-05-24-Chiefs-Hurricanes.png
+ delete mode 100644 projections/plots/resultbar_plr_2024-05-24-GloucesterRugby-Sharks.png
+ delete mode 100644 projections/plots/resultbar_plr_2024-05-25-Crusaders-Blues.png
+ delete mode 100644 projections/plots/resultbar_plr_2024-05-25-Highlanders-FijianDrua.png
+ delete mode 100644 projections/plots/resultbar_plr_2024-05-25-MoanaPasifika-NewSouthWalesWaratahs.png
+ delete mode 100644 projections/plots/resultbar_plr_2024-05-25-QueenslandReds-WesternForce.png
+ delete mode 100644 projections/plots/spreads_plr_2024-05-24-Brumbies-MelbourneRebels.png
+ delete mode 100644 projections/plots/spreads_plr_2024-05-24-Chiefs-Hurricanes.png
+ delete mode 100644 projections/plots/spreads_plr_2024-05-24-GloucesterRugby-Sharks.png
+ delete mode 100644 projections/plots/spreads_plr_2024-05-25-Crusaders-Blues.png
+ delete mode 100644 projections/plots/spreads_plr_2024-05-25-Highlanders-FijianDrua.png
+ delete mode 100644 projections/plots/spreads_plr_2024-05-25-MoanaPasifika-NewSouthWalesWaratahs.png
+ delete mode 100644 projections/plots/spreads_plr_2024-05-25-QueenslandReds-WesternForce.png
+ delete mode 100644 reviews/2024-05-17-Agen-Vannes.md
+ delete mode 100644 reviews/2024-05-17-Aurillac-Montauban.md
+ delete mode 100644 reviews/2024-05-17-Brive-BiarritzOlympique.md
+ delete mode 100644 reviews/2024-05-17-Colomiers-ValenceRomansDromeRugby.md
+ delete mode 100644 reviews/2024-05-17-Edinburgh-Munster.md
+ delete mode 100644 reviews/2024-05-17-FijianDrua-QueenslandReds.md
+ delete mode 100644 reviews/2024-05-17-Hurricanes-MoanaPasifika.md
+ delete mode 100644 reviews/2024-05-17-MelbourneRebels-Chiefs.md
+ delete mode 100644 reviews/2024-05-17-Mont-de-Marsan-Rouen.md
+ delete mode 100644 reviews/2024-05-17-Nevers-Dax.md
+ delete mode 100644 reviews/2024-05-17-ProvenceRugby-Grenoble.md
+ delete mode 100644 reviews/2024-05-17-Soyaux-Angouleme-Beziers.md
+ delete mode 100644 reviews/2024-05-17-Zebre-Scarlets.md
+ delete mode 100644 reviews/2024-05-18-AnthemRC-RFCLosAngeles.md
+ delete mode 100644 reviews/2024-05-18-BathRugby-NorthamptonSaints.md
+ delete mode 100644 reviews/2024-05-18-Bayonne-Perpignan.md
+ delete mode 100644 reviews/2024-05-18-Belgrano-AtleticodelRosario.md
+ delete mode 100644 reviews/2024-05-18-Blues-Highlanders.md
+ delete mode 100644 reviews/2024-05-18-Brumbies-Crusaders.md
+ delete mode 100644 reviews/2024-05-18-BuenosAires-Newman.md
+ delete mode 100644 reviews/2024-05-18-Bulls-BenettonTreviso.md
+ delete mode 100644 reviews/2024-05-18-CASI-Alumni.md
+ delete mode 100644 reviews/2024-05-18-ClermontAuvergne-CastresOlympique.md
+ delete mode 100644 reviews/2024-05-18-Connacht-Stormers.md
+ delete mode 100644 reviews/2024-05-18-GloucesterRugby-NewcastleFalcons.md
+ delete mode 100644 reviews/2024-05-18-GreenRocketsTokatsu-BlackRamsTokyo.md
+ delete mode 100644 reviews/2024-05-18-Harlequins-BristolRugby.md
+ delete mode 100644 reviews/2024-05-18-Hindu-Champagnat.md
+ delete mode 100644 reviews/2024-05-18-HoustonSaberCats-ChicagoHounds.md
+ delete mode 100644 reviews/2024-05-18-Jamaica-Bermuda.md
+ delete mode 100644 reviews/2024-05-18-LaRochelle-Pau.md
+ delete mode 100644 reviews/2024-05-18-LeicesterTigers-ExeterChiefs.md
+ delete mode 100644 reviews/2024-05-18-Lions-GlasgowWarriors.md
+ delete mode 100644 reviews/2024-05-18-LoughboroughLightning-HarlequinsWomen.md
+ delete mode 100644 reviews/2024-05-18-Lyon-Racing92.md
+ delete mode 100644 reviews/2024-05-18-MontpellierHerault-StadeToulousain.md
+ delete mode 100644 reviews/2024-05-18-NOLAGold-UtahWarriors.md
+ delete mode 100644 reviews/2024-05-18-Nice-Narbonne.md
+ delete mode 100644 reviews/2024-05-18-Ospreys-Dragons.md
+ delete mode 100644 reviews/2024-05-18-Oyonnax-Toulon.md
+ delete mode 100644 reviews/2024-05-18-PenarolRugby-PampasXV.md
+ delete mode 100644 reviews/2024-05-18-RegatasBellaVista-CUBA.md
+ delete mode 100644 reviews/2024-05-18-SaitamaWildKnights-YokohamaCanonEagles.md
+ delete mode 100644 reviews/2024-05-18-SanLuis-SIC.md
+ delete mode 100644 reviews/2024-05-18-Saracens-SaleSharks.md
+ delete mode 100644 reviews/2024-05-18-Selknam-DogosXV.md
+ delete mode 100644 reviews/2024-05-18-Sharks-CardiffBlues.md
+ delete mode 100644 reviews/2024-05-18-ToyotaShuttlesAichi-MieHondaHeat.md
+ delete mode 100644 reviews/2024-05-18-Ulster-Leinster.md
+ delete mode 100644 reviews/2024-05-18-UrayasuD-Rocks-HanazonoKintetsuLiners.md
+ delete mode 100644 reviews/2024-05-18-WesternForce-NewSouthWalesWaratahs.md
+ delete mode 100644 reviews/2024-05-19-BristolBearsWomen-LeicesterTigersWomen.md
+ delete mode 100644 reviews/2024-05-19-DallasJackals-SeattleSeawolves.md
+ delete mode 100644 reviews/2024-05-19-ExeterChiefsWomen-SaracensWomen.md
+ delete mode 100644 reviews/2024-05-19-Gloucester-HartpuryWomen-EalingTrailfindersWomen.md
+ delete mode 100644 reviews/2024-05-19-Marcq-en-Baroeul-Vienne.md
+ delete mode 100644 reviews/2024-05-19-SanDiegoLegion-NewEnglandFreeJacks.md
+ delete mode 100644 reviews/2024-05-19-StadeFrancaisParis-BordeauxBegles.md
+ delete mode 100644 reviews/2024-05-19-ToshibaBraveLupus-TokyoSungoliath.md
+ delete mode 100644 reviews/2024-05-19-YacareXV-AmericanRaptors.md
+ create mode 100644 reviews/2024-05-20-DallasJackals-SeattleSeawolves.md
+ create mode 100644 reviews/2024-05-23-Grenoble-Dax.md
+ create mode 100644 reviews/2024-05-24-Beziers-Brive.md
+ create mode 100644 reviews/2024-05-24-Brumbies-MelbourneRebels.md
+ create mode 100644 reviews/2024-05-24-Chiefs-Hurricanes.md
+ create mode 100644 reviews/2024-05-24-GloucesterRugby-Sharks.md
+ create mode 100644 reviews/2024-05-24-HanazonoKintetsuLiners-UrayasuD-Rocks.md
+ create mode 100644 reviews/2024-05-24-MoanaPasifika-NewSouthWalesWaratahs.md
+ create mode 100644 reviews/2024-05-24-Nottingham-Caldy.md
+ create mode 100644 reviews/2024-05-24-SeattleSeawolves-OldGloryDC.md
+ create mode 100644 reviews/2024-05-25-BlackRamsTokyo-GreenRocketsTokatsu.md
+ create mode 100644 reviews/2024-05-25-Cambridge-Ampthill.md
+ create mode 100644 reviews/2024-05-25-DogosXV-PenarolRugby.md
+ create mode 100644 reviews/2024-05-25-EalingTrailfinders-Bedford.md
+ create mode 100644 reviews/2024-05-25-EalingTrailfindersWomen-LoughboroughLightning.md
+ create mode 100644 reviews/2024-05-25-HarlequinsWomen-BristolBearsWomen.md
+ create mode 100644 reviews/2024-05-25-HartpuryCollege-Doncaster.md
+ create mode 100644 reviews/2024-05-25-LeicesterTigersWomen-SaleSharksWomen.md
+ create mode 100644 reviews/2024-05-25-Leinster-StadeToulousain.md
+ create mode 100644 reviews/2024-05-25-LondonScottish-CornishPirates.md
+ create mode 100644 reviews/2024-05-25-MiamiSharks-NewEnglandFreeJacks.md
+ create mode 100644 reviews/2024-05-25-MieHondaHeat-ToyotaShuttlesAichi.md
+ create mode 100644 reviews/2024-05-25-MoanaPasifika-NewSouthWalesWaratahs.md
+ create mode 100644 reviews/2024-05-25-PampasXV-Cobras.md
+ create mode 100644 reviews/2024-05-25-QueenslandReds-WesternForce.md
+ create mode 100644 reviews/2024-05-25-SaracensWomen-Gloucester-HartpuryWomen.md
+ create mode 100644 reviews/2024-05-25-Selknam-AmericanRaptors.md
+ create mode 100644 reviews/2024-05-25-YokohamaCanonEagles-TokyoSungoliath.md
+ create mode 100644 reviews/2024-05-26-ChicagoHounds-NOLAGold.md
+ create mode 100644 reviews/2024-05-26-Highlanders-FijianDrua.md
+ create mode 100644 reviews/2024-05-26-MiamiSharks-NewEnglandFreeJacks.md
+ create mode 100644 reviews/2024-05-26-SaitamaWildKnights-ToshibaBraveLupus.md
+ create mode 100644 reviews/2024-05-27-RFCLosAngeles-SanDiegoLegion.md
+ rewrite reviews/plots/club_comp_rmse_skills.png (98%)
+ rewrite reviews/plots/domestic_rmse_skills.png (99%)
+ rewrite reviews/plots/international_rmse_skills.png (98%)
+ rewrite reviews/plots/mod_binary_accuracies.png (98%)
+ rewrite reviews/plots/mod_binary_brier.png (99%)
+ rewrite reviews/plots/mod_margin_rmse.png (99%)
+ delete mode 100644 reviews/plots/performances_2024-05-17-Agen-Vannes.png
+ delete mode 100644 reviews/plots/performances_2024-05-17-Aurillac-Montauban.png
+ delete mode 100644 reviews/plots/performances_2024-05-17-Brive-BiarritzOlympique.png
+ delete mode 100644 reviews/plots/performances_2024-05-17-Colomiers-ValenceRomansDromeRugby.png
+ delete mode 100644 reviews/plots/performances_2024-05-17-Edinburgh-Munster.png
+ delete mode 100644 reviews/plots/performances_2024-05-17-FijianDrua-QueenslandReds.png
+ delete mode 100644 reviews/plots/performances_2024-05-17-Hurricanes-MoanaPasifika.png
+ delete mode 100644 reviews/plots/performances_2024-05-17-MelbourneRebels-Chiefs.png
+ delete mode 100644 reviews/plots/performances_2024-05-17-Mont-de-Marsan-Rouen.png
+ delete mode 100644 reviews/plots/performances_2024-05-17-Nevers-Dax.png
+ delete mode 100644 reviews/plots/performances_2024-05-17-ProvenceRugby-Grenoble.png
+ delete mode 100644 reviews/plots/performances_2024-05-17-Soyaux-Angouleme-Beziers.png
+ delete mode 100644 reviews/plots/performances_2024-05-17-Zebre-Scarlets.png
+ delete mode 100644 reviews/plots/performances_2024-05-18-AnthemRC-RFCLosAngeles.png
+ delete mode 100644 reviews/plots/performances_2024-05-18-BathRugby-NorthamptonSaints.png
+ delete mode 100644 reviews/plots/performances_2024-05-18-Bayonne-Perpignan.png
+ delete mode 100644 reviews/plots/performances_2024-05-18-Belgrano-AtleticodelRosario.png
+ delete mode 100644 reviews/plots/performances_2024-05-18-Blues-Highlanders.png
+ delete mode 100644 reviews/plots/performances_2024-05-18-Brumbies-Crusaders.png
+ delete mode 100644 reviews/plots/performances_2024-05-18-BuenosAires-Newman.png
+ delete mode 100644 reviews/plots/performances_2024-05-18-Bulls-BenettonTreviso.png
+ delete mode 100644 reviews/plots/performances_2024-05-18-CASI-Alumni.png
+ delete mode 100644 reviews/plots/performances_2024-05-18-ClermontAuvergne-CastresOlympique.png
+ delete mode 100644 reviews/plots/performances_2024-05-18-Connacht-Stormers.png
+ delete mode 100644 reviews/plots/performances_2024-05-18-GloucesterRugby-NewcastleFalcons.png
+ delete mode 100644 reviews/plots/performances_2024-05-18-GreenRocketsTokatsu-BlackRamsTokyo.png
+ delete mode 100644 reviews/plots/performances_2024-05-18-Harlequins-BristolRugby.png
+ delete mode 100644 reviews/plots/performances_2024-05-18-Hindu-Champagnat.png
+ delete mode 100644 reviews/plots/performances_2024-05-18-HoustonSaberCats-ChicagoHounds.png
+ delete mode 100644 reviews/plots/performances_2024-05-18-Jamaica-Bermuda.png
+ delete mode 100644 reviews/plots/performances_2024-05-18-LaRochelle-Pau.png
+ delete mode 100644 reviews/plots/performances_2024-05-18-LeicesterTigers-ExeterChiefs.png
+ delete mode 100644 reviews/plots/performances_2024-05-18-Lions-GlasgowWarriors.png
+ delete mode 100644 reviews/plots/performances_2024-05-18-LoughboroughLightning-HarlequinsWomen.png
+ delete mode 100644 reviews/plots/performances_2024-05-18-Lyon-Racing92.png
+ delete mode 100644 reviews/plots/performances_2024-05-18-MontpellierHerault-StadeToulousain.png
+ delete mode 100644 reviews/plots/performances_2024-05-18-NOLAGold-UtahWarriors.png
+ delete mode 100644 reviews/plots/performances_2024-05-18-Nice-Narbonne.png
+ delete mode 100644 reviews/plots/performances_2024-05-18-Ospreys-Dragons.png
+ delete mode 100644 reviews/plots/performances_2024-05-18-Oyonnax-Toulon.png
+ delete mode 100644 reviews/plots/performances_2024-05-18-PenarolRugby-PampasXV.png
+ delete mode 100644 reviews/plots/performances_2024-05-18-RegatasBellaVista-CUBA.png
+ delete mode 100644 reviews/plots/performances_2024-05-18-SaitamaWildKnights-YokohamaCanonEagles.png
+ delete mode 100644 reviews/plots/performances_2024-05-18-SanLuis-SIC.png
+ delete mode 100644 reviews/plots/performances_2024-05-18-Saracens-SaleSharks.png
+ delete mode 100644 reviews/plots/performances_2024-05-18-Selknam-DogosXV.png
+ delete mode 100644 reviews/plots/performances_2024-05-18-Sharks-CardiffBlues.png
+ delete mode 100644 reviews/plots/performances_2024-05-18-ToyotaShuttlesAichi-MieHondaHeat.png
+ delete mode 100644 reviews/plots/performances_2024-05-18-Ulster-Leinster.png
+ delete mode 100644 reviews/plots/performances_2024-05-18-UrayasuD-Rocks-HanazonoKintetsuLiners.png
+ delete mode 100644 reviews/plots/performances_2024-05-18-WesternForce-NewSouthWalesWaratahs.png
+ delete mode 100644 reviews/plots/performances_2024-05-19-BristolBearsWomen-LeicesterTigersWomen.png
+ delete mode 100644 reviews/plots/performances_2024-05-19-DallasJackals-SeattleSeawolves.png
+ delete mode 100644 reviews/plots/performances_2024-05-19-ExeterChiefsWomen-SaracensWomen.png
+ delete mode 100644 reviews/plots/performances_2024-05-19-Gloucester-HartpuryWomen-EalingTrailfindersWomen.png
+ delete mode 100644 reviews/plots/performances_2024-05-19-Marcq-en-Baroeul-Vienne.png
+ delete mode 100644 reviews/plots/performances_2024-05-19-SanDiegoLegion-NewEnglandFreeJacks.png
+ delete mode 100644 reviews/plots/performances_2024-05-19-StadeFrancaisParis-BordeauxBegles.png
+ delete mode 100644 reviews/plots/performances_2024-05-19-ToshibaBraveLupus-TokyoSungoliath.png
+ delete mode 100644 reviews/plots/performances_2024-05-19-YacareXV-AmericanRaptors.png
+ create mode 100644 reviews/plots/performances_2024-05-20-DallasJackals-SeattleSeawolves.png
+ create mode 100644 reviews/plots/performances_2024-05-23-Grenoble-Dax.png
+ create mode 100644 reviews/plots/performances_2024-05-24-Beziers-Brive.png
+ create mode 100644 reviews/plots/performances_2024-05-24-Brumbies-MelbourneRebels.png
+ create mode 100644 reviews/plots/performances_2024-05-24-Chiefs-Hurricanes.png
+ create mode 100644 reviews/plots/performances_2024-05-24-GloucesterRugby-Sharks.png
+ create mode 100644 reviews/plots/performances_2024-05-24-HanazonoKintetsuLiners-UrayasuD-Rocks.png
+ create mode 100644 reviews/plots/performances_2024-05-24-MoanaPasifika-NewSouthWalesWaratahs.png
+ create mode 100644 reviews/plots/performances_2024-05-24-Nottingham-Caldy.png
+ create mode 100644 reviews/plots/performances_2024-05-24-SeattleSeawolves-OldGloryDC.png
+ create mode 100644 reviews/plots/performances_2024-05-25-BlackRamsTokyo-GreenRocketsTokatsu.png
+ create mode 100644 reviews/plots/performances_2024-05-25-Cambridge-Ampthill.png
+ create mode 100644 reviews/plots/performances_2024-05-25-DogosXV-PenarolRugby.png
+ create mode 100644 reviews/plots/performances_2024-05-25-EalingTrailfinders-Bedford.png
+ create mode 100644 reviews/plots/performances_2024-05-25-EalingTrailfindersWomen-LoughboroughLightning.png
+ create mode 100644 reviews/plots/performances_2024-05-25-HarlequinsWomen-BristolBearsWomen.png
+ create mode 100644 reviews/plots/performances_2024-05-25-HartpuryCollege-Doncaster.png
+ create mode 100644 reviews/plots/performances_2024-05-25-LeicesterTigersWomen-SaleSharksWomen.png
+ create mode 100644 reviews/plots/performances_2024-05-25-Leinster-StadeToulousain.png
+ create mode 100644 reviews/plots/performances_2024-05-25-LondonScottish-CornishPirates.png
+ create mode 100644 reviews/plots/performances_2024-05-25-MiamiSharks-NewEnglandFreeJacks.png
+ create mode 100644 reviews/plots/performances_2024-05-25-MieHondaHeat-ToyotaShuttlesAichi.png
+ create mode 100644 reviews/plots/performances_2024-05-25-MoanaPasifika-NewSouthWalesWaratahs.png
+ create mode 100644 reviews/plots/performances_2024-05-25-PampasXV-Cobras.png
+ create mode 100644 reviews/plots/performances_2024-05-25-QueenslandReds-WesternForce.png
+ create mode 100644 reviews/plots/performances_2024-05-25-SaracensWomen-Gloucester-HartpuryWomen.png
+ create mode 100644 reviews/plots/performances_2024-05-25-Selknam-AmericanRaptors.png
+ create mode 100644 reviews/plots/performances_2024-05-25-YokohamaCanonEagles-TokyoSungoliath.png
+ create mode 100644 reviews/plots/performances_2024-05-26-ChicagoHounds-NOLAGold.png
+ create mode 100644 reviews/plots/performances_2024-05-26-Highlanders-FijianDrua.png
+ create mode 100644 reviews/plots/performances_2024-05-26-MiamiSharks-NewEnglandFreeJacks.png
+ create mode 100644 reviews/plots/performances_2024-05-26-SaitamaWildKnights-ToshibaBraveLupus.png
+ create mode 100644 reviews/plots/performances_2024-05-27-RFCLosAngeles-SanDiegoLegion.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-17-Agen-Vannes.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-17-Aurillac-Montauban.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-17-Brive-BiarritzOlympique.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-17-Colomiers-ValenceRomansDromeRugby.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-17-Edinburgh-Munster.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-17-FijianDrua-QueenslandReds.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-17-Hurricanes-MoanaPasifika.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-17-MelbourneRebels-Chiefs.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-17-Mont-de-Marsan-Rouen.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-17-Nevers-Dax.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-17-ProvenceRugby-Grenoble.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-17-Soyaux-Angouleme-Beziers.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-17-Zebre-Scarlets.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-18-AnthemRC-RFCLosAngeles.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-18-BathRugby-NorthamptonSaints.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-18-Bayonne-Perpignan.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-18-Belgrano-AtleticodelRosario.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-18-Blues-Highlanders.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-18-Brumbies-Crusaders.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-18-BuenosAires-Newman.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-18-Bulls-BenettonTreviso.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-18-CASI-Alumni.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-18-ClermontAuvergne-CastresOlympique.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-18-Connacht-Stormers.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-18-GloucesterRugby-NewcastleFalcons.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-18-Harlequins-BristolRugby.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-18-Hindu-Champagnat.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-18-HoustonSaberCats-ChicagoHounds.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-18-LaRochelle-Pau.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-18-LeicesterTigers-ExeterChiefs.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-18-Lions-GlasgowWarriors.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-18-Lyon-Racing92.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-18-MontpellierHerault-StadeToulousain.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-18-NOLAGold-UtahWarriors.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-18-Nice-Narbonne.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-18-Ospreys-Dragons.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-18-Oyonnax-Toulon.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-18-RegatasBellaVista-CUBA.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-18-SanLuis-SIC.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-18-Saracens-SaleSharks.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-18-Sharks-CardiffBlues.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-18-Ulster-Leinster.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-18-WesternForce-NewSouthWalesWaratahs.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-19-DallasJackals-SeattleSeawolves.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-19-Marcq-en-Baroeul-Vienne.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-19-SanDiegoLegion-NewEnglandFreeJacks.png
+ delete mode 100644 reviews/plots/performances_plr_2024-05-19-StadeFrancaisParis-BordeauxBegles.png
+ create mode 100644 reviews/plots/performances_plr_2024-05-20-DallasJackals-SeattleSeawolves.png
+ create mode 100644 reviews/plots/performances_plr_2024-05-23-Grenoble-Dax.png
+ create mode 100644 reviews/plots/performances_plr_2024-05-24-Beziers-Brive.png
+ create mode 100644 reviews/plots/performances_plr_2024-05-24-Brumbies-MelbourneRebels.png
+ create mode 100644 reviews/plots/performances_plr_2024-05-24-Chiefs-Hurricanes.png
+ create mode 100644 reviews/plots/performances_plr_2024-05-24-GloucesterRugby-Sharks.png
+ create mode 100644 reviews/plots/performances_plr_2024-05-24-MoanaPasifika-NewSouthWalesWaratahs.png
+ create mode 100644 reviews/plots/performances_plr_2024-05-24-Nottingham-Caldy.png
+ create mode 100644 reviews/plots/performances_plr_2024-05-24-SeattleSeawolves-OldGloryDC.png
+ create mode 100644 reviews/plots/performances_plr_2024-05-25-Cambridge-Ampthill.png
+ create mode 100644 reviews/plots/performances_plr_2024-05-25-EalingTrailfinders-Bedford.png
+ create mode 100644 reviews/plots/performances_plr_2024-05-25-HartpuryCollege-Doncaster.png
+ create mode 100644 reviews/plots/performances_plr_2024-05-25-Leinster-StadeToulousain.png
+ create mode 100644 reviews/plots/performances_plr_2024-05-25-LondonScottish-CornishPirates.png
+ create mode 100644 reviews/plots/performances_plr_2024-05-25-MiamiSharks-NewEnglandFreeJacks.png
+ create mode 100644 reviews/plots/performances_plr_2024-05-25-QueenslandReds-WesternForce.png
+ create mode 100644 reviews/plots/performances_plr_2024-05-25-YokohamaCanonEagles-TokyoSungoliath.png
+ create mode 100644 reviews/plots/performances_plr_2024-05-26-ChicagoHounds-NOLAGold.png
+ create mode 100644 reviews/plots/performances_plr_2024-05-26-MiamiSharks-NewEnglandFreeJacks.png
+ create mode 100644 reviews/plots/performances_plr_2024-05-27-RFCLosAngeles-SanDiegoLegion.png
+ rewrite reviews/plots/pro_rmse_skills.png (98%)
+ delete mode 100644 reviews/plots/resultbar_2024-05-17-Agen-Vannes.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-17-Aurillac-Montauban.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-17-Brive-BiarritzOlympique.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-17-Colomiers-ValenceRomansDromeRugby.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-17-Edinburgh-Munster.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-17-FijianDrua-QueenslandReds.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-17-Hurricanes-MoanaPasifika.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-17-MelbourneRebels-Chiefs.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-17-Mont-de-Marsan-Rouen.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-17-Nevers-Dax.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-17-ProvenceRugby-Grenoble.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-17-Soyaux-Angouleme-Beziers.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-17-Zebre-Scarlets.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-18-AnthemRC-RFCLosAngeles.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-18-BathRugby-NorthamptonSaints.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-18-Bayonne-Perpignan.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-18-Belgrano-AtleticodelRosario.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-18-Blues-Highlanders.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-18-Brumbies-Crusaders.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-18-BuenosAires-Newman.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-18-Bulls-BenettonTreviso.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-18-CASI-Alumni.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-18-ClermontAuvergne-CastresOlympique.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-18-Connacht-Stormers.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-18-GloucesterRugby-NewcastleFalcons.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-18-GreenRocketsTokatsu-BlackRamsTokyo.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-18-Harlequins-BristolRugby.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-18-Hindu-Champagnat.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-18-HoustonSaberCats-ChicagoHounds.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-18-Jamaica-Bermuda.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-18-LaRochelle-Pau.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-18-LeicesterTigers-ExeterChiefs.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-18-Lions-GlasgowWarriors.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-18-LoughboroughLightning-HarlequinsWomen.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-18-Lyon-Racing92.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-18-MontpellierHerault-StadeToulousain.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-18-NOLAGold-UtahWarriors.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-18-Nice-Narbonne.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-18-Ospreys-Dragons.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-18-Oyonnax-Toulon.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-18-PenarolRugby-PampasXV.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-18-RegatasBellaVista-CUBA.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-18-SaitamaWildKnights-YokohamaCanonEagles.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-18-SanLuis-SIC.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-18-Saracens-SaleSharks.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-18-Selknam-DogosXV.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-18-Sharks-CardiffBlues.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-18-ToyotaShuttlesAichi-MieHondaHeat.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-18-Ulster-Leinster.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-18-UrayasuD-Rocks-HanazonoKintetsuLiners.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-18-WesternForce-NewSouthWalesWaratahs.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-19-BristolBearsWomen-LeicesterTigersWomen.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-19-DallasJackals-SeattleSeawolves.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-19-ExeterChiefsWomen-SaracensWomen.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-19-Gloucester-HartpuryWomen-EalingTrailfindersWomen.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-19-Marcq-en-Baroeul-Vienne.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-19-SanDiegoLegion-NewEnglandFreeJacks.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-19-StadeFrancaisParis-BordeauxBegles.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-19-ToshibaBraveLupus-TokyoSungoliath.png
+ delete mode 100644 reviews/plots/resultbar_2024-05-19-YacareXV-AmericanRaptors.png
+ create mode 100644 reviews/plots/resultbar_2024-05-20-DallasJackals-SeattleSeawolves.png
+ create mode 100644 reviews/plots/resultbar_2024-05-23-Grenoble-Dax.png
+ create mode 100644 reviews/plots/resultbar_2024-05-24-Beziers-Brive.png
+ create mode 100644 reviews/plots/resultbar_2024-05-24-Brumbies-MelbourneRebels.png
+ create mode 100644 reviews/plots/resultbar_2024-05-24-Chiefs-Hurricanes.png
+ create mode 100644 reviews/plots/resultbar_2024-05-24-GloucesterRugby-Sharks.png
+ create mode 100644 reviews/plots/resultbar_2024-05-24-HanazonoKintetsuLiners-UrayasuD-Rocks.png
+ create mode 100644 reviews/plots/resultbar_2024-05-24-MoanaPasifika-NewSouthWalesWaratahs.png
+ create mode 100644 reviews/plots/resultbar_2024-05-24-Nottingham-Caldy.png
+ create mode 100644 reviews/plots/resultbar_2024-05-24-SeattleSeawolves-OldGloryDC.png
+ create mode 100644 reviews/plots/resultbar_2024-05-25-BlackRamsTokyo-GreenRocketsTokatsu.png
+ create mode 100644 reviews/plots/resultbar_2024-05-25-Cambridge-Ampthill.png
+ create mode 100644 reviews/plots/resultbar_2024-05-25-DogosXV-PenarolRugby.png
+ create mode 100644 reviews/plots/resultbar_2024-05-25-EalingTrailfinders-Bedford.png
+ create mode 100644 reviews/plots/resultbar_2024-05-25-EalingTrailfindersWomen-LoughboroughLightning.png
+ create mode 100644 reviews/plots/resultbar_2024-05-25-HarlequinsWomen-BristolBearsWomen.png
+ create mode 100644 reviews/plots/resultbar_2024-05-25-HartpuryCollege-Doncaster.png
+ create mode 100644 reviews/plots/resultbar_2024-05-25-LeicesterTigersWomen-SaleSharksWomen.png
+ create mode 100644 reviews/plots/resultbar_2024-05-25-Leinster-StadeToulousain.png
+ create mode 100644 reviews/plots/resultbar_2024-05-25-LondonScottish-CornishPirates.png
+ create mode 100644 reviews/plots/resultbar_2024-05-25-MiamiSharks-NewEnglandFreeJacks.png
+ create mode 100644 reviews/plots/resultbar_2024-05-25-MieHondaHeat-ToyotaShuttlesAichi.png
+ create mode 100644 reviews/plots/resultbar_2024-05-25-MoanaPasifika-NewSouthWalesWaratahs.png
+ create mode 100644 reviews/plots/resultbar_2024-05-25-PampasXV-Cobras.png
+ create mode 100644 reviews/plots/resultbar_2024-05-25-QueenslandReds-WesternForce.png
+ create mode 100644 reviews/plots/resultbar_2024-05-25-SaracensWomen-Gloucester-HartpuryWomen.png
+ create mode 100644 reviews/plots/resultbar_2024-05-25-Selknam-AmericanRaptors.png
+ create mode 100644 reviews/plots/resultbar_2024-05-25-YokohamaCanonEagles-TokyoSungoliath.png
+ create mode 100644 reviews/plots/resultbar_2024-05-26-ChicagoHounds-NOLAGold.png
+ create mode 100644 reviews/plots/resultbar_2024-05-26-Highlanders-FijianDrua.png
+ create mode 100644 reviews/plots/resultbar_2024-05-26-MiamiSharks-NewEnglandFreeJacks.png
+ create mode 100644 reviews/plots/resultbar_2024-05-26-SaitamaWildKnights-ToshibaBraveLupus.png
+ create mode 100644 reviews/plots/resultbar_2024-05-27-RFCLosAngeles-SanDiegoLegion.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-17-Agen-Vannes.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-17-Aurillac-Montauban.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-17-Brive-BiarritzOlympique.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-17-Colomiers-ValenceRomansDromeRugby.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-17-Edinburgh-Munster.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-17-FijianDrua-QueenslandReds.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-17-Hurricanes-MoanaPasifika.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-17-MelbourneRebels-Chiefs.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-17-Mont-de-Marsan-Rouen.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-17-Nevers-Dax.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-17-ProvenceRugby-Grenoble.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-17-Soyaux-Angouleme-Beziers.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-17-Zebre-Scarlets.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-18-AnthemRC-RFCLosAngeles.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-18-BathRugby-NorthamptonSaints.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-18-Bayonne-Perpignan.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-18-Belgrano-AtleticodelRosario.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-18-Blues-Highlanders.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-18-Brumbies-Crusaders.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-18-BuenosAires-Newman.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-18-Bulls-BenettonTreviso.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-18-CASI-Alumni.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-18-ClermontAuvergne-CastresOlympique.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-18-Connacht-Stormers.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-18-GloucesterRugby-NewcastleFalcons.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-18-Harlequins-BristolRugby.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-18-Hindu-Champagnat.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-18-HoustonSaberCats-ChicagoHounds.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-18-LaRochelle-Pau.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-18-LeicesterTigers-ExeterChiefs.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-18-Lions-GlasgowWarriors.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-18-Lyon-Racing92.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-18-MontpellierHerault-StadeToulousain.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-18-NOLAGold-UtahWarriors.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-18-Nice-Narbonne.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-18-Ospreys-Dragons.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-18-Oyonnax-Toulon.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-18-RegatasBellaVista-CUBA.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-18-SanLuis-SIC.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-18-Saracens-SaleSharks.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-18-Sharks-CardiffBlues.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-18-Ulster-Leinster.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-18-WesternForce-NewSouthWalesWaratahs.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-19-DallasJackals-SeattleSeawolves.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-19-Marcq-en-Baroeul-Vienne.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-19-SanDiegoLegion-NewEnglandFreeJacks.png
+ delete mode 100644 reviews/plots/resultbar_plr_2024-05-19-StadeFrancaisParis-BordeauxBegles.png
+ create mode 100644 reviews/plots/resultbar_plr_2024-05-20-DallasJackals-SeattleSeawolves.png
+ create mode 100644 reviews/plots/resultbar_plr_2024-05-23-Grenoble-Dax.png
+ create mode 100644 reviews/plots/resultbar_plr_2024-05-24-Beziers-Brive.png
+ create mode 100644 reviews/plots/resultbar_plr_2024-05-24-Brumbies-MelbourneRebels.png
+ create mode 100644 reviews/plots/resultbar_plr_2024-05-24-Chiefs-Hurricanes.png
+ create mode 100644 reviews/plots/resultbar_plr_2024-05-24-GloucesterRugby-Sharks.png
+ create mode 100644 reviews/plots/resultbar_plr_2024-05-24-MoanaPasifika-NewSouthWalesWaratahs.png
+ create mode 100644 reviews/plots/resultbar_plr_2024-05-24-Nottingham-Caldy.png
+ create mode 100644 reviews/plots/resultbar_plr_2024-05-24-SeattleSeawolves-OldGloryDC.png
+ create mode 100644 reviews/plots/resultbar_plr_2024-05-25-Cambridge-Ampthill.png
+ create mode 100644 reviews/plots/resultbar_plr_2024-05-25-EalingTrailfinders-Bedford.png
+ create mode 100644 reviews/plots/resultbar_plr_2024-05-25-HartpuryCollege-Doncaster.png
+ create mode 100644 reviews/plots/resultbar_plr_2024-05-25-Leinster-StadeToulousain.png
+ create mode 100644 reviews/plots/resultbar_plr_2024-05-25-LondonScottish-CornishPirates.png
+ create mode 100644 reviews/plots/resultbar_plr_2024-05-25-MiamiSharks-NewEnglandFreeJacks.png
+ create mode 100644 reviews/plots/resultbar_plr_2024-05-25-QueenslandReds-WesternForce.png
+ create mode 100644 reviews/plots/resultbar_plr_2024-05-25-YokohamaCanonEagles-TokyoSungoliath.png
+ create mode 100644 reviews/plots/resultbar_plr_2024-05-26-ChicagoHounds-NOLAGold.png
+ create mode 100644 reviews/plots/resultbar_plr_2024-05-26-MiamiSharks-NewEnglandFreeJacks.png
+ create mode 100644 reviews/plots/resultbar_plr_2024-05-27-RFCLosAngeles-SanDiegoLegion.png
+ delete mode 100644 reviews/plots/spreads_2024-05-17-Agen-Vannes.png
+ delete mode 100644 reviews/plots/spreads_2024-05-17-Aurillac-Montauban.png
+ delete mode 100644 reviews/plots/spreads_2024-05-17-Brive-BiarritzOlympique.png
+ delete mode 100644 reviews/plots/spreads_2024-05-17-Colomiers-ValenceRomansDromeRugby.png
+ delete mode 100644 reviews/plots/spreads_2024-05-17-Edinburgh-Munster.png
+ delete mode 100644 reviews/plots/spreads_2024-05-17-FijianDrua-QueenslandReds.png
+ delete mode 100644 reviews/plots/spreads_2024-05-17-Hurricanes-MoanaPasifika.png
+ delete mode 100644 reviews/plots/spreads_2024-05-17-MelbourneRebels-Chiefs.png
+ delete mode 100644 reviews/plots/spreads_2024-05-17-Mont-de-Marsan-Rouen.png
+ delete mode 100644 reviews/plots/spreads_2024-05-17-Nevers-Dax.png
+ delete mode 100644 reviews/plots/spreads_2024-05-17-ProvenceRugby-Grenoble.png
+ delete mode 100644 reviews/plots/spreads_2024-05-17-Soyaux-Angouleme-Beziers.png
+ delete mode 100644 reviews/plots/spreads_2024-05-17-Zebre-Scarlets.png
+ delete mode 100644 reviews/plots/spreads_2024-05-18-AnthemRC-RFCLosAngeles.png
+ delete mode 100644 reviews/plots/spreads_2024-05-18-BathRugby-NorthamptonSaints.png
+ delete mode 100644 reviews/plots/spreads_2024-05-18-Bayonne-Perpignan.png
+ delete mode 100644 reviews/plots/spreads_2024-05-18-Belgrano-AtleticodelRosario.png
+ delete mode 100644 reviews/plots/spreads_2024-05-18-Blues-Highlanders.png
+ delete mode 100644 reviews/plots/spreads_2024-05-18-Brumbies-Crusaders.png
+ delete mode 100644 reviews/plots/spreads_2024-05-18-BuenosAires-Newman.png
+ delete mode 100644 reviews/plots/spreads_2024-05-18-Bulls-BenettonTreviso.png
+ delete mode 100644 reviews/plots/spreads_2024-05-18-CASI-Alumni.png
+ delete mode 100644 reviews/plots/spreads_2024-05-18-ClermontAuvergne-CastresOlympique.png
+ delete mode 100644 reviews/plots/spreads_2024-05-18-Connacht-Stormers.png
+ delete mode 100644 reviews/plots/spreads_2024-05-18-GloucesterRugby-NewcastleFalcons.png
+ delete mode 100644 reviews/plots/spreads_2024-05-18-GreenRocketsTokatsu-BlackRamsTokyo.png
+ delete mode 100644 reviews/plots/spreads_2024-05-18-Harlequins-BristolRugby.png
+ delete mode 100644 reviews/plots/spreads_2024-05-18-Hindu-Champagnat.png
+ delete mode 100644 reviews/plots/spreads_2024-05-18-HoustonSaberCats-ChicagoHounds.png
+ delete mode 100644 reviews/plots/spreads_2024-05-18-Jamaica-Bermuda.png
+ delete mode 100644 reviews/plots/spreads_2024-05-18-LaRochelle-Pau.png
+ delete mode 100644 reviews/plots/spreads_2024-05-18-LeicesterTigers-ExeterChiefs.png
+ delete mode 100644 reviews/plots/spreads_2024-05-18-Lions-GlasgowWarriors.png
+ delete mode 100644 reviews/plots/spreads_2024-05-18-LoughboroughLightning-HarlequinsWomen.png
+ delete mode 100644 reviews/plots/spreads_2024-05-18-Lyon-Racing92.png
+ delete mode 100644 reviews/plots/spreads_2024-05-18-MontpellierHerault-StadeToulousain.png
+ delete mode 100644 reviews/plots/spreads_2024-05-18-NOLAGold-UtahWarriors.png
+ delete mode 100644 reviews/plots/spreads_2024-05-18-Nice-Narbonne.png
+ delete mode 100644 reviews/plots/spreads_2024-05-18-Ospreys-Dragons.png
+ delete mode 100644 reviews/plots/spreads_2024-05-18-Oyonnax-Toulon.png
+ delete mode 100644 reviews/plots/spreads_2024-05-18-PenarolRugby-PampasXV.png
+ delete mode 100644 reviews/plots/spreads_2024-05-18-RegatasBellaVista-CUBA.png
+ delete mode 100644 reviews/plots/spreads_2024-05-18-SaitamaWildKnights-YokohamaCanonEagles.png
+ delete mode 100644 reviews/plots/spreads_2024-05-18-SanLuis-SIC.png
+ delete mode 100644 reviews/plots/spreads_2024-05-18-Saracens-SaleSharks.png
+ delete mode 100644 reviews/plots/spreads_2024-05-18-Selknam-DogosXV.png
+ delete mode 100644 reviews/plots/spreads_2024-05-18-Sharks-CardiffBlues.png
+ delete mode 100644 reviews/plots/spreads_2024-05-18-ToyotaShuttlesAichi-MieHondaHeat.png
+ delete mode 100644 reviews/plots/spreads_2024-05-18-Ulster-Leinster.png
+ delete mode 100644 reviews/plots/spreads_2024-05-18-UrayasuD-Rocks-HanazonoKintetsuLiners.png
+ delete mode 100644 reviews/plots/spreads_2024-05-18-WesternForce-NewSouthWalesWaratahs.png
+ delete mode 100644 reviews/plots/spreads_2024-05-19-BristolBearsWomen-LeicesterTigersWomen.png
+ delete mode 100644 reviews/plots/spreads_2024-05-19-DallasJackals-SeattleSeawolves.png
+ delete mode 100644 reviews/plots/spreads_2024-05-19-ExeterChiefsWomen-SaracensWomen.png
+ delete mode 100644 reviews/plots/spreads_2024-05-19-Gloucester-HartpuryWomen-EalingTrailfindersWomen.png
+ delete mode 100644 reviews/plots/spreads_2024-05-19-Marcq-en-Baroeul-Vienne.png
+ delete mode 100644 reviews/plots/spreads_2024-05-19-SanDiegoLegion-NewEnglandFreeJacks.png
+ delete mode 100644 reviews/plots/spreads_2024-05-19-StadeFrancaisParis-BordeauxBegles.png
+ delete mode 100644 reviews/plots/spreads_2024-05-19-ToshibaBraveLupus-TokyoSungoliath.png
+ delete mode 100644 reviews/plots/spreads_2024-05-19-YacareXV-AmericanRaptors.png
+ create mode 100644 reviews/plots/spreads_2024-05-20-DallasJackals-SeattleSeawolves.png
+ create mode 100644 reviews/plots/spreads_2024-05-23-Grenoble-Dax.png
+ create mode 100644 reviews/plots/spreads_2024-05-24-Beziers-Brive.png
+ create mode 100644 reviews/plots/spreads_2024-05-24-Brumbies-MelbourneRebels.png
+ create mode 100644 reviews/plots/spreads_2024-05-24-Chiefs-Hurricanes.png
+ create mode 100644 reviews/plots/spreads_2024-05-24-GloucesterRugby-Sharks.png
+ create mode 100644 reviews/plots/spreads_2024-05-24-HanazonoKintetsuLiners-UrayasuD-Rocks.png
+ create mode 100644 reviews/plots/spreads_2024-05-24-MoanaPasifika-NewSouthWalesWaratahs.png
+ create mode 100644 reviews/plots/spreads_2024-05-24-Nottingham-Caldy.png
+ create mode 100644 reviews/plots/spreads_2024-05-24-SeattleSeawolves-OldGloryDC.png
+ create mode 100644 reviews/plots/spreads_2024-05-25-BlackRamsTokyo-GreenRocketsTokatsu.png
+ create mode 100644 reviews/plots/spreads_2024-05-25-Cambridge-Ampthill.png
+ create mode 100644 reviews/plots/spreads_2024-05-25-DogosXV-PenarolRugby.png
+ create mode 100644 reviews/plots/spreads_2024-05-25-EalingTrailfinders-Bedford.png
+ create mode 100644 reviews/plots/spreads_2024-05-25-EalingTrailfindersWomen-LoughboroughLightning.png
+ create mode 100644 reviews/plots/spreads_2024-05-25-HarlequinsWomen-BristolBearsWomen.png
+ create mode 100644 reviews/plots/spreads_2024-05-25-HartpuryCollege-Doncaster.png
+ create mode 100644 reviews/plots/spreads_2024-05-25-LeicesterTigersWomen-SaleSharksWomen.png
+ create mode 100644 reviews/plots/spreads_2024-05-25-Leinster-StadeToulousain.png
+ create mode 100644 reviews/plots/spreads_2024-05-25-LondonScottish-CornishPirates.png
+ create mode 100644 reviews/plots/spreads_2024-05-25-MiamiSharks-NewEnglandFreeJacks.png
+ create mode 100644 reviews/plots/spreads_2024-05-25-MieHondaHeat-ToyotaShuttlesAichi.png
+ create mode 100644 reviews/plots/spreads_2024-05-25-MoanaPasifika-NewSouthWalesWaratahs.png
+ create mode 100644 reviews/plots/spreads_2024-05-25-PampasXV-Cobras.png
+ create mode 100644 reviews/plots/spreads_2024-05-25-QueenslandReds-WesternForce.png
+ create mode 100644 reviews/plots/spreads_2024-05-25-SaracensWomen-Gloucester-HartpuryWomen.png
+ create mode 100644 reviews/plots/spreads_2024-05-25-Selknam-AmericanRaptors.png
+ create mode 100644 reviews/plots/spreads_2024-05-25-YokohamaCanonEagles-TokyoSungoliath.png
+ create mode 100644 reviews/plots/spreads_2024-05-26-ChicagoHounds-NOLAGold.png
+ create mode 100644 reviews/plots/spreads_2024-05-26-Highlanders-FijianDrua.png
+ create mode 100644 reviews/plots/spreads_2024-05-26-MiamiSharks-NewEnglandFreeJacks.png
+ create mode 100644 reviews/plots/spreads_2024-05-26-SaitamaWildKnights-ToshibaBraveLupus.png
+ create mode 100644 reviews/plots/spreads_2024-05-27-RFCLosAngeles-SanDiegoLegion.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-17-Agen-Vannes.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-17-Aurillac-Montauban.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-17-Brive-BiarritzOlympique.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-17-Colomiers-ValenceRomansDromeRugby.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-17-Edinburgh-Munster.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-17-FijianDrua-QueenslandReds.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-17-Hurricanes-MoanaPasifika.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-17-MelbourneRebels-Chiefs.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-17-Mont-de-Marsan-Rouen.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-17-Nevers-Dax.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-17-ProvenceRugby-Grenoble.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-17-Soyaux-Angouleme-Beziers.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-17-Zebre-Scarlets.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-18-AnthemRC-RFCLosAngeles.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-18-BathRugby-NorthamptonSaints.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-18-Bayonne-Perpignan.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-18-Belgrano-AtleticodelRosario.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-18-Blues-Highlanders.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-18-Brumbies-Crusaders.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-18-BuenosAires-Newman.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-18-Bulls-BenettonTreviso.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-18-CASI-Alumni.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-18-ClermontAuvergne-CastresOlympique.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-18-Connacht-Stormers.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-18-GloucesterRugby-NewcastleFalcons.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-18-Harlequins-BristolRugby.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-18-Hindu-Champagnat.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-18-HoustonSaberCats-ChicagoHounds.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-18-LaRochelle-Pau.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-18-LeicesterTigers-ExeterChiefs.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-18-Lions-GlasgowWarriors.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-18-Lyon-Racing92.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-18-MontpellierHerault-StadeToulousain.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-18-NOLAGold-UtahWarriors.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-18-Nice-Narbonne.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-18-Ospreys-Dragons.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-18-Oyonnax-Toulon.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-18-RegatasBellaVista-CUBA.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-18-SanLuis-SIC.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-18-Saracens-SaleSharks.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-18-Sharks-CardiffBlues.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-18-Ulster-Leinster.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-18-WesternForce-NewSouthWalesWaratahs.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-19-DallasJackals-SeattleSeawolves.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-19-Marcq-en-Baroeul-Vienne.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-19-SanDiegoLegion-NewEnglandFreeJacks.png
+ delete mode 100644 reviews/plots/spreads_plr_2024-05-19-StadeFrancaisParis-BordeauxBegles.png
+ create mode 100644 reviews/plots/spreads_plr_2024-05-20-DallasJackals-SeattleSeawolves.png
+ create mode 100644 reviews/plots/spreads_plr_2024-05-23-Grenoble-Dax.png
+ create mode 100644 reviews/plots/spreads_plr_2024-05-24-Beziers-Brive.png
+ create mode 100644 reviews/plots/spreads_plr_2024-05-24-Brumbies-MelbourneRebels.png
+ create mode 100644 reviews/plots/spreads_plr_2024-05-24-Chiefs-Hurricanes.png
+ create mode 100644 reviews/plots/spreads_plr_2024-05-24-GloucesterRugby-Sharks.png
+ create mode 100644 reviews/plots/spreads_plr_2024-05-24-MoanaPasifika-NewSouthWalesWaratahs.png
+ create mode 100644 reviews/plots/spreads_plr_2024-05-24-Nottingham-Caldy.png
+ create mode 100644 reviews/plots/spreads_plr_2024-05-24-SeattleSeawolves-OldGloryDC.png
+ create mode 100644 reviews/plots/spreads_plr_2024-05-25-Cambridge-Ampthill.png
+ create mode 100644 reviews/plots/spreads_plr_2024-05-25-EalingTrailfinders-Bedford.png
+ create mode 100644 reviews/plots/spreads_plr_2024-05-25-HartpuryCollege-Doncaster.png
+ create mode 100644 reviews/plots/spreads_plr_2024-05-25-Leinster-StadeToulousain.png
+ create mode 100644 reviews/plots/spreads_plr_2024-05-25-LondonScottish-CornishPirates.png
+ create mode 100644 reviews/plots/spreads_plr_2024-05-25-MiamiSharks-NewEnglandFreeJacks.png
+ create mode 100644 reviews/plots/spreads_plr_2024-05-25-QueenslandReds-WesternForce.png
+ create mode 100644 reviews/plots/spreads_plr_2024-05-25-YokohamaCanonEagles-TokyoSungoliath.png
+ create mode 100644 reviews/plots/spreads_plr_2024-05-26-ChicagoHounds-NOLAGold.png
+ create mode 100644 reviews/plots/spreads_plr_2024-05-26-MiamiSharks-NewEnglandFreeJacks.png
+ create mode 100644 reviews/plots/spreads_plr_2024-05-27-RFCLosAngeles-SanDiegoLegion.png
+ rewrite reviews/plots/v2_comp_rmse_skills.png (98%)

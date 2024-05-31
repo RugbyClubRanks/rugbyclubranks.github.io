@@ -1,6 +1,6 @@
 ---  
 title: "International Test Match 2024 Status"  
-date: 2024-05-27 6:00:00 -0500  
+date: 2024-05-30 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -58,14 +58,14 @@ aside:
 
 | Club                 |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Bermuda              |                   1 |    0.9 |             25.4213  |                   0   |                0.7 |                  4.2 |
-| Cayman Islands       |                   1 |    0.9 |             25.6295  |                   0   |                0.5 |                  4.1 |
-| Malaysia             |                   1 |    0.6 |              3.65042 |                   0.2 |                0.5 |                  3   |
-| United Arab Emirates |                   1 |    0.5 |              2.02362 |                   0.2 |                0.3 |                  2.7 |
-| Hong Kong            |                   1 |    0.5 |             -2.02362 |                   0.2 |                0.2 |                  2.2 |
-| Korea Republic       |                   1 |    0.4 |             -3.65042 |                   0.1 |                0.1 |                  2   |
-| Bahamas              |                   1 |    0.1 |            -25.4213  |                   0.1 |                0.1 |                  0.8 |
-| Mexico               |                   1 |    0.1 |            -25.6295  |                   0.1 |                0.1 |                  0.6 |
+| Bermuda              |                   1 |    0.9 |             25.6731  |                   0.1 |                0.7 |                  4.2 |
+| Cayman Islands       |                   1 |    0.9 |             27.2336  |                   0   |                0.4 |                  4.1 |
+| Malaysia             |                   1 |    0.6 |              3.47534 |                   0.2 |                0.5 |                  2.9 |
+| United Arab Emirates |                   1 |    0.6 |              2.10469 |                   0.2 |                0.3 |                  2.8 |
+| Hong Kong            |                   1 |    0.4 |             -2.10469 |                   0.2 |                0.2 |                  2.1 |
+| Korea Republic       |                   1 |    0.4 |             -3.47534 |                   0.1 |                0.1 |                  2   |
+| Bahamas              |                   1 |    0.1 |            -25.6731  |                   0.1 |                0.1 |                  0.8 |
+| Mexico               |                   1 |    0.1 |            -27.2336  |                   0.1 |                0.1 |                  0.6 |
 
 
 
@@ -74,15 +74,15 @@ aside:
 
 | Club                   |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Cayman Islands         |               2 |    1.9 |             57.6295  |                   0   |                0.5 |                  8.1 |
+| Cayman Islands         |               2 |    1.9 |             59.2336  |                   0   |                0.4 |                  8.1 |
 | Luxembourg             |               2 |    2   |             80       |                   0   |                0   |                  8   |
 | Sri Lanka              |               2 |    2   |             73       |                   0   |                0   |                  8   |
 | Switzerland            |               2 |    2   |             41       |                   0   |                0   |                  8   |
 | Sweden                 |               2 |    2   |             31       |                   0   |                0   |                  8   |
-| Malaysia               |               2 |    1.6 |             42.6504  |                   0.2 |                0.5 |                  7   |
+| Malaysia               |               2 |    1.6 |             42.4753  |                   0.2 |                0.5 |                  6.9 |
 | Hungary                |               2 |    1   |             32       |                   1   |                0   |                  5   |
 | Qatar                  |               2 |    1   |              7       |                   1   |                0   |                  5   |
-| Bermuda                |               2 |    0.9 |             -6.57869 |                   0   |                0.7 |                  4.2 |
+| Bermuda                |               2 |    0.9 |             -6.32693 |                   0.1 |                0.7 |                  4.2 |
 | Finland                |               1 |    1   |             50       |                   0   |                0   |                  4   |
 | Moldova                |               1 |    1   |             42       |                   0   |                0   |                  4   |
 | Austria                |               1 |    1   |             40       |                   0   |                0   |                  4   |
@@ -95,13 +95,13 @@ aside:
 | Croatia                |               2 |    1   |            -10       |                   0   |                0   |                  4   |
 | Bulgaria               |               2 |    1   |            -19       |                   0   |                0   |                  4   |
 | Kazakhstan             |               2 |    1   |            -36       |                   0   |                0   |                  4   |
-| United Arab Emirates   |               1 |    0.5 |              2.02362 |                   0.2 |                0.3 |                  2.7 |
-| Hong Kong              |               1 |    0.5 |             -2.02362 |                   0.2 |                0.2 |                  2.2 |
-| Korea Republic         |               1 |    0.4 |             -3.65042 |                   0.1 |                0.1 |                  2   |
+| United Arab Emirates   |               1 |    0.6 |              2.10469 |                   0.2 |                0.3 |                  2.8 |
+| Hong Kong              |               1 |    0.4 |             -2.10469 |                   0.2 |                0.2 |                  2.1 |
+| Korea Republic         |               1 |    0.4 |             -3.47534 |                   0.1 |                0.1 |                  2   |
 | Denmark                |               1 |    0   |             -4       |                   1   |                0   |                  1   |
 | Zambia                 |               1 |    0   |             -4       |                   1   |                0   |                  1   |
-| Bahamas                |               1 |    0.1 |            -25.4213  |                   0.1 |                0.1 |                  0.8 |
-| Mexico                 |               1 |    0.1 |            -25.6295  |                   0.1 |                0.1 |                  0.6 |
+| Bahamas                |               1 |    0.1 |            -25.6731  |                   0.1 |                0.1 |                  0.8 |
+| Mexico                 |               1 |    0.1 |            -27.2336  |                   0.1 |                0.1 |                  0.6 |
 | Cyprus                 |               1 |    0   |            -10       |                   0   |                0   |                  0   |
 | Senegal                |               1 |    0   |            -14       |                   0   |                0   |                  0   |
 | Serbia                 |               1 |    0   |            -23       |                   0   |                0   |                  0   |
@@ -132,9 +132,9 @@ aside:
 ### Bermuda V Bahamas on 2024/06/01
 
 
-Average Margin: Bermuda by 25.4
+Average Margin: Bermuda by 25.7
 
-Average Scoreline: 45-20
+Average Scoreline: 46-20
 
 <p float="left">
 <img src="plots/performances_2024-06-01-Bermuda_V_Bahamas.png" width="32%" />
@@ -145,9 +145,9 @@ Average Scoreline: 45-20
 ### Cayman Islands V Mexico on 2024/06/01
 
 
-Average Margin: Cayman Islands by 25.6
+Average Margin: Cayman Islands by 27.2
 
-Average Scoreline: 39-14
+Average Scoreline: 40-13
 
 <p float="left">
 <img src="plots/performances_2024-06-01-CaymanIslands_V_Mexico.png" width="32%" />
@@ -158,7 +158,7 @@ Average Scoreline: 39-14
 ### Hong Kong V United Arab Emirates on 2024/06/01
 
 
-Average Margin: United Arab Emirates by 2.0
+Average Margin: United Arab Emirates by 2.1
 
 Average Scoreline: 27-25
 
@@ -171,7 +171,7 @@ Average Scoreline: 27-25
 ### Korea Republic V Malaysia on 2024/06/02
 
 
-Average Margin: Malaysia by 3.7
+Average Margin: Malaysia by 3.5
 
 Average Scoreline: 13-10
 

@@ -54,6 +54,8 @@ key: page-recents
 ## Asia Rugby Championship - Top 3
 
 
+[2024](comp_files\Asia_Rugby_Championship_-_Top_3_2024)
+
 [2022](comp_files\Asia_Rugby_Championship_-_Top_3_2022) - Prediction Accuracy: 100.0% 
 ## Autumn Nations Series
 
@@ -92,7 +94,7 @@ key: page-recents
 ## Major League Rugby
 
 
-[2024](comp_files\Major_League_Rugby_2024) - Prediction Accuracy: 58.5% 
+[2024](comp_files\Major_League_Rugby_2024) - Prediction Accuracy: 55.4% 
 
 [2023](comp_files\Major_League_Rugby_2023) - Prediction Accuracy: 71.3% 
 
@@ -230,7 +232,7 @@ key: page-recents
 ## Allianz Premier 15s
 
 
-[2023](comp_files\Allianz_Premier_15s_2023) - Prediction Accuracy: 85.7% 
+[2023](comp_files\Allianz_Premier_15s_2023) - Prediction Accuracy: 83.6% 
 # Domestic Competitions
 
 ## Bunnings Warehouse NPC

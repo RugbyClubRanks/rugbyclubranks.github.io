@@ -3,6 +3,22 @@ layout: article
 title: Recent Matches  
 key: page-recents  
 ---
+# International Matches
+
+## FIRA Championship D2
+
+
+[In depth model review and projections for FIRA Championship D2 2024](comp_files/FIRA_Championship_D2_2024)
+
+Competition Accuracy: 2 of 5 (40.0%)
+
+Competition Error: 18.76 points per match
+
+Last Round Accuracy: 2 of 4 (50.0%)
+
+Last Round Error: 21.19 points per match
+
+[2024-05-24 Moldova at Luxembourg; 0-19](reviews//2024-05-24-Luxembourg-Moldova)
 # Top Flight Leagues
 
 ## Allianz Premier 15s
@@ -16,7 +32,7 @@ Competition Error: 14.62 points per match
 
 Last Round Accuracy: 3 of 5 (60.0%)
 
-Last Round Error: 14.64 points per match
+Last Round Error: 12.7 points per match
 
 [2024-05-25 Loughborough Lightning at Ealing Trailfinders Women; 19-18](reviews//2024-05-25-EalingTrailfindersWomen-LoughboroughLightning)
 
@@ -46,7 +62,7 @@ Last Round Error: 14.71 points per match
 
 Competition Accuracy: 46 of 63 (73.02%)
 
-Competition Error: 13.35 points per match
+Competition Error: 13.34 points per match
 
 Last Round Accuracy: 9 of 12 (75.0%)
 
@@ -110,15 +126,15 @@ Competition Error: 12.87 points per match
 
 Last Round Accuracy: 6 of 6 (100.0%)
 
-Last Round Error: 12.03 points per match
+Last Round Error: 13.0 points per match
 
 [2024-05-24 Caldy at Nottingham; 8-28](reviews//2024-05-24-Nottingham-Caldy)
 
 [2024-05-25 Ampthill at Cambridge; 37-28](reviews//2024-05-25-Cambridge-Ampthill)
 
-[2024-05-25 Doncaster at Hartpury College; 14-43](reviews//2024-05-25-HartpuryCollege-Doncaster)
-
 [2024-05-25 Cornish Pirates at London Scottish; 38-27](reviews//2024-05-25-LondonScottish-CornishPirates)
+
+[2024-05-25 Doncaster at Hartpury College; 14-43](reviews//2024-05-25-HartpuryCollege-Doncaster)
 
 [2024-05-25 Bedford at Ealing Trailfinders; 12-59](reviews//2024-05-25-EalingTrailfinders-Bedford)
 ## Super Rugby
@@ -186,9 +202,9 @@ Competition Accuracy: 181 of 242 (74.79%)
 
 Competition Error: 11.41 points per match
 
-Last Round Accuracy: 6 of 8 (75.0%)
+Last Round Accuracy: 7 of 8 (87.5%)
 
-Last Round Error: 12.17 points per match
+Last Round Error: 13.83 points per match
 
 [2024-05-23 Dax at Grenoble; 10-58](reviews//2024-05-23-Grenoble-Dax)
 

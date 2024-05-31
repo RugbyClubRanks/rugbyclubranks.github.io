@@ -1,6 +1,6 @@
 ---  
 title: "Asia Rugby Championship - Top 3 2024 Status"  
-date: 2024-05-27 6:00:00 -0500  
+date: 2024-05-30 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,8 +17,8 @@ aside:
 
 | Club     |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Korea    |               1 |    0.8 |              11.3373 |                   0.1 |                0.4 |                  3.7 |
-| Malaysia |               1 |    0.2 |             -11.3373 |                   0.2 |                0.2 |                  1.2 |
+| Korea    |               1 |    0.8 |              11.7356 |                   0.1 |                0.4 |                  3.7 |
+| Malaysia |               1 |    0.2 |             -11.7356 |                   0.2 |                0.2 |                  1.2 |
 
 
 
@@ -29,7 +29,7 @@ aside:
 ### Korea V Malaysia on 2024/06/01
 
 
-Average Margin: Korea by 11.3
+Average Margin: Korea by 11.7
 
 Average Scoreline: 28-16
 
