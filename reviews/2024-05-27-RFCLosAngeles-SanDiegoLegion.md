@@ -9,9 +9,9 @@ categories: "Major League Rugby 2024" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.271, which translates to predicting San Diego Legion to win by 8.9.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.249, which translates to predicting San Diego Legion to win by 9.9.
 
-Our Over/Under is 57.5 - and combined with the spread above, we have a predicted scoreline of 33 to 24
+Our Over/Under is 58.5 - and combined with the spread above, we have a predicted scoreline of 34 to 24
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: San Diego Legion by 3.8
+## Prediction without Player Minutes: San Diego Legion by 3.4
 
 
-San Diego Legion by 6.0 on a neutral pitch
+San Diego Legion by 5.6 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -67,21 +67,27 @@ San Diego Legion by 6.0 on a neutral pitch
 </p>
 
 
-|   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player       |   Home Minutes |
-|---------------:|:---------------------|------------------:|---------:|------------------:|:------------------|---------------:|
-|             80 | Payton Telea-Ilalio  |             13.44 |        1 |             19.92 | Dane Zander       |             80 |
-|             80 | Hugh Roach           |             66.77 |        2 |             25.04 | Ben Strang        |             80 |
-|             80 | Darcy Breen          |             31.09 |        3 |              1.54 | Alex Maughan      |             80 |
-|             80 | Jay Tuivaiti         |             39.92 |        4 |             22.05 | Theo Vukasinovic  |             80 |
-|             80 | Greg Peterson        |              9.33 |        5 |             90.96 | Reegan O'Gorman   |             80 |
-|             80 | Christian Poidevin   |             71.73 |        6 |             26.82 | Michael Amiras    |             80 |
-|             80 | Blair Cowan          |             80.93 |        7 |             35.53 | Max Katjijeko     |             80 |
-|             80 | Tupou Ma'afu-Afungia |             36.65 |        8 |              2.69 | Jason Damm        |             80 |
-|             80 | Connor Tupai         |             17.41 |        9 |             43.28 | Niall Saunders    |             80 |
-|             80 | Matt Giteau          |             99.38 |       10 |             27.63 | Tas Smith         |             80 |
-|             80 | James Vaifale        |             16.05 |       11 |              6.17 | Jack Shaw         |             80 |
-|             80 | Tiaan Loots          |             73.08 |       12 |             40.33 | James Stokes      |             80 |
-|             80 | Ethan Grayson        |             67.45 |       13 |             41.66 | Will Leonard      |             80 |
-|             80 | Tomas Aoake          |             38.94 |       14 |             30.67 | Brooklyn Hardaker |             80 |
-|             80 | Alex Horan           |             34.59 |       15 |             61.64 | Andrew Coe        |             80 |
+|   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
+|---------------:|:----------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
+|             80 | Payton Telea-Ilalio   |             19.51 |        1 |             63.16 | Dane Zander           |             55 |
+|             74 | Hugh Roach            |             67.85 |        2 |             68.49 | Ben Strang            |             68 |
+|             80 | Darcy Breen           |             37.73 |        3 |              6.23 | Alex Maughan          |             44 |
+|             58 | Jay Tuivaiti          |             56.3  |        4 |             37.1  | Theo Vukasinovic      |             18 |
+|             80 | Greg Peterson         |             15.8  |        5 |             93.5  | Reegan O'Gorman       |             73 |
+|             54 | Christian Poidevin    |             76.4  |        6 |             66.09 | Michael Amiras        |             80 |
+|             80 | Blair Cowan           |             84.49 |        7 |             37.96 | Max Katjijeko         |             80 |
+|             58 | Tupou Ma'afu-Afungia  |             46.49 |        8 |             10    | Jason Damm            |             80 |
+|             80 | Connor Tupai          |             33.85 |        9 |             74.23 | Niall Saunders        |             80 |
+|             73 | Matt Giteau           |             99.59 |       10 |             54.07 | Tas Smith             |             80 |
+|             80 | James Vaifale         |             16.68 |       11 |             18.48 | Jack Shaw             |             80 |
+|             58 | Tiaan Loots           |             76.94 |       12 |             69.52 | James Stokes          |             80 |
+|             80 | Ethan Grayson         |             69.08 |       13 |             62.98 | Will Leonard          |             80 |
+|             80 | Tomas Aoake           |             59.43 |       14 |             23.79 | Brooklyn Hardaker     |             80 |
+|             80 | Alex Horan            |             45.51 |       15 |             87.01 | Andrew Coe            |             17 |
+|              6 | Cyrille Cama          |             30.55 |       16 |            nan    | Sam Buckley           |             25 |
+|             22 | Vili Helu             |             47.59 |       17 |             17.04 | Bruce Kauika-Petersen |             12 |
+|             26 | Paddy Ryan            |             94.33 |       18 |             77.25 | Nelson Rebolo         |             36 |
+|             22 | Tevita David Tameilau |             60.54 |       19 |             96.28 | Semi Kunatani         |             62 |
+|              7 | Danny Christensen     |              5.15 |       20 |            nan    | Liam Antrobus         |              7 |
+|             22 | Marcel Brache         |             88.73 |       21 |             24.01 | Austin White          |             63 |
 

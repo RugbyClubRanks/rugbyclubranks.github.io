@@ -1,6 +1,6 @@
 ---  
 title: "Major League Rugby 2024 Status"  
-date: 2024-05-30 6:00:00 -0500  
+date: 2024-06-03 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,18 +17,18 @@ aside:
 
 | Club                   |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Houston SaberCats      |       11 |     10 |                  109 |                     0 |                nan |                   46 |
-| Seattle Seawolves      |       14 |      9 |                   77 |                     4 |                nan |                   46 |
-| Dallas Jackals         |       13 |      7 |                   67 |                     5 |                nan |                   38 |
-| New England Free Jacks |       13 |      7 |                   82 |                     4 |                nan |                   37 |
-| NOLA Gold              |       12 |      8 |                   79 |                     1 |                nan |                   36 |
-| San Diego Legion       |       11 |      7 |                   11 |                     3 |                nan |                   36 |
-| Utah Warriors          |       13 |      5 |                   11 |                     6 |                nan |                   30 |
-| Chicago Hounds         |       12 |      5 |                   42 |                     3 |                nan |                   29 |
-| Old Glory DC           |       11 |      5 |                  -39 |                     2 |                nan |                   25 |
-| Miami Sharks           |       13 |      5 |                  -45 |                     3 |                nan |                   25 |
-| RFC Los Angeles        |       12 |      4 |                  -88 |                     2 |                nan |                   25 |
-| Anthem RC              |       13 |      0 |                 -306 |                     2 |                nan |                    6 |
+| Houston SaberCats      |       14 |     13 |                  151 |                     0 |                nan |                   60 |
+| Seattle Seawolves      |       16 |     11 |                   95 |                     4 |                nan |                   55 |
+| New England Free Jacks |       15 |      9 |                  106 |                     4 |                nan |                   47 |
+| San Diego Legion       |       13 |      9 |                   24 |                     3 |                nan |                   44 |
+| Dallas Jackals         |       16 |      7 |                   56 |                     8 |                nan |                   43 |
+| Old Glory DC           |       15 |      8 |                  -19 |                     3 |                nan |                   39 |
+| NOLA Gold              |       13 |      8 |                   65 |                     1 |                nan |                   37 |
+| RFC Los Angeles        |       16 |      6 |                 -107 |                     2 |                nan |                   35 |
+| Utah Warriors          |       15 |      5 |                   -1 |                     8 |                nan |                   32 |
+| Chicago Hounds         |       13 |      5 |                   41 |                     4 |                nan |                   30 |
+| Miami Sharks           |       16 |      6 |                  -48 |                     4 |                nan |                   30 |
+| Anthem RC              |       16 |      0 |                 -363 |                     2 |                nan |                    7 |
 
 
 
@@ -37,18 +37,18 @@ aside:
 
 | Club                   |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| New England Free Jacks |                   5 |    4.2 |             52.5475  |                   0.7 |                2.6 |                 20.2 |
-| Houston SaberCats      |                   5 |    3.8 |             31.0979  |                   1   |                2.3 |                 18.4 |
-| San Diego Legion       |                   5 |    3.6 |             40.6377  |                   1.2 |                2.7 |                 18.2 |
-| Utah Warriors          |                   6 |    3.3 |             14.6059  |                   1.6 |                2.1 |                 16.8 |
-| Miami Sharks           |                   5 |    3.1 |             20.0365  |                   1.3 |                2.1 |                 15.7 |
-| Chicago Hounds         |                   4 |    2.6 |             25.3189  |                   0.9 |                1.6 |                 13   |
-| Old Glory DC           |                   5 |    2.3 |             12.8648  |                   1.6 |                2.2 |                 12.8 |
-| NOLA Gold              |                   5 |    2.2 |             -4.1346  |                   2   |                1.5 |                 12.2 |
-| Seattle Seawolves      |                   4 |    2.2 |             11.6935  |                   1.1 |                1.6 |                 11.6 |
-| Dallas Jackals         |                   5 |    2.2 |             -4.93017 |                   1.5 |                1.1 |                 11.4 |
-| RFC Los Angeles        |                   6 |    0.6 |            -66.4632  |                   1.2 |                1.1 |                  4.8 |
-| Anthem RC              |                   5 |    0   |           -133.275   |                   0.1 |                0.6 |                  0.8 |
+| New England Free Jacks |                   4 |    3.3 |             44.252   |                   0.6 |                2.1 |                 15.9 |
+| Houston SaberCats      |                   4 |    3.3 |             32.6761  |                   0.6 |                1.9 |                 15.5 |
+| San Diego Legion       |                   4 |    3.1 |             40.5343  |                   0.7 |                2   |                 15.3 |
+| Utah Warriors          |                   5 |    2.8 |              8.66244 |                   1.1 |                1.7 |                 14   |
+| Miami Sharks           |                   4 |    2.6 |             16.5684  |                   0.9 |                1.5 |                 12.7 |
+| Chicago Hounds         |                   4 |    2.4 |             19.0623  |                   1.1 |                1.5 |                 12.3 |
+| Seattle Seawolves      |                   4 |    2   |              5.9286  |                   1   |                1.5 |                 10.7 |
+| Dallas Jackals         |                   4 |    2   |             -2.33667 |                   1.1 |                1.2 |                 10.1 |
+| NOLA Gold              |                   4 |    1.6 |             -6.2748  |                   1.7 |                1.1 |                  9.1 |
+| Old Glory DC           |                   4 |    1.5 |             -6.67243 |                   1.7 |                0.9 |                  8.8 |
+| RFC Los Angeles        |                   5 |    0.4 |            -54.1304  |                   1.1 |                1   |                  3.7 |
+| Anthem RC              |                   4 |    0   |            -98.2698  |                   0.1 |                0.3 |                  0.6 |
 
 
 
@@ -57,18 +57,18 @@ aside:
 
 | Club                   |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Houston SaberCats      |              16 |   13.8 |             140.098  |                   1   |                2.3 |                 64.4 |
-| Seattle Seawolves      |              18 |   11.2 |              88.6935 |                   5.1 |                1.6 |                 57.6 |
-| New England Free Jacks |              18 |   11.2 |             134.548  |                   4.7 |                2.6 |                 57.2 |
-| San Diego Legion       |              16 |   10.6 |              51.6377 |                   4.2 |                2.7 |                 54.2 |
-| Dallas Jackals         |              18 |    9.2 |              62.0698 |                   6.5 |                1.1 |                 49.4 |
-| NOLA Gold              |              17 |   10.2 |              74.8654 |                   3   |                1.5 |                 48.2 |
-| Utah Warriors          |              19 |    8.3 |              25.6059 |                   7.6 |                2.1 |                 46.8 |
-| Chicago Hounds         |              16 |    7.6 |              67.3189 |                   3.9 |                1.6 |                 42   |
-| Miami Sharks           |              18 |    8.1 |             -24.9635 |                   4.3 |                2.1 |                 40.7 |
-| Old Glory DC           |              16 |    7.3 |             -26.1352 |                   3.6 |                2.2 |                 37.8 |
-| RFC Los Angeles        |              18 |    4.6 |            -154.463  |                   3.2 |                1.1 |                 29.8 |
-| Anthem RC              |              18 |    0   |            -439.275  |                   2.1 |                0.6 |                  6.8 |
+| Houston SaberCats      |              18 |   16.3 |            183.676   |                   0.6 |                1.9 |                 75.5 |
+| Seattle Seawolves      |              20 |   13   |            100.929   |                   5   |                1.5 |                 65.7 |
+| New England Free Jacks |              19 |   12.3 |            150.252   |                   4.6 |                2.1 |                 62.9 |
+| San Diego Legion       |              17 |   12.1 |             64.5343  |                   3.7 |                2   |                 59.3 |
+| Dallas Jackals         |              20 |    9   |             53.6633  |                   9.1 |                1.2 |                 53.1 |
+| Old Glory DC           |              19 |    9.5 |            -25.6724  |                   4.7 |                0.9 |                 47.8 |
+| NOLA Gold              |              17 |    9.6 |             58.7252  |                   2.7 |                1.1 |                 46.1 |
+| Utah Warriors          |              20 |    7.8 |              7.66244 |                   9.1 |                1.7 |                 46   |
+| Miami Sharks           |              20 |    8.6 |            -31.4316  |                   4.9 |                1.5 |                 42.7 |
+| Chicago Hounds         |              17 |    7.4 |             60.0623  |                   5.1 |                1.5 |                 42.3 |
+| RFC Los Angeles        |              21 |    6.4 |           -161.13    |                   3.1 |                1   |                 38.7 |
+| Anthem RC              |              20 |    0   |           -461.27    |                   2.1 |                0.3 |                  7.6 |
 
 
 
@@ -77,101 +77,21 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 55.4% | 12.3 |
-| Player Level: Lineup | 49.3% | 11.9 |
-| Player Level: Minutes | 47.9% | 11.8 |
+| Club Level | 58.4% | 12.6 |
+| Player Level: Lineup | 53.4% | 11.8 |
+| Player Level: Minutes | 52.3% | 11.7 |
 
 
 # Future Predictions
 
-## Week 15
-
-### Old Glory DC V Anthem RC on 2024/06/01
-
-
-Average Margin: Old Glory DC by 25.8
-
-Average Scoreline: 40-14
-
-<p float="left">
-<img src="plots/performances_2024-06-01-OldGloryDC_V_AnthemRC.png" width="32%" />
-<img src="plots/resultbar_2024-06-01-OldGloryDC_V_AnthemRC.png" width="32%" />
-<img src="plots/spreads_2024-06-01-OldGloryDC_V_AnthemRC.png" width="32%" />
-</p>
-
-### Utah Warriors V San Diego Legion on 2024/06/01
-
-
-Average Margin: San Diego Legion by 0.5
-
-Average Scoreline: 26-25
-
-<p float="left">
-<img src="plots/performances_2024-06-01-UtahWarriors_V_SanDiegoLegion.png" width="32%" />
-<img src="plots/resultbar_2024-06-01-UtahWarriors_V_SanDiegoLegion.png" width="32%" />
-<img src="plots/spreads_2024-06-01-UtahWarriors_V_SanDiegoLegion.png" width="32%" />
-</p>
-
-### NOLA Gold V Houston SaberCats on 2024/06/01
-
-
-Average Margin: Houston SaberCats by 2.9
-
-Average Scoreline: 29-26
-
-<p float="left">
-<img src="plots/performances_2024-06-01-NOLAGold_V_HoustonSaberCats.png" width="32%" />
-<img src="plots/resultbar_2024-06-01-NOLAGold_V_HoustonSaberCats.png" width="32%" />
-<img src="plots/spreads_2024-06-01-NOLAGold_V_HoustonSaberCats.png" width="32%" />
-</p>
-
-### New England Free Jacks V Dallas Jackals on 2024/06/02
-
-
-Average Margin: New England Free Jacks by 6.6
-
-Average Scoreline: 28-21
-
-<p float="left">
-<img src="plots/performances_2024-06-02-NewEnglandFreeJacks_V_DallasJackals.png" width="32%" />
-<img src="plots/resultbar_2024-06-02-NewEnglandFreeJacks_V_DallasJackals.png" width="32%" />
-<img src="plots/spreads_2024-06-02-NewEnglandFreeJacks_V_DallasJackals.png" width="32%" />
-</p>
-
-### RFC Los Angeles V Miami Sharks on 2024/06/02
-
-
-Average Margin: Miami Sharks by 2.5
-
-Average Scoreline: 31-29
-
-<p float="left">
-<img src="plots/performances_2024-06-02-RFCLosAngeles_V_MiamiSharks.png" width="32%" />
-<img src="plots/resultbar_2024-06-02-RFCLosAngeles_V_MiamiSharks.png" width="32%" />
-<img src="plots/spreads_2024-06-02-RFCLosAngeles_V_MiamiSharks.png" width="32%" />
-</p>
-
-## Week 16
-
-### Old Glory DC V New England Free Jacks on 2024/06/08
-
-
-Average Margin: New England Free Jacks by 3.9
-
-Average Scoreline: 38-35
-
-<p float="left">
-<img src="plots/performances_2024-06-08-OldGloryDC_V_NewEnglandFreeJacks.png" width="32%" />
-<img src="plots/resultbar_2024-06-08-OldGloryDC_V_NewEnglandFreeJacks.png" width="32%" />
-<img src="plots/spreads_2024-06-08-OldGloryDC_V_NewEnglandFreeJacks.png" width="32%" />
-</p>
+## Week 17
 
 ### Houston SaberCats V RFC Los Angeles on 2024/06/08
 
 
-Average Margin: Houston SaberCats by 18.1
+Average Margin: Houston SaberCats by 17.6
 
-Average Scoreline: 37-19
+Average Scoreline: 41-23
 
 <p float="left">
 <img src="plots/performances_2024-06-08-HoustonSaberCats_V_RFCLosAngeles.png" width="32%" />
@@ -179,12 +99,38 @@ Average Scoreline: 37-19
 <img src="plots/spreads_2024-06-08-HoustonSaberCats_V_RFCLosAngeles.png" width="32%" />
 </p>
 
+### Old Glory DC V New England Free Jacks on 2024/06/08
+
+
+Average Margin: New England Free Jacks by 2.6
+
+Average Scoreline: 29-26
+
+<p float="left">
+<img src="plots/performances_2024-06-08-OldGloryDC_V_NewEnglandFreeJacks.png" width="32%" />
+<img src="plots/resultbar_2024-06-08-OldGloryDC_V_NewEnglandFreeJacks.png" width="32%" />
+<img src="plots/spreads_2024-06-08-OldGloryDC_V_NewEnglandFreeJacks.png" width="32%" />
+</p>
+
+### San Diego Legion V Anthem RC on 2024/06/09
+
+
+Average Margin: San Diego Legion by 30.8
+
+Average Scoreline: 38-8
+
+<p float="left">
+<img src="plots/performances_2024-06-09-SanDiegoLegion_V_AnthemRC.png" width="32%" />
+<img src="plots/resultbar_2024-06-09-SanDiegoLegion_V_AnthemRC.png" width="32%" />
+<img src="plots/spreads_2024-06-09-SanDiegoLegion_V_AnthemRC.png" width="32%" />
+</p>
+
 ### Seattle Seawolves V Utah Warriors on 2024/06/09
 
 
-Average Margin: Seattle Seawolves by 6.2
+Average Margin: Seattle Seawolves by 6.4
 
-Average Scoreline: 33-27
+Average Scoreline: 29-23
 
 <p float="left">
 <img src="plots/performances_2024-06-09-SeattleSeawolves_V_UtahWarriors.png" width="32%" />
@@ -195,9 +141,9 @@ Average Scoreline: 33-27
 ### Miami Sharks V NOLA Gold on 2024/06/09
 
 
-Average Margin: Miami Sharks by 2.0
+Average Margin: Miami Sharks by 2.5
 
-Average Scoreline: 32-30
+Average Scoreline: 25-23
 
 <p float="left">
 <img src="plots/performances_2024-06-09-MiamiSharks_V_NOLAGold.png" width="32%" />
@@ -205,25 +151,12 @@ Average Scoreline: 32-30
 <img src="plots/spreads_2024-06-09-MiamiSharks_V_NOLAGold.png" width="32%" />
 </p>
 
-### San Diego Legion V Anthem RC on 2024/06/09
-
-
-Average Margin: San Diego Legion by 32.9
-
-Average Scoreline: 46-13
-
-<p float="left">
-<img src="plots/performances_2024-06-09-SanDiegoLegion_V_AnthemRC.png" width="32%" />
-<img src="plots/resultbar_2024-06-09-SanDiegoLegion_V_AnthemRC.png" width="32%" />
-<img src="plots/spreads_2024-06-09-SanDiegoLegion_V_AnthemRC.png" width="32%" />
-</p>
-
 ### Dallas Jackals V Chicago Hounds on 2024/06/09
 
 
-Average Margin: Dallas Jackals by 4.0
+Average Margin: Dallas Jackals by 4.1
 
-Average Scoreline: 26-22
+Average Scoreline: 27-23
 
 <p float="left">
 <img src="plots/performances_2024-06-09-DallasJackals_V_ChicagoHounds.png" width="32%" />
@@ -231,14 +164,14 @@ Average Scoreline: 26-22
 <img src="plots/spreads_2024-06-09-DallasJackals_V_ChicagoHounds.png" width="32%" />
 </p>
 
-## Week 17
+## Week 18
 
 ### Dallas Jackals V Old Glory DC on 2024/06/14
 
 
-Average Margin: Dallas Jackals by 7.6
+Average Margin: Dallas Jackals by 5.3
 
-Average Scoreline: 28-20
+Average Scoreline: 28-22
 
 <p float="left">
 <img src="plots/performances_2024-06-14-DallasJackals_V_OldGloryDC.png" width="32%" />
@@ -246,25 +179,12 @@ Average Scoreline: 28-20
 <img src="plots/spreads_2024-06-14-DallasJackals_V_OldGloryDC.png" width="32%" />
 </p>
 
-### Houston SaberCats V Seattle Seawolves on 2024/06/15
-
-
-Average Margin: Houston SaberCats by 5.4
-
-Average Scoreline: 32-26
-
-<p float="left">
-<img src="plots/performances_2024-06-15-HoustonSaberCats_V_SeattleSeawolves.png" width="32%" />
-<img src="plots/resultbar_2024-06-15-HoustonSaberCats_V_SeattleSeawolves.png" width="32%" />
-<img src="plots/spreads_2024-06-15-HoustonSaberCats_V_SeattleSeawolves.png" width="32%" />
-</p>
-
 ### Chicago Hounds V San Diego Legion on 2024/06/15
 
 
-Average Margin: San Diego Legion by 0.2
+Average Margin: San Diego Legion by 1.8
 
-Average Scoreline: 34-34
+Average Scoreline: 28-26
 
 <p float="left">
 <img src="plots/performances_2024-06-15-ChicagoHounds_V_SanDiegoLegion.png" width="32%" />
@@ -272,12 +192,25 @@ Average Scoreline: 34-34
 <img src="plots/spreads_2024-06-15-ChicagoHounds_V_SanDiegoLegion.png" width="32%" />
 </p>
 
+### Houston SaberCats V Seattle Seawolves on 2024/06/15
+
+
+Average Margin: Houston SaberCats by 7.5
+
+Average Scoreline: 26-19
+
+<p float="left">
+<img src="plots/performances_2024-06-15-HoustonSaberCats_V_SeattleSeawolves.png" width="32%" />
+<img src="plots/resultbar_2024-06-15-HoustonSaberCats_V_SeattleSeawolves.png" width="32%" />
+<img src="plots/spreads_2024-06-15-HoustonSaberCats_V_SeattleSeawolves.png" width="32%" />
+</p>
+
 ### Anthem RC V Miami Sharks on 2024/06/16
 
 
-Average Margin: Miami Sharks by 19.2
+Average Margin: Miami Sharks by 17.2
 
-Average Scoreline: 40-21
+Average Scoreline: 38-21
 
 <p float="left">
 <img src="plots/performances_2024-06-16-AnthemRC_V_MiamiSharks.png" width="32%" />
@@ -285,25 +218,12 @@ Average Scoreline: 40-21
 <img src="plots/spreads_2024-06-16-AnthemRC_V_MiamiSharks.png" width="32%" />
 </p>
 
-### RFC Los Angeles V NOLA Gold on 2024/06/16
-
-
-Average Margin: NOLA Gold by 4.7
-
-Average Scoreline: 31-26
-
-<p float="left">
-<img src="plots/performances_2024-06-16-RFCLosAngeles_V_NOLAGold.png" width="32%" />
-<img src="plots/resultbar_2024-06-16-RFCLosAngeles_V_NOLAGold.png" width="32%" />
-<img src="plots/spreads_2024-06-16-RFCLosAngeles_V_NOLAGold.png" width="32%" />
-</p>
-
 ### New England Free Jacks V Utah Warriors on 2024/06/16
 
 
-Average Margin: New England Free Jacks by 7.1
+Average Margin: New England Free Jacks by 8.3
 
-Average Scoreline: 29-22
+Average Scoreline: 27-19
 
 <p float="left">
 <img src="plots/performances_2024-06-16-NewEnglandFreeJacks_V_UtahWarriors.png" width="32%" />
@@ -311,40 +231,27 @@ Average Scoreline: 29-22
 <img src="plots/spreads_2024-06-16-NewEnglandFreeJacks_V_UtahWarriors.png" width="32%" />
 </p>
 
-## Week 18
-
-### NOLA Gold V New England Free Jacks on 2024/06/22
+### RFC Los Angeles V NOLA Gold on 2024/06/16
 
 
-Average Margin: New England Free Jacks by 2.2
+Average Margin: NOLA Gold by 2.4
 
-Average Scoreline: 29-26
+Average Scoreline: 20-18
 
 <p float="left">
-<img src="plots/performances_2024-06-22-NOLAGold_V_NewEnglandFreeJacks.png" width="32%" />
-<img src="plots/resultbar_2024-06-22-NOLAGold_V_NewEnglandFreeJacks.png" width="32%" />
-<img src="plots/spreads_2024-06-22-NOLAGold_V_NewEnglandFreeJacks.png" width="32%" />
+<img src="plots/performances_2024-06-16-RFCLosAngeles_V_NOLAGold.png" width="32%" />
+<img src="plots/resultbar_2024-06-16-RFCLosAngeles_V_NOLAGold.png" width="32%" />
+<img src="plots/spreads_2024-06-16-RFCLosAngeles_V_NOLAGold.png" width="32%" />
 </p>
 
-### Seattle Seawolves V RFC Los Angeles on 2024/06/22
-
-
-Average Margin: Seattle Seawolves by 15.4
-
-Average Scoreline: 35-19
-
-<p float="left">
-<img src="plots/performances_2024-06-22-SeattleSeawolves_V_RFCLosAngeles.png" width="32%" />
-<img src="plots/resultbar_2024-06-22-SeattleSeawolves_V_RFCLosAngeles.png" width="32%" />
-<img src="plots/spreads_2024-06-22-SeattleSeawolves_V_RFCLosAngeles.png" width="32%" />
-</p>
+## Week 19
 
 ### Anthem RC V Chicago Hounds on 2024/06/22
 
 
-Average Margin: Chicago Hounds by 22.6
+Average Margin: Chicago Hounds by 19.4
 
-Average Scoreline: 42-19
+Average Scoreline: 44-24
 
 <p float="left">
 <img src="plots/performances_2024-06-22-AnthemRC_V_ChicagoHounds.png" width="32%" />
@@ -355,9 +262,9 @@ Average Scoreline: 42-19
 ### Miami Sharks V Old Glory DC on 2024/06/22
 
 
-Average Margin: Miami Sharks by 3.3
+Average Margin: Miami Sharks by 2.4
 
-Average Scoreline: 28-24
+Average Scoreline: 26-24
 
 <p float="left">
 <img src="plots/performances_2024-06-22-MiamiSharks_V_OldGloryDC.png" width="32%" />
@@ -365,12 +272,25 @@ Average Scoreline: 28-24
 <img src="plots/spreads_2024-06-22-MiamiSharks_V_OldGloryDC.png" width="32%" />
 </p>
 
+### Seattle Seawolves V RFC Los Angeles on 2024/06/22
+
+
+Average Margin: Seattle Seawolves by 13.2
+
+Average Scoreline: 38-24
+
+<p float="left">
+<img src="plots/performances_2024-06-22-SeattleSeawolves_V_RFCLosAngeles.png" width="32%" />
+<img src="plots/resultbar_2024-06-22-SeattleSeawolves_V_RFCLosAngeles.png" width="32%" />
+<img src="plots/spreads_2024-06-22-SeattleSeawolves_V_RFCLosAngeles.png" width="32%" />
+</p>
+
 ### Utah Warriors V Dallas Jackals on 2024/06/22
 
 
-Average Margin: Utah Warriors by 2.7
+Average Margin: Utah Warriors by 2.3
 
-Average Scoreline: 25-22
+Average Scoreline: 27-24
 
 <p float="left">
 <img src="plots/performances_2024-06-22-UtahWarriors_V_DallasJackals.png" width="32%" />
@@ -378,12 +298,25 @@ Average Scoreline: 25-22
 <img src="plots/spreads_2024-06-22-UtahWarriors_V_DallasJackals.png" width="32%" />
 </p>
 
+### NOLA Gold V New England Free Jacks on 2024/06/22
+
+
+Average Margin: New England Free Jacks by 2.5
+
+Average Scoreline: 27-24
+
+<p float="left">
+<img src="plots/performances_2024-06-22-NOLAGold_V_NewEnglandFreeJacks.png" width="32%" />
+<img src="plots/resultbar_2024-06-22-NOLAGold_V_NewEnglandFreeJacks.png" width="32%" />
+<img src="plots/spreads_2024-06-22-NOLAGold_V_NewEnglandFreeJacks.png" width="32%" />
+</p>
+
 ### San Diego Legion V Houston SaberCats on 2024/06/23
 
 
-Average Margin: San Diego Legion by 2.4
+Average Margin: San Diego Legion by 1.8
 
-Average Scoreline: 32-30
+Average Scoreline: 29-28
 
 <p float="left">
 <img src="plots/performances_2024-06-23-SanDiegoLegion_V_HoustonSaberCats.png" width="32%" />
@@ -391,14 +324,14 @@ Average Scoreline: 32-30
 <img src="plots/spreads_2024-06-23-SanDiegoLegion_V_HoustonSaberCats.png" width="32%" />
 </p>
 
-## Week 19
+## Week 20
 
 ### Utah Warriors V RFC Los Angeles on 2024/06/28
 
 
-Average Margin: Utah Warriors by 13.0
+Average Margin: Utah Warriors by 10.6
 
-Average Scoreline: 34-21
+Average Scoreline: 35-24
 
 <p float="left">
 <img src="plots/performances_2024-06-28-UtahWarriors_V_RFCLosAngeles.png" width="32%" />
@@ -409,9 +342,9 @@ Average Scoreline: 34-21
 ### San Diego Legion V Seattle Seawolves on 2024/06/29
 
 
-Average Margin: San Diego Legion by 4.6
+Average Margin: San Diego Legion by 6.1
 
-Average Scoreline: 32-27
+Average Scoreline: 32-26
 
 <p float="left">
 <img src="plots/performances_2024-06-29-SanDiegoLegion_V_SeattleSeawolves.png" width="32%" />
@@ -422,9 +355,9 @@ Average Scoreline: 32-27
 ### Old Glory DC V NOLA Gold on 2024/06/29
 
 
-Average Margin: Old Glory DC by 1.8
+Average Margin: Old Glory DC by 3.6
 
-Average Scoreline: 26-24
+Average Scoreline: 28-24
 
 <p float="left">
 <img src="plots/performances_2024-06-29-OldGloryDC_V_NOLAGold.png" width="32%" />
@@ -432,38 +365,12 @@ Average Scoreline: 26-24
 <img src="plots/spreads_2024-06-29-OldGloryDC_V_NOLAGold.png" width="32%" />
 </p>
 
-### New England Free Jacks V Anthem RC on 2024/06/29
-
-
-Average Margin: New England Free Jacks by 32.9
-
-Average Scoreline: 48-16
-
-<p float="left">
-<img src="plots/performances_2024-06-29-NewEnglandFreeJacks_V_AnthemRC.png" width="32%" />
-<img src="plots/resultbar_2024-06-29-NewEnglandFreeJacks_V_AnthemRC.png" width="32%" />
-<img src="plots/spreads_2024-06-29-NewEnglandFreeJacks_V_AnthemRC.png" width="32%" />
-</p>
-
-### Houston SaberCats V Dallas Jackals on 2024/06/29
-
-
-Average Margin: Houston SaberCats by 7.3
-
-Average Scoreline: 32-24
-
-<p float="left">
-<img src="plots/performances_2024-06-29-HoustonSaberCats_V_DallasJackals.png" width="32%" />
-<img src="plots/resultbar_2024-06-29-HoustonSaberCats_V_DallasJackals.png" width="32%" />
-<img src="plots/spreads_2024-06-29-HoustonSaberCats_V_DallasJackals.png" width="32%" />
-</p>
-
 ### Chicago Hounds V Miami Sharks on 2024/06/29
 
 
-Average Margin: Chicago Hounds by 7.0
+Average Margin: Chicago Hounds by 5.5
 
-Average Scoreline: 27-20
+Average Scoreline: 29-24
 
 <p float="left">
 <img src="plots/performances_2024-06-29-ChicagoHounds_V_MiamiSharks.png" width="32%" />
@@ -471,12 +378,38 @@ Average Scoreline: 27-20
 <img src="plots/spreads_2024-06-29-ChicagoHounds_V_MiamiSharks.png" width="32%" />
 </p>
 
+### Houston SaberCats V Dallas Jackals on 2024/06/29
+
+
+Average Margin: Houston SaberCats by 9.4
+
+Average Scoreline: 27-17
+
+<p float="left">
+<img src="plots/performances_2024-06-29-HoustonSaberCats_V_DallasJackals.png" width="32%" />
+<img src="plots/resultbar_2024-06-29-HoustonSaberCats_V_DallasJackals.png" width="32%" />
+<img src="plots/spreads_2024-06-29-HoustonSaberCats_V_DallasJackals.png" width="32%" />
+</p>
+
+### New England Free Jacks V Anthem RC on 2024/06/29
+
+
+Average Margin: New England Free Jacks by 30.8
+
+Average Scoreline: 35-4
+
+<p float="left">
+<img src="plots/performances_2024-06-29-NewEnglandFreeJacks_V_AnthemRC.png" width="32%" />
+<img src="plots/resultbar_2024-06-29-NewEnglandFreeJacks_V_AnthemRC.png" width="32%" />
+<img src="plots/spreads_2024-06-29-NewEnglandFreeJacks_V_AnthemRC.png" width="32%" />
+</p>
+
 ### Utah Warriors V RFC Los Angeles on 2024/06/30
 
 
-Average Margin: Utah Warriors by 12.7
+Average Margin: Utah Warriors by 10.4
 
-Average Scoreline: 34-21
+Average Scoreline: 35-24
 
 <p float="left">
 <img src="plots/performances_2024-06-30-UtahWarriors_V_RFCLosAngeles.png" width="32%" />

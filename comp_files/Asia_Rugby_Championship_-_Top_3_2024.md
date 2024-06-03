@@ -1,6 +1,6 @@
 ---  
 title: "Asia Rugby Championship - Top 3 2024 Status"  
-date: 2024-05-30 6:00:00 -0500  
+date: 2024-06-03 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -15,10 +15,10 @@ aside:
 ## Projected Total Table
 
 
-| Club     |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
-|:---------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Korea    |               1 |    0.8 |              11.7356 |                   0.1 |                0.4 |                  3.7 |
-| Malaysia |               1 |    0.2 |             -11.7356 |                   0.2 |                0.2 |                  1.2 |
+| Club                 |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
+|:---------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
+| Korea                |               1 |    0.5 |            0.0116286 |                   0.2 |                0.4 |                  2.6 |
+| United Arab Emirates |               1 |    0.5 |           -0.0116286 |                   0.2 |                0.3 |                  2.4 |
 
 
 
@@ -26,15 +26,15 @@ aside:
 
 ## Week 1
 
-### Korea V Malaysia on 2024/06/01
+### United Arab Emirates V Korea on 2024/06/08
 
 
-Average Margin: Korea by 11.7
+Average Margin: Korea by 0.0
 
-Average Scoreline: 28-16
+Average Scoreline: 27-27
 
 <p float="left">
-<img src="plots/performances_2024-06-01-Korea_V_Malaysia.png" width="32%" />
-<img src="plots/resultbar_2024-06-01-Korea_V_Malaysia.png" width="32%" />
-<img src="plots/spreads_2024-06-01-Korea_V_Malaysia.png" width="32%" />
+<img src="plots/performances_2024-06-08-UnitedArabEmirates_V_Korea.png" width="32%" />
+<img src="plots/resultbar_2024-06-08-UnitedArabEmirates_V_Korea.png" width="32%" />
+<img src="plots/spreads_2024-06-08-UnitedArabEmirates_V_Korea.png" width="32%" />
 </p>
