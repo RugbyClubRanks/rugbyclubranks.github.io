@@ -1,6 +1,6 @@
 ---  
 title: "Super Rugby Americas 2024 Status"  
-date: 2024-06-03 6:00:00 -0500  
+date: 2024-06-10 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -30,12 +30,10 @@ aside:
 ## Projected Remaining Table
 
 
-| Club          |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
-|:--------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Pampas XV     |                   1 |    1   |             16.3975  |                   0   |                0.6 |                  4.6 |
-| Dogos XV      |                   1 |    0.9 |              9.62099 |                   0.1 |                0.5 |                  4.3 |
-| Yacare XV     |                   1 |    0.1 |             -9.62099 |                   0.3 |                0.3 |                  0.9 |
-| Penarol Rugby |                   1 |    0   |            -16.3975  |                   0.1 |                0.1 |                  0.2 |
+| Club      |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
+|:----------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
+| Pampas XV |                   1 |      1 |              14.3317 |                   0   |                0.6 |                  4.6 |
+| Dogos XV  |                   1 |      0 |             -14.3317 |                   0.1 |                0.1 |                  0.3 |
 
 
 
@@ -44,13 +42,13 @@ aside:
 
 | Club             |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Dogos XV         |               4 |    3.9 |             128.621  |                   0.1 |                3.5 |                 19.3 |
-| Pampas XV        |               4 |    4   |              75.3975 |                   0   |                2.6 |                 18.6 |
-| Cobras           |               3 |    2   |             -14      |                   0   |                0   |                  8   |
-| Selknam          |               1 |    1   |              24      |                   0   |                1   |                  5   |
-| American Raptors |               4 |    1   |            -128      |                   0   |                1   |                  5   |
-| Yacare XV        |               5 |    0.1 |             -61.621  |                   1.3 |                2.3 |                  3.9 |
-| Penarol Rugby    |               3 |    0   |             -24.3975 |                   2.1 |                0.1 |                  2.2 |
+| Pampas XV        |               4 |      4 |              73.3317 |                   0   |                2.6 |                 18.6 |
+| Dogos XV         |               4 |      3 |             104.668  |                   0.1 |                3.1 |                 15.3 |
+| Cobras           |               3 |      2 |             -14      |                   0   |                0   |                  8   |
+| Selknam          |               1 |      1 |              24      |                   0   |                1   |                  5   |
+| American Raptors |               4 |      1 |            -128      |                   0   |                1   |                  5   |
+| Yacare XV        |               4 |      0 |             -52      |                   1   |                2   |                  3   |
+| Penarol Rugby    |               2 |      0 |              -8      |                   2   |                0   |                  2   |
 
 
 
@@ -68,28 +66,15 @@ aside:
 
 ## Week 5
 
-### Pampas XV V Penarol Rugby on 2024/06/08
+### Pampas XV V Dogos XV on 2024/06/15
 
 
-Average Margin: Pampas XV by 16.4
+Average Margin: Pampas XV by 14.3
 
-Average Scoreline: 34-18
-
-<p float="left">
-<img src="plots/performances_2024-06-08-PampasXV_V_PenarolRugby.png" width="32%" />
-<img src="plots/resultbar_2024-06-08-PampasXV_V_PenarolRugby.png" width="32%" />
-<img src="plots/spreads_2024-06-08-PampasXV_V_PenarolRugby.png" width="32%" />
-</p>
-
-### Dogos XV V Yacare XV on 2024/06/08
-
-
-Average Margin: Dogos XV by 9.6
-
-Average Scoreline: 30-20
+Average Scoreline: 32-17
 
 <p float="left">
-<img src="plots/performances_2024-06-08-DogosXV_V_YacareXV.png" width="32%" />
-<img src="plots/resultbar_2024-06-08-DogosXV_V_YacareXV.png" width="32%" />
-<img src="plots/spreads_2024-06-08-DogosXV_V_YacareXV.png" width="32%" />
+<img src="plots/performances_2024-06-15-PampasXV_V_DogosXV.png" width="32%" />
+<img src="plots/resultbar_2024-06-15-PampasXV_V_DogosXV.png" width="32%" />
+<img src="plots/spreads_2024-06-15-PampasXV_V_DogosXV.png" width="32%" />
 </p>

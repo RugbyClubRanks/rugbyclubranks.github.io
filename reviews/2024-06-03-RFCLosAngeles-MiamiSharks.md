@@ -11,7 +11,7 @@ categories: "Major League Rugby 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.474, which translates to predicting Miami Sharks to win by 0.9.
 
-Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 26 to 25
+Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 25 to 24
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,19 +69,19 @@ Miami Sharks by 7.3 on a neutral pitch
 
 |   Away Minutes | Away Player             |   Away Percentile |   Number |   Home Percentile | Home Player     |   Home Minutes |
 |---------------:|:------------------------|------------------:|---------:|------------------:|:----------------|---------------:|
-|             80 | Rob Evans               |             91.5  |        1 |             63.16 | Dane Zander     |             80 |
-|             80 | Kirby Myhill            |             12.22 |        2 |             68.49 | Ben Strang      |             80 |
-|             80 | Tau Koloamatangi        |             72.06 |        3 |              6.23 | Alex Maughan    |             80 |
-|             80 | Rick Rose               |             29.1  |        4 |             10    | Jason Damm      |             80 |
-|             80 | Stan van den Hoven      |              0.9  |        5 |             93.5  | Reegan O'Gorman |             80 |
-|             80 | Tomas Casares           |             13.78 |        6 |             66.09 | Michael Amiras  |             80 |
-|             80 | Roelof Smit             |             10.4  |        7 |              1.93 | Matt Heaton     |             80 |
-|             80 | Benjam�n Bonasso        |             81.4  |        8 |             96.28 | Semi Kunatani   |             80 |
-|             80 | Tomas Cubelli           |             15.64 |        9 |             74.23 | Niall Saunders  |             80 |
-|             80 | Felipe Etcheverry       |             64.23 |       10 |             54.07 | Tas Smith       |             80 |
-|             80 | Marcos Young            |             52.13 |       11 |             18.48 | Jack Shaw       |             80 |
-|             80 | Nick Grigg              |              7.96 |       12 |             15.2  | Jason Emery     |             80 |
-|             80 | Tomas Inciarte Rachetti |             85.73 |       13 |             62.98 | Will Leonard    |             80 |
-|             80 | Michael Hand            |             36.49 |       14 |             87.01 | Andrew Coe      |             80 |
-|             80 | Matias Freyre           |             60.54 |       15 |             69.52 | James Stokes    |             80 |
+|             80 | Rob Evans               |             91.47 |        1 |             61.66 | Dane Zander     |             80 |
+|             80 | Kirby Myhill            |             12.04 |        2 |             65.97 | Ben Strang      |             80 |
+|             80 | Tau Koloamatangi        |             70.19 |        3 |              5.44 | Alex Maughan    |             80 |
+|             80 | Rick Rose               |             29.22 |        4 |              9.34 | Jason Damm      |             80 |
+|             80 | Stan van den Hoven      |              0.89 |        5 |             93.14 | Reegan O'Gorman |             80 |
+|             80 | Tomas Casares           |             13.73 |        6 |             66.15 | Michael Amiras  |             80 |
+|             80 | Roelof Smit             |             10.44 |        7 |              1.84 | Matt Heaton     |             80 |
+|             80 | Benjam�n Bonasso        |             81.67 |        8 |             96.04 | Semi Kunatani   |             80 |
+|             80 | Tomas Cubelli           |             13.36 |        9 |             73.63 | Niall Saunders  |             80 |
+|             80 | Felipe Etcheverry       |             63.8  |       10 |             54.45 | Tas Smith       |             80 |
+|             80 | Marcos Young            |             52.49 |       11 |             17.15 | Jack Shaw       |             80 |
+|             80 | Nick Grigg              |              7.71 |       12 |             13.7  | Jason Emery     |             80 |
+|             80 | Tomas Inciarte Rachetti |             85.83 |       13 |             61.67 | Will Leonard    |             80 |
+|             80 | Michael Hand            |             36.78 |       14 |             86.3  | Andrew Coe      |             80 |
+|             80 | Matias Freyre           |             60.25 |       15 |             69.36 | James Stokes    |             80 |
 

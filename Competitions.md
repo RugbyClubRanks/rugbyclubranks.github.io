@@ -8,7 +8,7 @@ key: page-recents
 ## International Test Match
 
 
-[2024](comp_files\International_Test_Match_2024) - Prediction Accuracy: 75.0% 
+[2024](comp_files\International_Test_Match_2024) - Prediction Accuracy: 67.9% 
 
 [2023](comp_files\International_Test_Match_2023) - Prediction Accuracy: 77.8% 
 
@@ -94,7 +94,7 @@ key: page-recents
 ## Major League Rugby
 
 
-[2024](comp_files\Major_League_Rugby_2024) - Prediction Accuracy: 55.4% 
+[2024](comp_files\Major_League_Rugby_2024) - Prediction Accuracy: 59.6% 
 
 [2023](comp_files\Major_League_Rugby_2023) - Prediction Accuracy: 71.3% 
 
@@ -106,7 +106,7 @@ key: page-recents
 ## Super Rugby Pacific
 
 
-[2024](comp_files\Super_Rugby_Pacific_2024) - Prediction Accuracy: 73.7% 
+[2024](comp_files\Super_Rugby_Pacific_2024) - Prediction Accuracy: 74.4% 
 
 [2023](comp_files\Super_Rugby_Pacific_2023) - Prediction Accuracy: 79.1% 
 
@@ -118,7 +118,7 @@ key: page-recents
 ## United Rugby Championship
 
 
-[2023](comp_files\United_Rugby_Championship_2023) - Prediction Accuracy: 74.3% 
+[2023](comp_files\United_Rugby_Championship_2023) - Prediction Accuracy: 77.0% 
 
 [2022](comp_files\United_Rugby_Championship_2022) - Prediction Accuracy: 70.7% 
 
@@ -138,7 +138,7 @@ key: page-recents
 ## Gallagher Premiership
 
 
-[2023](comp_files\Gallagher_Premiership_2023) - Prediction Accuracy: 63.3% 
+[2023](comp_files\Gallagher_Premiership_2023) - Prediction Accuracy: 64.0% 
 
 [2022](comp_files\Gallagher_Premiership_2022) - Prediction Accuracy: 69.9% 
 
@@ -148,7 +148,7 @@ key: page-recents
 ## Top 14 Orange
 
 
-[2023](comp_files\Top_14_Orange_2023) - Prediction Accuracy: 70.2% 
+[2023](comp_files\Top_14_Orange_2023) - Prediction Accuracy: 70.3% 
 
 [2022](comp_files\Top_14_Orange_2022) - Prediction Accuracy: 68.0% 
 
@@ -232,7 +232,7 @@ key: page-recents
 ## Allianz Premier 15s
 
 
-[2023](comp_files\Allianz_Premier_15s_2023) - Prediction Accuracy: 83.6% 
+[2023](comp_files\Allianz_Premier_15s_2023) - Prediction Accuracy: 81.7% 
 # Domestic Competitions
 
 ## Bunnings Warehouse NPC
@@ -268,7 +268,7 @@ key: page-recents
 ## Pro D2
 
 
-[2023](comp_files\Pro_D2_2023) - Prediction Accuracy: 74.8% 
+[2023](comp_files\Pro_D2_2023) - Prediction Accuracy: 74.3% 
 
 [2022](comp_files\Pro_D2_2022) - Prediction Accuracy: 67.8% 
 
@@ -316,4 +316,4 @@ key: page-recents
 ## URBA Top 12
 
 
-[2024](comp_files\URBA_Top_12_2024) - Prediction Accuracy: 63.9% 
+[2024](comp_files\URBA_Top_12_2024) - Prediction Accuracy: 60.4% 
