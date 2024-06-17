@@ -1,6 +1,6 @@
 ---  
 title: "Super Rugby Pacific 2024 Status"  
-date: 2024-06-10 6:00:00 -0500  
+date: 2024-06-17 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,10 +17,10 @@ aside:
 
 | Club                     |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Hurricanes               |       15 |     13 |                  226 |                     1 |                  8 |                   61 |
-| Brumbies                 |       16 |     14 |                  122 |                     0 |                nan |                   61 |
-| Blues                    |       15 |     13 |                  286 |                     1 |                  7 |                   60 |
-| Chiefs                   |       15 |     10 |                  197 |                     2 |                  6 |                   48 |
+| Blues                    |       16 |     14 |                  300 |                     1 |                  8 |                   65 |
+| Hurricanes               |       16 |     13 |                  215 |                     1 |                  8 |                   61 |
+| Brumbies                 |       17 |     14 |                  108 |                     0 |                nan |                   61 |
+| Chiefs                   |       16 |     11 |                  208 |                     2 |                  6 |                   52 |
 | Queensland Reds          |       15 |      8 |                   82 |                     4 |                  4 |                   40 |
 | Highlanders              |       15 |      6 |                 -113 |                     2 |                  2 |                   28 |
 | Fijian Drua              |       15 |      6 |                 -133 |                     1 |                  1 |                   26 |
@@ -35,12 +35,10 @@ aside:
 ## Projected Remaining Table
 
 
-| Club       |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
-|:-----------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Blues      |                   1 |    1   |              9.67497 |                   0   |                0.4 |                  4.3 |
-| Hurricanes |                   1 |    0.8 |              4.92978 |                   0.2 |                0.1 |                  3.6 |
-| Chiefs     |                   1 |    0.2 |             -4.92978 |                   0.5 |                0   |                  1.2 |
-| Brumbies   |                   1 |    0   |             -9.67497 |                   0.3 |                0   |                  0.4 |
+| Club   |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
+|:-------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
+| Chiefs |                   1 |    0.6 |              1.50083 |                   0.3 |                0   |                  2.8 |
+| Blues  |                   1 |    0.4 |             -1.50083 |                   0.5 |                0.2 |                  2.2 |
 
 
 
@@ -49,10 +47,10 @@ aside:
 
 | Club                     |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Hurricanes               |              16 |   13.8 |              230.93  |                   1.2 |                8.1 |                 64.6 |
-| Blues                    |              16 |   14   |              295.675 |                   1   |                7.4 |                 64.3 |
-| Brumbies                 |              17 |   14   |              112.325 |                   0.3 |                0   |                 61.4 |
-| Chiefs                   |              16 |   10.2 |              192.07  |                   2.5 |                6   |                 49.2 |
+| Blues                    |              17 |   14.4 |              298.499 |                   1.5 |                8.2 |                 67.2 |
+| Hurricanes               |              16 |   13   |              215     |                   1   |                8   |                 61   |
+| Brumbies                 |              17 |   14   |              108     |                   0   |                0   |                 61   |
+| Chiefs                   |              17 |   11.6 |              209.501 |                   2.3 |                6   |                 54.8 |
 | Queensland Reds          |              15 |    8   |               82     |                   4   |                4   |                 40   |
 | Highlanders              |              15 |    6   |             -113     |                   2   |                2   |                 28   |
 | Fijian Drua              |              15 |    6   |             -133     |                   1   |                1   |                 26   |
@@ -69,37 +67,24 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 74.4% | 13.1 |
-| Player Level: Lineup | 77.8% | 13.3 |
-| Player Level: Minutes | 78.9% | 13.4 |
+| Club Level | 73.9% | 13.0 |
+| Player Level: Lineup | 77.2% | 13.2 |
+| Player Level: Minutes | 78.3% | 13.4 |
 
 
 # Future Predictions
 
-## Week 17
+## Week 18
 
-### Blues V Brumbies on 2024/06/14
-
-
-Average Margin: Blues by 9.7
-
-Average Scoreline: 33-23
-
-<p float="left">
-<img src="plots/performances_2024-06-14-Blues_V_Brumbies.png" width="32%" />
-<img src="plots/resultbar_2024-06-14-Blues_V_Brumbies.png" width="32%" />
-<img src="plots/spreads_2024-06-14-Blues_V_Brumbies.png" width="32%" />
-</p>
-
-### Hurricanes V Chiefs on 2024/06/15
+### Chiefs V Blues on 2024/06/21
 
 
-Average Margin: Hurricanes by 4.9
+Average Margin: Chiefs by 1.5
 
-Average Scoreline: 28-23
+Average Scoreline: 30-29
 
 <p float="left">
-<img src="plots/performances_2024-06-15-Hurricanes_V_Chiefs.png" width="32%" />
-<img src="plots/resultbar_2024-06-15-Hurricanes_V_Chiefs.png" width="32%" />
-<img src="plots/spreads_2024-06-15-Hurricanes_V_Chiefs.png" width="32%" />
+<img src="plots/performances_2024-06-21-Chiefs_V_Blues.png" width="32%" />
+<img src="plots/resultbar_2024-06-21-Chiefs_V_Blues.png" width="32%" />
+<img src="plots/spreads_2024-06-21-Chiefs_V_Blues.png" width="32%" />
 </p>

@@ -54,7 +54,7 @@ key: page-recents
 ## Asia Rugby Championship - Top 3
 
 
-[2024](comp_files\Asia_Rugby_Championship_-_Top_3_2024)
+[2024](comp_files\Asia_Rugby_Championship_-_Top_3_2024) - Prediction Accuracy: 100.0% 
 
 [2022](comp_files\Asia_Rugby_Championship_-_Top_3_2022) - Prediction Accuracy: 100.0% 
 ## Autumn Nations Series
@@ -106,7 +106,7 @@ key: page-recents
 ## Super Rugby Pacific
 
 
-[2024](comp_files\Super_Rugby_Pacific_2024) - Prediction Accuracy: 74.4% 
+[2024](comp_files\Super_Rugby_Pacific_2024) - Prediction Accuracy: 74.7% 
 
 [2023](comp_files\Super_Rugby_Pacific_2023) - Prediction Accuracy: 79.1% 
 
@@ -118,7 +118,7 @@ key: page-recents
 ## United Rugby Championship
 
 
-[2023](comp_files\United_Rugby_Championship_2023) - Prediction Accuracy: 77.0% 
+[2023](comp_files\United_Rugby_Championship_2023) - Prediction Accuracy: 75.7% 
 
 [2022](comp_files\United_Rugby_Championship_2022) - Prediction Accuracy: 70.7% 
 
