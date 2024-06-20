@@ -1,15 +1,11 @@
 ---  
 title: "Top 14 Orange 2023 Status"  
-date: 2024-06-17 6:00:00 -0500  
+date: 2024-06-20 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
     toc: true  
 ---
-# Current Team Rankings
-
-
-![Club Rankings](plots/rankings_Top-14-Orange-2023.png)
 # Standings
 
 ## Current Standings
@@ -35,38 +31,15 @@ aside:
 
 
 
-## Projected Remaining Table
+## Projected Playoff Results
 
 
-| Club                 |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
-|:---------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Stade Toulousain     |                   1 |    1   |            5.12262   |                   0   |                0.1 |                  4   |
-| Bordeaux Begles      |                   1 |    0.5 |            0.0390837 |                   0.5 |                0.2 |                  2.6 |
-| Stade Francais Paris |                   1 |    0.5 |           -0.0390837 |                   0.5 |                0   |                  2.5 |
-| La Rochelle          |                   1 |    0   |           -5.12262   |                   0.5 |                0.1 |                  0.7 |
-
-
-
-## Projected Total Table
-
-
-| Club                 |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
-|:---------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Stade Toulousain     |              27 |   17   |             178.123  |                   3   |                7.1 |                 80   |
-| Stade Francais Paris |              27 |   17.5 |              27.9609 |                   1.5 |                4   |                 77.5 |
-| Bordeaux Begles      |              28 |   16.5 |             133.039  |                   4.5 |                5.2 |                 75.6 |
-| La Rochelle          |              28 |   14   |              98.8774 |                   7.5 |                6.1 |                 71.7 |
-| Toulon               |              27 |   15   |             180      |                   5   |                5   |                 70   |
-| Racing 92            |              27 |   13   |              62      |                   5   |                5   |                 62   |
-| Castres Olympique    |              26 |   13   |               1      |                   6   |                4   |                 62   |
-| Clermont Auvergne    |              26 |   13   |             -50      |                   3   |                6   |                 61   |
-| Pau                  |              26 |   13   |              21      |                   5   |                3   |                 60   |
-| Perpignan            |              26 |   13   |             -67      |                   1   |                5   |                 58   |
-| Lyon                 |              26 |   12   |            -124      |                   2   |                5   |                 55   |
-| Bayonne              |              26 |   11   |             -97      |                   6   |                2   |                 52   |
-| Montpellier Herault  |              27 |   10   |            -111      |                   7   |                0   |                 48   |
-| Oyonnax              |              26 |    7   |            -251      |                   4   |                0   |                 34   |
-| Grenoble             |               1 |    0   |              -2      |                   1   |                0   |                  1   |
+|                      | semifinal qualifiers   | final qualifiers   |
+|:---------------------|:-----------------------|:-------------------|
+| Stade Toulousain     | 100.0 %                | 98.0 %             |
+| Stade Francais Paris | 100.0 %                | 52.3 %             |
+| Bordeaux Begles      | 100.0 %                | 47.7 %             |
+| La Rochelle          | 100.0 %                | 2.0 %              |
 
 
 
@@ -76,18 +49,18 @@ aside:
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
 | Club Level | 70.3% | 11.5 |
-| Player Level: Lineup | 75.3% | 12.0 |
+| Player Level: Lineup | 74.9% | 12.0 |
 | Player Level: Minutes | 74.2% | 11.7 |
 
 
 # Future Predictions
 
-## Week 28
+## semifinal
 
 ### Stade Toulousain V La Rochelle on 2024/06/21
 
 
-Average Margin: Stade Toulousain by 5.1
+Average Margin: Stade Toulousain by 5.3
 
 Average Scoreline: 31-26
 
@@ -100,7 +73,7 @@ Average Scoreline: 31-26
 ### Stade Francais Paris V Bordeaux Begles on 2024/06/22
 
 
-Average Margin: Bordeaux Begles by 0.0
+Average Margin: Stade Francais Paris by 0.3
 
 Average Scoreline: 26-26
 
@@ -109,5 +82,3 @@ Average Scoreline: 26-26
 <img src="plots/resultbar_2024-06-22-StadeFrancaisParis_V_BordeauxBegles.png" width="32%" />
 <img src="plots/spreads_2024-06-22-StadeFrancaisParis_V_BordeauxBegles.png" width="32%" />
 </p>
-
-## Week 29

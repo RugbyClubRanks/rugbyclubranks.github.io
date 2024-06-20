@@ -8,7 +8,7 @@ key: page-recents
 ## International Test Match
 
 
-[2024](comp_files\International_Test_Match_2024) - Prediction Accuracy: 67.9% 
+[2024](comp_files\International_Test_Match_2024) - Prediction Accuracy: 67.7% 
 
 [2023](comp_files\International_Test_Match_2023) - Prediction Accuracy: 77.8% 
 
@@ -94,7 +94,7 @@ key: page-recents
 ## Major League Rugby
 
 
-[2024](comp_files\Major_League_Rugby_2024) - Prediction Accuracy: 59.6% 
+[2024](comp_files\Major_League_Rugby_2024) - Prediction Accuracy: 60.6% 
 
 [2023](comp_files\Major_League_Rugby_2023) - Prediction Accuracy: 71.3% 
 
@@ -106,7 +106,7 @@ key: page-recents
 ## Super Rugby Pacific
 
 
-[2024](comp_files\Super_Rugby_Pacific_2024) - Prediction Accuracy: 74.7% 
+[2024](comp_files\Super_Rugby_Pacific_2024) - Prediction Accuracy: 73.9% 
 
 [2023](comp_files\Super_Rugby_Pacific_2023) - Prediction Accuracy: 79.1% 
 
@@ -118,7 +118,7 @@ key: page-recents
 ## United Rugby Championship
 
 
-[2023](comp_files\United_Rugby_Championship_2023) - Prediction Accuracy: 75.7% 
+[2023](comp_files\United_Rugby_Championship_2023) - Prediction Accuracy: 76.0% 
 
 [2022](comp_files\United_Rugby_Championship_2022) - Prediction Accuracy: 70.7% 
 
@@ -221,6 +221,10 @@ key: page-recents
 
 
 [2023](comp_files\Premiership_Rugby_Cup_2023) - Prediction Accuracy: 75.5% 
+## Super Rugby
+
+
+[2024](comp_files\Super_Rugby_2024)
 ## Peroni Top10
 
 
@@ -232,7 +236,7 @@ key: page-recents
 ## Allianz Premier 15s
 
 
-[2023](comp_files\Allianz_Premier_15s_2023) - Prediction Accuracy: 81.7% 
+[2023](comp_files\Allianz_Premier_15s_2023) - Prediction Accuracy: 80.8% 
 # Domestic Competitions
 
 ## Bunnings Warehouse NPC
@@ -316,4 +320,4 @@ key: page-recents
 ## URBA Top 12
 
 
-[2024](comp_files\URBA_Top_12_2024) - Prediction Accuracy: 60.4% 
+[2024](comp_files\URBA_Top_12_2024) - Prediction Accuracy: 59.3% 

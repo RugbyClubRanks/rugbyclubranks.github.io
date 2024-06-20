@@ -1,6 +1,6 @@
 ---  
 title: "Allianz Premier 15s 2023 Status"  
-date: 2024-06-17 6:00:00 -0500  
+date: 2024-06-20 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -34,8 +34,8 @@ aside:
 
 | Club                      |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Gloucester-Hartpury Women |                   1 |    0.9 |              7.75476 |                   0.1 |                0.3 |                  4.1 |
-| Bristol Bears Women       |                   1 |    0.1 |             -7.75476 |                   0.4 |                0.2 |                  0.8 |
+| Gloucester-Hartpury Women |                   1 |    0.9 |              7.66522 |                   0.1 |                0.3 |                  4.2 |
+| Bristol Bears Women       |                   1 |    0.1 |             -7.66522 |                   0.4 |                0.2 |                  0.8 |
 
 
 
@@ -44,9 +44,9 @@ aside:
 
 | Club                      |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Gloucester-Hartpury Women |              17 |   15.9 |              295.755 |                   1.1 |                0.3 |                 65.1 |
+| Gloucester-Hartpury Women |              17 |   15.9 |              295.665 |                   1.1 |                0.3 |                 65.2 |
 | Saracens Women            |              17 |   14   |              373     |                   0   |                0   |                 56   |
-| Bristol Bears Women       |              18 |   12.1 |              235.245 |                   2.4 |                0.2 |                 50.8 |
+| Bristol Bears Women       |              18 |   12.1 |              235.335 |                   2.4 |                0.2 |                 50.8 |
 | Exeter Chiefs Women       |              17 |   10   |              177     |                   2   |                0   |                 44   |
 | Loughborough Lightning    |              16 |    7   |             -103     |                   1   |                0   |                 29   |
 | Ealing Trailfinders Women |              16 |    5   |             -160     |                   3   |                0   |                 23   |
@@ -73,7 +73,7 @@ aside:
 ### Gloucester-Hartpury Women V Bristol Bears Women on 2024/06/22
 
 
-Average Margin: Gloucester-Hartpury Women by 7.8
+Average Margin: Gloucester-Hartpury Women by 7.7
 
 Average Scoreline: 35-27
 

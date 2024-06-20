@@ -18,7 +18,7 @@ Last Round Accuracy: 1 of 1 (100.0%)
 
 Last Round Error: 37.04 points per match
 
-[2024-06-21 Korea (~1302.73) at Hong Kong (~1522.41)](projections/2024-06-21-HongKong-Korea)
+[2024-06-21 Korea (~1305.04) at Hong Kong (~1518.58)](projections/2024-06-21-HongKong-Korea)
 ## International Test Match
 
 
@@ -32,15 +32,15 @@ Last Round Accuracy: 12 of 20 (60.0%)
 
 Last Round Error: 31.36 points per match
 
-[2024-06-21 Malaysia (~826.4) at United Arab Emirates (~1131.34)](projections/2024-06-21-UnitedArabEmirates-Malaysia)
+[2024-06-21 Malaysia (~819.06) at United Arab Emirates (~1128.58)](projections/2024-06-21-UnitedArabEmirates-Malaysia)
 
-[2024-06-22 Wales (~1681.29) at South Africa (~2019.46)](projections/2024-06-22-SouthAfrica-Wales)
+[2024-06-22 Trinidad and Tobago (~1607.81) at Guyana (~2040.0)](projections/2024-06-22-Guyana-TrinidadandTobago)
 
-[2024-06-22 England (~1770.75) at Japan (~1596.23)](projections/2024-06-22-Japan-England)
+[2024-06-22 Korea Republic (~1379.92) at Hong Kong (~1521.2)](projections/2024-06-22-HongKong-KoreaRepublic)
 
-[2024-06-22 Trinidad and Tobago (~1626.0) at Guyana (~2029.34)](projections/2024-06-22-Guyana-TrinidadandTobago)
+[2024-06-22 England (~1770.19) at Japan (~1593.33)](projections/2024-06-22-Japan-England)
 
-[2024-06-22 Korea Republic (~1393.94) at Hong Kong (~1521.71)](projections/2024-06-22-HongKong-KoreaRepublic)
+[2024-06-22 Wales (~1682.61) at South Africa (~2014.51)](projections/2024-06-22-SouthAfrica-Wales)
 # Top Flight Leagues
 
 ## Allianz Premier 15s
@@ -56,7 +56,7 @@ Last Round Accuracy: 2 of 5 (40.0%)
 
 Last Round Error: 20.18 points per match
 
-[2024-06-22 Bristol Bears Women (~1850.63) at Gloucester-Hartpury Women (~2005.73)](projections/2024-06-22-Gloucester-HartpuryWomen-BristolBearsWomen)
+[2024-06-22 Bristol Bears Women (~1856.37) at Gloucester-Hartpury Women (~2009.67)](projections/2024-06-22-Gloucester-HartpuryWomen-BristolBearsWomen)
 ## Major League Rugby
 
 
@@ -70,25 +70,17 @@ Last Round Accuracy: 5 of 6 (83.33%)
 
 Last Round Error: 4.92 points per match
 
-[2024-06-18 San Diego Legion (~1612.74) at Chicago Hounds (~1584.35)](projections/2024-06-18-ChicagoHounds-SanDiegoLegion)
+[2024-06-22 New England Free Jacks (~1612.21) at NOLA Gold (~1585.47)](projections/2024-06-22-NOLAGold-NewEnglandFreeJacks)
 
-[2024-06-22 New England Free Jacks (~1613.4) at NOLA Gold (~1585.9)](projections/2024-06-22-NOLAGold-NewEnglandFreeJacks)
+[2024-06-22 Dallas Jackals (~1513.75) at Utah Warriors (~1568.18)](projections/2024-06-22-UtahWarriors-DallasJackals)
 
-[2024-06-22 Old Glory DC (~1501.04) at Miami Sharks (~1481.19)](projections/2024-06-22-MiamiSharks-OldGloryDC)
+[2024-06-22 Chicago Hounds (~1519.26) at Anthem RC (~1173.08)](projections/2024-06-22-AnthemRC-ChicagoHounds)
 
-[2024-06-22 Chicago Hounds (~1524.22) at Anthem RC (~1178.94)](projections/2024-06-22-AnthemRC-ChicagoHounds)
+[2024-06-22 RFC Los Angeles (~1381.76) at Seattle Seawolves (~1658.12)](projections/2024-06-22-SeattleSeawolves-RFCLosAngeles)
 
-[2024-06-22 Dallas Jackals (~1510.55) at Utah Warriors (~1567.64)](projections/2024-06-22-UtahWarriors-DallasJackals)
+[2024-06-22 Old Glory DC (~1502.14) at Miami Sharks (~1482.46)](projections/2024-06-22-MiamiSharks-OldGloryDC)
 
-[2024-06-22 RFC Los Angeles (~1378.02) at Seattle Seawolves (~1661.08)](projections/2024-06-22-SeattleSeawolves-RFCLosAngeles)
-
-[2024-06-23 Houston SaberCats (~1644.33) at San Diego Legion (~1676.06)](projections/2024-06-23-SanDiegoLegion-HoustonSaberCats)
-## Super Rugby
-
-
-[In depth model review and projections for Super Rugby 2024](comp_files/Super_Rugby_2024)
-
-[2024-06-22 Chiefs (~1628.48) at Blues (~1733.5)](projections/2024-06-22-Blues-Chiefs)
+[2024-06-23 Houston SaberCats (~1646.6) at San Diego Legion (~1681.47)](projections/2024-06-23-SanDiegoLegion-HoustonSaberCats)
 ## Super Rugby Pacific
 
 
@@ -102,7 +94,9 @@ Last Round Accuracy: 5 of 6 (83.33%)
 
 Last Round Error: 8.18 points per match
 
-[2024-06-21 Blues (~1663.91) at Chiefs (~1693.93)](projections/2024-06-21-Chiefs-Blues)
+[2024-06-21 Blues (~1664.05) at Chiefs (~1695.89)](projections/2024-06-21-Chiefs-Blues)
+
+[2024-06-22 Chiefs (~1629.77) at Blues (~1732.74)](projections/2024-06-22-Blues-Chiefs)
 ## Top 14 Orange
 
 
@@ -116,23 +110,23 @@ Last Round Accuracy: 5 of 8 (62.5%)
 
 Last Round Error: 12.35 points per match
 
-[2024-06-21 La Rochelle (~1749.84) at Stade Toulousain (~1852.29)](projections/2024-06-21-StadeToulousain-LaRochelle)
+[2024-06-22 Bordeaux Begles (~1718.05) at Stade Francais Paris (~1723.15)](projections/2024-06-22-StadeFrancaisParis-BordeauxBegles)
 
-[2024-06-22 Bordeaux Begles (~1719.78) at Stade Francais Paris (~1719.0)](projections/2024-06-22-StadeFrancaisParis-BordeauxBegles)
+[2024-06-21 La Rochelle (~1748.74) at Stade Toulousain (~1854.11)](projections/2024-06-21-StadeToulousain-LaRochelle)
 ## United Rugby Championship
 
 
 [In depth model review and projections for United Rugby Championship 2023](comp_files/United_Rugby_Championship_2023)
 
-Competition Accuracy: 114 of 150 (76.0%)
+Competition Accuracy: 116 of 150 (77.33%)
 
-Competition Error: 10.37 points per match
+Competition Error: 10.3 points per match
 
 Last Round Accuracy: 6 of 8 (75.0%)
 
-Last Round Error: 7.4 points per match
+Last Round Error: 7.41 points per match
 
-[2024-06-22 Glasgow Warriors (~1737.56) at Bulls (~1837.02)](projections/2024-06-22-Bulls-GlasgowWarriors)
+[2024-06-22 Glasgow Warriors (~1739.84) at Bulls (~1833.46)](projections/2024-06-22-Bulls-GlasgowWarriors)
 # Domestic Leagues
 
 ## URBA Top 12
@@ -148,14 +142,14 @@ Last Round Accuracy: 3 of 6 (50.0%)
 
 Last Round Error: 14.14 points per match
 
-[2024-06-22 Alumni (~1657.6) at SIC (~1836.01)](projections/2024-06-22-SIC-Alumni)
+[2024-06-22 Alumni (~1658.73) at SIC (~1836.52)](projections/2024-06-22-SIC-Alumni)
 
-[2024-06-22 Belgrano (~1805.29) at Hindu (~1710.5)](projections/2024-06-22-Hindu-Belgrano)
+[2024-06-22 Belgrano (~1804.86) at Hindu (~1711.94)](projections/2024-06-22-Hindu-Belgrano)
 
-[2024-06-22 Buenos Aires (~1671.84) at San Luis (~1670.37)](projections/2024-06-22-SanLuis-BuenosAires)
+[2024-06-22 Newman (~1715.2) at Regatas Bella Vista (~1639.72)](projections/2024-06-22-RegatasBellaVista-Newman)
 
-[2024-06-22 Newman (~1712.06) at Regatas Bella Vista (~1638.09)](projections/2024-06-22-RegatasBellaVista-Newman)
+[2024-06-22 Champagnat (~1412.22) at CUBA (~1725.96)](projections/2024-06-22-CUBA-Champagnat)
 
-[2024-06-22 Champagnat (~1417.85) at CUBA (~1722.45)](projections/2024-06-22-CUBA-Champagnat)
+[2024-06-22 Atlético del Rosario (~1476.7) at CASI (~1786.38)](projections/2024-06-22-CASI-AtleticodelRosario)
 
-[2024-06-22 Atlético del Rosario (~1481.17) at CASI (~1784.02)](projections/2024-06-22-CASI-AtleticodelRosario)
+[2024-06-22 Buenos Aires (~1667.29) at San Luis (~1673.01)](projections/2024-06-22-SanLuis-BuenosAires)

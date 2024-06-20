@@ -1,6 +1,6 @@
 ---  
 title: "Super Rugby Pacific 2024 Status"  
-date: 2024-06-17 6:00:00 -0500  
+date: 2024-06-20 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -37,8 +37,8 @@ aside:
 
 | Club   |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Chiefs |                   1 |    0.6 |              1.50083 |                   0.3 |                0   |                  2.8 |
-| Blues  |                   1 |    0.4 |             -1.50083 |                   0.5 |                0.2 |                  2.2 |
+| Chiefs |                   1 |    0.6 |              1.59194 |                   0.3 |                0   |                  2.9 |
+| Blues  |                   1 |    0.4 |             -1.59194 |                   0.5 |                0.2 |                  2.2 |
 
 
 
@@ -47,10 +47,10 @@ aside:
 
 | Club                     |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Blues                    |              17 |   14.4 |              298.499 |                   1.5 |                8.2 |                 67.2 |
+| Blues                    |              17 |   14.4 |              298.408 |                   1.5 |                8.2 |                 67.2 |
 | Hurricanes               |              16 |   13   |              215     |                   1   |                8   |                 61   |
 | Brumbies                 |              17 |   14   |              108     |                   0   |                0   |                 61   |
-| Chiefs                   |              17 |   11.6 |              209.501 |                   2.3 |                6   |                 54.8 |
+| Chiefs                   |              17 |   11.6 |              209.592 |                   2.3 |                6   |                 54.9 |
 | Queensland Reds          |              15 |    8   |               82     |                   4   |                4   |                 40   |
 | Highlanders              |              15 |    6   |             -113     |                   2   |                2   |                 28   |
 | Fijian Drua              |              15 |    6   |             -133     |                   1   |                1   |                 26   |
@@ -68,7 +68,7 @@ aside:
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
 | Club Level | 73.9% | 13.0 |
-| Player Level: Lineup | 77.2% | 13.2 |
+| Player Level: Lineup | 76.3% | 13.2 |
 | Player Level: Minutes | 78.3% | 13.4 |
 
 
@@ -79,9 +79,9 @@ aside:
 ### Chiefs V Blues on 2024/06/21
 
 
-Average Margin: Chiefs by 1.5
+Average Margin: Chiefs by 1.6
 
-Average Scoreline: 30-29
+Average Scoreline: 31-29
 
 <p float="left">
 <img src="plots/performances_2024-06-21-Chiefs_V_Blues.png" width="32%" />

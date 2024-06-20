@@ -24,9 +24,9 @@ Last Round Error: 4.92 points per match
 
 [2024-06-16 Utah Warriors at New England Free Jacks; 27-36](reviews//2024-06-16-NewEnglandFreeJacks-UtahWarriors)
 
-[2024-06-16 NOLA Gold at RFC Los Angeles; 38-21](reviews//2024-06-16-RFCLosAngeles-NOLAGold)
-
 [2024-06-16 Miami Sharks at Anthem RC; 30-14](reviews//2024-06-16-AnthemRC-MiamiSharks)
+
+[2024-06-16 NOLA Gold at RFC Los Angeles; 38-21](reviews//2024-06-16-RFCLosAngeles-NOLAGold)
 ## Super Rugby Pacific
 
 
@@ -66,13 +66,13 @@ Last Round Error: 12.35 points per match
 
 [In depth model review and projections for United Rugby Championship 2023](comp_files/United_Rugby_Championship_2023)
 
-Competition Accuracy: 114 of 150 (76.0%)
+Competition Accuracy: 116 of 150 (77.33%)
 
-Competition Error: 10.37 points per match
+Competition Error: 10.3 points per match
 
 Last Round Accuracy: 6 of 8 (75.0%)
 
-Last Round Error: 7.4 points per match
+Last Round Error: 7.41 points per match
 
 [2024-06-15 Glasgow Warriors at Munster; 17-10](reviews//2024-06-15-Munster-GlasgowWarriors)
 

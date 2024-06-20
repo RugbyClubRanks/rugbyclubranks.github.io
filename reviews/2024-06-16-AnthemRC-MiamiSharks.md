@@ -11,7 +11,7 @@ categories: "Major League Rugby 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.137, which translates to predicting Miami Sharks to win by 16.6.
 
-Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 35 to 18
+Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 33 to 16
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Miami Sharks by 7.1 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             80 | Tau Koloamatangi    |             78.34 |        1 |             22.72 | Jake Turnbull         |             80 |
+|             80 | Tau Koloamatangi    |             78.3  |        1 |             22.59 | Jake Turnbull         |             80 |
 |             80 | Sean Mcnulty        |             55.39 |        2 |              4.35 | Connor Robinson       |             80 |
-|             80 | Reinaldo Piussi     |             64.41 |        3 |              4.23 | Joe Apikotoa          |             80 |
-|             80 | Rick Rose           |             51.65 |        4 |             10.81 | Lucas Gramlick        |             80 |
-|             80 | Stan Van Den Hoven  |             55.36 |        5 |             12.11 | James Rivers          |             80 |
-|             80 | Benjamin Bonasso    |             56.76 |        6 |              9.85 | Shneil Singh          |             80 |
-|             80 | Dan Pryor           |             32.53 |        7 |             14.67 | Albert O'Shannessey   |             80 |
+|             80 | Reinaldo Piussi     |             64.36 |        3 |              4.16 | Joe Apikotoa          |             80 |
+|             80 | Rick Rose           |             51.6  |        4 |             10.82 | Lucas Gramlick        |             80 |
+|             80 | Stan Van Den Hoven  |             55.31 |        5 |             12.12 | James Rivers          |             80 |
+|             80 | Benjamin Bonasso    |             56.82 |        6 |              9.87 | Shneil Singh          |             80 |
+|             80 | Dan Pryor           |             32.62 |        7 |             14.71 | Albert O'Shannessey   |             80 |
 |             80 | Manuel Ardao        |             85.32 |        8 |             16.38 | Michael Ma'Afu        |             80 |
-|             80 | Tomas Cubelli       |             20.8  |        9 |             29.81 | Sean Yacoubian        |             80 |
+|             80 | Tomas Cubelli       |             20.83 |        9 |             29.86 | Sean Yacoubian        |             80 |
 |             80 | Santiago Videla     |             21.97 |       10 |             12.94 | Cliven Loubser        |             80 |
-|             80 | Avery Oitomen       |             63.76 |       11 |              7.86 | Te Rangatira Waitokia |             80 |
-|             80 | Nick Grigg          |             47.49 |       12 |              6.38 | Junior Gafa           |             80 |
-|             80 | Matias Orlando      |             16.84 |       13 |             30.54 | Sebastian Zaridze     |             80 |
-|             80 | Marcos Young        |             32.69 |       14 |             15.24 | David Still           |             80 |
+|             80 | Avery Oitomen       |             63.65 |       11 |              7.88 | Te Rangatira Waitokia |             80 |
+|             80 | Nick Grigg          |             47.54 |       12 |              6.39 | Junior Gafa           |             80 |
+|             80 | Matias Orlando      |             16.86 |       13 |             30.58 | Sebastian Zaridze     |             80 |
+|             80 | Marcos Young        |             32.69 |       14 |             15.29 | David Still           |             80 |
 |             80 | Felipe Etcheverry   |             68.89 |       15 |             27.56 | Steffan Crimp         |             80 |
-|              0 | Alec Mcdonnell      |             54.15 |       16 |             40.26 | Jack Manzo            |              0 |
-|              0 | Jonas Petrakopoulos |             28.91 |       17 |             16.94 | Dan Hanson            |              0 |
+|              0 | Alec Mcdonnell      |             54.08 |       16 |             40.26 | Jack Manzo            |              0 |
+|              0 | Jonas Petrakopoulos |             28.79 |       17 |             16.88 | Dan Hanson            |              0 |
 |              0 | Setu Vole           |            nan    |       18 |            nan    | Stephan Bernal-Wendt  |              0 |
-|              0 | Chase Schor-Haskin  |            nan    |       19 |             39.74 | Logan Weidner         |              0 |
-|              0 | Guiseppe Du Toit    |             25.63 |       20 |            nan    | Braemar Murray        |              0 |
+|              0 | Chase Schor-Haskin  |            nan    |       19 |             39.78 | Logan Weidner         |              0 |
+|              0 | Guiseppe Du Toit    |             25.65 |       20 |            nan    | Braemar Murray        |              0 |
 |              0 | Damian Morley       |            nan    |       21 |             29.77 | Oscar Koller          |              0 |
-|              0 | Eric Naposki        |            nan    |       22 |             34.52 | Mateo Gadsden         |              0 |
-|              0 | Michael Hand        |             48.51 |       23 |              9.81 | Tomasi Alosio         |              0 |
+|              0 | Eric Naposki        |            nan    |       22 |             34.55 | Mateo Gadsden         |              0 |
+|              0 | Michael Hand        |             48.37 |       23 |              9.81 | Tomasi Alosio         |              0 |
 
