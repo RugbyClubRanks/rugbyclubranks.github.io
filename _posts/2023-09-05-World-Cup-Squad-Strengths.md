@@ -11,8 +11,8 @@ Obviously no official sides for matches have been announced yet, but I can make 
 ## Team Rankings
 
 <p float="left">
-<img src="../../../assets/rankings_WorldCup.png" width="49%" />
-<img src="../../../assets/squad_dists.png" width="49%" />
+<img src="/assets/rankings_WorldCup.png" width="49%" />
+<img src="/assets/squad_dists.png" width="49%" />
 </p>
 
 On the left we have rankings from the club model, and on the right are rankings from the player model. The top five teams are unchanged, and remain the strong favorites. But the player model rates Fiji, Argentina, and Australia worse than the club model, and ranks Japan, England, Samoa and Wales higher.

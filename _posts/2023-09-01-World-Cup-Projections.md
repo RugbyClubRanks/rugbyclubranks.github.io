@@ -4,7 +4,7 @@ date:   2023-09-01 06:00:00 -0500
 categories: projection
 ---
 
-Just a week out from the opening match, I'm recording the current predictions being made by my club level model. These predictions are updated a few times a week [here](..\\..\\..\\..\\comp_files\\Rugby_World_Cup_2023) as matches are played and new information becomes available, but they shouldn't change much before kickoff, and recording them here allows for evaluation once matches are played.
+Just a week out from the opening match, I'm recording the current predictions being made by my club level model. These predictions are updated a few times a week [here](\comp_files\\Rugby_World_Cup_2023) as matches are played and new information becomes available, but they shouldn't change much before kickoff, and recording them here allows for evaluation once matches are played.
 
 So lets have at it. First, here's the predicted tables for each pool. The top two teams from each pool would advance to the knockouts, and the top three teams from each pool will qualify for the next world cup, avoiding the lengthy qualifying process. Each pool's table shows the average number of wins across all of the many predictions made, and the average point differential - a measure of how much a team has outscored their opponents in head to head matches. Last and perhaps most importantly is the percentage of predictions in which the team was among the top two in the pool and advance to the Quarterfinals.
 
