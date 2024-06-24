@@ -1,7 +1,7 @@
 ---  
 layout: page  
 title: Model Accuracies  
-date: 2024-06-20 6:00:00 -0500  
+date: 2024-06-24 6:00:00 -0500  
 categories: model  
 ---
 

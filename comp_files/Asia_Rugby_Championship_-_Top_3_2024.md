@@ -1,6 +1,6 @@
 ---  
 title: "Asia Rugby Championship - Top 3 2024 Status"  
-date: 2024-06-20 6:00:00 -0500  
+date: 2024-06-21 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -27,8 +27,8 @@ aside:
 
 | Club      |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:----------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Hong Kong |                   1 |    0.8 |              10.6768 |                   0.1 |                0.5 |                  3.9 |
-| Korea     |                   1 |    0.2 |             -10.6768 |                   0.2 |                0.2 |                  1.1 |
+| Hong Kong |                   1 |    0.8 |              10.6555 |                   0.1 |                0.5 |                  3.9 |
+| Korea     |                   1 |    0.2 |             -10.6555 |                   0.2 |                0.2 |                  1.1 |
 
 
 
@@ -37,8 +37,8 @@ aside:
 
 | Club      |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:----------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Korea     |               2 |    1.2 |              39.3232 |                   0.2 |                0.2 |                  5.1 |
-| Hong Kong |               1 |    0.8 |              10.6768 |                   0.1 |                0.5 |                  3.9 |
+| Korea     |               2 |    1.2 |              39.3445 |                   0.2 |                0.2 |                  5.1 |
+| Hong Kong |               1 |    0.8 |              10.6555 |                   0.1 |                0.5 |                  3.9 |
 | Malaysia  |               1 |    0   |             -50      |                   0   |                0   |                  0   |
 
 

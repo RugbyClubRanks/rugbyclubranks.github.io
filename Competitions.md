@@ -94,7 +94,7 @@ key: page-recents
 ## Major League Rugby
 
 
-[2024](comp_files\Major_League_Rugby_2024) - Prediction Accuracy: 60.6% 
+[2024](comp_files\Major_League_Rugby_2024) - Prediction Accuracy: 61.9% 
 
 [2023](comp_files\Major_League_Rugby_2023) - Prediction Accuracy: 71.3% 
 
@@ -118,7 +118,7 @@ key: page-recents
 ## United Rugby Championship
 
 
-[2023](comp_files\United_Rugby_Championship_2023) - Prediction Accuracy: 76.0% 
+[2023](comp_files\United_Rugby_Championship_2023) - Prediction Accuracy: 76.7% 
 
 [2022](comp_files\United_Rugby_Championship_2022) - Prediction Accuracy: 70.7% 
 
@@ -148,7 +148,7 @@ key: page-recents
 ## Top 14 Orange
 
 
-[2023](comp_files\Top_14_Orange_2023) - Prediction Accuracy: 70.3% 
+[2023](comp_files\Top_14_Orange_2023) - Prediction Accuracy: 70.1% 
 
 [2022](comp_files\Top_14_Orange_2022) - Prediction Accuracy: 68.0% 
 

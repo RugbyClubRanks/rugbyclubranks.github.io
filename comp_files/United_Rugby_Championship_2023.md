@@ -1,6 +1,6 @@
 ---  
 title: "United Rugby Championship 2023 Status"  
-date: 2024-06-20 6:00:00 -0500  
+date: 2024-06-21 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -41,8 +41,8 @@ aside:
 
 | Club             |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Bulls            |                   1 |    0.9 |              4.68109 |                   0.1 |                0.3 |                  4   |
-| Glasgow Warriors |                   1 |    0.1 |             -4.68109 |                   0.6 |                0.3 |                  1.3 |
+| Bulls            |                   1 |    0.9 |              4.70402 |                   0.1 |                0.3 |                  4   |
+| Glasgow Warriors |                   1 |    0.1 |             -4.70402 |                   0.6 |                0.3 |                  1.3 |
 
 
 
@@ -51,8 +51,8 @@ aside:
 
 | Club             |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Bulls            |              21 |   15.9 |              222.681 |                   3.1 |               11.3 |                 78   |
-| Glasgow Warriors |              21 |   15.1 |              185.319 |                   2.6 |               11.3 |                 74.3 |
+| Bulls            |              21 |   15.9 |              222.704 |                   3.1 |               11.3 |                 78   |
+| Glasgow Warriors |              21 |   15.1 |              185.296 |                   2.6 |               11.3 |                 74.3 |
 | Munster          |              20 |   14   |              174     |                   4   |               11   |                 73   |
 | Leinster         |              20 |   14   |              222     |                   3   |               12   |                 71   |
 | Stormers         |              19 |   12   |              103     |                   4   |                7   |                 59   |
@@ -76,7 +76,7 @@ aside:
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
 | Club Level | 76.7% | 10.3 |
-| Player Level: Lineup | 76.8% | 10.3 |
+| Player Level: Lineup | 76.2% | 10.3 |
 | Player Level: Minutes | 77.5% | 10.2 |
 
 
