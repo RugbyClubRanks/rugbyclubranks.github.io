@@ -5,13 +5,17 @@ header:
     url: /Current_Projections.html
 
   - titles:
-      en      : &EN       Recent Matches
+      en      : &EN       Reviews
     url: /Recent_Matches.html
 
   - titles:
       en      : &EN       Competitions
     url: /Competitions.html
-  
+
+  - titles:
+      en      : &EN       Player Ranks
+    url: /player_rankings.html
+
   - titles:
       en      : &EN       Accuracy
     url: /accuracy_page.html
