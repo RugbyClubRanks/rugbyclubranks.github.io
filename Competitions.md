@@ -8,7 +8,7 @@ key: page-recents
 ## International Test Match
 
 
-[2024](comp_files\International_Test_Match_2024) - Prediction Accuracy: 67.7% 
+[2024](comp_files\International_Test_Match_2024) - Prediction Accuracy: 71.1% 
 
 [2023](comp_files\International_Test_Match_2023) - Prediction Accuracy: 77.8% 
 
@@ -57,6 +57,12 @@ key: page-recents
 [2024](comp_files\Asia_Rugby_Championship_-_Top_3_2024) - Prediction Accuracy: 100.0% 
 
 [2022](comp_files\Asia_Rugby_Championship_-_Top_3_2022) - Prediction Accuracy: 100.0% 
+## World Rugby U20 Championship
+
+
+[2024](comp_files\World_Rugby_U20_Championship_2024) - Prediction Accuracy: 83.3% 
+
+[2023](comp_files\World_Rugby_U20_Championship_2023) - Prediction Accuracy: 100.0% 
 ## Autumn Nations Series
 
 
@@ -239,6 +245,18 @@ key: page-recents
 [2023](comp_files\Allianz_Premier_15s_2023) - Prediction Accuracy: 80.8% 
 # Domestic Competitions
 
+## Currie Cup
+
+
+[2024](comp_files\Currie_Cup_2024)
+
+[2023](comp_files\Currie_Cup_2023) - Prediction Accuracy: 56.4% 
+
+[2022](comp_files\Currie_Cup_2022) - Prediction Accuracy: 63.6% 
+
+[2021](comp_files\Currie_Cup_2021) - Prediction Accuracy: 50.0% 
+
+[2020](comp_files\Currie_Cup_2020) - Prediction Accuracy: 68.2% 
 ## Bunnings Warehouse NPC
 
 
@@ -249,16 +267,6 @@ key: page-recents
 [2021](comp_files\Bunnings_Warehouse_NPC_2021) - Prediction Accuracy: 58.2% 
 
 [2020](comp_files\Bunnings_Warehouse_NPC_2020) - Prediction Accuracy: 70.0% 
-## Currie Cup
-
-
-[2023](comp_files\Currie_Cup_2023) - Prediction Accuracy: 56.4% 
-
-[2022](comp_files\Currie_Cup_2022) - Prediction Accuracy: 63.6% 
-
-[2021](comp_files\Currie_Cup_2021) - Prediction Accuracy: 50.0% 
-
-[2020](comp_files\Currie_Cup_2020) - Prediction Accuracy: 68.2% 
 ## Nationale
 
 
@@ -320,4 +328,4 @@ key: page-recents
 ## URBA Top 12
 
 
-[2024](comp_files\URBA_Top_12_2024) - Prediction Accuracy: 59.3% 
+[2024](comp_files\URBA_Top_12_2024) - Prediction Accuracy: 62.1% 

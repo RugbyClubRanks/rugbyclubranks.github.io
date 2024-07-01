@@ -11,9 +11,5 @@ test_contents.py::test_reviews_contents PASSED                           [ 66%]
 test_contents.py::test_comp_random_accuracy PASSED                       [ 83%]
 test_contents.py::test_comp_random_playoff PASSED                        [100%]
 
-============================== 6 passed in 0.01s ==============================
+============================== 6 passed in 0.18s ==============================
 All tests passed. 
-[main fd52d1c82c] Automated update for 06/24/2024
- 2 files changed, 82 insertions(+)
- create mode 100644 player_rankings.md
- create mode 100644 plr_percentile.html
