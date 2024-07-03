@@ -69,27 +69,27 @@ NOLA Gold by 2.5 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             80 | Matt Harmon         |             73.05 |        1 |             50.93 | Cali Martinez         |             80 |
-|             80 | Pat O'Toole         |             74.76 |        2 |             53    | Martín Vaca           |             80 |
-|             80 | Sean Paranihi       |             51.09 |        3 |             79.73 | Stevie Longwell       |             80 |
-|             80 | Callum Botchar      |             80.28 |        4 |             64.6  | Rob Harley            |             80 |
-|             80 | Fintan Coleman      |             42.41 |        5 |             65.19 | Tevita Naqali         |             80 |
-|             80 | Moni Tonga'Uiha     |             86.3  |        6 |             49.71 | Collin Grosse         |             80 |
-|             80 | Jonah Mau'U         |             69.73 |        7 |             62.74 | Cory Gilliland-Daniel |             80 |
-|             80 | Tom Florence        |             58.75 |        8 |             57.5  | Lautaro Bavaro        |             80 |
-|             80 | Damian Stevens      |              8.08 |        9 |             62.03 | Ethan Mcveigh         |             80 |
-|             80 | Rodney Iona         |             76.51 |       10 |             48.59 | Jason Robertson       |             80 |
-|             80 | Julian Roberts      |             55.33 |       11 |             62.62 | Axel Muller           |             80 |
-|             80 | Jp Du Plessis       |             74.77 |       12 |              3.62 | Tommaso Boni          |             80 |
-|             80 | Ross Depperschmidt  |             62.87 |       13 |             59.98 | John Powers           |             80 |
-|             80 | Taniela Filimone    |             86.29 |       14 |             62.62 | Perry Humphreys       |             80 |
-|             80 | Jordan Jackson-Hope |             72.61 |       15 |             54.15 | Damien Hoyland        |             80 |
+|             80 | Matt Harmon         |             73.1  |        1 |             50.97 | Cali Martinez         |             80 |
+|             80 | Pat O'Toole         |             74.8  |        2 |             52.93 | Martín Vaca           |             80 |
+|             80 | Sean Paranihi       |             51.13 |        3 |             79.81 | Stevie Longwell       |             80 |
+|             80 | Callum Botchar      |             80.18 |        4 |             64.52 | Rob Harley            |             80 |
+|             80 | Fintan Coleman      |             42.22 |        5 |             65.11 | Tevita Naqali         |             80 |
+|             80 | Moni Tonga'Uiha     |             86.25 |        6 |             49.62 | Collin Grosse         |             80 |
+|             80 | Jonah Mau'U         |             69.62 |        7 |             62.6  | Cory Gilliland-Daniel |             80 |
+|             80 | Tom Florence        |             58.58 |        8 |             57.32 | Lautaro Bavaro        |             80 |
+|             80 | Damian Stevens      |              8.1  |        9 |             62.07 | Ethan Mcveigh         |             80 |
+|             80 | Rodney Iona         |             76.41 |       10 |             48.59 | Jason Robertson       |             80 |
+|             80 | Julian Roberts      |             55.41 |       11 |             62.63 | Axel Muller           |             80 |
+|             80 | Jp Du Plessis       |             74.66 |       12 |              3.63 | Tommaso Boni          |             80 |
+|             80 | Ross Depperschmidt  |             62.72 |       13 |             59.81 | John Powers           |             80 |
+|             80 | Taniela Filimone    |             86.22 |       14 |             62.63 | Perry Humphreys       |             80 |
+|             80 | Jordan Jackson-Hope |             72.5  |       15 |             53.96 | Damien Hoyland        |             80 |
 |              0 | Diego Fortuny       |            nan    |       16 |            nan    | Koikoi Nelligan       |              0 |
-|              0 | Bart Vermeulen      |            nan    |       17 |             46.9  | Quentin Newcomer      |              0 |
+|              0 | Bart Vermeulen      |            nan    |       17 |             46.93 | Quentin Newcomer      |              0 |
 |              0 | Trent Rogers        |            nan    |       18 |            nan    | Tyler Rowland         |              0 |
-|              0 | Maciu Koroi         |            nan    |       19 |             46.06 | Bill Whiteside        |              0 |
-|              0 | Osaiasi Tonga'Uiha  |            nan    |       20 |             43.58 | Brady Daniel          |              0 |
+|              0 | Maciu Koroi         |            nan    |       19 |             45.89 | Bill Whiteside        |              0 |
+|              0 | Osaiasi Tonga'Uiha  |            nan    |       20 |             43.46 | Brady Daniel          |              0 |
 |              0 | Sebastiano Villani  |            nan    |       21 |             48.28 | Connor Buckley        |              0 |
-|              0 | Jack Webster        |            nan    |       22 |             56.22 | Gradyn Bowd           |              0 |
-|              0 | Reece Botha         |             75.7  |       23 |             42.4  | Willie Talataina-Mu   |              0 |
+|              0 | Jack Webster        |            nan    |       22 |             56.25 | Gradyn Bowd           |              0 |
+|              0 | Reece Botha         |             75.6  |       23 |             42.26 | Willie Talataina-Mu   |              0 |
 

@@ -11,7 +11,7 @@ categories: "World Rugby U20 Championship 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.892, which translates to predicting Ireland U20 to win by 20.5.
 
-Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 13 to 34
+Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 16 to 37
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Ireland U20 by 7.1 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player     |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:----------------|---------------:|
-|             67 | Sergio Pelliccioli   |             33.31 |        1 |             73.61 | Jacob Boyd      |           67   |
-|             52 | Nicholas Gasperini   |             28.55 |        2 |             78.08 | Danny Sheahan   |           80   |
-|             48 | Davide Ascari        |             38.37 |        3 |             73.45 | Patreece Bell   |           55   |
-|             68 | Mattia Midena        |             47.44 |        4 |             65.98 | Alan Spicer     |           57   |
-|             80 | Giacomo Milano       |             20.12 |        5 |             84.62 | Evan O'Connell  |           80   |
-|             48 | Cesare Zucconi       |             46.55 |        6 |             57.85 | Seán Edogbo     |           80   |
-|             57 | Luca Bellucci        |             24.62 |        7 |             79.21 | Bryn Ward       |           52   |
-|             80 | Jacopo Botturi       |             21.04 |        8 |             60.21 | Luke Murphy     |           20.5 |
-|             52 | Mattia Jimenez       |             41.58 |        9 |             78.69 | Oliver Coffey   |           55   |
-|             44 | Martino Pucciariello |             25.9  |       10 |             62.25 | Jack Murphy     |           20.5 |
-|             80 | Lorenzo Elettri      |             14.86 |       11 |             82.29 | Hugo Mclaughlin |           80   |
-|             55 | Nicola Bozzo         |             21.92 |       12 |             47.78 | Sam Berman      |           52   |
-|             80 | Federico Zanandrea   |             16.65 |       13 |             79.01 | Finn Treacy     |           80   |
-|             80 | Marco Scalabrin      |             23.05 |       14 |             61.9  | Davy Colbert    |           70   |
-|             80 | Mirko Belloni        |             18.05 |       15 |             78.22 | Ben O'Connor    |           80   |
-|             28 | Valerio Siciliano    |             35.96 |       16 |             43.85 | Stephen Smyth   |           18   |
+|             67 | Sergio Pelliccioli   |             33.36 |        1 |             73.67 | Jacob Boyd      |           67   |
+|             52 | Nicholas Gasperini   |             28.68 |        2 |             78.13 | Danny Sheahan   |           80   |
+|             48 | Davide Ascari        |             38.37 |        3 |             73.51 | Patreece Bell   |           55   |
+|             68 | Mattia Midena        |             47.27 |        4 |             65.91 | Alan Spicer     |           57   |
+|             80 | Giacomo Milano       |             20.22 |        5 |             84.54 | Evan O'Connell  |           80   |
+|             48 | Cesare Zucconi       |             46.44 |        6 |             57.79 | Seán Edogbo     |           80   |
+|             57 | Luca Bellucci        |             24.52 |        7 |             79.13 | Bryn Ward       |           52   |
+|             80 | Jacopo Botturi       |             21.13 |        8 |             60.04 | Luke Murphy     |           20.5 |
+|             52 | Mattia Jimenez       |             41.55 |        9 |             78.62 | Oliver Coffey   |           55   |
+|             44 | Martino Pucciariello |             26.01 |       10 |             62.1  | Jack Murphy     |           20.5 |
+|             80 | Lorenzo Elettri      |             14.93 |       11 |             82.2  | Hugo Mclaughlin |           80   |
+|             55 | Nicola Bozzo         |             22.01 |       12 |             47.66 | Sam Berman      |           52   |
+|             80 | Federico Zanandrea   |             16.72 |       13 |             78.92 | Finn Treacy     |           80   |
+|             80 | Marco Scalabrin      |             23.16 |       14 |             61.91 | Davy Colbert    |           70   |
+|             80 | Mirko Belloni        |             18.12 |       15 |             78.12 | Ben O'Connor    |           80   |
+|             28 | Valerio Siciliano    |             35.97 |       16 |             43.74 | Stephen Smyth   |           18   |
 |             13 | Francesco Gentile    |            nan    |       17 |            nan    | Emmett Calvey   |           23   |
-|             32 | Federico Pisani      |             36.2  |       18 |             52.94 | Andrew Sparrow  |           25   |
-|             44 | Tommaso Redondi      |             24.36 |       19 |            nan    | James Mckillop  |           28   |
+|             32 | Federico Pisani      |             36.27 |       18 |             52.91 | Andrew Sparrow  |           25   |
+|             44 | Tommaso Redondi      |             24.48 |       19 |            nan    | James Mckillop  |           28   |
 |             23 | Nelson Casartelli    |            nan    |       20 |            nan    | Billy Corrigan  |           23   |
-|             28 | Lorenzo Casilio      |             32.99 |       21 |            nan    | Jake O'Riordan  |            0   |
+|             28 | Lorenzo Casilio      |             32.93 |       21 |            nan    | Jake O'Riordan  |            0   |
 |             36 | Simone Brisighella   |            nan    |       22 |            nan    | Sean Naughton   |           39   |
-|             25 | Patrick De Villiers  |            nan    |       23 |             72.49 | Hugh Gavin      |           28   |
+|             25 | Patrick De Villiers  |            nan    |       23 |             72.38 | Hugh Gavin      |           28   |
 

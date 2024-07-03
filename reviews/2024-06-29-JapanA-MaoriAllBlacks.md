@@ -69,27 +69,27 @@ Māori All Blacks by 13.3 on a neutral pitch
 
 |   Away Minutes | Away Player            |   Away Percentile |   Number |   Home Percentile | Home Player      |   Home Minutes |
 |---------------:|:-----------------------|------------------:|---------:|------------------:|:-----------------|---------------:|
-|             50 | Ollie Norris           |             89.86 |        1 |             38.78 | Shogo Miura      |             44 |
-|             50 | Kurt Eklund            |             92.59 |        2 |             29.18 | Mamoru Harada    |             62 |
-|             62 | Marcel Renata          |             89.46 |        3 |             35    | Keijiro Tamefusa |             67 |
-|             80 | Isaia Walker-Leawere   |             97.73 |        4 |             34.62 | Eishin Kuwano    |             80 |
-|             55 | Laghlan McWhannell     |             97.83 |        5 |             39.45 | Naohiro Kotaki   |             44 |
-|             80 | Cameron Suafoa         |             72.51 |        6 |             70.5  | Kanji Shimokawa  |             80 |
-|             80 | Billy Harmon           |             84.87 |        7 |             32.57 | Kai Yamamoto     |             62 |
-|             62 | Cullen Grace           |             86.46 |        8 |             57.92 | Amanaki Saumaki  |             80 |
-|             57 | Sam Nock               |             85.05 |        9 |             38.49 | Taiki Koyama     |             46 |
-|             80 | Rivez Reihana          |             57.83 |       10 |             34.54 | Takuya Yamasawa  |             67 |
-|             58 | Bailyn Sullivan        |             45.33 |       11 |             27.62 | Koga Nezuka      |             80 |
-|             80 | Quinn Tupaea           |             94.62 |       12 |             27.61 | Samisoni Tua     |             55 |
-|             24 | Daniel Rona            |             88.42 |       13 |             62.46 | Tomoki Osada     |             80 |
-|             80 | Joshua Moorby          |             90.57 |       14 |             34.67 | Viliame Tuidraki |             80 |
-|             80 | Cole Forbes            |             80.5  |       15 |             24.27 | Yoshitaka Yazaki |             80 |
-|             30 | Tyrone Thompson        |             69.72 |       16 |            nan    | Kenji Sato       |             18 |
-|             30 | Pouri Rakete-Stones    |             87.05 |       17 |            nan    | Takato Okabe     |             36 |
+|             50 | Ollie Norris           |             89.82 |        1 |             38.77 | Shogo Miura      |             44 |
+|             50 | Kurt Eklund            |             92.55 |        2 |             29.32 | Mamoru Harada    |             62 |
+|             62 | Marcel Renata          |             89.42 |        3 |             35.06 | Keijiro Tamefusa |             67 |
+|             80 | Isaia Walker-Leawere   |             97.72 |        4 |             34.39 | Eishin Kuwano    |             80 |
+|             55 | Laghlan McWhannell     |             97.82 |        5 |             39.25 | Naohiro Kotaki   |             44 |
+|             80 | Cameron Suafoa         |             72.4  |        6 |             70.38 | Kanji Shimokawa  |             80 |
+|             80 | Billy Harmon           |             84.81 |        7 |             32.4  | Kai Yamamoto     |             62 |
+|             62 | Cullen Grace           |             86.4  |        8 |             57.74 | Amanaki Saumaki  |             80 |
+|             57 | Sam Nock               |             85    |        9 |             38.45 | Taiki Koyama     |             46 |
+|             80 | Rivez Reihana          |             57.86 |       10 |             34.48 | Takuya Yamasawa  |             67 |
+|             58 | Bailyn Sullivan        |             45.36 |       11 |             27.56 | Koga Nezuka      |             80 |
+|             80 | Quinn Tupaea           |             94.6  |       12 |             27.52 | Samisoni Tua     |             55 |
+|             24 | Daniel Rona            |             88.37 |       13 |             62.31 | Tomoki Osada     |             80 |
+|             80 | Joshua Moorby          |             90.53 |       14 |             34.64 | Viliame Tuidraki |             80 |
+|             80 | Cole Forbes            |             80.42 |       15 |             24.17 | Yoshitaka Yazaki |             80 |
+|             30 | Tyrone Thompson        |             69.73 |       16 |            nan    | Kenji Sato       |             18 |
+|             30 | Pouri Rakete-Stones    |             87    |       17 |            nan    | Takato Okabe     |             36 |
 |             18 | Benet Kumeroa          |            nan    |       18 |            nan    | Tsubasa Moriyama |             13 |
-|             25 | Max Hicks              |             23.08 |       19 |             35.6  | Junior Waqa      |             36 |
+|             25 | Max Hicks              |             22.98 |       19 |             35.38 | Junior Waqa      |             36 |
 |             18 | TK Howden              |              0.96 |       20 |            nan    | Takuma Motohashi |             18 |
-|             23 | Te Toiroa Tahuriorangi |             70.45 |       21 |              9.79 | Naoto Saito      |             34 |
-|             56 | Rameka Poihipi         |             82.83 |       22 |            nan    | Mikiya Takamoto  |             13 |
+|             23 | Te Toiroa Tahuriorangi |             70.34 |       21 |              9.83 | Naoto Saito      |             34 |
+|             56 | Rameka Poihipi         |             82.76 |       22 |            nan    | Mikiya Takamoto  |             13 |
 |             22 | Tana Tuhakaraina       |            nan    |       23 |            nan    | Nik Mccurran     |             25 |
 

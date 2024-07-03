@@ -1,6 +1,6 @@
 ---  
 title: "International Test Match 2024 Status"  
-date: 2024-07-01 6:00:00 -0500  
+date: 2024-07-03 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -73,27 +73,26 @@ aside:
 
 | Club                     |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Chinese Taipei           |                   2 |    1.1 |             6.06382  |                   0.3 |                0.4 |                  5.1 |
-| Scotland                 |                   1 |    1   |            22.3544   |                   0   |                0.9 |                  4.9 |
-| United States of America |                   1 |    1   |            17.878    |                   0   |                0.7 |                  4.6 |
-| New Zealand              |                   1 |    0.9 |            10.4421   |                   0.1 |                0.4 |                  4.2 |
-| Hong Kong                |                   1 |    0.8 |             8.31943  |                   0.1 |                0.5 |                  3.9 |
-| Australia                |                   1 |    0.7 |             4.15849  |                   0.2 |                0.3 |                  3.4 |
-| France                   |                   1 |    0.7 |             3.41379  |                   0.2 |                0.5 |                  3.4 |
-| Singapore                |                   1 |    0.7 |             6.76641  |                   0.1 |                0.2 |                  3   |
-| South Africa             |                   1 |    0.6 |             2.76089  |                   0.3 |                0.2 |                  3   |
-| Samoa                    |                   1 |    0.6 |             1.95641  |                   0.3 |                0.2 |                  2.8 |
-| Georgia                  |                   1 |    0.6 |             0.957642 |                   0.3 |                0.1 |                  2.7 |
-| Fiji                     |                   1 |    0.4 |            -0.957642 |                   0.4 |                0.4 |                  2.5 |
-| Italy                    |                   1 |    0.4 |            -1.95641  |                   0.3 |                0.2 |                  2.2 |
-| Ireland                  |                   1 |    0.4 |            -2.76089  |                   0.4 |                0.1 |                  2   |
-| Argentina                |                   1 |    0.3 |            -3.41379  |                   0.3 |                0.1 |                  1.8 |
-| Wales                    |                   1 |    0.3 |            -4.15849  |                   0.4 |                0.2 |                  1.6 |
-| Chile                    |                   1 |    0.2 |            -8.31943  |                   0.3 |                0.3 |                  1.3 |
-| Thailand                 |                   1 |    0.2 |           -12.8302   |                   0.1 |                0.1 |                  1.1 |
-| England                  |                   1 |    0.1 |           -10.4421   |                   0.2 |                0.1 |                  0.7 |
-| Romania                  |                   1 |    0   |           -17.878    |                   0.1 |                0.2 |                  0.3 |
-| Canada                   |                   1 |    0   |           -22.3544   |                   0   |                0.1 |                  0.1 |
+| Scotland                 |                   1 |    1   |            22.3411   |                   0   |                0.9 |                  4.9 |
+| United States of America |                   1 |    1   |            17.7461   |                   0   |                0.7 |                  4.7 |
+| New Zealand              |                   1 |    0.9 |            10.6808   |                   0.1 |                0.4 |                  4.2 |
+| Hong Kong                |                   1 |    0.8 |             8.62024  |                   0.1 |                0.6 |                  4   |
+| France                   |                   1 |    0.7 |             3.91007  |                   0.2 |                0.6 |                  3.6 |
+| Australia                |                   1 |    0.7 |             3.99347  |                   0.2 |                0.3 |                  3.3 |
+| Singapore                |                   1 |    0.7 |             7.12151  |                   0.1 |                0.2 |                  3.1 |
+| Samoa                    |                   1 |    0.6 |             2.7324   |                   0.3 |                0.2 |                  3   |
+| South Africa             |                   1 |    0.6 |             2.55801  |                   0.3 |                0.2 |                  2.9 |
+| Georgia                  |                   1 |    0.6 |             0.998671 |                   0.3 |                0.1 |                  2.6 |
+| Fiji                     |                   1 |    0.4 |            -0.998671 |                   0.3 |                0.4 |                  2.5 |
+| Ireland                  |                   1 |    0.4 |            -2.55801  |                   0.3 |                0.2 |                  2   |
+| Italy                    |                   1 |    0.4 |            -2.7324   |                   0.3 |                0.2 |                  2   |
+| Argentina                |                   1 |    0.3 |            -3.91007  |                   0.4 |                0.1 |                  1.7 |
+| Wales                    |                   1 |    0.3 |            -3.99347  |                   0.4 |                0.1 |                  1.7 |
+| Chinese Taipei           |                   1 |    0.3 |            -7.12151  |                   0.2 |                0.1 |                  1.6 |
+| Chile                    |                   1 |    0.2 |            -8.62024  |                   0.3 |                0.3 |                  1.3 |
+| England                  |                   1 |    0.1 |           -10.6808   |                   0.2 |                0.2 |                  0.6 |
+| Romania                  |                   1 |    0   |           -17.7461   |                   0.1 |                0.2 |                  0.3 |
+| Canada                   |                   1 |    0   |           -22.3411   |                   0   |                0.1 |                  0.1 |
 
 
 
@@ -102,22 +101,21 @@ aside:
 
 | Club                     |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Hong Kong                |               4 |    3.8 |           179.319    |                   0.1 |                0.5 |                 15.9 |
+| Hong Kong                |               4 |    3.8 |           179.62     |                   0.1 |                0.6 |                 16   |
 | Luxembourg               |               2 |    2   |            80        |                   0   |                0   |                  8   |
 | Sri Lanka                |               2 |    2   |            73        |                   0   |                0   |                  8   |
 | Switzerland              |               2 |    2   |            41        |                   0   |                0   |                  8   |
 | Sweden                   |               2 |    2   |            31        |                   0   |                0   |                  8   |
-| South Africa             |               2 |    1.6 |            30.7609   |                   0.3 |                1.2 |                  8   |
 | United Arab Emirates     |               3 |    2   |             0        |                   0   |                0   |                  8   |
-| Singapore                |               3 |    1.7 |           -11.2336   |                   0.1 |                0.2 |                  7   |
-| England                  |               2 |    1.1 |            24.5579   |                   0.2 |                1.1 |                  5.7 |
-| Chinese Taipei           |               2 |    1.1 |             6.06382  |                   0.3 |                0.4 |                  5.1 |
+| South Africa             |               2 |    1.6 |            30.558    |                   0.3 |                1.2 |                  7.9 |
+| Singapore                |               3 |    1.7 |           -10.8785   |                   0.1 |                0.2 |                  7.1 |
+| England                  |               2 |    1.1 |            24.3192   |                   0.2 |                1.2 |                  5.6 |
 | Hungary                  |               2 |    1   |            32        |                   1   |                0   |                  5   |
 | Qatar                    |               2 |    1   |             7        |                   1   |                0   |                  5   |
 | Korea Republic           |               3 |    1   |           -14        |                   1   |                0   |                  5   |
-| Scotland                 |               1 |    1   |            22.3544   |                   0   |                0.9 |                  4.9 |
-| United States of America |               1 |    1   |            17.878    |                   0   |                0.7 |                  4.6 |
-| New Zealand              |               1 |    0.9 |            10.4421   |                   0.1 |                0.4 |                  4.2 |
+| Scotland                 |               1 |    1   |            22.3411   |                   0   |                0.9 |                  4.9 |
+| United States of America |               1 |    1   |            17.7461   |                   0   |                0.7 |                  4.7 |
+| New Zealand              |               1 |    0.9 |            10.6808   |                   0.1 |                0.4 |                  4.2 |
 | Barbados                 |               1 |    1   |            84        |                   0   |                0   |                  4   |
 | Finland                  |               1 |    1   |            50        |                   0   |                0   |                  4   |
 | Moldova                  |               1 |    1   |            42        |                   0   |                0   |                  4   |
@@ -137,23 +135,24 @@ aside:
 | Bulgaria                 |               2 |    1   |           -19        |                   0   |                0   |                  4   |
 | Kazakhstan               |               2 |    1   |           -36        |                   0   |                0   |                  4   |
 | Malaysia                 |               4 |    1   |          -118        |                   0   |                0   |                  4   |
-| Australia                |               1 |    0.7 |             4.15849  |                   0.2 |                0.3 |                  3.4 |
-| France                   |               1 |    0.7 |             3.41379  |                   0.2 |                0.5 |                  3.4 |
-| Samoa                    |               1 |    0.6 |             1.95641  |                   0.3 |                0.2 |                  2.8 |
-| Georgia                  |               1 |    0.6 |             0.957642 |                   0.3 |                0.1 |                  2.7 |
-| Fiji                     |               1 |    0.4 |            -0.957642 |                   0.4 |                0.4 |                  2.5 |
-| Italy                    |               1 |    0.4 |            -1.95641  |                   0.3 |                0.2 |                  2.2 |
-| Ireland                  |               1 |    0.4 |            -2.76089  |                   0.4 |                0.1 |                  2   |
-| Argentina                |               1 |    0.3 |            -3.41379  |                   0.3 |                0.1 |                  1.8 |
-| Wales                    |               2 |    0.3 |           -32.1585   |                   0.4 |                0.2 |                  1.6 |
-| Chile                    |               1 |    0.2 |            -8.31943  |                   0.3 |                0.3 |                  1.3 |
-| Thailand                 |               2 |    0.2 |           -33.8302   |                   0.1 |                0.1 |                  1.1 |
+| France                   |               1 |    0.7 |             3.91007  |                   0.2 |                0.6 |                  3.6 |
+| Australia                |               1 |    0.7 |             3.99347  |                   0.2 |                0.3 |                  3.3 |
+| Samoa                    |               1 |    0.6 |             2.7324   |                   0.3 |                0.2 |                  3   |
+| Georgia                  |               1 |    0.6 |             0.998671 |                   0.3 |                0.1 |                  2.6 |
+| Fiji                     |               1 |    0.4 |            -0.998671 |                   0.3 |                0.4 |                  2.5 |
+| Ireland                  |               1 |    0.4 |            -2.55801  |                   0.3 |                0.2 |                  2   |
+| Italy                    |               1 |    0.4 |            -2.7324   |                   0.3 |                0.2 |                  2   |
+| Argentina                |               1 |    0.3 |            -3.91007  |                   0.4 |                0.1 |                  1.7 |
+| Wales                    |               2 |    0.3 |           -31.9935   |                   0.4 |                0.1 |                  1.7 |
+| Chinese Taipei           |               1 |    0.3 |            -7.12151  |                   0.2 |                0.1 |                  1.6 |
+| Chile                    |               1 |    0.2 |            -8.62024  |                   0.3 |                0.3 |                  1.3 |
 | Denmark                  |               1 |    0   |            -4        |                   1   |                0   |                  1   |
 | Zambia                   |               1 |    0   |            -4        |                   1   |                0   |                  1   |
-| Romania                  |               1 |    0   |           -17.878    |                   0.1 |                0.2 |                  0.3 |
-| Canada                   |               1 |    0   |           -22.3544   |                   0   |                0.1 |                  0.1 |
+| Romania                  |               1 |    0   |           -17.7461   |                   0.1 |                0.2 |                  0.3 |
+| Canada                   |               1 |    0   |           -22.3411   |                   0   |                0.1 |                  0.1 |
 | Cyprus                   |               1 |    0   |           -10        |                   0   |                0   |                  0   |
 | Senegal                  |               1 |    0   |           -14        |                   0   |                0   |                  0   |
+| Thailand                 |               1 |    0   |           -21        |                   0   |                0   |                  0   |
 | Guyana                   |               1 |    0   |           -23        |                   0   |                0   |                  0   |
 | Serbia                   |               1 |    0   |           -23        |                   0   |                0   |                  0   |
 | Lithuania                |               2 |    0   |           -34        |                   0   |                0   |                  0   |
@@ -182,23 +181,23 @@ aside:
 
 ## Week 5
 
-### Chinese Taipei V Thailand on 2024/07/02
+### Samoa V Italy on 2024/07/05
 
 
-Average Margin: Chinese Taipei by 12.8
+Average Margin: Samoa by 2.7
 
-Average Scoreline: 32-19
+Average Scoreline: 24-21
 
 <p float="left">
-<img src="plots/performances_2024-07-02-ChineseTaipei_V_Thailand.png" width="32%" />
-<img src="plots/resultbar_2024-07-02-ChineseTaipei_V_Thailand.png" width="32%" />
-<img src="plots/spreads_2024-07-02-ChineseTaipei_V_Thailand.png" width="32%" />
+<img src="plots/performances_2024-07-05-Samoa_V_Italy.png" width="32%" />
+<img src="plots/resultbar_2024-07-05-Samoa_V_Italy.png" width="32%" />
+<img src="plots/spreads_2024-07-05-Samoa_V_Italy.png" width="32%" />
 </p>
 
 ### Singapore V Chinese Taipei on 2024/07/05
 
 
-Average Margin: Singapore by 6.8
+Average Margin: Singapore by 7.1
 
 Average Scoreline: 26-19
 
@@ -206,19 +205,6 @@ Average Scoreline: 26-19
 <img src="plots/performances_2024-07-05-Singapore_V_ChineseTaipei.png" width="32%" />
 <img src="plots/resultbar_2024-07-05-Singapore_V_ChineseTaipei.png" width="32%" />
 <img src="plots/spreads_2024-07-05-Singapore_V_ChineseTaipei.png" width="32%" />
-</p>
-
-### Samoa V Italy on 2024/07/05
-
-
-Average Margin: Samoa by 2.0
-
-Average Scoreline: 23-21
-
-<p float="left">
-<img src="plots/performances_2024-07-05-Samoa_V_Italy.png" width="32%" />
-<img src="plots/resultbar_2024-07-05-Samoa_V_Italy.png" width="32%" />
-<img src="plots/spreads_2024-07-05-Samoa_V_Italy.png" width="32%" />
 </p>
 
 ### Georgia V Fiji on 2024/07/05
@@ -234,62 +220,36 @@ Average Scoreline: 25-24
 <img src="plots/spreads_2024-07-05-Georgia_V_Fiji.png" width="32%" />
 </p>
 
-### Argentina V France on 2024/07/06
+### Canada V Scotland on 2024/07/06
 
 
-Average Margin: France by 3.4
+Average Margin: Scotland by 22.3
 
-Average Scoreline: 26-23
+Average Scoreline: 31-9
 
 <p float="left">
-<img src="plots/performances_2024-07-06-Argentina_V_France.png" width="32%" />
-<img src="plots/resultbar_2024-07-06-Argentina_V_France.png" width="32%" />
-<img src="plots/spreads_2024-07-06-Argentina_V_France.png" width="32%" />
+<img src="plots/performances_2024-07-06-Canada_V_Scotland.png" width="32%" />
+<img src="plots/resultbar_2024-07-06-Canada_V_Scotland.png" width="32%" />
+<img src="plots/spreads_2024-07-06-Canada_V_Scotland.png" width="32%" />
 </p>
 
-### South Africa V Ireland on 2024/07/06
+### Chile V Hong Kong on 2024/07/06
 
 
-Average Margin: South Africa by 2.8
+Average Margin: Hong Kong by 8.6
 
-Average Scoreline: 28-26
-
-<p float="left">
-<img src="plots/performances_2024-07-06-SouthAfrica_V_Ireland.png" width="32%" />
-<img src="plots/resultbar_2024-07-06-SouthAfrica_V_Ireland.png" width="32%" />
-<img src="plots/spreads_2024-07-06-SouthAfrica_V_Ireland.png" width="32%" />
-</p>
-
-### Australia V Wales on 2024/07/06
-
-
-Average Margin: Australia by 4.2
-
-Average Scoreline: 27-23
+Average Scoreline: 28-19
 
 <p float="left">
-<img src="plots/performances_2024-07-06-Australia_V_Wales.png" width="32%" />
-<img src="plots/resultbar_2024-07-06-Australia_V_Wales.png" width="32%" />
-<img src="plots/spreads_2024-07-06-Australia_V_Wales.png" width="32%" />
-</p>
-
-### New Zealand V England on 2024/07/06
-
-
-Average Margin: New Zealand by 10.4
-
-Average Scoreline: 32-22
-
-<p float="left">
-<img src="plots/performances_2024-07-06-NewZealand_V_England.png" width="32%" />
-<img src="plots/resultbar_2024-07-06-NewZealand_V_England.png" width="32%" />
-<img src="plots/spreads_2024-07-06-NewZealand_V_England.png" width="32%" />
+<img src="plots/performances_2024-07-06-Chile_V_HongKong.png" width="32%" />
+<img src="plots/resultbar_2024-07-06-Chile_V_HongKong.png" width="32%" />
+<img src="plots/spreads_2024-07-06-Chile_V_HongKong.png" width="32%" />
 </p>
 
 ### United States of America V Romania on 2024/07/06
 
 
-Average Margin: United States of America by 17.9
+Average Margin: United States of America by 17.7
 
 Average Scoreline: 34-16
 
@@ -299,28 +259,54 @@ Average Scoreline: 34-16
 <img src="plots/spreads_2024-07-06-UnitedStatesofAmerica_V_Romania.png" width="32%" />
 </p>
 
-### Chile V Hong Kong on 2024/07/06
+### New Zealand V England on 2024/07/06
 
 
-Average Margin: Hong Kong by 8.3
+Average Margin: New Zealand by 10.7
 
-Average Scoreline: 27-19
+Average Scoreline: 32-22
 
 <p float="left">
-<img src="plots/performances_2024-07-06-Chile_V_HongKong.png" width="32%" />
-<img src="plots/resultbar_2024-07-06-Chile_V_HongKong.png" width="32%" />
-<img src="plots/spreads_2024-07-06-Chile_V_HongKong.png" width="32%" />
+<img src="plots/performances_2024-07-06-NewZealand_V_England.png" width="32%" />
+<img src="plots/resultbar_2024-07-06-NewZealand_V_England.png" width="32%" />
+<img src="plots/spreads_2024-07-06-NewZealand_V_England.png" width="32%" />
 </p>
 
-### Canada V Scotland on 2024/07/06
+### Argentina V France on 2024/07/06
 
 
-Average Margin: Scotland by 22.4
+Average Margin: France by 3.9
 
-Average Scoreline: 31-9
+Average Scoreline: 27-23
 
 <p float="left">
-<img src="plots/performances_2024-07-06-Canada_V_Scotland.png" width="32%" />
-<img src="plots/resultbar_2024-07-06-Canada_V_Scotland.png" width="32%" />
-<img src="plots/spreads_2024-07-06-Canada_V_Scotland.png" width="32%" />
+<img src="plots/performances_2024-07-06-Argentina_V_France.png" width="32%" />
+<img src="plots/resultbar_2024-07-06-Argentina_V_France.png" width="32%" />
+<img src="plots/spreads_2024-07-06-Argentina_V_France.png" width="32%" />
+</p>
+
+### Australia V Wales on 2024/07/06
+
+
+Average Margin: Australia by 4.0
+
+Average Scoreline: 27-23
+
+<p float="left">
+<img src="plots/performances_2024-07-06-Australia_V_Wales.png" width="32%" />
+<img src="plots/resultbar_2024-07-06-Australia_V_Wales.png" width="32%" />
+<img src="plots/spreads_2024-07-06-Australia_V_Wales.png" width="32%" />
+</p>
+
+### South Africa V Ireland on 2024/07/06
+
+
+Average Margin: South Africa by 2.6
+
+Average Scoreline: 28-26
+
+<p float="left">
+<img src="plots/performances_2024-07-06-SouthAfrica_V_Ireland.png" width="32%" />
+<img src="plots/resultbar_2024-07-06-SouthAfrica_V_Ireland.png" width="32%" />
+<img src="plots/spreads_2024-07-06-SouthAfrica_V_Ireland.png" width="32%" />
 </p>

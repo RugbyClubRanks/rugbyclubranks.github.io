@@ -69,27 +69,27 @@ RFC Los Angeles by 1.1 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             80 | Dane Zander           |             76.19 |        1 |             28.24 | Franco Van Den Berg |             80 |
-|             80 | Ben Strang            |             53.79 |        2 |             22.56 | Nic Souchon         |             80 |
-|             80 | Alex Maughan          |             39.5  |        3 |             29.93 | Paul Mullen         |             80 |
-|             80 | Jason Damm            |             44.58 |        4 |             15.68 | Frank Lochore       |             80 |
-|             80 | Reegan O'Gorman       |             53.25 |        5 |             29.09 | Saia Uhila          |             80 |
-|             80 | Bruce Kauika-Petersen |             49.14 |        6 |             20.21 | Bailey Wilson       |             80 |
-|             80 | Max Katjijeko         |             23.85 |        7 |             31.23 | Kalisi Moli         |             80 |
-|             80 | Semi Kunatani         |             17.92 |        8 |             23.12 | Dylan Nel           |             80 |
-|             80 | Cristian Rodriguez    |             55.84 |        9 |             24.91 | Kieran Mcclea       |             80 |
-|             80 | Tas Smith             |             18.47 |       10 |             13.45 | Joel Hodgson        |             80 |
-|             80 | Brooklyn Hardaker     |             46.29 |       11 |             58.19 | Joe Mano            |             80 |
-|             80 | Seth Purdey           |             46.43 |       12 |             30.92 | Paul Lasike         |             80 |
-|             80 | Will Leonard          |             36.71 |       13 |             17.27 | Lopeti Aisea        |             80 |
-|             80 | Andrew Coe            |             75.52 |       14 |             17.33 | Michael Manson      |             80 |
-|             80 | Rory Van Vugt         |             24.07 |       15 |             21.78 | Caleb Makene        |             80 |
-|              0 | Alessandro Heaney     |            nan    |       16 |             37.07 | Phil Bradford       |              0 |
-|              0 | Sam Buckley           |            nan    |       17 |             48.75 | Angus Maclellan     |              0 |
-|              0 | Conor Young           |             18.83 |       18 |            nan    | Tonga Kofe          |              0 |
+|             80 | Dane Zander           |             76.25 |        1 |             28.27 | Franco Van Den Berg |             80 |
+|             80 | Ben Strang            |             53.72 |        2 |             22.66 | Nic Souchon         |             80 |
+|             80 | Alex Maughan          |             39.5  |        3 |             29.97 | Paul Mullen         |             80 |
+|             80 | Jason Damm            |             44.4  |        4 |             15.76 | Frank Lochore       |             80 |
+|             80 | Reegan O'Gorman       |             53.12 |        5 |             28.94 | Saia Uhila          |             80 |
+|             80 | Bruce Kauika-Petersen |             49.04 |        6 |             20.29 | Bailey Wilson       |             80 |
+|             80 | Max Katjijeko         |             23.75 |        7 |             31.06 | Kalisi Moli         |             80 |
+|             80 | Semi Kunatani         |             17.99 |        8 |             23.22 | Dylan Nel           |             80 |
+|             80 | Cristian Rodriguez    |             55.86 |        9 |             25    | Kieran Mcclea       |             80 |
+|             80 | Tas Smith             |             18.55 |       10 |             13.51 | Joel Hodgson        |             80 |
+|             80 | Brooklyn Hardaker     |             46.32 |       11 |             58.28 | Joe Mano            |             80 |
+|             80 | Seth Purdey           |             46.31 |       12 |             30.84 | Paul Lasike         |             80 |
+|             80 | Will Leonard          |             36.66 |       13 |             17.34 | Lopeti Aisea        |             80 |
+|             80 | Andrew Coe            |             75.5  |       14 |             17.42 | Michael Manson      |             80 |
+|             80 | Rory Van Vugt         |             23.96 |       15 |             21.67 | Caleb Makene        |             80 |
+|              0 | Alessandro Heaney     |            nan    |       16 |             37.08 | Phil Bradford       |              0 |
+|              0 | Sam Buckley           |            nan    |       17 |             48.79 | Angus Maclellan     |              0 |
+|              0 | Conor Young           |             18.9  |       18 |            nan    | Tonga Kofe          |              0 |
 |              0 | Liam Antrobus         |            nan    |       19 |            nan    | Jonah Dietenberger  |              0 |
-|              0 | Derek Adams           |            nan    |       20 |             43.33 | Onehunga Havili     |              0 |
-|              0 | Matt Anticev          |             27.91 |       21 |            nan    | Sam Reimer          |              0 |
-|              0 | Austin White          |             33.61 |       22 |             30.83 | Thomas Tu'avao      |              0 |
-|              0 | Sam Walsh             |            nan    |       23 |             69.08 | Robbie Povey        |              0 |
+|              0 | Derek Adams           |            nan    |       20 |             43.1  | Onehunga Havili     |              0 |
+|              0 | Matt Anticev          |             28.02 |       21 |            nan    | Sam Reimer          |              0 |
+|              0 | Austin White          |             33.54 |       22 |             30.54 | Thomas Tu'avao      |              0 |
+|              0 | Sam Walsh             |            nan    |       23 |             68.95 | Robbie Povey        |              0 |
 

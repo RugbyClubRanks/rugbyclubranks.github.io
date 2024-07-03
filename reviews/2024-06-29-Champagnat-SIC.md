@@ -11,7 +11,7 @@ categories: "URBA Top 12 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.083, which translates to predicting SIC to win by 21.6.
 
-Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 34 to 12
+Our Over/Under is 59.5 - and combined with the spread above, we have a predicted scoreline of 40 to 19
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ SIC by 9.7 on a neutral pitch
 
 |   Away Minutes | Away Player             |   Away Percentile |   Number |   Home Percentile | Home Player                |   Home Minutes |
 |---------------:|:------------------------|------------------:|---------:|------------------:|:---------------------------|---------------:|
-|             82 | Marcos Piccinini        |             72.24 |        1 |             27.35 | Martin Rinaldelli          |             82 |
-|             82 | Ignacio Bottazzini      |             61.83 |        2 |             14.35 | Joaquin Guerra             |             82 |
-|             82 | Benjamin Chiappe        |             65.33 |        3 |             17.7  | Marcos Magaro              |             82 |
-|             82 | Tomas Borghi            |             72.98 |        4 |             22.88 | Tobias Rivas Orozco        |             82 |
-|             82 | Bautista Viero          |             68.34 |        5 |             10.16 | Inaki Ustariz              |             82 |
-|             82 | Andrea Panzarini        |             59.39 |        6 |             12.74 | Matias Alonso Boto         |             82 |
-|             82 | Alejo Daireaux          |             31.9  |        7 |             18.77 | Lucas Moresco              |             82 |
-|             82 | Tomas Meyrelles         |             70    |        8 |             12.5  | Matias Muniagurria         |             82 |
-|             82 | Felipe Sascaro          |             66.67 |        9 |              9.45 | Martin Graciarena          |             82 |
-|             82 | Santiago Pavlovsky      |             62.65 |       10 |             12.05 | Santos Panela              |             82 |
-|             82 | Nicanor Acosta          |             50.48 |       11 |             11.05 | Tomas Baca Castex          |             82 |
-|             82 | Santos Rubio            |             61.63 |       12 |             10.55 | Tobias Imbrosciano         |             82 |
-|             82 | Carlos Piran            |             48.09 |       13 |             28.96 | Marcos Lafuente            |             82 |
-|             82 | Franco Moneta           |             67.52 |       14 |             18.19 | Facundo Rufino             |             82 |
-|             82 | Bernabe Lopez Fleming   |             37.76 |       15 |             11    | Geronimo Tomasella         |             82 |
-|              0 | Franco Presta           |            nan    |       16 |             22.2  | Tomas Distel               |              0 |
-|              0 | Lucas Rocha             |             66.09 |       17 |             19.47 | Alberto Adissi             |              0 |
+|             82 | Marcos Piccinini        |             72.29 |        1 |             27.38 | Martin Rinaldelli          |             82 |
+|             82 | Ignacio Bottazzini      |             61.81 |        2 |             14.42 | Joaquin Guerra             |             82 |
+|             82 | Benjamin Chiappe        |             65.35 |        3 |             17.77 | Marcos Magaro              |             82 |
+|             82 | Tomas Borghi            |             72.94 |        4 |             22.99 | Tobias Rivas Orozco        |             82 |
+|             82 | Bautista Viero          |             68.29 |        5 |             10.21 | Inaki Ustariz              |             82 |
+|             82 | Andrea Panzarini        |             59.33 |        6 |             12.79 | Matias Alonso Boto         |             82 |
+|             82 | Alejo Daireaux          |             31.73 |        7 |             18.85 | Lucas Moresco              |             82 |
+|             82 | Tomas Meyrelles         |             69.87 |        8 |             12.55 | Matias Muniagurria         |             82 |
+|             82 | Felipe Sascaro          |             66.55 |        9 |              9.48 | Martin Graciarena          |             82 |
+|             82 | Santiago Pavlovsky      |             62.5  |       10 |             12.1  | Santos Panela              |             82 |
+|             82 | Nicanor Acosta          |             50.53 |       11 |             11.1  | Tomas Baca Castex          |             82 |
+|             82 | Santos Rubio            |             61.47 |       12 |             10.59 | Tobias Imbrosciano         |             82 |
+|             82 | Carlos Piran            |             47.98 |       13 |             28.87 | Marcos Lafuente            |             82 |
+|             82 | Franco Moneta           |             67.46 |       14 |             18.28 | Facundo Rufino             |             82 |
+|             82 | Bernabe Lopez Fleming   |             37.71 |       15 |             11.04 | Geronimo Tomasella         |             82 |
+|              0 | Franco Presta           |            nan    |       16 |             22.29 | Tomas Distel               |              0 |
+|              0 | Lucas Rocha             |             66.09 |       17 |             19.55 | Alberto Adissi             |              0 |
 |              0 | Juan Pedro Olcese       |             40.87 |       18 |            nan    | Gonzalo Costaguta          |              0 |
 |              0 | Pedro Georgalo          |            nan    |       19 |            nan    | Federico Dominguez         |              0 |
-|              0 | Ciro Ploruti            |             24.33 |       20 |            nan    | Felipe Rojo Bas            |              0 |
-|              0 | Lucas Albanese          |             24.57 |       21 |             34    | Tomas Alonso Boto          |              0 |
+|              0 | Ciro Ploruti            |             24.23 |       20 |            nan    | Felipe Rojo Bas            |              0 |
+|              0 | Lucas Albanese          |             24.5  |       21 |             33.85 | Tomas Alonso Boto          |              0 |
 |              0 | Agustin Sascaro         |            nan    |       22 |            nan    | Pedro Del Piano            |              0 |
 |              0 | Ramon Martinez Tomietto |            nan    |       23 |            nan    | Bautista Rodrigues-Navarro |              0 |
 

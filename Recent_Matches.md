@@ -40,7 +40,7 @@ Last Round Error: 17.37 points per match
 
 [In depth model review and projections for World Rugby U20 Championship 2024](comp_files/World_Rugby_U20_Championship_2024)
 
-Competition Accuracy: 2 of 2 (100.0%)
+Competition Accuracy: 1 of 1 (100.0%)
 
 Competition Error: 32.73 points per match
 
@@ -48,17 +48,17 @@ Last Round Accuracy: 1 of 1 (100.0%)
 
 Last Round Error: 32.73 points per match
 
-[2024-06-29 Fiji U20 at South Africa U20; 7-57](reviews//2024-06-29-SouthAfricaU20-FijiU20)
+[2024-06-29 Georgia U20 at Australia U20; 11-35](reviews//2024-06-29-AustraliaU20-GeorgiaU20)
 
 [2024-06-29 New Zealand U20 at Wales U20; 41-34](reviews//2024-06-29-WalesU20-NewZealandU20)
 
-[2024-06-29 Spain U20 at France U20; 12-49](reviews//2024-06-29-FranceU20-SpainU20)
-
 [2024-06-29 Italy U20 at Ireland U20; 15-55](reviews//2024-06-29-IrelandU20-ItalyU20)
+
+[2024-06-29 Spain U20 at France U20; 12-49](reviews//2024-06-29-FranceU20-SpainU20)
 
 [2024-06-29 Argentina U20 at England U20; 21-40](reviews//2024-06-29-EnglandU20-ArgentinaU20)
 
-[2024-06-29 Georgia U20 at Australia U20; 11-35](reviews//2024-06-29-AustraliaU20-GeorgiaU20)
+[2024-06-29 Fiji U20 at South Africa U20; 7-57](reviews//2024-06-29-SouthAfricaU20-FijiU20)
 # Top Flight Leagues
 
 ## Major League Rugby
@@ -116,12 +116,12 @@ Last Round Error: 10.24 points per match
 
 [2024-06-29 Regatas Bella Vista at Buenos Aires; 17-20](reviews//2024-06-29-BuenosAires-RegatasBellaVista)
 
-[2024-06-29 Hindu at Alumni; 19-24](reviews//2024-06-29-Alumni-Hindu)
-
-[2024-06-29 SIC at Champagnat; 39-6](reviews//2024-06-29-Champagnat-SIC)
+[2024-06-29 CASI at Newman; 14-37](reviews//2024-06-29-Newman-CASI)
 
 [2024-06-29 CUBA at Atletico del Rosario; 38-17](reviews//2024-06-29-AtleticodelRosario-CUBA)
 
-[2024-06-29 CASI at Newman; 14-37](reviews//2024-06-29-Newman-CASI)
+[2024-06-29 Hindu at Alumni; 19-24](reviews//2024-06-29-Alumni-Hindu)
 
 [2024-06-29 San Luis at Belgrano; 22-40](reviews//2024-06-29-Belgrano-SanLuis)
+
+[2024-06-29 SIC at Champagnat; 39-6](reviews//2024-06-29-Champagnat-SIC)

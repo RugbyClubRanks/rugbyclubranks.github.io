@@ -11,7 +11,7 @@ categories: "URBA Top 12 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.545, which translates to predicting Newman to win by 1.6.
 
-Our Over/Under is 55.5 - and combined with the spread above, we have a predicted scoreline of 27 to 29
+Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 26 to 28
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ CASI by 11.8 on a neutral pitch
 
 |   Away Minutes | Away Player                |   Away Percentile |   Number |   Home Percentile | Home Player               |   Home Minutes |
 |---------------:|:---------------------------|------------------:|---------:|------------------:|:--------------------------|---------------:|
-|             80 | Facundo Scaiano            |             31.7  |        1 |             89.22 | Miguel Prince             |             80 |
-|             80 | Juan Torres Obeid          |             78.23 |        2 |             91.17 | Marcelo Brandi            |             80 |
-|             80 | Juan Ignacio Nieto Sanchez |             77.55 |        3 |             93.48 | Bautista Bosch            |             80 |
-|             80 | Agustin Posleman           |             42.5  |        4 |             89.55 | Jeronimo Ureta            |             80 |
-|             80 | Leo Mazzini                |             73.08 |        5 |             77.32 | Alejandro Urtubey         |             80 |
-|             80 | Benjamin Rocca Rivarola    |             39.85 |        6 |             83.52 | Joaquin de la Vega        |             80 |
-|             80 | Joaquin Saenz de Miera     |             75.1  |        7 |             83.24 | Mateo Montoya             |             80 |
-|             80 | Luis Briatore              |             51.88 |        8 |             90.62 | Rodrigo Diaz de Vivar     |             80 |
-|             80 | Luca Canzani               |             71.31 |        9 |             91.75 | Lucas Marguery            |             80 |
-|             80 | Felipe Hileman             |             64.26 |       10 |             86.75 | Gonzalo Guiterrez Taboada |             80 |
-|             80 | Felipe Probaos             |             20.95 |       11 |             94.48 | Justo Ortiz Basualdo      |             80 |
-|             80 | Bruno Devoto               |             68.61 |       12 |             87.07 | Tomas Keena               |             80 |
-|             80 | Jeronimo Solveyra          |             68.61 |       13 |             59.57 | Benjamin Lanfranco        |             80 |
-|             80 | Santiago David             |             73.14 |       14 |             88.1  | Leandro Leivas            |             80 |
-|             80 | Juan Akemeier              |             68.26 |       15 |             87.76 | Santiago Marolda          |             80 |
-|              0 | Facundo Andreotti          |            nan    |       16 |             58.68 | Rodrigo Pueyrredon        |              0 |
-|              0 | Joaquin Britto             |             82.3  |       17 |            nan    | Isidro Bosch              |              0 |
+|             80 | Facundo Scaiano            |             31.74 |        1 |             89.18 | Miguel Prince             |             80 |
+|             80 | Juan Torres Obeid          |             78.29 |        2 |             91.13 | Marcelo Brandi            |             80 |
+|             80 | Juan Ignacio Nieto Sanchez |             77.63 |        3 |             93.46 | Bautista Bosch            |             80 |
+|             80 | Agustin Posleman           |             42.32 |        4 |             89.49 | Jeronimo Ureta            |             80 |
+|             80 | Leo Mazzini                |             73.04 |        5 |             77.21 | Alejandro Urtubey         |             80 |
+|             80 | Benjamin Rocca Rivarola    |             39.71 |        6 |             83.46 | Joaquin de la Vega        |             80 |
+|             80 | Joaquin Saenz de Miera     |             75    |        7 |             83.17 | Mateo Montoya             |             80 |
+|             80 | Luis Briatore              |             51.67 |        8 |             90.59 | Rodrigo Diaz de Vivar     |             80 |
+|             80 | Luca Canzani               |             71.21 |        9 |             91.72 | Lucas Marguery            |             80 |
+|             80 | Felipe Hileman             |             64.11 |       10 |             86.69 | Gonzalo Guiterrez Taboada |             80 |
+|             80 | Felipe Probaos             |             21.05 |       11 |             94.45 | Justo Ortiz Basualdo      |             80 |
+|             80 | Bruno Devoto               |             68.48 |       12 |             87.02 | Tomas Keena               |             80 |
+|             80 | Jeronimo Solveyra          |             68.48 |       13 |             59.4  | Benjamin Lanfranco        |             80 |
+|             80 | Santiago David             |             73.11 |       14 |             88.04 | Leandro Leivas            |             80 |
+|             80 | Juan Akemeier              |             68.12 |       15 |             87.71 | Santiago Marolda          |             80 |
+|              0 | Facundo Andreotti          |            nan    |       16 |             58.64 | Rodrigo Pueyrredon        |              0 |
+|              0 | Joaquin Britto             |             82.31 |       17 |            nan    | Isidro Bosch              |              0 |
 |              0 | Hugo Garcia                |            nan    |       18 |            nan    | Manuel Lozano             |              0 |
-|              0 | Bautista Belleze           |            nan    |       19 |             92.31 | Pablo Cardinal            |              0 |
+|              0 | Bautista Belleze           |            nan    |       19 |             92.27 | Pablo Cardinal            |              0 |
 |              0 | Away Team 20               |            nan    |       20 |            nan    | Faustino Santarelli       |              0 |
-|              0 | Tomas Phelan               |            nan    |       21 |             29.9  | Felix Branca              |              0 |
-|              0 | Jeronimo Tumbarello        |             73.43 |       22 |            nan    | Carlos Mendez Beherty     |              0 |
-|              0 | Tobias Casaurang           |            nan    |       23 |             73.01 | Silvestre Casa            |              0 |
+|              0 | Tomas Phelan               |            nan    |       21 |             29.83 | Felix Branca              |              0 |
+|              0 | Jeronimo Tumbarello        |             73.4  |       22 |            nan    | Carlos Mendez Beherty     |              0 |
+|              0 | Tobias Casaurang           |            nan    |       23 |             72.9  | Silvestre Casa            |              0 |
 
