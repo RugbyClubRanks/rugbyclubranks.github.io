@@ -11,7 +11,7 @@ categories: "URBA Top 12 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.819, which translates to predicting Belgrano to win by 13.5.
 
-Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 18 to 31
+Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 18 to 32
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Belgrano by 10.3 on a neutral pitch
 
 |   Away Minutes | Away Player                |   Away Percentile |   Number |   Home Percentile | Home Player              |   Home Minutes |
 |---------------:|:---------------------------|------------------:|---------:|------------------:|:-------------------------|---------------:|
-|             82 | Santiago Bonavento         |             26.49 |        1 |             88.85 | Francisco Ferronato      |             82 |
-|             82 | Agustin Fitzsimons Herrera |             22.5  |        2 |             89.54 | Francisco Lusarreta      |             82 |
-|             82 | Alexis Uvieda              |             64.3  |        3 |             83.12 | Lisandro Garcia Dragui   |             82 |
-|             82 | Ramiro Bruni               |             35.48 |        4 |             89.3  | Luciano Tecca            |             82 |
-|             82 | Santiago Canal             |             37.36 |        5 |             67.89 | Ramon Duggan             |             82 |
-|             82 | Nahuel Curti               |             22.31 |        6 |             86.15 | Joaquin de la Serna      |             82 |
-|             82 | Facundo Alvarez Amado      |             23.37 |        7 |             78.85 | Augusto Vaccarino        |             82 |
-|             82 | Agustin Torello            |             29.92 |        8 |             83.05 | Franco Vega              |             82 |
-|             82 | Martin Aereboe             |             25.34 |        9 |             76.9  | Ignacio Marino           |             82 |
-|             82 | Felipe Campodonico         |             41.94 |       10 |             70.16 | Juan Aparicio            |             82 |
-|             82 | Wilmer Ramirez             |             40.96 |       11 |             37.32 | Pedro Arana              |             82 |
-|             82 | Segundo Fresco             |             49.43 |       12 |             43.93 | Fermin Martinez          |             82 |
-|             82 | Benjamin Marban            |             33.33 |       13 |             81.72 | Tomas Etchepare          |             82 |
-|             82 | Eduardo Ruesta             |             36.94 |       14 |             85.26 | Ignacio Diaz             |             82 |
-|             82 | Valentino Quattrocchi      |             19.17 |       15 |             81.67 | Juan Lando               |             82 |
+|             82 | Santiago Bonavento         |             24.92 |        1 |             88.87 | Francisco Ferronato      |             82 |
+|             82 | Agustin Fitzsimons Herrera |             22.03 |        2 |             89.54 | Francisco Lusarreta      |             82 |
+|             82 | Alexis Uvieda              |             64.35 |        3 |             83.23 | Lisandro Garcia Dragui   |             82 |
+|             82 | Ramiro Bruni               |             34.82 |        4 |             89.42 | Luciano Tecca            |             82 |
+|             82 | Santiago Canal             |             35.71 |        5 |             68.05 | Ramon Duggan             |             82 |
+|             82 | Nahuel Curti               |             20.96 |        6 |             86.15 | Joaquin de la Serna      |             82 |
+|             82 | Facundo Alvarez Amado      |             22.5  |        7 |             78.85 | Augusto Vaccarino        |             82 |
+|             82 | Agustin Torello            |             28.66 |        8 |             83.05 | Franco Vega              |             82 |
+|             82 | Martin Aereboe             |             24.27 |        9 |             76.94 | Ignacio Marino           |             82 |
+|             82 | Felipe Campodonico         |             40.96 |       10 |             70.28 | Juan Aparicio            |             82 |
+|             82 | Wilmer Ramirez             |             39.01 |       11 |             37.28 | Pedro Arana              |             82 |
+|             82 | Segundo Fresco             |             48.03 |       12 |             43.98 | Fermin Martinez          |             82 |
+|             82 | Benjamin Marban            |             32.68 |       13 |             81.74 | Tomas Etchepare          |             82 |
+|             82 | Eduardo Ruesta             |             35.47 |       14 |             85.37 | Ignacio Diaz             |             82 |
+|             82 | Valentino Quattrocchi      |             18.75 |       15 |             81.67 | Juan Lando               |             82 |
 |              0 | Mateo Caffaro              |            nan    |       16 |            nan    | Jose Saporitti           |              0 |
-|              0 | Alejo Garcia               |             28.35 |       17 |             61.79 | Justo Duranona           |              0 |
-|              0 | Mateo Calistro             |             36.51 |       18 |            nan    | Santiago Garcia Botta    |              0 |
-|              0 | Lautaro Grys Arana         |            nan    |       19 |             69.08 | Mateo Gasparotti         |              0 |
-|              0 | Franco Gnecco              |             42.69 |       20 |            nan    | Rodrigo Fernandez Criado |              0 |
-|              0 | Juan Vaca                  |             56.38 |       21 |             67.94 | Joaquin Mihura           |              0 |
-|              0 | Santiago Gibert            |            nan    |       22 |             63.97 | Theo Blaksley            |              0 |
-|              0 | Felipe Crispo              |             53.12 |       23 |             81.05 | Tobias Bernabe           |              0 |
+|              0 | Alejo Garcia               |             28.31 |       17 |             61.85 | Justo Duranona           |              0 |
+|              0 | Mateo Calistro             |             36.45 |       18 |            nan    | Santiago Garcia Botta    |              0 |
+|              0 | Lautaro Grys Arana         |            nan    |       19 |             69.24 | Mateo Gasparotti         |              0 |
+|              0 | Franco Gnecco              |             42.79 |       20 |            nan    | Rodrigo Fernandez Criado |              0 |
+|              0 | Juan Vaca                  |             56.45 |       21 |             68.07 | Joaquin Mihura           |              0 |
+|              0 | Santiago Gibert            |            nan    |       22 |             64.03 | Theo Blaksley            |              0 |
+|              0 | Felipe Crispo              |             53.12 |       23 |             81.17 | Tobias Bernabe           |              0 |
 

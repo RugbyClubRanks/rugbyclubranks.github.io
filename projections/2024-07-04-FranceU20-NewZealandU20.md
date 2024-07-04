@@ -9,7 +9,7 @@ categories: "World Rugby U20 Championship 2024" match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.398, which translates to predicting New Zealand U20 to win by 1.1.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.398, which translates to predicting New Zealand U20 to win by 0.7.
 
 Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 27 to 26
 
@@ -69,27 +69,27 @@ France U20 by 0.6 on a neutral pitch
 
 | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player             |
 |:-------------------|------------------:|---------:|------------------:|:------------------------|
-| Will Martin        |             73.83 |        1 |             34.89 | Lino Julien             |
+| Will Martin        |             73.87 |        1 |             34.84 | Lino Julien             |
 | Vernon Bason       |             74.48 |        2 |             39.94 | Barnabé Massa           |
-| Logan Wallace      |            nan    |        3 |             63.57 | Zinédine Aouad          |
-| Tom Allen          |             68.68 |        4 |             60.36 | Corentin Mézou          |
-| Liam Jack          |             73.64 |        5 |             62.24 | Charles Kanté-Samba     |
+| Logan Wallace      |            nan    |        3 |             63.63 | Zinédine Aouad          |
+| Tom Allen          |             68.84 |        4 |             60.44 | Corentin Mézou          |
+| Liam Jack          |             73.59 |        5 |             62.31 | Charles Kanté-Samba     |
 | Andrew Smith       |             50.48 |        6 |             72.12 | Joé Quere-Karaba        |
 | Johnny Lee         |             60.25 |        7 |             72.02 | Geoffrey Malaterre      |
-| Mosese Bason       |            nan    |        8 |             72.98 | Mathis Castro           |
-| Dylan Pledger      |             71.72 |        9 |             56.72 | Léo Carbonneau          |
-| Rico Simpson       |             68.35 |       10 |             60.48 | Hugo Reus               |
-| Stanley Solomon    |             62.78 |       11 |             35.12 | Mathis Ferté            |
-| Xavi Taele         |             70.72 |       12 |             70.82 | Mathys Belaubre         |
-| Aki Tuivailala     |             50.47 |       13 |             72.79 | Fabien Brau-Boirie      |
-| Xavier Tito-Harris |            nan    |       14 |             64.11 | Nathan Bollengier       |
+| Mosese Bason       |            nan    |        8 |             73.17 | Mathis Castro           |
+| Dylan Pledger      |             71.77 |        9 |             56.8  | Léo Carbonneau          |
+| Rico Simpson       |             68.47 |       10 |             60.64 | Hugo Reus               |
+| Stanley Solomon    |             62.91 |       11 |             35.09 | Mathis Ferté            |
+| Xavi Taele         |             70.64 |       12 |             70.75 | Mathys Belaubre         |
+| Aki Tuivailala     |             50.52 |       13 |             72.82 | Fabien Brau-Boirie      |
+| Xavier Tito-Harris |            nan    |       14 |             64.24 | Nathan Bollengier       |
 | Isaac Hutchinson   |             48.54 |       15 |             65.21 | Xan Mousques            |
 | Manumaua Letiu     |            nan    |       16 |            nan    | Thomas Lacombre         |
 | Sika Pole          |            nan    |       17 |            nan    | Lorencio Boyer Gallardo |
-| Josh Smith         |             47.58 |       18 |            nan    | Thomas Duchêne          |
-| Cam Christie       |            nan    |       19 |             51.46 | Brent Liufau            |
+| Josh Smith         |             47.5  |       18 |            nan    | Thomas Duchêne          |
+| Cam Christie       |            nan    |       19 |             51.67 | Brent Liufau            |
 | Matt Lowe          |             60.96 |       20 |             50.1  | Sialevailea Tolofua     |
-| Ben O'Donovan      |             43.97 |       21 |             73.62 | Thomas Souverbie        |
-| Sam Coles          |             64.79 |       22 |             67.37 | Maxence Biasotto        |
-| King Maxwell       |             73.78 |       23 |             82.92 | Axel Desperes           |
+| Ben O'Donovan      |             43.89 |       21 |             73.67 | Thomas Souverbie        |
+| Sam Coles          |             64.79 |       22 |             67.5  | Maxence Biasotto        |
+| King Maxwell       |             73.9  |       23 |             82.92 | Axel Desperes           |
 

@@ -9,7 +9,7 @@ categories: "World Rugby U20 Championship 2024" match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.921, which translates to predicting England U20 to win by 28.8.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.921, which translates to predicting England U20 to win by 29.3.
 
 Our Over/Under is 71.5 - and combined with the spread above, we have a predicted scoreline of 21 to 50
 
@@ -72,24 +72,24 @@ England U20 by 5.9 on a neutral pitch
 | Mataiasi Tuisireli      |            nan    |        1 |            nan    | Cameron Miell        |
 | Moses Armstrong-Ravula  |             39.46 |        2 |             54.36 | James Isaacs         |
 | Elroy Macomber          |            nan    |        3 |            nan    | Jimmy Halliwell      |
-| Nalani May              |             40.44 |        4 |            nan    | Harvey Cuckson       |
-| Iliesa Erenavula        |             37.76 |        5 |             65.51 | Olamide Sodeke       |
+| Nalani May              |             40.36 |        4 |            nan    | Harvey Cuckson       |
+| Iliesa Erenavula        |             37.69 |        5 |             65.68 | Olamide Sodeke       |
 | Ebenezer Tuidraki       |             34.18 |        6 |             86.44 | Finn Carnduff        |
 | Ronald Sharma           |             34.18 |        7 |            nan    | Kane James           |
 | Simon Koroiyadi         |             32.01 |        8 |            nan    | Arthur Green         |
-| Aisea Nawai             |             40.34 |        9 |             45.52 | Ollie Allan          |
-| Bogi Kikau              |             37.9  |       10 |            nan    | Ben Coen             |
-| Sivaniolo Kalaveti      |             34.27 |       11 |            nan    | Angus Hall           |
-| Josefa Ubitau           |            nan    |       12 |             73.1  | Oliver Spencer       |
-| Harry Valevatu          |            nan    |       13 |             44.13 | Ben Waghorn          |
-| Avakuki Niusalelekitoga |             37.18 |       14 |             84.21 | Toby Cousins         |
+| Aisea Nawai             |             40.28 |        9 |             45.44 | Ollie Allan          |
+| Bogi Kikau              |             37.95 |       10 |            nan    | Ben Coen             |
+| Sivaniolo Kalaveti      |             34.23 |       11 |            nan    | Angus Hall           |
+| Josefa Ubitau           |            nan    |       12 |             73.03 | Oliver Spencer       |
+| Harry Valevatu          |            nan    |       13 |             44.19 | Ben Waghorn          |
+| Avakuki Niusalelekitoga |             37.14 |       14 |             84.32 | Toby Cousins         |
 | Isikeli Basiyalo        |             34.79 |       15 |             74.58 | Ioan Jones           |
 | Iowane Vakadrigi        |            nan    |       16 |             84.94 | Craig Wright         |
-| Breyton Legge           |             40.06 |       17 |             85.86 | Asher Opoku-Fordjour |
+| Breyton Legge           |             40.08 |       17 |             85.89 | Asher Opoku-Fordjour |
 | Luke Nasau              |            nan    |       18 |            nan    | Afolabi Fasogbon     |
-| Malakai Masi            |            nan    |       19 |             82.56 | Junior Kpoku         |
-| Ratu Nemani Kurucake    |            nan    |       20 |             81.73 | Henry Pollock        |
+| Ratu Nemani Kurucake    |            nan    |       19 |             82.59 | Junior Kpoku         |
+| Malakai Masi            |            nan    |       20 |             81.73 | Henry Pollock        |
 | Samuela Ledua           |            nan    |       21 |            nan    | Lucas Friday         |
-| Ponipate Tuberi         |            nan    |       22 |             61.29 | Josh Bellamy         |
-| Benjiman Naivalu        |            nan    |       23 |             84.5  | Alex Wills           |
+| Ponipate Tuberi         |            nan    |       22 |             61.65 | Josh Bellamy         |
+| Benjiman Naivalu        |            nan    |       23 |             84.61 | Alex Wills           |
 

@@ -11,7 +11,7 @@ categories: "Major League Rugby 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.612, which translates to predicting Old Glory DC to win by 4.1.
 
-Our Over/Under is 55.5 - and combined with the spread above, we have a predicted scoreline of 26 to 30
+Our Over/Under is 58.5 - and combined with the spread above, we have a predicted scoreline of 27 to 31
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ NOLA Gold by 2.5 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             80 | Matt Harmon         |             73.1  |        1 |             50.97 | Cali Martinez         |             80 |
+|             80 | Matt Harmon         |             73.06 |        1 |             50.97 | Cali Martinez         |             80 |
 |             80 | Pat O'Toole         |             74.8  |        2 |             52.93 | Martín Vaca           |             80 |
-|             80 | Sean Paranihi       |             51.13 |        3 |             79.81 | Stevie Longwell       |             80 |
-|             80 | Callum Botchar      |             80.18 |        4 |             64.52 | Rob Harley            |             80 |
-|             80 | Fintan Coleman      |             42.22 |        5 |             65.11 | Tevita Naqali         |             80 |
+|             80 | Sean Paranihi       |             51.13 |        3 |             79.76 | Stevie Longwell       |             80 |
+|             80 | Callum Botchar      |             80.32 |        4 |             64.79 | Rob Harley            |             80 |
+|             80 | Fintan Coleman      |             42.24 |        5 |             65.28 | Tevita Naqali         |             80 |
 |             80 | Moni Tonga'Uiha     |             86.25 |        6 |             49.62 | Collin Grosse         |             80 |
 |             80 | Jonah Mau'U         |             69.62 |        7 |             62.6  | Cory Gilliland-Daniel |             80 |
 |             80 | Tom Florence        |             58.58 |        8 |             57.32 | Lautaro Bavaro        |             80 |
-|             80 | Damian Stevens      |              8.1  |        9 |             62.07 | Ethan Mcveigh         |             80 |
-|             80 | Rodney Iona         |             76.41 |       10 |             48.59 | Jason Robertson       |             80 |
-|             80 | Julian Roberts      |             55.41 |       11 |             62.63 | Axel Muller           |             80 |
-|             80 | Jp Du Plessis       |             74.66 |       12 |              3.63 | Tommaso Boni          |             80 |
-|             80 | Ross Depperschmidt  |             62.72 |       13 |             59.81 | John Powers           |             80 |
-|             80 | Taniela Filimone    |             86.22 |       14 |             62.63 | Perry Humphreys       |             80 |
+|             80 | Damian Stevens      |              8.09 |        9 |             62.13 | Ethan Mcveigh         |             80 |
+|             80 | Rodney Iona         |             76.51 |       10 |             48.59 | Jason Robertson       |             80 |
+|             80 | Julian Roberts      |             55.54 |       11 |             62.76 | Axel Muller           |             80 |
+|             80 | Jp Du Plessis       |             74.69 |       12 |              3.63 | Tommaso Boni          |             80 |
+|             80 | Ross Depperschmidt  |             62.76 |       13 |             59.75 | John Powers           |             80 |
+|             80 | Taniela Filimone    |             86.33 |       14 |             62.76 | Perry Humphreys       |             80 |
 |             80 | Jordan Jackson-Hope |             72.5  |       15 |             53.96 | Damien Hoyland        |             80 |
 |              0 | Diego Fortuny       |            nan    |       16 |            nan    | Koikoi Nelligan       |              0 |
-|              0 | Bart Vermeulen      |            nan    |       17 |             46.93 | Quentin Newcomer      |              0 |
+|              0 | Bart Vermeulen      |            nan    |       17 |             46.85 | Quentin Newcomer      |              0 |
 |              0 | Trent Rogers        |            nan    |       18 |            nan    | Tyler Rowland         |              0 |
-|              0 | Maciu Koroi         |            nan    |       19 |             45.89 | Bill Whiteside        |              0 |
-|              0 | Osaiasi Tonga'Uiha  |            nan    |       20 |             43.46 | Brady Daniel          |              0 |
-|              0 | Sebastiano Villani  |            nan    |       21 |             48.28 | Connor Buckley        |              0 |
-|              0 | Jack Webster        |            nan    |       22 |             56.25 | Gradyn Bowd           |              0 |
-|              0 | Reece Botha         |             75.6  |       23 |             42.26 | Willie Talataina-Mu   |              0 |
+|              0 | Maciu Koroi         |            nan    |       19 |             45.9  | Bill Whiteside        |              0 |
+|              0 | Osaiasi Tonga'Uiha  |            nan    |       20 |             43.56 | Brady Daniel          |              0 |
+|              0 | Sebastiano Villani  |            nan    |       21 |             48.36 | Connor Buckley        |              0 |
+|              0 | Jack Webster        |            nan    |       22 |             56.43 | Gradyn Bowd           |              0 |
+|              0 | Reece Botha         |             75.7  |       23 |             42.32 | Willie Talataina-Mu   |              0 |
 

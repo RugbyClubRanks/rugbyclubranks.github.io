@@ -11,7 +11,7 @@ categories: "URBA Top 12 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.703, which translates to predicting Buenos Aires to win by 7.8.
 
-Our Over/Under is 39.5 - and combined with the spread above, we have a predicted scoreline of 16 to 24
+Our Over/Under is 44.5 - and combined with the spread above, we have a predicted scoreline of 18 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Buenos Aires by 0.6 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player            |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:-----------------------|---------------:|
-|             80 | Tomas Barbaccia      |             17.45 |        1 |             78.11 | Pablo Gaston Vaca      |             80 |
+|             80 | Tomas Barbaccia      |             17.02 |        1 |             78.15 | Pablo Gaston Vaca      |             80 |
 |             80 | Beltran Landivar     |             46.43 |        2 |             73.06 | Tomas Rosasco          |             80 |
-|             80 | Mateo Trimarco       |             46.53 |        3 |             62.28 | Tomas Gallo            |             80 |
-|             80 | Marcelo Toledo       |             45.79 |        4 |             67.99 | Francisco Jose Sluga   |             80 |
-|             80 | Valentin Sanguinetti |             30.53 |        5 |             65.01 | Bautista Duranona      |             80 |
-|             80 | Marcos Ferro         |             43.94 |        6 |             54.04 | Valentin Arauz         |             80 |
-|             80 | Tomas Sanguinetti    |             23.27 |        7 |             63.65 | Matias Espina          |             80 |
-|             80 | Felipe Camerlinckx   |             23.01 |        8 |             29.5  | Tomas Etcheverry       |             80 |
-|             80 | Marcos Joseph        |             20.34 |        9 |             51.03 | Mateo Freire           |             80 |
-|             80 | Mateo Camerlinckx    |             20.16 |       10 |             58.06 | Mateo Capalbo          |             80 |
-|             80 | Francisco Pisani     |             19.52 |       11 |             46.89 | Benjamin Handley       |             80 |
-|             80 | Juan Corso           |             43.82 |       12 |             60.75 | Agustin Lamensa Sanudo |             80 |
-|             80 | Alejo Barrera        |             20.35 |       13 |             58.05 | Ramiro Costa           |             80 |
-|             80 | Rafael Santana       |             30.33 |       14 |             65.65 | Alfonso Latorre        |             80 |
-|             80 | Enrique Camerlinckx  |             16.46 |       15 |             61.46 | Julian Quetglas Bojar  |             80 |
-|              0 | Pedro Colinas        |             20.92 |       16 |             43.26 | Valentino Minoyetti    |              0 |
-|              0 | Juan Gobet           |             26.25 |       17 |            nan    | Home Team 17           |              0 |
-|              0 | Diego Aguero         |            nan    |       18 |             30.45 | Tomas Herrador         |              0 |
-|              0 | Lucas Gobet          |             15.87 |       19 |            nan    | Athos Touzet           |              0 |
-|              0 | Francisco Ploder     |             48.46 |       20 |             47.07 | Tomas Alvarez Bayon    |              0 |
-|              0 | Gonzalo Deluca       |            nan    |       21 |             62.41 | Juan Monasterio        |              0 |
-|              0 | Justo Camerlinckx    |             37.3  |       22 |             48.99 | Tomas Bunge            |              0 |
-|              0 | Ramiro Moadeb        |             19.63 |       23 |            nan    | Simon Mimessi          |              0 |
+|             80 | Mateo Trimarco       |             46.45 |        3 |             62.34 | Tomas Gallo            |             80 |
+|             80 | Marcelo Toledo       |             45.8  |        4 |             68.15 | Francisco Jose Sluga   |             80 |
+|             80 | Valentin Sanguinetti |             29.57 |        5 |             65.18 | Bautista Duranona      |             80 |
+|             80 | Marcos Ferro         |             42.4  |        6 |             54.04 | Valentin Arauz         |             80 |
+|             80 | Tomas Sanguinetti    |             22.6  |        7 |             63.65 | Matias Espina          |             80 |
+|             80 | Felipe Camerlinckx   |             22.38 |        8 |             29.71 | Tomas Etcheverry       |             80 |
+|             80 | Marcos Joseph        |             19.28 |        9 |             51.12 | Mateo Freire           |             80 |
+|             80 | Mateo Camerlinckx    |             19.48 |       10 |             58.23 | Mateo Capalbo          |             80 |
+|             80 | Francisco Pisani     |             18.83 |       11 |             46.85 | Benjamin Handley       |             80 |
+|             80 | Juan Corso           |             42.63 |       12 |             60.68 | Agustin Lamensa Sanudo |             80 |
+|             80 | Alejo Barrera        |             19.81 |       13 |             58.09 | Ramiro Costa           |             80 |
+|             80 | Rafael Santana       |             29.54 |       14 |             65.77 | Alfonso Latorre        |             80 |
+|             80 | Enrique Camerlinckx  |             15.62 |       15 |             61.46 | Julian Quetglas Bojar  |             80 |
+|              0 | Pedro Colinas        |             20.6  |       16 |             43.26 | Valentino Minoyetti    |              0 |
+|              0 | Juan Gobet           |             24.84 |       17 |            nan    | Home Team 17           |              0 |
+|              0 | Diego Aguero         |            nan    |       18 |             30.56 | Tomas Herrador         |              0 |
+|              0 | Lucas Gobet          |             15.67 |       19 |            nan    | Athos Touzet           |              0 |
+|              0 | Francisco Ploder     |             48.47 |       20 |             47.07 | Tomas Alvarez Bayon    |              0 |
+|              0 | Gonzalo Deluca       |            nan    |       21 |             62.48 | Juan Monasterio        |              0 |
+|              0 | Justo Camerlinckx    |             37.35 |       22 |             49    | Tomas Bunge            |              0 |
+|              0 | Ramiro Moadeb        |             19.61 |       23 |            nan    | Simon Mimessi          |              0 |
 

@@ -11,7 +11,7 @@ categories: "Major League Rugby 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.676, which translates to predicting San Diego Legion to win by 6.6.
 
-Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 23 to 29
+Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 23 to 30
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ San Diego Legion by 0.7 on a neutral pitch
 
 |   Away Minutes | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             80 | Cameron Orr       |             79.64 |        1 |             81.42 | Payton Telea-Ilalio  |             80 |
+|             80 | Cameron Orr       |             79.68 |        1 |             81.45 | Payton Telea-Ilalio  |             80 |
 |             80 | Daquan Perry      |             44.06 |        2 |             65.45 | Hugh Roach           |             80 |
-|             80 | Sam Matenga       |             75.36 |        3 |             78.43 | Luke Green           |             80 |
-|             80 | Isaia Lotawa      |             36.87 |        4 |             66.6  | Jay Tuivaiti         |             80 |
-|             80 | Mahonri Ngakuru   |             51.64 |        5 |             59.07 | Charlie Hewitt       |             80 |
-|             80 | Devin Short       |             68.94 |        6 |             80.48 | Vili Helu            |             80 |
+|             80 | Sam Matenga       |             75.48 |        3 |             78.47 | Luke Green           |             80 |
+|             80 | Isaia Lotawa      |             36.89 |        4 |             66.77 | Jay Tuivaiti         |             80 |
+|             80 | Mahonri Ngakuru   |             51.63 |        5 |             59.05 | Charlie Hewitt       |             80 |
+|             80 | Devin Short       |             68.85 |        6 |             80.48 | Vili Helu            |             80 |
 |             80 | Monate Akuei      |             69.33 |        7 |             59.62 | Blair Cowan          |             80 |
 |             80 | Huw Taylor        |             71.34 |        8 |             75.94 | Tupou Ma'Afu-Afungia |             80 |
-|             80 | Ryan Rees         |             40.69 |        9 |             57.59 | Danny Christensen    |             80 |
-|             80 | Mack Mason        |             70.36 |       10 |             69.15 | Matt Giteau          |             80 |
-|             80 | Lauina Futi       |             58.18 |       11 |             76.7  | Ryan James           |             80 |
-|             80 | Tavite Lopeti     |             91.69 |       12 |             71.44 | Ma'A Nonu            |             80 |
-|             80 | Divan Rossouw     |             35.2  |       13 |             51.61 | Filimoni Waqainabete |             80 |
-|             80 | Jeremiah Sio      |             34.93 |       14 |             76.7  | Tomas Aoake          |             80 |
+|             80 | Ryan Rees         |             40.62 |        9 |             57.66 | Danny Christensen    |             80 |
+|             80 | Mack Mason        |             70.48 |       10 |             69.28 | Matt Giteau          |             80 |
+|             80 | Lauina Futi       |             58.32 |       11 |             76.82 | Ryan James           |             80 |
+|             80 | Tavite Lopeti     |             91.6  |       12 |             71.37 | Ma'A Nonu            |             80 |
+|             80 | Divan Rossouw     |             35.06 |       13 |             51.66 | Filimoni Waqainabete |             80 |
+|             80 | Jeremiah Sio      |             34.89 |       14 |             76.82 | Tomas Aoake          |             80 |
 |             80 | Duncan Matthews   |             48.96 |       15 |             52.5  | Mikey Te'O           |             80 |
 |              0 | Jackson Zabierek  |             61.01 |       16 |             57.21 | Cyrille Cama         |              0 |
 |              0 | Dewald Donald     |             56.89 |       17 |            nan    | Faka'Osi Pifeleti    |              0 |
-|              0 | Chance Wenglewski |            nan    |       18 |             57.59 | Darcy Breen          |              0 |
-|              0 | Taylor Krumrei    |             51.73 |       19 |             62.74 | Brandon Harvey       |              0 |
+|              0 | Chance Wenglewski |            nan    |       18 |             57.74 | Darcy Breen          |              0 |
+|              0 | Taylor Krumrei    |             51.73 |       19 |             62.81 | Brandon Harvey       |              0 |
 |              0 | Pago Haini        |             41.84 |       20 |             93.94 | Paddy Ryan           |              0 |
-|              0 | Jp Smith          |             76.03 |       21 |             47.49 | Tevita Tameilau      |              0 |
+|              0 | Jp Smith          |             76.08 |       21 |             47.49 | Tevita Tameilau      |              0 |
 |              0 | Sam Windsor       |             50.6  |       22 |            nan    | Nick Boyer           |              0 |
-|              0 | Rhys Jones        |            nan    |       23 |             52.62 | Lincoln Mcclutchie   |              0 |
+|              0 | Rhys Jones        |            nan    |       23 |             52.61 | Lincoln Mcclutchie   |              0 |
 
