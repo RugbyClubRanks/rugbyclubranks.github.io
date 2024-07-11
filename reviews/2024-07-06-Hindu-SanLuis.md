@@ -69,27 +69,27 @@ Hindu by 0.3 on a neutral pitch
 
 |   Away Minutes | Away Player                |   Away Percentile |   Number |   Home Percentile | Home Player                |   Home Minutes |
 |---------------:|:---------------------------|------------------:|---------:|------------------:|:---------------------------|---------------:|
-|             80 | Santiago Bonavento         |             42.25 |        1 |             20.65 | Juan Ignacio Martinez Sosa |             80 |
-|             80 | Agustin Fitzsimons Herrera |             39.24 |        2 |              8.61 | Agustin Capurro            |             80 |
-|             80 | Alexis Uvieda              |             75.13 |        3 |              7.75 | Nicolas Leiva              |             80 |
-|             80 | Ramiro Bruni               |             49.31 |        4 |             28.92 | Carlos Repetto             |             80 |
-|             80 | Santiago Canal             |             50.91 |        5 |             15.69 | Juan Ignacio Comolli       |             80 |
-|             80 | Facundo Alvarez Amado      |             35.77 |        6 |             23.2  | Tomas Scallan              |             80 |
-|             80 | Franco Gnecco              |             55.46 |        7 |              8.87 | Santino Amayav             |             80 |
-|             80 | Agustin Torello            |             44.06 |        8 |             25.64 | Nicolas Amaya              |             80 |
-|             80 | Juan Vaca                  |             65.38 |        9 |             21.73 | Lucas Fernandez Miranda    |             80 |
-|             80 | Felipe Campodonico         |             50.89 |       10 |             93.75 | Santiago Fernandez         |             80 |
-|             80 | Felipe Crispo              |             67.72 |       11 |             38.3  | Federico Graglia           |             80 |
-|             80 | Segundo Fresco             |             58    |       12 |             10.81 | Bautista Farise            |             80 |
-|             80 | Benjamin Marban            |             44.71 |       13 |             30.86 | Juan Fernandez Miranda     |             80 |
-|             80 | Wilmer Ramirez             |             52.2  |       14 |             32.28 | Alfredo Mayol              |             80 |
-|             80 | Valentino Quattrocchi      |             27.65 |       15 |             51.15 | Joaquin Diaz Bonilla       |             80 |
+|             80 | Santiago Bonavento         |             42.41 |        1 |             19.66 | Juan Ignacio Martinez Sosa |             80 |
+|             80 | Agustin Fitzsimons Herrera |             38.17 |        2 |              8.55 | Agustin Capurro            |             80 |
+|             80 | Alexis Uvieda              |             77.1  |        3 |              6.94 | Nicolas Leiva              |             80 |
+|             80 | Ramiro Bruni               |             48.81 |        4 |             27.02 | Carlos Repetto             |             80 |
+|             80 | Santiago Canal             |             50.9  |        5 |             14.27 | Juan Ignacio Comolli       |             80 |
+|             80 | Facundo Alvarez Amado      |             35.16 |        6 |             21.89 | Tomas Scallan              |             80 |
+|             80 | Franco Gnecco              |             59    |        7 |              8.72 | Santino Amayav             |             80 |
+|             80 | Agustin Torello            |             42.57 |        8 |             22.49 | Nicolas Amaya              |             80 |
+|             80 | Juan Vaca                  |             68.16 |        9 |             20.23 | Lucas Fernandez Miranda    |             80 |
+|             80 | Felipe Campodonico         |             54.72 |       10 |             94.41 | Santiago Fernandez         |             80 |
+|             80 | Felipe Crispo              |             70.35 |       11 |             37.68 | Federico Graglia           |             80 |
+|             80 | Segundo Fresco             |             60.68 |       12 |             10.23 | Bautista Farise            |             80 |
+|             80 | Benjamin Marban            |             45.44 |       13 |             30.19 | Juan Fernandez Miranda     |             80 |
+|             80 | Wilmer Ramirez             |             53.19 |       14 |             31.57 | Alfredo Mayol              |             80 |
+|             80 | Valentino Quattrocchi      |             28.83 |       15 |             57.26 | Joaquin Diaz Bonilla       |             80 |
 |              0 | Mateo Caffaro              |            nan    |       16 |            nan    | Benjamin Silveyra          |              0 |
-|              0 | Alejo Garcia               |             30.46 |       17 |             16.27 | Franco Diviesti            |              0 |
-|              0 | Mateo Calistro             |             36.75 |       18 |            nan    | Mariano Leiva              |              0 |
-|              0 | Nahuel Curti               |             22.68 |       19 |            nan    | Victor Franco              |              0 |
+|              0 | Alejo Garcia               |             28.76 |       17 |             15.5  | Franco Diviesti            |              0 |
+|              0 | Mateo Calistro             |             36.31 |       18 |            nan    | Mariano Leiva              |              0 |
+|              0 | Nahuel Curti               |             21.71 |       19 |            nan    | Victor Franco              |              0 |
 |              0 | Luka Gullo                 |            nan    |       20 |            nan    | Juan Pacheco               |              0 |
-|              0 | Isidro Lazzarini           |             35.71 |       21 |            nan    | Gaspar Jeckeln             |              0 |
+|              0 | Isidro Lazzarini           |             34.68 |       21 |            nan    | Gaspar Jeckeln             |              0 |
 |              0 | Santiago Gibert            |            nan    |       22 |            nan    | Pedro Miranda              |              0 |
 |              0 | Lautaro Grys Arana         |            nan    |       23 |            nan    | Nicolas Marzano            |              0 |
 

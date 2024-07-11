@@ -9,9 +9,9 @@ categories: "World Rugby U20 Trophy 2023" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.021, which translates to predicting United States of America U20 to win by 45.6.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.023, which translates to predicting United States of America U20 to win by 44.4.
 
-Our Over/Under is 79.5 - and combined with the spread above, we have a predicted scoreline of 62 to 17
+Our Over/Under is 78.5 - and combined with the spread above, we have a predicted scoreline of 61 to 17
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model

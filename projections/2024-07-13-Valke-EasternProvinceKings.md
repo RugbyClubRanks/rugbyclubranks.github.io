@@ -9,7 +9,7 @@ categories: "Currie Cup First Division 2023" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.642, which translates to predicting Valke to win by 5.1.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.636, which translates to predicting Valke to win by 4.9.
 
 Our Over/Under is 69.5 - and combined with the spread above, we have a predicted scoreline of 32 to 37
 
