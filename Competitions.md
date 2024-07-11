@@ -8,7 +8,7 @@ key: page-recents
 ## International Test Match
 
 
-[2024](comp_files\International_Test_Match_2024) - Prediction Accuracy: 71.1% 
+[2024](comp_files\International_Test_Match_2024) - Prediction Accuracy: 69.4% 
 
 [2023](comp_files\International_Test_Match_2023) - Prediction Accuracy: 77.8% 
 
@@ -17,6 +17,18 @@ key: page-recents
 [2021](comp_files\International_Test_Match_2021) - Prediction Accuracy: 68.4% 
 
 [2020](comp_files\International_Test_Match_2020) - Prediction Accuracy: 68.8% 
+## Rugby Championship
+
+
+[2024](comp_files\Rugby_Championship_2024)
+
+[2023](comp_files\Rugby_Championship_2023)
+
+[2022](comp_files\Rugby_Championship_2022) - Prediction Accuracy: 58.3% 
+
+[2021](comp_files\Rugby_Championship_2021) - Prediction Accuracy: 76.9% 
+
+[2020](comp_files\Rugby_Championship_2020) - Prediction Accuracy: 28.6% 
 ## Rugby Europe Championship
 
 
@@ -41,16 +53,6 @@ key: page-recents
 [2021](comp_files\Six_Nations_Championship_2021) - Prediction Accuracy: 60.0% 
 
 [2020](comp_files\Six_Nations_Championship_2020) - Prediction Accuracy: 80.0% 
-## Rugby Championship
-
-
-[2023](comp_files\Rugby_Championship_2023)
-
-[2022](comp_files\Rugby_Championship_2022) - Prediction Accuracy: 58.3% 
-
-[2021](comp_files\Rugby_Championship_2021) - Prediction Accuracy: 76.9% 
-
-[2020](comp_files\Rugby_Championship_2020) - Prediction Accuracy: 28.6% 
 ## Asia Rugby Championship - Top 3
 
 
@@ -60,7 +62,7 @@ key: page-recents
 ## World Rugby U20 Championship
 
 
-[2024](comp_files\World_Rugby_U20_Championship_2024) - Prediction Accuracy: 83.3% 
+[2024](comp_files\World_Rugby_U20_Championship_2024) - Prediction Accuracy: 70.6% 
 
 [2023](comp_files\World_Rugby_U20_Championship_2023) - Prediction Accuracy: 100.0% 
 ## Autumn Nations Series
@@ -248,7 +250,7 @@ key: page-recents
 ## Currie Cup
 
 
-[2024](comp_files\Currie_Cup_2024)
+[2024](comp_files\Currie_Cup_2024) - Prediction Accuracy: 25.0% 
 
 [2023](comp_files\Currie_Cup_2023) - Prediction Accuracy: 56.4% 
 
@@ -328,4 +330,4 @@ key: page-recents
 ## URBA Top 12
 
 
-[2024](comp_files\URBA_Top_12_2024) - Prediction Accuracy: 62.1% 
+[2024](comp_files\URBA_Top_12_2024) - Prediction Accuracy: 62.5% 

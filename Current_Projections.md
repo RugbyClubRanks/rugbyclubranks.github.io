@@ -10,55 +10,77 @@ key: page-projections
 
 [In depth model review and projections for International Test Match 2024](comp_files/International_Test_Match_2024)
 
-Competition Accuracy: 27 of 38 (71.05%)
+Competition Accuracy: 34 of 49 (69.39%)
 
-Competition Error: 26.08 points per match
+Competition Error: 23.24 points per match
 
-Last Round Accuracy: 16 of 24 (66.67%)
+Last Round Accuracy: 20 of 32 (62.5%)
 
-Last Round Error: 30.41 points per match
+Last Round Error: 25.27 points per match
 
-[2024-07-05 Chinese Taipei (~800.96) at Singapore (~938.83)](projections/2024-07-05-Singapore-ChineseTaipei)
+[2024-07-10 France (~1870.57) at Uruguay (~1490.68)](projections/2024-07-10-Uruguay-France)
 
-[2024-07-05 Fiji (~1656.58) at Georgia (~1676.18)](projections/2024-07-05-Georgia-Fiji)
+[2024-07-12 Scotland (~1803.65) at United States of America (~1507.79)](projections/2024-07-12-UnitedStatesofAmerica-Scotland)
 
-[2024-07-06 France (~1844.64) at Argentina (~1768.9)](projections/2024-07-06-Argentina-France)
+[2024-07-12 Italy (~1666.19) at Tonga (~1607.01)](projections/2024-07-12-Tonga-Italy)
 
-[2024-07-06 Romania (~1234.42) at United States of America (~1580.7)](projections/2024-07-06-UnitedStatesofAmerica-Romania)
+[2024-07-13 Wales (~1666.78) at Australia (~1765.42)](projections/2024-07-13-Australia-Wales)
 
-[2024-07-06 Hong Kong (~1495.58) at Chile (~1324.31)](projections/2024-07-06-Chile-HongKong)
+[2024-07-13 Belgium (~1067.05) at Chile (~1375.46)](projections/2024-07-13-Chile-Belgium)
 
-[2024-07-05 Italy (~1679.07) at Samoa (~1727.76)](projections/2024-07-05-Samoa-Italy)
+[2024-07-13 Romania (~1275.28) at Canada (~1331.12)](projections/2024-07-13-Canada-Romania)
 
-[2024-07-06 Ireland (~1973.71) at South Africa (~2027.23)](projections/2024-07-06-SouthAfrica-Ireland)
+[2024-07-13 Ireland (~1965.24) at South Africa (~2035.5)](projections/2024-07-13-SouthAfrica-Ireland)
 
-[2024-07-06 Wales (~1665.47) at Australia (~1752.46)](projections/2024-07-06-Australia-Wales)
+[2024-07-13 Georgia (~1582.02) at Japan (~1557.8)](projections/2024-07-13-Japan-Georgia)
 
-[2024-07-06 England (~1789.05) at New Zealand (~2000.36)](projections/2024-07-06-NewZealand-England)
+[2024-07-13 Portugal (~1448.36) at Namibia (~1381.45)](projections/2024-07-13-Namibia-Portugal)
 
-[2024-07-06 Scotland (~1803.91) at Canada (~1351.03)](projections/2024-07-06-Canada-Scotland)
+[2024-07-13 Spain (~1331.83) at Samoa (~1744.84)](projections/2024-07-13-Samoa-Spain)
+
+[2024-07-13 France (~1869.67) at Argentina (~1737.9)](projections/2024-07-13-Argentina-France)
+
+[2024-07-13 England (~1805.56) at New Zealand (~1968.93)](projections/2024-07-13-NewZealand-England)
+
+[2024-07-14 Hong Kong (~1451.32) at Paraguay (~870.37)](projections/2024-07-14-Paraguay-HongKong)
 ## World Rugby U20 Championship
 
 
 [In depth model review and projections for World Rugby U20 Championship 2024](comp_files/World_Rugby_U20_Championship_2024)
 
-Competition Accuracy: 1 of 1 (100.0%)
+Competition Accuracy: 1 of 3 (33.33%)
 
-Competition Error: 32.73 points per match
+Competition Error: 23.88 points per match
 
-Last Round Accuracy: 1 of 1 (100.0%)
+Last Round Accuracy: 0 of 2 (0.0%)
 
-Last Round Error: 32.73 points per match
+Last Round Error: 22.36 points per match
 
-[2024-07-04 Spain U20 (~1162.41) at Wales U20 (~1452.96)](projections/2024-07-04-WalesU20-SpainU20)
+[2024-07-14 Ireland U20 (~1731.95) at England U20 (~1908.79)](projections/2024-07-14-EnglandU20-IrelandU20)
 
-[2024-07-04 Argentina U20 (~1607.08) at South Africa U20 (~1744.86)](projections/2024-07-04-SouthAfricaU20-ArgentinaU20)
+[2024-07-14 Wales U20 (~1388.94) at Australia U20 (~1439.21)](projections/2024-07-14-AustraliaU20-WalesU20)
 
-[2024-07-04 Georgia U20 (~955.54) at Ireland U20 (~1866.77)](projections/2024-07-04-IrelandU20-GeorgiaU20)
+[2024-07-14 South Africa U20 (~1515.3) at Argentina U20 (~1879.24)](projections/2024-07-14-ArgentinaU20-SouthAfricaU20)
 
-[2024-07-04 New Zealand U20 (~1739.38) at France U20 (~1725.57)](projections/2024-07-04-FranceU20-NewZealandU20)
+[2024-07-14 Fiji U20 (~1188.52) at Georgia U20 (~1471.28)](projections/2024-07-14-GeorgiaU20-FijiU20)
 
-[2024-07-04 Fiji U20 (~1296.5) at England U20 (~1881.53)](projections/2024-07-04-EnglandU20-FijiU20)
+[2024-07-14 France U20 (~1638.87) at New Zealand U20 (~1739.35)](projections/2024-07-14-NewZealandU20-FranceU20)
+
+[2024-07-14 Spain U20 (~1030.74) at Italy U20 (~1345.92)](projections/2024-07-14-ItalyU20-SpainU20)
+
+[2024-07-14 New Zealand U20 (~1661.09) at France U20 (~1730.73)](projections/2024-07-14-FranceU20-NewZealandU20)
+## World Rugby U20 Trophy
+
+
+[In depth model review and projections for World Rugby U20 Trophy 2023](comp_files/World_Rugby_U20_Trophy_2023)
+
+[2024-07-12 Japan U20 (~1719.01) at Scotland U20 (~1538.4)](projections/2024-07-12-ScotlandU20-JapanU20)
+
+[2024-07-12 Hong Kong U20 (~-273.73) at Samoa U20 (~-212.71)](projections/2024-07-12-SamoaU20-HongKongU20)
+
+[2024-07-12 Netherlands U20 (~1657.31) at Uruguay U20 (~1583.85)](projections/2024-07-12-UruguayU20-NetherlandsU20)
+
+[2024-07-12 United States of America U20 (~1913.81) at Kenya U20 (~1001.15)](projections/2024-07-12-KenyaU20-UnitedStatesofAmericaU20)
 # Domestic Leagues
 
 ## Currie Cup
@@ -66,34 +88,62 @@ Last Round Error: 32.73 points per match
 
 [In depth model review and projections for Currie Cup 2024](comp_files/Currie_Cup_2024)
 
-[2024-07-05 Pumas (~1571.58) at Griquas (~1552.14)](projections/2024-07-05-Griquas-Pumas)
+Competition Accuracy: 1 of 4 (25.0%)
 
-[2024-07-05 Golden Lions (~1539.78) at Sharks (~1687.7)](projections/2024-07-05-Sharks-GoldenLions)
+Competition Error: 19.98 points per match
 
-[2024-07-06 Griffons (~1224.69) at Free State Cheetahs (~1664.79)](projections/2024-07-06-FreeStateCheetahs-Griffons)
+Last Round Accuracy: 1 of 4 (25.0%)
 
-[2024-07-07 Blue Bulls (~1524.35) at Western Province (~1605.9)](projections/2024-07-07-WesternProvince-BlueBulls)
+Last Round Error: 19.98 points per match
+
+[2024-07-12 Natal Sharks (~1570.06) at Griquas (~1506.84)](projections/2024-07-12-Griquas-NatalSharks)
+
+[2024-07-12 Sharks (~1616.49) at Griquas (~1508.39)](projections/2024-07-12-Griquas-Sharks)
+
+[2024-07-12 Golden Lions (~1572.14) at Pumas (~1689.22)](projections/2024-07-12-Pumas-GoldenLions)
+
+[2024-07-13 Western Province (~1503.18) at Free State Cheetahs (~1678.15)](projections/2024-07-13-FreeStateCheetahs-WesternProvince)
+
+[2024-07-14 Blue Bulls (~1546.55) at Griffons (~1282.43)](projections/2024-07-14-Griffons-BlueBulls)
+## Currie Cup First Division
+
+
+[In depth model review and projections for Currie Cup First Division 2023](comp_files/Currie_Cup_First_Division_2023)
+
+Competition Accuracy: 21 of 28 (75.0%)
+
+Competition Error: 15.19 points per match
+
+Last Round Accuracy: 3 of 3 (100.0%)
+
+Last Round Error: 24.24 points per match
+
+[2024-07-12 Boland Cavaliers (~1274.73) at Border Bulldogs (~679.67)](projections/2024-07-12-BorderBulldogs-BolandCavaliers)
+
+[2024-07-13 Eastern Province Kings (~1033.7) at Valke (~1136.54)](projections/2024-07-13-Valke-EasternProvinceKings)
+
+[2024-07-13 SWD Eagles (~951.04) at Leopards (~1002.78)](projections/2024-07-13-Leopards-SWDEagles)
 ## URBA Top 12
 
 
 [In depth model review and projections for URBA Top 12 2024](comp_files/URBA_Top_12_2024)
 
-Competition Accuracy: 41 of 66 (62.12%)
+Competition Accuracy: 45 of 72 (62.5%)
 
-Competition Error: 13.89 points per match
+Competition Error: 13.63 points per match
 
-Last Round Accuracy: 6 of 6 (100.0%)
+Last Round Accuracy: 4 of 6 (66.67%)
 
-Last Round Error: 10.24 points per match
+Last Round Error: 10.81 points per match
 
-[2024-07-06 San Luis (~1603.74) at Hindu (~1725.1)](projections/2024-07-06-Hindu-SanLuis)
+[2024-07-14 San Luis (~1622.54) at Alumni (~1756.56)](projections/2024-07-14-Alumni-SanLuis)
 
-[2024-07-06 Alumni (~1694.5) at Champagnat (~1406.77)](projections/2024-07-06-Champagnat-Alumni)
+[2024-07-14 Buenos Aires (~1624.05) at CUBA (~1752.82)](projections/2024-07-14-CUBA-BuenosAires)
 
-[2024-07-06 CUBA (~1681.71) at Newman (~1824.41)](projections/2024-07-06-Newman-CUBA)
+[2024-07-14 Hindu (~1639.4) at Regatas Bella Vista (~1625.46)](projections/2024-07-14-RegatasBellaVista-Hindu)
 
-[2024-07-06 CASI (~1699.97) at Buenos Aires (~1722.81)](projections/2024-07-06-BuenosAires-CASI)
+[2024-07-14 Belgrano (~1797.71) at CASI (~1792.58)](projections/2024-07-14-CASI-Belgrano)
 
-[2024-07-06 SIC (~1745.18) at Atlético del Rosario (~1509.01)](projections/2024-07-06-AtleticodelRosario-SIC)
+[2024-07-14 Atlético del Rosario (~1439.95) at Champagnat (~1452.65)](projections/2024-07-14-Champagnat-AtleticodelRosario)
 
-[2024-07-06 Regatas Bella Vista (~1545.71) at Belgrano (~1867.88)](projections/2024-07-06-Belgrano-RegatasBellaVista)
+[2024-07-14 Newman (~1752.6) at SIC (~1819.83)](projections/2024-07-14-SIC-Newman)
