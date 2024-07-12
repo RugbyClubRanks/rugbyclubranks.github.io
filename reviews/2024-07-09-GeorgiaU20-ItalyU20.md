@@ -2,16 +2,16 @@
 layout: page  
 title: Italy U20 at Georgia U20; 17-28  
 date: 2024-07-09 18:00:00 -0500  
-categories: "worldcupunder20 2024" match review  
+categories: "World Rugby U20 Championship 2024" match review  
 ---
 # Italy U20 at Georgia U20; 17-28
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.183, which translates to predicting Italy U20 to win by 14.5.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.119, which translates to predicting Italy U20 to win by 19.3.
 
-Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 33 to 18
+Our Over/Under is 58.5 - and combined with the spread above, we have a predicted scoreline of 39 to 20
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Georgia U20 by 0.8 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             17 | Sergio Pellicciolli |             42.1  |        1 |             47.65 | Luka Ungiadze         |             51 |
-|             67 | Nicholas Gasperini  |             22.9  |        2 |             45.5  | Mikheil Khakubia      |             51 |
-|             70 | Federico Pisani     |             40.71 |        3 |             41.79 | Davit Mtchedlidze     |             66 |
-|             54 | Samuele Mirenzi     |             51.09 |        4 |             40.82 | Davit Lagvilava       |             80 |
-|             80 | Piero Gritti        |             54.61 |        5 |             56.14 | Temur Tsulukidze      |             76 |
-|             67 | Giacomo Milano      |             30.89 |        6 |             48.79 | Tornike Ganiashvili   |             80 |
-|             45 | Luca Bellucci       |             39.8  |        7 |             36.83 | Andro Dvali           |             80 |
-|             80 | Jacopo Botturi      |             22.69 |        8 |             38.35 | Nika Lomidze          |             57 |
-|             63 | Lorenzo Casilio     |             50.08 |        9 |             57.21 | Alexandre Jigauri     |             80 |
-|             80 | Simone Brisighella  |             41.81 |       10 |             42.2  | Luka Tsirekidze       |             80 |
-|              5 | Lorenzo Elettri     |             41.7  |       11 |             39.6  | Otani Metreveli       |             80 |
-|             80 | Patrick De Villiers |             43.23 |       12 |             35.51 | Giorgi Khaindrava     |             70 |
-|             80 | Nicola Bozzo        |             35.01 |       13 |             38.42 | Luka Kobauri          |             80 |
-|             80 | Federico Zanandrea  |             19.43 |       14 |             56.11 | Luka Keshelava        |             80 |
-|             80 | Mirko Belloni       |             25.81 |       15 |             47.98 | Luka Takaishvili      |             62 |
+|             17 | Sergio Pellicciolli |             42.21 |        1 |             47.74 | Luka Ungiadze         |             51 |
+|             67 | Nicholas Gasperini  |             22.8  |        2 |             45.44 | Mikheil Khakubia      |             51 |
+|             70 | Federico Pisani     |             40.91 |        3 |             41.9  | Davit Mtchedlidze     |             66 |
+|             54 | Samuele Mirenzi     |             51.09 |        4 |             40.78 | Davit Lagvilava       |             80 |
+|             80 | Piero Gritti        |             54.49 |        5 |             56.01 | Temur Tsulukidze      |             76 |
+|             67 | Giacomo Milano      |             30.66 |        6 |             48.66 | Tornike Ganiashvili   |             80 |
+|             45 | Luca Bellucci       |             39.7  |        7 |             36.75 | Andro Dvali           |             80 |
+|             80 | Jacopo Botturi      |             22.55 |        8 |             38.32 | Nika Lomidze          |             57 |
+|             63 | Lorenzo Casilio     |             49.92 |        9 |             57.19 | Alexandre Jigauri     |             80 |
+|             80 | Simone Brisighella  |             41.95 |       10 |             42.34 | Luka Tsirekidze       |             80 |
+|              5 | Lorenzo Elettri     |             41.73 |       11 |             39.64 | Otani Metreveli       |             80 |
+|             80 | Patrick De Villiers |             43.16 |       12 |             35.46 | Giorgi Khaindrava     |             70 |
+|             80 | Nicola Bozzo        |             34.97 |       13 |             38.36 | Luka Kobauri          |             80 |
+|             80 | Federico Zanandrea  |             19.45 |       14 |             56    | Luka Keshelava        |             80 |
+|             80 | Mirko Belloni       |             25.5  |       15 |             47.39 | Luka Takaishvili      |             62 |
 |             75 | Marco Scalabrini    |             24.64 |       16 |            nan    | Luka Kotorashvili     |             29 |
-|             63 | Davide Ascari       |             29.38 |       17 |             32.21 | Tamaz Tchamiashvili   |             29 |
-|             35 | Nelson Casartelli   |             47.77 |       18 |            nan    | Shota Kheladze        |             23 |
-|             26 | Tommaso Redondi     |            nan    |       19 |             27.83 | Tarieli Burtikashvili |             18 |
-|             17 | Mattia Jimenez      |             30.51 |       20 |            nan    | Davit Kuntelia        |             14 |
-|             13 | Valerio Siciliano   |             52.52 |       21 |            nan    | Nuzgari Kevkhishvili  |             10 |
-|             13 | Mattia Midena       |             25.88 |       22 |             30.16 | Murtazi Tskhadadze    |              4 |
+|             63 | Davide Ascari       |             29.39 |       17 |             32.07 | Tamaz Tchamiashvili   |             29 |
+|             35 | Nelson Casartelli   |             47.65 |       18 |            nan    | Shota Kheladze        |             23 |
+|             26 | Tommaso Redondi     |            nan    |       19 |             27.82 | Tarieli Burtikashvili |             18 |
+|             17 | Mattia Jimenez      |             30.74 |       20 |            nan    | Davit Kuntelia        |             14 |
+|             13 | Valerio Siciliano   |             52.43 |       21 |            nan    | Nuzgari Kevkhishvili  |             10 |
+|             13 | Mattia Midena       |             25.73 |       22 |             29.99 | Murtazi Tskhadadze    |              4 |
 |             10 | Francesco Gentile   |            nan    |       23 |            nan    | nan                   |            nan |
 

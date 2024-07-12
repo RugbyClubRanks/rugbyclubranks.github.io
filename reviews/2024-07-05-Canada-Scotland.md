@@ -11,7 +11,7 @@ categories: "International Test Match 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.087, which translates to predicting Scotland to win by 21.2.
 
-Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 36 to 15
+Our Over/Under is 56.5 - and combined with the spread above, we have a predicted scoreline of 39 to 18
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Scotland by 12.0 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             80 | Rory Sutherland     |             41.33 |        1 |              0.08 | Liam Murray         |             80 |
-|             80 | Dylan Richardson    |             70.08 |        2 |             27.48 | Andrew Quattrin     |             80 |
-|             80 | Elliot Millar-Mills |             91.67 |        3 |             11.95 | Conor Young         |             80 |
-|             80 | Max Williamson      |             61.37 |        4 |             69.27 | Conor Keys          |             80 |
-|             80 | Glen Young          |              6.28 |        5 |             51.57 | Kyle Baillie        |             80 |
-|             80 | Gregor Brown        |             65.77 |        6 |              3.43 | Mason Flesch        |             80 |
-|             80 | Luke Crosbie        |             95.08 |        7 |              1.58 | Lucas Rumball       |             80 |
-|             80 | Josh Bayliss        |             25.9  |        8 |              6.63 | Siaki Vikilani      |             80 |
-|             80 | Gus Warr            |             58.04 |        9 |             36.65 | Jason Higgins       |             80 |
-|             80 | Ross Thompson       |             75.92 |       10 |              4.05 | Peter Nelson        |             80 |
-|             80 | Arron Reed          |             91.15 |       11 |             44.53 | Nic Benn            |             80 |
-|             80 | Stafford McDowall   |             91.07 |       12 |             68.1  | Ben LeSage          |             80 |
-|             80 | Matt Currie         |             82.55 |       13 |             29.19 | Mitch Richardson    |             80 |
-|             80 | Jamie Dobie         |             84.4  |       14 |             29.11 | Andrew Coe          |             80 |
-|             80 | Harry Paterson      |             69.96 |       15 |             23.79 | Cooper Coats        |             80 |
-|              0 | Robbie Smith        |            nan    |       16 |            nan    | Jesse MacKail       |              0 |
-|              0 | Nathan McBeth       |             49.27 |       17 |              1.77 | Djustice Sears-Duru |              0 |
-|              0 | Will Hurd           |             60.91 |       18 |             87.43 | Cole Keith          |              0 |
-|              0 | Ewan Johnson        |             67.36 |       19 |            nan    | James Stockwood     |              0 |
-|              0 | Matt Fagerson       |             98.05 |       20 |             29.22 | Sion Parry          |              0 |
-|              0 | Ben Healy           |             80.15 |       21 |            nan    | Brock Gallagher     |              0 |
-|              0 | Kyle Steyn          |             98.91 |       22 |            nan    | Talon McMullin      |              0 |
-|              0 | Ross McCann         |            nan    |       23 |            nan    | Takoda McMullin     |              0 |
+|             46 | Rory Sutherland     |             33.69 |        1 |              0.08 | Liam Murray         |             50 |
+|             83 | Dylan Richardson    |             70.52 |        2 |             30.7  | Andrew Quattrin     |             63 |
+|             52 | Elliot Millar-Mills |             90.87 |        3 |             14.35 | Conor Young         |             53 |
+|             56 | Max Williamson      |             57.71 |        4 |             69.16 | Conor Keys          |             83 |
+|             83 | Glen Young          |              6.24 |        5 |             52.98 | Kyle Baillie        |             71 |
+|             83 | Gregor Brown        |             66.3  |        6 |              3.42 | Mason Flesch        |             83 |
+|             56 | Luke Crosbie        |             94.64 |        7 |              1.48 | Lucas Rumball       |             83 |
+|             74 | Josh Bayliss        |             25.55 |        8 |              7.19 | Siaki Vikilani      |             58 |
+|             62 | Gus Warr            |             54.71 |        9 |             35.87 | Jason Higgins       |             83 |
+|             56 | Ross Thompson       |             72.99 |       10 |              4.02 | Peter Nelson        |             83 |
+|             83 | Arron Reed          |             91.09 |       11 |             43.36 | Nic Benn            |             83 |
+|             83 | Stafford McDowall   |             90.91 |       12 |             69.63 | Ben LeSage          |             63 |
+|             62 | Matt Currie         |             81.52 |       13 |             30.77 | Mitch Richardson    |             70 |
+|             83 | Jamie Dobie         |             84.55 |       14 |             32.73 | Andrew Coe          |             58 |
+|             75 | Harry Paterson      |             69.28 |       15 |             23.09 | Cooper Coats        |             83 |
+|             27 | Robbie Smith        |            nan    |       16 |            nan    | Jesse MacKail       |             20 |
+|             37 | Nathan McBeth       |             49.27 |       17 |              1.77 | Djustice Sears-Duru |             33 |
+|             31 | Will Hurd           |             60.86 |       18 |             87.34 | Cole Keith          |             30 |
+|             27 | Ewan Johnson        |             67.17 |       19 |            nan    | James Stockwood     |             12 |
+|              9 | Matt Fagerson       |             98.06 |       20 |             28.99 | Sion Parry          |             25 |
+|             27 | Ben Healy           |             80.08 |       21 |            nan    | Brock Gallagher     |             13 |
+|             29 | Kyle Steyn          |             98.91 |       22 |            nan    | Talon McMullin      |             20 |
+|             21 | Ross McCann         |            nan    |       23 |            nan    | Takoda McMullin     |             25 |
 

@@ -95,6 +95,10 @@ key: page-recents
 
 
 [2023](comp_files\Rugby_World_Cup_2023) - Prediction Accuracy: 74.5% 
+## worldcupunder20
+
+
+[2024](comp_files\worldcupunder20_2024) - Prediction Accuracy: 72.2% 
 ## worldcupwarmupmatch
 
 

@@ -9,7 +9,7 @@ categories: "Tests Matchs 2023" match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.914, which translates to predicting Samoa to win by 21.7.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.914, which translates to predicting Samoa to win by 21.5.
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -67,27 +67,27 @@ Spain by 2.5 on a neutral pitch
 
 | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player        |
 |:----------------------|------------------:|---------:|------------------:|:-------------------|
-| Bernardo Vázquez      |            nan    |        1 |            nan    | Aki Seiuli         |
-| Santiago Ovejero      |             36.95 |        2 |            nan    | Sama Malolo        |
-| Lucas Santamaria      |             48.96 |        3 |            nan    | Marco Fepulea'i    |
-| Ignacio Piñeiro       |             78.02 |        4 |            nan    | Ben Nee Nee        |
-| Mario Pichardi Garcia |             56.96 |        5 |            nan    | Sam Slade          |
-| Asier Usarraga        |            nan    |        6 |            nan    | Theo McFarland     |
+| Bernardo Vázquez      |            nan    |        1 |             19.65 | Aki Seiuli         |
+| Santiago Ovejero      |             36.93 |        2 |             68.69 | Sama Malolo        |
+| Lucas Santamaria      |             48.96 |        3 |             71.91 | Marco Fepulea'i    |
+| Ignacio Piñeiro       |             78.05 |        4 |             68.78 | Ben Nee Nee        |
+| Mario Pichardi Garcia |             56.88 |        5 |             16.27 | Sam Slade          |
+| Asier Usarraga        |            nan    |        6 |             54.29 | Theo McFarland     |
 | Raphaël Nieto         |            nan    |        7 |            nan    | Murphy Taramai     |
-| Ekain Imaz            |             77.51 |        8 |            nan    | OJ Noa             |
-| Estanislao Bay        |             41.29 |        9 |             37.98 | Melani Matavao     |
-| Gonzalo Vinuesa       |             25.63 |       10 |            nan    | D'Angelo Leuila    |
-| Pau Aira              |            nan    |       11 |            nan    | Nigel Ah Wong      |
-| Inaki Mateu Spuches   |             13.74 |       12 |            nan    | Danny Toala        |
-| Alejandro Alonso      |            nan    |       13 |             81.24 | Stacey Ili         |
+| Ekain Imaz            |             77.84 |        8 |             63.47 | OJ Noa             |
+| Estanislao Bay        |             41.32 |        9 |             38.18 | Melani Matavao     |
+| Gonzalo Vinuesa       |             25.67 |       10 |             24.14 | D'Angelo Leuila    |
+| Pau Aira              |            nan    |       11 |             82.73 | Nigel Ah Wong      |
+| Inaki Mateu Spuches   |             13.79 |       12 |             10.29 | Danny Toala        |
+| Alejandro Alonso      |            nan    |       13 |             81.22 | Stacey Ili         |
 | Gauthier Minguillon   |            nan    |       14 |            nan    | Owen Niue          |
-| John Wessel Bell      |             56.85 |       15 |            nan    | Duncan Paia'aua    |
-| Álvaro Garcia         |             72.82 |       16 |            nan    | Andrew Tuala       |
-| Titi Futeu Youtcheu   |             10.72 |       17 |            nan    | Tietie Tuimauga    |
-| Hugo Pirlet           |             26.79 |       18 |            nan    | Lolani Faleiva     |
-| Alex Suarez           |             26.17 |       19 |             79.73 | Michael Curry      |
+| John Wessel Bell      |             56.43 |       15 |             87.95 | Duncan Paia'aua    |
+| Álvaro Garcia         |             72.95 |       16 |            nan    | Andrew Tuala       |
+| Titi Futeu Youtcheu   |             10.67 |       17 |            nan    | Tietie Tuimauga    |
+| Hugo Pirlet           |             26.82 |       18 |            nan    | Lolani Faleiva     |
+| Alex Suarez           |             26.02 |       19 |             79.85 | Michael Curry      |
 | Vicente Boronat       |            nan    |       20 |            nan    | Iakopo Petelo Mapu |
-| Pablo Pérez           |            nan    |       21 |              2.82 | Ere Enari          |
-| Bautista Guemes       |             73.03 |       22 |            nan    | Afa Moleli         |
+| Pablo Pérez           |            nan    |       21 |              2.81 | Ere Enari          |
+| Bautista Guemes       |             73.18 |       22 |            nan    | Afa Moleli         |
 | Facundo Lopez         |            nan    |       23 |            nan    | Pisi Leilua        |
 

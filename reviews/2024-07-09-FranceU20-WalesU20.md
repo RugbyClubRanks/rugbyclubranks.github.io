@@ -2,16 +2,16 @@
 layout: page  
 title: Wales U20 at France U20; 11-29  
 date: 2024-07-09 18:00:00 -0500  
-categories: "worldcupunder20 2024" match review  
+categories: "World Rugby U20 Championship 2024" match review  
 ---
 # Wales U20 at France U20; 11-29
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.863, which translates to predicting France U20 to win by 17.7.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.801, which translates to predicting France U20 to win by 13.4.
 
-Our Over/Under is 68.5 - and combined with the spread above, we have a predicted scoreline of 25 to 43
+Our Over/Under is 62.5 - and combined with the spread above, we have a predicted scoreline of 25 to 38
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ France U20 by 5.7 on a neutral pitch
 
 |   Away Minutes | Away Player     |   Away Percentile |   Number |   Home Percentile | Home Player            |   Home Minutes |
 |---------------:|:----------------|------------------:|---------:|------------------:|:-----------------------|---------------:|
-|             46 | Josh Morse      |             28.06 |        1 |             55.82 | Samuel Jean-Christophe |             70 |
-|             53 | Isaac Young     |             30.53 |        2 |             61.98 | Thomas Lacombre        |             52 |
-|             58 | Sam Scott       |             35.54 |        3 |             59.68 | Thomas Duchene         |             45 |
-|             80 | Jonny Green     |              8.85 |        4 |             79.07 | Charly Gambini         |             80 |
-|             46 | Osian Thomas    |             37.11 |        5 |             49.57 | Corentin Mezou         |             62 |
-|             80 | Ryan Woodman    |             29.96 |        6 |             65.03 | Joe Quere Karaba       |             52 |
-|             53 | Lucas De la Rua |             19.76 |        7 |             59.83 | Sialevailea Tolofua    |             80 |
-|             80 | Morgan Morse    |             57.23 |        8 |             73.09 | Mathis Castro          |             46 |
-|             46 | Ieuan Davies    |             37.15 |        9 |             61.86 | Thomas Souverbie       |             80 |
-|             46 | Harri Ford      |             46.24 |       10 |             63.78 | Hugo Reus              |             69 |
-|             80 | Aidan Boschoff  |             26.6  |       11 |             56.93 | Hoani Bosmorin         |             80 |
-|             80 | Steffan Emanuel |             46.34 |       12 |             71.41 | Robin Taccola          |             80 |
-|             80 | Louie Hennessey |             29.09 |       13 |             62.89 | Fabien Brau-Boirie     |             80 |
-|             80 | Macs Page       |             26.6  |       14 |             52.55 | Maxence Biasotto       |             80 |
-|             80 | Matty Young     |             46.37 |       15 |             78.02 | Mathis Ferté           |             53 |
+|             46 | Josh Morse      |             28.09 |        1 |             55.95 | Samuel Jean-Christophe |             70 |
+|             53 | Isaac Young     |             30.24 |        2 |             62.01 | Thomas Lacombre        |             52 |
+|             58 | Sam Scott       |             35.61 |        3 |             59.63 | Thomas Duchene         |             45 |
+|             80 | Jonny Green     |              8.8  |        4 |             79.19 | Charly Gambini         |             80 |
+|             46 | Osian Thomas    |             37.09 |        5 |             49.57 | Corentin Mezou         |             62 |
+|             80 | Ryan Woodman    |             29.73 |        6 |             65    | Joe Quere Karaba       |             52 |
+|             53 | Lucas De la Rua |             19.67 |        7 |             59.74 | Sialevailea Tolofua    |             80 |
+|             80 | Morgan Morse    |             57.09 |        8 |             73.25 | Mathis Castro          |             46 |
+|             46 | Ieuan Davies    |             37.36 |        9 |             61.98 | Thomas Souverbie       |             80 |
+|             46 | Harri Ford      |             46.36 |       10 |             63.98 | Hugo Reus              |             69 |
+|             80 | Aidan Boschoff  |             26.59 |       11 |             56.82 | Hoani Bosmorin         |             80 |
+|             80 | Steffan Emanuel |             46.25 |       12 |             71.33 | Robin Taccola          |             80 |
+|             80 | Louie Hennessey |             29.07 |       13 |             62.84 | Fabien Brau-Boirie     |             80 |
+|             80 | Macs Page       |             26.59 |       14 |             52.45 | Maxence Biasotto       |             80 |
+|             80 | Matty Young     |             45.78 |       15 |             77.71 | Mathis Ferté           |             53 |
 |             34 | Jordan Morris   |            nan    |       16 |            nan    | Thomas Marceline       |             35 |
-|             34 | Nick Thomas     |             59.47 |       17 |             50.93 | Alexis Caumel          |             34 |
-|             34 | Harri Wilde     |             34.49 |       18 |            nan    | Mathys Lotrian         |             28 |
-|             34 | Rhodri Lewis    |             55.39 |       19 |             54.08 | Geoffrey Malaterre     |             28 |
-|              9 | Ioan Emanuel    |             58.29 |       20 |             83.27 | Axel Desperes          |             27 |
-|             27 | Owen Conquer    |             54.82 |       21 |             63.08 | Antonin Corso          |             18 |
-|             22 | Kian Hire       |             54.12 |       22 |             68.82 | Leo Carbonneau         |             11 |
-|             18 | Elijah Evans    |             54.76 |       23 |             53.89 | Lino Julien            |             10 |
+|             34 | Nick Thomas     |             59.41 |       17 |             50.78 | Alexis Caumel          |             34 |
+|             34 | Harri Wilde     |             34.67 |       18 |            nan    | Mathys Lotrian         |             28 |
+|             34 | Rhodri Lewis    |             55.37 |       19 |             53.92 | Geoffrey Malaterre     |             28 |
+|              9 | Ioan Emanuel    |             58.25 |       20 |             82.93 | Axel Desperes          |             27 |
+|             27 | Owen Conquer    |             54.69 |       21 |             62.91 | Antonin Corso          |             18 |
+|             22 | Kian Hire       |             54.11 |       22 |             68.93 | Leo Carbonneau         |             11 |
+|             18 | Elijah Evans    |             54.75 |       23 |             53.88 | Lino Julien            |             10 |
 

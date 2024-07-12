@@ -9,7 +9,7 @@ categories: "International Test Match 2024" match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.379, which translates to predicting Georgia to win by 0.8.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.379, which translates to predicting Georgia to win by 1.2.
 
 Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 24 to 23
 
@@ -69,27 +69,27 @@ Georgia by 1.4 on a neutral pitch
 
 | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player      |
 |:---------------------|------------------:|---------:|------------------:|:-----------------|
-| Giorgi Akhaladze     |             23.59 |        1 |             35.39 | Takayoshi Mohara |
-| Vano Karkadze        |             78.02 |        2 |             56.49 | Mamoru Harada    |
-| Irakli Aptsiauri     |             21.28 |        3 |             38.09 | Shuhei Takeuchi  |
-| Mikheil Babunashvili |             29.4  |        4 |             97.77 | Michael Leitch   |
-| Giorgi Javakhia      |             27.78 |        5 |             93.72 | Warner Dearns    |
-| Ilia Spanderashvili  |             24.95 |        6 |             90.76 | Faulua Makisi    |
-| Luka Ivanishvili     |             73.93 |        7 |             81.82 | Kanji Shimokawa  |
-| Beka Gorgadze        |             75.1  |        8 |             88.96 | Tevita Tatafu    |
-| Vasil Lobzhanidze    |              9.45 |        9 |             14.76 | Naoto Saito      |
-| Tedo Abzhandadze     |             59.54 |       10 |              6.17 | Seungsin Lee     |
-| Davit Niniashvili    |             85.95 |       11 |             76.63 | Tomoki Osada     |
-| Giorgi Kveseladze    |             93.58 |       12 |             52.36 | Samisoni Tua     |
-| Demur Tapladze       |             82.45 |       13 |             98.9  | Dylan Riley      |
-| Aka Tabutsadze       |             87.96 |       14 |             73.81 | Jone Naikabula   |
-| Luka Matkava         |             82.06 |       15 |             52.42 | Yoshitaka Yazaki |
-| Luka Petriashvili    |            nan    |       16 |             92.21 | Atsushi Sakate   |
+| Giorgi Akhaladze     |             29.7  |        1 |             35.46 | Takayoshi Mohara |
+| Vano Karkadze        |             78.57 |        2 |             56.38 | Mamoru Harada    |
+| Irakli Aptsiauri     |             24.56 |        3 |             38.14 | Shuhei Takeuchi  |
+| Mikheil Babunashvili |             28.38 |        4 |             97.78 | Michael Leitch   |
+| Giorgi Javakhia      |             29.61 |        5 |             93.66 | Warner Dearns    |
+| Ilia Spanderashvili  |             32.87 |        6 |             90.82 | Faulua Makisi    |
+| Luka Ivanishvili     |             74.52 |        7 |             81.81 | Kanji Shimokawa  |
+| Beka Gorgadze        |             75.05 |        8 |             89.02 | Tevita Tatafu    |
+| Vasil Lobzhanidze    |             11.07 |        9 |             14.88 | Naoto Saito      |
+| Tedo Abzhandadze     |             60.73 |       10 |              6.13 | Seungsin Lee     |
+| Davit Niniashvili    |             85.82 |       11 |             76.52 | Tomoki Osada     |
+| Giorgi Kveseladze    |             93.41 |       12 |             52.35 | Samisoni Tua     |
+| Demur Tapladze       |             82.42 |       13 |             98.9  | Dylan Riley      |
+| Aka Tabutsadze       |             87.91 |       14 |             73.73 | Jone Naikabula   |
+| Luka Matkava         |             81.73 |       15 |             51.81 | Yoshitaka Yazaki |
+| Luka Petriashvili    |            nan    |       16 |             92.25 | Atsushi Sakate   |
 | Giorgi Mamaiashvili  |            nan    |       17 |            nan    | Takato Okabe     |
 | Aleksandre Kuntelia  |            nan    |       18 |            nan    | Keijiro Tamefusa |
-| Lado Chachanidze     |             32.83 |       19 |            nan    | Sanaila Waqa     |
-| Beka Saghinadze      |             84.23 |       20 |             33.3  | Tiennan Costley  |
-| Tornike Jalagonia    |             34.74 |       21 |            nan    | Taiki Koyama     |
-| Gela Aprasidze       |             58.71 |       22 |             95.77 | Takuya Yamasawa  |
-| Sandro Todua         |             92.15 |       23 |             53.83 | Koga Nezuka      |
+| Lado Chachanidze     |             32.73 |       19 |            nan    | Sanaila Waqa     |
+| Beka Saghinadze      |             84.21 |       20 |             33.15 | Tiennan Costley  |
+| Tornike Jalagonia    |             34.73 |       21 |            nan    | Taiki Koyama     |
+| Gela Aprasidze       |             58.51 |       22 |             95.58 | Takuya Yamasawa  |
+| Sandro Todua         |             92.09 |       23 |             53.73 | Koga Nezuka      |
 

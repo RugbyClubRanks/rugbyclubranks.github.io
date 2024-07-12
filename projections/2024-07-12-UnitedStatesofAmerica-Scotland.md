@@ -9,7 +9,7 @@ categories: "International Test Match 2024" match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.109, which translates to predicting Scotland to win by 15.1.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.109, which translates to predicting Scotland to win by 14.7.
 
 Our Over/Under is 63.5 - and combined with the spread above, we have a predicted scoreline of 39 to 24
 
@@ -69,27 +69,27 @@ Scotland by 10.2 on a neutral pitch
 
 | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player              |
 |:--------------------|------------------:|---------:|------------------:|:-------------------------|
-| Pierre Schoeman     |             90.9  |        1 |             23.75 | Jack Iscaro              |
-| Ewan Ashman         |             80.76 |        2 |             98.32 | Dylan Fawsitt            |
-| Murphy Walker       |             37.09 |        3 |             94.14 | David Ainu'u             |
-| Alex Craig          |             28.92 |        4 |             72.08 | Vili Helu                |
-| Scott Cummings      |             98.57 |        5 |             15.03 | Greg Peterson            |
-| Jamie Ritchie       |             99.91 |        6 |             75.88 | Sam Golla                |
-| Rory Darge          |             89.33 |        7 |             94.34 | Paddy Ryan               |
-| Matt Fagerson       |             98.05 |        8 |             70.41 | Jamason Fa'anana-Schultz |
-| George Horne        |             99.67 |        9 |             63.02 | Juan Philip Smith        |
-| Adam Hastings       |             97.88 |       10 |             96.34 | AJ MacGinty              |
-| Duhan van der Merwe |             82.12 |       11 |             99.09 | Nate Augspurger          |
-| Sione Tuipulotu     |             80.34 |       12 |              2.01 | Tommaso Boni             |
-| Huw Jones           |             74.52 |       13 |             88.57 | Tavite Lopeti            |
-| Kyle Steyn          |             98.91 |       14 |             58.12 | Conner Mooneyham         |
-| Kyle Rowe           |             71.57 |       15 |             39.11 | Luke Carty               |
-| Robbie Smith        |            nan    |       16 |             14.35 | Kapeli Pifeleti          |
-| Rory Sutherland     |             41.33 |       17 |             12.34 | Jake Turnbull            |
-| Elliot Millar-Mills |             91.67 |       18 |             14.11 | Paul Mullen              |
-| Max Williamson      |             61.37 |       19 |            nan    | Saia Uhila               |
-| Luke Crosbie        |             95.08 |       20 |            nan    | Benja Bonassoa           |
-| Jamie Dobie         |             84.4  |       21 |            nan    | Ethan McVeigh            |
-| Ross Thompson       |             75.92 |       22 |             68.51 | Bryce Campbell           |
-| Matt Currie         |             82.55 |       23 |             91.73 | Mitch Wilson             |
+| Pierre Schoeman     |             91.02 |        1 |             23.71 | Jack Iscaro              |
+| Ewan Ashman         |             80.7  |        2 |             98.63 | Dylan Fawsitt            |
+| Murphy Walker       |             37.15 |        3 |             94.09 | David Ainu'u             |
+| Alex Craig          |             28.76 |        4 |             72.11 | Vili Helu                |
+| Scott Cummings      |             98.58 |        5 |             16.84 | Greg Peterson            |
+| Jamie Ritchie       |             99.91 |        6 |             75.9  | Sam Golla                |
+| Rory Darge          |             89.29 |        7 |             94.28 | Paddy Ryan               |
+| Matt Fagerson       |             98.06 |        8 |             70.18 | Jamason Fa'anana-Schultz |
+| George Horne        |             99.67 |        9 |             62.64 | Juan Philip Smith        |
+| Adam Hastings       |             97.89 |       10 |             96.36 | AJ MacGinty              |
+| Duhan van der Merwe |             82    |       11 |             99.09 | Nate Augspurger          |
+| Sione Tuipulotu     |             80.32 |       12 |              2    | Tommaso Boni             |
+| Huw Jones           |             74.43 |       13 |             88.21 | Tavite Lopeti            |
+| Kyle Steyn          |             98.91 |       14 |             58.09 | Conner Mooneyham         |
+| Kyle Rowe           |             71.29 |       15 |             39.27 | Luke Carty               |
+| Robbie Smith        |            nan    |       16 |             14.29 | Kapeli Pifeleti          |
+| Rory Sutherland     |             33.69 |       17 |             12.59 | Jake Turnbull            |
+| Elliot Millar-Mills |             90.87 |       18 |             13.66 | Paul Mullen              |
+| Max Williamson      |             57.71 |       19 |            nan    | Saia Uhila               |
+| Luke Crosbie        |             94.64 |       20 |            nan    | Benja Bonassoa           |
+| Jamie Dobie         |             84.55 |       21 |            nan    | Ethan McVeigh            |
+| Ross Thompson       |             72.99 |       22 |             68.43 | Bryce Campbell           |
+| Matt Currie         |             81.52 |       23 |             91.77 | Mitch Wilson             |
 

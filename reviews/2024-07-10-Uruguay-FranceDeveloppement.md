@@ -11,7 +11,7 @@ categories: "Tests Matchs 2023" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.514, which translates to predicting Uruguay to win by 0.8.
 
-Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 24 to 24
+Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 25 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,28 +69,28 @@ France Développement by 5.7 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player            |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:-----------------------|---------------:|
-|             80 | Giorgi Beria         |             81.19 |        1 |              8.25 | Mateo Sanguinetti      |             49 |
-|             50 | Teddy Baubigny       |             75.42 |        2 |             21.98 | German Kessler         |             57 |
-|             16 | Thomas Laclayat      |             75.71 |        3 |             42.87 | Reinaldo Piussi        |             61 |
-|             59 | Pierre-Henri Azagoh  |             75.74 |        4 |             73.93 | Felipe Aliaga          |             75 |
-|             80 | Florent Vanverberghe |             76.21 |        5 |              3.24 | Manuel Leindekar       |             80 |
-|             80 | Ibrahim Diallo       |             31.17 |        6 |             84.42 | Manuel Ardao           |             80 |
-|             80 | Romain Briatte       |             61.13 |        7 |             49.17 | Santiago Civetta       |             57 |
-|             50 | Killian Tixeront     |             67.27 |        8 |             34.54 | Manuel Diana           |             49 |
-|             50 | Baptiste Couilloud   |             95.02 |        9 |             55.72 | Santiago Arata         |             26 |
-|             54 | Leo Berdeu           |             82.47 |       10 |             64.93 | Felipe Etcheverry      |             80 |
-|             80 | Joris Jurand         |             89.6  |       11 |             28.83 | Bautista Basso         |             80 |
-|             80 | Leon Darricarrere    |             88.16 |       12 |              8.43 | Andres Vilaseca        |             80 |
-|             80 | Arthur Vincent       |             63.79 |       13 |             55.47 | Felipe Arcos Perez     |             80 |
-|             64 | Jules Favre          |             88.14 |       14 |             35.86 | Mateo Viñals Moratorio |             80 |
-|             80 | Lucas Dubois         |             83.47 |       15 |             42.94 | Baltazar Amaya         |             80 |
-|             30 | Janick Tarrit        |             31.76 |       16 |             93.13 | Guillermo Pujadas      |             23 |
-|             21 | Sebastien Taofifenua |             17.5  |       17 |             91.21 | Ignacio Peculo         |             31 |
-|             43 | Demba Bamba          |             93.52 |       18 |             69.16 | Diego Arbelo           |             19 |
-|             21 | Posolo Tuilagi       |             20.36 |       19 |             14.08 | Ignacio Dotti Uria     |              5 |
-|             30 | Yann Peysson         |             74.9  |       20 |             69.55 | Lucas Bianchi          |             31 |
-|             30 | Baptiste Jauneau     |             73.47 |       21 |             69.57 | Carlos Deus            |             23 |
-|             26 | Joris Segonds        |             77.65 |       22 |             31.39 | Tomas Inciarte         |             54 |
-|             16 | Nathanael Hulleu     |             80.38 |       23 |            nan    | Ignacio Alvarez        |              0 |
-|            nan | nan                  |            nan    |       24 |            nan    | Antonio Rebelo Andrade |              0 |
+|             80 | Giorgi Beria         |             81.2  |        1 |              8.21 | Mateo Sanguinetti      |             49 |
+|             50 | Teddy Baubigny       |             78.27 |        2 |             21.88 | German Kessler         |             57 |
+|             16 | Thomas Laclayat      |             75.67 |        3 |             42.98 | Reinaldo Piussi        |             61 |
+|             59 | Pierre-Henri Azagoh  |             75.78 |        4 |             73.89 | Felipe Aliaga          |             75 |
+|             80 | Florent Vanverberghe |             76.25 |        5 |              3.22 | Manuel Leindekar       |             80 |
+|             80 | Ibrahim Diallo       |             34.16 |        6 |             84.4  | Manuel Ardao           |             80 |
+|             80 | Romain Briatte       |             61.03 |        7 |             49.03 | Santiago Civetta       |             57 |
+|             50 | Killian Tixeront     |             67.27 |        8 |             34.33 | Manuel Diana           |             49 |
+|             50 | Baptiste Couilloud   |             95.21 |        9 |             55.7  | Santiago Arata         |             26 |
+|             54 | Leo Berdeu           |             82.38 |       10 |             65.13 | Felipe Etcheverry      |             80 |
+|             80 | Joris Jurand         |             89.55 |       11 |             28.82 | Bautista Basso         |             80 |
+|             80 | Leon Darricarrere    |             88.01 |       12 |              8.39 | Andres Vilaseca        |             80 |
+|             80 | Arthur Vincent       |             63.74 |       13 |             55.44 | Felipe Arcos Perez     |             80 |
+|             64 | Jules Favre          |             88.09 |       14 |             35.91 | Mateo Viñals Moratorio |             80 |
+|             80 | Lucas Dubois         |             83.13 |       15 |             42.37 | Baltazar Amaya         |             80 |
+|             30 | Janick Tarrit        |             31.61 |       16 |             93.16 | Guillermo Pujadas      |             23 |
+|             21 | Sebastien Taofifenua |             17.42 |       17 |             91.25 | Ignacio Peculo         |             31 |
+|             43 | Demba Bamba          |             93.48 |       18 |             69.07 | Diego Arbelo           |             19 |
+|             21 | Posolo Tuilagi       |             20.34 |       19 |             13.91 | Ignacio Dotti Uria     |              5 |
+|             30 | Yann Peysson         |             75.25 |       20 |             69.54 | Lucas Bianchi          |             31 |
+|             30 | Baptiste Jauneau     |             73.55 |       21 |             69.62 | Carlos Deus            |             23 |
+|             26 | Joris Segonds        |             77.59 |       22 |             31.37 | Tomas Inciarte         |             54 |
+|             16 | Nathanael Hulleu     |             80.36 |       23 |            nan    | Ignacio Alvarez        |              0 |
+|            nan | nan                  |            nan    |       24 |             41.37 |                        |              0 |
 

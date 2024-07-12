@@ -11,7 +11,7 @@ categories: "International Test Match 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.786, which translates to predicting New Zealand to win by 11.7.
 
-Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 21 to 33
+Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 20 to 31
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ New Zealand by 9.8 on a neutral pitch
 
 |   Away Minutes | Away Player               |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:--------------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             80 | Joe Marler                |             98.46 |        1 |             63.61 | Ethan de Groot      |             80 |
-|             80 | Jamie George              |             99.24 |        2 |             99.54 | Codie Taylor        |             80 |
-|             80 | Will Stuart               |             57.9  |        3 |             92.68 | Tyrel Lomax         |             80 |
-|             80 | Maro Itoje                |             96.67 |        4 |             94.1  | Scott Barrett       |             80 |
-|             80 | George Martin             |             95.24 |        5 |             96.38 | Patrick Tuipulotu   |             80 |
-|             80 | Chandler Cunningham-South |             80.06 |        6 |             96.2  | Samipeni Finau      |             80 |
-|             80 | Sam Underhill             |             96.01 |        7 |             99.63 | Dalton Papalii      |             80 |
-|             80 | Ben Earl                  |             96.39 |        8 |             99.6  | Ardie Savea         |             80 |
-|             80 | Alex Mitchell             |             96.68 |        9 |             96.85 | TJ Perenara         |             80 |
-|             80 | Marcus Smith              |             86.13 |       10 |             98.46 | Damian McKenzie     |             80 |
-|             80 | Tommy Freeman             |             98.63 |       11 |             89.57 | Mark Tele'a         |             80 |
-|             80 | Ollie Lawrence            |             92.48 |       12 |             96.79 | Jordie Barrett      |             80 |
-|             80 | Henry Slade               |             99    |       13 |             91.37 | Rieko Ioane         |             80 |
-|             80 | Immanuel Feyi-Waboso      |             91.97 |       14 |             80.84 | Sevu Reece          |             80 |
-|             80 | George Furbank            |             98.39 |       15 |             99.4  | Stephen Perofeta    |             80 |
-|              0 | Theo Dan                  |             49.62 |       16 |             94.81 | Asafo Aumua         |              0 |
-|              0 | Fin Baxter                |             21.97 |       17 |             99.54 | Ofa Tu'ungafasi     |              0 |
-|              0 | Dan Cole                  |             57.13 |       18 |              1.39 | Fletcher Newell     |              0 |
-|              0 | Alex Coles                |             26.74 |       19 |             94.58 | Tupou Vaa'i         |              0 |
-|              0 | Tom Curry                 |             84.14 |       20 |             95.64 | Luke Jacobson       |              0 |
-|              0 | Ben Spencer               |             86.24 |       21 |             79.77 | Finlay Christie     |              0 |
-|              0 | Fin Smith                 |             87.09 |       22 |             96.39 | Anton Lienert-Brown |              0 |
-|              0 | Ollie Sleightholme        |             96.44 |       23 |            100    | Beauden Barrett     |              0 |
+|             18 | Joe Marler                |             98.08 |        1 |             65.92 | Ethan de Groot      |             50 |
+|             55 | Jamie George              |             99.24 |        2 |             99.54 | Codie Taylor        |             64 |
+|             52 | Will Stuart               |             55.03 |        3 |             93.02 | Tyrel Lomax         |             52 |
+|             80 | Maro Itoje                |             96.78 |        4 |             93.95 | Scott Barrett       |             80 |
+|             80 | George Martin             |             95.18 |        5 |             96.4  | Patrick Tuipulotu   |             62 |
+|             51 | Chandler Cunningham-South |             79.22 |        6 |             96.21 | Samipeni Finau      |             58 |
+|             64 | Sam Underhill             |             95.94 |        7 |             99.63 | Dalton Papalii      |             80 |
+|             80 | Ben Earl                  |             96.61 |        8 |             99.4  | Ardie Savea         |             80 |
+|             58 | Alex Mitchell             |             96.69 |        9 |             97.36 | TJ Perenara         |             41 |
+|             66 | Marcus Smith              |             86.21 |       10 |             98.47 | Damian McKenzie     |             80 |
+|             80 | Tommy Freeman             |             98.64 |       11 |             89.21 | Mark Tele'a         |             80 |
+|             80 | Ollie Lawrence            |             92.51 |       12 |             96.7  | Jordie Barrett      |             80 |
+|             80 | Henry Slade               |             99    |       13 |             91.11 | Rieko Ioane         |             69 |
+|             76 | Immanuel Feyi-Waboso      |             92    |       14 |             79.64 | Sevu Reece          |             80 |
+|             80 | George Furbank            |             98.39 |       15 |             99.4  | Stephen Perofeta    |             52 |
+|             25 | Theo Dan                  |             49.54 |       16 |             94.83 | Asafo Aumua         |             16 |
+|             62 | Fin Baxter                |             21.87 |       17 |             99.54 | Ofa Tu'ungafasi     |             30 |
+|             28 | Dan Cole                  |             57.25 |       18 |              1.38 | Fletcher Newell     |             28 |
+|             16 | Alex Coles                |             26.58 |       19 |             94.51 | Tupou Vaa'i         |             22 |
+|             29 | Tom Curry                 |             84.12 |       20 |             95.57 | Luke Jacobson       |             18 |
+|             22 | Ben Spencer               |             86.28 |       21 |             79.83 | Finlay Christie     |             39 |
+|             14 | Fin Smith                 |             87.16 |       22 |             96.4  | Anton Lienert-Brown |             11 |
+|              4 | Ollie Sleightholme        |             96.36 |       23 |            100    | Beauden Barrett     |             28 |
 

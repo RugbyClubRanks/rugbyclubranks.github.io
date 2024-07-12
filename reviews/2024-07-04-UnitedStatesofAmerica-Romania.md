@@ -11,7 +11,7 @@ categories: "International Test Match 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.889, which translates to predicting United States of America to win by 18.9.
 
-Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 17 to 36
+Our Over/Under is 56.5 - and combined with the spread above, we have a predicted scoreline of 19 to 38
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ United States of America by 18.3 on a neutral pitch
 
 |   Away Minutes | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player              |   Home Minutes |
 |---------------:|:------------------|------------------:|---------:|------------------:|:-------------------------|---------------:|
-|             80 | Iulian Hartig     |             33.62 |        1 |             12.34 | Jake Turnbull            |             80 |
-|             80 | Stefan Buruiana   |             68.55 |        2 |             98.32 | Dylan Fawsitt            |             80 |
-|             80 | Vasile Balan      |             48.57 |        3 |             14.11 | Paul Mullen              |             80 |
-|             80 | Yanis Horvat      |             67.17 |        4 |             24.45 | Renger van Eerten        |             80 |
-|             80 | Andrei Mahu       |              8.18 |        5 |             15.03 | Greg Peterson            |             80 |
-|             80 | Vlad Neculau      |             55.94 |        6 |             75.88 | Sam Golla                |             80 |
-|             80 | Dragos Ser        |             13.73 |        7 |             70.41 | Jamason Fa'anana-Schultz |             80 |
-|             80 | Nicolaas Immelman |             59.64 |        8 |             19.08 | Thomas Tu'avao           |             80 |
-|             80 | Alin Conache      |             45.61 |        9 |             63.02 | Juan Philip Smith        |             80 |
-|             80 | Hinckley Vaovasa  |             65.32 |       10 |             96.34 | AJ MacGinty              |             80 |
-|             80 | Tevita Manumua    |              6.66 |       11 |             99.09 | Nate Augspurger          |             80 |
-|             80 | Jason Tomane      |             74.62 |       12 |              2.01 | Tommaso Boni             |             80 |
-|             80 | Mihai Graure      |             59.68 |       13 |             88.57 | Tavite Lopeti            |             80 |
-|             80 | Marius Simionescu |              1.92 |       14 |             93.43 | Christian Dyer           |             80 |
-|             80 | Paul Popoaia      |             60.48 |       15 |             91.73 | Mitch Wilson             |             80 |
-|              0 | Rob Irimescu      |             78.17 |       16 |            nan    | Mike Sosene-Feagai       |              0 |
-|              0 | Alexandru Savin   |             30.99 |       17 |            nan    | Nathan Sylvia            |              0 |
-|              0 | Cosmin Manole     |            nan    |       18 |            nan    | Kaleb Geiger             |              0 |
-|              0 | Marius Iftimiciuc |              5.23 |       19 |             72.08 | Vili Helu                |              0 |
-|              0 | Kamil Sobota      |            nan    |       20 |            nan    | Benja Bonassoa           |              0 |
-|              0 | Gabriel Rupanu    |             31.67 |       21 |             94.34 | Paddy Ryan               |              0 |
-|              0 | Fonovai Tangimana |             26.58 |       22 |             39.11 | Luke Carty               |              0 |
-|              0 | Daniel Plai       |            nan    |       23 |             68.51 | Bryce Campbell           |              0 |
+|             50 | Iulian Hartig     |             22.87 |        1 |             12.59 | Jake Turnbull            |             77 |
+|             50 | Stefan Buruiana   |             60.79 |        2 |             98.63 | Dylan Fawsitt            |             66 |
+|             55 | Vasile Balan      |             40.29 |        3 |             13.66 | Paul Mullen              |             80 |
+|             63 | Yanis Horvat      |             63.29 |        4 |             30.37 | Renger van Eerten        |             53 |
+|             63 | Andrei Mahu       |              7.47 |        5 |             16.84 | Greg Peterson            |             60 |
+|             80 | Vlad Neculau      |             56.05 |        6 |             75.9  | Sam Golla                |             80 |
+|             72 | Dragos Ser        |             12.83 |        7 |             70.18 | Jamason Fa'anana-Schultz |             80 |
+|             80 | Nicolaas Immelman |             59.68 |        8 |             21.16 | Thomas Tu'avao           |             60 |
+|             66 | Alin Conache      |             41.49 |        9 |             62.64 | Juan Philip Smith        |             80 |
+|             66 | Hinckley Vaovasa  |             63.41 |       10 |             96.36 | AJ MacGinty              |             80 |
+|             80 | Tevita Manumua    |              6.73 |       11 |             99.09 | Nate Augspurger          |             80 |
+|             80 | Jason Tomane      |             74.53 |       12 |              2    | Tommaso Boni             |             80 |
+|             80 | Mihai Graure      |             60.04 |       13 |             88.21 | Tavite Lopeti            |             80 |
+|             80 | Marius Simionescu |              1.91 |       14 |             93.36 | Christian Dyer           |             80 |
+|             80 | Paul Popoaia      |             60.64 |       15 |             91.77 | Mitch Wilson             |             69 |
+|             30 | Rob Irimescu      |             77.81 |       16 |            nan    | Mike Sosene-Feagai       |             14 |
+|             30 | Alexandru Savin   |             31.08 |       17 |            nan    | Nathan Sylvia            |              3 |
+|             25 | Cosmin Manole     |            nan    |       18 |            nan    | Kaleb Geiger             |              0 |
+|             30 | Marius Iftimiciuc |              5.2  |       19 |             72.11 | Vili Helu                |             27 |
+|              4 | Kamil Sobota      |            nan    |       20 |            nan    | Benja Bonassoa           |             20 |
+|             14 | Gabriel Rupanu    |             31.9  |       21 |             94.28 | Paddy Ryan               |             20 |
+|              8 | Fonovai Tangimana |             26.57 |       22 |             39.27 | Luke Carty               |             11 |
+|             14 | Daniel Plai       |            nan    |       23 |             68.43 | Bryce Campbell           |              0 |
 

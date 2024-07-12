@@ -1,6 +1,6 @@
 ---  
 title: "World Rugby U20 Trophy 2023 Status"  
-date: 2024-07-11 6:00:00 -0500  
+date: 2024-07-12 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,14 +17,14 @@ aside:
 
 | Club                         |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| United States of America U20 |               1 |    1   |             44.3575  |                   0   |                0.8 |                  4.8 |
-| Japan U20                    |               1 |    0.7 |              9.27478 |                   0.1 |                0.2 |                  3.2 |
-| Netherlands U20              |               1 |    0.6 |              4.52986 |                   0.1 |                0.5 |                  2.9 |
-| Samoa U20                    |               1 |    0.6 |              3.55318 |                   0.1 |                0.2 |                  2.5 |
-| Uruguay U20                  |               1 |    0.4 |             -4.52986 |                   0.1 |                0.2 |                  2.1 |
-| Hong Kong U20                |               1 |    0.4 |             -3.55318 |                   0.1 |                0.2 |                  2   |
-| Scotland U20                 |               1 |    0.3 |             -9.27478 |                   0.2 |                0.2 |                  1.5 |
-| Kenya U20                    |               1 |    0   |            -44.3575  |                   0   |                0.2 |                  0.3 |
+| United States of America U20 |               1 |    1   |             44.5965  |                   0   |                0.8 |                  4.8 |
+| Japan U20                    |               1 |    0.7 |              8.79856 |                   0.1 |                0.2 |                  3.2 |
+| Netherlands U20              |               1 |    0.5 |              2.28712 |                   0.1 |                0.5 |                  2.7 |
+| Samoa U20                    |               1 |    0.6 |              3.64988 |                   0.1 |                0.2 |                  2.6 |
+| Uruguay U20                  |               1 |    0.5 |             -2.28712 |                   0.1 |                0.2 |                  2.2 |
+| Hong Kong U20                |               1 |    0.4 |             -3.64988 |                   0.1 |                0.2 |                  2   |
+| Scotland U20                 |               1 |    0.3 |             -8.79856 |                   0.2 |                0.2 |                  1.6 |
+| Kenya U20                    |               1 |    0   |            -44.5965  |                   0   |                0.3 |                  0.3 |
 
 
 
@@ -35,7 +35,7 @@ aside:
 ### Scotland U20 V Japan U20 on 2024/07/12
 
 
-Average Margin: Japan U20 by 9.3
+Average Margin: Japan U20 by 8.8
 
 Average Scoreline: 42-33
 
@@ -61,9 +61,9 @@ Average Scoreline: 47-43
 ### Uruguay U20 V Netherlands U20 on 2024/07/12
 
 
-Average Margin: Netherlands U20 by 4.5
+Average Margin: Netherlands U20 by 2.3
 
-Average Scoreline: 40-36
+Average Scoreline: 39-37
 
 <p float="left">
 <img src="plots/performances_2024-07-12-UruguayU20_V_NetherlandsU20.png" width="32%" />
@@ -74,7 +74,7 @@ Average Scoreline: 40-36
 ### Kenya U20 V United States of America U20 on 2024/07/12
 
 
-Average Margin: United States of America U20 by 44.4
+Average Margin: United States of America U20 by 44.6
 
 Average Scoreline: 61-17
 

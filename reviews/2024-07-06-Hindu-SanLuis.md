@@ -11,7 +11,7 @@ categories: "URBA Top 12 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.687, which translates to predicting Hindu to win by 7.0.
 
-Our Over/Under is 54.5 - and combined with the spread above, we have a predicted scoreline of 24 to 31
+Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 23 to 30
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Hindu by 0.3 on a neutral pitch
 
 |   Away Minutes | Away Player                |   Away Percentile |   Number |   Home Percentile | Home Player                |   Home Minutes |
 |---------------:|:---------------------------|------------------:|---------:|------------------:|:---------------------------|---------------:|
-|             80 | Santiago Bonavento         |             42.41 |        1 |             19.66 | Juan Ignacio Martinez Sosa |             80 |
-|             80 | Agustin Fitzsimons Herrera |             38.17 |        2 |              8.55 | Agustin Capurro            |             80 |
-|             80 | Alexis Uvieda              |             77.1  |        3 |              6.94 | Nicolas Leiva              |             80 |
-|             80 | Ramiro Bruni               |             48.81 |        4 |             27.02 | Carlos Repetto             |             80 |
-|             80 | Santiago Canal             |             50.9  |        5 |             14.27 | Juan Ignacio Comolli       |             80 |
-|             80 | Facundo Alvarez Amado      |             35.16 |        6 |             21.89 | Tomas Scallan              |             80 |
-|             80 | Franco Gnecco              |             59    |        7 |              8.72 | Santino Amayav             |             80 |
-|             80 | Agustin Torello            |             42.57 |        8 |             22.49 | Nicolas Amaya              |             80 |
-|             80 | Juan Vaca                  |             68.16 |        9 |             20.23 | Lucas Fernandez Miranda    |             80 |
-|             80 | Felipe Campodonico         |             54.72 |       10 |             94.41 | Santiago Fernandez         |             80 |
-|             80 | Felipe Crispo              |             70.35 |       11 |             37.68 | Federico Graglia           |             80 |
-|             80 | Segundo Fresco             |             60.68 |       12 |             10.23 | Bautista Farise            |             80 |
-|             80 | Benjamin Marban            |             45.44 |       13 |             30.19 | Juan Fernandez Miranda     |             80 |
-|             80 | Wilmer Ramirez             |             53.19 |       14 |             31.57 | Alfredo Mayol              |             80 |
-|             80 | Valentino Quattrocchi      |             28.83 |       15 |             57.26 | Joaquin Diaz Bonilla       |             80 |
+|             80 | Santiago Bonavento         |             42.52 |        1 |             19.57 | Juan Ignacio Martinez Sosa |             80 |
+|             80 | Agustin Fitzsimons Herrera |             38.15 |        2 |              8.51 | Agustin Capurro            |             80 |
+|             80 | Alexis Uvieda              |             77.13 |        3 |              6.98 | Nicolas Leiva              |             80 |
+|             80 | Ramiro Bruni               |             48.82 |        4 |             26.87 | Carlos Repetto             |             80 |
+|             80 | Santiago Canal             |             50.9  |        5 |             14.1  | Juan Ignacio Comolli       |             80 |
+|             80 | Facundo Alvarez Amado      |             35.09 |        6 |             21.79 | Tomas Scallan              |             80 |
+|             80 | Franco Gnecco              |             58.91 |        7 |              8.68 | Santino Amayav             |             80 |
+|             80 | Agustin Torello            |             42.51 |        8 |             22.36 | Nicolas Amaya              |             80 |
+|             80 | Juan Vaca                  |             68.26 |        9 |             20.33 | Lucas Fernandez Miranda    |             80 |
+|             80 | Felipe Campodonico         |             54.79 |       10 |             94.44 | Santiago Fernandez         |             80 |
+|             80 | Felipe Crispo              |             70.27 |       11 |             37.73 | Federico Graglia           |             80 |
+|             80 | Segundo Fresco             |             60.64 |       12 |             10.19 | Bautista Farise            |             80 |
+|             80 | Benjamin Marban            |             45.35 |       13 |             30.07 | Juan Fernandez Miranda     |             80 |
+|             80 | Wilmer Ramirez             |             53.09 |       14 |             31.45 | Alfredo Mayol              |             80 |
+|             80 | Valentino Quattrocchi      |             28.51 |       15 |             56.83 | Joaquin Diaz Bonilla       |             80 |
 |              0 | Mateo Caffaro              |            nan    |       16 |            nan    | Benjamin Silveyra          |              0 |
-|              0 | Alejo Garcia               |             28.76 |       17 |             15.5  | Franco Diviesti            |              0 |
-|              0 | Mateo Calistro             |             36.31 |       18 |            nan    | Mariano Leiva              |              0 |
-|              0 | Nahuel Curti               |             21.71 |       19 |            nan    | Victor Franco              |              0 |
+|              0 | Alejo Garcia               |             28.78 |       17 |             15.43 | Franco Diviesti            |              0 |
+|              0 | Mateo Calistro             |             36.38 |       18 |            nan    | Mariano Leiva              |              0 |
+|              0 | Nahuel Curti               |             21.61 |       19 |            nan    | Victor Franco              |              0 |
 |              0 | Luka Gullo                 |            nan    |       20 |            nan    | Juan Pacheco               |              0 |
-|              0 | Isidro Lazzarini           |             34.68 |       21 |            nan    | Gaspar Jeckeln             |              0 |
+|              0 | Isidro Lazzarini           |             34.87 |       21 |            nan    | Gaspar Jeckeln             |              0 |
 |              0 | Santiago Gibert            |            nan    |       22 |            nan    | Pedro Miranda              |              0 |
 |              0 | Lautaro Grys Arana         |            nan    |       23 |            nan    | Nicolas Marzano            |              0 |
 

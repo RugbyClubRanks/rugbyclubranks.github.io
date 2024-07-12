@@ -11,7 +11,7 @@ categories: "International Test Match 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.563, which translates to predicting Georgia to win by 2.3.
 
-Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 23 to 25
+Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 22 to 25
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Georgia by 1.2 on a neutral pitch
 
 |   Away Minutes | Away Player                    |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:-------------------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             80 | Eroni Mawi                     |             85.74 |        1 |             23.59 | Giorgi Akhaladze     |             80 |
-|             80 | Tevita Ikanivere               |             92.82 |        2 |             78.02 | Vano Karkadze        |             80 |
-|             80 | Mesake Doge                    |             61.45 |        3 |             21.28 | Irakli Aptsiauri     |             80 |
-|             80 | Isoa Nasilasila                |             80.11 |        4 |             29.4  | Mikheil Babunashvili |             80 |
-|             80 | Temo Mayanavanua               |             92.96 |        5 |             27.78 | Giorgi Javakhia      |             80 |
-|             80 | Lekima Tagitagivalu            |             81.17 |        6 |             24.95 | Ilia Spanderashvili  |             80 |
-|             80 | Kitione Salawa                 |             16.88 |        7 |             73.93 | Luka Ivanishvili     |             80 |
-|             80 | Viliame Mata                   |             78.51 |        8 |             75.1  | Beka Gorgadze        |             80 |
-|             80 | Frank Lomani                   |             85.07 |        9 |              9.45 | Vasil Lobzhanidze    |             80 |
-|             80 | Vilimoni Botitu                |             73.99 |       10 |             59.54 | Tedo Abzhandadze     |             80 |
-|             80 | Peniasi Dakuwaqa               |             60.68 |       11 |             85.95 | Davit Niniashvili    |             80 |
-|             80 | Inia Tabuavou                  |             71.01 |       12 |             93.58 | Giorgi Kveseladze    |             80 |
-|             80 | Waisea Nayacalevu Vuidravuwalu |             97.19 |       13 |             82.45 | Demur Tapladze       |             80 |
-|             80 | Jiuta Wainiqolo                |             94.8  |       14 |             87.96 | Aka Tabutsadze       |             80 |
-|             80 | Ilaisa Droasese                |             75    |       15 |             82.06 | Luka Matkava         |             80 |
-|              0 | Zuriel Togiatama               |             31.45 |       16 |            nan    | Luka Petriashvili    |              0 |
-|              0 | Haereiti Hetet                 |             94.37 |       17 |            nan    | Giorgi Mamaiashvili  |              0 |
-|              0 | Peni Ravai Kovekalou           |             53.35 |       18 |            nan    | Aleksandre Kuntelia  |              0 |
-|              0 | Albert Tuisue                  |             90.07 |       19 |             32.83 | Lado Chachanidze     |              0 |
-|              0 | Meli Derenalagi                |             47.96 |       20 |             84.23 | Beka Saghinadze      |              0 |
-|              0 | Elia Canakaivata               |             72.89 |       21 |             34.74 | Tornike Jalagonia    |              0 |
-|              0 | Simione Kuruvoli               |             11.94 |       22 |             58.71 | Gela Aprasidze       |              0 |
-|              0 | Isaiah Armstrong-Ravula        |             33.14 |       23 |             92.15 | Sandro Todua         |              0 |
+|             50 | Eroni Mawi                     |             84.34 |        1 |             29.7  | Giorgi Akhaladze     |             57 |
+|             77 | Tevita Ikanivere               |             92.71 |        2 |             78.57 | Vano Karkadze        |             70 |
+|             50 | Mesake Doge                    |             54.57 |        3 |             24.56 | Irakli Aptsiauri     |             57 |
+|             80 | Isoa Nasilasila                |             80.7  |        4 |             28.38 | Mikheil Babunashvili |             80 |
+|             80 | Temo Mayanavanua               |             93    |        5 |             29.61 | Giorgi Javakhia      |             67 |
+|             61 | Lekima Tagitagivalu            |             80.24 |        6 |             32.87 | Ilia Spanderashvili  |             35 |
+|             73 | Kitione Salawa                 |             16.25 |        7 |             74.52 | Luka Ivanishvili     |             67 |
+|             61 | Viliame Mata                   |             77.64 |        8 |             75.05 | Beka Gorgadze        |             80 |
+|             75 | Frank Lomani                   |             84.79 |        9 |             11.07 | Vasil Lobzhanidze    |             52 |
+|             80 | Vilimoni Botitu                |             74.33 |       10 |             60.73 | Tedo Abzhandadze     |             73 |
+|             80 | Peniasi Dakuwaqa               |             61.09 |       11 |             85.82 | Davit Niniashvili    |             80 |
+|             65 | Inia Tabuavou                  |             68.73 |       12 |             93.41 | Giorgi Kveseladze    |             80 |
+|             80 | Waisea Nayacalevu Vuidravuwalu |             97.2  |       13 |             82.42 | Demur Tapladze       |             80 |
+|             80 | Jiuta Wainiqolo                |             94.82 |       14 |             87.91 | Aka Tabutsadze       |             80 |
+|             80 | Ilaisa Droasese                |             75.5  |       15 |             81.73 | Luka Matkava         |             80 |
+|              3 | Zuriel Togiatama               |             31.31 |       16 |            nan    | Luka Petriashvili    |             10 |
+|             30 | Haereiti Hetet                 |             94.32 |       17 |            nan    | Giorgi Mamaiashvili  |             23 |
+|             30 | Peni Ravai Kovekalou           |             53.34 |       18 |            nan    | Aleksandre Kuntelia  |             23 |
+|             19 | Albert Tuisue                  |             90.03 |       19 |             32.73 | Lado Chachanidze     |             13 |
+|             19 | Meli Derenalagi                |             47.83 |       20 |             84.21 | Beka Saghinadze      |             45 |
+|              7 | Elia Canakaivata               |             73.05 |       21 |             34.73 | Tornike Jalagonia    |             13 |
+|              5 | Simione Kuruvoli               |             12.07 |       22 |             58.51 | Gela Aprasidze       |             28 |
+|             15 | Isaiah Armstrong-Ravula        |             33.14 |       23 |             92.09 | Sandro Todua         |              7 |
 

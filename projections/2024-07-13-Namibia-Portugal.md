@@ -9,7 +9,7 @@ categories: "International Test Match 2024" match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.327, which translates to predicting Portugal to win by 2.7.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.327, which translates to predicting Portugal to win by 3.3.
 
 Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 27 to 24
 
@@ -69,25 +69,25 @@ Portugal by 9.3 on a neutral pitch
 
 | Away Player            |   Away Percentile |   Number |   Home Percentile | Home Player         |
 |:-----------------------|------------------:|---------:|------------------:|:--------------------|
-| Francisco Fernandes    |             11.57 |        1 |              3.93 | Jason Benade        |
+| Francisco Fernandes    |             11.51 |        1 |              3.99 | Jason Benade        |
 | Luka Begic             |            nan    |        2 |            nan    | Obert Nortje        |
-| Diogo Hasse Ferreira   |             12.26 |        3 |            nan    | Haitembu Shikufa    |
-| Antonio Rebelo Andrade |            nan    |        4 |             25.31 | Adriaan Ludick      |
-| Duarte Torgal          |             81.16 |        5 |             32.75 | Johan Retief        |
-| Jose Madeira           |             92.49 |        6 |             21.43 | Prince Gaoseb       |
-| Nicolas Martins        |             92.39 |        7 |             24.3  | Max Katjijeko       |
-| Joao Granate           |             80.92 |        8 |            nan    | Adriaan Booysen     |
-| Hugo Gomes Camacho     |            nan    |        9 |             40.8  | Jacques Theron      |
-| Domingos Cabral        |            nan    |       10 |             80.54 | Tiaan Swanepoel     |
-| Rodrigo Marta          |             90.69 |       11 |            nan    | Lloyd Jacobs        |
-| Tomas Appleton         |             72.83 |       12 |             66    | Danco Burger        |
-| Jose Lima              |             84.25 |       13 |             10.03 | Alcino Izaacs       |
+| Diogo Hasse Ferreira   |             12.13 |        3 |            nan    | Haitembu Shikufa    |
+| Antonio Rebelo Andrade |            nan    |        4 |             25.17 | Adriaan Ludick      |
+| Duarte Torgal          |             81.27 |        5 |             32.5  | Johan Retief        |
+| Jose Madeira           |             92.43 |        6 |             21.33 | Prince Gaoseb       |
+| Nicolas Martins        |             92.34 |        7 |             24.19 | Max Katjijeko       |
+| Joao Granate           |             81.04 |        8 |            nan    | Adriaan Booysen     |
+| Hugo Gomes Camacho     |            nan    |        9 |             40.83 | Jacques Theron      |
+| Domingos Cabral        |            nan    |       10 |             80.46 | Tiaan Swanepoel     |
+| Rodrigo Marta          |             90.64 |       11 |            nan    | Lloyd Jacobs        |
+| Tomas Appleton         |             72.8  |       12 |             66.03 | Danco Burger        |
+| Jose Lima              |             84.12 |       13 |              9.99 | Alcino Izaacs       |
 | Jose Paiva dos Santos  |            nan    |       14 |            nan    | Quiren Madjiedt     |
 | Manuel Cardoso Pinto   |             24.18 |       15 |            nan    | Jay-Cee Nel         |
 | Cody Thomas            |            nan    |       16 |            nan    | Armand Combrinck    |
-| Pedro Vicente          |            nan    |       17 |             14.57 | Des Sethie          |
+| Pedro Vicente          |            nan    |       17 |             14.5  | Des Sethie          |
 | Antonio Prim           |            nan    |       18 |            nan    | Chemigan Beukes     |
-| Diego Pinheiro Ruiz    |            nan    |       19 |              5.71 | Ruan Ludick         |
+| Diego Pinheiro Ruiz    |            nan    |       19 |              5.68 | Ruan Ludick         |
 | Vasco Baptista         |            nan    |       20 |            nan    | Peter Diergaardt    |
 | Pedro Lucas            |            nan    |       21 |            nan    | AJ Kearns           |
 | Manuel Vareiro         |            nan    |       22 |            nan    | Denzo Joelle Bruwer |
