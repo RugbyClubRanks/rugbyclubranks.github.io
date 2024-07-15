@@ -11,7 +11,7 @@ categories: "World Rugby U20 Championship 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.92, which translates to predicting New Zealand U20 to win by 29.1.
 
-Our Over/Under is 57.5 - and combined with the spread above, we have a predicted scoreline of 14 to 43
+Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 11 to 40
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,19 +69,19 @@ New Zealand U20 by 4.3 on a neutral pitch
 
 |   Away Minutes | Away Player                      |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:---------------------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             80 | Alberto Gomez                    |             17.65 |        1 |             63.39 | Senio Sanele       |             80 |
-|             80 | Pau Massoni Salado               |             26.75 |        2 |             66.11 | A-One Lolofie      |             80 |
-|             80 | Guido Reyes Rendon               |             14.58 |        3 |             72.83 | Joshua Smith       |             80 |
-|             80 | Martin Serrano                   |             20.25 |        4 |             73.42 | Tom Allen          |             80 |
-|             80 | Antonio Gamez                    |             30.65 |        5 |             65.66 | Cameron Christie   |             80 |
-|             80 | Victor Emmanuel Ofojetu Osayande |             26.55 |        6 |             65.1  | Andrew Smith       |             80 |
-|             80 | Daniel Velasco                   |             26.55 |        7 |             69.16 | Matt Lowe          |             80 |
-|             80 | Valentino Rizzo                  |             20.16 |        8 |             59.08 | Mosese Bason       |             80 |
-|             80 | Javier Lopez de Haro             |             16.69 |        9 |             61.16 | Ben O'Donovan      |             80 |
-|             80 | Gonzalo Otamendi                 |              6.51 |       10 |             59.39 | Cooper Grant       |             80 |
-|             80 | Roberto Ponce                    |             22.36 |       11 |             66.64 | Frank Vaenuku      |             80 |
-|             80 | Yago Fernandez Vilar             |             20.68 |       12 |             89.21 | Mark Tele'a        |             80 |
-|             80 | Unax Zuriarrain                  |             21.58 |       13 |             71.83 | Xavier TIto-Harris |             80 |
-|             80 | Javier Guillermo                 |             17.36 |       14 |             61.73 | King Maxwell       |             80 |
-|             80 | Gabriel Rocaries                 |              7.23 |       15 |             58.43 | Isaac Hutchinson   |             80 |
+|             80 | Alberto Gomez                    |             17.78 |        1 |             63.37 | Senio Sanele       |             80 |
+|             80 | Pau Massoni Salado               |             26.32 |        2 |             66.57 | A-One Lolofie      |             80 |
+|             80 | Guido Reyes Rendon               |             14.33 |        3 |             57.93 | Joshua Smith       |             80 |
+|             80 | Martin Serrano                   |             20.43 |        4 |             62.51 | Tom Allen          |             80 |
+|             80 | Antonio Gamez                    |             30.65 |        5 |             65.98 | Cameron Christie   |             80 |
+|             80 | Victor Emmanuel Ofojetu Osayande |             26.41 |        6 |             51.8  | Andrew Smith       |             80 |
+|             80 | Daniel Velasco                   |             26.41 |        7 |             69.1  | Matt Lowe          |             80 |
+|             80 | Valentino Rizzo                  |             15.28 |        8 |             48.02 | Mosese Bason       |             80 |
+|             80 | Javier Lopez de Haro             |             11.18 |        9 |             61.35 | Ben O'Donovan      |             80 |
+|             80 | Gonzalo Otamendi                 |              5.13 |       10 |             59.89 | Cooper Grant       |             80 |
+|             80 | Roberto Ponce                    |             23    |       11 |             66.45 | Frank Vaenuku      |             80 |
+|             80 | Yago Fernandez Vilar             |             16.72 |       12 |             84.18 | Mark Tele'a        |             80 |
+|             80 | Unax Zuriarrain                  |             21.19 |       13 |             67.82 | Xavier TIto-Harris |             80 |
+|             80 | Javier Guillermo                 |             17.82 |       14 |             61.82 | King Maxwell       |             80 |
+|             80 | Gabriel Rocaries                 |              7.57 |       15 |             58.57 | Isaac Hutchinson   |             80 |
 

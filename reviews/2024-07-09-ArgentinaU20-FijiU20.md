@@ -69,27 +69,27 @@ Argentina U20 by 2.1 on a neutral pitch
 
 |   Away Minutes | Away Player              |   Away Percentile |   Number |   Home Percentile | Home Player                  |   Home Minutes |
 |---------------:|:-------------------------|------------------:|---------:|------------------:|:-----------------------------|---------------:|
-|             45 | Mataiasi Tuisireli       |             17.27 |        1 |             76.44 | Diego Correa                 |             78 |
-|             64 | Moses Armstrong-Ravula   |             10.94 |        2 |             55.17 | Juan Manuel Vivas            |             40 |
-|             45 | Luke Nasau               |             20.57 |        3 |             60.48 | Emir Gael Galvan             |             51 |
-|             80 | Nalani May               |             12.87 |        4 |             92.05 | Efrain Elias                 |             80 |
-|             59 | Iliesa Erenavula         |             13.81 |        5 |             75.02 | Felipe Bruno                 |             59 |
-|             80 | Ebernezer Tuidraki       |              9.6  |        6 |             62.23 | Agustin Sarelli              |             63 |
-|             63 | Ratu Nemani Kurucake     |             19.02 |        7 |             73.31 | Juan Penoucos                |             80 |
-|             67 | Simon Koroiyadi          |             11.38 |        8 |             53.69 | Ignacio Torrado              |             80 |
-|             64 | Samuela Ledua            |             24.46 |        9 |             53.55 | Genaro Podesta               |             66 |
-|             80 | Isikeli Rabitu           |             14.18 |       10 |             56.7  | Facundo Rodriguez            |             80 |
-|             59 | Waisake Salabiau         |             17.27 |       11 |             72    | Felipe Ledesma               |             80 |
-|             80 | Sivaniolo Kalaveti       |             10.39 |       12 |             66.63 | Tomas Medina                 |             80 |
-|             80 | Harry Valevatu           |             17.28 |       13 |             81.12 | Faustino Sánchez Valarolo    |             59 |
-|             80 | Aisea Nawai              |             14.45 |       14 |             75.73 | Franco Rossetto              |             80 |
-|             80 | Isikeli Basiyalo         |              9.24 |       15 |             43.57 | Benjamin Elizalde            |             66 |
-|             35 | Breyton Legge            |             27.74 |       16 |             63.98 | Juan Ignacio Greising Revol  |             40 |
-|             35 | Elroy Macomber           |             33.23 |       17 |            nan    | Marcos Camerlinckx           |             29 |
-|             21 | Malakai Masi             |            nan    |       18 |             39.66 | Santino Di Lucca             |             21 |
-|             21 | Bogidrau Kikau           |             21.07 |       19 |             51.1  | Juan Pedro Bernasconi        |             21 |
-|             17 | Sakenasa Senivono Nalasi |            nan    |       20 |             61.96 | Santos Fernandez De Oliveira |             17 |
-|             16 | Iowane Vakadrigi         |            nan    |       21 |             60.36 | Timoteo Silva                |             14 |
-|             16 | Pauliasi Korobiau        |            nan    |       22 |            nan    | Jeronimo Llorens Villanueva  |             14 |
+|             45 | Mataiasi Tuisireli       |             16.78 |        1 |             81.46 | Diego Correa                 |             78 |
+|             64 | Moses Armstrong-Ravula   |             10.74 |        2 |             55.22 | Juan Manuel Vivas            |             40 |
+|             45 | Luke Nasau               |             20    |        3 |             71.34 | Emir Gael Galvan             |             51 |
+|             80 | Nalani May               |             12.56 |        4 |             94.1  | Efrain Elias                 |             80 |
+|             59 | Iliesa Erenavula         |             14.06 |        5 |             74.98 | Felipe Bruno                 |             59 |
+|             80 | Ebernezer Tuidraki       |              9.53 |        6 |             62.44 | Agustin Sarelli              |             63 |
+|             63 | Ratu Nemani Kurucake     |             19.33 |        7 |             78.45 | Juan Penoucos                |             80 |
+|             67 | Simon Koroiyadi          |             11.51 |        8 |             54.56 | Ignacio Torrado              |             80 |
+|             64 | Samuela Ledua            |             24.18 |        9 |             54.11 | Genaro Podesta               |             66 |
+|             80 | Isikeli Rabitu           |             13.12 |       10 |             57.22 | Facundo Rodriguez            |             80 |
+|             59 | Waisake Salabiau         |             17.18 |       11 |             74.93 | Felipe Ledesma               |             80 |
+|             80 | Sivaniolo Kalaveti       |             10.15 |       12 |             66.77 | Tomas Medina                 |             80 |
+|             80 | Harry Valevatu           |             17.31 |       13 |             81.09 | Faustino Sánchez Valarolo    |             59 |
+|             80 | Aisea Nawai              |             13.73 |       14 |             75.55 | Franco Rossetto              |             80 |
+|             80 | Isikeli Basiyalo         |              9.16 |       15 |             58.76 | Benjamin Elizalde            |             66 |
+|             35 | Breyton Legge            |             27.32 |       16 |             78.67 | Juan Ignacio Greising Revol  |             40 |
+|             35 | Elroy Macomber           |             33.03 |       17 |            nan    | Marcos Camerlinckx           |             29 |
+|             21 | Malakai Masi             |             31.58 |       18 |             61.22 | Santino Di Lucca             |             21 |
+|             21 | Bogidrau Kikau           |             21.29 |       19 |             66.27 | Juan Pedro Bernasconi        |             21 |
+|             17 | Sakenasa Senivono Nalasi |            nan    |       20 |             74.75 | Santos Fernandez De Oliveira |             17 |
+|             16 | Iowane Vakadrigi         |            nan    |       21 |             73.91 | Timoteo Silva                |             14 |
+|             16 | Pauliasi Korobiau        |            nan    |       22 |             65.79 | Jeronimo Llorens Villanueva  |             14 |
 |             13 | Josua Gonewai            |            nan    |       23 |            nan    | Renzo Martin                 |              2 |
 
