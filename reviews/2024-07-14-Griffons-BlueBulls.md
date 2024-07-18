@@ -11,7 +11,7 @@ categories: "Currie Cup 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.256, which translates to predicting Blue Bulls to win by 9.8.
 
-Our Over/Under is 58.5 - and combined with the spread above, we have a predicted scoreline of 34 to 24
+Our Over/Under is 77.5 - and combined with the spread above, we have a predicted scoreline of 44 to 34
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Blue Bulls by 3.6 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player               |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:--------------------------|---------------:|
-|             80 | Jan-Hendrik Wessels   |             25.82 |        1 |              5.21 | Xolani Jacobs             |             80 |
+|             80 | Jan-Hendrik Wessels   |             25.75 |        1 |              5.21 | Xolani Jacobs             |             80 |
 |             80 | Joe van Zyl           |             53.56 |        2 |             68.99 | Chadley Wenn              |             80 |
 |             80 | Francois Klopper      |             19.77 |        3 |             11.57 | Ebune Moango Ngundue      |             80 |
-|             80 | Cobus Wiese           |             96.53 |        4 |              9.75 | Rian Olivier              |             80 |
-|             80 | Sintu Manjezi         |             86.97 |        5 |              8.43 | Curtley Thomas            |             80 |
-|             80 | Nizaam Carr           |             96.21 |        6 |             27.57 | Thato Siward Mavundla     |             80 |
+|             80 | Cobus Wiese           |             96.53 |        4 |              9.66 | Rian Olivier              |             80 |
+|             80 | Sintu Manjezi         |             86.96 |        5 |              8.44 | Curtley Thomas            |             80 |
+|             80 | Nizaam Carr           |             96.11 |        6 |             27.57 | Thato Siward Mavundla     |             80 |
 |             80 | Jannes Kirsten        |             94.08 |        7 |             14.43 | Wikus Nieuwenhuis         |             80 |
 |             80 | Celimpilo Gumede      |             61.11 |        8 |             23.02 | Mingo Piti                |             80 |
 |             80 | Bernard van der Linde |             51.97 |        9 |             12.66 | Keegan Schaefer           |             80 |
-|             80 | Jaco van der Walt     |             84.6  |       10 |             38.59 | Duan Pretorius            |             80 |
-|             80 | Stravino Jacobs       |             51.82 |       11 |             10.45 | Andrew Kota               |             80 |
-|             80 | Chris Smit            |             70.85 |       12 |              5.57 | Robbie Petzer             |             80 |
-|             80 | Aphiwe Dyantyi        |              3.58 |       13 |             11.04 | Keanu Armandio Vers       |             80 |
-|             80 | Sergeal Petersen      |             95.64 |       14 |             16    | Gilroy Philander          |             80 |
-|             80 | Devon Williams        |             89.64 |       15 |             12.95 | Gurshwin Wehr             |             80 |
+|             80 | Jaco van der Walt     |             84.6  |       10 |             38.4  | Duan Pretorius            |             80 |
+|             80 | Stravino Jacobs       |             51.77 |       11 |             10.46 | Andrew Kota               |             80 |
+|             80 | Chris Smit            |             70.79 |       12 |              5.58 | Robbie Petzer             |             80 |
+|             80 | Aphiwe Dyantyi        |              3.59 |       13 |             11.07 | Keanu Armandio Vers       |             80 |
+|             80 | Sergeal Petersen      |             95.63 |       14 |             16.01 | Gilroy Philander          |             80 |
+|             80 | Devon Williams        |             89.82 |       15 |             12.97 | Gurshwin Wehr             |             80 |
 |              0 | Jacques van Rooyen    |            nan    |       16 |            nan    | Simon Westraadt           |              0 |
 |              0 | Dylan Smith           |             88.28 |       17 |            nan    | Mthokozisi Charles Gumede |              0 |
 |              0 | Ntuthuko Mchunu       |             29.04 |       18 |            nan    | Buhle Nojekwa             |              0 |
 |              0 | Merwe Olivier         |            nan    |       19 |            nan    | Joshua Aiden  Paris       |              0 |
 |              0 | Nama Xaba             |              4.07 |       20 |            nan    | Matthew Gray              |              0 |
 |              0 | Zak Burger            |             88.49 |       21 |            nan    | Jared Kruger              |              0 |
-|              0 | Chris Smith           |             65.02 |       22 |            nan    | Cheslin Arendse           |              0 |
-|              0 | Cornal Hendricks      |              3.68 |       23 |            nan    | Christiaan Nel            |              0 |
+|              0 | Chris Smith           |             64.83 |       22 |            nan    | Cheslin Arendse           |              0 |
+|              0 | Cornal Hendricks      |              3.69 |       23 |            nan    | Christiaan Nel            |              0 |
 

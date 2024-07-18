@@ -11,7 +11,7 @@ categories: "Currie Cup 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.664, which translates to predicting Pumas to win by 6.3.
 
-Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 22 to 29
+Our Over/Under is 56.5 - and combined with the spread above, we have a predicted scoreline of 25 to 31
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Golden Lions by 6.6 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player              |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:-------------------------|---------------:|
-|             80 | Morgan Naude         |             79.16 |        1 |             75.33 | Etienne Janeke           |             80 |
-|             80 | Jaco Visagie         |             88.05 |        2 |             79.58 | Eduan Swart              |             80 |
-|             80 | RF Schoeman          |             74.94 |        3 |             67.82 | Sampie Swiegers          |             80 |
-|             80 | Raynard Roets        |             83.51 |        4 |             42.55 | Malembe Mpofu            |             80 |
-|             80 | Ruben Schoeman       |             96.72 |        5 |             90.35 | Shane Monro Kirkwood     |             80 |
+|             80 | Morgan Naude         |             79.16 |        1 |             75.25 | Etienne Janeke           |             80 |
+|             80 | Jaco Visagie         |             88.05 |        2 |             79.43 | Eduan Swart              |             80 |
+|             80 | RF Schoeman          |             74.87 |        3 |             67.82 | Sampie Swiegers          |             80 |
+|             80 | Raynard Roets        |             83.49 |        4 |             42.59 | Malembe Mpofu            |             80 |
+|             80 | Ruben Schoeman       |             96.72 |        5 |             90.34 | Shane Monro Kirkwood     |             80 |
 |             80 | Jarod Cairns         |             18.41 |        6 |             32.28 | Ntsinka Fisanti          |             80 |
 |             80 | Ruan Venter          |             95.28 |        7 |             30.71 | Ruwald Van der Merwe     |             80 |
-|             80 | Izan Esterhuizen     |             66.07 |        8 |             79.96 | Kwanda Dimaza            |             80 |
+|             80 | Izan Esterhuizen     |             65.87 |        8 |             80.16 | Kwanda Dimaza            |             80 |
 |             80 | Nico Steyn           |             76.15 |        9 |             39.31 | Ross Braude              |             80 |
-|             80 | Sam Francis          |             61.41 |       10 |             28.9  | Clinton Swart            |             80 |
-|             80 | Rabz Maxwane         |             91.73 |       11 |             37.64 | Phiko Sobahle            |             80 |
-|             80 | Rynardt Jonker       |             84.88 |       12 |             29.05 | Wian van Niekerk         |             80 |
-|             80 | Manuel Rass          |             51.34 |       13 |             54.33 | De-An Deneille Ackermann |             80 |
-|             80 | Edwill van der Merwe |             96.82 |       14 |             15.45 | Kabelo Mokoena           |             80 |
-|             80 | Gianni Lombard       |             87.05 |       15 |             41.83 | Stefan Coetzee           |             80 |
+|             80 | Sam Francis          |             61.22 |       10 |             28.71 | Clinton Swart            |             80 |
+|             80 | Rabz Maxwane         |             91.72 |       11 |             37.67 | Phiko Sobahle            |             80 |
+|             80 | Rynardt Jonker       |             84.85 |       12 |             29.01 | Wian van Niekerk         |             80 |
+|             80 | Manuel Rass          |             51.35 |       13 |             54.34 | De-An Deneille Ackermann |             80 |
+|             80 | Edwill van der Merwe |             96.82 |       14 |             15.47 | Kabelo Mokoena           |             80 |
+|             80 | Gianni Lombard       |             87.23 |       15 |             41.92 | Stefan Coetzee           |             80 |
 |              0 | Jacques du Toit      |            nan    |       16 |            nan    | Darnell Osowagu          |              0 |
 |              0 | SJ Kotze             |            nan    |       17 |            nan    | Dewald Maritz            |              0 |
 |              0 | Conraad Van Vuuren   |             50.73 |       18 |            nan    | Nash Mhere               |              0 |
-|              0 | Sibabalo Qoma        |            nan    |       19 |             87.25 | Deon Slabbert            |              0 |
+|              0 | Sibabalo Qoma        |            nan    |       19 |             87.24 | Deon Slabbert            |              0 |
 |              0 | Ruhan Straeuli       |             72.16 |       20 |            nan    | Marvelous Mashimbyi      |              0 |
 |              0 | Renzo du Plessis     |            nan    |       21 |            nan    | Richman Gora             |              0 |
 |              0 | Morne van den Berg   |             92.76 |       22 |            nan    | Danrich Zynodene Visagie |              0 |
-|              0 | Tapiwa Mafura        |             61.16 |       23 |            nan    | Tino Swanepoel           |              0 |
+|              0 | Tapiwa Mafura        |             61.28 |       23 |            nan    | Tino Swanepoel           |              0 |
 

@@ -11,7 +11,7 @@ categories: "International Test Match 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.639, which translates to predicting Australia to win by 5.1.
 
-Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 24 to 29
+Our Over/Under is 56.5 - and combined with the spread above, we have a predicted scoreline of 26 to 31
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Australia by 1.8 on a neutral pitch
 
 |   Away Minutes | Away Player      |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:-----------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             80 | Gareth Thomas    |             63.6  |        1 |             95.17 | James Slipper        |             56 |
+|             80 | Gareth Thomas    |             63.68 |        1 |             95.17 | James Slipper        |             56 |
 |             69 | Dewi Lake        |             57.94 |        2 |             85.02 | Matt Faessler        |             61 |
 |             74 | Archie Griffin   |             33.49 |        3 |             95.79 | Taniela Tupou        |             41 |
-|             80 | Christ Tshiunza  |             46.67 |        4 |             24.74 | Jeremy Williams      |             59 |
-|             65 | Dafydd Jenkins   |             92.22 |        5 |             14.71 | Lukhan Salakaia-Loto |             80 |
-|             80 | James Botham     |             81.59 |        6 |             97.96 | Rob Valetini         |             80 |
+|             80 | Christ Tshiunza  |             46.72 |        4 |             24.77 | Jeremy Williams      |             59 |
+|             65 | Dafydd Jenkins   |             92.21 |        5 |             14.63 | Lukhan Salakaia-Loto |             80 |
+|             80 | James Botham     |             81.5  |        6 |             97.96 | Rob Valetini         |             80 |
 |             80 | Tommy Reffell    |             82.05 |        7 |             95.47 | Fraser McReight      |             80 |
-|             80 | Taine Plumtree   |             76.59 |        8 |             62.5  | Charlie Cale         |             59 |
+|             80 | Taine Plumtree   |             76.39 |        8 |             62.5  | Charlie Cale         |             59 |
 |             61 | Ellis Bevan      |             62.34 |        9 |             80.1  | Jake Gordon          |             62 |
-|             61 | Ben Thomas       |             65.59 |       10 |             90.49 | Noah Lolesio         |             71 |
-|             80 | Rio Dyer         |             22.82 |       11 |             95.36 | Filipo Daugunu       |             80 |
-|             80 | Mason Grady      |             80.3  |       12 |             82.29 | Hunter Paisami       |             80 |
-|             80 | Owen Watkin      |             99.2  |       13 |             59.7  | Josh Flook           |             80 |
-|             69 | Liam Williams    |             99.09 |       14 |             69.09 | Andrew Kellaway      |             80 |
-|             80 | Cameron Winnett  |             23.51 |       15 |             86.45 | Tom Wright           |             80 |
+|             61 | Ben Thomas       |             65.4  |       10 |             90.49 | Noah Lolesio         |             71 |
+|             80 | Rio Dyer         |             22.84 |       11 |             95.36 | Filipo Daugunu       |             80 |
+|             80 | Mason Grady      |             80.26 |       12 |             82.15 | Hunter Paisami       |             80 |
+|             80 | Owen Watkin      |             99.4  |       13 |             59.62 | Josh Flook           |             80 |
+|             69 | Liam Williams    |             99.09 |       14 |             69.06 | Andrew Kellaway      |             80 |
+|             80 | Cameron Winnett  |             23.55 |       15 |             86.63 | Tom Wright           |             80 |
 |             11 | Evan Lloyd       |             38.12 |       16 |            nan    | Josh Nasser          |             19 |
-|              0 | Kemsley Mathias  |             76.55 |       17 |            nan    | Isaac Kailea         |             24 |
+|              0 | Kemsley Mathias  |             76.48 |       17 |            nan    | Isaac Kailea         |             24 |
 |              6 | Harri O'Connor   |             10.04 |       18 |             97.47 | Allan Alaalatoa      |             39 |
-|             15 | Cory Hill        |            nan    |       19 |             93.16 | Angus Blyth          |             21 |
+|             15 | Cory Hill        |            nan    |       19 |             93.25 | Angus Blyth          |             21 |
 |              0 | Mackenzie Martin |             41.07 |       20 |             53.77 | Langi Gleeson        |             21 |
 |             19 | Kieran Hardy     |             69.08 |       21 |             99.18 | Nic White            |             18 |
-|             19 | Sam Costelow     |             60.08 |       22 |             62.17 | Ben Donaldson        |              9 |
-|             11 | Nick Tompkins    |             98.71 |       23 |             71.64 | Dylan Pietsch        |              0 |
+|             19 | Sam Costelow     |             59.7  |       22 |             61.98 | Ben Donaldson        |              9 |
+|             11 | Nick Tompkins    |             98.8  |       23 |             71.61 | Dylan Pietsch        |              0 |
 

@@ -11,7 +11,7 @@ categories: "Currie Cup 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.52, which translates to predicting Griquas to win by 0.7.
 
-Our Over/Under is 65.5 - and combined with the spread above, we have a predicted scoreline of 32 to 33
+Our Over/Under is 83.5 - and combined with the spread above, we have a predicted scoreline of 41 to 42
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -72,24 +72,24 @@ Natal Sharks by 11.5 on a neutral pitch
 |             80 | Ntuthuko Mchunu             |             29.04 |        1 |             17.7  | Leon Lyons                       |             80 |
 |             80 | Dan Jooste                  |             15.43 |        2 |             61.27 | Janco Uys                        |             80 |
 |             80 | Trevor Nyakane              |             74.02 |        3 |             68.58 | Janu Botha                       |             80 |
-|             80 | Coetzee Le Roux             |             26.15 |        4 |             13.4  | Athenkosi Ernest (Dave) Khethani |             80 |
-|             80 | Reniel Hugo                 |             96.63 |        5 |              3.47 | Albert Liebenberg                |             80 |
+|             80 | Coetzee Le Roux             |             26.17 |        4 |             13.32 | Athenkosi Ernest (Dave) Khethani |             80 |
+|             80 | Reniel Hugo                 |             96.62 |        5 |              3.47 | Albert Liebenberg                |             80 |
 |             80 | Tinotenda Mavesere          |             68.83 |        6 |             24.14 | Stephan Smit                     |             80 |
-|             80 | Phepsi Buthelezi            |             63.92 |        7 |             50.23 | Marco De Witt                    |             80 |
+|             80 | Phepsi Buthelezi            |             64.01 |        7 |             50.23 | Marco De Witt                    |             80 |
 |             80 | Nick Hatton                 |             23.81 |        8 |             94.05 | Hanru Sirgel                     |             80 |
 |             80 | Bradley Davids              |             37.34 |        9 |             19.41 | Thomas Bursey                    |             80 |
-|             80 | Lionel Cronje               |             94.11 |       10 |             59.13 | Lubabalo Dobela                  |             80 |
-|             80 | Makazole Mapimpi            |             99.64 |       11 |             17.36 | Sakoyisa Makata                  |             80 |
-|             80 | Andre Esterhuizen           |             97.81 |       12 |             31.14 | Mnombo Zwelendaba                |             80 |
-|             80 | Hillegard Muller du Plessis |             28.76 |       13 |             29.85 | Sango (Saida) Xamlashe           |             80 |
-|             80 | Yaw Penxe                   |              3.82 |       14 |             36    | Marcqiewn Titus                  |             80 |
-|             80 | Aphelele Fassi              |             90.44 |       15 |             57.37 | Cameron Hufke                    |             80 |
+|             80 | Lionel Cronje               |             94.11 |       10 |             58.75 | Lubabalo Dobela                  |             80 |
+|             80 | Makazole Mapimpi            |             99.64 |       11 |             17.38 | Sakoyisa Makata                  |             80 |
+|             80 | Andre Esterhuizen           |             97.81 |       12 |             31.11 | Mnombo Zwelendaba                |             80 |
+|             80 | Hillegard Muller du Plessis |             28.71 |       13 |             29.81 | Sango (Saida) Xamlashe           |             80 |
+|             80 | Yaw Penxe                   |              3.82 |       14 |             36.12 | Marcqiewn Titus                  |             80 |
+|             80 | Aphelele Fassi              |             90.42 |       15 |             57.49 | Cameron Hufke                    |             80 |
 |              0 | Kerron van Vuuren           |             24.05 |       16 |            nan    | Gustav Du Rand                   |              0 |
 |              0 | Braam Reyneke               |             33.72 |       17 |            nan    | Edward Davids                    |              0 |
 |              0 | Khwezi Mona                 |             65.75 |       18 |            nan    | Cebolenkosi Dlamini              |              0 |
-|              0 | Renier Viljoen              |            nan    |       19 |             35.33 | Dylan Sjoblom                    |              0 |
+|              0 | Renier Viljoen              |            nan    |       19 |             35.46 | Dylan Sjoblom                    |              0 |
 |              0 | Jannes Potgieter            |             34.51 |       20 |            nan    | Derrick Pretorius                |              0 |
 |              0 | Tiaan Fourie                |            nan    |       21 |            nan    | Carl Els                         |              0 |
 |              0 | Murray Koster               |             49.35 |       22 |            nan    | Bobby Alexander                  |              0 |
-|              0 | Eduan Keyter                |             16.64 |       23 |            nan    | Zinedine Robinson                |              0 |
+|              0 | Eduan Keyter                |             16.65 |       23 |            nan    | Zinedine Robinson                |              0 |
 

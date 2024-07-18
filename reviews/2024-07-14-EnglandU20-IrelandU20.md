@@ -11,7 +11,7 @@ categories: "World Rugby U20 Championship 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.55, which translates to predicting England U20 to win by 1.9.
 
-Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 23 to 25
+Our Over/Under is 64.5 - and combined with the spread above, we have a predicted scoreline of 31 to 33
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -70,26 +70,26 @@ England U20 by 2.8 on a neutral pitch
 |   Away Minutes | Away Player      |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:-----------------|------------------:|---------:|------------------:|:---------------------|---------------:|
 |             58 | Ben Howard       |             39.39 |        1 |             91.95 | Asher Opoku-Fordjour |             80 |
-|             48 | Danny Sheahan    |             65.51 |        2 |             72.47 | Craig Wright         |             80 |
-|             48 | Patreece Bell    |             58.7  |        3 |             64.52 | Afolabi Fasogbon     |             54 |
-|             54 | Alan Spicer      |             57.45 |        4 |             65.7  | Joe Bailey           |             44 |
-|             80 | James McKillop   |             46.2  |        5 |             75.73 | Junior Kpoku         |             80 |
+|             48 | Danny Sheahan    |             65.51 |        2 |             72.31 | Craig Wright         |             80 |
+|             48 | Patreece Bell    |             58.62 |        3 |             64.52 | Afolabi Fasogbon     |             54 |
+|             54 | Alan Spicer      |             57.5  |        4 |             65.76 | Joe Bailey           |             44 |
+|             80 | James McKillop   |             46.25 |        5 |             75.8  | Junior Kpoku         |             80 |
 |             69 | Sean Edogbo      |             54.39 |        6 |             91.4  | Finn Carnduff        |             80 |
-|             80 | Bryn Ward        |             59.67 |        7 |             81.87 | Henry Pollock        |             80 |
+|             80 | Bryn Ward        |             59.67 |        7 |             81.78 | Henry Pollock        |             80 |
 |             80 | Brian Gleeson    |             28.37 |        8 |             73.41 | Nathan Michelow      |             27 |
 |             68 | Oliver Coffey    |             56.09 |        9 |             70.23 | Ollie Allan          |             54 |
-|             69 | Jack Murphy      |             57.98 |       10 |             66.92 | Benjamin Coen        |             80 |
-|             80 | Hugo McLaughlin  |             59.91 |       11 |             91.91 | Arron Reed           |             80 |
-|             68 | Hugh Gavin       |             43.78 |       12 |             64.38 | Sean Kerr            |             80 |
-|             80 | Wilhelm De Klerk |             35.12 |       13 |             61.19 | Angus Hall           |             73 |
-|             80 | Finn Treacy      |             60.27 |       14 |             90.18 | Ben Redshaw          |             80 |
-|             80 | Ben O'Connor     |             39.44 |       15 |             68.33 | Ioan Jones           |             63 |
-|             32 | Andrew Sparrow   |             53.56 |       16 |             62.07 | Kane James           |             53 |
-|             32 | Stephen Smyth    |             49.92 |       17 |             54.45 | Olamide Sodeke       |             36 |
+|             69 | Jack Murphy      |             57.79 |       10 |             66.73 | Benjamin Coen        |             80 |
+|             80 | Hugo McLaughlin  |             59.87 |       11 |             91.9  | Arron Reed           |             80 |
+|             68 | Hugh Gavin       |             43.77 |       12 |             64.21 | Sean Kerr            |             80 |
+|             80 | Wilhelm De Klerk |             35.09 |       13 |             61.12 | Angus Hall           |             73 |
+|             80 | Finn Treacy      |             60.24 |       14 |             90.17 | Ben Redshaw          |             80 |
+|             80 | Ben O'Connor     |             39.52 |       15 |             68.46 | Ioan Jones           |             63 |
+|             32 | Andrew Sparrow   |             53.56 |       16 |             61.98 | Kane James           |             53 |
+|             32 | Stephen Smyth    |             49.92 |       17 |             54.5  | Olamide Sodeke       |             36 |
 |             26 | Luke Murphy      |             52.38 |       18 |            nan    | Lucas Friday         |             26 |
 |             22 | Emmett Calvey    |             51.49 |       19 |             59.62 | Jimmy Halliwell      |             26 |
-|             12 | Tadhg Brophy     |            nan    |       20 |             59.55 | Toby Cousins         |             17 |
-|             12 | Sam Berman       |             54.43 |       21 |             52.47 | Josh Bellamy         |              7 |
-|             11 | Sean Naughton    |             53.42 |       22 |            nan    | nan                  |            nan |
-|             11 | Billy Corrigan   |             51.45 |       23 |            nan    | nan                  |            nan |
+|             12 | Tadhg Brophy     |            nan    |       20 |             59.51 | Toby Cousins         |             17 |
+|             12 | Sam Berman       |             54.44 |       21 |             52.28 | Josh Bellamy         |              7 |
+|             11 | Sean Naughton    |             53.23 |       22 |            nan    | nan                  |            nan |
+|             11 | Billy Corrigan   |             51.5  |       23 |            nan    | nan                  |            nan |
 
