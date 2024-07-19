@@ -11,7 +11,7 @@ categories: "International Test Match 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.604, which translates to predicting South Africa to win by 3.8.
 
-Our Over/Under is 42.5 - and combined with the spread above, we have a predicted scoreline of 20 to 23
+Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 22 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ South Africa by 4.3 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player               |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:--------------------------|---------------:|
-|             57 | Andrew Porter      |             91.72 |        1 |             99.69 | Ox Nche                   |             57 |
-|             66 | Ronan Kelleher     |             95.46 |        2 |             97.88 | Bongi Mbonambi            |             46 |
-|             45 | Tadhg Furlong      |             97.55 |        3 |             86.74 | Frans Malherbe            |             46 |
-|             80 | Joe McCarthy       |             83.02 |        4 |             98.78 | Eben Etzebeth             |             70 |
-|             57 | James Ryan         |             95.5  |        5 |             91.65 | Franco Mostert            |             17 |
-|             80 | Tadhg Beirne       |             99.63 |        6 |             87.51 | Siya Kolisi               |             51 |
-|             57 | Josh van der Flier |             98.52 |        7 |             92.6  | Pieter-Steph du Toit      |             80 |
-|             80 | Caelan Doris       |             95.24 |        8 |             86.51 | Kwagga Smith              |             80 |
-|             60 | Conor Murray       |             98.85 |        9 |             94.57 | Faf de Klerk              |             45 |
-|             60 | Jack Crowley       |             53.8  |       10 |             88.21 | Handre Pollard            |             80 |
-|             80 | James Lowe         |            100    |       11 |             97    | Kurt-Lee Arendse          |             80 |
-|             80 | Robbie Henshaw     |             91.33 |       12 |             99.1  | Damian de Allende         |             80 |
-|             80 | Garry Ringrose     |             98.6  |       13 |             98.01 | Jesse Kriel               |             80 |
-|             62 | Calvin Nash        |             95.91 |       14 |             99.82 | Cheslin Kolbe             |             80 |
-|             80 | Jamie Osborne      |             92.61 |       15 |             98    | Willie le Roux            |              3 |
-|             14 | Rob Herring        |             97.13 |       16 |            100    | Malcolm Marx              |             34 |
-|             23 | Cian Healy         |             93.87 |       17 |             92.41 | Gerhard Steenekamp        |             23 |
-|             35 | Finlay Bealham     |             96.25 |       18 |             69.66 | Vincent Koch              |             34 |
-|             23 | Ryan Baird         |             88.25 |       19 |             78.8  | Salmaan Moerat            |              2 |
-|             23 | Peter O'Mahony     |             97.13 |       20 |             99.34 | RG Snyman                 |             71 |
-|             20 | Caolin Blade       |             77.14 |       21 |             90.01 | Marco van Staden          |             29 |
-|             20 | Ciaran Frawley     |             60.62 |       22 |             69.57 | Grant Williams            |             35 |
-|             18 | Stuart McCloskey   |             85.54 |       23 |             41.58 | Sacha Feinberg-Mngomezulu |             77 |
+|             57 | Andrew Porter      |             91.8  |        1 |             99.7  | Ox Nche                   |             57 |
+|             66 | Ronan Kelleher     |             95.49 |        2 |             97.89 | Bongi Mbonambi            |             46 |
+|             45 | Tadhg Furlong      |             97.57 |        3 |             86.86 | Frans Malherbe            |             46 |
+|             80 | Joe McCarthy       |             83.15 |        4 |             98.79 | Eben Etzebeth             |             70 |
+|             57 | James Ryan         |             95.53 |        5 |             91.71 | Franco Mostert            |             17 |
+|             80 | Tadhg Beirne       |             99.63 |        6 |             87.55 | Siya Kolisi               |             51 |
+|             57 | Josh van der Flier |             98.52 |        7 |             92.62 | Pieter-Steph du Toit      |             80 |
+|             80 | Caelan Doris       |             95.23 |        8 |             86.48 | Kwagga Smith              |             80 |
+|             60 | Conor Murray       |             98.85 |        9 |             94.6  | Faf de Klerk              |             45 |
+|             60 | Jack Crowley       |             53.7  |       10 |             88.24 | Handre Pollard            |             80 |
+|             80 | James Lowe         |            100    |       11 |             97.02 | Kurt-Lee Arendse          |             80 |
+|             80 | Robbie Henshaw     |             91.39 |       12 |             99.11 | Damian de Allende         |             80 |
+|             80 | Garry Ringrose     |             98.62 |       13 |             98.02 | Jesse Kriel               |             80 |
+|             62 | Calvin Nash        |             95.94 |       14 |             99.82 | Cheslin Kolbe             |             80 |
+|             80 | Jamie Osborne      |             92.69 |       15 |             98.02 | Willie le Roux            |              3 |
+|             14 | Rob Herring        |             97.14 |       16 |            100    | Malcolm Marx              |             34 |
+|             23 | Cian Healy         |             93.93 |       17 |             92.48 | Gerhard Steenekamp        |             23 |
+|             35 | Finlay Bealham     |             96.36 |       18 |             69.93 | Vincent Koch              |             34 |
+|             23 | Ryan Baird         |             88.28 |       19 |             78.86 | Salmaan Moerat            |              2 |
+|             23 | Peter O'Mahony     |             97.14 |       20 |             99.35 | RG Snyman                 |             71 |
+|             20 | Caolin Blade       |             77.41 |       21 |             90.04 | Marco van Staden          |             29 |
+|             20 | Ciaran Frawley     |             60.93 |       22 |             69.72 | Grant Williams            |             35 |
+|             18 | Stuart McCloskey   |             85.66 |       23 |             41.94 | Sacha Feinberg-Mngomezulu |             77 |
 

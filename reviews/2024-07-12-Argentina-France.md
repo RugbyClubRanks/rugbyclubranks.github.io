@@ -69,27 +69,27 @@ Argentina by 4.9 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             57 | Jean-Baptiste Gros    |             98.7  |        1 |              5.59 | Mayco Vivas         |             41 |
-|             68 | Gaetan Barlot         |             92.44 |        2 |             91.68 | Julian Montoya      |             21 |
-|             65 | Georges-Henri Colombe |              2.3  |        3 |              0.15 | Eduardo Bello       |             49 |
-|             63 | Mickael Guillard      |             81.52 |        4 |             34.52 | Franco Molina       |             49 |
-|             41 | Baptiste Pesenti      |             77.39 |        5 |             14.73 | Lucas Paulos        |             57 |
-|             80 | Lenni Nouchi          |             85.38 |        6 |             98.8  | Pablo Matera        |             80 |
-|             80 | Judicael Cancoriet    |             27.29 |        7 |             85.2  | Marcos Kremer       |             80 |
-|             41 | Jordan Joseph         |             85.52 |        8 |             77.98 | Joaquin Oviedo      |             80 |
-|             68 | Baptiste Serin        |             98.36 |        9 |             41.94 | Lautaro Bazan Velez |             47 |
-|             80 | Antoine Hastoy        |             79.09 |       10 |             81.37 | Santiago Carreras   |             72 |
-|             80 | Lester Etien          |             91.17 |       11 |             24.57 | Mateo Carreras      |             80 |
-|             80 | Antoine Frisch        |             95.01 |       12 |             37.99 | Santiago Chocobares |             80 |
-|             80 | Emilien Gailleton     |             84.15 |       13 |             98.5  | Matias Moroni       |             80 |
-|             80 | Theo Attissogbe       |             56.32 |       14 |             88.44 | Bautista Delguy     |             57 |
-|             80 | Leo Barre             |             76.25 |       15 |             95.61 | Santiago Cordero    |             80 |
-|             17 | Teddy Baubigny        |             78.52 |       16 |             89.26 | Ignacio Ruiz        |             59 |
-|             23 | Sebastien Taofifenua  |             17.39 |       17 |             89.43 | Thomas Gallo        |             39 |
-|             15 | Demba Bamba           |             93.56 |       18 |             96.17 | Lucio Sordoni       |             31 |
-|             34 | Posolo Tuilagi        |             20.54 |       19 |             75.14 | Matias Alemanno     |             31 |
-|             39 | Romain Briatte        |             61.33 |       20 |             13.78 | Pedro Rubiolo       |             23 |
-|             12 | Killian Tixeront      |             68.06 |       21 |             59.54 | Gonzalo Bertranou   |             33 |
-|             12 | Baptiste Jauneau      |             73.36 |       22 |             86.5  | Tomas Albornoz      |             23 |
-|              0 | Leo Berdeu            |             81.94 |       23 |             18.94 | Matias Orlando      |              8 |
+|             57 | Jean-Baptiste Gros    |             98.71 |        1 |              5.54 | Mayco Vivas         |             41 |
+|             68 | Gaetan Barlot         |             92.48 |        2 |             91.73 | Julian Montoya      |             21 |
+|             65 | Georges-Henri Colombe |              2.28 |        3 |              0.15 | Eduardo Bello       |             49 |
+|             63 | Mickael Guillard      |             81.56 |        4 |             34.64 | Franco Molina       |             49 |
+|             41 | Baptiste Pesenti      |             77.47 |        5 |             14.62 | Lucas Paulos        |             57 |
+|             80 | Lenni Nouchi          |             85.42 |        6 |             98.8  | Pablo Matera        |             80 |
+|             80 | Judicael Cancoriet    |             27.31 |        7 |             85.24 | Marcos Kremer       |             80 |
+|             41 | Jordan Joseph         |             85.49 |        8 |             77.93 | Joaquin Oviedo      |             80 |
+|             68 | Baptiste Serin        |             98.36 |        9 |             41.73 | Lautaro Bazan Velez |             47 |
+|             80 | Antoine Hastoy        |             79.13 |       10 |             81.4  | Santiago Carreras   |             72 |
+|             80 | Lester Etien          |             91.25 |       11 |             24.62 | Mateo Carreras      |             80 |
+|             80 | Antoine Frisch        |             95.05 |       12 |             38.28 | Santiago Chocobares |             80 |
+|             80 | Emilien Gailleton     |             84.27 |       13 |             98.52 | Matias Moroni       |             80 |
+|             80 | Theo Attissogbe       |             56.45 |       14 |             88.46 | Bautista Delguy     |             57 |
+|             80 | Leo Barre             |             76.48 |       15 |             95.65 | Santiago Cordero    |             80 |
+|             17 | Teddy Baubigny        |             78.5  |       16 |             89.32 | Ignacio Ruiz        |             59 |
+|             23 | Sebastien Taofifenua  |             17.16 |       17 |             89.52 | Thomas Gallo        |             39 |
+|             15 | Demba Bamba           |             93.62 |       18 |             96.28 | Lucio Sordoni       |             31 |
+|             34 | Posolo Tuilagi        |             20.86 |       19 |             75.23 | Matias Alemanno     |             31 |
+|             39 | Romain Briatte        |             60.89 |       20 |             13.84 | Pedro Rubiolo       |             23 |
+|             12 | Killian Tixeront      |             67.79 |       21 |             59.41 | Gonzalo Bertranou   |             33 |
+|             12 | Baptiste Jauneau      |             73.65 |       22 |             86.53 | Tomas Albornoz      |             23 |
+|              0 | Leo Berdeu            |             81.97 |       23 |             19.29 | Matias Orlando      |              8 |
 

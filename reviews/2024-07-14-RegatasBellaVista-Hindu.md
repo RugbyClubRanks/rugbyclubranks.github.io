@@ -11,7 +11,7 @@ categories: "URBA Top 12 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.475, which translates to predicting Hindu to win by 0.9.
 
-Our Over/Under is 61.5 - and combined with the spread above, we have a predicted scoreline of 31 to 30
+Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 26 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Hindu by 4.1 on a neutral pitch
 
 |   Away Minutes | Away Player                |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:---------------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             82 | Juan Ignacio Martinez Sosa |             38.93 |        1 |             11.72 | Tomas Barbaccia      |             82 |
-|             82 | Agustin Capurro            |             13.77 |        2 |             33.43 | Beltran Landivar     |             82 |
-|             82 | Nicolas Leiva              |             12.34 |        3 |             15.33 | Juan Gobet           |             82 |
-|             82 | Carlos Repetto             |             42.31 |        4 |             22.98 | Valentin Sanguinetti |             82 |
-|             82 | Juan Ignacio Comolli       |             21.01 |        5 |             20.26 | Tomas Sanguinetti    |             82 |
-|             82 | Tomas Scallan              |             36.54 |        6 |             32.56 | Marcos Ferro         |             82 |
-|             82 | Nicolas D'Amorim           |             60.68 |        7 |              9.99 | Lucas Gobet          |             82 |
-|             82 | Nicolas Amaya              |             34.33 |        8 |             18.85 | Felipe Camerlinckx   |             82 |
-|             82 | Lucas Fernandez Miranda    |             36.18 |        9 |             13.65 | Marcos Joseph        |             82 |
-|             82 | Santiago Fernandez         |             96.39 |       10 |             15.21 | Mateo Camerlinckx    |             82 |
-|             82 | Federico Graglia           |             54.87 |       11 |             15.01 | Enrique Camerlinckx  |             82 |
-|             82 | Bautista Farise            |             15.25 |       12 |             14.66 | Ramiro Moadeb        |             82 |
-|             82 | Juan Fernandez Miranda     |             45.56 |       13 |             15.55 | Alejo Barrera        |             82 |
-|             82 | Alfredo Mayol              |             50.23 |       14 |             22.93 | Rafael Santana       |             82 |
-|             82 | Joaquin Diaz Bonilla       |             66.67 |       15 |             19.96 | Cruz Camerlinckx     |             82 |
-|              0 | Benjamin Silveyra          |            nan    |       16 |             53.1  | Mateo Trimarco       |              0 |
-|              0 | Franco Diviesti            |             15.17 |       17 |             18.74 | Francisco Pisani     |              0 |
+|             82 | Juan Ignacio Martinez Sosa |             38.27 |        1 |             11.54 | Tomas Barbaccia      |             82 |
+|             82 | Agustin Capurro            |             13.68 |        2 |             33.38 | Beltran Landivar     |             82 |
+|             82 | Nicolas Leiva              |             12.22 |        3 |             15.11 | Juan Gobet           |             82 |
+|             82 | Carlos Repetto             |             42.27 |        4 |             23.56 | Valentin Sanguinetti |             82 |
+|             82 | Juan Ignacio Comolli       |             21.51 |        5 |             20.58 | Tomas Sanguinetti    |             82 |
+|             82 | Tomas Scallan              |             36.35 |        6 |             32.38 | Marcos Ferro         |             82 |
+|             82 | Nicolas D'Amorim           |             60.33 |        7 |              9.96 | Lucas Gobet          |             82 |
+|             82 | Nicolas Amaya              |             33.4  |        8 |             19.09 | Felipe Camerlinckx   |             82 |
+|             82 | Lucas Fernandez Miranda    |             36.17 |        9 |             13.58 | Marcos Joseph        |             82 |
+|             82 | Santiago Fernandez         |             96.39 |       10 |             15.18 | Mateo Camerlinckx    |             82 |
+|             82 | Federico Graglia           |             54.91 |       11 |             14.97 | Enrique Camerlinckx  |             82 |
+|             82 | Bautista Farise            |             15.33 |       12 |             14.74 | Ramiro Moadeb        |             82 |
+|             82 | Juan Fernandez Miranda     |             45.99 |       13 |             15.63 | Alejo Barrera        |             82 |
+|             82 | Alfredo Mayol              |             50.32 |       14 |             22.99 | Rafael Santana       |             82 |
+|             82 | Joaquin Diaz Bonilla       |             67    |       15 |             20.16 | Cruz Camerlinckx     |             82 |
+|              0 | Benjamin Silveyra          |            nan    |       16 |             53.23 | Mateo Trimarco       |              0 |
+|              0 | Franco Diviesti            |             14.96 |       17 |             18.94 | Francisco Pisani     |              0 |
 |              0 | Mariano Leiva              |            nan    |       18 |            nan    | Diego Aguero         |              0 |
 |              0 | Victor Franco              |            nan    |       19 |            nan    | Manuel Lozano Oneto  |              0 |
-|              0 | Santino Amayav             |              8.7  |       20 |            nan    | Bautista Lopez Manan |              0 |
-|              0 | Ignacio Garcia Cuerva      |            nan    |       21 |             24.7  | Pedro Vega           |              0 |
+|              0 | Santino Amayav             |              8.58 |       20 |            nan    | Bautista Lopez Manan |              0 |
+|              0 | Ignacio Garcia Cuerva      |            nan    |       21 |             24.72 | Pedro Vega           |              0 |
 |              0 | Pedro Miranda              |            nan    |       22 |            nan    | Home Team 22         |              0 |
 |              0 | Nicolas Marzano            |            nan    |       23 |            nan    | Home Team 23         |              0 |
 

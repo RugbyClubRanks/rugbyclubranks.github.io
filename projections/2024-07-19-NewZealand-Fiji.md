@@ -9,7 +9,7 @@ categories: "Tests Matchs 2023" match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.834, which translates to predicting New Zealand to win by 15.0.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.834, which translates to predicting New Zealand to win by 14.9.
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -67,27 +67,27 @@ New Zealand by 15.0 on a neutral pitch
 
 | Away Player                    |   Away Percentile |   Number |   Home Percentile | Home Player         |
 |:-------------------------------|------------------:|---------:|------------------:|:--------------------|
-| Eroni Mawi                     |             84.29 |        1 |             86.9  | Tamaiti Williams    |
-| Tevita Ikanivere               |             92.74 |        2 |             94.86 | Asafo Aumua         |
-| Mesake Doge                    |             54.18 |        3 |              1.38 | Fletcher Newell     |
-| Isoa Nasilasila                |             79.83 |        4 |             93.43 | Scott Barrett       |
-| Temo Mayanavanua               |             92.96 |        5 |             94.65 | Tupou Vaa'i         |
-| Lekima Tagitagivalu            |             79.74 |        6 |             95.37 | Luke Jacobson       |
-| Kitione Salawa                 |             16.1  |        7 |             98.43 | Ethan Blackadder    |
-| Viliame Mata                   |             78.17 |        8 |             98.81 | Ardie Savea         |
-| Frank Lomani                   |             84.54 |        9 |             80.59 | Cortez Ratima       |
-| Isaiah Armstrong-Ravula        |             33.46 |       10 |             98.1  | Damian McKenzie     |
-| Semi Radradra                  |             99.7  |       11 |             80.89 | Caleb Clarke        |
-| Inia Tabuavou                  |             68.49 |       12 |             96.41 | Anton Lienert-Brown |
-| Waisea Nayacalevu Vuidravuwalu |             97.21 |       13 |             95.51 | Billy Proctor       |
-| Jiuta Wainiqolo                |             94.54 |       14 |             77.43 | Sevu Reece          |
-| Vilimoni Botitu                |             74.14 |       15 |            100    | Beauden Barrett     |
-| Zuriel Togiatama               |             30.56 |       16 |              9.53 | George Bell         |
-| Haereiti Hetet                 |             94.33 |       17 |             62.99 | Ethan de Groot      |
-| Samu Tawake                    |             44.9  |       18 |             50.65 | Pasilio Tosi        |
-| Albert Tuisue                  |             89.73 |       19 |             63.6  | Sam Darry           |
-| Elia Canakaivata               |             73.21 |       20 |             66.27 | Wallace Sititi      |
-| Simione Kuruvoli               |             11.84 |       21 |             76.64 | Noah Hotham         |
-| Caleb Muntz                    |             70.15 |       22 |             96.51 | Jordie Barrett      |
-| Sireli Maqala                  |             61.52 |       23 |             94.36 | Emoni Narawa        |
+| Eroni Mawi                     |             84.43 |        1 |             87.02 | Tamaiti Williams    |
+| Tevita Ikanivere               |             92.78 |        2 |             94.89 | Asafo Aumua         |
+| Mesake Doge                    |             54.29 |        3 |              1.37 | Fletcher Newell     |
+| Isoa Nasilasila                |             79.89 |        4 |             93.48 | Scott Barrett       |
+| Temo Mayanavanua               |             93.02 |        5 |             94.69 | Tupou Vaa'i         |
+| Lekima Tagitagivalu            |             79.7  |        6 |             95.39 | Luke Jacobson       |
+| Kitione Salawa                 |             16.14 |        7 |             98.43 | Ethan Blackadder    |
+| Viliame Mata                   |             78.13 |        8 |             98.81 | Ardie Savea         |
+| Frank Lomani                   |             84.62 |        9 |             80.69 | Cortez Ratima       |
+| Isaiah Armstrong-Ravula        |             33.4  |       10 |             98.1  | Damian McKenzie     |
+| Semi Radradra                  |             99.7  |       11 |             81.06 | Caleb Clarke        |
+| Inia Tabuavou                  |             68.64 |       12 |             96.44 | Anton Lienert-Brown |
+| Waisea Nayacalevu Vuidravuwalu |             97.23 |       13 |             95.55 | Billy Proctor       |
+| Jiuta Wainiqolo                |             94.59 |       14 |             77.73 | Sevu Reece          |
+| Vilimoni Botitu                |             74.19 |       15 |            100    | Beauden Barrett     |
+| Zuriel Togiatama               |             30.53 |       16 |              9.47 | George Bell         |
+| Haereiti Hetet                 |             94.38 |       17 |             63.17 | Ethan de Groot      |
+| Samu Tawake                    |             44.72 |       18 |             50.8  | Pasilio Tosi        |
+| Albert Tuisue                  |             89.76 |       19 |             63.59 | Sam Darry           |
+| Elia Canakaivata               |             73.16 |       20 |             66.2  | Wallace Sititi      |
+| Simione Kuruvoli               |             11.78 |       21 |             76.92 | Noah Hotham         |
+| Caleb Muntz                    |             70.21 |       22 |             96.54 | Jordie Barrett      |
+| Sireli Maqala                  |             61.72 |       23 |             94.41 | Emoni Narawa        |
 

@@ -11,7 +11,7 @@ categories: "International Test Match 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.449, which translates to predicting Portugal to win by 1.9.
 
-Our Over/Under is 63.5 - and combined with the spread above, we have a predicted scoreline of 32 to 31
+Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 27 to 25
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,25 +69,25 @@ Portugal by 9.3 on a neutral pitch
 
 |   Away Minutes | Away Player            |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:-----------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             55 | Francisco Fernandes    |              8.81 |        1 |              2.61 | Jason Benade        |             69 |
-|             59 | Luka Begic             |             52.65 |        2 |              8.32 | Obert Nortje        |             65 |
-|             62 | Diogo Hasse Ferreira   |              8.2  |        3 |             38.7  | Haitembu Shikufa    |             52 |
-|             80 | Antonio Rebelo Andrade |             56.1  |        4 |             18.67 | Adriaan Ludick      |             65 |
-|             80 | Duarte Torgal          |             83.4  |        5 |             24.39 | Johan Retief        |             80 |
-|             80 | Jose Madeira           |             92.51 |        6 |             15.82 | Prince Gaoseb       |             80 |
-|             62 | Nicolas Martins        |             90.29 |        7 |             18.87 | Max Katjijeko       |             80 |
-|             55 | Joao Granate           |             82.34 |        8 |              0.79 | Adriaan Booysen     |             80 |
-|             55 | Hugo Gomes Camacho     |             52.14 |        9 |             31.41 | Jacques Theron      |             78 |
-|             75 | Domingos Cabral        |             51.14 |       10 |             72.05 | Tiaan Swanepoel     |             80 |
-|             80 | Rodrigo Marta          |             89.44 |       11 |             35.81 | Lloyd Jacobs        |             80 |
-|             80 | Tomas Appleton         |             74.08 |       12 |             57.63 | Danco Burger        |             80 |
-|             59 | Jose Lima              |             85.04 |       13 |              7.88 | Alcino Izaacs       |             78 |
-|             80 | Jose Paiva dos Santos  |             54.78 |       14 |             35.81 | Quiren Madjiedt     |             80 |
-|             80 | Manuel Cardoso Pinto   |             22.16 |       15 |             29.34 | Jay-Cee Nel         |             78 |
+|             55 | Francisco Fernandes    |              8.73 |        1 |              2.58 | Jason Benade        |             69 |
+|             59 | Luka Begic             |             52.93 |        2 |              8.27 | Obert Nortje        |             65 |
+|             62 | Diogo Hasse Ferreira   |              8.12 |        3 |             38.04 | Haitembu Shikufa    |             52 |
+|             80 | Antonio Rebelo Andrade |             56.15 |        4 |             18.99 | Adriaan Ludick      |             65 |
+|             80 | Duarte Torgal          |             83.52 |        5 |             25.05 | Johan Retief        |             80 |
+|             80 | Jose Madeira           |             92.53 |        6 |             15.96 | Prince Gaoseb       |             80 |
+|             62 | Nicolas Martins        |             90.31 |        7 |             18.91 | Max Katjijeko       |             80 |
+|             55 | Joao Granate           |             82.31 |        8 |              0.8  | Adriaan Booysen     |             80 |
+|             55 | Hugo Gomes Camacho     |             52.05 |        9 |             31.26 | Jacques Theron      |             78 |
+|             75 | Domingos Cabral        |             51.04 |       10 |             72.11 | Tiaan Swanepoel     |             80 |
+|             80 | Rodrigo Marta          |             89.54 |       11 |             35.75 | Lloyd Jacobs        |             80 |
+|             80 | Tomas Appleton         |             74.28 |       12 |             57.76 | Danco Burger        |             80 |
+|             59 | Jose Lima              |             85.16 |       13 |              7.81 | Alcino Izaacs       |             78 |
+|             80 | Jose Paiva dos Santos  |             54.82 |       14 |             35.75 | Quiren Madjiedt     |             80 |
+|             80 | Manuel Cardoso Pinto   |             22.53 |       15 |             29.84 | Jay-Cee Nel         |             78 |
 |             25 | Cody Thomas            |            nan    |       16 |            nan    | Armand Combrinck    |             15 |
-|             21 | Pedro Vicente          |            nan    |       17 |             14.25 | Des Sethie          |             15 |
+|             21 | Pedro Vicente          |            nan    |       17 |             14.05 | Des Sethie          |             15 |
 |             18 | Antonio Prim           |            nan    |       18 |            nan    | Chemigan Beukes     |             24 |
-|             18 | Diego Pinheiro Ruiz    |            nan    |       19 |              5.63 | Ruan Ludick         |             15 |
+|             18 | Diego Pinheiro Ruiz    |            nan    |       19 |              5.59 | Ruan Ludick         |             15 |
 |             25 | Vasco Baptista         |            nan    |       20 |            nan    | Peter Diergaardt    |              0 |
 |             25 | Pedro Lucas            |            nan    |       21 |            nan    | AJ Kearns           |              2 |
 |              5 | Manuel Vareiro         |            nan    |       22 |            nan    | Denzo Joelle Bruwer |              2 |

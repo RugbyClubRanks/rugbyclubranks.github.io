@@ -11,7 +11,7 @@ categories: "World Rugby U20 Championship 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.233, which translates to predicting Fiji U20 to win by 12.3.
 
-Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 30 to 18
+Our Over/Under is 60.5 - and combined with the spread above, we have a predicted scoreline of 36 to 24
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Georgia U20 by 0.5 on a neutral pitch
 
 |   Away Minutes | Away Player             |   Away Percentile |   Number |   Home Percentile | Home Player            |   Home Minutes |
 |---------------:|:------------------------|------------------:|---------:|------------------:|:-----------------------|---------------:|
-|             67 | Mataiasi Tuisireli      |             16.78 |        1 |             49.35 | Luka Ungiadze          |             49 |
-|             76 | Moses Armstrong-Ravula  |             10.74 |        2 |             47.2  | Mikheil Khakubia       |             59 |
-|             54 | Luke Nasau              |             20    |        3 |             45.67 | Davit Mtchedlidze      |             60 |
-|             80 | Nalani May              |             12.48 |        4 |             43.15 | Davit Lagvilava        |             60 |
-|             59 | Malakai Masi            |             31.52 |        5 |             58.91 | Temur Tsulukidze       |             80 |
-|             54 | Ebernezer Tuidraki      |              9.53 |        6 |             46.07 | Giorgi Gergedava       |             60 |
-|             80 | Ronald Paull Sharma     |             17.95 |        7 |             41.07 | Andro Dvali            |             80 |
-|             80 | Simon Koroiyadi         |             11.51 |        8 |             43.25 | Nika Lomidze           |             80 |
-|             60 | Samuela Ledua           |             24.18 |        9 |             60.36 | Alexandre Jigauri      |             53 |
-|             80 | Isikeli Rabitu          |             13.12 |       10 |             45.25 | Luka Tsirekidze        |             80 |
-|             67 | Waisake Salabiau        |             17.2  |       11 |             32.85 | Tarieli Burtikashvili  |             74 |
-|             80 | Ponipate Tuberi         |             31.9  |       12 |             37.79 | Giorgi Khaindrava      |             80 |
-|             54 | Harry Valevatu          |             17.35 |       13 |             42.27 | Luka Kobauri           |             80 |
-|             80 | Aisea Nawai             |             13.74 |       14 |             59.24 | Luka Keshelava         |             80 |
-|             80 | Isikeli Basiyalo        |              9.18 |       15 |             38.32 | Otani Metreveli        |             80 |
-|             26 | Avakuki Niusalelekitoga |             17.11 |       16 |            nan    | Luka Kotorashvili      |             28 |
-|             26 | Breyton Legge           |             27.24 |       17 |            nan    | Mikheil Kavchavashvili |             27 |
-|             26 | Iliesa Erenavula        |             13.98 |       18 |             31.47 | Tamaz Tchamiashvili    |             21 |
-|             21 | Ratu Nemani Kurucake    |             19.33 |       19 |             30.02 | Murtazi Tskhadadze     |             20 |
-|             20 | Pauliasi Korobiau       |            nan    |       20 |             25.53 | Luka Suluashvili       |             20 |
-|             13 | Anare Caginavanua       |             27.24 |       21 |            nan    | Davit Kuntelia         |             20 |
+|             67 | Mataiasi Tuisireli      |             16.55 |        1 |             49.43 | Luka Ungiadze          |             49 |
+|             76 | Moses Armstrong-Ravula  |             10.68 |        2 |             47.37 | Mikheil Khakubia       |             59 |
+|             54 | Luke Nasau              |             19.82 |        3 |             45.71 | Davit Mtchedlidze      |             60 |
+|             80 | Nalani May              |             12.38 |        4 |             43.11 | Davit Lagvilava        |             60 |
+|             59 | Malakai Masi            |             31.75 |        5 |             59.12 | Temur Tsulukidze       |             80 |
+|             54 | Ebernezer Tuidraki      |              9.41 |        6 |             45.85 | Giorgi Gergedava       |             60 |
+|             80 | Ronald Paull Sharma     |             17.99 |        7 |             40.77 | Andro Dvali            |             80 |
+|             80 | Simon Koroiyadi         |             11.53 |        8 |             42.94 | Nika Lomidze           |             80 |
+|             60 | Samuela Ledua           |             24.22 |        9 |             60.23 | Alexandre Jigauri      |             53 |
+|             80 | Isikeli Rabitu          |             14.04 |       10 |             44.97 | Luka Tsirekidze        |             80 |
+|             67 | Waisake Salabiau        |             17.4  |       11 |             32.91 | Tarieli Burtikashvili  |             74 |
+|             80 | Ponipate Tuberi         |             32.25 |       12 |             38.08 | Giorgi Khaindrava      |             80 |
+|             54 | Harry Valevatu          |             17.51 |       13 |             42.83 | Luka Kobauri           |             80 |
+|             80 | Aisea Nawai             |             13.71 |       14 |             59.33 | Luka Keshelava         |             80 |
+|             80 | Isikeli Basiyalo        |              9.09 |       15 |             38.54 | Otani Metreveli        |             80 |
+|             26 | Avakuki Niusalelekitoga |             17.31 |       16 |            nan    | Luka Kotorashvili      |             28 |
+|             26 | Breyton Legge           |             26.84 |       17 |            nan    | Mikheil Kavchavashvili |             27 |
+|             26 | Iliesa Erenavula        |             13.87 |       18 |             31.43 | Tamaz Tchamiashvili    |             21 |
+|             21 | Ratu Nemani Kurucake    |             19.37 |       19 |             30.26 | Murtazi Tskhadadze     |             20 |
+|             20 | Pauliasi Korobiau       |            nan    |       20 |             25.46 | Luka Suluashvili       |             20 |
+|             13 | Anare Caginavanua       |             26.84 |       21 |            nan    | Davit Kuntelia         |             20 |
 |             13 | Benjiman Naivalu        |            nan    |       22 |            nan    | Nuzgari Kevkhishvili   |              6 |
 |              4 | Iowane Vakadrigi        |            nan    |       23 |            nan    | Shota Kheladze         |              3 |
 

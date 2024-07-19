@@ -69,27 +69,27 @@ CUBA by 6.0 on a neutral pitch
 
 |   Away Minutes | Away Player            |   Away Percentile |   Number |   Home Percentile | Home Player             |   Home Minutes |
 |---------------:|:-----------------------|------------------:|---------:|------------------:|:------------------------|---------------:|
-|             80 | Pablo Gaston Vaca      |             75.94 |        1 |             89.2  | Facundo Aguirre         |             80 |
-|             80 | Tomas Rosasco          |             44.02 |        2 |             31.16 | Tomas Anderlic          |             80 |
-|             80 | Tomas Gallo            |             30.73 |        3 |             84.44 | Estanislao Carullo      |             80 |
-|             80 | Tomas Alvarez Bayon    |             45.31 |        4 |             87.62 | Santiago Uriarte        |             80 |
-|             80 | Bautista Duranona      |             37.62 |        5 |             87.52 | Santiago Landau         |             80 |
-|             80 | Jaime McGrech          |             33.4  |        6 |             85.29 | Francisco Sied          |             80 |
-|             80 | Matias Espina          |             36.91 |        7 |             83.44 | Segundo Pisani          |             80 |
-|             80 | Jordi Dieguez          |             47.62 |        8 |             82.94 | Benito Ortiz de Rozas   |             80 |
-|             80 | Mateo Freire           |             22.53 |        9 |             78.12 | Rafael Iriarte          |             80 |
-|             80 | Tomas Bunge            |             22.81 |       10 |             87.07 | Valentin Mastroizi      |             80 |
-|             80 | Benjamin Handley       |             20.56 |       11 |             86.9  | Marcos Moroni           |             80 |
-|             80 | Agustin Lamensa Sanudo |             39.28 |       12 |             73.78 | Felipe de la Vega       |             80 |
-|             80 | Ramiro Costa           |             34.5  |       13 |             65.4  | Marcos Elicagaray       |             80 |
-|             80 | Alfonso Latorre        |             61.78 |       14 |             90.54 | Bautista Casaurang      |             80 |
-|             80 | Julian Quetglas Bojar  |             37.92 |       15 |             50.5  | Simon Benitez Cruz      |             80 |
-|              0 | Valentino Minoyetti    |             41.91 |       16 |            nan    | Esteban Iribarne        |              0 |
-|              0 | Tomas Herrador         |             12.95 |       17 |            nan    | Emilio Perez Maraviglia |              0 |
-|              0 | Blas Armando Coria     |             56.32 |       18 |            nan    | Jeronimo Conte Grand    |              0 |
-|              0 | Tomas Etcheverry       |             18.25 |       19 |            nan    | Nicolas Amadeo          |              0 |
-|              0 | Luis Prieto Martinez   |            nan    |       20 |             52.54 | Lucas Campion           |              0 |
-|              0 | Juan Monasterio        |             64.14 |       21 |            nan    | Felipe Mendonca         |              0 |
-|              0 | Juan Pablo Barzi       |            nan    |       22 |             45.22 | Pedro Mesones           |              0 |
-|              0 | Simon Mimessi          |             20.07 |       23 |             78.76 | Felipe Perdomo          |              0 |
+|             80 | Pablo Gaston Vaca      |             76.16 |        1 |             89.29 | Facundo Aguirre         |             80 |
+|             80 | Tomas Rosasco          |             44.21 |        2 |             31.13 | Tomas Anderlic          |             80 |
+|             80 | Tomas Gallo            |             30.3  |        3 |             84.59 | Estanislao Carullo      |             80 |
+|             80 | Tomas Alvarez Bayon    |             45.25 |        4 |             87.71 | Santiago Uriarte        |             80 |
+|             80 | Bautista Duranona      |             37.52 |        5 |             87.62 | Santiago Landau         |             80 |
+|             80 | Jaime McGrech          |             33.21 |        6 |             85.33 | Francisco Sied          |             80 |
+|             80 | Matias Espina          |             36.72 |        7 |             83.49 | Segundo Pisani          |             80 |
+|             80 | Jordi Dieguez          |             47.51 |        8 |             82.9  | Benito Ortiz de Rozas   |             80 |
+|             80 | Mateo Freire           |             22.59 |        9 |             78.23 | Rafael Iriarte          |             80 |
+|             80 | Tomas Bunge            |             23.15 |       10 |             87.1  | Valentin Mastroizi      |             80 |
+|             80 | Benjamin Handley       |             20.65 |       11 |             86.93 | Marcos Moroni           |             80 |
+|             80 | Agustin Lamensa Sanudo |             39.66 |       12 |             73.99 | Felipe de la Vega       |             80 |
+|             80 | Ramiro Costa           |             34.72 |       13 |             65.38 | Marcos Elicagaray       |             80 |
+|             80 | Alfonso Latorre        |             61.95 |       14 |             90.62 | Bautista Casaurang      |             80 |
+|             80 | Julian Quetglas Bojar  |             38.14 |       15 |             50.4  | Simon Benitez Cruz      |             80 |
+|              0 | Valentino Minoyetti    |             41.8  |       16 |            nan    | Esteban Iribarne        |              0 |
+|              0 | Tomas Herrador         |             12.76 |       17 |            nan    | Emilio Perez Maraviglia |              0 |
+|              0 | Blas Armando Coria     |             56.34 |       18 |            nan    | Jeronimo Conte Grand    |              0 |
+|              0 | Tomas Etcheverry       |             18.49 |       19 |            nan    | Nicolas Amadeo          |              0 |
+|              0 | Luis Prieto Martinez   |            nan    |       20 |             52.49 | Lucas Campion           |              0 |
+|              0 | Juan Monasterio        |             64.32 |       21 |            nan    | Felipe Mendonca         |              0 |
+|              0 | Juan Pablo Barzi       |            nan    |       22 |             45.09 | Pedro Mesones           |              0 |
+|              0 | Simon Mimessi          |             20.11 |       23 |             79.03 | Felipe Perdomo          |              0 |
 

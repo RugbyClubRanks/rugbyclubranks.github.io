@@ -9,7 +9,7 @@ categories: "International Test Match 2024" match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.762, which translates to predicting Australia to win by 10.7.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.762, which translates to predicting Australia to win by 10.6.
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -68,26 +68,26 @@ Australia by 3.4 on a neutral pitch
 | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player     |
 |:---------------------|------------------:|---------:|------------------:|:----------------|
 | Giorgi Mamaiashvili  |            nan    |        1 |            nan    | Isaac Kailea    |
-| Vano Karkadze        |             80.48 |        2 |             83.81 | Billy Pollard   |
-| Aleksandre Kuntelia  |            nan    |        3 |             97.47 | Allan Alaalatoa |
-| Lado Chachanidze     |             29.55 |        4 |             53.94 | Nick Frost      |
-| Mikheil Babunashvili |             29.17 |        5 |             93.25 | Angus Blyth     |
-| Beka Gorgadze        |             76.98 |        6 |             97.96 | Rob Valetini    |
-| Beka Saghinadze      |             81.87 |        7 |             95.47 | Fraser McReight |
-| Tornike Jalagonia    |             35.52 |        8 |             72.82 | Harry Wilson    |
-| Mikheil Alania       |             48.19 |        9 |             81.25 | Tate McDermott  |
-| Luka Matkava         |             84.41 |       10 |             61.98 | Ben Donaldson   |
-| Sandro Todua         |             91.63 |       11 |             40.13 | Darby Lancaster |
-| Giorgi Kveseladze    |             94.02 |       12 |             82.15 | Hunter Paisami  |
-| Demur Tapladze       |             82.45 |       13 |             75.37 | Len Ikitau      |
-| Aka Tabutsadze       |             88.63 |       14 |             95.36 | Filipo Daugunu  |
-| Davit Niniashvili    |             82.04 |       15 |             86.63 | Tom Wright      |
+| Vano Karkadze        |             80.6  |        2 |             83.91 | Billy Pollard   |
+| Aleksandre Kuntelia  |            nan    |        3 |             97.49 | Allan Alaalatoa |
+| Lado Chachanidze     |             29.89 |        4 |             54    | Nick Frost      |
+| Mikheil Babunashvili |             29.42 |        5 |             93.3  | Angus Blyth     |
+| Beka Gorgadze        |             76.94 |        6 |             97.97 | Rob Valetini    |
+| Beka Saghinadze      |             82.01 |        7 |             95.48 | Fraser McReight |
+| Tornike Jalagonia    |             34.79 |        8 |             72.76 | Harry Wilson    |
+| Mikheil Alania       |             48.77 |        9 |             81.34 | Tate McDermott  |
+| Luka Matkava         |             84.63 |       10 |             62.24 | Ben Donaldson   |
+| Sandro Todua         |             91.7  |       11 |             40.13 | Darby Lancaster |
+| Giorgi Kveseladze    |             94.07 |       12 |             82.29 | Hunter Paisami  |
+| Demur Tapladze       |             82.69 |       13 |             75.57 | Len Ikitau      |
+| Aka Tabutsadze       |             88.64 |       14 |             95.4  | Filipo Daugunu  |
+| Davit Niniashvili    |             82.41 |       15 |             86.76 | Tom Wright      |
 | Luka Petriashvili    |            nan    |       16 |            nan    | Josh Nasser     |
-| Luka Goginava        |            nan    |       17 |             65.06 | Alex Hodgman    |
-| Irakli Aptsiauri     |             28.58 |       18 |             80.38 | Zane Nonggorr   |
-| Lasha Jaiani         |             86.4  |       19 |             81.8  | Tom Hooper      |
-| Luka Ivanishvili     |             74.65 |       20 |             24.77 | Jeremy Williams |
-| Giorgi Tsutskiridze  |             82.89 |       21 |             99.18 | Nic White       |
-| Vasil Lobzhanidze    |             10.86 |       22 |             90.49 | Noah Lolesio    |
-| Tedo Abzhandadze     |             61.03 |       23 |             69.06 | Andrew Kellaway |
+| Luka Goginava        |            nan    |       17 |             65.22 | Alex Hodgman    |
+| Irakli Aptsiauri     |             28.47 |       18 |             80.64 | Zane Nonggorr   |
+| Lasha Jaiani         |             86.5  |       19 |             81.84 | Tom Hooper      |
+| Luka Ivanishvili     |             74.82 |       20 |             25.33 | Jeremy Williams |
+| Giorgi Tsutskiridze  |             82.93 |       21 |             99.18 | Nic White       |
+| Vasil Lobzhanidze    |             10.8  |       22 |             90.51 | Noah Lolesio    |
+| Tedo Abzhandadze     |             61.1  |       23 |             69.16 | Andrew Kellaway |
 

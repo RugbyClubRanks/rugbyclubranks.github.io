@@ -11,7 +11,7 @@ categories: "International Test Match 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.435, which translates to predicting Italy to win by 2.4.
 
-Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 27 to 25
+Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 28 to 25
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Italy by 12.2 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             53 | Danilo Fischetti   |             22.07 |        1 |             39.46 | Isikeli Fukofuka      |             38 |
-|             68 | Giacomo Nicotera   |             98.94 |        2 |             34.49 | Sekope Lopeti-Moli    |             62 |
-|             57 | Marco Riccioni     |             61.84 |        3 |             97.39 | Ben Tameifuna         |             62 |
-|             74 | Edoardo Iachizzi   |             79.08 |        4 |             98.69 | Adam Coleman          |             85 |
-|             41 | Federico Ruzza     |             95.68 |        5 |             36.02 | Harrison Mataele      |             71 |
-|             43 | Manuel Zuliani     |             74.38 |        6 |             78.08 | Josh Kaifa            |             85 |
-|             66 | Michele Lamaro     |             97.04 |        7 |             30.99 | Fotu Lokotui          |             85 |
-|             85 | Lorenzo Cannone    |             93.65 |        8 |             35.12 | Viliami Taulani       |             51 |
-|             57 | Martin Page-Relo   |             79.77 |        9 |             21.71 | Aisea Halo            |             71 |
-|             66 | Paolo Garbisi      |             84.79 |       10 |             34.03 | James Faiva           |             78 |
-|             85 | Monty Ioane        |             98.09 |       11 |             34.39 | Hosea Saumaki         |             85 |
-|             85 | Tommaso Menoncello |             91.03 |       12 |             79.46 | Malakai Fekitoa       |             65 |
-|             85 | Juan Ignacio Brex  |             95.91 |       13 |             48.35 | Fetuli Paea           |             85 |
-|             85 | Jacopo Trulla      |              3.28 |       14 |              3.55 | Fine Inisi            |             85 |
-|             85 | Ange Capuozzo      |             95.41 |       15 |             58.08 | Taniela Filimone      |             85 |
-|             17 | Gianmarco Lucchesi |             85.78 |       16 |            nan    | Sosefo Sakalia        |             23 |
-|             32 | Mirco Spagnolo     |             78.39 |       17 |             81.3  | Tau Koloamatangi      |             47 |
-|             28 | Simone Ferrari     |             96.02 |       18 |            nan    | Jethro Felemi         |             23 |
-|             30 | Niccolo Cannone    |             68.48 |       19 |            nan    | Kelemete Finau        |             14 |
-|             44 | Andrea Zambonin    |             21.48 |       20 |            nan    | Hapakuki Moala-Liavaa |             34 |
-|             28 | Alessandro Garbisi |             72.37 |       21 |            nan    | Manu Paea             |             14 |
-|             19 | Leonardo Marin     |             67.49 |       22 |            nan    | Semisi Maasi          |              7 |
-|             42 | Ross Vintcent      |             72.02 |       23 |            nan    | Nikolai Foliaki       |             20 |
+|             53 | Danilo Fischetti   |             22.02 |        1 |             38.88 | Isikeli Fukofuka      |             38 |
+|             68 | Giacomo Nicotera   |             98.95 |        2 |             34.59 | Sekope Lopeti-Moli    |             62 |
+|             57 | Marco Riccioni     |             62.03 |        3 |             96.05 | Ben Tameifuna         |             62 |
+|             74 | Edoardo Iachizzi   |             79.14 |        4 |             98.32 | Adam Coleman          |             85 |
+|             41 | Federico Ruzza     |             95.72 |        5 |             17.97 | Harrison Mataele      |             71 |
+|             43 | Manuel Zuliani     |             74.54 |        6 |             64.02 | Josh Kaifa            |             85 |
+|             66 | Michele Lamaro     |             97.05 |        7 |             15.22 | Fotu Lokotui          |             85 |
+|             85 | Lorenzo Cannone    |             93.64 |        8 |             34.19 | Viliami Taulani       |             51 |
+|             57 | Martin Page-Relo   |             79.87 |        9 |             21.77 | Aisea Halo            |             71 |
+|             66 | Paolo Garbisi      |             84.82 |       10 |             15.94 | James Faiva           |             78 |
+|             85 | Monty Ioane        |             98.11 |       11 |             16.86 | Hosea Saumaki         |             85 |
+|             85 | Tommaso Menoncello |             91.1  |       12 |             68.25 | Malakai Fekitoa       |             65 |
+|             85 | Juan Ignacio Brex  |             95.94 |       13 |             25.62 | Fetuli Paea           |             85 |
+|             85 | Jacopo Trulla      |              3.25 |       14 |              3.52 | Fine Inisi            |             85 |
+|             85 | Ange Capuozzo      |             95.45 |       15 |             57.71 | Taniela Filimone      |             85 |
+|             17 | Gianmarco Lucchesi |             85.86 |       16 |            nan    | Sosefo Sakalia        |             23 |
+|             32 | Mirco Spagnolo     |             78.66 |       17 |             60.36 | Tau Koloamatangi      |             47 |
+|             28 | Simone Ferrari     |             96.13 |       18 |            nan    | Jethro Felemi         |             23 |
+|             30 | Niccolo Cannone    |             68.53 |       19 |            nan    | Kelemete Finau        |             14 |
+|             44 | Andrea Zambonin    |             21.97 |       20 |            nan    | Hapakuki Moala-Liavaa |             34 |
+|             28 | Alessandro Garbisi |             72.5  |       21 |            nan    | Manu Paea             |             14 |
+|             19 | Leonardo Marin     |             67.55 |       22 |            nan    | Semisi Maasi          |              7 |
+|             42 | Ross Vintcent      |             71.97 |       23 |            nan    | Nikolai Foliaki       |             20 |
 

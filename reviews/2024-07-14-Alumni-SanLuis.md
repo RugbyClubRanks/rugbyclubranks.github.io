@@ -11,7 +11,7 @@ categories: "URBA Top 12 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.729, which translates to predicting Alumni to win by 8.9.
 
-Our Over/Under is 55.5 - and combined with the spread above, we have a predicted scoreline of 23 to 32
+Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 22 to 31
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Alumni by 6.0 on a neutral pitch
 
 |   Away Minutes | Away Player                |   Away Percentile |   Number |   Home Percentile | Home Player                |   Home Minutes |
 |---------------:|:---------------------------|------------------:|---------:|------------------:|:---------------------------|---------------:|
-|             80 | Santiago Bonavento         |             52.87 |        1 |             60.84 | Federico Lucca             |             80 |
-|             80 | Agustin Fitzsimons Herrera |             47.35 |        2 |             37.37 | Maximo Lamelas             |             80 |
-|             80 | Alexis Uvieda              |             80.69 |        3 |             78.16 | Bautista Vidal             |             80 |
-|             80 | Ramiro Bruni               |             57.97 |        4 |             61.35 | Manuel Mora                |             80 |
-|             80 | Santiago Canal             |             59.1  |        5 |             62.38 | Santiago Alduncin          |             80 |
-|             80 | Facundo Alvarez Amado      |             45.79 |        6 |             58.28 | Ignacio Cubilla            |             80 |
-|             80 | Franco Gnecco              |             64.85 |        7 |             73.45 | Juan Anderson              |             80 |
-|             80 | Agustin Torello            |             49.8  |        8 |             49.6  | Santiago Montagner         |             80 |
-|             80 | Juan Vaca                  |             71.38 |        9 |             58.88 | Tomas Passerotti           |             80 |
-|             80 | Felipe Campodonico         |             61.6  |       10 |             79.85 | Joaquin Luzzi              |             80 |
-|             80 | Eduardo Ruesta             |             46.13 |       11 |             62.69 | Ramon Fuentes              |             80 |
-|             80 | Segundo Fresco             |             66    |       12 |             54.04 | Franco Battezzati          |             80 |
-|             80 | Benjamin Marban            |             52.94 |       13 |             55.63 | Alejo Chavez               |             80 |
-|             80 | Wilmer Ramirez             |             61.24 |       14 |             35.94 | Franco Sabato              |             80 |
-|             80 | Valentino Quattrocchi      |             39.32 |       15 |             47.7  | Santiago Pernas            |             80 |
+|             80 | Santiago Bonavento         |             53    |        1 |             60.97 | Federico Lucca             |             80 |
+|             80 | Agustin Fitzsimons Herrera |             47.52 |        2 |             37.14 | Maximo Lamelas             |             80 |
+|             80 | Alexis Uvieda              |             80.94 |        3 |             78.44 | Bautista Vidal             |             80 |
+|             80 | Ramiro Bruni               |             58.19 |        4 |             61.45 | Manuel Mora                |             80 |
+|             80 | Santiago Canal             |             59.31 |        5 |             62.57 | Santiago Alduncin          |             80 |
+|             80 | Facundo Alvarez Amado      |             45.57 |        6 |             58.21 | Ignacio Cubilla            |             80 |
+|             80 | Franco Gnecco              |             64.76 |        7 |             73.62 | Juan Anderson              |             80 |
+|             80 | Agustin Torello            |             49.5  |        8 |             49.3  | Santiago Montagner         |             80 |
+|             80 | Juan Vaca                  |             71.52 |        9 |             58.76 | Tomas Passerotti           |             80 |
+|             80 | Felipe Campodonico         |             61.86 |       10 |             79.89 | Joaquin Luzzi              |             80 |
+|             80 | Eduardo Ruesta             |             45.99 |       11 |             62.85 | Ramon Fuentes              |             80 |
+|             80 | Segundo Fresco             |             65.97 |       12 |             54.1  | Franco Battezzati          |             80 |
+|             80 | Benjamin Marban            |             53.12 |       13 |             55.79 | Alejo Chavez               |             80 |
+|             80 | Wilmer Ramirez             |             61.41 |       14 |             35.89 | Franco Sabato              |             80 |
+|             80 | Valentino Quattrocchi      |             39.53 |       15 |             48.22 | Santiago Pernas            |             80 |
 |              0 | Mateo Caffaro              |            nan    |       16 |            nan    | Maximo Castillo            |              0 |
-|              0 | Alejo Garcia               |             28.35 |       17 |             67.17 | Tomas Bivort               |              0 |
-|              0 | Mateo Calistro             |             36.17 |       18 |            nan    | Francisco Bottoni          |              0 |
-|              0 | Santiago Gibert            |            nan    |       19 |             27.39 | Federico Canovas           |              0 |
-|              0 | Isidro Lazzarini           |             34.98 |       20 |             44.65 | Nicolas Promanzio          |              0 |
+|              0 | Alejo Garcia               |             27.94 |       17 |             67.37 | Tomas Bivort               |              0 |
+|              0 | Mateo Calistro             |             35.61 |       18 |            nan    | Francisco Bottoni          |              0 |
+|              0 | Santiago Gibert            |            nan    |       19 |             27.65 | Federico Canovas           |              0 |
+|              0 | Isidro Lazzarini           |             34.72 |       20 |             44.6  | Nicolas Promanzio          |              0 |
 |              0 | Luka Gullo                 |            nan    |       21 |            nan    | Santiago Ambroa            |              0 |
-|              0 | Manuel Gnecco              |             66.14 |       22 |             36.73 | Santiago Gonzalez Iglesias |              0 |
-|              0 | Segundo Galan              |             25.66 |       23 |             74.7  | Luca Sabato                |              0 |
+|              0 | Manuel Gnecco              |             66.05 |       22 |             36.96 | Santiago Gonzalez Iglesias |              0 |
+|              0 | Segundo Galan              |             25.61 |       23 |             75.11 | Luca Sabato                |              0 |
 

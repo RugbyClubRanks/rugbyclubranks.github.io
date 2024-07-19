@@ -1,6 +1,6 @@
 ---  
 title: "International Test Match 2024 Status"  
-date: 2024-07-18 6:00:00 -0500  
+date: 2024-07-19 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -44,7 +44,6 @@ aside:
 | Moldova                  |        1 |      1 |                   42 |                     0 |                nan |                    4 |
 | Austria                  |        1 |      1 |                   40 |                     0 |                nan |                    4 |
 | Jamaica                  |        1 |      1 |                   34 |                     0 |                nan |                    4 |
-| Chile                    |        1 |      1 |                   28 |                     0 |                nan |                    4 |
 | Andorra                  |        1 |      1 |                   24 |                     0 |                nan |                    4 |
 | Trinidad and Tobago      |        1 |      1 |                   23 |                     0 |                nan |                    4 |
 | Cayman Islands           |        2 |      1 |                   22 |                     0 |                nan |                    4 |
@@ -76,7 +75,6 @@ aside:
 | Tonga                    |        1 |      0 |                  -22 |                     0 |                  0 |                    0 |
 | Guyana                   |        1 |      0 |                  -23 |                     0 |                nan |                    0 |
 | Serbia                   |        1 |      0 |                  -23 |                     0 |                nan |                    0 |
-| Belgium                  |        1 |      0 |                  -28 |                     0 |                nan |                    0 |
 | Lithuania                |        2 |      0 |                  -34 |                     0 |                nan |                    0 |
 | Ukraine                  |        2 |      0 |                  -42 |                     0 |                nan |                    0 |
 | India                    |        2 |      0 |                  -44 |                     0 |                nan |                    0 |
@@ -94,32 +92,32 @@ aside:
 
 | Club         |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| New Zealand  |                   2 |    1.8 |             20.1997  |                   0.2 |                1.6 |                  9   |
-| Scotland     |                   1 |    1   |             21.7942  |                   0   |                0.9 |                  4.9 |
-| Namibia      |                   1 |    1   |             28.6289  |                   0   |                0.9 |                  4.8 |
-| South Africa |                   1 |    1   |             27.5148  |                   0   |                0.8 |                  4.8 |
-| Hong Kong    |                   1 |    1   |             19.0302  |                   0   |                0.8 |                  4.8 |
-| Argentina    |                   1 |    1   |             11.9204  |                   0   |                0.7 |                  4.5 |
-| Tonga        |                   1 |    0.9 |              9.05777 |                   0.1 |                0.5 |                  4.1 |
-| Italy        |                   1 |    0.9 |              7.33708 |                   0.1 |                0.5 |                  4.1 |
-| Australia    |                   1 |    0.9 |              9.41211 |                   0.1 |                0.3 |                  4   |
-| Algeria      |                   1 |    0.8 |             14.155   |                   0.1 |                0.5 |                  3.9 |
-| Zimbabwe     |                   1 |    0.8 |              8.57507 |                   0.1 |                0.5 |                  3.7 |
-| Belgium      |                   1 |    0.7 |              9.16064 |                   0.1 |                0.5 |                  3.6 |
-| Kenya        |                   1 |    0.6 |              2.50769 |                   0.2 |                0.3 |                  2.9 |
-| Senegal      |                   1 |    0.4 |             -2.50769 |                   0.2 |                0.3 |                  2.2 |
-| Fiji         |                   2 |    0.2 |            -20.1997  |                   0.5 |                0.2 |                  1.5 |
-| Uganda       |                   1 |    0.2 |             -8.57507 |                   0.2 |                0.2 |                  1.4 |
-| Paraguay     |                   1 |    0.3 |             -9.16064 |                   0.2 |                0.2 |                  1.4 |
-| Japan        |                   1 |    0.1 |             -7.33708 |                   0.3 |                0.1 |                  1   |
-| Spain        |                   1 |    0.1 |             -9.05777 |                   0.3 |                0.2 |                  1   |
-| Ivory Coast  |                   1 |    0.2 |            -14.155   |                   0.1 |                0.2 |                  1   |
-| Georgia      |                   1 |    0.1 |             -9.41211 |                   0.2 |                0.1 |                  0.7 |
-| Uruguay      |                   1 |    0   |            -11.9204  |                   0.2 |                0.1 |                  0.5 |
-| Burkina Faso |                   1 |    0   |            -28.6289  |                   0   |                0.4 |                  0.4 |
-| Brazil       |                   1 |    0   |            -19.0302  |                   0.1 |                0.1 |                  0.3 |
-| Chile        |                   1 |    0   |            -21.7942  |                   0   |                0.1 |                  0.1 |
-| Portugal     |                   1 |    0   |            -27.5148  |                   0   |                0.1 |                  0.1 |
+| Scotland     |                   1 |    1   |             21.5503  |                   0   |                0.9 |                  4.9 |
+| Namibia      |                   1 |    1   |             29.3054  |                   0   |                0.8 |                  4.8 |
+| South Africa |                   1 |    1   |             27.0653  |                   0   |                0.8 |                  4.8 |
+| Hong Kong    |                   1 |    1   |             18.9633  |                   0   |                0.8 |                  4.7 |
+| New Zealand  |                   1 |    1   |             13.5184  |                   0   |                0.8 |                  4.7 |
+| Argentina    |                   1 |    0.9 |             12.3493  |                   0   |                0.7 |                  4.5 |
+| Australia    |                   1 |    0.9 |              9.44461 |                   0.1 |                0.3 |                  4.1 |
+| Italy        |                   1 |    0.8 |              7.38702 |                   0.1 |                0.5 |                  4   |
+| Algeria      |                   1 |    0.8 |             14.3793  |                   0.1 |                0.4 |                  3.8 |
+| Zimbabwe     |                   1 |    0.8 |              8.66485 |                   0.1 |                0.5 |                  3.7 |
+| Belgium      |                   1 |    0.7 |              9.1454  |                   0.1 |                0.5 |                  3.6 |
+| Tonga        |                   1 |    0.7 |              2.71417 |                   0.3 |                0.4 |                  3.3 |
+| Kenya        |                   1 |    0.6 |              2.15046 |                   0.2 |                0.3 |                  2.8 |
+| Senegal      |                   1 |    0.4 |             -2.15046 |                   0.2 |                0.3 |                  2.2 |
+| Spain        |                   1 |    0.3 |             -2.71417 |                   0.4 |                0.3 |                  2.1 |
+| Uganda       |                   1 |    0.2 |             -8.66485 |                   0.2 |                0.3 |                  1.4 |
+| Paraguay     |                   1 |    0.3 |             -9.1454  |                   0.2 |                0.2 |                  1.4 |
+| Ivory Coast  |                   1 |    0.2 |            -14.3793  |                   0.1 |                0.2 |                  1.1 |
+| Japan        |                   1 |    0.2 |             -7.38702 |                   0.3 |                0.1 |                  1   |
+| Georgia      |                   1 |    0.1 |             -9.44461 |                   0.3 |                0.1 |                  0.7 |
+| Uruguay      |                   1 |    0.1 |            -12.3493  |                   0.2 |                0.1 |                  0.5 |
+| Fiji         |                   1 |    0   |            -13.5184  |                   0.1 |                0.1 |                  0.4 |
+| Brazil       |                   1 |    0   |            -18.9633  |                   0.1 |                0.2 |                  0.4 |
+| Burkina Faso |                   1 |    0   |            -29.3054  |                   0   |                0.4 |                  0.4 |
+| Portugal     |                   1 |    0   |            -27.0653  |                   0   |                0.2 |                  0.2 |
+| Chile        |                   1 |    0   |            -21.5503  |                   0   |                0.1 |                  0.1 |
 
 
 
@@ -128,24 +126,23 @@ aside:
 
 | Club                     |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Hong Kong                |               5 |    5   |            258.03    |                   0   |                0.8 |                 20.8 |
-| New Zealand              |               4 |    3.8 |             28.1997  |                   0.2 |                1.6 |                 17   |
-| Scotland                 |               3 |    3   |            117.794   |                   0   |                2.9 |                 14.9 |
-| South Africa             |               4 |    3   |             61.5148  |                   1   |                1.8 |                 14.8 |
-| Australia                |               3 |    2.9 |             26.4121  |                   0.1 |                1.3 |                 13   |
-| Argentina                |               3 |    2   |              4.92037 |                   0   |                1.7 |                  9.5 |
-| Italy                    |               3 |    1.9 |             21.3371  |                   0.1 |                1.5 |                  9.1 |
+| Hong Kong                |               5 |    5   |            257.963   |                   0   |                0.8 |                 20.7 |
+| Scotland                 |               3 |    3   |            117.55    |                   0   |                2.9 |                 14.9 |
+| South Africa             |               4 |    3   |             61.0653  |                   1   |                1.8 |                 14.8 |
+| Australia                |               3 |    2.9 |             26.4446  |                   0.1 |                1.3 |                 13.1 |
+| New Zealand              |               3 |    3   |             21.5184  |                   0   |                0.8 |                 12.7 |
+| Argentina                |               3 |    1.9 |              5.34926 |                   0   |                1.7 |                  9.5 |
+| Italy                    |               3 |    1.8 |             21.387   |                   0.1 |                1.5 |                  9   |
 | Luxembourg               |               2 |    2   |             80       |                   0   |                0   |                  8   |
 | Sri Lanka                |               2 |    2   |             73       |                   0   |                0   |                  8   |
 | Switzerland              |               2 |    2   |             41       |                   0   |                0   |                  8   |
 | Sweden                   |               2 |    2   |             31       |                   0   |                0   |                  8   |
 | France                   |               3 |    2   |             22       |                   0   |                0   |                  8   |
 | United Arab Emirates     |               3 |    2   |              0       |                   0   |                0   |                  8   |
-| Algeria                  |               2 |    1.8 |             28.155   |                   0.1 |                0.5 |                  7.9 |
-| Zimbabwe                 |               2 |    1.8 |             12.5751  |                   0.1 |                0.5 |                  7.7 |
+| Algeria                  |               2 |    1.8 |             28.3793  |                   0.1 |                0.4 |                  7.8 |
+| Zimbabwe                 |               2 |    1.8 |             12.6649  |                   0.1 |                0.5 |                  7.7 |
 | England                  |               3 |    1   |             27       |                   2   |                1   |                  7   |
-| Fiji                     |               3 |    1.2 |            -11.1997  |                   0.5 |                0.2 |                  5.5 |
-| Portugal                 |               2 |    1   |            -12.5148  |                   0   |                1.1 |                  5.1 |
+| Portugal                 |               2 |    1   |            -12.0653  |                   0   |                1.2 |                  5.2 |
 | Hungary                  |               2 |    1   |             32       |                   1   |                0   |                  5   |
 | Samoa                    |               1 |    1   |              8       |                   0   |                1   |                  5   |
 | Qatar                    |               2 |    1   |              7       |                   1   |                0   |                  5   |
@@ -153,10 +150,9 @@ aside:
 | Ireland                  |               2 |    1   |             -6       |                   1   |                0   |                  5   |
 | Korea Republic           |               3 |    1   |            -14       |                   1   |                0   |                  5   |
 | Singapore                |               3 |    1   |            -21       |                   1   |                0   |                  5   |
-| Namibia                  |               2 |    1   |             13.6289  |                   0   |                0.9 |                  4.8 |
-| Georgia                  |               3 |    1.1 |            -16.4121  |                   0.2 |                0.1 |                  4.7 |
-| Chile                    |               2 |    1   |              6.20585 |                   0   |                0.1 |                  4.1 |
-| Tonga                    |               2 |    0.9 |            -12.9422  |                   0.1 |                0.5 |                  4.1 |
+| Namibia                  |               2 |    1   |             14.3054  |                   0   |                0.8 |                  4.8 |
+| Georgia                  |               3 |    1.1 |            -16.4446  |                   0.3 |                0.1 |                  4.7 |
+| Fiji                     |               2 |    1   |             -4.51835 |                   0.1 |                0.1 |                  4.4 |
 | Barbados                 |               1 |    1   |             84       |                   0   |                0   |                  4   |
 | Finland                  |               1 |    1   |             50       |                   0   |                0   |                  4   |
 | Moldova                  |               1 |    1   |             42       |                   0   |                0   |                  4   |
@@ -177,21 +173,23 @@ aside:
 | Kazakhstan               |               2 |    1   |            -36       |                   0   |                0   |                  4   |
 | Canada                   |               2 |    1   |            -48       |                   0   |                0   |                  4   |
 | Malaysia                 |               4 |    1   |           -118       |                   0   |                0   |                  4   |
-| Belgium                  |               2 |    0.7 |            -18.8394  |                   0.1 |                0.5 |                  3.6 |
-| Kenya                    |               1 |    0.6 |              2.50769 |                   0.2 |                0.3 |                  2.9 |
-| Senegal                  |               2 |    0.4 |            -16.5077  |                   0.2 |                0.3 |                  2.2 |
-| Japan                    |               3 |    0.1 |            -44.3371  |                   1.3 |                0.1 |                  2   |
-| Uganda                   |               1 |    0.2 |             -8.57507 |                   0.2 |                0.2 |                  1.4 |
-| Paraguay                 |               2 |    0.3 |            -77.1606  |                   0.2 |                0.2 |                  1.4 |
+| Belgium                  |               1 |    0.7 |              9.1454  |                   0.1 |                0.5 |                  3.6 |
+| Tonga                    |               2 |    0.7 |            -19.2858  |                   0.3 |                0.4 |                  3.3 |
+| Kenya                    |               1 |    0.6 |              2.15046 |                   0.2 |                0.3 |                  2.8 |
+| Senegal                  |               2 |    0.4 |            -16.1505  |                   0.2 |                0.3 |                  2.2 |
+| Spain                    |               1 |    0.3 |             -2.71417 |                   0.4 |                0.3 |                  2.1 |
+| Japan                    |               3 |    0.2 |            -44.387   |                   1.3 |                0.1 |                  2   |
+| Uganda                   |               1 |    0.2 |             -8.66485 |                   0.2 |                0.3 |                  1.4 |
+| Paraguay                 |               2 |    0.3 |            -77.1454  |                   0.2 |                0.2 |                  1.4 |
+| Ivory Coast              |               1 |    0.2 |            -14.3793  |                   0.1 |                0.2 |                  1.1 |
 | Denmark                  |               1 |    0   |             -4       |                   1   |                0   |                  1   |
 | Zambia                   |               1 |    0   |             -4       |                   1   |                0   |                  1   |
-| Spain                    |               1 |    0.1 |             -9.05777 |                   0.3 |                0.2 |                  1   |
-| Ivory Coast              |               1 |    0.2 |            -14.155   |                   0.1 |                0.2 |                  1   |
 | United States of America |               2 |    0   |            -37       |                   1   |                0   |                  1   |
 | Wales                    |               3 |    0   |            -45       |                   0   |                1   |                  1   |
-| Uruguay                  |               2 |    0   |            -26.9204  |                   0.2 |                0.1 |                  0.5 |
-| Burkina Faso             |               1 |    0   |            -28.6289  |                   0   |                0.4 |                  0.4 |
-| Brazil                   |               1 |    0   |            -19.0302  |                   0.1 |                0.1 |                  0.3 |
+| Uruguay                  |               2 |    0.1 |            -27.3493  |                   0.2 |                0.1 |                  0.5 |
+| Brazil                   |               1 |    0   |            -18.9633  |                   0.1 |                0.2 |                  0.4 |
+| Burkina Faso             |               1 |    0   |            -29.3054  |                   0   |                0.4 |                  0.4 |
+| Chile                    |               1 |    0   |            -21.5503  |                   0   |                0.1 |                  0.1 |
 | Cyprus                   |               1 |    0   |            -10       |                   0   |                0   |                  0   |
 | Guyana                   |               1 |    0   |            -23       |                   0   |                0   |                  0   |
 | Serbia                   |               1 |    0   |            -23       |                   0   |                0   |                  0   |
@@ -211,8 +209,8 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 71.7% | 21.2 |
-| Player Level: Lineup | 66.7% | 13.7 |
+| Club Level | 71.2% | 21.3 |
+| Player Level: Lineup | 60.9% | 13.7 |
 | Player Level: Minutes | 73.7% | 14.2 |
 
 
@@ -220,25 +218,12 @@ aside:
 
 ## Week 5
 
-### Fiji V New Zealand on 2024/07/18
-
-
-Average Margin: New Zealand by 6.8
-
-Average Scoreline: 31-24
-
-<p float="left">
-<img src="plots/performances_2024-07-18-Fiji_V_NewZealand.png" width="32%" />
-<img src="plots/resultbar_2024-07-18-Fiji_V_NewZealand.png" width="32%" />
-<img src="plots/spreads_2024-07-18-Fiji_V_NewZealand.png" width="32%" />
-</p>
-
 ### Tonga V Spain on 2024/07/19
 
 
-Average Margin: Tonga by 9.1
+Average Margin: Tonga by 2.7
 
-Average Scoreline: 29-20
+Average Scoreline: 27-24
 
 <p float="left">
 <img src="plots/performances_2024-07-19-Tonga_V_Spain.png" width="32%" />
@@ -249,9 +234,9 @@ Average Scoreline: 29-20
 ### Kenya V Senegal on 2024/07/20
 
 
-Average Margin: Kenya by 2.5
+Average Margin: Kenya by 2.2
 
-Average Scoreline: 25-22
+Average Scoreline: 24-22
 
 <p float="left">
 <img src="plots/performances_2024-07-20-Kenya_V_Senegal.png" width="32%" />
@@ -275,7 +260,7 @@ Average Scoreline: 32-13
 ### New Zealand V Fiji on 2024/07/20
 
 
-Average Margin: New Zealand by 13.4
+Average Margin: New Zealand by 13.5
 
 Average Scoreline: 39-25
 
@@ -283,84 +268,6 @@ Average Scoreline: 39-25
 <img src="plots/performances_2024-07-20-NewZealand_V_Fiji.png" width="32%" />
 <img src="plots/resultbar_2024-07-20-NewZealand_V_Fiji.png" width="32%" />
 <img src="plots/spreads_2024-07-20-NewZealand_V_Fiji.png" width="32%" />
-</p>
-
-### Namibia V Burkina Faso on 2024/07/20
-
-
-Average Margin: Namibia by 28.6
-
-Average Scoreline: 43-15
-
-<p float="left">
-<img src="plots/performances_2024-07-20-Namibia_V_BurkinaFaso.png" width="32%" />
-<img src="plots/resultbar_2024-07-20-Namibia_V_BurkinaFaso.png" width="32%" />
-<img src="plots/spreads_2024-07-20-Namibia_V_BurkinaFaso.png" width="32%" />
-</p>
-
-### Algeria V Ivory Coast on 2024/07/20
-
-
-Average Margin: Algeria by 14.2
-
-Average Scoreline: 29-15
-
-<p float="left">
-<img src="plots/performances_2024-07-20-Algeria_V_IvoryCoast.png" width="32%" />
-<img src="plots/resultbar_2024-07-20-Algeria_V_IvoryCoast.png" width="32%" />
-<img src="plots/spreads_2024-07-20-Algeria_V_IvoryCoast.png" width="32%" />
-</p>
-
-### Zimbabwe V Uganda on 2024/07/20
-
-
-Average Margin: Zimbabwe by 8.6
-
-Average Scoreline: 33-25
-
-<p float="left">
-<img src="plots/performances_2024-07-20-Zimbabwe_V_Uganda.png" width="32%" />
-<img src="plots/resultbar_2024-07-20-Zimbabwe_V_Uganda.png" width="32%" />
-<img src="plots/spreads_2024-07-20-Zimbabwe_V_Uganda.png" width="32%" />
-</p>
-
-### South Africa V Portugal on 2024/07/20
-
-
-Average Margin: South Africa by 27.5
-
-Average Scoreline: 45-18
-
-<p float="left">
-<img src="plots/performances_2024-07-20-SouthAfrica_V_Portugal.png" width="32%" />
-<img src="plots/resultbar_2024-07-20-SouthAfrica_V_Portugal.png" width="32%" />
-<img src="plots/spreads_2024-07-20-SouthAfrica_V_Portugal.png" width="32%" />
-</p>
-
-### Chile V Scotland on 2024/07/20
-
-
-Average Margin: Scotland by 21.8
-
-Average Scoreline: 34-13
-
-<p float="left">
-<img src="plots/performances_2024-07-20-Chile_V_Scotland.png" width="32%" />
-<img src="plots/resultbar_2024-07-20-Chile_V_Scotland.png" width="32%" />
-<img src="plots/spreads_2024-07-20-Chile_V_Scotland.png" width="32%" />
-</p>
-
-### Uruguay V Argentina on 2024/07/20
-
-
-Average Margin: Argentina by 11.9
-
-Average Scoreline: 35-23
-
-<p float="left">
-<img src="plots/performances_2024-07-20-Uruguay_V_Argentina.png" width="32%" />
-<img src="plots/resultbar_2024-07-20-Uruguay_V_Argentina.png" width="32%" />
-<img src="plots/spreads_2024-07-20-Uruguay_V_Argentina.png" width="32%" />
 </p>
 
 ### Australia V Georgia on 2024/07/20
@@ -376,10 +283,88 @@ Average Scoreline: 32-23
 <img src="plots/spreads_2024-07-20-Australia_V_Georgia.png" width="32%" />
 </p>
 
+### Namibia V Burkina Faso on 2024/07/20
+
+
+Average Margin: Namibia by 29.3
+
+Average Scoreline: 44-14
+
+<p float="left">
+<img src="plots/performances_2024-07-20-Namibia_V_BurkinaFaso.png" width="32%" />
+<img src="plots/resultbar_2024-07-20-Namibia_V_BurkinaFaso.png" width="32%" />
+<img src="plots/spreads_2024-07-20-Namibia_V_BurkinaFaso.png" width="32%" />
+</p>
+
+### Algeria V Ivory Coast on 2024/07/20
+
+
+Average Margin: Algeria by 14.4
+
+Average Scoreline: 29-15
+
+<p float="left">
+<img src="plots/performances_2024-07-20-Algeria_V_IvoryCoast.png" width="32%" />
+<img src="plots/resultbar_2024-07-20-Algeria_V_IvoryCoast.png" width="32%" />
+<img src="plots/spreads_2024-07-20-Algeria_V_IvoryCoast.png" width="32%" />
+</p>
+
+### Zimbabwe V Uganda on 2024/07/20
+
+
+Average Margin: Zimbabwe by 8.7
+
+Average Scoreline: 33-25
+
+<p float="left">
+<img src="plots/performances_2024-07-20-Zimbabwe_V_Uganda.png" width="32%" />
+<img src="plots/resultbar_2024-07-20-Zimbabwe_V_Uganda.png" width="32%" />
+<img src="plots/spreads_2024-07-20-Zimbabwe_V_Uganda.png" width="32%" />
+</p>
+
+### South Africa V Portugal on 2024/07/20
+
+
+Average Margin: South Africa by 27.1
+
+Average Scoreline: 45-18
+
+<p float="left">
+<img src="plots/performances_2024-07-20-SouthAfrica_V_Portugal.png" width="32%" />
+<img src="plots/resultbar_2024-07-20-SouthAfrica_V_Portugal.png" width="32%" />
+<img src="plots/spreads_2024-07-20-SouthAfrica_V_Portugal.png" width="32%" />
+</p>
+
+### Chile V Scotland on 2024/07/20
+
+
+Average Margin: Scotland by 21.6
+
+Average Scoreline: 34-13
+
+<p float="left">
+<img src="plots/performances_2024-07-20-Chile_V_Scotland.png" width="32%" />
+<img src="plots/resultbar_2024-07-20-Chile_V_Scotland.png" width="32%" />
+<img src="plots/spreads_2024-07-20-Chile_V_Scotland.png" width="32%" />
+</p>
+
+### Uruguay V Argentina on 2024/07/20
+
+
+Average Margin: Argentina by 12.3
+
+Average Scoreline: 35-22
+
+<p float="left">
+<img src="plots/performances_2024-07-20-Uruguay_V_Argentina.png" width="32%" />
+<img src="plots/resultbar_2024-07-20-Uruguay_V_Argentina.png" width="32%" />
+<img src="plots/spreads_2024-07-20-Uruguay_V_Argentina.png" width="32%" />
+</p>
+
 ### Japan V Italy on 2024/07/21
 
 
-Average Margin: Italy by 7.3
+Average Margin: Italy by 7.4
 
 Average Scoreline: 29-22
 
@@ -392,7 +377,7 @@ Average Scoreline: 29-22
 ### Paraguay V Belgium on 2024/07/21
 
 
-Average Margin: Belgium by 9.2
+Average Margin: Belgium by 9.1
 
 Average Scoreline: 26-17
 

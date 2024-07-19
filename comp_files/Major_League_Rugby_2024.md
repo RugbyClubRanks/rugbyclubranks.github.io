@@ -1,6 +1,6 @@
 ---  
 title: "Major League Rugby 2024 Status"  
-date: 2024-07-18 6:00:00 -0500  
+date: 2024-07-19 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -33,14 +33,14 @@ aside:
 
 |                        | quarterfinal qualifiers   | Reach Semifinals   | Reach Final   | Win Final   |
 |:-----------------------|:--------------------------|:-------------------|:--------------|:------------|
-| Houston SaberCats      | 100.0 %                   | 93.6 %             | 77.0 %        | 45.7 %      |
-| New England Free Jacks | 100.0 %                   | 95.7 %             | 85.8 %        | 35.3 %      |
-| San Diego Legion       | 100.0 %                   | 34.2 %             | 9.5 %         | 8.4 %       |
-| Seattle Seawolves      | 100.0 %                   | 65.8 %             | 10.6 %        | 6.1 %       |
-| NOLA Gold              | 100.0 %                   | 74.2 %             | 8.9 %         | 2.4 %       |
-| Dallas Jackals         | 100.0 %                   | 6.4 %              | 2.9 %         | 1.2 %       |
-| Chicago Hounds         | 100.0 %                   | 25.8 %             | 2.5 %         | 0.6 %       |
-| Old Glory DC           | 100.0 %                   | 4.3 %              | 2.8 %         | 0.3 %       |
+| Houston SaberCats      | 100.0 %                   | 94.5 %             | 76.7 %        | 49.5 %      |
+| New England Free Jacks | 100.0 %                   | 94.8 %             | 85.7 %        | 31.3 %      |
+| San Diego Legion       | 100.0 %                   | 38.2 %             | 11.0 %        | 9.7 %       |
+| Seattle Seawolves      | 100.0 %                   | 61.8 %             | 9.4 %         | 4.9 %       |
+| NOLA Gold              | 100.0 %                   | 76.6 %             | 8.9 %         | 2.1 %       |
+| Dallas Jackals         | 100.0 %                   | 5.5 %              | 2.9 %         | 1.3 %       |
+| Old Glory DC           | 100.0 %                   | 5.2 %              | 3.2 %         | 0.6 %       |
+| Chicago Hounds         | 100.0 %                   | 23.4 %             | 2.2 %         | 0.6 %       |
 
 
 
@@ -58,19 +58,6 @@ aside:
 
 ## quarterfinal
 
-### Houston SaberCats V Dallas Jackals on 2024/07/20
-
-
-Average Margin: Houston SaberCats by 7.9
-
-Average Scoreline: 36-28
-
-<p float="left">
-<img src="plots/performances_2024-07-20-HoustonSaberCats_V_DallasJackals.png" width="32%" />
-<img src="plots/resultbar_2024-07-20-HoustonSaberCats_V_DallasJackals.png" width="32%" />
-<img src="plots/spreads_2024-07-20-HoustonSaberCats_V_DallasJackals.png" width="32%" />
-</p>
-
 ### New England Free Jacks V Old Glory DC on 2024/07/20
 
 
@@ -84,12 +71,25 @@ Average Scoreline: 38-29
 <img src="plots/spreads_2024-07-20-NewEnglandFreeJacks_V_OldGloryDC.png" width="32%" />
 </p>
 
+### Houston SaberCats V Dallas Jackals on 2024/07/20
+
+
+Average Margin: Houston SaberCats by 8.2
+
+Average Scoreline: 36-28
+
+<p float="left">
+<img src="plots/performances_2024-07-20-HoustonSaberCats_V_DallasJackals.png" width="32%" />
+<img src="plots/resultbar_2024-07-20-HoustonSaberCats_V_DallasJackals.png" width="32%" />
+<img src="plots/spreads_2024-07-20-HoustonSaberCats_V_DallasJackals.png" width="32%" />
+</p>
+
 ### NOLA Gold V Chicago Hounds on 2024/07/21
 
 
-Average Margin: NOLA Gold by 3.9
+Average Margin: NOLA Gold by 4.1
 
-Average Scoreline: 30-27
+Average Scoreline: 31-26
 
 <p float="left">
 <img src="plots/performances_2024-07-21-NOLAGold_V_ChicagoHounds.png" width="32%" />
@@ -102,9 +102,9 @@ Average Scoreline: 30-27
 ### Seattle Seawolves V San Diego Legion on 2024/07/22
 
 
-Average Margin: Seattle Seawolves by 2.1
+Average Margin: Seattle Seawolves by 1.7
 
-Average Scoreline: 28-25
+Average Scoreline: 27-26
 
 <p float="left">
 <img src="plots/performances_2024-07-22-SeattleSeawolves_V_SanDiegoLegion.png" width="32%" />

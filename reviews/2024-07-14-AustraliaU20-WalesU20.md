@@ -11,7 +11,7 @@ categories: "World Rugby U20 Championship 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.567, which translates to predicting Australia U20 to win by 2.6.
 
-Our Over/Under is 56.5 - and combined with the spread above, we have a predicted scoreline of 27 to 29
+Our Over/Under is 61.5 - and combined with the spread above, we have a predicted scoreline of 29 to 32
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,26 +69,26 @@ Australia U20 by 5.6 on a neutral pitch
 
 |   Away Minutes | Away Player     |   Away Percentile |   Number |   Home Percentile | Home Player               |   Home Minutes |
 |---------------:|:----------------|------------------:|---------:|------------------:|:--------------------------|---------------:|
-|             40 | Jordan Morris   |             44.67 |        1 |             29.35 | Lington Ieli              |             49 |
-|             64 | Isaac Young     |             30.26 |        2 |             43.27 | Ottavio Tuipulotu         |             49 |
-|             51 | Sam Scott       |             36.32 |        3 |             54.25 | Nick Bloomfield           |             49 |
-|             80 | Jonny Green     |              8.91 |        4 |             56.57 | Toby McPherson            |             69 |
-|             80 | Nick Thomas     |             57.04 |        5 |             58.16 | Harvey Cordukes           |             80 |
-|             80 | Ryan Woodman    |             30.43 |        6 |             51.9  | Aden Ekanayake            |             80 |
-|             49 | Haari Beddall   |             28.49 |        7 |             51.43 | Dane Sawers               |             61 |
-|             80 | Morgan Morse    |             58.33 |        8 |             45.24 | Jack Harley               |             51 |
-|             64 | Rhodri Lewis    |             52.96 |        9 |             53.12 | Daniel Nelson             |             80 |
-|             49 | Harri Wilde     |             36.31 |       10 |             65.78 | Harry McLaughlin-Phillips |             80 |
-|             80 | Aidan Boschoff  |             27.66 |       11 |             66.15 | Archer Saunders           |             80 |
-|             80 | Louie Hennessey |             30.21 |       12 |             48.26 | Jarrah McLeod             |             64 |
-|             80 | Macs Page       |             25.02 |       13 |             43.67 | Kadin Pritchard           |             80 |
-|             64 | Kodie Stone     |             61.06 |       14 |             68.33 | Ronan Leahy               |             80 |
-|             80 | Matty Young     |             47.31 |       15 |             46.51 | Shane Wilcox              |             80 |
-|             40 | Gethyn Cannon   |            nan    |       16 |             38.01 | Trevor King               |             31 |
-|             31 | Lucas De la Rua |             19.8  |       17 |             60.67 | Bryn Edwards              |             31 |
-|             31 | Harri Ford      |             46.01 |       18 |            nan    | Nate Tiitii               |             31 |
-|             29 | Kian Hire       |             53.87 |       19 |            nan    | Eamon Doyle               |             29 |
-|             16 | Steffan Emanuel |             46.16 |       20 |            nan    | Austin Durbridge          |             19 |
+|             40 | Jordan Morris   |             44.5  |        1 |             29.01 | Lington Ieli              |             49 |
+|             64 | Isaac Young     |             30.23 |        2 |             43.01 | Ottavio Tuipulotu         |             49 |
+|             51 | Sam Scott       |             35.76 |        3 |             54.37 | Nick Bloomfield           |             49 |
+|             80 | Jonny Green     |              8.85 |        4 |             56.61 | Toby McPherson            |             69 |
+|             80 | Nick Thomas     |             57.26 |        5 |             58.38 | Harvey Cordukes           |             80 |
+|             80 | Ryan Woodman    |             21.31 |        6 |             51.85 | Aden Ekanayake            |             80 |
+|             49 | Haari Beddall   |             28.51 |        7 |             51.29 | Dane Sawers               |             61 |
+|             80 | Morgan Morse    |             55.67 |        8 |             45.13 | Jack Harley               |             51 |
+|             64 | Rhodri Lewis    |             52.86 |        9 |             53.03 | Daniel Nelson             |             80 |
+|             49 | Harri Wilde     |             36.24 |       10 |             58.82 | Harry McLaughlin-Phillips |             80 |
+|             80 | Aidan Boschoff  |             27.68 |       11 |             66.37 | Archer Saunders           |             80 |
+|             80 | Louie Hennessey |             30.37 |       12 |             48.66 | Jarrah McLeod             |             64 |
+|             80 | Macs Page       |             25.22 |       13 |             44.11 | Kadin Pritchard           |             80 |
+|             64 | Kodie Stone     |             61.23 |       14 |             57.26 | Ronan Leahy               |             80 |
+|             80 | Matty Young     |             47.63 |       15 |             46.84 | Shane Wilcox              |             80 |
+|             40 | Gethyn Cannon   |            nan    |       16 |             37.36 | Trevor King               |             31 |
+|             31 | Lucas De la Rua |             19.83 |       17 |             60.9  | Bryn Edwards              |             31 |
+|             31 | Harri Ford      |             45.73 |       18 |            nan    | Nate Tiitii               |             31 |
+|             29 | Kian Hire       |             53.99 |       19 |            nan    | Eamon Doyle               |             29 |
+|             16 | Steffan Emanuel |             46.69 |       20 |            nan    | Austin Durbridge          |             19 |
 |             16 | Lucca Setaro    |            nan    |       21 |            nan    | Boston Fakafanua          |             16 |
-|             16 | Wills Austin    |            nan    |       22 |             35.93 | Ollie McCrea              |             11 |
+|             16 | Wills Austin    |            nan    |       22 |             35.94 | Ollie McCrea              |             11 |
 
