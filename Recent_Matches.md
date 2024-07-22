@@ -5,60 +5,80 @@ key: page-recents
 ---
 # International Matches
 
+## African CAR Championship
+
+
+[In depth model review and projections for African CAR Championship 2024](comp_files/African_CAR_Championship_2024)
+
+Competition Accuracy: 4 of 4 (100.0%)
+
+Competition Error: 14.58 points per match
+
+Last Round Accuracy: 4 of 4 (100.0%)
+
+Last Round Error: 14.58 points per match
+
+[2024-07-19 Ivory Coast at Algeria; 12-16](reviews//2024-07-19-Algeria-IvoryCoast)
+
+[2024-07-19 Senegal at Kenya; 3-19](reviews//2024-07-19-Kenya-Senegal)
+
+[2024-07-19 Zimbabwe at Uganda; 22-0](reviews//2024-07-19-Uganda-Zimbabwe)
+
+[2024-07-19 Burkina Faso at Namibia; 0-19](reviews//2024-07-19-Namibia-BurkinaFaso)
 ## International Test Match
 
 
 [In depth model review and projections for International Test Match 2024](comp_files/International_Test_Match_2024)
 
-Competition Accuracy: 42 of 59 (71.19%)
+Competition Accuracy: 55 of 72 (76.39%)
 
-Competition Error: 21.29 points per match
+Competition Error: 20.83 points per match
 
-Last Round Accuracy: 24 of 34 (70.59%)
+Last Round Accuracy: 30 of 37 (81.08%)
 
-Last Round Error: 20.92 points per match
+Last Round Error: 15.72 points per match
 
-[2024-07-10 France at Uruguay; 43-28](reviews//2024-07-10-Uruguay-France)
+[2024-07-18 New Zealand at Fiji; 47-5](reviews//2024-07-18-Fiji-NewZealand)
 
-[2024-07-11 Scotland at United States of America; 42-7](reviews//2024-07-11-UnitedStatesofAmerica-Scotland)
+[2024-07-19 Georgia at Australia; 29-40](reviews//2024-07-19-Australia-Georgia)
 
-[2024-07-11 Romania at Canada; 22-35](reviews//2024-07-11-Canada-Romania)
+[2024-07-19 Scotland at Chile; 52-6](reviews//2024-07-19-Chile-Scotland)
 
-[2024-07-11 Italy at Tonga; 36-14](reviews//2024-07-11-Tonga-Italy)
+[2024-07-19 Argentina at Uruguay; 79-5](reviews//2024-07-19-Uruguay-Argentina)
 
-[2024-07-12 Wales at Australia; 28-36](reviews//2024-07-12-Australia-Wales)
+[2024-07-19 Portugal at South Africa; 21-64](reviews//2024-07-19-SouthAfrica-Portugal)
 
-[2024-07-12 France at Argentina; 25-33](reviews//2024-07-12-Argentina-France)
+[2024-07-20 Hong Kong at Brazil; 26-25](reviews//2024-07-20-Brazil-HongKong)
 
-[2024-07-12 England at New Zealand; 17-24](reviews//2024-07-12-NewZealand-England)
+[2024-07-20 Burkina Faso at Namibia; 5-38](reviews//2024-07-20-Namibia-BurkinaFaso)
 
-[2024-07-12 Ireland at South Africa; 25-24](reviews//2024-07-12-SouthAfrica-Ireland)
+[2024-07-20 Ivory Coast at Algeria; 12-32](reviews//2024-07-20-Algeria-IvoryCoast)
 
-[2024-07-12 Georgia at Japan; 25-23](reviews//2024-07-12-Japan-Georgia)
+[2024-07-20 Italy at Japan; 42-14](reviews//2024-07-20-Japan-Italy)
 
-[2024-07-12 Portugal at Namibia; 37-22](reviews//2024-07-12-Namibia-Portugal)
+[2024-07-20 Senegal at Kenya; 17-36](reviews//2024-07-20-Kenya-Senegal)
 
-[2024-07-14 Hong Kong at Paraguay; 80-12](reviews//2024-07-14-Paraguay-HongKong)
+[2024-07-20 Uganda at Zimbabwe; 20-22](reviews//2024-07-20-Zimbabwe-Uganda)
+
+[2024-07-20 Belgium at Paraguay; 45-20](reviews//2024-07-20-Paraguay-Belgium)
+
+[2024-07-20 Chile at Scotland; 0-52](reviews//2024-07-20-Scotland-Chile)
 ## Tests Matchs
 
 
 [In depth model review and projections for Tests Matchs 2023](comp_files/Tests_Matchs_2023)
 
-Competition Accuracy: 6 of 18 (33.33%)
+Competition Accuracy: 7 of 19 (36.84%)
 
-Competition Error: 19.91 points per match
+Competition Error: 20.07 points per match
 
-Last Round Accuracy: 4 of 10 (40.0%)
+Last Round Accuracy: 5 of 10 (50.0%)
 
-Last Round Error: 18.43 points per match
-
-[2024-07-10 France Developpement at Uruguay; 43-28](reviews//2024-07-10-Uruguay-FranceDeveloppement)
-
-[2024-07-12 Spain at Samoa; 30-34](reviews//2024-07-12-Samoa-Spain)
-
-[2024-07-13 Belgium at Chile; 5-33](reviews//2024-07-13-Chile-Belgium)
+Last Round Error: 18.71 points per match
 
 [2024-07-18 Spain at Tonga; 29-20](reviews//2024-07-18-Tonga-Spain)
+
+[2024-07-19 Fiji at New Zealand; 5-47](reviews//2024-07-19-NewZealand-Fiji)
 ## World Rugby U20 Championship
 
 
@@ -72,39 +92,17 @@ Last Round Accuracy: 3 of 3 (100.0%)
 
 Last Round Error: 3.94 points per match
 
-[2024-07-09 Italy U20 at Georgia U20; 17-28](reviews//2024-07-09-GeorgiaU20-ItalyU20)
-
-[2024-07-09 England U20 at South Africa U20; 17-12](reviews//2024-07-09-SouthAfricaU20-EnglandU20)
-
-[2024-07-09 Spain U20 at New Zealand U20; 13-45](reviews//2024-07-09-NewZealandU20-SpainU20)
-
-[2024-07-09 Fiji U20 at Argentina U20; 12-52](reviews//2024-07-09-ArgentinaU20-FijiU20)
-
-[2024-07-09 Wales U20 at France U20; 11-29](reviews//2024-07-09-FranceU20-WalesU20)
-
-[2024-07-14 Fiji U20 at Georgia U20; 36-40](reviews//2024-07-14-GeorgiaU20-FijiU20)
-
-[2024-07-14 South Africa U20 at Argentina U20; 24-34](reviews//2024-07-14-ArgentinaU20-SouthAfricaU20)
-
-[2024-07-14 Wales U20 at Australia U20; 29-36](reviews//2024-07-14-AustraliaU20-WalesU20)
-
-[2024-07-14 New Zealand U20 at France U20; 31-55](reviews//2024-07-14-FranceU20-NewZealandU20)
-
-[2024-07-14 New Zealand U20 at France U20; 31-55](reviews//2024-07-14-FranceU20-NewZealandU20)
-
-[2024-07-14 Ireland U20 at England U20; 20-31](reviews//2024-07-14-EnglandU20-IrelandU20)
-
-[2024-07-14 Spain U20 at Italy U20; 15-28](reviews//2024-07-14-ItalyU20-SpainU20)
-
-[2024-07-19 South Africa U20 at Wales U20; 47-31](reviews//2024-07-19-WalesU20-SouthAfricaU20)
-
-[2024-07-19 Argentina U20 at Australia U20; 14-6](reviews//2024-07-19-AustraliaU20-ArgentinaU20)
-
-[2024-07-19 New Zealand U20 at Ireland U20; 38-24](reviews//2024-07-19-IrelandU20-NewZealandU20)
+[2024-07-19 Fiji U20 at Spain U20; 19-24](reviews//2024-07-19-SpainU20-FijiU20)
 
 [2024-07-19 Georgia U20 at Italy U20; 24-13](reviews//2024-07-19-ItalyU20-GeorgiaU20)
 
-[2024-07-19 Fiji U20 at Spain U20; 19-24](reviews//2024-07-19-SpainU20-FijiU20)
+[2024-07-19 New Zealand U20 at Ireland U20; 38-24](reviews//2024-07-19-IrelandU20-NewZealandU20)
+
+[2024-07-19 Argentina U20 at Australia U20; 14-6](reviews//2024-07-19-AustraliaU20-ArgentinaU20)
+
+[2024-07-19 South Africa U20 at Wales U20; 47-31](reviews//2024-07-19-WalesU20-SouthAfricaU20)
+
+[2024-07-19 France U20 at England U20; 13-21](reviews//2024-07-19-EnglandU20-FranceU20)
 ## World Rugby U20 Trophy
 
 
@@ -118,11 +116,33 @@ Last Round Accuracy: 1 of 2 (50.0%)
 
 Last Round Error: 62.33 points per match
 
-[2024-07-12 Japan U20 at Scotland U20; 10-46](reviews//2024-07-12-ScotlandU20-JapanU20)
+[2024-07-17 Samoa U20 at Netherlands U20; 29-46](reviews//2024-07-17-NetherlandsU20-SamoaU20)
 
-[2024-07-12 Kenya U20 at United States of America U20; 17-30](reviews//2024-07-12-UnitedStatesofAmericaU20-KenyaU20)
+[2024-07-17 Uruguay U20 at Japan U20; 22-75](reviews//2024-07-17-JapanU20-UruguayU20)
 
-[2024-07-12 Hong Kong U20 at Samoa U20; 19-39](reviews//2024-07-12-SamoaU20-HongKongU20)
+[2024-07-17 Kenya U20 at Hong Kong U20; 14-34](reviews//2024-07-17-HongKongU20-KenyaU20)
+# Top Flight Leagues
+
+## Major League Rugby
+
+
+[In depth model review and projections for Major League Rugby 2024](comp_files/Major_League_Rugby_2024)
+
+Competition Accuracy: 74 of 118 (62.71%)
+
+Competition Error: 11.32 points per match
+
+Last Round Accuracy: 4 of 6 (66.67%)
+
+Last Round Error: 10.2 points per match
+
+[2024-07-20 Old Glory DC at New England Free Jacks; 29-33](reviews//2024-07-20-NewEnglandFreeJacks-OldGloryDC)
+
+[2024-07-21 Dallas Jackals at Houston SaberCats; 34-22](reviews//2024-07-21-HoustonSaberCats-DallasJackals)
+
+[2024-07-21 San Diego Legion at Seattle Seawolves; 28-30](reviews//2024-07-21-SeattleSeawolves-SanDiegoLegion)
+
+[2024-07-22 Chicago Hounds at NOLA Gold; 45-21](reviews//2024-07-22-NOLAGold-ChicagoHounds)
 # Domestic Leagues
 
 ## Currie Cup
@@ -130,60 +150,18 @@ Last Round Error: 62.33 points per match
 
 [In depth model review and projections for Currie Cup 2024](comp_files/Currie_Cup_2024)
 
-Competition Accuracy: 4 of 10 (40.0%)
+Competition Accuracy: 7 of 14 (50.0%)
 
-Competition Error: 19.92 points per match
+Competition Error: 19.37 points per match
 
-Last Round Accuracy: 3 of 5 (60.0%)
+Last Round Accuracy: 4 of 5 (80.0%)
 
-Last Round Error: 22.46 points per match
+Last Round Error: 20.81 points per match
 
-[2024-07-12 Golden Lions at Pumas; 75-21](reviews//2024-07-12-Pumas-GoldenLions)
+[2024-07-19 Griquas at Golden Lions; 13-25](reviews//2024-07-19-GoldenLions-Griquas)
 
-[2024-07-12 Natal Sharks at Griquas; 31-34](reviews//2024-07-12-Griquas-NatalSharks)
+[2024-07-19 Free State Cheetahs at Blue Bulls; 13-25](reviews//2024-07-19-BlueBulls-FreeStateCheetahs)
 
-[2024-07-12 Sharks at Griquas; 31-34](reviews//2024-07-12-Griquas-Sharks)
+[2024-07-19 Pumas at Sharks; 31-21](reviews//2024-07-19-Sharks-Pumas)
 
-[2024-07-13 Western Province at Free State Cheetahs; 17-37](reviews//2024-07-13-FreeStateCheetahs-WesternProvince)
-
-[2024-07-14 Blue Bulls at Griffons; 52-10](reviews//2024-07-14-Griffons-BlueBulls)
-## Currie Cup First Division
-
-
-[In depth model review and projections for Currie Cup First Division 2023](comp_files/Currie_Cup_First_Division_2023)
-
-Competition Accuracy: 22 of 30 (73.33%)
-
-Competition Error: 15.36 points per match
-
-Last Round Accuracy: 2 of 3 (66.67%)
-
-Last Round Error: 26.42 points per match
-
-[2024-07-13 Eastern Province Kings at Valke; 43-33](reviews//2024-07-13-Valke-EasternProvinceKings)
-
-[2024-07-13 Boland Cavaliers at Border Bulldogs; 59-14](reviews//2024-07-13-BorderBulldogs-BolandCavaliers)
-## URBA Top 12
-
-
-[In depth model review and projections for URBA Top 12 2024](comp_files/URBA_Top_12_2024)
-
-Competition Accuracy: 49 of 78 (62.82%)
-
-Competition Error: 13.68 points per match
-
-Last Round Accuracy: 4 of 6 (66.67%)
-
-Last Round Error: 14.27 points per match
-
-[2024-07-14 Hindu at Regatas Bella Vista; 35-20](reviews//2024-07-14-RegatasBellaVista-Hindu)
-
-[2024-07-14 Buenos Aires at CUBA; 10-30](reviews//2024-07-14-CUBA-BuenosAires)
-
-[2024-07-14 Atletico del Rosario at Champagnat; 20-36](reviews//2024-07-14-Champagnat-AtleticodelRosario)
-
-[2024-07-14 Newman at SIC; 38-10](reviews//2024-07-14-SIC-Newman)
-
-[2024-07-14 Belgrano at CASI; 41-37](reviews//2024-07-14-CASI-Belgrano)
-
-[2024-07-14 San Luis at Alumni; 16-19](reviews//2024-07-14-Alumni-SanLuis)
+[2024-07-21 Western Province at Griffons; 64-15](reviews//2024-07-21-Griffons-WesternProvince)

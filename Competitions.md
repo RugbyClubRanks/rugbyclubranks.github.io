@@ -8,7 +8,7 @@ key: page-recents
 ## International Test Match
 
 
-[2024](comp_files\International_Test_Match_2024) - Prediction Accuracy: 71.7% 
+[2024](comp_files\International_Test_Match_2024) - Prediction Accuracy: 76.4% 
 
 [2023](comp_files\International_Test_Match_2023) - Prediction Accuracy: 77.8% 
 
@@ -62,7 +62,7 @@ key: page-recents
 ## World Rugby U20 Championship
 
 
-[2024](comp_files\World_Rugby_U20_Championship_2024) - Prediction Accuracy: 68.0% 
+[2024](comp_files\World_Rugby_U20_Championship_2024) - Prediction Accuracy: 63.3% 
 
 [2023](comp_files\World_Rugby_U20_Championship_2023) - Prediction Accuracy: 100.0% 
 ## World Rugby U20 Trophy
@@ -136,7 +136,7 @@ key: page-recents
 ## Major League Rugby
 
 
-[2024](comp_files\Major_League_Rugby_2024) - Prediction Accuracy: 63.1% 
+[2024](comp_files\Major_League_Rugby_2024) - Prediction Accuracy: 62.7% 
 
 [2023](comp_files\Major_League_Rugby_2023) - Prediction Accuracy: 71.3% 
 
@@ -266,7 +266,7 @@ key: page-recents
 ## Currie Cup
 
 
-[2024](comp_files\Currie_Cup_2024) - Prediction Accuracy: 40.0% 
+[2024](comp_files\Currie_Cup_2024) - Prediction Accuracy: 50.0% 
 
 [2023](comp_files\Currie_Cup_2023) - Prediction Accuracy: 56.4% 
 

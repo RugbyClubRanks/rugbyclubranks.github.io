@@ -9,9 +9,9 @@ categories: "Tests Matchs 2023" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.836, which translates to predicting Tonga to win by 14.9.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.838, which translates to predicting Tonga to win by 15.0.
 
-Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 15 to 30
+Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 17 to 32
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Tonga by 9.3 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player      |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:-----------------|---------------:|
-|             80 | Titi Futeu Youtcheu   |             21.79 |        1 |             60.36 | Tau Koloamatangi |             80 |
-|             80 | Santiago Ovejero      |             66.02 |        2 |             22.86 | Sosefo Sakalia   |             80 |
-|             80 | Hugo Pirlet           |             56.42 |        3 |             96.05 | Ben Tameifuna    |             80 |
-|             80 | Asier Usarraga        |             71.97 |        4 |             98.32 | Adam Coleman     |             80 |
-|             80 | Imanol Urraza         |             81.94 |        5 |             17.97 | Harrison Mataele |             80 |
-|             80 | Mario Pichardi Garcia |             70.11 |        6 |             64.02 | Josh Kaifa       |             80 |
-|             80 | Marc Sánchez          |             68.91 |        7 |             15.22 | Fotu Lokotui     |             80 |
-|             80 | Raphaël Nieto         |             60.04 |        8 |              3.78 | Lotu Inisi       |             80 |
-|             80 | Estanislao Bay        |             61.37 |        9 |             20.62 | Manu Paea        |             80 |
-|             80 | Gonzalo Vinuesa       |             45.16 |       10 |             15.94 | James Faiva      |             80 |
-|             80 | Gauthier Minguillon   |             65.19 |       11 |             16.86 | Hosea Saumaki    |             80 |
-|             80 | Álvar Gimeno          |             76.16 |       12 |             68.25 | Malakai Fekitoa  |             80 |
-|             80 | Alejandro Alonso      |             59.94 |       13 |             25.62 | Fetuli Paea      |             80 |
-|             80 | Manuel Alfaro         |             68.62 |       14 |             22.18 | John Tapueluelu  |             80 |
-|             80 | John Wessel Bell      |             67.19 |       15 |             99.8  | Telusa Veainu    |             80 |
-|              0 | Álvaro Garcia         |             73.23 |       16 |            nan    | Solomone Aniseko |              0 |
-|              0 | Raúl Calzón           |            nan    |       17 |            nan    | Jethro Felemi    |              0 |
-|              0 | Lucas Santamaria      |             45.56 |       18 |            nan    | Brandon Televave |              0 |
-|              0 | Ignacio Piñeiro       |             74.86 |       19 |            nan    | Kelemete Finau   |              0 |
-|              0 | Alex Saleta           |             42.07 |       20 |            nan    | Sione Takai      |              0 |
-|              0 | Pablo Pérez           |            nan    |       21 |             21.77 | Aisea Halo       |              0 |
-|              0 | Bautista Guemes       |             72.87 |       22 |            nan    | Tyler Pulini     |              0 |
-|              0 | Inaki Mateu Spuches   |             10.88 |       23 |            nan    | Nikolai Foliaki  |              0 |
+|             82 | Titi Futeu Youtcheu   |             21.61 |        1 |             62.35 | Tau Koloamatangi |             75 |
+|             54 | Santiago Ovejero      |             55.61 |        2 |             27.19 | Sosefo Sakalia   |             77 |
+|             60 | Hugo Pirlet           |             48.33 |        3 |             96.28 | Ben Tameifuna    |             57 |
+|             82 | Asier Usarraga        |             72.03 |        4 |             98.38 | Adam Coleman     |             82 |
+|             82 | Imanol Urraza         |             81.35 |        5 |             18.36 | Harrison Mataele |             82 |
+|              0 | Mario Pichardi Garcia |             48.06 |        6 |             64.52 | Josh Kaifa       |             82 |
+|             64 | Marc Sánchez          |             64.81 |        7 |             16.56 | Fotu Lokotui     |             74 |
+|             82 | Raphaël Nieto         |             59.92 |        8 |              5.26 | Lotu Inisi       |             40 |
+|             76 | Estanislao Bay        |             59    |        9 |             40.17 | Manu Paea        |             20 |
+|             82 | Gonzalo Vinuesa       |             44.94 |       10 |             19.07 | James Faiva      |             65 |
+|             82 | Gauthier Minguillon   |             64.47 |       11 |             23.26 | Hosea Saumaki    |             44 |
+|             82 | Álvar Gimeno          |             75.86 |       12 |             68.86 | Malakai Fekitoa  |             82 |
+|             73 | Alejandro Alonso      |             58.11 |       13 |             43.51 | Fetuli Paea      |             20 |
+|             71 | Manuel Alfaro         |             65.38 |       14 |             22.44 | John Tapueluelu  |             82 |
+|             82 | John Wessel Bell      |             66.27 |       15 |             99.6  | Telusa Veainu    |             82 |
+|             28 | Álvaro Garcia         |             72.66 |       16 |            nan    | Solomone Aniseko |              5 |
+|              0 | Raúl Calzón           |            nan    |       17 |            nan    | Jethro Felemi    |              7 |
+|             22 | Lucas Santamaria      |             45.78 |       18 |            nan    | Brandon Televave |             25 |
+|             82 | Ignacio Piñeiro       |             74.98 |       19 |            nan    | Kelemete Finau   |              8 |
+|             18 | Alex Saleta           |             42.48 |       20 |            nan    | Sione Takai      |             42 |
+|              6 | Pablo Pérez           |            nan    |       21 |             21.33 | Aisea Halo       |             42 |
+|             11 | Bautista Guemes       |             73.93 |       22 |            nan    | Tyler Pulini     |             17 |
+|              9 | Inaki Mateu Spuches   |             11.16 |       23 |            nan    | Nikolai Foliaki  |             38 |
 
