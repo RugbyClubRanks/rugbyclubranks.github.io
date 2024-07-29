@@ -1,6 +1,6 @@
 ---  
 title: "Major League Rugby 2024 Status"  
-date: 2024-07-22 6:00:00 -0500  
+date: 2024-07-29 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,18 +17,18 @@ aside:
 
 | Club                   |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Houston SaberCats      |       20 |     17 |                  148 |                     0 |                nan |                   76 |
-| Seattle Seawolves      |       21 |     14 |                  138 |                     5 |                nan |                   69 |
-| New England Free Jacks |       20 |     13 |                  143 |                     4 |                nan |                   63 |
-| San Diego Legion       |       17 |     12 |                   57 |                     4 |                nan |                   57 |
-| NOLA Gold              |       19 |     12 |                   79 |                     2 |                nan |                   55 |
-| Dallas Jackals         |       21 |      9 |                   63 |                    11 |                nan |                   55 |
-| Old Glory DC           |       20 |     10 |                  -24 |                     6 |                nan |                   51 |
-| Chicago Hounds         |       18 |      8 |                   83 |                     6 |                nan |                   45 |
-| Utah Warriors          |       21 |      6 |                  -60 |                    11 |                nan |                   39 |
-| Miami Sharks           |       20 |      8 |                  -75 |                     5 |                nan |                   39 |
-| RFC Los Angeles        |       19 |      7 |                 -121 |                     2 |                nan |                   39 |
-| Anthem RC              |       20 |      0 |                 -431 |                     2 |                nan |                    7 |
+| Seattle Seawolves      |       20 |     14 |                  132 |                     4 |                nan |                   69 |
+| Houston SaberCats      |       18 |     14 |                  107 |                     0 |                nan |                   64 |
+| New England Free Jacks |       19 |     13 |                  129 |                     3 |                nan |                   62 |
+| Dallas Jackals         |       20 |      9 |                   74 |                    10 |                nan |                   54 |
+| San Diego Legion       |       17 |     11 |                   49 |                     5 |                nan |                   54 |
+| NOLA Gold              |       19 |     11 |                   48 |                     2 |                nan |                   51 |
+| Chicago Hounds         |       18 |      9 |                  103 |                     5 |                nan |                   49 |
+| Old Glory DC           |       17 |      8 |                  -26 |                     5 |                nan |                   42 |
+| Utah Warriors          |       18 |      6 |                  -47 |                     8 |                nan |                   36 |
+| RFC Los Angeles        |       16 |      5 |                 -106 |                     2 |                nan |                   31 |
+| Miami Sharks           |       17 |      6 |                  -75 |                     4 |                nan |                   30 |
+| Anthem RC              |       17 |      0 |                 -388 |                     1 |                nan |                    6 |
 
 
 
@@ -37,10 +37,8 @@ aside:
 
 | Club                   |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Seattle Seawolves      |                   8 |    4.6 |              9.84761 |                   2.7 |                2.3 |                 23.5 |
-| Dallas Jackals         |                   8 |    3.4 |             -9.84761 |                   3.2 |                2   |                 18.7 |
-| New England Free Jacks |                   1 |    0.8 |              3.79687 |                   0.2 |                0.3 |                  3.5 |
-| Chicago Hounds         |                   1 |    0.2 |             -3.79687 |                   0.5 |                0.3 |                  1.7 |
+| Seattle Seawolves      |                   2 |    1.6 |              7.65828 |                   0.4 |                0.5 |                  7.2 |
+| New England Free Jacks |                   2 |    0.4 |             -7.65828 |                   1.1 |                0.5 |                  3.3 |
 
 
 
@@ -49,28 +47,28 @@ aside:
 
 | Club                   |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Seattle Seawolves      |              29 |   18.6 |             147.848  |                   7.7 |                2.3 |                 92.5 |
-| Houston SaberCats      |              20 |   17   |             148      |                   0   |                0   |                 76   |
-| Dallas Jackals         |              29 |   12.4 |              53.1524 |                  14.2 |                2   |                 73.7 |
-| New England Free Jacks |              21 |   13.8 |             146.797  |                   4.2 |                0.3 |                 66.5 |
-| San Diego Legion       |              17 |   12   |              57      |                   4   |                0   |                 57   |
-| NOLA Gold              |              19 |   12   |              79      |                   2   |                0   |                 55   |
-| Old Glory DC           |              20 |   10   |             -24      |                   6   |                0   |                 51   |
-| Chicago Hounds         |              19 |    8.2 |              79.2031 |                   6.5 |                0.3 |                 46.7 |
-| Utah Warriors          |              21 |    6   |             -60      |                  11   |                0   |                 39   |
-| Miami Sharks           |              20 |    8   |             -75      |                   5   |                0   |                 39   |
-| RFC Los Angeles        |              19 |    7   |            -121      |                   2   |                0   |                 39   |
-| Anthem RC              |              20 |    0   |            -431      |                   2   |                0   |                  7   |
+| Seattle Seawolves      |              22 |   15.6 |              139.658 |                   4.4 |                0.5 |                 76.2 |
+| New England Free Jacks |              21 |   13.4 |              121.342 |                   4.1 |                0.5 |                 65.3 |
+| Houston SaberCats      |              18 |   14   |              107     |                   0   |                0   |                 64   |
+| Dallas Jackals         |              20 |    9   |               74     |                  10   |                0   |                 54   |
+| San Diego Legion       |              17 |   11   |               49     |                   5   |                0   |                 54   |
+| NOLA Gold              |              19 |   11   |               48     |                   2   |                0   |                 51   |
+| Chicago Hounds         |              18 |    9   |              103     |                   5   |                0   |                 49   |
+| Old Glory DC           |              17 |    8   |              -26     |                   5   |                0   |                 42   |
+| Utah Warriors          |              18 |    6   |              -47     |                   8   |                0   |                 36   |
+| RFC Los Angeles        |              16 |    5   |             -106     |                   2   |                0   |                 31   |
+| Miami Sharks           |              17 |    6   |              -75     |                   4   |                0   |                 30   |
+| Anthem RC              |              17 |    0   |             -388     |                   1   |                0   |                  6   |
 
 
 
 ## Projected Playoff Results
 
 
-|                   | quarterfinal qualifiers   |
-|:------------------|:--------------------------|
-| Seattle Seawolves | 100.0 %                   |
-| San Diego Legion  | 100.0 %                   |
+|                        | Reach Final   | Win Final   |
+|:-----------------------|:--------------|:------------|
+| Seattle Seawolves      | 200.0 %       | 117.0 %     |
+| New England Free Jacks | 200.0 %       | 83.0 %      |
 
 
 
@@ -79,141 +77,37 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 62.7% | 11.3 |
-| Player Level: Lineup | 60.5% | 10.9 |
-| Player Level: Minutes | 60.3% | 10.8 |
+| Club Level | 63.0% | 11.5 |
+| Player Level: Lineup | 56.0% | 11.8 |
+| Player Level: Minutes | 56.6% | 11.6 |
 
 
 # Future Predictions
 
-## Week 22
+## Week 21
 
-### Seattle Seawolves V San Diego Legion on 2024/07/22
+### Seattle Seawolves V New England Free Jacks on 2024/08/04
 
 
-Average Margin: Seattle Seawolves by 1.6
+Average Margin: Seattle Seawolves by 3.8
 
-Average Scoreline: 28-27
+Average Scoreline: 26-23
 
 <p float="left">
-<img src="plots/performances_2024-07-22-SeattleSeawolves_V_SanDiegoLegion.png" width="32%" />
-<img src="plots/resultbar_2024-07-22-SeattleSeawolves_V_SanDiegoLegion.png" width="32%" />
-<img src="plots/spreads_2024-07-22-SeattleSeawolves_V_SanDiegoLegion.png" width="32%" />
+<img src="plots/performances_2024-08-04-SeattleSeawolves_V_NewEnglandFreeJacks.png" width="32%" />
+<img src="plots/resultbar_2024-08-04-SeattleSeawolves_V_NewEnglandFreeJacks.png" width="32%" />
+<img src="plots/spreads_2024-08-04-SeattleSeawolves_V_NewEnglandFreeJacks.png" width="32%" />
 </p>
 
-### New England Free Jacks V Chicago Hounds on 2024/07/27
+### Seattle Seawolves V New England Free Jacks on 2024/08/04
 
 
-Average Margin: New England Free Jacks by 3.8
+Average Margin: Seattle Seawolves by 3.8
 
-Average Scoreline: 29-25
-
-<p float="left">
-<img src="plots/performances_2024-07-27-NewEnglandFreeJacks_V_ChicagoHounds.png" width="32%" />
-<img src="plots/resultbar_2024-07-27-NewEnglandFreeJacks_V_ChicagoHounds.png" width="32%" />
-<img src="plots/spreads_2024-07-27-NewEnglandFreeJacks_V_ChicagoHounds.png" width="32%" />
-</p>
-
-### Dallas Jackals V Seattle Seawolves on 2024/07/28
-
-
-Average Margin: Dallas Jackals by 2.0
-
-Average Scoreline: 32-30
+Average Scoreline: 26-23
 
 <p float="left">
-<img src="plots/performances_2024-07-28-DallasJackals_V_SeattleSeawolves.png" width="32%" />
-<img src="plots/resultbar_2024-07-28-DallasJackals_V_SeattleSeawolves.png" width="32%" />
-<img src="plots/spreads_2024-07-28-DallasJackals_V_SeattleSeawolves.png" width="32%" />
-</p>
-
-### Dallas Jackals V Seattle Seawolves on 2024/07/28
-
-
-Average Margin: Dallas Jackals by 2.0
-
-Average Scoreline: 32-30
-
-<p float="left">
-<img src="plots/performances_2024-07-28-DallasJackals_V_SeattleSeawolves.png" width="32%" />
-<img src="plots/resultbar_2024-07-28-DallasJackals_V_SeattleSeawolves.png" width="32%" />
-<img src="plots/spreads_2024-07-28-DallasJackals_V_SeattleSeawolves.png" width="32%" />
-</p>
-
-### Dallas Jackals V Seattle Seawolves on 2024/07/28
-
-
-Average Margin: Dallas Jackals by 2.0
-
-Average Scoreline: 32-30
-
-<p float="left">
-<img src="plots/performances_2024-07-28-DallasJackals_V_SeattleSeawolves.png" width="32%" />
-<img src="plots/resultbar_2024-07-28-DallasJackals_V_SeattleSeawolves.png" width="32%" />
-<img src="plots/spreads_2024-07-28-DallasJackals_V_SeattleSeawolves.png" width="32%" />
-</p>
-
-### Dallas Jackals V Seattle Seawolves on 2024/07/28
-
-
-Average Margin: Dallas Jackals by 2.0
-
-Average Scoreline: 32-30
-
-<p float="left">
-<img src="plots/performances_2024-07-28-DallasJackals_V_SeattleSeawolves.png" width="32%" />
-<img src="plots/resultbar_2024-07-28-DallasJackals_V_SeattleSeawolves.png" width="32%" />
-<img src="plots/spreads_2024-07-28-DallasJackals_V_SeattleSeawolves.png" width="32%" />
-</p>
-
-### Seattle Seawolves V Dallas Jackals on 2024/07/28
-
-
-Average Margin: Seattle Seawolves by 4.5
-
-Average Scoreline: 33-29
-
-<p float="left">
-<img src="plots/performances_2024-07-28-SeattleSeawolves_V_DallasJackals.png" width="32%" />
-<img src="plots/resultbar_2024-07-28-SeattleSeawolves_V_DallasJackals.png" width="32%" />
-<img src="plots/spreads_2024-07-28-SeattleSeawolves_V_DallasJackals.png" width="32%" />
-</p>
-
-### Seattle Seawolves V Dallas Jackals on 2024/07/28
-
-
-Average Margin: Seattle Seawolves by 4.5
-
-Average Scoreline: 33-29
-
-<p float="left">
-<img src="plots/performances_2024-07-28-SeattleSeawolves_V_DallasJackals.png" width="32%" />
-<img src="plots/resultbar_2024-07-28-SeattleSeawolves_V_DallasJackals.png" width="32%" />
-<img src="plots/spreads_2024-07-28-SeattleSeawolves_V_DallasJackals.png" width="32%" />
-</p>
-
-### Seattle Seawolves V Dallas Jackals on 2024/07/28
-
-
-Average Margin: Seattle Seawolves by 4.5
-
-Average Scoreline: 33-29
-
-<p float="left">
-<img src="plots/performances_2024-07-28-SeattleSeawolves_V_DallasJackals.png" width="32%" />
-<img src="plots/resultbar_2024-07-28-SeattleSeawolves_V_DallasJackals.png" width="32%" />
-<img src="plots/spreads_2024-07-28-SeattleSeawolves_V_DallasJackals.png" width="32%" />
-</p>
-
-### Seattle Seawolves V Dallas Jackals on 2024/07/28
-
-
-Average Margin: Seattle Seawolves by 4.5
-
-Average Scoreline: 33-29
-
-<p float="left">
-<img src="plots/performances_2024-07-28-SeattleSeawolves_V_DallasJackals.png" width="32%" />
-<img src="plots/resultbar_2024-07-28-SeattleSeawolves_V_DallasJackals.png" width="32%" />
-<img src="plots/spreads_2024-07-28-SeattleSeawolves_V_DallasJackals.png" width="32%" />
+<img src="plots/performances_2024-08-04-SeattleSeawolves_V_NewEnglandFreeJacks.png" width="32%" />
+<img src="plots/resultbar_2024-08-04-SeattleSeawolves_V_NewEnglandFreeJacks.png" width="32%" />
+<img src="plots/spreads_2024-08-04-SeattleSeawolves_V_NewEnglandFreeJacks.png" width="32%" />
 </p>

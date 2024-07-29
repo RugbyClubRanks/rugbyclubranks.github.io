@@ -8,7 +8,7 @@ key: page-recents
 ## International Test Match
 
 
-[2024](comp_files\International_Test_Match_2024) - Prediction Accuracy: 76.4% 
+[2024](comp_files\International_Test_Match_2024) - Prediction Accuracy: 76.0% 
 
 [2023](comp_files\International_Test_Match_2023) - Prediction Accuracy: 77.8% 
 
@@ -136,7 +136,7 @@ key: page-recents
 ## Major League Rugby
 
 
-[2024](comp_files\Major_League_Rugby_2024) - Prediction Accuracy: 62.7% 
+[2024](comp_files\Major_League_Rugby_2024) - Prediction Accuracy: 63.0% 
 
 [2023](comp_files\Major_League_Rugby_2023) - Prediction Accuracy: 71.3% 
 
@@ -266,7 +266,7 @@ key: page-recents
 ## Currie Cup
 
 
-[2024](comp_files\Currie_Cup_2024) - Prediction Accuracy: 50.0% 
+[2024](comp_files\Currie_Cup_2024) - Prediction Accuracy: 55.6% 
 
 [2023](comp_files\Currie_Cup_2023) - Prediction Accuracy: 56.4% 
 
@@ -350,4 +350,4 @@ key: page-recents
 ## URBA Top 12
 
 
-[2024](comp_files\URBA_Top_12_2024) - Prediction Accuracy: 62.5% 
+[2024](comp_files\URBA_Top_12_2024) - Prediction Accuracy: 62.8% 

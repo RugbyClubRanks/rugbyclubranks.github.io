@@ -3,32 +3,6 @@ layout: article
 title: Current Projections  
 key: page-projections  
 ---
-# International Matches
-
-## International Test Match
-
-
-[In depth model review and projections for International Test Match 2024](comp_files/International_Test_Match_2024)
-
-Competition Accuracy: 55 of 72 (76.39%)
-
-Competition Error: 20.83 points per match
-
-Last Round Accuracy: 30 of 37 (81.08%)
-
-Last Round Error: 15.72 points per match
-
-[2024-07-24 Algeria (~1445.55) at Kenya (~1333.16)](projections/2024-07-24-Kenya-Algeria)
-
-[2024-07-24 Burkina Faso (~784.22) at Uganda (~1131.81)](projections/2024-07-24-Uganda-BurkinaFaso)
-
-[2024-07-24 Zimbabwe (~1282.31) at Namibia (~1330.66)](projections/2024-07-24-Namibia-Zimbabwe)
-
-[2024-07-24 Ivory Coast (~1298.14) at Senegal (~1092.29)](projections/2024-07-24-Senegal-IvoryCoast)
-
-[2024-07-27 Belgium (~1070.0) at Brazil (~1168.65)](projections/2024-07-27-Brazil-Belgium)
-
-[2024-07-27 Scotland (~1836.44) at Uruguay (~1422.49)](projections/2024-07-27-Uruguay-Scotland)
 # Top Flight Leagues
 
 ## Major League Rugby
@@ -36,25 +10,17 @@ Last Round Error: 15.72 points per match
 
 [In depth model review and projections for Major League Rugby 2024](comp_files/Major_League_Rugby_2024)
 
-Competition Accuracy: 74 of 118 (62.71%)
+Competition Accuracy: 68 of 108 (62.96%)
 
-Competition Error: 11.32 points per match
+Competition Error: 11.49 points per match
 
 Last Round Accuracy: 4 of 6 (66.67%)
 
-Last Round Error: 10.2 points per match
+Last Round Error: 9.74 points per match
 
-[2024-07-22 San Diego Legion (~1620.73) at Seattle Seawolves (~1653.52)](projections/2024-07-22-SeattleSeawolves-SanDiegoLegion)
+[2024-08-04 Seattle Seawolves (~1605.64) at New England Free Jacks (~1587.77)](projections/2024-08-04-NewEnglandFreeJacks-SeattleSeawolves)
 
-2024-07-27 EQF_2_W at EQF_1_W
-
-[2024-07-27 Chicago Hounds (~1581.39) at New England Free Jacks (~1657.32)](projections/2024-07-27-NewEnglandFreeJacks-ChicagoHounds)
-
-2024-07-28 WQF_2_W at WQF_1_W
-
-[2024-07-28 Seattle Seawolves (~1584.2) at Dallas Jackals (~1624.44)](projections/2024-07-28-DallasJackals-SeattleSeawolves)
-
-[2024-07-28 Dallas Jackals (~1562.7) at Seattle Seawolves (~1652.18)](projections/2024-07-28-SeattleSeawolves-DallasJackals)
+[2024-08-04 New England Free Jacks (~1593.91) at Seattle Seawolves (~1670.49)](projections/2024-08-04-SeattleSeawolves-NewEnglandFreeJacks)
 # Domestic Leagues
 
 ## Currie Cup
@@ -62,18 +28,42 @@ Last Round Error: 10.2 points per match
 
 [In depth model review and projections for Currie Cup 2024](comp_files/Currie_Cup_2024)
 
-Competition Accuracy: 7 of 14 (50.0%)
+Competition Accuracy: 10 of 18 (55.56%)
 
-Competition Error: 19.37 points per match
+Competition Error: 18.93 points per match
 
 Last Round Accuracy: 4 of 5 (80.0%)
 
-Last Round Error: 20.81 points per match
+Last Round Error: 21.47 points per match
 
-[2024-07-26 Free State Cheetahs (~1599.05) at Griffons (~1219.63)](projections/2024-07-26-Griffons-FreeStateCheetahs)
+[2024-08-02 Blue Bulls (~1622.2) at Free State Cheetahs (~1639.97)](projections/2024-08-02-FreeStateCheetahs-BlueBulls)
 
-[2024-07-27 Western Province (~1513.91) at Blue Bulls (~1668.12)](projections/2024-07-27-BlueBulls-WesternProvince)
+[2024-08-03 Sharks (~1608.37) at Pumas (~1686.72)](projections/2024-08-03-Pumas-Sharks)
 
-[2024-07-27 Sharks (~1602.05) at Golden Lions (~1727.59)](projections/2024-07-27-GoldenLions-Sharks)
+[2024-08-03 Griffons (~1192.11) at Western Province (~1552.4)](projections/2024-08-03-WesternProvince-Griffons)
 
-[2024-07-28 Griquas (~1456.15) at Pumas (~1669.24)](projections/2024-07-28-Pumas-Griquas)
+[2024-08-04 Golden Lions (~1622.93) at Griquas (~1505.03)](projections/2024-08-04-Griquas-GoldenLions)
+## URBA Top 12
+
+
+[In depth model review and projections for URBA Top 12 2024](comp_files/URBA_Top_12_2024)
+
+Competition Accuracy: 49 of 78 (62.82%)
+
+Competition Error: 13.68 points per match
+
+Last Round Accuracy: 4 of 6 (66.67%)
+
+Last Round Error: 14.27 points per match
+
+[2024-08-03 CASI (~1718.51) at Hindu (~1718.85)](projections/2024-08-03-Hindu-CASI)
+
+[2024-08-03 CUBA (~1696.87) at Belgrano (~1865.59)](projections/2024-08-03-Belgrano-CUBA)
+
+[2024-08-03 SIC (~1714.21) at Buenos Aires (~1676.49)](projections/2024-08-03-BuenosAires-SIC)
+
+[2024-08-03 Champagnat (~1464.54) at Newman (~1851.3)](projections/2024-08-03-Newman-Champagnat)
+
+[2024-08-03 Alumni (~1682.47) at Atlético del Rosario (~1490.05)](projections/2024-08-03-AtleticodelRosario-Alumni)
+
+[2024-08-03 Regatas Bella Vista (~1532.06) at San Luis (~1700.37)](projections/2024-08-03-SanLuis-RegatasBellaVista)
