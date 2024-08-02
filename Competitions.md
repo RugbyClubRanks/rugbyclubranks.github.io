@@ -263,6 +263,18 @@ key: page-recents
 [2023](comp_files\Allianz_Premier_15s_2023) - Prediction Accuracy: 80.8% 
 # Domestic Competitions
 
+## Bunnings Warehouse NPC
+
+
+[2024](comp_files\Bunnings_Warehouse_NPC_2024)
+
+[2023](comp_files\Bunnings_Warehouse_NPC_2023) - Prediction Accuracy: 71.6% 
+
+[2022](comp_files\Bunnings_Warehouse_NPC_2022) - Prediction Accuracy: 70.1% 
+
+[2021](comp_files\Bunnings_Warehouse_NPC_2021) - Prediction Accuracy: 58.2% 
+
+[2020](comp_files\Bunnings_Warehouse_NPC_2020) - Prediction Accuracy: 70.0% 
 ## Currie Cup
 
 
@@ -299,16 +311,16 @@ key: page-recents
 [2021](comp_files\Pro_D2_2021) - Prediction Accuracy: 71.0% 
 
 [2020](comp_files\Pro_D2_2020) - Prediction Accuracy: 66.4% 
-## Bunnings Warehouse NPC
+## URBA Top 13
 
 
-[2023](comp_files\Bunnings_Warehouse_NPC_2023) - Prediction Accuracy: 71.6% 
+[2024](comp_files\URBA_Top_13_2024) - Prediction Accuracy: 62.8% 
 
-[2022](comp_files\Bunnings_Warehouse_NPC_2022) - Prediction Accuracy: 70.1% 
+[2023](comp_files\URBA_Top_13_2023) - Prediction Accuracy: 61.5% 
 
-[2021](comp_files\Bunnings_Warehouse_NPC_2021) - Prediction Accuracy: 58.2% 
+[2022](comp_files\URBA_Top_13_2022) - Prediction Accuracy: 67.2% 
 
-[2020](comp_files\Bunnings_Warehouse_NPC_2020) - Prediction Accuracy: 70.0% 
+[2021](comp_files\URBA_Top_13_2021) - Prediction Accuracy: 70.8% 
 ## Currie Cup First Division
 
 
@@ -325,14 +337,6 @@ key: page-recents
 [2022](comp_files\Japan_Rugby_League_One_Division_2_2022) - Prediction Accuracy: 84.6% 
 
 [2021](comp_files\Japan_Rugby_League_One_Division_2_2021) - Prediction Accuracy: 75.0% 
-## URBA Top 13
-
-
-[2023](comp_files\URBA_Top_13_2023) - Prediction Accuracy: 61.5% 
-
-[2022](comp_files\URBA_Top_13_2022) - Prediction Accuracy: 67.2% 
-
-[2021](comp_files\URBA_Top_13_2021) - Prediction Accuracy: 70.8% 
 ## Japan Rugby League One Division 3
 
 

@@ -11,7 +11,7 @@ categories: "Major League Rugby 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.716, which translates to predicting Seattle Seawolves to win by 8.3.
 
-Our Over/Under is 54.5 - and combined with the spread above, we have a predicted scoreline of 23 to 31
+Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 22 to 30
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,28 +69,28 @@ Seattle Seawolves by 4.9 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player       |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:------------------|---------------:|
-|             80 | Liam Murray           |              0.08 |        1 |             71.77 | Cameron Orr       |             80 |
-|             80 | Dewald Kotze          |             76.29 |        2 |             65.67 | Joe Taufete'E     |             80 |
-|             80 | Juan Pablo Zeiss      |             75.44 |        3 |             71.77 | Sam Matenga       |             80 |
-|             80 | Jero Gomez Vara       |             76.57 |        4 |             74.04 | Rhyno Herbst      |             80 |
-|             80 | Lucas Bur             |             68.05 |        5 |             34.69 | Mahonri Ngakuru   |             80 |
-|             80 | Makeen Alikhan        |             77.21 |        6 |             71.51 | Jean Droste       |             80 |
-|             80 | Ben Fry               |             50.88 |        7 |             36.74 | Pago Haini        |             80 |
-|             80 |                       |             49.02 |        8 |             63.46 | Huw Taylor        |             80 |
-|             80 | Juan-Dee Oliver       |             76.08 |        9 |             49.05 | Juan Philip Smith |             80 |
-|             80 | Martin Elias          |             71.49 |       10 |             62.68 | Mack Mason        |             80 |
-|             80 | Nic Benn              |             74.11 |       11 |             62.71 | Jade Stighling    |             80 |
-|             80 | Connor Winchester     |             67.1  |       12 |             66.99 | Dan Kriel         |             80 |
-|             80 | Tomás Cubilla         |             55.52 |       13 |             81.89 | Tavite Lopeti     |             80 |
-|             80 | Jason Tidwell         |             76.33 |       14 |             43.19 | Conner Mooneyham  |             80 |
-|             80 | Tomy Malanos          |             69.16 |       15 |             16.49 | Divan Rossouw     |             80 |
-|              0 | Connor Grindal        |             40.87 |       16 |             61.86 | Jackson Zabierek  |              0 |
-|              0 | Tomás Bekerman        |             50.75 |       17 |            nan    | Chance Wenglewski |              0 |
+|             80 | Liam Murray           |              0.08 |        1 |             72.42 | Cameron Orr       |             80 |
+|             80 | Dewald Kotze          |             76.95 |        2 |             65.98 | Joe Taufete'E     |             80 |
+|             80 | Juan Pablo Zeiss      |             76.03 |        3 |             72.42 | Sam Matenga       |             80 |
+|             80 | Jero Gomez Vara       |             76.97 |        4 |             74.34 | Rhyno Herbst      |             80 |
+|             80 | Lucas Bur             |             68.22 |        5 |             34.21 | Mahonri Ngakuru   |             80 |
+|             80 | Makeen Alikhan        |             77.75 |        6 |             72.39 | Jean Droste       |             80 |
+|             80 | Ben Fry               |             51.08 |        7 |             36.62 | Pago Haini        |             80 |
+|             80 |                       |             49.06 |        8 |             63.47 | Huw Taylor        |             80 |
+|             80 | Juan-Dee Oliver       |             76.13 |        9 |             48.58 | Juan Philip Smith |             80 |
+|             80 | Martin Elias          |             71.43 |       10 |             62.37 | Mack Mason        |             80 |
+|             80 | Nic Benn              |             75.02 |       11 |             63.41 | Jade Stighling    |             80 |
+|             80 | Connor Winchester     |             67.25 |       12 |             67.15 | Dan Kriel         |             80 |
+|             80 | Tomás Cubilla         |             56.02 |       13 |             82.08 | Tavite Lopeti     |             80 |
+|             80 | Jason Tidwell         |             77.14 |       14 |             43.41 | Conner Mooneyham  |             80 |
+|             80 | Tomy Malanos          |             69.98 |       15 |             16.84 | Divan Rossouw     |             80 |
+|              0 | Connor Grindal        |             40.73 |       16 |             62.32 | Jackson Zabierek  |              0 |
+|              0 | Tomás Bekerman        |             51.03 |       17 |            nan    | Chance Wenglewski |              0 |
 |              0 | Kyle Steeves          |            nan    |       18 |            nan    | Koby Baker        |              0 |
-|              0 | Javon Camp-Villalovos |             63.79 |       19 |             36.82 | Isaia Lotawa      |              0 |
+|              0 | Javon Camp-Villalovos |             64.04 |       19 |             36.35 | Isaia Lotawa      |              0 |
 |              0 | Daemon Torres         |            nan    |       20 |            nan    | Reid Davis        |              0 |
-|              0 | Brock Gallagher       |            nan    |       21 |             35.53 | Ryan Rees         |              0 |
-|              0 | Marques Fuala'Au      |             47.7  |       22 |            nan    | Sam Windsor       |              0 |
-|              0 | Joeli Tikoisuva       |            nan    |       23 |             36.14 | Jeremiah Sio      |              0 |
-|              0 | Joaquín Horcada       |             79.48 |       24 |             49.02 |                   |              0 |
+|              0 | Brock Gallagher       |            nan    |       21 |             35.06 | Ryan Rees         |              0 |
+|              0 | Marques Fuala'Au      |             48.02 |       22 |            nan    | Sam Windsor       |              0 |
+|              0 | Joeli Tikoisuva       |            nan    |       23 |             36.22 | Jeremiah Sio      |              0 |
+|              0 | Joaquín Horcada       |             80.06 |       24 |             49.06 |                   |              0 |
 

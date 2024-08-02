@@ -11,7 +11,7 @@ categories: "Major League Rugby 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.688, which translates to predicting New England Free Jacks to win by 7.1.
 
-Our Over/Under is 57.5 - and combined with the spread above, we have a predicted scoreline of 25 to 32
+Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 23 to 30
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -42,7 +42,7 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction without Player Minutes: New England Free Jacks by 0.4
 
 
-Chicago Hounds by 2.1 on a neutral pitch
+Chicago Hounds by 2.2 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Chicago Hounds by 2.1 on a neutral pitch
 
 |   Away Minutes | Away Player     |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:----------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             80 | Nico Revol      |             79.81 |        1 |             54.36 | Malakai Hala        |             80 |
-|             80 | Dylan Fawsitt   |             98.51 |        2 |             64.01 | Andrew Quattrin     |             80 |
-|             80 | Paddy Ryan      |             77.71 |        3 |             55.49 | John-Roy Jenkinson  |             80 |
-|             80 | George Merrick  |             76.67 |        4 |             64.1  | Kyle Baillie        |             80 |
-|             80 | James Scott     |             88.34 |        5 |             83.27 | Conor Keys          |             80 |
-|             80 | Mason Flesch    |              6.88 |        6 |             71.71 | Piers Von Dadelszen |             80 |
-|             80 | Maclean Jones   |             75.34 |        7 |             66.01 | Jed Melvin          |             80 |
-|             80 | Conall Boomer   |             59.08 |        8 |             61.71 | Seta Baker          |             80 |
-|             80 | Nick McCarthy   |             84.92 |        9 |             22.01 | Oscar Lennon        |             80 |
-|             80 | Luke Carty      |             42.77 |       10 |             67.09 | Jayson Potroz       |             80 |
-|             80 | Nate Augspurger |             99.13 |       11 |             71.69 | Paula Balekana      |             80 |
-|             80 | Bill Meakes     |             69.99 |       12 |             90.57 | Le Roux Malan       |             80 |
-|             80 | Bryce Campbell  |             60.45 |       13 |             65.59 | Wayne Van Der Bank  |             80 |
-|             80 | Dave Kearney    |             49.18 |       14 |             56.62 | Toby Fricker        |             80 |
-|             80 | Adriaan Carelse |             59.1  |       15 |             57.6  | Reece Macdonald     |             80 |
-|              0 | Janus Venter    |             58.21 |       16 |             42.62 | Foster Dewitt       |              0 |
-|              0 | Fred Apulu      |            nan    |       17 |             52.75 | Cole Keith          |              0 |
-|              0 | Charlie Abel    |             52.67 |       18 |             73.99 | Kaleb Geiger        |              0 |
+|             80 | Nico Revol      |             80.37 |        1 |             55    | Malakai Hala        |             80 |
+|             80 | Dylan Fawsitt   |             98.57 |        2 |             65.02 | Andrew Quattrin     |             80 |
+|             80 | Paddy Ryan      |             78.2  |        3 |             56.01 | John-Roy Jenkinson  |             80 |
+|             80 | George Merrick  |             76.87 |        4 |             64.63 | Kyle Baillie        |             80 |
+|             80 | James Scott     |             88.53 |        5 |             83.67 | Conor Keys          |             80 |
+|             80 | Mason Flesch    |              6.67 |        6 |             72.58 | Piers Von Dadelszen |             80 |
+|             80 | Maclean Jones   |             75.96 |        7 |             66.57 | Jed Melvin          |             80 |
+|             80 | Conall Boomer   |             59.29 |        8 |             61.59 | Seta Baker          |             80 |
+|             80 | Nick McCarthy   |             84.81 |        9 |             22.04 | Oscar Lennon        |             80 |
+|             80 | Luke Carty      |             42.05 |       10 |             66.6  | Jayson Potroz       |             80 |
+|             80 | Nate Augspurger |             99.17 |       11 |             72.35 | Paula Balekana      |             80 |
+|             80 | Bill Meakes     |             70.34 |       12 |             90.73 | Le Roux Malan       |             80 |
+|             80 | Bryce Campbell  |             60.87 |       13 |             66.01 | Wayne Van Der Bank  |             80 |
+|             80 | Dave Kearney    |             49.49 |       14 |             56.77 | Toby Fricker        |             80 |
+|             80 | Adriaan Carelse |             59.84 |       15 |             58.42 | Reece Macdonald     |             80 |
+|              0 | Janus Venter    |             58.66 |       16 |             42.45 | Foster Dewitt       |              0 |
+|              0 | Fred Apulu      |            nan    |       17 |             53.76 | Cole Keith          |              0 |
+|              0 | Charlie Abel    |             52.99 |       18 |             74.63 | Kaleb Geiger        |              0 |
 |              0 | Brad Tucker     |            nan    |       19 |            nan    | Josh Larsen         |              0 |
-|              0 | Lucas Rumball   |              1.97 |       20 |             45.19 | Ethan Fryer         |              0 |
-|              0 | Jason Higgins   |             50.43 |       21 |             47.49 | Holden Yungert      |              0 |
-|              0 | Mark O'Keeffe   |             56.59 |       22 |             75.56 | Ben LeSage          |              0 |
-|              0 | Noah Brown      |             57.1  |       23 |             91.65 | Mitch Wilson        |              0 |
+|              0 | Lucas Rumball   |              1.88 |       20 |             45.45 | Ethan Fryer         |              0 |
+|              0 | Jason Higgins   |             50.75 |       21 |             47.08 | Holden Yungert      |              0 |
+|              0 | Mark O'Keeffe   |             57.05 |       22 |             75.8  | Ben LeSage          |              0 |
+|              0 | Noah Brown      |             57.6  |       23 |             92.09 | Mitch Wilson        |              0 |
 

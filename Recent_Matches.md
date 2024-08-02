@@ -24,15 +24,29 @@ Last Round Error: 22.2 points per match
 ## International Test Match
 
 
+[In depth model review and projections for International Test Match 2023](comp_files/International_Test_Match_2023)
+
+Competition Accuracy: 32 of 42 (76.19%)
+
+Competition Error: 19.96 points per match
+
+Last Round Accuracy: 16 of 20 (80.0%)
+
+Last Round Error: 15.96 points per match
+
+[2024-07-27 Belgium at Brazil; 25-47](reviews//2024-07-27-Brazil-Belgium)
+## International Test Match
+
+
 [In depth model review and projections for International Test Match 2024](comp_files/International_Test_Match_2024)
 
-Competition Accuracy: 65 of 85 (76.47%)
+Competition Accuracy: 65 of 86 (75.58%)
 
-Competition Error: 19.89 points per match
+Competition Error: 20.08 points per match
 
-Last Round Accuracy: 34 of 38 (89.47%)
+Last Round Accuracy: 33 of 38 (86.84%)
 
-Last Round Error: 14.84 points per match
+Last Round Error: 15.52 points per match
 
 [2024-07-24 Ivory Coast at Senegal; 8-25](reviews//2024-07-24-Senegal-IvoryCoast)
 
@@ -44,15 +58,27 @@ Last Round Error: 14.84 points per match
 
 [2024-07-26 Scotland at Uruguay; 31-19](reviews//2024-07-26-Uruguay-Scotland)
 
-[2024-07-27 Belgium at Brazil; 25-47](reviews//2024-07-27-Brazil-Belgium)
+[2024-07-28 Senegal at Uganda; 31-34](reviews//2024-07-28-Uganda-Senegal)
 
 [2024-07-28 Namibia at Kenya; 38-27](reviews//2024-07-28-Kenya-Namibia)
 
 [2024-07-28 Zimbabwe at Algeria; 29-3](reviews//2024-07-28-Algeria-Zimbabwe)
 
 [2024-07-28 Burkina Faso at Ivory Coast; 10-23](reviews//2024-07-28-IvoryCoast-BurkinaFaso)
+## Tests Matchs
 
-[2024-07-28 Senegal at Uganda; 31-34](reviews//2024-07-28-Uganda-Senegal)
+
+[In depth model review and projections for Tests Matchs 2023](comp_files/Tests_Matchs_2023)
+
+Competition Accuracy: 12 of 23 (52.17%)
+
+Competition Error: 20.32 points per match
+
+Last Round Accuracy: 8 of 12 (66.67%)
+
+Last Round Error: 21.67 points per match
+
+[2024-07-27 Scotland at Uruguay; 31-19](reviews//2024-07-27-Uruguay-Scotland)
 # Top Flight Leagues
 
 ## Major League Rugby
@@ -84,7 +110,7 @@ Last Round Error: 9.74 points per match
 
 Competition Accuracy: 10 of 18 (55.56%)
 
-Competition Error: 18.93 points per match
+Competition Error: 18.94 points per match
 
 Last Round Accuracy: 4 of 5 (80.0%)
 

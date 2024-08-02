@@ -1,6 +1,6 @@
 ---  
 title: "Major League Rugby 2024 Status"  
-date: 2024-07-29 6:00:00 -0500  
+date: 2024-08-02 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -37,8 +37,8 @@ aside:
 
 | Club                   |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Seattle Seawolves      |                   2 |    1.6 |              7.65828 |                   0.4 |                0.5 |                  7.2 |
-| New England Free Jacks |                   2 |    0.4 |             -7.65828 |                   1.1 |                0.5 |                  3.3 |
+| Seattle Seawolves      |                   2 |    1.6 |              8.02199 |                   0.4 |                0.5 |                  7.3 |
+| New England Free Jacks |                   2 |    0.4 |             -8.02199 |                   1.1 |                0.5 |                  3.1 |
 
 
 
@@ -47,8 +47,8 @@ aside:
 
 | Club                   |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Seattle Seawolves      |              22 |   15.6 |              139.658 |                   4.4 |                0.5 |                 76.2 |
-| New England Free Jacks |              21 |   13.4 |              121.342 |                   4.1 |                0.5 |                 65.3 |
+| Seattle Seawolves      |              22 |   15.6 |              140.022 |                   4.4 |                0.5 |                 76.3 |
+| New England Free Jacks |              21 |   13.4 |              120.978 |                   4.1 |                0.5 |                 65.1 |
 | Houston SaberCats      |              18 |   14   |              107     |                   0   |                0   |                 64   |
 | Dallas Jackals         |              20 |    9   |               74     |                  10   |                0   |                 54   |
 | San Diego Legion       |              17 |   11   |               49     |                   5   |                0   |                 54   |
@@ -67,8 +67,8 @@ aside:
 
 |                        | Reach Final   | Win Final   |
 |:-----------------------|:--------------|:------------|
-| Seattle Seawolves      | 200.0 %       | 117.0 %     |
-| New England Free Jacks | 200.0 %       | 83.0 %      |
+| Seattle Seawolves      | 200.0 %       | 110.4 %     |
+| New England Free Jacks | 200.0 %       | 89.6 %      |
 
 
 
@@ -78,7 +78,7 @@ aside:
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
 | Club Level | 63.0% | 11.5 |
-| Player Level: Lineup | 56.0% | 11.8 |
+| Player Level: Lineup | 57.8% | 11.8 |
 | Player Level: Minutes | 56.6% | 11.6 |
 
 
@@ -89,9 +89,9 @@ aside:
 ### Seattle Seawolves V New England Free Jacks on 2024/08/04
 
 
-Average Margin: Seattle Seawolves by 3.8
+Average Margin: Seattle Seawolves by 4.0
 
-Average Scoreline: 26-23
+Average Scoreline: 23-19
 
 <p float="left">
 <img src="plots/performances_2024-08-04-SeattleSeawolves_V_NewEnglandFreeJacks.png" width="32%" />
@@ -102,9 +102,9 @@ Average Scoreline: 26-23
 ### Seattle Seawolves V New England Free Jacks on 2024/08/04
 
 
-Average Margin: Seattle Seawolves by 3.8
+Average Margin: Seattle Seawolves by 4.0
 
-Average Scoreline: 26-23
+Average Scoreline: 23-19
 
 <p float="left">
 <img src="plots/performances_2024-08-04-SeattleSeawolves_V_NewEnglandFreeJacks.png" width="32%" />
