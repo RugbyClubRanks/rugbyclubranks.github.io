@@ -44,7 +44,7 @@ key: page-recents
 ## Six Nations Championship
 
 
-[2024](comp_files\Six_Nations_Championship_2024) - Prediction Accuracy: 60.0% 
+[2024](comp_files\Six_Nations_Championship_2024) - Prediction Accuracy: 53.3% 
 
 [2023](comp_files\Six_Nations_Championship_2023) - Prediction Accuracy: 80.0% 
 
@@ -278,7 +278,7 @@ key: page-recents
 ## Currie Cup
 
 
-[2024](comp_files\Currie_Cup_2024) - Prediction Accuracy: 55.6% 
+[2024](comp_files\Currie_Cup_2024) - Prediction Accuracy: 54.5% 
 
 [2023](comp_files\Currie_Cup_2023) - Prediction Accuracy: 56.4% 
 
@@ -314,7 +314,7 @@ key: page-recents
 ## URBA Top 13
 
 
-[2024](comp_files\URBA_Top_13_2024) - Prediction Accuracy: 62.8% 
+[2024](comp_files\URBA_Top_13_2024) - Prediction Accuracy: 64.3% 
 
 [2023](comp_files\URBA_Top_13_2023) - Prediction Accuracy: 61.5% 
 
@@ -343,6 +343,10 @@ key: page-recents
 [2023](comp_files\Japan_Rugby_League_One_Division_3_2023) - Prediction Accuracy: 100.0% 
 
 [2022](comp_files\Japan_Rugby_League_One_Division_3_2022) - Prediction Accuracy: 86.8% 
+## Bunnings NPC
+
+
+[2024](comp_files\Bunnings_NPC_2024)
 ## Japan Rugby League One D2
 
 
