@@ -11,7 +11,7 @@ categories: "Major League Rugby 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.641, which translates to predicting Seattle Seawolves to win by 5.1.
 
-Our Over/Under is 59.5 - and combined with the spread above, we have a predicted scoreline of 27 to 32
+Our Over/Under is 54.5 - and combined with the spread above, we have a predicted scoreline of 24 to 30
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ New England Free Jacks by 2.0 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player       |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:------------------|---------------:|
-|             80 | Malakai Hala        |             70.17 |        1 |             61.8  | Cameron Orr       |             80 |
-|             80 | Andrew Quattrin     |             73.97 |        2 |             54.44 | Joe Taufete'E     |             80 |
-|             80 | Cole Keith          |             67.37 |        3 |             61.8  | Sam Matenga       |             80 |
+|             80 | Malakai Hala        |             70.15 |        1 |             61.77 | Cameron Orr       |             80 |
+|             80 | Andrew Quattrin     |             74.04 |        2 |             54.46 | Joe Taufete'E     |             80 |
+|             80 | Cole Keith          |             67.34 |        3 |             61.77 | Sam Matenga       |             80 |
 |             80 | Kyle Baillie        |             73.11 |        4 |             68.54 | Rhyno Herbst      |             80 |
 |             80 | Conor Keys          |             87.86 |        5 |             24.66 | Mahonri Ngakuru   |             80 |
 |             80 | Piers Von Dadelszen |             78.85 |        6 |             63.91 | Jean Droste       |             80 |
 |             80 | Jed Melvin          |             75.66 |        7 |             62.69 | Devin Short       |             80 |
 |             80 | Seta Baker          |             73.01 |        8 |             55.23 | Huw Taylor        |             80 |
 |             80 | Oscar Lennon        |             37.83 |        9 |             43    | Juan Philip Smith |             80 |
-|             80 | Jayson Potroz       |             75.7  |       10 |             42.37 | Lauina Futi       |             80 |
+|             80 | Jayson Potroz       |             75.65 |       10 |             42.25 | Lauina Futi       |             80 |
 |             80 | Paula Balekana      |             78.43 |       11 |             56.96 | Toni Pulu         |             80 |
 |             80 | Le Roux Malan       |             92.79 |       12 |             79.51 | Tavite Lopeti     |             80 |
 |             80 | Wayne Van Der Bank  |             74.36 |       13 |             18.54 | Divan Rossouw     |             80 |
 |             80 | Toby Fricker        |             69.22 |       14 |             52.9  | Jade Stighling    |             80 |
-|             80 | Reece Macdonald     |             66.6  |       15 |             33.6  | Duncan Matthews   |             80 |
-|              0 | Foster Dewitt       |             42.54 |       16 |             62.38 | Jackson Zabierek  |              0 |
-|              0 | Tevita Sole         |             24.84 |       17 |            nan    | Chance Wenglewski |              0 |
-|              0 | Kaleb Geiger        |             74.92 |       18 |            nan    | Koby Baker        |              0 |
+|             80 | Reece Macdonald     |             66.53 |       15 |             33.47 | Duncan Matthews   |             80 |
+|              0 | Foster Dewitt       |             42.52 |       16 |             62.42 | Jackson Zabierek  |              0 |
+|              0 | Tevita Sole         |             24.79 |       17 |            nan    | Chance Wenglewski |              0 |
+|              0 | Kaleb Geiger        |             74.9  |       18 |            nan    | Koby Baker        |              0 |
 |              0 | Josh Larsen         |            nan    |       19 |            nan    | Taylor Krumrei    |              0 |
 |              0 | Ethan Fryer         |             43.61 |       20 |             36.47 | Pago Haini        |              0 |
 |              0 | Holden Yungert      |             47.33 |       21 |             34.5  | Ryan Rees         |              0 |
 |              0 | Ben LeSage          |             75.9  |       22 |            nan    | Sam Windsor       |              0 |
-|              0 | Mitch Wilson        |             94.7  |       23 |             41.94 | Conner Mooneyham  |              0 |
+|              0 | Mitch Wilson        |             94.69 |       23 |             41.94 | Conner Mooneyham  |              0 |
 

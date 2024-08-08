@@ -28,7 +28,7 @@ Last Round Error: 11.8 points per match
 
 Competition Accuracy: 12 of 22 (54.55%)
 
-Competition Error: 16.08 points per match
+Competition Error: 16.09 points per match
 
 Last Round Accuracy: 3 of 5 (60.0%)
 
