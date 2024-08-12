@@ -1,6 +1,6 @@
 ---  
 title: "Currie Cup 2024 Status"  
-date: 2024-08-08 6:00:00 -0500  
+date: 2024-08-12 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,15 +17,15 @@ aside:
 
 | Club                |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Golden Lions        |        6 |      5 |                   63 |                     0 |                nan |                   21 |
-| Blue Bulls          |        5 |      4 |                   75 |                     0 |                nan |                   19 |
-| Free State Cheetahs |        5 |      3 |                   72 |                     0 |                nan |                   16 |
-| Pumas               |        5 |      3 |                   16 |                     0 |                nan |                   15 |
-| Western Province    |        5 |      2 |                   30 |                     1 |                nan |                   10 |
-| Griquas             |        6 |      2 |                  -74 |                     0 |                nan |                   10 |
-| Sharks              |        5 |      1 |                   -1 |                     2 |                nan |                    8 |
+| Golden Lions        |        7 |      6 |                  106 |                     0 |                nan |                   25 |
+| Blue Bulls          |        6 |      5 |                  109 |                     0 |                nan |                   23 |
+| Free State Cheetahs |        6 |      4 |                   79 |                     0 |                nan |                   20 |
+| Pumas               |        6 |      3 |                  -27 |                     0 |                nan |                   15 |
+| Sharks              |        6 |      2 |                   18 |                     2 |                nan |                   12 |
+| Western Province    |        6 |      2 |                   23 |                     2 |                nan |                   11 |
+| Griquas             |        7 |      2 |                  -93 |                     0 |                nan |                   10 |
 | Natal Sharks        |        2 |      0 |                   -4 |                     2 |                  2 |                    4 |
-| Griffons            |        5 |      0 |                 -177 |                     1 |                nan |                    1 |
+| Griffons            |        6 |      0 |                 -211 |                     1 |                nan |                    1 |
 
 
 
@@ -34,14 +34,14 @@ aside:
 
 | Club                |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Blue Bulls          |                   1 |    1   |             25.247   |                   0   |                1   |                  5   |
-| Sharks              |                   1 |    1   |             13.0298  |                   0   |                0.5 |                  4.4 |
-| Golden Lions        |                   1 |    0.8 |              4.35162 |                   0.2 |                0.4 |                  3.6 |
-| Free State Cheetahs |                   1 |    0.6 |              1.0813  |                   0.3 |                0.4 |                  3   |
-| Western Province    |                   1 |    0.4 |             -1.0813  |                   0.4 |                0.2 |                  2.3 |
-| Pumas               |                   1 |    0.2 |             -4.35162 |                   0.4 |                0.3 |                  1.7 |
-| Griffons            |                   1 |    0   |            -25.247   |                   0   |                0.4 |                  0.4 |
-| Griquas             |                   1 |    0   |            -13.0298  |                   0.1 |                0.2 |                  0.3 |
+| Golden Lions        |                   1 |    1   |            12.8432   |                   0   |                0.7 |                  4.6 |
+| Griquas             |                   1 |    0.9 |             8.36871  |                   0.1 |                0.9 |                  4.6 |
+| Free State Cheetahs |                   1 |    0.6 |             1.84466  |                   0.3 |                0.3 |                  3.1 |
+| Pumas               |                   1 |    0.5 |             0.376495 |                   0.3 |                0.3 |                  2.8 |
+| Blue Bulls          |                   1 |    0.5 |            -0.376495 |                   0.4 |                0.3 |                  2.6 |
+| Sharks              |                   1 |    0.4 |            -1.84466  |                   0.5 |                0.3 |                  2.2 |
+| Griffons            |                   1 |    0.1 |            -8.36871  |                   0.3 |                0.4 |                  1.1 |
+| Western Province    |                   1 |    0   |           -12.8432   |                   0.2 |                0.1 |                  0.4 |
 
 
 
@@ -50,15 +50,15 @@ aside:
 
 | Club                |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Golden Lions        |               7 |    5.8 |              67.3516 |                   0.2 |                0.4 |                 24.6 |
-| Blue Bulls          |               6 |    5   |             100.247  |                   0   |                1   |                 24   |
-| Free State Cheetahs |               6 |    3.6 |              73.0813 |                   0.3 |                0.4 |                 19   |
-| Pumas               |               6 |    3.2 |              11.6484 |                   0.4 |                0.3 |                 16.7 |
-| Sharks              |               6 |    2   |              12.0298 |                   2   |                0.5 |                 12.4 |
-| Western Province    |               6 |    2.4 |              28.9187 |                   1.4 |                0.2 |                 12.3 |
-| Griquas             |               7 |    2   |             -87.0298 |                   0.1 |                0.2 |                 10.3 |
+| Golden Lions        |               8 |    7   |             118.843  |                   0   |                0.7 |                 29.6 |
+| Blue Bulls          |               7 |    5.5 |             108.624  |                   0.4 |                0.3 |                 25.6 |
+| Free State Cheetahs |               7 |    4.6 |              80.8447 |                   0.3 |                0.3 |                 23.1 |
+| Pumas               |               7 |    3.5 |             -26.6235 |                   0.3 |                0.3 |                 17.8 |
+| Griquas             |               8 |    2.9 |             -84.6313 |                   0.1 |                0.9 |                 14.6 |
+| Sharks              |               7 |    2.4 |              16.1553 |                   2.5 |                0.3 |                 14.2 |
+| Western Province    |               7 |    2   |              10.1568 |                   2.2 |                0.1 |                 11.4 |
 | Natal Sharks        |               2 |    0   |              -4      |                   2   |                2   |                  4   |
-| Griffons            |               6 |    0   |            -202.247  |                   1   |                0.4 |                  1.4 |
+| Griffons            |               7 |    0.1 |            -219.369  |                   1.3 |                0.4 |                  2.1 |
 
 
 
@@ -67,63 +67,63 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 54.5% | 16.1 |
+| Club Level | 57.7% | 15.9 |
 | Player Level: Lineup | 50.0% | 26.6 |
 | Player Level: Minutes | 50.0% | 26.6 |
 
 
 # Future Predictions
 
-## Week 7
+## Week 8
 
-### Western Province V Free State Cheetahs on 2024/08/10
+### Pumas V Blue Bulls on 2024/08/16
 
 
-Average Margin: Free State Cheetahs by 1.1
+Average Margin: Pumas by 0.4
 
-Average Scoreline: 27-26
+Average Scoreline: 22-22
 
 <p float="left">
-<img src="plots/performances_2024-08-10-WesternProvince_V_FreeStateCheetahs.png" width="32%" />
-<img src="plots/resultbar_2024-08-10-WesternProvince_V_FreeStateCheetahs.png" width="32%" />
-<img src="plots/spreads_2024-08-10-WesternProvince_V_FreeStateCheetahs.png" width="32%" />
+<img src="plots/performances_2024-08-16-Pumas_V_BlueBulls.png" width="32%" />
+<img src="plots/resultbar_2024-08-16-Pumas_V_BlueBulls.png" width="32%" />
+<img src="plots/spreads_2024-08-16-Pumas_V_BlueBulls.png" width="32%" />
 </p>
 
-### Blue Bulls V Griffons on 2024/08/10
+### Golden Lions V Western Province on 2024/08/17
 
 
-Average Margin: Blue Bulls by 25.2
+Average Margin: Golden Lions by 12.8
 
-Average Scoreline: 55-29
+Average Scoreline: 46-33
 
 <p float="left">
-<img src="plots/performances_2024-08-10-BlueBulls_V_Griffons.png" width="32%" />
-<img src="plots/resultbar_2024-08-10-BlueBulls_V_Griffons.png" width="32%" />
-<img src="plots/spreads_2024-08-10-BlueBulls_V_Griffons.png" width="32%" />
+<img src="plots/performances_2024-08-17-GoldenLions_V_WesternProvince.png" width="32%" />
+<img src="plots/resultbar_2024-08-17-GoldenLions_V_WesternProvince.png" width="32%" />
+<img src="plots/spreads_2024-08-17-GoldenLions_V_WesternProvince.png" width="32%" />
 </p>
 
-### Golden Lions V Pumas on 2024/08/10
+### Free State Cheetahs V Sharks on 2024/08/17
 
 
-Average Margin: Golden Lions by 4.4
+Average Margin: Free State Cheetahs by 1.8
 
-Average Scoreline: 29-25
+Average Scoreline: 26-24
 
 <p float="left">
-<img src="plots/performances_2024-08-10-GoldenLions_V_Pumas.png" width="32%" />
-<img src="plots/resultbar_2024-08-10-GoldenLions_V_Pumas.png" width="32%" />
-<img src="plots/spreads_2024-08-10-GoldenLions_V_Pumas.png" width="32%" />
+<img src="plots/performances_2024-08-17-FreeStateCheetahs_V_Sharks.png" width="32%" />
+<img src="plots/resultbar_2024-08-17-FreeStateCheetahs_V_Sharks.png" width="32%" />
+<img src="plots/spreads_2024-08-17-FreeStateCheetahs_V_Sharks.png" width="32%" />
 </p>
 
-### Sharks V Griquas on 2024/08/11
+### Griffons V Griquas on 2024/08/18
 
 
-Average Margin: Sharks by 13.0
+Average Margin: Griquas by 8.4
 
-Average Scoreline: 33-20
+Average Scoreline: 25-17
 
 <p float="left">
-<img src="plots/performances_2024-08-11-Sharks_V_Griquas.png" width="32%" />
-<img src="plots/resultbar_2024-08-11-Sharks_V_Griquas.png" width="32%" />
-<img src="plots/spreads_2024-08-11-Sharks_V_Griquas.png" width="32%" />
+<img src="plots/performances_2024-08-18-Griffons_V_Griquas.png" width="32%" />
+<img src="plots/resultbar_2024-08-18-Griffons_V_Griquas.png" width="32%" />
+<img src="plots/spreads_2024-08-18-Griffons_V_Griquas.png" width="32%" />
 </p>

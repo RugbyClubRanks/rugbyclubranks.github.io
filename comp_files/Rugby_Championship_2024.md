@@ -1,6 +1,6 @@
 ---  
 title: "Rugby Championship 2024 Status"  
-date: 2024-08-08 6:00:00 -0500  
+date: 2024-08-12 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -12,56 +12,62 @@ aside:
 ![Club Rankings](plots/rankings_Rugby-Championship-2024.png)
 # Standings
 
+## Current Standings
+
+
+| Club         |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
+|:-------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
+| South Africa |        1 |      1 |                   26 |                     0 |                  1 |                    5 |
+| Argentina    |        1 |      1 |                    8 |                     0 |                  1 |                    5 |
+| New Zealand  |        1 |      0 |                   -8 |                     0 |                  0 |                    0 |
+| Australia    |        1 |      0 |                  -26 |                     0 |                  0 |                    0 |
+
+
+
+## Projected Remaining Table
+
+
+| Club         |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
+|:-------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
+| South Africa |                   5 |    4.6 |             46.4732  |                   0.4 |                2.3 |                 21   |
+| New Zealand  |                   5 |    2.9 |              8.66849 |                   0.9 |                2.5 |                 14.9 |
+| Argentina    |                   5 |    2.1 |            -11.3222  |                   1.1 |                1   |                 10.4 |
+| Australia    |                   5 |    0.5 |            -43.8195  |                   1.6 |                0.7 |                  4.1 |
+
+
+
 ## Projected Total Table
 
 
 | Club         |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| South Africa |               6 |    5.2 |              47.7382 |                   0.7 |                2.6 |                 24   |
-| New Zealand  |               6 |    4.2 |              35.936  |                   1   |                3.3 |                 21.3 |
-| Argentina    |               6 |    1.8 |             -35.4986 |                   1.2 |                1   |                  9.3 |
-| Australia    |               6 |    0.8 |             -48.1755 |                   1.9 |                0.9 |                  6   |
+| South Africa |               6 |    5.6 |            72.4732   |                   0.4 |                3.3 |                 26   |
+| Argentina    |               6 |    3.1 |            -3.32218  |                   1.1 |                2   |                 15.4 |
+| New Zealand  |               6 |    2.9 |             0.668489 |                   0.9 |                2.5 |                 14.9 |
+| Australia    |               6 |    0.5 |           -69.8195   |                   1.6 |                0.7 |                  4.1 |
 
+
+
+# Completed Match Review
+
+
+| Model | Percent Correct Predictions | Spread Error |
+| ------ | ------ | ------ |
+| Club Level | 50.0% | 20.2 |
+| Player Level: Lineup | 50.0% | 22.2 |
+| Player Level: Minutes | 50.0% | 21.8 |
 
 
 # Future Predictions
-
-## Week 1
-
-### New Zealand V Argentina on 2024/08/10
-
-
-Average Margin: New Zealand by 12.1
-
-Average Scoreline: 34-22
-
-<p float="left">
-<img src="plots/performances_2024-08-10-NewZealand_V_Argentina.png" width="32%" />
-<img src="plots/resultbar_2024-08-10-NewZealand_V_Argentina.png" width="32%" />
-<img src="plots/spreads_2024-08-10-NewZealand_V_Argentina.png" width="32%" />
-</p>
-
-### Australia V South Africa on 2024/08/10
-
-
-Average Margin: South Africa by 8.6
-
-Average Scoreline: 28-20
-
-<p float="left">
-<img src="plots/performances_2024-08-10-Australia_V_SouthAfrica.png" width="32%" />
-<img src="plots/resultbar_2024-08-10-Australia_V_SouthAfrica.png" width="32%" />
-<img src="plots/spreads_2024-08-10-Australia_V_SouthAfrica.png" width="32%" />
-</p>
 
 ## Week 2
 
 ### Australia V South Africa on 2024/08/17
 
 
-Average Margin: South Africa by 8.7
+Average Margin: South Africa by 10.6
 
-Average Scoreline: 28-20
+Average Scoreline: 31-21
 
 <p float="left">
 <img src="plots/performances_2024-08-17-Australia_V_SouthAfrica.png" width="32%" />
@@ -72,9 +78,9 @@ Average Scoreline: 28-20
 ### New Zealand V Argentina on 2024/08/17
 
 
-Average Margin: New Zealand by 12.6
+Average Margin: New Zealand by 7.7
 
-Average Scoreline: 34-22
+Average Scoreline: 37-29
 
 <p float="left">
 <img src="plots/performances_2024-08-17-NewZealand_V_Argentina.png" width="32%" />
@@ -87,9 +93,9 @@ Average Scoreline: 34-22
 ### Argentina V Australia on 2024/08/31
 
 
-Average Margin: Argentina by 4.9
+Average Margin: Argentina by 7.8
 
-Average Scoreline: 27-22
+Average Scoreline: 35-27
 
 <p float="left">
 <img src="plots/performances_2024-08-31-Argentina_V_Australia.png" width="32%" />
@@ -100,9 +106,9 @@ Average Scoreline: 27-22
 ### South Africa V New Zealand on 2024/08/31
 
 
-Average Margin: South Africa by 4.8
+Average Margin: South Africa by 8.6
 
-Average Scoreline: 26-21
+Average Scoreline: 31-22
 
 <p float="left">
 <img src="plots/performances_2024-08-31-SouthAfrica_V_NewZealand.png" width="32%" />
@@ -115,9 +121,9 @@ Average Scoreline: 26-21
 ### Argentina V Australia on 2024/09/07
 
 
-Average Margin: Argentina by 4.9
+Average Margin: Argentina by 7.5
 
-Average Scoreline: 25-20
+Average Scoreline: 34-26
 
 <p float="left">
 <img src="plots/performances_2024-09-07-Argentina_V_Australia.png" width="32%" />
@@ -128,9 +134,9 @@ Average Scoreline: 25-20
 ### South Africa V New Zealand on 2024/09/07
 
 
-Average Margin: South Africa by 5.1
+Average Margin: South Africa by 8.3
 
-Average Scoreline: 28-22
+Average Scoreline: 30-22
 
 <p float="left">
 <img src="plots/performances_2024-09-07-SouthAfrica_V_NewZealand.png" width="32%" />
@@ -143,9 +149,9 @@ Average Scoreline: 28-22
 ### Australia V New Zealand on 2024/09/21
 
 
-Average Margin: New Zealand by 7.1
+Average Margin: New Zealand by 5.5
 
-Average Scoreline: 31-24
+Average Scoreline: 30-24
 
 <p float="left">
 <img src="plots/performances_2024-09-21-Australia_V_NewZealand.png" width="32%" />
@@ -156,9 +162,9 @@ Average Scoreline: 31-24
 ### Argentina V South Africa on 2024/09/21
 
 
-Average Margin: South Africa by 7.1
+Average Margin: South Africa by 6.1
 
-Average Scoreline: 30-23
+Average Scoreline: 31-25
 
 <p float="left">
 <img src="plots/performances_2024-09-21-Argentina_V_SouthAfrica.png" width="32%" />
@@ -168,28 +174,28 @@ Average Scoreline: 30-23
 
 ## Week 6
 
-### New Zealand V Australia on 2024/09/28
-
-
-Average Margin: New Zealand by 14.0
-
-Average Scoreline: 37-23
-
-<p float="left">
-<img src="plots/performances_2024-09-28-NewZealand_V_Australia.png" width="32%" />
-<img src="plots/resultbar_2024-09-28-NewZealand_V_Australia.png" width="32%" />
-<img src="plots/spreads_2024-09-28-NewZealand_V_Australia.png" width="32%" />
-</p>
-
 ### South Africa V Argentina on 2024/09/28
 
 
-Average Margin: South Africa by 13.4
+Average Margin: South Africa by 12.8
 
-Average Scoreline: 32-19
+Average Scoreline: 31-19
 
 <p float="left">
 <img src="plots/performances_2024-09-28-SouthAfrica_V_Argentina.png" width="32%" />
 <img src="plots/resultbar_2024-09-28-SouthAfrica_V_Argentina.png" width="32%" />
 <img src="plots/spreads_2024-09-28-SouthAfrica_V_Argentina.png" width="32%" />
+</p>
+
+### New Zealand V Australia on 2024/09/28
+
+
+Average Margin: New Zealand by 12.3
+
+Average Scoreline: 36-24
+
+<p float="left">
+<img src="plots/performances_2024-09-28-NewZealand_V_Australia.png" width="32%" />
+<img src="plots/resultbar_2024-09-28-NewZealand_V_Australia.png" width="32%" />
+<img src="plots/spreads_2024-09-28-NewZealand_V_Australia.png" width="32%" />
 </p>
