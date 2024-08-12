@@ -2,7 +2,7 @@
 layout: page  
 title: Hawke's Bay at North Harbour; 41-32  
 date: 2024-08-10 18:00:00 -0500  
-categories: "National Provence Championship 2024" match review  
+categories: "Bunnings NPC 2024" match review  
 ---
 # Hawke's Bay at North Harbour; 41-32
 
@@ -11,7 +11,7 @@ categories: "National Provence Championship 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.535, which translates to predicting North Harbour to win by 1.3.
 
-Our Over/Under is 67.5 - and combined with the spread above, we have a predicted scoreline of 33 to 34
+Our Over/Under is 65.5 - and combined with the spread above, we have a predicted scoreline of 32 to 33
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model

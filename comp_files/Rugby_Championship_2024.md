@@ -29,10 +29,10 @@ aside:
 
 | Club         |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| South Africa |                   5 |    4.6 |             46.4732  |                   0.4 |                2.3 |                 21   |
-| New Zealand  |                   5 |    2.9 |              8.66849 |                   0.9 |                2.5 |                 14.9 |
-| Argentina    |                   5 |    2.1 |            -11.3222  |                   1.1 |                1   |                 10.4 |
-| Australia    |                   5 |    0.5 |            -43.8195  |                   1.6 |                0.7 |                  4.1 |
+| South Africa |                   5 |    4.6 |              46.1075 |                   0.4 |                2.3 |                 21   |
+| New Zealand  |                   5 |    2.9 |               8.9817 |                   0.9 |                2.5 |                 15   |
+| Argentina    |                   5 |    2.1 |             -10.3768 |                   1.1 |                1   |                 10.4 |
+| Australia    |                   5 |    0.4 |             -44.7124 |                   1.5 |                0.7 |                  3.9 |
 
 
 
@@ -41,10 +41,10 @@ aside:
 
 | Club         |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| South Africa |               6 |    5.6 |            72.4732   |                   0.4 |                3.3 |                 26   |
-| Argentina    |               6 |    3.1 |            -3.32218  |                   1.1 |                2   |                 15.4 |
-| New Zealand  |               6 |    2.9 |             0.668489 |                   0.9 |                2.5 |                 14.9 |
-| Australia    |               6 |    0.5 |           -69.8195   |                   1.6 |                0.7 |                  4.1 |
+| South Africa |               6 |    5.6 |            72.1075   |                   0.4 |                3.3 |                 26   |
+| Argentina    |               6 |    3.1 |            -2.37682  |                   1.1 |                2   |                 15.4 |
+| New Zealand  |               6 |    2.9 |             0.981695 |                   0.9 |                2.5 |                 15   |
+| Australia    |               6 |    0.4 |           -70.7124   |                   1.5 |                0.7 |                  3.9 |
 
 
 
@@ -65,7 +65,7 @@ aside:
 ### Australia V South Africa on 2024/08/17
 
 
-Average Margin: South Africa by 10.6
+Average Margin: South Africa by 10.9
 
 Average Scoreline: 31-21
 
@@ -78,7 +78,7 @@ Average Scoreline: 31-21
 ### New Zealand V Argentina on 2024/08/17
 
 
-Average Margin: New Zealand by 7.7
+Average Margin: New Zealand by 8.2
 
 Average Scoreline: 37-29
 
@@ -93,7 +93,7 @@ Average Scoreline: 37-29
 ### Argentina V Australia on 2024/08/31
 
 
-Average Margin: Argentina by 7.8
+Average Margin: Argentina by 8.3
 
 Average Scoreline: 35-27
 
@@ -106,7 +106,7 @@ Average Scoreline: 35-27
 ### South Africa V New Zealand on 2024/08/31
 
 
-Average Margin: South Africa by 8.6
+Average Margin: South Africa by 8.7
 
 Average Scoreline: 31-22
 
@@ -121,7 +121,7 @@ Average Scoreline: 31-22
 ### Argentina V Australia on 2024/09/07
 
 
-Average Margin: Argentina by 7.5
+Average Margin: Argentina by 7.9
 
 Average Scoreline: 34-26
 
@@ -134,7 +134,7 @@ Average Scoreline: 34-26
 ### South Africa V New Zealand on 2024/09/07
 
 
-Average Margin: South Africa by 8.3
+Average Margin: South Africa by 8.1
 
 Average Scoreline: 30-22
 
@@ -149,7 +149,7 @@ Average Scoreline: 30-22
 ### Australia V New Zealand on 2024/09/21
 
 
-Average Margin: New Zealand by 5.5
+Average Margin: New Zealand by 5.6
 
 Average Scoreline: 30-24
 
@@ -162,7 +162,7 @@ Average Scoreline: 30-24
 ### Argentina V South Africa on 2024/09/21
 
 
-Average Margin: South Africa by 6.1
+Average Margin: South Africa by 6.0
 
 Average Scoreline: 31-25
 
@@ -177,7 +177,7 @@ Average Scoreline: 31-25
 ### South Africa V Argentina on 2024/09/28
 
 
-Average Margin: South Africa by 12.8
+Average Margin: South Africa by 12.4
 
 Average Scoreline: 31-19
 
@@ -190,7 +190,7 @@ Average Scoreline: 31-19
 ### New Zealand V Australia on 2024/09/28
 
 
-Average Margin: New Zealand by 12.3
+Average Margin: New Zealand by 12.1
 
 Average Scoreline: 36-24
 

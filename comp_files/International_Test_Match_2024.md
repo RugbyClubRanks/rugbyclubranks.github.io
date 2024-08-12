@@ -100,8 +100,8 @@ aside:
 
 | Club     |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Brazil   |                   1 |      1 |              32.7745 |                     0 |                0.8 |                  4.8 |
-| Paraguay |                   1 |      0 |             -32.7745 |                     0 |                0.1 |                  0.2 |
+| Brazil   |                   1 |      1 |              32.7201 |                     0 |                0.8 |                  4.8 |
+| Paraguay |                   1 |      0 |             -32.7201 |                     0 |                0.1 |                  0.2 |
 
 
 
@@ -130,7 +130,7 @@ aside:
 | United Arab Emirates     |               3 |      2 |               0      |                     0 |                0   |                  8   |
 | Chile                    |               4 |      2 |             -60      |                     0 |                0   |                  8   |
 | England                  |               3 |      1 |              27      |                     2 |                1   |                  7   |
-| Brazil                   |               2 |      1 |              31.7745 |                     1 |                0.8 |                  5.8 |
+| Brazil                   |               2 |      1 |              31.7201 |                     1 |                0.8 |                  5.8 |
 | Hungary                  |               2 |      1 |              32      |                     1 |                0   |                  5   |
 | Qatar                    |               2 |      1 |               7      |                     1 |                0   |                  5   |
 | Spain                    |               2 |      1 |               5      |                     1 |                0   |                  5   |
@@ -171,7 +171,7 @@ aside:
 | Wales                    |               3 |      0 |             -45      |                     0 |                1   |                  1   |
 | Japan                    |               3 |      0 |             -65      |                     1 |                0   |                  1   |
 | Uruguay                  |               3 |      0 |            -101      |                     0 |                0   |                  1   |
-| Paraguay                 |               4 |      0 |            -193.775  |                     0 |                0.1 |                  0.2 |
+| Paraguay                 |               4 |      0 |            -193.72   |                     0 |                0.1 |                  0.2 |
 | Cyprus                   |               1 |      0 |             -10      |                     0 |                0   |                  0   |
 | Guyana                   |               1 |      0 |             -23      |                     0 |                0   |                  0   |
 | Serbia                   |               1 |      0 |             -23      |                     0 |                0   |                  0   |
@@ -205,7 +205,7 @@ aside:
 ### Brazil V Paraguay on 2024/08/18
 
 
-Average Margin: Brazil by 32.8
+Average Margin: Brazil by 32.7
 
 Average Scoreline: 37-4
 

@@ -2,7 +2,7 @@
 layout: page  
 title: Northland at Canterbury; 21-34  
 date: 2024-08-09 18:00:00 -0500  
-categories: "National Provence Championship 2024" match review  
+categories: "Bunnings NPC 2024" match review  
 ---
 # Northland at Canterbury; 21-34
 
