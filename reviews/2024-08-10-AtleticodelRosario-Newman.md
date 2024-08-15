@@ -11,7 +11,7 @@ categories: "URBA Top 13 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.176, which translates to predicting Newman to win by 13.8.
 
-Our Over/Under is 63.5 - and combined with the spread above, we have a predicted scoreline of 39 to 25
+Our Over/Under is 66.5 - and combined with the spread above, we have a predicted scoreline of 40 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Newman by 12.3
+## Prediction without Player Minutes: Newman by 14.0
 
 
-Newman by 16.1 on a neutral pitch
+Newman by 17.8 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Newman by 16.1 on a neutral pitch
 
 |   Away Minutes | Away Player               |   Away Percentile |   Number |   Home Percentile | Home Player                 |   Home Minutes |
 |---------------:|:--------------------------|------------------:|---------:|------------------:|:----------------------------|---------------:|
-|             80 | Miguel Prince             |             94.1  |        1 |              5.9  | Ezequiel Reyes              |             80 |
-|             80 | Rodrigo Pueyrredon        |             66.4  |        2 |             11.15 | Matias Malanos              |             80 |
-|             80 | Manuel Lozano             |             54.84 |        3 |              0.87 | Agustin Fernandez           |             80 |
-|             80 | Jeronimo Ureta            |             93.24 |        4 |              3.53 | Matias Kremer               |             80 |
-|             80 | Pablo Cardinal            |             94.61 |        5 |             37.02 | Ignacio Sapino              |             80 |
-|             80 | Mateo Montoya             |             87.71 |        6 |              9.62 | Jose Caseres                |             80 |
-|             80 | Faustino Santarelli       |             65.14 |        7 |              1.43 | Octavio Capella             |             80 |
-|             80 | Rodrigo Diaz de Vivar     |             93.95 |        8 |              1.46 | Lucas Malanos               |             80 |
-|             80 | Felix Branca              |             39.93 |        9 |              9.4  | Felipe Nogues               |             80 |
-|             80 | Gonzalo Guiterrez Taboada |             91.06 |       10 |             11.79 | Manuel Nogues               |             80 |
-|             80 | Jeronimo Ulloa            |             64.06 |       11 |             12.29 | Nicolas Casals              |             80 |
-|             80 | Mateo Delia               |             49.64 |       12 |             35.25 | Ignacio De Haro             |             80 |
-|             80 | Benjamin Lanfranco        |             74.04 |       13 |             95.52 | Juan Pablo Estelles         |             80 |
-|             80 | Marcos Zirolli            |             52.33 |       14 |              3.45 | Facundo Gerosa              |             80 |
-|             80 | Francisco Pasman          |             40    |       15 |              3.88 | Maximiliano Nicoli Fiscella |             80 |
-|              0 | Away Team 16              |            nan    |       16 |            nan    | Home Team 16                |              0 |
-|              0 | Away Team 17              |            nan    |       17 |            nan    | Home Team 17                |              0 |
-|              0 | Away Team 18              |            nan    |       18 |            nan    | Home Team 18                |              0 |
-|              0 | Away Team 19              |            nan    |       19 |            nan    | Home Team 19                |              0 |
-|              0 | Away Team 20              |            nan    |       20 |            nan    | Home Team 20                |              0 |
-|              0 | Away Team 21              |            nan    |       21 |            nan    | Home Team 21                |              0 |
-|              0 | Away Team 22              |            nan    |       22 |            nan    | Home Team 10                |              0 |
-|              0 | Away Team 23              |            nan    |       23 |            nan    | Home Team 23                |              0 |
+|             80 | Miguel Prince             |             94.09 |        1 |              5.84 | Ezequiel Reyes              |             80 |
+|             80 | Rodrigo Pueyrredon        |             66.56 |        2 |             11.2  | Matias Malanos              |             80 |
+|             80 | Manuel Lozano             |             54.89 |        3 |              0.79 | Agustin Fernandez           |             80 |
+|             80 | Jeronimo Ureta            |             93.21 |        4 |              3.35 | Matias Kremer               |             80 |
+|             80 | Pablo Cardinal            |             94.59 |        5 |             36.81 | Ignacio Sapino              |             80 |
+|             80 | Mateo Montoya             |             87.7  |        6 |              9.7  | Jose Caseres                |             80 |
+|             80 | Faustino Santarelli       |             65.13 |        7 |              1.44 | Octavio Capella             |             80 |
+|             80 | Rodrigo Diaz de Vivar     |             93.91 |        8 |              1.47 | Lucas Malanos               |             80 |
+|             80 | Felix Branca              |             40.1  |        9 |              9.31 | Felipe Nogues               |             80 |
+|             80 | Gonzalo Guiterrez Taboada |             91.02 |       10 |             11.63 | Manuel Nogues               |             80 |
+|             80 | Jeronimo Ulloa            |             64.23 |       11 |             12.27 | Nicolas Casals              |             80 |
+|             80 | Mateo Delia               |             49.42 |       12 |             35.08 | Ignacio De Haro             |             80 |
+|             80 | Benjamin Lanfranco        |             73.93 |       13 |             95.5  | Juan Pablo Estelles         |             80 |
+|             80 | Marcos Zirolli            |             52.43 |       14 |              3.46 | Facundo Gerosa              |             80 |
+|             80 | Francisco Pasman          |             40.41 |       15 |              3.92 | Maximiliano Nicoli Fiscella |             80 |
+|              0 | James Wright              |            nan    |       16 |             32.77 | Federico Martin             |              0 |
+|              0 | Isidro Bosch              |            nan    |       17 |            nan    | Roberto Almeira             |              0 |
+|              0 | Bautista Bosch            |             95.58 |       18 |             33.6  | Ramiro Rubio                |              0 |
+|              0 | Alejandro Urtubey         |             83.27 |       19 |             42.17 | Federico Mayol              |              0 |
+|              0 | Joaquin de la Vega        |             88.86 |       20 |            nan    | Home Team 20                |              0 |
+|              0 | Tomas Gonzalo Valls       |            nan    |       21 |             15.71 | Ramiro Musio                |              0 |
+|              0 | Carlos Menendez           |            nan    |       22 |              8.12 | Matias Savatierra           |              0 |
+|              0 | Santiago Marolda          |             90.31 |       23 |             28.31 | Bruno Montenegro            |              0 |
 

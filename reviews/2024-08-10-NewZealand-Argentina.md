@@ -69,27 +69,27 @@ New Zealand by 19.1 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             63 | Thomas Gallo         |             94.65 |        1 |             50.04 | Ethan de Groot      |             59 |
-|             63 | Ignacio Ruiz         |             94.35 |        2 |             98.38 | Codie Taylor        |             65 |
-|             47 | Eduardo Bello        |              1.18 |        3 |             87.18 | Tyrel Lomax         |             59 |
-|             47 | Franco Molina        |             74.34 |        4 |             93.54 | Tupou Vaa'i         |             80 |
-|             63 | Pedro Rubiolo        |             50.44 |        5 |             46.72 | Sam Darry           |             71 |
-|             80 | Pablo Matera         |             99.62 |        6 |             98.48 | Ethan Blackadder    |             80 |
-|             80 | Marcos Kremer        |             93.62 |        7 |             98.95 | Dalton Papalii      |             65 |
-|             67 | Juan Martin Gonzalez |             94.15 |        8 |             98.54 | Ardie Savea         |             80 |
-|             80 | Gonzalo Bertranou    |             82.38 |        9 |             96.81 | TJ Perenara         |             57 |
-|             80 | Santiago Carreras    |             88.21 |       10 |             97.97 | Damian McKenzie     |             80 |
-|             80 | Mateo Carreras       |             69.93 |       11 |             83.8  | Mark Tele'a         |             80 |
-|             80 | Santiago Chocobares  |             72.05 |       12 |             94.06 | Jordie Barrett      |             80 |
-|             64 | Lucio Cinti          |             70.91 |       13 |             95.93 | Anton Lienert-Brown |             65 |
-|             80 | Matias Moroni        |             99.16 |       14 |             75.33 | Sevu Reece          |             50 |
+|             63 | Thomas Gallo         |             94.64 |        1 |             50    | Ethan de Groot      |             59 |
+|             63 | Ignacio Ruiz         |             94.48 |        2 |             98.38 | Codie Taylor        |             65 |
+|             47 | Eduardo Bello        |              1.1  |        3 |             87.15 | Tyrel Lomax         |             59 |
+|             47 | Franco Molina        |             74.41 |        4 |             93.6  | Tupou Vaa'i         |             80 |
+|             63 | Pedro Rubiolo        |             50.39 |        5 |             46.46 | Sam Darry           |             71 |
+|             80 | Pablo Matera         |             99.62 |        6 |             98.46 | Ethan Blackadder    |             80 |
+|             80 | Marcos Kremer        |             93.56 |        7 |             98.94 | Dalton Papalii      |             65 |
+|             67 | Juan Martin Gonzalez |             94.12 |        8 |             98.53 | Ardie Savea         |             80 |
+|             80 | Gonzalo Bertranou    |             82.4  |        9 |             96.95 | TJ Perenara         |             57 |
+|             80 | Santiago Carreras    |             88.16 |       10 |             97.96 | Damian McKenzie     |             80 |
+|             80 | Mateo Carreras       |             70.13 |       11 |             84.08 | Mark Tele'a         |             80 |
+|             80 | Santiago Chocobares  |             71.94 |       12 |             94.03 | Jordie Barrett      |             80 |
+|             64 | Lucio Cinti          |             70.79 |       13 |             95.92 | Anton Lienert-Brown |             65 |
+|             80 | Matias Moroni        |             99.16 |       14 |             75.56 | Sevu Reece          |             50 |
 |             80 | Juan Cruz Mallia     |             99.59 |       15 |            100    | Beauden Barrett     |             80 |
-|             17 | Agustin Creevy       |             94.51 |       16 |             95.48 | Asafo Aumua         |             15 |
-|             17 | Mayco Vivas          |              5.27 |       17 |             99.53 | Ofa Tu'ungafasi     |             21 |
-|             33 | Joel Sclavi          |             88.36 |       18 |              1.57 | Fletcher Newell     |             21 |
-|             33 | Efrain Elias         |            nan    |       19 |             78.94 | Josh Lord           |              9 |
-|             17 | Tomas Lavanini       |             94.12 |       20 |             65.97 | Wallace Sititi      |             15 |
-|             13 | Joaquin Oviedo       |             87.27 |       21 |             86.07 | Cortez Ratima       |             23 |
-|              0 | Lautaro Bazan Velez  |             48.99 |       22 |             89.89 | Rieko Ioane         |             15 |
-|             16 | Tomas Albornoz       |             86.38 |       23 |             98.51 | Will Jordan         |             30 |
+|             17 | Agustin Creevy       |             94.64 |       16 |             95.62 | Asafo Aumua         |             15 |
+|             17 | Mayco Vivas          |              5.21 |       17 |             99.53 | Ofa Tu'ungafasi     |             21 |
+|             33 | Joel Sclavi          |             88.33 |       18 |              1.5  | Fletcher Newell     |             21 |
+|             33 | Efrain Elias         |            nan    |       19 |             79.04 | Josh Lord           |              9 |
+|             17 | Tomas Lavanini       |             94.09 |       20 |             66.18 | Wallace Sititi      |             15 |
+|             13 | Joaquin Oviedo       |             87.18 |       21 |             85.96 | Cortez Ratima       |             23 |
+|              0 | Lautaro Bazan Velez  |             49.07 |       22 |             89.84 | Rieko Ioane         |             15 |
+|             16 | Tomas Albornoz       |             86.33 |       23 |             98.5  | Will Jordan         |             30 |
 

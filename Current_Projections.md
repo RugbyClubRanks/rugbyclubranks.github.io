@@ -18,7 +18,7 @@ Last Round Accuracy: 33 of 38 (86.84%)
 
 Last Round Error: 15.55 points per match
 
-[2024-08-18 Paraguay (~592.22) at Brazil (~1246.62)](projections/2024-08-18-Brazil-Paraguay)
+[2024-08-18 Paraguay (~600.85) at Brazil (~1233.22)](projections/2024-08-18-Brazil-Paraguay)
 ## Rugby Championship
 
 
@@ -32,9 +32,9 @@ Last Round Accuracy: 1 of 2 (50.0%)
 
 Last Round Error: 20.22 points per match
 
-[2024-08-17 Argentina (~1791.66) at New Zealand (~1955.19)](projections/2024-08-17-NewZealand-Argentina)
+[2024-08-17 South Africa (~1980.11) at Australia (~1768.67)](projections/2024-08-17-Australia-SouthAfrica)
 
-[2024-08-17 South Africa (~1982.03) at Australia (~1764.46)](projections/2024-08-17-Australia-SouthAfrica)
+[2024-08-17 Argentina (~1786.63) at New Zealand (~1946.67)](projections/2024-08-17-NewZealand-Argentina)
 # Domestic Leagues
 
 ## Bunnings NPC
@@ -42,29 +42,23 @@ Last Round Error: 20.22 points per match
 
 [In depth model review and projections for Bunnings NPC 2024](comp_files/Bunnings_NPC_2024)
 
-Competition Accuracy: 4 of 7 (57.14%)
+Competition Accuracy: 5 of 8 (62.5%)
 
-Competition Error: 9.97 points per match
+Competition Error: 9.15 points per match
 
 Last Round Accuracy: 4 of 7 (57.14%)
 
-Last Round Error: 9.97 points per match
+Last Round Error: 10.06 points per match
 
-[2024-08-14 Counties Manukau (~1384.17) at Bay of Plenty (~1625.08)](projections/2024-08-14-BayofPlenty-CountiesManukau)
+[2024-08-17 Canterbury (~1557.36) at Tasman (~1592.23)](projections/2024-08-17-Tasman-Canterbury)
 
-[2024-08-16 Auckland (~1510.95) at Otago (~1412.09)](projections/2024-08-16-Otago-Auckland)
+[2024-08-17 Manawatu (~1100.24) at Northland (~1427.61)](projections/2024-08-17-Northland-Manawatu)
 
-[2024-08-17 Canterbury (~1561.43) at Tasman (~1593.27)](projections/2024-08-17-Tasman-Canterbury)
+[2024-08-18 North Harbour (~1435.55) at Bay of Plenty (~1626.6)](projections/2024-08-18-BayofPlenty-NorthHarbour)
 
-[2024-08-17 Southland (~1312.85) at Hawke's Bay (~1631.61)](projections/2024-08-17-Hawke'sBay-Southland)
+[2024-08-18 Waikato (~1476.13) at Counties Manukau (~1444.68)](projections/2024-08-18-CountiesManukau-Waikato)
 
-[2024-08-17 Manawatu (~1101.36) at Northland (~1428.47)](projections/2024-08-17-Northland-Manawatu)
-
-[2024-08-18 Taranaki (~1574.07) at Wellington (~1750.32)](projections/2024-08-18-Wellington-Taranaki)
-
-[2024-08-18 Waikato (~1474.58) at Counties Manukau (~1452.4)](projections/2024-08-18-CountiesManukau-Waikato)
-
-[2024-08-18 North Harbour (~1440.19) at Bay of Plenty (~1624.94)](projections/2024-08-18-BayofPlenty-NorthHarbour)
+[2024-08-18 Taranaki (~1581.95) at Wellington (~1752.24)](projections/2024-08-18-Wellington-Taranaki)
 ## Currie Cup
 
 
@@ -76,15 +70,15 @@ Competition Error: 15.88 points per match
 
 Last Round Accuracy: 4 of 5 (80.0%)
 
-Last Round Error: 12.45 points per match
+Last Round Error: 12.46 points per match
 
-[2024-08-16 Blue Bulls (~1629.88) at Pumas (~1642.95)](projections/2024-08-16-Pumas-BlueBulls)
+[2024-08-16 Blue Bulls (~1637.51) at Pumas (~1642.11)](projections/2024-08-16-Pumas-BlueBulls)
 
-[2024-08-17 Sharks (~1616.49) at Free State Cheetahs (~1655.62)](projections/2024-08-17-FreeStateCheetahs-Sharks)
+[2024-08-17 Sharks (~1614.12) at Free State Cheetahs (~1647.14)](projections/2024-08-17-FreeStateCheetahs-Sharks)
 
-[2024-08-17 Western Province (~1467.93) at Golden Lions (~1722.97)](projections/2024-08-17-GoldenLions-WesternProvince)
+[2024-08-17 Western Province (~1466.95) at Golden Lions (~1729.32)](projections/2024-08-17-GoldenLions-WesternProvince)
 
-[2024-08-18 Griquas (~1421.85) at Griffons (~1244.73)](projections/2024-08-18-Griffons-Griquas)
+[2024-08-18 Griquas (~1419.25) at Griffons (~1247.77)](projections/2024-08-18-Griffons-Griquas)
 ## URBA Top 13
 
 
@@ -98,14 +92,14 @@ Last Round Accuracy: 5 of 6 (83.33%)
 
 Last Round Error: 10.01 points per match
 
-[2024-08-17 Atlético del Rosario (~1400.76) at Buenos Aires (~1684.62)](projections/2024-08-17-BuenosAires-AtleticodelRosario)
+[2024-08-17 CASI (~1726.54) at Regatas Bella Vista (~1606.07)](projections/2024-08-17-RegatasBellaVista-CASI)
 
-[2024-08-17 Alumni (~1700.74) at Newman (~1862.06)](projections/2024-08-17-Newman-Alumni)
+[2024-08-17 Atlético del Rosario (~1398.17) at Buenos Aires (~1683.06)](projections/2024-08-17-BuenosAires-AtleticodelRosario)
 
-[2024-08-17 SIC (~1720.0) at Hindu (~1739.46)](projections/2024-08-17-Hindu-SIC)
+[2024-08-17 Alumni (~1696.6) at Newman (~1862.4)](projections/2024-08-17-Newman-Alumni)
 
-[2024-08-17 CASI (~1724.9) at Regatas Bella Vista (~1606.01)](projections/2024-08-17-RegatasBellaVista-CASI)
+[2024-08-17 CUBA (~1689.02) at San Luis (~1680.26)](projections/2024-08-17-SanLuis-CUBA)
 
-[2024-08-17 CUBA (~1693.87) at San Luis (~1678.89)](projections/2024-08-17-SanLuis-CUBA)
+[2024-08-17 SIC (~1720.45) at Hindu (~1745.18)](projections/2024-08-17-Hindu-SIC)
 
-[2024-08-17 Champagnat (~1436.84) at Belgrano (~1863.41)](projections/2024-08-17-Belgrano-Champagnat)
+[2024-08-17 Champagnat (~1443.73) at Belgrano (~1864.8)](projections/2024-08-17-Belgrano-Champagnat)
