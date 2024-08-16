@@ -9,7 +9,7 @@ categories: "Rugby Championship 2024" match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.163, which translates to predicting South Africa to win by 10.6.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.163, which translates to predicting South Africa to win by 10.9.
 
 Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 31 to 21
 
@@ -69,27 +69,27 @@ South Africa by 7.1 on a neutral pitch
 
 | Away Player               |   Away Percentile |   Number |   Home Percentile | Home Player          |
 |:--------------------------|------------------:|---------:|------------------:|:---------------------|
-| Jan-Hendrik Wessels       |             29.1  |        1 |             89.91 | Angus Bell           |
-| Johan Grobbelaar          |             95.94 |        2 |             78.41 | Josh Nasser          |
+| Jan-Hendrik Wessels       |             29.02 |        1 |             89.91 | Angus Bell           |
+| Johan Grobbelaar          |             95.93 |        2 |             78.54 | Josh Nasser          |
 | Thomas du Toit            |             97.48 |        3 |             98.19 | Allan Alaalatoa      |
 | Salmaan Moerat            |             79.13 |        4 |             94.19 | Angus Blyth          |
 | Ruan Nortje               |             87.2  |        5 |             11.61 | Lukhan Salakaia-Loto |
-| Marco van Staden          |             90.78 |        6 |             98.37 | Rob Valetini         |
-| Pieter-Steph du Toit      |             95.08 |        7 |              8.17 | Carlo Tizzano        |
+| Marco van Staden          |             90.77 |        6 |             98.37 | Rob Valetini         |
+| Pieter-Steph du Toit      |             95.08 |        7 |              7.98 | Carlo Tizzano        |
 | Elrigh Louw               |             89.71 |        8 |             70.8  | Harry Wilson         |
-| Morne van den Berg        |             93.23 |        9 |             99.32 | Nic White            |
-| Sacha Feinberg-Mngomezulu |             69.18 |       10 |             89.39 | Noah Lolesio         |
+| Morne van den Berg        |             93.21 |        9 |             99.32 | Nic White            |
+| Sacha Feinberg-Mngomezulu |             69.33 |       10 |             89.37 | Noah Lolesio         |
 | Makazole Mapimpi          |             99.72 |       11 |             96.91 | Marika Koroibete     |
-| Lukhanyo Am               |             83.98 |       12 |             83.35 | Hunter Paisami       |
-| Jesse Kriel               |             98.43 |       13 |             79.27 | Len Ikitau           |
+| Lukhanyo Am               |             83.96 |       12 |             83.33 | Hunter Paisami       |
+| Jesse Kriel               |             98.43 |       13 |             79.25 | Len Ikitau           |
 | Cheslin Kolbe             |             99.81 |       14 |             68.35 | Andrew Kellaway      |
-| Aphelele Fassi            |             91.55 |       15 |             88.25 | Tom Wright           |
-| Malcolm Marx              |            100    |       16 |             84.58 | Billy Pollard        |
+| Aphelele Fassi            |             91.56 |       15 |             88.27 | Tom Wright           |
+| Malcolm Marx              |            100    |       16 |             84.72 | Billy Pollard        |
 | Ox Nche                   |             99.76 |       17 |             96.53 | James Slipper        |
-| Vincent Koch              |             68.69 |       18 |             79.97 | Zane Nonggorr        |
-| Eben Etzebeth             |             99.21 |       19 |             81.99 | Tom Hooper           |
-| Kwagga Smith              |             85.29 |       20 |             72.54 | Seru Uru             |
-| Grant Williams            |             70.05 |       21 |             84.6  | Tate McDermott       |
-| Manie Libbok              |             85.31 |       22 |             55.51 | Ben Donaldson        |
-| Handre Pollard            |             87.35 |       23 |             54.02 | Max Jorgensen        |
+| Vincent Koch              |             68.53 |       18 |             79.97 | Zane Nonggorr        |
+| Eben Etzebeth             |             99.21 |       19 |             82.09 | Tom Hooper           |
+| Kwagga Smith              |             85.29 |       20 |             72.64 | Seru Uru             |
+| Grant Williams            |             70.12 |       21 |             84.72 | Tate McDermott       |
+| Manie Libbok              |             85.28 |       22 |             55.62 | Ben Donaldson        |
+| Handre Pollard            |             87.32 |       23 |             54.12 | Max Jorgensen        |
 

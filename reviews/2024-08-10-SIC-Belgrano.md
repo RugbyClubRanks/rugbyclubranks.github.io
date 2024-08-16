@@ -11,7 +11,7 @@ categories: "URBA Top 13 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.508, which translates to predicting SIC to win by 0.3.
 
-Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 26 to 26
+Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 23 to 23
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -70,26 +70,26 @@ Belgrano by 9.1 on a neutral pitch
 |   Away Minutes | Away Player              |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:-------------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
 |             80 | Francisco Ferronato      |             88.56 |        1 |             78.63 | Marcos Piccinini      |             80 |
-|             80 | Francisco Lusarreta      |             89.45 |        2 |             69.32 | Ignacio Bottazzini    |             80 |
-|             80 | Lisandro Garcia Dragui   |             82.57 |        3 |             65.93 | Benjamin Chiappe      |             80 |
-|             80 | Luciano Tecca            |             89.27 |        4 |             77.46 | Tomas Borghi          |             80 |
-|             80 | Ramon Duggan             |             66.93 |        5 |             74.61 | Bautista Viero        |             80 |
-|             80 | Joaquin de la Serna      |             86.74 |        6 |             66.47 | Andrea Panzarini      |             80 |
-|             80 | Augusto Vaccarino        |             79.44 |        7 |             80.79 | Franco Delger         |             80 |
+|             80 | Francisco Lusarreta      |             89.43 |        2 |             69.43 | Ignacio Bottazzini    |             80 |
+|             80 | Lisandro Garcia Dragui   |             82.57 |        3 |             65.85 | Benjamin Chiappe      |             80 |
+|             80 | Luciano Tecca            |             89.27 |        4 |             77.56 | Tomas Borghi          |             80 |
+|             80 | Ramon Duggan             |             67.03 |        5 |             74.7  | Bautista Viero        |             80 |
+|             80 | Joaquin de la Serna      |             86.73 |        6 |             66.63 | Andrea Panzarini      |             80 |
+|             80 | Augusto Vaccarino        |             79.33 |        7 |             80.67 | Franco Delger         |             80 |
 |             80 | Franco Vega              |             80.67 |        8 |             44.54 | Alejo Daireaux        |             80 |
-|             80 | Ignacio Marino           |             77.66 |        9 |             72.42 | Felipe Sascaro        |             80 |
-|             80 | Juan Aparicio            |             67.35 |       10 |             67.55 | Santiago Pavlovsky    |             80 |
+|             80 | Ignacio Marino           |             77.76 |        9 |             72.5  | Felipe Sascaro        |             80 |
+|             80 | Juan Aparicio            |             67.48 |       10 |             67.69 | Santiago Pavlovsky    |             80 |
 |             80 | Ignacio Diaz             |             85.11 |       11 |             58.24 | Nicanor Acosta        |             80 |
-|             80 | Ramon Arana              |             79.06 |       12 |             67.23 | Santos Rubio          |             80 |
-|             80 | Tomas Etchepare          |             81.88 |       13 |             56.86 | Carlos Piran          |             80 |
-|             80 | Pedro Arana              |             53.18 |       14 |             54.96 | Justo Piccardo        |             80 |
-|             80 | Juan Lando               |             80.21 |       15 |             44.95 | Bernabe Lopez Fleming |             80 |
+|             80 | Ramon Arana              |             79.04 |       12 |             67.19 | Santos Rubio          |             80 |
+|             80 | Tomas Etchepare          |             81.87 |       13 |             56.81 | Carlos Piran          |             80 |
+|             80 | Pedro Arana              |             53.28 |       14 |             54.96 | Justo Piccardo        |             80 |
+|             80 | Juan Lando               |             80.25 |       15 |             44.86 | Bernabe Lopez Fleming |             80 |
 |              0 | Santiago Garcia Botta    |            nan    |       16 |             44.32 | Francisco Calandra    |              0 |
 |              0 | Andres Bianco            |            nan    |       17 |            nan    | Jaime Gilligan        |              0 |
 |              0 | Rodrigo Fernandez Criado |            nan    |       18 |             50.39 | Juan Pedro Olcese     |              0 |
-|              0 | Julian Rebusone          |             67.92 |       19 |             50.84 | Pedro Georgalo        |              0 |
-|              0 | Valentin Chiodi          |            nan    |       20 |             24.69 | Ciro Ploruti          |              0 |
-|              0 | Juan Brescia             |             46.91 |       21 |            nan    | Mateo Albanese        |              0 |
-|              0 | Tomas Cubelli            |             30.29 |       22 |            nan    | Agustin Sascaro       |              0 |
+|              0 | Julian Rebusone          |             68.08 |       19 |             50.84 | Pedro Georgalo        |              0 |
+|              0 | Valentin Chiodi          |            nan    |       20 |             24.71 | Ciro Ploruti          |              0 |
+|              0 | Juan Brescia             |             46.86 |       21 |            nan    | Mateo Albanese        |              0 |
+|              0 | Tomas Cubelli            |             30.22 |       22 |            nan    | Agustin Sascaro       |              0 |
 |              0 | Tobias Bernabe           |             82.49 |       23 |            nan    | Timoteo Silva         |              0 |
 

@@ -1,6 +1,6 @@
 ---  
 title: "Currie Cup 2024 Status"  
-date: 2024-08-15 6:00:00 -0500  
+date: 2024-08-16 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -34,14 +34,14 @@ aside:
 
 | Club                |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Golden Lions        |                   1 |    1   |            13.1184   |                   0   |                0.7 |                  4.6 |
-| Griquas             |                   1 |    0.9 |             8.57373  |                   0.1 |                0.9 |                  4.6 |
-| Free State Cheetahs |                   1 |    0.6 |             1.65107  |                   0.3 |                0.3 |                  3.1 |
-| Pumas               |                   1 |    0.5 |             0.229724 |                   0.4 |                0.3 |                  2.7 |
-| Blue Bulls          |                   1 |    0.5 |            -0.229724 |                   0.4 |                0.4 |                  2.7 |
-| Sharks              |                   1 |    0.4 |            -1.65107  |                   0.5 |                0.3 |                  2.3 |
-| Griffons            |                   1 |    0.1 |            -8.57373  |                   0.3 |                0.4 |                  1.1 |
-| Western Province    |                   1 |    0   |           -13.1184   |                   0.2 |                0.1 |                  0.4 |
+| Golden Lions        |                   1 |    1   |            13.2519   |                   0   |                0.7 |                  4.7 |
+| Griquas             |                   1 |    0.9 |             8.55532  |                   0.1 |                0.9 |                  4.6 |
+| Free State Cheetahs |                   1 |    0.6 |             1.841    |                   0.3 |                0.3 |                  3.2 |
+| Pumas               |                   1 |    0.5 |             0.331311 |                   0.4 |                0.3 |                  2.7 |
+| Blue Bulls          |                   1 |    0.5 |            -0.331311 |                   0.4 |                0.3 |                  2.7 |
+| Sharks              |                   1 |    0.4 |            -1.841    |                   0.5 |                0.3 |                  2.2 |
+| Griffons            |                   1 |    0.1 |            -8.55532  |                   0.3 |                0.4 |                  1.1 |
+| Western Province    |                   1 |    0   |           -13.2519   |                   0.2 |                0.2 |                  0.4 |
 
 
 
@@ -50,15 +50,15 @@ aside:
 
 | Club                |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Golden Lions        |               8 |    7   |            119.118   |                   0   |                0.7 |                 29.6 |
-| Blue Bulls          |               7 |    5.5 |            108.77    |                   0.4 |                0.4 |                 25.7 |
-| Free State Cheetahs |               7 |    4.6 |             80.6511  |                   0.3 |                0.3 |                 23.1 |
-| Pumas               |               7 |    3.5 |            -26.7703  |                   0.4 |                0.3 |                 17.7 |
-| Griquas             |               8 |    2.9 |            -84.4263  |                   0.1 |                0.9 |                 14.6 |
-| Sharks              |               7 |    2.4 |             16.3489  |                   2.5 |                0.3 |                 14.3 |
-| Western Province    |               7 |    2   |              9.88156 |                   2.2 |                0.1 |                 11.4 |
+| Golden Lions        |               8 |    7   |            119.252   |                   0   |                0.7 |                 29.7 |
+| Blue Bulls          |               7 |    5.5 |            108.669   |                   0.4 |                0.3 |                 25.7 |
+| Free State Cheetahs |               7 |    4.6 |             80.841   |                   0.3 |                0.3 |                 23.2 |
+| Pumas               |               7 |    3.5 |            -26.6687  |                   0.4 |                0.3 |                 17.7 |
+| Griquas             |               8 |    2.9 |            -84.4447  |                   0.1 |                0.9 |                 14.6 |
+| Sharks              |               7 |    2.4 |             16.159   |                   2.5 |                0.3 |                 14.2 |
+| Western Province    |               7 |    2   |              9.74809 |                   2.2 |                0.2 |                 11.4 |
 | Natal Sharks        |               2 |    0   |             -4       |                   2   |                2   |                  4   |
-| Griffons            |               7 |    0.1 |           -219.574   |                   1.3 |                0.4 |                  2.1 |
+| Griffons            |               7 |    0.1 |           -219.555   |                   1.3 |                0.4 |                  2.1 |
 
 
 
@@ -79,7 +79,7 @@ aside:
 ### Pumas V Blue Bulls on 2024/08/16
 
 
-Average Margin: Pumas by 0.2
+Average Margin: Pumas by 0.3
 
 Average Scoreline: 22-22
 
@@ -92,7 +92,7 @@ Average Scoreline: 22-22
 ### Free State Cheetahs V Sharks on 2024/08/17
 
 
-Average Margin: Free State Cheetahs by 1.7
+Average Margin: Free State Cheetahs by 1.8
 
 Average Scoreline: 26-24
 
@@ -105,7 +105,7 @@ Average Scoreline: 26-24
 ### Golden Lions V Western Province on 2024/08/17
 
 
-Average Margin: Golden Lions by 13.1
+Average Margin: Golden Lions by 13.3
 
 Average Scoreline: 46-33
 
