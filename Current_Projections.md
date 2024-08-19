@@ -5,36 +5,14 @@ key: page-projections
 ---
 # International Matches
 
-## International Test Match
+## Pacific Nations Cup
 
 
-[In depth model review and projections for International Test Match 2024](comp_files/International_Test_Match_2024)
+[In depth model review and projections for Pacific Nations Cup 2024](comp_files/Pacific_Nations_Cup_2024)
 
-Competition Accuracy: 65 of 86 (75.58%)
+[2024-08-23 Samoa (~1635.11) at Fiji (~1723.15)](projections/2024-08-23-Fiji-Samoa)
 
-Competition Error: 20.13 points per match
-
-Last Round Accuracy: 33 of 38 (86.84%)
-
-Last Round Error: 15.55 points per match
-
-[2024-08-18 Paraguay (~586.54) at Brazil (~1240.29)](projections/2024-08-18-Brazil-Paraguay)
-## Rugby Championship
-
-
-[In depth model review and projections for Rugby Championship 2024](comp_files/Rugby_Championship_2024)
-
-Competition Accuracy: 1 of 2 (50.0%)
-
-Competition Error: 20.22 points per match
-
-Last Round Accuracy: 1 of 2 (50.0%)
-
-Last Round Error: 20.22 points per match
-
-[2024-08-17 South Africa (~1984.45) at Australia (~1765.98)](projections/2024-08-17-Australia-SouthAfrica)
-
-[2024-08-17 Argentina (~1792.35) at New Zealand (~1957.48)](projections/2024-08-17-NewZealand-Argentina)
+[2024-08-25 Japan (~1418.04) at Canada (~1350.62)](projections/2024-08-25-Canada-Japan)
 # Domestic Leagues
 
 ## Bunnings NPC
@@ -42,64 +20,86 @@ Last Round Error: 20.22 points per match
 
 [In depth model review and projections for Bunnings NPC 2024](comp_files/Bunnings_NPC_2024)
 
-Competition Accuracy: 5 of 9 (55.56%)
+Competition Accuracy: 10 of 15 (66.67%)
 
-Competition Error: 8.75 points per match
+Competition Error: 6.93 points per match
 
-Last Round Accuracy: 3 of 7 (42.86%)
+Last Round Accuracy: 6 of 7 (85.71%)
 
-Last Round Error: 9.98 points per match
+Last Round Error: 4.58 points per match
 
-[2024-08-16 Auckland (~1495.64) at Otago (~1427.94)](projections/2024-08-16-Otago-Auckland)
+[2024-08-23 Northland (~1371.27) at Hawke's Bay (~1618.41)](projections/2024-08-23-Hawke'sBay-Northland)
 
-[2024-08-17 Canterbury (~1559.37) at Tasman (~1595.16)](projections/2024-08-17-Tasman-Canterbury)
+[2024-08-24 Tasman (~1570.34) at Counties Manukau (~1432.11)](projections/2024-08-24-CountiesManukau-Tasman)
 
-[2024-08-17 Manawatu (~1108.18) at Northland (~1429.18)](projections/2024-08-17-Northland-Manawatu)
+[2024-08-24 Taranaki (~1596.36) at Southland (~1386.56)](projections/2024-08-24-Southland-Taranaki)
 
-[2024-08-18 North Harbour (~1437.55) at Bay of Plenty (~1623.18)](projections/2024-08-18-BayofPlenty-NorthHarbour)
+[2024-08-24 Canterbury (~1529.3) at Auckland (~1581.72)](projections/2024-08-24-Auckland-Canterbury)
 
-[2024-08-18 Taranaki (~1569.8) at Wellington (~1754.03)](projections/2024-08-18-Wellington-Taranaki)
+[2024-08-25 Bay of Plenty (~1541.43) at Otago (~1437.58)](projections/2024-08-25-Otago-BayofPlenty)
+
+[2024-08-25 Waikato (~1470.53) at North Harbour (~1489.21)](projections/2024-08-25-NorthHarbour-Waikato)
+
+[2024-08-25 Manawatu (~1100.17) at Wellington (~1745.6)](projections/2024-08-25-Wellington-Manawatu)
 ## Currie Cup
 
 
 [In depth model review and projections for Currie Cup 2024](comp_files/Currie_Cup_2024)
 
-Competition Accuracy: 15 of 26 (57.69%)
+Competition Accuracy: 18 of 35 (51.43%)
 
-Competition Error: 15.88 points per match
+Competition Error: 16.11 points per match
 
-Last Round Accuracy: 4 of 5 (80.0%)
+Last Round Accuracy: 2 of 5 (40.0%)
 
-Last Round Error: 12.46 points per match
+Last Round Error: 18.88 points per match
 
-[2024-08-16 Blue Bulls (~1633.86) at Pumas (~1640.48)](projections/2024-08-16-Pumas-BlueBulls)
+[2024-08-23 Griquas (~1428.93) at Blue Bulls (~1746.97)](projections/2024-08-23-BlueBulls-Griquas)
 
-[2024-08-17 Western Province (~1463.54) at Golden Lions (~1728.58)](projections/2024-08-17-GoldenLions-WesternProvince)
+[2024-08-24 Sharks (~1621.37) at Western Province (~1524.31)](projections/2024-08-24-WesternProvince-Sharks)
 
-[2024-08-17 Sharks (~1613.21) at Free State Cheetahs (~1650.03)](projections/2024-08-17-FreeStateCheetahs-Sharks)
+[2024-08-24 Golden Lions (~1643.28) at Free State Cheetahs (~1607.54)](projections/2024-08-24-FreeStateCheetahs-GoldenLions)
 
-[2024-08-18 Griquas (~1416.44) at Griffons (~1245.33)](projections/2024-08-18-Griffons-Griquas)
+[2024-08-24 Natal Sharks (~1601.41) at Western Province (~1516.71)](projections/2024-08-24-WesternProvince-NatalSharks)
+
+[2024-08-25 Pumas (~1540.7) at Griffons (~1213.62)](projections/2024-08-25-Griffons-Pumas)
+## Nationale
+
+
+[In depth model review and projections for Nationale 2024](comp_files/Nationale_2024)
+
+[2024-08-23 Rouen (~1376.0) at US Bressane (~1389.1)](projections/2024-08-23-USBressane-Rouen)
+
+[2024-08-23 Albi (~1386.41) at Carcassonne (~1461.74)](projections/2024-08-23-Carcassonne-Albi)
+
+[2024-08-24 Tarbes (~1237.01) at Périgueux (~1403.65)](projections/2024-08-24-Perigueux-Tarbes)
+
+[2024-08-24 Suresnes (~1276.07) at Narbonne (~1427.95)](projections/2024-08-24-Narbonne-Suresnes)
+
+[2024-08-24 Chambery (~1344.74) at Bourgoin-Jallieu (~1381.28)](projections/2024-08-24-Bourgoin-Jallieu-Chambery)
+
+2024-08-24 Marcq-en-Baroeul at Langon
 ## URBA Top 13
 
 
 [In depth model review and projections for URBA Top 13 2024](comp_files/URBA_Top_13_2024)
 
-Competition Accuracy: 59 of 90 (65.56%)
+Competition Accuracy: 62 of 96 (64.58%)
 
-Competition Error: 12.93 points per match
+Competition Error: 12.92 points per match
 
-Last Round Accuracy: 5 of 6 (83.33%)
+Last Round Accuracy: 3 of 6 (50.0%)
 
-Last Round Error: 10.01 points per match
+Last Round Error: 12.8 points per match
 
-[2024-08-17 Champagnat (~1444.64) at Belgrano (~1866.0)](projections/2024-08-17-Belgrano-Champagnat)
+[2024-08-24 San Luis (~1612.5) at SIC (~1813.2)](projections/2024-08-24-SIC-SanLuis)
 
-[2024-08-17 SIC (~1721.79) at Hindu (~1741.93)](projections/2024-08-17-Hindu-SIC)
+[2024-08-24 Regatas Bella Vista (~1557.6) at CUBA (~1753.53)](projections/2024-08-24-CUBA-RegatasBellaVista)
 
-[2024-08-17 CASI (~1722.46) at Regatas Bella Vista (~1604.8)](projections/2024-08-17-RegatasBellaVista-CASI)
+[2024-08-24 Belgrano (~1800.75) at Atlético del Rosario (~1505.47)](projections/2024-08-24-AtleticodelRosario-Belgrano)
 
-[2024-08-17 CUBA (~1689.15) at San Luis (~1676.04)](projections/2024-08-17-SanLuis-CUBA)
+[2024-08-24 Buenos Aires (~1578.24) at Newman (~1862.98)](projections/2024-08-24-Newman-BuenosAires)
 
-[2024-08-17 Alumni (~1699.32) at Newman (~1863.15)](projections/2024-08-17-Newman-Alumni)
+[2024-08-24 Hindu (~1648.72) at Champagnat (~1507.81)](projections/2024-08-24-Champagnat-Hindu)
 
-[2024-08-17 Atlético del Rosario (~1395.88) at Buenos Aires (~1683.13)](projections/2024-08-17-BuenosAires-AtleticodelRosario)
+[2024-08-24 CASI (~1713.62) at Alumni (~1766.27)](projections/2024-08-24-Alumni-CASI)

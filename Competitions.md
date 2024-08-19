@@ -8,7 +8,7 @@ key: page-recents
 ## Rugby Championship
 
 
-[2024](comp_files\Rugby_Championship_2024) - Prediction Accuracy: 50.0% 
+[2024](comp_files\Rugby_Championship_2024) - Prediction Accuracy: 75.0% 
 
 [2023](comp_files\Rugby_Championship_2023)
 
@@ -181,18 +181,6 @@ key: page-recents
 [2021](comp_files\Top_14_Orange_2021) - Prediction Accuracy: 71.3% 
 
 [2020](comp_files\Top_14_Orange_2020) - Prediction Accuracy: 68.6% 
-## Major League Rugby
-
-
-[2024](comp_files\Major_League_Rugby_2024) - Prediction Accuracy: 63.0% 
-
-[2023](comp_files\Major_League_Rugby_2023) - Prediction Accuracy: 71.3% 
-
-[2022](comp_files\Major_League_Rugby_2022) - Prediction Accuracy: 64.5% 
-
-[2021](comp_files\Major_League_Rugby_2021) - Prediction Accuracy: 61.7% 
-
-[2020](comp_files\Major_League_Rugby_2020) - Prediction Accuracy: 58.1% 
 ## Super Rugby Pacific
 
 
@@ -205,6 +193,28 @@ key: page-recents
 [2021](comp_files\Super_Rugby_Pacific_2021) - Prediction Accuracy: 96.2% 
 
 [2020](comp_files\Super_Rugby_Pacific_2020) - Prediction Accuracy: 58.7% 
+## Major League Rugby
+
+
+[2024](comp_files\Major_League_Rugby_2024) - Prediction Accuracy: 63.0% 
+
+[2023](comp_files\Major_League_Rugby_2023) - Prediction Accuracy: 71.3% 
+
+[2022](comp_files\Major_League_Rugby_2022) - Prediction Accuracy: 64.5% 
+
+[2021](comp_files\Major_League_Rugby_2021) - Prediction Accuracy: 61.7% 
+
+[2020](comp_files\Major_League_Rugby_2020) - Prediction Accuracy: 58.1% 
+## RFU Championship
+
+
+[2024](comp_files\RFU_Championship_2024)
+
+[2023](comp_files\RFU_Championship_2023) - Prediction Accuracy: 66.7% 
+
+[2022](comp_files\RFU_Championship_2022) - Prediction Accuracy: 74.2% 
+
+[2021](comp_files\RFU_Championship_2021) - Prediction Accuracy: 72.0% 
 ## Japan Rugby League One
 
 
@@ -215,14 +225,6 @@ key: page-recents
 [2021](comp_files\Japan_Rugby_League_One_2021) - Prediction Accuracy: 75.0% 
 
 [2020](comp_files\Japan_Rugby_League_One_2020) - Prediction Accuracy: 79.2% 
-## Superliga Americana de Rugby
-
-
-[2022](comp_files\Superliga_Americana_de_Rugby_2022) - Prediction Accuracy: 66.7% 
-
-[2021](comp_files\Superliga_Americana_de_Rugby_2021) - Prediction Accuracy: 75.0% 
-
-[2020](comp_files\Superliga_Americana_de_Rugby_2020) - Prediction Accuracy: 33.3% 
 ## Rugby Europe Super Cup
 
 
@@ -231,14 +233,14 @@ key: page-recents
 [2022](comp_files\Rugby_Europe_Super_Cup_2022) - Prediction Accuracy: 66.7% 
 
 [2021](comp_files\Rugby_Europe_Super_Cup_2021) - Prediction Accuracy: 57.7% 
-## RFU Championship
+## Superliga Americana de Rugby
 
 
-[2023](comp_files\RFU_Championship_2023) - Prediction Accuracy: 66.7% 
+[2022](comp_files\Superliga_Americana_de_Rugby_2022) - Prediction Accuracy: 66.7% 
 
-[2022](comp_files\RFU_Championship_2022) - Prediction Accuracy: 74.2% 
+[2021](comp_files\Superliga_Americana_de_Rugby_2021) - Prediction Accuracy: 75.0% 
 
-[2021](comp_files\RFU_Championship_2021) - Prediction Accuracy: 72.0% 
+[2020](comp_files\Superliga_Americana_de_Rugby_2020) - Prediction Accuracy: 33.3% 
 ## Super Rugby Americas
 
 
@@ -257,22 +259,22 @@ key: page-recents
 [2021](comp_files\Super_Rugby_AU_2021) - Prediction Accuracy: 72.7% 
 
 [2020](comp_files\Super_Rugby_AU_2020) - Prediction Accuracy: 50.0% 
-## Premiership Rugby Cup
-
-
-[2023](comp_files\Premiership_Rugby_Cup_2023) - Prediction Accuracy: 75.5% 
 ## Premiership Rugby
 
 
 [2024](comp_files\Premiership_Rugby_2024)
-## Super Rugby
+## Premiership Rugby Cup
 
 
-[2024](comp_files\Super_Rugby_2024)
+[2023](comp_files\Premiership_Rugby_Cup_2023) - Prediction Accuracy: 75.5% 
 ## Peroni Top10
 
 
 [2020](comp_files\Peroni_Top10_2020) - Prediction Accuracy: 75.3% 
+## Super Rugby
+
+
+[2024](comp_files\Super_Rugby_2024)
 ## Investec Champions Cup
 
 
@@ -298,7 +300,7 @@ key: page-recents
 ## Currie Cup
 
 
-[2024](comp_files\Currie_Cup_2024) - Prediction Accuracy: 57.7% 
+[2024](comp_files\Currie_Cup_2024) - Prediction Accuracy: 51.4% 
 
 [2023](comp_files\Currie_Cup_2023) - Prediction Accuracy: 56.4% 
 
@@ -334,7 +336,7 @@ key: page-recents
 ## URBA Top 13
 
 
-[2024](comp_files\URBA_Top_13_2024) - Prediction Accuracy: 65.6% 
+[2024](comp_files\URBA_Top_13_2024) - Prediction Accuracy: 64.6% 
 
 [2023](comp_files\URBA_Top_13_2023) - Prediction Accuracy: 61.5% 
 
@@ -366,7 +368,7 @@ key: page-recents
 ## Bunnings NPC
 
 
-[2024](comp_files\Bunnings_NPC_2024) - Prediction Accuracy: 62.5% 
+[2024](comp_files\Bunnings_NPC_2024) - Prediction Accuracy: 66.7% 
 ## Japan Rugby League One D2
 
 
