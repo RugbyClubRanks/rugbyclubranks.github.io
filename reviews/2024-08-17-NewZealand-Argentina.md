@@ -11,7 +11,7 @@ categories: "Rugby Championship 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.823, which translates to predicting New Zealand to win by 13.9.
 
-Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 20 to 33
+Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 20 to 34
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ New Zealand by 17.1 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             61 | Thomas Gallo         |             94.55 |        1 |             91.4  | Tamaiti Williams    |             53 |
-|             61 | Julian Montoya       |             90.47 |        2 |             98.22 | Codie Taylor        |             54 |
-|             51 | Lucio Sordoni        |             95.19 |        3 |             88.95 | Tyrel Lomax         |             51 |
-|             80 | Marcos Kremer        |             93.49 |        4 |             94.77 | Tupou Vaa'i         |             80 |
-|             60 | Pedro Rubiolo        |             47.73 |        5 |             46.45 | Sam Darry           |             55 |
+|             61 | Thomas Gallo         |             94.55 |        1 |             91.39 | Tamaiti Williams    |             53 |
+|             61 | Julian Montoya       |             90.47 |        2 |             98.38 | Codie Taylor        |             54 |
+|             51 | Lucio Sordoni        |             95.18 |        3 |             88.86 | Tyrel Lomax         |             51 |
+|             80 | Marcos Kremer        |             93.69 |        4 |             94.77 | Tupou Vaa'i         |             80 |
+|             60 | Pedro Rubiolo        |             47.53 |        5 |             46.45 | Sam Darry           |             55 |
 |             80 | Pablo Matera         |             99.52 |        6 |             98.46 | Ethan Blackadder    |             80 |
 |             80 | Juan Martin Gonzalez |             96.16 |        7 |             98.66 | Dalton Papalii      |             51 |
-|             51 | Joaquin Oviedo       |             90.64 |        8 |             98.96 | Ardie Savea         |             80 |
+|             51 | Joaquin Oviedo       |             90.44 |        8 |             98.75 | Ardie Savea         |             80 |
 |             43 | Gonzalo Bertranou    |             81.49 |        9 |             97.11 | TJ Perenara         |             51 |
-|             46 | Santiago Carreras    |             87.14 |       10 |             97.96 | Damian McKenzie     |             51 |
-|             77 | Mateo Carreras       |             67.57 |       11 |             86.25 | Caleb Clarke        |             60 |
-|             80 | Santiago Chocobares  |             69.38 |       12 |             94.69 | Jordie Barrett      |             80 |
-|             80 | Lucio Cinti          |             68.12 |       13 |             89.27 | Rieko Ioane         |             77 |
-|             43 | Matias Moroni        |             99.16 |       14 |             97.68 | Will Jordan         |             80 |
+|             46 | Santiago Carreras    |             87.09 |       10 |             97.95 | Damian McKenzie     |             51 |
+|             77 | Mateo Carreras       |             67.1  |       11 |             86.25 | Caleb Clarke        |             60 |
+|             80 | Santiago Chocobares  |             69.13 |       12 |             94.58 | Jordie Barrett      |             80 |
+|             80 | Lucio Cinti          |             68.2  |       13 |             89.26 | Rieko Ioane         |             77 |
+|             43 | Matias Moroni        |             99.16 |       14 |             97.77 | Will Jordan         |             80 |
 |             80 | Juan Cruz Mallia     |             99.59 |       15 |            100    | Beauden Barrett     |             80 |
 |             19 | Ignacio Ruiz         |             94.51 |       16 |             95.64 | Asafo Aumua         |             29 |
 |             19 | Mayco Vivas          |              5.29 |       17 |             99.45 | Ofa Tu'ungafasi     |             27 |
-|             29 | Joel Sclavi          |             88.56 |       18 |              1.42 | Fletcher Newell     |             29 |
-|             29 | Franco Molina        |             74.46 |       19 |             79.09 | Josh Lord           |             25 |
+|             29 | Joel Sclavi          |             88.94 |       18 |              1.42 | Fletcher Newell     |             29 |
+|             29 | Franco Molina        |             74.56 |       19 |             79.09 | Josh Lord           |             25 |
 |             20 | Tomas Lavanini       |             93.89 |       20 |             99.33 | Sam Cane            |             29 |
-|             37 | Lautaro Bazan Velez  |             49.24 |       21 |             83.02 | Cortez Ratima       |             29 |
-|             37 | Tomas Albornoz       |             85.92 |       22 |             96.35 | Anton Lienert-Brown |             20 |
+|             37 | Lautaro Bazan Velez  |             49.24 |       21 |             83.19 | Cortez Ratima       |             29 |
+|             37 | Tomas Albornoz       |             85.86 |       22 |             96.35 | Anton Lienert-Brown |             20 |
 |             37 | Bautista Delguy      |             88.66 |       23 |             82.71 | Mark Tele'a         |             29 |
 

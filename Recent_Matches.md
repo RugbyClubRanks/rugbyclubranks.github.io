@@ -76,7 +76,7 @@ Competition Error: 16.11 points per match
 
 Last Round Accuracy: 2 of 5 (40.0%)
 
-Last Round Error: 18.88 points per match
+Last Round Error: 18.87 points per match
 
 [2024-08-16 Blue Bulls at Pumas; 40-24](reviews//2024-08-16-Pumas-BlueBulls)
 
@@ -100,14 +100,14 @@ Last Round Accuracy: 3 of 6 (50.0%)
 
 Last Round Error: 12.8 points per match
 
-[2024-08-17 CASI at Regatas Bella Vista; 24-30](reviews//2024-08-17-RegatasBellaVista-CASI)
-
-[2024-08-17 Alumni at Newman; 19-30](reviews//2024-08-17-Newman-Alumni)
+[2024-08-17 Atletico del Rosario at Buenos Aires; 27-12](reviews//2024-08-17-BuenosAires-AtleticodelRosario)
 
 [2024-08-17 CUBA at San Luis; 28-31](reviews//2024-08-17-SanLuis-CUBA)
 
-[2024-08-17 Champagnat at Belgrano; 25-47](reviews//2024-08-17-Belgrano-Champagnat)
+[2024-08-17 Alumni at Newman; 19-30](reviews//2024-08-17-Newman-Alumni)
 
 [2024-08-17 SIC at Hindu; 44-12](reviews//2024-08-17-Hindu-SIC)
 
-[2024-08-17 Atletico del Rosario at Buenos Aires; 27-12](reviews//2024-08-17-BuenosAires-AtleticodelRosario)
+[2024-08-17 Champagnat at Belgrano; 25-47](reviews//2024-08-17-Belgrano-Champagnat)
+
+[2024-08-17 CASI at Regatas Bella Vista; 24-30](reviews//2024-08-17-RegatasBellaVista-CASI)

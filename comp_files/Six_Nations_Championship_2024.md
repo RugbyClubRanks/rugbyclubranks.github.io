@@ -1,6 +1,6 @@
 ---  
 title: "Six Nations Championship 2024 Status"  
-date: 2024-08-19 6:00:00 -0500  
+date: 2024-08-22 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -31,12 +31,12 @@ aside:
 
 | Club     |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Ireland  |                   5 |    4.5 |             47.0869  |                   0.4 |                2.9 |                 21.5 |
-| Scotland |                   5 |    2.9 |             11.7731  |                   1.4 |                1.6 |                 14.5 |
-| France   |                   5 |    2.8 |              5.92827 |                   1.2 |                1.1 |                 13.5 |
-| England  |                   5 |    2.7 |             -1.19881 |                   1.2 |                1   |                 13.2 |
-| Italy    |                   5 |    1.6 |            -16.0617  |                   1.6 |                0.6 |                  8.8 |
-| Wales    |                   5 |    0.5 |            -47.5278  |                   1.3 |                0.8 |                  3.9 |
+| Ireland  |                   5 |    4.5 |             46.6544  |                   0.4 |                2.9 |                 21.5 |
+| Scotland |                   5 |    2.9 |             13.2653  |                   1.4 |                1.7 |                 14.7 |
+| France   |                   5 |    2.7 |              4.91445 |                   1.3 |                1.2 |                 13.2 |
+| England  |                   5 |    2.7 |             -1.4896  |                   1.2 |                1   |                 13.1 |
+| Italy    |                   5 |    1.7 |            -15.8696  |                   1.6 |                0.6 |                  8.9 |
+| Wales    |                   5 |    0.5 |            -47.475   |                   1.4 |                0.8 |                  3.9 |
 
 
 
@@ -45,12 +45,12 @@ aside:
 
 | Club     |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Ireland  |              10 |    8.5 |            131.087   |                   1.4 |                5.9 |                 41.5 |
-| France   |              10 |    5.8 |             11.9283  |                   1.2 |                2.1 |                 28.5 |
-| England  |              10 |    5.7 |             -6.19881 |                   2.2 |                2   |                 27.2 |
-| Scotland |              10 |    4.9 |             11.7731  |                   4.4 |                2.6 |                 26.5 |
-| Italy    |              10 |    3.6 |            -50.0617  |                   2.6 |                0.6 |                 19.8 |
-| Wales    |              10 |    0.5 |            -98.5278  |                   4.3 |                1.8 |                  7.9 |
+| Ireland  |              10 |    8.5 |             130.654  |                   1.4 |                5.9 |                 41.5 |
+| France   |              10 |    5.7 |              10.9145 |                   1.3 |                2.2 |                 28.2 |
+| England  |              10 |    5.7 |              -6.4896 |                   2.2 |                2   |                 27.1 |
+| Scotland |              10 |    4.9 |              13.2653 |                   4.4 |                2.7 |                 26.7 |
+| Italy    |              10 |    3.7 |             -49.8696 |                   2.6 |                0.6 |                 19.9 |
+| Wales    |              10 |    0.5 |             -98.475  |                   4.4 |                1.8 |                  7.9 |
 
 
 
@@ -71,7 +71,7 @@ aside:
 ### France V Wales on 2025/01/31
 
 
-Average Margin: France by 12.1
+Average Margin: France by 12.0
 
 Average Scoreline: 32-20
 
@@ -84,7 +84,7 @@ Average Scoreline: 32-20
 ### Ireland V England on 2025/02/01
 
 
-Average Margin: Ireland by 12.6
+Average Margin: Ireland by 12.2
 
 Average Scoreline: 34-22
 
@@ -97,7 +97,7 @@ Average Scoreline: 34-22
 ### Scotland V Italy on 2025/02/01
 
 
-Average Margin: Scotland by 8.0
+Average Margin: Scotland by 8.2
 
 Average Scoreline: 31-23
 
@@ -112,7 +112,7 @@ Average Scoreline: 31-23
 ### Italy V Wales on 2025/02/08
 
 
-Average Margin: Italy by 7.6
+Average Margin: Italy by 7.4
 
 Average Scoreline: 31-24
 
@@ -138,7 +138,7 @@ Average Scoreline: 28-27
 ### Scotland V Ireland on 2025/02/09
 
 
-Average Margin: Ireland by 3.9
+Average Margin: Ireland by 3.4
 
 Average Scoreline: 29-26
 
@@ -153,7 +153,7 @@ Average Scoreline: 29-26
 ### England V Scotland on 2025/02/22
 
 
-Average Margin: England by 1.1
+Average Margin: England by 0.9
 
 Average Scoreline: 29-28
 
@@ -179,7 +179,7 @@ Average Scoreline: 36-23
 ### Italy V France on 2025/02/23
 
 
-Average Margin: France by 1.5
+Average Margin: France by 1.2
 
 Average Scoreline: 26-25
 
@@ -194,7 +194,7 @@ Average Scoreline: 26-25
 ### Scotland V Wales on 2025/03/08
 
 
-Average Margin: Scotland by 12.2
+Average Margin: Scotland by 12.5
 
 Average Scoreline: 34-21
 
@@ -207,7 +207,7 @@ Average Scoreline: 34-21
 ### Ireland V France on 2025/03/08
 
 
-Average Margin: Ireland by 10.0
+Average Margin: Ireland by 10.4
 
 Average Scoreline: 30-20
 
@@ -220,7 +220,7 @@ Average Scoreline: 30-20
 ### England V Italy on 2025/03/09
 
 
-Average Margin: England by 6.1
+Average Margin: England by 5.6
 
 Average Scoreline: 29-23
 
@@ -248,7 +248,7 @@ Average Scoreline: 30-22
 ### Wales V England on 2025/03/15
 
 
-Average Margin: England by 3.1
+Average Margin: England by 3.2
 
 Average Scoreline: 30-27
 
@@ -261,7 +261,7 @@ Average Scoreline: 30-27
 ### France V Scotland on 2025/03/15
 
 
-Average Margin: France by 3.5
+Average Margin: France by 3.1
 
 Average Scoreline: 30-26
 
