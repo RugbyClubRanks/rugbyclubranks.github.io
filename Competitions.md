@@ -82,7 +82,7 @@ key: page-recents
 ## Pacific Nations Cup
 
 
-[2024](comp_files\Pacific_Nations_Cup_2024)
+[2024](comp_files\Pacific_Nations_Cup_2024) - Prediction Accuracy: 100.0% 
 ## Autumn Nations Series
 
 
@@ -336,7 +336,7 @@ key: page-recents
 ## URBA Top 13
 
 
-[2024](comp_files\URBA_Top_13_2024) - Prediction Accuracy: 64.6% 
+[2024](comp_files\URBA_Top_13_2024) - Prediction Accuracy: 64.2% 
 
 [2023](comp_files\URBA_Top_13_2023) - Prediction Accuracy: 61.5% 
 
@@ -368,7 +368,7 @@ key: page-recents
 ## Bunnings NPC
 
 
-[2024](comp_files\Bunnings_NPC_2024) - Prediction Accuracy: 66.7% 
+[2024](comp_files\Bunnings_NPC_2024) - Prediction Accuracy: 68.8% 
 ## Japan Rugby League One D2
 
 

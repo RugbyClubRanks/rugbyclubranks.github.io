@@ -5,36 +5,22 @@ key: page-recents
 ---
 # International Matches
 
-## International Test Match
+## Pacific Nations Cup
 
 
-[In depth model review and projections for International Test Match 2024](comp_files/International_Test_Match_2024)
+[In depth model review and projections for Pacific Nations Cup 2024](comp_files/Pacific_Nations_Cup_2024)
 
-Competition Accuracy: 66 of 87 (75.86%)
+Competition Accuracy: 2 of 2 (100.0%)
 
-Competition Error: 20.18 points per match
-
-Last Round Accuracy: 33 of 38 (86.84%)
-
-Last Round Error: 16.11 points per match
-
-[2024-08-18 Paraguay at Brazil; 17-77](reviews//2024-08-18-Brazil-Paraguay)
-## Rugby Championship
-
-
-[In depth model review and projections for Rugby Championship 2024](comp_files/Rugby_Championship_2024)
-
-Competition Accuracy: 3 of 4 (75.0%)
-
-Competition Error: 16.97 points per match
+Competition Error: 23.3 points per match
 
 Last Round Accuracy: 2 of 2 (100.0%)
 
-Last Round Error: 14.03 points per match
+Last Round Error: 23.3 points per match
 
-[2024-08-17 South Africa at Australia; 30-12](reviews//2024-08-17-Australia-SouthAfrica)
+[2024-08-23 Samoa at Fiji; 16-42](reviews//2024-08-23-Fiji-Samoa)
 
-[2024-08-17 Argentina at New Zealand; 10-42](reviews//2024-08-17-NewZealand-Argentina)
+[2024-08-25 Japan at Canada; 55-28](reviews//2024-08-25-Canada-Japan)
 # Domestic Leagues
 
 ## Bunnings NPC
@@ -42,72 +28,90 @@ Last Round Error: 14.03 points per match
 
 [In depth model review and projections for Bunnings NPC 2024](comp_files/Bunnings_NPC_2024)
 
-Competition Accuracy: 10 of 15 (66.67%)
+Competition Accuracy: 13 of 19 (68.42%)
 
-Competition Error: 6.93 points per match
+Competition Error: 9.96 points per match
 
 Last Round Accuracy: 6 of 7 (85.71%)
 
-Last Round Error: 4.58 points per match
+Last Round Error: 13.39 points per match
 
-[2024-08-14 Counties Manukau at Bay of Plenty; 31-44](reviews//2024-08-14-BayofPlenty-CountiesManukau)
+[2024-08-23 Northland at Hawke's Bay; 30-55](reviews//2024-08-23-Hawke'sBay-Northland)
 
-[2024-08-16 Manawatu at Northland; 18-35](reviews//2024-08-16-Northland-Manawatu)
+[2024-08-24 Tasman at Counties Manukau; 48-3](reviews//2024-08-24-CountiesManukau-Tasman)
 
-[2024-08-16 Auckland at Otago; 25-27](reviews//2024-08-16-Otago-Auckland)
+[2024-08-25 Bay of Plenty at Otago; 26-31](reviews//2024-08-25-Otago-BayofPlenty)
 
-[2024-08-16 Canterbury at Tasman; 7-22](reviews//2024-08-16-Tasman-Canterbury)
-
-[2024-08-17 Southland at Hawke's Bay; 17-31](reviews//2024-08-17-Hawke'sBay-Southland)
-
-[2024-08-17 North Harbour at Bay of Plenty; 20-24](reviews//2024-08-17-BayofPlenty-NorthHarbour)
-
-[2024-08-17 Taranaki at Wellington; 19-26](reviews//2024-08-17-Wellington-Taranaki)
-
-[2024-08-18 Waikato at Counties Manukau; 26-20](reviews//2024-08-18-CountiesManukau-Waikato)
+[2024-08-25 Manawatu at Wellington; 31-39](reviews//2024-08-25-Wellington-Manawatu)
 ## Currie Cup
 
 
 [In depth model review and projections for Currie Cup 2024](comp_files/Currie_Cup_2024)
 
-Competition Accuracy: 18 of 35 (51.43%)
+Competition Accuracy: 21 of 40 (52.5%)
 
-Competition Error: 16.11 points per match
+Competition Error: 15.25 points per match
 
-Last Round Accuracy: 2 of 5 (40.0%)
+Last Round Accuracy: 3 of 5 (60.0%)
 
-Last Round Error: 18.87 points per match
+Last Round Error: 9.24 points per match
 
-[2024-08-16 Blue Bulls at Pumas; 40-24](reviews//2024-08-16-Pumas-BlueBulls)
+[2024-08-23 Griquas at Blue Bulls; 24-47](reviews//2024-08-23-BlueBulls-Griquas)
 
-[2024-08-17 Western Province at Golden Lions; 22-41](reviews//2024-08-17-GoldenLions-WesternProvince)
+[2024-08-24 Natal Sharks at Western Province; 31-23](reviews//2024-08-24-WesternProvince-NatalSharks)
 
-[2024-08-17 Natal Sharks at Free State Cheetahs; 25-20](reviews//2024-08-17-FreeStateCheetahs-NatalSharks)
+[2024-08-24 Sharks at Western Province; 31-23](reviews//2024-08-24-WesternProvince-Sharks)
 
-[2024-08-17 Sharks at Free State Cheetahs; 25-20](reviews//2024-08-17-FreeStateCheetahs-Sharks)
+[2024-08-24 Golden Lions at Free State Cheetahs; 38-21](reviews//2024-08-24-FreeStateCheetahs-GoldenLions)
 
-[2024-08-18 Griquas at Griffons; 59-7](reviews//2024-08-18-Griffons-Griquas)
+[2024-08-25 Pumas at Griffons; 45-26](reviews//2024-08-25-Griffons-Pumas)
+## Nationale
+
+
+[In depth model review and projections for Nationale 2024](comp_files/Nationale_2024)
+
+Competition Accuracy: 6 of 8 (75.0%)
+
+Competition Error: 9.49 points per match
+
+Last Round Accuracy: 5 of 7 (71.43%)
+
+Last Round Error: 8.38 points per match
+
+[2024-08-23 Albi at Carcassonne; 19-27](reviews//2024-08-23-Carcassonne-Albi)
+
+[2024-08-23 Carqueiranne-Hyeres at Massy; 0-25](reviews//2024-08-23-Massy-Carqueiranne-Hyeres)
+
+[2024-08-23 Rouen at US Bressane; 20-17](reviews//2024-08-23-USBressane-Rouen)
+
+[2024-08-24 Tarbes at Perigueux; 13-24](reviews//2024-08-24-Perigueux-Tarbes)
+
+[2024-08-24 Marcq-en-Baroeul at Langon; 12-24](reviews//2024-08-24-Langon-Marcq-en-Baroeul)
+
+[2024-08-24 Suresnes at Narbonne; 18-23](reviews//2024-08-24-Narbonne-Suresnes)
+
+[2024-08-24 Chambery at Bourgoin-Jallieu; 24-20](reviews//2024-08-24-Bourgoin-Jallieu-Chambery)
 ## URBA Top 13
 
 
-[In depth model review and projections for URBA Top 13 2024](comp_files/URBA_Top_13_2024)
+[In depth model review and projections for URBA Top 13 2023](comp_files/URBA_Top_13_2023)
 
-Competition Accuracy: 62 of 96 (64.58%)
+Competition Accuracy: 22 of 33 (66.67%)
 
-Competition Error: 12.92 points per match
+Competition Error: 10.82 points per match
 
-Last Round Accuracy: 3 of 6 (50.0%)
+Last Round Accuracy: 6 of 7 (85.71%)
 
-Last Round Error: 12.8 points per match
+Last Round Error: 10.71 points per match
 
-[2024-08-17 Atletico del Rosario at Buenos Aires; 27-12](reviews//2024-08-17-BuenosAires-AtleticodelRosario)
+[2024-08-24 Regatas Bella Vista at CUBA; 23-28](reviews//2024-08-24-CUBA-RegatasBellaVista)
 
-[2024-08-17 CUBA at San Luis; 28-31](reviews//2024-08-17-SanLuis-CUBA)
+[2024-08-24 Belgrano at Atletico del Rosario; 31-35](reviews//2024-08-24-AtleticodelRosario-Belgrano)
 
-[2024-08-17 Alumni at Newman; 19-30](reviews//2024-08-17-Newman-Alumni)
+[2024-08-24 Hindu at Champagnat; 35-33](reviews//2024-08-24-Champagnat-Hindu)
 
-[2024-08-17 SIC at Hindu; 44-12](reviews//2024-08-17-Hindu-SIC)
+[2024-08-24 Buenos Aires at Newman; 19-45](reviews//2024-08-24-Newman-BuenosAires)
 
-[2024-08-17 Champagnat at Belgrano; 25-47](reviews//2024-08-17-Belgrano-Champagnat)
+[2024-08-24 CASI at Alumni; 25-37](reviews//2024-08-24-Alumni-CASI)
 
-[2024-08-17 CASI at Regatas Bella Vista; 24-30](reviews//2024-08-17-RegatasBellaVista-CASI)
+[2024-08-24 San Luis at SIC; 27-29](reviews//2024-08-24-SIC-SanLuis)
