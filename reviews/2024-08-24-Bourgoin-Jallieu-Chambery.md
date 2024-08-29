@@ -11,7 +11,7 @@ categories: "Nationale 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.595, which translates to predicting Bourgoin-Jallieu to win by 3.4.
 
-Our Over/Under is 37.5 - and combined with the spread above, we have a predicted scoreline of 17 to 21
+Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 21 to 24
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -42,7 +42,7 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction without Player Minutes: Chambery by 0.1
 
 
-Chambery by 7.6 on a neutral pitch
+Chambery by 7.7 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Chambery by 7.6 on a neutral pitch
 
 |   Away Minutes | Away Player                  |   Away Percentile |   Number |   Home Percentile | Home Player       |   Home Minutes |
 |---------------:|:-----------------------------|------------------:|---------:|------------------:|:------------------|---------------:|
-|             80 | Nugzar Somkhishvili          |             82.45 |        1 |             59.94 | Rémy Gaborit      |             50 |
-|             80 | Yan Tabarot                  |              2.11 |        2 |             67.69 | Maxime Castant    |             80 |
-|             73 | Lasha Tabidze                |             67.15 |        3 |             87.74 | Dimitri Tchapnga  |             40 |
-|             80 | Fabien Witz                  |             53.16 |        4 |             41.01 | Thomas Adélaïde   |             55 |
-|             24 | Taniela Matakaiongo          |             33.79 |        5 |              0.99 | Morgan Eames      |             49 |
-|             54 | Jean-Baptiste Grenod         |             88.82 |        6 |             16.03 | Sam Daly          |             80 |
-|             48 | Colin Lebian                 |             53.16 |        7 |             12.54 | Kevin Rivoire     |             18 |
-|             13 | Tui Uru                      |             82.5  |        8 |              5.42 | Poutasi Luafutu   |             80 |
-|             60 | Aubin Eymeri                 |             27.74 |        9 |             32.53 | Martin Doan       |             40 |
-|              7 | Thibault Moreno              |             41.86 |       10 |             82.06 | Nicolas Vuillemin |             40 |
-|             60 | Arthur Nennig                |             82.5  |       11 |             77.14 | Joe Ravouvou      |             60 |
-|             20 | Bastien Reymond              |             64.87 |       12 |             11.22 | Aviata Silago     |             25 |
-|             80 | Va'aufauese Apelu Maliko     |             64.13 |       13 |              3.07 | Christopher Bosch |             80 |
-|             32 | Paul Baptiste Florent Altier |             63.78 |       14 |              1.88 | Remi Bouet        |             80 |
-|             80 | Thomas Hecquet               |             49.59 |       15 |              1.04 | Antoine Renaud    |             40 |
-|             80 | Mateo Guerret                |             37.25 |       16 |             12.9  | Lucas Dycke       |             80 |
-|             62 | Youenn Floch                 |             39.37 |       17 |             39.33 | Robin Gascou      |             31 |
-|             20 | Ahmed Tidiane Kane           |             76.09 |       18 |            nan    | Kamil Bouregba    |             31 |
-|             26 | Baptiste Collet              |             23.72 |       19 |            nan    | Julien Ratajczak  |             30 |
-|             20 | Arwel Robson                 |            nan    |       20 |            nan    | Keynan Knox       |             80 |
-|             67 | Gela Murusidze               |            nan    |       21 |             19.76 | Léandre Cotte     |             80 |
-|             49 | Alessio Caiolo               |            nan    |       22 |            nan    | Tom Danovaro      |             56 |
-|             80 | Antoine Ferreira             |            nan    |       23 |             46.4  | Liam Rimet        |             55 |
+|             80 | Nugzar Somkhishvili          |             82.05 |        1 |             56.92 | Rémy Gaborit      |             80 |
+|             80 | Yan Tabarot                  |              2.12 |        2 |             67.86 | Maxime Castant    |             80 |
+|             55 | Lasha Tabidze                |             64.57 |        3 |             87.84 | Dimitri Tchapnga  |             40 |
+|             57 | Fabien Witz                  |             50.6  |        4 |             41.37 | Thomas Adélaïde   |             55 |
+|             80 | Taniela Matakaiongo          |             39.19 |        5 |              0.99 | Morgan Eames      |             49 |
+|             80 | Jean-Baptiste Grenod         |             89.03 |        6 |             16.26 | Sam Daly          |             80 |
+|             13 | Colin Lebian                 |             50.24 |        7 |             10.97 | Kevin Rivoire     |             60 |
+|             80 | Tui Uru                      |             84.07 |        8 |              6.92 | Poutasi Luafutu   |              7 |
+|             60 | Aubin Eymeri                 |             29.6  |        9 |             34.25 | Martin Doan       |             25 |
+|             80 | Thibault Moreno              |             49.59 |       10 |             81.12 | Nicolas Vuillemin |             80 |
+|             80 | Arthur Nennig                |             82.8  |       11 |             77.79 | Joe Ravouvou      |             50 |
+|             54 | Bastien Reymond              |             67.56 |       12 |             10.99 | Aviata Silago     |             40 |
+|             20 | Va'aufauese Apelu Maliko     |             60.3  |       13 |              3.74 | Christopher Bosch |             40 |
+|             48 | Paul Baptiste Florent Altier |             65.78 |       14 |              1.89 | Remi Bouet        |             80 |
+|             26 | Thomas Hecquet               |             43.75 |       15 |              1.04 | Antoine Renaud    |             40 |
+|             80 | Mateo Guerret                |             37.15 |       16 |             13.12 | Lucas Dycke       |             31 |
+|             67 | Youenn Floch                 |             39.59 |       17 |             39.38 | Robin Gascou      |             80 |
+|             73 | Ahmed Tidiane Kane           |             76.19 |       18 |            nan    | Kamil Bouregba    |             31 |
+|             18 | Baptiste Collet              |             23.75 |       19 |            nan    | Julien Ratajczak  |             30 |
+|             20 | Arwel Robson                 |            nan    |       20 |            nan    | Keynan Knox       |             25 |
+|             20 | Gela Murusidze               |            nan    |       21 |             19.84 | Léandre Cotte     |             49 |
+|             32 | Alessio Caiolo               |            nan    |       22 |            nan    | Tom Danovaro      |             24 |
+|             56 | Antoine Ferreira             |            nan    |       23 |             46.3  | Liam Rimet        |             62 |
 

@@ -2,14 +2,14 @@
 layout: page  
 title: New Zealand at South Africa  
 date: 2024-08-31 18:00:00 -0500  
-categories: "Rugby Championship 2024" match projection imputed  
+categories: "Rugby Championship 2024" match projection  
 ---
 # New Zealand at South Africa
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.757, which translates to predicting South Africa to win by 9.9.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.684, which translates to predicting South Africa to win by 10.1.
 
 Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 20 to 30
 
@@ -39,8 +39,57 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Imputed Lineups: South Africa by 14.0
+## Prediction without Player Minutes: New Zealand by 4.9
 
 
-South Africa by 10.5 on a neutral pitch
+New Zealand by 8.5 on a neutral pitch
+
+
+## Projected Performances - Player Model
+
+
+<p float="left">
+<img src="plots/performances_plr_2024-08-31-SouthAfrica-NewZealand.png" width="99%" />
+</p>
+
+## Projected Spreads - Player Model
+
+
+<p float="left">
+<img src="plots/spreads_plr_2024-08-31-SouthAfrica-NewZealand.png" width="99%" />
+</p>
+
+## Projected Results - Player Model
+
+
+<p float="left">
+<img src="plots/resultbar_plr_2024-08-31-SouthAfrica-NewZealand.png" width="99%" />
+</p>
+
+
+| Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player               |
+|:--------------------|------------------:|---------:|------------------:|:--------------------------|
+| Tamaiti Williams    |             87.76 |        1 |             99.76 | Ox Nche                   |
+| Codie Taylor        |             98.86 |        2 |             98.04 | Bongi Mbonambi            |
+| Tyrel Lomax         |             85.91 |        3 |             89.05 | Frans Malherbe            |
+| Scott Barrett       |             95.34 |        4 |             94.52 | Pieter-Steph du Toit      |
+| Tupou Vaa'i         |             94.94 |        5 |             89.29 | Ruan Nortje               |
+| Ethan Blackadder    |             98.43 |        6 |             91.58 | Siya Kolisi               |
+| Sam Cane            |             99.12 |        7 |             79.14 | Ben-Jason Dixon           |
+| Ardie Savea         |             98.74 |        8 |             87.21 | Jasper Wiese              |
+| TJ Perenara         |             97.07 |        9 |             95.18 | Cobus Reinach             |
+| Damian McKenzie     |             98.13 |       10 |             73.65 | Sacha Feinberg-Mngomezulu |
+| Caleb Clarke        |             86.86 |       11 |             98.3  | Kurt-Lee Arendse          |
+| Jordie Barrett      |             94.88 |       12 |             99.36 | Damian de Allende         |
+| Rieko Ioane         |             88.69 |       13 |             98.4  | Jesse Kriel               |
+| Will Jordan         |             96.79 |       14 |             99.72 | Cheslin Kolbe             |
+| Beauden Barrett     |            100    |       15 |             92.29 | Aphelele Fassi            |
+| Asafo Aumua         |             95.76 |       16 |            100    | Malcolm Marx              |
+| Ofa Tu'ungafasi     |             99.52 |       17 |             92.83 | Gerhard Steenekamp        |
+| Fletcher Newell     |              1.29 |       18 |             67.79 | Vincent Koch              |
+| Sam Darry           |             56.55 |       19 |             99.21 | Eben Etzebeth             |
+| Samipeni Finau      |             96.77 |       20 |             90.36 | Elrigh Louw               |
+| Cortez Ratima       |             86.4  |       21 |             88.05 | Kwagga Smith              |
+| Anton Lienert-Brown |             95.41 |       22 |             70.57 | Grant Williams            |
+| Mark Tele'a         |             73.82 |       23 |             84.65 | Handre Pollard            |
 

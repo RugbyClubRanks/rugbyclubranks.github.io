@@ -42,5 +42,5 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Imputed Lineups: Tonga by nan
 
 
-Samoa by 4.7 on a neutral pitch
+Samoa by 4.5 on a neutral pitch
 

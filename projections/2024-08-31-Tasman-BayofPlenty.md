@@ -2,14 +2,14 @@
 layout: page  
 title: Bay of Plenty at Tasman  
 date: 2024-08-31 18:00:00 -0500  
-categories: "Bunnings NPC 2024" match projection imputed  
+categories: "NPC 2024" match projection  
 ---
 # Bay of Plenty at Tasman
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.706, which translates to predicting Tasman to win by 7.7.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.624, which translates to predicting Tasman to win by 7.5.
 
 Our Over/Under is 57.5 - and combined with the spread above, we have a predicted scoreline of 25 to 32
 
@@ -39,8 +39,57 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Imputed Lineups: Bay of Plenty by nan
+## Prediction without Player Minutes: Bay of Plenty by 6.8
 
 
-Tasman by 0.3 on a neutral pitch
+Bay of Plenty by 9.8 on a neutral pitch
+
+
+## Projected Performances - Player Model
+
+
+<p float="left">
+<img src="plots/performances_plr_2024-08-31-Tasman-BayofPlenty.png" width="99%" />
+</p>
+
+## Projected Spreads - Player Model
+
+
+<p float="left">
+<img src="plots/spreads_plr_2024-08-31-Tasman-BayofPlenty.png" width="99%" />
+</p>
+
+## Projected Results - Player Model
+
+
+<p float="left">
+<img src="plots/resultbar_plr_2024-08-31-Tasman-BayofPlenty.png" width="99%" />
+</p>
+
+
+| Away Player            |   Away Percentile |   Number |   Home Percentile | Home Player          |
+|:-----------------------|------------------:|---------:|------------------:|:---------------------|
+| Aidan Ross             |            nan    |        1 |            nan    | Ryan Coxon           |
+| Kurt Eklund            |            nan    |        2 |            nan    | Quentin MacDonald    |
+| Benet Kumeroa          |            nan    |        3 |            nan    | Sam Matenga          |
+| Naitoa Ah Kuoi         |            nan    |        4 |            nan    | Quinten Strange      |
+| Justin Sangster        |            nan    |        5 |             15.28 | Antonio Shalfoon     |
+| Jacob Norris           |            nan    |        6 |            nan    | Max Hicks            |
+| Joe Johnston           |            nan    |        7 |            nan    | Braden Stewart       |
+| Nikora Broughton       |            nan    |        8 |            nan    | Fletcher Anderson    |
+| Te Toiroa Tahuriorangi |            nan    |        9 |            nan    | Finlay Christie      |
+| Kaleb Trask            |            nan    |       10 |            nan    | William Havili       |
+| Codemeru Vai           |            nan    |       11 |            nan    | Macca Springer       |
+| Uilisi Halaholo        |            nan    |       12 |            nan    | William Butler       |
+| Emoni Narawa           |            nan    |       13 |            nan    | Timoci Tavatavanawai |
+| Leroy Carter           |            nan    |       14 |             25.42 | Kyren Taumoefolau    |
+| Cole Forbes            |            nan    |       15 |            nan    | Taine Robinson       |
+| Sione Tupou            |            nan    |       16 |            nan    | Samiuela Moli        |
+| Josh Bartlett          |             31.4  |       17 |            nan    | Monu Moli            |
+| Filipe Vakasiuola      |            nan    |       18 |            nan    | Quinn Harrison-Jones |
+| Semisi Paea            |             68.35 |       19 |            nan    | Tim Sail             |
+| Kalin Felise           |            nan    |       20 |             38.36 | Johnny Lee           |
+| Flynn Henderson        |            nan    |       21 |            nan    | Louie Chapman        |
+| Lucas Cashmore         |            nan    |       22 |            nan    | Campbell Parata      |
+| Fehi Fineanganofo      |            nan    |       23 |            nan    | Jack Gray            |
 

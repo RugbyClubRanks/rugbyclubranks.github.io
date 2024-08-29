@@ -1,6 +1,6 @@
 ---  
 title: "Bunnings NPC 2024 Status"  
-date: 2024-08-27 6:00:00 -0500  
+date: 2024-08-29 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -39,20 +39,20 @@ aside:
 
 | Club             |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Wellington       |                   7 |    5.8 |             64.2938  |                   0.9 |                3.9 |                 28   |
-| Tasman           |                   7 |    5.1 |             31.133   |                   1.4 |                3.3 |                 25   |
-| Taranaki         |                   7 |    4.9 |             53.4713  |                   1.3 |                3.5 |                 24.5 |
-| Canterbury       |                   7 |    4.9 |             32.6142  |                   1.5 |                3   |                 24.2 |
-| Auckland         |                   7 |    4.2 |             19.4903  |                   1.6 |                3.6 |                 22   |
-| Hawke's Bay      |                   7 |    4   |             16.8997  |                   1.8 |                2.8 |                 20.5 |
-| North Harbour    |                   7 |    3.6 |              7.61177 |                   1.6 |                2.8 |                 18.8 |
-| Waikato          |                   7 |    3.1 |             -5.58548 |                   2.1 |                2.8 |                 17.5 |
-| Bay of Plenty    |                   6 |    3   |             14.9336  |                   1.4 |                2.4 |                 15.7 |
-| Otago            |                   7 |    2.5 |            -24.7446  |                   1.9 |                2.7 |                 14.4 |
-| Northland        |                   7 |    2.5 |            -24.421   |                   2   |                2   |                 14.1 |
-| Counties Manukau |                   6 |    2   |            -30.8552  |                   1.4 |                2   |                 11.2 |
-| Southland        |                   7 |    1.9 |            -48.4887  |                   1.7 |                1.5 |                 10.8 |
-| Manawatu         |                   7 |    0.6 |           -106.353   |                   1.1 |                1.4 |                  4.7 |
+| Wellington       |                   7 |    5.8 |             65.4235  |                   0.9 |                3.9 |                 28.2 |
+| Tasman           |                   7 |    4.9 |             27.7585  |                   1.5 |                3.2 |                 24.4 |
+| Taranaki         |                   7 |    4.9 |             53.0796  |                   1.3 |                3.5 |                 24.3 |
+| Auckland         |                   7 |    4.1 |             18.8607  |                   1.6 |                3.6 |                 21.7 |
+| Hawke's Bay      |                   6 |    4   |             28.1519  |                   1.3 |                2.7 |                 19.9 |
+| Canterbury       |                   6 |    3.9 |             20.3723  |                   1.4 |                2.6 |                 19.5 |
+| North Harbour    |                   7 |    3.6 |              7.39613 |                   1.6 |                3   |                 19.1 |
+| Waikato          |                   7 |    3.2 |             -4.6819  |                   2   |                3.1 |                 17.9 |
+| Bay of Plenty    |                   6 |    3   |             14.4508  |                   1.4 |                2.3 |                 15.7 |
+| Otago            |                   7 |    2.6 |            -23.1147  |                   1.9 |                2.6 |                 14.8 |
+| Northland        |                   7 |    2.6 |            -23.8827  |                   2   |                1.9 |                 14.1 |
+| Counties Manukau |                   6 |    2   |            -28.5487  |                   1.4 |                2   |                 11.5 |
+| Southland        |                   7 |    1.9 |            -46.932   |                   1.8 |                1.5 |                 10.8 |
+| Manawatu         |                   7 |    0.5 |           -108.333   |                   1.1 |                1.4 |                  4.6 |
 
 
 
@@ -61,20 +61,20 @@ aside:
 
 | Club             |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Wellington       |              10 |    8.8 |             87.2938  |                   0.9 |                3.9 |                 40   |
-| Tasman           |              10 |    8.1 |            124.133   |                   1.4 |                3.3 |                 37   |
-| Hawke's Bay      |              10 |    7   |             64.8997  |                   1.8 |                2.8 |                 32.5 |
-| Taranaki         |               9 |    5.9 |             62.4713  |                   2.3 |                3.5 |                 29.5 |
-| Bay of Plenty    |              10 |    6   |             41.9336  |                   2.4 |                2.4 |                 28.7 |
-| Canterbury       |               9 |    5.9 |             30.6142  |                   1.5 |                3   |                 28.2 |
-| Auckland         |               9 |    4.2 |              9.49025 |                   2.6 |                3.6 |                 23   |
-| Otago            |              10 |    4.5 |            -26.7446  |                   1.9 |                2.7 |                 22.4 |
-| Waikato          |               9 |    4.1 |            -14.5855  |                   2.1 |                2.8 |                 21.5 |
-| North Harbour    |               9 |    3.6 |             -5.38823 |                   2.6 |                2.8 |                 19.8 |
-| Northland        |              10 |    3.5 |            -45.421   |                   2   |                2   |                 18.1 |
-| Southland        |               9 |    2.9 |            -53.4887  |                   1.7 |                1.5 |                 14.8 |
-| Counties Manukau |              10 |    2   |           -110.855   |                   2.4 |                2   |                 12.2 |
-| Manawatu         |              10 |    0.6 |           -164.353   |                   1.1 |                1.4 |                  4.7 |
+| Wellington       |              10 |    8.8 |             88.4235  |                   0.9 |                3.9 |                 40.2 |
+| Tasman           |              10 |    7.9 |            120.758   |                   1.5 |                3.2 |                 36.4 |
+| Hawke's Bay      |               9 |    7   |             76.1519  |                   1.3 |                2.7 |                 31.9 |
+| Taranaki         |               9 |    5.9 |             62.0796  |                   2.3 |                3.5 |                 29.3 |
+| Bay of Plenty    |              10 |    6   |             41.4508  |                   2.4 |                2.3 |                 28.7 |
+| Canterbury       |               8 |    4.9 |             18.3723  |                   1.4 |                2.6 |                 23.5 |
+| Otago            |              10 |    4.6 |            -25.1147  |                   1.9 |                2.6 |                 22.8 |
+| Auckland         |               9 |    4.1 |              8.86067 |                   2.6 |                3.6 |                 22.7 |
+| Waikato          |               9 |    4.2 |            -13.6819  |                   2   |                3.1 |                 21.9 |
+| North Harbour    |               9 |    3.6 |             -5.60387 |                   2.6 |                3   |                 20.1 |
+| Northland        |              10 |    3.6 |            -44.8827  |                   2   |                1.9 |                 18.1 |
+| Southland        |               9 |    2.9 |            -51.932   |                   1.8 |                1.5 |                 14.8 |
+| Counties Manukau |              10 |    2   |           -108.549   |                   2.4 |                2   |                 12.5 |
+| Manawatu         |              10 |    0.5 |           -166.333   |                   1.1 |                1.4 |                  4.6 |
 
 
 
@@ -92,23 +92,10 @@ aside:
 
 ## Week 5
 
-### Canterbury V Hawke's Bay on 2024/08/28
-
-
-Average Margin: Canterbury by 1.9
-
-Average Scoreline: 30-28
-
-<p float="left">
-<img src="plots/performances_2024-08-28-Canterbury_V_Hawke'sBay.png" width="32%" />
-<img src="plots/resultbar_2024-08-28-Canterbury_V_Hawke'sBay.png" width="32%" />
-<img src="plots/spreads_2024-08-28-Canterbury_V_Hawke'sBay.png" width="32%" />
-</p>
-
 ### Northland V Southland on 2024/08/30
 
 
-Average Margin: Northland by 5.1
+Average Margin: Northland by 5.2
 
 Average Scoreline: 31-26
 
@@ -121,7 +108,7 @@ Average Scoreline: 31-26
 ### Waikato V Auckland on 2024/08/31
 
 
-Average Margin: Waikato by 0.5
+Average Margin: Waikato by 0.3
 
 Average Scoreline: 27-26
 
@@ -134,7 +121,7 @@ Average Scoreline: 27-26
 ### Tasman V Bay of Plenty on 2024/08/31
 
 
-Average Margin: Tasman by 7.7
+Average Margin: Tasman by 7.5
 
 Average Scoreline: 32-25
 
@@ -147,9 +134,9 @@ Average Scoreline: 32-25
 ### Taranaki V Otago on 2024/08/31
 
 
-Average Margin: Taranaki by 13.2
+Average Margin: Taranaki by 13.6
 
-Average Scoreline: 36-23
+Average Scoreline: 37-23
 
 <p float="left">
 <img src="plots/performances_2024-08-31-Taranaki_V_Otago.png" width="32%" />
@@ -160,7 +147,7 @@ Average Scoreline: 36-23
 ### North Harbour V Counties Manukau on 2024/08/31
 
 
-Average Margin: North Harbour by 9.2
+Average Margin: North Harbour by 9.0
 
 Average Scoreline: 30-21
 
@@ -170,30 +157,30 @@ Average Scoreline: 30-21
 <img src="plots/spreads_2024-08-31-NorthHarbour_V_CountiesManukau.png" width="32%" />
 </p>
 
-### Canterbury V Wellington on 2024/09/01
-
-
-Average Margin: Wellington by 2.8
-
-Average Scoreline: 31-28
-
-<p float="left">
-<img src="plots/performances_2024-09-01-Canterbury_V_Wellington.png" width="32%" />
-<img src="plots/resultbar_2024-09-01-Canterbury_V_Wellington.png" width="32%" />
-<img src="plots/spreads_2024-09-01-Canterbury_V_Wellington.png" width="32%" />
-</p>
-
 ### Manawatu V Hawke's Bay on 2024/09/01
 
 
-Average Margin: Hawke's Bay by 17.9
+Average Margin: Hawke's Bay by 19.6
 
-Average Scoreline: 38-20
+Average Scoreline: 38-19
 
 <p float="left">
 <img src="plots/performances_2024-09-01-Manawatu_V_Hawke'sBay.png" width="32%" />
 <img src="plots/resultbar_2024-09-01-Manawatu_V_Hawke'sBay.png" width="32%" />
 <img src="plots/spreads_2024-09-01-Manawatu_V_Hawke'sBay.png" width="32%" />
+</p>
+
+### Canterbury V Wellington on 2024/09/01
+
+
+Average Margin: Wellington by 4.7
+
+Average Scoreline: 33-28
+
+<p float="left">
+<img src="plots/performances_2024-09-01-Canterbury_V_Wellington.png" width="32%" />
+<img src="plots/resultbar_2024-09-01-Canterbury_V_Wellington.png" width="32%" />
+<img src="plots/spreads_2024-09-01-Canterbury_V_Wellington.png" width="32%" />
 </p>
 
 ## Week 6
@@ -224,30 +211,17 @@ Average Scoreline: 39-16
 <img src="plots/spreads_2024-09-06-BayofPlenty_V_Manawatu.png" width="32%" />
 </p>
 
-### Auckland V North Harbour on 2024/09/07
+### Hawke's Bay V Tasman on 2024/09/07
 
 
-Average Margin: Auckland by 8.7
+Average Margin: Hawke's Bay by 2.6
 
-Average Scoreline: 34-26
-
-<p float="left">
-<img src="plots/performances_2024-09-07-Auckland_V_NorthHarbour.png" width="32%" />
-<img src="plots/resultbar_2024-09-07-Auckland_V_NorthHarbour.png" width="32%" />
-<img src="plots/spreads_2024-09-07-Auckland_V_NorthHarbour.png" width="32%" />
-</p>
-
-### Otago V Canterbury on 2024/09/07
-
-
-Average Margin: Canterbury by 3.6
-
-Average Scoreline: 34-30
+Average Scoreline: 29-26
 
 <p float="left">
-<img src="plots/performances_2024-09-07-Otago_V_Canterbury.png" width="32%" />
-<img src="plots/resultbar_2024-09-07-Otago_V_Canterbury.png" width="32%" />
-<img src="plots/spreads_2024-09-07-Otago_V_Canterbury.png" width="32%" />
+<img src="plots/performances_2024-09-07-Hawke'sBay_V_Tasman.png" width="32%" />
+<img src="plots/resultbar_2024-09-07-Hawke'sBay_V_Tasman.png" width="32%" />
+<img src="plots/spreads_2024-09-07-Hawke'sBay_V_Tasman.png" width="32%" />
 </p>
 
 ### Wellington V Southland on 2024/09/07
@@ -263,25 +237,38 @@ Average Scoreline: 41-21
 <img src="plots/spreads_2024-09-07-Wellington_V_Southland.png" width="32%" />
 </p>
 
-### Hawke's Bay V Tasman on 2024/09/07
+### Otago V Canterbury on 2024/09/07
 
 
-Average Margin: Hawke's Bay by 0.8
+Average Margin: Canterbury by 1.7
 
-Average Scoreline: 28-27
+Average Scoreline: 32-30
 
 <p float="left">
-<img src="plots/performances_2024-09-07-Hawke'sBay_V_Tasman.png" width="32%" />
-<img src="plots/resultbar_2024-09-07-Hawke'sBay_V_Tasman.png" width="32%" />
-<img src="plots/spreads_2024-09-07-Hawke'sBay_V_Tasman.png" width="32%" />
+<img src="plots/performances_2024-09-07-Otago_V_Canterbury.png" width="32%" />
+<img src="plots/resultbar_2024-09-07-Otago_V_Canterbury.png" width="32%" />
+<img src="plots/spreads_2024-09-07-Otago_V_Canterbury.png" width="32%" />
+</p>
+
+### Auckland V North Harbour on 2024/09/07
+
+
+Average Margin: Auckland by 9.4
+
+Average Scoreline: 35-25
+
+<p float="left">
+<img src="plots/performances_2024-09-07-Auckland_V_NorthHarbour.png" width="32%" />
+<img src="plots/resultbar_2024-09-07-Auckland_V_NorthHarbour.png" width="32%" />
+<img src="plots/spreads_2024-09-07-Auckland_V_NorthHarbour.png" width="32%" />
 </p>
 
 ### Counties Manukau V Northland on 2024/09/08
 
 
-Average Margin: Counties Manukau by 1.8
+Average Margin: Counties Manukau by 1.9
 
-Average Scoreline: 26-25
+Average Scoreline: 26-24
 
 <p float="left">
 <img src="plots/performances_2024-09-08-CountiesManukau_V_Northland.png" width="32%" />
@@ -292,7 +279,7 @@ Average Scoreline: 26-25
 ### Taranaki V Waikato on 2024/09/08
 
 
-Average Margin: Taranaki by 9.3
+Average Margin: Taranaki by 9.2
 
 Average Scoreline: 35-25
 
@@ -307,9 +294,9 @@ Average Scoreline: 35-25
 ### Otago V Wellington on 2024/09/11
 
 
-Average Margin: Wellington by 10.0
+Average Margin: Wellington by 10.4
 
-Average Scoreline: 37-27
+Average Scoreline: 38-27
 
 <p float="left">
 <img src="plots/performances_2024-09-11-Otago_V_Wellington.png" width="32%" />
@@ -320,9 +307,9 @@ Average Scoreline: 37-27
 ### Southland V Canterbury on 2024/09/13
 
 
-Average Margin: Canterbury by 7.1
+Average Margin: Canterbury by 5.9
 
-Average Scoreline: 28-21
+Average Scoreline: 28-22
 
 <p float="left">
 <img src="plots/performances_2024-09-13-Southland_V_Canterbury.png" width="32%" />
@@ -330,12 +317,25 @@ Average Scoreline: 28-21
 <img src="plots/spreads_2024-09-13-Southland_V_Canterbury.png" width="32%" />
 </p>
 
+### North Harbour V Manawatu on 2024/09/14
+
+
+Average Margin: North Harbour by 17.8
+
+Average Scoreline: 40-22
+
+<p float="left">
+<img src="plots/performances_2024-09-14-NorthHarbour_V_Manawatu.png" width="32%" />
+<img src="plots/resultbar_2024-09-14-NorthHarbour_V_Manawatu.png" width="32%" />
+<img src="plots/spreads_2024-09-14-NorthHarbour_V_Manawatu.png" width="32%" />
+</p>
+
 ### Waikato V Hawke's Bay on 2024/09/14
 
 
-Average Margin: Hawke's Bay by 1.1
+Average Margin: Hawke's Bay by 2.7
 
-Average Scoreline: 31-30
+Average Scoreline: 36-33
 
 <p float="left">
 <img src="plots/performances_2024-09-14-Waikato_V_Hawke'sBay.png" width="32%" />
@@ -346,7 +346,7 @@ Average Scoreline: 31-30
 ### Bay of Plenty V Taranaki on 2024/09/14
 
 
-Average Margin: Bay of Plenty by 0.3
+Average Margin: Bay of Plenty by 0.1
 
 Average Scoreline: 25-25
 
@@ -356,36 +356,10 @@ Average Scoreline: 25-25
 <img src="plots/spreads_2024-09-14-BayofPlenty_V_Taranaki.png" width="32%" />
 </p>
 
-### North Harbour V Manawatu on 2024/09/14
-
-
-Average Margin: North Harbour by 18.2
-
-Average Scoreline: 40-22
-
-<p float="left">
-<img src="plots/performances_2024-09-14-NorthHarbour_V_Manawatu.png" width="32%" />
-<img src="plots/resultbar_2024-09-14-NorthHarbour_V_Manawatu.png" width="32%" />
-<img src="plots/spreads_2024-09-14-NorthHarbour_V_Manawatu.png" width="32%" />
-</p>
-
-### Counties Manukau V Otago on 2024/09/15
-
-
-Average Margin: Otago by 1.0
-
-Average Scoreline: 30-29
-
-<p float="left">
-<img src="plots/performances_2024-09-15-CountiesManukau_V_Otago.png" width="32%" />
-<img src="plots/resultbar_2024-09-15-CountiesManukau_V_Otago.png" width="32%" />
-<img src="plots/spreads_2024-09-15-CountiesManukau_V_Otago.png" width="32%" />
-</p>
-
 ### Tasman V Wellington on 2024/09/15
 
 
-Average Margin: Tasman by 1.0
+Average Margin: Tasman by 0.8
 
 Average Scoreline: 27-26
 
@@ -395,10 +369,23 @@ Average Scoreline: 27-26
 <img src="plots/spreads_2024-09-15-Tasman_V_Wellington.png" width="32%" />
 </p>
 
+### Counties Manukau V Otago on 2024/09/15
+
+
+Average Margin: Otago by 0.5
+
+Average Scoreline: 30-29
+
+<p float="left">
+<img src="plots/performances_2024-09-15-CountiesManukau_V_Otago.png" width="32%" />
+<img src="plots/resultbar_2024-09-15-CountiesManukau_V_Otago.png" width="32%" />
+<img src="plots/spreads_2024-09-15-CountiesManukau_V_Otago.png" width="32%" />
+</p>
+
 ### Northland V Auckland on 2024/09/15
 
 
-Average Margin: Auckland by 5.6
+Average Margin: Auckland by 5.9
 
 Average Scoreline: 32-26
 
@@ -426,9 +413,9 @@ Average Scoreline: 35-29
 ### Hawke's Bay V Taranaki on 2024/09/20
 
 
-Average Margin: Hawke's Bay by 2.2
+Average Margin: Hawke's Bay by 3.3
 
-Average Scoreline: 28-26
+Average Scoreline: 28-25
 
 <p float="left">
 <img src="plots/performances_2024-09-20-Hawke'sBay_V_Taranaki.png" width="32%" />
@@ -439,7 +426,7 @@ Average Scoreline: 28-26
 ### Wellington V Bay of Plenty on 2024/09/21
 
 
-Average Margin: Wellington by 9.9
+Average Margin: Wellington by 10.2
 
 Average Scoreline: 36-26
 
@@ -452,7 +439,7 @@ Average Scoreline: 36-26
 ### Northland V North Harbour on 2024/09/21
 
 
-Average Margin: North Harbour by 0.9
+Average Margin: North Harbour by 0.4
 
 Average Scoreline: 29-28
 
@@ -465,9 +452,9 @@ Average Scoreline: 29-28
 ### Canterbury V Counties Manukau on 2024/09/21
 
 
-Average Margin: Canterbury by 14.2
+Average Margin: Canterbury by 12.8
 
-Average Scoreline: 37-23
+Average Scoreline: 36-23
 
 <p float="left">
 <img src="plots/performances_2024-09-21-Canterbury_V_CountiesManukau.png" width="32%" />
@@ -478,9 +465,9 @@ Average Scoreline: 37-23
 ### Manawatu V Otago on 2024/09/22
 
 
-Average Margin: Otago by 9.6
+Average Margin: Otago by 10.3
 
-Average Scoreline: 32-23
+Average Scoreline: 33-22
 
 <p float="left">
 <img src="plots/performances_2024-09-22-Manawatu_V_Otago.png" width="32%" />
@@ -491,9 +478,9 @@ Average Scoreline: 32-23
 ### Auckland V Southland on 2024/09/22
 
 
-Average Margin: Auckland by 14.8
+Average Margin: Auckland by 14.3
 
-Average Scoreline: 36-21
+Average Scoreline: 36-22
 
 <p float="left">
 <img src="plots/performances_2024-09-22-Auckland_V_Southland.png" width="32%" />
@@ -504,9 +491,9 @@ Average Scoreline: 36-21
 ### Waikato V Tasman on 2024/09/22
 
 
-Average Margin: Tasman by 3.6
+Average Margin: Tasman by 3.3
 
-Average Scoreline: 36-32
+Average Scoreline: 35-32
 
 <p float="left">
 <img src="plots/performances_2024-09-22-Waikato_V_Tasman.png" width="32%" />
@@ -519,7 +506,7 @@ Average Scoreline: 36-32
 ### Taranaki V North Harbour on 2024/09/25
 
 
-Average Margin: Taranaki by 11.6
+Average Margin: Taranaki by 11.9
 
 Average Scoreline: 35-23
 
@@ -532,7 +519,7 @@ Average Scoreline: 35-23
 ### Counties Manukau V Wellington on 2024/09/27
 
 
-Average Margin: Wellington by 13.9
+Average Margin: Wellington by 13.7
 
 Average Scoreline: 39-25
 
@@ -542,10 +529,23 @@ Average Scoreline: 39-25
 <img src="plots/spreads_2024-09-27-CountiesManukau_V_Wellington.png" width="32%" />
 </p>
 
+### Hawke's Bay V Auckland on 2024/09/28
+
+
+Average Margin: Hawke's Bay by 6.4
+
+Average Scoreline: 35-29
+
+<p float="left">
+<img src="plots/performances_2024-09-28-Hawke'sBay_V_Auckland.png" width="32%" />
+<img src="plots/resultbar_2024-09-28-Hawke'sBay_V_Auckland.png" width="32%" />
+<img src="plots/spreads_2024-09-28-Hawke'sBay_V_Auckland.png" width="32%" />
+</p>
+
 ### Otago V Tasman on 2024/09/28
 
 
-Average Margin: Tasman by 7.5
+Average Margin: Tasman by 7.1
 
 Average Scoreline: 35-27
 
@@ -555,23 +555,10 @@ Average Scoreline: 35-27
 <img src="plots/spreads_2024-09-28-Otago_V_Tasman.png" width="32%" />
 </p>
 
-### Hawke's Bay V Auckland on 2024/09/28
-
-
-Average Margin: Hawke's Bay by 4.9
-
-Average Scoreline: 35-30
-
-<p float="left">
-<img src="plots/performances_2024-09-28-Hawke'sBay_V_Auckland.png" width="32%" />
-<img src="plots/resultbar_2024-09-28-Hawke'sBay_V_Auckland.png" width="32%" />
-<img src="plots/spreads_2024-09-28-Hawke'sBay_V_Auckland.png" width="32%" />
-</p>
-
 ### Bay of Plenty V Northland on 2024/09/28
 
 
-Average Margin: Bay of Plenty by 12.7
+Average Margin: Bay of Plenty by 12.3
 
 Average Scoreline: 37-24
 
@@ -584,27 +571,14 @@ Average Scoreline: 37-24
 ### North Harbour V Canterbury on 2024/09/29
 
 
-Average Margin: Canterbury by 2.4
+Average Margin: Canterbury by 0.5
 
-Average Scoreline: 29-27
+Average Scoreline: 28-28
 
 <p float="left">
 <img src="plots/performances_2024-09-29-NorthHarbour_V_Canterbury.png" width="32%" />
 <img src="plots/resultbar_2024-09-29-NorthHarbour_V_Canterbury.png" width="32%" />
 <img src="plots/spreads_2024-09-29-NorthHarbour_V_Canterbury.png" width="32%" />
-</p>
-
-### Southland V Waikato on 2024/09/29
-
-
-Average Margin: Waikato by 4.5
-
-Average Scoreline: 28-23
-
-<p float="left">
-<img src="plots/performances_2024-09-29-Southland_V_Waikato.png" width="32%" />
-<img src="plots/resultbar_2024-09-29-Southland_V_Waikato.png" width="32%" />
-<img src="plots/spreads_2024-09-29-Southland_V_Waikato.png" width="32%" />
 </p>
 
 ### Taranaki V Manawatu on 2024/09/29
@@ -620,12 +594,25 @@ Average Scoreline: 39-13
 <img src="plots/spreads_2024-09-29-Taranaki_V_Manawatu.png" width="32%" />
 </p>
 
+### Southland V Waikato on 2024/09/29
+
+
+Average Margin: Waikato by 4.6
+
+Average Scoreline: 28-23
+
+<p float="left">
+<img src="plots/performances_2024-09-29-Southland_V_Waikato.png" width="32%" />
+<img src="plots/resultbar_2024-09-29-Southland_V_Waikato.png" width="32%" />
+<img src="plots/spreads_2024-09-29-Southland_V_Waikato.png" width="32%" />
+</p>
+
 ## Week 10
 
 ### Tasman V Auckland on 2024/10/02
 
 
-Average Margin: Tasman by 7.7
+Average Margin: Tasman by 7.2
 
 Average Scoreline: 33-25
 
@@ -640,7 +627,7 @@ Average Scoreline: 33-25
 
 Average Margin: Northland by 1.1
 
-Average Scoreline: 26-25
+Average Scoreline: 26-24
 
 <p float="left">
 <img src="plots/performances_2024-10-04-Northland_V_Otago.png" width="32%" />
@@ -653,7 +640,7 @@ Average Scoreline: 26-25
 
 Average Margin: Counties Manukau by 5.6
 
-Average Scoreline: 31-25
+Average Scoreline: 30-25
 
 <p float="left">
 <img src="plots/performances_2024-10-05-Manawatu_V_CountiesManukau.png" width="32%" />
@@ -664,9 +651,9 @@ Average Scoreline: 31-25
 ### Wellington V Hawke's Bay on 2024/10/05
 
 
-Average Margin: Wellington by 8.1
+Average Margin: Wellington by 6.5
 
-Average Scoreline: 31-23
+Average Scoreline: 30-24
 
 <p float="left">
 <img src="plots/performances_2024-10-05-Wellington_V_Hawke'sBay.png" width="32%" />
@@ -679,7 +666,7 @@ Average Scoreline: 31-23
 
 Average Margin: North Harbour by 2.0
 
-Average Scoreline: 27-26
+Average Scoreline: 27-25
 
 <p float="left">
 <img src="plots/performances_2024-10-05-Southland_V_NorthHarbour.png" width="32%" />
@@ -690,7 +677,7 @@ Average Scoreline: 27-26
 ### Auckland V Bay of Plenty on 2024/10/05
 
 
-Average Margin: Auckland by 3.5
+Average Margin: Auckland by 3.3
 
 Average Scoreline: 34-31
 
@@ -703,9 +690,9 @@ Average Scoreline: 34-31
 ### Canterbury V Waikato on 2024/10/05
 
 
-Average Margin: Canterbury by 6.3
+Average Margin: Canterbury by 4.2
 
-Average Scoreline: 33-27
+Average Scoreline: 31-27
 
 <p float="left">
 <img src="plots/performances_2024-10-05-Canterbury_V_Waikato.png" width="32%" />

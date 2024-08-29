@@ -300,7 +300,7 @@ key: page-recents
 ## Currie Cup
 
 
-[2024](comp_files\Currie_Cup_2024) - Prediction Accuracy: 51.4% 
+[2024](comp_files\Currie_Cup_2024) - Prediction Accuracy: 52.5% 
 
 [2023](comp_files\Currie_Cup_2023) - Prediction Accuracy: 56.4% 
 
@@ -312,7 +312,7 @@ key: page-recents
 ## Nationale
 
 
-[2024](comp_files\Nationale_2024)
+[2024](comp_files\Nationale_2024) - Prediction Accuracy: 75.0% 
 
 [2023](comp_files\Nationale_2023) - Prediction Accuracy: 74.9% 
 
@@ -368,7 +368,7 @@ key: page-recents
 ## Bunnings NPC
 
 
-[2024](comp_files\Bunnings_NPC_2024) - Prediction Accuracy: 68.8% 
+[2024](comp_files\Bunnings_NPC_2024) - Prediction Accuracy: 68.4% 
 ## Japan Rugby League One D2
 
 

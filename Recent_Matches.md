@@ -72,11 +72,11 @@ Last Round Error: 9.24 points per match
 
 Competition Accuracy: 6 of 8 (75.0%)
 
-Competition Error: 9.49 points per match
+Competition Error: 9.14 points per match
 
 Last Round Accuracy: 5 of 7 (71.43%)
 
-Last Round Error: 8.38 points per match
+Last Round Error: 8.0 points per match
 
 [2024-08-23 Albi at Carcassonne; 19-27](reviews//2024-08-23-Carcassonne-Albi)
 
