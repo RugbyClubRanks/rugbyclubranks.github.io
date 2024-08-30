@@ -9,7 +9,7 @@ categories: "Pro D2 2024" match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.486, which translates to predicting Beziers to win by -3.1.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.486, which translates to predicting Beziers to win by -2.8.
 
 Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 21 to 24
 
@@ -69,7 +69,7 @@ Beziers by 1.2 on a neutral pitch
 
 | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player             |
 |:--------------------|------------------:|---------:|------------------:|:------------------------|
-| Francisco Fernandes |              7.81 |        1 |            nan    | Sunia Vola              |
+| Francisco Fernandes |              7.92 |        1 |            nan    | Sunia Vola              |
 | Jose Luis Gonzalez  |            nan    |        2 |            nan    | Pierre Strippoli        |
 | Christian Judge     |             59.58 |        3 |            nan    | Luvuyo Pupuma           |
 | Cam Dodson          |            nan    |        4 |            nan    | Tom Murday              |
@@ -77,7 +77,7 @@ Beziers by 1.2 on a neutral pitch
 | William Van Bost    |            nan    |        6 |            nan    | Arthur Vignolles        |
 | Clément Ancely      |            nan    |        7 |            nan    | Louis Suaud             |
 | Otunuku Pauta       |            nan    |        8 |            nan    | Ramiha Smiler           |
-| Samuel Marques      |             91.74 |        9 |            nan    | Jules Solinas           |
+| Samuel Marques      |             91.68 |        9 |            nan    | Jules Solinas           |
 | Charly Malié        |            nan    |       10 |            nan    | Mathis Viard            |
 | Nicolas Plazy       |            nan    |       11 |            nan    | Baptiste Lafond         |
 | Taylor Gontineac    |             79.72 |       12 |            nan    | Luca Cutayar            |
@@ -85,11 +85,11 @@ Beziers by 1.2 on a neutral pitch
 | Pierre Courtaud     |            nan    |       14 |            nan    | Andrzej Charlat         |
 | Gabin Lorre         |            nan    |       15 |            nan    | David Odiete            |
 | Yanis Boulassel     |            nan    |       16 |            nan    | Santiago Ovejero Abdala |
-| Yahnis El Maslouhi  |            nan    |       17 |             34.22 | Facundo Gigena          |
+| Yahnis El Maslouhi  |            nan    |       17 |             34.36 | Facundo Gigena          |
 | Pierre Gayraud      |            nan    |       18 |            nan    | Yann Tivoli             |
-| Gillian Benoy       |             26.39 |       19 |            nan    | Martin Freytes          |
+| Gillian Benoy       |             26.37 |       19 |            nan    | Martin Freytes          |
 | Damien Añon         |            nan    |       20 |            nan    | Bastien Berenguel       |
 | Baptiste Abescat    |            nan    |       21 |            nan    | Thibault Dufau          |
 | Taleta Tupuola      |            nan    |       22 |            nan    | Paul Auradou            |
-| Yannick Arroyo      |            nan    |       23 |             15.22 | Tom Ross                |
+| Yannick Arroyo      |            nan    |       23 |             15.36 | Tom Ross                |
 

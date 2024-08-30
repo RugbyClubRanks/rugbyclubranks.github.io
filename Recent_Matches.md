@@ -10,17 +10,19 @@ key: page-recents
 
 [In depth model review and projections for Pacific Nations Cup 2024](comp_files/Pacific_Nations_Cup_2024)
 
-Competition Accuracy: 2 of 2 (100.0%)
+Competition Accuracy: 3 of 3 (100.0%)
 
-Competition Error: 23.3 points per match
+Competition Error: 17.65 points per match
 
-Last Round Accuracy: 2 of 2 (100.0%)
+Last Round Accuracy: 3 of 3 (100.0%)
 
-Last Round Error: 23.3 points per match
+Last Round Error: 17.65 points per match
 
 [2024-08-23 Samoa at Fiji; 16-42](reviews//2024-08-23-Fiji-Samoa)
 
 [2024-08-25 Japan at Canada; 55-28](reviews//2024-08-25-Canada-Japan)
+
+[2024-08-29 Tonga at Samoa; 17-43](reviews//2024-08-29-Samoa-Tonga)
 # Domestic Leagues
 
 ## Bunnings NPC
@@ -80,9 +82,9 @@ Last Round Error: 8.0 points per match
 
 [2024-08-23 Albi at Carcassonne; 19-27](reviews//2024-08-23-Carcassonne-Albi)
 
-[2024-08-23 Carqueiranne-Hyeres at Massy; 0-25](reviews//2024-08-23-Massy-Carqueiranne-Hyeres)
-
 [2024-08-23 Rouen at US Bressane; 20-17](reviews//2024-08-23-USBressane-Rouen)
+
+[2024-08-23 Carqueiranne-Hyeres at Massy; 0-25](reviews//2024-08-23-Massy-Carqueiranne-Hyeres)
 
 [2024-08-24 Tarbes at Perigueux; 13-24](reviews//2024-08-24-Perigueux-Tarbes)
 
@@ -91,6 +93,20 @@ Last Round Error: 8.0 points per match
 [2024-08-24 Suresnes at Narbonne; 18-23](reviews//2024-08-24-Narbonne-Suresnes)
 
 [2024-08-24 Chambery at Bourgoin-Jallieu; 24-20](reviews//2024-08-24-Bourgoin-Jallieu-Chambery)
+## Pro D2
+
+
+[In depth model review and projections for Pro D2 2024](comp_files/Pro_D2_2024)
+
+Competition Accuracy: 1 of 1 (100.0%)
+
+Competition Error: 6.24 points per match
+
+Last Round Accuracy: 1 of 1 (100.0%)
+
+Last Round Error: 6.24 points per match
+
+[2024-08-29 Oyonnax at Brive; 9-18](reviews//2024-08-29-Brive-Oyonnax)
 ## URBA Top 13
 
 
@@ -106,12 +122,12 @@ Last Round Error: 10.71 points per match
 
 [2024-08-24 Regatas Bella Vista at CUBA; 23-28](reviews//2024-08-24-CUBA-RegatasBellaVista)
 
-[2024-08-24 Belgrano at Atletico del Rosario; 31-35](reviews//2024-08-24-AtleticodelRosario-Belgrano)
+[2024-08-24 Buenos Aires at Newman; 19-45](reviews//2024-08-24-Newman-BuenosAires)
 
 [2024-08-24 Hindu at Champagnat; 35-33](reviews//2024-08-24-Champagnat-Hindu)
 
-[2024-08-24 Buenos Aires at Newman; 19-45](reviews//2024-08-24-Newman-BuenosAires)
-
-[2024-08-24 CASI at Alumni; 25-37](reviews//2024-08-24-Alumni-CASI)
+[2024-08-24 Belgrano at Atletico del Rosario; 31-35](reviews//2024-08-24-AtleticodelRosario-Belgrano)
 
 [2024-08-24 San Luis at SIC; 27-29](reviews//2024-08-24-SIC-SanLuis)
+
+[2024-08-24 CASI at Alumni; 25-37](reviews//2024-08-24-Alumni-CASI)

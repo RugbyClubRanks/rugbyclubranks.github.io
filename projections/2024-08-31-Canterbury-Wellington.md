@@ -9,7 +9,7 @@ categories: "NPC 2024" match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.404, which translates to predicting Wellington to win by 3.4.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.404, which translates to predicting Wellington to win by 3.0.
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -37,10 +37,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Wellington by 13.3
+## Prediction without Player Minutes: Wellington by 8.5
 
 
-Wellington by 16.4 on a neutral pitch
+Wellington by 11.6 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -65,29 +65,29 @@ Wellington by 16.4 on a neutral pitch
 </p>
 
 
-| Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player   |
-|:----------------------|------------------:|---------:|------------------:|:--------------|
-| Xavier Numia          |            nan    |        1 |              30.4 |               |
-| Leni Apisai           |            nan    |        2 |              30.4 |               |
-| Siale Lauaki          |            nan    |        3 |              30.4 |               |
-| Hugo Plummer          |            nan    |        4 |              30.4 |               |
-| Caleb Delany          |             87.4  |        5 |              30.4 |               |
-| Brad Shields          |            nan    |        6 |              30.4 |               |
-| Sione Halalilo        |            nan    |        7 |              30.4 |               |
-| Peter Lakai           |            nan    |        8 |              30.4 |               |
-| Kyle Preston          |            nan    |        9 |              30.4 |               |
-| Callum Harkin         |            nan    |       10 |              30.4 |               |
-| Pepesana Patafilo     |            nan    |       11 |              30.4 |               |
-| Riley Higgins         |            nan    |       12 |              30.4 |               |
-| Peter Umaga-Jensen    |            nan    |       13 |              30.4 |               |
-| Julian Savea          |            nan    |       14 |              30.4 |               |
-| Tjay Clarke           |            nan    |       15 |              30.4 |               |
-| Penieli Poasa         |            nan    |       16 |              30.4 |               |
-| Yota Kamimori         |            nan    |       17 |              30.4 |               |
-| PJ Sheck              |            nan    |       18 |              30.4 |               |
-| Akira Ieremia         |            nan    |       19 |              30.4 |               |
-| Dominic Ropeti        |            nan    |       20 |              30.4 |               |
-| Nui Muriwai           |            nan    |       21 |              30.4 |               |
-| Jackson Garden-Bachop |            nan    |       22 |              30.4 |               |
-| Stanley Solomon       |             25.14 |       23 |              30.4 |               |
+| Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player        |
+|:----------------------|------------------:|---------:|------------------:|:-------------------|
+| Xavier Numia          |            nan    |        1 |             79.47 | Joe Moody          |
+| Leni Apisai           |            nan    |        2 |            nan    | James Mullan       |
+| Siale Lauaki          |            nan    |        3 |            nan    | Jaiden Christian   |
+| Hugo Plummer          |            nan    |        4 |            nan    | Jamie Hannah       |
+| Caleb Delany          |             87.46 |        5 |            nan    | Zach Gallagher     |
+| Brad Shields          |            nan    |        6 |            nan    | Billy Harmon       |
+| Sione Halalilo        |            nan    |        7 |            nan    | Corey Kellow       |
+| Peter Lakai           |            nan    |        8 |            nan    | Torian Barnes      |
+| Kyle Preston          |            nan    |        9 |            nan    | Tyson Belworthy    |
+| Callum Harkin         |            nan    |       10 |            nan    | Shun Miyake        |
+| Pepesana Patafilo     |            nan    |       11 |            nan    | Ngatungane Punivai |
+| Riley Higgins         |            nan    |       12 |            nan    | Jone Rova          |
+| Peter Umaga-Jensen    |            nan    |       13 |            nan    | Braydon Ennor      |
+| Julian Savea          |            nan    |       14 |            nan    | Chay Fihaki        |
+| Tjay Clarke           |            nan    |       15 |            nan    | James White        |
+| Penieli Poasa         |            nan    |       16 |            nan    | Ben Funnell        |
+| Yota Kamimori         |            nan    |       17 |            nan    | Finlay Brewis      |
+| PJ Sheck              |            nan    |       18 |            nan    | Seb Calder         |
+| Akira Ieremia         |            nan    |       19 |             25.67 | Liam Jack          |
+| Dominic Ropeti        |            nan    |       20 |            nan    | Tom Christie       |
+| Nui Muriwai           |            nan    |       21 |            nan    | Nic Shearer        |
+| Jackson Garden-Bachop |            nan    |       22 |            nan    | Dallas McLeod      |
+| Stanley Solomon       |             25.09 |       23 |            nan    | Issac Hutchinson   |
 

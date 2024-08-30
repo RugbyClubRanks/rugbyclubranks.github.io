@@ -9,7 +9,7 @@ categories: "NPC 2024" match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.749, which translates to predicting North Harbour to win by 9.9.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.749, which translates to predicting North Harbour to win by 10.1.
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -67,27 +67,27 @@ North Harbour by 4.4 on a neutral pitch
 
 | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player       |
 |:---------------------|------------------:|---------:|------------------:|:------------------|
-| Kauvaka Kaivelata    |            nan    |        1 |             91.22 | Tevita Mafileo    |
+| Kauvaka Kaivelata    |            nan    |        1 |             91.27 | Tevita Mafileo    |
 | Zuriel Togiatama     |            nan    |        2 |            nan    | Shilo Klein       |
-| Keran van Staden     |            nan    |        3 |             30.43 | Sione Mafileo     |
+| Keran van Staden     |            nan    |        3 |             30.56 | Sione Mafileo     |
 | William Furniss      |            nan    |        4 |            nan    | Mahonri Ngakuru   |
 | James Thompson       |            nan    |        5 |            nan    | Cam Christie      |
 | Leo Ngatai-Tafau     |            nan    |        6 |            nan    | Tristyn Cook      |
 | Cameron Church       |            nan    |        7 |            nan    | Jed Melvin        |
 | Adam Brash           |            nan    |        8 |            nan    | Cameron Suafoa    |
 | Jonathan Taumateine  |            nan    |        9 |            nan    | Bryn Hall         |
-| AJ Alatimu           |             70.54 |       10 |            nan    | Tane Edmed        |
+| AJ Alatimu           |             70.56 |       10 |            nan    | Tane Edmed        |
 | Josh Gray            |            nan    |       11 |            nan    | Sofai Maka        |
 | Riley Hohepa         |            nan    |       12 |            nan    | Tom Barham        |
 | Tevita Ofa           |            nan    |       13 |            nan    | Moses Leo         |
 | Blake Makiri         |            nan    |       14 |            nan    | Kade Banks        |
-| Etene Nanai-Seturo   |             79.02 |       15 |            nan    | Shaun Stevenson   |
+| Etene Nanai-Seturo   |             78.98 |       15 |            nan    | Shaun Stevenson   |
 | Ian West-Stevens     |            nan    |       16 |            nan    | Bryn Gordon       |
-| Ezekiel Lindenmuth   |             25.93 |       17 |             21.74 | Fatongia Paea     |
+| Ezekiel Lindenmuth   |             26.03 |       17 |             21.83 | Fatongia Paea     |
 | Suetena Asomua       |            nan    |       18 |            nan    | Sam Davies        |
 | Jadin Kingi          |            nan    |       19 |            nan    | James Fiebig      |
 | Alamanda Motuga      |            nan    |       20 |            nan    | Karl Ruzich       |
 | Liam Daniela         |            nan    |       21 |            nan    | Siaosi Nginingini |
-| Gibson Popoali'i     |            nan    |       22 |             10.79 | Oscar Koller      |
+| Gibson Popoali'i     |            nan    |       22 |             10.65 | Oscar Koller      |
 | Simon-Peter Toleafoa |            nan    |       23 |            nan    | Tima Fainga'Anuku |
 

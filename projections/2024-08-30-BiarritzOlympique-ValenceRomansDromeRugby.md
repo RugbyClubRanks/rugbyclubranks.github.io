@@ -9,7 +9,7 @@ categories: "Pro D2 2024" match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.451, which translates to predicting Valence Romans Drome Rugby to win by -1.9.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.451, which translates to predicting Valence Romans Drome Rugby to win by -1.6.
 
 Our Over/Under is 37.5 - and combined with the spread above, we have a predicted scoreline of 18 to 20
 
@@ -73,21 +73,21 @@ Biarritz Olympique by 5.3 on a neutral pitch
 | Cyril Deligny       |            nan    |        2 |            nan    | Clément Martinez    |
 | Gareth Milasinovich |            nan    |        3 |            nan    | Nikoloz Narmania    |
 | Ryan Mccauley       |            nan    |        4 |            nan    | Charlie Matthews    |
-| Yassine Maamry      |            nan    |        5 |             78.08 | Piula Fa'asalele    |
+| Yassine Maamry      |            nan    |        5 |             78.11 | Piula Fa'asalele    |
 | Axel Bruchet        |            nan    |        6 |            nan    | Simon Augry         |
 | Matthieu Vachon     |            nan    |        7 |            nan    | Thomas Hébert       |
-| Ilia Spanderashvili |             14.69 |        8 |             62.26 | Masivesi Dakuwaqa   |
-| Thomas Lhuséro      |            nan    |        9 |             61.1  | Kerman Aurrekoetxea |
-| Lucas Méret         |            nan    |       10 |             49.79 | Thomas Dolhagaray   |
-| Thomas Roziere      |             12.5  |       11 |            nan    | Gervais Cordin      |
+| Ilia Spanderashvili |             14.62 |        8 |             62    | Masivesi Dakuwaqa   |
+| Thomas Lhuséro      |            nan    |        9 |             60.83 | Kerman Aurrekoetxea |
+| Lucas Méret         |            nan    |       10 |             49.69 | Thomas Dolhagaray   |
+| Thomas Roziere      |             12.37 |       11 |            nan    | Gervais Cordin      |
 | Louis Marrou        |            nan    |       12 |            nan    | Nathan Van De Ven   |
-| Anatole Pauvert     |            nan    |       13 |             94.14 | Mathieu Acebes      |
+| Anatole Pauvert     |            nan    |       13 |             94.13 | Mathieu Acebes      |
 | Owen Lane           |              2.27 |       14 |            nan    | Arthur Bonneval     |
-| Joris De Moura      |             39    |       15 |            nan    | Kylian Jaminet      |
-| Dorian Marco-Pena   |            nan    |       16 |             58.24 | Yohan Beheregaray   |
+| Joris De Moura      |             38.83 |       15 |            nan    | Kylian Jaminet      |
+| Dorian Marco-Pena   |            nan    |       16 |             58.43 | Yohan Beheregaray   |
 | Julien Royer        |            nan    |       17 |            nan    | François Mur        |
-| Thembelani Bholi    |            nan    |       18 |              1.98 | Adrian Motoc        |
-| Éloi Massot         |            nan    |       19 |             90.4  | Cornell du Preez    |
+| Thembelani Bholi    |            nan    |       18 |              1.99 | Adrian Motoc        |
+| Éloi Massot         |            nan    |       19 |             90.48 | Cornell du Preez    |
 | Tim Menzel          |            nan    |       20 |            nan    | Pierre Pagès        |
 | Ben Neiceru         |            nan    |       21 |            nan    | Edgar Retière       |
 | Adam Vargas         |            nan    |       22 |            nan    | Tyler Morgan        |

@@ -11,7 +11,7 @@ categories: "Nationale 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.554, which translates to predicting US Bressane to win by 1.9.
 
-Our Over/Under is 40.5 - and combined with the spread above, we have a predicted scoreline of 19 to 21
+Our Over/Under is 42.5 - and combined with the spread above, we have a predicted scoreline of 20 to 22
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,26 +69,26 @@ Rouen by 0.1 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             61 | Alexis Decaux         |             85.67 |        1 |             53.38 | Teo Bordenave        |             46 |
-|             77 | Mathieu Bonnot        |             78.79 |        2 |             12.23 | Arnaud Feltrin       |             20 |
-|             77 | Soso Bekoshvili       |             81.4  |        3 |             10.39 | Atonio Ulutuipalelei |             60 |
-|             80 | John-Charles Astle    |             58.13 |        4 |             47.02 | Thomas Déliance      |             80 |
-|             61 | Will Witty            |             53.37 |        5 |             13.39 | Josh Peters          |             60 |
-|             80 | Willy N'Diaye         |              4.21 |        6 |             49.85 | Pierre Reynaud       |             80 |
-|             80 | Tienie Burger         |             90.01 |        7 |              9.21 | Quentin Witt         |             60 |
-|             73 | Julien Ruaud          |             81.34 |        8 |             71.7  | Wael May             |             80 |
-|             80 | Florent Campeggia     |             69.54 |        9 |             59.72 | Jeremy Valencot      |             58 |
-|             80 | Maxime Javaux         |             52.49 |       10 |             32.99 | Nathan Azais         |             80 |
-|             80 | Benjamin Descamps     |             70.04 |       11 |             63.23 | Élie De Fleurian     |             80 |
-|             61 | Benjamin Pehau        |             79.3  |       12 |             62.54 | Benjamin Doy         |             80 |
-|             80 | Opetera Peleseuma     |             10.78 |       13 |             18.04 | Alexandre Badet      |             51 |
-|             52 | Nicolas Nieto         |             53.69 |       14 |             62.38 | Dimitri Doucet       |             80 |
-|             80 | Axel Malaret          |             48.33 |       15 |             83.33 | Florent Massip       |             80 |
-|             28 | Sakiusa Bureitakiyaca |             64.37 |       16 |             55.95 | Louis Dasalmartini   |             60 |
-|             19 | Noe Khier             |            nan    |       17 |             64.41 | Vazha Kapanadze      |             34 |
-|             19 | Corentin Vernet       |             29.37 |       18 |             65.74 | Joe Margetts         |             29 |
-|             19 | Joaquin Riera         |             50.48 |       19 |            nan    | Audric Sanlaville    |             22 |
+|             61 | Alexis Decaux         |             85.69 |        1 |             53.6  | Teo Bordenave        |             46 |
+|             77 | Mathieu Bonnot        |             79.05 |        2 |             12.27 | Arnaud Feltrin       |             20 |
+|             77 | Soso Bekoshvili       |             81.41 |        3 |             10.51 | Atonio Ulutuipalelei |             60 |
+|             80 | John-Charles Astle    |             58.21 |        4 |             47.06 | Thomas Déliance      |             80 |
+|             61 | Will Witty            |             53.43 |        5 |             13.33 | Josh Peters          |             60 |
+|             80 | Willy N'Diaye         |              4.12 |        6 |             49.75 | Pierre Reynaud       |             80 |
+|             80 | Tienie Burger         |             90.09 |        7 |              9.13 | Quentin Witt         |             60 |
+|             73 | Julien Ruaud          |             81.1  |        8 |             71.34 | Wael May             |             80 |
+|             80 | Florent Campeggia     |             69.32 |        9 |             59.45 | Jeremy Valencot      |             58 |
+|             80 | Maxime Javaux         |             52.4  |       10 |             32.78 | Nathan Azais         |             80 |
+|             80 | Benjamin Descamps     |             69.98 |       11 |             63.16 | Élie De Fleurian     |             80 |
+|             61 | Benjamin Pehau        |             79.29 |       12 |             62.66 | Benjamin Doy         |             80 |
+|             80 | Opetera Peleseuma     |             10.73 |       13 |             18.03 | Alexandre Badet      |             51 |
+|             52 | Nicolas Nieto         |             53.6  |       14 |             62.31 | Dimitri Doucet       |             80 |
+|             80 | Axel Malaret          |             48.22 |       15 |             83.23 | Florent Massip       |             80 |
+|             28 | Sakiusa Bureitakiyaca |             64.3  |       16 |             56.14 | Louis Dasalmartini   |             60 |
+|             19 | Noe Khier             |            nan    |       17 |             64.35 | Vazha Kapanadze      |             34 |
+|             19 | Corentin Vernet       |             29.35 |       18 |             65.88 | Joe Margetts         |             29 |
+|             19 | Joaquin Riera         |             50.54 |       19 |            nan    | Audric Sanlaville    |             22 |
 |              7 | Manolo Laffond        |            nan    |       20 |             66.87 | Grégoire Demangel    |             20 |
-|              3 | Diego Arbelo          |             43.88 |       21 |             49.76 | Nail Ait Naceur      |             20 |
-|              3 | Lucas Poisson         |            nan    |       22 |             77.13 | Erich de Jager       |             20 |
+|              3 | Diego Arbelo          |             44.06 |       21 |             49.66 | Nail Ait Naceur      |             20 |
+|              3 | Lucas Poisson         |            nan    |       22 |             77.12 | Erich de Jager       |             20 |
 

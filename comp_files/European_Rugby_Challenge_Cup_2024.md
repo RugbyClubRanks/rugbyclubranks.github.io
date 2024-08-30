@@ -1,6 +1,6 @@
 ---  
 title: "European Rugby Challenge Cup 2024 Status"  
-date: 2024-08-29 6:00:00 -0500  
+date: 2024-08-30 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,24 +17,24 @@ aside:
 
 | Club                |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Lions               |               4 |    2.9 |            22.8162   |                   1   |                2.8 |                 15.4 |
-| Lyon                |               4 |    3.1 |            23.1489   |                   0.8 |                1.8 |                 15   |
-| Montpellier Herault |               4 |    3.1 |            14.6725   |                   0.8 |                1.7 |                 15   |
-| Perpignan           |               4 |    2.9 |            11.2784   |                   0.9 |                1.7 |                 14.1 |
-| Connacht            |               4 |    2.7 |            17.2205   |                   1.2 |                1.7 |                 13.6 |
-| Pau                 |               4 |    2.8 |            13.726    |                   0.7 |                1.6 |                 13.5 |
-| Edinburgh           |               4 |    2.9 |            14.7445   |                   0.9 |                0.7 |                 13.3 |
-| Gloucester Rugby    |               4 |    2.7 |            12.8124   |                   1.2 |                1   |                 13.1 |
-| Bayonne             |               4 |    2.2 |             3.79904  |                   1.2 |                1   |                 11   |
-| Ospreys             |               4 |    1.9 |             4.64511  |                   1.7 |                1.4 |                 10.7 |
-| Cheetahs            |               4 |    2   |             4.19797  |                   1.1 |                1.5 |                 10.7 |
-| Black Lion          |               4 |    2   |            -0.997924 |                   1.2 |                0.8 |                  9.9 |
-| Cardiff Blues       |               4 |    1.2 |           -11.8993   |                   1.7 |                1.1 |                  7.5 |
-| Vannes              |               4 |    1   |           -12.652    |                   2.2 |                0.7 |                  7   |
-| Scarlets            |               4 |    1.2 |           -17.706    |                   1.2 |                0.6 |                  6.5 |
-| Newcastle Falcons   |               4 |    1   |           -20.9502   |                   1   |                0.7 |                  5.9 |
-| Dragons             |               4 |    0.2 |           -34.9095   |                   1.5 |                0.8 |                  3.2 |
-| Zebre               |               4 |    0.1 |           -43.9464   |                   1   |                0.7 |                  2   |
+| Lions               |               4 |    2.9 |             22.5268  |                   1   |                2.8 |                 15.4 |
+| Montpellier Herault |               4 |    3.2 |             15.1466  |                   0.8 |                1.7 |                 15.2 |
+| Lyon                |               4 |    3.1 |             23.216   |                   0.7 |                1.8 |                 15.1 |
+| Perpignan           |               4 |    2.9 |             10.8946  |                   0.9 |                1.8 |                 14.1 |
+| Pau                 |               4 |    2.8 |             13.8462  |                   0.7 |                1.7 |                 13.6 |
+| Connacht            |               4 |    2.7 |             17.1164  |                   1.2 |                1.7 |                 13.5 |
+| Edinburgh           |               4 |    2.9 |             14.4634  |                   0.9 |                0.7 |                 13.3 |
+| Gloucester Rugby    |               4 |    2.7 |             13.0331  |                   1.2 |                1.1 |                 13.2 |
+| Bayonne             |               4 |    2.2 |              4.45803 |                   1.3 |                1   |                 11.1 |
+| Cheetahs            |               4 |    2.1 |              4.51086 |                   1.1 |                1.5 |                 10.8 |
+| Ospreys             |               4 |    1.9 |              4.96284 |                   1.7 |                1.4 |                 10.7 |
+| Black Lion          |               4 |    2   |             -1.15106 |                   1.2 |                0.8 |                  9.9 |
+| Cardiff Blues       |               4 |    1.2 |            -11.2233  |                   1.7 |                1.1 |                  7.6 |
+| Vannes              |               4 |    1   |            -12.6244  |                   2.2 |                0.7 |                  7   |
+| Scarlets            |               4 |    1.2 |            -18.179   |                   1.2 |                0.6 |                  6.4 |
+| Newcastle Falcons   |               4 |    1   |            -21.2805  |                   1   |                0.7 |                  5.8 |
+| Dragons             |               4 |    0.2 |            -35.202   |                   1.5 |                0.7 |                  3.1 |
+| Zebre               |               4 |    0.1 |            -44.5146  |                   1   |                0.7 |                  1.9 |
 
 
 
@@ -45,7 +45,7 @@ aside:
 ### Gloucester Rugby V Edinburgh on 2024/12/06
 
 
-Average Margin: Gloucester Rugby by 2.3
+Average Margin: Gloucester Rugby by 2.4
 
 Average Scoreline: 26-24
 
@@ -58,7 +58,7 @@ Average Scoreline: 26-24
 ### Dragons V Montpellier Herault on 2024/12/06
 
 
-Average Margin: Montpellier Herault by 6.8
+Average Margin: Montpellier Herault by 6.6
 
 Average Scoreline: 36-29
 
@@ -71,7 +71,7 @@ Average Scoreline: 36-29
 ### Lyon V Cardiff Blues on 2024/12/07
 
 
-Average Margin: Lyon by 8.4
+Average Margin: Lyon by 8.2
 
 Average Scoreline: 32-24
 
@@ -84,7 +84,7 @@ Average Scoreline: 32-24
 ### Connacht V Zebre on 2024/12/07
 
 
-Average Margin: Connacht by 15.6
+Average Margin: Connacht by 15.4
 
 Average Scoreline: 36-21
 
@@ -110,7 +110,7 @@ Average Scoreline: 27-21
 ### Bayonne V Scarlets on 2024/12/07
 
 
-Average Margin: Bayonne by 8.9
+Average Margin: Bayonne by 9.1
 
 Average Scoreline: 27-18
 
@@ -123,7 +123,7 @@ Average Scoreline: 27-18
 ### Ospreys V Lions on 2024/12/08
 
 
-Average Margin: Ospreys by 0.3
+Average Margin: Ospreys by 0.2
 
 Average Scoreline: 29-28
 
@@ -136,7 +136,7 @@ Average Scoreline: 29-28
 ### Pau V Newcastle Falcons on 2024/12/08
 
 
-Average Margin: Pau by 11.0
+Average Margin: Pau by 10.9
 
 Average Scoreline: 30-19
 
@@ -149,7 +149,7 @@ Average Scoreline: 30-19
 ### Cheetahs V Perpignan on 2024/12/08
 
 
-Average Margin: Cheetahs by 2.1
+Average Margin: Cheetahs by 2.4
 
 Average Scoreline: 31-29
 
@@ -164,7 +164,7 @@ Average Scoreline: 31-29
 ### Edinburgh V Bayonne on 2024/12/13
 
 
-Average Margin: Edinburgh by 5.8
+Average Margin: Edinburgh by 5.6
 
 Average Scoreline: 25-19
 
@@ -177,7 +177,7 @@ Average Scoreline: 25-19
 ### Lions V Pau on 2024/12/14
 
 
-Average Margin: Lions by 6.9
+Average Margin: Lions by 6.7
 
 Average Scoreline: 37-30
 
@@ -192,7 +192,7 @@ Average Scoreline: 37-30
 
 Average Margin: Montpellier Herault by 3.3
 
-Average Scoreline: 28-24
+Average Scoreline: 28-25
 
 <p float="left">
 <img src="plots/performances_2024-12-14-MontpellierHerault_V_Ospreys.png" width="32%" />
@@ -203,7 +203,7 @@ Average Scoreline: 28-24
 ### Zebre V Lyon on 2024/12/14
 
 
-Average Margin: Lyon by 9.7
+Average Margin: Lyon by 10.1
 
 Average Scoreline: 33-23
 
@@ -216,7 +216,7 @@ Average Scoreline: 33-23
 ### Vannes V Gloucester Rugby on 2024/12/14
 
 
-Average Margin: Gloucester Rugby by 2.1
+Average Margin: Gloucester Rugby by 2.3
 
 Average Scoreline: 24-22
 
@@ -229,7 +229,7 @@ Average Scoreline: 24-22
 ### Cardiff Blues V Cheetahs on 2024/12/14
 
 
-Average Margin: Cardiff Blues by 2.4
+Average Margin: Cardiff Blues by 2.7
 
 Average Scoreline: 29-26
 
@@ -255,7 +255,7 @@ Average Scoreline: 27-26
 ### Newcastle Falcons V Dragons on 2024/12/15
 
 
-Average Margin: Newcastle Falcons by 5.5
+Average Margin: Newcastle Falcons by 5.7
 
 Average Scoreline: 29-23
 
@@ -268,7 +268,7 @@ Average Scoreline: 29-23
 ### Scarlets V Black Lion on 2024/12/15
 
 
-Average Margin: Black Lion by 0.5
+Average Margin: Black Lion by 0.4
 
 Average Scoreline: 27-27
 
@@ -283,7 +283,7 @@ Average Scoreline: 27-27
 ### Gloucester Rugby V Scarlets on 2025/01/10
 
 
-Average Margin: Gloucester Rugby by 10.3
+Average Margin: Gloucester Rugby by 10.2
 
 Average Scoreline: 30-20
 
@@ -298,7 +298,7 @@ Average Scoreline: 30-20
 
 Average Margin: Connacht by 2.5
 
-Average Scoreline: 30-28
+Average Scoreline: 31-28
 
 <p float="left">
 <img src="plots/performances_2025-01-11-Connacht_V_Lyon.png" width="32%" />
@@ -309,7 +309,7 @@ Average Scoreline: 30-28
 ### Ospreys V Newcastle Falcons on 2025/01/11
 
 
-Average Margin: Ospreys by 11.0
+Average Margin: Ospreys by 11.3
 
 Average Scoreline: 32-21
 
@@ -322,7 +322,7 @@ Average Scoreline: 32-21
 ### Montpellier Herault V Lions on 2025/01/11
 
 
-Average Margin: Montpellier Herault by 0.1
+Average Margin: Montpellier Herault by 0.4
 
 Average Scoreline: 29-29
 
@@ -335,7 +335,7 @@ Average Scoreline: 29-29
 ### Black Lion V Bayonne on 2025/01/11
 
 
-Average Margin: Black Lion by 1.1
+Average Margin: Black Lion by 0.9
 
 Average Scoreline: 24-23
 
@@ -348,9 +348,9 @@ Average Scoreline: 24-23
 ### Vannes V Edinburgh on 2025/01/11
 
 
-Average Margin: Edinburgh by 3.2
+Average Margin: Edinburgh by 3.4
 
-Average Scoreline: 24-21
+Average Scoreline: 25-21
 
 <p float="left">
 <img src="plots/performances_2025-01-11-Vannes_V_Edinburgh.png" width="32%" />
@@ -361,7 +361,7 @@ Average Scoreline: 24-21
 ### Perpignan V Cardiff Blues on 2025/01/11
 
 
-Average Margin: Perpignan by 5.3
+Average Margin: Perpignan by 5.1
 
 Average Scoreline: 28-23
 
@@ -376,7 +376,7 @@ Average Scoreline: 28-23
 
 Average Margin: Pau by 6.3
 
-Average Scoreline: 34-28
+Average Scoreline: 35-28
 
 <p float="left">
 <img src="plots/performances_2025-01-12-Dragons_V_Pau.png" width="32%" />
@@ -387,7 +387,7 @@ Average Scoreline: 34-28
 ### Cheetahs V Zebre on 2025/01/12
 
 
-Average Margin: Cheetahs by 12.0
+Average Margin: Cheetahs by 12.2
 
 Average Scoreline: 33-21
 
@@ -402,7 +402,7 @@ Average Scoreline: 33-21
 ### Newcastle Falcons V Montpellier Herault on 2025/01/17
 
 
-Average Margin: Montpellier Herault by 4.4
+Average Margin: Montpellier Herault by 4.7
 
 Average Scoreline: 28-23
 
@@ -428,9 +428,9 @@ Average Scoreline: 24-23
 ### Scarlets V Vannes on 2025/01/18
 
 
-Average Margin: Scarlets by 1.9
+Average Margin: Scarlets by 1.6
 
-Average Scoreline: 22-20
+Average Scoreline: 22-21
 
 <p float="left">
 <img src="plots/performances_2025-01-18-Scarlets_V_Vannes.png" width="32%" />
@@ -441,7 +441,7 @@ Average Scoreline: 22-20
 ### Lyon V Cheetahs on 2025/01/18
 
 
-Average Margin: Lyon by 7.5
+Average Margin: Lyon by 7.4
 
 Average Scoreline: 30-23
 
@@ -454,7 +454,7 @@ Average Scoreline: 30-23
 ### Pau V Ospreys on 2025/01/18
 
 
-Average Margin: Pau by 3.3
+Average Margin: Pau by 3.2
 
 Average Scoreline: 27-24
 
@@ -467,7 +467,7 @@ Average Scoreline: 27-24
 ### Lions V Dragons on 2025/01/18
 
 
-Average Margin: Lions by 16.4
+Average Margin: Lions by 16.6
 
 Average Scoreline: 41-25
 
@@ -480,7 +480,7 @@ Average Scoreline: 41-25
 ### Edinburgh V Black Lion on 2025/01/19
 
 
-Average Margin: Edinburgh by 8.0
+Average Margin: Edinburgh by 7.9
 
 Average Scoreline: 26-18
 
@@ -493,7 +493,7 @@ Average Scoreline: 26-18
 ### Bayonne V Gloucester Rugby on 2025/01/19
 
 
-Average Margin: Bayonne by 1.8
+Average Margin: Bayonne by 1.9
 
 Average Scoreline: 24-22
 
@@ -506,7 +506,7 @@ Average Scoreline: 24-22
 ### Zebre V Perpignan on 2025/01/19
 
 
-Average Margin: Perpignan by 6.7
+Average Margin: Perpignan by 6.8
 
 Average Scoreline: 31-24
 

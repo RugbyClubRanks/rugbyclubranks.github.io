@@ -9,7 +9,7 @@ categories: "Pro D2 2024" match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.635, which translates to predicting Provence Rugby to win by 8.1.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.635, which translates to predicting Provence Rugby to win by 8.3.
 
 Our Over/Under is 41.5 - and combined with the spread above, we have a predicted scoreline of 17 to 25
 
@@ -70,15 +70,15 @@ Provence Rugby by 3.4 on a neutral pitch
 | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player        |
 |:----------------------|------------------:|---------:|------------------:|:-------------------|
 | Hans Lombard-Buret    |            nan    |        1 |            nan    | Julius Nostadt     |
-| Santiago Socino       |             75.86 |        2 |            nan    | Thomas Sauveterre  |
+| Santiago Socino       |             76.1  |        2 |            nan    | Thomas Sauveterre  |
 | Alex Burin            |            nan    |        3 |             99.68 | Tomas Francis      |
 | Evan Olmstead         |            nan    |        4 |             66.77 | Charly Gambini     |
 | John Madigan          |            nan    |        5 |            nan    | Josh Tyrell        |
 | Julien Lebian         |            nan    |        6 |            nan    | Guillaume Piazzoli |
-| Arnaud Duputs         |            nan    |        7 |             48.09 | Ned Hanigan        |
+| Arnaud Duputs         |            nan    |        7 |             47.99 | Ned Hanigan        |
 | Matthieu Bonnet       |            nan    |        8 |            nan    | Teimana Harrison   |
-| Jack Maunder          |             40.79 |        9 |            nan    | Arthur Coville     |
-| Franck Pourteau       |            nan    |       10 |             76.76 | Jules Plisson      |
+| Jack Maunder          |             40.73 |        9 |            nan    | Arthur Coville     |
+| Franck Pourteau       |            nan    |       10 |             76.83 | Jules Plisson      |
 | Iban Etcheverry       |            nan    |       11 |            nan    | Léo Drouet         |
 | Kolinio Ramoka        |            nan    |       12 |            nan    | Inga Finau         |
 | Peyo Muscarditz       |            nan    |       13 |            nan    | Eto Bainivalu      |
@@ -88,8 +88,8 @@ Provence Rugby by 3.4 on a neutral pitch
 | Mamuka Mstoiani       |            nan    |       17 |            nan    | Nicolás Toth       |
 | William Demotte       |            nan    |       18 |            nan    | Malohi Suta        |
 | Valentin Gayraud      |            nan    |       19 |            nan    | Bilel Taieb        |
-| Dorian Bellot         |            nan    |       20 |             24.74 | Tornike Jalagonia  |
+| Dorian Bellot         |            nan    |       20 |             24.42 | Tornike Jalagonia  |
 | Billy Searle          |            nan    |       21 |            nan    | Joris Cazenave     |
 | Loris Tolot           |            nan    |       22 |            nan    | Jimmy Gopperth     |
-| Lasha Macharashvili   |             50.08 |       23 |            nan    | Paul Mallez        |
+| Lasha Macharashvili   |             50.28 |       23 |            nan    | Paul Mallez        |
 

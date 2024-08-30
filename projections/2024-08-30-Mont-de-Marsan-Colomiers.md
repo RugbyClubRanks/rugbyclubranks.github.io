@@ -71,21 +71,21 @@ Colomiers by 2.1 on a neutral pitch
 |:-------------------|------------------:|---------:|------------------:|:---------------------|
 | Guillaume Tartas   |            nan    |        1 |            nan    | Thomas Bultel        |
 | Thomas Larrieu     |            nan    |        2 |            nan    | Florian Dufour       |
-| Michaël Simutoga   |            nan    |        3 |              3.78 | Anthony Alves        |
+| Michaël Simutoga   |            nan    |        3 |              3.8  | Anthony Alves        |
 | Jean Thomas        |            nan    |        4 |            nan    | Nicolas Garrault     |
 | Janse Roux         |            nan    |        5 |            nan    | Myles Edwards        |
 | Anthony Coletta    |            nan    |        6 |            nan    | Aurélien Lafforgue   |
 | Aldric Lescure     |            nan    |        7 |            nan    | Waël Ponpon          |
 | Caleb Timu         |            nan    |        8 |            nan    | Michael Faleafa      |
 | Ugo Séguéla        |            nan    |        9 |            nan    | Nicolas Darquier     |
-| Joaquin De La Vega |            nan    |       10 |             43.57 | Willie Du Plessis    |
-| Rodrigo Marta      |             89.89 |       11 |            nan    | Semi Lagivala (2)    |
+| Joaquin De La Vega |            nan    |       10 |             43.42 | Willie Du Plessis    |
+| Rodrigo Marta      |             89.87 |       11 |            nan    | Semi Lagivala (2)    |
 | Baptiste Serrano   |            nan    |       12 |            nan    | Gatien Massé         |
 | Enzo Salles        |            nan    |       13 |            nan    | Jules Even           |
-| Valentin Saurs     |            nan    |       14 |             28.33 | Alexandre de Nardi   |
-| Ugo Pacome         |            nan    |       15 |             57.71 | Simao Bento          |
-| Pablo Dimcheff     |            nan    |       16 |             46.49 | Luka Begic           |
-| Hugo Pirlet        |             64.01 |       17 |            nan    | Luka Goginava        |
+| Valentin Saurs     |            nan    |       14 |             28.3  | Alexandre de Nardi   |
+| Ugo Pacome         |            nan    |       15 |             57.44 | Simao Bento          |
+| Pablo Dimcheff     |            nan    |       16 |             46.64 | Luka Begic           |
+| Hugo Pirlet        |             63.95 |       17 |            nan    | Luka Goginava        |
 | Louis Descoux      |            nan    |       18 |            nan    | Aston Fortuin        |
 | Grégoire Bazin     |            nan    |       19 |            nan    | Raphaël Robic        |
 | Ray Nu'U           |            nan    |       20 |            nan    | Christophe Loustalot |

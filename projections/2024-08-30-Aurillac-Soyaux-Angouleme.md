@@ -9,9 +9,9 @@ categories: "Pro D2 2024" match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.463, which translates to predicting Soyaux-Angouleme to win by -2.1.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.463, which translates to predicting Soyaux-Angouleme to win by -1.8.
 
-Our Over/Under is 32.5 - and combined with the spread above, we have a predicted scoreline of 15 to 18
+Our Over/Under is 32.5 - and combined with the spread above, we have a predicted scoreline of 16 to 17
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -78,18 +78,18 @@ Aurillac by 0.3 on a neutral pitch
 | Clément Sentubéry  |            nan    |        7 |            nan    | Hugo Huurman          |
 | Alex Masibaka (2)  |            nan    |        8 |            nan    | Didier Tison          |
 | Lucas Zamora       |            nan    |        9 |            nan    | David Delarue         |
-| Ben Botica         |            nan    |       10 |             57.68 | Tedo Abzhandadze      |
-| Jonny May          |             59.55 |       11 |            nan    | Simeli Yabaki         |
+| Ben Botica         |            nan    |       10 |             57.62 | Tedo Abzhandadze      |
+| Jonny May          |             59.47 |       11 |            nan    | Simeli Yabaki         |
 | George Tilsley     |            nan    |       12 |            nan    | Ofa Manuofetoa        |
 | Ledua Mau          |            nan    |       13 |            nan    | Karl Martin           |
 | Matthys Gratien    |            nan    |       14 |            nan    | Dachi Papunashvili    |
 | Rémi Brosset       |            nan    |       15 |            nan    | Ugo Seunes            |
 | Motu Matu'U        |            nan    |       16 |            nan    | Ronan Loughnane       |
-| Vivien Devisme     |             74.15 |       17 |            nan    | Irakli Mchedlidze     |
+| Vivien Devisme     |             74.13 |       17 |            nan    | Irakli Mchedlidze     |
 | Enzo Morand-Bruyat |            nan    |       18 |            nan    | Mehdi Slamani         |
-| Matthew Dalton     |            nan    |       19 |             71.63 | Koen Bloemen          |
-| Samuel Nollet      |            nan    |       20 |             32.42 | Tim De Jong           |
-| Adrien Bau         |            nan    |       21 |             64.89 | Mikheil Alania        |
+| Matthew Dalton     |            nan    |       19 |             71.64 | Koen Bloemen          |
+| Samuel Nollet      |            nan    |       20 |             32.38 | Tim De Jong           |
+| Adrien Bau         |            nan    |       21 |             64.64 | Mikheil Alania        |
 | Arthur Proult      |            nan    |       22 |            nan    | Lucas Oudard          |
 | Omar Dahir         |            nan    |       23 |            nan    | Valentin Welsch       |
 

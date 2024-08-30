@@ -9,7 +9,7 @@ categories: "Pro D2 2024" match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.461, which translates to predicting Grenoble to win by -2.1.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.461, which translates to predicting Grenoble to win by -1.9.
 
 Our Over/Under is 44.5 - and combined with the spread above, we have a predicted scoreline of 21 to 23
 
@@ -69,20 +69,20 @@ Grenoble by 2.5 on a neutral pitch
 
 | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player                |
 |:-------------------|------------------:|---------:|------------------:|:---------------------------|
-| Tommy Raynaud      |             84.14 |        1 |            nan    | Tornike Mataradze          |
+| Tommy Raynaud      |             84.16 |        1 |            nan    | Tornike Mataradze          |
 | Lilian Rossi       |            nan    |        2 |            nan    | Jonathan Maïau             |
-| Johannes Jonker    |             66.59 |        3 |            nan    | Cleopas Kundiona           |
-| Pierce Phillips    |            nan    |        4 |             51.98 | Ugo Vignolles              |
+| Johannes Jonker    |             66.53 |        3 |            nan    | Cleopas Kundiona           |
+| Pierce Phillips    |            nan    |        4 |             52.04 | Ugo Vignolles              |
 | Brandon Nansen     |            nan    |        5 |            nan    | Chris Gabriel              |
-| Jose Madeira       |             92.65 |        6 |            nan    | Luka Plataret              |
+| Jose Madeira       |             92.74 |        6 |            nan    | Luka Plataret              |
 | Victor Guillaumond |            nan    |        7 |            nan    | Hugues Bastide             |
 | Thibaut Martel     |            nan    |        8 |            nan    | Kévin Noah                 |
 | Barnabé Couilloud  |            nan    |        9 |            nan    | Hugo Bouyssou              |
 | Sam Davies         |            nan    |       10 |            nan    | Shaun Reynolds             |
 | Wilfried Hulleu    |            nan    |       11 |            nan    | Arthur Mathiron            |
-| Julien Heriteau    |             76.31 |       12 |            nan    | Rudy Derrieux              |
+| Julien Heriteau    |             76.29 |       12 |            nan    | Rudy Derrieux              |
 | Romain Fusier      |            nan    |       13 |            nan    | Atu Manu                   |
-| Gerswin Mouton     |             42.16 |       14 |            nan    | Gabin Rocher               |
+| Gerswin Mouton     |             42.05 |       14 |            nan    | Gabin Rocher               |
 | Julien Farnoux     |            nan    |       15 |            nan    | Dylan Jaminet              |
 | Mathis Sarragallet |            nan    |       16 |            nan    | Jean-Maxence Jules-Rosette |
 | Zack Gauthier      |            nan    |       17 |            nan    | Aitor Kitutu               |

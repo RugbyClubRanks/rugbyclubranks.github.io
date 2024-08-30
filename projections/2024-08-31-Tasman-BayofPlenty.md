@@ -73,23 +73,23 @@ Bay of Plenty by 9.8 on a neutral pitch
 | Kurt Eklund            |            nan    |        2 |            nan    | Quentin MacDonald    |
 | Benet Kumeroa          |            nan    |        3 |            nan    | Sam Matenga          |
 | Naitoa Ah Kuoi         |            nan    |        4 |            nan    | Quinten Strange      |
-| Justin Sangster        |            nan    |        5 |             15.28 | Antonio Shalfoon     |
+| Justin Sangster        |            nan    |        5 |             15.22 | Antonio Shalfoon     |
 | Jacob Norris           |            nan    |        6 |            nan    | Max Hicks            |
 | Joe Johnston           |            nan    |        7 |            nan    | Braden Stewart       |
 | Nikora Broughton       |            nan    |        8 |            nan    | Fletcher Anderson    |
 | Te Toiroa Tahuriorangi |            nan    |        9 |            nan    | Finlay Christie      |
 | Kaleb Trask            |            nan    |       10 |            nan    | William Havili       |
-| Codemeru Vai           |            nan    |       11 |            nan    | Macca Springer       |
+| Codemeru Vai           |            nan    |       11 |             25.37 | Kyren Taumoefolau    |
 | Uilisi Halaholo        |            nan    |       12 |            nan    | William Butler       |
 | Emoni Narawa           |            nan    |       13 |            nan    | Timoci Tavatavanawai |
-| Leroy Carter           |            nan    |       14 |             25.42 | Kyren Taumoefolau    |
-| Cole Forbes            |            nan    |       15 |            nan    | Taine Robinson       |
+| Leroy Carter           |            nan    |       14 |            nan    | Jack Gray            |
+| Cole Forbes            |            nan    |       15 |            nan    | Macca Springer       |
 | Sione Tupou            |            nan    |       16 |            nan    | Samiuela Moli        |
-| Josh Bartlett          |             31.4  |       17 |            nan    | Monu Moli            |
+| Josh Bartlett          |             31.53 |       17 |            nan    | Monu Moli            |
 | Filipe Vakasiuola      |            nan    |       18 |            nan    | Quinn Harrison-Jones |
-| Semisi Paea            |             68.35 |       19 |            nan    | Tim Sail             |
-| Kalin Felise           |            nan    |       20 |             38.36 | Johnny Lee           |
+| Semisi Paea            |             68.36 |       19 |            nan    | Tim Sail             |
+| Kalin Felise           |            nan    |       20 |             38.22 | Johnny Lee           |
 | Flynn Henderson        |            nan    |       21 |            nan    | Louie Chapman        |
 | Lucas Cashmore         |            nan    |       22 |            nan    | Campbell Parata      |
-| Fehi Fineanganofo      |            nan    |       23 |            nan    | Jack Gray            |
+| Fehi Fineanganofo      |            nan    |       23 |            nan    | Nic Sauira           |
 

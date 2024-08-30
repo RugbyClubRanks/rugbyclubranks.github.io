@@ -11,7 +11,7 @@ categories: "Pacific Nations Cup 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.46, which translates to predicting Japan to win by 1.4.
 
-Our Over/Under is 66.5 - and combined with the spread above, we have a predicted scoreline of 34 to 33
+Our Over/Under is 67.5 - and combined with the spread above, we have a predicted scoreline of 35 to 33
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Japan by 7.5 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             68 | Shogo Miura        |             95.81 |        1 |             10.31 | Cali Martinez       |             80 |
-|             18 | Atsushi Sakate     |             84.18 |        2 |             25.45 | AJ Quattrin         |             56 |
-|             16 | Keijiro Tamefusa   |             63.29 |        3 |             30.52 | Conor Young         |             13 |
-|             53 | Sanaila Waqa       |             73.91 |        4 |             24.11 | Izzak Kelly         |             56 |
-|             80 | Warner Dearns      |             92.46 |        5 |             28.17 | Kaden Duguid        |             80 |
-|             64 | Tiennan Costley    |             63.76 |        6 |              9.4  | Mason Flesch        |             10 |
-|             80 | Kanji Shimokawa    |             87.46 |        7 |            nan    | Ethan Fryer         |             80 |
-|             80 | Faulua Makisi      |             85.53 |        8 |              1.26 | Lucas Rumball       |             65 |
-|             80 | Shinobu Fujiwara   |             71.08 |        9 |             32.53 | Jason Higgins       |             80 |
-|             62 | Seungsin Lee       |              2.49 |       10 |              4.77 | Peter Nelson        |             24 |
-|             62 | Malo Tuitama       |             83.84 |       11 |             80.81 | Nic Benn            |             80 |
-|             46 | Nicholas McCurran  |             87.62 |       12 |             26.89 | Talon McMullin      |             80 |
-|             62 | Dylan Riley        |             97.44 |       13 |            nan    | Ben LeSage          |             60 |
-|             56 | Jone Naikabula     |             54.44 |       14 |             88.37 | Andrew Coe          |             70 |
-|             34 | Yoshitaka Yazaki   |             22.5  |       15 |             34.17 | Cooper Coats        |             24 |
-|             34 | Shuhei Takeuchi    |             37.76 |       16 |             88.65 | Cole Keith          |             24 |
-|             34 | Takayoshi Mohara   |             25.36 |       17 |             69.82 | Dewald Kotze        |             80 |
-|             27 | Mamoru Harada      |             45.68 |       18 |              1.45 | Djustice Sears-Duru |             20 |
-|             18 | Isaiah Mapusua     |             91.87 |       19 |             46.1  | Talon McMullin      |             18 |
-|             18 | Taiki Koyama       |             33.05 |       20 |            nan    | James Stockwood     |             15 |
-|             46 | Tomoki Osada       |             47.45 |       21 |            nan    | Matthew Oworu       |             12 |
-|             80 | Harumichi Tatekawa |             82.92 |       22 |            nan    | Mark Balaski        |             46 |
-|             80 | Eishin Kuwano      |             35.71 |       23 |            nan    | Brock Gallagher     |             62 |
+|             68 | Shogo Miura        |             95.88 |        1 |             10.43 | Cali Martinez       |             80 |
+|             18 | Atsushi Sakate     |             84.45 |        2 |             25.53 | AJ Quattrin         |             56 |
+|             16 | Keijiro Tamefusa   |             63.22 |        3 |             30.64 | Conor Young         |             13 |
+|             53 | Sanaila Waqa       |             73.93 |        4 |             24.08 | Izzak Kelly         |             56 |
+|             80 | Warner Dearns      |             92.54 |        5 |             28.16 | Kaden Duguid        |             80 |
+|             64 | Tiennan Costley    |             63.79 |        6 |              9.32 | Mason Flesch        |             10 |
+|             80 | Kanji Shimokawa    |             87.54 |        7 |            nan    | Ethan Fryer         |             80 |
+|             80 | Faulua Makisi      |             85.35 |        8 |              1.27 | Lucas Rumball       |             65 |
+|             80 | Shinobu Fujiwara   |             70.88 |        9 |             32.41 | Jason Higgins       |             80 |
+|             62 | Seungsin Lee       |              2.51 |       10 |              4.8  | Peter Nelson        |             24 |
+|             62 | Malo Tuitama       |             83.81 |       11 |             80.78 | Nic Benn            |             80 |
+|             46 | Nicholas McCurran  |             87.55 |       12 |             26.93 | Talon McMullin      |             80 |
+|             62 | Dylan Riley        |             97.42 |       13 |            nan    | Ben LeSage          |             60 |
+|             56 | Jone Naikabula     |             54.36 |       14 |             88.35 | Andrew Coe          |             70 |
+|             34 | Yoshitaka Yazaki   |             22.43 |       15 |             34.17 | Cooper Coats        |             24 |
+|             34 | Shuhei Takeuchi    |             37.91 |       16 |             88.68 | Cole Keith          |             24 |
+|             34 | Takayoshi Mohara   |             25.46 |       17 |             70.05 | Dewald Kotze        |             80 |
+|             27 | Mamoru Harada      |             45.83 |       18 |              1.46 | Djustice Sears-Duru |             20 |
+|             18 | Isaiah Mapusua     |             91.94 |       19 |             46.14 | Talon McMullin      |             18 |
+|             18 | Taiki Koyama       |             32.93 |       20 |            nan    | James Stockwood     |             15 |
+|             46 | Tomoki Osada       |             47.35 |       21 |            nan    | Matthew Oworu       |             12 |
+|             80 | Harumichi Tatekawa |             82.94 |       22 |            nan    | Mark Balaski        |             46 |
+|             80 | Eishin Kuwano      |             35.72 |       23 |            nan    | Brock Gallagher     |             62 |
 
