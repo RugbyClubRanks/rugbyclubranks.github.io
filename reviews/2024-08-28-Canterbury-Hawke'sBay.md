@@ -9,9 +9,9 @@ categories: "NPC 2024" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.676, which translates to predicting Canterbury to win by 6.8.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.666, which translates to predicting Canterbury to win by 6.3.
 
-Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 23 to 30
+Our Over/Under is 63.5 - and combined with the spread above, we have a predicted scoreline of 29 to 35
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Canterbury by 1.8
+## Prediction without Player Minutes: Canterbury by 1.7
 
 
-Hawke's Bay by 1.3 on a neutral pitch
+Hawke's Bay by 1.4 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Hawke's Bay by 1.3 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player       |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:------------------|---------------:|
-|             11 | Hadlee Hay-Horton  |             45.84 |        1 |               nan | Dan Lienert-Brown |             80 |
-|             45 | Kianu Kereru-Symes |            nan    |        2 |               nan | Ben Funnell       |             56 |
-|             66 | Joe Apikotoa       |              5.9  |        3 |               nan | Seb Calder        |             80 |
+|             80 | Hadlee Hay-Horton  |             60.08 |        1 |               nan | Dan Lienert-Brown |             57 |
+|             80 | Kianu Kereru-Symes |            nan    |        2 |               nan | Ben Funnell       |             11 |
+|             80 | Joe Apikotoa       |              6.48 |        3 |               nan | Seb Calder        |             18 |
 |             80 | Geoff Cridge       |            nan    |        4 |               nan | Dom Gardiner      |             80 |
 |             80 | Tom Parsons        |            nan    |        5 |               nan | Zach Gallagher    |             80 |
-|             80 | Josh Gimblett      |             57.7  |        6 |               nan | Corey Kellow      |             80 |
-|             57 | Cooper Flanders    |             52.99 |        7 |               nan | Tom Christie      |             17 |
-|             61 | Hugh Renton        |            nan    |        8 |               nan | Billy Harmon      |             45 |
+|             80 | Josh Gimblett      |             58.42 |        6 |               nan | Corey Kellow      |             80 |
+|             51 | Cooper Flanders    |             54.72 |        7 |               nan | Tom Christie      |             80 |
+|             61 | Hugh Renton        |            nan    |        8 |               nan | Billy Harmon      |             56 |
 |             80 | Ere Enari          |            nan    |        9 |               nan | Nic Shearer       |             80 |
-|             24 | Lincoln McClutchie |            nan    |       10 |               nan | James White       |             80 |
-|             72 | Neria Fomai        |            nan    |       11 |               nan | Kurtis Macdonald  |             80 |
+|              0 | Lincoln McClutchie |            nan    |       10 |               nan | James White       |             80 |
+|             12 | Neria Fomai        |            nan    |       11 |               nan | Kurtis Macdonald  |             56 |
 |             80 | Danny Toala        |            nan    |       12 |               nan | Ryan Crotty       |             80 |
-|             80 | Lukas Ripley       |             60.94 |       13 |               nan | Jone Rova         |             29 |
-|             35 | Freedom Vahaakolo  |            nan    |       14 |               nan | Issac Hutchinson  |             63 |
-|             56 | Harry Godfrey      |            nan    |       15 |               nan | Chay Fihaki       |             21 |
-|             51 | Tyrone Thompson    |             73.98 |       16 |               nan | James Mullan      |             24 |
-|             24 | Lolani Faleiva     |            nan    |       17 |               nan | Finlay Brewis     |             19 |
-|             24 | Joel Hintz         |            nan    |       18 |               nan | Jaiden Christian  |             69 |
-|             59 | Hunter Morrison    |            nan    |       19 |               nan | Alex Grogan       |             35 |
-|              0 | Sam Smith          |            nan    |       20 |               nan | Torian Barnes     |             38 |
-|             14 | Sam Wye            |            nan    |       21 |               nan | Joel Lam          |             18 |
-|             19 | Le Roux Malan      |            nan    |       22 |               nan | Shun Miyake       |             56 |
-|              8 | Ben O'Donnell      |            nan    |       23 |               nan | Toby Bell         |             80 |
+|             59 | Lukas Ripley       |             58.27 |       13 |               nan | Jone Rova         |             56 |
+|             80 | Freedom Vahaakolo  |            nan    |       14 |               nan | Issac Hutchinson  |             63 |
+|             24 | Harry Godfrey      |            nan    |       15 |               nan | Chay Fihaki       |             21 |
+|             24 | Tyrone Thompson    |            nan    |       16 |               nan | James Mullan      |             29 |
+|             35 | Lolani Faleiva     |            nan    |       17 |               nan | Finlay Brewis     |             35 |
+|             14 | Joel Hintz         |            nan    |       18 |               nan | Jaiden Christian  |             38 |
+|             23 | Hunter Morrison    |            nan    |       19 |               nan | Alex Grogan       |             24 |
+|             19 | Sam Smith          |            nan    |       20 |               nan | Torian Barnes     |             24 |
+|             45 | Sam Wye            |            nan    |       21 |               nan | Joel Lam          |             17 |
+|             66 | Le Roux Malan      |            nan    |       22 |               nan | Shun Miyake       |             69 |
+|             72 | Ben O'Donnell      |            nan    |       23 |               nan | Toby Bell         |             45 |
 

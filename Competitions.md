@@ -324,7 +324,7 @@ key: page-recents
 ## Pro D2
 
 
-[2024](comp_files\Pro_D2_2024)
+[2024](comp_files\Pro_D2_2024) - Prediction Accuracy: 100.0% 
 
 [2023](comp_files\Pro_D2_2023) - Prediction Accuracy: 74.3% 
 
