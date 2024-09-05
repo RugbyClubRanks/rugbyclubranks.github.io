@@ -9,9 +9,9 @@ categories: "Nationale 2024" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.595, which translates to predicting Rouen to win by 3.4.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.586, which translates to predicting Rouen to win by 3.1.
 
-Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 24 to 28
+Our Over/Under is 39.5 - and combined with the spread above, we have a predicted scoreline of 18 to 21
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Rouen by 1.3 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             20 | Yan Arnold          |             57.89 |        1 |             87.69 | Alexis Decaux         |             76 |
-|             80 | Raphael Carbou      |             78.36 |        2 |             81.15 | Mathieu Bonnot        |             45 |
-|             68 | Vakhtangi Akhobadze |              2.11 |        3 |             81.86 | Soso Bekoshvili       |             30 |
-|             56 | Romain Manchia      |             40.04 |        4 |             62.55 | John-Charles Astle    |             50 |
-|             25 | Clément Fontaine    |             51.1  |        5 |             60.56 | Will Witty            |             80 |
-|             26 | Corentin Bousquet   |             31.39 |        6 |              5.25 | Willy N'Diaye         |             80 |
-|             80 | Etienne Herjean     |             86.63 |        7 |             90.59 | Tienie Burger         |             20 |
-|             62 | Romain Guyot        |             77.57 |        8 |             71.49 | Abdelkarim Fofana     |             56 |
-|             24 | Gaetan Pichon       |             18.21 |        9 |              6.53 | Ilan El Khattabi      |             35 |
-|             80 | Nils Chalies        |             41.86 |       10 |             56.24 | Maxime Javaux         |             54 |
-|             60 | Clement Egiziano    |             86.9  |       11 |             73.04 | Benjamin Descamps     |             60 |
-|             69 | Jordan Puletua      |             42.05 |       12 |             81.11 | Benjamin Pehau        |             72 |
-|             80 | Mathys Barka        |             73.21 |       13 |             57.2  | Joaquin Riera         |             80 |
-|              4 | Paul Gadea          |              1.41 |       14 |             57.49 | Sakiusa Bureitakiyaca |             20 |
-|             18 | Naim Ben Alla       |             42.32 |       15 |             43.79 | Benjamin Debetz       |             80 |
-|             12 | Marius Iftimiciuc   |              6.47 |       16 |             44.13 | Diego Arbelo          |             80 |
-|             80 | Maxime Gianet       |             91.16 |       17 |             28.98 | Corentin Vernet       |             80 |
-|             64 | Florent Lorenzon    |             38.38 |       18 |            nan    | Noe Khier             |              8 |
-|             60 | Fabien Lorenzon     |             86.23 |       19 |             70.27 | Florent Campeggia     |             80 |
-|             11 | Ferdinand Dreno     |             68.97 |       20 |              6.08 | Theo Dachary          |             16 |
-|             80 | Baptiste Moreno     |            nan    |       21 |             24.9  | Jean Leleu            |             80 |
-|             60 | Lukas Doyhenard     |              0.32 |       22 |             54.1  | Nicolas Nieto         |             20 |
-|            nan | nan                 |            nan    |       23 |            nan    | Lucas Poisson         |             24 |
+|              4 | Yan Arnold          |             58.98 |        1 |             86.89 | Alexis Decaux         |             80 |
+|             80 | Raphael Carbou      |             80.62 |        2 |             79.64 | Mathieu Bonnot        |             16 |
+|             80 | Vakhtangi Akhobadze |              2.43 |        3 |             81.88 | Soso Bekoshvili       |             20 |
+|             72 | Romain Manchia      |             42.17 |        4 |             61.81 | John-Charles Astle    |             64 |
+|             80 | Clément Fontaine    |             50.75 |        5 |             57.83 | Will Witty            |             80 |
+|             80 | Corentin Bousquet   |             31.25 |        6 |              4.76 | Willy N'Diaye         |             80 |
+|             62 | Etienne Herjean     |             87.3  |        7 |             90.58 | Tienie Burger         |             56 |
+|             60 | Romain Guyot        |             77.62 |        8 |             69.67 | Abdelkarim Fofana     |             45 |
+|             60 | Gaetan Pichon       |             18.38 |        9 |              6.36 | Ilan El Khattabi      |             20 |
+|             80 | Nils Chalies        |             42.71 |       10 |             53.28 | Maxime Javaux         |             18 |
+|             80 | Clement Egiziano    |             86.92 |       11 |             72.42 | Benjamin Descamps     |             69 |
+|             80 | Jordan Puletua      |             43.83 |       12 |             79.57 | Benjamin Pehau        |             54 |
+|             68 | Mathys Barka        |             73.62 |       13 |             53.3  | Joaquin Riera         |             25 |
+|             56 | Paul Gadea          |              1.42 |       14 |             59.72 | Sakiusa Bureitakiyaca |             80 |
+|             60 | Naim Ben Alla       |             42.11 |       15 |             42.53 | Benjamin Debetz       |             80 |
+|             12 | Marius Iftimiciuc   |              6.48 |       16 |             44.34 | Diego Arbelo          |             80 |
+|             24 | Maxime Gianet       |             91.16 |       17 |             28.81 | Corentin Vernet       |             35 |
+|             20 | Florent Lorenzon    |             38.59 |       18 |            nan    | Noe Khier             |             30 |
+|             80 | Fabien Lorenzon     |             86.33 |       19 |             70.27 | Florent Campeggia     |             26 |
+|             60 | Ferdinand Dreno     |             68.83 |       20 |              6.17 | Theo Dachary          |             24 |
+|             11 | Baptiste Moreno     |            nan    |       21 |             25.02 | Jean Leleu            |             20 |
+|             80 | Lukas Doyhenard     |              0.32 |       22 |             54.31 | Nicolas Nieto         |             76 |
+|            nan | nan                 |            nan    |       23 |            nan    | Lucas Poisson         |              8 |
 

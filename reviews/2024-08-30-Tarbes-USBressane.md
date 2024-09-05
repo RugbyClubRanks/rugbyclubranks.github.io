@@ -9,9 +9,9 @@ categories: "Nationale 2024" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.537, which translates to predicting Tarbes to win by 1.3.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.508, which translates to predicting Tarbes to win by 0.3.
 
-Our Over/Under is 41.5 - and combined with the spread above, we have a predicted scoreline of 20 to 21
+Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 24 to 24
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ US Bressane by 8.1 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             41 | Vazha Kapanadze      |             36.84 |        1 |             11.34 | Ximun Bessonart     |             46 |
-|             60 | Arnaud Feltrin       |              8.52 |        2 |             42.62 | Florian Lamothe     |             51 |
-|             51 | Atonio Ulutuipalelei |              6.96 |        3 |             89.47 | Irakli Mirtskhulava |             58 |
-|             54 | Thomas Déliance      |             35.36 |        4 |             42.73 | Léo Estaque         |             32 |
-|             56 | Josh Peters          |              9.66 |        5 |             19.82 | Baptiste Peytavi    |             80 |
-|             13 | Florian Burlet       |             40.59 |        6 |             84.06 | Alexis Armary       |             80 |
-|             60 | Pierre Reynaud       |             36.24 |        7 |             48.61 | Léo Saint-Guilhem   |             13 |
-|             80 | Quentin Witt         |              5.87 |        8 |              1.05 | Filipe Manu         |              2 |
-|             50 | Jeremie Martin       |             24.4  |        9 |             56.87 | Matias Brocal       |             51 |
-|             61 | Nathan Azais         |             25.16 |       10 |             24.31 | Alexandre Perez     |             29 |
-|             55 | Élie De Fleurian     |             54.29 |       11 |              1.51 | Jone Tuva           |             33 |
-|             49 | Benjamin Doy         |             54.86 |       12 |             13.55 | Savenaca Rawaca     |             80 |
-|             28 | Joe Margetts         |             48.24 |       13 |             20.17 | Johan Paulet        |             60 |
-|             80 | Thibaut Perrette     |             36.85 |       14 |             35.44 | Jonathan Duffau     |             80 |
-|             20 | Florent Massip       |             82.32 |       15 |              3.58 | Mathieu Berbizier   |             61 |
-|             29 | Nicolas Lemaire      |             31.82 |       16 |             30.85 | Enzo Baggiani       |             34 |
-|             26 | Clement Jullien      |             88.52 |       17 |             83.28 | Vincent Dolier      |             29 |
-|             29 | Erich de Jager       |             77.49 |       18 |            nan    | Luka Vea            |             20 |
-|             26 | Grégoire Demangel    |             67.03 |       19 |            nan    | Mathieu Soufflet    |             25 |
-|             29 | Louis Dasalmartini   |             56.39 |       20 |              9.82 | Maile Mamao         |             80 |
-|             19 | Aaron Stafford       |            nan    |       21 |             39.16 | Tiaan Swanepoel     |             46 |
-|             29 | Jeremy Valencot      |             60.14 |       22 |             38.14 | Mickael Thébault    |             80 |
-|             51 | Jules Margarit       |             14.95 |       23 |             90.1  | Spike Salman        |             32 |
+|             54 | Vazha Kapanadze      |             30.66 |        1 |             12.22 | Ximun Bessonart     |             46 |
+|             20 | Arnaud Feltrin       |             10.67 |        2 |             46.14 | Florian Lamothe     |             51 |
+|             80 | Atonio Ulutuipalelei |              4.29 |        3 |             89.64 | Irakli Mirtskhulava |             51 |
+|             19 | Thomas Déliance      |             40.58 |        4 |             52.84 | Léo Estaque         |             58 |
+|             54 | Josh Peters          |              9.17 |        5 |             21.93 | Baptiste Peytavi    |             80 |
+|             22 | Florian Burlet       |             36.41 |        6 |             83.93 | Alexis Armary       |             61 |
+|             51 | Pierre Reynaud       |             34.23 |        7 |             64.78 | Léo Saint-Guilhem   |             80 |
+|              6 | Quentin Witt         |              8.16 |        8 |              1.26 | Filipe Manu         |             51 |
+|             80 | Jeremie Martin       |             16.15 |        9 |             62.37 | Matias Brocal       |             60 |
+|             80 | Nathan Azais         |             19.03 |       10 |             25.16 | Alexandre Perez     |             34 |
+|             80 | Élie De Fleurian     |             46.07 |       11 |              2.18 | Jone Tuva           |             80 |
+|             51 | Benjamin Doy         |             51.49 |       12 |             15.43 | Savenaca Rawaca     |             80 |
+|             80 | Joe Margetts         |             35    |       13 |             22.02 | Johan Paulet        |             60 |
+|             80 | Thibaut Perrette     |             30.05 |       14 |             38.1  | Jonathan Duffau     |             74 |
+|             80 | Florent Massip       |             77.68 |       15 |              4.42 | Mathieu Berbizier   |             80 |
+|             80 | Nicolas Lemaire      |             31.96 |       16 |             30.91 | Enzo Baggiani       |             80 |
+|             52 | Clement Jullien      |             88.51 |       17 |             83.25 | Vincent Dolier      |             20 |
+|             80 | Erich de Jager       |             77.67 |       18 |            nan    | Luka Vea            |             29 |
+|             50 | Grégoire Demangel    |             67.1  |       19 |            nan    | Mathieu Soufflet    |             29 |
+|             80 | Louis Dasalmartini   |             56.32 |       20 |              9.89 | Maile Mamao         |             29 |
+|             29 | Aaron Stafford       |            nan    |       21 |             39.16 | Tiaan Swanepoel     |             51 |
+|             19 | Jeremy Valencot      |             59.97 |       22 |             37.46 | Mickael Thébault    |             34 |
+|             49 | Jules Margarit       |             14.74 |       23 |             90.08 | Spike Salman        |             80 |
 

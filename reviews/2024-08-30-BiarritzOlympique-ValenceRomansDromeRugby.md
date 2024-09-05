@@ -11,7 +11,7 @@ categories: "Pro D2 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.579, which translates to predicting Biarritz Olympique to win by 2.8.
 
-Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 23 to 25
+Our Over/Under is 44.5 - and combined with the spread above, we have a predicted scoreline of 21 to 23
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Biarritz Olympique by 5.5 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             80 | Anthony Aléo        |             51.26 |        1 |             48.5  | Alexandre Plantier  |             80 |
-|             33 | Cyril Deligny       |              2.46 |        2 |             18.36 | Clement Martinez    |             47 |
-|             31 | Gareth Milasinovich |             27.45 |        3 |             63.64 | Nikoloz Narmania    |             57 |
-|             28 | Ryan McCauley       |             42.63 |        4 |             44.42 | Charlie Matthews    |             45 |
-|             80 | Yassine Maamry      |             50.3  |        5 |             67.53 | Piula Faasalele     |             80 |
-|             80 | Axel Bruchet        |             24.16 |        6 |             23.66 | Simon Augry         |             20 |
-|             39 | Mathieu Vachon      |             73.96 |        7 |             19.6  | Thomas Hebert       |             80 |
-|             21 | Ilia Spanderashvili |             18.45 |        8 |             64.57 | Masivesi Dakuwaqa   |             45 |
-|             80 | Thomas Lhusero      |             82.13 |        9 |             39.86 | Kerman Aurrekoetxea |             65 |
-|             80 | Lucas Meret         |             29.81 |       10 |             33.62 | Thomas Dolhagaray   |             80 |
-|             53 | Thomas Roziere      |             17.44 |       11 |             20.26 | Gervais Cordin      |             45 |
-|             80 | Anatole Pauvert     |             82.28 |       12 |             32.12 | Nathan Van de Ven   |             80 |
-|             80 | Louis Marrou        |             87.83 |       13 |             93.28 | Mathieu Acebes      |             80 |
-|             15 | Owen Lane           |              2.07 |       14 |             82.85 | Arthur Bonneval     |             80 |
-|             52 | Joris De Moura      |             44.42 |       15 |             78.74 | Kylian Jaminet      |             55 |
-|             31 | Éloi Massot         |              5.18 |       16 |             90.99 | Cornell du Preez    |             80 |
-|             31 | Dorian Marco Pena   |             71.8  |       17 |              3.24 | Giorgi Nutsubidze   |             63 |
-|             30 | Adam Vargas         |             97.27 |       18 |             58.52 | Yohan Beheregaray   |             15 |
-|             30 | Kevin Goze          |             90.53 |       19 |             18.04 | Pierre Pages        |             49 |
-|             27 | Thembelani Bholi    |             84.85 |       20 |             73.75 | Tyler Morgan        |             23 |
-|             19 | Ben Neiceru         |             89.22 |       21 |              2.19 | Adrian Motoc        |             27 |
-|             80 | Julien Royer        |              2.19 |       22 |            nan    | François Mur        |             59 |
-|             22 | Tim Menzel          |             84.54 |       23 |             51.16 | Edgar Retiere       |             35 |
+|             15 | Anthony Aléo        |             37.54 |        1 |             60.36 | Alexandre Plantier  |             12 |
+|             59 | Cyril Deligny       |              2.46 |        2 |             21.35 | Clement Martinez    |             25 |
+|             80 | Gareth Milasinovich |             35.76 |        3 |             60.84 | Nikoloz Narmania    |             80 |
+|             28 | Ryan McCauley       |             42.37 |        4 |             48.65 | Charlie Matthews    |             15 |
+|             56 | Yassine Maamry      |             46.66 |        5 |             68    | Piula Faasalele     |             80 |
+|             29 | Axel Bruchet        |             18.35 |        6 |             20.14 | Simon Augry         |             57 |
+|             50 | Mathieu Vachon      |             74.6  |        7 |             20.04 | Thomas Hebert       |             80 |
+|             80 | Ilia Spanderashvili |             24.9  |        8 |             61.51 | Masivesi Dakuwaqa   |             80 |
+|             80 | Thomas Lhusero      |             82.13 |        9 |             47.94 | Kerman Aurrekoetxea |             23 |
+|             65 | Lucas Meret         |             28.33 |       10 |             37    | Thomas Dolhagaray   |             45 |
+|             80 | Thomas Roziere      |             20.28 |       11 |             19.05 | Gervais Cordin      |             65 |
+|             80 | Anatole Pauvert     |             81.81 |       12 |             32.77 | Nathan Van de Ven   |             80 |
+|             53 | Louis Marrou        |             86.49 |       13 |             94.15 | Mathieu Acebes      |             45 |
+|             80 | Owen Lane           |              3.13 |       14 |             82.75 | Arthur Bonneval     |             80 |
+|             49 | Joris De Moura      |             43.79 |       15 |             78.11 | Kylian Jaminet      |             80 |
+|             80 | Éloi Massot         |              5.18 |       16 |             90.97 | Cornell du Preez    |             80 |
+|             52 | Dorian Marco Pena   |             71.92 |       17 |              3.24 | Giorgi Nutsubidze   |             35 |
+|             31 | Adam Vargas         |             97.25 |       18 |             58.62 | Yohan Beheregaray   |             57 |
+|             35 | Kevin Goze          |             90.61 |       19 |             18.04 | Pierre Pages        |             30 |
+|             80 | Thembelani Bholi    |             84.82 |       20 |             73.19 | Tyler Morgan        |             31 |
+|             47 | Ben Neiceru         |             89.04 |       21 |              2.19 | Adrian Motoc        |             25 |
+|             30 | Julien Royer        |              2.1  |       22 |            nan    | François Mur        |             23 |
+|             80 | Tim Menzel          |             84.54 |       23 |             51.16 | Edgar Retiere       |             27 |
 

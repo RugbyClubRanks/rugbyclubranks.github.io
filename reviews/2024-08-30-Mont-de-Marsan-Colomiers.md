@@ -11,7 +11,7 @@ categories: "Pro D2 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.692, which translates to predicting Mont-de-Marsan to win by 7.1.
 
-Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 22 to 29
+Our Over/Under is 42.5 - and combined with the spread above, we have a predicted scoreline of 18 to 25
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Colomiers by 0.2 on a neutral pitch
 
 |   Away Minutes | Away Player               |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:--------------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             34 | Guillaume Tartas          |             71.26 |        1 |             22.75 | Thomas Bultel        |             41 |
-|             52 | Thomas Larrieu            |             24.59 |        2 |             15.25 | Florian Dufour       |             80 |
-|             28 | Michael Simutoga          |             81.54 |        3 |              1.78 | Anthony Alves        |             80 |
-|             50 | Jean Thomas               |             38.45 |        4 |             46.41 | Nicolas Garrault     |             52 |
-|             80 | Janse Roux                |             50.5  |        5 |              7.07 | Myles Edwards        |             80 |
-|             58 | Anthony Coletta           |             25.54 |        6 |             21.19 | Aurélien Laforgue    |             71 |
-|             80 | Aldric Lescure            |             88.42 |        7 |             18.42 | Waël Ponpon          |             80 |
-|             61 | Caleb Timu                |             50.31 |        8 |              9.85 | Mike Faleafa         |             80 |
-|             80 | Ugo Seguela               |             40.72 |        9 |             16.84 | Nicolas Darquier     |             52 |
-|             80 | Joaquin de la Vega Mendia |             22.83 |       10 |             82.24 | Willie du Plessis    |             56 |
-|             80 | Rodrigo Marta             |             91.89 |       11 |             28.46 | Semi Lagivala        |             80 |
-|             52 | Baptiste Serrano          |             14.19 |       12 |             73    | Nacani Wakaya        |             80 |
-|             52 | Enzo Salles               |             52.08 |       13 |             23.05 | Gatien Masse         |             28 |
-|             80 | Valentin Saurs            |              3.96 |       14 |             29.5  | Alexandre de Nardi   |             24 |
-|             80 | Ugo Pacome                |             46.53 |       15 |             50.32 | Simao Bento          |             80 |
-|             60 | Pablo Dimcheff            |             25.41 |       16 |             73.52 | Luka Goginava        |             80 |
-|             31 | Hugo Pirlet               |             53.6  |       17 |             58.54 | Mattéo Lalanne       |             39 |
-|             28 | Robin Bellemand           |            nan    |       18 |             35.06 | Aston Fortuin        |             80 |
-|             56 | Ray Nu'u                  |             66.6  |       19 |             62.89 | Raphaël Robic        |             80 |
-|             80 | Gregoire Bazin            |             22.48 |       20 |             42.3  | Luka Begic           |             25 |
-|             39 | Louis Descoux             |             48.21 |       21 |             55.15 | Christophe Loustalot |             80 |
-|             28 | Arthur Diaz               |             47.25 |       22 |             23.89 | Patricio Fernandez   |             49 |
-|             80 | Max Auriac                |             18.95 |       23 |            nan    | nan                  |            nan |
+|             24 | Guillaume Tartas          |             69.01 |        1 |             22.41 | Thomas Bultel        |             52 |
+|             52 | Thomas Larrieu            |             24.3  |        2 |             18.39 | Florian Dufour       |             41 |
+|             49 | Michael Simutoga          |             82.2  |        3 |              1.78 | Anthony Alves        |             80 |
+|             60 | Jean Thomas               |             39.58 |        4 |             43.87 | Nicolas Garrault     |             80 |
+|             80 | Janse Roux                |             49.15 |        5 |              7.78 | Myles Edwards        |             56 |
+|             80 | Anthony Coletta           |             28.27 |        6 |             25.69 | Aurélien Laforgue    |             41 |
+|             28 | Aldric Lescure            |             85.62 |        7 |             19.35 | Waël Ponpon          |             80 |
+|             80 | Caleb Timu                |             52.09 |        8 |             15.06 | Mike Faleafa         |             12 |
+|             55 | Ugo Seguela               |             34.71 |        9 |             15.98 | Nicolas Darquier     |             80 |
+|             61 | Joaquin de la Vega Mendia |             21.35 |       10 |             84.14 | Willie du Plessis    |             26 |
+|             80 | Rodrigo Marta             |             91.85 |       11 |             29.48 | Semi Lagivala        |             80 |
+|             80 | Baptiste Serrano          |             16.81 |       12 |             76.06 | Nacani Wakaya        |             29 |
+|             58 | Enzo Salles               |             52.34 |       13 |             21.06 | Gatien Masse         |             50 |
+|             52 | Valentin Saurs            |              3.41 |       14 |             29    | Alexandre de Nardi   |             35 |
+|             80 | Ugo Pacome                |             44.63 |       15 |             54.74 | Simao Bento          |             47 |
+|             80 | Pablo Dimcheff            |             25.45 |       16 |             73.46 | Luka Goginava        |             80 |
+|             80 | Hugo Pirlet               |             53.48 |       17 |             58.66 | Mattéo Lalanne       |             47 |
+|             28 | Robin Bellemand           |            nan    |       18 |             35    | Aston Fortuin        |             28 |
+|             51 | Ray Nu'u                  |             66.49 |       19 |             63.18 | Raphaël Robic        |             80 |
+|             28 | Gregoire Bazin            |             22.62 |       20 |             42.53 | Luka Begic           |             52 |
+|             50 | Louis Descoux             |             48.16 |       21 |             55.15 | Christophe Loustalot |             39 |
+|             51 | Arthur Diaz               |             47.25 |       22 |             23.89 | Patricio Fernandez   |             24 |
+|             60 | Max Auriac                |             18.74 |       23 |            nan    | nan                  |            nan |
 

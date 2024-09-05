@@ -9,9 +9,9 @@ categories: "Nationale 2024" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.342, which translates to predicting Bourgoin-Jallieu to win by 5.8.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.337, which translates to predicting Bourgoin-Jallieu to win by 6.0.
 
-Our Over/Under is 29.5 - and combined with the spread above, we have a predicted scoreline of 17 to 12
+Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 26 to 20
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Marcq-en-Baroeul by 0.1 on a neutral pitch
 
 |   Away Minutes | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player                  |   Home Minutes |
 |---------------:|:------------------|------------------:|---------:|------------------:|:-----------------------------|---------------:|
-|             33 | Lucas Dycke       |             13.44 |        1 |            nan    | Charles-Édouard Ekwah Elimby |             45 |
-|             28 | Maxime Castant    |             77.05 |        2 |            nan    | Santiago Iglesias Valdez     |             28 |
-|             80 | Keynan Knox       |             43.48 |        3 |            nan    | Sive Mazosiwe                |             57 |
-|             80 | Robin Gascou      |             46.91 |        4 |            nan    | Antoine Delaporte            |             80 |
-|             56 | Thomas Adélaïde   |             58.07 |        5 |            nan    | Nino Maso                    |             80 |
-|             80 | Sam Daly          |             37.82 |        6 |            nan    | Thomas Simonet               |             80 |
-|             74 | Kamil Bouregba    |             61.88 |        7 |            nan    | Cedric Yonkeu                |             80 |
-|             80 | Poutasi Luafutu   |             11.95 |        8 |            nan    | Otilo Kafotamaki             |             55 |
-|             64 | Martin Doan       |             51.2  |        9 |            nan    | Geoffrey Cazanave            |             55 |
-|             66 | Tom Danovaro      |             45.67 |       10 |            nan    | Paul Decavel                 |             80 |
-|             80 | Joe Ravouvou      |             85.77 |       11 |            nan    | Ervin Muric                  |             80 |
-|             24 | Isaiah Leota      |             76.95 |       12 |            nan    | Louis Decavel                |             80 |
-|             80 | Christopher Bosch |              7.58 |       13 |             21.45 | Mark Erasmus                 |             80 |
-|             47 | Paul-Hugo Champ   |             39.21 |       14 |            nan    | Hugues Crespo                |             80 |
-|             80 | Antoine Renaud    |              2.11 |       15 |            nan    | Serafin Bordoli              |             22 |
-|             26 | Aviata Silago     |             10.14 |       16 |            nan    | Lewys Jones                  |             40 |
-|             52 | Adrien Mallet     |            nan    |       17 |            nan    | Dylan Nocete                 |             25 |
-|             55 | Morgan Eames      |              1.1  |       18 |              5    | Dany Antunes                 |             25 |
-|             24 | Louis Ponton      |             32.95 |       19 |              5.84 | Joachim Beaumont             |             21 |
-|             16 | Dimitri Tchapnga  |             87.77 |       20 |            nan    | Jean-Baptiste Rende          |             58 |
-|             14 | Tala Gray         |             42.77 |       21 |            nan    | Mateo Saint-Germain          |             23 |
-|              6 | Liam Rimet        |             46.39 |       22 |            nan    | nan                          |            nan |
-|             80 | Merlin Bully      |            nan    |       23 |            nan    | nan                          |            nan |
+|             25 | Lucas Dycke       |             11.33 |        1 |            nan    | Charles-Édouard Ekwah Elimby |             47 |
+|             58 | Maxime Castant    |             80.13 |        2 |            nan    | Santiago Iglesias Valdez     |             80 |
+|             56 | Keynan Knox       |             29.77 |        3 |            nan    | Sive Mazosiwe                |             57 |
+|             54 | Robin Gascou      |             39.28 |        4 |            nan    | Antoine Delaporte            |             52 |
+|             80 | Thomas Adélaïde   |             63.71 |        5 |            nan    | Nino Maso                    |             57 |
+|             33 | Sam Daly          |             23.21 |        6 |            nan    | Thomas Simonet               |             80 |
+|             80 | Kamil Bouregba    |             59.03 |        7 |            nan    | Cedric Yonkeu                |             55 |
+|             66 | Poutasi Luafutu   |              9    |        8 |            nan    | Otilo Kafotamaki             |             80 |
+|             80 | Martin Doan       |             54.81 |        9 |            nan    | Geoffrey Cazanave            |             80 |
+|             80 | Tom Danovaro      |             42.07 |       10 |            nan    | Paul Decavel                 |             59 |
+|             80 | Joe Ravouvou      |             85.12 |       11 |            nan    | Ervin Muric                  |             50 |
+|             63 | Isaiah Leota      |             79.47 |       12 |            nan    | Louis Decavel                |             50 |
+|             22 | Christopher Bosch |              4.26 |       13 |             24.36 | Mark Erasmus                 |             80 |
+|             45 | Paul-Hugo Champ   |             36.78 |       14 |            nan    | Hugues Crespo                |             80 |
+|             80 | Antoine Renaud    |              1.47 |       15 |            nan    | Serafin Bordoli              |             80 |
+|             80 | Aviata Silago     |             10.53 |       16 |            nan    | Lewys Jones                  |             55 |
+|             80 | Adrien Mallet     |            nan    |       17 |            nan    | Dylan Nocete                 |             56 |
+|             26 | Morgan Eames      |              1.1  |       18 |              5.02 | Dany Antunes                 |             80 |
+|             24 | Louis Ponton      |             33    |       19 |              5.85 | Joachim Beaumont             |             23 |
+|             24 | Dimitri Tchapnga  |             88.67 |       20 |            nan    | Jean-Baptiste Rende          |             23 |
+|             14 | Tala Gray         |             42.89 |       21 |            nan    | Mateo Saint-Germain          |             25 |
+|             79 | Liam Rimet        |             46.39 |       22 |            nan    | nan                          |            nan |
+|             54 | Merlin Bully      |            nan    |       23 |            nan    | nan                          |            nan |
 

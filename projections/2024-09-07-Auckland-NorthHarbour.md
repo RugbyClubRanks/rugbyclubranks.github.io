@@ -9,7 +9,7 @@ categories: "Bunnings NPC 2024" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.709, which translates to predicting Auckland to win by 7.8.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.713, which translates to predicting Auckland to win by 8.0.
 
 Our Over/Under is 56.5 - and combined with the spread above, we have a predicted scoreline of 24 to 32
 
@@ -42,5 +42,5 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Imputed Lineups: North Harbour by nan
 
 
-Auckland by 10.4 on a neutral pitch
+Auckland by 9.9 on a neutral pitch
 

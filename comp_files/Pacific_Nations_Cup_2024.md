@@ -1,6 +1,6 @@
 ---  
 title: "Pacific Nations Cup 2024 Status"  
-date: 2024-09-02 6:00:00 -0500  
+date: 2024-09-05 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -31,10 +31,10 @@ aside:
 
 | Club                     |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Fiji                     |                   1 |    1   |             14.3223  |                   0   |                0.8 |                  4.7 |
-| Japan                    |                   1 |    0.7 |              3.51208 |                   0.2 |                0.4 |                  3.4 |
-| United States of America |                   1 |    0.3 |             -3.51208 |                   0.4 |                0.4 |                  2   |
-| Tonga                    |                   1 |    0   |            -14.3223  |                   0.1 |                0.2 |                  0.4 |
+| Fiji                     |                   1 |    1   |              13.8696 |                   0   |                0.8 |                  4.7 |
+| Japan                    |                   1 |    0.7 |               3.5923 |                   0.2 |                0.4 |                  3.4 |
+| United States of America |                   1 |    0.3 |              -3.5923 |                   0.3 |                0.4 |                  2   |
+| Tonga                    |                   1 |    0   |             -13.8696 |                   0.2 |                0.2 |                  0.5 |
 
 
 
@@ -43,12 +43,12 @@ aside:
 
 | Club                     |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Fiji                     |               2 |    2   |             40.3223  |                   0   |                1.8 |                  9.7 |
-| Japan                    |               2 |    1.7 |             30.5121  |                   0.2 |                1.4 |                  8.4 |
-| United States of America |               2 |    1.3 |              9.48792 |                   0.4 |                1.4 |                  7   |
-| Samoa                    |               2 |    1   |              0       |                   0   |                1   |                  5   |
-| Canada                   |               2 |    0   |            -40       |                   0   |                1   |                  1   |
-| Tonga                    |               2 |    0   |            -40.3223  |                   0.1 |                0.2 |                  0.4 |
+| Fiji                     |               2 |    2   |              39.8696 |                   0   |                1.8 |                  9.7 |
+| Japan                    |               2 |    1.7 |              30.5923 |                   0.2 |                1.4 |                  8.4 |
+| United States of America |               2 |    1.3 |               9.4077 |                   0.3 |                1.4 |                  7   |
+| Samoa                    |               2 |    1   |               0      |                   0   |                1   |                  5   |
+| Canada                   |               2 |    0   |             -40      |                   0   |                1   |                  1   |
+| Tonga                    |               2 |    0   |             -39.8696 |                   0.2 |                0.2 |                  0.5 |
 
 
 
@@ -58,8 +58,8 @@ aside:
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
 | Club Level | 100.0% | 13.8 |
-| Player Level: Lineup | 100.0% | 14.8 |
-| Player Level: Minutes | 100.0% | 15.4 |
+| Player Level: Lineup | 60.0% | 14.3 |
+| Player Level: Minutes | 100.0% | 11.8 |
 
 
 # Future Predictions
@@ -69,7 +69,7 @@ aside:
 ### Tonga V Fiji on 2024/09/06
 
 
-Average Margin: Fiji by 14.3
+Average Margin: Fiji by 13.9
 
 Average Scoreline: 35-21
 
@@ -82,7 +82,7 @@ Average Scoreline: 35-21
 ### Japan V United States of America on 2024/09/07
 
 
-Average Margin: Japan by 3.5
+Average Margin: Japan by 3.6
 
 Average Scoreline: 37-34
 

@@ -9,9 +9,9 @@ categories: "Pro D2 2024" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.612, which translates to predicting Nice to win by 4.0.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.595, which translates to predicting Nice to win by 3.4.
 
-Our Over/Under is 54.5 - and combined with the spread above, we have a predicted scoreline of 25 to 29
+Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 20 to 23
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Nice by 9.6 on a neutral pitch
 
 |   Away Minutes | Away Player            |   Away Percentile |   Number |   Home Percentile | Home Player              |   Home Minutes |
 |---------------:|:-----------------------|------------------:|---------:|------------------:|:-------------------------|---------------:|
-|             53 | Francisco Fernandes    |             10.85 |        1 |             81.62 | Sunia Vola               |             27 |
-|             60 | Jose Luis Gonzalez     |             86.07 |        2 |             23.77 | Pierre Strippoli         |             80 |
-|             53 | Christian Judge        |             68.99 |        3 |             19.76 | Luvuyo Pupuma            |             27 |
-|             80 | Cam Dodson             |             82.87 |        4 |             99.9  | Tom Murday               |             27 |
-|             51 | Hans N'kinsi           |              4.18 |        5 |             39.54 | Clément Chartier         |             80 |
-|             27 | William van Bost       |             17.62 |        6 |             83.17 | Arthur Vignolles         |             58 |
-|             80 | Clement Ancely         |             82.18 |        7 |             96.14 | Louis Suaud              |             80 |
-|             53 | Otonuku Jr Pauta       |             73.58 |        8 |             53.67 | Ramiha Tarrel Tia Smiler |             64 |
-|             75 | Samuel Marques         |             90.55 |        9 |             71.82 | Jules Solinas            |             80 |
-|             49 | Charly Malie           |             57.51 |       10 |             58.77 | Tanguy Ménoret           |             80 |
-|             53 | Nicolas Plazy          |             79.26 |       11 |              6.13 | Baptiste Lafond          |             53 |
-|             80 | Taylor Gontineac       |             82.82 |       12 |             42.58 | Luca Cutayar             |             53 |
-|             27 | Paul Recor             |             53.9  |       13 |             59.55 | Romain Riguet            |             80 |
-|             80 | Pierre Courtaud        |             20.64 |       14 |             89.82 | Andrzej Charlat          |             27 |
-|             31 | Gabin Lorre            |             89.68 |       15 |             95.37 | David Odiete             |             58 |
-|             53 | Damien Añon            |             25.05 |       16 |             34.01 | Facundo Gigena           |             16 |
-|             80 | Yahnis El Maslouhi     |            nan    |       17 |             82.17 | Yann Tivoli              |             80 |
-|             39 | Yanis Boulassel        |             18.52 |       18 |             83.27 | Martin Freytes           |             27 |
-|             27 | Pierre Gayraud         |             12.35 |       19 |              4.65 | Bastien Berenguel        |             22 |
-|             53 | Baptiste Abescat-Leroy |             61.09 |       20 |             62.13 | Santiago Ovejero Abdala  |             22 |
-|             80 | Gillian Benoy          |             26    |       21 |             14.82 | Tom Ross                 |             21 |
-|             20 | Taleta Tupuola         |             66.17 |       22 |             68    | Paul Auradou             |             41 |
-|             80 | Yannick Arroyo         |             78.46 |       23 |             75.43 | Thibault Dufau           |             59 |
+|             16 | Francisco Fernandes    |              8.25 |        1 |             81.47 | Sunia Vola               |             27 |
+|             80 | Jose Luis Gonzalez     |             87.03 |        2 |             40.89 | Pierre Strippoli         |              5 |
+|             53 | Christian Judge        |             69.74 |        3 |             14.32 | Luvuyo Pupuma            |             58 |
+|             60 | Cam Dodson             |             81.56 |        4 |             99.7  | Tom Murday               |             58 |
+|             53 | Hans N'kinsi           |              4.39 |        5 |             52.14 | Clément Chartier         |             22 |
+|             53 | William van Bost       |             20.73 |        6 |             83.04 | Arthur Vignolles         |             53 |
+|             21 | Clement Ancely         |             77.68 |        7 |             96.92 | Louis Suaud              |             27 |
+|             53 | Otonuku Jr Pauta       |             73.85 |        8 |             50.42 | Ramiha Tarrel Tia Smiler |             80 |
+|             27 | Samuel Marques         |             87.46 |        9 |             75.6  | Jules Solinas            |             27 |
+|             53 | Charly Malie           |             58.35 |       10 |             60.47 | Tanguy Ménoret           |             61 |
+|             80 | Nicolas Plazy          |             81.9  |       11 |              6.92 | Baptiste Lafond          |             27 |
+|             49 | Taylor Gontineac       |             80.74 |       12 |             36.91 | Luca Cutayar             |             80 |
+|             53 | Paul Recor             |             60.11 |       13 |             56.91 | Romain Riguet            |             80 |
+|             80 | Pierre Courtaud        |             21.61 |       14 |             87.3  | Andrzej Charlat          |             80 |
+|             53 | Gabin Lorre            |             90.11 |       15 |             95.37 | David Odiete             |             39 |
+|             22 | Damien Añon            |             25.05 |       16 |             34.14 | Facundo Gigena           |             59 |
+|             27 | Yahnis El Maslouhi     |            nan    |       17 |             82.35 | Yann Tivoli              |             75 |
+|             20 | Yanis Boulassel        |             18.23 |       18 |             83.35 | Martin Freytes           |             80 |
+|             80 | Pierre Gayraud         |             12.26 |       19 |              4.66 | Bastien Berenguel        |             80 |
+|             27 | Baptiste Abescat-Leroy |             61.01 |       20 |             62.23 | Santiago Ovejero Abdala  |             80 |
+|             64 | Gillian Benoy          |             25.92 |       21 |             14.97 | Tom Ross                 |             31 |
+|             80 | Taleta Tupuola         |             66.06 |       22 |             68    | Paul Auradou             |             41 |
+|             27 | Yannick Arroyo         |             78.64 |       23 |             75.26 | Thibault Dufau           |             80 |
 

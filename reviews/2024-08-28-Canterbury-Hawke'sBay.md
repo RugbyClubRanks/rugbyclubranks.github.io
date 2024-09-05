@@ -69,27 +69,27 @@ Hawke's Bay by 1.4 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player       |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:------------------|---------------:|
-|             80 | Hadlee Hay-Horton  |             60.08 |        1 |               nan | Dan Lienert-Brown |             57 |
-|             80 | Kianu Kereru-Symes |            nan    |        2 |               nan | Ben Funnell       |             11 |
-|             80 | Joe Apikotoa       |              6.48 |        3 |               nan | Seb Calder        |             18 |
+|             80 | Hadlee Hay-Horton  |             57.2  |        1 |               nan | Dan Lienert-Brown |             45 |
+|             80 | Kianu Kereru-Symes |            nan    |        2 |               nan | Ben Funnell       |             69 |
+|             66 | Joe Apikotoa       |              5.66 |        3 |               nan | Seb Calder        |             18 |
 |             80 | Geoff Cridge       |            nan    |        4 |               nan | Dom Gardiner      |             80 |
 |             80 | Tom Parsons        |            nan    |        5 |               nan | Zach Gallagher    |             80 |
-|             80 | Josh Gimblett      |             58.42 |        6 |               nan | Corey Kellow      |             80 |
-|             51 | Cooper Flanders    |             54.72 |        7 |               nan | Tom Christie      |             80 |
+|             80 | Josh Gimblett      |             55.65 |        6 |               nan | Corey Kellow      |             80 |
+|             57 | Cooper Flanders    |             52.72 |        7 |               nan | Tom Christie      |             80 |
 |             61 | Hugh Renton        |            nan    |        8 |               nan | Billy Harmon      |             56 |
 |             80 | Ere Enari          |            nan    |        9 |               nan | Nic Shearer       |             80 |
-|              0 | Lincoln McClutchie |            nan    |       10 |               nan | James White       |             80 |
-|             12 | Neria Fomai        |            nan    |       11 |               nan | Kurtis Macdonald  |             56 |
-|             80 | Danny Toala        |            nan    |       12 |               nan | Ryan Crotty       |             80 |
-|             59 | Lukas Ripley       |             58.27 |       13 |               nan | Jone Rova         |             56 |
-|             80 | Freedom Vahaakolo  |            nan    |       14 |               nan | Issac Hutchinson  |             63 |
-|             24 | Harry Godfrey      |            nan    |       15 |               nan | Chay Fihaki       |             21 |
-|             24 | Tyrone Thompson    |            nan    |       16 |               nan | James Mullan      |             29 |
-|             35 | Lolani Faleiva     |            nan    |       17 |               nan | Finlay Brewis     |             35 |
-|             14 | Joel Hintz         |            nan    |       18 |               nan | Jaiden Christian  |             38 |
-|             23 | Hunter Morrison    |            nan    |       19 |               nan | Alex Grogan       |             24 |
-|             19 | Sam Smith          |            nan    |       20 |               nan | Torian Barnes     |             24 |
-|             45 | Sam Wye            |            nan    |       21 |               nan | Joel Lam          |             17 |
-|             66 | Le Roux Malan      |            nan    |       22 |               nan | Shun Miyake       |             69 |
-|             72 | Ben O'Donnell      |            nan    |       23 |               nan | Toby Bell         |             45 |
+|             17 | Lincoln McClutchie |            nan    |       10 |               nan | James White       |             80 |
+|             80 | Neria Fomai        |            nan    |       11 |               nan | Kurtis Macdonald  |             59 |
+|             45 | Danny Toala        |            nan    |       12 |               nan | Ryan Crotty       |             24 |
+|             56 | Lukas Ripley       |             54.89 |       13 |               nan | Jone Rova         |             80 |
+|             56 | Freedom Vahaakolo  |            nan    |       14 |               nan | Issac Hutchinson  |             29 |
+|             24 | Harry Godfrey      |            nan    |       15 |               nan | Chay Fihaki       |             80 |
+|             24 | Tyrone Thompson    |            nan    |       16 |               nan | James Mullan      |             63 |
+|             35 | Lolani Faleiva     |            nan    |       17 |               nan | Finlay Brewis     |             18 |
+|             14 | Joel Hintz         |            nan    |       18 |               nan | Jaiden Christian  |             24 |
+|             23 | Hunter Morrison    |            nan    |       19 |               nan | Alex Grogan       |             35 |
+|             19 | Sam Smith          |            nan    |       20 |               nan | Torian Barnes     |             21 |
+|              8 | Sam Wye            |            nan    |       21 |               nan | Joel Lam          |             38 |
+|              0 | Le Roux Malan      |            nan    |       22 |               nan | Shun Miyake       |             11 |
+|             80 | Ben O'Donnell      |            nan    |       23 |               nan | Toby Bell         |             51 |
 

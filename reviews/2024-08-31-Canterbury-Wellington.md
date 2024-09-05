@@ -11,7 +11,7 @@ categories: "NPC 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.479, which translates to predicting Wellington to win by 0.8.
 
-Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 24 to 23
+Our Over/Under is 57.5 - and combined with the spread above, we have a predicted scoreline of 29 to 28
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Wellington by 11.6 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             49 | Xavier Numia          |            nan    |        1 |             73.28 | Joe Moody          |             19 |
-|             49 | Leni Apisai           |             80.49 |        2 |            nan    | James Mullan       |             35 |
-|             80 | Siale Lauaki          |            nan    |        3 |            nan    | Jaiden Christian   |             54 |
-|             59 | Hugo Plummer          |            nan    |        4 |            nan    | Jamie Hannah       |             35 |
-|             80 | Caleb Delany          |            nan    |        5 |            nan    | Zach Gallagher     |             69 |
-|             26 | Brad Shields          |            nan    |        6 |            nan    | Billy Harmon       |             80 |
-|             78 | Sione Halalilo        |             70.99 |        7 |            nan    | Corey Kellow       |             80 |
-|             80 | Peter Lakai           |            nan    |        8 |            nan    | Torian Barnes      |             45 |
-|             57 | Kyle Preston          |            nan    |        9 |             31.27 | Tyson Belworthy    |             80 |
-|             49 | Callum Harkin         |            nan    |       10 |            nan    | Shun Miyake        |             40 |
-|             80 | Pepesana Patafilo     |            nan    |       11 |            nan    | Ngatungane Punivai |             29 |
-|             80 | Riley Higgins         |            nan    |       12 |            nan    | Jone Rova          |             42 |
-|             59 | Peter Umaga-Jensen    |            nan    |       13 |            nan    | Braydon Ennor      |             80 |
-|             80 | Julian Savea          |            nan    |       14 |            nan    | Chay Fihaki        |             80 |
-|             31 | Tjay Clarke           |            nan    |       15 |            nan    | James White        |             62 |
-|             21 | Penieli Poasa         |            nan    |       16 |            nan    | Ben Funnell        |             40 |
-|             31 | Yota Kamimori         |            nan    |       17 |            nan    | Finlay Brewis      |             45 |
-|             21 | PJ Sheck              |            nan    |       18 |            nan    | Seb Calder         |             11 |
-|             23 | Akira Ieremia         |            nan    |       19 |             25    | Liam Jack          |             18 |
-|             54 | Dominic Ropeti        |            nan    |       20 |            nan    | Tom Christie       |             40 |
-|             24 | Nui Muriwai           |            nan    |       21 |            nan    | Nic Shearer        |             40 |
-|             26 | Stanley Solomon       |             25.35 |       22 |            nan    | Dallas McLeod      |             40 |
-|             51 | Jackson Garden-Bachop |            nan    |       23 |            nan    | Issac Hutchinson   |             59 |
+|             80 | Xavier Numia          |            nan    |        1 |             73.87 | Joe Moody          |           18   |
+|             31 | Leni Apisai           |             77.34 |        2 |            nan    | James Mullan       |           35   |
+|             59 | Siale Lauaki          |            nan    |        3 |            nan    | Jaiden Christian   |           28   |
+|             21 | Hugo Plummer          |            nan    |        4 |            nan    | Jamie Hannah       |           80   |
+|             80 | Caleb Delany          |            nan    |        5 |            nan    | Zach Gallagher     |           28   |
+|             80 | Brad Shields          |            nan    |        6 |            nan    | Billy Harmon       |           69   |
+|             57 | Sione Halalilo        |             66.57 |        7 |            nan    | Corey Kellow       |           80   |
+|             31 | Peter Lakai           |            nan    |        8 |            nan    | Torian Barnes      |           54   |
+|             77 | Kyle Preston          |            nan    |        9 |             39.86 | Tyson Belworthy    |           40   |
+|             80 | Callum Harkin         |            nan    |       10 |            nan    | Shun Miyake        |           80   |
+|             80 | Pepesana Patafilo     |            nan    |       11 |            nan    | Ngatungane Punivai |           78   |
+|             80 | Riley Higgins         |            nan    |       12 |            nan    | Jone Rova          |           42   |
+|             59 | Peter Umaga-Jensen    |            nan    |       13 |            nan    | Braydon Ennor      |           45   |
+|             80 | Julian Savea          |            nan    |       14 |            nan    | Chay Fihaki        |           62   |
+|             31 | Tjay Clarke           |            nan    |       15 |            nan    | James White        |           61   |
+|             54 | Penieli Poasa         |            nan    |       16 |            nan    | Ben Funnell        |           40   |
+|             37 | Yota Kamimori         |            nan    |       17 |            nan    | Finlay Brewis      |           45   |
+|             49 | PJ Sheck              |            nan    |       18 |            nan    | Seb Calder         |           11   |
+|             80 | Akira Ieremia         |            nan    |       19 |             25.12 | Liam Jack          |           35   |
+|             59 | Dominic Ropeti        |            nan    |       20 |            nan    | Tom Christie       |           26   |
+|             24 | Nui Muriwai           |            nan    |       21 |            nan    | Nic Shearer        |           80   |
+|             26 | Stanley Solomon       |             25.5  |       22 |            nan    | Dallas McLeod      |            8.5 |
+|             51 | Jackson Garden-Bachop |            nan    |       23 |            nan    | Issac Hutchinson   |           64   |
 

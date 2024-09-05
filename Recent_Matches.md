@@ -39,20 +39,6 @@ Last Round Error: 7.14 points per match
 [2024-09-01 Australia at Argentina; 20-19](reviews//2024-09-01-Argentina-Australia)
 # Domestic Leagues
 
-## Bunnings NPC
-
-
-[In depth model review and projections for Bunnings NPC 2024](comp_files/Bunnings_NPC_2024)
-
-Competition Accuracy: 13 of 20 (65.0%)
-
-Competition Error: 9.99 points per match
-
-Last Round Accuracy: 5 of 7 (71.43%)
-
-Last Round Error: 15.1 points per match
-
-[2024-08-31 Counties Manukau at North Harbour; 36-33](reviews//2024-08-31-NorthHarbour-CountiesManukau)
 ## Currie Cup
 
 
@@ -82,21 +68,21 @@ Last Round Error: 24.25 points per match
 
 Competition Accuracy: 14 of 17 (82.35%)
 
-Competition Error: 10.08 points per match
+Competition Error: 10.39 points per match
 
 Last Round Accuracy: 6 of 7 (85.71%)
 
-Last Round Error: 14.17 points per match
-
-[2024-08-30 Narbonne at Albi; 16-23](reviews//2024-08-30-Albi-Narbonne)
+Last Round Error: 14.74 points per match
 
 [2024-08-30 Massy at Chambery; 26-29](reviews//2024-08-30-Chambery-Massy)
 
 [2024-08-30 US Bressane at Tarbes; 9-29](reviews//2024-08-30-Tarbes-USBressane)
 
-[2024-08-31 Carcassonne at Rouen; 8-13](reviews//2024-08-31-Rouen-Carcassonne)
+[2024-08-30 Narbonne at Albi; 16-23](reviews//2024-08-30-Albi-Narbonne)
 
 [2024-08-31 Langon at Suresnes; 24-34](reviews//2024-08-31-Suresnes-Langon)
+
+[2024-08-31 Carcassonne at Rouen; 8-13](reviews//2024-08-31-Rouen-Carcassonne)
 
 [2024-08-31 Bourgoin-Jallieu at Marcq-en-Baroeul; 33-18](reviews//2024-08-31-Marcq-en-Baroeul-Bourgoin-Jallieu)
 
@@ -108,27 +94,27 @@ Last Round Error: 14.17 points per match
 
 Competition Accuracy: 4 of 8 (50.0%)
 
-Competition Error: 6.81 points per match
+Competition Error: 6.73 points per match
 
 Last Round Accuracy: 4 of 8 (50.0%)
 
-Last Round Error: 6.81 points per match
+Last Round Error: 6.73 points per match
 
 [2024-08-29 Oyonnax at Brive; 9-18](reviews//2024-08-29-Brive-Oyonnax)
+
+[2024-08-30 Colomiers at Mont-de-Marsan; 18-16](reviews//2024-08-30-Mont-de-Marsan-Colomiers)
 
 [2024-08-30 Valence Romans Drome Rugby at Biarritz Olympique; 21-23](reviews//2024-08-30-BiarritzOlympique-ValenceRomansDromeRugby)
 
 [2024-08-30 Beziers at Nice; 13-9](reviews//2024-08-30-Nice-Beziers)
 
-[2024-08-30 Soyaux-Angouleme at Aurillac; 31-24](reviews//2024-08-30-Aurillac-Soyaux-Angouleme)
-
-[2024-08-30 Grenoble at Nevers; 26-20](reviews//2024-08-30-Nevers-Grenoble)
-
 [2024-08-30 Agen at Provence Rugby; 18-21](reviews//2024-08-30-ProvenceRugby-Agen)
 
-[2024-08-30 Colomiers at Mont-de-Marsan; 18-16](reviews//2024-08-30-Mont-de-Marsan-Colomiers)
+[2024-08-30 Soyaux-Angouleme at Aurillac; 31-24](reviews//2024-08-30-Aurillac-Soyaux-Angouleme)
 
 [2024-08-30 Montauban at Dax; 12-24](reviews//2024-08-30-Dax-Montauban)
+
+[2024-08-30 Grenoble at Nevers; 26-20](reviews//2024-08-30-Nevers-Grenoble)
 ## URBA Top 13
 
 
@@ -140,16 +126,16 @@ Competition Error: 10.91 points per match
 
 Last Round Accuracy: 5 of 7 (71.43%)
 
-Last Round Error: 10.23 points per match
-
-[2024-08-31 Alumni at Buenos Aires; 27-17](reviews//2024-08-31-BuenosAires-Alumni)
+Last Round Error: 10.74 points per match
 
 [2024-08-31 SIC at Regatas Bella Vista; 16-12](reviews//2024-08-31-RegatasBellaVista-SIC)
 
+[2024-08-31 Alumni at Buenos Aires; 27-17](reviews//2024-08-31-BuenosAires-Alumni)
+
 [2024-08-31 Champagnat at San Luis; 14-17](reviews//2024-08-31-SanLuis-Champagnat)
 
-[2024-08-31 Newman at Belgrano; 23-9](reviews//2024-08-31-Belgrano-Newman)
-
 [2024-08-31 Atletico del Rosario at Hindu; 27-34](reviews//2024-08-31-Hindu-AtleticodelRosario)
+
+[2024-08-31 Newman at Belgrano; 23-9](reviews//2024-08-31-Belgrano-Newman)
 
 [2024-08-31 CUBA at CASI; 3-27](reviews//2024-08-31-CASI-CUBA)

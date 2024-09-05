@@ -69,27 +69,27 @@ Northland by 2.4 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player            |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:-----------------------|---------------:|
-|             13 | Jack Sexton           |            nan    |        1 |             39.84 | Jarred Adams           |             80 |
-|             58 | Jack Taylor           |            nan    |        2 |            nan    | Matt Moulds            |             50 |
-|             80 | Morgan Mitchell       |            nan    |        3 |            nan    | Chris Apoua            |             67 |
-|             62 | Mitchell Dunshea      |            nan    |        4 |            nan    | Liam Hallam-Eames      |             62 |
-|             80 | Shneil Singh          |             10.16 |        5 |            nan    | Sam Caird              |             67 |
-|             43 | Sean Withy            |            nan    |        6 |            nan    | Simon Parker           |             80 |
-|             80 | Dylan Nel             |            nan    |        7 |             16.44 | Terrell Peita          |             80 |
-|             55 | Semisi Tupou Ta'eiloa |            nan    |        8 |            nan    | Rob Rush               |             53 |
-|             80 | Jay Renton            |             37.29 |        9 |            nan    | Sam Nock               |             25 |
-|             80 | Jake Strachan         |             30.02 |       10 |            nan    | Rivez Reihana          |             67 |
-|             62 | Charlie Powell        |            nan    |       11 |            nan    | Heremaia Murray        |             80 |
-|             55 | Faletoi Peni          |            nan    |       12 |            nan    | Tevita Latu            |             80 |
+|             33 | Jack Sexton           |            nan    |        1 |             45.71 | Jarred Adams           |             67 |
+|             62 | Jack Taylor           |            nan    |        2 |            nan    | Matt Moulds            |             50 |
+|             59 | Morgan Mitchell       |            nan    |        3 |            nan    | Chris Apoua            |             67 |
+|             55 | Mitchell Dunshea      |            nan    |        4 |            nan    | Liam Hallam-Eames      |             62 |
+|             80 | Shneil Singh          |              9.67 |        5 |            nan    | Sam Caird              |             67 |
+|             62 | Sean Withy            |            nan    |        6 |            nan    | Simon Parker           |             80 |
+|             80 | Dylan Nel             |            nan    |        7 |             17.76 | Terrell Peita          |             80 |
+|             43 | Semisi Tupou Ta'eiloa |            nan    |        8 |            nan    | Rob Rush               |             53 |
+|             80 | Jay Renton            |             33.68 |        9 |            nan    | Sam Nock               |             12 |
+|             55 | Jake Strachan         |             25.79 |       10 |            nan    | Rivez Reihana          |             25 |
+|             80 | Charlie Powell        |            nan    |       11 |            nan    | Heremaia Murray        |             13 |
+|             54 | Faletoi Peni          |            nan    |       12 |            nan    | Tevita Latu            |             80 |
 |             80 | Isaac Te Tamaki       |            nan    |       13 |            nan    | Corey Evans            |             68 |
-|             59 | Viliami Fine          |            nan    |       14 |             29.69 | Brady Rush             |             80 |
-|             21 | Rory van Vugt         |            nan    |       15 |            nan    | Jordan Trainor         |             25 |
-|             22 | Nic Souchon           |             21.64 |       16 |            nan    | Richie Asiata          |             80 |
-|             25 | Hunter Fahey          |            nan    |       17 |            nan    | Rob Cobb               |             13 |
-|             18 | Hamdahn Tuipulotu     |            nan    |       18 |            nan    | Remsy Lemisio          |             30 |
-|             37 | Josh Bekhuis          |            nan    |       19 |            nan    | Bodene Davis           |             18 |
-|             25 | Leroy Ferguson        |            nan    |       20 |            nan    | Saimoni Uluinakauvadra |             13 |
-|             33 | Lachie Albert         |            nan    |       21 |            nan    | Lisati Milo-Harris     |             27 |
-|             18 | Byron Smith           |            nan    |       22 |            nan    | Daniel Hawkins         |             80 |
-|             47 | Angus Simmers         |            nan    |       23 |            nan    | Quinton Nichols        |             68 |
+|             30 | Viliami Fine          |            nan    |       14 |            nan    | Brady Rush             |             80 |
+|             47 | Rory van Vugt         |            nan    |       15 |            nan    | Jordan Trainor         |             25 |
+|             80 | Nic Souchon           |             21.67 |       16 |            nan    | Richie Asiata          |             80 |
+|             21 | Hunter Fahey          |            nan    |       17 |            nan    | Rob Cobb               |             13 |
+|             22 | Hamdahn Tuipulotu     |            nan    |       18 |            nan    | Remsy Lemisio          |             30 |
+|             25 | Josh Bekhuis          |            nan    |       19 |            nan    | Bodene Davis           |             18 |
+|             18 | Leroy Ferguson        |            nan    |       20 |            nan    | Saimoni Uluinakauvadra |             13 |
+|             37 | Lachie Albert         |            nan    |       21 |            nan    | Lisati Milo-Harris     |             80 |
+|             25 | Byron Smith           |            nan    |       22 |            nan    | Daniel Hawkins         |             58 |
+|             27 | Angus Simmers         |            nan    |       23 |            nan    | Quinton Nichols        |             80 |
 

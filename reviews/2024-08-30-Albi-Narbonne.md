@@ -9,9 +9,9 @@ categories: "Nationale 2024" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.677, which translates to predicting Albi to win by 6.5.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.67, which translates to predicting Albi to win by 6.2.
 
-Our Over/Under is 39.5 - and combined with the spread above, we have a predicted scoreline of 17 to 23
+Our Over/Under is 38.5 - and combined with the spread above, we have a predicted scoreline of 16 to 22
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Albi by 6.7 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player             |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:------------------------|---------------:|
-|              1 | Geoffrey Moise     |             49.96 |        1 |             69.07 | Antoine Soave           |             80 |
-|             56 | Clément Esteriola  |             15.08 |        2 |             54.1  | Arthur Castant          |             49 |
-|             68 | Jérémy Boyadjis    |             68.66 |        3 |             29.96 | Jean Baptiste De Clercq |             40 |
-|             29 | Marius Antonescu   |             74.8  |        4 |             52.09 | Yanis Horvat            |             58 |
-|             30 | Leva Fifita        |             11.45 |        5 |             76.29 | Jonathan Kpoku          |             80 |
-|             12 | Arthur Christienne |             64.95 |        6 |             12.57 | Mattéo Coustalat        |             80 |
-|             50 | Paul Belzons       |              5.15 |        7 |             60.4  | Simon Meka              |             79 |
-|             50 | Charles Malet      |             26    |        8 |             57.02 | Camille Jarreau         |             80 |
-|             17 | Pablo Barbaste     |             73.54 |        9 |             68.21 | Gilen Queheille         |             80 |
-|             80 | Gilles Bosch       |              4.02 |       10 |             69.34 | Thibault Olender        |             80 |
-|             51 | Étienne Ducom      |             28.37 |       11 |             46.28 | Antoine Bouzerand       |             58 |
-|             25 | Peter Betham       |             99.47 |       12 |             18.36 | Leo Treilles            |             80 |
-|             80 | Pierre Nueno       |             53.79 |       13 |             81.32 | Baptiste Couchinave     |             33 |
-|             80 | Pierre-Hugo Ducom  |             13.48 |       14 |             73.89 | Simon Hartmann          |             31 |
-|             54 | Boris Goutard      |              0.42 |       15 |             43.16 | Téo Dospital            |             80 |
-|             80 | Gregory Fichten    |              9.55 |       16 |             44.05 | Lucas Pindor            |             20 |
-|             24 | Mehdi Boundjema    |             91.15 |       17 |             22.95 | Reinach Venter          |             51 |
-|             30 | Mohammed Loukia    |             21.46 |       18 |             31.26 | Thomas Cretu            |             40 |
-|             30 | Darrell Dyer       |             87.05 |       19 |             23.21 | Dion Evrard Oulai       |             22 |
-|             24 | Thibault Clauzade  |             56.44 |       20 |             21.65 | Ruben Courties          |             31 |
-|             56 | James Hart         |            nan    |       21 |             91.89 | Nasoni Naqiri Kunavore  |             22 |
-|             80 | Tom Chauvet        |             53.28 |       22 |             40.17 | Victor Pisano           |              1 |
-|             24 | Clément Clavières  |             82.09 |       23 |             52.5  | Kamilieni Raivono       |             34 |
+|             68 | Geoffrey Moise     |             55.66 |        1 |             75.08 | Antoine Soave           |              9 |
+|             80 | Clément Esteriola  |             15.11 |        2 |             55.67 | Arthur Castant          |             49 |
+|             80 | Jérémy Boyadjis    |             69.34 |        3 |             31.8  | Jean Baptiste De Clercq |             40 |
+|             50 | Marius Antonescu   |             74.48 |        4 |             54.54 | Yanis Horvat            |             58 |
+|             39 | Leva Fifita        |             12.46 |        5 |             77.87 | Jonathan Kpoku          |             80 |
+|             50 | Arthur Christienne |             65.97 |        6 |             14.48 | Mattéo Coustalat        |             49 |
+|             80 | Paul Belzons       |              5.26 |        7 |             65.38 | Simon Meka              |             34 |
+|             60 | Charles Malet      |             26.15 |        8 |             60.25 | Camille Jarreau         |             79 |
+|             26 | Pablo Barbaste     |             72.85 |        9 |             71.99 | Gilen Queheille         |             47 |
+|             46 | Gilles Bosch       |              4.02 |       10 |             72.73 | Thibault Olender        |             29 |
+|             39 | Étienne Ducom      |             27.87 |       11 |             48.82 | Antoine Bouzerand       |             58 |
+|             80 | Peter Betham       |             99.47 |       12 |             20.64 | Leo Treilles            |             80 |
+|             80 | Pierre Nueno       |             53.4  |       13 |             81.38 | Baptiste Couchinave     |             46 |
+|             80 | Pierre-Hugo Ducom  |             13.55 |       14 |             73.65 | Simon Hartmann          |             80 |
+|             54 | Boris Goutard      |              0.42 |       15 |             48    | Téo Dospital            |             31 |
+|             80 | Gregory Fichten    |             10.6  |       16 |             44.26 | Lucas Pindor            |             40 |
+|             24 | Mehdi Boundjema    |             91.13 |       17 |             22.99 | Reinach Venter          |             22 |
+|             25 | Mohammed Loukia    |             21.52 |       18 |             31.39 | Thomas Cretu            |             31 |
+|             53 | Darrell Dyer       |             87.14 |       19 |             23.23 | Dion Evrard Oulai       |             22 |
+|             30 | Thibault Clauzade  |             56.35 |       20 |             21.82 | Ruben Courties          |             48 |
+|             30 | James Hart         |            nan    |       21 |             92.02 | Nasoni Naqiri Kunavore  |             80 |
+|             24 | Tom Chauvet        |             53.49 |       22 |             40.17 | Victor Pisano           |             13 |
+|             24 | Clément Clavières  |             81.8  |       23 |             52.7  | Kamilieni Raivono       |             56 |
 

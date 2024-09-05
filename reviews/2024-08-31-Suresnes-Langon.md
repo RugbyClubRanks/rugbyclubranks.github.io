@@ -9,9 +9,9 @@ categories: "Nationale 2024" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.391, which translates to predicting Langon to win by 6.6.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.39, which translates to predicting Langon to win by 6.7.
 
-Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 29 to 22
+Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 26 to 20
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Suresnes by 4.5 on a neutral pitch
 
 |   Away Minutes | Away Player                    |   Away Percentile |   Number |   Home Percentile | Home Player             |   Home Minutes |
 |---------------:|:-------------------------------|------------------:|---------:|------------------:|:------------------------|---------------:|
-|             17 | Jose Novak                     |             42.83 |        1 |             70.12 | Thibaud Sebire          |             80 |
-|             35 | Clement Renaud                 |            nan    |        2 |             11.15 | Jean-Étienne Lesueur    |             63 |
-|             54 | Maxime Gau                     |            nan    |        3 |             31.66 | Guiterembi Vickos       |             80 |
-|             44 | Simon Lobjoit                  |             46.02 |        4 |             74.3  | Nikita Bekov            |             23 |
-|              1 | Vincent Bouet                  |             47.51 |        5 |             91.04 | Marvin Woki             |             47 |
-|             35 | Thomas Bishop                  |             42.48 |        6 |             62.28 | Simon Veyrac            |             47 |
-|             80 | Ludovic Sempé                  |             41.09 |        7 |             80.69 | Wian Vosloo             |             80 |
-|             44 | Jules Depoortere               |             41.72 |        8 |             46.54 | Boaventura Almeida      |             57 |
-|             52 | Paul Castera                   |             45.02 |        9 |             11.34 | Thomas Lacroix          |             33 |
-|             56 | Baptiste Castanier             |            nan    |       10 |             77.59 | Jean Chezeau            |             79 |
-|             80 | Thomas Wallraf                 |             78.23 |       11 |             96.8  | Faraj Fartass           |             80 |
-|             80 | Guillaume Christophe           |             46.53 |       12 |             83.88 | Petero Tuwai            |             80 |
-|             80 | Sionasa Vunisa                 |            nan    |       13 |             44.29 | Gauthier Wolf           |             63 |
-|             80 | Jean-Baptiste Bretagnolle      |             43.36 |       14 |             18.19 | Yohan Fournier          |             80 |
-|             80 | Nathan Gagnac                  |            nan    |       15 |             12.84 | Thomas Baudy            |             33 |
-|             36 | Ratu Nailoma Vatubua           |            nan    |       16 |             23.26 | Tanguy Lacoste          |             26 |
-|             36 | Isikili Seva Davetawalu        |            nan    |       17 |             81.13 | Leandro Mario Assi      |             40 |
-|             30 | Thomas Geffré                  |            nan    |       18 |             17.63 | Yakine Djebarri         |             30 |
-|             80 | Meryll Ech Chalka Roumazeilles |            nan    |       19 |             89.51 | Gauthier Brute de Remur |             50 |
-|             50 | Aurelien Tamagnan              |            nan    |       20 |             52.72 | Jean Delbecq            |             80 |
-|             45 | Christel Bertrand              |            nan    |       21 |            nan    | Yanis Trabelsi          |             17 |
-|             80 | Lucas Hernandez                |            nan    |       22 |            nan    | Germain de Borda        |             59 |
-|             54 | Julien Graffouillère           |            nan    |       23 |            nan    | nan                     |            nan |
+|             36 | Jose Novak                     |             40.7  |        1 |             71.76 | Thibaud Sebire          |             80 |
+|             16 | Clement Renaud                 |            nan    |        2 |             11.17 | Jean-Étienne Lesueur    |             63 |
+|             45 | Maxime Gau                     |            nan    |        3 |             30.99 | Guiterembi Vickos       |             47 |
+|             28 | Simon Lobjoit                  |             46.06 |        4 |             75.77 | Nikita Bekov            |             47 |
+|             80 | Vincent Bouet                  |             43.37 |        5 |             91.63 | Marvin Woki             |             80 |
+|             35 | Thomas Bishop                  |             41.77 |        6 |             63.69 | Simon Veyrac            |             64 |
+|             80 | Ludovic Sempé                  |             38.79 |        7 |             81.35 | Wian Vosloo             |             80 |
+|             44 | Jules Depoortere               |             40.38 |        8 |             48.12 | Boaventura Almeida      |             80 |
+|             44 | Paul Castera                   |             43.99 |        9 |             13.4  | Thomas Lacroix          |             80 |
+|             74 | Baptiste Castanier             |            nan    |       10 |             78.44 | Jean Chezeau            |             80 |
+|             80 | Thomas Wallraf                 |             77.25 |       11 |             96.21 | Faraj Fartass           |              6 |
+|             80 | Guillaume Christophe           |             44.89 |       12 |             83.51 | Petero Tuwai            |             80 |
+|             80 | Sionasa Vunisa                 |            nan    |       13 |             42.45 | Gauthier Wolf           |             35 |
+|             80 | Jean-Baptiste Bretagnolle      |             41.9  |       14 |             16.87 | Yohan Fournier          |             21 |
+|             55 | Nathan Gagnac                  |            nan    |       15 |             14.95 | Thomas Baudy            |             80 |
+|             52 | Ratu Nailoma Vatubua           |            nan    |       16 |             23.04 | Tanguy Lacoste          |             40 |
+|             28 | Isikili Seva Davetawalu        |            nan    |       17 |             80.83 | Leandro Mario Assi      |             40 |
+|             36 | Thomas Geffré                  |            nan    |       18 |             17.75 | Yakine Djebarri         |             33 |
+|             30 | Meryll Ech Chalka Roumazeilles |            nan    |       19 |             89.49 | Gauthier Brute de Remur |             80 |
+|             30 | Aurelien Tamagnan              |            nan    |       20 |             52.55 | Jean Delbecq            |             33 |
+|             80 | Christel Bertrand              |            nan    |       21 |            nan    | Yanis Trabelsi          |             17 |
+|              1 | Lucas Hernandez                |            nan    |       22 |            nan    | Germain de Borda        |             17 |
+|             26 | Julien Graffouillère           |            nan    |       23 |            nan    | nan                     |            nan |
 
