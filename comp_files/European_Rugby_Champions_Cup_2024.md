@@ -1,6 +1,6 @@
 ---  
 title: "European Rugby Champions Cup 2024 Status"  
-date: 2024-09-05 6:00:00 -0500  
+date: 2024-09-06 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,30 +17,30 @@ aside:
 
 | Club                 |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Stade Toulousain     |               4 |    3.5 |            23.9457   |                   0.5 |                1.6 |                 16.2 |
-| Leinster             |               4 |    3.3 |            24.0652   |                   0.7 |                1.6 |                 15.5 |
-| Bulls                |               4 |    2.9 |            12.8972   |                   0.9 |                1.5 |                 13.9 |
-| Glasgow Warriors     |               4 |    2.8 |            13.0712   |                   1.1 |                1.3 |                 13.7 |
-| Munster              |               4 |    2.9 |            12.9204   |                   1   |                1.1 |                 13.4 |
-| Bordeaux Begles      |               4 |    2.6 |             9.48956  |                   1.2 |                1   |                 12.6 |
-| Stormers             |               4 |    2.6 |             7.35553  |                   1.2 |                1   |                 12.6 |
-| La Rochelle          |               4 |    2.3 |             5.14561  |                   1.5 |                1.5 |                 12.3 |
-| Saracens             |               4 |    2.4 |             7.51983  |                   1.3 |                0.7 |                 11.6 |
-| Northampton Saints   |               4 |    2.3 |             6.43439  |                   1.4 |                0.8 |                 11.5 |
-| Bath Rugby           |               4 |    2.1 |            -1.77645  |                   1.2 |                0.9 |                 10.4 |
-| Sale Sharks          |               4 |    2   |             0.167647 |                   1.4 |                0.8 |                 10.3 |
-| Exeter Chiefs        |               4 |    1.9 |            -1.84817  |                   1.8 |                0.8 |                 10   |
-| Leicester Tigers     |               4 |    2   |            -1.54287  |                   1.1 |                0.6 |                  9.5 |
-| Bristol Rugby        |               4 |    1.5 |            -6.09597  |                   1.8 |                1.7 |                  9.5 |
-| Toulon               |               4 |    1.7 |            -3.40935  |                   1.8 |                0.7 |                  9.2 |
-| Clermont Auvergne    |               4 |    1.7 |           -10.1009   |                   1.1 |                1.1 |                  8.9 |
-| Harlequins           |               4 |    1.5 |            -6.30897  |                   2   |                0.9 |                  8.7 |
-| Ulster               |               4 |    1.4 |           -10.844    |                   1.5 |                0.7 |                  8   |
-| Racing 92            |               4 |    1.4 |           -10.8761   |                   1.6 |                0.7 |                  7.8 |
-| Benetton Treviso     |               4 |    1.1 |           -11.2374   |                   2.1 |                0.9 |                  7.5 |
-| Stade Francais Paris |               4 |    1   |           -17.8878   |                   1.7 |                0.7 |                  6.1 |
-| Sharks               |               4 |    0.6 |           -19.2003   |                   2   |                0.7 |                  5.2 |
-| Castres Olympique    |               4 |    0.6 |           -21.8841   |                   1.9 |                0.6 |                  4.7 |
+| Stade Toulousain     |               4 |    3.5 |             23.8064  |                   0.5 |                1.6 |                 16.2 |
+| Leinster             |               4 |    3.3 |             23.9654  |                   0.7 |                1.6 |                 15.5 |
+| Bulls                |               4 |    2.8 |             13.2603  |                   1   |                1.5 |                 13.8 |
+| Glasgow Warriors     |               4 |    2.8 |             12.4325  |                   1.1 |                1.3 |                 13.6 |
+| Munster              |               4 |    2.8 |             12.4707  |                   1.1 |                1   |                 13.2 |
+| Stormers             |               4 |    2.6 |              7.11077 |                   1.3 |                1   |                 12.6 |
+| Bordeaux Begles      |               4 |    2.5 |              9.23094 |                   1.3 |                1.1 |                 12.5 |
+| La Rochelle          |               4 |    2.3 |              4.53696 |                   1.5 |                1.4 |                 12.1 |
+| Saracens             |               4 |    2.5 |              7.76941 |                   1.2 |                0.7 |                 11.8 |
+| Northampton Saints   |               4 |    2.4 |              6.10931 |                   1.3 |                0.8 |                 11.6 |
+| Bath Rugby           |               4 |    2.1 |             -1.75736 |                   1.2 |                0.9 |                 10.5 |
+| Sale Sharks          |               4 |    2.1 |              0.8673  |                   1.3 |                0.8 |                 10.4 |
+| Exeter Chiefs        |               4 |    1.8 |             -1.93281 |                   1.9 |                0.8 |                 10   |
+| Leicester Tigers     |               4 |    2   |             -1.01302 |                   1.1 |                0.6 |                  9.7 |
+| Bristol Rugby        |               4 |    1.5 |             -6.55474 |                   1.8 |                1.7 |                  9.4 |
+| Toulon               |               4 |    1.7 |             -3.10906 |                   1.7 |                0.7 |                  9.3 |
+| Clermont Auvergne    |               4 |    1.7 |             -9.58637 |                   1.1 |                1.2 |                  9   |
+| Harlequins           |               4 |    1.5 |             -6.44266 |                   2   |                0.9 |                  8.8 |
+| Ulster               |               4 |    1.4 |            -10.9152  |                   1.5 |                0.7 |                  7.9 |
+| Racing 92            |               4 |    1.3 |            -10.8588  |                   1.7 |                0.8 |                  7.8 |
+| Benetton Treviso     |               4 |    1.1 |            -10.6039  |                   2.1 |                0.9 |                  7.6 |
+| Stade Francais Paris |               4 |    0.9 |            -18.0339  |                   1.7 |                0.6 |                  6   |
+| Sharks               |               4 |    0.7 |            -19.1764  |                   2   |                0.7 |                  5.3 |
+| Castres Olympique    |               4 |    0.6 |            -21.5758  |                   1.9 |                0.5 |                  4.8 |
 
 
 
@@ -51,7 +51,7 @@ aside:
 ### Bath Rugby V La Rochelle on 2024/12/06
 
 
-Average Margin: Bath Rugby by 1.7
+Average Margin: Bath Rugby by 2.0
 
 Average Scoreline: 31-29
 
@@ -64,9 +64,9 @@ Average Scoreline: 31-29
 ### Saracens V Bulls on 2024/12/07
 
 
-Average Margin: Saracens by 2.5
+Average Margin: Saracens by 2.4
 
-Average Scoreline: 27-24
+Average Scoreline: 27-25
 
 <p float="left">
 <img src="plots/performances_2024-12-07-Saracens_V_Bulls.png" width="32%" />
@@ -77,7 +77,7 @@ Average Scoreline: 27-24
 ### Glasgow Warriors V Sale Sharks on 2024/12/07
 
 
-Average Margin: Glasgow Warriors by 5.5
+Average Margin: Glasgow Warriors by 5.3
 
 Average Scoreline: 28-23
 
@@ -90,7 +90,7 @@ Average Scoreline: 28-23
 ### Racing 92 V Harlequins on 2024/12/07
 
 
-Average Margin: Racing 92 by 2.6
+Average Margin: Racing 92 by 2.5
 
 Average Scoreline: 29-27
 
@@ -103,7 +103,7 @@ Average Scoreline: 29-27
 ### Clermont Auvergne V Benetton Treviso on 2024/12/07
 
 
-Average Margin: Clermont Auvergne by 4.4
+Average Margin: Clermont Auvergne by 4.3
 
 Average Scoreline: 25-21
 
@@ -116,9 +116,9 @@ Average Scoreline: 25-21
 ### Stormers V Toulon on 2024/12/07
 
 
-Average Margin: Stormers by 4.6
+Average Margin: Stormers by 4.4
 
-Average Scoreline: 25-20
+Average Scoreline: 25-21
 
 <p float="left">
 <img src="plots/performances_2024-12-07-Stormers_V_Toulon.png" width="32%" />
@@ -129,7 +129,7 @@ Average Scoreline: 25-20
 ### Northampton Saints V Castres Olympique on 2024/12/07
 
 
-Average Margin: Northampton Saints by 8.3
+Average Margin: Northampton Saints by 8.2
 
 Average Scoreline: 26-18
 
@@ -142,7 +142,7 @@ Average Scoreline: 26-18
 ### Sharks V Exeter Chiefs on 2024/12/07
 
 
-Average Margin: Exeter Chiefs by 0.0
+Average Margin: Sharks by 0.1
 
 Average Scoreline: 21-21
 
@@ -155,7 +155,7 @@ Average Scoreline: 21-21
 ### Munster V Stade Francais Paris on 2024/12/07
 
 
-Average Margin: Munster by 8.4
+Average Margin: Munster by 8.3
 
 Average Scoreline: 22-13
 
@@ -168,7 +168,7 @@ Average Scoreline: 22-13
 ### Bristol Rugby V Leinster on 2024/12/08
 
 
-Average Margin: Leinster by 3.3
+Average Margin: Leinster by 3.5
 
 Average Scoreline: 28-24
 
@@ -181,7 +181,7 @@ Average Scoreline: 28-24
 ### Stade Toulousain V Ulster on 2024/12/08
 
 
-Average Margin: Stade Toulousain by 9.5
+Average Margin: Stade Toulousain by 9.3
 
 Average Scoreline: 23-14
 
@@ -194,7 +194,7 @@ Average Scoreline: 23-14
 ### Bordeaux Begles V Leicester Tigers on 2024/12/08
 
 
-Average Margin: Bordeaux Begles by 4.7
+Average Margin: Bordeaux Begles by 4.4
 
 Average Scoreline: 28-24
 
@@ -209,7 +209,7 @@ Average Scoreline: 28-24
 ### Castres Olympique V Munster on 2024/12/13
 
 
-Average Margin: Munster by 2.6
+Average Margin: Munster by 2.4
 
 Average Scoreline: 23-21
 
@@ -222,7 +222,7 @@ Average Scoreline: 23-21
 ### Sale Sharks V Racing 92 on 2024/12/13
 
 
-Average Margin: Sale Sharks by 5.8
+Average Margin: Sale Sharks by 6.0
 
 Average Scoreline: 26-20
 
@@ -235,7 +235,7 @@ Average Scoreline: 26-20
 ### Leinster V Clermont Auvergne on 2024/12/14
 
 
-Average Margin: Leinster by 11.3
+Average Margin: Leinster by 10.9
 
 Average Scoreline: 29-18
 
@@ -261,7 +261,7 @@ Average Scoreline: 37-31
 ### Bulls V Northampton Saints on 2024/12/14
 
 
-Average Margin: Bulls by 4.5
+Average Margin: Bulls by 4.6
 
 Average Scoreline: 28-23
 
@@ -274,7 +274,7 @@ Average Scoreline: 28-23
 ### Ulster V Bordeaux Begles on 2024/12/14
 
 
-Average Margin: Ulster by 1.1
+Average Margin: Ulster by 0.9
 
 Average Scoreline: 28-27
 
@@ -287,7 +287,7 @@ Average Scoreline: 28-27
 ### Harlequins V Stormers on 2024/12/14
 
 
-Average Margin: Harlequins by 1.1
+Average Margin: Harlequins by 0.9
 
 Average Scoreline: 27-26
 
@@ -300,7 +300,7 @@ Average Scoreline: 27-26
 ### Leicester Tigers V Sharks on 2024/12/14
 
 
-Average Margin: Leicester Tigers by 6.6
+Average Margin: Leicester Tigers by 6.7
 
 Average Scoreline: 24-17
 
@@ -313,7 +313,7 @@ Average Scoreline: 24-17
 ### Toulon V Glasgow Warriors on 2024/12/15
 
 
-Average Margin: Toulon by 0.7
+Average Margin: Toulon by 0.9
 
 Average Scoreline: 23-22
 
@@ -326,7 +326,7 @@ Average Scoreline: 23-22
 ### Stade Francais Paris V Saracens on 2024/12/15
 
 
-Average Margin: Saracens by 0.8
+Average Margin: Saracens by 0.9
 
 Average Scoreline: 20-19
 
@@ -367,7 +367,7 @@ Average Scoreline: 24-24
 ### Glasgow Warriors V Racing 92 on 2025/01/10
 
 
-Average Margin: Glasgow Warriors by 7.9
+Average Margin: Glasgow Warriors by 7.7
 
 Average Scoreline: 24-16
 
@@ -393,7 +393,7 @@ Average Scoreline: 26-23
 ### Leicester Tigers V Ulster on 2025/01/11
 
 
-Average Margin: Leicester Tigers by 4.7
+Average Margin: Leicester Tigers by 4.9
 
 Average Scoreline: 25-20
 
@@ -406,9 +406,9 @@ Average Scoreline: 25-20
 ### Munster V Saracens on 2025/01/11
 
 
-Average Margin: Munster by 4.2
+Average Margin: Munster by 4.0
 
-Average Scoreline: 23-18
+Average Scoreline: 23-19
 
 <p float="left">
 <img src="plots/performances_2025-01-11-Munster_V_Saracens.png" width="32%" />
@@ -432,7 +432,7 @@ Average Scoreline: 25-25
 ### Stormers V Sale Sharks on 2025/01/11
 
 
-Average Margin: Stormers by 4.0
+Average Margin: Stormers by 3.9
 
 Average Scoreline: 28-24
 
@@ -445,7 +445,7 @@ Average Scoreline: 28-24
 ### Exeter Chiefs V Bordeaux Begles on 2025/01/11
 
 
-Average Margin: Exeter Chiefs by 2.0
+Average Margin: Exeter Chiefs by 2.2
 
 Average Scoreline: 26-24
 
@@ -458,7 +458,7 @@ Average Scoreline: 26-24
 ### Sharks V Stade Toulousain on 2025/01/11
 
 
-Average Margin: Stade Toulousain by 4.7
+Average Margin: Stade Toulousain by 4.8
 
 Average Scoreline: 29-24
 
@@ -471,7 +471,7 @@ Average Scoreline: 29-24
 ### Bristol Rugby V Benetton Treviso on 2025/01/12
 
 
-Average Margin: Bristol Rugby by 5.5
+Average Margin: Bristol Rugby by 5.1
 
 Average Scoreline: 31-25
 
@@ -484,7 +484,7 @@ Average Scoreline: 31-25
 ### Bath Rugby V Clermont Auvergne on 2025/01/12
 
 
-Average Margin: Bath Rugby by 5.6
+Average Margin: Bath Rugby by 5.3
 
 Average Scoreline: 29-23
 
@@ -497,7 +497,7 @@ Average Scoreline: 29-23
 ### La Rochelle V Leinster on 2025/01/12
 
 
-Average Margin: Leinster by 0.6
+Average Margin: Leinster by 0.5
 
 Average Scoreline: 29-28
 
@@ -510,7 +510,7 @@ Average Scoreline: 29-28
 ### Toulon V Harlequins on 2025/01/12
 
 
-Average Margin: Toulon by 4.4
+Average Margin: Toulon by 4.5
 
 Average Scoreline: 25-21
 
@@ -525,7 +525,7 @@ Average Scoreline: 25-21
 ### Ulster V Exeter Chiefs on 2025/01/17
 
 
-Average Margin: Ulster by 2.2
+Average Margin: Ulster by 2.4
 
 Average Scoreline: 26-24
 
@@ -538,7 +538,7 @@ Average Scoreline: 26-24
 ### Leinster V Bath Rugby on 2025/01/18
 
 
-Average Margin: Leinster by 8.9
+Average Margin: Leinster by 9.0
 
 Average Scoreline: 23-14
 
@@ -551,7 +551,7 @@ Average Scoreline: 23-14
 ### Bulls V Stade Francais Paris on 2025/01/18
 
 
-Average Margin: Bulls by 8.4
+Average Margin: Bulls by 8.5
 
 Average Scoreline: 26-17
 
@@ -564,7 +564,7 @@ Average Scoreline: 26-17
 ### Northampton Saints V Munster on 2025/01/18
 
 
-Average Margin: Northampton Saints by 2.3
+Average Margin: Northampton Saints by 2.2
 
 Average Scoreline: 25-23
 
@@ -577,7 +577,7 @@ Average Scoreline: 25-23
 ### Racing 92 V Stormers on 2025/01/18
 
 
-Average Margin: Racing 92 by 0.2
+Average Margin: Racing 92 by 0.3
 
 Average Scoreline: 23-22
 
@@ -590,7 +590,7 @@ Average Scoreline: 23-22
 ### Benetton Treviso V La Rochelle on 2025/01/18
 
 
-Average Margin: La Rochelle by 1.5
+Average Margin: La Rochelle by 1.2
 
 Average Scoreline: 23-21
 
@@ -603,7 +603,7 @@ Average Scoreline: 23-21
 ### Harlequins V Glasgow Warriors on 2025/01/18
 
 
-Average Margin: Glasgow Warriors by 0.4
+Average Margin: Glasgow Warriors by 0.3
 
 Average Scoreline: 26-25
 
@@ -629,7 +629,7 @@ Average Scoreline: 32-30
 ### Bordeaux Begles V Sharks on 2025/01/19
 
 
-Average Margin: Bordeaux Begles by 7.8
+Average Margin: Bordeaux Begles by 7.9
 
 Average Scoreline: 28-20
 
@@ -642,7 +642,7 @@ Average Scoreline: 28-20
 ### Sale Sharks V Toulon on 2025/01/19
 
 
-Average Margin: Sale Sharks by 3.9
+Average Margin: Sale Sharks by 4.1
 
 Average Scoreline: 24-20
 
@@ -655,7 +655,7 @@ Average Scoreline: 24-20
 ### Stade Toulousain V Leicester Tigers on 2025/01/19
 
 
-Average Margin: Stade Toulousain by 8.1
+Average Margin: Stade Toulousain by 8.2
 
 Average Scoreline: 26-18
 

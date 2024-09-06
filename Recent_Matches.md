@@ -10,17 +10,19 @@ key: page-recents
 
 [In depth model review and projections for Pacific Nations Cup 2024](comp_files/Pacific_Nations_Cup_2024)
 
-Competition Accuracy: 4 of 4 (100.0%)
+Competition Accuracy: 5 of 5 (100.0%)
 
-Competition Error: 13.85 points per match
+Competition Error: 14.67 points per match
 
 Last Round Accuracy: 3 of 3 (100.0%)
 
-Last Round Error: 11.46 points per match
+Last Round Error: 8.92 points per match
 
 [2024-08-30 Tonga at Samoa; 17-43](reviews//2024-08-30-Samoa-Tonga)
 
 [2024-09-01 Canada at United States of America; 15-28](reviews//2024-09-01-UnitedStatesofAmerica-Canada)
+
+[2024-09-05 Fiji at Tonga; 50-19](reviews//2024-09-05-Tonga-Fiji)
 ## Rugby Championship
 
 
@@ -28,17 +30,47 @@ Last Round Error: 11.46 points per match
 
 Competition Accuracy: 4 of 6 (66.67%)
 
-Competition Error: 13.35 points per match
+Competition Error: 12.84 points per match
 
 Last Round Accuracy: 1 of 2 (50.0%)
 
-Last Round Error: 7.14 points per match
+Last Round Error: 5.62 points per match
 
 [2024-08-31 New Zealand at South Africa; 27-31](reviews//2024-08-31-SouthAfrica-NewZealand)
 
-[2024-09-01 Australia at Argentina; 20-19](reviews//2024-09-01-Argentina-Australia)
+[2024-08-31 Australia at Argentina; 20-19](reviews//2024-08-31-Argentina-Australia)
 # Domestic Leagues
 
+## Bunnings NPC
+
+
+[In depth model review and projections for Bunnings NPC 2024](comp_files/Bunnings_NPC_2024)
+
+Competition Accuracy: 21 of 31 (67.74%)
+
+Competition Error: 11.21 points per match
+
+Last Round Accuracy: 6 of 7 (85.71%)
+
+Last Round Error: 15.33 points per match
+
+[2024-08-28 Hawke's Bay at Canterbury; 27-21](reviews//2024-08-28-Canterbury-Hawke'sBay)
+
+[2024-08-30 Otago at Taranaki; 18-22](reviews//2024-08-30-Taranaki-Otago)
+
+[2024-08-30 Southland at Northland; 31-26](reviews//2024-08-30-Northland-Southland)
+
+[2024-08-31 Auckland at Waikato; 21-39](reviews//2024-08-31-Waikato-Auckland)
+
+[2024-08-31 Wellington at Canterbury; 46-21](reviews//2024-08-31-Canterbury-Wellington)
+
+[2024-08-31 Bay of Plenty at Tasman; 15-34](reviews//2024-08-31-Tasman-BayofPlenty)
+
+[2024-09-01 Hawke's Bay at Manawatu; 38-26](reviews//2024-09-01-Manawatu-Hawke'sBay)
+
+[2024-09-04 Northland at Waikato; 19-34](reviews//2024-09-04-Waikato-Northland)
+
+[2024-09-06 Manawatu at Bay of Plenty; 14-68](reviews//2024-09-06-BayofPlenty-Manawatu)
 ## Currie Cup
 
 
@@ -52,9 +84,9 @@ Last Round Accuracy: 2 of 5 (40.0%)
 
 Last Round Error: 24.25 points per match
 
-[2024-08-30 Free State Cheetahs at Griquas; 31-44](reviews//2024-08-30-Griquas-FreeStateCheetahs)
-
 [2024-08-30 Golden Lions at Blue Bulls; 57-33](reviews//2024-08-30-BlueBulls-GoldenLions)
+
+[2024-08-30 Free State Cheetahs at Griquas; 31-44](reviews//2024-08-30-Griquas-FreeStateCheetahs)
 
 [2024-08-31 Griffons at Natal Sharks; 19-75](reviews//2024-08-31-NatalSharks-Griffons)
 
@@ -66,47 +98,41 @@ Last Round Error: 24.25 points per match
 
 [In depth model review and projections for Nationale 2024](comp_files/Nationale_2024)
 
-Competition Accuracy: 14 of 17 (82.35%)
+Competition Accuracy: 13 of 17 (76.47%)
 
-Competition Error: 10.39 points per match
+Competition Error: 10.55 points per match
 
-Last Round Accuracy: 6 of 7 (85.71%)
+Last Round Accuracy: 5 of 7 (71.43%)
 
-Last Round Error: 14.74 points per match
-
-[2024-08-30 Massy at Chambery; 26-29](reviews//2024-08-30-Chambery-Massy)
+Last Round Error: 15.03 points per match
 
 [2024-08-30 US Bressane at Tarbes; 9-29](reviews//2024-08-30-Tarbes-USBressane)
 
 [2024-08-30 Narbonne at Albi; 16-23](reviews//2024-08-30-Albi-Narbonne)
 
-[2024-08-31 Langon at Suresnes; 24-34](reviews//2024-08-31-Suresnes-Langon)
+[2024-08-30 Massy at Chambery; 26-29](reviews//2024-08-30-Chambery-Massy)
 
 [2024-08-31 Carcassonne at Rouen; 8-13](reviews//2024-08-31-Rouen-Carcassonne)
 
-[2024-08-31 Bourgoin-Jallieu at Marcq-en-Baroeul; 33-18](reviews//2024-08-31-Marcq-en-Baroeul-Bourgoin-Jallieu)
+[2024-08-31 Langon at Suresnes; 24-34](reviews//2024-08-31-Suresnes-Langon)
 
 [2024-08-31 Perigueux at Carqueiranne-Hyeres; 25-0](reviews//2024-08-31-Carqueiranne-Hyeres-Perigueux)
+
+[2024-08-31 Bourgoin-Jallieu at Marcq-en-Baroeul; 33-18](reviews//2024-08-31-Marcq-en-Baroeul-Bourgoin-Jallieu)
 ## Pro D2
 
 
 [In depth model review and projections for Pro D2 2024](comp_files/Pro_D2_2024)
 
-Competition Accuracy: 4 of 8 (50.0%)
+Competition Accuracy: 4 of 9 (44.44%)
 
-Competition Error: 6.73 points per match
+Competition Error: 7.38 points per match
 
-Last Round Accuracy: 4 of 8 (50.0%)
+Last Round Accuracy: 3 of 8 (37.5%)
 
-Last Round Error: 6.73 points per match
+Last Round Error: 7.53 points per match
 
 [2024-08-29 Oyonnax at Brive; 9-18](reviews//2024-08-29-Brive-Oyonnax)
-
-[2024-08-30 Colomiers at Mont-de-Marsan; 18-16](reviews//2024-08-30-Mont-de-Marsan-Colomiers)
-
-[2024-08-30 Valence Romans Drome Rugby at Biarritz Olympique; 21-23](reviews//2024-08-30-BiarritzOlympique-ValenceRomansDromeRugby)
-
-[2024-08-30 Beziers at Nice; 13-9](reviews//2024-08-30-Nice-Beziers)
 
 [2024-08-30 Agen at Provence Rugby; 18-21](reviews//2024-08-30-ProvenceRugby-Agen)
 
@@ -114,28 +140,36 @@ Last Round Error: 6.73 points per match
 
 [2024-08-30 Montauban at Dax; 12-24](reviews//2024-08-30-Dax-Montauban)
 
+[2024-08-30 Colomiers at Mont-de-Marsan; 18-16](reviews//2024-08-30-Mont-de-Marsan-Colomiers)
+
 [2024-08-30 Grenoble at Nevers; 26-20](reviews//2024-08-30-Nevers-Grenoble)
+
+[2024-08-30 Beziers at Nice; 13-9](reviews//2024-08-30-Nice-Beziers)
+
+[2024-08-30 Valence Romans Drome Rugby at Biarritz Olympique; 21-23](reviews//2024-08-30-BiarritzOlympique-ValenceRomansDromeRugby)
+
+[2024-09-05 Biarritz Olympique at Beziers; 23-19](reviews//2024-09-05-Beziers-BiarritzOlympique)
 ## URBA Top 13
 
 
-[In depth model review and projections for URBA Top 13 2023](comp_files/URBA_Top_13_2023)
+[In depth model review and projections for URBA Top 13 2024](comp_files/URBA_Top_13_2024)
 
-Competition Accuracy: 26 of 39 (66.67%)
+Competition Accuracy: 71 of 107 (66.36%)
 
-Competition Error: 10.91 points per match
+Competition Error: 12.77 points per match
 
-Last Round Accuracy: 5 of 7 (71.43%)
+Last Round Accuracy: 4 of 6 (66.67%)
 
-Last Round Error: 10.74 points per match
-
-[2024-08-31 SIC at Regatas Bella Vista; 16-12](reviews//2024-08-31-RegatasBellaVista-SIC)
+Last Round Error: 11.42 points per match
 
 [2024-08-31 Alumni at Buenos Aires; 27-17](reviews//2024-08-31-BuenosAires-Alumni)
 
 [2024-08-31 Champagnat at San Luis; 14-17](reviews//2024-08-31-SanLuis-Champagnat)
 
-[2024-08-31 Atletico del Rosario at Hindu; 27-34](reviews//2024-08-31-Hindu-AtleticodelRosario)
-
 [2024-08-31 Newman at Belgrano; 23-9](reviews//2024-08-31-Belgrano-Newman)
 
 [2024-08-31 CUBA at CASI; 3-27](reviews//2024-08-31-CASI-CUBA)
+
+[2024-08-31 Atletico del Rosario at Hindu; 27-34](reviews//2024-08-31-Hindu-AtleticodelRosario)
+
+[2024-08-31 SIC at Regatas Bella Vista; 16-12](reviews//2024-08-31-RegatasBellaVista-SIC)

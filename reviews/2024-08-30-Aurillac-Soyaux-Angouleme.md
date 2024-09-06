@@ -11,7 +11,7 @@ categories: "Pro D2 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.591, which translates to predicting Aurillac to win by 3.2.
 
-Our Over/Under is 36.5 - and combined with the spread above, we have a predicted scoreline of 17 to 20
+Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 20 to 23
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Soyaux-Angouleme by 9.1 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             46 | Sami Zouhair       |             97.41 |        1 |              4.37 | Robert Rodgers        |             56 |
-|             45 | Rayne Barka        |             83.74 |        2 |              8.21 | Luka Nioradze         |             46 |
-|             30 | Yassine Boutemane  |             22.65 |        3 |             45.31 | Giorgi Kartvelishvili |             46 |
-|             80 | Ian Kitwanga       |             33.6  |        4 |             24.03 | Martial Rolland       |             68 |
-|             80 | Maxence Lemardelet |             69.09 |        5 |              1.3  | Abongile Nonkontwana  |             50 |
-|             80 | Hubert Texier      |             36.11 |        6 |             69.35 | Eoghan Masterson      |             68 |
-|             66 | Clément Sentubery  |             53.87 |        7 |             59.82 | Hugo Huurman          |             80 |
-|             50 | Alexander Masibaka |             71.76 |        8 |             30.54 | Didier Tison          |             51 |
-|             30 | Lucas Zamora       |             48.11 |        9 |             15.81 | David Delarue         |             14 |
-|             80 | Ben Botica         |             86.05 |       10 |             50.11 | Tedo Abzhandadze      |             46 |
-|             56 | Jonny May          |             61.14 |       11 |              3.03 | Simeli Yabaki         |             80 |
-|             80 | George Tilsley     |             93.51 |       12 |             63.09 | Ofa Manuofetoa        |             80 |
-|             80 | Ledua Mau          |             93.09 |       13 |             35.74 | Karl Martin           |             50 |
-|             80 | Matthys Gratien    |             78.77 |       14 |             22.46 | Dachi Papunashvili    |             80 |
-|             80 | Rémi Brosset       |             55.79 |       15 |             39.79 | Ugo Seunes            |             80 |
-|             56 | Vivien Devisme     |             74.68 |       16 |             37.44 | Ronan Loughnane       |             80 |
-|             56 | Motu Matu'u        |             10.51 |       17 |             65.64 | Mikheil Alania        |             34 |
-|             56 | Adrien Bau         |              6.87 |       18 |             53.24 | Irakli Mtchedlidze    |             34 |
-|             24 | Omar Dahir         |             33.41 |       19 |             35.99 | Mehdi Slamani         |             34 |
-|             30 | Enzo Morand-Bruyat |             72.68 |       20 |            nan    | Tim De Jong           |             34 |
-|             26 | Arthur Proult      |              2.55 |       21 |            nan    | Lucas Oudard          |             29 |
-|             24 | Matthew Dalton     |              4.59 |       22 |            nan    | Valentin Welsch       |             24 |
-|             24 | Samuel Nollet      |             35.56 |       23 |             21.14 | Louis Bruinsma        |             12 |
+|             80 | Sami Zouhair       |             97.83 |        1 |              5.6  | Robert Rodgers        |             33 |
+|             50 | Rayne Barka        |             84.24 |        2 |              8.47 | Luka Nioradze         |             68 |
+|             56 | Yassine Boutemane  |             26.65 |        3 |             48.79 | Giorgi Kartvelishvili |             22 |
+|             56 | Ian Kitwanga       |             30.2  |        4 |             25.34 | Martial Rolland       |             55 |
+|             80 | Maxence Lemardelet |             69.08 |        5 |              1.34 | Abongile Nonkontwana  |             52 |
+|             80 | Hubert Texier      |             36.21 |        6 |             67.59 | Eoghan Masterson      |             80 |
+|             66 | Clément Sentubery  |             53.5  |        7 |             59.77 | Hugo Huurman          |             80 |
+|             50 | Alexander Masibaka |             71.18 |        8 |             27.73 | Didier Tison          |             80 |
+|             80 | Lucas Zamora       |             54.96 |        9 |             12.23 | David Delarue         |             80 |
+|             50 | Ben Botica         |             85.68 |       10 |             51.32 | Tedo Abzhandadze      |             56 |
+|             51 | Jonny May          |             67.41 |       11 |              3.22 | Simeli Yabaki         |             80 |
+|             80 | George Tilsley     |             93.61 |       12 |             63.66 | Ofa Manuofetoa        |             80 |
+|             52 | Ledua Mau          |             92.07 |       13 |             33.04 | Karl Martin           |             80 |
+|             64 | Matthys Gratien    |             78.34 |       14 |             22.73 | Dachi Papunashvili    |             80 |
+|             24 | Rémi Brosset       |             50    |       15 |             43.04 | Ugo Seunes            |             34 |
+|             30 | Vivien Devisme     |             74.35 |       16 |             37.8  | Ronan Loughnane       |             80 |
+|             80 | Motu Matu'u        |             11.19 |       17 |             65.78 | Mikheil Alania        |             50 |
+|             24 | Adrien Bau         |              7.09 |       18 |             53.88 | Irakli Mtchedlidze    |             20 |
+|             68 | Omar Dahir         |             33.92 |       19 |             36.61 | Mehdi Slamani         |             34 |
+|             24 | Enzo Morand-Bruyat |             72.91 |       20 |            nan    | Tim De Jong           |             34 |
+|             24 | Arthur Proult      |              2.75 |       21 |            nan    | Lucas Oudard          |             51 |
+|             14 | Matthew Dalton     |              4.55 |       22 |            nan    | Valentin Welsch       |             12 |
+|             41 | Samuel Nollet      |             36.24 |       23 |             21.3  | Louis Bruinsma        |             50 |
 

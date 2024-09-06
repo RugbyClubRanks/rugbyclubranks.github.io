@@ -9,9 +9,9 @@ categories: "Bunnings NPC 2024" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.92, which translates to predicting Wellington to win by 21.5.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.923, which translates to predicting Wellington to win by 21.9.
 
-Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 16 to 37
+Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 15 to 37
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -42,5 +42,5 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Imputed Lineups: Southland by nan
 
 
-Wellington by 21.6 on a neutral pitch
+Wellington by 29.5 on a neutral pitch
 

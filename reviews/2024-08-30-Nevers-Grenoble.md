@@ -39,7 +39,7 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Nevers by 0.6
+## Prediction without Player Minutes: Nevers by 0.5
 
 
 Grenoble by 3.3 on a neutral pitch
@@ -69,27 +69,27 @@ Grenoble by 3.3 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player                 |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:----------------------------|---------------:|
-|             80 | Tommy Raynaud      |             85.28 |        1 |             54.13 | Tornike Mataradze           |             19 |
-|             47 | Lilian Rossi       |             41.38 |        2 |             10.02 | Jonathan Maiau              |             63 |
-|             51 | Johannes Jonker    |             19.17 |        3 |             20.79 | Cleopas Kundiona            |             80 |
-|             22 | Pierce Phillips    |             69.39 |        4 |             45.66 | Ugo Vignolles               |             53 |
-|             78 | Brandon Nansen     |             54.64 |        5 |             48.06 | Chris Gabriel               |             57 |
-|             80 | Jose Madeira       |             94.44 |        6 |             78.47 | Luka Plataret               |             80 |
-|             80 | Victor Guillaumond |             49.11 |        7 |             88.89 | Hugues Bastide              |             80 |
-|             80 | Thibaut Martel     |             53.56 |        8 |             23.22 | Kevin Noah                  |             51 |
-|             60 | Barnabe Couilloud  |              9.97 |        9 |              5.5  | Hugo Bouyssou               |             51 |
-|             20 | Sam Davies         |             86.89 |       10 |             28.96 | Shaun Reynolds              |             29 |
-|             80 | Wilfried Hulleu    |             84.08 |       11 |             38.29 | Arthur Mathiron             |             51 |
-|             80 | Julien Heriteau    |             78.09 |       12 |             82.34 | Rudy Derrieux               |             47 |
-|             71 | Romain Fusier      |             41.38 |       13 |             13.09 | Atunaisa Taulanga Vaka Manu |             33 |
-|             64 | Gerswin Mouton     |             48.15 |       14 |             39.43 | Gabin Rocher                |             31 |
-|             25 | Julien Farnoux     |             95.79 |       15 |             65.68 | Dylan Jaminet               |             28 |
-|             29 | Zack Gauthier      |             79.29 |       16 |             67.07 | Aitor Kitutu                |             80 |
-|             33 | Thomas Lainault    |             51.65 |       17 |             80.76 | Yohan Le Bourhis            |             30 |
-|             17 | Cody Thomas        |             45.15 |       18 |            nan    | Nicolas Ragoevi             |             55 |
-|             33 | Pio Muarua         |             75.31 |       19 |             42.61 | Simon Tarel                 |             29 |
-|              1 | Mathis Sarragallet |             45.98 |       20 |             12.76 | Makatuki Polutele           |             29 |
-|             80 | Romain Trouilloud  |             82.45 |       21 |            nan    | Jean-Maxence Jules-Rosette  |             27 |
-|             20 | Marc Palmier       |             19.58 |       22 |             86.11 | Julien Kazubek              |             25 |
-|             16 | Max Clement        |             71.25 |       23 |            nan    | Aselo Ikahehegi             |             23 |
+|             51 | Tommy Raynaud      |             85.13 |        1 |             48.12 | Tornike Mataradze           |             55 |
+|             30 | Lilian Rossi       |             38.14 |        2 |             10.51 | Jonathan Maiau              |             63 |
+|             12 | Johannes Jonker    |             15.12 |        3 |             21.14 | Cleopas Kundiona            |             80 |
+|             60 | Pierce Phillips    |             73.73 |        4 |             46.02 | Ugo Vignolles               |             53 |
+|             80 | Brandon Nansen     |             55.33 |        5 |             51.29 | Chris Gabriel               |             29 |
+|             47 | Jose Madeira       |             93.62 |        6 |             80.04 | Luka Plataret               |             45 |
+|             51 | Victor Guillaumond |             43.42 |        7 |             89.3  | Hugues Bastide              |             80 |
+|             71 | Thibaut Martel     |             51.75 |        8 |             20.96 | Kevin Noah                  |             80 |
+|             80 | Barnabe Couilloud  |             10.64 |        9 |              5.5  | Hugo Bouyssou               |             51 |
+|             80 | Sam Davies         |             88.77 |       10 |             25.11 | Shaun Reynolds              |             80 |
+|             80 | Wilfried Hulleu    |             84.49 |       11 |             35.51 | Arthur Mathiron             |             80 |
+|             80 | Julien Heriteau    |             79.96 |       12 |             83.04 | Rudy Derrieux               |             51 |
+|             80 | Romain Fusier      |             42.84 |       13 |             13.66 | Atunaisa Taulanga Vaka Manu |             25 |
+|             33 | Gerswin Mouton     |             46.05 |       14 |             37.46 | Gabin Rocher                |             58 |
+|             25 | Julien Farnoux     |             95.87 |       15 |             65    | Dylan Jaminet               |             29 |
+|             33 | Zack Gauthier      |             79.78 |       16 |             67.17 | Aitor Kitutu                |             80 |
+|             29 | Thomas Lainault    |             51.4  |       17 |             81.5  | Yohan Le Bourhis            |             29 |
+|             29 | Cody Thomas        |             45.11 |       18 |            nan    | Nicolas Ragoevi             |             29 |
+|             29 | Pio Muarua         |             74.67 |       19 |             42.73 | Simon Tarel                 |             27 |
+|             20 | Mathis Sarragallet |             46.61 |       20 |             12.72 | Makatuki Polutele           |             23 |
+|             16 | Romain Trouilloud  |             83.26 |       21 |            nan    | Jean-Maxence Jules-Rosette  |             80 |
+|              9 | Marc Palmier       |             19.57 |       22 |             86.11 | Julien Kazubek              |             17 |
+|             80 | Max Clement        |             72.47 |       23 |            nan    | Aselo Ikahehegi             |             47 |
 

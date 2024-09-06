@@ -314,7 +314,7 @@ key: page-recents
 ## Nationale
 
 
-[2024](comp_files\Nationale_2024) - Prediction Accuracy: 82.4% 
+[2024](comp_files\Nationale_2024) - Prediction Accuracy: 76.5% 
 
 [2023](comp_files\Nationale_2023) - Prediction Accuracy: 74.9% 
 
@@ -338,7 +338,7 @@ key: page-recents
 ## URBA Top 13
 
 
-[2024](comp_files\URBA_Top_13_2024) - Prediction Accuracy: 64.2% 
+[2024](comp_files\URBA_Top_13_2024) - Prediction Accuracy: 65.7% 
 
 [2023](comp_files\URBA_Top_13_2023) - Prediction Accuracy: 61.5% 
 
@@ -370,7 +370,7 @@ key: page-recents
 ## Bunnings NPC
 
 
-[2024](comp_files\Bunnings_NPC_2024) - Prediction Accuracy: 65.0% 
+[2024](comp_files\Bunnings_NPC_2024) - Prediction Accuracy: 64.5% 
 ## Japan Rugby League One D2
 
 

@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Grenoble by 10.6
+## Prediction without Player Minutes: Grenoble by 10.5
 
 
-Grenoble by 2.6 on a neutral pitch
+Grenoble by 2.5 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Grenoble by 2.6 on a neutral pitch
 
 | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player        |
 |:------------------|------------------:|---------:|------------------:|:-------------------|
-| Thomas Vernet     |            nan    |        1 |             85.28 | Tommy Raynaud      |
+| Thomas Vernet     |            nan    |        1 |             85.13 | Tommy Raynaud      |
 | Loick Jammes      |            nan    |        2 |            nan    | Mathis Sarragallet |
 | Paul Mallez       |            nan    |        3 |             66.75 | Johannes Jonker    |
-| Charly Gambini    |             67    |        4 |            nan    | Thomas Lainault    |
+| Charly Gambini    |             67.32 |        4 |            nan    | Thomas Lainault    |
 | Malohi Suta       |            nan    |        5 |            nan    | Pierce Phillips    |
-| Ned Hanigan       |             24.8  |        6 |             94.44 | Jose Madeira       |
+| Ned Hanigan       |            nan    |        6 |             93.62 | Jose Madeira       |
 | Bilel Taieb       |            nan    |        7 |            nan    | Thibaut Martel     |
-| Tornike Jalagonia |             24.27 |        8 |            nan    | Pio Muarua         |
+| Tornike Jalagonia |             21.18 |        8 |            nan    | Pio Muarua         |
 | Arthur Coville    |            nan    |        9 |            nan    | Barnabé Couilloud  |
-| Jules Soulan      |             67.65 |       10 |            nan    | Sam Davies         |
+| Jules Soulan      |             68.72 |       10 |            nan    | Sam Davies         |
 | Léo Drouet        |            nan    |       11 |            nan    | Geoffrey Cros      |
-| Jimmy Gopperth    |            nan    |       12 |             78.09 | Julien Heriteau    |
+| Jimmy Gopperth    |            nan    |       12 |             79.96 | Julien Heriteau    |
 | Atila Septar      |            nan    |       13 |            nan    | Romain Fusier      |
-| Adrien Lapègue    |            nan    |       14 |             48.15 | Gerswin Mouton     |
+| Adrien Lapègue    |            nan    |       14 |             46.05 | Gerswin Mouton     |
 | Thomas Salles     |            nan    |       15 |            nan    | Julien Farnoux     |
 | Ian Boubila       |            nan    |       16 |            nan    | Lilian Rossi       |
 | Nicolás Toth      |            nan    |       17 |            nan    | Zack Gauthier      |
-| Andrés Zafra      |            nan    |       18 |             69.19 | Giorgi Javakhia    |
+| Andrés Zafra      |            nan    |       18 |             69.6  | Giorgi Javakhia    |
 | Teimana Harrison  |            nan    |       19 |            nan    | Victor Guillaumond |
 | Kévin Viallard    |            nan    |       20 |            nan    | Eric Escande       |
 | Inga Finau        |            nan    |       21 |            nan    | Max Clément        |
 | Eto Bainivalu     |            nan    |       22 |            nan    | Bautista Ezcurra   |
-| Tomas Francis     |             99.43 |       23 |            nan    | Cody Thomas        |
+| Tomas Francis     |            nan    |       23 |            nan    | Cody Thomas        |
 

@@ -11,7 +11,7 @@ categories: "Pro D2 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.698, which translates to predicting Dax to win by 7.4.
 
-Our Over/Under is 39.5 - and combined with the spread above, we have a predicted scoreline of 16 to 24
+Our Over/Under is 42.5 - and combined with the spread above, we have a predicted scoreline of 18 to 25
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Montauban by 2.0 on a neutral pitch
 
 |   Away Minutes | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             25 | Leo Aouf          |             11.89 |        1 |             11    | David Lolohea         |             51 |
-|             21 | Ru-Hann Greyling  |             11.82 |        2 |             79.8  | Iban Hiriart-Urruty   |             30 |
-|             17 | Facundo Pomponio  |             22.25 |        3 |              7.77 | Diogo Hasse Ferreira  |             80 |
-|             41 | Tjuee Uanivi      |              5.38 |        4 |             36.19 | Brice Ferrer          |             47 |
-|             80 | Victor Moreaux    |              2.59 |        5 |             10.37 | Jean-Baptiste Singer  |             52 |
-|             27 | Sikhumbuzo Notshe |             83.13 |        6 |             78.08 | Arnaud Aletti         |             80 |
-|             25 | Kyllian Ringuet   |             49.9  |        7 |             63.89 | Paul Arnaud Ausset    |             52 |
-|             55 | Tyrone Viiga      |             11.92 |        8 |             42.68 | Ratu Nacika           |             80 |
-|             31 | Yoan Cottin       |             65.12 |        9 |             77.49 | Sylvère Reteau        |             80 |
-|             80 | Thomas Fortunel   |             16.49 |       10 |             50.74 | Romuald Séguy         |             55 |
-|             55 | Paul Vallee       |             67.96 |       11 |             49.19 | Jope Naseara          |             55 |
-|             80 | JT Jackson        |             27.34 |       12 |              0.21 | Jale Vatubua          |             80 |
-|             80 | Yvan Reilhac      |             34.79 |       13 |             15.85 | Benjamin Puntous      |             55 |
-|             80 | Stephane Ahmed    |             92.13 |       14 |              6.54 | Maxime Oltmann        |             80 |
-|             80 | Baptiste Mouchous |             82.74 |       15 |             48.21 | Théo Duprat           |             80 |
-|             33 | Kevin Firmin      |              9.85 |       16 |             80.99 | Louis Mary            |             80 |
-|             63 | Mirian Burduli    |              4.69 |       17 |             15.44 | Louis Barrere         |             33 |
-|             49 | Lewis Bean        |             23.13 |       18 |             28.07 | Nephi Leatigaga       |             33 |
-|             55 | Malino Vanai      |              0.24 |       19 |             46.13 | Jean-Baptiste Barrère |             33 |
-|             39 | Karl Wilkins      |             19.54 |       20 |             71.09 | Étienne Loiret        |             28 |
-|             29 | Hugo Zabalza      |             14.6  |       21 |             82.47 | Paul Ravier           |             31 |
-|             25 | Jérôme Bosviel    |             86.47 |       22 |             76.32 | Hugo Cerisier         |             28 |
-|             29 | Simon Renda       |             72.02 |       23 |             40.21 | Noah Nene             |             51 |
+|             33 | Leo Aouf          |             11.36 |        1 |             12.87 | David Lolohea         |             80 |
+|             29 | Ru-Hann Greyling  |             11.86 |        2 |             80.34 | Iban Hiriart-Urruty   |             47 |
+|             80 | Facundo Pomponio  |             18.96 |        3 |              7.69 | Diogo Hasse Ferreira  |             52 |
+|             41 | Tjuee Uanivi      |              5.27 |        4 |             40.85 | Brice Ferrer          |             80 |
+|             51 | Victor Moreaux    |              2.48 |        5 |             10.96 | Jean-Baptiste Singer  |             52 |
+|             80 | Sikhumbuzo Notshe |             81.79 |        6 |             79.32 | Arnaud Aletti         |             80 |
+|             80 | Kyllian Ringuet   |             43.93 |        7 |             67.08 | Paul Arnaud Ausset    |             80 |
+|             55 | Tyrone Viiga      |             11.14 |        8 |             42.14 | Ratu Nacika           |             55 |
+|             55 | Yoan Cottin       |             64.18 |        9 |             76.95 | Sylvère Reteau        |             55 |
+|             80 | Thomas Fortunel   |             15.64 |       10 |             50    | Romuald Séguy         |             25 |
+|             80 | Paul Vallee       |             66.83 |       11 |             52.68 | Jope Naseara          |             80 |
+|             55 | JT Jackson        |             27.75 |       12 |              0.22 | Jale Vatubua          |             25 |
+|             80 | Yvan Reilhac      |             33.92 |       13 |             18.06 | Benjamin Puntous      |             80 |
+|             80 | Stephane Ahmed    |             92.2  |       14 |              7.12 | Maxime Oltmann        |             80 |
+|             63 | Baptiste Mouchous |             82.39 |       15 |             46.09 | Théo Duprat           |             33 |
+|             49 | Kevin Firmin      |             10.68 |       16 |             81.62 | Louis Mary            |             47 |
+|             39 | Mirian Burduli    |              4.68 |       17 |             15.42 | Louis Barrere         |             17 |
+|             33 | Lewis Bean        |             22.96 |       18 |             28.57 | Nephi Leatigaga       |             28 |
+|             25 | Malino Vanai      |              0.25 |       19 |             45.68 | Jean-Baptiste Barrère |             80 |
+|             31 | Karl Wilkins      |             19.34 |       20 |             71.25 | Étienne Loiret        |             45 |
+|             46 | Hugo Zabalza      |             14.89 |       21 |             81.91 | Paul Ravier           |             55 |
+|             80 | Jérôme Bosviel    |             86.78 |       22 |             77.09 | Hugo Cerisier         |             47 |
+|             21 | Simon Renda       |             72.47 |       23 |             40.86 | Noah Nene             |             25 |
 

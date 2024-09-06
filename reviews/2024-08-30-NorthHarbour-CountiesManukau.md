@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: North Harbour by 8.0
+## Prediction without Player Minutes: North Harbour by 8.8
 
 
-North Harbour by 5.0 on a neutral pitch
+North Harbour by 5.7 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ North Harbour by 5.0 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player       |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:------------------|---------------:|
-|              0 | Kauvaka Kaivelata    |            nan    |        1 |             14.64 | Fatongia Paea     |             57 |
-|             16 | Zuriel Togiatama     |            nan    |        2 |            nan    | Shilo Klein       |             57 |
-|             64 | Keran van Staden     |            nan    |        3 |             24.68 | Sione Mafileo     |             24 |
-|             64 | William Furniss      |            nan    |        4 |            nan    | Mahonri Ngakuru   |             80 |
-|             64 | James Thompson       |            nan    |        5 |            nan    | Cam Christie      |             54 |
-|             45 | Leo Ngatai-Tafau     |            nan    |        6 |            nan    | Tristyn Cook      |             80 |
-|             80 | Cameron Church       |            nan    |        7 |            nan    | Jed Melvin        |             80 |
-|             47 | Adam Brash           |            nan    |        8 |            nan    | Cameron Suafoa    |             57 |
-|             80 | Jonathan Taumateine  |            nan    |        9 |            nan    | Bryn Hall         |             73 |
-|             64 | AJ Alatimu           |             76.11 |       10 |            nan    | Tane Edmed        |             80 |
-|             45 | Josh Gray            |            nan    |       11 |            nan    | Sofai Maka        |             80 |
-|             80 | Riley Hohepa         |            nan    |       12 |            nan    | Tom Barham        |             57 |
-|             75 | Tevita Ofa           |            nan    |       13 |             31.6  | Moses Leo         |             80 |
-|             80 | Blake Makiri         |            nan    |       14 |            nan    | Kade Banks        |             80 |
-|             80 | Etene Nanai-Seturo   |             76    |       15 |            nan    | Shaun Stevenson   |             23 |
-|             51 | Ian West-Stevens     |            nan    |       16 |            nan    | Bryn Gordon       |             26 |
-|             47 | Ezekiel Lindenmuth   |             26.21 |       17 |            nan    | Ben Ruzich        |              0 |
-|             16 | Suetena Asomua       |            nan    |       18 |            nan    | Sam Davies        |             35 |
-|             23 | Jadin Kingi          |            nan    |       19 |            nan    | James Fiebig      |             26 |
-|             16 | Alamanda Motuga      |            nan    |       20 |            nan    | Karl Ruzich       |             23 |
-|              0 | Liam Daniela         |            nan    |       21 |            nan    | Siaosi Nginingini |             80 |
-|             29 | Gibson Popoali'i     |            nan    |       22 |             15.86 | Oscar Koller      |             57 |
-|             80 | Simon-Peter Toleafoa |            nan    |       23 |            nan    | Tima Fainga'Anuku |              7 |
+|             16 | Kauvaka Kaivelata    |            nan    |        1 |            nan    | Fatongia Paea     |             17 |
+|              7 | Zuriel Togiatama     |            nan    |        2 |            nan    | Shilo Klein       |             28 |
+|              0 | Keran van Staden     |            nan    |        3 |             14.7  | Sione Mafileo     |             80 |
+|             54 | William Furniss      |            nan    |        4 |            nan    | Mahonri Ngakuru   |             54 |
+|             57 | James Thompson       |            nan    |        5 |            nan    | Cam Christie      |             80 |
+|             64 | Leo Ngatai-Tafau     |            nan    |        6 |            nan    | Tristyn Cook      |             80 |
+|             80 | Cameron Church       |            nan    |        7 |            nan    | Jed Melvin        |             57 |
+|             57 | Adam Brash           |            nan    |        8 |            nan    | Cameron Suafoa    |             73 |
+|             80 | Jonathan Taumateine  |            nan    |        9 |            nan    | Bryn Hall         |             80 |
+|             80 | AJ Alatimu           |            nan    |       10 |            nan    | Tane Edmed        |             80 |
+|             64 | Josh Gray            |            nan    |       11 |            nan    | Sofai Maka        |             57 |
+|             45 | Riley Hohepa         |            nan    |       12 |            nan    | Tom Barham        |             80 |
+|             80 | Tevita Ofa           |            nan    |       13 |            nan    | Moses Leo         |             80 |
+|             75 | Blake Makiri         |            nan    |       14 |            nan    | Kade Banks        |             23 |
+|             80 | Etene Nanai-Seturo   |             73.48 |       15 |            nan    | Shaun Stevenson   |             26 |
+|             16 | Ian West-Stevens     |            nan    |       16 |            nan    | Bryn Gordon       |              0 |
+|             16 | Ezekiel Lindenmuth   |             28.07 |       17 |            nan    | Ben Ruzich        |             35 |
+|             23 | Suetena Asomua       |            nan    |       18 |            nan    | Sam Davies        |             80 |
+|             16 | Jadin Kingi          |            nan    |       19 |            nan    | James Fiebig      |             45 |
+|              0 | Alamanda Motuga      |            nan    |       20 |            nan    | Karl Ruzich       |             57 |
+|             29 | Liam Daniela         |            nan    |       21 |            nan    | Siaosi Nginingini |             64 |
+|             51 | Gibson Popoali'i     |            nan    |       22 |             20.26 | Oscar Koller      |             26 |
+|             80 | Simon-Peter Toleafoa |            nan    |       23 |            nan    | Tima Fainga'Anuku |             23 |
 

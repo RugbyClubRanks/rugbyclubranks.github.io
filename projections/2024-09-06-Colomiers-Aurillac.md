@@ -9,7 +9,7 @@ categories: "Pro D2 2024" match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.577, which translates to predicting Colomiers to win by 6.0.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.577, which translates to predicting Colomiers to win by 5.9.
 
 Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 20 to 26
 
@@ -42,7 +42,7 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction without Player Minutes: Colomiers by 10.2
 
 
-Colomiers by 2.3 on a neutral pitch
+Colomiers by 2.2 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -74,15 +74,15 @@ Colomiers by 2.3 on a neutral pitch
 | Giorgi Kartvelishvili |            nan    |        3 |            nan    | Michaël Simutoga   |
 | Eoghan Masterson      |            nan    |        4 |            nan    | Jean Thomas        |
 | Mehdi Slamani         |            nan    |        5 |            nan    | Janse Roux         |
-| Tim De Jong           |             32.94 |        6 |            nan    | Anthony Coletta    |
+| Tim De Jong           |             33.13 |        6 |            nan    | Anthony Coletta    |
 | Hugo Huurman          |            nan    |        7 |            nan    | Aldric Lescure     |
 | Abongile Nonkontwana  |            nan    |        8 |            nan    | Caleb Timu         |
-| Mikheil Alania        |             65.64 |        9 |            nan    | Ugo Séguéla        |
-| Tedo Abzhandadze      |             50.11 |       10 |            nan    | Joaquin De La Vega |
-| Simeli Yabaki         |            nan    |       11 |             91.85 | Rodrigo Marta      |
+| Mikheil Alania        |             65.78 |        9 |            nan    | Ugo Séguéla        |
+| Tedo Abzhandadze      |             51.32 |       10 |            nan    | Joaquin De La Vega |
+| Simeli Yabaki         |            nan    |       11 |             90.83 | Rodrigo Marta      |
 | Karsen Talalua        |            nan    |       12 |            nan    | Ray Nu'U           |
 | Karl Martin           |            nan    |       13 |            nan    | Enzo Salles        |
-| Lucas Oudard          |            nan    |       14 |             89.86 | Vincent Pinto      |
+| Lucas Oudard          |            nan    |       14 |             89.95 | Vincent Pinto      |
 | Dachi Papunashvili    |            nan    |       15 |            nan    | Ugo Pacome         |
 | Basa Khonelidze       |            nan    |       16 |            nan    | Théo Lachaud       |
 | Gymaël Jean-Jacques   |            nan    |       17 |            nan    | Eliès El Ansari    |
@@ -91,5 +91,5 @@ Colomiers by 2.3 on a neutral pitch
 | Didier Tison          |            nan    |       20 |            nan    | Dorian Laborde     |
 | Léo Salvan            |            nan    |       21 |            nan    | Arthur Diaz        |
 | Hugo Bastard          |            nan    |       22 |            nan    | Max Auriac         |
-| Valentin Welsch       |            nan    |       23 |             64.16 | Hugo Pirlet        |
+| Valentin Welsch       |            nan    |       23 |             64.41 | Hugo Pirlet        |
 

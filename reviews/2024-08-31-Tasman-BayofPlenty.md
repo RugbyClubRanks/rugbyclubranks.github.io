@@ -2,7 +2,7 @@
 layout: page  
 title: Bay of Plenty at Tasman; 15-34  
 date: 2024-08-31 18:00:00 -0500  
-categories: "NPC 2024" match review  
+categories: "Bunnings NPC 2024" match review  
 ---
 # Bay of Plenty at Tasman; 15-34
 
@@ -34,63 +34,3 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 <p float="left">
 <img src="plots/resultbar_2024-08-31-Tasman-BayofPlenty.png" width="99%" />
 </p>
-
-# Player Level Predictions
-
-
-Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Bay of Plenty by 7.1
-
-
-Bay of Plenty by 10.0 on a neutral pitch
-
-
-## Projected Performances - Player Model
-
-
-<p float="left">
-<img src="plots/performances_plr_2024-08-31-Tasman-BayofPlenty.png" width="99%" />
-</p>
-
-## Projected Spreads - Player Model
-
-
-<p float="left">
-<img src="plots/spreads_plr_2024-08-31-Tasman-BayofPlenty.png" width="99%" />
-</p>
-
-## Projected Results - Player Model
-
-
-<p float="left">
-<img src="plots/resultbar_plr_2024-08-31-Tasman-BayofPlenty.png" width="99%" />
-</p>
-
-
-|   Away Minutes | Away Player            |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
-|---------------:|:-----------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|           80   | Aidan Ross             |            nan    |        1 |            nan    | Ryan Coxon           |           61   |
-|           64   | Kurt Eklund            |            nan    |        2 |            nan    | Quentin MacDonald    |           58   |
-|           80   | Benet Kumeroa          |            nan    |        3 |            nan    | Sam Matenga          |           80   |
-|           80   | Naitoa Ah Kuoi         |            nan    |        4 |            nan    | Quinten Strange      |           80   |
-|           52   | Justin Sangster        |            nan    |        5 |             26.52 | Antonio Shalfoon     |           62   |
-|           52   | Jacob Norris           |            nan    |        6 |            nan    | Max Hicks            |            9.5 |
-|           52   | Joe Johnston           |            nan    |        7 |            nan    | Braden Stewart       |           63   |
-|            8.5 | Nikora Broughton       |            nan    |        8 |            nan    | Fletcher Anderson    |           40   |
-|           52   | Te Toiroa Tahuriorangi |            nan    |        9 |            nan    | Finlay Christie      |           73   |
-|           80   | Kaleb Trask            |            nan    |       10 |            nan    | William Havili       |           54   |
-|           80   | Codemeru Vai           |            nan    |       11 |            nan    | Kyren Taumoefolau    |           80   |
-|           80   | Uilisi Halaholo        |            nan    |       12 |            nan    | William Butler       |           59   |
-|           40   | Emoni Narawa           |            nan    |       13 |            nan    | Timoci Tavatavanawai |           80   |
-|           80   | Leroy Carter           |            nan    |       14 |            nan    | Jack Gray            |           63   |
-|           16   | Cole Forbes            |            nan    |       15 |            nan    | Macca Springer       |            0   |
-|           28   | Sione Tupou            |            nan    |       16 |            nan    | Samiuela Moli        |           80   |
-|           16   | Josh Bartlett          |             38.83 |       17 |            nan    | Monu Moli            |           21   |
-|           16   | Josh Bartlett          |             38.83 |       17 |            nan    | Monu Moli            |           22   |
-|           80   | Filipe Vakasiuola      |            nan    |       18 |            nan    | Quinn Harrison-Jones |           18   |
-|           16   | Semisi Paea            |             68.3  |       19 |            nan    | Tim Sail             |           17   |
-|           80   | Kalin Felise           |            nan    |       20 |             38.28 | Johnny Lee           |           17   |
-|           19   | Flynn Henderson        |            nan    |       21 |            nan    | Louie Chapman        |           33   |
-|           28   | Lucas Cashmore         |            nan    |       22 |            nan    | Campbell Parata      |            9.5 |
-|           40   | Fehi Fineanganofo      |            nan    |       23 |            nan    | Nic Sauira           |           64   |
-

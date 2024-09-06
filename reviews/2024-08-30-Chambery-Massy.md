@@ -11,7 +11,7 @@ categories: "Nationale 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.669, which translates to predicting Chambery to win by 6.2.
 
-Our Over/Under is 37.5 - and combined with the spread above, we have a predicted scoreline of 16 to 22
+Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 19 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Chambery by 0.3 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player                  |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:-----------------------------|---------------:|
-|             30 | Robin Poipy         |             56.31 |        1 |             80.02 | Nugzar Somkhishvili          |             56 |
-|             54 | Pierre Trassoudaine |             92.12 |        2 |              1.97 | Yan Tabarot                  |             24 |
-|             54 | Tijde Visser        |             69.66 |        3 |             65.86 | Lasha Tabidze                |             56 |
-|             54 | Saba Pesvianidze    |             44.57 |        4 |             50.05 | Fabien Witz                  |             67 |
-|             55 | Andrei Mahu         |             26.12 |        5 |             36.69 | Taniela Matakaiongo          |             67 |
-|             80 | Tony Tissot         |             32.54 |        6 |             87.4  | Matheo Triki                 |             80 |
-|             80 | Clément Vidoni      |             75.89 |        7 |             50.1  | Colin Lebian                 |             49 |
-|             20 | Simon Cowley        |             44.56 |        8 |             83.89 | Tui Uru                      |             41 |
-|              2 | Julien Blanc        |             56.19 |        9 |             44.16 | Mateo Guerret                |             29 |
-|             80 | Christian Lacombe   |             20.08 |       10 |             46.93 | Thibault Moreno              |             51 |
-|             29 | Martin Carre        |             79.24 |       11 |             80.57 | Arthur Nennig                |             80 |
-|             79 | Luca Mignot         |             62.45 |       12 |             64.89 | Bastien Reymond              |             80 |
-|             80 | Anthony Favier      |             44.57 |       13 |             40.85 | Joseph Exshaw                |             50 |
-|             80 | Giorgi Gogoladze    |             37.16 |       14 |             64.17 | Paul Baptiste Florent Altier |             80 |
-|             26 | Alexandre Borie     |             19.16 |       15 |             45.05 | Enzo Marzocca                |             80 |
-|             26 | Fernandez Correa    |              0.97 |       16 |            nan    | Gela Murusidze               |             80 |
-|             26 | Adrien Sonzogni     |            nan    |       17 |             42.36 | Quentin Beaudaux             |              1 |
-|             32 | Nicolas Ferrer      |             78.88 |       18 |             32.28 | Osman Dimen                  |             80 |
-|             25 | Lilian Rousset      |             52.54 |       19 |            nan    | Antoine Ferreira             |             60 |
-|             32 | Diego Pinheiro Ruiz |             39.78 |       20 |             76.47 | Ahmed Tidiane Kane           |             80 |
-|             80 | Lucas Rubio         |             40.55 |       21 |              9.45 | Sonatane Takulua             |             80 |
-|             13 | Arthur Seigneuret   |             82.98 |       22 |            nan    | Arwel Robson                 |             20 |
-|             48 | Alfred Mouandjo     |            nan    |       23 |             39.68 | Youenn Floch                 |             20 |
+|             60 | Robin Poipy         |             56.39 |        1 |             81.95 | Nugzar Somkhishvili          |             67 |
+|             29 | Pierre Trassoudaine |             92.03 |        2 |              2.03 | Yan Tabarot                  |             54 |
+|             80 | Tijde Visser        |             68.67 |        3 |             68.09 | Lasha Tabidze                |             54 |
+|             80 | Saba Pesvianidze    |             43.02 |        4 |             55.64 | Fabien Witz                  |             20 |
+|             34 | Andrei Mahu         |             25.65 |        5 |             34.44 | Taniela Matakaiongo          |             30 |
+|             80 | Tony Tissot         |             30.04 |        6 |             88.37 | Matheo Triki                 |             80 |
+|             48 | Clément Vidoni      |             74.38 |        7 |             58.85 | Colin Lebian                 |             80 |
+|             47 | Simon Cowley        |             44.1  |        8 |             81.66 | Tui Uru                      |             12 |
+|             78 | Julien Blanc        |             56.91 |        9 |             49.11 | Mateo Guerret                |             80 |
+|             48 | Christian Lacombe   |             17.84 |       10 |             52.2  | Thibault Moreno              |             80 |
+|             80 | Martin Carre        |             79.71 |       11 |             83.12 | Arthur Nennig                |             50 |
+|             80 | Luca Mignot         |             62    |       12 |             71.92 | Bastien Reymond              |             80 |
+|             80 | Anthony Favier      |             42.51 |       13 |             44.16 | Joseph Exshaw                |             80 |
+|             80 | Giorgi Gogoladze    |             35.41 |       14 |             67.9  | Paul Baptiste Florent Altier |             80 |
+|             80 | Alexandre Borie     |             19.13 |       15 |             46.96 | Enzo Marzocca                |             24 |
+|             29 | Fernandez Correa    |              1    |       16 |            nan    | Gela Murusidze               |             20 |
+|             26 | Adrien Sonzogni     |            nan    |       17 |             43.05 | Quentin Beaudaux             |             13 |
+|             32 | Nicolas Ferrer      |             79.28 |       18 |             32.83 | Osman Dimen                  |             13 |
+|             80 | Lilian Rousset      |             52.74 |       19 |            nan    | Antoine Ferreira             |             34 |
+|             32 | Diego Pinheiro Ruiz |             39.4  |       20 |             76.63 | Ahmed Tidiane Kane           |             20 |
+|             80 | Lucas Rubio         |             40.25 |       21 |              9.57 | Sonatane Takulua             |             20 |
+|              2 | Arthur Seigneuret   |             83.81 |       22 |            nan    | Arwel Robson                 |             80 |
+|             51 | Alfred Mouandjo     |            nan    |       23 |             40.31 | Youenn Floch                 |             67 |
 
