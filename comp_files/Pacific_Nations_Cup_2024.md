@@ -1,6 +1,6 @@
 ---  
 title: "Pacific Nations Cup 2024 Status"  
-date: 2024-09-09 6:00:00 -0500  
+date: 2024-09-16 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,12 +17,12 @@ aside:
 
 | Club                     |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Fiji                     |        2 |      2 |                   57 |                     0 |                  2 |                   10 |
-| Japan                    |        2 |      2 |                   44 |                     0 |                  2 |                   10 |
-| Samoa                    |        2 |      1 |                    0 |                     0 |                  1 |                    5 |
-| United States of America |        2 |      1 |                   -4 |                     0 |                  1 |                    5 |
-| Canada                   |        2 |      0 |                  -40 |                     0 |                  1 |                    1 |
-| Tonga                    |        2 |      0 |                  -57 |                     0 |                  0 |                    0 |
+| Fiji                     |        3 |      3 |                   76 |                     0 |                nan |                   12 |
+| Japan                    |        3 |      3 |                   66 |                     0 |                nan |                   12 |
+| Tonga                    |        3 |      1 |                  -44 |                     0 |                nan |                    5 |
+| Samoa                    |        3 |      1 |                  -22 |                     0 |                nan |                    4 |
+| United States of America |        3 |      1 |                  -23 |                     0 |                nan |                    4 |
+| Canada                   |        3 |      0 |                  -53 |                     0 |                nan |                    0 |
 
 
 
@@ -31,12 +31,10 @@ aside:
 
 | Club                     |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Fiji                     |                   1 |    1   |             18.4067  |                   0   |                0.7 |                  4.7 |
-| Samoa                    |                   1 |    0.9 |             10.967   |                   0   |                0.4 |                  4.2 |
-| Tonga                    |                   1 |    0.9 |              8.12978 |                   0.1 |                0.6 |                  4.1 |
-| Canada                   |                   1 |    0.1 |             -8.12978 |                   0.3 |                0.1 |                  0.9 |
-| Japan                    |                   1 |    0.1 |            -10.967   |                   0.2 |                0.2 |                  0.6 |
-| United States of America |                   1 |    0   |            -18.4067  |                   0   |                0.1 |                  0.2 |
+| Fiji                     |                   1 |    1   |             12.9613  |                   0   |                0.6 |                  4.5 |
+| Samoa                    |                   1 |    0.7 |              3.09691 |                   0.3 |                0.4 |                  3.3 |
+| United States of America |                   1 |    0.3 |             -3.09691 |                   0.3 |                0.2 |                  1.9 |
+| Japan                    |                   1 |    0   |            -12.9613  |                   0.1 |                0.2 |                  0.4 |
 
 
 
@@ -45,12 +43,12 @@ aside:
 
 | Club                     |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Fiji                     |               3 |    3   |              75.4067 |                   0   |                2.7 |                 14.7 |
-| Japan                    |               3 |    2.1 |              33.033  |                   0.2 |                2.2 |                 10.6 |
-| Samoa                    |               3 |    1.9 |              10.967  |                   0   |                1.4 |                  9.2 |
-| United States of America |               3 |    1   |             -22.4067 |                   0   |                1.1 |                  5.2 |
-| Tonga                    |               3 |    0.9 |             -48.8702 |                   0.1 |                0.6 |                  4.1 |
-| Canada                   |               3 |    0.1 |             -48.1298 |                   0.3 |                1.1 |                  1.9 |
+| Fiji                     |               4 |    4   |              88.9613 |                   0   |                0.6 |                 16.5 |
+| Japan                    |               4 |    3   |              53.0387 |                   0.1 |                0.2 |                 12.4 |
+| Samoa                    |               4 |    1.7 |             -18.9031 |                   0.3 |                0.4 |                  7.3 |
+| United States of America |               4 |    1.3 |             -26.0969 |                   0.3 |                0.2 |                  5.9 |
+| Tonga                    |               3 |    1   |             -44      |                   0   |                0   |                  5   |
+| Canada                   |               3 |    0   |             -53      |                   0   |                0   |                  0   |
 
 
 
@@ -59,50 +57,37 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 100.0% | 14.3 |
-| Player Level: Lineup | 100.0% | 15.2 |
-| Player Level: Minutes | nan% | nan |
+| Club Level | 88.9% | 13.8 |
+| Player Level: Lineup | 80.0% | 13.9 |
+| Player Level: Minutes | 75.0% | 13.6 |
 
 
 # Future Predictions
 
-## Week 3
+## Week 4
 
-### Fiji V United States of America on 2024/09/14
+### Fiji V Japan on 2024/09/21
 
 
-Average Margin: Fiji by 18.4
+Average Margin: Fiji by 13.0
 
-Average Scoreline: 36-18
+Average Scoreline: 35-22
 
 <p float="left">
-<img src="plots/performances_2024-09-14-Fiji_V_UnitedStatesofAmerica.png" width="32%" />
-<img src="plots/resultbar_2024-09-14-Fiji_V_UnitedStatesofAmerica.png" width="32%" />
-<img src="plots/spreads_2024-09-14-Fiji_V_UnitedStatesofAmerica.png" width="32%" />
+<img src="plots/performances_2024-09-21-Fiji_V_Japan.png" width="32%" />
+<img src="plots/resultbar_2024-09-21-Fiji_V_Japan.png" width="32%" />
+<img src="plots/spreads_2024-09-21-Fiji_V_Japan.png" width="32%" />
 </p>
 
-### Tonga V Canada on 2024/09/14
+### United States of America V Samoa on 2024/09/21
 
 
-Average Margin: Tonga by 8.1
+Average Margin: Samoa by 3.1
 
-Average Scoreline: 28-20
-
-<p float="left">
-<img src="plots/performances_2024-09-14-Tonga_V_Canada.png" width="32%" />
-<img src="plots/resultbar_2024-09-14-Tonga_V_Canada.png" width="32%" />
-<img src="plots/spreads_2024-09-14-Tonga_V_Canada.png" width="32%" />
-</p>
-
-### Samoa V Japan on 2024/09/15
-
-
-Average Margin: Samoa by 11.0
-
-Average Scoreline: 33-22
+Average Scoreline: 28-25
 
 <p float="left">
-<img src="plots/performances_2024-09-15-Samoa_V_Japan.png" width="32%" />
-<img src="plots/resultbar_2024-09-15-Samoa_V_Japan.png" width="32%" />
-<img src="plots/spreads_2024-09-15-Samoa_V_Japan.png" width="32%" />
+<img src="plots/performances_2024-09-21-UnitedStatesofAmerica_V_Samoa.png" width="32%" />
+<img src="plots/resultbar_2024-09-21-UnitedStatesofAmerica_V_Samoa.png" width="32%" />
+<img src="plots/spreads_2024-09-21-UnitedStatesofAmerica_V_Samoa.png" width="32%" />
 </p>

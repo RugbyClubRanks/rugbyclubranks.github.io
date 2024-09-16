@@ -172,7 +172,7 @@ key: page-recents
 ## Top 14 Orange
 
 
-[2024](comp_files\Top_14_Orange_2024)
+[2024](comp_files\Top_14_Orange_2024) - Prediction Accuracy: 80.0% 
 
 [2023](comp_files\Top_14_Orange_2023) - Prediction Accuracy: 70.1% 
 
@@ -208,7 +208,7 @@ key: page-recents
 ## Rugby Europe Super Cup
 
 
-[2024](comp_files\Rugby_Europe_Super_Cup_2024)
+[2024](comp_files\Rugby_Europe_Super_Cup_2024) - Prediction Accuracy: 100.0% 
 
 [2023](comp_files\Rugby_Europe_Super_Cup_2023) - Prediction Accuracy: 61.1% 
 
@@ -302,7 +302,7 @@ key: page-recents
 ## Currie Cup
 
 
-[2024](comp_files\Currie_Cup_2024) - Prediction Accuracy: 51.1% 
+[2024](comp_files\Currie_Cup_2024) - Prediction Accuracy: 54.0% 
 
 [2023](comp_files\Currie_Cup_2023) - Prediction Accuracy: 56.4% 
 
@@ -314,7 +314,7 @@ key: page-recents
 ## Nationale
 
 
-[2024](comp_files\Nationale_2024) - Prediction Accuracy: 76.5% 
+[2024](comp_files\Nationale_2024) - Prediction Accuracy: 82.6% 
 
 [2023](comp_files\Nationale_2023) - Prediction Accuracy: 74.9% 
 
@@ -326,7 +326,7 @@ key: page-recents
 ## Pro D2
 
 
-[2024](comp_files\Pro_D2_2024) - Prediction Accuracy: 44.4% 
+[2024](comp_files\Pro_D2_2024) - Prediction Accuracy: 43.8% 
 
 [2023](comp_files\Pro_D2_2023) - Prediction Accuracy: 74.3% 
 
@@ -370,7 +370,7 @@ key: page-recents
 ## Bunnings NPC
 
 
-[2024](comp_files\Bunnings_NPC_2024) - Prediction Accuracy: 67.7% 
+[2024](comp_files\Bunnings_NPC_2024) - Prediction Accuracy: 68.6% 
 ## Japan Rugby League One D2
 
 
