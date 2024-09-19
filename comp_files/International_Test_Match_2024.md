@@ -1,6 +1,6 @@
 ---  
 title: "International Test Match 2024 Status"  
-date: 2024-09-16 6:00:00 -0500  
+date: 2024-09-19 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -100,8 +100,8 @@ aside:
 
 | Club    |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Hungary |                   1 |    0.9 |              16.1597 |                   0.1 |                0.6 |                  4.4 |
-| Austria |                   1 |    0.1 |             -16.1597 |                   0.1 |                0.2 |                  0.7 |
+| Hungary |                   1 |    0.9 |              16.1582 |                   0.1 |                0.6 |                  4.4 |
+| Austria |                   1 |    0.1 |             -16.1582 |                   0.1 |                0.2 |                  0.7 |
 
 
 
@@ -119,7 +119,7 @@ aside:
 | Algeria                  |               4 |    3   |              16      |                   0   |                0   |                 12   |
 | Argentina                |               3 |    2   |              67      |                   0   |                2   |                 10   |
 | Italy                    |               3 |    2   |              42      |                   0   |                2   |                 10   |
-| Hungary                  |               3 |    1.9 |              48.1597 |                   1.1 |                0.6 |                  9.4 |
+| Hungary                  |               3 |    1.9 |              48.1582 |                   1.1 |                0.6 |                  9.4 |
 | France                   |               3 |    2   |              22      |                   0   |                1   |                  9   |
 | Samoa                    |               2 |    2   |              12      |                   0   |                0   |                  9   |
 | Uganda                   |               3 |    2   |              11      |                   1   |                0   |                  9   |
@@ -141,7 +141,7 @@ aside:
 | Senegal                  |               4 |    1   |             -19      |                   1   |                0   |                  5   |
 | Singapore                |               3 |    1   |             -21      |                   1   |                0   |                  5   |
 | Portugal                 |               2 |    1   |             -28      |                   0   |                1   |                  5   |
-| Austria                  |               2 |    1.1 |              23.8403 |                   0.1 |                0.2 |                  4.7 |
+| Austria                  |               2 |    1.1 |              23.8418 |                   0.1 |                0.2 |                  4.7 |
 | Barbados                 |               1 |    1   |              84      |                   0   |                0   |                  4   |
 | Finland                  |               1 |    1   |              50      |                   0   |                0   |                  4   |
 | Moldova                  |               1 |    1   |              42      |                   0   |                0   |                  4   |

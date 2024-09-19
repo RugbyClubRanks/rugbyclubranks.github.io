@@ -9,7 +9,7 @@ categories: "Pro D2 2024" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.679, which translates to predicting Grenoble to win by 6.4.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.684, which translates to predicting Grenoble to win by 6.6.
 
 Our Over/Under is 55.5 - and combined with the spread above, we have a predicted scoreline of 25 to 31
 
@@ -42,5 +42,5 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Imputed Lineups: Dax by nan
 
 
-Grenoble by 9.3 on a neutral pitch
+Grenoble by 9.4 on a neutral pitch
 

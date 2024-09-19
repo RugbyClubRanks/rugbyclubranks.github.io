@@ -9,7 +9,7 @@ categories: "Top 14 Orange 2024" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.732, which translates to predicting La Rochelle to win by 8.5.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.739, which translates to predicting La Rochelle to win by 8.8.
 
 Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 23 to 31
 
@@ -42,5 +42,5 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Imputed Lineups: Pau by nan
 
 
-La Rochelle by 6.7 on a neutral pitch
+La Rochelle by 7.1 on a neutral pitch
 

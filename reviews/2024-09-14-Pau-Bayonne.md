@@ -11,7 +11,7 @@ categories: "Top 14 Orange 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.653, which translates to predicting Pau to win by 5.6.
 
-Our Over/Under is 38.5 - and combined with the spread above, we have a predicted scoreline of 16 to 22
+Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 20 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Bayonne by 2.1 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             25 | Andy Bordelai         |             39.68 |        1 |             63.84 | Hugo Parrou         |             65 |
-|             25 | Vincent Giudicelli    |              8.61 |        2 |             13    | Lucas Rey           |             32 |
-|             23 | Luke Tagi             |             78.48 |        3 |             95.15 | Harry Williams      |              8 |
-|             80 | Arthur Iturria        |             58.23 |        4 |             25.75 | Thomas Jolmes       |             53 |
-|             15 | Alex Moon             |             97.9  |        5 |             63.76 | Remi Picquette      |             46 |
-|             27 | Rodrigo Bruni         |             99.23 |        6 |             33.96 | Sacha Zegueur       |             18 |
-|             80 | Baptiste Chouzenoux   |             89.93 |        7 |             52.1  | Loic Credoz         |             53 |
-|             31 | Uzair Cassiem         |             60.05 |        8 |             69.16 | Beka Gorgadze       |              4 |
-|             61 | Baptiste Germain      |              6.26 |        9 |             94.31 | Thibault Daubagna   |             80 |
-|             55 | Camille Lopez         |             88.31 |       10 |             87.11 | Joe Simmonds        |             80 |
-|             80 | Nadir Megdoud         |             73.72 |       11 |             33.47 | Aymeric Luc         |             21 |
-|             80 | Arnaud Erbinartegaray |              9.74 |       12 |             76.33 | Nathan Decron       |             23 |
-|             53 | Sireli Maqala         |             59.98 |       13 |             84.92 | Emilien Gailleton   |             80 |
-|             49 | Xan Mousques          |             69.51 |       14 |             54.72 | Theo Attissogbe     |             80 |
-|             53 | Tom Spring            |              6.98 |       15 |             86.28 | Jack Maddocks       |             53 |
-|             80 | Facundo Bosch         |             92.86 |       16 |              8.82 | Daniel Bibi Biziwu  |             32 |
-|             31 | Tevita Tatafu         |             28.4  |       17 |             56.96 | Youri Delhommel     |             27 |
-|             27 | Maxime Machenaud      |             93.17 |       18 |             84.4  | Lekima Tagitagivalu |             19 |
-|             36 | Joris Segonds         |             77.8  |       19 |             96.98 | Tumua Manu          |             49 |
-|             57 | Guillaume Martocq     |             15.89 |       20 |             74.07 | Jon Zabala Arrieta  |             22 |
-|             80 | Denis Marchois        |             97.46 |       21 |             74.23 | Joel Kpoku          |             60 |
-|             30 | Baptiste Heguy        |             89.38 |       22 |             98.1  | Dan Robson          |             49 |
-|             48 | Pierre Castillon      |            nan    |       23 |            nan    | nan                 |            nan |
+|             80 | Andy Bordelai         |             33.04 |        1 |             65.38 | Hugo Parrou         |             80 |
+|             80 | Vincent Giudicelli    |              6.96 |        2 |             14.47 | Lucas Rey           |             53 |
+|             55 | Luke Tagi             |             76.25 |        3 |             96.14 | Harry Williams      |             80 |
+|             57 | Arthur Iturria        |             61.99 |        4 |             29.17 | Thomas Jolmes       |             80 |
+|             80 | Alex Moon             |             97.35 |        5 |             65.41 | Remi Picquette      |             61 |
+|             49 | Rodrigo Bruni         |             99.23 |        6 |             36.17 | Sacha Zegueur       |             32 |
+|             68 | Baptiste Chouzenoux   |             90.04 |        7 |             55.09 | Loic Credoz         |             80 |
+|             80 | Uzair Cassiem         |             57.01 |        8 |             72.2  | Beka Gorgadze       |             36 |
+|             15 | Baptiste Germain      |              8.35 |        9 |             93.93 | Thibault Daubagna   |             15 |
+|             49 | Camille Lopez         |             88.54 |       10 |             86.63 | Joe Simmonds        |             57 |
+|             19 | Nadir Megdoud         |             77.62 |       11 |             33.37 | Aymeric Luc         |             23 |
+|             25 | Arnaud Erbinartegaray |             12.18 |       12 |             78.65 | Nathan Decron       |             58 |
+|             55 | Sireli Maqala         |             60.56 |       13 |             84.22 | Emilien Gailleton   |             54 |
+|             28 | Xan Mousques          |             70.94 |       14 |             53.59 | Theo Attissogbe     |             80 |
+|             80 | Tom Spring            |              6.51 |       15 |             84.65 | Jack Maddocks       |             23 |
+|             80 | Facundo Bosch         |             92.86 |       16 |              9.55 | Daniel Bibi Biziwu  |             59 |
+|             80 | Tevita Tatafu         |             29.01 |       17 |             56.96 | Youri Delhommel     |             80 |
+|              9 | Maxime Machenaud      |             93.17 |       18 |             84.4  | Lekima Tagitagivalu |             53 |
+|             31 | Joris Segonds         |             77.8  |       19 |             96.98 | Tumua Manu          |             60 |
+|             31 | Guillaume Martocq     |             16.01 |       20 |             74.06 | Jon Zabala Arrieta  |             23 |
+|             31 | Denis Marchois        |             97.57 |       21 |             74.34 | Joel Kpoku          |             25 |
+|             27 | Baptiste Heguy        |             89.27 |       22 |             98.1  | Dan Robson          |             80 |
+|             27 | Pierre Castillon      |            nan    |       23 |            nan    | nan                 |            nan |
 

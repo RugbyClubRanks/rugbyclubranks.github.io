@@ -11,7 +11,7 @@ categories: "Top 14 Orange 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.688, which translates to predicting Stade Toulousain to win by 7.0.
 
-Our Over/Under is 40.5 - and combined with the spread above, we have a predicted scoreline of 17 to 24
+Our Over/Under is 39.5 - and combined with the spread above, we have a predicted scoreline of 16 to 23
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Stade Toulousain by 13.5 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             17 | Reda Wardi            |            nan    |        1 |             59.52 | Rodrigue Neti        |             68 |
-|             68 | Quentin Lespiaucq     |             73.44 |        2 |             98.9  | Julien Marchand      |             80 |
-|              0 | Georges-Henri Colombe |            nan    |        3 |             96.83 | Dorian Aldegheri     |             12 |
-|             80 | Thomas Lavault        |            nan    |        4 |             84.2  | Joshua Brennan       |             80 |
-|             80 | Kane Douglas          |            nan    |        5 |             95.03 | Thibaud Flament      |             80 |
-|             68 | Judicael Cancoriet    |            nan    |        6 |             98.23 | Francois Cros        |             80 |
-|             80 | Matthias Haddad       |            nan    |        7 |             94.69 | Jack Willis          |             45 |
-|             40 | Gregory Alldritt      |            nan    |        8 |             95.56 | Alexandre Roumat     |             66 |
-|             80 | Thomas Berjon         |            nan    |        9 |             32.07 | Paul Graou           |             80 |
-|             80 | Ihaia West            |            nan    |       10 |             96.18 | Romain Ntamack       |             58 |
-|             80 | Dillyn Leyds          |            nan    |       11 |             98.46 | Matthis Lebel        |             56 |
-|             40 | Ulupano Seuteni       |            nan    |       12 |             64.15 | Pita Ahki            |             80 |
-|             40 | Teddy Thomas          |            nan    |       13 |             90.02 | Pierre-Louis Barassi |             35 |
-|             40 | Jack Nowell           |            nan    |       14 |             99.9  | Blair Kinghorn       |             24 |
-|             40 | Antoine Hastoy        |            nan    |       15 |             96.98 | Thomas Ramos         |             24 |
-|             40 | Pierre Bourgarit      |            nan    |       16 |             90.72 | Emmanuel Meafou      |             22 |
-|             40 | Louis Penverne        |             30.86 |       17 |             98.36 | Ange Capuozzo        |             14 |
-|             12 | Alexandre Kuntelia    |            nan    |       18 |             10.06 | Naoto Saito          |             12 |
-|             40 | Will Skelton          |            nan    |       19 |             93.03 | David Ainu'u         |             80 |
-|             12 | Ultan Dillane         |             80.33 |       20 |             89.28 | Richie Arnold        |             40 |
-|             12 | Teddy Iribaren        |             86.15 |       21 |             51.87 | Theo Ntamack         |             40 |
-|             13 | Jules Favre           |            nan    |       22 |             80.4  | Guillaume Cramont    |             68 |
-|            nan | nan                   |            nan    |       23 |             73.46 | Hugo Reilhes         |             80 |
+|             40 | Reda Wardi            |            nan    |        1 |             61.09 | Rodrigue Neti        |             80 |
+|             12 | Quentin Lespiaucq     |             68.68 |        2 |             99.08 | Julien Marchand      |             80 |
+|             68 | Georges-Henri Colombe |            nan    |        3 |             96.32 | Dorian Aldegheri     |             80 |
+|             80 | Thomas Lavault        |            nan    |        4 |             82.65 | Joshua Brennan       |             80 |
+|             68 | Kane Douglas          |            nan    |        5 |             95.36 | Thibaud Flament      |             12 |
+|             24 | Judicael Cancoriet    |            nan    |        6 |             98.45 | Francois Cros        |             63 |
+|             40 | Matthias Haddad       |            nan    |        7 |             95.13 | Jack Willis          |             80 |
+|             40 | Gregory Alldritt      |            nan    |        8 |             96.03 | Alexandre Roumat     |             17 |
+|             40 | Thomas Berjon         |            nan    |        9 |             33.97 | Paul Graou           |             80 |
+|             80 | Ihaia West            |            nan    |       10 |             96.42 | Romain Ntamack       |             56 |
+|             80 | Dillyn Leyds          |            nan    |       11 |             98.36 | Matthis Lebel        |             56 |
+|             80 | Ulupano Seuteni       |            nan    |       12 |             68.79 | Pita Ahki            |             13 |
+|             45 | Teddy Thomas          |            nan    |       13 |             89.33 | Pierre-Louis Barassi |             80 |
+|             12 | Jack Nowell           |            nan    |       14 |             99.9  | Blair Kinghorn       |             24 |
+|             68 | Antoine Hastoy        |            nan    |       15 |             96.51 | Thomas Ramos         |             22 |
+|             40 | Pierre Bourgarit      |            nan    |       16 |             90.61 | Emmanuel Meafou      |              0 |
+|             40 | Louis Penverne        |             31.2  |       17 |             97.84 | Ange Capuozzo        |             66 |
+|             80 | Alexandre Kuntelia    |            nan    |       18 |             10.06 | Naoto Saito          |             14 |
+|             40 | Will Skelton          |            nan    |       19 |             93.16 | David Ainu'u         |             12 |
+|             58 | Ultan Dillane         |             80.22 |       20 |             89.28 | Richie Arnold        |             80 |
+|             12 | Teddy Iribaren        |             86.34 |       21 |             52.1  | Theo Ntamack         |             40 |
+|             68 | Jules Favre           |            nan    |       22 |             80.59 | Guillaume Cramont    |             80 |
+|            nan | nan                   |            nan    |       23 |             73.44 | Hugo Reilhes         |             35 |
 

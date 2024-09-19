@@ -42,5 +42,5 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Imputed Lineups: Mont-de-Marsan by nan
 
 
-Soyaux-Angouleme by 6.4 on a neutral pitch
+Soyaux-Angouleme by 6.5 on a neutral pitch
 

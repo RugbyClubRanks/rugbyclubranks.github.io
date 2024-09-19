@@ -1,6 +1,6 @@
 ---  
 title: "Pacific Nations Cup 2024 Status"  
-date: 2024-09-16 6:00:00 -0500  
+date: 2024-09-19 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -31,10 +31,10 @@ aside:
 
 | Club                     |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Fiji                     |                   1 |    1   |             12.9613  |                   0   |                0.6 |                  4.5 |
-| Samoa                    |                   1 |    0.7 |              3.09691 |                   0.3 |                0.4 |                  3.3 |
-| United States of America |                   1 |    0.3 |             -3.09691 |                   0.3 |                0.2 |                  1.9 |
-| Japan                    |                   1 |    0   |            -12.9613  |                   0.1 |                0.2 |                  0.4 |
+| Fiji                     |                   1 |    1   |              12.6187 |                   0   |                0.6 |                  4.5 |
+| Samoa                    |                   1 |    0.7 |               3.1036 |                   0.2 |                0.4 |                  3.3 |
+| United States of America |                   1 |    0.3 |              -3.1036 |                   0.4 |                0.2 |                  2   |
+| Japan                    |                   1 |    0   |             -12.6187 |                   0.1 |                0.2 |                  0.4 |
 
 
 
@@ -43,10 +43,10 @@ aside:
 
 | Club                     |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Fiji                     |               4 |    4   |              88.9613 |                   0   |                0.6 |                 16.5 |
-| Japan                    |               4 |    3   |              53.0387 |                   0.1 |                0.2 |                 12.4 |
-| Samoa                    |               4 |    1.7 |             -18.9031 |                   0.3 |                0.4 |                  7.3 |
-| United States of America |               4 |    1.3 |             -26.0969 |                   0.3 |                0.2 |                  5.9 |
+| Fiji                     |               4 |    4   |              88.6187 |                   0   |                0.6 |                 16.5 |
+| Japan                    |               4 |    3   |              53.3813 |                   0.1 |                0.2 |                 12.4 |
+| Samoa                    |               4 |    1.7 |             -18.8964 |                   0.2 |                0.4 |                  7.3 |
+| United States of America |               4 |    1.3 |             -26.1036 |                   0.4 |                0.2 |                  6   |
 | Tonga                    |               3 |    1   |             -44      |                   0   |                0   |                  5   |
 | Canada                   |               3 |    0   |             -53      |                   0   |                0   |                  0   |
 
@@ -59,7 +59,7 @@ aside:
 | ------ | ------ | ------ |
 | Club Level | 88.9% | 13.8 |
 | Player Level: Lineup | 80.0% | 13.9 |
-| Player Level: Minutes | 75.0% | 13.6 |
+| Player Level: Minutes | 75.0% | 14.2 |
 
 
 # Future Predictions
@@ -69,9 +69,9 @@ aside:
 ### Fiji V Japan on 2024/09/21
 
 
-Average Margin: Fiji by 13.0
+Average Margin: Fiji by 12.6
 
-Average Scoreline: 35-22
+Average Scoreline: 35-23
 
 <p float="left">
 <img src="plots/performances_2024-09-21-Fiji_V_Japan.png" width="32%" />

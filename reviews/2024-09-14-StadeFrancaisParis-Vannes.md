@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Stade Francais Paris by 1.0
+## Prediction without Player Minutes: Stade Francais Paris by 0.7
 
 
-Vannes by 7.3 on a neutral pitch
+Vannes by 7.6 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,30 +69,28 @@ Vannes by 7.3 on a neutral pitch
 
 |   Away Minutes | Away Player              |   Away Percentile |   Number |   Home Percentile | Home Player            |   Home Minutes |
 |---------------:|:-------------------------|------------------:|---------:|------------------:|:-----------------------|---------------:|
-|             44 | Mako Vunipola            |             99.74 |        1 |             29.19 | Clement Castets        |             80 |
-|             40 | Pat Leafa                |             85.53 |        2 |            nan    | Lucas Peyresblanques   |             62 |
-|             80 | Paga Tafili              |             94.97 |        3 |             41.09 | Hugo Ndiaye            |             40 |
-|             80 | Anton Bresler            |             78.56 |        4 |            nan    | Paul Gabrillagues      |             80 |
-|             29 | Fabrice Metz             |             85.41 |        5 |            nan    | Baptiste Pesenti       |             80 |
-|              5 | Léon Boulier             |             21.68 |        6 |              5.2  | Tanginoa Halaifonua    |             26 |
-|             68 | Francisco Gorrissen      |             98.45 |        7 |             56.31 | Romain Briatte         |             80 |
-|             80 | Sione Kalamafoni         |             60.51 |        8 |            nan    | Sekou Macalou          |             80 |
-|             22 | Michael Ruru             |             93.74 |        9 |            nan    | Brad Weber             |             80 |
-|             80 | Maxime Lafage            |             94.51 |       10 |            nan    | Louis Carbonel         |             62 |
-|             46 | Filipo Nakosi            |             87.89 |       11 |            nan    | Lester Etien           |             80 |
-|             34 | Alex Arrate              |              6.5  |       12 |            nan    | Julien Delbouis        |             28 |
-|             58 | Theo Costosseque         |             41.18 |       13 |            nan    | Joe Marchant           |             36 |
-|             75 | Salesi Rayasi            |             88.81 |       14 |            nan    | Joe Jonas              |             53 |
-|             30 | Gwenaël Duplenne         |             98.84 |       15 |            nan    | Leo Barre              |             27 |
-|             34 | Thibault Debaes          |             60.7  |       16 |             74.34 | Moses Alo-Emile        |             12 |
-|             34 | Joe Edwards              |             94.14 |       17 |            nan    | JJ van der Mescht      |             18 |
-|             34 | Cyril Blanchard          |             43.77 |       18 |             99.27 | Giacomo Nicotera       |             80 |
-|             34 | Christiaan van der Merwe |              5.08 |       19 |             82.87 | Pierre-Henri Azagoh    |             80 |
-|             80 | Santiago Medrano         |              6.26 |       20 |            nan    | Yoan Tanga             |             46 |
-|             55 | Santiago Medrano         |              6.26 |       20 |            nan    | Yoan Tanga             |             46 |
-|             31 | Santiago Medrano         |              6.26 |       20 |            nan    | Yoan Tanga             |             46 |
-|             34 | Santiago Medrano         |              6.26 |       20 |            nan    | Yoan Tanga             |             46 |
-|             80 | Thomas Moukoro           |            nan    |       21 |            nan    | Samuel Ezeala          |             80 |
-|             46 | Kitione Kamikamica       |             86.68 |       22 |             92.06 | Francisco Gomez Kodela |             80 |
-|             80 | Jules Le Bail            |             47.44 |       23 |            nan    | nan                    |            nan |
+|             40 | Mako Vunipola            |             99.74 |        1 |             37.86 | Clement Castets        |             52 |
+|             80 | Pat Leafa                |             83.52 |        2 |            nan    | Lucas Peyresblanques   |             53 |
+|             12 | Paga Tafili              |             92.81 |        3 |             47.5  | Hugo Ndiaye            |             54 |
+|             80 | Anton Bresler            |             74.81 |        4 |            nan    | Paul Gabrillagues      |             18 |
+|             50 | Fabrice Metz             |             84.31 |        5 |            nan    | Baptiste Pesenti       |             80 |
+|             80 | Léon Boulier             |             19.8  |        6 |              5.75 | Tanginoa Halaifonua    |             80 |
+|             80 | Francisco Gorrissen      |             98.34 |        7 |             63.72 | Romain Briatte         |             44 |
+|             22 | Sione Kalamafoni         |             50.93 |        8 |            nan    | Sekou Macalou          |             68 |
+|             18 | Michael Ruru             |             93.74 |        9 |            nan    | Brad Weber             |             21 |
+|             34 | Maxime Lafage            |             93.79 |       10 |            nan    | Louis Carbonel         |             21 |
+|             26 | Filipo Nakosi            |             85.93 |       11 |            nan    | Lester Etien           |             80 |
+|              8 | Alex Arrate              |              4.76 |       12 |            nan    | Julien Delbouis        |             80 |
+|             37 | Theo Costosseque         |             36.08 |       13 |            nan    | Joe Marchant           |             44 |
+|             80 | Salesi Rayasi            |             87.37 |       14 |            nan    | Joe Jonas              |             43 |
+|             53 | Gwenaël Duplenne         |             98.37 |       15 |            nan    | Leo Barre              |             51 |
+|             58 | Thibault Debaes          |             60.47 |       16 |             74.32 | Moses Alo-Emile        |             59 |
+|             80 | Joe Edwards              |             94.14 |       17 |            nan    | JJ van der Mescht      |             27 |
+|             62 | Cyril Blanchard          |             43.59 |       18 |             99.27 | Giacomo Nicotera       |             36 |
+|             75 | Christiaan van der Merwe |              5.08 |       19 |             82.98 | Pierre-Henri Azagoh    |              5 |
+|             40 | Santiago Medrano         |              6.57 |       20 |            nan    | Yoan Tanga             |             37 |
+|             34 | Santiago Medrano         |              6.57 |       20 |            nan    | Yoan Tanga             |             37 |
+|             34 | Thomas Moukoro           |            nan    |       21 |            nan    | Samuel Ezeala          |             46 |
+|             80 | Kitione Kamikamica       |             86.68 |       22 |             92.11 | Francisco Gomez Kodela |             46 |
+|             16 | Jules Le Bail            |             47.44 |       23 |            nan    | nan                    |            nan |
 

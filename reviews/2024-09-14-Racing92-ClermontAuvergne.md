@@ -11,7 +11,7 @@ categories: "Top 14 Orange 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.612, which translates to predicting Racing 92 to win by 4.0.
 
-Our Over/Under is 36.5 - and combined with the spread above, we have a predicted scoreline of 16 to 20
+Our Over/Under is 42.5 - and combined with the spread above, we have a predicted scoreline of 19 to 23
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,28 +69,28 @@ Clermont Auvergne by 0.3 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             80 | Sacha Lotrian        |             33.07 |        1 |             46.91 | Guram Gogichashvili |             80 |
-|             45 | Folau Fainga'a       |             90.11 |        2 |             44.32 | Robin Couly         |             48 |
-|             80 | Cristian Ojovan      |             68.87 |        3 |             83.25 | Thomas Laclayat     |             80 |
-|             80 | Thibaud Lanen        |             83.65 |        4 |             49.28 | Will Rowlands       |             80 |
-|             80 | Thomas Ceyte         |             65.64 |        5 |             53.59 | Romain Taofifenua   |             10 |
-|             80 | Killian Tixeront     |             75.33 |        6 |             90.49 | Cameron Woki        |             76 |
-|             53 | Alexandre Fischer    |             77.77 |        7 |             95.8  | Hacjivah Dayimani   |             80 |
-|             72 | Pita Gus Sowakula    |             85.75 |        8 |             84.11 | Jordan Joseph       |             80 |
-|             80 | Baptiste Jauneau     |             72.11 |        9 |             80.27 | Nolann Le Garrec    |             80 |
-|             80 | Anthony Belleau      |             95.23 |       10 |             99.28 | Owen Farrell        |             62 |
-|             80 | Joris Jurand         |             89.43 |       11 |             10.47 | Henry Arundell      |             34 |
-|             80 | Joris Jurand         |             89.43 |       11 |             10.47 | Henry Arundell      |              9 |
-|             59 | Leon Darricarrere    |             88.17 |       12 |              3.13 | Dan Lancaster       |             80 |
-|             80 | Lucas Tauzin         |             66.47 |       13 |             98.14 | Gael Fickou         |             80 |
-|             34 | Yerim Fall           |             52.26 |       14 |             94.97 | Josua Tuisova       |             80 |
-|             80 | Kylan Hamdaoui       |             42.56 |       15 |             91.86 | Sam James           |             32 |
-|             28 | Anthime Hemery       |             72.68 |       16 |             51.77 | Ibrahim Diallo      |             32 |
-|             80 | Regis Montagne       |             88.27 |       17 |             98.06 | Eddy Ben Arous      |             18 |
-|             22 | Giorgi Akhaladze     |             72.75 |       18 |             95.94 | Lucio Sordoni       |              4 |
-|             22 | George Moala         |             95.36 |       19 |             79.12 | Boris Palu          |             48 |
-|             15 | Etienne Fourcade     |             76.01 |       20 |             99.19 | Henry Chavancy      |             58 |
-|             30 | Sebastien Bezy       |             90.51 |       21 |             48.46 | Vinaya Habosi       |             46 |
-|             80 | Peceli Yato Senibitu |             88.79 |       22 |             63.38 | Clovis Le bail      |             58 |
-|             32 | Théo Giral           |            nan    |       23 |            nan    | nan                 |            nan |
+|              4 | Sacha Lotrian        |             41.02 |        1 |             54.08 | Guram Gogichashvili |             80 |
+|             80 | Folau Fainga'a       |             90.11 |        2 |             44.87 | Robin Couly         |             65 |
+|             58 | Cristian Ojovan      |             72.13 |        3 |             84.05 | Thomas Laclayat     |             80 |
+|              4 | Thibaud Lanen        |             85.97 |        4 |             49.39 | Will Rowlands       |             48 |
+|             35 | Thomas Ceyte         |             68.84 |        5 |             58.12 | Romain Taofifenua   |             30 |
+|             48 | Killian Tixeront     |             77.88 |        6 |             90.71 | Cameron Woki        |             80 |
+|             80 | Alexandre Fischer    |             77.21 |        7 |             95.69 | Hacjivah Dayimani   |             80 |
+|             80 | Pita Gus Sowakula    |             85.98 |        8 |             83.88 | Jordan Joseph       |             80 |
+|             65 | Baptiste Jauneau     |             73.24 |        9 |             79.51 | Nolann Le Garrec    |             80 |
+|             21 | Anthony Belleau      |             95.7  |       10 |             99.05 | Owen Farrell        |             32 |
+|             80 | Joris Jurand         |             89.63 |       11 |             14.07 | Henry Arundell      |             12 |
+|             80 | Joris Jurand         |             89.63 |       11 |             14.07 | Henry Arundell      |             80 |
+|             58 | Leon Darricarrere    |             88.86 |       12 |              3.02 | Dan Lancaster       |             70 |
+|             72 | Lucas Tauzin         |             67.75 |       13 |             98.14 | Gael Fickou         |             80 |
+|             76 | Yerim Fall           |             49.9  |       14 |             94.87 | Josua Tuisova       |             32 |
+|             62 | Kylan Hamdaoui       |             45.35 |       15 |             91.86 | Sam James           |             32 |
+|             80 | Anthime Hemery       |             72.79 |       16 |             52.1  | Ibrahim Diallo      |             32 |
+|             80 | Regis Montagne       |             88.34 |       17 |             98.07 | Eddy Ben Arous      |             80 |
+|             46 | Giorgi Akhaladze     |             72.74 |       18 |             95.88 | Lucio Sordoni       |             80 |
+|             44 | George Moala         |             95.36 |       19 |             79.12 | Boris Palu          |             71 |
+|             50 | Etienne Fourcade     |             75.82 |       20 |             99.3  | Henry Chavancy      |             34 |
+|             53 | Sebastien Bezy       |             90.51 |       21 |             48.77 | Vinaya Habosi       |             27 |
+|             22 | Peceli Yato Senibitu |             88.55 |       22 |             63.57 | Clovis Le bail      |             34 |
+|             53 | Théo Giral           |            nan    |       23 |            nan    | nan                 |            nan |
 
