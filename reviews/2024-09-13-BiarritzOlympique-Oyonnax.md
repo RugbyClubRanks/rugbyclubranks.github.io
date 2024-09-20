@@ -69,27 +69,27 @@ Biarritz Olympique by 3.7 on a neutral pitch
 
 |   Away Minutes | Away Player               |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:--------------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             80 | Oli Kebble                |            nan    |        1 |            nan    | Alexandre Plantier  |             18 |
-|             20 | Teddy Durand              |            nan    |        2 |            nan    | Yohan Beheregaray   |             80 |
-|              2 | Paulo Tafili              |            nan    |        3 |            nan    | Nikoloz Narmania    |             53 |
-|             54 | Ewan Johnson              |             80.11 |        4 |            nan    | Charlie Matthews    |             12 |
-|             62 | Manuel Leindekar          |              0.99 |        5 |            nan    | Piula Faasalele     |             78 |
-|             21 | Veresa Tuqovu Ramototabua |             51.11 |        6 |            nan    | Cornell du Preez    |             42 |
-|             26 | Antoine Miquel            |            nan    |        7 |            nan    | Jessy Jegerlehner   |             72 |
-|             59 | Loic Godener              |            nan    |        8 |            nan    | Masivesi Dakuwaqa   |             13 |
-|             80 | Vasil Lobzhanidze         |            nan    |        9 |            nan    | Kerman Aurrekoetxea |             80 |
-|             20 | Chris Smith               |             68.26 |       10 |            nan    | Thomas Dolhagaray   |             53 |
-|             80 | Daniel Ikpefan            |             78.64 |       11 |            nan    | Baptiste Fariscot   |             80 |
-|             80 | Chris Farrell             |            nan    |       12 |            nan    | Tyler Morgan        |             60 |
-|             35 | Edward Sawailau           |            nan    |       13 |            nan    | Mathieu Acebes      |             60 |
-|             45 | Martin Bogado             |             70.64 |       14 |            nan    | Zach Kibirige       |             80 |
-|             80 | Justin Bouraux            |            nan    |       15 |            nan    | Kylian Jaminet      |             35 |
-|             80 | Kevin Lebreton            |            nan    |       16 |             18.68 | Clement Martinez    |             80 |
-|             38 | Phoenix Battye            |            nan    |       17 |            nan    | Giorgi Dzmanashvili |             74 |
-|             67 | Adrien Bordenave          |              4.73 |       18 |            nan    | Ekain Imaz Agirre   |             60 |
-|             80 | Thibault Berthaud         |             39.96 |       19 |            nan    | Adrian Motoc        |             13 |
-|             18 | Kevin Kornath             |             15.49 |       20 |             86.28 | Filimo Taofifenua   |             20 |
-|             68 | Peniami Narisia           |            nan    |       21 |             74.36 | Yann David          |             45 |
-|             80 | Zack Holmes               |            nan    |       22 |            nan    | Giorgi Nutsubidze   |             57 |
-|             23 | Yvan David                |            nan    |       23 |             52.03 | Edgar Retiere       |             27 |
+|             80 | Oli Kebble                |            nan    |        1 |            nan    | Alexandre Plantier  |              2 |
+|             20 | Teddy Durand              |            nan    |        2 |            nan    | Yohan Beheregaray   |             60 |
+|             54 | Paulo Tafili              |            nan    |        3 |            nan    | Nikoloz Narmania    |             53 |
+|             80 | Ewan Johnson              |             79.13 |        4 |            nan    | Charlie Matthews    |              6 |
+|             18 | Manuel Leindekar          |              0.67 |        5 |            nan    | Piula Faasalele     |             80 |
+|             57 | Veresa Tuqovu Ramototabua |             54.04 |        6 |            nan    | Cornell du Preez    |             80 |
+|             59 | Antoine Miquel            |            nan    |        7 |            nan    | Jessy Jegerlehner   |             10 |
+|             45 | Loic Godener              |            nan    |        8 |            nan    | Masivesi Dakuwaqa   |             67 |
+|             45 | Vasil Lobzhanidze         |            nan    |        9 |            nan    | Kerman Aurrekoetxea |             12 |
+|             80 | Chris Smith               |             70.26 |       10 |            nan    | Thomas Dolhagaray   |             38 |
+|             20 | Daniel Ikpefan            |             76.02 |       11 |            nan    | Baptiste Fariscot   |             78 |
+|             80 | Chris Farrell             |            nan    |       12 |            nan    | Tyler Morgan        |             80 |
+|             80 | Edward Sawailau           |            nan    |       13 |            nan    | Mathieu Acebes      |             27 |
+|             35 | Martin Bogado             |             67.04 |       14 |            nan    | Zach Kibirige       |             80 |
+|             18 | Justin Bouraux            |            nan    |       15 |            nan    | Kylian Jaminet      |             80 |
+|             23 | Kevin Lebreton            |            nan    |       16 |             19.27 | Clement Martinez    |             13 |
+|             21 | Phoenix Battye            |            nan    |       17 |            nan    | Giorgi Dzmanashvili |             60 |
+|             62 | Adrien Bordenave          |              3.98 |       18 |            nan    | Ekain Imaz Agirre   |             80 |
+|             26 | Thibault Berthaud         |             39.61 |       19 |            nan    | Adrian Motoc        |             68 |
+|             13 | Kevin Kornath             |             15.39 |       20 |             86.27 | Filimo Taofifenua   |             42 |
+|             80 | Peniami Narisia           |            nan    |       21 |             74.59 | Yann David          |             20 |
+|             62 | Zack Holmes               |            nan    |       22 |            nan    | Giorgi Nutsubidze   |             60 |
+|             67 | Yvan David                |            nan    |       23 |             52.04 | Edgar Retiere       |             80 |
 

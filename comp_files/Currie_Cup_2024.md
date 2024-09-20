@@ -1,6 +1,6 @@
 ---  
 title: "Currie Cup 2024 Status"  
-date: 2024-09-19 6:00:00 -0500  
+date: 2024-09-20 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -34,9 +34,9 @@ aside:
 
 | Club         |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Golden Lions |                   2 |    1.9 |             16.0682  |                   0.1 |                1.1 |                  8.7 |
-| Sharks       |                   1 |    0.1 |             -7.18779 |                   0.4 |                0.1 |                  0.8 |
-| Natal Sharks |                   1 |    0.1 |             -8.88039 |                   0.3 |                0.1 |                  0.7 |
+| Golden Lions |                   2 |    1.9 |             16.3225  |                   0.1 |                0.8 |                  8.4 |
+| Sharks       |                   1 |    0.1 |             -7.40584 |                   0.4 |                0.1 |                  0.8 |
+| Natal Sharks |                   1 |    0.1 |             -8.91665 |                   0.3 |                0.1 |                  0.7 |
 
 
 
@@ -45,13 +45,13 @@ aside:
 
 | Club                |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Golden Lions        |              15 |   12.9 |            235.068   |                   0.1 |                1.1 |                 55.7 |
+| Golden Lions        |              15 |   12.9 |            235.322   |                   0.1 |                0.8 |                 55.4 |
 | Blue Bulls          |              12 |    8   |            118       |                   1   |                0   |                 40   |
-| Sharks              |              12 |    7.1 |             85.8122  |                   2.4 |                0.1 |                 30.8 |
+| Sharks              |              12 |    7.1 |             85.5942  |                   2.4 |                0.1 |                 30.8 |
 | Pumas               |              12 |    6   |            -50       |                   0   |                0   |                 29   |
 | Free State Cheetahs |              11 |    5   |             62       |                   1   |                0   |                 28   |
 | Griquas             |              12 |    5   |            -62       |                   0   |                0   |                 24   |
-| Natal Sharks        |               8 |    3.1 |              9.11961 |                   2.3 |                0.1 |                 19.7 |
+| Natal Sharks        |               8 |    3.1 |              9.08335 |                   2.3 |                0.1 |                 19.7 |
 | Western Province    |              10 |    3   |             -3       |                   2   |                0   |                 18   |
 | Griffons            |              10 |    0   |           -395       |                   1   |                0   |                  2   |
 
@@ -87,9 +87,9 @@ Average Scoreline: 34-25
 ### Golden Lions V Sharks on 2024/09/21
 
 
-Average Margin: Golden Lions by 7.2
+Average Margin: Golden Lions by 7.4
 
-Average Scoreline: 35-28
+Average Scoreline: 35-27
 
 <p float="left">
 <img src="plots/performances_2024-09-21-GoldenLions_V_Sharks.png" width="32%" />

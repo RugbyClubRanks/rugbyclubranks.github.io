@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Dax by 7.6
+## Prediction without Player Minutes: Dax by 7.7
 
 
-Colomiers by 0.0 on a neutral pitch
+Dax by 0.1 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Colomiers by 0.0 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             32 | Guillaume Tartas      |             66.43 |        1 |             74.76 | Louis Mary            |             80 |
-|             80 | Thomas Larrieu        |             30.95 |        2 |             11.54 | Louis Barrere         |             80 |
-|             80 | Hugo Pirlet           |             59.42 |        3 |              9.82 | Diogo Hasse Ferreira  |             22 |
-|             80 | Jean Thomas           |             53.59 |        4 |             69.61 | Étienne Loiret        |             55 |
-|             46 | Janse Roux            |             44.53 |        5 |             10.5  | Jean-Baptiste Singer  |             46 |
-|             52 | Anthony Coletta       |             25.44 |        6 |             33.85 | Jean-Baptiste Barrère |             46 |
-|             55 | Gregoire Bazin        |             40.27 |        7 |              9.29 | Jean Despiau          |             28 |
-|             80 | Jeremy Bechu          |             45.09 |        8 |             19.39 | Sam Wasley            |             46 |
-|             55 | Ugo Seguela           |             41.18 |        9 |             68.12 | Simon Garrouteigt     |             55 |
-|             80 | Max Auriac            |             26.25 |       10 |             68.97 | Hugo Cerisier         |             80 |
-|             80 | Anzelo Tuitavuki      |             18.17 |       11 |             46.61 | Jope Naseara          |             34 |
-|             67 | Dorian Laborde        |             64.97 |       12 |             42.23 | Noah Nene             |             52 |
-|             24 | Rodrigo Marta         |             88.05 |       13 |             60.21 | Bastien Daguerre      |             52 |
-|             80 | Vincent Pinto         |             86.55 |       14 |             40.86 | Diego Miranda         |             80 |
-|             55 | Valentin Saurs        |              3.49 |       15 |             78.84 | Théo Gatelier         |             80 |
-|             80 | Ugo Pacome            |             43.95 |       16 |             29.8  | Nephi Leatigaga       |             80 |
-|             80 | Pablo Dimcheff        |             24.73 |       17 |             49.28 | Mattieu Bidau         |             58 |
-|             80 | Pierre-Samuel Pacheco |             55.2  |       18 |             81.14 | Iban Hiriart-Urruty   |             19 |
-|             25 | Robin Bellemand       |            nan    |       19 |             80.46 | Sylvère Reteau        |             80 |
-|             56 | Maxime Granouillet    |             70.83 |       20 |             49.64 | Romuald Séguy         |             25 |
-|             60 | Ray Nu'u              |             63.81 |       21 |             46.08 | Brice Ferrer          |             80 |
-|             44 | Alexis Caumel         |             51.22 |       22 |             60.47 | Dino Casadei          |             80 |
-|             15 | Arthur Diaz           |             46.49 |       23 |             88.4  | Hugo Fourquet         |             32 |
+|             47 | Guillaume Tartas      |             71.62 |        1 |             77.81 | Louis Mary            |             46 |
+|             25 | Thomas Larrieu        |             17.8  |        2 |             13.21 | Louis Barrere         |             80 |
+|             23 | Hugo Pirlet           |             56.41 |        3 |              9.64 | Diogo Hasse Ferreira  |             55 |
+|             80 | Jean Thomas           |             38.4  |        4 |             69.26 | Étienne Loiret        |             80 |
+|             80 | Janse Roux            |             48.39 |        5 |             10.43 | Jean-Baptiste Singer  |             80 |
+|             67 | Anthony Coletta       |             29.9  |        6 |             41.53 | Jean-Baptiste Barrère |             52 |
+|             24 | Gregoire Bazin        |             20.27 |        7 |              9.08 | Jean Despiau          |             52 |
+|             80 | Jeremy Bechu          |             44.63 |        8 |             22.2  | Sam Wasley            |             15 |
+|             55 | Ugo Seguela           |             40.99 |        9 |             70.21 | Simon Garrouteigt     |             34 |
+|             80 | Max Auriac            |             35.97 |       10 |             77.22 | Hugo Cerisier         |             16 |
+|             80 | Anzelo Tuitavuki      |             17.45 |       11 |             43.47 | Jope Naseara          |             80 |
+|             80 | Dorian Laborde        |             67.83 |       12 |             43.71 | Noah Nene             |              5 |
+|             56 | Rodrigo Marta         |             89.74 |       13 |             65.15 | Bastien Daguerre      |             50 |
+|             34 | Vincent Pinto         |             84.59 |       14 |             51.73 | Diego Miranda         |             75 |
+|             28 | Valentin Saurs        |              3.97 |       15 |             80.37 | Théo Gatelier         |             80 |
+|             34 | Ugo Pacome            |             32.48 |       16 |             29.27 | Nephi Leatigaga       |             28 |
+|             34 | Pablo Dimcheff        |             24.95 |       17 |             49.39 | Mattieu Bidau         |             13 |
+|             34 | Pierre-Samuel Pacheco |             55.04 |       18 |             86.24 | Iban Hiriart-Urruty   |             25 |
+|             80 | Robin Bellemand       |            nan    |       19 |             81.21 | Sylvère Reteau        |             52 |
+|             19 | Maxime Granouillet    |             71.25 |       20 |             52.28 | Romuald Séguy         |             62 |
+|             40 | Ray Nu'u              |             62.7  |       21 |             46.61 | Brice Ferrer          |             55 |
+|             16 | Alexis Caumel         |             50.61 |       22 |             60.3  | Dino Casadei          |             46 |
+|             30 | Arthur Diaz           |             46.49 |       23 |             88.46 | Hugo Fourquet         |             28 |
 

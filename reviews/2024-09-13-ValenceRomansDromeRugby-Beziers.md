@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Valence Romans Drome Rugby by 5.1
+## Prediction without Player Minutes: Valence Romans Drome Rugby by 4.9
 
 
-Valence Romans Drome Rugby by 2.1 on a neutral pitch
+Valence Romans Drome Rugby by 1.8 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Valence Romans Drome Rugby by 2.1 on a neutral pitch
 
 |   Away Minutes | Away Player            |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:-----------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             29 | Youssef Amrouni        |            nan    |        1 |              3.33 | Julien Royer         |             25 |
-|             52 | Jose Luis Gonzalez     |            nan    |        2 |             55.31 | Dorian Marco Pena    |             48 |
-|             32 | Christian Judge        |            nan    |        3 |             87.64 | Kevin Goze           |             28 |
-|             80 | Gillian Benoy          |             61.1  |        4 |             37.35 | Ryan McCauley        |             25 |
-|             80 | Pierre Gayraud         |            nan    |        5 |             66.41 | Florian Goumat       |             30 |
-|             62 | Clement Doumenc        |             67.15 |        6 |             14.05 | Axel Bruchet         |             64 |
-|             62 | Clement Ancely         |            nan    |        7 |             32.08 | Loan Real            |             33 |
-|             13 | Otonuku Jr Pauta       |            nan    |        8 |             15.89 | Philippe Laville     |             80 |
-|             48 | Samuel Marques         |            nan    |        9 |              8.16 | Mattéo Rodor         |             15 |
-|             56 | Charly Malie           |            nan    |       10 |             21    | Lucas Meret          |             32 |
-|             74 | Aminiasi Tuimaba       |            nan    |       11 |              9.96 | Thomas Roziere       |             65 |
-|             22 | Taleta Tupuola         |            nan    |       12 |             84.69 | Louis Marrou         |             80 |
-|             80 | Branden Holder         |             51.04 |       13 |             76.8  | Anatole Pauvert      |             53 |
-|             46 | Pierre Courtaud        |            nan    |       14 |             93.22 | Adam Vargas          |             54 |
-|             26 | Victor Dreuille        |            nan    |       15 |             89.3  | Charles Bouldoire    |             21 |
-|             65 | Sias Koen              |             61.21 |       16 |             45.58 | Joris De Moura       |             80 |
-|             25 | Yanis Boulassel        |             19.23 |       17 |             74.53 | Sven Bernat Girlando |             80 |
-|             80 | Hans N'kinsi           |            nan    |       18 |             80.2  | Thembelani Bholi     |             80 |
-|             58 | Francisco Fernandes    |             12.71 |       19 |             33.48 | Gareth Milasinovich  |             48 |
-|             33 | Taylor Gontineac       |             80.16 |       20 |             78.94 | Thomas Lhusero       |             32 |
-|             47 | Damien Añon            |             26.51 |       21 |             84.86 | Darren O'Shea        |             23 |
-|             48 | Baptiste Abescat-Leroy |             60.95 |       22 |              2.56 | Cyril Deligny        |             52 |
-|             57 | John Henry Fincham     |            nan    |       23 |            nan    | nan                  |            nan |
+|              6 | Youssef Amrouni        |            nan    |        1 |              1.86 | Julien Royer         |             54 |
+|              1 | Jose Luis Gonzalez     |            nan    |        2 |             43.85 | Dorian Marco Pena    |             54 |
+|             32 | Christian Judge        |            nan    |        3 |             81.43 | Kevin Goze           |             80 |
+|             54 | Gillian Benoy          |             45.84 |        4 |             23.31 | Ryan McCauley        |             48 |
+|             53 | Pierre Gayraud         |            nan    |        5 |             57.27 | Florian Goumat       |             48 |
+|             80 | Clement Doumenc        |             70.76 |        6 |             12.74 | Axel Bruchet         |             80 |
+|             80 | Clement Ancely         |            nan    |        7 |             25.91 | Loan Real            |             58 |
+|             32 | Otonuku Jr Pauta       |            nan    |        8 |             21.03 | Philippe Laville     |             44 |
+|             36 | Samuel Marques         |            nan    |        9 |              5.12 | Mattéo Rodor         |             80 |
+|             58 | Charly Malie           |            nan    |       10 |             17.51 | Lucas Meret          |             28 |
+|             80 | Aminiasi Tuimaba       |            nan    |       11 |              9.9  | Thomas Roziere       |             46 |
+|             80 | Taleta Tupuola         |            nan    |       12 |             84.73 | Louis Marrou         |             80 |
+|             32 | Branden Holder         |             41.03 |       13 |             81.47 | Anatole Pauvert      |             34 |
+|             80 | Pierre Courtaud        |            nan    |       14 |             92.55 | Adam Vargas          |             26 |
+|             52 | Victor Dreuille        |            nan    |       15 |             86.68 | Charles Bouldoire    |             65 |
+|             60 | Sias Koen              |             60.98 |       16 |             41.12 | Joris De Moura       |             48 |
+|             48 | Yanis Boulassel        |             19.45 |       17 |             74.53 | Sven Bernat Girlando |             80 |
+|             65 | Hans N'kinsi           |            nan    |       18 |             76.52 | Thembelani Bholi     |             80 |
+|             32 | Francisco Fernandes    |             15.21 |       19 |             31.03 | Gareth Milasinovich  |             45 |
+|             80 | Taylor Gontineac       |             82.52 |       20 |             78.18 | Thomas Lhusero       |             54 |
+|             32 | Damien Añon            |             25.93 |       21 |             85.13 | Darren O'Shea        |             65 |
+|             80 | Baptiste Abescat-Leroy |             61.02 |       22 |              2.75 | Cyril Deligny        |             33 |
+|             22 | John Henry Fincham     |            nan    |       23 |            nan    | nan                  |            nan |
 

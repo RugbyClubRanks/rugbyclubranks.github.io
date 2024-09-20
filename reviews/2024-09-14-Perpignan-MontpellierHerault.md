@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Perpignan by 4.6
+## Prediction without Player Minutes: Perpignan by 2.4
 
 
-Montpellier Herault by 4.4 on a neutral pitch
+Montpellier Herault by 6.6 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,29 +69,30 @@ Montpellier Herault by 4.4 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             80 | Enzo Forletta       |             84.31 |        1 |             11.13 | Bruce Devaux          |             80 |
-|             18 | Vano Karkadze       |             73.63 |        2 |             82.6  | Seilala Lam           |             18 |
-|             80 | Luka Japaridze      |             85.45 |        3 |             75.72 | Pietro Ceccarelli     |             10 |
-|             80 | Yacouba Camara      |             92.38 |        4 |             88.18 | Marvin Orie           |             62 |
-|             27 | Tyler Duguid        |             46.63 |        5 |             19.12 | Posolo Tuilagi        |             50 |
-|             80 | Lenni Nouchi        |             85.84 |        6 |             84.07 | Jacobus van Tonder    |             30 |
-|             80 | Alexandre Becognee  |             50.44 |        7 |             93.03 | Patrick Sobela        |             80 |
-|             80 | Billy Vunipola      |             97.9  |        8 |             93.93 | So'otala Fa'aso'o     |             60 |
-|             80 | Leo Coly            |             57.87 |        9 |             82.92 | Tom Ecochard          |             80 |
-|             30 | Domingo Miotti      |             87.35 |       10 |             89.02 | Jake McIntyre         |             80 |
-|             80 | George Bridge       |             98.87 |       11 |             29.26 | Ali Crossdale         |             22 |
-|             27 | George Bridge       |             98.87 |       11 |             29.26 | Ali Crossdale         |             22 |
-|             57 | George Bridge       |             98.87 |       11 |             29.26 | Ali Crossdale         |             22 |
-|             48 | Arthur Vincent      |             64.15 |       12 |             99.19 | Jeronimo de la Fuente |             80 |
-|             80 | Thomas Darmon       |             24.48 |       13 |             11.6  | Alivereti Duguivalu   |             49 |
-|             53 | Madosh Tambwe       |             92.61 |       14 |             74.33 | Tavite Veredamu       |              9 |
-|             80 | Thomas Vincent      |             53.72 |       15 |             72.33 | Tommaso Allan         |             48 |
-|             71 | Christopher Tolofua |             89.93 |       16 |              3.3  | Victor Montgaillard   |             26 |
-|             52 | Baptiste Erdocio    |              2.37 |       17 |             87.03 | Giorgi Beria          |             20 |
-|             80 | Wilfrid Hounkpatin  |             59.6  |       18 |             30.76 | Kieran Brookes        |             22 |
-|             80 | Sam Simmonds        |             51.33 |       19 |            nan    | Jefferson-Lee Joseph  |             20 |
-|             80 | Auguste Cadot       |             17.75 |       20 |             24.97 | Adrien Warion         |             50 |
-|             80 | Bastien Chalureau   |             80.88 |       21 |             76.11 | Lucas Bachelier       |             76 |
-|             27 | Alexis Bernadet     |             51.04 |       22 |             62.62 | Gela Aprasidze        |             45 |
-|             48 | Marco Tauleigne     |             92.76 |       23 |              4.18 | Eneriko Buliruarua    |             80 |
+|             80 | Enzo Forletta       |             83.82 |        1 |             12.02 | Bruce Devaux          |             60 |
+|             46 | Vano Karkadze       |             66.61 |        2 |             82.39 | Seilala Lam           |             26 |
+|             12 | Luka Japaridze      |             82.49 |        3 |             71.09 | Pietro Ceccarelli     |             60 |
+|             50 | Yacouba Camara      |             91.45 |        4 |             88.12 | Marvin Orie           |             80 |
+|             52 | Tyler Duguid        |             53.05 |        5 |             17.98 | Posolo Tuilagi        |             80 |
+|             50 | Lenni Nouchi        |             82.28 |        6 |             83.94 | Jacobus van Tonder    |             32 |
+|             62 | Alexandre Becognee  |             35.55 |        7 |             93.69 | Patrick Sobela        |             48 |
+|             23 | Billy Vunipola      |             96.5  |        8 |             93.93 | So'otala Fa'aso'o     |             80 |
+|             80 | Leo Coly            |             54.08 |        9 |             85.39 | Tom Ecochard          |             30 |
+|             32 | Domingo Miotti      |             87.29 |       10 |             89.21 | Jake McIntyre         |             80 |
+|             20 | George Bridge       |             99.08 |       11 |             24.9  | Ali Crossdale         |             80 |
+|             58 | George Bridge       |             99.08 |       11 |             24.9  | Ali Crossdale         |             80 |
+|             80 | George Bridge       |             99.08 |       11 |             24.9  | Ali Crossdale         |             80 |
+|             10 | George Bridge       |             99.08 |       11 |             24.9  | Ali Crossdale         |             80 |
+|             55 | Arthur Vincent      |             56.64 |       12 |             99.42 | Jeronimo de la Fuente |             25 |
+|             30 | Thomas Darmon       |             14.1  |       13 |             10.84 | Alivereti Duguivalu   |             80 |
+|             30 | Madosh Tambwe       |             91.12 |       14 |             72.04 | Tavite Veredamu       |             44 |
+|             48 | Thomas Vincent      |             51.64 |       15 |             70.56 | Tommaso Allan         |             80 |
+|             18 | Christopher Tolofua |             87.71 |       16 |              3.3  | Victor Montgaillard   |             27 |
+|             15 | Baptiste Erdocio    |              1.41 |       17 |             87.09 | Giorgi Beria          |             80 |
+|             65 | Wilfrid Hounkpatin  |             54.47 |       18 |             30.33 | Kieran Brookes        |              9 |
+|             68 | Sam Simmonds        |             50.72 |       19 |            nan    | Jefferson-Lee Joseph  |             80 |
+|             80 | Auguste Cadot       |             17.72 |       20 |             24.64 | Adrien Warion         |             80 |
+|             80 | Bastien Chalureau   |             81.24 |       21 |             76.3  | Lucas Bachelier       |             53 |
+|             49 | Alexis Bernadet     |             51.04 |       22 |             62.43 | Gela Aprasidze        |             76 |
+|             80 | Marco Tauleigne     |             92.76 |       23 |              3.96 | Eneriko Buliruarua    |             27 |
 

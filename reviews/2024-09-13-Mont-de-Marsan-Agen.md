@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Mont-de-Marsan by 9.6
+## Prediction without Player Minutes: Mont-de-Marsan by 9.8
 
 
-Mont-de-Marsan by 1.6 on a neutral pitch
+Mont-de-Marsan by 1.8 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Mont-de-Marsan by 1.6 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             48 | Mamuka Mstoiani     |            nan    |        1 |            nan    | Luka Goginava        |             80 |
-|             48 | Pierre Jouvin       |            nan    |        2 |            nan    | Florian Dufour       |             80 |
-|             40 | Lasha Macharashvili |            nan    |        3 |            nan    | Anthony Alves        |             68 |
-|              6 | Mathieu de Giovanni |             23.76 |        4 |            nan    | Nicolas Garrault     |             80 |
-|             80 | William Demotte     |            nan    |        5 |            nan    | Myles Edwards        |             65 |
-|             80 | Julien Lebian       |            nan    |        6 |            nan    | Mike Faleafa         |             48 |
-|             50 | Valentin Gayraud    |            nan    |        7 |            nan    | Waël Ponpon          |             80 |
-|             18 | Fotu Lokotui        |              3.5  |        8 |            nan    | Ioane Iashagashvili  |             80 |
-|             80 | Dorian Bellot       |            nan    |        9 |            nan    | Christophe Loustalot |             24 |
-|             62 | Franck Pourteau     |            nan    |       10 |            nan    | Willie du Plessis    |             79 |
-|             40 | Lucas Martins       |             68.99 |       11 |            nan    | Simao Bento          |             48 |
-|             80 | Clement Garrigues   |             62.41 |       12 |            nan    | Nacani Wakaya        |             80 |
-|             23 | Theo Belan          |             47.68 |       13 |            nan    | Gatien Masse         |             15 |
-|             32 | Loris Tolot         |            nan    |       14 |            nan    | Semi Lagivala        |             80 |
-|             74 | Romain Darchen      |             64.19 |       15 |            nan    | Théo Cortes          |             28 |
-|             40 | John Madigan        |            nan    |       16 |             74.5  | Mathis Bats          |             30 |
-|             23 | Evan Olmstead       |            nan    |       17 |             49.27 | Samuel Lagrange      |             80 |
-|             12 | Beau Farrance       |             33.3  |       18 |             21.99 | Aston Fortuin        |             80 |
-|              6 | Hans Lombard-Buret  |            nan    |       19 |              6.31 | Jean-Luc Innocente   |             80 |
-|             47 | Santiago Socino     |            nan    |       20 |             19.14 | Aurélien Laforgue    |             80 |
-|             47 | Jack Maunder        |            nan    |       21 |             19.73 | Nicolas Darquier     |             71 |
-|             80 | Peyo Muscarditz     |            nan    |       22 |             47.85 | Jules Dussutour      |             80 |
-|            nan | nan                 |            nan    |       23 |             20.84 | Alexandre de Nardi   |             48 |
+|             26 | Mamuka Mstoiani     |            nan    |        1 |            nan    | Luka Goginava        |             32 |
+|             48 | Pierre Jouvin       |            nan    |        2 |            nan    | Florian Dufour       |             48 |
+|             80 | Lasha Macharashvili |            nan    |        3 |            nan    | Anthony Alves        |             48 |
+|             74 | Mathieu de Giovanni |             37.29 |        4 |            nan    | Nicolas Garrault     |             80 |
+|             80 | William Demotte     |            nan    |        5 |            nan    | Myles Edwards        |             74 |
+|             54 | Julien Lebian       |            nan    |        6 |            nan    | Mike Faleafa         |             65 |
+|             30 | Valentin Gayraud    |            nan    |        7 |            nan    | Waël Ponpon          |             80 |
+|             48 | Fotu Lokotui        |              3.5  |        8 |            nan    | Ioane Iashagashvili  |             80 |
+|             16 | Dorian Bellot       |            nan    |        9 |            nan    | Christophe Loustalot |             79 |
+|             80 | Franck Pourteau     |            nan    |       10 |            nan    | Willie du Plessis    |             80 |
+|             33 | Lucas Martins       |             67.76 |       11 |            nan    | Simao Bento          |             80 |
+|             80 | Clement Garrigues   |             63.64 |       12 |            nan    | Nacani Wakaya        |             30 |
+|             40 | Theo Belan          |             51.17 |       13 |            nan    | Gatien Masse         |             40 |
+|             32 | Loris Tolot         |            nan    |       14 |            nan    | Semi Lagivala        |             68 |
+|             80 | Romain Darchen      |             65.42 |       15 |            nan    | Théo Cortes          |             80 |
+|             40 | John Madigan        |            nan    |       16 |             74.36 | Mathis Bats          |             57 |
+|             80 | Evan Olmstead       |            nan    |       17 |             49.17 | Samuel Lagrange      |             18 |
+|             80 | Beau Farrance       |             32.89 |       18 |             23.97 | Aston Fortuin        |             29 |
+|             80 | Hans Lombard-Buret  |            nan    |       19 |              5.84 | Jean-Luc Innocente   |             58 |
+|             47 | Santiago Socino     |            nan    |       20 |             19.38 | Aurélien Laforgue    |             80 |
+|             32 | Jack Maunder        |            nan    |       21 |             14.8  | Nicolas Darquier     |             64 |
+|             26 | Peyo Muscarditz     |            nan    |       22 |             47.39 | Jules Dussutour      |             57 |
+|            nan | nan                 |            nan    |       23 |             20.41 | Alexandre de Nardi   |             80 |
 

@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Tonga by 4.5
+## Prediction without Player Minutes: Tonga by 4.9
 
 
-Tonga by 2.0 on a neutral pitch
+Tonga by 2.5 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Tonga by 2.0 on a neutral pitch
 
 |   Away Minutes | Away Player     |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:----------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             70 | Cali Martinez   |            nan    |        1 |            nan    | Jethro Felemi         |             53 |
-|             80 | AJ Quattrin     |            nan    |        2 |            nan    | Sefo Sakalia          |             80 |
-|              4 | Conor Young     |            nan    |        3 |            nan    | Ben Tameifuna         |             80 |
-|             59 | Kaden Duguid    |            nan    |        4 |            nan    | Harrison Mataele      |             64 |
-|             49 | Mason Flesch    |            nan    |        5 |            nan    | Tevita Ahokovi        |             80 |
-|             80 | Matthew Oworu   |            nan    |        6 |            nan    | Siosiua Moala         |             80 |
-|             31 | Ethan Fryer     |            nan    |        7 |            nan    | Tupou Ma'afu-Afungia  |             23 |
-|             46 | Lucas Rumball   |            nan    |        8 |            nan    | Lotu Inisi            |             76 |
-|             80 | Jason Higgins   |            nan    |        9 |            nan    | Aisea Halo            |             57 |
-|             80 | Peter Nelson    |            nan    |       10 |            nan    | Patrick Pellegrini    |             10 |
-|             80 | Josiah Morra    |            nan    |       11 |            nan    | John Tapueluelu       |             74 |
-|             74 | Ben LeSage      |            nan    |       12 |            nan    | Fetuli Paea           |              6 |
-|             80 | Talon McMullin  |            nan    |       13 |            nan    | Fine Inisi            |             27 |
-|             16 | Andrew Coe      |            nan    |       14 |            nan    | Nikolai Foliaki       |             27 |
-|             21 | Cooper Coats    |            nan    |       15 |            nan    | Josiah Unga           |              8 |
-|             59 | Cole Keith      |             88.96 |       16 |            nan    | Salesi Tuifua         |             13 |
-|             80 | Talon McMullin  |            nan    |       17 |            nan    | Kelemete Finau        |             80 |
-|             80 | Sion Parry      |            nan    |       18 |            nan    | Tau Koloamatangi      |             80 |
-|             80 | Dewald Kotze    |             69.23 |       19 |            nan    | Penisoni Fineanganofo |              6 |
-|              4 | Tyler Matchem   |            nan    |       20 |            nan    | Matani Puloka         |             21 |
-|             80 | Brock Gallagher |            nan    |       21 |            nan    | Latu Akauloa          |             19 |
-|              6 | Callum Botchar  |             58.34 |       22 |             21.63 | Manu Paea             |             67 |
-|             76 | Mark Balaski    |            nan    |       23 |            nan    | Kafa Vaea             |             61 |
+|             21 | Cali Martinez   |            nan    |        1 |            nan    | Jethro Felemi         |             80 |
+|              4 | AJ Quattrin     |            nan    |        2 |            nan    | Sefo Sakalia          |             80 |
+|             67 | Conor Young     |            nan    |        3 |            nan    | Ben Tameifuna         |             53 |
+|             80 | Kaden Duguid    |            nan    |        4 |            nan    | Harrison Mataele      |             80 |
+|             59 | Mason Flesch    |            nan    |        5 |            nan    | Tevita Ahokovi        |             74 |
+|             61 | Matthew Oworu   |            nan    |        6 |            nan    | Siosiua Moala         |              7 |
+|             70 | Ethan Fryer     |            nan    |        7 |            nan    | Tupou Ma'afu-Afungia  |             53 |
+|             80 | Lucas Rumball   |            nan    |        8 |            nan    | Lotu Inisi            |             80 |
+|             59 | Jason Higgins   |            nan    |        9 |            nan    | Aisea Halo            |             73 |
+|             80 | Peter Nelson    |            nan    |       10 |            nan    | Patrick Pellegrini    |              1 |
+|             80 | Josiah Morra    |            nan    |       11 |            nan    | John Tapueluelu       |             80 |
+|             80 | Ben LeSage      |            nan    |       12 |            nan    | Fetuli Paea           |             72 |
+|             74 | Talon McMullin  |            nan    |       13 |            nan    | Fine Inisi            |              6 |
+|             19 | Andrew Coe      |            nan    |       14 |            nan    | Nikolai Foliaki       |              6 |
+|             80 | Cooper Coats    |            nan    |       15 |            nan    | Josiah Unga           |             23 |
+|              4 | Cole Keith      |             88.77 |       16 |            nan    | Salesi Tuifua         |              8 |
+|             74 | Talon McMullin  |            nan    |       17 |            nan    | Kelemete Finau        |             64 |
+|             76 | Sion Parry      |            nan    |       18 |            nan    | Tau Koloamatangi      |             76 |
+|             49 | Dewald Kotze    |             69.17 |       19 |            nan    | Penisoni Fineanganofo |             27 |
+|             31 | Tyler Matchem   |            nan    |       20 |            nan    | Matani Puloka         |             80 |
+|             21 | Brock Gallagher |            nan    |       21 |            nan    | Latu Akauloa          |             16 |
+|             13 | Callum Botchar  |             58.38 |       22 |             21.82 | Manu Paea             |             57 |
+|             80 | Mark Balaski    |            nan    |       23 |            nan    | Kafa Vaea             |             27 |
 

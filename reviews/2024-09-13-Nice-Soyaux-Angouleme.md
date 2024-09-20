@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Nice by 11.8
+## Prediction without Player Minutes: Nice by 12.4
 
 
-Nice by 9.0 on a neutral pitch
+Nice by 9.5 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Nice by 9.0 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player              |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:-------------------------|---------------:|
-|             27 | Georgy Balakarev   |            nan    |        1 |            nan    | Julien Beaufils          |             32 |
-|             80 | Patxi Bidart       |             76.74 |        2 |            nan    | Santiago Ovejero Abdala  |             27 |
-|             46 | Seydou Diakité     |             24.8  |        3 |            nan    | Tom Ross                 |             80 |
-|             53 | Enzo Morand-Bruyat |            nan    |        4 |             75.91 | Yann Tivoli              |              1 |
-|             80 | Léo Morand-Bruyat  |            nan    |        5 |            nan    | Martin Freytes           |             16 |
-|             48 | Germain Burgaud    |            nan    |        6 |            nan    | Arthur Vignolles         |             26 |
-|             51 | Samuel Nollet      |             39.71 |        7 |            nan    | Louis Suaud              |             15 |
-|             54 | Alexander Masibaka |            nan    |        8 |            nan    | Jordan Taufua            |             80 |
-|             59 | Alexis Levron      |             57.12 |        9 |            nan    | Jules Solinas            |             80 |
-|             80 | Ben Botica         |            nan    |       10 |            nan    | Mathis Viard             |             32 |
-|             26 | Eoghan Barrett     |             52.46 |       11 |            nan    | David Odiete             |             50 |
-|             20 | Mathis Lafon       |             29.23 |       12 |            nan    | Romain Riguet            |             80 |
-|             36 | Arthur Proult      |            nan    |       13 |            nan    | Luca Cutayar             |             32 |
-|             34 | Nathan Farissier   |             21.87 |       14 |            nan    | Christian Erasmus        |              9 |
-|             34 | Jules Dubecq       |             65.81 |       15 |            nan    | Paul Auradou             |             80 |
-|             54 | Rayne Barka        |             83.15 |       16 |              5.85 | Baptiste Lafond          |             50 |
-|             32 | Maxence Lemardelet |            nan    |       17 |            nan    | Luvuyo Pupuma            |             80 |
-|             28 | Manu Saubusse      |             44.59 |       18 |            nan    | Facundo Gigena           |             57 |
-|             80 | Yassine Boutemane  |            nan    |       19 |            nan    | Pierre Strippoli         |             54 |
-|             80 | Vivien Devisme     |            nan    |       20 |            nan    | Tom Murday               |             30 |
-|             57 | Jonny May          |            nan    |       21 |             43.98 | Clément Chartier         |             30 |
-|             34 | Matthew Dalton     |              4.09 |       22 |             60.28 | Ramiha Tarrel Tia Smiler |             80 |
-|             28 | Rémi Brosset       |            nan    |       23 |             75.71 | Thibault Dufau           |             80 |
+|             80 | Georgy Balakarev   |            nan    |        1 |            nan    | Julien Beaufils          |             12 |
+|             80 | Patxi Bidart       |             79.27 |        2 |            nan    | Santiago Ovejero Abdala  |             64 |
+|             80 | Seydou Diakité     |             39.43 |        3 |            nan    | Tom Ross                 |              6 |
+|             53 | Enzo Morand-Bruyat |            nan    |        4 |             66.81 | Yann Tivoli              |             47 |
+|             27 | Léo Morand-Bruyat  |            nan    |        5 |            nan    | Martin Freytes           |             47 |
+|             80 | Germain Burgaud    |            nan    |        6 |            nan    | Arthur Vignolles         |             40 |
+|             80 | Samuel Nollet      |             51.27 |        7 |            nan    | Louis Suaud              |             23 |
+|             59 | Alexander Masibaka |            nan    |        8 |            nan    | Jordan Taufua            |              9 |
+|             80 | Alexis Levron      |             66.79 |        9 |            nan    | Jules Solinas            |             80 |
+|             22 | Ben Botica         |            nan    |       10 |            nan    | Mathis Viard             |             80 |
+|             80 | Eoghan Barrett     |             69.8  |       11 |            nan    | David Odiete             |             80 |
+|             26 | Mathis Lafon       |             32.4  |       12 |            nan    | Romain Riguet            |             50 |
+|             80 | Arthur Proult      |            nan    |       13 |            nan    | Luca Cutayar             |             80 |
+|             54 | Nathan Farissier   |             27.35 |       14 |            nan    | Christian Erasmus        |             50 |
+|             80 | Jules Dubecq       |             77.1  |       15 |            nan    | Paul Auradou             |             80 |
+|             54 | Rayne Barka        |             84.4  |       16 |              7.45 | Baptiste Lafond          |             80 |
+|             46 | Maxence Lemardelet |            nan    |       17 |            nan    | Luvuyo Pupuma            |             50 |
+|             33 | Manu Saubusse      |             44.59 |       18 |            nan    | Facundo Gigena           |             71 |
+|             27 | Yassine Boutemane  |            nan    |       19 |            nan    | Pierre Strippoli         |             80 |
+|             15 | Vivien Devisme     |            nan    |       20 |            nan    | Tom Murday               |             56 |
+|             80 | Jonny May          |            nan    |       21 |             37.74 | Clément Chartier         |             33 |
+|             51 | Matthew Dalton     |              4.11 |       22 |             50.93 | Ramiha Tarrel Tia Smiler |             54 |
+|             48 | Rémi Brosset       |            nan    |       23 |             75.71 | Thibault Dufau           |             23 |
 

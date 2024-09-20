@@ -69,27 +69,27 @@ Toulon by 6.1 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player            |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:-----------------------|---------------:|
-|             80 | Quentin Walcker       |             78.62 |        1 |             98.25 | Jean-Baptiste Gros     |             80 |
-|             46 | Gaetan Barlot         |             91.39 |        2 |             91.94 | Mickael Ivaldi         |             80 |
-|             80 | Will Collier          |             94.39 |        3 |             91.24 | Kyle Sinckler          |             64 |
-|             26 | Guillaume Ducat       |             22.43 |        4 |             76.35 | David Ribbans          |             80 |
-|             80 | Florent Vanverberghe  |             81.55 |        5 |             89.5  | Brian Alainu'uese      |             80 |
-|             34 | Mathieu Babillot      |             14.38 |        6 |             45.58 | Jules Coulon           |             67 |
-|             80 | Tyler Ardron          |             94.25 |        7 |             69.47 | Esteban Abadie         |             70 |
-|             80 | Abraham Papali'i      |             50.23 |        8 |             38.08 | Lewis Ludlam           |             62 |
-|             80 | Jeremy Fernandez      |             27.13 |        9 |             98.29 | Baptiste Serin         |             43 |
-|             33 | Louis Le Brun         |             71.84 |       10 |             83.05 | Paolo Garbisi          |             80 |
-|             80 | Remy Baget            |             87.06 |       11 |             89.73 | Gabin Villiere         |             64 |
-|             80 | Jack Goodhue          |             97.91 |       12 |             19.26 | Jérémy Sinzelle        |             21 |
-|             80 | Vilimoni Botitu       |             65.08 |       13 |             90.72 | Leicester Fainga'anuku |             30 |
-|             54 | Nathanael Hulleu      |             81.31 |       14 |             18.58 | Gael Drean             |             80 |
-|             59 | Théo Chabouni         |             48.14 |       15 |             42.33 | Marius Domon           |             46 |
-|             22 | Yann Peysson          |             74.77 |       16 |             92.73 | Dany Priso             |             36 |
-|             59 | Lois Guerois-Galisson |             48.03 |       17 |             79.12 | Teddy Baubigny         |             16 |
-|             80 | Gauthier Maravat      |              1.77 |       18 |             77.1  | Seta Tuicuvu           |             13 |
-|             80 | Santiago Arata        |             57.31 |       19 |             94.74 | Emerick Setiano        |             80 |
-|             80 | Levan Chilachava      |             86.59 |       20 |             74.36 | Yannick Youyoutte      |             10 |
-|             28 | Josaia Raisuqe        |             80.9  |       21 |             89.71 | Selevasio Tolofua      |             52 |
-|             29 | Pierre Popelin        |             72.79 |       22 |             68.5  | Jules Danglot          |             21 |
-|            nan | nan                   |            nan    |       23 |             81.38 | Enzo Herve             |             28 |
+|             80 | Quentin Walcker       |             80.55 |        1 |             98.67 | Jean-Baptiste Gros     |             13 |
+|             80 | Gaetan Barlot         |             92.29 |        2 |             91.74 | Mickael Ivaldi         |             59 |
+|             80 | Will Collier          |             94.08 |        3 |             89.21 | Kyle Sinckler          |             64 |
+|             80 | Guillaume Ducat       |             27.86 |        4 |             74.92 | David Ribbans          |             43 |
+|             47 | Florent Vanverberghe  |             82.91 |        5 |             90.23 | Brian Alainu'uese      |             16 |
+|             54 | Mathieu Babillot      |             17.39 |        6 |             43.19 | Jules Coulon           |             75 |
+|             58 | Tyler Ardron          |             93.8  |        7 |             59.58 | Esteban Abadie         |             80 |
+|             48 | Abraham Papali'i      |             51.64 |        8 |             34.81 | Lewis Ludlam           |             64 |
+|             27 | Jeremy Fernandez      |             26.19 |        9 |             97.91 | Baptiste Serin         |             36 |
+|             52 | Louis Le Brun         |             73.14 |       10 |             84.65 | Paolo Garbisi          |             43 |
+|             34 | Remy Baget            |             85.41 |       11 |             88.57 | Gabin Villiere         |             37 |
+|             30 | Jack Goodhue          |             97.79 |       12 |             12.94 | Jérémy Sinzelle        |             80 |
+|             40 | Vilimoni Botitu       |             64.57 |       13 |             88    | Leicester Fainga'anuku |             70 |
+|             80 | Nathanael Hulleu      |             82.14 |       14 |             13.88 | Gael Drean             |             80 |
+|             62 | Théo Chabouni         |             47.9  |       15 |             38.08 | Marius Domon           |             80 |
+|             22 | Yann Peysson          |             74.77 |       16 |             92.13 | Dany Priso             |             80 |
+|             80 | Lois Guerois-Galisson |             47.57 |       17 |             74.86 | Teddy Baubigny         |             44 |
+|             21 | Gauthier Maravat      |              1.88 |       18 |             76.73 | Seta Tuicuvu           |             37 |
+|             21 | Santiago Arata        |             57.31 |       19 |             94.69 | Emerick Setiano        |             80 |
+|             54 | Levan Chilachava      |             86.65 |       20 |             70.26 | Yannick Youyoutte      |             80 |
+|             52 | Josaia Raisuqe        |             80.2  |       21 |             89.7  | Selevasio Tolofua      |             80 |
+|             29 | Pierre Popelin        |             72.42 |       22 |             68.69 | Jules Danglot          |             33 |
+|            nan | nan                   |            nan    |       23 |             81.53 | Enzo Herve             |             80 |
 

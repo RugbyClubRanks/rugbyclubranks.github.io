@@ -69,28 +69,28 @@ Lyon by 0.3 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             80 | Matis Perchaud     |             22.7  |        1 |             19.98 | Jerome Rey           |             56 |
-|             52 | Romain Latterrade  |            nan    |        2 |             91.76 | Sam Matavesi         |             13 |
-|             80 | Sipili Falatea     |            nan    |        3 |             82.21 | Jermaine Ainsley     |             49 |
-|             52 | Jonny Gray         |            nan    |        4 |             83.31 | Felix Lambey         |             80 |
-|             39 | Cyril Cazeaux      |            nan    |        5 |             78.45 | Mickael Guillard     |             80 |
-|             80 | Mahamadou Diaby    |            nan    |        6 |             70.24 | Steeve Blanc-Mappaz  |             67 |
-|             80 | Pierre Bochaton    |            nan    |        7 |             82.74 | Beka Saghinadze      |             80 |
-|             52 | Marko Gazzotti     |            nan    |        8 |             91.12 | Arno Botha           |             20 |
-|             60 | Yann Lesgourgues   |            nan    |        9 |             95.83 | Baptiste Couilloud   |             49 |
-|             80 | Joey Carbery       |             79.47 |       10 |             82.82 | Leo Berdeu           |             80 |
-|             69 | Arthur Retiere     |             94.56 |       11 |             97.23 | Monty Ioane          |             80 |
-|             80 | Ben Tapuai         |             57.08 |       12 |             75.75 | Theo Millet          |             51 |
-|             40 | Nicolas Depoortere |            nan    |       13 |             10.9  | Josiah Maraku        |             24 |
-|             29 | Damian Penaud      |            nan    |       14 |             95.07 | Vincent Rattez       |             80 |
-|             28 | Romain Buros       |            nan    |       15 |             82.79 | Davit Niniashvili    |             13 |
-|             28 | Romain Buros       |            nan    |       15 |             82.79 | Davit Niniashvili    |             31 |
-|             28 | Matthieu Jalibert  |            nan    |       16 |             19.6  | Guillaume Marchand   |             28 |
-|             28 | Ugo Boniface       |             93.08 |       17 |             19.81 | Sebastien Taofifenua |             80 |
-|             11 | Maxime Lamothe     |            nan    |       18 |             80.86 | Dylan Cretin         |             67 |
-|             52 | Maxime Lucu        |            nan    |       19 |             22.87 | Killian Geraci       |             24 |
-|             80 | Temo Matiu         |             23.36 |       20 |             88.05 | Martin Page-Relo     |             31 |
-|             20 | Pablo Uberti       |             10.21 |       21 |             60.06 | Ethan Dumortier      |             74 |
-|             40 | Toma Taufa         |             32.34 |       22 |              7.16 | Martin Meliande      |             41 |
-|             80 | Alexandre Ricard   |             61.44 |       23 |             78.88 | Cedate Gomes Sa      |              6 |
+|             80 | Matis Perchaud     |             22.9  |        1 |             26.97 | Jerome Rey           |             39 |
+|             24 | Romain Latterrade  |            nan    |        2 |             91.38 | Sam Matavesi         |             80 |
+|             56 | Sipili Falatea     |            nan    |        3 |             83.47 | Jermaine Ainsley     |             52 |
+|             31 | Jonny Gray         |            nan    |        4 |             85.68 | Felix Lambey         |             63 |
+|             80 | Cyril Cazeaux      |            nan    |        5 |             80.47 | Mickael Guillard     |             80 |
+|             80 | Mahamadou Diaby    |            nan    |        6 |             74.53 | Steeve Blanc-Mappaz  |             31 |
+|             60 | Pierre Bochaton    |            nan    |        7 |             85.27 | Beka Saghinadze      |             56 |
+|             49 | Marko Gazzotti     |            nan    |        8 |             86.68 | Arno Botha           |             80 |
+|             52 | Yann Lesgourgues   |            nan    |        9 |             96.2  | Baptiste Couilloud   |             51 |
+|             80 | Joey Carbery       |             80.34 |       10 |             82.25 | Leo Berdeu           |             80 |
+|             80 | Arthur Retiere     |             94.08 |       11 |             96.94 | Monty Ioane          |             80 |
+|             24 | Ben Tapuai         |             53.15 |       12 |             73.66 | Theo Millet          |             80 |
+|             41 | Nicolas Depoortere |            nan    |       13 |             10.72 | Josiah Maraku        |             80 |
+|             52 | Damian Penaud      |            nan    |       14 |             94.39 | Vincent Rattez       |             80 |
+|             67 | Romain Buros       |            nan    |       15 |             71.26 | Davit Niniashvili    |             74 |
+|             67 | Romain Buros       |            nan    |       15 |             71.26 | Davit Niniashvili    |             60 |
+|             69 | Matthieu Jalibert  |            nan    |       16 |             19.82 | Guillaume Marchand   |             13 |
+|             28 | Ugo Boniface       |             93.02 |       17 |             19.1  | Sebastien Taofifenua |             20 |
+|             49 | Maxime Lamothe     |            nan    |       18 |             80.95 | Dylan Cretin         |             52 |
+|             20 | Maxime Lucu        |            nan    |       19 |             22.53 | Killian Geraci       |             80 |
+|             11 | Temo Matiu         |             23.36 |       20 |             88.05 | Martin Page-Relo     |             13 |
+|             80 | Pablo Uberti       |              9.79 |       21 |             59.49 | Ethan Dumortier      |              6 |
+|             28 | Toma Taufa         |             32.01 |       22 |              7.19 | Martin Meliande      |             67 |
+|             80 | Alexandre Ricard   |             61.6  |       23 |             83.2  | Cedate Gomes Sa      |             80 |
 

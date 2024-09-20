@@ -9,7 +9,7 @@ categories: "Bunnings NPC 2024" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.742, which translates to predicting Canterbury to win by 9.2.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.748, which translates to predicting Canterbury to win by 9.4.
 
 Our Over/Under is 56.5 - and combined with the spread above, we have a predicted scoreline of 24 to 33
 
@@ -42,5 +42,5 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Imputed Lineups: Counties Manukau by nan
 
 
-Canterbury by 1.3 on a neutral pitch
+Canterbury by 1.4 on a neutral pitch
 
