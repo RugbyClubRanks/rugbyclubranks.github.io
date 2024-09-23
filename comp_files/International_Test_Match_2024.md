@@ -1,6 +1,6 @@
 ---  
 title: "International Test Match 2024 Status"  
-date: 2024-09-20 6:00:00 -0500  
+date: 2024-09-23 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -31,6 +31,7 @@ aside:
 | Uganda                   |        3 |      2 |                   11 |                     1 |                nan |                    9 |
 | Luxembourg               |        2 |      2 |                   80 |                     0 |                nan |                    8 |
 | Sri Lanka                |        2 |      2 |                   73 |                     0 |                nan |                    8 |
+| Austria                  |        2 |      2 |                   67 |                     0 |                nan |                    8 |
 | Switzerland              |        2 |      2 |                   41 |                     0 |                nan |                    8 |
 | Sweden                   |        2 |      2 |                   31 |                     0 |                nan |                    8 |
 | Namibia                  |        4 |      2 |                    7 |                     0 |                nan |                    8 |
@@ -38,8 +39,8 @@ aside:
 | Chile                    |        4 |      2 |                  -60 |                     0 |                nan |                    8 |
 | England                  |        3 |      1 |                   27 |                     2 |                  1 |                    7 |
 | Brazil                   |        2 |      1 |                   59 |                     1 |                nan |                    5 |
-| Hungary                  |        2 |      1 |                   32 |                     1 |                nan |                    5 |
 | Qatar                    |        2 |      1 |                    7 |                     1 |                nan |                    5 |
+| Hungary                  |        3 |      1 |                    5 |                     1 |                nan |                    5 |
 | Spain                    |        2 |      1 |                    5 |                     1 |                nan |                    5 |
 | Chinese Taipei           |        2 |      1 |                   -3 |                     1 |                nan |                    5 |
 | Ireland                  |        2 |      1 |                   -6 |                     1 |                  0 |                    5 |
@@ -51,7 +52,6 @@ aside:
 | Barbados                 |        1 |      1 |                   84 |                     0 |                nan |                    4 |
 | Finland                  |        1 |      1 |                   50 |                     0 |                nan |                    4 |
 | Moldova                  |        1 |      1 |                   42 |                     0 |                nan |                    4 |
-| Austria                  |        1 |      1 |                   40 |                     0 |                nan |                    4 |
 | Jamaica                  |        1 |      1 |                   34 |                     0 |                nan |                    4 |
 | Andorra                  |        1 |      1 |                   24 |                     0 |                nan |                    4 |
 | Trinidad and Tobago      |        1 |      1 |                   23 |                     0 |                nan |                    4 |
@@ -98,10 +98,18 @@ aside:
 ## Projected Remaining Table
 
 
-| Club    |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
-|:--------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Hungary |                   1 |    0.9 |              15.5941 |                   0.1 |                0.6 |                  4.3 |
-| Austria |                   1 |    0.1 |             -15.5941 |                   0.1 |                0.2 |                  0.7 |
+| Club       |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
+|:-----------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
+| Chile      |                   1 |    1   |             39.0779  |                   0   |                0.9 |                  4.9 |
+| Moldova    |                   1 |    1   |             29.8719  |                   0   |                0.8 |                  4.8 |
+| Peru       |                   1 |    1   |             36.9464  |                   0   |                0.6 |                  4.5 |
+| Kosovo     |                   1 |    0.6 |              2.59426 |                   0.1 |                0.3 |                  2.7 |
+| Costa Rica |                   1 |    0.5 |              2.26823 |                   0.1 |                0.3 |                  2.6 |
+| Colombia   |                   1 |    0.5 |             -2.26823 |                   0.1 |                0.2 |                  2.1 |
+| Montenegro |                   1 |    0.4 |             -2.59426 |                   0.1 |                0.2 |                  2.1 |
+| Venezuela  |                   1 |    0   |            -36.9464  |                   0   |                0.1 |                  0.3 |
+| Turkey     |                   1 |    0   |            -29.8719  |                   0   |                0.2 |                  0.2 |
+| Paraguay   |                   1 |    0   |            -39.0779  |                   0   |                0.1 |                  0.1 |
 
 
 
@@ -110,81 +118,88 @@ aside:
 
 | Club                     |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Hong Kong                |               7 |    6   |             303      |                   1   |                0   |                 27   |
-| Scotland                 |               5 |    5   |             201      |                   0   |                0   |                 22   |
-| Zimbabwe                 |               4 |    4   |              54      |                   0   |                0   |                 16   |
-| South Africa             |               4 |    3   |              77      |                   1   |                2   |                 15   |
-| Australia                |               3 |    3   |              28      |                   0   |                2   |                 14   |
-| New Zealand              |               3 |    3   |              50      |                   0   |                1   |                 13   |
-| Algeria                  |               4 |    3   |              16      |                   0   |                0   |                 12   |
-| Argentina                |               3 |    2   |              67      |                   0   |                2   |                 10   |
-| Italy                    |               3 |    2   |              42      |                   0   |                2   |                 10   |
-| Hungary                  |               3 |    1.9 |              47.5941 |                   1.1 |                0.6 |                  9.3 |
-| France                   |               3 |    2   |              22      |                   0   |                1   |                  9   |
-| Samoa                    |               2 |    2   |              12      |                   0   |                0   |                  9   |
-| Uganda                   |               3 |    2   |              11      |                   1   |                0   |                  9   |
-| Luxembourg               |               2 |    2   |              80      |                   0   |                0   |                  8   |
-| Sri Lanka                |               2 |    2   |              73      |                   0   |                0   |                  8   |
-| Switzerland              |               2 |    2   |              41      |                   0   |                0   |                  8   |
-| Sweden                   |               2 |    2   |              31      |                   0   |                0   |                  8   |
-| Namibia                  |               4 |    2   |               7      |                   0   |                0   |                  8   |
-| United Arab Emirates     |               3 |    2   |               0      |                   0   |                0   |                  8   |
-| Chile                    |               4 |    2   |             -60      |                   0   |                0   |                  8   |
-| England                  |               3 |    1   |              27      |                   2   |                1   |                  7   |
-| Brazil                   |               2 |    1   |              59      |                   1   |                0   |                  5   |
-| Qatar                    |               2 |    1   |               7      |                   1   |                0   |                  5   |
-| Spain                    |               2 |    1   |               5      |                   1   |                0   |                  5   |
-| Chinese Taipei           |               2 |    1   |              -3      |                   1   |                0   |                  5   |
-| Ireland                  |               2 |    1   |              -6      |                   1   |                0   |                  5   |
-| Korea Republic           |               3 |    1   |             -14      |                   1   |                0   |                  5   |
-| Georgia                  |               3 |    1   |             -18      |                   0   |                1   |                  5   |
-| Senegal                  |               4 |    1   |             -19      |                   1   |                0   |                  5   |
-| Singapore                |               3 |    1   |             -21      |                   1   |                0   |                  5   |
-| Portugal                 |               2 |    1   |             -28      |                   0   |                1   |                  5   |
-| Austria                  |               2 |    1.1 |              24.4059 |                   0.1 |                0.2 |                  4.7 |
-| Barbados                 |               1 |    1   |              84      |                   0   |                0   |                  4   |
-| Finland                  |               1 |    1   |              50      |                   0   |                0   |                  4   |
-| Moldova                  |               1 |    1   |              42      |                   0   |                0   |                  4   |
-| Jamaica                  |               1 |    1   |              34      |                   0   |                0   |                  4   |
-| Andorra                  |               1 |    1   |              24      |                   0   |                0   |                  4   |
-| Trinidad and Tobago      |               1 |    1   |              23      |                   0   |                0   |                  4   |
-| Cayman Islands           |               2 |    1   |              22      |                   0   |                0   |                  4   |
-| Czech Republic           |               2 |    1   |              14      |                   0   |                0   |                  4   |
-| Malta                    |               1 |    1   |              10      |                   0   |                0   |                  4   |
-| Mexico                   |               1 |    1   |              10      |                   0   |                0   |                  4   |
-| Latvia                   |               1 |    1   |               4      |                   0   |                0   |                  4   |
-| Kenya                    |               3 |    1   |               0      |                   0   |                0   |                  4   |
-| Bermuda                  |               2 |    1   |              -2      |                   0   |                0   |                  4   |
-| Belgium                  |               2 |    1   |              -3      |                   0   |                0   |                  4   |
-| Croatia                  |               2 |    1   |             -10      |                   0   |                0   |                  4   |
-| Romania                  |               2 |    1   |             -11      |                   0   |                0   |                  4   |
-| Thailand                 |               2 |    1   |             -15      |                   0   |                0   |                  4   |
-| Bulgaria                 |               2 |    1   |             -19      |                   0   |                0   |                  4   |
-| Ivory Coast              |               3 |    1   |             -24      |                   0   |                0   |                  4   |
-| Fiji                     |               2 |    1   |             -33      |                   0   |                0   |                  4   |
-| Kazakhstan               |               2 |    1   |             -36      |                   0   |                0   |                  4   |
-| Canada                   |               2 |    1   |             -48      |                   0   |                0   |                  4   |
-| Malaysia                 |               4 |    1   |            -118      |                   0   |                0   |                  4   |
-| Denmark                  |               1 |    0   |              -4      |                   1   |                0   |                  1   |
-| Zambia                   |               1 |    0   |              -4      |                   1   |                0   |                  1   |
-| United States of America |               2 |    0   |             -37      |                   1   |                0   |                  1   |
-| Wales                    |               3 |    0   |             -45      |                   0   |                1   |                  1   |
-| Japan                    |               3 |    0   |             -65      |                   1   |                0   |                  1   |
-| Uruguay                  |               3 |    0   |            -101      |                   0   |                0   |                  1   |
-| Cyprus                   |               1 |    0   |             -10      |                   0   |                0   |                  0   |
-| Guyana                   |               1 |    0   |             -23      |                   0   |                0   |                  0   |
-| Serbia                   |               1 |    0   |             -23      |                   0   |                0   |                  0   |
-| Tonga                    |               2 |    0   |             -31      |                   0   |                0   |                  0   |
-| Lithuania                |               2 |    0   |             -34      |                   0   |                0   |                  0   |
-| Ukraine                  |               2 |    0   |             -42      |                   0   |                0   |                  0   |
-| India                    |               2 |    0   |             -44      |                   0   |                0   |                  0   |
-| Burkina Faso             |               3 |    0   |             -56      |                   0   |                0   |                  0   |
-| Bahamas                  |               2 |    0   |             -64      |                   0   |                0   |                  0   |
-| Norway                   |               2 |    0   |             -74      |                   0   |                0   |                  0   |
-| Bosnia and Herzegovina   |               2 |    0   |             -75      |                   0   |                0   |                  0   |
-| Slovenia                 |               1 |    0   |             -77      |                   0   |                0   |                  0   |
-| Saint Lucia              |               1 |    0   |             -84      |                   0   |                0   |                  0   |
-| Paraguay                 |               4 |    0   |            -221      |                   0   |                0   |                  0   |
+| Hong Kong                |               7 |    6   |            303       |                   1   |                0   |                 27   |
+| Scotland                 |               5 |    5   |            201       |                   0   |                0   |                 22   |
+| Zimbabwe                 |               4 |    4   |             54       |                   0   |                0   |                 16   |
+| South Africa             |               4 |    3   |             77       |                   1   |                2   |                 15   |
+| Australia                |               3 |    3   |             28       |                   0   |                2   |                 14   |
+| New Zealand              |               3 |    3   |             50       |                   0   |                1   |                 13   |
+| Chile                    |               5 |    3   |            -20.9221  |                   0   |                0.9 |                 12.9 |
+| Algeria                  |               4 |    3   |             16       |                   0   |                0   |                 12   |
+| Argentina                |               3 |    2   |             67       |                   0   |                2   |                 10   |
+| Italy                    |               3 |    2   |             42       |                   0   |                2   |                 10   |
+| France                   |               3 |    2   |             22       |                   0   |                1   |                  9   |
+| Samoa                    |               2 |    2   |             12       |                   0   |                0   |                  9   |
+| Uganda                   |               3 |    2   |             11       |                   1   |                0   |                  9   |
+| Moldova                  |               2 |    2   |             71.8719  |                   0   |                0.8 |                  8.8 |
+| Luxembourg               |               2 |    2   |             80       |                   0   |                0   |                  8   |
+| Sri Lanka                |               2 |    2   |             73       |                   0   |                0   |                  8   |
+| Austria                  |               2 |    2   |             67       |                   0   |                0   |                  8   |
+| Switzerland              |               2 |    2   |             41       |                   0   |                0   |                  8   |
+| Sweden                   |               2 |    2   |             31       |                   0   |                0   |                  8   |
+| Namibia                  |               4 |    2   |              7       |                   0   |                0   |                  8   |
+| United Arab Emirates     |               3 |    2   |              0       |                   0   |                0   |                  8   |
+| England                  |               3 |    1   |             27       |                   2   |                1   |                  7   |
+| Brazil                   |               2 |    1   |             59       |                   1   |                0   |                  5   |
+| Qatar                    |               2 |    1   |              7       |                   1   |                0   |                  5   |
+| Hungary                  |               3 |    1   |              5       |                   1   |                0   |                  5   |
+| Spain                    |               2 |    1   |              5       |                   1   |                0   |                  5   |
+| Chinese Taipei           |               2 |    1   |             -3       |                   1   |                0   |                  5   |
+| Ireland                  |               2 |    1   |             -6       |                   1   |                0   |                  5   |
+| Korea Republic           |               3 |    1   |            -14       |                   1   |                0   |                  5   |
+| Georgia                  |               3 |    1   |            -18       |                   0   |                1   |                  5   |
+| Senegal                  |               4 |    1   |            -19       |                   1   |                0   |                  5   |
+| Singapore                |               3 |    1   |            -21       |                   1   |                0   |                  5   |
+| Portugal                 |               2 |    1   |            -28       |                   0   |                1   |                  5   |
+| Peru                     |               1 |    1   |             36.9464  |                   0   |                0.6 |                  4.5 |
+| Barbados                 |               1 |    1   |             84       |                   0   |                0   |                  4   |
+| Finland                  |               1 |    1   |             50       |                   0   |                0   |                  4   |
+| Jamaica                  |               1 |    1   |             34       |                   0   |                0   |                  4   |
+| Andorra                  |               1 |    1   |             24       |                   0   |                0   |                  4   |
+| Trinidad and Tobago      |               1 |    1   |             23       |                   0   |                0   |                  4   |
+| Cayman Islands           |               2 |    1   |             22       |                   0   |                0   |                  4   |
+| Czech Republic           |               2 |    1   |             14       |                   0   |                0   |                  4   |
+| Malta                    |               1 |    1   |             10       |                   0   |                0   |                  4   |
+| Mexico                   |               1 |    1   |             10       |                   0   |                0   |                  4   |
+| Latvia                   |               1 |    1   |              4       |                   0   |                0   |                  4   |
+| Kenya                    |               3 |    1   |              0       |                   0   |                0   |                  4   |
+| Bermuda                  |               2 |    1   |             -2       |                   0   |                0   |                  4   |
+| Belgium                  |               2 |    1   |             -3       |                   0   |                0   |                  4   |
+| Croatia                  |               2 |    1   |            -10       |                   0   |                0   |                  4   |
+| Romania                  |               2 |    1   |            -11       |                   0   |                0   |                  4   |
+| Thailand                 |               2 |    1   |            -15       |                   0   |                0   |                  4   |
+| Bulgaria                 |               2 |    1   |            -19       |                   0   |                0   |                  4   |
+| Ivory Coast              |               3 |    1   |            -24       |                   0   |                0   |                  4   |
+| Fiji                     |               2 |    1   |            -33       |                   0   |                0   |                  4   |
+| Kazakhstan               |               2 |    1   |            -36       |                   0   |                0   |                  4   |
+| Canada                   |               2 |    1   |            -48       |                   0   |                0   |                  4   |
+| Malaysia                 |               4 |    1   |           -118       |                   0   |                0   |                  4   |
+| Kosovo                   |               1 |    0.6 |              2.59426 |                   0.1 |                0.3 |                  2.7 |
+| Costa Rica               |               1 |    0.5 |              2.26823 |                   0.1 |                0.3 |                  2.6 |
+| Colombia                 |               1 |    0.5 |             -2.26823 |                   0.1 |                0.2 |                  2.1 |
+| Montenegro               |               1 |    0.4 |             -2.59426 |                   0.1 |                0.2 |                  2.1 |
+| Denmark                  |               1 |    0   |             -4       |                   1   |                0   |                  1   |
+| Zambia                   |               1 |    0   |             -4       |                   1   |                0   |                  1   |
+| United States of America |               2 |    0   |            -37       |                   1   |                0   |                  1   |
+| Wales                    |               3 |    0   |            -45       |                   0   |                1   |                  1   |
+| Japan                    |               3 |    0   |            -65       |                   1   |                0   |                  1   |
+| Uruguay                  |               3 |    0   |           -101       |                   0   |                0   |                  1   |
+| Venezuela                |               1 |    0   |            -36.9464  |                   0   |                0.1 |                  0.3 |
+| Turkey                   |               1 |    0   |            -29.8719  |                   0   |                0.2 |                  0.2 |
+| Paraguay                 |               5 |    0   |           -260.078   |                   0   |                0.1 |                  0.1 |
+| Cyprus                   |               1 |    0   |            -10       |                   0   |                0   |                  0   |
+| Guyana                   |               1 |    0   |            -23       |                   0   |                0   |                  0   |
+| Serbia                   |               1 |    0   |            -23       |                   0   |                0   |                  0   |
+| Tonga                    |               2 |    0   |            -31       |                   0   |                0   |                  0   |
+| Lithuania                |               2 |    0   |            -34       |                   0   |                0   |                  0   |
+| Ukraine                  |               2 |    0   |            -42       |                   0   |                0   |                  0   |
+| India                    |               2 |    0   |            -44       |                   0   |                0   |                  0   |
+| Burkina Faso             |               3 |    0   |            -56       |                   0   |                0   |                  0   |
+| Bahamas                  |               2 |    0   |            -64       |                   0   |                0   |                  0   |
+| Norway                   |               2 |    0   |            -74       |                   0   |                0   |                  0   |
+| Bosnia and Herzegovina   |               2 |    0   |            -75       |                   0   |                0   |                  0   |
+| Slovenia                 |               1 |    0   |            -77       |                   0   |                0   |                  0   |
+| Saint Lucia              |               1 |    0   |            -84       |                   0   |                0   |                  0   |
 
 
 
@@ -193,24 +208,76 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 75.9% | 20.1 |
+| Club Level | 75.0% | 20.4 |
 | Player Level: Lineup | 73.5% | 19.1 |
-| Player Level: Minutes | 72.7% | 20.2 |
+| Player Level: Minutes | 75.8% | 20.2 |
 
 
 # Future Predictions
 
 ## Week 8
 
-### Hungary V Austria on 2024/09/21
+### Colombia V Costa Rica on 2024/09/25
 
 
-Average Margin: Hungary by 15.6
+Average Margin: Costa Rica by 2.3
 
-Average Scoreline: 32-17
+Average Scoreline: 19-17
 
 <p float="left">
-<img src="plots/performances_2024-09-21-Hungary_V_Austria.png" width="32%" />
-<img src="plots/resultbar_2024-09-21-Hungary_V_Austria.png" width="32%" />
-<img src="plots/spreads_2024-09-21-Hungary_V_Austria.png" width="32%" />
+<img src="plots/performances_2024-09-25-Colombia_V_CostaRica.png" width="32%" />
+<img src="plots/resultbar_2024-09-25-Colombia_V_CostaRica.png" width="32%" />
+<img src="plots/spreads_2024-09-25-Colombia_V_CostaRica.png" width="32%" />
+</p>
+
+### Peru V Venezuela on 2024/09/25
+
+
+Average Margin: Peru by 36.9
+
+Average Scoreline: 38-1
+
+<p float="left">
+<img src="plots/performances_2024-09-25-Peru_V_Venezuela.png" width="32%" />
+<img src="plots/resultbar_2024-09-25-Peru_V_Venezuela.png" width="32%" />
+<img src="plots/spreads_2024-09-25-Peru_V_Venezuela.png" width="32%" />
+</p>
+
+### Moldova V Turkey on 2024/09/28
+
+
+Average Margin: Moldova by 29.9
+
+Average Scoreline: 34-4
+
+<p float="left">
+<img src="plots/performances_2024-09-28-Moldova_V_Turkey.png" width="32%" />
+<img src="plots/resultbar_2024-09-28-Moldova_V_Turkey.png" width="32%" />
+<img src="plots/spreads_2024-09-28-Moldova_V_Turkey.png" width="32%" />
+</p>
+
+### Chile V Paraguay on 2024/09/28
+
+
+Average Margin: Chile by 39.1
+
+Average Scoreline: 47-8
+
+<p float="left">
+<img src="plots/performances_2024-09-28-Chile_V_Paraguay.png" width="32%" />
+<img src="plots/resultbar_2024-09-28-Chile_V_Paraguay.png" width="32%" />
+<img src="plots/spreads_2024-09-28-Chile_V_Paraguay.png" width="32%" />
+</p>
+
+### Kosovo V Montenegro on 2024/09/29
+
+
+Average Margin: Kosovo by 2.6
+
+Average Scoreline: 14-11
+
+<p float="left">
+<img src="plots/performances_2024-09-29-Kosovo_V_Montenegro.png" width="32%" />
+<img src="plots/resultbar_2024-09-29-Kosovo_V_Montenegro.png" width="32%" />
+<img src="plots/spreads_2024-09-29-Kosovo_V_Montenegro.png" width="32%" />
 </p>
