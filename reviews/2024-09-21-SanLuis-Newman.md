@@ -11,7 +11,7 @@ categories: "URBA Top 13 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.334, which translates to predicting Newman to win by 6.1.
 
-Our Over/Under is 42.5 - and combined with the spread above, we have a predicted scoreline of 24 to 18
+Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 27 to 21
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -72,14 +72,14 @@ Newman by 15.2 on a neutral pitch
 |             80 | Miguel Prince         |            nan    |        1 |            nan    | Alejo Garcia          |             80 |
 |             80 | Marcelo Brandi        |            nan    |        2 |            nan    | Mateo Caffaro         |             80 |
 |             80 | Luciano Borio         |            nan    |        3 |            nan    | Mateo Calistro        |             80 |
-|             80 | Jeronimo Ureta        |            nan    |        4 |             41.46 | Felipe Piatti         |             80 |
+|             80 | Jeronimo Ureta        |            nan    |        4 |             41.72 | Felipe Piatti         |             80 |
 |             80 | Pablo Cardinal        |            nan    |        5 |            nan    | Santiago Canal        |             80 |
 |             80 | Mateo Montoya         |            nan    |        6 |             71.71 | Manuel Gnecco         |             80 |
 |             80 | Faustino Santarelli   |            nan    |        7 |            nan    | Facundo Alvarez Amado |             80 |
 |             80 | Rodrigo Diaz de Vivar |            nan    |        8 |            nan    | Agustin Torello       |             80 |
-|             80 | Lucas Marguery        |            nan    |        9 |             17.6  | Martin Aereboe        |             80 |
+|             80 | Lucas Marguery        |            nan    |        9 |             17.81 | Martin Aereboe        |             80 |
 |             80 | Florencio Llerena     |             46.37 |       10 |            nan    | Felipe Campodonico    |             80 |
-|             80 | Silvestre Casa        |             82.3  |       11 |            nan    | Wilmer Ramirez        |             80 |
+|             80 | Silvestre Casa        |             82.42 |       11 |            nan    | Wilmer Ramirez        |             80 |
 |             80 | Benjamin Lanfranco    |            nan    |       12 |            nan    | Segundo Fresco        |             80 |
 |             80 | Juan Billote          |            nan    |       13 |            nan    | Lautaro Grys Arana    |             80 |
 |             80 | Justo Ortiz Basualdo  |            nan    |       14 |            nan    | Eduardo Ruesta        |             80 |

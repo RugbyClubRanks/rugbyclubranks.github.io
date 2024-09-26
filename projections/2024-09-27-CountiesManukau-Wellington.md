@@ -42,5 +42,5 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Imputed Lineups: Wellington by nan
 
 
-Wellington by 8.7 on a neutral pitch
+Wellington by 8.8 on a neutral pitch
 

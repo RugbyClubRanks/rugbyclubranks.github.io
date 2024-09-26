@@ -39,20 +39,20 @@ aside:
 
 | Club                 |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Stade Toulousain     |                  23 |   21   |             184.094  |                   1.8 |                6.4 |                 92.2 |
-| La Rochelle          |                  23 |   18.5 |             116.328  |                   3.8 |                5.9 |                 83.9 |
-| Bordeaux Begles      |                  23 |   16.7 |              85.3474 |                   4.5 |                4.6 |                 76   |
-| Toulon               |                  23 |   15.5 |              61.0478 |                   5.3 |                3.9 |                 71.1 |
-| Clermont Auvergne    |                  23 |   12.6 |              17.3373 |                   6.5 |                4   |                 61   |
-| Racing 92            |                  23 |   12.4 |              10.7402 |                   6.3 |                2.6 |                 58.5 |
-| Lyon                 |                  23 |   10.8 |             -10.6442 |                   6.6 |                2   |                 51.9 |
-| Castres Olympique    |                  23 |   10.5 |             -15.9878 |                   7   |                2.2 |                 51.1 |
-| Stade Francais Paris |                  23 |    9.9 |             -27.8193 |                   7.2 |                2.3 |                 49.2 |
-| Montpellier Herault  |                  23 |    9.9 |             -27.7044 |                   6.8 |                2.3 |                 48.7 |
-| Pau                  |                  23 |    8.7 |             -41.5569 |                   7.7 |                2.3 |                 44.9 |
-| Bayonne              |                  23 |    6   |             -89.6058 |                   7.4 |                1.1 |                 32.5 |
-| Perpignan            |                  23 |    5.3 |            -106.271  |                   6.6 |                1.1 |                 29.1 |
-| Vannes               |                  23 |    3   |            -155.305  |                   6.1 |                0.7 |                 18.9 |
+| Stade Toulousain     |                  23 |   21   |            184.034   |                   1.8 |                6.4 |                 92.2 |
+| La Rochelle          |                  23 |   18.6 |            116.773   |                   3.9 |                5.9 |                 84   |
+| Bordeaux Begles      |                  23 |   16.8 |             86.4806  |                   4.5 |                4.8 |                 76.5 |
+| Toulon               |                  23 |   15.5 |             60.562   |                   5.3 |                4.1 |                 71.2 |
+| Clermont Auvergne    |                  23 |   12.7 |             16.6104  |                   6.4 |                4   |                 61.2 |
+| Racing 92            |                  23 |   12.3 |             10.9431  |                   6.4 |                2.6 |                 58.3 |
+| Lyon                 |                  23 |   10.9 |             -9.75131 |                   6.5 |                2   |                 52.2 |
+| Castres Olympique    |                  23 |   10.5 |            -16.5978  |                   7.1 |                2.3 |                 51.3 |
+| Stade Francais Paris |                  23 |    9.9 |            -27.3084  |                   7.1 |                2.3 |                 49.2 |
+| Montpellier Herault  |                  23 |    9.8 |            -27.2534  |                   6.9 |                2.2 |                 48.3 |
+| Pau                  |                  23 |    8.6 |            -43.7296  |                   7.7 |                2.4 |                 44.7 |
+| Bayonne              |                  23 |    6.1 |            -88.1465  |                   7.3 |                1.1 |                 33   |
+| Perpignan            |                  23 |    5.2 |           -106.752   |                   6.8 |                1.1 |                 28.8 |
+| Vannes               |                  23 |    3   |           -155.864   |                   6.1 |                0.7 |                 18.6 |
 
 
 
@@ -61,20 +61,20 @@ aside:
 
 | Club                 |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Stade Toulousain     |              26 |   24   |          226.094     |                   1.8 |                7.4 |                105.2 |
-| La Rochelle          |              26 |   20.5 |          136.328     |                   3.8 |                6.9 |                 92.9 |
-| Bordeaux Begles      |              26 |   18.7 |          121.347     |                   5.5 |                5.6 |                 86   |
-| Toulon               |              26 |   17.5 |           63.0478    |                   6.3 |                3.9 |                 80.1 |
-| Clermont Auvergne    |              26 |   14.6 |           52.3373    |                   6.5 |                6   |                 71   |
-| Racing 92            |              26 |   13.4 |            2.74023   |                   7.3 |                2.6 |                 63.5 |
-| Castres Olympique    |              26 |   12.5 |            0.0121748 |                   8   |                3.2 |                 61.1 |
-| Lyon                 |              26 |   12.8 |          -14.6442    |                   6.6 |                2   |                 59.9 |
-| Stade Francais Paris |              26 |   10.9 |          -48.8193    |                   8.2 |                2.3 |                 54.2 |
-| Montpellier Herault  |              26 |   10.9 |          -21.7044    |                   7.8 |                2.3 |                 53.7 |
-| Pau                  |              26 |    9.7 |          -75.5569    |                   7.7 |                3.3 |                 49.9 |
-| Bayonne              |              26 |    7   |         -125.606     |                   7.4 |                1.1 |                 36.5 |
-| Perpignan            |              26 |    5.3 |         -142.271     |                   7.6 |                1.1 |                 30.1 |
-| Vannes               |              26 |    4   |         -173.305     |                   7.1 |                0.7 |                 23.9 |
+| Stade Toulousain     |              26 |   24   |           226.034    |                   1.8 |                7.4 |                105.2 |
+| La Rochelle          |              26 |   20.6 |           136.773    |                   3.9 |                6.9 |                 93   |
+| Bordeaux Begles      |              26 |   18.8 |           122.481    |                   5.5 |                5.8 |                 86.5 |
+| Toulon               |              26 |   17.5 |            62.562    |                   6.3 |                4.1 |                 80.2 |
+| Clermont Auvergne    |              26 |   14.7 |            51.6104   |                   6.4 |                6   |                 71.2 |
+| Racing 92            |              26 |   13.3 |             2.9431   |                   7.4 |                2.6 |                 63.3 |
+| Castres Olympique    |              26 |   12.5 |            -0.597847 |                   8.1 |                3.3 |                 61.3 |
+| Lyon                 |              26 |   12.9 |           -13.7513   |                   6.5 |                2   |                 60.2 |
+| Stade Francais Paris |              26 |   10.9 |           -48.3084   |                   8.1 |                2.3 |                 54.2 |
+| Montpellier Herault  |              26 |   10.8 |           -21.2534   |                   7.9 |                2.2 |                 53.3 |
+| Pau                  |              26 |    9.6 |           -77.7296   |                   7.7 |                3.4 |                 49.7 |
+| Bayonne              |              26 |    7.1 |          -124.147    |                   7.3 |                1.1 |                 37   |
+| Perpignan            |              26 |    5.2 |          -142.752    |                   7.8 |                1.1 |                 29.8 |
+| Vannes               |              26 |    4   |          -173.864    |                   7.1 |                0.7 |                 23.6 |
 
 
 
@@ -95,7 +95,7 @@ aside:
 ### Bayonne V Montpellier Herault on 2024/09/28
 
 
-Average Margin: Bayonne by 0.7
+Average Margin: Bayonne by 1.2
 
 Average Scoreline: 18-17
 
@@ -108,9 +108,9 @@ Average Scoreline: 18-17
 ### Lyon V Castres Olympique on 2024/09/28
 
 
-Average Margin: Lyon by 3.3
+Average Margin: Lyon by 3.5
 
-Average Scoreline: 18-15
+Average Scoreline: 18-14
 
 <p float="left">
 <img src="plots/performances_2024-09-28-Lyon_V_CastresOlympique.png" width="32%" />
@@ -134,7 +134,7 @@ Average Scoreline: 20-19
 ### Perpignan V Clermont Auvergne on 2024/09/28
 
 
-Average Margin: Clermont Auvergne by 1.9
+Average Margin: Clermont Auvergne by 2.0
 
 Average Scoreline: 18-16
 
@@ -147,9 +147,9 @@ Average Scoreline: 18-16
 ### Pau V Stade Francais Paris on 2024/09/28
 
 
-Average Margin: Pau by 2.4
+Average Margin: Pau by 2.3
 
-Average Scoreline: 17-14
+Average Scoreline: 17-15
 
 <p float="left">
 <img src="plots/performances_2024-09-28-Pau_V_StadeFrancaisParis.png" width="32%" />
@@ -188,7 +188,7 @@ Average Scoreline: 21-14
 ### Castres Olympique V Stade Toulousain on 2024/10/05
 
 
-Average Margin: Stade Toulousain by 4.5
+Average Margin: Stade Toulousain by 4.4
 
 Average Scoreline: 18-14
 
@@ -201,7 +201,7 @@ Average Scoreline: 18-14
 ### Bordeaux Begles V Bayonne on 2024/10/05
 
 
-Average Margin: Bordeaux Begles by 10.8
+Average Margin: Bordeaux Begles by 10.5
 
 Average Scoreline: 23-12
 
@@ -214,7 +214,7 @@ Average Scoreline: 23-12
 ### La Rochelle V Lyon on 2024/10/05
 
 
-Average Margin: La Rochelle by 8.2
+Average Margin: La Rochelle by 8.3
 
 Average Scoreline: 22-14
 
@@ -227,7 +227,7 @@ Average Scoreline: 22-14
 ### Stade Francais Paris V Montpellier Herault on 2024/10/05
 
 
-Average Margin: Stade Francais Paris by 3.4
+Average Margin: Stade Francais Paris by 3.7
 
 Average Scoreline: 19-16
 
@@ -240,9 +240,9 @@ Average Scoreline: 19-16
 ### Vannes V Racing 92 on 2024/10/05
 
 
-Average Margin: Racing 92 by 3.0
+Average Margin: Racing 92 by 3.3
 
-Average Scoreline: 16-13
+Average Scoreline: 17-13
 
 <p float="left">
 <img src="plots/performances_2024-10-05-Vannes_V_Racing92.png" width="32%" />
@@ -253,7 +253,7 @@ Average Scoreline: 16-13
 ### Perpignan V Pau on 2024/10/05
 
 
-Average Margin: Perpignan by 1.1
+Average Margin: Perpignan by 1.0
 
 Average Scoreline: 18-16
 
@@ -266,7 +266,7 @@ Average Scoreline: 18-16
 ### Clermont Auvergne V Toulon on 2024/10/06
 
 
-Average Margin: Clermont Auvergne by 2.2
+Average Margin: Clermont Auvergne by 2.1
 
 Average Scoreline: 18-16
 
@@ -281,9 +281,9 @@ Average Scoreline: 18-16
 ### Lyon V Stade Francais Paris on 2024/10/12
 
 
-Average Margin: Lyon by 3.7
+Average Margin: Lyon by 4.0
 
-Average Scoreline: 18-15
+Average Scoreline: 19-15
 
 <p float="left">
 <img src="plots/performances_2024-10-12-Lyon_V_StadeFrancaisParis.png" width="32%" />
@@ -294,7 +294,7 @@ Average Scoreline: 18-15
 ### Montpellier Herault V Vannes on 2024/10/12
 
 
-Average Margin: Montpellier Herault by 8.6
+Average Margin: Montpellier Herault by 8.7
 
 Average Scoreline: 22-14
 
@@ -307,9 +307,9 @@ Average Scoreline: 22-14
 ### Racing 92 V Toulon on 2024/10/12
 
 
-Average Margin: Racing 92 by 1.5
+Average Margin: Racing 92 by 1.4
 
-Average Scoreline: 20-18
+Average Scoreline: 19-18
 
 <p float="left">
 <img src="plots/performances_2024-10-12-Racing92_V_Toulon.png" width="32%" />
@@ -320,7 +320,7 @@ Average Scoreline: 20-18
 ### Bordeaux Begles V Perpignan on 2024/10/12
 
 
-Average Margin: Bordeaux Begles by 11.2
+Average Margin: Bordeaux Begles by 11.3
 
 Average Scoreline: 26-15
 
@@ -333,7 +333,7 @@ Average Scoreline: 26-15
 ### Stade Toulousain V Clermont Auvergne on 2024/10/12
 
 
-Average Margin: Stade Toulousain by 9.8
+Average Margin: Stade Toulousain by 9.6
 
 Average Scoreline: 25-15
 
@@ -346,9 +346,9 @@ Average Scoreline: 25-15
 ### Pau V Castres Olympique on 2024/10/12
 
 
-Average Margin: Pau by 2.2
+Average Margin: Pau by 2.0
 
-Average Scoreline: 18-15
+Average Scoreline: 18-16
 
 <p float="left">
 <img src="plots/performances_2024-10-12-Pau_V_CastresOlympique.png" width="32%" />
@@ -359,7 +359,7 @@ Average Scoreline: 18-15
 ### Bayonne V La Rochelle on 2024/10/12
 
 
-Average Margin: La Rochelle by 4.4
+Average Margin: La Rochelle by 4.6
 
 Average Scoreline: 21-16
 
@@ -374,9 +374,9 @@ Average Scoreline: 21-16
 ### La Rochelle V Bordeaux Begles on 2024/10/19
 
 
-Average Margin: La Rochelle by 4.4
+Average Margin: La Rochelle by 4.1
 
-Average Scoreline: 19-14
+Average Scoreline: 19-15
 
 <p float="left">
 <img src="plots/performances_2024-10-19-LaRochelle_V_BordeauxBegles.png" width="32%" />
@@ -400,7 +400,7 @@ Average Scoreline: 18-17
 ### Toulon V Montpellier Herault on 2024/10/19
 
 
-Average Margin: Toulon by 6.5
+Average Margin: Toulon by 6.7
 
 Average Scoreline: 20-14
 
@@ -413,7 +413,7 @@ Average Scoreline: 20-14
 ### Pau V Stade Toulousain on 2024/10/19
 
 
-Average Margin: Stade Toulousain by 5.9
+Average Margin: Stade Toulousain by 6.0
 
 Average Scoreline: 19-13
 
@@ -426,7 +426,7 @@ Average Scoreline: 19-13
 ### Castres Olympique V Stade Francais Paris on 2024/10/19
 
 
-Average Margin: Castres Olympique by 3.8
+Average Margin: Castres Olympique by 3.9
 
 Average Scoreline: 18-14
 
@@ -439,7 +439,7 @@ Average Scoreline: 18-14
 ### Bayonne V Racing 92 on 2024/10/19
 
 
-Average Margin: Racing 92 by 0.4
+Average Margin: Racing 92 by 0.2
 
 Average Scoreline: 18-17
 
@@ -452,9 +452,9 @@ Average Scoreline: 18-17
 ### Clermont Auvergne V Vannes on 2024/10/19
 
 
-Average Margin: Clermont Auvergne by 10.8
+Average Margin: Clermont Auvergne by 10.7
 
-Average Scoreline: 26-15
+Average Scoreline: 25-15
 
 <p float="left">
 <img src="plots/performances_2024-10-19-ClermontAuvergne_V_Vannes.png" width="32%" />
@@ -467,7 +467,7 @@ Average Scoreline: 26-15
 ### Stade Toulousain V Toulon on 2024/10/26
 
 
-Average Margin: Stade Toulousain by 8.7
+Average Margin: Stade Toulousain by 8.6
 
 Average Scoreline: 24-15
 
@@ -480,7 +480,7 @@ Average Scoreline: 24-15
 ### Stade Francais Paris V Clermont Auvergne on 2024/10/26
 
 
-Average Margin: Stade Francais Paris by 1.4
+Average Margin: Stade Francais Paris by 1.5
 
 Average Scoreline: 21-19
 
@@ -493,7 +493,7 @@ Average Scoreline: 21-19
 ### Vannes V Castres Olympique on 2024/10/26
 
 
-Average Margin: Castres Olympique by 2.6
+Average Margin: Castres Olympique by 2.5
 
 Average Scoreline: 16-13
 
@@ -506,7 +506,7 @@ Average Scoreline: 16-13
 ### Lyon V Bayonne on 2024/10/26
 
 
-Average Margin: Lyon by 6.6
+Average Margin: Lyon by 6.4
 
 Average Scoreline: 18-12
 
@@ -519,7 +519,7 @@ Average Scoreline: 18-12
 ### Montpellier Herault V La Rochelle on 2024/10/26
 
 
-Average Margin: La Rochelle by 2.3
+Average Margin: La Rochelle by 2.2
 
 Average Scoreline: 24-22
 
@@ -532,9 +532,9 @@ Average Scoreline: 24-22
 ### Bordeaux Begles V Pau on 2024/10/26
 
 
-Average Margin: Bordeaux Begles by 8.8
+Average Margin: Bordeaux Begles by 9.1
 
-Average Scoreline: 21-13
+Average Scoreline: 22-12
 
 <p float="left">
 <img src="plots/performances_2024-10-26-BordeauxBegles_V_Pau.png" width="32%" />
@@ -547,7 +547,7 @@ Average Scoreline: 21-13
 
 Average Margin: Racing 92 by 7.6
 
-Average Scoreline: 20-13
+Average Scoreline: 21-13
 
 <p float="left">
 <img src="plots/performances_2024-10-26-Racing92_V_Perpignan.png" width="32%" />
@@ -560,7 +560,7 @@ Average Scoreline: 20-13
 ### Bayonne V Stade Toulousain on 2024/11/02
 
 
-Average Margin: Stade Toulousain by 7.5
+Average Margin: Stade Toulousain by 7.8
 
 Average Scoreline: 20-12
 
@@ -586,7 +586,7 @@ Average Scoreline: 19-18
 ### Pau V Racing 92 on 2024/11/02
 
 
-Average Margin: Pau by 1.4
+Average Margin: Pau by 1.3
 
 Average Scoreline: 18-17
 
@@ -599,7 +599,7 @@ Average Scoreline: 18-17
 ### Perpignan V Vannes on 2024/11/02
 
 
-Average Margin: Perpignan by 5.5
+Average Margin: Perpignan by 5.4
 
 Average Scoreline: 17-11
 
@@ -612,7 +612,7 @@ Average Scoreline: 17-11
 ### Castres Olympique V Montpellier Herault on 2024/11/02
 
 
-Average Margin: Castres Olympique by 4.0
+Average Margin: Castres Olympique by 3.8
 
 Average Scoreline: 17-13
 
@@ -625,7 +625,7 @@ Average Scoreline: 17-13
 ### La Rochelle V Stade Francais Paris on 2024/11/02
 
 
-Average Margin: La Rochelle by 9.0
+Average Margin: La Rochelle by 8.8
 
 Average Scoreline: 23-14
 
@@ -638,9 +638,9 @@ Average Scoreline: 23-14
 ### Toulon V Lyon on 2024/11/02
 
 
-Average Margin: Toulon by 5.9
+Average Margin: Toulon by 5.8
 
-Average Scoreline: 19-13
+Average Scoreline: 19-14
 
 <p float="left">
 <img src="plots/performances_2024-11-02-Toulon_V_Lyon.png" width="32%" />
@@ -653,7 +653,7 @@ Average Scoreline: 19-13
 ### Lyon V Clermont Auvergne on 2024/11/23
 
 
-Average Margin: Lyon by 2.0
+Average Margin: Lyon by 1.8
 
 Average Scoreline: 17-15
 
@@ -666,7 +666,7 @@ Average Scoreline: 17-15
 ### Castres Olympique V La Rochelle on 2024/11/23
 
 
-Average Margin: La Rochelle by 1.4
+Average Margin: La Rochelle by 1.6
 
 Average Scoreline: 17-15
 
@@ -679,7 +679,7 @@ Average Scoreline: 17-15
 ### Toulon V Bayonne on 2024/11/23
 
 
-Average Margin: Toulon by 9.1
+Average Margin: Toulon by 8.9
 
 Average Scoreline: 22-13
 
@@ -692,7 +692,7 @@ Average Scoreline: 22-13
 ### Montpellier Herault V Pau on 2024/11/23
 
 
-Average Margin: Montpellier Herault by 4.0
+Average Margin: Montpellier Herault by 4.3
 
 Average Scoreline: 18-13
 
@@ -731,7 +731,7 @@ Average Scoreline: 27-12
 ### Vannes V Bordeaux Begles on 2024/11/23
 
 
-Average Margin: Bordeaux Begles by 6.6
+Average Margin: Bordeaux Begles by 6.7
 
 Average Scoreline: 18-11
 
@@ -746,7 +746,7 @@ Average Scoreline: 18-11
 ### Racing 92 V Stade Toulousain on 2024/11/30
 
 
-Average Margin: Stade Toulousain by 4.0
+Average Margin: Stade Toulousain by 3.7
 
 Average Scoreline: 21-17
 
@@ -759,7 +759,7 @@ Average Scoreline: 21-17
 ### Pau V Lyon on 2024/11/30
 
 
-Average Margin: Pau by 1.8
+Average Margin: Pau by 1.9
 
 Average Scoreline: 17-15
 
@@ -772,7 +772,7 @@ Average Scoreline: 17-15
 ### Clermont Auvergne V Castres Olympique on 2024/11/30
 
 
-Average Margin: Clermont Auvergne by 5.0
+Average Margin: Clermont Auvergne by 4.8
 
 Average Scoreline: 18-13
 
@@ -785,7 +785,7 @@ Average Scoreline: 18-13
 ### Perpignan V Toulon on 2024/11/30
 
 
-Average Margin: Toulon by 3.1
+Average Margin: Toulon by 3.0
 
 Average Scoreline: 16-13
 
@@ -839,7 +839,7 @@ Average Scoreline: 33-19
 ### Castres Olympique V Bordeaux Begles on 2024/12/21
 
 
-Average Margin: Bordeaux Begles by 0.7
+Average Margin: Bordeaux Begles by 0.9
 
 Average Scoreline: 17-16
 
@@ -852,9 +852,9 @@ Average Scoreline: 17-16
 ### Stade Francais Paris V Perpignan on 2024/12/21
 
 
-Average Margin: Stade Francais Paris by 6.4
+Average Margin: Stade Francais Paris by 6.6
 
-Average Scoreline: 21-15
+Average Scoreline: 21-14
 
 <p float="left">
 <img src="plots/performances_2024-12-21-StadeFrancaisParis_V_Perpignan.png" width="32%" />
@@ -865,9 +865,9 @@ Average Scoreline: 21-15
 ### Vannes V Bayonne on 2024/12/21
 
 
-Average Margin: Vannes by 0.7
+Average Margin: Vannes by 0.5
 
-Average Scoreline: 14-13
+Average Scoreline: 14-14
 
 <p float="left">
 <img src="plots/performances_2024-12-21-Vannes_V_Bayonne.png" width="32%" />
@@ -878,7 +878,7 @@ Average Scoreline: 14-13
 ### Montpellier Herault V Racing 92 on 2024/12/21
 
 
-Average Margin: Montpellier Herault by 1.9
+Average Margin: Montpellier Herault by 2.2
 
 Average Scoreline: 17-15
 
@@ -891,7 +891,7 @@ Average Scoreline: 17-15
 ### Toulon V Pau on 2024/12/21
 
 
-Average Margin: Toulon by 7.4
+Average Margin: Toulon by 7.5
 
 Average Scoreline: 19-12
 
@@ -904,7 +904,7 @@ Average Scoreline: 19-12
 ### La Rochelle V Clermont Auvergne on 2024/12/21
 
 
-Average Margin: La Rochelle by 6.8
+Average Margin: La Rochelle by 7.0
 
 Average Scoreline: 22-15
 
@@ -917,7 +917,7 @@ Average Scoreline: 22-15
 ### Lyon V Stade Toulousain on 2024/12/21
 
 
-Average Margin: Stade Toulousain by 4.3
+Average Margin: Stade Toulousain by 4.5
 
 Average Scoreline: 19-15
 
@@ -932,7 +932,7 @@ Average Scoreline: 19-15
 ### Bordeaux Begles V Toulon on 2024/12/28
 
 
-Average Margin: Bordeaux Begles by 4.7
+Average Margin: Bordeaux Begles by 4.9
 
 Average Scoreline: 18-13
 
@@ -945,9 +945,9 @@ Average Scoreline: 18-13
 ### Pau V Vannes on 2024/12/28
 
 
-Average Margin: Pau by 7.8
+Average Margin: Pau by 7.6
 
-Average Scoreline: 22-14
+Average Scoreline: 21-14
 
 <p float="left">
 <img src="plots/performances_2024-12-28-Pau_V_Vannes.png" width="32%" />
@@ -958,7 +958,7 @@ Average Scoreline: 22-14
 ### Racing 92 V Lyon on 2024/12/28
 
 
-Average Margin: Racing 92 by 4.0
+Average Margin: Racing 92 by 3.8
 
 Average Scoreline: 19-15
 
@@ -984,7 +984,7 @@ Average Scoreline: 18-13
 ### Clermont Auvergne V Montpellier Herault on 2024/12/28
 
 
-Average Margin: Clermont Auvergne by 5.3
+Average Margin: Clermont Auvergne by 5.4
 
 Average Scoreline: 21-16
 
@@ -997,9 +997,9 @@ Average Scoreline: 21-16
 ### Stade Toulousain V Stade Francais Paris on 2024/12/28
 
 
-Average Margin: Stade Toulousain by 11.9
+Average Margin: Stade Toulousain by 11.7
 
-Average Scoreline: 25-13
+Average Scoreline: 24-13
 
 <p float="left">
 <img src="plots/performances_2024-12-28-StadeToulousain_V_StadeFrancaisParis.png" width="32%" />
@@ -1010,7 +1010,7 @@ Average Scoreline: 25-13
 ### Bayonne V Castres Olympique on 2024/12/28
 
 
-Average Margin: Bayonne by 0.1
+Average Margin: Bayonne by 0.3
 
 Average Scoreline: 16-16
 
@@ -1025,7 +1025,7 @@ Average Scoreline: 16-16
 ### Stade Francais Paris V Bordeaux Begles on 2025/01/04
 
 
-Average Margin: Bordeaux Begles by 1.1
+Average Margin: Bordeaux Begles by 1.2
 
 Average Scoreline: 20-19
 
@@ -1038,7 +1038,7 @@ Average Scoreline: 20-19
 ### Vannes V Clermont Auvergne on 2025/01/04
 
 
-Average Margin: Clermont Auvergne by 4.1
+Average Margin: Clermont Auvergne by 4.0
 
 Average Scoreline: 18-14
 
@@ -1051,7 +1051,7 @@ Average Scoreline: 18-14
 ### Toulon V Racing 92 on 2025/01/04
 
 
-Average Margin: Toulon by 5.6
+Average Margin: Toulon by 5.4
 
 Average Scoreline: 19-13
 
@@ -1066,7 +1066,7 @@ Average Scoreline: 19-13
 
 Average Margin: Castres Olympique by 4.8
 
-Average Scoreline: 17-13
+Average Scoreline: 17-12
 
 <p float="left">
 <img src="plots/performances_2025-01-04-CastresOlympique_V_Pau.png" width="32%" />
@@ -1077,7 +1077,7 @@ Average Scoreline: 17-13
 ### Lyon V Perpignan on 2025/01/04
 
 
-Average Margin: Lyon by 7.2
+Average Margin: Lyon by 7.3
 
 Average Scoreline: 21-14
 
@@ -1103,7 +1103,7 @@ Average Scoreline: 19-18
 ### Montpellier Herault V Bayonne on 2025/01/04
 
 
-Average Margin: Montpellier Herault by 5.7
+Average Margin: Montpellier Herault by 5.6
 
 Average Scoreline: 18-13
 
@@ -1157,7 +1157,7 @@ Average Scoreline: 24-13
 ### Pau V Clermont Auvergne on 2025/01/25
 
 
-Average Margin: Pau by 0.4
+Average Margin: Pau by 0.2
 
 Average Scoreline: 17-16
 
@@ -1196,7 +1196,7 @@ Average Scoreline: 21-14
 ### Vannes V Stade Francais Paris on 2025/01/25
 
 
-Average Margin: Stade Francais Paris by 2.1
+Average Margin: Stade Francais Paris by 2.2
 
 Average Scoreline: 19-17
 
@@ -1250,7 +1250,7 @@ Average Scoreline: 17-17
 ### Lyon V La Rochelle on 2025/02/15
 
 
-Average Margin: La Rochelle by 1.5
+Average Margin: La Rochelle by 1.7
 
 Average Scoreline: 20-19
 
@@ -1263,7 +1263,7 @@ Average Scoreline: 20-19
 ### Perpignan V Castres Olympique on 2025/02/15
 
 
-Average Margin: Castres Olympique by 0.4
+Average Margin: Castres Olympique by 0.5
 
 Average Scoreline: 17-16
 
@@ -1289,7 +1289,7 @@ Average Scoreline: 22-19
 ### Bayonne V Bordeaux Begles on 2025/02/15
 
 
-Average Margin: Bordeaux Begles by 3.8
+Average Margin: Bordeaux Begles by 3.5
 
 Average Scoreline: 16-12
 
@@ -1304,7 +1304,7 @@ Average Scoreline: 16-12
 ### Castres Olympique V Lyon on 2025/02/22
 
 
-Average Margin: Castres Olympique by 3.3
+Average Margin: Castres Olympique by 3.2
 
 Average Scoreline: 18-15
 
@@ -1330,9 +1330,9 @@ Average Scoreline: 19-17
 ### Toulon V Stade Francais Paris on 2025/02/22
 
 
-Average Margin: Toulon by 6.6
+Average Margin: Toulon by 6.3
 
-Average Scoreline: 19-12
+Average Scoreline: 18-12
 
 <p float="left">
 <img src="plots/performances_2025-02-22-Toulon_V_StadeFrancaisParis.png" width="32%" />
@@ -1343,7 +1343,7 @@ Average Scoreline: 19-12
 ### Stade Toulousain V Bayonne on 2025/02/22
 
 
-Average Margin: Stade Toulousain by 14.3
+Average Margin: Stade Toulousain by 14.2
 
 Average Scoreline: 23-9
 
@@ -1356,7 +1356,7 @@ Average Scoreline: 23-9
 ### Bordeaux Begles V Clermont Auvergne on 2025/02/22
 
 
-Average Margin: Bordeaux Begles by 5.8
+Average Margin: Bordeaux Begles by 6.0
 
 Average Scoreline: 20-14
 
@@ -1369,9 +1369,9 @@ Average Scoreline: 20-14
 ### Pau V Perpignan on 2025/02/22
 
 
-Average Margin: Pau by 5.6
+Average Margin: Pau by 5.5
 
-Average Scoreline: 21-15
+Average Scoreline: 20-15
 
 <p float="left">
 <img src="plots/performances_2025-02-22-Pau_V_Perpignan.png" width="32%" />
@@ -1382,7 +1382,7 @@ Average Scoreline: 21-15
 ### La Rochelle V Racing 92 on 2025/02/22
 
 
-Average Margin: La Rochelle by 7.8
+Average Margin: La Rochelle by 7.6
 
 Average Scoreline: 23-16
 
@@ -1397,7 +1397,7 @@ Average Scoreline: 23-16
 ### Stade Francais Paris V La Rochelle on 2025/03/01
 
 
-Average Margin: La Rochelle by 2.1
+Average Margin: La Rochelle by 2.2
 
 Average Scoreline: 24-22
 
@@ -1410,7 +1410,7 @@ Average Scoreline: 24-22
 ### Stade Toulousain V Vannes on 2025/03/01
 
 
-Average Margin: Stade Toulousain by 16.9
+Average Margin: Stade Toulousain by 17.0
 
 Average Scoreline: 37-20
 
@@ -1425,7 +1425,7 @@ Average Scoreline: 37-20
 
 Average Margin: Bordeaux Begles by 4.4
 
-Average Scoreline: 21-16
+Average Scoreline: 21-17
 
 <p float="left">
 <img src="plots/performances_2025-03-01-Perpignan_V_BordeauxBegles.png" width="32%" />
@@ -1436,7 +1436,7 @@ Average Scoreline: 21-16
 ### Bayonne V Clermont Auvergne on 2025/03/01
 
 
-Average Margin: Clermont Auvergne by 1.2
+Average Margin: Clermont Auvergne by 0.9
 
 Average Scoreline: 17-16
 
@@ -1462,7 +1462,7 @@ Average Scoreline: 18-17
 ### Racing 92 V Pau on 2025/03/01
 
 
-Average Margin: Racing 92 by 5.4
+Average Margin: Racing 92 by 5.3
 
 Average Scoreline: 21-15
 
@@ -1475,7 +1475,7 @@ Average Scoreline: 21-15
 ### Montpellier Herault V Castres Olympique on 2025/03/01
 
 
-Average Margin: Montpellier Herault by 2.7
+Average Margin: Montpellier Herault by 2.8
 
 Average Scoreline: 18-15
 
@@ -1490,7 +1490,7 @@ Average Scoreline: 18-15
 ### Toulon V Perpignan on 2025/03/22
 
 
-Average Margin: Toulon by 9.6
+Average Margin: Toulon by 9.8
 
 Average Scoreline: 23-14
 
@@ -1503,9 +1503,9 @@ Average Scoreline: 23-14
 ### Bordeaux Begles V Stade Toulousain on 2025/03/22
 
 
-Average Margin: Stade Toulousain by 0.5
+Average Margin: Stade Toulousain by 0.3
 
-Average Scoreline: 18-17
+Average Scoreline: 18-18
 
 <p float="left">
 <img src="plots/performances_2025-03-22-BordeauxBegles_V_StadeToulousain.png" width="32%" />
@@ -1516,7 +1516,7 @@ Average Scoreline: 18-17
 ### Clermont Auvergne V Racing 92 on 2025/03/22
 
 
-Average Margin: Clermont Auvergne by 4.2
+Average Margin: Clermont Auvergne by 4.1
 
 Average Scoreline: 25-21
 
@@ -1555,7 +1555,7 @@ Average Scoreline: 21-15
 ### La Rochelle V Castres Olympique on 2025/03/22
 
 
-Average Margin: La Rochelle by 8.0
+Average Margin: La Rochelle by 8.1
 
 Average Scoreline: 25-17
 
@@ -1568,9 +1568,9 @@ Average Scoreline: 25-17
 ### Lyon V Vannes on 2025/03/22
 
 
-Average Margin: Lyon by 9.3
+Average Margin: Lyon by 9.2
 
-Average Scoreline: 25-15
+Average Scoreline: 24-15
 
 <p float="left">
 <img src="plots/performances_2025-03-22-Lyon_V_Vannes.png" width="32%" />
@@ -1596,9 +1596,9 @@ Average Scoreline: 17-16
 ### Racing 92 V Bordeaux Begles on 2025/03/29
 
 
-Average Margin: Bordeaux Begles by 0.1
+Average Margin: Bordeaux Begles by 0.2
 
-Average Scoreline: 21-21
+Average Scoreline: 22-21
 
 <p float="left">
 <img src="plots/performances_2025-03-29-Racing92_V_BordeauxBegles.png" width="32%" />
@@ -1609,9 +1609,9 @@ Average Scoreline: 21-21
 ### Bayonne V Lyon on 2025/03/29
 
 
-Average Margin: Bayonne by 0.4
+Average Margin: Bayonne by 0.1
 
-Average Scoreline: 17-16
+Average Scoreline: 17-17
 
 <p float="left">
 <img src="plots/performances_2025-03-29-Bayonne_V_Lyon.png" width="32%" />
@@ -1635,7 +1635,7 @@ Average Scoreline: 27-15
 ### Montpellier Herault V Stade Francais Paris on 2025/03/29
 
 
-Average Margin: Montpellier Herault by 3.1
+Average Margin: Montpellier Herault by 3.4
 
 Average Scoreline: 18-15
 
@@ -1648,7 +1648,7 @@ Average Scoreline: 18-15
 ### Clermont Auvergne V La Rochelle on 2025/03/29
 
 
-Average Margin: La Rochelle by 0.0
+Average Margin: La Rochelle by 0.2
 
 Average Scoreline: 20-20
 
@@ -1661,7 +1661,7 @@ Average Scoreline: 20-20
 ### Vannes V Perpignan on 2025/03/29
 
 
-Average Margin: Vannes by 1.4
+Average Margin: Vannes by 1.3
 
 Average Scoreline: 17-16
 
@@ -1702,7 +1702,7 @@ Average Scoreline: 23-14
 ### La Rochelle V Bayonne on 2025/04/19
 
 
-Average Margin: La Rochelle by 11.2
+Average Margin: La Rochelle by 11.3
 
 Average Scoreline: 25-14
 
@@ -1715,7 +1715,7 @@ Average Scoreline: 25-14
 ### Pau V Bordeaux Begles on 2025/04/19
 
 
-Average Margin: Bordeaux Begles by 2.2
+Average Margin: Bordeaux Begles by 2.1
 
 Average Scoreline: 20-18
 
@@ -1728,7 +1728,7 @@ Average Scoreline: 20-18
 ### Stade Francais Paris V Stade Toulousain on 2025/04/19
 
 
-Average Margin: Stade Toulousain by 4.8
+Average Margin: Stade Toulousain by 4.9
 
 Average Scoreline: 21-16
 
@@ -1741,7 +1741,7 @@ Average Scoreline: 21-16
 ### Toulon V Clermont Auvergne on 2025/04/19
 
 
-Average Margin: Toulon by 4.5
+Average Margin: Toulon by 4.4
 
 Average Scoreline: 18-14
 
@@ -1754,9 +1754,9 @@ Average Scoreline: 18-14
 ### Perpignan V Racing 92 on 2025/04/19
 
 
-Average Margin: Racing 92 by 0.9
+Average Margin: Racing 92 by 1.1
 
-Average Scoreline: 22-21
+Average Scoreline: 22-20
 
 <p float="left">
 <img src="plots/performances_2025-04-19-Perpignan_V_Racing92.png" width="32%" />
@@ -1769,7 +1769,7 @@ Average Scoreline: 22-21
 ### Bayonne V Pau on 2025/04/26
 
 
-Average Margin: Bayonne by 1.7
+Average Margin: Bayonne by 1.8
 
 Average Scoreline: 18-16
 
@@ -1808,7 +1808,7 @@ Average Scoreline: 21-17
 ### Vannes V Toulon on 2025/04/26
 
 
-Average Margin: Toulon by 5.1
+Average Margin: Toulon by 5.2
 
 Average Scoreline: 17-12
 
@@ -1821,9 +1821,9 @@ Average Scoreline: 17-12
 ### Stade Toulousain V Castres Olympique on 2025/04/26
 
 
-Average Margin: Stade Toulousain by 10.9
+Average Margin: Stade Toulousain by 11.2
 
-Average Scoreline: 23-12
+Average Scoreline: 23-11
 
 <p float="left">
 <img src="plots/performances_2025-04-26-StadeToulousain_V_CastresOlympique.png" width="32%" />
@@ -1836,7 +1836,7 @@ Average Scoreline: 23-12
 
 Average Margin: Bordeaux Begles by 2.5
 
-Average Scoreline: 22-19
+Average Scoreline: 22-20
 
 <p float="left">
 <img src="plots/performances_2025-04-26-BordeauxBegles_V_LaRochelle.png" width="32%" />
@@ -1847,7 +1847,7 @@ Average Scoreline: 22-19
 ### Montpellier Herault V Perpignan on 2025/04/26
 
 
-Average Margin: Montpellier Herault by 6.4
+Average Margin: Montpellier Herault by 6.6
 
 Average Scoreline: 22-16
 
@@ -1862,7 +1862,7 @@ Average Scoreline: 22-16
 ### Lyon V Pau on 2025/05/10
 
 
-Average Margin: Lyon by 4.8
+Average Margin: Lyon by 4.9
 
 Average Scoreline: 21-16
 
@@ -1875,7 +1875,7 @@ Average Scoreline: 21-16
 ### Vannes V La Rochelle on 2025/05/10
 
 
-Average Margin: La Rochelle by 7.4
+Average Margin: La Rochelle by 7.6
 
 Average Scoreline: 23-16
 
@@ -1888,7 +1888,7 @@ Average Scoreline: 23-16
 ### Toulon V Stade Toulousain on 2025/05/10
 
 
-Average Margin: Stade Toulousain by 1.7
+Average Margin: Stade Toulousain by 1.9
 
 Average Scoreline: 22-20
 
@@ -1927,7 +1927,7 @@ Average Scoreline: 20-18
 ### Perpignan V Stade Francais Paris on 2025/05/10
 
 
-Average Margin: Perpignan by 0.2
+Average Margin: Perpignan by 0.1
 
 Average Scoreline: 21-21
 
@@ -1940,7 +1940,7 @@ Average Scoreline: 21-21
 ### Racing 92 V Bayonne on 2025/05/10
 
 
-Average Margin: Racing 92 by 6.9
+Average Margin: Racing 92 by 6.8
 
 Average Scoreline: 20-13
 
@@ -1968,7 +1968,7 @@ Average Scoreline: 18-12
 ### Clermont Auvergne V Perpignan on 2025/05/17
 
 
-Average Margin: Clermont Auvergne by 8.6
+Average Margin: Clermont Auvergne by 8.5
 
 Average Scoreline: 29-21
 
@@ -1981,7 +1981,7 @@ Average Scoreline: 29-21
 ### La Rochelle V Montpellier Herault on 2025/05/17
 
 
-Average Margin: La Rochelle by 9.0
+Average Margin: La Rochelle by 8.8
 
 Average Scoreline: 25-16
 
@@ -1994,7 +1994,7 @@ Average Scoreline: 25-16
 ### Stade Francais Paris V Lyon on 2025/05/17
 
 
-Average Margin: Stade Francais Paris by 2.9
+Average Margin: Stade Francais Paris by 2.6
 
 Average Scoreline: 22-20
 
@@ -2007,7 +2007,7 @@ Average Scoreline: 22-20
 ### Stade Toulousain V Racing 92 on 2025/05/17
 
 
-Average Margin: Stade Toulousain by 10.5
+Average Margin: Stade Toulousain by 10.6
 
 Average Scoreline: 26-16
 
@@ -2033,7 +2033,7 @@ Average Scoreline: 21-14
 ### Pau V Toulon on 2025/05/17
 
 
-Average Margin: Toulon by 0.6
+Average Margin: Toulon by 0.7
 
 Average Scoreline: 19-19
 
@@ -2048,7 +2048,7 @@ Average Scoreline: 19-19
 ### Clermont Auvergne V Stade Francais Paris on 2025/05/31
 
 
-Average Margin: Clermont Auvergne by 5.3
+Average Margin: Clermont Auvergne by 5.1
 
 Average Scoreline: 29-23
 
@@ -2061,7 +2061,7 @@ Average Scoreline: 29-23
 ### Castres Olympique V Bayonne on 2025/05/31
 
 
-Average Margin: Castres Olympique by 6.3
+Average Margin: Castres Olympique by 6.6
 
 Average Scoreline: 19-13
 
@@ -2074,7 +2074,7 @@ Average Scoreline: 19-13
 ### Toulon V Bordeaux Begles on 2025/05/31
 
 
-Average Margin: Toulon by 2.1
+Average Margin: Toulon by 1.9
 
 Average Scoreline: 21-19
 
@@ -2087,7 +2087,7 @@ Average Scoreline: 21-19
 ### Vannes V Pau on 2025/05/31
 
 
-Average Margin: Pau by 1.1
+Average Margin: Pau by 1.0
 
 Average Scoreline: 16-15
 
@@ -2100,7 +2100,7 @@ Average Scoreline: 16-15
 ### La Rochelle V Perpignan on 2025/05/31
 
 
-Average Margin: La Rochelle by 12.1
+Average Margin: La Rochelle by 11.9
 
 Average Scoreline: 34-22
 
@@ -2115,7 +2115,7 @@ Average Scoreline: 34-22
 
 Average Margin: Stade Toulousain by 11.1
 
-Average Scoreline: 27-15
+Average Scoreline: 27-16
 
 <p float="left">
 <img src="plots/performances_2025-05-31-StadeToulousain_V_Lyon.png" width="32%" />
@@ -2126,7 +2126,7 @@ Average Scoreline: 27-15
 ### Racing 92 V Montpellier Herault on 2025/05/31
 
 
-Average Margin: Racing 92 by 4.4
+Average Margin: Racing 92 by 4.6
 
 Average Scoreline: 20-15
 
@@ -2141,7 +2141,7 @@ Average Scoreline: 20-15
 ### Lyon V Racing 92 on 2025/06/07
 
 
-Average Margin: Lyon by 2.8
+Average Margin: Lyon by 2.9
 
 Average Scoreline: 24-21
 
@@ -2154,7 +2154,7 @@ Average Scoreline: 24-21
 ### Montpellier Herault V Clermont Auvergne on 2025/06/07
 
 
-Average Margin: Montpellier Herault by 1.2
+Average Margin: Montpellier Herault by 1.1
 
 Average Scoreline: 19-18
 
@@ -2167,7 +2167,7 @@ Average Scoreline: 19-18
 ### Bayonne V Toulon on 2025/06/07
 
 
-Average Margin: Toulon by 2.2
+Average Margin: Toulon by 2.3
 
 Average Scoreline: 15-13
 
@@ -2180,7 +2180,7 @@ Average Scoreline: 15-13
 ### Stade Francais Paris V Castres Olympique on 2025/06/07
 
 
-Average Margin: Stade Francais Paris by 2.8
+Average Margin: Stade Francais Paris by 2.9
 
 Average Scoreline: 23-20
 
@@ -2193,7 +2193,7 @@ Average Scoreline: 23-20
 ### Bordeaux Begles V Vannes on 2025/06/07
 
 
-Average Margin: Bordeaux Begles by 13.2
+Average Margin: Bordeaux Begles by 13.4
 
 Average Scoreline: 39-26
 
@@ -2206,7 +2206,7 @@ Average Scoreline: 39-26
 ### Pau V La Rochelle on 2025/06/07
 
 
-Average Margin: La Rochelle by 3.0
+Average Margin: La Rochelle by 3.2
 
 Average Scoreline: 21-18
 
@@ -2219,7 +2219,7 @@ Average Scoreline: 21-18
 ### Perpignan V Stade Toulousain on 2025/06/07
 
 
-Average Margin: Stade Toulousain by 8.2
+Average Margin: Stade Toulousain by 8.0
 
 Average Scoreline: 23-15
 

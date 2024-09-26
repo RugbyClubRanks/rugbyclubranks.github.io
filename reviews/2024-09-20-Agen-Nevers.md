@@ -11,7 +11,7 @@ categories: "Pro D2 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.541, which translates to predicting Agen to win by 1.4.
 
-Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 23 to 24
+Our Over/Under is 39.5 - and combined with the spread above, we have a predicted scoreline of 19 to 20
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Nevers by 7.6 on a neutral pitch
 
 |   Away Minutes | Away Player                |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:---------------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             80 | Aitor Kitutu               |            nan    |        1 |            nan    | Hans Lombard-Buret  |             60 |
-|             80 | Jean-Maxence Jules-Rosette |            nan    |        2 |            nan    | Santiago Socino     |             52 |
-|             80 | Cleopas Kundiona           |            nan    |        3 |            nan    | Alex Burin          |             55 |
-|             32 | Ugo Vignolles              |            nan    |        4 |            nan    | Evan Olmstead       |             17 |
-|             45 | Chris Gabriel              |            nan    |        5 |            nan    | John Madigan        |             26 |
-|             24 | Luka Plataret              |            nan    |        6 |            nan    | Julien Lebian       |             20 |
-|             50 | Kevin Noah                 |            nan    |        7 |            nan    | Arnaud Duputs       |             52 |
-|             80 | Jason-Colin Fraser         |            nan    |        8 |              7.01 | Fotu Lokotui        |             53 |
-|             80 | Simon Tarel                |            nan    |        9 |            nan    | Jack Maunder        |             30 |
-|             47 | Shaun Reynolds             |            nan    |       10 |            nan    | Billy Searle        |             80 |
-|             60 | Arthur Mathiron            |            nan    |       11 |            nan    | Iban Etcheverry     |             22 |
-|             80 | Rudy Derrieux              |            nan    |       12 |             76.69 | Clement Garrigues   |             56 |
-|             80 | Paula Walisolio            |            nan    |       13 |            nan    | Kolinio Ramoka      |             22 |
-|             58 | Gabin Rocher               |            nan    |       14 |             80.64 | Lucas Martins       |             22 |
-|             80 | Dylan Jaminet              |            nan    |       15 |            nan    | Loris Tolot         |             16 |
+|             80 | Aitor Kitutu               |            nan    |        1 |            nan    | Hans Lombard-Buret  |             50 |
+|             80 | Jean-Maxence Jules-Rosette |            nan    |        2 |            nan    | Santiago Socino     |             55 |
+|             80 | Cleopas Kundiona           |            nan    |        3 |            nan    | Alex Burin          |             52 |
+|             32 | Ugo Vignolles              |            nan    |        4 |            nan    | Evan Olmstead       |             55 |
+|             80 | Chris Gabriel              |            nan    |        5 |            nan    | John Madigan        |             27 |
+|             80 | Luka Plataret              |            nan    |        6 |            nan    | Julien Lebian       |             26 |
+|             33 | Kevin Noah                 |            nan    |        7 |            nan    | Arnaud Duputs       |             33 |
+|             80 | Jason-Colin Fraser         |            nan    |        8 |              9.16 | Fotu Lokotui        |             80 |
+|             52 | Simon Tarel                |            nan    |        9 |            nan    | Jack Maunder        |             80 |
+|             60 | Shaun Reynolds             |            nan    |       10 |            nan    | Billy Searle        |             22 |
+|             80 | Arthur Mathiron            |            nan    |       11 |            nan    | Iban Etcheverry     |             56 |
+|             80 | Rudy Derrieux              |            nan    |       12 |             70.21 | Clement Garrigues   |             22 |
+|             63 | Paula Walisolio            |            nan    |       13 |            nan    | Kolinio Ramoka      |             22 |
+|             64 | Gabin Rocher               |            nan    |       14 |             79.33 | Lucas Martins       |             16 |
+|             58 | Dylan Jaminet              |            nan    |       15 |            nan    | Loris Tolot         |             53 |
 |             80 | Tom Deleuze                |            nan    |       16 |            nan    | Mamuka Mstoiani     |             53 |
 |             80 | Hugues Bastide             |            nan    |       17 |            nan    | Valentin Gayraud    |             53 |
-|             80 | Jonathan Maiau             |            nan    |       18 |             41.59 | Mathieu de Giovanni |             80 |
-|             53 | Tornike Mataradze          |            nan    |       19 |            nan    | Pierre Jouvin       |             41 |
-|             48 | Farai Mudariki             |             29.72 |       20 |            nan    | Dorian Bellot       |             80 |
-|             66 | Rati Zazadze               |            nan    |       21 |            nan    | Peyo Muscarditz     |             80 |
-|             53 | Hugo Bouyssou              |            nan    |       22 |            nan    | Franck Pourteau     |             80 |
+|             53 | Jonathan Maiau             |            nan    |       18 |             41.21 | Mathieu de Giovanni |             70 |
+|             48 | Tornike Mataradze          |            nan    |       19 |            nan    | Pierre Jouvin       |             58 |
+|             66 | Farai Mudariki             |             30.02 |       20 |            nan    | Dorian Bellot       |             80 |
+|             53 | Rati Zazadze               |            nan    |       21 |            nan    | Peyo Muscarditz     |             80 |
+|             80 | Hugo Bouyssou              |            nan    |       22 |            nan    | Franck Pourteau     |             80 |
 |             80 | Lasha Jaiani               |            nan    |       23 |            nan    | nan                 |            nan |
 

@@ -32,13 +32,13 @@ aside:
 
 | Club                     |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Black Lion               |                   2 |    2   |              46.8873 |                   0   |                1.6 |                  9.6 |
-| Delta                    |                   1 |    1   |             136.916  |                   0   |                0.9 |                  4.9 |
-| Romanian Wolves          |                   1 |    1   |              29.2035 |                   0   |                0.9 |                  4.9 |
-| Lusitanos XV             |                   2 |    0.7 |             -15.2738 |                   0.3 |                0.8 |                  3.8 |
-| Castilla y Leon Iberians |                   2 |    0.3 |             -31.6135 |                   0.3 |                0.4 |                  2   |
-| Brussels Devils          |                   1 |    0   |             -29.2035 |                   0   |                0.3 |                  0.4 |
-| Bohemia Rugby Warriors   |                   1 |    0   |            -136.916  |                   0   |                0.1 |                  0.1 |
+| Black Lion               |                   2 |    2   |              47.7499 |                   0   |                1.6 |                  9.6 |
+| Delta                    |                   1 |    1   |             136.16   |                   0   |                0.9 |                  4.9 |
+| Romanian Wolves          |                   1 |    1   |              29.5104 |                   0   |                0.9 |                  4.9 |
+| Lusitanos XV             |                   2 |    0.7 |             -15.9775 |                   0.3 |                0.8 |                  3.8 |
+| Castilla y Leon Iberians |                   2 |    0.3 |             -31.7725 |                   0.3 |                0.4 |                  1.9 |
+| Brussels Devils          |                   1 |    0   |             -29.5104 |                   0   |                0.3 |                  0.4 |
+| Bohemia Rugby Warriors   |                   1 |    0   |            -136.16   |                   0   |                0.1 |                  0.1 |
 
 
 
@@ -47,13 +47,13 @@ aside:
 
 | Club                     |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Black Lion               |               4 |    4   |             121.887  |                   0   |                1.6 |                 17.6 |
-| Delta                    |               3 |    3   |             163.916  |                   0   |                0.9 |                 12.9 |
-| Romanian Wolves          |               3 |    2   |              48.2035 |                   1   |                0.9 |                  9.9 |
-| Lusitanos XV             |               4 |    1.7 |             -21.2738 |                   0.3 |                0.8 |                  7.8 |
-| Brussels Devils          |               3 |    1   |             -31.2035 |                   0   |                0.3 |                  4.4 |
-| Castilla y Leon Iberians |               4 |    0.3 |            -100.614  |                   0.3 |                0.4 |                  2   |
-| Bohemia Rugby Warriors   |               3 |    0   |            -180.916  |                   0   |                0.1 |                  0.1 |
+| Black Lion               |               4 |    4   |             122.75   |                   0   |                1.6 |                 17.6 |
+| Delta                    |               3 |    3   |             163.16   |                   0   |                0.9 |                 12.9 |
+| Romanian Wolves          |               3 |    2   |              48.5104 |                   1   |                0.9 |                  9.9 |
+| Lusitanos XV             |               4 |    1.7 |             -21.9775 |                   0.3 |                0.8 |                  7.8 |
+| Brussels Devils          |               3 |    1   |             -31.5104 |                   0   |                0.3 |                  4.4 |
+| Castilla y Leon Iberians |               4 |    0.3 |            -100.772  |                   0.3 |                0.4 |                  1.9 |
+| Bohemia Rugby Warriors   |               3 |    0   |            -180.16   |                   0   |                0.1 |                  0.1 |
 
 
 
@@ -74,9 +74,9 @@ aside:
 ### Delta V Bohemia Rugby Warriors on 2024/09/27
 
 
-Average Margin: Delta by 136.9
+Average Margin: Delta by 136.2
 
-Average Scoreline: 90--47
+Average Scoreline: 90--46
 
 <p float="left">
 <img src="plots/performances_2024-09-27-Delta_V_BohemiaRugbyWarriors.png" width="32%" />
@@ -87,9 +87,9 @@ Average Scoreline: 90--47
 ### Black Lion V Castilla y Leon Iberians on 2024/09/28
 
 
-Average Margin: Black Lion by 27.3
+Average Margin: Black Lion by 27.4
 
-Average Scoreline: 40-13
+Average Scoreline: 40-12
 
 <p float="left">
 <img src="plots/performances_2024-09-28-BlackLion_V_CastillayLeonIberians.png" width="32%" />
@@ -100,7 +100,7 @@ Average Scoreline: 40-13
 ### Romanian Wolves V Brussels Devils on 2024/09/28
 
 
-Average Margin: Romanian Wolves by 29.2
+Average Margin: Romanian Wolves by 29.5
 
 Average Scoreline: 52-23
 
@@ -115,9 +115,9 @@ Average Scoreline: 52-23
 ### Black Lion V Lusitanos XV on 2024/10/12
 
 
-Average Margin: Black Lion by 19.6
+Average Margin: Black Lion by 20.4
 
-Average Scoreline: 33-14
+Average Scoreline: 34-14
 
 <p float="left">
 <img src="plots/performances_2024-10-12-BlackLion_V_LusitanosXV.png" width="32%" />
@@ -130,7 +130,7 @@ Average Scoreline: 33-14
 ### Castilla y Leon Iberians V Lusitanos XV on 2024/10/20
 
 
-Average Margin: Lusitanos XV by 4.3
+Average Margin: Lusitanos XV by 4.4
 
 Average Scoreline: 21-16
 

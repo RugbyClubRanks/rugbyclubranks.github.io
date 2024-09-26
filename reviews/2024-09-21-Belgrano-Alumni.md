@@ -11,7 +11,7 @@ categories: "URBA Top 13 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.66, which translates to predicting Belgrano to win by 5.9.
 
-Our Over/Under is 39.5 - and combined with the spread above, we have a predicted scoreline of 17 to 23
+Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 22 to 28
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,21 +69,21 @@ Alumni by 3.2 on a neutral pitch
 
 |   Away Minutes | Away Player                |   Away Percentile |   Number |   Home Percentile | Home Player            |   Home Minutes |
 |---------------:|:---------------------------|------------------:|---------:|------------------:|:-----------------------|---------------:|
-|             80 | Maximo Castillo            |             77.79 |        1 |             77.48 | Francisco Ferronato    |             80 |
-|             80 | Tomas Bivort               |             91.82 |        2 |             98.11 | Santiago Garcia Botta  |             80 |
-|             80 | Bautista Vidal             |             93.41 |        3 |             59.13 | Lisandro Garcia Dragui |             80 |
+|             80 | Maximo Castillo            |             77.89 |        1 |             77.28 | Francisco Ferronato    |             80 |
+|             80 | Tomas Bivort               |             92.03 |        2 |             97.48 | Santiago Garcia Botta  |             80 |
+|             80 | Bautista Vidal             |             93.41 |        3 |             59.43 | Lisandro Garcia Dragui |             80 |
 |             80 | Manuel Mora                |             93.32 |        4 |             72.14 | Augusto Vaccarino      |             80 |
-|             80 | Bernardo Quaranta          |             55.33 |        5 |             40.95 | Ramon Duggan           |             80 |
-|             80 | Ignacio Cubilla            |             89.02 |        6 |             78.94 | Joaquin de la Serna    |             80 |
-|             80 | Juan Anderson              |             92.38 |        7 |             69.25 | Julian Rebusone        |             80 |
-|             80 | Tobias Moyano              |             75.47 |        8 |             79.78 | Franco Vega            |             80 |
-|             80 | Tomas Passerotti           |             85.84 |        9 |             73.61 | Ignacio Marino         |             80 |
-|             80 | Joaquin Luzzi              |             92.18 |       10 |             70.67 | Juan Aparicio          |             80 |
-|             80 | Ramon Fuentes              |             87.05 |       11 |             82.78 | Tobias Bernabe         |             80 |
+|             80 | Bernardo Quaranta          |             55.33 |        5 |             41.08 | Ramon Duggan           |             80 |
+|             80 | Ignacio Cubilla            |             88.76 |        6 |             79.07 | Joaquin de la Serna    |             80 |
+|             80 | Juan Anderson              |             92.51 |        7 |             68.99 | Julian Rebusone        |             80 |
+|             80 | Tobias Moyano              |             74.66 |        8 |             79.78 | Franco Vega            |             80 |
+|             80 | Tomas Passerotti           |             85.62 |        9 |             73.61 | Ignacio Marino         |             80 |
+|             80 | Joaquin Luzzi              |             92.18 |       10 |             70.11 | Juan Aparicio          |             80 |
+|             80 | Ramon Fuentes              |             87.29 |       11 |             82.9  | Tobias Bernabe         |             80 |
 |             80 | Santiago Gonzalez Iglesias |             59.17 |       12 |             61.79 | Ramon Arana            |             80 |
-|             80 | Tomas Cubilla              |             74.9  |       13 |             38.76 | Santiago Ruzzante      |             80 |
-|             80 | Filipo Testoni             |             72.8  |       14 |             75.65 | Ignacio Diaz           |             80 |
-|             80 | Santiago Pernas            |             81.28 |       15 |             69.55 | Juan Lando             |             80 |
+|             80 | Tomas Cubilla              |             74.76 |       13 |             38.76 | Santiago Ruzzante      |             80 |
+|             80 | Filipo Testoni             |             72.92 |       14 |             75.89 | Ignacio Diaz           |             80 |
+|             80 | Santiago Pernas            |             81.28 |       15 |             69.27 | Juan Lando             |             80 |
 |              0 | Away Team 16               |            nan    |       16 |            nan    | Home Team 16           |              0 |
 |              0 | Away Team 17               |            nan    |       17 |            nan    | Home Team 17           |              0 |
 |              0 | Away Team 18               |            nan    |       18 |            nan    | Home Team 18           |              0 |

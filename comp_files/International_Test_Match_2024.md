@@ -100,12 +100,12 @@ aside:
 
 | Club       |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Kosovo     |                   1 |      1 |              42.5128 |                     0 |                0.9 |                  4.9 |
-| Chile      |                   1 |      1 |              39.5711 |                     0 |                0.9 |                  4.9 |
-| Moldova    |                   1 |      1 |              30.2862 |                     0 |                0.8 |                  4.8 |
-| Turkey     |                   1 |      0 |             -30.2862 |                     0 |                0.2 |                  0.2 |
-| Paraguay   |                   1 |      0 |             -39.5711 |                     0 |                0.1 |                  0.1 |
-| Montenegro |                   1 |      0 |             -42.5128 |                     0 |                0   |                  0   |
+| Chile      |                   1 |      1 |              38.8502 |                     0 |                0.9 |                  4.9 |
+| Kosovo     |                   1 |      1 |              29.622  |                     0 |                0.9 |                  4.8 |
+| Moldova    |                   1 |      1 |              29.5863 |                     0 |                0.9 |                  4.8 |
+| Turkey     |                   1 |      0 |             -29.5863 |                     0 |                0.2 |                  0.2 |
+| Montenegro |                   1 |      0 |             -29.622  |                     0 |                0   |                  0.2 |
+| Paraguay   |                   1 |      0 |             -38.8502 |                     0 |                0.1 |                  0.1 |
 
 
 
@@ -120,14 +120,14 @@ aside:
 | South Africa             |               4 |      3 |              77      |                     1 |                2   |                 15   |
 | Australia                |               3 |      3 |              28      |                     0 |                2   |                 14   |
 | New Zealand              |               3 |      3 |              50      |                     0 |                1   |                 13   |
-| Chile                    |               5 |      3 |             -20.4289 |                     0 |                0.9 |                 12.9 |
+| Chile                    |               5 |      3 |             -21.1498 |                     0 |                0.9 |                 12.9 |
 | Algeria                  |               4 |      3 |              16      |                     0 |                0   |                 12   |
 | Argentina                |               3 |      2 |              67      |                     0 |                2   |                 10   |
 | Italy                    |               3 |      2 |              42      |                     0 |                2   |                 10   |
 | France                   |               3 |      2 |              22      |                     0 |                1   |                  9   |
 | Samoa                    |               2 |      2 |              12      |                     0 |                0   |                  9   |
 | Uganda                   |               3 |      2 |              11      |                     1 |                0   |                  9   |
-| Moldova                  |               2 |      2 |              72.2862 |                     0 |                0.8 |                  8.8 |
+| Moldova                  |               2 |      2 |              71.5863 |                     0 |                0.9 |                  8.8 |
 | Luxembourg               |               2 |      2 |              80      |                     0 |                0   |                  8   |
 | Sri Lanka                |               2 |      2 |              73      |                     0 |                0   |                  8   |
 | Austria                  |               2 |      2 |              67      |                     0 |                0   |                  8   |
@@ -147,7 +147,7 @@ aside:
 | Senegal                  |               4 |      1 |             -19      |                     1 |                0   |                  5   |
 | Singapore                |               3 |      1 |             -21      |                     1 |                0   |                  5   |
 | Portugal                 |               2 |      1 |             -28      |                     0 |                1   |                  5   |
-| Kosovo                   |               1 |      1 |              42.5128 |                     0 |                0.9 |                  4.9 |
+| Kosovo                   |               1 |      1 |              29.622  |                     0 |                0.9 |                  4.8 |
 | Barbados                 |               1 |      1 |              84      |                     0 |                0   |                  4   |
 | Finland                  |               1 |      1 |              50      |                     0 |                0   |                  4   |
 | Jamaica                  |               1 |      1 |              34      |                     0 |                0   |                  4   |
@@ -176,15 +176,15 @@ aside:
 | Wales                    |               3 |      0 |             -45      |                     0 |                1   |                  1   |
 | Japan                    |               3 |      0 |             -65      |                     1 |                0   |                  1   |
 | Uruguay                  |               3 |      0 |            -101      |                     0 |                0   |                  1   |
-| Turkey                   |               1 |      0 |             -30.2862 |                     0 |                0.2 |                  0.2 |
-| Paraguay                 |               5 |      0 |            -260.571  |                     0 |                0.1 |                  0.1 |
+| Turkey                   |               1 |      0 |             -29.5863 |                     0 |                0.2 |                  0.2 |
+| Montenegro               |               1 |      0 |             -29.622  |                     0 |                0   |                  0.2 |
+| Paraguay                 |               5 |      0 |            -259.85   |                     0 |                0.1 |                  0.1 |
 | Cyprus                   |               1 |      0 |             -10      |                     0 |                0   |                  0   |
 | Guyana                   |               1 |      0 |             -23      |                     0 |                0   |                  0   |
 | Serbia                   |               1 |      0 |             -23      |                     0 |                0   |                  0   |
 | Tonga                    |               2 |      0 |             -31      |                     0 |                0   |                  0   |
 | Lithuania                |               2 |      0 |             -34      |                     0 |                0   |                  0   |
 | Ukraine                  |               2 |      0 |             -42      |                     0 |                0   |                  0   |
-| Montenegro               |               1 |      0 |             -42.5128 |                     0 |                0   |                  0   |
 | India                    |               2 |      0 |             -44      |                     0 |                0   |                  0   |
 | Burkina Faso             |               3 |      0 |             -56      |                     0 |                0   |                  0   |
 | Bahamas                  |               2 |      0 |             -64      |                     0 |                0   |                  0   |
@@ -201,7 +201,7 @@ aside:
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
 | Club Level | 75.0% | 20.4 |
-| Player Level: Lineup | 73.5% | 19.1 |
+| Player Level: Lineup | 73.5% | 19.0 |
 | Player Level: Minutes | 75.8% | 20.2 |
 
 
@@ -212,7 +212,7 @@ aside:
 ### Chile V Paraguay on 2024/09/28
 
 
-Average Margin: Chile by 39.6
+Average Margin: Chile by 38.9
 
 Average Scoreline: 47-8
 
@@ -225,7 +225,7 @@ Average Scoreline: 47-8
 ### Moldova V Turkey on 2024/09/28
 
 
-Average Margin: Moldova by 30.3
+Average Margin: Moldova by 29.6
 
 Average Scoreline: 34-4
 
@@ -238,9 +238,9 @@ Average Scoreline: 34-4
 ### Kosovo V Montenegro on 2024/09/29
 
 
-Average Margin: Kosovo by 42.5
+Average Margin: Kosovo by 29.6
 
-Average Scoreline: 42-0
+Average Scoreline: 32-3
 
 <p float="left">
 <img src="plots/performances_2024-09-29-Kosovo_V_Montenegro.png" width="32%" />
