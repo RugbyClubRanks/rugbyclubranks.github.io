@@ -9,7 +9,7 @@ categories: "Pro D2 2024" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.515, which translates to predicting Mont-de-Marsan to win by 0.5.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.517, which translates to predicting Mont-de-Marsan to win by 0.6.
 
 Our Over/Under is 32.5 - and combined with the spread above, we have a predicted scoreline of 16 to 17
 
@@ -42,5 +42,5 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Imputed Lineups: Brive by nan
 
 
-Brive by 1.9 on a neutral pitch
+Mont-de-Marsan by 0.6 on a neutral pitch
 

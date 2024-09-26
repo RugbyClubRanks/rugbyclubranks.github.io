@@ -11,7 +11,7 @@ categories: "Pro D2 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.639, which translates to predicting Colomiers to win by 5.0.
 
-Our Over/Under is 32.5 - and combined with the spread above, we have a predicted scoreline of 14 to 19
+Our Over/Under is 33.5 - and combined with the spread above, we have a predicted scoreline of 14 to 19
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Colomiers by 14.0
+## Prediction without Player Minutes: Colomiers by 13.8
 
 
-Colomiers by 6.1 on a neutral pitch
+Colomiers by 5.9 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,26 +69,26 @@ Colomiers by 6.1 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player               |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:--------------------------|---------------:|
-|             57 | Julien Royer        |              1.82 |        1 |             70.34 | Guillaume Tartas          |             24 |
-|             80 | Cyril Deligny       |              2.52 |        2 |             54.09 | Pablo Dimcheff            |             24 |
-|             20 | Gareth Milasinovich |             26.21 |        3 |             82.09 | Michael Simutoga          |             27 |
-|             80 | Éloi Massot         |              4.1  |        4 |             34.83 | Jean Thomas               |             80 |
-|             80 | Yassine Maamry      |             48.4  |        5 |             72.86 | Maxime Granouillet        |             27 |
-|             45 | Axel Bruchet        |             19.1  |        6 |             25.42 | Anthony Coletta           |             80 |
-|             80 | Adrien Roux         |             47.61 |        7 |             46.32 | Jeremy Bechu              |             56 |
-|             80 | Ilia Spanderashvili |             28.23 |        8 |             45.16 | Caleb Timu                |             41 |
-|             80 | Mattéo Rodor        |              8.15 |        9 |             28.33 | Ugo Seguela               |             19 |
-|             80 | Lucas Meret         |             28.97 |       10 |             17.27 | Joaquin de la Vega Mendia |             24 |
-|             80 | Mosese Mawalu       |             88.43 |       11 |             17.12 | Anzelo Tuitavuki          |             80 |
-|             51 | Louis Marrou        |             85.58 |       12 |             73.21 | Ray Nu'u                  |             80 |
-|             80 | Mathieu Guillomot   |              4.95 |       13 |             91.9  | Rodrigo Marta             |             47 |
-|             41 | Owen Lane           |              2.72 |       14 |             89.96 | Vincent Pinto             |             41 |
-|             63 | Joris De Moura      |             41.62 |       15 |              3.91 | Valentin Saurs            |             80 |
-|             58 | Anthony Aléo        |             42.51 |       16 |            nan    | Robin Bellemand           |             28 |
-|             64 | Dorian Marco Pena   |             47.17 |       17 |             81.97 | Theo Lachaud              |             80 |
-|             80 | Kevin Goze          |             84.82 |       18 |             58.45 | Pierre-Samuel Pacheco     |             51 |
-|             65 | Nathan Huguen       |            nan    |       19 |             48.53 | Janse Roux                |             80 |
-|             80 | Thomas Lhusero      |             82.4  |       20 |             88.65 | Aldric Lescure            |             53 |
-|             58 | George Worth        |             32.4  |       21 |             50.86 | Mathis Galthié            |             17 |
-|             56 | Otar Giorgadze      |             65.86 |       22 |             38.27 | Ugo Pacome                |             80 |
+|             48 | Julien Royer        |              2.23 |        1 |             70.28 | Guillaume Tartas          |             58 |
+|             80 | Cyril Deligny       |              2.52 |        2 |             47.8  | Pablo Dimcheff            |             59 |
+|             80 | Gareth Milasinovich |             19.27 |        3 |             83.16 | Michael Simutoga          |             39 |
+|             80 | Éloi Massot         |              4.11 |        4 |             37.61 | Jean Thomas               |             80 |
+|             53 | Yassine Maamry      |             48.52 |        5 |             66.75 | Maxime Granouillet        |             21 |
+|             53 | Axel Bruchet        |             15.37 |        6 |             28.29 | Anthony Coletta           |             51 |
+|             80 | Adrien Roux         |             47.67 |        7 |             43.54 | Jeremy Bechu              |             51 |
+|             80 | Ilia Spanderashvili |             25.07 |        8 |             45.82 | Caleb Timu                |             52 |
+|             69 | Mattéo Rodor        |              8.15 |        9 |             37.55 | Ugo Seguela               |             28 |
+|             64 | Lucas Meret         |             22.63 |       10 |             16.2  | Joaquin de la Vega Mendia |             80 |
+|             27 | Mosese Mawalu       |             88    |       11 |             12.95 | Anzelo Tuitavuki          |             28 |
+|             80 | Louis Marrou        |             88    |       12 |             68.14 | Ray Nu'u                  |             80 |
+|             16 | Mathieu Guillomot   |              3.86 |       13 |             91.59 | Rodrigo Marta             |             80 |
+|             80 | Owen Lane           |              2.85 |       14 |             86.22 | Vincent Pinto             |             22 |
+|             80 | Joris De Moura      |             47.21 |       15 |              2.23 | Valentin Saurs            |             80 |
+|             41 | Anthony Aléo        |             30.63 |       16 |            nan    | Robin Bellemand           |             57 |
+|             23 | Dorian Marco Pena   |             46.96 |       17 |             81.76 | Theo Lachaud              |             80 |
+|             56 | Kevin Goze          |             89.76 |       18 |             58.53 | Pierre-Samuel Pacheco     |             22 |
+|             40 | Nathan Huguen       |            nan    |       19 |             51.86 | Janse Roux                |             39 |
+|             49 | Thomas Lhusero      |             81.33 |       20 |             87.86 | Aldric Lescure            |             25 |
+|             80 | George Worth        |             32.4  |       21 |             51.07 | Mathis Galthié            |             27 |
+|             80 | Otar Giorgadze      |             65.77 |       22 |             41.62 | Ugo Pacome                |             80 |
 

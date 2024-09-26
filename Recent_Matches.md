@@ -60,11 +60,11 @@ Last Round Error: 5.59 points per match
 
 Competition Accuracy: 4 of 5 (80.0%)
 
-Competition Error: 10.68 points per match
+Competition Error: 10.69 points per match
 
 Last Round Accuracy: 4 of 5 (80.0%)
 
-Last Round Error: 10.68 points per match
+Last Round Error: 10.69 points per match
 
 [2024-09-20 Bristol Rugby at Newcastle Falcons; 24-3](reviews//2024-09-20-NewcastleFalcons-BristolRugby)
 
@@ -150,11 +150,11 @@ Last Round Error: 9.19 points per match
 
 Competition Accuracy: 4 of 6 (66.67%)
 
-Competition Error: 6.5 points per match
+Competition Error: 6.56 points per match
 
 Last Round Accuracy: 4 of 6 (66.67%)
 
-Last Round Error: 6.5 points per match
+Last Round Error: 6.56 points per match
 
 [2024-09-20 Leinster at Edinburgh; 33-31](reviews//2024-09-20-Edinburgh-Leinster)
 
@@ -208,7 +208,7 @@ Competition Error: 15.36 points per match
 
 Last Round Accuracy: 2 of 5 (40.0%)
 
-Last Round Error: 6.15 points per match
+Last Round Error: 6.14 points per match
 
 [2024-09-21 Sharks at Golden Lions; 16-14](reviews//2024-09-21-GoldenLions-Sharks)
 ## Pro D2

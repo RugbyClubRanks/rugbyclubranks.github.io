@@ -9,7 +9,7 @@ categories: "WXV 2 2024" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.527, which translates to predicting Italy Women to win by 1.0.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.521, which translates to predicting Italy Women to win by 0.8.
 
 Our Over/Under is 26.5 - and combined with the spread above, we have a predicted scoreline of 13 to 14
 

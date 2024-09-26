@@ -9,7 +9,7 @@ categories: "Pro D2 2024" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.702, which translates to predicting Nevers to win by 7.2.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.704, which translates to predicting Nevers to win by 7.3.
 
 Our Over/Under is 29.5 - and combined with the spread above, we have a predicted scoreline of 11 to 18
 
@@ -42,5 +42,5 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Imputed Lineups: Montauban by nan
 
 
-Nevers by 4.2 on a neutral pitch
+Nevers by 4.7 on a neutral pitch
 
