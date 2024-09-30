@@ -136,7 +136,7 @@ key: page-recents
 ## United Rugby Championship
 
 
-[2024](comp_files\United_Rugby_Championship_2024) - Prediction Accuracy: 66.7% 
+[2024](comp_files\United_Rugby_Championship_2024) - Prediction Accuracy: 75.0% 
 
 [2023](comp_files\United_Rugby_Championship_2023) - Prediction Accuracy: 76.7% 
 
@@ -172,7 +172,7 @@ key: page-recents
 ## Gallagher Premiership
 
 
-[2024](comp_files\Gallagher_Premiership_2024) - Prediction Accuracy: 80.0% 
+[2024](comp_files\Gallagher_Premiership_2024) - Prediction Accuracy: 66.7% 
 
 [2023](comp_files\Gallagher_Premiership_2023) - Prediction Accuracy: 64.0% 
 
@@ -326,7 +326,7 @@ key: page-recents
 ## Nationale
 
 
-[2024](comp_files\Nationale_2024) - Prediction Accuracy: 82.8% 
+[2024](comp_files\Nationale_2024) - Prediction Accuracy: 77.4% 
 
 [2023](comp_files\Nationale_2023) - Prediction Accuracy: 74.9% 
 
@@ -338,7 +338,7 @@ key: page-recents
 ## Pro D2
 
 
-[2024](comp_files\Pro_D2_2024) - Prediction Accuracy: 53.1% 
+[2024](comp_files\Pro_D2_2024) - Prediction Accuracy: 55.0% 
 
 [2023](comp_files\Pro_D2_2023) - Prediction Accuracy: 74.3% 
 

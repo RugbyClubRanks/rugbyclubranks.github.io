@@ -1,6 +1,6 @@
 ---  
 title: "Rugby Europe Super Cup 2024 Status"  
-date: 2024-09-26 6:00:00 -0500  
+date: 2024-09-30 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,13 +17,13 @@ aside:
 
 | Club                     |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Black Lion               |        2 |      2 |                   75 |                     0 |                nan |                    8 |
-| Delta                    |        2 |      2 |                   27 |                     0 |                nan |                    8 |
-| Romanian Wolves          |        2 |      1 |                   19 |                     1 |                nan |                    5 |
-| Brussels Devils          |        2 |      1 |                   -2 |                     0 |                nan |                    4 |
+| Black Lion               |        3 |      3 |                  101 |                     0 |                nan |                   12 |
+| Delta                    |        3 |      3 |                   46 |                     0 |                nan |                   12 |
+| Romanian Wolves          |        3 |      2 |                   41 |                     1 |                nan |                    9 |
 | Lusitanos XV             |        2 |      1 |                   -6 |                     0 |                nan |                    4 |
-| Bohemia Rugby Warriors   |        2 |      0 |                  -44 |                     0 |                nan |                    0 |
-| Castilla y Leon Iberians |        2 |      0 |                  -69 |                     0 |                nan |                    0 |
+| Brussels Devils          |        3 |      1 |                  -24 |                     0 |                nan |                    4 |
+| Bohemia Rugby Warriors   |        3 |      0 |                  -63 |                     0 |                nan |                    0 |
+| Castilla y Leon Iberians |        3 |      0 |                  -95 |                     0 |                nan |                    0 |
 
 
 
@@ -32,13 +32,9 @@ aside:
 
 | Club                     |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Black Lion               |                   2 |    2   |              47.7499 |                   0   |                1.6 |                  9.6 |
-| Delta                    |                   1 |    1   |             136.16   |                   0   |                0.9 |                  4.9 |
-| Romanian Wolves          |                   1 |    1   |              29.5104 |                   0   |                0.9 |                  4.9 |
-| Lusitanos XV             |                   2 |    0.7 |             -15.9775 |                   0.3 |                0.8 |                  3.8 |
-| Castilla y Leon Iberians |                   2 |    0.3 |             -31.7725 |                   0.3 |                0.4 |                  1.9 |
-| Brussels Devils          |                   1 |    0   |             -29.5104 |                   0   |                0.3 |                  0.4 |
-| Bohemia Rugby Warriors   |                   1 |    0   |            -136.16   |                   0   |                0.1 |                  0.1 |
+| Black Lion               |                   1 |    1   |              19.6377 |                   0   |                0.8 |                  4.8 |
+| Lusitanos XV             |                   2 |    0.7 |             -15.2009 |                   0.2 |                0.7 |                  3.7 |
+| Castilla y Leon Iberians |                   1 |    0.3 |              -4.4368 |                   0.3 |                0.4 |                  1.9 |
 
 
 
@@ -47,13 +43,13 @@ aside:
 
 | Club                     |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Black Lion               |               4 |    4   |             122.75   |                   0   |                1.6 |                 17.6 |
-| Delta                    |               3 |    3   |             163.16   |                   0   |                0.9 |                 12.9 |
-| Romanian Wolves          |               3 |    2   |              48.5104 |                   1   |                0.9 |                  9.9 |
-| Lusitanos XV             |               4 |    1.7 |             -21.9775 |                   0.3 |                0.8 |                  7.8 |
-| Brussels Devils          |               3 |    1   |             -31.5104 |                   0   |                0.3 |                  4.4 |
-| Castilla y Leon Iberians |               4 |    0.3 |            -100.772  |                   0.3 |                0.4 |                  1.9 |
-| Bohemia Rugby Warriors   |               3 |    0   |            -180.16   |                   0   |                0.1 |                  0.1 |
+| Black Lion               |               4 |    4   |             120.638  |                   0   |                0.8 |                 16.8 |
+| Delta                    |               3 |    3   |              46      |                   0   |                0   |                 12   |
+| Romanian Wolves          |               3 |    2   |              41      |                   1   |                0   |                  9   |
+| Lusitanos XV             |               4 |    1.7 |             -21.2009 |                   0.2 |                0.7 |                  7.7 |
+| Brussels Devils          |               3 |    1   |             -24      |                   0   |                0   |                  4   |
+| Castilla y Leon Iberians |               4 |    0.3 |             -99.4368 |                   0.3 |                0.4 |                  1.9 |
+| Bohemia Rugby Warriors   |               3 |    0   |             -63      |                   0   |                0   |                  0   |
 
 
 
@@ -62,62 +58,21 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 71.4% | 56.5 |
+| Club Level | 80.0% | 51.9 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
 
 # Future Predictions
 
-## Week 3
-
-### Delta V Bohemia Rugby Warriors on 2024/09/27
-
-
-Average Margin: Delta by 136.2
-
-Average Scoreline: 90--46
-
-<p float="left">
-<img src="plots/performances_2024-09-27-Delta_V_BohemiaRugbyWarriors.png" width="32%" />
-<img src="plots/resultbar_2024-09-27-Delta_V_BohemiaRugbyWarriors.png" width="32%" />
-<img src="plots/spreads_2024-09-27-Delta_V_BohemiaRugbyWarriors.png" width="32%" />
-</p>
-
-### Black Lion V Castilla y Leon Iberians on 2024/09/28
-
-
-Average Margin: Black Lion by 27.4
-
-Average Scoreline: 40-12
-
-<p float="left">
-<img src="plots/performances_2024-09-28-BlackLion_V_CastillayLeonIberians.png" width="32%" />
-<img src="plots/resultbar_2024-09-28-BlackLion_V_CastillayLeonIberians.png" width="32%" />
-<img src="plots/spreads_2024-09-28-BlackLion_V_CastillayLeonIberians.png" width="32%" />
-</p>
-
-### Romanian Wolves V Brussels Devils on 2024/09/28
-
-
-Average Margin: Romanian Wolves by 29.5
-
-Average Scoreline: 52-23
-
-<p float="left">
-<img src="plots/performances_2024-09-28-RomanianWolves_V_BrusselsDevils.png" width="32%" />
-<img src="plots/resultbar_2024-09-28-RomanianWolves_V_BrusselsDevils.png" width="32%" />
-<img src="plots/spreads_2024-09-28-RomanianWolves_V_BrusselsDevils.png" width="32%" />
-</p>
-
 ## Week 4
 
 ### Black Lion V Lusitanos XV on 2024/10/12
 
 
-Average Margin: Black Lion by 20.4
+Average Margin: Black Lion by 19.6
 
-Average Scoreline: 34-14
+Average Scoreline: 39-20
 
 <p float="left">
 <img src="plots/performances_2024-10-12-BlackLion_V_LusitanosXV.png" width="32%" />
@@ -132,7 +87,7 @@ Average Scoreline: 34-14
 
 Average Margin: Lusitanos XV by 4.4
 
-Average Scoreline: 21-16
+Average Scoreline: 24-19
 
 <p float="left">
 <img src="plots/performances_2024-10-20-CastillayLeonIberians_V_LusitanosXV.png" width="32%" />

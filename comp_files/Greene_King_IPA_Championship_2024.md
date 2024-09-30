@@ -1,6 +1,6 @@
 ---  
 title: "Greene King IPA Championship 2024 Status"  
-date: 2024-09-26 6:00:00 -0500  
+date: 2024-09-27 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -27,8 +27,8 @@ aside:
 
 | Club     |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Coventry |                   4 |    3.9 |              44.0478 |                   0.1 |                3.1 |                 18.8 |
-| Bedford  |                   4 |    0.1 |             -44.0478 |                   0.7 |                0.6 |                  1.7 |
+| Coventry |                   4 |    3.9 |              44.9934 |                   0.1 |                3.1 |                 18.9 |
+| Bedford  |                   4 |    0.1 |             -44.9934 |                   0.8 |                0.6 |                  1.7 |
 
 
 
@@ -37,9 +37,9 @@ aside:
 
 | Club                |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Coventry            |               4 |    3.9 |              44.0478 |                   0.1 |                3.1 |                 18.8 |
+| Coventry            |               4 |    3.9 |              44.9934 |                   0.1 |                3.1 |                 18.9 |
 | Ealing Trailfinders |               1 |    1   |              34      |                   0   |                0   |                  4   |
-| Bedford             |               4 |    0.1 |             -44.0478 |                   0.7 |                0.6 |                  1.7 |
+| Bedford             |               4 |    0.1 |             -44.9934 |                   0.8 |                0.6 |                  1.7 |
 | Hartpury College    |               1 |    0   |             -34      |                   0   |                0   |                  0   |
 
 
@@ -61,7 +61,7 @@ aside:
 ### Coventry V Bedford on 2024/09/28
 
 
-Average Margin: Coventry by 11.0
+Average Margin: Coventry by 11.2
 
 Average Scoreline: 29-18
 
@@ -74,7 +74,7 @@ Average Scoreline: 29-18
 ### Coventry V Bedford on 2024/09/28
 
 
-Average Margin: Coventry by 11.0
+Average Margin: Coventry by 11.2
 
 Average Scoreline: 29-18
 
@@ -87,7 +87,7 @@ Average Scoreline: 29-18
 ### Coventry V Bedford on 2024/09/28
 
 
-Average Margin: Coventry by 11.0
+Average Margin: Coventry by 11.2
 
 Average Scoreline: 29-18
 
@@ -100,7 +100,7 @@ Average Scoreline: 29-18
 ### Coventry V Bedford on 2024/09/28
 
 
-Average Margin: Coventry by 11.0
+Average Margin: Coventry by 11.2
 
 Average Scoreline: 29-18
 
