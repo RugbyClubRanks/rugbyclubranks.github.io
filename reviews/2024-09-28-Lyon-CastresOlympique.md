@@ -11,7 +11,7 @@ categories: "Top 14 Orange 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.644, which translates to predicting Lyon to win by 5.2.
 
-Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 20 to 26
+Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 21 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,7 +39,7 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Lyon by 9.5
+## Prediction without Player Minutes: Lyon by 9.6
 
 
 Lyon by 1.8 on a neutral pitch
@@ -84,12 +84,12 @@ Lyon by 1.8 on a neutral pitch
 |             15 | Vilimoni Botitu       |            nan    |       13 |            nan    | Semi Radradra        |             59 |
 |             22 | Christian Ambadiang   |            nan    |       14 |            nan    | Ethan Dumortier      |             80 |
 |             32 | Geoffrey Palis        |            nan    |       15 |            nan    | Alexandre Tchaptchet |             29 |
-|             50 | Loris Zarantonello    |             34.96 |       16 |            nan    | Sam Matavesi         |             28 |
+|             50 | Loris Zarantonello    |             34.7  |       16 |            nan    | Sam Matavesi         |             28 |
 |             80 | Wayan De Benedittis   |            nan    |       17 |            nan    | Hamza Kaabeche       |             28 |
-|             37 | Leone Nakarawa        |            nan    |       18 |             49.6  | Killian Géraci       |             39 |
-|             54 | Feibyan Tukino        |            nan    |       19 |             26.93 | Theo William         |             26 |
-|             80 | Gauthier Doubrere     |             51.84 |       20 |            nan    | Martin Page-Relo     |             32 |
-|             45 | Joris Dupont          |             67.34 |       21 |             11.07 | Martin Meliande      |             21 |
+|             37 | Leone Nakarawa        |            nan    |       18 |             49.92 | Killian Géraci       |             39 |
+|             54 | Feibyan Tukino        |            nan    |       19 |             27.09 | Theo William         |             26 |
+|             80 | Gauthier Doubrere     |             52.37 |       20 |            nan    | Martin Page-Relo     |             32 |
+|             45 | Joris Dupont          |             67.5  |       21 |             11.07 | Martin Meliande      |             21 |
 |             80 | Theo Chabouni         |            nan    |       22 |            nan    | Steeve Blanc-Mappaz  |             54 |
-|             80 | Aurelien Azar         |             48.67 |       23 |             68.11 | Feao Fotuaika        |             80 |
+|             80 | Aurelien Azar         |             48.92 |       23 |             70.27 | Feao Fotuaika        |             80 |
 

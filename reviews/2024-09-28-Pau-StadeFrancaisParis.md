@@ -11,7 +11,7 @@ categories: "Top 14 Orange 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.584, which translates to predicting Pau to win by 3.0.
 
-Our Over/Under is 39.5 - and combined with the spread above, we have a predicted scoreline of 18 to 21
+Our Over/Under is 34.5 - and combined with the spread above, we have a predicted scoreline of 16 to 19
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Pau by 11.8
+## Prediction without Player Minutes: Pau by 11.6
 
 
-Pau by 3.6 on a neutral pitch
+Pau by 3.4 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -84,12 +84,12 @@ Pau by 3.6 on a neutral pitch
 |             80 | Joe Marchant           |               nan |       13 |            nan    | Emilien Gailleton   |             56 |
 |             25 | Peniasi Dakuwaqa       |               nan |       14 |            nan    | Theo Attissogbe     |             64 |
 |             80 | Joe Jonas              |               nan |       15 |            nan    | Jack Maddocks       |             35 |
-|             80 | Mamoudou Meïté         |               nan |       16 |             67.35 | Romain Ruffenach    |              0 |
+|             80 | Mamoudou Meïté         |               nan |       16 |             67.61 | Romain Ruffenach    |              0 |
 |             80 | Isaac Koffi            |               nan |       17 |            nan    | Guram Papidze       |             61 |
 |             78 | Paul Gabrillagues      |               nan |       18 |            nan    | Lekima Tagitagivalu |             53 |
 |             59 | Romain Briatte         |               nan |       19 |            nan    | Joel Kpoku          |             23 |
 |             80 | Jules Gimbert          |               nan |       20 |            nan    | Dan Robson          |             80 |
 |             21 | Leo Barre              |               nan |       21 |            nan    | Axel Desperes       |             64 |
 |             55 | Lester Etien           |               nan |       22 |            nan    | Nathan Decron       |             80 |
-|             80 | Francisco Gomez Kodela |               nan |       23 |             69    | Jon Zabala          |             80 |
+|             80 | Francisco Gomez Kodela |               nan |       23 |             70.52 | Jon Zabala          |             80 |
 

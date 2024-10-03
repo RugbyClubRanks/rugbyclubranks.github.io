@@ -11,7 +11,7 @@ categories: "Gallagher Premiership 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.699, which translates to predicting Bristol Rugby to win by 7.5.
 
-Our Over/Under is 57.5 - and combined with the spread above, we have a predicted scoreline of 25 to 32
+Our Over/Under is 56.5 - and combined with the spread above, we have a predicted scoreline of 25 to 32
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Bristol Rugby by 11.3
+## Prediction without Player Minutes: Bristol Rugby by 11.6
 
 
-Bristol Rugby by 6.3 on a neutral pitch
+Bristol Rugby by 6.6 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -75,7 +75,7 @@ Bristol Rugby by 6.3 on a neutral pitch
 |             59 | Freddie Thomas      |            nan    |        4 |            nan    | James Dun                  |             62 |
 |             59 | Matias Alemanno     |            nan    |        5 |            nan    | Joe Batley                 |             80 |
 |             50 | Jack Clement        |            nan    |        6 |            nan    | Steven Luatua              |             80 |
-|             61 | Harry Taylor        |             81.44 |        7 |            nan    | Jake Heenan                |             52 |
+|             61 | Harry Taylor        |             80.62 |        7 |            nan    | Jake Heenan                |             52 |
 |             18 | Zach Mercer         |            nan    |        8 |            nan    | Fitz Harding               |             59 |
 |             50 | Tomos Williams      |            nan    |        9 |            nan    | Harry Randall              |             80 |
 |             15 | Gareth Anscombe     |            nan    |       10 |            nan    | AJ MacGinty                |             62 |
@@ -84,12 +84,12 @@ Bristol Rugby by 6.3 on a neutral pitch
 |             10 | Chris Harris        |            nan    |       13 |            nan    | Benhard Janse van Rensburg |             40 |
 |              0 | Christian Wade      |            nan    |       14 |            nan    | Ratu Naulago               |             27 |
 |              9 | George Barton       |            nan    |       15 |            nan    | Max Malins                 |             30 |
-|             40 | Seb Blake           |             68.64 |       16 |             35.48 | Will Capon                 |             80 |
-|             52 | Jamal Ford-Robinson |             32.91 |       17 |             89.96 | Jake Woolmore              |             40 |
-|             63 | Afolabi Fasogbon    |            nan    |       18 |             75.86 | Max Lahiff                 |             40 |
-|             80 | Freddie Clarke      |             80.19 |       19 |             81.8  | Josh Caulfield             |             63 |
+|             40 | Seb Blake           |             68.64 |       16 |             35.22 | Will Capon                 |             80 |
+|             52 | Jamal Ford-Robinson |             32.78 |       17 |             89.96 | Jake Woolmore              |             40 |
+|             63 | Afolabi Fasogbon    |            nan    |       18 |             76.24 | Max Lahiff                 |             40 |
+|             80 | Freddie Clarke      |             80.52 |       19 |             81.64 | Josh Caulfield             |             63 |
 |             62 | Ruan Ackermann      |            nan    |       20 |            nan    | Benjamín Grondona          |             50 |
 |             80 | Albert Tuisue       |            nan    |       21 |            nan    | Kieran Marmion             |             80 |
 |             70 | Caolan Englefield   |             87.89 |       22 |            nan    | Joe Jenkins                |             17 |
-|             80 | Charlie Atkinson    |             72.32 |       23 |             72.1  | Richard Lane               |             80 |
+|             80 | Charlie Atkinson    |             71.96 |       23 |             72.1  | Richard Lane               |             80 |
 

@@ -9,9 +9,9 @@ categories: "Nationale 2024" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.426, which translates to predicting Langon to win by 2.9.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.432, which translates to predicting Langon to win by 2.7.
 
-Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 25 to 22
+Our Over/Under is 44.5 - and combined with the spread above, we have a predicted scoreline of 23 to 21
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -42,5 +42,5 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Imputed Lineups: Langon by nan
 
 
-Rouen by 5.2 on a neutral pitch
+Rouen by 5.1 on a neutral pitch
 

@@ -9,9 +9,9 @@ categories: "Top 14 Orange 2024" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.397, which translates to predicting Racing 92 to win by 3.5.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.4, which translates to predicting Racing 92 to win by 3.4.
 
-Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 29 to 25
+Our Over/Under is 54.5 - and combined with the spread above, we have a predicted scoreline of 29 to 25
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -42,5 +42,5 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Imputed Lineups: Racing 92 by nan
 
 
-Racing 92 by 3.7 on a neutral pitch
+Racing 92 by 3.9 on a neutral pitch
 

@@ -9,9 +9,9 @@ categories: "RFU Championship 2024" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.901, which translates to predicting Chinnor to win by 19.0.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.895, which translates to predicting Chinnor to win by 18.5.
 
-Our Over/Under is 61.5 - and combined with the spread above, we have a predicted scoreline of 21 to 40
+Our Over/Under is 59.5 - and combined with the spread above, we have a predicted scoreline of 21 to 39
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model

@@ -11,7 +11,7 @@ categories: "Top 14 Orange 2024" match projection imputed
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.787, which translates to predicting Bordeaux Begles to win by 11.1.
 
-Our Over/Under is 62.5 - and combined with the spread above, we have a predicted scoreline of 26 to 37
+Our Over/Under is 54.5 - and combined with the spread above, we have a predicted scoreline of 22 to 33
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -42,5 +42,5 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Imputed Lineups: Bayonne by nan
 
 
-Bordeaux Begles by 5.6 on a neutral pitch
+Bordeaux Begles by 5.7 on a neutral pitch
 

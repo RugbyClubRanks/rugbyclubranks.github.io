@@ -11,7 +11,7 @@ categories: "Top 14 Orange 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.719, which translates to predicting Stade Toulousain to win by 8.3.
 
-Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 19 to 27
+Our Over/Under is 34.5 - and combined with the spread above, we have a predicted scoreline of 13 to 21
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -84,12 +84,12 @@ Stade Toulousain by 10.8 on a neutral pitch
 |             68 | Yoram Moefana             |            nan    |       13 |            nan    | Pierre-Louis Barassi |             63 |
 |             61 | Arthur Retiere            |            nan    |       14 |            nan    | Ange Capuozzo        |             68 |
 |             49 | Louis Bielle-Biarrey      |            nan    |       15 |            nan    | Thomas Ramos         |             47 |
-|             61 | Maxime Lamothe            |            nan    |       16 |             97.69 | Peato Mauvaka        |             80 |
+|             61 | Maxime Lamothe            |            nan    |       16 |             97.43 | Peato Mauvaka        |             80 |
 |             80 | Jefferson Poirot          |            nan    |       17 |            nan    | Rodrigue Neti        |             47 |
 |             80 | Cyril Cazeaux             |            nan    |       18 |            nan    | Joshua Brennan       |             80 |
-|             80 | Alexandre Ricard          |             63.12 |       19 |            nan    | Richie Arnold        |             58 |
+|             80 | Alexandre Ricard          |             63.45 |       19 |            nan    | Richie Arnold        |             58 |
 |             80 | Temo Matiu                |            nan    |       20 |             98.63 | Anthony Jelonch      |             80 |
-|             80 | Mateo Garcia              |             46.86 |       21 |            nan    | Naoto Saito          |             38 |
-|             57 | Enzo Reybier              |             54.79 |       22 |            nan    | Dimitri Delibes      |             68 |
-|             80 | Carlu Sadie               |            nan    |       23 |             82.59 | Joel Merkler         |             80 |
+|             80 | Mateo Garcia              |             47.6  |       21 |            nan    | Naoto Saito          |             38 |
+|             57 | Enzo Reybier              |             53.9  |       22 |            nan    | Dimitri Delibes      |             68 |
+|             80 | Carlu Sadie               |            nan    |       23 |             82.47 | Joel Merkler         |             80 |
 

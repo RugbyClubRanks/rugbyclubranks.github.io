@@ -172,7 +172,7 @@ Competition Error: 9.82 points per match
 
 Last Round Accuracy: 5 of 7 (71.43%)
 
-Last Round Error: 11.56 points per match
+Last Round Error: 11.55 points per match
 
 [2024-09-28 Stade Francais Paris at Pau; 16-30](reviews//2024-09-28-Pau-StadeFrancaisParis)
 
@@ -180,9 +180,9 @@ Last Round Error: 11.56 points per match
 
 [2024-09-28 Vannes at Toulon; 19-54](reviews//2024-09-28-Toulon-Vannes)
 
-[2024-09-28 La Rochelle at Racing 92; 17-16](reviews//2024-09-28-Racing92-LaRochelle)
-
 [2024-09-28 Castres Olympique at Lyon; 38-40](reviews//2024-09-28-Lyon-CastresOlympique)
+
+[2024-09-28 La Rochelle at Racing 92; 17-16](reviews//2024-09-28-Racing92-LaRochelle)
 
 [2024-09-28 Montpellier Herault at Bayonne; 27-28](reviews//2024-09-28-Bayonne-MontpellierHerault)
 
@@ -194,11 +194,11 @@ Last Round Error: 11.56 points per match
 
 Competition Accuracy: 9 of 14 (64.29%)
 
-Competition Error: 9.6 points per match
+Competition Error: 9.58 points per match
 
 Last Round Accuracy: 5 of 8 (62.5%)
 
-Last Round Error: 11.92 points per match
+Last Round Error: 11.84 points per match
 
 [2024-09-27 Dragons at Leinster; 6-17](reviews//2024-09-27-Leinster-Dragons)
 
@@ -242,21 +242,21 @@ Last Round Error: 14.11 points per match
 
 [In depth model review and projections for Nationale 2024](comp_files/Nationale_2024)
 
-Competition Accuracy: 29 of 35 (82.86%)
+Competition Accuracy: 31 of 38 (81.58%)
 
-Competition Error: 9.16 points per match
+Competition Error: 9.9 points per match
 
-Last Round Accuracy: 5 of 7 (71.43%)
+Last Round Accuracy: 6 of 7 (85.71%)
 
-Last Round Error: 12.41 points per match
+Last Round Error: 16.6 points per match
 
 [2024-09-27 Chambery at Carcassonne; 14-16](reviews//2024-09-27-Carcassonne-Chambery)
 
 [2024-09-27 Rouen at Albi; 23-23](reviews//2024-09-27-Albi-Rouen)
 
-[2024-09-28 Bourgoin-Jallieu at Perigueux; 0-34](reviews//2024-09-28-Perigueux-Bourgoin-Jallieu)
-
 [2024-09-28 Tarbes at Suresnes; 38-39](reviews//2024-09-28-Suresnes-Tarbes)
+
+[2024-09-28 Bourgoin-Jallieu at Perigueux; 0-34](reviews//2024-09-28-Perigueux-Bourgoin-Jallieu)
 
 [2024-09-28 Carqueiranne-Hyeres at Narbonne; 0-25](reviews//2024-09-28-Narbonne-Carqueiranne-Hyeres)
 
@@ -270,21 +270,21 @@ Last Round Error: 12.41 points per match
 
 Competition Accuracy: 21 of 40 (52.5%)
 
-Competition Error: 10.57 points per match
+Competition Error: 10.56 points per match
 
 Last Round Accuracy: 4 of 8 (50.0%)
 
-Last Round Error: 14.05 points per match
+Last Round Error: 14.04 points per match
 
 [2024-09-26 Grenoble at Biarritz Olympique; 15-35](reviews//2024-09-26-BiarritzOlympique-Grenoble)
 
-[2024-09-27 Oyonnax at Provence Rugby; 3-38](reviews//2024-09-27-ProvenceRugby-Oyonnax)
-
 [2024-09-27 Soyaux-Angouleme at Dax; 16-8](reviews//2024-09-27-Dax-Soyaux-Angouleme)
+
+[2024-09-27 Beziers at Aurillac; 15-16](reviews//2024-09-27-Aurillac-Beziers)
 
 [2024-09-27 Brive at Mont-de-Marsan; 11-33](reviews//2024-09-27-Mont-de-Marsan-Brive)
 
-[2024-09-27 Beziers at Aurillac; 15-16](reviews//2024-09-27-Aurillac-Beziers)
+[2024-09-27 Oyonnax at Provence Rugby; 3-38](reviews//2024-09-27-ProvenceRugby-Oyonnax)
 
 [2024-09-27 Agen at Valence Romans Drome Rugby; 25-30](reviews//2024-09-27-ValenceRomansDromeRugby-Agen)
 
@@ -306,12 +306,12 @@ Last Round Error: 9.62 points per match
 
 [2024-09-28 CASI at Atletico del Rosario; 59-34](reviews//2024-09-28-AtleticodelRosario-CASI)
 
-[2024-09-28 Regatas Bella Vista at Newman; 37-33](reviews//2024-09-28-Newman-RegatasBellaVista)
-
 [2024-09-28 San Luis at Buenos Aires; 27-32](reviews//2024-09-28-BuenosAires-SanLuis)
 
 [2024-09-28 CUBA at Champagnat; 47-32](reviews//2024-09-28-Champagnat-CUBA)
 
-[2024-09-28 SIC at Alumni; 20-13](reviews//2024-09-28-Alumni-SIC)
+[2024-09-28 Regatas Bella Vista at Newman; 37-33](reviews//2024-09-28-Newman-RegatasBellaVista)
 
 [2024-09-28 Hindu at Belgrano; 29-42](reviews//2024-09-28-Belgrano-Hindu)
+
+[2024-09-28 SIC at Alumni; 20-13](reviews//2024-09-28-Alumni-SIC)
