@@ -11,7 +11,7 @@ categories: "United Rugby Championship 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.631, which translates to predicting Connacht to win by 4.7.
 
-Our Over/Under is 37.5 - and combined with the spread above, we have a predicted scoreline of 17 to 21
+Our Over/Under is 34.5 - and combined with the spread above, we have a predicted scoreline of 15 to 20
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Connacht by 3.7
+## Prediction without Player Minutes: Connacht by 3.9
 
 
-Sharks by 1.8 on a neutral pitch
+Sharks by 1.5 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -86,11 +86,11 @@ Sharks by 1.8 on a neutral pitch
 |             72 | Eduan Keyter       |            nan    |       14 |            nan    | Mack Hansen           |           55   |
 |             26 | Jordan Hendrikse   |            nan    |       15 |            nan    | Santiago Cordero      |           80   |
 |             26 | Fez Mbatha         |             91.77 |       16 |            nan    | Dylan Tierney-Martin  |           31.5 |
-|             59 | Trevor Nyakane     |             87.42 |       17 |             97.71 | Peter Dooley          |           35   |
-|             33 | Hanru Jacobs       |             67.6  |       18 |            nan    | Sam Illo              |           40   |
-|             70 | Corne Rahl         |             15.3  |       19 |             74.56 | Oisin Dowling         |           71   |
-|             20 | Reniel Hugo        |             97.1  |       20 |             55.5  | Shamus Hurley-Langton |           80   |
-|             53 | Tinotenda Mavesere |             79.97 |       21 |             80    | Caolin Blade          |           75   |
-|             80 | Tian Meyer         |            nan    |       22 |             71.52 | David Hawkshaw        |           26   |
-|             71 | Gurshwin Wehr      |            nan    |       23 |             65.29 | Paul Boyle            |           10   |
+|             59 | Trevor Nyakane     |             85.39 |       17 |             97.71 | Peter Dooley          |           35   |
+|             33 | Hanru Jacobs       |             67.98 |       18 |            nan    | Sam Illo              |           40   |
+|             70 | Corne Rahl         |             15.46 |       19 |             74.56 | Oisin Dowling         |           71   |
+|             20 | Reniel Hugo        |             97.26 |       20 |             56.98 | Shamus Hurley-Langton |           80   |
+|             53 | Tinotenda Mavesere |             79.97 |       21 |             81.32 | Caolin Blade          |           75   |
+|             80 | Tian Meyer         |            nan    |       22 |             72.36 | David Hawkshaw        |           26   |
+|             71 | Gurshwin Wehr      |            nan    |       23 |             65.98 | Paul Boyle            |           10   |
 

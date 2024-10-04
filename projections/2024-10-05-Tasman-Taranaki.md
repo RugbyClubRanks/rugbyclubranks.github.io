@@ -9,9 +9,9 @@ categories: "NPC 2024" match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.597, which translates to predicting Tasman to win by 6.9.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.597, which translates to predicting Tasman to win by 6.6.
 
-Our Over/Under is 63.5 - and combined with the spread above, we have a predicted scoreline of 28 to 35
+Our Over/Under is 63.5 - and combined with the spread above, we have a predicted scoreline of 29 to 35
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,9 +69,9 @@ Taranaki by nan on a neutral pitch
 
 | Away Player                   |   Away Percentile |   Number |   Home Percentile | Home Player   |
 |:------------------------------|------------------:|---------:|------------------:|:--------------|
-| Mitch O'Neill                 |               nan |        1 |               nan | nan           |
-| Bradley Slater                |               nan |        2 |               nan | nan           |
-| Reuben O'Neill                |               nan |        3 |               nan | nan           |
+| Mitch O'Neill                 |               nan |        1 |               nan |               |
+| Bradley Slater                |               nan |        2 |               nan |               |
+| Reuben O'Neill                |               nan |        3 |               nan |               |
 | Jesse Parete                  |               nan |        4 |               nan |               |
 | Josh Lord                     |               nan |        5 |               nan |               |
 | Arese Poliko                  |               nan |        6 |               nan |               |

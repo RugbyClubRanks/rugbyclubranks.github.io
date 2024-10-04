@@ -9,7 +9,7 @@ categories: "Top 14 Orange 2024" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.588, which translates to predicting Stade Francais Paris to win by 3.0.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.584, which translates to predicting Stade Francais Paris to win by 2.9.
 
 Our Over/Under is 38.5 - and combined with the spread above, we have a predicted scoreline of 18 to 21
 
@@ -42,5 +42,5 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Imputed Lineups: Montpellier Herault by nan
 
 
-Montpellier Herault by 0.8 on a neutral pitch
+Montpellier Herault by 1.2 on a neutral pitch
 

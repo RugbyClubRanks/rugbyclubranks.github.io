@@ -328,7 +328,7 @@ key: page-recents
 ## Nationale
 
 
-[2024](comp_files\Nationale_2024) - Prediction Accuracy: 82.9% 
+[2024](comp_files\Nationale_2024) - Prediction Accuracy: 81.6% 
 
 [2023](comp_files\Nationale_2023) - Prediction Accuracy: 74.9% 
 

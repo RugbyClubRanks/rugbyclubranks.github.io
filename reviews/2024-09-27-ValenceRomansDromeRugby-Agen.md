@@ -11,7 +11,7 @@ categories: "Pro D2 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.65, which translates to predicting Valence Romans Drome Rugby to win by 5.5.
 
-Our Over/Under is 40.5 - and combined with the spread above, we have a predicted scoreline of 17 to 23
+Our Over/Under is 38.5 - and combined with the spread above, we have a predicted scoreline of 16 to 22
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -76,14 +76,14 @@ Valence Romans Drome Rugby by 0.6 on a neutral pitch
 |              8 | John Madigan          |            nan    |        5 |               nan | Darren O'Shea       |             49 |
 |             50 | Julien Lebian         |            nan    |        6 |               nan | Adrien Roux         |             18 |
 |             58 | Valentin Gayraud      |            nan    |        7 |               nan | Loan Réal           |             53 |
-|              0 | Matthieu Bonnet       |             47.42 |        8 |               nan | Matthieu Vachon     |             65 |
+|              0 | Matthieu Bonnet       |             47.77 |        8 |               nan | Matthieu Vachon     |             65 |
 |             56 | Dorian Bellot         |            nan    |        9 |               nan | Tim Menzel          |             30 |
 |             65 | Billy Searle          |            nan    |       10 |               nan | Joris De Moura      |             27 |
 |             62 | Lucas Martins         |            nan    |       11 |               nan | Thomas Roziere      |             51 |
 |             80 | Clément Garrigues     |            nan    |       12 |               nan | Louis Marrou        |             80 |
-|              5 | Théo Belan            |             45.23 |       13 |               nan | Ben Neiceru         |             80 |
-|             80 | Thibaud Mazzoléni     |             48.9  |       14 |               nan | Adam Vargas         |             60 |
-|             80 | Jean-Marcellin Buttin |             42.03 |       15 |               nan | George Worth        |             71 |
+|              5 | Théo Belan            |             45.06 |       13 |               nan | Ben Neiceru         |             80 |
+|             80 | Thibaud Mazzoléni     |             49.12 |       14 |               nan | Adam Vargas         |             60 |
+|             80 | Jean-Marcellin Buttin |             41.45 |       15 |               nan | George Worth        |             71 |
 |             47 | Pierre Jouvin         |            nan    |       16 |               nan | Dorian Marco-Pena   |             53 |
 |             64 | Mamuka Mstoiani       |            nan    |       17 |               nan | Anthony Aléo        |             80 |
 |             80 | William Demotte       |            nan    |       18 |               nan | Florian Goumat      |             80 |

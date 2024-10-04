@@ -9,7 +9,7 @@ categories: "Bunnings NPC 2024" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.318, which translates to predicting North Harbour to win by 6.6.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.314, which translates to predicting North Harbour to win by 6.8.
 
 Our Over/Under is 61.5 - and combined with the spread above, we have a predicted scoreline of 34 to 27
 
@@ -42,5 +42,5 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Imputed Lineups: North Harbour by nan
 
 
-North Harbour by 16.6 on a neutral pitch
+North Harbour by 15.7 on a neutral pitch
 

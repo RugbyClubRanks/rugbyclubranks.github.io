@@ -18,17 +18,17 @@ Last Round Accuracy: 32 of 40 (80.0%)
 
 Last Round Error: 21.46 points per match
 
-[2024-10-05 Finland (~1312.99) at Denmark (~1400.82)](projections/2024-10-05-Denmark-Finland)
+[2024-10-05 Finland (~1308.59) at Denmark (~1392.47)](projections/2024-10-05-Denmark-Finland)
 
-[2024-10-05 Bulgaria (~1398.01) at Turkey (~1100.12)](projections/2024-10-05-Turkey-Bulgaria)
+[2024-10-05 Montenegro (~901.66) at Bosnia and Herzegovina (~960.92)](projections/2024-10-05-BosniaandHerzegovina-Montenegro)
 
-[2024-10-05 Cyprus (~1389.76) at Malta (~1652.34)](projections/2024-10-05-Malta-Cyprus)
+[2024-10-05 Moldova (~1583.62) at Serbia (~964.93)](projections/2024-10-05-Serbia-Moldova)
 
-[2024-10-05 Montenegro (~891.35) at Bosnia and Herzegovina (~962.72)](projections/2024-10-05-BosniaandHerzegovina-Montenegro)
+[2024-10-05 Cyprus (~1398.98) at Malta (~1649.19)](projections/2024-10-05-Malta-Cyprus)
 
-[2024-10-05 Moldova (~1578.76) at Serbia (~965.75)](projections/2024-10-05-Serbia-Moldova)
+[2024-10-05 Bulgaria (~1403.76) at Turkey (~1107.36)](projections/2024-10-05-Turkey-Bulgaria)
 
-[2024-10-06 Brazil (~1182.2) at Chile (~1372.23)](projections/2024-10-06-Chile-Brazil)
+[2024-10-06 Brazil (~1185.53) at Chile (~1378.9)](projections/2024-10-06-Chile-Brazil)
 ## WXV 1
 
 
@@ -42,11 +42,11 @@ Last Round Accuracy: 2 of 3 (66.67%)
 
 Last Round Error: 18.42 points per match
 
-[2024-10-05 Ireland Women (~1540.99) at Canada Women (~2102.56)](projections/2024-10-05-CanadaWomen-IrelandWomen)
+[2024-10-05 France Women (~1917.93) at USA Women (~1382.06)](projections/2024-10-05-USAWomen-FranceWomen)
 
-[2024-10-05 France Women (~1914.55) at USA Women (~1383.63)](projections/2024-10-05-USAWomen-FranceWomen)
+[2024-10-05 Ireland Women (~1544.26) at Canada Women (~2109.41)](projections/2024-10-05-CanadaWomen-IrelandWomen)
 
-[2024-10-06 England Women (~2292.02) at New Zealand Women (~1967.41)](projections/2024-10-06-NewZealandWomen-EnglandWomen)
+[2024-10-06 England Women (~2282.39) at New Zealand Women (~1969.08)](projections/2024-10-06-NewZealandWomen-EnglandWomen)
 ## WXV 2
 
 
@@ -60,11 +60,11 @@ Last Round Accuracy: 2 of 3 (66.67%)
 
 Last Round Error: 14.52 points per match
 
-[2024-10-04 Italy Women (~1534.12) at Wales Women (~1623.0)](projections/2024-10-04-WalesWomen-ItalyWomen)
+[2024-10-04 Italy Women (~1542.52) at Wales Women (~1626.22)](projections/2024-10-04-WalesWomen-ItalyWomen)
 
-[2024-10-05 Australia Women (~1783.66) at South Africa Women (~1477.32)](projections/2024-10-05-SouthAfricaWomen-AustraliaWomen)
+[2024-10-05 Scotland Women (~1696.96) at Japan Women (~1392.82)](projections/2024-10-05-JapanWomen-ScotlandWomen)
 
-[2024-10-05 Scotland Women (~1707.8) at Japan Women (~1386.57)](projections/2024-10-05-JapanWomen-ScotlandWomen)
+[2024-10-05 Australia Women (~1776.35) at South Africa Women (~1476.96)](projections/2024-10-05-SouthAfricaWomen-AustraliaWomen)
 ## WXV 3
 
 
@@ -78,11 +78,11 @@ Last Round Accuracy: 2 of 3 (66.67%)
 
 Last Round Error: 37.43 points per match
 
-[2024-10-04 Hong Kong Women (~641.28) at Madagascar Women (~1141.88)](projections/2024-10-04-MadagascarWomen-HongKongWomen)
+[2024-10-04 Hong Kong Women (~628.02) at Madagascar Women (~1141.19)](projections/2024-10-04-MadagascarWomen-HongKongWomen)
 
-[2024-10-05 Samoa Women (~1322.42) at Fiji Women (~1465.69)](projections/2024-10-05-FijiWomen-SamoaWomen)
+[2024-10-05 Samoa Women (~1300.24) at Fiji Women (~1464.72)](projections/2024-10-05-FijiWomen-SamoaWomen)
 
-[2024-10-05 Spain Women (~1505.27) at Netherlands Women (~1129.71)](projections/2024-10-05-NetherlandsWomen-SpainWomen)
+[2024-10-05 Spain Women (~1510.49) at Netherlands Women (~1144.47)](projections/2024-10-05-NetherlandsWomen-SpainWomen)
 # Top Flight Leagues
 
 ## Allianz Premier 15s
@@ -90,31 +90,13 @@ Last Round Error: 37.43 points per match
 
 [In depth model review and projections for Allianz Premier 15s 2024](comp_files/Allianz_Premier_15s_2024)
 
-[2024-10-05 Ealing Trailfinders Women (~1590.33) at Saracens Women (~1972.54)](projections/2024-10-05-SaracensWomen-EalingTrailfindersWomen)
+[2024-10-05 Exeter Chiefs Women (~1832.05) at Harlequins Women (~1641.78)](projections/2024-10-05-HarlequinsWomen-ExeterChiefsWomen)
 
-[2024-10-05 Bristol Bears Women (~1848.61) at Loughborough Lightning (~1667.12)](projections/2024-10-05-LoughboroughLightning-BristolBearsWomen)
+[2024-10-05 Bristol Bears Women (~1849.7) at Loughborough Lightning (~1661.37)](projections/2024-10-05-LoughboroughLightning-BristolBearsWomen)
 
-[2024-10-05 Exeter Chiefs Women (~1833.37) at Harlequins Women (~1640.7)](projections/2024-10-05-HarlequinsWomen-ExeterChiefsWomen)
+[2024-10-05 Ealing Trailfinders Women (~1598.29) at Saracens Women (~1975.31)](projections/2024-10-05-SaracensWomen-EalingTrailfindersWomen)
 
-[2024-10-06 Leicester Tigers Women (~1311.12) at Gloucester-Hartpury Women (~2011.91)](projections/2024-10-06-Gloucester-HartpuryWomen-LeicesterTigersWomen)
-## Gallagher Premiership
-
-
-[In depth model review and projections for Gallagher Premiership 2024](comp_files/Gallagher_Premiership_2024)
-
-Competition Accuracy: 7 of 10 (70.0%)
-
-Competition Error: 9.76 points per match
-
-Last Round Accuracy: 3 of 5 (60.0%)
-
-Last Round Error: 8.84 points per match
-
-[2024-10-05 Leicester Tigers (~1688.89) at Newcastle Falcons (~1525.34)](projections/2024-10-05-NewcastleFalcons-LeicesterTigers)
-
-[2024-10-05 Bristol Rugby (~1676.68) at Bath Rugby (~1802.89)](projections/2024-10-05-BathRugby-BristolRugby)
-
-[2024-10-06 Exeter Chiefs (~1676.44) at Saracens (~1827.46)](projections/2024-10-06-Saracens-ExeterChiefs)
+[2024-10-06 Leicester Tigers Women (~1300.97) at Gloucester-Hartpury Women (~2015.63)](projections/2024-10-06-Gloucester-HartpuryWomen-LeicesterTigersWomen)
 ## RFU Championship
 
 
@@ -128,17 +110,17 @@ Last Round Accuracy: 3 of 6 (50.0%)
 
 Last Round Error: 15.9 points per match
 
-[2024-10-04 Ampthill (~1277.42) at Nottingham (~1316.36)](projections/2024-10-04-Nottingham-Ampthill)
+[2024-10-04 Cornish Pirates (~1450.25) at London Scottish (~1282.64)](projections/2024-10-04-LondonScottish-CornishPirates)
 
-[2024-10-04 Cornish Pirates (~1447.47) at London Scottish (~1280.19)](projections/2024-10-04-LondonScottish-CornishPirates)
+[2024-10-04 Ampthill (~1273.13) at Nottingham (~1312.6)](projections/2024-10-04-Nottingham-Ampthill)
 
-[2024-10-05 Doncaster (~1300.02) at Ealing Trailfinders (~1690.92)](projections/2024-10-05-EalingTrailfinders-Doncaster)
+[2024-10-05 Doncaster (~1298.66) at Ealing Trailfinders (~1686.55)](projections/2024-10-05-EalingTrailfinders-Doncaster)
 
-[2024-10-05 Coventry (~1548.22) at Cambridge (~1137.31)](projections/2024-10-05-Cambridge-Coventry)
+[2024-10-05 Coventry (~1548.18) at Cambridge (~1143.52)](projections/2024-10-05-Cambridge-Coventry)
 
-[2024-10-05 Hartpury College (~1297.88) at Bedford (~1393.9)](projections/2024-10-05-Bedford-HartpuryCollege)
+[2024-10-05 Caldy (~1088.77) at Chinnor (~1478.44)](projections/2024-10-05-Chinnor-Caldy)
 
-[2024-10-05 Caldy (~1090.3) at Chinnor (~1460.37)](projections/2024-10-05-Chinnor-Caldy)
+[2024-10-05 Hartpury College (~1296.13) at Bedford (~1388.96)](projections/2024-10-05-Bedford-HartpuryCollege)
 ## Top 14 Orange
 
 
@@ -152,19 +134,9 @@ Last Round Accuracy: 5 of 7 (71.43%)
 
 Last Round Error: 11.55 points per match
 
-[2024-10-05 Stade Toulousain (~1788.74) at Castres Olympique (~1715.03)](projections/2024-10-05-CastresOlympique-StadeToulousain)
+[2024-10-05 Montpellier Herault (~1637.78) at Stade Francais Paris (~1695.3)](projections/2024-10-05-StadeFrancaisParis-MontpellierHerault)
 
-[2024-10-05 Lyon (~1643.71) at La Rochelle (~1813.86)](projections/2024-10-05-LaRochelle-Lyon)
-
-[2024-10-05 Pau (~1628.39) at Perpignan (~1653.31)](projections/2024-10-05-Perpignan-Pau)
-
-[2024-10-05 Racing 92 (~1656.48) at Vannes (~1587.85)](projections/2024-10-05-Vannes-Racing92)
-
-[2024-10-05 Montpellier Herault (~1635.54) at Stade Francais Paris (~1696.19)](projections/2024-10-05-StadeFrancaisParis-MontpellierHerault)
-
-[2024-10-05 Bayonne (~1583.51) at Bordeaux Begles (~1806.05)](projections/2024-10-05-BordeauxBegles-Bayonne)
-
-[2024-10-06 Toulon (~1704.6) at Clermont Auvergne (~1727.96)](projections/2024-10-06-ClermontAuvergne-Toulon)
+[2024-10-06 Toulon (~1702.37) at Clermont Auvergne (~1728.51)](projections/2024-10-06-ClermontAuvergne-Toulon)
 ## United Rugby Championship
 
 
@@ -172,27 +144,27 @@ Last Round Error: 11.55 points per match
 
 Competition Accuracy: 9 of 14 (64.29%)
 
-Competition Error: 9.58 points per match
+Competition Error: 9.57 points per match
 
 Last Round Accuracy: 5 of 8 (62.5%)
 
-Last Round Error: 11.84 points per match
+Last Round Error: 11.82 points per match
 
-[2024-10-05 Sharks (~1632.29) at Dragons (~1516.09)](projections/2024-10-05-Dragons-Sharks)
+[2024-10-04 Glasgow Warriors (~1758.93) at Cardiff Blues (~1626.44)](projections/2024-10-04-CardiffBlues-GlasgowWarriors)
 
-[2024-10-05 Stormers (~1706.37) at Zebre (~1498.25)](projections/2024-10-05-Zebre-Stormers)
+[2024-10-04 Connacht (~1642.92) at Scarlets (~1554.46)](projections/2024-10-04-Scarlets-Connacht)
 
-[2024-10-05 Edinburgh (~1653.57) at Lions (~1767.46)](projections/2024-10-05-Lions-Edinburgh)
+[2024-10-05 Leinster (~1820.84) at Benetton Treviso (~1688.75)](projections/2024-10-05-BenettonTreviso-Leinster)
 
-[2024-10-05 Leinster (~1817.88) at Benetton Treviso (~1688.1)](projections/2024-10-05-BenettonTreviso-Leinster)
+[2024-10-05 Sharks (~1631.91) at Dragons (~1513.18)](projections/2024-10-05-Dragons-Sharks)
 
-[2024-10-05 Ospreys (~1631.07) at Munster (~1785.74)](projections/2024-10-05-Munster-Ospreys)
+[2024-10-05 Edinburgh (~1659.16) at Lions (~1770.25)](projections/2024-10-05-Lions-Edinburgh)
 
-[2024-10-05 Ulster (~1660.08) at Bulls (~1820.48)](projections/2024-10-05-Bulls-Ulster)
+[2024-10-05 Ospreys (~1632.34) at Munster (~1791.29)](projections/2024-10-05-Munster-Ospreys)
 
-[2024-10-04 Connacht (~1645.65) at Scarlets (~1551.22)](projections/2024-10-04-Scarlets-Connacht)
+[2024-10-05 Stormers (~1702.75) at Zebre (~1498.68)](projections/2024-10-05-Zebre-Stormers)
 
-[2024-10-04 Glasgow Warriors (~1754.28) at Cardiff Blues (~1624.5)](projections/2024-10-04-CardiffBlues-GlasgowWarriors)
+[2024-10-05 Ulster (~1661.12) at Bulls (~1824.3)](projections/2024-10-05-Bulls-Ulster)
 # Domestic Leagues
 
 ## Bunnings NPC
@@ -208,9 +180,9 @@ Last Round Accuracy: 6 of 7 (85.71%)
 
 Last Round Error: 14.11 points per match
 
-[2024-10-05 Counties Manukau (~1461.93) at Manawatu (~1211.85)](projections/2024-10-05-Manawatu-CountiesManukau)
+[2024-10-05 Counties Manukau (~1463.75) at Manawatu (~1219.03)](projections/2024-10-05-Manawatu-CountiesManukau)
 
-[2024-10-05 North Harbour (~1460.34) at Southland (~1327.49)](projections/2024-10-05-Southland-NorthHarbour)
+[2024-10-05 North Harbour (~1459.84) at Southland (~1324.32)](projections/2024-10-05-Southland-NorthHarbour)
 ## Nationale
 
 
@@ -222,19 +194,19 @@ Competition Error: 9.9 points per match
 
 Last Round Accuracy: 6 of 7 (85.71%)
 
-Last Round Error: 16.6 points per match
+Last Round Error: 16.61 points per match
 
-[2024-10-04 Langon (~1507.4) at Rouen (~1453.81)](projections/2024-10-04-Rouen-Langon)
+[2024-10-04 US Bressane (~1293.74) at Bourgoin-Jallieu (~1362.82)](projections/2024-10-04-Bourgoin-Jallieu-USBressane)
 
-[2024-10-04 US Bressane (~1293.74) at Bourgoin-Jallieu (~1364.17)](projections/2024-10-04-Bourgoin-Jallieu-USBressane)
+[2024-10-04 Albi (~1398.53) at Tarbes (~1343.73)](projections/2024-10-04-Tarbes-Albi)
 
-[2024-10-04 Albi (~1403.75) at Tarbes (~1342.38)](projections/2024-10-04-Tarbes-Albi)
+[2024-10-04 Narbonne (~1376.89) at Chambery (~1431.39)](projections/2024-10-04-Chambery-Narbonne)
 
-[2024-10-04 Narbonne (~1376.15) at Chambery (~1430.8)](projections/2024-10-04-Chambery-Narbonne)
+[2024-10-04 Langon (~1488.93) at Rouen (~1453.53)](projections/2024-10-04-Rouen-Langon)
 
-[2024-10-05 Périgueux (~1396.97) at Massy (~1392.9)](projections/2024-10-05-Massy-Perigueux)
+[2024-10-05 Périgueux (~1395.75) at Massy (~1391.37)](projections/2024-10-05-Massy-Perigueux)
 
-[2024-10-05 Carcassonne (~1408.65) at Marcq-en-Baroeul (~1326.22)](projections/2024-10-05-Marcq-en-Baroeul-Carcassonne)
+[2024-10-05 Carcassonne (~1408.87) at Marcq-en-Baroeul (~1312.69)](projections/2024-10-05-Marcq-en-Baroeul-Carcassonne)
 ## URBA Top 13
 
 
@@ -248,14 +220,14 @@ Last Round Accuracy: 5 of 6 (83.33%)
 
 Last Round Error: 11.74 points per match
 
-[2024-10-05 Alumni (~1721.09) at Hindu (~1702.71)](projections/2024-10-05-Hindu-Alumni)
+[2024-10-05 Buenos Aires (~1564.85) at Regatas Bella Vista (~1671.81)](projections/2024-10-05-RegatasBellaVista-BuenosAires)
 
-[2024-10-05 Atlético del Rosario (~1470.65) at CUBA (~1719.17)](projections/2024-10-05-CUBA-AtleticodelRosario)
+[2024-10-05 Newman (~1813.14) at CASI (~1802.53)](projections/2024-10-05-CASI-Newman)
 
-[2024-10-05 Champagnat (~1421.9) at SIC (~1821.95)](projections/2024-10-05-SIC-Champagnat)
+[2024-10-05 Alumni (~1715.39) at Hindu (~1700.99)](projections/2024-10-05-Hindu-Alumni)
 
-[2024-10-05 Newman (~1815.39) at CASI (~1799.29)](projections/2024-10-05-CASI-Newman)
+[2024-10-05 Atlético del Rosario (~1472.17) at CUBA (~1717.67)](projections/2024-10-05-CUBA-AtleticodelRosario)
 
-[2024-10-05 Buenos Aires (~1562.58) at Regatas Bella Vista (~1675.18)](projections/2024-10-05-RegatasBellaVista-BuenosAires)
+[2024-10-05 Champagnat (~1421.98) at SIC (~1827.09)](projections/2024-10-05-SIC-Champagnat)
 
-[2024-10-05 Belgrano (~1739.34) at San Luis (~1656.99)](projections/2024-10-05-SanLuis-Belgrano)
+[2024-10-05 Belgrano (~1739.93) at San Luis (~1660.55)](projections/2024-10-05-SanLuis-Belgrano)

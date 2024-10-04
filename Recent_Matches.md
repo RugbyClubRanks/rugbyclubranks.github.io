@@ -108,7 +108,7 @@ Competition Error: 9.76 points per match
 
 Last Round Accuracy: 3 of 5 (60.0%)
 
-Last Round Error: 8.84 points per match
+Last Round Error: 8.83 points per match
 
 [2024-09-27 Gloucester Rugby at Bristol Rugby; 21-7](reviews//2024-09-27-BristolRugby-GloucesterRugby)
 
@@ -134,15 +134,15 @@ Last Round Error: 15.9 points per match
 
 [2024-09-27 Ealing Trailfinders at Cornish Pirates; 29-24](reviews//2024-09-27-CornishPirates-EalingTrailfinders)
 
-[2024-09-28 London Scottish at Hartpury College; 33-34](reviews//2024-09-28-HartpuryCollege-LondonScottish)
-
-[2024-09-28 Cambridge at Caldy; 26-21](reviews//2024-09-28-Caldy-Cambridge)
+[2024-09-28 Nottingham at Doncaster; 30-14](reviews//2024-09-28-Doncaster-Nottingham)
 
 [2024-09-28 Coventry at Bedford; 45-7](reviews//2024-09-28-Bedford-Coventry)
 
-[2024-09-28 Nottingham at Doncaster; 30-14](reviews//2024-09-28-Doncaster-Nottingham)
+[2024-09-28 London Scottish at Hartpury College; 33-34](reviews//2024-09-28-HartpuryCollege-LondonScottish)
 
 [2024-09-28 Chinnor at Ampthill; 29-31](reviews//2024-09-28-Ampthill-Chinnor)
+
+[2024-09-28 Cambridge at Caldy; 26-21](reviews//2024-09-28-Caldy-Cambridge)
 ## Rugby Europe Super Cup
 
 
@@ -158,9 +158,9 @@ Last Round Error: 34.77 points per match
 
 [2024-09-27 Bohemia Rugby Warriors at Delta; 10-29](reviews//2024-09-27-Delta-BohemiaRugbyWarriors)
 
-[2024-09-28 Brussels Devils at Romanian Wolves; 22-44](reviews//2024-09-28-RomanianWolves-BrusselsDevils)
-
 [2024-09-28 Castilla y Leon Iberians at Black Lion; 21-47](reviews//2024-09-28-BlackLion-CastillayLeonIberians)
+
+[2024-09-28 Brussels Devils at Romanian Wolves; 22-44](reviews//2024-09-28-RomanianWolves-BrusselsDevils)
 ## Top 14 Orange
 
 
@@ -194,15 +194,15 @@ Last Round Error: 11.55 points per match
 
 Competition Accuracy: 9 of 14 (64.29%)
 
-Competition Error: 9.58 points per match
+Competition Error: 9.57 points per match
 
 Last Round Accuracy: 5 of 8 (62.5%)
 
-Last Round Error: 11.84 points per match
-
-[2024-09-27 Dragons at Leinster; 6-17](reviews//2024-09-27-Leinster-Dragons)
+Last Round Error: 11.82 points per match
 
 [2024-09-27 Benetton Treviso at Glasgow Warriors; 10-42](reviews//2024-09-27-GlasgowWarriors-BenettonTreviso)
+
+[2024-09-27 Dragons at Leinster; 6-17](reviews//2024-09-27-Leinster-Dragons)
 
 [2024-09-28 Munster at Zebre; 33-42](reviews//2024-09-28-Zebre-Munster)
 
@@ -248,15 +248,15 @@ Competition Error: 9.9 points per match
 
 Last Round Accuracy: 6 of 7 (85.71%)
 
-Last Round Error: 16.6 points per match
-
-[2024-09-27 Chambery at Carcassonne; 14-16](reviews//2024-09-27-Carcassonne-Chambery)
+Last Round Error: 16.61 points per match
 
 [2024-09-27 Rouen at Albi; 23-23](reviews//2024-09-27-Albi-Rouen)
 
-[2024-09-28 Tarbes at Suresnes; 38-39](reviews//2024-09-28-Suresnes-Tarbes)
+[2024-09-27 Chambery at Carcassonne; 14-16](reviews//2024-09-27-Carcassonne-Chambery)
 
 [2024-09-28 Bourgoin-Jallieu at Perigueux; 0-34](reviews//2024-09-28-Perigueux-Bourgoin-Jallieu)
+
+[2024-09-28 Tarbes at Suresnes; 38-39](reviews//2024-09-28-Suresnes-Tarbes)
 
 [2024-09-28 Carqueiranne-Hyeres at Narbonne; 0-25](reviews//2024-09-28-Narbonne-Carqueiranne-Hyeres)
 
@@ -270,27 +270,27 @@ Last Round Error: 16.6 points per match
 
 Competition Accuracy: 21 of 40 (52.5%)
 
-Competition Error: 10.56 points per match
+Competition Error: 10.52 points per match
 
 Last Round Accuracy: 4 of 8 (50.0%)
 
-Last Round Error: 14.04 points per match
+Last Round Error: 13.96 points per match
 
 [2024-09-26 Grenoble at Biarritz Olympique; 15-35](reviews//2024-09-26-BiarritzOlympique-Grenoble)
 
-[2024-09-27 Soyaux-Angouleme at Dax; 16-8](reviews//2024-09-27-Dax-Soyaux-Angouleme)
+[2024-09-27 Brive at Mont-de-Marsan; 11-33](reviews//2024-09-27-Mont-de-Marsan-Brive)
 
 [2024-09-27 Beziers at Aurillac; 15-16](reviews//2024-09-27-Aurillac-Beziers)
 
-[2024-09-27 Brive at Mont-de-Marsan; 11-33](reviews//2024-09-27-Mont-de-Marsan-Brive)
-
-[2024-09-27 Oyonnax at Provence Rugby; 3-38](reviews//2024-09-27-ProvenceRugby-Oyonnax)
+[2024-09-27 Montauban at Nevers; 16-13](reviews//2024-09-27-Nevers-Montauban)
 
 [2024-09-27 Agen at Valence Romans Drome Rugby; 25-30](reviews//2024-09-27-ValenceRomansDromeRugby-Agen)
 
 [2024-09-27 Colomiers at Nice; 28-19](reviews//2024-09-27-Nice-Colomiers)
 
-[2024-09-27 Montauban at Nevers; 16-13](reviews//2024-09-27-Nevers-Montauban)
+[2024-09-27 Oyonnax at Provence Rugby; 3-38](reviews//2024-09-27-ProvenceRugby-Oyonnax)
+
+[2024-09-27 Soyaux-Angouleme at Dax; 16-8](reviews//2024-09-27-Dax-Soyaux-Angouleme)
 ## URBA Top 13
 
 
@@ -304,13 +304,13 @@ Last Round Accuracy: 4 of 7 (57.14%)
 
 Last Round Error: 9.62 points per match
 
-[2024-09-28 CASI at Atletico del Rosario; 59-34](reviews//2024-09-28-AtleticodelRosario-CASI)
-
 [2024-09-28 San Luis at Buenos Aires; 27-32](reviews//2024-09-28-BuenosAires-SanLuis)
 
-[2024-09-28 CUBA at Champagnat; 47-32](reviews//2024-09-28-Champagnat-CUBA)
+[2024-09-28 CASI at Atletico del Rosario; 59-34](reviews//2024-09-28-AtleticodelRosario-CASI)
 
 [2024-09-28 Regatas Bella Vista at Newman; 37-33](reviews//2024-09-28-Newman-RegatasBellaVista)
+
+[2024-09-28 CUBA at Champagnat; 47-32](reviews//2024-09-28-Champagnat-CUBA)
 
 [2024-09-28 Hindu at Belgrano; 29-42](reviews//2024-09-28-Belgrano-Hindu)
 

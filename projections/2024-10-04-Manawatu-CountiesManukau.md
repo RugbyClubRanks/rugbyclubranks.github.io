@@ -9,7 +9,7 @@ categories: "NPC 2024" match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.222, which translates to predicting Counties Manukau to win by 11.1.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.222, which translates to predicting Counties Manukau to win by 11.2.
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -67,27 +67,27 @@ Counties Manukau by nan on a neutral pitch
 
 | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player             |
 |:---------------------|------------------:|---------:|------------------:|:------------------------|
-| Kauvaka Kaivelata    |               nan |        1 |               nan | Joe Gavigan             |
-| Zuriel Togiatama     |               nan |        2 |               nan | Raymond Tuputupu        |
-| Keran van Staden     |               nan |        3 |               nan | Flyn Yates              |
-| William Furniss      |               nan |        4 |               nan | Johan Momsen            |
-| James Thompson       |               nan |        5 |               nan | Lachlan Shaw            |
-| Alamanda Motuga      |               nan |        6 |               nan | TK Howden               |
-| Adam Brash           |               nan |        7 |               nan | Elyjah Crosswell        |
-| Hoskins Sotutu       |               nan |        8 |               nan | Brayden Iose            |
-| Jonathan Taumateine  |               nan |        9 |               nan | Jordi Viljoen           |
-| AJ Alatimu           |               nan |       10 |               nan | Isaiah Armstrong-Ravula |
-| Josh Gray            |               nan |       11 |               nan | Ataata Moeakiola        |
-| Riley Hohepa         |               nan |       12 |               nan | Caleb Leef              |
-| Tevita Ofa           |               nan |       13 |               nan | Kyle Brown              |
-| Blake Makiri         |               nan |       14 |               nan | Taniela Filimone        |
-| Simon-Peter Toleafoa |               nan |       15 |               nan | Drew Wild               |
-| Ioane Moananu        |               nan |       16 |               nan | Sase Va'A               |
-| Ezekiel Lindenmuth   |               nan |       17 |               nan | Malakai Hala            |
-| Suetena Asomua       |               nan |       18 |               nan | Feleti Sae-Ta'Ufo'Ou    |
-| Dalton Papalii       |               nan |       19 |               nan | Julian Goerke           |
-| Cameron Church       |               nan |       20 |               nan | Vernon Bason            |
-| Cam Roigard          |                60 |       21 |               nan | Luke Campbell           |
-| Gibson Popoali'i     |               nan |       22 |               nan | Rihari Jobe             |
-| Peniasi Malimali     |               nan |       23 |               nan | Sam Coles               |
+| Kauvaka Kaivelata    |            nan    |        1 |               nan | Joe Gavigan             |
+| Zuriel Togiatama     |            nan    |        2 |               nan | Raymond Tuputupu        |
+| Keran van Staden     |            nan    |        3 |               nan | Flyn Yates              |
+| William Furniss      |            nan    |        4 |               nan | Johan Momsen            |
+| James Thompson       |            nan    |        5 |               nan | Lachlan Shaw            |
+| Alamanda Motuga      |            nan    |        6 |               nan | TK Howden               |
+| Adam Brash           |            nan    |        7 |               nan | Elyjah Crosswell        |
+| Hoskins Sotutu       |            nan    |        8 |               nan | Brayden Iose            |
+| Jonathan Taumateine  |            nan    |        9 |               nan | Jordi Viljoen           |
+| AJ Alatimu           |            nan    |       10 |               nan | Isaiah Armstrong-Ravula |
+| Josh Gray            |            nan    |       11 |               nan | Ataata Moeakiola        |
+| Riley Hohepa         |            nan    |       12 |               nan | Caleb Leef              |
+| Tevita Ofa           |            nan    |       13 |               nan | Kyle Brown              |
+| Blake Makiri         |            nan    |       14 |               nan | Taniela Filimone        |
+| Simon-Peter Toleafoa |            nan    |       15 |               nan | Drew Wild               |
+| Ioane Moananu        |            nan    |       16 |               nan | Sase Va'A               |
+| Ezekiel Lindenmuth   |            nan    |       17 |               nan | Malakai Hala            |
+| Suetena Asomua       |            nan    |       18 |               nan | Feleti Sae-Ta'Ufo'Ou    |
+| Dalton Papalii       |            nan    |       19 |               nan | Julian Goerke           |
+| Cameron Church       |            nan    |       20 |               nan | Vernon Bason            |
+| Cam Roigard          |             62.11 |       21 |               nan | Luke Campbell           |
+| Gibson Popoali'i     |            nan    |       22 |               nan | Rihari Jobe             |
+| Peniasi Malimali     |            nan    |       23 |               nan | Sam Coles               |
 

@@ -9,7 +9,7 @@ categories: "Premiership 2024" match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.571, which translates to predicting Sale Sharks to win by 6.0.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.571, which translates to predicting Sale Sharks to win by 5.7.
 
 Our Over/Under is 65.5 - and combined with the spread above, we have a predicted scoreline of 30 to 36
 
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Sale Sharks by 19.4
+## Prediction without Player Minutes: Sale Sharks by 19.2
 
 
-Sale Sharks by 11.4 on a neutral pitch
+Sale Sharks by 11.2 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Sale Sharks by 11.4 on a neutral pitch
 
 | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player                    |
 |:-------------------|------------------:|---------:|------------------:|:-------------------------------|
-| Val Rapava-Ruskin  |             81.45 |        1 |            nan    | Simon McIntyre                 |
+| Val Rapava-Ruskin  |             81.58 |        1 |            nan    | Simon McIntyre                 |
 | Seb Blake          |             68.64 |        2 |            nan    | Luke Cowan-Dickie              |
 | Afolabi Fasogban   |            nan    |        3 |            nan    | Asher Opoku-Fordjour           |
-| Freddie Clarke     |             80.52 |        4 |            nan    | Ben Bamber                     |
-| Arthur Clark       |             23.35 |        5 |             87.92 | Josh Beaumont                  |
-| Jack Clement       |            nan    |        6 |             93.24 | Ernst van Rhyn                 |
-| Harry Taylor       |             80.62 |        7 |            nan    | Sam Dugdale                    |
+| Freddie Clarke     |             81    |        4 |            nan    | Ben Bamber                     |
+| Arthur Clark       |             23.51 |        5 |             87.92 | Josh Beaumont                  |
+| Jack Clement       |            nan    |        6 |             93.4  | Ernst van Rhyn                 |
+| Harry Taylor       |             80.79 |        7 |            nan    | Sam Dugdale                    |
 | Zach Mercer        |            nan    |        8 |            nan    | Roubs Birch                    |
 | Tomos Williams     |            nan    |        9 |            nan    | Gus Warr                       |
-| Gareth Anscombe    |            nan    |       10 |             84.42 | Robert du Preez                |
+| Gareth Anscombe    |            nan    |       10 |             83.92 | Robert du Preez                |
 | Max Llewellyn      |            nan    |       11 |            nan    | Arron Reed                     |
 | Sebastien Atkinson |            nan    |       12 |             87.94 | Sam Bedlow                     |
-| Chris Harris       |            nan    |       13 |             95.48 | Will Addison                   |
+| Chris Harris       |            nan    |       13 |             95.64 | Will Addison                   |
 | Christian Wade     |            nan    |       14 |            nan    | Tom Roebuck                    |
 | George Barton      |            nan    |       15 |            nan    | Joe Carpenter                  |
 | Jack Singleton     |            nan    |       16 |            nan    | Ethan Caine                    |
-| Mayco Vivas        |            nan    |       17 |             19.19 | Tumy Onasanya                  |
-| Ciaran Knight      |             23.63 |       18 |             18.42 | James Harper                   |
+| Mayco Vivas        |            nan    |       17 |             19.06 | Tumy Onasanya                  |
+| Ciaran Knight      |             23.51 |       18 |             18.04 | James Harper                   |
 | Matias Alemanno    |            nan    |       19 |            nan    | Tom Burrow                     |
-| Ruan Ackermann     |            nan    |       20 |             36.71 | Le Roux Roets                  |
+| Ruan Ackermann     |            nan    |       20 |             36.88 | Le Roux Roets                  |
 | Albert Tuisue      |            nan    |       21 |            nan    | Nye Thomas                     |
-| Caolan Englefield  |             87.89 |       22 |            nan    | Tom Curtis                     |
+| Caolan Englefield  |             88.16 |       22 |            nan    | Tom Curtis                     |
 | Charlie Atkinson   |             71.96 |       23 |            nan    | Waisea Nayacalevu Vuidravuwalu |
 

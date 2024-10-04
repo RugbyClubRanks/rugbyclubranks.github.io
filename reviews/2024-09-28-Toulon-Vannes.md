@@ -11,7 +11,7 @@ categories: "Top 14 Orange 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.821, which translates to predicting Toulon to win by 13.4.
 
-Our Over/Under is 55.5 - and combined with the spread above, we have a predicted scoreline of 21 to 34
+Our Over/Under is 54.5 - and combined with the spread above, we have a predicted scoreline of 21 to 34
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -42,7 +42,7 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction without Player Minutes: Toulon by 21.9
 
 
-Toulon by 14.8 on a neutral pitch
+Toulon by 14.9 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -87,7 +87,7 @@ Toulon by 14.8 on a neutral pitch
 |             20 | Théo Béziat              |            nan    |       16 |            nan    | Gianmarco Lucchesi     |             54 |
 |             32 | Charlesty Berguet        |             58.32 |       17 |            nan    | Jean-Baptiste Gros     |             74 |
 |             16 | Christiaan Van Der Merwe |            nan    |       18 |            nan    | Yannick Youyoutte      |             71 |
-|             10 | Leon Boulier             |            nan    |       19 |             90.31 | Selevasio Tolofua      |             48 |
+|             10 | Leon Boulier             |            nan    |       19 |             90.15 | Selevasio Tolofua      |             48 |
 |             13 | Tani Vili                |            nan    |       20 |            nan    | Jules Coulon           |             80 |
 |             27 | Alexandre Gouaux         |            nan    |       21 |            nan    | Baptiste Serin         |             80 |
 |             16 | Jean Cotarmanac'H        |            nan    |       22 |            nan    | Jeremy Sinzelle        |             20 |

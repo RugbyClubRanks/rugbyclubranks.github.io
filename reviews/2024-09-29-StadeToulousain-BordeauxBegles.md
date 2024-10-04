@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Stade Toulousain by 18.4
+## Prediction without Player Minutes: Stade Toulousain by 17.9
 
 
-Stade Toulousain by 10.8 on a neutral pitch
+Stade Toulousain by 10.3 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -84,12 +84,12 @@ Stade Toulousain by 10.8 on a neutral pitch
 |             68 | Yoram Moefana             |            nan    |       13 |            nan    | Pierre-Louis Barassi |             63 |
 |             61 | Arthur Retiere            |            nan    |       14 |            nan    | Ange Capuozzo        |             68 |
 |             49 | Louis Bielle-Biarrey      |            nan    |       15 |            nan    | Thomas Ramos         |             47 |
-|             61 | Maxime Lamothe            |            nan    |       16 |             97.43 | Peato Mauvaka        |             80 |
+|             61 | Maxime Lamothe            |            nan    |       16 |             98.46 | Peato Mauvaka        |             80 |
 |             80 | Jefferson Poirot          |            nan    |       17 |            nan    | Rodrigue Neti        |             47 |
 |             80 | Cyril Cazeaux             |            nan    |       18 |            nan    | Joshua Brennan       |             80 |
-|             80 | Alexandre Ricard          |             63.45 |       19 |            nan    | Richie Arnold        |             58 |
+|             80 | Alexandre Ricard          |             63.61 |       19 |            nan    | Richie Arnold        |             58 |
 |             80 | Temo Matiu                |            nan    |       20 |             98.63 | Anthony Jelonch      |             80 |
-|             80 | Mateo Garcia              |             47.6  |       21 |            nan    | Naoto Saito          |             38 |
-|             57 | Enzo Reybier              |             53.9  |       22 |            nan    | Dimitri Delibes      |             68 |
-|             80 | Carlu Sadie               |            nan    |       23 |             82.47 | Joel Merkler         |             80 |
+|             80 | Mateo Garcia              |             47.23 |       21 |            nan    | Naoto Saito          |             38 |
+|             57 | Enzo Reybier              |             54.72 |       22 |            nan    | Dimitri Delibes      |             68 |
+|             80 | Carlu Sadie               |            nan    |       23 |             82.08 | Joel Merkler         |             80 |
 

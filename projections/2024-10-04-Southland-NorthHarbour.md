@@ -9,7 +9,7 @@ categories: "NPC 2024" match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.347, which translates to predicting North Harbour to win by 6.0.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.347, which translates to predicting North Harbour to win by 5.5.
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -86,7 +86,7 @@ North Harbour by nan on a neutral pitch
 | Tevita Mafileo  |            nan    |       17 |               nan | Jack Sexton           |
 | Tevita Langi    |            nan    |       18 |               nan | Paula Latu            |
 | Felix Kalapu    |            nan    |       19 |               nan | Shneil Singh          |
-| Ben Grant       |             97.75 |       20 |               nan | Dylan Nel             |
+| Ben Grant       |             98.07 |       20 |               nan | Dylan Nel             |
 | Karl Ruzich     |            nan    |       21 |               nan | Liam Howley           |
 | Aisea Halo      |            nan    |       22 |               nan | Kaea Nikora-Balloch   |
 | James Little    |            nan    |       23 |               nan | Tayne Harvey          |

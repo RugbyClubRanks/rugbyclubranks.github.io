@@ -11,7 +11,7 @@ categories: "United Rugby Championship 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.745, which translates to predicting Glasgow Warriors to win by 9.5.
 
-Our Over/Under is 34.5 - and combined with the spread above, we have a predicted scoreline of 13 to 22
+Our Over/Under is 35.5 - and combined with the spread above, we have a predicted scoreline of 13 to 23
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Glasgow Warriors by 20.1
+## Prediction without Player Minutes: Glasgow Warriors by 19.7
 
 
-Glasgow Warriors by 13.6 on a neutral pitch
+Glasgow Warriors by 13.2 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -86,12 +86,12 @@ Glasgow Warriors by 13.6 on a neutral pitch
 |             80 | Malakai Fekitoa    |            nan    |       13 |            nan    | Sione Tuipulotu   |             80 |
 |             65 | Louis Lynagh       |            nan    |       14 |            nan    | Kyle Steyn        |             80 |
 |             80 | Matt Gallagher     |            nan    |       15 |            nan    | Josh McKay        |             64 |
-|             80 | Marco Manfredi     |              8.23 |       16 |             31.11 | Johnny Matthews   |              8 |
+|             80 | Marco Manfredi     |              8.23 |       16 |             30.08 | Johnny Matthews   |              8 |
 |             69 | Destiny Aminu      |            nan    |       17 |            nan    | Rory Sutherland   |             80 |
-|             80 | Riccardo Genovese  |            nan    |       18 |             40.03 | Sam Talakai       |             40 |
+|             80 | Riccardo Genovese  |            nan    |       18 |             41.17 | Sam Talakai       |             40 |
 |             28 | Giulio Marini      |            nan    |       19 |             70.85 | Alex Samuel       |             40 |
 |             28 | Toa Halafihi       |            nan    |       20 |            nan    | Scott Cummings    |             80 |
-|             80 | Alessandro Garbisi |             76.58 |       21 |            nan    | Gregor Brown      |             80 |
+|             80 | Alessandro Garbisi |             77.63 |       21 |            nan    | Gregor Brown      |             80 |
 |             80 | Leonardo Marin     |             74.54 |       22 |            nan    | George Horne      |             59 |
-|             80 | Paolo Odogwu       |             89.4  |       23 |             84.13 | Duncan Weir       |             80 |
+|             80 | Paolo Odogwu       |             90.71 |       23 |             84.13 | Duncan Weir       |             80 |
 

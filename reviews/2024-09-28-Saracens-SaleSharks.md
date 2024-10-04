@@ -11,7 +11,7 @@ categories: "Gallagher Premiership 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.666, which translates to predicting Saracens to win by 6.1.
 
-Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 20 to 26
+Our Over/Under is 41.5 - and combined with the spread above, we have a predicted scoreline of 18 to 24
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -84,12 +84,12 @@ Sale Sharks by 3.0 on a neutral pitch
 |             28 | Waisea Nayacalevu Vuidravuwalu |            nan    |       13 |            nan    | Alex Lozowski   |              6 |
 |             19 | Tom Roebuck                    |            nan    |       14 |            nan    | Tobias Elliott  |              6 |
 |             19 | Joe Carpenter                  |            nan    |       15 |            nan    | Elliot Daly     |             80 |
-|             21 | Ethan Caine                    |            nan    |       16 |             99.49 | Jamie George    |             41 |
-|             12 | Tumy Onasanya                  |             19.19 |       17 |             84.24 | Sam Crean       |             80 |
-|              6 | James Harper                   |             18.42 |       18 |             47.4  | Alec Clarey     |             40 |
+|             21 | Ethan Caine                    |            nan    |       16 |             99.74 | Jamie George    |             41 |
+|             12 | Tumy Onasanya                  |             19.06 |       17 |             84.24 | Sam Crean       |             80 |
+|              6 | James Harper                   |             18.04 |       18 |             48.67 | Alec Clarey     |             40 |
 |             80 | Josh Beaumont                  |             87.92 |       19 |             91.79 | Nick Isiekwe    |             69 |
 |             67 | Roubs Birch                    |            nan    |       20 |            nan    | Theo McFarland  |             65 |
 |             80 | Nye Thomas                     |            nan    |       21 |            nan    | Toby Knight     |             38 |
 |             56 | Sam Bedlow                     |             87.94 |       22 |            nan    | Charlie Bracken |             80 |
-|             59 | Will Addison                   |             95.48 |       23 |             88.04 | Alex Goode      |              4 |
+|             59 | Will Addison                   |             95.64 |       23 |             88.73 | Alex Goode      |              4 |
 

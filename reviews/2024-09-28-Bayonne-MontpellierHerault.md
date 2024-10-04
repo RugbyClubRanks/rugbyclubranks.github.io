@@ -11,7 +11,7 @@ categories: "Top 14 Orange 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.586, which translates to predicting Bayonne to win by 3.1.
 
-Our Over/Under is 36.5 - and combined with the spread above, we have a predicted scoreline of 17 to 20
+Our Over/Under is 32.5 - and combined with the spread above, we have a predicted scoreline of 15 to 18
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Bayonne by 10.8
+## Prediction without Player Minutes: Bayonne by 10.6
 
 
-Bayonne by 2.5 on a neutral pitch
+Bayonne by 2.3 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -86,7 +86,7 @@ Bayonne by 2.5 on a neutral pitch
 |             80 | Julien Tisseron     |            nan    |       15 |            nan    | Yohan Orabe             |             80 |
 |             60 | Christopher Tolofua |            nan    |       16 |            nan    | Vincent Giudicelli      |             80 |
 |             80 | Enzo Forletta       |            nan    |       17 |            nan    | Pierre Castillon        |             65 |
-|             50 | Paul Willemse       |             39.94 |       18 |             98.07 | Denis Marchois          |             58 |
+|             50 | Paul Willemse       |             47.67 |       18 |             97.91 | Denis Marchois          |             58 |
 |             80 | Marco Tauleigne     |             93.47 |       19 |            nan    | Baptiste Heguy          |             80 |
 |             80 | Billy Vunipola      |            nan    |       20 |            nan    | Maxime Machenaud        |             80 |
 |             12 | Leo Coly            |            nan    |       21 |            nan    | Joris Segonds           |             80 |

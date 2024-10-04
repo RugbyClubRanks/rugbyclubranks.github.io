@@ -9,7 +9,7 @@ categories: "Premiership 2024" match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.553, which translates to predicting Northampton Saints to win by 5.4.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.554, which translates to predicting Northampton Saints to win by 5.1.
 
 Our Over/Under is 58.5 - and combined with the spread above, we have a predicted scoreline of 27 to 32
 
@@ -80,16 +80,16 @@ Harlequins by nan on a neutral pitch
 | Danny Care                |            nan    |        9 |            nan    | Tom James          |
 | Jarrod Evans              |            nan    |       10 |            nan    | Fin Smith          |
 | Oscar Beard               |            nan    |       11 |             96.17 | Ollie Sleightholme |
-| Lennox Anyanwu            |             82.08 |       12 |            nan    | Rory Hutchinson    |
+| Lennox Anyanwu            |             81.74 |       12 |            nan    | Rory Hutchinson    |
 | Will Joseph               |             77.89 |       13 |            nan    | Fraser Dingwall    |
 | Nick David                |            nan    |       14 |            nan    | Tommy Freeman      |
 | Marcus Smith              |            nan    |       15 |            nan    | George Furbank     |
 | Nathan Jibulu             |            nan    |       16 |            nan    | Robbie Smith       |
-| Jordan Els                |            nan    |       17 |             65.82 | Tom West           |
-| Simon Kerrod              |             73.82 |       18 |            nan    | Luke Green         |
-| Dino Lamb                 |             95.4  |       19 |            nan    | Temo Mayanavanua   |
-| James Chisholm            |             94.58 |       20 |            nan    | Henry Pollock      |
-| Will Porter               |            nan    |       21 |             80.79 | Archie McParland   |
-| Bryn Bradley              |             60.47 |       22 |              7.81 | Tom Seabrook       |
-| Cameron Anderson          |             50.52 |       23 |            nan    | James Ramm         |
+| Jordan Els                |            nan    |       17 |             66.07 | Tom West           |
+| Simon Kerrod              |             73.7  |       18 |            nan    | Luke Green         |
+| Dino Lamb                 |             95.57 |       19 |            nan    | Temo Mayanavanua   |
+| James Chisholm            |             94.42 |       20 |            nan    | Henry Pollock      |
+| Will Porter               |            nan    |       21 |             80.53 | Archie McParland   |
+| Bryn Bradley              |             60.3  |       22 |              7.67 | Tom Seabrook       |
+| Cameron Anderson          |             50.88 |       23 |            nan    | James Ramm         |
 

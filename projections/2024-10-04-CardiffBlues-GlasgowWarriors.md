@@ -9,7 +9,7 @@ categories: "United Rugby Championship 2024" match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.238, which translates to predicting Glasgow Warriors to win by 6.5.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.238, which translates to predicting Glasgow Warriors to win by 6.6.
 
 Our Over/Under is 30.5 - and combined with the spread above, we have a predicted scoreline of 18 to 12
 
@@ -70,26 +70,26 @@ Glasgow Warriors by nan on a neutral pitch
 | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player        |
 |:---------------------|------------------:|---------:|------------------:|:-------------------|
 | Rory Sutherland      |            nan    |        1 |            nan    | Corey Domachowski  |
-| Johnny Matthews      |             31.11 |        2 |            nan    | Liam Belcher       |
-| Sam Talakai          |             40.03 |        3 |            nan    | Keiron Assiratti   |
+| Johnny Matthews      |             30.08 |        2 |            nan    | Liam Belcher       |
+| Sam Talakai          |             41.17 |        3 |            nan    | Keiron Assiratti   |
 | Alex Samuel          |             70.85 |        4 |            nan    | Josh McNally       |
 | Scott Cummings       |            nan    |        5 |            nan    | Teddy Williams     |
 | Gregor Brown         |            nan    |        6 |            nan    | Ben Donnell        |
 | Matt Fagerson        |            nan    |        7 |            nan    | Daniel Thomas      |
-| Jack Dempsey         |             79.04 |        8 |            nan    | Alun Lawrence      |
+| Jack Dempsey         |             78.69 |        8 |            nan    | Alun Lawrence      |
 | Jamie Dobie          |            nan    |        9 |            nan    | Aled Davies        |
 | Tom Jordan           |            nan    |       10 |            nan    | Callum Sheedy      |
-| Facundo Cordero      |             91.46 |       11 |              6.92 | Harri Millard      |
+| Facundo Cordero      |             91.15 |       11 |              7.08 | Harri Millard      |
 | Sione Tuipulotu      |            nan    |       12 |            nan    | Ben Thomas         |
 | Huw Jones            |            nan    |       13 |            nan    | Rey Lee-Lo         |
 | Kyle Rowe            |            nan    |       14 |            nan    | Mason Grady        |
 | Josh McKay           |            nan    |       15 |            nan    | Cameron Winnett    |
 | Gregor Hiddleston    |            nan    |       16 |             42.42 | Evan Lloyd         |
-| Jamie Bhatti         |             98.22 |       17 |             93.01 | Ed Byrne           |
-| Patrick Schickerling |            nan    |       18 |             37.99 | Rhys Litterick     |
+| Jamie Bhatti         |             97.97 |       17 |             93.14 | Ed Byrne           |
+| Patrick Schickerling |            nan    |       18 |             36.85 | Rhys Litterick     |
 | Richie Gray          |            nan    |       19 |              7.73 | Rory Thornton      |
-| Max Williamson       |            nan    |       20 |             44.33 | Mackenzie Martin   |
-| Euan Ferrie          |            nan    |       21 |             69.21 | Ellis Bevan        |
-| Ben Afshar           |             39.47 |       22 |             77.12 | Tinus de Beer      |
-| Duncan Weir          |             84.13 |       23 |             90.87 | Gabriel Hamer-Webb |
+| Max Williamson       |            nan    |       20 |             44.67 | Mackenzie Martin   |
+| Euan Ferrie          |            nan    |       21 |             68.42 | Ellis Bevan        |
+| Ben Afshar           |             40    |       22 |             75.65 | Tinus de Beer      |
+| Duncan Weir          |             84.13 |       23 |             93.22 | Gabriel Hamer-Webb |
 

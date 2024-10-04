@@ -9,7 +9,7 @@ categories: "Top 14 Orange 2024" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.534, which translates to predicting Clermont Auvergne to win by 1.2.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.538, which translates to predicting Clermont Auvergne to win by 1.3.
 
 Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 21 to 22
 
@@ -42,5 +42,5 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Imputed Lineups: Toulon by nan
 
 
-Clermont Auvergne by 1.4 on a neutral pitch
+Clermont Auvergne by 1.3 on a neutral pitch
 

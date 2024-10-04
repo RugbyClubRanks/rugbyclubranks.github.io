@@ -9,7 +9,7 @@ categories: "NPC 2024" match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.74, which translates to predicting Wellington to win by 9.6.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.74, which translates to predicting Wellington to win by 9.4.
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -40,7 +40,7 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction without Player Minutes: Hawke's Bay by nan
 
 
-Hawke's Bay by 9.2 on a neutral pitch
+Hawke's Bay by 15.1 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -74,7 +74,7 @@ Hawke's Bay by 9.2 on a neutral pitch
 | Tom Parsons         |            nan    |        5 |               nan | Caleb Delany          |
 | Hugh Renton         |            nan    |        6 |               nan | Akira Ieremia         |
 | Josh Kaifa          |            nan    |        7 |               nan | Sione Halalilo        |
-| Devan Flanders      |             92.61 |        8 |               nan | Peter Lakai           |
+| Devan Flanders      |             94.91 |        8 |               nan | Peter Lakai           |
 | Folau Fakatava      |            nan    |        9 |               nan | Kyle Preston          |
 | Lincoln McClutchie  |            nan    |       10 |               nan | Jackson Garden-Bachop |
 | Freedom Vahaakolo   |            nan    |       11 |               nan | Losi Filipo           |
@@ -84,7 +84,7 @@ Hawke's Bay by 9.2 on a neutral pitch
 | Harry Godfrey       |            nan    |       15 |               nan | Tjay Clarke           |
 | Kianu Kereru-Symes  |            nan    |       16 |               nan | Leon Tuiloma          |
 | Tim Farrell         |            nan    |       17 |               nan | Yota Kamimori         |
-| Josh Smith          |             38.56 |       18 |               nan | Bradley Crichton      |
+| Josh Smith          |             38.18 |       18 |               nan | Bradley Crichton      |
 | Geoff Cridge        |            nan    |       19 |               nan | Filo Paulo            |
 | Patrick Tuifua      |            nan    |       20 |               nan | Matolu Petaia         |
 | Sam Wye             |            nan    |       21 |               nan | Nui Muriwai           |

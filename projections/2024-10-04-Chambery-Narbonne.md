@@ -42,5 +42,5 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Imputed Lineups: Narbonne by nan
 
 
-Chambery by 2.4 on a neutral pitch
+Chambery by 2.5 on a neutral pitch
 
