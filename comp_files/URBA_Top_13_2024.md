@@ -1,6 +1,6 @@
 ---  
 title: "URBA Top 13 2024 Status"  
-date: 2024-10-14 6:00:00 -0500  
+date: 2024-10-21 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,18 +17,18 @@ aside:
 
 | Club                 |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Newman               |       22 |     17 |                  248 |                     2 |                nan |                   81 |
-| SIC                  |       21 |     17 |                  202 |                     1 |                nan |                   77 |
-| Alumni               |       22 |     16 |                  125 |                     2 |                nan |                   72 |
+| Newman               |       23 |     17 |                  247 |                     3 |                nan |                   81 |
+| SIC                  |       22 |     17 |                  193 |                     1 |                nan |                   76 |
+| Alumni               |       23 |     17 |                  134 |                     2 |                nan |                   76 |
+| Belgrano             |       23 |     16 |                  182 |                     5 |                nan |                   69 |
 | CASI                 |       22 |     13 |                  219 |                     5 |                nan |                   68 |
-| Belgrano             |       22 |     15 |                  181 |                     5 |                nan |                   67 |
-| San Luis             |       22 |     10 |                  -85 |                     6 |                nan |                   51 |
-| CUBA                 |       22 |      8 |                   30 |                     7 |                nan |                   49 |
-| Hindu                |       22 |     10 |                 -111 |                     4 |                nan |                   47 |
+| San Luis             |       22 |     10 |                  -85 |                     6 |                nan |                   50 |
+| CUBA                 |       22 |      8 |                   30 |                     7 |                nan |                   48 |
+| Hindu                |       22 |     10 |                 -111 |                     4 |                nan |                   46 |
 | Regatas Bella Vista  |       22 |      8 |                  -62 |                     6 |                nan |                   43 |
 | Buenos Aires         |       21 |      8 |                 -119 |                     5 |                nan |                   37 |
 | Champagnat           |       22 |      3 |                 -282 |                     8 |                nan |                   24 |
-| Atlético del Rosario |       22 |      4 |                 -346 |                     2 |                nan |                   19 |
+| Atlético del Rosario |       22 |      4 |                 -346 |                     2 |                nan |                   18 |
 
 
 
@@ -37,10 +37,8 @@ aside:
 
 | Club     |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Newman   |                   1 |    1   |              7.77416 |                   0   |                0.2 |                  4.1 |
-| SIC      |                   1 |    0.9 |              4.6217  |                   0.1 |                0.2 |                  3.8 |
-| Alumni   |                   1 |    0.1 |             -4.6217  |                   0.6 |                0.1 |                  1.2 |
-| Belgrano |                   1 |    0   |             -7.77416 |                   0.4 |                0.1 |                  0.7 |
+| Alumni   |                   1 |    0.8 |              4.13516 |                   0.2 |                0.2 |                  3.7 |
+| Belgrano |                   1 |    0.2 |             -4.13516 |                   0.6 |                0.2 |                  1.5 |
 
 
 
@@ -49,18 +47,18 @@ aside:
 
 | Club                 |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Newman               |              23 |   18   |              255.774 |                   2   |                0.2 |                 85.1 |
-| SIC                  |              22 |   17.9 |              206.622 |                   1.1 |                0.2 |                 80.8 |
-| Alumni               |              23 |   16.1 |              120.378 |                   2.6 |                0.1 |                 73.2 |
+| Newman               |              23 |   17   |              247     |                   3   |                0   |                 81   |
+| Alumni               |              24 |   17.8 |              138.135 |                   2.2 |                0.2 |                 79.7 |
+| SIC                  |              22 |   17   |              193     |                   1   |                0   |                 76   |
+| Belgrano             |              24 |   16.2 |              177.865 |                   5.6 |                0.2 |                 70.5 |
 | CASI                 |              22 |   13   |              219     |                   5   |                0   |                 68   |
-| Belgrano             |              23 |   15   |              173.226 |                   5.4 |                0.1 |                 67.7 |
-| San Luis             |              22 |   10   |              -85     |                   6   |                0   |                 51   |
-| CUBA                 |              22 |    8   |               30     |                   7   |                0   |                 49   |
-| Hindu                |              22 |   10   |             -111     |                   4   |                0   |                 47   |
+| San Luis             |              22 |   10   |              -85     |                   6   |                0   |                 50   |
+| CUBA                 |              22 |    8   |               30     |                   7   |                0   |                 48   |
+| Hindu                |              22 |   10   |             -111     |                   4   |                0   |                 46   |
 | Regatas Bella Vista  |              22 |    8   |              -62     |                   6   |                0   |                 43   |
 | Buenos Aires         |              21 |    8   |             -119     |                   5   |                0   |                 37   |
 | Champagnat           |              22 |    3   |             -282     |                   8   |                0   |                 24   |
-| Atlético del Rosario |              22 |    4   |             -346     |                   2   |                0   |                 19   |
+| Atlético del Rosario |              22 |    4   |             -346     |                   2   |                0   |                 18   |
 
 
 
@@ -69,37 +67,24 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 65.6% | 12.4 |
-| Player Level: Lineup | 69.0% | 11.2 |
-| Player Level: Minutes | 68.5% | 11.4 |
+| Club Level | 64.7% | 12.4 |
+| Player Level: Lineup | 67.3% | 11.3 |
+| Player Level: Minutes | 67.6% | 11.5 |
 
 
 # Future Predictions
 
-## Week 23
+## Week 24
 
-### Newman V Belgrano on 2024/10/19
-
-
-Average Margin: Newman by 7.8
-
-Average Scoreline: 31-23
-
-<p float="left">
-<img src="plots/performances_2024-10-19-Newman_V_Belgrano.png" width="32%" />
-<img src="plots/resultbar_2024-10-19-Newman_V_Belgrano.png" width="32%" />
-<img src="plots/spreads_2024-10-19-Newman_V_Belgrano.png" width="32%" />
-</p>
-
-### SIC V Alumni on 2024/10/20
+### Alumni V Belgrano on 2024/10/26
 
 
-Average Margin: SIC by 4.6
+Average Margin: Alumni by 4.1
 
-Average Scoreline: 25-20
+Average Scoreline: 30-26
 
 <p float="left">
-<img src="plots/performances_2024-10-20-SIC_V_Alumni.png" width="32%" />
-<img src="plots/resultbar_2024-10-20-SIC_V_Alumni.png" width="32%" />
-<img src="plots/spreads_2024-10-20-SIC_V_Alumni.png" width="32%" />
+<img src="plots/performances_2024-10-26-Alumni_V_Belgrano.png" width="32%" />
+<img src="plots/resultbar_2024-10-26-Alumni_V_Belgrano.png" width="32%" />
+<img src="plots/spreads_2024-10-26-Alumni_V_Belgrano.png" width="32%" />
 </p>
