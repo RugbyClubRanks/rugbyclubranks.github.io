@@ -9,9 +9,9 @@ categories: "United Rugby Championship 2024" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.524, which translates to predicting Stormers to win by 0.8.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.517, which translates to predicting Stormers to win by 0.6.
 
-Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 23 to 24
+Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 24 to 24
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -42,5 +42,5 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Imputed Lineups: Glasgow Warriors by nan
 
 
-Stormers by 0.5 on a neutral pitch
+Stormers by 3.1 on a neutral pitch
 

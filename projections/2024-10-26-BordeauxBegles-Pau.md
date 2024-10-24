@@ -9,7 +9,7 @@ categories: "Top 14 Orange 2024" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.739, which translates to predicting Bordeaux Begles to win by 8.8.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.737, which translates to predicting Bordeaux Begles to win by 8.7.
 
 Our Over/Under is 58.5 - and combined with the spread above, we have a predicted scoreline of 25 to 34
 

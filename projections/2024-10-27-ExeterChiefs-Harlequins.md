@@ -9,7 +9,7 @@ categories: "Gallagher Premiership 2024" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.548, which translates to predicting Exeter Chiefs to win by 1.6.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.547, which translates to predicting Exeter Chiefs to win by 1.6.
 
 Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 24 to 26
 
@@ -42,5 +42,5 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Imputed Lineups: Harlequins by nan
 
 
-Exeter Chiefs by 14.1 on a neutral pitch
+Exeter Chiefs by 12.6 on a neutral pitch
 

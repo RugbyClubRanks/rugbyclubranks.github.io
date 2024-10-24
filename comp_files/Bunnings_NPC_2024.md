@@ -1,6 +1,6 @@
 ---  
 title: "Bunnings NPC 2024 Status"  
-date: 2024-10-21 6:00:00 -0500  
+date: 2024-10-24 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,8 +17,8 @@ aside:
 
 | Club             |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Wellington       |       12 |     10 |                   67 |                     0 |                nan |                   43 |
-| Bay of Plenty    |       12 |      9 |                  126 |                     2 |                nan |                   41 |
+| Wellington       |       13 |     11 |                   98 |                     0 |                nan |                   47 |
+| Bay of Plenty    |       13 |      9 |                   95 |                     2 |                nan |                   41 |
 | Taranaki         |       11 |      8 |                   85 |                     2 |                nan |                   37 |
 | Tasman           |       11 |      8 |                   65 |                     0 |                nan |                   34 |
 | Canterbury       |       12 |      7 |                   18 |                     1 |                nan |                   32 |
@@ -39,8 +39,8 @@ aside:
 
 | Club          |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Wellington    |                   1 |    0.8 |              4.56205 |                   0.2 |                0.4 |                  3.7 |
-| Bay of Plenty |                   1 |    0.2 |             -4.56205 |                   0.4 |                0.3 |                  1.6 |
+| Wellington    |                   1 |    0.9 |              7.23537 |                   0.1 |                0.4 |                  4.1 |
+| Bay of Plenty |                   1 |    0.1 |             -7.23537 |                   0.4 |                0.2 |                  1   |
 
 
 
@@ -49,8 +49,8 @@ aside:
 
 | Club             |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Wellington       |              13 |   10.8 |              71.5621 |                   0.2 |                0.4 |                 46.7 |
-| Bay of Plenty    |              13 |    9.2 |             121.438  |                   2.4 |                0.3 |                 42.6 |
+| Wellington       |              14 |   11.9 |             105.235  |                   0.1 |                0.4 |                 51.1 |
+| Bay of Plenty    |              14 |    9.1 |              87.7646 |                   2.4 |                0.2 |                 42   |
 | Taranaki         |              11 |    8   |              85      |                   2   |                0   |                 37   |
 | Tasman           |              11 |    8   |              65      |                   0   |                0   |                 34   |
 | Canterbury       |              12 |    7   |              18      |                   1   |                0   |                 32   |
@@ -71,21 +71,21 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 72.0% | 12.8 |
+| Club Level | 72.4% | 13.0 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
 
 # Future Predictions
 
-## Week 13
+## Week 14
 
 ### Wellington V Bay of Plenty on 2024/10/26
 
 
-Average Margin: Wellington by 4.6
+Average Margin: Wellington by 7.2
 
-Average Scoreline: 31-26
+Average Scoreline: 33-26
 
 <p float="left">
 <img src="plots/performances_2024-10-26-Wellington_V_BayofPlenty.png" width="32%" />

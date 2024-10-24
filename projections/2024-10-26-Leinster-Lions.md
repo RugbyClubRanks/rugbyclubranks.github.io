@@ -9,7 +9,7 @@ categories: "United Rugby Championship 2024" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.789, which translates to predicting Leinster to win by 11.2.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.787, which translates to predicting Leinster to win by 11.1.
 
 Our Over/Under is 59.5 - and combined with the spread above, we have a predicted scoreline of 24 to 35
 
@@ -42,5 +42,5 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Imputed Lineups: Lions by nan
 
 
-Leinster by 9.4 on a neutral pitch
+Leinster by 15.3 on a neutral pitch
 

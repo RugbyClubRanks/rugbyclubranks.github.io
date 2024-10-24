@@ -9,7 +9,7 @@ categories: "Top 14 Orange 2024" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.72, which translates to predicting Stade Toulousain to win by 8.0.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.719, which translates to predicting Stade Toulousain to win by 7.9.
 
 Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 21 to 29
 
@@ -42,5 +42,5 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Imputed Lineups: Toulon by nan
 
 
-Stade Toulousain by 8.8 on a neutral pitch
+Stade Toulousain by 13.3 on a neutral pitch
 

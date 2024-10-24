@@ -9,7 +9,7 @@ categories: "Top 14 Orange 2024" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.54, which translates to predicting Stade Francais Paris to win by 1.4.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.539, which translates to predicting Stade Francais Paris to win by 1.3.
 
 Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 24 to 25
 
@@ -42,5 +42,5 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Imputed Lineups: Clermont Auvergne by nan
 
 
-Clermont Auvergne by 13.8 on a neutral pitch
+Clermont Auvergne by 10.0 on a neutral pitch
 
