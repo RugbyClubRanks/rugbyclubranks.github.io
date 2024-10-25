@@ -1,6 +1,6 @@
 ---  
 title: "URBA Top 13 2024 Status"  
-date: 2024-10-24 6:00:00 -0500  
+date: 2024-10-25 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -37,8 +37,8 @@ aside:
 
 | Club     |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Alumni   |                   1 |    0.8 |              3.93452 |                   0.2 |                0.2 |                  3.6 |
-| Belgrano |                   1 |    0.2 |             -3.93452 |                   0.6 |                0.2 |                  1.5 |
+| Alumni   |                   1 |    0.8 |              4.05063 |                   0.2 |                0.2 |                  3.7 |
+| Belgrano |                   1 |    0.2 |             -4.05063 |                   0.6 |                0.2 |                  1.5 |
 
 
 
@@ -48,9 +48,9 @@ aside:
 | Club                 |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
 | Newman               |              23 |   17   |              247     |                   3   |                0   |                 81   |
-| Alumni               |              24 |   17.8 |              137.935 |                   2.2 |                0.2 |                 79.6 |
+| Alumni               |              24 |   17.8 |              138.051 |                   2.2 |                0.2 |                 79.7 |
 | SIC                  |              22 |   17   |              193     |                   1   |                0   |                 76   |
-| Belgrano             |              24 |   16.2 |              178.065 |                   5.6 |                0.2 |                 70.5 |
+| Belgrano             |              24 |   16.2 |              177.949 |                   5.6 |                0.2 |                 70.5 |
 | CASI                 |              22 |   13   |              219     |                   5   |                0   |                 68   |
 | San Luis             |              22 |   10   |              -85     |                   6   |                0   |                 50   |
 | CUBA                 |              22 |    8   |               30     |                   7   |                0   |                 48   |
@@ -69,7 +69,7 @@ aside:
 | ------ | ------ | ------ |
 | Club Level | 64.7% | 12.4 |
 | Player Level: Lineup | 68.1% | 11.3 |
-| Player Level: Minutes | 68.5% | 11.5 |
+| Player Level: Minutes | 68.5% | 11.4 |
 
 
 # Future Predictions
@@ -79,7 +79,7 @@ aside:
 ### Alumni V Belgrano on 2024/10/26
 
 
-Average Margin: Alumni by 3.9
+Average Margin: Alumni by 4.1
 
 Average Scoreline: 30-26
 

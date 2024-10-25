@@ -11,7 +11,7 @@ categories: "Division de Honor de Rugby 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.72, which translates to predicting Cisneros to win by 8.6.
 
-Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 21 to 30
+Our Over/Under is 54.5 - and combined with the spread above, we have a predicted scoreline of 23 to 31
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ FC Barcelona by 3.4 on a neutral pitch
 
 |   Away Minutes | Away Player                    |   Away Percentile |   Number |   Home Percentile | Home Player             |   Home Minutes |
 |---------------:|:-------------------------------|------------------:|---------:|------------------:|:------------------------|---------------:|
-|             29 | Goga Turiashvili               |               nan |        1 |            nan    | Nicolas Fernandez-Duran |             81 |
-|             57 | Shota Tlashadze                |               nan |        2 |            nan    | Gonzalo Gonzalez        |             52 |
-|             21 | Sergio Cetti                   |               nan |        3 |            nan    | Andres Vallejo          |             81 |
-|             59 | Pedro Maximiliano Alonso Perez |               nan |        4 |            nan    | Jorge Gonzalez          |             81 |
-|             15 | Rochedi Mirabet                |               nan |        5 |            nan    | Pablo Riva Boal         |             81 |
-|             68 | Lucas Santipolo                |               nan |        6 |            nan    | Juan Ozonas             |             80 |
-|             73 | Gerson Ortiz                   |               nan |        7 |            nan    | Robert Edginton         |             53 |
-|             21 | Ramiro Robledo                 |               nan |        8 |            nan    | Manex Pujana Lendinez   |             50 |
-|             68 | Adria Bonell                   |               nan |        9 |            nan    | Ike Irusta              |             25 |
-|             81 | Santiago Mansilla              |               nan |       10 |            nan    | Gonzalo Vinuesa         |             81 |
-|             65 | Felipe Alegria Haines          |               nan |       11 |            nan    | Miguel Perez            |             14 |
-|             15 | Pau Aira Rebollo               |               nan |       12 |            nan    | Nicolas Petros          |             12 |
-|             80 | Daniel Barranco                |               nan |       13 |            nan    | Juan Fonseca            |             80 |
-|             80 | Valentino Cinti                |               nan |       14 |            nan    | Yako Irusta             |             61 |
-|             14 | Arthur Carpentier              |               nan |       15 |            nan    | Francisco Soriano       |             65 |
-|             18 | Xavier Cebrian                 |               nan |       16 |            nan    | Jose Ramon Borraz       |             59 |
-|             21 | David Capdeferro Llanas        |               nan |       17 |            nan    | Pablo Flores            |             80 |
-|             15 | Theodore Nwosu-Hope            |               nan |       18 |             75.38 | Andres Petros           |             66 |
-|             81 | Marcel Peña                    |               nan |       19 |            nan    | Adrian Plaza Pegueroles |             65 |
-|             12 | Francisco Uriarte              |               nan |       20 |            nan    | Guillermo Espinos       |             59 |
-|             80 | Nicolas Borrazas               |               nan |       21 |            nan    | Daniel Sacristan        |             80 |
-|             71 | Juan Facundo Czop              |               nan |       22 |            nan    | Rafael Medina           |             80 |
-|             66 | Juan Zas Bustingorri           |               nan |       23 |            nan    | Lucas Nicolas Armani    |             71 |
+|             61 | Goga Turiashvili               |               nan |        1 |            nan    | Nicolas Fernandez-Duran |             30 |
+|             81 | Shota Tlashadze                |               nan |        2 |            nan    | Gonzalo Gonzalez        |             29 |
+|             12 | Sergio Cetti                   |               nan |        3 |            nan    | Andres Vallejo          |             59 |
+|             14 | Pedro Maximiliano Alonso Perez |               nan |        4 |            nan    | Jorge Gonzalez          |             80 |
+|             66 | Rochedi Mirabet                |               nan |        5 |            nan    | Pablo Riva Boal         |             59 |
+|             50 | Lucas Santipolo                |               nan |        6 |            nan    | Juan Ozonas             |             21 |
+|              6 | Gerson Ortiz                   |               nan |        7 |            nan    | Robert Edginton         |             80 |
+|             18 | Ramiro Robledo                 |               nan |        8 |            nan    | Manex Pujana Lendinez   |             80 |
+|             25 | Adria Bonell                   |               nan |        9 |            nan    | Ike Irusta              |             65 |
+|             27 | Santiago Mansilla              |               nan |       10 |            nan    | Gonzalo Vinuesa         |             71 |
+|             80 | Felipe Alegria Haines          |               nan |       11 |            nan    | Miguel Perez            |             53 |
+|             80 | Pau Aira Rebollo               |               nan |       12 |            nan    | Nicolas Petros          |             80 |
+|             51 | Daniel Barranco                |               nan |       13 |            nan    | Juan Fonseca            |             80 |
+|             22 | Valentino Cinti                |               nan |       14 |            nan    | Yako Irusta             |             71 |
+|             57 | Arthur Carpentier              |               nan |       15 |            nan    | Francisco Soriano       |             62 |
+|             81 | Xavier Cebrian                 |               nan |       16 |            nan    | Jose Ramon Borraz       |             80 |
+|             61 | David Capdeferro Llanas        |               nan |       17 |            nan    | Pablo Flores            |             74 |
+|             20 | Theodore Nwosu-Hope            |               nan |       18 |             75.38 | Andres Petros           |             80 |
+|             29 | Marcel Peña                    |               nan |       19 |            nan    | Adrian Plaza Pegueroles |             66 |
+|             20 | Francisco Uriarte              |               nan |       20 |            nan    | Guillermo Espinos       |             80 |
+|              8 | Nicolas Borrazas               |               nan |       21 |            nan    | Daniel Sacristan        |             80 |
+|             55 | Juan Facundo Czop              |               nan |       22 |            nan    | Rafael Medina           |             14 |
+|             81 | Juan Zas Bustingorri           |               nan |       23 |            nan    | Lucas Nicolas Armani    |             52 |
 

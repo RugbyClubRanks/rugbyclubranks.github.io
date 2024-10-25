@@ -9,7 +9,7 @@ categories: "United Rugby Championship 2024" match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.314, which translates to predicting Bulls to win by 3.3.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.314, which translates to predicting Bulls to win by 3.2.
 
 Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 27 to 24
 
@@ -82,7 +82,7 @@ Bulls by nan on a neutral pitch
 | Kurt-Lee Arendse    |            nan    |       11 |               nan | Matt Gallagher      |
 | David Kriel         |            nan    |       12 |               nan | Juan Ignacio Brex   |
 | Canan Moodie        |            nan    |       13 |               nan | Tommaso Menoncello  |
-| Aphiwe Dyantyi      |              9.24 |       14 |               nan | Paolo Odogwu        |
+| Aphiwe Dyantyi      |              9.26 |       14 |               nan | Paolo Odogwu        |
 | Devon Williams      |             97.33 |       15 |               nan | Rhyno Smith         |
 | Akker van der Merwe |            nan    |       16 |               nan | Bautista Bernasconi |
 | Dylan Smith         |             96.21 |       17 |               nan | Thomas Gallo        |

@@ -90,6 +90,6 @@ Bristol Rugby by 0.1 on a neutral pitch
 | Gavin Thornbury         |            nan    |       19 |            nan    | Joe Owen                   |
 | Angus Scott-Young       |            nan    |       20 |             71.1  | Jake Heenan                |
 | Archie McParland        |            nan    |       21 |            nan    | Sam Wolstenholme           |
-| Charlie Savala          |             41.07 |       22 |            nan    | Sam Worsley                |
+| Charlie Savala          |             40.62 |       22 |            nan    | Sam Worsley                |
 | Jake Garside            |            nan    |       23 |            nan    | Benjamin Elizalde          |
 

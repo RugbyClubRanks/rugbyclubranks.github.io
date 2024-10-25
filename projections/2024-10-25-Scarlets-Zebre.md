@@ -9,7 +9,7 @@ categories: "United Rugby Championship 2024" match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.636, which translates to predicting Scarlets to win by 8.2.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.635, which translates to predicting Scarlets to win by 8.1.
 
 Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 21 to 29
 
@@ -80,7 +80,7 @@ Zebre by 1.9 on a neutral pitch
 | Alessandro Fusco       |            nan    |        9 |            nan    | Gareth Davies        |
 | Giovanni Montemauri    |            nan    |       10 |            nan    | Sam Costelow         |
 | Simone Gesi            |            nan    |       11 |            nan    | Blair Murray         |
-| Damiano Mazza          |             79.47 |       12 |            nan    | Eddie James          |
+| Damiano Mazza          |             79.42 |       12 |            nan    | Eddie James          |
 | Luca Morisi            |            nan    |       13 |            nan    | Macs Page            |
 | Ben Cambriani          |            nan    |       14 |            nan    | Tom Rogers           |
 | Geronimo Prisciantelli |            nan    |       15 |            nan    | Ioan Lloyd           |
@@ -90,6 +90,6 @@ Zebre by 1.9 on a neutral pitch
 | Leonard Krumov         |            nan    |       19 |            nan    | Alex Craig           |
 | Giacomo Ferrari        |            nan    |       20 |            nan    | Jarrod Taylor        |
 | Gonzalo Garcia         |            nan    |       21 |             39.16 | Efan Jones           |
-| Enrico Lucchin         |             71.87 |       22 |            nan    | Ioan Nicholas        |
+| Enrico Lucchin         |             71.81 |       22 |            nan    | Ioan Nicholas        |
 | Giacomo Da Re          |            nan    |       23 |            nan    | Johnny Williams      |
 

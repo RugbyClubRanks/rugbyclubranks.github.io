@@ -388,7 +388,7 @@ key: page-recents
 ## Bunnings NPC
 
 
-[2024](comp_files\Bunnings_NPC_2024) - Prediction Accuracy: 72.0% 
+[2024](comp_files\Bunnings_NPC_2024) - Prediction Accuracy: 72.4% 
 ## Japan Rugby League One D2
 
 

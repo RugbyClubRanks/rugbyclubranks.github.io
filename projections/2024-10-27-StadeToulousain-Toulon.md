@@ -42,5 +42,5 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Imputed Lineups: Toulon by nan
 
 
-Stade Toulousain by 13.3 on a neutral pitch
+Stade Toulousain by 14.3 on a neutral pitch
 

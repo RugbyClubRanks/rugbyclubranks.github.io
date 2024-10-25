@@ -9,7 +9,7 @@ categories: "Pro D2 2024" match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.571, which translates to predicting Oyonnax to win by 6.0.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.571, which translates to predicting Oyonnax to win by 5.8.
 
 Our Over/Under is 44.5 - and combined with the spread above, we have a predicted scoreline of 19 to 25
 
@@ -78,7 +78,7 @@ Beziers by 12.4 on a neutral pitch
 | Clément Ancely     |            nan    |        7 |            nan    | Antoine Miquel      |
 | Sias Koen          |            nan    |        8 |            nan    | Loic Godener        |
 | Damien Añon        |            nan    |        9 |            nan    | Vasil Lobzhanidze   |
-| Samuel Marques     |            nan    |       10 |             38.39 | Chris William Smith |
+| Samuel Marques     |            nan    |       10 |             37.95 | Chris William Smith |
 | Paul Réau          |            nan    |       11 |            nan    | Daniel Ikpefan      |
 | Watisoni Votu      |            nan    |       12 |            nan    | Lucas Mensa         |
 | Paul Recor         |            nan    |       13 |            nan    | Chris Farrell       |
