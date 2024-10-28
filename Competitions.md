@@ -172,7 +172,7 @@ key: page-recents
 ## Gallagher Premiership
 
 
-[2024](comp_files\Gallagher_Premiership_2024) - Prediction Accuracy: 68.0% 
+[2024](comp_files\Gallagher_Premiership_2024) - Prediction Accuracy: 69.2% 
 
 [2023](comp_files\Gallagher_Premiership_2023) - Prediction Accuracy: 64.0% 
 
@@ -344,7 +344,7 @@ key: page-recents
 ## Pro D2
 
 
-[2024](comp_files\Pro_D2_2024) - Prediction Accuracy: 55.4% 
+[2024](comp_files\Pro_D2_2024) - Prediction Accuracy: 54.4% 
 
 [2023](comp_files\Pro_D2_2023) - Prediction Accuracy: 74.3% 
 
@@ -388,7 +388,7 @@ key: page-recents
 ## Bunnings NPC
 
 
-[2024](comp_files\Bunnings_NPC_2024) - Prediction Accuracy: 72.4% 
+[2024](comp_files\Bunnings_NPC_2024) - Prediction Accuracy: 72.0% 
 ## Japan Rugby League One D2
 
 
