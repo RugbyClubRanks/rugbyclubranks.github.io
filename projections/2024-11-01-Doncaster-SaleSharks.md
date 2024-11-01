@@ -9,9 +9,9 @@ categories: "premiershuprugbycup 2024" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.131, which translates to predicting Sale Sharks to win by 16.0.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.132, which translates to predicting Sale Sharks to win by 16.0.
 
-Our Over/Under is 64.5 - and combined with the spread above, we have a predicted scoreline of 40 to 24
+Our Over/Under is 75.5 - and combined with the spread above, we have a predicted scoreline of 46 to 30
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model

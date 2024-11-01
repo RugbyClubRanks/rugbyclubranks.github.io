@@ -9,9 +9,9 @@ categories: "Division de Honor de Rugby 2024" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.226, which translates to predicting VRAC to win by 10.8.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.222, which translates to predicting VRAC to win by 11.0.
 
-Our Over/Under is 78.5 - and combined with the spread above, we have a predicted scoreline of 45 to 34
+Our Over/Under is 77.5 - and combined with the spread above, we have a predicted scoreline of 44 to 33
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -42,5 +42,5 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Imputed Lineups: VRAC by nan
 
 
-VRAC by 3.1 on a neutral pitch
+VRAC by 0.0 on a neutral pitch
 

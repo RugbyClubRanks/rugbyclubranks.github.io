@@ -1,6 +1,6 @@
 ---  
 title: "International Test Match 2024 Status"  
-date: 2024-10-28 6:00:00 -0500  
+date: 2024-11-01 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -18,7 +18,7 @@ aside:
 | Club                     |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
 | Hong Kong                |        7 |      6 |                  303 |                     1 |                nan |                   27 |
-| Scotland                 |        5 |      5 |                  201 |                     0 |                nan |                   22 |
+| Scotland                 |        6 |      6 |                  232 |                     0 |                nan |                   26 |
 | Zimbabwe                 |        4 |      4 |                   54 |                     0 |                nan |                   16 |
 | Chile                    |        6 |      4 |                   30 |                     0 |                nan |                   16 |
 | South Africa             |        4 |      3 |                   77 |                     1 |                  2 |                   15 |
@@ -73,10 +73,10 @@ aside:
 | Slovenia                 |        2 |      1 |                  -13 |                     0 |                nan |                    4 |
 | Thailand                 |        2 |      1 |                  -15 |                     0 |                nan |                    4 |
 | Ivory Coast              |        3 |      1 |                  -24 |                     0 |                nan |                    4 |
-| Fiji                     |        2 |      1 |                  -33 |                     0 |                  0 |                    4 |
 | Kazakhstan               |        2 |      1 |                  -36 |                     0 |                nan |                    4 |
 | Canada                   |        2 |      1 |                  -48 |                     0 |                nan |                    4 |
 | Bulgaria                 |        3 |      1 |                  -58 |                     0 |                nan |                    4 |
+| Fiji                     |        3 |      1 |                  -64 |                     0 |                nan |                    4 |
 | Bosnia and Herzegovina   |        3 |      1 |                  -65 |                     0 |                nan |                    4 |
 | Malaysia                 |        4 |      1 |                 -118 |                     0 |                nan |                    4 |
 | Paraguay                 |        6 |      1 |                 -254 |                     0 |                nan |                    4 |
@@ -111,14 +111,14 @@ aside:
 
 | Club        |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Latvia      |                   1 |    1   |             57.5462  |                   0   |                0.9 |                  4.9 |
-| Switzerland |                   1 |    1   |             46.9919  |                   0   |                0.9 |                  4.9 |
-| Scotland    |                   1 |    0.9 |              9.85319 |                   0.1 |                0.4 |                  4.2 |
-| New Zealand |                   1 |    0.7 |              2.70695 |                   0.3 |                0.6 |                  3.5 |
-| England     |                   1 |    0.3 |             -2.70695 |                   0.4 |                0.1 |                  1.9 |
-| Fiji        |                   1 |    0.1 |             -9.85319 |                   0.3 |                0.2 |                  0.7 |
-| Belgium     |                   1 |    0   |            -46.9919  |                   0   |                0.1 |                  0.1 |
-| Estonia     |                   1 |    0   |            -57.5462  |                   0   |                0   |                  0.1 |
+| Latvia      |                   1 |    1   |             57.8264  |                   0   |                0.9 |                  4.9 |
+| Switzerland |                   1 |    1   |             46.3388  |                   0   |                0.9 |                  4.9 |
+| Scotland    |                   1 |    1   |             11.4235  |                   0   |                0.4 |                  4.3 |
+| New Zealand |                   1 |    0.6 |              2.48882 |                   0.3 |                0.6 |                  3.5 |
+| England     |                   1 |    0.4 |             -2.48882 |                   0.4 |                0.2 |                  2   |
+| Fiji        |                   1 |    0   |            -11.4235  |                   0.2 |                0.1 |                  0.5 |
+| Belgium     |                   1 |    0   |            -46.3388  |                   0   |                0.1 |                  0.1 |
+| Estonia     |                   1 |    0   |            -57.8264  |                   0   |                0   |                  0.1 |
 
 
 
@@ -127,24 +127,24 @@ aside:
 
 | Club                     |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
+| Scotland                 |               7 |    7   |             243.424  |                   0   |                0.4 |                 30.3 |
 | Hong Kong                |               7 |    6   |             303      |                   1   |                0   |                 27   |
-| Scotland                 |               6 |    5.9 |             210.853  |                   0.1 |                0.4 |                 26.2 |
-| New Zealand              |               4 |    3.7 |              52.707  |                   0.3 |                1.6 |                 16.5 |
+| New Zealand              |               4 |    3.6 |              52.4888 |                   0.3 |                1.6 |                 16.5 |
 | Zimbabwe                 |               4 |    4   |              54      |                   0   |                0   |                 16   |
 | Chile                    |               6 |    4   |              30      |                   0   |                0   |                 16   |
 | South Africa             |               4 |    3   |              77      |                   1   |                2   |                 15   |
 | Australia                |               3 |    3   |              28      |                   0   |                2   |                 14   |
-| Switzerland              |               3 |    3   |              87.9919 |                   0   |                0.9 |                 12.9 |
-| Latvia                   |               3 |    3   |              78.5462 |                   0   |                0.9 |                 12.9 |
+| Switzerland              |               3 |    3   |              87.3388 |                   0   |                0.9 |                 12.9 |
+| Latvia                   |               3 |    3   |              78.8264 |                   0   |                0.9 |                 12.9 |
 | Moldova                  |               3 |    3   |             100      |                   0   |                0   |                 12   |
 | Algeria                  |               4 |    3   |              16      |                   0   |                0   |                 12   |
 | Argentina                |               3 |    2   |              67      |                   0   |                2   |                 10   |
 | Italy                    |               3 |    2   |              42      |                   0   |                2   |                 10   |
 | Hungary                  |               4 |    2   |              40      |                   1   |                0   |                  9   |
+| England                  |               4 |    1.4 |              24.5112 |                   2.4 |                1.2 |                  9   |
 | France                   |               3 |    2   |              22      |                   0   |                1   |                  9   |
 | Samoa                    |               2 |    2   |              12      |                   0   |                0   |                  9   |
 | Uganda                   |               3 |    2   |              11      |                   1   |                0   |                  9   |
-| England                  |               4 |    1.3 |              24.293  |                   2.4 |                1.1 |                  8.9 |
 | Finland                  |               2 |    2   |             121      |                   0   |                0   |                  8   |
 | Luxembourg               |               2 |    2   |              80      |                   0   |                0   |                  8   |
 | Sri Lanka                |               2 |    2   |              73      |                   0   |                0   |                  8   |
@@ -164,8 +164,8 @@ aside:
 | Senegal                  |               4 |    1   |             -19      |                   1   |                0   |                  5   |
 | Singapore                |               3 |    1   |             -21      |                   1   |                0   |                  5   |
 | Portugal                 |               2 |    1   |             -28      |                   0   |                1   |                  5   |
-| Fiji                     |               3 |    1.1 |             -42.8532 |                   0.3 |                0.2 |                  4.7 |
-| Belgium                  |               3 |    1   |             -49.9919 |                   0   |                0.1 |                  4.1 |
+| Fiji                     |               4 |    1   |             -75.4235 |                   0.2 |                0.1 |                  4.5 |
+| Belgium                  |               3 |    1   |             -49.3388 |                   0   |                0.1 |                  4.1 |
 | Colombia                 |               2 |    1   |             105      |                   0   |                0   |                  4   |
 | Barbados                 |               1 |    1   |              84      |                   0   |                0   |                  4   |
 | Jamaica                  |               1 |    1   |              34      |                   0   |                0   |                  4   |
@@ -196,7 +196,7 @@ aside:
 | Wales                    |               3 |    0   |             -45      |                   0   |                1   |                  1   |
 | Japan                    |               3 |    0   |             -65      |                   1   |                0   |                  1   |
 | Uruguay                  |               3 |    0   |            -101      |                   0   |                0   |                  1   |
-| Estonia                  |               2 |    0   |            -162.546  |                   0   |                0   |                  0.1 |
+| Estonia                  |               2 |    0   |            -162.826  |                   0   |                0   |                  0.1 |
 | Montenegro               |               1 |    0   |             -10      |                   0   |                0   |                  0   |
 | Peru                     |               1 |    0   |             -12      |                   0   |                0   |                  0   |
 | Guyana                   |               1 |    0   |             -23      |                   0   |                0   |                  0   |
@@ -221,7 +221,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 74.0% | 23.0 |
+| Club Level | 74.3% | 23.0 |
 | Player Level: Lineup | 70.6% | 19.5 |
 | Player Level: Minutes | 72.7% | 20.4 |
 
@@ -233,7 +233,7 @@ aside:
 ### Belgium V Switzerland on 2024/11/02
 
 
-Average Margin: Switzerland by 47.0
+Average Margin: Switzerland by 46.3
 
 Average Scoreline: 52-5
 
@@ -246,9 +246,9 @@ Average Scoreline: 52-5
 ### Scotland V Fiji on 2024/11/02
 
 
-Average Margin: Scotland by 9.9
+Average Margin: Scotland by 11.4
 
-Average Scoreline: 33-23
+Average Scoreline: 33-22
 
 <p float="left">
 <img src="plots/performances_2024-11-02-Scotland_V_Fiji.png" width="32%" />
@@ -259,9 +259,9 @@ Average Scoreline: 33-23
 ### England V New Zealand on 2024/11/02
 
 
-Average Margin: New Zealand by 2.7
+Average Margin: New Zealand by 2.5
 
-Average Scoreline: 42-39
+Average Scoreline: 43-40
 
 <p float="left">
 <img src="plots/performances_2024-11-02-England_V_NewZealand.png" width="32%" />
@@ -272,7 +272,7 @@ Average Scoreline: 42-39
 ### Latvia V Estonia on 2024/11/02
 
 
-Average Margin: Latvia by 57.5
+Average Margin: Latvia by 57.8
 
 Average Scoreline: 74-17
 

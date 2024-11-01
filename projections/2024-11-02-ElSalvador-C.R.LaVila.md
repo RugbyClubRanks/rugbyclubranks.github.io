@@ -9,7 +9,7 @@ categories: "Division de Honor de Rugby 2024" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.925, which translates to predicting El Salvador to win by 22.6.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.921, which translates to predicting El Salvador to win by 22.2.
 
 Our Over/Under is 59.5 - and combined with the spread above, we have a predicted scoreline of 18 to 41
 
@@ -42,5 +42,5 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Imputed Lineups: C.R. La Vila by nan
 
 
-El Salvador by 5.9 on a neutral pitch
+El Salvador by 4.2 on a neutral pitch
 
