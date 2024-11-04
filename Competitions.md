@@ -32,7 +32,7 @@ key: page-recents
 ## International Test Match
 
 
-[2024](comp_files\International_Test_Match_2024) - Prediction Accuracy: 74.0% 
+[2024](comp_files\International_Test_Match_2024) - Prediction Accuracy: 74.3% 
 
 [2023](comp_files\International_Test_Match_2023) - Prediction Accuracy: 77.8% 
 
@@ -138,7 +138,7 @@ key: page-recents
 ## United Rugby Championship
 
 
-[2024](comp_files\United_Rugby_Championship_2024) - Prediction Accuracy: 78.0% 
+[2024](comp_files\United_Rugby_Championship_2024) - Prediction Accuracy: 78.3% 
 
 [2023](comp_files\United_Rugby_Championship_2023) - Prediction Accuracy: 76.7% 
 
@@ -174,7 +174,7 @@ key: page-recents
 ## Gallagher Premiership
 
 
-[2024](comp_files\Gallagher_Premiership_2024) - Prediction Accuracy: 73.3% 
+[2024](comp_files\Gallagher_Premiership_2024) - Prediction Accuracy: 66.7% 
 
 [2023](comp_files\Gallagher_Premiership_2023) - Prediction Accuracy: 64.0% 
 
@@ -186,7 +186,7 @@ key: page-recents
 ## Top 14 Orange
 
 
-[2024](comp_files\Top_14_Orange_2024) - Prediction Accuracy: 81.8% 
+[2024](comp_files\Top_14_Orange_2024) - Prediction Accuracy: 80.4% 
 
 [2023](comp_files\Top_14_Orange_2023) - Prediction Accuracy: 70.1% 
 
@@ -336,7 +336,7 @@ key: page-recents
 ## Nationale
 
 
-[2024](comp_files\Nationale_2024) - Prediction Accuracy: 76.8% 
+[2024](comp_files\Nationale_2024) - Prediction Accuracy: 80.0% 
 
 [2023](comp_files\Nationale_2023) - Prediction Accuracy: 74.9% 
 
@@ -348,7 +348,7 @@ key: page-recents
 ## Pro D2
 
 
-[2024](comp_files\Pro_D2_2024) - Prediction Accuracy: 56.2% 
+[2024](comp_files\Pro_D2_2024) - Prediction Accuracy: 56.9% 
 
 [2023](comp_files\Pro_D2_2023) - Prediction Accuracy: 74.3% 
 

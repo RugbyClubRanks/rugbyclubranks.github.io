@@ -10,47 +10,35 @@ key: page-recents
 
 [In depth model review and projections for International Test Match 2024](comp_files/International_Test_Match_2024)
 
-Competition Accuracy: 78 of 105 (74.29%)
+Competition Accuracy: 81 of 109 (74.31%)
 
-Competition Error: 23.02 points per match
+Competition Error: 23.37 points per match
 
 Last Round Accuracy: 34 of 43 (79.07%)
 
-Last Round Error: 26.03 points per match
+Last Round Error: 26.4 points per match
 
-[2024-10-26 Latvia at Norway; 36-19](reviews//2024-10-26-Norway-Latvia)
+[2024-11-02 Estonia at Latvia; 0-62](reviews//2024-11-02-Latvia-Estonia)
 
-[2024-10-26 Hungary at Slovakia; 51-16](reviews//2024-10-26-Slovakia-Hungary)
+[2024-11-02 Switzerland at Belgium; 7-48](reviews//2024-11-02-Belgium-Switzerland)
+
+[2024-11-02 New Zealand at England; 24-22](reviews//2024-11-02-England-NewZealand)
+
+[2024-11-02 Fiji at Scotland; 17-57](reviews//2024-11-02-Scotland-Fiji)
 ## Rugby Europe Trophy
 
 
 [In depth model review and projections for Rugby Europe Trophy 2024](comp_files/Rugby_Europe_Trophy_2024)
 
-Competition Accuracy: 2 of 2 (100.0%)
+Competition Accuracy: 3 of 3 (100.0%)
 
-Competition Error: 13.05 points per match
+Competition Error: 16.75 points per match
 
 Last Round Accuracy: 2 of 2 (100.0%)
 
-Last Round Error: 13.05 points per match
+Last Round Error: 25.01 points per match
 
-[2024-10-26 Czech Republic at Sweden; 16-22](reviews//2024-10-26-Sweden-CzechRepublic)
-
-[2024-10-26 Luxembourg at Lithuania; 20-47](reviews//2024-10-26-Lithuania-Luxembourg)
-## Tests Matchs
-
-
-[In depth model review and projections for Tests Matchs 2024](comp_files/Tests_Matchs_2024)
-
-Competition Accuracy: 1 of 1 (100.0%)
-
-Competition Error: 31.48 points per match
-
-Last Round Accuracy: 1 of 1 (100.0%)
-
-Last Round Error: 31.48 points per match
-
-[2024-10-26 New Zealand at Japan; 64-19](reviews//2024-10-26-Japan-NewZealand)
+[2024-11-02 Sweden at Lithuania; 46-19](reviews//2024-11-02-Lithuania-Sweden)
 # Top Flight Leagues
 
 ## Allianz Premier 15s
@@ -58,168 +46,122 @@ Last Round Error: 31.48 points per match
 
 [In depth model review and projections for Allianz Premier 15s 2024](comp_files/Allianz_Premier_15s_2024)
 
-Competition Accuracy: 14 of 16 (87.5%)
+Competition Accuracy: 16 of 20 (80.0%)
 
-Competition Error: 12.47 points per match
-
-Last Round Accuracy: 5 of 5 (100.0%)
-
-Last Round Error: 9.98 points per match
-
-[2024-10-26 Loughborough Lightning at Harlequins Women; 19-22](reviews//2024-10-26-HarlequinsWomen-LoughboroughLightning)
-
-[2024-10-26 Bristol Bears Women at Sale Sharks Women; 57-10](reviews//2024-10-26-SaleSharksWomen-BristolBearsWomen)
-
-[2024-10-26 Ealing Trailfinders Women at Exeter Chiefs Women; 25-36](reviews//2024-10-26-ExeterChiefsWomen-EalingTrailfindersWomen)
-
-[2024-10-27 Gloucester-Hartpury Women at Saracens Women; 38-49](reviews//2024-10-27-SaracensWomen-Gloucester-HartpuryWomen)
-## Gallagher Premiership
-
-
-[In depth model review and projections for Gallagher Premiership 2024](comp_files/Gallagher_Premiership_2024)
-
-Competition Accuracy: 20 of 30 (66.67%)
-
-Competition Error: 11.02 points per match
+Competition Error: 13.46 points per match
 
 Last Round Accuracy: 3 of 5 (60.0%)
 
-Last Round Error: 14.71 points per match
+Last Round Error: 15.61 points per match
 
-[2024-10-25 Northampton Saints at Bristol Rugby; 23-31](reviews//2024-10-25-BristolRugby-NorthamptonSaints)
+[2024-11-01 Harlequins Women at Bristol Bears Women; 34-19](reviews//2024-11-01-BristolBearsWomen-HarlequinsWomen)
 
-[2024-10-26 Newcastle Falcons at Gloucester Rugby; 7-36](reviews//2024-10-26-GloucesterRugby-NewcastleFalcons)
+[2024-11-02 Saracens Women at Exeter Chiefs Women; 12-29](reviews//2024-11-02-ExeterChiefsWomen-SaracensWomen)
 
-[2024-10-26 Leicester Tigers at Saracens; 32-29](reviews//2024-10-26-Saracens-LeicesterTigers)
+[2024-11-03 Ealing Trailfinders Women at Leicester Tigers Women; 36-17](reviews//2024-11-03-LeicesterTigersWomen-EalingTrailfindersWomen)
 
-[2024-10-26 Sale Sharks at Bath Rugby; 13-40](reviews//2024-10-26-BathRugby-SaleSharks)
+[2024-11-03 Sale Sharks Women at Gloucester-Hartpury Women; 14-27](reviews//2024-11-03-Gloucester-HartpuryWomen-SaleSharksWomen)
+## Division de Honor de Rugby
 
-[2024-10-27 Harlequins at Exeter Chiefs; 36-19](reviews//2024-10-27-ExeterChiefs-Harlequins)
+
+[In depth model review and projections for Division de Honor de Rugby 2024](comp_files/Division_de_Honor_de_Rugby_2024)
+
+Competition Accuracy: 16 of 23 (69.57%)
+
+Competition Error: 11.4 points per match
+
+Last Round Accuracy: 5 of 6 (83.33%)
+
+Last Round Error: 12.61 points per match
+
+[2024-11-02 UE Santboiana at Aparejadores Burgos; 22-51](reviews//2024-11-02-AparejadoresBurgos-UESantboiana)
+
+[2024-11-02 C.R. La Vila at El Salvador; 21-28](reviews//2024-11-02-ElSalvador-C.R.LaVila)
+
+[2024-11-02 Real Ciencias at Ordizia; 20-25](reviews//2024-11-02-Ordizia-RealCiencias)
+
+[2024-11-02 VRAC at FC Barcelona; 26-3](reviews//2024-11-02-FCBarcelona-VRAC)
+
+[2024-11-02 Alcobendas at CRC Pozuelo Rugby; 54-23](reviews//2024-11-02-CRCPozueloRugby-Alcobendas)
 ## Top 14 Orange
 
 
 [In depth model review and projections for Top 14 Orange 2024](comp_files/Top_14_Orange_2024)
 
-Competition Accuracy: 45 of 56 (80.36%)
+Competition Accuracy: 50 of 63 (79.37%)
 
-Competition Error: 11.41 points per match
-
-Last Round Accuracy: 4 of 7 (57.14%)
-
-Last Round Error: 16.81 points per match
-
-[2024-10-26 Perpignan at Racing 92; 23-30](reviews//2024-10-26-Racing92-Perpignan)
-
-[2024-10-26 Castres Olympique at Vannes; 28-34](reviews//2024-10-26-Vannes-CastresOlympique)
-
-[2024-10-26 Bayonne at Lyon; 49-38](reviews//2024-10-26-Lyon-Bayonne)
-
-[2024-10-26 Clermont Auvergne at Stade Francais Paris; 6-36](reviews//2024-10-26-StadeFrancaisParis-ClermontAuvergne)
-
-[2024-10-26 La Rochelle at Montpellier Herault; 0-16](reviews//2024-10-26-MontpellierHerault-LaRochelle)
-
-[2024-10-26 Pau at Bordeaux Begles; 6-19](reviews//2024-10-26-BordeauxBegles-Pau)
-
-[2024-10-27 Toulon at Stade Toulousain; 5-57](reviews//2024-10-27-StadeToulousain-Toulon)
-## United Rugby Championship
-
-
-[In depth model review and projections for United Rugby Championship 2024](comp_files/United_Rugby_Championship_2024)
-
-Competition Accuracy: 36 of 46 (78.26%)
-
-Competition Error: 10.67 points per match
-
-Last Round Accuracy: 6 of 8 (75.0%)
-
-Last Round Error: 8.66 points per match
-
-[2024-10-25 Bulls at Benetton Treviso; 17-15](reviews//2024-10-25-BenettonTreviso-Bulls)
-
-[2024-10-25 Zebre at Scarlets; 8-30](reviews//2024-10-25-Scarlets-Zebre)
-
-[2024-10-26 Dragons at Connacht; 7-31](reviews//2024-10-26-Connacht-Dragons)
-
-[2024-10-26 Edinburgh at Ospreys; 13-22](reviews//2024-10-26-Ospreys-Edinburgh)
-
-[2024-10-26 Ulster at Cardiff Blues; 19-21](reviews//2024-10-26-CardiffBlues-Ulster)
-
-[2024-10-26 Lions at Leinster; 6-24](reviews//2024-10-26-Leinster-Lions)
-
-[2024-10-26 Munster at Sharks; 24-41](reviews//2024-10-26-Sharks-Munster)
-
-[2024-10-26 Glasgow Warriors at Stormers; 28-17](reviews//2024-10-26-Stormers-GlasgowWarriors)
-# Domestic Leagues
-
-## Bunnings NPC
-
-
-[In depth model review and projections for Bunnings NPC 2024](comp_files/Bunnings_NPC_2024)
-
-Competition Accuracy: 55 of 76 (72.37%)
-
-Competition Error: 12.67 points per match
+Competition Error: 10.95 points per match
 
 Last Round Accuracy: 5 of 7 (71.43%)
 
-Last Round Error: 11.35 points per match
+Last Round Error: 7.21 points per match
 
-[2024-10-25 Bay of Plenty at Wellington; 20-23](reviews//2024-10-25-Wellington-BayofPlenty)
+[2024-11-02 Montpellier Herault at Castres Olympique; 26-30](reviews//2024-11-02-CastresOlympique-MontpellierHerault)
+
+[2024-11-02 Stade Francais Paris at La Rochelle; 18-35](reviews//2024-11-02-LaRochelle-StadeFrancaisParis)
+
+[2024-11-02 Lyon at Toulon; 10-21](reviews//2024-11-02-Toulon-Lyon)
+
+[2024-11-02 Vannes at Perpignan; 13-32](reviews//2024-11-02-Perpignan-Vannes)
+
+[2024-11-02 Bordeaux Begles at Clermont Auvergne; 27-32](reviews//2024-11-02-ClermontAuvergne-BordeauxBegles)
+
+[2024-11-02 Racing 92 at Pau; 33-23](reviews//2024-11-02-Pau-Racing92)
+
+[2024-11-03 Stade Toulousain at Bayonne; 8-12](reviews//2024-11-03-Bayonne-StadeToulousain)
+# Domestic Leagues
+
 ## Nationale
 
 
 [In depth model review and projections for Nationale 2024](comp_files/Nationale_2024)
 
-Competition Accuracy: 48 of 60 (80.0%)
+Competition Accuracy: 52 of 66 (78.79%)
 
-Competition Error: 10.29 points per match
+Competition Error: 9.77 points per match
 
-Last Round Accuracy: 5 of 7 (71.43%)
+Last Round Accuracy: 6 of 7 (85.71%)
 
-Last Round Error: 11.24 points per match
+Last Round Error: 10.39 points per match
 
 [2024-11-01 Carqueiranne-Hyeres at Tarbes; 0-25](reviews//2024-11-01-Tarbes-Carqueiranne-Hyeres)
+
+[2024-11-01 Marcq-en-Baroeul at Albi; 10-23](reviews//2024-11-01-Albi-Marcq-en-Baroeul)
+
+[2024-11-01 Perigueux at Carcassonne; 12-14](reviews//2024-11-01-Carcassonne-Perigueux)
+
+[2024-11-01 Chambery at Rouen; 19-26](reviews//2024-11-01-Rouen-Chambery)
+
+[2024-11-02 Bourgoin-Jallieu at Suresnes; 19-31](reviews//2024-11-02-Suresnes-Bourgoin-Jallieu)
+
+[2024-11-02 Massy at Narbonne; 20-21](reviews//2024-11-02-Narbonne-Massy)
+
+[2024-11-02 US Bressane at Langon; 20-17](reviews//2024-11-02-Langon-USBressane)
 ## Pro D2
 
 
 [In depth model review and projections for Pro D2 2024](comp_files/Pro_D2_2024)
 
-Competition Accuracy: 37 of 65 (56.92%)
+Competition Accuracy: 42 of 72 (58.33%)
 
-Competition Error: 8.72 points per match
+Competition Error: 9.17 points per match
 
 Last Round Accuracy: 6 of 8 (75.0%)
 
-Last Round Error: 5.86 points per match
-
-[2024-10-24 Grenoble at Montauban; 25-30](reviews//2024-10-24-Montauban-Grenoble)
-
-[2024-10-25 Aurillac at Mont-de-Marsan; 33-29](reviews//2024-10-25-Mont-de-Marsan-Aurillac)
-
-[2024-10-25 Dax at Brive; 13-15](reviews//2024-10-25-Brive-Dax)
-
-[2024-10-25 Colomiers at Agen; 18-27](reviews//2024-10-25-Agen-Colomiers)
-
-[2024-10-25 Beziers at Oyonnax; 13-18](reviews//2024-10-25-Oyonnax-Beziers)
-
-[2024-10-25 Biarritz Olympique at Soyaux-Angouleme; 22-33](reviews//2024-10-25-Soyaux-Angouleme-BiarritzOlympique)
-
-[2024-10-25 Provence Rugby at Nevers; 11-15](reviews//2024-10-25-Nevers-ProvenceRugby)
-
-[2024-10-25 Valence Romans Drome Rugby at Nice; 24-19](reviews//2024-10-25-Nice-ValenceRomansDromeRugby)
+Last Round Error: 12.32 points per match
 
 [2024-10-31 Montauban at Colomiers; 29-33](reviews//2024-10-31-Colomiers-Montauban)
-## URBA Top 13
 
+[2024-11-01 Agen at Grenoble; 10-37](reviews//2024-11-01-Grenoble-Agen)
 
-[In depth model review and projections for URBA Top 13 2024](comp_files/URBA_Top_13_2024)
+[2024-11-01 Mont-de-Marsan at Provence Rugby; 30-45](reviews//2024-11-01-ProvenceRugby-Mont-de-Marsan)
 
-Competition Accuracy: 87 of 134 (64.93%)
+[2024-11-01 Nice at Dax; 19-22](reviews//2024-11-01-Dax-Nice)
 
-Competition Error: 12.32 points per match
+[2024-11-01 Oyonnax at Aurillac; 23-24](reviews//2024-11-01-Aurillac-Oyonnax)
 
-Last Round Accuracy: 2 of 6 (33.33%)
+[2024-11-01 Brive at Valence Romans Drome Rugby; 19-42](reviews//2024-11-01-ValenceRomansDromeRugby-Brive)
 
-Last Round Error: 10.13 points per match
+[2024-11-01 Nevers at Biarritz Olympique; 14-43](reviews//2024-11-01-BiarritzOlympique-Nevers)
 
-[2024-10-26 Belgrano at Alumni; 17-20](reviews//2024-10-26-Alumni-Belgrano)
+[2024-11-01 Soyaux-Angouleme at Beziers; 13-29](reviews//2024-11-01-Beziers-Soyaux-Angouleme)
