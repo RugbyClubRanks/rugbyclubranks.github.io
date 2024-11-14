@@ -5,34 +5,18 @@ key: page-recents
 ---
 # International Matches
 
-## Autumn Nations Series
-
-
-[In depth model review and projections for Autumn Nations Series 2024](comp_files/Autumn_Nations_Series_2024)
-
-Competition Accuracy: 0 of 2 (0.0%)
-
-Competition Error: 20.44 points per match
-
-Last Round Accuracy: 0 of 2 (0.0%)
-
-Last Round Error: 20.44 points per match
-
-[2024-11-09 Argentina at Italy; 50-18](reviews//2024-11-09-Italy-Argentina)
-
-[2024-11-10 Fiji at Wales; 24-19](reviews//2024-11-10-Wales-Fiji)
 ## International Test Match
 
 
 [In depth model review and projections for International Test Match 2024](comp_files/International_Test_Match_2024)
 
-Competition Accuracy: 87 of 119 (73.11%)
+Competition Accuracy: 87 of 123 (70.73%)
 
-Competition Error: 23.2 points per match
+Competition Error: 23.16 points per match
 
-Last Round Accuracy: 30 of 43 (69.77%)
+Last Round Accuracy: 27 of 43 (62.79%)
 
-Last Round Error: 27.95 points per match
+Last Round Error: 28.73 points per match
 
 [2024-11-05 Zimbabwe at United Arab Emirates; 62-22](reviews//2024-11-05-UnitedArabEmirates-Zimbabwe)
 
@@ -40,15 +24,25 @@ Last Round Error: 27.95 points per match
 
 [2024-11-09 Uganda at Kenya; 25-27](reviews//2024-11-09-Kenya-Uganda)
 
-[2024-11-09 Brazil at Hong Kong; 23-10](reviews//2024-11-09-HongKong-Brazil)
+[2024-11-09 United States of America at Portugal; 21-17](reviews//2024-11-09-Portugal-UnitedStatesofAmerica)
+
+[2024-11-09 Slovakia at Ukraine; 13-135](reviews//2024-11-09-Ukraine-Slovakia)
 
 [2024-11-09 Uruguay at Spain; 24-33](reviews//2024-11-09-Spain-Uruguay)
 
+[2024-11-09 Tonga at Romania; 15-25](reviews//2024-11-09-Romania-Tonga)
+
 [2024-11-09 Australia at England; 42-37](reviews//2024-11-09-England-Australia)
+
+[2024-11-09 Argentina at Italy; 50-18](reviews//2024-11-09-Italy-Argentina)
+
+[2024-11-09 Chile at Canada; 44-14](reviews//2024-11-09-Canada-Chile)
 
 [2024-11-09 Japan at France; 12-52](reviews//2024-11-09-France-Japan)
 
-[2024-11-09 Slovakia at Ukraine; 13-135](reviews//2024-11-09-Ukraine-Slovakia)
+[2024-11-09 Brazil at Hong Kong; 23-10](reviews//2024-11-09-HongKong-Brazil)
+
+[2024-11-10 Fiji at Wales; 24-19](reviews//2024-11-10-Wales-Fiji)
 
 [2024-11-10 South Africa at Scotland; 32-15](reviews//2024-11-10-Scotland-SouthAfrica)
 ## Rugby Europe Trophy
@@ -65,6 +59,20 @@ Last Round Accuracy: 3 of 3 (100.0%)
 Last Round Error: 22.19 points per match
 
 [2024-11-09 Croatia at Czech Republic; 26-49](reviews//2024-11-09-CzechRepublic-Croatia)
+## Tests Matchs
+
+
+[In depth model review and projections for Tests Matchs 2024](comp_files/Tests_Matchs_2024)
+
+Competition Accuracy: 1 of 1 (100.0%)
+
+Competition Error: 11.81 points per match
+
+Last Round Accuracy: 1 of 1 (100.0%)
+
+Last Round Error: 11.81 points per match
+
+[2024-11-10 New Zealand A at Georgia; 31-13](reviews//2024-11-10-Georgia-NewZealandA)
 # Top Flight Leagues
 
 ## Allianz Premier 15s
@@ -78,11 +86,11 @@ Competition Error: 13.61 points per match
 
 Last Round Accuracy: 5 of 5 (100.0%)
 
-Last Round Error: 12.35 points per match
-
-[2024-11-09 Bristol Bears Women at Leicester Tigers Women; 62-7](reviews//2024-11-09-LeicesterTigersWomen-BristolBearsWomen)
+Last Round Error: 14.66 points per match
 
 [2024-11-09 Gloucester-Hartpury Women at Ealing Trailfinders Women; 32-19](reviews//2024-11-09-EalingTrailfindersWomen-Gloucester-HartpuryWomen)
+
+[2024-11-09 Bristol Bears Women at Leicester Tigers Women; 62-7](reviews//2024-11-09-LeicesterTigersWomen-BristolBearsWomen)
 
 [2024-11-10 Sale Sharks Women at Harlequins Women; 7-38](reviews//2024-11-10-HarlequinsWomen-SaleSharksWomen)
 
@@ -102,7 +110,19 @@ Last Round Accuracy: 7 of 7 (100.0%)
 
 Last Round Error: 16.82 points per match
 
+[2024-11-08 Albi at Bourgoin-Jallieu; 17-22](reviews//2024-11-08-Bourgoin-Jallieu-Albi)
+
+[2024-11-08 Carcassonne at US Bressane; 23-31](reviews//2024-11-08-USBressane-Carcassonne)
+
+[2024-11-09 Narbonne at Perigueux; 13-40](reviews//2024-11-09-Perigueux-Narbonne)
+
+[2024-11-09 Tarbes at Chambery; 10-45](reviews//2024-11-09-Chambery-Tarbes)
+
 [2024-11-09 Langon at Carqueiranne-Hyeres; 25-0](reviews//2024-11-09-Carqueiranne-Hyeres-Langon)
+
+[2024-11-09 Suresnes at Massy; 18-39](reviews//2024-11-09-Massy-Suresnes)
+
+[2024-11-09 Rouen at Marcq-en-Baroeul; 28-27](reviews//2024-11-09-Marcq-en-Baroeul-Rouen)
 ## Pro D2
 
 
@@ -116,16 +136,18 @@ Last Round Accuracy: 7 of 8 (87.5%)
 
 Last Round Error: 12.8 points per match
 
+[2024-11-07 Biarritz Olympique at Mont-de-Marsan; 15-33](reviews//2024-11-07-Mont-de-Marsan-BiarritzOlympique)
+
 [2024-11-08 Grenoble at Oyonnax; 38-23](reviews//2024-11-08-Oyonnax-Grenoble)
-
-[2024-11-08 Valence Romans Drome Rugby at Nevers; 17-27](reviews//2024-11-08-Nevers-ValenceRomansDromeRugby)
-
-[2024-11-08 Agen at Soyaux-Angouleme; 29-30](reviews//2024-11-08-Soyaux-Angouleme-Agen)
-
-[2024-11-08 Dax at Beziers; 17-50](reviews//2024-11-08-Beziers-Dax)
-
-[2024-11-08 Colomiers at Brive; 15-49](reviews//2024-11-08-Brive-Colomiers)
 
 [2024-11-08 Aurillac at Provence Rugby; 20-39](reviews//2024-11-08-ProvenceRugby-Aurillac)
 
 [2024-11-08 Nice at Montauban; 30-34](reviews//2024-11-08-Montauban-Nice)
+
+[2024-11-08 Colomiers at Brive; 15-49](reviews//2024-11-08-Brive-Colomiers)
+
+[2024-11-08 Dax at Beziers; 17-50](reviews//2024-11-08-Beziers-Dax)
+
+[2024-11-08 Agen at Soyaux-Angouleme; 29-30](reviews//2024-11-08-Soyaux-Angouleme-Agen)
+
+[2024-11-08 Valence Romans Drome Rugby at Nevers; 17-27](reviews//2024-11-08-Nevers-ValenceRomansDromeRugby)

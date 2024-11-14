@@ -9,7 +9,7 @@ categories: "Nationale 2024" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.524, which translates to predicting Tarbes to win by 1.3.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.522, which translates to predicting Tarbes to win by 1.6.
 
 Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 21 to 23
 
@@ -42,5 +42,5 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Imputed Lineups: Tarbes by 4.2
 
 
-Marcq-en-Baroeul by 6.4 on a neutral pitch
+Marcq-en-Baroeul by 6.3 on a neutral pitch
 
