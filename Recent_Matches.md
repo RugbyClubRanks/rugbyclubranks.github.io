@@ -10,13 +10,13 @@ key: page-recents
 
 [In depth model review and projections for International Test Match 2024](comp_files/International_Test_Match_2024)
 
-Competition Accuracy: 87 of 123 (70.73%)
+Competition Accuracy: 87 of 122 (71.31%)
 
-Competition Error: 23.16 points per match
+Competition Error: 23.06 points per match
 
-Last Round Accuracy: 27 of 43 (62.79%)
+Last Round Accuracy: 28 of 43 (65.12%)
 
-Last Round Error: 28.73 points per match
+Last Round Error: 27.96 points per match
 
 [2024-11-05 Zimbabwe at United Arab Emirates; 62-22](reviews//2024-11-05-UnitedArabEmirates-Zimbabwe)
 
@@ -24,9 +24,9 @@ Last Round Error: 28.73 points per match
 
 [2024-11-09 Uganda at Kenya; 25-27](reviews//2024-11-09-Kenya-Uganda)
 
-[2024-11-09 United States of America at Portugal; 21-17](reviews//2024-11-09-Portugal-UnitedStatesofAmerica)
+[2024-11-09 Brazil at Hong Kong; 23-10](reviews//2024-11-09-HongKong-Brazil)
 
-[2024-11-09 Slovakia at Ukraine; 13-135](reviews//2024-11-09-Ukraine-Slovakia)
+[2024-11-09 United States of America at Portugal; 21-17](reviews//2024-11-09-Portugal-UnitedStatesofAmerica)
 
 [2024-11-09 Uruguay at Spain; 24-33](reviews//2024-11-09-Spain-Uruguay)
 
@@ -40,7 +40,7 @@ Last Round Error: 28.73 points per match
 
 [2024-11-09 Japan at France; 12-52](reviews//2024-11-09-France-Japan)
 
-[2024-11-09 Brazil at Hong Kong; 23-10](reviews//2024-11-09-HongKong-Brazil)
+[2024-11-09 Slovakia at Ukraine; 13-135](reviews//2024-11-09-Ukraine-Slovakia)
 
 [2024-11-10 Fiji at Wales; 24-19](reviews//2024-11-10-Wales-Fiji)
 
@@ -102,17 +102,17 @@ Last Round Error: 14.66 points per match
 
 [In depth model review and projections for Nationale 2024](comp_files/Nationale_2024)
 
-Competition Accuracy: 56 of 72 (77.78%)
+Competition Accuracy: 55 of 72 (76.39%)
 
-Competition Error: 10.09 points per match
+Competition Error: 10.26 points per match
 
-Last Round Accuracy: 7 of 7 (100.0%)
+Last Round Accuracy: 6 of 7 (85.71%)
 
-Last Round Error: 16.82 points per match
-
-[2024-11-08 Albi at Bourgoin-Jallieu; 17-22](reviews//2024-11-08-Bourgoin-Jallieu-Albi)
+Last Round Error: 17.14 points per match
 
 [2024-11-08 Carcassonne at US Bressane; 23-31](reviews//2024-11-08-USBressane-Carcassonne)
+
+[2024-11-08 Albi at Bourgoin-Jallieu; 17-22](reviews//2024-11-08-Bourgoin-Jallieu-Albi)
 
 [2024-11-09 Narbonne at Perigueux; 13-40](reviews//2024-11-09-Perigueux-Narbonne)
 
@@ -128,13 +128,13 @@ Last Round Error: 16.82 points per match
 
 [In depth model review and projections for Pro D2 2024](comp_files/Pro_D2_2024)
 
-Competition Accuracy: 49 of 80 (61.25%)
+Competition Accuracy: 49 of 81 (60.49%)
 
-Competition Error: 9.54 points per match
+Competition Error: 9.58 points per match
 
-Last Round Accuracy: 7 of 8 (87.5%)
+Last Round Accuracy: 6 of 8 (75.0%)
 
-Last Round Error: 12.8 points per match
+Last Round Error: 13.04 points per match
 
 [2024-11-07 Biarritz Olympique at Mont-de-Marsan; 15-33](reviews//2024-11-07-Mont-de-Marsan-BiarritzOlympique)
 
@@ -151,3 +151,5 @@ Last Round Error: 12.8 points per match
 [2024-11-08 Agen at Soyaux-Angouleme; 29-30](reviews//2024-11-08-Soyaux-Angouleme-Agen)
 
 [2024-11-08 Valence Romans Drome Rugby at Nevers; 17-27](reviews//2024-11-08-Nevers-ValenceRomansDromeRugby)
+
+[2024-11-14 Montauban at Agen; 25-18](reviews//2024-11-14-Agen-Montauban)

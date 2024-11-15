@@ -9,9 +9,9 @@ categories: "Nationale 2024" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.648, which translates to predicting Massy to win by 5.4.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.649, which translates to predicting Massy to win by 5.4.
 
-Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 20 to 25
+Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 20 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Massy by 1.1 on a neutral pitch
 
 |   Away Minutes | Away Player                 |   Away Percentile |   Number |   Home Percentile | Home Player            |   Home Minutes |
 |---------------:|:----------------------------|------------------:|---------:|------------------:|:-----------------------|---------------:|
-|             57 | Elias Coulibaly             |             83.19 |        1 |             24.61 | Siegfried Fisi'ihoi    |             56 |
-|             31 | Jean-Étienne Lesueur        |             11.68 |        2 |             89.07 | Pierre Trassoudaine    |             80 |
-|             16 | Guiterembi Vickos           |             33.49 |        3 |             65.02 | Nicolas Ferrer         |             56 |
-|             80 | Nikita Bekov                |             54.09 |        4 |             78.83 | Saba Pesvianidze       |             80 |
-|             16 | Marvin Woki                 |             76.69 |        5 |             24.02 | Andrei Mahu            |             80 |
-|             30 | Florian Desbordes           |             21.23 |        6 |             50.39 | Tony Tissot            |             64 |
-|             55 | Damien Bozic                |             56.86 |        7 |             79.47 | Alexandre Loubiere     |             80 |
-|             68 | Boaventura Resende Da cunha |             31.78 |        8 |             45.72 | Simon Cowley           |             80 |
-|             80 | Thomas Lacroix              |             24.2  |        9 |             56.69 | Julien Blanc           |             56 |
-|             68 | Tanguy Lacoste              |             64.68 |       10 |              7.54 | Christian Lacombe      |             80 |
-|             66 | Yohan Fournier              |             13.68 |       11 |             53.42 | Alfred Mouandjo        |             60 |
-|             16 | Petero Tuwai                |             70.36 |       12 |             65.97 | Luca Mignot            |             18 |
-|             80 | JJ Taulagi                  |              5.58 |       13 |             79.32 | Arthur Seigneuret      |             80 |
-|             58 | Alexis Clement              |             16.61 |       14 |             20.2  | Giorgi Gogoladze       |             46 |
-|             65 | Goulwen Gueho               |             11    |       15 |             79.73 | Martin Carre           |             64 |
-|             19 | Simon Veyrac                |             82.48 |       16 |             31.71 | Adrien Sonzogni        |             19 |
-|             80 | Thibaud Sebire              |             70.37 |       17 |             67.66 | Tijde Visser           |             47 |
-|             80 | Ismael Martin               |            nan    |       18 |              8.81 | Fernandez Correa       |             16 |
-|             12 | Nail Audoire                |             19.86 |       19 |             22.61 | Hugo Boutin            |             80 |
-|             12 | Thomas Baudy                |             11.78 |       20 |             82.82 | Alex Preira            |             80 |
-|             12 | Théo Bachiri                |             17.83 |       21 |              3.02 | Gonzalo Lopez Bontempo |             16 |
-|             80 | Victor Barnier              |             71.18 |       22 |             31.05 | Lilian Rousset         |             80 |
-|             80 | Sacha Yahi                  |             40.93 |       23 |             28.18 | Lucas Rubio            |             80 |
+|             80 | Elias Coulibaly             |             81.25 |        1 |             23.97 | Siegfried Fisi'ihoi    |             35 |
+|             80 | Jean-Étienne Lesueur        |              8.79 |        2 |             90    | Pierre Trassoudaine    |             80 |
+|             62 | Guiterembi Vickos           |             27.08 |        3 |             60.66 | Nicolas Ferrer         |             13 |
+|             33 | Nikita Bekov                |             57.94 |        4 |             75.69 | Saba Pesvianidze       |             25 |
+|             66 | Marvin Woki                 |             71.25 |        5 |             25.64 | Andrei Mahu            |             80 |
+|             80 | Florian Desbordes           |             17.79 |        6 |             58.29 | Tony Tissot            |             80 |
+|             80 | Damien Bozic                |             47.84 |        7 |             80.4  | Alexandre Loubiere     |             62 |
+|             80 | Boaventura Resende Da cunha |             29.25 |        8 |             50.96 | Simon Cowley           |             72 |
+|             16 | Thomas Lacroix              |             29.78 |        9 |             59.87 | Julien Blanc           |             57 |
+|             68 | Tanguy Lacoste              |             62.18 |       10 |              8.32 | Christian Lacombe      |             80 |
+|             67 | Yohan Fournier              |             12.61 |       11 |             60.05 | Alfred Mouandjo        |             80 |
+|             24 | Petero Tuwai                |             69.32 |       12 |             71.87 | Luca Mignot            |             80 |
+|             80 | JJ Taulagi                  |              5.11 |       13 |             76.71 | Arthur Seigneuret      |             16 |
+|             80 | Alexis Clement              |             14.73 |       14 |             18.47 | Giorgi Gogoladze       |             16 |
+|             36 | Goulwen Gueho               |             11.58 |       15 |             78.19 | Martin Carre           |             16 |
+|             47 | Simon Veyrac                |             82.38 |       16 |             31.97 | Adrien Sonzogni        |             80 |
+|             64 | Thibaud Sebire              |             70.55 |       17 |             67.84 | Tijde Visser           |             31 |
+|             80 | Ismael Martin               |            nan    |       18 |              8.8  | Fernandez Correa       |             65 |
+|             64 | Nail Audoire                |             19.77 |       19 |             22.63 | Hugo Boutin            |             18 |
+|             12 | Thomas Baudy                |             11.39 |       20 |             82.83 | Alex Preira            |             16 |
+|             49 | Théo Bachiri                |             17.83 |       21 |              3.01 | Gonzalo Lopez Bontempo |             61 |
+|             23 | Victor Barnier              |             71.05 |       22 |             30.79 | Lilian Rousset         |             33 |
+|             64 | Sacha Yahi                  |             40.91 |       23 |             28.03 | Lucas Rubio            |             47 |
 

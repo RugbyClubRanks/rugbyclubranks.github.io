@@ -9,9 +9,9 @@ categories: "Nationale 2024" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.759, which translates to predicting Chambery to win by 10.2.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.758, which translates to predicting Chambery to win by 10.1.
 
-Our Over/Under is 56.5 - and combined with the spread above, we have a predicted scoreline of 23 to 33
+Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 21 to 31
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Chambery by 16.2 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             80 | Ximun Bessonart     |             12.47 |        1 |             91.8  | Nugzar Somkhishvili  |             28 |
-|             55 | Florian Lamothe     |             16.54 |        2 |             92.87 | Yan Tabarot          |             58 |
-|             80 | Luka Vea            |             43.66 |        3 |             81.76 | Lasha Tabidze        |             80 |
-|             64 | Léo Estaque         |             33.01 |        4 |             87.63 | Ahmed Tidiane Kane   |             59 |
-|              8 | Baptiste Peytavi    |              6.32 |        5 |             55.69 | Fabien Witz          |             80 |
-|             80 | Jules Bousquet      |             45.47 |        6 |             93.53 | Jean-Baptiste Grenod |             23 |
-|             30 | Spike Salman        |             12.68 |        7 |             61.26 | Colin Lebian         |             80 |
-|             69 | Filipe Manu         |              0.19 |        8 |             17.29 | Taniela Matakaiongo  |             80 |
-|             22 | Thomas Millet       |             10.19 |        9 |              8.12 | Sonatane Takulua     |             26 |
-|             22 | Alexandre Perez     |             20.63 |       10 |             26.59 | Thibault Moreno      |             22 |
-|             42 | Jonathan Duffau     |             23.94 |       11 |             66.86 | Mateo Guerret        |             32 |
-|             52 | Savenaca Rawaca     |              1.56 |       12 |             53.52 | Youenn Floch         |             30 |
-|             50 | Johan Paulet        |             87.01 |       13 |             91.03 | Emmanuel Vaitulukina |             15 |
-|             48 | Clement Latorre     |             22.15 |       14 |             52.77 | Martin Bonnet        |             80 |
-|             63 | Amona Artaud        |             38.61 |       15 |             71.04 | Thomas Hecquet       |             48 |
-|             50 | Lasha Mirtskhulava  |            nan    |       16 |             51.53 | Gela Murusidze       |             50 |
-|             80 | Vincent Dolier      |             78.15 |       17 |             57.06 | Quentin Beaudaux     |             48 |
-|             22 | Irakli Mirtskhulava |             86.58 |       18 |             96    | Baptiste Collet      |             80 |
-|             80 | Mathieu Soufflet    |             38.26 |       19 |             55.13 | Pierre-Nicolas Dance |             42 |
-|             52 | Jean Guicherd       |             14.41 |       20 |             24.9  | Enzo Marzocca        |             80 |
-|             80 | Maile Mamao         |             15.46 |       21 |             37.7  | Arwel Robson         |             80 |
-|             61 | Matias Brocal       |             57.65 |       22 |             34.96 | Corentin Astier      |             80 |
-|             80 | Matheo Guyon        |             36.11 |       23 |             63.49 | Mickael Blanc        |             48 |
+|             80 | Ximun Bessonart     |             12.32 |        1 |             92.42 | Nugzar Somkhishvili  |             52 |
+|             30 | Florian Lamothe     |             17.12 |        2 |             92.42 | Yan Tabarot          |             13 |
+|             28 | Luka Vea            |             48.75 |        3 |             82.46 | Lasha Tabidze        |             80 |
+|             32 | Léo Estaque         |             35.05 |        4 |             87.05 | Ahmed Tidiane Kane   |             22 |
+|             32 | Baptiste Peytavi    |              5.77 |        5 |             50.49 | Fabien Witz          |             26 |
+|             28 | Jules Bousquet      |             50.6  |        6 |             93.7  | Jean-Baptiste Grenod |             26 |
+|             15 | Spike Salman        |             13.04 |        7 |             56.99 | Colin Lebian         |             19 |
+|             80 | Filipe Manu         |              0.18 |        8 |             18.91 | Taniela Matakaiongo  |             23 |
+|             28 | Thomas Millet       |             10.03 |        9 |              8.44 | Sonatane Takulua     |             52 |
+|             15 | Alexandre Perez     |             20.79 |       10 |             33.47 | Thibault Moreno      |             80 |
+|             32 | Jonathan Duffau     |             23.84 |       11 |             69.32 | Mateo Guerret        |             50 |
+|              4 | Savenaca Rawaca     |              1.74 |       12 |             59.36 | Youenn Floch         |             80 |
+|             30 | Johan Paulet        |             87.03 |       13 |             91.32 | Emmanuel Vaitulukina |             50 |
+|             80 | Clement Latorre     |             19.69 |       14 |             48.17 | Martin Bonnet        |             32 |
+|             80 | Amona Artaud        |             35.52 |       15 |             71.24 | Thomas Hecquet       |             48 |
+|             80 | Lasha Mirtskhulava  |            nan    |       16 |             51.52 | Gela Murusidze       |             48 |
+|             80 | Vincent Dolier      |             78.18 |       17 |             57.12 | Quentin Beaudaux     |             52 |
+|             78 | Irakli Mirtskhulava |             86.59 |       18 |             96.01 | Baptiste Collet      |             80 |
+|             80 | Mathieu Soufflet    |             38.15 |       19 |             55.27 | Pierre-Nicolas Dance |             80 |
+|              2 | Jean Guicherd       |             14.42 |       20 |             24.9  | Enzo Marzocca        |             65 |
+|             28 | Maile Mamao         |             15.25 |       21 |             37.62 | Arwel Robson         |             65 |
+|             80 | Matias Brocal       |             57.77 |       22 |             34.69 | Corentin Astier      |             50 |
+|             80 | Matheo Guyon        |             36.04 |       23 |             63.56 | Mickael Blanc        |             30 |
 

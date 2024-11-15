@@ -9,9 +9,9 @@ categories: "Nationale 2024" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.473, which translates to predicting Rouen to win by 1.0.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.473, which translates to predicting Rouen to win by 0.9.
 
-Our Over/Under is 30.5 - and combined with the spread above, we have a predicted scoreline of 16 to 15
+Our Over/Under is 38.5 - and combined with the spread above, we have a predicted scoreline of 20 to 19
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Rouen by 8.7 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player                  |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:-----------------------------|---------------:|
-|             59 | Ewan Clément          |             42.78 |        1 |             22.03 | Eli Serra-Miglietti          |             80 |
-|             80 | Mathieu Bonnot        |             81.49 |        2 |             65.4  | Joseph Reynaud               |             80 |
-|             72 | Khvicha Tsopurashvili |             47.8  |        3 |             87.19 | Sive Mazosiwe                |             50 |
-|             80 | Corentin Vernet       |             41.37 |        4 |             40.57 | Lucio Anconetani             |             30 |
-|             80 | Will Witty            |             49.56 |        5 |             33.63 | Jean-Baptiste Rende          |             14 |
-|             80 | Manolo Laffond        |             53.67 |        6 |             81.71 | Joachim Beaumont             |             52 |
-|             15 | Tienie Burger         |             92.67 |        7 |             67.47 | Arthur Bruges                |             64 |
-|             62 | Willy N'Diaye         |             10.22 |        8 |              6.88 | Otilo Kafotamaki             |             80 |
-|             80 | Ilan El Khattabi      |             15.13 |        9 |             51.59 | Dylan Nocete                 |             25 |
-|             34 | Benjamin Pehau        |             91.87 |       10 |             44.44 | Paul Decavel                 |             80 |
-|             22 | Benito Masilevu       |             86.89 |       11 |             65.72 | Jeannick Ouassiero           |             33 |
-|             80 | Nicolas Nieto         |             67.34 |       12 |             56.18 | Louis Decavel                |             80 |
-|             68 | Joaquin Riera         |             81.88 |       13 |              9.24 | Hugo Detre                   |             33 |
-|             49 | Benjamin Descamps     |             82.57 |       14 |             15.96 | Ervin Muric                  |             80 |
-|             25 | Benjamin Debetz       |             61.39 |       15 |             15.64 | Dany Antunes                 |             80 |
-|             13 | John-Charles Astle    |             80.34 |       16 |             34.78 | Charles-Édouard Ekwah Elimby |             62 |
-|             18 | Soso Bekoshvili       |             87.39 |       17 |             37.01 | Nino Maso                    |             61 |
-|             68 | Soulemane Camara      |            nan    |       18 |             45.04 | Cedric Yonkeu                |             47 |
-|             58 | Florent Campeggia     |             84.24 |       19 |             37.1  | Antoine Delaporte            |             33 |
-|             12 | German Kessler        |             26.25 |       20 |             34.39 | Geoffrey Cazanave            |             45 |
-|             23 | Maxime Javaux         |             71.03 |       21 |             42.82 | Mark Erasmus                 |             80 |
-|             45 | Axel Malaret          |             47.49 |       22 |             57.97 | Lewys Jones                  |             36 |
-|             64 | Soig Mingant          |            nan    |       23 |             20.79 | Santiago Iglesias Valdez     |             80 |
+|             80 | Ewan Clément          |             43.13 |        1 |             20.99 | Eli Serra-Miglietti          |             45 |
+|             55 | Mathieu Bonnot        |             81.97 |        2 |             64.7  | Joseph Reynaud               |             80 |
+|             80 | Khvicha Tsopurashvili |             49.15 |        3 |             87.2  | Sive Mazosiwe                |             80 |
+|             68 | Corentin Vernet       |             42.68 |        4 |             40.99 | Lucio Anconetani             |             59 |
+|             80 | Will Witty            |             50.58 |        5 |             35.67 | Jean-Baptiste Rende          |             68 |
+|             25 | Manolo Laffond        |             55.53 |        6 |             81.78 | Joachim Beaumont             |             80 |
+|             14 | Tienie Burger         |             92.66 |        7 |             67.62 | Arthur Bruges                |             80 |
+|             22 | Willy N'Diaye         |             14.89 |        8 |              9.98 | Otilo Kafotamaki             |             33 |
+|             80 | Ilan El Khattabi      |             15.45 |        9 |             50.96 | Dylan Nocete                 |             12 |
+|             12 | Benjamin Pehau        |             91.88 |       10 |             40.99 | Paul Decavel                 |             34 |
+|             64 | Benito Masilevu       |             86.74 |       11 |             65.09 | Jeannick Ouassiero           |             19 |
+|             68 | Nicolas Nieto         |             67.49 |       12 |             53.52 | Louis Decavel                |             19 |
+|             61 | Joaquin Riera         |             82.65 |       13 |              9.13 | Hugo Detre                   |             18 |
+|             80 | Benjamin Descamps     |             82.59 |       14 |             14.97 | Ervin Muric                  |             15 |
+|             46 | Benjamin Debetz       |             61.58 |       15 |             15.64 | Dany Antunes                 |             80 |
+|             80 | John-Charles Astle    |             80.3  |       16 |             35    | Charles-Édouard Ekwah Elimby |             56 |
+|             50 | Soso Bekoshvili       |             87.34 |       17 |             37    | Nino Maso                    |             56 |
+|             80 | Soulemane Camara      |            nan    |       18 |             45.16 | Cedric Yonkeu                |             56 |
+|             12 | Florent Campeggia     |             84.24 |       19 |             37.09 | Antoine Delaporte            |             60 |
+|             80 | German Kessler        |             26.36 |       20 |             34.39 | Geoffrey Cazanave            |             80 |
+|             30 | Maxime Javaux         |             70.89 |       21 |             43.01 | Mark Erasmus                 |             80 |
+|             30 | Axel Malaret          |             47.88 |       22 |             57.89 | Lewys Jones                  |             80 |
+|             80 | Soig Mingant          |            nan    |       23 |             20.91 | Santiago Iglesias Valdez     |             80 |
 

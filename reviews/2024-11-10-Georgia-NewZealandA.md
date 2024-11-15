@@ -11,7 +11,7 @@ categories: "Tests Matchs 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.075, which translates to predicting New Zealand A to win by 29.8.
 
-Our Over/Under is 77.5 - and combined with the spread above, we have a predicted scoreline of 54 to 24
+Our Over/Under is 68.5 - and combined with the spread above, we have a predicted scoreline of 49 to 19
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ New Zealand A by 8.3 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             69 | George Bower         |             19.59 |        1 |             89.63 | Nika Abuladze        |             50 |
-|             80 | Kurt Eklund          |             94.69 |        2 |             67.68 | Vano Karkadze        |             80 |
-|             58 | Marcel Renata        |             73.83 |        3 |             28.14 | Aleksandre Kuntelia  |             63 |
-|             80 | Isaia Walker-Leawere |             97.86 |        4 |             81.67 | Mikheil Babunashvili |             50 |
-|             80 | Naitoa Ah Kuoi       |             97.6  |        5 |             76.16 | Giorgi Javakhia      |             80 |
-|             80 | Caleb Delany         |             86.54 |        6 |             15.7  | Ilia Spanderashvili  |             35 |
-|             61 | Du'Plessis Kirifi    |             96.72 |        7 |             86.19 | Giorgi Tsutskiridze  |             20 |
-|             61 | Simon Parker         |             70.63 |        8 |              5.02 | Tornike Jalagonia    |             66 |
-|             50 | Finlay Christie      |             79.78 |        9 |             10.67 | Vasil Lobzhanidze    |             80 |
-|             22 | Josh Jacomb          |             87.1  |       10 |             78.97 | Luka Matkava         |             66 |
-|             11 | Kini Naholo          |             97.48 |       11 |             89.82 | Sandro Todua         |             66 |
-|             17 | Riley Higgins        |             87.65 |       12 |             33.39 | Tornike Kakhoidze    |             66 |
-|             30 | Dallas McLeod        |             76.94 |       13 |             91.31 | Giorgi Kveseladze    |             66 |
-|             27 | Quinn Tupaea         |             93    |       14 |             88.27 | Aka Tabutsadze       |             66 |
-|             35 | Shaun Stevenson      |             80.89 |       15 |             74.9  | Davit Niniashvili    |             19 |
-|             30 | Bradley Slater       |             89.38 |       16 |            nan    | Luka Nioradze        |             30 |
-|             30 | Xavier Numia         |             97.02 |       17 |             26.03 | Giorgi Akhaladze     |              0 |
-|             30 | Saula Ma'u           |             20.54 |       18 |             84    | Irakli Aptsiauri     |             30 |
-|             30 | Fabian Holland       |             84.43 |       19 |             80.43 | Lasha Jaiani         |             14 |
-|             30 | Corey Kellow         |             75.58 |       20 |             68.94 | Luka Ivanishvili     |             24 |
-|             30 | Devan Flanders       |             88.66 |       21 |             56.37 | Tengiz Peranidze     |             30 |
-|             30 | Noah Hotham          |             79.3  |       22 |             69.84 | Tedo Abzhandadze     |             18 |
-|             30 | Chay Fihaki          |             20.85 |       23 |             85.18 | Demur Tapladze       |             80 |
+|             69 | George Bower         |             19.84 |        1 |             89.37 | Nika Abuladze        |             51 |
+|             80 | Kurt Eklund          |             94.85 |        2 |             73.03 | Vano Karkadze        |             40 |
+|             80 | Marcel Renata        |             76.91 |        3 |             27.22 | Aleksandre Kuntelia  |             65 |
+|             80 | Isaia Walker-Leawere |             97.87 |        4 |             78.88 | Mikheil Babunashvili |             80 |
+|             80 | Naitoa Ah Kuoi       |             97.6  |        5 |             80.57 | Giorgi Javakhia      |             26 |
+|             20 | Caleb Delany         |             83.59 |        6 |             15.2  | Ilia Spanderashvili  |             40 |
+|             35 | Du'Plessis Kirifi    |             96.46 |        7 |             86.1  | Giorgi Tsutskiridze  |             26 |
+|             35 | Simon Parker         |             69.35 |        8 |              9.81 | Tornike Jalagonia    |             40 |
+|             30 | Finlay Christie      |             78.03 |        9 |             12.26 | Vasil Lobzhanidze    |             27 |
+|             27 | Josh Jacomb          |             87.72 |       10 |             80.2  | Luka Matkava         |             54 |
+|              0 | Kini Naholo          |             97.48 |       11 |             89.59 | Sandro Todua         |             69 |
+|             17 | Riley Higgins        |             87.49 |       12 |             29.41 | Tornike Kakhoidze    |             80 |
+|             11 | Dallas McLeod        |             75.98 |       13 |             91.05 | Giorgi Kveseladze    |             80 |
+|             22 | Quinn Tupaea         |             92.92 |       14 |             90.15 | Aka Tabutsadze       |             12 |
+|             50 | Shaun Stevenson      |             82.24 |       15 |             72.01 | Davit Niniashvili    |             45 |
+|             61 | Bradley Slater       |             89.24 |       16 |            nan    | Luka Nioradze        |             60 |
+|             61 | Xavier Numia         |             97.02 |       17 |             26.2  | Giorgi Akhaladze     |             45 |
+|             80 | Saula Ma'u           |             20.51 |       18 |             84.02 | Irakli Aptsiauri     |             58 |
+|             50 | Fabian Holland       |             84.38 |       19 |             80.39 | Lasha Jaiani         |             53 |
+|             80 | Corey Kellow         |             75.91 |       20 |             69.17 | Luka Ivanishvili     |             80 |
+|             56 | Devan Flanders       |             89.32 |       21 |             56.37 | Tengiz Peranidze     |             50 |
+|             66 | Noah Hotham          |             79.62 |       22 |             69.7  | Tedo Abzhandadze     |             80 |
+|             80 | Chay Fihaki          |             20.83 |       23 |             85.11 | Demur Tapladze       |             63 |
 

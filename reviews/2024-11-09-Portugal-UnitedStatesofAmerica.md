@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: United States of America by 6.0
+## Prediction without Player Minutes: United States of America by 9.1
 
 
-United States of America by 9.8 on a neutral pitch
+United States of America by 12.9 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,29 +69,32 @@ United States of America by 9.8 on a neutral pitch
 
 |   Away Minutes | Away Player      |   Away Percentile |   Number |   Home Percentile | Home Player               |   Home Minutes |
 |---------------:|:-----------------|------------------:|---------:|------------------:|:--------------------------|---------------:|
-|             50 | Jack Iscaro      |             50.1  |        1 |             48.95 | David Costa               |             23 |
-|             12 | Shilo Klein      |             84.98 |        2 |              6.37 | Luka Begic                |             53 |
-|             20 | Alex Maughan     |             49.36 |        3 |             48.88 | Cody Thomas               |             22 |
-|             87 | Jason Damm       |             50.8  |        4 |             49.29 | Steevy Cerqueira          |             81 |
-|              2 | Greg Peterson    |             13.61 |        5 |             49.02 | Antonio Rebelo de Andrade |             66 |
-|              5 | Vili Helu        |             79.9  |        6 |             96.38 | Jose Madeira              |             87 |
-|             17 | Vili Helu        |             79.9  |        6 |             96.38 | Jose Madeira              |             87 |
-|             54 | Cory Daniel      |             50.73 |        7 |             49.35 | Nicolas Martins           |             42 |
-|             81 | Paddy Ryan       |             77.7  |        8 |             39.78 | Joao Granate              |             57 |
-|             73 | Paddy Ryan       |             77.7  |        8 |             39.78 | Joao Granate              |             57 |
-|             81 | Ruben de Haas    |             49.2  |        9 |             59.08 | Hugo Gomes Camacho        |             73 |
-|             87 | AJ MacGinty      |             96.03 |       10 |             42.66 | Hugo Aubry                |             83 |
-|              8 | Nate Augspurger  |             97.64 |       11 |             80.78 | Jose Paiva dos Santos     |             28 |
-|             79 | Tavite Lopeti    |             76.03 |       12 |             77.77 | Tomas Appleton            |             87 |
-|             87 | Dominic Besag    |             50.23 |       13 |             79.87 | Jose Lima                 |             87 |
-|             71 | Conner Mooneyham |             79.48 |       14 |             48.37 | Raffaele Storti           |              2 |
-|             87 | Mitch Wilson     |             96.53 |       15 |              7.53 | Simao Bento               |             70 |
-|             64 | Kapeli Pifeleti  |              3.19 |       16 |            nan    | Antonio Machado Santos    |             28 |
-|             61 | Jake Turnbull    |             52.14 |       17 |            nan    | Pedro Santiago Lopes      |             73 |
-|             73 | Pono Davis       |            nan    |       18 |             16.88 | Diogo Hasse Ferreira      |             81 |
-|             69 | Tomas Casares    |            nan    |       19 |            nan    | Jose Rebelo de Andrade    |             81 |
-|             18 | Moni Tonga’uiha  |            nan    |       20 |             52.98 | Diego Pinheiro Ruiz       |             81 |
-|             66 | Ethan McVeigh    |            nan    |       21 |            nan    | Antonio Campos            |              8 |
-|             59 | Erich Storti     |            nan    |       22 |            nan    | Manuel Vareiro            |             81 |
-|             87 | Luke Carty       |             52.98 |       23 |            nan    | Gabriel Aviragnet         |             16 |
+|             23 | Jack Iscaro      |             43.87 |        1 |             63.37 | David Costa               |             83 |
+|             64 | Shilo Klein      |             82.12 |        2 |              9.7  | Luka Begic                |             64 |
+|             81 | Alex Maughan     |             33.92 |        3 |             55.38 | Cody Thomas               |             32 |
+|             64 | Jason Damm       |             36.38 |        4 |             60.16 | Steevy Cerqueira          |             59 |
+|             38 | Greg Peterson    |             12.16 |        5 |             64.15 | Antonio Rebelo de Andrade |             87 |
+|             81 | Vili Helu        |             73.32 |        6 |             96.72 | Jose Madeira              |             24 |
+|             87 | Cory Daniel      |             33.59 |        7 |             63.13 | Nicolas Martins           |             87 |
+|             69 | Paddy Ryan       |             73.91 |        8 |             51.49 | Joao Granate              |             57 |
+|             42 | Paddy Ryan       |             73.91 |        8 |             51.49 | Joao Granate              |             57 |
+|             81 | Paddy Ryan       |             73.91 |        8 |             51.49 | Joao Granate              |             57 |
+|             66 | Paddy Ryan       |             73.91 |        8 |             51.49 | Joao Granate              |             57 |
+|             33 | Paddy Ryan       |             73.91 |        8 |             51.49 | Joao Granate              |             57 |
+|              8 | Paddy Ryan       |             73.91 |        8 |             51.49 | Joao Granate              |             57 |
+|             28 | Ruben de Haas    |             40.61 |        9 |             68.95 | Hugo Gomes Camacho        |             83 |
+|             87 | AJ MacGinty      |             95.45 |       10 |             56.04 | Hugo Aubry                |             83 |
+|             87 | Nate Augspurger  |             97.23 |       11 |             82.26 | Jose Paiva dos Santos     |             32 |
+|             81 | Tavite Lopeti    |             68.77 |       12 |             79.91 | Tomas Appleton            |             32 |
+|             63 | Dominic Besag    |             37.35 |       13 |             80.73 | Jose Lima                 |             23 |
+|             58 | Conner Mooneyham |             73.88 |       14 |             54.68 | Raffaele Storti           |             38 |
+|             38 | Mitch Wilson     |             95.95 |       15 |              8.69 | Simao Bento               |             87 |
+|             76 | Kapeli Pifeleti  |              3.18 |       16 |            nan    | Antonio Machado Santos    |              0 |
+|             81 | Jake Turnbull    |             52    |       17 |            nan    | Pedro Santiago Lopes      |             87 |
+|             81 | Pono Davis       |            nan    |       18 |             16.79 | Diogo Hasse Ferreira      |             18 |
+|             66 | Tomas Casares    |            nan    |       19 |            nan    | Jose Rebelo de Andrade    |             87 |
+|             66 | Moni Tonga’uiha  |            nan    |       20 |             53.11 | Diego Pinheiro Ruiz       |             87 |
+|             27 | Ethan McVeigh    |            nan    |       21 |            nan    | Antonio Campos            |             87 |
+|             32 | Erich Storti     |            nan    |       22 |            nan    | Manuel Vareiro            |             87 |
+|             83 | Luke Carty       |             52.87 |       23 |            nan    | Gabriel Aviragnet         |             38 |
 

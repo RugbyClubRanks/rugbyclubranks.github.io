@@ -11,7 +11,7 @@ categories: "Pro D2 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.689, which translates to predicting Mont-de-Marsan to win by 7.0.
 
-Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 22 to 29
+Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 20 to 27
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Biarritz Olympique by 3.7 on a neutral pitch
 
 |   Away Minutes | Away Player             |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:------------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             80 | Alexandre Plantier      |             49.29 |        1 |             54.31 | Luka Goginava        |             66 |
-|             80 | Yohan Beheregaray       |             55.84 |        2 |             42.94 | Samuel Lagrange      |             19 |
-|             19 | Giorgi Dzmanashvili (2) |             53.69 |        3 |             11.12 | Anthony Alves        |             19 |
-|              0 | Levi Douglas            |             55.96 |        4 |             49.73 | Nicolas Garrault     |             28 |
-|              0 | Charlie Matthews        |             50.71 |        5 |             46.62 | Romain Durand        |             22 |
-|             19 | Jessy Jegerlehner       |             49.61 |        6 |             52.89 | Aurélien Lafforgue   |             30 |
-|             28 | Thomas Hébert           |             49.53 |        7 |             48.75 | Raphaël Robic        |             16 |
-|             61 | Filimo Taofifenua       |             34.76 |        8 |             41.08 | Ioane Iashagashvili  |             30 |
-|             16 | Imanol Biscay           |             52.87 |        9 |             50.64 | Nicolas Darquier     |             61 |
-|             19 | Thomas Dolhagaray       |             60.32 |       10 |             48.41 | Willie Du Plessis    |             30 |
-|             61 | Arthur Bonneval         |             45.6  |       11 |             60.34 | Pierre Sayerse       |             66 |
-|             61 | François Vergnaud       |             41.08 |       12 |             48.12 | Nacani Wakaya        |             66 |
-|             52 | Mathieu Acebes          |             94.14 |       13 |             46.57 | Gatien Massé         |             66 |
-|             80 | Zach Kibirige           |             43.4  |       14 |             41.94 | Alexandre de Nardi   |             66 |
-|             64 | Gervais Cordin          |             45.56 |       15 |             49.81 | Théo Cortes          |             66 |
+|             80 | Alexandre Plantier      |             49.49 |        1 |             54.16 | Luka Goginava        |             66 |
+|             80 | Yohan Beheregaray       |             55.91 |        2 |             42.88 | Samuel Lagrange      |             19 |
+|             19 | Giorgi Dzmanashvili (2) |             53.49 |        3 |             11.1  | Anthony Alves        |             19 |
+|              0 | Levi Douglas            |             55.63 |        4 |             49.6  | Nicolas Garrault     |             28 |
+|              0 | Charlie Matthews        |             50.75 |        5 |             46.76 | Romain Durand        |             22 |
+|             19 | Jessy Jegerlehner       |             49.57 |        6 |             53.02 | Aurélien Lafforgue   |             30 |
+|             28 | Thomas Hébert           |             49.48 |        7 |             48.79 | Raphaël Robic        |             16 |
+|             61 | Filimo Taofifenua       |             38    |        8 |             43.96 | Ioane Iashagashvili  |             30 |
+|             16 | Imanol Biscay           |             52.87 |        9 |             51.11 | Nicolas Darquier     |             61 |
+|             19 | Thomas Dolhagaray       |             60.79 |       10 |             48.51 | Willie Du Plessis    |             30 |
+|             61 | Arthur Bonneval         |             45.73 |       11 |             60.37 | Pierre Sayerse       |             66 |
+|             61 | François Vergnaud       |             41.28 |       12 |             48.31 | Nacani Wakaya        |             66 |
+|             52 | Mathieu Acebes          |             94.16 |       13 |             46.76 | Gatien Massé         |             66 |
+|             80 | Zach Kibirige           |             43.37 |       14 |             42.07 | Alexandre de Nardi   |             66 |
+|             64 | Gervais Cordin          |             45.95 |       15 |             50    | Théo Cortes          |             66 |
 |             71 | Brendan Lebrun          |            nan    |       16 |            nan    | Florian Dufour       |             30 |
 |             67 | François Mur            |            nan    |       17 |            nan    | Thomas Bultel        |             30 |
-|             50 | Nafi Ma'Afu             |             44.42 |       18 |            nan    | Myles Edwards        |             30 |
-|             64 | Piula Fa'asalele        |             81.58 |       19 |             46.51 | Waël Ponpon          |             30 |
-|             80 | Pierre Pagès            |            nan    |       20 |             43.79 | Christophe Loustalot |             30 |
-|             80 | Ilian Perraux           |            nan    |       21 |             40.08 | Patricio Fernandez   |             80 |
-|             30 | Kylian Jaminet          |             46.33 |       22 |            nan    | Yann Bréthous        |             30 |
-|             30 | Nodar Shengelia         |            nan    |       23 |             51.25 | Gheorghe Gajion      |             52 |
+|             50 | Nafi Ma'Afu             |             46.94 |       18 |            nan    | Myles Edwards        |             30 |
+|             64 | Piula Fa'asalele        |             81.72 |       19 |             46.63 | Waël Ponpon          |             30 |
+|             80 | Pierre Pagès            |            nan    |       20 |             44.11 | Christophe Loustalot |             30 |
+|             80 | Ilian Perraux           |            nan    |       21 |             40    | Patricio Fernandez   |             80 |
+|             30 | Kylian Jaminet          |             46.72 |       22 |            nan    | Yann Bréthous        |             30 |
+|             30 | Nodar Shengelia         |            nan    |       23 |             51.39 | Gheorghe Gajion      |             52 |
 

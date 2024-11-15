@@ -9,9 +9,9 @@ categories: "Nationale 2024" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.49, which translates to predicting Albi to win by 0.4.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.489, which translates to predicting Albi to win by 0.4.
 
-Our Over/Under is 40.5 - and combined with the spread above, we have a predicted scoreline of 21 to 20
+Our Over/Under is 30.5 - and combined with the spread above, we have a predicted scoreline of 16 to 15
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Albi by 7.6 on a neutral pitch
 
 |   Away Minutes | Away Player             |   Away Percentile |   Number |   Home Percentile | Home Player       |   Home Minutes |
 |---------------:|:------------------------|------------------:|---------:|------------------:|:------------------|---------------:|
-|             80 | Lucas Pindor            |             52.27 |        1 |             35.12 | Rémy Gaborit      |             43 |
-|             29 | Reinach Venter          |             73.6  |        2 |             75.72 | Maxime Castant    |             80 |
-|             11 | Jean Baptiste De Clercq |             32.95 |        3 |             79.05 | Dimitri Tchapnga  |             80 |
-|             19 | Yanis Horvat            |             75.27 |        4 |             21.44 | Robin Gascou      |             21 |
-|             27 | Jonathan Kpoku          |             86.12 |        5 |              1.16 | Morgan Eames      |             51 |
-|             31 | Ianis Ponsole           |              7.25 |        6 |             16.57 | Kevin Chaudouard  |             21 |
-|             33 | Simon Meka              |             25.19 |        7 |             55.48 | Merlin Bully      |             23 |
-|             80 | Camille Jarreau         |             17.84 |        8 |             28.44 | Sam Daly          |             40 |
-|             39 | Gilen Queheille         |             64.97 |        9 |             42.04 | Martin Doan       |             29 |
-|             47 | Victor Pisano           |             27.98 |       10 |             21.03 | Tom Danovaro      |             29 |
-|             80 | Kamilieni Raivono       |             79.07 |       11 |              6.35 | Remi Bouet        |             80 |
-|             46 | Leo Treilles            |             22.78 |       12 |             83.62 | Isaiah Leota      |             59 |
-|             69 | Baptiste Couchinave     |             77.22 |       13 |              4.48 | Aviata Silago     |             56 |
-|             51 | Antoine Bouzerand       |             43.16 |       14 |             17.92 | Paul-Hugo Champ   |             20 |
-|             41 | Théo Vidal              |             62.93 |       15 |              6.95 | Nicolas Cachet    |             17 |
-|             80 | Antoine Soave           |             44.95 |       16 |              9.97 | Lucas Dycke       |              6 |
-|             51 | Arthur Castant          |              4.7  |       17 |             25.8  | Julien Ratajczak  |             19 |
-|             80 | Dion Evrard Oulai       |             38.08 |       18 |             44.2  | Keynan Knox       |             17 |
-|             52 | Nasoni Naqiri Kunavore  |             91.13 |       19 |              2.42 | Poutasi Luafutu   |             59 |
-|             73 | Titouan Pouzoullic      |             18.95 |       20 |             47.02 | Theophile Cotte   |              9 |
-|             30 | Thibault Olender        |             62.9  |       21 |             29.14 | Liam Rimet        |             80 |
-|             57 | Esteban Talalua         |            nan    |       22 |             82.33 | Joe Ravouvou      |             37 |
-|            nan | nan                     |            nan    |       23 |              2.38 | Christopher Bosch |             29 |
+|             64 | Lucas Pindor            |             53.89 |        1 |             32.5  | Rémy Gaborit      |             80 |
+|             80 | Reinach Venter          |             75.76 |        2 |             74.39 | Maxime Castant    |             80 |
+|             80 | Jean Baptiste De Clercq |             36.97 |        3 |             78    | Dimitri Tchapnga  |             80 |
+|             80 | Yanis Horvat            |             77.46 |        4 |             20.41 | Robin Gascou      |             59 |
+|             80 | Jonathan Kpoku          |             87.31 |        5 |              1.15 | Morgan Eames      |             56 |
+|             80 | Ianis Ponsole           |              7.25 |        6 |             16.49 | Kevin Chaudouard  |             21 |
+|             29 | Simon Meka              |             25.65 |        7 |             51.47 | Merlin Bully      |             80 |
+|             80 | Camille Jarreau         |             22.24 |        8 |             31.35 | Sam Daly          |             24 |
+|             29 | Gilen Queheille         |             64.81 |        9 |             41.56 | Martin Doan       |             21 |
+|             26 | Victor Pisano           |             27.52 |       10 |             19.41 | Tom Danovaro      |             39 |
+|             37 | Kamilieni Raivono       |             79.09 |       11 |              6.35 | Remi Bouet        |             24 |
+|             51 | Leo Treilles            |             23.56 |       12 |             82.37 | Isaiah Leota      |             80 |
+|             21 | Baptiste Couchinave     |             76.99 |       13 |              4.2  | Aviata Silago     |             77 |
+|             21 | Antoine Bouzerand       |             42.64 |       14 |             17.9  | Paul-Hugo Champ   |              3 |
+|             59 | Théo Vidal              |             64.67 |       15 |              6.95 | Nicolas Cachet    |             14 |
+|             12 | Antoine Soave           |             45.16 |       16 |              9.95 | Lucas Dycke       |             43 |
+|             80 | Arthur Castant          |              4.7  |       17 |             25.91 | Julien Ratajczak  |             51 |
+|             55 | Dion Evrard Oulai       |             37.98 |       18 |             44.41 | Keynan Knox       |             80 |
+|             56 | Nasoni Naqiri Kunavore  |             91.14 |       19 |              5.78 | Poutasi Luafutu   |             80 |
+|             80 | Titouan Pouzoullic      |             18.95 |       20 |             47.15 | Theophile Cotte   |             80 |
+|             25 | Thibault Olender        |             63.56 |       21 |             28.98 | Liam Rimet        |             68 |
+|             80 | Esteban Talalua         |            nan    |       22 |             82.34 | Joe Ravouvou      |             66 |
+|            nan | nan                     |            nan    |       23 |              2.37 | Christopher Bosch |             64 |
 

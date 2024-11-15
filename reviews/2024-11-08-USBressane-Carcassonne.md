@@ -9,9 +9,9 @@ categories: "Nationale 2024" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.461, which translates to predicting Carcassonne to win by 1.4.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.46, which translates to predicting Carcassonne to win by 1.4.
 
-Our Over/Under is 42.5 - and combined with the spread above, we have a predicted scoreline of 22 to 20
+Our Over/Under is 39.5 - and combined with the spread above, we have a predicted scoreline of 20 to 19
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Carcassonne by 4.3 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             80 | Nika Neparidze      |             37.49 |        1 |             51.39 | Vazha Kapanadze      |             24 |
-|             80 | Raphael Carbou      |             68.44 |        2 |             83.92 | Clement Jullien      |             18 |
-|             80 | Fabien Lorenzon     |             88.07 |        3 |             20.88 | Atonio Ulutuipalelei |             13 |
-|             80 | Valentin Sese       |              7.12 |        4 |             54    | Thomas Déliance      |             80 |
-|             16 | Clément Fontaine    |             39.59 |        5 |              2.05 | Victor Fromenteze    |             80 |
-|             23 | Maxime Millan       |             58.76 |        6 |             65.4  | Nail Ait Naceur      |             80 |
-|             51 | Etienne Herjean     |             89.39 |        7 |             88.18 | Loic Baradel         |             80 |
-|             16 | Ferdinand Dreno     |             34.57 |        8 |             73.98 | Wael May             |             57 |
-|             80 | Kenjy Bayer         |             35.51 |        9 |             80.1  | Jeremy Valencot      |             80 |
-|             14 | Nils Chalies        |             46.23 |       10 |             34.13 | Nathan Azais         |             80 |
-|             80 | Clement Egiziano    |             95.36 |       11 |             52.04 | Élie De Fleurian     |             80 |
-|             80 | Jordan Puletua      |             69.9  |       12 |             89.02 | Fred Zeilinga        |             80 |
-|             66 | Mathys Barka        |              6.95 |       13 |             37.24 | Joe Margetts         |             39 |
-|              3 | Naim Ben Alla       |             29.4  |       14 |             34.85 | Thibaut Perrette     |             51 |
-|             33 | Maxime Gianet       |             94.21 |       15 |             73.94 | Florent Massip       |             28 |
-|             80 | Florent Lorenzon    |             32.27 |       16 |             23.25 | Nicolas Lemaire      |             80 |
-|             39 | Baptiste Moreno     |            nan    |       17 |              6.98 | Arnaud Feltrin       |             80 |
-|             80 | Vakhtangi Akhobadze |             25.02 |       18 |             89.02 | Lasha Mchelidze      |             80 |
-|             23 | Romain Guyot        |             55.87 |       19 |             22.32 | Nicolas Tachat       |             64 |
-|             35 | Mateo Ibanez        |            nan    |       20 |             34.17 | Florian Burlet       |             64 |
-|             80 | Thomas Hoarau       |             15.61 |       21 |             12.51 | Quentin Witt         |             80 |
-|             23 | Alexandre Monarque  |            nan    |       22 |             21.97 | Jeremie Martin       |             45 |
-|             57 | Paul Gadea          |             71.17 |       23 |             24.52 | Jules Margarit       |             64 |
+|             40 | Nika Neparidze      |             42.04 |        1 |             52.27 | Vazha Kapanadze      |             33 |
+|             16 | Raphael Carbou      |             72.42 |        2 |             84.55 | Clement Jullien      |             37 |
+|             71 | Fabien Lorenzon     |             88.08 |        3 |             24.64 | Atonio Ulutuipalelei |             80 |
+|             60 | Valentin Sese       |              7.9  |        4 |             53.86 | Thomas Déliance      |             80 |
+|             51 | Clément Fontaine    |             36.82 |        5 |              1.86 | Victor Fromenteze    |             49 |
+|             59 | Maxime Millan       |             55.96 |        6 |             61.4  | Nail Ait Naceur      |             39 |
+|             80 | Etienne Herjean     |             89.29 |        7 |             86.44 | Loic Baradel         |             28 |
+|             17 | Ferdinand Dreno     |             37.83 |        8 |             77.23 | Wael May             |             80 |
+|              6 | Kenjy Bayer         |             42.36 |        9 |             79.3  | Jeremy Valencot      |             61 |
+|             19 | Nils Chalies        |             46.34 |       10 |             28.32 | Nathan Azais         |             39 |
+|             80 | Clement Egiziano    |             95.36 |       11 |             51.75 | Élie De Fleurian     |             80 |
+|              9 | Jordan Puletua      |             73.06 |       12 |             88.95 | Fred Zeilinga        |             80 |
+|             59 | Mathys Barka        |              7.03 |       13 |             38.81 | Joe Margetts         |             55 |
+|             20 | Naim Ben Alla       |             28.4  |       14 |             37.75 | Thibaut Perrette     |             80 |
+|             56 | Maxime Gianet       |             94.21 |       15 |             76.45 | Florent Massip       |             80 |
+|             24 | Florent Lorenzon    |             32.43 |       16 |             23.29 | Nicolas Lemaire      |             41 |
+|             41 | Baptiste Moreno     |            nan    |       17 |              6.82 | Arnaud Feltrin       |             56 |
+|             80 | Vakhtangi Akhobadze |             25.12 |       18 |             88.96 | Lasha Mchelidze      |             80 |
+|             80 | Romain Guyot        |             55.55 |       19 |             22.28 | Nicolas Tachat       |             63 |
+|             16 | Mateo Ibanez        |            nan    |       20 |             33.94 | Florian Burlet       |             80 |
+|             80 | Thomas Hoarau       |             19.79 |       21 |             12.52 | Quentin Witt         |             80 |
+|             80 | Alexandre Monarque  |            nan    |       22 |             21.97 | Jeremie Martin       |             61 |
+|             80 | Paul Gadea          |             71.2  |       23 |             24.52 | Jules Margarit       |             24 |
 
