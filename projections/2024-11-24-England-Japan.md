@@ -9,7 +9,7 @@ categories: "International Test Match 2024" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.845, which translates to predicting England to win by 15.5.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.847, which translates to predicting England to win by 15.0.
 
 Our Over/Under is 59.5 - and combined with the spread above, we have a predicted scoreline of 22 to 37
 

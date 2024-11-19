@@ -32,7 +32,7 @@ key: page-recents
 ## International Test Match
 
 
-[2024](comp_files\International_Test_Match_2024) - Prediction Accuracy: 73.1% 
+[2024](comp_files\International_Test_Match_2024) - Prediction Accuracy: 70.5% 
 
 [2023](comp_files\International_Test_Match_2023) - Prediction Accuracy: 77.8% 
 
@@ -348,7 +348,7 @@ key: page-recents
 ## Pro D2
 
 
-[2024](comp_files\Pro_D2_2024) - Prediction Accuracy: 61.3% 
+[2024](comp_files\Pro_D2_2024) - Prediction Accuracy: 61.4% 
 
 [2023](comp_files\Pro_D2_2023) - Prediction Accuracy: 74.3% 
 

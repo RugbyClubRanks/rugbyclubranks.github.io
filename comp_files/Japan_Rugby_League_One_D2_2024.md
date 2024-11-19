@@ -1,6 +1,6 @@
 ---  
 title: "Japan Rugby League One D2 2024 Status"  
-date: 2024-11-11 6:00:00 -0500  
+date: 2024-11-18 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,14 +17,14 @@ aside:
 
 | Club                     |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Hanazono Kintetsu Liners |              14 |   11.3 |             169.678  |                   1.6 |                9.6 |                 56.3 |
-| Green Rockets Tokatsu    |              14 |   11   |             155.101  |                   1.6 |                8.9 |                 54.6 |
-| Toyota Shuttles Aichi    |              14 |    9.8 |             105.016  |                   2.2 |                8   |                 49.2 |
-| Hino Red Dolphins        |              14 |    6.1 |             -31.5063 |                   2.9 |                8.2 |                 35.6 |
-| Kyuden Voltex            |              14 |    5.9 |             -40.7646 |                   2.9 |                5.4 |                 32   |
-| Kamaishi Seawaves        |              14 |    3.6 |            -138.878  |                   2.7 |                6.9 |                 23.8 |
-| Red Hurricanes Osaka     |              14 |    4.3 |            -105.206  |                   2.8 |                3.6 |                 23.6 |
-| Shimizu Blue Sharks      |              14 |    4   |            -113.441  |                   2.9 |                4.3 |                 23.4 |
+| Hanazono Kintetsu Liners |              14 |   11.3 |             168.581  |                   1.6 |                9.5 |                 56.1 |
+| Green Rockets Tokatsu    |              14 |   11   |             154.616  |                   1.7 |                9   |                 54.7 |
+| Toyota Shuttles Aichi    |              14 |    9.7 |             102.955  |                   2.1 |                8.2 |                 49.3 |
+| Hino Red Dolphins        |              14 |    6.4 |             -24.6915 |                   2.8 |                8.5 |                 36.9 |
+| Kyuden Voltex            |              14 |    5.9 |             -42.2579 |                   2.9 |                5.2 |                 31.6 |
+| Kamaishi Seawaves        |              14 |    3.4 |            -143.432  |                   2.7 |                7.5 |                 24   |
+| Red Hurricanes Osaka     |              14 |    4.3 |            -103.43   |                   2.9 |                3.8 |                 23.8 |
+| Shimizu Blue Sharks      |              14 |    4   |            -112.341  |                   3   |                4.7 |                 23.8 |
 
 
 
@@ -32,25 +32,12 @@ aside:
 
 ## Week 1
 
-### Kyuden Voltex V Kamaishi Seawaves on 2024/12/21
-
-
-Average Margin: Kyuden Voltex by 11.2
-
-Average Scoreline: 32-21
-
-<p float="left">
-<img src="plots/performances_2024-12-21-KyudenVoltex_V_KamaishiSeawaves.png" width="32%" />
-<img src="plots/resultbar_2024-12-21-KyudenVoltex_V_KamaishiSeawaves.png" width="32%" />
-<img src="plots/spreads_2024-12-21-KyudenVoltex_V_KamaishiSeawaves.png" width="32%" />
-</p>
-
 ### Hanazono Kintetsu Liners V Toyota Shuttles Aichi on 2024/12/21
 
 
-Average Margin: Hanazono Kintetsu Liners by 8.5
+Average Margin: Hanazono Kintetsu Liners by 8.3
 
-Average Scoreline: 30-21
+Average Scoreline: 28-20
 
 <p float="left">
 <img src="plots/performances_2024-12-21-HanazonoKintetsuLiners_V_ToyotaShuttlesAichi.png" width="32%" />
@@ -58,12 +45,25 @@ Average Scoreline: 30-21
 <img src="plots/spreads_2024-12-21-HanazonoKintetsuLiners_V_ToyotaShuttlesAichi.png" width="32%" />
 </p>
 
+### Kyuden Voltex V Kamaishi Seawaves on 2024/12/21
+
+
+Average Margin: Kyuden Voltex by 11.0
+
+Average Scoreline: 43-32
+
+<p float="left">
+<img src="plots/performances_2024-12-21-KyudenVoltex_V_KamaishiSeawaves.png" width="32%" />
+<img src="plots/resultbar_2024-12-21-KyudenVoltex_V_KamaishiSeawaves.png" width="32%" />
+<img src="plots/spreads_2024-12-21-KyudenVoltex_V_KamaishiSeawaves.png" width="32%" />
+</p>
+
 ### Hino Red Dolphins V Shimizu Blue Sharks on 2024/12/22
 
 
-Average Margin: Hino Red Dolphins by 9.5
+Average Margin: Hino Red Dolphins by 9.8
 
-Average Scoreline: 35-25
+Average Scoreline: 25-16
 
 <p float="left">
 <img src="plots/performances_2024-12-22-HinoRedDolphins_V_ShimizuBlueSharks.png" width="32%" />
@@ -74,9 +74,9 @@ Average Scoreline: 35-25
 ### Red Hurricanes Osaka V Green Rockets Tokatsu on 2024/12/22
 
 
-Average Margin: Green Rockets Tokatsu by 13.6
+Average Margin: Green Rockets Tokatsu by 14.4
 
-Average Scoreline: 46-32
+Average Scoreline: 31-17
 
 <p float="left">
 <img src="plots/performances_2024-12-22-RedHurricanesOsaka_V_GreenRocketsTokatsu.png" width="32%" />
@@ -89,9 +89,9 @@ Average Scoreline: 46-32
 ### Shimizu Blue Sharks V Kyuden Voltex on 2024/12/28
 
 
-Average Margin: Kyuden Voltex by 1.3
+Average Margin: Kyuden Voltex by 1.2
 
-Average Scoreline: 23-22
+Average Scoreline: 24-23
 
 <p float="left">
 <img src="plots/performances_2024-12-28-ShimizuBlueSharks_V_KyudenVoltex.png" width="32%" />
@@ -102,9 +102,9 @@ Average Scoreline: 23-22
 ### Kamaishi Seawaves V Green Rockets Tokatsu on 2024/12/28
 
 
-Average Margin: Green Rockets Tokatsu by 15.9
+Average Margin: Green Rockets Tokatsu by 16.2
 
-Average Scoreline: 46-30
+Average Scoreline: 37-21
 
 <p float="left">
 <img src="plots/performances_2024-12-28-KamaishiSeawaves_V_GreenRocketsTokatsu.png" width="32%" />
@@ -115,9 +115,9 @@ Average Scoreline: 46-30
 ### Toyota Shuttles Aichi V Red Hurricanes Osaka on 2024/12/29
 
 
-Average Margin: Toyota Shuttles Aichi by 18.4
+Average Margin: Toyota Shuttles Aichi by 17.4
 
-Average Scoreline: 44-26
+Average Scoreline: 36-18
 
 <p float="left">
 <img src="plots/performances_2024-12-29-ToyotaShuttlesAichi_V_RedHurricanesOsaka.png" width="32%" />
@@ -130,9 +130,9 @@ Average Scoreline: 44-26
 ### Hino Red Dolphins V Hanazono Kintetsu Liners on 2025/01/05
 
 
-Average Margin: Hanazono Kintetsu Liners by 10.8
+Average Margin: Hanazono Kintetsu Liners by 9.8
 
-Average Scoreline: 33-22
+Average Scoreline: 35-25
 
 <p float="left">
 <img src="plots/performances_2025-01-05-HinoRedDolphins_V_HanazonoKintetsuLiners.png" width="32%" />
@@ -142,51 +142,12 @@ Average Scoreline: 33-22
 
 ## Week 4
 
-### Kyuden Voltex V Toyota Shuttles Aichi on 2025/01/11
-
-
-Average Margin: Toyota Shuttles Aichi by 7.2
-
-Average Scoreline: 31-24
-
-<p float="left">
-<img src="plots/performances_2025-01-11-KyudenVoltex_V_ToyotaShuttlesAichi.png" width="32%" />
-<img src="plots/resultbar_2025-01-11-KyudenVoltex_V_ToyotaShuttlesAichi.png" width="32%" />
-<img src="plots/spreads_2025-01-11-KyudenVoltex_V_ToyotaShuttlesAichi.png" width="32%" />
-</p>
-
-### Hanazono Kintetsu Liners V Red Hurricanes Osaka on 2025/01/11
-
-
-Average Margin: Hanazono Kintetsu Liners by 21.4
-
-Average Scoreline: 43-22
-
-<p float="left">
-<img src="plots/performances_2025-01-11-HanazonoKintetsuLiners_V_RedHurricanesOsaka.png" width="32%" />
-<img src="plots/resultbar_2025-01-11-HanazonoKintetsuLiners_V_RedHurricanesOsaka.png" width="32%" />
-<img src="plots/spreads_2025-01-11-HanazonoKintetsuLiners_V_RedHurricanesOsaka.png" width="32%" />
-</p>
-
-### Shimizu Blue Sharks V Kamaishi Seawaves on 2025/01/11
-
-
-Average Margin: Shimizu Blue Sharks by 6.4
-
-Average Scoreline: 36-30
-
-<p float="left">
-<img src="plots/performances_2025-01-11-ShimizuBlueSharks_V_KamaishiSeawaves.png" width="32%" />
-<img src="plots/resultbar_2025-01-11-ShimizuBlueSharks_V_KamaishiSeawaves.png" width="32%" />
-<img src="plots/spreads_2025-01-11-ShimizuBlueSharks_V_KamaishiSeawaves.png" width="32%" />
-</p>
-
 ### Green Rockets Tokatsu V Hino Red Dolphins on 2025/01/11
 
 
-Average Margin: Green Rockets Tokatsu by 14.7
+Average Margin: Green Rockets Tokatsu by 15.3
 
-Average Scoreline: 34-19
+Average Scoreline: 38-22
 
 <p float="left">
 <img src="plots/performances_2025-01-11-GreenRocketsTokatsu_V_HinoRedDolphins.png" width="32%" />
@@ -194,14 +155,53 @@ Average Scoreline: 34-19
 <img src="plots/spreads_2025-01-11-GreenRocketsTokatsu_V_HinoRedDolphins.png" width="32%" />
 </p>
 
+### Kyuden Voltex V Toyota Shuttles Aichi on 2025/01/11
+
+
+Average Margin: Toyota Shuttles Aichi by 6.8
+
+Average Scoreline: 28-22
+
+<p float="left">
+<img src="plots/performances_2025-01-11-KyudenVoltex_V_ToyotaShuttlesAichi.png" width="32%" />
+<img src="plots/resultbar_2025-01-11-KyudenVoltex_V_ToyotaShuttlesAichi.png" width="32%" />
+<img src="plots/spreads_2025-01-11-KyudenVoltex_V_ToyotaShuttlesAichi.png" width="32%" />
+</p>
+
+### Shimizu Blue Sharks V Kamaishi Seawaves on 2025/01/11
+
+
+Average Margin: Shimizu Blue Sharks by 6.4
+
+Average Scoreline: 31-25
+
+<p float="left">
+<img src="plots/performances_2025-01-11-ShimizuBlueSharks_V_KamaishiSeawaves.png" width="32%" />
+<img src="plots/resultbar_2025-01-11-ShimizuBlueSharks_V_KamaishiSeawaves.png" width="32%" />
+<img src="plots/spreads_2025-01-11-ShimizuBlueSharks_V_KamaishiSeawaves.png" width="32%" />
+</p>
+
+### Hanazono Kintetsu Liners V Red Hurricanes Osaka on 2025/01/11
+
+
+Average Margin: Hanazono Kintetsu Liners by 21.1
+
+Average Scoreline: 35-13
+
+<p float="left">
+<img src="plots/performances_2025-01-11-HanazonoKintetsuLiners_V_RedHurricanesOsaka.png" width="32%" />
+<img src="plots/resultbar_2025-01-11-HanazonoKintetsuLiners_V_RedHurricanesOsaka.png" width="32%" />
+<img src="plots/spreads_2025-01-11-HanazonoKintetsuLiners_V_RedHurricanesOsaka.png" width="32%" />
+</p>
+
 ## Week 5
 
 ### Hino Red Dolphins V Kyuden Voltex on 2025/01/18
 
 
-Average Margin: Hino Red Dolphins by 3.9
+Average Margin: Hino Red Dolphins by 4.6
 
-Average Scoreline: 32-28
+Average Scoreline: 30-26
 
 <p float="left">
 <img src="plots/performances_2025-01-18-HinoRedDolphins_V_KyudenVoltex.png" width="32%" />
@@ -212,9 +212,9 @@ Average Scoreline: 32-28
 ### Toyota Shuttles Aichi V Green Rockets Tokatsu on 2025/01/18
 
 
-Average Margin: Green Rockets Tokatsu by 0.2
+Average Margin: Toyota Shuttles Aichi by 0.5
 
-Average Scoreline: 33-32
+Average Scoreline: 24-23
 
 <p float="left">
 <img src="plots/performances_2025-01-18-ToyotaShuttlesAichi_V_GreenRocketsTokatsu.png" width="32%" />
@@ -225,9 +225,9 @@ Average Scoreline: 33-32
 ### Kamaishi Seawaves V Hanazono Kintetsu Liners on 2025/01/18
 
 
-Average Margin: Hanazono Kintetsu Liners by 16.6
+Average Margin: Hanazono Kintetsu Liners by 16.4
 
-Average Scoreline: 40-23
+Average Scoreline: 39-22
 
 <p float="left">
 <img src="plots/performances_2025-01-18-KamaishiSeawaves_V_HanazonoKintetsuLiners.png" width="32%" />
@@ -238,9 +238,9 @@ Average Scoreline: 40-23
 ### Red Hurricanes Osaka V Shimizu Blue Sharks on 2025/01/18
 
 
-Average Margin: Red Hurricanes Osaka by 5.4
+Average Margin: Red Hurricanes Osaka by 5.5
 
-Average Scoreline: 38-32
+Average Scoreline: 28-22
 
 <p float="left">
 <img src="plots/performances_2025-01-18-RedHurricanesOsaka_V_ShimizuBlueSharks.png" width="32%" />
@@ -253,9 +253,9 @@ Average Scoreline: 38-32
 ### Hino Red Dolphins V Kamaishi Seawaves on 2025/02/01
 
 
-Average Margin: Hino Red Dolphins by 10.3
+Average Margin: Hino Red Dolphins by 11.7
 
-Average Scoreline: 39-29
+Average Scoreline: 33-21
 
 <p float="left">
 <img src="plots/performances_2025-02-01-HinoRedDolphins_V_KamaishiSeawaves.png" width="32%" />
@@ -268,7 +268,7 @@ Average Scoreline: 39-29
 
 Average Margin: Green Rockets Tokatsu by 2.9
 
-Average Scoreline: 27-24
+Average Scoreline: 26-23
 
 <p float="left">
 <img src="plots/performances_2025-02-02-GreenRocketsTokatsu_V_HanazonoKintetsuLiners.png" width="32%" />
@@ -281,9 +281,9 @@ Average Scoreline: 27-24
 ### Shimizu Blue Sharks V Toyota Shuttles Aichi on 2025/02/08
 
 
-Average Margin: Toyota Shuttles Aichi by 11.4
+Average Margin: Toyota Shuttles Aichi by 11.0
 
-Average Scoreline: 36-25
+Average Scoreline: 32-21
 
 <p float="left">
 <img src="plots/performances_2025-02-08-ShimizuBlueSharks_V_ToyotaShuttlesAichi.png" width="32%" />
@@ -294,9 +294,9 @@ Average Scoreline: 36-25
 ### Red Hurricanes Osaka V Kyuden Voltex on 2025/02/09
 
 
-Average Margin: Red Hurricanes Osaka by 0.7
+Average Margin: Kyuden Voltex by 0.2
 
-Average Scoreline: 26-25
+Average Scoreline: 24-24
 
 <p float="left">
 <img src="plots/performances_2025-02-09-RedHurricanesOsaka_V_KyudenVoltex.png" width="32%" />
@@ -309,9 +309,9 @@ Average Scoreline: 26-25
 ### Toyota Shuttles Aichi V Kamaishi Seawaves on 2025/02/15
 
 
-Average Margin: Toyota Shuttles Aichi by 19.0
+Average Margin: Toyota Shuttles Aichi by 19.2
 
-Average Scoreline: 42-23
+Average Scoreline: 37-18
 
 <p float="left">
 <img src="plots/performances_2025-02-15-ToyotaShuttlesAichi_V_KamaishiSeawaves.png" width="32%" />
@@ -321,25 +321,12 @@ Average Scoreline: 42-23
 
 ## Week 9
 
-### Kyuden Voltex V Hanazono Kintetsu Liners on 2025/02/22
-
-
-Average Margin: Hanazono Kintetsu Liners by 9.9
-
-Average Scoreline: 32-22
-
-<p float="left">
-<img src="plots/performances_2025-02-22-KyudenVoltex_V_HanazonoKintetsuLiners.png" width="32%" />
-<img src="plots/resultbar_2025-02-22-KyudenVoltex_V_HanazonoKintetsuLiners.png" width="32%" />
-<img src="plots/spreads_2025-02-22-KyudenVoltex_V_HanazonoKintetsuLiners.png" width="32%" />
-</p>
-
 ### Green Rockets Tokatsu V Shimizu Blue Sharks on 2025/02/22
 
 
-Average Margin: Green Rockets Tokatsu by 20.7
+Average Margin: Green Rockets Tokatsu by 20.0
 
-Average Scoreline: 43-22
+Average Scoreline: 35-15
 
 <p float="left">
 <img src="plots/performances_2025-02-22-GreenRocketsTokatsu_V_ShimizuBlueSharks.png" width="32%" />
@@ -347,12 +334,25 @@ Average Scoreline: 43-22
 <img src="plots/spreads_2025-02-22-GreenRocketsTokatsu_V_ShimizuBlueSharks.png" width="32%" />
 </p>
 
+### Kyuden Voltex V Hanazono Kintetsu Liners on 2025/02/22
+
+
+Average Margin: Hanazono Kintetsu Liners by 10.8
+
+Average Scoreline: 31-20
+
+<p float="left">
+<img src="plots/performances_2025-02-22-KyudenVoltex_V_HanazonoKintetsuLiners.png" width="32%" />
+<img src="plots/resultbar_2025-02-22-KyudenVoltex_V_HanazonoKintetsuLiners.png" width="32%" />
+<img src="plots/spreads_2025-02-22-KyudenVoltex_V_HanazonoKintetsuLiners.png" width="32%" />
+</p>
+
 ### Red Hurricanes Osaka V Hino Red Dolphins on 2025/02/22
 
 
-Average Margin: Hino Red Dolphins by 1.2
+Average Margin: Hino Red Dolphins by 1.6
 
-Average Scoreline: 35-34
+Average Scoreline: 27-25
 
 <p float="left">
 <img src="plots/performances_2025-02-22-RedHurricanesOsaka_V_HinoRedDolphins.png" width="32%" />
@@ -365,9 +365,9 @@ Average Scoreline: 35-34
 ### Toyota Shuttles Aichi V Hino Red Dolphins on 2025/03/01
 
 
-Average Margin: Toyota Shuttles Aichi by 12.1
+Average Margin: Toyota Shuttles Aichi by 11.9
 
-Average Scoreline: 35-23
+Average Scoreline: 30-18
 
 <p float="left">
 <img src="plots/performances_2025-03-01-ToyotaShuttlesAichi_V_HinoRedDolphins.png" width="32%" />
@@ -378,9 +378,9 @@ Average Scoreline: 35-23
 ### Hanazono Kintetsu Liners V Shimizu Blue Sharks on 2025/03/01
 
 
-Average Margin: Hanazono Kintetsu Liners by 19.6
+Average Margin: Hanazono Kintetsu Liners by 19.9
 
-Average Scoreline: 38-19
+Average Scoreline: 32-12
 
 <p float="left">
 <img src="plots/performances_2025-03-01-HanazonoKintetsuLiners_V_ShimizuBlueSharks.png" width="32%" />
@@ -393,7 +393,7 @@ Average Scoreline: 38-19
 
 Average Margin: Green Rockets Tokatsu by 15.4
 
-Average Scoreline: 30-14
+Average Scoreline: 32-16
 
 <p float="left">
 <img src="plots/performances_2025-03-01-GreenRocketsTokatsu_V_KyudenVoltex.png" width="32%" />
@@ -406,9 +406,9 @@ Average Scoreline: 30-14
 ### Kamaishi Seawaves V Red Hurricanes Osaka on 2025/03/08
 
 
-Average Margin: Kamaishi Seawaves by 1.4
+Average Margin: Kamaishi Seawaves by 2.0
 
-Average Scoreline: 27-26
+Average Scoreline: 31-29
 
 <p float="left">
 <img src="plots/performances_2025-03-08-KamaishiSeawaves_V_RedHurricanesOsaka.png" width="32%" />
@@ -421,9 +421,9 @@ Average Scoreline: 27-26
 ### Kamaishi Seawaves V Hino Red Dolphins on 2025/03/15
 
 
-Average Margin: Hino Red Dolphins by 2.8
+Average Margin: Hino Red Dolphins by 4.2
 
-Average Scoreline: 33-30
+Average Scoreline: 35-31
 
 <p float="left">
 <img src="plots/performances_2025-03-15-KamaishiSeawaves_V_HinoRedDolphins.png" width="32%" />
@@ -431,12 +431,25 @@ Average Scoreline: 33-30
 <img src="plots/spreads_2025-03-15-KamaishiSeawaves_V_HinoRedDolphins.png" width="32%" />
 </p>
 
+### Red Hurricanes Osaka V Toyota Shuttles Aichi on 2025/03/15
+
+
+Average Margin: Toyota Shuttles Aichi by 9.4
+
+Average Scoreline: 31-22
+
+<p float="left">
+<img src="plots/performances_2025-03-15-RedHurricanesOsaka_V_ToyotaShuttlesAichi.png" width="32%" />
+<img src="plots/resultbar_2025-03-15-RedHurricanesOsaka_V_ToyotaShuttlesAichi.png" width="32%" />
+<img src="plots/spreads_2025-03-15-RedHurricanesOsaka_V_ToyotaShuttlesAichi.png" width="32%" />
+</p>
+
 ### Kyuden Voltex V Green Rockets Tokatsu on 2025/03/15
 
 
-Average Margin: Green Rockets Tokatsu by 8.9
+Average Margin: Green Rockets Tokatsu by 9.3
 
-Average Scoreline: 39-30
+Average Scoreline: 30-20
 
 <p float="left">
 <img src="plots/performances_2025-03-15-KyudenVoltex_V_GreenRocketsTokatsu.png" width="32%" />
@@ -447,9 +460,9 @@ Average Scoreline: 39-30
 ### Shimizu Blue Sharks V Hanazono Kintetsu Liners on 2025/03/15
 
 
-Average Margin: Hanazono Kintetsu Liners by 14.5
+Average Margin: Hanazono Kintetsu Liners by 13.8
 
-Average Scoreline: 37-22
+Average Scoreline: 33-19
 
 <p float="left">
 <img src="plots/performances_2025-03-15-ShimizuBlueSharks_V_HanazonoKintetsuLiners.png" width="32%" />
@@ -457,40 +470,14 @@ Average Scoreline: 37-22
 <img src="plots/spreads_2025-03-15-ShimizuBlueSharks_V_HanazonoKintetsuLiners.png" width="32%" />
 </p>
 
-### Red Hurricanes Osaka V Toyota Shuttles Aichi on 2025/03/15
-
-
-Average Margin: Toyota Shuttles Aichi by 9.8
-
-Average Scoreline: 33-23
-
-<p float="left">
-<img src="plots/performances_2025-03-15-RedHurricanesOsaka_V_ToyotaShuttlesAichi.png" width="32%" />
-<img src="plots/resultbar_2025-03-15-RedHurricanesOsaka_V_ToyotaShuttlesAichi.png" width="32%" />
-<img src="plots/spreads_2025-03-15-RedHurricanesOsaka_V_ToyotaShuttlesAichi.png" width="32%" />
-</p>
-
 ## Week 13
-
-### Hanazono Kintetsu Liners V Kamaishi Seawaves on 2025/03/22
-
-
-Average Margin: Hanazono Kintetsu Liners by 22.6
-
-Average Scoreline: 40-17
-
-<p float="left">
-<img src="plots/performances_2025-03-22-HanazonoKintetsuLiners_V_KamaishiSeawaves.png" width="32%" />
-<img src="plots/resultbar_2025-03-22-HanazonoKintetsuLiners_V_KamaishiSeawaves.png" width="32%" />
-<img src="plots/spreads_2025-03-22-HanazonoKintetsuLiners_V_KamaishiSeawaves.png" width="32%" />
-</p>
 
 ### Toyota Shuttles Aichi V Shimizu Blue Sharks on 2025/03/22
 
 
-Average Margin: Toyota Shuttles Aichi by 17.1
+Average Margin: Toyota Shuttles Aichi by 16.9
 
-Average Scoreline: 35-17
+Average Scoreline: 30-13
 
 <p float="left">
 <img src="plots/performances_2025-03-22-ToyotaShuttlesAichi_V_ShimizuBlueSharks.png" width="32%" />
@@ -498,25 +485,25 @@ Average Scoreline: 35-17
 <img src="plots/spreads_2025-03-22-ToyotaShuttlesAichi_V_ShimizuBlueSharks.png" width="32%" />
 </p>
 
-### Hino Red Dolphins V Green Rockets Tokatsu on 2025/03/23
+### Hanazono Kintetsu Liners V Kamaishi Seawaves on 2025/03/22
 
 
-Average Margin: Green Rockets Tokatsu by 8.5
+Average Margin: Hanazono Kintetsu Liners by 22.8
 
-Average Scoreline: 38-29
+Average Scoreline: 42-19
 
 <p float="left">
-<img src="plots/performances_2025-03-23-HinoRedDolphins_V_GreenRocketsTokatsu.png" width="32%" />
-<img src="plots/resultbar_2025-03-23-HinoRedDolphins_V_GreenRocketsTokatsu.png" width="32%" />
-<img src="plots/spreads_2025-03-23-HinoRedDolphins_V_GreenRocketsTokatsu.png" width="32%" />
+<img src="plots/performances_2025-03-22-HanazonoKintetsuLiners_V_KamaishiSeawaves.png" width="32%" />
+<img src="plots/resultbar_2025-03-22-HanazonoKintetsuLiners_V_KamaishiSeawaves.png" width="32%" />
+<img src="plots/spreads_2025-03-22-HanazonoKintetsuLiners_V_KamaishiSeawaves.png" width="32%" />
 </p>
 
 ### Kyuden Voltex V Red Hurricanes Osaka on 2025/03/23
 
 
-Average Margin: Kyuden Voltex by 7.7
+Average Margin: Kyuden Voltex by 7.3
 
-Average Scoreline: 30-22
+Average Scoreline: 34-27
 
 <p float="left">
 <img src="plots/performances_2025-03-23-KyudenVoltex_V_RedHurricanesOsaka.png" width="32%" />
@@ -524,27 +511,27 @@ Average Scoreline: 30-22
 <img src="plots/spreads_2025-03-23-KyudenVoltex_V_RedHurricanesOsaka.png" width="32%" />
 </p>
 
-## Week 14
-
-### Shimizu Blue Sharks V Red Hurricanes Osaka on 2025/03/29
+### Hino Red Dolphins V Green Rockets Tokatsu on 2025/03/23
 
 
-Average Margin: Shimizu Blue Sharks by 3.5
+Average Margin: Green Rockets Tokatsu by 7.8
 
-Average Scoreline: 28-25
+Average Scoreline: 32-24
 
 <p float="left">
-<img src="plots/performances_2025-03-29-ShimizuBlueSharks_V_RedHurricanesOsaka.png" width="32%" />
-<img src="plots/resultbar_2025-03-29-ShimizuBlueSharks_V_RedHurricanesOsaka.png" width="32%" />
-<img src="plots/spreads_2025-03-29-ShimizuBlueSharks_V_RedHurricanesOsaka.png" width="32%" />
+<img src="plots/performances_2025-03-23-HinoRedDolphins_V_GreenRocketsTokatsu.png" width="32%" />
+<img src="plots/resultbar_2025-03-23-HinoRedDolphins_V_GreenRocketsTokatsu.png" width="32%" />
+<img src="plots/spreads_2025-03-23-HinoRedDolphins_V_GreenRocketsTokatsu.png" width="32%" />
 </p>
+
+## Week 14
 
 ### Green Rockets Tokatsu V Kamaishi Seawaves on 2025/03/29
 
 
-Average Margin: Green Rockets Tokatsu by 21.0
+Average Margin: Green Rockets Tokatsu by 21.2
 
-Average Scoreline: 37-16
+Average Scoreline: 39-18
 
 <p float="left">
 <img src="plots/performances_2025-03-29-GreenRocketsTokatsu_V_KamaishiSeawaves.png" width="32%" />
@@ -557,7 +544,7 @@ Average Scoreline: 37-16
 
 Average Margin: Hanazono Kintetsu Liners by 15.5
 
-Average Scoreline: 35-20
+Average Scoreline: 34-18
 
 <p float="left">
 <img src="plots/performances_2025-03-29-HanazonoKintetsuLiners_V_HinoRedDolphins.png" width="32%" />
@@ -565,14 +552,27 @@ Average Scoreline: 35-20
 <img src="plots/spreads_2025-03-29-HanazonoKintetsuLiners_V_HinoRedDolphins.png" width="32%" />
 </p>
 
+### Shimizu Blue Sharks V Red Hurricanes Osaka on 2025/03/29
+
+
+Average Margin: Shimizu Blue Sharks by 2.9
+
+Average Scoreline: 26-23
+
+<p float="left">
+<img src="plots/performances_2025-03-29-ShimizuBlueSharks_V_RedHurricanesOsaka.png" width="32%" />
+<img src="plots/resultbar_2025-03-29-ShimizuBlueSharks_V_RedHurricanesOsaka.png" width="32%" />
+<img src="plots/spreads_2025-03-29-ShimizuBlueSharks_V_RedHurricanesOsaka.png" width="32%" />
+</p>
+
 ## Week 15
 
 ### Toyota Shuttles Aichi V Kyuden Voltex on 2025/04/05
 
 
-Average Margin: Toyota Shuttles Aichi by 11.4
+Average Margin: Toyota Shuttles Aichi by 11.9
 
-Average Scoreline: 31-19
+Average Scoreline: 32-20
 
 <p float="left">
 <img src="plots/performances_2025-04-05-ToyotaShuttlesAichi_V_KyudenVoltex.png" width="32%" />
@@ -582,12 +582,38 @@ Average Scoreline: 31-19
 
 ## Week 16
 
+### Kyuden Voltex V Hino Red Dolphins on 2025/04/12
+
+
+Average Margin: Kyuden Voltex by 2.4
+
+Average Scoreline: 30-28
+
+<p float="left">
+<img src="plots/performances_2025-04-12-KyudenVoltex_V_HinoRedDolphins.png" width="32%" />
+<img src="plots/resultbar_2025-04-12-KyudenVoltex_V_HinoRedDolphins.png" width="32%" />
+<img src="plots/spreads_2025-04-12-KyudenVoltex_V_HinoRedDolphins.png" width="32%" />
+</p>
+
+### Shimizu Blue Sharks V Green Rockets Tokatsu on 2025/04/12
+
+
+Average Margin: Green Rockets Tokatsu by 11.7
+
+Average Scoreline: 36-24
+
+<p float="left">
+<img src="plots/performances_2025-04-12-ShimizuBlueSharks_V_GreenRocketsTokatsu.png" width="32%" />
+<img src="plots/resultbar_2025-04-12-ShimizuBlueSharks_V_GreenRocketsTokatsu.png" width="32%" />
+<img src="plots/spreads_2025-04-12-ShimizuBlueSharks_V_GreenRocketsTokatsu.png" width="32%" />
+</p>
+
 ### Kamaishi Seawaves V Toyota Shuttles Aichi on 2025/04/12
 
 
-Average Margin: Toyota Shuttles Aichi by 10.5
+Average Margin: Toyota Shuttles Aichi by 10.6
 
-Average Scoreline: 38-28
+Average Scoreline: 36-25
 
 <p float="left">
 <img src="plots/performances_2025-04-12-KamaishiSeawaves_V_ToyotaShuttlesAichi.png" width="32%" />
@@ -598,9 +624,9 @@ Average Scoreline: 38-28
 ### Red Hurricanes Osaka V Hanazono Kintetsu Liners on 2025/04/12
 
 
-Average Margin: Hanazono Kintetsu Liners by 13.1
+Average Margin: Hanazono Kintetsu Liners by 12.3
 
-Average Scoreline: 37-24
+Average Scoreline: 36-24
 
 <p float="left">
 <img src="plots/performances_2025-04-12-RedHurricanesOsaka_V_HanazonoKintetsuLiners.png" width="32%" />
@@ -608,40 +634,14 @@ Average Scoreline: 37-24
 <img src="plots/spreads_2025-04-12-RedHurricanesOsaka_V_HanazonoKintetsuLiners.png" width="32%" />
 </p>
 
-### Shimizu Blue Sharks V Green Rockets Tokatsu on 2025/04/12
-
-
-Average Margin: Green Rockets Tokatsu by 12.1
-
-Average Scoreline: 40-28
-
-<p float="left">
-<img src="plots/performances_2025-04-12-ShimizuBlueSharks_V_GreenRocketsTokatsu.png" width="32%" />
-<img src="plots/resultbar_2025-04-12-ShimizuBlueSharks_V_GreenRocketsTokatsu.png" width="32%" />
-<img src="plots/spreads_2025-04-12-ShimizuBlueSharks_V_GreenRocketsTokatsu.png" width="32%" />
-</p>
-
-### Kyuden Voltex V Hino Red Dolphins on 2025/04/12
-
-
-Average Margin: Kyuden Voltex by 2.8
-
-Average Scoreline: 30-27
-
-<p float="left">
-<img src="plots/performances_2025-04-12-KyudenVoltex_V_HinoRedDolphins.png" width="32%" />
-<img src="plots/resultbar_2025-04-12-KyudenVoltex_V_HinoRedDolphins.png" width="32%" />
-<img src="plots/spreads_2025-04-12-KyudenVoltex_V_HinoRedDolphins.png" width="32%" />
-</p>
-
 ## Week 17
 
 ### Kamaishi Seawaves V Shimizu Blue Sharks on 2025/04/20
 
 
-Average Margin: Kamaishi Seawaves by 2.9
+Average Margin: Kamaishi Seawaves by 2.4
 
-Average Scoreline: 28-25
+Average Scoreline: 26-24
 
 <p float="left">
 <img src="plots/performances_2025-04-20-KamaishiSeawaves_V_ShimizuBlueSharks.png" width="32%" />
@@ -652,9 +652,9 @@ Average Scoreline: 28-25
 ### Hanazono Kintetsu Liners V Kyuden Voltex on 2025/04/20
 
 
-Average Margin: Hanazono Kintetsu Liners by 15.6
+Average Margin: Hanazono Kintetsu Liners by 16.4
 
-Average Scoreline: 33-17
+Average Scoreline: 31-15
 
 <p float="left">
 <img src="plots/performances_2025-04-20-HanazonoKintetsuLiners_V_KyudenVoltex.png" width="32%" />
@@ -665,9 +665,9 @@ Average Scoreline: 33-17
 ### Green Rockets Tokatsu V Toyota Shuttles Aichi on 2025/04/20
 
 
-Average Margin: Green Rockets Tokatsu by 6.8
+Average Margin: Green Rockets Tokatsu by 7.5
 
-Average Scoreline: 28-21
+Average Scoreline: 29-22
 
 <p float="left">
 <img src="plots/performances_2025-04-20-GreenRocketsTokatsu_V_ToyotaShuttlesAichi.png" width="32%" />
@@ -678,9 +678,9 @@ Average Scoreline: 28-21
 ### Hino Red Dolphins V Red Hurricanes Osaka on 2025/04/20
 
 
-Average Margin: Hino Red Dolphins by 8.1
+Average Margin: Hino Red Dolphins by 8.7
 
-Average Scoreline: 32-24
+Average Scoreline: 27-19
 
 <p float="left">
 <img src="plots/performances_2025-04-20-HinoRedDolphins_V_RedHurricanesOsaka.png" width="32%" />
@@ -690,25 +690,12 @@ Average Scoreline: 32-24
 
 ## Week 18
 
-### Hino Red Dolphins V Toyota Shuttles Aichi on 2025/05/03
-
-
-Average Margin: Toyota Shuttles Aichi by 4.1
-
-Average Scoreline: 33-29
-
-<p float="left">
-<img src="plots/performances_2025-05-03-HinoRedDolphins_V_ToyotaShuttlesAichi.png" width="32%" />
-<img src="plots/resultbar_2025-05-03-HinoRedDolphins_V_ToyotaShuttlesAichi.png" width="32%" />
-<img src="plots/spreads_2025-05-03-HinoRedDolphins_V_ToyotaShuttlesAichi.png" width="32%" />
-</p>
-
 ### Red Hurricanes Osaka V Kamaishi Seawaves on 2025/05/03
 
 
-Average Margin: Red Hurricanes Osaka by 5.3
+Average Margin: Red Hurricanes Osaka by 5.7
 
-Average Scoreline: 30-25
+Average Scoreline: 29-24
 
 <p float="left">
 <img src="plots/performances_2025-05-03-RedHurricanesOsaka_V_KamaishiSeawaves.png" width="32%" />
@@ -716,25 +703,12 @@ Average Scoreline: 30-25
 <img src="plots/spreads_2025-05-03-RedHurricanesOsaka_V_KamaishiSeawaves.png" width="32%" />
 </p>
 
-### Kyuden Voltex V Shimizu Blue Sharks on 2025/05/03
-
-
-Average Margin: Kyuden Voltex by 7.5
-
-Average Scoreline: 31-24
-
-<p float="left">
-<img src="plots/performances_2025-05-03-KyudenVoltex_V_ShimizuBlueSharks.png" width="32%" />
-<img src="plots/resultbar_2025-05-03-KyudenVoltex_V_ShimizuBlueSharks.png" width="32%" />
-<img src="plots/spreads_2025-05-03-KyudenVoltex_V_ShimizuBlueSharks.png" width="32%" />
-</p>
-
 ### Hanazono Kintetsu Liners V Green Rockets Tokatsu on 2025/05/03
 
 
-Average Margin: Hanazono Kintetsu Liners by 4.1
+Average Margin: Hanazono Kintetsu Liners by 4.0
 
-Average Scoreline: 28-24
+Average Scoreline: 26-22
 
 <p float="left">
 <img src="plots/performances_2025-05-03-HanazonoKintetsuLiners_V_GreenRocketsTokatsu.png" width="32%" />
@@ -742,27 +716,53 @@ Average Scoreline: 28-24
 <img src="plots/spreads_2025-05-03-HanazonoKintetsuLiners_V_GreenRocketsTokatsu.png" width="32%" />
 </p>
 
-## Week 19
-
-### Kamaishi Seawaves V Kyuden Voltex on 2025/05/10
+### Kyuden Voltex V Shimizu Blue Sharks on 2025/05/03
 
 
-Average Margin: Kyuden Voltex by 1.7
+Average Margin: Kyuden Voltex by 8.4
 
-Average Scoreline: 32-30
+Average Scoreline: 33-24
 
 <p float="left">
-<img src="plots/performances_2025-05-10-KamaishiSeawaves_V_KyudenVoltex.png" width="32%" />
-<img src="plots/resultbar_2025-05-10-KamaishiSeawaves_V_KyudenVoltex.png" width="32%" />
-<img src="plots/spreads_2025-05-10-KamaishiSeawaves_V_KyudenVoltex.png" width="32%" />
+<img src="plots/performances_2025-05-03-KyudenVoltex_V_ShimizuBlueSharks.png" width="32%" />
+<img src="plots/resultbar_2025-05-03-KyudenVoltex_V_ShimizuBlueSharks.png" width="32%" />
+<img src="plots/spreads_2025-05-03-KyudenVoltex_V_ShimizuBlueSharks.png" width="32%" />
+</p>
+
+### Hino Red Dolphins V Toyota Shuttles Aichi on 2025/05/03
+
+
+Average Margin: Toyota Shuttles Aichi by 3.5
+
+Average Scoreline: 31-27
+
+<p float="left">
+<img src="plots/performances_2025-05-03-HinoRedDolphins_V_ToyotaShuttlesAichi.png" width="32%" />
+<img src="plots/resultbar_2025-05-03-HinoRedDolphins_V_ToyotaShuttlesAichi.png" width="32%" />
+<img src="plots/spreads_2025-05-03-HinoRedDolphins_V_ToyotaShuttlesAichi.png" width="32%" />
+</p>
+
+## Week 19
+
+### Shimizu Blue Sharks V Hino Red Dolphins on 2025/05/10
+
+
+Average Margin: Hino Red Dolphins by 1.0
+
+Average Scoreline: 28-27
+
+<p float="left">
+<img src="plots/performances_2025-05-10-ShimizuBlueSharks_V_HinoRedDolphins.png" width="32%" />
+<img src="plots/resultbar_2025-05-10-ShimizuBlueSharks_V_HinoRedDolphins.png" width="32%" />
+<img src="plots/spreads_2025-05-10-ShimizuBlueSharks_V_HinoRedDolphins.png" width="32%" />
 </p>
 
 ### Green Rockets Tokatsu V Red Hurricanes Osaka on 2025/05/10
 
 
-Average Margin: Green Rockets Tokatsu by 18.5
+Average Margin: Green Rockets Tokatsu by 17.4
 
-Average Scoreline: 35-17
+Average Scoreline: 36-18
 
 <p float="left">
 <img src="plots/performances_2025-05-10-GreenRocketsTokatsu_V_RedHurricanesOsaka.png" width="32%" />
@@ -773,9 +773,9 @@ Average Scoreline: 35-17
 ### Toyota Shuttles Aichi V Hanazono Kintetsu Liners on 2025/05/10
 
 
-Average Margin: Hanazono Kintetsu Liners by 0.5
+Average Margin: Hanazono Kintetsu Liners by 0.3
 
-Average Scoreline: 30-29
+Average Scoreline: 28-28
 
 <p float="left">
 <img src="plots/performances_2025-05-10-ToyotaShuttlesAichi_V_HanazonoKintetsuLiners.png" width="32%" />
@@ -783,15 +783,15 @@ Average Scoreline: 30-29
 <img src="plots/spreads_2025-05-10-ToyotaShuttlesAichi_V_HanazonoKintetsuLiners.png" width="32%" />
 </p>
 
-### Shimizu Blue Sharks V Hino Red Dolphins on 2025/05/10
+### Kamaishi Seawaves V Kyuden Voltex on 2025/05/10
 
 
-Average Margin: Hino Red Dolphins by 1.1
+Average Margin: Kyuden Voltex by 2.4
 
-Average Scoreline: 30-29
+Average Scoreline: 30-27
 
 <p float="left">
-<img src="plots/performances_2025-05-10-ShimizuBlueSharks_V_HinoRedDolphins.png" width="32%" />
-<img src="plots/resultbar_2025-05-10-ShimizuBlueSharks_V_HinoRedDolphins.png" width="32%" />
-<img src="plots/spreads_2025-05-10-ShimizuBlueSharks_V_HinoRedDolphins.png" width="32%" />
+<img src="plots/performances_2025-05-10-KamaishiSeawaves_V_KyudenVoltex.png" width="32%" />
+<img src="plots/resultbar_2025-05-10-KamaishiSeawaves_V_KyudenVoltex.png" width="32%" />
+<img src="plots/spreads_2025-05-10-KamaishiSeawaves_V_KyudenVoltex.png" width="32%" />
 </p>

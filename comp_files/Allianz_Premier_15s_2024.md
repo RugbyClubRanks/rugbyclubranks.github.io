@@ -1,6 +1,6 @@
 ---  
 title: "Allianz Premier 15s 2024 Status"  
-date: 2024-11-10 6:00:00 -0500  
+date: 2024-11-18 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,27 +17,31 @@ aside:
 
 | Club                      |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Exeter Chiefs Women       |        5 |      5 |                   77 |                     0 |                nan |                   20 |
+| Exeter Chiefs Women       |        6 |      6 |                   98 |                     0 |                nan |                   24 |
+| Harlequins Women          |        6 |      4 |                   53 |                     1 |                nan |                   17 |
+| Gloucester-Hartpury Women |        6 |      4 |                   46 |                     1 |                nan |                   17 |
 | Saracens Women            |        5 |      4 |                   58 |                     0 |                nan |                   16 |
-| Gloucester-Hartpury Women |        5 |      3 |                   33 |                     1 |                nan |                   13 |
-| Harlequins Women          |        5 |      3 |                   22 |                     1 |                nan |                   13 |
-| Bristol Bears Women       |        4 |      2 |                   42 |                     0 |                nan |                    8 |
-| Ealing Trailfinders Women |        4 |      2 |                   30 |                     0 |                nan |                    8 |
-| Loughborough Lightning    |        4 |      1 |                  -42 |                     1 |                nan |                    5 |
-| Leicester Tigers Women    |        4 |      0 |                 -103 |                     0 |                nan |                    0 |
-| Sale Sharks Women         |        4 |      0 |                 -117 |                     0 |                nan |                    0 |
+| Bristol Bears Women       |        5 |      3 |                   97 |                     0 |                nan |                   12 |
+| Ealing Trailfinders Women |        5 |      2 |                   17 |                     0 |                nan |                    8 |
+| Loughborough Lightning    |        5 |      1 |                  -63 |                     1 |                nan |                    5 |
+| Sale Sharks Women         |        5 |      0 |                 -148 |                     0 |                nan |                    0 |
+| Leicester Tigers Women    |        5 |      0 |                 -158 |                     0 |                nan |                    0 |
 
 
 
 ## Projected Remaining Table
 
 
-| Club                   |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
-|:-----------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Exeter Chiefs Women    |                   1 |    0.9 |              18.6774 |                   0   |                0.6 |                  4.4 |
-| Harlequins Women       |                   1 |    0.9 |              14.5416 |                   0   |                0.6 |                  4.3 |
-| Sale Sharks Women      |                   1 |    0.1 |             -14.5416 |                   0.2 |                0.1 |                  0.6 |
-| Loughborough Lightning |                   1 |    0.1 |             -18.6774 |                   0.1 |                0.1 |                  0.4 |
+| Club                      |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
+|:--------------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
+| Exeter Chiefs Women       |                   1 |    0.9 |              20.9027 |                   0   |                0.8 |                  4.6 |
+| Loughborough Lightning    |                   1 |    0.9 |              18.5109 |                   0   |                0.7 |                  4.5 |
+| Saracens Women            |                   1 |    0.9 |              16.3726 |                   0   |                0.6 |                  4.3 |
+| Bristol Bears Women       |                   1 |    0.9 |              11.0422 |                   0.1 |                0.4 |                  4   |
+| Ealing Trailfinders Women |                   1 |    0.1 |             -11.0422 |                   0.2 |                0.1 |                  0.8 |
+| Harlequins Women          |                   1 |    0.1 |             -16.3726 |                   0.1 |                0.1 |                  0.6 |
+| Leicester Tigers Women    |                   1 |    0.1 |             -18.5109 |                   0.1 |                0.1 |                  0.5 |
+| Sale Sharks Women         |                   1 |    0.1 |             -20.9027 |                   0.1 |                0.1 |                  0.4 |
 
 
 
@@ -46,15 +50,15 @@ aside:
 
 | Club                      |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Exeter Chiefs Women       |               6 |    5.9 |              95.6774 |                   0   |                0.6 |                 24.4 |
-| Harlequins Women          |               6 |    3.9 |              36.5416 |                   1   |                0.6 |                 17.3 |
-| Saracens Women            |               5 |    4   |              58      |                   0   |                0   |                 16   |
-| Gloucester-Hartpury Women |               5 |    3   |              33      |                   1   |                0   |                 13   |
-| Bristol Bears Women       |               4 |    2   |              42      |                   0   |                0   |                  8   |
-| Ealing Trailfinders Women |               4 |    2   |              30      |                   0   |                0   |                  8   |
-| Loughborough Lightning    |               5 |    1.1 |             -60.6774 |                   1.1 |                0.1 |                  5.4 |
-| Sale Sharks Women         |               5 |    0.1 |            -131.542  |                   0.2 |                0.1 |                  0.6 |
-| Leicester Tigers Women    |               4 |    0   |            -103      |                   0   |                0   |                  0   |
+| Exeter Chiefs Women       |               7 |    6.9 |            118.903   |                   0   |                0.8 |                 28.6 |
+| Saracens Women            |               6 |    4.9 |             74.3726  |                   0   |                0.6 |                 20.3 |
+| Harlequins Women          |               7 |    4.1 |             36.6274  |                   1.1 |                0.1 |                 17.6 |
+| Gloucester-Hartpury Women |               6 |    4   |             46       |                   1   |                0   |                 17   |
+| Bristol Bears Women       |               6 |    3.9 |            108.042   |                   0.1 |                0.4 |                 16   |
+| Loughborough Lightning    |               6 |    1.9 |            -44.4891  |                   1   |                0.7 |                  9.5 |
+| Ealing Trailfinders Women |               6 |    2.1 |              5.95781 |                   0.2 |                0.1 |                  8.8 |
+| Leicester Tigers Women    |               6 |    0.1 |           -176.511   |                   0.1 |                0.1 |                  0.5 |
+| Sale Sharks Women         |               6 |    0.1 |           -168.903   |                   0.1 |                0.1 |                  0.4 |
 
 
 
@@ -63,37 +67,63 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 80.0% | 13.5 |
+| Club Level | 83.3% | 13.6 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
 
 # Future Predictions
 
-## Week 6
+## Week 7
 
-### Exeter Chiefs Women V Loughborough Lightning on 2024/11/10
+### Bristol Bears Women V Ealing Trailfinders Women on 2024/11/23
 
 
-Average Margin: Exeter Chiefs Women by 18.7
+Average Margin: Bristol Bears Women by 11.0
+
+Average Scoreline: 31-20
+
+<p float="left">
+<img src="plots/performances_2024-11-23-BristolBearsWomen_V_EalingTrailfindersWomen.png" width="32%" />
+<img src="plots/resultbar_2024-11-23-BristolBearsWomen_V_EalingTrailfindersWomen.png" width="32%" />
+<img src="plots/spreads_2024-11-23-BristolBearsWomen_V_EalingTrailfindersWomen.png" width="32%" />
+</p>
+
+### Loughborough Lightning V Leicester Tigers Women on 2024/11/23
+
+
+Average Margin: Loughborough Lightning by 18.5
 
 Average Scoreline: 36-17
 
 <p float="left">
-<img src="plots/performances_2024-11-10-ExeterChiefsWomen_V_LoughboroughLightning.png" width="32%" />
-<img src="plots/resultbar_2024-11-10-ExeterChiefsWomen_V_LoughboroughLightning.png" width="32%" />
-<img src="plots/spreads_2024-11-10-ExeterChiefsWomen_V_LoughboroughLightning.png" width="32%" />
+<img src="plots/performances_2024-11-23-LoughboroughLightning_V_LeicesterTigersWomen.png" width="32%" />
+<img src="plots/resultbar_2024-11-23-LoughboroughLightning_V_LeicesterTigersWomen.png" width="32%" />
+<img src="plots/spreads_2024-11-23-LoughboroughLightning_V_LeicesterTigersWomen.png" width="32%" />
 </p>
 
-### Harlequins Women V Sale Sharks Women on 2024/11/10
+### Sale Sharks Women V Exeter Chiefs Women on 2024/11/24
 
 
-Average Margin: Harlequins Women by 14.5
+Average Margin: Exeter Chiefs Women by 20.9
 
-Average Scoreline: 31-16
+Average Scoreline: 36-16
 
 <p float="left">
-<img src="plots/performances_2024-11-10-HarlequinsWomen_V_SaleSharksWomen.png" width="32%" />
-<img src="plots/resultbar_2024-11-10-HarlequinsWomen_V_SaleSharksWomen.png" width="32%" />
-<img src="plots/spreads_2024-11-10-HarlequinsWomen_V_SaleSharksWomen.png" width="32%" />
+<img src="plots/performances_2024-11-24-SaleSharksWomen_V_ExeterChiefsWomen.png" width="32%" />
+<img src="plots/resultbar_2024-11-24-SaleSharksWomen_V_ExeterChiefsWomen.png" width="32%" />
+<img src="plots/spreads_2024-11-24-SaleSharksWomen_V_ExeterChiefsWomen.png" width="32%" />
+</p>
+
+### Saracens Women V Harlequins Women on 2024/11/24
+
+
+Average Margin: Saracens Women by 16.4
+
+Average Scoreline: 33-17
+
+<p float="left">
+<img src="plots/performances_2024-11-24-SaracensWomen_V_HarlequinsWomen.png" width="32%" />
+<img src="plots/resultbar_2024-11-24-SaracensWomen_V_HarlequinsWomen.png" width="32%" />
+<img src="plots/spreads_2024-11-24-SaracensWomen_V_HarlequinsWomen.png" width="32%" />
 </p>
