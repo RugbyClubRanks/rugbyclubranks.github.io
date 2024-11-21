@@ -9,9 +9,9 @@ categories: "Nationale 2024" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.381, which translates to predicting Carcassonne to win by 4.3.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.373, which translates to predicting Carcassonne to win by 4.6.
 
-Our Over/Under is 34.5 - and combined with the spread above, we have a predicted scoreline of 19 to 15
+Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 24 to 19
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -42,7 +42,7 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction without Player Minutes: Langon by 2.6
 
 
-Langon by 0.3 on a neutral pitch
+Langon by 0.4 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,29 +69,29 @@ Langon by 0.3 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player              |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:-------------------------|---------------:|
-|             60 | Yan Arnold          |             34.34 |        1 |             44.89 | Tunaï Ratu Vatubua       |             58 |
-|             80 | Raphaël Carbou      |             30.76 |        2 |             45.62 | Maxime Gau               |             80 |
-|             80 | Siua Halanukonuka   |             34.48 |        3 |             53.46 | Loïc Clavé               |             80 |
-|             50 | Romain Guyot        |             40.79 |        4 |             50.31 | Thomas Geffré            |             80 |
-|             73 | Clément Fontaine    |             38.52 |        5 |             49.69 | Helmi Mimouna            |             74 |
-|             20 | Bilal Fadli         |             47.5  |        6 |             47.67 | Meryll Ech-Chalkha       |             62 |
-|             65 | Etienne Herjean     |             39.1  |        7 |             48.18 | Thomas Bishop            |             62 |
-|             56 | Thomas Hoarau       |             41.29 |        8 |             48.84 | Thomas Mendy             |             44 |
-|             63 | Kenjy Bayer         |             41.65 |        9 |             54.52 | Baptiste Tisné           |             80 |
-|             73 | Johnny Mcphillips   |             35.99 |       10 |             48.83 | Christel Bertrand        |             80 |
-|             23 | Paul Gadéa          |             40.32 |       11 |             50.83 | Quentin Lefort           |             73 |
-|             13 | Jordan Puletua      |             34.78 |       12 |             44.93 | Sionasa Vunisa           |             80 |
-|             18 | Mathys Barka        |             34.69 |       13 |             45.47 | Adriu Naivuwai           |             80 |
-|             13 | Naïm Ben Alla       |             42.13 |       14 |             73.75 | Thomas Wallraf           |             21 |
-|             59 | Naïm Ben Alla       |             42.13 |       14 |             73.75 | Thomas Wallraf           |             21 |
-|             80 | Nils Chaliès        |             35.02 |       15 |             50.94 | Nathan Gagnac            |             80 |
+|             60 | Yan Arnold          |             41.07 |        1 |             51.08 | Tunaï Ratu Vatubua       |             58 |
+|             80 | Raphaël Carbou      |             42.01 |        2 |             56.07 | Maxime Gau               |             80 |
+|             80 | Siua Halanukonuka   |             39.63 |        3 |             53.17 | Loïc Clavé               |             80 |
+|             50 | Romain Guyot        |             46.07 |        4 |             58.18 | Thomas Geffré            |             80 |
+|             73 | Clément Fontaine    |             44.21 |        5 |             57.65 | Helmi Mimouna            |             74 |
+|             20 | Bilal Fadli         |             48.12 |        6 |             54.89 | Meryll Ech-Chalkha       |             62 |
+|             65 | Etienne Herjean     |             44.63 |        7 |             54.89 | Thomas Bishop            |             62 |
+|             56 | Thomas Hoarau       |             37.43 |        8 |             45.62 | Thomas Mendy             |             44 |
+|             63 | Kenjy Bayer         |             42.75 |        9 |             53.7  | Baptiste Tisné           |             80 |
+|             73 | Johnny Mcphillips   |             39.61 |       10 |             50.39 | Christel Bertrand        |             80 |
+|             23 | Paul Gadéa          |             46.76 |       11 |             54.62 | Quentin Lefort           |             73 |
+|             13 | Jordan Puletua      |             42.17 |       12 |             49.54 | Sionasa Vunisa           |             80 |
+|             18 | Mathys Barka        |             41.89 |       13 |             49.54 | Adriu Naivuwai           |             80 |
+|             59 | Naïm Ben Alla       |             47.65 |       14 |             76.58 | Thomas Wallraf           |             21 |
+|             13 | Naïm Ben Alla       |             47.65 |       14 |             76.58 | Thomas Wallraf           |             21 |
+|             80 | Nils Chaliès        |             41.09 |       15 |             51.74 | Nathan Gagnac            |             80 |
 |             32 | Gabin Villerouge    |            nan    |       16 |            nan    | Lucas Hernandez          |             70 |
 |             59 | Nika Neparidze      |            nan    |       17 |            nan    | Julien Graffouillère     |             80 |
-|             80 | Marius Iftimiciuc   |              5.24 |       18 |             53.01 | Thomas De Molder         |             60 |
-|             54 | Ferdinand Dréno     |             40.12 |       19 |            nan    | Simon Zubizarreta        |             40 |
-|             54 | Gabin Michet        |             30.54 |       20 |            nan    | Paul Castéra             |             80 |
-|             54 | Clément Egiziano    |             39.45 |       21 |             38.33 | Vincent Debladis         |             20 |
-|             73 | Valentin Sese       |             44.8  |       22 |            nan    | Jules Depoortère         |             80 |
-|             10 | Vakhtangi Akhobadze |             39    |       23 |            nan    | Emiliano Coria Marchetti |             60 |
-|             70 | Vakhtangi Akhobadze |             39    |       23 |            nan    | Emiliano Coria Marchetti |             60 |
+|             14 | Marius Iftimiciuc   |             16    |       18 |             50.84 | Thomas De Molder         |             60 |
+|             28 | Ferdinand Dréno     |            nan    |       19 |            nan    | Simon Zubizarreta        |             40 |
+|             40 | Gabin Michet        |            nan    |       20 |            nan    | Paul Castéra             |             80 |
+|             40 | Clément Egiziano    |            nan    |       21 |            nan    | Vincent Debladis         |             20 |
+|             28 | Valentin Sese       |            nan    |       22 |            nan    | Jules Depoortère         |             80 |
+|              0 | Vakhtangi Akhobadze |            nan    |       23 |            nan    | Emiliano Coria Marchetti |             60 |
+|             63 | Vakhtangi Akhobadze |            nan    |       23 |            nan    | Emiliano Coria Marchetti |             60 |
 

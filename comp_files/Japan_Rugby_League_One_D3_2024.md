@@ -1,6 +1,6 @@
 ---  
 title: "Japan Rugby League One D3 2024 Status"  
-date: 2024-11-18 6:00:00 -0500  
+date: 2024-11-21 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,12 +17,12 @@ aside:
 
 | Club                  |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:----------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Sayama Secom Rugguts  |              15 |   11.7 |              277.874 |                   1.7 |               10.3 |                 58.9 |
-| Yakult Levins Toda    |              15 |   11.5 |              277.664 |                   1.7 |               10.3 |                 58   |
-| LeRiro Fukuoka        |              15 |   11.2 |              273.24  |                   1.9 |               10.3 |                 57.1 |
-| Kurita Water Gush     |              15 |    4.6 |             -232.065 |                   1.4 |                5.4 |                 25.3 |
-| Skyactivs Hiroshima   |              15 |    3.5 |             -271.84  |                   1.8 |                5.3 |                 21   |
-| Chugoku Red Regulions |              15 |    2.4 |             -324.872 |                   1.9 |                4.3 |                 15.9 |
+| Sayama Secom Rugguts  |              15 |   11.5 |              387.762 |                   1.7 |                9.6 |                 57.4 |
+| Yakult Levins Toda    |              15 |   11.4 |              389.738 |                   1.8 |                9.5 |                 56.9 |
+| LeRiro Fukuoka        |              15 |   11   |              386.164 |                   2   |                9.6 |                 55.7 |
+| Kurita Water Gush     |              15 |    4.6 |             -350.955 |                   1.4 |                3.9 |                 23.9 |
+| Skyactivs Hiroshima   |              15 |    3.6 |             -388.733 |                   1.8 |                4   |                 20.2 |
+| Chugoku Red Regulions |              15 |    2.8 |             -423.977 |                   1.8 |                3.6 |                 16.6 |
 
 
 
@@ -33,9 +33,9 @@ aside:
 ### Chugoku Red Regulions V Skyactivs Hiroshima on 2024/12/21
 
 
-Average Margin: Chugoku Red Regulions by 0.8
+Average Margin: Chugoku Red Regulions by 0.2
 
-Average Scoreline: 27-26
+Average Scoreline: 32-31
 
 <p float="left">
 <img src="plots/performances_2024-12-21-ChugokuRedRegulions_V_SkyactivsHiroshima.png" width="32%" />
@@ -46,9 +46,9 @@ Average Scoreline: 27-26
 ### LeRiro Fukuoka V Yakult Levins Toda on 2024/12/22
 
 
-Average Margin: LeRiro Fukuoka by 4.0
+Average Margin: LeRiro Fukuoka by 3.9
 
-Average Scoreline: 18-14
+Average Scoreline: 16-12
 
 <p float="left">
 <img src="plots/performances_2024-12-22-LeRiroFukuoka_V_YakultLevinsToda.png" width="32%" />
@@ -59,9 +59,9 @@ Average Scoreline: 18-14
 ### Sayama Secom Rugguts V Kurita Water Gush on 2024/12/22
 
 
-Average Margin: Sayama Secom Rugguts by 33.7
+Average Margin: Sayama Secom Rugguts by 44.7
 
-Average Scoreline: 48-14
+Average Scoreline: 64-20
 
 <p float="left">
 <img src="plots/performances_2024-12-22-SayamaSecomRugguts_V_KuritaWaterGush.png" width="32%" />
@@ -74,9 +74,9 @@ Average Scoreline: 48-14
 ### Kurita Water Gush V Yakult Levins Toda on 2024/12/28
 
 
-Average Margin: Yakult Levins Toda by 29.3
+Average Margin: Yakult Levins Toda by 40.8
 
-Average Scoreline: 44-15
+Average Scoreline: 52-12
 
 <p float="left">
 <img src="plots/performances_2024-12-28-KuritaWaterGush_V_YakultLevinsToda.png" width="32%" />
@@ -87,9 +87,9 @@ Average Scoreline: 44-15
 ### Sayama Secom Rugguts V Skyactivs Hiroshima on 2024/12/29
 
 
-Average Margin: Sayama Secom Rugguts by 34.0
+Average Margin: Sayama Secom Rugguts by 45.4
 
-Average Scoreline: 50-16
+Average Scoreline: 64-19
 
 <p float="left">
 <img src="plots/performances_2024-12-29-SayamaSecomRugguts_V_SkyactivsHiroshima.png" width="32%" />
@@ -102,9 +102,9 @@ Average Scoreline: 50-16
 ### LeRiro Fukuoka V Chugoku Red Regulions on 2025/01/05
 
 
-Average Margin: LeRiro Fukuoka by 35.2
+Average Margin: LeRiro Fukuoka by 45.2
 
-Average Scoreline: 51-16
+Average Scoreline: 63-17
 
 <p float="left">
 <img src="plots/performances_2025-01-05-LeRiroFukuoka_V_ChugokuRedRegulions.png" width="32%" />
@@ -117,9 +117,9 @@ Average Scoreline: 51-16
 ### Skyactivs Hiroshima V Kurita Water Gush on 2025/01/11
 
 
-Average Margin: Skyactivs Hiroshima by 0.1
+Average Margin: Kurita Water Gush by 0.6
 
-Average Scoreline: 30-30
+Average Scoreline: 33-33
 
 <p float="left">
 <img src="plots/performances_2025-01-11-SkyactivsHiroshima_V_KuritaWaterGush.png" width="32%" />
@@ -130,9 +130,9 @@ Average Scoreline: 30-30
 ### Sayama Secom Rugguts V LeRiro Fukuoka on 2025/01/11
 
 
-Average Margin: Sayama Secom Rugguts by 2.4
+Average Margin: Sayama Secom Rugguts by 3.2
 
-Average Scoreline: 23-20
+Average Scoreline: 19-16
 
 <p float="left">
 <img src="plots/performances_2025-01-11-SayamaSecomRugguts_V_LeRiroFukuoka.png" width="32%" />
@@ -143,9 +143,9 @@ Average Scoreline: 23-20
 ### Yakult Levins Toda V Chugoku Red Regulions on 2025/01/12
 
 
-Average Margin: Yakult Levins Toda by 36.7
+Average Margin: Yakult Levins Toda by 44.1
 
-Average Scoreline: 52-15
+Average Scoreline: 62-18
 
 <p float="left">
 <img src="plots/performances_2025-01-12-YakultLevinsToda_V_ChugokuRedRegulions.png" width="32%" />
@@ -158,9 +158,9 @@ Average Scoreline: 52-15
 ### Skyactivs Hiroshima V Yakult Levins Toda on 2025/01/19
 
 
-Average Margin: Yakult Levins Toda by 30.3
+Average Margin: Yakult Levins Toda by 42.6
 
-Average Scoreline: 45-15
+Average Scoreline: 56-13
 
 <p float="left">
 <img src="plots/performances_2025-01-19-SkyactivsHiroshima_V_YakultLevinsToda.png" width="32%" />
@@ -171,9 +171,9 @@ Average Scoreline: 45-15
 ### Kurita Water Gush V LeRiro Fukuoka on 2025/01/19
 
 
-Average Margin: LeRiro Fukuoka by 28.5
+Average Margin: LeRiro Fukuoka by 41.7
 
-Average Scoreline: 44-15
+Average Scoreline: 53-12
 
 <p float="left">
 <img src="plots/performances_2025-01-19-KuritaWaterGush_V_LeRiroFukuoka.png" width="32%" />
@@ -184,9 +184,9 @@ Average Scoreline: 44-15
 ### Chugoku Red Regulions V Sayama Secom Rugguts on 2025/01/19
 
 
-Average Margin: Sayama Secom Rugguts by 31.9
+Average Margin: Sayama Secom Rugguts by 44.9
 
-Average Scoreline: 46-14
+Average Scoreline: 56-11
 
 <p float="left">
 <img src="plots/performances_2025-01-19-ChugokuRedRegulions_V_SayamaSecomRugguts.png" width="32%" />
@@ -199,9 +199,9 @@ Average Scoreline: 46-14
 ### LeRiro Fukuoka V Skyactivs Hiroshima on 2025/01/25
 
 
-Average Margin: LeRiro Fukuoka by 32.8
+Average Margin: LeRiro Fukuoka by 45.8
 
-Average Scoreline: 49-16
+Average Scoreline: 64-18
 
 <p float="left">
 <img src="plots/performances_2025-01-25-LeRiroFukuoka_V_SkyactivsHiroshima.png" width="32%" />
@@ -212,9 +212,9 @@ Average Scoreline: 49-16
 ### Yakult Levins Toda V Sayama Secom Rugguts on 2025/01/25
 
 
-Average Margin: Yakult Levins Toda by 3.9
+Average Margin: Yakult Levins Toda by 5.1
 
-Average Scoreline: 26-22
+Average Scoreline: 25-20
 
 <p float="left">
 <img src="plots/performances_2025-01-25-YakultLevinsToda_V_SayamaSecomRugguts.png" width="32%" />
@@ -227,9 +227,9 @@ Average Scoreline: 26-22
 ### Kurita Water Gush V Chugoku Red Regulions on 2025/02/01
 
 
-Average Margin: Kurita Water Gush by 10.0
+Average Margin: Kurita Water Gush by 9.4
 
-Average Scoreline: 35-26
+Average Scoreline: 34-25
 
 <p float="left">
 <img src="plots/performances_2025-02-01-KuritaWaterGush_V_ChugokuRedRegulions.png" width="32%" />
@@ -242,9 +242,9 @@ Average Scoreline: 35-26
 ### Skyactivs Hiroshima V Chugoku Red Regulions on 2025/02/15
 
 
-Average Margin: Skyactivs Hiroshima by 6.8
+Average Margin: Skyactivs Hiroshima by 6.2
 
-Average Scoreline: 37-30
+Average Scoreline: 35-29
 
 <p float="left">
 <img src="plots/performances_2025-02-15-SkyactivsHiroshima_V_ChugokuRedRegulions.png" width="32%" />
@@ -255,9 +255,9 @@ Average Scoreline: 37-30
 ### Sayama Secom Rugguts V Kurita Water Gush on 2025/02/15
 
 
-Average Margin: Sayama Secom Rugguts by 31.4
+Average Margin: Sayama Secom Rugguts by 43.3
 
-Average Scoreline: 48-17
+Average Scoreline: 63-20
 
 <p float="left">
 <img src="plots/performances_2025-02-15-SayamaSecomRugguts_V_KuritaWaterGush.png" width="32%" />
@@ -268,9 +268,9 @@ Average Scoreline: 48-17
 ### Yakult Levins Toda V LeRiro Fukuoka on 2025/02/15
 
 
-Average Margin: Yakult Levins Toda by 3.6
+Average Margin: Yakult Levins Toda by 3.8
 
-Average Scoreline: 28-24
+Average Scoreline: 24-20
 
 <p float="left">
 <img src="plots/performances_2025-02-15-YakultLevinsToda_V_LeRiroFukuoka.png" width="32%" />
@@ -283,9 +283,9 @@ Average Scoreline: 28-24
 ### Kurita Water Gush V Skyactivs Hiroshima on 2025/02/22
 
 
-Average Margin: Kurita Water Gush by 6.4
+Average Margin: Kurita Water Gush by 5.7
 
-Average Scoreline: 32-25
+Average Scoreline: 32-26
 
 <p float="left">
 <img src="plots/performances_2025-02-22-KuritaWaterGush_V_SkyactivsHiroshima.png" width="32%" />
@@ -296,9 +296,9 @@ Average Scoreline: 32-25
 ### Chugoku Red Regulions V Yakult Levins Toda on 2025/02/22
 
 
-Average Margin: Yakult Levins Toda by 31.2
+Average Margin: Yakult Levins Toda by 43.5
 
-Average Scoreline: 46-15
+Average Scoreline: 56-12
 
 <p float="left">
 <img src="plots/performances_2025-02-22-ChugokuRedRegulions_V_YakultLevinsToda.png" width="32%" />
@@ -309,9 +309,9 @@ Average Scoreline: 46-15
 ### LeRiro Fukuoka V Sayama Secom Rugguts on 2025/02/22
 
 
-Average Margin: LeRiro Fukuoka by 3.6
+Average Margin: LeRiro Fukuoka by 4.5
 
-Average Scoreline: 28-24
+Average Scoreline: 25-20
 
 <p float="left">
 <img src="plots/performances_2025-02-22-LeRiroFukuoka_V_SayamaSecomRugguts.png" width="32%" />
@@ -324,9 +324,9 @@ Average Scoreline: 28-24
 ### Yakult Levins Toda V Kurita Water Gush on 2025/03/01
 
 
-Average Margin: Yakult Levins Toda by 30.6
+Average Margin: Yakult Levins Toda by 45.2
 
-Average Scoreline: 50-19
+Average Scoreline: 65-20
 
 <p float="left">
 <img src="plots/performances_2025-03-01-YakultLevinsToda_V_KuritaWaterGush.png" width="32%" />
@@ -337,9 +337,9 @@ Average Scoreline: 50-19
 ### Skyactivs Hiroshima V Sayama Secom Rugguts on 2025/03/01
 
 
-Average Margin: Sayama Secom Rugguts by 27.5
+Average Margin: Sayama Secom Rugguts by 41.3
 
-Average Scoreline: 46-18
+Average Scoreline: 57-16
 
 <p float="left">
 <img src="plots/performances_2025-03-01-SkyactivsHiroshima_V_SayamaSecomRugguts.png" width="32%" />
@@ -350,9 +350,9 @@ Average Scoreline: 46-18
 ### Chugoku Red Regulions V LeRiro Fukuoka on 2025/03/02
 
 
-Average Margin: LeRiro Fukuoka by 31.3
+Average Margin: LeRiro Fukuoka by 43.7
 
-Average Scoreline: 45-14
+Average Scoreline: 57-13
 
 <p float="left">
 <img src="plots/performances_2025-03-02-ChugokuRedRegulions_V_LeRiroFukuoka.png" width="32%" />
@@ -365,9 +365,9 @@ Average Scoreline: 45-14
 ### Sayama Secom Rugguts V Chugoku Red Regulions on 2025/03/08
 
 
-Average Margin: Sayama Secom Rugguts by 33.9
+Average Margin: Sayama Secom Rugguts by 44.0
 
-Average Scoreline: 49-15
+Average Scoreline: 63-19
 
 <p float="left">
 <img src="plots/performances_2025-03-08-SayamaSecomRugguts_V_ChugokuRedRegulions.png" width="32%" />
@@ -378,9 +378,9 @@ Average Scoreline: 49-15
 ### Yakult Levins Toda V Skyactivs Hiroshima on 2025/03/08
 
 
-Average Margin: Yakult Levins Toda by 32.3
+Average Margin: Yakult Levins Toda by 43.1
 
-Average Scoreline: 51-18
+Average Scoreline: 64-21
 
 <p float="left">
 <img src="plots/performances_2025-03-08-YakultLevinsToda_V_SkyactivsHiroshima.png" width="32%" />
@@ -393,9 +393,9 @@ Average Scoreline: 51-18
 ### LeRiro Fukuoka V Kurita Water Gush on 2025/03/16
 
 
-Average Margin: LeRiro Fukuoka by 31.2
+Average Margin: LeRiro Fukuoka by 43.6
 
-Average Scoreline: 48-17
+Average Scoreline: 65-21
 
 <p float="left">
 <img src="plots/performances_2025-03-16-LeRiroFukuoka_V_KuritaWaterGush.png" width="32%" />
@@ -408,7 +408,7 @@ Average Scoreline: 48-17
 ### Kurita Water Gush V Chugoku Red Regulions on 2025/03/22
 
 
-Average Margin: Kurita Water Gush by 8.8
+Average Margin: Kurita Water Gush by 8.3
 
 Average Scoreline: 35-26
 
@@ -421,9 +421,9 @@ Average Scoreline: 35-26
 ### Sayama Secom Rugguts V Yakult Levins Toda on 2025/03/22
 
 
-Average Margin: Sayama Secom Rugguts by 3.6
+Average Margin: Sayama Secom Rugguts by 4.1
 
-Average Scoreline: 27-23
+Average Scoreline: 24-20
 
 <p float="left">
 <img src="plots/performances_2025-03-22-SayamaSecomRugguts_V_YakultLevinsToda.png" width="32%" />
@@ -434,9 +434,9 @@ Average Scoreline: 27-23
 ### Skyactivs Hiroshima V LeRiro Fukuoka on 2025/03/22
 
 
-Average Margin: LeRiro Fukuoka by 28.9
+Average Margin: LeRiro Fukuoka by 44.1
 
-Average Scoreline: 46-17
+Average Scoreline: 58-14
 
 <p float="left">
 <img src="plots/performances_2025-03-22-SkyactivsHiroshima_V_LeRiroFukuoka.png" width="32%" />
@@ -449,9 +449,9 @@ Average Scoreline: 46-17
 ### Chugoku Red Regulions V Yakult Levins Toda on 2025/03/29
 
 
-Average Margin: Yakult Levins Toda by 29.2
+Average Margin: Yakult Levins Toda by 42.8
 
-Average Scoreline: 45-16
+Average Scoreline: 56-14
 
 <p float="left">
 <img src="plots/performances_2025-03-29-ChugokuRedRegulions_V_YakultLevinsToda.png" width="32%" />
@@ -462,9 +462,9 @@ Average Scoreline: 45-16
 ### Kurita Water Gush V Skyactivs Hiroshima on 2025/03/29
 
 
-Average Margin: Kurita Water Gush by 6.5
+Average Margin: Kurita Water Gush by 7.1
 
-Average Scoreline: 32-26
+Average Scoreline: 34-27
 
 <p float="left">
 <img src="plots/performances_2025-03-29-KuritaWaterGush_V_SkyactivsHiroshima.png" width="32%" />
@@ -475,9 +475,9 @@ Average Scoreline: 32-26
 ### Sayama Secom Rugguts V LeRiro Fukuoka on 2025/03/29
 
 
-Average Margin: Sayama Secom Rugguts by 3.4
+Average Margin: Sayama Secom Rugguts by 3.6
 
-Average Scoreline: 26-23
+Average Scoreline: 24-20
 
 <p float="left">
 <img src="plots/performances_2025-03-29-SayamaSecomRugguts_V_LeRiroFukuoka.png" width="32%" />
@@ -490,9 +490,9 @@ Average Scoreline: 26-23
 ### LeRiro Fukuoka V Chugoku Red Regulions on 2025/04/13
 
 
-Average Margin: LeRiro Fukuoka by 33.3
+Average Margin: LeRiro Fukuoka by 44.6
 
-Average Scoreline: 50-17
+Average Scoreline: 65-21
 
 <p float="left">
 <img src="plots/performances_2025-04-13-LeRiroFukuoka_V_ChugokuRedRegulions.png" width="32%" />
@@ -503,9 +503,9 @@ Average Scoreline: 50-17
 ### Yakult Levins Toda V Kurita Water Gush on 2025/04/13
 
 
-Average Margin: Yakult Levins Toda by 30.6
+Average Margin: Yakult Levins Toda by 44.3
 
-Average Scoreline: 45-15
+Average Scoreline: 65-20
 
 <p float="left">
 <img src="plots/performances_2025-04-13-YakultLevinsToda_V_KuritaWaterGush.png" width="32%" />
@@ -516,9 +516,9 @@ Average Scoreline: 45-15
 ### Skyactivs Hiroshima V Sayama Secom Rugguts on 2025/04/13
 
 
-Average Margin: Sayama Secom Rugguts by 26.7
+Average Margin: Sayama Secom Rugguts by 38.8
 
-Average Scoreline: 48-21
+Average Scoreline: 56-17
 
 <p float="left">
 <img src="plots/performances_2025-04-13-SkyactivsHiroshima_V_SayamaSecomRugguts.png" width="32%" />
@@ -531,9 +531,9 @@ Average Scoreline: 48-21
 ### Chugoku Red Regulions V Sayama Secom Rugguts on 2025/04/19
 
 
-Average Margin: Sayama Secom Rugguts by 29.4
+Average Margin: Sayama Secom Rugguts by 41.2
 
-Average Scoreline: 48-18
+Average Scoreline: 57-16
 
 <p float="left">
 <img src="plots/performances_2025-04-19-ChugokuRedRegulions_V_SayamaSecomRugguts.png" width="32%" />
@@ -544,9 +544,9 @@ Average Scoreline: 48-18
 ### Kurita Water Gush V LeRiro Fukuoka on 2025/04/19
 
 
-Average Margin: LeRiro Fukuoka by 25.7
+Average Margin: LeRiro Fukuoka by 39.7
 
-Average Scoreline: 46-21
+Average Scoreline: 55-15
 
 <p float="left">
 <img src="plots/performances_2025-04-19-KuritaWaterGush_V_LeRiroFukuoka.png" width="32%" />
@@ -557,9 +557,9 @@ Average Scoreline: 46-21
 ### Skyactivs Hiroshima V Yakult Levins Toda on 2025/04/19
 
 
-Average Margin: Yakult Levins Toda by 27.1
+Average Margin: Yakult Levins Toda by 42.6
 
-Average Scoreline: 46-18
+Average Scoreline: 58-15
 
 <p float="left">
 <img src="plots/performances_2025-04-19-SkyactivsHiroshima_V_YakultLevinsToda.png" width="32%" />
@@ -572,9 +572,9 @@ Average Scoreline: 46-18
 ### Chugoku Red Regulions V Kurita Water Gush on 2025/04/27
 
 
-Average Margin: Kurita Water Gush by 1.3
+Average Margin: Kurita Water Gush by 0.3
 
-Average Scoreline: 24-23
+Average Scoreline: 32-31
 
 <p float="left">
 <img src="plots/performances_2025-04-27-ChugokuRedRegulions_V_KuritaWaterGush.png" width="32%" />
@@ -585,9 +585,9 @@ Average Scoreline: 24-23
 ### Sayama Secom Rugguts V Yakult Levins Toda on 2025/04/27
 
 
-Average Margin: Sayama Secom Rugguts by 3.5
+Average Margin: Sayama Secom Rugguts by 3.7
 
-Average Scoreline: 28-24
+Average Scoreline: 25-21
 
 <p float="left">
 <img src="plots/performances_2025-04-27-SayamaSecomRugguts_V_YakultLevinsToda.png" width="32%" />
@@ -598,9 +598,9 @@ Average Scoreline: 28-24
 ### LeRiro Fukuoka V Skyactivs Hiroshima on 2025/04/27
 
 
-Average Margin: LeRiro Fukuoka by 32.1
+Average Margin: LeRiro Fukuoka by 43.6
 
-Average Scoreline: 49-17
+Average Scoreline: 65-22
 
 <p float="left">
 <img src="plots/performances_2025-04-27-LeRiroFukuoka_V_SkyactivsHiroshima.png" width="32%" />
@@ -613,9 +613,9 @@ Average Scoreline: 49-17
 ### Yakult Levins Toda V LeRiro Fukuoka on 2025/05/10
 
 
-Average Margin: Yakult Levins Toda by 3.9
+Average Margin: Yakult Levins Toda by 3.5
 
-Average Scoreline: 28-24
+Average Scoreline: 26-23
 
 <p float="left">
 <img src="plots/performances_2025-05-10-YakultLevinsToda_V_LeRiroFukuoka.png" width="32%" />
@@ -626,9 +626,9 @@ Average Scoreline: 28-24
 ### Skyactivs Hiroshima V Chugoku Red Regulions on 2025/05/10
 
 
-Average Margin: Skyactivs Hiroshima by 6.7
+Average Margin: Skyactivs Hiroshima by 5.9
 
-Average Scoreline: 33-26
+Average Scoreline: 35-29
 
 <p float="left">
 <img src="plots/performances_2025-05-10-SkyactivsHiroshima_V_ChugokuRedRegulions.png" width="32%" />
@@ -639,9 +639,9 @@ Average Scoreline: 33-26
 ### Kurita Water Gush V Sayama Secom Rugguts on 2025/05/10
 
 
-Average Margin: Sayama Secom Rugguts by 23.9
+Average Margin: Sayama Secom Rugguts by 39.1
 
-Average Scoreline: 46-22
+Average Scoreline: 54-15
 
 <p float="left">
 <img src="plots/performances_2025-05-10-KuritaWaterGush_V_SayamaSecomRugguts.png" width="32%" />

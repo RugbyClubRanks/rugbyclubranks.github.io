@@ -9,9 +9,9 @@ categories: "Nationale 2024" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.583, which translates to predicting Tarbes to win by 3.2.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.564, which translates to predicting Tarbes to win by 2.5.
 
-Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 25 to 28
+Our Over/Under is 38.5 - and combined with the spread above, we have a predicted scoreline of 18 to 21
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,29 +69,29 @@ Tarbes by 0.3 on a neutral pitch
 
 |   Away Minutes | Away Player                  |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:-----------------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             24 | Charles-Edouard Ekwah Elimby |             50.45 |        1 |             36.81 | Enzo Baggiani       |             80 |
-|              0 | Joseph Reynaud               |             44.28 |        2 |             35.51 | Vincent Dolier      |             75 |
-|              0 | Lewys Jones                  |             46.54 |        3 |             42.02 | Luka Véa            |             35 |
-|              0 | Antoine Delaporte            |             49.26 |        4 |             45.94 | Léo Saint-Guilhem   |             24 |
-|              0 | Maselino Paulino             |             47.95 |        5 |             47.07 | Mathieu Soufflet    |             18 |
-|              0 | Joachim Beaumont             |             49.41 |        6 |             44.27 | Jules Bousquet      |             36 |
-|              0 | Joachim Beaumont             |             49.41 |        6 |             44.27 | Jules Bousquet      |             11 |
-|              0 | Arthur Bruges                |             48.52 |        7 |             47.92 | Alexis Armary       |              8 |
-|              0 | Otilo Kafotamaki             |             49    |        8 |             45.3  | Filipe Manu         |             35 |
-|             71 | Geoffrey Cazanave            |             56.05 |        9 |             39.97 | Matias Brocal       |             49 |
-|             80 | Paul Decavel                 |             53.11 |       10 |             33.85 | Alexandre Perez     |             50 |
-|             18 | Dany Antunès                 |             49.33 |       11 |             38.89 | Jonathan Duffau     |             71 |
-|             28 | Louis Decavel                |             44.11 |       12 |             34.15 | Maile Mamao         |             74 |
-|             80 | Mark Erasmus                 |             51.18 |       13 |             35.78 | Johan Paulet        |             58 |
-|             62 | Hugues Crespo                |             54.23 |       14 |             39.13 | Jone Tuva           |             70 |
-|             45 | Serafin Bordoli              |             49.81 |       15 |             37.27 | Amona Artaud        |             70 |
+|             24 | Charles-Edouard Ekwah Elimby |             49.06 |        1 |             35.45 | Enzo Baggiani       |             80 |
+|              0 | Joseph Reynaud               |             46.75 |        2 |             38.46 | Vincent Dolier      |             75 |
+|              0 | Lewys Jones                  |             45.24 |        3 |             40.63 | Luka Véa            |             35 |
+|              0 | Antoine Delaporte            |             50.8  |        4 |             46.6  | Léo Saint-Guilhem   |             24 |
+|              0 | Maselino Paulino             |             50.8  |        5 |             47.75 | Mathieu Soufflet    |             18 |
+|              0 | Joachim Beaumont             |             49.83 |        6 |             48.03 | Jules Bousquet      |             11 |
+|              0 | Joachim Beaumont             |             49.83 |        6 |             48.03 | Jules Bousquet      |             36 |
+|              0 | Arthur Bruges                |             49.83 |        7 |             48.56 | Alexis Armary       |              8 |
+|              0 | Otilo Kafotamaki             |             41.62 |        8 |             37.06 | Filipe Manu         |             35 |
+|             71 | Geoffrey Cazanave            |             55.09 |        9 |             40.74 | Matias Brocal       |             49 |
+|             80 | Paul Decavel                 |             53.73 |       10 |             38.24 | Alexandre Perez     |             50 |
+|             18 | Dany Antunès                 |             50.32 |       11 |             41.09 | Jonathan Duffau     |             71 |
+|             28 | Louis Decavel                |             45.78 |       12 |             34.85 | Maile Mamao         |             74 |
+|             80 | Mark Erasmus                 |             51.9  |       13 |             36.52 | Johan Paulet        |             58 |
+|             62 | Hugues Crespo                |             55.83 |       14 |             41.33 | Jone Tuva           |             70 |
+|             45 | Serafin Bordoli              |             50.97 |       15 |             37.4  | Amona Artaud        |             70 |
 |             62 | Matéo Saint-Germain          |            nan    |       16 |            nan    | Florian Lamothe     |             80 |
-|             80 | Éli Serra                    |             44.83 |       17 |            nan    | Lasha Mirtskhulava  |             80 |
+|             80 | Éli Serra                    |            nan    |       17 |            nan    | Lasha Mirtskhulava  |             80 |
 |             44 | Lucio Anconetani             |            nan    |       18 |            nan    | Baptiste Peytavi    |             80 |
-|             32 | Thomas Simonet               |             48.26 |       19 |            nan    | Joeli Matalaweru    |             33 |
+|             32 | Thomas Simonet               |            nan    |       19 |            nan    | Joeli Matalaweru    |             33 |
 |             69 | Maxime Danton                |            nan    |       20 |            nan    | Thomas Millet       |              0 |
-|             80 | Dylan Nocète                 |             43.95 |       21 |            nan    | Savenaca Rawaca     |             33 |
-|             80 | Mathias Ortiz                |             40.13 |       22 |            nan    | Osea Waqaninavatu   |             80 |
-|             72 | Sive Mazosiwe                |             45.92 |       23 |            nan    | Irakli Mirtskhulava |             52 |
-|             72 | Sive Mazosiwe                |             45.92 |       23 |            nan    | Irakli Mirtskhulava |             50 |
+|             80 | Dylan Nocète                 |            nan    |       21 |            nan    | Savenaca Rawaca     |             33 |
+|             80 | Mathias Ortiz                |            nan    |       22 |            nan    | Osea Waqaninavatu   |             80 |
+|             72 | Sive Mazosiwe                |            nan    |       23 |            nan    | Irakli Mirtskhulava |             50 |
+|             72 | Sive Mazosiwe                |            nan    |       23 |            nan    | Irakli Mirtskhulava |             52 |
 

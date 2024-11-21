@@ -9,9 +9,9 @@ categories: "Nationale 2024" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.715, which translates to predicting Albi to win by 8.1.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.722, which translates to predicting Albi to win by 8.4.
 
-Our Over/Under is 44.5 - and combined with the spread above, we have a predicted scoreline of 18 to 26
+Our Over/Under is 42.5 - and combined with the spread above, we have a predicted scoreline of 17 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Albi by 11.4
+## Prediction without Player Minutes: Albi by 11.3
 
 
-Albi by 0.1 on a neutral pitch
+Albi by 0.2 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,28 +69,28 @@ Albi by 0.1 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player             |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:------------------------|---------------:|
-|             21 | Fernandez Corréa    |             55.65 |        1 |             45.44 | Antoine Soave           |             16 |
-|             28 | Adrien Sonzogni     |             59.14 |        2 |             45.47 | Reinach Venter          |              0 |
-|             20 | Tijde Visser        |             66.28 |        3 |             47.16 | Jean-Baptiste De Clercq |             22 |
-|             17 | Saba Pesvianidze    |             67.07 |        4 |             49.08 | Jonathan Kpoku          |             10 |
-|             13 | Louis Bruinsma      |             50.66 |        5 |             51.27 | Evrard Dion Oulai       |             20 |
-|             63 | Hugo Boutin         |             67.26 |        6 |             45.63 | Mattéo Coustalat        |             80 |
-|             31 | Giani Gamba         |             56.66 |        7 |             50.98 | Simon Meka              |             25 |
-|             80 | Alexandre Loubière  |             56.55 |        8 |             48.69 | Camille Jarreau         |              9 |
-|             10 | Lucas Rubio         |             51.61 |        9 |             46.09 | Théo Vidal              |              9 |
-|             22 | Christian Lacombe   |             44.16 |       10 |             43.39 | Victor Pisano           |             47 |
-|             45 | Alex Preira         |             52.33 |       11 |             44.51 | Théo Reinard            |             47 |
-|             59 | Luca Mignot         |             47.46 |       12 |             38.22 | Léo Treilles            |             58 |
-|             40 | Arthur Seigneuret   |             47.1  |       13 |             37.05 | Baptiste Couchinave     |             80 |
-|             80 | Giorgi Gogoladze    |             57.23 |       14 |             43.56 | Simon Hartmann          |             80 |
-|             28 | Martin Carré        |             50.75 |       15 |             41.95 | Téo Dospital            |             59 |
-|             80 | Pierre Trassoudaine |             47.4  |       16 |             46.51 | Arthur Castant          |             31 |
-|             65 | Siegfried Fisi'ihoi |             18.78 |       17 |            nan    | Lucas Pindor            |             30 |
-|             80 | Hilan Delbois       |            nan    |       18 |             53.89 | Vincent Mutel           |             80 |
-|             35 | Hilan Delbois       |            nan    |       18 |             53.89 | Vincent Mutel           |             80 |
-|             64 | Tony Tissot         |            nan    |       19 |             51.91 | Ianis Ponsole           |             80 |
-|             47 | Julien Blanc        |             53.75 |       20 |            nan    | Ruben Courtiès          |             80 |
-|             73 | Antonin Vidalenc    |             48.25 |       21 |            nan    | Thibault Olender        |             21 |
-|             80 | Alfred Mouandjo     |             58.97 |       22 |            nan    | Matis Pacchiana         |             21 |
+|             21 | Fernandez Corréa    |             47.55 |        1 |             44.02 | Antoine Soave           |             16 |
+|             28 | Adrien Sonzogni     |             50.74 |        2 |             46.75 | Reinach Venter          |              0 |
+|             20 | Tijde Visser        |             47.41 |        3 |             43.52 | Jean-Baptiste De Clercq |             22 |
+|             17 | Saba Pesvianidze    |             52.43 |        4 |             50.13 | Jonathan Kpoku          |             10 |
+|             13 | Louis Bruinsma      |             51.9  |        5 |             48.98 | Evrard Dion Oulai       |             20 |
+|             63 | Hugo Boutin         |             54.76 |        6 |             43.93 | Mattéo Coustalat        |             80 |
+|             31 | Giani Gamba         |             52.84 |        7 |             47.77 | Simon Meka              |             25 |
+|             80 | Alexandre Loubière  |             48.42 |        8 |             41.34 | Camille Jarreau         |              9 |
+|             10 | Lucas Rubio         |             47.69 |        9 |             46.14 | Théo Vidal              |              9 |
+|             22 | Christian Lacombe   |             46.47 |       10 |             40.78 | Victor Pisano           |             47 |
+|             45 | Alex Preira         |             51.86 |       11 |             45.38 | Théo Reinard            |             47 |
+|             59 | Luca Mignot         |             47.54 |       12 |             39.11 | Léo Treilles            |             58 |
+|             40 | Arthur Seigneuret   |             45.69 |       13 |             38.18 | Baptiste Couchinave     |             80 |
+|             80 | Giorgi Gogoladze    |             55.11 |       14 |             43.44 | Simon Hartmann          |             80 |
+|             28 | Martin Carré        |             47.48 |       15 |             42.44 | Téo Dospital            |             59 |
+|             80 | Pierre Trassoudaine |            nan    |       16 |            nan    | Arthur Castant          |             31 |
+|             65 | Siegfried Fisi'ihoi |             18.3  |       17 |            nan    | Lucas Pindor            |             30 |
+|             35 | Hilan Delbois       |            nan    |       18 |            nan    | Vincent Mutel           |             80 |
+|             80 | Hilan Delbois       |            nan    |       18 |            nan    | Vincent Mutel           |             80 |
+|             64 | Tony Tissot         |            nan    |       19 |            nan    | Ianis Ponsole           |             80 |
+|             47 | Julien Blanc        |            nan    |       20 |            nan    | Ruben Courtiès          |             80 |
+|             73 | Antonin Vidalenc    |            nan    |       21 |            nan    | Thibault Olender        |             21 |
+|             80 | Alfred Mouandjo     |            nan    |       22 |            nan    | Matis Pacchiana         |             21 |
 |             80 | Nolan Pienaar       |            nan    |       23 |            nan    | Thomas Crétu            |             38 |
 

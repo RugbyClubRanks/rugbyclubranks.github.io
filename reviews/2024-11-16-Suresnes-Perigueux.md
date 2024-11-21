@@ -9,9 +9,9 @@ categories: "Nationale 2024" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.513, which translates to predicting Suresnes to win by 0.5.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.507, which translates to predicting Suresnes to win by 0.3.
 
-Our Over/Under is 36.5 - and combined with the spread above, we have a predicted scoreline of 18 to 18
+Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 22 to 22
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Suresnes by 3.8
+## Prediction without Player Minutes: Suresnes by 3.4
 
 
-Suresnes by 0.4 on a neutral pitch
+Suresnes by 0.0 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,29 +69,29 @@ Suresnes by 0.4 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player             |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:------------------------|---------------:|
-|             80 | Thomas Vidal        |             60.35 |        1 |             60.59 | Thibaud Sebire          |             66 |
-|             80 | Thomas Vidal        |             60.35 |        1 |             60.59 | Thibaud Sebire          |             80 |
-|             80 | Louis Martin        |             56.76 |        2 |             46.36 | Jean-Etienne Lesueur    |             54 |
-|             80 | Kalivati Tawake     |             60.35 |        3 |             59.01 | Nail Audoire            |             57 |
-|             55 | Clément Lanen       |             61.66 |        4 |             58.78 | Damien Bozic            |             36 |
-|             52 | Damien Lavergne     |             51.97 |        5 |             49.17 | Yakine Djebbari         |             40 |
-|             52 | Karl Lambert        |             56.23 |        6 |             47.84 | Simon Veyrac            |             80 |
-|             52 | Hendri Storm        |             58.1  |        7 |             61.15 | Wian Vosloo             |             67 |
-|             28 | Nahum Merigan       |             43.3  |        8 |             47.92 | Laki Lee                |             80 |
-|             55 | Max Green           |             69.22 |        9 |             45.64 | Théo Bachiri            |             80 |
-|             80 | Greg Hutley         |             46.5  |       10 |             51.56 | Tanguy Lacoste          |             80 |
-|             80 | Benjamin Yarde      |             51.54 |       11 |             55.97 | Faraj Fartass           |             20 |
-|             80 | Frederick Hickes    |             54.53 |       12 |             49.64 | Petero Tuwaï            |             71 |
-|             32 | Nicolas Piaton      |             46.01 |       13 |             50.91 | Victor Barnier          |             36 |
-|             32 | Paul Piveteau       |             49.96 |       14 |             46.88 | Alexis Clément          |             60 |
-|             73 | Anderson Neisen     |             55.43 |       15 |             56.18 | Goulwen Gueho           |             40 |
+|             80 | Thomas Vidal        |             48.23 |        1 |             45.97 | Thibaud Sebire          |             11 |
+|             80 | Thomas Vidal        |             48.23 |        1 |             45.97 | Thibaud Sebire          |             61 |
+|             80 | Louis Martin        |             50.59 |        2 |             47.49 | Jean-Etienne Lesueur    |             58 |
+|             80 | Kalivati Tawake     |             48.23 |        3 |             45.39 | Nail Audoire            |             57 |
+|             55 | Clément Lanen       |             52.61 |        4 |             51.02 | Damien Bozic            |             36 |
+|             52 | Damien Lavergne     |             52.52 |        5 |             51.11 | Yakine Djebbari         |             40 |
+|             52 | Karl Lambert        |             51.83 |        6 |             50.31 | Simon Veyrac            |             80 |
+|             52 | Hendri Storm        |             51.83 |        7 |             50.22 | Wian Vosloo             |             67 |
+|             28 | Nahum Merigan       |             56.42 |        8 |             41.9  | Laki Lee                |             80 |
+|             55 | Max Green           |             71.91 |        9 |             46.91 | Théo Bachiri            |             80 |
+|             80 | Greg Hutley         |             46.67 |       10 |             44.9  | Tanguy Lacoste          |             80 |
+|             80 | Benjamin Yarde      |             50.41 |       11 |             48.54 | Faraj Fartass           |             20 |
+|             80 | Frederick Hickes    |             44.67 |       12 |             43.19 | Petero Tuwaï            |             71 |
+|             32 | Nicolas Piaton      |             43.65 |       13 |             43.1  | Victor Barnier          |             36 |
+|             32 | Paul Piveteau       |             49.27 |       14 |             48.87 | Alexis Clément          |             60 |
+|             73 | Anderson Neisen     |             47.09 |       15 |             45.16 | Goulwen Gueho           |             40 |
 |             80 | Baptiste Arvouet    |            nan    |       16 |            nan    | Gauthier Bruté De Rémur |             22 |
-|             80 | Émilien Borges      |             58.05 |       17 |            nan    | Yanis Trabelsi          |              9 |
-|             80 | Émilien Borges      |             58.05 |       17 |            nan    | Yanis Trabelsi          |             22 |
+|             80 | Émilien Borges      |            nan    |       17 |            nan    | Yanis Trabelsi          |              9 |
+|             80 | Émilien Borges      |            nan    |       17 |            nan    | Yanis Trabelsi          |             22 |
 |             59 | Raphaël Vieilledent |            nan    |       18 |            nan    | Nikita Bekov            |             40 |
-|             54 | Madioké Konaté      |             59.03 |       19 |            nan    | Boaventura Almeida      |             40 |
-|             56 | Mattéo Bordenave    |             53.6  |       20 |             54.82 | Thomas Lacroix          |             40 |
-|             32 | Vincent Fouillade   |             52.17 |       21 |            nan    | Thomas Baudy            |             80 |
-|             80 | Yon Camou           |             45.88 |       22 |             55.34 | Jj Taulagi              |             58 |
+|             54 | Madioké Konaté      |            nan    |       19 |            nan    | Boaventura Almeida      |             40 |
+|             56 | Mattéo Bordenave    |            nan    |       20 |            nan    | Thomas Lacroix          |             40 |
+|             32 | Vincent Fouillade   |            nan    |       21 |            nan    | Thomas Baudy            |             70 |
+|             80 | Yon Camou           |            nan    |       22 |            nan    | Jj Taulagi              |             58 |
 |             48 | Martin Augeix       |            nan    |       23 |            nan    | Guiterembi Vickos       |             40 |
 

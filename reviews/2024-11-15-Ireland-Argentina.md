@@ -11,7 +11,7 @@ categories: "International Test Match 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.835, which translates to predicting Ireland to win by 14.6.
 
-Our Over/Under is 42.5 - and combined with the spread above, we have a predicted scoreline of 14 to 28
+Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 18 to 33
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Ireland by 60.3
+## Prediction without Player Minutes: Ireland by 21.8
 
 
-Ireland by 54.7 on a neutral pitch
+Ireland by 16.2 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,38 +69,27 @@ Ireland by 54.7 on a neutral pitch
 
 |   Away Minutes | Away Player            |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:-----------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             63 | Thomas Gallo           |             90.2  |        1 |             90.47 | Andrew Porter       |             52 |
-|             47 | Julian Montoya         |             76.52 |        2 |             91.98 | Ronan Kelleher      |             21 |
-|             83 | Joel Sclavi            |             82.66 |        3 |             84.37 | Finlay Bealham      |             53 |
-|             31 | Guido Petti            |             92.49 |        4 |             74.15 | Joe McCarthy        |             52 |
-|             31 | Pedro Rubiolo          |             25.07 |        5 |             97.99 | James Ryan          |             83 |
-|             83 | Pablo Matera           |             99.15 |        6 |             97.29 | Tadhg Beirne        |             83 |
-|             83 | Juan Martin Gonzalez   |             92.03 |        7 |             98.98 | Josh van der Flier  |             59 |
-|              2 | Joaquin Oviedo         |             89.52 |        8 |             95.69 | Caelan Doris        |             62 |
-|             26 | Joaquin Oviedo         |             89.52 |        8 |             95.69 | Caelan Doris        |             62 |
-|             30 | Gonzalo Bertranou      |             73.66 |        9 |             97.24 | Jamison Gibson-Park |             83 |
-|             31 | Tomas Albornoz         |             83.46 |       10 |              7.78 | Jack Crowley        |              9 |
-|             36 | Bautista Delguy        |             90.36 |       11 |            100    | James Lowe          |             18 |
-|             36 | Bautista Delguy        |             90.36 |       11 |            100    | James Lowe          |              3 |
-|             36 | Bautista Delguy        |             90.36 |       11 |            100    | James Lowe          |             35 |
-|             36 | Bautista Delguy        |             90.36 |       11 |            100    | James Lowe          |             16 |
-|             36 | Matias Moroni          |             92.57 |       12 |             88.86 | Robbie Henshaw      |             20 |
-|             58 | Matias Moroni          |             92.57 |       12 |             88.86 | Robbie Henshaw      |             20 |
-|             20 | Matias Moroni          |             92.57 |       12 |             88.86 | Robbie Henshaw      |             20 |
-|             36 | Lucio Cinti            |             58.7  |       13 |             98.1  | Garry Ringrose      |             83 |
-|             81 | Rodrigo Isgro          |             85.61 |       14 |             78.26 | Mack Hansen         |             78 |
-|             83 | Juan Cruz Mallia       |             99.44 |       15 |             99.81 | Hugo Keenan         |             21 |
-|             47 | Ignacio Ruiz           |             85.14 |       16 |             96.73 | Rob Herring         |             59 |
-|             55 | Ignacio Calles         |             42.29 |       17 |             93.69 | Cian Healy          |             83 |
-|             63 | Francisco Gomez Kodela |             91.5  |       18 |             89.17 | Thomas Clarkson     |             83 |
-|             69 | Franco Molina          |             64.8  |       19 |             91.18 | Ryan Baird          |             83 |
-|             26 | Franco Molina          |             64.8  |       19 |             91.18 | Ryan Baird          |             83 |
-|             34 | Franco Molina          |             64.8  |       19 |             91.18 | Ryan Baird          |             83 |
-|             67 | Franco Molina          |             64.8  |       19 |             91.18 | Ryan Baird          |             83 |
-|             81 | Santiago Grondona      |             95.42 |       20 |             98.22 | Peter O'Mahony      |             83 |
-|             31 | Gonzalo Garcia         |              3.98 |       21 |              9.8  | Craig Casey         |             83 |
-|             79 | Gonzalo Garcia         |              3.98 |       21 |              9.8  | Craig Casey         |             83 |
-|             81 | Gonzalo Garcia         |              3.98 |       21 |              9.8  | Craig Casey         |             83 |
-|             24 | Santiago Carreras      |             72.1  |       22 |             15.95 | Sam Prendergast     |             25 |
-|             31 | Justo Piccardo         |             90.75 |       23 |             96.65 | Jamie Osborne       |             24 |
+|             80 | Thomas Gallo           |             95.32 |        1 |             80.19 | Andrew Porter       |             18 |
+|             20 | Julian Montoya         |             89.35 |        2 |             85.21 | Ronan Kelleher      |             80 |
+|             58 | Joel Sclavi            |             90.85 |        3 |             72.19 | Finlay Bealham      |             80 |
+|             80 | Guido Petti            |             96.37 |        4 |             55.97 | Joe McCarthy        |             80 |
+|             22 | Pedro Rubiolo          |             30.33 |        5 |             96.64 | James Ryan          |             62 |
+|             80 | Pablo Matera           |             99.39 |        6 |             97.82 | Tadhg Beirne        |             66 |
+|             18 | Juan Martin Gonzalez   |             96.42 |        7 |             98.52 | Josh van der Flier  |             23 |
+|             22 | Joaquin Oviedo         |            100    |        8 |             91.99 | Caelan Doris        |             34 |
+|             14 | Gonzalo Bertranou      |             83.49 |        9 |             95.83 | Jamison Gibson-Park |             18 |
+|             33 | Tomas Albornoz         |             89.61 |       10 |              7.06 | Jack Crowley        |             29 |
+|             57 | Bautista Delguy        |             91.57 |       11 |             99.27 | James Lowe          |             80 |
+|             63 | Matias Moroni          |             99.63 |       12 |             87.95 | Robbie Henshaw      |             19 |
+|             67 | Lucio Cinti            |             67.56 |       13 |             98.61 | Garry Ringrose      |              7 |
+|             59 | Rodrigo Isgro          |             86.14 |       14 |             73.1  | Mack Hansen         |              0 |
+|             46 | Juan Cruz Mallia       |            100    |       15 |             99.81 | Hugo Keenan         |             65 |
+|             80 | Ignacio Ruiz           |             92.16 |       16 |             95.27 | Rob Herring         |             49 |
+|             62 | Ignacio Calles         |             40.85 |       17 |             91.07 | Cian Healy          |             12 |
+|             80 | Francisco Gomez Kodela |             88.62 |       18 |             83.07 | Thomas Clarkson     |             48 |
+|             51 | Franco Molina          |             69.05 |       19 |             87.53 | Ryan Baird          |             29 |
+|             51 | Santiago Grondona      |             97.03 |       20 |             97.55 | Peter O'Mahony      |              9 |
+|             51 | Gonzalo Garcia         |             99.69 |       21 |             13.58 | Craig Casey         |             80 |
+|             58 | Santiago Carreras      |             79.84 |       22 |             21.37 | Sam Prendergast     |             48 |
+|             50 | Justo Piccardo         |            nan    |       23 |             95.74 | Jamie Osborne       |             69 |
 
