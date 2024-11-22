@@ -9,9 +9,9 @@ categories: "Pro D2 2024" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.586, which translates to predicting Dax to win by 3.1.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.587, which translates to predicting Dax to win by 3.1.
 
-Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 22 to 25
+Our Over/Under is 44.5 - and combined with the spread above, we have a predicted scoreline of 21 to 24
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Dax by 1.2 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             80 | Luka Goginava        |             37.75 |        1 |             53.96 | Dino Casadeï          |             79 |
-|             39 | Samuel Lagrange      |             43.79 |        2 |             50.89 | Iban Hiriart-Urruty   |             26 |
-|             18 | Anthony Alves        |              7.71 |        3 |             47.62 | Nephi Leatigaga       |             19 |
-|             29 | Romain Durand        |             47.39 |        4 |             68.17 | Brice Ferrer          |              0 |
-|             18 | Myles Edwards        |             48.72 |        5 |             52.96 | Jean-Baptiste Singer  |             19 |
-|             29 | Aurélien Lafforgue   |             46.64 |        6 |             57.12 | Jean-Baptiste Barrère |             80 |
-|             18 | Raphaël Robic        |             47.86 |        7 |             54.5  | Paul Arnaud Ausset    |             52 |
-|             14 | Ioane Iashagashvili  |             40.22 |        8 |             49.16 | Sam Wasley            |             80 |
-|             10 | Nicolas Darquier     |             45.99 |        9 |             48.3  | Sylvère Réteau        |             12 |
-|             51 | Willie Du Plessis    |             44.31 |       10 |             46.08 | Romuald Séguy         |             12 |
-|             15 | Pierre Sayerse       |             54.54 |       11 |             55.96 | Jope Naseara (2)      |             80 |
-|              0 | Nacani Wakaya        |             42.96 |       12 |             33.09 | Noah Nene             |             73 |
-|             54 | Semi Lagivala (2)    |             38.65 |       13 |             47.73 | Bastien Daguerre      |             53 |
-|             80 | Alexandre de Nardi   |             24.23 |       14 |             55.96 | Théo Gatelier         |             80 |
-|             80 | Théo Cortes          |             38.95 |       15 |             52.71 | Maxime Oltmann        |             80 |
-|             80 | Florian Dufour       |            nan    |       16 |            nan    | Louis Barrère         |             80 |
-|             32 | Thomas Bultel        |            nan    |       17 |            nan    | Louis Mary            |             22 |
-|             17 | Aston Fortuin        |            nan    |       18 |            nan    | Etienne Loiret        |             76 |
-|             22 | Waël Ponpon          |            nan    |       19 |            nan    | Genesis Mamea Lemalu  |             80 |
-|              5 | Christophe Loustalot |            nan    |       20 |            nan    | Paul Ravier           |             80 |
-|             14 | Patricio Fernandez   |            nan    |       21 |              4.91 | Jale Vatubua          |             62 |
-|             20 | Yann Bréthous        |            nan    |       22 |            nan    | Théo Duprat           |             80 |
-|              0 | Gheorghe Gajion      |             68.23 |       23 |             72.62 | David Lolohea         |             80 |
+|             80 | Luka Goginava        |             35.33 |        1 |             56.34 | Dino Casadeï          |             80 |
+|             10 | Samuel Lagrange      |             43.15 |        2 |             54.83 | Iban Hiriart-Urruty   |             66 |
+|             80 | Anthony Alves        |              2.85 |        3 |             50.79 | Nephi Leatigaga       |             32 |
+|             29 | Romain Durand        |             44.7  |        4 |             68.72 | Brice Ferrer          |             21 |
+|             18 | Myles Edwards        |             46.78 |        5 |             52.4  | Jean-Baptiste Singer  |             21 |
+|             29 | Aurélien Lafforgue   |             44.04 |        6 |             51.75 | Jean-Baptiste Barrère |             26 |
+|             18 | Raphaël Robic        |             45.38 |        7 |             50.76 | Paul Arnaud Ausset    |             21 |
+|             18 | Ioane Iashagashvili  |             37.28 |        8 |             45.05 | Sam Wasley            |             38 |
+|             70 | Nicolas Darquier     |             37.38 |        9 |             54.75 | Sylvère Réteau        |             62 |
+|             14 | Willie Du Plessis    |             44.97 |       10 |             49.28 | Romuald Séguy         |             54 |
+|             41 | Pierre Sayerse       |             53.15 |       11 |             52.26 | Jope Naseara (2)      |             15 |
+|             26 | Nacani Wakaya        |             38.21 |       12 |             43.41 | Noah Nene             |             60 |
+|             73 | Semi Lagivala (2)    |             33.11 |       13 |             45.24 | Bastien Daguerre      |             40 |
+|             70 | Alexandre de Nardi   |             36.51 |       14 |             57.59 | Théo Gatelier         |             58 |
+|             10 | Théo Cortes          |             42.71 |       15 |             52.5  | Maxime Oltmann        |             80 |
+|             80 | Florian Dufour       |            nan    |       16 |            nan    | Louis Barrère         |             40 |
+|             66 | Thomas Bultel        |            nan    |       17 |            nan    | Louis Mary            |             80 |
+|             54 | Aston Fortuin        |            nan    |       18 |            nan    | Etienne Loiret        |             58 |
+|             80 | Waël Ponpon          |            nan    |       19 |            nan    | Genesis Mamea Lemalu  |             40 |
+|             80 | Christophe Loustalot |            nan    |       20 |            nan    | Paul Ravier           |             80 |
+|             80 | Patricio Fernandez   |            nan    |       21 |              0.77 | Jale Vatubua          |             80 |
+|             59 | Yann Bréthous        |            nan    |       22 |            nan    | Théo Duprat           |             80 |
+|             80 | Gheorghe Gajion      |             67.44 |       23 |             65.87 | David Lolohea         |             26 |
 

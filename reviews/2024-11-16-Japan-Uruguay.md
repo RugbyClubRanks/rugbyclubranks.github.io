@@ -11,7 +11,7 @@ categories: "International Test Match 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.78, which translates to predicting Japan to win by 11.7.
 
-Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 18 to 30
+Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 17 to 28
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Japan by 8.2
+## Prediction without Player Minutes: Japan by 8.6
 
 
-Japan by 4.5 on a neutral pitch
+Japan by 5.0 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Japan by 4.5 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player      |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:-----------------|---------------:|
-|             66 | Mateo Sanguinetti  |             11.38 |        1 |             42.07 | Takato Okabe     |             54 |
-|             66 | Guillermo Pujadas  |             87.13 |        2 |             86.98 | Mamoru Harada    |             66 |
-|             66 | Diego Arbelo       |             42.8  |        3 |             73.56 | Keijiro Tamefusa |             14 |
-|             66 | Ignacio Dotti Uria |             18.48 |        4 |              8.4  | Epineri Uluiviti |             18 |
-|             66 | Manuel Leindekar   |              6.01 |        5 |             93.55 | Warner Dearns    |             26 |
-|             66 | Santiago Civetta   |             45.76 |        6 |             17.21 | Amato Fakatava   |             80 |
-|             66 | Lucas Bianchi      |             36.16 |        7 |             88.3  | Kanji Shimokawa  |             80 |
-|             70 | Manuel Diana       |              8.75 |        8 |             64.06 | Kazuki Himeno    |             80 |
-|             55 | Santiago Alvarez   |             62.35 |        9 |             10.96 | Naoto Saito      |             52 |
-|             68 | Ícaro Amarillo     |             37.25 |       10 |             54.12 | Takuro Matsunaga |             80 |
-|             40 | Ignacio Facciolo   |             51.05 |       11 |             46.84 | Junta Hamano     |             80 |
-|             12 | Juan Manuel Alonso |             32.25 |       12 |              5.56 | Siosaia Fifita   |             80 |
-|             66 | Felipe Arcos Perez |             38.74 |       13 |             97.5  | Dylan Riley      |             80 |
-|             54 | Bautista Basso     |             21.31 |       14 |             74.23 | Jone Naikabula   |             40 |
-|             80 | Juan González      |             37.21 |       15 |             82.95 | Malo Tuitama     |             66 |
-|             80 | Joaquín Myszka     |            nan    |       16 |            nan    | Kenta Matsuoka   |             52 |
-|             80 | Mateo Perillo      |            nan    |       17 |            nan    | Yukio Morikawa   |              2 |
-|             80 | Ignacio Peculo     |             74.21 |       18 |            nan    | Opeti Helu       |              2 |
-|             32 | Felipe Aliaga      |             65.16 |       19 |             68.08 | Junior Waqa      |             34 |
-|             20 | Carlos Deus        |             45.81 |       20 |            nan    | Isaiah Mapusua   |             30 |
-|              5 | Joaquín Suárez     |            nan    |       21 |             54.78 | Shinobu Fujiwara |             30 |
-|             27 | Ignacio Alvarez    |             19.8  |       22 |             59.87 | Nik McCurran     |             54 |
-|             15 | Gaston Mieres      |            nan    |       23 |            nan    | Yusuke Kajimura  |             30 |
+|             69 | Mateo Sanguinetti  |              8.4  |        1 |             50.56 | Takato Okabe     |             54 |
+|             14 | Guillermo Pujadas  |             88.63 |        2 |             88.47 | Mamoru Harada    |             12 |
+|             28 | Diego Arbelo       |             33.91 |        3 |             81.7  | Keijiro Tamefusa |             14 |
+|             40 | Ignacio Dotti Uria |             24.12 |        4 |              6.53 | Epineri Uluiviti |             18 |
+|             40 | Manuel Leindekar   |              3.72 |        5 |             91.66 | Warner Dearns    |             26 |
+|              2 | Santiago Civetta   |             54.8  |        6 |             14.44 | Amato Fakatava   |              2 |
+|             28 | Lucas Bianchi      |             50.67 |        7 |             83.86 | Kanji Shimokawa  |             63 |
+|             26 | Manuel Diana       |              5.05 |        8 |             57.28 | Kazuki Himeno    |              0 |
+|             34 | Santiago Alvarez   |             64.59 |        9 |              9.67 | Naoto Saito      |             11 |
+|             66 | Ícaro Amarillo     |             35.73 |       10 |             48.25 | Takuro Matsunaga |             55 |
+|             68 | Ignacio Facciolo   |             51.37 |       11 |             51.62 | Junta Hamano     |             70 |
+|             62 | Juan Manuel Alonso |             28.97 |       12 |              1.44 | Siosaia Fifita   |             70 |
+|             54 | Felipe Arcos Perez |             51.78 |       13 |             97.02 | Dylan Riley      |             80 |
+|             80 | Bautista Basso     |             25.77 |       14 |             73.1  | Jone Naikabula   |             64 |
+|             46 | Juan González      |             39.72 |       15 |             80.04 | Malo Tuitama     |             80 |
+|             80 | Joaquín Myszka     |            nan    |       16 |            nan    | Kenta Matsuoka   |             61 |
+|             80 | Mateo Perillo      |            nan    |       17 |            nan    | Yukio Morikawa   |             80 |
+|             78 | Ignacio Peculo     |             71.64 |       18 |            nan    | Opeti Helu       |             66 |
+|             80 | Felipe Aliaga      |             67.91 |       19 |             53.22 | Junior Waqa      |             80 |
+|             78 | Carlos Deus        |             54.56 |       20 |            nan    | Isaiah Mapusua   |             80 |
+|             73 | Joaquín Suárez     |            nan    |       21 |             52.13 | Shinobu Fujiwara |             80 |
+|             80 | Ignacio Alvarez    |             19.3  |       22 |             47.64 | Nik McCurran     |             80 |
+|             80 | Gaston Mieres      |            nan    |       23 |            nan    | Yusuke Kajimura  |             80 |
 

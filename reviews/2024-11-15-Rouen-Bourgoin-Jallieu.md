@@ -9,9 +9,9 @@ categories: "Nationale 2024" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.755, which translates to predicting Rouen to win by 10.0.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.762, which translates to predicting Rouen to win by 10.3.
 
-Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 19 to 29
+Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 21 to 31
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Rouen by 4.2
+## Prediction without Player Minutes: Rouen by 4.4
 
 
-Rouen by 0.1 on a neutral pitch
+Rouen by 0.3 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,35 +69,28 @@ Rouen by 0.1 on a neutral pitch
 
 |   Away Minutes | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             80 | Rémi Gaborit      |             27.02 |        1 |             60.59 | Ewan Clément          |             60 |
-|             56 | Julien Ratajczak  |             35.5  |        2 |             46.75 | Mathieu Bonnot        |              0 |
-|             80 | Julien Ratajczak  |             35.5  |        2 |             46.75 | Mathieu Bonnot        |              0 |
-|             16 | Keynan Knox       |             41.14 |        3 |             65.49 | Soso Bekoshvili       |             80 |
-|             19 | Keynan Knox       |             41.14 |        3 |             65.49 | Soso Bekoshvili       |             80 |
-|              6 | Robin Gascou      |             48.89 |        4 |             64.28 | Will Witty            |             55 |
-|              1 | Morgan Eames      |             50.57 |        5 |             67.29 | Jc Astle              |             71 |
-|             16 | Kévin Chaudouard  |             45.24 |        6 |             66.59 | Manolo Laffond        |             80 |
-|             23 | Merlin Bully      |             43.49 |        7 |             66.59 | Tienie Burger         |             80 |
-|             30 | Sam Daly          |             35.01 |        8 |             57.36 | Abdelkarim Fofana     |             65 |
-|             19 | Liam Rimet        |             29.32 |        9 |             91.2  | Florent Campeggia     |             21 |
-|             19 | Liam Rimet        |             29.32 |        9 |             91.2  | Florent Campeggia     |             70 |
-|             19 | Liam Rimet        |             29.32 |        9 |             91.2  | Florent Campeggia     |             40 |
-|             80 | Tom Danovaro      |             29.61 |       10 |             49.61 | Maxime Javaux         |             24 |
-|             74 | Rémy Bouet        |             34.12 |       11 |             56.24 | Benito Masilevu       |             33 |
-|             61 | Aviata Silago     |             31.6  |       12 |             49.95 | Nicolas Nieto         |             29 |
-|             80 | Christopher Bosch |             29.1  |       13 |             59.59 | Ope Peleseuma         |             80 |
-|             57 | Paul Champ        |             37.28 |       14 |             59.89 | Sakiusa Bureitakiyaca |             55 |
-|             80 | Nicolas Cachet    |             29.46 |       15 |             54.46 | Joaquin Riera         |             40 |
-|             51 | Maxime Castant    |            nan    |       16 |             21.15 | German Kessler        |             70 |
-|             55 | Maxime Castant    |            nan    |       16 |             21.15 | German Kessler        |             70 |
-|             40 | Lucas Dycke       |            nan    |       17 |            nan    | Alexis Decaux         |             69 |
-|             80 | Poutasi Luafutu   |            nan    |       18 |            nan    | Ernest Eudier         |             61 |
-|             80 | Théophile Cotte   |            nan    |       19 |            nan    | Willy N'Diaye         |             50 |
-|             10 | Martin Doan       |            nan    |       20 |            nan    | Ilan El Khattabi      |             57 |
-|             10 | Martin Doan       |            nan    |       20 |            nan    | Ilan El Khattabi      |             50 |
-|             80 | Adrian Fugit      |            nan    |       21 |            nan    | Benjamin Péhau        |             62 |
-|             40 | Hugo Desgrange    |            nan    |       22 |            nan    | Benjamin Descamps     |             10 |
-|             35 | Oktay Yilmaz      |            nan    |       23 |            nan    | Khvicha Tsopurashvili |             80 |
-|             47 | Oktay Yilmaz      |            nan    |       23 |            nan    | Khvicha Tsopurashvili |             80 |
-|            nan | nan               |            nan    |       24 |             33.62 |                       |             51 |
+|             25 | Rémi Gaborit      |             38.93 |        1 |             63.02 | Ewan Clément          |             71 |
+|             25 | Julien Ratajczak  |             38.01 |        2 |             63.86 | Mathieu Bonnot        |             74 |
+|             28 | Keynan Knox       |             38.11 |        3 |             63.54 | Soso Bekoshvili       |             73 |
+|             54 | Robin Gascou      |             36.9  |        4 |             66.68 | Will Witty            |             80 |
+|             59 | Morgan Eames      |             35.81 |        5 |             66.68 | Jc Astle              |             80 |
+|             63 | Kévin Chaudouard  |             33.81 |        6 |             60.27 | Manolo Laffond        |             60 |
+|             80 | Merlin Bully      |             30.49 |        7 |             53.27 | Tienie Burger         |             20 |
+|             80 | Sam Daly          |             24.47 |        8 |             59.42 | Abdelkarim Fofana     |             80 |
+|             48 | Liam Rimet        |             23.11 |        9 |             59.02 | Florent Campeggia     |             55 |
+|             80 | Tom Danovaro      |             27.31 |       10 |             58.11 | Maxime Javaux         |             71 |
+|             76 | Rémy Bouet        |             36.03 |       11 |             65.91 | Benito Masilevu       |             80 |
+|             53 | Aviata Silago     |             30.32 |       12 |             58.42 | Nicolas Nieto         |             80 |
+|             48 | Christopher Bosch |             31.18 |       13 |             50.91 | Ope Peleseuma         |             40 |
+|             80 | Paul Champ        |             35.22 |       14 |             60.99 | Sakiusa Bureitakiyaca |             50 |
+|             55 | Nicolas Cachet    |             31.34 |       15 |             52.3  | Joaquin Riera         |             40 |
+|             80 | Maxime Castant    |            nan    |       16 |             29.91 | German Kessler        |             80 |
+|             55 | Lucas Dycke       |            nan    |       17 |            nan    | Alexis Decaux         |             80 |
+|              0 | Poutasi Luafutu   |            nan    |       18 |            nan    | Ernest Eudier         |             10 |
+|             80 | Théophile Cotte   |            nan    |       19 |            nan    | Willy N'Diaye         |             80 |
+|             70 | Martin Doan       |            nan    |       20 |            nan    | Ilan El Khattabi      |             40 |
+|             67 | Adrian Fugit      |            nan    |       21 |            nan    | Benjamin Péhau        |             70 |
+|             80 | Hugo Desgrange    |            nan    |       22 |            nan    | Benjamin Descamps     |             56 |
+|             80 | Oktay Yilmaz      |            nan    |       23 |            nan    | Khvicha Tsopurashvili |             80 |
+|            nan | nan               |            nan    |       24 |             48.35 |                       |             80 |
 

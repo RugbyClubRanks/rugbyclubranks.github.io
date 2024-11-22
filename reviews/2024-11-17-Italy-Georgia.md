@@ -11,7 +11,7 @@ categories: "International Test Match 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.792, which translates to predicting Italy to win by 12.2.
 
-Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 20 to 32
+Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 18 to 30
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Italy by 26.0
+## Prediction without Player Minutes: Italy by 15.7
 
 
-Italy by 20.7 on a neutral pitch
+Italy by 10.4 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -67,30 +67,30 @@ Italy by 20.7 on a neutral pitch
 </p>
 
 
-|   Away Minutes | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
-|---------------:|:------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             80 | Nika Abuladze     |             88.76 |        1 |             40.71 | Danilo Fischetti   |             48 |
-|            nan | nan               |            nan    |        2 |             93.79 | Giacomo Nicotera   |             53 |
-|            nan | nan               |            nan    |        3 |             92.51 | Simone Ferrari     |             11 |
-|            nan | nan               |            nan    |        4 |             46.51 | Niccolo Cannone    |             80 |
-|            nan | nan               |            nan    |        5 |             69.76 | Dino Lamb          |             80 |
-|            nan | nan               |            nan    |        6 |             80.61 | Sebastian Negri    |             80 |
-|            nan | nan               |            nan    |        7 |             94.06 | Michele Lamaro     |              0 |
-|            nan | nan               |            nan    |        8 |             55.12 | Ross Vintcent      |             24 |
-|            nan | nan               |            nan    |        9 |             66.51 | Alessandro Garbisi |             29 |
-|            nan | nan               |            nan    |       10 |             75.1  | Paolo Garbisi      |             24 |
-|            nan | nan               |            nan    |       11 |             96.35 | Monty Ioane        |             11 |
-|            nan | nan               |            nan    |       12 |             87.21 | Tommaso Menoncello |             27 |
-|            nan | nan               |            nan    |       13 |             90.18 | Juan Ignacio Brex  |             56 |
-|             23 | Aka Tabutsadze    |             87.36 |       14 |             27.39 | Jacopo Trulla      |              0 |
-|             69 | Davit Niniashvili |             54.84 |       15 |             96.32 | Matt Gallagher     |              8 |
-|             80 | Luka Nioradze     |            nan    |       16 |             75.59 | Gianmarco Lucchesi |              3 |
-|             51 | Giorgi Akhaladze  |             17.44 |       17 |             68.16 | Mirco Spagnolo     |             53 |
-|             80 | Luka Japaridze    |             81.48 |       18 |             52.95 | Pietro Ceccarelli  |             60 |
-|             56 | Lado Chachanidze  |             25.2  |       19 |             23.7  | Riccardo Favretto  |             80 |
-|             80 | Luka Ivanishvili  |             71.53 |       20 |             80.87 | Manuel Zuliani     |             80 |
-|             69 | Gela Aprasidze    |             41.67 |       21 |             30.86 | Alessandro Fusco   |              2 |
-|             80 | Tedo Abzhandadze  |             51.37 |       22 |             72.75 | Leonardo Marin     |             80 |
-|            nan | nan               |            nan    |       23 |             79.43 | Giulio Bertaccini  |             80 |
-|            nan | nan               |            nan    |       24 |             33.62 |                    |             53 |
+|   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
+|---------------:|:---------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
+|             80 | Nika Abuladze        |             88.97 |        1 |             49.59 | Danilo Fischetti   |              0 |
+|             13 | Vano Karkadze        |             50.62 |        2 |             95.17 | Giacomo Nicotera   |             80 |
+|             80 | Irakli Aptsiauri     |             64.29 |        3 |             91.15 | Simone Ferrari     |             80 |
+|             80 | Mikheil Babunashvili |             84.95 |        4 |             68.81 | Niccolo Cannone    |             80 |
+|             80 | Giorgi Javakhia      |             86.31 |        5 |             67.27 | Dino Lamb          |              0 |
+|             37 | Ilia Spanderashvili  |             12.47 |        6 |             84.93 | Sebastian Negri    |             24 |
+|             37 | Giorgi Tsutskiridze  |             84.3  |        7 |             94.8  | Michele Lamaro     |             29 |
+|             23 | Tornike Jalagonia    |              8.35 |        8 |             21.94 | Ross Vintcent      |             24 |
+|             12 | Vasil Lobzhanidze    |             13.28 |        9 |             46.07 | Alessandro Garbisi |              5 |
+|             20 | Luka Matkava         |             81.72 |       10 |             79.26 | Paolo Garbisi      |             80 |
+|             80 | Sandro Todua         |             92.57 |       11 |             95.56 | Monty Ioane        |             11 |
+|              6 | Tornike Kakhoidze    |             36.96 |       12 |             87.87 | Tommaso Menoncello |              3 |
+|              8 | Giorgi Kveseladze    |             91.92 |       13 |             92.69 | Juan Ignacio Brex  |              0 |
+|              0 | Aka Tabutsadze       |             87.32 |       14 |             18.58 | Jacopo Trulla      |             30 |
+|             66 | Davit Niniashvili    |             67.66 |       15 |             94.81 | Matt Gallagher     |             53 |
+|             80 | Luka Nioradze        |            nan    |       16 |             74.77 | Gianmarco Lucchesi |             53 |
+|             51 | Giorgi Akhaladze     |             16.88 |       17 |             40.59 | Mirco Spagnolo     |             53 |
+|             80 | Luka Japaridze       |             79.82 |       18 |             37.51 | Pietro Ceccarelli  |             60 |
+|             56 | Lado Chachanidze     |             22.85 |       19 |             31.01 | Riccardo Favretto  |             80 |
+|             69 | Luka Ivanishvili     |             69.42 |       20 |             68.43 | Manuel Zuliani     |             80 |
+|              2 | Gela Aprasidze       |             29.84 |       21 |             10.16 | Alessandro Fusco   |             56 |
+|             80 | Tedo Abzhandadze     |             44.76 |       22 |             72.69 | Leonardo Marin     |             53 |
+|             30 | Demur Tapladze       |             81.52 |       23 |             69.87 | Giulio Bertaccini  |             74 |
+|            nan | nan                  |            nan    |       24 |             48.35 |                    |             43 |
 

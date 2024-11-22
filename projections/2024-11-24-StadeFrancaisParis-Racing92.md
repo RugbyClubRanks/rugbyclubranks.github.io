@@ -9,7 +9,7 @@ categories: "Top 14 Orange 2024" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.531, which translates to predicting Stade Francais Paris to win by 2.2.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.531, which translates to predicting Stade Francais Paris to win by 1.9.
 
 Our Over/Under is 63.5 - and combined with the spread above, we have a predicted scoreline of 31 to 33
 
@@ -39,8 +39,8 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Imputed Lineups: Stade Francais Paris by 8.5
+## Prediction with Imputed Lineups: Stade Francais Paris by 5.9
 
 
-Racing 92 by 6.9 on a neutral pitch
+Racing 92 by 9.4 on a neutral pitch
 

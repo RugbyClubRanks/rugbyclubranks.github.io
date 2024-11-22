@@ -11,7 +11,7 @@ categories: "International Test Match 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.926, which translates to predicting Scotland to win by 23.2.
 
-Our Over/Under is 68.5 - and combined with the spread above, we have a predicted scoreline of 23 to 46
+Our Over/Under is 56.5 - and combined with the spread above, we have a predicted scoreline of 17 to 40
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Scotland by 18.3
+## Prediction without Player Minutes: Scotland by 16.6
 
 
-Scotland by 12.2 on a neutral pitch
+Scotland by 10.5 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,28 +69,28 @@ Scotland by 12.2 on a neutral pitch
 
 |   Away Minutes | Away Player            |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:-----------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|           31.5 | David Costa            |             34.08 |        1 |             96.47 | Jamie Bhatti        |             80 |
-|           80   | Luka Begic             |             33.88 |        2 |             21.6  | Patrick Harrison    |             15 |
-|           51   | Diogo Hasse Ferreira   |              9.65 |        3 |             78.03 | Will Hurd           |             31 |
-|           26   | Jose Madeira           |             94.43 |        4 |             60.12 | Alex Craig          |             30 |
-|           40   | Duarte Torgal          |             91.51 |        5 |             80.46 | Alex Samuel         |             30 |
-|           32   | André Cunha            |             36.68 |        6 |             95.11 | Luke Crosbie        |             15 |
-|            2   | Nicolas Martins        |             90.83 |        7 |             69.43 | Ben Muncaster       |             22 |
-|           35   | Frederico Couto        |             38.92 |        8 |             61.27 | Josh Bayliss        |             48 |
-|           34   | Samuel Marques         |             82.56 |        9 |            100    | George Horne        |             80 |
-|           63   | Domingos Cabral        |             58.63 |       10 |             98.43 | Adam Hastings       |             80 |
-|           48   | Lucas Martins          |             39.06 |       11 |             57.62 | Arron Reed          |             80 |
-|           58   | Tomas Appleton         |             72.94 |       12 |             91.01 | Stafford McDowall   |             26 |
-|           80   | Jose Lima              |             74.24 |       13 |             80.17 | Rory Hutchinson     |             21 |
-|           75   | Raffaele Storti        |             87.12 |       14 |             45.62 | Darcy Graham        |             21 |
-|           80   | Simao Bento            |              7.17 |       15 |             66.28 | Tom Jordan          |             26 |
-|           80   | Abel Da Cunha          |             37.54 |       16 |             69.53 | Johnny Matthews     |             21 |
-|           55   | Pedro Vicente          |            nan    |       17 |             76.08 | Rory Sutherland     |             38 |
-|           26   | António Prim           |            nan    |       18 |             93.16 | Elliot Millar Mills |             26 |
-|           22   | Antonio Rebelo Andrade |            nan    |       19 |             51.19 | Ewan Johnson        |             62 |
-|           80   | Vasco Baptista         |             33.33 |       20 |            nan    | Freddy Douglas      |             41 |
-|           28   | António Campos         |            nan    |       21 |             91.65 | Jamie Dobie         |             70 |
-|           79   | Hugo Aubry             |             32.75 |       22 |             84.15 | Matt Currie         |             18 |
-|            4   | Manuel Cardoso Pinto   |             29.42 |       23 |             90.7  | Kyle Rowe           |             32 |
-|          nan   | nan                    |            nan    |       24 |             33.62 |                     |             45 |
+|             65 | David Costa            |             23.33 |        1 |             97.07 | Jamie Bhatti        |             78 |
+|             49 | Luka Begic             |              5.76 |        2 |             14.95 | Patrick Harrison    |             78 |
+|             28 | Diogo Hasse Ferreira   |              7.65 |        3 |             73.22 | Will Hurd           |             58 |
+|             80 | Jose Madeira           |             93.2  |        4 |             58.57 | Alex Craig          |             80 |
+|             80 | Duarte Torgal          |             91.21 |        5 |             81.23 | Alex Samuel         |             12 |
+|             15 | André Cunha            |             37.58 |        6 |             94.62 | Luke Crosbie        |             12 |
+|             80 | Nicolas Martins        |             87.35 |        7 |             53.09 | Ben Muncaster       |             61 |
+|             61 | Frederico Couto        |             34.17 |        8 |             56.5  | Josh Bayliss        |             52 |
+|             61 | Samuel Marques         |             78.85 |        9 |            100    | George Horne        |             80 |
+|             21 | Domingos Cabral        |             58.73 |       10 |             98.56 | Adam Hastings       |             52 |
+|             26 | Lucas Martins          |             42.33 |       11 |             10.66 | Arron Reed          |             80 |
+|             40 | Tomas Appleton         |             71.41 |       12 |             92.78 | Stafford McDowall   |             80 |
+|             27 | Jose Lima              |             73.72 |       13 |             84.31 | Rory Hutchinson     |             12 |
+|             22 | Raffaele Storti        |             88.45 |       14 |             49.35 | Darcy Graham        |             58 |
+|             27 | Simao Bento            |              4.59 |       15 |             73.45 | Tom Jordan          |             80 |
+|             73 | Abel Da Cunha          |             39.98 |       16 |             76.79 | Johnny Matthews     |             80 |
+|             26 | Pedro Vicente          |            nan    |       17 |             81.1  | Rory Sutherland     |             65 |
+|             54 | António Prim           |            nan    |       18 |             93.17 | Elliot Millar Mills |             58 |
+|             48 | Antonio Rebelo Andrade |             53.4  |       19 |             40.8  | Ewan Johnson        |             80 |
+|             30 | Vasco Baptista         |             33.2  |       20 |            nan    | Freddy Douglas      |             80 |
+|             14 | António Campos         |            nan    |       21 |             94.43 | Jamie Dobie         |             23 |
+|             20 | Hugo Aubry             |             31.83 |       22 |             82    | Matt Currie         |             67 |
+|             10 | Manuel Cardoso Pinto   |             31.5  |       23 |             89.22 | Kyle Rowe           |             63 |
+|            nan | nan                    |            nan    |       24 |             48.35 |                     |             50 |
 

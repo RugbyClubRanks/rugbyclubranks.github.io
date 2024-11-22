@@ -46,13 +46,13 @@ Last Round Error: 10.04 points per match
 
 [In depth model review and projections for Nationale 2024](comp_files/Nationale_2024)
 
-Competition Accuracy: 62 of 78 (79.49%)
+Competition Accuracy: 60 of 78 (76.92%)
 
-Competition Error: 10.03 points per match
+Competition Error: 10.06 points per match
 
 Last Round Accuracy: 6 of 7 (85.71%)
 
-Last Round Error: 7.7 points per match
+Last Round Error: 7.71 points per match
 
 [2024-11-15 Bourgoin-Jallieu at Rouen; 0-46](reviews//2024-11-15-Rouen-Bourgoin-Jallieu)
 
@@ -74,11 +74,11 @@ Last Round Error: 7.7 points per match
 
 Competition Accuracy: 54 of 88 (61.36%)
 
-Competition Error: 10.23 points per match
+Competition Error: 10.21 points per match
 
 Last Round Accuracy: 5 of 8 (62.5%)
 
-Last Round Error: 17.03 points per match
+Last Round Error: 16.97 points per match
 
 [2024-11-14 Montauban at Agen; 25-18](reviews//2024-11-14-Agen-Montauban)
 

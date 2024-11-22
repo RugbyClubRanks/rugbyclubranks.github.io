@@ -2,14 +2,14 @@
 layout: page  
 title: Sale Sharks at Newcastle Falcons  
 date: 2024-11-22 18:00:00 -0500  
-categories: "premiershuprugbycup 2024" match projection imputed  
+categories: "Premiership Rugby Cup 2024" match projection  
 ---
 # Sale Sharks at Newcastle Falcons
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.288, which translates to predicting Sale Sharks to win by 8.7.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.213, which translates to predicting Sale Sharks to win by 8.6.
 
 Our Over/Under is 83.5 - and combined with the spread above, we have a predicted scoreline of 46 to 38
 
@@ -39,8 +39,57 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Imputed Lineups: Newcastle Falcons by 2.8
+## Prediction without Player Minutes: Newcastle Falcons by 16.3
 
 
-Sale Sharks by 11.0 on a neutral pitch
+Newcastle Falcons by 2.6 on a neutral pitch
+
+
+## Projected Performances - Player Model
+
+
+<p float="left">
+<img src="plots/performances_plr_2024-11-22-NewcastleFalcons-SaleSharks.png" width="99%" />
+</p>
+
+## Projected Spreads - Player Model
+
+
+<p float="left">
+<img src="plots/spreads_plr_2024-11-22-NewcastleFalcons-SaleSharks.png" width="99%" />
+</p>
+
+## Projected Results - Player Model
+
+
+<p float="left">
+<img src="plots/resultbar_plr_2024-11-22-NewcastleFalcons-SaleSharks.png" width="99%" />
+</p>
+
+
+| Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player         |
+|:------------------|------------------:|---------:|------------------:|:--------------------|
+| Bevan Rodd        |             91.97 |        1 |             68.34 | Murray McCallum     |
+| Tadgh McElroy     |             42.99 |        2 |              2.02 | Jamie Blamire       |
+| Nic Schonert      |              4.35 |        3 |             68.57 | Richard Palframan   |
+| Ernst van Rhyn    |             67.26 |        4 |              4.62 | Sebastian de Chaves |
+| Ben Bamber        |              5.08 |        5 |            nan    | Adam Scott          |
+| Jean-Luc du Preez |            100    |        6 |             13    | Philip van der Walt |
+| Sam Dugdale       |              8.25 |        7 |             99.19 | Tom Gordon          |
+| Daniel du Preez   |             79.03 |        8 |             83.23 | Callum Chick        |
+| Raffi Quirke      |             75.57 |        9 |              0.49 | Sam Stuart          |
+| Tom Curtis        |            nan    |       10 |              2.26 | Brett Connon        |
+| Alex Wills        |             36.91 |       11 |             67.61 | Alex Hearle         |
+| Sam Bedlow        |              0.38 |       12 |             71.9  | Cameron Hutchison   |
+| Luke James        |             51.3  |       13 |             48.22 | Sammy Arnold        |
+| Obi Ene           |            nan    |       14 |             58.97 | Ben Stevenson       |
+| Will Addison      |             72.46 |       15 |             83.23 | Ethan Grayson       |
+| Harry Thompson    |            nan    |       16 |            nan    | Ollie Fletcher      |
+| Tumy Onasanya     |              4.65 |       17 |            nan    | Mike Rewcastle      |
+| James Harper      |              8.63 |       18 |            nan    | Callum Hancock      |
+| Tom Burrow        |            nan    |       19 |            nan    | Finn Baker          |
+| Rouban Birch      |              4.08 |       20 |             59.22 | Freddie Lockwood    |
+| Nye Thomas        |            nan    |       21 |            nan    | Max Pepper          |
+| Joe Bedlow        |            nan    |       22 |            nan    | Oli Spencer         |
+| Tristan Woodman   |            nan    |       23 |            nan    | Nathan Greenwood    |
 

@@ -9,9 +9,9 @@ categories: "Pro D2 2024" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.481, which translates to predicting Brive to win by 0.7.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.469, which translates to predicting Brive to win by 1.1.
 
-Our Over/Under is 42.5 - and combined with the spread above, we have a predicted scoreline of 22 to 21
+Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 22 to 21
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Nice by 2.4
+## Prediction without Player Minutes: Nice by 2.3
 
 
-Brive by 1.0 on a neutral pitch
+Brive by 1.1 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Brive by 1.0 on a neutral pitch
 
 |   Away Minutes | Away Player               |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:--------------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             45 | Vakh Abdaladze            |             54.39 |        1 |             14.63 | Facundo Gigena     |             80 |
-|             80 | Issam Hamel               |             61.98 |        2 |             35.95 | Sione Anga'Aelangi |             80 |
-|             80 | Marcel Van Der Merwe      |             60.01 |        3 |             12.32 | Tom Ross           |             80 |
-|             80 | Asier Usarraga Latierro   |             61.45 |        4 |             41.91 | Clément Chartier   |             48 |
-|             19 | Konstantin Mikautadze     |              5.92 |        5 |             39.88 | Tom Murday         |             63 |
-|             80 | Matthieu Voisin           |             61.83 |        6 |             44.98 | Arthur Vignolles   |             26 |
-|             80 | Courtney Lawes            |             97.12 |        7 |             46.55 | Bastien Berenguel  |             17 |
-|             80 | Taniela Sadrugu           |             55.49 |        8 |             90.69 | Jordan Taufua      |             34 |
-|             29 | Hugo Verdu                |             51.7  |        9 |             43.98 | Jules Solinas      |             17 |
-|             59 | Stuart Olding             |             54.31 |       10 |             36.27 | Tanguy Ménoret     |             51 |
-|             59 | Erwan Dridi               |             57.46 |       11 |             41.65 | Simon Delas        |             51 |
-|             59 | Sam Johnson               |             52.64 |       12 |             37.35 | Tom Daly           |             51 |
-|             80 | Benjamin Lefranc          |             55.51 |       13 |             32.62 | Nathan Courtade    |             80 |
-|             42 | Asaeli Tuivuaka           |             55.51 |       14 |             46.43 | David Odiete       |             12 |
-|             52 | Mathis Ferté              |             61.24 |       15 |             36.82 | Paul Auradou       |             61 |
-|             72 | Benjamin Boudou           |            nan    |       16 |             57.69 | Sacha Idoumi       |             80 |
-|             67 | Nathan Fraissenon         |            nan    |       17 |            nan    | Jules Martinez     |             78 |
-|             80 | Julien Delannoy           |            nan    |       18 |            nan    | Louis Suaud        |             45 |
-|             59 | Retief Marais             |            nan    |       19 |            nan    | Martin Freytes     |             55 |
-|             80 | Rahboni Warren-Vosayaco   |            nan    |       20 |            nan    | Ramiha Smiler      |             80 |
-|             80 | Léo Carbonneau            |             51.85 |       21 |            nan    | Thibault Dufau     |             45 |
-|             20 | Curwin Bosch              |             82.35 |       22 |            nan    | Alban Conduché     |             80 |
-|             28 | Francisco Coria Marchetti |            nan    |       23 |            nan    | Nicolás Ciancio    |             48 |
+|             80 | Vakh Abdaladze            |             59.08 |        1 |             11.25 | Facundo Gigena     |             19 |
+|             80 | Issam Hamel               |             59.97 |        2 |             41.9  | Sione Anga'Aelangi |             17 |
+|             80 | Marcel Van Der Merwe      |             59.08 |        3 |             14.55 | Tom Ross           |             12 |
+|             80 | Asier Usarraga Latierro   |             57.75 |        4 |             43.25 | Clément Chartier   |             30 |
+|             71 | Konstantin Mikautadze     |              5.44 |        5 |             43.61 | Tom Murday         |             29 |
+|             80 | Matthieu Voisin           |             58.57 |        6 |             43.77 | Arthur Vignolles   |             26 |
+|             80 | Courtney Lawes            |             97.13 |        7 |             44.93 | Bastien Berenguel  |             17 |
+|              0 | Taniela Sadrugu           |             40.29 |        8 |             91.46 | Jordan Taufua      |             34 |
+|             29 | Hugo Verdu                |             52.62 |        9 |             43.28 | Jules Solinas      |             17 |
+|             59 | Stuart Olding             |             51.33 |       10 |             35.11 | Tanguy Ménoret     |             51 |
+|             59 | Erwan Dridi               |             58.8  |       11 |             44.18 | Simon Delas        |             51 |
+|             59 | Sam Johnson               |             50.43 |       12 |             18.86 | Tom Daly           |             51 |
+|             80 | Benjamin Lefranc          |             53.61 |       13 |             32.15 | Nathan Courtade    |             73 |
+|             42 | Asaeli Tuivuaka           |             56.62 |       14 |             48.63 | David Odiete       |             14 |
+|             52 | Mathis Ferté              |             58.48 |       15 |             32.73 | Paul Auradou       |             80 |
+|             72 | Benjamin Boudou           |            nan    |       16 |             56.07 | Sacha Idoumi       |             80 |
+|             67 | Nathan Fraissenon         |            nan    |       17 |            nan    | Jules Martinez     |             28 |
+|             60 | Julien Delannoy           |            nan    |       18 |            nan    | Louis Suaud        |             28 |
+|             59 | Retief Marais             |            nan    |       19 |            nan    | Martin Freytes     |             21 |
+|             80 | Rahboni Warren-Vosayaco   |            nan    |       20 |            nan    | Ramiha Smiler      |              0 |
+|             62 | Léo Carbonneau            |             53.11 |       21 |            nan    | Thibault Dufau     |             61 |
+|             80 | Curwin Bosch              |             77.82 |       22 |            nan    | Alban Conduché     |             61 |
+|             80 | Francisco Coria Marchetti |            nan    |       23 |            nan    | Nicolás Ciancio    |             52 |
 

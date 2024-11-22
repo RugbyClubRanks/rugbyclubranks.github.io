@@ -11,7 +11,7 @@ categories: "Pro D2 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.663, which translates to predicting Agen to win by 5.9.
 
-Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 21 to 27
+Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 20 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Agen by 12.2
+## Prediction without Player Minutes: Agen by 12.4
 
 
-Montauban by 2.0 on a neutral pitch
+Montauban by 1.8 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Montauban by 2.0 on a neutral pitch
 
 |   Away Minutes | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             41 | Lucas Seyrolle    |             59.29 |        1 |             35.16 | Hans Lombard-Buret  |             32 |
-|             51 | Jérémie Maurouard |             64.2  |        2 |             80.33 | Santiago Socino     |             80 |
-|             26 | Luka Azariashvili |             55.12 |        3 |             38.33 | Lasha Macharashvili |             39 |
-|             26 | Frank Bradshaw    |             59.81 |        4 |             37.67 | Vincent Farré       |             39 |
-|             26 | Victor Moreaux    |             59.81 |        5 |             41.38 | William Demotte     |             25 |
-|             54 | Noa Kanika        |             64.37 |        6 |             40.17 | Julien Lebian       |             26 |
-|             80 | Fred Quercy       |             70.57 |        7 |             40.44 | Valentin Gayraud    |             25 |
-|             54 | Corentin Coularis |             58.1  |        8 |              6.7  | Fotu Lokotui        |             80 |
-|             65 | Joe Powell        |             68.67 |        9 |             73.46 | Jack Maunder        |             80 |
-|             26 | Jérôme Bosviel    |             51.18 |       10 |             32.16 | Billy Searle        |             41 |
-|             39 | Josua Vici        |             59    |       11 |             42.14 | Iban Etcheverry     |             23 |
-|             80 | Simon Renda       |             63.67 |       12 |             34.29 | Clément Garrigues   |             30 |
-|             70 | Jt Jackson        |             61.63 |       13 |             35.87 | Kolinio Ramoka      |             23 |
-|             80 | Stephane Ahmed    |             95.87 |       14 |             34.68 | Loris Tolot         |             51 |
-|             63 | Baptiste Mouchous |             61.63 |       15 |             28.68 | Romain Darchen      |             60 |
-|             71 | Ru-Hann Greyling  |            nan    |       16 |            nan    | Pierre Jouvin       |             51 |
-|             55 | Malino Vanaï      |            nan    |       17 |            nan    | Mamuka Mstoiani     |             80 |
-|              9 | Lewis Bean        |            nan    |       18 |            nan    | Evan Olmstead       |             60 |
-|             69 | Kyllian Ringuet   |            nan    |       19 |            nan    | Matthieu Bonnet     |             57 |
-|             55 | Sikhumbuzo Notshe |             79.74 |       20 |            nan    | Dorian Bellot       |             48 |
-|             25 | Hugo Zabalza      |            nan    |       21 |            nan    | Franck Pourteau     |             80 |
-|             11 | Romain Fonnicola  |            nan    |       22 |            nan    | Peyo Muscarditz     |             70 |
-|             60 | Tietie Tuimauga   |             45.68 |       23 |            nan    | Beau Farrance       |             60 |
+|              9 | Lucas Seyrolle    |             49.14 |        1 |             21.31 | Hans Lombard-Buret  |             80 |
+|             80 | Jérémie Maurouard |             69.47 |        2 |             88.32 | Santiago Socino     |             35 |
+|             54 | Luka Azariashvili |             62.87 |        3 |             33.31 | Lasha Macharashvili |             70 |
+|             26 | Frank Bradshaw    |             58.02 |        4 |             39.89 | Vincent Farré       |             26 |
+|             80 | Victor Moreaux    |             70.08 |        5 |             40.16 | William Demotte     |             25 |
+|             48 | Noa Kanika        |             60.81 |        6 |             35.56 | Julien Lebian       |             39 |
+|             55 | Fred Quercy       |             62.96 |        7 |             35.56 | Valentin Gayraud    |             39 |
+|             26 | Corentin Coularis |             48.74 |        8 |              2.33 | Fotu Lokotui        |             39 |
+|             26 | Joe Powell        |             62.13 |        9 |             78.2  | Jack Maunder        |             41 |
+|             32 | Jérôme Bosviel    |             52.16 |       10 |             24.64 | Billy Searle        |             69 |
+|             54 | Josua Vici        |             64.78 |       11 |             35.46 | Iban Etcheverry     |             55 |
+|             25 | Simon Renda       |             48.51 |       12 |             21.75 | Clément Garrigues   |             80 |
+|             80 | Jt Jackson        |             62.37 |       13 |             28.87 | Kolinio Ramoka      |             45 |
+|             71 | Stephane Ahmed    |             96.37 |       14 |             30.21 | Loris Tolot         |             80 |
+|             63 | Baptiste Mouchous |             60.28 |       15 |             29.74 | Romain Darchen      |             48 |
+|             80 | Ru-Hann Greyling  |            nan    |       16 |            nan    | Pierre Jouvin       |             78 |
+|             70 | Malino Vanaï      |            nan    |       17 |            nan    | Mamuka Mstoiani     |             80 |
+|             65 | Lewis Bean        |            nan    |       18 |            nan    | Evan Olmstead       |             80 |
+|             41 | Kyllian Ringuet   |            nan    |       19 |            nan    | Matthieu Bonnet     |             80 |
+|             51 | Sikhumbuzo Notshe |             78.48 |       20 |            nan    | Dorian Bellot       |             45 |
+|             80 | Hugo Zabalza      |            nan    |       21 |            nan    | Franck Pourteau     |             48 |
+|             32 | Romain Fonnicola  |            nan    |       22 |            nan    | Peyo Muscarditz     |             80 |
+|             25 | Tietie Tuimauga   |             55.59 |       23 |            nan    | Beau Farrance       |             11 |
 

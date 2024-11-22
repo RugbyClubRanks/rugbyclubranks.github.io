@@ -11,7 +11,7 @@ categories: "International Test Match 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.532, which translates to predicting France to win by 1.1.
 
-Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 26 to 28
+Our Over/Under is 61.5 - and combined with the spread above, we have a predicted scoreline of 30 to 31
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: New Zealand by 0.9
+## Prediction without Player Minutes: France by 1.0
 
 
-New Zealand by 7.1 on a neutral pitch
+New Zealand by 5.2 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ New Zealand by 7.1 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             43 | Tamaiti Williams    |             95.53 |        1 |             97.05 | Jean-Baptiste Gros    |             58 |
-|             80 | Codie Taylor        |             96.75 |        2 |             92.75 | Peato Mauvaka         |             80 |
-|             61 | Tyrel Lomax         |             93.8  |        3 |             23.49 | Tevita Tatafu         |             80 |
-|             57 | Scott Barrett       |             96.73 |        4 |             96.91 | Thibaud Flament       |             65 |
-|             22 | Tupou Vaa'i         |             99.82 |        5 |             90.54 | Emmanuel Meafou       |             58 |
-|             51 | Samipeni Finau      |             98.78 |        6 |             15.02 | Paul Boudehent        |             80 |
-|             80 | Ardie Savea         |             99.65 |        7 |             98.69 | Alexandre Roumat      |             65 |
-|             80 | Wallace Sititi      |             92.74 |        8 |             99.63 | Gregory Alldritt      |             80 |
-|             80 | Cam Roigard         |             63.89 |        9 |             99.07 | Antoine Dupont        |             59 |
-|             54 | Beauden Barrett     |            100    |       10 |             97.25 | Thomas Ramos          |             54 |
-|             61 | Caleb Clarke        |             86.55 |       11 |             87.44 | Louis Bielle-Biarrey  |             70 |
-|             40 | Jordie Barrett      |             89.25 |       12 |             84.06 | Yoram Moefana         |             28 |
-|             44 | Rieko Ioane         |             91.2  |       13 |             97.13 | Gael Fickou           |             61 |
-|             28 | Sevu Reece          |             87.84 |       14 |             88.57 | Gabin Villiere        |             21 |
-|             80 | Will Jordan         |             97.87 |       15 |             98.06 | Romain Buros          |             80 |
-|             61 | Asafo Aumua         |             95.71 |       16 |             96.6  | Julien Marchand       |             13 |
-|             61 | Ofa Tu'ungafasi     |             97.41 |       17 |             91.79 | Reda Wardi            |             54 |
-|             12 | Pasilio Tosi        |             42.72 |       18 |             10.16 | Georges-Henri Colombe |             66 |
-|             80 | Patrick Tuipulotu   |             11.14 |       19 |             42.18 | Romain Taofifenua     |             80 |
-|              1 | Peter Lakai         |             97.02 |       20 |             80.28 | Mickael Guillard      |             10 |
-|             80 | Cortez Ratima       |             91.67 |       21 |             99.3  | Charles Ollivon       |             70 |
-|             80 | Anton Lienert-Brown |             97.03 |       22 |             84.26 | Nolann Le Garrec      |             80 |
-|             80 | Damian McKenzie     |             98.82 |       23 |             66.91 | Emilien Gailleton     |             52 |
+|             28 | Tamaiti Williams    |             92.65 |        1 |             97.15 | Jean-Baptiste Gros    |             48 |
+|             26 | Codie Taylor        |             96.57 |        2 |             90.03 | Peato Mauvaka         |             80 |
+|             19 | Tyrel Lomax         |             94    |        3 |             13.13 | Tevita Tatafu         |             69 |
+|             51 | Scott Barrett       |             96.1  |        4 |             91.84 | Thibaud Flament       |             48 |
+|             80 | Tupou Vaa'i         |             97.91 |        5 |             85.58 | Emmanuel Meafou       |             48 |
+|             28 | Samipeni Finau      |             98.57 |        6 |              7.35 | Paul Boudehent        |             58 |
+|             80 | Ardie Savea         |             99.55 |        7 |             97.94 | Alexandre Roumat      |             75 |
+|             80 | Wallace Sititi      |             94.56 |        8 |             97.09 | Gregory Alldritt      |             70 |
+|             23 | Cam Roigard         |             72.46 |        9 |             99.67 | Antoine Dupont        |             80 |
+|              0 | Beauden Barrett     |             99.59 |       10 |             96.1  | Thomas Ramos          |             66 |
+|             80 | Caleb Clarke        |             94.51 |       11 |             75.44 | Louis Bielle-Biarrey  |             63 |
+|             25 | Jordie Barrett      |             90.57 |       12 |             85.76 | Yoram Moefana         |             80 |
+|              1 | Rieko Ioane         |             86.91 |       13 |             96.34 | Gael Fickou           |             80 |
+|             80 | Sevu Reece          |             90.06 |       14 |             86.11 | Gabin Villiere        |             80 |
+|             26 | Will Jordan         |             99.4  |       15 |             97.8  | Romain Buros          |             74 |
+|             26 | Asafo Aumua         |             94.55 |       16 |             95.64 | Julien Marchand       |             60 |
+|             19 | Ofa Tu'ungafasi     |             98.2  |       17 |             87.92 | Reda Wardi            |             60 |
+|             27 | Pasilio Tosi        |             42.84 |       18 |              7.28 | Georges-Henri Colombe |             80 |
+|             32 | Patrick Tuipulotu   |             97.55 |       19 |             44.51 | Romain Taofifenua     |             22 |
+|             80 | Peter Lakai         |             95.15 |       20 |             74.43 | Mickael Guillard      |             30 |
+|             54 | Cortez Ratima       |             76.56 |       21 |             99.46 | Charles Ollivon       |             79 |
+|             80 | Anton Lienert-Brown |             95.57 |       22 |             82.79 | Nolann Le Garrec      |             31 |
+|             26 | Damian McKenzie     |             97.33 |       23 |             65.06 | Emilien Gailleton     |             44 |
 
