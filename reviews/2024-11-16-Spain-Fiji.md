@@ -11,7 +11,7 @@ categories: "International Test Match 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.236, which translates to predicting Fiji to win by 10.6.
 
-Our Over/Under is 55.5 - and combined with the spread above, we have a predicted scoreline of 33 to 22
+Our Over/Under is 67.5 - and combined with the spread above, we have a predicted scoreline of 39 to 29
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,28 +69,28 @@ Fiji by 13.5 on a neutral pitch
 
 |   Away Minutes | Away Player                    |   Away Percentile |   Number |   Home Percentile | Home Player                |   Home Minutes |
 |---------------:|:-------------------------------|------------------:|---------:|------------------:|:---------------------------|---------------:|
-|             55 | Eroni Mawi                     |             95.72 |        1 |              3.38 | Titi Futeu Youtcheu        |           80   |
-|             10 | Sam Matavesi                   |             87.54 |        2 |             68.54 | Álvaro Garcia              |           22   |
-|             25 | Luke Tagi                      |             79.89 |        3 |             16.2  | Lucas Santamaria Polkowska |           19   |
-|             10 | Mesake Vocevoce                |             84.32 |        4 |             78.51 | Ignacio Pineiro Molla      |           10   |
-|              0 | Ratu Rotuisolia                |             61.47 |        5 |             63.64 | Imanol Urraza              |           15   |
-|              0 | Vilive Miramira                |             74.35 |        6 |             48.97 | Vicente Boronat            |           27   |
-|             32 | Saimoni Uluinakauvadra         |             49.51 |        7 |             56.14 | Alex Saleta                |           75   |
-|             20 | Albert Tuisue                  |             98.83 |        8 |             51.84 | Ekain Imaz Agirre          |            6   |
-|              5 | Simione Kuruvoli               |             53.77 |        9 |             27.21 | Estanislao Bay             |           23   |
-|             61 | Caleb Muntz                    |             86.65 |       10 |              1.23 | Gonzalo Lopez Bontempo     |           80   |
-|             58 | Ponipate Loganimasi            |             66.07 |       11 |             88.69 | Martiniano Cian            |           19   |
-|             70 | Waisea Nayacalevu Vuidravuwalu |             82.29 |       12 |             32.05 | Alejandro Alonso           |           68   |
-|             80 | Sireli Maqala                  |             56.98 |       13 |             13.86 | Inaki Mateu Spuches        |           80   |
-|             65 | Jiuta Wainiqolo                |             95.48 |       14 |             51.53 | Gauthier Minguillon        |           80   |
-|             53 | Isaiah Armstrong-Ravula        |             13.57 |       15 |             26.95 | John Wessel Bell           |           80   |
-|             80 | Mesu Dolokoto                  |             44.55 |       16 |             90.19 | Santiago Ovejero Abdala    |           35   |
-|             80 | Haereiti Hetet                 |             96.47 |       17 |             77.64 | Bernardo Vazquez           |           48   |
-|             80 | Jone Koroiduadua               |             75.09 |       18 |            nan    | Jacobo Ruiz                |           39   |
+|             55 | Eroni Mawi                     |             95.72 |        1 |              4.13 | Titi Futeu Youtcheu        |           80   |
+|             10 | Sam Matavesi                   |             84.29 |        2 |             70.61 | Álvaro Garcia              |           22   |
+|             25 | Luke Tagi                      |             79.82 |        3 |             13.2  | Lucas Santamaria Polkowska |           19   |
+|             10 | Mesake Vocevoce                |             83.86 |        4 |             79.15 | Ignacio Pineiro Molla      |           10   |
+|              0 | Ratu Rotuisolia                |             61.02 |        5 |             64.46 | Imanol Urraza              |           15   |
+|              0 | Vilive Miramira                |             68.97 |        6 |             49.96 | Vicente Boronat            |           27   |
+|             32 | Saimoni Uluinakauvadra         |             47.53 |        7 |             57.13 | Alex Saleta                |           75   |
+|             20 | Albert Tuisue                  |             98.84 |        8 |             56.98 | Ekain Imaz Agirre          |            6   |
+|              5 | Simione Kuruvoli               |             33.72 |        9 |             21.93 | Estanislao Bay             |           23   |
+|             61 | Caleb Muntz                    |             87.68 |       10 |              1.03 | Gonzalo Lopez Bontempo     |           80   |
+|             58 | Ponipate Loganimasi            |             65.81 |       11 |             89.35 | Martiniano Cian            |           19   |
+|             70 | Waisea Nayacalevu Vuidravuwalu |             85.48 |       12 |             32.98 | Alejandro Alonso           |           68   |
+|             80 | Sireli Maqala                  |             63.65 |       13 |             16.54 | Inaki Mateu Spuches        |           80   |
+|             65 | Jiuta Wainiqolo                |             95.16 |       14 |             54.03 | Gauthier Minguillon        |           80   |
+|             53 | Isaiah Armstrong-Ravula        |             13.15 |       15 |             20.92 | John Wessel Bell           |           80   |
+|             80 | Mesu Dolokoto                  |             45.1  |       16 |             88.49 | Santiago Ovejero Abdala    |           35   |
+|             80 | Haereiti Hetet                 |             96.4  |       17 |             78.24 | Bernardo Vazquez           |           48   |
+|             80 | Jone Koroiduadua               |             71.49 |       18 |            nan    | Jacobo Ruiz                |           39   |
 |             37 | Setareki Turagacoke            |            nan    |       19 |            nan    | Pablo Guirao               |           31.5 |
-|             80 | Elia Canakaivata               |             74.56 |       20 |             40    | Raphael Nieto              |           20   |
-|             80 | Peni Matawalu                  |             71.48 |       21 |            nan    | Ike Irusta                 |           48   |
-|             17 | Vilimoni Botitu                |             31.67 |       22 |             23    | Gonzalo Vinuesa            |           60   |
-|             80 | Inia Tabuavou                  |             76.61 |       23 |             60.88 | Alberto Carmona            |           80   |
-|            nan | nan                            |            nan    |       24 |             48.35 |                            |           80   |
+|             80 | Elia Canakaivata               |             74.22 |       20 |             21.12 | Raphael Nieto              |           20   |
+|             80 | Peni Matawalu                  |             71.69 |       21 |            nan    | Ike Irusta                 |           48   |
+|             17 | Vilimoni Botitu                |             32.69 |       22 |             14.78 | Gonzalo Vinuesa            |           60   |
+|             80 | Inia Tabuavou                  |             76.54 |       23 |             60.56 | Alberto Carmona            |           80   |
+|            nan | nan                            |            nan    |       24 |             46.71 |                            |           80   |
 

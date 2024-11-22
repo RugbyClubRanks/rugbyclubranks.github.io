@@ -9,9 +9,9 @@ categories: "Autumn Nations Series 2024" match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.083, which translates to predicting South Africa to win by 16.7.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.083, which translates to predicting South Africa to win by 17.8.
 
-Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 35 to 18
+Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 35 to 17
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ South Africa by 29.2 on a neutral pitch
 
 | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player      |
 |:-------------------|------------------:|---------:|------------------:|:-----------------|
-| Thomas du Toit     |             96.62 |        1 |             30.23 | Gareth Thomas    |
-| Johan Grobbelaar   |             91.74 |        2 |             16.98 | Dewi Lake        |
-| Wilco Louw         |             98.35 |        3 |             41.71 | Archie Griffin   |
-| Jean Kleyn         |             95.83 |        4 |             24.21 | Will Rowlands    |
-| Franco Mostert     |             94.92 |        5 |             71.44 | Christ Tshiunza  |
-| Siya Kolisi        |             91.3  |        6 |             57.58 | James Botham     |
-| Elrigh Louw        |             97.4  |        7 |             84.04 | Jac Morgan       |
-| Jasper Wiese       |             87.38 |        8 |             85.2  | Taine Plumtree   |
-| Jaden Hendrikse    |             94.43 |        9 |             35.41 | Ellis Bevan      |
-| Jordan Hendrikse   |             84.8  |       10 |             71.25 | Sam Costelow     |
-| Kurt-Lee Arendse   |             99.27 |       11 |             29.73 | Rio Dyer         |
-| Damian de Allende  |             97.5  |       12 |             41.29 | Ben Thomas       |
-| Jesse Kriel        |             96.82 |       13 |             71.8  | Max Llewellyn    |
-| Cheslin Kolbe      |             99.76 |       14 |             50.32 | Tom Rogers       |
-| Aphelele Fassi     |             96.21 |       15 |             26.98 | Blair Murray     |
-| Malcolm Marx       |             97.51 |       16 |             93.61 | Ryan Elias       |
-| Gerhard Steenekamp |             92.72 |       17 |             82.45 | Nicky Smith      |
-| Vincent Koch       |             79.59 |       18 |              1.88 | Keiron Assiratti |
-| Eben Etzebeth      |             99.82 |       19 |             27.38 | Freddie Thomas   |
-| nan                |            nan    |       20 |             73.81 | Tommy Reffell    |
-| nan                |            nan    |       21 |             88.69 | Rhodri Williams  |
-| nan                |            nan    |       22 |             45.81 | Eddie James      |
-| nan                |            nan    |       23 |             79.64 | Josh Hathaway    |
+| Thomas du Toit     |             96.77 |        1 |             26.56 | Gareth Thomas    |
+| Johan Grobbelaar   |             91.45 |        2 |             16.02 | Dewi Lake        |
+| Wilco Louw         |             98.42 |        3 |             42.31 | Archie Griffin   |
+| Jean Kleyn         |             96.01 |        4 |             22.48 | Will Rowlands    |
+| Franco Mostert     |             94.56 |        5 |             62.92 | Christ Tshiunza  |
+| Siya Kolisi        |             91.66 |        6 |             57.76 | James Botham     |
+| Elrigh Louw        |             97.4  |        7 |             83.14 | Jac Morgan       |
+| Jasper Wiese       |             87.02 |        8 |             84.93 | Taine Plumtree   |
+| Jaden Hendrikse    |             94.27 |        9 |             36.17 | Ellis Bevan      |
+| Jordan Hendrikse   |             84.6  |       10 |             73.31 | Sam Costelow     |
+| Kurt-Lee Arendse   |             99.27 |       11 |             32.42 | Rio Dyer         |
+| Damian de Allende  |             97.5  |       12 |             42.02 | Ben Thomas       |
+| Jesse Kriel        |             96.83 |       13 |             74.62 | Max Llewellyn    |
+| Cheslin Kolbe      |             99.84 |       14 |             45.73 | Tom Rogers       |
+| Aphelele Fassi     |             96.22 |       15 |             35.08 | Blair Murray     |
+| Malcolm Marx       |             97.51 |       16 |             93.78 | Ryan Elias       |
+| Gerhard Steenekamp |             92.72 |       17 |             84.4  | Nicky Smith      |
+| Vincent Koch       |             80.72 |       18 |              1.88 | Keiron Assiratti |
+| Eben Etzebeth      |             99.91 |       19 |             26.38 | Freddie Thomas   |
+| nan                |            nan    |       20 |             73.54 | Tommy Reffell    |
+| nan                |            nan    |       21 |             88.54 | Rhodri Williams  |
+| nan                |            nan    |       22 |             45.77 | Eddie James      |
+| nan                |            nan    |       23 |             79.6  | Josh Hathaway    |
 

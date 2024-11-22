@@ -11,7 +11,7 @@ categories: "Nationale 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.566, which translates to predicting Tarbes to win by 2.5.
 
-Our Over/Under is 36.5 - and combined with the spread above, we have a predicted scoreline of 17 to 20
+Our Over/Under is 41.5 - and combined with the spread above, we have a predicted scoreline of 19 to 22
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,21 +69,21 @@ Marcq-en-Baroeul by 0.0 on a neutral pitch
 
 |   Away Minutes | Away Player                  |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:-----------------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             66 | Charles-Edouard Ekwah Elimby |             53.49 |        1 |             37.06 | Enzo Baggiani       |             75 |
-|             24 | Joseph Reynaud               |             48.75 |        2 |             41.74 | Vincent Dolier      |             24 |
-|             24 | Lewys Jones                  |             48.69 |        3 |             40.14 | Luka Véa            |             45 |
-|             24 | Antoine Delaporte            |             52.31 |        4 |             48.96 | Léo Saint-Guilhem   |              0 |
-|             16 | Maselino Paulino             |             51.04 |        5 |             46.6  | Mathieu Soufflet    |             21 |
-|             14 | Joachim Beaumont             |             49.15 |        6 |             42.42 | Jules Bousquet      |             50 |
-|             24 | Arthur Bruges                |             50.58 |        7 |             41.61 | Alexis Armary       |             56 |
-|             11 | Otilo Kafotamaki             |             41.75 |        8 |             31.07 | Filipe Manu         |             80 |
-|             61 | Geoffrey Cazanave            |             54.1  |        9 |             37.21 | Matias Brocal       |             80 |
+|             66 | Charles-Edouard Ekwah Elimby |             52.96 |        1 |             37.06 | Enzo Baggiani       |             75 |
+|             24 | Joseph Reynaud               |             48.37 |        2 |             41.99 | Vincent Dolier      |             24 |
+|             24 | Lewys Jones                  |             48.24 |        3 |             40.06 | Luka Véa            |             45 |
+|             24 | Antoine Delaporte            |             52.13 |        4 |             48.69 | Léo Saint-Guilhem   |              0 |
+|             16 | Maselino Paulino             |             50.68 |        5 |             46.33 | Mathieu Soufflet    |             21 |
+|             14 | Joachim Beaumont             |             48.79 |        6 |             41.88 | Jules Bousquet      |             50 |
+|             24 | Arthur Bruges                |             50.4  |        7 |             41.08 | Alexis Armary       |             56 |
+|             11 | Otilo Kafotamaki             |             41.67 |        8 |             31.2  | Filipe Manu         |             80 |
+|             61 | Geoffrey Cazanave            |             53.85 |        9 |             37.64 | Matias Brocal       |             80 |
 |             36 | Paul Decavel                 |             46.61 |       10 |             33.26 | Alexandre Perez     |             80 |
-|             35 | Dany Antunès                 |             53.8  |       11 |             43.3  | Jonathan Duffau     |             80 |
-|             80 | Louis Decavel                |             49.28 |       12 |             33.25 | Maile Mamao         |             80 |
-|             60 | Mark Erasmus                 |             47.16 |       13 |             33.25 | Johan Paulet        |             80 |
-|             80 | Hugues Crespo                |             58.16 |       14 |             47.42 | Jone Tuva           |             29 |
-|             48 | Serafin Bordoli              |             48.1  |       15 |             41.52 | Amona Artaud        |             29 |
+|             35 | Dany Antunès                 |             54.27 |       11 |             43.47 | Jonathan Duffau     |             80 |
+|             80 | Louis Decavel                |             49.71 |       12 |             33.41 | Maile Mamao         |             80 |
+|             60 | Mark Erasmus                 |             47.02 |       13 |             33.41 | Johan Paulet        |             80 |
+|             80 | Hugues Crespo                |             58.23 |       14 |             47.74 | Jone Tuva           |             29 |
+|             48 | Serafin Bordoli              |             48.01 |       15 |             41.24 | Amona Artaud        |             29 |
 |             57 | Matéo Saint-Germain          |            nan    |       16 |            nan    | Florian Lamothe     |             80 |
 |             60 | Éli Serra                    |            nan    |       17 |            nan    | Lasha Mirtskhulava  |              7 |
 |             80 | Lucio Anconetani             |            nan    |       18 |            nan    | Baptiste Peytavi    |             62 |

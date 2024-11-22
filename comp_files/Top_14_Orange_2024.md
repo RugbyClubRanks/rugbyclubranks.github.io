@@ -39,20 +39,20 @@ aside:
 
 | Club                 |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Stade Toulousain     |                   1 |    0.9 |            13.9563   |                   0   |                0.4 |                  4.1 |
-| Bordeaux Begles      |                   1 |    0.9 |             8.37603  |                   0.1 |                0.4 |                  4   |
-| Toulon               |                   1 |    0.9 |             7.6294   |                   0.1 |                0.1 |                  3.6 |
-| Montpellier Herault  |                   1 |    0.8 |             5.18899  |                   0.1 |                0.1 |                  3.4 |
-| Lyon                 |                   1 |    0.7 |             2.97341  |                   0.2 |                0.1 |                  3   |
-| Stade Francais Paris |                   1 |    0.6 |             1.9077   |                   0.3 |                0.1 |                  2.7 |
-| La Rochelle          |                   1 |    0.5 |             0.772545 |                   0.3 |                0.1 |                  2.5 |
-| Castres Olympique    |                   1 |    0.5 |            -0.772545 |                   0.3 |                0   |                  2.2 |
-| Racing 92            |                   1 |    0.4 |            -1.9077   |                   0.3 |                0.2 |                  2.1 |
-| Clermont Auvergne    |                   1 |    0.3 |            -2.97341  |                   0.4 |                0.1 |                  1.7 |
-| Pau                  |                   1 |    0.2 |            -5.18899  |                   0.3 |                0.1 |                  1.2 |
-| Bayonne              |                   1 |    0.1 |            -7.6294   |                   0.2 |                0   |                  0.8 |
-| Vannes               |                   1 |    0.1 |            -8.37603  |                   0.3 |                0   |                  0.8 |
-| Perpignan            |                   1 |    0.1 |           -13.9563   |                   0.1 |                0   |                  0.4 |
+| Stade Toulousain     |                   1 |    0.9 |            14.9195   |                   0   |                0.5 |                  4.2 |
+| Bordeaux Begles      |                   1 |    0.9 |             8.69558  |                   0.1 |                0.4 |                  4   |
+| Toulon               |                   1 |    0.9 |             7.25921  |                   0.1 |                0.1 |                  3.6 |
+| Montpellier Herault  |                   1 |    0.8 |             4.45071  |                   0.1 |                0.1 |                  3.2 |
+| Lyon                 |                   1 |    0.7 |             3.02847  |                   0.2 |                0.1 |                  2.9 |
+| Stade Francais Paris |                   1 |    0.6 |             1.69166  |                   0.2 |                0.1 |                  2.8 |
+| La Rochelle          |                   1 |    0.5 |             0.108549 |                   0.3 |                0.1 |                  2.6 |
+| Castres Olympique    |                   1 |    0.5 |            -0.108549 |                   0.3 |                0   |                  2.1 |
+| Racing 92            |                   1 |    0.4 |            -1.69166  |                   0.3 |                0.2 |                  2.1 |
+| Clermont Auvergne    |                   1 |    0.3 |            -3.02847  |                   0.3 |                0.1 |                  1.8 |
+| Pau                  |                   1 |    0.2 |            -4.45071  |                   0.3 |                0.1 |                  1.4 |
+| Bayonne              |                   1 |    0.1 |            -7.25921  |                   0.2 |                0   |                  0.8 |
+| Vannes               |                   1 |    0.1 |            -8.69558  |                   0.2 |                0   |                  0.7 |
+| Perpignan            |                   1 |    0.1 |           -14.9195   |                   0.1 |                0   |                  0.4 |
 
 
 
@@ -61,20 +61,20 @@ aside:
 
 | Club                 |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Stade Toulousain     |              10 |    6.9 |           136.956    |                   3   |                3.4 |                 34.1 |
-| Bordeaux Begles      |              10 |    6.9 |           103.376    |                   2.1 |                3.4 |                 33   |
-| La Rochelle          |              10 |    6.5 |            23.7725   |                   0.3 |                3.1 |                 29.5 |
-| Bayonne              |              10 |    6.1 |            16.3706   |                   1.2 |                1   |                 26.8 |
-| Toulon               |              10 |    5.9 |            -0.370603 |                   2.1 |                1.1 |                 26.6 |
-| Castres Olympique    |              10 |    5.5 |            31.2275   |                   2.3 |                1   |                 25.2 |
-| Clermont Auvergne    |              10 |    5.3 |           -33.9734   |                   0.4 |                3.1 |                 24.7 |
-| Racing 92            |              10 |    5.4 |             8.0923   |                   2.3 |                0.2 |                 24.1 |
-| Lyon                 |              10 |    4.7 |           -13.0266   |                   1.2 |                1.1 |                 21   |
-| Perpignan            |              10 |    4.1 |           -57.9563   |                   1.1 |                2   |                 19.4 |
-| Montpellier Herault  |              10 |    3.8 |             2.18899  |                   3.1 |                0.1 |                 18.4 |
-| Stade Francais Paris |              10 |    3.6 |           -65.0923   |                   1.3 |                1.1 |                 16.7 |
-| Pau                  |              10 |    3.2 |           -50.189    |                   1.3 |                2.1 |                 16.2 |
-| Vannes               |              10 |    2.1 |          -101.376    |                   3.3 |                0   |                 11.8 |
+| Stade Toulousain     |              10 |    6.9 |           137.919    |                   3   |                3.5 |                 34.2 |
+| Bordeaux Begles      |              10 |    6.9 |           103.696    |                   2.1 |                3.4 |                 33   |
+| La Rochelle          |              10 |    6.5 |            23.1085   |                   0.3 |                3.1 |                 29.6 |
+| Bayonne              |              10 |    6.1 |            16.7408   |                   1.2 |                1   |                 26.8 |
+| Toulon               |              10 |    5.9 |            -0.740787 |                   2.1 |                1.1 |                 26.6 |
+| Castres Olympique    |              10 |    5.5 |            31.8915   |                   2.3 |                1   |                 25.1 |
+| Clermont Auvergne    |              10 |    5.3 |           -34.0285   |                   0.3 |                3.1 |                 24.8 |
+| Racing 92            |              10 |    5.4 |             8.30834  |                   2.3 |                0.2 |                 24.1 |
+| Lyon                 |              10 |    4.7 |           -12.9715   |                   1.2 |                1.1 |                 20.9 |
+| Perpignan            |              10 |    4.1 |           -58.9195   |                   1.1 |                2   |                 19.4 |
+| Montpellier Herault  |              10 |    3.8 |             1.45071  |                   3.1 |                0.1 |                 18.2 |
+| Stade Francais Paris |              10 |    3.6 |           -65.3083   |                   1.2 |                1.1 |                 16.8 |
+| Pau                  |              10 |    3.2 |           -49.4507   |                   1.3 |                2.1 |                 16.4 |
+| Vannes               |              10 |    2.1 |          -101.696    |                   3.2 |                0   |                 11.7 |
 
 
 
@@ -85,7 +85,7 @@ aside:
 | ------ | ------ | ------ |
 | Club Level | 79.4% | 10.9 |
 | Player Level: Lineup | 85.7% | 12.1 |
-| Player Level: Minutes | 77.8% | 60.7 |
+| Player Level: Minutes | 77.8% | 65.1 |
 
 
 # Future Predictions
@@ -95,7 +95,7 @@ aside:
 ### Toulon V Bayonne on 2024/11/23
 
 
-Average Margin: Toulon by 7.6
+Average Margin: Toulon by 7.3
 
 Average Scoreline: 27-20
 
@@ -108,9 +108,9 @@ Average Scoreline: 27-20
 ### Montpellier Herault V Pau on 2024/11/23
 
 
-Average Margin: Montpellier Herault by 5.2
+Average Margin: Montpellier Herault by 4.5
 
-Average Scoreline: 24-19
+Average Scoreline: 24-20
 
 <p float="left">
 <img src="plots/performances_2024-11-23-MontpellierHerault_V_Pau.png" width="32%" />
@@ -121,7 +121,7 @@ Average Scoreline: 24-19
 ### Vannes V Bordeaux Begles on 2024/11/23
 
 
-Average Margin: Bordeaux Begles by 8.4
+Average Margin: Bordeaux Begles by 8.7
 
 Average Scoreline: 37-28
 
@@ -134,7 +134,7 @@ Average Scoreline: 37-28
 ### Stade Toulousain V Perpignan on 2024/11/23
 
 
-Average Margin: Stade Toulousain by 14.0
+Average Margin: Stade Toulousain by 14.9
 
 Average Scoreline: 30-16
 
@@ -160,7 +160,7 @@ Average Scoreline: 30-27
 ### Castres Olympique V La Rochelle on 2024/11/23
 
 
-Average Margin: La Rochelle by 0.8
+Average Margin: La Rochelle by 0.1
 
 Average Scoreline: 27-27
 
@@ -173,7 +173,7 @@ Average Scoreline: 27-27
 ### Stade Francais Paris V Racing 92 on 2024/11/24
 
 
-Average Margin: Stade Francais Paris by 1.9
+Average Margin: Stade Francais Paris by 1.7
 
 Average Scoreline: 33-31
 

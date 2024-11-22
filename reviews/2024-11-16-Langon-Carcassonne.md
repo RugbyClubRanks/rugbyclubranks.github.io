@@ -9,9 +9,9 @@ categories: "Nationale 2024" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.381, which translates to predicting Carcassonne to win by 4.3.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.383, which translates to predicting Carcassonne to win by 4.2.
 
-Our Over/Under is 37.5 - and combined with the spread above, we have a predicted scoreline of 21 to 17
+Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 26 to 22
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,24 +69,24 @@ Langon by 0.7 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player              |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:-------------------------|---------------:|
-|             80 | Yan Arnold          |             38.56 |        1 |             54.84 | Tunaï Ratu Vatubua       |             80 |
-|             80 | Raphaël Carbou      |             37.23 |        2 |             50    | Maxime Gau               |             36 |
-|             40 | Siua Halanukonuka   |             42.01 |        3 |             48.01 | Loïc Clavé               |             20 |
-|             22 | Romain Guyot        |             47.19 |        4 |             52.67 | Thomas Geffré            |             30 |
-|             22 | Clément Fontaine    |             47.19 |        5 |             51.95 | Helmi Mimouna            |             22 |
-|              9 | Bilal Fadli         |             47    |        6 |             50.36 | Meryll Ech-Chalkha       |             24 |
-|             40 | Etienne Herjean     |             44.3  |        7 |             50.36 | Thomas Bishop            |             24 |
-|             44 | Thomas Hoarau       |             35.34 |        8 |             42.91 | Thomas Mendy             |             20 |
-|             60 | Kenjy Bayer         |             40.98 |        9 |             53.44 | Baptiste Tisné           |             54 |
-|             40 | Johnny Mcphillips   |             39.22 |       10 |             45.79 | Christel Bertrand        |             32 |
-|             22 | Paul Gadéa          |             49.03 |       11 |             50.89 | Quentin Lefort           |              9 |
-|             60 | Jordan Puletua      |             36.57 |       12 |             40.13 | Sionasa Vunisa           |              0 |
-|             80 | Mathys Barka        |             35.32 |       13 |             48.6  | Adriu Naivuwai           |             78 |
-|             50 | Naïm Ben Alla       |             46.2  |       14 |             78.76 | Thomas Wallraf           |             72 |
-|             73 | Nils Chaliès        |             38.32 |       15 |             50.1  | Nathan Gagnac            |             78 |
+|             80 | Yan Arnold          |             38.56 |        1 |             54.39 | Tunaï Ratu Vatubua       |             80 |
+|             80 | Raphaël Carbou      |             37.79 |        2 |             49.46 | Maxime Gau               |             36 |
+|             40 | Siua Halanukonuka   |             41.79 |        3 |             47.49 | Loïc Clavé               |             20 |
+|             22 | Romain Guyot        |             46.83 |        4 |             52.58 | Thomas Geffré            |             30 |
+|             22 | Clément Fontaine    |             46.83 |        5 |             51.68 | Helmi Mimouna            |             22 |
+|              9 | Bilal Fadli         |             46.55 |        6 |             50.18 | Meryll Ech-Chalkha       |             24 |
+|             40 | Etienne Herjean     |             43.95 |        7 |             50.18 | Thomas Bishop            |             24 |
+|             44 | Thomas Hoarau       |             36.05 |        8 |             43.22 | Thomas Mendy             |             20 |
+|             60 | Kenjy Bayer         |             41.24 |        9 |             52.86 | Baptiste Tisné           |             54 |
+|             40 | Johnny Mcphillips   |             39.84 |       10 |             45.59 | Christel Bertrand        |             32 |
+|             22 | Paul Gadéa          |             49.27 |       11 |             51.45 | Quentin Lefort           |              9 |
+|             60 | Jordan Puletua      |             36.44 |       12 |             40    | Sionasa Vunisa           |              0 |
+|             80 | Mathys Barka        |             35.38 |       13 |             48.27 | Adriu Naivuwai           |             78 |
+|             50 | Naïm Ben Alla       |             46.85 |       14 |             78.55 | Thomas Wallraf           |             72 |
+|             73 | Nils Chaliès        |             38.45 |       15 |             50.4  | Nathan Gagnac            |             78 |
 |             65 | Gabin Villerouge    |            nan    |       16 |            nan    | Lucas Hernandez          |             36 |
 |             58 | Nika Neparidze      |            nan    |       17 |            nan    | Julien Graffouillère     |             80 |
-|             56 | Marius Iftimiciuc   |             12.6  |       18 |             49.71 | Thomas De Molder         |             80 |
+|             56 | Marius Iftimiciuc   |             10.88 |       18 |             50.39 | Thomas De Molder         |             80 |
 |             63 | Ferdinand Dréno     |            nan    |       19 |            nan    | Simon Zubizarreta        |             66 |
 |             80 | Gabin Michet        |            nan    |       20 |            nan    | Paul Castéra             |             80 |
 |             73 | Clément Egiziano    |            nan    |       21 |            nan    | Vincent Debladis         |             75 |

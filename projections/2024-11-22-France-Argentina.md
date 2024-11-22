@@ -9,7 +9,7 @@ categories: "Autumn Nations Series 2024" match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.527, which translates to predicting France to win by 5.1.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.527, which translates to predicting France to win by 5.3.
 
 Our Over/Under is 57.5 - and combined with the spread above, we have a predicted scoreline of 26 to 31
 
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: France by 16.3
+## Prediction without Player Minutes: France by 16.4
 
 
-France by 10.1 on a neutral pitch
+France by 10.2 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ France by 10.1 on a neutral pitch
 
 | Away Player            |   Away Percentile |   Number |   Home Percentile | Home Player           |
 |:-----------------------|------------------:|---------:|------------------:|:----------------------|
-| Thomas Gallo           |             94.67 |        1 |             97.15 | Jean-Baptiste Gros    |
-| Julian Montoya         |             90.65 |        2 |             90.03 | Peato Mauvaka         |
-| Joel Sclavi            |             95.05 |        3 |             97.22 | Uini Atonio           |
-| Guido Petti            |             93.38 |        4 |             91.84 | Thibaud Flament       |
-| Pedro Rubiolo          |             54.76 |        5 |             85.58 | Emmanuel Meafou       |
-| Pablo Matera           |             99.37 |        6 |             95.07 | Francois Cros         |
-| Juan Martin Gonzalez   |             95.87 |        7 |              7.35 | Paul Boudehent        |
-| Joaquin Oviedo         |             92.04 |        8 |             99.46 | Charles Ollivon       |
-| Gonzalo Garcia         |             67.54 |        9 |             99.67 | Antoine Dupont        |
-| Tomas Albornoz         |             88.5  |       10 |             96.1  | Thomas Ramos          |
-| Bautista Delguy        |             93.3  |       11 |             75.44 | Louis Bielle-Biarrey  |
-| Matias Moroni          |             98.65 |       12 |             85.76 | Yoram Moefana         |
-| Lucio Cinti            |             75.55 |       13 |             96.34 | Gael Fickou           |
-| Rodrigo Isgro          |             92.65 |       14 |             86.11 | Gabin Villiere        |
-| Juan Cruz Mallia       |            100    |       15 |             71.86 | Leo Barre             |
-| Ignacio Ruiz           |             90.34 |       16 |             95.64 | Julien Marchand       |
-| Ignacio Calles         |             40.51 |       17 |             87.92 | Reda Wardi            |
-| Francisco Gomez Kodela |             82.22 |       18 |              7.28 | Georges-Henri Colombe |
-| Franco Molina          |              7.34 |       19 |             97.94 | Alexandre Roumat      |
-| Marcos Kremer          |             93    |       20 |             74.43 | Mickael Guillard      |
-| Lautaro Bazan Velez    |             63.93 |       21 |             69.69 | Marko Gazzotti        |
-| Santiago Carreras      |             78.24 |       22 |             82.79 | Nolann Le Garrec      |
-| Mateo Carreras         |             82.23 |       23 |             65.06 | Emilien Gailleton     |
+| Thomas Gallo           |             94.52 |        1 |             97.45 | Jean-Baptiste Gros    |
+| Julian Montoya         |             90.36 |        2 |             90.2  | Peato Mauvaka         |
+| Joel Sclavi            |             95.5  |        3 |             97.22 | Uini Atonio           |
+| Guido Petti            |             94.2  |        4 |             91.93 | Thibaud Flament       |
+| Pedro Rubiolo          |             53.67 |        5 |             86.13 | Emmanuel Meafou       |
+| Pablo Matera           |             99.28 |        6 |             95.25 | Francois Cros         |
+| Juan Martin Gonzalez   |             95.07 |        7 |              7.26 | Paul Boudehent        |
+| Joaquin Oviedo         |             92.25 |        8 |             99.37 | Charles Ollivon       |
+| Gonzalo Garcia         |             70.21 |        9 |             99.67 | Antoine Dupont        |
+| Tomas Albornoz         |             87.06 |       10 |             96.1  | Thomas Ramos          |
+| Bautista Delguy        |             92.98 |       11 |             76.13 | Louis Bielle-Biarrey  |
+| Matias Moroni          |             98.56 |       12 |             85.96 | Yoram Moefana         |
+| Lucio Cinti            |             74.42 |       13 |             96.73 | Gael Fickou           |
+| Rodrigo Isgro          |             92.18 |       14 |             84.92 | Gabin Villiere        |
+| Juan Cruz Mallia       |            100    |       15 |             71.91 | Leo Barre             |
+| Ignacio Ruiz           |             91.6  |       16 |             95.96 | Julien Marchand       |
+| Ignacio Calles         |             40.44 |       17 |             87.7  | Reda Wardi            |
+| Francisco Gomez Kodela |             82.07 |       18 |              7.28 | Georges-Henri Colombe |
+| Franco Molina          |              8.52 |       19 |             97.85 | Alexandre Roumat      |
+| Marcos Kremer          |             94.71 |       20 |             74.8  | Mickael Guillard      |
+| Lautaro Bazan Velez    |             63.5  |       21 |             69.6  | Marko Gazzotti        |
+| Santiago Carreras      |             77.49 |       22 |             82.65 | Nolann Le Garrec      |
+| Mateo Carreras         |             84.6  |       23 |             63.46 | Emilien Gailleton     |
 

@@ -11,7 +11,7 @@ categories: "Pro D2 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.518, which translates to predicting Biarritz Olympique to win by 0.7.
 
-Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 23 to 23
+Our Over/Under is 54.5 - and combined with the spread above, we have a predicted scoreline of 27 to 27
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,26 +69,26 @@ Biarritz Olympique by 2.6 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player             |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:------------------------|---------------:|
-|             39 | Thomas Vernet      |             43.36 |        1 |             51.24 | Giorgi Nutsubidze       |             78 |
-|             45 | Loick Jammes       |             42.21 |        2 |             53.27 | Yohan Beheregaray       |             19 |
-|             35 | Paul Mallez        |             43.44 |        3 |             72.02 | Solomone Tukuafu        |             19 |
-|             35 | Andrés Zafra       |             47.33 |        4 |             50.86 | Charlie Matthews        |             28 |
-|             35 | Izack Rodda        |             79.42 |        5 |             79.6  | Piula Fa'asalele        |              0 |
-|             30 | Teimana Harrison   |             46.19 |        6 |             48.79 | Jessy Jegerlehner       |             20 |
-|             35 | Bilel Taieb        |             46.1  |        7 |             49.33 | Thomas Hébert           |             28 |
-|             31 | Josh Tyrell        |             38.45 |        8 |             43.3  | Nafi Ma'Afu             |             40 |
-|             35 | Arthur Coville     |             43.93 |        9 |             50.98 | Imanol Biscay           |             63 |
-|             22 | Jules Plisson      |             36.76 |       10 |             41.68 | Thomas Dolhagaray       |             21 |
-|             32 | Léo Drouet         |             49.27 |       11 |             51.78 | Gervais Cordin          |             28 |
-|              0 | Jimmy Gopperth     |             40.13 |       12 |             44.85 | François Vergnaud       |             80 |
-|              2 | Inga Finau         |             39.94 |       13 |             93.84 | Mathieu Acebes          |             80 |
-|             80 | Adrien Lapègue     |             46.61 |       14 |             51.29 | Zach Kibirige           |             21 |
-|             63 | Mathias Colombet   |             41.72 |       15 |             43.91 | Kylian Jaminet          |             21 |
-|             65 | Joseph Laget       |            nan    |       16 |             65.58 | Luteru Tolai            |             38 |
+|             39 | Thomas Vernet      |             42.84 |        1 |             50.41 | Giorgi Nutsubidze       |             78 |
+|             45 | Loick Jammes       |             42.46 |        2 |             53.5  | Yohan Beheregaray       |             19 |
+|             35 | Paul Mallez        |             43.06 |        3 |             73.52 | Solomone Tukuafu        |             19 |
+|             35 | Andrés Zafra       |             46.96 |        4 |             50.59 | Charlie Matthews        |             28 |
+|             35 | Izack Rodda        |             79.24 |        5 |             79.42 | Piula Fa'asalele        |              0 |
+|             30 | Teimana Harrison   |             45.56 |        6 |             48.61 | Jessy Jegerlehner       |             20 |
+|             35 | Bilel Taieb        |             45.29 |        7 |             48.97 | Thomas Hébert           |             28 |
+|             31 | Josh Tyrell        |             38.95 |        8 |             43.6  | Nafi Ma'Afu             |             40 |
+|             35 | Arthur Coville     |             44.19 |        9 |             51.06 | Imanol Biscay           |             63 |
+|             22 | Jules Plisson      |             37.58 |       10 |             41.48 | Thomas Dolhagaray       |             21 |
+|             32 | Léo Drouet         |             49.44 |       11 |             52.18 | Gervais Cordin          |             28 |
+|              0 | Jimmy Gopperth     |             40    |       12 |             44.9  | François Vergnaud       |             80 |
+|              2 | Inga Finau         |             39.81 |       13 |             93.85 | Mathieu Acebes          |             80 |
+|             80 | Adrien Lapègue     |             47.1  |       14 |             51.77 | Zach Kibirige           |             21 |
+|             63 | Mathias Colombet   |             41.43 |       15 |             43.82 | Kylian Jaminet          |             21 |
+|             65 | Joseph Laget       |            nan    |       16 |             58.79 | Luteru Tolai            |             38 |
 |             80 | Julius Nostadt     |            nan    |       17 |            nan    | Zakaria El Fakir        |             21 |
-|              8 | Charly Gambini     |             69.9  |       18 |            nan    | Levi Douglas            |             28 |
+|              8 | Charly Gambini     |             69.36 |       18 |            nan    | Levi Douglas            |             28 |
 |             35 | Guillaume Piazzoli |            nan    |       19 |            nan    | Ellande Sanderson       |             20 |
-|             28 | Joris Cazenave     |            nan    |       20 |             66.39 | Kerman Aurrekoetxea     |             17 |
+|             28 | Joris Cazenave     |            nan    |       20 |             66.94 | Kerman Aurrekoetxea     |             17 |
 |             24 | Eto Bainivalu      |            nan    |       21 |            nan    | Tyler Morgan            |             21 |
 |             56 | Sione Tui          |            nan    |       22 |            nan    | Ilian Perraux           |             24 |
 |             56 | Eliott Yemsi       |            nan    |       23 |            nan    | Giorgi Dzmanashvili (2) |             30 |

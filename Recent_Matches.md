@@ -12,33 +12,33 @@ key: page-recents
 
 Competition Accuracy: 43 of 58 (74.14%)
 
-Competition Error: 14.24 points per match
+Competition Error: 14.29 points per match
 
 Last Round Accuracy: 11 of 14 (78.57%)
 
-Last Round Error: 10.04 points per match
+Last Round Error: 10.16 points per match
 
 [2024-11-15 Argentina at Ireland; 19-22](reviews//2024-11-15-Ireland-Argentina)
 
 [2024-11-16 Canada at Romania; 27-35](reviews//2024-11-16-Romania-Canada)
 
-[2024-11-16 Tonga at United States of America; 17-36](reviews//2024-11-16-UnitedStatesofAmerica-Tonga)
+[2024-11-16 Portugal at Scotland; 21-59](reviews//2024-11-16-Scotland-Portugal)
 
 [2024-11-16 New Zealand at France; 29-30](reviews//2024-11-16-France-NewZealand)
 
 [2024-11-16 Chile at Netherlands; 17-20](reviews//2024-11-16-Netherlands-Chile)
 
-[2024-11-16 Portugal at Scotland; 21-59](reviews//2024-11-16-Scotland-Portugal)
-
-[2024-11-16 Uruguay at Japan; 20-36](reviews//2024-11-16-Japan-Uruguay)
+[2024-11-16 Tonga at United States of America; 17-36](reviews//2024-11-16-UnitedStatesofAmerica-Tonga)
 
 [2024-11-16 Fiji at Spain; 33-19](reviews//2024-11-16-Spain-Fiji)
 
 [2024-11-16 South Africa at England; 29-20](reviews//2024-11-16-England-SouthAfrica)
 
-[2024-11-17 Georgia at Italy; 17-20](reviews//2024-11-17-Italy-Georgia)
+[2024-11-16 Uruguay at Japan; 20-36](reviews//2024-11-16-Japan-Uruguay)
 
 [2024-11-17 Australia at Wales; 52-20](reviews//2024-11-17-Wales-Australia)
+
+[2024-11-17 Georgia at Italy; 17-20](reviews//2024-11-17-Italy-Georgia)
 # Domestic Leagues
 
 ## Nationale
@@ -46,13 +46,13 @@ Last Round Error: 10.04 points per match
 
 [In depth model review and projections for Nationale 2024](comp_files/Nationale_2024)
 
-Competition Accuracy: 60 of 78 (76.92%)
+Competition Accuracy: 61 of 78 (78.21%)
 
 Competition Error: 10.06 points per match
 
 Last Round Accuracy: 6 of 7 (85.71%)
 
-Last Round Error: 7.71 points per match
+Last Round Error: 7.78 points per match
 
 [2024-11-15 Bourgoin-Jallieu at Rouen; 0-46](reviews//2024-11-15-Rouen-Bourgoin-Jallieu)
 

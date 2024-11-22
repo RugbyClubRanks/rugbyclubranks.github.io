@@ -9,9 +9,9 @@ categories: "Premiership Rugby Cup 2024" match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.095, which translates to predicting Leicester Tigers to win by 15.9.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.095, which translates to predicting Leicester Tigers to win by 15.7.
 
-Our Over/Under is 74.5 - and combined with the spread above, we have a predicted scoreline of 45 to 29
+Our Over/Under is 74.5 - and combined with the spread above, we have a predicted scoreline of 45 to 30
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Leicester Tigers by 6.5 on a neutral pitch
 
 | Away Player               |   Away Percentile |   Number |   Home Percentile | Home Player          |
 |:--------------------------|------------------:|---------:|------------------:|:---------------------|
-| James Whitcombe           |             68.04 |        1 |            nan    | Aniseko Sio          |
+| James Whitcombe           |             68.42 |        1 |            nan    | Aniseko Sio          |
 | Archie Vanes              |            nan    |        2 |            nan    | Harry Clayton        |
-| Tim Hoyt                  |            nan    |        3 |             88.6  | Dan Richardson       |
+| Tim Hoyt                  |            nan    |        3 |             88.45 | Dan Richardson       |
 | Kyle Hatherell            |              0.78 |        4 |             12.06 | Sebastian Ferreira   |
 | Lewis Chessum             |            nan    |        5 |            nan    | Jack Shine           |
 | Emeka Ilione              |             72.47 |        6 |            nan    | Kody Vereti          |
 | Sam Williams              |            nan    |        7 |            nan    | Jacob Wright         |
-| Matt Rogerson             |             89.78 |        8 |            nan    | James Cherry         |
+| Matt Rogerson             |             89.96 |        8 |            nan    | James Cherry         |
 | Ollie Allan               |            nan    |        9 |            nan    | Will Yarnell         |
-| Tom Whiteley              |             71.15 |       10 |            nan    | Matthew Arden        |
-| Josh Bassett              |             85.62 |       11 |            nan    | Harry Graham         |
-| Solomone Kata             |             58.04 |       12 |            nan    | Javiah Pohe          |
-| Izaia Perese              |             47.26 |       13 |            nan    | Kegan Christian-Goss |
+| Tom Whiteley              |             71.36 |       10 |            nan    | Matthew Arden        |
+| Josh Bassett              |             85.97 |       11 |            nan    | Harry Graham         |
+| Solomone Kata             |             56.63 |       12 |            nan    | Javiah Pohe          |
+| Izaia Perese              |             48.17 |       13 |            nan    | Kegan Christian-Goss |
 | Jack Kinder               |            nan    |       14 |            nan    | David Williams       |
-| Jamie Shillcock           |             63.86 |       15 |            nan    | Jack Stapley         |
-| Charlie Clare             |             38.32 |       16 |            nan    | Tj Harris            |
+| Jamie Shillcock           |             63.24 |       15 |            nan    | Jack Stapley         |
+| Charlie Clare             |             39.5  |       16 |            nan    | Tj Harris            |
 | Bronson Kingsley-Mellowes |            nan    |       17 |            nan    | Ale Loman            |
 | Henry Mountford           |            nan    |       18 |            nan    | Xavier Valentine     |
 | Côme Joussain             |            nan    |       19 |            nan    | Sam Green            |
-| Hanro Liebenberg          |             79.19 |       20 |            nan    | Jack Dickinson       |
-| Joseph Woodward           |             59.48 |       21 |            nan    | Josh Goodwin         |
-| Dan Kelly                 |             32.34 |       22 |            nan    | Jai Johal            |
-| Ollie Hassell-Collins     |             81.34 |       23 |            nan    | Ryan Olowofela       |
+| Hanro Liebenberg          |             79.37 |       20 |            nan    | Jack Dickinson       |
+| Joseph Woodward           |             59.52 |       21 |            nan    | Josh Goodwin         |
+| Dan Kelly                 |             32.6  |       22 |            nan    | Jai Johal            |
+| Ollie Hassell-Collins     |             81.53 |       23 |            nan    | Ryan Olowofela       |
 

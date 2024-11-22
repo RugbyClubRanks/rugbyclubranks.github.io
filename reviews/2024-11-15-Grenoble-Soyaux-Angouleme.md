@@ -11,7 +11,7 @@ categories: "Pro D2 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.685, which translates to predicting Grenoble to win by 6.8.
 
-Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 20 to 27
+Our Over/Under is 60.5 - and combined with the spread above, we have a predicted scoreline of 27 to 34
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Grenoble by 13.8
+## Prediction without Player Minutes: Grenoble by 13.7
 
 
-Grenoble by 0.7 on a neutral pitch
+Grenoble by 0.5 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,23 +69,23 @@ Grenoble by 0.7 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             10 | Sami Zouhaïr         |             43.96 |        1 |             45.2  | Zack Gauthier      |              0 |
-|             10 | Motu Matu'U          |             43.3  |        2 |             45.64 | Mathis Sarragallet |              7 |
-|             40 | Yassin Boutemanni    |             41.19 |        3 |             47.71 | Giorgi Pertaia     |             19 |
-|             23 | Enzo Morand-Bruyat   |             46.69 |        4 |             56.66 | Thomas Ployet      |             18 |
-|             35 | Matt Beukeboom       |             45.24 |        5 |             55.76 | Pierce Phillips    |             58 |
-|             24 | Hubert Texier        |             45.16 |        6 |             53.81 | Antonin Berruyer   |             52 |
-|             24 | Clément Sentubéry    |             45.16 |        7 |             55.7  | Thibaut Martel     |             80 |
-|              0 | Samuel Nollet        |             40.29 |        8 |             72.23 | Richard Hardwick   |             80 |
-|             35 | Alexis Levron        |             42.3  |        9 |             55.25 | Eric Escande       |             80 |
-|             35 | Adrien Bau           |             38.81 |       10 |             48.46 | Sam Davies         |             61 |
-|             24 | Nathan Farissier     |             48.22 |       11 |             50.08 | Geoffrey Cros      |              1 |
-|             80 | George Tilsley       |             33.83 |       12 |             41    | Romain Fusier      |              6 |
-|             80 | Ledua Mau            |             33.83 |       13 |             69.01 | Gerswin Mouton     |             16 |
-|             40 | Jonny May            |             28.19 |       14 |             52.42 | Kaminieli Rasaku   |             19 |
-|             70 | Jules Dubecq         |             38.12 |       15 |             48.7  | Julien Farnoux     |             59 |
+|             10 | Sami Zouhaïr         |             43.89 |        1 |             44.9  | Zack Gauthier      |              0 |
+|             10 | Motu Matu'U          |             43.7  |        2 |             45.41 | Mathis Sarragallet |              7 |
+|             40 | Yassin Boutemanni    |             40.81 |        3 |             47.19 | Giorgi Pertaia     |             19 |
+|             23 | Enzo Morand-Bruyat   |             46.42 |        4 |             56.57 | Thomas Ployet      |             18 |
+|             35 | Matt Beukeboom       |             45.15 |        5 |             55.39 | Pierce Phillips    |             58 |
+|             24 | Hubert Texier        |             44.62 |        6 |             53.72 | Antonin Berruyer   |             52 |
+|             24 | Clément Sentubéry    |             44.62 |        7 |             56.05 | Thibaut Martel     |             80 |
+|              0 | Samuel Nollet        |             40.41 |        8 |             69.38 | Richard Hardwick   |             80 |
+|             35 | Alexis Levron        |             42.39 |        9 |             54.83 | Eric Escande       |             80 |
+|             35 | Adrien Bau           |             39.01 |       10 |             48.87 | Sam Davies         |             61 |
+|             24 | Nathan Farissier     |             48.63 |       11 |             50.56 | Geoffrey Cros      |              1 |
+|             80 | George Tilsley       |             33.99 |       12 |             41.06 | Romain Fusier      |              6 |
+|             80 | Ledua Mau            |             33.99 |       13 |             67.21 | Gerswin Mouton     |             16 |
+|             40 | Jonny May            |             28.71 |       14 |             52.82 | Kaminieli Rasaku   |             19 |
+|             70 | Jules Dubecq         |             37.25 |       15 |             48.41 | Julien Farnoux     |             59 |
 |             40 | Patxi Bidart         |            nan    |       16 |            nan    | Lilian Rossi       |             62 |
-|             57 | Georgy Balakarev (2) |            nan    |       17 |             77.57 | Tommy Raynaud      |             59 |
+|             57 | Georgy Balakarev (2) |            nan    |       17 |             77.72 | Tommy Raynaud      |             59 |
 |             50 | Léo Labarthe         |            nan    |       18 |            nan    | Victor Guillaumond |             80 |
 |             59 | Ian Kitwanga         |            nan    |       19 |            nan    | Camille Baz-Marcos |             75 |
 |             71 | Rayne Barka          |            nan    |       20 |            nan    | Barnabé Couilloud  |             80 |

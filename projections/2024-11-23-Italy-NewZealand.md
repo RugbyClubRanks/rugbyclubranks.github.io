@@ -9,7 +9,7 @@ categories: "Autumn Nations Series 2024" match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.165, which translates to predicting New Zealand to win by 11.3.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.165, which translates to predicting New Zealand to win by 11.0.
 
 Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 30 to 19
 
@@ -69,27 +69,27 @@ New Zealand by 20.4 on a neutral pitch
 
 | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player        |
 |:--------------------|------------------:|---------:|------------------:|:-------------------|
-| Ethan de Groot      |             78.32 |        1 |            nan    | nan                |
-| Codie Taylor        |             96.57 |        2 |            nan    | nan                |
-| Tyrel Lomax         |             94    |        3 |            nan    | nan                |
-| Scott Barrett       |             96.1  |        4 |            nan    | nan                |
-| Patrick Tuipulotu   |             97.55 |        5 |            nan    | nan                |
-| Wallace Sititi      |             94.56 |        6 |            nan    | nan                |
-| Sam Cane            |             99.73 |        7 |            nan    | nan                |
+| Ethan de Groot      |             78.02 |        1 |            nan    | nan                |
+| Codie Taylor        |             96.73 |        2 |            nan    | nan                |
+| Tyrel Lomax         |             94.82 |        3 |            nan    | nan                |
+| Scott Barrett       |             97.1  |        4 |            nan    | nan                |
+| Patrick Tuipulotu   |             97.73 |        5 |            nan    | nan                |
+| Wallace Sititi      |             92.64 |        6 |            nan    | nan                |
+| Sam Cane            |             99.64 |        7 |            nan    | nan                |
 | Ardie Savea         |             99.55 |        8 |            nan    | nan                |
-| Cam Roigard         |             72.46 |        9 |             47.21 | Martin Page-Relo   |
-| Beauden Barrett     |             99.59 |       10 |             79.26 | Paolo Garbisi      |
-| Caleb Clarke        |             94.51 |       11 |             95.56 | Monty Ioane        |
-| Anton Lienert-Brown |             95.57 |       12 |             87.87 | Tommaso Menoncello |
-| Rieko Ioane         |             86.91 |       13 |             92.69 | Juan Ignacio Brex  |
-| Mark Tele'a         |             98.38 |       14 |             18.58 | Jacopo Trulla      |
-| Will Jordan         |             99.4  |       15 |             97.41 | Ange Capuozzo      |
-| Asafo Aumua         |             94.55 |       16 |             95.17 | Giacomo Nicotera   |
-| Ofa Tu'ungafasi     |             98.2  |       17 |             40.59 | Mirco Spagnolo     |
-| Fletcher Newell     |              2.48 |       18 |             91.15 | Simone Ferrari     |
-| Tupou Vaa'i         |             97.91 |       19 |             68.81 | Niccolo Cannone    |
-| Peter Lakai         |             95.15 |       20 |             49.06 | Alessandro Izekor  |
-| TJ Perenara         |             98.03 |       21 |             46.07 | Alessandro Garbisi |
-| David Havili        |             91.82 |       22 |            nan    | nan                |
-| Damian McKenzie     |             97.33 |       23 |             68.72 | Marco Zanon        |
+| Cam Roigard         |             70.7  |        9 |             43.7  | Martin Page-Relo   |
+| Beauden Barrett     |             99.59 |       10 |             81.31 | Paolo Garbisi      |
+| Caleb Clarke        |             94.35 |       11 |             94.27 | Monty Ioane        |
+| Anton Lienert-Brown |             95.58 |       12 |             87.88 | Tommaso Menoncello |
+| Rieko Ioane         |             83.56 |       13 |             90.67 | Juan Ignacio Brex  |
+| Mark Tele'a         |             98.31 |       14 |             18.31 | Jacopo Trulla      |
+| Will Jordan         |             99.4  |       15 |             97.61 | Ange Capuozzo      |
+| Asafo Aumua         |             94.71 |       16 |             95.02 | Giacomo Nicotera   |
+| Ofa Tu'ungafasi     |             98.2  |       17 |             39.91 | Mirco Spagnolo     |
+| Fletcher Newell     |              3.15 |       18 |             92.35 | Simone Ferrari     |
+| Tupou Vaa'i         |             98.37 |       19 |             66.73 | Niccolo Cannone    |
+| Peter Lakai         |             93.41 |       20 |             47.89 | Alessandro Izekor  |
+| TJ Perenara         |             98.04 |       21 |             49.59 | Alessandro Garbisi |
+| David Havili        |             92.02 |       22 |            nan    | nan                |
+| Damian McKenzie     |             97.33 |       23 |             68.85 | Marco Zanon        |
 

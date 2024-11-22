@@ -9,9 +9,9 @@ categories: "Nationale 2024" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.713, which translates to predicting Albi to win by 8.0.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.72, which translates to predicting Albi to win by 8.3.
 
-Our Over/Under is 44.5 - and combined with the spread above, we have a predicted scoreline of 18 to 26
+Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 19 to 27
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,23 +69,23 @@ Albi by 0.1 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player             |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:------------------------|---------------:|
-|             30 | Fernandez Corréa    |             48.95 |        1 |             43.06 | Antoine Soave           |             30 |
-|             19 | Adrien Sonzogni     |             47.66 |        2 |             40.19 | Reinach Venter          |             61 |
-|             30 | Tijde Visser        |             48.95 |        3 |             42.99 | Jean-Baptiste De Clercq |             31 |
-|             21 | Saba Pesvianidze    |             51.59 |        4 |             48.41 | Jonathan Kpoku          |             13 |
-|             30 | Louis Bruinsma      |             52.49 |        5 |             47.78 | Evrard Dion Oulai       |             20 |
-|              0 | Hugo Boutin         |             47.49 |        6 |             43.05 | Mattéo Coustalat        |             60 |
-|             80 | Giani Gamba         |             55.07 |        7 |             45.65 | Simon Meka              |             25 |
-|             80 | Alexandre Loubière  |             47.38 |        8 |             39.42 | Camille Jarreau         |              9 |
-|             22 | Lucas Rubio         |             48.85 |        9 |             43.77 | Théo Vidal              |             23 |
+|             30 | Fernandez Corréa    |             48.42 |        1 |             42.46 | Antoine Soave           |             30 |
+|             19 | Adrien Sonzogni     |             47.59 |        2 |             40.44 | Reinach Venter          |             61 |
+|             30 | Tijde Visser        |             48.42 |        3 |             42.24 | Jean-Baptiste De Clercq |             31 |
+|             21 | Saba Pesvianidze    |             51.41 |        4 |             47.87 | Jonathan Kpoku          |             13 |
+|             30 | Louis Bruinsma      |             52.31 |        5 |             47.23 | Evrard Dion Oulai       |             20 |
+|              0 | Hugo Boutin         |             47.4  |        6 |             42.42 | Mattéo Coustalat        |             60 |
+|             80 | Giani Gamba         |             55.34 |        7 |             45.2  | Simon Meka              |             25 |
+|             80 | Alexandre Loubière  |             48.06 |        8 |             40.12 | Camille Jarreau         |              9 |
+|             22 | Lucas Rubio         |             48.61 |        9 |             44.03 | Théo Vidal              |             23 |
 |             45 | Christian Lacombe   |             47.02 |       10 |             38.6  | Victor Pisano           |             47 |
-|             56 | Alex Preira         |             54.68 |       11 |             47.01 | Théo Reinard            |             47 |
-|             40 | Luca Mignot         |             43.98 |       12 |             37.05 | Léo Treilles            |             58 |
-|             80 | Arthur Seigneuret   |             48.12 |       13 |             35.9  | Baptiste Couchinave     |             80 |
-|             28 | Giorgi Gogoladze    |             52.91 |       14 |             45.64 | Simon Hartmann          |             64 |
-|             80 | Martin Carré        |             49.3  |       15 |             41.32 | Téo Dospital            |             49 |
+|             56 | Alex Preira         |             55    |       11 |             47.42 | Théo Reinard            |             47 |
+|             40 | Luca Mignot         |             44.13 |       12 |             36.92 | Léo Treilles            |             58 |
+|             80 | Arthur Seigneuret   |             47.69 |       13 |             35.77 | Baptiste Couchinave     |             80 |
+|             28 | Giorgi Gogoladze    |             53.55 |       14 |             46.21 | Simon Hartmann          |             64 |
+|             80 | Martin Carré        |             49    |       15 |             40.84 | Téo Dospital            |             49 |
 |             65 | Pierre Trassoudaine |            nan    |       16 |            nan    | Arthur Castant          |             80 |
-|             60 | Siegfried Fisi'ihoi |             19.5  |       17 |            nan    | Lucas Pindor            |             61 |
+|             60 | Siegfried Fisi'ihoi |             18.6  |       17 |            nan    | Lucas Pindor            |             61 |
 |             66 | Hilan Delbois       |            nan    |       18 |            nan    | Vincent Mutel           |             70 |
 |             56 | Tony Tissot         |            nan    |       19 |            nan    | Ianis Ponsole           |             40 |
 |             80 | Julien Blanc        |            nan    |       20 |            nan    | Ruben Courtiès          |             24 |
