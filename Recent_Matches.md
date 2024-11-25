@@ -10,88 +10,90 @@ key: page-recents
 
 [In depth model review and projections for International Test Match 2024](comp_files/International_Test_Match_2024)
 
-Competition Accuracy: 43 of 58 (74.14%)
+Competition Accuracy: 44 of 60 (73.33%)
 
-Competition Error: 14.29 points per match
+Competition Error: 13.91 points per match
 
 Last Round Accuracy: 11 of 14 (78.57%)
 
-Last Round Error: 10.16 points per match
+Last Round Error: 8.7 points per match
 
-[2024-11-15 Argentina at Ireland; 19-22](reviews//2024-11-15-Ireland-Argentina)
+[2024-11-23 United States of America at Spain; 26-23](reviews//2024-11-23-Spain-UnitedStatesofAmerica)
 
-[2024-11-16 Canada at Romania; 27-35](reviews//2024-11-16-Romania-Canada)
+[2024-11-23 Uruguay at Romania; 23-21](reviews//2024-11-23-Romania-Uruguay)
+# Top Flight Leagues
 
-[2024-11-16 Portugal at Scotland; 21-59](reviews//2024-11-16-Scotland-Portugal)
-
-[2024-11-16 New Zealand at France; 29-30](reviews//2024-11-16-France-NewZealand)
-
-[2024-11-16 Chile at Netherlands; 17-20](reviews//2024-11-16-Netherlands-Chile)
-
-[2024-11-16 Tonga at United States of America; 17-36](reviews//2024-11-16-UnitedStatesofAmerica-Tonga)
-
-[2024-11-16 Fiji at Spain; 33-19](reviews//2024-11-16-Spain-Fiji)
-
-[2024-11-16 South Africa at England; 29-20](reviews//2024-11-16-England-SouthAfrica)
-
-[2024-11-16 Uruguay at Japan; 20-36](reviews//2024-11-16-Japan-Uruguay)
-
-[2024-11-17 Australia at Wales; 52-20](reviews//2024-11-17-Wales-Australia)
-
-[2024-11-17 Georgia at Italy; 17-20](reviews//2024-11-17-Italy-Georgia)
-# Domestic Leagues
-
-## Nationale
+## Allianz Premier 15s
 
 
-[In depth model review and projections for Nationale 2024](comp_files/Nationale_2024)
+[In depth model review and projections for Allianz Premier 15s 2024](comp_files/Allianz_Premier_15s_2024)
 
-Competition Accuracy: 61 of 78 (78.21%)
+Competition Accuracy: 23 of 28 (82.14%)
 
-Competition Error: 10.06 points per match
+Competition Error: 13.18 points per match
+
+Last Round Accuracy: 4 of 5 (80.0%)
+
+Last Round Error: 9.02 points per match
+
+[2024-11-23 Leicester Tigers Women at Loughborough Lightning; 24-36](reviews//2024-11-23-LoughboroughLightning-LeicesterTigersWomen)
+
+[2024-11-23 Ealing Trailfinders Women at Bristol Bears Women; 7-26](reviews//2024-11-23-BristolBearsWomen-EalingTrailfindersWomen)
+
+[2024-11-24 Harlequins Women at Saracens Women; 15-14](reviews//2024-11-24-SaracensWomen-HarlequinsWomen)
+
+[2024-11-24 Exeter Chiefs Women at Sale Sharks Women; 29-19](reviews//2024-11-24-SaleSharksWomen-ExeterChiefsWomen)
+## Premiership Rugby Cup
+
+
+[In depth model review and projections for Premiership Rugby Cup 2024](comp_files/Premiership_Rugby_Cup_2024)
+
+Competition Accuracy: 8 of 10 (80.0%)
+
+Competition Error: 11.34 points per match
+
+Last Round Accuracy: 8 of 10 (80.0%)
+
+Last Round Error: 11.34 points per match
+
+[2024-11-22 Exeter Chiefs at Gloucester Rugby; 31-7](reviews//2024-11-22-GloucesterRugby-ExeterChiefs)
+
+[2024-11-22 Sale Sharks at Newcastle Falcons; 27-28](reviews//2024-11-22-NewcastleFalcons-SaleSharks)
+
+[2024-11-22 Leicester Tigers at Nottingham; 70-29](reviews//2024-11-22-Nottingham-LeicesterTigers)
+
+[2024-11-23 Harlequins at Saracens; 26-28](reviews//2024-11-23-Saracens-Harlequins)
+
+[2024-11-23 Northampton Saints at Coventry; 19-10](reviews//2024-11-23-Coventry-NorthamptonSaints)
+
+[2024-11-23 Cornish Pirates at Hartpury College; 26-41](reviews//2024-11-23-HartpuryCollege-CornishPirates)
+
+[2024-11-23 London Scottish at Ealing Trailfinders; 5-36](reviews//2024-11-23-EalingTrailfinders-LondonScottish)
+
+[2024-11-23 Bath Rugby at Bedford; 21-7](reviews//2024-11-23-Bedford-BathRugby)
+
+[2024-11-23 Doncaster at Caldy; 43-19](reviews//2024-11-23-Caldy-Doncaster)
+
+[2024-11-24 Ampthill at Bristol Rugby; 15-40](reviews//2024-11-24-BristolRugby-Ampthill)
+## Top 14 Orange
+
+
+[In depth model review and projections for Top 14 Orange 2024](comp_files/Top_14_Orange_2024)
+
+Competition Accuracy: 55 of 68 (80.88%)
+
+Competition Error: 11.2 points per match
 
 Last Round Accuracy: 6 of 7 (85.71%)
 
-Last Round Error: 7.78 points per match
+Last Round Error: 12.47 points per match
 
-[2024-11-15 Bourgoin-Jallieu at Rouen; 0-46](reviews//2024-11-15-Rouen-Bourgoin-Jallieu)
+[2024-11-23 Bordeaux Begles at Vannes; 37-29](reviews//2024-11-23-Vannes-BordeauxBegles)
 
-[2024-11-15 Marcq-en-Baroeul at Tarbes; 16-20](reviews//2024-11-15-Tarbes-Marcq-en-Baroeul)
+[2024-11-23 La Rochelle at Castres Olympique; 24-28](reviews//2024-11-23-CastresOlympique-LaRochelle)
 
-[2024-11-15 Massy at Albi; 9-14](reviews//2024-11-15-Albi-Massy)
+[2024-11-23 Pau at Montpellier Herault; 3-30](reviews//2024-11-23-MontpellierHerault-Pau)
 
-[2024-11-16 Perigueux at Suresnes; 28-30](reviews//2024-11-16-Suresnes-Perigueux)
+[2024-11-23 Perpignan at Stade Toulousain; 9-41](reviews//2024-11-23-StadeToulousain-Perpignan)
 
-[2024-11-16 US Bressane at Narbonne; 26-29](reviews//2024-11-16-Narbonne-USBressane)
-
-[2024-11-16 Chambery at Carqueiranne-Hyeres; 25-0](reviews//2024-11-16-Carqueiranne-Hyeres-Chambery)
-
-[2024-11-16 Carcassonne at Langon; 24-32](reviews//2024-11-16-Langon-Carcassonne)
-## Pro D2
-
-
-[In depth model review and projections for Pro D2 2024](comp_files/Pro_D2_2024)
-
-Competition Accuracy: 54 of 88 (61.36%)
-
-Competition Error: 10.21 points per match
-
-Last Round Accuracy: 5 of 8 (62.5%)
-
-Last Round Error: 16.97 points per match
-
-[2024-11-14 Montauban at Agen; 25-18](reviews//2024-11-14-Agen-Montauban)
-
-[2024-11-15 Brive at Nice; 26-16](reviews//2024-11-15-Nice-Brive)
-
-[2024-11-15 Oyonnax at Valence Romans Drome Rugby; 16-18](reviews//2024-11-15-ValenceRomansDromeRugby-Oyonnax)
-
-[2024-11-15 Nevers at Aurillac; 10-42](reviews//2024-11-15-Aurillac-Nevers)
-
-[2024-11-15 Soyaux-Angouleme at Grenoble; 7-37](reviews//2024-11-15-Grenoble-Soyaux-Angouleme)
-
-[2024-11-15 Beziers at Colomiers; 44-40](reviews//2024-11-15-Colomiers-Beziers)
-
-[2024-11-15 Provence Rugby at Biarritz Olympique; 0-25](reviews//2024-11-15-BiarritzOlympique-ProvenceRugby)
-
-[2024-11-16 Mont-de-Marsan at Dax; 11-40](reviews//2024-11-16-Dax-Mont-de-Marsan)
+[2024-11-24 Racing 92 at Stade Francais Paris; 12-43](reviews//2024-11-24-StadeFrancaisParis-Racing92)
