@@ -1,6 +1,6 @@
 ---  
 title: "Developmental International 2024 Status"  
-date: 2024-11-25 6:00:00 -0500  
+date: 2024-11-28 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -91,8 +91,8 @@ aside:
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
 | Club Level | 67.1% | 27.1 |
-| Player Level: Lineup | 100.0% | 21.1 |
-| Player Level: Minutes | 80.0% | 22.5 |
+| Player Level: Lineup | 100.0% | 20.9 |
+| Player Level: Minutes | 80.0% | 22.6 |
 
 
 # Future Predictions
@@ -102,7 +102,7 @@ aside:
 ### Andorra V Malta on 2024/11/30
 
 
-Average Margin: Malta by 10.5
+Average Margin: Malta by 10.3
 
 Average Scoreline: 36-25
 

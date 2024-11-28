@@ -11,7 +11,7 @@ categories: "Premiership Rugby Cup 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.152, which translates to predicting Bath Rugby to win by 15.2.
 
-Our Over/Under is 56.5 - and combined with the spread above, we have a predicted scoreline of 36 to 21
+Our Over/Under is 64.5 - and combined with the spread above, we have a predicted scoreline of 40 to 24
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -42,7 +42,7 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction without Player Minutes: Bedford by 4.1
 
 
-Bath Rugby by 0.5 on a neutral pitch
+Bath Rugby by 0.4 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Bath Rugby by 0.5 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             55 | Arthur Cordwell     |             65.34 |        1 |             45.35 | Joey Conway        |             49 |
-|             40 | Jasper Spandler     |             48.16 |        2 |             29.45 | Tommy Herman       |             49 |
-|             80 | Kieran Verden       |             60.47 |        3 |             29.5  | Beltus Nonleh      |             49 |
-|             54 | Mackenzie Graham    |             65.72 |        4 |             28.95 | Rory Ward          |             80 |
-|             63 | Ewan Richards       |             70.69 |        5 |             68.12 | George Smith       |             80 |
-|             80 | Ethan Staddon       |             68.43 |        6 |             32.45 | Fyn Brown          |             80 |
-|             80 | Tom Cowan           |             52.24 |        7 |             47.05 | Joe Howard         |             68 |
-|             80 | Alfie Barbeary      |             90.32 |        8 |             29.22 | Fred Tuilagi       |             40 |
-|             80 | Tom Carr-Smith      |             64.7  |        9 |             35.14 | Alex Day           |             17 |
-|             80 | Orlando Bailey      |             92.61 |       10 |             31.54 | Will Maisey        |             55 |
-|              0 | Ruaridh McConnochie |             92.1  |       11 |             59.78 | Dean Adamson       |             17 |
-|             80 | Max Ojomoh          |             94.22 |       12 |             30.78 | Joel Matavesi      |             75 |
-|             51 | Louie Hennessey     |             29.73 |       13 |             52.94 | Lucas Titherington |             80 |
-|             58 | Regan Grace         |             65.68 |       14 |             31.05 | Alfie Garside      |             80 |
-|             80 | Austin Emens        |             76.37 |       15 |             71.09 | Louis James        |             80 |
-|             80 | Kepu Tuipulotu      |            nan    |       16 |            nan    | Nathan Langdon     |             69 |
-|             80 | Archie Stanley      |            nan    |       17 |            nan    | Jamie Jack         |             80 |
-|             80 | Mikey Summerfield   |            nan    |       18 |            nan    | Oisin Heffernan    |             58 |
-|             80 | Arthur Green        |            nan    |       19 |            nan    | Shay Kerry         |             80 |
-|             61 | Jaco Coetzee        |             58.82 |       20 |            nan    | Luke Frost         |             80 |
-|             80 | Neil Le Roux        |            nan    |       21 |            nan    | Jac Arthur         |             67 |
-|             80 | Ciaran Donoghue     |            nan    |       22 |            nan    | Jonny Weimann      |             80 |
-|             80 | Will Parry          |            nan    |       23 |             81.84 | Matt Worley        |             80 |
+|             80 | Arthur Cordwell     |             69.99 |        1 |             43.66 | Joey Conway        |             61 |
+|             67 | Jasper Spandler     |             55.37 |        2 |             24.54 | Tommy Herman       |             80 |
+|             42 | Kieran Verden       |             47.94 |        3 |             24.93 | Beltus Nonleh      |             80 |
+|             80 | Mackenzie Graham    |             69.09 |        4 |             30.73 | Rory Ward          |             80 |
+|             80 | Ewan Richards       |             71.94 |        5 |             76.2  | George Smith       |             22 |
+|             80 | Ethan Staddon       |             67.11 |        6 |             48.72 | Fyn Brown          |             24 |
+|             80 | Tom Cowan           |             49.16 |        7 |             50.75 | Joe Howard         |             62 |
+|             62 | Alfie Barbeary      |             89.37 |        8 |             35.67 | Fred Tuilagi       |             15 |
+|             48 | Tom Carr-Smith      |             56.39 |        9 |             35.14 | Alex Day           |             20 |
+|             23 | Orlando Bailey      |             89.78 |       10 |             42.48 | Will Maisey        |             20 |
+|             48 | Ruaridh McConnochie |             93.46 |       11 |             59.97 | Dean Adamson       |             20 |
+|             60 | Max Ojomoh          |             93.58 |       12 |             45    | Joel Matavesi      |             18 |
+|             30 | Louie Hennessey     |             24.43 |       13 |             64.15 | Lucas Titherington |             22 |
+|             60 | Regan Grace         |             64.59 |       14 |             46.25 | Alfie Garside      |             16 |
+|             52 | Austin Emens        |             71.88 |       15 |             79.69 | Louis James        |              0 |
+|             80 | Kepu Tuipulotu      |            nan    |       16 |            nan    | Nathan Langdon     |             18 |
+|             80 | Archie Stanley      |            nan    |       17 |            nan    | Jamie Jack         |             29 |
+|             48 | Mikey Summerfield   |            nan    |       18 |            nan    | Oisin Heffernan    |             37 |
+|             80 | Arthur Green        |            nan    |       19 |            nan    | Shay Kerry         |             61 |
+|             13 | Jaco Coetzee        |             58.63 |       20 |            nan    | Luke Frost         |             80 |
+|             40 | Neil Le Roux        |            nan    |       21 |            nan    | Jac Arthur         |             69 |
+|             12 | Ciaran Donoghue     |            nan    |       22 |            nan    | Jonny Weimann      |             80 |
+|             12 | Will Parry          |            nan    |       23 |             81.84 | Matt Worley        |             68 |
 

@@ -9,7 +9,7 @@ categories: "RFU Championship 2024" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.937, which translates to predicting Ealing Trailfinders to win by 23.5.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.935, which translates to predicting Ealing Trailfinders to win by 24.1.
 
 Our Over/Under is 55.5 - and combined with the spread above, we have a predicted scoreline of 16 to 40
 

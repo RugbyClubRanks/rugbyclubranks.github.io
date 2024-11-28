@@ -32,7 +32,7 @@ key: page-recents
 ## International Test Match
 
 
-[2024](comp_files\International_Test_Match_2024) - Prediction Accuracy: 74.1% 
+[2024](comp_files\International_Test_Match_2024) - Prediction Accuracy: 73.3% 
 
 [2023](comp_files\International_Test_Match_2023) - Prediction Accuracy: 77.8% 
 
@@ -186,7 +186,7 @@ key: page-recents
 ## Top 14 Orange
 
 
-[2024](comp_files\Top_14_Orange_2024) - Prediction Accuracy: 79.4% 
+[2024](comp_files\Top_14_Orange_2024) - Prediction Accuracy: 80.9% 
 
 [2023](comp_files\Top_14_Orange_2023) - Prediction Accuracy: 70.1% 
 
@@ -280,7 +280,7 @@ key: page-recents
 ## Allianz Premier 15s
 
 
-[2024](comp_files\Allianz_Premier_15s_2024) - Prediction Accuracy: 83.3% 
+[2024](comp_files\Allianz_Premier_15s_2024) - Prediction Accuracy: 82.1% 
 
 [2023](comp_files\Allianz_Premier_15s_2023) - Prediction Accuracy: 80.8% 
 ## Super Rugby
@@ -336,7 +336,7 @@ key: page-recents
 ## Nationale
 
 
-[2024](comp_files\Nationale_2024) - Prediction Accuracy: 78.2% 
+[2024](comp_files\Nationale_2024) - Prediction Accuracy: 76.9% 
 
 [2023](comp_files\Nationale_2023) - Prediction Accuracy: 74.9% 
 

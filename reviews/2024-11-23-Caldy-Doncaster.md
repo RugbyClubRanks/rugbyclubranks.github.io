@@ -11,7 +11,7 @@ categories: "Premiership Rugby Cup 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.388, which translates to predicting Doncaster to win by 4.1.
 
-Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 29 to 25
+Our Over/Under is 56.5 - and combined with the spread above, we have a predicted scoreline of 30 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Caldy by 3.2
+## Prediction without Player Minutes: Caldy by 3.3
 
 
-Caldy by 0.5 on a neutral pitch
+Caldy by 0.7 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,30 +69,27 @@ Caldy by 0.5 on a neutral pitch
 
 |   Away Minutes | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player       |   Home Minutes |
 |---------------:|:------------------|------------------:|---------:|------------------:|:------------------|---------------:|
-|             80 | Andrew Turner     |             45.28 |        1 |             10.18 | Nathan Rushton    |             80 |
-|             62 | Ben Chapman       |             32.52 |        2 |             10.89 | Matt Gallagher    |             80 |
-|             20 | Joe Jones         |             53.32 |        3 |             37.32 | Monty Weatherby   |             20 |
-|             20 | Euan Mcvie        |             56.93 |        4 |             38.81 | Freddie Stevenson |             26 |
-|             20 | Ben Murphy        |             52.31 |        5 |             29.75 | Joe Sproston      |             18 |
-|             18 | Tom Currie        |             55.06 |        6 |             37.64 | Sam Olyott        |             18 |
-|             22 | Rhys Tait         |             56.02 |        7 |             40.37 | Tom Parry         |             18 |
-|             16 | Morgan Strong     |             20.49 |        8 |             19.35 | Jj Dickinson      |             45 |
-|              0 | Alex Dolly        |             55.11 |        9 |             22.2  | Ollie Wynn        |             80 |
-|             13 | Alex Dolly        |             55.11 |        9 |             22.2  | Ollie Wynn        |             80 |
-|             80 | Morgan Bunting    |             44.11 |       10 |             14.57 | Sam Rogers        |             80 |
-|             80 | Morgan Bunting    |             44.11 |       10 |             14.57 | Sam Rogers        |             15 |
-|             66 | Maliq Holden      |             68.24 |       11 |             26.66 | Ben Jones         |             80 |
-|             66 | Zach Kerr         |             70.36 |       12 |             17.33 | Mike Barlow       |             54 |
-|             66 | George Wacokecoke |              2.56 |       13 |             14.3  | Jacob Mitchell    |             80 |
-|             66 | Semesa Rokoduguni |             69.43 |       14 |             21.39 | Will Robinson     |             80 |
-|             66 | Jordan Olowofela  |             62.7  |       15 |             25.2  | Matt Kilcourse    |             55 |
-|             30 | George Roberts    |            nan    |       16 |            nan    | Ollie Hearn       |             57 |
-|             30 | Jasper Mcguire    |            nan    |       17 |            nan    | Adam Aigbokhae    |             60 |
-|             30 | Logovi'i Mulipola |             88.2  |       18 |            nan    | Ryan Higginson    |             60 |
-|             30 | Josh Williams     |            nan    |       19 |            nan    | Jack Collister    |              0 |
-|             30 | Archie Smeaton    |            nan    |       20 |            nan    | Callum Ridgway    |             15 |
-|             30 | Ollie Fox         |            nan    |       21 |            nan    | Jacob Tansey      |             60 |
-|             30 | Russell Bennett   |            nan    |       22 |            nan    | Dan Rabbette      |             29 |
-|             30 | Russell Bennett   |            nan    |       22 |            nan    | Dan Rabbette      |             69 |
-|             80 | Harry Davey       |            nan    |       23 |            nan    | Charlie Hyde      |             80 |
+|             80 | Andrew Turner     |             44.54 |        1 |             20.72 | Monty Weatherby   |             80 |
+|             53 | Ben Chapman       |             28.99 |        2 |             15.03 | Matt Gallagher    |             45 |
+|             80 | Joe Jones         |             72.49 |        3 |             17.04 | Nathan Rushton    |             18 |
+|             53 | Euan Mcvie        |             66.7  |        4 |             27.26 | Freddie Stevenson |             80 |
+|             22 | Ben Murphy        |             53.02 |        5 |             21.14 | Joe Sproston      |             65 |
+|             22 | Tom Currie        |             55.67 |        6 |             26.21 | Sam Olyott        |             65 |
+|              6 | Rhys Tait         |             49.25 |        7 |             25.07 | Tom Parry         |             80 |
+|             16 | Morgan Strong     |             20.3  |        8 |             19.17 | Jj Dickinson      |             53 |
+|             11 | Alex Dolly        |             49.2  |        9 |             22.52 | Ollie Wynn        |             80 |
+|              4 | Morgan Bunting    |             20.04 |       10 |             14.03 | Sam Rogers        |             80 |
+|             11 | Maliq Holden      |             52.63 |       11 |             27.11 | Ben Jones         |             80 |
+|             16 | Zach Kerr         |             62.36 |       12 |             23.77 | Mike Barlow       |             20 |
+|             61 | George Wacokecoke |              2.26 |       13 |             14.53 | Jacob Mitchell    |             80 |
+|             80 | Semesa Rokoduguni |             71.93 |       14 |             24.96 | Will Robinson     |             60 |
+|             64 | Jordan Olowofela  |             61.52 |       15 |             24.22 | Matt Kilcourse    |             60 |
+|             29 | George Roberts    |            nan    |       16 |            nan    | Ollie Hearn       |             62 |
+|             61 | Jasper Mcguire    |            nan    |       17 |            nan    | Adam Aigbokhae    |             54 |
+|             58 | Logovi'i Mulipola |             88.05 |       18 |            nan    | Ryan Higginson    |             80 |
+|             62 | Josh Williams     |            nan    |       19 |            nan    | Jack Collister    |             62 |
+|             80 | Archie Smeaton    |            nan    |       20 |            nan    | Callum Ridgway    |             80 |
+|             80 | Ollie Fox         |            nan    |       21 |            nan    | Jacob Tansey      |             74 |
+|             58 | Russell Bennett   |            nan    |       22 |            nan    | Dan Rabbette      |             62 |
+|             64 | Harry Davey       |            nan    |       23 |            nan    | Charlie Hyde      |             45 |
 

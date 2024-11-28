@@ -34,7 +34,7 @@ Competition Error: 13.18 points per match
 
 Last Round Accuracy: 4 of 5 (80.0%)
 
-Last Round Error: 9.02 points per match
+Last Round Error: 11.86 points per match
 
 [2024-11-23 Leicester Tigers Women at Loughborough Lightning; 24-36](reviews//2024-11-23-LoughboroughLightning-LeicesterTigersWomen)
 
@@ -90,10 +90,10 @@ Last Round Error: 12.47 points per match
 
 [2024-11-23 Bordeaux Begles at Vannes; 37-29](reviews//2024-11-23-Vannes-BordeauxBegles)
 
-[2024-11-23 La Rochelle at Castres Olympique; 24-28](reviews//2024-11-23-CastresOlympique-LaRochelle)
-
 [2024-11-23 Pau at Montpellier Herault; 3-30](reviews//2024-11-23-MontpellierHerault-Pau)
 
 [2024-11-23 Perpignan at Stade Toulousain; 9-41](reviews//2024-11-23-StadeToulousain-Perpignan)
+
+[2024-11-23 La Rochelle at Castres Olympique; 24-28](reviews//2024-11-23-CastresOlympique-LaRochelle)
 
 [2024-11-24 Racing 92 at Stade Francais Paris; 12-43](reviews//2024-11-24-StadeFrancaisParis-Racing92)

@@ -1,6 +1,6 @@
 ---  
 title: "International Test Match 2024 Status"  
-date: 2024-11-25 6:00:00 -0500  
+date: 2024-11-28 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -49,8 +49,8 @@ aside:
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
 | Club Level | 73.3% | 13.9 |
-| Player Level: Lineup | 67.3% | 22.1 |
-| Player Level: Minutes | 70.8% | 43.1 |
+| Player Level: Lineup | 65.4% | 21.9 |
+| Player Level: Minutes | 70.8% | 41.8 |
 
 
 # Future Predictions
