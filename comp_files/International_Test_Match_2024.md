@@ -1,6 +1,6 @@
 ---  
 title: "International Test Match 2024 Status"  
-date: 2024-11-28 6:00:00 -0500  
+date: 2024-11-29 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -30,7 +30,7 @@ aside:
 |     13 | Japan                    |  1354.88 |
 |     14 | United States of America |  1328.87 |
 |     15 | Samoa                    |  1301.46 |
-|     16 | Zimbabwe                 |  1259.66 |
+|     16 | Zimbabwe                 |  1298.62 |
 |     17 | Portugal                 |  1232.95 |
 |     18 | Spain                    |  1205.54 |
 |     19 | Chile                    |  1166.69 |
@@ -38,10 +38,10 @@ aside:
 |     21 | Tonga                    |  1127.53 |
 |     22 | Romania                  |  1092.93 |
 |     23 | Hong Kong                |  1070.35 |
-|     24 | Netherlands              |  1012.55 |
-|     25 | Namibia                  |   999.37 |
-|     26 | Kenya                    |   961.98 |
-|     27 | Belgium                  |   954.26 |
+|     24 | Namibia                  |   999.37 |
+|     25 | Kenya                    |   961.98 |
+|     26 | Belgium                  |   954.26 |
+|     27 | Netherlands              |   953.65 |
 |     28 | Canada                   |   948.68 |
 # Completed Match Review
 
@@ -49,8 +49,8 @@ aside:
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
 | Club Level | 73.3% | 13.9 |
-| Player Level: Lineup | 65.4% | 21.9 |
-| Player Level: Minutes | 70.8% | 41.8 |
+| Player Level: Lineup | 67.3% | 22.3 |
+| Player Level: Minutes | 70.8% | 44.1 |
 
 
 # Future Predictions
@@ -60,7 +60,7 @@ aside:
 ### Ireland V Australia on 2024/11/30
 
 
-Average Margin: Ireland by 12.2
+Average Margin: Ireland by 11.9
 
 Average Scoreline: 35-23
 

@@ -11,7 +11,7 @@ categories: "Premiership Rugby Cup 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.382, which translates to predicting Northampton Saints to win by 4.2.
 
-Our Over/Under is 59.5 - and combined with the spread above, we have a predicted scoreline of 32 to 27
+Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 25 to 21
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -42,7 +42,7 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction without Player Minutes: Northampton Saints by 5.2
 
 
-Northampton Saints by 8.8 on a neutral pitch
+Northampton Saints by 8.7 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Northampton Saints by 8.8 on a neutral pitch
 
 |   Away Minutes | Away Player             |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:------------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             56 | Tarek Haffar            |             59.37 |        1 |             43.36 | Vilikesa Nairau    |              8 |
-|             80 | Craig Wright            |             53.07 |        2 |             72.39 | Jordon Poole       |              6 |
-|             68 | Luke Green              |             77.14 |        3 |             76.11 | Matt Johnson       |              4 |
-|             80 | Tom Lockett             |             27.98 |        4 |             52.13 | Obinna Nkwocha     |             16 |
-|             29 | Chunya Munga            |             86.77 |        5 |             65.1  | Senitiki Nayalo    |             40 |
-|              5 | Tom Pearson             |             97.89 |        6 |             78.19 | Tom Ball           |             20 |
-|              5 | Henry Pollock           |             95.78 |        7 |             33.16 | Aaron Hinkley      |             68 |
-|             68 | Juarno Augustus         |             75.33 |        8 |             27.51 | Matt Kvesic        |             80 |
-|             24 | Archie McParland        |             93.13 |        9 |             64.38 | Josh Barton        |              2 |
-|              3 | George Makepeace-Cubitt |             73.55 |       10 |             30.66 | Tommy Mathews      |             48 |
-|              8 | Tom Seabrook            |             12.44 |       11 |             82.7  | Ryan Hutler        |             12 |
-|              0 | Rory Hutchinson         |             84.72 |       12 |             27.45 | Tom Hitchcock      |             80 |
-|             11 | Tom Litchfield          |             79.06 |       13 |             14.34 | Dafydd-Rhys Tiueti |             80 |
-|              0 | James Ramm              |             83.33 |       14 |             32.46 | David Opoku        |             80 |
-|             36 | George Hendy            |             95.12 |       15 |             28.52 | Charlie Robson     |             80 |
-|             18 | Curtis Langdon          |             93.4  |       16 |            nan    | Suva Ma'Asi        |             65 |
-|             11 | Emmanuel Iyogun         |             50.44 |       17 |            nan    | Jevaughn Warren    |             80 |
-|             23 | Trevor Davison          |             98.75 |       18 |            nan    | Eliot Salt         |             80 |
-|             21 | Gavin Thornbury         |             94.94 |       19 |            nan    | Rhys Anstey        |             20 |
-|             18 | Angus Scott-Young       |             60.33 |       20 |            nan    | James Tyas         |             60 |
-|             80 | Tom James               |              7.19 |       21 |            nan    | Will Lane          |             57 |
-|             80 | Charlie Savala          |             26.79 |       22 |            nan    | James Martin       |             80 |
-|             34 | Will Glister            |            nan    |       23 |            nan    | Chester Owen       |             22 |
+|             75 | Tarek Haffar            |             46.95 |        1 |             46.43 | Vilikesa Nairau    |             80 |
+|             80 | Craig Wright            |             32.72 |        2 |             73.7  | Jordon Poole       |             80 |
+|             80 | Luke Green              |             69.32 |        3 |             76.97 | Matt Johnson       |             51 |
+|             80 | Tom Lockett             |             19.04 |        4 |             56.16 | Obinna Nkwocha     |             80 |
+|             69 | Chunya Munga            |             85.47 |        5 |             70.24 | Senitiki Nayalo    |             80 |
+|             80 | Tom Pearson             |             97.63 |        6 |             79.35 | Tom Ball           |             68 |
+|             58 | Henry Pollock           |             95.69 |        7 |             47.54 | Aaron Hinkley      |             56 |
+|             80 | Juarno Augustus         |             67.23 |        8 |             45.64 | Matt Kvesic        |             20 |
+|             80 | Archie McParland        |             92.98 |        9 |             64.75 | Josh Barton        |             48 |
+|             80 | George Makepeace-Cubitt |             73.8  |       10 |             41.2  | Tommy Mathews      |             48 |
+|             60 | Tom Seabrook            |             12.33 |       11 |             83.69 | Ryan Hutler        |             48 |
+|             60 | Rory Hutchinson         |             85.31 |       12 |             41.43 | Tom Hitchcock      |             80 |
+|             80 | Tom Litchfield          |             78.81 |       13 |             22.88 | Dafydd-Rhys Tiueti |             80 |
+|             80 | James Ramm              |             84.33 |       14 |             46.38 | David Opoku        |             80 |
+|             60 | George Hendy            |             94.34 |       15 |             43.16 | Charlie Robson     |             65 |
+|             80 | Curtis Langdon          |             93.43 |       16 |            nan    | Suva Ma'Asi        |             48 |
+|             80 | Emmanuel Iyogun         |             50.85 |       17 |            nan    | Jevaughn Warren    |             57 |
+|             65 | Trevor Davison          |             98.75 |       18 |            nan    | Eliot Salt         |             80 |
+|             65 | Gavin Thornbury         |             95.04 |       19 |            nan    | Rhys Anstey        |             80 |
+|             80 | Angus Scott-Young       |             60.63 |       20 |            nan    | James Tyas         |             20 |
+|             53 | Tom James               |              7.02 |       21 |            nan    | Will Lane          |             52 |
+|             80 | Charlie Savala          |             27.12 |       22 |            nan    | James Martin       |             30 |
+|             80 | Will Glister            |            nan    |       23 |            nan    | Chester Owen       |             51 |
 

@@ -11,7 +11,7 @@ categories: "Premiership Rugby Cup 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.928, which translates to predicting Ealing Trailfinders to win by 22.8.
 
-Our Over/Under is 78.5 - and combined with the spread above, we have a predicted scoreline of 28 to 50
+Our Over/Under is 74.5 - and combined with the spread above, we have a predicted scoreline of 26 to 48
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Ealing Trailfinders by 4.8 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             24 | Tom Osborne        |             44.25 |        1 |             24.12 | Lefty Zigiriadis    |             10 |
-|             60 | Austin Wallis      |              9.66 |        2 |             76.38 | Matt Cornish        |             60 |
-|             80 | Ntinga Mpiko       |             32.52 |        3 |             40.27 | Biyi Alo            |             60 |
-|             62 | Matt Wilkinson     |             38.99 |        4 |             75.58 | Matas Jurevicius    |             80 |
-|             80 | Harry Browne       |             55.33 |        5 |             62.52 | Danny Cutmore       |             80 |
-|             80 | Will Trenholm      |             35.09 |        6 |             67.37 | Josh Taylor         |             80 |
-|             80 | Jack Ingall        |             33.07 |        7 |             71.5  | Jordy Reid          |             40 |
-|             69 | Zach Carr          |             28.08 |        8 |             70.59 | Rayn Smid           |             80 |
-|             57 | Stephen Kerins     |              6.71 |        9 |             24.28 | Michael Stronge     |             20 |
-|             62 | Josh Bellamy       |             33.07 |       10 |             46.49 | Craig Willis        |             20 |
-|             59 | Will Brown         |             26.08 |       11 |             29.11 | Ben Harris          |             24 |
-|             15 | Will Simonds       |             28.87 |       12 |             79.62 | Jordan Holgate      |             20 |
-|             15 | Hayden Hyde        |             34.53 |       13 |             41.98 | Francis Moore       |             27 |
-|             27 | Roma Zheng         |             41.63 |       14 |             54.47 | Angus Kernohan      |             27 |
-|             60 | Will Talbot-Davies |             27.93 |       15 |             78.71 | Max Bodilly         |             60 |
-|             60 | Jack Musk          |            nan    |       16 |            nan    | Henry Walker        |             60 |
-|             56 | D'Arcy Mulrooney   |            nan    |       17 |            nan    | James Kenny         |             80 |
-|             56 | Ash Challenger     |            nan    |       18 |            nan    | Kabous Bezuidenhout |             51 |
-|             80 | Jake Spurway       |            nan    |       19 |             75.49 | Bobby De Wee        |             80 |
-|             54 | Ioan Rhys-Davies   |            nan    |       20 |            nan    | Will Montgomery     |             80 |
-|             80 | Jonny Law          |            nan    |       21 |             73.16 | Craig Hampson       |             20 |
-|             54 | Alec Lloyd-Seed    |            nan    |       22 |            nan    | George Worboys      |             20 |
-|             66 | Robbie Mccallum    |            nan    |       23 |            nan    | Michael Dykes       |             29 |
+|             80 | Tom Osborne        |             36.2  |        1 |             33.55 | Lefty Zigiriadis    |             80 |
+|             20 | Austin Wallis      |             11.62 |        2 |             73.55 | Matt Cornish        |             20 |
+|             20 | Ntinga Mpiko       |             42.46 |        3 |             37.23 | Biyi Alo            |             40 |
+|             24 | Matt Wilkinson     |             44.11 |        4 |             71.12 | Matas Jurevicius    |             20 |
+|             24 | Harry Browne       |             63.06 |        5 |             55.45 | Danny Cutmore       |             38 |
+|             29 | Will Trenholm      |             41.65 |        6 |             60.11 | Josh Taylor         |             24 |
+|             20 | Jack Ingall        |             40.51 |        7 |             72.5  | Jordy Reid          |             58 |
+|             20 | Zach Carr          |             32.95 |        8 |             69.51 | Rayn Smid           |             64 |
+|             20 | Stephen Kerins     |              7.34 |        9 |             32.7  | Michael Stronge     |             80 |
+|             27 | Josh Bellamy       |             38.2  |       10 |             55    | Craig Willis        |             80 |
+|             27 | Will Brown         |             27.92 |       11 |             35.32 | Ben Harris          |             80 |
+|             18 | Will Simonds       |             28.72 |       12 |             82.39 | Jordan Holgate      |             80 |
+|             56 | Hayden Hyde        |             30.23 |       13 |             51.51 | Francis Moore       |             80 |
+|             80 | Roma Zheng         |             36.36 |       14 |             59.11 | Angus Kernohan      |             62 |
+|             32 | Will Talbot-Davies |             30.66 |       15 |             76.37 | Max Bodilly         |             20 |
+|             32 | Jack Musk          |            nan    |       16 |            nan    | Henry Walker        |             20 |
+|             32 | D'Arcy Mulrooney   |            nan    |       17 |            nan    | James Kenny         |             53 |
+|             15 | Ash Challenger     |            nan    |       18 |            nan    | Kabous Bezuidenhout |             75 |
+|             32 | Jake Spurway       |            nan    |       19 |             75.91 | Bobby De Wee        |             60 |
+|             23 | Ioan Rhys-Davies   |            nan    |       20 |            nan    | Will Montgomery     |             62 |
+|             15 | Jonny Law          |            nan    |       21 |             72.89 | Craig Hampson       |             80 |
+|             24 | Alec Lloyd-Seed    |            nan    |       22 |            nan    | George Worboys      |             40 |
+|             18 | Robbie Mccallum    |            nan    |       23 |            nan    | Michael Dykes       |             80 |
 

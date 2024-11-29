@@ -34,11 +34,11 @@ Competition Error: 13.18 points per match
 
 Last Round Accuracy: 4 of 5 (80.0%)
 
-Last Round Error: 11.86 points per match
-
-[2024-11-23 Leicester Tigers Women at Loughborough Lightning; 24-36](reviews//2024-11-23-LoughboroughLightning-LeicesterTigersWomen)
+Last Round Error: 9.02 points per match
 
 [2024-11-23 Ealing Trailfinders Women at Bristol Bears Women; 7-26](reviews//2024-11-23-BristolBearsWomen-EalingTrailfindersWomen)
+
+[2024-11-23 Leicester Tigers Women at Loughborough Lightning; 24-36](reviews//2024-11-23-LoughboroughLightning-LeicesterTigersWomen)
 
 [2024-11-24 Harlequins Women at Saracens Women; 15-14](reviews//2024-11-24-SaracensWomen-HarlequinsWomen)
 
@@ -62,8 +62,6 @@ Last Round Error: 11.34 points per match
 
 [2024-11-22 Leicester Tigers at Nottingham; 70-29](reviews//2024-11-22-Nottingham-LeicesterTigers)
 
-[2024-11-23 Harlequins at Saracens; 26-28](reviews//2024-11-23-Saracens-Harlequins)
-
 [2024-11-23 Northampton Saints at Coventry; 19-10](reviews//2024-11-23-Coventry-NorthamptonSaints)
 
 [2024-11-23 Cornish Pirates at Hartpury College; 26-41](reviews//2024-11-23-HartpuryCollege-CornishPirates)
@@ -74,6 +72,8 @@ Last Round Error: 11.34 points per match
 
 [2024-11-23 Doncaster at Caldy; 43-19](reviews//2024-11-23-Caldy-Doncaster)
 
+[2024-11-23 Harlequins at Saracens; 26-28](reviews//2024-11-23-Saracens-Harlequins)
+
 [2024-11-24 Ampthill at Bristol Rugby; 15-40](reviews//2024-11-24-BristolRugby-Ampthill)
 ## Top 14 Orange
 
@@ -82,18 +82,34 @@ Last Round Error: 11.34 points per match
 
 Competition Accuracy: 55 of 68 (80.88%)
 
-Competition Error: 11.2 points per match
+Competition Error: 10.98 points per match
 
 Last Round Accuracy: 6 of 7 (85.71%)
 
-Last Round Error: 12.47 points per match
+Last Round Error: 10.33 points per match
 
 [2024-11-23 Bordeaux Begles at Vannes; 37-29](reviews//2024-11-23-Vannes-BordeauxBegles)
 
 [2024-11-23 Pau at Montpellier Herault; 3-30](reviews//2024-11-23-MontpellierHerault-Pau)
 
-[2024-11-23 Perpignan at Stade Toulousain; 9-41](reviews//2024-11-23-StadeToulousain-Perpignan)
-
 [2024-11-23 La Rochelle at Castres Olympique; 24-28](reviews//2024-11-23-CastresOlympique-LaRochelle)
 
-[2024-11-24 Racing 92 at Stade Francais Paris; 12-43](reviews//2024-11-24-StadeFrancaisParis-Racing92)
+[2024-11-23 Perpignan at Stade Toulousain; 9-41](reviews//2024-11-23-StadeToulousain-Perpignan)
+
+[2024-11-24 Racing 92 at Stade Francais Paris; 24-40](reviews//2024-11-24-StadeFrancaisParis-Racing92)
+# Domestic Leagues
+
+## Pro D2
+
+
+[In depth model review and projections for Pro D2 2024](comp_files/Pro_D2_2024)
+
+Competition Accuracy: 55 of 89 (61.8%)
+
+Competition Error: 10.16 points per match
+
+Last Round Accuracy: 6 of 8 (75.0%)
+
+Last Round Error: 16.01 points per match
+
+[2024-11-28 Montauban at Brive; 22-37](reviews//2024-11-28-Brive-Montauban)

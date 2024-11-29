@@ -9,7 +9,7 @@ categories: "Nationale 2024" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.629, which translates to predicting Bourgoin-Jallieu to win by 4.8.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.632, which translates to predicting Bourgoin-Jallieu to win by 4.8.
 
 Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 21 to 25
 

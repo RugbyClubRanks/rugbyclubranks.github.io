@@ -9,7 +9,7 @@ categories: "United Rugby Championship 2024" match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.245, which translates to predicting Leinster to win by 6.6.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.245, which translates to predicting Leinster to win by 6.9.
 
 Our Over/Under is 59.5 - and combined with the spread above, we have a predicted scoreline of 33 to 27
 
@@ -69,27 +69,27 @@ Leinster by 11.3 on a neutral pitch
 
 | Away Player     |   Away Percentile |   Number |   Home Percentile | Home Player        |
 |:----------------|------------------:|---------:|------------------:|:-------------------|
-| Jack Boyle      |             81.42 |        1 |             88.72 | Eric O'Sullivan    |
-| John McKee      |             72.09 |        2 |             30.21 | James McCormick    |
-| Rabah Slimani   |             99.71 |        3 |             72.12 | Scott Wilson       |
-| Diarmuid Mangan |             37.55 |        4 |             88.54 | Alan O'Connor      |
-| Brian Deeny     |             64.56 |        5 |             78.33 | Kieran Treadwell   |
-| Max Deegan      |             98.24 |        6 |              8.88 | James McNabney     |
-| Will Connors    |             91.56 |        7 |             89.62 | Nick Timoney       |
-| Jack Conan      |             99.3  |        8 |             92.41 | David McCann       |
-| Luke McGrath    |             99.52 |        9 |             53.83 | Nathan Doak        |
-| Ross Byrne      |             95.19 |       10 |             75.15 | Aidan Morgan       |
-| Andrew Osborne  |             74.48 |       11 |             59.89 | Mike Lowry         |
-| Charlie Tector  |             40.66 |       12 |            100    | Jude Postlethwaite |
-| Liam Turner     |             79.43 |       13 |             63.11 | Ben Carson         |
-| Jordan Larmour  |             86.12 |       14 |             76.95 | Werner Kok         |
-| Jimmy O'Brien   |             94.26 |       15 |             98.68 | Stewart Moore      |
-| Lee Barron      |             73.93 |       16 |              1.99 | Tom Stewart        |
-| Michael Milne   |             68.81 |       17 |             65.41 | Andrew Warwick     |
-| Rory Mcguire    |            nan    |       18 |             13.13 | Corrie Barrett     |
-| RG Snyman       |             99.91 |       19 |             83.3  | Harry Sheridan     |
-| James Culhane   |             75.52 |       20 |             95.25 | Marcus Rea         |
+| Jack Boyle      |             81.02 |        1 |             88.52 | Eric O'Sullivan    |
+| John McKee      |             72.32 |        2 |             30.12 | James McCormick    |
+| Rabah Slimani   |             99.71 |        3 |             71.08 | Scott Wilson       |
+| Diarmuid Mangan |             37.17 |        4 |             88.13 | Alan O'Connor      |
+| Brian Deeny     |             64.3  |        5 |             78.65 | Kieran Treadwell   |
+| Max Deegan      |             98.07 |        6 |              8.79 | James McNabney     |
+| Will Connors    |             91.65 |        7 |             89.89 | Nick Timoney       |
+| Jack Conan      |             99.3  |        8 |             91.86 | David McCann       |
+| Luke McGrath    |             99.52 |        9 |             50.08 | Nathan Doak        |
+| Ross Byrne      |             95    |       10 |             79.6  | Aidan Morgan       |
+| Andrew Osborne  |             74.62 |       11 |             60.46 | Mike Lowry         |
+| Charlie Tector  |             40.77 |       12 |            100    | Jude Postlethwaite |
+| Liam Turner     |             79.79 |       13 |             63.18 | Ben Carson         |
+| Jordan Larmour  |             86.48 |       14 |             76.53 | Werner Kok         |
+| Jimmy O'Brien   |             94.83 |       15 |             98.59 | Stewart Moore      |
+| Lee Barron      |             74.16 |       16 |              2.75 | Tom Stewart        |
+| Michael Milne   |             68.8  |       17 |             61.3  | Andrew Warwick     |
+| Rory Mcguire    |            nan    |       18 |             13.1  | Corrie Barrett     |
+| RG Snyman       |             99.82 |       19 |             83.61 | Harry Sheridan     |
+| James Culhane   |             74.81 |       20 |             95.08 | Marcus Rea         |
 | Fintan Gunne    |            nan    |       21 |             96.33 | John Cooney        |
-| Harry Byrne     |             90.38 |       22 |            nan    | James Humphreys    |
-| Scott Penny     |             89.01 |       23 |            nan    | Ben Moxham         |
+| Harry Byrne     |             90.6  |       22 |            nan    | James Humphreys    |
+| Scott Penny     |             88.93 |       23 |            nan    | Ben Moxham         |
 

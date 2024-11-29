@@ -1,6 +1,6 @@
 ---  
 title: "Developmental International 2024 Status"  
-date: 2024-11-28 6:00:00 -0500  
+date: 2024-11-29 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -26,9 +26,9 @@ aside:
 |      9 | Venezuela              |  1326.33 |
 |     10 | Mexico                 |  1316.79 |
 |     11 | Sri Lanka              |  1313.36 |
-|     12 | Malta                  |  1298.18 |
-|     13 | Moldova                |  1266.49 |
-|     14 | Zimbabwe               |  1259.66 |
+|     12 | Zimbabwe               |  1298.62 |
+|     13 | Malta                  |  1298.18 |
+|     14 | Moldova                |  1266.49 |
 |     15 | Luxembourg             |  1227.11 |
 |     16 | Barbados               |  1186.85 |
 |     17 | Chile                  |  1166.69 |
@@ -92,7 +92,7 @@ aside:
 | ------ | ------ | ------ |
 | Club Level | 67.1% | 27.1 |
 | Player Level: Lineup | 100.0% | 20.9 |
-| Player Level: Minutes | 80.0% | 22.6 |
+| Player Level: Minutes | 80.0% | 22.0 |
 
 
 # Future Predictions

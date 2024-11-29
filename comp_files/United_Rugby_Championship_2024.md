@@ -1,6 +1,6 @@
 ---  
 title: "United Rugby Championship 2024 Status"  
-date: 2024-11-28 6:00:00 -0500  
+date: 2024-11-29 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -41,22 +41,22 @@ aside:
 
 | Club             |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Leinster         |                  12 |   10.2 |            138.311   |                   1.1 |                6.4 |                 48.3 |
-| Bulls            |                  13 |    8.9 |             83.2599  |                   2.7 |                7   |                 45.1 |
-| Glasgow Warriors |                  12 |    9.3 |             95.2285  |                   1.5 |                5.9 |                 44.6 |
-| Lions            |                  12 |    7.1 |             27.9173  |                   2.6 |                6.6 |                 37.6 |
-| Stormers         |                  13 |    7.7 |             34.1305  |                   2.7 |                3.7 |                 37.2 |
-| Munster          |                  12 |    7.5 |             36.894   |                   2.6 |                3.9 |                 36.6 |
-| Edinburgh        |                  12 |    7   |             34.7506  |                   2.7 |                3.4 |                 34.2 |
-| Ospreys          |                  12 |    6.4 |              7.09188 |                   2.6 |                3.7 |                 31.9 |
-| Ulster           |                  12 |    6.3 |             12.4681  |                   2.9 |                3.4 |                 31.5 |
-| Benetton Treviso |                  12 |    5.5 |             -1.54945 |                   3.5 |                3.3 |                 28.8 |
-| Sharks           |                  12 |    5.1 |            -13.9798  |                   3.4 |                3.5 |                 27.5 |
-| Connacht         |                  12 |    5.3 |            -22.8812  |                   3.1 |                2.7 |                 27.1 |
-| Cardiff Blues    |                  12 |    3.4 |            -76.4562  |                   3.1 |                2.9 |                 19.8 |
-| Scarlets         |                  12 |    3.1 |            -82.9562  |                   3   |                2.1 |                 17.6 |
-| Dragons          |                  12 |    2.2 |           -121.547   |                   2.8 |                1.6 |                 13.1 |
-| Zebre            |                  12 |    1.9 |           -150.682   |                   2.2 |                1.7 |                 11.4 |
+| Leinster         |                  12 |   10.2 |            136.567   |                   1.1 |                6.4 |                 48.2 |
+| Bulls            |                  13 |    8.9 |             82.3927  |                   2.5 |                7   |                 45.1 |
+| Glasgow Warriors |                  12 |    9.3 |             94.0375  |                   1.5 |                5.9 |                 44.4 |
+| Lions            |                  12 |    7.1 |             25.7267  |                   2.6 |                6.5 |                 37.5 |
+| Stormers         |                  13 |    7.7 |             34.595   |                   2.8 |                3.6 |                 37.1 |
+| Munster          |                  12 |    7.5 |             40.7221  |                   2.6 |                3.9 |                 36.6 |
+| Edinburgh        |                  12 |    7.1 |             35.6598  |                   2.6 |                3.4 |                 34.6 |
+| Ospreys          |                  12 |    6.3 |              7.08566 |                   2.6 |                3.7 |                 31.6 |
+| Ulster           |                  12 |    6.2 |             10.1396  |                   2.9 |                3.5 |                 31.2 |
+| Benetton Treviso |                  12 |    5.5 |             -4.5717  |                   3.4 |                3.2 |                 28.5 |
+| Connacht         |                  12 |    5.4 |            -19.7102  |                   3.1 |                2.8 |                 27.5 |
+| Sharks           |                  12 |    5.1 |            -14.7574  |                   3.4 |                3.5 |                 27.4 |
+| Cardiff Blues    |                  12 |    3.4 |            -78.4352  |                   3.1 |                2.9 |                 19.8 |
+| Scarlets         |                  12 |    3.2 |            -82.078   |                   2.9 |                2.1 |                 17.9 |
+| Dragons          |                  12 |    2.2 |           -118.372   |                   2.8 |                1.7 |                 13.2 |
+| Zebre            |                  12 |    1.8 |           -149.002   |                   2.2 |                1.8 |                 11.4 |
 
 
 
@@ -65,22 +65,22 @@ aside:
 
 | Club             |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Leinster         |              18 |   16.2 |            251.311   |                   1.1 |               11.4 |                 77.3 |
-| Glasgow Warriors |              18 |   13.3 |            179.228   |                   3.5 |               10.9 |                 67.6 |
-| Bulls            |              18 |   12.9 |            126.26    |                   3.7 |                9   |                 64.1 |
-| Lions            |              17 |   11.1 |             61.9173  |                   2.6 |                8.6 |                 55.6 |
-| Munster          |              18 |    9.5 |              6.89403 |                   2.6 |                7.9 |                 48.6 |
-| Ulster           |              18 |    9.3 |              1.46815 |                   3.9 |                6.4 |                 47.5 |
-| Edinburgh        |              18 |    9   |             33.7506  |                   4.7 |                6.4 |                 47.2 |
-| Stormers         |              18 |    9.7 |             25.1305  |                   2.7 |                5.7 |                 47.2 |
-| Connacht         |              18 |    8.3 |            -19.8812  |                   5.1 |                6.7 |                 45.1 |
-| Sharks           |              17 |    8.1 |            -23.9798  |                   4.4 |                5.5 |                 42.5 |
-| Ospreys          |              18 |    8.4 |            -29.9081  |                   3.6 |                4.7 |                 41.9 |
-| Benetton Treviso |              18 |    7.5 |            -27.5494  |                   4.5 |                5.3 |                 41.8 |
-| Cardiff Blues    |              18 |    6.4 |           -101.456   |                   4.1 |                5.9 |                 35.8 |
-| Scarlets         |              18 |    6.1 |            -63.9562  |                   4   |                3.1 |                 33.6 |
-| Dragons          |              18 |    3.2 |           -188.547   |                   4.8 |                2.6 |                 20.1 |
-| Zebre            |              18 |    2.9 |           -230.682   |                   4.2 |                2.7 |                 18.4 |
+| Leinster         |              18 |   16.2 |           249.567    |                   1.1 |               11.4 |                 77.2 |
+| Glasgow Warriors |              18 |   13.3 |           178.038    |                   3.5 |               10.9 |                 67.4 |
+| Bulls            |              18 |   12.9 |           125.393    |                   3.5 |                9   |                 64.1 |
+| Lions            |              17 |   11.1 |            59.7267   |                   2.6 |                8.5 |                 55.5 |
+| Munster          |              18 |    9.5 |            10.7221   |                   2.6 |                7.9 |                 48.6 |
+| Edinburgh        |              18 |    9.1 |            34.6598   |                   4.6 |                6.4 |                 47.6 |
+| Ulster           |              18 |    9.2 |            -0.860365 |                   3.9 |                6.5 |                 47.2 |
+| Stormers         |              18 |    9.7 |            25.595    |                   2.8 |                5.6 |                 47.1 |
+| Connacht         |              18 |    8.4 |           -16.7102   |                   5.1 |                6.8 |                 45.5 |
+| Sharks           |              17 |    8.1 |           -24.7574   |                   4.4 |                5.5 |                 42.4 |
+| Ospreys          |              18 |    8.3 |           -29.9143   |                   3.6 |                4.7 |                 41.6 |
+| Benetton Treviso |              18 |    7.5 |           -30.5717   |                   4.4 |                5.2 |                 41.5 |
+| Cardiff Blues    |              18 |    6.4 |          -103.435    |                   4.1 |                5.9 |                 35.8 |
+| Scarlets         |              18 |    6.2 |           -63.078    |                   3.9 |                3.1 |                 33.9 |
+| Dragons          |              18 |    3.2 |          -185.372    |                   4.8 |                2.7 |                 20.2 |
+| Zebre            |              18 |    2.8 |          -229.002    |                   4.2 |                2.8 |                 18.4 |
 
 
 
@@ -90,8 +90,8 @@ aside:
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
 | Club Level | 78.3% | 10.7 |
-| Player Level: Lineup | 65.3% | 13.4 |
-| Player Level: Minutes | 65.2% | 24.7 |
+| Player Level: Lineup | 59.3% | 13.3 |
+| Player Level: Minutes | 65.2% | 24.6 |
 
 
 # Future Predictions
@@ -101,7 +101,7 @@ aside:
 ### Glasgow Warriors V Scarlets on 2024/11/29
 
 
-Average Margin: Glasgow Warriors by 16.2
+Average Margin: Glasgow Warriors by 16.4
 
 Average Scoreline: 33-17
 
@@ -114,7 +114,7 @@ Average Scoreline: 33-17
 ### Ulster V Leinster on 2024/11/29
 
 
-Average Margin: Leinster by 6.6
+Average Margin: Leinster by 6.9
 
 Average Scoreline: 33-27
 
@@ -127,9 +127,9 @@ Average Scoreline: 33-27
 ### Munster V Lions on 2024/11/30
 
 
-Average Margin: Munster by 3.8
+Average Margin: Munster by 5.0
 
-Average Scoreline: 32-28
+Average Scoreline: 33-28
 
 <p float="left">
 <img src="plots/performances_2024-11-30-Munster_V_Lions.png" width="32%" />
@@ -140,9 +140,9 @@ Average Scoreline: 32-28
 ### Zebre V Ospreys on 2024/11/30
 
 
-Average Margin: Ospreys by 7.2
+Average Margin: Ospreys by 7.6
 
-Average Scoreline: 34-27
+Average Scoreline: 35-27
 
 <p float="left">
 <img src="plots/performances_2024-11-30-Zebre_V_Ospreys.png" width="32%" />
@@ -153,7 +153,7 @@ Average Scoreline: 34-27
 ### Sharks V Stormers on 2024/11/30
 
 
-Average Margin: Sharks by 0.6
+Average Margin: Sharks by 0.7
 
 Average Scoreline: 27-27
 
@@ -166,7 +166,7 @@ Average Scoreline: 27-27
 ### Cardiff Blues V Dragons on 2024/11/30
 
 
-Average Margin: Cardiff Blues by 9.4
+Average Margin: Cardiff Blues by 9.8
 
 Average Scoreline: 32-22
 
@@ -179,7 +179,7 @@ Average Scoreline: 32-22
 ### Connacht V Bulls on 2024/11/30
 
 
-Average Margin: Bulls by 3.8
+Average Margin: Bulls by 3.4
 
 Average Scoreline: 32-28
 
@@ -192,7 +192,7 @@ Average Scoreline: 32-28
 ### Edinburgh V Benetton Treviso on 2024/11/30
 
 
-Average Margin: Edinburgh by 5.9
+Average Margin: Edinburgh by 6.6
 
 Average Scoreline: 29-23
 
@@ -207,7 +207,7 @@ Average Scoreline: 29-23
 ### Stormers V Lions on 2024/12/21
 
 
-Average Margin: Stormers by 3.8
+Average Margin: Stormers by 3.5
 
 Average Scoreline: 33-29
 
@@ -220,7 +220,7 @@ Average Scoreline: 33-29
 ### Leinster V Connacht on 2024/12/21
 
 
-Average Margin: Leinster by 15.2
+Average Margin: Leinster by 15.4
 
 Average Scoreline: 33-18
 
@@ -233,9 +233,9 @@ Average Scoreline: 33-18
 ### Benetton Treviso V Zebre on 2024/12/21
 
 
-Average Margin: Benetton Treviso by 15.2
+Average Margin: Benetton Treviso by 14.4
 
-Average Scoreline: 34-19
+Average Scoreline: 33-19
 
 <p float="left">
 <img src="plots/performances_2024-12-21-BenettonTreviso_V_Zebre.png" width="32%" />
@@ -246,7 +246,7 @@ Average Scoreline: 34-19
 ### Sharks V Bulls on 2024/12/21
 
 
-Average Margin: Bulls by 3.6
+Average Margin: Bulls by 3.7
 
 Average Scoreline: 32-28
 
@@ -259,9 +259,9 @@ Average Scoreline: 32-28
 ### Glasgow Warriors V Edinburgh on 2024/12/21
 
 
-Average Margin: Glasgow Warriors by 10.8
+Average Margin: Glasgow Warriors by 10.2
 
-Average Scoreline: 27-16
+Average Scoreline: 27-17
 
 <p float="left">
 <img src="plots/performances_2024-12-21-GlasgowWarriors_V_Edinburgh.png" width="32%" />
@@ -272,7 +272,7 @@ Average Scoreline: 27-16
 ### Ulster V Munster on 2024/12/21
 
 
-Average Margin: Ulster by 1.5
+Average Margin: Ulster by 2.2
 
 Average Scoreline: 29-27
 
@@ -287,9 +287,9 @@ Average Scoreline: 29-27
 ### Dragons V Cardiff Blues on 2024/12/26
 
 
-Average Margin: Cardiff Blues by 1.7
+Average Margin: Cardiff Blues by 1.1
 
-Average Scoreline: 30-28
+Average Scoreline: 29-28
 
 <p float="left">
 <img src="plots/performances_2024-12-26-Dragons_V_CardiffBlues.png" width="32%" />
@@ -313,9 +313,9 @@ Average Scoreline: 32-24
 ### Munster V Leinster on 2024/12/28
 
 
-Average Margin: Leinster by 5.6
+Average Margin: Leinster by 4.5
 
-Average Scoreline: 29-23
+Average Scoreline: 29-24
 
 <p float="left">
 <img src="plots/performances_2024-12-28-Munster_V_Leinster.png" width="32%" />
@@ -339,7 +339,7 @@ Average Scoreline: 33-24
 ### Stormers V Sharks on 2024/12/28
 
 
-Average Margin: Stormers by 6.9
+Average Margin: Stormers by 7.4
 
 Average Scoreline: 29-22
 
@@ -352,9 +352,9 @@ Average Scoreline: 29-22
 ### Bulls V Lions on 2024/12/28
 
 
-Average Margin: Bulls by 7.4
+Average Margin: Bulls by 8.3
 
-Average Scoreline: 33-26
+Average Scoreline: 34-25
 
 <p float="left">
 <img src="plots/performances_2024-12-28-Bulls_V_Lions.png" width="32%" />
@@ -365,9 +365,9 @@ Average Scoreline: 33-26
 ### Edinburgh V Glasgow Warriors on 2024/12/28
 
 
-Average Margin: Glasgow Warriors by 2.9
+Average Margin: Glasgow Warriors by 2.3
 
-Average Scoreline: 26-23
+Average Scoreline: 25-23
 
 <p float="left">
 <img src="plots/performances_2024-12-28-Edinburgh_V_GlasgowWarriors.png" width="32%" />
@@ -378,7 +378,7 @@ Average Scoreline: 26-23
 ### Connacht V Ulster on 2024/12/28
 
 
-Average Margin: Connacht by 1.8
+Average Margin: Connacht by 2.2
 
 Average Scoreline: 30-28
 
@@ -393,7 +393,7 @@ Average Scoreline: 30-28
 ### Scarlets V Dragons on 2025/01/01
 
 
-Average Margin: Scarlets by 9.4
+Average Margin: Scarlets by 9.1
 
 Average Scoreline: 31-22
 
@@ -434,7 +434,7 @@ Average Scoreline: 31-20
 ### Ospreys V Benetton Treviso on 2025/01/24
 
 
-Average Margin: Ospreys by 2.7
+Average Margin: Ospreys by 3.1
 
 Average Scoreline: 31-28
 
@@ -447,7 +447,7 @@ Average Scoreline: 31-28
 ### Scarlets V Edinburgh on 2025/01/25
 
 
-Average Margin: Edinburgh by 3.8
+Average Margin: Edinburgh by 3.9
 
 Average Scoreline: 30-26
 
@@ -460,7 +460,7 @@ Average Scoreline: 30-26
 ### Lions V Bulls on 2025/01/25
 
 
-Average Margin: Bulls by 0.3
+Average Margin: Bulls by 0.7
 
 Average Scoreline: 31-30
 
@@ -473,9 +473,9 @@ Average Scoreline: 31-30
 ### Cardiff Blues V Sharks on 2025/01/25
 
 
-Average Margin: Sharks by 2.6
+Average Margin: Sharks by 2.1
 
-Average Scoreline: 29-26
+Average Scoreline: 28-26
 
 <p float="left">
 <img src="plots/performances_2025-01-25-CardiffBlues_V_Sharks.png" width="32%" />
@@ -486,9 +486,9 @@ Average Scoreline: 29-26
 ### Dragons V Munster on 2025/01/25
 
 
-Average Margin: Munster by 10.9
+Average Margin: Munster by 10.0
 
-Average Scoreline: 33-22
+Average Scoreline: 33-23
 
 <p float="left">
 <img src="plots/performances_2025-01-25-Dragons_V_Munster.png" width="32%" />
@@ -499,7 +499,7 @@ Average Scoreline: 33-22
 ### Leinster V Stormers on 2025/01/25
 
 
-Average Margin: Leinster by 12.3
+Average Margin: Leinster by 12.1
 
 Average Scoreline: 28-16
 
@@ -512,9 +512,9 @@ Average Scoreline: 28-16
 ### Ulster V Zebre on 2025/01/26
 
 
-Average Margin: Ulster by 15.7
+Average Margin: Ulster by 15.9
 
-Average Scoreline: 34-19
+Average Scoreline: 34-18
 
 <p float="left">
 <img src="plots/performances_2025-01-26-Ulster_V_Zebre.png" width="32%" />
@@ -527,7 +527,7 @@ Average Scoreline: 34-19
 ### Stormers V Bulls on 2025/02/01
 
 
-Average Margin: Stormers by 0.3
+Average Margin: Bulls by 0.1
 
 Average Scoreline: 27-27
 
@@ -542,7 +542,7 @@ Average Scoreline: 27-27
 ### Ospreys V Leinster on 2025/02/14
 
 
-Average Margin: Leinster by 10.5
+Average Margin: Leinster by 9.5
 
 Average Scoreline: 34-24
 
@@ -555,9 +555,9 @@ Average Scoreline: 34-24
 ### Edinburgh V Zebre on 2025/02/14
 
 
-Average Margin: Edinburgh by 16.0
+Average Margin: Edinburgh by 15.5
 
-Average Scoreline: 35-19
+Average Scoreline: 35-20
 
 <p float="left">
 <img src="plots/performances_2025-02-14-Edinburgh_V_Zebre.png" width="32%" />
@@ -568,9 +568,9 @@ Average Scoreline: 35-19
 ### Munster V Scarlets on 2025/02/15
 
 
-Average Margin: Munster by 12.3
+Average Margin: Munster by 13.3
 
-Average Scoreline: 30-18
+Average Scoreline: 31-17
 
 <p float="left">
 <img src="plots/performances_2025-02-15-Munster_V_Scarlets.png" width="32%" />
@@ -581,9 +581,9 @@ Average Scoreline: 30-18
 ### Connacht V Cardiff Blues on 2025/02/15
 
 
-Average Margin: Connacht by 9.4
+Average Margin: Connacht by 9.9
 
-Average Scoreline: 32-23
+Average Scoreline: 32-22
 
 <p float="left">
 <img src="plots/performances_2025-02-15-Connacht_V_CardiffBlues.png" width="32%" />
@@ -594,7 +594,7 @@ Average Scoreline: 32-23
 ### Dragons V Glasgow Warriors on 2025/02/15
 
 
-Average Margin: Glasgow Warriors by 13.6
+Average Margin: Glasgow Warriors by 13.5
 
 Average Scoreline: 36-23
 
@@ -607,9 +607,9 @@ Average Scoreline: 36-23
 ### Benetton Treviso V Ulster on 2025/02/15
 
 
-Average Margin: Benetton Treviso by 1.8
+Average Margin: Benetton Treviso by 2.4
 
-Average Scoreline: 29-27
+Average Scoreline: 30-27
 
 <p float="left">
 <img src="plots/performances_2025-02-15-BenettonTreviso_V_Ulster.png" width="32%" />
@@ -620,7 +620,7 @@ Average Scoreline: 29-27
 ### Lions V Stormers on 2025/02/15
 
 
-Average Margin: Lions by 4.0
+Average Margin: Lions by 4.1
 
 Average Scoreline: 34-30
 
@@ -633,9 +633,9 @@ Average Scoreline: 34-30
 ### Bulls V Sharks on 2025/02/15
 
 
-Average Margin: Bulls by 10.1
+Average Margin: Bulls by 10.6
 
-Average Scoreline: 40-30
+Average Scoreline: 40-29
 
 <p float="left">
 <img src="plots/performances_2025-02-15-Bulls_V_Sharks.png" width="32%" />
@@ -661,7 +661,7 @@ Average Scoreline: 26-20
 ### Zebre V Dragons on 2025/02/28
 
 
-Average Margin: Zebre by 2.8
+Average Margin: Zebre by 3.2
 
 Average Scoreline: 29-26
 
@@ -674,7 +674,7 @@ Average Scoreline: 29-26
 ### Connacht V Benetton Treviso on 2025/03/01
 
 
-Average Margin: Connacht by 4.1
+Average Margin: Connacht by 4.0
 
 Average Scoreline: 30-26
 
@@ -687,7 +687,7 @@ Average Scoreline: 30-26
 ### Lions V Sharks on 2025/03/01
 
 
-Average Margin: Lions by 7.0
+Average Margin: Lions by 6.8
 
 Average Scoreline: 35-28
 
@@ -700,7 +700,7 @@ Average Scoreline: 35-28
 ### Bulls V Stormers on 2025/03/01
 
 
-Average Margin: Bulls by 7.8
+Average Margin: Bulls by 7.6
 
 Average Scoreline: 37-30
 
@@ -713,9 +713,9 @@ Average Scoreline: 37-30
 ### Leinster V Cardiff Blues on 2025/03/01
 
 
-Average Margin: Leinster by 19.6
+Average Margin: Leinster by 20.8
 
-Average Scoreline: 38-18
+Average Scoreline: 38-17
 
 <p float="left">
 <img src="plots/performances_2025-03-01-Leinster_V_CardiffBlues.png" width="32%" />
@@ -726,7 +726,7 @@ Average Scoreline: 38-18
 ### Glasgow Warriors V Ospreys on 2025/03/01
 
 
-Average Margin: Glasgow Warriors by 12.0
+Average Margin: Glasgow Warriors by 11.8
 
 Average Scoreline: 32-20
 
@@ -739,9 +739,9 @@ Average Scoreline: 32-20
 ### Ulster V Scarlets on 2025/03/01
 
 
-Average Margin: Ulster by 11.4
+Average Margin: Ulster by 10.8
 
-Average Scoreline: 33-21
+Average Scoreline: 32-22
 
 <p float="left">
 <img src="plots/performances_2025-03-01-Ulster_V_Scarlets.png" width="32%" />
@@ -754,7 +754,7 @@ Average Scoreline: 33-21
 ### Glasgow Warriors V Munster on 2025/03/21
 
 
-Average Margin: Glasgow Warriors by 7.6
+Average Margin: Glasgow Warriors by 7.5
 
 Average Scoreline: 30-22
 
@@ -767,7 +767,7 @@ Average Scoreline: 30-22
 ### Cardiff Blues V Lions on 2025/03/21
 
 
-Average Margin: Lions by 5.2
+Average Margin: Lions by 5.1
 
 Average Scoreline: 34-29
 
@@ -780,7 +780,7 @@ Average Scoreline: 34-29
 ### Ospreys V Connacht on 2025/03/22
 
 
-Average Margin: Ospreys by 2.8
+Average Margin: Ospreys by 2.3
 
 Average Scoreline: 30-27
 
@@ -793,7 +793,7 @@ Average Scoreline: 30-27
 ### Scarlets V Stormers on 2025/03/22
 
 
-Average Margin: Stormers by 5.5
+Average Margin: Stormers by 5.8
 
 Average Scoreline: 31-25
 
@@ -806,9 +806,9 @@ Average Scoreline: 31-25
 ### Bulls V Leinster on 2025/03/22
 
 
-Average Margin: Leinster by 0.8
+Average Margin: Leinster by 2.2
 
-Average Scoreline: 27-27
+Average Scoreline: 28-26
 
 <p float="left">
 <img src="plots/performances_2025-03-22-Bulls_V_Leinster.png" width="32%" />
@@ -819,7 +819,7 @@ Average Scoreline: 27-27
 ### Benetton Treviso V Edinburgh on 2025/03/22
 
 
-Average Margin: Benetton Treviso by 2.2
+Average Margin: Benetton Treviso by 1.5
 
 Average Scoreline: 27-25
 
@@ -845,7 +845,7 @@ Average Scoreline: 37-22
 ### Dragons V Ulster on 2025/03/22
 
 
-Average Margin: Ulster by 8.2
+Average Margin: Ulster by 8.6
 
 Average Scoreline: 33-25
 
@@ -860,9 +860,9 @@ Average Scoreline: 33-25
 ### Edinburgh V Dragons on 2025/03/28
 
 
-Average Margin: Edinburgh by 15.4
+Average Margin: Edinburgh by 14.5
 
-Average Scoreline: 34-19
+Average Scoreline: 33-19
 
 <p float="left">
 <img src="plots/performances_2025-03-28-Edinburgh_V_Dragons.png" width="32%" />
@@ -873,7 +873,7 @@ Average Scoreline: 34-19
 ### Ulster V Stormers on 2025/03/28
 
 
-Average Margin: Ulster by 2.3
+Average Margin: Ulster by 2.0
 
 Average Scoreline: 30-28
 
@@ -886,9 +886,9 @@ Average Scoreline: 30-28
 ### Sharks V Leinster on 2025/03/29
 
 
-Average Margin: Leinster by 8.3
+Average Margin: Leinster by 7.9
 
-Average Scoreline: 34-25
+Average Scoreline: 33-26
 
 <p float="left">
 <img src="plots/performances_2025-03-29-Sharks_V_Leinster.png" width="32%" />
@@ -899,7 +899,7 @@ Average Scoreline: 34-25
 ### Scarlets V Ospreys on 2025/03/29
 
 
-Average Margin: Ospreys by 0.8
+Average Margin: Ospreys by 0.1
 
 Average Scoreline: 28-27
 
@@ -912,9 +912,9 @@ Average Scoreline: 28-27
 ### Bulls V Zebre on 2025/03/29
 
 
-Average Margin: Bulls by 21.0
+Average Margin: Bulls by 20.7
 
-Average Scoreline: 42-21
+Average Scoreline: 42-22
 
 <p float="left">
 <img src="plots/performances_2025-03-29-Bulls_V_Zebre.png" width="32%" />
@@ -925,9 +925,9 @@ Average Scoreline: 42-21
 ### Glasgow Warriors V Lions on 2025/03/29
 
 
-Average Margin: Glasgow Warriors by 7.7
+Average Margin: Glasgow Warriors by 7.3
 
-Average Scoreline: 33-25
+Average Scoreline: 33-26
 
 <p float="left">
 <img src="plots/performances_2025-03-29-GlasgowWarriors_V_Lions.png" width="32%" />
@@ -938,7 +938,7 @@ Average Scoreline: 33-25
 ### Benetton Treviso V Cardiff Blues on 2025/03/29
 
 
-Average Margin: Benetton Treviso by 9.0
+Average Margin: Benetton Treviso by 9.1
 
 Average Scoreline: 30-21
 
@@ -966,9 +966,9 @@ Average Scoreline: 28-27
 ### Edinburgh V Sharks on 2025/04/18
 
 
-Average Margin: Edinburgh by 5.2
+Average Margin: Edinburgh by 5.3
 
-Average Scoreline: 28-23
+Average Scoreline: 29-23
 
 <p float="left">
 <img src="plots/performances_2025-04-18-Edinburgh_V_Sharks.png" width="32%" />
@@ -979,7 +979,7 @@ Average Scoreline: 28-23
 ### Lions V Benetton Treviso on 2025/04/19
 
 
-Average Margin: Lions by 7.3
+Average Margin: Lions by 7.6
 
 Average Scoreline: 38-30
 
@@ -992,9 +992,9 @@ Average Scoreline: 38-30
 ### Munster V Bulls on 2025/04/19
 
 
-Average Margin: Bulls by 0.0
+Average Margin: Munster by 1.1
 
-Average Scoreline: 32-32
+Average Scoreline: 32-31
 
 <p float="left">
 <img src="plots/performances_2025-04-19-Munster_V_Bulls.png" width="32%" />
@@ -1005,9 +1005,9 @@ Average Scoreline: 32-32
 ### Ospreys V Cardiff Blues on 2025/04/19
 
 
-Average Margin: Ospreys by 8.1
+Average Margin: Ospreys by 8.5
 
-Average Scoreline: 32-24
+Average Scoreline: 32-23
 
 <p float="left">
 <img src="plots/performances_2025-04-19-Ospreys_V_CardiffBlues.png" width="32%" />
@@ -1018,7 +1018,7 @@ Average Scoreline: 32-24
 ### Leinster V Ulster on 2025/04/19
 
 
-Average Margin: Leinster by 13.1
+Average Margin: Leinster by 13.2
 
 Average Scoreline: 34-21
 
@@ -1031,7 +1031,7 @@ Average Scoreline: 34-21
 ### Dragons V Scarlets on 2025/04/19
 
 
-Average Margin: Scarlets by 1.1
+Average Margin: Scarlets by 1.0
 
 Average Scoreline: 28-27
 
@@ -1044,7 +1044,7 @@ Average Scoreline: 28-27
 ### Stormers V Connacht on 2025/04/19
 
 
-Average Margin: Stormers by 7.8
+Average Margin: Stormers by 7.6
 
 Average Scoreline: 31-23
 
@@ -1057,7 +1057,7 @@ Average Scoreline: 31-23
 ### Zebre V Glasgow Warriors on 2025/04/19
 
 
-Average Margin: Glasgow Warriors by 14.4
+Average Margin: Glasgow Warriors by 14.5
 
 Average Scoreline: 37-22
 
@@ -1072,9 +1072,9 @@ Average Scoreline: 37-22
 ### Glasgow Warriors V Bulls on 2025/04/25
 
 
-Average Margin: Glasgow Warriors by 4.0
+Average Margin: Glasgow Warriors by 3.7
 
-Average Scoreline: 31-27
+Average Scoreline: 31-28
 
 <p float="left">
 <img src="plots/performances_2025-04-25-GlasgowWarriors_V_Bulls.png" width="32%" />
@@ -1085,9 +1085,9 @@ Average Scoreline: 31-27
 ### Cardiff Blues V Munster on 2025/04/25
 
 
-Average Margin: Munster by 5.9
+Average Margin: Munster by 5.5
 
-Average Scoreline: 29-23
+Average Scoreline: 29-24
 
 <p float="left">
 <img src="plots/performances_2025-04-25-CardiffBlues_V_Munster.png" width="32%" />
@@ -1098,7 +1098,7 @@ Average Scoreline: 29-23
 ### Scarlets V Leinster on 2025/04/26
 
 
-Average Margin: Leinster by 12.9
+Average Margin: Leinster by 12.7
 
 Average Scoreline: 36-23
 
@@ -1111,7 +1111,7 @@ Average Scoreline: 36-23
 ### Lions V Connacht on 2025/04/26
 
 
-Average Margin: Lions by 6.8
+Average Margin: Lions by 6.4
 
 Average Scoreline: 36-29
 
@@ -1124,9 +1124,9 @@ Average Scoreline: 36-29
 ### Ulster V Sharks on 2025/04/26
 
 
-Average Margin: Ulster by 5.2
+Average Margin: Ulster by 5.1
 
-Average Scoreline: 27-21
+Average Scoreline: 26-21
 
 <p float="left">
 <img src="plots/performances_2025-04-26-Ulster_V_Sharks.png" width="32%" />
@@ -1137,9 +1137,9 @@ Average Scoreline: 27-21
 ### Stormers V Benetton Treviso on 2025/04/26
 
 
-Average Margin: Stormers by 7.2
+Average Margin: Stormers by 7.8
 
-Average Scoreline: 30-23
+Average Scoreline: 30-22
 
 <p float="left">
 <img src="plots/performances_2025-04-26-Stormers_V_BenettonTreviso.png" width="32%" />
@@ -1150,7 +1150,7 @@ Average Scoreline: 30-23
 ### Ospreys V Dragons on 2025/04/26
 
 
-Average Margin: Ospreys by 12.3
+Average Margin: Ospreys by 12.0
 
 Average Scoreline: 31-19
 
@@ -1163,7 +1163,7 @@ Average Scoreline: 31-19
 ### Zebre V Edinburgh on 2025/04/26
 
 
-Average Margin: Edinburgh by 9.4
+Average Margin: Edinburgh by 8.7
 
 Average Scoreline: 31-22
 
@@ -1178,9 +1178,9 @@ Average Scoreline: 31-22
 ### Sharks V Ospreys on 2025/05/09
 
 
-Average Margin: Sharks by 4.8
+Average Margin: Sharks by 5.8
 
-Average Scoreline: 36-31
+Average Scoreline: 36-30
 
 <p float="left">
 <img src="plots/performances_2025-05-09-Sharks_V_Ospreys.png" width="32%" />
@@ -1191,9 +1191,9 @@ Average Scoreline: 36-31
 ### Munster V Ulster on 2025/05/09
 
 
-Average Margin: Munster by 5.5
+Average Margin: Munster by 6.1
 
-Average Scoreline: 30-25
+Average Scoreline: 30-24
 
 <p float="left">
 <img src="plots/performances_2025-05-09-Munster_V_Ulster.png" width="32%" />
@@ -1204,9 +1204,9 @@ Average Scoreline: 30-25
 ### Stormers V Dragons on 2025/05/10
 
 
-Average Margin: Stormers by 17.3
+Average Margin: Stormers by 16.1
 
-Average Scoreline: 35-17
+Average Scoreline: 34-18
 
 <p float="left">
 <img src="plots/performances_2025-05-10-Stormers_V_Dragons.png" width="32%" />
@@ -1230,7 +1230,7 @@ Average Scoreline: 44-29
 ### Benetton Treviso V Glasgow Warriors on 2025/05/10
 
 
-Average Margin: Glasgow Warriors by 3.9
+Average Margin: Glasgow Warriors by 3.4
 
 Average Scoreline: 31-28
 
@@ -1243,7 +1243,7 @@ Average Scoreline: 31-28
 ### Leinster V Zebre on 2025/05/10
 
 
-Average Margin: Leinster by 24.2
+Average Margin: Leinster by 23.7
 
 Average Scoreline: 38-14
 
@@ -1256,7 +1256,7 @@ Average Scoreline: 38-14
 ### Connacht V Edinburgh on 2025/05/10
 
 
-Average Margin: Connacht by 1.9
+Average Margin: Connacht by 2.2
 
 Average Scoreline: 27-25
 
@@ -1269,7 +1269,7 @@ Average Scoreline: 27-25
 ### Lions V Scarlets on 2025/05/11
 
 
-Average Margin: Lions by 12.1
+Average Margin: Lions by 11.8
 
 Average Scoreline: 40-28
 
@@ -1284,9 +1284,9 @@ Average Scoreline: 40-28
 ### Munster V Benetton Treviso on 2025/05/16
 
 
-Average Margin: Munster by 7.2
+Average Margin: Munster by 8.0
 
-Average Scoreline: 30-23
+Average Scoreline: 30-22
 
 <p float="left">
 <img src="plots/performances_2025-05-16-Munster_V_BenettonTreviso.png" width="32%" />
@@ -1297,9 +1297,9 @@ Average Scoreline: 30-23
 ### Stormers V Cardiff Blues on 2025/05/16
 
 
-Average Margin: Stormers by 12.3
+Average Margin: Stormers by 13.0
 
-Average Scoreline: 32-20
+Average Scoreline: 33-20
 
 <p float="left">
 <img src="plots/performances_2025-05-16-Stormers_V_CardiffBlues.png" width="32%" />
@@ -1310,9 +1310,9 @@ Average Scoreline: 32-20
 ### Edinburgh V Ulster on 2025/05/16
 
 
-Average Margin: Edinburgh by 3.0
+Average Margin: Edinburgh by 3.5
 
-Average Scoreline: 27-24
+Average Scoreline: 27-23
 
 <p float="left">
 <img src="plots/performances_2025-05-16-Edinburgh_V_Ulster.png" width="32%" />
@@ -1323,7 +1323,7 @@ Average Scoreline: 27-24
 ### Zebre V Connacht on 2025/05/17
 
 
-Average Margin: Connacht by 7.5
+Average Margin: Connacht by 8.1
 
 Average Scoreline: 33-25
 
@@ -1336,9 +1336,9 @@ Average Scoreline: 33-25
 ### Leinster V Glasgow Warriors on 2025/05/17
 
 
-Average Margin: Leinster by 9.1
+Average Margin: Leinster by 7.8
 
-Average Scoreline: 31-22
+Average Scoreline: 30-22
 
 <p float="left">
 <img src="plots/performances_2025-05-17-Leinster_V_GlasgowWarriors.png" width="32%" />
@@ -1349,9 +1349,9 @@ Average Scoreline: 31-22
 ### Bulls V Dragons on 2025/05/17
 
 
-Average Margin: Bulls by 19.4
+Average Margin: Bulls by 19.5
 
-Average Scoreline: 45-26
+Average Scoreline: 45-25
 
 <p float="left">
 <img src="plots/performances_2025-05-17-Bulls_V_Dragons.png" width="32%" />
@@ -1362,7 +1362,7 @@ Average Scoreline: 45-26
 ### Lions V Ospreys on 2025/05/17
 
 
-Average Margin: Lions by 8.7
+Average Margin: Lions by 8.6
 
 Average Scoreline: 38-30
 
@@ -1375,7 +1375,7 @@ Average Scoreline: 38-30
 ### Sharks V Scarlets on 2025/05/17
 
 
-Average Margin: Sharks by 9.7
+Average Margin: Sharks by 8.9
 
 Average Scoreline: 36-27
 

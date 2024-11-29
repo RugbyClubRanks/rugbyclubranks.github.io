@@ -1,6 +1,6 @@
 ---  
 title: "Rugby Europe Trophy 2024 Status"  
-date: 2024-11-28 6:00:00 -0500  
+date: 2024-11-29 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -30,12 +30,12 @@ aside:
 
 | Club           |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Sweden         |                   2 |    1.8 |             49.1478  |                   0.1 |                1.5 |                  8.9 |
-| Luxembourg     |                   4 |    1.6 |             -8.18676 |                   0.7 |                1.2 |                  8.3 |
-| Czech Republic |                   2 |    1.6 |             22.1843  |                   0.2 |                0.9 |                  7.7 |
-| Croatia        |                   2 |    1.5 |             20.3326  |                   0.3 |                1.2 |                  7.4 |
-| Poland         |                   3 |    0.2 |            -72.9618  |                   0.3 |                0.5 |                  1.7 |
-| Lithuania      |                   1 |    0.2 |            -10.5162  |                   0.2 |                0.3 |                  1.2 |
+| Sweden         |                   2 |    1.8 |             49.2999  |                   0.1 |                1.5 |                  8.9 |
+| Luxembourg     |                   4 |    1.6 |             -7.56409 |                   0.7 |                1.3 |                  8.5 |
+| Czech Republic |                   2 |    1.6 |             22.3479  |                   0.2 |                0.9 |                  7.6 |
+| Croatia        |                   2 |    1.5 |             21.8796  |                   0.3 |                1.2 |                  7.5 |
+| Poland         |                   3 |    0.2 |            -74.7497  |                   0.2 |                0.5 |                  1.7 |
+| Lithuania      |                   1 |    0.2 |            -11.2137  |                   0.2 |                0.3 |                  1.2 |
 
 
 
@@ -44,12 +44,12 @@ aside:
 
 | Club           |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Sweden         |               4 |    3.8 |             82.1478  |                   0.1 |                2.5 |                 17.9 |
-| Czech Republic |               4 |    2.6 |             39.1843  |                   1.2 |                0.9 |                 12.7 |
-| Luxembourg     |               5 |    1.6 |            -35.1868  |                   0.7 |                1.2 |                  8.3 |
-| Croatia        |               3 |    1.5 |             -2.66744 |                   0.3 |                1.2 |                  7.4 |
-| Lithuania      |               3 |    1.2 |            -10.5162  |                   0.2 |                1.3 |                  6.2 |
-| Poland         |               3 |    0.2 |            -72.9618  |                   0.3 |                0.5 |                  1.7 |
+| Sweden         |               4 |    3.8 |             82.2999  |                   0.1 |                2.5 |                 17.9 |
+| Czech Republic |               4 |    2.6 |             39.3479  |                   1.2 |                0.9 |                 12.6 |
+| Luxembourg     |               5 |    1.6 |            -34.5641  |                   0.7 |                1.3 |                  8.5 |
+| Croatia        |               3 |    1.5 |             -1.12039 |                   0.3 |                1.2 |                  7.5 |
+| Lithuania      |               3 |    1.2 |            -11.2137  |                   0.2 |                1.3 |                  6.2 |
+| Poland         |               3 |    0.2 |            -74.7497  |                   0.2 |                0.5 |                  1.7 |
 
 
 
@@ -70,9 +70,9 @@ aside:
 ### Luxembourg V Croatia on 2024/11/30
 
 
-Average Margin: Croatia by 1.7
+Average Margin: Croatia by 2.5
 
-Average Scoreline: 29-28
+Average Scoreline: 30-27
 
 <p float="left">
 <img src="plots/performances_2024-11-30-Luxembourg_V_Croatia.png" width="32%" />
@@ -85,7 +85,7 @@ Average Scoreline: 29-28
 ### Poland V Croatia on 2025/02/22
 
 
-Average Margin: Croatia by 18.7
+Average Margin: Croatia by 19.4
 
 Average Scoreline: 34-15
 
@@ -100,7 +100,7 @@ Average Scoreline: 34-15
 ### Czech Republic V Luxembourg on 2025/03/08
 
 
-Average Margin: Czech Republic by 11.7
+Average Margin: Czech Republic by 11.1
 
 Average Scoreline: 33-21
 
@@ -115,9 +115,9 @@ Average Scoreline: 33-21
 ### Luxembourg V Sweden on 2025/03/29
 
 
-Average Margin: Sweden by 15.8
+Average Margin: Sweden by 14.7
 
-Average Scoreline: 36-20
+Average Scoreline: 36-21
 
 <p float="left">
 <img src="plots/performances_2025-03-29-Luxembourg_V_Sweden.png" width="32%" />
@@ -128,7 +128,7 @@ Average Scoreline: 36-20
 ### Lithuania V Czech Republic on 2025/03/29
 
 
-Average Margin: Czech Republic by 10.5
+Average Margin: Czech Republic by 11.2
 
 Average Scoreline: 32-21
 
@@ -143,7 +143,7 @@ Average Scoreline: 32-21
 ### Luxembourg V Poland on 2025/04/05
 
 
-Average Margin: Luxembourg by 21.0
+Average Margin: Luxembourg by 20.8
 
 Average Scoreline: 28-7
 
@@ -158,9 +158,9 @@ Average Scoreline: 28-7
 ### Sweden V Poland on 2025/04/11
 
 
-Average Margin: Sweden by 33.4
+Average Margin: Sweden by 34.6
 
-Average Scoreline: 41-8
+Average Scoreline: 42-7
 
 <p float="left">
 <img src="plots/performances_2025-04-11-Sweden_V_Poland.png" width="32%" />
