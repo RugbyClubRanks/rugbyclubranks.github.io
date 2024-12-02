@@ -11,7 +11,7 @@ categories: "Pro D2 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.752, which translates to predicting Brive to win by 9.8.
 
-Our Over/Under is 55.5 - and combined with the spread above, we have a predicted scoreline of 23 to 32
+Our Over/Under is 61.5 - and combined with the spread above, we have a predicted scoreline of 26 to 36
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Brive by 11.9
+## Prediction without Player Minutes: Brive by 11.7
 
 
-Montauban by 0.9 on a neutral pitch
+Montauban by 1.2 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Montauban by 0.9 on a neutral pitch
 
 |   Away Minutes | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player               |   Home Minutes |
 |---------------:|:------------------|------------------:|---------:|------------------:|:--------------------------|---------------:|
-|             80 | Lucas Seyrolle    |             46.65 |        1 |             60.04 | Vakh Abdaladze            |             34 |
-|             44 | Ru-Hann Greyling  |             69.11 |        2 |             49.08 | Lucas Da Silva            |             36 |
-|             32 | Luka Azariashvili |             62.47 |        3 |             62.1  | Marcel Van Der Merwe      |             80 |
-|             36 | Tjiuee Uanivi     |             21.79 |        4 |             52.35 | Tevita Ratuva             |             66 |
-|             36 | Kévin Gimeno      |             47.65 |        5 |              6.2  | Konstantin Mikautadze     |             70 |
-|             29 | Fred Quercy       |             63.01 |        6 |             62.48 | Matthieu Voisin           |             80 |
-|             51 | Kyllian Ringuet   |             58.52 |        7 |             97.72 | Courtney Lawes            |             34 |
-|             40 | Sikhumbuzo Notshe |             79.73 |        8 |             57.39 | Rahboni Warren-Vosayaco   |             66 |
-|             80 | Yoan Cottin       |             43.86 |        9 |             62.52 | Léo Carbonneau            |             66 |
-|             44 | Thomas Fortunel   |             41.6  |       10 |             54.8  | Stuart Olding             |             66 |
-|             36 | Josua Vici        |             64.28 |       11 |             61.34 | Erwan Dridi               |             66 |
-|             34 | Jt Jackson        |             62.34 |       12 |             53.67 | Sam Johnson               |             66 |
-|             67 | Maxime Espeut     |             38.89 |       13 |             43.41 | Georges Shvelidze         |             66 |
-|             30 | Stephane Ahmed    |             96.5  |       14 |             59.03 | Asaeli Tuivuaka           |             66 |
-|             46 | Baptiste Mouchous |             59.77 |       15 |             60.55 | Mathis Ferté              |             66 |
-|              0 | Jérémie Maurouard |             69.42 |       16 |            nan    | Benjamin Boudou           |             30 |
-|             46 | Thomas Bué        |            nan    |       17 |            nan    | Nathan Fraissenon         |             30 |
-|             60 | Frank Bradshaw    |             58.02 |       18 |             57.84 | Asier Usarraga Latierro   |             80 |
-|             59 | Noa Kanika        |             61.16 |       19 |            nan    | Retief Marais             |             30 |
-|             46 | Karl Wilkins      |            nan    |       20 |             41    | Taniela Sadrugu           |             30 |
-|             80 | Maël Castel       |            nan    |       21 |             52.31 | Hugo Verdu                |             30 |
-|             40 | Simon Renda       |             48.59 |       22 |            nan    | Timilai Rokoduru          |             40 |
-|             80 | Tietie Tuimauga   |             60.56 |       23 |            nan    | Francisco Coria Marchetti |             34 |
+|             80 | Lucas Seyrolle    |             47.38 |        1 |             59.39 | Vakh Abdaladze            |             34 |
+|             44 | Ru-Hann Greyling  |             70.84 |        2 |             48.16 | Lucas Da Silva            |             34 |
+|             32 | Luka Azariashvili |             61.03 |        3 |             59.39 | Marcel Van Der Merwe      |             34 |
+|             36 | Tjiuee Uanivi     |             22.8  |        4 |             51.02 | Tevita Ratuva             |             34 |
+|             29 | Kévin Gimeno      |             48.22 |        5 |              8.05 | Konstantin Mikautadze     |             40 |
+|             51 | Fred Quercy       |             63.34 |        6 |             62.84 | Matthieu Voisin           |             66 |
+|             40 | Kyllian Ringuet   |             59.63 |        7 |             96.54 | Courtney Lawes            |             80 |
+|             80 | Sikhumbuzo Notshe |             80.11 |        8 |             56.63 | Rahboni Warren-Vosayaco   |             36 |
+|             44 | Yoan Cottin       |             44.95 |        9 |             62.99 | Léo Carbonneau            |             33 |
+|             36 | Thomas Fortunel   |             41.52 |       10 |             53.8  | Stuart Olding             |             33 |
+|             36 | Josua Vici        |             64.56 |       11 |             60.51 | Erwan Dridi               |             47 |
+|              0 | Jt Jackson        |             65.65 |       12 |             55.46 | Sam Johnson               |             80 |
+|             46 | Maxime Espeut     |             40.65 |       13 |             44.07 | Georges Shvelidze         |             56 |
+|             46 | Stephane Ahmed    |             96.17 |       14 |             58.86 | Asaeli Tuivuaka           |             63 |
+|             46 | Baptiste Mouchous |             57.85 |       15 |             59.49 | Mathis Ferté              |             69 |
+|             56 | Jérémie Maurouard |             71.58 |       16 |            nan    | Benjamin Boudou           |             46 |
+|             80 | Thomas Bué        |            nan    |       17 |            nan    | Nathan Fraissenon         |             57 |
+|             34 | Frank Bradshaw    |             58.64 |       18 |             58.98 | Asier Usarraga Latierro   |             33 |
+|             67 | Noa Kanika        |             62.08 |       19 |            nan    | Retief Marais             |             80 |
+|             59 | Karl Wilkins      |            nan    |       20 |             40.32 | Taniela Sadrugu           |             30 |
+|             80 | Maël Castel       |            nan    |       21 |             53.5  | Hugo Verdu                |              0 |
+|             40 | Simon Renda       |             50    |       22 |            nan    | Timilai Rokoduru          |             70 |
+|             80 | Tietie Tuimauga   |             58.58 |       23 |            nan    | Francisco Coria Marchetti |             80 |
 
