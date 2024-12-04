@@ -1,6 +1,6 @@
 ---  
 title: "Top 14 Orange 2024 Status"  
-date: 2024-12-02 6:00:00 -0500  
+date: 2024-12-03 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  

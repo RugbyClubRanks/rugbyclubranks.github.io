@@ -9,7 +9,7 @@ categories: "European Rugby Champions Cup 2024" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.767, which translates to predicting Stade Toulousain to win by 10.9.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.77, which translates to predicting Stade Toulousain to win by 10.5.
 
 Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 18 to 29
 

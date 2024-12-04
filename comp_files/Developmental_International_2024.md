@@ -1,6 +1,6 @@
 ---  
 title: "Developmental International 2024 Status"  
-date: 2024-12-02 6:00:00 -0500  
+date: 2024-12-03 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -102,7 +102,7 @@ aside:
 ### Mexico V Cayman Islands on 2024/12/07
 
 
-Average Margin: Mexico by 23.7
+Average Margin: Mexico by 23.5
 
 Average Scoreline: 36-12
 
