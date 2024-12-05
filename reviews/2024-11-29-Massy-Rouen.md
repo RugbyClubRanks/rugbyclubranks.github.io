@@ -11,7 +11,7 @@ categories: "Nationale 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.494, which translates to predicting Rouen to win by 0.2.
 
-Our Over/Under is 42.5 - and combined with the spread above, we have a predicted scoreline of 21 to 21
+Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 24 to 23
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Massy by 5.3
+## Prediction without Player Minutes: Massy by 5.5
 
 
-Rouen by 0.8 on a neutral pitch
+Rouen by 0.6 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,29 +69,27 @@ Rouen by 0.8 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player            |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:-----------------------|---------------:|
-|             80 | Alexis Decaux         |             68.65 |        1 |             43.09 | Fernandez Corréa       |             80 |
-|             10 | German Kessler        |             48.75 |        2 |             45.66 | Pierre Trassoudaine    |             80 |
-|             18 | Khvicha Tsopurashvili |             64.84 |        3 |             41.42 | Nicolas Ferrer         |             62 |
-|             56 | Octave Leleu          |             55.76 |        4 |             46.53 | Saba Pesvianidze       |             56 |
-|             28 | Will Witty            |             70.42 |        5 |             48.64 | Louis Bruinsma         |             40 |
-|             66 | Ernest Eudier         |             57.26 |        6 |             47.72 | Tony Tissot            |             72 |
-|             66 | Tienie Burger         |             59.21 |        7 |             48.4  | Hilan Delbois          |             80 |
-|             66 | Soïg Mingant          |             48.03 |        8 |             42.47 | Alexandre Loubière     |             80 |
-|             66 | Gauthier Lelong       |             54.59 |        9 |             49.92 | Julien Blanc           |             68 |
-|             66 | Benjamin Péhau        |             62.57 |       10 |             43.47 | Christian Lacombe      |             52 |
-|             52 | Benjamin Descamps     |             66.59 |       11 |             50.98 | Alex Preira            |             53 |
-|             66 | Théo Dachary          |             49.26 |       12 |             43.15 | Luca Mignot            |             26 |
-|             66 | Ope Peleseuma         |             58.8  |       13 |             46.76 | Arthur Seigneuret      |             40 |
-|             23 | Axel Malaret          |             63.66 |       14 |             45.87 | Giorgi Gogoladze       |             80 |
-|             54 | Axel Malaret          |             63.66 |       14 |             45.87 | Giorgi Gogoladze       |             80 |
-|             28 | Benjamin Debetz       |             45.26 |       15 |             47.81 | Martin Carré           |             39 |
-|             24 | Lucas Poisson         |            nan    |       16 |             49.34 | Adrien Sonzogni        |             40 |
-|             76 | Noé Khier             |            nan    |       17 |             49.11 | Tijde Visser           |             40 |
-|             66 | Oliver Cooper         |            nan    |       18 |             17.03 | Andrei Mahu            |             52 |
-|             30 | Willy N'Diaye         |            nan    |       19 |            nan    | Clément Vidoni         |             47 |
-|             52 | Florent Campeggia     |             60.65 |       20 |             49.46 | Lucas Rubio            |             80 |
-|             24 | Aloïs Chayla          |            nan    |       21 |              1.75 | Gonzalo Lopez Bontempo |             80 |
-|             56 | Aloïs Chayla          |            nan    |       21 |              1.75 | Gonzalo Lopez Bontempo |             80 |
-|              8 | Sakiusa Bureitakiyaca |             61.19 |       22 |            nan    | Alexandre Borie        |             80 |
-|              0 | Diego Arbelo          |             36.41 |       23 |            nan    | Nolan Pienaar          |             80 |
+|             30 | Alexis Decaux         |             65.6  |        1 |             45.27 | Fernandez Corréa       |             72 |
+|             30 | German Kessler        |             53.9  |        2 |             51.99 | Pierre Trassoudaine    |             28 |
+|             31 | Khvicha Tsopurashvili |             65.71 |        3 |             42.14 | Nicolas Ferrer         |             80 |
+|             28 | Octave Leleu          |             52.17 |        4 |             43.23 | Saba Pesvianidze       |             80 |
+|             11 | Will Witty            |             68.68 |        5 |             46.04 | Louis Bruinsma         |             70 |
+|              0 | Ernest Eudier         |             51.35 |        6 |             54.22 | Tony Tissot            |              9 |
+|             11 | Tienie Burger         |             55.31 |        7 |             54.47 | Hilan Delbois          |             17 |
+|             49 | Soïg Mingant          |             45.6  |        8 |             47.71 | Alexandre Loubière     |             14 |
+|             51 | Gauthier Lelong       |             53.01 |        9 |             49.77 | Julien Blanc           |             70 |
+|             51 | Benjamin Péhau        |             62.09 |       10 |             44.68 | Christian Lacombe      |             17 |
+|             26 | Benjamin Descamps     |             64.59 |       11 |             53.15 | Alex Preira            |             14 |
+|             80 | Théo Dachary          |             51.44 |       12 |             40.65 | Luca Mignot            |             66 |
+|             80 | Ope Peleseuma         |             60.37 |       13 |             49.95 | Arthur Seigneuret      |              8 |
+|             56 | Axel Malaret          |             55.27 |       14 |             47.31 | Giorgi Gogoladze       |             61 |
+|             32 | Benjamin Debetz       |             46.07 |       15 |             49.18 | Martin Carré           |             21 |
+|             30 | Lucas Poisson         |            nan    |       16 |             49.34 | Adrien Sonzogni        |             40 |
+|             24 | Noé Khier             |            nan    |       17 |             50.55 | Tijde Visser           |             80 |
+|             52 | Oliver Cooper         |            nan    |       18 |             12.85 | Andrei Mahu            |             80 |
+|             76 | Willy N'Diaye         |            nan    |       19 |            nan    | Clément Vidoni         |             52 |
+|             66 | Florent Campeggia     |             59.97 |       20 |             49    | Lucas Rubio            |             37 |
+|             80 | Aloïs Chayla          |            nan    |       21 |              1.74 | Gonzalo Lopez Bontempo |             80 |
+|              0 | Sakiusa Bureitakiyaca |             60.8  |       22 |            nan    | Alexandre Borie        |             80 |
+|             28 | Diego Arbelo          |             38.13 |       23 |            nan    | Nolan Pienaar          |             56 |
 

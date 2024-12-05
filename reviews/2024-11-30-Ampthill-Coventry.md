@@ -11,7 +11,7 @@ categories: "RFU Championship 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.25, which translates to predicting Coventry to win by 9.8.
 
-Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 28 to 18
+Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 31 to 22
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Coventry by 5.6 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             54 | Toby Trinder       |             69.85 |        1 |             39.57 | Harrison Courtney  |             23 |
-|             80 | Jordon Poole       |             78.35 |        2 |             41.53 | Luke Thompson      |             14 |
-|             61 | Matt Johnson       |             74.2  |        3 |             38.92 | James Johnston     |             10 |
-|             80 | James Tyas         |             84.83 |        4 |             38.64 | Kennedy Sylvester  |             14 |
-|             80 | Senitiki Nayalo    |             75.08 |        5 |             39.66 | Aidan King         |             33 |
-|             39 | Tom Ball           |             80.83 |        6 |             45.86 | Reggie Hammick     |             20 |
-|             61 | Suva Ma'Asi        |             66.89 |        7 |             19    | Syd Blackmore      |             20 |
-|             29 | Matt Kvesic        |             48.75 |        8 |             30.29 | Lekima Ravuvu      |             23 |
-|             80 | Josh Barton        |             72.01 |        9 |             40.28 | Roan Frostwick     |             57 |
-|             63 | Tommy Mathews      |             48.54 |       10 |             32.94 | Josh Barton        |             80 |
-|             66 | Ryan Hutler        |             85.44 |       11 |             27.78 | Brandon Jackson    |             60 |
-|             25 | Tom Hitchcock      |             45    |       12 |              9.54 | Fraser Strachan    |             57 |
-|             25 | Dafydd-Rhys Tiueti |             24.54 |       13 |             31.02 | Olly Hartley       |             60 |
-|             25 | David Opoku        |             48.87 |       14 |             38.29 | Sione Va'Enuku     |             80 |
-|             22 | James Martin       |             62.96 |       15 |             38.14 | Oran Mcnulty       |             51 |
-|             13 | Will Biggs         |            nan    |       16 |            nan    | James Isaacs       |             60 |
-|             17 | Ralph Mceachran    |            nan    |       17 |            nan    | Richard Barrington |             76 |
-|             17 | Eliot Salt         |            nan    |       18 |            nan    | James Flynn        |             80 |
-|             10 | Obinna Nkwocha     |             56.27 |       19 |            nan    | Arthur Thomas      |             80 |
-|              0 | Rhys Anstey        |            nan    |       20 |            nan    | Charlie West       |             76 |
-|             80 | Fin Ogden          |            nan    |       21 |            nan    | Declan Murphy      |             61 |
-|             77 | Charlie Robson     |             42.7  |       22 |            nan    | Evan Mitchell      |             80 |
-|             29 | Chester Owen       |            nan    |       23 |            nan    | Max Clark          |             64 |
+|             54 | Toby Trinder       |             69.4  |        1 |             41.04 | Harrison Courtney  |              4 |
+|             80 | Jordon Poole       |             77.91 |        2 |             32.55 | Luke Thompson      |             19 |
+|             61 | Matt Johnson       |             73.9  |        3 |             36.54 | James Johnston     |             16 |
+|             80 | James Tyas         |             83.83 |        4 |             40.77 | Kennedy Sylvester  |             19 |
+|             80 | Senitiki Nayalo    |             74.21 |        5 |             41.11 | Aidan King         |             19 |
+|             65 | Tom Ball           |             81.7  |        6 |             47.72 | Reggie Hammick     |              4 |
+|             56 | Suva Ma'Asi        |             66.61 |        7 |             19.9  | Syd Blackmore      |             29 |
+|             20 | Matt Kvesic        |             46.83 |        8 |             27.29 | Lekima Ravuvu      |             80 |
+|             80 | Josh Barton        |             71.1  |        9 |             41.27 | Roan Frostwick     |             61 |
+|             66 | Tommy Mathews      |             47.78 |       10 |             46.81 | Josh Barton        |             80 |
+|             66 | Ryan Hutler        |             84.84 |       11 |             31.24 | Brandon Jackson    |             80 |
+|             66 | Tom Hitchcock      |             50.7  |       12 |              9.49 | Fraser Strachan    |             65 |
+|             66 | Dafydd-Rhys Tiueti |             28.93 |       13 |             29.21 | Olly Hartley       |             80 |
+|             66 | David Opoku        |             52.69 |       14 |             39.8  | Sione Va'Enuku     |             60 |
+|             66 | James Martin       |             65.45 |       15 |             37.84 | Oran Mcnulty       |             80 |
+|             30 | Will Biggs         |            nan    |       16 |            nan    | James Isaacs       |             70 |
+|             30 | Ralph Mceachran    |            nan    |       17 |            nan    | Richard Barrington |             80 |
+|             30 | Eliot Salt         |            nan    |       18 |            nan    | James Flynn        |             60 |
+|             30 | Obinna Nkwocha     |             55.83 |       19 |            nan    | Arthur Thomas      |             60 |
+|             30 | Rhys Anstey        |            nan    |       20 |            nan    | Charlie West       |             54 |
+|             30 | Fin Ogden          |            nan    |       21 |            nan    | Declan Murphy      |             80 |
+|             30 | Charlie Robson     |             44.42 |       22 |            nan    | Evan Mitchell      |             80 |
+|             80 | Chester Owen       |            nan    |       23 |            nan    | Max Clark          |             80 |
 

@@ -1,6 +1,6 @@
 ---  
 title: "Top 14 Orange 2024 Status"  
-date: 2024-12-03 6:00:00 -0500  
+date: 2024-12-05 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -70,8 +70,8 @@ aside:
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
 | Club Level | 80.5% | 11.2 |
-| Player Level: Lineup | 85.7% | 26.9 |
-| Player Level: Minutes | 76.6% | 188.3 |
+| Player Level: Lineup | 85.7% | 27.4 |
+| Player Level: Minutes | 76.6% | 174.0 |
 
 
 # Future Predictions

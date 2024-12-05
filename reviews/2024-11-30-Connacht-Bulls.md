@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Bulls by 11.0
+## Prediction without Player Minutes: Bulls by 10.9
 
 
-Bulls by 19.4 on a neutral pitch
+Bulls by 19.3 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,29 +69,29 @@ Bulls by 19.4 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             31 | Alulutho Tshakweni  |             74.79 |        1 |             63.41 | Denis Buckley         |             84 |
-|             60 | Akker van der Merwe |             96.32 |        2 |             12.08 | Dave Heffernan        |             69 |
-|             31 | Francois Klopper    |             59.65 |        3 |             25.39 | Jack Aungier          |             80 |
-|             84 | Ruan Vermaak        |             14.83 |        4 |             68.73 | Joe Joyce             |             62 |
-|             84 | Ruan Vermaak        |             14.83 |        4 |             68.73 | Joe Joyce             |             59 |
-|             49 | JF van Heerden      |             32.03 |        5 |             73.05 | Niall Murray          |             59 |
-|             84 | Marcell Coetzee     |             96.88 |        6 |             91.22 | Josh Murphy           |             53 |
-|             21 | Cobus Wiese         |             96.96 |        7 |             88.51 | Conor Oliver          |             35 |
-|             74 | Mpilo Gumede        |             57.35 |        8 |             10.93 | Sean Jansen           |             84 |
-|             53 | Embrose Papier      |             94.25 |        9 |             56.14 | Ben Murphy            |             84 |
-|             84 | Johan Goosen        |             72.9  |       10 |             93.57 | Jack Carty            |             84 |
-|             35 | Sebastian de Klerk  |             96.02 |       11 |             96.7  | Santiago Cordero      |             84 |
-|             84 | Harold Vorster      |             95.09 |       12 |              1.57 | Cathal Forde          |             80 |
-|             84 | David Kriel         |             94.81 |       13 |              3.61 | Piers O'Conor         |             84 |
-|             84 | David Kriel         |             94.81 |       13 |              3.61 | Piers O'Conor         |              4 |
-|             39 | Canan Moodie        |            100    |       14 |             71.32 | Shayne Bolton         |             49 |
-|             62 | Willie le Roux      |             98.36 |       15 |             63.87 | Shane Jennings        |             49 |
-|             84 | Johan Grobbelaar    |             91.75 |       16 |             15.02 | Dylan Tierney-Martin  |             73 |
-|             84 | Gerhard Steenekamp  |             85.94 |       17 |             42.61 | Jordan Duggan         |             84 |
-|             35 | Mornay Smith        |             79.74 |       18 |            nan    | Sam Illo              |             24 |
-|             84 | Jannes Kirsten      |             94.43 |       19 |             31.02 | Darragh Murray        |             56 |
-|             84 | Cameron Hanekom     |             71.33 |       20 |              8.24 | Paul Boyle            |             53 |
-|             63 | Keagan Johannes     |             57.12 |       21 |             33.59 | Caolin Blade          |             49 |
-|             63 | Stedman Gans        |             86.2  |       22 |             44.54 | David Hawkshaw        |             84 |
-|             35 | Aphiwe Dyantyi      |             27.7  |       23 |             58.95 | Shamus Hurley-Langton |             59 |
+|             21 | Alulutho Tshakweni  |             74.51 |        1 |             62.2  | Denis Buckley         |             49 |
+|             21 | Akker van der Merwe |             96.32 |        2 |              8.84 | Dave Heffernan        |             84 |
+|             84 | Francois Klopper    |             67.69 |        3 |             26.32 | Jack Aungier          |             63 |
+|             54 | Ruan Vermaak        |             14.64 |        4 |             67.83 | Joe Joyce             |             35 |
+|             54 | Ruan Vermaak        |             14.64 |        4 |             67.83 | Joe Joyce             |             84 |
+|             10 | JF van Heerden      |             30.21 |        5 |             70.47 | Niall Murray          |             60 |
+|             21 | Marcell Coetzee     |             97.05 |        6 |             91.06 | Josh Murphy           |             63 |
+|             14 | Cobus Wiese         |             97.39 |        7 |             88.11 | Conor Oliver          |             30 |
+|             84 | Mpilo Gumede        |             63.03 |        8 |              8.27 | Sean Jansen           |             84 |
+|             74 | Embrose Papier      |             94.9  |        9 |             55.02 | Ben Murphy            |             35 |
+|             84 | Johan Goosen        |             75.63 |       10 |             93.42 | Jack Carty            |             39 |
+|             15 | Sebastian de Klerk  |             95.83 |       11 |             96.21 | Santiago Cordero      |             73 |
+|             10 | Harold Vorster      |             94.98 |       12 |              1.3  | Cathal Forde          |             63 |
+|             14 | David Kriel         |             94.6  |       13 |              3.63 | Piers O'Conor         |             32 |
+|             14 | David Kriel         |             94.6  |       13 |              3.63 | Piers O'Conor         |             84 |
+|             84 | Canan Moodie        |            100    |       14 |             67.63 | Shayne Bolton         |             49 |
+|             43 | Willie le Roux      |             98.54 |       15 |             61.61 | Shane Jennings        |             59 |
+|             14 | Johan Grobbelaar    |             91.9  |       16 |             14.29 | Dylan Tierney-Martin  |             84 |
+|             14 | Gerhard Steenekamp  |             85    |       17 |             44.34 | Jordan Duggan         |             84 |
+|             84 | Mornay Smith        |             78.41 |       18 |            nan    | Sam Illo              |             74 |
+|             84 | Jannes Kirsten      |             94.86 |       19 |             30.64 | Darragh Murray        |             41 |
+|             69 | Cameron Hanekom     |             70.95 |       20 |              8.1  | Paul Boyle            |             52 |
+|             60 | Keagan Johannes     |             56.48 |       21 |             32.3  | Caolin Blade          |             84 |
+|             24 | Stedman Gans        |             86.33 |       22 |             45.12 | David Hawkshaw        |             84 |
+|             84 | Aphiwe Dyantyi      |             27.45 |       23 |             59.95 | Shamus Hurley-Langton |             84 |
 

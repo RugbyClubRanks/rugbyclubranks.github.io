@@ -30,9 +30,9 @@ Competition Accuracy: 25 of 32 (78.12%)
 
 Competition Error: 13.81 points per match
 
-Last Round Accuracy: 2 of 5 (40.0%)
+Last Round Accuracy: 3 of 5 (60.0%)
 
-Last Round Error: 19.14 points per match
+Last Round Error: 16.01 points per match
 
 [2024-11-30 Bristol Bears Women at Gloucester-Hartpury Women; 19-14](reviews//2024-11-30-Gloucester-HartpuryWomen-BristolBearsWomen)
 
@@ -54,9 +54,9 @@ Last Round Accuracy: 2 of 5 (40.0%)
 
 Last Round Error: 15.5 points per match
 
-[2024-11-29 Saracens at Newcastle Falcons; 12-17](reviews//2024-11-29-NewcastleFalcons-Saracens)
-
 [2024-11-29 Bristol Rugby at Harlequins; 48-24](reviews//2024-11-29-Harlequins-BristolRugby)
+
+[2024-11-29 Saracens at Newcastle Falcons; 12-17](reviews//2024-11-29-NewcastleFalcons-Saracens)
 
 [2024-11-30 Gloucester Rugby at Northampton Saints; 25-17](reviews//2024-11-30-NorthamptonSaints-GloucesterRugby)
 
@@ -80,9 +80,9 @@ Last Round Error: 9.99 points per match
 
 [2024-11-29 Chinnor at Cornish Pirates; 13-15](reviews//2024-11-29-CornishPirates-Chinnor)
 
-[2024-11-30 Cambridge at Doncaster; 17-52](reviews//2024-11-30-Doncaster-Cambridge)
-
 [2024-11-30 Caldy at Hartpury College; 24-40](reviews//2024-11-30-HartpuryCollege-Caldy)
+
+[2024-11-30 Cambridge at Doncaster; 17-52](reviews//2024-11-30-Doncaster-Cambridge)
 
 [2024-11-30 Coventry at Ampthill; 27-21](reviews//2024-11-30-Ampthill-Coventry)
 
@@ -100,15 +100,15 @@ Last Round Accuracy: 6 of 7 (85.71%)
 
 Last Round Error: 13.19 points per match
 
-[2024-11-30 Stade Toulousain at Racing 92; 21-17](reviews//2024-11-30-Racing92-StadeToulousain)
+[2024-11-30 Montpellier Herault at Bordeaux Begles; 6-9](reviews//2024-11-30-BordeauxBegles-MontpellierHerault)
 
-[2024-11-30 Castres Olympique at Clermont Auvergne; 10-54](reviews//2024-11-30-ClermontAuvergne-CastresOlympique)
+[2024-11-30 Stade Toulousain at Racing 92; 21-17](reviews//2024-11-30-Racing92-StadeToulousain)
 
 [2024-11-30 Lyon at Pau; 15-29](reviews//2024-11-30-Pau-Lyon)
 
-[2024-11-30 Vannes at La Rochelle; 23-14](reviews//2024-11-30-LaRochelle-Vannes)
+[2024-11-30 Castres Olympique at Clermont Auvergne; 10-54](reviews//2024-11-30-ClermontAuvergne-CastresOlympique)
 
-[2024-11-30 Montpellier Herault at Bordeaux Begles; 6-9](reviews//2024-11-30-BordeauxBegles-MontpellierHerault)
+[2024-11-30 Vannes at La Rochelle; 23-14](reviews//2024-11-30-LaRochelle-Vannes)
 
 [2024-11-30 Toulon at Perpignan; 22-13](reviews//2024-11-30-Perpignan-Toulon)
 
@@ -130,9 +130,9 @@ Last Round Error: 7.2 points per match
 
 [2024-11-29 Leinster at Ulster; 27-20](reviews//2024-11-29-Ulster-Leinster)
 
-[2024-11-30 Dragons at Cardiff Blues; 23-31](reviews//2024-11-30-CardiffBlues-Dragons)
-
 [2024-11-30 Ospreys at Zebre; 17-22](reviews//2024-11-30-Zebre-Ospreys)
+
+[2024-11-30 Dragons at Cardiff Blues; 23-31](reviews//2024-11-30-CardiffBlues-Dragons)
 
 [2024-11-30 Benetton Treviso at Edinburgh; 33-50](reviews//2024-11-30-Edinburgh-BenettonTreviso)
 
@@ -148,17 +148,17 @@ Last Round Error: 7.2 points per match
 
 [In depth model review and projections for Nationale 2024](comp_files/Nationale_2024)
 
-Competition Accuracy: 67 of 86 (77.91%)
+Competition Accuracy: 68 of 86 (79.07%)
 
-Competition Error: 10.27 points per match
+Competition Error: 10.26 points per match
 
 Last Round Accuracy: 6 of 7 (85.71%)
 
-Last Round Error: 14.29 points per match
-
-[2024-11-29 Narbonne at Carcassonne; 18-15](reviews//2024-11-29-Carcassonne-Narbonne)
+Last Round Error: 14.28 points per match
 
 [2024-11-29 Rouen at Massy; 20-19](reviews//2024-11-29-Massy-Rouen)
+
+[2024-11-29 Narbonne at Carcassonne; 18-15](reviews//2024-11-29-Carcassonne-Narbonne)
 
 [2024-11-29 Suresnes at US Bressane; 21-25](reviews//2024-11-29-USBressane-Suresnes)
 
@@ -166,32 +166,34 @@ Last Round Error: 14.29 points per match
 
 [2024-11-30 Langon at Chambery; 3-45](reviews//2024-11-30-Chambery-Langon)
 
-[2024-11-30 Carqueiranne-Hyeres at Marcq-en-Baroeul; 0-25](reviews//2024-11-30-Marcq-en-Baroeul-Carqueiranne-Hyeres)
-
 [2024-11-30 Tarbes at Bourgoin-Jallieu; 32-21](reviews//2024-11-30-Bourgoin-Jallieu-Tarbes)
+
+[2024-11-30 Carqueiranne-Hyeres at Marcq-en-Baroeul; 0-25](reviews//2024-11-30-Marcq-en-Baroeul-Carqueiranne-Hyeres)
 ## Pro D2
 
 
 [In depth model review and projections for Pro D2 2024](comp_files/Pro_D2_2024)
 
-Competition Accuracy: 59 of 95 (62.11%)
+Competition Accuracy: 60 of 96 (62.5%)
 
-Competition Error: 10.41 points per match
+Competition Error: 10.34 points per match
 
 Last Round Accuracy: 6 of 8 (75.0%)
 
-Last Round Error: 14.5 points per match
+Last Round Error: 11.75 points per match
 
 [2024-11-28 Montauban at Brive; 22-37](reviews//2024-11-28-Brive-Montauban)
 
+[2024-11-29 Mont-de-Marsan at Oyonnax; 30-24](reviews//2024-11-29-Oyonnax-Mont-de-Marsan)
+
+[2024-11-29 Nice at Provence Rugby; 30-33](reviews//2024-11-29-ProvenceRugby-Nice)
+
 [2024-11-29 Colomiers at Grenoble; 19-65](reviews//2024-11-29-Grenoble-Colomiers)
+
+[2024-11-29 Agen at Beziers; 24-34](reviews//2024-11-29-Beziers-Agen)
 
 [2024-11-29 Valence Romans Drome Rugby at Soyaux-Angouleme; 14-24](reviews//2024-11-29-Soyaux-Angouleme-ValenceRomansDromeRugby)
 
 [2024-11-29 Dax at Nevers; 31-24](reviews//2024-11-29-Nevers-Dax)
 
 [2024-11-29 Aurillac at Biarritz Olympique; 6-23](reviews//2024-11-29-BiarritzOlympique-Aurillac)
-
-[2024-11-29 Nice at Provence Rugby; 30-33](reviews//2024-11-29-ProvenceRugby-Nice)
-
-[2024-11-29 Mont-de-Marsan at Oyonnax; 30-24](reviews//2024-11-29-Oyonnax-Mont-de-Marsan)

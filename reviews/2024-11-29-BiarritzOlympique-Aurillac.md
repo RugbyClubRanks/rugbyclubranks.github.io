@@ -11,7 +11,7 @@ categories: "Pro D2 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.655, which translates to predicting Biarritz Olympique to win by 5.7.
 
-Our Over/Under is 57.5 - and combined with the spread above, we have a predicted scoreline of 26 to 31
+Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 23 to 28
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -42,7 +42,7 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction without Player Minutes: Biarritz Olympique by 18.2
 
 
-Biarritz Olympique by 2.7 on a neutral pitch
+Biarritz Olympique by 2.8 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Biarritz Olympique by 2.7 on a neutral pitch
 
 |   Away Minutes | Away Player             |   Away Percentile |   Number |   Home Percentile | Home Player             |   Home Minutes |
 |---------------:|:------------------------|------------------:|---------:|------------------:|:------------------------|---------------:|
-|             80 | Robbie Rodgers          |             55.01 |        1 |             51.97 | Giorgi Nutsubidze       |             60 |
-|             55 | Basa Khonelidze         |             54.79 |        2 |             55.67 | Yohan Beheregaray       |             65 |
-|             58 | Dominic Robertson-McCoy |             37.72 |        3 |             49.05 | Giorgi Dzmanashvili (2) |             80 |
-|             80 | Martial Rolland         |             55.93 |        4 |             52.2  | Charlie Matthews        |             55 |
-|             51 | Mosa'Ati Moala          |             56.19 |        5 |             80.42 | Piula Fa'asalele        |             29 |
-|              0 | Eoghan Masterson        |             55.15 |        6 |             49.66 | Jessy Jegerlehner       |             27 |
-|             80 | Lucas Oudard            |             56.17 |        7 |             50.08 | Thomas Hébert           |              0 |
-|             23 | Didier Tison            |             50.9  |        8 |             44.09 | Nafi Ma'Afu             |             18 |
-|             75 | David Delarue           |             57.08 |        9 |             52.88 | Imanol Biscay           |             55 |
-|             77 | Ugo Seunes              |             47.76 |       10 |             41.91 | Thomas Dolhagaray       |             55 |
-|             57 | Aj Coertzen             |             56.38 |       11 |             51.43 | Gervais Cordin          |              0 |
-|             74 | Karsen Talalua          |             41.85 |       12 |             46.94 | François Vergnaud       |              0 |
-|             15 | Karl Martin             |             51.76 |       13 |             95.56 | Mathieu Acebes          |             40 |
-|             33 | Juun Pieters            |             56.46 |       14 |             49.77 | Yohan Tapie             |             13 |
-|             22 | Axel Bévia              |             50.91 |       15 |             43.61 | Kylian Jaminet          |             27 |
-|             31 | Ronan Loughnane         |            nan    |       16 |             66.57 | Luteru Tolai            |             80 |
-|             15 | Irakli Mtchedlidze      |             53.16 |       17 |            nan    | Alexandre Plantier      |             56 |
-|             31 | Koen Bloemen            |             69.58 |       18 |            nan    | Levi Douglas            |             80 |
-|             31 | Mael Perrin             |             49.82 |       19 |             53.94 | Ekain Imaz Agirre       |             36 |
-|             44 | Tim De Jong             |             30.32 |       20 |            nan    | Kerman Aurrekoetxea     |             58 |
-|             27 | Boris Hadinegoro        |            nan    |       21 |            nan    | Yann David              |             80 |
-|             24 | Jean-Luc Cilliers       |            nan    |       22 |            nan    | Ilian Perraux           |             80 |
-|             53 | Valentin Welsch         |            nan    |       23 |             72.29 | Solomone Tukuafu        |             51 |
+|             17 | Robbie Rodgers          |             56.15 |        1 |             52.69 | Giorgi Nutsubidze       |             55 |
+|             62 | Basa Khonelidze         |             55.67 |        2 |             54.79 | Yohan Beheregaray       |             54 |
+|             80 | Dominic Robertson-McCoy |             40.22 |        3 |             49.4  | Giorgi Dzmanashvili (2) |             31 |
+|             74 | Martial Rolland         |             55.91 |        4 |             50.21 | Charlie Matthews        |             32 |
+|              0 | Mosa'Ati Moala          |             55.49 |        5 |             80.09 | Piula Fa'asalele        |             53 |
+|             24 | Eoghan Masterson        |             55.82 |        6 |             49.49 | Jessy Jegerlehner       |             16 |
+|             40 | Lucas Oudard            |             56.66 |        7 |             50.25 | Thomas Hébert           |             40 |
+|             58 | Didier Tison            |             50.35 |        8 |             43.13 | Nafi Ma'Afu             |             28 |
+|             19 | David Delarue           |             56.88 |        9 |             51.62 | Imanol Biscay           |             38 |
+|             80 | Ugo Seunes              |             47.97 |       10 |             41.59 | Thomas Dolhagaray       |             53 |
+|             24 | Aj Coertzen             |             56.63 |       11 |             51.1  | Gervais Cordin          |             49 |
+|             39 | Karsen Talalua          |             42.51 |       12 |             46.98 | François Vergnaud       |             53 |
+|             30 | Karl Martin             |             52.93 |       13 |             95.44 | Mathieu Acebes          |             80 |
+|             80 | Juun Pieters            |             57.24 |       14 |             49.51 | Yohan Tapie             |             43 |
+|             57 | Axel Bévia              |             52.47 |       15 |             44.06 | Kylian Jaminet          |             80 |
+|             41 | Ronan Loughnane         |            nan    |       16 |             66.72 | Luteru Tolai            |             16 |
+|             63 | Irakli Mtchedlidze      |             54.23 |       17 |            nan    | Alexandre Plantier      |             80 |
+|             71 | Koen Bloemen            |             68.85 |       18 |            nan    | Levi Douglas            |             80 |
+|             50 | Mael Perrin             |             48.42 |       19 |             51.94 | Ekain Imaz Agirre       |             80 |
+|             52 | Tim De Jong             |             29.34 |       20 |            nan    | Kerman Aurrekoetxea     |             59 |
+|             56 | Boris Hadinegoro        |            nan    |       21 |            nan    | Yann David              |             80 |
+|             61 | Jean-Luc Cilliers       |            nan    |       22 |            nan    | Ilian Perraux           |             80 |
+|             80 | Valentin Welsch         |            nan    |       23 |             72.69 | Solomone Tukuafu        |             80 |
 

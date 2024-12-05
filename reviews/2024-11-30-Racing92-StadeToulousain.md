@@ -11,7 +11,7 @@ categories: "Top 14 Orange 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.42, which translates to predicting Stade Toulousain to win by 2.9.
 
-Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 26 to 23
+Our Over/Under is 41.5 - and combined with the spread above, we have a predicted scoreline of 22 to 19
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,28 +69,28 @@ Stade Toulousain by 12.2 on a neutral pitch
 
 |   Away Minutes | Away Player            |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:-----------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             76 | David Ainu'u           |             85.4  |        1 |             69.07 | Guram Gogichashvili |             58 |
-|             40 | Julien Marchand        |             96.17 |        2 |             32.84 | Feleti Kaitu'u      |             12 |
-|             23 | Dorian Aldegheri       |             85.88 |        3 |             87.66 | Lucio Sordoni       |             26 |
-|              0 | Anthony Jelonch        |             98.98 |        4 |             88.22 | Junior Kpoku        |             62 |
-|             41 | Clement Verge          |             85.59 |        5 |             18.73 | Will Rowlands       |             55 |
-|              0 | Francois Cros          |             94.59 |        6 |             95.35 | Cameron Woki        |             81 |
-|             13 | Leo Banos              |             80.49 |        7 |             36.66 | Noa Zinzen          |             52 |
-|             62 | Jack Willis            |             97.67 |        8 |             92.29 | Hacjivah Dayimani   |             81 |
-|             29 | Paul Graou             |             42.92 |        9 |             78.07 | Nolann Le Garrec    |             23 |
-|             81 | Romain Ntamack         |             95.71 |       10 |              4.48 | Dan Lancaster       |             23 |
-|             14 | Matthis Lebel          |             98.65 |       11 |             61.49 | Vinaya Habosi       |             22 |
-|             39 | Santiago Chocobares    |             53.89 |       12 |             96.11 | Josua Tuisova       |             21 |
-|             47 | Pierre-Louis Barassi   |             94.72 |       13 |             97.87 | Gael Fickou         |             21 |
-|             40 | Dimitri Delibes        |             92.72 |       14 |             68.24 | Donovan Taofifenua  |             67 |
-|             81 | Thomas Ramos           |             96.9  |       15 |             27.92 | Tristan Tedder      |             21 |
-|             16 | Guillaume Cramont      |             87.92 |       16 |             58.32 | Janick Tarrit       |             26 |
-|             81 | Rodrigue Neti          |             64.6  |       17 |             87.37 | Eddy Ben Arous      |             81 |
-|             81 | Joshua Brennan         |             90.25 |       18 |             91.95 | Boris Palu          |             71 |
-|             55 | Theo Ntamack           |             65.77 |       19 |             85.84 | Jordan Joseph       |             81 |
-|             55 | Mathis Castro-Ferreira |            nan    |       20 |             93.96 | Antoine Gibert      |             12 |
-|             10 | Ange Capuozzo          |             97.45 |       21 |             85.66 | Wame Naituvi        |             21 |
-|             41 | Paul Costes            |             84.91 |       22 |             22.37 | Henry Arundell      |              0 |
-|             41 | Paul Costes            |             84.91 |       22 |             22.37 | Henry Arundell      |             81 |
-|             59 | Joel Merkler           |             82.6  |       23 |             71.04 | Thomas Laclayat     |             81 |
+|             81 | David Ainu'u           |             83.96 |        1 |             68.46 | Guram Gogichashvili |             23 |
+|             67 | Julien Marchand        |             96.02 |        2 |             29.16 | Feleti Kaitu'u      |             26 |
+|             81 | Dorian Aldegheri       |             84.07 |        3 |             86.48 | Lucio Sordoni       |             62 |
+|             41 | Anthony Jelonch        |             99.06 |        4 |             87.83 | Junior Kpoku        |             82 |
+|             40 | Clement Verge          |             84.17 |        5 |             21.96 | Will Rowlands       |             41 |
+|              0 | Francois Cros          |             95.28 |        6 |             95.03 | Cameron Woki        |             81 |
+|              0 | Leo Banos              |             80.19 |        7 |             39.46 | Noa Zinzen          |             81 |
+|             55 | Jack Willis            |             98.06 |        8 |             93.13 | Hacjivah Dayimani   |             81 |
+|             76 | Paul Graou             |             46.52 |        9 |             78.05 | Nolann Le Garrec    |             60 |
+|             47 | Romain Ntamack         |             94.78 |       10 |              4.45 | Dan Lancaster       |             21 |
+|             39 | Matthis Lebel          |             98.71 |       11 |             73.84 | Vinaya Habosi       |             21 |
+|             14 | Santiago Chocobares    |             43.07 |       12 |             96.56 | Josua Tuisova       |             22 |
+|             29 | Pierre-Louis Barassi   |             94.79 |       13 |             97.77 | Gael Fickou         |             23 |
+|              0 | Dimitri Delibes        |             91.81 |       14 |             73.77 | Donovan Taofifenua  |             21 |
+|             81 | Thomas Ramos           |             96.16 |       15 |             27.06 | Tristan Tedder      |             12 |
+|             81 | Guillaume Cramont      |             87.92 |       16 |             57.44 | Janick Tarrit       |             26 |
+|             62 | Rodrigue Neti          |             64.84 |       17 |             85.88 | Eddy Ben Arous      |             71 |
+|             81 | Joshua Brennan         |             90.38 |       18 |             91.74 | Boris Palu          |             81 |
+|             65 | Theo Ntamack           |             66.55 |       19 |             86.09 | Jordan Joseph       |             10 |
+|             68 | Mathis Castro-Ferreira |            nan    |       20 |             94.2  | Antoine Gibert      |             52 |
+|             55 | Ange Capuozzo          |             97.44 |       21 |             84.76 | Wame Naituvi        |             12 |
+|             81 | Paul Costes            |             85.67 |       22 |             21.3  | Henry Arundell      |             41 |
+|             81 | Paul Costes            |             85.67 |       22 |             21.3  | Henry Arundell      |             40 |
+|             82 | Joel Merkler           |             81.59 |       23 |             70.88 | Thomas Laclayat     |             21 |
 

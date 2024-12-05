@@ -1,6 +1,6 @@
 ---  
 title: "Japan Rugby League One 2024 Status"  
-date: 2024-12-03 6:00:00 -0500  
+date: 2024-12-05 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,18 +17,18 @@ aside:
 
 | Club                  |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:----------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Saitama Wild Knights  |              18 |   15.6 |             286.763  |                   1.4 |               11   |                 74.8 |
-| Toshiba Brave Lupus   |              18 |   13.6 |             184.103  |                   2.3 |                9.4 |                 66.3 |
-| Tokyo Sungoliath      |              18 |   11.7 |             100.794  |                   3   |                7.5 |                 57.2 |
-| Kubota Spears         |              18 |   11.5 |              95.6961 |                   3   |                7.1 |                 56   |
-| Yokohama Canon Eagles |              18 |   11   |              77.2847 |                   3.5 |                6.9 |                 54.4 |
-| Kobelco Kobe Steelers |              18 |   10.7 |              67.7494 |                   3.4 |                8.2 |                 54.4 |
-| Toyota Verblitz       |              18 |    9.8 |              33.7538 |                   3.6 |                6.1 |                 48.8 |
-| Shizuoka Blue Revs    |              18 |    8.2 |             -20.6366 |                   3.7 |                5.7 |                 42.1 |
-| Black Rams Tokyo      |              18 |    5.3 |            -132.084  |                   3.6 |                3.9 |                 28.7 |
-| Mitsubishi Dynaboars  |              18 |    4.8 |            -153.967  |                   3.6 |                3.3 |                 26.3 |
-| Urayasu D-Rocks       |              18 |    3.3 |            -241.407  |                   3   |                2.9 |                 19.1 |
-| Mie Honda Heat        |              18 |    2.5 |            -298.05   |                   2.6 |                2.6 |                 15.3 |
+| Saitama Wild Knights  |              18 |   15.6 |             285.792  |                   1.3 |               11   |                 74.7 |
+| Toshiba Brave Lupus   |              18 |   13.8 |             191.115  |                   2.2 |                9.5 |                 66.9 |
+| Tokyo Sungoliath      |              18 |   11.7 |             102.262  |                   3   |                7.6 |                 57.5 |
+| Kubota Spears         |              18 |   11.5 |              92.5712 |                   3.1 |                7.2 |                 56.1 |
+| Yokohama Canon Eagles |              18 |   11.2 |              85.1392 |                   3.4 |                7   |                 55.2 |
+| Kobelco Kobe Steelers |              18 |   10.7 |              64.9406 |                   3.3 |                8.3 |                 54.5 |
+| Toyota Verblitz       |              18 |    9.8 |              33.0571 |                   3.5 |                6.2 |                 48.8 |
+| Shizuoka Blue Revs    |              18 |    8   |             -26.1072 |                   3.9 |                5.7 |                 41.4 |
+| Black Rams Tokyo      |              18 |    5.2 |            -134.109  |                   3.8 |                4   |                 28.7 |
+| Mitsubishi Dynaboars  |              18 |    4.9 |            -151.665  |                   3.8 |                3.4 |                 26.6 |
+| Urayasu D-Rocks       |              18 |    3.3 |            -240.333  |                   3   |                2.9 |                 19.1 |
+| Mie Honda Heat        |              18 |    2.5 |            -302.663  |                   2.5 |                2.6 |                 14.9 |
 
 
 
@@ -39,7 +39,7 @@ aside:
 ### Shizuoka Blue Revs V Kobelco Kobe Steelers on 2024/12/21
 
 
-Average Margin: Kobelco Kobe Steelers by 1.2
+Average Margin: Kobelco Kobe Steelers by 1.4
 
 Average Scoreline: 36-34
 
@@ -52,7 +52,7 @@ Average Scoreline: 36-34
 ### Tokyo Sungoliath V Saitama Wild Knights on 2024/12/21
 
 
-Average Margin: Saitama Wild Knights by 7.1
+Average Margin: Saitama Wild Knights by 7.5
 
 Average Scoreline: 37-30
 
@@ -65,9 +65,9 @@ Average Scoreline: 37-30
 ### Mie Honda Heat V Black Rams Tokyo on 2024/12/21
 
 
-Average Margin: Black Rams Tokyo by 6.3
+Average Margin: Black Rams Tokyo by 6.9
 
-Average Scoreline: 30-24
+Average Scoreline: 31-24
 
 <p float="left">
 <img src="plots/performances_2024-12-21-MieHondaHeat_V_BlackRamsTokyo.png" width="32%" />
@@ -78,7 +78,7 @@ Average Scoreline: 30-24
 ### Yokohama Canon Eagles V Toshiba Brave Lupus on 2024/12/22
 
 
-Average Margin: Toshiba Brave Lupus by 2.2
+Average Margin: Toshiba Brave Lupus by 2.0
 
 Average Scoreline: 31-29
 
@@ -91,9 +91,9 @@ Average Scoreline: 31-29
 ### Kubota Spears V Toyota Verblitz on 2024/12/22
 
 
-Average Margin: Kubota Spears by 6.8
+Average Margin: Kubota Spears by 6.5
 
-Average Scoreline: 36-29
+Average Scoreline: 35-29
 
 <p float="left">
 <img src="plots/performances_2024-12-22-KubotaSpears_V_ToyotaVerblitz.png" width="32%" />
@@ -104,9 +104,9 @@ Average Scoreline: 36-29
 ### Mitsubishi Dynaboars V Urayasu D-Rocks on 2024/12/22
 
 
-Average Margin: Mitsubishi Dynaboars by 10.1
+Average Margin: Mitsubishi Dynaboars by 10.3
 
-Average Scoreline: 37-27
+Average Scoreline: 37-26
 
 <p float="left">
 <img src="plots/performances_2024-12-22-MitsubishiDynaboars_V_UrayasuD-Rocks.png" width="32%" />
@@ -119,7 +119,7 @@ Average Scoreline: 37-27
 ### Black Rams Tokyo V Tokyo Sungoliath on 2024/12/28
 
 
-Average Margin: Tokyo Sungoliath by 9.6
+Average Margin: Tokyo Sungoliath by 9.8
 
 Average Scoreline: 29-19
 
@@ -132,9 +132,9 @@ Average Scoreline: 29-19
 ### Toyota Verblitz V Mie Honda Heat on 2024/12/28
 
 
-Average Margin: Toyota Verblitz by 20.9
+Average Margin: Toyota Verblitz by 23.1
 
-Average Scoreline: 44-23
+Average Scoreline: 45-22
 
 <p float="left">
 <img src="plots/performances_2024-12-28-ToyotaVerblitz_V_MieHondaHeat.png" width="32%" />
@@ -145,9 +145,9 @@ Average Scoreline: 44-23
 ### Urayasu D-Rocks V Shizuoka Blue Revs on 2024/12/28
 
 
-Average Margin: Shizuoka Blue Revs by 9.0
+Average Margin: Shizuoka Blue Revs by 8.9
 
-Average Scoreline: 27-18
+Average Scoreline: 26-18
 
 <p float="left">
 <img src="plots/performances_2024-12-28-UrayasuD-Rocks_V_ShizuokaBlueRevs.png" width="32%" />
@@ -158,7 +158,7 @@ Average Scoreline: 27-18
 ### Saitama Wild Knights V Kubota Spears on 2024/12/28
 
 
-Average Margin: Saitama Wild Knights by 13.8
+Average Margin: Saitama Wild Knights by 14.0
 
 Average Scoreline: 41-27
 
@@ -171,7 +171,7 @@ Average Scoreline: 41-27
 ### Kobelco Kobe Steelers V Yokohama Canon Eagles on 2024/12/29
 
 
-Average Margin: Kobelco Kobe Steelers by 2.4
+Average Margin: Kobelco Kobe Steelers by 2.3
 
 Average Scoreline: 34-32
 
@@ -184,9 +184,9 @@ Average Scoreline: 34-32
 ### Toshiba Brave Lupus V Mitsubishi Dynaboars on 2024/12/29
 
 
-Average Margin: Toshiba Brave Lupus by 20.4
+Average Margin: Toshiba Brave Lupus by 21.2
 
-Average Scoreline: 44-24
+Average Scoreline: 45-23
 
 <p float="left">
 <img src="plots/performances_2024-12-29-ToshibaBraveLupus_V_MitsubishiDynaboars.png" width="32%" />
@@ -199,7 +199,7 @@ Average Scoreline: 44-24
 ### Black Rams Tokyo V Saitama Wild Knights on 2025/01/04
 
 
-Average Margin: Saitama Wild Knights by 18.8
+Average Margin: Saitama Wild Knights by 18.6
 
 Average Scoreline: 41-23
 
@@ -225,7 +225,7 @@ Average Scoreline: 35-21
 ### Tokyo Sungoliath V Toyota Verblitz on 2025/01/04
 
 
-Average Margin: Tokyo Sungoliath by 8.0
+Average Margin: Tokyo Sungoliath by 7.9
 
 Average Scoreline: 35-27
 
@@ -238,7 +238,7 @@ Average Scoreline: 35-27
 ### Mitsubishi Dynaboars V Shizuoka Blue Revs on 2025/01/04
 
 
-Average Margin: Shizuoka Blue Revs by 3.8
+Average Margin: Shizuoka Blue Revs by 3.2
 
 Average Scoreline: 28-24
 
@@ -251,9 +251,9 @@ Average Scoreline: 28-24
 ### Toshiba Brave Lupus V Kobelco Kobe Steelers on 2025/01/05
 
 
-Average Margin: Toshiba Brave Lupus by 9.7
+Average Margin: Toshiba Brave Lupus by 10.8
 
-Average Scoreline: 37-28
+Average Scoreline: 38-27
 
 <p float="left">
 <img src="plots/performances_2025-01-05-ToshibaBraveLupus_V_KobelcoKobeSteelers.png" width="32%" />
@@ -264,7 +264,7 @@ Average Scoreline: 37-28
 ### Mie Honda Heat V Kubota Spears on 2025/01/05
 
 
-Average Margin: Kubota Spears by 17.7
+Average Margin: Kubota Spears by 17.3
 
 Average Scoreline: 38-20
 
@@ -279,9 +279,9 @@ Average Scoreline: 38-20
 ### Yokohama Canon Eagles V Shizuoka Blue Revs on 2025/01/11
 
 
-Average Margin: Yokohama Canon Eagles by 9.3
+Average Margin: Yokohama Canon Eagles by 11.0
 
-Average Scoreline: 34-24
+Average Scoreline: 35-24
 
 <p float="left">
 <img src="plots/performances_2025-01-11-YokohamaCanonEagles_V_ShizuokaBlueRevs.png" width="32%" />
@@ -305,7 +305,7 @@ Average Scoreline: 36-10
 ### Toyota Verblitz V Black Rams Tokyo on 2025/01/11
 
 
-Average Margin: Toyota Verblitz by 12.4
+Average Margin: Toyota Verblitz by 12.5
 
 Average Scoreline: 35-23
 
@@ -318,7 +318,7 @@ Average Scoreline: 35-23
 ### Saitama Wild Knights V Mie Honda Heat on 2025/01/12
 
 
-Average Margin: Saitama Wild Knights by 31.4
+Average Margin: Saitama Wild Knights by 31.9
 
 Average Scoreline: 54-22
 
@@ -331,7 +331,7 @@ Average Scoreline: 54-22
 ### Tokyo Sungoliath V Kubota Spears on 2025/01/12
 
 
-Average Margin: Tokyo Sungoliath by 4.7
+Average Margin: Tokyo Sungoliath by 4.6
 
 Average Scoreline: 33-28
 
@@ -344,9 +344,9 @@ Average Scoreline: 33-28
 ### Mitsubishi Dynaboars V Kobelco Kobe Steelers on 2025/01/12
 
 
-Average Margin: Kobelco Kobe Steelers by 8.2
+Average Margin: Kobelco Kobe Steelers by 8.6
 
-Average Scoreline: 33-25
+Average Scoreline: 33-24
 
 <p float="left">
 <img src="plots/performances_2025-01-12-MitsubishiDynaboars_V_KobelcoKobeSteelers.png" width="32%" />
@@ -359,7 +359,7 @@ Average Scoreline: 33-25
 ### Yokohama Canon Eagles V Mitsubishi Dynaboars on 2025/01/18
 
 
-Average Margin: Yokohama Canon Eagles by 16.2
+Average Margin: Yokohama Canon Eagles by 16.3
 
 Average Scoreline: 42-26
 
@@ -372,9 +372,9 @@ Average Scoreline: 42-26
 ### Kubota Spears V Black Rams Tokyo on 2025/01/18
 
 
-Average Margin: Kubota Spears by 16.3
+Average Margin: Kubota Spears by 15.3
 
-Average Scoreline: 36-20
+Average Scoreline: 36-21
 
 <p float="left">
 <img src="plots/performances_2025-01-18-KubotaSpears_V_BlackRamsTokyo.png" width="32%" />
@@ -385,7 +385,7 @@ Average Scoreline: 36-20
 ### Shizuoka Blue Revs V Toshiba Brave Lupus on 2025/01/18
 
 
-Average Margin: Toshiba Brave Lupus by 7.8
+Average Margin: Toshiba Brave Lupus by 7.4
 
 Average Scoreline: 29-21
 
@@ -398,7 +398,7 @@ Average Scoreline: 29-21
 ### Kobelco Kobe Steelers V Urayasu D-Rocks on 2025/01/19
 
 
-Average Margin: Kobelco Kobe Steelers by 19.5
+Average Margin: Kobelco Kobe Steelers by 19.8
 
 Average Scoreline: 47-27
 
@@ -411,7 +411,7 @@ Average Scoreline: 47-27
 ### Mie Honda Heat V Tokyo Sungoliath on 2025/01/19
 
 
-Average Margin: Tokyo Sungoliath by 18.0
+Average Margin: Tokyo Sungoliath by 18.5
 
 Average Scoreline: 38-20
 
@@ -424,9 +424,9 @@ Average Scoreline: 38-20
 ### Toyota Verblitz V Saitama Wild Knights on 2025/01/19
 
 
-Average Margin: Saitama Wild Knights by 10.9
+Average Margin: Saitama Wild Knights by 11.4
 
-Average Scoreline: 37-26
+Average Scoreline: 38-26
 
 <p float="left">
 <img src="plots/performances_2025-01-19-ToyotaVerblitz_V_SaitamaWildKnights.png" width="32%" />
@@ -439,9 +439,9 @@ Average Scoreline: 37-26
 ### Saitama Wild Knights V Urayasu D-Rocks on 2025/02/01
 
 
-Average Margin: Saitama Wild Knights by 29.7
+Average Margin: Saitama Wild Knights by 28.3
 
-Average Scoreline: 42-12
+Average Scoreline: 41-13
 
 <p float="left">
 <img src="plots/performances_2025-02-01-SaitamaWildKnights_V_UrayasuD-Rocks.png" width="32%" />
@@ -452,7 +452,7 @@ Average Scoreline: 42-12
 ### Mitsubishi Dynaboars V Kubota Spears on 2025/02/01
 
 
-Average Margin: Kubota Spears by 9.7
+Average Margin: Kubota Spears by 9.3
 
 Average Scoreline: 30-20
 
@@ -465,9 +465,9 @@ Average Scoreline: 30-20
 ### Toyota Verblitz V Yokohama Canon Eagles on 2025/02/01
 
 
-Average Margin: Toyota Verblitz by 1.8
+Average Margin: Toyota Verblitz by 1.2
 
-Average Scoreline: 31-29
+Average Scoreline: 31-30
 
 <p float="left">
 <img src="plots/performances_2025-02-01-ToyotaVerblitz_V_YokohamaCanonEagles.png" width="32%" />
@@ -478,9 +478,9 @@ Average Scoreline: 31-29
 ### Shizuoka Blue Revs V Tokyo Sungoliath on 2025/02/01
 
 
-Average Margin: Tokyo Sungoliath by 3.0
+Average Margin: Tokyo Sungoliath by 3.7
 
-Average Scoreline: 33-30
+Average Scoreline: 33-29
 
 <p float="left">
 <img src="plots/performances_2025-02-01-ShizuokaBlueRevs_V_TokyoSungoliath.png" width="32%" />
@@ -491,7 +491,7 @@ Average Scoreline: 33-30
 ### Kobelco Kobe Steelers V Black Rams Tokyo on 2025/02/01
 
 
-Average Margin: Kobelco Kobe Steelers by 12.4
+Average Margin: Kobelco Kobe Steelers by 12.9
 
 Average Scoreline: 37-24
 
@@ -504,9 +504,9 @@ Average Scoreline: 37-24
 ### Mie Honda Heat V Toshiba Brave Lupus on 2025/02/02
 
 
-Average Margin: Toshiba Brave Lupus by 21.5
+Average Margin: Toshiba Brave Lupus by 20.9
 
-Average Scoreline: 38-16
+Average Scoreline: 38-17
 
 <p float="left">
 <img src="plots/performances_2025-02-02-MieHondaHeat_V_ToshibaBraveLupus.png" width="32%" />
@@ -519,7 +519,7 @@ Average Scoreline: 38-16
 ### Kobelco Kobe Steelers V Tokyo Sungoliath on 2025/02/08
 
 
-Average Margin: Kobelco Kobe Steelers by 1.0
+Average Margin: Kobelco Kobe Steelers by 1.2
 
 Average Scoreline: 34-33
 
@@ -532,7 +532,7 @@ Average Scoreline: 34-33
 ### Urayasu D-Rocks V Mie Honda Heat on 2025/02/08
 
 
-Average Margin: Urayasu D-Rocks by 7.0
+Average Margin: Urayasu D-Rocks by 6.9
 
 Average Scoreline: 31-24
 
@@ -545,7 +545,7 @@ Average Scoreline: 31-24
 ### Yokohama Canon Eagles V Kubota Spears on 2025/02/08
 
 
-Average Margin: Yokohama Canon Eagles by 3.2
+Average Margin: Yokohama Canon Eagles by 3.1
 
 Average Scoreline: 31-28
 
@@ -558,7 +558,7 @@ Average Scoreline: 31-28
 ### Mitsubishi Dynaboars V Toyota Verblitz on 2025/02/09
 
 
-Average Margin: Toyota Verblitz by 6.3
+Average Margin: Toyota Verblitz by 5.9
 
 Average Scoreline: 28-22
 
@@ -571,9 +571,9 @@ Average Scoreline: 28-22
 ### Saitama Wild Knights V Toshiba Brave Lupus on 2025/02/09
 
 
-Average Margin: Saitama Wild Knights by 10.0
+Average Margin: Saitama Wild Knights by 10.2
 
-Average Scoreline: 37-27
+Average Scoreline: 37-26
 
 <p float="left">
 <img src="plots/performances_2025-02-09-SaitamaWildKnights_V_ToshibaBraveLupus.png" width="32%" />
@@ -584,9 +584,9 @@ Average Scoreline: 37-27
 ### Black Rams Tokyo V Shizuoka Blue Revs on 2025/02/09
 
 
-Average Margin: Shizuoka Blue Revs by 1.4
+Average Margin: Shizuoka Blue Revs by 1.0
 
-Average Scoreline: 29-27
+Average Scoreline: 29-28
 
 <p float="left">
 <img src="plots/performances_2025-02-09-BlackRamsTokyo_V_ShizuokaBlueRevs.png" width="32%" />
@@ -599,7 +599,7 @@ Average Scoreline: 29-27
 ### Toshiba Brave Lupus V Tokyo Sungoliath on 2025/02/15
 
 
-Average Margin: Toshiba Brave Lupus by 7.6
+Average Margin: Toshiba Brave Lupus by 7.9
 
 Average Scoreline: 35-28
 
@@ -612,7 +612,7 @@ Average Scoreline: 35-28
 ### Kubota Spears V Kobelco Kobe Steelers on 2025/02/15
 
 
-Average Margin: Kubota Spears by 5.6
+Average Margin: Kubota Spears by 6.1
 
 Average Scoreline: 35-29
 
@@ -638,7 +638,7 @@ Average Scoreline: 31-24
 ### Mie Honda Heat V Mitsubishi Dynaboars on 2025/02/16
 
 
-Average Margin: Mitsubishi Dynaboars by 4.0
+Average Margin: Mitsubishi Dynaboars by 4.4
 
 Average Scoreline: 33-29
 
@@ -651,9 +651,9 @@ Average Scoreline: 33-29
 ### Yokohama Canon Eagles V Saitama Wild Knights on 2025/02/16
 
 
-Average Margin: Saitama Wild Knights by 8.5
+Average Margin: Saitama Wild Knights by 7.6
 
-Average Scoreline: 32-23
+Average Scoreline: 31-24
 
 <p float="left">
 <img src="plots/performances_2025-02-16-YokohamaCanonEagles_V_SaitamaWildKnights.png" width="32%" />
@@ -664,7 +664,7 @@ Average Scoreline: 32-23
 ### Black Rams Tokyo V Urayasu D-Rocks on 2025/02/16
 
 
-Average Margin: Black Rams Tokyo by 10.2
+Average Margin: Black Rams Tokyo by 9.9
 
 Average Scoreline: 33-23
 
@@ -679,7 +679,7 @@ Average Scoreline: 33-23
 ### Saitama Wild Knights V Mitsubishi Dynaboars on 2025/02/22
 
 
-Average Margin: Saitama Wild Knights by 25.5
+Average Margin: Saitama Wild Knights by 25.7
 
 Average Scoreline: 48-22
 
@@ -692,9 +692,9 @@ Average Scoreline: 48-22
 ### Kobelco Kobe Steelers V Toyota Verblitz on 2025/02/22
 
 
-Average Margin: Kobelco Kobe Steelers by 5.6
+Average Margin: Kobelco Kobe Steelers by 4.9
 
-Average Scoreline: 36-30
+Average Scoreline: 35-30
 
 <p float="left">
 <img src="plots/performances_2025-02-22-KobelcoKobeSteelers_V_ToyotaVerblitz.png" width="32%" />
@@ -705,9 +705,9 @@ Average Scoreline: 36-30
 ### Kubota Spears V Shizuoka Blue Revs on 2025/02/22
 
 
-Average Margin: Kubota Spears by 10.8
+Average Margin: Kubota Spears by 10.2
 
-Average Scoreline: 36-25
+Average Scoreline: 35-25
 
 <p float="left">
 <img src="plots/performances_2025-02-22-KubotaSpears_V_ShizuokaBlueRevs.png" width="32%" />
@@ -718,7 +718,7 @@ Average Scoreline: 36-25
 ### Black Rams Tokyo V Toshiba Brave Lupus on 2025/02/22
 
 
-Average Margin: Toshiba Brave Lupus by 11.9
+Average Margin: Toshiba Brave Lupus by 12.5
 
 Average Scoreline: 31-19
 
@@ -731,7 +731,7 @@ Average Scoreline: 31-19
 ### Mie Honda Heat V Yokohama Canon Eagles on 2025/02/23
 
 
-Average Margin: Yokohama Canon Eagles by 15.8
+Average Margin: Yokohama Canon Eagles by 16.0
 
 Average Scoreline: 37-21
 
@@ -744,7 +744,7 @@ Average Scoreline: 37-21
 ### Tokyo Sungoliath V Urayasu D-Rocks on 2025/02/23
 
 
-Average Margin: Tokyo Sungoliath by 21.3
+Average Margin: Tokyo Sungoliath by 21.5
 
 Average Scoreline: 40-19
 
@@ -759,9 +759,9 @@ Average Scoreline: 40-19
 ### Toshiba Brave Lupus V Kubota Spears on 2025/03/01
 
 
-Average Margin: Toshiba Brave Lupus by 7.1
+Average Margin: Toshiba Brave Lupus by 8.8
 
-Average Scoreline: 32-25
+Average Scoreline: 33-25
 
 <p float="left">
 <img src="plots/performances_2025-03-01-ToshibaBraveLupus_V_KubotaSpears.png" width="32%" />
@@ -772,7 +772,7 @@ Average Scoreline: 32-25
 ### Mitsubishi Dynaboars V Black Rams Tokyo on 2025/03/01
 
 
-Average Margin: Mitsubishi Dynaboars by 2.4
+Average Margin: Mitsubishi Dynaboars by 2.8
 
 Average Scoreline: 29-26
 
@@ -785,9 +785,9 @@ Average Scoreline: 29-26
 ### Tokyo Sungoliath V Yokohama Canon Eagles on 2025/03/02
 
 
-Average Margin: Tokyo Sungoliath by 5.1
+Average Margin: Tokyo Sungoliath by 4.7
 
-Average Scoreline: 32-26
+Average Scoreline: 31-27
 
 <p float="left">
 <img src="plots/performances_2025-03-02-TokyoSungoliath_V_YokohamaCanonEagles.png" width="32%" />
@@ -800,7 +800,7 @@ Average Scoreline: 32-26
 
 Average Margin: Shizuoka Blue Revs by 16.6
 
-Average Scoreline: 39-22
+Average Scoreline: 39-23
 
 <p float="left">
 <img src="plots/performances_2025-03-02-ShizuokaBlueRevs_V_MieHondaHeat.png" width="32%" />
@@ -811,7 +811,7 @@ Average Scoreline: 39-22
 ### Saitama Wild Knights V Kobelco Kobe Steelers on 2025/03/02
 
 
-Average Margin: Saitama Wild Knights by 14.4
+Average Margin: Saitama Wild Knights by 14.5
 
 Average Scoreline: 40-26
 
@@ -839,7 +839,7 @@ Average Scoreline: 32-22
 ### Urayasu D-Rocks V Kubota Spears on 2025/03/14
 
 
-Average Margin: Kubota Spears by 13.5
+Average Margin: Kubota Spears by 12.6
 
 Average Scoreline: 34-21
 
@@ -852,7 +852,7 @@ Average Scoreline: 34-21
 ### Shizuoka Blue Revs V Saitama Wild Knights on 2025/03/15
 
 
-Average Margin: Saitama Wild Knights by 12.1
+Average Margin: Saitama Wild Knights by 12.0
 
 Average Scoreline: 32-20
 
@@ -865,9 +865,9 @@ Average Scoreline: 32-20
 ### Kobelco Kobe Steelers V Mie Honda Heat on 2025/03/15
 
 
-Average Margin: Kobelco Kobe Steelers by 20.2
+Average Margin: Kobelco Kobe Steelers by 21.7
 
-Average Scoreline: 39-19
+Average Scoreline: 40-18
 
 <p float="left">
 <img src="plots/performances_2025-03-15-KobelcoKobeSteelers_V_MieHondaHeat.png" width="32%" />
@@ -891,9 +891,9 @@ Average Scoreline: 38-24
 ### Toyota Verblitz V Toshiba Brave Lupus on 2025/03/15
 
 
-Average Margin: Toshiba Brave Lupus by 3.2
+Average Margin: Toshiba Brave Lupus by 4.0
 
-Average Scoreline: 23-20
+Average Scoreline: 23-19
 
 <p float="left">
 <img src="plots/performances_2025-03-15-ToyotaVerblitz_V_ToshibaBraveLupus.png" width="32%" />
@@ -904,7 +904,7 @@ Average Scoreline: 23-20
 ### Mitsubishi Dynaboars V Tokyo Sungoliath on 2025/03/16
 
 
-Average Margin: Tokyo Sungoliath by 9.5
+Average Margin: Tokyo Sungoliath by 9.6
 
 Average Scoreline: 31-21
 
@@ -919,7 +919,7 @@ Average Scoreline: 31-21
 ### Toyota Verblitz V Mitsubishi Dynaboars on 2025/03/22
 
 
-Average Margin: Toyota Verblitz by 12.8
+Average Margin: Toyota Verblitz by 12.5
 
 Average Scoreline: 40-27
 
@@ -932,7 +932,7 @@ Average Scoreline: 40-27
 ### Toshiba Brave Lupus V Saitama Wild Knights on 2025/03/22
 
 
-Average Margin: Saitama Wild Knights by 1.7
+Average Margin: Saitama Wild Knights by 1.4
 
 Average Scoreline: 29-27
 
@@ -945,7 +945,7 @@ Average Scoreline: 29-27
 ### Kubota Spears V Yokohama Canon Eagles on 2025/03/22
 
 
-Average Margin: Kubota Spears by 4.7
+Average Margin: Kubota Spears by 4.5
 
 Average Scoreline: 29-25
 
@@ -958,7 +958,7 @@ Average Scoreline: 29-25
 ### Shizuoka Blue Revs V Black Rams Tokyo on 2025/03/22
 
 
-Average Margin: Shizuoka Blue Revs by 9.0
+Average Margin: Shizuoka Blue Revs by 8.8
 
 Average Scoreline: 35-26
 
@@ -971,9 +971,9 @@ Average Scoreline: 35-26
 ### Mie Honda Heat V Urayasu D-Rocks on 2025/03/22
 
 
-Average Margin: Mie Honda Heat by 0.4
+Average Margin: Mie Honda Heat by 0.9
 
-Average Scoreline: 26-26
+Average Scoreline: 26-25
 
 <p float="left">
 <img src="plots/performances_2025-03-22-MieHondaHeat_V_UrayasuD-Rocks.png" width="32%" />
@@ -984,7 +984,7 @@ Average Scoreline: 26-26
 ### Tokyo Sungoliath V Kobelco Kobe Steelers on 2025/03/23
 
 
-Average Margin: Tokyo Sungoliath by 5.9
+Average Margin: Tokyo Sungoliath by 6.9
 
 Average Scoreline: 34-28
 
@@ -999,7 +999,7 @@ Average Scoreline: 34-28
 ### Kubota Spears V Mitsubishi Dynaboars on 2025/03/29
 
 
-Average Margin: Kubota Spears by 15.8
+Average Margin: Kubota Spears by 15.2
 
 Average Scoreline: 41-26
 
@@ -1012,7 +1012,7 @@ Average Scoreline: 41-26
 ### Urayasu D-Rocks V Saitama Wild Knights on 2025/03/29
 
 
-Average Margin: Saitama Wild Knights by 22.8
+Average Margin: Saitama Wild Knights by 22.7
 
 Average Scoreline: 40-17
 
@@ -1025,9 +1025,9 @@ Average Scoreline: 40-17
 ### Tokyo Sungoliath V Shizuoka Blue Revs on 2025/03/29
 
 
-Average Margin: Tokyo Sungoliath by 10.2
+Average Margin: Tokyo Sungoliath by 10.6
 
-Average Scoreline: 35-25
+Average Scoreline: 36-25
 
 <p float="left">
 <img src="plots/performances_2025-03-29-TokyoSungoliath_V_ShizuokaBlueRevs.png" width="32%" />
@@ -1038,9 +1038,9 @@ Average Scoreline: 35-25
 ### Toshiba Brave Lupus V Mie Honda Heat on 2025/03/30
 
 
-Average Margin: Toshiba Brave Lupus by 26.5
+Average Margin: Toshiba Brave Lupus by 28.1
 
-Average Scoreline: 38-11
+Average Scoreline: 39-10
 
 <p float="left">
 <img src="plots/performances_2025-03-30-ToshibaBraveLupus_V_MieHondaHeat.png" width="32%" />
@@ -1051,7 +1051,7 @@ Average Scoreline: 38-11
 ### Black Rams Tokyo V Kobelco Kobe Steelers on 2025/03/30
 
 
-Average Margin: Kobelco Kobe Steelers by 5.5
+Average Margin: Kobelco Kobe Steelers by 5.8
 
 Average Scoreline: 29-23
 
@@ -1064,9 +1064,9 @@ Average Scoreline: 29-23
 ### Yokohama Canon Eagles V Toyota Verblitz on 2025/03/30
 
 
-Average Margin: Yokohama Canon Eagles by 5.9
+Average Margin: Yokohama Canon Eagles by 6.6
 
-Average Scoreline: 31-25
+Average Scoreline: 32-25
 
 <p float="left">
 <img src="plots/performances_2025-03-30-YokohamaCanonEagles_V_ToyotaVerblitz.png" width="32%" />
@@ -1079,7 +1079,7 @@ Average Scoreline: 31-25
 ### Saitama Wild Knights V Toyota Verblitz on 2025/04/05
 
 
-Average Margin: Saitama Wild Knights by 15.6
+Average Margin: Saitama Wild Knights by 15.8
 
 Average Scoreline: 38-22
 
@@ -1092,9 +1092,9 @@ Average Scoreline: 38-22
 ### Shizuoka Blue Revs V Mitsubishi Dynaboars on 2025/04/05
 
 
-Average Margin: Shizuoka Blue Revs by 10.2
+Average Margin: Shizuoka Blue Revs by 8.9
 
-Average Scoreline: 39-29
+Average Scoreline: 39-30
 
 <p float="left">
 <img src="plots/performances_2025-04-05-ShizuokaBlueRevs_V_MitsubishiDynaboars.png" width="32%" />
@@ -1105,9 +1105,9 @@ Average Scoreline: 39-29
 ### Yokohama Canon Eagles V Urayasu D-Rocks on 2025/04/05
 
 
-Average Margin: Yokohama Canon Eagles by 18.2
+Average Margin: Yokohama Canon Eagles by 19.4
 
-Average Scoreline: 38-20
+Average Scoreline: 39-19
 
 <p float="left">
 <img src="plots/performances_2025-04-05-YokohamaCanonEagles_V_UrayasuD-Rocks.png" width="32%" />
@@ -1118,9 +1118,9 @@ Average Scoreline: 38-20
 ### Tokyo Sungoliath V Mie Honda Heat on 2025/04/05
 
 
-Average Margin: Tokyo Sungoliath by 22.5
+Average Margin: Tokyo Sungoliath by 22.2
 
-Average Scoreline: 40-17
+Average Scoreline: 40-18
 
 <p float="left">
 <img src="plots/performances_2025-04-05-TokyoSungoliath_V_MieHondaHeat.png" width="32%" />
@@ -1131,7 +1131,7 @@ Average Scoreline: 40-17
 ### Kobelco Kobe Steelers V Toshiba Brave Lupus on 2025/04/06
 
 
-Average Margin: Toshiba Brave Lupus by 1.3
+Average Margin: Toshiba Brave Lupus by 2.0
 
 Average Scoreline: 32-30
 
@@ -1144,7 +1144,7 @@ Average Scoreline: 32-30
 ### Black Rams Tokyo V Kubota Spears on 2025/04/06
 
 
-Average Margin: Kubota Spears by 6.3
+Average Margin: Kubota Spears by 7.4
 
 Average Scoreline: 32-25
 
@@ -1159,9 +1159,9 @@ Average Scoreline: 32-25
 ### Mie Honda Heat V Saitama Wild Knights on 2025/04/11
 
 
-Average Margin: Saitama Wild Knights by 24.4
+Average Margin: Saitama Wild Knights by 22.7
 
-Average Scoreline: 41-16
+Average Scoreline: 40-17
 
 <p float="left">
 <img src="plots/performances_2025-04-11-MieHondaHeat_V_SaitamaWildKnights.png" width="32%" />
@@ -1172,7 +1172,7 @@ Average Scoreline: 41-16
 ### Mitsubishi Dynaboars V Yokohama Canon Eagles on 2025/04/12
 
 
-Average Margin: Yokohama Canon Eagles by 7.6
+Average Margin: Yokohama Canon Eagles by 8.4
 
 Average Scoreline: 34-26
 
@@ -1185,9 +1185,9 @@ Average Scoreline: 34-26
 ### Toshiba Brave Lupus V Shizuoka Blue Revs on 2025/04/12
 
 
-Average Margin: Toshiba Brave Lupus by 13.2
+Average Margin: Toshiba Brave Lupus by 14.1
 
-Average Scoreline: 36-23
+Average Scoreline: 36-22
 
 <p float="left">
 <img src="plots/performances_2025-04-12-ToshibaBraveLupus_V_ShizuokaBlueRevs.png" width="32%" />
@@ -1198,9 +1198,9 @@ Average Scoreline: 36-23
 ### Black Rams Tokyo V Toyota Verblitz on 2025/04/13
 
 
-Average Margin: Toyota Verblitz by 4.1
+Average Margin: Toyota Verblitz by 4.2
 
-Average Scoreline: 31-27
+Average Scoreline: 32-27
 
 <p float="left">
 <img src="plots/performances_2025-04-13-BlackRamsTokyo_V_ToyotaVerblitz.png" width="32%" />
@@ -1211,7 +1211,7 @@ Average Scoreline: 31-27
 ### Urayasu D-Rocks V Kobelco Kobe Steelers on 2025/04/13
 
 
-Average Margin: Kobelco Kobe Steelers by 11.5
+Average Margin: Kobelco Kobe Steelers by 11.0
 
 Average Scoreline: 31-20
 
@@ -1224,7 +1224,7 @@ Average Scoreline: 31-20
 ### Kubota Spears V Tokyo Sungoliath on 2025/04/13
 
 
-Average Margin: Kubota Spears by 3.2
+Average Margin: Kubota Spears by 2.5
 
 Average Scoreline: 31-28
 
@@ -1239,7 +1239,7 @@ Average Scoreline: 31-28
 ### Urayasu D-Rocks V Toshiba Brave Lupus on 2025/04/25
 
 
-Average Margin: Toshiba Brave Lupus by 16.8
+Average Margin: Toshiba Brave Lupus by 16.5
 
 Average Scoreline: 34-17
 
@@ -1252,7 +1252,7 @@ Average Scoreline: 34-17
 ### Kubota Spears V Mie Honda Heat on 2025/04/26
 
 
-Average Margin: Kubota Spears by 21.8
+Average Margin: Kubota Spears by 22.2
 
 Average Scoreline: 40-18
 
@@ -1265,9 +1265,9 @@ Average Scoreline: 40-18
 ### Saitama Wild Knights V Black Rams Tokyo on 2025/04/26
 
 
-Average Margin: Saitama Wild Knights by 22.1
+Average Margin: Saitama Wild Knights by 23.3
 
-Average Scoreline: 39-17
+Average Scoreline: 40-17
 
 <p float="left">
 <img src="plots/performances_2025-04-26-SaitamaWildKnights_V_BlackRamsTokyo.png" width="32%" />
@@ -1278,9 +1278,9 @@ Average Scoreline: 39-17
 ### Kobelco Kobe Steelers V Mitsubishi Dynaboars on 2025/04/26
 
 
-Average Margin: Kobelco Kobe Steelers by 13.6
+Average Margin: Kobelco Kobe Steelers by 13.1
 
-Average Scoreline: 42-28
+Average Scoreline: 41-28
 
 <p float="left">
 <img src="plots/performances_2025-04-26-KobelcoKobeSteelers_V_MitsubishiDynaboars.png" width="32%" />
@@ -1291,7 +1291,7 @@ Average Scoreline: 42-28
 ### Toyota Verblitz V Tokyo Sungoliath on 2025/04/26
 
 
-Average Margin: Tokyo Sungoliath by 0.1
+Average Margin: Toyota Verblitz by 0.1
 
 Average Scoreline: 30-30
 
@@ -1304,7 +1304,7 @@ Average Scoreline: 30-30
 ### Shizuoka Blue Revs V Yokohama Canon Eagles on 2025/04/27
 
 
-Average Margin: Yokohama Canon Eagles by 1.9
+Average Margin: Yokohama Canon Eagles by 2.0
 
 Average Scoreline: 33-31
 
@@ -1319,7 +1319,7 @@ Average Scoreline: 33-31
 ### Mitsubishi Dynaboars V Toshiba Brave Lupus on 2025/05/03
 
 
-Average Margin: Toshiba Brave Lupus by 11.6
+Average Margin: Toshiba Brave Lupus by 11.8
 
 Average Scoreline: 33-21
 
@@ -1332,7 +1332,7 @@ Average Scoreline: 33-21
 ### Yokohama Canon Eagles V Kobelco Kobe Steelers on 2025/05/03
 
 
-Average Margin: Yokohama Canon Eagles by 4.1
+Average Margin: Yokohama Canon Eagles by 5.0
 
 Average Scoreline: 31-26
 
@@ -1345,7 +1345,7 @@ Average Scoreline: 31-26
 ### Shizuoka Blue Revs V Urayasu D-Rocks on 2025/05/03
 
 
-Average Margin: Shizuoka Blue Revs by 13.6
+Average Margin: Shizuoka Blue Revs by 13.8
 
 Average Scoreline: 38-24
 
@@ -1358,9 +1358,9 @@ Average Scoreline: 38-24
 ### Kubota Spears V Saitama Wild Knights on 2025/05/03
 
 
-Average Margin: Saitama Wild Knights by 6.0
+Average Margin: Saitama Wild Knights by 5.4
 
-Average Scoreline: 29-23
+Average Scoreline: 29-24
 
 <p float="left">
 <img src="plots/performances_2025-05-03-KubotaSpears_V_SaitamaWildKnights.png" width="32%" />
@@ -1384,7 +1384,7 @@ Average Scoreline: 39-25
 ### Mie Honda Heat V Toyota Verblitz on 2025/05/04
 
 
-Average Margin: Toyota Verblitz by 12.2
+Average Margin: Toyota Verblitz by 12.4
 
 Average Scoreline: 33-21
 
@@ -1399,7 +1399,7 @@ Average Scoreline: 33-21
 ### Urayasu D-Rocks V Mitsubishi Dynaboars on 2025/05/09
 
 
-Average Margin: Mitsubishi Dynaboars by 0.6
+Average Margin: Mitsubishi Dynaboars by 0.5
 
 Average Scoreline: 30-29
 
@@ -1412,9 +1412,9 @@ Average Scoreline: 30-29
 ### Toyota Verblitz V Kubota Spears on 2025/05/10
 
 
-Average Margin: Toyota Verblitz by 1.7
+Average Margin: Toyota Verblitz by 0.7
 
-Average Scoreline: 30-28
+Average Scoreline: 30-29
 
 <p float="left">
 <img src="plots/performances_2025-05-10-ToyotaVerblitz_V_KubotaSpears.png" width="32%" />
@@ -1425,7 +1425,7 @@ Average Scoreline: 30-28
 ### Toshiba Brave Lupus V Yokohama Canon Eagles on 2025/05/10
 
 
-Average Margin: Toshiba Brave Lupus by 8.5
+Average Margin: Toshiba Brave Lupus by 8.3
 
 Average Scoreline: 34-26
 
@@ -1438,7 +1438,7 @@ Average Scoreline: 34-26
 ### Kobelco Kobe Steelers V Shizuoka Blue Revs on 2025/05/10
 
 
-Average Margin: Kobelco Kobe Steelers by 7.5
+Average Margin: Kobelco Kobe Steelers by 7.6
 
 Average Scoreline: 35-27
 
@@ -1451,9 +1451,9 @@ Average Scoreline: 35-27
 ### Saitama Wild Knights V Tokyo Sungoliath on 2025/05/10
 
 
-Average Margin: Saitama Wild Knights by 12.2
+Average Margin: Saitama Wild Knights by 12.7
 
-Average Scoreline: 36-24
+Average Scoreline: 36-23
 
 <p float="left">
 <img src="plots/performances_2025-05-10-SaitamaWildKnights_V_TokyoSungoliath.png" width="32%" />
@@ -1464,7 +1464,7 @@ Average Scoreline: 36-24
 ### Black Rams Tokyo V Mie Honda Heat on 2025/05/11
 
 
-Average Margin: Black Rams Tokyo by 11.5
+Average Margin: Black Rams Tokyo by 11.9
 
 Average Scoreline: 34-22
 

@@ -11,7 +11,7 @@ categories: "United Rugby Championship 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.869, which translates to predicting Glasgow Warriors to win by 16.8.
 
-Our Over/Under is 61.5 - and combined with the spread above, we have a predicted scoreline of 22 to 39
+Our Over/Under is 54.5 - and combined with the spread above, we have a predicted scoreline of 19 to 36
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,7 +39,7 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Glasgow Warriors by 23.5
+## Prediction without Player Minutes: Glasgow Warriors by 23.6
 
 
 Glasgow Warriors by 14.0 on a neutral pitch
@@ -69,27 +69,27 @@ Glasgow Warriors by 14.0 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|              5 | Alec Hepburn         |             81.82 |        1 |             32.12 | Patrick Schickerling  |             70 |
-|              5 | Marnus van der Merwe |             93.23 |        2 |             74.52 | Johnny Matthews       |             68 |
-|             15 | Henry Thomas         |             65.67 |        3 |             23.84 | Finlay Richardson     |             84 |
-|             81 | Max Douglas          |             91.27 |        4 |             32.12 | Olujare Oguntibeju    |             43 |
-|             82 | Sam Lousi            |             91.36 |        5 |             81.44 | Alex Samuel           |             10 |
-|             82 | Josh MacLeod         |             64.44 |        6 |             35.39 | Ally Miller           |             77 |
-|             26 | Dan Davis            |             82.43 |        7 |             98.31 | Henco Venter          |             30 |
-|             82 | Vaea Fifita          |             96.24 |        8 |             37.28 | Jack Mann             |             14 |
-|             81 | Gareth Davies        |             45.57 |        9 |            100    | George Horne          |             41 |
-|             82 | Ioan Lloyd           |             12.67 |       10 |             98.44 | Adam Hastings         |             84 |
-|             81 | Blair Murray         |             33.48 |       11 |             90.54 | Kyle Rowe             |             82 |
-|             23 | Johnny Williams      |             90.28 |       12 |             63.7  | Tom Jordan            |             82 |
-|             82 | Macs Page            |             40.28 |       13 |             91.39 | Stafford McDowall     |             82 |
-|             82 | Ellis Mee            |             31.98 |       14 |             98.95 | Sebastian Cancelliere |             54 |
-|             51 | Ioan Nicholas        |             14.05 |       15 |             82.48 | Josh McKay            |             54 |
-|             24 | Ryan Elias           |             93.52 |       16 |             11.19 | Grant Stewart         |             84 |
-|             25 | Kemsley Mathias      |             77.18 |       17 |             76.88 | Allan Dell            |             41 |
-|             78 | Sam Wainwright       |             28.67 |       18 |             60.31 | Sam Talakai           |             16 |
-|             81 | Alex Craig           |             61.27 |       19 |            nan    | Macenzzie Duncan      |             26 |
-|             48 | Taine Plumtree       |             85.47 |       20 |             80.85 | Gregor Hiddleston     |             82 |
-|             70 | Efan Jones           |             32.35 |       21 |             41.68 | Angus Fraser          |             32 |
-|             82 | Charlie Titcombe     |            nan    |       22 |             33.13 | Ben Afshar            |             56 |
-|             81 | Eddie James          |             48.89 |       23 |             84.8  | Duncan Weir           |             64 |
+|             23 | Alec Hepburn         |             80.99 |        1 |             41.48 | Patrick Schickerling  |             41 |
+|             82 | Marnus van der Merwe |             94.4  |        2 |             73.93 | Johnny Matthews       |             84 |
+|             56 | Henry Thomas         |             63.79 |        3 |             40.82 | Finlay Richardson     |             30 |
+|             82 | Max Douglas          |             90.47 |        4 |             41.62 | Olujare Oguntibeju    |             16 |
+|             15 | Sam Lousi            |             88.6  |        5 |             78.89 | Alex Samuel           |             51 |
+|             32 | Josh MacLeod         |             55.48 |        6 |             37.1  | Ally Miller           |             84 |
+|             82 | Dan Davis            |             86.51 |        7 |             98.9  | Henco Venter          |             10 |
+|             64 | Vaea Fifita          |             95.77 |        8 |             29.58 | Jack Mann             |             58 |
+|             24 | Gareth Davies        |             36.17 |        9 |             99.85 | George Horne          |             70 |
+|             59 | Ioan Lloyd           |             10.83 |       10 |             98.84 | Adam Hastings         |             26 |
+|             26 | Blair Murray         |             36.77 |       11 |             90.9  | Kyle Rowe             |             43 |
+|             13 | Johnny Williams      |             87.53 |       12 |             68.47 | Tom Jordan            |             82 |
+|             81 | Macs Page            |             37.3  |       13 |             92.37 | Stafford McDowall     |             81 |
+|             82 | Ellis Mee            |             29.64 |       14 |             99.32 | Sebastian Cancelliere |             25 |
+|             56 | Ioan Nicholas        |             14.26 |       15 |             81.9  | Josh McKay            |             81 |
+|             72 | Ryan Elias           |             93.96 |       16 |             11.05 | Grant Stewart         |             68 |
+|             70 | Kemsley Mathias      |             74.95 |       17 |             76.32 | Allan Dell            |             14 |
+|             64 | Sam Wainwright       |             32.14 |       18 |             61.59 | Sam Talakai           |             14 |
+|             82 | Alex Craig           |             60.94 |       19 |            nan    | Macenzzie Duncan      |             84 |
+|              0 | Taine Plumtree       |             83.9  |       20 |             80.85 | Gregor Hiddleston     |             43 |
+|             46 | Efan Jones           |             33.23 |       21 |             42.27 | Angus Fraser          |              0 |
+|             82 | Charlie Titcombe     |            nan    |       22 |             33.85 | Ben Afshar            |             82 |
+|             77 | Eddie James          |             50.6  |       23 |             84.53 | Duncan Weir           |             82 |
 

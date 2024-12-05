@@ -69,30 +69,31 @@ Ospreys by 11.3 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player            |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:-----------------------|---------------:|
-|             82 | Garyn Phillips     |             67.76 |        1 |             74.02 | Luca Rizzoli           |             19 |
-|             62 | Sam Parry          |             52.43 |        2 |             55.38 | Tommaso Di Bartolomeo  |             62 |
-|             82 | Tom Botha          |             56.67 |        3 |             16.09 | Ion Neculai            |             82 |
-|             12 | James Fender       |             48.81 |        4 |             37.71 | Andrea Zambonin        |             23 |
-|              8 | William Greatbanks |             65.51 |        5 |             12.37 | Leonard Krumov         |             82 |
-|             12 | Harri Deaves       |             90.2  |        6 |             52.11 | Rusiate Nasove         |             73 |
-|             56 | Justin Tipuric     |             97.8  |        7 |             29.56 | Bautista Stavile       |             81 |
-|             82 | Morgan Morris      |              4.48 |        8 |             26.16 | Giacomo Ferrari        |             33 |
-|             31 | Kieran Hardy       |             55.05 |        9 |             11.82 | Alessandro Fusco       |             12 |
-|             67 | Owen Williams      |             94.15 |       10 |             17.74 | Giacomo Da Re          |             82 |
-|             81 | Keelan Giles       |             21.55 |       11 |             26.2  | Simone Gesi            |             12 |
-|             82 | Keiran Williams    |             88.7  |       12 |             59.63 | Enrico Lucchin         |             44 |
-|             62 | Owen Watkin        |             97.04 |       13 |             71.85 | Giulio Bertaccini      |             81 |
-|             70 | Daniel Kasende     |             95.57 |       14 |             18.39 | Jacopo Trulla          |             64 |
-|             41 | Jack Walsh         |             24.27 |       15 |             92.88 | Geronimo Prisciantelli |             81 |
-|             82 | Lewis Lloyd        |             64.19 |       16 |             80.12 | Luca Bigi              |             81 |
-|              8 | Steffan Thomas     |             20.98 |       17 |             24.02 | Muhamed Hasa           |             23 |
-|             69 | Ben Warren         |             61.38 |       18 |             16.51 | Matteo Nocera          |             50 |
-|             82 | Lewis Jones        |            nan    |       19 |             94.92 | Matteo Canali          |             81 |
-|             50 | Tristan Davies     |            nan    |       20 |             13.08 | Giovanni Licata        |             50 |
-|             31 | Luke Davies        |             68.43 |       21 |             67.5  | Gonzalo Garcia         |             73 |
-|             31 | Luke Davies        |             68.43 |       21 |             67.5  | Gonzalo Garcia         |             81 |
-|             31 | Luke Davies        |             68.43 |       21 |             67.5  | Gonzalo Garcia         |             49 |
-|             31 | Luke Davies        |             68.43 |       21 |             67.5  | Gonzalo Garcia         |             17 |
-|             70 | Iestyn Hopkins     |             68.69 |       22 |             92.5  | Luca Morisi            |             17 |
-|             72 | Max Nagy           |             81.02 |       23 |              4.87 | Giovanni Montemauri    |              8 |
+|             31 | Garyn Phillips     |             68.63 |        1 |             73.68 | Luca Rizzoli           |             73 |
+|             62 | Sam Parry          |             32.11 |        2 |             51.84 | Tommaso Di Bartolomeo  |             81 |
+|             12 | Tom Botha          |             59.34 |        3 |             19.4  | Ion Neculai            |             58 |
+|              8 | James Fender       |             48.43 |        4 |             36.17 | Andrea Zambonin        |             58 |
+|             82 | William Greatbanks |             66.89 |        5 |             10.81 | Leonard Krumov         |             58 |
+|             56 | Harri Deaves       |             90.73 |        6 |             47.39 | Rusiate Nasove         |             49 |
+|             82 | Justin Tipuric     |             98.23 |        7 |             27.4  | Bautista Stavile       |             82 |
+|             82 | Morgan Morris      |              5.46 |        8 |             25    | Giacomo Ferrari        |             19 |
+|             81 | Kieran Hardy       |             58.73 |        9 |             10.82 | Alessandro Fusco       |             74 |
+|             81 | Owen Williams      |             94.97 |       10 |             17.41 | Giacomo Da Re          |             58 |
+|             22 | Keelan Giles       |             22.37 |       11 |             25.09 | Simone Gesi            |             31 |
+|             59 | Keiran Williams    |             90.79 |       12 |             58.33 | Enrico Lucchin         |             19 |
+|              8 | Owen Watkin        |             97.3  |       13 |             70.42 | Giulio Bertaccini      |             33 |
+|             25 | Daniel Kasende     |             95.3  |       14 |             16.98 | Jacopo Trulla          |             12 |
+|             65 | Jack Walsh         |             34.55 |       15 |             93.6  | Geronimo Prisciantelli |             81 |
+|             82 | Jack Walsh         |             34.55 |       15 |             93.6  | Geronimo Prisciantelli |             81 |
+|             82 | Lewis Lloyd        |             64.59 |       16 |             84.54 | Luca Bigi              |             82 |
+|             82 | Steffan Thomas     |             24.56 |       17 |             27.36 | Muhamed Hasa           |             81 |
+|             67 | Ben Warren         |             62.25 |       18 |             20.6  | Matteo Nocera          |             12 |
+|             12 | Lewis Jones        |            nan    |       19 |             94.89 | Matteo Canali          |             69 |
+|             54 | Tristan Davies     |            nan    |       20 |             12.85 | Giovanni Licata        |             23 |
+|             31 | Luke Davies        |             67.39 |       21 |             68.16 | Gonzalo Garcia         |             58 |
+|             31 | Luke Davies        |             67.39 |       21 |             68.16 | Gonzalo Garcia         |             13 |
+|             31 | Luke Davies        |             67.39 |       21 |             68.16 | Gonzalo Garcia         |             81 |
+|             31 | Luke Davies        |             67.39 |       21 |             68.16 | Gonzalo Garcia         |             50 |
+|             38 | Iestyn Hopkins     |             68.99 |       22 |             92    | Luca Morisi            |             81 |
+|             70 | Max Nagy           |             81.54 |       23 |              4.84 | Giovanni Montemauri    |             24 |
 

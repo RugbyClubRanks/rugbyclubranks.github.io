@@ -11,7 +11,7 @@ categories: "Pro D2 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.681, which translates to predicting Oyonnax to win by 6.7.
 
-Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 21 to 28
+Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 22 to 29
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Oyonnax by 11.9
+## Prediction without Player Minutes: Oyonnax by 11.8
 
 
-Mont-de-Marsan by 1.2 on a neutral pitch
+Mont-de-Marsan by 1.3 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Mont-de-Marsan by 1.2 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             16 | Luka Goginava         |             42.31 |        1 |             55.42 | Antoine Abraham     |             66 |
-|             80 | Florian Dufour        |             63.92 |        2 |             89.99 | Peniami Narisia     |             46 |
-|             80 | Gheorghe Gajion       |             59.83 |        3 |             17.22 | Ali Oz              |             80 |
-|             64 | Jules Dussutour       |             68.14 |        4 |              3.81 | Manuel Leindekar    |             80 |
-|             80 | Myles Edwards         |             69.92 |        5 |             19.15 | Hugo Fabregue       |             80 |
-|             80 | Aurélien Lafforgue    |             66.81 |        6 |             16.64 | Kevin Lebreton      |             61 |
-|             23 | Raphaël Robic         |             54.65 |        7 |             54.22 | Antoine Miquel      |             56 |
-|             14 | Michael Faleafa       |             46.06 |        8 |             24.91 | Rory Grice          |             16 |
-|             28 | Baptiste Canut        |             56.3  |        9 |             11.66 | Vasil Lobzhanidze   |             64 |
-|             80 | Willie Du Plessis     |             64.52 |       10 |             15.98 | Chris William Smith |             80 |
-|             80 | Pierre Sayerse        |             71.1  |       11 |             20.35 | Maxime Salles       |             44 |
-|             55 | Nacani Wakaya         |             56.11 |       12 |             22.13 | Lucas Mensa         |             49 |
-|             80 | Gatien Massé          |             64.35 |       13 |              4.63 | Chris Farrell       |             38 |
-|             64 | Simao Bento           |             14.26 |       14 |             71.25 | Daniel Ikpefan      |             49 |
-|             70 | Yoann Laousse Azpiazu |             59.12 |       15 |             50.55 | Darren Sweetnam     |             40 |
-|             60 | Luka Begic            |              6.48 |       16 |             24.74 | Benjamin Geledan    |             49 |
-|             80 | Jean-Luc Innocente    |            nan    |       17 |            nan    | Rémi Di Pietro      |             49 |
-|             55 | Ioane Iashagashvili   |             38.71 |       18 |             46.95 | Ewan Johnson        |             49 |
-|             80 | Waël Ponpon           |            nan    |       19 |            nan    | David Odiase (2)    |              0 |
-|             80 | Nicolas Darquier      |             37.17 |       20 |             48.99 | Yvan David          |             50 |
-|             69 | Patricio Fernandez    |            nan    |       21 |             76.61 | Zack Holmes         |             65 |
-|             80 | Alexandre de Nardi    |             37.16 |       22 |             44.63 | Eddie Sawailau      |             47 |
-|             30 | Anthony Alves         |             10.79 |       23 |             72.94 | Paulo Tafili        |             80 |
+|             65 | Luka Goginava         |             58.9  |        1 |             50.16 | Antoine Abraham     |             80 |
+|             80 | Florian Dufour        |             64.65 |        2 |             88.51 | Peniami Narisia     |             80 |
+|             57 | Gheorghe Gajion       |             61.32 |        3 |             20.66 | Ali Oz              |             80 |
+|             80 | Jules Dussutour       |             71.23 |        4 |              2.72 | Manuel Leindekar    |             65 |
+|             72 | Myles Edwards         |             69.02 |        5 |             17.96 | Hugo Fabregue       |             80 |
+|             80 | Aurélien Lafforgue    |             68.38 |        6 |             15.94 | Kevin Lebreton      |             80 |
+|             80 | Raphaël Robic         |             69.22 |        7 |             53.63 | Antoine Miquel      |             52 |
+|             80 | Michael Faleafa       |             64.26 |        8 |             19.54 | Rory Grice          |             44 |
+|             25 | Baptiste Canut        |             55.8  |        9 |             10.36 | Vasil Lobzhanidze   |             48 |
+|             28 | Willie Du Plessis     |             53.19 |       10 |             21.08 | Chris William Smith |             37 |
+|             35 | Pierre Sayerse        |             62.24 |       11 |             19.03 | Maxime Salles       |             48 |
+|             28 | Nacani Wakaya         |             49.21 |       12 |             23.44 | Lucas Mensa         |             40 |
+|             36 | Gatien Massé          |             55.26 |       13 |              4    | Chris Farrell       |             48 |
+|             13 | Simao Bento           |             12.05 |       14 |             70.43 | Daniel Ikpefan      |             48 |
+|             28 | Yoann Laousse Azpiazu |             52.29 |       15 |             48.08 | Darren Sweetnam     |             48 |
+|             28 | Luka Begic            |              5.74 |       16 |             25.77 | Benjamin Geledan    |             42 |
+|             24 | Jean-Luc Innocente    |            nan    |       17 |            nan    | Rémi Di Pietro      |             48 |
+|              0 | Ioane Iashagashvili   |             38.56 |       18 |             46.89 | Ewan Johnson        |             48 |
+|             32 | Waël Ponpon           |            nan    |       19 |            nan    | David Odiase (2)    |             70 |
+|             66 | Nicolas Darquier      |             37.4  |       20 |             48.69 | Yvan David          |             48 |
+|             23 | Patricio Fernandez    |            nan    |       21 |             76.6  | Zack Holmes         |             80 |
+|             57 | Alexandre de Nardi    |             35.03 |       22 |             44.93 | Eddie Sawailau      |             47 |
+|             55 | Anthony Alves         |             14.84 |       23 |             73.08 | Paulo Tafili        |             80 |
 

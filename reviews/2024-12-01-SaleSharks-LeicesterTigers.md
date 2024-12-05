@@ -11,7 +11,7 @@ categories: "Gallagher Premiership 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.581, which translates to predicting Sale Sharks to win by 2.9.
 
-Our Over/Under is 44.5 - and combined with the spread above, we have a predicted scoreline of 21 to 24
+Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 24 to 27
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Leicester Tigers by 29.2
+## Prediction without Player Minutes: Leicester Tigers by 35.2
 
 
-Leicester Tigers by 42.9 on a neutral pitch
+Leicester Tigers by 48.8 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,37 +69,39 @@ Leicester Tigers by 42.9 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             52 | Nicky Smith           |             47.56 |        1 |             88.56 | Bevan Rodd           |             82 |
-|             70 | Charlie Clare         |             17.08 |        2 |              2.36 | Luke Cowan-Dickie    |             21 |
-|             70 | Charlie Clare         |             17.08 |        2 |              2.36 | Luke Cowan-Dickie    |              9 |
-|             70 | Charlie Clare         |             17.08 |        2 |              2.36 | Luke Cowan-Dickie    |             76 |
-|             70 | Charlie Clare         |             17.08 |        2 |              2.36 | Luke Cowan-Dickie    |             20 |
-|             82 | Joe Heyes             |             81.17 |        3 |             73.66 | Asher Opoku-Fordjour |             20 |
-|             30 | George Martin         |             93.73 |        4 |             83.39 | Ernst van Rhyn       |             67 |
-|             69 | Tom Manz              |             38.14 |        5 |             35.34 | Hyron Andrews        |             82 |
-|             59 | Hanro Liebenberg      |             66.22 |        6 |             99.92 | Tom Curry            |             82 |
-|             59 | Hanro Liebenberg      |             66.22 |        6 |             99.92 | Tom Curry            |             52 |
-|             59 | Hanro Liebenberg      |             66.22 |        6 |             99.92 | Tom Curry            |             64 |
-|             23 | Tommy Reffell         |             31.17 |        7 |             71.96 | Ben Curry            |             82 |
-|             18 | Olly Cracknell        |             31.9  |        8 |             90.32 | Daniel du Preez      |             82 |
-|             12 | Jack van Poortvliet   |             70.92 |        9 |             61.12 | Gus Warr             |             28 |
-|             70 | Handre Pollard        |             87.52 |       10 |             96.3  | George Ford          |             82 |
-|             70 | Ollie Hassell-Collins |             64.34 |       11 |             92.79 | Arron Reed           |             54 |
-|             70 | Ollie Hassell-Collins |             64.34 |       11 |             92.79 | Arron Reed           |             58 |
-|             70 | Ollie Hassell-Collins |             64.34 |       11 |             92.79 | Arron Reed           |             59 |
-|             70 | Solomone Kata         |             26.39 |       12 |             60.09 | Luke James           |             36 |
-|             21 | Izaia Perese          |             37.04 |       13 |             10.74 | Robert du Preez      |             10 |
-|             21 | Izaia Perese          |             37.04 |       13 |             10.74 | Robert du Preez      |             30 |
-|             13 | Anthony Watson        |             62.09 |       14 |             59.76 | Tom Roebuck          |             72 |
-|             23 | Freddie Steward       |              8.39 |       15 |              6.57 | Joe Carpenter        |             82 |
-|             23 | Freddie Steward       |              8.39 |       15 |              6.57 | Joe Carpenter        |             16 |
-|             23 | Freddie Steward       |              8.39 |       15 |              6.57 | Joe Carpenter        |             66 |
-|             82 | Archie Vanes          |            nan    |       16 |             43.89 | Tadgh McElroy        |             82 |
-|             10 | James Cronin          |             82.06 |       17 |             84.33 | Simon McIntyre       |             72 |
-|             82 | Dan Cole              |             20.38 |       18 |             15.02 | James Harper         |             82 |
-|             54 | Jed Holloway          |             17.88 |       19 |            100    | Jean-Luc du Preez    |             82 |
-|             82 | Emeka Ilione          |             73.56 |       20 |            nan    | Tom Burrow           |             73 |
-|             54 | Ben Youngs            |             78.85 |       21 |             76.67 | Raffi Quirke         |             82 |
-|             82 | Jamie Shillcock       |             65.3  |       22 |             73.57 | Will Addison         |             59 |
-|             46 | Will Wand             |            nan    |       23 |              8.02 | Sam Dugdale          |             58 |
+|             30 | Nicky Smith           |             52.64 |        1 |             84.84 | Bevan Rodd           |             21 |
+|             30 | Charlie Clare         |             27.98 |        2 |             74.08 | Luke Cowan-Dickie    |             58 |
+|             30 | Charlie Clare         |             27.98 |        2 |             74.08 | Luke Cowan-Dickie    |             28 |
+|             30 | Charlie Clare         |             27.98 |        2 |             74.08 | Luke Cowan-Dickie    |             82 |
+|             30 | Charlie Clare         |             27.98 |        2 |             74.08 | Luke Cowan-Dickie    |             68 |
+|             59 | Joe Heyes             |             81.87 |        3 |             77.36 | Asher Opoku-Fordjour |             58 |
+|             82 | George Martin         |             92.85 |        4 |             85.28 | Ernst van Rhyn       |             82 |
+|             46 | Tom Manz              |             49.79 |        5 |             29.45 | Hyron Andrews        |             67 |
+|             13 | Hanro Liebenberg      |             76.14 |        6 |             99.92 | Tom Curry            |             52 |
+|             13 | Hanro Liebenberg      |             76.14 |        6 |             99.92 | Tom Curry            |             70 |
+|             13 | Hanro Liebenberg      |             76.14 |        6 |             99.92 | Tom Curry            |             82 |
+|             23 | Tommy Reffell         |             28.33 |        7 |             74.11 | Ben Curry            |             82 |
+|             18 | Olly Cracknell        |             31.16 |        8 |             90.32 | Daniel du Preez      |             82 |
+|             70 | Jack van Poortvliet   |             58.58 |        9 |             72.33 | Gus Warr             |             58 |
+|             82 | Handre Pollard        |             85.88 |       10 |             93.81 | George Ford          |             20 |
+|             12 | Ollie Hassell-Collins |             77.48 |       11 |             96.82 | Arron Reed           |             54 |
+|             12 | Ollie Hassell-Collins |             77.48 |       11 |             96.82 | Arron Reed           |             20 |
+|             12 | Ollie Hassell-Collins |             77.48 |       11 |             96.82 | Arron Reed           |             72 |
+|             12 | Ollie Hassell-Collins |             77.48 |       11 |             96.82 | Arron Reed           |              9 |
+|             24 | Solomone Kata         |             42.88 |       12 |             71.26 | Luke James           |             72 |
+|             70 | Izaia Perese          |             20.56 |       13 |             47.26 | Robert du Preez      |             76 |
+|             70 | Izaia Perese          |             20.56 |       13 |             47.26 | Robert du Preez      |             21 |
+|             82 | Anthony Watson        |             33.51 |       14 |             59.36 | Tom Roebuck          |             70 |
+|             69 | Freddie Steward       |              6.22 |       15 |             87.57 | Joe Carpenter        |             66 |
+|             69 | Freddie Steward       |              6.22 |       15 |             87.57 | Joe Carpenter        |             59 |
+|             69 | Freddie Steward       |              6.22 |       15 |             87.57 | Joe Carpenter        |             10 |
+|             69 | Freddie Steward       |              6.22 |       15 |             87.57 | Joe Carpenter        |             82 |
+|             10 | Archie Vanes          |            nan    |       16 |             45.07 | Tadgh McElroy        |             82 |
+|             66 | James Cronin          |             80.55 |       17 |             83.24 | Simon McIntyre       |             64 |
+|             36 | Dan Cole              |             31.54 |       18 |             18.96 | James Harper         |             82 |
+|             54 | Jed Holloway          |             17.36 |       19 |            100    | Jean-Luc du Preez    |             52 |
+|             23 | Emeka Ilione          |             74.28 |       20 |            nan    | Tom Burrow           |             82 |
+|             82 | Ben Youngs            |             83.93 |       21 |             76.35 | Raffi Quirke         |             82 |
+|             54 | Jamie Shillcock       |             64.22 |       22 |             72.86 | Will Addison         |             82 |
+|             28 | Will Wand             |            nan    |       23 |              8.77 | Sam Dugdale          |             59 |
 

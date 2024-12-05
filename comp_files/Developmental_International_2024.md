@@ -1,6 +1,6 @@
 ---  
 title: "Developmental International 2024 Status"  
-date: 2024-12-03 6:00:00 -0500  
+date: 2024-12-05 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -91,8 +91,8 @@ aside:
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
 | Club Level | 66.7% | 26.6 |
-| Player Level: Lineup | 100.0% | 21.2 |
-| Player Level: Minutes | 80.0% | 23.2 |
+| Player Level: Lineup | 100.0% | 21.0 |
+| Player Level: Minutes | 80.0% | 22.3 |
 
 
 # Future Predictions
@@ -102,9 +102,9 @@ aside:
 ### Mexico V Cayman Islands on 2024/12/07
 
 
-Average Margin: Mexico by 23.5
+Average Margin: Mexico by 24.9
 
-Average Scoreline: 36-12
+Average Scoreline: 36-11
 
 <p float="left">
 <img src="plots/performances_2024-12-07-Mexico_V_CaymanIslands.png" width="32%" />

@@ -11,7 +11,7 @@ categories: "United Rugby Championship 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.638, which translates to predicting Munster to win by 5.0.
 
-Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 20 to 26
+Our Over/Under is 54.5 - and combined with the spread above, we have a predicted scoreline of 25 to 30
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Lions by 31.6
+## Prediction without Player Minutes: Lions by 43.9
 
 
-Lions by 41.4 on a neutral pitch
+Lions by 53.7 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,36 +69,35 @@ Lions by 41.4 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player      |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:-----------------|---------------:|
-|             24 | Juan Schoeman        |             19.61 |        1 |             50.42 | Dian Bleuler     |             82 |
-|             51 | PJ Botha             |             33.43 |        2 |             78.06 | Diarmuid Barron  |             82 |
-|             41 | Asenathi Ntlabakanye |             31.35 |        3 |              7.15 | John Ryan        |             41 |
-|             41 | Asenathi Ntlabakanye |             31.35 |        3 |              7.15 | John Ryan        |             69 |
-|             38 | Ruben Schoeman       |             23.47 |        4 |             74.83 | Evan O'Connell   |             82 |
-|             82 | Ruben Schoeman       |             23.47 |        4 |             74.83 | Evan O'Connell   |             82 |
-|             81 | Ruben Schoeman       |             23.47 |        4 |             74.83 | Evan O'Connell   |             82 |
-|             69 | Ruan Delport         |             19.92 |        5 |             20.51 | Fineen Wycherley |             41 |
-|             19 | Jarod Cairns         |             38.68 |        6 |             43.16 | Jack O'Donoghue  |             82 |
-|             48 | WJ Steenkamp         |             27.87 |        7 |             70.1  | Alex Kendellen   |             21 |
-|             70 | Francke Horn         |             95.7  |        8 |             26.88 | Gavin Coombes    |             69 |
-|             58 | Morne van den Berg   |              7.15 |        9 |             26.91 | Ethan Coughlan   |             26 |
-|             81 | Morne van den Berg   |              7.15 |        9 |             26.91 | Ethan Coughlan   |             26 |
-|             82 | Morne van den Berg   |              7.15 |        9 |             26.91 | Ethan Coughlan   |             26 |
-|             22 | Morne van den Berg   |              7.15 |        9 |             26.91 | Ethan Coughlan   |             26 |
-|             50 | Kade Wolhuter        |              3.51 |       10 |             20.66 | Billy Burns      |             58 |
-|             11 | Edwill van der Merwe |             90.69 |       11 |             20.12 | Thaakir Abrahams |             41 |
-|             12 | Marius Louw          |             88.06 |       12 |             86.94 | Alex Nankivell   |             74 |
-|             30 | Henco van Wyk        |             25.65 |       13 |             11.94 | Tom Farrell      |             26 |
-|             58 | Richard Kriel        |             21.32 |       14 |             16.74 | Shay McCarthy    |             81 |
-|             31 | Quan Horn            |             94.34 |       15 |             13.5  | Mike Haley       |             21 |
-|             82 | Franco Marais        |            nan    |       16 |             18.41 | Niall Scannell   |             26 |
-|             81 | Morgan Naude         |             68.47 |       17 |            nan    | Kieran Ryan      |             13 |
-|             19 | RF Schoeman          |            nan    |       18 |             85.46 | Stephen Archer   |             24 |
-|             19 | Reinhard Nothnagel   |             92.97 |       19 |             52.45 | Ruadhan Quinn    |             26 |
-|             82 | JC Pretorius         |             81.33 |       20 |              9.8  | John Hodnett     |             26 |
-|             58 | Sanele Nohamba       |             92.01 |       21 |            nan    | Paddy Patterson  |             13 |
-|             69 | Tapiwa Mafura        |             89.04 |       22 |             11.5  | Tony Butler      |             82 |
-|             32 | Erich Cronje         |             27.13 |       23 |             84.08 | Shane Daly       |             81 |
-|             32 | Erich Cronje         |             27.13 |       23 |             84.08 | Shane Daly       |             58 |
-|             32 | Erich Cronje         |             27.13 |       23 |             84.08 | Shane Daly       |             69 |
-|             32 | Erich Cronje         |             27.13 |       23 |             84.08 | Shane Daly       |             14 |
+|             59 | Juan Schoeman        |             20.16 |        1 |             41.81 | Dian Bleuler     |             56 |
+|             56 | PJ Botha             |             31.08 |        2 |             75.11 | Diarmuid Barron  |             69 |
+|             11 | Asenathi Ntlabakanye |             45.05 |        3 |             10.27 | John Ryan        |             26 |
+|             11 | Asenathi Ntlabakanye |             45.05 |        3 |             10.27 | John Ryan        |             71 |
+|             11 | Asenathi Ntlabakanye |             45.05 |        3 |             10.27 | John Ryan        |             82 |
+|             81 | Ruben Schoeman       |             31.4  |        4 |             74.81 | Evan O'Connell   |             82 |
+|             44 | Ruben Schoeman       |             31.4  |        4 |             74.81 | Evan O'Connell   |             82 |
+|             81 | Ruan Delport         |             17.7  |        5 |             17.02 | Fineen Wycherley |             21 |
+|             82 | Jarod Cairns         |             22.09 |        6 |             26.22 | Jack O'Donoghue  |             30 |
+|             81 | WJ Steenkamp         |             22.26 |        7 |             71.33 | Alex Kendellen   |             26 |
+|             69 | Francke Horn         |             95.95 |        8 |             17.08 | Gavin Coombes    |             26 |
+|             65 | Morne van den Berg   |              7.11 |        9 |             32.46 | Ethan Coughlan   |             41 |
+|             59 | Morne van den Berg   |              7.11 |        9 |             32.46 | Ethan Coughlan   |             41 |
+|             20 | Morne van den Berg   |              7.11 |        9 |             32.46 | Ethan Coughlan   |             41 |
+|             82 | Morne van den Berg   |              7.11 |        9 |             32.46 | Ethan Coughlan   |             41 |
+|             12 | Kade Wolhuter        |              4.26 |       10 |             14.89 | Billy Burns      |             26 |
+|             69 | Edwill van der Merwe |             85.6  |       11 |             27.07 | Thaakir Abrahams |             82 |
+|             17 | Marius Louw          |             88.37 |       12 |             87.44 | Alex Nankivell   |             41 |
+|             82 | Henco van Wyk        |             14.33 |       13 |              9.4  | Tom Farrell      |              8 |
+|             82 | Richard Kriel        |             17.51 |       14 |             14.03 | Shay McCarthy    |             38 |
+|             14 | Quan Horn            |             95.06 |       15 |             13.35 | Mike Haley       |             26 |
+|             81 | Franco Marais        |            nan    |       16 |             18.56 | Niall Scannell   |             82 |
+|             81 | Morgan Naude         |             68.9  |       17 |            nan    | Kieran Ryan      |             13 |
+|             70 | RF Schoeman          |            nan    |       18 |             84.4  | Stephen Archer   |             69 |
+|             32 | Reinhard Nothnagel   |             93.36 |       19 |             51.6  | Ruadhan Quinn    |             69 |
+|             48 | JC Pretorius         |             82.29 |       20 |             10.54 | John Hodnett     |             12 |
+|             64 | Sanele Nohamba       |             92.26 |       21 |            nan    | Paddy Patterson  |             19 |
+|             50 | Tapiwa Mafura        |             88.25 |       22 |             11.41 | Tony Butler      |             82 |
+|             62 | Erich Cronje         |             27.35 |       23 |             83.78 | Shane Daly       |             19 |
+|             62 | Erich Cronje         |             27.35 |       23 |             83.78 | Shane Daly       |             82 |
+|             62 | Erich Cronje         |             27.35 |       23 |             83.78 | Shane Daly       |             21 |
 

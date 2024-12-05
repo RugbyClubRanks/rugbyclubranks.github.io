@@ -11,7 +11,7 @@ categories: "Pro D2 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.678, which translates to predicting Soyaux-Angouleme to win by 6.6.
 
-Our Over/Under is 40.5 - and combined with the spread above, we have a predicted scoreline of 17 to 24
+Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 19 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Soyaux-Angouleme by 1.1 on a neutral pitch
 
 |   Away Minutes | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             31 | Andréa Pontanier  |             44.87 |        1 |             50.24 | Sami Zouhaïr       |             80 |
-|             80 | Cyril Deligny     |             36.52 |        2 |             47.42 | Patxi Bidart       |             80 |
-|             71 | Vincent Vial      |             40.46 |        3 |             46.25 | Seydou Diakité     |             40 |
-|             30 | Ryan Mccauley     |             43.14 |        4 |             50.25 | Maxence Lemardelet |             16 |
-|             22 | Florian Goumat    |             42.03 |        5 |             51.69 | Sikeli Nabou       |             32 |
-|             13 | Axel Bruchet      |             41.05 |        6 |             47.04 | Hubert Texier      |             29 |
-|             74 | Loan Réal         |             45.19 |        7 |             47.3  | Clément Sentubéry  |             31 |
-|             32 | Sven Girlando     |             32.62 |        8 |             42.65 | Samuel Nollet      |             29 |
-|             33 | Mattéo Rodor      |             41.52 |        9 |             53.03 | Emmanuel Saubusse  |             80 |
-|             47 | Joris De Moura    |             89.47 |       10 |             46.2  | Ben Botica         |             69 |
-|             47 | Adam Vargas       |             42.57 |       11 |             46.47 | Ledua Mau          |             69 |
-|             50 | Mathieu Guillomot |             35.74 |       12 |             45.28 | Mathis Lafon       |             60 |
-|             80 | Anatole Pauvert   |             34.17 |       13 |             40    | Arthur Proult      |             80 |
-|             80 | Owen Lane         |              9.61 |       14 |             47.75 | Jules Dubecq       |             72 |
-|             62 | Thomas Roziere    |             23.72 |       15 |             43.25 | Peter Lydon        |             24 |
-|             56 | Dorian Marco-Pena |            nan    |       16 |             44.33 | Motu Matu'U        |             66 |
-|             38 | Julien Royer      |            nan    |       17 |            nan    | Georgy Balakarev   |             54 |
-|             80 | Nathan Huguen     |            nan    |       18 |            nan    | Ian Kitwanga       |             55 |
-|             31 | Philippe Laville  |            nan    |       19 |            nan    | Germain Burgaud    |             80 |
-|             31 | Thomas Lhuséro    |             41.06 |       20 |             43.08 | Alexis Levron      |             64 |
-|             80 | Esteban Tercq     |            nan    |       21 |            nan    | Alex Masibaka (2)  |             40 |
-|             40 | Adrien Roux       |            nan    |       22 |             35.09 | George Tilsley     |             80 |
-|             80 | Kévin Goze        |            nan    |       23 |             42.67 | Yassin Boutemanni  |             30 |
+|             32 | Andréa Pontanier  |             46.43 |        1 |             51.7  | Sami Zouhaïr       |             72 |
+|             67 | Cyril Deligny     |             36.82 |        2 |             43    | Patxi Bidart       |              0 |
+|             80 | Vincent Vial      |             41.76 |        3 |             50.99 | Seydou Diakité     |             80 |
+|             49 | Ryan Mccauley     |             41.87 |        4 |             54.13 | Maxence Lemardelet |             69 |
+|             14 | Florian Goumat    |             41.45 |        5 |             49.02 | Sikeli Nabou       |             14 |
+|             28 | Axel Bruchet      |             41.15 |        6 |             47.55 | Hubert Texier      |             26 |
+|             66 | Loan Réal         |             45.36 |        7 |             51.01 | Clément Sentubéry  |             64 |
+|             28 | Sven Girlando     |             32.22 |        8 |             42.08 | Samuel Nollet      |             26 |
+|             21 | Mattéo Rodor      |             42.04 |        9 |             46.21 | Emmanuel Saubusse  |              0 |
+|             12 | Joris De Moura    |             89.36 |       10 |             44.49 | Ben Botica         |             29 |
+|             73 | Adam Vargas       |             41.7  |       11 |             47.76 | Ledua Mau          |             80 |
+|             31 | Mathieu Guillomot |             36.28 |       12 |             42.79 | Mathis Lafon       |             11 |
+|             80 | Anatole Pauvert   |             33.58 |       13 |             37.21 | Arthur Proult      |             21 |
+|             80 | Owen Lane         |              9.17 |       14 |             45.11 | Jules Dubecq       |             26 |
+|             66 | Thomas Roziere    |             23.77 |       15 |             48.45 | Peter Lydon        |             80 |
+|             50 | Dorian Marco-Pena |            nan    |       16 |             45.36 | Motu Matu'U        |             56 |
+|             57 | Julien Royer      |            nan    |       17 |            nan    | Georgy Balakarev   |             56 |
+|             80 | Nathan Huguen     |            nan    |       18 |            nan    | Ian Kitwanga       |             80 |
+|             32 | Philippe Laville  |            nan    |       19 |            nan    | Germain Burgaud    |             64 |
+|             32 | Thomas Lhuséro    |             40.96 |       20 |             43.28 | Alexis Levron      |             40 |
+|             80 | Esteban Tercq     |            nan    |       21 |            nan    | Alex Masibaka (2)  |             80 |
+|             40 | Adrien Roux       |            nan    |       22 |             34.6  | George Tilsley     |             22 |
+|             80 | Kévin Goze        |            nan    |       23 |             44.4  | Yassin Boutemanni  |             44 |
 
