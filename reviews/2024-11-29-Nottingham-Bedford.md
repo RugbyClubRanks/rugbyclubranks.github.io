@@ -11,7 +11,7 @@ categories: "RFU Championship 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.539, which translates to predicting Nottingham to win by 1.4.
 
-Our Over/Under is 66.5 - and combined with the spread above, we have a predicted scoreline of 33 to 34
+Our Over/Under is 61.5 - and combined with the spread above, we have a predicted scoreline of 30 to 31
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Bedford by 2.0
+## Prediction without Player Minutes: Nottingham by 5.4
 
 
-Bedford by 6.6 on a neutral pitch
+Nottingham by 0.8 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -67,29 +67,29 @@ Bedford by 6.6 on a neutral pitch
 </p>
 
 
-|   Away Minutes | Away Player             |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
-|---------------:|:------------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             52 | Joey Conway             |             36.76 |        1 |             25.38 | Aniseko Sio          |             64 |
-|             80 | Nathan Langdon          |             19.44 |        2 |             20.03 | Harry Clayton        |             69 |
-|             80 | Oisin Heffernan         |             54.62 |        3 |             78.68 | Dan Richardson       |             80 |
-|             42 | Will Spencer            |             53.87 |        4 |             11.15 | Sebastian Ferreira   |             80 |
-|              0 | Rory Ward               |             25.02 |        5 |             38.04 | Jack Shine           |             80 |
-|             80 | Luke Frost              |             31.79 |        6 |             43.59 | Kody Vereti          |             62 |
-|              0 | Fyn Brown               |             27.15 |        7 |             46.12 | Sam Williams         |             26 |
-|             80 | Joe Howard              |             39.96 |        8 |             25.35 | James Cherry         |             80 |
-|             52 | Alex Day                |             20.25 |        9 |             14.53 | Will Yarnell         |             80 |
-|             80 | Will Maisey             |             26.69 |       10 |             35.78 | Jai Johal            |             80 |
-|             80 | Dean Adamson            |             42.99 |       11 |             17.44 | Harry Graham         |             80 |
-|             28 | Michaël Le Bourgeois    |             61.49 |       12 |             39.91 | Kegan Christian-Goss |             31 |
-|             80 | Lucas Titherington      |             59.53 |       13 |             27.07 | Charlie Myall        |             27 |
-|             59 | Alfie Garside           |             32.15 |       14 |             22.74 | David Williams       |             70 |
-|             73 | Louis James             |             70.57 |       15 |             21.76 | Jack Stapley         |             27 |
-|             36 | Tommy Herman            |             18.7  |       16 |            nan    | Jack Dickinson       |             13 |
-|             80 | Jamie Jack              |            nan    |       17 |            nan    | Kai Owen             |             10 |
-|             18 | Beltus Nonleh           |             29.29 |       18 |            nan    | Ale Loman            |             80 |
-|             28 | Shay Kerry              |            nan    |       19 |            nan    | Sam Green            |              0 |
-|             48 | Cameron King            |            nan    |       20 |            nan    | Jacob Wright         |             67 |
-|             80 | Jac Arthur              |            nan    |       21 |            nan    | Josh Goodwin         |             80 |
-|             27 | James Lennon            |            nan    |       22 |            nan    | Gwyn Parks           |             40 |
-|             80 | George Makepeace-Cubitt |             72.53 |       23 |            nan    | Levi Roper           |             29 |
+|   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
+|---------------:|:---------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
+|             27 | Joey Conway          |             64.46 |        1 |             74.65 | Aniseko Sio          |             29 |
+|             64 | Nathan Langdon       |             35.5  |        2 |             84.96 | Harry Clayton        |             80 |
+|             48 | Oisin Heffernan      |             80.23 |        3 |             77.26 | Dan Richardson       |             42 |
+|             16 | Will Spencer         |             65.18 |        4 |              5.79 | Sebastien Ferreira   |             80 |
+|             80 | Rory Ward            |             60.26 |        5 |             71.49 | Jack Shine           |             28 |
+|             80 | Luke Frost           |             16.12 |        6 |             78.28 | Kody Vereti          |             13 |
+|             80 | Fyn Brown            |             26.03 |        7 |             58.36 | Sam Williams         |             27 |
+|             80 | Joe Howard           |              7.96 |        8 |             77.58 | James Cherry         |             31 |
+|             70 | Alex Day             |             91.63 |        9 |             50.25 | Will Yarnell         |             80 |
+|             17 | William Maisey       |             86.2  |       10 |             56.4  | Jai Johal            |             63 |
+|             17 | Dean Adamson         |             84.52 |       11 |             76.7  | Harry Graham         |             80 |
+|             57 | Michael Le Bourgeois |             72.07 |       12 |             64.6  | Kegan Christian-Goss |             80 |
+|             80 | Lucas Titherington   |             64.99 |       13 |             68.57 | Charlie Myall        |             33 |
+|             80 | Alfie Garside        |             73.96 |       14 |             47.22 | David Williams       |             23 |
+|             29 | Louis James          |             31.73 |       15 |              2.88 | Jack Stapley         |             32 |
+|             10 | Jamie Jack           |             32.81 |       16 |             31.03 | Josh Goodwin         |             51 |
+|             51 | Tommy Herman         |             67.44 |       17 |             42    | Levi Roper           |             80 |
+|             47 | Beltus Nonleh        |             63.43 |       18 |             35.86 | Sam Green            |             80 |
+|             52 | Shay Kerry           |             17.98 |       19 |             35.05 | Kai Owen             |             80 |
+|              4 | Cameron King         |              4.7  |       20 |             71.78 | Jack Dickinson       |             80 |
+|             63 | Jac Arthur           |             74.66 |       21 |             84.48 | Ale Loman            |             27 |
+|            nan | nan                  |            nan    |       22 |             15.6  | Gwyn Parks           |             17 |
+|            nan | nan                  |            nan    |       23 |             41.64 | Jacob Wright         |             80 |
 

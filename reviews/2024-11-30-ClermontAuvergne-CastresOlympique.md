@@ -11,7 +11,7 @@ categories: "Top 14 Orange 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.616, which translates to predicting Clermont Auvergne to win by 4.2.
 
-Our Over/Under is 58.5 - and combined with the spread above, we have a predicted scoreline of 27 to 31
+Our Over/Under is 56.5 - and combined with the spread above, we have a predicted scoreline of 26 to 30
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -42,7 +42,7 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction without Player Minutes: Clermont Auvergne by 7.8
 
 
-Castres Olympique by 5.1 on a neutral pitch
+Castres Olympique by 5.2 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,28 +69,28 @@ Castres Olympique by 5.1 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             65 | Lois Guerois-Galisson |             82.86 |        1 |             35.44 | Sacha Lotrian        |              5 |
-|             27 | Lois Guerois-Galisson |             82.86 |        1 |             35.44 | Sacha Lotrian        |              5 |
-|             75 | Gaetan Barlot         |             89.25 |        2 |             74.82 | Barnabe Massa        |             23 |
-|             44 | Will Collier          |             78.02 |        3 |             71.48 | Regis Montagne       |             23 |
-|             15 | Paul Jedrasiak        |             56.85 |        4 |             43.83 | Peceli Yato          |             18 |
-|             29 | Florent Vanverberghe  |             87.06 |        5 |             55.66 | Thomas Ceyte         |             31 |
-|             81 | Mathieu Babillot      |             17.79 |        6 |             80.35 | Alexandre Fischer    |             18 |
-|             81 | Tyler Ardron          |             76.9  |        7 |             92.66 | Marcos Kremer        |             18 |
-|              4 | Feibyan Tukino        |             55.11 |        8 |             91.37 | Fritz Lee            |             10 |
-|             50 | Jeremy Fernandez      |             60.43 |        9 |             84.85 | Sebastien Bezy       |             41 |
-|             42 | Vilimoni Botitu       |             35.98 |       10 |             78.53 | Benjamin Urdapilleta |             55 |
-|             39 | Remy Baget            |             89.23 |       11 |             87.57 | Joris Jurand         |             36 |
-|             52 | Jack Goodhue          |             95.53 |       12 |             94.33 | George Moala         |             30 |
-|             29 | Adrea Cocagi          |             82.6  |       13 |             87.91 | Leon Darricarrere    |             60 |
-|             15 | Nathanael Hulleu      |             83.32 |       14 |             91.89 | Lucas Tauzin         |             81 |
-|             27 | Geoffrey Palis        |             97.62 |       15 |             74.59 | Alex Newsome         |             76 |
-|              0 | Loris Zarantonello    |             27.25 |       16 |             77.17 | Etienne Fourcade     |             23 |
-|             65 | Antoine Tichit        |             76.26 |       17 |             74.29 | Etienne Falgoux      |             81 |
-|             81 | Gauthier Maravat      |              8    |       18 |             80.69 | Anthime Hemery       |             63 |
-|             16 | Abraham Papali'i      |             21.13 |       19 |             79.43 | Killian Tixeront     |             83 |
-|             64 | Gauthier Doubrere     |             36.01 |       20 |             78.21 | Baptiste Jauneau     |             81 |
-|             77 | Adrien Seguret        |             10.42 |       21 |             95.36 | Anthony Belleau      |             56 |
-|             65 | Theo Chabouni         |             58.14 |       22 |             14.98 | Pierre Fouyssac      |             25 |
-|             70 | Levan Chilachava      |             77.58 |       23 |             42.86 | Cristian Ojovan      |             81 |
+|             42 | Lois Guerois-Galisson |             83.57 |        1 |             46.15 | Sacha Lotrian        |             21 |
+|             81 | Lois Guerois-Galisson |             83.57 |        1 |             46.15 | Sacha Lotrian        |             21 |
+|             52 | Gaetan Barlot         |             89.3  |        2 |             78.29 | Barnabe Massa        |             74 |
+|             16 | Will Collier          |             79.44 |        3 |             73.68 | Regis Montagne       |             81 |
+|             30 | Paul Jedrasiak        |             55    |        4 |             44.39 | Peceli Yato          |             65 |
+|             83 | Florent Vanverberghe  |             84.74 |        5 |             65    | Thomas Ceyte         |             81 |
+|             81 | Mathieu Babillot      |             18.79 |        6 |             78.53 | Alexandre Fischer    |             60 |
+|             58 | Tyler Ardron          |             76.47 |        7 |             92.24 | Marcos Kremer        |             50 |
+|             58 | Feibyan Tukino        |             44.85 |        8 |             91.68 | Fritz Lee            |             18 |
+|             39 | Jeremy Fernandez      |             57.14 |        9 |             82.27 | Sebastien Bezy       |             53 |
+|             83 | Vilimoni Botitu       |             36    |       10 |             78    | Benjamin Urdapilleta |             81 |
+|             24 | Remy Baget            |             90.46 |       11 |             88.74 | Joris Jurand         |             15 |
+|             20 | Jack Goodhue          |             94.67 |       12 |             92.92 | George Moala         |             27 |
+|             71 | Adrea Cocagi          |             82.35 |       13 |             85.65 | Leon Darricarrere    |             10 |
+|             12 | Nathanael Hulleu      |             83.19 |       14 |             91.32 | Lucas Tauzin         |             71 |
+|             83 | Geoffrey Palis        |             97.12 |       15 |             75.19 | Alex Newsome         |             83 |
+|             50 | Loris Zarantonello    |             27.44 |       16 |             80.78 | Etienne Fourcade     |             44 |
+|             81 | Antoine Tichit        |             76.05 |       17 |             73.62 | Etienne Falgoux      |             81 |
+|             22 | Gauthier Maravat      |              9.12 |       18 |             78.97 | Anthime Hemery       |             81 |
+|             53 | Abraham Papali'i      |             19.53 |       19 |             77.24 | Killian Tixeront     |             81 |
+|             49 | Gauthier Doubrere     |             35.8  |       20 |             78.16 | Baptiste Jauneau     |             81 |
+|             29 | Adrien Seguret        |             12.03 |       21 |             95    | Anthony Belleau      |             80 |
+|             53 | Theo Chabouni         |             57.12 |       22 |             15.52 | Pierre Fouyssac      |             57 |
+|             66 | Levan Chilachava      |             77.44 |       23 |             44.82 | Cristian Ojovan      |             83 |
 

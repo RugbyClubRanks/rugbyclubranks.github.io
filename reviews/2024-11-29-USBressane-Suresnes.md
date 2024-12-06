@@ -11,7 +11,7 @@ categories: "Nationale 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.62, which translates to predicting US Bressane to win by 4.3.
 
-Our Over/Under is 40.5 - and combined with the spread above, we have a predicted scoreline of 18 to 23
+Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 21 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: US Bressane by 5.4
+## Prediction without Player Minutes: US Bressane by 5.2
 
 
-US Bressane by 0.0 on a neutral pitch
+Suresnes by 0.1 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -67,29 +67,28 @@ US Bressane by 0.0 on a neutral pitch
 </p>
 
 
-|   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
-|---------------:|:---------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             61 | Yanis Trabelsi       |             51.15 |        1 |             46.98 | Vazha Kapanadze      |             62 |
-|             25 | Jean-Etienne Lesueur |             49.48 |        2 |             57.14 | Louis Dasalmartini   |             66 |
-|             80 | Guiterembi Vickos    |             51.81 |        3 |             46.59 | Atonio Ulutuipalelei |             80 |
-|             56 | Damien Bozic         |             51.4  |        4 |             52.09 | Quentin Witt         |             80 |
-|             80 | Yakine Djebbari      |             52.6  |        5 |             49.53 | Victor Fromentèze    |             40 |
-|             56 | Florian Desbordes    |             51.18 |        6 |             47.3  | Loic Baradel         |             52 |
-|             80 | Wian Vosloo          |             52.53 |        7 |             52.28 | Thomas Déliance      |             26 |
-|             69 | Laki Lee             |             43.66 |        8 |             51.06 | Waël May             |             51 |
-|             24 | Théo Bachiri         |             47.45 |        9 |             57.5  | Jérémy Valençot      |             80 |
-|             24 | Tanguy Lacoste       |             43.91 |       10 |             48.74 | Nathan Azaïs         |             66 |
-|             28 | Faraj Fartass        |             51.02 |       11 |             57.47 | Elie De Fleurian     |             80 |
-|             43 | Petero Tuwaï         |             43.81 |       12 |             53.67 | Fred Zeilinga        |             41 |
-|             62 | Jj Taulagi           |             44.56 |       13 |             53.3  | Joe Margetts         |             80 |
-|              8 | Yohan Fournier       |             49.81 |       14 |             58.61 | Thibaut Perrette     |             27 |
-|             56 | Goulwen Gueho        |             45.34 |       15 |             53.02 | Florent Massip       |             54 |
-|             67 | Ismaël Martin        |            nan    |       16 |            nan    | Clément Jullien      |             80 |
-|             59 | Thibaud Sebire       |             48.52 |       17 |             57.42 | Téo Bordenave        |             27 |
-|             80 | Marvin Woki          |            nan    |       18 |            nan    | Grégoire Demangel    |             80 |
-|             80 | Simon Veyrac         |             48.4  |       19 |             47.98 | Nail Ait Naceur      |             80 |
-|             80 | Thomas Lacroix       |            nan    |       20 |            nan    | Alexandre Badet      |             62 |
-|             61 | Victor Barnier       |             42.6  |       21 |            nan    | Nicolas Faure        |             80 |
-|             80 | Jean Chezeau         |            nan    |       22 |             54.14 | Nicolas Tachat       |             55 |
-|             24 | Leandro Mario Assi   |            nan    |       23 |            nan    | Lasha Mchedlidze     |             66 |
+|   Away Minutes | Away Player             |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
+|---------------:|:------------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
+|              7 | Yanis Trabelsi          |             40.81 |        1 |             52.15 | Vazha Kapanadze      |             80 |
+|             80 | Jean-Étienne Lesueur    |             17.52 |        2 |             43.72 | Louis Dasalmartini   |             40 |
+|             73 | Guiterembi Vickos       |             43.12 |        3 |             26.08 | Atonio Ulutuipalelei |             61 |
+|             73 | Damien Bozic            |             70.79 |        4 |             13.25 | Quentin Witt         |             80 |
+|             14 | Yakine Mohamed Djebarri |             36.32 |        5 |              1.93 | Victor Fromenteze    |             72 |
+|             52 | Florian Desbordes       |             21.55 |        6 |             84.57 | Loic Baradel         |             80 |
+|             80 | Wian Vosloo             |             63.36 |        7 |             65.6  | Thomas Déliance      |             56 |
+|             80 | Lakisipone Lee          |             85.17 |        8 |             73.42 | Wael May             |             80 |
+|             80 | Théo Bachiri            |             19.21 |        9 |             74.22 | Jeremy Valencot      |             21 |
+|             18 | Tanguy Lacoste          |             67.8  |       10 |             29.8  | Nathan Azais         |             52 |
+|             18 | Faraj Fartass           |             85.85 |       11 |             51.76 | Élie De Fleurian     |             19 |
+|             18 | Petero Tuwai            |             70.03 |       12 |             89.14 | Fred Zeilinga        |             80 |
+|             10 | JJ Taulagi              |              3.69 |       13 |             39.09 | Joe Margetts         |             80 |
+|              8 | Yohan Fournier          |             20.09 |       14 |             48.01 | Thibaut Perrette     |             52 |
+|             61 | Goulwen Gueho           |             11.15 |       15 |             79.42 | Florent Massip       |             59 |
+|             61 | Victor Barnier          |             75.65 |       16 |             85.43 | Clement Jullien      |             41 |
+|             40 | Leandro Mario Assi      |             35.9  |       17 |             26.58 | Nicolas Tachat       |             80 |
+|             52 | Marvin Woki             |             72.89 |       18 |             79.56 | Lasha Mchelidze      |             80 |
+|             80 | Ismael Martin           |            nan    |       19 |             44.45 | Teo Bordenave        |             80 |
+|              8 | Simon Veyrac            |              8.62 |       20 |             62.89 | Grégoire Demangel    |             68 |
+|              9 | Jean Chezeau            |             68.2  |       21 |            nan    | nan                  |            nan |
+|             19 | Thibaud Sebire          |             61.8  |       22 |            nan    | nan                  |            nan |
 

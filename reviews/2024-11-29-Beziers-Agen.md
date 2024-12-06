@@ -11,7 +11,7 @@ categories: "Pro D2 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.665, which translates to predicting Beziers to win by 6.0.
 
-Our Over/Under is 54.5 - and combined with the spread above, we have a predicted scoreline of 24 to 30
+Our Over/Under is 56.5 - and combined with the spread above, we have a predicted scoreline of 25 to 31
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Beziers by 15.1
+## Prediction without Player Minutes: Beziers by 15.4
 
 
-Beziers by 0.7 on a neutral pitch
+Beziers by 1.0 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -67,29 +67,29 @@ Beziers by 0.7 on a neutral pitch
 </p>
 
 
-|   Away Minutes | Away Player             |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
-|---------------:|:------------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             65 | Hans Lombard-Buret      |             30.99 |        1 |             50.05 | Yahnis El Maslouhi |             66 |
-|             40 | Santiago Socino         |             88.81 |        2 |             48.01 | Wilmar Arnoldi     |             80 |
-|             80 | Alex Burin              |             52.91 |        3 |             52.03 | Christian Judge    |             55 |
-|             30 | Evan Olmstead           |             28.85 |        4 |             44.17 | Shahn Eru          |             80 |
-|             71 | Javier Eissmann         |              2.89 |        5 |             65.19 | Pierre Gayraud     |             25 |
-|             79 | Julien Lebian           |             39.71 |        6 |             67.71 | William Van Bost   |             15 |
-|             60 | Tomasi Fineanganofo (2) |             53.12 |        7 |             20.15 | Gillian Benoy      |             28 |
-|             75 | Valentin Gayraud        |             31.34 |        8 |             48.24 | Baptiste Abescat   |             28 |
-|             14 | Dorian Bellot           |             33.08 |        9 |             55.33 | Damien Añon        |             19 |
-|             32 | Billy Searle            |             25.34 |       10 |             47.39 | Charly Malié       |             19 |
-|             21 | Iban Etcheverry         |             35.41 |       11 |             51.48 | Nicolas Plazy      |             15 |
-|             30 | Clément Garrigues       |             22.88 |       12 |             82.23 | Taylor Gontineac   |             80 |
-|             80 | Peyo Muscarditz         |             25.4  |       13 |             46.42 | Paul Recor         |             25 |
-|             14 | Lucas Martins           |             50.19 |       14 |             54.89 | Pierre Courtaud    |             65 |
-|             52 | Franck Pourteau         |             31.26 |       15 |             54.11 | Gabin Lorre        |             55 |
-|             50 | Hayam El Bibouji        |            nan    |       16 |            nan    | Yanis Boulassel    |             60 |
-|             61 | Mamuka Mstoiani         |            nan    |       17 |             65.77 | Marco Trauth       |             52 |
-|             67 | Vincent Farré           |             39.74 |       18 |            nan    | Sias Koen          |             65 |
-|             65 | Matthieu Bonnet         |            nan    |       19 |             84.23 | Clement Doumenc    |             67 |
-|             72 | Jack Maunder            |             80.06 |       20 |             79.13 | Samuel Marques     |             45 |
-|             80 | Ethan Randle            |            nan    |       21 |            nan    | Victor Dreuille    |             80 |
-|             80 | Thibaud Mazzoléni       |            nan    |       22 |            nan    | Watisoni Votu      |             80 |
-|             61 | Beau Farrance           |            nan    |       23 |            nan    | Yannick Arroyo     |             55 |
+|   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player            |   Home Minutes |
+|---------------:|:--------------------|------------------:|---------:|------------------:|:-----------------------|---------------:|
+|             47 | Hans Lombard-Buret  |             68.89 |        1 |             71.44 | Yahnis El Maslouhi     |             16 |
+|             80 | Santiago Socino     |             88.53 |        2 |             70.7  | Wilmar Arnoldi         |             53 |
+|             80 | Alex Burin          |             53.91 |        3 |             49.61 | Christian Judge        |             49 |
+|             52 | Evan Olmstead       |              4.21 |        4 |              2.98 | Shahn Eru              |             53 |
+|             55 | Javier Eissmann     |              4.12 |        5 |             37.37 | Pierre Gayraud         |             31 |
+|             52 | Julien Lebian       |             31.12 |        6 |             27.24 | William van Bost       |             38 |
+|             32 | Tomasi Fineanganofo |             46.12 |        7 |             19.74 | Gillian Benoy          |             80 |
+|             52 | Valentin Gayraud    |             50.63 |        8 |             65.46 | Baptiste Abescat-Leroy |             80 |
+|             54 | Dorian Bellot       |             55.34 |        9 |             70.28 | Damien Añon            |             67 |
+|             57 | Billy Searle        |              5.4  |       10 |             22.8  | Charly Malie           |             45 |
+|             80 | Iban Etcheverry     |             25.41 |       11 |             72.24 | Nicolas Plazy          |             80 |
+|             80 | Clement Garrigues   |             25.7  |       12 |             81.47 | Taylor Gontineac       |             49 |
+|             30 | Peyo Muscarditz     |             80.41 |       13 |             59.07 | Paul Recor             |             56 |
+|             80 | Lucas Martins       |             73.49 |       14 |             29.01 | Pierre Courtaud        |             56 |
+|             30 | Franck Pourteau     |             90    |       15 |             76.35 | Gabin Lorre            |             80 |
+|             30 | Vincent Farre       |             36.84 |       16 |             76.19 | Samuel Marques         |             67 |
+|             28 | Matthieu Bonnet     |             33.28 |       17 |             51.36 | Sias Koen              |             60 |
+|             26 | Hayam El Bibouji    |             81.86 |       18 |             64.83 | Marco Trauth           |             80 |
+|             54 | Beau Farrance       |             49.24 |       19 |             67.99 | Watisoni Votu          |             80 |
+|             21 | Jack Maunder        |             77.67 |       20 |             80.09 | Clement Doumenc        |             15 |
+|             80 | Kolinio Ramoka      |             67.31 |       21 |             64.58 | Yannick Arroyo         |             13 |
+|             28 | Mamuka Mstoiani     |             50.52 |       22 |             20.31 | Yanis Boulassel        |             80 |
+|             23 | Thibaud Mazzoleni   |             57.94 |       23 |             11.92 | Victor Dreuille        |             57 |
 

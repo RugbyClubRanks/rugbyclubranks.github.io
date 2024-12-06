@@ -11,7 +11,7 @@ categories: "Top 14 Orange 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.627, which translates to predicting Bayonne to win by 4.6.
 
-Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 24 to 29
+Our Over/Under is 56.5 - and combined with the spread above, we have a predicted scoreline of 26 to 30
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Bayonne by 20.6
+## Prediction without Player Minutes: Bayonne by 21.9
 
 
-Bayonne by 7.1 on a neutral pitch
+Bayonne by 8.4 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,28 @@ Bayonne by 7.1 on a neutral pitch
 
 |   Away Minutes | Away Player            |   Away Percentile |   Number |   Home Percentile | Home Player             |   Home Minutes |
 |---------------:|:-----------------------|------------------:|---------:|------------------:|:------------------------|---------------:|
-|             53 | Moses Alo-Emile        |             47.2  |        1 |             73.35 | Swan Cormenier          |             16 |
-|              4 | Giacomo Nicotera       |             95.14 |        2 |             88.66 | Facundo Bosch           |             82 |
-|              4 | Paul Alo-Emile         |             73.85 |        3 |             36.32 | Pascal Cotet            |             23 |
-|             66 | Paul Gabrillagues      |              8.34 |        4 |             94.21 | Baptiste Chouzenoux     |             67 |
-|             66 | Setareki Turagacoke    |             64.51 |        5 |             13.36 | Lucas Paulos            |             82 |
-|             66 | Pierre Huguet          |             22.6  |        6 |             90.81 | Giovanni Habel-Kueffner |             72 |
-|             66 | Ryan Chapuis           |             66.1  |        7 |             21.08 | Esteban Capilla         |             54 |
-|             66 | Romain Briatte         |             25.7  |        8 |             62.85 | Uzair Cassiem           |             68 |
-|             17 | Brad Weber             |             97.37 |        9 |             96.29 | Maxime Machenaud        |             82 |
-|             66 | Louis Carbonel         |             64.6  |       10 |             73.69 | Joris Segonds           |             16 |
-|             82 | Samuel Ezeala          |             25.78 |       11 |             81.96 | Mateo Carreras          |             28 |
-|             10 | Lester Etien           |             73.4  |       12 |             98.33 | Manu Tuilagi            |             82 |
-|             48 | Joe Marchant           |             49.58 |       13 |             41.12 | Sireli Maqala           |             82 |
-|             66 | Peniasi Dakuwaqa       |             79.15 |       14 |             72.33 | Nadir Megdoud           |             28 |
-|             39 | Joe Jonas              |             55.58 |       15 |             21.39 | Cheikh Tiberghien       |             65 |
-|             30 | Lucas Peyresblanques   |             22.24 |       16 |             93.67 | Lucas Martin            |             82 |
-|             30 | Sergo Abramishvili     |             63.63 |       17 |            nan    | Martin Villar           |             72 |
-|             30 | Pierre-Henri Azagoh    |             87.74 |       18 |             11.66 | Veikoso Poloniati       |             78 |
-|             30 | Andy Timo              |             17.96 |       19 |             85.24 | Baptiste Heguy          |             82 |
-|             30 | Sekou Macalou          |             84.4  |       20 |             26.89 | Guillaume Rouet         |             60 |
-|             30 | Thibaut Motassi        |            nan    |       21 |             89.94 | Camille Lopez           |             15 |
-|             34 | Leo Barre              |             72.03 |       22 |             53.95 | Guillaume Martocq       |             82 |
-|             22 | Francisco Gomez Kodela |             74.73 |       23 |             16.1  | Pieter Scholtz          |             14 |
+|             60 | Moses Alo-Emile        |             40.33 |        1 |             73.32 | Swan Cormenier          |             54 |
+|             80 | Giacomo Nicotera       |             95.5  |        2 |             89.92 | Facundo Bosch           |             82 |
+|             80 | Paul Alo-Emile         |             74.23 |        3 |             43.91 | Pascal Cotet            |             28 |
+|             80 | Paul Gabrillagues      |              8.77 |        4 |             94.65 | Baptiste Chouzenoux     |             34 |
+|             82 | Setareki Turagacoke    |             63.86 |        5 |             16.4  | Lucas Paulos            |             82 |
+|             80 | Pierre Huguet          |             22.5  |        6 |             90.26 | Giovanni Habel-Kueffner |             72 |
+|             59 | Ryan Chapuis           |             63.02 |        7 |             23.28 | Esteban Capilla         |             16 |
+|             55 | Romain Briatte         |             20.43 |        8 |             68.72 | Uzair Cassiem           |             16 |
+|             22 | Brad Weber             |             96.88 |        9 |             96.39 | Maxime Machenaud        |             66 |
+|              4 | Louis Carbonel         |             54.4  |       10 |             71.2  | Joris Segonds           |             82 |
+|             78 | Samuel Ezeala          |             25.96 |       11 |             83.66 | Mateo Carreras          |             23 |
+|             13 | Lester Etien           |             71.19 |       12 |             98.55 | Manu Tuilagi            |             17 |
+|             28 | Joe Marchant           |             50.34 |       13 |             51.99 | Sireli Maqala           |             72 |
+|             67 | Peniasi Dakuwaqa       |             77.48 |       14 |             72.79 | Nadir Megdoud           |             23 |
+|             14 | Joe Jonas              |             51.54 |       15 |             22.69 | Cheikh Tiberghien       |             51 |
+|             74 | Lucas Peyresblanques   |             21.4  |       16 |             93.02 | Lucas Martin            |             82 |
+|             66 | Sergo Abramishvili     |             61.98 |       17 |            nan    | Martin Villar           |             82 |
+|             29 | Sergo Abramishvili     |             61.98 |       17 |            nan    | Martin Villar           |             82 |
+|             40 | Pierre-Henri Azagoh    |             87.46 |       18 |             12.81 | Veikoso Poloniati       |             39 |
+|             80 | Andy Timo              |             18.1  |       19 |             84.4  | Baptiste Heguy          |             82 |
+|             80 | Sekou Macalou          |             82.16 |       20 |             27.26 | Guillaume Rouet         |             10 |
+|             53 | Thibaut Motassi        |            nan    |       21 |             89.4  | Camille Lopez           |              4 |
+|             80 | Leo Barre              |             70.19 |       22 |             56.74 | Guillaume Martocq       |             48 |
+|             28 | Francisco Gomez Kodela |             75.99 |       23 |             13.22 | Pieter Scholtz          |             65 |
 

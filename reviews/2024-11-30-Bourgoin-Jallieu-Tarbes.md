@@ -9,9 +9,9 @@ categories: "Nationale 2024" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.652, which translates to predicting Bourgoin-Jallieu to win by 5.5.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.669, which translates to predicting Bourgoin-Jallieu to win by 6.2.
 
-Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 24 to 29
+Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 21 to 27
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Bourgoin-Jallieu by 13.7
+## Prediction without Player Minutes: Bourgoin-Jallieu by 8.7
 
 
-Bourgoin-Jallieu by 0.7 on a neutral pitch
+Tarbes by 4.2 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -67,31 +67,29 @@ Bourgoin-Jallieu by 0.7 on a neutral pitch
 </p>
 
 
-|   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player       |   Home Minutes |
-|---------------:|:--------------------|------------------:|---------:|------------------:|:------------------|---------------:|
-|             62 | Ximun Bessonart     |             70.99 |        1 |             29.84 | Lucas Dycke       |           33   |
-|             10 | Vincent Dolier      |             48.75 |        2 |             18.41 | Julien Ratajczak  |           80   |
-|              5 | Luka Véa            |             45.38 |        3 |             44.95 | Dimitri Tchapnga  |            9   |
-|             28 | Léo Saint-Guilhem   |             60    |        4 |             34.55 | Robin Gascou      |            7.5 |
-|             80 | Baptiste Peytavi    |             70.21 |        5 |             27.49 | Morgan Eames      |           40   |
-|             18 | Alexis Armary       |             49.58 |        6 |             29.43 | Kévin Chaudouard  |           19   |
-|             19 | Spike Salman        |             64    |        7 |             27.91 | Sam Daly          |           14   |
-|             59 | Joeli Matalaweru    |             56.51 |        8 |             29.93 | Poutasi Luafutu   |           28   |
-|             80 | Thomas Millet       |             66.15 |        9 |             17.93 | Martin Doan       |           65   |
-|             65 | Alexandre Perez     |             57.06 |       10 |             23.21 | Nicolas Vuillemin |           66   |
-|             62 | Osea Waqaninavatu   |             62.85 |       11 |             84.69 | Joe Ravouvou      |           64   |
-|             61 | Savenaca Rawaca     |             57.21 |       12 |             16    | Aviata Silago     |           80   |
-|             80 | Clément Latorre     |             66.79 |       13 |             28.37 | Pierre Mignot     |           49   |
-|             52 | Jone Tuva           |             64.52 |       14 |             24.94 | Paul Champ        |           53   |
-|             27 | Amona Artaud        |             49.54 |       15 |             24.13 | Antoine Renaud    |           60   |
-|             80 | Florian Lamothe     |            nan    |       16 |            nan    | Maxime Castant    |           62   |
-|             70 | Lasha Mirtskhulava  |            nan    |       17 |            nan    | Adrien Mallet     |           15   |
-|             80 | Lasha Mirtskhulava  |            nan    |       17 |            nan    | Adrien Mallet     |           15   |
-|             61 | Mathieu Soufflet    |             46.55 |       18 |            nan    | Léandre Cotte     |           47   |
-|             80 | Jean Guicherd       |            nan    |       19 |            nan    | Thomas Adélaïde   |           67   |
-|             62 | Mickael Thébault    |            nan    |       20 |            nan    | Louis Giamarchi   |           40   |
-|             80 | Johan Paulet        |             34    |       21 |             32.28 | Christopher Bosch |           72   |
-|             80 | Maile Mamao         |             34    |       22 |            nan    | Adrian Fugit      |           56   |
-|             80 | Irakli Mirtskhulava |            nan    |       23 |             42.47 | Keynan Knox       |           80   |
-|             48 | Irakli Mirtskhulava |            nan    |       23 |             42.47 | Keynan Knox       |           80   |
+|   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player       |   Home Minutes |
+|---------------:|:-------------------|------------------:|---------:|------------------:|:------------------|---------------:|
+|             80 | Ximun Bessonart    |             18.01 |        1 |             11.52 | Lucas Dycke       |             80 |
+|             10 | Vincent Dolier     |             18.91 |        2 |             15.04 | Julien Ratajczak  |             80 |
+|             12 | Luka Vea           |             36.39 |        3 |             62.46 | Dimitri Tchapnga  |             20 |
+|             79 | Léo Saint-Guilhem  |             36.49 |        4 |             13.16 | Robin Gascou      |             80 |
+|             80 | Baptiste Peytavi   |             86.23 |        5 |              2.28 | Morgan Eames      |             66 |
+|             65 | Alexis Armary      |             98.62 |        6 |             17.67 | Kevin Chaudouard  |              9 |
+|             40 | Spike Salman       |             12.24 |        7 |             20.09 | Sam Daly          |             80 |
+|             71 | Joeli Matalaweru   |             27.31 |        8 |              3.25 | Poutasi Luafutu   |             28 |
+|             80 | Thomas Millet      |             10.84 |        9 |             17.41 | Martin Doan       |             80 |
+|             68 | Alexandre Perez    |             17    |       10 |             77    | Nicolas Vuillemin |             27 |
+|             80 | Osea Waqaninavatu  |             71.07 |       11 |             87.49 | Joe Ravouvou      |             27 |
+|             80 | Savenaca Rawaca    |              4.95 |       12 |              1.55 | Aviata Silago     |             80 |
+|             52 | Clement Latorre    |             79.44 |       13 |             24.54 | Pierre Mignot     |             28 |
+|             80 | Jone Tuva          |             64.58 |       14 |             21.74 | Paul-Hugo Champ   |             14 |
+|             80 | Amona Artaud       |             55.77 |       15 |             45.58 | Antoine Renaud    |             80 |
+|             70 | Johan Paulet       |              7.86 |       16 |             32.72 | Thomas Adélaïde   |             80 |
+|             80 | Mathieu Soufflet   |             38.33 |       17 |             22.26 | Keynan Knox       |             80 |
+|             80 | Lasha Mirtskhulava |            nan    |       18 |             67.25 | Adrien Mallet     |             80 |
+|             80 | Maile Mamao        |             10.67 |       19 |             81.4  | Maxime Castant    |             80 |
+|             80 | Mickael Thébault   |             31.69 |       20 |             35.11 | Adrian Fugit      |             80 |
+|            nan | nan                |            nan    |       21 |              7.46 | Léandre Cotte     |             80 |
+|            nan | nan                |            nan    |       22 |            nan    | Louis Giamarchi   |             80 |
+|            nan | nan                |            nan    |       23 |              0.97 | Christopher Bosch |             80 |
 

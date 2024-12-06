@@ -11,7 +11,7 @@ categories: "Nationale 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.676, which translates to predicting Carcassonne to win by 6.5.
 
-Our Over/Under is 38.5 - and combined with the spread above, we have a predicted scoreline of 16 to 22
+Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 21 to 27
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Carcassonne by 9.6
+## Prediction without Player Minutes: Carcassonne by 10.9
 
 
-Carcassonne by 0.5 on a neutral pitch
+Carcassonne by 1.8 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -67,30 +67,29 @@ Carcassonne by 0.5 on a neutral pitch
 </p>
 
 
-|   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
-|---------------:|:---------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             80 | Gregory Fichten      |             23.52 |        1 |             36.04 | Yan Arnold          |             30 |
-|             24 | Clément Estériola    |             45.95 |        2 |             27.84 | Raphaël Carbou      |             56 |
-|             80 | Chris Talakai        |             60.88 |        3 |             30.93 | Vakhtangi Akhobadze |             80 |
-|             40 | Leva Fifita          |             11.4  |        4 |             32.17 | Romain Manchia      |             80 |
-|             77 | Marius Antonescu     |             64.94 |        5 |             32.77 | Clément Fontaine    |             68 |
-|             70 | Thibault Clauzade    |             61.89 |        6 |             31.11 | Valentin Sese       |             71 |
-|             80 | Paul Belzons         |             61.97 |        7 |             28.5  | Etienne Herjean     |             80 |
-|             10 | Lopeti Timani        |             78.87 |        8 |             20.42 | Thomas Hoarau       |             80 |
-|              8 | Pierrick Nova        |             42.97 |        9 |             31.84 | Gaëtan Pichon       |             66 |
-|             80 | Gilles Bosch         |             59.57 |       10 |             28.63 | Johnny Mcphillips   |             50 |
-|             14 | Clément Clavières    |             52.46 |       11 |             36.16 | Naïm Ben Alla       |             50 |
-|             14 | Taiso Silafai-Leaana |             38.42 |       12 |             27.72 | Jordan Puletua      |             56 |
-|             18 | Peter Betham         |             40.56 |       13 |             25.12 | Mathys Barka        |             64 |
-|             80 | Pierre-Hugo Ducom    |             59.82 |       14 |             42.08 | Clément Egiziano    |             12 |
-|             18 | Thibault Santoro     |             42.78 |       15 |             22.67 | Nils Chaliès        |             80 |
-|             72 | Gabriel Atlan        |             43.45 |       16 |            nan    | Baptiste Moréno     |             53 |
-|             72 | Théo Castinel        |            nan    |       17 |            nan    | Florent Lorenzon    |             80 |
-|             62 | Darrel Dyer          |            nan    |       18 |             46.98 | Romain Guyot        |             59 |
-|             80 | Luke Nakobukobua     |            nan    |       19 |            nan    | Corentin Bousquet   |             65 |
-|             80 | Erwan Nicolas        |            nan    |       20 |            nan    | Maxime Gianet       |             70 |
-|             69 | Pierre Nueno         |             35.44 |       21 |             48.07 | Paul Gadéa          |             60 |
-|             10 | Tom Chauvet          |            nan    |       22 |            nan    | Ferdinand Dréno     |              9 |
-|             63 | Livai Tikoipau       |            nan    |       23 |            nan    | Fabien Lorenzon     |             75 |
-|             63 | Livai Tikoipau       |            nan    |       23 |            nan    | Fabien Lorenzon     |             80 |
+|   Away Minutes | Away Player               |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
+|---------------:|:--------------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
+|             10 | Gregory Fichten           |             16.86 |        1 |             56.34 | Yan Arnold          |             28 |
+|             80 | Clément Esteriola         |              9.77 |        2 |             54.11 | Raphael Carbou      |             80 |
+|             80 | Chris Talakai             |             29.9  |        3 |             14.49 | Vakhtangi Akhobadze |             21 |
+|             56 | Leva Fifita               |             13.6  |        4 |             54.3  | Romain Manchia      |             21 |
+|             56 | Marius Antonescu          |             14.91 |        5 |             28.77 | Clément Fontaine    |             80 |
+|             56 | Thibault Clauzade         |             81.81 |        6 |             12.84 | Valentin Sese       |             80 |
+|             19 | Paul Belzons              |             13.28 |        7 |             82.76 | Etienne Herjean     |             52 |
+|             59 | Lopeti Timani             |             79.93 |        8 |              7.23 | Thomas Hoarau       |             71 |
+|             62 | Pierrick Nova             |             39.24 |        9 |             30.54 | Gaetan Pichon       |             59 |
+|             80 | Gilles Bosch              |              9.6  |       10 |             61.8  | Johnny McPhillips   |             19 |
+|             80 | Clément Clavières         |             42.92 |       11 |             29.09 | Naim Ben Alla       |             62 |
+|             80 | Parataiso Silafai-Lea'ana |             70.61 |       12 |             29.97 | Jordan Puletua      |             80 |
+|             80 | Peter Betham              |             98.93 |       13 |             29.19 | Mathys Barka        |             24 |
+|             71 | Pierre-Hugo Ducom         |             13.29 |       14 |             93.43 | Clement Egiziano    |             24 |
+|             71 | Thibault Santoro          |             31.92 |       15 |             36.92 | Nils Chalies        |             64 |
+|             16 | Théo Castinel             |             72.59 |       16 |             41.12 | Florent Lorenzon    |             24 |
+|             80 | Gabriel Atlan             |             66.05 |       17 |            nan    | Baptiste Moreno     |             24 |
+|             80 | Livai Tikoipau            |             24.38 |       18 |             79.38 | Fabien Lorenzon     |             28 |
+|             64 | Darrell Dyer              |             88.36 |       19 |             76.05 | Romain Guyot        |             80 |
+|             80 | Luke Nakobukobua          |             92.67 |       20 |             25.78 | Corentin Bousquet   |             80 |
+|             80 | Erwan Nicolas             |             58.62 |       21 |             34    | Ferdinand Dreno     |             80 |
+|             31 | Tom Chauvet               |             31.8  |       22 |             80.92 | Paul Gadea          |             80 |
+|             18 | Pierre Nueno              |             13.29 |       23 |             91.35 | Maxime Gianet       |             59 |
 

@@ -11,7 +11,7 @@ categories: "United Rugby Championship 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.739, which translates to predicting Cardiff Blues to win by 9.2.
 
-Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 20 to 29
+Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 22 to 31
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Cardiff Blues by 15.3
+## Prediction without Player Minutes: Cardiff Blues by 15.4
 
 
-Cardiff Blues by 3.0 on a neutral pitch
+Cardiff Blues by 3.1 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,29 +69,29 @@ Cardiff Blues by 3.0 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             83 | Rodrigo Martinez   |             66.48 |        1 |             77.8  | Ed Byrne           |             24 |
-|             27 | Brodie Coghlan     |             59.06 |        2 |             17.67 | Dafydd Hughes      |             63 |
-|             84 | Chris Coleman      |             31.81 |        3 |             14.18 | Keiron Assiratti   |             12 |
-|             84 | Chris Coleman      |             31.81 |        3 |             14.18 | Keiron Assiratti   |             83 |
-|             56 | Matthew Screech    |              2.38 |        4 |             81.36 | Josh McNally       |             83 |
-|             56 | George Nott        |             14.04 |        5 |              9.53 | Teddy Williams     |             71 |
-|             49 | Shane Lewis-Hughes |             21.33 |        6 |             90.47 | Ben Donnell        |             54 |
-|             35 | Taine Basham       |             55.65 |        7 |             89.21 | Thomas Young       |             56 |
-|             35 | Aaron Wainwright   |             40.14 |        8 |             82.39 | Alun Lawrence      |             83 |
-|             76 | Rhodri Williams    |             85.78 |        9 |             78.36 | Aled Davies        |             26 |
-|             27 | Lloyd Evans        |             74.08 |       10 |             90.14 | Callum Sheedy      |             29 |
-|             27 | Jared Rosser       |             11.22 |       11 |             11.45 | Harri Millard      |             59 |
-|             71 | Aneurin Owen       |             79.63 |       12 |             46.51 | Ben Thomas         |             24 |
-|             20 | Joe Westwood       |             63.26 |       13 |             87.07 | Rey Lee-Lo         |             80 |
-|             84 | Rio Dyer           |             31.61 |       14 |             85.37 | Josh Adams         |             32 |
-|             83 | Angus O'Brien      |             22.85 |       15 |              9.69 | Cameron Winnett    |             53 |
-|             31 | James Benjamin     |             13.99 |       16 |             10.75 | Evan Lloyd         |             83 |
-|             84 | Aki Seiuli         |             44.12 |       17 |             74.89 | Corey Domachowski  |             83 |
-|             31 | Dmitri Arhip       |            nan    |       18 |             27.2  | Rhys Litterick     |             17 |
-|             53 | Joseph Davies      |            nan    |       19 |             14.89 | Seb Davies         |             83 |
-|             53 | Ryan Woodman       |             63.66 |       20 |             14.25 | Alex Mann          |             83 |
-|             49 | Morgan Lloyd       |            nan    |       21 |             35.55 | Ellis Bevan        |             83 |
-|             83 | Harry Wilson       |             57.39 |       22 |             41.49 | Rory Jennings      |             51 |
-|              3 | Harry Wilson       |             57.39 |       22 |             41.49 | Rory Jennings      |             51 |
-|             63 | Huw Anderson       |            nan    |       23 |             89.39 | Gabriel Hamer-Webb |             12 |
+|             56 | Rodrigo Martinez   |             66.1  |        1 |             77.68 | Ed Byrne           |              3 |
+|             31 | Brodie Coghlan     |             58.29 |        2 |             17.67 | Dafydd Hughes      |             59 |
+|             32 | Chris Coleman      |             28.32 |        3 |             11.04 | Keiron Assiratti   |             17 |
+|             32 | Chris Coleman      |             28.32 |        3 |             11.04 | Keiron Assiratti   |             12 |
+|             56 | Matthew Screech    |              3.42 |        4 |             81.23 | Josh McNally       |             51 |
+|             27 | George Nott        |             15.61 |        5 |             12.98 | Teddy Williams     |             63 |
+|             76 | Shane Lewis-Hughes |             22.41 |        6 |             88.88 | Ben Donnell        |             63 |
+|             43 | Taine Basham       |             46.98 |        7 |             88.02 | Thomas Young       |             12 |
+|             84 | Aaron Wainwright   |             49.37 |        8 |             82.46 | Alun Lawrence      |             83 |
+|             83 | Rhodri Williams    |             85.22 |        9 |             74.88 | Aled Davies        |             83 |
+|             66 | Lloyd Evans        |             73.8  |       10 |             88.6  | Callum Sheedy      |             83 |
+|             66 | Jared Rosser       |             12.35 |       11 |             12.04 | Harri Millard      |             83 |
+|             29 | Aneurin Owen       |             77.69 |       12 |             42.87 | Ben Thomas         |             26 |
+|             32 | Joe Westwood       |             61.88 |       13 |             86.42 | Rey Lee-Lo         |              0 |
+|             35 | Rio Dyer           |             35.03 |       14 |             85.14 | Josh Adams         |             20 |
+|             27 | Angus O'Brien      |             21.73 |       15 |              9.81 | Cameron Winnett    |             71 |
+|             35 | James Benjamin     |             14.88 |       16 |             10.08 | Evan Lloyd         |             83 |
+|             39 | Aki Seiuli         |             41.78 |       17 |             75.56 | Corey Domachowski  |             17 |
+|             31 | Dmitri Arhip       |            nan    |       18 |             24.44 | Rhys Litterick     |             83 |
+|             35 | Joseph Davies      |            nan    |       19 |             16.05 | Seb Davies         |             83 |
+|             63 | Ryan Woodman       |             62.84 |       20 |             14.14 | Alex Mann          |             83 |
+|             54 | Morgan Lloyd       |            nan    |       21 |             35.14 | Ellis Bevan        |             54 |
+|             10 | Harry Wilson       |             69.98 |       22 |             41.61 | Rory Jennings      |             71 |
+|             49 | Harry Wilson       |             69.98 |       22 |             41.61 | Rory Jennings      |             71 |
+|             27 | Huw Anderson       |            nan    |       23 |             89.29 | Gabriel Hamer-Webb |             60 |
 

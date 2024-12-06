@@ -11,7 +11,7 @@ categories: "Pro D2 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.642, which translates to predicting Nevers to win by 5.1.
 
-Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 21 to 27
+Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 23 to 28
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Nevers by 4.9
+## Prediction without Player Minutes: Nevers by 5.3
 
 
-Dax by 0.2 on a neutral pitch
+Nevers by 0.3 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Dax by 0.2 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player                |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:---------------------------|---------------:|
-|             68 | Dino Casadeï         |             67.09 |        1 |             30    | Aitor Kitutu               |             80 |
-|             26 | Louis Barrère        |             59.5  |        2 |             39.62 | Efi Ma'Afu                 |              0 |
-|             66 | David Lolohea        |             70.77 |        3 |             30.66 | Cleopas Kundiona           |             80 |
-|             80 | Brice Ferrer         |             63.49 |        4 |             33.28 | Maxence Barjaud            |             80 |
-|             80 | Jean-Baptiste Singer |             67.91 |        5 |             37.19 | Chris Gabriel              |             32 |
-|             55 | Arnaud Aletti        |             59.7  |        6 |             31.7  | Luka Plataret              |             50 |
-|             39 | Paul Arnaud Ausset   |             59.11 |        7 |             40.98 | Kévin Noah                 |             23 |
-|             23 | Sam Wasley           |             50.53 |        8 |             30.28 | Jason Fraser               |              7 |
-|             39 | Sylvère Réteau       |             62.44 |        9 |             36.63 | Simon Tarel                |             19 |
-|             23 | Romuald Séguy        |             53.77 |       10 |             28.05 | Shaun Reynolds             |             40 |
-|             80 | Théo Gatelier        |             70.36 |       11 |             40.49 | Lucas Blanc                |             19 |
-|             28 | Noah Nene            |             51.26 |       12 |             36.56 | Nicolas Ragoevi            |             30 |
-|             54 | Benjamin Puntous     |             54.98 |       13 |             32.74 | Rudy Derrieux              |             11 |
-|             45 | Maxime Oltmann       |             66.72 |       14 |             30.48 | Gabin Rocher               |             80 |
-|             80 | Théo Duprat          |             63.07 |       15 |             23.58 | Dylan Jaminet              |             80 |
-|             53 | Kito Falatea         |            nan    |       16 |            nan    | Jean-Maxence Jules-Rosette |             48 |
-|             69 | Louis Mary           |            nan    |       17 |            nan    | Tornike Mataradze          |             59 |
-|             80 | Ratu Nacika          |            nan    |       18 |             81.11 | Lasha Jaiani               |             79 |
-|             64 | Théo Trémeau         |            nan    |       19 |             39.88 | Steven David               |             60 |
-|             73 | Paul Ravier          |            nan    |       20 |            nan    | Julien Kazubek             |             80 |
-|             80 | Hugo Cerisier        |            nan    |       21 |             39.1  | Hugo Bouyssou              |             30 |
-|             50 | Hugo Fourquet        |            nan    |       22 |             42.38 | Arthur Mathiron            |             61 |
-|             61 | Nephi Leatigaga      |             51.98 |       23 |            nan    | Lasha Pkhakadze (2)        |             66 |
+|             49 | Dino Casadei         |             63.98 |        1 |             29.35 | Aitor Kitutu               |             80 |
+|             31 | Louis Barrere        |             13.95 |        2 |             37.36 | Efi Ma'afu                 |             80 |
+|             80 | David Lolohea        |             70.04 |        3 |             30.93 | Cleopas Kundiona           |             21 |
+|             80 | Brice Ferrer         |             60.18 |        4 |             86.49 | Maxence Barjaud            |             15 |
+|             21 | Jean-Baptiste Singer |              9.74 |        5 |             45.26 | Chris Gabriel              |             15 |
+|             19 | Arnaud Aletti        |             80.26 |        6 |             75.17 | Luka Plataret              |             21 |
+|             80 | Paul Arnaud Ausset   |             60.09 |        7 |             21.12 | Kevin Noah                 |             40 |
+|             47 | Sam Wasley           |             86.8  |        8 |             94.58 | Jason-Colin Fraser         |             24 |
+|             65 | Sylvère Reteau       |             80.3  |        9 |             34.48 | Simon Tarel                |              9 |
+|             31 | Romuald Séguy        |             46    |       10 |             29    | Shaun Reynolds             |             16 |
+|             49 | Théo Gatelier        |             79.28 |       11 |             85.22 | Lucas Blanc                |             50 |
+|             80 | Noah Nene            |             57.52 |       12 |             30.36 | Nicolas Ragoevi            |             71 |
+|             59 | Benjamin Puntous     |             29.39 |       13 |             79.92 | Rudy Derrieux              |             59 |
+|             80 | Maxime Oltmann       |             18.69 |       14 |             25.72 | Gabin Rocher               |             80 |
+|             47 | Théo Duprat          |             53.65 |       15 |             56.15 | Dylan Jaminet              |              7 |
+|             19 | Nephi Leatigaga      |             15.83 |       16 |             43.36 | Tornike Mataradze          |             80 |
+|             49 | Kito Falatea         |             55.19 |       17 |              4.27 | Hugo Bouyssou              |             30 |
+|             61 | Louis Mary           |             45.79 |       18 |             38.15 | Arthur Mathiron            |             47 |
+|             59 | Théo Tremeau         |             49.83 |       19 |             66.55 | Steven David               |             59 |
+|             80 | Hugo Cerisier        |             77.8  |       20 |            nan    | Lasha Pkhakadze            |             47 |
+|             80 | Paul Ravier          |             84.24 |       21 |             44.34 | Jean-Maxence Jules-Rosette |             33 |
+|              9 | Hugo Fourquet        |             90.07 |       22 |             75.78 | Julien Kazubek             |             80 |
+|             80 | Ratu Nacika          |             66.32 |       23 |             77.54 | Lasha Jaiani               |             80 |
 

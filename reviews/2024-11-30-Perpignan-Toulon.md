@@ -11,7 +11,7 @@ categories: "Top 14 Orange 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.468, which translates to predicting Toulon to win by 1.1.
 
-Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 25 to 24
+Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 22 to 21
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Toulon by 1.8
+## Prediction without Player Minutes: Toulon by 0.9
 
 
-Toulon by 16.6 on a neutral pitch
+Toulon by 15.7 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,28 @@ Toulon by 16.6 on a neutral pitch
 
 |   Away Minutes | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player             |   Home Minutes |
 |---------------:|:------------------|------------------:|---------:|------------------:|:------------------------|---------------:|
-|             65 | Dany Priso        |             84.95 |        1 |             15.11 | Giorgi Tetrashvili      |             73 |
-|             51 | Teddy Baubigny    |             89.84 |        2 |             93.52 | Ignacio Ruiz            |             73 |
-|             82 | Kyle Sinckler     |             87.53 |        3 |             20.05 | Kieran Brookes          |             62 |
-|             31 | David Ribbans     |             87.15 |        4 |              8.6  | Tristan Labouteley      |             58 |
-|             50 | Brian Alainu'uese |             80.68 |        5 |             91.23 | So'otala Fa'aso'o       |             82 |
-|             82 | Matteo Le Corvec  |             84.49 |        6 |             22.01 | Lucas Velarte           |             50 |
-|             16 | Esteban Abadie    |             84.74 |        7 |             56.16 | Max Hicks               |             82 |
-|             70 | Charles Ollivon   |             99.82 |        8 |             91.9  | Joaquin Oviedo          |             82 |
-|             82 | Baptiste Serin    |             99.54 |        9 |             42.81 | Tom Ecochard            |             82 |
-|             82 | Enzo Herve        |             88.59 |       10 |             23.79 | Gabin Kretchmann        |             82 |
-|             29 | Seta Tuicuvu      |             85.29 |       11 |             11.07 | Ali Crossdale           |             82 |
-|             27 | Jeremy Sinzelle   |             66.7  |       12 |             97.58 | Jeronimo de la Fuente   |             82 |
-|             32 | Antoine Frisch    |             97.21 |       13 |              4.09 | Alivereti Duguivalu     |             73 |
-|             21 | Gael Drean        |             39.58 |       14 |             62.02 | Tavite Veredamu         |             82 |
-|             61 | Marius Domon      |             63.99 |       15 |             59.6  | Louis Dupichot          |             82 |
-|             82 | Mickael Ivaldi    |             88.37 |       16 |             66.86 | Seilala Lam             |             21 |
-|             82 | Daniel Brennan    |            nan    |       17 |             64.62 | Lorencio Boyer Gallardo |             73 |
-|             82 | Matthias Halagahu |             49.7  |       18 |             75.32 | Mathieu Tanguy          |             53 |
-|             67 | Lewis Ludlam      |             55.23 |       19 |             92.58 | Patrick Sobela          |             32 |
-|             13 | Dan Biggar        |             98.65 |       20 |             83.73 | Lucas Bachelier         |             62 |
-|             17 | Jules Danglot     |             72.8  |       21 |             45.75 | James Hall              |             61 |
-|             55 | Rayan Rebbadj     |             31.77 |       22 |             11.03 | Antoine Aucagne         |             14 |
-|             69 | Emerick Setiano   |             86.59 |       23 |             55.6  | Pietro Ceccarelli       |             61 |
+|             53 | Dany Priso        |             85.87 |        1 |             12.67 | Giorgi Tetrashvili      |             13 |
+|             80 | Teddy Baubigny    |             90.85 |        2 |             94.73 | Ignacio Ruiz            |             32 |
+|             80 | Kyle Sinckler     |             88.48 |        3 |             16.98 | Kieran Brookes          |             57 |
+|             82 | David Ribbans     |             91.05 |        4 |             10.7  | Tristan Labouteley      |             25 |
+|             50 | Brian Alainu'uese |             81.32 |        5 |             91.4  | So'otala Fa'aso'o       |             21 |
+|             47 | Matteo Le Corvec  |             81.38 |        6 |             20.78 | Lucas Velarte           |             66 |
+|             80 | Esteban Abadie    |             88.1  |        7 |             67.33 | Max Hicks               |             57 |
+|             40 | Charles Ollivon   |             99.64 |        8 |             90.96 | Joaquin Oviedo          |             67 |
+|             40 | Charles Ollivon   |             99.64 |        8 |             90.96 | Joaquin Oviedo          |             82 |
+|             17 | Baptiste Serin    |             99.34 |        9 |             45.98 | Tom Ecochard            |             53 |
+|             27 | Enzo Herve        |             85.8  |       10 |             26.4  | Gabin Kretchmann        |             65 |
+|             57 | Seta Tuicuvu      |             86.94 |       11 |             12.28 | Ali Crossdale           |             51 |
+|             82 | Jeremy Sinzelle   |             67.02 |       12 |             96.61 | Jeronimo de la Fuente   |             82 |
+|             15 | Antoine Frisch    |             96.02 |       13 |              3.3  | Alivereti Duguivalu     |             82 |
+|             29 | Gael Drean        |             44.88 |       14 |             69.19 | Tavite Veredamu         |             25 |
+|             80 | Marius Domon      |             69.04 |       15 |             64.62 | Louis Dupichot          |             16 |
+|             30 | Mickael Ivaldi    |             87.75 |       16 |             68.53 | Seilala Lam             |             80 |
+|             80 | Daniel Brennan    |            nan    |       17 |             63.31 | Lorencio Boyer Gallardo |             82 |
+|             65 | Matthias Halagahu |             50.96 |       18 |             74.56 | Mathieu Tanguy          |             69 |
+|             80 | Lewis Ludlam      |             37.67 |       19 |             91.55 | Patrick Sobela          |             82 |
+|             80 | Dan Biggar        |             98.8  |       20 |             82.84 | Lucas Bachelier         |             80 |
+|             61 | Jules Danglot     |             70.61 |       21 |            nan    | James Hall              |             29 |
+|             25 | Rayan Rebbadj     |             33.07 |       22 |             10.6  | Antoine Aucagne         |             31 |
+|             82 | Emerick Setiano   |             87.39 |       23 |             42.94 | Pietro Ceccarelli       |             70 |
 

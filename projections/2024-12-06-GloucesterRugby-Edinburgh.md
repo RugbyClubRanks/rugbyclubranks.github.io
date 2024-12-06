@@ -9,9 +9,9 @@ categories: "European Rugby Challenge Cup 2024" match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.423, which translates to predicting Edinburgh to win by -1.0.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.423, which translates to predicting Edinburgh to win by -1.2.
 
-Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 25 to 26
+Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 22 to 24
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Gloucester Rugby by 20.9
+## Prediction without Player Minutes: Gloucester Rugby by 20.8
 
 
-Gloucester Rugby by 5.1 on a neutral pitch
+Gloucester Rugby by 5.0 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Gloucester Rugby by 5.1 on a neutral pitch
 
 | Away Player      |   Away Percentile |   Number |   Home Percentile | Home Player       |
 |:-----------------|------------------:|---------:|------------------:|:------------------|
-| Boan Venter      |             27.53 |        1 |             83.9  | Val Rapava-Ruskin |
-| Patrick Harrison |             14.73 |        2 |             69.37 | Seb Blake         |
-| Paul Hill        |             88.46 |        3 |             76.48 | Kirill Gotovtsev  |
-| Marshall Sykes   |             86.04 |        4 |             29.62 | Arthur Clark      |
-| Sam Skinner      |             84.77 |        5 |             82.47 | Matias Alemanno   |
-| Tom Dodd         |             45.11 |        6 |             31.49 | Freddie Thomas    |
-| Freddy Douglas   |             44.01 |        7 |             21.25 | Lewis Ludlow      |
-| Magnus Bradbury  |             63.91 |        8 |             70.74 | Ruan Ackermann    |
-| Ben Vellacott    |             84.54 |        9 |             82.07 | Caolan Englefield |
-| Ross Thompson    |             81.62 |       10 |             86.27 | Gareth Anscombe   |
+| Boan Venter      |             24.86 |        1 |             82.6  | Val Rapava-Ruskin |
+| Patrick Harrison |             15.66 |        2 |             68.37 | Seb Blake         |
+| Paul Hill        |             89.33 |        3 |             76.35 | Kirill Gotovtsev  |
+| Marshall Sykes   |             86.05 |        4 |             57.28 | Arthur Clark      |
+| Sam Skinner      |             82.11 |        5 |             78.86 | Matias Alemanno   |
+| Tom Dodd         |             48.71 |        6 |             30.09 | Freddie Thomas    |
+| Freddy Douglas   |             43.1  |        7 |             36.21 | Lewis Ludlow      |
+| Magnus Bradbury  |             63.47 |        8 |             69.4  | Ruan Ackermann    |
+| Ben Vellacott    |             83.25 |        9 |             75.21 | Caolan Englefield |
+| Ross Thompson    |             79.4  |       10 |             78.8  | Gareth Anscombe   |
 | Nathan Sweeney   |            nan    |       11 |             79.98 | Josh Hathaway     |
-| Mosese Tuipulotu |             20.37 |       12 |             84.93 | Max Llewellyn     |
-| Matt Currie      |             84.56 |       13 |             32.09 | Chris Harris      |
-| Ross McCann      |            nan    |       14 |             97.27 | Christian Wade    |
-| Wes Goosen       |             93.24 |       15 |             89.03 | Santiago Carreras |
-| Dave Cherry      |             52.87 |       16 |             90.43 | Jack Singleton    |
-| Mikey Jones      |            nan    |       17 |             21.65 | Ciaran Knight     |
-| D'Arcy Rae       |             55.66 |       18 |             68.02 | Afolabi Fasogbon  |
-| Rob Carmichael   |            nan    |       19 |             35.83 | Harry Taylor      |
-| Liam McConnell   |            nan    |       20 |             98.94 | Albert Tuisue     |
-| Charlie Shiel    |            nan    |       21 |             58.11 | Charlie Chapman   |
-| Ben Healy        |             81.43 |       22 |             90.6  | William Butler    |
-| James Lang       |             87.2  |       23 |             77.88 | George Barton     |
+| Mosese Tuipulotu |             21.24 |       12 |             82.15 | Max Llewellyn     |
+| Matt Currie      |             82.74 |       13 |             44.42 | Chris Harris      |
+| Ross McCann      |            nan    |       14 |             97.11 | Christian Wade    |
+| Wes Goosen       |             91.73 |       15 |             84.62 | Santiago Carreras |
+| Dave Cherry      |             59.84 |       16 |             89.61 | Jack Singleton    |
+| Mikey Jones      |            nan    |       17 |             18.92 | Ciaran Knight     |
+| D'Arcy Rae       |             53.55 |       18 |            nan    | Afolabi Fasogbon  |
+| Rob Carmichael   |            nan    |       19 |             30.86 | Harry Taylor      |
+| Liam McConnell   |            nan    |       20 |             98.55 | Albert Tuisue     |
+| Charlie Shiel    |            nan    |       21 |             56.81 | Charlie Chapman   |
+| Ben Healy        |             80    |       22 |             89.23 | William Butler    |
+| James Lang       |             86.35 |       23 |             77.12 | George Barton     |
 

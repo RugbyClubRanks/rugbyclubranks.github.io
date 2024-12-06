@@ -11,7 +11,7 @@ categories: "United Rugby Championship 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.35, which translates to predicting Ospreys to win by 5.5.
 
-Our Over/Under is 54.5 - and combined with the spread above, we have a predicted scoreline of 30 to 25
+Our Over/Under is 58.5 - and combined with the spread above, we have a predicted scoreline of 32 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Ospreys by 5.1
+## Prediction without Player Minutes: Ospreys by 7.0
 
 
-Ospreys by 11.3 on a neutral pitch
+Ospreys by 13.2 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,31 +69,19 @@ Ospreys by 11.3 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player            |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:-----------------------|---------------:|
-|             31 | Garyn Phillips     |             68.63 |        1 |             73.68 | Luca Rizzoli           |             73 |
-|             62 | Sam Parry          |             32.11 |        2 |             51.84 | Tommaso Di Bartolomeo  |             81 |
-|             12 | Tom Botha          |             59.34 |        3 |             19.4  | Ion Neculai            |             58 |
-|              8 | James Fender       |             48.43 |        4 |             36.17 | Andrea Zambonin        |             58 |
-|             82 | William Greatbanks |             66.89 |        5 |             10.81 | Leonard Krumov         |             58 |
-|             56 | Harri Deaves       |             90.73 |        6 |             47.39 | Rusiate Nasove         |             49 |
-|             82 | Justin Tipuric     |             98.23 |        7 |             27.4  | Bautista Stavile       |             82 |
-|             82 | Morgan Morris      |              5.46 |        8 |             25    | Giacomo Ferrari        |             19 |
-|             81 | Kieran Hardy       |             58.73 |        9 |             10.82 | Alessandro Fusco       |             74 |
-|             81 | Owen Williams      |             94.97 |       10 |             17.41 | Giacomo Da Re          |             58 |
-|             22 | Keelan Giles       |             22.37 |       11 |             25.09 | Simone Gesi            |             31 |
-|             59 | Keiran Williams    |             90.79 |       12 |             58.33 | Enrico Lucchin         |             19 |
-|              8 | Owen Watkin        |             97.3  |       13 |             70.42 | Giulio Bertaccini      |             33 |
-|             25 | Daniel Kasende     |             95.3  |       14 |             16.98 | Jacopo Trulla          |             12 |
-|             65 | Jack Walsh         |             34.55 |       15 |             93.6  | Geronimo Prisciantelli |             81 |
-|             82 | Jack Walsh         |             34.55 |       15 |             93.6  | Geronimo Prisciantelli |             81 |
-|             82 | Lewis Lloyd        |             64.59 |       16 |             84.54 | Luca Bigi              |             82 |
-|             82 | Steffan Thomas     |             24.56 |       17 |             27.36 | Muhamed Hasa           |             81 |
-|             67 | Ben Warren         |             62.25 |       18 |             20.6  | Matteo Nocera          |             12 |
-|             12 | Lewis Jones        |            nan    |       19 |             94.89 | Matteo Canali          |             69 |
-|             54 | Tristan Davies     |            nan    |       20 |             12.85 | Giovanni Licata        |             23 |
-|             31 | Luke Davies        |             67.39 |       21 |             68.16 | Gonzalo Garcia         |             58 |
-|             31 | Luke Davies        |             67.39 |       21 |             68.16 | Gonzalo Garcia         |             13 |
-|             31 | Luke Davies        |             67.39 |       21 |             68.16 | Gonzalo Garcia         |             81 |
-|             31 | Luke Davies        |             67.39 |       21 |             68.16 | Gonzalo Garcia         |             50 |
-|             38 | Iestyn Hopkins     |             68.99 |       22 |             92    | Luca Morisi            |             81 |
-|             70 | Max Nagy           |             81.54 |       23 |              4.84 | Giovanni Montemauri    |             24 |
+|             82 | Garyn Phillips     |             59.01 |        1 |             76.53 | Luca Rizzoli           |             80 |
+|             82 | Sam Parry          |             26.2  |        2 |             65.43 | Tommaso Di Bartolomeo  |             80 |
+|             82 | Tom Botha          |             47.48 |        3 |             20.01 | Ion Neculai            |             80 |
+|             82 | James Fender       |             75.09 |        4 |             55.44 | Andrea Zambonin        |             80 |
+|             82 | William Greatbanks |             53.77 |        5 |             15.26 | Leonard Krumov         |             80 |
+|             61 | Harri Deaves       |             88.19 |        6 |             73.28 | Rusiate Nasove         |             80 |
+|             62 | Justin Tipuric     |             96.9  |        7 |             40.26 | Bautista Stavile       |             80 |
+|             82 | Morgan Morris      |              3.44 |        8 |             38.88 | Giacomo Ferrari        |             80 |
+|             82 | Kieran Hardy       |             34.15 |        9 |             12.81 | Alessandro Fusco       |             80 |
+|             82 | Owen Williams      |             93.8  |       10 |             27.4  | Giacomo Da Re          |             80 |
+|             70 | Keelan Giles       |             19.39 |       11 |             34.79 | Simone Gesi            |             80 |
+|             80 | Keiran Williams    |             87.49 |       12 |             66.44 | Enrico Lucchin         |             82 |
+|             80 | Owen Watkin        |             95.83 |       13 |             74.2  | Giulio Bertaccini      |             70 |
+|             80 | Daniel Kasende     |             94.37 |       14 |             23.46 | Jacopo Trulla          |             70 |
+|             80 | Jack Walsh         |             20    |       15 |             95    | Geronimo Prisciantelli |             80 |
 

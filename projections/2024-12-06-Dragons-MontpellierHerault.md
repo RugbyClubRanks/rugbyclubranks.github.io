@@ -9,9 +9,9 @@ categories: "European Rugby Challenge Cup 2024" match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.222, which translates to predicting Montpellier Herault to win by 8.2.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.222, which translates to predicting Montpellier Herault to win by 7.4.
 
-Our Over/Under is 42.5 - and combined with the spread above, we have a predicted scoreline of 26 to 17
+Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 28 to 21
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Dragons by 5.8
+## Prediction without Player Minutes: Dragons by 6.9
 
 
-Montpellier Herault by 4.2 on a neutral pitch
+Montpellier Herault by 3.1 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Montpellier Herault by 4.2 on a neutral pitch
 
 | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player      |
 |:-------------------|------------------:|---------:|------------------:|:-----------------|
-| Enzo Forletta      |             62.75 |        1 |            nan    | Josh Reynolds    |
-| Lyam Akrab         |            nan    |        2 |             13.99 | James Benjamin   |
+| Enzo Forletta      |             52.76 |        1 |            nan    | Josh Reynolds    |
+| Lyam Akrab         |            nan    |        2 |             14.88 | James Benjamin   |
 | Mohamed Haouas     |            nan    |        3 |            nan    | Dmitri Arhip     |
-| Florian Verhaeghe  |             63.57 |        4 |            nan    | Joseph Davies    |
-| Tyler Duguid       |             60.43 |        5 |              2.38 | Matthew Screech  |
-| Nicolas Martins    |            nan    |        6 |             63.66 | Ryan Woodman     |
-| Youssouf Soucouna  |            nan    |        7 |             55.65 | Taine Basham     |
-| Marco Tauleigne    |             94.35 |        8 |             40.14 | Aaron Wainwright |
-| Alexis Bernadet    |             22.72 |        9 |            nan    | Morgan Lloyd     |
-| Aurelien Barreau   |            nan    |       10 |             24.95 | Will Reed        |
-| Madosh Tambwe      |             93.33 |       11 |             48.29 | Ewan Rosser      |
-| Arthur Vincent     |              8.65 |       12 |             79.63 | Aneurin Owen     |
-| Thomas Darmon      |             16.09 |       13 |             57.39 | Harry Wilson     |
-| George Bridge      |             93.1  |       14 |             31.61 | Rio Dyer         |
-| Julien Tisseron    |             84.28 |       15 |             22.85 | Angus O'Brien    |
-| Vano Karkadze      |             68.48 |       16 |            nan    | Sam Scarfe       |
-| Luca Tabarot       |             36.98 |       17 |             44.12 | Aki Seiuli       |
-| Wilfrid Hounkpatin |             56.54 |       18 |             31.81 | Chris Coleman    |
-| Jules Veyrier      |            nan    |       19 |             14.04 | George Nott      |
-| Alexandre Becognee |             34.82 |       20 |            nan    | Barny Langton    |
-| Ryan Louwrens      |             95.67 |       21 |             18.7  | Dane Blacker     |
-| Thomas Vincent     |              5.03 |       22 |             12.07 | Cai Evans        |
-| Christa Powell     |              2.14 |       23 |             11.22 | Jared Rosser     |
+| Florian Verhaeghe  |             66.75 |        4 |            nan    | Joseph Davies    |
+| Tyler Duguid       |             49.12 |        5 |              3.42 | Matthew Screech  |
+| Nicolas Martins    |            nan    |        6 |             62.84 | Ryan Woodman     |
+| Youssouf Soucouna  |            nan    |        7 |             46.98 | Taine Basham     |
+| Marco Tauleigne    |             93.62 |        8 |             49.37 | Aaron Wainwright |
+| Alexis Bernadet    |             22    |        9 |            nan    | Morgan Lloyd     |
+| Aurelien Barreau   |            nan    |       10 |             25.4  | Will Reed        |
+| Madosh Tambwe      |             93.28 |       11 |             48.55 | Ewan Rosser      |
+| Arthur Vincent     |              8.44 |       12 |             77.69 | Aneurin Owen     |
+| Thomas Darmon      |             13.68 |       13 |             69.98 | Harry Wilson     |
+| George Bridge      |             93.35 |       14 |             35.03 | Rio Dyer         |
+| Julien Tisseron    |             81.92 |       15 |             21.73 | Angus O'Brien    |
+| Vano Karkadze      |             47.75 |       16 |            nan    | Sam Scarfe       |
+| Luca Tabarot       |             34.51 |       17 |             41.78 | Aki Seiuli       |
+| Wilfrid Hounkpatin |             40.75 |       18 |             28.32 | Chris Coleman    |
+| Jules Veyrier      |            nan    |       19 |             15.61 | George Nott      |
+| Alexandre Becognee |             55.78 |       20 |            nan    | Barny Langton    |
+| Ryan Louwrens      |             95.4  |       21 |             17.9  | Dane Blacker     |
+| Thomas Vincent     |              7.4  |       22 |             12.5  | Cai Evans        |
+| Christa Powell     |              2.23 |       23 |             12.35 | Jared Rosser     |
 

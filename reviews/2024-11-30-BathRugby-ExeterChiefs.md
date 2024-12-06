@@ -11,7 +11,7 @@ categories: "Gallagher Premiership 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.761, which translates to predicting Bath Rugby to win by 10.2.
 
-Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 18 to 28
+Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 20 to 30
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Bath Rugby by 53.5
+## Prediction without Player Minutes: Bath Rugby by 55.0
 
 
-Bath Rugby by 39.5 on a neutral pitch
+Bath Rugby by 41.0 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,32 +69,31 @@ Bath Rugby by 39.5 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player      |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:-----------------|---------------:|
-|             24 | Scott Sio            |             84.29 |        1 |             87.31 | Thomas du Toit   |             15 |
-|             24 | Scott Sio            |             84.29 |        1 |             87.31 | Thomas du Toit   |             59 |
-|             80 | Dan Frost            |             89.4  |        2 |             96.47 | Tom Dunn         |             41 |
-|             15 | Marcus Street        |             18.3  |        3 |             40.27 | Will Stuart      |             56 |
-|             84 | Rusiate Tuima        |             67.74 |        4 |             97.79 | Quinn Roux       |             61 |
-|             59 | Richard Capstick     |              6.13 |        5 |             81.96 | Charlie Ewels    |             56 |
-|             70 | Ethan Roots          |              6.32 |        6 |             95.7  | Ted Hill         |             62 |
-|             84 | Ethan Roots          |              6.32 |        6 |             95.7  | Ted Hill         |             62 |
-|              0 | Jacques Vermeulen    |             90.98 |        7 |             17.71 | Guy Pepper       |             77 |
-|             84 | Greg Fisilau         |             90.49 |        8 |             95.42 | Miles Reid       |             84 |
-|             80 | Stu Townsend         |             93.82 |        9 |             88.56 | Ben Spencer      |             61 |
-|              7 | Henry Slade          |             96.52 |       10 |             99.81 | Finn Russell     |             41 |
-|             20 | Tom Wyatt            |             54.06 |       11 |             34.19 | Will Muir        |             56 |
-|              4 | Will Rigg            |             96.47 |       12 |             78.51 | Will Butt        |             82 |
-|             22 | Tamati Tua           |             82.7  |       13 |             82.79 | Ollie Lawrence   |             52 |
-|             84 | Immanuel Feyi-Waboso |             52.24 |       14 |             96.59 | Joe Cokanasiga   |             82 |
-|             62 | Immanuel Feyi-Waboso |             52.24 |       14 |             96.59 | Joe Cokanasiga   |             82 |
-|             69 | Josh Hodge           |              2.19 |       15 |             43.88 | Tom de Glanville |             41 |
-|             84 | Jack Innard          |            nan    |       16 |             64.51 | Niall Annett     |             84 |
-|             84 | Will Goodrick-Clarke |             62.36 |       17 |             81.65 | Francois van Wyk |             25 |
-|             22 | Jimmy Roots          |            nan    |       18 |            nan    | Kieran Verden    |             69 |
-|             60 | Franco Molina        |              7.83 |       19 |             94.47 | Ross Molony      |             68 |
-|             25 | Franco Molina        |              7.83 |       19 |             94.47 | Ross Molony      |             68 |
-|             84 | Franco Molina        |              7.83 |       19 |             94.47 | Ross Molony      |             68 |
-|             60 | Ross Vintcent        |             20.07 |       20 |             55.63 | Josh Bayliss     |             84 |
-|             24 | Will Becconsall      |            nan    |       21 |             82.69 | Louis Schreuder  |             84 |
-|             59 | Will Haydon-Wood     |             15.28 |       22 |             10.98 | Cameron Redpath  |             56 |
-|              5 | Ben Hammersley       |             48.82 |       23 |             87.32 | Alfie Barbeary   |             56 |
+|             84 | Scott Sio            |             85.93 |        1 |             87.51 | Thomas du Toit   |             25 |
+|             84 | Scott Sio            |             85.93 |        1 |             87.51 | Thomas du Toit   |             77 |
+|              0 | Dan Frost            |             86.05 |        2 |             96.28 | Tom Dunn         |             80 |
+|             25 | Marcus Street        |             16.13 |        3 |             41.24 | Will Stuart      |             49 |
+|             84 | Rusiate Tuima        |             67.72 |        4 |             97.89 | Quinn Roux       |             22 |
+|             80 | Richard Capstick     |              8.42 |        5 |             83.95 | Charlie Ewels    |             31 |
+|             84 | Ethan Roots          |              6.9  |        6 |             94.31 | Ted Hill         |             61 |
+|             60 | Ethan Roots          |              6.9  |        6 |             94.31 | Ted Hill         |             61 |
+|             59 | Jacques Vermeulen    |             91.29 |        7 |             19.31 | Guy Pepper       |             54 |
+|             69 | Greg Fisilau         |             89.33 |        8 |             95.66 | Miles Reid       |             29 |
+|             69 | Greg Fisilau         |             89.33 |        8 |             95.66 | Miles Reid       |             80 |
+|             69 | Stu Townsend         |             93.1  |        9 |             87.03 | Ben Spencer      |             71 |
+|             84 | Henry Slade          |             96.4  |       10 |             99.8  | Finn Russell     |             15 |
+|             84 | Tom Wyatt            |             65.75 |       11 |             34.01 | Will Muir        |             62 |
+|              5 | Will Rigg            |             95.64 |       12 |             78.18 | Will Butt        |             62 |
+|             70 | Tamati Tua           |             84.48 |       13 |             87.68 | Ollie Lawrence   |              7 |
+|             84 | Immanuel Feyi-Waboso |             23.38 |       14 |             96.56 | Joe Cokanasiga   |             22 |
+|             59 | Josh Hodge           |              2.12 |       15 |             48.27 | Tom de Glanville |             20 |
+|             84 | Jack Innard          |            nan    |       16 |             63.41 | Niall Annett     |             80 |
+|             84 | Will Goodrick-Clarke |             60.82 |       17 |             81.87 | Francois van Wyk |             80 |
+|             60 | Jimmy Roots          |            nan    |       18 |            nan    | Kieran Verden    |             54 |
+|             84 | Franco Molina        |              9.39 |       19 |             94.12 | Ross Molony      |             84 |
+|             69 | Franco Molina        |              9.39 |       19 |             94.12 | Ross Molony      |             84 |
+|              4 | Ross Vintcent        |             21.16 |       20 |             54.43 | Josh Bayliss     |             80 |
+|             59 | Will Becconsall      |            nan    |       21 |             80.95 | Louis Schreuder  |             80 |
+|             59 | Will Haydon-Wood     |             15.8  |       22 |              9.31 | Cameron Redpath  |             15 |
+|             61 | Ben Hammersley       |             49.88 |       23 |             87.7  | Alfie Barbeary   |             84 |
 
