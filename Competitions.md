@@ -74,7 +74,7 @@ key: page-recents
 ## Rugby Europe Trophy
 
 
-[2024](comp_files\Rugby_Europe_Trophy_2024) - Prediction Accuracy: 100.0% 
+[2024](comp_files\Rugby_Europe_Trophy_2024) - Prediction Accuracy: 55.6% 
 
 [2023](comp_files\Rugby_Europe_Trophy_2023) - Prediction Accuracy: 42.9% 
 ## Pacific Nations Cup
@@ -210,7 +210,7 @@ key: page-recents
 ## Major League Rugby
 
 
-[2024](comp_files\Major_League_Rugby_2024) - Prediction Accuracy: 63.0% 
+[2024](comp_files\Major_League_Rugby_2024) - Prediction Accuracy: 63.5% 
 
 [2023](comp_files\Major_League_Rugby_2023) - Prediction Accuracy: 71.3% 
 
@@ -222,7 +222,7 @@ key: page-recents
 ## Super Rugby Pacific
 
 
-[2024](comp_files\Super_Rugby_Pacific_2024) - Prediction Accuracy: 73.9% 
+[2024](comp_files\Super_Rugby_Pacific_2024) - Prediction Accuracy: 74.7% 
 
 [2023](comp_files\Super_Rugby_Pacific_2023) - Prediction Accuracy: 79.1% 
 
@@ -290,7 +290,7 @@ key: page-recents
 ## Division de Honor de Rugby
 
 
-[2024](comp_files\Division_de_Honor_de_Rugby_2024) - Prediction Accuracy: 69.6% 
+[2024](comp_files\Division_de_Honor_de_Rugby_2024) - Prediction Accuracy: 70.8% 
 ## Premiership Rugby
 
 
@@ -336,7 +336,7 @@ key: page-recents
 ## Nationale
 
 
-[2024](comp_files\Nationale_2024) - Prediction Accuracy: 79.1% 
+[2024](comp_files\Nationale_2024) - Prediction Accuracy: 75.6% 
 
 [2023](comp_files\Nationale_2023) - Prediction Accuracy: 74.9% 
 
