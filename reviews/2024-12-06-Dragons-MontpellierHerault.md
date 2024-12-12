@@ -11,7 +11,7 @@ categories: "European Rugby Challenge Cup 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.332, which translates to predicting Montpellier Herault to win by 6.1.
 
-Our Over/Under is 56.5 - and combined with the spread above, we have a predicted scoreline of 32 to 25
+Our Over/Under is 54.5 - and combined with the spread above, we have a predicted scoreline of 31 to 24
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Dragons by 26.9
+## Prediction without Player Minutes: Dragons by 28.4
 
 
-Dragons by 16.9 on a neutral pitch
+Dragons by 18.4 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,35 +69,34 @@ Dragons by 16.9 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player      |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:-----------------|---------------:|
-|             72 | Enzo Forletta      |             79.78 |        1 |             25.66 | Josh Reynolds    |             80 |
-|             64 | Lyam Akrab         |             63.93 |        2 |              9.59 | James Benjamin   |             63 |
-|             56 | Mohamed Haouas     |             68.42 |        3 |             19.85 | Chris Coleman    |             70 |
-|             81 | Florian Verhaeghe  |             78.91 |        4 |             38.03 | Joseph Davies    |             51 |
-|             66 | Tyler Duguid       |             79.95 |        5 |              3.28 | Matthew Screech  |             40 |
-|              9 | Nicolas Martins    |             52.06 |        6 |             65.69 | Ryan Woodman     |              5 |
-|             84 | Youssouf Soucouna  |             72.47 |        7 |             25.73 | Taine Basham     |             80 |
-|             81 | Marco Tauleigne    |             96.35 |        8 |             30.96 | Aaron Wainwright |             58 |
-|             81 | Alexis Bernadet    |             57.14 |        9 |             38.36 | Morgan Lloyd     |             30 |
-|             81 | Aurelien Barreau   |             69.92 |       10 |              8.37 | Will Reed        |             84 |
-|             66 | Madosh Tambwe      |             92.74 |       11 |             33.05 | Ewan Rosser      |             44 |
-|              0 | Arthur Vincent     |             14.01 |       12 |             79.32 | Aneurin Owen     |              0 |
-|             74 | Thomas Darmon      |             32.37 |       13 |             96.91 | Harry Wilson     |             14 |
-|             74 | Thomas Darmon      |             32.37 |       13 |             96.91 | Harry Wilson     |             30 |
-|             74 | Thomas Darmon      |             32.37 |       13 |             96.91 | Harry Wilson     |             27 |
-|             74 | Thomas Darmon      |             32.37 |       13 |             96.91 | Harry Wilson     |             84 |
-|             81 | George Bridge      |            100    |       14 |             18.76 | Rio Dyer         |             84 |
-|             62 | George Bridge      |            100    |       14 |             18.76 | Rio Dyer         |             84 |
-|             15 | George Bridge      |            100    |       14 |             18.76 | Rio Dyer         |             84 |
-|             54 | George Bridge      |            100    |       14 |             18.76 | Rio Dyer         |             84 |
-|             84 | George Bridge      |            100    |       14 |             18.76 | Rio Dyer         |             84 |
-|             43 | George Bridge      |            100    |       14 |             18.76 | Rio Dyer         |             84 |
-|             84 | Julien Tisseron    |             89.76 |       15 |             16.64 | Angus O'Brien    |             56 |
-|             81 | Vano Karkadze      |             71.54 |       16 |            nan    | Sam Scarfe       |             75 |
-|             81 | Luca Tabarot       |             36.71 |       17 |             42.88 | Aki Seiuli       |             22 |
-|             81 | Wilfrid Hounkpatin |             63.47 |       18 |             59.13 | Luke Yendle      |             54 |
-|             81 | Jules Veyrier      |            nan    |       19 |             16.42 | George Nott      |             80 |
-|             81 | Alexandre Becognee |             39.71 |       20 |            nan    | Barny Langton    |             17 |
-|             81 | Ryan Louwrens      |             95.51 |       21 |             18.94 | Dane Blacker     |             15 |
-|             72 | Thomas Vincent     |              9.76 |       22 |             15.54 | Cai Evans        |             80 |
-|             62 | Christa Powell     |              1.84 |       23 |             11.35 | Jared Rosser     |             41 |
+|             81 | Enzo Forletta      |             81.49 |        1 |             29.18 | Josh Reynolds    |             81 |
+|             25 | Lyam Akrab         |             49.92 |        2 |              8.47 | James Benjamin   |             81 |
+|             40 | Mohamed Haouas     |             65.78 |        3 |             30.13 | Chris Coleman    |             15 |
+|             81 | Florian Verhaeghe  |             76.72 |        4 |             30.86 | Joseph Davies    |             66 |
+|             81 | Tyler Duguid       |             78.04 |        5 |              2.38 | Matthew Screech  |             15 |
+|             81 | Nicolas Martins    |             71.85 |        6 |             64.14 | Ryan Woodman     |              0 |
+|             81 | Youssouf Soucouna  |             71.85 |        7 |             31.43 | Taine Basham     |             84 |
+|             81 | Marco Tauleigne    |             96.26 |        8 |             50.45 | Aaron Wainwright |             11 |
+|             72 | Alexis Bernadet    |             52.67 |        9 |             53.81 | Morgan Lloyd     |              0 |
+|             80 | Aurelien Barreau   |             69.68 |       10 |              8.63 | Will Reed        |             84 |
+|             84 | Madosh Tambwe      |             94.1  |       11 |             24.98 | Ewan Rosser      |             84 |
+|             15 | Arthur Vincent     |             17.3  |       12 |             69.87 | Aneurin Owen     |             84 |
+|             66 | Thomas Darmon      |             27.41 |       13 |             97.47 | Harry Wilson     |             84 |
+|             66 | Thomas Darmon      |             27.41 |       13 |             97.47 | Harry Wilson     |             14 |
+|             66 | Thomas Darmon      |             27.41 |       13 |             97.47 | Harry Wilson     |             81 |
+|             84 | George Bridge      |            100    |       14 |             28.81 | Rio Dyer         |              9 |
+|             70 | George Bridge      |            100    |       14 |             28.81 | Rio Dyer         |              9 |
+|             59 | George Bridge      |            100    |       14 |             28.81 | Rio Dyer         |              9 |
+|             55 | George Bridge      |            100    |       14 |             28.81 | Rio Dyer         |              9 |
+|             24 | George Bridge      |            100    |       14 |             28.81 | Rio Dyer         |              9 |
+|             81 | George Bridge      |            100    |       14 |             28.81 | Rio Dyer         |              9 |
+|             24 | Julien Tisseron    |             81.75 |       15 |             21.79 | Angus O'Brien    |              0 |
+|             41 | Vano Karkadze      |             65.18 |       16 |            nan    | Sam Scarfe       |              0 |
+|             66 | Luca Tabarot       |             38.85 |       17 |             45.97 | Aki Seiuli       |             60 |
+|             74 | Wilfrid Hounkpatin |             63.17 |       18 |             61.57 | Luke Yendle      |             11 |
+|             81 | Jules Veyrier      |            nan    |       19 |             15.96 | George Nott      |             24 |
+|             81 | Alexandre Becognee |             46.93 |       20 |            nan    | Barny Langton    |             21 |
+|             66 | Ryan Louwrens      |             95.14 |       21 |             17.34 | Dane Blacker     |              7 |
+|             81 | Thomas Vincent     |              5.42 |       22 |             11.92 | Cai Evans        |             47 |
+|             81 | Christa Powell     |              2.53 |       23 |             11.19 | Jared Rosser     |             41 |
 

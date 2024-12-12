@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Cornish Pirates by 11.6
+## Prediction without Player Minutes: Cornish Pirates by 11.3
 
 
-Cornish Pirates by 14.3 on a neutral pitch
+Cornish Pirates by 14.0 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Cornish Pirates by 14.3 on a neutral pitch
 
 |   Away Minutes | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             80 | Billy Young       |             21.56 |        1 |             13.32 | Adam Aigbokhae       |             80 |
-|             15 | Harry Hocking     |             49.92 |        2 |              8.83 | Matt Gallagher       |             55 |
-|             48 | Jay Tyack         |             60.35 |        3 |             22.48 | Monty Weatherby      |             80 |
-|             18 | Charlie Rice      |             12.19 |        4 |             24.55 | Freddie Stevenson    |             80 |
-|             25 | Matt Cannon       |             19.01 |        5 |             11.93 | Joe Sproston         |             80 |
-|             25 | Josh King         |             67.58 |        6 |              9.69 | Sam Olyott           |             80 |
-|             66 | Will Gibson       |             78.73 |        7 |             55.49 | Tristan Woodman      |             55 |
-|             80 | Hugh Bokenham     |             60.87 |        8 |              5.57 | Josiah Dickinson     |             62 |
-|             80 | Cam Jones         |             14.93 |        9 |              8.67 | Ollie Wynn           |             16 |
-|             17 | Bruce Houston     |             72.31 |       10 |              1.59 | Lewis Barker         |             20 |
-|             66 | Matthew McNab     |             19.54 |       11 |              8.11 | Michael Cartmill     |             48 |
-|             62 | Harry Yates       |             53.62 |       12 |              7.63 | Connor Wilkinson     |             20 |
-|             80 | Charlie McCaig    |             26.38 |       13 |             14.4  | Rekeiti Ma'asi-White |             80 |
-|             80 | Arthur Relton     |             72.82 |       14 |             13.05 | Nick Royle           |             40 |
-|             32 | Will Trewin       |             72.21 |       15 |              9.69 | Michael Barlow       |             80 |
-|             80 | Oisin Michel      |            nan    |       16 |             11.73 | Nathan Rushton       |             60 |
-|             80 | Sol Moody         |             15.53 |       17 |              4.57 | Oliver Hearn         |             55 |
-|             80 | James French      |             60.11 |       18 |             18.81 | Ryan Higginson       |             75 |
-|             80 | Lewis Pearson     |             77.18 |       19 |             54.96 | Will Riley           |             60 |
-|             66 | Tomiwa Agbongbon  |             24.53 |       20 |              7.29 | Callum Ridgway       |             78 |
-|             80 | Dan HIscocks      |              7.54 |       21 |             26.32 | Joseph Murray        |             80 |
-|             80 | Chester Ribbons   |            nan    |       22 |              0.39 | Sam Bedlow           |             80 |
-|             80 | Iwan Price-Thomas |             10.97 |       23 |             16.45 | Matt Kilcourse       |             80 |
+|             40 | Billy Young       |             23.01 |        1 |             17.73 | Adam Aigbokhae       |             65 |
+|             80 | Harry Hocking     |             53.62 |        2 |              7.55 | Matt Gallagher       |             81 |
+|             32 | Jay Tyack         |             61.21 |        3 |             27.16 | Monty Weatherby      |             80 |
+|             25 | Charlie Rice      |             11.73 |        4 |             25.04 | Freddie Stevenson    |             80 |
+|             80 | Matt Cannon       |             19.84 |        5 |              9.26 | Joe Sproston         |             80 |
+|             63 | Josh King         |             69.93 |        6 |              8.86 | Sam Olyott           |             80 |
+|             80 | Will Gibson       |             78.71 |        7 |             56.39 | Tristan Woodman      |             17 |
+|             80 | Hugh Bokenham     |             57.93 |        8 |              5.35 | Josiah Dickinson     |              2 |
+|             18 | Cam Jones         |             13.29 |        9 |              7.29 | Ollie Wynn           |             66 |
+|             20 | Bruce Houston     |             72.49 |       10 |              1.61 | Lewis Barker         |             80 |
+|             80 | Matthew McNab     |             19.23 |       11 |              8.2  | Michael Cartmill     |             60 |
+|             80 | Harry Yates       |             53.45 |       12 |              7.19 | Connor Wilkinson     |             60 |
+|             80 | Charlie McCaig    |             25.07 |       13 |             14.58 | Rekeiti Ma'asi-White |             80 |
+|             80 | Arthur Relton     |             69.27 |       14 |             12.11 | Nick Royle           |             49 |
+|             65 | Will Trewin       |             70.76 |       15 |              7.45 | Michael Barlow       |             65 |
+|             58 | Oisin Michel      |            nan    |       16 |             16.61 | Nathan Rushton       |             55 |
+|             25 | Sol Moody         |             11.86 |       17 |              4.01 | Oliver Hearn         |             32 |
+|             23 | James French      |             61.45 |       18 |             23.49 | Ryan Higginson       |             23 |
+|             32 | Lewis Pearson     |             76.46 |       19 |             56.15 | Will Riley           |             80 |
+|             80 | Tomiwa Agbongbon  |             24.53 |       20 |              6.98 | Callum Ridgway       |             80 |
+|             80 | Dan HIscocks      |              6.16 |       21 |             24.96 | Joseph Murray        |             57 |
+|             57 | Chester Ribbons   |            nan    |       22 |              0.97 | Sam Bedlow           |             64 |
+|             48 | Iwan Price-Thomas |              7.82 |       23 |             11.36 | Matt Kilcourse       |             66 |
 

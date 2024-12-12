@@ -9,9 +9,9 @@ categories: "Nationale 2024" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.537, which translates to predicting Langon to win by 1.3.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.538, which translates to predicting Langon to win by 1.3.
 
-Our Over/Under is 56.5 - and combined with the spread above, we have a predicted scoreline of 28 to 29
+Our Over/Under is 39.5 - and combined with the spread above, we have a predicted scoreline of 19 to 20
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Langon by 1.9
+## Prediction without Player Minutes: Langon by 1.7
 
 
-Narbonne by 0.4 on a neutral pitch
+Narbonne by 0.6 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Narbonne by 0.4 on a neutral pitch
 
 |   Away Minutes | Away Player               |   Away Percentile |   Number |   Home Percentile | Home Player                    |   Home Minutes |
 |---------------:|:--------------------------|------------------:|---------:|------------------:|:-------------------------------|---------------:|
-|             80 | Gregory Fichten           |             19.91 |        1 |             46.12 | Lucas Hernandez                |             80 |
-|             31 | Gabriel Atlan             |             75.95 |        2 |              9.13 | Maxime Gau                     |             80 |
-|             80 | Jérémy Boyadjis           |             71.66 |        3 |             32.5  | Loïc Clave                     |             49 |
-|             80 | Darrell Dyer              |             91.44 |        4 |             34.23 | Thomas Geffré                  |             56 |
-|             12 | Leva Fifita               |             14.35 |        5 |             86.6  | Kemueli Lavetanakoroi          |             56 |
-|             80 | Thibault Clauzade         |             83.19 |        6 |             57.2  | Meryll Ech Chalka Roumazeilles |             80 |
-|             23 | Paul Belzons              |             13.38 |        7 |             58.66 | Thomas Bishop                  |             19 |
-|             80 | Charles Malet             |              4.17 |        8 |             38.78 | Thomas Mendy                   |             35 |
-|             79 | Pierrick Nova             |             48.64 |        9 |             33.23 | Paul Castera                   |             46 |
-|             80 | Gilles Bosch              |             12.75 |       10 |             13.75 | Vincent Debladis               |             35 |
-|             31 | Clément Clavières         |             35.75 |       11 |             35.44 | Quentin Lefort                 |             46 |
-|             80 | Parataiso Silafai-Lea'ana |             71.79 |       12 |             76.91 | Sionasa Vunisa                 |             19 |
-|             75 | Peter Betham              |             99.52 |       13 |             40.1  | Adriu Naiyaga Naivuwai         |             56 |
-|             80 | Pierre-Hugo Ducom         |             13.9  |       14 |             74.67 | Thomas Wallraf                 |             56 |
-|             80 | Thibault Santoro          |             44.79 |       15 |             39.67 | Nathan Gagnac                  |             45 |
-|             60 | Théo Castinel             |             73.43 |       16 |             25.96 | Ratu Nailoma Vatubua           |             16 |
-|             35 | Mohammed Loukia           |             21.62 |       17 |             47.49 | Julien Graffouillère           |             24 |
-|             79 | Adam Moulahya             |            nan    |       18 |             29.75 | Emiliano Coria Marchetti       |             61 |
-|             34 | Marius Antonescu          |             13.31 |       19 |             66.9  | Helmi Mimouna                  |             24 |
-|             24 | Dennis Visser             |             41.83 |       20 |             27.48 | Isikili Seva Davetawalu        |             57 |
-|             68 | Tom Chauvet               |             33.27 |       21 |              9.22 | Thomas De Molder               |             80 |
-|             80 | Pierre Nueno              |             13.53 |       22 |             44.14 | Baptiste Tisne Cardeneau       |             80 |
-|             80 | Grégoire Labit            |            nan    |       23 |             36.2  | Baptiste Castanier             |             20 |
+|             60 | Gregory Fichten           |             24.32 |        1 |             40.81 | Lucas Hernandez                |             80 |
+|             45 | Gabriel Atlan             |             72.11 |        2 |              8.94 | Maxime Gau                     |             19 |
+|             24 | Jérémy Boyadjis           |             72.66 |        3 |             32.44 | Loïc Clave                     |             35 |
+|             31 | Darrell Dyer              |             91.89 |        4 |             30.25 | Thomas Geffré                  |             61 |
+|             19 | Leva Fifita               |             13.49 |        5 |             82.19 | Kemueli Lavetanakoroi          |             80 |
+|             19 | Thibault Clauzade         |             81.6  |        6 |             36.54 | Meryll Ech Chalka Roumazeilles |             80 |
+|             46 | Paul Belzons              |             16.95 |        7 |             33.39 | Thomas Bishop                  |             80 |
+|             45 | Charles Malet             |              4.1  |        8 |             28.52 | Thomas Mendy                   |             80 |
+|             34 | Pierrick Nova             |             44.89 |        9 |             30.79 | Paul Castera                   |             24 |
+|             16 | Gilles Bosch              |              8.03 |       10 |             11.04 | Vincent Debladis               |             20 |
+|             31 | Clément Clavières         |             35.79 |       11 |             30.34 | Quentin Lefort                 |             49 |
+|             61 | Parataiso Silafai-Lea'ana |             76.48 |       12 |             74.05 | Sionasa Vunisa                 |             35 |
+|             24 | Peter Betham              |             98.93 |       13 |             31    | Adriu Naiyaga Naivuwai         |             80 |
+|             66 | Pierre-Hugo Ducom         |             12.57 |       14 |             70.27 | Thomas Wallraf                 |             80 |
+|             56 | Thibault Santoro          |             32.96 |       15 |             23.65 | Nathan Gagnac                  |             80 |
+|             68 | Théo Castinel             |             75.5  |       16 |             26.99 | Ratu Nailoma Vatubua           |             14 |
+|             46 | Mohammed Loukia           |             25.74 |       17 |             46.84 | Julien Graffouillère           |             80 |
+|             35 | Adam Moulahya             |            nan    |       18 |             33.99 | Emiliano Coria Marchetti       |             23 |
+|             80 | Marius Antonescu          |             13.93 |       19 |             54.41 | Helmi Mimouna                  |             80 |
+|             80 | Dennis Visser             |             40.65 |       20 |             27.07 | Isikili Seva Davetawalu        |             57 |
+|             56 | Tom Chauvet               |             31.53 |       21 |              8.2  | Thomas De Molder               |             16 |
+|             56 | Pierre Nueno              |             13.41 |       22 |             44.25 | Baptiste Tisne Cardeneau       |             79 |
+|             80 | Grégoire Labit            |            nan    |       23 |             33.33 | Baptiste Castanier             |             49 |
 

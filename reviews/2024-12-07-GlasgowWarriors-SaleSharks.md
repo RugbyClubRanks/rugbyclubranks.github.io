@@ -11,7 +11,7 @@ categories: "European Rugby Champions Cup 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.75, which translates to predicting Glasgow Warriors to win by 9.7.
 
-Our Over/Under is 40.5 - and combined with the spread above, we have a predicted scoreline of 15 to 25
+Our Over/Under is 34.5 - and combined with the spread above, we have a predicted scoreline of 12 to 22
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,38 +69,37 @@ Glasgow Warriors by 52.0 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             80 | Bevan Rodd           |             85.58 |        1 |             90.1  | Jamie Bhatti          |             51 |
-|             80 | Tadgh McElroy        |             73.67 |        2 |             71.69 | Gregor Hiddleston     |             82 |
-|             55 | Asher Opoku-Fordjour |             75.14 |        3 |             91.39 | Zander Fagerson       |             81 |
-|             50 | Ernst van Rhyn       |             83.32 |        4 |             46.93 | Olujare Oguntibeju    |             35 |
-|             25 | Hyron Andrews        |             32.07 |        5 |             99.57 | Scott Cummings        |             68 |
-|             33 | Jean-Luc du Preez    |             99.91 |        6 |             97    | Matt Fagerson         |             60 |
-|             81 | Tom Curry            |             99.83 |        7 |             92.02 | Rory Darge            |             80 |
-|             22 | Tom Curry            |             99.83 |        7 |             92.02 | Rory Darge            |             80 |
-|             28 | Tom Curry            |             99.83 |        7 |             92.02 | Rory Darge            |             80 |
-|             40 | Tom Curry            |             99.83 |        7 |             92.02 | Rory Darge            |             80 |
-|             57 | Daniel du Preez      |             87.48 |        8 |             97.91 | Henco Venter          |             17 |
-|             24 | Gus Warr             |             74    |        9 |             99.84 | George Horne          |             81 |
-|             17 | Robert du Preez      |             30.88 |       10 |             63.15 | Tom Jordan            |             81 |
-|             26 | Robert du Preez      |             30.88 |       10 |             63.15 | Tom Jordan            |             81 |
-|             24 | Arron Reed           |             97.22 |       11 |             85.41 | Kyle Rowe             |             66 |
-|             63 | Arron Reed           |             97.22 |       11 |             85.41 | Kyle Rowe             |             66 |
-|             81 | Arron Reed           |             97.22 |       11 |             85.41 | Kyle Rowe             |             66 |
-|             52 | Arron Reed           |             97.22 |       11 |             85.41 | Kyle Rowe             |             66 |
-|             57 | Sam Bedlow           |              0.39 |       12 |             88.41 | Sione Tuipulotu       |             81 |
-|             81 | Sam Bedlow           |              0.39 |       12 |             88.41 | Sione Tuipulotu       |             81 |
-|             81 | Luke James           |             73.24 |       13 |             83.09 | Huw Jones             |             81 |
-|             81 | Will Addison         |             76.37 |       14 |             98.15 | Sebastian Cancelliere |             81 |
-|             66 | Joe Carpenter        |              4.2  |       15 |             78.98 | Josh McKay            |             81 |
-|              0 | Joe Carpenter        |              4.2  |       15 |             78.98 | Josh McKay            |             81 |
-|             81 | Joe Carpenter        |              4.2  |       15 |             78.98 | Josh McKay            |             81 |
-|             24 | Joe Carpenter        |              4.2  |       15 |             78.98 | Josh McKay            |             81 |
-|             46 | Harry Thompson       |            nan    |       16 |             69.56 | Johnny Matthews       |             46 |
-|             81 | Simon McIntyre       |             84.91 |       17 |             75.93 | Rory Sutherland       |             80 |
-|             81 | James Harper         |             16.25 |       18 |             60.54 | Sam Talakai           |             80 |
-|             81 | Ben Bamber           |              6.05 |       19 |             73.9  | Alex Samuel           |             80 |
-|             81 | Jonny Hill           |             14.78 |       20 |             40.64 | Angus Fraser          |             80 |
-|             81 | Raffi Quirke         |             76.24 |       21 |            nan    | Jack Mann             |             80 |
-|             81 | Tom Curtis           |            nan    |       22 |             91.43 | Jamie Dobie           |             81 |
-|             67 | Sam Dugdale          |              8.75 |       23 |             82.87 | Duncan Weir           |             81 |
+|             82 | Bevan Rodd           |             89.21 |        1 |             90.98 | Jamie Bhatti          |             27 |
+|             60 | Tadgh McElroy        |             61.33 |        2 |             72.57 | Gregor Hiddleston     |             73 |
+|             64 | Asher Opoku-Fordjour |             83.69 |        3 |             91.93 | Zander Fagerson       |             81 |
+|             82 | Ernst van Rhyn       |             85.01 |        4 |             31.75 | Olujare Oguntibeju    |             81 |
+|             18 | Hyron Andrews        |             18.08 |        5 |             99.56 | Scott Cummings        |             81 |
+|             21 | Jean-Luc du Preez    |             98.72 |        6 |             96.51 | Matt Fagerson         |             67 |
+|             49 | Tom Curry            |            100    |        7 |             93.95 | Rory Darge            |              8 |
+|             21 | Tom Curry            |            100    |        7 |             93.95 | Rory Darge            |              8 |
+|             80 | Tom Curry            |            100    |        7 |             93.95 | Rory Darge            |              8 |
+|             81 | Tom Curry            |            100    |        7 |             93.95 | Rory Darge            |              8 |
+|             81 | Daniel du Preez      |             89.66 |        8 |             98.22 | Henco Venter          |             55 |
+|             22 | Gus Warr             |             70.34 |        9 |             99.84 | George Horne          |             81 |
+|             61 | Robert du Preez      |             51.81 |       10 |             61.45 | Tom Jordan            |             60 |
+|             36 | Arron Reed           |             75.17 |       11 |             89.27 | Kyle Rowe             |             14 |
+|             46 | Arron Reed           |             75.17 |       11 |             89.27 | Kyle Rowe             |             14 |
+|             66 | Arron Reed           |             75.17 |       11 |             89.27 | Kyle Rowe             |             14 |
+|             18 | Arron Reed           |             75.17 |       11 |             89.27 | Kyle Rowe             |             14 |
+|             61 | Sam Bedlow           |              0.97 |       12 |             90.96 | Sione Tuipulotu       |             81 |
+|             81 | Sam Bedlow           |              0.97 |       12 |             90.96 | Sione Tuipulotu       |             81 |
+|             52 | Sam Bedlow           |              0.97 |       12 |             90.96 | Sione Tuipulotu       |             81 |
+|             50 | Luke James           |             72.3  |       13 |             81.73 | Huw Jones             |             63 |
+|             23 | Will Addison         |             82.91 |       14 |             98.62 | Sebastian Cancelliere |             22 |
+|              0 | Joe Carpenter        |             97.58 |       15 |             81.19 | Josh McKay            |             24 |
+|             81 | Joe Carpenter        |             97.58 |       15 |             81.19 | Josh McKay            |             24 |
+|             67 | Joe Carpenter        |             97.58 |       15 |             81.19 | Josh McKay            |             24 |
+|             60 | Harry Thompson       |            nan    |       16 |             73.5  | Johnny Matthews       |             27 |
+|             60 | Simon McIntyre       |             86.3  |       17 |             74.91 | Rory Sutherland       |             52 |
+|             82 | James Harper         |             20.82 |       18 |             64.18 | Sam Talakai           |             40 |
+|             60 | Ben Bamber           |              5.2  |       19 |             78.92 | Alex Samuel           |             52 |
+|             35 | Jonny Hill           |             13.76 |       20 |             41.6  | Angus Fraser          |             10 |
+|             82 | Raffi Quirke         |             75.69 |       21 |            nan    | Jack Mann             |             20 |
+|             22 | Tom Curtis           |            nan    |       22 |             93.84 | Jamie Dobie           |             81 |
+|             14 | Sam Dugdale          |              8.6  |       23 |             82.93 | Duncan Weir           |             28 |
 

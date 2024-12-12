@@ -11,7 +11,7 @@ categories: "Pro D2 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.535, which translates to predicting Colomiers to win by 1.2.
 
-Our Over/Under is 37.5 - and combined with the spread above, we have a predicted scoreline of 18 to 19
+Our Over/Under is 40.5 - and combined with the spread above, we have a predicted scoreline of 20 to 21
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Colomiers by 5.7
+## Prediction without Player Minutes: Colomiers by 6.2
 
 
-Provence Rugby by 6.8 on a neutral pitch
+Provence Rugby by 6.4 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Provence Rugby by 6.8 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player               |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:--------------------------|---------------:|
-|             81 | Thomas Vernet         |             77.34 |        1 |             75.08 | Guillaume Tartas          |             59 |
-|             84 | Thomas Sauveterre     |             74.28 |        2 |             23.74 | Thomas Larrieu            |             21 |
-|              6 | Paul Mallez           |             76.54 |        3 |             71.41 | Michael Simutoga          |             51 |
-|             30 | Jérôme Dufour         |             84.27 |        4 |             21.09 | Jean Thomas               |             80 |
-|             55 | Izack Rodda           |             83.23 |        5 |             26.71 | Maxime Granouillet        |             81 |
-|             25 | Teimana Harrison      |             69.73 |        6 |             23.24 | Anthony Coletta           |             51 |
-|             30 | Charly Gambini        |             81.65 |        7 |             69.04 | Aldric Lescure            |             46 |
-|             40 | Tornike Jalagonia     |             20.87 |        8 |             15.65 | Caleb Timu                |             80 |
-|             81 | Joris Cazenave        |             72.87 |        9 |             23.76 | Ugo Seguela               |             52 |
-|              0 | Jimmy Gopperth        |             89.44 |       10 |             15.34 | Joaquin de la Vega Mendia |             50 |
-|             19 | Mathias Colombet      |             58.46 |       11 |             20.85 | Anzelo Tuitavuki          |             50 |
-|              9 | Atila Septar          |             70.34 |       12 |             60.48 | Ray Nu'u                  |             80 |
-|             80 | Eto Bainivalu         |             46.96 |       13 |              9.95 | Martin Dulon              |             29 |
-|             50 | Adrien Lapegue-Lafaye |             21.85 |       14 |             14.9  | Martin Alonso Munoz       |             50 |
-|             80 | Thomas Salles         |             81.54 |       15 |             29.62 | Ugo Pacome                |             34 |
-|             80 | Joseph Laget          |             35.31 |       16 |             22.61 | Jeremy Bechu              |              0 |
-|             29 | Jules Plisson         |             34.46 |       17 |             30.36 | Marco Fepulea'i           |             81 |
-|             81 | Julius Nostadt        |             65.67 |       18 |             49.32 | Pablo Dimcheff            |             19 |
-|             74 | Léo Drouet            |             68.65 |       19 |             39.16 | Elias El Ansari           |             29 |
-|             80 | Arthur Coville        |             13.96 |       20 |             67.24 | Janse Roux                |             14 |
-|             80 | Josh Tyrell           |             69.84 |       21 |             80.23 | Vincent Pinto             |             66 |
-|             80 | Andres Zafra Tarazona |              3.89 |       22 |             43.4  | Gregoire Bazin            |             81 |
-|             80 | Enrique Pieretto      |             40.62 |       23 |            nan    | Arthur Diaz               |             81 |
+|             80 | Thomas Vernet         |             78.65 |        1 |             77.64 | Guillaume Tartas          |             52 |
+|             80 | Thomas Sauveterre     |             71.65 |        2 |             20.49 | Thomas Larrieu            |             62 |
+|             14 | Paul Mallez           |             78.23 |        3 |             72.42 | Michael Simutoga          |             81 |
+|             30 | Jérôme Dufour         |             83.6  |        4 |             23.28 | Jean Thomas               |             37 |
+|             40 | Izack Rodda           |             79.28 |        5 |             27.6  | Maxime Granouillet        |             81 |
+|             21 | Teimana Harrison      |             66.27 |        6 |             22.23 | Anthony Coletta           |             81 |
+|             80 | Charly Gambini        |             83.13 |        7 |             72.06 | Aldric Lescure            |             20 |
+|             80 | Tornike Jalagonia     |             20.68 |        8 |             17.29 | Caleb Timu                |             34 |
+|             74 | Joris Cazenave        |             70.99 |        9 |             21.23 | Ugo Seguela               |             51 |
+|             29 | Jimmy Gopperth        |             89.16 |       10 |             15.66 | Joaquin de la Vega Mendia |             57 |
+|             29 | Mathias Colombet      |             55.94 |       11 |             19.77 | Anzelo Tuitavuki          |             72 |
+|             50 | Atila Septar          |             72.11 |       12 |             64.33 | Ray Nu'u                  |             40 |
+|             80 | Eto Bainivalu         |             42.66 |       13 |              8.65 | Martin Dulon              |             60 |
+|             80 | Adrien Lapegue-Lafaye |             21.46 |       14 |             14.71 | Martin Alonso Munoz       |             66 |
+|             59 | Thomas Salles         |             76.91 |       15 |             23.28 | Ugo Pacome                |             80 |
+|             80 | Joseph Laget          |             34.36 |       16 |             21.21 | Jeremy Bechu              |             80 |
+|             50 | Jules Plisson         |             29.92 |       17 |             34.46 | Marco Fepulea'i           |             55 |
+|             80 | Julius Nostadt        |             67.79 |       18 |             49.61 | Pablo Dimcheff            |             46 |
+|             50 | Léo Drouet            |             67.66 |       19 |             46.03 | Elias El Ansari           |             50 |
+|             29 | Arthur Coville        |             12.16 |       20 |             66.14 | Janse Roux                |             51 |
+|             25 | Josh Tyrell           |             68.61 |       21 |             79.92 | Vincent Pinto             |             12 |
+|             80 | Andres Zafra Tarazona |              2.56 |       22 |             43.44 | Gregoire Bazin            |             28 |
+|             81 | Enrique Pieretto      |             44.19 |       23 |            nan    | Arthur Diaz               |             50 |
 

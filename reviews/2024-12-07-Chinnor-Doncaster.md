@@ -11,7 +11,7 @@ categories: "RFU Championship 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.527, which translates to predicting Chinnor to win by 1.0.
 
-Our Over/Under is 60.5 - and combined with the spread above, we have a predicted scoreline of 30 to 31
+Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 23 to 24
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Chinnor by 2.8
+## Prediction without Player Minutes: Chinnor by 2.6
 
 
-Chinnor by 0.6 on a neutral pitch
+Chinnor by 0.4 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,21 +69,21 @@ Chinnor by 0.6 on a neutral pitch
 
 |   Away Minutes | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             53 | Andrew Turner     |             48.75 |        1 |             33.11 | Keston Lines          |             17 |
-|             80 | George Roberts    |             16.59 |        2 |             95.59 | Alun Walker           |             27 |
-|             80 | Joe Jones         |             55.77 |        3 |             48.26 | Rob Hardwick          |             80 |
-|             80 | Ben Murphy        |              8.21 |        4 |             13.92 | Scott Hall            |             34 |
-|             14 | Josh Williams     |             78.39 |        5 |             40.62 | Alfie North           |             80 |
-|             29 | Thom Smith        |              7.55 |        6 |             63.04 | Harry Dugmore         |             80 |
-|             80 | Rhys Tait         |             41.6  |        7 |             46.74 | George Richard Stokes |             80 |
-|             29 | Morgan Strong     |             81.57 |        8 |             72.7  | Willie Ryan           |             80 |
-|             80 | Alex Dolly        |             70.95 |        9 |             89.57 | Luke Carter           |             80 |
-|             27 | Russell Bennett   |             90.64 |       10 |             75.1  | George Worboys        |             35 |
-|             73 | Jordan Olowofela  |             32.51 |       11 |             47.26 | Kieran Goss           |             80 |
-|             67 | Connor Edwards    |              6.18 |       12 |             31.4  | Epi Rokodrava         |             80 |
-|             27 | Zach Kerr         |             28.5  |       13 |             32.85 | Grant Hughes          |             66 |
-|              8 | Semesa Rokoduguni |             89.03 |       14 |             39.31 | Ryan Crowley          |             63 |
-|             27 | Telusa Veainu     |             99.09 |       15 |             28.7  | William Feeney        |             80 |
-|             27 | Archie Smeaton    |             24.87 |       16 |             45.89 | Charlie Irvine        |             80 |
-|            nan | nan               |            nan    |       17 |            nan    | Will Cave             |              5 |
+|             27 | Andrew Turner     |             41.99 |        1 |             40.21 | Keston Lines          |             29 |
+|             75 | George Roberts    |             13.1  |        2 |             95.53 | Alun Walker           |             10 |
+|             14 | Joe Jones         |             32.74 |        3 |             57.65 | Rob Hardwick          |             18 |
+|             80 | Ben Murphy        |              6.26 |        4 |             16.05 | Scott Hall            |             81 |
+|             80 | Josh Williams     |             81.83 |        5 |             48.24 | Alfie North           |             35 |
+|             25 | Thom Smith        |              7.58 |        6 |             71.64 | Harry Dugmore         |             82 |
+|             80 | Rhys Tait         |             59.2  |        7 |             55.28 | George Richard Stokes |             31 |
+|             80 | Morgan Strong     |             79.32 |        8 |             77.01 | Willie Ryan           |             17 |
+|             80 | Alex Dolly        |             76.5  |        9 |             90.92 | Luke Carter           |             80 |
+|             75 | Russell Bennett   |             90.76 |       10 |             76.71 | George Worboys        |             15 |
+|             10 | Jordan Olowofela  |             21.61 |       11 |             55.4  | Kieran Goss           |             70 |
+|             80 | Connor Edwards    |              6.51 |       12 |             34.31 | Epi Rokodrava         |             10 |
+|             80 | Zach Kerr         |             22.84 |       13 |             45.38 | Grant Hughes          |             80 |
+|             80 | Semesa Rokoduguni |             91.26 |       14 |             42.76 | Ryan Crowley          |             18 |
+|             20 | Telusa Veainu     |             98.14 |       15 |             37.62 | William Feeney        |             80 |
+|             80 | Archie Smeaton    |             25.04 |       16 |             44.53 | Charlie Irvine        |             17 |
+|            nan | nan               |            nan    |       17 |            nan    | Will Cave             |             80 |
 

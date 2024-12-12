@@ -11,7 +11,7 @@ categories: "RFU Championship 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.356, which translates to predicting Nottingham to win by 5.3.
 
-Our Over/Under is 62.5 - and combined with the spread above, we have a predicted scoreline of 34 to 29
+Our Over/Under is 54.5 - and combined with the spread above, we have a predicted scoreline of 30 to 24
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Nottingham by 6.4
+## Prediction without Player Minutes: Nottingham by 7.2
 
 
-Nottingham by 8.8 on a neutral pitch
+Nottingham by 9.7 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,26 +69,26 @@ Nottingham by 8.8 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             66 | Kai Owen             |             62.49 |        1 |             33.66 | Sebastian Brownhill  |             63 |
-|             18 | Jack Dickinson       |             62.86 |        2 |             11.11 | Benjamin Brownlie    |             80 |
-|             80 | Ale Loman            |             86.01 |        3 |             12.83 | Billy Walker         |             25 |
-|             80 | Jack Shine           |             76.32 |        4 |             17.55 | George Bretag-Norris |             14 |
-|             80 | Sebastien Ferreira   |              7.09 |        5 |             24.37 | Iestyn Rees          |             32 |
-|             32 | Sam Green            |             29.5  |        6 |             41.94 | Kayde Sylvester      |             48 |
-|             23 | Jacob Wright         |             37.56 |        7 |             10.21 | Ben Adams            |             18 |
-|             23 | James Cherry         |             77.39 |        8 |             21.22 | Jack Bartlett        |             60 |
-|             80 | Will Yarnell         |             69.98 |        9 |             69.82 | Ruaridh Dawson       |             12 |
-|             32 | Gwyn Parks           |             14.14 |       10 |             11.95 | Louis Grimoldby      |             55 |
-|             57 | Harry Graham         |             80.15 |       11 |             35.91 | William Glister      |             40 |
-|             20 | Kegan Christian-Goss |             70.14 |       12 |             11.98 | Matthew Hema         |             16 |
-|             80 | Jack Stapley         |              2.51 |       13 |              1.16 | Sam Hanks            |             48 |
-|             68 | David Williams       |             56.06 |       14 |             25.95 | Josef Green          |             80 |
-|             80 | Ryan Olowofela       |             77.15 |       15 |              6.03 | Elias Caven          |             55 |
-|             80 | Harry Clayton        |             85.39 |       16 |            nan    | Ollie Scola          |             80 |
-|             64 | Dan Richardson       |             76.6  |       17 |              7.76 | Morgan Veness        |             80 |
-|             80 | Lewis Chessum        |            nan    |       18 |              9.35 | Jared Cardew         |             14 |
-|             64 | Charlie Bemand       |            nan    |       19 |             34.96 | Archie Benson        |             80 |
-|             80 | Jai Johal            |             61.55 |       20 |            nan    | Jimmy Thompson       |             66 |
-|            nan | nan                  |            nan    |       21 |             20.66 | Joseph Tarrant       |             80 |
-|            nan | nan                  |            nan    |       22 |             17.68 | Josh Skelcey         |             75 |
+|             16 | Kai Owen             |             42.41 |        1 |             31.49 | Sebastian Brownhill  |             80 |
+|             16 | Jack Dickinson       |             67.8  |        2 |             10.17 | Benjamin Brownlie    |             80 |
+|             32 | Ale Loman            |             84.76 |        3 |             16.9  | Billy Walker         |             80 |
+|             80 | Jack Shine           |             75.31 |        4 |             12.7  | George Bretag-Norris |             80 |
+|             80 | Sebastien Ferreira   |              8.55 |        5 |             19.66 | Iestyn Rees          |             80 |
+|             60 | Sam Green            |             31.77 |        6 |             33.56 | Kayde Sylvester      |             71 |
+|             80 | Jacob Wright         |             54.09 |        7 |              8.69 | Ben Adams            |             80 |
+|             64 | James Cherry         |             83.07 |        8 |             16.58 | Jack Bartlett        |             70 |
+|             80 | Will Yarnell         |             63.53 |        9 |             64.18 | Ruaridh Dawson       |             10 |
+|             48 | Gwyn Parks           |             12.85 |       10 |             13.65 | Louis Grimoldby      |              9 |
+|             80 | Harry Graham         |             79.62 |       11 |             35.4  | William Glister      |             14 |
+|             80 | Kegan Christian-Goss |             71.82 |       12 |             11.56 | Matthew Hema         |             80 |
+|             66 | Jack Stapley         |              2.14 |       13 |              1.55 | Sam Hanks            |             55 |
+|             29 | David Williams       |             50.65 |       14 |             22.99 | Josef Green          |             55 |
+|             14 | Ryan Olowofela       |             68.34 |       15 |              2.98 | Elias Caven          |             80 |
+|             80 | Harry Clayton        |             85.52 |       16 |            nan    | Ollie Scola          |             80 |
+|             80 | Dan Richardson       |             80.55 |       17 |              7.4  | Morgan Veness        |             48 |
+|             68 | Lewis Chessum        |            nan    |       18 |              8.77 | Jared Cardew         |             20 |
+|             58 | Charlie Bemand       |            nan    |       19 |             34.4  | Archie Benson        |             78 |
+|             80 | Jai Johal            |             60.44 |       20 |            nan    | Jimmy Thompson       |             75 |
+|            nan | nan                  |            nan    |       21 |             13.04 | Joseph Tarrant       |             12 |
+|            nan | nan                  |            nan    |       22 |             17.55 | Josh Skelcey         |             40 |
 

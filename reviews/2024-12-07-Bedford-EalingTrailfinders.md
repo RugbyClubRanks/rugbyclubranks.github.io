@@ -11,7 +11,7 @@ categories: "RFU Championship 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.284, which translates to predicting Ealing Trailfinders to win by 8.3.
 
-Our Over/Under is 59.5 - and combined with the spread above, we have a predicted scoreline of 34 to 26
+Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 30 to 22
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Ealing Trailfinders by 12.6 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player             |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:------------------------|---------------:|
-|             80 | Lefty Zigiriadis     |             84.36 |        1 |             67.44 | Joey Conway             |             80 |
-|             63 | Matthew Cornish      |             79.76 |        2 |             35.77 | Johnny Stewart          |             80 |
-|             22 | George Davis         |             73.92 |        3 |             78.92 | Oisin Heffernan         |             80 |
-|             80 | David Douglas Bridge |             21.69 |        4 |             69.66 | Ed Prowse               |             80 |
-|             55 | Daniel Cutmore       |             91.7  |        5 |             60.67 | Rory Ward               |             80 |
-|             14 | Rob Farrar           |             84.56 |        6 |             11.66 | Luke Frost              |             17 |
-|             80 | Jordy Reid           |             75.04 |        7 |             18.87 | Joe Howard              |             80 |
-|             63 | Ryan Smid            |             98.61 |        8 |             10.09 | Freddie Tuilagi         |             75 |
-|             80 | Craig Hampson        |             84.43 |        9 |             90.85 | Alex Day                |             80 |
-|             66 | Dan Jones            |             73.9  |       10 |             87.65 | William Maisey          |             20 |
-|             65 | Tom Collins          |             97.84 |       11 |             68.11 | Alfie Garside           |             33 |
-|             45 | Jordan Holgate       |             84.25 |       12 |             77    | Michael Le Bourgeois    |             10 |
-|             80 | Reuben Bird-Tulloch  |             78.36 |       13 |             49.37 | Lucas Titherington      |             10 |
-|             80 | Angus Kernohan       |             90.89 |       14 |             75.6  | Matt Worley             |             18 |
-|             80 | Tobi Wilson          |             78.79 |       15 |             40.4  | Louis James             |             10 |
-|              5 | Kyle John Whyte      |             73.49 |       16 |             34.27 | Jamie Jack              |             80 |
-|             14 | Matas Jurevicius     |             26.19 |       17 |             66.82 | Tommy Herman            |             80 |
-|             51 | Sean Lonsdale        |             36.82 |       18 |             60.48 | Beltus Nonleh           |             33 |
-|             51 | Lloyd Williams       |             89.25 |       19 |             26.88 | George Smith            |             70 |
-|            nan | nan                  |            nan    |       20 |             75.81 | Jac Arthur              |             31 |
-|            nan | nan                  |            nan    |       21 |            nan    | Jonny Weimann           |             60 |
-|            nan | nan                  |            nan    |       22 |             12.27 | Josh Matavesi           |             80 |
-|            nan | nan                  |            nan    |       23 |             77.69 | George Makepeace-Cubitt |             82 |
+|             14 | Lefty Zigiriadis     |             85.11 |        1 |             69.75 | Joey Conway             |             80 |
+|             22 | Matthew Cornish      |             75.96 |        2 |             36.21 | Johnny Stewart          |             22 |
+|             22 | George Davis         |             76.22 |        3 |             83.27 | Oisin Heffernan         |             53 |
+|             28 | David Douglas Bridge |             23.46 |        4 |             68.87 | Ed Prowse               |             11 |
+|             51 | Daniel Cutmore       |             91.18 |        5 |             37.92 | Rory Ward               |             80 |
+|             81 | Rob Farrar           |             85.6  |        6 |             11.41 | Luke Frost              |             80 |
+|             80 | Jordy Reid           |             74.36 |        7 |             14.4  | Joe Howard              |             68 |
+|             15 | Ryan Smid            |             98.57 |        8 |              9.98 | Freddie Tuilagi         |             80 |
+|             58 | Craig Hampson        |             83.63 |        9 |             91.73 | Alex Day                |             15 |
+|             80 | Dan Jones            |             77.51 |       10 |             87.15 | William Maisey          |             31 |
+|             65 | Tom Collins          |             97.85 |       11 |             54.41 | Alfie Garside           |             62 |
+|             80 | Jordan Holgate       |             82.6  |       12 |             70.75 | Michael Le Bourgeois    |             65 |
+|             14 | Reuben Bird-Tulloch  |             76.58 |       13 |             59.18 | Lucas Titherington      |             51 |
+|              5 | Angus Kernohan       |             89.96 |       14 |             80.54 | Matt Worley             |             60 |
+|             80 | Tobi Wilson          |             78.21 |       15 |             34.45 | Louis James             |             31 |
+|             80 | Kyle John Whyte      |             75.56 |       16 |             37.07 | Jamie Jack              |             80 |
+|             15 | Matas Jurevicius     |             23.9  |       17 |             63.48 | Tommy Herman            |             22 |
+|             80 | Sean Lonsdale        |             36.42 |       18 |             57.41 | Beltus Nonleh           |             46 |
+|             81 | Lloyd Williams       |             88.98 |       19 |             25.31 | George Smith            |             80 |
+|            nan | nan                  |            nan    |       20 |             75.72 | Jac Arthur              |             80 |
+|            nan | nan                  |            nan    |       21 |            nan    | Jonny Weimann           |             80 |
+|            nan | nan                  |            nan    |       22 |             10.01 | Josh Matavesi           |             66 |
+|            nan | nan                  |            nan    |       23 |             74.5  | George Makepeace-Cubitt |             80 |
 

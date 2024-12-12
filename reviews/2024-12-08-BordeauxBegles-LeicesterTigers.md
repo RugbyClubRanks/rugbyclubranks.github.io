@@ -11,7 +11,7 @@ categories: "European Rugby Champions Cup 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.675, which translates to predicting Bordeaux Begles to win by 6.4.
 
-Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 23 to 29
+Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 22 to 28
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Bordeaux Begles by 24.9
+## Prediction without Player Minutes: Bordeaux Begles by 26.2
 
 
-Bordeaux Begles by 12.9 on a neutral pitch
+Bordeaux Begles by 14.1 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Bordeaux Begles by 12.9 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player               |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:--------------------------|---------------:|
-|             51 | James Cronin          |             75.2  |        1 |             69.82 | Jefferson Poirot          |              9 |
-|             14 | Charlie Clare         |             19.03 |        2 |             36.38 | Maxime Lamothe            |             21 |
-|             84 | Joe Heyes             |             83.81 |        3 |             86.19 | Ben Tameifuna             |             21 |
-|             51 | Harry Wells           |             87.9  |        4 |             92.57 | Guido Petti               |             81 |
-|             84 | Come Joussain         |             46.07 |        5 |             94.81 | Jonny Gray                |             18 |
-|             84 | Hanro Liebenberg      |             70.24 |        6 |             73.07 | Mahamadou Diaby           |             81 |
-|             21 | Emeka Ilione          |             57.38 |        7 |             79.42 | Bastien Vergnes Taillefer |             81 |
-|             24 | Olly Cracknell        |             20.17 |        8 |             83.83 | Pete Samu                 |             46 |
-|             84 | Jack van Poortvliet   |             75.6  |        9 |             98.23 | Maxime Lucu               |             72 |
-|             84 | Jamie Shillcock       |             57.77 |       10 |             95.82 | Matthieu Jalibert         |             81 |
-|             43 | Ollie Hassell-Collins |             64.63 |       11 |             93.44 | Arthur Retiere            |             81 |
-|             84 | Solomone Kata         |             48.7  |       12 |             86.67 | Yoram Moefana             |              0 |
-|             75 | Izaia Perese          |             20.87 |       13 |             77.2  | Nicolas Depoortere        |              9 |
-|             41 | Josh Bassett          |             83.4  |       14 |             93.75 | Damian Penaud             |             84 |
-|             81 | Freddie Steward       |             11.15 |       15 |             60.69 | Louis Bielle-Biarrey      |             81 |
-|             14 | Finn Theobald-Thomas  |            nan    |       16 |             32.88 | Connor Sa                 |             17 |
-|             81 | James Whitcombe       |             66.04 |       17 |             80.64 | Ugo Boniface              |             63 |
-|             16 | Will Hurd             |             70.37 |       18 |             69.46 | Carlu Sadie               |             46 |
-|             16 | Jed Holloway          |             18.32 |       19 |             98.01 | Adam Coleman              |             64 |
-|             24 | Kyle Hatherell        |              0.87 |       20 |             10.81 | Lachlan Swinton           |             55 |
-|             21 | Tom Whiteley          |             70.63 |       21 |             84    | Tevita Tatafu             |             64 |
-|             84 | Joseph Woodward       |             61.35 |       22 |             44.93 | Ben Tapuai                |             65 |
-|             81 | Mike Brown            |             91.22 |       23 |             66.91 | Joey Carbery              |             81 |
+|             57 | James Cronin          |             73.84 |        1 |             76.69 | Jefferson Poirot          |              9 |
+|             21 | Charlie Clare         |             18.49 |        2 |             50.23 | Maxime Lamothe            |             33 |
+|              0 | Joe Heyes             |             83.45 |        3 |             88.73 | Ben Tameifuna             |             28 |
+|             84 | Harry Wells           |             88.36 |        4 |             91.27 | Guido Petti               |             66 |
+|             14 | Come Joussain         |             41.09 |        5 |             94.71 | Jonny Gray                |             21 |
+|             66 | Hanro Liebenberg      |             74.96 |        6 |             68.91 | Mahamadou Diaby           |             63 |
+|             21 | Emeka Ilione          |             53.15 |        7 |             76.24 | Bastien Vergnes Taillefer |             81 |
+|             84 | Olly Cracknell        |             25.85 |        8 |             81.64 | Pete Samu                 |             72 |
+|             84 | Jack van Poortvliet   |             39.06 |        9 |             98.54 | Maxime Lucu               |             81 |
+|             51 | Jamie Shillcock       |             66.47 |       10 |             96.59 | Matthieu Jalibert         |             29 |
+|             84 | Ollie Hassell-Collins |             59.62 |       11 |             95.1  | Arthur Retiere            |             81 |
+|             84 | Solomone Kata         |             24.2  |       12 |             86.39 | Yoram Moefana             |             29 |
+|             84 | Izaia Perese          |             21.09 |       13 |             79.69 | Nicolas Depoortere        |             52 |
+|             75 | Josh Bassett          |             83.83 |       14 |             94.02 | Damian Penaud             |             67 |
+|             72 | Freddie Steward       |              3.91 |       15 |             60.71 | Louis Bielle-Biarrey      |             81 |
+|             51 | Finn Theobald-Thomas  |            nan    |       16 |             31.43 | Connor Sa                 |             81 |
+|             18 | James Whitcombe       |             68.45 |       17 |             81.97 | Ugo Boniface              |             81 |
+|             43 | Will Hurd             |             72.3  |       18 |             69.81 | Carlu Sadie               |             81 |
+|              9 | Jed Holloway          |             18.25 |       19 |             97.97 | Adam Coleman              |             57 |
+|             52 | Kyle Hatherell        |              1.25 |       20 |             10.56 | Lachlan Swinton           |             81 |
+|             61 | Tom Whiteley          |             71.15 |       21 |             85.35 | Tevita Tatafu             |             29 |
+|             63 | Joseph Woodward       |             61.42 |       22 |             43.34 | Ben Tapuai                |             81 |
+|             65 | Mike Brown            |             88.64 |       23 |             72.07 | Joey Carbery              |             59 |
 

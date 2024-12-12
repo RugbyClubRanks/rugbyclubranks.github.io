@@ -36,9 +36,9 @@ Last Round Accuracy: 6 of 6 (100.0%)
 
 Last Round Error: 13.84 points per match
 
-[2024-12-07 Cisneros at Alcobendas; 12-19](reviews//2024-12-07-Alcobendas-Cisneros)
-
 [2024-12-07 El Salvador at CRC Pozuelo Rugby; 36-18](reviews//2024-12-07-CRCPozueloRugby-ElSalvador)
+
+[2024-12-07 Cisneros at Alcobendas; 12-19](reviews//2024-12-07-Alcobendas-Cisneros)
 
 [2024-12-08 Aparejadores Burgos at C.R. La Vila; 19-15](reviews//2024-12-08-C.R.LaVila-AparejadoresBurgos)
 
@@ -94,9 +94,9 @@ Last Round Error: 16.33 points per match
 
 [2024-12-07 Bulls at Saracens; 5-27](reviews//2024-12-07-Saracens-Bulls)
 
-[2024-12-07 Sale Sharks at Glasgow Warriors; 19-38](reviews//2024-12-07-GlasgowWarriors-SaleSharks)
-
 [2024-12-07 Castres Olympique at Northampton Saints; 8-38](reviews//2024-12-07-NorthamptonSaints-CastresOlympique)
+
+[2024-12-07 Sale Sharks at Glasgow Warriors; 19-38](reviews//2024-12-07-GlasgowWarriors-SaleSharks)
 
 [2024-12-07 Stade Francais Paris at Munster; 7-33](reviews//2024-12-07-Munster-StadeFrancaisParis)
 
@@ -108,11 +108,11 @@ Last Round Error: 16.33 points per match
 
 [2024-12-07 Harlequins at Racing 92; 12-23](reviews//2024-12-07-Racing92-Harlequins)
 
+[2024-12-08 Leicester Tigers at Bordeaux Begles; 28-42](reviews//2024-12-08-BordeauxBegles-LeicesterTigers)
+
 [2024-12-08 Leinster at Bristol Rugby; 35-12](reviews//2024-12-08-BristolRugby-Leinster)
 
 [2024-12-08 Ulster at Stade Toulousain; 21-61](reviews//2024-12-08-StadeToulousain-Ulster)
-
-[2024-12-08 Leicester Tigers at Bordeaux Begles; 28-42](reviews//2024-12-08-BordeauxBegles-LeicesterTigers)
 ## RFU Championship
 
 
@@ -128,9 +128,9 @@ Last Round Error: 10.08 points per match
 
 [2024-12-07 Ealing Trailfinders at Bedford; 25-17](reviews//2024-12-07-Bedford-EalingTrailfinders)
 
-[2024-12-07 Ampthill at London Scottish; 15-14](reviews//2024-12-07-LondonScottish-Ampthill)
-
 [2024-12-07 Nottingham at Cambridge; 43-10](reviews//2024-12-07-Cambridge-Nottingham)
+
+[2024-12-07 Ampthill at London Scottish; 15-14](reviews//2024-12-07-LondonScottish-Ampthill)
 
 [2024-12-07 Cornish Pirates at Caldy; 22-3](reviews//2024-12-07-Caldy-CornishPirates)
 
@@ -150,7 +150,7 @@ Competition Error: 10.2 points per match
 
 Last Round Accuracy: 3 of 7 (42.86%)
 
-Last Round Error: 12.86 points per match
+Last Round Error: 12.87 points per match
 
 [2024-12-06 Massy at Tarbes; 27-22](reviews//2024-12-06-Tarbes-Massy)
 
@@ -158,9 +158,9 @@ Last Round Error: 12.86 points per match
 
 [2024-12-07 Carcassonne at Suresnes; 24-9](reviews//2024-12-07-Suresnes-Carcassonne)
 
-[2024-12-07 Bourgoin-Jallieu at Carqueiranne-Hyeres; 25-0](reviews//2024-12-07-Carqueiranne-Hyeres-Bourgoin-Jallieu)
-
 [2024-12-07 Perigueux at Rouen; 19-9](reviews//2024-12-07-Rouen-Perigueux)
+
+[2024-12-07 Bourgoin-Jallieu at Carqueiranne-Hyeres; 25-0](reviews//2024-12-07-Carqueiranne-Hyeres-Bourgoin-Jallieu)
 
 [2024-12-07 Marcq-en-Baroeul at Chambery; 6-21](reviews//2024-12-07-Chambery-Marcq-en-Baroeul)
 
@@ -180,13 +180,13 @@ Last Round Error: 4.83 points per match
 
 [2024-12-05 Provence Rugby at Colomiers; 30-31](reviews//2024-12-05-Colomiers-ProvenceRugby)
 
-[2024-12-06 Biarritz Olympique at Dax; 20-26](reviews//2024-12-06-Dax-BiarritzOlympique)
-
 [2024-12-06 Soyaux-Angouleme at Montauban; 27-20](reviews//2024-12-06-Montauban-Soyaux-Angouleme)
+
+[2024-12-06 Grenoble at Mont-de-Marsan; 26-30](reviews//2024-12-06-Mont-de-Marsan-Grenoble)
 
 [2024-12-06 Valence Romans Drome Rugby at Aurillac; 13-18](reviews//2024-12-06-Aurillac-ValenceRomansDromeRugby)
 
-[2024-12-06 Grenoble at Mont-de-Marsan; 26-30](reviews//2024-12-06-Mont-de-Marsan-Grenoble)
+[2024-12-06 Biarritz Olympique at Dax; 20-26](reviews//2024-12-06-Dax-BiarritzOlympique)
 
 [2024-12-06 Beziers at Brive; 10-15](reviews//2024-12-06-Brive-Beziers)
 
