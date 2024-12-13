@@ -11,7 +11,7 @@ categories: "European Rugby Champions Cup 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.547, which translates to predicting Saracens to win by 1.6.
 
-Our Over/Under is 44.5 - and combined with the spread above, we have a predicted scoreline of 21 to 23
+Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 23 to 25
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Saracens by 6.5
+## Prediction without Player Minutes: Saracens by 8.6
 
 
-Bulls by 4.7 on a neutral pitch
+Bulls by 2.6 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,29 @@ Bulls by 4.7 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             13 | Gerhard Steenekamp  |             89.15 |        1 |             29.36 | Rhys Carré           |             63 |
-|             30 | Johan Grobbelaar    |             91.68 |        2 |             97.23 | Jamie George         |             80 |
-|             18 | Francois Klopper    |             60.62 |        3 |             82.68 | Marco Riccioni       |             80 |
-|             62 | Ruan Vermaak        |             11.64 |        4 |             99.21 | Maro Itoje           |             80 |
-|             80 | JF van Heerden      |             29.63 |        5 |             95.68 | Nick Isiekwe         |             80 |
-|             80 | Marco van Staden    |             94.63 |        6 |             37.31 | Theo McFarland       |             80 |
-|             80 | Cobus Wiese         |             95.74 |        7 |             95.83 | Juan Martin Gonzalez |             65 |
-|             80 | Cameron Hanekom     |             76.29 |        8 |             68.98 | Tom Willis           |             80 |
-|             80 | Embrose Papier      |             93.52 |        9 |             89.79 | Ivan van Zyl         |             80 |
-|             80 | Johan Goosen        |             68.88 |       10 |             73.9  | Fergus Burke         |             80 |
-|             80 | Devon Williams      |             90.42 |       11 |             74.33 | Rotimi Segun         |             80 |
-|             67 | David Kriel         |             93.49 |       12 |             98.83 | Nick Tompkins        |             80 |
-|             33 | Canan Moodie        |             99.03 |       13 |             80.08 | Lucio Cinti          |             80 |
-|             80 | Sebastian de Klerk  |             93.95 |       14 |             72.41 | Tobias Elliott       |             27 |
-|             59 | Willie le Roux      |             98.32 |       15 |             89.76 | Elliot Daly          |             74 |
-|             80 | Alulutho Tshakweni  |             76.99 |       16 |             89.86 | Eroni Mawi           |             80 |
-|             22 | Akker van der Merwe |             96.3  |       17 |             86.13 | Theo Dan             |             53 |
-|             80 | Mornay Smith        |             81.32 |       18 |             77.88 | Alec Clarey          |             18 |
-|             80 | Harold Vorster      |             94.66 |       19 |             22.13 | Harry Wilson         |             80 |
-|             80 | Jannes Kirsten      |             94.04 |       20 |             99.64 | Ben Earl             |             80 |
-|             74 | Keagan Johannes     |             56.02 |       21 |             27.23 | Gareth Simpson       |             25 |
-|             62 | Aphiwe Dyantyi      |             26.59 |       22 |              9.44 | Tiff Eden            |             21 |
-|             80 | Marcell Coetzee     |             96.08 |       23 |             84.92 | Tom Parton           |             30 |
+|             13 | Gerhard Steenekamp  |             86.33 |        1 |             47.15 | Rhys Carre           |              0 |
+|             81 | Johan Grobbelaar    |             91.86 |        2 |             97.39 | Jamie George         |              0 |
+|             15 | Francois Klopper    |             61.24 |        3 |             76.87 | Marco Riccioni       |             81 |
+|              7 | Ruan Vermaak        |             13.81 |        4 |             99.04 | Maro Itoje           |             81 |
+|             81 | JF van Heerden      |             32.58 |        5 |             95.83 | Nick Isiekwe         |             46 |
+|             70 | Marco van Staden    |             96.41 |        6 |             32.48 | Theo McFarland       |             27 |
+|             64 | Cobus Wiese         |             96.67 |        7 |             95.3  | Juan Martin Gonzalez |             80 |
+|             63 | Cameron Hanekom     |             78.27 |        8 |             54.88 | Tom Willis           |             48 |
+|             18 | Embrose Papier      |             94.23 |        9 |             87.34 | Ivan van Zyl         |             35 |
+|             22 | Johan Goosen        |             70.94 |       10 |             62.73 | Fergus Burke         |             52 |
+|             25 | Devon Williams      |             91.47 |       11 |             71.32 | Rotimi Segun         |             14 |
+|             30 | David Kriel         |             93.79 |       12 |             98.21 | Nick Tompkins        |             81 |
+|             18 | Canan Moodie        |             98.4  |       13 |             75.24 | Lucio Cinti          |              6 |
+|             77 | Sebastian de Klerk  |             94.03 |       14 |             72.64 | Tobias Elliott       |             22 |
+|             64 | Willie le Roux      |             97.99 |       15 |             90.66 | Elliot Daly          |             29 |
+|             54 | Akker van der Merwe |             96.31 |       16 |             78.96 | Theo Dan             |             60 |
+|             66 | Alulutho Tshakweni  |             74.08 |       17 |             87.93 | Eroni Mawi           |             60 |
+|             75 | Mornay Smith        |             78.66 |       18 |             75.09 | Alec Clarey          |             60 |
+|             81 | Jannes Kirsten      |             94.27 |       19 |             96.8  | Harry Wilson         |             40 |
+|             81 | Jannes Kirsten      |             94.27 |       19 |             96.8  | Harry Wilson         |             78 |
+|             81 | Jannes Kirsten      |             94.27 |       19 |             96.8  | Harry Wilson         |             80 |
+|             81 | Marcell Coetzee     |             96.24 |       20 |            100    | Ben Earl             |             55 |
+|             34 | Keagan Johannes     |             57.11 |       21 |             27.88 | Gareth Simpson       |              0 |
+|             81 | Aphiwe Dyantyi      |             26.82 |       22 |              9.82 | Tiff Eden            |             77 |
+|             77 | Harold Vorster      |             93.97 |       23 |             86.08 | Tom Parton           |             68 |
 

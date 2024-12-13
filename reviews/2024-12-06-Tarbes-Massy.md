@@ -11,7 +11,7 @@ categories: "Nationale 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.564, which translates to predicting Tarbes to win by 2.3.
 
-Our Over/Under is 42.5 - and combined with the spread above, we have a predicted scoreline of 20 to 23
+Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 22 to 24
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Tarbes by 9.9
+## Prediction without Player Minutes: Tarbes by 8.0
 
 
-Massy by 0.8 on a neutral pitch
+Massy by 2.7 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Massy by 0.8 on a neutral pitch
 
 |   Away Minutes | Away Player            |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:-----------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             22 | Siegfried Fisi'ihoi    |             33.16 |        1 |             20.34 | Ximun Bessonart    |             48 |
-|             25 | Pierre Trassoudaine    |             92.91 |        2 |             15.41 | Vincent Dolier     |             64 |
-|             58 | Nolan Pienaar          |             49.41 |        3 |             56.23 | Luka Vea           |             16 |
-|             53 | Saba Pesvianidze       |             92.24 |        4 |             18.78 | Léo Saint-Guilhem  |             80 |
-|             80 | Andrei Mahu            |             19.22 |        5 |             78.84 | Baptiste Peytavi   |             53 |
-|             59 | Giani Gamba            |             62.95 |        6 |             98.04 | Alexis Armary      |             32 |
-|             48 | Clément Vidoni         |             21.21 |        7 |             24.79 | Jules Bousquet     |             80 |
-|             61 | Alexandre Loubiere     |             94.3  |        8 |              0.53 | Filipe Manu        |             80 |
-|             80 | Lucas Rubio            |             31.44 |        9 |              8.1  | Thomas Millet      |             57 |
-|             62 | Gonzalo Lopez Bontempo |              2.01 |       10 |             13.05 | Alexandre Perez    |             55 |
-|             59 | Alex Preira            |             71.11 |       11 |             58.39 | Osea Waqaninavatu  |             62 |
-|             19 | Luca Mignot            |             77.16 |       12 |              3.6  | Savenaca Rawaca    |             59 |
-|             80 | Tom Cusson             |              8.45 |       13 |              9.52 | Johan Paulet       |             59 |
-|             50 | Ilian El Yahyaoui      |             59.39 |       14 |             78.24 | Clement Latorre    |             80 |
-|             35 | Martin Carre           |             64.43 |       15 |             40.41 | Amona Artaud       |             56 |
-|             63 | Fernandez Correa       |             15.72 |       16 |             50.42 | Enzo Baggiani      |             56 |
-|             61 | Adrien Sonzogni        |             51.46 |       17 |            nan    | Lasha Mirtskhulava |             51 |
-|             80 | Nicolas Ferrer         |             72.24 |       18 |             62.71 | Florian Lamothe    |             56 |
-|             80 | Koen Bloemen           |             13.67 |       19 |             38.45 | Mathieu Soufflet   |             56 |
-|             57 | Diego Pinheiro Ruiz    |             52.39 |       20 |             21.39 | Joeli Matalaweru   |             80 |
-|             80 | Julien Blanc           |             66.77 |       21 |             30.96 | Mickael Thébault   |             15 |
-|             32 | Giorgi Gogoladze       |             46.74 |       22 |             10.88 | Maile Mamao        |             27 |
-|             31 | Alexandre Borie        |             26.44 |       23 |             33.71 | Kevin Lhomy        |             26 |
+|             56 | Siegfried Fisi'ihoi    |             41.5  |        1 |             15.22 | Ximun Bessonart    |             80 |
+|             52 | Pierre Trassoudaine    |             93.39 |        2 |             15.36 | Vincent Dolier     |             24 |
+|             67 | Nolan Pienaar          |             49.05 |        3 |             27.11 | Luka Vea           |             80 |
+|             64 | Saba Pesvianidze       |             92.53 |        4 |             18.16 | Léo Saint-Guilhem  |             56 |
+|             61 | Andrei Mahu            |             22.94 |        5 |             75.85 | Baptiste Peytavi   |             29 |
+|             80 | Giani Gamba            |             67.78 |        6 |             98.38 | Alexis Armary      |             80 |
+|             46 | Clément Vidoni         |             22.65 |        7 |             29.49 | Jules Bousquet     |             53 |
+|             80 | Alexandre Loubiere     |             94.84 |        8 |              0.74 | Filipe Manu        |             17 |
+|             80 | Lucas Rubio            |             32.21 |        9 |              5.77 | Thomas Millet      |             80 |
+|             56 | Gonzalo Lopez Bontempo |              2.61 |       10 |             15.83 | Alexandre Perez    |             23 |
+|             24 | Alex Preira            |             66.36 |       11 |             61.55 | Osea Waqaninavatu  |             45 |
+|             29 | Luca Mignot            |             76.46 |       12 |              3.3  | Savenaca Rawaca    |             80 |
+|             29 | Tom Cusson             |              7.25 |       13 |              6.78 | Johan Paulet       |             80 |
+|             65 | Ilian El Yahyaoui      |             62.95 |       14 |             73.02 | Clement Latorre    |             80 |
+|             22 | Martin Carre           |             64.47 |       15 |             42.12 | Amona Artaud       |             80 |
+|             57 | Fernandez Correa       |             12.6  |       16 |             47.86 | Enzo Baggiani      |             52 |
+|             80 | Adrien Sonzogni        |             51.15 |       17 |            nan    | Lasha Mirtskhulava |             80 |
+|             55 | Nicolas Ferrer         |             69.62 |       18 |             62.67 | Florian Lamothe    |             80 |
+|             57 | Koen Bloemen           |             14.07 |       19 |             39.01 | Mathieu Soufflet   |             46 |
+|             53 | Diego Pinheiro Ruiz    |             52.91 |       20 |             17.68 | Joeli Matalaweru   |             80 |
+|             52 | Julien Blanc           |             67.31 |       21 |             31.73 | Mickael Thébault   |             80 |
+|             34 | Giorgi Gogoladze       |             47.05 |       22 |             11.49 | Maile Mamao        |             80 |
+|             56 | Alexandre Borie        |             28.75 |       23 |             36.81 | Kevin Lhomy        |             80 |
 

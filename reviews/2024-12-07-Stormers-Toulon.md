@@ -11,7 +11,7 @@ categories: "European Rugby Champions Cup 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.602, which translates to predicting Stormers to win by 3.6.
 
-Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 22 to 26
+Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 23 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Stormers by 5.0
+## Prediction without Player Minutes: Stormers by 4.6
 
 
-Toulon by 3.5 on a neutral pitch
+Toulon by 3.9 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Toulon by 3.5 on a neutral pitch
 
 |   Away Minutes | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             82 | Dany Priso        |             89.56 |        1 |             78.83 | Alistair Vermaak     |             50 |
-|             55 | Teddy Baubigny    |             91.53 |        2 |             85.98 | Joseph Dweba         |             16 |
-|             81 | Kyle Sinckler     |             90.75 |        3 |             81.2  | Neethling Fouche     |             80 |
-|             50 | Matthias Halagahu |             66.05 |        4 |             50.18 | JD Schickerling      |             18 |
-|             49 | David Ribbans     |             91.8  |        5 |             93.83 | Ruben van Heerden    |             31 |
-|             32 | Lewis Ludlam      |             74.79 |        6 |             44.46 | Keketso Morabe       |             31 |
-|             32 | Jules Coulon      |             70.44 |        7 |             87.39 | Ben-Jason Dixon      |             32 |
-|             32 | Facundo Isa       |             91.62 |        8 |             70.23 | Willie Engelbrecht   |             31 |
-|             82 | Baptiste Serin    |             99.51 |        9 |             85.25 | Paul de Wet          |             18 |
-|             24 | Dan Biggar        |             98.8  |       10 |             86.75 | Manie Libbok         |             64 |
-|             64 | Gabin Villiere    |             84.98 |       11 |             83.3  | Leolin Zas           |             81 |
-|             60 | Mathieu Smaili    |             23.81 |       12 |             43.83 | Jean-Luc du Plessis  |             59 |
-|             49 | Jeremy Sinzelle   |             69.48 |       13 |             40.43 | Ruhan Nel            |             13 |
-|             32 | Gael Drean        |             49.58 |       14 |             76.25 | Suleiman Hartzenberg |             22 |
-|             64 | Marius Domon      |             65.55 |       15 |             98.7  | Warrick Gelant       |             81 |
-|             81 | Mickael Ivaldi    |             88.14 |       16 |             86.29 | Andre-Hugo Venter    |             82 |
-|             10 | Daniel Brennan    |            nan    |       17 |             28.41 | Leon Lyons           |             82 |
-|             30 | Beka Gigashvili   |             77.34 |       18 |             27.46 | Sazi Sandi           |             64 |
-|             20 | Brian Alainu'uese |             82.01 |       19 |             84.83 | Adre Smith           |             64 |
-|             81 | Yannick Youyoutte |             88.54 |       20 |             63.46 | Marcel Theunissen    |             18 |
-|             59 | Enzo Herve        |             86.35 |       21 |            nan    | Louw Nel             |              2 |
-|              9 | Antoine Frisch    |             96.6  |       22 |             93.19 | Herschel Jantjies    |             32 |
-|             81 | Jiuta Wainiqolo   |             93.49 |       23 |            nan    | Seabelo Senatla      |             58 |
+|             18 | Dany Priso        |             85.26 |        1 |             75.86 | Alistair Vermaak     |             42 |
+|             18 | Teddy Baubigny    |             89.86 |        2 |             85.25 | Joseph Dweba         |             16 |
+|             82 | Kyle Sinckler     |             88.59 |        3 |             77.65 | Neethling Fouche     |             81 |
+|             82 | Matthias Halagahu |             77.5  |        4 |             38.4  | JD Schickerling      |             62 |
+|             31 | David Ribbans     |             91.31 |        5 |             92.96 | Ruben van Heerden    |             74 |
+|             18 | Lewis Ludlam      |             67.18 |        6 |             32.91 | Keketso Morabe       |             64 |
+|             31 | Jules Coulon      |             75.38 |        7 |             84.96 | Ben-Jason Dixon      |             81 |
+|             82 | Facundo Isa       |             92.82 |        8 |             65.56 | Willie Engelbrecht   |             31 |
+|             82 | Baptiste Serin    |             99.52 |        9 |             80.29 | Paul de Wet          |             82 |
+|             17 | Dan Biggar        |             98.8  |       10 |             81.56 | Manie Libbok         |             59 |
+|             22 | Gabin Villiere    |             85.81 |       11 |             86.2  | Leolin Zas           |             18 |
+|             51 | Mathieu Smaili    |             30.7  |       12 |             48.78 | Jean-Luc du Plessis  |             22 |
+|             59 | Jeremy Sinzelle   |             67.8  |       13 |             37.66 | Ruhan Nel            |             22 |
+|             55 | Gael Drean        |             51.09 |       14 |             71.4  | Suleiman Hartzenberg |             81 |
+|             72 | Marius Domon      |             77.11 |       15 |             98.53 | Warrick Gelant       |             81 |
+|             31 | Mickael Ivaldi    |             87.56 |       16 |             86.33 | Andre-Hugo Venter    |             64 |
+|             59 | Daniel Brennan    |            nan    |       17 |             25.51 | Leon Lyons           |             25 |
+|             59 | Beka Gigashvili   |             73.9  |       18 |             24.26 | Sazi Sandi           |             51 |
+|             59 | Brian Alainu'uese |             84.45 |       19 |             84.71 | Adre Smith           |             64 |
+|             31 | Yannick Youyoutte |             89.05 |       20 |             58.2  | Marcel Theunissen    |             64 |
+|             81 | Enzo Herve        |             86.37 |       21 |            nan    | Louw Nel             |             82 |
+|             81 | Antoine Frisch    |             95.95 |       22 |             93.43 | Herschel Jantjies    |             64 |
+|             49 | Jiuta Wainiqolo   |             93.41 |       23 |            nan    | Seabelo Senatla      |             22 |
 

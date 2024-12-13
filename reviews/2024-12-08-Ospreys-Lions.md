@@ -11,7 +11,7 @@ categories: "European Rugby Challenge Cup 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.501, which translates to predicting Ospreys to win by 0.0.
 
-Our Over/Under is 55.5 - and combined with the spread above, we have a predicted scoreline of 28 to 28
+Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 27 to 27
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Ospreys by 16.4
+## Prediction without Player Minutes: Ospreys by 14.9
 
 
-Ospreys by 6.8 on a neutral pitch
+Ospreys by 5.3 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,30 @@ Ospreys by 6.8 on a neutral pitch
 
 |   Away Minutes | Away Player            |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:-----------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             59 | Morgan Naude           |             35.17 |        1 |             35.05 | Gareth Thomas      |             81 |
-|             59 | Franco Marais          |             19.57 |        2 |             18.8  | Dewi Lake          |             41 |
-|             22 | Conraad van Vuuren     |             29.06 |        3 |             63.4  | Ben Warren         |             59 |
-|             21 | Etienne Oosthuizen     |             90.3  |        4 |             64.02 | William Greatbanks |             13 |
-|             81 | Darrien-Lane Landsberg |             51.59 |        5 |             49.12 | James Fender       |             22 |
-|             34 | JC Pretorius           |             78.02 |        6 |             45.32 | Tristan Davies     |             22 |
-|             68 | Izan Esterhuizen       |             43.53 |        7 |             88.59 | Harri Deaves       |             68 |
-|             20 | WJ Steenkamp           |             18.89 |        8 |             82    | Jac Morgan         |             81 |
-|             59 | Nico Steyn             |             67.59 |        9 |             53    | Kieran Hardy       |             59 |
-|             59 | Sam Francis            |             40.76 |       10 |             95.38 | Owen Williams      |             81 |
-|             81 | Rabz Maxwane           |             21.99 |       11 |             19.85 | Keelan Giles       |             40 |
-|             81 | Rynhardt Jonker        |             86.98 |       12 |             89.8  | Keiran Williams    |             81 |
-|             81 | Erich Cronje           |             10.79 |       13 |             96.79 | Owen Watkin        |             59 |
-|             73 | Richard Kriel          |             18.08 |       14 |             93.64 | Daniel Kasende     |             71 |
-|             81 | Tapiwa Mafura          |             74.67 |       15 |             24.58 | Jack Walsh         |             83 |
-|             52 | Jaco Visagie           |             85.82 |       16 |             35.44 | Sam Parry          |             81 |
-|             81 | SJ Kotze               |            nan    |       17 |             26.1  | Steffan Thomas     |             41 |
-|             41 | RF Schoeman            |            nan    |       18 |             57.83 | Tom Botha          |             81 |
-|             22 | Ruan Delport           |             33.25 |       19 |            nan    | Lewis Jones        |             42 |
-|             78 | Ruhan Straeuli         |            nan    |       20 |              6.77 | Morgan Morris      |             47 |
-|             29 | Renzo Du Plessis       |            nan    |       21 |             66.61 | Luke Davies        |              5 |
-|             58 | Sanele Nohamba         |             91.77 |       22 |             62.45 | Dan Edwards        |             83 |
-|             40 | Marius Louw            |             81.24 |       23 |             65.75 | Iestyn Hopkins     |             83 |
+|             29 | Morgan Naude           |             44.65 |        1 |             31.33 | Gareth Thomas      |             22 |
+|             22 | Franco Marais          |             18.13 |        2 |             24.73 | Dewi Lake          |             40 |
+|             83 | Conraad van Vuuren     |             25.45 |        3 |             59.63 | Ben Warren         |             29 |
+|             55 | Etienne Oosthuizen     |             90.53 |        4 |             60.21 | William Greatbanks |             81 |
+|             63 | Darrien-Lane Landsberg |             50.74 |        5 |             39.97 | James Fender       |             29 |
+|             45 | Darrien-Lane Landsberg |             50.74 |        5 |             39.97 | James Fender       |             29 |
+|             22 | JC Pretorius           |             72.82 |        6 |             46.15 | Tristan Davies     |             81 |
+|             20 | Izan Esterhuizen       |             44.53 |        7 |             89.15 | Harri Deaves       |             81 |
+|             45 | WJ Steenkamp           |             15.65 |        8 |             79.37 | Jac Morgan         |             81 |
+|             81 | Nico Steyn             |             66.67 |        9 |             37.66 | Kieran Hardy       |             59 |
+|             45 | Sam Francis            |             41.28 |       10 |             94.59 | Owen Williams      |             41 |
+|             29 | Rabz Maxwane           |             22.17 |       11 |             19.07 | Keelan Giles       |             52 |
+|             81 | Rabz Maxwane           |             22.17 |       11 |             19.07 | Keelan Giles       |             52 |
+|             81 | Rynhardt Jonker        |             86.06 |       12 |             89.08 | Keiran Williams    |             81 |
+|             76 | Erich Cronje           |              9.42 |       13 |             95.86 | Owen Watkin        |             68 |
+|             22 | Richard Kriel          |             28.37 |       14 |             93.26 | Daniel Kasende     |             81 |
+|             81 | Tapiwa Mafura          |             80.59 |       15 |             31.5  | Jack Walsh         |             45 |
+|             81 | Tapiwa Mafura          |             80.59 |       15 |             31.5  | Jack Walsh         |             83 |
+|             45 | Jaco Visagie           |             86.02 |       16 |             21.35 | Sam Parry          |             81 |
+|             20 | SJ Kotze               |            nan    |       17 |             23.13 | Steffan Thomas     |              5 |
+|             20 | RF Schoeman            |            nan    |       18 |             50.71 | Tom Botha          |             58 |
+|             71 | Ruan Delport           |             17.98 |       19 |            nan    | Lewis Jones        |             52 |
+|             20 | Ruhan Straeuli         |            nan    |       20 |              4.97 | Morgan Morris      |             20 |
+|             52 | Renzo Du Plessis       |            nan    |       21 |             67.15 | Luke Davies        |             34 |
+|             81 | Sanele Nohamba         |             91.98 |       22 |             63.13 | Dan Edwards        |             81 |
+|             59 | Marius Louw            |             82.77 |       23 |             67.05 | Iestyn Hopkins     |             67 |
 

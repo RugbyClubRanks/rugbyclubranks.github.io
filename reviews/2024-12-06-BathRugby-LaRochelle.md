@@ -11,7 +11,7 @@ categories: "European Rugby Champions Cup 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.681, which translates to predicting Bath Rugby to win by 6.7.
 
-Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 24 to 30
+Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 19 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Bath Rugby by 33.5
+## Prediction without Player Minutes: Bath Rugby by 27.4
 
 
-Bath Rugby by 19.4 on a neutral pitch
+Bath Rugby by 13.3 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,32 +69,33 @@ Bath Rugby by 19.4 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player      |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:-----------------|---------------:|
-|             24 | Reda Wardi            |             76.75 |        1 |             85.47 | Thomas du Toit   |             15 |
-|             31 | Tolu Latu             |             74.11 |        2 |             96.15 | Tom Dunn         |             15 |
-|             19 | Uini Atonio           |             90.81 |        3 |             44.96 | Will Stuart      |             25 |
-|             81 | Thomas Lavault        |             93.47 |        4 |             97.09 | Quinn Roux       |             56 |
-|             84 | Will Skelton          |              0.75 |        5 |             71.43 | Charlie Ewels    |             56 |
-|             66 | Will Skelton          |              0.75 |        5 |             71.43 | Charlie Ewels    |             56 |
-|              0 | Will Skelton          |              0.75 |        5 |             71.43 | Charlie Ewels    |             56 |
-|             72 | Oscar Jegou           |             83.82 |        6 |             91.99 | Ted Hill         |             81 |
-|             84 | Matthias Haddad       |             79.05 |        7 |             15.42 | Guy Pepper       |             34 |
-|             84 | Gregory Alldritt      |             98.4  |        8 |             92.16 | Miles Reid       |             84 |
-|             84 | Gregory Alldritt      |             98.4  |        8 |             92.16 | Miles Reid       |             57 |
-|              9 | Tawera Kerr-Barlow    |             97.89 |        9 |             52.35 | Louis Schreuder  |             81 |
-|             29 | Ihaia West            |              9.04 |       10 |             99    | Finn Russell     |             62 |
-|              0 | Dillyn Leyds          |             96.25 |       11 |             26.67 | Will Muir        |             54 |
-|             81 | Jonathan Danty        |             84.45 |       12 |             68.42 | Will Butt        |             70 |
-|             70 | Ulupano Seuteni       |             80.17 |       13 |              4.66 | Cameron Redpath  |             84 |
-|             81 | Jack Nowell           |             97.7  |       14 |             91.95 | Joe Cokanasiga   |             81 |
-|             57 | Jack Nowell           |             97.7  |       14 |             91.95 | Joe Cokanasiga   |             81 |
-|             66 | Jack Nowell           |             97.7  |       14 |             91.95 | Joe Cokanasiga   |             81 |
-|             62 | Brice Dulin           |             97.77 |       15 |             20.67 | Tom de Glanville |             44 |
-|             84 | Quentin Lespiaucq     |             31.28 |       16 |             63.33 | Niall Annett     |             84 |
-|             81 | Louis Penverne        |             38.73 |       17 |             84.52 | Francois van Wyk |             81 |
-|             81 | Georges-Henri Colombe |             19.99 |       18 |             47.45 | Archie Griffin   |             50 |
-|             30 | Kane Douglas          |             61.73 |       19 |             94.18 | Ross Molony      |             19 |
-|             30 | Levani Botia          |             91.4  |       20 |             50.27 | Josh Bayliss     |              9 |
-|              0 | Thomas Berjon         |             84.67 |       21 |            nan    | Tom Carr-Smith   |             41 |
-|             84 | Hugo Reus             |             66.06 |       22 |             94.95 | Max Ojomoh       |             81 |
-|             40 | Teddy Thomas          |             76.09 |       23 |             60.43 | Jaco Coetzee     |             81 |
+|             25 | Reda Wardi            |             74.67 |        1 |             87.22 | Thomas du Toit   |              0 |
+|             25 | Reda Wardi            |             74.67 |        1 |             87.22 | Thomas du Toit   |              7 |
+|             81 | Tolu Latu             |             69.89 |        2 |             94.93 | Tom Dunn         |             84 |
+|             84 | Uini Atonio           |             88.64 |        3 |             19.92 | Will Stuart      |             84 |
+|             66 | Thomas Lavault        |             90.18 |        4 |             96    | Quinn Roux       |             62 |
+|             66 | Will Skelton          |              2.35 |        5 |             68.98 | Charlie Ewels    |             84 |
+|             84 | Will Skelton          |              2.35 |        5 |             68.98 | Charlie Ewels    |             84 |
+|             81 | Will Skelton          |              2.35 |        5 |             68.98 | Charlie Ewels    |             84 |
+|             24 | Oscar Jegou           |             74.79 |        6 |             94.19 | Ted Hill         |             15 |
+|             72 | Matthias Haddad       |             72.99 |        7 |             12.05 | Guy Pepper       |             84 |
+|             84 | Gregory Alldritt      |             98.16 |        8 |             83.24 | Miles Reid       |              9 |
+|             84 | Gregory Alldritt      |             98.16 |        8 |             83.24 | Miles Reid       |             81 |
+|              9 | Tawera Kerr-Barlow    |             97.6  |        9 |             50.96 | Louis Schreuder  |             84 |
+|              0 | Ihaia West            |             12.83 |       10 |             99.6  | Finn Russell     |              0 |
+|             15 | Dillyn Leyds          |             95.74 |       11 |             36.2  | Will Muir        |             21 |
+|             15 | Jonathan Danty        |             79.94 |       12 |             75.14 | Will Butt        |             57 |
+|             24 | Ulupano Seuteni       |             80.98 |       13 |              5.27 | Cameron Redpath  |             40 |
+|             81 | Jack Nowell           |            100    |       14 |             93.33 | Joe Cokanasiga   |             81 |
+|             34 | Jack Nowell           |            100    |       14 |             93.33 | Joe Cokanasiga   |             81 |
+|             56 | Jack Nowell           |            100    |       14 |             93.33 | Joe Cokanasiga   |             81 |
+|             81 | Brice Dulin           |             97.25 |       15 |             32.05 | Tom de Glanville |             24 |
+|             70 | Quentin Lespiaucq     |             33.33 |       16 |             63.9  | Niall Annett     |             29 |
+|             81 | Louis Penverne        |             34.96 |       17 |             81.87 | Francois van Wyk |             70 |
+|             43 | Georges-Henri Colombe |             16.35 |       18 |             45.9  | Archie Griffin   |             41 |
+|             81 | Kane Douglas          |             63.51 |       19 |             94.35 | Ross Molony      |             81 |
+|             19 | Levani Botia          |             91.97 |       20 |             49.17 | Josh Bayliss     |             81 |
+|             54 | Thomas Berjon         |             86.05 |       21 |            nan    | Tom Carr-Smith   |             81 |
+|             40 | Hugo Reus             |             66.13 |       22 |             93.69 | Max Ojomoh       |             81 |
+|             57 | Teddy Thomas          |             78.34 |       23 |             56.17 | Jaco Coetzee     |             66 |
 

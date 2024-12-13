@@ -11,7 +11,7 @@ categories: "Pro D2 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.66, which translates to predicting Brive to win by 5.8.
 
-Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 22 to 28
+Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 21 to 27
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -42,7 +42,7 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction without Player Minutes: Brive by 15.9
 
 
-Brive by 3.0 on a neutral pitch
+Brive by 2.9 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Brive by 3.0 on a neutral pitch
 
 |   Away Minutes | Away Player                 |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:----------------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             80 | Marco Trauth                |             77.52 |        1 |             23.72 | Simon-Pierre Chauvac  |             55 |
-|             42 | Jose Luis Gonzalez          |             83.67 |        2 |             34.21 | Lucas da Silva        |             31 |
-|             80 | Yannick Arroyo              |             75.62 |        3 |             18.33 | Marcel van der Merwe  |             80 |
-|             66 | Cam Dodson                  |             65.43 |        4 |             89.24 | Asier Usarraga        |             65 |
-|             45 | Pierre Gayraud              |             41.53 |        5 |             87.92 | Sitaleki Timani       |             80 |
-|             66 | Clement Doumenc             |             88.16 |        6 |             74.53 | Retief Marais         |             45 |
-|             40 | Gillian Benoy               |             21.12 |        7 |             96    | Courtney Lawes        |              9 |
-|             40 | Sias Koen                   |             65.6  |        8 |             49.73 | Taniela Sadrugu       |             70 |
-|             64 | Samuel Marques              |             82.01 |        9 |             72.93 | Leo Carbonneau        |             49 |
-|             66 | Charly Malie                |             27.91 |       10 |             78.31 | Curwin Bosch          |             80 |
-|             80 | Aminiasi Tuimaba            |             83.22 |       11 |             86.74 | Erwan Dridi           |             80 |
-|             19 | Taleta Tupuola              |             25.95 |       12 |             93.29 | Sam Johnson           |             80 |
-|             80 | Taylor Gontineac            |             85.13 |       13 |             56.85 | Georges Shvelidze     |             13 |
-|             52 | Watisoni Votu               |             79.31 |       14 |             11.57 | Thomas Zenon          |             80 |
-|             52 | Victor Dreuille             |             12.48 |       15 |             60.52 | Mathis Ferté          |             64 |
-|             64 | Otonuku Jr Pauta            |             67.72 |       16 |             16.05 | Hugo Verdu            |             35 |
-|             28 | Gabin Lorre                 |             75.23 |       17 |              6.61 | Konstantin Mikautadze |             58 |
-|             19 | Francisco Fernandes Moreira |             23.84 |       18 |             45.29 | Timilai Rokoduru      |             57 |
-|             19 | Christian Judge             |             55.4  |       19 |            nan    | Henzo Kiteau          |             80 |
-|             80 | Yanis Boulassel             |             19.72 |       20 |            nan    | Nathan Fraissenon     |             52 |
-|             33 | Baptiste Abescat-Leroy      |             71.66 |       21 |             45.61 | Benjamin Boudou       |             80 |
-|             80 | Damien Añon                 |             72.45 |       22 |             58.52 | Samuel Maximin        |             80 |
-|             33 | Shahn Eru                   |              2.03 |       23 |             45.1  | Loan Lavergne         |             80 |
+|             80 | Marco Trauth                |             74.79 |        1 |             21.28 | Simon-Pierre Chauvac  |             23 |
+|             52 | Jose Luis Gonzalez          |             84.79 |        2 |             32.57 | Lucas da Silva        |             45 |
+|             80 | Yannick Arroyo              |             72.89 |        3 |             15.16 | Marcel van der Merwe  |             80 |
+|             16 | Cam Dodson                  |             61.42 |        4 |             90.01 | Asier Usarraga        |             31 |
+|             34 | Pierre Gayraud              |             41.53 |        5 |             88.53 | Sitaleki Timani       |             60 |
+|             56 | Clement Doumenc             |             88.72 |        6 |             72.48 | Retief Marais         |             80 |
+|             62 | Gillian Benoy               |             24.7  |        7 |             96.32 | Courtney Lawes        |             25 |
+|             80 | Sias Koen                   |             65.75 |        8 |             41.99 | Taniela Sadrugu       |             80 |
+|             63 | Samuel Marques              |             81.41 |        9 |             70.67 | Leo Carbonneau        |             80 |
+|             25 | Charly Malie                |             25.05 |       10 |             77.96 | Curwin Bosch          |             80 |
+|             32 | Aminiasi Tuimaba            |             83.02 |       11 |             87.91 | Erwan Dridi           |             64 |
+|             32 | Taleta Tupuola              |             27.97 |       12 |             93.13 | Sam Johnson           |             48 |
+|             18 | Taylor Gontineac            |             81.92 |       13 |             48.12 | Georges Shvelidze     |             80 |
+|             27 | Watisoni Votu               |             80.31 |       14 |             11.86 | Thomas Zenon          |             42 |
+|             23 | Victor Dreuille             |             14.1  |       15 |             61.9  | Mathis Ferté          |             80 |
+|             46 | Otonuku Jr Pauta            |             68.89 |       16 |             16.51 | Hugo Verdu            |             80 |
+|             27 | Gabin Lorre                 |             77.47 |       17 |              5.73 | Konstantin Mikautadze |             80 |
+|             53 | Francisco Fernandes Moreira |             20.45 |       18 |             44.82 | Timilai Rokoduru      |             31 |
+|             80 | Christian Judge             |             52.97 |       19 |            nan    | Henzo Kiteau          |             56 |
+|             57 | Yanis Boulassel             |             20.74 |       20 |            nan    | Nathan Fraissenon     |             56 |
+|             80 | Baptiste Abescat-Leroy      |             67.4  |       21 |             45.31 | Benjamin Boudou       |             56 |
+|             31 | Damien Añon                 |             71.96 |       22 |             59.57 | Samuel Maximin        |             29 |
+|             22 | Shahn Eru                   |              2.52 |       23 |             40.15 | Loan Lavergne         |             80 |
 

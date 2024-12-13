@@ -11,7 +11,7 @@ categories: "European Rugby Challenge Cup 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.737, which translates to predicting Bayonne to win by 9.1.
 
-Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 18 to 27
+Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 20 to 29
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Bayonne by 26.7
+## Prediction without Player Minutes: Bayonne by 26.3
 
 
-Bayonne by 13.3 on a neutral pitch
+Bayonne by 12.9 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Bayonne by 13.3 on a neutral pitch
 
 |   Away Minutes | Away Player      |   Away Percentile |   Number |   Home Percentile | Home Player             |   Home Minutes |
 |---------------:|:-----------------|------------------:|---------:|------------------:|:------------------------|---------------:|
-|             30 | Kemsley Mathias  |             83.21 |        1 |             33.21 | Martin Villar           |             83 |
-|             58 | Shaun Evans      |              8.01 |        2 |             91.83 | Lucas Martin            |             26 |
-|             51 | Sam Wainwright   |             63.46 |        3 |             17.2  | Pieter Scholtz          |             83 |
-|             81 | Alex Craig       |             72.57 |        4 |             95.33 | Denis Marchois          |             22 |
-|             30 | Jac Price        |              4.85 |        5 |              7.32 | Veikoso Poloniati       |             83 |
-|             81 | Jarrod Taylor    |             63.88 |        6 |             97.7  | Rodrigo Bruni           |             65 |
-|             81 | Dan Davis        |             87.56 |        7 |             78.28 | Baptiste Heguy          |             83 |
-|             41 | Vaea Fifita      |             95.54 |        8 |             55.79 | Uzair Cassiem           |             59 |
-|             40 | Efan Jones       |             59.16 |        9 |             22.2  | Guillaume Rouet         |             16 |
-|             58 | Ioan Lloyd       |             11.85 |       10 |             81.73 | Camille Lopez           |             83 |
-|             83 | Ellis Mee        |             32.41 |       11 |             77.32 | Mateo Carreras          |             16 |
-|             63 | Eddie James      |             27.6  |       12 |             98.25 | Manu Tuilagi            |             32 |
-|             81 | Joe Roberts      |             34.4  |       13 |             34.79 | Guillaume Martocq       |             81 |
-|             81 | Tom Rogers       |             62.99 |       14 |             69.81 | Nadir Megdoud           |              9 |
-|             14 | Ioan Nicholas    |             11.55 |       15 |             18.25 | Cheikh Tiberghien       |             58 |
-|             53 | Isaac Young      |            nan    |       16 |            nan    | Torsten van Jaarsveld   |             27 |
-|             28 | Sam O'Connor     |            nan    |       17 |             88.02 | Andy Bordelai           |              0 |
-|             81 | Archer Holz      |            nan    |       18 |             44.25 | Pascal Cotet            |             83 |
-|             81 | Sam Lousi        |             88.27 |       19 |             94.53 | Baptiste Chouzenoux     |             67 |
-|             81 | Max Douglas      |             89.33 |       20 |             89.95 | Giovanni Habel-Kueffner |             22 |
-|             61 | Archie Hughes    |             19.61 |       21 |             44.41 | Baptiste Germain        |             55 |
-|             51 | Charlie Titcombe |            nan    |       22 |             73.29 | Joris Segonds           |             81 |
-|             40 | Macs Page        |             25.56 |       23 |             16.7  | Tom Spring              |             81 |
+|             83 | Kemsley Mathias  |             83.89 |        1 |             36.92 | Martin Villar           |             21 |
+|             59 | Shaun Evans      |              8.91 |        2 |             92.01 | Lucas Martin            |              0 |
+|             58 | Sam Wainwright   |             55.11 |        3 |             14.45 | Pieter Scholtz          |             21 |
+|             83 | Alex Craig       |             71.5  |        4 |             95.48 | Denis Marchois          |             15 |
+|             83 | Jac Price        |              7.56 |        5 |              9.12 | Veikoso Poloniati       |             16 |
+|             57 | Jarrod Taylor    |             60.17 |        6 |             98.46 | Rodrigo Bruni           |             23 |
+|             65 | Dan Davis        |             88.63 |        7 |             75.3  | Baptiste Heguy          |             81 |
+|             20 | Vaea Fifita      |             96.32 |        8 |             49.54 | Uzair Cassiem           |             81 |
+|             51 | Efan Jones       |             61.54 |        9 |             17.47 | Guillaume Rouet         |             28 |
+|             27 | Ioan Lloyd       |             13.23 |       10 |             81.36 | Camille Lopez           |             81 |
+|             81 | Ellis Mee        |             32.71 |       11 |             75.12 | Mateo Carreras          |             67 |
+|             32 | Eddie James      |             26.27 |       12 |             97.36 | Manu Tuilagi            |             51 |
+|             16 | Joe Roberts      |             20.15 |       13 |             45.67 | Guillaume Martocq       |             32 |
+|             83 | Tom Rogers       |             51.55 |       14 |             61.71 | Nadir Megdoud           |             30 |
+|             26 | Ioan Nicholas    |             21.79 |       15 |             21.98 | Cheikh Tiberghien       |             41 |
+|             51 | Isaac Young      |            nan    |       16 |            nan    | Torsten van Jaarsveld   |             81 |
+|             83 | Sam O'Connor     |            nan    |       17 |             85.55 | Andy Bordelai           |             81 |
+|             56 | Archer Holz      |            nan    |       18 |             38.59 | Pascal Cotet            |             70 |
+|             51 | Sam Lousi        |             89.75 |       19 |             94.53 | Baptiste Chouzenoux     |             81 |
+|             81 | Max Douglas      |             89.57 |       20 |             91.11 | Giovanni Habel-Kueffner |             27 |
+|             67 | Archie Hughes    |             21.15 |       21 |             45.83 | Baptiste Germain        |             56 |
+|             83 | Charlie Titcombe |            nan    |       22 |             73.75 | Joris Segonds           |             83 |
+|             67 | Macs Page        |             25.89 |       23 |             16.74 | Tom Spring              |              0 |
 

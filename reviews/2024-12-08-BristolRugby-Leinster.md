@@ -11,7 +11,7 @@ categories: "European Rugby Champions Cup 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.445, which translates to predicting Leinster to win by 1.9.
 
-Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 26 to 24
+Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 25 to 23
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Leinster by 4.0
+## Prediction without Player Minutes: Leinster by 6.1
 
 
-Leinster by 11.3 on a neutral pitch
+Leinster by 13.4 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,31 +69,32 @@ Leinster by 11.3 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player                |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:---------------------------|---------------:|
-|             47 | Jack Boyle          |             77.94 |        1 |             79.66 | Ellis Genge                |             55 |
-|             38 | Ronan Kelleher      |             84.44 |        2 |             84.9  | Harry Thacker              |             12 |
-|             59 | Rabah Slimani       |             93.42 |        3 |             85.88 | Max Lahiff                 |             75 |
-|             20 | Rabah Slimani       |             93.42 |        3 |             85.88 | Max Lahiff                 |             75 |
-|             80 | Joe McCarthy        |             38.1  |        4 |             95.59 | James Dun                  |             24 |
-|             38 | James Ryan          |             97.53 |        5 |             67.81 | Joe Owen                   |             83 |
-|             80 | Max Deegan          |             96.42 |        6 |             97.44 | Santiago Grondona          |             73 |
-|             57 | Josh van der Flier  |             94.12 |        7 |             97.27 | Fitz Harding               |             63 |
-|             15 | Jack Conan          |             99.47 |        8 |             59.54 | Viliame Mata               |             45 |
-|             36 | Jamison Gibson-Park |             94.98 |        9 |             97.57 | Harry Randall              |             83 |
-|             83 | Sam Prendergast     |             12.25 |       10 |             97.19 | AJ MacGinty                |             20 |
-|             29 | Jimmy O'Brien       |             91.42 |       11 |             98.08 | Gabriel Ibitoye            |              8 |
-|             83 | Robbie Henshaw      |             83.67 |       12 |             97.96 | Benhard Janse van Rensburg |             36 |
-|             83 | Garry Ringrose      |             98.45 |       13 |             78.91 | Kalaveti Ravouvou          |             30 |
-|             47 | Jordan Larmour      |             82.22 |       14 |             69.43 | Jack Bates                 |             83 |
-|             38 | Ciaran Frawley      |             50.09 |       15 |             77.84 | Richard Lane               |             47 |
-|             66 | Gus McCarthy        |            100    |       16 |             90.29 | Gabriel Oghre              |             45 |
-|             14 | Gus McCarthy        |            100    |       16 |             90.29 | Gabriel Oghre              |             45 |
-|             23 | Gus McCarthy        |            100    |       16 |             90.29 | Gabriel Oghre              |             45 |
-|             80 | Gus McCarthy        |            100    |       16 |             90.29 | Gabriel Oghre              |             45 |
-|             65 | Andrew Porter       |             83.93 |       17 |             88.32 | Jake Woolmore              |             45 |
-|             33 | Thomas Clarkson     |             80.84 |       18 |            nan    | Lovejoy Chawatama          |             45 |
-|             26 | RG Snyman           |             99.82 |       19 |             98.3  | Steven Luatua              |             41 |
-|             80 | Caelan Doris        |             86.81 |       20 |             73.08 | Benjamin Grondona          |             45 |
-|             20 | Luke McGrath        |             99.35 |       21 |             95.79 | Kieran Marmion             |             45 |
-|             60 | Ross Byrne          |             97.79 |       22 |             58.79 | Joe Jenkins                |             47 |
-|             57 | Jordie Barrett      |             91.74 |       23 |            nan    | Benjamin Elizalde          |             38 |
+|             38 | Jack Boyle          |             74.91 |        1 |             82.52 | Ellis Genge                |             64 |
+|             83 | Ronan Kelleher      |             78.03 |        2 |             90.02 | Harry Thacker              |             38 |
+|             36 | Rabah Slimani       |             91.14 |        3 |             81.27 | Max Lahiff                 |             38 |
+|             30 | Rabah Slimani       |             91.14 |        3 |             81.27 | Max Lahiff                 |             38 |
+|             29 | Rabah Slimani       |             91.14 |        3 |             81.27 | Max Lahiff                 |             38 |
+|             83 | Joe McCarthy        |             33.36 |        4 |             95.05 | James Dun                  |             60 |
+|             75 | James Ryan          |             97.57 |        5 |             73.94 | Joe Owen                   |             12 |
+|             47 | Max Deegan          |             97.26 |        6 |             97.86 | Santiago Grondona          |             83 |
+|             45 | Josh van der Flier  |             95.21 |        7 |             96.84 | Fitz Harding               |             41 |
+|             80 | Jack Conan          |             98.53 |        8 |             71.09 | Viliame Mata               |             73 |
+|             47 | Jamison Gibson-Park |             94.07 |        9 |             98.08 | Harry Randall              |             83 |
+|             59 | Sam Prendergast     |             12.02 |       10 |             97.8  | AJ MacGinty                |             83 |
+|             80 | Jimmy O'Brien       |             89.92 |       11 |             96.82 | Gabriel Ibitoye            |             83 |
+|             33 | Robbie Henshaw      |             85.22 |       12 |             97.74 | Benhard Janse van Rensburg |             83 |
+|             80 | Garry Ringrose      |             97.93 |       13 |             83.43 | Kalaveti Ravouvou          |             42 |
+|             80 | Jordan Larmour      |             82.25 |       14 |             75.97 | Jack Bates                 |             36 |
+|             40 | Ciaran Frawley      |             49.27 |       15 |             74.73 | Richard Lane               |             58 |
+|             38 | Gus McCarthy        |            100    |       16 |             88.02 | Gabriel Oghre              |             78 |
+|              8 | Gus McCarthy        |            100    |       16 |             88.02 | Gabriel Oghre              |             78 |
+|             20 | Gus McCarthy        |            100    |       16 |             88.02 | Gabriel Oghre              |             78 |
+|             83 | Gus McCarthy        |            100    |       16 |             88.02 | Gabriel Oghre              |             78 |
+|             83 | Andrew Porter       |             81.33 |       17 |             84.9  | Jake Woolmore              |             83 |
+|             67 | Thomas Clarkson     |             77.88 |       18 |            nan    | Lovejoy Chawatama          |             73 |
+|             57 | RG Snyman           |             99.91 |       19 |             98.89 | Steven Luatua              |             24 |
+|             58 | Caelan Doris        |             90.61 |       20 |             74.22 | Benjamin Grondona          |             63 |
+|             45 | Luke McGrath        |             99.36 |       21 |             95.35 | Kieran Marmion             |              5 |
+|             54 | Ross Byrne          |             98.4  |       22 |             58.57 | Joe Jenkins                |             80 |
+|             31 | Jordie Barrett      |             92    |       23 |            nan    | Benjamin Elizalde          |             19 |
 

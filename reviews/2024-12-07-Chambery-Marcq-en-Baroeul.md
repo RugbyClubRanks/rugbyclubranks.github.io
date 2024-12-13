@@ -9,9 +9,9 @@ categories: "Nationale 2024" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.729, which translates to predicting Chambery to win by 9.2.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.726, which translates to predicting Chambery to win by 9.0.
 
-Our Over/Under is 36.5 - and combined with the spread above, we have a predicted scoreline of 13 to 23
+Our Over/Under is 40.5 - and combined with the spread above, we have a predicted scoreline of 16 to 25
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Chambery by 19.1
+## Prediction without Player Minutes: Chambery by 19.0
 
 
-Chambery by 15.6 on a neutral pitch
+Chambery by 15.5 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,28 +69,28 @@ Chambery by 15.6 on a neutral pitch
 
 |   Away Minutes | Away Player                  |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:-----------------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             80 | Charles-Édouard Ekwah Elimby |             28.11 |        1 |             77.7  | Enzo Segui           |             64 |
-|             80 | Joseph Reynaud               |             66.56 |        2 |             94.45 | Yan Tabarot          |             80 |
-|             80 | Lewys Jones                  |             66.01 |        3 |             52.37 | Osman Dimen          |             30 |
-|             80 | Lucio Anconetani             |             36.16 |        4 |             55.2  | Fabien Witz          |             80 |
-|             80 | Maselino Paulino             |              1.41 |        5 |             55.03 | Corentin Astier      |             80 |
-|             80 | Thomas Simonet               |             32.54 |        6 |             93.1  | Jean-Baptiste Grenod |             63 |
-|             80 | Cedric Yonkeu                |             35.35 |        7 |             88.67 | Matheo Triki         |             26 |
-|             80 | Maxime Danton                |             67.56 |        8 |             60.78 | Taniela Matakaiongo  |             58 |
-|             33 | Dylan Nocete                 |             50.24 |        9 |             63.05 | Mateo Guerret        |             40 |
-|             80 | Paul Decavel                 |             39.36 |       10 |             52.01 | Thibault Moreno      |             70 |
-|             34 | Mathias Ortiz                |             54.02 |       11 |             70.57 | Arthur Nennig        |             25 |
-|             12 | Louis Decavel                |             54.81 |       12 |             83.97 | Bastien Reymond      |             12 |
-|             56 | Hugo Detre                   |             11.66 |       13 |             45    | Maewen Sao           |             80 |
-|             22 | Dany Antunes                 |             14.56 |       14 |             82.3  | Paul Altier          |             52 |
-|             22 | Dany Antunes                 |             14.56 |       14 |             82.3  | Paul Altier          |             80 |
-|             61 | Clement Unique               |             41.71 |       15 |             66.85 | Thomas Hecquet       |             47 |
-|             80 | Eli Serra-Miglietti          |             25.39 |       16 |             81.61 | Lasha Tabidze        |             80 |
-|             80 | Mark Erasmus                 |             37.41 |       17 |             63.46 | Joseph Exshaw        |             80 |
-|             68 | Victor-Fy Balas Burel        |             39.98 |       18 |             60.45 | Youenn Floch         |             80 |
-|             80 | Arthur Bruges                |             65.42 |       19 |             75.38 | Colin Lebian         |             56 |
-|             52 | Nino Maso                    |             45.15 |       20 |             63.13 | Enzo Marzocca        |             56 |
-|             54 | Aurélien Carvalho            |             57.75 |       21 |             88.67 | Nugzar Somkhishvili  |             49 |
-|             80 | Geoffrey Cazanave            |             25.93 |       22 |            nan    | Alessio Caiolo       |             60 |
-|             80 | Mateo Saint-Germain          |             22.65 |       23 |             53.75 | Pierre-Nicolas Dance |             24 |
+|             61 | Charles-Édouard Ekwah Elimby |             24.55 |        1 |             75.21 | Enzo Segui           |             80 |
+|             33 | Joseph Reynaud               |             65.28 |        2 |             94.62 | Yan Tabarot          |             60 |
+|             45 | Lewys Jones                  |             62.25 |        3 |             58.38 | Osman Dimen          |             52 |
+|             28 | Lucio Anconetani             |             35.53 |        4 |             66.99 | Fabien Witz          |             80 |
+|             40 | Maselino Paulino             |              1.82 |        5 |             61.86 | Corentin Astier      |             80 |
+|             19 | Thomas Simonet               |             32.39 |        6 |             93.08 | Jean-Baptiste Grenod |             80 |
+|             22 | Cedric Yonkeu                |             34.96 |        7 |             89.49 | Matheo Triki         |             54 |
+|             24 | Maxime Danton                |             61.69 |        8 |             43.09 | Taniela Matakaiongo  |             52 |
+|             52 | Dylan Nocete                 |             50.8  |        9 |             67.95 | Mateo Guerret        |             56 |
+|             26 | Paul Decavel                 |             37.68 |       10 |             41.48 | Thibault Moreno      |             17 |
+|             56 | Mathias Ortiz                |             54.65 |       11 |             65.12 | Arthur Nennig        |             12 |
+|             52 | Louis Decavel                |             54.9  |       12 |             85.5  | Bastien Reymond      |             25 |
+|             80 | Hugo Detre                   |             12.34 |       13 |             32.96 | Maewen Sao           |             80 |
+|             70 | Dany Antunes                 |             14.88 |       14 |             85.58 | Paul Altier          |             34 |
+|             70 | Dany Antunes                 |             14.88 |       14 |             85.58 | Paul Altier          |             16 |
+|             80 | Clement Unique               |             44.87 |       15 |             68.5  | Thomas Hecquet       |             80 |
+|             80 | Eli Serra-Miglietti          |             22.18 |       16 |             78.18 | Lasha Tabidze        |             34 |
+|             80 | Mark Erasmus                 |             37.19 |       17 |             62.52 | Joseph Exshaw        |             24 |
+|             80 | Victor-Fy Balas Burel        |             36.39 |       18 |             59.98 | Youenn Floch         |             24 |
+|             24 | Arthur Bruges                |             66.07 |       19 |             69.83 | Colin Lebian         |             80 |
+|             80 | Nino Maso                    |             45.61 |       20 |             69.23 | Enzo Marzocca        |             12 |
+|             68 | Aurélien Carvalho            |             52.85 |       21 |             86.56 | Nugzar Somkhishvili  |             80 |
+|             80 | Geoffrey Cazanave            |             26.92 |       22 |            nan    | Alessio Caiolo       |             49 |
+|             80 | Mateo Saint-Germain          |             22.89 |       23 |             53.93 | Pierre-Nicolas Dance |             66 |
 

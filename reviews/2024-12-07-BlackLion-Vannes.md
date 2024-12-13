@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Black Lion by 12.9
+## Prediction without Player Minutes: Black Lion by 12.8
 
 
-Black Lion by 10.5 on a neutral pitch
+Black Lion by 10.4 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,28 +69,28 @@ Black Lion by 10.5 on a neutral pitch
 
 |   Away Minutes | Away Player              |   Away Percentile |   Number |   Home Percentile | Home Player             |   Home Minutes |
 |---------------:|:-------------------------|------------------:|---------:|------------------:|:------------------------|---------------:|
-|             27 | Hugo Djehi               |             68.86 |        1 |             41.04 | Vasil Kakovin           |             81 |
-|             10 | Pat Leafa                |             75.65 |        2 |             39.14 | Shalva Mamukashvili     |             41 |
-|             20 | Simon Bourgeois          |             49.58 |        3 |             40.04 | Giorgi Chkhartishvili   |             81 |
-|             32 | Christiaan van der Merwe |              8.91 |        4 |             86.16 | Mikheil Babunashvili    |             81 |
-|             32 | Timothe Mezou            |             78.57 |        5 |             30.78 | Lado Chachanidze        |             81 |
-|              8 | Jean-Maurice Decubber    |             49.83 |        6 |             55.37 | Sandro Mamamtavrishvili |             67 |
-|             72 | Simon Augry              |             16.27 |        7 |             83.39 | Giorgi Tsutskiridze     |             15 |
-|             81 | Kitione Kamikamica       |             87.52 |        8 |             68.45 | Luka Ivanishvili        |             60 |
-|             27 | Stephen Varney           |              3.89 |        9 |             33.55 | Tengiz Peranidze        |             81 |
-|             16 | Thibault Debaes          |             51.61 |       10 |             92.57 | Luka Matkava            |             81 |
-|             16 | Thibault Debaes          |             51.61 |       10 |             92.57 | Luka Matkava            |             20 |
-|             56 | Enzo Benmegal            |             55.1  |       11 |             91.88 | Sandro Todua            |             56 |
-|             70 | Alex Arrate              |              3.79 |       12 |             31.88 | Ioane Metreveli         |             83 |
-|             61 | Robin Taccola            |             84.26 |       13 |             57.43 | Tornike Kakhoidze       |             23 |
-|             81 | Theo Bastardie           |             83.07 |       14 |             86.51 | Aka Tabutsadze          |             59 |
-|             56 | Massimo Ortolan          |             46.93 |       15 |             29.61 | Luka Tsirekidze         |             81 |
-|             67 | Louis-Marie Suta         |            nan    |       16 |            nan    | Irakli Kvatadze         |             41 |
-|             81 | Thomas Moukoro           |             24.97 |       17 |            nan    | Dato Abdushelishvili    |             29 |
-|             61 | Matthieu Uhila           |            nan    |       18 |            nan    | Bachuki Tchumbadze      |             18 |
-|             73 | Matteo Desjeux           |             15.26 |       19 |            nan    | Demur Epremidze         |             40 |
-|             22 | Leon Boulier             |             32.79 |       20 |            nan    | Giorgi Sinauridze       |             81 |
-|             18 | Jean Cotarmanac'h        |            nan    |       21 |            nan    | Davit Khuroshvili       |             27 |
-|             83 | Tani Vili                |             30.13 |       22 |             85.33 | Demur Tapladze          |             54 |
-|             51 | Pagakalasio Tafili       |             84.28 |       23 |            nan    | Amiran Shvangiradze     |             83 |
+|             59 | Hugo Djehi               |             63.02 |        1 |             42.27 | Vasil Kakovin           |             55 |
+|             55 | Pat Leafa                |             78.65 |        2 |             45.93 | Shalva Mamukashvili     |              0 |
+|             11 | Simon Bourgeois          |             42.39 |        3 |             43.04 | Giorgi Chkhartishvili   |             40 |
+|             30 | Christiaan van der Merwe |              6.69 |        4 |             88.27 | Mikheil Babunashvili    |              0 |
+|             16 | Timothe Mezou            |             70.46 |        5 |             40.66 | Lado Chachanidze        |             18 |
+|             81 | Jean-Maurice Decubber    |             58.29 |        6 |             58.55 | Sandro Mamamtavrishvili |             16 |
+|             81 | Simon Augry              |             15.56 |        7 |             81.11 | Giorgi Tsutskiridze     |             83 |
+|             81 | Kitione Kamikamica       |             80.85 |        8 |             50.83 | Luka Ivanishvili        |             83 |
+|             22 | Stephen Varney           |              4.81 |        9 |             43.27 | Tengiz Peranidze        |             26 |
+|             30 | Thibault Debaes          |             54.31 |       10 |             90.58 | Luka Matkava            |              8 |
+|             30 | Thibault Debaes          |             54.31 |       10 |             90.58 | Luka Matkava            |             25 |
+|             81 | Enzo Benmegal            |             56.74 |       11 |             91.94 | Sandro Todua            |             51 |
+|             56 | Alex Arrate              |              6.31 |       12 |             34.09 | Ioane Metreveli         |             83 |
+|             26 | Robin Taccola            |             79.38 |       13 |             37.95 | Tornike Kakhoidze       |             83 |
+|             27 | Theo Bastardie           |             82.4  |       14 |             86.51 | Aka Tabutsadze          |             57 |
+|             22 | Massimo Ortolan          |             45.97 |       15 |             35.53 | Luka Tsirekidze         |             83 |
+|             81 | Louis-Marie Suta         |            nan    |       16 |            nan    | Irakli Kvatadze         |             40 |
+|             55 | Thomas Moukoro           |             21.64 |       17 |            nan    | Dato Abdushelishvili    |             51 |
+|             83 | Matthieu Uhila           |            nan    |       18 |            nan    | Bachuki Tchumbadze      |             81 |
+|             83 | Matteo Desjeux           |             12.77 |       19 |            nan    | Demur Epremidze         |             83 |
+|             30 | Leon Boulier             |             34.27 |       20 |            nan    | Giorgi Sinauridze       |             83 |
+|             12 | Jean Cotarmanac'h        |            nan    |       21 |            nan    | Davit Khuroshvili       |             61 |
+|             40 | Tani Vili                |             31.17 |       22 |             84.84 | Demur Tapladze          |             83 |
+|             22 | Pagakalasio Tafili       |             81.75 |       23 |            nan    | Amiran Shvangiradze     |             67 |
 

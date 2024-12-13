@@ -11,7 +11,7 @@ categories: "RFU Championship 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.598, which translates to predicting London Scottish to win by 3.5.
 
-Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 22 to 26
+Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 21 to 25
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: London Scottish by 4.2
+## Prediction without Player Minutes: London Scottish by 3.9
 
 
-Ampthill by 0.3 on a neutral pitch
+Ampthill by 0.6 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Ampthill by 0.3 on a neutral pitch
 
 |   Away Minutes | Away Player                 |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:----------------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             66 | Richard Barrington          |             61.63 |        1 |             30.37 | Tom Osborne          |             80 |
-|             47 | Luke Thompson               |             48.23 |        2 |             43.3  | Austin Wallis        |             80 |
-|             80 | James Johnston              |             26.28 |        3 |             17.85 | Ashley Challenger    |             80 |
-|             34 | Kennedy Sylvester           |             40.74 |        4 |             32.63 | Matt Wilkinson       |             17 |
-|             58 | Aidan King                  |             27.43 |        5 |             76.37 | Harry Browne         |             34 |
-|             22 | Max Eke                     |             35.52 |        6 |             19.51 | Will Trenholm        |             80 |
-|             29 | Reggie Hammick              |             54.68 |        7 |             41.06 | Bailey Ransom        |             24 |
-|             80 | Nathan Michelow             |             85.74 |        8 |             35.12 | Zach Carr            |             82 |
-|             80 | Roan Frostwick              |             27.07 |        9 |             14.91 | Jonny Law            |             47 |
-|             80 | Josh Barton                 |             20.28 |       10 |             32.33 | Alexander Lloyd-Seed |             18 |
-|             80 | Brandon Jackson-Richards    |             67.51 |       11 |              9.35 | Noah Ferdinand       |              5 |
-|              5 | Fraser James Kevin Strachan |             80.76 |       12 |             66.96 | Ben Waghorn          |             22 |
-|             80 | Max Clark                   |             87.27 |       13 |             91.45 | Sean Kerr            |             63 |
-|              5 | Sione Va'enuku              |             29.35 |       14 |             61.99 | Hayden Hyde          |             40 |
-|             66 | Angus Hall                  |             68.72 |       15 |             56.98 | Cameron Anderson     |             63 |
-|             75 | Harrison Courtney           |             59.19 |       16 |            nan    | Archie Stanley       |             80 |
-|             75 | James Isaacs                |             56.39 |       17 |             33.13 | Calum Scott          |             80 |
-|             33 | James Flynn                 |             17.97 |       18 |             37.19 | Caleb Ashworth       |             63 |
-|             12 | Lekima Ravuvu               |             20.14 |       19 |             54.5  | Jake Spurway         |             31 |
-|             47 | Sid Blackmore               |             27.68 |       20 |             13.46 | Ioan Rhys Davies     |             80 |
-|             66 | Rory Morgan                 |             17.99 |       21 |             70.34 | Roma Zheng           |             82 |
-|             80 | Evan Mitchell               |             10.24 |       22 |             27.51 | Tom Wilstead         |             54 |
-|            nan | nan                         |            nan    |       23 |             85.59 | Will Brown           |             80 |
+|             80 | Richard Barrington          |             59.16 |        1 |             30.98 | Tom Osborne          |             81 |
+|             65 | Luke Thompson               |             51.61 |        2 |             53.61 | Austin Wallis        |             21 |
+|             80 | James Johnston              |             23.66 |        3 |             15.1  | Ashley Challenger    |             81 |
+|             80 | Kennedy Sylvester           |             54.47 |        4 |             29.63 | Matt Wilkinson       |             66 |
+|             80 | Aidan King                  |             29.28 |        5 |             76.54 | Harry Browne         |             80 |
+|             66 | Max Eke                     |             44.87 |        6 |             21.62 | Will Trenholm        |             47 |
+|             58 | Reggie Hammick              |             58.63 |        7 |             42.22 | Bailey Ransom        |             47 |
+|             75 | Nathan Michelow             |             85.82 |        8 |             32.97 | Zach Carr            |             80 |
+|             81 | Roan Frostwick              |             28.04 |        9 |             14.1  | Jonny Law            |             80 |
+|             36 | Josh Barton                 |             18.44 |       10 |             36.27 | Alexander Lloyd-Seed |             22 |
+|             54 | Brandon Jackson-Richards    |             65.89 |       11 |              9.46 | Noah Ferdinand       |              5 |
+|              8 | Fraser James Kevin Strachan |             80.13 |       12 |             66.76 | Ben Waghorn          |             14 |
+|             80 | Max Clark                   |             86.63 |       13 |             89.55 | Sean Kerr            |             80 |
+|             80 | Sione Va'enuku              |             33.64 |       14 |             60.7  | Hayden Hyde          |             49 |
+|             80 | Angus Hall                  |             71.06 |       15 |             56.59 | Cameron Anderson     |             27 |
+|             27 | Harrison Courtney           |             57.85 |       16 |            nan    | Archie Stanley       |             27 |
+|             68 | James Isaacs                |             56.53 |       17 |             34.87 | Calum Scott          |             27 |
+|             34 | James Flynn                 |             14.8  |       18 |             33.77 | Caleb Ashworth       |             27 |
+|             80 | Lekima Ravuvu               |             17.31 |       19 |             54.91 | Jake Spurway         |             65 |
+|             29 | Sid Blackmore               |             30.43 |       20 |             14.79 | Ioan Rhys Davies     |             65 |
+|             17 | Rory Morgan                 |             20.99 |       21 |             72.71 | Roma Zheng           |             29 |
+|             75 | Evan Mitchell               |             13.19 |       22 |             27.25 | Tom Wilstead         |             80 |
+|            nan | nan                         |            nan    |       23 |             87.13 | Will Brown           |             80 |
 

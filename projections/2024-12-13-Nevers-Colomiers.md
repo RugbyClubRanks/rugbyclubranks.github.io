@@ -9,7 +9,7 @@ categories: "Pro D2 2024" match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.511, which translates to predicting Nevers to win by 3.8.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.511, which translates to predicting Nevers to win by 3.9.
 
 Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 21 to 25
 
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Nevers by 5.9
+## Prediction without Player Minutes: Nevers by 5.8
 
 
-Nevers by 0.8 on a neutral pitch
+Nevers by 0.7 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Nevers by 0.8 on a neutral pitch
 
 | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player                |
 |:-------------------|------------------:|---------:|------------------:|:---------------------------|
-| Guillaume Tartas   |             31.7  |        1 |            nan    | Tornike Mataradze          |
-| Thomas Larrieu     |             30.97 |        2 |             38.67 | Efi Ma'Afu                 |
-| Marco Fepulea'i    |             34.46 |        3 |            nan    | Farai Mudariki             |
-| Maxime Granouillet |            nan    |        4 |             80.42 | Lasha Jaiani               |
-| Janse Roux         |             30.03 |        5 |             42.95 | Chris Gabriel              |
+| Guillaume Tartas   |             28.39 |        1 |            nan    | Tornike Mataradze          |
+| Thomas Larrieu     |             31.49 |        2 |             39.63 | Efi Ma'Afu                 |
+| Marco Fepulea'i    |             30.74 |        3 |            nan    | Farai Mudariki             |
+| Maxime Granouillet |            nan    |        4 |             80.8  | Lasha Jaiani               |
+| Janse Roux         |             30.1  |        5 |             43.35 | Chris Gabriel              |
 | Sakiusa Baseisei   |            nan    |        6 |            nan    | Luka Plataret              |
-| Grégoire Bazin     |             32.2  |        7 |            nan    | Julien Kazubek             |
-| Aldric Lescure     |            nan    |        8 |             40.8  | Steven David               |
-| Ugo Séguéla        |            nan    |        9 |             38.41 | Hugo Bouyssou              |
-| Joaquin De La Vega |             36.95 |       10 |             32.93 | Shaun Reynolds             |
-| Martin Alonso      |             30.96 |       11 |             39.96 | Arthur Mathiron            |
+| Grégoire Bazin     |             33.16 |        7 |            nan    | Julien Kazubek             |
+| Aldric Lescure     |            nan    |        8 |             41.2  | Steven David               |
+| Ugo Séguéla        |            nan    |        9 |             39.58 | Hugo Bouyssou              |
+| Joaquin De La Vega |             37.88 |       10 |             33.47 | Shaun Reynolds             |
+| Martin Alonso      |             31.24 |       11 |             40.58 | Arthur Mathiron            |
 | Dorian Laborde     |            nan    |       12 |            nan    | Noa Pommelet               |
-| Martin Dulon       |             23.47 |       13 |             35.08 | Rudy Derrieux              |
-| Vincent Pinto      |             79.92 |       14 |            nan    | Johan Wasserman            |
-| Valentin Saurs     |            nan    |       15 |             34.64 | Dylan Jaminet              |
-| nan                |            nan    |       16 |            nan    | Jean-Maxence Jules-Rosette |
-| nan                |            nan    |       17 |            nan    | Kamaliele Tufele           |
-| nan                |            nan    |       18 |             26.9  | Ugo Vignolles              |
-| nan                |            nan    |       19 |             39.78 | Rati Zazadze (2)           |
-| nan                |            nan    |       20 |            nan    | Simon Tarel                |
-| nan                |            nan    |       21 |            nan    | Nicolas Ragoevi            |
-| nan                |            nan    |       22 |            nan    | Lucas Blanc                |
-| nan                |            nan    |       23 |            nan    | Aselo Ikahehegi            |
+| Martin Dulon       |             23.87 |       13 |             34.84 | Rudy Derrieux              |
+| Vincent Pinto      |             81.09 |       14 |            nan    | Johan Wasserman            |
+| Valentin Saurs     |            nan    |       15 |             37.55 | Dylan Jaminet              |
+| Théo Lachaud       |            nan    |       16 |            nan    | Jean-Maxence Jules-Rosette |
+| Eliès El Ansari    |            nan    |       17 |            nan    | Kamaliele Tufele           |
+| Jack Whetton       |             30.1  |       18 |             27.02 | Ugo Vignolles              |
+| Jérémy Béchu       |            nan    |       19 |             40.68 | Rati Zazadze (2)           |
+| Enzo Salles        |            nan    |       20 |            nan    | Simon Tarel                |
+| Mathis Galthié     |             36.7  |       21 |            nan    | Nicolas Ragoevi            |
+| Max Auriac         |            nan    |       22 |            nan    | Lucas Blanc                |
+| Robin Bellemand    |            nan    |       23 |            nan    | Aselo Ikahehegi            |
 

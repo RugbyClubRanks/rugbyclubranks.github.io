@@ -9,9 +9,9 @@ categories: "Pro D2 2024" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.594, which translates to predicting Nice to win by 3.4.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.595, which translates to predicting Nice to win by 3.4.
 
-Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 20 to 23
+Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 23 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Nice by 6.1
+## Prediction without Player Minutes: Nice by 7.3
 
 
-Nice by 2.7 on a neutral pitch
+Nice by 3.9 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Nice by 2.7 on a neutral pitch
 
 |   Away Minutes | Away Player                |   Away Percentile |   Number |   Home Percentile | Home Player              |   Home Minutes |
 |---------------:|:---------------------------|------------------:|---------:|------------------:|:-------------------------|---------------:|
-|             48 | Tornike Mataradze          |             49.64 |        1 |             22    | Facundo Gigena           |             80 |
-|             80 | Efi Ma'afu                 |             59.01 |        2 |             87.67 | Sione Anga'aelangi       |             80 |
-|             80 | Cleopas Kundiona           |             44.07 |        3 |             48.64 | Nicolas Ciancio          |             50 |
-|             38 | Maxence Barjaud            |             88.01 |        4 |              4.76 | Thibault Rey             |             34 |
-|             80 | Kevin Noah                 |             29.72 |        5 |             88.1  | Martin Freytes           |             27 |
-|             33 | Luka Plataret              |             78.36 |        6 |             73    | Arthur Vignolles         |             18 |
-|             31 | Julien Kazubek             |             74.7  |        7 |              7.84 | Bastien Berenguel        |             80 |
-|             49 | Jason-Colin Fraser         |             95.37 |        8 |             34.58 | Ramiha Tarrel Tia Smiler |             33 |
-|             49 | Hugo Bouyssou              |              4.7  |        9 |             72.29 | Jules Solinas            |             15 |
-|             67 | Shaun Reynolds             |             36.75 |       10 |             25.3  | Romain Riguet            |             80 |
-|             56 | Arthur Mathiron            |             40.84 |       11 |             87.13 | Andrzej Charlat          |             31 |
-|             31 | Noa Pommelet               |             48.59 |       12 |             15.94 | Tom Daly                 |             54 |
-|             80 | Paula Walisolio            |             48.98 |       13 |             81.34 | Nathan Courtade          |             31 |
-|             20 | Johan Georg Wasserman      |             63.6  |       14 |             64.67 | Christian Erasmus        |             49 |
-|             80 | Tom Deleuze                |             10.06 |       15 |             54.93 | Paul Auradou             |             51 |
-|             15 | Ugo Vignolles              |             26.9  |       16 |             59.44 | Mathis Viard             |             64 |
-|             80 | Lasha Jaiani               |             80.42 |       17 |             72.6  | Sunia Vola               |             46 |
-|             80 | Rudy Derrieux              |             80.56 |       18 |             95.91 | Louis Suaud              |             13 |
-|             80 | Simon Tarel                |             31.28 |       19 |             29.1  | Clément Chartier         |             80 |
-|             40 | Jean-Maxence Jules-Rosette |             45.15 |       20 |             29.17 | Matéo Jeune Joly         |             18 |
-|             40 | Lasha Pkhakadze            |            nan    |       21 |             92.69 | Jordan Taufua            |             53 |
-|             22 | Kamaliele Tufele           |             70.52 |       22 |             22.78 | Luvuyo Pupuma            |             40 |
-|             17 | Steven David               |             70.05 |       23 |             55.32 | Sacha Idoumi             |             80 |
+|             48 | Tornike Mataradze          |             49.46 |        1 |             17.54 | Facundo Gigena           |             80 |
+|             59 | Efi Ma'afu                 |             60.83 |        2 |             89.4  | Sione Anga'aelangi       |             13 |
+|             80 | Cleopas Kundiona           |             41.26 |        3 |             50.18 | Nicolas Ciancio          |             35 |
+|             80 | Maxence Barjaud            |             88.18 |        4 |              5.13 | Thibault Rey             |             31 |
+|             39 | Kevin Noah                 |             20.07 |        5 |             84.88 | Martin Freytes           |             67 |
+|             41 | Luka Plataret              |             77.52 |        6 |             64.62 | Arthur Vignolles         |             80 |
+|             80 | Julien Kazubek             |             79.57 |        7 |              8.29 | Bastien Berenguel        |             45 |
+|             19 | Jason-Colin Fraser         |             93.92 |        8 |             22.28 | Ramiha Tarrel Tia Smiler |             70 |
+|             61 | Hugo Bouyssou              |              5.45 |        9 |             70.83 | Jules Solinas            |             37 |
+|             33 | Shaun Reynolds             |             25.45 |       10 |             29.66 | Romain Riguet            |             27 |
+|             80 | Arthur Mathiron            |             41.63 |       11 |             86.28 | Andrzej Charlat          |             80 |
+|             53 | Noa Pommelet               |             55.65 |       12 |             16.2  | Tom Daly                 |             40 |
+|             43 | Paula Walisolio            |             43.79 |       13 |             78.63 | Nathan Courtade          |             42 |
+|             56 | Johan Georg Wasserman      |             71.55 |       14 |             69.15 | Christian Erasmus        |             18 |
+|             53 | Tom Deleuze                |             13    |       15 |             55.13 | Paul Auradou             |             52 |
+|             80 | Ugo Vignolles              |             27.02 |       16 |             60.72 | Mathis Viard             |             80 |
+|             80 | Lasha Jaiani               |             80.8  |       17 |             69.98 | Sunia Vola               |             80 |
+|             47 | Rudy Derrieux              |             76.55 |       18 |             96.5  | Louis Suaud              |             80 |
+|             47 | Simon Tarel                |             29.01 |       19 |             28.5  | Clément Chartier         |             28 |
+|             80 | Jean-Maxence Jules-Rosette |             44.24 |       20 |             30.29 | Matéo Jeune Joly         |             80 |
+|             47 | Lasha Pkhakadze            |            nan    |       21 |             92.08 | Jordan Taufua            |             52 |
+|             47 | Kamaliele Tufele           |             67.9  |       22 |             19.68 | Luvuyo Pupuma            |             28 |
+|             80 | Steven David               |             66.67 |       23 |             54.53 | Sacha Idoumi             |             61 |
 

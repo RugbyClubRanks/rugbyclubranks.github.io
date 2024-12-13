@@ -11,7 +11,7 @@ categories: "European Rugby Champions Cup 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.785, which translates to predicting Stade Toulousain to win by 11.4.
 
-Our Over/Under is 54.5 - and combined with the spread above, we have a predicted scoreline of 22 to 33
+Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 19 to 30
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Stade Toulousain by 12.3
+## Prediction without Player Minutes: Stade Toulousain by 21.0
 
 
-Ulster by 0.5 on a neutral pitch
+Stade Toulousain by 8.2 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,33 +69,31 @@ Ulster by 0.5 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             22 | Andrew Warwick     |             65.6  |        1 |             88.79 | David Ainu'u         |             59 |
-|              7 | James McCormick    |             28.51 |        2 |             90.6  | Peato Mauvaka        |             13 |
-|             40 | Scott Wilson       |             59.43 |        3 |             90.15 | Dorian Aldegheri     |             59 |
-|              5 | Alan O'Connor      |             89.42 |        4 |             97.18 | Thibaud Flament      |             81 |
-|             81 | Harry Sheridan     |             69.4  |        5 |             91.71 | Emmanuel Meafou      |             60 |
-|             81 | Matty Rea          |             47.7  |        6 |             97.79 | Jack Willis          |             22 |
-|             76 | Marcus Rea         |             91.74 |        7 |             90.12 | Leo Banos            |             81 |
-|             25 | James McNabney     |              4.46 |        8 |             99.82 | Alexandre Roumat     |             81 |
-|             14 | Nathan Doak        |             51.22 |        9 |            100    | Antoine Dupont       |             74 |
-|             64 | Aidan Morgan       |             61.85 |       10 |             96.39 | Romain Ntamack       |             45 |
-|             19 | Mike Lowry         |             54.33 |       11 |             98.77 | Matthis Lebel        |             81 |
-|             83 | Stuart McCloskey   |             67.83 |       12 |             67.93 | Santiago Chocobares  |             49 |
-|             63 | Ben Carson         |             38.68 |       13 |             96.4  | Pierre-Louis Barassi |             60 |
-|             83 | Werner Kok         |             45.52 |       14 |             98.16 | Ange Capuozzo        |             81 |
-|             29 | Stewart Moore      |             99.63 |       15 |             95.9  | Thomas Ramos         |             19 |
-|             21 | Stewart Moore      |             99.63 |       15 |             95.9  | Thomas Ramos         |             19 |
-|             81 | Stewart Moore      |             99.63 |       15 |             95.9  | Thomas Ramos         |             19 |
-|             23 | Stewart Moore      |             99.63 |       15 |             95.9  | Thomas Ramos         |             19 |
-|             81 | Rob Herring        |             96.61 |       16 |             95.99 | Julien Marchand      |             52 |
-|             81 | Eric O'Sullivan    |             83.81 |       17 |             67.2  | Rodrigue Neti        |             81 |
-|             81 | Tom O'Toole        |             51.78 |       18 |             84.16 | Joel Merkler         |             40 |
-|             36 | Iain Henderson     |             94.27 |       19 |             90.12 | Joshua Brennan       |             81 |
-|             32 | Cormac Izuchukwu   |             75.55 |       20 |             68.27 | Theo Ntamack         |             81 |
-|             32 | Dave Shanahan      |            nan    |       21 |             40.19 | Paul Graou           |             22 |
-|             81 | Jude Postlethwaite |            100    |       22 |             84.65 | Paul Costes          |             41 |
-|             52 | Jude Postlethwaite |            100    |       22 |             84.65 | Paul Costes          |             41 |
-|             56 | Jude Postlethwaite |            100    |       22 |             84.65 | Paul Costes          |             41 |
-|             62 | Jude Postlethwaite |            100    |       22 |             84.65 | Paul Costes          |             41 |
-|             49 | Nick Timoney       |             89.44 |       23 |             99.81 | Juan Cruz Mallia     |             29 |
+|             23 | Andrew Warwick     |             64.51 |        1 |             85.91 | David Ainu'u         |             41 |
+|             49 | James McCormick    |             17.36 |        2 |             92.32 | Peato Mauvaka        |             40 |
+|             59 | Scott Wilson       |             47.92 |        3 |             87.99 | Dorian Aldegheri     |             81 |
+|             81 | Alan O'Connor      |             77.15 |        4 |             95.74 | Thibaud Flament      |             81 |
+|             59 | Harry Sheridan     |             76.02 |        5 |             93.66 | Emmanuel Meafou      |             81 |
+|             81 | Matty Rea          |             48.12 |        6 |             98.03 | Jack Willis          |             14 |
+|             60 | Marcus Rea         |             93.68 |        7 |             88.21 | Leo Banos            |             47 |
+|             81 | James McNabney     |              1.47 |        8 |             99.45 | Alexandre Roumat     |             81 |
+|             32 | Nathan Doak        |             38.46 |        9 |            100    | Antoine Dupont       |             81 |
+|             21 | Aidan Morgan       |             74.95 |       10 |             96.59 | Romain Ntamack       |             74 |
+|             45 | Mike Lowry         |             42.71 |       11 |             98.76 | Matthis Lebel        |             68 |
+|             13 | Stuart McCloskey   |             85.4  |       12 |             77.21 | Santiago Chocobares  |             59 |
+|             52 | Ben Carson         |             49.15 |       13 |             94.26 | Pierre-Louis Barassi |              7 |
+|             13 | Werner Kok         |             76.05 |       14 |             97.91 | Ange Capuozzo        |             81 |
+|             59 | Stewart Moore      |             99.82 |       15 |             98.17 | Thomas Ramos         |             61 |
+|             81 | Stewart Moore      |             99.82 |       15 |             98.17 | Thomas Ramos         |             61 |
+|             41 | Rob Herring        |             96.62 |       16 |             95.85 | Julien Marchand      |             81 |
+|             41 | Eric O'Sullivan    |             83.23 |       17 |             65.52 | Rodrigue Neti        |             81 |
+|             21 | Tom O'Toole        |             44.23 |       18 |             81.69 | Joel Merkler         |             81 |
+|             59 | Iain Henderson     |             93.4  |       19 |             90.7  | Joshua Brennan       |             81 |
+|             81 | Cormac Izuchukwu   |             75.47 |       20 |             64.64 | Theo Ntamack         |             56 |
+|             19 | Dave Shanahan      |            nan    |       21 |             39.74 | Paul Graou           |             36 |
+|             49 | Jude Postlethwaite |            100    |       22 |             83.9  | Paul Costes          |             81 |
+|             60 | Jude Postlethwaite |            100    |       22 |             83.9  | Paul Costes          |             81 |
+|             62 | Jude Postlethwaite |            100    |       22 |             83.9  | Paul Costes          |             81 |
+|             25 | Jude Postlethwaite |            100    |       22 |             83.9  | Paul Costes          |             81 |
+|             52 | Nick Timoney       |             90.6  |       23 |             99.63 | Juan Cruz Mallia     |             32 |
 

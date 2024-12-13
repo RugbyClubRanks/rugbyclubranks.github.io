@@ -11,7 +11,7 @@ categories: "European Rugby Challenge Cup 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.831, which translates to predicting Connacht to win by 14.2.
 
-Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 18 to 32
+Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 17 to 31
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Connacht by 11.0
+## Prediction without Player Minutes: Connacht by 10.3
 
 
-Connacht by 2.6 on a neutral pitch
+Connacht by 1.9 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Connacht by 2.6 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             81 | Paolo Buonfiglio    |             36.6  |        1 |             47.39 | Jordan Duggan         |             82 |
-|             81 | Luca Bigi           |             78.27 |        2 |             16.8  | Dylan Tierney-Martin  |             82 |
-|             81 | Muhamed Hasa        |             25.44 |        3 |             32.68 | Jack Aungier          |             21 |
-|             57 | Matteo Canali       |             94.8  |        4 |             33.33 | Darragh Murray        |             45 |
-|             81 | Leonard Krumov      |              9.52 |        5 |             60.14 | Oisin Dowling         |             15 |
-|             82 | Giacomo Milano      |             52.47 |        6 |             91.48 | Josh Murphy           |             81 |
-|             24 | Bautista Stavile    |             27.34 |        7 |             45.74 | Shamus Hurley-Langton |             12 |
-|             82 | Giacomo Ferrari     |             24.78 |        8 |             11.94 | Paul Boyle            |             81 |
-|             81 | Thomas Dominguez    |             24.31 |        9 |             38.09 | Caolin Blade          |             57 |
-|             81 | Giacomo Da Re       |             15.26 |       10 |             93.98 | Jack Carty            |             57 |
-|             81 | Simone Gesi         |             22.45 |       11 |             95.63 | Santiago Cordero      |             81 |
-|             60 | Enrico Lucchin      |             54.91 |       12 |              2.72 | Cathal Forde          |             81 |
-|             24 | Filippo Drago       |             28.67 |       13 |             47.42 | David Hawkshaw        |             51 |
-|             54 | Filippo Bozzoni     |             40.77 |       14 |             57.78 | Chay Mullins          |             82 |
-|             66 | Giovanni Montemauri |              6.89 |       15 |             66.48 | Shane Jennings        |             81 |
-|              7 | Giampietro Ribaldi  |             27.58 |       16 |            nan    | Eoin de Buitlear      |             27 |
-|             60 | Luca Rizzoli        |             76.39 |       17 |            nan    | Temi Lasisi           |             22 |
-|             75 | Matteo Nocera       |             21.89 |       18 |            nan    | Fiachna Barrett       |             53 |
-|             35 | Rusiate Nasove      |            nan    |       19 |            nan    | David O'Connor        |             58 |
-|             47 | Luca Andreani       |            nan    |       20 |            nan    | Oisin McCormack       |              0 |
-|             82 | Alessandro Fusco    |              8.59 |       21 |             50.08 | Matthew Devine        |             69 |
-|             35 | Iacopo Bianchi      |             11.75 |       22 |            nan    | Sean Naughton         |             59 |
-|             29 | Scott Gregory       |             68.22 |       23 |             12.34 | Byron Ralston         |             81 |
+|              0 | Paolo Buonfiglio    |             48.22 |        1 |             48.63 | Jordan Duggan         |             81 |
+|             61 | Luca Bigi           |             79.26 |        2 |             16.13 | Dylan Tierney-Martin  |             60 |
+|             82 | Muhamed Hasa        |             25.03 |        3 |             33.95 | Jack Aungier          |             81 |
+|             60 | Matteo Canali       |             94.79 |        4 |             37.62 | Darragh Murray        |             81 |
+|             60 | Leonard Krumov      |             12.08 |        5 |             66.2  | Oisin Dowling         |             61 |
+|             64 | Giacomo Milano      |             55.56 |        6 |             91.79 | Josh Murphy           |             57 |
+|             82 | Bautista Stavile    |             31.79 |        7 |             52.82 | Shamus Hurley-Langton |             57 |
+|             18 | Giacomo Ferrari     |             33.7  |        8 |              9.39 | Paul Boyle            |             69 |
+|             82 | Thomas Dominguez    |             26.28 |        9 |             34.29 | Caolin Blade          |             52 |
+|             24 | Giacomo Da Re       |             16.63 |       10 |             93.79 | Jack Carty            |             81 |
+|             81 | Simone Gesi         |             26.28 |       11 |             95.04 | Santiago Cordero      |             81 |
+|             81 | Enrico Lucchin      |             54.71 |       12 |              3.39 | Cathal Forde          |             60 |
+|             50 | Filippo Drago       |             27.02 |       13 |             50.19 | David Hawkshaw        |             66 |
+|              7 | Filippo Bozzoni     |             46.98 |       14 |             48.91 | Chay Mullins          |             10 |
+|             21 | Giovanni Montemauri |             10.81 |       15 |             64.1  | Shane Jennings        |             40 |
+|             22 | Giampietro Ribaldi  |             29.34 |       16 |            nan    | Eoin de Buitlear      |             67 |
+|             22 | Luca Rizzoli        |             75.56 |       17 |            nan    | Temi Lasisi           |             82 |
+|             24 | Matteo Nocera       |             18.85 |       18 |            nan    | Fiachna Barrett       |             57 |
+|             81 | Rusiate Nasove      |            nan    |       19 |            nan    | David O'Connor        |             31 |
+|             21 | Luca Andreani       |            nan    |       20 |            nan    | Oisin McCormack       |             82 |
+|             82 | Alessandro Fusco    |             14.42 |       21 |             50.64 | Matthew Devine        |             35 |
+|             22 | Iacopo Bianchi      |             12.91 |       22 |            nan    | Sean Naughton         |             61 |
+|             80 | Scott Gregory       |             52.17 |       23 |             12.48 | Byron Ralston         |             51 |
 
