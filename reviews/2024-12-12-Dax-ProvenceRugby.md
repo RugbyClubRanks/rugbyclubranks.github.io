@@ -11,7 +11,7 @@ categories: "Pro D2 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.571, which translates to predicting Dax to win by 2.5.
 
-Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 23 to 26
+Our Over/Under is 42.5 - and combined with the spread above, we have a predicted scoreline of 20 to 23
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Dax by 12.7
+## Prediction without Player Minutes: Dax by 12.8
 
 
-Dax by 0.4 on a neutral pitch
+Dax by 0.6 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,30 +69,29 @@ Dax by 0.4 on a neutral pitch
 
 |   Away Minutes | Away Player              |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:-------------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             80 | Thomas Vernet            |             78.36 |        1 |             47.5  | Dino Casadei          |             80 |
-|             69 | Joseph Laget             |             57.3  |        2 |             40.09 | Kito Falatea          |             80 |
-|             49 | Eliott Yemsi             |             45.66 |        3 |             60.23 | David Lolohea         |             66 |
-|             36 | Jérôme Dufour            |             86.19 |        4 |             44.14 | Brice Ferrer          |             54 |
-|             66 | Izack Rodda              |             86.88 |        5 |              9.04 | Jean-Baptiste Singer  |             45 |
-|             31 | Teimana Harrison         |             75.13 |        6 |             81.88 | Arnaud Aletti         |             31 |
-|             80 | Andres Zafra Tarazona    |              7.95 |        7 |             68.03 | Ratu Nacika           |             27 |
-|             66 | Tornike Jalagonia        |             14.92 |        8 |             86    | Sam Wasley            |             66 |
-|             66 | Arthur Coville           |             23.24 |        9 |             83.81 | Paul Ravier           |             27 |
-|             66 | Jules Soulan             |             78.96 |       10 |             78.76 | Hugo Cerisier         |             27 |
-|             66 | Mathias Colombet         |             71.16 |       11 |             69.38 | Guillaume Bouche      |             27 |
-|             66 | Jimmy Gopperth           |             90.87 |       12 |              1.88 | Jale Vatubua          |             27 |
-|             66 | Atila Septar             |             76.65 |       13 |             83.15 | Hugo Fourquet         |             80 |
-|             49 | Nadir Bouhedjeur         |             89.38 |       14 |             32.95 | Viliame Tutuvili      |             54 |
-|             66 | Thomas Salles            |             82.05 |       15 |              9.71 | Maxime Oltmann        |             80 |
-|             16 | Enrique Pieretto         |             40.78 |       16 |             59.75 | Louis Mary            |             49 |
-|             18 | Josh Tyrell              |             69.24 |       17 |             17.86 | Jean-Baptiste Barrère |             27 |
-|             30 | Joris Cazenave           |             70.99 |       18 |             13.98 | Louis Barrere         |             30 |
-|             27 | Jules Plisson            |             33.87 |       19 |             16.29 | Diogo Hasse Ferreira  |             30 |
-|             58 | Léo Drouet               |             68.76 |       20 |             47.49 | Romuald Séguy         |             30 |
-|             58 | Bilel Taieb              |             76.24 |       21 |             76.9  | Théo Gatelier         |             80 |
-|             58 | Hayden Thompson-Stringer |             83.77 |       22 |             52.92 | Bastien Daguerre      |             27 |
-|             80 | Hayden Thompson-Stringer |             83.77 |       22 |             52.92 | Bastien Daguerre      |             27 |
-|             40 | Hayden Thompson-Stringer |             83.77 |       22 |             52.92 | Bastien Daguerre      |             27 |
-|             52 | Hayden Thompson-Stringer |             83.77 |       22 |             52.92 | Bastien Daguerre      |             27 |
-|             80 | Ian Boubila              |             32.1  |       23 |             82.14 | Genesis Mamea Lemalu  |             36 |
+|             36 | Thomas Vernet            |             76.22 |        1 |             52.57 | Dino Casadei          |             58 |
+|             36 | Joseph Laget             |             38.03 |        2 |             54.77 | Kito Falatea          |             58 |
+|             45 | Eliott Yemsi             |             38.24 |        3 |             65.82 | David Lolohea         |             31 |
+|             52 | Jérôme Dufour            |             85.95 |        4 |             52.41 | Brice Ferrer          |             40 |
+|             80 | Izack Rodda              |             84.9  |        5 |              7.02 | Jean-Baptiste Singer  |             80 |
+|             81 | Teimana Harrison         |             74.68 |        6 |             80.64 | Arnaud Aletti         |             80 |
+|             36 | Andres Zafra Tarazona    |              7.78 |        7 |             67.68 | Ratu Nacika           |             27 |
+|             52 | Tornike Jalagonia        |             16.88 |        8 |             73.95 | Sam Wasley            |             63 |
+|             58 | Arthur Coville           |             15.27 |        9 |             85.85 | Paul Ravier           |             27 |
+|             54 | Jules Soulan             |             77.48 |       10 |             73.43 | Hugo Cerisier         |             67 |
+|             27 | Mathias Colombet         |             63.94 |       11 |             69.99 | Guillaume Bouche      |             29 |
+|             49 | Jimmy Gopperth           |             91.87 |       12 |              0.78 | Jale Vatubua          |             71 |
+|             49 | Atila Septar             |             77.47 |       13 |             86.88 | Hugo Fourquet         |             71 |
+|             80 | Nadir Bouhedjeur         |             88.77 |       14 |             34.88 | Viliame Tutuvili      |             77 |
+|             80 | Thomas Salles            |             82.3  |       15 |             10.17 | Maxime Oltmann        |             81 |
+|             31 | Enrique Pieretto         |             38.68 |       16 |             46.42 | Louis Mary            |             63 |
+|             80 | Josh Tyrell              |             68.39 |       17 |             15.73 | Jean-Baptiste Barrère |             63 |
+|             16 | Joris Cazenave           |             70.42 |       18 |             17.06 | Louis Barrere         |             81 |
+|             58 | Jules Plisson            |             30.02 |       19 |             12.3  | Diogo Hasse Ferreira  |             52 |
+|             69 | Léo Drouet               |             68.81 |       20 |             49.7  | Romuald Séguy         |             81 |
+|             80 | Bilel Taieb              |             76.15 |       21 |             75.02 | Théo Gatelier         |             10 |
+|             58 | Hayden Thompson-Stringer |             83.89 |       22 |             50.44 | Bastien Daguerre      |             27 |
+|             33 | Hayden Thompson-Stringer |             83.89 |       22 |             50.44 | Bastien Daguerre      |             27 |
+|             80 | Hayden Thompson-Stringer |             83.89 |       22 |             50.44 | Bastien Daguerre      |             27 |
+|             40 | Ian Boubila              |             32.24 |       23 |             71.06 | Genesis Mamea Lemalu  |             80 |
 
