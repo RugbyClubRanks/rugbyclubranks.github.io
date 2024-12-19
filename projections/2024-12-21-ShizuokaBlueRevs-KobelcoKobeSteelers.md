@@ -9,7 +9,7 @@ categories: "Japan Rugby League One 2024" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.469, which translates to predicting Kobelco Kobe Steelers to win by 1.4.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.476, which translates to predicting Kobelco Kobe Steelers to win by 1.2.
 
 Our Over/Under is 81.5 - and combined with the spread above, we have a predicted scoreline of 41 to 40
 
@@ -42,5 +42,5 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Imputed Lineups: Kobelco Kobe Steelers by 0.3
 
 
-Kobelco Kobe Steelers by 4.5 on a neutral pitch
+Kobelco Kobe Steelers by 4.4 on a neutral pitch
 

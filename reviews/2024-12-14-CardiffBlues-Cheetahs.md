@@ -11,7 +11,7 @@ categories: "European Rugby Challenge Cup 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.572, which translates to predicting Cardiff Blues to win by 2.7.
 
-Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 20 to 23
+Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 23 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Cheetahs by 1.5 on a neutral pitch
 
 |   Away Minutes | Away Player              |   Away Percentile |   Number |   Home Percentile | Home Player       |   Home Minutes |
 |---------------:|:-------------------------|------------------:|---------:|------------------:|:------------------|---------------:|
-|             40 | Schalk Ferreira          |             18.9  |        1 |             73.24 | Corey Domachowski |             40 |
-|             80 | Louis van der Westhuizen |             83.26 |        2 |             68.08 | Liam Belcher      |             41 |
-|             81 | Aranos Coetzee           |             40.2  |        3 |             26.76 | Will Davies-King  |             67 |
-|             64 | Carl Wegner              |             42.41 |        4 |             83.41 | Josh McNally      |             11 |
-|             65 | Victor Sekekete          |             78.49 |        5 |              5.88 | Teddy Williams    |             62 |
-|             61 | Gideon van der Merwe     |             35.78 |        6 |             68.11 | James Botham      |             80 |
-|             52 | Oupa Mohoje              |             17.37 |        7 |             82.54 | Daniel Thomas     |             56 |
-|             62 | Jeandre Rudolph          |             49.2  |        8 |             72.19 | Taulupe Faletau   |             80 |
-|             68 | Ruben de Haas            |             76.37 |        9 |             79.74 | Aled Davies       |             46 |
-|             80 | Ethan Wentzel            |             22.52 |       10 |             91.48 | Callum Sheedy     |             77 |
-|             28 | Cohen Jasper             |             74.71 |       11 |             57.58 | Tom Bowen         |             83 |
-|             34 | Ali Mgijima              |             29.97 |       12 |             51.03 | Ben Thomas        |             47 |
-|             80 | Carel-Jan Coetzee        |             24.49 |       13 |             87.66 | Rey Lee-Lo        |             34 |
-|             20 | Munier Hartzenberg       |             81.46 |       14 |             84.13 | Josh Adams        |             19 |
-|             18 | Michael Annies           |             37.29 |       15 |             12.81 | Cameron Winnett   |             80 |
-|             69 | Hencus van Wyk           |             55.29 |       16 |             36.02 | Danny Southworth  |             70 |
-|             60 | Vernon Paulo             |            nan    |       17 |             18.62 | Dafydd Hughes     |             25 |
-|             80 | Robert Hunt              |            nan    |       18 |             18.53 | Seb Davies        |             80 |
-|             52 | Daniel Johannes Maartens |             87.38 |       19 |              7.48 | Keiron Assiratti  |             83 |
-|             46 | Friedle Olivier          |             94.64 |       20 |             12.45 | Alex Mann         |             11 |
-|             46 | Pierre-Raymond Uys       |            nan    |       21 |             71.38 | Alun Lawrence     |             80 |
-|             83 | George Lourens           |             22.72 |       22 |            nan    | Johan Mulder      |             80 |
-|             27 | Rewan Kruger             |             94.05 |       23 |             40.84 | Rory Jennings     |             61 |
+|             70 | Schalk Ferreira          |             17.36 |        1 |             72.9  | Corey Domachowski |             19 |
+|             12 | Louis van der Westhuizen |             85.51 |        2 |             68.22 | Liam Belcher      |             46 |
+|             80 | Aranos Coetzee           |             32.24 |        3 |             32.11 | Will Davies-King  |             65 |
+|             80 | Carl Wegner              |             35.28 |        4 |             82.68 | Josh McNally      |             28 |
+|             65 | Victor Sekekete          |             80.13 |        5 |              8.66 | Teddy Williams    |             19 |
+|             80 | Gideon van der Merwe     |             34.33 |        6 |             64.05 | James Botham      |             28 |
+|             10 | Oupa Mohoje              |             18.82 |        7 |             85.01 | Daniel Thomas     |             80 |
+|             18 | Jeandre Rudolph          |             53.92 |        8 |             73.29 | Taulupe Faletau   |             22 |
+|             70 | Ruben de Haas            |             72.92 |        9 |             82.72 | Aled Davies       |             80 |
+|             80 | Ethan Wentzel            |             26.12 |       10 |             90.82 | Callum Sheedy     |             40 |
+|             80 | Cohen Jasper             |             70.43 |       11 |             51.36 | Tom Bowen         |             22 |
+|             69 | Ali Mgijima              |             24.04 |       12 |             49.85 | Ben Thomas        |             31 |
+|             18 | Carel-Jan Coetzee        |             37.68 |       13 |             86.56 | Rey Lee-Lo        |             18 |
+|             80 | Munier Hartzenberg       |             79.53 |       14 |             84.82 | Josh Adams        |             52 |
+|             48 | Michael Annies           |             29.76 |       15 |             10.17 | Cameron Winnett   |             80 |
+|             80 | Hencus van Wyk           |             57.01 |       16 |             38.25 | Danny Southworth  |             65 |
+|             53 | Vernon Paulo             |            nan    |       17 |             17.45 | Dafydd Hughes     |             16 |
+|             80 | Robert Hunt              |            nan    |       18 |             14.86 | Seb Davies        |             27 |
+|             80 | Daniel Johannes Maartens |             86.54 |       19 |              8.01 | Keiron Assiratti  |             80 |
+|             62 | Friedle Olivier          |             93.61 |       20 |             10.99 | Alex Mann         |             59 |
+|             49 | Pierre-Raymond Uys       |            nan    |       21 |             75.63 | Alun Lawrence     |             58 |
+|             80 | George Lourens           |             23.06 |       22 |            nan    | Johan Mulder      |             65 |
+|             58 | Rewan Kruger             |             93.85 |       23 |             40.14 | Rory Jennings     |             80 |
 

@@ -11,7 +11,7 @@ categories: "RFU Championship 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.968, which translates to predicting Ealing Trailfinders to win by 30.8.
 
-Our Over/Under is 71.5 - and combined with the spread above, we have a predicted scoreline of 21 to 51
+Our Over/Under is 66.5 - and combined with the spread above, we have a predicted scoreline of 18 to 49
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Ealing Trailfinders by 26.2
+## Prediction without Player Minutes: Ealing Trailfinders by 26.7
 
 
-Ealing Trailfinders by 21.9 on a neutral pitch
+Ealing Trailfinders by 22.4 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Ealing Trailfinders by 21.9 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             52 | Zac Nearchou         |             28.54 |        1 |             47.69 | Elliott Chilvers    |             34 |
-|             11 | Benjamin Brownlie    |             14.24 |        2 |             76.37 | Matthew Cornish     |             47 |
-|             11 | Billy Walker         |              9.13 |        3 |             73.37 | George Davis        |             30 |
-|             80 | George Bretag-Norris |             13.96 |        4 |             95.08 | Bobby de Wee        |             37 |
-|             30 | Gareth Baxter        |             14.31 |        5 |             44.95 | Sean Lonsdale       |             20 |
-|             34 | Kayde Sylvester      |             40.54 |        6 |             58.17 | Danny Bridge        |             80 |
-|             36 | Jared Cardew         |              9.85 |        7 |             72.86 | Siya Ningiza        |             71 |
-|             40 | Matthew Dawson       |             13.99 |        8 |             85.85 | Ryan Smid           |             52 |
-|             80 | Ruaridh Dawson       |             57.88 |        9 |             90.03 | Lloyd Williams      |             35 |
-|             61 | Louis Grimoldby      |             10.95 |       10 |             75.46 | Dan Jones           |             46 |
-|             40 | William Glister      |             29.85 |       11 |             79.42 | Michael Dykes       |             66 |
-|             70 | Matthew Hema         |             11.26 |       12 |             84.92 | Jordan Holgate      |             50 |
-|             24 | Sam Hanks            |              1.18 |       13 |             80.9  | Reuben Bird-Tulloch |             46 |
-|             70 | Josh Skelcey         |             14.93 |       14 |             44.07 | Ben Harris          |             56 |
-|             15 | Elias Caven          |              4.52 |       15 |             80.04 | Tobi Wilson         |             52 |
-|             81 | Ollie Scola          |            nan    |       16 |            nan    | James Kenny         |             80 |
-|             40 | Morgan Veness        |              6.57 |       17 |             79.03 | Cameron Terry       |             33 |
-|             86 | Jake Bridges         |             19.66 |       18 |             71.85 | Kyle John Whyte     |             80 |
-|             19 | Iestyn Rees          |             28.36 |       19 |             25.99 | Matas Jurevicius    |             80 |
-|             86 | Archie Benson        |             26.05 |       20 |             91.36 | Simon Uzokwe        |             80 |
-|             29 | Joseph Tarrant       |             19.96 |       21 |             84.73 | Craig Hampson       |             19 |
-|             34 | Matt Williams        |             10.84 |       22 |             98.17 | Craig Willis        |             52 |
-|            nan | nan                  |            nan    |       23 |             40.35 | Francis Moore       |             80 |
+|             80 | Zac Nearchou         |             29.17 |        1 |             47.86 | Elliott Chilvers    |             34 |
+|             80 | Benjamin Brownlie    |             11.06 |        2 |             80.84 | Matthew Cornish     |             80 |
+|             80 | Billy Walker         |             10.01 |        3 |             77.37 | George Davis        |             40 |
+|             37 | George Bretag-Norris |             10.67 |        4 |             95.17 | Bobby de Wee        |             43 |
+|             34 | Gareth Baxter        |             11.39 |        5 |             40.11 | Sean Lonsdale       |             36 |
+|             30 | Kayde Sylvester      |             33.9  |        6 |             54.68 | Danny Bridge        |             40 |
+|             45 | Jared Cardew         |              8.26 |        7 |             71.12 | Siya Ningiza        |             31 |
+|             24 | Matthew Dawson       |             18.53 |        8 |             92.32 | Ryan Smid           |             80 |
+|             61 | Ruaridh Dawson       |             57.31 |        9 |             90.7  | Lloyd Williams      |             40 |
+|             35 | Louis Grimoldby      |             11.22 |       10 |             76.33 | Dan Jones           |             19 |
+|             47 | William Glister      |             41.09 |       11 |             78.05 | Michael Dykes       |             80 |
+|             56 | Matthew Hema         |              8.54 |       12 |             83.42 | Jordan Holgate      |             80 |
+|             80 | Sam Hanks            |              1.67 |       13 |             78.61 | Reuben Bird-Tulloch |             80 |
+|             12 | Josh Skelcey         |             14.55 |       14 |             42.1  | Ben Harris          |             80 |
+|             12 | Elias Caven          |              2.4  |       15 |             77.26 | Tobi Wilson         |             80 |
+|             16 | Ollie Scola          |            nan    |       16 |            nan    | James Kenny         |             46 |
+|             24 | Morgan Veness        |              7.17 |       17 |             77.73 | Cameron Terry       |             56 |
+|             29 | Jake Bridges         |             20.43 |       18 |             74.5  | Kyle John Whyte     |             80 |
+|             60 | Iestyn Rees          |             20.33 |       19 |             23.15 | Matas Jurevicius    |             50 |
+|             52 | Archie Benson        |             29.72 |       20 |             90.37 | Simon Uzokwe        |             80 |
+|             29 | Joseph Tarrant       |             18.3  |       21 |             86.38 | Craig Hampson       |             49 |
+|             80 | Matt Williams        |             10.82 |       22 |             97.76 | Craig Willis        |             24 |
+|            nan | nan                  |            nan    |       23 |             37.19 | Francis Moore       |             33 |
 

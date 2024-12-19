@@ -11,7 +11,7 @@ categories: "Pro D2 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.694, which translates to predicting Oyonnax to win by 7.2.
 
-Our Over/Under is 57.5 - and combined with the spread above, we have a predicted scoreline of 25 to 33
+Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 20 to 28
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Oyonnax by 6.0
+## Prediction without Player Minutes: Oyonnax by 5.3
 
 
-Soyaux-Angouleme by 7.3 on a neutral pitch
+Soyaux-Angouleme by 8.0 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Soyaux-Angouleme by 7.3 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player       |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:------------------|---------------:|
-|             40 | Vivien Devisme     |             75.71 |        1 |             18.52 | Adrien Bordenave  |             55 |
-|             80 | Rayne Barka        |             87.32 |        2 |             91.86 | Peniami Narisia   |             80 |
-|             80 | Karl Sorin         |             31.77 |        3 |             21.94 | Ali Oz            |              8 |
-|             62 | Léo Morand-Bruyat  |             77.96 |        4 |             95    | Phoenix Battye    |             51 |
-|             76 | Enzo Morand-Bruyat |             66.55 |        5 |             38.45 | Ewan Johnson      |             29 |
-|             80 | Gautier Gibouin    |             12.1  |        6 |             22.99 | Kevin Lebreton    |             80 |
-|             11 | Hubert Texier      |             42.18 |        7 |             15.64 | Hugo Hermet       |             29 |
-|             25 | Samuel Nollet      |             17.85 |        8 |              3.05 | Loic Godener      |             52 |
-|             25 | Adrien Bau         |              6.59 |        9 |             93.89 | Jonathan Ruru     |             80 |
-|             65 | Ben Botica         |             85.8  |       10 |             74.44 | Zack Holmes       |             80 |
-|             25 | Katende Tumba      |             43.28 |       11 |              9.9  | Gavin Stark       |             56 |
-|             80 | George Tilsley     |             93.05 |       12 |             58.57 | Maelan Rabut      |             29 |
-|             40 | Mathis Lafon       |             57.3  |       13 |              4.6  | Edward Sawailau   |             80 |
-|             80 | Eoghan Barrett     |             69.84 |       14 |             77.3  | Daniel Ikpefan    |             80 |
-|             24 | Jonny May          |             20.72 |       15 |             51.04 | Martin Bogado     |             29 |
-|             51 | Alexander Masibaka |             69.29 |       16 |             16.97 | Maxime Salles     |             80 |
-|             80 | Arthur Proult      |              9.6  |       17 |             77.87 | Wandrille Picault |             80 |
-|             80 | Lucas Zamora       |             49.52 |       18 |             71.4  | Paulo Tafili      |             80 |
-|             51 | Germain Burgaud    |             85.05 |       19 |             65.76 | Antoine Abraham   |             80 |
-|             21 | Patxi Bidart       |             78.4  |       20 |             14.4  | Victor Lebas      |             80 |
-|             80 | Léo Labarthe       |             58.56 |       21 |             25.67 | Benjamin Geledan  |             80 |
-|            nan | nan                |            nan    |       22 |             10.61 | Vasil Lobzhanidze |             80 |
-|             21 | Seydou Diakité     |             61.32 |       23 |             53.75 | Chris Smith       |             21 |
+|             65 | Vivien Devisme     |             77.17 |        1 |             21.3  | Adrien Bordenave  |             80 |
+|             59 | Rayne Barka        |             87.38 |        2 |             89.72 | Peniami Narisia   |             56 |
+|             80 | Karl Sorin         |             43.26 |        3 |             16.82 | Ali Oz            |             13 |
+|             69 | Léo Morand-Bruyat  |             75.11 |        4 |             94.71 | Phoenix Battye    |             53 |
+|              1 | Enzo Morand-Bruyat |             72.56 |        5 |             38.65 | Ewan Johnson      |             80 |
+|             62 | Gautier Gibouin    |             12.69 |        6 |             25.89 | Kevin Lebreton    |             80 |
+|             59 | Hubert Texier      |             40.89 |        7 |             19.42 | Hugo Hermet       |             80 |
+|             76 | Samuel Nollet      |             19.53 |        8 |              3.51 | Loic Godener      |             53 |
+|             47 | Adrien Bau         |              4.82 |        9 |             93.02 | Jonathan Ruru     |             52 |
+|             41 | Ben Botica         |             87.35 |       10 |             70.2  | Zack Holmes       |             29 |
+|             80 | Katende Tumba      |             32.61 |       11 |              9.73 | Gavin Stark       |             29 |
+|             40 | George Tilsley     |             93.82 |       12 |             67.62 | Maelan Rabut      |             80 |
+|             80 | Mathis Lafon       |             54.56 |       13 |              5.79 | Edward Sawailau   |             80 |
+|             80 | Eoghan Barrett     |             70.82 |       14 |             78.37 | Daniel Ikpefan    |             80 |
+|             47 | Jonny May          |             11.83 |       15 |             58.96 | Martin Bogado     |             80 |
+|             80 | Alexander Masibaka |             74.79 |       16 |             16.42 | Maxime Salles     |             64 |
+|             80 | Arthur Proult      |             10.6  |       17 |             76.58 | Wandrille Picault |             45 |
+|             62 | Lucas Zamora       |             48.5  |       18 |             74.23 | Paulo Tafili      |             55 |
+|             80 | Germain Burgaud    |             84.75 |       19 |             67.42 | Antoine Abraham   |             55 |
+|             80 | Patxi Bidart       |             78.97 |       20 |             11.67 | Victor Lebas      |             55 |
+|             76 | Léo Labarthe       |             61.8  |       21 |             25.7  | Benjamin Geledan  |             80 |
+|            nan | nan                |            nan    |       22 |             10.8  | Vasil Lobzhanidze |             72 |
+|             80 | Seydou Diakité     |             65.15 |       23 |             64.69 | Chris Smith       |             48 |
 

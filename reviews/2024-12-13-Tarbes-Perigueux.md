@@ -9,9 +9,9 @@ categories: "Nationale 2024" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.46, which translates to predicting Périgueux to win by 1.4.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.447, which translates to predicting Périgueux to win by 1.9.
 
-Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 23 to 22
+Our Over/Under is 41.5 - and combined with the spread above, we have a predicted scoreline of 22 to 20
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Tarbes by 3.6
+## Prediction without Player Minutes: Tarbes by 2.1
 
 
-Périgueux by 7.1 on a neutral pitch
+Périgueux by 8.6 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Périgueux by 7.1 on a neutral pitch
 
 |   Away Minutes | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             80 | Thomas Vidal      |             64.49 |        1 |             30.75 | Enzo Baggiani       |             35 |
-|             48 | Manu Leiataua     |              4.23 |        2 |             55.87 | Florian Lamothe     |             80 |
-|             80 | Kalaveti Tawake   |             35.26 |        3 |             38.11 | Luka Vea            |             51 |
-|             51 | Clement Lanen     |             73.4  |        4 |             83.58 | Baptiste Peytavi    |             69 |
-|             32 | Damien Lavergne   |             74.89 |        5 |              2.63 | Filipe Manu         |             80 |
-|             80 | Hendri Storm      |             43.82 |        6 |             99.31 | Alexis Armary       |             62 |
-|             59 | Madioke Konate    |             72.17 |        7 |             16.77 | Spike Salman        |             62 |
-|             69 | Nahum Merigan     |             59.32 |        8 |             26.69 | Joeli Matalaweru    |             80 |
-|             29 | Max Green         |             83.6  |        9 |             53.05 | Mickael Thébault    |             80 |
-|             34 | Juan Kotze        |             82.56 |       10 |             12.17 | Alexandre Perez     |             80 |
-|             80 | Fred Hickes       |             91.2  |       11 |             20.11 | Johan Paulet        |             80 |
-|             80 | Cyril Couturier   |             78.06 |       12 |              3.23 | Savenaca Rawaca     |             80 |
-|             26 | Dorian Lavernhe   |             81.1  |       13 |             14.3  | Maile Mamao         |             17 |
-|             80 | Vincent Fouillade |             89    |       14 |             82.8  | Clement Latorre     |             27 |
-|             80 | Yon Camou         |             13.56 |       15 |             39.36 | Amona Artaud        |             27 |
-|             80 | Jason Tindiliere  |             40.08 |       16 |             15.16 | Ximun Bessonart     |             67 |
-|             56 | Louis Martin      |             83.41 |       17 |             70.45 | Irakli Mirtskhulava |             62 |
-|             46 | Anthony Pelmard   |             78.12 |       18 |             10.8  | Vincent Dolier      |             51 |
-|             34 | Mathieu Pace      |             80.16 |       19 |             38.54 | Mathieu Soufflet    |             62 |
-|             39 | Afaesetiti Amosa  |             96.11 |       20 |             21.51 | Léo Saint-Guilhem   |             41 |
-|             80 | Karl Lambert      |             60.61 |       21 |             45.72 | Matias Brocal       |             80 |
-|             80 | Matteo Bordenave  |             72.51 |       22 |             43.21 | Osea Waqaninavatu   |             46 |
-|             76 | Anderson Neisen   |             76.06 |       23 |             35.97 | Kevin Lhomy         |             59 |
+|             80 | Thomas Vidal      |             69.63 |        1 |             35.38 | Enzo Baggiani       |             80 |
+|             80 | Manu Leiataua     |              4.83 |        2 |             59.35 | Florian Lamothe     |             19 |
+|             62 | Kalaveti Tawake   |             46.26 |        3 |             25.03 | Luka Vea            |              8 |
+|             80 | Clement Lanen     |             73.66 |        4 |             79.31 | Baptiste Peytavi    |             27 |
+|             62 | Damien Lavergne   |             74.38 |        5 |              1.09 | Filipe Manu         |             80 |
+|             69 | Hendri Storm      |             57.24 |        6 |             98.04 | Alexis Armary       |             80 |
+|             51 | Madioke Konate    |             75.13 |        7 |             15.25 | Spike Salman        |             80 |
+|             80 | Nahum Merigan     |             62.27 |        8 |             25.88 | Joeli Matalaweru    |             40 |
+|             53 | Max Green         |             85.71 |        9 |             45.51 | Mickael Thébault    |             80 |
+|             80 | Juan Kotze        |             83.47 |       10 |             16.33 | Alexandre Perez     |             80 |
+|             67 | Fred Hickes       |             91.28 |       11 |             16.11 | Johan Paulet        |             52 |
+|             80 | Cyril Couturier   |             77.43 |       12 |              5.59 | Savenaca Rawaca     |             80 |
+|             80 | Dorian Lavernhe   |             78.02 |       13 |             15.11 | Maile Mamao         |             80 |
+|             21 | Vincent Fouillade |             90.66 |       14 |             76.73 | Clement Latorre     |             80 |
+|             80 | Yon Camou         |             11.28 |       15 |             32.72 | Amona Artaud        |             80 |
+|             53 | Jason Tindiliere  |             40.72 |       16 |             12.95 | Ximun Bessonart     |             35 |
+|             80 | Louis Martin      |             83.33 |       17 |             73.16 | Irakli Mirtskhulava |             80 |
+|             80 | Anthony Pelmard   |             79.91 |       18 |             25.23 | Vincent Dolier      |             28 |
+|             63 | Mathieu Pace      |             81.4  |       19 |             36.74 | Mathieu Soufflet    |             57 |
+|             13 | Afaesetiti Amosa  |             95.4  |       20 |             14.77 | Léo Saint-Guilhem   |             80 |
+|             71 | Karl Lambert      |             67.11 |       21 |             44.2  | Matias Brocal       |             80 |
+|             53 | Matteo Bordenave  |             61.96 |       22 |             63.42 | Osea Waqaninavatu   |             80 |
+|             25 | Anderson Neisen   |             78.37 |       23 |             33.64 | Kevin Lhomy         |             51 |
 

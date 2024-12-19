@@ -18,9 +18,9 @@ Last Round Accuracy: 5 of 5 (100.0%)
 
 Last Round Error: 12.78 points per match
 
-[2024-12-14 Harlequins Women at Loughborough Lightning; 40-22](reviews//2024-12-14-LoughboroughLightning-HarlequinsWomen)
-
 [2024-12-14 Saracens Women at Gloucester-Hartpury Women; 31-47](reviews//2024-12-14-Gloucester-HartpuryWomen-SaracensWomen)
+
+[2024-12-14 Harlequins Women at Loughborough Lightning; 40-22](reviews//2024-12-14-LoughboroughLightning-HarlequinsWomen)
 
 [2024-12-14 Exeter Chiefs Women at Ealing Trailfinders Women; 41-22](reviews//2024-12-14-EalingTrailfindersWomen-ExeterChiefsWomen)
 
@@ -130,11 +130,11 @@ Last Round Error: 18.31 points per match
 
 [2024-12-13 Chinnor at Nottingham; 15-19](reviews//2024-12-13-Nottingham-Chinnor)
 
-[2024-12-14 Caldy at Doncaster; 0-22](reviews//2024-12-14-Doncaster-Caldy)
+[2024-12-14 Coventry at Cornish Pirates; 14-46](reviews//2024-12-14-CornishPirates-Coventry)
 
 [2024-12-14 Cambridge at Ealing Trailfinders; 7-95](reviews//2024-12-14-EalingTrailfinders-Cambridge)
 
-[2024-12-14 Coventry at Cornish Pirates; 14-46](reviews//2024-12-14-CornishPirates-Coventry)
+[2024-12-14 Caldy at Doncaster; 0-22](reviews//2024-12-14-Doncaster-Caldy)
 
 [2024-12-15 Bedford at London Scottish; 22-20](reviews//2024-12-15-LondonScottish-Bedford)
 # Domestic Leagues
@@ -146,11 +146,11 @@ Last Round Error: 18.31 points per match
 
 Competition Accuracy: 70 of 98 (71.43%)
 
-Competition Error: 10.21 points per match
+Competition Error: 10.07 points per match
 
 Last Round Accuracy: 3 of 7 (42.86%)
 
-Last Round Error: 9.67 points per match
+Last Round Error: 9.66 points per match
 
 [2024-12-13 Perigueux at Tarbes; 23-30](reviews//2024-12-13-Tarbes-Perigueux)
 
@@ -158,9 +158,9 @@ Last Round Error: 9.67 points per match
 
 [2024-12-13 US Bressane at Rouen; 20-20](reviews//2024-12-13-Rouen-USBressane)
 
-[2024-12-14 Narbonne at Suresnes; 20-19](reviews//2024-12-14-Suresnes-Narbonne)
-
 [2024-12-14 Bourgoin-Jallieu at Chambery; 0-24](reviews//2024-12-14-Chambery-Bourgoin-Jallieu)
+
+[2024-12-14 Narbonne at Suresnes; 20-19](reviews//2024-12-14-Suresnes-Narbonne)
 
 [2024-12-14 Massy at Carqueiranne-Hyeres; 25-0](reviews//2024-12-14-Carqueiranne-Hyeres-Massy)
 

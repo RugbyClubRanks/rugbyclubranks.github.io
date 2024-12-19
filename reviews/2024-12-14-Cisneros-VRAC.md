@@ -11,7 +11,7 @@ categories: "Division de Honor de Rugby 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.383, which translates to predicting VRAC to win by 4.3.
 
-Our Over/Under is 40.5 - and combined with the spread above, we have a predicted scoreline of 22 to 18
+Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 24 to 20
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: VRAC by 7.5
+## Prediction without Player Minutes: VRAC by 7.6
 
 
-VRAC by 11.2 on a neutral pitch
+VRAC by 11.4 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ VRAC by 11.2 on a neutral pitch
 
 |   Away Minutes | Away Player                 |   Away Percentile |   Number |   Home Percentile | Home Player             |   Home Minutes |
 |---------------:|:----------------------------|------------------:|---------:|------------------:|:------------------------|---------------:|
-|             46 | Marcos Muniz                |             88.46 |        1 |             77.62 | Andres Vallejo          |             80 |
-|             46 | Tsotne Tchurumbindze        |             91.55 |        2 |             64.16 | Gonzalo Gonzalez        |             29 |
-|             80 | Giorgi Turabelidze          |             63.47 |        3 |             37.73 | Hugo Gonzalez Hernandez |             68 |
-|             26 | Arnau Ojeda Galvez          |             65.94 |        4 |             88.59 | Tomas Antozzi           |             28 |
-|             80 | Kalokalo (Carlos) Gavidi    |             98.07 |        5 |             39.33 | Pablo Riva Boal         |             80 |
-|             80 | Marc Sanchez                |             93.52 |        6 |             71.13 | Manex Pujana Lendinez   |             51 |
-|             13 | Alex Saleta                 |             38.81 |        7 |             78.31 | Abraham Tamargo         |             12 |
-|             12 | Maxim Ermakov               |             50.96 |        8 |             70.42 | Guillermo Moreton       |             23 |
-|             80 | Mauro Perotti               |             97.75 |        9 |             52.57 | Nicolas Infer Arias     |              9 |
-|             80 | Sam Hollingsworth           |             77.69 |       10 |             77.08 | Ike Irusta              |             80 |
-|             80 | Pedro Luis de la Lastra     |             89.16 |       11 |             42.89 | Miguel Perez            |             80 |
-|             80 | Balthazar Taibo             |             84.04 |       12 |             79.63 | Juan Fonseca            |             11 |
-|             18 | Francisco Gonzalez del Pino |             62.98 |       13 |             40.25 | Pablo Martinez Sanchez  |             39 |
-|             68 | Miguel Lainz                |             94.58 |       14 |             39.12 | Francisco Soriano       |             34 |
-|             20 | Martiniano Cian             |             85.12 |       15 |             62.9  | Lucas Nicolas Armani    |             39 |
-|             11 | Pablo Miejimolle Ligero     |             92.33 |       16 |             52.33 | Xabier Gonzalez         |             27 |
-|             68 | Teodoro Marcos              |             55.58 |       17 |            nan    | Adrian Plaza Pegueroles |             31 |
-|             41 | Raul Calzon                 |             57.83 |       18 |             76.4  | Robert Edginton         |             80 |
-|             51 | Alejandro Alonso Munoz      |             78.55 |       19 |             79.34 | Andres Petros           |             80 |
-|             80 | Mauro Genco                 |             86.11 |       20 |             41.85 | Nicolas Fernandez-Duran |             18 |
-|             26 | Gabriel Velez               |             58.84 |       21 |             89.9  | Jorge Gonzalez          |             34 |
-|              4 | Alex Perez                  |             47.23 |       22 |            nan    | Nicolas Hinojosa        |             28 |
-|             41 | Gonzalo Dominguez           |             45.34 |       23 |             45.01 | Salvador Guardiola      |             28 |
+|             80 | Marcos Muniz                |             91.92 |        1 |             79.97 | Andres Vallejo          |             28 |
+|             80 | Tsotne Tchurumbindze        |             92.99 |        2 |             40.19 | Gonzalo Gonzalez        |             80 |
+|             80 | Giorgi Turabelidze          |             70.69 |        3 |             29.04 | Hugo Gonzalez Hernandez |             80 |
+|             57 | Arnau Ojeda Galvez          |             70.56 |        4 |             85.69 | Tomas Antozzi           |             28 |
+|             56 | Kalokalo (Carlos) Gavidi    |             96.99 |        5 |             31.45 | Pablo Riva Boal         |             59 |
+|             23 | Marc Sanchez                |             91.31 |        6 |             72.06 | Manex Pujana Lendinez   |             28 |
+|             80 | Alex Saleta                 |             59.45 |        7 |             76.75 | Abraham Tamargo         |             12 |
+|             80 | Maxim Ermakov               |             64.94 |        8 |             75.79 | Guillermo Moreton       |              9 |
+|             20 | Mauro Perotti               |             97.34 |        9 |             51.66 | Nicolas Infer Arias     |              8 |
+|             46 | Sam Hollingsworth           |             76.73 |       10 |             73.67 | Ike Irusta              |             62 |
+|             31 | Pedro Luis de la Lastra     |             88.72 |       11 |             34.09 | Miguel Perez            |             80 |
+|             57 | Balthazar Taibo             |             84.4  |       12 |             76.64 | Juan Fonseca            |             80 |
+|             23 | Francisco Gonzalez del Pino |             64.97 |       13 |             37.78 | Pablo Martinez Sanchez  |             80 |
+|             27 | Miguel Lainz                |             93.85 |       14 |             53.39 | Francisco Soriano       |              7 |
+|             13 | Martiniano Cian             |             85.21 |       15 |             50.65 | Lucas Nicolas Armani    |             80 |
+|             24 | Pablo Miejimolle Ligero     |             91.59 |       16 |             52.24 | Xabier Gonzalez         |             80 |
+|             69 | Teodoro Marcos              |             55.51 |       17 |            nan    | Adrian Plaza Pegueroles |             80 |
+|             80 | Raul Calzon                 |             59.41 |       18 |             76.41 | Robert Edginton         |             39 |
+|             23 | Alejandro Alonso Munoz      |             77.92 |       19 |             84.27 | Andres Petros           |             80 |
+|             11 | Mauro Genco                 |             89.19 |       20 |             40.25 | Nicolas Fernandez-Duran |             28 |
+|             52 | Gabriel Velez               |             61.94 |       21 |             89.43 | Jorge Gonzalez          |             80 |
+|             52 | Alex Perez                  |             44.48 |       22 |            nan    | Nicolas Hinojosa        |             52 |
+|             52 | Gonzalo Dominguez           |             43.36 |       23 |             53.85 | Salvador Guardiola      |             69 |
 

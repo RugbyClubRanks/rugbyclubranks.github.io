@@ -11,7 +11,7 @@ categories: "European Rugby Champions Cup 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.83, which translates to predicting Leinster to win by 13.9.
 
-Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 20 to 34
+Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 18 to 32
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Leinster by 30.0
+## Prediction without Player Minutes: Leinster by 27.3
 
 
-Leinster by 19.9 on a neutral pitch
+Leinster by 17.2 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,30 +69,27 @@ Leinster by 19.9 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             57 | Etienne Falgoux      |             76.41 |        1 |             80.22 | Andrew Porter       |             33 |
-|             29 | Etienne Fourcade     |             85.6  |        2 |             73.71 | Ronan Kelleher      |             48 |
-|             81 | Michael Ala'alatoa   |             85.73 |        3 |             82.82 | Thomas Clarkson     |             18 |
-|             41 | Peceli Yato          |             50.13 |        4 |             25.72 | Joe McCarthy        |             40 |
-|             78 | Rob Simmons          |             93.33 |        5 |             95.52 | James Ryan          |             55 |
-|             40 | Killian Tixeront     |             83.58 |        6 |             97.49 | Max Deegan          |             81 |
-|             29 | Alexandre Fischer    |             82.37 |        7 |             95.25 | Josh van der Flier  |             68 |
-|             31 | Fritz Lee            |             80.39 |        8 |             71.22 | Caelan Doris        |             81 |
-|             10 | Baptiste Jauneau     |             83.12 |        9 |             94.37 | Jamison Gibson-Park |             33 |
-|             80 | Irae Simone          |             61.26 |       10 |              8.11 | Sam Prendergast     |              5 |
-|             80 | Alivereti Raka       |             15.08 |       11 |             91.04 | Jimmy O'Brien       |             33 |
-|             13 | George Moala         |             93.83 |       12 |             89.81 | Robbie Henshaw      |              6 |
-|             65 | Pierre Fouyssac      |             20.57 |       13 |             99.61 | Garry Ringrose      |             33 |
-|             27 | Lucas Tauzin         |             87.82 |       14 |             76.67 | Liam Turner         |             33 |
-|             80 | Alex Newsome         |             75.52 |       15 |             91.15 | Jordie Barrett      |             81 |
-|             83 | Barnabe Massa        |             76.84 |       16 |            100    | Gus McCarthy        |             81 |
-|             83 | Barnabe Massa        |             76.84 |       16 |            100    | Gus McCarthy        |             29 |
-|             48 | Giorgi Akhaladze     |             20.16 |       17 |             83.51 | Cian Healy          |             13 |
-|             81 | Cristian Ojovan      |             42.61 |       18 |             93.09 | Rabah Slimani       |             31 |
-|             81 | Cristian Ojovan      |             42.61 |       18 |             93.09 | Rabah Slimani       |             48 |
-|             81 | Cristian Ojovan      |             42.61 |       18 |             93.09 | Rabah Slimani       |             81 |
-|             41 | Oskar Rixen          |             38.02 |       19 |             99.82 | RG Snyman           |             26 |
-|             60 | Antoine Chalus-Cercy |            nan    |       20 |             86.17 | Jack Conan          |             62 |
-|             83 | Sebastien Bezy       |             82.32 |       21 |            nan    | Fintan Gunne        |             81 |
-|             23 | Benjamin Urdapilleta |             81.95 |       22 |             98.38 | Ross Byrne          |             83 |
-|             70 | Theo Giral           |            nan    |       23 |             73.53 | Andrew Osborne      |             53 |
+|             80 | Etienne Falgoux      |             85.18 |        1 |             81.04 | Andrew Porter       |             36 |
+|             80 | Etienne Fourcade     |             87.23 |        2 |             73.36 | Ronan Kelleher      |             33 |
+|             80 | Michael Ala'alatoa   |             88.92 |        3 |             85.98 | Thomas Clarkson     |             44 |
+|             17 | Peceli Yato Senibitu |             89.15 |        4 |             28.62 | Joe McCarthy        |             67 |
+|             80 | Rob Simmons          |             93.07 |        5 |             96.26 | James Ryan          |             80 |
+|             80 | Killian Tixeront     |             83.3  |        6 |             97.19 | Max Deegan          |             61 |
+|             15 | Alexandre Fischer    |             86.46 |        7 |             93.78 | Josh van der Flier  |             80 |
+|             47 | Fritz Lee            |             85.48 |        8 |             79.8  | Caelan Doris        |             40 |
+|             47 | Baptiste Jauneau     |             83.39 |        9 |             94.68 | Jamison Gibson-Park |             51 |
+|             24 | Irae Simone          |             27.35 |       10 |              9.18 | Sam Prendergast     |             65 |
+|             33 | Alivereti Raka       |             13.39 |       11 |             93.07 | Jimmy O'Brien       |             76 |
+|             80 | George Moala         |             95.58 |       12 |             86.36 | Robbie Henshaw      |             25 |
+|             80 | Pierre Fouyssac      |             31.4  |       13 |             99.41 | Garry Ringrose      |             15 |
+|             80 | Lucas Tauzin         |             89.96 |       14 |             83.27 | Liam Turner         |             47 |
+|             80 | Alex Newsome         |             71.9  |       15 |             88.35 | Jordie Barrett      |             30 |
+|             56 | Giorgi Akhaladze     |             20.83 |       16 |            100    | Gus McCarthy        |             47 |
+|             25 | Barnabe Massa        |             81.15 |       17 |             97.4  | Rabah Slimani       |             40 |
+|             80 | Cristian Ojovan      |             38.92 |       18 |             85.71 | Cian Healy          |             80 |
+|             80 | Oskar Rixen          |             36.46 |       19 |             99.91 | RG Snyman           |             14 |
+|             64 | Antoine Chalus       |            nan    |       20 |             92.65 | Jack Conan          |             80 |
+|             64 | Sebastien Bezy       |             85.55 |       21 |             98.57 | Ross Byrne          |             66 |
+|             80 | Benjamin Urdapilleta |             81.02 |       22 |            nan    | Fintan Gunne        |             80 |
+|             47 | Théo Giral           |            nan    |       23 |             82.72 | Andrew Osborne      |             80 |
 

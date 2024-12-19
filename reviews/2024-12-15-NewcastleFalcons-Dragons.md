@@ -11,7 +11,7 @@ categories: "European Rugby Challenge Cup 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.668, which translates to predicting Newcastle Falcons to win by 6.2.
 
-Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 23 to 29
+Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 21 to 27
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Newcastle Falcons by 14.8
+## Prediction without Player Minutes: Newcastle Falcons by 10.6
 
 
-Newcastle Falcons by 0.9 on a neutral pitch
+Dragons by 3.2 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,31 +69,32 @@ Newcastle Falcons by 0.9 on a neutral pitch
 
 |   Away Minutes | Away Player      |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:-----------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             27 | Rodrigo Martinez |             62.65 |        1 |             65.69 | Murray McCallum     |             81 |
-|             81 | Brodie Coghlan   |             56.49 |        2 |             53.21 | Ollie Fletcher      |             71 |
-|             73 | Chris Coleman    |             16.23 |        3 |             41.79 | Callum Hancock      |             81 |
-|             81 | Steven Cummins   |             15.72 |        4 |              5.36 | Sebastian de Chaves |             59 |
-|             81 | George Nott      |             12.91 |        5 |             27.66 | Kiran McDonald      |             15 |
-|             81 | Ryan Woodman     |             38.98 |        6 |             59.12 | Freddie Lockwood    |             40 |
-|             15 | Dan Lydiate      |             42.09 |        7 |             98.62 | Tom Gordon          |             81 |
-|             35 | Aaron Wainwright |             17.52 |        8 |             65.27 | Callum Chick        |             81 |
-|             35 | Aaron Wainwright |             17.52 |        8 |             65.27 | Callum Chick        |             78 |
-|              3 | Che Hope         |             45.18 |        9 |              1.93 | Sam Stuart          |             63 |
-|              0 | Angus O'Brien    |             10.14 |       10 |             70.39 | Kieran Wilkinson    |             41 |
-|              0 | Oli Andrew       |             46.35 |       11 |             56.64 | Ben Stevenson       |             81 |
-|             20 | Aneurin Owen     |             68.95 |       12 |             61.02 | Connor Doherty      |             81 |
-|             15 | Joe Westwood     |             64.84 |       13 |             56.71 | Alex Hearle         |             48 |
-|             81 | Ewan Rosser      |             32.91 |       14 |             22.78 | Adam Radwan         |             49 |
-|             51 | Huw Anderson     |             44.82 |       15 |             87.01 | Ben Redshaw         |             81 |
-|             61 | Oli Burrows      |            nan    |       16 |             70.11 | Bryan Byrne         |             41 |
-|             81 | Josh Reynolds    |             27.77 |       17 |            nan    | Mike Rewcastle      |             66 |
-|             81 | Paula Latu       |            nan    |       18 |            nan    | Connor Hancock      |             54 |
-|             81 | Nick Thomas      |            nan    |       19 |            nan    | Finn Baker          |             66 |
-|             61 | Evan Minto       |            nan    |       20 |            nan    | Ollie Leatherbarrow |             81 |
-|             15 | Rhodri Williams  |             86.98 |       21 |             45.82 | Hugh O'Sullivan     |             81 |
-|             81 | Cai Evans        |             12.99 |       22 |              1.83 | Brett Connon        |             66 |
-|             30 | Harry Wilson     |             97.55 |       23 |             76.59 | Oliver Spencer      |             81 |
-|             81 | Harry Wilson     |             97.55 |       23 |             76.59 | Oliver Spencer      |             81 |
-|             75 | Harry Wilson     |             97.55 |       23 |             76.59 | Oliver Spencer      |             81 |
-|             57 | Harry Wilson     |             97.55 |       23 |             76.59 | Oliver Spencer      |             81 |
+|             20 | Rodrigo Martinez |             68.89 |        1 |             63.75 | Murray McCallum     |             81 |
+|             33 | Brodie Coghlan   |             59.03 |        2 |             54.67 | Ollie Fletcher      |             15 |
+|             41 | Chris Coleman    |             30.84 |        3 |             30.71 | Callum Hancock      |             81 |
+|             32 | Steven Cummins   |             13.22 |        4 |              2.46 | Sebastian de Chaves |             56 |
+|             48 | George Nott      |              6.93 |        5 |             17.87 | Kiran McDonald      |             81 |
+|             71 | Ryan Woodman     |             67.04 |        6 |             56.13 | Freddie Lockwood    |             81 |
+|             40 | Dan Lydiate      |             37.14 |        7 |             96    | Tom Gordon          |             20 |
+|             40 | Aaron Wainwright |             24.04 |        8 |             17.28 | Callum Chick        |             81 |
+|             40 | Aaron Wainwright |             24.04 |        8 |             17.28 | Callum Chick        |             15 |
+|             40 | Aaron Wainwright |             24.04 |        8 |             17.28 | Callum Chick        |              0 |
+|             40 | Aaron Wainwright |             24.04 |        8 |             17.28 | Callum Chick        |             51 |
+|             81 | Che Hope         |             46.51 |        9 |              0.66 | Sam Stuart          |             30 |
+|             15 | Angus O'Brien    |             18.98 |       10 |             73.06 | Kieran Wilkinson    |             25 |
+|             81 | Oli Andrew       |             46.93 |       11 |             42.18 | Ben Stevenson       |             61 |
+|             81 | Aneurin Owen     |             72.03 |       12 |             57.61 | Connor Doherty      |             61 |
+|             66 | Joe Westwood     |             63.98 |       13 |             57.41 | Alex Hearle         |             61 |
+|             66 | Ewan Rosser      |             26.61 |       14 |             24.51 | Adam Radwan         |             81 |
+|             78 | Huw Anderson     |             42.14 |       15 |             82.62 | Ben Redshaw         |             59 |
+|             81 | Oli Burrows      |            nan    |       16 |             69.94 | Bryan Byrne         |             66 |
+|             49 | Josh Reynolds    |             39.12 |       17 |            nan    | Mike Rewcastle      |             78 |
+|             81 | Paula Latu       |            nan    |       18 |            nan    | Connor Hancock      |             30 |
+|             22 | Nick Thomas      |            nan    |       19 |            nan    | Finn Baker          |             20 |
+|             41 | Evan Minto       |            nan    |       20 |            nan    | Ollie Leatherbarrow |             81 |
+|             81 | Rhodri Williams  |             84.88 |       21 |             44.19 | Hugh O'Sullivan     |             51 |
+|             66 | Cai Evans        |             11.46 |       22 |              1.63 | Brett Connon        |             61 |
+|              8 | Harry Wilson     |             98.92 |       23 |             75.72 | Oliver Spencer      |             81 |
+|             54 | Harry Wilson     |             98.92 |       23 |             75.72 | Oliver Spencer      |             81 |
+|             81 | Harry Wilson     |             98.92 |       23 |             75.72 | Oliver Spencer      |             81 |
 

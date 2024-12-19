@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Perpignan by 29.1
+## Prediction without Player Minutes: Perpignan by 24.6
 
 
-Perpignan by 14.2 on a neutral pitch
+Perpignan by 9.7 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,37 +69,35 @@ Perpignan by 14.2 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player              |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:-------------------------|---------------:|
-|             50 | Denis Buckley         |             73.56 |        1 |             42.93 | Lorencio Boyer Gallardo  |             81 |
-|             26 | Eoin de Buitlear      |             58.22 |        2 |             47.73 | Seilala Lam              |             19 |
-|             31 | Sam Illo              |             61.89 |        3 |             44.07 | Nemo Roelofse            |             81 |
-|             24 | Darragh Murray        |             39.16 |        4 |             55.14 | Alessandro Ortombina     |              0 |
-|             47 | Joe Joyce             |             94.38 |        5 |             29.15 | Adrien Warion            |              0 |
-|             62 | Joe Joyce             |             94.38 |        5 |             29.15 | Adrien Warion            |              0 |
-|             19 | Cian Prendergast      |             18.32 |        6 |             18.58 | Noe Della Schiava        |             81 |
-|             81 | Shamus Hurley-Langton |             80.21 |        7 |             42.87 | Max Hicks                |             81 |
-|              0 | Sean O'Brien          |             99.92 |        8 |             14.79 | Andro Dvali              |             72 |
-|              4 | Sean O'Brien          |             99.92 |        8 |             14.79 | Andro Dvali              |             72 |
-|             22 | Sean O'Brien          |             99.92 |        8 |             14.79 | Andro Dvali              |             72 |
-|             55 | Sean O'Brien          |             99.92 |        8 |             14.79 | Andro Dvali              |             72 |
-|             81 | Sean O'Brien          |             99.92 |        8 |             14.79 | Andro Dvali              |             72 |
-|             52 | Sean O'Brien          |             99.92 |        8 |             14.79 | Andro Dvali              |             72 |
-|             58 | Sean O'Brien          |             99.92 |        8 |             14.79 | Andro Dvali              |             72 |
-|             61 | Sean O'Brien          |             99.92 |        8 |             14.79 | Andro Dvali              |             72 |
-|             59 | Sean O'Brien          |             99.92 |        8 |             14.79 | Andro Dvali              |             72 |
-|             63 | Sean O'Brien          |             99.92 |        8 |             14.79 | Andro Dvali              |             72 |
-|             14 | Matthew Devine        |             59.81 |        9 |             18.49 | James Hall               |             72 |
-|             67 | Jack Carty            |             95.33 |       10 |              4.67 | Antoine Aucagne          |             81 |
-|             81 | Andrew Smith          |             22.31 |       11 |             18.77 | Maxim Granell            |             47 |
-|             81 | Cathal Forde          |              7.15 |       12 |             13.81 | Apisai Naqalevu          |             62 |
-|             62 | Byron Ralston         |             13.61 |       13 |              5.68 | Eneriko Buliruarua       |             56 |
-|             24 | Chay Mullins          |             68.89 |       14 |             44.23 | Jefferson Joseph         |              8 |
-|             81 | Santiago Cordero      |             98.49 |       15 |              4.14 | Ali Crossdale            |             73 |
-|              4 | Adam McBurney         |             48.36 |       16 |              5.79 | Victor Montgaillard      |             75 |
-|              4 | Jordan Duggan         |             32.78 |       17 |            nan    | Joan Barcenilla D'Onghia |              4 |
-|              4 | Jack Aungier          |             26.25 |       18 |             16.68 | Kieran Brookes           |             57 |
-|              4 | Oisin Dowling         |             65.67 |       19 |             59.17 | Bastien Chinarro         |             55 |
-|              4 | Paul Boyle            |             10.13 |       20 |             80.23 | So'otala Fa'aso'o        |             19 |
-|              4 | Ben Murphy            |             57.56 |       21 |             22.99 | Gela Aprasidze           |             81 |
-|             23 | David Hawkshaw        |             54.36 |       22 |             68.76 | Tommaso Allan            |             81 |
-|             78 | Conor Oliver          |             87.81 |       23 |              5.29 | Alivereti Duguivalu      |             81 |
+|             44 | Denis Buckley         |             75.37 |        1 |             55.41 | Lorencio Boyer Gallardo  |              8 |
+|             74 | Eoin de Buitlear      |             81.46 |        2 |             19.16 | Seilala Lam              |             81 |
+|             71 | Sam Illo              |             75.5  |        3 |             42.59 | Nemo Roelofse            |             81 |
+|             57 | Darragh Murray        |             68    |        4 |             54.69 | Alessandro Ortombina     |             15 |
+|             51 | Joe Joyce             |             94.17 |        5 |             17.23 | Adrien Warion            |             32 |
+|             62 | Joe Joyce             |             94.17 |        5 |             17.23 | Adrien Warion            |             32 |
+|             64 | Cian Prendergast      |             28.36 |        6 |             16.78 | Noe Della Schiava        |             81 |
+|             83 | Shamus Hurley-Langton |             81.18 |        7 |             37.48 | Max Hicks                |             83 |
+|             22 | Sean O'Brien          |            100    |        8 |             19.7  | Andro Dvali              |             62 |
+|             81 | Sean O'Brien          |            100    |        8 |             19.7  | Andro Dvali              |             62 |
+|             26 | Sean O'Brien          |            100    |        8 |             19.7  | Andro Dvali              |             62 |
+|             83 | Sean O'Brien          |            100    |        8 |             19.7  | Andro Dvali              |             62 |
+|             24 | Sean O'Brien          |            100    |        8 |             19.7  | Andro Dvali              |             62 |
+|             72 | Sean O'Brien          |            100    |        8 |             19.7  | Andro Dvali              |             62 |
+|             19 | Sean O'Brien          |            100    |        8 |             19.7  | Andro Dvali              |             62 |
+|              4 | Sean O'Brien          |            100    |        8 |             19.7  | Andro Dvali              |             62 |
+|             81 | Matthew Devine        |             82.89 |        9 |             11.3  | James Hall               |             81 |
+|             26 | Jack Carty            |             93.67 |       10 |              4.08 | Antoine Aucagne          |             73 |
+|             39 | Andrew Smith          |             15.72 |       11 |             20.54 | Maxim Granell            |             27 |
+|             23 | Cathal Forde          |              3.24 |       12 |             14.62 | Apisai Naqalevu          |             81 |
+|             61 | Byron Ralston         |             15.6  |       13 |              3.43 | Eneriko Buliruarua       |             81 |
+|             81 | Chay Mullins          |             80.47 |       14 |             48.02 | Jefferson Joseph         |              0 |
+|             18 | Santiago Cordero      |             93.9  |       15 |              4.25 | Ali Crossdale            |              3 |
+|             62 | Adam McBurney         |             48.13 |       16 |              4.21 | Victor Montgaillard      |             78 |
+|             21 | Jordan Duggan         |             41.46 |       17 |            nan    | Joan Barcenilla D'Onghia |             81 |
+|             62 | Jack Aungier          |             29.57 |       18 |             15.02 | Kieran Brookes           |             14 |
+|             55 | Oisin Dowling         |             60.71 |       19 |             60.44 | Bastien Chinarro         |             81 |
+|             57 | Paul Boyle            |              8.18 |       20 |             83.97 | So'otala Fa'aso'o        |             18 |
+|             81 | Ben Murphy            |             56.31 |       21 |             20.6  | Gela Aprasidze           |             77 |
+|             74 | David Hawkshaw        |             50.74 |       22 |             68.57 | Tommaso Allan            |             50 |
+|             29 | Conor Oliver          |             87.56 |       23 |              5.2  | Alivereti Duguivalu      |             83 |
 

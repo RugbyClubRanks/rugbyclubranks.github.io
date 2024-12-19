@@ -9,9 +9,9 @@ categories: "Nationale 2024" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.747, which translates to predicting Rouen to win by 9.5.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.748, which translates to predicting Rouen to win by 9.6.
 
-Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 19 to 29
+Our Over/Under is 40.5 - and combined with the spread above, we have a predicted scoreline of 15 to 25
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Rouen by 11.1
+## Prediction without Player Minutes: Rouen by 11.6
 
 
-Rouen by 7.0 on a neutral pitch
+Rouen by 7.5 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Rouen by 7.0 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             50 | Nicolas Lemaire      |             28.22 |        1 |             29.93 | Ewan Clément       |             52 |
-|             24 | Arnaud Feltrin       |             17.21 |        2 |             71.83 | Mathieu Bonnot     |             56 |
-|             80 | Lasha Mchelidze      |             83.45 |        3 |             74.89 | Soso Bekoshvili    |             65 |
-|             39 | Quentin Witt         |             15.28 |        4 |             39.68 | Corentin Vernet    |             80 |
-|             24 | Victor Fromenteze    |              2.02 |        5 |             79.54 | John-Charles Astle |             54 |
-|             17 | Nicolas Tachat       |             47.71 |        6 |             39.24 | Manolo Laffond     |             80 |
-|             15 | Pierre Reynaud       |             62.83 |        7 |             19.97 | Willy N'Diaye      |             80 |
-|             30 | Loic Baradel         |             73.31 |        8 |             67.36 | Abdelkarim Fofana  |             80 |
-|             80 | Jeremy Valencot      |             82.64 |        9 |             86.17 | Florent Campeggia  |             12 |
-|             80 | Fred Zeilinga        |             92.7  |       10 |             65.92 | Maxime Javaux      |             56 |
-|             80 | Élie De Fleurian     |             64.57 |       11 |             78.48 | Benito Masilevu    |             80 |
-|             26 | Benjamin Doy         |             43.88 |       12 |             55.73 | Nicolas Nieto      |             29 |
-|             80 | Joe Margetts         |             61.7  |       13 |             16.06 | Opetera Peleseuma  |             29 |
-|             39 | Thibaut Perrette     |             59.78 |       14 |             59.7  | Benjamin Debetz    |             80 |
-|             80 | Jules Margarit       |             55.56 |       15 |             69.11 | Joaquin Riera      |             51 |
-|             71 | Atonio Ulutuipalelei |             31.64 |       16 |             46.62 | Gauthier Lelong    |             68 |
-|             56 | Nathan Azais         |             35.09 |       17 |             62.14 | Jean Leleu         |             56 |
-|             41 | Nail Ait Naceur      |             65.77 |       18 |             47.36 | Ernest Eudier      |             24 |
-|             80 | Erich de Jager       |             37.86 |       19 |             39.25 | Diego Arbelo       |             51 |
-|             39 | Louis Dasalmartini   |             46.32 |       20 |            nan    | Soulemane Camara   |             80 |
-|             18 | Jeremie Martin       |             20.1  |       21 |              9.5  | Theo Dachary       |             63 |
-|             39 | Alexandre Badet      |             23.11 |       22 |             88.44 | Benjamin Pehau     |             36 |
-|             39 | Wael May             |             65.11 |       23 |            nan    | Lucas Poisson      |             28 |
+|             14 | Nicolas Lemaire      |             25.9  |        1 |             29.77 | Ewan Clément       |             41 |
+|             80 | Arnaud Feltrin       |             20.4  |        2 |             77.26 | Mathieu Bonnot     |             36 |
+|             39 | Lasha Mchelidze      |             85.85 |        3 |             75.97 | Soso Bekoshvili    |             30 |
+|             80 | Quentin Witt         |             13.4  |        4 |             33.64 | Corentin Vernet    |             13 |
+|             29 | Victor Fromenteze    |              0.55 |        5 |             80.31 | John-Charles Astle |             15 |
+|             66 | Nicolas Tachat       |             55.37 |        6 |             32.62 | Manolo Laffond     |              9 |
+|             51 | Pierre Reynaud       |             62.52 |        7 |             18.57 | Willy N'Diaye      |             14 |
+|             68 | Loic Baradel         |             79.3  |        8 |             68.11 | Abdelkarim Fofana  |             41 |
+|             29 | Jeremy Valencot      |             80.07 |        9 |             86.71 | Florent Campeggia  |             41 |
+|             29 | Fred Zeilinga        |             92.45 |       10 |             62.24 | Maxime Javaux      |             80 |
+|             63 | Élie De Fleurian     |             64.67 |       11 |             75.64 | Benito Masilevu    |             80 |
+|             29 | Benjamin Doy         |             49.66 |       12 |             59.67 | Nicolas Nieto      |             41 |
+|             51 | Joe Margetts         |             56.13 |       13 |             12.56 | Opetera Peleseuma  |             80 |
+|             56 | Thibaut Perrette     |             59.38 |       14 |             63.66 | Benjamin Debetz    |             14 |
+|             23 | Jules Margarit       |             44.92 |       15 |             63.59 | Joaquin Riera      |             80 |
+|             56 | Atonio Ulutuipalelei |             28.44 |       16 |             45.85 | Gauthier Lelong    |             25 |
+|             80 | Nathan Azais         |             32.24 |       17 |             61.41 | Jean Leleu         |             12 |
+|             56 | Nail Ait Naceur      |             66.1  |       18 |             59.71 | Ernest Eudier      |             39 |
+|             80 | Erich de Jager       |             38.52 |       19 |             35.91 | Diego Arbelo       |             80 |
+|             54 | Louis Dasalmartini   |             45.17 |       20 |            nan    | Soulemane Camara   |             80 |
+|             80 | Jeremie Martin       |             18.77 |       21 |             11.09 | Theo Dachary       |             80 |
+|             65 | Alexandre Badet      |             23.95 |       22 |             88.98 | Benjamin Pehau     |             51 |
+|             52 | Wael May             |             66.94 |       23 |            nan    | Lucas Poisson      |             51 |
 

@@ -11,7 +11,7 @@ categories: "Pro D2 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.626, which translates to predicting Nevers to win by 4.5.
 
-Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 23 to 28
+Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 23 to 28
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Nevers by 7.0
+## Prediction without Player Minutes: Nevers by 7.4
 
 
-Nevers by 1.9 on a neutral pitch
+Nevers by 2.3 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Nevers by 1.9 on a neutral pitch
 
 |   Away Minutes | Away Player               |   Away Percentile |   Number |   Home Percentile | Home Player                |   Home Minutes |
 |---------------:|:--------------------------|------------------:|---------:|------------------:|:---------------------------|---------------:|
-|             80 | Guillaume Tartas          |             75.65 |        1 |             35.89 | Tornike Mataradze          |             55 |
-|             77 | Thomas Larrieu            |             20.34 |        2 |             43.51 | Efi Ma'afu                 |             64 |
-|             47 | Marco Fepulea'i           |             21.62 |        3 |             28.85 | Farai Mudariki             |             49 |
-|             35 | Maxime Granouillet        |             28.71 |        4 |             72.43 | Lasha Jaiani               |             13 |
-|              1 | Janse Roux                |             65.76 |        5 |             36.17 | Chris Gabriel              |             80 |
-|             80 | Baseisei Sakiusa          |             47.8  |        6 |             79.69 | Luka Plataret              |             80 |
-|             80 | Gregoire Bazin            |             37.08 |        7 |             83.06 | Julien Kazubek             |             80 |
-|             55 | Aldric Lescure            |             53.05 |        8 |             60.29 | Steven David               |             54 |
-|             80 | Ugo Seguela               |             18.97 |        9 |              4.82 | Hugo Bouyssou              |             80 |
-|             80 | Joaquin de la Vega Mendia |             15.82 |       10 |             32.25 | Shaun Reynolds             |             35 |
-|             80 | Martin Alonso Munoz       |             16.34 |       11 |             41.24 | Arthur Mathiron            |             80 |
-|             53 | Dorian Laborde            |             75.12 |       12 |             52.5  | Noa Pommelet               |             80 |
-|             80 | Martin Dulon              |              9.11 |       13 |             82.37 | Rudy Derrieux              |             80 |
-|             55 | Vincent Pinto             |             79.97 |       14 |             74.08 | Johan Georg Wasserman      |             80 |
-|             10 | Valentin Saurs            |              5.27 |       15 |             48.21 | Dylan Jaminet              |             47 |
-|             58 | Enzo Salles               |             51.42 |       16 |             27.74 | Ugo Vignolles              |             70 |
-|             53 | Elias El Ansari           |             40.33 |       17 |             66.46 | Kamaliele Tufele           |             56 |
-|             80 | Theo Lachaud              |              1.25 |       18 |             40.36 | Rati Zazadze               |             40 |
-|             45 | Robin Bellemand           |             51.05 |       19 |             44.44 | Jean-Maxence Jules-Rosette |             44 |
-|             52 | Mathis Galthié            |             48.23 |       20 |             26.85 | Simon Tarel                |             18 |
-|             52 | Jack Whetton              |              9.92 |       21 |             83.9  | Lucas Blanc                |             28 |
-|             29 | Jeremy Bechu              |             16.08 |       22 |             28.01 | Nicolas Ragoevi            |             28 |
-|             15 | Max Auriac                |             15.63 |       23 |            nan    | nan                        |            nan |
+|             80 | Guillaume Tartas          |             78.1  |        1 |             45.79 | Tornike Mataradze          |             35 |
+|             67 | Thomas Larrieu            |             21.5  |        2 |             60.28 | Efi Ma'afu                 |             35 |
+|             80 | Marco Fepulea'i           |             23.5  |        3 |             31.51 | Farai Mudariki             |             80 |
+|             80 | Maxime Granouillet        |             25.8  |        4 |             73.75 | Lasha Jaiani               |             20 |
+|             80 | Janse Roux                |             55.79 |        5 |             35.37 | Chris Gabriel              |             10 |
+|             80 | Baseisei Sakiusa          |             45.91 |        6 |             75.81 | Luka Plataret              |              3 |
+|             27 | Gregoire Bazin            |             28.96 |        7 |             77.51 | Julien Kazubek             |             80 |
+|             24 | Aldric Lescure            |             55.09 |        8 |             64.44 | Steven David               |             80 |
+|             80 | Ugo Seguela               |             19.44 |        9 |              3.65 | Hugo Bouyssou              |             38 |
+|             29 | Joaquin de la Vega Mendia |             14.29 |       10 |             37.14 | Shaun Reynolds             |             80 |
+|             27 | Martin Alonso Munoz       |             16.34 |       11 |             36.5  | Arthur Mathiron            |             80 |
+|             80 | Dorian Laborde            |             74.09 |       12 |             62.41 | Noa Pommelet               |             40 |
+|             27 | Martin Dulon              |              8.64 |       13 |             84.3  | Rudy Derrieux              |             51 |
+|             80 | Vincent Pinto             |             77.28 |       14 |             70.04 | Johan Georg Wasserman      |             52 |
+|             80 | Valentin Saurs            |              3.14 |       15 |             53.6  | Dylan Jaminet              |             35 |
+|             20 | Enzo Salles               |             51.91 |       16 |             25.34 | Ugo Vignolles              |             80 |
+|             40 | Elias El Ansari           |             41.19 |       17 |             68.83 | Kamaliele Tufele           |             80 |
+|             40 | Theo Lachaud              |              1.56 |       18 |             41.4  | Rati Zazadze               |             80 |
+|             21 | Robin Bellemand           |             49.93 |       19 |             44.86 | Jean-Maxence Jules-Rosette |             80 |
+|             28 | Mathis Galthié            |             47.18 |       20 |             22.59 | Simon Tarel                |             42 |
+|             80 | Jack Whetton              |              7.02 |       21 |             83.5  | Lucas Blanc                |             10 |
+|             52 | Jeremy Bechu              |             19.37 |       22 |             30.32 | Nicolas Ragoevi            |             48 |
+|             34 | Max Auriac                |             12.94 |       23 |            nan    | nan                        |            nan |
 

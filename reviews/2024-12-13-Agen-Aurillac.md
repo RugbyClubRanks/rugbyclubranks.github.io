@@ -11,7 +11,7 @@ categories: "Pro D2 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.652, which translates to predicting Agen to win by 5.5.
 
-Our Over/Under is 42.5 - and combined with the spread above, we have a predicted scoreline of 18 to 24
+Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 22 to 28
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Agen by 24.0
+## Prediction without Player Minutes: Agen by 24.2
 
 
-Agen by 9.7 on a neutral pitch
+Agen by 9.9 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Agen by 9.7 on a neutral pitch
 
 |   Away Minutes | Away Player             |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:------------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             21 | Gymael Jean-Jacques     |             58.72 |        1 |             67.47 | Hans Lombard-Buret  |             28 |
-|             53 | Luka Nioradze           |             10.64 |        2 |             89.05 | Santiago Socino     |             60 |
-|              3 | Giorgi Kartvelishvili   |             13.32 |        3 |             37.03 | Lasha Macharashvili |             80 |
-|             80 | Louis Bruinsma          |             22.48 |        4 |             43.02 | Vincent Farre       |             80 |
-|             24 | Abongile Nonkontwana    |              7.37 |        5 |             87.45 | William Demotte     |             80 |
-|             56 | Tim De Jong             |             49.87 |        6 |             33.79 | Julien Lebian       |             22 |
-|             52 | Lucas Oudard            |             61.62 |        7 |             50.99 | Tomasi Fineanganofo |             52 |
-|             80 | Didier Tison            |             12.7  |        8 |             46.46 | Valentin Gayraud    |             80 |
-|             80 | David Delarue           |             10.93 |        9 |             55.95 | Dorian Bellot       |             27 |
-|             64 | Tedo Abzhandadze        |             45.84 |       10 |              5.48 | Billy Searle        |             45 |
-|             80 | Simeli Yabaki           |             11.7  |       11 |             25.14 | Iban Etcheverry     |             56 |
-|             28 | Ofa Manuofetoa          |             42.61 |       12 |             70.32 | Kolinio Ramoka      |             63 |
-|             80 | Karl Martin             |             53.87 |       13 |             82.08 | Peyo Muscarditz     |             28 |
-|             52 | Juun Pieters            |             64.26 |       14 |              9.43 | Loris Tolot         |             28 |
-|             56 | Ugo Seunes              |              2.26 |       15 |             92.09 | Franck Pourteau     |             27 |
-|             31 | Robert Rodgers          |             14.01 |       16 |            nan    | nan                 |            nan |
-|             45 | Ronan Loughnane         |             26.6  |       17 |            nan    | nan                 |            nan |
-|             80 | Hugo Bastard            |             60.72 |       18 |            nan    | nan                 |            nan |
-|             20 | Dominic Robertson-McCoy |             36.08 |       19 |            nan    | nan                 |            nan |
-|             45 | Heath Backhouse         |             82.7  |       20 |            nan    | nan                 |            nan |
-|             35 | Mikheil Alania          |             57.72 |       21 |            nan    | nan                 |            nan |
-|             80 | Mosa'ati Moala          |             22.21 |       22 |            nan    | nan                 |            nan |
-|             80 | Théo Cambon             |             36.82 |       23 |            nan    | nan                 |            nan |
+|             34 | Gymael Jean-Jacques     |             60.35 |        1 |             71.9  | Hans Lombard-Buret  |             59 |
+|             80 | Luka Nioradze           |              9.97 |        2 |             88.63 | Santiago Socino     |             21 |
+|             77 | Giorgi Kartvelishvili   |             12.55 |        3 |             38.38 | Lasha Macharashvili |             80 |
+|             27 | Louis Bruinsma          |             18.51 |        4 |             39.47 | Vincent Farre       |             27 |
+|             58 | Abongile Nonkontwana    |              4.47 |        5 |             86.69 | William Demotte     |             60 |
+|             54 | Tim De Jong             |             46.76 |        6 |             35.35 | Julien Lebian       |             80 |
+|             62 | Lucas Oudard            |             60.48 |        7 |             50.26 | Tomasi Fineanganofo |             67 |
+|             17 | Didier Tison            |             13.69 |        8 |             52.75 | Valentin Gayraud    |             80 |
+|             28 | David Delarue           |              9.63 |        9 |             55.15 | Dorian Bellot       |             40 |
+|             28 | Tedo Abzhandadze        |             53.06 |       10 |              6.53 | Billy Searle        |             24 |
+|             28 | Simeli Yabaki           |             11.52 |       11 |             23.5  | Iban Etcheverry     |             18 |
+|             52 | Ofa Manuofetoa          |             41.81 |       12 |             71.64 | Kolinio Ramoka      |             59 |
+|             24 | Karl Martin             |             53.29 |       13 |             81.55 | Peyo Muscarditz     |             20 |
+|             80 | Juun Pieters            |             59.53 |       14 |              9.49 | Loris Tolot         |             24 |
+|             80 | Ugo Seunes              |              1.11 |       15 |             89.65 | Franck Pourteau     |             56 |
+|             34 | Robert Rodgers          |             14.02 |       16 |            nan    | nan                 |            nan |
+|             80 | Ronan Loughnane         |             26.17 |       17 |            nan    | nan                 |            nan |
+|             55 | Hugo Bastard            |             60.75 |       18 |            nan    | nan                 |            nan |
+|             80 | Dominic Robertson-McCoy |             36.38 |       19 |            nan    | nan                 |            nan |
+|             80 | Heath Backhouse         |             81.86 |       20 |            nan    | nan                 |            nan |
+|             64 | Mikheil Alania          |             52.49 |       21 |            nan    | nan                 |            nan |
+|             25 | Mosa'ati Moala          |             18.78 |       22 |            nan    | nan                 |            nan |
+|             80 | Théo Cambon             |             36.97 |       23 |            nan    | nan                 |            nan |
 

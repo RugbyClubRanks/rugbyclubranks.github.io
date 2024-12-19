@@ -1,6 +1,6 @@
 ---  
 title: "Division de Honor de Rugby 2024 Status"  
-date: 2024-12-16 6:00:00 -0500  
+date: 2024-12-19 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -37,18 +37,18 @@ aside:
 
 | Club                |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| VRAC                |                   5 |    4.3 |             75.4948  |                   0.5 |                3.3 |                 20.7 |
-| Aparejadores Burgos |                   5 |    4.1 |             61.753   |                   0.5 |                2.9 |                 19.8 |
-| El Salvador         |                   5 |    3.7 |             34.4556  |                   0.8 |                1.3 |                 16.7 |
-| Real Ciencias       |                   5 |    3   |             17.5161  |                   0.9 |                2   |                 15   |
-| Cisneros            |                   5 |    2.9 |             20.93    |                   1   |                2.2 |                 14.9 |
-| Alcobendas          |                   5 |    2.6 |              5.11278 |                   1.1 |                1.5 |                 13.2 |
-| Ordizia             |                   5 |    2.2 |            -16.2953  |                   0.9 |                1.7 |                 11.1 |
-| UE Santboiana       |                   5 |    1.9 |             -8.91738 |                   1.3 |                1.6 |                 10.5 |
-| FC Barcelona        |                   5 |    1.8 |            -21.4515  |                   1.1 |                1.7 |                  9.8 |
-| Les Abelles R.C.    |                   5 |    1.3 |            -52.4905  |                   0.9 |                1.6 |                  7.8 |
-| C.R. La Vila        |                   5 |    1.3 |            -49.835   |                   1.1 |                1.2 |                  7.5 |
-| CRC Pozuelo Rugby   |                   5 |    0.9 |            -66.2726  |                   0.9 |                1.2 |                  5.9 |
+| VRAC                |                   5 |    4.3 |             77.5564  |                   0.5 |                3.3 |                 20.8 |
+| Aparejadores Burgos |                   5 |    4.2 |             64.5784  |                   0.5 |                2.9 |                 20.2 |
+| El Salvador         |                   5 |    3.7 |             36.6484  |                   0.8 |                1.3 |                 16.9 |
+| Real Ciencias       |                   5 |    3.1 |             17.2144  |                   0.9 |                2.1 |                 15.2 |
+| Cisneros            |                   5 |    2.9 |             20.1572  |                   1   |                2.2 |                 14.7 |
+| Alcobendas          |                   5 |    2.6 |              4.07497 |                   1.1 |                1.7 |                 13.1 |
+| UE Santboiana       |                   5 |    2   |             -9.25454 |                   1.3 |                1.5 |                 10.6 |
+| Ordizia             |                   5 |    2   |            -20.5737  |                   0.9 |                1.7 |                 10.6 |
+| FC Barcelona        |                   5 |    1.8 |            -21.2996  |                   1   |                1.7 |                  9.9 |
+| Les Abelles R.C.    |                   5 |    1.3 |            -50.7015  |                   0.9 |                1.6 |                  7.9 |
+| C.R. La Vila        |                   5 |    1.3 |            -52.6613  |                   1.1 |                1.2 |                  7.3 |
+| CRC Pozuelo Rugby   |                   5 |    0.9 |            -65.7391  |                   0.9 |                1.3 |                  5.9 |
 
 
 
@@ -57,18 +57,18 @@ aside:
 
 | Club                |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| VRAC                |              11 |   10.3 |             206.495  |                   0.5 |                3.3 |                 47.7 |
-| Aparejadores Burgos |              11 |    8.1 |             137.753  |                   2.5 |                2.9 |                 39.8 |
-| Alcobendas          |              11 |    7.6 |              99.1128 |                   2.1 |                1.5 |                 38.2 |
-| El Salvador         |              11 |    8.7 |              69.4556 |                   1.8 |                1.3 |                 37.7 |
-| Real Ciencias       |              11 |    7   |             106.516  |                   2.9 |                2   |                 34   |
-| Cisneros            |              11 |    5.9 |              38.93   |                   3   |                2.2 |                 30.9 |
-| UE Santboiana       |              11 |    5.9 |              11.0826 |                   2.3 |                1.6 |                 28.5 |
-| Ordizia             |              11 |    5.2 |             -58.2953 |                   0.9 |                1.7 |                 23.1 |
-| C.R. La Vila        |              11 |    2.3 |             -82.835  |                   4.1 |                1.2 |                 15.5 |
-| FC Barcelona        |              11 |    2.8 |             -88.4515 |                   2.1 |                1.7 |                 14.8 |
-| Les Abelles R.C.    |              11 |    1.3 |            -196.491  |                   0.9 |                1.6 |                  8.8 |
-| CRC Pozuelo Rugby   |              11 |    0.9 |            -243.273  |                   1.9 |                1.2 |                  7.9 |
+| VRAC                |              11 |   10.3 |             208.556  |                   0.5 |                3.3 |                 47.8 |
+| Aparejadores Burgos |              11 |    8.2 |             140.578  |                   2.5 |                2.9 |                 40.2 |
+| Alcobendas          |              11 |    7.6 |              98.075  |                   2.1 |                1.7 |                 38.1 |
+| El Salvador         |              11 |    8.7 |              71.6484 |                   1.8 |                1.3 |                 37.9 |
+| Real Ciencias       |              11 |    7.1 |             106.214  |                   2.9 |                2.1 |                 34.2 |
+| Cisneros            |              11 |    5.9 |              38.1572 |                   3   |                2.2 |                 30.7 |
+| UE Santboiana       |              11 |    6   |              10.7455 |                   2.3 |                1.5 |                 28.6 |
+| Ordizia             |              11 |    5   |             -62.5737 |                   0.9 |                1.7 |                 22.6 |
+| C.R. La Vila        |              11 |    2.3 |             -85.6613 |                   4.1 |                1.2 |                 15.3 |
+| FC Barcelona        |              11 |    2.8 |             -88.2996 |                   2   |                1.7 |                 14.9 |
+| Les Abelles R.C.    |              11 |    1.3 |            -194.701  |                   0.9 |                1.6 |                  8.9 |
+| CRC Pozuelo Rugby   |              11 |    0.9 |            -242.739  |                   1.9 |                1.3 |                  7.9 |
 
 
 
@@ -79,7 +79,7 @@ aside:
 | ------ | ------ | ------ |
 | Club Level | 77.8% | 11.8 |
 | Player Level: Lineup | 64.0% | 13.3 |
-| Player Level: Minutes | 60.0% | 13.5 |
+| Player Level: Minutes | 60.0% | 13.7 |
 
 
 # Future Predictions
@@ -89,7 +89,7 @@ aside:
 ### CRC Pozuelo Rugby V Ordizia on 2025/01/11
 
 
-Average Margin: Ordizia by 8.5
+Average Margin: Ordizia by 8.6
 
 Average Scoreline: 30-22
 
@@ -102,7 +102,7 @@ Average Scoreline: 30-22
 ### Real Ciencias V Cisneros on 2025/01/12
 
 
-Average Margin: Real Ciencias by 8.4
+Average Margin: Real Ciencias by 8.1
 
 Average Scoreline: 27-19
 
@@ -115,9 +115,9 @@ Average Scoreline: 27-19
 ### UE Santboiana V Les Abelles R.C. on 2025/01/12
 
 
-Average Margin: UE Santboiana by 17.0
+Average Margin: UE Santboiana by 16.0
 
-Average Scoreline: 34-17
+Average Scoreline: 33-18
 
 <p float="left">
 <img src="plots/performances_2025-01-12-UESantboiana_V_LesAbellesR.C..png" width="32%" />
@@ -141,7 +141,7 @@ Average Scoreline: 32-27
 ### El Salvador V Aparejadores Burgos on 2025/01/12
 
 
-Average Margin: Aparejadores Burgos by 2.1
+Average Margin: Aparejadores Burgos by 1.7
 
 Average Scoreline: 25-23
 
@@ -154,9 +154,9 @@ Average Scoreline: 25-23
 ### C.R. La Vila V FC Barcelona on 2025/01/12
 
 
-Average Margin: C.R. La Vila by 0.2
+Average Margin: FC Barcelona by 0.6
 
-Average Scoreline: 21-21
+Average Scoreline: 22-21
 
 <p float="left">
 <img src="plots/performances_2025-01-12-C.R.LaVila_V_FCBarcelona.png" width="32%" />
@@ -169,9 +169,9 @@ Average Scoreline: 21-21
 ### Cisneros V UE Santboiana on 2025/01/18
 
 
-Average Margin: Cisneros by 5.5
+Average Margin: Cisneros by 5.1
 
-Average Scoreline: 25-19
+Average Scoreline: 25-20
 
 <p float="left">
 <img src="plots/performances_2025-01-18-Cisneros_V_UESantboiana.png" width="32%" />
@@ -182,9 +182,9 @@ Average Scoreline: 25-19
 ### FC Barcelona V CRC Pozuelo Rugby on 2025/01/18
 
 
-Average Margin: FC Barcelona by 12.8
+Average Margin: FC Barcelona by 12.3
 
-Average Scoreline: 33-20
+Average Scoreline: 32-20
 
 <p float="left">
 <img src="plots/performances_2025-01-18-FCBarcelona_V_CRCPozueloRugby.png" width="32%" />
@@ -195,9 +195,9 @@ Average Scoreline: 33-20
 ### Les Abelles R.C. V C.R. La Vila on 2025/01/19
 
 
-Average Margin: Les Abelles R.C. by 1.5
+Average Margin: Les Abelles R.C. by 2.4
 
-Average Scoreline: 22-21
+Average Scoreline: 23-20
 
 <p float="left">
 <img src="plots/performances_2025-01-19-LesAbellesR.C._V_C.R.LaVila.png" width="32%" />
@@ -208,9 +208,9 @@ Average Scoreline: 22-21
 ### Aparejadores Burgos V Alcobendas on 2025/01/19
 
 
-Average Margin: Aparejadores Burgos by 7.7
+Average Margin: Aparejadores Burgos by 8.4
 
-Average Scoreline: 31-23
+Average Scoreline: 31-22
 
 <p float="left">
 <img src="plots/performances_2025-01-19-AparejadoresBurgos_V_Alcobendas.png" width="32%" />
@@ -221,9 +221,9 @@ Average Scoreline: 31-23
 ### Ordizia V El Salvador on 2025/01/19
 
 
-Average Margin: El Salvador by 4.7
+Average Margin: El Salvador by 5.4
 
-Average Scoreline: 28-23
+Average Scoreline: 28-22
 
 <p float="left">
 <img src="plots/performances_2025-01-19-Ordizia_V_ElSalvador.png" width="32%" />
@@ -234,9 +234,9 @@ Average Scoreline: 28-23
 ### VRAC V Real Ciencias on 2025/01/19
 
 
-Average Margin: VRAC by 10.4
+Average Margin: VRAC by 11.3
 
-Average Scoreline: 34-24
+Average Scoreline: 34-23
 
 <p float="left">
 <img src="plots/performances_2025-01-19-VRAC_V_RealCiencias.png" width="32%" />
@@ -249,7 +249,7 @@ Average Scoreline: 34-24
 ### CRC Pozuelo Rugby V Les Abelles R.C. on 2025/01/25
 
 
-Average Margin: CRC Pozuelo Rugby by 0.6
+Average Margin: CRC Pozuelo Rugby by 0.1
 
 Average Scoreline: 28-28
 
@@ -264,9 +264,9 @@ Average Scoreline: 28-28
 ### Alcobendas V Ordizia on 2025/02/09
 
 
-Average Margin: Alcobendas by 12.6
+Average Margin: Alcobendas by 13.5
 
-Average Scoreline: 31-19
+Average Scoreline: 32-18
 
 <p float="left">
 <img src="plots/performances_2025-02-09-Alcobendas_V_Ordizia.png" width="32%" />
@@ -277,9 +277,9 @@ Average Scoreline: 31-19
 ### Real Ciencias V UE Santboiana on 2025/02/09
 
 
-Average Margin: Real Ciencias by 9.9
+Average Margin: Real Ciencias by 9.4
 
-Average Scoreline: 29-19
+Average Scoreline: 28-19
 
 <p float="left">
 <img src="plots/performances_2025-02-09-RealCiencias_V_UESantboiana.png" width="32%" />
@@ -290,9 +290,9 @@ Average Scoreline: 29-19
 ### Cisneros V CRC Pozuelo Rugby on 2025/02/09
 
 
-Average Margin: Cisneros by 21.0
+Average Margin: Cisneros by 20.4
 
-Average Scoreline: 39-18
+Average Scoreline: 38-18
 
 <p float="left">
 <img src="plots/performances_2025-02-09-Cisneros_V_CRCPozueloRugby.png" width="32%" />
@@ -303,7 +303,7 @@ Average Scoreline: 39-18
 ### Les Abelles R.C. V El Salvador on 2025/02/09
 
 
-Average Margin: El Salvador by 12.2
+Average Margin: El Salvador by 12.6
 
 Average Scoreline: 31-19
 
@@ -316,7 +316,7 @@ Average Scoreline: 31-19
 ### FC Barcelona V Aparejadores Burgos on 2025/02/09
 
 
-Average Margin: Aparejadores Burgos by 13.0
+Average Margin: Aparejadores Burgos by 13.2
 
 Average Scoreline: 33-20
 
@@ -329,7 +329,7 @@ Average Scoreline: 33-20
 ### VRAC V C.R. La Vila on 2025/02/09
 
 
-Average Margin: VRAC by 26.7
+Average Margin: VRAC by 27.2
 
 Average Scoreline: 41-14
 
@@ -344,7 +344,7 @@ Average Scoreline: 41-14
 ### Ordizia V FC Barcelona on 2025/02/15
 
 
-Average Margin: Ordizia by 7.4
+Average Margin: Ordizia by 6.7
 
 Average Scoreline: 25-18
 
@@ -357,9 +357,9 @@ Average Scoreline: 25-18
 ### Aparejadores Burgos V Les Abelles R.C. on 2025/02/15
 
 
-Average Margin: Aparejadores Burgos by 24.1
+Average Margin: Aparejadores Burgos by 24.4
 
-Average Scoreline: 41-17
+Average Scoreline: 42-17
 
 <p float="left">
 <img src="plots/performances_2025-02-15-AparejadoresBurgos_V_LesAbellesR.C..png" width="32%" />
@@ -370,7 +370,7 @@ Average Scoreline: 41-17
 ### C.R. La Vila V Real Ciencias on 2025/02/15
 
 
-Average Margin: Real Ciencias by 13.1
+Average Margin: Real Ciencias by 13.8
 
 Average Scoreline: 36-22
 
@@ -383,7 +383,7 @@ Average Scoreline: 36-22
 ### El Salvador V Cisneros on 2025/02/15
 
 
-Average Margin: El Salvador by 5.9
+Average Margin: El Salvador by 6.0
 
 Average Scoreline: 26-20
 
@@ -396,7 +396,7 @@ Average Scoreline: 26-20
 ### UE Santboiana V Alcobendas on 2025/02/15
 
 
-Average Margin: Alcobendas by 1.6
+Average Margin: Alcobendas by 1.2
 
 Average Scoreline: 24-23
 
@@ -411,7 +411,7 @@ Average Scoreline: 24-23
 
 Average Margin: VRAC by 24.5
 
-Average Scoreline: 36-12
+Average Scoreline: 37-12
 
 <p float="left">
 <img src="plots/performances_2025-02-15-CRCPozueloRugby_V_VRAC.png" width="32%" />
@@ -424,9 +424,9 @@ Average Scoreline: 36-12
 ### Aparejadores Burgos V Ordizia on 2025/03/01
 
 
-Average Margin: Aparejadores Burgos by 14.9
+Average Margin: Aparejadores Burgos by 16.9
 
-Average Scoreline: 36-21
+Average Scoreline: 37-20
 
 <p float="left">
 <img src="plots/performances_2025-03-01-AparejadoresBurgos_V_Ordizia.png" width="32%" />
@@ -437,9 +437,9 @@ Average Scoreline: 36-21
 ### Alcobendas V Real Ciencias on 2025/03/01
 
 
-Average Margin: Alcobendas by 3.6
+Average Margin: Alcobendas by 2.7
 
-Average Scoreline: 28-24
+Average Scoreline: 27-24
 
 <p float="left">
 <img src="plots/performances_2025-03-01-Alcobendas_V_RealCiencias.png" width="32%" />
@@ -450,7 +450,7 @@ Average Scoreline: 28-24
 ### C.R. La Vila V Cisneros on 2025/03/01
 
 
-Average Margin: Cisneros by 8.8
+Average Margin: Cisneros by 8.7
 
 Average Scoreline: 29-20
 
@@ -463,7 +463,7 @@ Average Scoreline: 29-20
 ### El Salvador V FC Barcelona on 2025/03/01
 
 
-Average Margin: El Salvador by 13.7
+Average Margin: El Salvador by 14.4
 
 Average Scoreline: 32-18
 
@@ -476,7 +476,7 @@ Average Scoreline: 32-18
 ### UE Santboiana V VRAC on 2025/03/01
 
 
-Average Margin: VRAC by 9.0
+Average Margin: VRAC by 9.6
 
 Average Scoreline: 30-21
 
