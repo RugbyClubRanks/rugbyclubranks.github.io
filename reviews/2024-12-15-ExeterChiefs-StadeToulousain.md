@@ -11,7 +11,7 @@ categories: "European Rugby Champions Cup 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.445, which translates to predicting Stade Toulousain to win by 1.9.
 
-Our Over/Under is 57.5 - and combined with the spread above, we have a predicted scoreline of 30 to 28
+Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 24 to 22
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Stade Toulousain by 24.4
+## Prediction without Player Minutes: Stade Toulousain by 26.3
 
 
-Stade Toulousain by 32.4 on a neutral pitch
+Stade Toulousain by 34.3 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,30 +69,31 @@ Stade Toulousain by 32.4 on a neutral pitch
 
 |   Away Minutes | Away Player            |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:-----------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             80 | Rodrigue Neti          |             76.77 |        1 |             71.43 | Will Goodrick-Clarke |             81 |
-|             71 | Julien Marchand        |             96.57 |        2 |             86.45 | Dan Frost            |             81 |
-|             23 | Dorian Aldegheri       |             90.05 |        3 |             35.58 | Ehren Painter        |             81 |
-|             81 | Thibaud Flament        |             93.62 |        4 |             61.71 | Rusiate Tuima        |             81 |
-|             80 | Emmanuel Meafou        |             86.24 |        5 |              6.11 | Richard Capstick     |             29 |
-|             73 | Francois Cros          |             95.57 |        6 |             12.18 | Ethan Roots          |             81 |
-|             73 | Francois Cros          |             95.57 |        6 |             12.18 | Ethan Roots          |             64 |
-|             73 | Francois Cros          |             95.57 |        6 |             12.18 | Ethan Roots          |             27 |
-|             54 | Jack Willis            |             97.53 |        7 |             90.12 | Jacques Vermeulen    |             81 |
-|             68 | Alexandre Roumat       |             90.82 |        8 |             40.73 | Ross Vintcent        |             29 |
-|             45 | Antoine Dupont         |             99.67 |        9 |             93.52 | Stu Townsend         |             41 |
-|             80 | Romain Ntamack         |             95.1  |       10 |             96.33 | Henry Slade          |             34 |
-|             80 | Matthis Lebel          |             96.96 |       11 |             52.76 | Tom Wyatt            |              8 |
-|             25 | Santiago Chocobares    |             64.08 |       12 |             86.75 | Tamati Tua           |             10 |
-|             52 | Pierre-Louis Barassi   |             95.39 |       13 |             39.45 | Ben Hammersley       |             81 |
-|             81 | Juan Cruz Mallia       |             98.52 |       14 |             24.75 | Immanuel Feyi-Waboso |             38 |
-|             81 | Juan Cruz Mallia       |             98.52 |       14 |             24.75 | Immanuel Feyi-Waboso |             19 |
-|             80 | Thomas Ramos           |             96.49 |       15 |              1.48 | Josh Hodge           |             81 |
-|             64 | Guillaume Cramont      |             86.92 |       16 |             90.5  | Jack Yeandle         |             17 |
-|             81 | David Ainu'u           |             86.72 |       17 |            nan    | Kwenzo Blose         |             52 |
-|             81 | Joel Merkler           |             84.65 |       18 |            nan    | Jimmy Roots          |             17 |
-|             54 | Joshua Brennan         |             88.88 |       19 |             91.16 | Dafydd Jenkins       |             27 |
-|             81 | Theo Ntamack           |             59.6  |       20 |             81.8  | Greg Fisilau         |             63 |
-|             18 | Mathis Castro-Ferreira |            nan    |       21 |            nan    | Will Becconsall      |             47 |
-|             40 | Paul Graou             |             44.68 |       22 |             26.73 | Will Haydon-Wood     |             25 |
-|             81 | Blair Kinghorn         |             99.26 |       23 |             41.02 | Zack Wimbush         |             36 |
+|             47 | Rodrigue Neti          |             74.97 |        1 |             73.91 | Will Goodrick-Clarke |             80 |
+|             40 | Julien Marchand        |             96.4  |        2 |             86.23 | Dan Frost            |             80 |
+|             81 | Dorian Aldegheri       |             87.19 |        3 |             40.26 | Ehren Painter        |             80 |
+|             81 | Thibaud Flament        |             93.25 |        4 |             53.29 | Rusiate Tuima        |             73 |
+|             52 | Emmanuel Meafou        |             89.34 |        5 |              4.44 | Richard Capstick     |             57 |
+|             81 | Francois Cros          |             96.14 |        6 |              8.48 | Ethan Roots          |             70 |
+|             81 | Francois Cros          |             96.14 |        6 |              8.48 | Ethan Roots          |             17 |
+|             81 | Francois Cros          |             96.14 |        6 |              8.48 | Ethan Roots          |             81 |
+|             81 | Francois Cros          |             96.14 |        6 |              8.48 | Ethan Roots          |             29 |
+|             17 | Jack Willis            |             98.29 |        7 |             90.23 | Jacques Vermeulen    |             65 |
+|             27 | Alexandre Roumat       |             83.63 |        8 |             31.23 | Ross Vintcent        |             41 |
+|             41 | Antoine Dupont         |             99.51 |        9 |             92.95 | Stu Townsend         |             80 |
+|             81 | Romain Ntamack         |             94.95 |       10 |             96.57 | Henry Slade          |             49 |
+|             27 | Matthis Lebel          |             98.97 |       11 |             68.04 | Tom Wyatt            |             48 |
+|             81 | Santiago Chocobares    |             59.33 |       12 |             85.17 | Tamati Tua           |             80 |
+|             81 | Pierre-Louis Barassi   |             95.5  |       13 |             62.01 | Ben Hammersley       |             81 |
+|             33 | Juan Cruz Mallia       |             99.92 |       14 |             25.44 | Immanuel Feyi-Waboso |              7 |
+|             33 | Juan Cruz Mallia       |             99.92 |       14 |             25.44 | Immanuel Feyi-Waboso |             81 |
+|             81 | Thomas Ramos           |             96.25 |       15 |              1.69 | Josh Hodge           |             40 |
+|             32 | Guillaume Cramont      |             86.85 |       16 |             90.92 | Jack Yeandle         |             59 |
+|             81 | David Ainu'u           |             85.01 |       17 |            nan    | Kwenzo Blose         |             48 |
+|             40 | Joel Merkler           |             83.23 |       18 |            nan    | Jimmy Roots          |             71 |
+|             81 | Joshua Brennan         |             90.23 |       19 |             91.92 | Dafydd Jenkins       |             18 |
+|             22 | Theo Ntamack           |             58.56 |       20 |             74.02 | Greg Fisilau         |             63 |
+|             10 | Mathis Castro-Ferreira |            nan    |       21 |            nan    | Will Becconsall      |             41 |
+|             57 | Paul Graou             |             45.41 |       22 |             28.69 | Will Haydon-Wood     |             81 |
+|             80 | Blair Kinghorn         |             99.25 |       23 |             42.01 | Zack Wimbush         |             46 |
 

@@ -11,7 +11,7 @@ categories: "European Rugby Champions Cup 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.604, which translates to predicting La Rochelle to win by 3.7.
 
-Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 21 to 25
+Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 20 to 23
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Bristol Rugby by 0.6
+## Prediction without Player Minutes: Bristol Rugby by 1.6
 
 
-Bristol Rugby by 12.3 on a neutral pitch
+Bristol Rugby by 13.3 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Bristol Rugby by 12.3 on a neutral pitch
 
 |   Away Minutes | Away Player                |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:---------------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             62 | Ellis Genge                |             73.1  |        1 |             76.57 | Reda Wardi            |             29 |
-|             25 | Gabriel Oghre              |             89.41 |        2 |             65.42 | Tolu Latu             |             62 |
-|             40 | Lovejoy Chawatama          |             48.13 |        3 |             92.19 | Uini Atonio           |             61 |
-|             15 | Steven Luatua              |             99.73 |        4 |             83.68 | Kane Douglas          |             80 |
-|             20 | Joe Owen                   |             70.28 |        5 |             65    | Will Skelton          |             68 |
-|             22 | Santiago Grondona          |             97.02 |        6 |             79.64 | Oscar Jegou           |             21 |
-|             63 | Jake Heenan                |             25.3  |        7 |             69.76 | Matthias Haddad       |             10 |
-|             22 | Viliame Mata               |             64.11 |        8 |             92.15 | Gregory Alldritt      |             46 |
-|             15 | Harry Randall              |             97.18 |        9 |             98.17 | Tawera Kerr-Barlow    |             47 |
-|             15 | Sam Worsley                |             27.55 |       10 |             12.24 | Ihaia West            |             29 |
-|             34 | Gabriel Ibitoye            |             96.73 |       11 |             73.07 | Teddy Thomas          |             26 |
-|             60 | Benhard Janse van Rensburg |             97.74 |       12 |             87.24 | Jonathan Danty        |             26 |
-|             62 | Kalaveti Ravouvou          |             80.57 |       13 |             82.04 | Ulupano Seuteni       |             33 |
-|             11 | Jack Bates                 |             19.38 |       14 |             98.68 | Jack Nowell           |             40 |
-|             11 | Benjamin Elizalde          |             69.69 |       15 |             97.78 | Dillyn Leyds          |             80 |
-|             67 | Jake Woolmore              |             89.79 |       16 |             33.24 | Louis Penverne        |             80 |
-|             58 | Harry Thacker              |             88.32 |       17 |             30.06 | Quentin Lespiaucq     |             18 |
-|             52 | Jamie Hodgson              |             93.98 |       18 |             13.08 | Georges-Henri Colombe |             80 |
-|             80 | Jimmy Halliwell            |             64.02 |       19 |             74.36 | Ultan Dillane         |             25 |
-|             80 | Benjamin Grondona          |             66.44 |       20 |             10.22 | Judicael Cancoriet    |             80 |
-|             80 | Kieran Marmion             |             95.51 |       21 |             90.46 | Levani Botia          |             14 |
-|             65 | Joe Jenkins                |             62.32 |       22 |             85.76 | Thomas Berjon         |             17 |
-|             40 | Richard Lane               |             72.09 |       23 |             86.15 | Jules Favre           |             46 |
+|             63 | Ellis Genge                |             54.78 |        1 |             78.51 | Reda Wardi            |             47 |
+|             56 | Gabriel Oghre              |             76.68 |        2 |             63.22 | Tolu Latu             |             54 |
+|             67 | Max Lahiff                 |             88.61 |        3 |             90.85 | Uini Atonio           |             54 |
+|             80 | Steven Luatua              |             99.29 |        4 |             76.55 | Kane Douglas          |             51 |
+|             80 | Joe Owen                   |             27.35 |        5 |              0.09 | Will Skelton          |             66 |
+|             32 | Santiago Grondona          |             97.26 |        6 |             87.15 | Oscar Jegou           |             80 |
+|             80 | Jake Heenan                |             24.25 |        7 |             74.46 | Matthias Haddad       |             45 |
+|             56 | Viliame Mata               |             26.88 |        8 |             84.98 | Gregory Alldritt      |             80 |
+|             62 | Harry Randall              |             96.39 |        9 |             99.18 | Tawera Kerr-Barlow    |             70 |
+|             80 | Sam Worsley                |             30.91 |       10 |             34.95 | Ihaia West            |             80 |
+|             80 | Gabriel Ibitoye            |             97.3  |       11 |             88.79 | Teddy Thomas          |             80 |
+|             70 | Benhard Janse van Rensburg |             96.56 |       12 |             88.71 | Jonathan Danty        |             80 |
+|             80 | Kalaveti Ravouvou          |             73.68 |       13 |             89.38 | Ulupano Seuteni       |             80 |
+|             72 | Jack Bates                 |             38.31 |       14 |            100    | Jack Nowell           |             51 |
+|             60 | Benjamin Elizalde          |             29.4  |       15 |             97.38 | Dillyn Leyds          |             80 |
+|             32 | Harry Thacker              |             77.31 |       16 |             32.86 | Quentin Lespiaucq     |             26 |
+|             17 | Jake Woolmore              |             86.66 |       17 |             38.02 | Louis Penverne        |             33 |
+|             30 | Jimmy Halliwell            |            nan    |       18 |             19.83 | Georges-Henri Colombe |             26 |
+|             40 | Jamie Hodgson              |             94.49 |       19 |             74.72 | Ultan Dillane         |             29 |
+|             32 | Benjamin Grondona          |             65.77 |       20 |             91.17 | Levani Botia          |             35 |
+|             18 | Kieran Marmion             |             94.75 |       21 |             10.63 | Judicael Cancoriet    |             14 |
+|             20 | Richard Lane               |             58.24 |       22 |             87.28 | Thomas Berjon         |             10 |
+|             10 | Joe Jenkins                |             58.95 |       23 |             88.16 | Jules Favre           |             29 |
 

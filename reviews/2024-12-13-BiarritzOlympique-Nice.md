@@ -9,9 +9,9 @@ categories: "Pro D2 2024" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.677, which translates to predicting Biarritz Olympique to win by 6.5.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.676, which translates to predicting Biarritz Olympique to win by 6.5.
 
-Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 21 to 27
+Our Over/Under is 41.5 - and combined with the spread above, we have a predicted scoreline of 18 to 24
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Biarritz Olympique by 14.4
+## Prediction without Player Minutes: Biarritz Olympique by 13.3
 
 
-Nice by 1.2 on a neutral pitch
+Nice by 2.3 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Nice by 1.2 on a neutral pitch
 
 |   Away Minutes | Away Player              |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:-------------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             29 | Facundo Gigena           |             12.48 |        1 |             10.08 | Giorgi Nutsubidze   |             80 |
-|             29 | Sacha Idoumi             |             17.13 |        2 |             72.9  | Luteru Tolai        |             39 |
-|             39 | Luvuyo Pupuma            |             13.68 |        3 |             78.91 | Solomone Tukuafu    |             51 |
-|             51 | Thibault Rey             |              2.64 |        4 |              2.1  | Adrian Motoc        |             53 |
-|             80 | Clément Chartier         |             18.14 |        5 |             78.49 | Piula Faasalele     |             48 |
-|             80 | Louis Suaud              |             94.8  |        6 |             85.43 | Cornell du Preez    |             80 |
-|             29 | Joris Sylvestre Simon    |             54.86 |        7 |             32.03 | Thomas Hebert       |             70 |
-|             80 | Ramiha Tarrel Tia Smiler |             20.03 |        8 |             56.26 | Masivesi Dakuwaqa   |             55 |
-|             46 | Jules Gimbert            |             11.46 |        9 |             51.83 | Imanol Biscay       |             80 |
-|             80 | Mathis Viard             |             47.55 |       10 |             49.8  | Thomas Dolhagaray   |             80 |
-|             80 | Andrzej Charlat          |             85.91 |       11 |             94.24 | Mathieu Acebes      |             80 |
-|             56 | Tom Daly                 |             15.7  |       12 |              5    | Francois Vergnaud   |             48 |
-|             27 | Nathan Courtade          |             77.72 |       13 |             54.17 | Ilian Perraux       |             13 |
-|             80 | Simon Delas              |             76.81 |       14 |             14.09 | Zach Kibirige       |             53 |
-|             80 | Paul Auradou             |             51.39 |       15 |             85.58 | Kylian Jaminet      |             80 |
-|             25 | Pierre Strippoli         |             36.92 |       16 |             37.72 | Killian Taofifenua  |             80 |
-|             51 | Martin Freytes           |             82.95 |       17 |             60    | Edgar Retiere       |             80 |
-|             80 | Tom Ross                 |             19.89 |       18 |              7.68 | Aitor Hourcade      |             53 |
-|             80 | Sunia Vola               |             71.36 |       19 |             77.08 | Kerman Aurrekoetxea |             80 |
-|             29 | Hugo Sarrasin            |            nan    |       20 |             15.69 | Zakaria El Fakir    |             40 |
-|             56 | Jules Solinas            |             65.12 |       21 |             29.26 | Levi Douglas        |             80 |
-|             27 | Luca Cutayar             |             19.53 |       22 |             72.27 | Brendan Lebrun      |             80 |
-|             18 | Yann Tivoli              |             58.98 |       23 |             10.04 | Steeve Barry        |             80 |
+|             69 | Facundo Gigena           |             22.61 |        1 |             16.82 | Giorgi Nutsubidze   |             80 |
+|             34 | Sacha Idoumi             |             14.71 |        2 |             64.48 | Luteru Tolai        |             24 |
+|             80 | Luvuyo Pupuma            |             18.71 |        3 |             71.37 | Solomone Tukuafu    |             80 |
+|             51 | Thibault Rey             |              4.17 |        4 |              2.13 | Adrian Motoc        |             29 |
+|             80 | Clément Chartier         |             28.86 |        5 |             79.22 | Piula Faasalele     |             80 |
+|             13 | Louis Suaud              |             95.37 |        6 |             84.92 | Cornell du Preez    |             18 |
+|             80 | Joris Sylvestre Simon    |             57.41 |        7 |             32.48 | Thomas Hebert       |             56 |
+|             80 | Ramiha Tarrel Tia Smiler |             27.03 |        8 |             55.11 | Masivesi Dakuwaqa   |             55 |
+|             80 | Jules Gimbert            |             12.13 |        9 |             47.21 | Imanol Biscay       |             18 |
+|             80 | Mathis Viard             |             46.46 |       10 |             46.67 | Thomas Dolhagaray   |             48 |
+|             80 | Andrzej Charlat          |             89.11 |       11 |             96.18 | Mathieu Acebes      |             80 |
+|             80 | Tom Daly                 |             12.34 |       12 |              6.12 | Francois Vergnaud   |             11 |
+|             80 | Nathan Courtade          |             77.13 |       13 |             58.37 | Ilian Perraux       |             56 |
+|             80 | Simon Delas              |             78.7  |       14 |             14.23 | Zach Kibirige       |             51 |
+|             80 | Paul Auradou             |             52.25 |       15 |             86.14 | Kylian Jaminet      |             80 |
+|             29 | Pierre Strippoli         |             42.25 |       16 |             42.33 | Killian Taofifenua  |             52 |
+|             18 | Martin Freytes           |             82.95 |       17 |             59.19 | Edgar Retiere       |             67 |
+|             80 | Tom Ross                 |             26.33 |       18 |             11.41 | Aitor Hourcade      |             65 |
+|             27 | Sunia Vola               |             71.55 |       19 |             78.36 | Kerman Aurrekoetxea |             80 |
+|             28 | Hugo Sarrasin            |            nan    |       20 |             22.43 | Zakaria El Fakir    |             80 |
+|             80 | Jules Solinas            |             71.97 |       21 |             28.33 | Levi Douglas        |             80 |
+|             51 | Luca Cutayar             |             19.14 |       22 |             72.77 | Brendan Lebrun      |             80 |
+|             21 | Yann Tivoli              |             60.3  |       23 |             10.25 | Steeve Barry        |             29 |
 

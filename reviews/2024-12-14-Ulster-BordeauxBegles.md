@@ -11,7 +11,7 @@ categories: "European Rugby Champions Cup 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.535, which translates to predicting Ulster to win by 1.2.
 
-Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 25 to 27
+Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 23 to 24
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Ulster by 6.1
+## Prediction without Player Minutes: Ulster by 21.9
 
 
-Bordeaux Begles by 3.6 on a neutral pitch
+Ulster by 12.1 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,31 @@ Bordeaux Begles by 3.6 on a neutral pitch
 
 |   Away Minutes | Away Player               |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:--------------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             18 | Jefferson Poirot          |             75.63 |        1 |             61.68 | Eric O'Sullivan    |             26 |
-|             20 | Romain Latterrade         |              3.27 |        2 |             92.21 | Rob Herring        |             26 |
-|             69 | Carlu Sadie               |             76.23 |        3 |             10.28 | Tom O'Toole        |             80 |
-|             80 | Guido Petti               |             93.71 |        4 |             67.46 | Iain Henderson     |             56 |
-|             30 | Jonny Gray                |             94.8  |        5 |             54.88 | Kieran Treadwell   |             18 |
-|             14 | Marko Gazzotti            |             74.79 |        6 |             52.56 | Cormac Izuchukwu   |             24 |
-|              6 | Lachlan Swinton           |              8.35 |        7 |             67.38 | Nick Timoney       |             71 |
-|             80 | Tevita Tatafu             |             80.63 |        8 |             79.97 | David McCann       |             80 |
-|             63 | Maxime Lucu               |             99.17 |        9 |             12.13 | Nathan Doak        |             34 |
-|             80 | Joey Carbery              |             78.16 |       10 |             40.2  | Aidan Morgan       |             34 |
-|              4 | Arthur Retiere            |             93.7  |       11 |             40.78 | Zac Ward           |             18 |
-|             49 | Yoram Moefana             |             89.79 |       12 |             79.59 | Stuart McCloskey   |             52 |
-|             16 | Nicolas Depoortere        |             81.26 |       13 |             82.83 | Jude Postlethwaite |             54 |
-|             18 | Damian Penaud             |             93.54 |       14 |             25.6  | Werner Kok         |             80 |
-|             71 | Louis Bielle-Biarrey      |             76.71 |       15 |             48.8  | Michael Lowry      |             80 |
-|             46 | Ugo Boniface              |             81.91 |       16 |             21.5  | Andrew Warwick     |             34 |
-|             18 | Maxime Lamothe            |             37.54 |       17 |             23.43 | Scott Wilson       |             20 |
-|             80 | Ben Tameifuna             |             88.85 |       18 |             45.79 | John Andrew        |             17 |
-|             62 | Adam Coleman              |             96.9  |       19 |             58.61 | Harry Sheridan     |             73 |
-|             80 | Bastien Vergnes Taillefer |             78.19 |       20 |             92.42 | Marcus Rea         |             80 |
-|             46 | Mateo Garcia              |             48.43 |       21 |            nan    | David Shanahan     |             18 |
-|             16 | Alexandre Ricard          |             75.39 |       22 |            nan    | James Humphreys    |             11 |
-|             62 | Ben Tapuai                |             43.87 |       23 |            nan    | Rory Telfer        |             11 |
+|             63 | Jefferson Poirot          |             80.28 |        1 |             72.43 | Eric O'Sullivan    |              0 |
+|             34 | Romain Latterrade         |             29.26 |        2 |             92.18 | Rob Herring        |             28 |
+|             68 | Romain Latterrade         |             29.26 |        2 |             92.18 | Rob Herring        |             28 |
+|             34 | Carlu Sadie               |             76.33 |        3 |             17.83 | Tom O'Toole        |             56 |
+|             65 | Guido Petti               |             95.65 |        4 |             58.44 | Iain Henderson     |             81 |
+|             63 | Jonny Gray                |             96.54 |        5 |             22.74 | Kieran Treadwell   |             81 |
+|             63 | Marko Gazzotti            |             80.21 |        6 |             60.07 | Cormac Izuchukwu   |             25 |
+|             63 | Lachlan Swinton           |             13.71 |        7 |             80.03 | Nick Timoney       |             18 |
+|              7 | Tevita Tatafu             |             70.57 |        8 |             63.81 | David McCann       |             81 |
+|             38 | Maxime Lucu               |             98.85 |        9 |             28.52 | Nathan Doak        |             25 |
+|             81 | Joey Carbery              |             85.45 |       10 |             40    | Aidan Morgan       |             25 |
+|             56 | Arthur Retiere            |             97.62 |       11 |             39.35 | Zac Ward           |             18 |
+|              9 | Yoram Moefana             |             88.61 |       12 |             85.74 | Stuart McCloskey   |             11 |
+|             18 | Nicolas Depoortere        |             80.1  |       13 |             99.43 | Jude Postlethwaite |             11 |
+|             18 | Nicolas Depoortere        |             80.1  |       13 |             99.43 | Jude Postlethwaite |             47 |
+|             18 | Nicolas Depoortere        |             80.1  |       13 |             99.43 | Jude Postlethwaite |             81 |
+|             18 | Nicolas Depoortere        |             80.1  |       13 |             99.43 | Jude Postlethwaite |             34 |
+|             63 | Damian Penaud             |             96.9  |       14 |             29.01 | Werner Kok         |             53 |
+|             81 | Louis Bielle-Biarrey      |             78.84 |       15 |              9.18 | Mike Lowry         |             65 |
+|             81 | Maxime Lamothe            |             32.08 |       16 |             44.91 | John Andrew        |             81 |
+|             65 | Ugo Boniface              |             80.93 |       17 |             35.83 | Andrew Warwick     |             81 |
+|             63 | Ben Tameifuna             |             87.37 |       18 |             61.28 | Scott Wilson       |             63 |
+|             65 | Adam Coleman              |             97.96 |       19 |             78.33 | Harry Sheridan     |             81 |
+|             63 | Alexandre Ricard          |             76.82 |       20 |             91    | Marcus Rea         |             47 |
+|             81 | Bastien Vergnes Taillefer |             76.86 |       21 |            nan    | Dave Shanahan      |             47 |
+|             81 | Ben Tapuai                |             45.26 |       22 |            nan    | James Humphreys    |             72 |
+|             71 | Mateo Garcia              |             47.57 |       23 |            nan    | Rory Telfer        |             47 |
 

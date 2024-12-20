@@ -9,7 +9,7 @@ categories: "Pro D2 2024" match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.462, which translates to predicting Beziers to win by -2.9.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.462, which translates to predicting Beziers to win by -2.7.
 
 Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 20 to 23
 
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Mont-de-Marsan by 14.1
+## Prediction without Player Minutes: Mont-de-Marsan by 9.2
 
 
-Mont-de-Marsan by 1.0 on a neutral pitch
+Beziers by 3.9 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Mont-de-Marsan by 1.0 on a neutral pitch
 
 | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player           |
 |:-------------------|------------------:|---------:|------------------:|:----------------------|
-| Marco Trauth       |             75.77 |        1 |             36.72 | Luka Goginava         |
-| Jose Luis Gonzalez |            nan    |        2 |             44.24 | Samuel Lagrange       |
-| nan                |            nan    |        3 |             11.01 | Anthony Alves         |
-| nan                |            nan    |        4 |            nan    | Jules Dussutour       |
-| nan                |            nan    |        5 |             43.48 | Romain Durand         |
-| nan                |            nan    |        6 |             36.06 | Ioane Iashagashvili   |
-| nan                |            nan    |        7 |             45.49 | Raphaël Robic         |
-| nan                |            nan    |        8 |            nan    | Michael Faleafa       |
-| nan                |            nan    |        9 |             35.71 | Nicolas Darquier      |
-| nan                |            nan    |       10 |             44.49 | Willie Du Plessis     |
-| nan                |            nan    |       11 |             50.04 | Pierre Sayerse        |
-| nan                |            nan    |       12 |             39.06 | Nacani Wakaya         |
-| nan                |            nan    |       13 |            nan    | Gatien Massé          |
-| nan                |            nan    |       14 |             34.25 | Semi Lagivala (2)     |
-| Gabin Lorre        |             52.5  |       15 |             45.76 | Alexandre de Nardi    |
-| nan                |            nan    |       16 |             12.31 | Luka Begic            |
-| Yahnis El Maslouhi |             51.27 |       17 |            nan    | Thomas Bultel         |
-| Sias Koen          |            nan    |       18 |             45.4  | Myles Edwards         |
-| Baptiste Abescat   |             45.58 |       19 |             44.38 | Aurélien Lafforgue    |
-| Damien Añon        |             53.65 |       20 |            nan    | Baptiste Canut        |
+| Marco Trauth       |             75.8  |        1 |             41.38 | Luka Goginava         |
+| Jose Luis Gonzalez |            nan    |        2 |             43.51 | Samuel Lagrange       |
+| Yannick Arroyo     |            nan    |        3 |             16.77 | Anthony Alves         |
+| Gillian Benoy      |             22.71 |        4 |            nan    | Jules Dussutour       |
+| Cam Dodson         |             57.02 |        5 |             46.18 | Romain Durand         |
+| William Van Bost   |             67.1  |        6 |             35.89 | Ioane Iashagashvili   |
+| Clément Ancely     |            nan    |        7 |             45.84 | Raphaël Robic         |
+| Otunuku Pauta      |            nan    |        8 |            nan    | Michael Faleafa       |
+| Samuel Marques     |             80.16 |        9 |             36.39 | Nicolas Darquier      |
+| Charly Malié       |             48.89 |       10 |             43.84 | Willie Du Plessis     |
+| Paul Réau          |            nan    |       11 |             51.35 | Pierre Sayerse        |
+| Taleta Tupuola     |            nan    |       12 |             39.62 | Nacani Wakaya         |
+| Paul Recor         |             48.04 |       13 |            nan    | Gatien Massé          |
+| Pierre Courtaud    |             57.79 |       14 |             34.74 | Semi Lagivala (2)     |
+| Gabin Lorre        |             54.12 |       15 |             40.54 | Alexandre de Nardi    |
+| Yanis Boulassel    |            nan    |       16 |              6.89 | Luka Begic            |
+| Yahnis El Maslouhi |             54.19 |       17 |            nan    | Thomas Bultel         |
+| Sias Koen          |            nan    |       18 |             47.96 | Myles Edwards         |
+| Baptiste Abescat   |             44.89 |       19 |             44.56 | Aurélien Lafforgue    |
+| Damien Añon        |             54.43 |       20 |            nan    | Baptiste Canut        |
 | Romain Uruty       |            nan    |       21 |            nan    | Yoann Laousse Azpiazu |
-| Taylor Gontineac   |             82.63 |       22 |            nan    | Waël Ponpon           |
-| Christian Judge    |             52.47 |       23 |             68.29 | Gheorghe Gajion       |
+| Taylor Gontineac   |             84.5  |       22 |            nan    | Waël Ponpon           |
+| Christian Judge    |             53.96 |       23 |             49.11 | Gheorghe Gajion       |
 

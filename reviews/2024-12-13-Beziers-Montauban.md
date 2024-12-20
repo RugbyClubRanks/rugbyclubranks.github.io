@@ -11,7 +11,7 @@ categories: "Pro D2 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.722, which translates to predicting Beziers to win by 8.4.
 
-Our Over/Under is 54.5 - and combined with the spread above, we have a predicted scoreline of 23 to 32
+Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 23 to 31
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Beziers by 15.0
+## Prediction without Player Minutes: Beziers by 15.6
 
 
-Beziers by 0.4 on a neutral pitch
+Beziers by 1.0 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Beziers by 0.4 on a neutral pitch
 
 |   Away Minutes | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player            |   Home Minutes |
 |---------------:|:------------------|------------------:|---------:|------------------:|:-----------------------|---------------:|
-|             55 | Thomas Bue        |             26.03 |        1 |             75.77 | Marco Trauth           |             25 |
-|             50 | Jeremie Maurouard |              7.79 |        2 |             24.14 | Yanis Boulassel        |             23 |
-|             50 | Tietie Tuimauga   |             65.95 |        3 |             73.5  | Yannick Arroyo         |             60 |
-|             56 | Frank Bradshaw    |             88.79 |        4 |             64.36 | Cam Dodson             |             46 |
-|             80 | Victor Moreaux    |              8.02 |        5 |              1.46 | Shahn Eru              |             80 |
-|             25 | Sikhumbuzo Notshe |             83.99 |        6 |             67.12 | Sias Koen              |             80 |
-|             80 | Kyllian Ringuet   |             66.61 |        7 |             23.42 | Gillian Benoy          |             21 |
-|             25 | Tyrone Viiga      |             22.54 |        8 |             63.77 | Baptiste Abescat-Leroy |             55 |
-|             28 | Joe Powell        |             68.11 |        9 |             75.91 | Samuel Marques         |             80 |
-|             52 | Thomas Fortunel   |             39.8  |       10 |             23.47 | Charly Malie           |             11 |
-|             52 | Josua Vici        |             17.9  |       11 |             83.11 | Aminiasi Tuimaba       |             80 |
-|             18 | Simon Renda       |             79.98 |       12 |             28.75 | Taleta Tupuola         |             80 |
-|             80 | JT Jackson        |             36.7  |       13 |             57.51 | Paul Recor             |             55 |
-|             46 | Romain Fonnicola  |             46.23 |       14 |             26.15 | Pierre Courtaud        |             57 |
-|             75 | Thomas Larregain  |             14.97 |       15 |             74.68 | Gabin Lorre            |             80 |
-|             80 | Lucas Seyrolle    |             15.42 |       16 |             69.44 | Damien Añon            |             20 |
-|             18 | Baptiste Mouchous |             86.69 |       17 |             79.39 | Clement Ancely         |             50 |
-|             18 | Clément Bitz      |             77.48 |       18 |             71.63 | Yahnis El Maslouhi     |             57 |
-|             18 | Dimitri Vaotoa    |             31.18 |       19 |             82.55 | Jose Luis Gonzalez     |             28 |
-|             25 | Malino Vanai      |              8.14 |       20 |             52.47 | Christian Judge        |             80 |
-|             29 | Ru-Hann Greyling  |             52.18 |       21 |             68.06 | Otonuku Jr Pauta       |             80 |
-|             56 | Frédéric Quercy   |              9.28 |       22 |             29.47 | William van Bost       |             80 |
-|             51 | Mael Castel       |             54.32 |       23 |             82.63 | Taylor Gontineac       |             59 |
+|             18 | Thomas Bue        |             30.4  |        1 |             75.8  | Marco Trauth           |             57 |
+|             28 | Jeremie Maurouard |              5.95 |        2 |             22.07 | Yanis Boulassel        |             23 |
+|             25 | Tietie Tuimauga   |             67.95 |        3 |             71.61 | Yannick Arroyo         |             80 |
+|             25 | Frank Bradshaw    |             88.9  |        4 |             64.12 | Cam Dodson             |             80 |
+|             25 | Victor Moreaux    |              9.06 |        5 |              1.33 | Shahn Eru              |             80 |
+|             80 | Sikhumbuzo Notshe |             83.89 |        6 |             68.72 | Sias Koen              |             60 |
+|             25 | Kyllian Ringuet   |             60.93 |        7 |             22.71 | Gillian Benoy          |             23 |
+|             21 | Tyrone Viiga      |             21.62 |        8 |             62.46 | Baptiste Abescat-Leroy |             30 |
+|             80 | Joe Powell        |             69.34 |        9 |             80.16 | Samuel Marques         |             80 |
+|             80 | Thomas Fortunel   |             38.18 |       10 |             26.26 | Charly Malie           |             30 |
+|             51 | Josua Vici        |             18.6  |       11 |             84.5  | Aminiasi Tuimaba       |             55 |
+|             80 | Simon Renda       |             82.78 |       12 |             28.23 | Taleta Tupuola         |             59 |
+|             55 | JT Jackson        |             36.36 |       13 |             60.96 | Paul Recor             |             80 |
+|             69 | Romain Fonnicola  |             48.89 |       14 |             28.38 | Pierre Courtaud        |             80 |
+|             62 | Thomas Larregain  |             15.17 |       15 |             77.34 | Gabin Lorre            |             80 |
+|             80 | Lucas Seyrolle    |             19.72 |       16 |             72.3  | Damien Añon            |             28 |
+|             55 | Baptiste Mouchous |             87.45 |       17 |             79.95 | Clement Ancely         |             52 |
+|             80 | Clément Bitz      |             78.86 |       18 |             73.08 | Yahnis El Maslouhi     |             55 |
+|             62 | Dimitri Vaotoa    |             33.21 |       19 |             83.57 | Jose Luis Gonzalez     |             25 |
+|             29 | Malino Vanai      |             15.05 |       20 |             53.96 | Christian Judge        |             52 |
+|             80 | Ru-Hann Greyling  |             49.14 |       21 |             67.61 | Otonuku Jr Pauta       |             55 |
+|             80 | Frédéric Quercy   |              9.77 |       22 |             29.05 | William van Bost       |             80 |
+|             53 | Mael Castel       |             50.49 |       23 |             84.5  | Taylor Gontineac       |             80 |
 

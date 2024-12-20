@@ -11,7 +11,7 @@ categories: "European Rugby Challenge Cup 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.357, which translates to predicting Lyon to win by 5.2.
 
-Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 27 to 22
+Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 28 to 22
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Zebre by 4.5
+## Prediction without Player Minutes: Zebre by 5.9
 
 
-Lyon by 1.8 on a neutral pitch
+Lyon by 0.3 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,28 +69,29 @@ Lyon by 1.8 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player            |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:-----------------------|---------------:|
-|             52 | Jerome Rey           |             16.62 |        1 |             59.35 | Danilo Fischetti       |             16 |
-|             30 | Sam Matavesi         |             84.42 |        2 |             59.81 | Tommaso Di Bartolomeo  |             56 |
-|             27 | Jermaine Ainsley     |             21.9  |        3 |             18.29 | Matteo Nocera          |             28 |
-|             16 | Theo William         |              7.11 |        4 |              8.48 | Leonard Krumov         |             80 |
-|             53 | Tomas Lavanini       |             92.98 |        5 |             45.31 | Andrea Zambonin        |             80 |
-|             20 | Steeve Blanc-Mappaz  |             22.15 |        6 |             55.96 | Giacomo Milano         |             67 |
-|             59 | Liam Allen           |             74.7  |        7 |             26.66 | Bautista Stavile       |             80 |
-|             32 | Maxime Gouzou        |             11.69 |        8 |             12.69 | Giovanni Licata        |             80 |
-|             80 | Esteban Gonzalez     |             47.84 |        9 |             77.57 | Gonzalo Garcia         |             80 |
-|             80 | Esteban Gonzalez     |             47.84 |        9 |             77.57 | Gonzalo Garcia         |             15 |
-|             80 | Martin Meliande      |              4.49 |       10 |             93.88 | Geronimo Prisciantelli |             61 |
-|             74 | Vincent Rattez       |             85.68 |       11 |             24.05 | Simone Gesi            |             25 |
-|             80 | Semi Radradra        |             98.63 |       12 |             21    | Fetuli Paea            |             57 |
-|             80 | Alfred Parisien      |             70.36 |       13 |             92.35 | Luca Morisi            |             13 |
-|             69 | Ethan Dumortier      |             31.52 |       14 |             18.6  | Jacopo Trulla          |             12 |
-|             69 | Alexandre Tchaptchet |             39.56 |       15 |              8.69 | Alessandro Fusco       |             23 |
-|             80 | Hamza Kaabeche       |             17.96 |       16 |             78.64 | Luca Rizzoli           |             65 |
-|             80 | Yanis Charcosset     |             28.35 |       17 |             28.66 | Giampietro Ribaldi     |             80 |
-|             72 | Irakli Aptsiauri     |             66.22 |       18 |             18.62 | Muhamed Hasa           |             27 |
-|             80 | Killian Geraci       |             24.79 |       19 |             12.52 | Iacopo Bianchi         |             74 |
-|             80 | Beka Saghinadze      |             90.2  |       20 |             68.48 | Rusiate Nasove         |             80 |
-|             80 | Charlie Cassang      |             82.56 |       21 |             23.09 | Thomas Dominguez       |             67 |
-|             80 | Monty Ioane          |             93    |       22 |             13.88 | Giacomo Da Re          |             64 |
-|             80 | Xavier Mignot        |             64.05 |       23 |             58.98 | Scott Gregory          |             80 |
+|             85 | Jerome Rey           |             26.15 |        1 |             47.05 | Danilo Fischetti       |             81 |
+|             53 | Sam Matavesi         |             87.95 |        2 |             48.2  | Tommaso Di Bartolomeo  |             81 |
+|             32 | Jermaine Ainsley     |             33.88 |        3 |             25.91 | Matteo Nocera          |             81 |
+|             85 | Theo William         |             10.21 |        4 |              8.61 | Leonard Krumov         |             63 |
+|             85 | Tomas Lavanini       |             94.4  |        5 |             43.16 | Andrea Zambonin        |             47 |
+|             81 | Steeve Blanc-Mappaz  |             26.31 |        6 |             41.56 | Giacomo Milano         |             53 |
+|             28 | Liam Allen           |             76.35 |        7 |             22.11 | Bautista Stavile       |             70 |
+|             81 | Maxime Gouzou        |             21.32 |        8 |             16.82 | Giovanni Licata        |             70 |
+|             53 | Esteban Gonzalez     |             61.15 |        9 |             75.9  | Gonzalo Garcia         |             81 |
+|             53 | Esteban Gonzalez     |             61.15 |        9 |             75.9  | Gonzalo Garcia         |              9 |
+|             53 | Esteban Gonzalez     |             61.15 |        9 |             75.9  | Gonzalo Garcia         |             85 |
+|             41 | Martin Meliande      |              4.65 |       10 |             93.54 | Geronimo Prisciantelli |             28 |
+|             85 | Vincent Rattez       |             90.06 |       11 |             23.53 | Simone Gesi            |             26 |
+|             40 | Semi Radradra        |             98.47 |       12 |             13.88 | Fetuli Paea            |             84 |
+|             84 | Alfred Parisien      |             69.47 |       13 |             91.29 | Luca Morisi            |             84 |
+|             84 | Ethan Dumortier      |             33.62 |       14 |             16.45 | Jacopo Trulla          |             85 |
+|             56 | Alexandre Tchaptchet |             47.19 |       15 |              8.61 | Alessandro Fusco       |             56 |
+|             84 | Yanis Charcosset     |             20.19 |       16 |             28.79 | Giampietro Ribaldi     |             63 |
+|             76 | Hamza Kaabeche       |             21.96 |       17 |             75.68 | Luca Rizzoli           |             84 |
+|             70 | Irakli Aptsiauri     |             66.88 |       18 |             26.98 | Muhamed Hasa           |             73 |
+|             70 | Killian Geraci       |             27.53 |       19 |            nan    | Rusiate Nasove         |             84 |
+|             70 | Beka Saghinadze      |             89.12 |       20 |             12.43 | Iacopo Bianchi         |             68 |
+|             70 | Charlie Cassang      |             76.72 |       21 |             24.43 | Thomas Dominguez       |             81 |
+|             66 | Xavier Mignot        |             72.58 |       22 |             17.17 | Giacomo Da Re          |             40 |
+|              8 | Monty Ioane          |             94.12 |       23 |             55.6  | Scott Gregory          |             56 |
 

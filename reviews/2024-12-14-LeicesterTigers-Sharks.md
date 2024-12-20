@@ -11,7 +11,7 @@ categories: "European Rugby Champions Cup 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.69, which translates to predicting Leicester Tigers to win by 7.0.
 
-Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 20 to 27
+Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 18 to 25
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Leicester Tigers by 20.3
+## Prediction without Player Minutes: Leicester Tigers by 21.2
 
 
-Leicester Tigers by 4.8 on a neutral pitch
+Leicester Tigers by 5.7 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,28 +69,30 @@ Leicester Tigers by 4.8 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|              4 | Ntuthuko Mchunu     |             38.72 |        1 |             43.12 | Nicky Smith           |             80 |
-|             58 | Dylan Richardson    |             35.67 |        2 |             91.12 | Julian Montoya        |             45 |
-|             80 | Trevor Nyakane      |             86.18 |        3 |             84.45 | Joe Heyes             |             47 |
-|             80 | Jason Jenkins       |             64.63 |        4 |             88.7  | Harry Wells           |             80 |
-|             49 | Emile van Heerden   |             59.16 |        5 |             94.62 | George Martin         |             29 |
-|             40 | Phepsi Buthelezi    |             71.98 |        6 |             67.29 | Hanro Liebenberg      |             80 |
-|             33 | Jeandre Labuschagne |             24.36 |        7 |             19.51 | Tommy Reffell         |             31 |
-|             33 | Emmanuel Tshituka   |             56.59 |        8 |             30.05 | Olly Cracknell        |             59 |
-|             80 | Emmanuel Tshituka   |             56.59 |        8 |             30.05 | Olly Cracknell        |             59 |
-|             80 | Jaden Hendrikse     |             93.69 |        9 |             56.15 | Jack van Poortvliet   |             51 |
-|             80 | Siya Masuku         |             67.14 |       10 |             86.53 | Handre Pollard        |             47 |
-|             61 | Yaw Penxe           |             11.91 |       11 |             67.86 | Ollie Hassell-Collins |             80 |
-|             80 | Francois Venter     |             62.81 |       12 |             49.56 | Solomone Kata         |             33 |
-|             29 | Ethan Hooker        |             57.11 |       13 |             46.81 | Izaia Perese          |              6 |
-|             48 | Eduan Keyter        |             15.02 |       14 |             85.45 | Josh Bassett          |             80 |
-|             80 | Jordan Hendrikse    |             76.89 |       15 |              3.51 | Freddie Steward       |             80 |
-|             80 | Hanru Jacobs        |             55.61 |       16 |             66.36 | James Whitcombe       |             80 |
-|             80 | Ethan Bester        |             54.52 |       17 |             38.32 | Charlie Clare         |             80 |
-|             55 | Corne Rahl          |             14.31 |       18 |             35.78 | Dan Cole              |             80 |
-|             80 | Tinotenda Mavesere  |             76.15 |       19 |            nan    | Cameron Henderson     |             30 |
-|             80 | Phatu Ganyane       |            nan    |       20 |             54.34 | Emeka Ilione          |             67 |
-|             29 | Diego Appollis      |             31.21 |       21 |             13.67 | James Shillcock       |             80 |
-|             55 | Bradley Davids      |             59.3  |       22 |             82.23 | Ben Youngs            |             80 |
-|             61 | Hakeem Kunene       |             62.85 |       23 |             61.43 | Joseph Woodward       |             76 |
+|             67 | Ntuthuko Mchunu     |             25.74 |        1 |             58.68 | Nicky Smith           |             33 |
+|             56 | Ntuthuko Mchunu     |             25.74 |        1 |             58.68 | Nicky Smith           |             33 |
+|             51 | Ntuthuko Mchunu     |             25.74 |        1 |             58.68 | Nicky Smith           |             33 |
+|             62 | Ntuthuko Mchunu     |             25.74 |        1 |             58.68 | Nicky Smith           |             33 |
+|             49 | Dylan Richardson    |             34.12 |        2 |             91.24 | Julian Montoya        |              5 |
+|             33 | Trevor Nyakane      |             83.35 |        3 |             84.36 | Joe Heyes             |             33 |
+|             81 | Jason Jenkins       |             68.03 |        4 |             88.37 | Harry Wells           |             33 |
+|             68 | Emile van Heerden   |             59.95 |        5 |             94.05 | George Martin         |             33 |
+|             81 | Phepsi Buthelezi    |             67.69 |        6 |             71.81 | Hanro Liebenberg      |             33 |
+|             27 | Jeandre Labuschagne |             25.11 |        7 |             21.25 | Tommy Reffell         |             33 |
+|             33 | Emmanuel Tshituka   |             53.3  |        8 |             24.77 | Olly Cracknell        |             33 |
+|             83 | Jaden Hendrikse     |             94.1  |        9 |             70.33 | Jack van Poortvliet   |             33 |
+|             51 | Siya Masuku         |             69.49 |       10 |             91.11 | Handre Pollard        |             33 |
+|             83 | Yaw Penxe           |             44.28 |       11 |             79.49 | Ollie Hassell-Collins |             33 |
+|             27 | Francois Venter     |             66.22 |       12 |             57.03 | Solomone Kata         |             83 |
+|             16 | Ethan Hooker        |             55.89 |       13 |             33.4  | Izaia Perese          |             33 |
+|             16 | Eduan Keyter        |             16.38 |       14 |             85.85 | Josh Bassett          |             33 |
+|             32 | Jordan Hendrikse    |             79.03 |       15 |              4.49 | Freddie Steward       |             33 |
+|             52 | Ethan Bester        |            nan    |       16 |             18.78 | Charlie Clare         |             81 |
+|             81 | Phatu Ganyane       |            nan    |       17 |             67.06 | James Whitcombe       |             81 |
+|             30 | Hanro Jacobs        |            nan    |       18 |             33.35 | Dan Cole              |             70 |
+|             62 | Corne Rahl          |             17.05 |       19 |            nan    | Cameron Henderson     |             32 |
+|             16 | Tinotenda Mavesere  |             76.61 |       20 |             69.84 | Emeka Ilione          |             33 |
+|             27 | Bradley Davids      |             59.51 |       21 |             83.44 | Ben Youngs            |             56 |
+|             80 | Diego Appollis      |             31.67 |       22 |             69.9  | Jamie Shillcock       |             67 |
+|             64 | Hakeem Kunene       |            nan    |       23 |             61.34 | Joseph Woodward       |             21 |
 

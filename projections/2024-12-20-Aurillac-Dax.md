@@ -42,7 +42,7 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction without Player Minutes: Aurillac by 16.4
 
 
-Aurillac by 3.3 on a neutral pitch
+Aurillac by 3.4 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Aurillac by 3.3 on a neutral pitch
 
 | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player             |
 |:----------------------|------------------:|---------:|------------------:|:------------------------|
-| Dino Casadeï          |             56.28 |        1 |             52.87 | Irakli Mtchedlidze      |
+| Dino Casadeï          |             58.56 |        1 |             55.9  | Irakli Mtchedlidze      |
 | Louis Barrère         |            nan    |        2 |            nan    | Luka Nioradze           |
-| Diogo Hasse Ferreira  |             11.95 |        3 |             58.14 | Giorgi Kartvelishvili   |
-| Etienne Loiret        |            nan    |        4 |             66.36 | Koen Bloemen            |
-| Jean-Baptiste Singer  |             51.32 |        5 |            nan    | Abongile Nonkontwana    |
-| Jean-Baptiste Barrère |             52.64 |        6 |             54.94 | Eoghan Masterson        |
-| Paul Arnaud Ausset    |             51.87 |        7 |             55.79 | Lucas Oudard            |
-| Genesis Mamea Lemalu  |            nan    |        8 |             46.58 | Didier Tison            |
-| Paul Ravier           |            nan    |        9 |             54.49 | David Delarue           |
-| Romuald Séguy         |             48.78 |       10 |             46.94 | Ugo Seunes              |
-| Diego Miranda         |            nan    |       11 |             54.4  | Aj Coertzen             |
-| Jale Vatubua          |              1.18 |       12 |             52.06 | Elijah Niko             |
+| Diogo Hasse Ferreira  |             18.89 |        3 |             60.57 | Giorgi Kartvelishvili   |
+| Etienne Loiret        |            nan    |        4 |             67.23 | Koen Bloemen            |
+| Jean-Baptiste Singer  |             53.64 |        5 |            nan    | Abongile Nonkontwana    |
+| Jean-Baptiste Barrère |             52.87 |        6 |             55.53 | Eoghan Masterson        |
+| Paul Arnaud Ausset    |             52.01 |        7 |             56.3  | Lucas Oudard            |
+| Genesis Mamea Lemalu  |            nan    |        8 |             45.35 | Didier Tison            |
+| Paul Ravier           |            nan    |        9 |             55.25 | David Delarue           |
+| Romuald Séguy         |             49.49 |       10 |             47.07 | Ugo Seunes              |
+| Diego Miranda         |            nan    |       11 |             56.04 | Aj Coertzen             |
+| Jale Vatubua          |              1.82 |       12 |             52.3  | Elijah Niko             |
 | Benjamin Puntous      |            nan    |       13 |            nan    | Hugo Bastard            |
-| Maxime Oltmann        |             48.61 |       14 |             52.06 | Karl Martin             |
+| Maxime Oltmann        |             50.75 |       14 |             52.3  | Karl Martin             |
 | Théo Duprat           |            nan    |       15 |            nan    | Dachi Papunashvili      |
 | Kito Falatea          |            nan    |       16 |            nan    | Ronan Loughnane         |
 | Louis Mary            |            nan    |       17 |            nan    | Gymaël Jean-Jacques     |
-| Brice Ferrer          |             49.04 |       18 |             57.52 | Mehdi Slamani           |
+| Brice Ferrer          |             61.59 |       18 |             59.15 | Mehdi Slamani           |
 | Arnaud Aletti         |            nan    |       19 |            nan    | Heath Backhouse         |
-| Sylvère Réteau        |             52.99 |       20 |             51.92 | Mael Perrin             |
+| Sylvère Réteau        |             53.61 |       20 |             52.55 | Mael Perrin             |
 | Hugo Fourquet         |            nan    |       21 |            nan    | Boris Hadinegoro        |
-| Viliame Tutuvuli (2)  |            nan    |       22 |             53.06 | Tedo Abzhandadze        |
-| David Lolohea         |             60.95 |       23 |             36.38 | Dominic Robertson-McCoy |
+| Viliame Tutuvuli (2)  |            nan    |       22 |             40.61 | Tedo Abzhandadze        |
+| David Lolohea         |             61.1  |       23 |             40.73 | Dominic Robertson-McCoy |
 

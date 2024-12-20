@@ -11,7 +11,7 @@ categories: "European Rugby Champions Cup 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.626, which translates to predicting Sale Sharks to win by 4.5.
 
-Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 20 to 25
+Our Over/Under is 41.5 - and combined with the spread above, we have a predicted scoreline of 18 to 23
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Racing 92 by 20.2
+## Prediction without Player Minutes: Racing 92 by 1.6
 
 
-Racing 92 by 33.8 on a neutral pitch
+Racing 92 by 15.2 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -67,36 +67,31 @@ Racing 92 by 33.8 on a neutral pitch
 </p>
 
 
-|   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player                    |   Home Minutes |
-|---------------:|:--------------------|------------------:|---------:|------------------:|:-------------------------------|---------------:|
-|             22 | Guram Gogichashvili |             42.66 |        1 |             88.25 | Bevan Rodd                     |             10 |
-|             18 | Camille Chat        |             89.88 |        2 |             66.2  | Luke Cowan-Dickie              |             81 |
-|             18 | Camille Chat        |             89.88 |        2 |             66.2  | Luke Cowan-Dickie              |             65 |
-|             18 | Camille Chat        |             89.88 |        2 |             66.2  | Luke Cowan-Dickie              |             18 |
-|             51 | Lucio Sordoni       |             87.25 |        3 |             55.67 | James Harper                   |             52 |
-|             71 | Junior Kpoku        |             53.87 |        4 |             19.6  | Ben Bamber                     |             82 |
-|             50 | Junior Kpoku        |             53.87 |        4 |             19.6  | Ben Bamber                     |             82 |
-|             11 | Will Rowlands       |             12.49 |        5 |             37.19 | Jonny Hill                     |             81 |
-|             61 | Cameron Woki        |             92.33 |        6 |             99.23 | Jean-Luc du Preez              |             46 |
-|             82 | Maxime Baudonne     |             58.6  |        7 |             78.71 | Ben Curry                      |             25 |
-|             21 | Hacjivah Dayimani   |             83.14 |        8 |             87.65 | Daniel du Preez                |             82 |
-|             82 | Nolann Le Garrec    |             37.04 |        9 |             84.22 | Gus Warr                       |             25 |
-|             22 | Dan Lancaster       |              3.47 |       10 |             96.73 | George Ford                    |             58 |
-|             26 | Max Spring          |             16.5  |       11 |             96.26 | Tom O'Flaherty                 |             81 |
-|             32 | Henry Chavancy      |             99.21 |       12 |             84.1  | Luke James                     |             71 |
-|             81 | Sam James           |             91.27 |       13 |             92.54 | Robert du Preez                |             71 |
-|             81 | Sam James           |             91.27 |       13 |             92.54 | Robert du Preez                |             81 |
-|             81 | Henry Arundell      |             11.28 |       14 |             71.98 | Tom Roebuck                    |             77 |
-|             58 | Henry Arundell      |             11.28 |       14 |             71.98 | Tom Roebuck                    |             77 |
-|             52 | Tristan Tedder      |             10.91 |       15 |            100    | Joe Carpenter                  |             81 |
-|             52 | Tristan Tedder      |             10.91 |       15 |            100    | Joe Carpenter                  |             63 |
-|             52 | Tristan Tedder      |             10.91 |       15 |            100    | Joe Carpenter                  |             52 |
-|             51 | Diego Escobar       |            nan    |       16 |             78.35 | Tadgh McElroy                  |             51 |
-|             51 | Lino Julien         |            nan    |       17 |             86.45 | Simon McIntyre                 |             63 |
-|             67 | Gia Kharaishvili    |             63.82 |       18 |            nan    | WillGriff John                 |             82 |
-|             81 | Fabien Sanconnie    |             52.42 |       19 |             81.31 | Josh Beaumont                  |             14 |
-|             81 | Ibrahim Diallo      |             40.55 |       20 |              8.94 | Sam Dugdale                    |             81 |
-|             50 | Clovis Le Bail      |             56.64 |       21 |             74.75 | Raffi Quirke                   |             14 |
-|             59 | Antoine Gibert      |             93.27 |       22 |             86.26 | Waisea Nayacalevu Vuidravuwalu |             18 |
-|             82 | Wame Naituvi        |             80    |       23 |             34.47 | Alex Wills                     |             52 |
+|   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player                    |   Home Minutes |
+|---------------:|:----------------------|------------------:|---------:|------------------:|:-------------------------------|---------------:|
+|             80 | Guram Gogichashvili   |             51.59 |        1 |             88.31 | Bevan Rodd                     |             65 |
+|             45 | Camille Chat          |             89.67 |        2 |              0.16 | Luke Cowan-Dickie              |             80 |
+|             12 | Lucio Sordoni         |             89.14 |        3 |             35.95 | James Harper                   |             80 |
+|             56 | Junior Kpoku          |             83.84 |        4 |             13.14 | Ben Bamber                     |             80 |
+|             80 | Will Rowlands         |             13.59 |        5 |             13.85 | Jonny Hill                     |             40 |
+|             80 | Cameron Woki          |             93.74 |        6 |             99.57 | Jean-Luc du Preez              |             80 |
+|             35 | Maxime Baudonne       |             78.75 |        7 |             78.49 | Ben Curry                      |             80 |
+|             16 | Hacjivah Dayimani     |             77.93 |        8 |             78.38 | Daniel du Preez                |             64 |
+|             40 | Nolann Le Garrec      |             70.82 |        9 |             64.43 | Gus Warr                       |             58 |
+|             80 | Dan Lancaster         |              2.02 |       10 |             93.94 | George Ford                    |             28 |
+|             80 | Max Spring            |             16.61 |       11 |             97.46 | Tom O'Flaherty                 |             80 |
+|             52 | Henry Chavancy        |             99.14 |       12 |             61.82 | Luke James                     |             54 |
+|             18 | Sam James             |             95.22 |       13 |             78.28 | Robert du Preez                |             70 |
+|             18 | Sam James             |             95.22 |       13 |             78.28 | Robert du Preez                |             80 |
+|             61 | Henry Arundell        |             12.64 |       14 |             53.97 | Tom Roebuck                    |             80 |
+|             62 | Henry Arundell        |             12.64 |       14 |             53.97 | Tom Roebuck                    |             80 |
+|             39 | Tristan Tedder        |             21.35 |       15 |              1.5  | Joe Carpenter                  |             80 |
+|             80 | Lino Julien           |             52.83 |       16 |             85.18 | Simon McIntyre                 |             57 |
+|             22 | Fabien Sanconnie      |             53.37 |       17 |             69.48 | Tadgh McElroy                  |             80 |
+|             55 | Diego Escobar Alvarez |             79.66 |       18 |            nan    | WillGriff John                 |             26 |
+|             55 | Gia Kharaishvili      |             65.47 |       19 |             82.24 | Josh Beaumont                  |              9 |
+|             80 | Ibrahim Diallo        |             36.5  |       20 |              9.17 | Sam Dugdale                    |             80 |
+|             66 | Clovis Le bail        |             31.97 |       21 |             76.07 | Raffi Quirke                   |             80 |
+|             41 | Antoine Gibert        |             92.93 |       22 |             37.84 | Arron Reed                     |             64 |
+|             66 | Wame Naituvi          |             81.16 |       23 |             85.55 | Waisea Nayacalevu Vuidravuwalu |             71 |
 

@@ -11,7 +11,7 @@ categories: "European Rugby Champions Cup 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.507, which translates to predicting Stade Francais Paris to win by 0.2.
 
-Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 26 to 26
+Our Over/Under is 40.5 - and combined with the spread above, we have a predicted scoreline of 20 to 20
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Saracens by 1.4
+## Prediction without Player Minutes: Saracens by 1.1
 
 
-Saracens by 16.8 on a neutral pitch
+Saracens by 16.5 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,30 @@ Saracens by 16.8 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player              |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:-------------------------|---------------:|
-|              4 | Rhys Carre           |             53.74 |        1 |             53.07 | Clement Castets          |             33 |
-|              4 | Jamie George         |             97.2  |        2 |             95.79 | Giacomo Nicotera         |             21 |
-|              4 | Marco Riccioni       |             84.38 |        3 |             46.33 | Paul Alo-Emile           |             11 |
-|              4 | Maro Itoje           |             99.18 |        4 |              6.02 | Paul Gabrillagues        |              0 |
-|              4 | Nick Isiekwe         |             95.35 |        5 |              9.3  | Tanginoa Halaifonua      |             29 |
-|              4 | Theo McFarland       |             33.73 |        6 |             86.97 | Sekou Macalou            |              0 |
-|              4 | Ben Earl             |             97.87 |        7 |             19.93 | Ryan Chapuis             |             35 |
-|              4 | Tom Willis           |             58.93 |        8 |              4.17 | Juan Martin Scelzo       |             81 |
-|              0 | Ivan van Zyl         |             90.2  |        9 |             96.35 | Brad Weber               |             27 |
-|              0 | Fergus Burke         |             81.22 |       10 |             66.73 | Zack Henry               |             63 |
-|              0 | Rotimi Segun         |             73.54 |       11 |             14.4  | Charles Laloi            |             81 |
-|              0 | Nick Tompkins        |             99.71 |       12 |             58.29 | Jeremy Ward              |             75 |
-|             83 | Lucio Cinti          |             87.44 |       13 |             16.78 | Joe Marchant             |             61 |
-|             81 | Liam Williams        |             97.59 |       14 |             58.52 | Peniasi Dakuwaqa         |             81 |
-|             19 | Elliot Daly          |             91.31 |       15 |             52.87 | Leo Barre                |             81 |
-|              4 | Theo Dan             |             83.18 |       16 |             18.22 | Lucas Peyresblanques     |             57 |
-|              4 | Phil Brantingham     |             15.29 |       17 |             38.12 | Moses Alo-Emile          |             83 |
-|             30 | Alec Clarey          |             77.04 |       18 |             34.65 | Hugo Ndiaye              |             83 |
-|              4 | Harry Wilson         |             98.92 |       19 |             59.25 | Setareki Turagacoke      |             83 |
-|             81 | Juan Martin Gonzalez |             95.14 |       20 |             18.48 | Andy Timo                |             19 |
-|             70 | Gareth Simpson       |             27.41 |       21 |             35.56 | Yoan Tanga               |             83 |
-|             17 | Tiff Eden            |              8.16 |       22 |             17.2  | Samuel Ezeala            |             19 |
-|              8 | Olly Hartley         |             30.62 |       23 |             19.18 | Louis Foursans-Bourdette |             55 |
+|             54 | Rhys Carre           |             48.23 |        1 |             59.09 | Clement Castets          |             83 |
+|             60 | Jamie George         |             97.03 |        2 |             95.77 | Giacomo Nicotera         |             30 |
+|             74 | Marco Riccioni       |             78.87 |        3 |             70.72 | Paul Alo-Emile           |             83 |
+|             81 | Maro Itoje           |             98.85 |        4 |              7.46 | Paul Gabrillagues        |             39 |
+|             70 | Nick Isiekwe         |             94.85 |        5 |             13.94 | Tanginoa Halaifonua      |             56 |
+|             81 | Theo McFarland       |             35.13 |        6 |             85.43 | Sekou Macalou            |              8 |
+|             67 | Ben Earl             |             98.46 |        7 |             51.33 | Ryan Chapuis             |             25 |
+|             81 | Tom Willis           |             48.95 |        8 |             17.27 | Juan Martin Scelzo       |             34 |
+|             48 | Ivan van Zyl         |             88.03 |        9 |             97.38 | Brad Weber               |             70 |
+|             27 | Fergus Burke         |             68.89 |       10 |             69.7  | Zack Henry               |             41 |
+|             19 | Rotimi Segun         |             74.56 |       11 |             38.24 | Charles Laloi            |             56 |
+|             81 | Nick Tompkins        |             99.71 |       12 |             75.98 | Jeremy Ward              |             35 |
+|             26 | Lucio Cinti          |             76.94 |       13 |             31.48 | Joe Marchant             |             47 |
+|             26 | Liam Williams        |             98.65 |       14 |             80.37 | Peniasi Dakuwaqa         |             81 |
+|             61 | Elliot Daly          |             90.26 |       15 |             72.66 | Leo Barre                |             17 |
+|             81 | Theo Dan             |             79.81 |       16 |             12.52 | Lucas Peyresblanques     |             16 |
+|             83 | Phil Brantingham     |             21.9  |       17 |             44.27 | Moses Alo-Emile          |             81 |
+|             33 | Alec Clarey          |             75.44 |       18 |             39.08 | Hugo Ndiaye              |             73 |
+|             51 | Harry Wilson         |             89    |       19 |             60.66 | Setareki Turagacoke      |             35 |
+|             83 | Harry Wilson         |             89    |       19 |             60.66 | Setareki Turagacoke      |             35 |
+|             71 | Harry Wilson         |             89    |       19 |             60.66 | Setareki Turagacoke      |             35 |
+|             62 | Harry Wilson         |             89    |       19 |             60.66 | Setareki Turagacoke      |             35 |
+|             64 | Juan Martin Gonzalez |             95.72 |       20 |             18.59 | Andy Timo                |             81 |
+|             81 | Gareth Simpson       |             28.03 |       21 |             42.04 | Yoan Tanga               |             83 |
+|             18 | Tiff Eden            |              7.88 |       22 |             14.79 | Samuel Ezeala            |             21 |
+|              6 | Olly Hartley         |             35.12 |       23 |             18.18 | Louis Foursans-Bourdette |             83 |
 

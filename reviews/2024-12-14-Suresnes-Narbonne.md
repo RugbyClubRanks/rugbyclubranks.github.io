@@ -9,9 +9,9 @@ categories: "Nationale 2024" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.541, which translates to predicting Suresnes to win by 1.5.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.54, which translates to predicting Suresnes to win by 1.4.
 
-Our Over/Under is 44.5 - and combined with the spread above, we have a predicted scoreline of 22 to 23
+Our Over/Under is 42.5 - and combined with the spread above, we have a predicted scoreline of 21 to 22
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -42,7 +42,7 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction without Player Minutes: Suresnes by 1.7
 
 
-Narbonne by 1.7 on a neutral pitch
+Narbonne by 1.8 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Narbonne by 1.7 on a neutral pitch
 
 |   Away Minutes | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player             |   Home Minutes |
 |---------------:|:------------------|------------------:|---------:|------------------:|:------------------------|---------------:|
-|             30 | Théo Castinel     |             77.44 |        1 |             77.7  | Elias Coulibaly         |             25 |
-|             22 | Clément Esteriola |              9.81 |        2 |             73.83 | Gauthier Brute de Remur |             80 |
-|             25 | Chris Talakai     |             29.71 |        3 |             31.91 | Leandro Mario Assi      |             50 |
-|             30 | Morgan Maga       |             40.66 |        4 |             30.17 | Sacha Yahi              |             69 |
-|              7 | Marius Antonescu  |             11.58 |        5 |             26.34 | Yakine Mohamed Djebarri |             17 |
-|             48 | Thibault Clauzade |             84.07 |        6 |             17.97 | Florian Desbordes       |             26 |
-|             66 | Paul Belzons      |             14.82 |        7 |              8.18 | Simon Veyrac            |             70 |
-|             80 | Grégoire Labit    |             44.74 |        8 |             77.96 | Lakisipone Lee          |             30 |
-|             80 | Erwan Nicolas     |             57.48 |        9 |             19.77 | Thomas Lacroix          |             60 |
-|             80 | Tom Chauvet       |             49.39 |       10 |             61.84 | Tanguy Lacoste          |             50 |
-|             80 | Étienne Ducom     |             80.31 |       11 |             16.19 | Yohan Fournier          |             65 |
-|             80 | Peter Betham      |             99.9  |       12 |             64.57 | Petero Tuwai            |             50 |
-|             80 | Pierre Nueno      |             27.28 |       13 |              2.75 | JJ Taulagi              |             60 |
-|             74 | Pierre-Hugo Ducom |             12.84 |       14 |             77.9  | Victor Barnier          |             80 |
-|             80 | Boris Goutard     |              1.29 |       15 |              7.58 | Goulwen Gueho           |             32 |
-|             32 | Gregory Fichten   |             18.69 |       16 |             42.52 | Yanis Trabelsi          |             80 |
-|             80 | Gabriel Atlan     |             77.88 |       17 |            nan    | Ismael Martin           |             80 |
-|             22 | Livai Tikoipau    |             22.83 |       18 |             20.09 | Nail Audoire            |             30 |
-|             40 | Dennis Visser     |             38.47 |       19 |              1    | Nikita Bekov            |             55 |
-|             80 | Luke Nakobukobua  |             92.76 |       20 |             70.83 | Marvin Woki             |             80 |
-|             80 | Pierrick Nova     |             34.72 |       21 |             44.63 | Boaventura Almeida      |             80 |
-|             22 | Gilles Bosch      |             10.61 |       22 |             15.61 | Théo Bachiri            |             80 |
+|             30 | Théo Castinel     |             78.04 |        1 |             79.34 | Elias Coulibaly         |             64 |
+|             83 | Clément Esteriola |              9.23 |        2 |             70.11 | Gauthier Brute de Remur |             80 |
+|             57 | Chris Talakai     |             31.17 |        3 |             32.82 | Leandro Mario Assi      |             60 |
+|             83 | Morgan Maga       |             52.49 |        4 |             30.02 | Sacha Yahi              |             50 |
+|             83 | Marius Antonescu  |             16.87 |        5 |             28.06 | Yakine Mohamed Djebarri |             63 |
+|             81 | Thibault Clauzade |             85.69 |        6 |             17.91 | Florian Desbordes       |             60 |
+|             46 | Paul Belzons      |             14.91 |        7 |              7.37 | Simon Veyrac            |             50 |
+|             83 | Grégoire Labit    |             51.35 |        8 |             68.32 | Lakisipone Lee          |             80 |
+|             64 | Erwan Nicolas     |             66.72 |        9 |             15.08 | Thomas Lacroix          |             80 |
+|             65 | Tom Chauvet       |             61.82 |       10 |             65.86 | Tanguy Lacoste          |             30 |
+|             46 | Étienne Ducom     |             82.67 |       11 |             15.58 | Yohan Fournier          |             80 |
+|             27 | Peter Betham      |             99.81 |       12 |             67.94 | Petero Tuwai            |             54 |
+|             30 | Pierre Nueno      |             27.08 |       13 |              4.88 | JJ Taulagi              |              7 |
+|             58 | Pierre-Hugo Ducom |             14.31 |       14 |             75.04 | Victor Barnier          |             80 |
+|             50 | Boris Goutard     |              1.31 |       15 |              8.99 | Goulwen Gueho           |             20 |
+|             25 | Gregory Fichten   |             24.73 |       16 |             43.98 | Yanis Trabelsi          |             80 |
+|             80 | Gabriel Atlan     |             66.98 |       17 |            nan    | Ismael Martin           |             80 |
+|              6 | Livai Tikoipau    |             29.1  |       18 |             26.27 | Nail Audoire            |             55 |
+|             66 | Dennis Visser     |             40.59 |       19 |              0.98 | Nikita Bekov            |             54 |
+|             46 | Luke Nakobukobua  |             93.14 |       20 |             72.74 | Marvin Woki             |             80 |
+|             80 | Pierrick Nova     |             56.07 |       21 |             44.64 | Boaventura Almeida      |             70 |
+|             80 | Gilles Bosch      |             10.71 |       22 |             11.8  | Théo Bachiri            |             80 |
 |             80 | Hugo Clauzel      |            nan    |       23 |            nan    | nan                     |            nan |
 

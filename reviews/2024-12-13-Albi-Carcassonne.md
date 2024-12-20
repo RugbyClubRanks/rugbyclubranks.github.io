@@ -9,9 +9,9 @@ categories: "Nationale 2024" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.622, which translates to predicting Albi to win by 4.4.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.621, which translates to predicting Albi to win by 4.4.
 
-Our Over/Under is 42.5 - and combined with the spread above, we have a predicted scoreline of 19 to 23
+Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 22 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Albi by 8.0
+## Prediction without Player Minutes: Albi by 8.2
 
 
-Carcassonne by 3.3 on a neutral pitch
+Carcassonne by 3.1 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Carcassonne by 3.3 on a neutral pitch
 
 |   Away Minutes | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player             |   Home Minutes |
 |---------------:|:------------------|------------------:|---------:|------------------:|:------------------------|---------------:|
-|             25 | Yan Arnold        |             56.48 |        1 |             70.16 | Antoine Soave           |             25 |
-|             40 | Raphael Carbou    |             76.01 |        2 |             18.07 | Reinach Venter          |              8 |
-|             21 | Siua Halanukonuka |             62.22 |        3 |             51.67 | Jean Baptiste De Clercq |             32 |
-|             33 | Romain Guyot      |             77.67 |        4 |             75.66 | Vincent Mutel           |             80 |
-|             33 | Marius Iftimiciuc |             15.77 |        5 |             23.06 | Dion Evrard Oulai       |             15 |
-|             18 | Bilal Fadli       |             68.74 |        6 |             16.01 | Mattéo Coustalat        |              9 |
-|              4 | Valentin Sese     |             18.23 |        7 |             13.54 | Ianis Ponsole           |             17 |
-|              4 | Ferdinand Dreno   |             32.72 |        8 |             55.93 | Camille Jarreau         |             51 |
-|             80 | Gaetan Pichon     |             60.63 |        9 |             80.4  | Gilen Queheille         |             51 |
-|             40 | Johnny McPhillips |             72.86 |       10 |             14.9  | Victor Pisano           |             80 |
-|             59 | Clement Egiziano  |             92.61 |       11 |             72.22 | Kamilieni Raivono       |             28 |
-|             60 | Sefa Naivalu      |             98.72 |       12 |             10.11 | Leo Treilles            |             80 |
-|             25 | Lukas Doyhenard   |             75.37 |       13 |             82.34 | Baptiste Couchinave     |             24 |
-|             40 | Paul Gadea        |             77.2  |       14 |             63.27 | Simon Hartmann          |             25 |
-|             40 | Maxime Gianet     |             90.76 |       15 |             52.31 | Téo Dospital            |             16 |
-|             80 | Thomas Agati      |             57.41 |       16 |             38.05 | Lucas Pindor            |             16 |
-|             80 | Baptiste Moreno   |            nan    |       17 |             21.81 | Arthur Castant          |             45 |
-|             40 | Etienne Herjean   |             86.2  |       18 |             24.3  | Esteban Talalua         |             45 |
-|             11 | Clément Fontaine  |             39.38 |       19 |             69.92 | Jonathan Kpoku          |             45 |
-|             25 | Thomas Hoarau     |             11.35 |       20 |             23.54 | Guillem Calmon          |             54 |
-|             80 | Gabin Michet      |             85.1  |       21 |             89.53 | Théo Vidal              |             28 |
-|             80 | Nils Chalies      |             29.94 |       22 |             69.59 | Thibault Olender        |             64 |
-|            nan | nan               |            nan    |       23 |             70.17 | Victorien Jacomme       |             36 |
+|             80 | Yan Arnold        |             70.9  |        1 |             71.84 | Antoine Soave           |             22 |
+|             55 | Raphael Carbou    |             74.33 |        2 |             17.84 | Reinach Venter          |             24 |
+|              1 | Siua Halanukonuka |             61.04 |        3 |             52.89 | Jean Baptiste De Clercq |             35 |
+|              9 | Romain Guyot      |             79.48 |        4 |             81.35 | Vincent Mutel           |             27 |
+|             53 | Marius Iftimiciuc |             17.94 |        5 |             22.65 | Dion Evrard Oulai       |             48 |
+|             28 | Bilal Fadli       |             70.44 |        6 |             14.05 | Mattéo Coustalat        |             55 |
+|             80 | Valentin Sese     |             25.36 |        7 |             12.34 | Ianis Ponsole           |             40 |
+|             80 | Ferdinand Dreno   |             42.79 |        8 |             49.55 | Camille Jarreau         |             80 |
+|             80 | Gaetan Pichon     |             44.26 |        9 |             78.03 | Gilen Queheille         |             80 |
+|             63 | Johnny McPhillips |             72.53 |       10 |             15.76 | Victor Pisano           |             31 |
+|             67 | Clement Egiziano  |             94.59 |       11 |             75.99 | Kamilieni Raivono       |             26 |
+|             25 | Sefa Naivalu      |             98.76 |       12 |             15.12 | Leo Treilles            |             22 |
+|             80 | Lukas Doyhenard   |             80.57 |       13 |             80.19 | Baptiste Couchinave     |             63 |
+|             80 | Paul Gadea        |             84.1  |       14 |             57.39 | Simon Hartmann          |             70 |
+|             62 | Maxime Gianet     |             91.95 |       15 |             46.63 | Téo Dospital            |             63 |
+|             47 | Thomas Agati      |             49.06 |       16 |             45.16 | Lucas Pindor            |             40 |
+|             67 | Baptiste Moreno   |            nan    |       17 |             20.34 | Arthur Castant          |             40 |
+|             47 | Etienne Herjean   |             86.63 |       18 |             31.76 | Esteban Talalua         |             80 |
+|             80 | Clément Fontaine  |             38.1  |       19 |             72.38 | Jonathan Kpoku          |             80 |
+|             80 | Thomas Hoarau     |             16.52 |       20 |             24.92 | Guillem Calmon          |             80 |
+|             80 | Gabin Michet      |             84.85 |       21 |             90.49 | Théo Vidal              |             80 |
+|             25 | Nils Chalies      |             41.2  |       22 |             73.13 | Thibault Olender        |             76 |
+|            nan | nan               |            nan    |       23 |             71.29 | Victorien Jacomme       |             80 |
 

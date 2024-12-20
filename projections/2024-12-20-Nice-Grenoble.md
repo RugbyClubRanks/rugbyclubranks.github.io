@@ -9,7 +9,7 @@ categories: "Pro D2 2024" match projection
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.305, which translates to predicting Grenoble to win by 4.0.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.306, which translates to predicting Grenoble to win by 4.1.
 
 Our Over/Under is 36.5 - and combined with the spread above, we have a predicted scoreline of 20 to 16
 
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Grenoble by 1.8
+## Prediction without Player Minutes: Grenoble by 1.9
 
 
-Grenoble by 5.1 on a neutral pitch
+Grenoble by 5.3 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Grenoble by 5.1 on a neutral pitch
 
 | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player        |
 |:-------------------|------------------:|---------:|------------------:|:-------------------|
-| Zack Gauthier      |             46.09 |        1 |             12.48 | Facundo Gigena     |
-| nan                |            nan    |        2 |            nan    | Pierre Strippoli   |
-| Giorgi Pertaia     |             48.2  |        3 |            nan    | Luvuyo Pupuma      |
-| Pierce Phillips    |             54.51 |        4 |            nan    | Thibaud Rey        |
-| Giorgi Javakhia    |             90.52 |        5 |             42.66 | Clément Chartier   |
-| Thomas Ployet      |             54.24 |        6 |            nan    | Louis Suaud        |
+| Zack Gauthier      |             49.5  |        1 |             22.61 | Facundo Gigena     |
+| Lilian Rossi       |            nan    |        2 |            nan    | Pierre Strippoli   |
+| Giorgi Pertaia     |             51.36 |        3 |            nan    | Luvuyo Pupuma      |
+| Pierce Phillips    |             56.66 |        4 |            nan    | Thibaud Rey        |
+| Giorgi Javakhia    |             88.72 |        5 |             44.76 | Clément Chartier   |
+| Thomas Ployet      |             63.32 |        6 |            nan    | Louis Suaud        |
 | Victor Guillaumond |            nan    |        7 |            nan    | Joris Simon        |
-| Hanru Sirgel       |             81.64 |        8 |            nan    | Ramiha Smiler      |
-| Eric Escande       |             53.49 |        9 |             11.46 | Jules Gimbert      |
-| Marc Palmier       |            nan    |       10 |             34.69 | Tanguy Ménoret     |
+| Hanru Sirgel       |             76.43 |        8 |            nan    | Ramiha Smiler      |
+| Eric Escande       |             54.26 |        9 |             12.13 | Jules Gimbert      |
+| Marc Palmier       |            nan    |       10 |             34.34 | Tanguy Ménoret     |
 | Wilfried Hulleu    |            nan    |       11 |            nan    | Andrzej Charlat    |
-| Romain Fusier      |             42.2  |       12 |            nan    | Luca Cutayar       |
-| Julien Heriteau    |             65.46 |       13 |             33.46 | Nathan Courtade    |
-| Geoffrey Cros      |             47.08 |       14 |             41.01 | Simon Delas        |
-| Julien Farnoux     |             44.73 |       15 |             30.13 | Paul Auradou       |
-| Bastien Soury      |            nan    |       16 |             43.15 | Sione Anga'Aelangi |
+| Romain Fusier      |             43.25 |       12 |            nan    | Luca Cutayar       |
+| Julien Heriteau    |             64.98 |       13 |             33.78 | Nathan Courtade    |
+| Geoffrey Cros      |             49.6  |       14 |             42.61 | Simon Delas        |
+| Julien Farnoux     |             47.38 |       15 |             31.46 | Paul Auradou       |
+| Bastien Soury      |            nan    |       16 |             42.1  | Sione Anga'Aelangi |
 | Éli Églaine        |            nan    |       17 |            nan    | Julien Beaufils    |
 | Cameron Holt       |            nan    |       18 |            nan    | Martin Freytes     |
 | Camille Baz-Marcos |            nan    |       19 |            nan    | Hugo Sarrasin      |
-| Barnabé Couilloud  |            nan    |       20 |             45.14 | Bastien Berenguel  |
+| Barnabé Couilloud  |            nan    |       20 |             45.42 | Bastien Berenguel  |
 | Max Clément        |            nan    |       21 |            nan    | Matéo Jeune Joly   |
-| Kaminieli Rasaku   |             49.11 |       22 |             45.21 | David Odiete       |
-| Cody Thomas        |            nan    |       23 |             19.89 | Tom Ross           |
+| Kaminieli Rasaku   |             51.43 |       22 |             48.33 | David Odiete       |
+| Cody Thomas        |            nan    |       23 |             26.33 | Tom Ross           |
 

@@ -11,7 +11,7 @@ categories: "European Rugby Champions Cup 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.544, which translates to predicting Castres Olympique to win by 1.6.
 
-Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 23 to 24
+Our Over/Under is 44.5 - and combined with the spread above, we have a predicted scoreline of 21 to 23
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Castres Olympique by 13.3
+## Prediction without Player Minutes: Castres Olympique by 19.3
 
 
-Munster by 0.9 on a neutral pitch
+Castres Olympique by 5.1 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,30 +69,30 @@ Munster by 0.9 on a neutral pitch
 
 |   Away Minutes | Away Player      |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:-----------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             49 | Dian Bleuler     |             96.19 |        1 |             64.55 | Quentin Walcker     |             31 |
-|             31 | Dian Bleuler     |             96.19 |        1 |             64.55 | Quentin Walcker     |             31 |
-|             82 | Dian Bleuler     |             96.19 |        1 |             64.55 | Quentin Walcker     |             31 |
-|             61 | Dian Bleuler     |             96.19 |        1 |             64.55 | Quentin Walcker     |             31 |
-|             82 | Niall Scannell   |             52.34 |        2 |             91.43 | Gaetan Barlot       |             82 |
-|             57 | Stephen Archer   |             91.86 |        3 |             79.64 | Will Collier        |             58 |
-|             82 | Fineen Wycherley |             46.22 |        4 |              3.56 | Gauthier Maravat    |             82 |
-|             64 | Tadhg Beirne     |             95.81 |        5 |             96.35 | Leone Nakarawa      |             65 |
-|             65 | Peter O'Mahony   |             94.46 |        6 |             19.76 | Mathieu Babillot    |             10 |
-|             82 | John Hodnett     |             15.67 |        7 |             80.41 | Tyler Ardron        |             81 |
-|             71 | Brian Gleeson    |             25.71 |        8 |             18.2  | Abraham Papali'i    |             21 |
-|             59 | Craig Casey      |              7.64 |        9 |             62.29 | Jeremy Fernandez    |             17 |
-|             53 | Jack Crowley     |              5.31 |       10 |             87.76 | Louis Le Brun       |             62 |
-|             81 | Thaakir Abrahams |             40.62 |       11 |             88.17 | Remy Baget          |             51 |
-|             22 | Alex Nankivell   |             90.38 |       12 |             82.24 | Adrea Cocagi        |             61 |
-|             10 | Tom Farrell      |             17.37 |       13 |             93.13 | Jack Goodhue        |             24 |
-|             24 | Calvin Nash      |             90.04 |       14 |             95.72 | Geoffrey Palis      |             31 |
-|             81 | Mike Haley       |              9.98 |       15 |             64.14 | Julien Dumora       |             31 |
-|             18 | Diarmuid Barron  |             86.14 |       16 |             19.47 | Loris Zarantonello  |             63 |
-|             57 | Dave Kilcoyne    |            nan    |       17 |             60.55 | Wayan de Benedittis |             81 |
-|             36 | Oli Jager        |             82.51 |       18 |             30.57 | Nicolas Corato      |             81 |
-|             81 | Thomas Ahern     |             12.35 |       19 |             54.15 | Paul Jedrasiak      |             52 |
-|             25 | Alex Kendellen   |             89.44 |       20 |             46.41 | Feibyan Tukino      |             31 |
-|             22 | Paddy Patterson  |            nan    |       21 |             68.77 | Santiago Arata      |             31 |
-|             61 | Rory Scannell    |             91.17 |       22 |             46.03 | Theo Chabouni       |             22 |
-|             61 | Jack O'Donoghue  |             43.61 |       23 |              9.22 | Adrien Seguret      |             46 |
+|             81 | Dian Bleuler     |             92.92 |        1 |             47.28 | Quentin Walcker     |             80 |
+|             57 | Dian Bleuler     |             92.92 |        1 |             47.28 | Quentin Walcker     |             80 |
+|             18 | Dian Bleuler     |             92.92 |        1 |             47.28 | Quentin Walcker     |             80 |
+|             24 | Dian Bleuler     |             92.92 |        1 |             47.28 | Quentin Walcker     |             80 |
+|             14 | Niall Scannell   |             78.72 |        2 |             88.42 | Gaetan Barlot       |             50 |
+|             49 | Stephen Archer   |             89.43 |        3 |             77.04 | Will Collier        |             80 |
+|             51 | Fineen Wycherley |             42.9  |        4 |              3.64 | Gauthier Maravat    |             81 |
+|             22 | Tadhg Beirne     |             94.32 |        5 |             95.38 | Leone Nakarawa      |             50 |
+|             81 | Peter O'Mahony   |             96.49 |        6 |             17.14 | Mathieu Babillot    |             63 |
+|             81 | John Hodnett     |             25.62 |        7 |             74.64 | Tyler Ardron        |             81 |
+|             81 | Brian Gleeson    |             41.59 |        8 |             21.47 | Abraham Papali'i    |             63 |
+|             71 | Craig Casey      |              5.57 |        9 |             52.46 | Jeremy Fernandez    |             46 |
+|             31 | Jack Crowley     |              2.42 |       10 |             80.81 | Louis Le Brun       |             50 |
+|             81 | Thaakir Abrahams |             46.1  |       11 |             88.39 | Remy Baget          |             30 |
+|             77 | Alex Nankivell   |             93.01 |       12 |             81.34 | Adrea Cocagi        |             20 |
+|             63 | Tom Farrell      |             47.75 |       13 |             96.08 | Jack Goodhue        |             34 |
+|             63 | Calvin Nash      |             87.2  |       14 |             97.69 | Geoffrey Palis      |             30 |
+|             29 | Mike Haley       |             23.78 |       15 |             58.61 | Julien Dumora       |             80 |
+|             58 | Diarmuid Barron  |             73.4  |       16 |             22.38 | Loris Zarantonello  |             67 |
+|             81 | Dave Kilcoyne    |            nan    |       17 |             62.4  | Wayan de Benedittis |             80 |
+|             32 | Oli Jager        |             81.29 |       18 |             36.01 | Nicolas Corato      |             22 |
+|             81 | Thomas Ahern     |             12.25 |       19 |             52.4  | Paul Jedrasiak      |             10 |
+|             81 | Alex Kendellen   |             78.83 |       20 |             45.8  | Feibyan Tukino      |             57 |
+|             52 | Paddy Patterson  |            nan    |       21 |             66.89 | Santiago Arata      |             50 |
+|             22 | Rory Scannell    |             91.48 |       22 |             47.75 | Theo Chabouni       |             18 |
+|             81 | Jack O'Donoghue  |             43.53 |       23 |             10.53 | Adrien Seguret      |             36 |
 

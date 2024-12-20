@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Doncaster by 20.6
+## Prediction without Player Minutes: Doncaster by 20.1
 
 
-Doncaster by 15.8 on a neutral pitch
+Doncaster by 15.4 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,26 +69,26 @@ Doncaster by 15.8 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             80 | Monty Weatherby      |             20.29 |        1 |             41.26 | Andrew Turner      |             54 |
-|             10 | Matt Gallagher       |              6.7  |        2 |             18.38 | George Roberts     |             24 |
-|             13 | Joe Sproston         |             11.28 |        3 |             39.85 | Joe Jones          |             80 |
-|             80 | Tom Burrow           |             82.41 |        4 |              2.55 | Ben Murphy         |             26 |
-|             26 | Thomas Sanders       |             13.31 |        5 |             40.93 | Adam Hopkinson     |             67 |
-|             80 | Callum Ridgway       |              6.39 |        6 |              7.67 | Thom Smith         |             30 |
-|             80 | Tristan Woodman      |             49.83 |        7 |             73.25 | Arthur Green       |             23 |
-|             53 | Josiah Dickinson     |              4.84 |        8 |             63.44 | Morgan Strong      |             53 |
-|             80 | Ollie Wynn           |              8.14 |        9 |             76.08 | Alex Dolly         |             50 |
-|             80 | Lewis Barker         |              1.43 |       10 |             91.22 | Russell Bennett    |             56 |
-|             27 | Michael Cartmill     |              8.25 |       11 |             28.09 | Jordan Olowofela   |             80 |
-|             30 | Connor Wilkinson     |              7.85 |       12 |              6.18 | Connor Edwards     |             70 |
-|             65 | Rekeiti Ma'asi-White |             15.8  |       13 |              4.32 | George Wacokecoke  |             80 |
-|             27 | Matt Kilcourse       |             20.78 |       14 |             91.36 | Semesa Rokoduguni  |             80 |
-|             63 | Michael Barlow       |              5.73 |       15 |             96.86 | Telusa Veainu      |             80 |
-|             80 | Nathan Rushton       |              9.55 |       16 |             27.24 | Jasper McGuire     |             70 |
-|             80 | Oliver Hearn         |              3.43 |       17 |             22.97 | Taniela Ramasibana |             80 |
-|             80 | Ryan Higginson       |             16.56 |       18 |             83.58 | Logovi'i Mulipola  |             80 |
-|             80 | Freddie Stevenson    |             20.78 |       19 |              7.94 | Benjamin Chapman   |             80 |
-|             80 | Joseph Murray        |             24.58 |       20 |             26.06 | Archie Smeaton     |             80 |
-|             24 | Sam Bedlow           |              0.98 |       21 |              2.49 | Ollie Fox          |             15 |
-|             80 | William Robinson     |             11.75 |       22 |             65.26 | Will Parry         |             30 |
+|             46 | Monty Weatherby      |             27.8  |        1 |             49.41 | Andrew Turner      |             54 |
+|             80 | Matt Gallagher       |             10.8  |        2 |             11.11 | George Roberts     |             17 |
+|             10 | Joe Sproston         |             18.65 |        3 |             46.4  | Joe Jones          |             20 |
+|             53 | Tom Burrow           |             83.21 |        4 |              6.39 | Ben Murphy         |             27 |
+|             39 | Thomas Sanders       |             15.54 |        5 |             41.56 | Adam Hopkinson     |              6 |
+|             58 | Callum Ridgway       |              6.26 |        6 |              6.68 | Thom Smith         |             18 |
+|              8 | Tristan Woodman      |             52.44 |        7 |             73.69 | Arthur Green       |             10 |
+|             26 | Josiah Dickinson     |              8.41 |        8 |             68.17 | Morgan Strong      |             54 |
+|             80 | Ollie Wynn           |              6.56 |        9 |             71.31 | Alex Dolly         |             30 |
+|             80 | Lewis Barker         |              1.62 |       10 |             91.72 | Russell Bennett    |             56 |
+|              6 | Michael Cartmill     |              8.35 |       11 |             23.45 | Jordan Olowofela   |             80 |
+|             53 | Connor Wilkinson     |              8.13 |       12 |              7.56 | Connor Edwards     |             40 |
+|             27 | Rekeiti Ma'asi-White |             15.69 |       13 |              3.83 | George Wacokecoke  |             28 |
+|             50 | Matt Kilcourse       |             25.2  |       14 |             92.93 | Semesa Rokoduguni  |             46 |
+|             26 | Michael Barlow       |              6.93 |       15 |             97.57 | Telusa Veainu      |             80 |
+|             24 | Nathan Rushton       |             17.12 |       16 |             32.59 | Jasper McGuire     |             49 |
+|             47 | Oliver Hearn         |              2.82 |       17 |             25.31 | Taniela Ramasibana |             35 |
+|             44 | Ryan Higginson       |             23.2  |       18 |             82.76 | Logovi'i Mulipola  |             80 |
+|             40 | Freddie Stevenson    |             25.84 |       19 |              9.08 | Benjamin Chapman   |             34 |
+|             50 | Joseph Murray        |             24.92 |       20 |             26.65 | Archie Smeaton     |             36 |
+|             80 | Sam Bedlow           |              1.53 |       21 |              3.28 | Ollie Fox          |             53 |
+|             80 | William Robinson     |             12.32 |       22 |             65.55 | Will Parry         |             57 |
 

@@ -18,9 +18,9 @@ Last Round Accuracy: 5 of 5 (100.0%)
 
 Last Round Error: 12.78 points per match
 
-[2024-12-14 Saracens Women at Gloucester-Hartpury Women; 31-47](reviews//2024-12-14-Gloucester-HartpuryWomen-SaracensWomen)
-
 [2024-12-14 Harlequins Women at Loughborough Lightning; 40-22](reviews//2024-12-14-LoughboroughLightning-HarlequinsWomen)
+
+[2024-12-14 Saracens Women at Gloucester-Hartpury Women; 31-47](reviews//2024-12-14-Gloucester-HartpuryWomen-SaracensWomen)
 
 [2024-12-14 Exeter Chiefs Women at Ealing Trailfinders Women; 41-22](reviews//2024-12-14-EalingTrailfindersWomen-ExeterChiefsWomen)
 
@@ -40,8 +40,6 @@ Last Round Error: 10.16 points per match
 
 [2024-12-14 VRAC at Cisneros; 35-10](reviews//2024-12-14-Cisneros-VRAC)
 
-[2024-12-15 Alcobendas at El Salvador; 16-17](reviews//2024-12-15-ElSalvador-Alcobendas)
-
 [2024-12-15 Real Ciencias at Les Abelles R.C.; 37-24](reviews//2024-12-15-LesAbellesR.C.-RealCiencias)
 
 [2024-12-15 CRC Pozuelo Rugby at Aparejadores Burgos; 13-60](reviews//2024-12-15-AparejadoresBurgos-CRCPozueloRugby)
@@ -49,6 +47,8 @@ Last Round Error: 10.16 points per match
 [2024-12-15 C.R. La Vila at Ordizia; 17-26](reviews//2024-12-15-Ordizia-C.R.LaVila)
 
 [2024-12-15 UE Santboiana at FC Barcelona; 27-17](reviews//2024-12-15-FCBarcelona-UESantboiana)
+
+[2024-12-15 Alcobendas at El Salvador; 16-17](reviews//2024-12-15-ElSalvador-Alcobendas)
 ## European Rugby Challenge Cup
 
 
@@ -68,11 +68,11 @@ Last Round Error: 17.57 points per match
 
 [2024-12-14 Lyon at Zebre; 21-19](reviews//2024-12-14-Zebre-Lyon)
 
+[2024-12-14 Pau at Lions; 35-43](reviews//2024-12-14-Lions-Pau)
+
 [2024-12-14 Cheetahs at Cardiff Blues; 10-26](reviews//2024-12-14-CardiffBlues-Cheetahs)
 
 [2024-12-14 Ospreys at Montpellier Herault; 15-59](reviews//2024-12-14-MontpellierHerault-Ospreys)
-
-[2024-12-14 Pau at Lions; 35-43](reviews//2024-12-14-Lions-Pau)
 
 [2024-12-15 Dragons at Newcastle Falcons; 22-14](reviews//2024-12-15-NewcastleFalcons-Dragons)
 
@@ -96,6 +96,8 @@ Last Round Error: 17.4 points per match
 
 [2024-12-13 Munster at Castres Olympique; 14-16](reviews//2024-12-13-CastresOlympique-Munster)
 
+[2024-12-14 Stormers at Harlequins; 16-53](reviews//2024-12-14-Harlequins-Stormers)
+
 [2024-12-14 Bordeaux Begles at Ulster; 40-19](reviews//2024-12-14-Ulster-BordeauxBegles)
 
 [2024-12-14 Clermont Auvergne at Leinster; 7-15](reviews//2024-12-14-Leinster-ClermontAuvergne)
@@ -103,8 +105,6 @@ Last Round Error: 17.4 points per match
 [2024-12-14 Sharks at Leicester Tigers; 17-56](reviews//2024-12-14-LeicesterTigers-Sharks)
 
 [2024-12-14 Northampton Saints at Bulls; 30-21](reviews//2024-12-14-Bulls-NorthamptonSaints)
-
-[2024-12-14 Stormers at Harlequins; 16-53](reviews//2024-12-14-Harlequins-Stormers)
 
 [2024-12-14 Bristol Rugby at La Rochelle; 7-35](reviews//2024-12-14-LaRochelle-BristolRugby)
 
@@ -130,11 +130,11 @@ Last Round Error: 18.31 points per match
 
 [2024-12-13 Chinnor at Nottingham; 15-19](reviews//2024-12-13-Nottingham-Chinnor)
 
-[2024-12-14 Coventry at Cornish Pirates; 14-46](reviews//2024-12-14-CornishPirates-Coventry)
+[2024-12-14 Caldy at Doncaster; 0-22](reviews//2024-12-14-Doncaster-Caldy)
 
 [2024-12-14 Cambridge at Ealing Trailfinders; 7-95](reviews//2024-12-14-EalingTrailfinders-Cambridge)
 
-[2024-12-14 Caldy at Doncaster; 0-22](reviews//2024-12-14-Doncaster-Caldy)
+[2024-12-14 Coventry at Cornish Pirates; 14-46](reviews//2024-12-14-CornishPirates-Coventry)
 
 [2024-12-15 Bedford at London Scottish; 22-20](reviews//2024-12-15-LondonScottish-Bedford)
 # Domestic Leagues
@@ -144,13 +144,13 @@ Last Round Error: 18.31 points per match
 
 [In depth model review and projections for Nationale 2024](comp_files/Nationale_2024)
 
-Competition Accuracy: 70 of 98 (71.43%)
+Competition Accuracy: 69 of 98 (70.41%)
 
-Competition Error: 10.07 points per match
+Competition Error: 10.2 points per match
 
 Last Round Accuracy: 3 of 7 (42.86%)
 
-Last Round Error: 9.66 points per match
+Last Round Error: 9.75 points per match
 
 [2024-12-13 Perigueux at Tarbes; 23-30](reviews//2024-12-13-Tarbes-Perigueux)
 
@@ -170,13 +170,13 @@ Last Round Error: 9.66 points per match
 
 [In depth model review and projections for Pro D2 2024](comp_files/Pro_D2_2024)
 
-Competition Accuracy: 74 of 112 (66.07%)
+Competition Accuracy: 75 of 113 (66.37%)
 
-Competition Error: 9.98 points per match
+Competition Error: 9.94 points per match
 
 Last Round Accuracy: 8 of 8 (100.0%)
 
-Last Round Error: 10.81 points per match
+Last Round Error: 11.21 points per match
 
 [2024-12-12 Provence Rugby at Dax; 22-23](reviews//2024-12-12-Dax-ProvenceRugby)
 
@@ -193,3 +193,5 @@ Last Round Error: 10.81 points per match
 [2024-12-13 Mont-de-Marsan at Valence Romans Drome Rugby; 23-28](reviews//2024-12-13-ValenceRomansDromeRugby-Mont-de-Marsan)
 
 [2024-12-13 Nice at Biarritz Olympique; 0-16](reviews//2024-12-13-BiarritzOlympique-Nice)
+
+[2024-12-19 Agen at Brive; 18-32](reviews//2024-12-19-Brive-Agen)

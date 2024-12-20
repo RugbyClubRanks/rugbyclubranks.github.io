@@ -12,5 +12,5 @@ test_contents.py::test_reviews_contents PASSED                           [ 66%]
 test_contents.py::test_comp_random_accuracy PASSED                       [ 83%]
 test_contents.py::test_comp_random_playoff PASSED                        [100%]
 
-======================== 6 passed in 133.05s (0:02:13) ========================
+============================= 6 passed in 10.32s ==============================
 All tests passed. 

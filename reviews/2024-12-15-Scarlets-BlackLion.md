@@ -11,7 +11,7 @@ categories: "European Rugby Challenge Cup 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.505, which translates to predicting Scarlets to win by 0.2.
 
-Our Over/Under is 55.5 - and combined with the spread above, we have a predicted scoreline of 28 to 28
+Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 25 to 25
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -42,7 +42,7 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction without Player Minutes: Scarlets by 8.8
 
 
-Black Lion by 0.4 on a neutral pitch
+Black Lion by 0.5 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,28 @@ Black Lion by 0.4 on a neutral pitch
 
 |   Away Minutes | Away Player             |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:------------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             80 | Vasil Kakovin           |             28.64 |        1 |             87.52 | Kemsley Mathias      |             70 |
-|             10 | Irakli Kvatadze         |             32.55 |        2 |             93.77 | Marnus van der Merwe |             29 |
-|             80 | Giorgi Chkhartishvili   |             27.97 |        3 |             71.83 | Henry Thomas         |             51 |
-|             28 | Lado Chachanidze        |             32.27 |        4 |             91.8  | Max Douglas          |             45 |
-|             64 | Mikheil Babunashvili    |             86.33 |        5 |             89.97 | Sam Lousi            |             44 |
-|             35 | Sandro Mamamtavrishvili |             81.6  |        6 |             88.67 | Taine Plumtree       |             44 |
-|             73 | Giorgi Tsutskiridze     |             79.05 |        7 |             80.32 | Josh MacLeod         |             70 |
-|             80 | Luka Ivanishvili        |             60.27 |        8 |             88.81 | Vaea Fifita          |              9 |
-|             16 | Tengiz Peranidze        |             38.87 |        9 |             42.86 | Gareth Davies        |             55 |
-|             12 | Luka Matkava            |             89.8  |       10 |             45.1  | Sam Costelow         |             80 |
-|              7 | Amiran Shvangiradze     |             46.15 |       11 |             34.79 | Ellis Mee            |             80 |
-|             12 | Tornike Kakhoidze       |             44.26 |       12 |             92.05 | Johnny Williams      |             68 |
-|             80 | Demur Tapladze          |             74.88 |       13 |             41.71 | Joe Roberts          |             80 |
-|             35 | Aka Tabutsadze          |             84.75 |       14 |             67.47 | Tom Rogers           |             80 |
-|             55 | Luka Tsirekidze         |             22.55 |       15 |             18.67 | Ioan Nicholas        |             80 |
-|             36 | Dato Abdushelishvili    |             52.2  |       16 |            nan    | Archer Holz          |             57 |
-|             73 | Bachuki Tchumbadze      |            nan    |       17 |             85.31 | Alec Hepburn         |             42 |
-|             61 | Tengiz Zamtaradze       |             15.26 |       18 |              8.1  | Shaun Evans          |             80 |
-|             52 | Giorgi Sinauridze       |            nan    |       19 |             60.05 | Jarrod Taylor        |             10 |
-|             80 | Davit Khuroshvili       |            nan    |       20 |              4.01 | Jac Price            |             65 |
-|              8 | Sandro Todua            |             90.27 |       21 |             18.44 | Archie Hughes        |             80 |
-|             80 | Demuri Epremidze        |             33    |       22 |             30.81 | Eddie James          |             10 |
-|             72 | Ioane Metreveli         |             33.27 |       23 |             10    | Ioan Lloyd           |             80 |
+|             81 | Vasil Kakovin           |             31.05 |        1 |             84.42 | Kemsley Mathias      |             62 |
+|             52 | Irakli Kvatadze         |             26.76 |        2 |             92.8  | Marnus van der Merwe |              4 |
+|             81 | Giorgi Chkhartishvili   |             33.06 |        3 |             75.03 | Henry Thomas         |             20 |
+|             81 | Lado Chachanidze        |             15.63 |        4 |             94.23 | Max Douglas          |             62 |
+|             81 | Mikheil Babunashvili    |             82.15 |        5 |             91.21 | Sam Lousi            |              4 |
+|             56 | Sandro Mamamtavrishvili |             37.79 |        6 |             88.69 | Taine Plumtree       |             19 |
+|             57 | Giorgi Tsutskiridze     |             80.72 |        7 |             66.58 | Josh MacLeod         |             81 |
+|             23 | Luka Ivanishvili        |             52.85 |        8 |             81.98 | Vaea Fifita          |             14 |
+|             40 | Tengiz Peranidze        |             32.62 |        9 |             60    | Gareth Davies        |             81 |
+|             75 | Luka Matkava            |             79.39 |       10 |             54.75 | Sam Costelow         |             81 |
+|             81 | Luka Matkava            |             79.39 |       10 |             54.75 | Sam Costelow         |             81 |
+|             15 | Amiran Shvangiradze     |             45.71 |       11 |             43.56 | Ellis Mee            |             36 |
+|             46 | Tornike Kakhoidze       |             34.35 |       12 |             92.34 | Johnny Williams      |             62 |
+|             46 | Demur Tapladze          |             79.23 |       13 |             54.07 | Joe Roberts          |             81 |
+|             46 | Aka Tabutsadze          |             86.17 |       14 |             59.3  | Tom Rogers           |             10 |
+|             62 | Luka Tsirekidze         |             22.85 |       15 |             29.21 | Ioan Nicholas        |             57 |
+|             69 | Tengiz Zamtaradze       |            nan    |       16 |              6.42 | Shaun Evans          |             35 |
+|             47 | Dato Abdushelishvili    |            nan    |       17 |             84.71 | Alec Hepburn         |             35 |
+|             63 | Bachuki Tchumbadze      |            nan    |       18 |            nan    | Archer Holz          |             81 |
+|             34 | Demur Epremidze         |            nan    |       19 |              6.48 | Jac Price            |             20 |
+|             81 | Giorgi Sinauridze       |            nan    |       20 |             65.81 | Jarrod Taylor        |             81 |
+|             74 | Davit Khuroshvili       |            nan    |       21 |             19.02 | Archie Hughes        |             72 |
+|             11 | Ioane Metreveli         |            nan    |       22 |             19.39 | Ioan Lloyd           |             29 |
+|             81 | Sandro Todua            |             92.53 |       23 |             29.28 | Eddie James          |             81 |
 
