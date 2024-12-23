@@ -10,127 +10,137 @@ key: page-projections
 
 [In depth model review and projections for Allianz Premier 15s 2024](comp_files/Allianz_Premier_15s_2024)
 
-Competition Accuracy: 32 of 39 (82.05%)
+Competition Accuracy: 34 of 42 (80.95%)
 
-Competition Error: 13.45 points per match
+Competition Error: 14.28 points per match
 
-Last Round Accuracy: 5 of 5 (100.0%)
+Last Round Accuracy: 4 of 5 (80.0%)
 
-Last Round Error: 12.78 points per match
+Last Round Error: 19.53 points per match
 
-[2024-12-21 Gloucester-Hartpury Women (~1897.11) at Exeter Chiefs Women (~1945.19)](projections/2024-12-21-ExeterChiefsWomen-Gloucester-HartpuryWomen)
-
-[2024-12-21 Loughborough Lightning (~1535.92) at Sale Sharks Women (~1424.7)](projections/2024-12-21-SaleSharksWomen-LoughboroughLightning)
-
-[2024-12-21 Bristol Bears Women (~1833.47) at Saracens Women (~1936.64)](projections/2024-12-21-SaracensWomen-BristolBearsWomen)
+[2024-12-28 Leicester Tigers Women (~1391.9) at Harlequins Women (~1780.06)](projections/2024-12-28-HarlequinsWomen-LeicesterTigersWomen)
 ## Gallagher Premiership
 
 
 [In depth model review and projections for Gallagher Premiership 2024](comp_files/Gallagher_Premiership_2024)
 
-Competition Accuracy: 22 of 35 (62.86%)
+Competition Accuracy: 26 of 40 (65.0%)
 
-Competition Error: 11.66 points per match
+Competition Error: 12.31 points per match
 
-Last Round Accuracy: 2 of 5 (40.0%)
+Last Round Accuracy: 4 of 5 (80.0%)
 
-Last Round Error: 15.49 points per match
+Last Round Error: 16.83 points per match
 
-[2024-12-20 Harlequins (~1687.0) at Gloucester Rugby (~1673.52)](projections/2024-12-20-GloucesterRugby-Harlequins)
+[2024-12-27 Sale Sharks (~1627.06) at Bristol Rugby (~1826.45)](projections/2024-12-27-BristolRugby-SaleSharks)
 
-[2024-12-21 Exeter Chiefs (~1647.81) at Sale Sharks (~1737.19)](projections/2024-12-21-SaleSharks-ExeterChiefs)
+[2024-12-28 Leicester Tigers (~1685.56) at Harlequins (~1760.86)](projections/2024-12-28-Harlequins-LeicesterTigers)
 
-[2024-12-21 Bristol Rugby (~1699.88) at Leicester Tigers (~1752.98)](projections/2024-12-21-LeicesterTigers-BristolRugby)
+[2024-12-28 Saracens (~1722.14) at Bath Rugby (~1856.59)](projections/2024-12-28-BathRugby-Saracens)
 
-[2024-12-21 Bath Rugby (~1746.33) at Newcastle Falcons (~1520.22)](projections/2024-12-21-NewcastleFalcons-BathRugby)
+[2024-12-28 Newcastle Falcons (~1478.63) at Northampton Saints (~1770.91)](projections/2024-12-28-NorthamptonSaints-NewcastleFalcons)
 
-[2024-12-22 Northampton Saints (~1719.31) at Saracens (~1806.73)](projections/2024-12-22-Saracens-NorthamptonSaints)
+[2024-12-29 Gloucester Rugby (~1631.26) at Exeter Chiefs (~1620.49)](projections/2024-12-29-ExeterChiefs-GloucesterRugby)
 ## Japan Rugby League One
 
 
 [In depth model review and projections for Japan Rugby League One 2024](comp_files/Japan_Rugby_League_One_2024)
 
-[2024-12-21 Black Rams Tokyo (~1559.84) at Mie Honda Heat (~1441.77)](projections/2024-12-21-MieHondaHeat-BlackRamsTokyo)
+Competition Accuracy: 5 of 6 (83.33%)
 
-[2024-12-21 Saitama Wild Knights (~1994.48) at Tokyo Sungoliath (~1874.23)](projections/2024-12-21-TokyoSungoliath-SaitamaWildKnights)
+Competition Error: 6.29 points per match
 
-[2024-12-21 Kobelco Kobe Steelers (~1749.93) at Shizuoka Blue Revs (~1741.67)](projections/2024-12-21-ShizuokaBlueRevs-KobelcoKobeSteelers)
+Last Round Accuracy: 5 of 6 (83.33%)
 
-[2024-12-22 Toshiba Brave Lupus (~1882.9) at Yokohama Canon Eagles (~1853.62)](projections/2024-12-22-YokohamaCanonEagles-ToshibaBraveLupus)
+Last Round Error: 6.29 points per match
 
-[2024-12-22 Toyota Verblitz (~1730.12) at Kubota Spears (~1858.93)](projections/2024-12-22-KubotaSpears-ToyotaVerblitz)
+[2024-12-28 Kubota Spears (~1749.59) at Saitama Wild Knights (~2121.52)](projections/2024-12-28-SaitamaWildKnights-KubotaSpears)
 
-[2024-12-22 Urayasu D-Rocks (~1440.68) at Mitsubishi Dynaboars (~1606.92)](projections/2024-12-22-MitsubishiDynaboars-UrayasuD-Rocks)
+[2024-12-28 Shizuoka Blue Revs (~1608.15) at Urayasu D-Rocks (~1573.99)](projections/2024-12-28-UrayasuD-Rocks-ShizuokaBlueRevs)
+
+[2024-12-28 Tokyo Sungoliath (~1794.81) at Black Rams Tokyo (~1658.57)](projections/2024-12-28-BlackRamsTokyo-TokyoSungoliath)
+
+[2024-12-28 Mie Honda Heat (~1501.21) at Toyota Verblitz (~1809.97)](projections/2024-12-28-ToyotaVerblitz-MieHondaHeat)
+
+[2024-12-29 Yokohama Canon Eagles (~1690.07) at Kobelco Kobe Steelers (~1828.31)](projections/2024-12-29-KobelcoKobeSteelers-YokohamaCanonEagles)
+
+[2024-12-29 Mitsubishi Dynaboars (~1685.09) at Toshiba Brave Lupus (~1787.05)](projections/2024-12-29-ToshibaBraveLupus-MitsubishiDynaboars)
 ## RFU Championship
 
 
 [In depth model review and projections for RFU Championship 2024](comp_files/RFU_Championship_2024)
 
-Competition Accuracy: 33 of 47 (70.21%)
+Competition Accuracy: 35 of 53 (66.04%)
 
-Competition Error: 14.48 points per match
+Competition Error: 13.87 points per match
 
-Last Round Accuracy: 4 of 6 (66.67%)
+Last Round Accuracy: 2 of 6 (33.33%)
 
-Last Round Error: 18.31 points per match
+Last Round Error: 9.06 points per match
 
-[2024-12-21 Ampthill (~1249.76) at Cambridge (~1134.4)](projections/2024-12-21-Cambridge-Ampthill)
+[2024-12-28 Caldy (~1139.66) at Ealing Trailfinders (~1702.4)](projections/2024-12-28-EalingTrailfinders-Caldy)
 
-[2024-12-21 Ealing Trailfinders (~1628.01) at Coventry (~1573.24)](projections/2024-12-21-Coventry-EalingTrailfinders)
+[2024-12-28 Coventry (~1432.25) at Nottingham (~1436.25)](projections/2024-12-28-Nottingham-Coventry)
 
-[2024-12-21 Nottingham (~1302.6) at Hartpury College (~1444.23)](projections/2024-12-21-HartpuryCollege-Nottingham)
+[2024-12-28 Cambridge (~1065.43) at Bedford (~1444.85)](projections/2024-12-28-Bedford-Cambridge)
 
-[2024-12-21 London Scottish (~1220.45) at Caldy (~1135.92)](projections/2024-12-21-Caldy-LondonScottish)
+[2024-12-28 Chinnor (~1476.41) at London Scottish (~1297.03)](projections/2024-12-28-LondonScottish-Chinnor)
 
-[2024-12-21 Bedford (~1387.18) at Chinnor (~1357.34)](projections/2024-12-21-Chinnor-Bedford)
+[2024-12-29 Cornish Pirates (~1304.04) at Ampthill (~1304.13)](projections/2024-12-29-Ampthill-CornishPirates)
 
-[2024-12-22 Doncaster (~1323.86) at Cornish Pirates (~1450.81)](projections/2024-12-22-CornishPirates-Doncaster)
+[2024-12-29 Hartpury College (~1446.0) at Doncaster (~1363.02)](projections/2024-12-29-Doncaster-HartpuryCollege)
 ## Top 14 Orange
 
 
 [In depth model review and projections for Top 14 Orange 2024](comp_files/Top_14_Orange_2024)
 
-Competition Accuracy: 62 of 77 (80.52%)
+Competition Accuracy: 67 of 84 (79.76%)
 
-Competition Error: 11.21 points per match
+Competition Error: 10.92 points per match
 
-Last Round Accuracy: 6 of 7 (85.71%)
+Last Round Accuracy: 5 of 7 (71.43%)
 
-Last Round Error: 13.19 points per match
+Last Round Error: 7.73 points per match
 
-[2024-12-22 Stade Toulousain (~1818.36) at Lyon (~1686.82)](projections/2024-12-22-Lyon-StadeToulousain)
+[2024-12-28 Toulon (~1715.51) at Bordeaux Begles (~1776.65)](projections/2024-12-28-BordeauxBegles-Toulon)
 
-[2024-12-21 Racing 92 (~1655.75) at Montpellier Herault (~1724.3)](projections/2024-12-21-MontpellierHerault-Racing92)
+[2024-12-28 Castres Olympique (~1614.95) at Bayonne (~1731.75)](projections/2024-12-28-Bayonne-CastresOlympique)
 
-[2024-12-21 Pau (~1611.39) at Toulon (~1782.97)](projections/2024-12-21-Toulon-Pau)
+[2024-12-28 Montpellier Herault (~1654.11) at Clermont Auvergne (~1733.94)](projections/2024-12-28-ClermontAuvergne-MontpellierHerault)
 
-[2024-12-21 Clermont Auvergne (~1680.48) at La Rochelle (~1796.62)](projections/2024-12-21-LaRochelle-ClermontAuvergne)
+[2024-12-28 Vannes (~1537.47) at Pau (~1698.08)](projections/2024-12-28-Pau-Vannes)
+
+[2024-12-29 Lyon (~1635.42) at Racing 92 (~1690.41)](projections/2024-12-29-Racing92-Lyon)
+
+[2024-12-29 Stade Francais Paris (~1636.35) at Stade Toulousain (~1885.38)](projections/2024-12-29-StadeToulousain-StadeFrancaisParis)
+
+[2024-12-29 La Rochelle (~1753.25) at Perpignan (~1618.52)](projections/2024-12-29-Perpignan-LaRochelle)
 ## United Rugby Championship
 
 
 [In depth model review and projections for United Rugby Championship 2024](comp_files/United_Rugby_Championship_2024)
 
-Competition Accuracy: 43 of 54 (79.63%)
+Competition Accuracy: 48 of 61 (78.69%)
 
-Competition Error: 10.16 points per match
+Competition Error: 10.03 points per match
 
-Last Round Accuracy: 7 of 8 (87.5%)
+Last Round Accuracy: 5 of 8 (62.5%)
 
-Last Round Error: 7.2 points per match
+Last Round Error: 9.22 points per match
 
-[2024-12-20 Munster (~1709.36) at Ulster (~1704.26)](projections/2024-12-20-Ulster-Munster)
+[2024-12-27 Leinster (~1749.53) at Munster (~1806.41)](projections/2024-12-27-Munster-Leinster)
 
-[2024-12-21 Lions (~1672.29) at Stormers (~1727.82)](projections/2024-12-21-Stormers-Lions)
+[2024-12-28 Glasgow Warriors (~1701.82) at Edinburgh (~1735.62)](projections/2024-12-28-Edinburgh-GlasgowWarriors)
 
-[2024-12-21 Bulls (~1744.14) at Sharks (~1706.86)](projections/2024-12-21-Sharks-Bulls)
+[2024-12-28 Sharks (~1647.68) at Stormers (~1787.65)](projections/2024-12-28-Stormers-Sharks)
 
-[2024-12-21 Scarlets (~1563.85) at Ospreys (~1669.88)](projections/2024-12-21-Ospreys-Scarlets)
+[2024-12-28 Benetton Treviso (~1613.22) at Zebre (~1500.5)](projections/2024-12-28-Zebre-BenettonTreviso)
 
-[2024-12-21 Connacht (~1640.55) at Leinster (~1937.73)](projections/2024-12-21-Leinster-Connacht)
+[2024-12-28 Ulster (~1615.91) at Connacht (~1702.58)](projections/2024-12-28-Connacht-Ulster)
 
-[2024-12-21 Zebre (~1423.53) at Benetton Treviso (~1681.14)](projections/2024-12-21-BenettonTreviso-Zebre)
+[2024-12-29 Lions (~1618.16) at Bulls (~1827.45)](projections/2024-12-29-Bulls-Lions)
 
-[2024-12-22 Edinburgh (~1672.26) at Glasgow Warriors (~1830.22)](projections/2024-12-22-GlasgowWarriors-Edinburgh)
+[2024-12-26 Cardiff Blues (~1644.52) at Dragons (~1532.41)](projections/2024-12-26-Dragons-CardiffBlues)
 # Domestic Leagues
 
 ## Japan Rugby League One D2
@@ -138,46 +148,32 @@ Last Round Error: 7.2 points per match
 
 [In depth model review and projections for Japan Rugby League One D2 2024](comp_files/Japan_Rugby_League_One_D2_2024)
 
-[2024-12-21 Kamaishi Seawaves (~960.89) at Kyuden Voltex (~1164.89)](projections/2024-12-21-KyudenVoltex-KamaishiSeawaves)
+Competition Accuracy: 1 of 4 (25.0%)
 
-[2024-12-21 Toyota Shuttles Aichi (~1289.33) at Hanazono Kintetsu Liners (~1431.12)](projections/2024-12-21-HanazonoKintetsuLiners-ToyotaShuttlesAichi)
+Competition Error: 16.03 points per match
 
-[2024-12-22 Shimizu Blue Sharks (~1013.31) at Hino Red Dolphins (~1185.79)](projections/2024-12-22-HinoRedDolphins-ShimizuBlueSharks)
+Last Round Accuracy: 1 of 4 (25.0%)
 
-[2024-12-22 Green Rockets Tokatsu (~1361.85) at Red Hurricanes Osaka (~1082.54)](projections/2024-12-22-RedHurricanesOsaka-GreenRocketsTokatsu)
+Last Round Error: 16.03 points per match
+
+[2024-12-28 Kyuden Voltex (~1129.01) at Shimizu Blue Sharks (~1114.31)](projections/2024-12-28-ShimizuBlueSharks-KyudenVoltex)
+
+[2024-12-28 Green Rockets Tokatsu (~1361.61) at Kamaishi Seawaves (~1181.61)](projections/2024-12-28-KamaishiSeawaves-GreenRocketsTokatsu)
+
+[2024-12-29 Red Hurricanes Osaka (~1050.04) at Toyota Shuttles Aichi (~1364.65)](projections/2024-12-29-ToyotaShuttlesAichi-RedHurricanesOsaka)
 ## Japan Rugby League One D3
 
 
 [In depth model review and projections for Japan Rugby League One D3 2024](comp_files/Japan_Rugby_League_One_D3_2024)
 
-[2024-12-21 Skyactivs Hiroshima (~732.35) at Chugoku Red Regulions (~741.0)](projections/2024-12-21-ChugokuRedRegulions-SkyactivsHiroshima)
+Competition Accuracy: 1 of 3 (33.33%)
 
-2024-12-22 Yakult Levins Toda at LeRiro Fukuoka
+Competition Error: 26.76 points per match
 
-2024-12-22 Kurita Water Gush at Sayama Secom Rugguts
-## Pro D2
+Last Round Accuracy: 1 of 3 (33.33%)
 
+Last Round Error: 26.76 points per match
 
-[In depth model review and projections for Pro D2 2024](comp_files/Pro_D2_2024)
+[2024-12-28 Yakult Levins Toda (~656.76) at Kurita Water Gush (~850.6)](projections/2024-12-28-KuritaWaterGush-YakultLevinsToda)
 
-Competition Accuracy: 75 of 113 (66.37%)
-
-Competition Error: 9.94 points per match
-
-Last Round Accuracy: 8 of 8 (100.0%)
-
-Last Round Error: 11.21 points per match
-
-[2024-12-20 Dax (~1443.28) at Aurillac (~1453.53)](projections/2024-12-20-Aurillac-Dax)
-
-[2024-12-20 Biarritz Olympique (~1441.11) at Colomiers (~1482.91)](projections/2024-12-20-Colomiers-BiarritzOlympique)
-
-[2024-12-20 Oyonnax (~1481.1) at Montauban (~1463.98)](projections/2024-12-20-Montauban-Oyonnax)
-
-[2024-12-20 Grenoble (~1521.7) at Nice (~1448.1)](projections/2024-12-20-Nice-Grenoble)
-
-[2024-12-20 Valence Romans Drome Rugby (~1417.31) at Provence Rugby (~1553.14)](projections/2024-12-20-ProvenceRugby-ValenceRomansDromeRugby)
-
-[2024-12-20 Nevers (~1426.23) at Soyaux-Angouleme (~1492.58)](projections/2024-12-20-Soyaux-Angouleme-Nevers)
-
-[2024-12-20 Beziers (~1485.71) at Mont-de-Marsan (~1529.69)](projections/2024-12-20-Mont-de-Marsan-Beziers)
+[2024-12-29 Skyactivs Hiroshima (~998.22) at Sayama Secom Rugguts (~1093.22)](projections/2024-12-29-SayamaSecomRugguts-SkyactivsHiroshima)

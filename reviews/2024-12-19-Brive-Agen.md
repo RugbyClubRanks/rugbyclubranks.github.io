@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Brive by 18.9
+## Prediction without Player Minutes: Brive by 18.4
 
 
-Brive by 5.9 on a neutral pitch
+Brive by 5.4 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Brive by 5.9 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player               |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:--------------------------|---------------:|
-|             24 | Hans Lombard-Buret  |             72.08 |        1 |             23.08 | Simon-Pierre Chauvac      |             80 |
-|             24 | Santiago Socino     |             89.36 |        2 |             72.14 | Issam Hamel               |             66 |
-|             80 | Beau Farrance       |             57.38 |        3 |             18.42 | Marcel van der Merwe      |             66 |
-|             66 | Evan Olmstead       |              2.22 |        4 |             73.62 | Tevita Ratuva             |             66 |
-|             29 | William Demotte     |             87.48 |        5 |             88.81 | Sitaleki Timani           |             66 |
-|             56 | Julien Lebian       |             35.73 |        6 |             75.41 | Retief Marais             |             66 |
-|             24 | Tomasi Fineanganofo |             52.1  |        7 |             96.23 | Courtney Lawes            |             66 |
-|             24 | Valentin Gayraud    |             47.9  |        8 |             41.29 | Taniela Sadrugu           |             80 |
-|             24 | Jack Maunder        |             81.31 |        9 |             11.97 | Hugo Verdu                |             66 |
-|             24 | Billy Searle        |              5.66 |       10 |             80.4  | Curwin Bosch              |             66 |
-|             37 | Iban Etcheverry     |             25.52 |       11 |             26.39 | Tevita Railevu            |             66 |
-|             66 | Clement Garrigues   |             27.27 |       12 |             23.83 | Paul Pimienta             |             61 |
-|             80 | Kolinio Ramoka      |             72.73 |       13 |             38.95 | Timilai Rokoduru          |             66 |
-|             80 | Loris Tolot         |              9.78 |       14 |             89.83 | Erwan Dridi               |             56 |
-|             80 | Franck Pourteau     |             90.45 |       15 |             61.8  | Mathis Ferté              |             43 |
-|             56 | Lasha Macharashvili |             41.15 |       16 |              4    | Konstantin Mikautadze     |             56 |
-|             14 | Theo Belan          |             67.37 |       17 |             56.97 | Francisco Coria Marchetti |             56 |
-|             66 | Javier Eissmann     |              1.87 |       18 |             43.82 | Benjamin Boudou           |             30 |
-|             80 | Florent Guion       |             19.07 |       19 |            nan    | Nathan Fraissenon         |             80 |
-|             80 | Matthieu Bonnet     |             34.79 |       20 |             89.79 | Asier Usarraga            |             41 |
-|             59 | Theo Idjellidaine   |             10.33 |       21 |             35.79 | Guillaume Galletier       |             19 |
-|             80 | Lucas Martins       |             71.78 |       22 |             52.25 | Rahboni Warren-Vosayaco   |             80 |
-|            nan | nan                 |            nan    |       23 |             74.1  | Leo Carbonneau            |             30 |
+|             80 | Hans Lombard-Buret  |             63.39 |        1 |             13.29 | Simon-Pierre Chauvac      |             19 |
+|             61 | Santiago Socino     |             89.13 |        2 |             72.83 | Issam Hamel               |             56 |
+|             49 | Beau Farrance       |             47.4  |        3 |              7.21 | Marcel van der Merwe      |             80 |
+|             37 | Evan Olmstead       |              2.52 |        4 |             71.73 | Tevita Ratuva             |             24 |
+|             80 | William Demotte     |             85.43 |        5 |             86.47 | Sitaleki Timani           |             80 |
+|             24 | Julien Lebian       |             33.84 |        6 |             74.23 | Retief Marais             |             56 |
+|             80 | Tomasi Fineanganofo |             51.45 |        7 |             96.85 | Courtney Lawes            |             31 |
+|             24 | Valentin Gayraud    |             42.26 |        8 |             34.1  | Taniela Sadrugu           |             22 |
+|             80 | Jack Maunder        |             78.74 |        9 |             12.4  | Hugo Verdu                |             21 |
+|             14 | Billy Searle        |              6.06 |       10 |             80.2  | Curwin Bosch              |             17 |
+|             41 | Iban Etcheverry     |             24.16 |       11 |             27.82 | Tevita Railevu            |             80 |
+|             30 | Clement Garrigues   |             23.41 |       12 |             26.73 | Paul Pimienta             |             56 |
+|             19 | Kolinio Ramoka      |             70.93 |       13 |             40.98 | Timilai Rokoduru          |             51 |
+|             24 | Loris Tolot         |              9.3  |       14 |             87.8  | Erwan Dridi               |             24 |
+|             66 | Franck Pourteau     |             91.11 |       15 |             60.74 | Mathis Ferté              |             80 |
+|              0 | Lasha Macharashvili |             29.66 |       16 |              4.34 | Konstantin Mikautadze     |             50 |
+|             29 | Theo Belan          |             65.95 |       17 |             47.71 | Francisco Coria Marchetti |             80 |
+|             41 | Javier Eissmann     |              2.17 |       18 |             44.25 | Benjamin Boudou           |             61 |
+|             80 | Florent Guion       |              7.71 |       19 |            nan    | Nathan Fraissenon         |             50 |
+|             63 | Matthieu Bonnet     |             35.37 |       20 |             85.52 | Asier Usarraga            |             56 |
+|             80 | Theo Idjellidaine   |             10.31 |       21 |             35.32 | Guillaume Galletier       |             80 |
+|             59 | Lucas Martins       |             70.43 |       22 |             44.56 | Rahboni Warren-Vosayaco   |             30 |
+|            nan | nan                 |            nan    |       23 |             70.37 | Leo Carbonneau            |             24 |
 
