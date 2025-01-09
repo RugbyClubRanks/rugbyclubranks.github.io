@@ -11,7 +11,7 @@ categories: "Gallagher Premiership 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.306, which translates to predicting Harlequins to win by 7.2.
 
-Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 25 to 18
+Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 27 to 20
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Newcastle Falcons by 4.9
+## Prediction without Player Minutes: Harlequins by 2.3
 
 
-Harlequins by 8.7 on a neutral pitch
+Harlequins by 16.0 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,28 +69,28 @@ Harlequins by 8.7 on a neutral pitch
 
 |   Away Minutes | Away Player     |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:----------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|              8 | Fin Baxter      |              8.39 |        1 |             10.74 | Murray McCallum     |             77 |
-|              4 | Jack Walker     |              6.74 |        2 |              0.89 | Jamie Blamire       |              3 |
-|              9 | Titi Lamositele |             12.5  |        3 |             55.03 | Richard Palframan   |             53 |
-|             48 | Joe Launchbury  |             98.45 |        4 |              1.17 | Sebastian de Chaves |             71 |
-|             26 | Dino Lamb       |             57.67 |        5 |             19.81 | Kiran McDonald      |             53 |
-|             27 | Jack Kenningham |             89.33 |        6 |             30.59 | Freddie Lockwood    |              4 |
-|             56 | Will Evans      |             72.46 |        7 |             96.24 | Tom Gordon          |             80 |
-|             56 | Will Evans      |             72.46 |        7 |             96.24 | Tom Gordon          |             24 |
-|             64 | James Chisholm  |             93.67 |        8 |              1.22 | Callum Chick        |              4 |
-|              6 | Will Porter     |             20.18 |        9 |              0.18 | Sam Stuart          |             80 |
-|             32 | Marcus Smith    |             81.5  |       10 |              1.54 | Brett Connon        |             54 |
-|             80 | Cadan Murley    |             61.07 |       11 |             14.31 | Ben Stevenson       |             80 |
-|             80 | Luke Northmore  |             82.91 |       12 |             58.88 | Connor Doherty      |             27 |
-|             76 | Oscar Beard     |             68.14 |       13 |             34.84 | Alex Hearle         |             61 |
-|             80 | Rodrigo Isgro   |             91.03 |       14 |              7.06 | Adam Radwan         |             80 |
-|             61 | Nick David      |             74.29 |       15 |             25.93 | Mike Rewcastle      |             72 |
-|             53 | Jarrod Evans    |             51.76 |       16 |              4.78 | Philip van der Walt |             77 |
-|             80 | Irne Herbst     |             26.89 |       17 |             79.01 | Oliver Spencer      |             80 |
-|             16 | Wyn Jones       |             88.84 |       18 |             13.2  | John Hawkins        |             80 |
-|             80 | Dillon Lewis    |             93.2  |       19 |            nan    | Callum Hancock      |             80 |
-|             73 | Alex Dombrandt  |             78.78 |       20 |            nan    | Max Pepper          |              7 |
-|             48 | Sam Riley       |             70.92 |       21 |             84.53 | Louis Brown         |             80 |
-|             76 | Ben Waghorn     |             42.23 |       22 |             21.28 | Ollie Fletcher      |             80 |
-|             76 | Lucas Friday    |             70    |       23 |            nan    | nan                 |            nan |
+|             40 | Fin Baxter      |              4.42 |        1 |             14.12 | Murray McCallum     |             80 |
+|              9 | Jack Walker     |              7.69 |        2 |              1.07 | Jamie Blamire       |             48 |
+|             80 | Titi Lamositele |             54    |        3 |             64.12 | Richard Palframan   |             48 |
+|             80 | Joe Launchbury  |             98.18 |        4 |              1.11 | Sebastian de Chaves |             73 |
+|             80 | Dino Lamb       |             72.22 |        5 |             18.99 | Kiran McDonald      |             32 |
+|              8 | Jack Kenningham |             86.69 |        6 |             21.9  | Freddie Lockwood    |             56 |
+|             61 | Will Evans      |             68.37 |        7 |             88.84 | Tom Gordon          |              3 |
+|             61 | Will Evans      |             68.37 |        7 |             88.84 | Tom Gordon          |             80 |
+|             77 | James Chisholm  |             94.88 |        8 |              1.28 | Callum Chick        |             77 |
+|             27 | Will Porter     |             14.13 |        9 |              0.18 | Sam Stuart          |             26 |
+|             61 | Marcus Smith    |             83.3  |       10 |              2.67 | Brett Connon        |              4 |
+|             48 | Cadan Murley    |             41.36 |       11 |             13.26 | Ben Stevenson       |             71 |
+|             80 | Luke Northmore  |             81.43 |       12 |             37.36 | Connor Doherty      |             76 |
+|             54 | Oscar Beard     |             65.82 |       13 |             40.99 | Alex Hearle         |             19 |
+|             80 | Rodrigo Isgro   |             93.12 |       14 |              6.68 | Adam Radwan         |             80 |
+|             76 | Nick David      |             82.21 |       15 |             24.55 | Mike Rewcastle      |              3 |
+|             72 | Jarrod Evans    |             51.89 |       16 |              4.91 | Philip van der Walt |             19 |
+|             59 | Irne Herbst     |             35.15 |       17 |             79.86 | Oliver Spencer      |             27 |
+|             80 | Wyn Jones       |             88.44 |       18 |             12.42 | John Hawkins        |             64 |
+|             68 | Dillon Lewis    |             92.52 |       19 |             16.33 | Callum Hancock      |             80 |
+|             52 | Alex Dombrandt  |             66.95 |       20 |             59.42 | Max Pepper          |             40 |
+|             80 | Sam Riley       |             70.48 |       21 |             84.01 | Louis Brown         |             16 |
+|              7 | Ben Waghorn     |             64.07 |       22 |             16.64 | Ollie Fletcher      |             80 |
+|             19 | Lucas Friday    |             70.29 |       23 |            nan    | nan                 |            nan |
 

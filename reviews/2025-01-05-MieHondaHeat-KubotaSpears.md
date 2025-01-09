@@ -11,7 +11,7 @@ categories: "Japan Rugby League One 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.186, which translates to predicting Kubota Spears to win by 13.3.
 
-Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 33 to 20
+Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 31 to 17
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Kubota Spears by 7.6
+## Prediction without Player Minutes: Kubota Spears by 10.3
 
 
-Kubota Spears by 11.1 on a neutral pitch
+Kubota Spears by 13.8 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Kubota Spears by 11.1 on a neutral pitch
 
 |   Away Minutes | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player            |   Home Minutes |
 |---------------:|:------------------|------------------:|---------:|------------------:|:-----------------------|---------------:|
-|             25 | Yota Kamimori     |             40.94 |        1 |              9.23 | Tatsuhiko Tsurukawa    |             62 |
-|             80 | Malcolm Marx      |             99.82 |        2 |             64.54 | Koki Hida              |             40 |
-|             80 | Opeti Helu        |             75.17 |        3 |             21.81 | Taiki Yoshioka         |             14 |
-|             31 | David Van Zeeland |             45.34 |        4 |             44.08 | Mark Abbott            |             49 |
-|             80 | David Bulbring    |             78.64 |        5 |             94.85 | Franco Mostert         |             80 |
-|             73 | Tyler Paul        |             96.95 |        6 |             99.7  | Pablo Matera           |             29 |
-|             80 | Takeo Suenaga     |             85.06 |        7 |             17.17 | Waimana Kapa           |             20 |
-|             55 | Faulua Makisi     |             78.57 |        8 |             37.96 | Talifolofola Tangipa   |             80 |
-|             29 | Shinobu Fujiwara  |             45.64 |        9 |             72    | Azuma Doei             |             49 |
-|             56 | Bernard Foley     |             98.9  |       10 |             63.66 | Manu Vunipola          |             49 |
-|             62 | Haruto Kida       |             68.23 |       11 |             69.94 | Larry Steven Sulunga   |             62 |
-|             80 | Rikus Pretorius   |             21.39 |       12 |              7.83 | Fraser Quirk           |             18 |
-|             56 | Sione Teaupa      |             88.64 |       13 |             86.33 | Jonathan Faauli        |             40 |
-|             80 | Koga Nezuka       |             85.02 |       14 |             10.59 | Haruhiko Uemura        |             18 |
-|             66 | Yuhei Shimada     |             20.48 |       15 |             83.66 | Lomano Lemeki          |             51 |
-|             80 | Keijiro Tamefusa  |             52.6  |       16 |              6.61 | Ryota Kobayashi        |             51 |
-|             25 | Halatoa Vailea    |             72.23 |       17 |             87.28 | Janko Swanepoel        |             51 |
-|             54 | Kota Kaishi       |             84.23 |       18 |            nan    | Kanato Hirano          |             80 |
-|             40 | Hayate Era        |             36.88 |       19 |            nan    | Feinga Kihe Lotu Fakai |              4 |
-|             60 | Merwe Olivier     |             65.83 |       20 |            nan    | Ikuma Yamada           |             40 |
-|             80 | Asipeli Moala     |            nan    |       21 |             20.36 | Taichi Takenaka        |             26 |
-|             80 | Bryn Hall         |             97.45 |       22 |            nan    | Tony Ray Hunt          |             40 |
-|             31 | Tomoki Kishioka   |             47.14 |       23 |             77.09 | Hayata Nakao           |             80 |
+|             18 | Yota Kamimori     |             44.64 |        1 |              5.02 | Tatsuhiko Tsurukawa    |             40 |
+|             66 | Malcolm Marx      |            100    |        2 |             48.3  | Koki Hida              |             31 |
+|             80 | Opeti Helu        |             79.17 |        3 |             16.75 | Taiki Yoshioka         |             31 |
+|             18 | David Van Zeeland |             48.08 |        4 |             41.41 | Mark Abbott            |             40 |
+|             62 | David Bulbring    |             83.74 |        5 |             93.64 | Franco Mostert         |             31 |
+|             29 | Tyler Paul        |             97.44 |        6 |             99.8  | Pablo Matera           |             80 |
+|             60 | Takeo Suenaga     |             88.74 |        7 |             22.82 | Waimana Kapa           |             14 |
+|             18 | Faulua Makisi     |             82.94 |        8 |             29.64 | Talifolofola Tangipa   |             80 |
+|             29 | Shinobu Fujiwara  |             54.53 |        9 |             65.58 | Azuma Doei             |             40 |
+|             18 | Bernard Foley     |             99.78 |       10 |             51.22 | Manu Vunipola          |             40 |
+|             80 | Haruto Kida       |             75.83 |       11 |             70.73 | Larry Steven Sulunga   |             40 |
+|             67 | Rikus Pretorius   |             30.66 |       12 |              7.14 | Fraser Quirk           |             80 |
+|             80 | Sione Teaupa      |             90.22 |       13 |             84.95 | Jonathan Faauli        |             51 |
+|             51 | Koga Nezuka       |             87.33 |       14 |             10.61 | Haruhiko Uemura        |             80 |
+|             80 | Yuhei Shimada     |             40.54 |       15 |             83.33 | Lomano Lemeki          |             62 |
+|             26 | Keijiro Tamefusa  |             63.61 |       16 |              3.48 | Ryota Kobayashi        |             80 |
+|             80 | Halatoa Vailea    |             78.29 |       17 |             87.88 | Janko Swanepoel        |             62 |
+|             31 | Kota Kaishi       |             87.76 |       18 |            nan    | Kanato Hirano          |             29 |
+|             18 | Hayate Era        |             49.55 |       19 |            nan    | Feinga Kihe Lotu Fakai |             80 |
+|             62 | Merwe Olivier     |             73.54 |       20 |            nan    | Ikuma Yamada           |             51 |
+|             73 | Asipeli Moala     |            nan    |       21 |             17.39 | Taichi Takenaka        |             20 |
+|             25 | Bryn Hall         |             97.28 |       22 |            nan    | Tony Ray Hunt          |             80 |
+|             14 | Tomoki Kishioka   |             47.44 |       23 |             73.05 | Hayata Nakao           |             25 |
 

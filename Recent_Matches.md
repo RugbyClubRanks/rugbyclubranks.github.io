@@ -60,11 +60,11 @@ Last Round Accuracy: 5 of 6 (83.33%)
 
 Last Round Error: 7.47 points per match
 
-[2025-01-04 Toyota Verblitz at Tokyo Sungoliath; 30-30](reviews//2025-01-04-TokyoSungoliath-ToyotaVerblitz)
-
 [2025-01-04 Yokohama Canon Eagles at Urayasu D-Rocks; 40-12](reviews//2025-01-04-UrayasuD-Rocks-YokohamaCanonEagles)
 
 [2025-01-04 Saitama Wild Knights at Black Rams Tokyo; 39-16](reviews//2025-01-04-BlackRamsTokyo-SaitamaWildKnights)
+
+[2025-01-04 Toyota Verblitz at Tokyo Sungoliath; 30-30](reviews//2025-01-04-TokyoSungoliath-ToyotaVerblitz)
 
 [2025-01-04 Shizuoka Blue Revs at Mitsubishi Dynaboars; 40-34](reviews//2025-01-04-MitsubishiDynaboars-ShizuokaBlueRevs)
 
@@ -78,17 +78,17 @@ Last Round Error: 7.47 points per match
 
 Competition Accuracy: 77 of 98 (78.57%)
 
-Competition Error: 10.76 points per match
+Competition Error: 10.63 points per match
 
 Last Round Accuracy: 6 of 7 (85.71%)
 
-Last Round Error: 10.57 points per match
+Last Round Error: 8.77 points per match
 
 [2025-01-04 Bordeaux Begles at Stade Francais Paris; 46-19](reviews//2025-01-04-StadeFrancaisParis-BordeauxBegles)
 
-[2025-01-04 Perpignan at Lyon; 24-36](reviews//2025-01-04-Lyon-Perpignan)
+[2025-01-04 Perpignan at Lyon; 12-17](reviews//2025-01-04-Lyon-Perpignan)
 
-[2025-01-04 Stade Toulousain at La Rochelle; 15-28](reviews//2025-01-04-LaRochelle-StadeToulousain)
+[2025-01-04 Stade Toulousain at La Rochelle; 19-22](reviews//2025-01-04-LaRochelle-StadeToulousain)
 
 [2025-01-04 Racing 92 at Toulon; 24-36](reviews//2025-01-04-Toulon-Racing92)
 
@@ -104,7 +104,7 @@ Last Round Error: 10.57 points per match
 
 Competition Accuracy: 53 of 69 (76.81%)
 
-Competition Error: 9.64 points per match
+Competition Error: 9.68 points per match
 
 Last Round Accuracy: 5 of 8 (62.5%)
 

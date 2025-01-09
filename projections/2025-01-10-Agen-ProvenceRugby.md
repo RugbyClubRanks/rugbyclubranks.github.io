@@ -9,9 +9,9 @@ categories: "Pro D2 2024" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.586, which translates to predicting Agen to win by 3.3.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.587, which translates to predicting Agen to win by 3.7.
 
-Our Over/Under is 65.5 - and combined with the spread above, we have a predicted scoreline of 31 to 34
+Our Over/Under is 63.5 - and combined with the spread above, we have a predicted scoreline of 30 to 34
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -42,5 +42,5 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Imputed Lineups: Agen by 11.2
 
 
-Provence Rugby by 3.2 on a neutral pitch
+Provence Rugby by 3.1 on a neutral pitch
 

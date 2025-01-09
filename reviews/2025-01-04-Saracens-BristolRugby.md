@@ -11,7 +11,7 @@ categories: "Gallagher Premiership 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.675, which translates to predicting Saracens to win by 6.5.
 
-Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 22 to 29
+Our Over/Under is 59.5 - and combined with the spread above, we have a predicted scoreline of 27 to 33
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Saracens by 13.1
+## Prediction without Player Minutes: Saracens by 19.4
 
 
-Saracens by 2.1 on a neutral pitch
+Saracens by 8.4 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Saracens by 2.1 on a neutral pitch
 
 |   Away Minutes | Away Player                |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:---------------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             80 | Ellis Genge                |             75.34 |        1 |              9.31 | Rhys Carré           |             68 |
-|             80 | Gabriel Oghre              |             90.78 |        2 |             99.65 | Jamie George         |             58 |
-|             12 | George Kloska              |             63.34 |        3 |             67.28 | Marco Riccioni       |             64 |
-|             26 | James Dun                  |             93.01 |        4 |             98.54 | Maro Itoje           |             44 |
-|             22 | Jamie Hodgson              |             88.64 |        5 |             30.19 | Harry Wilson         |             80 |
-|             79 | Steven Luatua              |             99.19 |        6 |             98.68 | Juan Martin Gonzalez |             80 |
-|             80 | Fitz Harding               |             95.93 |        7 |             98.78 | Ben Earl             |             80 |
-|             53 | Viliame Mata               |             36.53 |        8 |             59.39 | Tom Willis           |             40 |
-|             16 | Harry Randall              |             95.45 |        9 |             78.18 | Ivan van Zyl         |             36 |
-|             27 | Sam Worsley                |             27.53 |       10 |             59.47 | Fergus Burke         |             80 |
-|             80 | Noah Heward                |             86.55 |       11 |             85.4  | Lucio Cinti          |             55 |
-|             80 | James Williams             |             73.54 |       12 |             99.78 | Nick Tompkins        |             72 |
-|             78 | Benhard Janse van Rensburg |             96.47 |       13 |             83.68 | Alex Lozowski        |              2 |
-|             80 | Jack Bates                 |              4.96 |       14 |             65.36 | Rotimi Segun         |             54 |
-|             80 | Richard Lane               |             69.93 |       15 |             83.01 | Elliot Daly          |              2 |
-|             80 | Yann Thomas                |             83.14 |       16 |             25.08 | Phil Brantingham     |             12 |
-|              2 | Harry Thacker              |             79.26 |       17 |              3.72 | Kapeli Pifeleti      |             58 |
-|             58 | Jimmy Halliwell            |             67.37 |       18 |             40.86 | Alec Clarey          |              8 |
-|             71 | Jake Heenan                |             25    |       19 |             79.59 | Nathan Michelow      |             80 |
-|             53 | Steele Robert Barker       |             92.33 |       20 |             88.65 | James Hadfield       |             10 |
-|             48 | Kieran Marmion             |             94.18 |       21 |             69.21 | Olamide Sodeke       |             68 |
-|             80 | Harry Byrne                |             90.75 |       22 |             31.64 | Gareth Simpson       |             22 |
-|             10 | Kalaveti Ravouvou          |             82.58 |       23 |             53.14 | Olly Hartley         |             80 |
+|             36 | Ellis Genge                |             65.82 |        1 |             14.37 | Rhys Carré           |             55 |
+|             10 | Gabriel Oghre              |             78.53 |        2 |             99.64 | Jamie George         |             26 |
+|             22 | George Kloska              |             39.29 |        3 |             77.47 | Marco Riccioni       |             12 |
+|             10 | James Dun                  |             94.24 |        4 |             98.79 | Maro Itoje           |             80 |
+|             26 | Jamie Hodgson              |             80.91 |        5 |             50.2  | Harry Wilson         |             44 |
+|             12 | Steven Luatua              |             99.59 |        6 |             98.87 | Juan Martin Gonzalez |             80 |
+|             80 | Fitz Harding               |             96.42 |        7 |             98.67 | Ben Earl             |              1 |
+|             80 | Viliame Mata               |             43.07 |        8 |             69.94 | Tom Willis           |             12 |
+|             41 | Harry Randall              |             94.57 |        9 |             84.6  | Ivan van Zyl         |             16 |
+|             22 | Sam Worsley                |             46.33 |       10 |             72.38 | Fergus Burke         |             72 |
+|             80 | Noah Heward                |             88.31 |       11 |             89.39 | Lucio Cinti          |             80 |
+|             80 | James Williams             |             77.14 |       12 |            100    | Nick Tompkins        |             54 |
+|             22 | Benhard Janse van Rensburg |             91.1  |       13 |             81.87 | Alex Lozowski        |             80 |
+|             54 | Jack Bates                 |              7.47 |       14 |             62.38 | Rotimi Segun         |             49 |
+|             31 | Richard Lane               |             19.14 |       15 |             81.98 | Elliot Daly          |             58 |
+|             39 | Yann Thomas                |             82.4  |       16 |             12.24 | Phil Brantingham     |             70 |
+|             21 | Harry Thacker              |             85.15 |       17 |              3.94 | Kapeli Pifeleti      |             80 |
+|             80 | Jimmy Halliwell            |             66.33 |       18 |             41.58 | Alec Clarey          |             80 |
+|             63 | Jake Heenan                |             17.91 |       19 |             79.74 | Nathan Michelow      |             25 |
+|             48 | Steele Robert Barker       |             92.02 |       20 |             88.73 | James Hadfield       |             58 |
+|             59 | Kieran Marmion             |             93.48 |       21 |             65.81 | Olamide Sodeke       |             70 |
+|             59 | Harry Byrne                |             90.87 |       22 |            nan    | Gareth Simpson       |             80 |
+|             80 | Kalaveti Ravouvou          |             67.58 |       23 |             31.21 | Olly Hartley         |             68 |
 
