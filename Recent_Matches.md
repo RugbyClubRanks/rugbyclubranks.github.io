@@ -60,11 +60,11 @@ Last Round Accuracy: 5 of 6 (83.33%)
 
 Last Round Error: 7.47 points per match
 
+[2025-01-04 Toyota Verblitz at Tokyo Sungoliath; 30-30](reviews//2025-01-04-TokyoSungoliath-ToyotaVerblitz)
+
 [2025-01-04 Yokohama Canon Eagles at Urayasu D-Rocks; 40-12](reviews//2025-01-04-UrayasuD-Rocks-YokohamaCanonEagles)
 
 [2025-01-04 Saitama Wild Knights at Black Rams Tokyo; 39-16](reviews//2025-01-04-BlackRamsTokyo-SaitamaWildKnights)
-
-[2025-01-04 Toyota Verblitz at Tokyo Sungoliath; 30-30](reviews//2025-01-04-TokyoSungoliath-ToyotaVerblitz)
 
 [2025-01-04 Shizuoka Blue Revs at Mitsubishi Dynaboars; 40-34](reviews//2025-01-04-MitsubishiDynaboars-ShizuokaBlueRevs)
 
@@ -143,3 +143,17 @@ Last Round Accuracy: 1 of 3 (33.33%)
 Last Round Error: 41.16 points per match
 
 [2025-01-05 Chugoku Red Regulions at LeRiro Fukuoka; 39-17](reviews//2025-01-05-LeRiroFukuoka-ChugokuRedRegulions)
+## Pro D2
+
+
+[In depth model review and projections for Pro D2 2024](comp_files/Pro_D2_2024)
+
+Competition Accuracy: 82 of 121 (67.77%)
+
+Competition Error: 9.97 points per match
+
+Last Round Accuracy: 7 of 8 (87.5%)
+
+Last Round Error: 10.48 points per match
+
+[2025-01-09 Montauban at Grenoble; 15-35](reviews//2025-01-09-Grenoble-Montauban)

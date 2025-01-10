@@ -11,7 +11,7 @@ categories: "United Rugby Championship 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.548, which translates to predicting Cardiff Blues to win by 1.7.
 
-Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 22 to 24
+Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 25 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Cardiff Blues by 7.3
+## Prediction without Player Minutes: Cardiff Blues by 8.5
 
 
-Ospreys by 4.8 on a neutral pitch
+Ospreys by 3.7 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Ospreys by 4.8 on a neutral pitch
 
 |   Away Minutes | Away Player            |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:-----------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             59 | Gareth Thomas          |             50.17 |        1 |             56.38 | Danny Southworth   |             80 |
-|             32 | Sam Parry              |             25.22 |        2 |             15.21 | Evan Lloyd         |             80 |
-|             17 | Tom Botha              |             55.02 |        3 |              3.06 | Keiron Assiratti   |             80 |
-|             80 | Rhys Davies            |             90.3  |        4 |              8.89 | Seb Davies         |             80 |
-|             80 | James Fender           |             78.69 |        5 |             17.58 | Teddy Williams     |             32 |
-|             24 | Jac Morgan             |             92.43 |        6 |             80.76 | James Botham       |             32 |
-|             80 | Justin Tipuric         |             97.24 |        7 |             79.32 | Daniel Thomas      |              7 |
-|             48 | Morgan Morris          |              4.9  |        8 |             82.52 | Alun Lawrence      |             58 |
-|             18 | Reuben Morgan-Williams |             85.14 |        9 |             29.53 | Ellis Bevan        |             63 |
-|             32 | Dan Edwards            |             67.71 |       10 |             93.1  | Callum Sheedy      |              8 |
-|             15 | Keelan Giles           |             19.45 |       11 |             82.51 | Gabriel Hamer-Webb |             18 |
-|             15 | Keiran Williams        |             89.34 |       12 |             59.56 | Ben Thomas         |             48 |
-|             78 | Owen Watkin            |             98.46 |       13 |             17.91 | Louie Hennessey    |              8 |
-|             58 | Iestyn Hopkins         |             67.49 |       14 |             88.02 | Josh Adams         |             73 |
-|             80 | Max Nagy               |             67.57 |       15 |             11.04 | Cameron Winnett    |             80 |
-|             80 | James Ratti            |             68.59 |       16 |             35.27 | Rory Jennings      |             80 |
-|              5 | Kieran Hardy           |             45.65 |       17 |             58.14 | Dafydd Hughes      |             80 |
-|             80 | Rhys Henry             |             86.99 |       18 |             78.15 | Corey Domachowski  |             48 |
-|             32 | Garyn Phillips         |             51.28 |       19 |             18.62 | Rhys Litterick     |             21 |
-|             62 | Jack Walsh             |             32.88 |       20 |             88.99 | Josh McNally       |             32 |
-|             80 | Morgan Morse           |             35.82 |       21 |             80.81 | Taulupe Faletau    |             32 |
-|             65 | Lewis Lloyd            |             62.25 |       22 |             86.8  | Thomas Young       |             32 |
-|            nan | nan                    |            nan    |       23 |             83.33 | Aled Davies        |             80 |
+|             17 | Gareth Thomas          |             28.81 |        1 |             44.41 | Danny Southworth   |             80 |
+|             80 | Sam Parry              |             39.86 |        2 |             16.9  | Evan Lloyd         |             58 |
+|             80 | Tom Botha              |             77.8  |        3 |             10.08 | Keiron Assiratti   |             80 |
+|             32 | Rhys Davies            |             88.86 |        4 |             14.06 | Seb Davies         |              2 |
+|             72 | James Fender           |             84.44 |        5 |             15.96 | Teddy Williams     |             80 |
+|             62 | Jac Morgan             |             92.62 |        6 |             80.53 | James Botham       |             22 |
+|             13 | Justin Tipuric         |             97.75 |        7 |             79.61 | Daniel Thomas      |              7 |
+|              5 | Morgan Morris          |              4.99 |        8 |             81.7  | Alun Lawrence      |             80 |
+|             18 | Reuben Morgan-Williams |             87.16 |        9 |             27.49 | Ellis Bevan        |             80 |
+|             48 | Dan Edwards            |             71.05 |       10 |             92.54 | Callum Sheedy      |             80 |
+|             40 | Keelan Giles           |             24.73 |       11 |             89.26 | Gabriel Hamer-Webb |             80 |
+|             40 | Keiran Williams        |             91.45 |       12 |             58.93 | Ben Thomas         |             80 |
+|             72 | Owen Watkin            |             98.34 |       13 |             10.65 | Louie Hennessey    |             22 |
+|             80 | Iestyn Hopkins         |             72.41 |       14 |             88.18 | Josh Adams         |             48 |
+|             48 | Max Nagy               |             72.59 |       15 |             12.28 | Cameron Winnett    |             65 |
+|             56 | James Ratti            |             68.78 |       16 |             35.18 | Rory Jennings      |             48 |
+|             32 | Kieran Hardy           |             46.47 |       17 |             63.7  | Dafydd Hughes      |             48 |
+|             80 | Rhys Henry             |             89.49 |       18 |             83.05 | Corey Domachowski  |             75 |
+|             59 | Garyn Phillips         |             60.68 |       19 |             18.81 | Rhys Litterick     |             80 |
+|             48 | Jack Walsh             |             58.77 |       20 |             86.14 | Josh McNally       |             80 |
+|             48 | Morgan Morse           |             38.05 |       21 |             79.42 | Taulupe Faletau    |             48 |
+|             49 | Lewis Lloyd            |             61.57 |       22 |             87.7  | Thomas Young       |             80 |
+|            nan | nan                    |            nan    |       23 |             84.63 | Aled Davies        |             73 |
 

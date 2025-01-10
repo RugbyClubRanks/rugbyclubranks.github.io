@@ -11,7 +11,7 @@ categories: "Top 14 Orange 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.639, which translates to predicting Castres Olympique to win by 5.0.
 
-Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 24 to 29
+Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 22 to 27
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Castres Olympique by 15.3
+## Prediction without Player Minutes: Castres Olympique by 18.7
 
 
-Castres Olympique by 1.0 on a neutral pitch
+Castres Olympique by 4.5 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Castres Olympique by 1.0 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             80 | Ignacio Calles      |             46.26 |        1 |             52.13 | Quentin Walcker      |             28 |
-|             79 | Dan Jooste          |             57.07 |        2 |             75.49 | Gaetan Barlot        |             28 |
-|              8 | Harry Williams      |             92.43 |        3 |              9.78 | Nicolas Corato       |             19 |
-|             19 | Hugo Auradou        |             29.29 |        4 |             10.4  | Guillaume Ducat      |             80 |
-|             19 | Jimi Maximin        |             36.46 |        5 |             82.22 | Florent Vanverberghe |             25 |
-|             25 | Sacha Zegueur       |             16.27 |        6 |             16.38 | Mathieu Babillot     |             28 |
-|             46 | Reece Hewat         |             81.17 |        7 |             65.1  | Tyler Ardron         |             20 |
-|             80 | Beka Gorgadze       |             67.16 |        8 |             19.83 | Abraham Papali'i     |             41 |
-|             62 | Thibault Daubagna   |             86.96 |        9 |             53.26 | Jeremy Fernandez     |             80 |
-|             80 | Joe Simmonds        |             75.95 |       10 |             38.31 | Pierre Popelin       |             80 |
-|             55 | Aaron Grandidier    |             67.68 |       11 |             82.22 | Remy Baget           |             14 |
-|             80 | Elliot Roudil       |             31.54 |       12 |             92.42 | Jack Goodhue         |             65 |
-|             57 | Emilien Gailleton   |             66.92 |       13 |             62.86 | Vilimoni Botitu      |             41 |
-|             32 | Aymeric Luc         |             15.72 |       14 |             95.48 | Geoffrey Palis       |             78 |
-|             80 | Jack Maddocks       |             77.48 |       15 |             52.25 | Julien Dumora        |             80 |
-|             60 | Axel Desperes       |             87.75 |       16 |             80.36 | Antoine Tichit       |              2 |
-|             28 | Loic Credoz         |             13    |       17 |             63.47 | Louis Le Brun        |             80 |
-|             80 | Youri Delhommel     |             70.84 |       18 |              5.71 | Adrien Seguret       |             68 |
-|             65 | Remi Seneca         |             71.68 |       19 |             80.78 | Levan Chilachava     |             80 |
-|             80 | Guram Papidze       |             15.56 |       20 |             33.63 | Pierre Colonna       |             64 |
-|             80 | Lekima Tagitagivalu |             63.84 |       21 |             54.96 | Simon Meka           |              2 |
-|             67 | Dan Robson          |             98.37 |       22 |             94.75 | Leone Nakarawa       |             78 |
-|             80 | Thibaut Hamonou     |              7.04 |       23 |            nan    | nan                  |            nan |
+|             80 | Ignacio Calles      |             49.49 |        1 |             56.86 | Quentin Walcker      |             25 |
+|             61 | Dan Jooste          |             66.37 |        2 |             83.27 | Gaetan Barlot        |             53 |
+|             31 | Harry Williams      |             95.51 |        3 |             10.93 | Nicolas Corato       |             49 |
+|             80 | Hugo Auradou        |             39.36 |        4 |             14.86 | Guillaume Ducat      |             41 |
+|             14 | Jimi Maximin        |             40.36 |        5 |             83.94 | Florent Vanverberghe |             41 |
+|             80 | Sacha Zegueur       |             17.21 |        6 |             15.88 | Mathieu Babillot     |             28 |
+|             80 | Reece Hewat         |             81.97 |        7 |             64.55 | Tyler Ardron         |             80 |
+|             55 | Beka Gorgadze       |             66.11 |        8 |             26.2  | Abraham Papali'i     |             28 |
+|             25 | Thibault Daubagna   |             87.34 |        9 |             71.97 | Jeremy Fernandez     |             27 |
+|             19 | Joe Simmonds        |             69.96 |       10 |             44.96 | Pierre Popelin       |             61 |
+|             19 | Aaron Grandidier    |             67.88 |       11 |             86.7  | Remy Baget           |             61 |
+|             18 | Elliot Roudil       |             31.96 |       12 |             96.78 | Jack Goodhue         |             28 |
+|             15 | Emilien Gailleton   |             61.49 |       13 |             57.6  | Vilimoni Botitu      |             80 |
+|             80 | Aymeric Luc         |             18.92 |       14 |             97.34 | Geoffrey Palis       |             80 |
+|             80 | Jack Maddocks       |             75.66 |       15 |             62.5  | Julien Dumora        |             80 |
+|             50 | Axel Desperes       |             88.38 |       16 |             82.2  | Antoine Tichit       |             19 |
+|             48 | Loic Credoz         |              9.22 |       17 |             73.9  | Louis Le Brun        |             61 |
+|             80 | Youri Delhommel     |             67.26 |       18 |              6.66 | Adrien Seguret       |             80 |
+|             57 | Remi Seneca         |             75.51 |       19 |             84.58 | Levan Chilachava     |             62 |
+|             32 | Guram Papidze       |             17.46 |       20 |             50.89 | Pierre Colonna       |             80 |
+|             57 | Lekima Tagitagivalu |             66.77 |       21 |             42.21 | Simon Meka           |             55 |
+|             80 | Dan Robson          |             98.92 |       22 |             96.99 | Leone Nakarawa       |             80 |
+|             57 | Thibaut Hamonou     |              8.94 |       23 |            nan    | nan                  |            nan |
 
