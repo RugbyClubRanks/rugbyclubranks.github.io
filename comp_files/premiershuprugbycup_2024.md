@@ -1,6 +1,6 @@
 ---  
 title: "premiershuprugbycup 2024 Status"  
-date: 2025-01-10 6:00:00 -0500  
+date: 2025-01-13 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -45,26 +45,26 @@ aside:
 
 | Club                |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Leicester Tigers    |                   3 |    2.2 |             16.1355  |                   0.5 |                2   |                 11.3 |
-| Bath Rugby          |                   3 |    2.2 |             20.4362  |                   0.5 |                1.9 |                 11.1 |
-| Saracens            |                   3 |    2.2 |             17.3977  |                   0.5 |                1.7 |                 10.9 |
-| Sale Sharks         |                   3 |    2.1 |             15.5411  |                   0.6 |                1.5 |                 10.6 |
-| Exeter Chiefs       |                   3 |    2   |             11.3139  |                   0.6 |                1.6 |                 10.3 |
-| Gloucester Rugby    |                   3 |    1.9 |             11.6592  |                   0.7 |                1.7 |                 10   |
-| Bristol Rugby       |                   3 |    1.7 |              5.10674 |                   0.9 |                1.8 |                  9.5 |
-| Harlequins          |                   3 |    1.7 |              5.88109 |                   0.8 |                1.3 |                  9   |
-| Newcastle Falcons   |                   3 |    1.7 |              6.89091 |                   0.8 |                1.3 |                  8.8 |
-| Northampton Saints  |                   3 |    1.5 |              2.02461 |                   0.8 |                1.4 |                  8.4 |
-| Doncaster           |                   3 |    1.3 |             -6.84043 |                   0.8 |                0.9 |                  7   |
-| Cornish Pirates     |                   3 |    1.2 |             -6.67265 |                   0.9 |                1.1 |                  6.9 |
-| Coventry            |                   3 |    1.2 |             -7.52081 |                   0.9 |                1   |                  6.7 |
-| Ampthill            |                   3 |    1.2 |            -10.3915  |                   0.7 |                1.1 |                  6.7 |
-| Ealing Trailfinders |                   3 |    1.1 |             -9.82509 |                   0.9 |                0.9 |                  6.3 |
-| Nottingham          |                   3 |    1.1 |            -10.6393  |                   0.9 |                1.1 |                  6.3 |
-| Bedford             |                   3 |    0.9 |            -15.1514  |                   0.9 |                1.1 |                  5.7 |
-| London Scottish     |                   3 |    1   |            -13.4537  |                   1   |                0.7 |                  5.6 |
-| Hartpury College    |                   3 |    0.8 |            -16.3005  |                   1   |                1   |                  5.4 |
-| Caldy               |                   3 |    0.9 |            -15.5916  |                   1   |                0.9 |                  5.3 |
+| Harlequins          |                   3 |    2.1 |             14.1524  |                   0.6 |                1.5 |                 10.4 |
+| Bath Rugby          |                   3 |    2   |             13.2479  |                   0.6 |                1.7 |                 10.2 |
+| Leicester Tigers    |                   3 |    2   |             12.6737  |                   0.6 |                1.6 |                 10.2 |
+| Sale Sharks         |                   3 |    2   |             12.3562  |                   0.7 |                1.5 |                 10.2 |
+| Exeter Chiefs       |                   3 |    2   |             10.8488  |                   0.7 |                1.6 |                 10.1 |
+| Gloucester Rugby    |                   3 |    1.9 |              9.88265 |                   0.8 |                1.8 |                  9.9 |
+| Bristol Rugby       |                   3 |    1.7 |              5.35953 |                   0.8 |                1.9 |                  9.7 |
+| Newcastle Falcons   |                   3 |    1.8 |              8.80692 |                   0.7 |                1.5 |                  9.6 |
+| Northampton Saints  |                   3 |    1.8 |              8.48479 |                   0.8 |                1.8 |                  9.6 |
+| Saracens            |                   3 |    1.7 |              4.68837 |                   0.8 |                1.1 |                  8.6 |
+| Coventry            |                   3 |    1.3 |             -6.50873 |                   0.7 |                0.7 |                  6.9 |
+| Cornish Pirates     |                   3 |    1.2 |             -8.63303 |                   0.9 |                1   |                  6.7 |
+| Doncaster           |                   3 |    1.3 |             -5.79601 |                   0.9 |                0.6 |                  6.6 |
+| Ampthill            |                   3 |    1.2 |             -8.92605 |                   0.9 |                0.8 |                  6.5 |
+| London Scottish     |                   3 |    1.2 |             -8.26658 |                   0.9 |                0.6 |                  6.3 |
+| Bedford             |                   3 |    1.1 |             -9.68139 |                   1   |                1   |                  6.2 |
+| Ealing Trailfinders |                   3 |    1   |            -10.5742  |                   1   |                0.6 |                  5.8 |
+| Hartpury College    |                   3 |    1   |            -12.0985  |                   1   |                0.9 |                  5.8 |
+| Nottingham          |                   3 |    0.9 |            -14.6497  |                   1.1 |                1.1 |                  5.8 |
+| Caldy               |                   3 |    0.9 |            -15.3672  |                   0.9 |                0.8 |                  5.3 |
 
 
 
@@ -73,26 +73,26 @@ aside:
 
 | Club                |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Exeter Chiefs       |               6 |    5   |           147.314    |                   0.6 |                4.6 |                 25.3 |
-| Bath Rugby          |               6 |    5.2 |           166.436    |                   0.5 |                3.9 |                 25.1 |
-| Newcastle Falcons   |               6 |    4.7 |            31.8909   |                   0.8 |                4.3 |                 23.8 |
-| Sale Sharks         |               6 |    4.1 |            53.5411   |                   1.6 |                4.5 |                 22.6 |
-| Northampton Saints  |               6 |    4.5 |            32.0246   |                   0.8 |                3.4 |                 22.4 |
-| Harlequins          |               6 |    3.7 |            21.8811   |                   1.8 |                4.3 |                 21   |
-| Gloucester Rugby    |               6 |    3.9 |             0.659236 |                   0.7 |                3.7 |                 20   |
-| Saracens            |               6 |    4.2 |            81.3977   |                   0.5 |                2.7 |                 19.9 |
-| Bristol Rugby       |               6 |    3.7 |            19.1067   |                   0.9 |                3.8 |                 19.5 |
-| Ealing Trailfinders |               6 |    3.1 |            26.1749   |                   1.9 |                3.9 |                 18.3 |
-| Coventry            |               6 |    3.2 |            16.4792   |                   0.9 |                3   |                 16.7 |
-| Leicester Tigers    |               6 |    3.2 |            24.1355   |                   0.5 |                3   |                 16.3 |
-| Doncaster           |               6 |    2.3 |             8.15957  |                   2.8 |                3.9 |                 16   |
-| Hartpury College    |               6 |    1.8 |           -57.3005   |                   2   |                3   |                 12.4 |
-| Bedford             |               6 |    1.9 |           -57.1514   |                   0.9 |                2.1 |                 10.7 |
-| Nottingham          |               6 |    1.1 |           -72.6393   |                   1.9 |                3.1 |                  9.3 |
-| Cornish Pirates     |               6 |    1.2 |           -90.6727   |                   0.9 |                3.1 |                  8.9 |
-| London Scottish     |               6 |    1   |          -129.454    |                   1   |                2.7 |                  7.6 |
-| Ampthill            |               6 |    1.2 |          -128.392    |                   0.7 |                1.1 |                  6.7 |
-| Caldy               |               6 |    0.9 |           -93.5916   |                   1   |                0.9 |                  5.3 |
+| Exeter Chiefs       |               6 |    5   |            146.849   |                   0.7 |                4.6 |                 25.1 |
+| Newcastle Falcons   |               6 |    4.8 |             33.8069  |                   0.7 |                4.5 |                 24.6 |
+| Bath Rugby          |               6 |    5   |            159.248   |                   0.6 |                3.7 |                 24.2 |
+| Northampton Saints  |               6 |    4.8 |             38.4848  |                   0.8 |                3.8 |                 23.6 |
+| Harlequins          |               6 |    4.1 |             30.1524  |                   1.6 |                4.5 |                 22.4 |
+| Sale Sharks         |               6 |    4   |             50.3562  |                   1.7 |                4.5 |                 22.2 |
+| Gloucester Rugby    |               6 |    3.9 |             -1.11735 |                   0.8 |                3.8 |                 19.9 |
+| Bristol Rugby       |               6 |    3.7 |             19.3595  |                   0.8 |                3.9 |                 19.7 |
+| Ealing Trailfinders |               6 |    3   |             25.4258  |                   2   |                3.6 |                 17.8 |
+| Saracens            |               6 |    3.7 |             68.6884  |                   0.8 |                2.1 |                 17.6 |
+| Coventry            |               6 |    3.3 |             17.4913  |                   0.7 |                2.7 |                 16.9 |
+| Doncaster           |               6 |    2.3 |              9.20399 |                   2.9 |                3.6 |                 15.6 |
+| Leicester Tigers    |               6 |    3   |             20.6737  |                   0.6 |                2.6 |                 15.2 |
+| Hartpury College    |               6 |    2   |            -53.0985  |                   2   |                2.9 |                 12.8 |
+| Bedford             |               6 |    2.1 |            -51.6814  |                   1   |                2   |                 11.2 |
+| Nottingham          |               6 |    0.9 |            -76.6497  |                   2.1 |                3.1 |                  8.8 |
+| Cornish Pirates     |               6 |    1.2 |            -92.633   |                   0.9 |                3   |                  8.7 |
+| London Scottish     |               6 |    1.2 |           -124.267   |                   0.9 |                2.6 |                  8.3 |
+| Ampthill            |               6 |    1.2 |           -126.926   |                   0.9 |                0.8 |                  6.5 |
+| Caldy               |               6 |    0.9 |            -93.3672  |                   0.9 |                0.8 |                  5.3 |
 
 
 
@@ -102,33 +102,20 @@ aside:
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
 | Club Level | 86.7% | 17.5 |
-| Player Level: Lineup | 66.7% | 15.2 |
-| Player Level: Minutes | 66.7% | 15.2 |
+| Player Level: Lineup | 68.4% | 15.8 |
+| Player Level: Minutes | 68.4% | 15.6 |
 
 
 # Future Predictions
 
 ## Week 4
 
-### Bath Rugby V Bedford on 2025/01/31
-
-
-Average Margin: Bath Rugby by 10.9
-
-Average Scoreline: 33-22
-
-<p float="left">
-<img src="plots/performances_2025-01-31-BathRugby_V_Bedford.png" width="32%" />
-<img src="plots/resultbar_2025-01-31-BathRugby_V_Bedford.png" width="32%" />
-<img src="plots/spreads_2025-01-31-BathRugby_V_Bedford.png" width="32%" />
-</p>
-
 ### Cornish Pirates V Gloucester Rugby on 2025/01/31
 
 
-Average Margin: Gloucester Rugby by 3.0
+Average Margin: Gloucester Rugby by 2.8
 
-Average Scoreline: 31-28
+Average Scoreline: 42-39
 
 <p float="left">
 <img src="plots/performances_2025-01-31-CornishPirates_V_GloucesterRugby.png" width="32%" />
@@ -136,64 +123,25 @@ Average Scoreline: 31-28
 <img src="plots/spreads_2025-01-31-CornishPirates_V_GloucesterRugby.png" width="32%" />
 </p>
 
-### Doncaster V Newcastle Falcons on 2025/02/01
+### Bath Rugby V Bedford on 2025/01/31
 
 
-Average Margin: Newcastle Falcons by 1.7
+Average Margin: Bath Rugby by 7.6
 
-Average Scoreline: 32-31
-
-<p float="left">
-<img src="plots/performances_2025-02-01-Doncaster_V_NewcastleFalcons.png" width="32%" />
-<img src="plots/resultbar_2025-02-01-Doncaster_V_NewcastleFalcons.png" width="32%" />
-<img src="plots/spreads_2025-02-01-Doncaster_V_NewcastleFalcons.png" width="32%" />
-</p>
-
-### Hartpury College V Exeter Chiefs on 2025/02/01
-
-
-Average Margin: Exeter Chiefs by 1.2
-
-Average Scoreline: 30-29
+Average Scoreline: 36-28
 
 <p float="left">
-<img src="plots/performances_2025-02-01-HartpuryCollege_V_ExeterChiefs.png" width="32%" />
-<img src="plots/resultbar_2025-02-01-HartpuryCollege_V_ExeterChiefs.png" width="32%" />
-<img src="plots/spreads_2025-02-01-HartpuryCollege_V_ExeterChiefs.png" width="32%" />
-</p>
-
-### Ampthill V Bristol Rugby on 2025/02/01
-
-
-Average Margin: Bristol Rugby by 1.8
-
-Average Scoreline: 31-29
-
-<p float="left">
-<img src="plots/performances_2025-02-01-Ampthill_V_BristolRugby.png" width="32%" />
-<img src="plots/resultbar_2025-02-01-Ampthill_V_BristolRugby.png" width="32%" />
-<img src="plots/spreads_2025-02-01-Ampthill_V_BristolRugby.png" width="32%" />
-</p>
-
-### Saracens V Ealing Trailfinders on 2025/02/01
-
-
-Average Margin: Saracens by 10.0
-
-Average Scoreline: 33-23
-
-<p float="left">
-<img src="plots/performances_2025-02-01-Saracens_V_EalingTrailfinders.png" width="32%" />
-<img src="plots/resultbar_2025-02-01-Saracens_V_EalingTrailfinders.png" width="32%" />
-<img src="plots/spreads_2025-02-01-Saracens_V_EalingTrailfinders.png" width="32%" />
+<img src="plots/performances_2025-01-31-BathRugby_V_Bedford.png" width="32%" />
+<img src="plots/resultbar_2025-01-31-BathRugby_V_Bedford.png" width="32%" />
+<img src="plots/spreads_2025-01-31-BathRugby_V_Bedford.png" width="32%" />
 </p>
 
 ### Leicester Tigers V Northampton Saints on 2025/02/01
 
 
-Average Margin: Leicester Tigers by 5.3
+Average Margin: Leicester Tigers by 3.0
 
-Average Scoreline: 35-30
+Average Scoreline: 36-33
 
 <p float="left">
 <img src="plots/performances_2025-02-01-LeicesterTigers_V_NorthamptonSaints.png" width="32%" />
@@ -204,9 +152,9 @@ Average Scoreline: 35-30
 ### Caldy V Sale Sharks on 2025/02/01
 
 
-Average Margin: Sale Sharks by 2.4
+Average Margin: Sale Sharks by 1.5
 
-Average Scoreline: 35-32
+Average Scoreline: 36-35
 
 <p float="left">
 <img src="plots/performances_2025-02-01-Caldy_V_SaleSharks.png" width="32%" />
@@ -214,25 +162,25 @@ Average Scoreline: 35-32
 <img src="plots/spreads_2025-02-01-Caldy_V_SaleSharks.png" width="32%" />
 </p>
 
-### Coventry V Nottingham on 2025/02/01
+### Doncaster V Newcastle Falcons on 2025/02/01
 
 
-Average Margin: Coventry by 2.4
+Average Margin: Newcastle Falcons by 1.9
 
-Average Scoreline: 34-32
+Average Scoreline: 36-35
 
 <p float="left">
-<img src="plots/performances_2025-02-01-Coventry_V_Nottingham.png" width="32%" />
-<img src="plots/resultbar_2025-02-01-Coventry_V_Nottingham.png" width="32%" />
-<img src="plots/spreads_2025-02-01-Coventry_V_Nottingham.png" width="32%" />
+<img src="plots/performances_2025-02-01-Doncaster_V_NewcastleFalcons.png" width="32%" />
+<img src="plots/resultbar_2025-02-01-Doncaster_V_NewcastleFalcons.png" width="32%" />
+<img src="plots/spreads_2025-02-01-Doncaster_V_NewcastleFalcons.png" width="32%" />
 </p>
 
 ### Harlequins V London Scottish on 2025/02/01
 
 
-Average Margin: Harlequins by 8.6
+Average Margin: Harlequins by 9.0
 
-Average Scoreline: 31-23
+Average Scoreline: 38-29
 
 <p float="left">
 <img src="plots/performances_2025-02-01-Harlequins_V_LondonScottish.png" width="32%" />
@@ -240,27 +188,66 @@ Average Scoreline: 31-23
 <img src="plots/spreads_2025-02-01-Harlequins_V_LondonScottish.png" width="32%" />
 </p>
 
-## Week 5
-
-### Bedford V Bristol Rugby on 2025/02/07
+### Hartpury College V Exeter Chiefs on 2025/02/01
 
 
-Average Margin: Bristol Rugby by 1.1
+Average Margin: Exeter Chiefs by 0.1
 
-Average Scoreline: 35-34
+Average Scoreline: 40-39
 
 <p float="left">
-<img src="plots/performances_2025-02-07-Bedford_V_BristolRugby.png" width="32%" />
-<img src="plots/resultbar_2025-02-07-Bedford_V_BristolRugby.png" width="32%" />
-<img src="plots/spreads_2025-02-07-Bedford_V_BristolRugby.png" width="32%" />
+<img src="plots/performances_2025-02-01-HartpuryCollege_V_ExeterChiefs.png" width="32%" />
+<img src="plots/resultbar_2025-02-01-HartpuryCollege_V_ExeterChiefs.png" width="32%" />
+<img src="plots/spreads_2025-02-01-HartpuryCollege_V_ExeterChiefs.png" width="32%" />
 </p>
+
+### Ampthill V Bristol Rugby on 2025/02/01
+
+
+Average Margin: Bristol Rugby by 2.1
+
+Average Scoreline: 41-39
+
+<p float="left">
+<img src="plots/performances_2025-02-01-Ampthill_V_BristolRugby.png" width="32%" />
+<img src="plots/resultbar_2025-02-01-Ampthill_V_BristolRugby.png" width="32%" />
+<img src="plots/spreads_2025-02-01-Ampthill_V_BristolRugby.png" width="32%" />
+</p>
+
+### Coventry V Nottingham on 2025/02/01
+
+
+Average Margin: Coventry by 3.7
+
+Average Scoreline: 38-34
+
+<p float="left">
+<img src="plots/performances_2025-02-01-Coventry_V_Nottingham.png" width="32%" />
+<img src="plots/resultbar_2025-02-01-Coventry_V_Nottingham.png" width="32%" />
+<img src="plots/spreads_2025-02-01-Coventry_V_Nottingham.png" width="32%" />
+</p>
+
+### Saracens V Ealing Trailfinders on 2025/02/01
+
+
+Average Margin: Saracens by 7.4
+
+Average Scoreline: 37-29
+
+<p float="left">
+<img src="plots/performances_2025-02-01-Saracens_V_EalingTrailfinders.png" width="32%" />
+<img src="plots/resultbar_2025-02-01-Saracens_V_EalingTrailfinders.png" width="32%" />
+<img src="plots/spreads_2025-02-01-Saracens_V_EalingTrailfinders.png" width="32%" />
+</p>
+
+## Week 5
 
 ### London Scottish V Saracens on 2025/02/07
 
 
-Average Margin: Saracens by 6.2
+Average Margin: Saracens by 1.4
 
-Average Scoreline: 36-30
+Average Scoreline: 34-33
 
 <p float="left">
 <img src="plots/performances_2025-02-07-LondonScottish_V_Saracens.png" width="32%" />
@@ -268,12 +255,25 @@ Average Scoreline: 36-30
 <img src="plots/spreads_2025-02-07-LondonScottish_V_Saracens.png" width="32%" />
 </p>
 
+### Bedford V Bristol Rugby on 2025/02/07
+
+
+Average Margin: Bedford by 0.1
+
+Average Scoreline: 40-40
+
+<p float="left">
+<img src="plots/performances_2025-02-07-Bedford_V_BristolRugby.png" width="32%" />
+<img src="plots/resultbar_2025-02-07-Bedford_V_BristolRugby.png" width="32%" />
+<img src="plots/spreads_2025-02-07-Bedford_V_BristolRugby.png" width="32%" />
+</p>
+
 ### Leicester Tigers V Nottingham on 2025/02/08
 
 
-Average Margin: Leicester Tigers by 8.9
+Average Margin: Leicester Tigers by 9.1
 
-Average Scoreline: 34-25
+Average Scoreline: 40-31
 
 <p float="left">
 <img src="plots/performances_2025-02-08-LeicesterTigers_V_Nottingham.png" width="32%" />
@@ -281,38 +281,12 @@ Average Scoreline: 34-25
 <img src="plots/spreads_2025-02-08-LeicesterTigers_V_Nottingham.png" width="32%" />
 </p>
 
-### Northampton Saints V Coventry on 2025/02/08
-
-
-Average Margin: Northampton Saints by 8.0
-
-Average Scoreline: 32-24
-
-<p float="left">
-<img src="plots/performances_2025-02-08-NorthamptonSaints_V_Coventry.png" width="32%" />
-<img src="plots/resultbar_2025-02-08-NorthamptonSaints_V_Coventry.png" width="32%" />
-<img src="plots/spreads_2025-02-08-NorthamptonSaints_V_Coventry.png" width="32%" />
-</p>
-
-### Gloucester Rugby V Hartpury College on 2025/02/08
-
-
-Average Margin: Gloucester Rugby by 10.5
-
-Average Scoreline: 36-25
-
-<p float="left">
-<img src="plots/performances_2025-02-08-GloucesterRugby_V_HartpuryCollege.png" width="32%" />
-<img src="plots/resultbar_2025-02-08-GloucesterRugby_V_HartpuryCollege.png" width="32%" />
-<img src="plots/spreads_2025-02-08-GloucesterRugby_V_HartpuryCollege.png" width="32%" />
-</p>
-
 ### Bath Rugby V Ampthill on 2025/02/08
 
 
-Average Margin: Bath Rugby by 11.7
+Average Margin: Bath Rugby by 9.1
 
-Average Scoreline: 33-21
+Average Scoreline: 40-30
 
 <p float="left">
 <img src="plots/performances_2025-02-08-BathRugby_V_Ampthill.png" width="32%" />
@@ -320,12 +294,25 @@ Average Scoreline: 33-21
 <img src="plots/spreads_2025-02-08-BathRugby_V_Ampthill.png" width="32%" />
 </p>
 
+### Northampton Saints V Coventry on 2025/02/08
+
+
+Average Margin: Northampton Saints by 9.6
+
+Average Scoreline: 40-30
+
+<p float="left">
+<img src="plots/performances_2025-02-08-NorthamptonSaints_V_Coventry.png" width="32%" />
+<img src="plots/resultbar_2025-02-08-NorthamptonSaints_V_Coventry.png" width="32%" />
+<img src="plots/spreads_2025-02-08-NorthamptonSaints_V_Coventry.png" width="32%" />
+</p>
+
 ### Ealing Trailfinders V Harlequins on 2025/02/08
 
 
-Average Margin: Ealing Trailfinders by 1.5
+Average Margin: Harlequins by 1.0
 
-Average Scoreline: 21-20
+Average Scoreline: 36-35
 
 <p float="left">
 <img src="plots/performances_2025-02-08-EalingTrailfinders_V_Harlequins.png" width="32%" />
@@ -333,12 +320,38 @@ Average Scoreline: 21-20
 <img src="plots/spreads_2025-02-08-EalingTrailfinders_V_Harlequins.png" width="32%" />
 </p>
 
+### Gloucester Rugby V Hartpury College on 2025/02/08
+
+
+Average Margin: Gloucester Rugby by 9.3
+
+Average Scoreline: 41-31
+
+<p float="left">
+<img src="plots/performances_2025-02-08-GloucesterRugby_V_HartpuryCollege.png" width="32%" />
+<img src="plots/resultbar_2025-02-08-GloucesterRugby_V_HartpuryCollege.png" width="32%" />
+<img src="plots/spreads_2025-02-08-GloucesterRugby_V_HartpuryCollege.png" width="32%" />
+</p>
+
+### Newcastle Falcons V Caldy on 2025/02/09
+
+
+Average Margin: Newcastle Falcons by 9.7
+
+Average Scoreline: 36-26
+
+<p float="left">
+<img src="plots/performances_2025-02-09-NewcastleFalcons_V_Caldy.png" width="32%" />
+<img src="plots/resultbar_2025-02-09-NewcastleFalcons_V_Caldy.png" width="32%" />
+<img src="plots/spreads_2025-02-09-NewcastleFalcons_V_Caldy.png" width="32%" />
+</p>
+
 ### Sale Sharks V Doncaster on 2025/02/09
 
 
-Average Margin: Sale Sharks by 8.8
+Average Margin: Sale Sharks by 8.0
 
-Average Scoreline: 32-23
+Average Scoreline: 37-29
 
 <p float="left">
 <img src="plots/performances_2025-02-09-SaleSharks_V_Doncaster.png" width="32%" />
@@ -349,9 +362,9 @@ Average Scoreline: 32-23
 ### Exeter Chiefs V Cornish Pirates on 2025/02/09
 
 
-Average Margin: Exeter Chiefs by 8.3
+Average Margin: Exeter Chiefs by 8.5
 
-Average Scoreline: 37-28
+Average Scoreline: 38-29
 
 <p float="left">
 <img src="plots/performances_2025-02-09-ExeterChiefs_V_CornishPirates.png" width="32%" />
@@ -359,27 +372,14 @@ Average Scoreline: 37-28
 <img src="plots/spreads_2025-02-09-ExeterChiefs_V_CornishPirates.png" width="32%" />
 </p>
 
-### Newcastle Falcons V Caldy on 2025/02/09
-
-
-Average Margin: Newcastle Falcons by 9.6
-
-Average Scoreline: 34-25
-
-<p float="left">
-<img src="plots/performances_2025-02-09-NewcastleFalcons_V_Caldy.png" width="32%" />
-<img src="plots/resultbar_2025-02-09-NewcastleFalcons_V_Caldy.png" width="32%" />
-<img src="plots/spreads_2025-02-09-NewcastleFalcons_V_Caldy.png" width="32%" />
-</p>
-
 ## Week 6
 
 ### Nottingham V Northampton Saints on 2025/02/14
 
 
-Average Margin: Nottingham by 0.6
+Average Margin: Northampton Saints by 1.9
 
-Average Scoreline: 28-28
+Average Scoreline: 40-39
 
 <p float="left">
 <img src="plots/performances_2025-02-14-Nottingham_V_NorthamptonSaints.png" width="32%" />
@@ -387,38 +387,12 @@ Average Scoreline: 28-28
 <img src="plots/spreads_2025-02-14-Nottingham_V_NorthamptonSaints.png" width="32%" />
 </p>
 
-### Ampthill V Bedford on 2025/02/15
-
-
-Average Margin: Ampthill by 3.1
-
-Average Scoreline: 31-28
-
-<p float="left">
-<img src="plots/performances_2025-02-15-Ampthill_V_Bedford.png" width="32%" />
-<img src="plots/resultbar_2025-02-15-Ampthill_V_Bedford.png" width="32%" />
-<img src="plots/spreads_2025-02-15-Ampthill_V_Bedford.png" width="32%" />
-</p>
-
-### Bristol Rugby V Bath Rugby on 2025/02/15
-
-
-Average Margin: Bristol Rugby by 2.2
-
-Average Scoreline: 33-31
-
-<p float="left">
-<img src="plots/performances_2025-02-15-BristolRugby_V_BathRugby.png" width="32%" />
-<img src="plots/resultbar_2025-02-15-BristolRugby_V_BathRugby.png" width="32%" />
-<img src="plots/spreads_2025-02-15-BristolRugby_V_BathRugby.png" width="32%" />
-</p>
-
 ### Exeter Chiefs V Gloucester Rugby on 2025/02/15
 
 
-Average Margin: Exeter Chiefs by 1.8
+Average Margin: Exeter Chiefs by 2.3
 
-Average Scoreline: 28-26
+Average Scoreline: 36-34
 
 <p float="left">
 <img src="plots/performances_2025-02-15-ExeterChiefs_V_GloucesterRugby.png" width="32%" />
@@ -426,64 +400,12 @@ Average Scoreline: 28-26
 <img src="plots/spreads_2025-02-15-ExeterChiefs_V_GloucesterRugby.png" width="32%" />
 </p>
 
-### Harlequins V Saracens on 2025/02/15
-
-
-Average Margin: Saracens by 1.2
-
-Average Scoreline: 33-31
-
-<p float="left">
-<img src="plots/performances_2025-02-15-Harlequins_V_Saracens.png" width="32%" />
-<img src="plots/resultbar_2025-02-15-Harlequins_V_Saracens.png" width="32%" />
-<img src="plots/spreads_2025-02-15-Harlequins_V_Saracens.png" width="32%" />
-</p>
-
-### Coventry V Leicester Tigers on 2025/02/15
-
-
-Average Margin: Leicester Tigers by 2.0
-
-Average Scoreline: 33-31
-
-<p float="left">
-<img src="plots/performances_2025-02-15-Coventry_V_LeicesterTigers.png" width="32%" />
-<img src="plots/resultbar_2025-02-15-Coventry_V_LeicesterTigers.png" width="32%" />
-<img src="plots/spreads_2025-02-15-Coventry_V_LeicesterTigers.png" width="32%" />
-</p>
-
-### Doncaster V Caldy on 2025/02/15
-
-
-Average Margin: Doncaster by 3.6
-
-Average Scoreline: 28-24
-
-<p float="left">
-<img src="plots/performances_2025-02-15-Doncaster_V_Caldy.png" width="32%" />
-<img src="plots/resultbar_2025-02-15-Doncaster_V_Caldy.png" width="32%" />
-<img src="plots/spreads_2025-02-15-Doncaster_V_Caldy.png" width="32%" />
-</p>
-
-### London Scottish V Ealing Trailfinders on 2025/02/15
-
-
-Average Margin: London Scottish by 1.3
-
-Average Scoreline: 33-32
-
-<p float="left">
-<img src="plots/performances_2025-02-15-LondonScottish_V_EalingTrailfinders.png" width="32%" />
-<img src="plots/resultbar_2025-02-15-LondonScottish_V_EalingTrailfinders.png" width="32%" />
-<img src="plots/spreads_2025-02-15-LondonScottish_V_EalingTrailfinders.png" width="32%" />
-</p>
-
 ### Cornish Pirates V Hartpury College on 2025/02/15
 
 
-Average Margin: Cornish Pirates by 4.7
+Average Margin: Cornish Pirates by 2.6
 
-Average Scoreline: 32-27
+Average Scoreline: 40-37
 
 <p float="left">
 <img src="plots/performances_2025-02-15-CornishPirates_V_HartpuryCollege.png" width="32%" />
@@ -491,12 +413,90 @@ Average Scoreline: 32-27
 <img src="plots/spreads_2025-02-15-CornishPirates_V_HartpuryCollege.png" width="32%" />
 </p>
 
+### Bristol Rugby V Bath Rugby on 2025/02/15
+
+
+Average Margin: Bristol Rugby by 3.4
+
+Average Scoreline: 39-35
+
+<p float="left">
+<img src="plots/performances_2025-02-15-BristolRugby_V_BathRugby.png" width="32%" />
+<img src="plots/resultbar_2025-02-15-BristolRugby_V_BathRugby.png" width="32%" />
+<img src="plots/spreads_2025-02-15-BristolRugby_V_BathRugby.png" width="32%" />
+</p>
+
+### London Scottish V Ealing Trailfinders on 2025/02/15
+
+
+Average Margin: London Scottish by 2.1
+
+Average Scoreline: 40-38
+
+<p float="left">
+<img src="plots/performances_2025-02-15-LondonScottish_V_EalingTrailfinders.png" width="32%" />
+<img src="plots/resultbar_2025-02-15-LondonScottish_V_EalingTrailfinders.png" width="32%" />
+<img src="plots/spreads_2025-02-15-LondonScottish_V_EalingTrailfinders.png" width="32%" />
+</p>
+
+### Ampthill V Bedford on 2025/02/15
+
+
+Average Margin: Ampthill by 2.3
+
+Average Scoreline: 38-36
+
+<p float="left">
+<img src="plots/performances_2025-02-15-Ampthill_V_Bedford.png" width="32%" />
+<img src="plots/resultbar_2025-02-15-Ampthill_V_Bedford.png" width="32%" />
+<img src="plots/spreads_2025-02-15-Ampthill_V_Bedford.png" width="32%" />
+</p>
+
+### Doncaster V Caldy on 2025/02/15
+
+
+Average Margin: Doncaster by 4.1
+
+Average Scoreline: 33-29
+
+<p float="left">
+<img src="plots/performances_2025-02-15-Doncaster_V_Caldy.png" width="32%" />
+<img src="plots/resultbar_2025-02-15-Doncaster_V_Caldy.png" width="32%" />
+<img src="plots/spreads_2025-02-15-Doncaster_V_Caldy.png" width="32%" />
+</p>
+
+### Coventry V Leicester Tigers on 2025/02/15
+
+
+Average Margin: Leicester Tigers by 0.6
+
+Average Scoreline: 40-39
+
+<p float="left">
+<img src="plots/performances_2025-02-15-Coventry_V_LeicesterTigers.png" width="32%" />
+<img src="plots/resultbar_2025-02-15-Coventry_V_LeicesterTigers.png" width="32%" />
+<img src="plots/spreads_2025-02-15-Coventry_V_LeicesterTigers.png" width="32%" />
+</p>
+
+### Harlequins V Saracens on 2025/02/15
+
+
+Average Margin: Harlequins by 4.1
+
+Average Scoreline: 32-27
+
+<p float="left">
+<img src="plots/performances_2025-02-15-Harlequins_V_Saracens.png" width="32%" />
+<img src="plots/resultbar_2025-02-15-Harlequins_V_Saracens.png" width="32%" />
+<img src="plots/spreads_2025-02-15-Harlequins_V_Saracens.png" width="32%" />
+</p>
+
 ### Sale Sharks V Newcastle Falcons on 2025/02/16
 
 
-Average Margin: Sale Sharks by 4.4
+Average Margin: Sale Sharks by 2.8
 
-Average Scoreline: 34-30
+Average Scoreline: 36-33
 
 <p float="left">
 <img src="plots/performances_2025-02-16-SaleSharks_V_NewcastleFalcons.png" width="32%" />

@@ -11,7 +11,7 @@ categories: "Pro D2 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.781, which translates to predicting Grenoble to win by 11.1.
 
-Our Over/Under is 57.5 - and combined with the spread above, we have a predicted scoreline of 23 to 35
+Our Over/Under is 42.5 - and combined with the spread above, we have a predicted scoreline of 16 to 27
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Grenoble by 24.9
+## Prediction without Player Minutes: Grenoble by 20.8
 
 
-Grenoble by 11.8 on a neutral pitch
+Grenoble by 7.8 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Grenoble by 11.8 on a neutral pitch
 
 |   Away Minutes | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             80 | Thomas Bue        |             17.71 |        1 |             62.63 | Eli Eglaine        |             22 |
-|             12 | Kevin Firmin      |              7.12 |        2 |             73.13 | Mathis Sarragallet |             25 |
-|             80 | Tietie Tuimauga   |             71.86 |        3 |             68.64 | Cody Thomas        |             24 |
-|             62 | Clément Bitz      |             70.98 |        4 |             52.91 | Thomas Ployet      |             24 |
-|             80 | Lewis Bean        |             11.65 |        5 |             82.73 | Pierce Phillips    |             57 |
-|             80 | Karl Wilkins      |             15.78 |        6 |             73.16 | Ryno Pieterse      |             36 |
-|             56 | Kyllian Ringuet   |             29.41 |        7 |             73.67 | Victor Guillaumond |             13 |
-|             18 | Sikhumbuzo Notshe |             76.3  |        8 |             87.94 | Hanru Sirgel       |             12 |
-|             23 | Joe Powell        |             71.79 |        9 |             41.77 | Barnabe Couilloud  |             80 |
-|             24 | Thomas Fortunel   |             34.87 |       10 |             90.79 | Sam Davies         |             16 |
-|             44 | Josua Vici        |             20.49 |       11 |             88.87 | Wilfried Hulleu    |             15 |
-|             80 | Simon Renda       |             74.58 |       12 |             46.39 | Romain Fusier      |             22 |
-|             59 | Maxime Espeut     |             54.72 |       13 |             93.78 | Giorgi Kveseladze  |             80 |
-|             28 | Stephane Ahmed    |             95.27 |       14 |             88.37 | Geoffrey Cros      |             80 |
-|             21 | Baptiste Mouchous |             84.87 |       15 |             96.71 | Julien Farnoux     |             27 |
-|             62 | Mirian Burduli    |              4.75 |       16 |             71.93 | Thibaut Martel     |             25 |
-|              0 | Lucas Seyrolle    |              9.66 |       17 |             92.12 | Zack Gauthier      |             25 |
-|             55 | Jeremie Maurouard |              2.67 |       18 |             85.54 | Giorgi Javakhia    |             80 |
-|             80 | Tjuee Uanivi      |              5.42 |       19 |             38.61 | Bastien Soury      |             80 |
-|             68 | Noa Kanika        |             55.12 |       20 |             79.75 | Eric Escande       |             52 |
-|             18 | Maxime Mathy      |              5.44 |       21 |              8.55 | Marc Palmier       |             68 |
-|              9 | Mael Castel       |             31.46 |       22 |             63.37 | Gerswin Mouton     |             56 |
-|             18 | Corentin Coularis |             22.75 |       23 |            nan    | Théo Lavoine       |             52 |
+|             35 | Thomas Bue        |             23.85 |        1 |             35.06 | Eli Eglaine        |             25 |
+|             80 | Kevin Firmin      |              6.99 |        2 |             74.19 | Mathis Sarragallet |             80 |
+|             55 | Tietie Tuimauga   |             73.09 |        3 |             73.26 | Cody Thomas        |             55 |
+|             58 | Clément Bitz      |             76.07 |        4 |             51.73 | Thomas Ployet      |             44 |
+|             25 | Lewis Bean        |             12.63 |        5 |             79.63 | Pierce Phillips    |             24 |
+|             80 | Karl Wilkins      |             15.62 |        6 |             72.01 | Ryno Pieterse      |             80 |
+|             21 | Kyllian Ringuet   |             60.34 |        7 |             70.69 | Victor Guillaumond |             23 |
+|             80 | Sikhumbuzo Notshe |             79.83 |        8 |             83.16 | Hanru Sirgel       |             56 |
+|             80 | Joe Powell        |             80.22 |        9 |             41.73 | Barnabe Couilloud  |             56 |
+|             45 | Thomas Fortunel   |             45.2  |       10 |             89.52 | Sam Davies         |             36 |
+|             35 | Josua Vici        |             32.45 |       11 |             81.96 | Wilfried Hulleu    |             18 |
+|             66 | Simon Renda       |             81.22 |       12 |             43.11 | Romain Fusier      |             12 |
+|             50 | Maxime Espeut     |             56.78 |       13 |             93.78 | Giorgi Kveseladze  |             28 |
+|             45 | Stephane Ahmed    |             95    |       14 |             86.67 | Geoffrey Cros      |             80 |
+|             80 | Baptiste Mouchous |             89.08 |       15 |             97.6  | Julien Farnoux     |             57 |
+|             80 | Mirian Burduli    |              7.98 |       16 |             69.85 | Thibaut Martel     |             68 |
+|             35 | Lucas Seyrolle    |              9.42 |       17 |             88.79 | Zack Gauthier      |             24 |
+|             80 | Jeremie Maurouard |              6.45 |       18 |             87.88 | Giorgi Javakhia    |             21 |
+|             18 | Tjuee Uanivi      |              8.66 |       19 |             39.43 | Bastien Soury      |             80 |
+|             80 | Noa Kanika        |             55.17 |       20 |             80.76 | Eric Escande       |             80 |
+|             21 | Maxime Mathy      |              4.44 |       21 |              4.37 | Marc Palmier       |             55 |
+|             62 | Mael Castel       |            nan    |       22 |             65    | Gerswin Mouton     |             80 |
+|             80 | Corentin Coularis |             24.14 |       23 |            nan    | Théo Lavoine       |             45 |
 
