@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Edinburgh by 1.8
+## Prediction without Player Minutes: Edinburgh by 0.9
 
 
-Edinburgh by 7.1 on a neutral pitch
+Edinburgh by 6.3 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Edinburgh by 7.1 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player              |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:-------------------------|---------------:|
-|             21 | Pierre Schoeman     |             75.89 |        1 |             23.6  | Thomas Moukoro           |             80 |
-|             18 | Dave Cherry         |             74.91 |        2 |             59.14 | Theo Beziat              |             29 |
-|             19 | Javan Sebastian     |             70.71 |        3 |             92.78 | Pagakalasio Tafili       |             66 |
-|             22 | Marshall Sykes      |             54.38 |        4 |              7.23 | Christiaan van der Merwe |             27 |
-|             62 | Sam Skinner         |             92.46 |        5 |             45.21 | Timothe Mezou            |             80 |
-|             58 | Jamie Ritchie       |             99.8  |        6 |             23.83 | Leon Boulier             |             80 |
-|             53 | Luke Crosbie        |             91.48 |        7 |             53.25 | Matthieu Uhila           |             54 |
-|             80 | Ben Muncaster       |             60.29 |        8 |             92.1  | Joe Edwards              |             22 |
-|             80 | Ali Price           |             90.65 |        9 |             30.94 | Jules Le Bail            |             49 |
-|             21 | Ben Healy           |             63.97 |       10 |             43.67 | Jean Cotarmanac'h        |             21 |
-|             34 | Duhan van der Merwe |             89.22 |       11 |             61.86 | Filipo Nakosi            |             19 |
-|             80 | James Lang          |             72.67 |       12 |              4    | Francis Saili            |             29 |
-|             80 | Matt Currie         |             78.89 |       13 |             80.56 | Robin Taccola            |             19 |
-|             53 | Darcy Graham        |             49.9  |       14 |             87.16 | Salesi Rayasi            |             14 |
-|             32 | Wes Goosen          |             87.12 |       15 |             99.34 | Gwenael Duplenne         |             51 |
-|             27 | Boan Venter         |             64.94 |       16 |             62.73 | Hugo Djehi               |             61 |
-|             80 | Patrick Harrison    |             14.87 |       17 |             84.95 | Pat Leafa                |             80 |
-|             27 | D'Arcy Rae          |             21.65 |       18 |             24.36 | Simon Bourgeois          |             59 |
-|             27 | Hamish Watson       |             78.9  |       19 |             16.09 | Matteo Desjeux           |             21 |
-|             53 | Glen Young          |              3.36 |       20 |              6.8  | Jesse Parete             |             22 |
-|             27 | Charlie Shiel       |            nan    |       21 |              0.9  | Stephen Varney           |             29 |
-|             80 | Ross Thompson       |             79.48 |       22 |             51.22 | Tani Vili                |             21 |
-|             80 | Mosese Tuipulotu    |             36.56 |       23 |             26.86 | Inaki Ayarza             |             80 |
+|             57 | Pierre Schoeman     |             74.1  |        1 |             16.99 | Thomas Moukoro           |             53 |
+|             45 | Dave Cherry         |             74.28 |        2 |             65.29 | Theo Beziat              |             14 |
+|             80 | Javan Sebastian     |             68.46 |        3 |             93.78 | Pagakalasio Tafili       |             54 |
+|             53 | Marshall Sykes      |             53.12 |        4 |              6.44 | Christiaan van der Merwe |             29 |
+|             21 | Sam Skinner         |             91.65 |        5 |             45.98 | Timothe Mezou            |             66 |
+|             80 | Jamie Ritchie       |             99.79 |        6 |             18.33 | Leon Boulier             |             29 |
+|             80 | Luke Crosbie        |             90.83 |        7 |             52.83 | Matthieu Uhila           |             80 |
+|             80 | Ben Muncaster       |             62.85 |        8 |             92.36 | Joe Edwards              |             59 |
+|             27 | Ali Price           |             90.22 |        9 |             36.78 | Jules Le Bail            |             49 |
+|             66 | Ben Healy           |             69.54 |       10 |             44.81 | Jean Cotarmanac'h        |             46 |
+|             80 | Duhan van der Merwe |             91.38 |       11 |             62.54 | Filipo Nakosi            |             80 |
+|             66 | James Lang          |             73.43 |       12 |              3.75 | Francis Saili            |             80 |
+|             57 | Matt Currie         |             79.38 |       13 |             79.05 | Robin Taccola            |             38 |
+|             26 | Darcy Graham        |             41.33 |       14 |             87.61 | Salesi Rayasi            |             45 |
+|             32 | Wes Goosen          |             84.84 |       15 |             99.34 | Gwenael Duplenne         |             19 |
+|             80 | Boan Venter         |             68.04 |       16 |             70.56 | Hugo Djehi               |             80 |
+|             35 | Patrick Harrison    |             15.29 |       17 |             83.99 | Pat Leafa                |             80 |
+|             27 | D'Arcy Rae          |             24.14 |       18 |             18.5  | Simon Bourgeois          |             14 |
+|             20 | Hamish Watson       |             78.68 |       19 |             15.9  | Matteo Desjeux           |             40 |
+|             40 | Glen Young          |              3.02 |       20 |              6.49 | Jesse Parete             |             19 |
+|              5 | Charlie Shiel       |            nan    |       21 |              1.09 | Stephen Varney           |             53 |
+|             40 | Ross Thompson       |             81.46 |       22 |             62.62 | Tani Vili                |             53 |
+|              5 | Mosese Tuipulotu    |             37.6  |       23 |             26.59 | Inaki Ayarza             |             80 |
 

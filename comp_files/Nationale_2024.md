@@ -1,6 +1,6 @@
 ---  
 title: "Nationale 2024 Status"  
-date: 2025-01-13 6:00:00 -0500  
+date: 2025-01-16 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -39,19 +39,19 @@ aside:
 
 | Club             |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Périgueux        |                  11 |    7.3 |             43.852   |                   2.4 |                5   |                 36.6 |
-| Carcassonne      |                  10 |    6.7 |             42.7282  |                   2.1 |                3.9 |                 32.7 |
-| Rouen            |                  10 |    6.4 |             25.0946  |                   2.2 |                4.6 |                 32.2 |
-| Chambery         |                  10 |    6.1 |             25.3295  |                   2.6 |                4.1 |                 31.1 |
-| Massy            |                  11 |    5.9 |              7.82068 |                   2.8 |                4.2 |                 30.5 |
-| Narbonne         |                  10 |    5.8 |             20.4184  |                   2.7 |                4.3 |                 29.9 |
-| Albi             |                  10 |    5.8 |             21.9354  |                   2.6 |                3.2 |                 29.2 |
-| US Bressane      |                  10 |    5.2 |              3.76716 |                   2.9 |                3.7 |                 27.2 |
-| Marcq-en-Baroeul |                  10 |    4.9 |             -3.60632 |                   2.6 |                3.3 |                 25.6 |
-| Tarbes           |                  10 |    3.5 |            -31.3034  |                   3.4 |                4.1 |                 21.4 |
-| Suresnes         |                  10 |    3.1 |            -45.331   |                   3.3 |                3.6 |                 19.3 |
-| Bourgoin-Jallieu |                  10 |    3   |            -44.5681  |                   3.4 |                3.4 |                 18.8 |
-| Langon           |                  10 |    2.5 |            -66.1371  |                   3   |                3.1 |                 15.9 |
+| Périgueux        |                  11 |    7.3 |             44.6008  |                   2.4 |                5.1 |                 36.6 |
+| Carcassonne      |                  10 |    6.7 |             43.7636  |                   2.1 |                3.9 |                 32.7 |
+| Rouen            |                  10 |    6.4 |             25.5666  |                   2.3 |                4.5 |                 32.2 |
+| Chambery         |                  10 |    6.1 |             22.055   |                   2.5 |                4   |                 30.8 |
+| Massy            |                  11 |    5.9 |              8.78931 |                   2.8 |                4.3 |                 30.8 |
+| Narbonne         |                  10 |    5.9 |             22.0003  |                   2.6 |                4.2 |                 30.2 |
+| Albi             |                  10 |    5.9 |             24.2557  |                   2.6 |                3   |                 29.1 |
+| US Bressane      |                  10 |    5.1 |              4.27596 |                   2.9 |                3.7 |                 27.2 |
+| Marcq-en-Baroeul |                  10 |    5   |             -2.83729 |                   2.6 |                3.4 |                 25.9 |
+| Tarbes           |                  10 |    3.4 |            -34.6786  |                   3.4 |                4   |                 21.1 |
+| Suresnes         |                  10 |    3.1 |            -44.8011  |                   3.3 |                3.7 |                 19.4 |
+| Bourgoin-Jallieu |                  10 |    2.9 |            -44.2699  |                   3.5 |                3.5 |                 18.5 |
+| Langon           |                  10 |    2.4 |            -68.7202  |                   2.9 |                3.1 |                 15.8 |
 
 
 
@@ -60,19 +60,19 @@ aside:
 
 | Club                |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Périgueux           |              26 |   17.3 |             178.852  |                   6.4 |                5   |                 84.6 |
-| Narbonne            |              25 |   17.8 |              46.4184 |                   3.7 |                4.3 |                 82.9 |
-| Carcassonne         |              26 |   17.7 |             142.728  |                   5.1 |                3.9 |                 82.7 |
-| Chambery            |              25 |   16.1 |             197.33   |                   6.6 |                4.1 |                 80.1 |
-| Rouen               |              25 |   17.4 |             168.095  |                   2.2 |                4.6 |                 79.2 |
-| Albi                |              25 |   13.8 |              55.9354 |                   6.6 |                3.2 |                 69.2 |
-| Massy               |              26 |   12.9 |              72.8207 |                   8.8 |                4.2 |                 67.5 |
-| US Bressane         |              26 |   13.2 |              29.7672 |                   6.9 |                3.7 |                 66.2 |
-| Marcq-en-Baroeul    |              25 |    9.9 |             -50.6063 |                   6.6 |                3.3 |                 51.6 |
-| Tarbes              |              25 |    9.5 |             -94.3034 |                   7.4 |                4.1 |                 51.4 |
-| Suresnes            |              25 |    9.1 |             -51.331  |                   9.3 |                3.6 |                 51.3 |
-| Langon              |              25 |    8.5 |            -122.137  |                   6   |                3.1 |                 45.9 |
-| Bourgoin-Jallieu    |              25 |    8   |            -148.568  |                   6.4 |                3.4 |                 42.8 |
+| Périgueux           |              26 |   17.3 |             179.601  |                   6.4 |                5.1 |                 84.6 |
+| Narbonne            |              25 |   17.9 |              48.0003 |                   3.6 |                4.2 |                 83.2 |
+| Carcassonne         |              26 |   17.7 |             143.764  |                   5.1 |                3.9 |                 82.7 |
+| Chambery            |              25 |   16.1 |             194.055  |                   6.5 |                4   |                 79.8 |
+| Rouen               |              25 |   17.4 |             168.567  |                   2.3 |                4.5 |                 79.2 |
+| Albi                |              25 |   13.9 |              58.2557 |                   6.6 |                3   |                 69.1 |
+| Massy               |              26 |   12.9 |              73.7893 |                   8.8 |                4.3 |                 67.8 |
+| US Bressane         |              26 |   13.1 |              30.276  |                   6.9 |                3.7 |                 66.2 |
+| Marcq-en-Baroeul    |              25 |   10   |             -49.8373 |                   6.6 |                3.4 |                 51.9 |
+| Suresnes            |              25 |    9.1 |             -50.8011 |                   9.3 |                3.7 |                 51.4 |
+| Tarbes              |              25 |    9.4 |             -97.6786 |                   7.4 |                4   |                 51.1 |
+| Langon              |              25 |    8.4 |            -124.72   |                   5.9 |                3.1 |                 45.8 |
+| Bourgoin-Jallieu    |              25 |    7.9 |            -148.27   |                   6.5 |                3.5 |                 42.5 |
 | Carqueiranne-Hyères |              17 |    0   |            -425      |                   0   |                0   |                  0   |
 
 
@@ -83,8 +83,8 @@ aside:
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
 | Club Level | 72.9% | 9.7 |
-| Player Level: Lineup | 71.7% | 6.9 |
-| Player Level: Minutes | 73.3% | 7.1 |
+| Player Level: Lineup | 78.6% | 6.8 |
+| Player Level: Minutes | 78.6% | 6.8 |
 
 
 # Future Predictions
@@ -94,9 +94,9 @@ aside:
 ### Tarbes V Carcassonne on 2025/01/17
 
 
-Average Margin: Carcassonne by 3.2
+Average Margin: Carcassonne by 3.7
 
-Average Scoreline: 28-25
+Average Scoreline: 29-25
 
 <p float="left">
 <img src="plots/performances_2025-01-17-Tarbes_V_Carcassonne.png" width="32%" />
@@ -107,9 +107,9 @@ Average Scoreline: 28-25
 ### Albi V Suresnes on 2025/01/17
 
 
-Average Margin: Albi by 8.2
+Average Margin: Albi by 8.6
 
-Average Scoreline: 20-12
+Average Scoreline: 21-12
 
 <p float="left">
 <img src="plots/performances_2025-01-17-Albi_V_Suresnes.png" width="32%" />
@@ -120,7 +120,7 @@ Average Scoreline: 20-12
 ### Marcq-en-Baroeul V Massy on 2025/01/18
 
 
-Average Margin: Marcq-en-Baroeul by 3.8
+Average Margin: Marcq-en-Baroeul by 3.7
 
 Average Scoreline: 19-15
 
@@ -133,7 +133,7 @@ Average Scoreline: 19-15
 ### Rouen V Narbonne on 2025/01/18
 
 
-Average Margin: Rouen by 5.1
+Average Margin: Rouen by 4.9
 
 Average Scoreline: 25-20
 
@@ -146,9 +146,9 @@ Average Scoreline: 25-20
 ### Bourgoin-Jallieu V Langon on 2025/01/18
 
 
-Average Margin: Bourgoin-Jallieu by 5.4
+Average Margin: Bourgoin-Jallieu by 4.7
 
-Average Scoreline: 16-10
+Average Scoreline: 15-11
 
 <p float="left">
 <img src="plots/performances_2025-01-18-Bourgoin-Jallieu_V_Langon.png" width="32%" />
@@ -159,7 +159,7 @@ Average Scoreline: 16-10
 ### Chambery V Périgueux on 2025/01/18
 
 
-Average Margin: Chambery by 3.5
+Average Margin: Chambery by 2.9
 
 Average Scoreline: 13-10
 
@@ -174,9 +174,9 @@ Average Scoreline: 13-10
 ### US Bressane V Chambery on 2025/01/24
 
 
-Average Margin: US Bressane by 0.1
+Average Margin: US Bressane by 1.3
 
-Average Scoreline: 19-19
+Average Scoreline: 19-18
 
 <p float="left">
 <img src="plots/performances_2025-01-24-USBressane_V_Chambery.png" width="32%" />
@@ -187,9 +187,9 @@ Average Scoreline: 19-19
 ### Langon V Albi on 2025/01/25
 
 
-Average Margin: Albi by 3.2
+Average Margin: Albi by 3.6
 
-Average Scoreline: 18-15
+Average Scoreline: 19-15
 
 <p float="left">
 <img src="plots/performances_2025-01-25-Langon_V_Albi.png" width="32%" />
@@ -213,7 +213,7 @@ Average Scoreline: 24-16
 ### Suresnes V Rouen on 2025/01/25
 
 
-Average Margin: Rouen by 2.4
+Average Margin: Rouen by 2.1
 
 Average Scoreline: 21-19
 
@@ -226,7 +226,7 @@ Average Scoreline: 21-19
 ### Massy V Bourgoin-Jallieu on 2025/01/25
 
 
-Average Margin: Massy by 8.0
+Average Margin: Massy by 7.9
 
 Average Scoreline: 20-12
 
@@ -239,9 +239,9 @@ Average Scoreline: 20-12
 ### Périgueux V Marcq-en-Baroeul on 2025/01/25
 
 
-Average Margin: Périgueux by 8.3
+Average Margin: Périgueux by 7.9
 
-Average Scoreline: 19-10
+Average Scoreline: 19-11
 
 <p float="left">
 <img src="plots/performances_2025-01-25-Perigueux_V_Marcq-en-Baroeul.png" width="32%" />
@@ -254,9 +254,9 @@ Average Scoreline: 19-10
 ### Rouen V Albi on 2025/01/31
 
 
-Average Margin: Rouen by 4.1
+Average Margin: Rouen by 4.6
 
-Average Scoreline: 23-19
+Average Scoreline: 23-18
 
 <p float="left">
 <img src="plots/performances_2025-01-31-Rouen_V_Albi.png" width="32%" />
@@ -267,9 +267,9 @@ Average Scoreline: 23-19
 ### Tarbes V Suresnes on 2025/01/31
 
 
-Average Margin: Tarbes by 4.1
+Average Margin: Tarbes by 3.4
 
-Average Scoreline: 22-18
+Average Scoreline: 22-19
 
 <p float="left">
 <img src="plots/performances_2025-01-31-Tarbes_V_Suresnes.png" width="32%" />
@@ -293,7 +293,7 @@ Average Scoreline: 21-17
 ### Bourgoin-Jallieu V Périgueux on 2025/02/01
 
 
-Average Margin: Périgueux by 3.8
+Average Margin: Périgueux by 3.7
 
 Average Scoreline: 21-17
 
@@ -306,9 +306,9 @@ Average Scoreline: 21-17
 ### Chambery V Carcassonne on 2025/02/01
 
 
-Average Margin: Chambery by 4.1
+Average Margin: Chambery by 3.8
 
-Average Scoreline: 19-15
+Average Scoreline: 18-15
 
 <p float="left">
 <img src="plots/performances_2025-02-01-Chambery_V_Carcassonne.png" width="32%" />
@@ -334,7 +334,7 @@ Average Scoreline: 18-9
 ### US Bressane V Bourgoin-Jallieu on 2025/02/14
 
 
-Average Margin: US Bressane by 8.8
+Average Margin: US Bressane by 7.8
 
 Average Scoreline: 22-14
 
@@ -347,7 +347,7 @@ Average Scoreline: 22-14
 ### Carcassonne V Marcq-en-Baroeul on 2025/02/14
 
 
-Average Margin: Carcassonne by 7.9
+Average Margin: Carcassonne by 7.7
 
 Average Scoreline: 19-11
 
@@ -360,7 +360,7 @@ Average Scoreline: 19-11
 ### Albi V Tarbes on 2025/02/14
 
 
-Average Margin: Albi by 8.6
+Average Margin: Albi by 9.1
 
 Average Scoreline: 21-12
 
@@ -375,7 +375,7 @@ Average Scoreline: 21-12
 
 Average Margin: Périgueux by 7.2
 
-Average Scoreline: 22-15
+Average Scoreline: 23-15
 
 <p float="left">
 <img src="plots/performances_2025-02-15-Perigueux_V_Massy.png" width="32%" />
@@ -386,7 +386,7 @@ Average Scoreline: 22-15
 ### Narbonne V Chambery on 2025/02/15
 
 
-Average Margin: Narbonne by 2.0
+Average Margin: Narbonne by 2.5
 
 Average Scoreline: 21-19
 
@@ -399,9 +399,9 @@ Average Scoreline: 21-19
 ### Langon V Rouen on 2025/02/15
 
 
-Average Margin: Rouen by 4.4
+Average Margin: Rouen by 4.6
 
-Average Scoreline: 18-14
+Average Scoreline: 19-14
 
 <p float="left">
 <img src="plots/performances_2025-02-15-Langon_V_Rouen.png" width="32%" />
@@ -414,7 +414,7 @@ Average Scoreline: 18-14
 ### Bourgoin-Jallieu V Carcassonne on 2025/02/21
 
 
-Average Margin: Carcassonne by 4.3
+Average Margin: Carcassonne by 4.5
 
 Average Scoreline: 26-21
 
@@ -427,9 +427,9 @@ Average Scoreline: 26-21
 ### Tarbes V Rouen on 2025/02/21
 
 
-Average Margin: Rouen by 2.0
+Average Margin: Rouen by 2.9
 
-Average Scoreline: 22-20
+Average Scoreline: 23-20
 
 <p float="left">
 <img src="plots/performances_2025-02-21-Tarbes_V_Rouen.png" width="32%" />
@@ -440,7 +440,7 @@ Average Scoreline: 22-20
 ### Massy V US Bressane on 2025/02/22
 
 
-Average Margin: Massy by 4.0
+Average Margin: Massy by 4.7
 
 Average Scoreline: 19-15
 
@@ -453,7 +453,7 @@ Average Scoreline: 19-15
 ### Marcq-en-Baroeul V Narbonne on 2025/02/22
 
 
-Average Margin: Marcq-en-Baroeul by 2.5
+Average Margin: Marcq-en-Baroeul by 2.6
 
 Average Scoreline: 19-16
 
@@ -466,7 +466,7 @@ Average Scoreline: 19-16
 ### Périgueux V Langon on 2025/02/22
 
 
-Average Margin: Périgueux by 12.4
+Average Margin: Périgueux by 12.5
 
 Average Scoreline: 20-7
 
@@ -479,7 +479,7 @@ Average Scoreline: 20-7
 ### Chambery V Suresnes on 2025/02/22
 
 
-Average Margin: Chambery by 10.3
+Average Margin: Chambery by 10.1
 
 Average Scoreline: 24-14
 
@@ -494,9 +494,9 @@ Average Scoreline: 24-14
 ### US Bressane V Périgueux on 2025/02/28
 
 
-Average Margin: Périgueux by 0.9
+Average Margin: US Bressane by 0.3
 
-Average Scoreline: 14-13
+Average Scoreline: 14-14
 
 <p float="left">
 <img src="plots/performances_2025-02-28-USBressane_V_Perigueux.png" width="32%" />
@@ -507,7 +507,7 @@ Average Scoreline: 14-13
 ### Albi V Chambery on 2025/02/28
 
 
-Average Margin: Albi by 2.0
+Average Margin: Albi by 2.3
 
 Average Scoreline: 20-18
 
@@ -520,9 +520,9 @@ Average Scoreline: 20-18
 ### Carcassonne V Massy on 2025/02/28
 
 
-Average Margin: Carcassonne by 7.5
+Average Margin: Carcassonne by 7.4
 
-Average Scoreline: 22-14
+Average Scoreline: 22-15
 
 <p float="left">
 <img src="plots/performances_2025-02-28-Carcassonne_V_Massy.png" width="32%" />
@@ -533,9 +533,9 @@ Average Scoreline: 22-14
 ### Langon V Tarbes on 2025/03/01
 
 
-Average Margin: Langon by 2.0
+Average Margin: Langon by 1.4
 
-Average Scoreline: 21-19
+Average Scoreline: 20-19
 
 <p float="left">
 <img src="plots/performances_2025-03-01-Langon_V_Tarbes.png" width="32%" />
@@ -546,7 +546,7 @@ Average Scoreline: 21-19
 ### Narbonne V Bourgoin-Jallieu on 2025/03/01
 
 
-Average Margin: Narbonne by 9.5
+Average Margin: Narbonne by 9.3
 
 Average Scoreline: 24-15
 
@@ -574,7 +574,7 @@ Average Scoreline: 17-16
 ### Chambery V Rouen on 2025/03/07
 
 
-Average Margin: Chambery by 4.7
+Average Margin: Chambery by 4.3
 
 Average Scoreline: 23-19
 
@@ -587,9 +587,9 @@ Average Scoreline: 23-19
 ### US Bressane V Langon on 2025/03/07
 
 
-Average Margin: US Bressane by 8.6
+Average Margin: US Bressane by 8.7
 
-Average Scoreline: 17-9
+Average Scoreline: 18-9
 
 <p float="left">
 <img src="plots/performances_2025-03-07-USBressane_V_Langon.png" width="32%" />
@@ -600,9 +600,9 @@ Average Scoreline: 17-9
 ### Périgueux V Carcassonne on 2025/03/08
 
 
-Average Margin: Périgueux by 3.8
+Average Margin: Périgueux by 4.0
 
-Average Scoreline: 19-16
+Average Scoreline: 20-16
 
 <p float="left">
 <img src="plots/performances_2025-03-08-Perigueux_V_Carcassonne.png" width="32%" />
@@ -613,9 +613,9 @@ Average Scoreline: 19-16
 ### Bourgoin-Jallieu V Suresnes on 2025/03/08
 
 
-Average Margin: Bourgoin-Jallieu by 2.4
+Average Margin: Bourgoin-Jallieu by 2.2
 
-Average Scoreline: 20-17
+Average Scoreline: 19-17
 
 <p float="left">
 <img src="plots/performances_2025-03-08-Bourgoin-Jallieu_V_Suresnes.png" width="32%" />
@@ -626,9 +626,9 @@ Average Scoreline: 20-17
 ### Massy V Narbonne on 2025/03/08
 
 
-Average Margin: Massy by 3.0
+Average Margin: Massy by 2.7
 
-Average Scoreline: 20-17
+Average Scoreline: 20-18
 
 <p float="left">
 <img src="plots/performances_2025-03-08-Massy_V_Narbonne.png" width="32%" />
@@ -639,7 +639,7 @@ Average Scoreline: 20-17
 ### Marcq-en-Baroeul V Albi on 2025/03/08
 
 
-Average Margin: Marcq-en-Baroeul by 2.4
+Average Margin: Marcq-en-Baroeul by 2.1
 
 Average Scoreline: 15-13
 
@@ -654,7 +654,7 @@ Average Scoreline: 15-13
 ### Rouen V Marcq-en-Baroeul on 2025/03/21
 
 
-Average Margin: Rouen by 6.7
+Average Margin: Rouen by 6.6
 
 Average Scoreline: 20-13
 
@@ -667,9 +667,9 @@ Average Scoreline: 20-13
 ### Carcassonne V US Bressane on 2025/03/21
 
 
-Average Margin: Carcassonne by 7.5
+Average Margin: Carcassonne by 7.7
 
-Average Scoreline: 22-15
+Average Scoreline: 22-14
 
 <p float="left">
 <img src="plots/performances_2025-03-21-Carcassonne_V_USBressane.png" width="32%" />
@@ -680,9 +680,9 @@ Average Scoreline: 22-15
 ### Albi V Bourgoin-Jallieu on 2025/03/21
 
 
-Average Margin: Albi by 9.3
+Average Margin: Albi by 9.8
 
-Average Scoreline: 21-12
+Average Scoreline: 21-11
 
 <p float="left">
 <img src="plots/performances_2025-03-21-Albi_V_Bourgoin-Jallieu.png" width="32%" />
@@ -693,7 +693,7 @@ Average Scoreline: 21-12
 ### Tarbes V Chambery on 2025/03/21
 
 
-Average Margin: Chambery by 3.4
+Average Margin: Chambery by 3.1
 
 Average Scoreline: 26-23
 
@@ -706,7 +706,7 @@ Average Scoreline: 26-23
 ### Suresnes V Massy on 2025/03/22
 
 
-Average Margin: Suresnes by 0.7
+Average Margin: Suresnes by 1.1
 
 Average Scoreline: 19-18
 
@@ -719,9 +719,9 @@ Average Scoreline: 19-18
 ### Narbonne V Périgueux on 2025/03/22
 
 
-Average Margin: Narbonne by 1.8
+Average Margin: Narbonne by 1.3
 
-Average Scoreline: 17-15
+Average Scoreline: 16-15
 
 <p float="left">
 <img src="plots/performances_2025-03-22-Narbonne_V_Perigueux.png" width="32%" />
@@ -734,9 +734,9 @@ Average Scoreline: 17-15
 ### Bourgoin-Jallieu V Rouen on 2025/03/28
 
 
-Average Margin: Rouen by 3.2
+Average Margin: Rouen by 3.4
 
-Average Scoreline: 22-19
+Average Scoreline: 23-19
 
 <p float="left">
 <img src="plots/performances_2025-03-28-Bourgoin-Jallieu_V_Rouen.png" width="32%" />
@@ -747,7 +747,7 @@ Average Scoreline: 22-19
 ### Carcassonne V Langon on 2025/03/28
 
 
-Average Margin: Carcassonne by 11.5
+Average Margin: Carcassonne by 12.5
 
 Average Scoreline: 19-7
 
@@ -760,7 +760,7 @@ Average Scoreline: 19-7
 ### US Bressane V Narbonne on 2025/03/28
 
 
-Average Margin: US Bressane by 2.2
+Average Margin: US Bressane by 1.7
 
 Average Scoreline: 21-19
 
@@ -773,7 +773,7 @@ Average Scoreline: 21-19
 ### Marcq-en-Baroeul V Tarbes on 2025/03/29
 
 
-Average Margin: Marcq-en-Baroeul by 6.7
+Average Margin: Marcq-en-Baroeul by 7.2
 
 Average Scoreline: 24-17
 
@@ -786,7 +786,7 @@ Average Scoreline: 24-17
 ### Massy V Albi on 2025/03/29
 
 
-Average Margin: Massy by 2.6
+Average Margin: Massy by 2.2
 
 Average Scoreline: 18-15
 
@@ -799,7 +799,7 @@ Average Scoreline: 18-15
 ### Périgueux V Suresnes on 2025/03/29
 
 
-Average Margin: Périgueux by 10.1
+Average Margin: Périgueux by 10.7
 
 Average Scoreline: 22-12
 
@@ -814,9 +814,9 @@ Average Scoreline: 22-12
 ### Tarbes V Bourgoin-Jallieu on 2025/04/11
 
 
-Average Margin: Tarbes by 5.5
+Average Margin: Tarbes by 4.7
 
-Average Scoreline: 18-12
+Average Scoreline: 17-12
 
 <p float="left">
 <img src="plots/performances_2025-04-11-Tarbes_V_Bourgoin-Jallieu.png" width="32%" />
@@ -827,7 +827,7 @@ Average Scoreline: 18-12
 ### Rouen V Massy on 2025/04/11
 
 
-Average Margin: Rouen by 6.4
+Average Margin: Rouen by 5.6
 
 Average Scoreline: 24-18
 
@@ -840,7 +840,7 @@ Average Scoreline: 24-18
 ### Albi V Périgueux on 2025/04/11
 
 
-Average Margin: Albi by 1.7
+Average Margin: Albi by 1.9
 
 Average Scoreline: 18-16
 
@@ -853,7 +853,7 @@ Average Scoreline: 18-16
 ### Langon V Chambery on 2025/04/12
 
 
-Average Margin: Chambery by 3.9
+Average Margin: Chambery by 4.4
 
 Average Scoreline: 22-18
 
@@ -866,7 +866,7 @@ Average Scoreline: 22-18
 ### Narbonne V Carcassonne on 2025/04/12
 
 
-Average Margin: Narbonne by 1.9
+Average Margin: Narbonne by 2.5
 
 Average Scoreline: 20-18
 
@@ -879,7 +879,7 @@ Average Scoreline: 20-18
 ### Suresnes V US Bressane on 2025/04/12
 
 
-Average Margin: Suresnes by 1.1
+Average Margin: Suresnes by 1.0
 
 Average Scoreline: 19-18
 
@@ -896,7 +896,7 @@ Average Scoreline: 19-18
 
 Average Margin: Carcassonne by 10.5
 
-Average Scoreline: 22-12
+Average Scoreline: 23-12
 
 <p float="left">
 <img src="plots/performances_2025-04-26-Carcassonne_V_Suresnes.png" width="32%" />
@@ -907,9 +907,9 @@ Average Scoreline: 22-12
 ### Narbonne V Langon on 2025/04/26
 
 
-Average Margin: Narbonne by 9.7
+Average Margin: Narbonne by 10.1
 
-Average Scoreline: 21-12
+Average Scoreline: 21-11
 
 <p float="left">
 <img src="plots/performances_2025-04-26-Narbonne_V_Langon.png" width="32%" />
@@ -920,9 +920,9 @@ Average Scoreline: 21-12
 ### Marcq-en-Baroeul V Chambery on 2025/04/26
 
 
-Average Margin: Marcq-en-Baroeul by 0.4
+Average Margin: Marcq-en-Baroeul by 0.5
 
-Average Scoreline: 17-16
+Average Scoreline: 17-17
 
 <p float="left">
 <img src="plots/performances_2025-04-26-Marcq-en-Baroeul_V_Chambery.png" width="32%" />
@@ -933,7 +933,7 @@ Average Scoreline: 17-16
 ### US Bressane V Albi on 2025/04/26
 
 
-Average Margin: US Bressane by 1.9
+Average Margin: US Bressane by 2.0
 
 Average Scoreline: 16-14
 
@@ -946,9 +946,9 @@ Average Scoreline: 16-14
 ### Périgueux V Rouen on 2025/04/26
 
 
-Average Margin: Périgueux by 4.4
+Average Margin: Périgueux by 4.9
 
-Average Scoreline: 22-18
+Average Scoreline: 23-18
 
 <p float="left">
 <img src="plots/performances_2025-04-26-Perigueux_V_Rouen.png" width="32%" />
@@ -959,7 +959,7 @@ Average Scoreline: 22-18
 ### Massy V Tarbes on 2025/04/26
 
 
-Average Margin: Massy by 6.8
+Average Margin: Massy by 7.2
 
 Average Scoreline: 22-15
 

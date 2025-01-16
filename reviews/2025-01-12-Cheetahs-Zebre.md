@@ -11,7 +11,7 @@ categories: "European Rugby Challenge Cup 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.717, which translates to predicting Cheetahs to win by 8.3.
 
-Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 21 to 29
+Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 21 to 29
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Cheetahs by 13.5
+## Prediction without Player Minutes: Cheetahs by 10.0
 
 
-Cheetahs by 7.8 on a neutral pitch
+Cheetahs by 4.2 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,19 +69,26 @@ Cheetahs by 7.8 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player              |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:-------------------------|---------------:|
-|             80 | Danilo Fischetti      |             75.21 |        1 |             51.36 | Hencus van Wyk           |             80 |
-|             80 | Tommaso Di Bartolomeo |             61.83 |        2 |             88.35 | Louis van der Westhuizen |             80 |
-|             80 | Muhamed Hasa          |             22.84 |        3 |             10.78 | Aranos Coetzee           |             80 |
-|             80 | Matteo Canali         |             93.38 |        4 |             43.99 | Pieter Jansen van Vuuren |             80 |
-|             80 | Leonard Krumov        |              7.03 |        5 |             83.1  | Victor Sekekete          |             80 |
-|             80 | Giacomo Ferrari       |             34.38 |        6 |             82.56 | Daniel Johannes Maartens |             80 |
-|             80 | Samuele Locatelli     |             74.44 |        7 |             95.64 | Friedle Olivier          |             80 |
-|             80 | Giovanni Licata       |             15.8  |        8 |             29.11 | Jeandre Rudolph          |             80 |
-|             80 | Thomas Dominguez      |             33.45 |        9 |             61.15 | Ruben de Haas            |             80 |
-|             80 | Giovanni Montemauri   |              4.59 |       10 |             48.25 | Ethan SJ Wentzel         |             80 |
-|             80 | Simone Gesi           |              9.41 |       11 |             39.9  | Prince Nkabinde          |             80 |
-|             80 | Fetuli Paea           |             25.44 |       12 |             64.78 | Ali Mgijima              |             80 |
-|             80 | Luca Morisi           |             95    |       13 |              0.11 | Carel-Jan Coetzee        |             80 |
-|             80 | Jacopo Trulla         |             12.25 |       14 |             85.2  | Munier Hartzenberg       |             80 |
-|             80 | Giacomo Da Re         |             26.64 |       15 |             30.57 | Michael Annies           |             80 |
+|             80 | Danilo Fischetti      |             79.56 |        1 |             50.46 | Hencus van Wyk           |             10 |
+|             21 | Tommaso Di Bartolomeo |             69.78 |        2 |             90.29 | Louis van der Westhuizen |              5 |
+|             80 | Muhamed Hasa          |             23.3  |        3 |             11.77 | Aranos Coetzee           |             80 |
+|             13 | Matteo Canali         |             91.95 |        4 |             48.79 | Pieter Jansen van Vuuren |             51 |
+|             10 | Leonard Krumov        |              5.63 |        5 |             84.1  | Victor Sekekete          |             29 |
+|             19 | Giacomo Ferrari       |             51.39 |        6 |             82.6  | Daniel Johannes Maartens |             10 |
+|             51 | Samuele Locatelli     |             78.37 |        7 |             95.26 | Friedle Olivier          |             63 |
+|             67 | Giovanni Licata       |             15.29 |        8 |             32.7  | Jeandre Rudolph          |             55 |
+|             17 | Thomas Dominguez      |             30.43 |        9 |             54.89 | Ruben de Haas            |             80 |
+|             14 | Giovanni Montemauri   |              3.53 |       10 |             46.14 | Ethan SJ Wentzel         |             80 |
+|              8 | Simone Gesi           |             12.49 |       11 |             38.85 | Prince Nkabinde          |             75 |
+|             70 | Fetuli Paea           |             24.04 |       12 |             64.28 | Ali Mgijima              |             80 |
+|             72 | Luca Morisi           |             94.71 |       13 |              0.11 | Carel-Jan Coetzee        |             57 |
+|             29 | Jacopo Trulla         |             11    |       14 |             84.14 | Munier Hartzenberg       |             70 |
+|             22 | Giacomo Da Re         |             19.78 |       15 |             23.52 | Michael Annies           |             80 |
+|              8 | Luca Rizzoli          |             51.3  |       16 |            nan    | Vernon Paulo             |             57 |
+|             19 | Luca Bigi             |             69.96 |       17 |             97.84 | Corne Fourie             |             80 |
+|             17 | Bautista Stavile      |             24.92 |       18 |            nan    | Pierre-Raymond Uys       |             80 |
+|             72 | Juan Pitinari         |             54.67 |       19 |            nan    | Laurence Herbert Victor  |             59 |
+|              5 | Scott Gregory         |             76.11 |       20 |            nan    | Sisonke Vumazonke        |             80 |
+|            nan | nan                   |            nan    |       21 |             74.93 | Cohen Jasper             |             80 |
+|            nan | nan                   |            nan    |       22 |            nan    | Jandre Nel               |             80 |
 

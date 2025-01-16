@@ -1,6 +1,6 @@
 ---  
 title: "Six Nations Championship 2024 Status"  
-date: 2025-01-13 6:00:00 -0500  
+date: 2025-01-16 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -31,12 +31,12 @@ aside:
 
 | Club     |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Ireland  |                   5 |    3.7 |            38.0942   |                   0.8 |                2.1 |                 17.7 |
-| France   |                   5 |    3.2 |            26.0023   |                   1   |                1.8 |                 15.7 |
-| Scotland |                   5 |    3.3 |            30.0388   |                   0.9 |                1.5 |                 15.6 |
-| England  |                   5 |    2.6 |             0.352918 |                   1.1 |                1.3 |                 12.7 |
-| Italy    |                   5 |    1.4 |           -35.0397   |                   1.1 |                0.7 |                  7.4 |
-| Wales    |                   5 |    0.8 |           -59.4485   |                   1   |                0.5 |                  4.6 |
+| Ireland  |                   5 |    3.7 |             36.2701  |                   0.8 |                2.1 |                 17.7 |
+| Scotland |                   5 |    3.3 |             28.4831  |                   0.9 |                1.5 |                 15.7 |
+| France   |                   5 |    3.2 |             28.1976  |                   1   |                1.8 |                 15.7 |
+| England  |                   5 |    2.6 |              1.27681 |                   1.1 |                1.3 |                 12.8 |
+| Italy    |                   5 |    1.3 |            -35.5745  |                   1.2 |                0.6 |                  7.2 |
+| Wales    |                   5 |    0.8 |            -58.6531  |                   1.1 |                0.5 |                  4.8 |
 
 
 
@@ -45,12 +45,12 @@ aside:
 
 | Club     |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Ireland  |              10 |    7.7 |            122.094   |                   1.8 |                5.1 |                 37.7 |
-| France   |              10 |    6.2 |             32.0023  |                   1   |                2.8 |                 30.7 |
-| Scotland |              10 |    5.3 |             30.0388  |                   3.9 |                2.5 |                 27.6 |
-| England  |              10 |    5.6 |             -4.64708 |                   2.1 |                2.3 |                 26.7 |
-| Italy    |              10 |    3.4 |            -69.0397  |                   2.1 |                0.7 |                 18.4 |
-| Wales    |              10 |    0.8 |           -110.448   |                   4   |                1.5 |                  8.6 |
+| Ireland  |              10 |    7.7 |            120.27    |                   1.8 |                5.1 |                 37.7 |
+| France   |              10 |    6.2 |             34.1976  |                   1   |                2.8 |                 30.7 |
+| Scotland |              10 |    5.3 |             28.4831  |                   3.9 |                2.5 |                 27.7 |
+| England  |              10 |    5.6 |             -3.72319 |                   2.1 |                2.3 |                 26.8 |
+| Italy    |              10 |    3.3 |            -69.5745  |                   2.2 |                0.6 |                 18.2 |
+| Wales    |              10 |    0.8 |           -109.653   |                   4.1 |                1.5 |                  8.8 |
 
 
 
@@ -71,9 +71,9 @@ aside:
 ### France V Wales on 2025/01/31
 
 
-Average Margin: France by 18.3
+Average Margin: France by 19.2
 
-Average Scoreline: 30-12
+Average Scoreline: 31-12
 
 <p float="left">
 <img src="plots/performances_2025-01-31-France_V_Wales.png" width="32%" />
@@ -97,9 +97,9 @@ Average Scoreline: 31-17
 ### Ireland V England on 2025/02/01
 
 
-Average Margin: Ireland by 11.4
+Average Margin: Ireland by 10.5
 
-Average Scoreline: 23-11
+Average Scoreline: 22-12
 
 <p float="left">
 <img src="plots/performances_2025-02-01-Ireland_V_England.png" width="32%" />
@@ -112,7 +112,7 @@ Average Scoreline: 23-11
 ### England V France on 2025/02/08
 
 
-Average Margin: France by 2.0
+Average Margin: France by 1.3
 
 Average Scoreline: 17-15
 
@@ -125,9 +125,9 @@ Average Scoreline: 17-15
 ### Italy V Wales on 2025/02/08
 
 
-Average Margin: Italy by 6.6
+Average Margin: Italy by 6.1
 
-Average Scoreline: 22-15
+Average Scoreline: 22-16
 
 <p float="left">
 <img src="plots/performances_2025-02-08-Italy_V_Wales.png" width="32%" />
@@ -138,9 +138,9 @@ Average Scoreline: 22-15
 ### Scotland V Ireland on 2025/02/09
 
 
-Average Margin: Scotland by 1.7
+Average Margin: Scotland by 1.6
 
-Average Scoreline: 17-15
+Average Scoreline: 16-15
 
 <p float="left">
 <img src="plots/performances_2025-02-09-Scotland_V_Ireland.png" width="32%" />
@@ -153,9 +153,9 @@ Average Scoreline: 17-15
 ### England V Scotland on 2025/02/22
 
 
-Average Margin: Scotland by 1.5
+Average Margin: Scotland by 2.0
 
-Average Scoreline: 16-15
+Average Scoreline: 16-14
 
 <p float="left">
 <img src="plots/performances_2025-02-22-England_V_Scotland.png" width="32%" />
@@ -166,7 +166,7 @@ Average Scoreline: 16-15
 ### Wales V Ireland on 2025/02/22
 
 
-Average Margin: Ireland by 12.8
+Average Margin: Ireland by 12.9
 
 Average Scoreline: 32-19
 
@@ -179,7 +179,7 @@ Average Scoreline: 32-19
 ### Italy V France on 2025/02/23
 
 
-Average Margin: France by 7.8
+Average Margin: France by 8.0
 
 Average Scoreline: 29-21
 
@@ -194,9 +194,9 @@ Average Scoreline: 29-21
 ### Scotland V Wales on 2025/03/08
 
 
-Average Margin: Scotland by 16.5
+Average Margin: Scotland by 15.1
 
-Average Scoreline: 32-16
+Average Scoreline: 32-17
 
 <p float="left">
 <img src="plots/performances_2025-03-08-Scotland_V_Wales.png" width="32%" />
@@ -207,9 +207,9 @@ Average Scoreline: 32-16
 ### Ireland V France on 2025/03/08
 
 
-Average Margin: Ireland by 6.0
+Average Margin: Ireland by 4.8
 
-Average Scoreline: 19-13
+Average Scoreline: 19-14
 
 <p float="left">
 <img src="plots/performances_2025-03-08-Ireland_V_France.png" width="32%" />
@@ -220,7 +220,7 @@ Average Scoreline: 19-13
 ### England V Italy on 2025/03/09
 
 
-Average Margin: England by 10.0
+Average Margin: England by 9.7
 
 Average Scoreline: 29-19
 
@@ -248,7 +248,7 @@ Average Scoreline: 24-19
 ### France V Scotland on 2025/03/15
 
 
-Average Margin: France by 3.9
+Average Margin: France by 4.4
 
 Average Scoreline: 20-16
 
@@ -261,7 +261,7 @@ Average Scoreline: 20-16
 ### Italy V Ireland on 2025/03/15
 
 
-Average Margin: Ireland by 9.5
+Average Margin: Ireland by 9.7
 
 Average Scoreline: 31-22
 
