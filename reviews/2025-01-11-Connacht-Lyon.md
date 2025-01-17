@@ -9,9 +9,9 @@ categories: "European Rugby Challenge Cup 2024" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.639, which translates to predicting Connacht to win by 5.0.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.612, which translates to predicting Connacht to win by 4.0.
 
-Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 22 to 27
+Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 23 to 27
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Connacht by 13.0
+## Prediction without Player Minutes: Connacht by 8.2
 
 
-Connacht by 4.5 on a neutral pitch
+Lyon by 0.1 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,28 @@ Connacht by 4.5 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             80 | Hamza Kaabeche        |              7.91 |        1 |             94.62 | Peter Dooley          |             28 |
-|             14 | Sam Matavesi          |             75.72 |        2 |             30.94 | Dave Heffernan        |             80 |
-|             21 | Irakli Aptsiauri      |             58.03 |        3 |             95.29 | Finlay Bealham        |             80 |
-|             80 | Felix Lambey          |             36.32 |        4 |             63.28 | Oisin Dowling         |             18 |
-|              1 | Tomas Lavanini        |             93.86 |        5 |             95.67 | Joe Joyce             |             80 |
-|              5 | Steeve Blanc-Mappaz   |             12.05 |        6 |             27.91 | Cian Prendergast      |             52 |
-|              8 | Marvin Okuya          |             32.44 |        7 |             21.73 | Shamus Hurley-Langton |             80 |
-|             80 | Maxime Gouzou         |              9.77 |        8 |              8.49 | Sean Jansen           |             59 |
-|              8 | Martin Page-Relo      |             69.57 |        9 |             63.59 | Ben Murphy            |             80 |
-|              3 | Fletcher Smith        |             21.85 |       10 |             79.91 | Josh Ioane            |             31 |
-|             13 | Vincent Rattez        |             81.96 |       11 |             52.33 | Shane Jennings        |             25 |
-|             32 | Thibault Regard       |             94.27 |       12 |             99.12 | Bundee Aki            |             21 |
-|             80 | Josiah Maraku         |              1.98 |       13 |             34.29 | Piers O'Conor         |             25 |
-|             32 | Semi Radradra         |             99.01 |       14 |             57.09 | Chay Mullins          |             32 |
-|             22 | Alexandre Tchaptchet  |             41.1  |       15 |             96.26 | Santiago Cordero      |             32 |
-|             59 | Jermaine Ainsley      |              6.48 |       16 |             17.66 | Jordan Duggan         |             47 |
-|             80 | Guillaume Marchand    |             35.97 |       17 |             21.76 | Dylan Tierney-Martin  |             80 |
-|             80 | Killian Geraci        |             39.84 |       18 |             43.06 | Jack Aungier          |             54 |
-|             80 | Lyan Pakihivatau      |            nan    |       19 |             92.86 | Josh Murphy           |             25 |
-|             21 | Pierre-Samuel Pacheco |             77.12 |       20 |             28.24 | Paul Boyle            |             80 |
-|             28 | Charlie Cassang       |             76.45 |       21 |             70.29 | Caolin Blade          |             28 |
-|             52 | Martin Meliande       |              6.81 |       22 |             56.12 | David Hawkshaw        |             80 |
-|             28 | Alfred Parisien       |             73.76 |       23 |              7.17 | Cathal Forde          |             40 |
+|             59 | Hamza Kaabeche        |             12.35 |        1 |             95.14 | Peter Dooley          |             69 |
+|             14 | Sam Matavesi          |             82    |        2 |             63.81 | Dave Heffernan        |             80 |
+|             61 | Irakli Aptsiauri      |             42.16 |        3 |             94.97 | Finlay Bealham        |             80 |
+|             59 | Felix Lambey          |             53.75 |        4 |             64.5  | Oisin Dowling         |             80 |
+|             62 | Tomas Lavanini        |             94.22 |        5 |             96.86 | Joe Joyce             |             52 |
+|             80 | Steeve Blanc-Mappaz   |             12.6  |        6 |             11.4  | Cian Prendergast      |             21 |
+|             80 | Marvin Okuya          |             50.3  |        7 |             25.7  | Shamus Hurley-Langton |             80 |
+|             40 | Maxime Gouzou         |             11.47 |        8 |              8.66 | Sean Jansen           |             80 |
+|             80 | Martin Page-Relo      |             67.08 |        9 |              7.87 | Ben Murphy            |             68 |
+|             80 | Martin Page-Relo      |             67.08 |        9 |              7.87 | Ben Murphy            |              6 |
+|             28 | Fletcher Smith        |             31.19 |       10 |             75.44 | Josh Ioane            |             16 |
+|             33 | Vincent Rattez        |             85.19 |       11 |             71.17 | Shane Jennings        |             80 |
+|             21 | Thibault Regard       |             94.25 |       12 |             98.7  | Bundee Aki            |             66 |
+|             25 | Josiah Maraku         |              2.49 |       13 |             61.93 | Piers O'Conor         |             80 |
+|             33 | Semi Radradra         |             98.52 |       14 |             50.64 | Chay Mullins          |             32 |
+|             59 | Alexandre Tchaptchet  |             59.29 |       15 |             96.9  | Santiago Cordero      |             21 |
+|             28 | Jermaine Ainsley      |             22.23 |       16 |             39.61 | Jordan Duggan         |             32 |
+|             49 | Guillaume Marchand    |             40.29 |       17 |             54.01 | Dylan Tierney-Martin  |             80 |
+|             18 | Killian Geraci        |             43.81 |       18 |             67.12 | Jack Aungier          |             80 |
+|             55 | Lyan Pakihivatau      |            nan    |       19 |             90.97 | Josh Murphy           |             22 |
+|             22 | Pierre-Samuel Pacheco |             77    |       20 |             25.32 | Paul Boyle            |             80 |
+|             80 | Charlie Cassang       |             87.48 |       21 |             72.81 | Caolin Blade          |             58 |
+|             59 | Martin Meliande       |              9.51 |       22 |             68.11 | David Hawkshaw        |             32 |
+|             28 | Alfred Parisien       |             74.84 |       23 |              5.31 | Cathal Forde          |             28 |
 

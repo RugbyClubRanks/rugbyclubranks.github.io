@@ -9,9 +9,9 @@ categories: "European Rugby Champions Cup 2024" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.734, which translates to predicting Bath Rugby to win by 8.9.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.723, which translates to predicting Bath Rugby to win by 8.4.
 
-Our Over/Under is 59.5 - and combined with the spread above, we have a predicted scoreline of 25 to 34
+Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 20 to 29
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Bath Rugby by 20.4
+## Prediction without Player Minutes: Bath Rugby by 25.8
 
 
-Bath Rugby by 6.2 on a neutral pitch
+Bath Rugby by 11.7 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Bath Rugby by 6.2 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             80 | Giorgi Akhaladze     |             29.86 |        1 |             95.21 | Beno Obano          |             80 |
-|             80 | Folau Fainga'a       |             91.01 |        2 |             96.76 | Tom Dunn            |             68 |
-|             28 | Regis Montagne       |             82.59 |        3 |             97.98 | Thomas du Toit      |             18 |
-|             80 | Rob Simmons          |             92.45 |        4 |             94.67 | Quinn Roux          |              9 |
-|             80 | Peceli Yato Senibitu |             93.76 |        5 |             78.17 | Charlie Ewels       |             18 |
-|             23 | Killian Tixeront     |             79.61 |        6 |             83.63 | Ted Hill            |             27 |
-|             23 | Marcos Kremer        |             93    |        7 |             94.85 | Miles Reid          |             12 |
-|             23 | Fritz Lee            |             92.99 |        8 |             79.19 | Alfie Barbeary      |             15 |
-|             18 | Baptiste Jauneau     |             87.5  |        9 |             86.41 | Ben Spencer         |             80 |
-|             68 | Anthony Belleau      |             96.47 |       10 |             99.34 | Finn Russell        |             16 |
-|             74 | Lucas Tauzin         |             89.2  |       11 |             87.71 | Ruaridh McConnochie |             12 |
-|             80 | Irae Simone          |             38.37 |       12 |             92.28 | Max Ojomoh          |             13 |
-|             18 | Pierre Fouyssac      |             12.35 |       13 |             80.82 | Ollie Lawrence      |             23 |
-|              6 | Bautista Delguy      |             80.97 |       14 |             95.64 | Joe Cokanasiga      |             23 |
-|             62 | Alex Newsome         |             79.56 |       15 |             27.69 | Tom de Glanville    |             57 |
-|             12 | Etienne Fourcade     |             90.11 |       16 |             88.31 | Francois van Wyk    |             57 |
-|             80 | Michael Ala'alatoa   |             94.2  |       17 |             59.71 | Niall Annett        |             57 |
-|             48 | Thomas Ceyte         |             72.54 |       18 |             52.14 | Will Stuart         |             57 |
-|             80 | Sacha Lotrian        |             57.11 |       19 |             94.87 | Ross Molony         |             80 |
-|             80 | Sebastien Bezy       |             78.99 |       20 |              9.99 | Josh Bayliss        |             80 |
-|             57 | Théo Giral           |            nan    |       21 |             83.7  | Louis Schreuder     |              0 |
-|             80 | Alivereti Raka       |             11.89 |       22 |             57.47 | Ethan Staddon       |             74 |
-|            nan | nan                  |            nan    |       23 |             74.73 | Orlando Bailey      |              6 |
+|             57 | Giorgi Akhaladze     |             22.32 |        1 |             95.32 | Beno Obano          |             74 |
+|             12 | Folau Fainga'a       |             91.62 |        2 |             98.04 | Tom Dunn            |             50 |
+|             80 | Regis Montagne       |             82.79 |        3 |             98.55 | Thomas du Toit      |             39 |
+|             80 | Rob Simmons          |             93.1  |        4 |             95.74 | Quinn Roux          |             30 |
+|             48 | Peceli Yato Senibitu |             92.9  |        5 |             81.85 | Charlie Ewels       |             21 |
+|             68 | Killian Tixeront     |             80.5  |        6 |             87.4  | Ted Hill            |             20 |
+|             23 | Marcos Kremer        |             89.4  |        7 |             94.9  | Miles Reid          |             34 |
+|             23 | Fritz Lee            |             88.96 |        8 |             79.22 | Alfie Barbeary      |             30 |
+|             23 | Baptiste Jauneau     |             81.04 |        9 |             88.19 | Ben Spencer         |             80 |
+|             23 | Anthony Belleau      |             95.35 |       10 |            100    | Finn Russell        |             80 |
+|             80 | Lucas Tauzin         |             83.51 |       11 |             87.76 | Ruaridh McConnochie |             80 |
+|             23 | Irae Simone          |             61.17 |       12 |             96.31 | Max Ojomoh          |             59 |
+|              6 | Pierre Fouyssac      |             14.43 |       13 |             87.85 | Ollie Lawrence      |             57 |
+|             80 | Bautista Delguy      |             66.24 |       14 |             95.36 | Joe Cokanasiga      |             41 |
+|             80 | Alex Newsome         |             70.35 |       15 |             25.44 | Tom de Glanville    |             74 |
+|             28 | Etienne Fourcade     |             82.17 |       16 |             90.97 | Francois van Wyk    |             19 |
+|             52 | Michael Ala'alatoa   |             91.82 |       17 |             49.2  | Niall Annett        |             80 |
+|             48 | Thomas Ceyte         |             56.59 |       18 |             79.22 | Will Stuart         |              6 |
+|             80 | Sacha Lotrian        |             31.94 |       19 |             96.04 | Ross Molony         |             57 |
+|             80 | Sebastien Bezy       |             82.47 |       20 |             34.85 | Josh Bayliss        |             57 |
+|             80 | Théo Giral           |            nan    |       21 |             83.18 | Louis Schreuder     |             39 |
+|             80 | Alivereti Raka       |              8.39 |       22 |             57.6  | Ethan Staddon       |             80 |
+|            nan | nan                  |            nan    |       23 |             78.54 | Orlando Bailey      |             80 |
 

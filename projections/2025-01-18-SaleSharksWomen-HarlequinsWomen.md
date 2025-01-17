@@ -9,7 +9,7 @@ categories: "Allianz Premier 15s 2024" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.114, which translates to predicting Harlequins Women to win by 18.3.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.117, which translates to predicting Harlequins Women to win by 18.1.
 
 Our Over/Under is 64.5 - and combined with the spread above, we have a predicted scoreline of 41 to 23
 

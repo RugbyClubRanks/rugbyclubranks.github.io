@@ -290,7 +290,7 @@ key: page-recents
 ## Division de Honor de Rugby
 
 
-[2024](comp_files\Division_de_Honor_de_Rugby_2024) - Prediction Accuracy: 72.0% 
+[2024](comp_files\Division_de_Honor_de_Rugby_2024) - Prediction Accuracy: 71.4% 
 ## Premiership Rugby
 
 

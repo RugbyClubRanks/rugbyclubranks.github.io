@@ -9,9 +9,9 @@ categories: "European Rugby Champions Cup 2024" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.386, which translates to predicting Stade Toulousain to win by 4.1.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.388, which translates to predicting Stade Toulousain to win by 4.0.
 
-Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 27 to 23
+Our Over/Under is 55.5 - and combined with the spread above, we have a predicted scoreline of 30 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Stade Toulousain by 11.4
+## Prediction without Player Minutes: Stade Toulousain by 8.3
 
 
-Stade Toulousain by 19.7 on a neutral pitch
+Stade Toulousain by 16.5 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,28 @@ Stade Toulousain by 19.7 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             80 | Rodrigue Neti        |             34.23 |        1 |             99.75 | Ox Nche             |             80 |
-|             80 | Peato Mauvaka        |             91.55 |        2 |             94.78 | Bongi Mbonambi      |             47 |
-|             59 | Dorian Aldegheri     |             94.37 |        3 |             65.52 | Vincent Koch        |             63 |
-|             33 | Thibaud Flament      |             89.84 |        4 |             11.67 | Corne Rahl          |             59 |
-|             26 | Emmanuel Meafou      |             69.32 |        5 |             32.49 | Jason Jenkins       |             57 |
-|             25 | Francois Cros        |             95.88 |        6 |             52.11 | Phepsi Buthelezi    |             22 |
-|             25 | Anthony Jelonch      |             99.07 |        7 |             60.45 | Emmanuel Tshituka   |             23 |
-|             20 | Jack Willis          |             97.45 |        8 |             82.8  | Siya Kolisi         |             40 |
-|             16 | Antoine Dupont       |             99.64 |        9 |             86.96 | Jaden Hendrikse     |             59 |
-|             63 | Romain Ntamack       |             96.03 |       10 |             79.69 | Jordan Hendrikse    |             80 |
-|             80 | Matthis Lebel        |             98.51 |       11 |             98.61 | Makazole Mapimpi    |             80 |
-|             40 | Santiago Chocobares  |             51.71 |       12 |             33.85 | Francois Venter     |             80 |
-|             23 | Pierre-Louis Barassi |             94.38 |       13 |             52.7  | Ethan Hooker        |             80 |
-|             80 | Blair Kinghorn       |             99.9  |       14 |              2.78 | Yaw Penxe           |             57 |
-|             22 | Thomas Ramos         |             95.6  |       15 |             67.47 | Hakeem Kunene       |             21 |
-|             80 | Julien Marchand      |             98.02 |       16 |             28.42 | Dylan Richardson    |             17 |
-|             70 | Joel Merkler         |             81.67 |       17 |             99.07 | Ruan Dreyer         |             12 |
-|             23 | Cyril Baille         |             97.31 |       18 |             88.23 | Trevor Nyakane      |             23 |
-|             68 | Joshua Brennan       |             90.11 |       19 |             83.01 | Vincent Tshituka    |             80 |
-|             80 | Leo Banos            |             87.02 |       20 |             22.55 | Jeandre Labuschagne |             30 |
-|             68 | Ange Capuozzo        |             97.42 |       21 |             63.22 | Bradley Davids      |             23 |
-|             26 | Juan Cruz Mallia     |             99.6  |       22 |             74.97 | Jurenzo Julius      |             80 |
-|             13 | Paul Graou           |             24.82 |       23 |             59.24 | Nick Hatton         |             57 |
+|             25 | Rodrigue Neti        |             34.84 |        1 |             99.74 | Ox Nche             |             63 |
+|             50 | Peato Mauvaka        |             91.8  |        2 |             94.3  | Bongi Mbonambi      |             80 |
+|             26 | Dorian Aldegheri     |             93.87 |        3 |             80.41 | Vincent Koch        |             30 |
+|             80 | Thibaud Flament      |             91.08 |        4 |             11.46 | Corne Rahl          |             67 |
+|             65 | Emmanuel Meafou      |             71.5  |        5 |             35.9  | Jason Jenkins       |             80 |
+|             55 | Francois Cros        |             96.3  |        6 |             64    | Phepsi Buthelezi    |             17 |
+|             63 | Anthony Jelonch      |             99.7  |        7 |             81.8  | Emmanuel Tshituka   |             17 |
+|             63 | Anthony Jelonch      |             99.7  |        7 |             81.8  | Emmanuel Tshituka   |             24 |
+|             13 | Jack Willis          |             96.32 |        8 |             89.61 | Siya Kolisi         |             38 |
+|             80 | Antoine Dupont       |             99.64 |        9 |             89.98 | Jaden Hendrikse     |             80 |
+|             21 | Romain Ntamack       |             96.02 |       10 |             82.3  | Jordan Hendrikse    |             55 |
+|             40 | Matthis Lebel        |             98.72 |       11 |             98.62 | Makazole Mapimpi    |             80 |
+|             23 | Santiago Chocobares  |             56.94 |       12 |             34.38 | Francois Venter     |             32 |
+|             40 | Pierre-Louis Barassi |             95.01 |       13 |             60.09 | Ethan Hooker        |             60 |
+|             59 | Blair Kinghorn       |             99.9  |       14 |              2.17 | Yaw Penxe           |             32 |
+|             80 | Thomas Ramos         |             96.24 |       15 |             59.51 | Hakeem Kunene       |             64 |
+|             42 | Julien Marchand      |             98.22 |       16 |             68.27 | Dylan Richardson    |             25 |
+|             80 | Joel Merkler         |             82.45 |       17 |             99.23 | Ruan Dreyer         |             59 |
+|             80 | Cyril Baille         |             96.68 |       18 |             85.6  | Trevor Nyakane      |             80 |
+|             61 | Joshua Brennan       |             89.6  |       19 |             84.8  | Vincent Tshituka    |             80 |
+|             73 | Leo Banos            |             84.3  |       20 |             13.4  | Jeandre Labuschagne |             61 |
+|             12 | Ange Capuozzo        |             98.03 |       21 |             64.76 | Bradley Davids      |             55 |
+|             10 | Juan Cruz Mallia     |             99.61 |       22 |             69.31 | Jurenzo Julius      |             61 |
+|             21 | Paul Graou           |             15.74 |       23 |             65.15 | Nick Hatton         |             80 |
 

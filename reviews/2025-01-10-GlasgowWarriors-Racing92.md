@@ -9,9 +9,9 @@ categories: "European Rugby Champions Cup 2024" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.767, which translates to predicting Glasgow Warriors to win by 10.5.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.744, which translates to predicting Glasgow Warriors to win by 9.4.
 
-Our Over/Under is 39.5 - and combined with the spread above, we have a predicted scoreline of 15 to 25
+Our Over/Under is 42.5 - and combined with the spread above, we have a predicted scoreline of 17 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Glasgow Warriors by 32.8
+## Prediction without Player Minutes: Glasgow Warriors by 33.9
 
 
-Glasgow Warriors by 23.2 on a neutral pitch
+Glasgow Warriors by 24.2 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,28 +69,28 @@ Glasgow Warriors by 23.2 on a neutral pitch
 
 |   Away Minutes | Away Player                       |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:----------------------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             80 | Lino Julien                       |             56.18 |        1 |             62.83 | Rory Sutherland       |             13 |
-|             29 | Feleti Kaitu'u                    |              6.12 |        2 |             67.27 | Johnny Matthews       |             17 |
-|             80 | Lucio Sordoni                     |             96.47 |        3 |             99.92 | Zander Fagerson       |             80 |
-|             50 | Boris Palu                        |             90.54 |        4 |             68.91 | Gregor Brown          |             80 |
-|             29 | Junior Kpoku                      |             82.7  |        5 |             99.2  | Scott Cummings        |             31 |
-|             63 | Noa Zinzen                        |             35.63 |        6 |             96.81 | Matt Fagerson         |             31 |
-|             29 | Ibrahim Diallo                    |             24.61 |        7 |             94.75 | Rory Darge            |             80 |
-|             63 | Maxime Baudonne                   |             77.49 |        8 |             57.32 | Jack Mann             |             31 |
-|             80 | Clovis Le bail                    |             55.62 |        9 |             99.82 | George Horne          |             31 |
-|             50 | Antoine Gibert                    |             94.26 |       10 |             65.78 | Tom Jordan            |             80 |
-|             11 | Henry Arundell                    |              3.47 |       11 |             98.81 | Kyle Steyn            |             31 |
-|             80 | Henry Arundell                    |              3.47 |       11 |             98.81 | Kyle Steyn            |             31 |
-|             49 | Henry Chavancy                    |             99.89 |       12 |             95.59 | Sione Tuipulotu       |             27 |
-|             63 | Tristan Tedder                    |             19.74 |       13 |             84.79 | Huw Jones             |             51 |
-|             51 | Vinaya Habosi                     |             42.81 |       14 |             99.21 | Sebastian Cancelliere |             80 |
-|             18 | Max Spring                        |              6.37 |       15 |             81.98 | Josh McKay            |             61 |
-|              6 | Diego Escobar Alvarez             |             73.2  |       16 |             98.65 | Jamie Bhatti          |             80 |
-|             27 | Eddy Ben Arous                    |             97.48 |       17 |             74.1  | Gregor Hiddleston     |             80 |
-|             49 | Lee-Marvin Lofty Siyanda Mazibuko |             71.91 |       18 |             22.04 | Sam Talakai           |             59 |
-|             40 | Hacjivah Dayimani                 |             90.23 |       19 |             66.1  | Alex Samuel           |             21 |
-|             80 | Romain Taofifenua                 |             23.84 |       20 |             34.29 | Ally Miller           |             21 |
-|             51 | Dan Lancaster                     |              3.31 |       21 |             53.45 | Euan Ferrie           |             40 |
-|             30 | Kleo Labarbe                      |            nan    |       22 |             90.4  | Jamie Dobie           |             80 |
-|             55 | Dylan Idrissi                     |            nan    |       23 |             81.9  | Duncan Weir           |             25 |
+|             53 | Lino Julien                       |             60.56 |        1 |             73.51 | Rory Sutherland       |             29 |
+|             53 | Feleti Kaitu'u                    |              6.6  |        2 |             51.69 | Johnny Matthews       |             19 |
+|             77 | Lucio Sordoni                     |             95.49 |        3 |            100    | Zander Fagerson       |             29 |
+|             80 | Boris Palu                        |             90.26 |        4 |             81.03 | Gregor Brown          |             15 |
+|             67 | Junior Kpoku                      |             86.41 |        5 |             99.39 | Scott Cummings        |             23 |
+|             80 | Noa Zinzen                        |             49.2  |        6 |             97    | Matt Fagerson         |             29 |
+|             53 | Ibrahim Diallo                    |             42.9  |        7 |             94.7  | Rory Darge            |             69 |
+|             53 | Maxime Baudonne                   |             75.32 |        8 |             43.07 | Jack Mann             |             13 |
+|             80 | Clovis Le bail                    |             58.32 |        9 |             99.82 | George Horne          |             17 |
+|             15 | Antoine Gibert                    |             95.13 |       10 |             67.7  | Tom Jordan            |             30 |
+|             49 | Henry Arundell                    |              4.05 |       11 |             99.31 | Kyle Steyn            |             80 |
+|             80 | Henry Arundell                    |              4.05 |       11 |             99.31 | Kyle Steyn            |             80 |
+|             13 | Henry Chavancy                    |            100    |       12 |             95.99 | Sione Tuipulotu       |             49 |
+|             65 | Tristan Tedder                    |             30.26 |       13 |             86.12 | Huw Jones             |             27 |
+|             51 | Vinaya Habosi                     |             50.05 |       14 |             99.11 | Sebastian Cancelliere |             40 |
+|             27 | Max Spring                        |              6.19 |       15 |             78.1  | Josh McKay            |             61 |
+|             80 | Diego Escobar Alvarez             |             75.94 |       16 |             97.7  | Jamie Bhatti          |             67 |
+|              3 | Eddy Ben Arous                    |             96.76 |       17 |             68.45 | Gregor Hiddleston     |             49 |
+|             62 | Lee-Marvin Lofty Siyanda Mazibuko |             74.79 |       18 |             22.57 | Sam Talakai           |             49 |
+|             27 | Hacjivah Dayimani                 |             90.48 |       19 |             65.72 | Alex Samuel           |             80 |
+|             80 | Romain Taofifenua                 |             19.47 |       20 |             32.8  | Ally Miller           |             80 |
+|             80 | Dan Lancaster                     |              3.1  |       21 |             53.4  | Euan Ferrie           |             40 |
+|             80 | Kleo Labarbe                      |            nan    |       22 |             92.3  | Jamie Dobie           |             67 |
+|             51 | Dylan Idrissi                     |            nan    |       23 |             80.53 | Duncan Weir           |             80 |
 

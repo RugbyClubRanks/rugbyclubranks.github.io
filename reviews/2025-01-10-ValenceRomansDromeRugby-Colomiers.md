@@ -11,7 +11,7 @@ categories: "Pro D2 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.618, which translates to predicting Valence Romans Drome Rugby to win by 4.2.
 
-Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 21 to 26
+Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 23 to 28
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Valence Romans Drome Rugby by 6.0
+## Prediction without Player Minutes: Valence Romans Drome Rugby by 5.3
 
 
-Valence Romans Drome Rugby by 2.4 on a neutral pitch
+Valence Romans Drome Rugby by 1.7 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Valence Romans Drome Rugby by 2.4 on a neutral pitch
 
 |   Away Minutes | Away Player               |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:--------------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             80 | Elias El Ansari           |             60.47 |        1 |             66.53 | Andrea Pontanier    |             68 |
-|             80 | Thomas Larrieu            |             44.42 |        2 |              0.54 | Cyril Deligny       |             53 |
-|             80 | Marco Fepulea'i           |             60.39 |        3 |             22.96 | Gareth Milasinovich |             24 |
-|             75 | Jean Thomas               |             50.2  |        4 |             29.58 | Ryan McCauley       |             24 |
-|             50 | Maxime Granouillet        |             54.73 |        5 |             49.4  | Florian Goumat      |             22 |
-|             19 | Anthony Coletta           |             28.94 |        6 |             14.93 | Axel Bruchet        |             24 |
-|             29 | Aldric Lescure            |             80.74 |        7 |             23.07 | Adrien Roux         |             80 |
-|             52 | Jeremy Bechu              |             24.63 |        8 |             71.34 | Mathieu Vachon      |             22 |
-|             80 | Mathis Galthié            |             62.68 |        9 |             70.65 | Thomas Lhusero      |             30 |
-|             57 | Joaquin de la Vega Mendia |             48.79 |       10 |             22.3  | Lucas Meret         |             20 |
-|             55 | Martin Alonso Munoz       |              8.72 |       11 |             82.26 | Mosese Mawalu       |             15 |
-|             62 | Baptiste Serrano          |             26.57 |       12 |             82.91 | Louis Marrou        |             13 |
-|             30 | Rodrigo Marta             |             95.81 |       13 |             76.74 | Anatole Pauvert     |             11 |
-|             57 | Vincent Pinto             |             77.7  |       14 |             93.46 | Adam Vargas         |             58 |
-|             28 | Ugo Pacome                |             59.34 |       15 |             78.02 | Joris De Moura      |             56 |
-|             16 | Robin Bellemand           |             68.12 |       16 |             11.41 | Mattéo Rodor        |             47 |
-|             80 | Pablo Dimcheff            |             49.64 |       17 |             89.74 | Kevin Goze          |             61 |
-|             69 | Michael Simutoga          |             76.87 |       18 |              8.49 | Mathieu Guillomot   |             23 |
-|             76 | Alexis Caumel             |             80.12 |       19 |            nan    | Esteban Chouteau    |             80 |
-|             18 | Louis Descoux             |            nan    |       20 |             60.43 | Dorian Marco Pena   |             35 |
-|             10 | Arthur Diaz               |            nan    |       21 |             67.04 | Thembelani Bholi    |             58 |
-|             59 | Gregoire Bazin            |             47.48 |       22 |             47.79 | Nathan Huguen       |             80 |
-|             80 | Martin Dulon              |              5.51 |       23 |              9.06 | Ilia Spanderashvili |              5 |
+|             80 | Elias El Ansari           |             48.47 |        1 |             69.93 | Andrea Pontanier    |             15 |
+|             65 | Thomas Larrieu            |             42.6  |        2 |              0.53 | Cyril Deligny       |             80 |
+|             65 | Marco Fepulea'i           |             81.6  |        3 |             22.49 | Gareth Milasinovich |             22 |
+|             80 | Jean Thomas               |             56.19 |        4 |             24.24 | Ryan McCauley       |             80 |
+|             80 | Maxime Granouillet        |             53.85 |        5 |             37.22 | Florian Goumat      |             80 |
+|             53 | Anthony Coletta           |             39.3  |        6 |             13    | Axel Bruchet        |             80 |
+|             80 | Aldric Lescure            |             81.4  |        7 |             26.9  | Adrien Roux         |             59 |
+|             51 | Jeremy Bechu              |             25.97 |        8 |             65.37 | Mathieu Vachon      |             76 |
+|             19 | Mathis Galthié            |             55.99 |        9 |             70.66 | Thomas Lhusero      |             59 |
+|             80 | Joaquin de la Vega Mendia |             47.79 |       10 |             23.23 | Lucas Meret         |             15 |
+|             80 | Martin Alonso Munoz       |              9.38 |       11 |             80.16 | Mosese Mawalu       |             80 |
+|             22 | Baptiste Serrano          |             23.54 |       12 |             82.75 | Louis Marrou        |             22 |
+|             22 | Rodrigo Marta             |             95.44 |       13 |             73.54 | Anatole Pauvert     |             59 |
+|             15 | Vincent Pinto             |             74.43 |       14 |             93.29 | Adam Vargas         |             80 |
+|             22 | Ugo Pacome                |             52.88 |       15 |             77.43 | Joris De Moura      |             58 |
+|             22 | Robin Bellemand           |            nan    |       16 |             10.91 | Mattéo Rodor        |             29 |
+|             22 | Pablo Dimcheff            |            nan    |       17 |             89.95 | Kevin Goze          |             57 |
+|             23 | Michael Simutoga          |             75.98 |       18 |              8.46 | Mathieu Guillomot   |             19 |
+|             67 | Alexis Caumel             |             80    |       19 |            nan    | Esteban Chouteau    |             57 |
+|             80 | Louis Descoux             |            nan    |       20 |             59    | Dorian Marco Pena   |             21 |
+|             69 | Arthur Diaz               |            nan    |       21 |             66.5  | Thembelani Bholi    |             19 |
+|             80 | Gregoire Bazin            |             54.6  |       22 |             48.99 | Nathan Huguen       |             15 |
+|             80 | Martin Dulon              |              8.35 |       23 |              6.4  | Ilia Spanderashvili |             80 |
 

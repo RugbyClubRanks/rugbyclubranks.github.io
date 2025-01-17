@@ -9,9 +9,9 @@ categories: "European Rugby Champions Cup 2024" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.417, which translates to predicting Leinster to win by 3.0.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.398, which translates to predicting Leinster to win by 3.7.
 
-Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 27 to 24
+Our Over/Under is 40.5 - and combined with the spread above, we have a predicted scoreline of 22 to 18
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: La Rochelle by 8.3
+## Prediction without Player Minutes: La Rochelle by 3.4
 
 
-Leinster by 3.4 on a neutral pitch
+Leinster by 8.1 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Leinster by 3.4 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             21 | Cian Healy          |             94.79 |        1 |             90.75 | Reda Wardi            |             80 |
-|             31 | Ronan Kelleher      |             96.4  |        2 |             60.79 | Quentin Lespiaucq     |             80 |
-|              5 | Tadhg Furlong       |             97.39 |        3 |             98.07 | Uini Atonio           |             80 |
-|             80 | Joe McCarthy        |             86.32 |        4 |             86.92 | Thomas Lavault        |             54 |
-|             32 | James Ryan          |             97.28 |        5 |             77.26 | Kane Douglas          |             80 |
-|             10 | Ryan Baird          |             87.44 |        6 |              3.71 | Paul Boudehent        |             14 |
-|             40 | Josh van der Flier  |             97.73 |        7 |             55.92 | Oscar Jegou           |             17 |
-|             80 | Caelan Doris        |             97.66 |        8 |             99.36 | Gregory Alldritt      |             25 |
-|             80 | Jamison Gibson-Park |             96.2  |        9 |             97.83 | Tawera Kerr-Barlow    |             34 |
-|             34 | Sam Prendergast     |             31.35 |       10 |             41.28 | Antoine Hastoy        |             46 |
-|             19 | Jamie Osborne       |             94.15 |       11 |             97.22 | Dillyn Leyds          |             46 |
-|             80 | Robbie Henshaw      |             94.6  |       12 |             89.53 | Jules Favre           |             26 |
-|             46 | Garry Ringrose      |             99.34 |       13 |             78.28 | Ulupano Seuteni       |             19 |
-|             46 | Jimmy O'Brien       |             95.34 |       14 |             97.03 | Jack Nowell           |             26 |
-|             34 | Jordie Barrett      |             91.65 |       15 |             99.78 | Brice Dulin           |             80 |
-|             80 | Andrew Porter       |             84.95 |       16 |              5.38 | Georges-Henri Colombe |             58 |
-|              8 | Rabah Slimani       |             83.18 |       17 |             43.65 | Alexandre Kaddouri    |             80 |
-|             15 | Gus McCarthy        |             46.92 |       18 |             77.57 | Ultan Dillane         |             50 |
-|             16 | RG Snyman           |             99.7  |       19 |             18.81 | Judicael Cancoriet    |             80 |
-|             31 | Jack Conan          |             97.24 |       20 |             96.6  | Levani Botia          |             80 |
-|             21 | Luke McGrath        |             98.19 |       21 |             62.64 | Hoani Bosmorin        |             80 |
-|             61 | Ross Byrne          |             92.94 |       22 |             64.37 | Matthias Haddad       |             21 |
-|             80 | Ciaran Frawley      |             48.62 |       23 |            nan    | nan                   |            nan |
+|             61 | Cian Healy          |             93.61 |        1 |             94.8  | Reda Wardi            |             10 |
+|             47 | Ronan Kelleher      |             96.97 |        2 |             44.74 | Quentin Lespiaucq     |              5 |
+|             80 | Tadhg Furlong       |             97.27 |        3 |             97.79 | Uini Atonio           |             26 |
+|             52 | Joe McCarthy        |             81.54 |        4 |             88.44 | Thomas Lavault        |             80 |
+|             80 | James Ryan          |             97.57 |        5 |             80.12 | Kane Douglas          |             32 |
+|             32 | Ryan Baird          |             86.5  |        6 |              5.7  | Paul Boudehent        |             80 |
+|             32 | Josh van der Flier  |             99    |        7 |             68.2  | Oscar Jegou           |             80 |
+|             80 | Caelan Doris        |             95.67 |        8 |             98.27 | Gregory Alldritt      |             80 |
+|             55 | Jamison Gibson-Park |             96.24 |        9 |             97.85 | Tawera Kerr-Barlow    |              7 |
+|             18 | Sam Prendergast     |             23.67 |       10 |             65.04 | Antoine Hastoy        |             80 |
+|             28 | Jamie Osborne       |             94.87 |       11 |             97.53 | Dillyn Leyds          |             61 |
+|             17 | Robbie Henshaw      |             96.53 |       12 |             89.7  | Jules Favre           |             26 |
+|             59 | Garry Ringrose      |             99.24 |       13 |             84.49 | Ulupano Seuteni       |             67 |
+|             57 | Jimmy O'Brien       |             94.27 |       14 |             96.35 | Jack Nowell           |             80 |
+|             80 | Jordie Barrett      |             89.82 |       15 |             99.78 | Brice Dulin           |             72 |
+|             22 | Andrew Porter       |             88.42 |       16 |             13.88 | Georges-Henri Colombe |             46 |
+|             80 | Rabah Slimani       |             92.93 |       17 |             43.1  | Alexandre Kaddouri    |             80 |
+|             80 | Gus McCarthy        |             60.47 |       18 |             65.92 | Ultan Dillane         |             47 |
+|             80 | RG Snyman           |             99.7  |       19 |             16.33 | Judicael Cancoriet    |             26 |
+|             65 | Jack Conan          |             97.84 |       20 |             95    | Levani Botia          |             15 |
+|             75 | Luke McGrath        |             98.57 |       21 |             61.99 | Hoani Bosmorin        |             50 |
+|             48 | Ross Byrne          |             94.25 |       22 |             57.2  | Matthias Haddad       |             40 |
+|             42 | Ciaran Frawley      |             48.81 |       23 |            nan    | nan                   |            nan |
 
