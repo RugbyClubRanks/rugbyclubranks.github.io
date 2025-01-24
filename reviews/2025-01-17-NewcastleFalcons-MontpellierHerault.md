@@ -11,7 +11,7 @@ categories: "European Rugby Challenge Cup 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.321, which translates to predicting Montpellier Herault to win by 6.6.
 
-Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 27 to 20
+Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 28 to 22
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Newcastle Falcons by 10.7
+## Prediction without Player Minutes: Newcastle Falcons by 6.3
 
 
-Montpellier Herault by 2.9 on a neutral pitch
+Montpellier Herault by 7.4 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Montpellier Herault by 2.9 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             80 | Baptiste Erdocio    |              4.96 |        1 |             27.69 | Mike Rewcastle      |             80 |
-|             80 | Christopher Tolofua |             95.39 |        2 |             70.21 | Bryan Byrne         |              3 |
-|             80 | Mohamed Haouas      |             80.85 |        3 |             11.88 | Murray McCallum     |             25 |
-|             80 | Youssouf Soucouna   |             70.85 |        4 |              3.34 | Philip van der Walt |             49 |
-|             40 | Marco Tauleigne     |             97.47 |        5 |              9.01 | John Hawkins        |             20 |
-|             63 | Romain Delemarle    |             66.4  |        6 |             33.5  | Reuben Parsons      |             23 |
-|             28 | Alexandre Becognee  |             68.22 |        7 |             27.13 | Ollie Leatherbarrow |             21 |
-|             28 | Sam Simmonds        |             36.8  |        8 |             16.67 | Freddie Lockwood    |             57 |
-|             59 | Alexis Bernadet     |             65.4  |        9 |              0.54 | James Elliott       |             80 |
-|             80 | Domingo Miotti      |             86.41 |       10 |             68.37 | Kieran Wilkinson    |             14 |
-|             32 | Gabriel Ngandebe    |              5.61 |       11 |             36.12 | Max Pepper          |             23 |
-|             80 | Jan Serfontein      |             70.34 |       12 |             65.1  | Oliver Spencer      |             21 |
-|             14 | Thomas Darmon       |             26.17 |       13 |             39.69 | Alex Hearle         |             57 |
-|             52 | Pierre Lucas        |             16.54 |       14 |             62.89 | Ben Redshaw         |             61 |
-|             80 | Julien Tisseron     |             82.2  |       15 |             76.26 | Louis Brown         |             80 |
-|             30 | Lyam Akrab          |            nan    |       16 |            nan    | Callum Hancock      |             59 |
-|             80 | Nika Abuladze       |             89.49 |       17 |            nan    | Connor Hancock      |             80 |
-|             80 | Wilfrid Hounkpatin  |             45.04 |       18 |              0.71 | Jamie Blamire       |             63 |
-|             28 | Florian Verhaeghe   |             76.42 |       19 |             20.24 | Kiran McDonald      |             10 |
-|             38 | Nicolas Martins     |             83    |       20 |              1.95 | Callum Chick        |             66 |
-|             80 | Aurelien Barreau    |            nan    |       21 |              2.23 | Brett Connon        |             29 |
-|             80 | Anthony Bouthier    |             70.55 |       22 |             86.59 | Max Clark           |             80 |
-|             24 | Auguste Cadot       |             26.39 |       23 |            nan    | Joe Davis           |             60 |
+|             80 | Baptiste Erdocio    |              6.65 |        1 |             10.36 | Mike Rewcastle      |             80 |
+|             17 | Christopher Tolofua |             94.96 |        2 |             45.68 | Bryan Byrne         |              3 |
+|             80 | Mohamed Haouas      |             79.88 |        3 |              1.9  | Murray McCallum     |             64 |
+|             14 | Youssouf Soucouna   |             54.23 |        4 |              3.12 | Philip van der Walt |             14 |
+|             28 | Marco Tauleigne     |             97.08 |        5 |              6.15 | John Hawkins        |             28 |
+|             40 | Romain Delemarle    |             60    |        6 |             35.67 | Reuben Parsons      |             21 |
+|             56 | Alexandre Becognee  |             79.9  |        7 |              9.9  | Ollie Leatherbarrow |             57 |
+|             80 | Sam Simmonds        |             64.22 |        8 |              8.84 | Freddie Lockwood    |             63 |
+|             59 | Alexis Bernadet     |             64.96 |        9 |              0.36 | James Elliott       |             59 |
+|             80 | Domingo Miotti      |             86.12 |       10 |             46.26 | Kieran Wilkinson    |             32 |
+|             59 | Gabriel Ngandebe    |             10.46 |       11 |             39.3  | Max Pepper          |             51 |
+|             60 | Jan Serfontein      |             68.03 |       12 |             34.18 | Oliver Spencer      |             42 |
+|             80 | Thomas Darmon       |             64.93 |       13 |             26.88 | Alex Hearle         |             38 |
+|             59 | Pierre Lucas        |             16.81 |       14 |             48.78 | Ben Redshaw         |             52 |
+|             21 | Julien Tisseron     |             78.75 |       15 |             81.21 | Louis Brown         |             19 |
+|             28 | Lyam Akrab          |             53.24 |       16 |             24.18 | Callum Hancock      |             80 |
+|             52 | Nika Abuladze       |             89.64 |       17 |            nan    | Connor Hancock      |             40 |
+|             80 | Wilfrid Hounkpatin  |             55.44 |       18 |              0.72 | Jamie Blamire       |             11 |
+|             80 | Florian Verhaeghe   |             79.94 |       19 |             13.81 | Kiran McDonald      |             80 |
+|             66 | Nicolas Martins     |             84.43 |       20 |              1.29 | Callum Chick        |             80 |
+|             80 | Aurelien Barreau    |            nan    |       21 |              0.66 | Brett Connon        |             24 |
+|             38 | Anthony Bouthier    |             65.32 |       22 |             85.62 | Max Clark           |             18 |
+|             17 | Auguste Cadot       |             36.62 |       23 |            nan    | Joe Davis           |             80 |
 

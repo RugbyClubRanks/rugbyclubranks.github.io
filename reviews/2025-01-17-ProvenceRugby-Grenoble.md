@@ -11,7 +11,7 @@ categories: "Pro D2 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.567, which translates to predicting Provence Rugby to win by 2.4.
 
-Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 24 to 27
+Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 24 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Provence Rugby by 5.5
+## Prediction without Player Minutes: Provence Rugby by 7.0
 
 
-Grenoble by 4.2 on a neutral pitch
+Grenoble by 2.7 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,30 +69,29 @@ Grenoble by 4.2 on a neutral pitch
 
 |   Away Minutes | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player              |   Home Minutes |
 |---------------:|:------------------|------------------:|---------:|------------------:|:-------------------------|---------------:|
-|             57 | Tommy Raynaud     |             85.98 |        1 |             82.56 | Thomas Vernet            |             19 |
-|             80 | Bastien Soury     |             71.28 |        2 |             49.29 | Joseph Laget             |             80 |
-|             51 | Cody Thomas       |             60    |        3 |             85.47 | Paul Mallez              |             80 |
-|              9 | Thomas Lainault   |             37.15 |        4 |              2.33 | Andres Zafra Tarazona    |              9 |
-|             57 | Giorgi Javakhia   |             87.85 |        5 |             79.86 | Izack Rodda              |             14 |
-|             57 | Jose Madeira      |             92    |        6 |             76.72 | Teimana Harrison         |             39 |
-|              9 | Thibaut Martel    |             72.98 |        7 |             83.81 | Charly Gambini           |             80 |
-|             55 | Hanru Sirgel      |             86.8  |        8 |             41.13 | Malohi Suta              |             41 |
-|             62 | Eric Escande      |             86.96 |        9 |             20.11 | Arthur Coville           |             29 |
-|             80 | Sam Davies        |             89.76 |       10 |             75.28 | Jules Soulan             |             60 |
-|             40 | Gerswin Mouton    |             57.68 |       11 |             80.71 | Léo Drouet               |             23 |
-|             59 | Julien Heriteau   |             82.01 |       12 |             78.63 | Kaveinga Finau           |             49 |
-|             18 | Giorgi Kveseladze |             93.78 |       13 |             99.13 | George North             |             80 |
-|             49 | Kaminieli Rasaku  |             79.63 |       14 |             22.64 | Adrien Lapegue-Lafaye    |             61 |
-|              1 | Julien Farnoux    |             96.7  |       15 |             64.18 | Mathias Colombet         |             40 |
-|             80 | Hugo Trouilloud   |             27.47 |       16 |             92.37 | Jimmy Gopperth           |             40 |
-|             62 | Johannes Jonker   |             32.82 |       17 |              7.14 | Tornike Jalagonia        |             71 |
-|             19 | Eli Eglaine       |             50.68 |       18 |             51.82 | Ned Hanigan              |             80 |
-|             80 | Pierce Phillips   |             80.36 |       19 |             89.17 | Guillaume Piazzoli       |             80 |
-|             80 | Ryno Pieterse     |             68.93 |       20 |             92.56 | Hayden Thompson-Stringer |             17 |
-|             80 | Ryno Pieterse     |             68.93 |       20 |             92.56 | Hayden Thompson-Stringer |             66 |
-|             80 | Ryno Pieterse     |             68.93 |       20 |             92.56 | Hayden Thompson-Stringer |             80 |
-|             80 | Ryno Pieterse     |             68.93 |       20 |             92.56 | Hayden Thompson-Stringer |             31 |
-|             22 | Lilian Rossi      |             78.72 |       21 |             39.23 | Eliott Yemsi             |             80 |
-|              4 | Mathis Baret      |            nan    |       22 |             40.22 | Kevin Viallard           |             61 |
-|             57 | Max Clement       |             71.27 |       23 |            nan    | nan                      |            nan |
+|             80 | Tommy Raynaud     |             83.42 |        1 |             81.43 | Thomas Vernet            |             23 |
+|             74 | Bastien Soury     |             37.59 |        2 |             57.01 | Joseph Laget             |              1 |
+|             66 | Cody Thomas       |             37.56 |        3 |             87.82 | Paul Mallez              |             19 |
+|             80 | Thomas Lainault   |             37.4  |        4 |              2.32 | Andres Zafra Tarazona    |             62 |
+|             29 | Giorgi Javakhia   |             81.15 |        5 |             82.26 | Izack Rodda              |             19 |
+|             80 | Jose Madeira      |             92.37 |        6 |             79.79 | Teimana Harrison         |             14 |
+|             23 | Thibaut Martel    |             74.23 |        7 |             89.48 | Charly Gambini           |             17 |
+|             46 | Hanru Sirgel      |             81.68 |        8 |             46.77 | Malohi Suta              |             49 |
+|             23 | Eric Escande      |             75.73 |        9 |             26.82 | Arthur Coville           |             80 |
+|             19 | Sam Davies        |             88.33 |       10 |             78.63 | Jules Soulan             |             57 |
+|             19 | Gerswin Mouton    |             54.64 |       11 |             79.86 | Léo Drouet               |             60 |
+|              9 | Julien Heriteau   |             71.57 |       12 |             81.42 | Kaveinga Finau           |             80 |
+|             71 | Giorgi Kveseladze |             93.36 |       13 |             99    | George North             |             18 |
+|             80 | Kaminieli Rasaku  |             72.63 |       14 |             28.35 | Adrien Lapegue-Lafaye    |             61 |
+|              9 | Julien Farnoux    |             95.75 |       15 |             65.55 | Mathias Colombet         |             80 |
+|             14 | Hugo Trouilloud   |             28.41 |       16 |             92.26 | Jimmy Gopperth           |             55 |
+|             25 | Johannes Jonker   |             32.04 |       17 |              5.82 | Tornike Jalagonia        |             76 |
+|             80 | Eli Eglaine       |             23.83 |       18 |             52.68 | Ned Hanigan              |             51 |
+|             63 | Pierce Phillips   |             77.82 |       19 |             91.86 | Guillaume Piazzoli       |             62 |
+|             66 | Ryno Pieterse     |             68.56 |       20 |             92.66 | Hayden Thompson-Stringer |             40 |
+|             66 | Ryno Pieterse     |             68.56 |       20 |             92.66 | Hayden Thompson-Stringer |              8 |
+|             66 | Ryno Pieterse     |             68.56 |       20 |             92.66 | Hayden Thompson-Stringer |             38 |
+|             80 | Lilian Rossi      |             69.6  |       21 |             49.05 | Eliott Yemsi             |             46 |
+|             79 | Mathis Baret      |            nan    |       22 |             41.61 | Kevin Viallard           |             80 |
+|             80 | Max Clement       |             72.69 |       23 |            nan    | nan                      |            nan |
 

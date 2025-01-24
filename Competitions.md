@@ -138,8 +138,6 @@ key: page-recents
 ## United Rugby Championship
 
 
-[2025](comp_files\United_Rugby_Championship_2025) - Prediction Accuracy: 0.0% 
-
 [2024](comp_files\United_Rugby_Championship_2024) - Prediction Accuracy: 75.4% 
 
 [2023](comp_files\United_Rugby_Championship_2023) - Prediction Accuracy: 76.7% 

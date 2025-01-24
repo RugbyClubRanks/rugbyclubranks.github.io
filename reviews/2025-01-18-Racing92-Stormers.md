@@ -11,7 +11,7 @@ categories: "European Rugby Champions Cup 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.597, which translates to predicting Racing 92 to win by 3.5.
 
-Our Over/Under is 56.5 - and combined with the spread above, we have a predicted scoreline of 27 to 30
+Our Over/Under is 59.5 - and combined with the spread above, we have a predicted scoreline of 28 to 31
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Racing 92 by 9.8
+## Prediction without Player Minutes: Racing 92 by 7.7
 
 
-Stormers by 1.2 on a neutral pitch
+Stormers by 3.3 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Stormers by 1.2 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player                       |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:----------------------------------|---------------:|
-|             53 | Sti Sithole          |             71.11 |        1 |             14.1  | Hassane Kolingar                  |             73 |
-|             80 | Joseph Dweba         |             75    |        2 |              6.56 | Feleti Kaitu'u                    |             73 |
-|             11 | Neethling Fouche     |             87.95 |        3 |             77.86 | Thomas Laclayat                   |             20 |
-|             24 | Salmaan Moerat       |             88.66 |        4 |             29.45 | Will Rowlands                     |             53 |
-|             15 | Ruben van Heerden    |             91.8  |        5 |             28.85 | Romain Taofifenua                 |             80 |
-|             36 | Willie Engelbrecht   |             79.66 |        6 |             26.32 | Ibrahim Diallo                    |             80 |
-|             36 | Marcel Theunissen    |             47.47 |        7 |             80.36 | Maxime Baudonne                   |             27 |
-|             24 | Evan Roos            |             90.91 |        8 |             89.83 | Hacjivah Dayimani                 |             80 |
-|             15 | Dewaldt Duvenage     |             84.96 |        9 |             77.36 | Nolann Le Garrec                  |             53 |
-|             27 | Jurie Matthee        |             25.84 |       10 |             98.89 | Owen Farrell                      |             80 |
-|             44 | Ben Loader           |             92.32 |       11 |             11.81 | Max Spring                        |              4 |
-|             69 | Jonathan Roche       |             63.03 |       12 |              4.91 | Dan Lancaster                     |             53 |
-|             24 | Wandisile Simelane   |             80.92 |       13 |             95.97 | Josua Tuisova                     |             53 |
-|             80 | Suleiman Hartzenberg |             78.15 |       14 |             43.5  | Vinaya Habosi                     |             80 |
-|             21 | Clayton Blommetjies  |             94.95 |       15 |             27.25 | Tristan Tedder                    |             53 |
-|             80 | Alistair Vermaak     |             88.63 |       16 |             74.96 | Guram Gogichashvili               |             80 |
-|             24 | Andre-Hugo Venter    |             59.57 |       17 |             73.23 | Diego Escobar Alvarez             |             80 |
-|             40 | Frans Malherbe       |             89.74 |       18 |             73.33 | Lee-Marvin Lofty Siyanda Mazibuko |             44 |
-|             80 | JD Schickerling      |              6.38 |       19 |             91.3  | Boris Palu                        |             80 |
-|             56 | Paul De Villiers     |             10.22 |       20 |             96.36 | Cameron Woki                      |             56 |
-|             52 | Dave Ewers           |             98.38 |       21 |             85.71 | Jordan Joseph                     |             65 |
-|             63 | Herschel Jantjies    |             91.67 |       22 |             94.88 | Antoine Gibert                    |             80 |
-|             80 | Jean-Luc du Plessis  |             64.01 |       23 |             99.89 | Henry Chavancy                    |             80 |
+|             80 | Sti Sithole          |             74.78 |        1 |             17.44 | Hassane Kolingar                  |             24 |
+|             28 | Joseph Dweba         |             71.58 |        2 |              4.86 | Feleti Kaitu'u                    |             80 |
+|             24 | Neethling Fouche     |             82.64 |        3 |             66.32 | Thomas Laclayat                   |             80 |
+|             60 | Salmaan Moerat       |             78.53 |        4 |             27.72 | Will Rowlands                     |             24 |
+|             80 | Ruben van Heerden    |             90.32 |        5 |             19.96 | Romain Taofifenua                 |             24 |
+|             40 | Willie Engelbrecht   |             76.19 |        6 |             22.58 | Ibrahim Diallo                    |             71 |
+|             44 | Marcel Theunissen    |             59.28 |        7 |             76.91 | Maxime Baudonne                   |             12 |
+|             36 | Evan Roos            |             88.36 |        8 |             89.44 | Hacjivah Dayimani                 |             15 |
+|             56 | Dewaldt Duvenage     |             85.4  |        9 |             77.74 | Nolann Le Garrec                  |              9 |
+|             80 | Jurie Matthee        |             30.4  |       10 |             98.9  | Owen Farrell                      |             28 |
+|             56 | Ben Loader           |             93.65 |       11 |              7.14 | Max Spring                        |             80 |
+|             24 | Jonathan Roche       |             65.82 |       12 |              3.76 | Dan Lancaster                     |             24 |
+|             25 | Wandisile Simelane   |             76.22 |       13 |             95.69 | Josua Tuisova                     |             56 |
+|             24 | Suleiman Hartzenberg |             79.96 |       14 |             49.85 | Vinaya Habosi                     |              7 |
+|              9 | Clayton Blommetjies  |             94.63 |       15 |             30.87 | Tristan Tedder                    |             20 |
+|              9 | Alistair Vermaak     |             87.74 |       16 |             74.01 | Guram Gogichashvili               |             18 |
+|             60 | Andre-Hugo Venter    |             57.37 |       17 |             72.84 | Diego Escobar Alvarez             |             27 |
+|             80 | Frans Malherbe       |             88.77 |       18 |             72.63 | Lee-Marvin Lofty Siyanda Mazibuko |             80 |
+|             80 | JD Schickerling      |              4.13 |       19 |             88.21 | Boris Palu                        |             80 |
+|             80 | Paul De Villiers     |             10.62 |       20 |             95.98 | Cameron Woki                      |             68 |
+|             24 | Dave Ewers           |             98.45 |       21 |             85.78 | Jordan Joseph                     |             73 |
+|             80 | Herschel Jantjies    |             92.15 |       22 |             94.05 | Antoine Gibert                    |             55 |
+|             80 | Jean-Luc du Plessis  |             58.3  |       23 |             99.89 | Henry Chavancy                    |             80 |
 

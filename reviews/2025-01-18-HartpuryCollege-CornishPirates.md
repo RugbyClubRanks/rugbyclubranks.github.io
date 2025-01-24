@@ -11,7 +11,7 @@ categories: "RFU Championship 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.587, which translates to predicting Hartpury College to win by 3.1.
 
-Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 23 to 26
+Our Over/Under is 54.5 - and combined with the spread above, we have a predicted scoreline of 26 to 29
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Cornish Pirates by 4.7
+## Prediction without Player Minutes: Hartpury College by 1.2
 
 
-Cornish Pirates by 8.8 on a neutral pitch
+Cornish Pirates by 3.1 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Cornish Pirates by 8.8 on a neutral pitch
 
 |   Away Minutes | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             77 | Billy Young       |             22.05 |        1 |             85.3  | Aristot Benz-Salomon  |             40 |
-|             33 | Harry Hocking     |             79.26 |        2 |             77.66 | Ethan Hunt            |             40 |
-|             36 | James French      |             75.9  |        3 |              0.85 | Joe Rees              |             12 |
-|             80 | Josh King         |             64.27 |        4 |             55.97 | Dale Lemon            |             55 |
-|             25 | Fintan Coleman    |             26.52 |        5 |             68.83 | Jack Rees Davies      |             80 |
-|             57 | Alex Everett      |             42.61 |        6 |             44.03 | Samuel Lewis          |              3 |
-|              1 | Tomiwa Agbongbon  |             11.13 |        7 |             78.34 | Harry Short           |             21 |
-|             74 | Hugh Bokenham     |             80.95 |        8 |             17.97 | Jarrad Hayler         |             21 |
-|             21 | Dan Hiscocks      |             77.9  |        9 |             79.89 | Michael Austin        |             80 |
-|             20 | Bruce Houston     |             87.31 |       10 |             81.29 | Harry Bazalgette      |              6 |
-|             80 | Robin Wedlake     |             79.82 |       11 |             69.39 | Oliver Holliday       |             80 |
-|             80 | Harry Yates       |             54.42 |       12 |             14.18 | Robbie Smith          |             40 |
-|              3 | Charlie McCaig    |             60.96 |       13 |             30.86 | Josiah Edwards-Giraud |             23 |
-|             77 | Arthur Relton     |             82.58 |       14 |             76.87 | Bradley Denty         |             40 |
-|             40 | Will Trewin       |             87.03 |       15 |             68.35 | Alex Morgan           |             12 |
-|             80 | Oisin Michel      |            nan    |       16 |            nan    | Alex Gibson           |             34 |
-|             23 | Ollie Andrews     |            nan    |       17 |             38.97 | Cameron Cobbett       |             80 |
-|              3 | Alfie Bell        |            nan    |       18 |            nan    | Rhys Price            |             28 |
-|             80 | Cam Jones         |             17.21 |       19 |             25.35 | William Crane         |             80 |
-|             80 | Joe Elderkin      |             56.16 |       20 |            nan    | Wilf McCarthy         |             55 |
-|             60 | Sol Moody         |             14.72 |       21 |             71.2  | James Gibbons         |             60 |
-|             57 | Chris Mills       |            nan    |       22 |             28.79 | Alex Forrester        |             25 |
-|             80 | Iwan Price-Thomas |             14.73 |       23 |            nan    | Ellis Hart            |             40 |
+|             80 | Billy Young       |             23.23 |        1 |             93.18 | Aristot Benz-Salomon  |             75 |
+|             77 | Harry Hocking     |             68.17 |        2 |             87.77 | Ethan Hunt            |             59 |
+|             80 | James French      |             54.32 |        3 |              2.25 | Joe Rees              |             80 |
+|             12 | Josh King         |             63.1  |        4 |             70.26 | Dale Lemon            |             80 |
+|             28 | Fintan Coleman    |             28.33 |        5 |             71.98 | Jack Rees Davies      |             68 |
+|             80 | Alex Everett      |             43.4  |        6 |             69.59 | Samuel Lewis          |             40 |
+|             10 | Tomiwa Agbongbon  |              5.98 |        7 |             86.49 | Harry Short           |             79 |
+|             80 | Hugh Bokenham     |             81.25 |        8 |             30.39 | Jarrad Hayler         |             19 |
+|             80 | Dan Hiscocks      |             67.52 |        9 |             81.57 | Michael Austin        |              8 |
+|             70 | Bruce Houston     |             90.75 |       10 |             88.55 | Harry Bazalgette      |             12 |
+|             80 | Robin Wedlake     |             81.33 |       11 |             66.67 | Oliver Holliday       |             14 |
+|             12 | Harry Yates       |             68.81 |       12 |             26.22 | Robbie Smith          |             80 |
+|              3 | Charlie McCaig    |             76.55 |       13 |             65.15 | Josiah Edwards-Giraud |             55 |
+|             12 | Arthur Relton     |             76.25 |       14 |             87.1  | Bradley Denty         |             72 |
+|              3 | Will Trewin       |             86.35 |       15 |             82.77 | Alex Morgan           |             80 |
+|             80 | Oisin Michel      |            nan    |       16 |            nan    | Alex Gibson           |             40 |
+|             52 | Ollie Andrews     |            nan    |       17 |             48.89 | Cameron Cobbett       |              5 |
+|             80 | Alfie Bell        |            nan    |       18 |            nan    | Rhys Price            |             52 |
+|             57 | Cam Jones         |             13.14 |       19 |             65.83 | William Crane         |             68 |
+|             80 | Joe Elderkin      |             55.53 |       20 |            nan    | Wilf McCarthy         |             77 |
+|              3 | Sol Moody         |             11.87 |       21 |             70.64 | James Gibbons         |             77 |
+|             80 | Chris Mills       |            nan    |       22 |             42.42 | Alex Forrester        |             80 |
+|             46 | Iwan Price-Thomas |             12.53 |       23 |            nan    | Ellis Hart            |             68 |
 

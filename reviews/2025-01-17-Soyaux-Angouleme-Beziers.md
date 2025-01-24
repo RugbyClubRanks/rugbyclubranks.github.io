@@ -11,7 +11,7 @@ categories: "Pro D2 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.565, which translates to predicting Soyaux-Angouleme to win by 2.3.
 
-Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 23 to 25
+Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 24 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Soyaux-Angouleme by 7.6
+## Prediction without Player Minutes: Soyaux-Angouleme by 7.0
 
 
-Soyaux-Angouleme by 2.0 on a neutral pitch
+Soyaux-Angouleme by 1.4 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Soyaux-Angouleme by 2.0 on a neutral pitch
 
 |   Away Minutes | Away Player                 |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:----------------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             80 | Francisco Fernandes Moreira |             12.56 |        1 |             44.53 | Vivien Devisme     |             51 |
-|              6 | Yanis Boulassel             |             50.35 |        2 |             89.89 | Patxi Bidart       |             14 |
-|             32 | Christian Judge             |             74.87 |        3 |             18.12 | Karl Sorin         |             21 |
-|             48 | Cam Dodson                  |             84.01 |        4 |             54.96 | Léo Morand-Bruyat  |             21 |
-|             32 | Shahn Eru                   |              0.91 |        5 |             72.57 | Maxence Lemardelet |             29 |
-|             25 | William van Bost            |             40.28 |        6 |              5.47 | Gautier Gibouin    |             29 |
-|             25 | Clement Ancely              |             89.47 |        7 |             81.28 | Germain Burgaud    |             21 |
-|             17 | Sias Koen                   |             62.55 |        8 |             43.29 | Alexander Masibaka |             80 |
-|             80 | Samuel Marques              |             89.31 |        9 |             32.79 | Alexis Levron      |             80 |
-|             80 | Charly Malie                |             56.79 |       10 |             90.87 | Ben Botica         |             14 |
-|             62 | Branden Holder              |             65.45 |       11 |             48.72 | Nathan Farissier   |             80 |
-|             80 | Taleta Tupuola              |             78.52 |       12 |             96.73 | George Tilsley     |             19 |
-|             63 | Paul Recor                  |             69.57 |       13 |             45.91 | Mathis Lafon       |             80 |
-|             59 | Pierre Courtaud             |             35.93 |       14 |              6.3  | Jonny May          |             55 |
-|             27 | Gabin Lorre                 |             89.23 |       15 |             89.67 | Pete Lydon         |             32 |
-|             17 | Yvann Lalevee               |             83.16 |       16 |             15.43 | Motu Matu'u        |             48 |
-|             80 | Damien Añon                 |             55.43 |       17 |             24.9  | Ian Kitwanga       |             55 |
-|             12 | Romain Uruty                |            nan    |       18 |             48.58 | Hubert Texier      |             80 |
-|             25 | Yannick Arroyo              |             85.04 |       19 |             47.44 | Yassine Boutemane  |             48 |
-|             59 | Yahnis El Maslouhi          |             72.05 |       20 |             62.91 | Paul Tailhades     |             68 |
-|             55 | Petero Taviraki Mailulu     |            nan    |       21 |              5.8  | Adrien Bau         |             80 |
-|             80 | Watisoni Votu               |             75.89 |       22 |             12.32 | Arthur Proult      |             80 |
-|             80 | Antoine Payrastre           |            nan    |       23 |             25.11 | Samuel Nollet      |             80 |
+|             33 | Francisco Fernandes Moreira |              6.74 |        1 |             33.33 | Vivien Devisme     |             80 |
+|             80 | Yanis Boulassel             |             67.81 |        2 |             89.03 | Patxi Bidart       |             62 |
+|             36 | Christian Judge             |             76.86 |        3 |             12.61 | Karl Sorin         |             80 |
+|             48 | Cam Dodson                  |             81.85 |        4 |             55.54 | Léo Morand-Bruyat  |             32 |
+|              6 | Shahn Eru                   |              0.71 |        5 |             62.4  | Maxence Lemardelet |             80 |
+|             32 | William van Bost            |             50.93 |        6 |              4.54 | Gautier Gibouin    |             32 |
+|             80 | Clement Ancely              |             92.68 |        7 |             80.31 | Germain Burgaud    |             80 |
+|             25 | Sias Koen                   |             67.89 |        8 |             47.84 | Alexander Masibaka |             80 |
+|             80 | Samuel Marques              |             89.96 |        9 |             24.45 | Alexis Levron      |             12 |
+|             55 | Charly Malie                |             51.98 |       10 |             92.07 | Ben Botica         |             27 |
+|             17 | Branden Holder              |             56.5  |       11 |             40.47 | Nathan Farissier   |             53 |
+|             63 | Taleta Tupuola              |             75.55 |       12 |             96.02 | George Tilsley     |             18 |
+|             80 | Paul Recor                  |             73.34 |       13 |             50.77 | Mathis Lafon       |             25 |
+|             55 | Pierre Courtaud             |             40.76 |       14 |              8.5  | Jonny May          |             68 |
+|             48 | Gabin Lorre                 |             90.38 |       15 |             86.13 | Pete Lydon         |             80 |
+|             55 | Yvann Lalevee               |             82.91 |       16 |             14.21 | Motu Matu'u        |             56 |
+|             21 | Damien Añon                 |             56.93 |       17 |             25.5  | Ian Kitwanga       |             60 |
+|             25 | Romain Uruty                |            nan    |       18 |             46.39 | Hubert Texier      |             53 |
+|             74 | Yannick Arroyo              |             84.72 |       19 |             47.93 | Yassine Boutemane  |             59 |
+|             48 | Yahnis El Maslouhi          |             69.08 |       20 |             68.57 | Paul Tailhades     |             80 |
+|             48 | Petero Taviraki Mailulu     |            nan    |       21 |              5.84 | Adrien Bau         |             14 |
+|             59 | Watisoni Votu               |             76.74 |       22 |              5.75 | Arthur Proult      |             80 |
+|             80 | Antoine Payrastre           |            nan    |       23 |             15.3  | Samuel Nollet      |             60 |
 
