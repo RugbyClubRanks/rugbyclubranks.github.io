@@ -11,7 +11,7 @@ categories: "Japan Rugby League One 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.835, which translates to predicting Yokohama Canon Eagles to win by 14.7.
 
-Our Over/Under is 64.5 - and combined with the spread above, we have a predicted scoreline of 25 to 39
+Our Over/Under is 61.5 - and combined with the spread above, we have a predicted scoreline of 24 to 38
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Yokohama Canon Eagles by 10.9
+## Prediction without Player Minutes: Yokohama Canon Eagles by 10.6
 
 
-Yokohama Canon Eagles by 6.7 on a neutral pitch
+Yokohama Canon Eagles by 6.5 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Yokohama Canon Eagles by 6.7 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             80 | Chang Ho Ahn        |             44.76 |        1 |             90.21 | Sioeli Vakalahi    |             25 |
-|             43 | Lee Seung Hyok      |              3.37 |        2 |             89.17 | Shunta Nakamura    |             40 |
-|             37 | Tomoaki Ishii       |             96.99 |        3 |             79.21 | Ryosuke Iwaihara   |             80 |
-|             11 | Walt Steenkamp      |             67.96 |        4 |             19.66 | Liaki Moli         |             17 |
-|             28 | Daniel Linde        |             15.27 |        5 |             72.85 | Matt Philip        |             14 |
-|             36 | Kyo Yoshida         |             64.41 |        6 |             57.53 | Billy Harmon       |             69 |
-|             66 | Timote Tavalea      |             19.11 |        7 |             76.44 | Naoto Shimada      |             80 |
-|             25 | Jackson Hemopo      |             57.3  |        8 |             97.64 | Amanaki Mafi       |             80 |
-|             37 | Kota Iwamura        |             73.51 |        9 |             96.58 | Faf de Klerk       |             58 |
-|             80 | Jack Stratton       |             89.18 |       10 |             90.73 | Yu Tamura          |             80 |
-|             43 | Satoshi Koizumi     |             65.32 |       11 |             49.57 | Masayoshi Takezawa |             63 |
-|             37 | Charlie Lawrence    |             90.84 |       12 |             97.74 | Yusuke Kajimura    |             55 |
-|             14 | Curtis Rona         |             77.59 |       13 |             98.38 | Jesse Kriel        |             17 |
-|             55 | Kurt-Lee Arendse    |             98.37 |       14 |             67.24 | Kippei Ishida      |             80 |
-|              5 | Kazuki Ishida       |             10.51 |       15 |             98.66 | Jumpei Ogura       |             44 |
-|             14 | Matt Vaega          |             38.69 |       16 |             95.29 | Viliame Takayawa   |             47 |
-|             56 | Rento Tsukayama     |             91.32 |       17 |             98.45 | Takato Okabe       |             14 |
-|             80 | Hayato Hosoda       |              6.79 |       18 |             16.15 | Tatsuro Sugimoto   |             80 |
-|             63 | Yuki Miyazato       |             30.91 |       19 |             89.88 | Yusuke Niwai       |             80 |
-|             26 | Shunsuke Sakamoto   |            nan    |       20 |             55.99 | Cormac Daly        |             80 |
-|             16 | Marino Mikaele-Tu'u |             15.45 |       21 |             79.83 | Sione Halasili     |             55 |
-|             25 | James Grayson       |             47.02 |       22 |             64.68 | Kafazumi Yamasuga  |             80 |
-|             56 | Riku Mishima        |            nan    |       23 |             30.71 | Ryo Tabata         |             66 |
+|             80 | Chang Ho Ahn        |             41.45 |        1 |             91.88 | Sioeli Vakalahi    |             80 |
+|             25 | Lee Seung Hyok      |              3.9  |        2 |             93.79 | Shunta Nakamura    |             80 |
+|             28 | Tomoaki Ishii       |             96.41 |        3 |             81.03 | Ryosuke Iwaihara   |             66 |
+|             80 | Walt Steenkamp      |             64.17 |        4 |             10.12 | Liaki Moli         |             63 |
+|             25 | Daniel Linde        |             18.22 |        5 |             56.07 | Matt Philip        |             25 |
+|             36 | Kyo Yoshida         |             60.12 |        6 |             69.53 | Billy Harmon       |             30 |
+|             40 | Timote Tavalea      |             19.74 |        7 |             76.92 | Naoto Shimada      |             80 |
+|             74 | Jackson Hemopo      |             44.16 |        8 |             98.27 | Amanaki Mafi       |             80 |
+|             30 | Kota Iwamura        |             71.38 |        9 |             95.83 | Faf de Klerk       |             14 |
+|             80 | Jack Stratton       |             89.98 |       10 |             86.86 | Yu Tamura          |             80 |
+|             16 | Satoshi Koizumi     |             73.82 |       11 |             52.56 | Masayoshi Takezawa |             43 |
+|             55 | Charlie Lawrence    |             91.71 |       12 |             97.6  | Yusuke Kajimura    |             25 |
+|             66 | Curtis Rona         |             75.25 |       13 |             99.02 | Jesse Kriel        |              6 |
+|             66 | Kurt-Lee Arendse    |             98.13 |       14 |             65.55 | Kippei Ishida      |             61 |
+|             80 | Kazuki Ishida       |              5.93 |       15 |             98.68 | Jumpei Ogura       |             35 |
+|             41 | Matt Vaega          |             37.73 |       16 |             96.95 | Viliame Takayawa   |             80 |
+|             80 | Rento Tsukayama     |             91.71 |       17 |             97.35 | Takato Okabe       |             80 |
+|              5 | Hayato Hosoda       |              7.18 |       18 |              7.26 | Tatsuro Sugimoto   |             44 |
+|             30 | Yuki Miyazato       |             29.96 |       19 |             87.06 | Yusuke Niwai       |             58 |
+|             69 | Shunsuke Sakamoto   |            nan    |       20 |             55.87 | Cormac Daly        |             33 |
+|             80 | Marino Mikaele-Tu'u |             14.72 |       21 |             87.45 | Sione Halasili     |             55 |
+|             80 | James Grayson       |             45.21 |       22 |             64.86 | Kafazumi Yamasuga  |             66 |
+|             48 | Riku Mishima        |            nan    |       23 |             30.43 | Ryo Tabata         |             80 |
 

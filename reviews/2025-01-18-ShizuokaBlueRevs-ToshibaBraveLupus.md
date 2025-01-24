@@ -11,7 +11,7 @@ categories: "Japan Rugby League One 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.349, which translates to predicting Toshiba Brave Lupus to win by 5.6.
 
-Our Over/Under is 64.5 - and combined with the spread above, we have a predicted scoreline of 35 to 30
+Our Over/Under is 66.5 - and combined with the spread above, we have a predicted scoreline of 36 to 30
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Toshiba Brave Lupus by 6.6
+## Prediction without Player Minutes: Toshiba Brave Lupus by 9.1
 
 
-Toshiba Brave Lupus by 10.7 on a neutral pitch
+Toshiba Brave Lupus by 13.3 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Toshiba Brave Lupus by 10.7 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player             |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:------------------------|---------------:|
-|             27 | Sena Kimura        |             86.17 |        1 |             63.06 | Kenta Yamashita         |             59 |
-|             80 | Mamoru Harada      |             73.53 |        2 |             98.4  | Takeshi Hino            |             80 |
-|             49 | Yuta Kokaji        |             89.09 |        3 |             34.54 | Bunkei Kaku             |             31 |
-|             66 | Jacob Pierce       |             98.5  |        4 |             95.11 | Yuya Odo                |             21 |
-|             80 | Warner Dearns      |             86.93 |        5 |             93.31 | Murray Douglas          |             80 |
-|             80 | Shannon Frizell    |             93.02 |        6 |             37.11 | Vueti Tupou             |             80 |
-|             80 | Takeshi Sasaki     |             84.02 |        7 |             93.73 | Kwagga Smith            |             80 |
-|             63 | Michael Leitch     |             93.56 |        8 |             42.06 | Malgene Ilaua           |             58 |
-|             80 | Yuhei Sugiyama     |             82.7  |        9 |             63.06 | Shuntaro Kitamura       |             49 |
-|             80 | Richie Mo'unga     |             99.56 |       10 |             66.89 | Kenta Iemura            |             80 |
-|             33 | Atsuki Kuwayama    |             83.96 |       11 |             85.88 | Malo Tuitama            |             80 |
-|             39 | Taichi Mano        |             76.4  |       12 |             79.31 | Viliami Tahitu'a        |             21 |
-|             35 | Seta Tamanivalu    |             96.88 |       13 |             93.86 | Charles Piutau          |             19 |
-|             22 | Jone Naikabula     |             66.86 |       14 |             68.78 | Valynce Te Whare-Crosby |             66 |
-|             31 | Takuro Matsunaga   |             92.39 |       15 |             66.44 | Futo Yamaguchi          |             49 |
-|             59 | Yuto Mori          |             64.07 |       16 |             58.08 | Sean Vete               |             80 |
-|             69 | Rob Thompson       |             35.45 |       17 |             57.51 | Sione Vuna              |             11 |
-|             11 | Masataka Mikami    |             82.04 |       18 |            nan    | Soma Okazaki            |             41 |
-|             66 | Daigo Hashimoto    |             63.59 |       19 |             59.94 | Damian Markus           |             14 |
-|             80 | Teruo Makabe       |             86.08 |       20 |            nan    | Kazuhiro Kawata         |             52 |
-|             59 | Yoshitaka Tokunaga |             27.1  |       21 |             82.14 | Eishin Kuwano           |             80 |
-|             61 | Shin Ito           |             82.91 |       22 |            nan    | Richmond Tongatama      |             17 |
-|            nan | nan                |            nan    |       23 |             45.95 | Kodai Okazaki           |             17 |
+|             80 | Sena Kimura        |             79.83 |        1 |             41.2  | Kenta Yamashita         |             61 |
+|             80 | Mamoru Harada      |             71.1  |        2 |             94.33 | Takeshi Hino            |             22 |
+|             63 | Yuta Kokaji        |             87.61 |        3 |             55.73 | Bunkei Kaku             |             58 |
+|             49 | Jacob Pierce       |             98.28 |        4 |             93.83 | Yuya Odo                |             31 |
+|             17 | Warner Dearns      |             88.97 |        5 |             90.38 | Murray Douglas          |             27 |
+|             11 | Shannon Frizell    |             93.12 |        6 |             26.62 | Vueti Tupou             |             31 |
+|             80 | Takeshi Sasaki     |             79.25 |        7 |             90.69 | Kwagga Smith            |             66 |
+|             31 | Michael Leitch     |             93.51 |        8 |             49.13 | Malgene Ilaua           |             80 |
+|             80 | Yuhei Sugiyama     |             79.35 |        9 |             55.07 | Shuntaro Kitamura       |             69 |
+|             47 | Richie Mo'unga     |             99.11 |       10 |             50.11 | Kenta Iemura            |             17 |
+|             63 | Atsuki Kuwayama    |             79.92 |       11 |             84.35 | Malo Tuitama            |             80 |
+|             55 | Taichi Mano        |             75.57 |       12 |             70.45 | Viliami Tahitu'a        |             49 |
+|             80 | Seta Tamanivalu    |             94.33 |       13 |             95.2  | Charles Piutau          |             49 |
+|             14 | Jone Naikabula     |             66.73 |       14 |             54.72 | Valynce Te Whare-Crosby |             80 |
+|             80 | Takuro Matsunaga   |             90.99 |       15 |             61.98 | Futo Yamaguchi          |             22 |
+|             17 | Yuto Mori          |             64.47 |       16 |             57.61 | Sean Vete               |             80 |
+|             80 | Rob Thompson       |             35.11 |       17 |             55.63 | Sione Vuna              |             11 |
+|             53 | Masataka Mikami    |             81.28 |       18 |            nan    | Soma Okazaki            |             11 |
+|             80 | Daigo Hashimoto    |             60.99 |       19 |             41.63 | Damian Markus           |             52 |
+|             17 | Teruo Makabe       |             85.56 |       20 |            nan    | Kazuhiro Kawata         |             80 |
+|             80 | Yoshitaka Tokunaga |             25.61 |       21 |             82.39 | Eishin Kuwano           |             39 |
+|             21 | Shin Ito           |             80.97 |       22 |            nan    | Richmond Tongatama      |             80 |
+|            nan | nan                |            nan    |       23 |             52.36 | Kodai Okazaki           |             14 |
 

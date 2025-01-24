@@ -11,7 +11,7 @@ categories: "European Rugby Challenge Cup 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.429, which translates to predicting Perpignan to win by 2.5.
 
-Our Over/Under is 37.5 - and combined with the spread above, we have a predicted scoreline of 20 to 18
+Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 25 to 22
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Perpignan by 0.1
+## Prediction without Player Minutes: Zebre by 1.4
 
 
-Perpignan by 6.4 on a neutral pitch
+Perpignan by 4.9 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,28 +69,28 @@ Perpignan by 6.4 on a neutral pitch
 
 |   Away Minutes | Away Player            |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:-----------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             76 | Bruce Devaux           |             27.15 |        1 |             72.16 | Luca Rizzoli          |             80 |
-|             28 | Victor Montgaillard    |              7.1  |        2 |             69.8  | Luca Bigi             |             36 |
-|             28 | Nemo Roelofse          |             79.73 |        3 |             45.45 | Juan Pitinari         |             35 |
-|             33 | Marvin Orie            |             90.72 |        4 |             40.62 | Rusiate Nasove        |             45 |
-|             12 | Mathieu Tanguy         |             72.36 |        5 |             90.82 | Matteo Canali         |             44 |
-|             33 | Noe Della Schiava      |             26.39 |        6 |              5.06 | Luca Andreani         |             59 |
-|             27 | Patrick Sobela         |             94.54 |        7 |              2.63 | Iacopo Bianchi        |             80 |
-|             80 | Alessandro Ortombina   |             59.66 |        8 |             21.89 | Giacomo Ferrari       |             80 |
-|             80 | Gela Aprasidze         |             50.81 |        9 |             13.51 | Thomas Dominguez      |             80 |
-|             80 | Jake McIntyre          |             91.39 |       10 |              3.53 | Giovanni Montemauri   |             80 |
-|             55 | Setareki Toganiyadrava |             57.44 |       11 |             80.21 | Scott Gregory         |             45 |
-|              7 | Apisai Naqalevu        |             64.76 |       12 |             56.14 | Damiano Mazza         |             80 |
-|             44 | Eneriko Buliruarua     |              7.65 |       13 |             12.39 | Fetuli Paea           |             59 |
-|             36 | Jefferson Joseph       |             60.33 |       14 |             15.18 | Jacopo Trulla         |              8 |
-|             62 | Antoine Aucagne        |             21.03 |       15 |             15.21 | Giacomo Da Re         |             80 |
-|             80 | Giorgi Beria           |             82.22 |       16 |            nan    | Paolo Buonfiglio      |             80 |
-|             80 | Akato Fakatika         |            nan    |       17 |             56.48 | Tommaso Di Bartolomeo |             21 |
-|             12 | Bastien Chinarro       |             37.03 |       18 |             20.96 | Muhamed Hasa          |             80 |
-|             21 | Lucas Bachelier        |             85.54 |       19 |              7.58 | Leonard Krumov        |             40 |
-|             18 | James Hall             |            nan    |       20 |             12.44 | Bautista Stavile      |             80 |
-|             80 | Job Poulet             |             52.16 |       21 |             27.9  | Giovanni Licata       |             51 |
-|             50 | Jean Pascal Barraque   |             20.91 |       22 |             22.52 | Gonzalo Garcia        |             29 |
-|             50 | Jean Pascal Barraque   |             20.91 |       22 |             22.52 | Gonzalo Garcia        |             80 |
-|            nan | nan                    |            nan    |       23 |            nan    | Alessandro Gesi       |             35 |
+|             33 | Bruce Devaux           |             26.41 |        1 |             73.5  | Luca Rizzoli          |             26 |
+|             33 | Victor Montgaillard    |              9.93 |        2 |             67.73 | Luca Bigi             |             62 |
+|             80 | Nemo Roelofse          |             87.44 |        3 |             41.03 | Juan Pitinari         |             40 |
+|             12 | Marvin Orie            |             89.78 |        4 |             59.11 | Rusiate Nasove        |             12 |
+|             80 | Mathieu Tanguy         |             76.82 |        5 |             92.31 | Matteo Canali         |             80 |
+|             47 | Noe Della Schiava      |             53.74 |        6 |              3.85 | Luca Andreani         |             80 |
+|             80 | Patrick Sobela         |             94.43 |        7 |              1.82 | Iacopo Bianchi        |             80 |
+|             45 | Alessandro Ortombina   |             39.18 |        8 |             42.42 | Giacomo Ferrari       |             35 |
+|             52 | Gela Aprasidze         |             43.48 |        9 |             11.78 | Thomas Dominguez      |             80 |
+|             80 | Jake McIntyre          |             91.76 |       10 |              3.56 | Giovanni Montemauri   |             80 |
+|             40 | Setareki Toganiyadrava |             59.35 |       11 |             75.59 | Scott Gregory         |             73 |
+|             61 | Apisai Naqalevu        |             68.59 |       12 |             57.14 | Damiano Mazza         |             62 |
+|             80 | Eneriko Buliruarua     |             11.23 |       13 |             15.27 | Fetuli Paea           |             18 |
+|             80 | Jefferson Joseph       |             66.04 |       14 |             12.11 | Jacopo Trulla         |             20 |
+|             29 | Antoine Aucagne        |             11.87 |       15 |             20    | Giacomo Da Re         |             17 |
+|             29 | Giorgi Beria           |             83.08 |       16 |            nan    | Paolo Buonfiglio      |             35 |
+|             80 | Akato Fakatika         |              6.75 |       17 |             55.85 | Tommaso Di Bartolomeo |             30 |
+|             61 | Bastien Chinarro       |             49.29 |       18 |             19.15 | Muhamed Hasa          |             80 |
+|              4 | Lucas Bachelier        |             84.21 |       19 |              4.05 | Leonard Krumov        |             61 |
+|             36 | James Hall             |             91.49 |       20 |             20.45 | Bautista Stavile      |             24 |
+|             21 | Job Poulet             |             54.31 |       21 |             14.5  | Giovanni Licata       |             80 |
+|             58 | Jean Pascal Barraque   |             20.17 |       22 |             75.91 | Gonzalo Garcia        |             33 |
+|             58 | Jean Pascal Barraque   |             20.17 |       22 |             75.91 | Gonzalo Garcia        |             80 |
+|            nan | nan                    |            nan    |       23 |            nan    | Alessandro Gesi       |             80 |
 

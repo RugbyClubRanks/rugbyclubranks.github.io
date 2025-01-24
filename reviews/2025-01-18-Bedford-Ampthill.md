@@ -11,7 +11,7 @@ categories: "RFU Championship 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.794, which translates to predicting Bedford to win by 11.9.
 
-Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 21 to 33
+Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 16 to 28
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Bedford by 8.2
+## Prediction without Player Minutes: Bedford by 5.7
 
 
-Bedford by 3.5 on a neutral pitch
+Bedford by 1.1 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -67,29 +67,29 @@ Bedford by 3.5 on a neutral pitch
 </p>
 
 
-|   Away Minutes | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
-|---------------:|:------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             80 | Sam Crean         |             61.51 |        1 |             64.95 | Jamie Jack           |             80 |
-|             30 | Samson Adejimi    |             21.49 |        2 |             52.22 | Tommy Herman         |             28 |
-|             24 | Harvey Beaton     |             26.63 |        3 |             68.64 | Oisin Heffernan      |             27 |
-|             16 | Kennedy Sylvester |             45.31 |        4 |             53.49 | Rory Ward            |             40 |
-|              6 | Kaden Pearce-Paul |             42.22 |        5 |             65.17 | Alex Woolford        |             16 |
-|             16 | Max Eke           |             44.89 |        6 |             46.81 | Luke Frost           |             19 |
-|             56 | Charles Rylands   |             37.01 |        7 |             59.35 | Fyn Brown            |             80 |
-|              6 | Lekima Ravuvu     |             38.63 |        8 |             49.36 | Fred Tuilagi         |             52 |
-|             28 | Charlie Bracken   |             23.78 |        9 |             47.57 | James Lennon         |             23 |
-|             28 | Louie Johnson     |             16.34 |       10 |             49.89 | Will Maisey          |             48 |
-|             53 | Brandon Jackson   |             25.55 |       11 |             50.82 | Dean Adamson         |             40 |
-|             52 | Fraser Strachan   |             13.47 |       12 |             52.26 | Joel Matavesi        |             49 |
-|             74 | Sam Spink         |             24.35 |       13 |             56.03 | Michaël Le Bourgeois |             66 |
-|             52 | Wilson Ijeh       |             34.01 |       14 |             80.6  | Matt Worley          |             80 |
-|             64 | Josh Barton       |             46.31 |       15 |             78.97 | Louis James          |             80 |
-|             80 | Luke Thompson     |            nan    |       16 |            nan    | Craig Wright         |             80 |
-|             80 | Harrison Courtney |            nan    |       17 |            nan    | Joey Conway          |             60 |
-|             61 | James Johnston    |            nan    |       18 |            nan    | Austin Hay           |             80 |
-|             52 | Arthur Thomas     |            nan    |       19 |            nan    | George Smith         |             36 |
-|             25 | Syd Blackmore     |            nan    |       20 |            nan    | Cameron King         |             80 |
-|             36 | Rory Morgan       |            nan    |       21 |            nan    | Joe Howard           |             74 |
-|              8 | Josh Hallett      |            nan    |       22 |            nan    | Alex Day             |             80 |
-|              0 | Mason Cullen      |            nan    |       23 |            nan    | Lucas Titherington   |             80 |
+|   Away Minutes | Away Player                 |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
+|---------------:|:----------------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
+|             49 | Sam Crean                   |             69.91 |        1 |             26.67 | Jamie Jack           |             55 |
+|             59 | Samson Adejimi              |              7.27 |        2 |             74.29 | Tommy Herman         |             55 |
+|             80 | Harvey Beaton               |             26.84 |        3 |             82.05 | Oisin Heffernan      |             80 |
+|             72 | Kennedy Sylvester           |             23.99 |        4 |             66.4  | Rory Ward            |             42 |
+|             60 | Kaden Pearce-Paul           |             31.38 |        5 |             73.48 | Alex Woolford        |             49 |
+|             28 | Max Eke                     |             17.51 |        6 |              7.49 | Luke Frost           |             31 |
+|             80 | Charles Rylands             |              9.31 |        7 |             22.57 | Fyn Brown            |             50 |
+|             80 | Lekima Ravuvu               |             16.23 |        8 |              9.74 | Freddie Tuilagi      |             18 |
+|             80 | Charlie Bracken             |             48.01 |        9 |             17.93 | James Lennon         |              9 |
+|             80 | Louie Johnson               |             13.14 |       10 |             88.86 | William Maisey       |             64 |
+|             80 | Brandon Jackson-Richards    |             45.37 |       11 |             81.69 | Dean Adamson         |             80 |
+|             61 | Fraser James Kevin Strachan |             77.97 |       12 |             10.8  | Josh Matavesi        |             50 |
+|             52 | Sam Spink                   |             34.13 |       13 |             78.84 | Michael Le Bourgeois |             80 |
+|             80 | Wilson Ijeh                 |             32.28 |       14 |             73.52 | Matt Worley          |              5 |
+|             74 | Josh Barton                 |             12.97 |       15 |             21.98 | Louis James          |             53 |
+|             80 | Luke Thompson               |             67.2  |       16 |             90.6  | Craig Wright         |             30 |
+|             80 | Josh Hallett                |             30.32 |       17 |              7.09 | Joe Howard           |             42 |
+|             80 | Harrison Courtney           |             55.64 |       18 |             90.04 | Alex Day             |             80 |
+|              6 | Sid Blackmore               |            nan    |       19 |             43.68 | Joey Conway          |             24 |
+|             19 | James Johnston              |             18.38 |       20 |              4.98 | Cameron King         |              8 |
+|             80 | Arthur Thomas               |             30.26 |       21 |             22.47 | George Smith         |              8 |
+|            nan | nan                         |            nan    |       22 |             54.96 | Lucas Titherington   |             80 |
+|            nan | nan                         |            nan    |       23 |            nan    | Austin Hay           |             44 |
 

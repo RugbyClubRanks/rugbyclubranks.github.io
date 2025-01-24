@@ -11,7 +11,7 @@ categories: "RFU Championship 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.314, which translates to predicting Nottingham to win by 6.9.
 
-Our Over/Under is 56.5 - and combined with the spread above, we have a predicted scoreline of 32 to 25
+Our Over/Under is 58.5 - and combined with the spread above, we have a predicted scoreline of 33 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Nottingham by 15.6
+## Prediction without Player Minutes: Nottingham by 12.8
 
 
-Nottingham by 18.3 on a neutral pitch
+Nottingham by 15.5 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -67,21 +67,29 @@ Nottingham by 18.3 on a neutral pitch
 </p>
 
 
-|   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player      |   Home Minutes |
-|---------------:|:-------------------|------------------:|---------:|------------------:|:-----------------|---------------:|
-|             20 | Kai Owen           |             37.8  |        1 |             22.94 | Monty Weatherby  |             80 |
-|             47 | Harry Clayton      |             87.57 |        2 |              4.97 | Oliver Hearn     |             80 |
-|             13 | Ale Loman          |             95.1  |        3 |              3.35 | Joe Sproston     |             80 |
-|             80 | Sebastien Ferreira |              4.29 |        4 |             72.55 | Alex Groves      |             80 |
-|             80 | Jack Shine         |             66.17 |        5 |             15.07 | Thomas Sanders   |             80 |
-|             80 | Kody Vereti        |             70.17 |        6 |              3.24 | Callum Ridgway   |             40 |
-|             80 | Nathan Tweedy      |             21.64 |        7 |             22.65 | Tristan Woodman  |             23 |
-|             80 | James Cherry       |             78.11 |        8 |              5.36 | Josiah Dickinson |             33 |
-|             80 | Josh Goodwin       |             16.58 |        9 |              9.55 | Ollie Wynn       |             20 |
-|             80 | Matthew Arden      |             86.31 |       10 |              3.31 | Lewis Barker     |             40 |
-|             80 | Ryan Olowofela     |             73.68 |       11 |              0.48 | Michael Cartmill |             23 |
-|            nan | nan                |            nan    |       12 |             88.47 | Sam Bedlow       |             57 |
-|            nan | nan                |            nan    |       13 |              6.36 | Connor Wilkinson |             80 |
-|            nan | nan                |            nan    |       14 |              4.8  | William Robinson |             28 |
-|            nan | nan                |            nan    |       15 |             16.78 | Matt Kilcourse   |             40 |
+|   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player      |   Home Minutes |
+|---------------:|:---------------------|------------------:|---------:|------------------:|:-----------------|---------------:|
+|             66 | Kai Owen             |             13.16 |        1 |             26.15 | Monty Weatherby  |             49 |
+|             80 | Harry Clayton        |             77.3  |        2 |              3.72 | Oliver Hearn     |             23 |
+|             25 | Ale Loman            |             88.97 |        3 |              2.39 | Joe Sproston     |             22 |
+|             34 | Sebastien Ferreira   |              2.23 |        4 |             75.4  | Alex Groves      |             80 |
+|             55 | Jack Shine           |             59.62 |        5 |             10.83 | Thomas Sanders   |             15 |
+|             59 | Kody Vereti          |             63.56 |        6 |              3.44 | Callum Ridgway   |             80 |
+|             52 | Nathan Tweedy        |             22.67 |        7 |             20.24 | Tristan Woodman  |             16 |
+|             66 | James Cherry         |             69.05 |        8 |              6.49 | Josiah Dickinson |             49 |
+|             28 | Josh Goodwin         |             18.48 |        9 |             15.76 | Ollie Wynn       |             49 |
+|             69 | Matthew Arden        |             77.95 |       10 |              3.12 | Lewis Barker     |             31 |
+|             57 | Ryan Olowofela       |             67.22 |       11 |              0.49 | Michael Cartmill |             80 |
+|             80 | Gwyn Parks           |              8.72 |       12 |             87.57 | Sam Bedlow       |             58 |
+|             22 | Kegan Christian-Goss |             57.69 |       13 |              5.67 | Connor Wilkinson |             66 |
+|             28 | David Williams       |             31.89 |       14 |              5.41 | William Robinson |              4 |
+|             52 | Jack Stapley         |              0.66 |       15 |             16.48 | Matt Kilcourse   |             48 |
+|             80 | Jack Dickinson       |             57.27 |       16 |              6.1  | Nick Royle       |             55 |
+|             80 | Dan Richardson       |             80.68 |       17 |              7.45 | Matt Gallagher   |             80 |
+|             24 | Aniseko Sio          |             82.82 |       18 |              6.92 | Nathan Rushton   |             23 |
+|             24 | Jay Ecclesfield      |             40.38 |       19 |             12.14 | Ryan Higginson   |             31 |
+|             80 | Toby Venner          |             84.06 |       20 |              3.54 | Sam Olyott       |             80 |
+|             28 | Jacob Wright         |             36.44 |       21 |              6.15 | Michael Barlow   |             80 |
+|              9 | Harry Graham         |             73.92 |       22 |            nan    | nan              |            nan |
+|             80 | Antonio TJ Harris    |             65.07 |       23 |            nan    | nan              |            nan |
 

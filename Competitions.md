@@ -20,7 +20,7 @@ key: page-recents
 ## Six Nations Championship
 
 
-[2024](comp_files\Six_Nations_Championship_2024) - Prediction Accuracy: 53.3% 
+[2024](comp_files\Six_Nations_Championship_2024) - Prediction Accuracy: 46.7% 
 
 [2023](comp_files\Six_Nations_Championship_2023) - Prediction Accuracy: 80.0% 
 
@@ -138,7 +138,9 @@ key: page-recents
 ## United Rugby Championship
 
 
-[2024](comp_files\United_Rugby_Championship_2024) - Prediction Accuracy: 69.4% 
+[2025](comp_files\United_Rugby_Championship_2025) - Prediction Accuracy: 0.0% 
+
+[2024](comp_files\United_Rugby_Championship_2024) - Prediction Accuracy: 75.4% 
 
 [2023](comp_files\United_Rugby_Championship_2023) - Prediction Accuracy: 76.7% 
 
@@ -174,7 +176,7 @@ key: page-recents
 ## Gallagher Premiership
 
 
-[2024](comp_files\Gallagher_Premiership_2024) - Prediction Accuracy: 62.7% 
+[2024](comp_files\Gallagher_Premiership_2024) - Prediction Accuracy: 68.0% 
 
 [2023](comp_files\Gallagher_Premiership_2023) - Prediction Accuracy: 64.0% 
 
@@ -186,7 +188,7 @@ key: page-recents
 ## Top 14 Orange
 
 
-[2024](comp_files\Top_14_Orange_2024) - Prediction Accuracy: 78.3% 
+[2024](comp_files\Top_14_Orange_2024) - Prediction Accuracy: 78.6% 
 
 [2023](comp_files\Top_14_Orange_2023) - Prediction Accuracy: 70.1% 
 
@@ -210,7 +212,7 @@ key: page-recents
 ## Major League Rugby
 
 
-[2024](comp_files\Major_League_Rugby_2024) - Prediction Accuracy: 63.8% 
+[2024](comp_files\Major_League_Rugby_2024) - Prediction Accuracy: 63.5% 
 
 [2023](comp_files\Major_League_Rugby_2023) - Prediction Accuracy: 71.3% 
 
@@ -222,7 +224,7 @@ key: page-recents
 ## Super Rugby Pacific
 
 
-[2024](comp_files\Super_Rugby_Pacific_2024) - Prediction Accuracy: 71.1% 
+[2024](comp_files\Super_Rugby_Pacific_2024) - Prediction Accuracy: 74.7% 
 
 [2023](comp_files\Super_Rugby_Pacific_2023) - Prediction Accuracy: 79.1% 
 
@@ -336,7 +338,7 @@ key: page-recents
 ## Nationale
 
 
-[2024](comp_files\Nationale_2024) - Prediction Accuracy: 73.5% 
+[2024](comp_files\Nationale_2024) - Prediction Accuracy: 72.6% 
 
 [2023](comp_files\Nationale_2023) - Prediction Accuracy: 74.9% 
 
@@ -348,7 +350,7 @@ key: page-recents
 ## Pro D2
 
 
-[2024](comp_files\Pro_D2_2024) - Prediction Accuracy: 67.6% 
+[2024](comp_files\Pro_D2_2024) - Prediction Accuracy: 66.9% 
 
 [2023](comp_files\Pro_D2_2023) - Prediction Accuracy: 74.3% 
 

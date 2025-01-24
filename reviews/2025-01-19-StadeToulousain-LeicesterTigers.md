@@ -11,7 +11,7 @@ categories: "European Rugby Champions Cup 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.79, which translates to predicting Stade Toulousain to win by 11.7.
 
-Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 16 to 28
+Our Over/Under is 59.5 - and combined with the spread above, we have a predicted scoreline of 24 to 36
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Stade Toulousain by 35.1
+## Prediction without Player Minutes: Stade Toulousain by 38.9
 
 
-Stade Toulousain by 22.4 on a neutral pitch
+Stade Toulousain by 26.1 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Stade Toulousain by 22.4 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             50 | Nicky Smith           |             75.26 |        1 |             24.91 | Rodrigue Neti        |             51 |
-|             62 | Julian Montoya        |             92.54 |        2 |             97.87 | Julien Marchand      |             19 |
-|             80 | Joe Heyes             |             90.89 |        3 |             91.84 | Dorian Aldegheri     |             61 |
-|             40 | Cameron Henderson     |             77.94 |        4 |             85.03 | Thibaud Flament      |             49 |
-|             80 | George Martin         |             93.71 |        5 |             63.97 | Emmanuel Meafou      |             80 |
-|             45 | Ollie Chessum         |             73.31 |        6 |             96.56 | Francois Cros        |             54 |
-|             73 | Tommy Reffell         |             69.06 |        7 |             97.17 | Jack Willis          |             16 |
-|             63 | Olly Cracknell        |             54.72 |        8 |             99.79 | Anthony Jelonch      |             80 |
-|             80 | Jack van Poortvliet   |             75.32 |        9 |             99.64 | Antoine Dupont       |             40 |
-|             80 | Handre Pollard        |             89.85 |       10 |             95.14 | Romain Ntamack       |             80 |
-|             26 | Ollie Hassell-Collins |             68.88 |       11 |             99.9  | Blair Kinghorn       |             80 |
-|             19 | Dan Kelly             |             78.66 |       12 |             93.32 | Pierre-Louis Barassi |             80 |
-|             20 | Izaia Perese          |             18.1  |       13 |             89.87 | Dimitri Delibes      |             80 |
-|             18 | Josh Bassett          |             86.65 |       14 |             97.89 | Ange Capuozzo        |              8 |
-|             18 | Freddie Steward       |              5.37 |       15 |             95.08 | Thomas Ramos         |             45 |
-|             67 | James Whitcombe       |             54.47 |       16 |             96.74 | Cyril Baille         |             24 |
-|             22 | Charlie Clare         |             20.78 |       17 |             91.3  | Peato Mauvaka        |             20 |
-|             80 | Will Hurd             |             65.29 |       18 |             85.4  | Joel Merkler         |             60 |
-|             26 | Harry Wells           |             84.23 |       19 |             91.41 | Joshua Brennan       |             40 |
-|             19 | Emeka Ilione          |             74.92 |       20 |             88.17 | Leo Banos            |             26 |
-|             58 | Tom Whiteley          |             49.01 |       21 |             98.68 | Juan Cruz Mallia     |             13 |
-|             30 | James Shillcock       |              8.61 |       22 |             98.75 | Matthis Lebel        |             80 |
-|             51 | Solomone Kata         |             15.62 |       23 |             20.9  | Paul Graou           |             61 |
+|             24 | Nicky Smith           |             60.09 |        1 |             29.06 | Rodrigue Neti        |             63 |
+|             54 | Julian Montoya        |             91.31 |        2 |             98.23 | Julien Marchand      |             45 |
+|             80 | Joe Heyes             |             83.42 |        3 |             93.5  | Dorian Aldegheri     |             80 |
+|             19 | Cameron Henderson     |             76.01 |        4 |             86.54 | Thibaud Flament      |             29 |
+|             13 | George Martin         |             93.12 |        5 |             70.55 | Emmanuel Meafou      |             26 |
+|             22 | Ollie Chessum         |             72.57 |        6 |             95.55 | Francois Cros        |             18 |
+|             19 | Tommy Reffell         |             59.72 |        7 |             97.27 | Jack Willis          |             54 |
+|             80 | Olly Cracknell        |             22.51 |        8 |            100    | Anthony Jelonch      |             18 |
+|             22 | Jack van Poortvliet   |             56.88 |        9 |             99.64 | Antoine Dupont       |             80 |
+|             40 | Handre Pollard        |             81.96 |       10 |             96.21 | Romain Ntamack       |             72 |
+|             19 | Ollie Hassell-Collins |             44    |       11 |             99.9  | Blair Kinghorn       |              8 |
+|             40 | Dan Kelly             |             74.37 |       12 |             95.42 | Pierre-Louis Barassi |             60 |
+|             80 | Izaia Perese          |             19.3  |       13 |             89.31 | Dimitri Delibes      |             36 |
+|             20 | Josh Bassett          |             77.46 |       14 |             97.64 | Ange Capuozzo        |             51 |
+|             26 | Freddie Steward       |              2.42 |       15 |             94.07 | Thomas Ramos         |             16 |
+|             80 | James Whitcombe       |             54.62 |       16 |             96.5  | Cyril Baille         |             80 |
+|             67 | Charlie Clare         |             22.7  |       17 |             91.49 | Peato Mauvaka        |             80 |
+|             80 | Will Hurd             |             65.81 |       18 |             81.54 | Joel Merkler         |             80 |
+|             67 | Harry Wells           |             84.92 |       19 |             88.77 | Joshua Brennan       |             64 |
+|             58 | Emeka Ilione          |             74.29 |       20 |             85.43 | Leo Banos            |             40 |
+|             13 | Tom Whiteley          |             47.83 |       21 |            100    | Juan Cruz Mallia     |             40 |
+|             18 | James Shillcock       |              8.46 |       22 |             99.02 | Matthis Lebel        |             56 |
+|             40 | Solomone Kata         |              6.32 |       23 |             19.57 | Paul Graou           |             80 |
 
