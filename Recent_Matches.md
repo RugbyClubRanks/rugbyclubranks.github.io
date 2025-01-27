@@ -10,159 +10,135 @@ key: page-recents
 
 [In depth model review and projections for Allianz Premier 15s 2024](comp_files/Allianz_Premier_15s_2024)
 
-Competition Accuracy: 44 of 54 (81.48%)
+Competition Accuracy: 46 of 58 (79.31%)
 
-Competition Error: 14.93 points per match
+Competition Error: 15.73 points per match
 
-Last Round Accuracy: 4 of 5 (80.0%)
+Last Round Accuracy: 3 of 5 (60.0%)
 
-Last Round Error: 14.15 points per match
+Last Round Error: 22.3 points per match
 
-[2025-01-18 Leicester Tigers Women at Bristol Bears Women; 29-43](reviews//2025-01-18-BristolBearsWomen-LeicesterTigersWomen)
+[2025-01-25 Saracens Women at Harlequins Women; 33-10](reviews//2025-01-25-HarlequinsWomen-SaracensWomen)
 
-[2025-01-18 Ealing Trailfinders Women at Gloucester-Hartpury Women; 31-33](reviews//2025-01-18-Gloucester-HartpuryWomen-EalingTrailfindersWomen)
+[2025-01-25 Bristol Bears Women at Ealing Trailfinders Women; 38-39](reviews//2025-01-25-EalingTrailfindersWomen-BristolBearsWomen)
 
-[2025-01-18 Harlequins Women at Sale Sharks Women; 43-10](reviews//2025-01-18-SaleSharksWomen-HarlequinsWomen)
+[2025-01-25 Loughborough Lightning at Leicester Tigers Women; 61-12](reviews//2025-01-25-LeicesterTigersWomen-LoughboroughLightning)
 
-[2025-01-19 Exeter Chiefs Women at Loughborough Lightning; 19-15](reviews//2025-01-19-LoughboroughLightning-ExeterChiefsWomen)
-## Division de Honor de Rugby
+[2025-01-26 Sale Sharks Women at Exeter Chiefs Women; 12-7](reviews//2025-01-26-ExeterChiefsWomen-SaleSharksWomen)
+## Gallagher Premiership
 
 
-[In depth model review and projections for Division de Honor de Rugby 2024](comp_files/Division_de_Honor_de_Rugby_2024)
+[In depth model review and projections for Gallagher Premiership 2024](comp_files/Gallagher_Premiership_2024)
 
-Competition Accuracy: 34 of 48 (70.83%)
+Competition Accuracy: 37 of 55 (67.27%)
 
-Competition Error: 10.64 points per match
+Competition Error: 12.93 points per match
 
-Last Round Accuracy: 4 of 6 (66.67%)
+Last Round Accuracy: 3 of 5 (60.0%)
 
-Last Round Error: 8.26 points per match
+Last Round Error: 5.71 points per match
 
-[2025-01-18 CRC Pozuelo Rugby at FC Barcelona; 29-30](reviews//2025-01-18-FCBarcelona-CRCPozueloRugby)
+[2025-01-24 Northampton Saints at Harlequins; 19-22](reviews//2025-01-24-Harlequins-NorthamptonSaints)
 
-[2025-01-18 UE Santboiana at Cisneros; 33-29](reviews//2025-01-18-Cisneros-UESantboiana)
+[2025-01-25 Leicester Tigers at Gloucester Rugby; 31-38](reviews//2025-01-25-GloucesterRugby-LeicesterTigers)
 
-[2025-01-19 C.R. La Vila at Les Abelles R.C.; 34-29](reviews//2025-01-19-LesAbellesR.C.-C.R.LaVila)
+[2025-01-25 Saracens at Exeter Chiefs; 22-31](reviews//2025-01-25-ExeterChiefs-Saracens)
 
-[2025-01-19 Alcobendas at Aparejadores Burgos; 25-32](reviews//2025-01-19-AparejadoresBurgos-Alcobendas)
+[2025-01-26 Newcastle Falcons at Bristol Rugby; 35-55](reviews//2025-01-26-BristolRugby-NewcastleFalcons)
 
-[2025-01-19 El Salvador at Ordizia; 33-28](reviews//2025-01-19-Ordizia-ElSalvador)
-
-[2025-01-19 Real Ciencias at VRAC; 7-36](reviews//2025-01-19-VRAC-RealCiencias)
-## European Rugby Challenge Cup
-
-
-[In depth model review and projections for European Rugby Challenge Cup 2024](comp_files/European_Rugby_Challenge_Cup_2024)
-
-Competition Accuracy: 31 of 36 (86.11%)
-
-Competition Error: 13.57 points per match
-
-Last Round Accuracy: 8 of 9 (88.89%)
-
-Last Round Error: 18.21 points per match
-
-[2025-01-17 Montpellier Herault at Newcastle Falcons; 26-7](reviews//2025-01-17-NewcastleFalcons-MontpellierHerault)
-
-[2025-01-17 Connacht at Cardiff Blues; 28-19](reviews//2025-01-17-CardiffBlues-Connacht)
-
-[2025-01-18 Ospreys at Pau; 31-28](reviews//2025-01-18-Pau-Ospreys)
-
-[2025-01-18 Cheetahs at Lyon; 21-68](reviews//2025-01-18-Lyon-Cheetahs)
-
-[2025-01-18 Dragons at Lions; 10-60](reviews//2025-01-18-Lions-Dragons)
-
-[2025-01-18 Vannes at Scarlets; 28-38](reviews//2025-01-18-Scarlets-Vannes)
-
-[2025-01-19 Black Lion at Edinburgh; 15-36](reviews//2025-01-19-Edinburgh-BlackLion)
-
-[2025-01-19 Gloucester Rugby at Bayonne; 17-55](reviews//2025-01-19-Bayonne-GloucesterRugby)
-
-[2025-01-19 Perpignan at Zebre; 39-21](reviews//2025-01-19-Zebre-Perpignan)
-## European Rugby Champions Cup
-
-
-[In depth model review and projections for European Rugby Champions Cup 2024](comp_files/European_Rugby_Champions_Cup_2024)
-
-Competition Accuracy: 37 of 48 (77.08%)
-
-Competition Error: 17.59 points per match
-
-Last Round Accuracy: 9 of 12 (75.0%)
-
-Last Round Error: 20.7 points per match
-
-[2025-01-17 Exeter Chiefs at Ulster; 24-52](reviews//2025-01-17-Ulster-ExeterChiefs)
-
-[2025-01-18 Bath Rugby at Leinster; 21-47](reviews//2025-01-18-Leinster-BathRugby)
-
-[2025-01-18 Stade Francais Paris at Bulls; 7-48](reviews//2025-01-18-Bulls-StadeFrancaisParis)
-
-[2025-01-18 Glasgow Warriors at Harlequins; 7-24](reviews//2025-01-18-Harlequins-GlasgowWarriors)
-
-[2025-01-18 Bristol Rugby at Clermont Auvergne; 26-33](reviews//2025-01-18-ClermontAuvergne-BristolRugby)
-
-[2025-01-18 Munster at Northampton Saints; 32-34](reviews//2025-01-18-NorthamptonSaints-Munster)
-
-[2025-01-18 Stormers at Racing 92; 22-31](reviews//2025-01-18-Racing92-Stormers)
-
-[2025-01-18 La Rochelle at Benetton Treviso; 25-32](reviews//2025-01-18-BenettonTreviso-LaRochelle)
-
-[2025-01-19 Castres Olympique at Saracens; 32-24](reviews//2025-01-19-Saracens-CastresOlympique)
-
-[2025-01-19 Leicester Tigers at Stade Toulousain; 12-80](reviews//2025-01-19-StadeToulousain-LeicesterTigers)
-
-[2025-01-19 Toulon at Sale Sharks; 7-33](reviews//2025-01-19-SaleSharks-Toulon)
-
-[2025-01-19 Sharks at Bordeaux Begles; 12-66](reviews//2025-01-19-BordeauxBegles-Sharks)
-## Japan Rugby League One
-
-
-[In depth model review and projections for Japan Rugby League One 2024](comp_files/Japan_Rugby_League_One_2024)
-
-Competition Accuracy: 23 of 30 (76.67%)
-
-Competition Error: 10.64 points per match
-
-Last Round Accuracy: 5 of 6 (83.33%)
-
-Last Round Error: 7.41 points per match
-
-[2025-01-18 Mitsubishi Dynaboars at Yokohama Canon Eagles; 21-47](reviews//2025-01-18-YokohamaCanonEagles-MitsubishiDynaboars)
-
-[2025-01-18 Toshiba Brave Lupus at Shizuoka Blue Revs; 28-34](reviews//2025-01-18-ShizuokaBlueRevs-ToshibaBraveLupus)
-
-[2025-01-18 Black Rams Tokyo at Kubota Spears; 18-26](reviews//2025-01-18-KubotaSpears-BlackRamsTokyo)
-
-[2025-01-19 Urayasu D-Rocks at Kobelco Kobe Steelers; 22-50](reviews//2025-01-19-KobelcoKobeSteelers-UrayasuD-Rocks)
-
-[2025-01-19 Tokyo Sungoliath at Mie Honda Heat; 27-19](reviews//2025-01-19-MieHondaHeat-TokyoSungoliath)
-
-[2025-01-19 Saitama Wild Knights at Toyota Verblitz; 38-22](reviews//2025-01-19-ToyotaVerblitz-SaitamaWildKnights)
+[2025-01-26 Bath Rugby at Sale Sharks; 32-23](reviews//2025-01-26-SaleSharks-BathRugby)
 ## RFU Championship
 
 
 [In depth model review and projections for RFU Championship 2024](comp_files/RFU_Championship_2024)
 
-Competition Accuracy: 45 of 65 (69.23%)
+Competition Accuracy: 46 of 69 (66.67%)
 
-Competition Error: 13.87 points per match
+Competition Error: 14.61 points per match
 
-Last Round Accuracy: 5 of 6 (83.33%)
+Last Round Accuracy: 3 of 6 (50.0%)
 
-Last Round Error: 13.36 points per match
+Last Round Error: 21.0 points per match
 
-[2025-01-17 Ealing Trailfinders at Chinnor; 28-8](reviews//2025-01-17-Chinnor-EalingTrailfinders)
+[2025-01-25 Caldy at Cambridge; 41-27](reviews//2025-01-25-Cambridge-Caldy)
 
-[2025-01-18 Ampthill at Bedford; 24-45](reviews//2025-01-18-Bedford-Ampthill)
+[2025-01-25 Cornish Pirates at Ealing Trailfinders; 29-84](reviews//2025-01-25-EalingTrailfinders-CornishPirates)
 
-[2025-01-18 London Scottish at Cambridge; 48-26](reviews//2025-01-18-Cambridge-LondonScottish)
+[2025-01-25 Hartpury College at London Scottish; 14-39](reviews//2025-01-25-LondonScottish-HartpuryCollege)
 
-[2025-01-18 Nottingham at Caldy; 22-27](reviews//2025-01-18-Caldy-Nottingham)
+[2025-01-25 Ampthill at Chinnor; 32-19](reviews//2025-01-25-Chinnor-Ampthill)
+## RFU Championship
 
-[2025-01-18 Cornish Pirates at Hartpury College; 10-34](reviews//2025-01-18-HartpuryCollege-CornishPirates)
 
-[2025-01-18 Doncaster at Coventry; 23-24](reviews//2025-01-18-Coventry-Doncaster)
+[In depth model review and projections for RFU Championship 2025](comp_files/RFU_Championship_2025)
+
+Competition Accuracy: 1 of 2 (50.0%)
+
+Competition Error: 12.97 points per match
+
+Last Round Accuracy: 1 of 2 (50.0%)
+
+Last Round Error: 12.97 points per match
+
+[2025-01-24 Doncaster at Nottingham; 18-43](reviews//2025-01-24-Nottingham-Doncaster)
+
+[2025-01-24 Coventry at Bedford; 23-27](reviews//2025-01-24-Bedford-Coventry)
+## Top 14 Orange
+
+
+[In depth model review and projections for Top 14 Orange 2024](comp_files/Top_14_Orange_2024)
+
+Competition Accuracy: 82 of 105 (78.1%)
+
+Competition Error: 10.44 points per match
+
+Last Round Accuracy: 5 of 7 (71.43%)
+
+Last Round Error: 7.8 points per match
+
+[2025-01-25 Stade Francais Paris at Vannes; 28-33](reviews//2025-01-25-Vannes-StadeFrancaisParis)
+
+[2025-01-25 Lyon at Bordeaux Begles; 22-20](reviews//2025-01-25-BordeauxBegles-Lyon)
+
+[2025-01-25 Castres Olympique at Racing 92; 27-20](reviews//2025-01-25-Racing92-CastresOlympique)
+
+[2025-01-25 Bayonne at Perpignan; 11-16](reviews//2025-01-25-Perpignan-Bayonne)
+
+[2025-01-25 Montpellier Herault at Stade Toulousain; 17-27](reviews//2025-01-25-StadeToulousain-MontpellierHerault)
+
+[2025-01-25 Clermont Auvergne at Pau; 14-20](reviews//2025-01-25-Pau-ClermontAuvergne)
+
+[2025-01-26 La Rochelle at Toulon; 26-45](reviews//2025-01-26-Toulon-LaRochelle)
+## United Rugby Championship
+
+
+[In depth model review and projections for United Rugby Championship 2024](comp_files/United_Rugby_Championship_2024)
+
+Competition Accuracy: 58 of 78 (74.36%)
+
+Competition Error: 10.53 points per match
+
+Last Round Accuracy: 5 of 8 (62.5%)
+
+Last Round Error: 15.46 points per match
+
+[2025-01-24 Connacht at Glasgow Warriors; 0-43](reviews//2025-01-24-GlasgowWarriors-Connacht)
+
+[2025-01-24 Benetton Treviso at Ospreys; 0-43](reviews//2025-01-24-Ospreys-BenettonTreviso)
+
+[2025-01-25 Munster at Dragons; 38-19](reviews//2025-01-25-Dragons-Munster)
+
+[2025-01-25 Edinburgh at Scarlets; 24-30](reviews//2025-01-25-Scarlets-Edinburgh)
+
+[2025-01-25 Bulls at Lions; 35-22](reviews//2025-01-25-Lions-Bulls)
+
+[2025-01-25 Sharks at Cardiff Blues; 42-22](reviews//2025-01-25-CardiffBlues-Sharks)
+
+[2025-01-25 Stormers at Leinster; 12-36](reviews//2025-01-25-Leinster-Stormers)
+
+[2025-01-26 Connacht at Glasgow Warriors; 19-22](reviews//2025-01-26-GlasgowWarriors-Connacht)
+
+[2025-01-26 Zebre at Ulster; 15-14](reviews//2025-01-26-Ulster-Zebre)
 # Domestic Leagues
 
 ## Japan Rugby League One D2
@@ -170,88 +146,80 @@ Last Round Error: 13.36 points per match
 
 [In depth model review and projections for Japan Rugby League One D2 2024](comp_files/Japan_Rugby_League_One_D2_2024)
 
-Competition Accuracy: 7 of 15 (46.67%)
+Competition Accuracy: 8 of 16 (50.0%)
 
-Competition Error: 18.32 points per match
+Competition Error: 17.86 points per match
 
-Last Round Accuracy: 2 of 4 (50.0%)
+Last Round Accuracy: 3 of 4 (75.0%)
 
-Last Round Error: 19.79 points per match
+Last Round Error: 17.37 points per match
 
-[2025-01-18 Shimizu Blue Sharks at Red Hurricanes Osaka; 19-38](reviews//2025-01-18-RedHurricanesOsaka-ShimizuBlueSharks)
-
-[2025-01-18 Kyuden Voltex at Hino Red Dolphins; 30-25](reviews//2025-01-18-HinoRedDolphins-KyudenVoltex)
-
-[2025-01-18 Green Rockets Tokatsu at Toyota Shuttles Aichi; 0-42](reviews//2025-01-18-ToyotaShuttlesAichi-GreenRocketsTokatsu)
+[2025-01-25 Hanazono Kintetsu Liners at Kamaishi Seawaves; 33-30](reviews//2025-01-25-KamaishiSeawaves-HanazonoKintetsuLiners)
 ## Japan Rugby League One D3
 
 
 [In depth model review and projections for Japan Rugby League One D3 2024](comp_files/Japan_Rugby_League_One_D3_2024)
 
-Competition Accuracy: 3 of 12 (25.0%)
+Competition Accuracy: 3 of 13 (23.08%)
 
-Competition Error: 50.53 points per match
+Competition Error: 53.27 points per match
 
 Last Round Accuracy: 0 of 3 (0.0%)
 
-Last Round Error: 65.63 points per match
+Last Round Error: 68.09 points per match
 
-[2025-01-19 Yakult Levins Toda at Skyactivs Hiroshima; 13-45](reviews//2025-01-19-SkyactivsHiroshima-YakultLevinsToda)
-
-[2025-01-19 Sayama Secom Rugguts at Chugoku Red Regulions; 54-15](reviews//2025-01-19-ChugokuRedRegulions-SayamaSecomRugguts)
-
-[2025-01-19 LeRiro Fukuoka at Kurita Water Gush; 26-64](reviews//2025-01-19-KuritaWaterGush-LeRiroFukuoka)
+[2025-01-25 Skyactivs Hiroshima at LeRiro Fukuoka; 66-5](reviews//2025-01-25-LeRiroFukuoka-SkyactivsHiroshima)
 ## Nationale
 
 
 [In depth model review and projections for Nationale 2024](comp_files/Nationale_2024)
 
-Competition Accuracy: 82 of 113 (72.57%)
+Competition Accuracy: 85 of 119 (71.43%)
 
-Competition Error: 10.05 points per match
+Competition Error: 10.06 points per match
 
 Last Round Accuracy: 6 of 7 (85.71%)
 
-Last Round Error: 13.95 points per match
+Last Round Error: 10.2 points per match
 
-[2025-01-17 Carcassonne at Tarbes; 24-19](reviews//2025-01-17-Tarbes-Carcassonne)
+[2025-01-24 Chambery at US Bressane; 32-5](reviews//2025-01-24-USBressane-Chambery)
 
-[2025-01-17 Suresnes at Albi; 19-21](reviews//2025-01-17-Albi-Suresnes)
+[2025-01-25 Bourgoin-Jallieu at Massy; 13-17](reviews//2025-01-25-Massy-Bourgoin-Jallieu)
 
-[2025-01-18 Narbonne at Rouen; 10-41](reviews//2025-01-18-Rouen-Narbonne)
+[2025-01-25 Marcq-en-Baroeul at Perigueux; 0-24](reviews//2025-01-25-Perigueux-Marcq-en-Baroeul)
 
-[2025-01-18 US Bressane at Carqueiranne-Hyeres; 25-0](reviews//2025-01-18-Carqueiranne-Hyeres-USBressane)
+[2025-01-25 Rouen at Suresnes; 16-6](reviews//2025-01-25-Suresnes-Rouen)
 
-[2025-01-18 Perigueux at Chambery; 7-28](reviews//2025-01-18-Chambery-Perigueux)
+[2025-01-25 Albi at Langon; 20-13](reviews//2025-01-25-Langon-Albi)
 
-[2025-01-18 Massy at Marcq-en-Baroeul; 31-24](reviews//2025-01-18-Marcq-en-Baroeul-Massy)
+[2025-01-25 Carqueiranne-Hyeres at Carcassonne; 0-25](reviews//2025-01-25-Carcassonne-Carqueiranne-Hyeres)
 
-[2025-01-18 Langon at Bourgoin-Jallieu; 8-33](reviews//2025-01-18-Bourgoin-Jallieu-Langon)
+[2025-01-25 Tarbes at Narbonne; 12-27](reviews//2025-01-25-Narbonne-Tarbes)
 ## Pro D2
 
 
 [In depth model review and projections for Pro D2 2024](comp_files/Pro_D2_2024)
 
-Competition Accuracy: 92 of 137 (67.15%)
+Competition Accuracy: 96 of 143 (67.13%)
 
-Competition Error: 10.34 points per match
+Competition Error: 10.57 points per match
 
 Last Round Accuracy: 5 of 8 (62.5%)
 
-Last Round Error: 11.49 points per match
-
-[2025-01-16 Biarritz Olympique at Agen; 26-39](reviews//2025-01-16-Agen-BiarritzOlympique)
-
-[2025-01-17 Beziers at Soyaux-Angouleme; 32-13](reviews//2025-01-17-Soyaux-Angouleme-Beziers)
-
-[2025-01-17 Valence Romans Drome Rugby at Montauban; 23-25](reviews//2025-01-17-Montauban-ValenceRomansDromeRugby)
-
-[2025-01-17 Grenoble at Provence Rugby; 18-24](reviews//2025-01-17-ProvenceRugby-Grenoble)
-
-[2025-01-17 Nevers at Brive; 23-22](reviews//2025-01-17-Brive-Nevers)
-
-[2025-01-17 Oyonnax at Nice; 33-15](reviews//2025-01-17-Nice-Oyonnax)
-
-[2025-01-17 Dax at Colomiers; 16-43](reviews//2025-01-17-Colomiers-Dax)
+Last Round Error: 13.59 points per match
 
 [2025-01-23 Brive at Oyonnax; 16-34](reviews//2025-01-23-Oyonnax-Brive)
+
+[2025-01-24 Biarritz Olympique at Grenoble; 17-33](reviews//2025-01-24-Grenoble-BiarritzOlympique)
+
+[2025-01-24 Colomiers at Beziers; 29-17](reviews//2025-01-24-Beziers-Colomiers)
+
+[2025-01-24 Agen at Nevers; 28-29](reviews//2025-01-24-Nevers-Agen)
+
+[2025-01-24 Montauban at Mont-de-Marsan; 33-21](reviews//2025-01-24-Mont-de-Marsan-Montauban)
+
+[2025-01-24 Provence Rugby at Aurillac; 17-26](reviews//2025-01-24-Aurillac-ProvenceRugby)
+
+[2025-01-24 Nice at Valence Romans Drome Rugby; 34-57](reviews//2025-01-24-ValenceRomansDromeRugby-Nice)
+
+[2025-01-24 Dax at Soyaux-Angouleme; 23-46](reviews//2025-01-24-Soyaux-Angouleme-Dax)
