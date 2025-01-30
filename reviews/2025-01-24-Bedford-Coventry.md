@@ -2,14 +2,14 @@
 layout: page  
 title: Coventry at Bedford; 23-27  
 date: 2025-01-24 18:00:00 -0500  
-categories: "RFU Championship 2025" match review  
+categories: "RFU Championship 24/25" match review  
 ---
 # Coventry at Bedford; 23-27
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.486, which translates to predicting Coventry to win by 0.5.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.483, which translates to predicting Coventry to win by 0.6.
 
 Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 25 to 25
 

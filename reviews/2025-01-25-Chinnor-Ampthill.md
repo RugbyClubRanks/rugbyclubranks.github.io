@@ -2,16 +2,16 @@
 layout: page  
 title: Ampthill at Chinnor; 32-19  
 date: 2025-01-25 18:00:00 -0500  
-categories: "RFU Championship 2024" match review  
+categories: "RFU Championship 24/25" match review  
 ---
 # Ampthill at Chinnor; 32-19
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.736, which translates to predicting Chinnor to win by 9.1.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.741, which translates to predicting Chinnor to win by 9.3.
 
-Our Over/Under is 58.5 - and combined with the spread above, we have a predicted scoreline of 25 to 34
+Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 22 to 31
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,20 +69,20 @@ Ampthill by 0.2 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player      |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:-----------------|---------------:|
-|              0 | Richard Barrington |             46.22 |        1 |             27.47 | Keston Lines     |             66 |
-|              0 | Luke Thompson      |             44.41 |        2 |             30.64 | Alun Walker      |             57 |
-|             31 | James Johnston     |             55.36 |        3 |             31.12 | Rob Hardwick     |             52 |
-|             80 | Arthur Thomas      |             64.48 |        4 |             20.63 | Scott Hall       |             56 |
-|             18 | Kennedy Sylvester  |             51.79 |        5 |             39.48 | Jonny Green      |              4 |
-|             31 | Barnaby Merrett    |             54.21 |        6 |             64.63 | Harry Dugmore    |              9 |
-|             26 | Charles Rylands    |             53.31 |        7 |             29.06 | George Stokes    |             61 |
-|             80 | Lekima Ravuvu      |             59.57 |        8 |             37.61 | Izzy Wharton     |              9 |
-|             77 | Rory Morgan        |             62.89 |        9 |             38.57 | Luke Carter      |             24 |
-|             80 | Josh Barton        |             62.06 |       10 |             18.42 | George Worboys   |             30 |
-|             80 | Oran Mcnulty       |             64.57 |       11 |             35.23 | Kieran Goss      |             44 |
-|             61 | Fraser Strachan    |             30.11 |       12 |             25.75 | Grant Hughes     |             80 |
-|             80 | Sione Va'Enuku     |             61.61 |       13 |             25.75 | Tom Watson       |             80 |
-|             46 | Mason Cullen       |             57.9  |       14 |             33.66 | Ryan Crowley     |             54 |
+|              0 | Richard Barrington |             46.47 |        1 |             27.43 | Keston Lines     |             66 |
+|              0 | Luke Thompson      |             44.23 |        2 |             30.12 | Alun Walker      |             57 |
+|             31 | James Johnston     |             55.28 |        3 |             31.01 | Rob Hardwick     |             52 |
+|             80 | Arthur Thomas      |             64.25 |        4 |             20.66 | Scott Hall       |             56 |
+|             18 | Kennedy Sylvester  |             51.54 |        5 |             39.32 | Jonny Green      |              4 |
+|             31 | Barnaby Merrett    |             54.41 |        6 |             64.43 | Harry Dugmore    |              9 |
+|             26 | Charles Rylands    |             53.51 |        7 |             28.96 | George Stokes    |             61 |
+|             80 | Lekima Ravuvu      |             59.44 |        8 |             37.74 | Izzy Wharton     |              9 |
+|             77 | Rory Morgan        |             63.14 |        9 |             38.87 | Luke Carter      |             24 |
+|             80 | Josh Barton        |             62.36 |       10 |             18.6  | George Worboys   |             30 |
+|             80 | Oran Mcnulty       |             64.57 |       11 |             35.24 | Kieran Goss      |             44 |
+|             61 | Fraser Strachan    |             29.68 |       12 |             25.43 | Grant Hughes     |             80 |
+|             80 | Sione Va'Enuku     |             61.83 |       13 |             25.43 | Tom Watson       |             80 |
+|             46 | Mason Cullen       |             57.97 |       14 |             33.66 | Ryan Crowley     |             54 |
 |             80 | Evan Mitchell      |             68.45 |       15 |             30.26 | Connor Slevin    |             52 |
 |             80 | James Isaacs       |            nan    |       16 |            nan    | Will Cave        |             49 |
 |              4 | Harrison Courtney  |            nan    |       17 |            nan    | Elliot Chilvers  |             62 |

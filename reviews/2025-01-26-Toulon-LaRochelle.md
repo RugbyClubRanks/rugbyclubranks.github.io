@@ -2,7 +2,7 @@
 layout: page  
 title: La Rochelle at Toulon; 26-45  
 date: 2025-01-26 18:00:00 -0500  
-categories: "Top 14 Orange 2024" match review  
+categories: "Top 14 Orange 24/25" match review  
 ---
 # La Rochelle at Toulon; 26-45
 
@@ -11,7 +11,7 @@ categories: "Top 14 Orange 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.625, which translates to predicting Toulon to win by 4.5.
 
-Our Over/Under is 37.5 - and combined with the spread above, we have a predicted scoreline of 16 to 21
+Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 22 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,26 +69,26 @@ Toulon by 1.3 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player            |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:-----------------------|---------------:|
-|             70 | Alexandre Kaddouri  |             42.26 |        1 |             92.52 | Dany Priso             |              0 |
-|             80 | Nika Sutidze        |             42.69 |        2 |             86.75 | Gianmarco Lucchesi     |              0 |
-|             80 | Aleksandre Kuntelia |             45.66 |        3 |             72.62 | Beka Gigashvili        |             80 |
-|             80 | Thomas Lavault      |             89.68 |        4 |             46.33 | Matthias Halagahu      |             80 |
-|             80 | Simon Huchet        |             44.44 |        5 |             86.31 | David Ribbans          |             80 |
-|             80 | Tyreese Leupolu     |             43.09 |        6 |             75.25 | Lewis Ludlam           |             73 |
-|             80 | Levani Botia        |             96.49 |        7 |             74.85 | Esteban Abadie         |              7 |
-|             21 | Matthias Haddad     |             57.61 |        8 |             85.22 | Facundo Isa            |             29 |
+|             70 | Alexandre Kaddouri  |             42.33 |        1 |             92.5  | Dany Priso             |              0 |
+|             80 | Nika Sutidze        |             42.51 |        2 |             86.75 | Gianmarco Lucchesi     |              0 |
+|             80 | Aleksandre Kuntelia |             45.91 |        3 |             72.74 | Beka Gigashvili        |             80 |
+|             80 | Thomas Lavault      |             89.57 |        4 |             45.78 | Matthias Halagahu      |             80 |
+|             80 | Simon Huchet        |             44.09 |        5 |             86.4  | David Ribbans          |             80 |
+|             80 | Tyreese Leupolu     |             43.09 |        6 |             75.35 | Lewis Ludlam           |             73 |
+|             80 | Levani Botia        |             96.49 |        7 |             74.95 | Esteban Abadie         |              7 |
+|             21 | Matthias Haddad     |             57.27 |        8 |             85.47 | Facundo Isa            |             29 |
 |             19 | Tawera Kerr-Barlow  |             97.99 |        9 |             98.54 | Baptiste Serin         |             36 |
-|             70 | Antoine Hastoy      |             65.57 |       10 |             83.11 | Paolo Garbisi          |             43 |
-|             69 | Hoani Bosmorin      |             43.96 |       11 |             92.54 | Gabin Villiere         |              6 |
-|             71 | Jules Favre         |             89.57 |       12 |             47.96 | Jeremy Sinzelle        |              7 |
-|             73 | Ulupano Seuteni     |             79.14 |       13 |             90.97 | Leicester Fainga'anuku |             80 |
-|             80 | Jack Nowell         |             95.98 |       14 |             24.63 | Gael Drean             |             80 |
+|             70 | Antoine Hastoy      |             65.65 |       10 |             82.71 | Paolo Garbisi          |             43 |
+|             69 | Hoani Bosmorin      |             43.6  |       11 |             92.52 | Gabin Villiere         |              6 |
+|             71 | Jules Favre         |             89.68 |       12 |             48.17 | Jeremy Sinzelle        |              7 |
+|             73 | Ulupano Seuteni     |             79.35 |       13 |             91.08 | Leicester Fainga'anuku |             80 |
+|             80 | Jack Nowell         |             95.96 |       14 |             24.9  | Gael Drean             |             80 |
 |             10 | Dillyn Leyds        |             97.21 |       15 |             57.94 | Marius Domon           |             70 |
-|             21 | Quentin Lespiaucq   |             67.47 |       16 |             88.12 | Mickael Ivaldi         |             21 |
-|            nan | nan                 |            nan    |       18 |             75.4  | Swan Rebbadj           |             80 |
-|            nan | nan                 |            nan    |       19 |             75.35 | Matteo Le Corvec       |             59 |
+|             21 | Quentin Lespiaucq   |             67.13 |       16 |             88.12 | Mickael Ivaldi         |             21 |
+|            nan | nan                 |            nan    |       18 |             75.17 | Swan Rebbadj           |             80 |
+|            nan | nan                 |            nan    |       19 |             75.45 | Matteo Le Corvec       |             59 |
 |            nan | nan                 |            nan    |       20 |             97.42 | Antoine Frisch         |             70 |
-|            nan | nan                 |            nan    |       21 |             89.58 | Ben White              |             80 |
-|            nan | nan                 |            nan    |       22 |             81.8  | Enzo Herve             |             80 |
-|            nan | nan                 |            nan    |       23 |             95.15 | Emerick Setiano        |             61 |
+|            nan | nan                 |            nan    |       21 |             89.6  | Ben White              |             80 |
+|            nan | nan                 |            nan    |       22 |             81.62 | Enzo Herve             |             80 |
+|            nan | nan                 |            nan    |       23 |             95.14 | Emerick Setiano        |             61 |
 

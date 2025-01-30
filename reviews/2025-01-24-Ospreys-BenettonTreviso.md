@@ -2,14 +2,14 @@
 layout: page  
 title: Benetton Treviso at Ospreys; 0-43  
 date: 2025-01-24 18:00:00 -0500  
-categories: "United Rugby Championship 2024" match review  
+categories: "United Rugby Championship 24/25" match review  
 ---
 # Benetton Treviso at Ospreys; 0-43
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.606, which translates to predicting Ospreys to win by 3.8.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.604, which translates to predicting Ospreys to win by 3.7.
 
 Our Over/Under is 41.5 - and combined with the spread above, we have a predicted scoreline of 19 to 23
 

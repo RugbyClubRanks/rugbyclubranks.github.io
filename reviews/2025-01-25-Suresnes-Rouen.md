@@ -2,7 +2,7 @@
 layout: page  
 title: Rouen at Suresnes; 16-6  
 date: 2025-01-25 18:00:00 -0500  
-categories: "Nationale 2024" match review  
+categories: "Nationale 24/25" match review  
 ---
 # Rouen at Suresnes; 16-6
 

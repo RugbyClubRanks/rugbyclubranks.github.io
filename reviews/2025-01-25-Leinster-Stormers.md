@@ -2,7 +2,7 @@
 layout: page  
 title: Stormers at Leinster; 12-36  
 date: 2025-01-25 18:00:00 -0500  
-categories: "United Rugby Championship 2024" match review  
+categories: "United Rugby Championship 24/25" match review  
 ---
 # Stormers at Leinster; 12-36
 
@@ -11,7 +11,7 @@ categories: "United Rugby Championship 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.841, which translates to predicting Leinster to win by 14.7.
 
-Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 18 to 33
+Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 18 to 32
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Leinster by 4.1 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player     |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:----------------|---------------:|
-|           37   | Alistair Vermaak   |             84.27 |        1 |             52.72 | Jack Boyle      |           55   |
-|            0   | Joseph Dweba       |             71.43 |        2 |             55.94 | Dan Sheehan     |           27   |
-|            8   | Neethling Fouche   |             84.95 |        3 |             81.12 | Rabah Slimani   |           60   |
-|           80   | JD Schickerling    |              3.77 |        4 |             99.9  | RG Snyman       |           60   |
-|           62   | Ruben van Heerden  |             89.09 |        5 |             64.38 | Brian Deeny     |           80   |
-|           80   | Deon Fourie        |             93.99 |        6 |             46.79 | Alex Soroka     |           27   |
-|           50   | Ben-Jason Dixon    |             67.03 |        7 |             88.88 | Scott Penny     |           68   |
-|           38   | Evan Roos          |             86.09 |        8 |             93.91 | Max Deegan      |           19   |
-|            5   | Paul de Wet        |             81.9  |        9 |             98.72 | Luke McGrath    |           18   |
-|           27   | Manie Libbok       |             85.75 |       10 |             94.3  | Ross Byrne      |           30   |
-|           80   | Leolin Zas         |             84.3  |       11 |            100    | James Lowe      |           80   |
-|           49   | Jonathan Roche     |             53.01 |       12 |             93.55 | Jordie Barrett  |           59   |
-|           53   | Ruhan Nel          |             56.13 |       13 |             48.71 | Liam Turner     |           40   |
-|           53   | Ben Loader         |             90.28 |       14 |             52.99 | Andrew Osborne  |           80   |
+|           37   | Alistair Vermaak   |             84.33 |        1 |             52.73 | Jack Boyle      |           55   |
+|            0   | Joseph Dweba       |             71.43 |        2 |             55.77 | Dan Sheehan     |           27   |
+|            8   | Neethling Fouche   |             85.01 |        3 |             81.26 | Rabah Slimani   |           60   |
+|           80   | JD Schickerling    |              3.67 |        4 |             99.9  | RG Snyman       |           60   |
+|           62   | Ruben van Heerden  |             88.98 |        5 |             64.15 | Brian Deeny     |           80   |
+|           80   | Deon Fourie        |             93.99 |        6 |             46.89 | Alex Soroka     |           27   |
+|           50   | Ben-Jason Dixon    |             66.83 |        7 |             88.88 | Scott Penny     |           68   |
+|           38   | Evan Roos          |             86.33 |        8 |             93.93 | Max Deegan      |           19   |
+|            5   | Paul de Wet        |             81.75 |        9 |             98.72 | Luke McGrath    |           18   |
+|           27   | Manie Libbok       |             85.56 |       10 |             94.31 | Ross Byrne      |           30   |
+|           80   | Leolin Zas         |             84.25 |       11 |            100    | James Lowe      |           80   |
+|           49   | Jonathan Roche     |             53.12 |       12 |             93.66 | Jordie Barrett  |           59   |
+|           53   | Ruhan Nel          |             56.24 |       13 |             48.92 | Liam Turner     |           40   |
+|           53   | Ben Loader         |             90.26 |       14 |             53.05 | Andrew Osborne  |           80   |
 |           80   | Warrick Gelant     |             99.14 |       15 |             43.99 | Henry McErlean  |           16   |
-|           64   | Andre-Hugo Venter  |             75.39 |       16 |             73.32 | John McKee      |           60   |
-|           80   | Sti Sithole        |             92.35 |       17 |            nan    | Paddy Mccarthy  |           16   |
+|           64   | Andre-Hugo Venter  |             75.39 |       16 |             73.15 | John McKee      |           60   |
+|           80   | Sti Sithole        |             92.33 |       17 |            nan    | Paddy Mccarthy  |           16   |
 |           18   | Brok Harris        |             99.91 |       18 |            nan    | Rory Mcguire    |           15   |
-|            4   | Salmaan Moerat     |             77.78 |       19 |             34.57 | Diarmuid Mangan |           59   |
-|           29.5 | Marcel Theunissen  |             43.39 |       20 |            nan    | James Culhane   |            9.5 |
-|           25   | Paul De Villiers   |            nan    |       21 |             84.97 | Will Connors    |           27   |
-|            0   | Herschel Jantjies  |             93.24 |       22 |             60.15 | Cormac Foley    |           40   |
-|           80   | Wandisile Simelane |             70.75 |       23 |             36.56 | Charlie Tector  |           11   |
+|            4   | Salmaan Moerat     |             77.56 |       19 |             34.27 | Diarmuid Mangan |           59   |
+|           29.5 | Marcel Theunissen  |             43.29 |       20 |            nan    | James Culhane   |            9.5 |
+|           25   | Paul De Villiers   |            nan    |       21 |             84.77 | Will Connors    |           27   |
+|            0   | Herschel Jantjies  |             93.25 |       22 |             60.4  | Cormac Foley    |           40   |
+|           80   | Wandisile Simelane |             70.97 |       23 |             36.56 | Charlie Tector  |           11   |
 

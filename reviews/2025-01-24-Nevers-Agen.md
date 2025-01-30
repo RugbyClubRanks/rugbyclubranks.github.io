@@ -2,7 +2,7 @@
 layout: page  
 title: Agen at Nevers; 28-29  
 date: 2025-01-24 18:00:00 -0500  
-categories: "Pro D2 2024" match review  
+categories: "Pro D2 24/25" match review  
 ---
 # Agen at Nevers; 28-29
 
@@ -11,7 +11,7 @@ categories: "Pro D2 2024" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.615, which translates to predicting Nevers to win by 4.1.
 
-Our Over/Under is 42.5 - and combined with the spread above, we have a predicted scoreline of 19 to 23
+Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 20 to 24
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Agen by 0.3 on a neutral pitch
 
 |   Away Minutes | Away Player             |   Away Percentile |   Number |   Home Percentile | Home Player      |   Home Minutes |
 |---------------:|:------------------------|------------------:|---------:|------------------:|:-----------------|---------------:|
-|             80 | Florent Guion           |             57.06 |        1 |             48.72 | Aitor Kitutu     |             28 |
-|             18 | Santiago Socino         |             83.13 |        2 |             37.35 | Efi Ma'Afu       |             61 |
-|             30 | Alex Burin              |             50.77 |        3 |             63.01 | Farai Mudariki   |             37 |
-|             32 | Vincent Farré           |             50.4  |        4 |             40.67 | Ugo Vignolles    |             32 |
-|             80 | John Madigan            |             56.55 |        5 |             48.61 | Chris Gabriel    |             47 |
-|             18 | Evan Olmstead           |             47.7  |        6 |             59.72 | Luka Plataret    |             51 |
-|             80 | Tomasi Fineanganofo (2) |             55.61 |        7 |             39.48 | Hugues Bastide   |             56 |
-|             80 | Valentin Gayraud        |             51.74 |        8 |             52.61 | Jason Fraser     |             45 |
-|             64 | Théo Idjellidaine       |             52.65 |        9 |             44.97 | Hugo Bouyssou    |             80 |
-|             40 | Billy Searle            |             47.15 |       10 |             55.7  | Shaun Reynolds   |             49 |
-|             36 | Lucas Martins           |             51.62 |       11 |             37.29 | Arthur Mathiron  |             80 |
-|             20 | Kolinio Ramoka          |             46.13 |       12 |             56.99 | Noa Pommelet     |             49 |
-|             30 | Clément Garrigues       |             47.42 |       13 |             38.6  | Rudy Derrieux    |             54 |
-|             23 | Thibaud Mazzoléni       |             49.17 |       14 |             51.32 | Johan Wasserman  |             30 |
+|             80 | Florent Guion           |             56.98 |        1 |             48.98 | Aitor Kitutu     |             28 |
+|             18 | Santiago Socino         |             82.96 |        2 |             37.18 | Efi Ma'Afu       |             61 |
+|             30 | Alex Burin              |             50.77 |        3 |             62.78 | Farai Mudariki   |             37 |
+|             32 | Vincent Farré           |             50.15 |        4 |             40.52 | Ugo Vignolles    |             32 |
+|             80 | John Madigan            |             56.31 |        5 |             48.36 | Chris Gabriel    |             47 |
+|             18 | Evan Olmstead           |             47.9  |        6 |             59.62 | Luka Plataret    |             51 |
+|             80 | Tomasi Fineanganofo (2) |             55.71 |        7 |             39.18 | Hugues Bastide   |             56 |
+|             80 | Valentin Gayraud        |             51.63 |        8 |             52.49 | Jason Fraser     |             45 |
+|             64 | Théo Idjellidaine       |             52.92 |        9 |             45.26 | Hugo Bouyssou    |             80 |
+|             40 | Billy Searle            |             47.05 |       10 |             55.8  | Shaun Reynolds   |             49 |
+|             36 | Lucas Martins           |             51.57 |       11 |             37.4  | Arthur Mathiron  |             80 |
+|             20 | Kolinio Ramoka          |             46.34 |       12 |             57.1  | Noa Pommelet     |             49 |
+|             30 | Clément Garrigues       |             47.63 |       13 |             38.6  | Rudy Derrieux    |             54 |
+|             23 | Thibaud Mazzoléni       |             48.92 |       14 |             51.18 | Johan Wasserman  |             30 |
 |             23 | Loris Tolot             |             44.64 |       15 |             56.22 | Perry Mayo       |             48 |
-|              0 | Hayam El Bibouji        |            nan    |       16 |             65.23 | Stefan Buruiana  |             80 |
+|              0 | Hayam El Bibouji        |            nan    |       16 |             64.89 | Stefan Buruiana  |             80 |
 |             70 | Mamuka Mstoiani         |            nan    |       17 |            nan    | Kamaliele Tufele |             80 |
 |             57 | Javier Eissmann         |              2.38 |       18 |            nan    | Kévin Noah       |             80 |
 |             48 | Mathieu De Giovanni     |            nan    |       19 |            nan    | Steven David     |             80 |
 |             50 | Andrea Lucchini         |            nan    |       20 |            nan    | Simon Tarel      |             80 |
-|             62 | Émile Dayral            |            nan    |       21 |             58.33 | Yohan Le Bourhis |             80 |
+|             62 | Émile Dayral            |            nan    |       21 |             58.21 | Yohan Le Bourhis |             80 |
 |             50 | Iban Etcheverry         |            nan    |       22 |            nan    | Nicolas Ragoevi  |             80 |
-|             54 | Lasha Macharashvili     |             31.55 |       23 |            nan    | Cleopas Kundiona |             54 |
+|             54 | Lasha Macharashvili     |             31.43 |       23 |            nan    | Cleopas Kundiona |             54 |
 
