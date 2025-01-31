@@ -69,27 +69,27 @@ Edinburgh by 2.4 on a neutral pitch
 
 |   Away Minutes | Away Player      |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:-----------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             80 | Boan Venter      |             72.4  |        1 |             91.65 | Alec Hepburn         |           30   |
-|             43 | Patrick Harrison |             18.42 |        2 |             93.8  | Marnus van der Merwe |           80   |
-|             80 | Paul Hill        |             99.4  |        3 |             41.57 | Archer Holz          |           53   |
-|             69 | Glen Young       |              3.97 |        4 |             76.76 | Alex Craig           |           80   |
-|             71 | Sam Skinner      |             93.15 |        5 |             77.76 | Sam Lousi            |            9.5 |
-|             80 | Liam Mcconnell   |             52.61 |        6 |             85.27 | Max Douglas          |           38   |
-|              0 | Hamish Watson    |             76.55 |        7 |             57.52 | Josh MacLeod         |           80   |
-|              0 | Tom Dodd         |             62.47 |        8 |             96.1  | Vaea Fifita          |           80   |
-|              9 | Ali Price        |             91.61 |        9 |             32.85 | Gareth Davies        |           26   |
-|             80 | Ben Healy        |             77.68 |       10 |             34.57 | Ioan Lloyd           |           28   |
-|             21 | Lewis Wells      |             49.61 |       11 |             85.63 | Steffan Evans        |           80   |
-|             17 | James Lang       |             74.73 |       12 |             88.92 | Johnny Williams      |           80   |
-|             37 | Matt Currie      |             82.9  |       13 |             28.82 | Macs Page            |           63   |
-|             16 | Harry Paterson   |             21.26 |       14 |             44.69 | Jac Davies           |           20   |
-|             42 | Wes Goosen       |             86.48 |       15 |             15.24 | Ioan Nicholas        |           12   |
-|             69 | Harri Morris     |            nan    |       16 |              8.26 | Shaun Evans          |           80   |
+|             80 | Boan Venter      |             72.49 |        1 |             91.65 | Alec Hepburn         |           30   |
+|             43 | Patrick Harrison |             18.38 |        2 |             93.81 | Marnus van der Merwe |           80   |
+|             80 | Paul Hill        |             99.4  |        3 |             41.48 | Archer Holz          |           53   |
+|             69 | Glen Young       |              3.88 |        4 |             76.92 | Alex Craig           |           80   |
+|             71 | Sam Skinner      |             93.13 |        5 |             78.01 | Sam Lousi            |            9.5 |
+|             80 | Liam Mcconnell   |             51.95 |        6 |             85.11 | Max Douglas          |           38   |
+|              0 | Hamish Watson    |             76.32 |        7 |             57.24 | Josh MacLeod         |           80   |
+|              0 | Tom Dodd         |             62.91 |        8 |             96.31 | Vaea Fifita          |           80   |
+|              9 | Ali Price        |             91.77 |        9 |             33.09 | Gareth Davies        |           26   |
+|             80 | Ben Healy        |             77.63 |       10 |             34.43 | Ioan Lloyd           |           28   |
+|             21 | Lewis Wells      |             49.46 |       11 |             85.45 | Steffan Evans        |           80   |
+|             17 | James Lang       |             74.73 |       12 |             88.82 | Johnny Williams      |           80   |
+|             37 | Matt Currie      |             82.8  |       13 |             28.71 | Macs Page            |           63   |
+|             16 | Harry Paterson   |             21.24 |       14 |             44.74 | Jac Davies           |           20   |
+|             42 | Wes Goosen       |             86.88 |       15 |             15.27 | Ioan Nicholas        |           12   |
+|             69 | Harri Morris     |            nan    |       16 |              8.25 | Shaun Evans          |           80   |
 |              3 | Robin Hislop     |            nan    |       17 |            nan    | Sam O'Connor         |           80   |
 |             19 | Javan Sebastian  |             66.01 |       18 |            nan    | Gabe Hawley          |           80   |
-|             27 | Rob Carmichael   |            nan    |       19 |              3.57 | Jac Price            |           80   |
-|             27 | Tom Currie       |            nan    |       20 |             91.54 | Taine Plumtree       |           80   |
-|             60 | Ben Vellacott    |             51.82 |       21 |             47.63 | Efan Jones           |           80   |
-|              6 | Ross Thompson    |             79.21 |       22 |            nan    | Charlie Titcombe     |           30   |
-|              8 | Mosese Tuipulotu |             30.11 |       23 |             68.64 | Jarrod Taylor        |           80   |
+|             27 | Rob Carmichael   |            nan    |       19 |              3.58 | Jac Price            |           80   |
+|             27 | Tom Currie       |            nan    |       20 |             91.97 | Taine Plumtree       |           80   |
+|             60 | Ben Vellacott    |             51.92 |       21 |             47.53 | Efan Jones           |           80   |
+|              6 | Ross Thompson    |             79.17 |       22 |            nan    | Charlie Titcombe     |           30   |
+|              8 | Mosese Tuipulotu |             30    |       23 |             68.63 | Jarrod Taylor        |           80   |
 

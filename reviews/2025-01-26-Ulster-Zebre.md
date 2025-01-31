@@ -11,7 +11,7 @@ categories: "United Rugby Championship 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.848, which translates to predicting Ulster to win by 15.2.
 
-Our Over/Under is 41.5 - and combined with the spread above, we have a predicted scoreline of 13 to 28
+Our Over/Under is 44.5 - and combined with the spread above, we have a predicted scoreline of 15 to 30
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Ulster by 12.6 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             80 | Paolo Buonfiglio    |             54.17 |        1 |             87.73 | Eric O'Sullivan    |              0 |
-|             80 | Luca Bigi           |             80.55 |        2 |              2.58 | Tom Stewart        |             59 |
-|             30 | Muhamed Hasa        |             20.27 |        3 |             30.41 | Scott Wilson       |             67 |
-|             30 | Matteo Canali       |             88.38 |        4 |             59.48 | Harry Sheridan     |             80 |
-|             29 | Leonard Krumov      |              5.06 |        5 |             83.32 | Kieran Treadwell   |             80 |
-|             80 | Rusiate Nasove      |             59.22 |        6 |             26.55 | Lorcan Mcloughlin  |             65 |
-|             71 | Bautista Stavile    |             22.65 |        7 |             92.99 | Nick Timoney       |             80 |
-|             17 | Giovanni Licata     |             12.58 |        8 |             79.61 | David McCann       |             45 |
-|             17 | Gonzalo Garcia      |              2.37 |        9 |             92.34 | John Cooney        |             80 |
-|             80 | Giovanni Montemauri |              2.84 |       10 |             52.95 | Jack Murphy        |             26 |
-|             25 | Scott Gregory       |             81.2  |       11 |             28.44 | Zac Ward           |             70 |
-|             25 | Damiano Mazza       |             53.66 |       12 |             59.35 | Jude Postlethwaite |             71 |
-|              9 | Fetuli Paea         |             10.86 |       13 |             43.98 | Ben Carson         |             27 |
-|             22 | Alessandro Gesi     |             36.81 |       14 |             11.91 | Mike Lowry         |             66 |
-|             80 | Giacomo Da Re       |             60.73 |       15 |             97.85 | Stewart Moore      |              6 |
-|             25 | Giovanni Quattrini  |            nan    |       16 |             20.48 | John Andrew        |             47 |
+|             80 | Paolo Buonfiglio    |             54.09 |        1 |             87.65 | Eric O'Sullivan    |              0 |
+|             80 | Luca Bigi           |             80.58 |        2 |              2.58 | Tom Stewart        |             59 |
+|             30 | Muhamed Hasa        |             20.19 |        3 |             30.66 | Scott Wilson       |             67 |
+|             30 | Matteo Canali       |             88.56 |        4 |             59.8  | Harry Sheridan     |             80 |
+|             29 | Leonard Krumov      |              5.07 |        5 |             83.38 | Kieran Treadwell   |             80 |
+|             80 | Rusiate Nasove      |             59.04 |        6 |             26.37 | Lorcan Mcloughlin  |             65 |
+|             71 | Bautista Stavile    |             22.38 |        7 |             92.91 | Nick Timoney       |             80 |
+|             17 | Giovanni Licata     |             12.8  |        8 |             79.83 | David McCann       |             45 |
+|             17 | Gonzalo Garcia      |              2.38 |        9 |             92.5  | John Cooney        |             80 |
+|             80 | Giovanni Montemauri |              2.85 |       10 |             52.85 | Jack Murphy        |             26 |
+|             25 | Scott Gregory       |             81.02 |       11 |             28.52 | Zac Ward           |             70 |
+|             25 | Damiano Mazza       |             53.76 |       12 |             59.25 | Jude Postlethwaite |             71 |
+|              9 | Fetuli Paea         |             11.18 |       13 |             43.76 | Ben Carson         |             27 |
+|             22 | Alessandro Gesi     |             36.77 |       14 |             12    | Mike Lowry         |             66 |
+|             80 | Giacomo Da Re       |             61.51 |       15 |             97.85 | Stewart Moore      |              6 |
+|             25 | Giovanni Quattrini  |            nan    |       16 |             20.45 | John Andrew        |             47 |
 |             80 | Luca Franceschetto  |            nan    |       17 |            nan    | Callum Reid        |             51 |
-|             46 | Juan Pitinari       |             50    |       18 |             33.13 | Corrie Barrett     |              0 |
-|             80 | Giacomo Ferrari     |             49.46 |       19 |             95.23 | Alan O'Connor      |             80 |
-|              0 | Luca Andreani       |              4.21 |       20 |             58.92 | Matty Rea          |             80 |
-|             80 | Thomas Dominguez    |             22.26 |       21 |             54.93 | Nathan Doak        |             76 |
-|             80 | Luca Morisi         |             92.47 |       22 |             43.98 | Jake Flannery      |             80 |
+|             46 | Juan Pitinari       |             49.83 |       18 |             33.48 | Corrie Barrett     |              0 |
+|             80 | Giacomo Ferrari     |             49.46 |       19 |             95.22 | Alan O'Connor      |             80 |
+|              0 | Luca Andreani       |              4.2  |       20 |             58.74 | Matty Rea          |             80 |
+|             80 | Thomas Dominguez    |             22.67 |       21 |             55.03 | Nathan Doak        |             76 |
+|             80 | Luca Morisi         |             92.37 |       22 |             44.3  | Jake Flannery      |             80 |
 |             51 | Simone Brisighella  |            nan    |       23 |            nan    | Rob Lyttle         |              7 |
 

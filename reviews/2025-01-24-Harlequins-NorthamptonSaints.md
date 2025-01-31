@@ -11,7 +11,7 @@ categories: "Gallagher Premiership 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.565, which translates to predicting Harlequins to win by 2.3.
 
-Our Over/Under is 63.5 - and combined with the spread above, we have a predicted scoreline of 30 to 33
+Our Over/Under is 61.5 - and combined with the spread above, we have a predicted scoreline of 30 to 32
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Harlequins by 0.6 on a neutral pitch
 
 |   Away Minutes | Away Player             |   Away Percentile |   Number |   Home Percentile | Home Player     |   Home Minutes |
 |---------------:|:------------------------|------------------:|---------:|------------------:|:----------------|---------------:|
-|             80 | Tarek Haffar            |             83.9  |        1 |             75.47 | Wyn Jones       |           80   |
-|              3 | Henry Walker            |             42.69 |        2 |              9.81 | Jack Walker     |            7   |
-|             25 | Trevor Davison          |              0.09 |        3 |             20.61 | Simon Kerrod    |           25   |
-|             29 | Temo Mayanavanua        |             95.93 |        4 |             93.64 | Joe Launchbury  |           35   |
-|             80 | Tom Lockett             |             23.63 |        5 |             59.78 | Stephan Lewies  |           80   |
-|              3 | Josh Kemeny             |              4.51 |        6 |             76.85 | Jack Kenningham |           29   |
-|             16 | Tom Pearson             |             98.6  |        7 |             38.98 | Will Evans      |           11   |
-|             35 | Juarno Augustus         |             70.93 |        8 |             88.29 | James Chisholm  |           20   |
-|             73 | Archie McParland        |             80.84 |        9 |             97.45 | Danny Care      |           80   |
-|             77 | George Makepeace-Cubitt |             72.87 |       10 |             39.39 | Jarrod Evans    |           80   |
-|             45 | Tom Seabrook            |              3.74 |       11 |             63.29 | Cassius Cleaves |            5   |
+|             80 | Tarek Haffar            |             83.99 |        1 |             75.47 | Wyn Jones       |           80   |
+|              3 | Henry Walker            |             42.78 |        2 |              9.79 | Jack Walker     |            7   |
+|             25 | Trevor Davison          |              0.09 |        3 |             20.53 | Simon Kerrod    |           25   |
+|             29 | Temo Mayanavanua        |             95.92 |        4 |             93.63 | Joe Launchbury  |           35   |
+|             80 | Tom Lockett             |             23.68 |        5 |             60.1  | Stephan Lewies  |           80   |
+|              3 | Josh Kemeny             |              4.5  |        6 |             76.62 | Jack Kenningham |           29   |
+|             16 | Tom Pearson             |             98.5  |        7 |             38.76 | Will Evans      |           11   |
+|             35 | Juarno Augustus         |             71.15 |        8 |             88.29 | James Chisholm  |           20   |
+|             73 | Archie McParland        |             80.99 |        9 |             97.44 | Danny Care      |           80   |
+|             77 | George Makepeace-Cubitt |             72.81 |       10 |             39.47 | Jarrod Evans    |           80   |
+|             45 | Tom Seabrook            |              3.64 |       11 |             63.13 | Cassius Cleaves |            5   |
 |             45 | Rory Hutchinson         |             91.4  |       12 |             48.39 | Ben Waghorn     |           80   |
-|             80 | Charlie Savala          |             53.76 |       13 |             76.88 | Will Joseph     |           20.5 |
-|             80 | Tom Litchfield          |             71.36 |       14 |             65.35 | Nick David      |           25   |
-|             80 | James Ramm              |             71.46 |       15 |             25.97 | Tyrone Green    |           68   |
-|             19 | Craig Wright            |            nan    |       16 |             90.02 | Sam Riley       |           76   |
-|             35 | Tom West                |             51.87 |       17 |            nan    | Jordan Els      |           50   |
+|             80 | Charlie Savala          |             53.87 |       13 |             76.88 | Will Joseph     |           20.5 |
+|             80 | Tom Litchfield          |             70.99 |       14 |             65.19 | Nick David      |           25   |
+|             80 | James Ramm              |             71.83 |       15 |             26.02 | Tyrone Green    |           68   |
+|             19 | Craig Wright            |            nan    |       16 |             90.03 | Sam Riley       |           76   |
+|             35 | Tom West                |             51.7  |       17 |            nan    | Jordan Els      |           50   |
 |             45 | Luke Green              |            nan    |       18 |             97.19 | Dillon Lewis    |           71   |
-|             80 | Ed Prowse               |             46.97 |       19 |             24.33 | Irne Herbst     |           80   |
+|             80 | Ed Prowse               |             47.26 |       19 |             24.38 | Irne Herbst     |           80   |
 |             50 | Callum Hunter-Hill      |            nan    |       20 |            nan    | Tom Lawday      |           80   |
-|             80 | Angus Scott-Young       |             42.28 |       21 |             27.19 | Will Porter     |           25   |
-|             80 | Tom James               |             16.24 |       22 |             36.76 | Jamie Benson    |           64   |
-|             80 | Will Glister            |             22.93 |       23 |             62.02 | Leigh Halfpenny |           55   |
+|             80 | Angus Scott-Young       |             41.86 |       21 |             27.61 | Will Porter     |           25   |
+|             80 | Tom James               |             16.27 |       22 |             36.62 | Jamie Benson    |           64   |
+|             80 | Will Glister            |             22.91 |       23 |             62.58 | Leigh Halfpenny |           55   |
 

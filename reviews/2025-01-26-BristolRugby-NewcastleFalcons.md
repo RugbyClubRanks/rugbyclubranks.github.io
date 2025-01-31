@@ -11,7 +11,7 @@ categories: "Gallagher Premiership 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.877, which translates to predicting Bristol Rugby to win by 17.3.
 
-Our Over/Under is 56.5 - and combined with the spread above, we have a predicted scoreline of 20 to 37
+Our Over/Under is 57.5 - and combined with the spread above, we have a predicted scoreline of 20 to 37
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -71,25 +71,25 @@ Bristol Rugby by 24.8 on a neutral pitch
 |---------------:|:--------------------|------------------:|---------:|------------------:|:---------------------------|---------------:|
 |             10 | Adam Brocklebank    |              0.51 |        1 |            nan    | nan                        |            nan |
 |             80 | Jamie Blamire       |              0.52 |        2 |            nan    | nan                        |            nan |
-|             80 | Murray McCallum     |              7.24 |        3 |            nan    | nan                        |            nan |
+|             80 | Murray McCallum     |              7.07 |        3 |            nan    | nan                        |            nan |
 |             80 | Sebastian de Chaves |              1.79 |        4 |            nan    | nan                        |            nan |
-|             80 | Kiran McDonald      |             11.22 |        5 |             83.42 | Joe Owen                   |             40 |
-|             80 | Philip van der Walt |              1.8  |        6 |             92.69 | Santiago Grondona          |             44 |
-|             22 | Freddie Lockwood    |             15.63 |        7 |             96.69 | Fitz Harding               |             73 |
-|             22 | Callum Chick        |              1.3  |        8 |             70.07 | Viliame Mata               |             51 |
-|             11 | Sam Stuart          |              0.18 |        9 |             94.34 | Kieran Marmion             |             19 |
-|             21 | Brett Connon        |              3.72 |       10 |             90.15 | Harry Byrne                |             32 |
-|             41 | Ben Stevenson       |             34.74 |       11 |             80.41 | Kalaveti Ravouvou          |             14 |
-|             25 | Max Clark           |             27.74 |       12 |             96.67 | Benhard Janse van Rensburg |              9 |
-|             79 | Alex Hearle         |             39.78 |       13 |             23.55 | Joe Jenkins                |              0 |
-|             80 | Max Pepper          |             26.18 |       14 |             87.2  | Noah Heward                |             32 |
-|             80 | Elliott Obatoyinbo  |             11.59 |       15 |             75.75 | Richard Lane               |             21 |
-|              2 | Ollie Fletcher      |             21.34 |       16 |             30.29 | Will Capon                 |             27 |
-|             80 | Mike Rewcastle      |             16.1  |       17 |             90.63 | Jake Woolmore              |             24 |
-|             53 | Luan de Bruin       |             52.56 |       18 |             64.05 | George Kloska              |             80 |
-|             80 | John Hawkins        |              4.67 |       19 |             99.5  | Steven Luatua              |             77 |
-|             80 | Ollie Leatherbarrow |             15.13 |       20 |             67.23 | Jake Heenan                |             74 |
+|             80 | Kiran McDonald      |             11.14 |        5 |             83.48 | Joe Owen                   |             40 |
+|             80 | Philip van der Walt |              1.7  |        6 |             92.61 | Santiago Grondona          |             44 |
+|             22 | Freddie Lockwood    |             15.58 |        7 |             96.6  | Fitz Harding               |             73 |
+|             22 | Callum Chick        |              1.3  |        8 |             70.28 | Viliame Mata               |             51 |
+|             11 | Sam Stuart          |              0.18 |        9 |             94.52 | Kieran Marmion             |             19 |
+|             21 | Brett Connon        |              3.73 |       10 |             90.13 | Harry Byrne                |             32 |
+|             41 | Ben Stevenson       |             34.61 |       11 |             80.33 | Kalaveti Ravouvou          |             14 |
+|             25 | Max Clark           |             27.63 |       12 |             96.67 | Benhard Janse van Rensburg |              9 |
+|             79 | Alex Hearle         |             39.46 |       13 |             23.44 | Joe Jenkins                |              0 |
+|             80 | Max Pepper          |             26.16 |       14 |             87.12 | Noah Heward                |             32 |
+|             80 | Elliott Obatoyinbo  |             11.4  |       15 |             76.13 | Richard Lane               |             21 |
+|              2 | Ollie Fletcher      |             21.31 |       16 |             30.24 | Will Capon                 |             27 |
+|             80 | Mike Rewcastle      |             16.01 |       17 |             90.55 | Jake Woolmore              |             24 |
+|             53 | Luan de Bruin       |             52.39 |       18 |             64.05 | George Kloska              |             80 |
+|             80 | John Hawkins        |              4.58 |       19 |             99.4  | Steven Luatua              |             77 |
+|             80 | Ollie Leatherbarrow |             15.08 |       20 |             67.13 | Jake Heenan                |             74 |
 |             80 | Joe Davis           |            nan    |       21 |            nan    | Sam Wolstenholme           |             80 |
-|             80 | Kieran Wilkinson    |             46.61 |       22 |             89.91 | Benjamin Elizalde          |             10 |
+|             80 | Kieran Wilkinson    |             46.71 |       22 |             90.32 | Benjamin Elizalde          |             10 |
 |             73 | Oliver Spencer      |             77.2  |       23 |            nan    | nan                        |            nan |
 

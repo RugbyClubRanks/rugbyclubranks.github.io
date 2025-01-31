@@ -11,7 +11,7 @@ categories: "Nationale 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.509, which translates to predicting US Bressane to win by 0.3.
 
-Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 23 to 24
+Our Over/Under is 37.5 - and combined with the spread above, we have a predicted scoreline of 19 to 19
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Chambery by 4.9 on a neutral pitch
 
 |   Away Minutes | Away Player              |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:-------------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             12 | Nugzar Somkhishvili      |             85.09 |        1 |             30.49 | Vazha Kapanadze      |             56 |
-|             80 | Yan Tabarot              |             74.35 |        2 |             34.08 | Louis Dasalmartini   |             41 |
-|             28 | Osman Dimen              |             43.53 |        3 |             18.14 | Atonio Ulutuipalelei |             24 |
-|             26 | Fabien Witz              |             65.14 |        4 |              9.93 | Quentin Witt         |             50 |
-|             80 | Corentin Astier          |             80.34 |        5 |              3.77 | Victor Fromenteze    |             80 |
-|             80 | Jean-Baptiste Grenod     |             95.79 |        6 |             70.04 | Pierre Reynaud       |             41 |
-|             44 | Matheo Triki             |             86.27 |        7 |             73.45 | Nail Ait Naceur      |              7 |
-|             15 | Taniela Matakaiongo      |             54.23 |        8 |             84.16 | Loic Baradel         |             80 |
-|             40 | Aubin Eymeri             |             56.2  |        9 |             66.97 | Jeremy Valencot      |             80 |
-|             41 | Arwel Robson             |             45.73 |       10 |             30.2  | Nathan Azais         |             39 |
-|             67 | Arthur Nennig            |             91.44 |       11 |             24.21 | Élie De Fleurian     |             51 |
-|             80 | Bastien Reymond          |             81.51 |       12 |             86.77 | Fred Zeilinga        |             80 |
-|             41 | Joseph Exshaw            |             66.45 |       13 |             45.38 | Joe Margetts         |             53 |
-|             58 | Va'aufauese Apelu Maliko |             77.36 |       14 |             36.91 | Thibaut Perrette     |             24 |
-|             39 | Thomas Hecquet           |             69.53 |       15 |             78.97 | Florent Massip       |             80 |
-|             60 | Gela Murusidze           |             40.2  |       16 |             55.2  | Teo Bordenave        |             45 |
-|             80 | Baptiste Collet          |            nan    |       17 |             89.33 | Clement Jullien      |             50 |
-|             80 | Colin Lebian             |             71.24 |       18 |             63.12 | Erich de Jager       |             80 |
-|             18 | Pierre-Nicolas Dance     |             53.71 |       19 |             50.3  | Thomas Déliance      |             80 |
-|             80 | Mateo Guerret            |             51.46 |       20 |             49.5  | Nicolas Tachat       |             13 |
-|             80 | Thibault Moreno          |             63.02 |       21 |              3.83 | Nicolas Faure        |             49 |
-|             45 | Emmanuel Vaitulukina     |             75.59 |       22 |             55.36 | Jules Margarit       |             53 |
-|            nan | nan                      |            nan    |       23 |             57.85 | Benjamin Doy         |             56 |
+|             53 | Nugzar Somkhishvili      |             87.99 |        1 |             25.13 | Vazha Kapanadze      |             80 |
+|             35 | Yan Tabarot              |             66.49 |        2 |             34.88 | Louis Dasalmartini   |             39 |
+|             80 | Osman Dimen              |             61.84 |        3 |             16.7  | Atonio Ulutuipalelei |             34 |
+|             48 | Fabien Witz              |             68.76 |        4 |             12.24 | Quentin Witt         |             27 |
+|             52 | Corentin Astier          |             77.71 |        5 |              4.88 | Victor Fromenteze    |             30 |
+|             67 | Jean-Baptiste Grenod     |             95.5  |        6 |             74.13 | Pierre Reynaud       |             26 |
+|             41 | Matheo Triki             |             85.01 |        7 |             69.63 | Nail Ait Naceur      |             23 |
+|             20 | Taniela Matakaiongo      |             55.75 |        8 |             88.94 | Loic Baradel         |             24 |
+|             22 | Aubin Eymeri             |             51.74 |        9 |             74.77 | Jeremy Valencot      |             23 |
+|             32 | Arwel Robson             |             41.89 |       10 |             29.17 | Nathan Azais         |             50 |
+|             25 | Arthur Nennig            |             89.28 |       11 |             22.03 | Élie De Fleurian     |             62 |
+|             20 | Bastien Reymond          |             73.55 |       12 |             88.6  | Fred Zeilinga        |             50 |
+|             52 | Joseph Exshaw            |             68.06 |       13 |             44.09 | Joe Margetts         |             59 |
+|             80 | Va'aufauese Apelu Maliko |             79.94 |       14 |             25.76 | Thibaut Perrette     |             80 |
+|             22 | Thomas Hecquet           |             67.53 |       15 |             79.78 | Florent Massip       |             80 |
+|             80 | Gela Murusidze           |             40.29 |       16 |             55.11 | Teo Bordenave        |             38 |
+|             66 | Baptiste Collet          |            nan    |       17 |             89.35 | Clement Jullien      |             31 |
+|             59 | Colin Lebian             |             71.13 |       18 |             63.2  | Erich de Jager       |             39 |
+|             80 | Pierre-Nicolas Dance     |             53.15 |       19 |             49.65 | Thomas Déliance      |             41 |
+|             80 | Mateo Guerret            |             51.37 |       20 |             48.85 | Nicolas Tachat       |             35 |
+|             80 | Thibault Moreno          |             62.94 |       21 |              3.84 | Nicolas Faure        |             24 |
+|             80 | Emmanuel Vaitulukina     |             75.59 |       22 |             55.91 | Jules Margarit       |             80 |
+|            nan | nan                      |            nan    |       23 |             57.85 | Benjamin Doy         |             36 |
 

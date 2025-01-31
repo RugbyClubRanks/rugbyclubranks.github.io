@@ -11,7 +11,7 @@ categories: "Japan Rugby League One - Division 3 2025" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.575, which translates to predicting LeRIRO Fukuoka to win by 4.5.
 
-Our Over/Under is 25.5 - and combined with the spread above, we have a predicted scoreline of 10 to 15
+Our Over/Under is 32.5 - and combined with the spread above, we have a predicted scoreline of 14 to 18
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -70,20 +70,20 @@ Hiroshima by 0.1 on a neutral pitch
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
 |             51 | Haruki Umemoto     |             66.44 |        1 |             24.79 | Tomoki Nobeta       |             51 |
-|             23 | Yusuke Kitabayashi |             55.42 |        2 |             23.41 | Yoshiaki Takeuchi   |             59 |
-|             32 | Tadatsugu Kanayama |             59.8  |        3 |             18.74 | Rintarou Noda       |             80 |
-|             10 | Tye Nash           |             50.05 |        4 |             26.51 | Taiji Machino       |             64 |
-|             62 | Yutaro Tanaka      |             65.34 |        5 |             25.72 | Keita Terada        |             68 |
-|             42 | Iori Suzuki        |             61.02 |        6 |             18.99 | Karne Hesketh       |             80 |
-|             38 | Tomoki Ashida      |             59.82 |        7 |             18.99 | Naoki Yasuda        |             80 |
-|              0 | Jackson Pugh       |             39.7  |        8 |             33.19 | Kouta Nishimura     |             17 |
-|             80 | Kotaro Tatsuno     |             68.98 |        9 |             37.59 | Hisanori Mimata     |             22 |
-|             30 | Hitaka Inoue       |             54.49 |       10 |             27.13 | Rinto Kagawa        |             37 |
-|             60 | Hayato Kanamaru    |             65.65 |       11 |             33.27 | Masakazu Yatsumonji |             37 |
-|             57 | Jacob Abel         |             62.04 |       12 |             38.92 | Kentaro Kamata      |             13 |
-|             66 | Syunya Motoyama    |             64.09 |       13 |             32.9  | Haruto Sugisaki     |             28 |
-|             43 | Tsubasa Kono       |             61.12 |       14 |             27.26 | Amanaki Lisala      |             57 |
-|             73 | Keisuke Nakamoto   |             62.66 |       15 |             20.39 | Benjamin Ray Yagi   |             80 |
+|             23 | Yusuke Kitabayashi |             55.33 |        2 |             23.37 | Yoshiaki Takeuchi   |             59 |
+|             32 | Tadatsugu Kanayama |             59.71 |        3 |             18.65 | Rintarou Noda       |             80 |
+|             10 | Tye Nash           |             50.15 |        4 |             26.47 | Taiji Machino       |             64 |
+|             62 | Yutaro Tanaka      |             65.57 |        5 |             25.67 | Keita Terada        |             68 |
+|             42 | Iori Suzuki        |             60.94 |        6 |             18.93 | Karne Hesketh       |             80 |
+|             38 | Tomoki Ashida      |             59.74 |        7 |             18.93 | Naoki Yasuda        |             80 |
+|              0 | Jackson Pugh       |             39.91 |        8 |             33.19 | Kouta Nishimura     |             17 |
+|             80 | Kotaro Tatsuno     |             68.92 |        9 |             37.48 | Hisanori Mimata     |             22 |
+|             30 | Hitaka Inoue       |             54.39 |       10 |             27.19 | Rinto Kagawa        |             37 |
+|             60 | Hayato Kanamaru    |             65.49 |       11 |             33.24 | Masakazu Yatsumonji |             37 |
+|             57 | Jacob Abel         |             61.94 |       12 |             38.6  | Kentaro Kamata      |             13 |
+|             66 | Syunya Motoyama    |             63.87 |       13 |             33.01 | Haruto Sugisaki     |             28 |
+|             43 | Tsubasa Kono       |             60.96 |       14 |             27.34 | Amanaki Lisala      |             57 |
+|             73 | Keisuke Nakamoto   |             63.23 |       15 |             20.43 | Benjamin Ray Yagi   |             80 |
 |             65 | Taichi Yokoo       |            nan    |       16 |            nan    | Taiyou Minami       |             36 |
 |             75 | Tomonori Koyanagi  |            nan    |       17 |            nan    | Keita Kimura        |             32 |
 |             73 | Ryoto Tomita       |            nan    |       18 |            nan    | Iosefatu Mareko     |             80 |

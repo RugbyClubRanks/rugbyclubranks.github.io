@@ -11,7 +11,7 @@ categories: "United Rugby Championship 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.478, which translates to predicting Sharks to win by 0.8.
 
-Our Over/Under is 39.5 - and combined with the spread above, we have a predicted scoreline of 20 to 20
+Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 22 to 22
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Sharks by 4.4 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|            4.5 | Ntuthuko Mchunu     |              8.52 |        1 |             25.89 | Rhys Barratt       |              0 |
-|           80   | Bongi Mbonambi      |             98.62 |        2 |              6.02 | Dafydd Hughes      |              5 |
-|           18   | Trevor Nyakane      |             83.39 |        3 |             39.52 | Rhys Litterick     |             25 |
-|           80   | Vincent Tshituka    |             91.66 |        4 |             76.07 | Josh McNally       |             40 |
-|           80   | Jason Jenkins       |             68.32 |        5 |              4.27 | Seb Davies         |             25 |
-|            9   | Phepsi Buthelezi    |             48.7  |        6 |              2.51 | Alex Mann          |             80 |
-|           80   | Emmanuel Tshituka   |             61.82 |        7 |             66.13 | Thomas Young       |             80 |
-|           29   | Nick Hatton         |             59    |        8 |             61.17 | Alun Lawrence      |             44 |
-|            6   | Grant Williams      |             84.67 |        9 |              7.3  | Johan Mulder       |             80 |
-|            0   | Siya Masuku         |             57.99 |       10 |             88.18 | Callum Sheedy      |             60 |
-|           30   | Makazole Mapimpi    |             99.41 |       11 |             19.59 | Tom Bowen          |             44 |
-|           24   | Ethan Hooker        |             58.6  |       12 |             10.75 | Rory Jennings      |             60 |
+|            4.5 | Ntuthuko Mchunu     |              8.6  |        1 |             25.89 | Rhys Barratt       |              0 |
+|           80   | Bongi Mbonambi      |             98.63 |        2 |              6.01 | Dafydd Hughes      |              5 |
+|           18   | Trevor Nyakane      |             83.39 |        3 |             39.61 | Rhys Litterick     |             25 |
+|           80   | Vincent Tshituka    |             91.64 |        4 |             76.22 | Josh McNally       |             40 |
+|           80   | Jason Jenkins       |             68.36 |        5 |              4.18 | Seb Davies         |             25 |
+|            9   | Phepsi Buthelezi    |             48.05 |        6 |              2.5  | Alex Mann          |             80 |
+|           80   | Emmanuel Tshituka   |             61.74 |        7 |             65.83 | Thomas Young       |             80 |
+|           29   | Nick Hatton         |             59.22 |        8 |             61.61 | Alun Lawrence      |             44 |
+|            6   | Grant Williams      |             84.83 |        9 |              7.31 | Johan Mulder       |             80 |
+|            0   | Siya Masuku         |             57.89 |       10 |             88.16 | Callum Sheedy      |             60 |
+|           30   | Makazole Mapimpi    |             99.41 |       11 |             19.67 | Tom Bowen          |             44 |
+|           24   | Ethan Hooker        |             58.49 |       12 |             11.08 | Rory Jennings      |             60 |
 |           56   | Jurenzo Julius      |             78.17 |       13 |             85.27 | Rey Lee-Lo         |             17 |
-|           30   | Yaw Penxe           |              3.35 |       14 |             82.19 | Gabriel Hamer-Webb |             53 |
-|           20   | Jordan Hendrikse    |             81.97 |       15 |             11.37 | Cameron Winnett    |             18 |
-|           16   | Ethan Bester        |             48.54 |       16 |            nan    | Efan Daniel        |             17 |
+|           30   | Yaw Penxe           |              3.24 |       14 |             82.01 | Gabriel Hamer-Webb |             53 |
+|           20   | Jordan Hendrikse    |             82.58 |       15 |             11.18 | Cameron Winnett    |             18 |
+|           16   | Ethan Bester        |             48.8  |       16 |            nan    | Efan Daniel        |             17 |
 |           80   | Ruan Dreyer         |             98.81 |       17 |             59.2  | Danny Southworth   |             51 |
-|           50   | Vincent Koch        |             82.28 |       18 |             14.65 | Will Davies-King   |             53 |
-|           22   | Deon Slabbert       |            nan    |       19 |              7.25 | Rory Thornton      |             71 |
-|           22   | Jeandre Labuschagne |             12.12 |       20 |             32.54 | Mackenzie Martin   |             74 |
-|           22   | Jaden Hendrikse     |             86.13 |       21 |            nan    | Ethan Lloyd        |             80 |
-|           11   | Francois Venter     |             30.75 |       22 |             11.16 | Jacob Beetham      |             77 |
-|           80   | Lukhanyo Am         |             80.43 |       23 |             61.61 | Regan Grace        |             78 |
+|           50   | Vincent Koch        |             82.28 |       18 |             14.48 | Will Davies-King   |             53 |
+|           22   | Deon Slabbert       |            nan    |       19 |              7.26 | Rory Thornton      |             71 |
+|           22   | Jeandre Labuschagne |             12.09 |       20 |             32.54 | Mackenzie Martin   |             74 |
+|           22   | Jaden Hendrikse     |             86.29 |       21 |            nan    | Ethan Lloyd        |             80 |
+|           11   | Francois Venter     |             30.75 |       22 |             10.97 | Jacob Beetham      |             77 |
+|           80   | Lukhanyo Am         |             80.43 |       23 |             61.46 | Regan Grace        |             78 |
 

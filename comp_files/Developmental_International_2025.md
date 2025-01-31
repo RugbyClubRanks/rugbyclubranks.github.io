@@ -1,6 +1,6 @@
 ---  
 title: "Developmental International 2025 Status"  
-date: 2025-01-30 6:00:00 -0500  
+date: 2025-01-31 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -24,7 +24,7 @@ aside:
 ### Andorra V Israel on 2025/02/01
 
 
-Average Margin: Israel by 2.9
+Average Margin: Israel by 2.4
 
 Average Scoreline: 27-24
 
@@ -37,7 +37,7 @@ Average Scoreline: 27-24
 ### Andorra V Israel on 2025/02/01
 
 
-Average Margin: Israel by 2.9
+Average Margin: Israel by 2.4
 
 Average Scoreline: 27-24
 
@@ -50,7 +50,7 @@ Average Scoreline: 27-24
 ### Andorra V Israel on 2025/02/01
 
 
-Average Margin: Israel by 2.9
+Average Margin: Israel by 2.4
 
 Average Scoreline: 27-24
 
@@ -63,7 +63,7 @@ Average Scoreline: 27-24
 ### Andorra V Israel on 2025/02/01
 
 
-Average Margin: Israel by 2.9
+Average Margin: Israel by 2.4
 
 Average Scoreline: 27-24
 
@@ -76,7 +76,7 @@ Average Scoreline: 27-24
 ### Israel V Andorra on 2025/02/01
 
 
-Average Margin: Israel by 10.1
+Average Margin: Israel by 10.3
 
 Average Scoreline: 31-20
 
@@ -89,7 +89,7 @@ Average Scoreline: 31-20
 ### Israel V Andorra on 2025/02/01
 
 
-Average Margin: Israel by 10.1
+Average Margin: Israel by 10.3
 
 Average Scoreline: 31-20
 
@@ -102,7 +102,7 @@ Average Scoreline: 31-20
 ### Israel V Andorra on 2025/02/01
 
 
-Average Margin: Israel by 10.1
+Average Margin: Israel by 10.3
 
 Average Scoreline: 31-20
 
@@ -115,7 +115,7 @@ Average Scoreline: 31-20
 ### Israel V Andorra on 2025/02/01
 
 
-Average Margin: Israel by 10.1
+Average Margin: Israel by 10.3
 
 Average Scoreline: 31-20
 
