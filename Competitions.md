@@ -22,7 +22,7 @@ key: page-recents
 ## Rugby Europe Championship
 
 
-[2025](comp_files\Rugby_Europe_Championship_2025)
+[2025](comp_files\Rugby_Europe_Championship_2025) - Prediction Accuracy: 100.0% 
 
 [2024](comp_files\Rugby_Europe_Championship_2024) - Prediction Accuracy: 85.0% 
 
@@ -146,7 +146,7 @@ key: page-recents
 ## United Rugby Championship
 
 
-[2425](comp_files\United_Rugby_Championship_2425) - Prediction Accuracy: 72.5% 
+[2425](comp_files\United_Rugby_Championship_2425) - Prediction Accuracy: 72.2% 
 
 [2024](comp_files\United_Rugby_Championship_2024) - Prediction Accuracy: 74.4% 
 
@@ -358,7 +358,7 @@ key: page-recents
 ## Pro D2
 
 
-[2425](comp_files\Pro_D2_2425) - Prediction Accuracy: 67.1% 
+[2425](comp_files\Pro_D2_2425) - Prediction Accuracy: 66.7% 
 
 [2024](comp_files\Pro_D2_2024) - Prediction Accuracy: 67.1% 
 
