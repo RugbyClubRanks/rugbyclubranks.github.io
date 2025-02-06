@@ -11,7 +11,7 @@ categories: "Japan Rugby League One 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.508, which translates to predicting Toyota Verblitz to win by 0.3.
 
-Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 27 to 27
+Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 24 to 24
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Toyota Verblitz by 0.4
+## Prediction without Player Minutes: Yokohama Canon Eagles by 2.3
 
 
-Yokohama Canon Eagles by 4.1 on a neutral pitch
+Yokohama Canon Eagles by 6.8 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Yokohama Canon Eagles by 4.1 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             52 | Takato Okabe       |             96.61 |        1 |             88.31 | Shogo Miura         |             80 |
-|             57 | Shunta Nakamura    |             93.02 |        2 |             94.55 | Yoshikatsu Hikosaka |             16 |
-|             54 | Ryosuke Iwaihara   |             77.05 |        3 |             79.76 | Genki Sudo          |             40 |
-|             72 | Liaki Moli         |             11.1  |        4 |             74.46 | Richie Gray         |             61 |
-|             12 | Matt Philip        |             45.38 |        5 |             76.72 | Daichi Akiyama      |             80 |
-|             16 | Billy Harmon       |             45.31 |        6 |             87.27 | Isaiah Mapusua      |             80 |
-|             16 | Masato Furukawa    |             68.41 |        7 |             47.78 | Kosei Miki          |             72 |
-|             14 | Amanaki Mafi       |             96.14 |        8 |             28.33 | Akito Okui          |             61 |
-|             64 | Faf de Klerk       |             94.23 |        9 |             16.04 | Kaito Shigeno       |             80 |
-|             53 | Yu Tamura          |             88.31 |       10 |             96.97 | Rikiya Matsuda      |             30 |
-|             80 | Masayoshi Takezawa |             64.6  |       11 |              0.58 | Siosaia Fifita      |             30 |
-|              8 | Yusuke Kajimura    |             96.93 |       12 |             84.13 | Nicholas McCurran   |             30 |
-|             12 | Jesse Kriel        |             99.05 |       13 |             26.77 | Joseph Manu         |             16 |
-|             68 | Kippei Ishida      |             51.6  |       14 |             90.49 | Taichi Takahashi    |             57 |
-|             80 | Jumpei Ogura       |             98.95 |       15 |             77.05 | Tiaan Falcon        |             68 |
-|             80 | Yusuke Niwai       |             67.29 |       16 |             31.79 | Will Tupou          |             62 |
-|             66 | Tatsuro Sugimoto   |              2.29 |       17 |             72.69 | Josh Dickson        |             79 |
-|             80 | Sioeli Vakalahi    |             81.84 |       18 |             79.73 | Ryusei Kato         |             80 |
-|             30 | Viliame Takayawa   |             93.21 |       19 |            nan    | Shunsuke Asaoka     |             80 |
-|             80 | Tom Jeffries       |             54.22 |       20 |            nan    | Ryang Jong Chu      |             80 |
-|             80 | Naoto Shimada      |             60.41 |       21 |             81.27 | Matt McGahan        |             61 |
-|             16 | Ryo Tabata         |             30.9  |       22 |            nan    | Ryunosuke Momoji    |             80 |
-|            nan | nan                |            nan    |       23 |             79.57 | Adre Smith          |             61 |
+|             63 | Takato Okabe       |             96.59 |        1 |             90.11 | Shogo Miura         |             23 |
+|             52 | Shunta Nakamura    |             92.81 |        2 |             94.15 | Yoshikatsu Hikosaka |             12 |
+|             12 | Ryosuke Iwaihara   |             73.73 |        3 |             79.97 | Genki Sudo          |             80 |
+|             37 | Liaki Moli         |              8.27 |        4 |             77.4  | Richie Gray         |             80 |
+|             17 | Matt Philip        |             45.77 |        5 |             78.85 | Daichi Akiyama      |             40 |
+|             80 | Billy Harmon       |             59.09 |        6 |             88.59 | Isaiah Mapusua      |             16 |
+|             28 | Masato Furukawa    |             67.02 |        7 |             60.06 | Kosei Miki          |             16 |
+|             80 | Amanaki Mafi       |             96.82 |        8 |             28.18 | Akito Okui          |             16 |
+|              1 | Faf de Klerk       |             93.97 |        9 |             19.68 | Kaito Shigeno       |             57 |
+|             61 | Yu Tamura          |             88.51 |       10 |             97.02 | Rikiya Matsuda      |             16 |
+|             27 | Masayoshi Takezawa |             59.37 |       11 |              0.57 | Siosaia Fifita      |             80 |
+|             27 | Yusuke Kajimura    |             97.3  |       12 |             84.93 | Nicholas McCurran   |             29 |
+|             80 | Jesse Kriel        |             99.38 |       13 |             29.63 | Joseph Manu         |             50 |
+|             80 | Kippei Ishida      |             47    |       14 |             91.15 | Taichi Takahashi    |             61 |
+|             68 | Jumpei Ogura       |             98.32 |       15 |             79.66 | Tiaan Falcon        |             66 |
+|             61 | Yusuke Niwai       |             67.22 |       16 |             27.76 | Will Tupou          |             80 |
+|             80 | Tatsuro Sugimoto   |              2.16 |       17 |             72.5  | Josh Dickson        |             64 |
+|             80 | Sioeli Vakalahi    |             85.54 |       18 |             79.77 | Ryusei Kato         |             28 |
+|             12 | Viliame Takayawa   |             92.96 |       19 |            nan    | Shunsuke Asaoka     |             80 |
+|             80 | Tom Jeffries       |             54.13 |       20 |            nan    | Ryang Jong Chu      |             80 |
+|             80 | Naoto Shimada      |             61.41 |       21 |             81.39 | Matt McGahan        |             19 |
+|             80 | Ryo Tabata         |             31.19 |       22 |            nan    | Ryunosuke Momoji    |             17 |
+|            nan | nan                |            nan    |       23 |             79.42 | Adre Smith          |             25 |
 

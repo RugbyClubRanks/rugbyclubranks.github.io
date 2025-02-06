@@ -30,13 +30,15 @@ Last Round Error: 40.02 points per match
 
 [In depth model review and projections for Six Nations Championship 2025](comp_files/Six_Nations_Championship_2025)
 
-Competition Accuracy: 2 of 2 (100.0%)
+Competition Accuracy: 3 of 3 (100.0%)
 
-Competition Error: 4.35 points per match
+Competition Error: 11.22 points per match
 
-Last Round Accuracy: 2 of 2 (100.0%)
+Last Round Accuracy: 3 of 3 (100.0%)
 
-Last Round Error: 4.35 points per match
+Last Round Error: 11.22 points per match
+
+[2025-01-31 Wales at France; 0-43](reviews//2025-01-31-France-Wales)
 
 [2025-02-01 Italy at Scotland; 19-31](reviews//2025-02-01-Scotland-Italy)
 
@@ -56,11 +58,11 @@ Last Round Accuracy: 2 of 5 (40.0%)
 
 Last Round Error: 16.19 points per match
 
-[2025-02-01 Loughborough Lightning at Bristol Bears Women; 31-22](reviews//2025-02-01-BristolBearsWomen-LoughboroughLightning)
-
 [2025-02-01 Saracens Women at Ealing Trailfinders Women; 31-17](reviews//2025-02-01-EalingTrailfindersWomen-SaracensWomen)
 
 [2025-02-01 Gloucester-Hartpury Women at Leicester Tigers Women; 38-7](reviews//2025-02-01-LeicesterTigersWomen-Gloucester-HartpuryWomen)
+
+[2025-02-01 Loughborough Lightning at Bristol Bears Women; 31-22](reviews//2025-02-01-BristolBearsWomen-LoughboroughLightning)
 
 [2025-02-02 Harlequins Women at Exeter Chiefs Women; 31-30](reviews//2025-02-02-ExeterChiefsWomen-HarlequinsWomen)
 ## Japan Rugby League One
@@ -80,9 +82,9 @@ Last Round Error: 13.34 points per match
 
 [2025-02-01 Yokohama Canon Eagles at Toyota Verblitz; 24-20](reviews//2025-02-01-ToyotaVerblitz-YokohamaCanonEagles)
 
-[2025-02-01 Black Rams Tokyo at Kobelco Kobe Steelers; 15-44](reviews//2025-02-01-KobelcoKobeSteelers-BlackRamsTokyo)
-
 [2025-02-01 Tokyo Sungoliath at Shizuoka Blue Revs; 33-14](reviews//2025-02-01-ShizuokaBlueRevs-TokyoSungoliath)
+
+[2025-02-01 Black Rams Tokyo at Kobelco Kobe Steelers; 15-44](reviews//2025-02-01-KobelcoKobeSteelers-BlackRamsTokyo)
 
 [2025-02-01 Urayasu D-Rocks at Saitama Wild Knights; 26-53](reviews//2025-02-01-SaitamaWildKnights-UrayasuD-Rocks)
 
@@ -102,17 +104,17 @@ Last Round Error: 19.38 points per match
 
 [2025-01-31 Gloucester Rugby at Cornish Pirates; 26-19](reviews//2025-01-31-CornishPirates-GloucesterRugby)
 
-[2025-02-01 Exeter Chiefs at Hartpury College; 36-14](reviews//2025-02-01-HartpuryCollege-ExeterChiefs)
-
-[2025-02-01 Nottingham at Coventry; 21-76](reviews//2025-02-01-Coventry-Nottingham)
-
-[2025-02-01 Ealing Trailfinders at Saracens; 50-29](reviews//2025-02-01-Saracens-EalingTrailfinders)
+[2025-02-01 Sale Sharks at Caldy; 28-14](reviews//2025-02-01-Caldy-SaleSharks)
 
 [2025-02-01 Bristol Rugby at Ampthill; 74-14](reviews//2025-02-01-Ampthill-BristolRugby)
 
-[2025-02-01 Sale Sharks at Caldy; 28-14](reviews//2025-02-01-Caldy-SaleSharks)
+[2025-02-01 Nottingham at Coventry; 21-76](reviews//2025-02-01-Coventry-Nottingham)
+
+[2025-02-01 Exeter Chiefs at Hartpury College; 36-14](reviews//2025-02-01-HartpuryCollege-ExeterChiefs)
 
 [2025-02-01 Newcastle Falcons at Doncaster; 42-18](reviews//2025-02-01-Doncaster-NewcastleFalcons)
+
+[2025-02-01 Ealing Trailfinders at Saracens; 50-29](reviews//2025-02-01-Saracens-EalingTrailfinders)
 
 [2025-02-01 Northampton Saints at Leicester Tigers; 33-54](reviews//2025-02-01-LeicesterTigers-NorthamptonSaints)
 
@@ -166,13 +168,13 @@ Last Round Accuracy: 6 of 7 (85.71%)
 
 Last Round Error: 8.72 points per match
 
-[2025-01-31 Albi at Rouen; 14-20](reviews//2025-01-31-Rouen-Albi)
-
 [2025-01-31 Suresnes at Tarbes; 15-20](reviews//2025-01-31-Tarbes-Suresnes)
 
-[2025-02-01 Carcassonne at Chambery; 16-34](reviews//2025-02-01-Chambery-Carcassonne)
+[2025-01-31 Albi at Rouen; 14-20](reviews//2025-01-31-Rouen-Albi)
 
 [2025-02-01 Narbonne at Carqueiranne-Hyeres; 25-0](reviews//2025-02-01-Carqueiranne-Hyeres-Narbonne)
+
+[2025-02-01 Carcassonne at Chambery; 16-34](reviews//2025-02-01-Chambery-Carcassonne)
 
 [2025-02-01 Langon at Massy; 25-36](reviews//2025-02-01-Massy-Langon)
 
@@ -184,9 +186,9 @@ Last Round Error: 8.72 points per match
 
 [In depth model review and projections for Pro D2 24/25](comp_files/Pro_D2_24/25)
 
-Competition Accuracy: 96 of 145 (66.21%)
+Competition Accuracy: 96 of 144 (66.67%)
 
-Competition Error: 11.0 points per match
+Competition Error: 10.65 points per match
 
 Last Round Accuracy: 4 of 8 (50.0%)
 

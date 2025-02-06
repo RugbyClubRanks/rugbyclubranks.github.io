@@ -11,7 +11,7 @@ categories: "Premiership Rugby Cup 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.696, which translates to predicting Saracens to win by 7.3.
 
-Our Over/Under is 59.5 - and combined with the spread above, we have a predicted scoreline of 26 to 33
+Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 22 to 29
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,19 +69,19 @@ Ealing Trailfinders by 12.5 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player       |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:------------------|---------------:|
-|             80 | Lefty Zigiriadis    |             96.36 |        1 |              4.57 | Rhys Carré        |             80 |
-|             80 | Mike Willemse       |             89.95 |        2 |             60.82 | James Hadfield    |             80 |
-|             80 | George Davis        |             85.52 |        3 |              1.61 | Fraser Balmain    |             80 |
-|             80 | Bobby de Wee        |             96.95 |        4 |              0.49 | Harry Wilson      |             80 |
-|             80 | Ehize Ehizode       |              4.62 |        5 |             19.45 | Kennedy Sylvester |             80 |
-|             80 | Rob Farrar          |             89.54 |        6 |             17.18 | Max Eke           |             80 |
-|             80 | Jordy Reid          |             81.44 |        7 |             32.18 | Toby Knight       |             80 |
-|             80 | Will Montgomery     |             59.01 |        8 |             81.33 | Nathan Michelow   |             18 |
-|             80 | Craig Hampson       |             91.35 |        9 |             42.7  | Charlie Bracken   |             80 |
-|             80 | Dan Jones           |             88.96 |       10 |             32.68 | Tiff Eden         |             80 |
-|             80 | Michael Dykes       |             88.36 |       11 |             47.62 | Rotimi Segun      |             80 |
-|             80 | Jordan Holgate      |             90.26 |       12 |             26.88 | Olly Hartley      |             80 |
-|             80 | Reuben Bird-Tulloch |             88.47 |       13 |             19.79 | Sam Spink         |             80 |
-|             80 | Ben Harris          |             63.72 |       14 |             45.68 | Tobias Elliott    |             80 |
-|             80 | Tobi Wilson         |             88.84 |       15 |             86.74 | Tom Parton        |             80 |
+|             80 | Lefty Zigiriadis    |             96.92 |        1 |              3.57 | Rhys Carré        |             80 |
+|             80 | Mike Willemse       |             90.8  |        2 |             54.68 | James Hadfield    |             80 |
+|             80 | George Davis        |             87.28 |        3 |              1.41 | Fraser Balmain    |             80 |
+|             80 | Bobby de Wee        |             96.83 |        4 |              0.38 | Harry Wilson      |             80 |
+|             52 | Ehize Ehizode       |              4.13 |        5 |             15.96 | Kennedy Sylvester |             80 |
+|             16 | Rob Farrar          |             86.46 |        6 |             14.89 | Max Eke           |             80 |
+|             80 | Jordy Reid          |             82.4  |        7 |             26.6  | Toby Knight       |             80 |
+|              8 | Will Montgomery     |             44.28 |        8 |             73.31 | Nathan Michelow   |             80 |
+|             50 | Craig Hampson       |             90.96 |        9 |             37.94 | Charlie Bracken   |             80 |
+|             28 | Dan Jones           |             86.17 |       10 |             29.15 | Tiff Eden         |             80 |
+|             80 | Michael Dykes       |             89.44 |       11 |             41.1  | Rotimi Segun      |             80 |
+|             80 | Jordan Holgate      |             91.06 |       12 |             23.28 | Olly Hartley      |             80 |
+|             80 | Reuben Bird-Tulloch |             88.98 |       13 |             17.88 | Sam Spink         |             80 |
+|             80 | Ben Harris          |             66.51 |       14 |             39.49 | Tobias Elliott    |             80 |
+|             62 | Tobi Wilson         |             88.89 |       15 |             91.19 | Tom Parton        |             80 |
 

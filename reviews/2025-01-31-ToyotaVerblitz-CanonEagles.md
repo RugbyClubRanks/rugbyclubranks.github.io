@@ -11,7 +11,7 @@ categories: "Japan Rugby League One - Division 1 2025" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.727, which translates to predicting Toyota Verblitz to win by 14.6.
 
-Our Over/Under is 30.5 - and combined with the spread above, we have a predicted scoreline of 8 to 23
+Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 19 to 34
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Canon Eagles by 1.8 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             80 | Takato Okabe       |             50.13 |        1 |             22.18 | Shogo Miura         |             62 |
-|             68 | Shunta Nakamura    |             58.09 |        2 |             33.9  | Yoshikatsu Hikosaka |             80 |
-|             80 | Ryosuke Iwaihara   |             59.78 |        3 |             35.82 | Genki Sudo          |             68 |
-|             28 | Liaki Moli         |             51.08 |        4 |             74.46 | Richie Gray         |             65 |
-|              3 | Matt Philip        |             46.95 |        5 |             35.76 | Daichi Akiyama      |             80 |
-|             34 | Billy Harmon       |             45.31 |        6 |             41.56 | Isaiah Mapusua      |             72 |
-|             22 | Masato Furukawa    |             50.15 |        7 |             34.25 | Kosei Miki          |             80 |
-|              0 | Amanaki Mafi       |             40.02 |        8 |             37.77 | Akito Okui          |             20 |
-|             22 | Faf de Klerk       |             94.23 |        9 |             43.96 | Kaito Shigeno       |             15 |
-|              6 | Yu Tamura          |             43.29 |       10 |             96.97 | Rikiya Matsuda      |             17 |
-|             40 | Masayoshi Takezawa |             53.83 |       11 |              0.58 | Siosaia Fifita      |             15 |
-|             20 | Yusuke Kajimura    |             65.19 |       12 |             37.78 | Nik McCurran        |             12 |
-|             68 | Jesse Kriel        |             99.05 |       13 |             42.33 | Joseph Manu         |              0 |
-|             64 | Kippei Ishida      |             56.74 |       14 |             62.46 | Taichi Takahashi    |             60 |
-|             15 | Jumpei Ogura       |             19.79 |       15 |             37.05 | Tiaan Falcon        |             57 |
-|             65 | Yusuke Niwai       |            nan    |       16 |            nan    | Ryusei Kato         |             12 |
-|             63 | Sioeli Vakalahi    |            nan    |       17 |            nan    | Ryunosuke Momoji    |             53 |
-|             80 | Tatsuro Sugimoto   |            nan    |       18 |            nan    | Shunsuke Asaoka     |             68 |
-|             65 | Tom Jeffries       |            nan    |       19 |            nan    | Josh Dickson        |             40 |
-|             80 | Naoto Shimada      |            nan    |       20 |             79.57 | Adre Smith          |             80 |
-|             80 | Toshiki Amano      |            nan    |       21 |            nan    | Jongchu Ryang       |             23 |
-|             64 | Ryo Tabata         |            nan    |       22 |            nan    | Matt Mcgahan        |             80 |
+|             12 | Takato Okabe       |             37.41 |        1 |             20.53 | Shogo Miura         |             80 |
+|             20 | Shunta Nakamura    |             48.83 |        2 |             34.62 | Yoshikatsu Hikosaka |             73 |
+|             72 | Ryosuke Iwaihara   |             59.35 |        3 |             33.58 | Genki Sudo          |             80 |
+|             65 | Liaki Moli         |             56.92 |        4 |             77.4  | Richie Gray         |             20 |
+|             80 | Matt Philip        |             59.71 |        5 |             35.1  | Daichi Akiyama      |             80 |
+|             80 | Billy Harmon       |             59.09 |        6 |             43.04 | Isaiah Mapusua      |             60 |
+|             16 | Masato Furukawa    |             48.74 |        7 |             33.56 | Kosei Miki          |             80 |
+|             12 | Amanaki Mafi       |             43.22 |        8 |             39.83 | Akito Okui          |              6 |
+|             27 | Faf de Klerk       |             93.97 |        9 |             41.84 | Kaito Shigeno       |             26 |
+|             40 | Yu Tamura          |             48.94 |       10 |             97.02 | Rikiya Matsuda      |             64 |
+|             12 | Masayoshi Takezawa |             47.76 |       11 |              0.57 | Siosaia Fifita      |             80 |
+|             17 | Yusuke Kajimura    |             65.38 |       12 |             31.6  | Nik McCurran        |             62 |
+|             80 | Jesse Kriel        |             99.38 |       13 |             36.38 | Joseph Manu         |             58 |
+|             15 | Kippei Ishida      |             48.53 |       14 |             67.84 | Taichi Takahashi    |              0 |
+|             17 | Jumpei Ogura       |             19.92 |       15 |             41.09 | Tiaan Falcon        |             15 |
+|             15 | Yusuke Niwai       |            nan    |       16 |            nan    | Ryusei Kato         |             20 |
+|             15 | Sioeli Vakalahi    |            nan    |       17 |            nan    | Ryunosuke Momoji    |             77 |
+|             80 | Tatsuro Sugimoto   |            nan    |       18 |            nan    | Shunsuke Asaoka     |             52 |
+|             64 | Tom Jeffries       |            nan    |       19 |            nan    | Josh Dickson        |             46 |
+|             76 | Naoto Shimada      |            nan    |       20 |             79.42 | Adre Smith          |             80 |
+|             49 | Toshiki Amano      |            nan    |       21 |            nan    | Jongchu Ryang       |             58 |
+|             19 | Ryo Tabata         |            nan    |       22 |            nan    | Matt Mcgahan        |             80 |
 |             58 | Viliame Takayawa   |            nan    |       23 |            nan    | William Tupou       |             80 |
 

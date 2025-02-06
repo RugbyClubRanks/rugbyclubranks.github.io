@@ -11,7 +11,7 @@ categories: "Premiership Rugby Cup 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.582, which translates to predicting Leicester Tigers to win by 2.9.
 
-Our Over/Under is 38.5 - and combined with the spread above, we have a predicted scoreline of 18 to 21
+Our Over/Under is 41.5 - and combined with the spread above, we have a predicted scoreline of 19 to 22
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,19 +69,19 @@ Northampton Saints by 1.2 on a neutral pitch
 
 |   Away Minutes | Away Player             |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:------------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             80 | Tarek Haffar            |             82.22 |        1 |             17.87 | James Whitcombe       |             80 |
-|             13 | Henry Walker            |             42.25 |        2 |             29.47 | Charlie Clare         |             80 |
-|             29 | Luke Green              |             72.06 |        3 |             14.73 | Dan Cole              |             80 |
-|             80 | Ed Prowse               |             57.27 |        4 |             69.25 | Tom Manz              |             15 |
-|             80 | Callum Hunter-Hill      |             53.14 |        5 |             22    | Come Clayver Joussain |             18 |
-|             80 | Angus Scott-Young       |             51.92 |        6 |             92.5  | Hanro Liebenberg      |             58 |
-|             80 | Fyn Brown               |             13.13 |        7 |             80.65 | Emeka Ilione          |             47 |
-|             80 | Juarno Augustus         |             67.38 |        8 |              1.5  | Kyle Hatherell        |             52 |
-|             80 | Tom James               |             33.87 |        9 |             57.12 | Ben Youngs            |             64 |
-|             80 | George Makepeace-Cubitt |             70.78 |       10 |             38.31 | Ben Volavola          |             80 |
-|             80 | Tom Seabrook            |              2.81 |       11 |             76.04 | Will Wand             |             25 |
-|             80 | Charlie Savala          |             48.78 |       12 |             39.89 | Joseph Woodward       |             64 |
-|             80 | Billy Pasco             |             31.43 |       13 |             95.03 | Dan Kelly             |             28 |
-|             80 | William Glister         |             16.29 |       14 |             29.39 | Adam Radwan           |             80 |
-|             29 | James Ramm              |             70.74 |       15 |             17.26 | James Shillcock       |             80 |
+|             80 | Tarek Haffar            |             82.96 |        1 |             17.04 | James Whitcombe       |             80 |
+|             80 | Henry Walker            |             37.63 |        2 |             27.26 | Charlie Clare         |             80 |
+|             80 | Luke Green              |             70.24 |        3 |             13.97 | Dan Cole              |             80 |
+|             67 | Ed Prowse               |             59.04 |        4 |             72.4  | Tom Manz              |             80 |
+|             80 | Callum Hunter-Hill      |             53.65 |        5 |             23.17 | Come Clayver Joussain |             80 |
+|             80 | Angus Scott-Young       |             52.8  |        6 |             92.75 | Hanro Liebenberg      |             80 |
+|             80 | Fyn Brown               |             13.35 |        7 |             81.04 | Emeka Ilione          |             80 |
+|             80 | Juarno Augustus         |             68.64 |        8 |              1.69 | Kyle Hatherell        |             80 |
+|             80 | Tom James               |             35.82 |        9 |             57.62 | Ben Youngs            |             80 |
+|             80 | George Makepeace-Cubitt |             71.7  |       10 |             37.87 | Ben Volavola          |             80 |
+|              8 | Tom Seabrook            |              3.62 |       11 |             77.64 | Will Wand             |             80 |
+|             33 | Charlie Savala          |             52.39 |       12 |             41.06 | Joseph Woodward       |             80 |
+|             33 | Billy Pasco             |             36.49 |       13 |             96.05 | Dan Kelly             |             80 |
+|             42 | William Glister         |             17.79 |       14 |             28.73 | Adam Radwan           |             80 |
+|             80 | James Ramm              |             71.49 |       15 |             16.35 | James Shillcock       |             80 |
 

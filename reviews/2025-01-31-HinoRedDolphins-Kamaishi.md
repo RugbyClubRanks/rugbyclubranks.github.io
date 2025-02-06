@@ -11,7 +11,7 @@ categories: "Japan Rugby League One - Division 2 2025" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.242, which translates to predicting Kamaishi to win by 17.0.
 
-Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 33 to 16
+Our Over/Under is 71.5 - and combined with the spread above, we have a predicted scoreline of 44 to 27
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model

@@ -11,7 +11,7 @@ categories: "Premiership Rugby Cup 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.066, which translates to predicting Sale Sharks to win by 23.3.
 
-Our Over/Under is 42.5 - and combined with the spread above, we have a predicted scoreline of 33 to 9
+Our Over/Under is 69.5 - and combined with the spread above, we have a predicted scoreline of 46 to 23
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,19 +69,19 @@ Sale Sharks by 8.2 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player       |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:------------------|---------------:|
-|             51 | Simon McIntyre      |             90.26 |        1 |             18.97 | Monty Weatherby   |             80 |
-|             80 | Tadgh McElroy       |             29.3  |        2 |             19.42 | Matt Gallagher    |             80 |
-|             80 | Jake Bridges        |             11.09 |        3 |              7.71 | Nathan Rushton    |             80 |
-|             80 | Ben Bamber          |             26.82 |        4 |             16.5  | Freddie Stevenson |             80 |
-|             80 | Jonny Hill          |              9.23 |        5 |             16.7  | Thomas Sanders    |             80 |
-|             80 | Sam Dugdale         |             24.88 |        6 |              2.76 | Sam Olyott        |             80 |
-|             80 | Tristan Woodman     |             48.37 |        7 |             18.76 | Thomas Parry      |             80 |
-|             80 | Rouban Birch        |             30.9  |        8 |              2.58 | Josiah Dickinson  |             80 |
-|             80 | Anerin (Nye) Thomas |             26.31 |        9 |             12.79 | Ollie Wynn        |             51 |
-|             80 | Tom Curtis          |             37.45 |       10 |              2.38 | Lewis Barker      |             80 |
-|             80 | Alex Wills          |             57.13 |       11 |             27.84 | Jacob Mitchell    |             80 |
-|             80 | Sam Bedlow          |             86.67 |       12 |              7.51 | Michael Barlow    |             80 |
-|             80 | Sam Bedlow          |             86.67 |       13 |              4.44 | Connor Wilkinson  |             80 |
-|             80 | Obi Ene             |             57.9  |       14 |             10.38 | Nick Royle        |             48 |
-|             80 | Ollie Davies        |             53.05 |       15 |             25.89 | Matt Kilcourse    |             80 |
+|             80 | Simon McIntyre      |             91.19 |        1 |             18.95 | Monty Weatherby   |             80 |
+|             80 | Tadgh McElroy       |             28.93 |        2 |             20.9  | Matt Gallagher    |             57 |
+|             48 | Jake Bridges        |              9.73 |        3 |              7.73 | Nathan Rushton    |             80 |
+|             80 | Ben Bamber          |             26.25 |        4 |             16.35 | Freddie Stevenson |             80 |
+|             80 | Jonny Hill          |              8.75 |        5 |             16.54 | Thomas Sanders    |             80 |
+|             80 | Sam Dugdale         |             24.95 |        6 |              2.71 | Sam Olyott        |             80 |
+|             80 | Tristan Woodman     |             47.68 |        7 |             20.7  | Thomas Parry      |             52 |
+|             80 | Rouban Birch        |             31.14 |        8 |              3.18 | Josiah Dickinson  |             80 |
+|             80 | Anerin (Nye) Thomas |             25.89 |        9 |             11.52 | Ollie Wynn        |             80 |
+|             80 | Tom Curtis          |             37.66 |       10 |              2.77 | Lewis Barker      |             57 |
+|             80 | Alex Wills          |             57.09 |       11 |             28.45 | Jacob Mitchell    |             80 |
+|             80 | Sam Bedlow          |             85.86 |       12 |              7.59 | Michael Barlow    |             80 |
+|             80 | Sam Bedlow          |             85.86 |       13 |              4.37 | Connor Wilkinson  |             80 |
+|             51 | Obi Ene             |             54.61 |       14 |              9.13 | Nick Royle        |             80 |
+|             51 | Ollie Davies        |             49.69 |       15 |             26    | Matt Kilcourse    |             80 |
 

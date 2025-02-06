@@ -11,7 +11,7 @@ categories: "Japan Rugby League One D2 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.67, which translates to predicting Hino Red Dolphins to win by 6.5.
 
-Our Over/Under is 62.5 - and combined with the spread above, we have a predicted scoreline of 28 to 34
+Our Over/Under is 77.5 - and combined with the spread above, we have a predicted scoreline of 35 to 42
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Hino Red Dolphins by 6.1
+## Prediction without Player Minutes: Hino Red Dolphins by 6.6
 
 
-Hino Red Dolphins by 3.3 on a neutral pitch
+Hino Red Dolphins by 3.8 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,26 +69,26 @@ Hino Red Dolphins by 3.3 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player     |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:----------------|---------------:|
-|             80 | Yusuke Yamada       |             21.68 |        1 |             26.76 | Yuto Tokuda     |             13 |
-|             80 | Daiki Ito           |              2.56 |        2 |             35.95 | Towa Taniguchi  |             52 |
-|             80 | Satoshi Ueda        |             71.55 |        3 |             11.77 | Shosuke Funaki  |             80 |
-|             80 | Satoshi Hatazawa    |             39.1  |        4 |             22.99 | Noah Tovio      |             80 |
-|             40 | Hamish Dalzell      |              8.35 |        5 |             93.22 | Rory Arnold     |             16 |
-|             80 | Ben Nee Nee         |              8.29 |        6 |             42.94 | Shun Nakashika  |             74 |
-|             80 | Ryota Kono          |             24.68 |        7 |             47.58 | Shun Tomonaga   |              6 |
-|             80 | Sam Henwood         |              4.29 |        8 |             62.45 | Shohei Ijima    |              7 |
-|             80 | Youhei Murakami     |              3.6  |        9 |             17.84 | Kotaro Hatada   |             52 |
-|             80 | Mitch Hunt          |             56.93 |       10 |             82.47 | Simon Hickey    |             28 |
-|              4 | Jamie Henry         |             83.9  |       11 |             40.83 | Moeki Fukushi   |             64 |
-|             79 | Gerdus van der Walt |             13.12 |       12 |             14.92 | Augustine Pulu  |             80 |
-|             18 | Katsuto Hatanaka    |             43.49 |       13 |             40.32 | Murray Koster   |             80 |
-|             76 | Gousuke Kawakami    |             13.77 |       14 |             38.89 | Sora Ouchi      |             16 |
-|             80 | Kazuki Ochi         |             26.95 |       15 |             13.68 | Kyoji Takano    |             64 |
-|              3 | Taiki Noguchi       |             14.39 |       16 |             40.77 | AJ Wolf         |             80 |
-|             16 | Kohei Ishigaki      |              9.42 |       17 |            nan    | Arito Takahashi |             80 |
-|             64 | Dallas Tatana       |              5.3  |       18 |              3.65 | Josh Fenner     |              4 |
-|             52 | Syou Kataoka        |             22.31 |       19 |             33.86 | Taroma Togo     |             58 |
-|             28 | Mosese Tonga        |             10.58 |       20 |             29.72 | Makoto Tsuchiya |             52 |
-|             51 | Atsushi Minami      |             23.24 |       21 |            nan    | nan             |            nan |
-|             80 | Hayato Nishibayashi |            nan    |       22 |            nan    | nan             |            nan |
+|             80 | Yusuke Yamada       |             22.36 |        1 |             27.51 | Yuto Tokuda     |              4 |
+|             51 | Daiki Ito           |              2.68 |        2 |             31.77 | Towa Taniguchi  |             18 |
+|             16 | Satoshi Ueda        |             74.56 |        3 |             21.78 | Shosuke Funaki  |             80 |
+|             80 | Satoshi Hatazawa    |             41.25 |        4 |             18.75 | Noah Tovio      |              4 |
+|             52 | Hamish Dalzell      |              7.98 |        5 |             93.56 | Rory Arnold     |             28 |
+|             64 | Ben Nee Nee         |              8.8  |        6 |             40.14 | Shun Nakashika  |             64 |
+|             80 | Ryota Kono          |             26.11 |        7 |             36.85 | Shun Tomonaga   |             40 |
+|             52 | Sam Henwood         |              4.45 |        8 |             62.92 | Shohei Ijima    |             80 |
+|             67 | Youhei Murakami     |              3.9  |        9 |             17.55 | Kotaro Hatada   |              1 |
+|             16 | Mitch Hunt          |             60.85 |       10 |             84.47 | Simon Hickey    |             48 |
+|             80 | Jamie Henry         |             83.06 |       11 |             52.9  | Moeki Fukushi   |             79 |
+|             16 | Gerdus van der Walt |             15.18 |       12 |             14.45 | Augustine Pulu  |             80 |
+|             22 | Katsuto Hatanaka    |             43.66 |       13 |             24.74 | Murray Koster   |             80 |
+|             16 | Gousuke Kawakami    |             15.13 |       14 |             47.95 | Sora Ouchi      |             76 |
+|             80 | Kazuki Ochi         |             28.09 |       15 |             13    | Kyoji Takano    |             16 |
+|             80 | Taiki Noguchi       |             14.46 |       16 |             41.31 | AJ Wolf         |             80 |
+|             80 | Kohei Ishigaki      |              9.25 |       17 |            nan    | Arito Takahashi |             77 |
+|             40 | Dallas Tatana       |              5.19 |       18 |              3.81 | Josh Fenner     |             51 |
+|             62 | Syou Kataoka        |             22.17 |       19 |             31.39 | Taroma Togo     |             20 |
+|             76 | Mosese Tonga        |             10.6  |       20 |             29.59 | Makoto Tsuchiya |              6 |
+|             80 | Atsushi Minami      |             23.05 |       21 |            nan    | nan             |            nan |
+|             28 | Hayato Nishibayashi |            nan    |       22 |            nan    | nan             |            nan |
 
