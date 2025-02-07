@@ -11,7 +11,7 @@ categories: "Premiership Rugby Cup 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.784, which translates to predicting Coventry to win by 11.4.
 
-Our Over/Under is 72.5 - and combined with the spread above, we have a predicted scoreline of 31 to 42
+Our Over/Under is 62.5 - and combined with the spread above, we have a predicted scoreline of 25 to 37
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,19 +69,19 @@ Coventry by 4.4 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             80 | Aniseko Sio        |             33.83 |        1 |             91.02 | Toby Trinder         |             80 |
-|             80 | Jack Dickinson     |             62.54 |        2 |             93.14 | Jordon Poole         |             80 |
-|             80 | Xavier Valentine   |             18.62 |        3 |             17.62 | Eliot Salt           |             80 |
-|             80 | Jay Ecclesfield    |             22.79 |        4 |             55.77 | James Tyas           |             80 |
-|             80 | Sebastien Ferreira |              3.46 |        5 |             44.62 | Obinna Nkwocha       |             80 |
-|             80 | Kody Vereti        |             43.71 |        6 |             89.85 | Tom Ball             |             80 |
-|             80 | Nathan Tweedy      |             22.92 |        7 |             17.89 | Aaron Hinkley        |             80 |
-|             80 | Jacob Wright       |              9.96 |        8 |             98.31 | Senitiki Nayalo      |             80 |
-|             80 | Toby Venner        |             68.44 |        9 |             38.3  | Sam Maunder          |             80 |
-|             80 | Gwyn Parks         |             10.43 |       10 |             57.66 | Tommy Mathews        |             29 |
-|             80 | Ryan Olowofela     |             83.44 |       11 |             85.73 | James Martin         |             23 |
-|             80 | Levi Roper         |             43.24 |       12 |             12.37 | Dafydd-Rhys Tiueti   |             19 |
-|             80 | Aman Johal         |             40.96 |       13 |             67.15 | Thomas Hitchcock     |             29 |
-|             80 | Harry Graham       |             70.6  |       14 |              9.71 | David Opoku-Fordjour |             80 |
-|             80 | Jack Stapley       |              1.05 |       15 |             66.67 | Ryan Hutler          |             80 |
+|             80 | Aniseko Sio        |             36.71 |        1 |             90.37 | Toby Trinder         |             80 |
+|             52 | Jack Dickinson     |             68.96 |        2 |             92.79 | Jordon Poole         |             80 |
+|             80 | Xavier Valentine   |             20.68 |        3 |             16.45 | Eliot Salt           |             80 |
+|             80 | Jay Ecclesfield    |             24.54 |        4 |             54.07 | James Tyas           |             80 |
+|             80 | Sebastien Ferreira |              4.41 |        5 |             41.13 | Obinna Nkwocha       |             80 |
+|             80 | Kody Vereti        |             46.67 |        6 |             89.59 | Tom Ball             |             80 |
+|             80 | Nathan Tweedy      |             24.88 |        7 |             16.88 | Aaron Hinkley        |             80 |
+|             80 | Jacob Wright       |             10.29 |        8 |             98.32 | Senitiki Nayalo      |             80 |
+|             80 | Toby Venner        |             69.15 |        9 |             35.46 | Sam Maunder          |             80 |
+|             80 | Gwyn Parks         |             11.32 |       10 |             62.39 | Tommy Mathews        |             80 |
+|             80 | Ryan Olowofela     |             84.16 |       11 |             88.99 | James Martin         |             80 |
+|             28 | Levi Roper         |             54.59 |       12 |             16.62 | Dafydd-Rhys Tiueti   |             80 |
+|             23 | Aman Johal         |             53.25 |       13 |             72.03 | Thomas Hitchcock     |             80 |
+|             28 | Harry Graham       |             76.85 |       14 |              9.11 | David Opoku-Fordjour |             80 |
+|             28 | Jack Stapley       |              1.64 |       15 |             64.55 | Ryan Hutler          |             80 |
 

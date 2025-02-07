@@ -11,7 +11,7 @@ categories: "Premiership Rugby Cup 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.952, which translates to predicting Harlequins to win by 26.5.
 
-Our Over/Under is 61.5 - and combined with the spread above, we have a predicted scoreline of 18 to 44
+Our Over/Under is 56.5 - and combined with the spread above, we have a predicted scoreline of 15 to 42
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,19 +69,19 @@ Harlequins by 5.1 on a neutral pitch
 
 |   Away Minutes | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player      |   Home Minutes |
 |---------------:|:------------------|------------------:|---------:|------------------:|:-----------------|---------------:|
-|             80 | Will Prior        |             78.39 |        1 |             52.87 | Ethan Clarke     |             80 |
-|             80 | Austin Wallis     |             10.54 |        2 |             34.78 | Jack Musk        |             80 |
-|             80 | Ashley Challenger |              3.74 |        3 |             79.8  | William Hobson   |             80 |
-|             80 | Matt Wilkinson    |             25.87 |        4 |              8.56 | Jonny Green      |             80 |
-|             80 | Alex Wardell      |             21.15 |        5 |             31.63 | George Hammond   |             80 |
-|             80 | Jake Spurway      |             34.24 |        6 |             62.86 | Zach Carr        |             80 |
-|             80 | Jack Ingall       |              7.83 |        7 |             52.32 | Archie White     |             80 |
-|             80 | Ioan Rhys Davies  |              7.63 |        8 |             44.7  | Lucas Schmid     |             80 |
-|             80 | Jonny Law         |             26.6  |        9 |             40.6  | Lewis Gjaltema   |             80 |
-|             80 | Tom Wilstead      |             13.19 |       10 |             20.64 | Jamie Benson     |             80 |
-|             80 | Noah Ferdinand    |              2.19 |       11 |             64.61 | Cassius Cleaves  |             80 |
-|             80 | Bryn Bradley      |             81.19 |       12 |             81.19 | Bryn Bradley     |             80 |
-|             80 | Sean Kerr         |             83.99 |       13 |             83.99 | Sean Kerr        |             80 |
-|             80 | Matthew Gribbon   |             45.2  |       14 |             67.27 | Cameron Anderson |             80 |
-|             80 | Jonah Holmes      |             77.78 |       15 |             60.17 | Leigh Halfpenny  |             80 |
+|             80 | Will Prior        |             78.49 |        1 |             52.66 | Ethan Clarke     |             80 |
+|             80 | Austin Wallis     |             10.23 |        2 |             34.23 | Jack Musk        |             80 |
+|             80 | Ashley Challenger |              3.65 |        3 |             79.98 | William Hobson   |             80 |
+|             80 | Matt Wilkinson    |             26.85 |        4 |              9.49 | Jonny Green      |             80 |
+|             80 | Alex Wardell      |             21.67 |        5 |             32.6  | George Hammond   |             80 |
+|             80 | Jake Spurway      |             34.43 |        6 |             63.26 | Zach Carr        |             80 |
+|             80 | Jack Ingall       |              7.91 |        7 |             53.13 | Archie White     |             80 |
+|             80 | Ioan Rhys Davies  |              7.35 |        8 |             45.17 | Lucas Schmid     |             80 |
+|             80 | Jonny Law         |             26.42 |        9 |             40.6  | Lewis Gjaltema   |             80 |
+|             80 | Tom Wilstead      |             13.03 |       10 |             20.09 | Jamie Benson     |             80 |
+|             80 | Noah Ferdinand    |              2.28 |       11 |             65.09 | Cassius Cleaves  |             52 |
+|             80 | Bryn Bradley      |             81.73 |       12 |             81.73 | Bryn Bradley     |             80 |
+|             80 | Sean Kerr         |             84.31 |       13 |             84.31 | Sean Kerr        |             80 |
+|             80 | Matthew Gribbon   |             45.07 |       14 |             67.74 | Cameron Anderson |             80 |
+|             80 | Jonah Holmes      |             77.25 |       15 |             60.04 | Leigh Halfpenny  |             80 |
 

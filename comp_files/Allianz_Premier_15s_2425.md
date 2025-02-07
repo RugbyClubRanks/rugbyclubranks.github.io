@@ -1,6 +1,6 @@
 ---  
 title: "Allianz Premier 15s 24/25 Status"  
-date: 2025-02-06 6:00:00 -0500  
+date: 2025-02-07 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -34,10 +34,10 @@ aside:
 
 | Club                      |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Ealing Trailfinders Women |                   1 |    0.9 |              11.6759 |                   0.1 |                0.6 |                  4.2 |
-| Bristol Bears Women       |                   1 |    0.7 |               4.8655 |                   0.2 |                0.2 |                  3.3 |
-| Exeter Chiefs Women       |                   1 |    0.3 |              -4.8655 |                   0.4 |                0.2 |                  1.7 |
-| Sale Sharks Women         |                   1 |    0.1 |             -11.6759 |                   0.2 |                0.1 |                  0.8 |
+| Ealing Trailfinders Women |                   1 |    0.9 |             12.5898  |                   0.1 |                0.6 |                  4.3 |
+| Bristol Bears Women       |                   1 |    0.7 |              5.11144 |                   0.2 |                0.2 |                  3.4 |
+| Exeter Chiefs Women       |                   1 |    0.3 |             -5.11144 |                   0.4 |                0.2 |                  1.6 |
+| Sale Sharks Women         |                   1 |    0.1 |            -12.5898  |                   0.2 |                0.2 |                  0.8 |
 
 
 
@@ -49,12 +49,12 @@ aside:
 | Gloucester-Hartpury Women |              14 |   11   |             183      |                   2   |                0   |                 46   |
 | Harlequins Women          |              14 |   11   |             136      |                   1   |                0   |                 45   |
 | Saracens Women            |              14 |   10   |             226      |                   2   |                0   |                 42   |
-| Exeter Chiefs Women       |              14 |    9.3 |              81.1345 |                   2.4 |                0.2 |                 39.7 |
-| Bristol Bears Women       |              15 |    8.7 |             144.865  |                   1.2 |                0.2 |                 36.3 |
+| Exeter Chiefs Women       |              14 |    9.3 |              80.8886 |                   2.4 |                0.2 |                 39.6 |
+| Bristol Bears Women       |              15 |    8.7 |             145.111  |                   1.2 |                0.2 |                 36.4 |
 | Loughborough Lightning    |              15 |    6   |             -19      |                   2   |                0   |                 26   |
-| Ealing Trailfinders Women |              14 |    4.9 |             -26.3241 |                   2.1 |                0.6 |                 22.2 |
+| Ealing Trailfinders Women |              14 |    4.9 |             -25.4102 |                   2.1 |                0.6 |                 22.3 |
 | Leicester Tigers Women    |              14 |    2   |            -384      |                   0   |                0   |                  8   |
-| Sale Sharks Women         |              14 |    1.1 |            -341.676  |                   0.2 |                0.1 |                  4.8 |
+| Sale Sharks Women         |              14 |    1.1 |            -342.59   |                   0.2 |                0.2 |                  4.8 |
 
 
 
@@ -75,7 +75,7 @@ aside:
 ### Bristol Bears Women V Exeter Chiefs Women on 2025/02/08
 
 
-Average Margin: Bristol Bears Women by 4.9
+Average Margin: Bristol Bears Women by 5.1
 
 Average Scoreline: 34-29
 
@@ -88,7 +88,7 @@ Average Scoreline: 34-29
 ### Sale Sharks Women V Ealing Trailfinders Women on 2025/02/08
 
 
-Average Margin: Ealing Trailfinders Women by 11.7
+Average Margin: Ealing Trailfinders Women by 12.6
 
 Average Scoreline: 33-21
 

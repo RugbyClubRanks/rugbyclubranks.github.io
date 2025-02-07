@@ -11,7 +11,7 @@ categories: "Premiership Rugby Cup 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.696, which translates to predicting Saracens to win by 7.3.
 
-Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 22 to 29
+Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 23 to 31
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Ealing Trailfinders by 1.5
+## Prediction without Player Minutes: Ealing Trailfinders by 5.8
 
 
-Ealing Trailfinders by 12.5 on a neutral pitch
+Ealing Trailfinders by 16.8 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,19 +69,21 @@ Ealing Trailfinders by 12.5 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player       |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:------------------|---------------:|
-|             80 | Lefty Zigiriadis    |             96.92 |        1 |              3.57 | Rhys Carré        |             80 |
-|             80 | Mike Willemse       |             90.8  |        2 |             54.68 | James Hadfield    |             80 |
-|             80 | George Davis        |             87.28 |        3 |              1.41 | Fraser Balmain    |             80 |
-|             80 | Bobby de Wee        |             96.83 |        4 |              0.38 | Harry Wilson      |             80 |
-|             52 | Ehize Ehizode       |              4.13 |        5 |             15.96 | Kennedy Sylvester |             80 |
-|             16 | Rob Farrar          |             86.46 |        6 |             14.89 | Max Eke           |             80 |
-|             80 | Jordy Reid          |             82.4  |        7 |             26.6  | Toby Knight       |             80 |
-|              8 | Will Montgomery     |             44.28 |        8 |             73.31 | Nathan Michelow   |             80 |
-|             50 | Craig Hampson       |             90.96 |        9 |             37.94 | Charlie Bracken   |             80 |
-|             28 | Dan Jones           |             86.17 |       10 |             29.15 | Tiff Eden         |             80 |
-|             80 | Michael Dykes       |             89.44 |       11 |             41.1  | Rotimi Segun      |             80 |
-|             80 | Jordan Holgate      |             91.06 |       12 |             23.28 | Olly Hartley      |             80 |
-|             80 | Reuben Bird-Tulloch |             88.98 |       13 |             17.88 | Sam Spink         |             80 |
-|             80 | Ben Harris          |             66.51 |       14 |             39.49 | Tobias Elliott    |             80 |
-|             62 | Tobi Wilson         |             88.89 |       15 |             91.19 | Tom Parton        |             80 |
+|             80 | Lefty Zigiriadis    |             95.43 |        1 |              6.23 | Rhys Carré        |             80 |
+|             80 | Mike Willemse       |             88.09 |        2 |             68.79 | James Hadfield    |             80 |
+|             80 | George Davis        |             83.55 |        3 |              2.08 | Fraser Balmain    |             64 |
+|             80 | Bobby de Wee        |             96.36 |        4 |              1.44 | Harry Wilson      |             30 |
+|             80 | Bobby de Wee        |             96.36 |        4 |              1.44 | Harry Wilson      |             16 |
+|             80 | Bobby de Wee        |             96.36 |        4 |              1.44 | Harry Wilson      |             80 |
+|             80 | Ehize Ehizode       |              4.51 |        5 |             23.01 | Kennedy Sylvester |             80 |
+|             80 | Rob Farrar          |             88.43 |        6 |             27.19 | Max Eke           |             25 |
+|             80 | Jordy Reid          |             80.04 |        7 |             52.46 | Toby Knight       |             16 |
+|             80 | Will Montgomery     |             55.67 |        8 |             79.62 | Nathan Michelow   |             64 |
+|             80 | Craig Hampson       |             90.25 |        9 |             51.42 | Charlie Bracken   |             80 |
+|             80 | Dan Jones           |             87.39 |       10 |             43.8  | Tiff Eden         |             80 |
+|             80 | Michael Dykes       |             85.39 |       11 |             62.52 | Rotimi Segun      |             22 |
+|              8 | Jordan Holgate      |             87.41 |       12 |             40.97 | Olly Hartley      |             29 |
+|             80 | Reuben Bird-Tulloch |             86.89 |       13 |             26.21 | Sam Spink         |             58 |
+|             16 | Ben Harris          |             46.77 |       14 |             54.74 | Tobias Elliott    |             80 |
+|             80 | Tobi Wilson         |             87.3  |       15 |             90.57 | Tom Parton        |             80 |
 

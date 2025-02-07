@@ -9,7 +9,7 @@ categories: "Premiership Rugby Cup 24/25" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.929, which translates to predicting Sale Sharks to win by 21.7.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.928, which translates to predicting Sale Sharks to win by 21.8.
 
 Our Over/Under is 63.5 - and combined with the spread above, we have a predicted scoreline of 21 to 42
 
@@ -42,5 +42,5 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Imputed Lineups: Sale Sharks by 20.7
 
 
-Sale Sharks by 7.1 on a neutral pitch
+Sale Sharks by 7.2 on a neutral pitch
 

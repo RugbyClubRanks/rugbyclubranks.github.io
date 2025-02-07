@@ -9,7 +9,7 @@ categories: "Pro D2 24/25" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.673, which translates to predicting Provence Rugby to win by 7.2.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.67, which translates to predicting Provence Rugby to win by 7.1.
 
 Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 22 to 29
 
