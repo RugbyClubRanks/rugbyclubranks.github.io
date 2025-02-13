@@ -11,7 +11,7 @@ categories: "United Rugby Championship 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.536, which translates to predicting Stormers to win by 1.3.
 
-Our Over/Under is 42.5 - and combined with the spread above, we have a predicted scoreline of 21 to 22
+Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 24 to 25
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -42,7 +42,7 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction without Player Minutes: Stormers by 1.7
 
 
-Bulls by 6.8 on a neutral pitch
+Bulls by 6.9 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Bulls by 6.8 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             82 | Jan-Hendrik Wessels |             53.94 |        1 |             89.54 | Sti Sithole         |             52 |
-|             62 | Johan Grobbelaar    |             94.43 |        2 |             70.1  | Joseph Dweba        |              9 |
-|             10 | Wilco Louw          |             99.5  |        3 |             73.69 | Frans Malherbe      |             82 |
-|             20 | Cobus Wiese         |             94.62 |        4 |             77.88 | Salmaan Moerat      |             10 |
-|              4 | JF van Heerden      |             10.38 |        5 |             86.15 | Ruben van Heerden   |             82 |
-|             35 | Marcell Coetzee     |             95.34 |        6 |             93.31 | Deon Fourie         |             80 |
-|             72 | Reinhardt Ludwig    |             78.18 |        7 |             65.57 | Ben-Jason Dixon     |             27 |
-|             72 | Cameron Hanekom     |             62.11 |        8 |             83.79 | Evan Roos           |             62 |
-|             45 | Embrose Papier      |             92.04 |        9 |             22.12 | Stefan Ungerer      |             82 |
-|             35 | Willie le Roux      |             96.61 |       10 |             40.47 | Jurie Matthee       |             29 |
-|             45 | Sergeal Petersen    |             97.64 |       11 |             83.51 | Leolin Zas          |             82 |
-|             82 | Harold Vorster      |             97.28 |       12 |             91.54 | Daniel du Plessis   |             16 |
-|             20 | David Kriel         |             81.71 |       13 |             63.11 | Wandisile Simelane  |             58 |
-|             35 | Canan Moodie        |             99.53 |       14 |             90.39 | Ben Loader          |             16 |
-|             35 | Devon Williams      |             91.22 |       15 |             98.57 | Warrick Gelant      |             55 |
-|             72 | Akker van der Merwe |             96.96 |       16 |             76.18 | Andre-Hugo Venter   |             82 |
-|             22 | Gerhard Steenekamp  |             90.04 |       17 |             99.92 | Brok Harris         |             66 |
-|             22 | Francois Klopper    |             15.27 |       18 |             16.76 | Sazi Sandi          |             41 |
-|             13 | Ruan Vermaak        |              2.88 |       19 |             18.94 | Gary Porter         |             82 |
-|             35 | Nizaam Carr         |             97.47 |       20 |             43.16 | Marcel Theunissen   |             82 |
-|             20 | Zak Burger          |             93.81 |       21 |             93.1  | Herschel Jantjies   |             41 |
-|             30 | Boeta Chamberlain   |             64.62 |       22 |             53.08 | Jonathan Roche      |             80 |
-|             78 | Sebastian de Klerk  |             92.65 |       23 |             94.69 | Clayton Blommetjies |             82 |
+|             82 | Jan-Hendrik Wessels |             44.11 |        1 |             90.46 | Sti Sithole         |             82 |
+|             82 | Johan Grobbelaar    |             94.44 |        2 |             69.87 | Joseph Dweba        |             82 |
+|             82 | Wilco Louw          |             99.59 |        3 |             81.01 | Frans Malherbe      |             72 |
+|             72 | Cobus Wiese         |             94.53 |        4 |             77.35 | Salmaan Moerat      |             82 |
+|             82 | JF van Heerden      |             11.71 |        5 |             88.96 | Ruben van Heerden   |              4 |
+|             80 | Marcell Coetzee     |             95.2  |        6 |             94.14 | Deon Fourie         |             41 |
+|             69 | Reinhardt Ludwig    |             75.41 |        7 |             65.32 | Ben-Jason Dixon     |             62 |
+|             80 | Cameron Hanekom     |             58.02 |        8 |             86.29 | Evan Roos           |             82 |
+|              9 | Embrose Papier      |             91.65 |        9 |             30.78 | Stefan Ungerer      |             73 |
+|             10 | Willie le Roux      |             95.74 |       10 |             44.04 | Jurie Matthee       |             20 |
+|             67 | Sergeal Petersen    |             97.62 |       11 |             86.03 | Leolin Zas          |             10 |
+|             20 | Harold Vorster      |             96.57 |       12 |             91.99 | Daniel du Plessis   |             30 |
+|             41 | David Kriel         |             81.37 |       13 |             67.22 | Wandisile Simelane  |             55 |
+|             53 | Canan Moodie        |             99.62 |       14 |             90.49 | Ben Loader          |             80 |
+|             13 | Devon Williams      |             91.34 |       15 |             98.97 | Warrick Gelant      |             82 |
+|             80 | Akker van der Merwe |             96.97 |       16 |             76.6  | Andre-Hugo Venter   |             72 |
+|             80 | Gerhard Steenekamp  |             90.3  |       17 |             99.92 | Brok Harris         |             27 |
+|             80 | Francois Klopper    |             15.26 |       18 |             16.5  | Sazi Sandi          |             52 |
+|             70 | Ruan Vermaak        |              2.59 |       19 |             18.33 | Gary Porter         |             66 |
+|             69 | Nizaam Carr         |             97.47 |       20 |             41.88 | Marcel Theunissen   |             47 |
+|             67 | Zak Burger          |             93.74 |       21 |             93.22 | Herschel Jantjies   |             35 |
+|             31 | Boeta Chamberlain   |             65.96 |       22 |             53.9  | Jonathan Roche      |             10 |
+|             16 | Sebastian de Klerk  |             92.78 |       23 |             94.85 | Clayton Blommetjies |             35 |
 

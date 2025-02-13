@@ -8,7 +8,7 @@ key: page-recents
 ## Six Nations Championship
 
 
-[2025](comp_files\Six_Nations_Championship_2025) - Prediction Accuracy: 100.0% 
+[2025](comp_files\Six_Nations_Championship_2025) - Prediction Accuracy: 66.7% 
 
 [2024](comp_files\Six_Nations_Championship_2024) - Prediction Accuracy: 46.7% 
 
@@ -146,7 +146,7 @@ key: page-recents
 ## United Rugby Championship
 
 
-[2425](comp_files\United_Rugby_Championship_2425) - Prediction Accuracy: 72.5% 
+[2425](comp_files\United_Rugby_Championship_2425) - Prediction Accuracy: 71.6% 
 
 [2024](comp_files\United_Rugby_Championship_2024) - Prediction Accuracy: 74.4% 
 
@@ -216,7 +216,7 @@ key: page-recents
 ## Japan Rugby League One
 
 
-[2425](comp_files\Japan_Rugby_League_One_2425) - Prediction Accuracy: 75.0% 
+[2425](comp_files\Japan_Rugby_League_One_2425) - Prediction Accuracy: 66.7% 
 
 [2024](comp_files\Japan_Rugby_League_One_2024) - Prediction Accuracy: 76.7% 
 
@@ -296,7 +296,7 @@ key: page-recents
 ## Allianz Premier 15s
 
 
-[2425](comp_files\Allianz_Premier_15s_2425) - Prediction Accuracy: 77.4% 
+[2425](comp_files\Allianz_Premier_15s_2425) - Prediction Accuracy: 78.1% 
 
 [2024](comp_files\Allianz_Premier_15s_2024) - Prediction Accuracy: 79.3% 
 
@@ -304,7 +304,7 @@ key: page-recents
 ## Division de Honor de Rugby
 
 
-[2425](comp_files\Division_de_Honor_de_Rugby_2425) - Prediction Accuracy: 70.8% 
+[2425](comp_files\Division_de_Honor_de_Rugby_2425) - Prediction Accuracy: 72.2% 
 
 [2024](comp_files\Division_de_Honor_de_Rugby_2024) - Prediction Accuracy: 70.8% 
 ## Super Rugby Aotearoa
@@ -358,7 +358,7 @@ key: page-recents
 ## Pro D2
 
 
-[2425](comp_files\Pro_D2_2425) - Prediction Accuracy: 66.2% 
+[2425](comp_files\Pro_D2_2425) - Prediction Accuracy: 65.4% 
 
 [2024](comp_files\Pro_D2_2024) - Prediction Accuracy: 67.1% 
 

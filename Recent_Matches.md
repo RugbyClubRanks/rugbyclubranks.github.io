@@ -18,9 +18,9 @@ Last Round Accuracy: 3 of 4 (75.0%)
 
 Last Round Error: 24.55 points per match
 
-[2025-02-08 Romania at Belgium; 31-14](reviews//2025-02-08-Belgium-Romania)
-
 [2025-02-08 Netherlands at Georgia; 7-40](reviews//2025-02-08-Georgia-Netherlands)
+
+[2025-02-08 Romania at Belgium; 31-14](reviews//2025-02-08-Belgium-Romania)
 
 [2025-02-09 Spain at Switzerland; 43-13](reviews//2025-02-09-Switzerland-Spain)
 
@@ -54,13 +54,13 @@ Competition Accuracy: 50 of 64 (78.12%)
 
 Competition Error: 15.36 points per match
 
-Last Round Accuracy: 4 of 5 (80.0%)
+Last Round Accuracy: 3 of 5 (60.0%)
 
-Last Round Error: 9.4 points per match
-
-[2025-02-08 Exeter Chiefs Women at Bristol Bears Women; 17-45](reviews//2025-02-08-BristolBearsWomen-ExeterChiefsWomen)
+Last Round Error: 12.68 points per match
 
 [2025-02-08 Ealing Trailfinders Women at Sale Sharks Women; 33-20](reviews//2025-02-08-SaleSharksWomen-EalingTrailfindersWomen)
+
+[2025-02-08 Exeter Chiefs Women at Bristol Bears Women; 17-45](reviews//2025-02-08-BristolBearsWomen-ExeterChiefsWomen)
 ## Division de Honor de Rugby
 
 
@@ -76,13 +76,13 @@ Last Round Error: 10.06 points per match
 
 [2025-02-08 CRC Pozuelo Rugby at Cisneros; 25-38](reviews//2025-02-08-Cisneros-CRCPozueloRugby)
 
-[2025-02-09 C.R. La Vila at VRAC; 22-45](reviews//2025-02-09-VRAC-C.R.LaVila)
-
 [2025-02-09 Ordizia at Alcobendas; 29-48](reviews//2025-02-09-Alcobendas-Ordizia)
 
 [2025-02-09 Aparejadores Burgos at FC Barcelona; 31-22](reviews//2025-02-09-FCBarcelona-AparejadoresBurgos)
 
 [2025-02-09 UE Santboiana at Real Ciencias; 44-17](reviews//2025-02-09-RealCiencias-UESantboiana)
+
+[2025-02-09 C.R. La Vila at VRAC; 22-45](reviews//2025-02-09-VRAC-C.R.LaVila)
 
 [2025-02-09 El Salvador at Les Abelles R.C.; 17-14](reviews//2025-02-09-LesAbellesR.C.-ElSalvador)
 ## Japan Rugby League One
@@ -100,11 +100,11 @@ Last Round Error: 8.0 points per match
 
 [2025-02-08 Kubota Spears at Yokohama Canon Eagles; 30-22](reviews//2025-02-08-YokohamaCanonEagles-KubotaSpears)
 
-[2025-02-08 Tokyo Sungoliath at Kobelco Kobe Steelers; 31-29](reviews//2025-02-08-KobelcoKobeSteelers-TokyoSungoliath)
+[2025-02-08 Shizuoka Blue Revs at Black Rams Tokyo; 32-24](reviews//2025-02-08-BlackRamsTokyo-ShizuokaBlueRevs)
 
 [2025-02-08 Mie Honda Heat at Urayasu D-Rocks; 26-31](reviews//2025-02-08-UrayasuD-Rocks-MieHondaHeat)
 
-[2025-02-08 Shizuoka Blue Revs at Black Rams Tokyo; 32-24](reviews//2025-02-08-BlackRamsTokyo-ShizuokaBlueRevs)
+[2025-02-08 Tokyo Sungoliath at Kobelco Kobe Steelers; 31-29](reviews//2025-02-08-KobelcoKobeSteelers-TokyoSungoliath)
 
 [2025-02-09 Toyota Verblitz at Mitsubishi Dynaboars; 40-44](reviews//2025-02-09-MitsubishiDynaboars-ToyotaVerblitz)
 
@@ -124,15 +124,15 @@ Last Round Error: 18.59 points per match
 
 [2025-02-07 Hartpury College at Gloucester Rugby; 7-7](reviews//2025-02-07-GloucesterRugby-HartpuryCollege)
 
-[2025-02-07 Saracens at London Scottish; 20-0](reviews//2025-02-07-LondonScottish-Saracens)
-
 [2025-02-07 Bristol Rugby at Bedford; 14-23](reviews//2025-02-07-Bedford-BristolRugby)
+
+[2025-02-07 Saracens at London Scottish; 20-0](reviews//2025-02-07-LondonScottish-Saracens)
 
 [2025-02-07 Doncaster at Sale Sharks; 20-19](reviews//2025-02-07-SaleSharks-Doncaster)
 
-[2025-02-08 Nottingham at Leicester Tigers; 19-57](reviews//2025-02-08-LeicesterTigers-Nottingham)
-
 [2025-02-08 Harlequins at Ealing Trailfinders; 32-10](reviews//2025-02-08-EalingTrailfinders-Harlequins)
+
+[2025-02-08 Nottingham at Leicester Tigers; 19-57](reviews//2025-02-08-LeicesterTigers-Nottingham)
 
 [2025-02-08 Coventry at Northampton Saints; 23-50](reviews//2025-02-08-NorthamptonSaints-Coventry)
 
@@ -146,13 +146,13 @@ Last Round Error: 18.59 points per match
 
 [In depth model review and projections for United Rugby Championship 24/25](comp_files/United_Rugby_Championship_24/25)
 
-Competition Accuracy: 58 of 81 (71.6%)
+Competition Accuracy: 58 of 82 (70.73%)
 
-Competition Error: 10.22 points per match
+Competition Error: 10.6 points per match
 
 Last Round Accuracy: 4 of 8 (50.0%)
 
-Last Round Error: 10.85 points per match
+Last Round Error: 14.29 points per match
 
 [2025-02-08 Bulls at Stormers; 33-32](reviews//2025-02-08-Stormers-Bulls)
 # Domestic Leagues
@@ -190,13 +190,13 @@ Last Round Error: 15.02 points per match
 
 [2025-02-07 Agen at Montauban; 14-36](reviews//2025-02-07-Montauban-Agen)
 
-[2025-02-07 Nevers at Provence Rugby; 21-38](reviews//2025-02-07-ProvenceRugby-Nevers)
+[2025-02-07 Valence Romans Drome Rugby at Dax; 23-17](reviews//2025-02-07-Dax-ValenceRomansDromeRugby)
 
 [2025-02-07 Soyaux-Angouleme at Brive; 0-24](reviews//2025-02-07-Brive-Soyaux-Angouleme)
 
 [2025-02-07 Oyonnax at Beziers; 15-26](reviews//2025-02-07-Beziers-Oyonnax)
 
-[2025-02-07 Valence Romans Drome Rugby at Dax; 23-17](reviews//2025-02-07-Dax-ValenceRomansDromeRugby)
+[2025-02-07 Nevers at Provence Rugby; 21-38](reviews//2025-02-07-ProvenceRugby-Nevers)
 
 [2025-02-07 Aurillac at Nice; 29-18](reviews//2025-02-07-Nice-Aurillac)
 

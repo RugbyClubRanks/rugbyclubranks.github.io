@@ -11,7 +11,7 @@ categories: "Six Nations Championship 2025" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.699, which translates to predicting Italy to win by 7.6.
 
-Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 22 to 29
+Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 19 to 27
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Italy by 17.7
+## Prediction without Player Minutes: Italy by 15.0
 
 
-Italy by 12.5 on a neutral pitch
+Italy by 9.8 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,28 +69,27 @@ Italy by 12.5 on a neutral pitch
 
 |   Away Minutes | Away Player      |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:-----------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             27 | Gareth Thomas    |             49.29 |        1 |             74.11 | Danilo Fischetti   |             13 |
-|             18 | Evan Lloyd       |             31.93 |        2 |             96.28 | Giacomo Nicotera   |             50 |
-|             13 | Henry Thomas     |             60.58 |        3 |             94.52 | Simone Ferrari     |             69 |
-|             80 | Will Rowlands    |             27.98 |        4 |             58.37 | Niccolo Cannone    |             30 |
-|             80 | Freddie Thomas   |             77.5  |        5 |             94.23 | Federico Ruzza     |             80 |
-|             11 | James Botham     |             72.55 |        6 |             79.44 | Sebastian Negri    |             80 |
-|             45 | Jac Morgan       |             94.57 |        7 |             96.22 | Michele Lamaro     |             53 |
-|             58 | Taulupe Faletau  |             82.32 |        8 |             96.21 | Lorenzo Cannone    |             74 |
-|             13 | Tomos Williams   |             81.59 |        9 |             68.14 | Martin Page-Relo   |             30 |
-|             27 | Ben Thomas       |             36.02 |       10 |             82.63 | Paolo Garbisi      |             23 |
-|             80 | Josh Adams       |             85.2  |       11 |             97.55 | Monty Ioane        |             23 |
-|             67 | Eddie James      |             79.21 |       12 |             94.88 | Tommaso Menoncello |             23 |
-|             62 | Nick Tompkins    |             99.79 |       13 |             93.83 | Juan Ignacio Brex  |             50 |
-|             62 | Tom Rogers       |             79.26 |       14 |             98.02 | Ange Capuozzo      |             80 |
-|             18 | Blair Murray     |             50    |       15 |             68.57 | Tommaso Allan      |              4 |
-|             80 | Elliot Dee       |             86.15 |       16 |             86.66 | Gianmarco Lucchesi |             80 |
-|             62 | Nicky Smith      |             82.57 |       17 |             63.73 | Luca Rizzoli       |             80 |
-|             80 | Keiron Assiratti |              2.32 |       18 |             82.41 | Marco Riccioni     |             80 |
-|             69 | Keiron Assiratti |              2.32 |       18 |             82.41 | Marco Riccioni     |             80 |
-|             67 | Teddy Williams   |              9.52 |       19 |             68.27 | Dino Lamb          |             80 |
-|             80 | Aaron Wainwright |             26.32 |       20 |             68.77 | Manuel Zuliani     |              0 |
-|             31 | Rhodri Williams  |             76.64 |       21 |             75.79 | Ross Vintcent      |             80 |
-|             70 | Dan Edwards      |             80.3  |       22 |             59.12 | Alessandro Garbisi |             67 |
-|             49 | Josh Hathaway    |             70.31 |       23 |             16.4  | Jacopo Trulla      |             53 |
+|             54 | Gareth Thomas    |             56.05 |        1 |             73.05 | Danilo Fischetti   |             74 |
+|             16 | Evan Lloyd       |             44.78 |        2 |             96.63 | Giacomo Nicotera   |             11 |
+|             62 | Henry Thomas     |             69.9  |        3 |             94.69 | Simone Ferrari     |             80 |
+|             62 | Will Rowlands    |             31.86 |        4 |             53.93 | Niccolo Cannone    |             80 |
+|             80 | Freddie Thomas   |             79.17 |        5 |             94.24 | Federico Ruzza     |             80 |
+|             45 | James Botham     |             79.83 |        6 |             81.08 | Sebastian Negri    |             35 |
+|             28 | Jac Morgan       |             95.97 |        7 |             96.25 | Michele Lamaro     |             49 |
+|              0 | Taulupe Faletau  |             81.01 |        8 |             96.62 | Lorenzo Cannone    |             67 |
+|             80 | Tomos Williams   |             88.52 |        9 |             68.35 | Martin Page-Relo   |             62 |
+|             13 | Ben Thomas       |             48.94 |       10 |             82.98 | Paolo Garbisi      |             29 |
+|             22 | Josh Adams       |             85.27 |       11 |             97.34 | Monty Ioane        |             53 |
+|             22 | Eddie James      |             77.52 |       12 |             94.48 | Tommaso Menoncello |             13 |
+|             27 | Nick Tompkins    |             99.79 |       13 |             93.86 | Juan Ignacio Brex  |             18 |
+|             80 | Tom Rogers       |             84.51 |       14 |             98.1  | Ange Capuozzo      |             80 |
+|             80 | Blair Murray     |             57.11 |       15 |             64.74 | Tommaso Allan      |             35 |
+|             76 | Elliot Dee       |             84.68 |       16 |             87.54 | Gianmarco Lucchesi |             45 |
+|             80 | Nicky Smith      |             81.67 |       17 |             64.34 | Luca Rizzoli       |             27 |
+|             80 | Keiron Assiratti |              2.16 |       18 |             82.01 | Marco Riccioni     |             45 |
+|             52 | Teddy Williams   |             10.27 |       19 |             66.99 | Dino Lamb          |             58 |
+|             62 | Aaron Wainwright |             36.5  |       20 |             64.94 | Manuel Zuliani     |             58 |
+|             59 | Rhodri Williams  |             77.04 |       21 |             76.58 | Ross Vintcent      |             35 |
+|             18 | Dan Edwards      |             79.15 |       22 |             62.26 | Alessandro Garbisi |             35 |
+|             80 | Josh Hathaway    |             71.01 |       23 |             16.92 | Jacopo Trulla      |             62 |
 

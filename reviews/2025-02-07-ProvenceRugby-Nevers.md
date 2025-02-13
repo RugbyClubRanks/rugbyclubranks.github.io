@@ -11,7 +11,7 @@ categories: "Pro D2 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.694, which translates to predicting Provence Rugby to win by 7.2.
 
-Our Over/Under is 55.5 - and combined with the spread above, we have a predicted scoreline of 24 to 32
+Our Over/Under is 59.5 - and combined with the spread above, we have a predicted scoreline of 26 to 33
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Provence Rugby by 10.0 on a neutral pitch
 
 |   Away Minutes | Away Player                |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:---------------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             63 | Aitor Kitutu               |             39.42 |        1 |             81.08 | Thomas Vernet         |             80 |
-|             18 | Efi Ma'afu                 |             17.91 |        2 |             42.57 | Joseph Laget          |             50 |
-|             80 | Farai Mudariki             |             12.78 |        3 |             86.06 | Paul Mallez           |             45 |
-|             80 | Chris Gabriel              |             14.9  |        4 |              2.21 | Andres Zafra Tarazona |             50 |
-|             80 | Kevin Noah                 |             13.85 |        5 |             81.06 | Izack Rodda           |             20 |
-|              5 | Hugues Bastide             |             89.33 |        6 |             86.81 | Guillaume Piazzoli    |             13 |
-|             80 | Steven David               |             42.29 |        7 |             33.37 | Ned Hanigan           |             29 |
-|             80 | Jason-Colin Fraser         |             88.63 |        8 |             75.16 | Teimana Harrison      |             29 |
-|             21 | Simon Tarel                |             11.5  |        9 |             33.45 | Arthur Coville        |             34 |
-|             29 | Yohan Le Bourhis           |             73.73 |       10 |             75.85 | Jules Soulan          |             30 |
-|              9 | Arthur Mathiron            |             10.37 |       11 |             91.05 | Nadir Bouhedjeur      |              1 |
-|             50 | Noa Pommelet               |             35.01 |       12 |             88.19 | Kaveinga Finau        |             13 |
-|              7 | Rudy Derrieux              |             66.14 |       13 |             99.69 | George North          |              9 |
-|             19 | Gabin Rocher               |              9.71 |       14 |             24.13 | Adrien Lapegue-Lafaye |             13 |
-|             28 | Dylan Jaminet              |             47.96 |       15 |             73.27 | Léo Drouet            |             51 |
-|             80 | Lasha Pkhakadze            |            nan    |       16 |             58.42 | Nicolas Toth          |             63 |
-|             80 | Jean-Maxence Jules-Rosette |             17.57 |       17 |             33.53 | Eliott Yemsi          |             80 |
-|             59 | Luka Plataret              |             77.89 |       18 |             71.61 | Jules Plisson         |             80 |
-|             59 | Kamaliele Tufele           |             62.16 |       19 |             71.54 | Josh Tyrell           |             80 |
-|             20 | Alifereti Loaloa           |             71.58 |       20 |             84.58 | Charly Gambini        |             50 |
-|             52 | Shaun Reynolds             |              7.42 |       21 |             21.06 | Kevin Viallard        |             80 |
-|             80 | Hugo Bouyssou              |              2.48 |       22 |            nan    | Rémi Bouaffou         |             80 |
-|             71 | Ugo Vignolles              |             40.38 |       23 |             39.08 | Eto Bainivalu         |             50 |
+|             80 | Aitor Kitutu               |             41.79 |        1 |             80.43 | Thomas Vernet         |             40 |
+|             19 | Efi Ma'afu                 |             18.01 |        2 |             41.08 | Joseph Laget          |             51 |
+|             80 | Farai Mudariki             |             13.27 |        3 |             85.82 | Paul Mallez           |             51 |
+|             59 | Chris Gabriel              |             15.55 |        4 |              1.92 | Andres Zafra Tarazona |             80 |
+|             28 | Kevin Noah                 |             13.72 |        5 |             81.09 | Izack Rodda           |             12 |
+|             57 | Hugues Bastide             |             89.72 |        6 |             86.65 | Guillaume Piazzoli    |             29 |
+|             13 | Steven David               |             43.32 |        7 |             34.1  | Ned Hanigan           |             57 |
+|             67 | Jason-Colin Fraser         |             88.82 |        8 |             75.11 | Teimana Harrison      |             75 |
+|             80 | Simon Tarel                |             11.48 |        9 |             33.22 | Arthur Coville        |             80 |
+|             80 | Yohan Le Bourhis           |             73.83 |       10 |             75.96 | Jules Soulan          |             80 |
+|             29 | Arthur Mathiron            |              9.98 |       11 |             91.16 | Nadir Bouhedjeur      |             80 |
+|             80 | Noa Pommelet               |             36.42 |       12 |             88.03 | Kaveinga Finau        |             80 |
+|             40 | Rudy Derrieux              |             65.87 |       13 |             99.69 | George North          |             52 |
+|             46 | Gabin Rocher               |              9.79 |       14 |             23.67 | Adrien Lapegue-Lafaye |             51 |
+|             40 | Dylan Jaminet              |             49.9  |       15 |             73.4  | Léo Drouet            |             80 |
+|             29 | Lasha Pkhakadze            |            nan    |       16 |             58.79 | Nicolas Toth          |             51 |
+|             40 | Jean-Maxence Jules-Rosette |             17.17 |       17 |             33.5  | Eliott Yemsi          |             28 |
+|             40 | Luka Plataret              |             78.29 |       18 |             71.49 | Jules Plisson         |             30 |
+|             80 | Kamaliele Tufele           |             62.27 |       19 |             71.4  | Josh Tyrell           |             28 |
+|             42 | Alifereti Loaloa           |             71.38 |       20 |             84.63 | Charly Gambini        |             28 |
+|             80 | Shaun Reynolds             |              7.23 |       21 |             20.52 | Kevin Viallard        |             54 |
+|             80 | Hugo Bouyssou              |              2.43 |       22 |            nan    | Rémi Bouaffou         |             61 |
+|             21 | Ugo Vignolles              |             40.21 |       23 |             38.81 | Eto Bainivalu         |             80 |
 
