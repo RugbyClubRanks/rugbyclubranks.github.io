@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Toyota Shuttles Aichi by 3.6
+## Prediction without Player Minutes: Toyota Shuttles Aichi by 2.7
 
 
-Toyota Shuttles Aichi by 6.3 on a neutral pitch
+Toyota Shuttles Aichi by 5.4 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Toyota Shuttles Aichi by 6.3 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             67 | Tomoki Yamaguchi   |             72.89 |        1 |             74.46 | Sanshiro Nomura     |             20 |
-|             40 | Akito Fujinami     |             33.16 |        2 |             52.36 | Naomichi Tatekawa   |             71 |
-|             27 | Nobuyuki Takahashi |             81.92 |        3 |             79.02 | Uha Lee             |              9 |
-|              3 | Taishi Nakamura    |             64.2  |        4 |             11.32 | Sosiceni Tokoqio    |             80 |
-|             13 | James Gaskell      |             55.18 |        5 |             48.56 | Tom Rowe            |              3 |
-|             80 | Tama Kapene        |             84.44 |        6 |              2.4  | Yutaro Shirako      |             13 |
-|             80 | Chang Chao Yi      |             76.46 |        7 |             29.2  | Josh Basham         |             67 |
-|             20 | Taleni Seu         |             91.56 |        8 |             10.34 | Michael Va'a Toloke |             26 |
-|             82 | Atsushi Yumoto     |             68.52 |        9 |             22.43 | Tatsuya Kanetsuki   |             26 |
-|             82 | Freddie Burns      |             95.11 |       10 |             95.96 | Lima Sopoaga        |             26 |
-|             30 | Chance Peni        |             57.6  |       11 |              3.61 | Naoki Moriya        |             20 |
-|             62 | James Mollentze    |             26.22 |       12 |              7.18 | Soichiro Kuwata     |             40 |
-|             47 | Keita Ichikawa     |             28.2  |       13 |             20.19 | Terrence Hepetema   |              9 |
-|             52 | Hiroaki Saito      |             26.81 |       14 |             30.42 | Yushi Takai         |             71 |
-|             62 | Josua Kerevi       |             83.71 |       15 |             67.63 | Coenie van Wyk      |             16 |
-|             72 | Keita Fujiwara     |             92.87 |       16 |            nan    | Essendon Tuitupou   |             60 |
-|             10 | Taiga Matsuoka     |            nan    |       17 |             12.63 | Kaito Tamori        |             80 |
-|             80 | Ryota Fukamura     |             26.37 |       18 |             10.76 | Murphy Taramai      |             80 |
-|             60 | Hiroto Ogasahara   |             52    |       19 |             31.53 | Noah Foster         |             53 |
-|             80 | Takuya Tsushida    |            nan    |       20 |             66.38 | Koyo Adachi         |             82 |
-|             80 | Takuma Oyama       |             64.81 |       21 |            nan    | Ryota Saito         |             77 |
-|             23 | Daigo Doi          |            nan    |       22 |             53.98 | Fumiyake Mato       |             82 |
-|             78 | Isi Manu           |              4.61 |       23 |            nan    | Reijiro Usui        |             82 |
+|             66 | Tomoki Yamaguchi   |             63.95 |        1 |             66.58 | Sanshiro Nomura     |             71 |
+|             40 | Akito Fujinami     |             43.11 |        2 |             55.15 | Naomichi Tatekawa   |             80 |
+|             41 | Nobuyuki Takahashi |             76.79 |        3 |             75.47 | Uha Lee             |             52 |
+|             35 | Taishi Nakamura    |             79.77 |        4 |             15.39 | Sosiceni Tokoqio    |             27 |
+|             77 | James Gaskell      |             74.06 |        5 |             51.98 | Tom Rowe            |             13 |
+|             80 | Tama Kapene        |             87.74 |        6 |              2.32 | Yutaro Shirako      |             71 |
+|             27 | Chang Chao Yi      |             63.22 |        7 |             26.45 | Josh Basham         |             77 |
+|             64 | Taleni Seu         |             93.76 |        8 |              6.67 | Michael Va'a Toloke |             80 |
+|             80 | Atsushi Yumoto     |             73.86 |        9 |             26.67 | Tatsuya Kanetsuki   |             57 |
+|              9 | Freddie Burns      |             94.66 |       10 |             94.02 | Lima Sopoaga        |             67 |
+|             82 | Chance Peni        |             69.18 |       11 |              5.22 | Naoki Moriya        |              3 |
+|             30 | James Mollentze    |             15.91 |       12 |             12.43 | Soichiro Kuwata     |             13 |
+|             55 | Keita Ichikawa     |             36.35 |       13 |             12.86 | Terrence Hepetema   |             80 |
+|             16 | Hiroaki Saito      |             18.07 |       14 |             32.66 | Yushi Takai         |             54 |
+|             80 | Josua Kerevi       |             86.88 |       15 |             70.62 | Coenie van Wyk      |             20 |
+|             80 | Keita Fujiwara     |             92.81 |       16 |            nan    | Essendon Tuitupou   |             53 |
+|             41 | Taiga Matsuoka     |            nan    |       17 |             13.96 | Kaito Tamori        |             40 |
+|             52 | Ryota Fukamura     |             26.67 |       18 |             10.62 | Murphy Taramai      |             47 |
+|             62 | Hiroto Ogasahara   |             52.08 |       19 |            nan    | Noah Foster         |             80 |
+|             82 | Takuya Tsushida    |            nan    |       20 |             69.79 | Koyo Adachi         |              3 |
+|             16 | Takuma Oyama       |             66.49 |       21 |            nan    | Ryota Saito         |             20 |
+|             60 | Daigo Doi          |            nan    |       22 |             53.99 | Fumiyake Mato       |             67 |
+|             26 | Isi Manu           |              4.34 |       23 |            nan    | Reijiro Usui        |             60 |
 

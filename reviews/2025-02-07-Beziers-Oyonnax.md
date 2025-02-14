@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Beziers by 16.4
+## Prediction without Player Minutes: Beziers by 16.5
 
 
-Beziers by 2.2 on a neutral pitch
+Beziers by 2.3 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,26 +69,26 @@ Beziers by 2.2 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player             |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:------------------------|---------------:|
-|             80 | Rémi Di Pietro     |             70.56 |        1 |             45.19 | Yahnis El Maslouhi      |             80 |
-|             50 | Teddy Durand       |              2.86 |        2 |             86.36 | Jose Luis Gonzalez      |             40 |
-|             80 | Paulo Tafili       |             62.44 |        3 |             23.47 | Christian Judge         |             80 |
-|             50 | Manuel Leindekar   |              1.54 |        4 |             63.63 | Cam Dodson              |             58 |
-|             80 | Hugo Fabregue      |             23.9  |        5 |              0.48 | Shahn Eru               |             80 |
-|             68 | Kevin Lebreton     |             19.4  |        6 |             55.52 | Baptiste Abescat-Leroy  |             12 |
-|             50 | Wandrille Picault  |             82.71 |        7 |             83.19 | Clement Ancely          |             17 |
-|             80 | Antoine Miquel     |             49.79 |        8 |             68.99 | Otonuku Jr Pauta        |             20 |
-|             50 | Jonathan Ruru      |             92.17 |        9 |             85.91 | Samuel Marques          |             23 |
-|             51 | Chris Smith        |             80.64 |       10 |             10.85 | Charly Malie            |             23 |
-|             58 | Daniel Ikpefan     |             69.49 |       11 |             61.41 | Nicolas Plazy           |             50 |
-|             15 | Lucas Mensa        |              9.68 |       12 |             49.01 | Taleta Tupuola          |             27 |
-|             59 | Afusipa Taumoepeau |             58.38 |       13 |             42.04 | Paul Recor              |             80 |
-|             22 | Maxime Salles      |             46.2  |       14 |             13.4  | Pierre Courtaud         |              4 |
-|             30 | Martin Bogado      |             23.71 |       15 |             81.03 | Gabin Lorre             |             80 |
-|             58 | Hugo Hermet        |              8.65 |       16 |            nan    | Romain Uruty            |             64 |
-|             22 | Thibault Berthaud  |             64.84 |       17 |             23.13 | Damien Añon             |             60 |
-|             80 | Loic Godener       |              2.74 |       18 |             69.58 | Watisoni Votu           |             80 |
-|              6 | Victor Lebas       |            nan    |       19 |            nan    | Yvann Lalevee           |             50 |
-|             29 | Darren Sweetnam    |             67.3  |       20 |             57.07 | Wilmar Arnoldi          |             46 |
-|             51 | Peniami Narisia    |             91.92 |       21 |             30.85 | Youssef Amrouni         |             80 |
-|             52 | Cameron Wright     |              3.13 |       22 |            nan    | Petero Taviraki Mailulu |             45 |
+|             68 | Rémi Di Pietro     |             69.55 |        1 |             43.87 | Yahnis El Maslouhi      |             58 |
+|             29 | Teddy Durand       |              2.79 |        2 |             85.86 | Jose Luis Gonzalez      |             40 |
+|             80 | Paulo Tafili       |             61.89 |        3 |             22.96 | Christian Judge         |             46 |
+|             16 | Manuel Leindekar   |              1.65 |        4 |             62.54 | Cam Dodson              |             68 |
+|             17 | Hugo Fabregue      |             23.91 |        5 |              0.48 | Shahn Eru               |             80 |
+|             20 | Kevin Lebreton     |             17.66 |        6 |             50.87 | Baptiste Abescat-Leroy  |             80 |
+|             23 | Wandrille Picault  |             81.95 |        7 |             82.24 | Clement Ancely          |             51 |
+|             57 | Antoine Miquel     |             48.17 |        8 |             68.6  | Otonuku Jr Pauta        |             80 |
+|             21 | Jonathan Ruru      |             92.28 |        9 |             84.04 | Samuel Marques          |             64 |
+|             50 | Chris Smith        |             81.41 |       10 |             10.26 | Charly Malie            |             12 |
+|             80 | Daniel Ikpefan     |             70.14 |       11 |             59.71 | Nicolas Plazy           |             80 |
+|             50 | Lucas Mensa        |             10.85 |       12 |             46.05 | Taleta Tupuola          |             50 |
+|             80 | Afusipa Taumoepeau |             58.48 |       13 |             41.52 | Paul Recor              |             58 |
+|             80 | Maxime Salles      |             50.05 |       14 |             12.85 | Pierre Courtaud         |              4 |
+|             80 | Martin Bogado      |             19.38 |       15 |             80    | Gabin Lorre             |             80 |
+|             80 | Hugo Hermet        |              8.78 |       16 |            nan    | Romain Uruty            |             15 |
+|             80 | Thibault Berthaud  |             63.21 |       17 |             23.33 | Damien Añon             |             16 |
+|             71 | Loic Godener       |              2.58 |       18 |             69.28 | Watisoni Votu           |             22 |
+|             12 | Victor Lebas       |            nan    |       19 |            nan    | Yvann Lalevee           |             80 |
+|             80 | Darren Sweetnam    |             66.76 |       20 |             57.24 | Wilmar Arnoldi          |             30 |
+|             43 | Peniami Narisia    |             92.67 |       21 |             31.03 | Youssef Amrouni         |             80 |
+|             40 | Cameron Wright     |              2.98 |       22 |            nan    | Petero Taviraki Mailulu |             80 |
 

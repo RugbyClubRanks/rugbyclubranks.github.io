@@ -11,7 +11,7 @@ categories: "Pro D2 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.508, which translates to predicting Colomiers to win by 0.3.
 
-Our Over/Under is 57.5 - and combined with the spread above, we have a predicted scoreline of 29 to 29
+Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 25 to 25
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Grenoble by 16.7 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player               |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:--------------------------|---------------:|
-|             50 | Tommy Raynaud      |             86.15 |        1 |              7.38 | Elias El Ansari           |             61 |
-|             80 | Mathis Sarragallet |             74.58 |        2 |             58.75 | Pablo Dimcheff            |             10 |
-|             30 | Johannes Jonker    |             30.1  |        3 |             39.14 | Michael Simutoga          |             30 |
-|             19 | Thomas Lainault    |             45.87 |        4 |             39.64 | Jean Thomas               |             30 |
-|             61 | Pierce Phillips    |             82.82 |        5 |              6.24 | Jack Whetton              |             24 |
-|             19 | Ryno Pieterse      |             75.12 |        6 |              6.15 | Anthony Coletta           |             18 |
-|              2 | Victor Guillaumond |             76.66 |        7 |             16.81 | Jeremy Bechu              |             80 |
-|             25 | Thibaut Martel     |             76.79 |        8 |             14.56 | Caleb Timu                |             80 |
-|             61 | Eric Escande       |             90.61 |        9 |             10.09 | Sadek Deghmache           |             80 |
-|             29 | Sam Davies         |             90.64 |       10 |             13.62 | Joaquin de la Vega Mendia |             24 |
-|             80 | Gerswin Mouton     |             78.04 |       11 |             13.21 | Anzelo Tuitavuki          |             64 |
-|             80 | Romain Fusier      |             71.28 |       12 |             18.52 | Ray Nu'u                  |             80 |
-|             80 | Julien Heriteau    |             82    |       13 |              4.58 | Martin Dulon              |             80 |
-|             51 | Kaminieli Rasaku   |             86.31 |       14 |              5.8  | Martin Alonso Munoz       |             80 |
-|             22 | Julien Farnoux     |             97.53 |       15 |             16.7  | Max Auriac                |             10 |
-|             80 | Giorgi Pertaia     |             93.12 |       16 |             81.79 | Dorian Laborde            |             61 |
-|             50 | Eli Eglaine        |             48.59 |       17 |             53.15 | Robin Bellemand           |             80 |
-|             79 | Barnabe Couilloud  |             49.74 |       18 |             25.24 | Maxime Granouillet        |             80 |
-|             29 | Hugo Trouilloud    |             53.4  |       19 |             78.28 | Guillaume Tartas          |             59 |
-|             34 | Pio Muarua         |             50.84 |       20 |              4.38 | Theo Lachaud              |             78 |
-|             80 | Bastien Soury      |             58.08 |       21 |             28.15 | Gregoire Bazin            |             16 |
-|             71 | Thomas Ployet      |             79.85 |       22 |             47.3  | Mathis Galthié            |             19 |
-|             61 | Max Clement        |             78.09 |       23 |            nan    | Elliott Maurel            |             21 |
+|             67 | Tommy Raynaud      |             84.94 |        1 |              8.23 | Elias El Ansari           |             56 |
+|             24 | Mathis Sarragallet |             68.59 |        2 |             49.56 | Pablo Dimcheff            |             78 |
+|             21 | Johannes Jonker    |             27.33 |        3 |             35.47 | Michael Simutoga          |             59 |
+|             19 | Thomas Lainault    |             45.6  |        4 |             43.08 | Jean Thomas               |             19 |
+|             80 | Pierce Phillips    |             82.87 |        5 |              5.23 | Jack Whetton              |             56 |
+|             80 | Ryno Pieterse      |             78.47 |        6 |              6.08 | Anthony Coletta           |             30 |
+|             19 | Victor Guillaumond |             77.03 |        7 |             24.52 | Jeremy Bechu              |             10 |
+|             19 | Thibaut Martel     |             75.05 |        8 |             20    | Caleb Timu                |             24 |
+|             80 | Eric Escande       |             90.35 |        9 |             14.91 | Sadek Deghmache           |             30 |
+|             79 | Sam Davies         |             91.45 |       10 |             14.96 | Joaquin de la Vega Mendia |             18 |
+|             80 | Gerswin Mouton     |             75.94 |       11 |             14.69 | Anzelo Tuitavuki          |              2 |
+|             29 | Romain Fusier      |             65.96 |       12 |             20.65 | Ray Nu'u                  |             80 |
+|             80 | Julien Heriteau    |             81.03 |       13 |              5.37 | Martin Dulon              |             50 |
+|             80 | Kaminieli Rasaku   |             86.86 |       14 |              7.54 | Martin Alonso Munoz       |             16 |
+|             80 | Julien Farnoux     |             97.92 |       15 |             14.58 | Max Auriac                |             61 |
+|             60 | Giorgi Pertaia     |             91.6  |       16 |             81.35 | Dorian Laborde            |             55 |
+|             80 | Eli Eglaine        |             47.98 |       17 |             53    | Robin Bellemand           |             61 |
+|             67 | Barnabe Couilloud  |             50.53 |       18 |             26.14 | Maxime Granouillet        |             10 |
+|             57 | Hugo Trouilloud    |             53.54 |       19 |             77.2  | Guillaume Tartas          |             80 |
+|             45 | Pio Muarua         |             49.68 |       20 |              4.36 | Theo Lachaud              |             80 |
+|             80 | Bastien Soury      |             58.99 |       21 |             28.19 | Gregoire Bazin            |             61 |
+|             25 | Thomas Ployet      |             78.03 |       22 |             47.72 | Mathis Galthié            |             80 |
+|             64 | Max Clement        |             78.85 |       23 |            nan    | Elliott Maurel            |             80 |
 

@@ -11,7 +11,7 @@ categories: "Japan Rugby League One D2 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.84, which translates to predicting Red Hurricanes Osaka to win by 15.1.
 
-Our Over/Under is 59.5 - and combined with the spread above, we have a predicted scoreline of 22 to 38
+Our Over/Under is 60.5 - and combined with the spread above, we have a predicted scoreline of 23 to 38
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Red Hurricanes Osaka by 0.3
+## Prediction without Player Minutes: Kyuden Voltex by 0.5
 
 
-Kyuden Voltex by 3.5 on a neutral pitch
+Kyuden Voltex by 4.3 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Kyuden Voltex by 3.5 on a neutral pitch
 
 |   Away Minutes | Away Player            |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:-----------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             58 | Samuel Nozomu Faialaga |             47.84 |        1 |              6.47 | Hiromichi Sakamoto   |             79 |
-|             80 | Kyungmun Wang          |              3.37 |        2 |             37.04 | Hisamitsu Shimada    |             80 |
-|             23 | Taro Uesugi            |             71.89 |        3 |              3.32 | Hiroshi Kitajima     |             34 |
-|             28 | Masahiro Eriguchi      |             61.23 |        4 |              9.02 | Michael Allardice    |             80 |
-|             52 | Aaron Carroll          |             90.5  |        5 |             85.6  | Elliott Stooke       |             80 |
-|             52 | Colby Fainga'a         |              9.32 |        6 |             68.2  | Taro Sato            |             15 |
-|             12 | Keisuke Yamzoe         |             51.78 |        7 |             81.65 | Blake Gibson         |             80 |
-|             12 | Alex Takuya Walker     |             60.13 |        8 |             24.26 | Tsukasa Yasuda       |             40 |
-|             57 | Spencer Jeans          |             67.13 |        9 |             12    | Akira Inoue          |             34 |
-|             79 | Tom Taylor             |             91.49 |       10 |             60    | Fumiya Dobashi       |             73 |
-|             80 | Ren Hagiwara           |             45.82 |       11 |             11.79 | Kouki Shigeno        |             52 |
-|             80 | Hayato Kojo            |             32.57 |       12 |              6.04 | Mifiposeti Paea      |             80 |
-|             46 | Sione Likuata Teaupa   |             66.81 |       13 |             19.88 | Henry Taefu          |             80 |
-|             64 | Goki Saito             |             84.03 |       14 |              0.67 | Taichi Yoshizawa     |             80 |
-|             51 | Makoto Kato            |              4.74 |       15 |             56.7  | Taiki Yamaguchi      |             33 |
-|             23 | Ray Tatafu             |             12.67 |       16 |             28.69 | Hiroki Hanada        |             19 |
-|             28 | Hiroki Murakawa        |            nan    |       17 |            nan    | Shota Takai          |             17 |
-|             51 | Ryosuke Kagoshima      |            nan    |       18 |            nan    | Yo Sato              |             19 |
-|             23 | Shinpei Kamata         |            nan    |       19 |            nan    | Yuma Fujino          |             10 |
-|             61 | Shunta Takenouchi      |            nan    |       20 |             23.3  | Toshihiro Yamamouchi |             70 |
-|             69 | Charlie Worthington    |             39.18 |       21 |             15.97 | Kenta Komura         |             15 |
-|             41 | Ken Nakashima          |             20.56 |       22 |              6.05 | Toru Sugishita       |             23 |
-|             80 | Noriaki Nakazuru       |             15.09 |       23 |             12.49 | Kaoru Tsuruta        |             23 |
+|             68 | Samuel Nozomu Faialaga |             36.38 |        1 |              5.1  | Hiromichi Sakamoto   |             22 |
+|             80 | Kyungmun Wang          |              2.09 |        2 |             37.7  | Hisamitsu Shimada    |             59 |
+|             80 | Taro Uesugi            |             68.97 |        3 |              3.7  | Hiroshi Kitajima     |             17 |
+|             80 | Masahiro Eriguchi      |             64.09 |        4 |              7.94 | Michael Allardice    |             52 |
+|             80 | Aaron Carroll          |             90.71 |        5 |             82.77 | Elliott Stooke       |             80 |
+|             80 | Colby Fainga'a         |              7.72 |        6 |             54.54 | Taro Sato            |             15 |
+|             62 | Keisuke Yamzoe         |             68.05 |        7 |             80.02 | Blake Gibson         |             28 |
+|             20 | Alex Takuya Walker     |             56.99 |        8 |             26.02 | Tsukasa Yasuda       |             28 |
+|             80 | Spencer Jeans          |             68.6  |        9 |             12.28 | Akira Inoue          |             18 |
+|             60 | Tom Taylor             |             90.6  |       10 |             59.4  | Fumiya Dobashi       |             50 |
+|             12 | Ren Hagiwara           |             28.6  |       11 |             12.75 | Kouki Shigeno        |              4 |
+|             57 | Hayato Kojo            |             27.61 |       12 |              6.22 | Mifiposeti Paea      |             80 |
+|             80 | Sione Likuata Teaupa   |             65.86 |       13 |             23.29 | Henry Taefu          |             12 |
+|             31 | Goki Saito             |             82.22 |       14 |              0.58 | Taichi Yoshizawa     |             68 |
+|             49 | Makoto Kato            |              3.75 |       15 |             41.46 | Taiki Yamaguchi      |             80 |
+|             80 | Ray Tatafu             |             13.17 |       16 |             28.17 | Hiroki Hanada        |              4 |
+|             61 | Hiroki Murakawa        |            nan    |       17 |            nan    | Shota Takai          |             40 |
+|             80 | Ryosuke Kagoshima      |            nan    |       18 |            nan    | Yo Sato              |             80 |
+|             80 | Shinpei Kamata         |            nan    |       19 |            nan    | Yuma Fujino          |             23 |
+|              7 | Shunta Takenouchi      |            nan    |       20 |             24.04 | Toshihiro Yamamouchi |             80 |
+|             80 | Charlie Worthington    |             41.67 |       21 |             15.65 | Kenta Komura         |             57 |
+|             30 | Ken Nakashima          |             20.75 |       22 |              5.79 | Toru Sugishita       |             76 |
+|             76 | Noriaki Nakazuru       |             15.81 |       23 |            nan    | Kaoru Tsuruta        |             80 |
 

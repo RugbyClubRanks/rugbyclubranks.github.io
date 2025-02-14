@@ -11,7 +11,7 @@ categories: "Six Nations Championship 2025" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.564, which translates to predicting Scotland to win by 2.4.
 
-Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 22 to 24
+Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 21 to 24
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Ireland by 2.6
+## Prediction without Player Minutes: Ireland by 3.1
 
 
-Ireland by 8.6 on a neutral pitch
+Ireland by 9.1 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Ireland by 8.6 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             80 | Andrew Porter       |             91.54 |        1 |             21.56 | Rory Sutherland     |             21 |
-|             61 | Ronan Kelleher      |             95.79 |        2 |             77.1  | Dave Cherry         |             39 |
-|             65 | Finlay Bealham      |             96.6  |        3 |             99.67 | Zander Fagerson     |             80 |
-|             19 | James Ryan          |             93.28 |        4 |             90.21 | Jonny Gray          |             80 |
-|             52 | Tadhg Beirne        |             99.14 |        5 |             96.16 | Grant Gilchrist     |             41 |
-|             48 | Peter O'Mahony      |             97.12 |        6 |             96.16 | Matt Fagerson       |             80 |
-|             22 | Josh van der Flier  |             98.27 |        7 |             91.45 | Rory Darge          |             12 |
-|             65 | Caelan Doris        |             95.78 |        8 |             61.81 | Jack Dempsey        |             58 |
-|             32 | Jamison Gibson-Park |             96    |        9 |             95.13 | Ben White           |             25 |
-|             48 | Sam Prendergast     |             20.64 |       10 |             99.15 | Finn Russell        |             80 |
-|             80 | James Lowe          |            100    |       11 |             85.84 | Duhan van der Merwe |             59 |
-|             68 | Bundee Aki          |             99.58 |       12 |             34.65 | Tom Jordan          |             80 |
-|             22 | Robbie Henshaw      |             93.34 |       13 |             75.86 | Huw Jones           |             80 |
-|             68 | Calvin Nash         |             95.06 |       14 |             26.71 | Darcy Graham        |             80 |
-|             26 | Hugo Keenan         |             99.38 |       15 |            100    | Blair Kinghorn      |             54 |
-|             32 | Dan Sheehan         |             59.43 |       16 |             70.54 | Ewan Ashman         |             58 |
-|             58 | Cian Healy          |             92.95 |       17 |             77.86 | Pierre Schoeman     |             22 |
-|             80 | Thomas Clarkson     |             83.83 |       18 |             48.84 | Will Hurd           |             54 |
-|             80 | Ryan Baird          |             75.79 |       19 |             92.71 | Sam Skinner         |             80 |
-|             80 | Jack Conan          |             98.1  |       20 |             71.02 | Gregor Brown        |             48 |
-|             32 | Conor Murray        |             99.13 |       21 |             99.71 | Jamie Ritchie       |             80 |
-|             12 | Jack Crowley        |             40    |       22 |             83.48 | Jamie Dobie         |             39 |
-|             80 | Garry Ringrose      |             98.65 |       23 |             90.84 | Stafford McDowall   |             11 |
+|             80 | Andrew Porter       |             89.55 |        1 |             26.09 | Rory Sutherland     |             80 |
+|             68 | Ronan Kelleher      |             94.94 |        2 |             69.46 | Dave Cherry         |             71 |
+|             22 | Finlay Bealham      |             96.3  |        3 |             99.67 | Zander Fagerson     |             18 |
+|             69 | James Ryan          |             95.35 |        4 |             91.29 | Jonny Gray          |             61 |
+|             80 | Tadhg Beirne        |             99.61 |        5 |             96.9  | Grant Gilchrist     |             48 |
+|             58 | Peter O'Mahony      |             98.65 |        6 |             96.43 | Matt Fagerson       |             65 |
+|             11 | Josh van der Flier  |             98.55 |        7 |             89.77 | Rory Darge          |             80 |
+|             33 | Caelan Doris        |             95.91 |        8 |             67.1  | Jack Dempsey        |             58 |
+|             19 | Jamison Gibson-Park |             96.14 |        9 |             94.39 | Ben White           |             80 |
+|             80 | Sam Prendergast     |             24.36 |       10 |             99.57 | Finn Russell        |             25 |
+|             10 | James Lowe          |            100    |       11 |             85.89 | Duhan van der Merwe |             52 |
+|             22 | Bundee Aki          |             99.58 |       12 |             46.58 | Tom Jordan          |             16 |
+|             19 | Robbie Henshaw      |             93.05 |       13 |             79.03 | Huw Jones           |             32 |
+|             80 | Calvin Nash         |             94.78 |       14 |             34.88 | Darcy Graham        |             27 |
+|             28 | Hugo Keenan         |             98.96 |       15 |            100    | Blair Kinghorn      |             16 |
+|             22 | Dan Sheehan         |             61.61 |       16 |             71.55 | Ewan Ashman         |             39 |
+|             80 | Cian Healy          |             91.69 |       17 |             72.43 | Pierre Schoeman     |             80 |
+|             58 | Thomas Clarkson     |             82.96 |       18 |             48.81 | Will Hurd           |             65 |
+|             80 | Ryan Baird          |             78.19 |       19 |             93.42 | Sam Skinner         |             80 |
+|             80 | Jack Conan          |             98.28 |       20 |             69.7  | Gregor Brown        |             70 |
+|             62 | Conor Murray        |             99.47 |       21 |             99.81 | Jamie Ritchie       |             80 |
+|             41 | Jack Crowley        |             38.68 |       22 |             83.51 | Jamie Dobie         |             80 |
+|             80 | Garry Ringrose      |             98.84 |       23 |             90.62 | Stafford McDowall   |             62 |
 

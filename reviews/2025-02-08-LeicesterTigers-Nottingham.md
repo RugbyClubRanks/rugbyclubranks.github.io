@@ -11,7 +11,7 @@ categories: "Premiership Rugby Cup 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.926, which translates to predicting Leicester Tigers to win by 22.3.
 
-Our Over/Under is 69.5 - and combined with the spread above, we have a predicted scoreline of 23 to 46
+Our Over/Under is 60.5 - and combined with the spread above, we have a predicted scoreline of 19 to 42
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Leicester Tigers by 18.9
+## Prediction without Player Minutes: Leicester Tigers by 18.7
 
 
-Leicester Tigers by 3.6 on a neutral pitch
+Leicester Tigers by 3.4 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Leicester Tigers by 3.6 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             80 | Aniseko Sio        |             30.93 |        1 |             93.86 | James Cronin          |             80 |
-|             80 | Jack Dickinson     |             52.19 |        2 |             56.57 | Finn Theobald-Thomas  |             46 |
-|             31 | Dan Richardson     |             82.42 |        3 |             51.58 | Tubuna Maka           |             40 |
-|             31 | Jay Ecclesfield    |             22.74 |        4 |             72.36 | Tom Manz              |             55 |
-|             22 | Sebastien Ferreira |              3.55 |        5 |             22.07 | Come Clayver Joussain |             30 |
-|             26 | Kody Vereti        |             44    |        6 |             90.01 | Finn Carnduff         |             25 |
-|             16 | Nathan Tweedy      |             34.87 |        7 |             80.79 | Emeka Ilione          |             25 |
-|             49 | James Cherry       |             57.17 |        8 |              2.11 | Kyle Hatherell        |             80 |
-|             80 | Josh Goodwin       |             26.78 |        9 |             79.3  | Tom Whiteley          |             49 |
-|             28 | Jai Johal          |             28.09 |       10 |             32.34 | Ben Volavola          |             30 |
-|             18 | Ryan Olowofela     |             85.74 |       11 |             78.8  | Will Wand             |             80 |
-|             80 | Gwyn Parks         |             12.7  |       12 |             42.87 | Joseph Woodward       |             80 |
-|             80 | Levi Roper         |             48.8  |       13 |             95.63 | Dan Kelly             |             62 |
-|             54 | David Williams     |             17.11 |       14 |             40.97 | George Pearson        |             49 |
-|             31 | Jack Stapley       |              1.65 |       15 |             17.53 | James Shillcock       |             80 |
-|             17 | Kai Owen           |             78.36 |       16 |             23.4  | Charlie Clare         |             80 |
-|             80 | Harry Clayton      |             79.8  |       17 |             54.89 | Cameron Miell         |             58 |
-|             80 | Ale Loman          |             92.62 |       18 |             18.74 | Xavier Valentine      |             34 |
-|             80 | Jacob Wright       |             16.67 |       19 |             69.67 | Cameron Henderson     |             40 |
-|             26 | Jack Shine         |             55.37 |       20 |            nan    | Joshua Manz           |             80 |
-|             78 | Will Yarnell       |             41.04 |       21 |             71.3  | Ollie Allan           |             19 |
-|             31 | Harry Graham       |             76.24 |       22 |             28.61 | Malelili Satala       |             70 |
-|             80 | Javiah Pohe        |             11.34 |       23 |             38.09 | Tom Threlfall         |             54 |
+|             80 | Aniseko Sio        |             48.31 |        1 |             92.1  | James Cronin          |             80 |
+|             40 | Jack Dickinson     |             72.08 |        2 |             55.5  | Finn Theobald-Thomas  |             49 |
+|             31 | Dan Richardson     |             81.73 |        3 |             48.97 | Tubuna Maka           |             30 |
+|             54 | Jay Ecclesfield    |             31.46 |        4 |             71.83 | Tom Manz              |             80 |
+|             31 | Sebastien Ferreira |              4.94 |        5 |             23.52 | Come Clayver Joussain |             55 |
+|             80 | Kody Vereti        |             56.56 |        6 |             89.67 | Finn Carnduff         |             27 |
+|             22 | Nathan Tweedy      |             38.13 |        7 |             80.6  | Emeka Ilione          |             34 |
+|             26 | James Cherry       |             66.24 |        8 |              1.94 | Kyle Hatherell        |             25 |
+|             10 | Josh Goodwin       |             32.81 |        9 |             80.35 | Tom Whiteley          |             80 |
+|             80 | Jai Johal          |             44.87 |       10 |             20.3  | Ben Volavola          |             80 |
+|             12 | Ryan Olowofela     |             87.63 |       11 |             78.16 | Will Wand             |             80 |
+|             52 | Gwyn Parks         |             16.97 |       12 |             39.2  | Joseph Woodward       |             58 |
+|             63 | Levi Roper         |             55.53 |       13 |             95.26 | Dan Kelly             |             49 |
+|             52 | David Williams     |             17.58 |       14 |             39.61 | George Pearson        |             49 |
+|             52 | Jack Stapley       |              1.88 |       15 |             16.88 | James Shillcock       |             80 |
+|             68 | Kai Owen           |             77.37 |       16 |             22.69 | Charlie Clare         |             49 |
+|             80 | Harry Clayton      |             80.63 |       17 |             54.73 | Cameron Miell         |             80 |
+|             52 | Ale Loman          |             91.28 |       18 |             33.42 | Xavier Valentine      |             55 |
+|             80 | Jacob Wright       |             17.47 |       19 |             71.35 | Cameron Henderson     |             16 |
+|             25 | Jack Shine         |             54.7  |       20 |            nan    | Joshua Manz           |             31 |
+|             80 | Will Yarnell       |             41.23 |       21 |             70.88 | Ollie Allan           |             40 |
+|              4 | Harry Graham       |             81.64 |       22 |             28.99 | Malelili Satala       |             80 |
+|             80 | Javiah Pohe        |             11.49 |       23 |             38.46 | Tom Threlfall         |             62 |
 

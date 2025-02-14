@@ -11,7 +11,7 @@ categories: "Pro D2 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.68, which translates to predicting Brive to win by 6.6.
 
-Our Over/Under is 62.5 - and combined with the spread above, we have a predicted scoreline of 28 to 34
+Our Over/Under is 44.5 - and combined with the spread above, we have a predicted scoreline of 19 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -42,7 +42,7 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction without Player Minutes: Brive by 16.5
 
 
-Brive by 3.6 on a neutral pitch
+Brive by 3.5 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Brive by 3.6 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player               |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:--------------------------|---------------:|
-|             80 | Georgy Balakarev   |             32.75 |        1 |             83.58 | Vakh Abdaladze            |             46 |
-|             62 | Motu Matu'u        |              3.87 |        2 |             67.51 | Benjamin Boudou           |             80 |
-|             65 | Seydou Diakité     |             27.53 |        3 |             14.51 | Marcel van der Merwe      |             67 |
-|             18 | Léo Morand-Bruyat  |             80.9  |        4 |             70.63 | Renger van Eerten         |             80 |
-|             80 | Ian Kitwanga       |             11.9  |        5 |             22.17 | Hendre Stassen            |             68 |
-|             30 | Matt Beukeboom     |             15.37 |        6 |             83.77 | Retief Marais             |              3 |
-|             66 | Germain Burgaud    |             87.42 |        7 |             97.31 | Courtney Lawes            |             13 |
-|             18 | Samuel Nollet      |             18.14 |        8 |             71.52 | Rahboni Warren-Vosayaco   |             80 |
-|             18 | Adrien Bau         |              5.39 |        9 |             56    | Mathis Ferté              |             29 |
-|             18 | Corentin Glenat    |             59.57 |       10 |             78.51 | Curwin Bosch              |             31 |
-|             80 | Nathan Farissier   |             38.88 |       11 |             91.54 | Erwan Dridi               |             32 |
-|             80 | George Tilsley     |             94.07 |       12 |             22.68 | Paul Pimienta             |             32 |
-|             22 | Arthur Proult      |              5.83 |       13 |             96.25 | Matias Moroni             |             29 |
-|             80 | Matthys Gratien    |             84.22 |       14 |             73.48 | Benjamin Lefranc          |             29 |
-|             51 | Jules Dubecq       |             67.01 |       15 |              6.39 | Thomas Zenon              |             80 |
-|             46 | Clément Sentubery  |             67.92 |       16 |             33.62 | Tom Raffy                 |             48 |
-|             48 | Maxence Lemardelet |             67.08 |       17 |             75.25 | Issam Hamel               |             80 |
-|             80 | Patxi Bidart       |             89.23 |       18 |             57.21 | Francisco Coria Marchetti |             32 |
-|             80 | Sami Zouhair       |             97.76 |       19 |             88.29 | Sitaleki Timani           |             58 |
-|             51 | Karl Sorin         |             41.21 |       20 |             89.44 | Asier Usarraga            |             80 |
-|             80 | Alexander Masibaka |             44.94 |       21 |            nan    | Nathan Fraissenon         |             48 |
-|             34 | Ben Botica         |             91.06 |       22 |             59.65 | Samuel Maximin            |             72 |
-|             51 | Lucas Zamora       |             61.39 |       23 |              8.35 | Hugo Verdu                |             80 |
+|             51 | Georgy Balakarev   |             40.08 |        1 |             81.15 | Vakh Abdaladze            |              3 |
+|             46 | Motu Matu'u        |              4.54 |        2 |             59.69 | Benjamin Boudou           |             21 |
+|             51 | Seydou Diakité     |             31.28 |        3 |             13.25 | Marcel van der Merwe      |             80 |
+|             80 | Léo Morand-Bruyat  |             79.28 |        4 |             66.89 | Renger van Eerten         |             51 |
+|             31 | Ian Kitwanga       |             14.62 |        5 |             19.26 | Hendre Stassen            |             25 |
+|             80 | Matt Beukeboom     |             14.29 |        6 |             85.14 | Retief Marais             |             65 |
+|             80 | Germain Burgaud    |             87.45 |        7 |             97.1  | Courtney Lawes            |             21 |
+|             80 | Samuel Nollet      |             15.48 |        8 |             66.67 | Rahboni Warren-Vosayaco   |             15 |
+|             58 | Adrien Bau         |              4.74 |        9 |             55.96 | Mathis Ferté              |             46 |
+|             51 | Corentin Glenat    |             57.05 |       10 |             82.05 | Curwin Bosch              |             80 |
+|             32 | Nathan Farissier   |             46.76 |       11 |             91.79 | Erwan Dridi               |             46 |
+|             25 | George Tilsley     |             94.52 |       12 |             22.34 | Paul Pimienta             |             32 |
+|             80 | Arthur Proult      |              5.16 |       13 |             95.36 | Matias Moroni             |             51 |
+|             51 | Matthys Gratien    |             85.7  |       14 |             75.75 | Benjamin Lefranc          |             80 |
+|             29 | Jules Dubecq       |             68.12 |       15 |              6.04 | Thomas Zenon              |             34 |
+|             29 | Clément Sentubery  |             68.24 |       16 |             33.76 | Tom Raffy                 |             80 |
+|             80 | Maxence Lemardelet |             66.8  |       17 |             75.92 | Issam Hamel               |             13 |
+|             80 | Patxi Bidart       |             89.35 |       18 |             57.04 | Francisco Coria Marchetti |             48 |
+|             80 | Sami Zouhair       |             97.2  |       19 |             88    | Sitaleki Timani           |             80 |
+|             61 | Karl Sorin         |             36.63 |       20 |             89.06 | Asier Usarraga            |             80 |
+|             67 | Alexander Masibaka |             44.3  |       21 |            nan    | Nathan Fraissenon         |             80 |
+|             80 | Ben Botica         |             90.81 |       22 |             59.17 | Samuel Maximin            |             80 |
+|             10 | Lucas Zamora       |             60.35 |       23 |              8.77 | Hugo Verdu                |             32 |
 
