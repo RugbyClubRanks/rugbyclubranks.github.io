@@ -1,6 +1,6 @@
 ---  
 title: "Allianz Premier 15s 24/25 Status"  
-date: 2025-02-14 6:00:00 -0500  
+date: 2025-02-17 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,15 +17,15 @@ aside:
 
 | Club                      |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Gloucester-Hartpury Women |       14 |     11 |                  183 |                     2 |                nan |                   46 |
-| Harlequins Women          |       14 |     11 |                  136 |                     1 |                nan |                   45 |
-| Saracens Women            |       14 |     10 |                  226 |                     2 |                nan |                   42 |
-| Exeter Chiefs Women       |       14 |      9 |                   58 |                     2 |                nan |                   38 |
-| Bristol Bears Women       |       15 |      9 |                  168 |                     1 |                nan |                   37 |
+| Gloucester-Hartpury Women |       15 |     12 |                  200 |                     2 |                nan |                   50 |
+| Saracens Women            |       15 |     11 |                  235 |                     2 |                nan |                   46 |
+| Harlequins Women          |       15 |     11 |                  127 |                     1 |                nan |                   45 |
+| Bristol Bears Women       |       16 |     10 |                  177 |                     1 |                nan |                   41 |
+| Exeter Chiefs Women       |       15 |      9 |                   49 |                     2 |                nan |                   38 |
 | Loughborough Lightning    |       15 |      6 |                  -19 |                     2 |                nan |                   26 |
-| Ealing Trailfinders Women |       14 |      5 |                  -25 |                     2 |                nan |                   22 |
-| Leicester Tigers Women    |       14 |      2 |                 -384 |                     0 |                nan |                    8 |
-| Sale Sharks Women         |       14 |      1 |                 -343 |                     0 |                nan |                    4 |
+| Ealing Trailfinders Women |       15 |      5 |                  -27 |                     3 |                nan |                   23 |
+| Leicester Tigers Women    |       15 |      3 |                 -382 |                     0 |                nan |                   12 |
+| Sale Sharks Women         |       15 |      1 |                 -360 |                     0 |                nan |                    4 |
 
 
 
@@ -34,14 +34,14 @@ aside:
 
 | Club                      |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Gloucester-Hartpury Women |                   1 |    1   |            27.5806   |                   0   |                0.9 |                  4.8 |
-| Ealing Trailfinders Women |                   1 |    0.9 |            17.8093   |                   0   |                0.7 |                  4.4 |
-| Saracens Women            |                   1 |    0.9 |            12.0321   |                   0.1 |                0.4 |                  4.1 |
-| Harlequins Women          |                   1 |    0.5 |             0.884935 |                   0.3 |                0.2 |                  2.6 |
-| Bristol Bears Women       |                   1 |    0.5 |            -0.884935 |                   0.3 |                0.3 |                  2.5 |
-| Exeter Chiefs Women       |                   1 |    0.1 |           -12.0321   |                   0.2 |                0.1 |                  0.7 |
-| Leicester Tigers Women    |                   1 |    0.1 |           -17.8093   |                   0.1 |                0.1 |                  0.5 |
-| Sale Sharks Women         |                   1 |    0   |           -27.5806   |                   0   |                0.1 |                  0.3 |
+| Saracens Women            |                   1 |    1   |             30.0875  |                   0   |                0.9 |                  4.8 |
+| Exeter Chiefs Women       |                   1 |    0.9 |             14.2916  |                   0   |                0.8 |                  4.5 |
+| Gloucester-Hartpury Women |                   1 |    0.9 |             14.163   |                   0   |                0.6 |                  4.3 |
+| Loughborough Lightning    |                   1 |    0.8 |              6.32687 |                   0.2 |                0.3 |                  3.5 |
+| Ealing Trailfinders Women |                   1 |    0.2 |             -6.32687 |                   0.4 |                0.2 |                  1.5 |
+| Leicester Tigers Women    |                   1 |    0.1 |            -14.2916  |                   0.2 |                0.2 |                  0.7 |
+| Harlequins Women          |                   1 |    0.1 |            -14.163   |                   0.1 |                0.1 |                  0.6 |
+| Sale Sharks Women         |                   1 |    0   |            -30.0875  |                   0   |                0.1 |                  0.3 |
 
 
 
@@ -50,15 +50,15 @@ aside:
 
 | Club                      |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Gloucester-Hartpury Women |              15 |   12   |            210.581   |                   2   |                0.9 |                 50.8 |
-| Harlequins Women          |              15 |   11.5 |            136.885   |                   1.3 |                0.2 |                 47.6 |
-| Saracens Women            |              15 |   10.9 |            238.032   |                   2.1 |                0.4 |                 46.1 |
-| Bristol Bears Women       |              16 |    9.5 |            167.115   |                   1.3 |                0.3 |                 39.5 |
-| Exeter Chiefs Women       |              15 |    9.1 |             45.9679  |                   2.2 |                0.1 |                 38.7 |
-| Ealing Trailfinders Women |              15 |    5.9 |             -7.19066 |                   2   |                0.7 |                 26.4 |
-| Loughborough Lightning    |              15 |    6   |            -19       |                   2   |                0   |                 26   |
-| Leicester Tigers Women    |              15 |    2.1 |           -401.809   |                   0.1 |                0.1 |                  8.5 |
-| Sale Sharks Women         |              15 |    1   |           -370.581   |                   0   |                0.1 |                  4.3 |
+| Gloucester-Hartpury Women |              16 |   12.9 |             214.163  |                   2   |                0.6 |                 54.3 |
+| Saracens Women            |              16 |   12   |             265.087  |                   2   |                0.9 |                 50.8 |
+| Harlequins Women          |              16 |   11.1 |             112.837  |                   1.1 |                0.1 |                 45.6 |
+| Exeter Chiefs Women       |              16 |    9.9 |              63.2916 |                   2   |                0.8 |                 42.5 |
+| Bristol Bears Women       |              16 |   10   |             177      |                   1   |                0   |                 41   |
+| Loughborough Lightning    |              16 |    6.8 |             -12.6731 |                   2.2 |                0.3 |                 29.5 |
+| Ealing Trailfinders Women |              16 |    5.2 |             -33.3269 |                   3.4 |                0.2 |                 24.5 |
+| Leicester Tigers Women    |              16 |    3.1 |            -396.292  |                   0.2 |                0.2 |                 12.7 |
+| Sale Sharks Women         |              16 |    1   |            -390.087  |                   0   |                0.1 |                  4.3 |
 
 
 
@@ -67,63 +67,63 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 78.1% | 15.4 |
+| Club Level | 77.9% | 15.0 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
 
 # Future Predictions
 
-## Week 16
+## Week 17
 
-### Harlequins Women V Bristol Bears Women on 2025/02/14
+### Gloucester-Hartpury Women V Harlequins Women on 2025/02/21
 
 
-Average Margin: Harlequins Women by 0.9
+Average Margin: Gloucester-Hartpury Women by 14.2
 
-Average Scoreline: 27-26
+Average Scoreline: 31-17
 
 <p float="left">
-<img src="plots/performances_2025-02-14-HarlequinsWomen_V_BristolBearsWomen.png" width="32%" />
-<img src="plots/resultbar_2025-02-14-HarlequinsWomen_V_BristolBearsWomen.png" width="32%" />
-<img src="plots/spreads_2025-02-14-HarlequinsWomen_V_BristolBearsWomen.png" width="32%" />
+<img src="plots/performances_2025-02-21-Gloucester-HartpuryWomen_V_HarlequinsWomen.png" width="32%" />
+<img src="plots/resultbar_2025-02-21-Gloucester-HartpuryWomen_V_HarlequinsWomen.png" width="32%" />
+<img src="plots/spreads_2025-02-21-Gloucester-HartpuryWomen_V_HarlequinsWomen.png" width="32%" />
 </p>
 
-### Ealing Trailfinders Women V Leicester Tigers Women on 2025/02/15
+### Leicester Tigers Women V Exeter Chiefs Women on 2025/02/21
 
 
-Average Margin: Ealing Trailfinders Women by 17.8
+Average Margin: Exeter Chiefs Women by 14.3
 
-Average Scoreline: 40-22
+Average Scoreline: 39-25
 
 <p float="left">
-<img src="plots/performances_2025-02-15-EalingTrailfindersWomen_V_LeicesterTigersWomen.png" width="32%" />
-<img src="plots/resultbar_2025-02-15-EalingTrailfindersWomen_V_LeicesterTigersWomen.png" width="32%" />
-<img src="plots/spreads_2025-02-15-EalingTrailfindersWomen_V_LeicesterTigersWomen.png" width="32%" />
+<img src="plots/performances_2025-02-21-LeicesterTigersWomen_V_ExeterChiefsWomen.png" width="32%" />
+<img src="plots/resultbar_2025-02-21-LeicesterTigersWomen_V_ExeterChiefsWomen.png" width="32%" />
+<img src="plots/spreads_2025-02-21-LeicesterTigersWomen_V_ExeterChiefsWomen.png" width="32%" />
 </p>
 
-### Saracens Women V Exeter Chiefs Women on 2025/02/15
+### Saracens Women V Sale Sharks Women on 2025/02/21
 
 
-Average Margin: Saracens Women by 12.0
+Average Margin: Saracens Women by 30.1
 
-Average Scoreline: 29-17
+Average Scoreline: 45-15
 
 <p float="left">
-<img src="plots/performances_2025-02-15-SaracensWomen_V_ExeterChiefsWomen.png" width="32%" />
-<img src="plots/resultbar_2025-02-15-SaracensWomen_V_ExeterChiefsWomen.png" width="32%" />
-<img src="plots/spreads_2025-02-15-SaracensWomen_V_ExeterChiefsWomen.png" width="32%" />
+<img src="plots/performances_2025-02-21-SaracensWomen_V_SaleSharksWomen.png" width="32%" />
+<img src="plots/resultbar_2025-02-21-SaracensWomen_V_SaleSharksWomen.png" width="32%" />
+<img src="plots/spreads_2025-02-21-SaracensWomen_V_SaleSharksWomen.png" width="32%" />
 </p>
 
-### Sale Sharks Women V Gloucester-Hartpury Women on 2025/02/15
+### Loughborough Lightning V Ealing Trailfinders Women on 2025/02/21
 
 
-Average Margin: Gloucester-Hartpury Women by 27.6
+Average Margin: Loughborough Lightning by 6.3
 
-Average Scoreline: 49-21
+Average Scoreline: 31-25
 
 <p float="left">
-<img src="plots/performances_2025-02-15-SaleSharksWomen_V_Gloucester-HartpuryWomen.png" width="32%" />
-<img src="plots/resultbar_2025-02-15-SaleSharksWomen_V_Gloucester-HartpuryWomen.png" width="32%" />
-<img src="plots/spreads_2025-02-15-SaleSharksWomen_V_Gloucester-HartpuryWomen.png" width="32%" />
+<img src="plots/performances_2025-02-21-LoughboroughLightning_V_EalingTrailfindersWomen.png" width="32%" />
+<img src="plots/resultbar_2025-02-21-LoughboroughLightning_V_EalingTrailfindersWomen.png" width="32%" />
+<img src="plots/spreads_2025-02-21-LoughboroughLightning_V_EalingTrailfindersWomen.png" width="32%" />
 </p>
