@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title: Moana Pasifika at Western Force; 33-23  
+title: Moana Pasifika at Western Force; 20-25  
 date: 2025-02-15 18:00:00 -0500  
 categories: "Super Rugby Pacific 2025" match review  
 ---
-# Moana Pasifika at Western Force; 33-23
+# Moana Pasifika at Western Force; 20-25
 
 # Club Level Predictions
 

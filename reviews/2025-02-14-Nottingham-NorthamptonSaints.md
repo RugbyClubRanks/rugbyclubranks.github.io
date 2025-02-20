@@ -11,7 +11,7 @@ categories: "Premiership Rugby Cup 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.155, which translates to predicting Northampton Saints to win by 14.9.
 
-Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 34 to 19
+Our Over/Under is 55.5 - and combined with the spread above, we have a predicted scoreline of 35 to 20
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Nottingham by 3.2
+## Prediction without Player Minutes: Nottingham by 3.1
 
 
-Northampton Saints by 1.4 on a neutral pitch
+Northampton Saints by 1.6 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Northampton Saints by 1.4 on a neutral pitch
 
 |   Away Minutes | Away Player             |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:------------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             29 | Emmanuel Iyogun         |             71.42 |        1 |             61.97 | Kai Owen           |             67 |
-|             39 | Craig Wright            |             89.88 |        2 |             71.36 | Harry Clayton      |             34 |
-|             24 | Elliot Millar Mills     |             86.32 |        3 |             80.29 | Dan Richardson     |             29 |
-|             24 | Ed Prowse               |             65.91 |        4 |             37.69 | Jack Shine         |             29 |
-|             17 | Alex Coles              |             16    |        5 |              4.07 | Sebastien Ferreira |             29 |
-|             17 | Archie Benson           |             26.79 |        6 |             56.34 | Sam Green          |             51 |
-|             56 | Angus Scott-Young       |             70.73 |        7 |             28.69 | Nathan Tweedy      |             29 |
-|             16 | Iakopo Petelo Mapu      |             47.76 |        8 |             61.83 | James Cherry       |             24 |
-|             80 | Tom James               |             64.63 |        9 |             30.84 | Will Yarnell       |             17 |
-|             49 | George Makepeace-Cubitt |             81.8  |       10 |             61.72 | Matthew Arden      |             51 |
-|             41 | Tom Seabrook            |              4.38 |       11 |             68.94 | Harry Graham       |             63 |
-|             80 | Charlie Savala          |             70.95 |       12 |              5.19 | Javiah Pohe        |             80 |
-|             80 | Tom Litchfield          |             79.98 |       13 |              0.93 | Jack Stapley       |             80 |
-|             60 | Rafe Witheat            |             54.38 |       14 |              9.98 | David Williams     |             80 |
-|             56 | George Hendy            |             89.14 |       15 |             75.16 | Ryan Olowofela     |             63 |
-|             80 | Tom West                |             51.95 |       16 |             38.49 | Tom Threlfall      |             63 |
-|             55 | Henry Walker            |             40.82 |       17 |             56.26 | Antonio TJ Harris  |             64 |
-|             76 | William Glister         |             18.1  |       18 |             48.05 | Aniseko Sio        |             80 |
-|             80 | Beltus Nonleh           |              9.2  |       19 |             34.85 | Jay Ecclesfield    |             80 |
-|             80 | Tom Pearson             |             97.52 |       20 |             64.06 | Kody Vereti        |             80 |
-|             80 | Fyn Brown               |             15.06 |       21 |             65.16 | Toby Venner        |             56 |
-|             31 | Jonny Weimann           |            nan    |       22 |             47.76 | Sam Mercer         |             56 |
-|             80 | Billy Pasco             |             35.17 |       23 |            nan    | nan                |            nan |
+|             69 | Emmanuel Iyogun         |             79.66 |        1 |             73.96 | Kai Owen           |             20 |
+|             27 | Craig Wright            |             88.61 |        2 |             73.47 | Harry Clayton      |             18 |
+|             12 | Elliot Millar Mills     |             86.41 |        3 |             81.04 | Dan Richardson     |             25 |
+|             41 | Ed Prowse               |             69.93 |        4 |             24.6  | Jack Shine         |             80 |
+|             20 | Alex Coles              |             16.12 |        5 |              3.96 | Sebastien Ferreira |             25 |
+|             80 | Archie Benson           |             54.82 |        6 |             64.28 | Sam Green          |             25 |
+|             80 | Angus Scott-Young       |             76.98 |        7 |             30.09 | Nathan Tweedy      |             25 |
+|             55 | Iakopo Petelo Mapu      |             61.03 |        8 |             60.21 | James Cherry       |             31 |
+|             56 | Tom James               |             56.72 |        9 |             15.86 | Will Yarnell       |             80 |
+|             80 | George Makepeace-Cubitt |             86.11 |       10 |             68.21 | Matthew Arden      |             10 |
+|             49 | Tom Seabrook            |              5.42 |       11 |             74.86 | Harry Graham       |             29 |
+|             55 | Charlie Savala          |             68.31 |       12 |              7.49 | Javiah Pohe        |             39 |
+|             28 | Tom Litchfield          |             73.33 |       13 |              1.44 | Jack Stapley       |              4 |
+|             55 | Rafe Witheat            |             55.14 |       14 |             15.7  | David Williams     |             21 |
+|             55 | George Hendy            |             89.83 |       15 |             80.29 | Ryan Olowofela     |             25 |
+|             56 | Tom West                |             52.81 |       16 |             38.32 | Tom Threlfall      |             24 |
+|             80 | Henry Walker            |             39.12 |       17 |             56.8  | Antonio TJ Harris  |             41 |
+|             80 | William Glister         |             17.38 |       18 |             48.58 | Aniseko Sio        |             70 |
+|             80 | Beltus Nonleh           |              9.6  |       19 |             35.34 | Jay Ecclesfield    |             80 |
+|             24 | Tom Pearson             |             98.76 |       20 |             64.95 | Kody Vereti        |             28 |
+|             60 | Fyn Brown               |             14.52 |       21 |             64.66 | Toby Venner        |             60 |
+|             49 | Jonny Weimann           |            nan    |       22 |             48.04 | Sam Mercer         |             20 |
+|             24 | Billy Pasco             |             36.72 |       23 |            nan    | nan                |            nan |
 

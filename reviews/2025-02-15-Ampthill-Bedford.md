@@ -11,7 +11,7 @@ categories: "Premiership Rugby Cup 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.422, which translates to predicting Bedford to win by 2.8.
 
-Our Over/Under is 65.5 - and combined with the spread above, we have a predicted scoreline of 34 to 31
+Our Over/Under is 56.5 - and combined with the spread above, we have a predicted scoreline of 29 to 27
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Ampthill by 1.4
+## Prediction without Player Minutes: Ampthill by 2.0
 
 
-Bedford by 2.0 on a neutral pitch
+Bedford by 1.4 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -67,21 +67,27 @@ Bedford by 2.0 on a neutral pitch
 </p>
 
 
-|   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player                 |   Home Minutes |
-|---------------:|:-------------------|------------------:|---------:|------------------:|:----------------------------|---------------:|
-|             80 | Joey Conway        |             71.58 |        1 |             33.96 | Harrison Courtney           |             80 |
-|             80 | Tommy Herman       |             85.42 |        2 |             41.34 | Luke Thompson               |             80 |
-|             80 | Oisin Heffernan    |             85.02 |        3 |              2.2  | Callum Norrie               |             80 |
-|             80 | Luke Frost         |             14.68 |        4 |              9.47 | Jake Parkinson              |             53 |
-|             80 | Alex Woolford      |             88.45 |        5 |             21.12 | Aidan King                  |             80 |
-|             80 | Joe Howard         |             15.54 |        6 |             13.54 | Arthur Thomas               |             80 |
-|             50 | Jac Arthur         |             79.98 |        7 |              9.44 | Charles Rylands             |             80 |
-|             80 | Freddie Tuilagi    |             29.21 |        8 |              7.25 | Tino Mapapalangi            |             80 |
-|             80 | Alex Day           |             87.11 |        9 |              9.93 | Rory Morgan                 |             80 |
-|             80 | William Maisey     |             83.26 |       10 |              8.37 | Josh Barton                 |             80 |
-|             80 | Matt Worley        |             83.77 |       11 |              6.9  | Oran McNulty                |             70 |
-|             80 | Josh Matavesi      |             51.35 |       12 |             70.02 | Fraser James Kevin Strachan |             80 |
-|             80 | Lucas Titherington |             49.9  |       13 |             13.07 | Byron Sharwood              |             80 |
-|             23 | Alfie Garside      |             62.69 |       14 |             28.36 | Tom Barton                  |             60 |
-|             80 | Louis James        |             44.47 |       15 |             10.65 | Evan Mitchell               |             45 |
+|   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player                 |   Home Minutes |
+|---------------:|:---------------------|------------------:|---------:|------------------:|:----------------------------|---------------:|
+|             40 | Joey Conway          |             71.6  |        1 |             34.34 | Harrison Courtney           |             80 |
+|             33 | Tommy Herman         |             80.61 |        2 |             45.41 | Luke Thompson               |             18 |
+|             80 | Oisin Heffernan      |             84.78 |        3 |              3.74 | Callum Norrie               |             31 |
+|             23 | Luke Frost           |              6.69 |        4 |              8.77 | Jake Parkinson              |             80 |
+|             59 | Alex Woolford        |             83.6  |        5 |             25.45 | Aidan King                  |             34 |
+|             21 | Joe Howard           |              7.26 |        6 |             16.14 | Arthur Thomas               |             26 |
+|             61 | Jac Arthur           |             83.86 |        7 |              8.4  | Charles Rylands             |             40 |
+|             33 | Freddie Tuilagi      |             16.7  |        8 |              6.39 | Tino Mapapalangi            |             59 |
+|             33 | Alex Day             |             84.48 |        9 |              9.66 | Rory Morgan                 |             47 |
+|             19 | William Maisey       |             80.63 |       10 |              7.16 | Josh Barton                 |             70 |
+|             21 | Matt Worley          |             78.97 |       11 |              5.33 | Oran McNulty                |             80 |
+|             19 | Josh Matavesi        |             20.92 |       12 |             74.36 | Fraser James Kevin Strachan |             29 |
+|             33 | Lucas Titherington   |             54.05 |       13 |             11.59 | Byron Sharwood              |             80 |
+|              6 | Alfie Garside        |             53.83 |       14 |             23.08 | Tom Barton                  |             80 |
+|             80 | Louis James          |             40.66 |       15 |              7.68 | Evan Mitchell               |             74 |
+|             21 | Jamie Jack           |             11.47 |       16 |              5.21 | James Flynn                 |             80 |
+|             24 | Curtis Langdon       |             41.16 |       17 |             65.01 | Richard Barrington          |             46 |
+|             24 | Austin Hay           |            nan    |       18 |             59.98 | Sid Blackmore               |              6 |
+|             61 | Cameron King         |             15.88 |       19 |             15.46 | Lekima Ravuvu               |             59 |
+|             80 | Rory Ward            |             35.44 |       20 |             36.77 | Barnaby Merrett             |             40 |
+|             62 | Michael Le Bourgeois |             49.54 |       21 |            nan    | Charlie West                |             47 |
 

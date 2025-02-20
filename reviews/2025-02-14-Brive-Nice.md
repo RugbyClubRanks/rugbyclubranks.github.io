@@ -11,7 +11,7 @@ categories: "Pro D2 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.789, which translates to predicting Brive to win by 11.6.
 
-Our Over/Under is 57.5 - and combined with the spread above, we have a predicted scoreline of 23 to 34
+Our Over/Under is 54.5 - and combined with the spread above, we have a predicted scoreline of 22 to 33
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Brive by 14.7
+## Prediction without Player Minutes: Brive by 14.8
 
 
-Brive by 1.8 on a neutral pitch
+Brive by 1.9 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Brive by 1.8 on a neutral pitch
 
 |   Away Minutes | Away Player              |   Away Percentile |   Number |   Home Percentile | Home Player               |   Home Minutes |
 |---------------:|:-------------------------|------------------:|---------:|------------------:|:--------------------------|---------------:|
-|             80 | Facundo Gigena           |              6.03 |        1 |              7.98 | Simon-Pierre Chauvac      |             17 |
-|              9 | Sacha Idoumi             |             18.18 |        2 |             75.99 | Issam Hamel               |             30 |
-|             41 | Tom Ross                 |              3.09 |        3 |             34.93 | Henzo Kiteau              |             41 |
-|             57 | Louis Suaud              |             90.15 |        4 |             65.62 | Renger van Eerten         |             28 |
-|             46 | Clément Chartier         |             20.36 |        5 |             88.64 | Sitaleki Timani           |             80 |
-|             57 | Jordan Taufua            |             85.13 |        6 |             20.11 | Sasha Gue                 |             21 |
-|             80 | Hugo Sarrasin            |             10.3  |        7 |             59.2  | Samuel Maximin            |             59 |
-|             54 | Ramiha Tarrel Tia Smiler |             26.01 |        8 |             42    | Loan Lavergne             |             13 |
-|             64 | Jules Solinas            |             33.45 |        9 |             53.66 | Mathis Ferté              |             57 |
-|             29 | Jules Gimbert            |              5.23 |       10 |             30.13 | Tom Raffy                 |             80 |
-|             80 | Andrzej Charlat          |             76.68 |       11 |             90.95 | Erwan Dridi               |             80 |
-|             80 | Tom Daly                 |             38.8  |       12 |             21.06 | Paul Pimienta             |             80 |
-|             63 | Baptiste Lafond          |              8.2  |       13 |             94.5  | Matias Moroni             |             28 |
-|             16 | David Odiete             |             91.98 |       14 |             12.22 | Tevita Railevu            |             80 |
-|             50 | Flavio Asquini           |             41.54 |       15 |              5.22 | Thomas Zenon              |             26 |
-|             63 | Luca Cutayar             |             25.62 |       16 |            nan    | Nathan Fraissenon         |             28 |
-|             23 | Bastien Berenguel        |              0.67 |       17 |             44.77 | Benjamin Boudou           |             34 |
-|             25 | Mathis Viard             |             79.5  |       18 |             57.08 | Francisco Coria Marchetti |             34 |
-|             28 | Kylian Laurans           |             34.12 |       19 |             89.39 | Asier Usarraga            |             80 |
-|             32 | Adrien Vigne             |            nan    |       20 |             76.64 | Matthieu Voisin           |             34 |
-|             39 | Pierre Strippoli         |             39.62 |       21 |             79.4  | Omar Odishvili            |             39 |
-|             39 | Nicolas Ciancio          |             66.04 |       22 |            nan    | Maximus Lestro            |             71 |
-|             39 | Sunia Vola               |             68.32 |       23 |             71.6  | Maxime Sidobre            |             52 |
+|             55 | Facundo Gigena           |              6.51 |        1 |              8.3  | Simon-Pierre Chauvac      |             21 |
+|             80 | Sacha Idoumi             |             15.65 |        2 |             78.91 | Issam Hamel               |             17 |
+|             64 | Tom Ross                 |              1.46 |        3 |             37.1  | Henzo Kiteau              |             34 |
+|             80 | Louis Suaud              |             88.41 |        4 |             67.58 | Renger van Eerten         |             22 |
+|             13 | Clément Chartier         |             14.04 |        5 |             88.69 | Sitaleki Timani           |             24 |
+|             80 | Jordan Taufua            |             84.05 |        6 |             22.73 | Sasha Gue                 |             80 |
+|             56 | Hugo Sarrasin            |              8.5  |        7 |             66.48 | Samuel Maximin            |             29 |
+|             67 | Ramiha Tarrel Tia Smiler |             17.53 |        8 |             43.51 | Loan Lavergne             |             29 |
+|             80 | Jules Solinas            |             23.45 |        9 |             56.03 | Mathis Ferté              |             51 |
+|             63 | Jules Gimbert            |              4.42 |       10 |             38.53 | Tom Raffy                 |             29 |
+|             29 | Andrzej Charlat          |             63.46 |       11 |             91.96 | Erwan Dridi               |             80 |
+|             80 | Tom Daly                 |             38.46 |       12 |             29.23 | Paul Pimienta             |             56 |
+|             63 | Baptiste Lafond          |              7.59 |       13 |             96.1  | Matias Moroni             |             51 |
+|             80 | David Odiete             |             92.06 |       14 |             12.9  | Tevita Railevu            |             80 |
+|             39 | Flavio Asquini           |             40.87 |       15 |              6.64 | Thomas Zenon              |             80 |
+|             39 | Luca Cutayar             |             26.87 |       16 |            nan    | Nathan Fraissenon         |             63 |
+|             39 | Bastien Berenguel        |              0.48 |       17 |             67.18 | Benjamin Boudou           |             76 |
+|             17 | Mathis Viard             |             79.16 |       18 |             57.53 | Francisco Coria Marchetti |             80 |
+|             64 | Kylian Laurans           |             34.23 |       19 |             89.63 | Asier Usarraga            |             80 |
+|             39 | Adrien Vigne             |            nan    |       20 |             76.7  | Matthieu Voisin           |             39 |
+|             41 | Pierre Strippoli         |             38.78 |       21 |             79.82 | Omar Odishvili            |             31 |
+|             23 | Nicolas Ciancio          |             67.45 |       22 |            nan    | Maximus Lestro            |             60 |
+|             80 | Sunia Vola               |             69.89 |       23 |             71.21 | Maxime Sidobre            |             56 |
 

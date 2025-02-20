@@ -11,7 +11,7 @@ categories: "Japan Rugby League One 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.753, which translates to predicting Toshiba Brave Lupus to win by 10.0.
 
-Our Over/Under is 65.5 - and combined with the spread above, we have a predicted scoreline of 28 to 38
+Our Over/Under is 63.5 - and combined with the spread above, we have a predicted scoreline of 27 to 37
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Toshiba Brave Lupus by 16.5
+## Prediction without Player Minutes: Toshiba Brave Lupus by 16.9
 
 
-Toshiba Brave Lupus by 12.2 on a neutral pitch
+Toshiba Brave Lupus by 12.6 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Toshiba Brave Lupus by 12.2 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             56 | Kenta Kobayashi     |             74.27 |        1 |             88.44 | Sena Kimura        |             70 |
-|             18 | Alex Mafi           |             58.49 |        2 |             84.22 | Mamoru Harada      |             80 |
-|             10 | Shinnosuke Kakinaga |             90.47 |        3 |             91.53 | Yuta Kokaji        |             80 |
-|              3 | Sam Jeffries        |             96.21 |        4 |             41.67 | Shohei Ito         |             51 |
-|             18 | Harry Hockings      |             97.16 |        5 |             98.39 | Jacob Pierce       |             80 |
-|             80 | Kanji Shimokawa     |             80.55 |        6 |             94.76 | Shannon Frizell    |             80 |
-|             53 | Sam Cane            |             99.14 |        7 |             89.04 | Takeshi Sasaki     |             80 |
-|             56 | Ryuga Hashimoto     |             69.3  |        8 |             94.88 | Michael Leitch     |             40 |
-|              8 | Yutaka Nagare       |             71.25 |        9 |             82.23 | Yuhei Sugiyama     |             54 |
-|             72 | Mikiya Takamoto     |             57.95 |       10 |            100    | Richie Mo'unga     |              3 |
-|             64 | Taiga Ozaki         |             82.37 |       11 |             60.26 | Yuto Mori          |             80 |
-|             77 | Shogo Nakano        |             39.32 |       12 |             29.98 | Rob Thompson       |             78 |
-|             80 | Isaiah Punivai      |             60.17 |       13 |             96.06 | Seta Tamanivalu    |             80 |
-|              1 | Seiya Ozaki         |             95.15 |       14 |             70.15 | Jone Naikabula     |              7 |
-|             40 | Ryosuke Kawase      |             53.03 |       15 |             91.65 | Takuro Matsunaga   |             62 |
-|             80 | Hideto Niguma       |            nan    |       16 |             84.2  | Teruo Makabe       |             80 |
-|             54 | Kan Nakano          |             14.33 |       17 |            nan    | Latu Taufa         |             40 |
-|             80 | Yukio Morikawa      |             84.45 |       18 |             77.87 | Daigo Hashimoto    |             80 |
-|             29 | Tatsuya Miyazaki    |             20.24 |       19 |             37.22 | Samuela Anise      |             80 |
-|             20 | Kenta Fukuda        |             72.13 |       20 |             81.12 | Taichi Mano        |              3 |
-|             80 | Kai Yamamoto        |             26.69 |       21 |             92.28 | Michael Collins    |             80 |
-|             80 | Trevor Hosea        |             22.25 |       22 |             25.45 | Yoshitaka Tokunaga |              3 |
-|             53 | Keisuke Moriya      |            nan    |       23 |             64.11 | Kohei Takahashi    |              2 |
+|             44 | Kenta Kobayashi     |             57.04 |        1 |             94.63 | Sena Kimura        |             80 |
+|             20 | Alex Mafi           |             59.35 |        2 |             90.99 | Mamoru Harada      |             72 |
+|             18 | Shinnosuke Kakinaga |             92.27 |        3 |             93.41 | Yuta Kokaji        |             51 |
+|             80 | Sam Jeffries        |             92.46 |        4 |             66.92 | Shohei Ito         |             72 |
+|              2 | Harry Hockings      |             98.21 |        5 |             98.96 | Jacob Pierce       |             80 |
+|             80 | Kanji Shimokawa     |             83.29 |        6 |             95.89 | Shannon Frizell    |             51 |
+|              8 | Sam Cane            |             98.95 |        7 |             92.55 | Takeshi Sasaki     |             40 |
+|             10 | Ryuga Hashimoto     |             63.51 |        8 |             95.46 | Michael Leitch     |             80 |
+|             18 | Yutaka Nagare       |             63.97 |        9 |             89.31 | Yuhei Sugiyama     |             70 |
+|             18 | Mikiya Takamoto     |             57.26 |       10 |             99.79 | Richie Mo'unga     |             29 |
+|             18 | Taiga Ozaki         |             74.39 |       11 |             73.46 | Yuto Mori          |             29 |
+|              8 | Shogo Nakano        |             19.28 |       12 |             54.87 | Rob Thompson       |             35 |
+|             72 | Isaiah Punivai      |             66.77 |       13 |             96.72 | Seta Tamanivalu    |             80 |
+|             80 | Seiya Ozaki         |             92.62 |       14 |             61.4  | Jone Naikabula     |             27 |
+|             40 | Ryosuke Kawase      |             49.38 |       15 |             93.36 | Takuro Matsunaga   |             80 |
+|             72 | Hideto Niguma       |            nan    |       16 |             86    | Teruo Makabe       |             80 |
+|             80 | Kan Nakano          |             12.86 |       17 |            nan    | Latu Taufa         |             40 |
+|             80 | Yukio Morikawa      |             85.11 |       18 |             77.55 | Daigo Hashimoto    |              8 |
+|             80 | Tatsuya Miyazaki    |             19.73 |       19 |             39.21 | Samuela Anise      |             80 |
+|             53 | Kenta Fukuda        |             71.9  |       20 |             85.33 | Taichi Mano        |             60 |
+|             80 | Kai Yamamoto        |             23.4  |       21 |             92.74 | Michael Collins    |             51 |
+|             53 | Trevor Hosea        |             21.3  |       22 |             26.27 | Yoshitaka Tokunaga |             51 |
+|             70 | Keisuke Moriya      |            nan    |       23 |             64.31 | Kohei Takahashi    |             51 |
 
