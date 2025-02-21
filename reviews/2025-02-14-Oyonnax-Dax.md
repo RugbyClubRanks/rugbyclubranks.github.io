@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Oyonnax by 10.8
+## Prediction without Player Minutes: Oyonnax by 10.7
 
 
-Dax by 2.1 on a neutral pitch
+Dax by 2.2 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Dax by 2.1 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             80 | Dino Casadei         |             67.29 |        1 |              7.24 | Adrien Bordenave   |             39 |
-|             80 | Paul Laperne         |             61.56 |        2 |              2.21 | Teddy Durand       |             39 |
-|             53 | Thibaud Dréan        |             37.35 |        3 |             29.13 | Ali Oz             |             39 |
-|             59 | Étienne Loiret       |             47.69 |        4 |             91.61 | Phoenix Battye     |             60 |
-|             24 | Jean-Baptiste Singer |              7.63 |        5 |             50.24 | Ewan Johnson       |             52 |
-|             30 | Jean Despiau         |             19.96 |        6 |             15.57 | Kevin Lebreton     |             80 |
-|             48 | Malo Hannoyer        |             54.92 |        7 |              9.65 | Hugo Hermet        |             16 |
-|             80 | Genesis Mamea Lemalu |             65.98 |        8 |              2.27 | Loic Godener       |             80 |
-|             56 | Sylvère Reteau       |             69.14 |        9 |             91.72 | Jonathan Ruru      |             41 |
-|             52 | Hugo Cerisier        |             65.47 |       10 |             84.42 | Zack Holmes        |             41 |
-|             28 | Diego Miranda        |             46.07 |       11 |             47.1  | Karim Qadiri       |             80 |
-|             48 | Benjamin Puntous     |             10.56 |       12 |              9.33 | Lucas Mensa        |             41 |
-|             80 | Hugo Fourquet        |             89.33 |       13 |             59.59 | Afusipa Taumoepeau |             41 |
-|             60 | Viliame Tutuvili     |             49.72 |       14 |             67.76 | Daniel Ikpefan     |             29 |
-|             40 | Guillaume Bouche     |             74.27 |       15 |             22.41 | Martin Bogado      |             20 |
-|             40 | Romuald Séguy        |             30.32 |       16 |             63.47 | Paulo Tafili       |             20 |
-|             80 | Kito Falatea         |            nan    |       17 |              1.51 | Manuel Leindekar   |             59 |
-|             80 | Raphaël Laboille     |            nan    |       18 |             92.86 | Peniami Narisia    |             80 |
-|             34 | David Lolohea        |             44.26 |       19 |             37.7  | Kevin Kornath      |             80 |
-|             34 | Paul Ravier          |             82.59 |       20 |            nan    | nan                |            nan |
-|             80 | Paul Arnaud Ausset   |             75.07 |       21 |            nan    | nan                |            nan |
-|             21 | Alexandre Manukula   |             19.89 |       22 |            nan    | nan                |            nan |
-|             80 | Bastien Daguerre     |             53.85 |       23 |            nan    | nan                |            nan |
+|             56 | Dino Casadei         |             64.18 |        1 |              7.31 | Adrien Bordenave   |             24 |
+|             53 | Paul Laperne         |             55.95 |        2 |              2.72 | Teddy Durand       |             57 |
+|             57 | Thibaud Dréan        |             50.84 |        3 |             28.19 | Ali Oz             |             39 |
+|             80 | Étienne Loiret       |             46.52 |        4 |             92.18 | Phoenix Battye     |             39 |
+|             21 | Jean-Baptiste Singer |              6.59 |        5 |             55.08 | Ewan Johnson       |             12 |
+|             23 | Jean Despiau         |             19.96 |        6 |             17.15 | Kevin Lebreton     |             21 |
+|             80 | Malo Hannoyer        |             60.07 |        7 |              8.43 | Hugo Hermet        |             41 |
+|             80 | Genesis Mamea Lemalu |             70.15 |        8 |              2.51 | Loic Godener       |             41 |
+|             39 | Sylvère Reteau       |             66.32 |        9 |             91.92 | Jonathan Ruru      |             39 |
+|             28 | Hugo Cerisier        |             52.92 |       10 |             82.5  | Zack Holmes        |             80 |
+|             46 | Diego Miranda        |             51.21 |       11 |             46.01 | Karim Qadiri       |             80 |
+|             28 | Benjamin Puntous     |              8.78 |       12 |              8.99 | Lucas Mensa        |             46 |
+|             56 | Hugo Fourquet        |             88.46 |       13 |             58.32 | Afusipa Taumoepeau |             25 |
+|             80 | Viliame Tutuvili     |             55.75 |       14 |             65.12 | Daniel Ikpefan     |             59 |
+|             46 | Guillaume Bouche     |             73.33 |       15 |             16.77 | Martin Bogado      |             60 |
+|             56 | Romuald Séguy        |             31.25 |       16 |             58.23 | Paulo Tafili       |             46 |
+|             80 | Kito Falatea         |            nan    |       17 |              1.32 | Manuel Leindekar   |             40 |
+|             54 | Raphaël Laboille     |             25.54 |       18 |             92.52 | Peniami Narisia    |             63 |
+|             80 | David Lolohea        |             49.96 |       19 |             36.82 | Kevin Kornath      |             80 |
+|             71 | Paul Ravier          |             84.88 |       20 |            nan    | nan                |            nan |
+|             51 | Paul Arnaud Ausset   |             77.23 |       21 |            nan    | nan                |            nan |
+|             39 | Alexandre Manukula   |             21.19 |       22 |            nan    | nan                |            nan |
+|             34 | Bastien Daguerre     |             33.09 |       23 |            nan    | nan                |            nan |
 

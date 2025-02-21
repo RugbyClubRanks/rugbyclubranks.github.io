@@ -11,7 +11,7 @@ categories: "Premiership Rugby Cup 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.146, which translates to predicting Ealing Trailfinders to win by 15.7.
 
-Our Over/Under is 58.5 - and combined with the spread above, we have a predicted scoreline of 37 to 21
+Our Over/Under is 65.5 - and combined with the spread above, we have a predicted scoreline of 40 to 25
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Ealing Trailfinders by 19.7 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|              4 | James Kenny         |             21.4  |        1 |             76.97 | Will Prior            |              9 |
-|             83 | Mike Willemse       |             85.2  |        2 |             48.98 | Calum Scott           |             30 |
-|             62 | George Davis        |             82.34 |        3 |              3.5  | Ashley Challenger     |             30 |
-|             83 | Bobby de Wee        |             95    |        4 |              8.11 | Jonny Green           |             20 |
-|             80 | Sean Lonsdale       |             36.57 |        5 |             16.31 | Alex Wardell          |             75 |
-|             80 | Rob Farrar          |             86.63 |        6 |              7.16 | Ioan Rhys Davies      |             80 |
-|              0 | Jordy Reid          |             76.6  |        7 |              5.54 | Jack Ingall           |             80 |
-|              0 | Will Montgomery     |             37.73 |        8 |             56.49 | Zach Carr             |             20 |
-|             80 | Craig Hampson       |             89.66 |        9 |             21.38 | Jonny Law             |              6 |
-|              0 | Dan Jones           |             80.42 |       10 |             19.79 | Alexander Lloyd-Seed  |             20 |
-|             45 | Tom Collins         |             99.35 |       11 |              1.21 | Noah Ferdinand        |             80 |
-|             78 | Francis Moore       |             53.54 |       12 |              3.9  | Robert David McCallum |             11 |
-|             80 | Reuben Bird-Tulloch |             77.44 |       13 |             15.9  | Hayden Hyde           |             60 |
-|             38 | Angus Kernohan      |             90.65 |       14 |             19.16 | Roma Zheng            |             40 |
-|             83 | Tobi Wilson         |             83.2  |       15 |             79.05 | Jonah Holmes          |             14 |
-|             83 | Elliott Chilvers    |             54.35 |       16 |             12.77 | Ntinga Mpiko          |             60 |
-|             83 | Scott Buckley       |            nan    |       17 |            nan    | George Head           |             80 |
-|             53 | Kabous Bezuidenhout |            nan    |       18 |             27.75 | Caleb Ashworth        |             26 |
-|             70 | Daniel Cutmore      |             91.89 |       19 |             14.42 | Lewis Barrett         |             60 |
-|             13 | Danny Bridge        |             55.78 |       20 |            nan    | Tom Johnson           |             80 |
-|             71 | Micheal Stronge     |              7.93 |       21 |              6.21 | Stephen Kerins        |             17 |
-|             21 | Craig Willis        |             98.32 |       22 |             13.68 | Tom Wilstead          |             28 |
-|             40 | Dan O'Brien         |             25.54 |       23 |             81.33 | Bryn Bradley          |             28 |
+|             10 | James Kenny         |             21.04 |        1 |             77.51 | Will Prior            |             30 |
+|             30 | Mike Willemse       |             79.93 |        2 |             58.84 | Calum Scott           |             50 |
+|             55 | George Davis        |             74.78 |        3 |              3.37 | Ashley Challenger     |             52 |
+|             80 | Bobby de Wee        |             92.94 |        4 |              7.25 | Jonny Green           |              6 |
+|             80 | Sean Lonsdale       |             27.59 |        5 |             17.89 | Alex Wardell          |             49 |
+|             27 | Rob Farrar          |             82.29 |        6 |              7.22 | Ioan Rhys Davies      |             80 |
+|             50 | Jordy Reid          |             69.54 |        7 |              6.09 | Jack Ingall           |             75 |
+|             50 | Will Montgomery     |             16.28 |        8 |             56.16 | Zach Carr             |             49 |
+|             80 | Craig Hampson       |             78.35 |        9 |             19.24 | Jonny Law             |              5 |
+|             63 | Dan Jones           |             67.08 |       10 |             18.33 | Alexander Lloyd-Seed  |             20 |
+|             66 | Tom Collins         |             99.54 |       11 |              1.95 | Noah Ferdinand        |              4 |
+|             17 | Francis Moore       |             21.86 |       12 |              3.78 | Robert David McCallum |             11 |
+|             40 | Reuben Bird-Tulloch |             71.09 |       13 |             17.16 | Hayden Hyde           |             30 |
+|             28 | Angus Kernohan      |             92.49 |       14 |             22.26 | Roma Zheng            |              5 |
+|             80 | Tobi Wilson         |             78.59 |       15 |             78.18 | Jonah Holmes          |              6 |
+|             29 | Elliott Chilvers    |             53.17 |       16 |             16.22 | Ntinga Mpiko          |             26 |
+|             80 | Scott Buckley       |            nan    |       17 |            nan    | George Head           |             80 |
+|             80 | Kabous Bezuidenhout |            nan    |       18 |             27.55 | Caleb Ashworth        |             12 |
+|             30 | Daniel Cutmore      |             92.09 |       19 |             15.18 | Lewis Barrett         |             75 |
+|             80 | Danny Bridge        |             56.7  |       20 |            nan    | Tom Johnson           |             28 |
+|             80 | Micheal Stronge     |              8.59 |       21 |              6.01 | Stephen Kerins        |             20 |
+|             74 | Craig Willis        |             98.54 |       22 |             13.96 | Tom Wilstead          |             64 |
+|             80 | Dan O'Brien         |             24.82 |       23 |             80.59 | Bryn Bradley          |             80 |
 

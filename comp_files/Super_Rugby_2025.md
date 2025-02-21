@@ -1,6 +1,6 @@
 ---  
 title: "Super Rugby 2025 Status"  
-date: 2025-02-14 6:00:00 -0500  
+date: 2025-02-21 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -15,12 +15,12 @@ aside:
 ## Projected Total Table
 
 
-| Club                     |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
-|:-------------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Hurricanes               |               1 |    0.6 |              1.86584 |                   0.2 |                0.7 |                  3.3 |
-| New South Wales Waratahs |               1 |    0.6 |              1.1106  |                   0.3 |                0.3 |                  2.8 |
-| Highlanders              |               1 |    0.4 |             -1.1106  |                   0.3 |                0.5 |                  2.6 |
-| Crusaders                |               1 |    0.4 |             -1.86584 |                   0.3 |                0.2 |                  2.2 |
+| Club            |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
+|:----------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
+| Queensland Reds |               1 |    0.9 |              14.6311 |                   0   |                0.7 |                  4.4 |
+| Chiefs          |               1 |    0.9 |              14.268  |                   0   |                0.4 |                  4.1 |
+| Moana Pasifika  |               1 |    0.1 |             -14.6311 |                   0.2 |                0.4 |                  0.9 |
+| Crusaders       |               1 |    0.1 |             -14.268  |                   0.2 |                0.2 |                  0.7 |
 
 
 
@@ -28,28 +28,28 @@ aside:
 
 ## Week 1
 
-### New South Wales Waratahs V Highlanders on 2025/02/14
+### Chiefs V Crusaders on 2025/02/21
 
 
-Average Margin: New South Wales Waratahs by 1.1
+Average Margin: Chiefs by 14.3
 
-Average Scoreline: 26-25
+Average Scoreline: 33-19
 
 <p float="left">
-<img src="plots/performances_2025-02-14-NewSouthWalesWaratahs_V_Highlanders.png" width="32%" />
-<img src="plots/resultbar_2025-02-14-NewSouthWalesWaratahs_V_Highlanders.png" width="32%" />
-<img src="plots/spreads_2025-02-14-NewSouthWalesWaratahs_V_Highlanders.png" width="32%" />
+<img src="plots/performances_2025-02-21-Chiefs_V_Crusaders.png" width="32%" />
+<img src="plots/resultbar_2025-02-21-Chiefs_V_Crusaders.png" width="32%" />
+<img src="plots/spreads_2025-02-21-Chiefs_V_Crusaders.png" width="32%" />
 </p>
 
-### Crusaders V Hurricanes on 2025/02/14
+### Queensland Reds V Moana Pasifika on 2025/02/21
 
 
-Average Margin: Hurricanes by 1.9
+Average Margin: Queensland Reds by 14.6
 
-Average Scoreline: 31-29
+Average Scoreline: 44-29
 
 <p float="left">
-<img src="plots/performances_2025-02-14-Crusaders_V_Hurricanes.png" width="32%" />
-<img src="plots/resultbar_2025-02-14-Crusaders_V_Hurricanes.png" width="32%" />
-<img src="plots/spreads_2025-02-14-Crusaders_V_Hurricanes.png" width="32%" />
+<img src="plots/performances_2025-02-21-QueenslandReds_V_MoanaPasifika.png" width="32%" />
+<img src="plots/resultbar_2025-02-21-QueenslandReds_V_MoanaPasifika.png" width="32%" />
+<img src="plots/spreads_2025-02-21-QueenslandReds_V_MoanaPasifika.png" width="32%" />
 </p>

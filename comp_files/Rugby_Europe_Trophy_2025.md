@@ -1,6 +1,6 @@
 ---  
 title: "Rugby Europe Trophy 2025 Status"  
-date: 2025-02-20 6:00:00 -0500  
+date: 2025-02-21 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,12 +17,12 @@ aside:
 
 | Club           |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Sweden         |               2 |    1.8 |             47.971   |                   0.1 |                1.4 |                  8.8 |
-| Czech Republic |               2 |    1.6 |             20.7276  |                   0.2 |                1   |                  7.6 |
-| Luxembourg     |               3 |    1.2 |             -1.99591 |                   0.5 |                1   |                  6.3 |
-| Croatia        |               1 |    0.9 |             17.8997  |                   0.1 |                0.7 |                  4.3 |
-| Poland         |               3 |    0.2 |            -74.9407  |                   0.2 |                0.7 |                  1.9 |
-| Lithuania      |               1 |    0.2 |             -9.66175 |                   0.2 |                0.2 |                  1.3 |
+| Sweden         |               2 |    1.8 |             47.9404  |                   0.1 |                1.4 |                  8.7 |
+| Czech Republic |               2 |    1.6 |             21.6863  |                   0.2 |                0.9 |                  7.6 |
+| Luxembourg     |               3 |    1.2 |             -3.44126 |                   0.4 |                1   |                  6.3 |
+| Croatia        |               1 |    0.9 |             18.5164  |                   0.1 |                0.7 |                  4.3 |
+| Poland         |               3 |    0.2 |            -74.1821  |                   0.2 |                0.6 |                  1.8 |
+| Lithuania      |               1 |    0.2 |            -10.5197  |                   0.2 |                0.2 |                  1.2 |
 
 
 
@@ -33,7 +33,7 @@ aside:
 ### Poland V Croatia on 2025/02/22
 
 
-Average Margin: Croatia by 17.9
+Average Margin: Croatia by 18.5
 
 Average Scoreline: 35-17
 
@@ -48,7 +48,7 @@ Average Scoreline: 35-17
 ### Czech Republic V Luxembourg on 2025/03/08
 
 
-Average Margin: Czech Republic by 11.1
+Average Margin: Czech Republic by 11.2
 
 Average Scoreline: 31-20
 
@@ -60,23 +60,10 @@ Average Scoreline: 31-20
 
 ## Week 3
 
-### Lithuania V Czech Republic on 2025/03/29
-
-
-Average Margin: Czech Republic by 9.7
-
-Average Scoreline: 30-21
-
-<p float="left">
-<img src="plots/performances_2025-03-29-Lithuania_V_CzechRepublic.png" width="32%" />
-<img src="plots/resultbar_2025-03-29-Lithuania_V_CzechRepublic.png" width="32%" />
-<img src="plots/spreads_2025-03-29-Lithuania_V_CzechRepublic.png" width="32%" />
-</p>
-
 ### Luxembourg V Sweden on 2025/03/29
 
 
-Average Margin: Sweden by 13.4
+Average Margin: Sweden by 13.8
 
 Average Scoreline: 31-17
 
@@ -86,14 +73,27 @@ Average Scoreline: 31-17
 <img src="plots/spreads_2025-03-29-Luxembourg_V_Sweden.png" width="32%" />
 </p>
 
+### Lithuania V Czech Republic on 2025/03/29
+
+
+Average Margin: Czech Republic by 10.5
+
+Average Scoreline: 31-20
+
+<p float="left">
+<img src="plots/performances_2025-03-29-Lithuania_V_CzechRepublic.png" width="32%" />
+<img src="plots/resultbar_2025-03-29-Lithuania_V_CzechRepublic.png" width="32%" />
+<img src="plots/spreads_2025-03-29-Lithuania_V_CzechRepublic.png" width="32%" />
+</p>
+
 ## Week 4
 
 ### Luxembourg V Poland on 2025/04/05
 
 
-Average Margin: Luxembourg by 22.5
+Average Margin: Luxembourg by 21.5
 
-Average Scoreline: 39-16
+Average Scoreline: 38-17
 
 <p float="left">
 <img src="plots/performances_2025-04-05-Luxembourg_V_Poland.png" width="32%" />
@@ -106,7 +106,7 @@ Average Scoreline: 39-16
 ### Sweden V Poland on 2025/04/11
 
 
-Average Margin: Sweden by 34.5
+Average Margin: Sweden by 34.1
 
 Average Scoreline: 53-19
 

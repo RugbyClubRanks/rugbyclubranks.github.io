@@ -11,7 +11,7 @@ categories: "Japan Rugby League One D3 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.985, which translates to predicting Sayama Rugguts to win by 37.9.
 
-Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 4 to 42
+Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 8 to 46
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Sayama Rugguts by 2.8
+## Prediction without Player Minutes: Sayama Rugguts by 2.3
 
 
-Sayama Rugguts by 0.6 on a neutral pitch
+Sayama Rugguts by 0.2 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Sayama Rugguts by 0.6 on a neutral pitch
 
 |   Away Minutes | Away Player      |   Away Percentile |   Number |   Home Percentile | Home Player       |   Home Minutes |
 |---------------:|:-----------------|------------------:|---------:|------------------:|:------------------|---------------:|
-|            9   | Kei Takusagawa   |             49.39 |        1 |             45.93 | Kentaro Ueno      |            4   |
-|           36.5 | Kota Hojo        |             53.74 |        2 |             31.29 | Tatsuki Tanina    |           80   |
-|           80   | Rui Kuriyama     |             64.04 |        3 |             45.93 | Motoki Kaneko     |            4   |
-|           36   | Kota Nakamura    |             54.57 |        4 |             42.79 | Itsuki Fujii      |           17   |
-|            0   | Daymon Leasuasu  |             45.85 |        5 |             44.3  | Troy Callander    |           10   |
-|            3   | Harrison Brewer  |             46.51 |        6 |             31.42 | Ash Parker        |           80   |
-|           29   | Taisei Nakao     |             52.82 |        7 |             44.13 | Ryusuke Yamamoto  |            4   |
-|           27.5 | Tevita Oto       |             47.63 |        8 |             37.94 | Whetu Douglas     |           17   |
-|           10   | Ren Shinwada     |             47.76 |        9 |             35.34 | Rikuya Takashima  |           61   |
-|           18   | Piers Francis    |             58.11 |       10 |             34.74 | Shota Kutsuna     |           36.5 |
-|           24   | Koshi Emoto      |             53.08 |       11 |             35.98 | Tatsuki Kanza     |           61   |
-|            4   | Leo Gordon       |             43.69 |       12 |             31.49 | Tj Faiane         |           80   |
-|           65   | So Matsushima    |             56    |       13 |             32.41 | Tuiaki Fisipuna   |           71   |
-|           40   | Kentaro Sugimori |             55.61 |       14 |             33.46 | Yushi Okuda       |           80   |
-|           40   | Yuta Sugiyama    |             51.04 |       15 |             77.18 | Chase Tiatia      |           80   |
-|           40   | Ryutaro Iguchi   |            nan    |       16 |            nan    | Shota Okuno       |           61   |
-|           58   | Aki Kajihara     |            nan    |       17 |            nan    | Toshiki Sato      |           68   |
-|           71   | Issa Hosoya      |            nan    |       18 |            nan    | Yuto Takano       |           19   |
-|           75   | Kengo Nakamura   |            nan    |       19 |            nan    | Kento Mizutani    |           19   |
-|           80   | Jamie Vakalahi   |            nan    |       20 |            nan    | Shigeto Yamashita |           19   |
-|           80   | Kakeru Sugihara  |            nan    |       21 |            nan    | Kanaru Takahashi  |           19   |
-|           80   | Hiroki Handa     |            nan    |       22 |            nan    | Haruya Nakasu     |            9   |
-|           77   | Katsuki Ishizuka |            nan    |       23 |            nan    | Ayumu Sawada      |            3   |
+|           80   | Kei Takusagawa   |             62.89 |        1 |             29    | Kentaro Ueno      |           80   |
+|           10   | Kota Hojo        |             46.77 |        2 |             39.29 | Tatsuki Tanina    |           25   |
+|            3   | Rui Kuriyama     |             46.75 |        3 |             38.31 | Motoki Kaneko     |           29   |
+|           33   | Kota Nakamura    |             52.73 |        4 |             43.13 | Itsuki Fujii      |           12   |
+|            8.5 | Daymon Leasuasu  |             46.7  |        5 |             41.24 | Troy Callander    |           17   |
+|           17   | Harrison Brewer  |             49.91 |        6 |             40.96 | Ash Parker        |           29   |
+|           17   | Taisei Nakao     |             49.91 |        7 |             41.71 | Ryusuke Yamamoto  |           25   |
+|           20   | Tevita Oto       |             48.02 |        8 |             38.83 | Whetu Douglas     |           14   |
+|           17   | Ren Shinwada     |             48.8  |        9 |             39    | Rikuya Takashima  |           29   |
+|           47   | Piers Francis    |             61.67 |       10 |             35.21 | Shota Kutsuna     |           38   |
+|           60   | Koshi Emoto      |             59.37 |       11 |             32.47 | Tatsuki Kanza     |           80   |
+|           60   | Leo Gordon       |             55.57 |       12 |             36.67 | Tj Faiane         |           38   |
+|           12   | So Matsushima    |             47.4  |       13 |             30.13 | Tuiaki Fisipuna   |           80   |
+|           70   | Kentaro Sugimori |             60.95 |       14 |             41.37 | Yushi Okuda       |           27.5 |
+|           80   | Yuta Sugiyama    |             57.58 |       15 |             62.02 | Chase Tiatia      |           38   |
+|           80   | Ryutaro Iguchi   |            nan    |       16 |            nan    | Shota Okuno       |           80   |
+|           67   | Aki Kajihara     |            nan    |       17 |            nan    | Toshiki Sato      |           56   |
+|           44   | Issa Hosoya      |            nan    |       18 |            nan    | Yuto Takano       |           80   |
+|           80   | Kengo Nakamura   |            nan    |       19 |            nan    | Kento Mizutani    |           62   |
+|           80   | Jamie Vakalahi   |            nan    |       20 |            nan    | Shigeto Yamashita |           80   |
+|           13   | Kakeru Sugihara  |            nan    |       21 |            nan    | Kanaru Takahashi  |           80   |
+|            9   | Hiroki Handa     |            nan    |       22 |            nan    | Haruya Nakasu     |           70   |
+|           15   | Katsuki Ishizuka |            nan    |       23 |            nan    | Ayumu Sawada      |           36   |
 

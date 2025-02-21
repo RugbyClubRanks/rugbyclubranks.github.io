@@ -11,7 +11,7 @@ categories: "Nationale 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.533, which translates to predicting Narbonne to win by 1.2.
 
-Our Over/Under is 41.5 - and combined with the spread above, we have a predicted scoreline of 20 to 21
+Our Over/Under is 36.5 - and combined with the spread above, we have a predicted scoreline of 18 to 19
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,28 +69,28 @@ Chambery by 15.0 on a neutral pitch
 
 |   Away Minutes | Away Player              |   Away Percentile |   Number |   Home Percentile | Home Player               |   Home Minutes |
 |---------------:|:-------------------------|------------------:|---------:|------------------:|:--------------------------|---------------:|
-|             17 | Nugzar Somkhishvili      |             90.89 |        1 |             26.28 | Gregory Fichten           |             30 |
-|             80 | Quentin Beaudaux         |             48.13 |        2 |             10.71 | Clément Esteriola         |             30 |
-|             32 | Lasha Tabidze            |             83.32 |        3 |             29.37 | Chris Talakai             |             80 |
-|             16 | Fabien Witz              |             72.57 |        4 |             91.71 | Darrell Dyer              |             80 |
-|             64 | Corentin Astier          |             80.58 |        5 |              3.2  | Leva Fifita               |             80 |
-|              4 | Taniela Matakaiongo      |             71.82 |        6 |             53.68 | Arthur Christienne        |             80 |
-|             80 | Colin Lebian             |             80.04 |        7 |             12.8  | Paul Belzons              |             80 |
-|              0 | Tui Uru                  |             82.68 |        8 |             10.52 | Charles Malet             |             80 |
-|             81 | Mateo Guerret            |             66.72 |        9 |              8.79 | Pierrick Nova             |             28 |
-|              0 | Thibault Moreno          |             78.11 |       10 |              8.84 | Gilles Bosch              |             17 |
-|             76 | Arthur Nennig            |             88.04 |       11 |             27.01 | Étienne Ducom             |             51 |
-|             63 | Emmanuel Vaitulukina     |             78.05 |       12 |             62.26 | Parataiso Silafai-Lea'ana |             64 |
-|             29 | Joseph Exshaw            |             64    |       13 |             98.97 | Peter Betham              |             80 |
-|              4 | Va'aufauese Apelu Maliko |             72.06 |       14 |             14.58 | Pierre-Hugo Ducom         |             16 |
-|             51 | Paul Altier              |             60.58 |       15 |              0.41 | Boris Goutard             |             24 |
-|             76 | Paul Altier              |             60.58 |       15 |              0.41 | Boris Goutard             |             24 |
-|             80 | Enzo Segui               |             50.69 |       16 |             37.02 | Théo Castinel             |             69 |
-|             24 | Julien Pierdomenico      |            nan    |       17 |             80.1  | Mehdi Boundjema           |             16 |
-|             16 | Osman Dimen              |             54.27 |       18 |             17.98 | Mohammed Loukia           |             11 |
-|             29 | Pierre-Nicolas Dance     |             54.54 |       19 |             64.74 | Grégoire Labit            |             80 |
-|             40 | Antoine Ferreira         |             57.59 |       20 |             79.59 | Lopeti Timani             |             80 |
-|             80 | Aubin Eymeri             |             49.31 |       21 |             58.45 | Erwan Nicolas             |             80 |
-|             65 | Bastien Reymond          |             77.13 |       22 |             34.95 | Tom Chauvet               |             56 |
-|             80 | Maewen Sao               |             50.56 |       23 |             78.13 | Clément Clavières         |             80 |
+|             81 | Nugzar Somkhishvili      |             80.8  |        1 |             26.67 | Gregory Fichten           |             17 |
+|             34 | Quentin Beaudaux         |             50.68 |        2 |             18.54 | Clément Esteriola         |             81 |
+|             80 | Lasha Tabidze            |             77.83 |        3 |             22.01 | Chris Talakai             |             15 |
+|             12 | Fabien Witz              |             71.85 |        4 |             91.43 | Darrell Dyer              |             35 |
+|             60 | Corentin Astier          |             75.14 |        5 |              1.69 | Leva Fifita               |             20 |
+|             12 | Taniela Matakaiongo      |             70.67 |        6 |             46.2  | Arthur Christienne        |             20 |
+|             60 | Colin Lebian             |             72.63 |        7 |             10.59 | Paul Belzons              |             20 |
+|             24 | Tui Uru                  |             79.12 |        8 |             10.86 | Charles Malet             |             50 |
+|             46 | Mateo Guerret            |             61    |        9 |              9.28 | Pierrick Nova             |             17 |
+|             80 | Thibault Moreno          |             66.88 |       10 |             11.46 | Gilles Bosch              |             30 |
+|             80 | Arthur Nennig            |             89.89 |       11 |             28.11 | Étienne Ducom             |             30 |
+|             80 | Emmanuel Vaitulukina     |             78.86 |       12 |             66.8  | Parataiso Silafai-Lea'ana |             63 |
+|             80 | Joseph Exshaw            |             56.38 |       13 |             97.85 | Peter Betham              |             30 |
+|             69 | Va'aufauese Apelu Maliko |             68.09 |       14 |             19.39 | Pierre-Hugo Ducom         |             46 |
+|             29 | Paul Altier              |             58.38 |       15 |              0.4  | Boris Goutard             |             80 |
+|             81 | Paul Altier              |             58.38 |       15 |              0.4  | Boris Goutard             |             80 |
+|             44 | Enzo Segui               |             48.51 |       16 |             35.58 | Théo Castinel             |             60 |
+|             81 | Julien Pierdomenico      |            nan    |       17 |             80.44 | Mehdi Boundjema           |             80 |
+|             40 | Osman Dimen              |             41.29 |       18 |             17.99 | Mohammed Loukia           |             80 |
+|             50 | Pierre-Nicolas Dance     |             55.11 |       19 |             64.72 | Grégoire Labit            |             80 |
+|             80 | Antoine Ferreira         |             56.79 |       20 |             81    | Lopeti Timani             |             80 |
+|             80 | Aubin Eymeri             |             62.2  |       21 |             58.08 | Erwan Nicolas             |             50 |
+|             80 | Bastien Reymond          |             80.49 |       22 |             36.88 | Tom Chauvet               |             56 |
+|             14 | Maewen Sao               |             50.36 |       23 |             79.78 | Clément Clavières         |             81 |
 

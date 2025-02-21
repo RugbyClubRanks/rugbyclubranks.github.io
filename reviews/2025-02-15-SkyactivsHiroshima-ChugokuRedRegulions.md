@@ -11,7 +11,7 @@ categories: "Japan Rugby League One D3 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.936, which translates to predicting Skyactivs Hiroshima to win by 24.7.
 
-Our Over/Under is 42.5 - and combined with the spread above, we have a predicted scoreline of 9 to 34
+Our Over/Under is 73.5 - and combined with the spread above, we have a predicted scoreline of 24 to 49
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Skyactivs Hiroshima by 8.3
+## Prediction without Player Minutes: Skyactivs Hiroshima by 5.1
 
 
-Skyactivs Hiroshima by 5.6 on a neutral pitch
+Skyactivs Hiroshima by 2.4 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Skyactivs Hiroshima by 5.6 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             83 | Kojiro Arito         |             18.06 |        1 |              3.09 | Koshi Kato         |             83 |
-|             56 | Kentaro Iwanaga      |             18.54 |        2 |             93.2  | Taichi Yoko        |             10 |
-|             83 | Haruki Miyata        |             56.06 |        3 |             83.16 | Tadatsugu Kanayama |             39 |
-|             53 | Taro Nishikawa       |              0.66 |        4 |             64    | Rame Sato          |             28 |
-|             83 | Tomonari Aoki        |             47.6  |        5 |             74.65 | Andrew Davidson    |             19 |
-|             83 | Kota Moriyama        |             53.58 |        6 |             69.44 | Iori Suzuki        |             80 |
-|             83 | Kohei Matsunaga      |              1.15 |        7 |              5.06 | Tomoki Ashida      |             83 |
-|             74 | Ed Quirk             |              1.24 |        8 |             22.47 | Tevin Ferris       |             32 |
-|             51 | Atsushi Mizofuchi    |             35.86 |        9 |             79.31 | Syoya Maeda        |             27 |
-|             69 | Hayato Miyazaki      |             74.32 |       10 |              0.63 | Ryoutarou Saito    |             72 |
-|             73 | Keigo Hatanaka       |             11.96 |       11 |             50.93 | Kohei Tanaka       |             78 |
-|             44 | Hashizo Yoshida      |             16.92 |       12 |              0.21 | Shuhei Lee         |             47 |
-|             51 | Syougo Azuma         |             41.03 |       13 |             38.05 | Kaito Sasaoka      |             80 |
-|             68 | Kentaro Fujii        |             22.24 |       14 |             20    | Yuto Nakamura      |             80 |
-|             19 | Kennta Kitayama      |             31.12 |       15 |              0.21 | Ginjiro Sakiguchi  |             39 |
-|             20 | Hirofumi Higashikawa |             13.55 |       16 |             26.61 | Tomonori Koyanagi  |             64 |
-|             80 | Shinya Hirayama      |             21.13 |       17 |             83.62 | Taiyo Fukuyama     |             80 |
-|             21 | Shohei Tsukamoto     |              4.48 |       18 |             90.81 | Haruki Umemoto     |             80 |
-|             22 | Shintaro Matsuda     |             12.03 |       19 |              1.36 | Tomohiro Takeda    |             74 |
-|             54 | Riku Iwai            |            nan    |       20 |             84    | Issen Kano         |             10 |
-|             65 | Hayato Moriyama      |             66.38 |       21 |              5.54 | Clinton Knox       |             32 |
-|             60 | Toshiyuki Ohki       |            nan    |       22 |             66.73 | Yutaro Tanaka      |             39 |
-|            nan | nan                  |            nan    |       23 |            nan    | Yoshinobu Nishino  |              7 |
+|              9 | Kojiro Arito         |             11.97 |        1 |              1.2  | Koshi Kato         |             78 |
+|             19 | Kentaro Iwanaga      |             21.43 |        2 |             81.8  | Taichi Yoko        |             64 |
+|             19 | Haruki Miyata        |             42.65 |        3 |             80.64 | Tadatsugu Kanayama |             80 |
+|             70 | Taro Nishikawa       |              0.38 |        4 |             61.86 | Rame Sato          |             70 |
+|             80 | Tomonari Aoki        |             45.39 |        5 |             70.06 | Andrew Davidson    |             51 |
+|             78 | Kota Moriyama        |             45.08 |        6 |             49.77 | Iori Suzuki        |             80 |
+|              4 | Kohei Matsunaga      |              0.84 |        7 |              3.47 | Tomoki Ashida      |             61 |
+|             15 | Ed Quirk             |              1.04 |        8 |             11.06 | Tevin Ferris       |             19 |
+|             20 | Atsushi Mizofuchi    |             24.57 |        9 |             73.02 | Syoya Maeda        |              2 |
+|             20 | Hayato Miyazaki      |             69.79 |       10 |              0.62 | Ryoutarou Saito    |             80 |
+|             76 | Keigo Hatanaka       |             11.32 |       11 |             58.91 | Kohei Tanaka       |             68 |
+|             20 | Hashizo Yoshida      |             13.38 |       12 |              0.2  | Shuhei Lee         |             63 |
+|             60 | Syougo Azuma         |             36.77 |       13 |             46.48 | Kaito Sasaoka      |             16 |
+|             61 | Kentaro Fujii        |             17.35 |       14 |             21.71 | Yuto Nakamura      |             61 |
+|             24 | Kennta Kitayama      |             43.84 |       15 |              0.2  | Ginjiro Sakiguchi  |             80 |
+|             24 | Hirofumi Higashikawa |             17.53 |       16 |             25.86 | Tomonori Koyanagi  |             24 |
+|             61 | Shinya Hirayama      |             20.63 |       17 |             62.37 | Taiyo Fukuyama     |             80 |
+|             37 | Shohei Tsukamoto     |              4.3  |       18 |             85.94 | Haruki Umemoto     |             80 |
+|             29 | Shintaro Matsuda     |             11.81 |       19 |              1.53 | Tomohiro Takeda    |             67 |
+|             21 | Riku Iwai            |            nan    |       20 |             74.58 | Issen Kano         |             19 |
+|             80 | Hayato Moriyama      |             67.29 |       21 |              4.6  | Clinton Knox       |             80 |
+|             67 | Toshiyuki Ohki       |            nan    |       22 |             68.17 | Yutaro Tanaka      |             68 |
+|            nan | nan                  |            nan    |       23 |            nan    | Yoshinobu Nishino  |             80 |
 

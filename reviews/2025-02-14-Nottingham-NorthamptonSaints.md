@@ -11,7 +11,7 @@ categories: "Premiership Rugby Cup 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.155, which translates to predicting Northampton Saints to win by 14.9.
 
-Our Over/Under is 55.5 - and combined with the spread above, we have a predicted scoreline of 35 to 20
+Our Over/Under is 65.5 - and combined with the spread above, we have a predicted scoreline of 40 to 25
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -42,7 +42,7 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction without Player Minutes: Nottingham by 3.1
 
 
-Northampton Saints by 1.6 on a neutral pitch
+Northampton Saints by 1.5 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Northampton Saints by 1.6 on a neutral pitch
 
 |   Away Minutes | Away Player             |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:------------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             69 | Emmanuel Iyogun         |             79.66 |        1 |             73.96 | Kai Owen           |             20 |
-|             27 | Craig Wright            |             88.61 |        2 |             73.47 | Harry Clayton      |             18 |
-|             12 | Elliot Millar Mills     |             86.41 |        3 |             81.04 | Dan Richardson     |             25 |
-|             41 | Ed Prowse               |             69.93 |        4 |             24.6  | Jack Shine         |             80 |
-|             20 | Alex Coles              |             16.12 |        5 |              3.96 | Sebastien Ferreira |             25 |
-|             80 | Archie Benson           |             54.82 |        6 |             64.28 | Sam Green          |             25 |
-|             80 | Angus Scott-Young       |             76.98 |        7 |             30.09 | Nathan Tweedy      |             25 |
-|             55 | Iakopo Petelo Mapu      |             61.03 |        8 |             60.21 | James Cherry       |             31 |
-|             56 | Tom James               |             56.72 |        9 |             15.86 | Will Yarnell       |             80 |
-|             80 | George Makepeace-Cubitt |             86.11 |       10 |             68.21 | Matthew Arden      |             10 |
-|             49 | Tom Seabrook            |              5.42 |       11 |             74.86 | Harry Graham       |             29 |
-|             55 | Charlie Savala          |             68.31 |       12 |              7.49 | Javiah Pohe        |             39 |
-|             28 | Tom Litchfield          |             73.33 |       13 |              1.44 | Jack Stapley       |              4 |
-|             55 | Rafe Witheat            |             55.14 |       14 |             15.7  | David Williams     |             21 |
-|             55 | George Hendy            |             89.83 |       15 |             80.29 | Ryan Olowofela     |             25 |
-|             56 | Tom West                |             52.81 |       16 |             38.32 | Tom Threlfall      |             24 |
-|             80 | Henry Walker            |             39.12 |       17 |             56.8  | Antonio TJ Harris  |             41 |
-|             80 | William Glister         |             17.38 |       18 |             48.58 | Aniseko Sio        |             70 |
-|             80 | Beltus Nonleh           |              9.6  |       19 |             35.34 | Jay Ecclesfield    |             80 |
-|             24 | Tom Pearson             |             98.76 |       20 |             64.95 | Kody Vereti        |             28 |
-|             60 | Fyn Brown               |             14.52 |       21 |             64.66 | Toby Venner        |             60 |
-|             49 | Jonny Weimann           |            nan    |       22 |             48.04 | Sam Mercer         |             20 |
-|             24 | Billy Pasco             |             36.72 |       23 |            nan    | nan                |            nan |
+|             80 | Emmanuel Iyogun         |             81.53 |        1 |             68.92 | Kai Owen           |             24 |
+|             24 | Craig Wright            |             90.31 |        2 |             58.33 | Harry Clayton      |             51 |
+|             17 | Elliot Millar Mills     |             86.27 |        3 |             62.49 | Dan Richardson     |             80 |
+|             17 | Ed Prowse               |             69.11 |        4 |             21.75 | Jack Shine         |             63 |
+|             17 | Alex Coles              |             15.54 |        5 |              2.45 | Sebastien Ferreira |             56 |
+|             13 | Archie Benson           |             30.55 |        6 |             47.42 | Sam Green          |             63 |
+|             29 | Angus Scott-Young       |             70.57 |        7 |             14.71 | Nathan Tweedy      |             80 |
+|             80 | Iakopo Petelo Mapu      |             73.7  |        8 |             35.91 | James Cherry       |             80 |
+|             55 | Tom James               |             60.65 |        9 |             11.51 | Will Yarnell       |             80 |
+|             24 | George Makepeace-Cubitt |             79.38 |       10 |             57.71 | Matthew Arden      |             63 |
+|              4 | Tom Seabrook            |              4.17 |       11 |             73.84 | Harry Graham       |             29 |
+|             80 | Charlie Savala          |             74.46 |       12 |              4.29 | Javiah Pohe        |             80 |
+|             20 | Tom Litchfield          |             73.03 |       13 |              1.23 | Jack Stapley       |             16 |
+|             24 | Rafe Witheat            |             44.53 |       14 |              9.37 | David Williams     |             67 |
+|             25 | George Hendy            |             86.46 |       15 |             69.29 | Ryan Olowofela     |             80 |
+|             80 | Tom West                |             51.97 |       16 |             39.79 | Tom Threlfall      |             80 |
+|             24 | Henry Walker            |             38.78 |       17 |             56.63 | Antonio TJ Harris  |             51 |
+|             25 | William Glister         |             19.2  |       18 |             44.5  | Aniseko Sio        |             80 |
+|             31 | Beltus Nonleh           |              9.48 |       19 |             27.87 | Jay Ecclesfield    |             51 |
+|             39 | Tom Pearson             |             97.56 |       20 |             59.33 | Kody Vereti        |             80 |
+|             80 | Fyn Brown               |             16.49 |       21 |             64.78 | Toby Venner        |             20 |
+|             51 | Jonny Weimann           |            nan    |       22 |             49.07 | Sam Mercer         |             64 |
+|             80 | Billy Pasco             |             36.87 |       23 |            nan    | nan                |            nan |
 

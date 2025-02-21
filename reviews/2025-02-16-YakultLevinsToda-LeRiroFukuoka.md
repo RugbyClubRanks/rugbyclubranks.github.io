@@ -11,7 +11,7 @@ categories: "Japan Rugby League One D3 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.997, which translates to predicting Yakult Levins Toda to win by 66.1.
 
-Our Over/Under is 86.5 - and combined with the spread above, we have a predicted scoreline of 10 to 76
+Our Over/Under is 37.5 - and combined with the spread above, we have a predicted scoreline of -14 to 52
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Yakult Levins Toda by 3.8
+## Prediction without Player Minutes: Yakult Levins Toda by 6.9
 
 
-Yakult Levins Toda by 1.6 on a neutral pitch
+Yakult Levins Toda by 4.8 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Yakult Levins Toda by 1.6 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             84 | Keita Kimura        |              5.53 |        1 |             15.62 | Iori Nozaki          |             67 |
-|             26 | Yoshiaki Takeuchi   |             25.68 |        2 |             21.94 | Shunsuke Tani        |             41 |
-|             41 | Rintarou Noda       |             22.54 |        3 |             19.93 | Atsushi Furuya       |             80 |
-|             80 | Keita Terada        |              7.07 |        4 |             26.86 | Yuto Usuda           |             80 |
-|             57 | Syuuta Takami       |             44.96 |        5 |             90.01 | James Tucker         |             30 |
-|             22 | Kennta Ueda         |             13.66 |        6 |             34.38 | Masaya Makino        |             80 |
-|             49 | Chikamasa Yana      |             44.03 |        7 |             17.48 | Kosuke Urabe         |             80 |
-|             62 | Finau Makavaha      |             10.93 |        8 |              4.95 | Jaycob Matiu         |             80 |
-|             39 | Hisanori Mimata     |             55.17 |        9 |             15.52 | Ippei Oshima         |             80 |
-|             58 | Shotaro Matsuo      |             24.84 |       10 |              8.42 | Nick Evemy           |             50 |
-|             25 | Tsuyoshi Hasegawa   |             19.91 |       11 |             27.94 | Kagechika Ota        |             50 |
-|             31 | Rinto Kagawa        |             37.23 |       12 |             22.67 | Takumi Hurukawa      |             57 |
-|             30 | Masakazu Yatsumonji |             47.79 |       13 |              3.49 | Antonio Mikaele-Tu'u |             80 |
-|             23 | Amanaki Lisala      |              8.04 |       14 |             30.19 | Hikaru Ishikawa      |             13 |
-|             80 | Hibiki Nakazawa     |             27.59 |       15 |             17.43 | Masatoshi Doi        |             80 |
-|             14 | Benjamin Ray Yagi   |              0.62 |       16 |            nan    | Rikiya Oishi         |             34 |
-|             84 | Tomoki Nobeta       |             18.96 |       17 |            nan    | Daisuke Yokoyama     |             26 |
-|             38 | Iosefatu Mareko     |            nan    |       18 |            nan    | Daichi Kono          |             41 |
-|             60 | Karne Hesketh       |              2.77 |       19 |              7.76 | Junpei Tada          |             65 |
-|             80 | Issei Shige         |             14.67 |       20 |             22.26 | Atomu Shirai         |             80 |
-|             84 | Syuuhei Harada      |            nan    |       21 |             10.19 | Shun Sawamura        |             80 |
-|             18 | Taiyou Minami       |            nan    |       22 |            nan    | Masahiro Shimozawa   |             52 |
-|            nan | nan                 |            nan    |       23 |            nan    | Genki Tokushige      |             23 |
+|             32 | Keita Kimura        |             10.76 |        1 |             11.41 | Iori Nozaki          |             80 |
+|             29 | Yoshiaki Takeuchi   |             19.9  |        2 |             37.59 | Shunsuke Tani        |             28 |
+|             80 | Rintarou Noda       |             19.52 |        3 |             19.28 | Atsushi Furuya       |             17 |
+|             24 | Keita Terada        |              4.05 |        4 |             37.66 | Yuto Usuda           |             17 |
+|             24 | Syuuta Takami       |             46.14 |        5 |             90.3  | James Tucker         |             63 |
+|              4 | Kennta Ueda         |             14.06 |        6 |             21.18 | Masaya Makino        |             69 |
+|              4 | Chikamasa Yana      |             46.77 |        7 |             35.15 | Kosuke Urabe         |             16 |
+|             64 | Finau Makavaha      |             21.92 |        8 |              2.92 | Jaycob Matiu         |             80 |
+|             51 | Hisanori Mimata     |             62.54 |        9 |             17.01 | Ippei Oshima         |             40 |
+|             76 | Shotaro Matsuo      |             15.83 |       10 |             16.04 | Nick Evemy           |             76 |
+|             80 | Tsuyoshi Hasegawa   |             34.32 |       11 |             27.37 | Kagechika Ota        |             80 |
+|             29 | Rinto Kagawa        |             36.47 |       12 |             19.61 | Takumi Hurukawa      |             80 |
+|             80 | Masakazu Yatsumonji |             37.28 |       13 |              6.03 | Antonio Mikaele-Tu'u |             63 |
+|             44 | Amanaki Lisala      |              6.86 |       14 |             26.44 | Hikaru Ishikawa      |             80 |
+|             80 | Hibiki Nakazawa     |             29.9  |       15 |             13.54 | Masatoshi Doi        |             56 |
+|             17 | Benjamin Ray Yagi   |              0.61 |       16 |            nan    | Rikiya Oishi         |             80 |
+|             17 | Tomoki Nobeta       |              6.67 |       17 |            nan    | Daisuke Yokoyama     |             80 |
+|             36 | Iosefatu Mareko     |            nan    |       18 |            nan    | Daichi Kono          |             80 |
+|             80 | Karne Hesketh       |              1.78 |       19 |             15.12 | Junpei Tada          |             11 |
+|             80 | Issei Shige         |              7.76 |       20 |             30.23 | Atomu Shirai         |             80 |
+|             80 | Syuuhei Harada      |            nan    |       21 |             14.66 | Shun Sawamura        |             16 |
+|             80 | Taiyou Minami       |            nan    |       22 |            nan    | Masahiro Shimozawa   |             16 |
+|            nan | nan                 |            nan    |       23 |            nan    | Genki Tokushige      |             80 |
 
