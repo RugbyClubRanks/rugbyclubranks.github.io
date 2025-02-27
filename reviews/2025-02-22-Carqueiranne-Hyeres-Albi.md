@@ -9,9 +9,9 @@ categories: "Nationale 24/25" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.245, which translates to predicting Albi to win by 9.9.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.237, which translates to predicting Albi to win by 10.3.
 
-Our Over/Under is 34.5 - and combined with the spread above, we have a predicted scoreline of 22 to 12
+Our Over/Under is 31.5 - and combined with the spread above, we have a predicted scoreline of 21 to 11
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model

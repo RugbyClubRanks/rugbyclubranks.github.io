@@ -1,6 +1,6 @@
 ---  
 title: "European Rugby Challenge Cup 24/25 Status"  
-date: 2025-02-24 6:00:00 -0500  
+date: 2025-02-27 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -107,28 +107,28 @@ aside:
 
 |                     | Reach Round of Sixteen   | Reach Quarterfinals   | Reach Semifinals   | Reach Final   | Win Final   |
 |:--------------------|:-------------------------|:----------------------|:-------------------|:--------------|:------------|
-| Bath Rugby          | 73.3 %                   | 71.5 %                | 44.8 %             | 30.1 %        | 23.4 %      |
-| Montpellier Herault | 66.9 %                   | 83.8 %                | 50.7 %             | 32.9 %        | 18.1 %      |
-| Connacht            | 65.3 %                   | 89.2 %                | 54.5 %             | 34.4 %        | 16.8 %      |
-| Edinburgh           | 79.7 %                   | 72.9 %                | 52.6 %             | 31.0 %        | 13.0 %      |
-| Bulls               | 75.1 %                   | 53.8 %                | 28.9 %             | 14.5 %        | 10.0 %      |
-| Ospreys             | 70.1 %                   | 84.2 %                | 54.3 %             | 18.6 %        | 5.0 %       |
-| Lyon                | 67.1 %                   | 70.1 %                | 37.2 %             | 13.3 %        | 4.5 %       |
-| Bayonne             | 75.6 %                   | 46.2 %                | 21.8 %             | 9.4 %         | 4.0 %       |
-| Lions               | 83.5 %                   | 27.1 %                | 10.6 %             | 3.9 %         | 1.8 %       |
-| Racing 92           | 63.3 %                   | 46.7 %                | 10.0 %             | 3.2 %         | 1.0 %       |
-| Sharks              | 78.4 %                   | 29.9 %                | 8.3 %              | 3.0 %         | 0.9 %       |
-| Pau                 | 79.1 %                   | 28.5 %                | 7.6 %              | 2.1 %         | 0.8 %       |
-| Gloucester Rugby    | 87.9 %                   | 16.2 %                | 4.1 %              | 1.2 %         | 0.4 %       |
-| Perpignan           | 55.6 %                   | 53.3 %                | 8.9 %              | 1.5 %         | 0.3 %       |
-| Scarlets            | 88.0 %                   | 15.8 %                | 3.8 %              | 0.7 %         | 0.0 %       |
-| Cardiff Blues       | 91.1 %                   | 10.8 %                | 1.9 %              | 0.2 %         | 0.0 %       |
+| Bath Rugby          | 73.4 %                   | 75.2 %                | 48.6 %             | 31.3 %        | 24.4 %      |
+| Montpellier Herault | 69.6 %                   | 81.9 %                | 51.5 %             | 32.5 %        | 17.8 %      |
+| Edinburgh           | 77.2 %                   | 75.7 %                | 52.9 %             | 32.6 %        | 15.1 %      |
+| Connacht            | 62.3 %                   | 88.8 %                | 51.1 %             | 29.9 %        | 12.9 %      |
+| Bulls               | 75.3 %                   | 55.1 %                | 30.4 %             | 17.8 %        | 12.3 %      |
+| Lyon                | 71.4 %                   | 67.5 %                | 38.9 %             | 14.2 %        | 4.3 %       |
+| Ospreys             | 66.7 %                   | 83.7 %                | 50.4 %             | 16.7 %        | 3.9 %       |
+| Bayonne             | 74.9 %                   | 44.9 %                | 19.8 %             | 7.7 %         | 2.9 %       |
+| Lions               | 84.4 %                   | 24.3 %                | 8.7 %              | 3.9 %         | 2.3 %       |
+| Sharks              | 76.7 %                   | 32.5 %                | 9.2 %              | 3.0 %         | 1.6 %       |
+| Racing 92           | 60.2 %                   | 51.1 %                | 11.3 %             | 3.1 %         | 1.1 %       |
+| Pau                 | 82.2 %                   | 24.8 %                | 7.0 %              | 2.5 %         | 0.6 %       |
+| Gloucester Rugby    | 86.7 %                   | 18.1 %                | 4.8 %              | 1.2 %         | 0.5 %       |
+| Perpignan           | 61.3 %                   | 48.9 %                | 10.2 %             | 2.3 %         | 0.2 %       |
+| Scarlets            | 87.8 %                   | 16.3 %                | 4.1 %              | 1.2 %         | 0.1 %       |
+| Cardiff Blues       | 89.9 %                   | 11.2 %                | 1.1 %              | 0.1 %         | 0.0 %       |
 
 
 
 
 <p float="left">
-<img src="plots//European_Rugby_Challenge_Cup_2425 2025-02-24.png" width="90%" />
+<img src="plots//European_Rugby_Challenge_Cup_2425 2025-02-27.png" width="90%" />
 </p>
 
 # Knockout Match Predictions
@@ -138,7 +138,7 @@ aside:
 ### Bayonne V Bulls on 2025/04/04
 
 
-Average Margin: Bulls by 1.3
+Average Margin: Bulls by 1.0
 
 <p float="left">
 <img src="plots/performances_2025-04-04-Bayonne_V_Bulls.png" width="32%" />
@@ -149,7 +149,7 @@ Average Margin: Bulls by 1.3
 ### Lyon V Sharks on 2025/04/04
 
 
-Average Margin: Lyon by 3.2
+Average Margin: Lyon by 2.5
 
 <p float="left">
 <img src="plots/performances_2025-04-04-Lyon_V_Sharks.png" width="32%" />
@@ -160,7 +160,7 @@ Average Margin: Lyon by 3.2
 ### Ospreys V Scarlets on 2025/04/04
 
 
-Average Margin: Ospreys by 7.3
+Average Margin: Ospreys by 6.9
 
 <p float="left">
 <img src="plots/performances_2025-04-04-Ospreys_V_Scarlets.png" width="32%" />
@@ -171,7 +171,7 @@ Average Margin: Ospreys by 7.3
 ### Edinburgh V Lions on 2025/04/04
 
 
-Average Margin: Edinburgh by 4.5
+Average Margin: Edinburgh by 4.8
 
 <p float="left">
 <img src="plots/performances_2025-04-04-Edinburgh_V_Lions.png" width="32%" />
@@ -182,7 +182,7 @@ Average Margin: Edinburgh by 4.5
 ### Montpellier Herault V Gloucester Rugby on 2025/04/04
 
 
-Average Margin: Montpellier Herault by 6.8
+Average Margin: Montpellier Herault by 5.8
 
 <p float="left">
 <img src="plots/performances_2025-04-04-MontpellierHerault_V_GloucesterRugby.png" width="32%" />
@@ -193,7 +193,7 @@ Average Margin: Montpellier Herault by 6.8
 ### Pau V Bath Rugby on 2025/04/04
 
 
-Average Margin: Bath Rugby by 3.8
+Average Margin: Bath Rugby by 4.5
 
 <p float="left">
 <img src="plots/performances_2025-04-04-Pau_V_BathRugby.png" width="32%" />
@@ -204,7 +204,7 @@ Average Margin: Bath Rugby by 3.8
 ### Connacht V Cardiff Blues on 2025/04/04
 
 
-Average Margin: Connacht by 11.8
+Average Margin: Connacht by 10.3
 
 <p float="left">
 <img src="plots/performances_2025-04-04-Connacht_V_CardiffBlues.png" width="32%" />
@@ -215,7 +215,7 @@ Average Margin: Connacht by 11.8
 ### Perpignan V Racing 92 on 2025/04/04
 
 
-Average Margin: Perpignan by 0.9
+Average Margin: Racing 92 by 0.0
 
 <p float="left">
 <img src="plots/performances_2025-04-04-Perpignan_V_Racing92.png" width="32%" />
@@ -225,10 +225,131 @@ Average Margin: Perpignan by 0.9
 
 ## Quarterfinals
 
+### Scarlets V Bulls on 2025/04/11
+
+
+Average Margin: Bulls by 5.9
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Scarlets_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Scarlets_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Scarlets_V_Bulls.png" width="32%" />
+</p>
+
+### Edinburgh V Gloucester Rugby on 2025/04/11
+
+
+Average Margin: Edinburgh by 7.7
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Edinburgh_V_GloucesterRugby.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Edinburgh_V_GloucesterRugby.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Edinburgh_V_GloucesterRugby.png" width="32%" />
+</p>
+
+### Bayonne V Lyon on 2025/04/11
+
+
+Average Margin: Bayonne by 3.9
+
+<p float="left">
+<img src="plots/performances_2025-05-02-Bayonne_V_Lyon.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Bayonne_V_Lyon.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Bayonne_V_Lyon.png" width="32%" />
+</p>
+
+### Perpignan V Gloucester Rugby on 2025/04/11
+
+
+Average Margin: Gloucester Rugby by 2.1
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Perpignan_V_GloucesterRugby.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Perpignan_V_GloucesterRugby.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Perpignan_V_GloucesterRugby.png" width="32%" />
+</p>
+
+### Lyon V Bulls on 2025/04/11
+
+
+Average Margin: Bulls by 2.5
+
+<p float="left">
+<img src="plots/performances_2025-05-24-Lyon_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-Lyon_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2025-05-24-Lyon_V_Bulls.png" width="32%" />
+</p>
+
+### Connacht V Pau on 2025/04/11
+
+
+Average Margin: Connacht by 5.0
+
+<p float="left">
+<img src="plots/performances_2025-05-24-Connacht_V_Pau.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-Connacht_V_Pau.png" width="32%" />
+<img src="plots/spreads_2025-05-24-Connacht_V_Pau.png" width="32%" />
+</p>
+
+### Gloucester Rugby V Bulls on 2025/04/11
+
+
+Average Margin: Bulls by 1.7
+
+<p float="left">
+<img src="plots/performances_2025-04-11-GloucesterRugby_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-GloucesterRugby_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2025-04-11-GloucesterRugby_V_Bulls.png" width="32%" />
+</p>
+
+### Edinburgh V Racing 92 on 2025/04/11
+
+
+Average Margin: Edinburgh by 4.5
+
+<p float="left">
+<img src="plots/performances_2025-05-24-Edinburgh_V_Racing92.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-Edinburgh_V_Racing92.png" width="32%" />
+<img src="plots/spreads_2025-05-24-Edinburgh_V_Racing92.png" width="32%" />
+</p>
+
+### Scarlets V Lions on 2025/04/11
+
+
+Average Margin: Scarlets by 3.4
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Scarlets_V_Lions.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Scarlets_V_Lions.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Scarlets_V_Lions.png" width="32%" />
+</p>
+
+### Bayonne V Lions on 2025/04/11
+
+
+Average Margin: Bayonne by 4.6
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Bayonne_V_Lions.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Bayonne_V_Lions.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Bayonne_V_Lions.png" width="32%" />
+</p>
+
+### Lyon V Bath Rugby on 2025/04/11
+
+
+Average Margin: Bath Rugby by 4.0
+
+<p float="left">
+<img src="plots/performances_2025-05-24-Lyon_V_BathRugby.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-Lyon_V_BathRugby.png" width="32%" />
+<img src="plots/spreads_2025-05-24-Lyon_V_BathRugby.png" width="32%" />
+</p>
+
 ### Lyon V Pau on 2025/04/11
 
 
-Average Margin: Lyon by 5.3
+Average Margin: Lyon by 4.0
 
 <p float="left">
 <img src="plots/performances_2025-04-11-Lyon_V_Pau.png" width="32%" />
@@ -236,21 +357,142 @@ Average Margin: Lyon by 5.3
 <img src="plots/spreads_2025-04-11-Lyon_V_Pau.png" width="32%" />
 </p>
 
-### Scarlets V Bath Rugby on 2025/04/11
+### Edinburgh V Scarlets on 2025/04/11
 
 
-Average Margin: Bath Rugby by 9.6
+Average Margin: Edinburgh by 11.6
 
 <p float="left">
-<img src="plots/performances_2025-05-02-Scarlets_V_BathRugby.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Scarlets_V_BathRugby.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Scarlets_V_BathRugby.png" width="32%" />
+<img src="plots/performances_2025-04-11-Edinburgh_V_Scarlets.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Edinburgh_V_Scarlets.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Edinburgh_V_Scarlets.png" width="32%" />
+</p>
+
+### Connacht V Perpignan on 2025/04/11
+
+
+Average Margin: Connacht by 10.3
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Connacht_V_Perpignan.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Connacht_V_Perpignan.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Connacht_V_Perpignan.png" width="32%" />
+</p>
+
+### Lions V Cardiff Blues on 2025/04/11
+
+
+Average Margin: Lions by 7.8
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Lions_V_CardiffBlues.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Lions_V_CardiffBlues.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Lions_V_CardiffBlues.png" width="32%" />
+</p>
+
+### Ospreys V Sharks on 2025/04/11
+
+
+Average Margin: Ospreys by 0.6
+
+<p float="left">
+<img src="plots/performances_2025-05-24-Ospreys_V_Sharks.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-Ospreys_V_Sharks.png" width="32%" />
+<img src="plots/spreads_2025-05-24-Ospreys_V_Sharks.png" width="32%" />
+</p>
+
+### Bayonne V Bath Rugby on 2025/04/11
+
+
+Average Margin: Bath Rugby by 6.1
+
+<p float="left">
+<img src="plots/performances_2025-05-24-Bayonne_V_BathRugby.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-Bayonne_V_BathRugby.png" width="32%" />
+<img src="plots/spreads_2025-05-24-Bayonne_V_BathRugby.png" width="32%" />
+</p>
+
+### Edinburgh V Pau on 2025/04/11
+
+
+Average Margin: Edinburgh by 6.2
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Edinburgh_V_Pau.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Edinburgh_V_Pau.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Edinburgh_V_Pau.png" width="32%" />
+</p>
+
+### Edinburgh V Cardiff Blues on 2025/04/11
+
+
+Average Margin: Edinburgh by 10.0
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Edinburgh_V_CardiffBlues.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Edinburgh_V_CardiffBlues.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Edinburgh_V_CardiffBlues.png" width="32%" />
+</p>
+
+### Bayonne V Sharks on 2025/04/11
+
+
+Average Margin: Bayonne by 2.6
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Bayonne_V_Sharks.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Bayonne_V_Sharks.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Bayonne_V_Sharks.png" width="32%" />
+</p>
+
+### Connacht V Sharks on 2025/04/11
+
+
+Average Margin: Connacht by 2.8
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Connacht_V_Sharks.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Connacht_V_Sharks.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Connacht_V_Sharks.png" width="32%" />
+</p>
+
+### Montpellier Herault V Scarlets on 2025/04/11
+
+
+Average Margin: Montpellier Herault by 12.5
+
+<p float="left">
+<img src="plots/performances_2025-04-11-MontpellierHerault_V_Scarlets.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-MontpellierHerault_V_Scarlets.png" width="32%" />
+<img src="plots/spreads_2025-04-11-MontpellierHerault_V_Scarlets.png" width="32%" />
+</p>
+
+### Lyon V Ospreys on 2025/04/11
+
+
+Average Margin: Lyon by 4.7
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Lyon_V_Ospreys.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Lyon_V_Ospreys.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Lyon_V_Ospreys.png" width="32%" />
+</p>
+
+### Lyon V Lions on 2025/04/11
+
+
+Average Margin: Lyon by 5.4
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Lyon_V_Lions.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Lyon_V_Lions.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Lyon_V_Lions.png" width="32%" />
 </p>
 
 ### Ospreys V Bath Rugby on 2025/04/11
 
 
-Average Margin: Bath Rugby by 4.5
+Average Margin: Bath Rugby by 5.9
 
 <p float="left">
 <img src="plots/performances_2025-05-02-Ospreys_V_BathRugby.png" width="32%" />
@@ -258,21 +500,307 @@ Average Margin: Bath Rugby by 4.5
 <img src="plots/spreads_2025-05-02-Ospreys_V_BathRugby.png" width="32%" />
 </p>
 
-### Lyon V Bulls on 2025/04/11
+### Bayonne V Ospreys on 2025/04/11
 
 
-Average Margin: Bulls by 0.9
+Average Margin: Bayonne by 4.2
 
 <p float="left">
-<img src="plots/performances_2025-05-02-Lyon_V_Bulls.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Lyon_V_Bulls.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Lyon_V_Bulls.png" width="32%" />
+<img src="plots/performances_2025-05-02-Bayonne_V_Ospreys.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Bayonne_V_Ospreys.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Bayonne_V_Ospreys.png" width="32%" />
+</p>
+
+### Connacht V Gloucester Rugby on 2025/04/11
+
+
+Average Margin: Connacht by 3.3
+
+<p float="left">
+<img src="plots/performances_2025-05-02-Connacht_V_GloucesterRugby.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Connacht_V_GloucesterRugby.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Connacht_V_GloucesterRugby.png" width="32%" />
+</p>
+
+### Lyon V Racing 92 on 2025/04/11
+
+
+Average Margin: Lyon by 2.4
+
+<p float="left">
+<img src="plots/performances_2025-05-02-Lyon_V_Racing92.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Lyon_V_Racing92.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Lyon_V_Racing92.png" width="32%" />
+</p>
+
+### Connacht V Lions on 2025/04/11
+
+
+Average Margin: Connacht by 3.4
+
+<p float="left">
+<img src="plots/performances_2025-05-02-Connacht_V_Lions.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Connacht_V_Lions.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Connacht_V_Lions.png" width="32%" />
+</p>
+
+### Lions V Bulls on 2025/04/11
+
+
+Average Margin: Lions by 1.1
+
+<p float="left">
+<img src="plots/performances_2025-05-02-Lions_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Lions_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Lions_V_Bulls.png" width="32%" />
+</p>
+
+### Scarlets V Perpignan on 2025/04/11
+
+
+Average Margin: Scarlets by 1.9
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Scarlets_V_Perpignan.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Scarlets_V_Perpignan.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Scarlets_V_Perpignan.png" width="32%" />
+</p>
+
+### Pau V Bulls on 2025/04/11
+
+
+Average Margin: Bulls by 6.9
+
+<p float="left">
+<img src="plots/performances_2025-05-02-Pau_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Pau_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Pau_V_Bulls.png" width="32%" />
+</p>
+
+### Edinburgh V Ospreys on 2025/04/11
+
+
+Average Margin: Edinburgh by 6.6
+
+<p float="left">
+<img src="plots/performances_2025-05-02-Edinburgh_V_Ospreys.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Edinburgh_V_Ospreys.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Edinburgh_V_Ospreys.png" width="32%" />
+</p>
+
+### Perpignan V Bulls on 2025/04/11
+
+
+Average Margin: Bulls by 8.1
+
+<p float="left">
+<img src="plots/performances_2025-05-02-Perpignan_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Perpignan_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Perpignan_V_Bulls.png" width="32%" />
+</p>
+
+### Bayonne V Gloucester Rugby on 2025/04/11
+
+
+Average Margin: Bayonne by 3.5
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Bayonne_V_GloucesterRugby.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Bayonne_V_GloucesterRugby.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Bayonne_V_GloucesterRugby.png" width="32%" />
+</p>
+
+### Perpignan V Lions on 2025/04/11
+
+
+Average Margin: Lions by 0.4
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Perpignan_V_Lions.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Perpignan_V_Lions.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Perpignan_V_Lions.png" width="32%" />
+</p>
+
+### Connacht V Scarlets on 2025/04/11
+
+
+Average Margin: Connacht by 11.6
+
+<p float="left">
+<img src="plots/performances_2025-05-02-Connacht_V_Scarlets.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Connacht_V_Scarlets.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Connacht_V_Scarlets.png" width="32%" />
+</p>
+
+### Pau V Scarlets on 2025/04/11
+
+
+Average Margin: Pau by 11.5
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Pau_V_Scarlets.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Pau_V_Scarlets.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Pau_V_Scarlets.png" width="32%" />
+</p>
+
+### Lyon V Scarlets on 2025/04/11
+
+
+Average Margin: Lyon by 8.4
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Lyon_V_Scarlets.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Lyon_V_Scarlets.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Lyon_V_Scarlets.png" width="32%" />
+</p>
+
+### Montpellier Herault V Pau on 2025/04/11
+
+
+Average Margin: Montpellier Herault by 3.7
+
+<p float="left">
+<img src="plots/performances_2025-05-02-MontpellierHerault_V_Pau.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-MontpellierHerault_V_Pau.png" width="32%" />
+<img src="plots/spreads_2025-05-02-MontpellierHerault_V_Pau.png" width="32%" />
+</p>
+
+### Lions V Gloucester Rugby on 2025/04/11
+
+
+Average Margin: Lions by 4.2
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Lions_V_GloucesterRugby.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Lions_V_GloucesterRugby.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Lions_V_GloucesterRugby.png" width="32%" />
+</p>
+
+### Edinburgh V Lyon on 2025/04/11
+
+
+Average Margin: Edinburgh by 4.1
+
+<p float="left">
+<img src="plots/performances_2025-05-02-Edinburgh_V_Lyon.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Edinburgh_V_Lyon.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Edinburgh_V_Lyon.png" width="32%" />
+</p>
+
+### Bayonne V Scarlets on 2025/04/11
+
+
+Average Margin: Bayonne by 6.1
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Bayonne_V_Scarlets.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Bayonne_V_Scarlets.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Bayonne_V_Scarlets.png" width="32%" />
+</p>
+
+### Bayonne V Pau on 2025/04/11
+
+
+Average Margin: Bayonne by 4.8
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Bayonne_V_Pau.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Bayonne_V_Pau.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Bayonne_V_Pau.png" width="32%" />
+</p>
+
+### Connacht V Bath Rugby on 2025/04/11
+
+
+Average Margin: Bath Rugby by 3.5
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Connacht_V_BathRugby.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Connacht_V_BathRugby.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Connacht_V_BathRugby.png" width="32%" />
+</p>
+
+### Lyon V Perpignan on 2025/04/11
+
+
+Average Margin: Lyon by 6.4
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Lyon_V_Perpignan.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Lyon_V_Perpignan.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Lyon_V_Perpignan.png" width="32%" />
+</p>
+
+### Ospreys V Gloucester Rugby on 2025/04/11
+
+
+Average Margin: Ospreys by 2.0
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Ospreys_V_GloucesterRugby.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Ospreys_V_GloucesterRugby.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Ospreys_V_GloucesterRugby.png" width="32%" />
+</p>
+
+### Ospreys V Lyon on 2025/04/11
+
+
+Average Margin: Ospreys by 2.5
+
+<p float="left">
+<img src="plots/performances_2025-05-24-Ospreys_V_Lyon.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-Ospreys_V_Lyon.png" width="32%" />
+<img src="plots/spreads_2025-05-24-Ospreys_V_Lyon.png" width="32%" />
+</p>
+
+### Edinburgh V Sharks on 2025/04/11
+
+
+Average Margin: Edinburgh by 3.5
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Edinburgh_V_Sharks.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Edinburgh_V_Sharks.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Edinburgh_V_Sharks.png" width="32%" />
+</p>
+
+### Ospreys V Bulls on 2025/04/11
+
+
+Average Margin: Bulls by 2.8
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Ospreys_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Ospreys_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Ospreys_V_Bulls.png" width="32%" />
+</p>
+
+### Montpellier Herault V Bulls on 2025/04/11
+
+
+Average Margin: Bulls by 0.4
+
+<p float="left">
+<img src="plots/performances_2025-05-02-MontpellierHerault_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-MontpellierHerault_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2025-05-02-MontpellierHerault_V_Bulls.png" width="32%" />
+</p>
+
+### Ospreys V Bayonne on 2025/04/11
+
+
+Average Margin: Ospreys by 2.5
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Ospreys_V_Bayonne.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Ospreys_V_Bayonne.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Ospreys_V_Bayonne.png" width="32%" />
 </p>
 
 ### Montpellier Herault V Lions on 2025/04/11
 
 
-Average Margin: Montpellier Herault by 3.0
+Average Margin: Montpellier Herault by 3.8
 
 <p float="left">
 <img src="plots/performances_2025-04-11-MontpellierHerault_V_Lions.png" width="32%" />
@@ -280,21 +808,43 @@ Average Margin: Montpellier Herault by 3.0
 <img src="plots/spreads_2025-04-11-MontpellierHerault_V_Lions.png" width="32%" />
 </p>
 
-### Edinburgh V Racing 92 on 2025/04/11
+### Connacht V Bulls on 2025/04/11
 
 
-Average Margin: Edinburgh by 1.3
+Average Margin: Bulls by 0.0
 
 <p float="left">
-<img src="plots/performances_2025-05-02-Edinburgh_V_Racing92.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Edinburgh_V_Racing92.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Edinburgh_V_Racing92.png" width="32%" />
+<img src="plots/performances_2025-04-11-Connacht_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Connacht_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Connacht_V_Bulls.png" width="32%" />
+</p>
+
+### Lyon V Gloucester Rugby on 2025/04/11
+
+
+Average Margin: Lyon by 6.4
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Lyon_V_GloucesterRugby.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Lyon_V_GloucesterRugby.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Lyon_V_GloucesterRugby.png" width="32%" />
+</p>
+
+### Pau V Perpignan on 2025/04/11
+
+
+Average Margin: Pau by 6.1
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Pau_V_Perpignan.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Pau_V_Perpignan.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Pau_V_Perpignan.png" width="32%" />
 </p>
 
 ### Perpignan V Scarlets on 2025/04/11
 
 
-Average Margin: Perpignan by 4.1
+Average Margin: Perpignan by 8.1
 
 <p float="left">
 <img src="plots/performances_2025-04-11-Perpignan_V_Scarlets.png" width="32%" />
@@ -302,15 +852,136 @@ Average Margin: Perpignan by 4.1
 <img src="plots/spreads_2025-04-11-Perpignan_V_Scarlets.png" width="32%" />
 </p>
 
-### Lyon V Bath Rugby on 2025/04/11
+### Edinburgh V Perpignan on 2025/04/11
 
 
-Average Margin: Bath Rugby by 5.6
+Average Margin: Edinburgh by 7.7
 
 <p float="left">
-<img src="plots/performances_2025-05-02-Lyon_V_BathRugby.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Lyon_V_BathRugby.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Lyon_V_BathRugby.png" width="32%" />
+<img src="plots/performances_2025-04-11-Edinburgh_V_Perpignan.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Edinburgh_V_Perpignan.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Edinburgh_V_Perpignan.png" width="32%" />
+</p>
+
+### Ospreys V Lions on 2025/04/11
+
+
+Average Margin: Ospreys by 0.9
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Ospreys_V_Lions.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Ospreys_V_Lions.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Ospreys_V_Lions.png" width="32%" />
+</p>
+
+### Bayonne V Perpignan on 2025/04/11
+
+
+Average Margin: Bayonne by 8.0
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Bayonne_V_Perpignan.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Bayonne_V_Perpignan.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Bayonne_V_Perpignan.png" width="32%" />
+</p>
+
+### Ospreys V Perpignan on 2025/04/11
+
+
+Average Margin: Ospreys by 6.8
+
+<p float="left">
+<img src="plots/performances_2025-05-02-Ospreys_V_Perpignan.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Ospreys_V_Perpignan.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Ospreys_V_Perpignan.png" width="32%" />
+</p>
+
+### Montpellier Herault V Bath Rugby on 2025/04/11
+
+
+Average Margin: Bath Rugby by 2.2
+
+<p float="left">
+<img src="plots/performances_2025-05-02-MontpellierHerault_V_BathRugby.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-MontpellierHerault_V_BathRugby.png" width="32%" />
+<img src="plots/spreads_2025-05-02-MontpellierHerault_V_BathRugby.png" width="32%" />
+</p>
+
+### Lyon V Cardiff Blues on 2025/04/11
+
+
+Average Margin: Lyon by 9.0
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Lyon_V_CardiffBlues.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Lyon_V_CardiffBlues.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Lyon_V_CardiffBlues.png" width="32%" />
+</p>
+
+### Montpellier Herault V Sharks on 2025/04/11
+
+
+Average Margin: Montpellier Herault by 5.1
+
+<p float="left">
+<img src="plots/performances_2025-04-11-MontpellierHerault_V_Sharks.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-MontpellierHerault_V_Sharks.png" width="32%" />
+<img src="plots/spreads_2025-04-11-MontpellierHerault_V_Sharks.png" width="32%" />
+</p>
+
+### Edinburgh V Bath Rugby on 2025/04/11
+
+
+Average Margin: Bath Rugby by 2.2
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Edinburgh_V_BathRugby.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Edinburgh_V_BathRugby.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Edinburgh_V_BathRugby.png" width="32%" />
+</p>
+
+### Montpellier Herault V Racing 92 on 2025/04/11
+
+
+Average Margin: Montpellier Herault by 4.5
+
+<p float="left">
+<img src="plots/performances_2025-04-11-MontpellierHerault_V_Racing92.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-MontpellierHerault_V_Racing92.png" width="32%" />
+<img src="plots/spreads_2025-04-11-MontpellierHerault_V_Racing92.png" width="32%" />
+</p>
+
+### Ospreys V Cardiff Blues on 2025/04/11
+
+
+Average Margin: Ospreys by 11.4
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Ospreys_V_CardiffBlues.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Ospreys_V_CardiffBlues.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Ospreys_V_CardiffBlues.png" width="32%" />
+</p>
+
+### Edinburgh V Bulls on 2025/04/11
+
+
+Average Margin: Bulls by 0.7
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Edinburgh_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Edinburgh_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Edinburgh_V_Bulls.png" width="32%" />
+</p>
+
+### Ospreys V Pau on 2025/04/11
+
+
+Average Margin: Ospreys by 0.9
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Ospreys_V_Pau.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Ospreys_V_Pau.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Ospreys_V_Pau.png" width="32%" />
 </p>
 
 ### Edinburgh V Bayonne on 2025/04/11
@@ -324,637 +995,10 @@ Average Margin: Edinburgh by 5.1
 <img src="plots/spreads_2025-04-11-Edinburgh_V_Bayonne.png" width="32%" />
 </p>
 
-### Lyon V Gloucester Rugby on 2025/04/11
-
-
-Average Margin: Lyon by 3.2
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Lyon_V_GloucesterRugby.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Lyon_V_GloucesterRugby.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Lyon_V_GloucesterRugby.png" width="32%" />
-</p>
-
-### Lyon V Cardiff Blues on 2025/04/11
-
-
-Average Margin: Lyon by 9.6
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Lyon_V_CardiffBlues.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Lyon_V_CardiffBlues.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Lyon_V_CardiffBlues.png" width="32%" />
-</p>
-
-### Ospreys V Bulls on 2025/04/11
-
-
-Average Margin: Bulls by 3.1
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Ospreys_V_Bulls.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Ospreys_V_Bulls.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Ospreys_V_Bulls.png" width="32%" />
-</p>
-
-### Montpellier Herault V Racing 92 on 2025/04/11
-
-
-Average Margin: Montpellier Herault by 5.2
-
-<p float="left">
-<img src="plots/performances_2025-04-11-MontpellierHerault_V_Racing92.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-MontpellierHerault_V_Racing92.png" width="32%" />
-<img src="plots/spreads_2025-04-11-MontpellierHerault_V_Racing92.png" width="32%" />
-</p>
-
-### Bayonne V Ospreys on 2025/04/11
-
-
-Average Margin: Bayonne by 3.5
-
-<p float="left">
-<img src="plots/performances_2025-05-02-Bayonne_V_Ospreys.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Bayonne_V_Ospreys.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Bayonne_V_Ospreys.png" width="32%" />
-</p>
-
-### Scarlets V Bulls on 2025/04/11
-
-
-Average Margin: Bulls by 10.2
-
-<p float="left">
-<img src="plots/performances_2025-05-02-Scarlets_V_Bulls.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Scarlets_V_Bulls.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Scarlets_V_Bulls.png" width="32%" />
-</p>
-
-### Lyon V Ospreys on 2025/04/11
-
-
-Average Margin: Lyon by 6.8
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Lyon_V_Ospreys.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Lyon_V_Ospreys.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Lyon_V_Ospreys.png" width="32%" />
-</p>
-
-### Connacht V Scarlets on 2025/04/11
-
-
-Average Margin: Connacht by 10.4
-
-<p float="left">
-<img src="plots/performances_2025-05-02-Connacht_V_Scarlets.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Connacht_V_Scarlets.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Connacht_V_Scarlets.png" width="32%" />
-</p>
-
-### Ospreys V Lions on 2025/04/11
-
-
-Average Margin: Ospreys by 1.8
-
-<p float="left">
-<img src="plots/performances_2025-05-02-Ospreys_V_Lions.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Ospreys_V_Lions.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Ospreys_V_Lions.png" width="32%" />
-</p>
-
-### Connacht V Perpignan on 2025/04/11
-
-
-Average Margin: Connacht by 6.2
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Connacht_V_Perpignan.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Connacht_V_Perpignan.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Connacht_V_Perpignan.png" width="32%" />
-</p>
-
-### Edinburgh V Lyon on 2025/04/11
-
-
-Average Margin: Edinburgh by 5.2
-
-<p float="left">
-<img src="plots/performances_2025-05-02-Edinburgh_V_Lyon.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Edinburgh_V_Lyon.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Edinburgh_V_Lyon.png" width="32%" />
-</p>
-
-### Gloucester Rugby V Bulls on 2025/04/11
-
-
-Average Margin: Bulls by 5.1
-
-<p float="left">
-<img src="plots/performances_2025-05-24-GloucesterRugby_V_Bulls.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-GloucesterRugby_V_Bulls.png" width="32%" />
-<img src="plots/spreads_2025-05-24-GloucesterRugby_V_Bulls.png" width="32%" />
-</p>
-
-### Perpignan V Gloucester Rugby on 2025/04/11
-
-
-Average Margin: Gloucester Rugby by 1.2
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Perpignan_V_GloucesterRugby.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Perpignan_V_GloucesterRugby.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Perpignan_V_GloucesterRugby.png" width="32%" />
-</p>
-
-### Bayonne V Gloucester Rugby on 2025/04/11
-
-
-Average Margin: Gloucester Rugby by 1.7
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Bayonne_V_GloucesterRugby.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Bayonne_V_GloucesterRugby.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Bayonne_V_GloucesterRugby.png" width="32%" />
-</p>
-
-### Bayonne V Sharks on 2025/04/11
-
-
-Average Margin: Bayonne by 0.6
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Bayonne_V_Sharks.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Bayonne_V_Sharks.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Bayonne_V_Sharks.png" width="32%" />
-</p>
-
-### Scarlets V Lions on 2025/04/11
-
-
-Average Margin: Lions by 5.6
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Scarlets_V_Lions.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Scarlets_V_Lions.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Scarlets_V_Lions.png" width="32%" />
-</p>
-
-### Perpignan V Lions on 2025/04/11
-
-
-Average Margin: Perpignan by 0.2
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Perpignan_V_Lions.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Perpignan_V_Lions.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Perpignan_V_Lions.png" width="32%" />
-</p>
-
-### Bayonne V Perpignan on 2025/04/11
-
-
-Average Margin: Bayonne by 6.1
-
-<p float="left">
-<img src="plots/performances_2025-05-02-Bayonne_V_Perpignan.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Bayonne_V_Perpignan.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Bayonne_V_Perpignan.png" width="32%" />
-</p>
-
-### Edinburgh V Ospreys on 2025/04/11
-
-
-Average Margin: Edinburgh by 4.1
-
-<p float="left">
-<img src="plots/performances_2025-05-02-Edinburgh_V_Ospreys.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Edinburgh_V_Ospreys.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Edinburgh_V_Ospreys.png" width="32%" />
-</p>
-
-### Montpellier Herault V Pau on 2025/04/11
-
-
-Average Margin: Montpellier Herault by 6.6
-
-<p float="left">
-<img src="plots/performances_2025-05-02-MontpellierHerault_V_Pau.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-MontpellierHerault_V_Pau.png" width="32%" />
-<img src="plots/spreads_2025-05-02-MontpellierHerault_V_Pau.png" width="32%" />
-</p>
-
-### Edinburgh V Scarlets on 2025/04/11
-
-
-Average Margin: Edinburgh by 5.1
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Edinburgh_V_Scarlets.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Edinburgh_V_Scarlets.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Edinburgh_V_Scarlets.png" width="32%" />
-</p>
-
-### Montpellier Herault V Scarlets on 2025/04/11
-
-
-Average Margin: Montpellier Herault by 12.9
-
-<p float="left">
-<img src="plots/performances_2025-05-02-MontpellierHerault_V_Scarlets.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-MontpellierHerault_V_Scarlets.png" width="32%" />
-<img src="plots/spreads_2025-05-02-MontpellierHerault_V_Scarlets.png" width="32%" />
-</p>
-
-### Edinburgh V Sharks on 2025/04/11
-
-
-Average Margin: Edinburgh by 6.4
-
-<p float="left">
-<img src="plots/performances_2025-05-02-Edinburgh_V_Sharks.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Edinburgh_V_Sharks.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Edinburgh_V_Sharks.png" width="32%" />
-</p>
-
-### Connacht V Gloucester Rugby on 2025/04/11
-
-
-Average Margin: Connacht by 4.7
-
-<p float="left">
-<img src="plots/performances_2025-05-02-Connacht_V_GloucesterRugby.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Connacht_V_GloucesterRugby.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Connacht_V_GloucesterRugby.png" width="32%" />
-</p>
-
-### Ospreys V Cardiff Blues on 2025/04/11
-
-
-Average Margin: Ospreys by 7.5
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Ospreys_V_CardiffBlues.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Ospreys_V_CardiffBlues.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Ospreys_V_CardiffBlues.png" width="32%" />
-</p>
-
-### Bayonne V Bath Rugby on 2025/04/11
-
-
-Average Margin: Bath Rugby by 4.1
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Bayonne_V_BathRugby.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Bayonne_V_BathRugby.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Bayonne_V_BathRugby.png" width="32%" />
-</p>
-
-### Bayonne V Lyon on 2025/04/11
-
-
-Average Margin: Bayonne by 2.6
-
-<p float="left">
-<img src="plots/performances_2025-05-02-Bayonne_V_Lyon.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Bayonne_V_Lyon.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Bayonne_V_Lyon.png" width="32%" />
-</p>
-
-### Bayonne V Racing 92 on 2025/04/11
-
-
-Average Margin: Racing 92 by 3.1
-
-<p float="left">
-<img src="plots/performances_2025-05-24-Bayonne_V_Racing92.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-Bayonne_V_Racing92.png" width="32%" />
-<img src="plots/spreads_2025-05-24-Bayonne_V_Racing92.png" width="32%" />
-</p>
-
-### Ospreys V Perpignan on 2025/04/11
-
-
-Average Margin: Ospreys by 8.7
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Ospreys_V_Perpignan.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Ospreys_V_Perpignan.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Ospreys_V_Perpignan.png" width="32%" />
-</p>
-
-### Pau V Scarlets on 2025/04/11
-
-
-Average Margin: Pau by 11.1
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Pau_V_Scarlets.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Pau_V_Scarlets.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Pau_V_Scarlets.png" width="32%" />
-</p>
-
-### Connacht V Bulls on 2025/04/11
-
-
-Average Margin: Connacht by 0.1
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Connacht_V_Bulls.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Connacht_V_Bulls.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Connacht_V_Bulls.png" width="32%" />
-</p>
-
-### Edinburgh V Bath Rugby on 2025/04/11
-
-
-Average Margin: Bath Rugby by 3.3
-
-<p float="left">
-<img src="plots/performances_2025-05-24-Edinburgh_V_BathRugby.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-Edinburgh_V_BathRugby.png" width="32%" />
-<img src="plots/spreads_2025-05-24-Edinburgh_V_BathRugby.png" width="32%" />
-</p>
-
-### Ospreys V Sharks on 2025/04/11
-
-
-Average Margin: Ospreys by 2.1
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Ospreys_V_Sharks.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Ospreys_V_Sharks.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Ospreys_V_Sharks.png" width="32%" />
-</p>
-
-### Montpellier Herault V Bath Rugby on 2025/04/11
-
-
-Average Margin: Bath Rugby by 2.3
-
-<p float="left">
-<img src="plots/performances_2025-04-11-MontpellierHerault_V_BathRugby.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-MontpellierHerault_V_BathRugby.png" width="32%" />
-<img src="plots/spreads_2025-04-11-MontpellierHerault_V_BathRugby.png" width="32%" />
-</p>
-
-### Ospreys V Gloucester Rugby on 2025/04/11
-
-
-Average Margin: Ospreys by 7.1
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Ospreys_V_GloucesterRugby.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Ospreys_V_GloucesterRugby.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Ospreys_V_GloucesterRugby.png" width="32%" />
-</p>
-
-### Connacht V Bath Rugby on 2025/04/11
-
-
-Average Margin: Bath Rugby by 2.0
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Connacht_V_BathRugby.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Connacht_V_BathRugby.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Connacht_V_BathRugby.png" width="32%" />
-</p>
-
-### Edinburgh V Perpignan on 2025/04/11
-
-
-Average Margin: Edinburgh by 8.7
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Edinburgh_V_Perpignan.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Edinburgh_V_Perpignan.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Edinburgh_V_Perpignan.png" width="32%" />
-</p>
-
-### Ospreys V Bayonne on 2025/04/11
-
-
-Average Margin: Ospreys by 3.2
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Ospreys_V_Bayonne.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Ospreys_V_Bayonne.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Ospreys_V_Bayonne.png" width="32%" />
-</p>
-
-### Pau V Perpignan on 2025/04/11
-
-
-Average Margin: Pau by 4.1
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Pau_V_Perpignan.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Pau_V_Perpignan.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Pau_V_Perpignan.png" width="32%" />
-</p>
-
-### Bayonne V Scarlets on 2025/04/11
-
-
-Average Margin: Bayonne by 10.6
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Bayonne_V_Scarlets.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Bayonne_V_Scarlets.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Bayonne_V_Scarlets.png" width="32%" />
-</p>
-
-### Lions V Bulls on 2025/04/11
-
-
-Average Margin: Lions by 1.9
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Lions_V_Bulls.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Lions_V_Bulls.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Lions_V_Bulls.png" width="32%" />
-</p>
-
-### Montpellier Herault V Cardiff Blues on 2025/04/11
-
-
-Average Margin: Montpellier Herault by 13.2
-
-<p float="left">
-<img src="plots/performances_2025-04-11-MontpellierHerault_V_CardiffBlues.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-MontpellierHerault_V_CardiffBlues.png" width="32%" />
-<img src="plots/spreads_2025-04-11-MontpellierHerault_V_CardiffBlues.png" width="32%" />
-</p>
-
-### Lyon V Lions on 2025/04/11
-
-
-Average Margin: Lyon by 2.4
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Lyon_V_Lions.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Lyon_V_Lions.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Lyon_V_Lions.png" width="32%" />
-</p>
-
-### Bayonne V Lions on 2025/04/11
-
-
-Average Margin: Bayonne by 1.8
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Bayonne_V_Lions.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Bayonne_V_Lions.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Bayonne_V_Lions.png" width="32%" />
-</p>
-
-### Pau V Lions on 2025/04/11
-
-
-Average Margin: Pau by 2.1
-
-<p float="left">
-<img src="plots/performances_2025-05-02-Pau_V_Lions.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Pau_V_Lions.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Pau_V_Lions.png" width="32%" />
-</p>
-
-### Connacht V Sharks on 2025/04/11
-
-
-Average Margin: Connacht by 2.9
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Connacht_V_Sharks.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Connacht_V_Sharks.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Connacht_V_Sharks.png" width="32%" />
-</p>
-
-### Ospreys V Lyon on 2025/04/11
-
-
-Average Margin: Ospreys by 3.2
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Ospreys_V_Lyon.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Ospreys_V_Lyon.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Ospreys_V_Lyon.png" width="32%" />
-</p>
-
-### Edinburgh V Pau on 2025/04/11
-
-
-Average Margin: Edinburgh by 5.9
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Edinburgh_V_Pau.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Edinburgh_V_Pau.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Edinburgh_V_Pau.png" width="32%" />
-</p>
-
-### Montpellier Herault V Bulls on 2025/04/11
-
-
-Average Margin: Montpellier Herault by 1.4
-
-<p float="left">
-<img src="plots/performances_2025-04-11-MontpellierHerault_V_Bulls.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-MontpellierHerault_V_Bulls.png" width="32%" />
-<img src="plots/spreads_2025-04-11-MontpellierHerault_V_Bulls.png" width="32%" />
-</p>
-
-### Montpellier Herault V Sharks on 2025/04/11
-
-
-Average Margin: Montpellier Herault by 4.3
-
-<p float="left">
-<img src="plots/performances_2025-04-11-MontpellierHerault_V_Sharks.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-MontpellierHerault_V_Sharks.png" width="32%" />
-<img src="plots/spreads_2025-04-11-MontpellierHerault_V_Sharks.png" width="32%" />
-</p>
-
-### Connacht V Racing 92 on 2025/04/11
-
-
-Average Margin: Connacht by 4.3
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Connacht_V_Racing92.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Connacht_V_Racing92.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Connacht_V_Racing92.png" width="32%" />
-</p>
-
-### Edinburgh V Cardiff Blues on 2025/04/11
-
-
-Average Margin: Edinburgh by 12.9
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Edinburgh_V_CardiffBlues.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Edinburgh_V_CardiffBlues.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Edinburgh_V_CardiffBlues.png" width="32%" />
-</p>
-
-### Connacht V Pau on 2025/04/11
-
-
-Average Margin: Connacht by 7.4
-
-<p float="left">
-<img src="plots/performances_2025-05-02-Connacht_V_Pau.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Connacht_V_Pau.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Connacht_V_Pau.png" width="32%" />
-</p>
-
-### Ospreys V Pau on 2025/04/11
-
-
-Average Margin: Ospreys by 5.1
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Ospreys_V_Pau.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Ospreys_V_Pau.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Ospreys_V_Pau.png" width="32%" />
-</p>
-
-### Connacht V Lions on 2025/04/11
-
-
-Average Margin: Connacht by 5.3
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Connacht_V_Lions.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Connacht_V_Lions.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Connacht_V_Lions.png" width="32%" />
-</p>
-
-### Bayonne V Pau on 2025/04/11
-
-
-Average Margin: Bayonne by 7.0
-
-<p float="left">
-<img src="plots/performances_2025-05-02-Bayonne_V_Pau.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Bayonne_V_Pau.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Bayonne_V_Pau.png" width="32%" />
-</p>
-
-### Montpellier Herault V Perpignan on 2025/04/11
-
-
-Average Margin: Montpellier Herault by 8.0
-
-<p float="left">
-<img src="plots/performances_2025-04-11-MontpellierHerault_V_Perpignan.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-MontpellierHerault_V_Perpignan.png" width="32%" />
-<img src="plots/spreads_2025-04-11-MontpellierHerault_V_Perpignan.png" width="32%" />
-</p>
-
 ### Lyon V Bayonne on 2025/04/11
 
 
-Average Margin: Lyon by 3.0
+Average Margin: Lyon by 3.7
 
 <p float="left">
 <img src="plots/performances_2025-04-11-Lyon_V_Bayonne.png" width="32%" />
@@ -962,221 +1006,10 @@ Average Margin: Lyon by 3.0
 <img src="plots/spreads_2025-04-11-Lyon_V_Bayonne.png" width="32%" />
 </p>
 
-### Edinburgh V Gloucester Rugby on 2025/04/11
+### Montpellier Herault V Perpignan on 2025/04/11
 
 
-Average Margin: Edinburgh by 5.4
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Edinburgh_V_GloucesterRugby.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Edinburgh_V_GloucesterRugby.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Edinburgh_V_GloucesterRugby.png" width="32%" />
-</p>
-
-### Lyon V Scarlets on 2025/04/11
-
-
-Average Margin: Lyon by 7.2
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Lyon_V_Scarlets.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Lyon_V_Scarlets.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Lyon_V_Scarlets.png" width="32%" />
-</p>
-
-### Edinburgh V Bulls on 2025/04/11
-
-
-Average Margin: Edinburgh by 0.1
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Edinburgh_V_Bulls.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Edinburgh_V_Bulls.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Edinburgh_V_Bulls.png" width="32%" />
-</p>
-
-### Lyon V Perpignan on 2025/04/11
-
-
-Average Margin: Lyon by 7.0
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Lyon_V_Perpignan.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Lyon_V_Perpignan.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Lyon_V_Perpignan.png" width="32%" />
-</p>
-
-## Semifinals
-
-### Ospreys V Gloucester Rugby on 2025/05/02
-
-
-Average Margin: Ospreys by 7.1
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Ospreys_V_GloucesterRugby.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Ospreys_V_GloucesterRugby.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Ospreys_V_GloucesterRugby.png" width="32%" />
-</p>
-
-### Racing 92 V Bath Rugby on 2025/05/02
-
-
-Average Margin: Bath Rugby by 3.9
-
-<p float="left">
-<img src="plots/performances_2025-05-24-Racing92_V_BathRugby.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-Racing92_V_BathRugby.png" width="32%" />
-<img src="plots/spreads_2025-05-24-Racing92_V_BathRugby.png" width="32%" />
-</p>
-
-### Perpignan V Bath Rugby on 2025/05/02
-
-
-Average Margin: Bath Rugby by 10.8
-
-<p float="left">
-<img src="plots/performances_2025-05-02-Perpignan_V_BathRugby.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Perpignan_V_BathRugby.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Perpignan_V_BathRugby.png" width="32%" />
-</p>
-
-### Montpellier Herault V Lions on 2025/05/02
-
-
-Average Margin: Montpellier Herault by 3.0
-
-<p float="left">
-<img src="plots/performances_2025-04-11-MontpellierHerault_V_Lions.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-MontpellierHerault_V_Lions.png" width="32%" />
-<img src="plots/spreads_2025-04-11-MontpellierHerault_V_Lions.png" width="32%" />
-</p>
-
-### Connacht V Edinburgh on 2025/05/02
-
-
-Average Margin: Connacht by 0.9
-
-<p float="left">
-<img src="plots/performances_2025-05-24-Connacht_V_Edinburgh.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-Connacht_V_Edinburgh.png" width="32%" />
-<img src="plots/spreads_2025-05-24-Connacht_V_Edinburgh.png" width="32%" />
-</p>
-
-### Edinburgh V Gloucester Rugby on 2025/05/02
-
-
-Average Margin: Edinburgh by 5.4
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Edinburgh_V_GloucesterRugby.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Edinburgh_V_GloucesterRugby.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Edinburgh_V_GloucesterRugby.png" width="32%" />
-</p>
-
-### Bath Rugby V Bulls on 2025/05/02
-
-
-Average Margin: Bath Rugby by 2.1
-
-<p float="left">
-<img src="plots/performances_2025-05-24-BathRugby_V_Bulls.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-BathRugby_V_Bulls.png" width="32%" />
-<img src="plots/spreads_2025-05-24-BathRugby_V_Bulls.png" width="32%" />
-</p>
-
-### Perpignan V Gloucester Rugby on 2025/05/02
-
-
-Average Margin: Gloucester Rugby by 1.2
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Perpignan_V_GloucesterRugby.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Perpignan_V_GloucesterRugby.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Perpignan_V_GloucesterRugby.png" width="32%" />
-</p>
-
-### Gloucester Rugby V Bulls on 2025/05/02
-
-
-Average Margin: Bulls by 5.1
-
-<p float="left">
-<img src="plots/performances_2025-05-24-GloucesterRugby_V_Bulls.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-GloucesterRugby_V_Bulls.png" width="32%" />
-<img src="plots/spreads_2025-05-24-GloucesterRugby_V_Bulls.png" width="32%" />
-</p>
-
-### Lyon V Gloucester Rugby on 2025/05/02
-
-
-Average Margin: Lyon by 3.2
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Lyon_V_GloucesterRugby.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Lyon_V_GloucesterRugby.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Lyon_V_GloucesterRugby.png" width="32%" />
-</p>
-
-### Bayonne V Lions on 2025/05/02
-
-
-Average Margin: Bayonne by 1.8
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Bayonne_V_Lions.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Bayonne_V_Lions.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Bayonne_V_Lions.png" width="32%" />
-</p>
-
-### Bayonne V Racing 92 on 2025/05/02
-
-
-Average Margin: Racing 92 by 3.1
-
-<p float="left">
-<img src="plots/performances_2025-05-24-Bayonne_V_Racing92.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-Bayonne_V_Racing92.png" width="32%" />
-<img src="plots/spreads_2025-05-24-Bayonne_V_Racing92.png" width="32%" />
-</p>
-
-### Bayonne V Scarlets on 2025/05/02
-
-
-Average Margin: Bayonne by 10.6
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Bayonne_V_Scarlets.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Bayonne_V_Scarlets.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Bayonne_V_Scarlets.png" width="32%" />
-</p>
-
-### Lyon V Scarlets on 2025/05/02
-
-
-Average Margin: Lyon by 7.2
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Lyon_V_Scarlets.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Lyon_V_Scarlets.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Lyon_V_Scarlets.png" width="32%" />
-</p>
-
-### Ospreys V Cardiff Blues on 2025/05/02
-
-
-Average Margin: Ospreys by 7.5
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Ospreys_V_CardiffBlues.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Ospreys_V_CardiffBlues.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Ospreys_V_CardiffBlues.png" width="32%" />
-</p>
-
-### Montpellier Herault V Perpignan on 2025/05/02
-
-
-Average Margin: Montpellier Herault by 8.0
+Average Margin: Montpellier Herault by 8.5
 
 <p float="left">
 <img src="plots/performances_2025-04-11-MontpellierHerault_V_Perpignan.png" width="32%" />
@@ -1184,10 +1017,10 @@ Average Margin: Montpellier Herault by 8.0
 <img src="plots/spreads_2025-04-11-MontpellierHerault_V_Perpignan.png" width="32%" />
 </p>
 
-### Connacht V Racing 92 on 2025/05/02
+### Connacht V Racing 92 on 2025/04/11
 
 
-Average Margin: Connacht by 4.3
+Average Margin: Connacht by 4.4
 
 <p float="left">
 <img src="plots/performances_2025-04-11-Connacht_V_Racing92.png" width="32%" />
@@ -1195,109 +1028,111 @@ Average Margin: Connacht by 4.3
 <img src="plots/spreads_2025-04-11-Connacht_V_Racing92.png" width="32%" />
 </p>
 
-### Bayonne V Gloucester Rugby on 2025/05/02
+## Semifinals
+
+### Lyon V Bayonne on 2025/05/02
 
 
-Average Margin: Gloucester Rugby by 1.7
+Average Margin: Lyon by 3.7
 
 <p float="left">
-<img src="plots/performances_2025-04-11-Bayonne_V_GloucesterRugby.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Bayonne_V_GloucesterRugby.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Bayonne_V_GloucesterRugby.png" width="32%" />
+<img src="plots/performances_2025-04-11-Lyon_V_Bayonne.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Lyon_V_Bayonne.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Lyon_V_Bayonne.png" width="32%" />
 </p>
 
-### Edinburgh V Pau on 2025/05/02
+### Racing 92 V Bulls on 2025/05/02
 
 
-Average Margin: Edinburgh by 5.9
+Average Margin: Racing 92 by 0.2
 
 <p float="left">
-<img src="plots/performances_2025-04-11-Edinburgh_V_Pau.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Edinburgh_V_Pau.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Edinburgh_V_Pau.png" width="32%" />
+<img src="plots/performances_2025-05-02-Racing92_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Racing92_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Racing92_V_Bulls.png" width="32%" />
 </p>
 
-### Lions V Bulls on 2025/05/02
+### Perpignan V Gloucester Rugby on 2025/05/02
 
 
-Average Margin: Lions by 1.9
+Average Margin: Gloucester Rugby by 2.1
 
 <p float="left">
-<img src="plots/performances_2025-04-11-Lions_V_Bulls.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Lions_V_Bulls.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Lions_V_Bulls.png" width="32%" />
+<img src="plots/performances_2025-04-11-Perpignan_V_GloucesterRugby.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Perpignan_V_GloucesterRugby.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Perpignan_V_GloucesterRugby.png" width="32%" />
 </p>
 
-### Pau V Scarlets on 2025/05/02
+### Lyon V Scarlets on 2025/05/02
 
 
-Average Margin: Pau by 11.1
+Average Margin: Lyon by 8.4
 
 <p float="left">
-<img src="plots/performances_2025-04-11-Pau_V_Scarlets.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Pau_V_Scarlets.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Pau_V_Scarlets.png" width="32%" />
+<img src="plots/performances_2025-04-11-Lyon_V_Scarlets.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Lyon_V_Scarlets.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Lyon_V_Scarlets.png" width="32%" />
 </p>
 
-### Edinburgh V Cardiff Blues on 2025/05/02
+### Edinburgh V Racing 92 on 2025/05/02
 
 
-Average Margin: Edinburgh by 12.9
+Average Margin: Edinburgh by 4.5
 
 <p float="left">
-<img src="plots/performances_2025-04-11-Edinburgh_V_CardiffBlues.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Edinburgh_V_CardiffBlues.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Edinburgh_V_CardiffBlues.png" width="32%" />
+<img src="plots/performances_2025-05-24-Edinburgh_V_Racing92.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-Edinburgh_V_Racing92.png" width="32%" />
+<img src="plots/spreads_2025-05-24-Edinburgh_V_Racing92.png" width="32%" />
 </p>
 
-### Scarlets V Lions on 2025/05/02
+### Perpignan V Scarlets on 2025/05/02
 
 
-Average Margin: Lions by 5.6
+Average Margin: Perpignan by 8.1
 
 <p float="left">
-<img src="plots/performances_2025-04-11-Scarlets_V_Lions.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Scarlets_V_Lions.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Scarlets_V_Lions.png" width="32%" />
+<img src="plots/performances_2025-04-11-Perpignan_V_Scarlets.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Perpignan_V_Scarlets.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Perpignan_V_Scarlets.png" width="32%" />
 </p>
 
-### Pau V Lions on 2025/05/02
+### Montpellier Herault V Perpignan on 2025/05/02
 
 
-Average Margin: Pau by 2.1
+Average Margin: Montpellier Herault by 8.5
 
 <p float="left">
-<img src="plots/performances_2025-05-02-Pau_V_Lions.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Pau_V_Lions.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Pau_V_Lions.png" width="32%" />
+<img src="plots/performances_2025-04-11-MontpellierHerault_V_Perpignan.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-MontpellierHerault_V_Perpignan.png" width="32%" />
+<img src="plots/spreads_2025-04-11-MontpellierHerault_V_Perpignan.png" width="32%" />
 </p>
 
-### Connacht V Perpignan on 2025/05/02
+### Ospreys V Bulls on 2025/05/02
 
 
-Average Margin: Connacht by 6.2
+Average Margin: Bulls by 2.8
 
 <p float="left">
-<img src="plots/performances_2025-04-11-Connacht_V_Perpignan.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Connacht_V_Perpignan.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Connacht_V_Perpignan.png" width="32%" />
+<img src="plots/performances_2025-04-11-Ospreys_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Ospreys_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Ospreys_V_Bulls.png" width="32%" />
 </p>
 
-### Montpellier Herault V Sharks on 2025/05/02
+### Ospreys V Gloucester Rugby on 2025/05/02
 
 
-Average Margin: Montpellier Herault by 4.3
+Average Margin: Ospreys by 2.0
 
 <p float="left">
-<img src="plots/performances_2025-04-11-MontpellierHerault_V_Sharks.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-MontpellierHerault_V_Sharks.png" width="32%" />
-<img src="plots/spreads_2025-04-11-MontpellierHerault_V_Sharks.png" width="32%" />
+<img src="plots/performances_2025-04-11-Ospreys_V_GloucesterRugby.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Ospreys_V_GloucesterRugby.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Ospreys_V_GloucesterRugby.png" width="32%" />
 </p>
 
 ### Bayonne V Sharks on 2025/05/02
 
 
-Average Margin: Bayonne by 0.6
+Average Margin: Bayonne by 2.6
 
 <p float="left">
 <img src="plots/performances_2025-04-11-Bayonne_V_Sharks.png" width="32%" />
@@ -1305,21 +1140,230 @@ Average Margin: Bayonne by 0.6
 <img src="plots/spreads_2025-04-11-Bayonne_V_Sharks.png" width="32%" />
 </p>
 
-### Pau V Perpignan on 2025/05/02
+### Ospreys V Cardiff Blues on 2025/05/02
 
 
-Average Margin: Pau by 4.1
+Average Margin: Ospreys by 11.4
 
 <p float="left">
-<img src="plots/performances_2025-04-11-Pau_V_Perpignan.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Pau_V_Perpignan.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Pau_V_Perpignan.png" width="32%" />
+<img src="plots/performances_2025-04-11-Ospreys_V_CardiffBlues.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Ospreys_V_CardiffBlues.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Ospreys_V_CardiffBlues.png" width="32%" />
+</p>
+
+### Ospreys V Bayonne on 2025/05/02
+
+
+Average Margin: Ospreys by 2.5
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Ospreys_V_Bayonne.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Ospreys_V_Bayonne.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Ospreys_V_Bayonne.png" width="32%" />
+</p>
+
+### Montpellier Herault V Racing 92 on 2025/05/02
+
+
+Average Margin: Montpellier Herault by 4.5
+
+<p float="left">
+<img src="plots/performances_2025-04-11-MontpellierHerault_V_Racing92.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-MontpellierHerault_V_Racing92.png" width="32%" />
+<img src="plots/spreads_2025-04-11-MontpellierHerault_V_Racing92.png" width="32%" />
+</p>
+
+### Montpellier Herault V Scarlets on 2025/05/02
+
+
+Average Margin: Montpellier Herault by 12.5
+
+<p float="left">
+<img src="plots/performances_2025-04-11-MontpellierHerault_V_Scarlets.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-MontpellierHerault_V_Scarlets.png" width="32%" />
+<img src="plots/spreads_2025-04-11-MontpellierHerault_V_Scarlets.png" width="32%" />
+</p>
+
+### Connacht V Perpignan on 2025/05/02
+
+
+Average Margin: Connacht by 10.3
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Connacht_V_Perpignan.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Connacht_V_Perpignan.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Connacht_V_Perpignan.png" width="32%" />
+</p>
+
+### Ospreys V Sharks on 2025/05/02
+
+
+Average Margin: Ospreys by 0.6
+
+<p float="left">
+<img src="plots/performances_2025-05-24-Ospreys_V_Sharks.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-Ospreys_V_Sharks.png" width="32%" />
+<img src="plots/spreads_2025-05-24-Ospreys_V_Sharks.png" width="32%" />
+</p>
+
+### Gloucester Rugby V Bath Rugby on 2025/05/02
+
+
+Average Margin: Bath Rugby by 2.3
+
+<p float="left">
+<img src="plots/performances_2025-05-24-GloucesterRugby_V_BathRugby.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-GloucesterRugby_V_BathRugby.png" width="32%" />
+<img src="plots/spreads_2025-05-24-GloucesterRugby_V_BathRugby.png" width="32%" />
+</p>
+
+### Montpellier Herault V Sharks on 2025/05/02
+
+
+Average Margin: Montpellier Herault by 5.1
+
+<p float="left">
+<img src="plots/performances_2025-04-11-MontpellierHerault_V_Sharks.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-MontpellierHerault_V_Sharks.png" width="32%" />
+<img src="plots/spreads_2025-04-11-MontpellierHerault_V_Sharks.png" width="32%" />
+</p>
+
+### Edinburgh V Pau on 2025/05/02
+
+
+Average Margin: Edinburgh by 6.2
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Edinburgh_V_Pau.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Edinburgh_V_Pau.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Edinburgh_V_Pau.png" width="32%" />
+</p>
+
+### Edinburgh V Ospreys on 2025/05/02
+
+
+Average Margin: Edinburgh by 6.6
+
+<p float="left">
+<img src="plots/performances_2025-05-02-Edinburgh_V_Ospreys.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Edinburgh_V_Ospreys.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Edinburgh_V_Ospreys.png" width="32%" />
+</p>
+
+### Bayonne V Lyon on 2025/05/02
+
+
+Average Margin: Bayonne by 3.9
+
+<p float="left">
+<img src="plots/performances_2025-05-02-Bayonne_V_Lyon.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Bayonne_V_Lyon.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Bayonne_V_Lyon.png" width="32%" />
+</p>
+
+### Montpellier Herault V Bath Rugby on 2025/05/02
+
+
+Average Margin: Bath Rugby by 2.2
+
+<p float="left">
+<img src="plots/performances_2025-05-02-MontpellierHerault_V_BathRugby.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-MontpellierHerault_V_BathRugby.png" width="32%" />
+<img src="plots/spreads_2025-05-02-MontpellierHerault_V_BathRugby.png" width="32%" />
+</p>
+
+### Pau V Scarlets on 2025/05/02
+
+
+Average Margin: Pau by 11.5
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Pau_V_Scarlets.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Pau_V_Scarlets.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Pau_V_Scarlets.png" width="32%" />
+</p>
+
+### Ospreys V Bath Rugby on 2025/05/02
+
+
+Average Margin: Bath Rugby by 5.9
+
+<p float="left">
+<img src="plots/performances_2025-05-02-Ospreys_V_BathRugby.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Ospreys_V_BathRugby.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Ospreys_V_BathRugby.png" width="32%" />
+</p>
+
+### Lions V Gloucester Rugby on 2025/05/02
+
+
+Average Margin: Lions by 4.2
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Lions_V_GloucesterRugby.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Lions_V_GloucesterRugby.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Lions_V_GloucesterRugby.png" width="32%" />
+</p>
+
+### Lyon V Racing 92 on 2025/05/02
+
+
+Average Margin: Lyon by 2.4
+
+<p float="left">
+<img src="plots/performances_2025-05-02-Lyon_V_Racing92.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Lyon_V_Racing92.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Lyon_V_Racing92.png" width="32%" />
+</p>
+
+### Bayonne V Gloucester Rugby on 2025/05/02
+
+
+Average Margin: Bayonne by 3.5
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Bayonne_V_GloucesterRugby.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Bayonne_V_GloucesterRugby.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Bayonne_V_GloucesterRugby.png" width="32%" />
+</p>
+
+### Scarlets V Bulls on 2025/05/02
+
+
+Average Margin: Bulls by 5.9
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Scarlets_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Scarlets_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Scarlets_V_Bulls.png" width="32%" />
+</p>
+
+### Scarlets V Perpignan on 2025/05/02
+
+
+Average Margin: Scarlets by 1.9
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Scarlets_V_Perpignan.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Scarlets_V_Perpignan.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Scarlets_V_Perpignan.png" width="32%" />
+</p>
+
+### Bayonne V Scarlets on 2025/05/02
+
+
+Average Margin: Bayonne by 6.1
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Bayonne_V_Scarlets.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Bayonne_V_Scarlets.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Bayonne_V_Scarlets.png" width="32%" />
 </p>
 
 ### Perpignan V Lions on 2025/05/02
 
 
-Average Margin: Perpignan by 0.2
+Average Margin: Lions by 0.4
 
 <p float="left">
 <img src="plots/performances_2025-04-11-Perpignan_V_Lions.png" width="32%" />
@@ -1327,98 +1371,120 @@ Average Margin: Perpignan by 0.2
 <img src="plots/spreads_2025-04-11-Perpignan_V_Lions.png" width="32%" />
 </p>
 
-### Edinburgh V Scarlets on 2025/05/02
+### Lyon V Pau on 2025/05/02
 
 
-Average Margin: Edinburgh by 5.1
+Average Margin: Lyon by 4.0
 
 <p float="left">
-<img src="plots/performances_2025-04-11-Edinburgh_V_Scarlets.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Edinburgh_V_Scarlets.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Edinburgh_V_Scarlets.png" width="32%" />
+<img src="plots/performances_2025-04-11-Lyon_V_Pau.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Lyon_V_Pau.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Lyon_V_Pau.png" width="32%" />
 </p>
 
-### Scarlets V Bulls on 2025/05/02
+### Edinburgh V Gloucester Rugby on 2025/05/02
 
 
-Average Margin: Bulls by 10.2
+Average Margin: Edinburgh by 7.7
 
 <p float="left">
-<img src="plots/performances_2025-05-02-Scarlets_V_Bulls.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Scarlets_V_Bulls.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Scarlets_V_Bulls.png" width="32%" />
+<img src="plots/performances_2025-04-11-Edinburgh_V_GloucesterRugby.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Edinburgh_V_GloucesterRugby.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Edinburgh_V_GloucesterRugby.png" width="32%" />
 </p>
 
-### Connacht V Scarlets on 2025/05/02
+### Bayonne V Lions on 2025/05/02
 
 
-Average Margin: Connacht by 10.4
+Average Margin: Bayonne by 4.6
 
 <p float="left">
-<img src="plots/performances_2025-05-02-Connacht_V_Scarlets.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Connacht_V_Scarlets.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Connacht_V_Scarlets.png" width="32%" />
+<img src="plots/performances_2025-04-11-Bayonne_V_Lions.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Bayonne_V_Lions.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Bayonne_V_Lions.png" width="32%" />
 </p>
 
-### Ospreys V Perpignan on 2025/05/02
+### Gloucester Rugby V Bulls on 2025/05/02
 
 
-Average Margin: Ospreys by 8.7
+Average Margin: Bulls by 1.7
 
 <p float="left">
-<img src="plots/performances_2025-04-11-Ospreys_V_Perpignan.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Ospreys_V_Perpignan.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Ospreys_V_Perpignan.png" width="32%" />
+<img src="plots/performances_2025-04-11-GloucesterRugby_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-GloucesterRugby_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2025-04-11-GloucesterRugby_V_Bulls.png" width="32%" />
 </p>
 
-### Lyon V Cardiff Blues on 2025/05/02
+### Montpellier Herault V Lions on 2025/05/02
 
 
-Average Margin: Lyon by 9.6
+Average Margin: Montpellier Herault by 3.8
 
 <p float="left">
-<img src="plots/performances_2025-04-11-Lyon_V_CardiffBlues.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Lyon_V_CardiffBlues.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Lyon_V_CardiffBlues.png" width="32%" />
+<img src="plots/performances_2025-04-11-MontpellierHerault_V_Lions.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-MontpellierHerault_V_Lions.png" width="32%" />
+<img src="plots/spreads_2025-04-11-MontpellierHerault_V_Lions.png" width="32%" />
 </p>
 
-### Gloucester Rugby V Bath Rugby on 2025/05/02
+### Bayonne V Perpignan on 2025/05/02
 
 
-Average Margin: Bath Rugby by 11.4
+Average Margin: Bayonne by 8.0
 
 <p float="left">
-<img src="plots/performances_2025-05-02-GloucesterRugby_V_BathRugby.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-GloucesterRugby_V_BathRugby.png" width="32%" />
-<img src="plots/spreads_2025-05-02-GloucesterRugby_V_BathRugby.png" width="32%" />
+<img src="plots/performances_2025-04-11-Bayonne_V_Perpignan.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Bayonne_V_Perpignan.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Bayonne_V_Perpignan.png" width="32%" />
 </p>
 
-### Connacht V Ospreys on 2025/05/02
+### Connacht V Racing 92 on 2025/05/02
 
 
-Average Margin: Connacht by 6.0
+Average Margin: Connacht by 4.4
 
 <p float="left">
-<img src="plots/performances_2025-05-02-Connacht_V_Ospreys.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Connacht_V_Ospreys.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Connacht_V_Ospreys.png" width="32%" />
+<img src="plots/performances_2025-04-11-Connacht_V_Racing92.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Connacht_V_Racing92.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Connacht_V_Racing92.png" width="32%" />
 </p>
 
-### Lyon V Lions on 2025/05/02
+### Bath Rugby V Bulls on 2025/05/02
 
 
-Average Margin: Lyon by 2.4
+Average Margin: Bath Rugby by 0.3
 
 <p float="left">
-<img src="plots/performances_2025-04-11-Lyon_V_Lions.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Lyon_V_Lions.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Lyon_V_Lions.png" width="32%" />
+<img src="plots/performances_2025-05-24-BathRugby_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-BathRugby_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2025-05-24-BathRugby_V_Bulls.png" width="32%" />
+</p>
+
+### Lions V Bath Rugby on 2025/05/02
+
+
+Average Margin: Lions by 0.3
+
+<p float="left">
+<img src="plots/performances_2025-05-24-Lions_V_BathRugby.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-Lions_V_BathRugby.png" width="32%" />
+<img src="plots/spreads_2025-05-24-Lions_V_BathRugby.png" width="32%" />
+</p>
+
+### Ospreys V Pau on 2025/05/02
+
+
+Average Margin: Ospreys by 0.9
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Ospreys_V_Pau.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Ospreys_V_Pau.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Ospreys_V_Pau.png" width="32%" />
 </p>
 
 ### Lyon V Ospreys on 2025/05/02
 
 
-Average Margin: Lyon by 6.8
+Average Margin: Lyon by 4.7
 
 <p float="left">
 <img src="plots/performances_2025-04-11-Lyon_V_Ospreys.png" width="32%" />
@@ -1429,7 +1495,7 @@ Average Margin: Lyon by 6.8
 ### Edinburgh V Perpignan on 2025/05/02
 
 
-Average Margin: Edinburgh by 8.7
+Average Margin: Edinburgh by 7.7
 
 <p float="left">
 <img src="plots/performances_2025-04-11-Edinburgh_V_Perpignan.png" width="32%" />
@@ -1437,76 +1503,274 @@ Average Margin: Edinburgh by 8.7
 <img src="plots/spreads_2025-04-11-Edinburgh_V_Perpignan.png" width="32%" />
 </p>
 
-### Edinburgh V Bath Rugby on 2025/05/02
+### Lyon V Gloucester Rugby on 2025/05/02
 
 
-Average Margin: Bath Rugby by 3.3
+Average Margin: Lyon by 6.4
 
 <p float="left">
-<img src="plots/performances_2025-05-24-Edinburgh_V_BathRugby.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-Edinburgh_V_BathRugby.png" width="32%" />
-<img src="plots/spreads_2025-05-24-Edinburgh_V_BathRugby.png" width="32%" />
+<img src="plots/performances_2025-04-11-Lyon_V_GloucesterRugby.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Lyon_V_GloucesterRugby.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Lyon_V_GloucesterRugby.png" width="32%" />
 </p>
 
-### Ospreys V Pau on 2025/05/02
+### Lyon V Cardiff Blues on 2025/05/02
 
 
-Average Margin: Ospreys by 5.1
+Average Margin: Lyon by 9.0
 
 <p float="left">
-<img src="plots/performances_2025-04-11-Ospreys_V_Pau.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Ospreys_V_Pau.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Ospreys_V_Pau.png" width="32%" />
+<img src="plots/performances_2025-04-11-Lyon_V_CardiffBlues.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Lyon_V_CardiffBlues.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Lyon_V_CardiffBlues.png" width="32%" />
 </p>
 
-### Montpellier Herault V Pau on 2025/05/02
+### Edinburgh V Scarlets on 2025/05/02
 
 
-Average Margin: Montpellier Herault by 6.6
+Average Margin: Edinburgh by 11.6
 
 <p float="left">
-<img src="plots/performances_2025-05-02-MontpellierHerault_V_Pau.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-MontpellierHerault_V_Pau.png" width="32%" />
-<img src="plots/spreads_2025-05-02-MontpellierHerault_V_Pau.png" width="32%" />
+<img src="plots/performances_2025-04-11-Edinburgh_V_Scarlets.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Edinburgh_V_Scarlets.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Edinburgh_V_Scarlets.png" width="32%" />
 </p>
 
-### Lyon V Pau on 2025/05/02
+### Scarlets V Lions on 2025/05/02
 
 
-Average Margin: Lyon by 5.3
+Average Margin: Scarlets by 3.4
 
 <p float="left">
-<img src="plots/performances_2025-04-11-Lyon_V_Pau.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Lyon_V_Pau.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Lyon_V_Pau.png" width="32%" />
+<img src="plots/performances_2025-04-11-Scarlets_V_Lions.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Scarlets_V_Lions.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Scarlets_V_Lions.png" width="32%" />
 </p>
 
-### Connacht V Bayonne on 2025/05/02
+### Perpignan V Bulls on 2025/05/02
 
 
-Average Margin: Connacht by 2.7
+Average Margin: Bulls by 8.1
 
 <p float="left">
-<img src="plots/performances_2025-05-24-Connacht_V_Bayonne.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-Connacht_V_Bayonne.png" width="32%" />
-<img src="plots/spreads_2025-05-24-Connacht_V_Bayonne.png" width="32%" />
+<img src="plots/performances_2025-05-02-Perpignan_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Perpignan_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Perpignan_V_Bulls.png" width="32%" />
+</p>
+
+### Lions V Bulls on 2025/05/02
+
+
+Average Margin: Lions by 1.1
+
+<p float="left">
+<img src="plots/performances_2025-05-02-Lions_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Lions_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Lions_V_Bulls.png" width="32%" />
+</p>
+
+### Connacht V Lions on 2025/05/02
+
+
+Average Margin: Connacht by 3.4
+
+<p float="left">
+<img src="plots/performances_2025-05-02-Connacht_V_Lions.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Connacht_V_Lions.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Connacht_V_Lions.png" width="32%" />
+</p>
+
+### Montpellier Herault V Bayonne on 2025/05/02
+
+
+Average Margin: Montpellier Herault by 2.2
+
+<p float="left">
+<img src="plots/performances_2025-05-02-MontpellierHerault_V_Bayonne.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-MontpellierHerault_V_Bayonne.png" width="32%" />
+<img src="plots/spreads_2025-05-02-MontpellierHerault_V_Bayonne.png" width="32%" />
+</p>
+
+### Lions V Cardiff Blues on 2025/05/02
+
+
+Average Margin: Lions by 7.8
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Lions_V_CardiffBlues.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Lions_V_CardiffBlues.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Lions_V_CardiffBlues.png" width="32%" />
+</p>
+
+### Connacht V Pau on 2025/05/02
+
+
+Average Margin: Connacht by 5.0
+
+<p float="left">
+<img src="plots/performances_2025-05-24-Connacht_V_Pau.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-Connacht_V_Pau.png" width="32%" />
+<img src="plots/spreads_2025-05-24-Connacht_V_Pau.png" width="32%" />
+</p>
+
+### Edinburgh V Bulls on 2025/05/02
+
+
+Average Margin: Bulls by 0.7
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Edinburgh_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Edinburgh_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Edinburgh_V_Bulls.png" width="32%" />
+</p>
+
+### Racing 92 V Bath Rugby on 2025/05/02
+
+
+Average Margin: Bath Rugby by 3.8
+
+<p float="left">
+<img src="plots/performances_2025-05-02-Racing92_V_BathRugby.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Racing92_V_BathRugby.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Racing92_V_BathRugby.png" width="32%" />
+</p>
+
+### Connacht V Edinburgh on 2025/05/02
+
+
+Average Margin: Connacht by 1.2
+
+<p float="left">
+<img src="plots/performances_2025-05-24-Connacht_V_Edinburgh.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-Connacht_V_Edinburgh.png" width="32%" />
+<img src="plots/spreads_2025-05-24-Connacht_V_Edinburgh.png" width="32%" />
+</p>
+
+### Connacht V Sharks on 2025/05/02
+
+
+Average Margin: Connacht by 2.8
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Connacht_V_Sharks.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Connacht_V_Sharks.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Connacht_V_Sharks.png" width="32%" />
+</p>
+
+### Pau V Bulls on 2025/05/02
+
+
+Average Margin: Bulls by 6.9
+
+<p float="left">
+<img src="plots/performances_2025-05-02-Pau_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Pau_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Pau_V_Bulls.png" width="32%" />
+</p>
+
+### Bayonne V Bath Rugby on 2025/05/02
+
+
+Average Margin: Bath Rugby by 6.1
+
+<p float="left">
+<img src="plots/performances_2025-05-24-Bayonne_V_BathRugby.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-Bayonne_V_BathRugby.png" width="32%" />
+<img src="plots/spreads_2025-05-24-Bayonne_V_BathRugby.png" width="32%" />
+</p>
+
+### Ospreys V Perpignan on 2025/05/02
+
+
+Average Margin: Ospreys by 6.8
+
+<p float="left">
+<img src="plots/performances_2025-05-02-Ospreys_V_Perpignan.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Ospreys_V_Perpignan.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Ospreys_V_Perpignan.png" width="32%" />
 </p>
 
 ### Ospreys V Lions on 2025/05/02
 
 
-Average Margin: Ospreys by 1.8
+Average Margin: Ospreys by 0.9
 
 <p float="left">
-<img src="plots/performances_2025-05-02-Ospreys_V_Lions.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Ospreys_V_Lions.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Ospreys_V_Lions.png" width="32%" />
+<img src="plots/performances_2025-04-11-Ospreys_V_Lions.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Ospreys_V_Lions.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Ospreys_V_Lions.png" width="32%" />
+</p>
+
+### Ospreys V Lyon on 2025/05/02
+
+
+Average Margin: Ospreys by 2.5
+
+<p float="left">
+<img src="plots/performances_2025-05-24-Ospreys_V_Lyon.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-Ospreys_V_Lyon.png" width="32%" />
+<img src="plots/spreads_2025-05-24-Ospreys_V_Lyon.png" width="32%" />
+</p>
+
+### Connacht V Bulls on 2025/05/02
+
+
+Average Margin: Bulls by 0.0
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Connacht_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Connacht_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Connacht_V_Bulls.png" width="32%" />
+</p>
+
+### Pau V Perpignan on 2025/05/02
+
+
+Average Margin: Pau by 6.1
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Pau_V_Perpignan.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Pau_V_Perpignan.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Pau_V_Perpignan.png" width="32%" />
+</p>
+
+### Connacht V Gloucester Rugby on 2025/05/02
+
+
+Average Margin: Connacht by 3.3
+
+<p float="left">
+<img src="plots/performances_2025-05-02-Connacht_V_GloucesterRugby.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Connacht_V_GloucesterRugby.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Connacht_V_GloucesterRugby.png" width="32%" />
+</p>
+
+### Edinburgh V Lyon on 2025/05/02
+
+
+Average Margin: Edinburgh by 4.1
+
+<p float="left">
+<img src="plots/performances_2025-05-02-Edinburgh_V_Lyon.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Edinburgh_V_Lyon.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Edinburgh_V_Lyon.png" width="32%" />
+</p>
+
+### Bayonne V Ospreys on 2025/05/02
+
+
+Average Margin: Bayonne by 4.2
+
+<p float="left">
+<img src="plots/performances_2025-05-02-Bayonne_V_Ospreys.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Bayonne_V_Ospreys.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Bayonne_V_Ospreys.png" width="32%" />
 </p>
 
 ### Connacht V Bath Rugby on 2025/05/02
 
 
-Average Margin: Bath Rugby by 2.0
+Average Margin: Bath Rugby by 3.5
 
 <p float="left">
 <img src="plots/performances_2025-04-11-Connacht_V_BathRugby.png" width="32%" />
@@ -1517,7 +1781,7 @@ Average Margin: Bath Rugby by 2.0
 ### Connacht V Lyon on 2025/05/02
 
 
-Average Margin: Connacht by 5.5
+Average Margin: Connacht by 4.6
 
 <p float="left">
 <img src="plots/performances_2025-05-02-Connacht_V_Lyon.png" width="32%" />
@@ -1525,213 +1789,81 @@ Average Margin: Connacht by 5.5
 <img src="plots/spreads_2025-05-02-Connacht_V_Lyon.png" width="32%" />
 </p>
 
-### Edinburgh V Bulls on 2025/05/02
+### Connacht V Bayonne on 2025/05/02
 
 
-Average Margin: Edinburgh by 0.1
+Average Margin: Connacht by 3.0
 
 <p float="left">
-<img src="plots/performances_2025-04-11-Edinburgh_V_Bulls.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Edinburgh_V_Bulls.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Edinburgh_V_Bulls.png" width="32%" />
+<img src="plots/performances_2025-05-02-Connacht_V_Bayonne.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Connacht_V_Bayonne.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Connacht_V_Bayonne.png" width="32%" />
 </p>
 
-### Lyon V Racing 92 on 2025/05/02
+### Perpignan V Bath Rugby on 2025/05/02
 
 
-Average Margin: Lyon by 1.8
+Average Margin: Bath Rugby by 9.7
 
 <p float="left">
-<img src="plots/performances_2025-05-02-Lyon_V_Racing92.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Lyon_V_Racing92.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Lyon_V_Racing92.png" width="32%" />
+<img src="plots/performances_2025-05-02-Perpignan_V_BathRugby.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Perpignan_V_BathRugby.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Perpignan_V_BathRugby.png" width="32%" />
 </p>
 
-### Montpellier Herault V Edinburgh on 2025/05/02
+### Edinburgh V Sharks on 2025/05/02
 
 
-Average Margin: Montpellier Herault by 3.4
+Average Margin: Edinburgh by 3.5
 
 <p float="left">
-<img src="plots/performances_2025-05-02-MontpellierHerault_V_Edinburgh.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-MontpellierHerault_V_Edinburgh.png" width="32%" />
-<img src="plots/spreads_2025-05-02-MontpellierHerault_V_Edinburgh.png" width="32%" />
+<img src="plots/performances_2025-04-11-Edinburgh_V_Sharks.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Edinburgh_V_Sharks.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Edinburgh_V_Sharks.png" width="32%" />
 </p>
 
-### Ospreys V Racing 92 on 2025/05/02
+### Connacht V Scarlets on 2025/05/02
 
 
-Average Margin: Racing 92 by 0.4
+Average Margin: Connacht by 11.6
 
 <p float="left">
-<img src="plots/performances_2025-05-02-Ospreys_V_Racing92.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Ospreys_V_Racing92.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Ospreys_V_Racing92.png" width="32%" />
+<img src="plots/performances_2025-05-02-Connacht_V_Scarlets.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Connacht_V_Scarlets.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Connacht_V_Scarlets.png" width="32%" />
 </p>
 
-### Lions V Bath Rugby on 2025/05/02
+### Lyon V Perpignan on 2025/05/02
 
 
-Average Margin: Bath Rugby by 2.6
-
-<p float="left">
-<img src="plots/performances_2025-05-24-Lions_V_BathRugby.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-Lions_V_BathRugby.png" width="32%" />
-<img src="plots/spreads_2025-05-24-Lions_V_BathRugby.png" width="32%" />
-</p>
-
-### Montpellier Herault V Bayonne on 2025/05/02
-
-
-Average Margin: Montpellier Herault by 2.8
+Average Margin: Lyon by 6.4
 
 <p float="left">
-<img src="plots/performances_2025-05-02-MontpellierHerault_V_Bayonne.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-MontpellierHerault_V_Bayonne.png" width="32%" />
-<img src="plots/spreads_2025-05-02-MontpellierHerault_V_Bayonne.png" width="32%" />
-</p>
-
-### Connacht V Lions on 2025/05/02
-
-
-Average Margin: Connacht by 5.3
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Connacht_V_Lions.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Connacht_V_Lions.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Connacht_V_Lions.png" width="32%" />
-</p>
-
-### Edinburgh V Lyon on 2025/05/02
-
-
-Average Margin: Edinburgh by 5.2
-
-<p float="left">
-<img src="plots/performances_2025-05-02-Edinburgh_V_Lyon.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Edinburgh_V_Lyon.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Edinburgh_V_Lyon.png" width="32%" />
-</p>
-
-### Montpellier Herault V Ospreys on 2025/05/02
-
-
-Average Margin: Montpellier Herault by 6.2
-
-<p float="left">
-<img src="plots/performances_2025-05-02-MontpellierHerault_V_Ospreys.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-MontpellierHerault_V_Ospreys.png" width="32%" />
-<img src="plots/spreads_2025-05-02-MontpellierHerault_V_Ospreys.png" width="32%" />
-</p>
-
-### Ospreys V Sharks on 2025/05/02
-
-
-Average Margin: Ospreys by 2.1
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Ospreys_V_Sharks.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Ospreys_V_Sharks.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Ospreys_V_Sharks.png" width="32%" />
-</p>
-
-### Montpellier Herault V Scarlets on 2025/05/02
-
-
-Average Margin: Montpellier Herault by 12.9
-
-<p float="left">
-<img src="plots/performances_2025-05-02-MontpellierHerault_V_Scarlets.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-MontpellierHerault_V_Scarlets.png" width="32%" />
-<img src="plots/spreads_2025-05-02-MontpellierHerault_V_Scarlets.png" width="32%" />
-</p>
-
-### Montpellier Herault V Lyon on 2025/05/02
-
-
-Average Margin: Montpellier Herault by 4.2
-
-<p float="left">
-<img src="plots/performances_2025-05-24-MontpellierHerault_V_Lyon.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-MontpellierHerault_V_Lyon.png" width="32%" />
-<img src="plots/spreads_2025-05-24-MontpellierHerault_V_Lyon.png" width="32%" />
-</p>
-
-### Connacht V Sharks on 2025/05/02
-
-
-Average Margin: Connacht by 2.9
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Connacht_V_Sharks.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Connacht_V_Sharks.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Connacht_V_Sharks.png" width="32%" />
-</p>
-
-### Edinburgh V Ospreys on 2025/05/02
-
-
-Average Margin: Edinburgh by 4.1
-
-<p float="left">
-<img src="plots/performances_2025-05-02-Edinburgh_V_Ospreys.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Edinburgh_V_Ospreys.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Edinburgh_V_Ospreys.png" width="32%" />
-</p>
-
-### Lyon V Bulls on 2025/05/02
-
-
-Average Margin: Bulls by 0.9
-
-<p float="left">
-<img src="plots/performances_2025-05-02-Lyon_V_Bulls.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Lyon_V_Bulls.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Lyon_V_Bulls.png" width="32%" />
-</p>
-
-### Scarlets V Bath Rugby on 2025/05/02
-
-
-Average Margin: Bath Rugby by 9.6
-
-<p float="left">
-<img src="plots/performances_2025-05-02-Scarlets_V_BathRugby.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Scarlets_V_BathRugby.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Scarlets_V_BathRugby.png" width="32%" />
-</p>
-
-### Connacht V Bulls on 2025/05/02
-
-
-Average Margin: Connacht by 0.1
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Connacht_V_Bulls.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Connacht_V_Bulls.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Connacht_V_Bulls.png" width="32%" />
+<img src="plots/performances_2025-04-11-Lyon_V_Perpignan.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Lyon_V_Perpignan.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Lyon_V_Perpignan.png" width="32%" />
 </p>
 
 ### Lyon V Bath Rugby on 2025/05/02
 
 
-Average Margin: Bath Rugby by 5.6
+Average Margin: Bath Rugby by 4.0
 
 <p float="left">
-<img src="plots/performances_2025-05-02-Lyon_V_BathRugby.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Lyon_V_BathRugby.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Lyon_V_BathRugby.png" width="32%" />
+<img src="plots/performances_2025-05-24-Lyon_V_BathRugby.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-Lyon_V_BathRugby.png" width="32%" />
+<img src="plots/spreads_2025-05-24-Lyon_V_BathRugby.png" width="32%" />
 </p>
 
-### Montpellier Herault V Bulls on 2025/05/02
+### Edinburgh V Bath Rugby on 2025/05/02
 
 
-Average Margin: Montpellier Herault by 1.4
+Average Margin: Bath Rugby by 2.2
 
 <p float="left">
-<img src="plots/performances_2025-04-11-MontpellierHerault_V_Bulls.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-MontpellierHerault_V_Bulls.png" width="32%" />
-<img src="plots/spreads_2025-04-11-MontpellierHerault_V_Bulls.png" width="32%" />
+<img src="plots/performances_2025-04-11-Edinburgh_V_BathRugby.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Edinburgh_V_BathRugby.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Edinburgh_V_BathRugby.png" width="32%" />
 </p>
 
 ### Edinburgh V Bayonne on 2025/05/02
@@ -1745,131 +1877,188 @@ Average Margin: Edinburgh by 5.1
 <img src="plots/spreads_2025-04-11-Edinburgh_V_Bayonne.png" width="32%" />
 </p>
 
-### Lyon V Bayonne on 2025/05/02
+### Lyon V Bulls on 2025/05/02
 
 
-Average Margin: Lyon by 3.0
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Lyon_V_Bayonne.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Lyon_V_Bayonne.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Lyon_V_Bayonne.png" width="32%" />
-</p>
-
-### Montpellier Herault V Cardiff Blues on 2025/05/02
-
-
-Average Margin: Montpellier Herault by 13.2
+Average Margin: Bulls by 2.5
 
 <p float="left">
-<img src="plots/performances_2025-04-11-MontpellierHerault_V_CardiffBlues.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-MontpellierHerault_V_CardiffBlues.png" width="32%" />
-<img src="plots/spreads_2025-04-11-MontpellierHerault_V_CardiffBlues.png" width="32%" />
+<img src="plots/performances_2025-05-24-Lyon_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-Lyon_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2025-05-24-Lyon_V_Bulls.png" width="32%" />
 </p>
 
-### Ospreys V Bayonne on 2025/05/02
+### Montpellier Herault V Lyon on 2025/05/02
 
 
-Average Margin: Ospreys by 3.2
+Average Margin: Montpellier Herault by 4.4
 
 <p float="left">
-<img src="plots/performances_2025-04-11-Ospreys_V_Bayonne.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Ospreys_V_Bayonne.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Ospreys_V_Bayonne.png" width="32%" />
+<img src="plots/performances_2025-05-24-MontpellierHerault_V_Lyon.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-MontpellierHerault_V_Lyon.png" width="32%" />
+<img src="plots/spreads_2025-05-24-MontpellierHerault_V_Lyon.png" width="32%" />
 </p>
 
-### Bayonne V Pau on 2025/05/02
+### Montpellier Herault V Ospreys on 2025/05/02
 
 
-Average Margin: Bayonne by 7.0
+Average Margin: Montpellier Herault by 5.2
 
 <p float="left">
-<img src="plots/performances_2025-05-02-Bayonne_V_Pau.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Bayonne_V_Pau.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Bayonne_V_Pau.png" width="32%" />
+<img src="plots/performances_2025-05-24-MontpellierHerault_V_Ospreys.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-MontpellierHerault_V_Ospreys.png" width="32%" />
+<img src="plots/spreads_2025-05-24-MontpellierHerault_V_Ospreys.png" width="32%" />
 </p>
 
-### Ospreys V Bulls on 2025/05/02
+### Ospreys V Racing 92 on 2025/05/02
 
 
-Average Margin: Bulls by 3.1
+Average Margin: Ospreys by 4.9
 
 <p float="left">
-<img src="plots/performances_2025-04-11-Ospreys_V_Bulls.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Ospreys_V_Bulls.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Ospreys_V_Bulls.png" width="32%" />
+<img src="plots/performances_2025-05-02-Ospreys_V_Racing92.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Ospreys_V_Racing92.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Ospreys_V_Racing92.png" width="32%" />
 </p>
 
-### Edinburgh V Racing 92 on 2025/05/02
+### Connacht V Ospreys on 2025/05/02
 
 
-Average Margin: Edinburgh by 1.3
+Average Margin: Connacht by 3.4
 
 <p float="left">
-<img src="plots/performances_2025-05-02-Edinburgh_V_Racing92.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Edinburgh_V_Racing92.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Edinburgh_V_Racing92.png" width="32%" />
+<img src="plots/performances_2025-05-02-Connacht_V_Ospreys.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Connacht_V_Ospreys.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Connacht_V_Ospreys.png" width="32%" />
 </p>
 
-### Lyon V Perpignan on 2025/05/02
+### Lyon V Lions on 2025/05/02
 
 
-Average Margin: Lyon by 7.0
+Average Margin: Lyon by 5.4
 
 <p float="left">
-<img src="plots/performances_2025-04-11-Lyon_V_Perpignan.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Lyon_V_Perpignan.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Lyon_V_Perpignan.png" width="32%" />
+<img src="plots/performances_2025-04-11-Lyon_V_Lions.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Lyon_V_Lions.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Lyon_V_Lions.png" width="32%" />
 </p>
 
-### Bayonne V Bath Rugby on 2025/05/02
+### Montpellier Herault V Pau on 2025/05/02
 
 
-Average Margin: Bath Rugby by 4.1
+Average Margin: Montpellier Herault by 3.7
 
 <p float="left">
-<img src="plots/performances_2025-04-11-Bayonne_V_BathRugby.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Bayonne_V_BathRugby.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Bayonne_V_BathRugby.png" width="32%" />
+<img src="plots/performances_2025-05-02-MontpellierHerault_V_Pau.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-MontpellierHerault_V_Pau.png" width="32%" />
+<img src="plots/spreads_2025-05-02-MontpellierHerault_V_Pau.png" width="32%" />
 </p>
 
-### Bayonne V Lyon on 2025/05/02
+### Montpellier Herault V Edinburgh on 2025/05/02
 
 
-Average Margin: Bayonne by 2.6
+Average Margin: Montpellier Herault by 2.4
 
 <p float="left">
-<img src="plots/performances_2025-05-02-Bayonne_V_Lyon.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Bayonne_V_Lyon.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Bayonne_V_Lyon.png" width="32%" />
+<img src="plots/performances_2025-05-24-MontpellierHerault_V_Edinburgh.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-MontpellierHerault_V_Edinburgh.png" width="32%" />
+<img src="plots/spreads_2025-05-24-MontpellierHerault_V_Edinburgh.png" width="32%" />
 </p>
 
-### Edinburgh V Sharks on 2025/05/02
+### Montpellier Herault V Bulls on 2025/05/02
 
 
-Average Margin: Edinburgh by 6.4
+Average Margin: Bulls by 0.4
 
 <p float="left">
-<img src="plots/performances_2025-05-02-Edinburgh_V_Sharks.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Edinburgh_V_Sharks.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Edinburgh_V_Sharks.png" width="32%" />
+<img src="plots/performances_2025-05-02-MontpellierHerault_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-MontpellierHerault_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2025-05-02-MontpellierHerault_V_Bulls.png" width="32%" />
 </p>
 
-### Connacht V Pau on 2025/05/02
+## Finals
+
+### Connacht V Lyon on 2025/05/24
 
 
-Average Margin: Connacht by 7.4
+Average Margin: Connacht by 4.6
 
 <p float="left">
-<img src="plots/performances_2025-05-02-Connacht_V_Pau.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Connacht_V_Pau.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Connacht_V_Pau.png" width="32%" />
+<img src="plots/performances_2025-05-02-Connacht_V_Lyon.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Connacht_V_Lyon.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Connacht_V_Lyon.png" width="32%" />
 </p>
 
-### Ospreys V Bath Rugby on 2025/05/02
+### Connacht V Edinburgh on 2025/05/24
 
 
-Average Margin: Bath Rugby by 4.5
+Average Margin: Connacht by 1.2
+
+<p float="left">
+<img src="plots/performances_2025-05-24-Connacht_V_Edinburgh.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-Connacht_V_Edinburgh.png" width="32%" />
+<img src="plots/spreads_2025-05-24-Connacht_V_Edinburgh.png" width="32%" />
+</p>
+
+### Connacht V Bayonne on 2025/05/24
+
+
+Average Margin: Connacht by 3.0
+
+<p float="left">
+<img src="plots/performances_2025-05-02-Connacht_V_Bayonne.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Connacht_V_Bayonne.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Connacht_V_Bayonne.png" width="32%" />
+</p>
+
+### Montpellier Herault V Edinburgh on 2025/05/24
+
+
+Average Margin: Montpellier Herault by 2.4
+
+<p float="left">
+<img src="plots/performances_2025-05-24-MontpellierHerault_V_Edinburgh.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-MontpellierHerault_V_Edinburgh.png" width="32%" />
+<img src="plots/spreads_2025-05-24-MontpellierHerault_V_Edinburgh.png" width="32%" />
+</p>
+
+### Montpellier Herault V Bayonne on 2025/05/24
+
+
+Average Margin: Montpellier Herault by 2.2
+
+<p float="left">
+<img src="plots/performances_2025-05-02-MontpellierHerault_V_Bayonne.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-MontpellierHerault_V_Bayonne.png" width="32%" />
+<img src="plots/spreads_2025-05-02-MontpellierHerault_V_Bayonne.png" width="32%" />
+</p>
+
+### Ospreys V Lyon on 2025/05/24
+
+
+Average Margin: Ospreys by 2.5
+
+<p float="left">
+<img src="plots/performances_2025-05-24-Ospreys_V_Lyon.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-Ospreys_V_Lyon.png" width="32%" />
+<img src="plots/spreads_2025-05-24-Ospreys_V_Lyon.png" width="32%" />
+</p>
+
+### Bath Rugby V Sharks on 2025/05/24
+
+
+Average Margin: Bath Rugby by 2.4
+
+<p float="left">
+<img src="plots/performances_2025-05-24-BathRugby_V_Sharks.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-BathRugby_V_Sharks.png" width="32%" />
+<img src="plots/spreads_2025-05-24-BathRugby_V_Sharks.png" width="32%" />
+</p>
+
+### Ospreys V Bath Rugby on 2025/05/24
+
+
+Average Margin: Bath Rugby by 5.9
 
 <p float="left">
 <img src="plots/performances_2025-05-02-Ospreys_V_BathRugby.png" width="32%" />
@@ -1877,182 +2066,213 @@ Average Margin: Bath Rugby by 4.5
 <img src="plots/spreads_2025-05-02-Ospreys_V_BathRugby.png" width="32%" />
 </p>
 
-### Montpellier Herault V Racing 92 on 2025/05/02
+### Edinburgh V Bath Rugby on 2025/05/24
 
 
-Average Margin: Montpellier Herault by 5.2
+Average Margin: Bath Rugby by 2.2
 
 <p float="left">
-<img src="plots/performances_2025-04-11-MontpellierHerault_V_Racing92.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-MontpellierHerault_V_Racing92.png" width="32%" />
-<img src="plots/spreads_2025-04-11-MontpellierHerault_V_Racing92.png" width="32%" />
+<img src="plots/performances_2025-04-11-Edinburgh_V_BathRugby.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Edinburgh_V_BathRugby.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Edinburgh_V_BathRugby.png" width="32%" />
 </p>
 
-### Montpellier Herault V Bath Rugby on 2025/05/02
+### Lyon V Racing 92 on 2025/05/24
 
 
-Average Margin: Bath Rugby by 2.3
+Average Margin: Lyon by 2.4
 
 <p float="left">
-<img src="plots/performances_2025-04-11-MontpellierHerault_V_BathRugby.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-MontpellierHerault_V_BathRugby.png" width="32%" />
-<img src="plots/spreads_2025-04-11-MontpellierHerault_V_BathRugby.png" width="32%" />
+<img src="plots/performances_2025-05-02-Lyon_V_Racing92.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Lyon_V_Racing92.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Lyon_V_Racing92.png" width="32%" />
 </p>
 
-### Connacht V Gloucester Rugby on 2025/05/02
+### Lyon V Lions on 2025/05/24
 
 
-Average Margin: Connacht by 4.7
+Average Margin: Lyon by 5.4
 
 <p float="left">
-<img src="plots/performances_2025-05-02-Connacht_V_GloucesterRugby.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Connacht_V_GloucesterRugby.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Connacht_V_GloucesterRugby.png" width="32%" />
+<img src="plots/performances_2025-04-11-Lyon_V_Lions.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Lyon_V_Lions.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Lyon_V_Lions.png" width="32%" />
 </p>
 
-### Bayonne V Perpignan on 2025/05/02
+### Edinburgh V Racing 92 on 2025/05/24
 
 
-Average Margin: Bayonne by 6.1
+Average Margin: Edinburgh by 4.5
 
 <p float="left">
-<img src="plots/performances_2025-05-02-Bayonne_V_Perpignan.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Bayonne_V_Perpignan.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Bayonne_V_Perpignan.png" width="32%" />
+<img src="plots/performances_2025-05-24-Edinburgh_V_Racing92.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-Edinburgh_V_Racing92.png" width="32%" />
+<img src="plots/spreads_2025-05-24-Edinburgh_V_Racing92.png" width="32%" />
 </p>
 
-### Bayonne V Ospreys on 2025/05/02
+### Montpellier Herault V Scarlets on 2025/05/24
 
 
-Average Margin: Bayonne by 3.5
+Average Margin: Montpellier Herault by 12.5
 
 <p float="left">
-<img src="plots/performances_2025-05-02-Bayonne_V_Ospreys.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Bayonne_V_Ospreys.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Bayonne_V_Ospreys.png" width="32%" />
+<img src="plots/performances_2025-04-11-MontpellierHerault_V_Scarlets.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-MontpellierHerault_V_Scarlets.png" width="32%" />
+<img src="plots/spreads_2025-04-11-MontpellierHerault_V_Scarlets.png" width="32%" />
 </p>
 
-### Ospreys V Lyon on 2025/05/02
+### Montpellier Herault V Pau on 2025/05/24
 
 
-Average Margin: Ospreys by 3.2
+Average Margin: Montpellier Herault by 3.7
 
 <p float="left">
-<img src="plots/performances_2025-04-11-Ospreys_V_Lyon.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Ospreys_V_Lyon.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Ospreys_V_Lyon.png" width="32%" />
+<img src="plots/performances_2025-05-02-MontpellierHerault_V_Pau.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-MontpellierHerault_V_Pau.png" width="32%" />
+<img src="plots/spreads_2025-05-02-MontpellierHerault_V_Pau.png" width="32%" />
 </p>
 
-## Finals
-
-### Lions V Bath Rugby on 2025/05/24
+### Montpellier Herault V Sharks on 2025/05/24
 
 
-Average Margin: Bath Rugby by 2.6
+Average Margin: Montpellier Herault by 5.1
 
 <p float="left">
-<img src="plots/performances_2025-05-24-Lions_V_BathRugby.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-Lions_V_BathRugby.png" width="32%" />
-<img src="plots/spreads_2025-05-24-Lions_V_BathRugby.png" width="32%" />
+<img src="plots/performances_2025-04-11-MontpellierHerault_V_Sharks.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-MontpellierHerault_V_Sharks.png" width="32%" />
+<img src="plots/spreads_2025-04-11-MontpellierHerault_V_Sharks.png" width="32%" />
 </p>
 
-### Bayonne V Pau on 2025/05/24
+### Connacht V Ospreys on 2025/05/24
 
 
-Average Margin: Bayonne by 7.0
+Average Margin: Connacht by 3.4
 
 <p float="left">
-<img src="plots/performances_2025-05-02-Bayonne_V_Pau.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Bayonne_V_Pau.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Bayonne_V_Pau.png" width="32%" />
+<img src="plots/performances_2025-05-02-Connacht_V_Ospreys.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Connacht_V_Ospreys.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Connacht_V_Ospreys.png" width="32%" />
 </p>
 
-### Lyon V Gloucester Rugby on 2025/05/24
+### Lyon V Bath Rugby on 2025/05/24
 
 
-Average Margin: Lyon by 3.2
+Average Margin: Bath Rugby by 4.0
 
 <p float="left">
-<img src="plots/performances_2025-04-11-Lyon_V_GloucesterRugby.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Lyon_V_GloucesterRugby.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Lyon_V_GloucesterRugby.png" width="32%" />
+<img src="plots/performances_2025-05-24-Lyon_V_BathRugby.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-Lyon_V_BathRugby.png" width="32%" />
+<img src="plots/spreads_2025-05-24-Lyon_V_BathRugby.png" width="32%" />
 </p>
 
-### Edinburgh V Sharks on 2025/05/24
+### Bayonne V Lyon on 2025/05/24
 
 
-Average Margin: Edinburgh by 6.4
+Average Margin: Bayonne by 3.9
 
 <p float="left">
-<img src="plots/performances_2025-05-02-Edinburgh_V_Sharks.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Edinburgh_V_Sharks.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Edinburgh_V_Sharks.png" width="32%" />
+<img src="plots/performances_2025-05-02-Bayonne_V_Lyon.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Bayonne_V_Lyon.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Bayonne_V_Lyon.png" width="32%" />
 </p>
 
-### Montpellier Herault V Ospreys on 2025/05/24
+### Ospreys V Bayonne on 2025/05/24
 
 
-Average Margin: Montpellier Herault by 6.2
-
-<p float="left">
-<img src="plots/performances_2025-05-02-MontpellierHerault_V_Ospreys.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-MontpellierHerault_V_Ospreys.png" width="32%" />
-<img src="plots/spreads_2025-05-02-MontpellierHerault_V_Ospreys.png" width="32%" />
-</p>
-
-### Ospreys V Sharks on 2025/05/24
-
-
-Average Margin: Ospreys by 2.1
+Average Margin: Ospreys by 2.5
 
 <p float="left">
-<img src="plots/performances_2025-04-11-Ospreys_V_Sharks.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Ospreys_V_Sharks.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Ospreys_V_Sharks.png" width="32%" />
-</p>
-
-### Lyon V Pau on 2025/05/24
-
-
-Average Margin: Lyon by 5.3
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Lyon_V_Pau.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Lyon_V_Pau.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Lyon_V_Pau.png" width="32%" />
+<img src="plots/performances_2025-04-11-Ospreys_V_Bayonne.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Ospreys_V_Bayonne.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Ospreys_V_Bayonne.png" width="32%" />
 </p>
 
 ### Scarlets V Bulls on 2025/05/24
 
 
-Average Margin: Bulls by 10.2
+Average Margin: Bulls by 5.9
 
 <p float="left">
-<img src="plots/performances_2025-05-02-Scarlets_V_Bulls.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Scarlets_V_Bulls.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Scarlets_V_Bulls.png" width="32%" />
+<img src="plots/performances_2025-04-11-Scarlets_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Scarlets_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Scarlets_V_Bulls.png" width="32%" />
 </p>
 
-### Lions V Bulls on 2025/05/24
+### Ospreys V Sharks on 2025/05/24
 
 
-Average Margin: Lions by 1.9
+Average Margin: Ospreys by 0.6
 
 <p float="left">
-<img src="plots/performances_2025-04-11-Lions_V_Bulls.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Lions_V_Bulls.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Lions_V_Bulls.png" width="32%" />
+<img src="plots/performances_2025-05-24-Ospreys_V_Sharks.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-Ospreys_V_Sharks.png" width="32%" />
+<img src="plots/spreads_2025-05-24-Ospreys_V_Sharks.png" width="32%" />
 </p>
 
-### Connacht V Bayonne on 2025/05/24
+### Connacht V Lions on 2025/05/24
 
 
-Average Margin: Connacht by 2.7
+Average Margin: Connacht by 3.4
 
 <p float="left">
-<img src="plots/performances_2025-05-24-Connacht_V_Bayonne.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-Connacht_V_Bayonne.png" width="32%" />
-<img src="plots/spreads_2025-05-24-Connacht_V_Bayonne.png" width="32%" />
+<img src="plots/performances_2025-05-02-Connacht_V_Lions.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Connacht_V_Lions.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Connacht_V_Lions.png" width="32%" />
+</p>
+
+### Montpellier Herault V Connacht on 2025/05/24
+
+
+Average Margin: Montpellier Herault by 3.8
+
+<p float="left">
+<img src="plots/performances_2025-05-24-MontpellierHerault_V_Connacht.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-MontpellierHerault_V_Connacht.png" width="32%" />
+<img src="plots/spreads_2025-05-24-MontpellierHerault_V_Connacht.png" width="32%" />
+</p>
+
+### Edinburgh V Perpignan on 2025/05/24
+
+
+Average Margin: Edinburgh by 7.7
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Edinburgh_V_Perpignan.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Edinburgh_V_Perpignan.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Edinburgh_V_Perpignan.png" width="32%" />
+</p>
+
+### Bath Rugby V Bulls on 2025/05/24
+
+
+Average Margin: Bath Rugby by 0.3
+
+<p float="left">
+<img src="plots/performances_2025-05-24-BathRugby_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-BathRugby_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2025-05-24-BathRugby_V_Bulls.png" width="32%" />
+</p>
+
+### Ospreys V Perpignan on 2025/05/24
+
+
+Average Margin: Ospreys by 6.8
+
+<p float="left">
+<img src="plots/performances_2025-05-02-Ospreys_V_Perpignan.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Ospreys_V_Perpignan.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Ospreys_V_Perpignan.png" width="32%" />
+</p>
+
+### Montpellier Herault V Bath Rugby on 2025/05/24
+
+
+Average Margin: Bath Rugby by 2.2
+
+<p float="left">
+<img src="plots/performances_2025-05-02-MontpellierHerault_V_BathRugby.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-MontpellierHerault_V_BathRugby.png" width="32%" />
+<img src="plots/spreads_2025-05-02-MontpellierHerault_V_BathRugby.png" width="32%" />
 </p>
 
 ### Edinburgh V Bayonne on 2025/05/24
@@ -2066,208 +2286,21 @@ Average Margin: Edinburgh by 5.1
 <img src="plots/spreads_2025-04-11-Edinburgh_V_Bayonne.png" width="32%" />
 </p>
 
-### Connacht V Montpellier Herault on 2025/05/24
+### Lyon V Ospreys on 2025/05/24
 
 
-Average Margin: Montpellier Herault by 0.7
-
-<p float="left">
-<img src="plots/performances_2025-05-24-Connacht_V_MontpellierHerault.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-Connacht_V_MontpellierHerault.png" width="32%" />
-<img src="plots/spreads_2025-05-24-Connacht_V_MontpellierHerault.png" width="32%" />
-</p>
-
-### Montpellier Herault V Sharks on 2025/05/24
-
-
-Average Margin: Montpellier Herault by 4.3
+Average Margin: Lyon by 4.7
 
 <p float="left">
-<img src="plots/performances_2025-04-11-MontpellierHerault_V_Sharks.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-MontpellierHerault_V_Sharks.png" width="32%" />
-<img src="plots/spreads_2025-04-11-MontpellierHerault_V_Sharks.png" width="32%" />
-</p>
-
-### Edinburgh V Cardiff Blues on 2025/05/24
-
-
-Average Margin: Edinburgh by 12.9
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Edinburgh_V_CardiffBlues.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Edinburgh_V_CardiffBlues.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Edinburgh_V_CardiffBlues.png" width="32%" />
-</p>
-
-### Bayonne V Scarlets on 2025/05/24
-
-
-Average Margin: Bayonne by 10.6
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Bayonne_V_Scarlets.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Bayonne_V_Scarlets.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Bayonne_V_Scarlets.png" width="32%" />
-</p>
-
-### Montpellier Herault V Edinburgh on 2025/05/24
-
-
-Average Margin: Montpellier Herault by 3.4
-
-<p float="left">
-<img src="plots/performances_2025-05-02-MontpellierHerault_V_Edinburgh.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-MontpellierHerault_V_Edinburgh.png" width="32%" />
-<img src="plots/spreads_2025-05-02-MontpellierHerault_V_Edinburgh.png" width="32%" />
-</p>
-
-### Ospreys V Pau on 2025/05/24
-
-
-Average Margin: Ospreys by 5.1
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Ospreys_V_Pau.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Ospreys_V_Pau.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Ospreys_V_Pau.png" width="32%" />
-</p>
-
-### Montpellier Herault V Racing 92 on 2025/05/24
-
-
-Average Margin: Montpellier Herault by 5.2
-
-<p float="left">
-<img src="plots/performances_2025-04-11-MontpellierHerault_V_Racing92.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-MontpellierHerault_V_Racing92.png" width="32%" />
-<img src="plots/spreads_2025-04-11-MontpellierHerault_V_Racing92.png" width="32%" />
-</p>
-
-### Bayonne V Racing 92 on 2025/05/24
-
-
-Average Margin: Racing 92 by 3.1
-
-<p float="left">
-<img src="plots/performances_2025-05-24-Bayonne_V_Racing92.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-Bayonne_V_Racing92.png" width="32%" />
-<img src="plots/spreads_2025-05-24-Bayonne_V_Racing92.png" width="32%" />
-</p>
-
-### Connacht V Perpignan on 2025/05/24
-
-
-Average Margin: Connacht by 6.2
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Connacht_V_Perpignan.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Connacht_V_Perpignan.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Connacht_V_Perpignan.png" width="32%" />
-</p>
-
-### Bayonne V Lyon on 2025/05/24
-
-
-Average Margin: Bayonne by 2.6
-
-<p float="left">
-<img src="plots/performances_2025-05-02-Bayonne_V_Lyon.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Bayonne_V_Lyon.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Bayonne_V_Lyon.png" width="32%" />
-</p>
-
-### Montpellier Herault V Scarlets on 2025/05/24
-
-
-Average Margin: Montpellier Herault by 12.9
-
-<p float="left">
-<img src="plots/performances_2025-05-02-MontpellierHerault_V_Scarlets.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-MontpellierHerault_V_Scarlets.png" width="32%" />
-<img src="plots/spreads_2025-05-02-MontpellierHerault_V_Scarlets.png" width="32%" />
-</p>
-
-### Edinburgh V Bath Rugby on 2025/05/24
-
-
-Average Margin: Bath Rugby by 3.3
-
-<p float="left">
-<img src="plots/performances_2025-05-24-Edinburgh_V_BathRugby.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-Edinburgh_V_BathRugby.png" width="32%" />
-<img src="plots/spreads_2025-05-24-Edinburgh_V_BathRugby.png" width="32%" />
-</p>
-
-### Scarlets V Bath Rugby on 2025/05/24
-
-
-Average Margin: Bath Rugby by 9.6
-
-<p float="left">
-<img src="plots/performances_2025-05-02-Scarlets_V_BathRugby.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Scarlets_V_BathRugby.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Scarlets_V_BathRugby.png" width="32%" />
-</p>
-
-### Lyon V Bayonne on 2025/05/24
-
-
-Average Margin: Lyon by 3.0
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Lyon_V_Bayonne.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Lyon_V_Bayonne.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Lyon_V_Bayonne.png" width="32%" />
-</p>
-
-### Montpellier Herault V Pau on 2025/05/24
-
-
-Average Margin: Montpellier Herault by 6.6
-
-<p float="left">
-<img src="plots/performances_2025-05-02-MontpellierHerault_V_Pau.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-MontpellierHerault_V_Pau.png" width="32%" />
-<img src="plots/spreads_2025-05-02-MontpellierHerault_V_Pau.png" width="32%" />
-</p>
-
-### Montpellier Herault V Lyon on 2025/05/24
-
-
-Average Margin: Montpellier Herault by 4.2
-
-<p float="left">
-<img src="plots/performances_2025-05-24-MontpellierHerault_V_Lyon.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-MontpellierHerault_V_Lyon.png" width="32%" />
-<img src="plots/spreads_2025-05-24-MontpellierHerault_V_Lyon.png" width="32%" />
-</p>
-
-### Montpellier Herault V Bayonne on 2025/05/24
-
-
-Average Margin: Montpellier Herault by 2.8
-
-<p float="left">
-<img src="plots/performances_2025-05-02-MontpellierHerault_V_Bayonne.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-MontpellierHerault_V_Bayonne.png" width="32%" />
-<img src="plots/spreads_2025-05-02-MontpellierHerault_V_Bayonne.png" width="32%" />
-</p>
-
-### Ospreys V Bath Rugby on 2025/05/24
-
-
-Average Margin: Bath Rugby by 4.5
-
-<p float="left">
-<img src="plots/performances_2025-05-02-Ospreys_V_BathRugby.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Ospreys_V_BathRugby.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Ospreys_V_BathRugby.png" width="32%" />
+<img src="plots/performances_2025-04-11-Lyon_V_Ospreys.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Lyon_V_Ospreys.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Lyon_V_Ospreys.png" width="32%" />
 </p>
 
 ### Edinburgh V Lyon on 2025/05/24
 
 
-Average Margin: Edinburgh by 5.2
+Average Margin: Edinburgh by 4.1
 
 <p float="left">
 <img src="plots/performances_2025-05-02-Edinburgh_V_Lyon.png" width="32%" />
@@ -2275,417 +2308,10 @@ Average Margin: Edinburgh by 5.2
 <img src="plots/spreads_2025-05-02-Edinburgh_V_Lyon.png" width="32%" />
 </p>
 
-### Bayonne V Lions on 2025/05/24
-
-
-Average Margin: Bayonne by 1.8
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Bayonne_V_Lions.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Bayonne_V_Lions.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Bayonne_V_Lions.png" width="32%" />
-</p>
-
-### Lyon V Bath Rugby on 2025/05/24
-
-
-Average Margin: Bath Rugby by 5.6
-
-<p float="left">
-<img src="plots/performances_2025-05-02-Lyon_V_BathRugby.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Lyon_V_BathRugby.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Lyon_V_BathRugby.png" width="32%" />
-</p>
-
-### Racing 92 V Bath Rugby on 2025/05/24
-
-
-Average Margin: Bath Rugby by 3.9
-
-<p float="left">
-<img src="plots/performances_2025-05-24-Racing92_V_BathRugby.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-Racing92_V_BathRugby.png" width="32%" />
-<img src="plots/spreads_2025-05-24-Racing92_V_BathRugby.png" width="32%" />
-</p>
-
-### Bayonne V Bath Rugby on 2025/05/24
-
-
-Average Margin: Bath Rugby by 4.1
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Bayonne_V_BathRugby.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Bayonne_V_BathRugby.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Bayonne_V_BathRugby.png" width="32%" />
-</p>
-
-### Ospreys V Racing 92 on 2025/05/24
-
-
-Average Margin: Racing 92 by 0.4
-
-<p float="left">
-<img src="plots/performances_2025-05-02-Ospreys_V_Racing92.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Ospreys_V_Racing92.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Ospreys_V_Racing92.png" width="32%" />
-</p>
-
-### Edinburgh V Racing 92 on 2025/05/24
-
-
-Average Margin: Edinburgh by 1.3
-
-<p float="left">
-<img src="plots/performances_2025-05-02-Edinburgh_V_Racing92.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Edinburgh_V_Racing92.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Edinburgh_V_Racing92.png" width="32%" />
-</p>
-
-### Connacht V Lions on 2025/05/24
-
-
-Average Margin: Connacht by 5.3
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Connacht_V_Lions.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Connacht_V_Lions.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Connacht_V_Lions.png" width="32%" />
-</p>
-
-### Bath Rugby V Sharks on 2025/05/24
-
-
-Average Margin: Bath Rugby by 5.3
-
-<p float="left">
-<img src="plots/performances_2025-05-24-BathRugby_V_Sharks.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-BathRugby_V_Sharks.png" width="32%" />
-<img src="plots/spreads_2025-05-24-BathRugby_V_Sharks.png" width="32%" />
-</p>
-
-### Connacht V Bulls on 2025/05/24
-
-
-Average Margin: Connacht by 0.1
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Connacht_V_Bulls.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Connacht_V_Bulls.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Connacht_V_Bulls.png" width="32%" />
-</p>
-
-### Edinburgh V Pau on 2025/05/24
-
-
-Average Margin: Edinburgh by 5.9
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Edinburgh_V_Pau.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Edinburgh_V_Pau.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Edinburgh_V_Pau.png" width="32%" />
-</p>
-
-### Montpellier Herault V Lions on 2025/05/24
-
-
-Average Margin: Montpellier Herault by 3.0
-
-<p float="left">
-<img src="plots/performances_2025-04-11-MontpellierHerault_V_Lions.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-MontpellierHerault_V_Lions.png" width="32%" />
-<img src="plots/spreads_2025-04-11-MontpellierHerault_V_Lions.png" width="32%" />
-</p>
-
-### Ospreys V Gloucester Rugby on 2025/05/24
-
-
-Average Margin: Ospreys by 7.1
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Ospreys_V_GloucesterRugby.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Ospreys_V_GloucesterRugby.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Ospreys_V_GloucesterRugby.png" width="32%" />
-</p>
-
-### Bayonne V Ospreys on 2025/05/24
-
-
-Average Margin: Bayonne by 3.5
-
-<p float="left">
-<img src="plots/performances_2025-05-02-Bayonne_V_Ospreys.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Bayonne_V_Ospreys.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Bayonne_V_Ospreys.png" width="32%" />
-</p>
-
-### Bayonne V Gloucester Rugby on 2025/05/24
-
-
-Average Margin: Gloucester Rugby by 1.7
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Bayonne_V_GloucesterRugby.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Bayonne_V_GloucesterRugby.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Bayonne_V_GloucesterRugby.png" width="32%" />
-</p>
-
-### Montpellier Herault V Bulls on 2025/05/24
-
-
-Average Margin: Montpellier Herault by 1.4
-
-<p float="left">
-<img src="plots/performances_2025-04-11-MontpellierHerault_V_Bulls.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-MontpellierHerault_V_Bulls.png" width="32%" />
-<img src="plots/spreads_2025-04-11-MontpellierHerault_V_Bulls.png" width="32%" />
-</p>
-
-### Ospreys V Bulls on 2025/05/24
-
-
-Average Margin: Bulls by 3.1
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Ospreys_V_Bulls.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Ospreys_V_Bulls.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Ospreys_V_Bulls.png" width="32%" />
-</p>
-
-### Gloucester Rugby V Bulls on 2025/05/24
-
-
-Average Margin: Bulls by 5.1
-
-<p float="left">
-<img src="plots/performances_2025-05-24-GloucesterRugby_V_Bulls.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-GloucesterRugby_V_Bulls.png" width="32%" />
-<img src="plots/spreads_2025-05-24-GloucesterRugby_V_Bulls.png" width="32%" />
-</p>
-
-### Lyon V Bulls on 2025/05/24
-
-
-Average Margin: Bulls by 0.9
-
-<p float="left">
-<img src="plots/performances_2025-05-02-Lyon_V_Bulls.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Lyon_V_Bulls.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Lyon_V_Bulls.png" width="32%" />
-</p>
-
-### Connacht V Edinburgh on 2025/05/24
-
-
-Average Margin: Connacht by 0.9
-
-<p float="left">
-<img src="plots/performances_2025-05-24-Connacht_V_Edinburgh.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-Connacht_V_Edinburgh.png" width="32%" />
-<img src="plots/spreads_2025-05-24-Connacht_V_Edinburgh.png" width="32%" />
-</p>
-
-### Lyon V Scarlets on 2025/05/24
-
-
-Average Margin: Lyon by 7.2
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Lyon_V_Scarlets.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Lyon_V_Scarlets.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Lyon_V_Scarlets.png" width="32%" />
-</p>
-
-### Lyon V Lions on 2025/05/24
-
-
-Average Margin: Lyon by 2.4
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Lyon_V_Lions.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Lyon_V_Lions.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Lyon_V_Lions.png" width="32%" />
-</p>
-
-### Connacht V Scarlets on 2025/05/24
-
-
-Average Margin: Connacht by 10.4
-
-<p float="left">
-<img src="plots/performances_2025-05-02-Connacht_V_Scarlets.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Connacht_V_Scarlets.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Connacht_V_Scarlets.png" width="32%" />
-</p>
-
-### Lyon V Perpignan on 2025/05/24
-
-
-Average Margin: Lyon by 7.0
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Lyon_V_Perpignan.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Lyon_V_Perpignan.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Lyon_V_Perpignan.png" width="32%" />
-</p>
-
-### Connacht V Bath Rugby on 2025/05/24
-
-
-Average Margin: Bath Rugby by 2.0
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Connacht_V_BathRugby.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Connacht_V_BathRugby.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Connacht_V_BathRugby.png" width="32%" />
-</p>
-
-### Gloucester Rugby V Bath Rugby on 2025/05/24
-
-
-Average Margin: Bath Rugby by 11.4
-
-<p float="left">
-<img src="plots/performances_2025-05-02-GloucesterRugby_V_BathRugby.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-GloucesterRugby_V_BathRugby.png" width="32%" />
-<img src="plots/spreads_2025-05-02-GloucesterRugby_V_BathRugby.png" width="32%" />
-</p>
-
-### Bath Rugby V Bulls on 2025/05/24
-
-
-Average Margin: Bath Rugby by 2.1
-
-<p float="left">
-<img src="plots/performances_2025-05-24-BathRugby_V_Bulls.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-BathRugby_V_Bulls.png" width="32%" />
-<img src="plots/spreads_2025-05-24-BathRugby_V_Bulls.png" width="32%" />
-</p>
-
-### Montpellier Herault V Connacht on 2025/05/24
-
-
-Average Margin: Montpellier Herault by 0.6
-
-<p float="left">
-<img src="plots/performances_2025-05-24-MontpellierHerault_V_Connacht.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-MontpellierHerault_V_Connacht.png" width="32%" />
-<img src="plots/spreads_2025-05-24-MontpellierHerault_V_Connacht.png" width="32%" />
-</p>
-
-### Ospreys V Lions on 2025/05/24
-
-
-Average Margin: Ospreys by 1.8
-
-<p float="left">
-<img src="plots/performances_2025-05-02-Ospreys_V_Lions.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Ospreys_V_Lions.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Ospreys_V_Lions.png" width="32%" />
-</p>
-
-### Edinburgh V Gloucester Rugby on 2025/05/24
-
-
-Average Margin: Edinburgh by 5.4
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Edinburgh_V_GloucesterRugby.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Edinburgh_V_GloucesterRugby.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Edinburgh_V_GloucesterRugby.png" width="32%" />
-</p>
-
-### Montpellier Herault V Bath Rugby on 2025/05/24
-
-
-Average Margin: Bath Rugby by 2.3
-
-<p float="left">
-<img src="plots/performances_2025-04-11-MontpellierHerault_V_BathRugby.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-MontpellierHerault_V_BathRugby.png" width="32%" />
-<img src="plots/spreads_2025-04-11-MontpellierHerault_V_BathRugby.png" width="32%" />
-</p>
-
-### Ospreys V Lyon on 2025/05/24
-
-
-Average Margin: Ospreys by 3.2
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Ospreys_V_Lyon.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Ospreys_V_Lyon.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Ospreys_V_Lyon.png" width="32%" />
-</p>
-
-### Connacht V Ospreys on 2025/05/24
-
-
-Average Margin: Connacht by 6.0
-
-<p float="left">
-<img src="plots/performances_2025-05-02-Connacht_V_Ospreys.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Connacht_V_Ospreys.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Connacht_V_Ospreys.png" width="32%" />
-</p>
-
-### Lyon V Racing 92 on 2025/05/24
-
-
-Average Margin: Lyon by 1.8
-
-<p float="left">
-<img src="plots/performances_2025-05-02-Lyon_V_Racing92.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Lyon_V_Racing92.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Lyon_V_Racing92.png" width="32%" />
-</p>
-
-### Edinburgh V Perpignan on 2025/05/24
-
-
-Average Margin: Edinburgh by 8.7
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Edinburgh_V_Perpignan.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Edinburgh_V_Perpignan.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Edinburgh_V_Perpignan.png" width="32%" />
-</p>
-
-### Bayonne V Sharks on 2025/05/24
-
-
-Average Margin: Bayonne by 0.6
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Bayonne_V_Sharks.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Bayonne_V_Sharks.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Bayonne_V_Sharks.png" width="32%" />
-</p>
-
-### Edinburgh V Ospreys on 2025/05/24
-
-
-Average Margin: Edinburgh by 4.1
-
-<p float="left">
-<img src="plots/performances_2025-05-02-Edinburgh_V_Ospreys.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Edinburgh_V_Ospreys.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Edinburgh_V_Ospreys.png" width="32%" />
-</p>
-
-### Connacht V Lyon on 2025/05/24
-
-
-Average Margin: Connacht by 5.5
-
-<p float="left">
-<img src="plots/performances_2025-05-02-Connacht_V_Lyon.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Connacht_V_Lyon.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Connacht_V_Lyon.png" width="32%" />
-</p>
-
 ### Perpignan V Bath Rugby on 2025/05/24
 
 
-Average Margin: Bath Rugby by 10.8
+Average Margin: Bath Rugby by 9.7
 
 <p float="left">
 <img src="plots/performances_2025-05-02-Perpignan_V_BathRugby.png" width="32%" />
@@ -2693,32 +2319,296 @@ Average Margin: Bath Rugby by 10.8
 <img src="plots/spreads_2025-05-02-Perpignan_V_BathRugby.png" width="32%" />
 </p>
 
-### Edinburgh V Bulls on 2025/05/24
+### Montpellier Herault V Ospreys on 2025/05/24
 
 
-Average Margin: Edinburgh by 0.1
+Average Margin: Montpellier Herault by 5.2
 
 <p float="left">
-<img src="plots/performances_2025-04-11-Edinburgh_V_Bulls.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Edinburgh_V_Bulls.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Edinburgh_V_Bulls.png" width="32%" />
+<img src="plots/performances_2025-05-24-MontpellierHerault_V_Ospreys.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-MontpellierHerault_V_Ospreys.png" width="32%" />
+<img src="plots/spreads_2025-05-24-MontpellierHerault_V_Ospreys.png" width="32%" />
+</p>
+
+### Ospreys V Bulls on 2025/05/24
+
+
+Average Margin: Bulls by 2.8
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Ospreys_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Ospreys_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Ospreys_V_Bulls.png" width="32%" />
+</p>
+
+### Connacht V Scarlets on 2025/05/24
+
+
+Average Margin: Connacht by 11.6
+
+<p float="left">
+<img src="plots/performances_2025-05-02-Connacht_V_Scarlets.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Connacht_V_Scarlets.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Connacht_V_Scarlets.png" width="32%" />
+</p>
+
+### Edinburgh V Sharks on 2025/05/24
+
+
+Average Margin: Edinburgh by 3.5
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Edinburgh_V_Sharks.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Edinburgh_V_Sharks.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Edinburgh_V_Sharks.png" width="32%" />
+</p>
+
+### Racing 92 V Bath Rugby on 2025/05/24
+
+
+Average Margin: Bath Rugby by 3.8
+
+<p float="left">
+<img src="plots/performances_2025-05-02-Racing92_V_BathRugby.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Racing92_V_BathRugby.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Racing92_V_BathRugby.png" width="32%" />
+</p>
+
+### Gloucester Rugby V Bulls on 2025/05/24
+
+
+Average Margin: Bulls by 1.7
+
+<p float="left">
+<img src="plots/performances_2025-04-11-GloucesterRugby_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-GloucesterRugby_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2025-04-11-GloucesterRugby_V_Bulls.png" width="32%" />
+</p>
+
+### Lions V Bulls on 2025/05/24
+
+
+Average Margin: Lions by 1.1
+
+<p float="left">
+<img src="plots/performances_2025-05-02-Lions_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Lions_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Lions_V_Bulls.png" width="32%" />
+</p>
+
+### Edinburgh V Ospreys on 2025/05/24
+
+
+Average Margin: Edinburgh by 6.6
+
+<p float="left">
+<img src="plots/performances_2025-05-02-Edinburgh_V_Ospreys.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Edinburgh_V_Ospreys.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Edinburgh_V_Ospreys.png" width="32%" />
+</p>
+
+### Ospreys V Gloucester Rugby on 2025/05/24
+
+
+Average Margin: Ospreys by 2.0
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Ospreys_V_GloucesterRugby.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Ospreys_V_GloucesterRugby.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Ospreys_V_GloucesterRugby.png" width="32%" />
+</p>
+
+### Edinburgh V Pau on 2025/05/24
+
+
+Average Margin: Edinburgh by 6.2
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Edinburgh_V_Pau.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Edinburgh_V_Pau.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Edinburgh_V_Pau.png" width="32%" />
+</p>
+
+### Connacht V Montpellier Herault on 2025/05/24
+
+
+Average Margin: Montpellier Herault by 1.8
+
+<p float="left">
+<img src="plots/performances_2025-05-24-Connacht_V_MontpellierHerault.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-Connacht_V_MontpellierHerault.png" width="32%" />
+<img src="plots/spreads_2025-05-24-Connacht_V_MontpellierHerault.png" width="32%" />
+</p>
+
+### Bayonne V Bath Rugby on 2025/05/24
+
+
+Average Margin: Bath Rugby by 6.1
+
+<p float="left">
+<img src="plots/performances_2025-05-24-Bayonne_V_BathRugby.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-Bayonne_V_BathRugby.png" width="32%" />
+<img src="plots/spreads_2025-05-24-Bayonne_V_BathRugby.png" width="32%" />
+</p>
+
+### Pau V Bulls on 2025/05/24
+
+
+Average Margin: Bulls by 6.9
+
+<p float="left">
+<img src="plots/performances_2025-05-02-Pau_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Pau_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Pau_V_Bulls.png" width="32%" />
 </p>
 
 ### Connacht V Pau on 2025/05/24
 
 
-Average Margin: Connacht by 7.4
+Average Margin: Connacht by 5.0
 
 <p float="left">
-<img src="plots/performances_2025-05-02-Connacht_V_Pau.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Connacht_V_Pau.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Connacht_V_Pau.png" width="32%" />
+<img src="plots/performances_2025-05-24-Connacht_V_Pau.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-Connacht_V_Pau.png" width="32%" />
+<img src="plots/spreads_2025-05-24-Connacht_V_Pau.png" width="32%" />
+</p>
+
+### Lyon V Perpignan on 2025/05/24
+
+
+Average Margin: Lyon by 6.4
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Lyon_V_Perpignan.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Lyon_V_Perpignan.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Lyon_V_Perpignan.png" width="32%" />
+</p>
+
+### Ospreys V Racing 92 on 2025/05/24
+
+
+Average Margin: Ospreys by 4.9
+
+<p float="left">
+<img src="plots/performances_2025-05-02-Ospreys_V_Racing92.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Ospreys_V_Racing92.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Ospreys_V_Racing92.png" width="32%" />
+</p>
+
+### Gloucester Rugby V Bath Rugby on 2025/05/24
+
+
+Average Margin: Bath Rugby by 2.3
+
+<p float="left">
+<img src="plots/performances_2025-05-24-GloucesterRugby_V_BathRugby.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-GloucesterRugby_V_BathRugby.png" width="32%" />
+<img src="plots/spreads_2025-05-24-GloucesterRugby_V_BathRugby.png" width="32%" />
+</p>
+
+### Perpignan V Bulls on 2025/05/24
+
+
+Average Margin: Bulls by 8.1
+
+<p float="left">
+<img src="plots/performances_2025-05-02-Perpignan_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Perpignan_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Perpignan_V_Bulls.png" width="32%" />
+</p>
+
+### Lyon V Bulls on 2025/05/24
+
+
+Average Margin: Bulls by 2.5
+
+<p float="left">
+<img src="plots/performances_2025-05-24-Lyon_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-Lyon_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2025-05-24-Lyon_V_Bulls.png" width="32%" />
+</p>
+
+### Bayonne V Lions on 2025/05/24
+
+
+Average Margin: Bayonne by 4.6
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Bayonne_V_Lions.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Bayonne_V_Lions.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Bayonne_V_Lions.png" width="32%" />
+</p>
+
+### Ospreys V Lions on 2025/05/24
+
+
+Average Margin: Ospreys by 0.9
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Ospreys_V_Lions.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Ospreys_V_Lions.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Ospreys_V_Lions.png" width="32%" />
+</p>
+
+### Connacht V Bulls on 2025/05/24
+
+
+Average Margin: Bulls by 0.0
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Connacht_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Connacht_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Connacht_V_Bulls.png" width="32%" />
+</p>
+
+### Connacht V Gloucester Rugby on 2025/05/24
+
+
+Average Margin: Connacht by 3.3
+
+<p float="left">
+<img src="plots/performances_2025-05-02-Connacht_V_GloucesterRugby.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Connacht_V_GloucesterRugby.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Connacht_V_GloucesterRugby.png" width="32%" />
+</p>
+
+### Bayonne V Pau on 2025/05/24
+
+
+Average Margin: Bayonne by 4.8
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Bayonne_V_Pau.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Bayonne_V_Pau.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Bayonne_V_Pau.png" width="32%" />
+</p>
+
+### Montpellier Herault V Racing 92 on 2025/05/24
+
+
+Average Margin: Montpellier Herault by 4.5
+
+<p float="left">
+<img src="plots/performances_2025-04-11-MontpellierHerault_V_Racing92.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-MontpellierHerault_V_Racing92.png" width="32%" />
+<img src="plots/spreads_2025-04-11-MontpellierHerault_V_Racing92.png" width="32%" />
+</p>
+
+### Connacht V Racing 92 on 2025/05/24
+
+
+Average Margin: Connacht by 4.4
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Connacht_V_Racing92.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Connacht_V_Racing92.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Connacht_V_Racing92.png" width="32%" />
 </p>
 
 ### Montpellier Herault V Perpignan on 2025/05/24
 
 
-Average Margin: Montpellier Herault by 8.0
+Average Margin: Montpellier Herault by 8.5
 
 <p float="left">
 <img src="plots/performances_2025-04-11-MontpellierHerault_V_Perpignan.png" width="32%" />
@@ -2726,28 +2616,149 @@ Average Margin: Montpellier Herault by 8.0
 <img src="plots/spreads_2025-04-11-MontpellierHerault_V_Perpignan.png" width="32%" />
 </p>
 
+### Connacht V Bath Rugby on 2025/05/24
+
+
+Average Margin: Bath Rugby by 3.5
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Connacht_V_BathRugby.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Connacht_V_BathRugby.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Connacht_V_BathRugby.png" width="32%" />
+</p>
+
+### Racing 92 V Bulls on 2025/05/24
+
+
+Average Margin: Racing 92 by 0.2
+
+<p float="left">
+<img src="plots/performances_2025-05-02-Racing92_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Racing92_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Racing92_V_Bulls.png" width="32%" />
+</p>
+
+### Montpellier Herault V Lions on 2025/05/24
+
+
+Average Margin: Montpellier Herault by 3.8
+
+<p float="left">
+<img src="plots/performances_2025-04-11-MontpellierHerault_V_Lions.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-MontpellierHerault_V_Lions.png" width="32%" />
+<img src="plots/spreads_2025-04-11-MontpellierHerault_V_Lions.png" width="32%" />
+</p>
+
+### Montpellier Herault V Lyon on 2025/05/24
+
+
+Average Margin: Montpellier Herault by 4.4
+
+<p float="left">
+<img src="plots/performances_2025-05-24-MontpellierHerault_V_Lyon.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-MontpellierHerault_V_Lyon.png" width="32%" />
+<img src="plots/spreads_2025-05-24-MontpellierHerault_V_Lyon.png" width="32%" />
+</p>
+
+### Ospreys V Pau on 2025/05/24
+
+
+Average Margin: Ospreys by 0.9
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Ospreys_V_Pau.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Ospreys_V_Pau.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Ospreys_V_Pau.png" width="32%" />
+</p>
+
+### Lyon V Scarlets on 2025/05/24
+
+
+Average Margin: Lyon by 8.4
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Lyon_V_Scarlets.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Lyon_V_Scarlets.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Lyon_V_Scarlets.png" width="32%" />
+</p>
+
+### Lions V Bath Rugby on 2025/05/24
+
+
+Average Margin: Lions by 0.3
+
+<p float="left">
+<img src="plots/performances_2025-05-24-Lions_V_BathRugby.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-Lions_V_BathRugby.png" width="32%" />
+<img src="plots/spreads_2025-05-24-Lions_V_BathRugby.png" width="32%" />
+</p>
+
+### Bayonne V Scarlets on 2025/05/24
+
+
+Average Margin: Bayonne by 6.1
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Bayonne_V_Scarlets.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Bayonne_V_Scarlets.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Bayonne_V_Scarlets.png" width="32%" />
+</p>
+
+### Montpellier Herault V Bulls on 2025/05/24
+
+
+Average Margin: Bulls by 0.4
+
+<p float="left">
+<img src="plots/performances_2025-05-02-MontpellierHerault_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-MontpellierHerault_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2025-05-02-MontpellierHerault_V_Bulls.png" width="32%" />
+</p>
+
+### Edinburgh V Gloucester Rugby on 2025/05/24
+
+
+Average Margin: Edinburgh by 7.7
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Edinburgh_V_GloucesterRugby.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Edinburgh_V_GloucesterRugby.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Edinburgh_V_GloucesterRugby.png" width="32%" />
+</p>
+
+### Edinburgh V Bulls on 2025/05/24
+
+
+Average Margin: Bulls by 0.7
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Edinburgh_V_Bulls.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Edinburgh_V_Bulls.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Edinburgh_V_Bulls.png" width="32%" />
+</p>
+
 # Completed Match Review
 
 
 | Match                                                 |   Result |   Lineup Prediction |   Minutes Prediction |   Club Prediction |
 |:------------------------------------------------------|---------:|--------------------:|---------------------:|------------------:|
-| Gloucester Rugby V Edinburgh on 2024/12/06            |        5 |                 3.6 |                  3.1 |               1.8 |
-| Bayonne V Scarlets on 2024/12/07                      |        1 |                14.1 |                 10.2 |               9   |
-| Lyon V Cardiff Blues on 2024/12/07                    |       11 |                -2   |                  0.1 |               9.1 |
+| Gloucester Rugby V Edinburgh on 2024/12/06            |        5 |                 3.7 |                  2.8 |               1.8 |
+| Bayonne V Scarlets on 2024/12/07                      |        1 |                14   |                 10.1 |               9   |
+| Lyon V Cardiff Blues on 2024/12/07                    |       11 |                -2.4 |                  0.2 |               9.1 |
 | Pau V Newcastle Falcons on 2024/12/08                 |       13 |                -3.7 |                 -4   |              11.7 |
-| Ospreys V Lions on 2024/12/08                         |       16 |                 3.6 |                 -4.3 |               0   |
-| Edinburgh V Bayonne on 2024/12/13                     |       40 |                 5.1 |                  5.8 |               6.4 |
-| Zebre V Lyon on 2024/12/14                            |       -2 |               -11.6 |                -11.9 |              -5.2 |
-| Gloucester Rugby V Scarlets on 2025/01/10             |       24 |                -0.7 |                  2.5 |               6.8 |
-| Black Lion V Bayonne on 2025/01/11                    |      -25 |                 0.3 |                 -3.7 |               1   |
-| Ospreys V Newcastle Falcons on 2025/01/11             |       20 |                13.4 |                  7.3 |              12.4 |
-| Cheetahs V Zebre on 2025/01/12                        |        4 |                 7.1 |                  7.7 |               8.3 |
-| Cardiff Blues V Connacht on 2025/01/17                |       -9 |               -11.7 |                 -0.5 |              -0.1 |
-| Newcastle Falcons V Montpellier Herault on 2025/01/17 |      -19 |                -8   |                 -5   |              -6.6 |
-| Pau V Ospreys on 2025/01/18                           |       -3 |                -3.2 |                 -4.8 |               5.3 |
-| Scarlets V Vannes on 2025/01/18                       |       10 |                -1.5 |                 -5.3 |               5.8 |
-| Edinburgh V Black Lion on 2025/01/19                  |       21 |                 5   |                  4.5 |              10.1 |
-| Zebre V Perpignan on 2025/01/19                       |      -18 |                -5.5 |                 -4.9 |              -2.5 |
+| Ospreys V Lions on 2024/12/08                         |       16 |                 3.9 |                 -4.1 |               0   |
+| Edinburgh V Bayonne on 2024/12/13                     |       40 |                 5.1 |                  5.4 |               6.4 |
+| Zebre V Lyon on 2024/12/14                            |       -2 |               -11.3 |                -11.2 |              -5.2 |
+| Gloucester Rugby V Scarlets on 2025/01/10             |       24 |                -0.6 |                  2.7 |               6.8 |
+| Black Lion V Bayonne on 2025/01/11                    |      -25 |                 0.7 |                 -3.4 |               1   |
+| Ospreys V Newcastle Falcons on 2025/01/11             |       20 |                13.5 |                  7.3 |              12.4 |
+| Cheetahs V Zebre on 2025/01/12                        |        4 |                 7.3 |                  7.5 |               8.3 |
+| Cardiff Blues V Connacht on 2025/01/17                |       -9 |               -11.2 |                 -0.4 |              -0.1 |
+| Newcastle Falcons V Montpellier Herault on 2025/01/17 |      -19 |                -8.2 |                 -5   |              -6.6 |
+| Pau V Ospreys on 2025/01/18                           |       -3 |                -2.9 |                 -4.6 |               5.3 |
+| Scarlets V Vannes on 2025/01/18                       |       10 |                -1.6 |                 -5.3 |               5.8 |
+| Edinburgh V Black Lion on 2025/01/19                  |       21 |                 4.7 |                  4.7 |              10.1 |
+| Zebre V Perpignan on 2025/01/19                       |      -18 |                -5.1 |                 -4.7 |              -2.5 |
 
 
 

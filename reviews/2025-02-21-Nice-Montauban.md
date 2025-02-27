@@ -11,7 +11,7 @@ categories: "Pro D2 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.547, which translates to predicting Nice to win by 1.6.
 
-Our Over/Under is 55.5 - and combined with the spread above, we have a predicted scoreline of 27 to 29
+Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 25 to 27
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Nice by 4.1
+## Prediction without Player Minutes: Nice by 4.0
 
 
-Nice by 0.8 on a neutral pitch
+Nice by 0.7 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Nice by 0.8 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player              |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:-------------------------|---------------:|
-|             62 | Leo Aouf              |             55.71 |        1 |              2.66 | Jules Martinez           |             19 |
-|             62 | Vakhtang Jintcharadze |             57.88 |        2 |             17.41 | Sacha Idoumi             |              2 |
-|             15 | Facundo Pomponio      |             58.45 |        3 |              0.94 | Tom Ross                 |             80 |
-|             75 | Clément Bitz          |             81.75 |        4 |             98.29 | Tom Murday               |             23 |
-|             56 | Noa Kanika            |             70.53 |        5 |             47.05 | Martin Freytes           |             80 |
-|             46 | Corentin Coularis     |             43.66 |        6 |             81.32 | Jordan Taufua            |             80 |
-|             31 | Kyllian Ringuet       |             71.97 |        7 |             15.82 | Hugo Sarrasin            |             22 |
-|             20 | Tyrone Viiga          |             18.22 |        8 |             23.6  | Ramiha Tarrel Tia Smiler |             21 |
-|             20 | Joe Powell            |             75.17 |        9 |              3.28 | Jules Gimbert            |             40 |
-|             80 | Jérôme Bosviel        |             83.58 |       10 |              1.68 | Paul Auradou             |             57 |
-|             80 | Josua Vici            |             41.28 |       11 |             75.97 | Andrzej Charlat          |             21 |
-|             80 | Simon Renda           |             81.52 |       12 |              1.46 | Christa Powell           |             58 |
-|             80 | Maxime Espeut         |             63.52 |       13 |             66.83 | Nathan Courtade          |             24 |
-|             80 | Paul Vallee           |             82.93 |       14 |             75.7  | Christian Erasmus        |             80 |
-|             74 | Baptiste Mouchous     |             89.21 |       15 |             23.86 | Flavio Asquini           |             80 |
-|             80 | Thomas Bue            |             17.14 |       16 |             60    | Jules Solinas            |             80 |
-|             80 | Luka Azariashvili     |              2.74 |       17 |             33.75 | Kylian Laurans           |             56 |
-|             80 | Kevin Firmin          |              6.47 |       18 |             65.26 | Nicolas Ciancio          |              8 |
-|             55 | Victor Moreaux        |              2.85 |       19 |             93.04 | Louis Suaud              |             34 |
-|             66 | Sikhumbuzo Notshe     |             74.53 |       20 |             38.64 | Pierre Strippoli         |             48 |
-|             80 | Tjuee Uanivi          |              4.39 |       21 |             48.64 | Tom Daly                 |             57 |
-|             48 | Hugo Zabalza          |             33.62 |       22 |             60.56 | Julien Beaufils          |             30 |
-|             59 | Maxime Mathy          |              6.61 |       23 |            nan    | Adrien Vigne             |             50 |
+|             80 | Leo Aouf              |             71.22 |        1 |              2.37 | Jules Martinez           |             68 |
+|             30 | Vakhtang Jintcharadze |             45.49 |        2 |             10.73 | Sacha Idoumi             |             52 |
+|             80 | Facundo Pomponio      |             74.73 |        3 |              0.49 | Tom Ross                 |             82 |
+|             80 | Clément Bitz          |             83.32 |        4 |             98.02 | Tom Murday               |             80 |
+|             60 | Noa Kanika            |             70.03 |        5 |             23.47 | Martin Freytes           |             82 |
+|             31 | Corentin Coularis     |             40.66 |        6 |             81.13 | Jordan Taufua            |             82 |
+|             31 | Kyllian Ringuet       |             74.18 |        7 |              8.92 | Hugo Sarrasin            |             80 |
+|             46 | Tyrone Viiga          |             21.1  |        8 |             11.97 | Ramiha Tarrel Tia Smiler |             29 |
+|             46 | Joe Powell            |             81.07 |        9 |              3.44 | Jules Gimbert            |             29 |
+|             20 | Jérôme Bosviel        |             80.67 |       10 |              1.26 | Paul Auradou             |             23 |
+|             20 | Josua Vici            |             28.74 |       11 |             59.41 | Andrzej Charlat          |             41 |
+|             34 | Simon Renda           |             76.55 |       12 |              0.91 | Christa Powell           |             30 |
+|             49 | Maxime Espeut         |             57.56 |       13 |             33.71 | Nathan Courtade          |             80 |
+|             46 | Paul Vallee           |             81.08 |       14 |             78.05 | Christian Erasmus        |             72 |
+|             59 | Baptiste Mouchous     |             88.5  |       15 |             20.74 | Flavio Asquini           |             80 |
+|             80 | Thomas Bue            |             18.15 |       16 |             60.07 | Jules Solinas            |              4 |
+|             59 | Luka Azariashvili     |              3.19 |       17 |             33.06 | Kylian Laurans           |             80 |
+|             59 | Kevin Firmin          |              6.3  |       18 |             67.21 | Nicolas Ciancio          |             12 |
+|             80 | Victor Moreaux        |              2.73 |       19 |             90.99 | Louis Suaud              |             75 |
+|             80 | Sikhumbuzo Notshe     |             75.46 |       20 |             39.69 | Pierre Strippoli         |             30 |
+|             80 | Tjuee Uanivi          |              4.32 |       21 |             47.01 | Tom Daly                 |             80 |
+|             26 | Hugo Zabalza          |             34.25 |       22 |             62.14 | Julien Beaufils          |             46 |
+|             76 | Maxime Mathy          |              4.57 |       23 |            nan    | Adrien Vigne             |             21 |
 

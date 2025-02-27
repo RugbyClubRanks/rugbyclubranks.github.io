@@ -11,7 +11,7 @@ categories: "Japan Rugby League One 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.699, which translates to predicting Kobelco Kobe Steelers to win by 7.6.
 
-Our Over/Under is 56.5 - and combined with the spread above, we have a predicted scoreline of 25 to 32
+Our Over/Under is 66.5 - and combined with the spread above, we have a predicted scoreline of 29 to 37
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Kobelco Kobe Steelers by 0.7 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player              |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:-------------------------|---------------:|
-|             68 | Shogo Miura         |             80.2  |        1 |             71.91 | Shigure Takao            |             60 |
-|             80 | Yoshikatsu Hikosaka |             87.23 |        2 |             72.8  | Kenta Matsuoka           |             80 |
-|             80 | Genki Sudo          |             70.74 |        3 |             92.57 | Hiroshi Yamashita        |             52 |
-|             32 | Richie Gray         |             72.15 |        4 |             90.87 | Gerard Cowley-Tuioti     |             81 |
-|             62 | Josh Dickson        |             45.91 |        5 |            100    | Brodie Retallick         |             80 |
-|             80 | Lautaimi Fetuani    |             27.55 |        6 |             83.13 | Tiennan Costley          |             81 |
-|             80 | Michael Hooper      |             99.33 |        7 |             46.9  | Willie Potgieter         |             20 |
-|             80 | Akito Okui          |             10.56 |        8 |             75.98 | Waisake Raratubua        |             29 |
-|             27 | Ryang Jong Chu      |             24.83 |        9 |             93.97 | Atsushi Hiwasa           |             33 |
-|             30 | Rikiya Matsuda      |             96.63 |       10 |             91.58 | Bryn Gatland             |             20 |
-|             33 | Siosaia Fifita      |              0.19 |       11 |             55.75 | Kenta Matsunaga          |             40 |
-|             18 | Nicholas McCurran   |             74.12 |       12 |              8.46 | Seungsin Lee             |             39 |
-|             31 | Joseph Manu         |             12.45 |       13 |             63.23 | Michael Little           |             30 |
-|             41 | Shuhei Yamaguchi    |             19.94 |       14 |             14.94 | Ataata Moeakiola         |             20 |
-|             80 | Matt McGahan        |             61    |       15 |             93.36 | Rakuhei Yamashita        |             80 |
-|             47 | Dick Wilson         |             21.16 |       16 |             31.61 | Sho Maeda                |             80 |
-|             51 | Aaron Smith         |             97.59 |       17 |             81.92 | Takuya Kitade            |             20 |
-|             20 | Daichi Akiyama      |             81.56 |       18 |            nan    | Isileli Nakajima Vakauta |             23 |
-|             66 | Ryusei Koike        |             67.59 |       19 |             42.59 | Daiki Nakajima           |             53 |
-|             23 | Shunsuke Asaoka     |             32.71 |       20 |             51.76 | Takara Imamura           |             40 |
-|             24 | Ryunosuke Momoji    |             19.8  |       21 |             89.69 | Ngani Laumape            |             52 |
-|             80 | Taiga Kawasaki      |            nan    |       22 |            nan    | Solomone Funaki          |             27 |
-|             28 | Yuki Okada          |             92.41 |       23 |            nan    | Inoke Burua              |             23 |
+|             56 | Shogo Miura         |             82.17 |        1 |             62.63 | Shigure Takao            |             57 |
+|             17 | Yoshikatsu Hikosaka |             93.7  |        2 |             41.23 | Kenta Matsuoka           |             20 |
+|             33 | Genki Sudo          |             81.68 |        3 |             94.93 | Hiroshi Yamashita        |             63 |
+|             33 | Richie Gray         |             69.93 |        4 |             89.26 | Gerard Cowley-Tuioti     |             80 |
+|             28 | Josh Dickson        |             63.9  |        5 |            100    | Brodie Retallick         |             80 |
+|             31 | Lautaimi Fetuani    |             42.44 |        6 |             76.53 | Tiennan Costley          |             52 |
+|             80 | Michael Hooper      |             99.62 |        7 |             38.31 | Willie Potgieter         |             80 |
+|             63 | Akito Okui          |             21.3  |        8 |             72.41 | Waisake Raratubua        |             47 |
+|             81 | Ryang Jong Chu      |             29.26 |        9 |             91.91 | Atsushi Hiwasa           |             53 |
+|             12 | Rikiya Matsuda      |             97.06 |       10 |             92.23 | Bryn Gatland             |             42 |
+|              3 | Siosaia Fifita      |              0.46 |       11 |             57.67 | Kenta Matsunaga          |             34 |
+|             81 | Nicholas McCurran   |             72.69 |       12 |              2.44 | Seungsin Lee             |             47 |
+|             81 | Joseph Manu         |             13.3  |       13 |             56.35 | Michael Little           |             27 |
+|             81 | Shuhei Yamaguchi    |             24.98 |       14 |             28.1  | Ataata Moeakiola         |             57 |
+|             69 | Matt McGahan        |             63.24 |       15 |             89.73 | Rakuhei Yamashita        |             20 |
+|             61 | Dick Wilson         |             21.97 |       16 |             30.99 | Sho Maeda                |             60 |
+|             61 | Aaron Smith         |             96.21 |       17 |             83.13 | Takuya Kitade            |             80 |
+|             66 | Daichi Akiyama      |             78.13 |       18 |            nan    | Isileli Nakajima Vakauta |             80 |
+|             66 | Ryusei Koike        |             66.76 |       19 |             44.75 | Daiki Nakajima           |             60 |
+|             60 | Shunsuke Asaoka     |             42.68 |       20 |             53.24 | Takara Imamura           |             80 |
+|             20 | Ryunosuke Momoji    |             29.19 |       21 |             86.29 | Ngani Laumape            |             80 |
+|             80 | Taiga Kawasaki      |            nan    |       22 |            nan    | Solomone Funaki          |             28 |
+|             29 | Yuki Okada          |             90.96 |       23 |            nan    | Inoke Burua              |             80 |
 
