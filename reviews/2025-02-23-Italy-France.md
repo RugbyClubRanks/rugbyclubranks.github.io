@@ -11,7 +11,7 @@ categories: "Six Nations Championship 2025" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.317, which translates to predicting France to win by 6.9.
 
-Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 25 to 18
+Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 30 to 23
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: France by 0.7
+## Prediction without Player Minutes: France by 2.6
 
 
-France by 6.0 on a neutral pitch
+France by 7.9 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,28 +69,27 @@ France by 6.0 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             31 | Jean-Baptiste Gros   |             98.61 |        1 |             33.61 | Danilo Fischetti   |             80 |
-|             33 | Peato Mauvaka        |             94.04 |        2 |             76.15 | Gianmarco Lucchesi |             80 |
-|             21 | Uini Atonio          |             98.53 |        3 |             92.56 | Simone Ferrari     |             80 |
-|             12 | Thibaud Flament      |             92.55 |        4 |             56.08 | Niccolo Cannone    |             17 |
-|             49 | Mickael Guillard     |             70.41 |        5 |             93.87 | Federico Ruzza     |             55 |
-|             60 | Francois Cros        |             96.43 |        6 |             77.84 | Sebastian Negri    |             80 |
-|             20 | Paul Boudehent       |              6.76 |        7 |             94.08 | Michele Lamaro     |             49 |
-|             60 | Gregory Alldritt     |             99.39 |        8 |             95.13 | Lorenzo Cannone    |             80 |
-|             80 | Antoine Dupont       |            100    |        9 |             56.45 | Martin Page-Relo   |             62 |
-|             14 | Thomas Ramos         |             95.59 |       10 |             73.32 | Paolo Garbisi      |             55 |
-|             31 | Louis Bielle-Biarrey |             78.97 |       11 |              6.52 | Simone Gesi        |             34 |
-|             31 | Yoram Moefana        |             90.46 |       12 |             91.78 | Tommaso Menoncello |             63 |
-|             31 | Pierre-Louis Barassi |             85.79 |       13 |             92.18 | Juan Ignacio Brex  |             49 |
-|             20 | Theo Attissogbe      |             28.65 |       14 |             97.89 | Ange Capuozzo      |             49 |
-|              8 | Theo Attissogbe      |             28.65 |       14 |             97.89 | Ange Capuozzo      |             49 |
-|             80 | Leo Barre            |             54    |       15 |             60.99 | Tommaso Allan      |             31 |
-|             20 | Julien Marchand      |             98.98 |       16 |             96.76 | Giacomo Nicotera   |             66 |
-|             14 | Cyril Baille         |             97.96 |       17 |             55.76 | Mirco Spagnolo     |             80 |
-|             20 | Dorian Aldegheri     |             94.69 |       18 |             47.83 | Giosue Zilocchi    |             31 |
-|             80 | Romain Taofifenua    |             28.18 |       19 |             19.07 | Riccardo Favretto  |             68 |
-|             20 | Alexandre Roumat     |             95.57 |       20 |             64.79 | Manuel Zuliani     |             80 |
-|             80 | Oscar Jegou          |             69.86 |       21 |             76.88 | Ross Vintcent      |             49 |
-|             80 | Anthony Jelonch      |             99.8  |       22 |             60.59 | Alessandro Garbisi |             80 |
-|             47 | Maxime Lucu          |             99.31 |       23 |             30.03 | Jacopo Trulla      |             34 |
+|             34 | Jean-Baptiste Gros   |             98.56 |        1 |             55.78 | Danilo Fischetti   |             49 |
+|             31 | Peato Mauvaka        |             94.98 |        2 |             81.1  | Gianmarco Lucchesi |             80 |
+|             46 | Uini Atonio          |             99.2  |        3 |             95.1  | Simone Ferrari     |             72 |
+|             12 | Thibaud Flament      |             92.06 |        4 |             46.41 | Niccolo Cannone    |             59 |
+|             14 | Mickael Guillard     |             72.59 |        5 |             94.9  | Federico Ruzza     |             73 |
+|             62 | Francois Cros        |             96.5  |        6 |             80.43 | Sebastian Negri    |             80 |
+|             80 | Paul Boudehent       |             17.2  |        7 |             94.61 | Michele Lamaro     |             80 |
+|             55 | Gregory Alldritt     |             99.8  |        8 |             97.07 | Lorenzo Cannone    |             33 |
+|             63 | Antoine Dupont       |            100    |        9 |             65.23 | Martin Page-Relo   |             60 |
+|             25 | Thomas Ramos         |             96.2  |       10 |             81.01 | Paolo Garbisi      |             20 |
+|             34 | Louis Bielle-Biarrey |             81.16 |       11 |              7.17 | Simone Gesi        |             20 |
+|              7 | Yoram Moefana        |             89.54 |       12 |             94.47 | Tommaso Menoncello |              8 |
+|             80 | Pierre-Louis Barassi |             89.14 |       13 |             91.31 | Juan Ignacio Brex  |             80 |
+|             80 | Theo Attissogbe      |             52.39 |       14 |             98.07 | Ange Capuozzo      |             31 |
+|             80 | Leo Barre            |             40.45 |       15 |             60.16 | Tommaso Allan      |             17 |
+|             80 | Julien Marchand      |             99    |       16 |             97.16 | Giacomo Nicotera   |             25 |
+|             14 | Cyril Baille         |             97.83 |       17 |             55.86 | Mirco Spagnolo     |             67 |
+|             49 | Dorian Aldegheri     |             91.73 |       18 |             71.35 | Giosue Zilocchi    |             21 |
+|             80 | Romain Taofifenua    |             27.88 |       19 |             19.73 | Riccardo Favretto  |             80 |
+|             46 | Alexandre Roumat     |             97.35 |       20 |             69    | Manuel Zuliani     |             20 |
+|             31 | Oscar Jegou          |             69.85 |       21 |             75.78 | Ross Vintcent      |             80 |
+|             55 | Anthony Jelonch      |             99.22 |       22 |             59.55 | Alessandro Garbisi |             66 |
+|             80 | Maxime Lucu          |             99.31 |       23 |             23.44 | Jacopo Trulla      |             80 |
 

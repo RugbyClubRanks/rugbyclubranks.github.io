@@ -1,6 +1,6 @@
 ---  
 title: "Rugby Europe Championship 2025 Status"  
-date: 2025-02-27 6:00:00 -0500  
+date: 2025-02-28 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -33,14 +33,14 @@ aside:
 
 | Club        |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Georgia     |                   1 |    0.9 |             23.6298  |                   0   |                0.7 |                  4.5 |
-| Netherlands |                   1 |    0.9 |             23.289   |                   0   |                0.7 |                  4.4 |
-| Belgium     |                   1 |    0.7 |              5.59308 |                   0.2 |                0.4 |                  3.3 |
-| Portugal    |                   1 |    0.6 |              3.68385 |                   0.2 |                0.4 |                  3.2 |
-| Spain       |                   1 |    0.4 |             -3.68385 |                   0.3 |                0.4 |                  2.1 |
-| Switzerland |                   1 |    0.3 |             -5.59308 |                   0.2 |                0.3 |                  1.8 |
-| Germany     |                   1 |    0.1 |            -23.289   |                   0.1 |                0.3 |                  0.7 |
-| Romania     |                   1 |    0.1 |            -23.6298  |                   0.1 |                0.1 |                  0.4 |
+| Georgia     |                   1 |    0.9 |             23.88    |                   0   |                0.7 |                  4.5 |
+| Netherlands |                   1 |    0.9 |             22.332   |                   0   |                0.7 |                  4.4 |
+| Portugal    |                   1 |    0.7 |              3.63443 |                   0.2 |                0.5 |                  3.3 |
+| Belgium     |                   1 |    0.7 |              4.42673 |                   0.2 |                0.4 |                  3.2 |
+| Spain       |                   1 |    0.3 |             -3.63443 |                   0.3 |                0.4 |                  2   |
+| Switzerland |                   1 |    0.3 |             -4.42673 |                   0.3 |                0.3 |                  2   |
+| Germany     |                   1 |    0.1 |            -22.332   |                   0.1 |                0.4 |                  0.8 |
+| Romania     |                   1 |    0.1 |            -23.88    |                   0   |                0.1 |                  0.4 |
 
 
 
@@ -49,14 +49,14 @@ aside:
 
 | Club        |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Georgia     |               4 |    3.9 |            196.63    |                   0   |                0.7 |                 16.5 |
-| Portugal    |               4 |    3.6 |             83.6838  |                   0.2 |                0.4 |                 15.2 |
-| Spain       |               4 |    2.4 |             25.3162  |                   0.3 |                0.4 |                 10.1 |
-| Netherlands |               4 |    1.9 |             34.289   |                   0   |                0.7 |                  8.4 |
-| Romania     |               4 |    2.1 |              3.37017 |                   0.1 |                0.1 |                  8.4 |
-| Belgium     |               4 |    1.7 |             -1.40692 |                   0.2 |                0.4 |                  7.3 |
-| Switzerland |               4 |    0.3 |           -218.593   |                   0.2 |                0.3 |                  1.8 |
-| Germany     |               4 |    0.1 |           -123.289   |                   0.1 |                0.3 |                  0.7 |
+| Georgia     |               4 |    3.9 |            196.88    |                   0   |                0.7 |                 16.5 |
+| Portugal    |               4 |    3.7 |             83.6344  |                   0.2 |                0.5 |                 15.3 |
+| Spain       |               4 |    2.3 |             25.3656  |                   0.3 |                0.4 |                 10   |
+| Netherlands |               4 |    1.9 |             33.332   |                   0   |                0.7 |                  8.4 |
+| Romania     |               4 |    2.1 |              3.11998 |                   0   |                0.1 |                  8.4 |
+| Belgium     |               4 |    1.7 |             -2.57327 |                   0.2 |                0.4 |                  7.2 |
+| Switzerland |               4 |    0.3 |           -217.427   |                   0.3 |                0.3 |                  2   |
+| Germany     |               4 |    0.1 |           -122.332   |                   0.1 |                0.4 |                  0.8 |
 
 
 
@@ -66,8 +66,8 @@ aside:
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
 | Club Level | 75.0% | 34.8 |
-| Player Level: Lineup | 71.4% | 25.7 |
-| Player Level: Minutes | 71.4% | 27.3 |
+| Player Level: Lineup | 75.0% | 31.8 |
+| Player Level: Minutes | 75.0% | 33.2 |
 
 
 # Future Predictions
@@ -77,9 +77,9 @@ aside:
 ### Netherlands V Germany on 2025/03/01
 
 
-Average Margin: Netherlands by 23.3
+Average Margin: Netherlands by 22.3
 
-Average Scoreline: 45-22
+Average Scoreline: 41-19
 
 <p float="left">
 <img src="plots/performances_2025-03-01-Netherlands_V_Germany.png" width="32%" />
@@ -90,9 +90,9 @@ Average Scoreline: 45-22
 ### Portugal V Spain on 2025/03/01
 
 
-Average Margin: Portugal by 3.7
+Average Margin: Portugal by 3.6
 
-Average Scoreline: 29-25
+Average Scoreline: 29-26
 
 <p float="left">
 <img src="plots/performances_2025-03-01-Portugal_V_Spain.png" width="32%" />
@@ -103,7 +103,7 @@ Average Scoreline: 29-25
 ### Belgium V Switzerland on 2025/03/01
 
 
-Average Margin: Belgium by 5.6
+Average Margin: Belgium by 4.4
 
 Average Scoreline: 33-28
 
@@ -116,9 +116,9 @@ Average Scoreline: 33-28
 ### Georgia V Romania on 2025/03/02
 
 
-Average Margin: Georgia by 23.6
+Average Margin: Georgia by 23.9
 
-Average Scoreline: 47-24
+Average Scoreline: 47-23
 
 <p float="left">
 <img src="plots/performances_2025-03-02-Georgia_V_Romania.png" width="32%" />

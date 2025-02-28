@@ -11,7 +11,7 @@ categories: "Six Nations Championship 2025" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.503, which translates to predicting England to win by 0.1.
 
-Our Over/Under is 30.5 - and combined with the spread above, we have a predicted scoreline of 15 to 15
+Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 26 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Scotland by 15.0 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player               |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:--------------------------|---------------:|
-|             80 | Pierre Schoeman     |             74.24 |        1 |             89.86 | Ellis Genge               |             80 |
-|             22 | Dave Cherry         |             75.47 |        2 |              0.17 | Luke Cowan-Dickie         |             25 |
-|             80 | Zander Fagerson     |             99.75 |        3 |             82.42 | Will Stuart               |             77 |
-|             62 | Jonny Gray          |             91.8  |        4 |             99.34 | Maro Itoje                |             18 |
-|             25 | Grant Gilchrist     |             96.32 |        5 |             78.51 | Ollie Chessum             |              9 |
-|             32 | Jamie Ritchie       |             99.81 |        6 |             90.52 | Tom Curry                 |             71 |
-|             34 | Rory Darge          |             91.74 |        7 |             99.91 | Ben Earl                  |             35 |
-|             80 | Jack Dempsey        |             62.27 |        8 |             91.89 | Tom Willis                |             80 |
-|             32 | Ben White           |             95.18 |        9 |             97.76 | Alex Mitchell             |             47 |
-|             80 | Finn Russell        |             99.37 |       10 |             82.35 | Fin Smith                 |             80 |
-|             80 | Duhan van der Merwe |             85.67 |       11 |              1.56 | Ollie Sleightholme        |             37 |
-|             33 | Tom Jordan          |             43.65 |       12 |             98.38 | Henry Slade               |             35 |
-|              3 | Huw Jones           |             81.32 |       13 |             80.3  | Ollie Lawrence            |             71 |
-|             55 | Kyle Rowe           |             79.71 |       14 |             92.47 | Tommy Freeman             |             33 |
-|             80 | Blair Kinghorn      |             99.59 |       15 |             83.78 | Marcus Smith              |             71 |
-|             20 | Ewan Ashman         |             66.95 |       16 |             99.83 | Jamie George              |             65 |
-|             21 | Jamie Bhatti        |             97.06 |       17 |              2.78 | Fin Baxter                |             80 |
-|             38 | Will Hurd           |             49.55 |       18 |             92.31 | Joe Heyes                 |              0 |
-|             80 | Sam Skinner         |             92.93 |       19 |             86.95 | Ted Hill                  |             80 |
-|             55 | Gregor Brown        |             71.44 |       20 |             68.54 | Chandler Cunningham-South |             80 |
-|             62 | Matt Fagerson       |             96.96 |       21 |             67.61 | Ben Curry                 |             15 |
-|             65 | Jamie Dobie         |             84.51 |       22 |             95.35 | Harry Randall             |             22 |
-|             80 | Stafford McDowall   |             90.86 |       23 |             92.81 | Elliot Daly               |              9 |
+|             62 | Pierre Schoeman     |             73.35 |        1 |             88.2  | Ellis Genge               |              9 |
+|             80 | Dave Cherry         |             71.57 |        2 |              0.17 | Luke Cowan-Dickie         |             22 |
+|             18 | Zander Fagerson     |             99.76 |        3 |             69.1  | Will Stuart               |             37 |
+|             19 | Jonny Gray          |             92.63 |        4 |             99.15 | Maro Itoje                |             80 |
+|             42 | Grant Gilchrist     |             95.75 |        5 |             74.1  | Ollie Chessum             |             80 |
+|             80 | Jamie Ritchie       |             99.72 |        6 |             87.43 | Tom Curry                 |             55 |
+|             65 | Rory Darge          |             90.08 |        7 |             99.91 | Ben Earl                  |             58 |
+|             38 | Jack Dempsey        |             57.62 |        8 |             88.48 | Tom Willis                |             80 |
+|             34 | Ben White           |             95.01 |        9 |             97.42 | Alex Mitchell             |              0 |
+|             25 | Finn Russell        |             99.37 |       10 |             83.76 | Fin Smith                 |             15 |
+|             80 | Duhan van der Merwe |             85.57 |       11 |              1.29 | Ollie Sleightholme        |             33 |
+|             19 | Tom Jordan          |             47.68 |       12 |             97.73 | Henry Slade               |             15 |
+|             16 | Huw Jones           |             77.99 |       13 |             70.58 | Ollie Lawrence            |             47 |
+|             80 | Kyle Rowe           |             80.7  |       14 |             93.66 | Tommy Freeman             |             62 |
+|             80 | Blair Kinghorn      |            100    |       15 |             83.13 | Marcus Smith              |             80 |
+|             80 | Ewan Ashman         |             66.89 |       16 |             99.83 | Jamie George              |             25 |
+|             80 | Jamie Bhatti        |             96.71 |       17 |              3.13 | Fin Baxter                |             80 |
+|             35 | Will Hurd           |             49.28 |       18 |             92.22 | Joe Heyes                 |             71 |
+|              3 | Sam Skinner         |             94.05 |       19 |             87.05 | Ted Hill                  |             55 |
+|             58 | Gregor Brown        |             70.51 |       20 |             68.24 | Chandler Cunningham-South |             65 |
+|             45 | Matt Fagerson       |             95.56 |       21 |             66.73 | Ben Curry                 |             80 |
+|             71 | Jamie Dobie         |             84.17 |       22 |             95.18 | Harry Randall             |              9 |
+|             77 | Stafford McDowall   |             89.83 |       23 |             92.07 | Elliot Daly               |             71 |
 

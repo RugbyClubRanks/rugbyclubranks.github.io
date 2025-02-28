@@ -1,6 +1,6 @@
 ---  
 title: "Allianz Premier 15s 24/25 Status"  
-date: 2025-02-27 6:00:00 -0500  
+date: 2025-02-28 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -34,10 +34,10 @@ aside:
 
 | Club                      |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Saracens Women            |                   1 |    0.9 |              12.9441 |                   0.1 |                0.4 |                  4.1 |
-| Gloucester-Hartpury Women |                   1 |    0.9 |              11.0845 |                   0   |                0.4 |                  4   |
-| Bristol Bears Women       |                   1 |    0.1 |             -11.0845 |                   0.3 |                0.1 |                  0.8 |
-| Harlequins Women          |                   1 |    0.1 |             -12.9441 |                   0.2 |                0.2 |                  0.7 |
+| Saracens Women            |                   1 |    0.9 |              12.1691 |                   0.1 |                0.4 |                  4.1 |
+| Gloucester-Hartpury Women |                   1 |    0.9 |              11.1371 |                   0.1 |                0.4 |                  4   |
+| Bristol Bears Women       |                   1 |    0.1 |             -11.1371 |                   0.2 |                0.1 |                  0.8 |
+| Harlequins Women          |                   1 |    0.1 |             -12.1691 |                   0.2 |                0.1 |                  0.7 |
 
 
 
@@ -46,11 +46,11 @@ aside:
 
 | Club                      |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Gloucester-Hartpury Women |              17 |   13.9 |             251.084  |                   2   |                0.4 |                 58   |
-| Saracens Women            |              17 |   12.9 |             299.944  |                   2.1 |                0.4 |                 54.1 |
-| Harlequins Women          |              17 |   11.1 |              74.0559 |                   1.2 |                0.2 |                 45.7 |
+| Gloucester-Hartpury Women |              17 |   13.9 |             251.137  |                   2.1 |                0.4 |                 58   |
+| Saracens Women            |              17 |   12.9 |             299.169  |                   2.1 |                0.4 |                 54.1 |
+| Harlequins Women          |              17 |   11.1 |              74.8309 |                   1.2 |                0.1 |                 45.7 |
 | Exeter Chiefs Women       |              16 |   10   |              54      |                   2   |                0   |                 42   |
-| Bristol Bears Women       |              17 |   10.1 |             165.916  |                   1.3 |                0.1 |                 41.8 |
+| Bristol Bears Women       |              17 |   10.1 |             165.863  |                   1.2 |                0.1 |                 41.8 |
 | Loughborough Lightning    |              16 |    7   |             -17      |                   2   |                0   |                 30   |
 | Ealing Trailfinders Women |              16 |    5   |             -29      |                   4   |                0   |                 24   |
 | Leicester Tigers Women    |              16 |    3   |            -387      |                   1   |                0   |                 13   |
@@ -75,7 +75,7 @@ aside:
 ### Saracens Women V Harlequins Women on 2025/03/01
 
 
-Average Margin: Saracens Women by 12.9
+Average Margin: Saracens Women by 12.2
 
 Average Scoreline: 33-20
 

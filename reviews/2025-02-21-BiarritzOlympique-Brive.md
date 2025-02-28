@@ -11,7 +11,7 @@ categories: "Pro D2 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.527, which translates to predicting Biarritz Olympique to win by 1.0.
 
-Our Over/Under is 36.5 - and combined with the spread above, we have a predicted scoreline of 18 to 19
+Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 23 to 24
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Brive by 10.3 on a neutral pitch
 
 |   Away Minutes | Away Player               |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:--------------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|              5 | Vakh Abdaladze            |             82.91 |        1 |              1.06 | Zakaria El Fakir    |             80 |
-|             80 | Benjamin Boudou           |             72.91 |        2 |             12.1  | Yohan Beheregaray   |             24 |
-|             80 | Marcel van der Merwe      |             19.87 |        3 |             27.31 | Giorgi Dzmanashvili |             80 |
-|             80 | Asier Usarraga            |             91.99 |        4 |              1.04 | Aitor Hourcade      |             80 |
-|             69 | Hendre Stassen            |             26.2  |        5 |             24.6  | Piula Faasalele     |             34 |
-|             50 | Geoffrey Malaterre        |             80.75 |        6 |             23.94 | Thomas Hebert       |              6 |
-|             50 | Courtney Lawes            |             97.56 |        7 |              1.69 | Jessy Jegerlehner   |             31 |
-|             80 | Retief Marais             |             88.03 |        8 |             57.4  | Cornell du Preez    |             80 |
-|             11 | Mathis Ferté              |             54.22 |        9 |             42.86 | Kerman Aurrekoetxea |             11 |
-|             50 | Curwin Bosch              |             83.61 |       10 |             16.18 | Thomas Dolhagaray   |             65 |
-|             63 | Erwan Dridi               |             92.75 |       11 |             93.66 | Mathieu Acebes      |             80 |
-|             74 | Georges Shvelidze         |             69.44 |       12 |             65.08 | Carlo Mignot        |             21 |
-|             51 | Matias Moroni             |             96.65 |       13 |             11.98 | Tyler Morgan        |             51 |
-|             24 | Asaeli Tuivuaka           |             85.12 |       14 |              2.3  | Zach Kibirige       |             56 |
-|             17 | Stuart Olding             |             90.55 |       15 |             84.6  | Kylian Jaminet      |             56 |
-|             24 | Issam Hamel               |             75.3  |       16 |             51.28 | Luteru Tolai        |             29 |
-|             80 | Nathan Fraissenon         |            nan    |       17 |             25.35 | Nafi Ma'afu         |             80 |
-|             80 | Francisco Coria Marchetti |             58.14 |       18 |             79.56 | Nikoloz Narmania    |             59 |
-|             15 | Rahboni Warren-Vosayaco   |             65.92 |       19 |            nan    | François Mur        |             11 |
-|             68 | Konstantin Mikautadze     |              5.75 |       20 |            nan    | Anoa Laurent        |             80 |
-|             80 | Hugo Verdu                |              7.23 |       21 |             55.74 | Yohan Tapie         |             80 |
-|             57 | Samuel Maximin            |             58.69 |       22 |             77.06 | Ilian Perraux       |             30 |
-|            nan | nan                       |            nan    |       23 |            nan    | Eliande Sanderson   |             46 |
+|             17 | Vakh Abdaladze            |             83.95 |        1 |              2.17 | Zakaria El Fakir    |             69 |
+|             51 | Benjamin Boudou           |             68.39 |        2 |             10.87 | Yohan Beheregaray   |             80 |
+|             56 | Marcel van der Merwe      |             17.74 |        3 |             27.77 | Giorgi Dzmanashvili |             80 |
+|             80 | Asier Usarraga            |             92.91 |        4 |              1.61 | Aitor Hourcade      |             69 |
+|             80 | Hendre Stassen            |             27.6  |        5 |             53.21 | Piula Faasalele     |             21 |
+|             50 | Geoffrey Malaterre        |             80.62 |        6 |             16.73 | Thomas Hebert       |             80 |
+|             60 | Courtney Lawes            |             97.83 |        7 |              2.65 | Jessy Jegerlehner   |             11 |
+|             53 | Retief Marais             |             84.57 |        8 |             65.43 | Cornell du Preez    |             51 |
+|             49 | Mathis Ferté              |             59.9  |        9 |             48.54 | Kerman Aurrekoetxea |             80 |
+|             31 | Curwin Bosch              |             80.59 |       10 |             53.8  | Thomas Dolhagaray   |             11 |
+|             24 | Erwan Dridi               |             91.54 |       11 |             96.14 | Mathieu Acebes      |             12 |
+|             17 | Georges Shvelidze         |             59.92 |       12 |             53.01 | Carlo Mignot        |             80 |
+|             20 | Matias Moroni             |             95.36 |       13 |             26.06 | Tyler Morgan        |             56 |
+|             49 | Asaeli Tuivuaka           |             86.21 |       14 |              2.57 | Zach Kibirige       |             59 |
+|             80 | Stuart Olding             |             92.28 |       15 |             83.33 | Kylian Jaminet      |             56 |
+|             31 | Issam Hamel               |             76.09 |       16 |             49.83 | Luteru Tolai        |             60 |
+|             59 | Nathan Fraissenon         |            nan    |       17 |             54.1  | Nafi Ma'afu         |             80 |
+|             50 | Francisco Coria Marchetti |             58.19 |       18 |             78.57 | Nikoloz Narmania    |              5 |
+|             15 | Rahboni Warren-Vosayaco   |             65.23 |       19 |            nan    | François Mur        |             80 |
+|             80 | Konstantin Mikautadze     |              5.67 |       20 |            nan    | Anoa Laurent        |             30 |
+|              5 | Hugo Verdu                |              7.23 |       21 |             64.52 | Yohan Tapie         |             30 |
+|             80 | Samuel Maximin            |             59.92 |       22 |             75.91 | Ilian Perraux       |             80 |
+|            nan | nan                       |            nan    |       23 |            nan    | Eliande Sanderson   |             65 |
 

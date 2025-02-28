@@ -11,7 +11,7 @@ categories: "Nationale 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.837, which translates to predicting Périgueux to win by 14.8.
 
-Our Over/Under is 41.5 - and combined with the spread above, we have a predicted scoreline of 13 to 28
+Our Over/Under is 34.5 - and combined with the spread above, we have a predicted scoreline of 10 to 25
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Périgueux by 2.5 on a neutral pitch
 
 |   Away Minutes | Away Player              |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:-------------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             16 | Ratu Nailoma Vatubua     |             10.38 |        1 |             20.77 | Jason Tindiliere    |             64 |
-|             42 | Maxime Lancon            |             55.54 |        2 |              0.85 | Manu Leiataua       |             80 |
-|             42 | Maxime Gau               |              3.92 |        3 |             35.32 | Kalaveti Tawake     |             80 |
-|             42 | Thomas Geffré            |             16.12 |        4 |             66.07 | Raphaël Vieilledent |             68 |
-|             59 | Isikili Seva Davetawalu  |             19.79 |        5 |             68.9  | Mathieu Pace        |             80 |
-|             32 | Thomas Bishop            |             34.18 |        6 |             40.19 | Bastien Gest        |             31 |
-|             80 | Jules Depoortere         |             62.54 |        7 |             47.61 | Clement Lanen       |             80 |
-|             80 | Thomas Mendy             |             45.84 |        8 |             28.4  | Nahum Merigan       |             63 |
-|             13 | Paul Castera             |             57.66 |        9 |             36.32 | Max Green           |             61 |
-|             13 | Baptiste Castanier       |             26.26 |       10 |             26.89 | Anderson Neisen     |             80 |
-|             13 | Sionasa Vunisa           |             83.01 |       11 |             79.34 | Tim Giresse         |             67 |
-|             17 | Aurelien Tamagnan        |             43.86 |       12 |             13.81 | Nicolas Piaton      |             55 |
-|             32 | Yul Charrier             |             39.19 |       13 |             67.11 | Dorian Lavernhe     |             61 |
-|             63 | Abdoul Gafour Karembiri  |             58.4  |       14 |             84.11 | Vincent Fouillade   |             49 |
-|             67 | Nathan Gagnac            |             40.66 |       15 |             44.35 | Yon Camou           |             13 |
-|             67 | Lucas Hernandez          |             26.74 |       16 |             81.77 | Emilien Borges      |             80 |
-|             80 | Baptiste Tisne Cardeneau |             34.08 |       17 |             41.06 | Lucas Marijon       |             47 |
-|             18 | Simon Zubizarreta        |             18.59 |       18 |             30.35 | Richard Fourcade    |             48 |
-|             19 | Julien Graffouillère     |             38.33 |       19 |             42.41 | Damien Lavergne     |             80 |
-|             25 | Clement Renaud           |             19.42 |       20 |             66.13 | Karl Lambert        |             81 |
-|              9 | Ludovic Sempé            |             36.24 |       21 |             20.11 | Paul Piveteau       |             58 |
-|             64 | Helmi Mimouna            |             33.36 |       22 |             33.03 | Martin Augeix       |             75 |
-|             48 | Jone Daunivucu           |            nan    |       23 |            nan    | nan                 |            nan |
+|             75 | Ratu Nailoma Vatubua     |             22.63 |        1 |             29.29 | Jason Tindiliere    |             17 |
+|             67 | Maxime Lancon            |             65.55 |        2 |              1    | Manu Leiataua       |             80 |
+|             55 | Maxime Gau               |              7.22 |        3 |             42.05 | Kalaveti Tawake     |             80 |
+|             80 | Thomas Geffré            |             28.45 |        4 |             67.2  | Raphaël Vieilledent |             80 |
+|             64 | Isikili Seva Davetawalu  |             23.25 |        5 |             72.31 | Mathieu Pace        |             17 |
+|             46 | Thomas Bishop            |             59.45 |        6 |             39.04 | Bastien Gest        |             80 |
+|             64 | Jules Depoortere         |             58.51 |        7 |             55.77 | Clement Lanen       |             63 |
+|             80 | Thomas Mendy             |             60.94 |        8 |             33.79 | Nahum Merigan       |             32 |
+|             59 | Paul Castera             |             61.62 |        9 |             44.06 | Max Green           |             22 |
+|             61 | Baptiste Castanier       |             28.69 |       10 |             35.23 | Anderson Neisen     |             32 |
+|             80 | Sionasa Vunisa           |             85.85 |       11 |             81.99 | Tim Giresse         |             32 |
+|             80 | Aurelien Tamagnan        |             50.94 |       12 |             14.61 | Nicolas Piaton      |             42 |
+|             80 | Yul Charrier             |             41.36 |       13 |             66.73 | Dorian Lavernhe     |             80 |
+|             80 | Abdoul Gafour Karembiri  |             56.43 |       14 |             85.02 | Vincent Fouillade   |             81 |
+|             17 | Nathan Gagnac            |             52.85 |       15 |             45.12 | Yon Camou           |             47 |
+|              9 | Lucas Hernandez          |             40.29 |       16 |             82.1  | Emilien Borges      |             32 |
+|             80 | Baptiste Tisne Cardeneau |             55.42 |       17 |             40.3  | Lucas Marijon       |             61 |
+|             42 | Simon Zubizarreta        |             21.88 |       18 |             28.26 | Richard Fourcade    |             13 |
+|             67 | Julien Graffouillère     |             68.73 |       19 |             41.59 | Damien Lavergne     |             29 |
+|             63 | Clement Renaud           |             20.57 |       20 |             65.62 | Karl Lambert        |             29 |
+|             67 | Ludovic Sempé            |             39.51 |       21 |             19.03 | Paul Piveteau       |             80 |
+|             80 | Helmi Mimouna            |             55.2  |       22 |             33.95 | Martin Augeix       |             22 |
+|             11 | Jone Daunivucu           |            nan    |       23 |            nan    | nan                 |            nan |
 

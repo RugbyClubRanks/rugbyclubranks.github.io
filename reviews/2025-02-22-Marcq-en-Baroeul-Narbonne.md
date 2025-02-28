@@ -11,7 +11,7 @@ categories: "Nationale 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.518, which translates to predicting Marcq-en-Baroeul to win by 0.6.
 
-Our Over/Under is 41.5 - and combined with the spread above, we have a predicted scoreline of 20 to 21
+Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 22 to 23
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Narbonne by 2.8 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player              |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:-------------------------|---------------:|
-|             49 | Théo Castinel      |             46.28 |        1 |             28.29 | Eli Serra-Miglietti      |             80 |
-|             80 | Mehdi Boundjema    |             88.93 |        2 |             23.17 | Santiago Iglesias Valdez |             19 |
-|             10 | Mohammed Loukia    |             22.08 |        3 |             47.51 | Lewys Jones              |             49 |
-|             40 | Darrell Dyer       |             91.61 |        4 |             62.21 | Antoine Delaporte        |             49 |
-|             80 | Marius Antonescu   |             74.18 |        5 |             25.45 | Lucio Anconetani         |             80 |
-|             80 | Arthur Christienne |             71.83 |        6 |             40.94 | Cedric Yonkeu            |             40 |
-|             33 | Paul Belzons       |             15.77 |        7 |             53.62 | Arthur Bruges            |             40 |
-|             33 | Lopeti Timani      |             83.37 |        8 |              6.49 | Otilo Kafotamaki         |             31 |
-|             31 | Pierrick Nova      |             11.36 |        9 |             69.71 | Dylan Nocete             |             31 |
-|             28 | Tom Chauvet        |             57.14 |       10 |             48.11 | Paul Decavel             |             28 |
-|             28 | Clément Clavières  |             81.82 |       11 |             32.32 | Jeannick Ouassiero       |             15 |
-|             25 | Peter Betham       |             98.88 |       12 |             35.23 | Mark Erasmus             |             15 |
-|             80 | Pierre Nueno       |             42.54 |       13 |             61.22 | Louis Decavel            |             15 |
-|             62 | Étienne Ducom      |             34.25 |       14 |              7.71 | Dany Antunes             |             52 |
-|             47 | Thibault Santoro   |             50.72 |       15 |             37.17 | Patrick Fleming Dewhirst |             80 |
-|             55 | Morgan Maga        |             43.73 |       16 |             72.01 | Maxime Danton            |             80 |
-|             65 | Avto Gogiashvili   |            nan    |       17 |             47.89 | Joachim Beaumont         |             70 |
-|             50 | Clément Esteriola  |             19.59 |       18 |             30.42 | Bruno Vliegen            |             58 |
-|             52 | Pablo Barbaste     |             69.88 |       19 |              8.32 | Hugo Detre               |             80 |
-|             80 | Grégoire Labit     |             64.1  |       20 |             37.65 | Joseph Reynaud           |             80 |
-|             55 | Jamie Hagan        |             59.44 |       21 |             63.51 | Geoffrey Cazanave        |             47 |
-|             67 | Gilles Bosch       |             18.28 |       22 |             32.96 | Thomas Simonet           |             80 |
-|            nan | nan                |            nan    |       23 |             57.48 | Victor-Fy Balas Burel    |             61 |
+|             80 | Théo Castinel      |             42.38 |        1 |             39.89 | Eli Serra-Miglietti      |             26 |
+|             80 | Mehdi Boundjema    |             85.28 |        2 |             19.23 | Santiago Iglesias Valdez |             19 |
+|             51 | Mohammed Loukia    |             24.16 |        3 |             48.23 | Lewys Jones              |             61 |
+|             58 | Darrell Dyer       |             92.53 |        4 |             63.04 | Antoine Delaporte        |             13 |
+|             28 | Marius Antonescu   |             69.85 |        5 |             40.45 | Lucio Anconetani         |             13 |
+|             50 | Arthur Christienne |             50.57 |        6 |             40.83 | Cedric Yonkeu            |             65 |
+|             54 | Paul Belzons       |             12.1  |        7 |             54.54 | Arthur Bruges            |             65 |
+|             10 | Lopeti Timani      |             74.41 |        8 |              6.45 | Otilo Kafotamaki         |             80 |
+|             25 | Pierrick Nova      |              8.61 |        9 |             68.67 | Dylan Nocete             |             31 |
+|             28 | Tom Chauvet        |             32.49 |       10 |             46.41 | Paul Decavel             |             40 |
+|             16 | Clément Clavières  |             79.41 |       11 |             29.23 | Jeannick Ouassiero       |             80 |
+|             15 | Peter Betham       |             98.72 |       12 |             38.7  | Mark Erasmus             |             40 |
+|             80 | Pierre Nueno       |             44.82 |       13 |             49.75 | Louis Decavel            |             80 |
+|             31 | Étienne Ducom      |             25.28 |       14 |              6.25 | Dany Antunes             |             49 |
+|             80 | Thibault Santoro   |             56.3  |       15 |             39.63 | Patrick Fleming Dewhirst |             49 |
+|             80 | Morgan Maga        |             42.91 |       16 |             72.85 | Maxime Danton            |             80 |
+|             28 | Avto Gogiashvili   |            nan    |       17 |             49.43 | Joachim Beaumont         |             80 |
+|             80 | Clément Esteriola  |              9.2  |       18 |             31.3  | Bruno Vliegen            |             80 |
+|             80 | Pablo Barbaste     |             68.16 |       19 |              8.88 | Hugo Detre               |             50 |
+|             64 | Grégoire Labit     |             63.48 |       20 |             33.78 | Joseph Reynaud           |             15 |
+|             47 | Jamie Hagan        |             59.47 |       21 |             64.54 | Geoffrey Cazanave        |             59 |
+|             60 | Gilles Bosch       |              7.59 |       22 |             33.84 | Thomas Simonet           |             80 |
+|            nan | nan                |            nan    |       23 |             58.91 | Victor-Fy Balas Burel    |             80 |
 

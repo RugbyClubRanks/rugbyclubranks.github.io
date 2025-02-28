@@ -11,7 +11,7 @@ categories: "Top 14 Orange 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.657, which translates to predicting Castres Olympique to win by 5.7.
 
-Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 22 to 27
+Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 23 to 29
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,28 +69,28 @@ Castres Olympique by 6.6 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             28 | Sebastien Taofifenua |             12.35 |        1 |             68.6  | Quentin Walcker      |             24 |
-|             36 | Guillaume Marchand   |             51.79 |        2 |             77    | Pierre Colonna       |             29 |
-|              0 | Irakli Aptsiauri     |             81.93 |        3 |             33.2  | Nicolas Corato       |             81 |
-|             31 | Felix Lambey         |             77.47 |        4 |             29.69 | Guillaume Ducat      |             41 |
-|             81 | Alban Roussel        |             86.99 |        5 |             96.61 | Leone Nakarawa       |             17 |
-|             17 | Theo William         |             24.23 |        6 |             41.31 | Mathieu Babillot     |             45 |
-|             80 | Beka Saginadze       |             57.93 |        7 |              2.54 | Gauthier Maravat     |             68 |
-|             36 | Maxime Gouzou        |             58.01 |        8 |             75.05 | Tyler Ardron         |             81 |
-|             81 | Baptiste Couilloud   |             94.32 |        9 |             87.26 | Jeremy Fernandez     |             40 |
-|             81 | Martin Meliande      |              5.25 |       10 |             69.96 | Julien Dumora        |             14 |
-|             34 | Alfred Parisien      |             73.65 |       11 |             95.32 | Remy Baget           |              0 |
-|             53 | Theo Millet          |             77.56 |       12 |             96.24 | Jack Goodhue         |             19 |
-|             13 | Thibaut Regard       |             45.48 |       13 |             82.34 | Vilimoni Botitu      |             24 |
-|             80 | Davit Niniashvili    |             95.59 |       14 |             98.35 | Geoffrey Palis       |             40 |
-|             63 | Davit Niniashvili    |             95.59 |       14 |             98.35 | Geoffrey Palis       |             40 |
-|             28 | Alexandre Tchaptchet |             65.5  |       15 |             69.61 | Theo Chabouni        |             81 |
-|             80 | Yanis Charcosset     |             24.87 |       16 |             34.07 | Loris Zarantonello   |             81 |
-|             80 | Hamza Kaabeche       |             19.71 |       17 |             85.45 | Antoine Tichit       |             81 |
-|              5 | Arno Botha           |             89.66 |       18 |             85.77 | Florent Vanverberghe |             53 |
-|             53 | Steeve Blanc-Mappaz  |              9.3  |       19 |             15.62 | Abraham Papali'i     |             64 |
-|             80 | Josiah Maraku        |             10.25 |       20 |             54.97 | Feibyan Tukino       |             64 |
-|             17 | Semi Radradra        |             99.29 |       21 |             85.89 | Santiago Arata       |             28 |
-|              5 | Beka Shvangiradze    |             26.57 |       22 |             83.96 | Adrea Cocagi         |             67 |
-|             27 | Cedate Gomes Sa      |             76.7  |       23 |             61.65 | Aurelien Azar        |             47 |
+|             81 | Sebastien Taofifenua |             18.06 |        1 |             51.85 | Quentin Walcker      |             80 |
+|             40 | Guillaume Marchand   |             50.84 |        2 |             66.39 | Pierre Colonna       |             81 |
+|             41 | Irakli Aptsiauri     |             88.12 |        3 |             36.52 | Nicolas Corato       |             80 |
+|             52 | Felix Lambey         |             81.57 |        4 |             36.01 | Guillaume Ducat      |             17 |
+|             62 | Alban Roussel        |             86.01 |        5 |             97.07 | Leone Nakarawa       |             27 |
+|             24 | Theo William         |             17.96 |        6 |             42.72 | Mathieu Babillot     |              8 |
+|             17 | Beka Saginadze       |             48.87 |        7 |              1.8  | Gauthier Maravat     |             81 |
+|             81 | Maxime Gouzou        |             66.21 |        8 |             68.16 | Tyler Ardron         |             81 |
+|             19 | Baptiste Couilloud   |             93.98 |        9 |             87.95 | Jeremy Fernandez     |             57 |
+|              0 | Martin Meliande      |              4.01 |       10 |             67.51 | Julien Dumora        |             52 |
+|             14 | Alfred Parisien      |             73.25 |       11 |             93.47 | Remy Baget           |             80 |
+|             40 | Theo Millet          |             72.16 |       12 |             95.56 | Jack Goodhue         |             30 |
+|              0 | Thibaut Regard       |             41.76 |       13 |             79.66 | Vilimoni Botitu      |             67 |
+|             53 | Davit Niniashvili    |             95.77 |       14 |             98.44 | Geoffrey Palis       |             29 |
+|             81 | Davit Niniashvili    |             95.77 |       14 |             98.44 | Geoffrey Palis       |             29 |
+|             23 | Alexandre Tchaptchet |             60.77 |       15 |             65.45 | Theo Chabouni        |             57 |
+|             28 | Yanis Charcosset     |             25.42 |       16 |             33.95 | Loris Zarantonello   |             72 |
+|             81 | Hamza Kaabeche       |             21.03 |       17 |             85.71 | Antoine Tichit       |             80 |
+|             81 | Arno Botha           |             89.45 |       18 |             84.5  | Florent Vanverberghe |             81 |
+|             68 | Steeve Blanc-Mappaz  |              9.26 |       19 |             16.21 | Abraham Papali'i     |             24 |
+|             81 | Josiah Maraku        |              7.6  |       20 |             55.47 | Feibyan Tukino       |             45 |
+|             81 | Semi Radradra        |             99.41 |       21 |             86.75 | Santiago Arata       |             81 |
+|             57 | Beka Shvangiradze    |             33.93 |       22 |             81.54 | Adrea Cocagi         |             41 |
+|             81 | Cedate Gomes Sa      |             77.85 |       23 |             62.12 | Aurelien Azar        |             27 |
 

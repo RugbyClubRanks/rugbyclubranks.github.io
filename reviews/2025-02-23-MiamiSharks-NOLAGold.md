@@ -9,9 +9,9 @@ categories: "Major League Rugby 2025" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.493, which translates to predicting NOLA Gold to win by 0.3.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.491, which translates to predicting NOLA Gold to win by 0.3.
 
-Our Over/Under is 61.5 - and combined with the spread above, we have a predicted scoreline of 31 to 30
+Our Over/Under is 62.5 - and combined with the spread above, we have a predicted scoreline of 31 to 31
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Miami Sharks by 1.4 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             14 | Matthew Harmon       |             16.35 |        1 |             58.63 | Ma'ake Muti         |             82 |
-|             58 | Pat O'Toole          |             66.78 |        2 |             31.18 | Kirby Myhill        |             14 |
-|             82 | Paul Mullen          |             21.42 |        3 |             70.07 | Alex Tucci          |             75 |
-|             83 | Malcolm May          |             43.17 |        4 |             45.9  | Mauro Rebussone     |              9 |
-|             47 | Cam Dolan            |             30.54 |        5 |             58.72 | Federico Gutierrez  |             82 |
-|              0 | Moni Tonga'uiha      |             76.43 |        6 |             78.4  | Manuel Ardao        |             82 |
-|             36 | Kelian Galletier     |             78.5  |        7 |             64.04 | Benja Bonassoa      |             68 |
-|             23 | Jonah Mau'u          |             65.11 |        8 |             66.94 | Marques Fuala'au    |             82 |
-|             31 | Luke Campbell        |              3.79 |        9 |             40.45 | Tomas Cubelli       |             82 |
-|             31 | Dorian Jones         |             66.39 |       10 |             63.03 | Martin Elias        |             50 |
-|             12 | Julian Roberts       |             46.46 |       11 |             66.85 | Connor Burns        |             18 |
-|             21 | Nikolai Foliaki      |              3.45 |       12 |             19.29 | Santiago Videla     |             38 |
-|             23 | Isaac Te Tamaki      |              2.94 |       13 |             11.07 | Guiseppe du Toit    |             41 |
-|             51 | Xavier Mignot        |             70.25 |       14 |             59.23 | Marcos Young        |             82 |
-|             21 | Cooper Coats         |              8.83 |       15 |             46.61 | Tomas Malanos       |             51 |
-|             74 | Alex Lopeti          |            nan    |       16 |             72.4  | Sean McNulty        |             82 |
-|             59 | Jarred Adams         |             90.35 |       17 |            nan    | Jonas Petrakopoulos |             51 |
-|             83 | Isaac Salmon         |             66.23 |       18 |             10.3  | Tau Koloamatangi    |             61 |
-|             83 | William Waguespack   |            nan    |       19 |            nan    | Tomas Casares       |             59 |
-|             83 | Aidan King           |            nan    |       20 |            nan    | Tomas Bekerman      |             59 |
-|             83 | Tupou Ma'afu-Afungia |             23.19 |       21 |             17.56 | Tomas Inciarte      |             70 |
-|             42 | Ruben de Haas        |             55.77 |       22 |            nan    | Lautaro Soto-Ansay  |             61 |
-|             47 | Reece Botha          |            nan    |       23 |            nan    | Chase Schor Haskin  |             82 |
+|             82 | Matthew Harmon       |             23.35 |        1 |             70.71 | Ma'ake Muti         |             38 |
+|             12 | Pat O'Toole          |             64.88 |        2 |             26.09 | Kirby Myhill        |             41 |
+|             21 | Paul Mullen          |             36.04 |        3 |             71.75 | Alex Tucci          |             82 |
+|             23 | Malcolm May          |             44.33 |        4 |             48.2  | Mauro Rebussone     |             82 |
+|             83 | Cam Dolan            |             31.29 |        5 |             65.5  | Federico Gutierrez  |             70 |
+|             83 | Moni Tonga'uiha      |             72.02 |        6 |             76.47 | Manuel Ardao        |             58 |
+|             83 | Kelian Galletier     |             78.36 |        7 |             65.22 | Benja Bonassoa      |             59 |
+|             59 | Jonah Mau'u          |             66.41 |        8 |             63.09 | Marques Fuala'au    |             14 |
+|             31 | Luke Campbell        |              3.79 |        9 |             34.42 | Tomas Cubelli       |             18 |
+|             23 | Dorian Jones         |             63.92 |       10 |             58.02 | Martin Elias        |             61 |
+|             82 | Julian Roberts       |             39.98 |       11 |             60.11 | Connor Burns        |              0 |
+|             31 | Nikolai Foliaki      |              1.68 |       12 |             21.42 | Santiago Videla     |             82 |
+|              4 | Isaac Te Tamaki      |              2.47 |       13 |             11.94 | Guiseppe du Toit    |             50 |
+|             83 | Xavier Mignot        |             76.56 |       14 |             58.82 | Marcos Young        |             83 |
+|             75 | Cooper Coats         |             10.16 |       15 |             53.86 | Tomas Malanos       |             61 |
+|             24 | Alex Lopeti          |            nan    |       16 |             73.41 | Sean McNulty        |             59 |
+|             74 | Jarred Adams         |             90.61 |       17 |            nan    | Jonas Petrakopoulos |             68 |
+|             83 | Isaac Salmon         |             66.85 |       18 |             11.16 | Tau Koloamatangi    |             51 |
+|             51 | William Waguespack   |            nan    |       19 |            nan    | Tomas Casares       |             82 |
+|             51 | Aidan King           |            nan    |       20 |            nan    | Tomas Bekerman      |             82 |
+|             47 | Tupou Ma'afu-Afungia |             23.82 |       21 |             17.08 | Tomas Inciarte      |             82 |
+|             83 | Ruben de Haas        |             55.94 |       22 |            nan    | Lautaro Soto-Ansay  |              9 |
+|             21 | Reece Botha          |            nan    |       23 |            nan    | Chase Schor Haskin  |             82 |
 
