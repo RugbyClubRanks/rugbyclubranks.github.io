@@ -1,6 +1,6 @@
 ---  
 title: "Guinness U20 Six Nations 2025 Status"  
-date: 2025-02-21 6:00:00 -0500  
+date: 2025-03-03 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,12 +17,12 @@ aside:
 
 | Club         |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| England U20  |               1 |    0.9 |             35.9903  |                   0   |                0.9 |                  4.6 |
-| France U20   |               1 |    0.9 |             22.7618  |                   0   |                0.8 |                  4.5 |
-| Ireland U20  |               1 |    0.7 |              7.13097 |                   0.2 |                0.6 |                  3.8 |
-| Wales U20    |               1 |    0.3 |             -7.13097 |                   0.3 |                0.4 |                  1.7 |
-| Italy U20    |               1 |    0.1 |            -22.7618  |                   0.1 |                0.1 |                  0.5 |
-| Scotland U20 |               1 |    0.1 |            -35.9903  |                   0   |                0.2 |                  0.4 |
+| England U20  |               1 |    0.9 |             32.9512  |                   0   |                0.8 |                  4.5 |
+| France U20   |               1 |    0.9 |             13.1293  |                   0.1 |                0.6 |                  4.2 |
+| Wales U20    |               1 |    0.8 |              9.59628 |                   0.1 |                0.6 |                  3.8 |
+| Scotland U20 |               1 |    0.2 |             -9.59628 |                   0.2 |                0.4 |                  1.5 |
+| Ireland U20  |               1 |    0.1 |            -13.1293  |                   0.2 |                0.2 |                  0.9 |
+| Italy U20    |               1 |    0.1 |            -32.9512  |                   0   |                0.1 |                  0.4 |
 
 
 
@@ -30,41 +30,41 @@ aside:
 
 ## Week 1
 
-### England U20 V Scotland U20 on 2025/02/21
+### Scotland U20 V Wales U20 on 2025/03/07
 
 
-Average Margin: England U20 by 36.0
+Average Margin: Wales U20 by 9.6
 
-Average Scoreline: 64-28
+Average Scoreline: 36-26
 
 <p float="left">
-<img src="plots/performances_2025-02-21-EnglandU20_V_ScotlandU20.png" width="32%" />
-<img src="plots/resultbar_2025-02-21-EnglandU20_V_ScotlandU20.png" width="32%" />
-<img src="plots/spreads_2025-02-21-EnglandU20_V_ScotlandU20.png" width="32%" />
+<img src="plots/performances_2025-03-07-ScotlandU20_V_WalesU20.png" width="32%" />
+<img src="plots/resultbar_2025-03-07-ScotlandU20_V_WalesU20.png" width="32%" />
+<img src="plots/spreads_2025-03-07-ScotlandU20_V_WalesU20.png" width="32%" />
 </p>
 
-### Wales U20 V Ireland U20 on 2025/02/21
+### Ireland U20 V France U20 on 2025/03/07
 
 
-Average Margin: Ireland U20 by 7.1
+Average Margin: France U20 by 13.1
 
-Average Scoreline: 37-30
+Average Scoreline: 43-30
 
 <p float="left">
-<img src="plots/performances_2025-02-21-WalesU20_V_IrelandU20.png" width="32%" />
-<img src="plots/resultbar_2025-02-21-WalesU20_V_IrelandU20.png" width="32%" />
-<img src="plots/spreads_2025-02-21-WalesU20_V_IrelandU20.png" width="32%" />
+<img src="plots/performances_2025-03-07-IrelandU20_V_FranceU20.png" width="32%" />
+<img src="plots/resultbar_2025-03-07-IrelandU20_V_FranceU20.png" width="32%" />
+<img src="plots/spreads_2025-03-07-IrelandU20_V_FranceU20.png" width="32%" />
 </p>
 
-### Italy U20 V France U20 on 2025/02/22
+### England U20 V Italy U20 on 2025/03/07
 
 
-Average Margin: France U20 by 22.8
+Average Margin: England U20 by 33.0
 
-Average Scoreline: 57-34
+Average Scoreline: 44-11
 
 <p float="left">
-<img src="plots/performances_2025-02-22-ItalyU20_V_FranceU20.png" width="32%" />
-<img src="plots/resultbar_2025-02-22-ItalyU20_V_FranceU20.png" width="32%" />
-<img src="plots/spreads_2025-02-22-ItalyU20_V_FranceU20.png" width="32%" />
+<img src="plots/performances_2025-03-07-EnglandU20_V_ItalyU20.png" width="32%" />
+<img src="plots/resultbar_2025-03-07-EnglandU20_V_ItalyU20.png" width="32%" />
+<img src="plots/spreads_2025-03-07-EnglandU20_V_ItalyU20.png" width="32%" />
 </p>
