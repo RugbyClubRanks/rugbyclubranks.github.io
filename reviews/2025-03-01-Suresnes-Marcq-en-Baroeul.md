@@ -11,7 +11,7 @@ categories: "Nationale 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.673, which translates to predicting Suresnes to win by 6.5.
 
-Our Over/Under is 42.5 - and combined with the spread above, we have a predicted scoreline of 18 to 24
+Our Over/Under is 41.5 - and combined with the spread above, we have a predicted scoreline of 17 to 24
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Suresnes by 6.2
+## Prediction without Player Minutes: Suresnes by 4.4
 
 
-Suresnes by 2.8 on a neutral pitch
+Suresnes by 0.9 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Suresnes by 2.8 on a neutral pitch
 
 |   Away Minutes | Away Player              |   Away Percentile |   Number |   Home Percentile | Home Player             |   Home Minutes |
 |---------------:|:-------------------------|------------------:|---------:|------------------:|:------------------------|---------------:|
-|        17      | Bruno Vliegen            |              8.51 |        1 |             73.91 | Thibaud Sebire          |             72 |
-|        34      | Joseph Reynaud           |             33.5  |        2 |             10.45 | Jean-Étienne Lesueur    |             15 |
-|        22      | Victor-Fy Balas Burel    |             50.57 |        3 |             29.01 | Leandro Mario Assi      |              0 |
-|        63      | Antoine Delaporte        |             64.91 |        4 |             58.99 | Damien Bozic            |             11 |
-|        68      | Jean-Baptiste Rende      |             61.38 |        5 |             82.89 | Nikita Bekov            |             20 |
-|        80      | Cedric Yonkeu            |             54.14 |        6 |             48.5  | Corentin Rougier        |             28 |
-|        20.6667 | Arthur Bruges            |             60.71 |        7 |             34.02 | Simon Veyrac            |             30 |
-|        60      | Otilo Kafotamaki         |              6.63 |        8 |             77.31 | Lakisipone Lee          |             14 |
-|        11      | Dylan Nocete             |             69.14 |        9 |              7.07 | Thomas Lacroix          |             27 |
-|        22      | Paul Decavel             |             44.21 |       10 |             69.05 | Jean Chezeau            |             80 |
-|        22      | Mathias Ortiz            |             68.93 |       11 |             94.35 | Faraj Fartass           |             52 |
-|        28      | Louis Decavel            |             56.64 |       12 |             79.02 | Victor Barnier          |             63 |
-|        58      | Hugo Detre               |              5.69 |       13 |             44.46 | Gauthier Wolf           |             80 |
-|        80      | Dany Antunes             |              8.95 |       14 |             71.75 | Petero Tuwai            |             80 |
-|         0      | Patrick Fleming Dewhirst |             45.31 |       15 |              3.06 | Goulwen Gueho           |             80 |
-|        12      | Eli Serra-Miglietti      |             35.09 |       16 |             70.77 | Wian Vosloo             |             80 |
-|        13      | Maxime Danton            |             71.29 |       17 |              8.76 | Yohan Fournier          |             46 |
-|        34      | Joachim Beaumont         |             53.67 |       18 |             22.28 | Sacha Yahi              |             46 |
-|        34      | Lewys Jones              |             59.97 |       19 |             68.07 | Elias Coulibaly         |             52 |
-|        34      | Santiago Iglesias Valdez |             19.9  |       20 |             24.15 | Nail Audoire            |             80 |
-|        12      | Lucio Anconetani         |             40.25 |       21 |             41.21 | Germain de Borda        |             58 |
-|        80      | Geoffrey Cazanave        |             65.52 |       22 |             73.47 | Gauthier Brute de Remur |             80 |
-|        12      | Mark Erasmus             |             44.36 |       23 |             54.11 | Tanguy Lacoste          |             80 |
+|           30   | Bruno Vliegen            |             17.04 |        1 |             74.96 | Thibaud Sebire          |             67 |
+|           80   | Joseph Reynaud           |             38.69 |        2 |             17.76 | Jean-Étienne Lesueur    |             80 |
+|           80   | Victor-Fy Balas Burel    |             50.64 |        3 |             33.68 | Leandro Mario Assi      |             56 |
+|           80   | Antoine Delaporte        |             64.09 |        4 |             69.09 | Damien Bozic            |             68 |
+|           20   | Jean-Baptiste Rende      |             62.58 |        5 |             84.35 | Nikita Bekov            |             44 |
+|           68   | Cedric Yonkeu            |             53.72 |        6 |             49.91 | Corentin Rougier        |             23 |
+|           57   | Arthur Bruges            |             64.71 |        7 |             31.38 | Simon Veyrac            |             28 |
+|           28   | Otilo Kafotamaki         |              7.63 |        8 |             78.56 | Lakisipone Lee          |              8 |
+|           12   | Dylan Nocete             |             74.66 |        9 |              8.9  | Thomas Lacroix          |             23 |
+|           28   | Paul Decavel             |             52.49 |       10 |             67.22 | Jean Chezeau            |             12 |
+|            3   | Mathias Ortiz            |             69.66 |       11 |             93.89 | Faraj Fartass           |             12 |
+|           77   | Louis Decavel            |             51.79 |       12 |             80.29 | Victor Barnier          |             36 |
+|           80   | Hugo Detre               |              6.44 |       13 |             38.61 | Gauthier Wolf           |             20 |
+|           80   | Dany Antunes             |              7.03 |       14 |             75.49 | Petero Tuwai            |             80 |
+|           28   | Patrick Fleming Dewhirst |             47.7  |       15 |              3.21 | Goulwen Gueho           |             80 |
+|           50   | Eli Serra-Miglietti      |             46.56 |       16 |             72.25 | Wian Vosloo             |             80 |
+|           80   | Maxime Danton            |             74.43 |       17 |              8.42 | Yohan Fournier          |             24 |
+|           52   | Joachim Beaumont         |             49.72 |       18 |             25.73 | Sacha Yahi              |             60 |
+|           80   | Lewys Jones              |             58.64 |       19 |             68.08 | Elias Coulibaly         |             52 |
+|           80   | Santiago Iglesias Valdez |             28.14 |       20 |             23.92 | Nail Audoire            |             80 |
+|           72   | Lucio Anconetani         |             44.39 |       21 |             42.98 | Germain de Borda        |             80 |
+|           28.5 | Geoffrey Cazanave        |             66.61 |       22 |             72.7  | Gauthier Brute de Remur |             68 |
+|           80   | Mark Erasmus             |             53.63 |       23 |             42.95 | Tanguy Lacoste          |             80 |
 

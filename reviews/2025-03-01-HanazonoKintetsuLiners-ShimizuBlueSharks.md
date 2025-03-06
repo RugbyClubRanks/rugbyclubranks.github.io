@@ -9,9 +9,9 @@ categories: "Japan Rugby League One D2 24/25" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.917, which translates to predicting Hanazono Kintetsu Liners to win by 21.8.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.902, which translates to predicting Hanazono Kintetsu Liners to win by 20.1.
 
-Our Over/Under is 75.5 - and combined with the spread above, we have a predicted scoreline of 27 to 49
+Our Over/Under is 57.5 - and combined with the spread above, we have a predicted scoreline of 19 to 39
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model

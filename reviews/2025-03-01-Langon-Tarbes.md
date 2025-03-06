@@ -11,7 +11,7 @@ categories: "Nationale 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.539, which translates to predicting Langon to win by 1.4.
 
-Our Over/Under is 36.5 - and combined with the spread above, we have a predicted scoreline of 18 to 19
+Our Over/Under is 40.5 - and combined with the spread above, we have a predicted scoreline of 19 to 21
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Langon by 1.0
+## Prediction without Player Minutes: Tarbes by 0.8
 
 
-Tarbes by 1.3 on a neutral pitch
+Tarbes by 3.2 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,26 +69,26 @@ Tarbes by 1.3 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player              |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:-------------------------|---------------:|
-|        40      | Ximun Bessonart     |             10.21 |        1 |             31.6  | Lucas Hernandez          |           53   |
-|        69      | Florian Lamothe     |             17.41 |        2 |             45.61 | Maxime Lancon            |           50   |
-|        26      | Luka Vea            |             43.19 |        3 |              5.51 | Maxime Gau               |           80   |
-|        30.5    | Léo Saint-Guilhem   |             53.73 |        4 |             20.27 | Thomas Geffré            |            8   |
-|        80      | Mathieu Soufflet    |             65.77 |        5 |             18.16 | Isikili Seva Davetawalu  |           30.5 |
-|        50      | Alexis Armary       |             94.17 |        6 |             37.12 | Thomas Bishop            |           31   |
-|        33      | Jean Guicherd       |             65.04 |        7 |             62.78 | Jules Depoortere         |           40   |
-|        80      | Joeli Matalaweru    |             43.78 |        8 |             47.99 | Thomas Mendy             |           22   |
-|        80      | Mickael Thébault    |             78.28 |        9 |             58.28 | Paul Castera             |            5   |
-|        31      | Alexandre Perez     |             19.16 |       10 |             31.37 | Baptiste Castanier       |           49   |
-|        49      | Clement Latorre     |             29.38 |       11 |             54.71 | Thomas Wallraf           |           19   |
-|        13      | Savenaca Rawaca     |             12.79 |       12 |             40.16 | Aurelien Tamagnan        |           75   |
-|        22      | Hugo Cellier        |             40.36 |       13 |             45.05 | Yul Charrier             |           31   |
-|        63      | Amona Artaud        |             37.19 |       14 |             13.28 | Quentin Lefort           |           80   |
-|        80      | Joris Pialot        |             17.14 |       15 |             55.1  | Nathan Gagnac            |           18   |
-|        25      | Maile Mamao         |              7.59 |       16 |             35.52 | Baptiste Tisne Cardeneau |           35   |
-|        50      | Clément Gaubert     |            nan    |       17 |             15.56 | Ratu Nailoma Vatubua     |           22   |
-|        19      | Jonathan Duffau     |             10.64 |       18 |             18.57 | Clement Renaud           |           22   |
-|        22      | Vincent Dolier      |             60.03 |       19 |             83.99 | Sionasa Vunisa           |           80   |
-|        20.6667 | Thomas Millet       |             11.03 |       20 |             22.09 | Simon Zubizarreta        |           80   |
-|        65      | Léo Estaque         |             17.69 |       21 |             46.77 | Julien Graffouillère     |           61   |
-|        17      | Irakli Mirtskhulava |             81.36 |       22 |             20.39 | Ludovic Sempé            |           54   |
+|           80   | Ximun Bessonart     |             13.84 |        1 |             25.52 | Lucas Hernandez          |             80 |
+|           54   | Florian Lamothe     |             16.58 |        2 |             60.64 | Maxime Lancon            |             40 |
+|           80   | Luka Vea            |             55.92 |        3 |              3.84 | Maxime Gau               |             30 |
+|           30   | Léo Saint-Guilhem   |             56.08 |        4 |             19.6  | Thomas Geffré            |             18 |
+|           80   | Mathieu Soufflet    |             68.43 |        5 |             17.62 | Isikili Seva Davetawalu  |             52 |
+|           30.5 | Alexis Armary       |             95.34 |        6 |             55.49 | Thomas Bishop            |             30 |
+|           80   | Jean Guicherd       |             68.06 |        7 |             53.26 | Jules Depoortere         |             72 |
+|           80   | Joeli Matalaweru    |             57.53 |        8 |             49.9  | Thomas Mendy             |             59 |
+|           60   | Mickael Thébault    |             78.94 |        9 |             57.88 | Paul Castera             |             80 |
+|           53   | Alexandre Perez     |             20.12 |       10 |             25.31 | Baptiste Castanier       |             40 |
+|           62   | Clement Latorre     |             43.29 |       11 |             59.3  | Thomas Wallraf           |             80 |
+|           26   | Savenaca Rawaca     |             16.75 |       12 |             41.06 | Aurelien Tamagnan        |             80 |
+|            8   | Hugo Cellier        |             55.98 |       13 |             34.63 | Yul Charrier             |             80 |
+|            0   | Amona Artaud        |             46.25 |       14 |             12.3  | Quentin Lefort           |             59 |
+|           80   | Joris Pialot        |             24.25 |       15 |             48.9  | Nathan Gagnac            |             80 |
+|           51   | Maile Mamao         |              8.07 |       16 |             47.43 | Baptiste Tisne Cardeneau |             66 |
+|           11   | Clément Gaubert     |            nan    |       17 |             15.68 | Ratu Nailoma Vatubua     |             80 |
+|           13   | Jonathan Duffau     |              9.81 |       18 |             19.93 | Clement Renaud           |             70 |
+|           80   | Vincent Dolier      |             61.31 |       19 |             83.63 | Sionasa Vunisa           |             51 |
+|            8   | Thomas Millet       |             17.47 |       20 |             18.25 | Simon Zubizarreta        |             80 |
+|           80   | Léo Estaque         |             19.79 |       21 |             56.78 | Julien Graffouillère     |             80 |
+|           72   | Irakli Mirtskhulava |             80.16 |       22 |             19.83 | Ludovic Sempé            |             18 |
 

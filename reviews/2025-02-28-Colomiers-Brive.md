@@ -11,7 +11,7 @@ categories: "Pro D2 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.57, which translates to predicting Colomiers to win by 2.5.
 
-Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 22 to 24
+Our Over/Under is 42.5 - and combined with the spread above, we have a predicted scoreline of 20 to 22
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,26 +69,26 @@ Brive by 12.7 on a neutral pitch
 
 |   Away Minutes | Away Player               |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:--------------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             40 | Vakh Abdaladze            |             83.87 |        1 |              7.7  | Elias El Ansari     |              0 |
-|             80 | Benjamin Boudou           |             63.68 |        2 |             53.73 | Pablo Dimcheff      |             80 |
-|              0 | Marcel van der Merwe      |             11.02 |        3 |             38.41 | Marco Fepulea'i     |             80 |
-|             80 | Asier Usarraga            |             91.11 |        4 |             58.41 | Jean Thomas         |             51 |
-|             80 | Tevita Ratuva             |             56.02 |        5 |             30.59 | Janse Roux          |             80 |
-|             80 | Geoffrey Malaterre        |             79.7  |        6 |              5.73 | Anthony Coletta     |             19 |
-|              0 | Courtney Lawes            |             97.09 |        7 |             67.58 | Aldric Lescure      |             54 |
-|             80 | Retief Marais             |             84.14 |        8 |             19.48 | Caleb Timu          |              0 |
-|             80 | Mathis Ferté              |             56.21 |        9 |             35    | Mathis Galthié      |             80 |
-|              0 | Curwin Bosch              |             77.89 |       10 |             32.63 | Ugo Pacome          |              0 |
-|             40 | Erwan Dridi               |             91.9  |       11 |             94.82 | Rodrigo Marta       |             80 |
-|              0 | Paul Pimienta             |             20.08 |       12 |             20.28 | Ray Nu'u            |             80 |
-|             80 | Matias Moroni             |             95.1  |       13 |              7.09 | Martin Dulon        |              0 |
-|             80 | Asaeli Tuivuaka           |             85.59 |       14 |              9.13 | Martin Alonso Munoz |              0 |
-|              0 | Stuart Olding             |             89.59 |       15 |             67.55 | Vincent Pinto       |              0 |
-|              0 | Timilai Rokoduru          |             55.24 |       16 |             15    | Sadek Deghmache     |             40 |
-|              0 | Simon-Pierre Chauvac      |              8.1  |       17 |              3.81 | Theo Lachaud        |             80 |
-|              0 | Samuel Maximin            |             58.93 |       18 |             29.9  | Michael Simutoga    |             80 |
-|             80 | Konstantin Mikautadze     |              6.21 |       19 |             56.89 | Hugo Pirlet         |             80 |
-|             80 | Francisco Coria Marchetti |             57.46 |       20 |              5.93 | Jack Whetton        |             80 |
-|             55 | Lucas da Silva            |             27.86 |       21 |              1.43 | Valentin Saurs      |             80 |
-|             80 | Hugo Verdu                |              8.1  |       22 |             22.74 | Jeremy Bechu        |             80 |
+|             80 | Vakh Abdaladze            |             87.92 |        1 |             10.64 | Elias El Ansari     |             80 |
+|             80 | Benjamin Boudou           |             78.22 |        2 |             65.33 | Pablo Dimcheff      |             80 |
+|             25 | Marcel van der Merwe      |             17.68 |        3 |             52.72 | Marco Fepulea'i     |             64 |
+|             58 | Asier Usarraga            |             91.71 |        4 |             49.86 | Jean Thomas         |             80 |
+|             80 | Tevita Ratuva             |             50.24 |        5 |             40.62 | Janse Roux          |             80 |
+|             44 | Geoffrey Malaterre        |             79.98 |        6 |              6.42 | Anthony Coletta     |             80 |
+|             44 | Courtney Lawes            |             97.67 |        7 |             74.3  | Aldric Lescure      |             65 |
+|             33 | Retief Marais             |             88.04 |        8 |             20.62 | Caleb Timu          |             25 |
+|             32 | Mathis Ferté              |             60.62 |        9 |             41.44 | Mathis Galthié      |             25 |
+|             32 | Curwin Bosch              |             85.27 |       10 |             32.16 | Ugo Pacome          |             31 |
+|             36 | Erwan Dridi               |             92.78 |       11 |             95.1  | Rodrigo Marta       |             25 |
+|             23 | Paul Pimienta             |             24.51 |       12 |             22.88 | Ray Nu'u            |             58 |
+|             59 | Matias Moroni             |             97.34 |       13 |             10.11 | Martin Dulon        |             22 |
+|             80 | Asaeli Tuivuaka           |             87.42 |       14 |              9.99 | Martin Alonso Munoz |             22 |
+|             48 | Stuart Olding             |             92.79 |       15 |             65.73 | Vincent Pinto       |             80 |
+|             61 | Timilai Rokoduru          |             56.89 |       16 |              9.59 | Sadek Deghmache     |             31 |
+|             15 | Simon-Pierre Chauvac      |              8.32 |       17 |              4.36 | Theo Lachaud        |             61 |
+|             80 | Samuel Maximin            |             61.36 |       18 |             30.48 | Michael Simutoga    |             73 |
+|             15 | Konstantin Mikautadze     |              5.56 |       19 |             57.36 | Hugo Pirlet         |             47 |
+|             80 | Francisco Coria Marchetti |             58.4  |       20 |              8.29 | Jack Whetton        |             80 |
+|             16 | Lucas da Silva            |             28.64 |       21 |              1.4  | Valentin Saurs      |             48 |
+|             29 | Hugo Verdu                |              8.39 |       22 |             18.34 | Jeremy Bechu        |             57 |
 
