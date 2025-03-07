@@ -11,7 +11,7 @@ categories: "Pro D2 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.685, which translates to predicting Grenoble to win by 6.8.
 
-Our Over/Under is 55.5 - and combined with the spread above, we have a predicted scoreline of 24 to 31
+Our Over/Under is 57.5 - and combined with the spread above, we have a predicted scoreline of 25 to 32
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Grenoble by 11.2 on a neutral pitch
 
 |   Away Minutes | Away Player             |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:------------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             51 | Yahnis El Maslouhi      |             39.84 |        1 |             90.88 | Zack Gauthier      |             22 |
-|             57 | Yvann Lalevee           |             79.73 |        2 |             91.29 | Bastien Soury      |             42 |
-|             64 | John Henry Fincham      |             66.88 |        3 |             68    | Johannes Jonker    |             20 |
-|             51 | Baptiste Abescat-Leroy  |             54.1  |        4 |             61.92 | Thomas Lainault    |             30 |
-|             25 | Petero Taviraki Mailulu |             41.56 |        5 |             73.14 | Pio Muarua         |             31 |
-|             80 | Thomas Canaleta         |             39.39 |        6 |             90.88 | Antonin Berruyer   |             12 |
-|             76 | Tanguy Jaillon          |             42.74 |        7 |             81.56 | Victor Guillaumond |              4 |
-|             21 | Antoine Payrastre       |             40.62 |        8 |             92.78 | Hanru Sirgel       |             81 |
-|             12 | Damien Añon             |             19.52 |        9 |             91.78 | Eric Escande       |             24 |
-|             30 | Victor Dreuille         |             13.49 |       10 |             93.57 | Sam Davies         |             59 |
-|             81 | Aminiasi Tuimaba        |             77.52 |       11 |             87.51 | Wilfried Hulleu    |             56 |
-|             81 | Taleta Tupuola          |             42.39 |       12 |             78.75 | Romain Trouilloud  |             16 |
-|             59 | Theo Vassallo           |             41.88 |       13 |             74.26 | Romain Fusier      |             81 |
-|             81 | Kylian Bert             |             44.13 |       14 |             78.72 | Gerswin Mouton     |             81 |
-|             77 | Harry Glynn             |             30.26 |       15 |             99    | Julien Farnoux     |             81 |
-|             81 | Julien Rasamoelina      |            nan    |       16 |             52.5  | Brandon Nansen     |             24 |
-|             56 | Yanis Boulassel         |             18.09 |       17 |             91.32 | Yan Lestrade       |             24 |
-|             24 | Clément Samper          |            nan    |       18 |             84.96 | Tommy Raynaud      |             69 |
-|             80 | Camille Vallee          |            nan    |       19 |             55.48 | Barnabe Couilloud  |             61 |
-|             39 | Timeo Labat             |            nan    |       20 |             93.44 | Giorgi Pertaia     |             64 |
-|            nan | nan                     |            nan    |       21 |             84.45 | Thomas Ployet      |             81 |
-|            nan | nan                     |            nan    |       22 |             90.66 | Max Clement        |             59 |
-|            nan | nan                     |            nan    |       23 |            nan    | Sascha Mistrulli   |             59 |
+|             59 | Yahnis El Maslouhi      |             32.49 |        1 |             90.8  | Zack Gauthier      |             80 |
+|             80 | Yvann Lalevee           |             76.81 |        2 |             84.2  | Bastien Soury      |             22 |
+|             12 | John Henry Fincham      |             50.57 |        3 |             53.91 | Johannes Jonker    |             61 |
+|             22 | Baptiste Abescat-Leroy  |             48.66 |        4 |             55.53 | Thomas Lainault    |             52 |
+|             81 | Petero Taviraki Mailulu |             29.29 |        5 |             69.56 | Pio Muarua         |             42 |
+|             80 | Thomas Canaleta         |             39.46 |        6 |             89.78 | Antonin Berruyer   |             77 |
+|             80 | Tanguy Jaillon          |             43.49 |        7 |             78.54 | Victor Guillaumond |             12 |
+|             80 | Antoine Payrastre       |             40.29 |        8 |             88.52 | Hanru Sirgel       |             12 |
+|             77 | Damien Añon             |             16.06 |        9 |             91.97 | Eric Escande       |             31 |
+|             61 | Victor Dreuille         |             11.58 |       10 |             92.21 | Sam Davies         |             81 |
+|             68 | Aminiasi Tuimaba        |             76.57 |       11 |             80.58 | Wilfried Hulleu    |             80 |
+|             28 | Taleta Tupuola          |             47.99 |       12 |             67.87 | Romain Trouilloud  |             21 |
+|             28 | Theo Vassallo           |             25    |       13 |             70.28 | Romain Fusier      |              4 |
+|             19 | Kylian Bert             |             45.58 |       14 |             77.85 | Gerswin Mouton     |             81 |
+|             28 | Harry Glynn             |             31.35 |       15 |             97.13 | Julien Farnoux     |             81 |
+|             80 | Julien Rasamoelina      |            nan    |       16 |             52.29 | Brandon Nansen     |             51 |
+|             28 | Yanis Boulassel         |             18.15 |       17 |             88.35 | Yan Lestrade       |             80 |
+|             80 | Clément Samper          |            nan    |       18 |             87.54 | Tommy Raynaud      |             19 |
+|             80 | Camille Vallee          |            nan    |       19 |             40.31 | Barnabe Couilloud  |              3 |
+|             52 | Timeo Labat             |            nan    |       20 |             95.68 | Giorgi Pertaia     |             80 |
+|            nan | nan                     |            nan    |       21 |             83.4  | Thomas Ployet      |             80 |
+|            nan | nan                     |            nan    |       22 |             90.95 | Max Clement        |             52 |
+|            nan | nan                     |            nan    |       23 |             30.92 | Sascha Mistrulli   |             80 |
 

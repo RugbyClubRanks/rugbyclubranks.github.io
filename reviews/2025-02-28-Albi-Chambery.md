@@ -11,7 +11,7 @@ categories: "Nationale 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.544, which translates to predicting Albi to win by 1.5.
 
-Our Over/Under is 32.5 - and combined with the spread above, we have a predicted scoreline of 15 to 17
+Our Over/Under is 34.5 - and combined with the spread above, we have a predicted scoreline of 17 to 18
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Albi by 8.6
+## Prediction without Player Minutes: Albi by 6.0
 
 
-Chambery by 2.9 on a neutral pitch
+Chambery by 5.5 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,28 @@ Chambery by 2.9 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player            |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:-----------------------|---------------:|
-|             80 | Enzo Segui           |             60.96 |        1 |             32.08 | Antoine Soave          |              0 |
-|             80 | Julien Pierdomenico  |             64.32 |        2 |             43.89 | Dimitri Chauvet        |             23 |
-|             26 | Osman Dimen          |             31.52 |        3 |             88.24 | Maks van Dyk           |             80 |
-|             52 | Taniela Matakaiongo  |             67.01 |        4 |             47.5  | Theo Mercadier         |             82 |
-|             57 | Fabien Witz          |             74.46 |        5 |             47.6  | Jonathan Kpoku         |             82 |
-|             27 | Pierre-Nicolas Dance |             70.86 |        6 |             53.17 | Robin Dione            |             82 |
-|             25 | Colin Lebian         |             81.01 |        7 |             10.43 | Mattéo Coustalat       |             56 |
-|             10 | Tui Uru              |             83.51 |        8 |             31.34 | Guillem Calmon         |             32 |
-|             16 | Aubin Eymeri         |             57.19 |        9 |             71.92 | Gilen Queheille        |             40 |
-|             22 | Arwel Robson         |             51.24 |       10 |             17.84 | Victor Pisano          |             60 |
-|             51 | Arthur Nennig        |             90.47 |       11 |             41.81 | Kamilieni Raivono      |             58 |
-|             67 | Mickael Blanc        |             28.4  |       12 |             10.21 | Leo Treilles           |             80 |
-|             26 | Emmanuel Vaitulukina |             79.88 |       13 |             29.83 | Victorien Jacomme      |             62 |
-|             48 | Paul Altier          |             91.58 |       14 |             62.72 | Simon Hartmann         |             64 |
-|             50 | Enzo Marzocca        |             56.31 |       15 |             36.67 | Téo Dospital           |             48 |
-|             80 | Lasha Tabidze        |             87.84 |       16 |             92.85 | Nasoni Naqiri Kunavore |             27 |
-|             30 | Nugzar Somkhishvili  |             87.04 |       17 |             32.56 | Esteban Talalua        |             82 |
-|             54 | Quentin Beaudaux     |             68.17 |       18 |             25.8  | Arthur Castant         |             46 |
-|             80 | Maewen Sao           |             55.77 |       19 |             82.53 | Théo Vidal             |             80 |
-|             48 | Thibault Moreno      |             64.11 |       20 |             20.72 | Lucas Pindor           |             12 |
-|             80 | Mateo Guerret        |             51.54 |       21 |             73.8  | Vincent Mutel          |             23 |
-|             80 | Antoine Ferreira     |             54.28 |       22 |             79.89 | Ianis Ponsole          |             58 |
-|             28 | Baptiste Collet      |            nan    |       23 |            nan    | nan                    |            nan |
+|             23 | Enzo Segui           |             37.21 |        1 |             37.54 | Antoine Soave          |             80 |
+|             80 | Julien Pierdomenico  |             68.74 |        2 |             46.55 | Dimitri Chauvet        |             15 |
+|             26 | Osman Dimen          |             55.94 |        3 |             90.88 | Maks van Dyk           |             25 |
+|             49 | Taniela Matakaiongo  |             47.81 |        4 |             54.29 | Theo Mercadier         |             51 |
+|             80 | Fabien Witz          |             72.52 |        5 |             55.44 | Jonathan Kpoku         |             40 |
+|             80 | Pierre-Nicolas Dance |             70.67 |        6 |             58.86 | Robin Dione            |             51 |
+|             31 | Colin Lebian         |             79.57 |        7 |             12.75 | Mattéo Coustalat       |             80 |
+|             26 | Tui Uru              |             77.87 |        8 |             36.74 | Guillem Calmon         |             29 |
+|             15 | Aubin Eymeri         |             40.66 |        9 |             72.08 | Gilen Queheille        |             29 |
+|             65 | Arwel Robson         |             43.37 |       10 |             21.47 | Victor Pisano          |             51 |
+|             21 | Arthur Nennig        |             89.15 |       11 |             45.31 | Kamilieni Raivono      |             16 |
+|             15 | Mickael Blanc        |             24.4  |       12 |             12.05 | Leo Treilles           |             80 |
+|             15 | Emmanuel Vaitulukina |             81.73 |       13 |             32.43 | Victorien Jacomme      |             80 |
+|             46 | Paul Altier          |             79.67 |       14 |             65.36 | Simon Hartmann         |             49 |
+|             59 | Paul Altier          |             79.67 |       14 |             65.36 | Simon Hartmann         |             49 |
+|             80 | Enzo Marzocca        |             45.49 |       15 |             40.16 | Téo Dospital           |             80 |
+|             65 | Lasha Tabidze        |             84.28 |       16 |             90.96 | Nasoni Naqiri Kunavore |             31 |
+|             54 | Nugzar Somkhishvili  |             88.03 |       17 |             34.04 | Esteban Talalua        |             80 |
+|             80 | Quentin Beaudaux     |             57.31 |       18 |             26.89 | Arthur Castant         |             55 |
+|             80 | Maewen Sao           |             49.2  |       19 |             81.5  | Théo Vidal             |             80 |
+|             64 | Thibault Moreno      |             72.63 |       20 |             21.42 | Lucas Pindor           |             13 |
+|             80 | Mateo Guerret        |             61.61 |       21 |             72.61 | Vincent Mutel          |             34 |
+|             34 | Antoine Ferreira     |             55.01 |       22 |             79.1  | Ianis Ponsole          |             80 |
+|             40 | Baptiste Collet      |            nan    |       23 |            nan    | nan                    |            nan |
 

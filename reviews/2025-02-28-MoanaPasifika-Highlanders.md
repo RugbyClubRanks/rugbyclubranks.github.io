@@ -11,7 +11,7 @@ categories: "Super Rugby Pacific 2025" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.481, which translates to predicting Highlanders to win by 0.7.
 
-Our Over/Under is 59.5 - and combined with the spread above, we have a predicted scoreline of 30 to 30
+Our Over/Under is 55.5 - and combined with the spread above, we have a predicted scoreline of 28 to 27
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Moana Pasifika by 6.7
+## Prediction without Player Minutes: Moana Pasifika by 5.3
 
 
-Moana Pasifika by 4.1 on a neutral pitch
+Moana Pasifika by 2.7 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,28 +69,28 @@ Moana Pasifika by 4.1 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             32 | Josh Bartlett        |             65.36 |        1 |             45.68 | James Lay             |             50 |
-|             20 | Soane Vikena         |             82.91 |        2 |             15.08 | Mills Sanerivi        |             50 |
-|             15 | Sefo Kautai          |             16    |        3 |             34.24 | Sione Mafile'o        |             50 |
-|             66 | Fabian Holland       |             79.36 |        4 |             83.03 | Tom Savage            |             50 |
-|             81 | Mitchell Dunshea     |             92.27 |        5 |              6.97 | Allan Craig           |             50 |
-|             81 | Sean Withy           |             16.2  |        6 |             66.01 | Miracle Faiilagi      |             81 |
-|             81 | Veveni Lasaqa        |             18.81 |        7 |             98.88 | Ardie Savea           |             50 |
-|             29 | Nikora Broughton     |             53.4  |        8 |             39.38 | Semisi Tupou Ta'eiloa |             53 |
-|             81 | Nathan Hastie        |             67.47 |        9 |             52.23 | Jonathan Taumateine   |             50 |
-|             32 | Taine Robinson       |             57.88 |       10 |              4.36 | Jackson Garden-Bachop |             50 |
-|             26 | Caleb Tangitau       |             52.45 |       11 |             68.92 | Kyren Taumoefolau     |             50 |
-|             20 | Timoci Tavatavanawai |             83.15 |       12 |              5.21 | Danny Toala           |             52 |
-|             26 | Tanielu Tele'a       |              9.91 |       13 |             85.9  | Pepesana Patafilo     |             61 |
-|              2 | Michael Manson       |              4.07 |       14 |             84.37 | Solomon Alaimalo      |             49 |
-|             81 | Sam Gilbert          |             59.92 |       15 |             16.23 | William Havili        |             61 |
-|             81 | Jack Taylor          |             19.43 |       16 |             75.54 | Sama Malolo           |             73 |
-|             29 | Ethan de Groot       |             26.8  |       17 |             17.52 | Tito Tuipulotu        |             70 |
-|             55 | Saula Ma'u           |             10    |       18 |              4.4  | Chris Apoua           |             50 |
-|             41 | Will Stodart         |             49.39 |       19 |             39.87 | Sam Slade             |             55 |
-|             49 | TK Howden            |              0.56 |       20 |             38.55 | Ola Tauelangi         |             81 |
-|             56 | James Arscott        |             10.62 |       21 |             54.79 | Melani Matavao        |             47 |
-|             50 | Cameron Millar       |             67.01 |       22 |             91.08 | Patrick Pellegrini    |             81 |
-|             50 | Cameron Millar       |             67.01 |       22 |             91.08 | Patrick Pellegrini    |             34 |
-|             49 | Jake Te Hiwi         |             40.35 |       23 |             20.02 | Tevita Ofa            |             81 |
+|             10 | Josh Bartlett        |             60.26 |        1 |             59.61 | James Lay             |             32 |
+|             32 | Soane Vikena         |             80.34 |        2 |              6.22 | Mills Sanerivi        |             66 |
+|             32 | Sefo Kautai          |             19.54 |        3 |             29.07 | Sione Mafile'o        |             81 |
+|             81 | Fabian Holland       |             81.97 |        4 |             83.97 | Tom Savage            |             32 |
+|             25 | Mitchell Dunshea     |             92.65 |        5 |              7.16 | Allan Craig           |             81 |
+|             82 | Sean Withy           |             23.24 |        6 |             76.48 | Miracle Faiilagi      |             29 |
+|             82 | Veveni Lasaqa        |             49.3  |        7 |             98.31 | Ardie Savea           |             82 |
+|             32 | Nikora Broughton     |             60.96 |        8 |             24.22 | Semisi Tupou Ta'eiloa |             29 |
+|             34 | Nathan Hastie        |             56.54 |        9 |             44.85 | Jonathan Taumateine   |             81 |
+|             40 | Taine Robinson       |             60.21 |       10 |              4.42 | Jackson Garden-Bachop |             71 |
+|             81 | Caleb Tangitau       |             72.11 |       11 |             63.08 | Kyren Taumoefolau     |             81 |
+|             47 | Timoci Tavatavanawai |             80.92 |       12 |              4.82 | Danny Toala           |             49 |
+|             50 | Tanielu Tele'a       |             15.56 |       13 |             79.32 | Pepesana Patafilo     |             81 |
+|             67 | Michael Manson       |              7.93 |       14 |             84.14 | Solomon Alaimalo      |             15 |
+|             49 | Sam Gilbert          |             36.27 |       15 |             20.08 | William Havili        |              2 |
+|             50 | Jack Taylor          |             14.62 |       16 |             77.65 | Sama Malolo           |             34 |
+|             62 | Ethan de Groot       |             35.99 |       17 |             15.88 | Tito Tuipulotu        |             49 |
+|             50 | Saula Ma'u           |             11.89 |       18 |              4.23 | Chris Apoua           |             81 |
+|             50 | Will Stodart         |             43.23 |       19 |             34.54 | Sam Slade             |             81 |
+|             50 | TK Howden            |              0.28 |       20 |             37.98 | Ola Tauelangi         |             81 |
+|             50 | James Arscott        |             15.53 |       21 |             52.88 | Melani Matavao        |             81 |
+|             32 | Cameron Millar       |             63.58 |       22 |             91.37 | Patrick Pellegrini    |             56 |
+|             32 | Cameron Millar       |             63.58 |       22 |             91.37 | Patrick Pellegrini    |             47 |
+|             41 | Jake Te Hiwi         |             33.63 |       23 |             30.32 | Tevita Ofa            |             81 |
 

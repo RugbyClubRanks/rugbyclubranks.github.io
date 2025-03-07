@@ -11,7 +11,7 @@ categories: "Japan Rugby League One 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.856, which translates to predicting Saitama Wild Knights to win by 15.9.
 
-Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 17 to 33
+Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 18 to 34
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Saitama Wild Knights by 20.4
+## Prediction without Player Minutes: Saitama Wild Knights by 17.7
 
 
-Saitama Wild Knights by 15.7 on a neutral pitch
+Saitama Wild Knights by 13.0 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,19 +69,19 @@ Saitama Wild Knights by 15.7 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player       |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:------------------|---------------:|
-|           30   | Shigure Takao        |             67.6  |        1 |             52.32 | Sho Furuhata      |             27 |
-|           13   | Kenta Matsuoka       |             43.55 |        2 |             89.95 | Atsushi Sakate    |             52 |
-|           27   | Hiroshi Yamashita    |             92.88 |        3 |             89.6  | Taiki Fujii       |             77 |
-|           38.5 | Gerard Cowley-Tuioti |             86.33 |        4 |             88.12 | Esei Ha'angana    |             80 |
-|           22   | Brodie Retallick     |            100    |        5 |             98.02 | Lood de Jager     |             53 |
-|            8   | Tiennan Costley      |             80.63 |        6 |             97.86 | Ben Gunter        |             80 |
-|           22   | Willie Potgieter     |             22.72 |        7 |             99.16 | Lachlan Boshier   |             80 |
-|           80   | Waisake Raratubua    |             67.22 |        8 |             96.7  | Jack Cornelsen    |             72 |
-|           56   | Atsushi Hiwasa       |             91.44 |        9 |             95.55 | Taiki Koyama      |             80 |
-|           80   | Bryn Gatland         |             90.46 |       10 |             80.71 | Kyohei Yamasawa   |             80 |
-|           27   | Kenta Matsunaga      |             53.38 |       11 |             84.27 | Vince Aso         |             58 |
-|           80   | Seungsin Lee         |              3.27 |       12 |            100    | Damian de Allende |             18 |
-|           24   | Timothy Lafaele      |             54.03 |       13 |             29.72 | Tomoki Osada      |             80 |
-|           30   | Ataata Moeakiola     |             22.02 |       14 |             73.17 | Tatsuhiro Tanji   |             80 |
-|           80   | Ryohei Yamanaka      |             65.93 |       15 |             97.8  | Ryuji Noguchi     |             20 |
+|           30   | Shigure Takao        |             83.06 |        1 |             60.91 | Sho Furuhata      |             80 |
+|           20   | Kenta Matsuoka       |             80    |        2 |             93.11 | Atsushi Sakate    |             66 |
+|           80   | Hiroshi Yamashita    |             98.13 |        3 |             93.81 | Taiki Fujii       |              0 |
+|           64   | Gerard Cowley-Tuioti |             89.03 |        4 |             93.23 | Esei Ha'angana    |             80 |
+|           80   | Brodie Retallick     |            100    |        5 |             98.38 | Lood de Jager     |             80 |
+|           80   | Tiennan Costley      |             86.32 |        6 |             96.81 | Ben Gunter        |             60 |
+|           50   | Willie Potgieter     |             60.82 |        7 |             99.44 | Lachlan Boshier   |             80 |
+|           59   | Waisake Raratubua    |             75.78 |        8 |             96.87 | Jack Cornelsen    |             53 |
+|           30.5 | Atsushi Hiwasa       |             93.02 |        9 |             96.68 | Taiki Koyama      |              6 |
+|           80   | Bryn Gatland         |             92.84 |       10 |             89.05 | Kyohei Yamasawa   |             74 |
+|           61   | Kenta Matsunaga      |             56.52 |       11 |             88.79 | Vince Aso         |             20 |
+|           30.5 | Seungsin Lee         |              3.41 |       12 |             99.1  | Damian de Allende |             80 |
+|           80   | Timothy Lafaele      |             53.31 |       13 |             64.06 | Tomoki Osada      |             34 |
+|            0   | Ataata Moeakiola     |             47.04 |       14 |             73.84 | Tatsuhiro Tanji   |             33 |
+|           80   | Ryohei Yamanaka      |             60.86 |       15 |             98.98 | Ryuji Noguchi     |             20 |
 

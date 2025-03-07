@@ -1,10 +1,10 @@
 ---  
 layout: page  
-title: Bordeaux Begles at Perpignan; 38-6  
+title: Bordeaux Begles at Perpignan; 29-17  
 date: 2025-03-01 18:00:00 -0500  
 categories: "Top 14 Orange 24/25" match review  
 ---
-# Bordeaux Begles at Perpignan; 38-6
+# Bordeaux Begles at Perpignan; 29-17
 
 # Club Level Predictions
 
