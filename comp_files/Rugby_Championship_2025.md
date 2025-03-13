@@ -1,6 +1,6 @@
 ---  
 title: "Rugby Championship 2025 Status"  
-date: 2025-03-10 6:00:00 -0500  
+date: 2025-03-13 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,10 +17,10 @@ aside:
 
 | Club         |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| South Africa |               6 |    4.5 |              58.1018 |                   0.9 |                2.7 |                 21.7 |
-| New Zealand  |               6 |    4   |              28.8852 |                   1.2 |                2.6 |                 20   |
-| Argentina    |               6 |    1.9 |             -31.1368 |                   1.7 |                1.2 |                 10.6 |
-| Australia    |               6 |    1.5 |             -55.8502 |                   1.3 |                0.9 |                  8.2 |
+| South Africa |               6 |    4.5 |              56.1737 |                   0.9 |                2.7 |                 21.5 |
+| New Zealand  |               6 |    4   |              28.9246 |                   1.2 |                2.6 |                 19.9 |
+| Argentina    |               6 |    1.9 |             -30.5081 |                   1.7 |                1.1 |                 10.6 |
+| Australia    |               6 |    1.5 |             -54.5902 |                   1.2 |                1   |                  8.3 |
 
 
 
@@ -31,7 +31,7 @@ aside:
 ### Argentina V New Zealand on 2025/08/16
 
 
-Average Margin: New Zealand by 3.5
+Average Margin: New Zealand by 3.6
 
 Average Scoreline: 22-18
 
@@ -44,9 +44,9 @@ Average Scoreline: 22-18
 ### South Africa V Australia on 2025/08/16
 
 
-Average Margin: South Africa by 18.8
+Average Margin: South Africa by 17.8
 
-Average Scoreline: 39-20
+Average Scoreline: 38-20
 
 <p float="left">
 <img src="plots/performances_2025-08-16-SouthAfrica_V_Australia.png" width="32%" />
@@ -59,7 +59,7 @@ Average Scoreline: 39-20
 ### South Africa V Australia on 2025/08/23
 
 
-Average Margin: South Africa by 17.4
+Average Margin: South Africa by 17.2
 
 Average Scoreline: 38-21
 
@@ -72,7 +72,7 @@ Average Scoreline: 38-21
 ### Argentina V New Zealand on 2025/08/23
 
 
-Average Margin: New Zealand by 4.6
+Average Margin: New Zealand by 3.9
 
 Average Scoreline: 22-18
 
@@ -87,7 +87,7 @@ Average Scoreline: 22-18
 ### New Zealand V South Africa on 2025/09/06
 
 
-Average Margin: South Africa by 0.2
+Average Margin: New Zealand by 0.2
 
 Average Scoreline: 23-23
 
@@ -100,7 +100,7 @@ Average Scoreline: 23-23
 ### Australia V Argentina on 2025/09/06
 
 
-Average Margin: Australia by 0.9
+Average Margin: Australia by 0.8
 
 Average Scoreline: 23-22
 
@@ -115,7 +115,7 @@ Average Scoreline: 23-22
 ### New Zealand V South Africa on 2025/09/13
 
 
-Average Margin: South Africa by 0.0
+Average Margin: New Zealand by 0.2
 
 Average Scoreline: 23-23
 
@@ -128,7 +128,7 @@ Average Scoreline: 23-23
 ### Australia V Argentina on 2025/09/13
 
 
-Average Margin: Australia by 0.5
+Average Margin: Australia by 0.6
 
 Average Scoreline: 23-22
 
@@ -156,7 +156,7 @@ Average Scoreline: 37-22
 ### South Africa V Argentina on 2025/09/27
 
 
-Average Margin: South Africa by 14.0
+Average Margin: South Africa by 13.8
 
 Average Scoreline: 37-23
 
@@ -184,9 +184,9 @@ Average Scoreline: 28-21
 ### Argentina V South Africa on 2025/10/04
 
 
-Average Margin: South Africa by 7.6
+Average Margin: South Africa by 7.7
 
-Average Scoreline: 24-17
+Average Scoreline: 24-16
 
 <p float="left">
 <img src="plots/performances_2025-10-04-Argentina_V_SouthAfrica.png" width="32%" />

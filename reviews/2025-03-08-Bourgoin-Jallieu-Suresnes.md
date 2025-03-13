@@ -11,7 +11,7 @@ categories: "Nationale 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.62, which translates to predicting Bourgoin-Jallieu to win by 4.3.
 
-Our Over/Under is 38.5 - and combined with the spread above, we have a predicted scoreline of 17 to 21
+Our Over/Under is 39.5 - and combined with the spread above, we have a predicted scoreline of 18 to 22
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Bourgoin-Jallieu by 7.2
+## Prediction without Player Minutes: Bourgoin-Jallieu by 5.5
 
 
-Suresnes by 6.1 on a neutral pitch
+Suresnes by 8.0 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Suresnes by 6.1 on a neutral pitch
 
 |   Away Minutes | Away Player            |   Away Percentile |   Number |   Home Percentile | Home Player      |   Home Minutes |
 |---------------:|:-----------------------|------------------:|---------:|------------------:|:-----------------|---------------:|
-|           12.5 | Elias Coulibaly        |             67.72 |        1 |             35.28 | Romain Favaretto |           58   |
-|           44   | Ismael Martin          |             15.68 |        2 |             18.72 | Julien Ratajczak |           67   |
-|           80   | Leandro Mario Assi     |             26.38 |        3 |             11.41 | Keynan Knox      |           38.5 |
-|           15   | Damien Bozic           |             64.17 |        4 |             36.49 | Thomas Adélaïde  |           22   |
-|           80   | Nikita Bekov           |             80.02 |        5 |              0.75 | Léandre Cotte    |            0   |
-|           18   | Corentin Rougier       |             45.51 |        6 |             65.43 | Kevin Rivoire    |           60   |
-|           24   | Florian Desbordes      |             11.68 |        7 |             13.72 | Matteo Broeders  |           17   |
-|            0   | Lakisipone Lee         |             80.45 |        8 |              8.55 | Sam Daly         |           56   |
-|           34   | Thomas Lacroix         |              5.91 |        9 |             31.65 | Liam Rimet       |           24   |
-|           25   | Jean Chezeau           |             65.55 |       10 |             11.55 | Nicolas Cachet   |           22   |
-|           80   | Yohan Fournier         |              6.45 |       11 |             26.8  | Adrian Fugit     |           80   |
-|           32   | Petero Tuwai           |             59.49 |       12 |              3.43 | Aviata Silago    |           80   |
-|           13   | JJ Taulagi             |              1.11 |       13 |             27.68 | Tom Danovaro     |           80   |
-|           55   | Alexis Clement         |              8.47 |       14 |             79.83 | Joe Ravouvou     |           30   |
-|           36   | Goulwen Gueho          |              2.86 |       15 |              5.1  | Remi Bouet       |           32   |
-|           52   | Guiterembi Vickos      |             25.16 |       16 |             18.26 | Theophile Cotte  |           27   |
-|           80   | Yanis Trabelsi         |             18.53 |       17 |              1.13 | Lucas Dycke      |           34   |
-|           12.5 | Jean-Baptiste Lachaise |             73.93 |       18 |              0.94 | Morgan Eames     |           34   |
-|           80   | Germain de Borda       |             41.74 |       19 |            nan    | Louis Giamarchi  |           80   |
-|           20   | Antoine Marty-Rybak    |            nan    |       20 |             14.27 | Pierre Mignot    |           15   |
-|           48   | Wian Vosloo            |             68.86 |       21 |             32.88 | Maxime Castant   |           80   |
-|           60   | Victor Barnier         |             77.68 |       22 |             44.5  | Dimitri Tchapnga |            0   |
-|           58   | Gauthier Wolf          |             44.55 |       23 |             10.13 | Paul-Hugo Champ  |           80   |
+|            0   | Elias Coulibaly        |             71.02 |        1 |             40.99 | Romain Favaretto |           80   |
+|           56   | Ismael Martin          |             13.75 |        2 |             15.62 | Julien Ratajczak |           32   |
+|           17   | Leandro Mario Assi     |             25.24 |        3 |              7.55 | Keynan Knox      |           12.5 |
+|            0   | Damien Bozic           |             62.95 |        4 |             29.83 | Thomas Adélaïde  |           13   |
+|           58   | Nikita Bekov           |             82.08 |        5 |              1.13 | Léandre Cotte    |           15   |
+|           38.5 | Corentin Rougier       |             37.89 |        6 |             69.88 | Kevin Rivoire    |           55   |
+|           30   | Florian Desbordes      |             12.16 |        7 |             17.4  | Matteo Broeders  |           36   |
+|           18   | Lakisipone Lee         |             74.85 |        8 |              6.95 | Sam Daly         |           52   |
+|           80   | Thomas Lacroix         |              4.36 |        9 |             44.08 | Liam Rimet       |           80   |
+|           80   | Jean Chezeau           |             59.92 |       10 |              8.86 | Nicolas Cachet   |           12.5 |
+|           80   | Yohan Fournier         |              5.34 |       11 |             21.71 | Adrian Fugit     |           80   |
+|           24   | Petero Tuwai           |             60.64 |       12 |              2.81 | Aviata Silago    |           80   |
+|           67   | JJ Taulagi             |              1    |       13 |             28.41 | Tom Danovaro     |           48   |
+|           60   | Alexis Clement         |              9.57 |       14 |             79.58 | Joe Ravouvou     |           20   |
+|           27   | Goulwen Gueho          |              2.21 |       15 |              3.61 | Remi Bouet       |           15   |
+|           22   | Guiterembi Vickos      |             30.03 |       16 |             17.03 | Theophile Cotte  |           24   |
+|            0   | Yanis Trabelsi         |             29.46 |       17 |              1.3  | Lucas Dycke      |           80   |
+|           60   | Jean-Baptiste Lachaise |             72.19 |       18 |              1.03 | Morgan Eames     |           34   |
+|           58   | Germain de Borda       |             42.16 |       19 |             37.28 | Louis Giamarchi  |           34   |
+|           22   | Antoine Marty-Rybak    |            nan    |       20 |             12.05 | Pierre Mignot    |           32   |
+|           80   | Wian Vosloo            |             76.15 |       21 |             31.24 | Maxime Castant   |           44   |
+|           80   | Victor Barnier         |             77.51 |       22 |             31.98 | Dimitri Tchapnga |           25   |
+|           80   | Gauthier Wolf          |             49.7  |       23 |              9.75 | Paul-Hugo Champ  |           34   |
 

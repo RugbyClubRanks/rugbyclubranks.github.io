@@ -1,6 +1,6 @@
 ---  
 title: "RFU Championship 24/25 Status"  
-date: 2025-03-10 6:00:00 -0500  
+date: 2025-03-13 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -37,18 +37,18 @@ aside:
 
 | Club                |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Ealing Trailfinders |                  10 |    9.3 |             206.128  |                   0.3 |                7.6 |                 45.2 |
-| Coventry            |                  10 |    7.6 |              94.4451 |                   1   |                6.8 |                 38.2 |
-| Bedford             |                  10 |    7.2 |              59.972  |                   1.3 |                6   |                 35.9 |
-| Cornish Pirates     |                  10 |    6.9 |              68.919  |                   1.7 |                5.5 |                 34.6 |
-| Hartpury College    |                  10 |    6   |              32.2645 |                   2.1 |                4.6 |                 30.7 |
-| Doncaster           |                  10 |    5.6 |              13.3196 |                   2.3 |                4.2 |                 28.8 |
-| Nottingham          |                  10 |    4.8 |             -11.1637 |                   2   |                5.4 |                 26.4 |
-| London Scottish     |                  10 |    3.6 |             -43.1144 |                   2.1 |                4.1 |                 20.5 |
-| Ampthill            |                  10 |    3.4 |             -54.1978 |                   2.2 |                3.4 |                 19.3 |
-| Chinnor             |                  10 |    3.3 |             -61.5159 |                   2.2 |                2.8 |                 18.3 |
-| Caldy               |                  10 |    1.6 |            -121.251  |                   2.1 |                2.7 |                 11.3 |
-| Cambridge           |                  10 |    0.8 |            -183.805  |                   1.1 |                2.4 |                  6.7 |
+| Ealing Trailfinders |                  10 |    9.3 |             204.723  |                   0.3 |                7.6 |                 45.1 |
+| Coventry            |                  10 |    7.6 |              92.3343 |                   1   |                6.8 |                 38.2 |
+| Bedford             |                  10 |    7.1 |              58.87   |                   1.3 |                6   |                 35.6 |
+| Cornish Pirates     |                  10 |    6.9 |              68.0162 |                   1.7 |                5.4 |                 34.5 |
+| Hartpury College    |                  10 |    6   |              30.6718 |                   2   |                4.4 |                 30.5 |
+| Doncaster           |                  10 |    5.6 |              12.1374 |                   2.3 |                4.2 |                 28.8 |
+| Nottingham          |                  10 |    4.8 |             -11.4605 |                   2   |                5.4 |                 26.5 |
+| London Scottish     |                  10 |    3.6 |             -40.4767 |                   2.1 |                4   |                 20.6 |
+| Ampthill            |                  10 |    3.4 |             -53.6203 |                   2.3 |                3.5 |                 19.4 |
+| Chinnor             |                  10 |    3.4 |             -61.1747 |                   2.1 |                2.9 |                 18.5 |
+| Caldy               |                  10 |    1.6 |            -120.095  |                   2.1 |                2.8 |                 11.4 |
+| Cambridge           |                  10 |    0.8 |            -179.926  |                   1.1 |                2.4 |                  6.8 |
 
 
 
@@ -57,18 +57,18 @@ aside:
 
 | Club                |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Ealing Trailfinders |              22 |   20.3 |             596.128  |                   1.3 |               18.6 |                101.2 |
-| Bedford             |              22 |   16.2 |             126.972  |                   1.3 |               13   |                 78.9 |
-| Coventry            |              22 |   15.6 |             138.445  |                   2   |               12.8 |                 77.2 |
-| Hartpury College    |              22 |   13   |              60.2645 |                   4.1 |               11.6 |                 67.7 |
-| Cornish Pirates     |              22 |   12.9 |              42.919  |                   4.7 |               10.5 |                 66.6 |
-| Nottingham          |              22 |   11.8 |              92.8363 |                   5   |               11.4 |                 63.4 |
-| Doncaster           |              22 |   10.6 |              21.3196 |                   5.3 |                8.2 |                 55.8 |
-| London Scottish     |              22 |    8.6 |             -71.1144 |                   5.1 |                9.1 |                 48.5 |
-| Ampthill            |              22 |    7.4 |            -207.198  |                   5.2 |                8.4 |                 43.3 |
-| Chinnor             |              22 |    7.3 |             -77.5159 |                   5.2 |                5.8 |                 40.3 |
-| Caldy               |              22 |    4.6 |            -239.251  |                   4.1 |                6.7 |                 29.3 |
-| Cambridge           |              22 |    3.8 |            -483.805  |                   1.1 |                6.4 |                 22.7 |
+| Ealing Trailfinders |              22 |   20.3 |             594.723  |                   1.3 |               18.6 |                101.1 |
+| Bedford             |              22 |   16.1 |             125.87   |                   1.3 |               13   |                 78.6 |
+| Coventry            |              22 |   15.6 |             136.334  |                   2   |               12.8 |                 77.2 |
+| Hartpury College    |              22 |   13   |              58.6718 |                   4   |               11.4 |                 67.5 |
+| Cornish Pirates     |              22 |   12.9 |              42.0162 |                   4.7 |               10.4 |                 66.5 |
+| Nottingham          |              22 |   11.8 |              92.5395 |                   5   |               11.4 |                 63.5 |
+| Doncaster           |              22 |   10.6 |              20.1374 |                   5.3 |                8.2 |                 55.8 |
+| London Scottish     |              22 |    8.6 |             -68.4767 |                   5.1 |                9   |                 48.6 |
+| Ampthill            |              22 |    7.4 |            -206.62   |                   5.3 |                8.5 |                 43.4 |
+| Chinnor             |              22 |    7.4 |             -77.1747 |                   5.1 |                5.9 |                 40.5 |
+| Caldy               |              22 |    4.6 |            -238.095  |                   4.1 |                6.8 |                 29.4 |
+| Cambridge           |              22 |    3.8 |            -479.926  |                   1.1 |                6.4 |                 22.8 |
 
 
 
@@ -89,9 +89,9 @@ aside:
 ### Ampthill V Nottingham on 2025/03/22
 
 
-Average Margin: Nottingham by 2.2
+Average Margin: Nottingham by 1.2
 
-Average Scoreline: 32-30
+Average Scoreline: 31-30
 
 <p float="left">
 <img src="plots/performances_2025-03-22-Ampthill_V_Nottingham.png" width="32%" />
@@ -102,9 +102,9 @@ Average Scoreline: 32-30
 ### Doncaster V Ealing Trailfinders on 2025/03/22
 
 
-Average Margin: Ealing Trailfinders by 14.3
+Average Margin: Ealing Trailfinders by 15.2
 
-Average Scoreline: 38-24
+Average Scoreline: 39-23
 
 <p float="left">
 <img src="plots/performances_2025-03-22-Doncaster_V_EalingTrailfinders.png" width="32%" />
@@ -115,7 +115,7 @@ Average Scoreline: 38-24
 ### Coventry V Cambridge on 2025/03/22
 
 
-Average Margin: Coventry by 27.4
+Average Margin: Coventry by 26.5
 
 Average Scoreline: 43-16
 
@@ -128,7 +128,7 @@ Average Scoreline: 43-16
 ### Hartpury College V Bedford on 2025/03/22
 
 
-Average Margin: Hartpury College by 1.1
+Average Margin: Hartpury College by 0.9
 
 Average Scoreline: 27-26
 
@@ -141,7 +141,7 @@ Average Scoreline: 27-26
 ### Cornish Pirates V London Scottish on 2025/03/22
 
 
-Average Margin: Cornish Pirates by 11.5
+Average Margin: Cornish Pirates by 10.9
 
 Average Scoreline: 32-21
 
@@ -154,7 +154,7 @@ Average Scoreline: 32-21
 ### Caldy V Chinnor on 2025/03/22
 
 
-Average Margin: Chinnor by 1.4
+Average Margin: Chinnor by 1.7
 
 Average Scoreline: 27-26
 
@@ -169,9 +169,9 @@ Average Scoreline: 27-26
 ### Cambridge V Hartpury College on 2025/03/29
 
 
-Average Margin: Hartpury College by 15.1
+Average Margin: Hartpury College by 14.1
 
-Average Scoreline: 42-27
+Average Scoreline: 41-27
 
 <p float="left">
 <img src="plots/performances_2025-03-29-Cambridge_V_HartpuryCollege.png" width="32%" />
@@ -182,7 +182,7 @@ Average Scoreline: 42-27
 ### Caldy V Ampthill on 2025/03/29
 
 
-Average Margin: Ampthill by 1.9
+Average Margin: Ampthill by 1.8
 
 Average Scoreline: 31-29
 
@@ -195,9 +195,9 @@ Average Scoreline: 31-29
 ### Bedford V Cornish Pirates on 2025/03/29
 
 
-Average Margin: Bedford by 6.4
+Average Margin: Bedford by 5.3
 
-Average Scoreline: 27-20
+Average Scoreline: 26-21
 
 <p float="left">
 <img src="plots/performances_2025-03-29-Bedford_V_CornishPirates.png" width="32%" />
@@ -208,9 +208,9 @@ Average Scoreline: 27-20
 ### London Scottish V Doncaster on 2025/03/29
 
 
-Average Margin: Doncaster by 1.2
+Average Margin: Doncaster by 0.4
 
-Average Scoreline: 28-26
+Average Scoreline: 27-27
 
 <p float="left">
 <img src="plots/performances_2025-03-29-LondonScottish_V_Doncaster.png" width="32%" />
@@ -221,7 +221,7 @@ Average Scoreline: 28-26
 ### Ealing Trailfinders V Nottingham on 2025/03/29
 
 
-Average Margin: Ealing Trailfinders by 23.1
+Average Margin: Ealing Trailfinders by 23.6
 
 Average Scoreline: 43-20
 
@@ -234,9 +234,9 @@ Average Scoreline: 43-20
 ### Chinnor V Coventry on 2025/03/29
 
 
-Average Margin: Coventry by 9.8
+Average Margin: Coventry by 10.1
 
-Average Scoreline: 37-28
+Average Scoreline: 37-27
 
 <p float="left">
 <img src="plots/performances_2025-03-29-Chinnor_V_Coventry.png" width="32%" />
@@ -249,9 +249,9 @@ Average Scoreline: 37-28
 ### Hartpury College V Chinnor on 2025/04/05
 
 
-Average Margin: Hartpury College by 11.0
+Average Margin: Hartpury College by 11.2
 
-Average Scoreline: 26-15
+Average Scoreline: 27-15
 
 <p float="left">
 <img src="plots/performances_2025-04-05-HartpuryCollege_V_Chinnor.png" width="32%" />
@@ -262,7 +262,7 @@ Average Scoreline: 26-15
 ### Nottingham V London Scottish on 2025/04/05
 
 
-Average Margin: Nottingham by 6.9
+Average Margin: Nottingham by 7.0
 
 Average Scoreline: 27-20
 
@@ -275,9 +275,9 @@ Average Scoreline: 27-20
 ### Cornish Pirates V Cambridge on 2025/04/05
 
 
-Average Margin: Cornish Pirates by 23.1
+Average Margin: Cornish Pirates by 21.5
 
-Average Scoreline: 35-12
+Average Scoreline: 34-13
 
 <p float="left">
 <img src="plots/performances_2025-04-05-CornishPirates_V_Cambridge.png" width="32%" />
@@ -288,7 +288,7 @@ Average Scoreline: 35-12
 ### Ampthill V Ealing Trailfinders on 2025/04/05
 
 
-Average Margin: Ealing Trailfinders by 20.3
+Average Margin: Ealing Trailfinders by 20.4
 
 Average Scoreline: 43-23
 
@@ -301,7 +301,7 @@ Average Scoreline: 43-23
 ### Coventry V Caldy on 2025/04/05
 
 
-Average Margin: Coventry by 20.4
+Average Margin: Coventry by 20.5
 
 Average Scoreline: 39-19
 
@@ -329,9 +329,9 @@ Average Scoreline: 27-27
 ### Bedford V Nottingham on 2025/04/12
 
 
-Average Margin: Bedford by 10.5
+Average Margin: Bedford by 9.8
 
-Average Scoreline: 34-23
+Average Scoreline: 33-23
 
 <p float="left">
 <img src="plots/performances_2025-04-12-Bedford_V_Nottingham.png" width="32%" />
@@ -342,9 +342,9 @@ Average Scoreline: 34-23
 ### London Scottish V Ealing Trailfinders on 2025/04/12
 
 
-Average Margin: Ealing Trailfinders by 18.8
+Average Margin: Ealing Trailfinders by 18.4
 
-Average Scoreline: 35-16
+Average Scoreline: 34-16
 
 <p float="left">
 <img src="plots/performances_2025-04-12-LondonScottish_V_EalingTrailfinders.png" width="32%" />
@@ -355,9 +355,9 @@ Average Scoreline: 35-16
 ### Chinnor V Cornish Pirates on 2025/04/12
 
 
-Average Margin: Cornish Pirates by 5.4
+Average Margin: Cornish Pirates by 6.0
 
-Average Scoreline: 31-26
+Average Scoreline: 32-26
 
 <p float="left">
 <img src="plots/performances_2025-04-12-Chinnor_V_CornishPirates.png" width="32%" />
@@ -368,9 +368,9 @@ Average Scoreline: 31-26
 ### Caldy V Hartpury College on 2025/04/12
 
 
-Average Margin: Hartpury College by 10.0
+Average Margin: Hartpury College by 9.4
 
-Average Scoreline: 39-29
+Average Scoreline: 39-30
 
 <p float="left">
 <img src="plots/performances_2025-04-12-Caldy_V_HartpuryCollege.png" width="32%" />
@@ -381,7 +381,7 @@ Average Scoreline: 39-29
 ### Cambridge V Doncaster on 2025/04/12
 
 
-Average Margin: Doncaster by 12.9
+Average Margin: Doncaster by 13.1
 
 Average Scoreline: 38-25
 
@@ -394,7 +394,7 @@ Average Scoreline: 38-25
 ### Coventry V Ampthill on 2025/04/12
 
 
-Average Margin: Coventry by 15.7
+Average Margin: Coventry by 15.1
 
 Average Scoreline: 38-23
 
@@ -409,7 +409,7 @@ Average Scoreline: 38-23
 ### Ealing Trailfinders V Bedford on 2025/04/19
 
 
-Average Margin: Ealing Trailfinders by 17.4
+Average Margin: Ealing Trailfinders by 17.2
 
 Average Scoreline: 38-21
 
@@ -422,9 +422,9 @@ Average Scoreline: 38-21
 ### Nottingham V Cambridge on 2025/04/19
 
 
-Average Margin: Nottingham by 17.4
+Average Margin: Nottingham by 18.0
 
-Average Scoreline: 38-21
+Average Scoreline: 39-21
 
 <p float="left">
 <img src="plots/performances_2025-04-19-Nottingham_V_Cambridge.png" width="32%" />
@@ -435,9 +435,9 @@ Average Scoreline: 38-21
 ### Hartpury College V Coventry on 2025/04/19
 
 
-Average Margin: Coventry by 1.8
+Average Margin: Coventry by 1.7
 
-Average Scoreline: 30-28
+Average Scoreline: 30-29
 
 <p float="left">
 <img src="plots/performances_2025-04-19-HartpuryCollege_V_Coventry.png" width="32%" />
@@ -448,7 +448,7 @@ Average Scoreline: 30-28
 ### Ampthill V London Scottish on 2025/04/19
 
 
-Average Margin: Ampthill by 2.1
+Average Margin: Ampthill by 1.9
 
 Average Scoreline: 33-31
 
@@ -461,9 +461,9 @@ Average Scoreline: 33-31
 ### Cornish Pirates V Caldy on 2025/04/19
 
 
-Average Margin: Cornish Pirates by 18.1
+Average Margin: Cornish Pirates by 17.1
 
-Average Scoreline: 34-16
+Average Scoreline: 33-16
 
 <p float="left">
 <img src="plots/performances_2025-04-19-CornishPirates_V_Caldy.png" width="32%" />
@@ -474,7 +474,7 @@ Average Scoreline: 34-16
 ### Doncaster V Chinnor on 2025/04/19
 
 
-Average Margin: Doncaster by 10.2
+Average Margin: Doncaster by 10.0
 
 Average Scoreline: 28-18
 
@@ -502,9 +502,9 @@ Average Scoreline: 29-28
 ### Cambridge V Ealing Trailfinders on 2025/05/03
 
 
-Average Margin: Ealing Trailfinders by 30.8
+Average Margin: Ealing Trailfinders by 29.0
 
-Average Scoreline: 46-15
+Average Scoreline: 45-16
 
 <p float="left">
 <img src="plots/performances_2025-05-03-Cambridge_V_EalingTrailfinders.png" width="32%" />
@@ -515,7 +515,7 @@ Average Scoreline: 46-15
 ### Caldy V Doncaster on 2025/05/03
 
 
-Average Margin: Doncaster by 7.6
+Average Margin: Doncaster by 8.3
 
 Average Scoreline: 38-30
 
@@ -528,7 +528,7 @@ Average Scoreline: 38-30
 ### Hartpury College V Ampthill on 2025/05/03
 
 
-Average Margin: Hartpury College by 10.8
+Average Margin: Hartpury College by 11.2
 
 Average Scoreline: 34-23
 
@@ -541,7 +541,7 @@ Average Scoreline: 34-23
 ### Coventry V Cornish Pirates on 2025/05/03
 
 
-Average Margin: Coventry by 7.6
+Average Margin: Coventry by 7.3
 
 Average Scoreline: 29-22
 
@@ -554,7 +554,7 @@ Average Scoreline: 29-22
 ### Bedford V London Scottish on 2025/05/03
 
 
-Average Margin: Bedford by 12.0
+Average Margin: Bedford by 12.2
 
 Average Scoreline: 32-20
 
@@ -569,7 +569,7 @@ Average Scoreline: 32-20
 ### Nottingham V Caldy on 2025/05/10
 
 
-Average Margin: Nottingham by 13.2
+Average Margin: Nottingham by 13.0
 
 Average Scoreline: 32-19
 
@@ -582,7 +582,7 @@ Average Scoreline: 32-19
 ### Ealing Trailfinders V Chinnor on 2025/05/10
 
 
-Average Margin: Ealing Trailfinders by 26.9
+Average Margin: Ealing Trailfinders by 26.5
 
 Average Scoreline: 41-14
 
@@ -595,9 +595,9 @@ Average Scoreline: 41-14
 ### Ampthill V Bedford on 2025/05/10
 
 
-Average Margin: Bedford by 7.4
+Average Margin: Bedford by 7.3
 
-Average Scoreline: 38-30
+Average Scoreline: 37-30
 
 <p float="left">
 <img src="plots/performances_2025-05-10-Ampthill_V_Bedford.png" width="32%" />
@@ -608,9 +608,9 @@ Average Scoreline: 38-30
 ### Doncaster V Coventry on 2025/05/10
 
 
-Average Margin: Coventry by 2.3
+Average Margin: Coventry by 2.8
 
-Average Scoreline: 31-29
+Average Scoreline: 31-28
 
 <p float="left">
 <img src="plots/performances_2025-05-10-Doncaster_V_Coventry.png" width="32%" />
@@ -621,9 +621,9 @@ Average Scoreline: 31-29
 ### Cornish Pirates V Hartpury College on 2025/05/10
 
 
-Average Margin: Cornish Pirates by 5.3
+Average Margin: Cornish Pirates by 5.5
 
-Average Scoreline: 27-22
+Average Scoreline: 28-22
 
 <p float="left">
 <img src="plots/performances_2025-05-10-CornishPirates_V_HartpuryCollege.png" width="32%" />
@@ -634,9 +634,9 @@ Average Scoreline: 27-22
 ### London Scottish V Cambridge on 2025/05/10
 
 
-Average Margin: London Scottish by 14.5
+Average Margin: London Scottish by 15.3
 
-Average Scoreline: 31-17
+Average Scoreline: 31-16
 
 <p float="left">
 <img src="plots/performances_2025-05-10-LondonScottish_V_Cambridge.png" width="32%" />
@@ -649,9 +649,9 @@ Average Scoreline: 31-17
 ### Coventry V Nottingham on 2025/05/17
 
 
-Average Margin: Coventry by 11.4
+Average Margin: Coventry by 11.1
 
-Average Scoreline: 33-21
+Average Scoreline: 33-22
 
 <p float="left">
 <img src="plots/performances_2025-05-17-Coventry_V_Nottingham.png" width="32%" />
@@ -675,9 +675,9 @@ Average Scoreline: 31-18
 ### Caldy V Ealing Trailfinders on 2025/05/17
 
 
-Average Margin: Ealing Trailfinders by 25.7
+Average Margin: Ealing Trailfinders by 25.4
 
-Average Scoreline: 43-17
+Average Scoreline: 43-18
 
 <p float="left">
 <img src="plots/performances_2025-05-17-Caldy_V_EalingTrailfinders.png" width="32%" />
@@ -688,7 +688,7 @@ Average Scoreline: 43-17
 ### Cambridge V Bedford on 2025/05/17
 
 
-Average Margin: Bedford by 15.8
+Average Margin: Bedford by 15.7
 
 Average Scoreline: 43-27
 
@@ -714,7 +714,7 @@ Average Scoreline: 32-29
 ### Hartpury College V Doncaster on 2025/05/17
 
 
-Average Margin: Hartpury College by 5.8
+Average Margin: Hartpury College by 5.3
 
 Average Scoreline: 27-22
 
@@ -729,7 +729,7 @@ Average Scoreline: 27-22
 ### Nottingham V Hartpury College on 2025/05/24
 
 
-Average Margin: Nottingham by 1.2
+Average Margin: Nottingham by 1.1
 
 Average Scoreline: 30-29
 
@@ -742,7 +742,7 @@ Average Scoreline: 30-29
 ### Doncaster V Cornish Pirates on 2025/05/24
 
 
-Average Margin: Doncaster by 1.1
+Average Margin: Doncaster by 1.2
 
 Average Scoreline: 28-26
 
@@ -755,7 +755,7 @@ Average Scoreline: 28-26
 ### London Scottish V Caldy on 2025/05/24
 
 
-Average Margin: London Scottish by 10.9
+Average Margin: London Scottish by 10.4
 
 Average Scoreline: 31-20
 
@@ -781,7 +781,7 @@ Average Scoreline: 31-17
 ### Ealing Trailfinders V Coventry on 2025/05/24
 
 
-Average Margin: Ealing Trailfinders by 15.7
+Average Margin: Ealing Trailfinders by 15.8
 
 Average Scoreline: 37-21
 
@@ -794,9 +794,9 @@ Average Scoreline: 37-21
 ### Ampthill V Cambridge on 2025/05/24
 
 
-Average Margin: Ampthill by 13.7
+Average Margin: Ampthill by 12.8
 
-Average Scoreline: 33-19
+Average Scoreline: 33-20
 
 <p float="left">
 <img src="plots/performances_2025-05-24-Ampthill_V_Cambridge.png" width="32%" />
@@ -809,7 +809,7 @@ Average Scoreline: 33-19
 ### Cornish Pirates V Nottingham on 2025/05/31
 
 
-Average Margin: Cornish Pirates by 8.2
+Average Margin: Cornish Pirates by 8.4
 
 Average Scoreline: 34-26
 
@@ -822,9 +822,9 @@ Average Scoreline: 34-26
 ### Hartpury College V Ealing Trailfinders on 2025/05/31
 
 
-Average Margin: Ealing Trailfinders by 13.0
+Average Margin: Ealing Trailfinders by 13.1
 
-Average Scoreline: 36-23
+Average Scoreline: 37-23
 
 <p float="left">
 <img src="plots/performances_2025-05-31-HartpuryCollege_V_EalingTrailfinders.png" width="32%" />
@@ -835,7 +835,7 @@ Average Scoreline: 36-23
 ### Caldy V Bedford on 2025/05/31
 
 
-Average Margin: Bedford by 12.1
+Average Margin: Bedford by 12.5
 
 Average Scoreline: 40-28
 
@@ -848,9 +848,9 @@ Average Scoreline: 40-28
 ### Coventry V London Scottish on 2025/05/31
 
 
-Average Margin: Coventry by 13.7
+Average Margin: Coventry by 13.1
 
-Average Scoreline: 33-19
+Average Scoreline: 33-20
 
 <p float="left">
 <img src="plots/performances_2025-05-31-Coventry_V_LondonScottish.png" width="32%" />
@@ -861,9 +861,9 @@ Average Scoreline: 33-19
 ### Ampthill V Doncaster on 2025/05/31
 
 
-Average Margin: Doncaster by 3.0
+Average Margin: Doncaster by 2.5
 
-Average Scoreline: 30-27
+Average Scoreline: 29-27
 
 <p float="left">
 <img src="plots/performances_2025-05-31-Ampthill_V_Doncaster.png" width="32%" />
@@ -874,7 +874,7 @@ Average Scoreline: 30-27
 ### Chinnor V Cambridge on 2025/05/31
 
 
-Average Margin: Chinnor by 13.1
+Average Margin: Chinnor by 13.9
 
 Average Scoreline: 32-19
 

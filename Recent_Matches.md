@@ -18,9 +18,9 @@ Last Round Accuracy: 2 of 3 (66.67%)
 
 Last Round Error: 17.0 points per match
 
-[2025-03-07 Wales U20 at Scotland U20; 12-27](reviews//2025-03-07-ScotlandU20-WalesU20)
-
 [2025-03-07 France U20 at Ireland U20; 22-12](reviews//2025-03-07-IrelandU20-FranceU20)
+
+[2025-03-07 Wales U20 at Scotland U20; 12-27](reviews//2025-03-07-ScotlandU20-WalesU20)
 
 [2025-03-07 Italy U20 at England U20; 24-33](reviews//2025-03-07-EnglandU20-ItalyU20)
 ## Rugby Europe Trophy
@@ -64,7 +64,7 @@ Last Round Error: 13.6 points per match
 
 Competition Accuracy: 15 of 19 (78.95%)
 
-Competition Error: 13.19 points per match
+Competition Error: 13.66 points per match
 
 Last Round Accuracy: 5 of 6 (83.33%)
 
@@ -132,33 +132,33 @@ Last Round Error: 10.52 points per match
 
 [In depth model review and projections for Super Rugby Pacific 2025](comp_files/Super_Rugby_Pacific_2025)
 
-Competition Accuracy: 11 of 18 (61.11%)
+Competition Accuracy: 12 of 19 (63.16%)
 
-Competition Error: 11.75 points per match
+Competition Error: 10.98 points per match
 
 Last Round Accuracy: 3 of 6 (50.0%)
 
-Last Round Error: 16.16 points per match
+Last Round Error: 14.6 points per match
 
 [2025-03-07 Brumbies at Blues; 21-20](reviews//2025-03-07-Blues-Brumbies)
 
 [2025-03-08 Hurricanes at Moana Pasifika; 12-43](reviews//2025-03-08-MoanaPasifika-Hurricanes)
 
-[2025-03-08 Western Force at New South Wales Waratahs; 41-27](reviews//2025-03-08-NewSouthWalesWaratahs-WesternForce)
+[2025-03-08 Western Force at New South Wales Waratahs; 10-34](reviews//2025-03-08-NewSouthWalesWaratahs-WesternForce)
 
-[2025-03-08 Queensland Reds at Crusaders; 19-43](reviews//2025-03-08-Crusaders-QueenslandReds)
+[2025-03-08 Queensland Reds at Crusaders; 18-26](reviews//2025-03-08-Crusaders-QueenslandReds)
 ## United Rugby Championship
 
 
 [In depth model review and projections for United Rugby Championship 24/25](comp_files/United_Rugby_Championship_24/25)
 
-Competition Accuracy: 70 of 97 (72.16%)
+Competition Accuracy: 71 of 99 (71.72%)
 
-Competition Error: 10.09 points per match
+Competition Error: 9.98 points per match
 
-Last Round Accuracy: 6 of 8 (75.0%)
+Last Round Accuracy: 5 of 8 (62.5%)
 
-Last Round Error: 10.93 points per match
+Last Round Error: 10.36 points per match
 
 [2025-03-08 Lions at Sharks; 20-36](reviews//2025-03-08-Sharks-Lions)
 # Domestic Leagues
@@ -170,11 +170,11 @@ Last Round Error: 10.93 points per match
 
 Competition Accuracy: 16 of 28 (57.14%)
 
-Competition Error: 17.5 points per match
+Competition Error: 17.59 points per match
 
 Last Round Accuracy: 2 of 4 (50.0%)
 
-Last Round Error: 22.94 points per match
+Last Round Error: 23.54 points per match
 
 [2025-03-08 Red Hurricanes Osaka at Kamaishi Seawaves; 24-35](reviews//2025-03-08-KamaishiSeawaves-RedHurricanesOsaka)
 ## Japan Rugby League One D3
@@ -186,9 +186,9 @@ Competition Accuracy: 14 of 29 (48.28%)
 
 Competition Error: 56.13 points per match
 
-Last Round Accuracy: 4 of 4 (100.0%)
+Last Round Accuracy: 3 of 4 (75.0%)
 
-Last Round Error: 33.27 points per match
+Last Round Error: 44.48 points per match
 
 [2025-03-08 Chugoku Red Regulions at Sayama Secom Rugguts; 22-44](reviews//2025-03-08-SayamaSecomRugguts-ChugokuRedRegulions)
 

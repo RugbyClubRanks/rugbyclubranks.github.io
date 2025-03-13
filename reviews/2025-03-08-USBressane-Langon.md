@@ -11,7 +11,7 @@ categories: "Nationale 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.74, which translates to predicting US Bressane to win by 9.4.
 
-Our Over/Under is 41.5 - and combined with the spread above, we have a predicted scoreline of 16 to 25
+Our Over/Under is 41.5 - and combined with the spread above, we have a predicted scoreline of 16 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: US Bressane by 9.2
+## Prediction without Player Minutes: US Bressane by 10.4
 
 
-US Bressane by 3.7 on a neutral pitch
+US Bressane by 4.9 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -67,21 +67,29 @@ US Bressane by 3.7 on a neutral pitch
 </p>
 
 
-|   Away Minutes | Away Player              |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
-|---------------:|:-------------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|        34      | Ratu Nailoma Vatubua     |             14.81 |        1 |             20.23 | Teo Bordenave        |             33 |
-|        22      | Clement Renaud           |             22.26 |        2 |             32.72 | Louis Dasalmartini   |             11 |
-|        80      | Maxime Gau               |              2.1  |        3 |             23.54 | Atonio Ulutuipalelei |             80 |
-|        80      | Simon Lobjoit            |             38.65 |        4 |             10.41 | Quentin Witt         |             58 |
-|        19      | Isikili Seva Davetawalu  |             21.76 |        5 |             67.92 | Pierre Reynaud       |             80 |
-|        18      | Thomas Mendy             |             46.71 |        6 |             87.95 | Lucas Lyons          |             52 |
-|        15      | Ludovic Sempé            |             39.39 |        7 |             59.78 | Nail Ait Naceur      |             14 |
-|        20.6667 | Thomas De Molder         |              6.11 |        8 |             87.78 | Loic Baradel         |             80 |
-|        30      | Paul Castera             |             57.04 |        9 |             28.52 | Jeremie Martin       |             46 |
-|        27      | Vincent Debladis         |             12.39 |       10 |             87.39 | Fred Zeilinga        |             28 |
-|         0      | Thomas Wallraf           |             68.42 |       11 |             15.01 | Élie De Fleurian     |             80 |
-|        20      | Guillaume Christophe     |             36.36 |       12 |             45.76 | Benjamin Doy         |             63 |
-|         0      | Yul Charrier             |             34.85 |       13 |             43.03 | Joe Margetts         |             22 |
-|        58      | Quentin Lefort           |              8.75 |       14 |             17.68 | Alexandre Badet      |             22 |
-|        80      | Baptiste Tisne Cardeneau |             53.06 |       15 |             23.47 | Nathan Azais         |             28 |
+|   Away Minutes | Away Player               |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
+|---------------:|:--------------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
+|        80      | Ratu Nailoma Vatubua      |             11.69 |        1 |             51.3  | Teo Bordenave        |             80 |
+|        19      | Clement Renaud            |             24.28 |        2 |             41.43 | Louis Dasalmartini   |             80 |
+|        80      | Maxime Gau                |              3.9  |        3 |             17.69 | Atonio Ulutuipalelei |             47 |
+|        67      | Simon Lobjoit             |             39.87 |        4 |             10.79 | Quentin Witt         |             50 |
+|        74      | Isikili Seva Davetawalu   |             14.54 |        5 |             71.01 | Pierre Reynaud       |             31 |
+|        22      | Thomas Mendy              |             54.07 |        6 |             88.12 | Lucas Lyons          |             17 |
+|        80      | Ludovic Sempé             |             39.2  |        7 |             69.32 | Nail Ait Naceur      |             30 |
+|        80      | Thomas De Molder          |              4.09 |        8 |             85.89 | Loic Baradel         |             33 |
+|        22      | Paul Castera              |             58.01 |        9 |             41.46 | Jeremie Martin       |             33 |
+|        78      | Vincent Debladis          |              9.28 |       10 |             89.03 | Fred Zeilinga        |             31 |
+|        80      | Thomas Wallraf            |             77.09 |       11 |             23    | Élie De Fleurian     |             33 |
+|        80      | Guillaume Christophe      |             34.74 |       12 |             52.01 | Benjamin Doy         |             50 |
+|        80      | Yul Charrier              |             37.45 |       13 |             54.62 | Joe Margetts         |             33 |
+|        37      | Quentin Lefort            |             11.87 |       14 |             20.33 | Alexandre Badet      |             80 |
+|        80      | Baptiste Tisne Cardeneau  |             51.2  |       15 |             33.33 | Nathan Azais         |             52 |
+|        47      | Thomas Bishop             |             53.13 |       16 |             33.4  | Nicolas Tachat       |             80 |
+|        65      | Lucas Hernandez           |             25.16 |       17 |             66.55 | Jeremy Valencot      |              0 |
+|        13      | Simon Zubizarreta         |             23.93 |       18 |             40.16 | Maxime Vacquier      |             80 |
+|        22      | Maxime Lancon             |             41.77 |       19 |             44.56 | Erich de Jager       |             72 |
+|        65      | Julien Graffouillère      |             36.33 |       20 |              5.77 | Arnaud Feltrin       |             14 |
+|        20.6667 | Vincent Bouet             |            nan    |       21 |              4.41 | Victor Fromenteze    |             11 |
+|        28      | Jean-Baptiste Bretagnolle |             35.51 |       22 |             58.93 | Nicolas Lemaire      |             80 |
+|       nan      | nan                       |            nan    |       23 |             60.17 | Dimitri Doucet       |             50 |
 

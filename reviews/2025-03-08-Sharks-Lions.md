@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Sharks by 5.1
+## Prediction without Player Minutes: Sharks by 1.2
 
 
-Lions by 3.1 on a neutral pitch
+Lions by 6.9 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,29 +69,31 @@ Lions by 3.1 on a neutral pitch
 
 |   Away Minutes | Away Player            |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:-----------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|           52   | Juan Schoeman          |             53.4  |        1 |             99.19 | Ox Nche             |           21   |
-|           28.5 | PJ Botha               |             81.28 |        2 |             99.49 | Bongi Mbonambi      |           80   |
-|           72   | Asenathi Ntlabakanye   |             61.33 |        3 |             91.91 | Vincent Koch        |           68   |
-|           24   | Ruben Schoeman         |             87.15 |        4 |             83.68 | Jason Jenkins       |           54   |
-|           80   | Ruben Schoeman         |             87.15 |        4 |             83.68 | Jason Jenkins       |           54   |
-|           36   | Darrien-Lane Landsberg |             65.76 |        5 |             28.99 | Emile van Heerden   |           60   |
-|           44   | Darrien-Lane Landsberg |             65.76 |        5 |             28.99 | Emile van Heerden   |           60   |
-|           23   | Jarod Cairns           |             18.35 |        6 |             65.25 | Phepsi Buthelezi    |           50   |
-|           23   | Sibabalo Qoma          |             41.71 |        7 |             42.45 | Jeandre Labuschagne |           60   |
-|           80   | Francke Horn           |             98.17 |        8 |             86.76 | Siya Kolisi         |           52   |
-|            0   | Morne van den Berg     |             89.57 |        9 |             84.52 | Grant Williams      |           18   |
-|           54   | Gianni Lombard         |             86.76 |       10 |             90.76 | Jordan Hendrikse    |           10.5 |
-|           18   | Edwill van der Merwe   |             93.65 |       11 |             73.85 | Ethan Hooker        |           37   |
-|           54   | Marius Louw            |             94.55 |       12 |             66.87 | Francois Venter     |           80   |
-|           28.5 | Manuel Rass            |             15.66 |       13 |             85.15 | Jurenzo Julius      |           29   |
-|           80   | Richard Kriel          |             38.03 |       14 |              6.72 | Yaw Penxe           |           63   |
-|           37   | Tapiwa Mafura          |             86.12 |       15 |             81.84 | Henry Immelman      |           69   |
-|           80   | Franco Marais          |              6.24 |       16 |             88.87 | Fez Mbatha          |           80   |
-|           80   | Morgan Naude           |             68.61 |       17 |             25.57 | Ntuthuko Mchunu     |           80   |
-|           80   | Conraad van Vuuren     |             63.51 |       18 |            nan    | Hanro Jacobs        |           80   |
-|           12   | Ruan Delport           |             58.72 |       19 |             13.04 | Corne Rahl          |           68   |
-|           28   | Izan Esterhuizen       |             57.18 |       20 |             56.35 | James Venter        |           28   |
-|           28   | Nico Steyn             |             70.78 |       21 |             61.3  | Nick Hatton         |           34   |
-|            8   | WJ Steenkamp           |             62.53 |       22 |             87.3  | Jaden Hendrikse     |           52   |
-|           57   | Rynhardt Jonker        |             86.16 |       23 |             65.51 | Hakeem Kunene       |           72   |
+|           80   | Juan Schoeman          |             53.08 |        1 |             99.43 | Ox Nche             |             72 |
+|           11   | PJ Botha               |             82    |        2 |             99.15 | Bongi Mbonambi      |              0 |
+|           17   | Asenathi Ntlabakanye   |             73.38 |        3 |             92.29 | Vincent Koch        |             54 |
+|           18   | Ruben Schoeman         |             89.49 |        4 |             82.55 | Jason Jenkins       |             26 |
+|           34   | Ruben Schoeman         |             89.49 |        4 |             82.55 | Jason Jenkins       |             26 |
+|           10.5 | Ruben Schoeman         |             89.49 |        4 |             82.55 | Jason Jenkins       |             26 |
+|           37   | Ruben Schoeman         |             89.49 |        4 |             82.55 | Jason Jenkins       |             26 |
+|           21   | Darrien-Lane Landsberg |             78.24 |        5 |             35.27 | Emile van Heerden   |             80 |
+|           10.5 | Darrien-Lane Landsberg |             78.24 |        5 |             35.27 | Emile van Heerden   |             80 |
+|           65   | Jarod Cairns           |             19.93 |        6 |             79.23 | Phepsi Buthelezi    |             54 |
+|           52   | Sibabalo Qoma          |             32.83 |        7 |             54.91 | Jeandre Labuschagne |             80 |
+|           23   | Francke Horn           |             98.36 |        8 |             86.5  | Siya Kolisi         |             72 |
+|           80   | Morne van den Berg     |             86.24 |        9 |             91.11 | Grant Williams      |             80 |
+|           17   | Gianni Lombard         |             87.76 |       10 |             92.41 | Jordan Hendrikse    |             80 |
+|           80   | Edwill van der Merwe   |             93.28 |       11 |             79.85 | Ethan Hooker        |             57 |
+|           26   | Marius Louw            |             94.28 |       12 |             60.74 | Francois Venter     |              0 |
+|           80   | Manuel Rass            |             12.45 |       13 |             87.55 | Jurenzo Julius      |             80 |
+|           60   | Richard Kriel          |             38.27 |       14 |              6.62 | Yaw Penxe           |             68 |
+|           65   | Tapiwa Mafura          |             85.54 |       15 |             84.34 | Henry Immelman      |             80 |
+|           28   | Franco Marais          |              5.43 |       16 |             88.46 | Fez Mbatha          |             69 |
+|            8   | Morgan Naude           |             67.78 |       17 |             23.54 | Ntuthuko Mchunu     |             63 |
+|           28   | Conraad van Vuuren     |             63.07 |       18 |            nan    | Hanro Jacobs        |             29 |
+|           80   | Ruan Delport           |             58.63 |       19 |             19.89 | Corne Rahl          |             37 |
+|           80   | Izan Esterhuizen       |             58.47 |       20 |             57.44 | James Venter        |             28 |
+|           28.5 | Nico Steyn             |             70.73 |       21 |             61.15 | Nick Hatton         |             52 |
+|           28.5 | WJ Steenkamp           |             62.58 |       22 |             86.76 | Jaden Hendrikse     |             18 |
+|           54   | Rynhardt Jonker        |             84.14 |       23 |             66.87 | Hakeem Kunene       |             12 |
 

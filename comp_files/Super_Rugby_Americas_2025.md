@@ -1,6 +1,6 @@
 ---  
 title: "Super Rugby Americas 2025 Status"  
-date: 2025-03-10 6:00:00 -0500  
+date: 2025-03-13 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -32,13 +32,13 @@ aside:
 
 | Club          |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Pampas XV     |                   9 |    7.8 |             137.414  |                   0.7 |                3.9 |                 35.9 |
-| Dogos XV      |                   8 |    5.5 |              52.7219 |                   1.2 |                4.8 |                 28.1 |
-| Penarol Rugby |                   8 |    4.4 |              23.294  |                   1.7 |                3.4 |                 22.5 |
-| Tarucas       |                   9 |    4.4 |              -5.9854 |                   1.8 |                2.1 |                 21.3 |
-| Selknam       |                   8 |    3.6 |             -10.6693 |                   1.6 |                2.7 |                 18.7 |
-| Yacare XV     |                   9 |    3.5 |             -33.4517 |                   1.9 |                3   |                 18.7 |
-| Cobras        |                   9 |    0.9 |            -163.324  |                   1.1 |                1.5 |                  6.1 |
+| Pampas XV     |                   9 |    7.8 |             137.555  |                   0.7 |                3.9 |                 36   |
+| Dogos XV      |                   8 |    5.6 |              53.565  |                   1.1 |                4.7 |                 28.2 |
+| Penarol Rugby |                   8 |    4.3 |              20.2093 |                   1.6 |                3.4 |                 22.2 |
+| Tarucas       |                   9 |    4.3 |              -5.7572 |                   1.7 |                2   |                 21   |
+| Selknam       |                   8 |    3.7 |             -10.4245 |                   1.5 |                2.8 |                 19   |
+| Yacare XV     |                   9 |    3.4 |             -32.9761 |                   1.9 |                2.9 |                 18.5 |
+| Cobras        |                   9 |    0.9 |            -162.171  |                   1.2 |                1.5 |                  6.2 |
 
 
 
@@ -47,13 +47,13 @@ aside:
 
 | Club          |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Pampas XV     |              12 |    9.8 |             152.414  |                   0.7 |                3.9 |                 45.9 |
-| Dogos XV      |              12 |    6.5 |              97.7219 |                   3.2 |                7.8 |                 39.1 |
-| Penarol Rugby |              12 |    7.4 |              49.294  |                   1.7 |                5.4 |                 36.5 |
-| Selknam       |              12 |    5.6 |              -5.6693 |                   3.6 |                3.7 |                 29.7 |
-| Tarucas       |              12 |    5.4 |              29.0146 |                   3.8 |                3.1 |                 28.3 |
-| Yacare XV     |              12 |    5.5 |             -62.4517 |                   1.9 |                3   |                 26.7 |
-| Cobras        |              12 |    0.9 |            -260.324  |                   2.1 |                2.5 |                  8.1 |
+| Pampas XV     |              12 |    9.8 |            152.555   |                   0.7 |                3.9 |                 46   |
+| Dogos XV      |              12 |    6.6 |             98.565   |                   3.1 |                7.7 |                 39.2 |
+| Penarol Rugby |              12 |    7.3 |             46.2093  |                   1.6 |                5.4 |                 36.2 |
+| Selknam       |              12 |    5.7 |             -5.42446 |                   3.5 |                3.8 |                 30   |
+| Tarucas       |              12 |    5.3 |             29.2428  |                   3.7 |                3   |                 28   |
+| Yacare XV     |              12 |    5.4 |            -61.9761  |                   1.9 |                2.9 |                 26.5 |
+| Cobras        |              12 |    0.9 |           -259.171   |                   2.2 |                2.5 |                  8.2 |
 
 
 
@@ -63,8 +63,8 @@ aside:
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
 | Club Level | 58.3% | 8.7 |
-| Player Level: Lineup | 60.0% | 18.3 |
-| Player Level: Minutes | 80.0% | 15.9 |
+| Player Level: Lineup | 60.0% | 19.5 |
+| Player Level: Minutes | 60.0% | 17.7 |
 
 
 # Future Predictions
@@ -74,7 +74,7 @@ aside:
 ### Pampas XV V Yacare XV on 2025/03/14
 
 
-Average Margin: Pampas XV by 18.9
+Average Margin: Pampas XV by 18.0
 
 Average Scoreline: 36-18
 
@@ -87,7 +87,7 @@ Average Scoreline: 36-18
 ### Selknam V Tarucas on 2025/03/16
 
 
-Average Margin: Selknam by 3.8
+Average Margin: Selknam by 3.7
 
 Average Scoreline: 24-20
 
@@ -100,7 +100,7 @@ Average Scoreline: 24-20
 ### Cobras V Penarol Rugby on 2025/03/16
 
 
-Average Margin: Penarol Rugby by 15.1
+Average Margin: Penarol Rugby by 14.4
 
 Average Scoreline: 32-17
 
@@ -115,7 +115,7 @@ Average Scoreline: 32-17
 ### Dogos XV V Tarucas on 2025/03/28
 
 
-Average Margin: Dogos XV by 10.5
+Average Margin: Dogos XV by 10.0
 
 Average Scoreline: 31-21
 
@@ -128,9 +128,9 @@ Average Scoreline: 31-21
 ### Cobras V Yacare XV on 2025/03/29
 
 
-Average Margin: Yacare XV by 10.8
+Average Margin: Yacare XV by 10.5
 
-Average Scoreline: 34-23
+Average Scoreline: 33-23
 
 <p float="left">
 <img src="plots/performances_2025-03-29-Cobras_V_YacareXV.png" width="32%" />
@@ -141,7 +141,7 @@ Average Scoreline: 34-23
 ### Selknam V Pampas XV on 2025/03/29
 
 
-Average Margin: Pampas XV by 10.1
+Average Margin: Pampas XV by 10.2
 
 Average Scoreline: 28-18
 
@@ -156,9 +156,9 @@ Average Scoreline: 28-18
 ### Pampas XV V Cobras on 2025/04/04
 
 
-Average Margin: Pampas XV by 28.9
+Average Margin: Pampas XV by 29.7
 
-Average Scoreline: 48-19
+Average Scoreline: 48-18
 
 <p float="left">
 <img src="plots/performances_2025-04-04-PampasXV_V_Cobras.png" width="32%" />
@@ -184,9 +184,9 @@ Average Scoreline: 27-22
 ### Tarucas V Penarol Rugby on 2025/04/07
 
 
-Average Margin: Tarucas by 2.3
+Average Margin: Tarucas by 2.8
 
-Average Scoreline: 25-23
+Average Scoreline: 25-22
 
 <p float="left">
 <img src="plots/performances_2025-04-07-Tarucas_V_PenarolRugby.png" width="32%" />
@@ -197,7 +197,7 @@ Average Scoreline: 25-23
 ### Pampas XV V Dogos XV on 2025/04/11
 
 
-Average Margin: Pampas XV by 10.3
+Average Margin: Pampas XV by 10.0
 
 Average Scoreline: 30-20
 
@@ -210,7 +210,7 @@ Average Scoreline: 30-20
 ### Selknam V Cobras on 2025/04/12
 
 
-Average Margin: Selknam by 19.0
+Average Margin: Selknam by 18.3
 
 Average Scoreline: 36-17
 
@@ -223,7 +223,7 @@ Average Scoreline: 36-17
 ### Yacare XV V Penarol Rugby on 2025/04/12
 
 
-Average Margin: Penarol Rugby by 1.0
+Average Margin: Penarol Rugby by 1.3
 
 Average Scoreline: 26-25
 
@@ -238,9 +238,9 @@ Average Scoreline: 26-25
 ### Pampas XV V Tarucas on 2025/04/25
 
 
-Average Margin: Pampas XV by 14.9
+Average Margin: Pampas XV by 14.7
 
-Average Scoreline: 29-14
+Average Scoreline: 28-14
 
 <p float="left">
 <img src="plots/performances_2025-04-25-PampasXV_V_Tarucas.png" width="32%" />
@@ -251,7 +251,7 @@ Average Scoreline: 29-14
 ### Cobras V Dogos XV on 2025/04/26
 
 
-Average Margin: Dogos XV by 17.8
+Average Margin: Dogos XV by 17.4
 
 Average Scoreline: 38-21
 
@@ -264,9 +264,9 @@ Average Scoreline: 38-21
 ### Selknam V Penarol Rugby on 2025/04/27
 
 
-Average Margin: Selknam by 1.6
+Average Margin: Selknam by 2.2
 
-Average Scoreline: 25-24
+Average Scoreline: 26-23
 
 <p float="left">
 <img src="plots/performances_2025-04-27-Selknam_V_PenarolRugby.png" width="32%" />
@@ -279,7 +279,7 @@ Average Scoreline: 25-24
 ### Penarol Rugby V Tarucas on 2025/05/02
 
 
-Average Margin: Penarol Rugby by 4.9
+Average Margin: Penarol Rugby by 4.6
 
 Average Scoreline: 21-16
 
@@ -307,7 +307,7 @@ Average Scoreline: 43-20
 ### Dogos XV V Yacare XV on 2025/05/05
 
 
-Average Margin: Dogos XV by 11.5
+Average Margin: Dogos XV by 11.7
 
 Average Scoreline: 35-23
 
@@ -320,7 +320,7 @@ Average Scoreline: 35-23
 ### Tarucas V Selknam on 2025/05/09
 
 
-Average Margin: Tarucas by 5.5
+Average Margin: Tarucas by 4.8
 
 Average Scoreline: 28-23
 
@@ -348,7 +348,7 @@ Average Scoreline: 31-21
 ### Penarol Rugby V Cobras on 2025/05/12
 
 
-Average Margin: Penarol Rugby by 20.6
+Average Margin: Penarol Rugby by 19.9
 
 Average Scoreline: 33-13
 
@@ -361,9 +361,9 @@ Average Scoreline: 33-13
 ### Tarucas V Dogos XV on 2025/05/16
 
 
-Average Margin: Dogos XV by 0.5
+Average Margin: Dogos XV by 1.0
 
-Average Scoreline: 26-26
+Average Scoreline: 26-25
 
 <p float="left">
 <img src="plots/performances_2025-05-16-Tarucas_V_DogosXV.png" width="32%" />
@@ -374,7 +374,7 @@ Average Scoreline: 26-26
 ### Yacare XV V Cobras on 2025/05/17
 
 
-Average Margin: Yacare XV by 15.6
+Average Margin: Yacare XV by 15.7
 
 Average Scoreline: 34-19
 
@@ -389,7 +389,7 @@ Average Scoreline: 34-19
 ### Pampas XV V Selknam on 2025/05/19
 
 
-Average Margin: Pampas XV by 15.3
+Average Margin: Pampas XV by 15.5
 
 Average Scoreline: 33-17
 
@@ -402,7 +402,7 @@ Average Scoreline: 33-17
 ### Dogos XV V Penarol Rugby on 2025/05/23
 
 
-Average Margin: Dogos XV by 8.0
+Average Margin: Dogos XV by 8.3
 
 Average Scoreline: 31-23
 
@@ -415,7 +415,7 @@ Average Scoreline: 31-23
 ### Selknam V Yacare XV on 2025/05/24
 
 
-Average Margin: Selknam by 5.9
+Average Margin: Selknam by 6.0
 
 Average Scoreline: 29-23
 
@@ -428,9 +428,9 @@ Average Scoreline: 29-23
 ### Cobras V Tarucas on 2025/05/25
 
 
-Average Margin: Tarucas by 12.8
+Average Margin: Tarucas by 13.5
 
-Average Scoreline: 32-19
+Average Scoreline: 33-19
 
 <p float="left">
 <img src="plots/performances_2025-05-25-Cobras_V_Tarucas.png" width="32%" />
@@ -443,9 +443,9 @@ Average Scoreline: 32-19
 ### Dogos XV V Selknam on 2025/05/30
 
 
-Average Margin: Dogos XV by 9.9
+Average Margin: Dogos XV by 10.2
 
-Average Scoreline: 33-23
+Average Scoreline: 34-23
 
 <p float="left">
 <img src="plots/performances_2025-05-30-DogosXV_V_Selknam.png" width="32%" />
@@ -456,7 +456,7 @@ Average Scoreline: 33-23
 ### Penarol Rugby V Pampas XV on 2025/05/30
 
 
-Average Margin: Pampas XV by 6.2
+Average Margin: Pampas XV by 6.7
 
 Average Scoreline: 25-19
 
@@ -469,9 +469,9 @@ Average Scoreline: 25-19
 ### Tarucas V Yacare XV on 2025/05/31
 
 
-Average Margin: Tarucas by 7.9
+Average Margin: Tarucas by 7.3
 
-Average Scoreline: 30-22
+Average Scoreline: 29-22
 
 <p float="left">
 <img src="plots/performances_2025-05-31-Tarucas_V_YacareXV.png" width="32%" />

@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Massy by 12.2
+## Prediction without Player Minutes: Massy by 13.0
 
 
-Massy by 5.9 on a neutral pitch
+Massy by 6.7 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Massy by 5.9 on a neutral pitch
 
 |   Away Minutes | Away Player               |   Away Percentile |   Number |   Home Percentile | Home Player            |   Home Minutes |
 |---------------:|:--------------------------|------------------:|---------:|------------------:|:-----------------------|---------------:|
-|             30 | Benito Delacruz           |             44.01 |        1 |             65.86 | Siegfried Fisi'ihoi    |             24 |
-|             80 | Mehdi Boundjema           |             88.7  |        2 |             93.09 | Pierre Trassoudaine    |             70 |
-|             48 | Chris Talakai             |             28.48 |        3 |             79.85 | Tijde Visser           |             80 |
-|             46 | Marius Antonescu          |             74.11 |        4 |             79.55 | Saba Pesvianidze       |             80 |
-|             57 | Leva Fifita               |              3.47 |        5 |             71.39 | Andrei Mahu            |             80 |
-|             80 | Arthur Christienne        |             74.79 |        6 |             58.94 | Tony Tissot            |             25 |
-|             39 | Nicolas Mousties          |             36.61 |        7 |             76.37 | Simon Cowley           |             48 |
-|             72 | Lopeti Timani             |             87.37 |        8 |             68.23 | Hilan Delbois Fontaine |             55 |
-|             80 | Pablo Barbaste            |             82.78 |        9 |             76.7  | Julien Blanc           |             14 |
-|             80 | Gilles Bosch              |             25.63 |       10 |             50.63 | Antonin Vidalenc       |             80 |
-|             55 | Clément Clavières         |             87.2  |       11 |             88.67 | Alex Preira            |              5 |
-|             80 | Parataiso Silafai-Lea'ana |             63.74 |       12 |             79.29 | Luca Mignot            |             16 |
-|              0 | Pierre-Hugo Ducom         |             15.45 |       13 |             29.9  | Tom Cusson             |             16 |
-|             28 | Baptiste Tsague           |             47.51 |       14 |             14    | Giorgi Gogoladze       |             52 |
-|             10 | Boris Goutard             |              0.61 |       15 |             29.59 | Alexandre Borie        |             80 |
-|             80 | Adam Moulahya             |            nan    |       16 |              0.57 | Fernandez Correa       |             59 |
-|             52 | Gregory Fichten           |             29.29 |       17 |             73.69 | Adrien Sonzogni        |             41 |
-|             80 | Jérémy Boyadjis           |             74.11 |       18 |             48.14 | Nolan Pienaar          |             64 |
-|             23 | Darrell Dyer              |             91.46 |       19 |             40.5  | Hugo Boutin            |             50 |
-|              9 | Thibault Clauzade         |             60.43 |       20 |            nan    | Noa Rolnin             |             28 |
-|             40 | Erwan Nicolas             |             58.78 |       21 |             56.17 | Lucas Rubio            |             58 |
-|             80 | Théo Mias                 |             31.82 |       22 |              4.83 | Gonzalo Lopez Bontempo |             46 |
-|              8 | Thibault Santoro          |             56.33 |       23 |             45.58 | Alfred Mouandjo        |             80 |
+|             21 | Benito Delacruz           |             44.48 |        1 |             38.72 | Siegfried Fisi'ihoi    |             80 |
+|             28 | Mehdi Boundjema           |             83.36 |        2 |             91.34 | Pierre Trassoudaine    |             24 |
+|              0 | Chris Talakai             |             18.18 |        3 |             75.24 | Tijde Visser           |             14 |
+|             10 | Marius Antonescu          |             73.45 |        4 |             74.77 | Saba Pesvianidze       |             80 |
+|             32 | Leva Fifita               |              1.78 |        5 |             73.26 | Andrei Mahu            |             25 |
+|             50 | Arthur Christienne        |             58.37 |        6 |             47.8  | Tony Tissot            |             80 |
+|              0 | Nicolas Mousties          |             35.17 |        7 |             64.27 | Simon Cowley           |             72 |
+|             55 | Lopeti Timani             |             81.19 |        8 |             58.69 | Hilan Delbois Fontaine |             80 |
+|              0 | Pablo Barbaste            |             79.27 |        9 |             68.12 | Julien Blanc           |             70 |
+|             16 | Gilles Bosch              |             12.45 |       10 |             40.3  | Antonin Vidalenc       |             80 |
+|             80 | Clément Clavières         |             84.54 |       11 |             85.46 | Alex Preira            |             80 |
+|             80 | Parataiso Silafai-Lea'ana |             63.25 |       12 |             78.31 | Luca Mignot            |              5 |
+|             41 | Pierre-Hugo Ducom         |             13.15 |       13 |             26.61 | Tom Cusson             |             55 |
+|             39 | Baptiste Tsague           |             51.61 |       14 |             11.13 | Giorgi Gogoladze       |             80 |
+|             80 | Boris Goutard             |              0.6  |       15 |             21.89 | Alexandre Borie        |             48 |
+|             48 | Adam Moulahya             |            nan    |       16 |              0.65 | Fernandez Correa       |             80 |
+|             52 | Gregory Fichten           |             19.97 |       17 |             67.91 | Adrien Sonzogni        |             80 |
+|             30 | Jérémy Boyadjis           |             73.7  |       18 |             41.23 | Nolan Pienaar          |             28 |
+|             28 | Darrell Dyer              |             91.74 |       19 |             41.07 | Hugo Boutin            |             23 |
+|             25 | Thibault Clauzade         |             61.46 |       20 |            nan    | Noa Rolnin             |             23 |
+|             40 | Erwan Nicolas             |             59.58 |       21 |             44.43 | Lucas Rubio            |             80 |
+|             30 | Théo Mias                 |             30.62 |       22 |              5.06 | Gonzalo Lopez Bontempo |              8 |
+|             30 | Thibault Santoro          |             47.79 |       23 |             45.72 | Alfred Mouandjo        |             16 |
 

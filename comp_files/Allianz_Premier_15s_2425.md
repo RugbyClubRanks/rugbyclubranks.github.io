@@ -1,6 +1,6 @@
 ---  
 title: "Allianz Premier 15s 24/25 Status"  
-date: 2025-03-10 6:00:00 -0500  
+date: 2025-03-13 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -34,8 +34,8 @@ aside:
 
 | Club                      |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Gloucester-Hartpury Women |                   1 |    0.8 |              6.69689 |                   0.1 |                0.2 |                  3.6 |
-| Saracens Women            |                   1 |    0.2 |             -6.69689 |                   0.4 |                0.2 |                  1.3 |
+| Gloucester-Hartpury Women |                   1 |    0.8 |              6.73208 |                   0.1 |                0.3 |                  3.6 |
+| Saracens Women            |                   1 |    0.2 |             -6.73208 |                   0.3 |                0.2 |                  1.3 |
 
 
 
@@ -44,8 +44,8 @@ aside:
 
 | Club                      |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Gloucester-Hartpury Women |              18 |   14.8 |              262.697 |                   2.1 |                0.2 |                 61.6 |
-| Saracens Women            |              18 |   13.2 |              288.303 |                   2.4 |                0.2 |                 55.3 |
+| Gloucester-Hartpury Women |              18 |   14.8 |              262.732 |                   2.1 |                0.3 |                 61.6 |
+| Saracens Women            |              18 |   13.2 |              288.268 |                   2.3 |                0.2 |                 55.3 |
 | Harlequins Women          |              17 |   11   |               79     |                   1   |                0   |                 45   |
 | Exeter Chiefs Women       |              16 |   10   |               54     |                   2   |                0   |                 42   |
 | Bristol Bears Women       |              17 |   10   |              161     |                   1   |                0   |                 41   |
