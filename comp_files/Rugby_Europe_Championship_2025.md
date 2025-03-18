@@ -1,6 +1,6 @@
 ---  
 title: "Rugby Europe Championship 2025 Status"  
-date: 2025-03-13 6:00:00 -0500  
+date: 2025-03-14 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -33,14 +33,14 @@ aside:
 
 | Club        |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Portugal    |                   1 |    0.9 |             11.7083  |                   0.1 |                0.6 |                  4.2 |
-| Georgia     |                   1 |    0.9 |             13.1232  |                   0   |                0.4 |                  4.1 |
-| Netherlands |                   1 |    0.8 |             10.7495  |                   0.1 |                0.5 |                  4   |
-| Switzerland |                   1 |    0.6 |              3.94217 |                   0.2 |                0.5 |                  3.3 |
-| Germany     |                   1 |    0.4 |             -3.94217 |                   0.3 |                0.4 |                  2.1 |
-| Belgium     |                   1 |    0.2 |            -10.7495  |                   0.2 |                0.2 |                  1.1 |
-| Romania     |                   1 |    0.1 |            -11.7083  |                   0.2 |                0.2 |                  0.9 |
-| Spain       |                   1 |    0.1 |            -13.1232  |                   0.2 |                0.2 |                  0.8 |
+| Portugal    |                   1 |    0.9 |             10.8702  |                   0.1 |                0.6 |                  4.2 |
+| Georgia     |                   1 |    0.9 |             13.5683  |                   0.1 |                0.4 |                  4.1 |
+| Netherlands |                   1 |    0.8 |             10.776   |                   0.1 |                0.5 |                  4   |
+| Switzerland |                   1 |    0.6 |              3.82432 |                   0.2 |                0.5 |                  3.2 |
+| Germany     |                   1 |    0.4 |             -3.82432 |                   0.2 |                0.4 |                  2.1 |
+| Belgium     |                   1 |    0.2 |            -10.776   |                   0.2 |                0.2 |                  1.1 |
+| Romania     |                   1 |    0.1 |            -10.8702  |                   0.2 |                0.1 |                  0.9 |
+| Spain       |                   1 |    0.1 |            -13.5683  |                   0.2 |                0.2 |                  0.8 |
 
 
 
@@ -49,14 +49,14 @@ aside:
 
 | Club        |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Georgia     |               5 |    4.9 |             224.123  |                   0   |                0.4 |                 20.1 |
-| Portugal    |               5 |    3.9 |              80.7083 |                   0.1 |                0.6 |                 16.2 |
-| Spain       |               5 |    3.1 |              26.8768 |                   0.2 |                0.2 |                 12.8 |
-| Netherlands |               5 |    2.8 |              50.7495 |                   0.1 |                0.5 |                 12   |
-| Belgium     |               5 |    2.2 |              15.2505 |                   0.2 |                0.2 |                  9.1 |
-| Romania     |               5 |    2.1 |             -22.7083 |                   0.2 |                0.2 |                  8.9 |
-| Switzerland |               5 |    0.6 |            -242.058  |                   0.2 |                0.5 |                  3.3 |
-| Germany     |               5 |    0.4 |            -132.942  |                   0.3 |                0.4 |                  2.1 |
+| Georgia     |               5 |    4.9 |             224.568  |                   0.1 |                0.4 |                 20.1 |
+| Portugal    |               5 |    3.9 |              79.8702 |                   0.1 |                0.6 |                 16.2 |
+| Spain       |               5 |    3.1 |              26.4317 |                   0.2 |                0.2 |                 12.8 |
+| Netherlands |               5 |    2.8 |              50.776  |                   0.1 |                0.5 |                 12   |
+| Belgium     |               5 |    2.2 |              15.224  |                   0.2 |                0.2 |                  9.1 |
+| Romania     |               5 |    2.1 |             -21.8702 |                   0.2 |                0.1 |                  8.9 |
+| Switzerland |               5 |    0.6 |            -242.176  |                   0.2 |                0.5 |                  3.2 |
+| Germany     |               5 |    0.4 |            -132.824  |                   0.2 |                0.4 |                  2.1 |
 
 
 
@@ -77,7 +77,7 @@ aside:
 ### Netherlands V Belgium on 2025/03/15
 
 
-Average Margin: Netherlands by 10.7
+Average Margin: Netherlands by 10.8
 
 Average Scoreline: 34-23
 
@@ -90,7 +90,7 @@ Average Scoreline: 34-23
 ### Germany V Switzerland on 2025/03/15
 
 
-Average Margin: Switzerland by 3.9
+Average Margin: Switzerland by 3.8
 
 Average Scoreline: 30-26
 
@@ -103,9 +103,9 @@ Average Scoreline: 30-26
 ### Portugal V Romania on 2025/03/16
 
 
-Average Margin: Portugal by 11.7
+Average Margin: Portugal by 10.9
 
-Average Scoreline: 34-22
+Average Scoreline: 33-22
 
 <p float="left">
 <img src="plots/performances_2025-03-16-Portugal_V_Romania.png" width="32%" />
@@ -116,9 +116,9 @@ Average Scoreline: 34-22
 ### Georgia V Spain on 2025/03/16
 
 
-Average Margin: Georgia by 13.1
+Average Margin: Georgia by 13.6
 
-Average Scoreline: 35-22
+Average Scoreline: 35-21
 
 <p float="left">
 <img src="plots/performances_2025-03-16-Georgia_V_Spain.png" width="32%" />
