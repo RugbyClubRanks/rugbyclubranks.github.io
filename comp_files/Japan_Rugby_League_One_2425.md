@@ -1,6 +1,6 @@
 ---  
 title: "Japan Rugby League One 24/25 Status"  
-date: 2025-03-17 6:00:00 -0500  
+date: 2025-03-20 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -23,8 +23,8 @@ aside:
 | Shizuoka Blue Revs    |       11 |      8 |                   25 |                     0 |                  7 |                   39 |
 | Kobelco Kobe Steelers |       11 |      5 |                  122 |                     4 |                  9 |                   33 |
 | Yokohama Canon Eagles |       11 |      5 |                   29 |                     3 |                  4 |                   27 |
-| Tokyo Sungoliath      |       11 |      5 |                  -21 |                     1 |                nan |                   27 |
-| Mitsubishi Dynaboars  |       11 |      4 |                 -122 |                     2 |                nan |                   23 |
+| Tokyo Sungoliath      |       11 |      5 |                  -21 |                     1 |                  6 |                   27 |
+| Mitsubishi Dynaboars  |       11 |      4 |                 -122 |                     2 |                  6 |                   24 |
 | Black Rams Tokyo      |       11 |      4 |                  -40 |                     2 |                  4 |                   22 |
 | Mie Honda Heat        |       11 |      4 |                 -127 |                     2 |                  4 |                   22 |
 | Toyota Verblitz       |       11 |      2 |                  -75 |                     4 |                  5 |                   19 |
@@ -37,18 +37,18 @@ aside:
 
 | Club                  |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:----------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Saitama Wild Knights  |                   7 |    5.9 |            116.396   |                   0.7 |                4.4 |                 28.7 |
-| Kubota Spears         |                   7 |    5.7 |             81.7715  |                   0.7 |                3.8 |                 27.4 |
-| Toshiba Brave Lupus   |                   7 |    5.5 |             76.8351  |                   0.9 |                3.7 |                 26.3 |
-| Kobelco Kobe Steelers |                   7 |    4.8 |             40.3709  |                   1.4 |                3.9 |                 24.4 |
-| Shizuoka Blue Revs    |                   7 |    4.1 |             24.0169  |                   1.3 |                3.2 |                 20.8 |
-| Yokohama Canon Eagles |                   7 |    3.7 |             11.9114  |                   1.4 |                2.8 |                 19   |
-| Tokyo Sungoliath      |                   7 |    3.6 |             -1.53225 |                   1.3 |                2.1 |                 17.7 |
-| Black Rams Tokyo      |                   7 |    2.5 |            -33.2139  |                   1.5 |                1.7 |                 13.3 |
-| Toyota Verblitz       |                   7 |    2.4 |            -43.4826  |                   1.6 |                1.9 |                 13   |
-| Mitsubishi Dynaboars  |                   7 |    1.5 |            -67.1886  |                   1.5 |                1.4 |                  8.8 |
-| Mie Honda Heat        |                   7 |    1.4 |           -101.397   |                   0.9 |                1   |                  7.6 |
-| Urayasu D-Rocks       |                   7 |    1   |           -104.487   |                   1.1 |                1.1 |                  6.1 |
+| Saitama Wild Knights  |                   7 |    5.9 |             114.472  |                   0.7 |                4.5 |                 28.6 |
+| Kubota Spears         |                   7 |    5.9 |              90.1954 |                   0.6 |                3.9 |                 28.1 |
+| Toshiba Brave Lupus   |                   7 |    5.5 |              77.1224 |                   0.9 |                3.7 |                 26.4 |
+| Kobelco Kobe Steelers |                   7 |    4.8 |              43.8647 |                   1.3 |                3.9 |                 24.6 |
+| Shizuoka Blue Revs    |                   7 |    4.2 |              26.3388 |                   1.3 |                3.3 |                 21.4 |
+| Yokohama Canon Eagles |                   7 |    3.7 |              11.2752 |                   1.4 |                2.8 |                 18.9 |
+| Tokyo Sungoliath      |                   7 |    3.2 |             -16.2445 |                   1.4 |                1.9 |                 16   |
+| Toyota Verblitz       |                   7 |    2.5 |             -38.8753 |                   1.5 |                1.9 |                 13.7 |
+| Black Rams Tokyo      |                   7 |    2.5 |             -32.213  |                   1.6 |                1.7 |                 13.4 |
+| Mitsubishi Dynaboars  |                   7 |    1.5 |             -69.2253 |                   1.5 |                1.4 |                  8.7 |
+| Mie Honda Heat        |                   7 |    1.4 |            -101.068  |                   1   |                1.1 |                  7.6 |
+| Urayasu D-Rocks       |                   7 |    1   |            -105.643  |                   1.1 |                1   |                  6   |
 
 
 
@@ -57,18 +57,18 @@ aside:
 
 | Club                  |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:----------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Saitama Wild Knights  |              18 |   14.9 |             282.396  |                   1.7 |               12.4 |                 75.7 |
-| Toshiba Brave Lupus   |              18 |   14.5 |             193.835  |                   1.9 |               13.7 |                 75.3 |
-| Kubota Spears         |              18 |   13.7 |             191.772  |                   2.7 |               11.8 |                 71.4 |
-| Shizuoka Blue Revs    |              18 |   12.1 |              49.0169 |                   1.3 |               10.2 |                 59.8 |
-| Kobelco Kobe Steelers |              18 |    9.8 |             162.371  |                   5.4 |               12.9 |                 57.4 |
-| Yokohama Canon Eagles |              18 |    8.7 |              40.9114 |                   4.4 |                6.8 |                 46   |
-| Tokyo Sungoliath      |              18 |    8.6 |             -22.5322 |                   2.3 |                2.1 |                 44.7 |
-| Black Rams Tokyo      |              18 |    6.5 |             -73.2139 |                   3.5 |                5.7 |                 35.3 |
-| Toyota Verblitz       |              18 |    4.4 |            -118.483  |                   5.6 |                6.9 |                 32   |
-| Mitsubishi Dynaboars  |              18 |    5.5 |            -189.189  |                   3.5 |                1.4 |                 31.8 |
-| Mie Honda Heat        |              18 |    5.4 |            -228.397  |                   2.9 |                5   |                 29.6 |
-| Urayasu D-Rocks       |              18 |    2   |            -288.487  |                   3.1 |                5.1 |                 16.1 |
+| Saitama Wild Knights  |              18 |   14.9 |             280.472  |                   1.7 |               12.5 |                 75.6 |
+| Toshiba Brave Lupus   |              18 |   14.5 |             194.122  |                   1.9 |               13.7 |                 75.4 |
+| Kubota Spears         |              18 |   13.9 |             200.195  |                   2.6 |               11.9 |                 72.1 |
+| Shizuoka Blue Revs    |              18 |   12.2 |              51.3388 |                   1.3 |               10.3 |                 60.4 |
+| Kobelco Kobe Steelers |              18 |    9.8 |             165.865  |                   5.3 |               12.9 |                 57.6 |
+| Yokohama Canon Eagles |              18 |    8.7 |              40.2752 |                   4.4 |                6.8 |                 45.9 |
+| Tokyo Sungoliath      |              18 |    8.2 |             -37.2445 |                   2.4 |                7.9 |                 43   |
+| Black Rams Tokyo      |              18 |    6.5 |             -72.213  |                   3.6 |                5.7 |                 35.4 |
+| Toyota Verblitz       |              18 |    4.5 |            -113.875  |                   5.5 |                6.9 |                 32.7 |
+| Mitsubishi Dynaboars  |              18 |    5.5 |            -191.225  |                   3.5 |                7.4 |                 32.7 |
+| Mie Honda Heat        |              18 |    5.4 |            -228.068  |                   3   |                5.1 |                 29.6 |
+| Urayasu D-Rocks       |              18 |    2   |            -289.643  |                   3.1 |                5   |                 16   |
 
 
 
@@ -78,8 +78,8 @@ aside:
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
 | Club Level | 68.2% | 11.0 |
-| Player Level: Lineup | 61.9% | 12.6 |
-| Player Level: Minutes | 73.8% | 13.3 |
+| Player Level: Lineup | 71.4% | 11.7 |
+| Player Level: Minutes | 79.6% | 12.3 |
 
 
 # Future Predictions
@@ -89,9 +89,9 @@ aside:
 ### Toyota Verblitz V Mitsubishi Dynaboars on 2025/03/22
 
 
-Average Margin: Toyota Verblitz by 5.6
+Average Margin: Toyota Verblitz by 5.9
 
-Average Scoreline: 32-27
+Average Scoreline: 31-25
 
 <p float="left">
 <img src="plots/performances_2025-03-22-ToyotaVerblitz_V_MitsubishiDynaboars.png" width="32%" />
@@ -102,7 +102,7 @@ Average Scoreline: 32-27
 ### Toshiba Brave Lupus V Saitama Wild Knights on 2025/03/22
 
 
-Average Margin: Saitama Wild Knights by 2.6
+Average Margin: Saitama Wild Knights by 2.0
 
 Average Scoreline: 33-31
 
@@ -115,7 +115,7 @@ Average Scoreline: 33-31
 ### Mie Honda Heat V Urayasu D-Rocks on 2025/03/22
 
 
-Average Margin: Mie Honda Heat by 4.8
+Average Margin: Mie Honda Heat by 5.0
 
 Average Scoreline: 21-16
 
@@ -128,9 +128,9 @@ Average Scoreline: 21-16
 ### Shizuoka Blue Revs V Black Rams Tokyo on 2025/03/22
 
 
-Average Margin: Shizuoka Blue Revs by 9.6
+Average Margin: Shizuoka Blue Revs by 10.3
 
-Average Scoreline: 31-22
+Average Scoreline: 32-22
 
 <p float="left">
 <img src="plots/performances_2025-03-22-ShizuokaBlueRevs_V_BlackRamsTokyo.png" width="32%" />
@@ -141,9 +141,9 @@ Average Scoreline: 31-22
 ### Kubota Spears V Yokohama Canon Eagles on 2025/03/22
 
 
-Average Margin: Kubota Spears by 11.0
+Average Margin: Kubota Spears by 10.5
 
-Average Scoreline: 35-24
+Average Scoreline: 32-21
 
 <p float="left">
 <img src="plots/performances_2025-03-22-KubotaSpears_V_YokohamaCanonEagles.png" width="32%" />
@@ -154,9 +154,9 @@ Average Scoreline: 35-24
 ### Tokyo Sungoliath V Kobelco Kobe Steelers on 2025/03/23
 
 
-Average Margin: Kobelco Kobe Steelers by 0.7
+Average Margin: Kobelco Kobe Steelers by 3.0
 
-Average Scoreline: 28-28
+Average Scoreline: 29-26
 
 <p float="left">
 <img src="plots/performances_2025-03-23-TokyoSungoliath_V_KobelcoKobeSteelers.png" width="32%" />
@@ -169,9 +169,9 @@ Average Scoreline: 28-28
 ### Tokyo Sungoliath V Shizuoka Blue Revs on 2025/03/29
 
 
-Average Margin: Tokyo Sungoliath by 2.6
+Average Margin: Tokyo Sungoliath by 0.2
 
-Average Scoreline: 25-23
+Average Scoreline: 30-30
 
 <p float="left">
 <img src="plots/performances_2025-03-29-TokyoSungoliath_V_ShizuokaBlueRevs.png" width="32%" />
@@ -182,9 +182,9 @@ Average Scoreline: 25-23
 ### Kubota Spears V Mitsubishi Dynaboars on 2025/03/29
 
 
-Average Margin: Kubota Spears by 18.3
+Average Margin: Kubota Spears by 20.2
 
-Average Scoreline: 36-18
+Average Scoreline: 35-15
 
 <p float="left">
 <img src="plots/performances_2025-03-29-KubotaSpears_V_MitsubishiDynaboars.png" width="32%" />
@@ -195,9 +195,9 @@ Average Scoreline: 36-18
 ### Urayasu D-Rocks V Saitama Wild Knights on 2025/03/29
 
 
-Average Margin: Saitama Wild Knights by 24.6
+Average Margin: Saitama Wild Knights by 25.7
 
-Average Scoreline: 40-15
+Average Scoreline: 41-15
 
 <p float="left">
 <img src="plots/performances_2025-03-29-UrayasuD-Rocks_V_SaitamaWildKnights.png" width="32%" />
@@ -208,7 +208,7 @@ Average Scoreline: 40-15
 ### Black Rams Tokyo V Kobelco Kobe Steelers on 2025/03/30
 
 
-Average Margin: Kobelco Kobe Steelers by 4.8
+Average Margin: Kobelco Kobe Steelers by 4.6
 
 Average Scoreline: 38-34
 
@@ -234,9 +234,9 @@ Average Scoreline: 38-14
 ### Yokohama Canon Eagles V Toyota Verblitz on 2025/03/30
 
 
-Average Margin: Yokohama Canon Eagles by 11.5
+Average Margin: Yokohama Canon Eagles by 10.8
 
-Average Scoreline: 34-23
+Average Scoreline: 35-24
 
 <p float="left">
 <img src="plots/performances_2025-03-30-YokohamaCanonEagles_V_ToyotaVerblitz.png" width="32%" />
@@ -249,9 +249,9 @@ Average Scoreline: 34-23
 ### Saitama Wild Knights V Toyota Verblitz on 2025/04/05
 
 
-Average Margin: Saitama Wild Knights by 23.4
+Average Margin: Saitama Wild Knights by 22.5
 
-Average Scoreline: 42-18
+Average Scoreline: 41-19
 
 <p float="left">
 <img src="plots/performances_2025-04-05-SaitamaWildKnights_V_ToyotaVerblitz.png" width="32%" />
@@ -262,7 +262,7 @@ Average Scoreline: 42-18
 ### Shizuoka Blue Revs V Mitsubishi Dynaboars on 2025/04/05
 
 
-Average Margin: Shizuoka Blue Revs by 12.8
+Average Margin: Shizuoka Blue Revs by 12.9
 
 Average Scoreline: 32-19
 
@@ -275,9 +275,9 @@ Average Scoreline: 32-19
 ### Tokyo Sungoliath V Mie Honda Heat on 2025/04/05
 
 
-Average Margin: Tokyo Sungoliath by 16.4
+Average Margin: Tokyo Sungoliath by 14.8
 
-Average Scoreline: 27-10
+Average Scoreline: 25-10
 
 <p float="left">
 <img src="plots/performances_2025-04-05-TokyoSungoliath_V_MieHondaHeat.png" width="32%" />
@@ -288,9 +288,9 @@ Average Scoreline: 27-10
 ### Yokohama Canon Eagles V Urayasu D-Rocks on 2025/04/05
 
 
-Average Margin: Yokohama Canon Eagles by 18.8
+Average Margin: Yokohama Canon Eagles by 18.7
 
-Average Scoreline: 38-19
+Average Scoreline: 38-20
 
 <p float="left">
 <img src="plots/performances_2025-04-05-YokohamaCanonEagles_V_UrayasuD-Rocks.png" width="32%" />
@@ -301,9 +301,9 @@ Average Scoreline: 38-19
 ### Black Rams Tokyo V Kubota Spears on 2025/04/06
 
 
-Average Margin: Kubota Spears by 9.1
+Average Margin: Kubota Spears by 10.3
 
-Average Scoreline: 37-28
+Average Scoreline: 36-26
 
 <p float="left">
 <img src="plots/performances_2025-04-06-BlackRamsTokyo_V_KubotaSpears.png" width="32%" />
@@ -314,7 +314,7 @@ Average Scoreline: 37-28
 ### Kobelco Kobe Steelers V Toshiba Brave Lupus on 2025/04/06
 
 
-Average Margin: Toshiba Brave Lupus by 0.4
+Average Margin: Toshiba Brave Lupus by 0.7
 
 Average Scoreline: 26-25
 
@@ -329,9 +329,9 @@ Average Scoreline: 26-25
 ### Mie Honda Heat V Saitama Wild Knights on 2025/04/11
 
 
-Average Margin: Saitama Wild Knights by 23.9
+Average Margin: Saitama Wild Knights by 23.0
 
-Average Scoreline: 32-8
+Average Scoreline: 32-9
 
 <p float="left">
 <img src="plots/performances_2025-04-11-MieHondaHeat_V_SaitamaWildKnights.png" width="32%" />
@@ -355,7 +355,7 @@ Average Scoreline: 33-27
 ### Toshiba Brave Lupus V Shizuoka Blue Revs on 2025/04/12
 
 
-Average Margin: Toshiba Brave Lupus by 11.5
+Average Margin: Toshiba Brave Lupus by 11.3
 
 Average Scoreline: 33-22
 
@@ -368,9 +368,9 @@ Average Scoreline: 33-22
 ### Urayasu D-Rocks V Kobelco Kobe Steelers on 2025/04/13
 
 
-Average Margin: Kobelco Kobe Steelers by 14.7
+Average Margin: Kobelco Kobe Steelers by 15.4
 
-Average Scoreline: 44-29
+Average Scoreline: 45-29
 
 <p float="left">
 <img src="plots/performances_2025-04-13-UrayasuD-Rocks_V_KobelcoKobeSteelers.png" width="32%" />
@@ -381,7 +381,7 @@ Average Scoreline: 44-29
 ### Black Rams Tokyo V Toyota Verblitz on 2025/04/13
 
 
-Average Margin: Black Rams Tokyo by 6.1
+Average Margin: Black Rams Tokyo by 5.4
 
 Average Scoreline: 31-25
 
@@ -394,9 +394,9 @@ Average Scoreline: 31-25
 ### Kubota Spears V Tokyo Sungoliath on 2025/04/13
 
 
-Average Margin: Kubota Spears by 11.4
+Average Margin: Kubota Spears by 14.3
 
-Average Scoreline: 31-20
+Average Scoreline: 31-17
 
 <p float="left">
 <img src="plots/performances_2025-04-13-KubotaSpears_V_TokyoSungoliath.png" width="32%" />
@@ -409,7 +409,7 @@ Average Scoreline: 31-20
 ### Urayasu D-Rocks V Toshiba Brave Lupus on 2025/04/25
 
 
-Average Margin: Toshiba Brave Lupus by 19.4
+Average Margin: Toshiba Brave Lupus by 19.7
 
 Average Scoreline: 39-20
 
@@ -422,9 +422,9 @@ Average Scoreline: 39-20
 ### Kobelco Kobe Steelers V Mitsubishi Dynaboars on 2025/04/26
 
 
-Average Margin: Kobelco Kobe Steelers by 15.2
+Average Margin: Kobelco Kobe Steelers by 15.5
 
-Average Scoreline: 33-18
+Average Scoreline: 33-17
 
 <p float="left">
 <img src="plots/performances_2025-04-26-KobelcoKobeSteelers_V_MitsubishiDynaboars.png" width="32%" />
@@ -435,7 +435,7 @@ Average Scoreline: 33-18
 ### Saitama Wild Knights V Black Rams Tokyo on 2025/04/26
 
 
-Average Margin: Saitama Wild Knights by 21.5
+Average Margin: Saitama Wild Knights by 20.8
 
 Average Scoreline: 37-16
 
@@ -448,9 +448,9 @@ Average Scoreline: 37-16
 ### Kubota Spears V Mie Honda Heat on 2025/04/26
 
 
-Average Margin: Kubota Spears by 24.8
+Average Margin: Kubota Spears by 25.6
 
-Average Scoreline: 39-14
+Average Scoreline: 39-13
 
 <p float="left">
 <img src="plots/performances_2025-04-26-KubotaSpears_V_MieHondaHeat.png" width="32%" />
@@ -461,9 +461,9 @@ Average Scoreline: 39-14
 ### Toyota Verblitz V Tokyo Sungoliath on 2025/04/26
 
 
-Average Margin: Tokyo Sungoliath by 1.8
+Average Margin: Toyota Verblitz by 0.2
 
-Average Scoreline: 30-28
+Average Scoreline: 27-27
 
 <p float="left">
 <img src="plots/performances_2025-04-26-ToyotaVerblitz_V_TokyoSungoliath.png" width="32%" />
@@ -474,7 +474,7 @@ Average Scoreline: 30-28
 ### Shizuoka Blue Revs V Yokohama Canon Eagles on 2025/04/27
 
 
-Average Margin: Shizuoka Blue Revs by 3.5
+Average Margin: Shizuoka Blue Revs by 3.6
 
 Average Scoreline: 24-21
 
@@ -489,9 +489,9 @@ Average Scoreline: 24-21
 ### Shizuoka Blue Revs V Urayasu D-Rocks on 2025/05/03
 
 
-Average Margin: Shizuoka Blue Revs by 19.0
+Average Margin: Shizuoka Blue Revs by 17.8
 
-Average Scoreline: 35-16
+Average Scoreline: 34-16
 
 <p float="left">
 <img src="plots/performances_2025-05-03-ShizuokaBlueRevs_V_UrayasuD-Rocks.png" width="32%" />
@@ -502,7 +502,7 @@ Average Scoreline: 35-16
 ### Mitsubishi Dynaboars V Toshiba Brave Lupus on 2025/05/03
 
 
-Average Margin: Toshiba Brave Lupus by 12.5
+Average Margin: Toshiba Brave Lupus by 12.3
 
 Average Scoreline: 27-15
 
@@ -515,9 +515,9 @@ Average Scoreline: 27-15
 ### Tokyo Sungoliath V Black Rams Tokyo on 2025/05/03
 
 
-Average Margin: Tokyo Sungoliath by 7.1
+Average Margin: Tokyo Sungoliath by 5.2
 
-Average Scoreline: 24-17
+Average Scoreline: 24-19
 
 <p float="left">
 <img src="plots/performances_2025-05-03-TokyoSungoliath_V_BlackRamsTokyo.png" width="32%" />
@@ -528,7 +528,7 @@ Average Scoreline: 24-17
 ### Yokohama Canon Eagles V Kobelco Kobe Steelers on 2025/05/03
 
 
-Average Margin: Yokohama Canon Eagles by 1.4
+Average Margin: Yokohama Canon Eagles by 0.7
 
 Average Scoreline: 28-27
 
@@ -541,9 +541,9 @@ Average Scoreline: 28-27
 ### Kubota Spears V Saitama Wild Knights on 2025/05/03
 
 
-Average Margin: Saitama Wild Knights by 3.0
+Average Margin: Saitama Wild Knights by 1.5
 
-Average Scoreline: 30-27
+Average Scoreline: 28-27
 
 <p float="left">
 <img src="plots/performances_2025-05-03-KubotaSpears_V_SaitamaWildKnights.png" width="32%" />
@@ -554,9 +554,9 @@ Average Scoreline: 30-27
 ### Mie Honda Heat V Toyota Verblitz on 2025/05/04
 
 
-Average Margin: Toyota Verblitz by 4.0
+Average Margin: Toyota Verblitz by 4.7
 
-Average Scoreline: 32-28
+Average Scoreline: 33-28
 
 <p float="left">
 <img src="plots/performances_2025-05-04-MieHondaHeat_V_ToyotaVerblitz.png" width="32%" />
@@ -569,7 +569,7 @@ Average Scoreline: 32-28
 ### Urayasu D-Rocks V Mitsubishi Dynaboars on 2025/05/09
 
 
-Average Margin: Mitsubishi Dynaboars by 3.1
+Average Margin: Mitsubishi Dynaboars by 3.3
 
 Average Scoreline: 33-29
 
@@ -582,9 +582,9 @@ Average Scoreline: 33-29
 ### Saitama Wild Knights V Tokyo Sungoliath on 2025/05/10
 
 
-Average Margin: Saitama Wild Knights by 17.3
+Average Margin: Saitama Wild Knights by 18.9
 
-Average Scoreline: 34-16
+Average Scoreline: 36-17
 
 <p float="left">
 <img src="plots/performances_2025-05-10-SaitamaWildKnights_V_TokyoSungoliath.png" width="32%" />
@@ -595,9 +595,9 @@ Average Scoreline: 34-16
 ### Toyota Verblitz V Kubota Spears on 2025/05/10
 
 
-Average Margin: Kubota Spears by 10.3
+Average Margin: Kubota Spears by 10.8
 
-Average Scoreline: 37-27
+Average Scoreline: 36-26
 
 <p float="left">
 <img src="plots/performances_2025-05-10-ToyotaVerblitz_V_KubotaSpears.png" width="32%" />
@@ -608,7 +608,7 @@ Average Scoreline: 37-27
 ### Toshiba Brave Lupus V Yokohama Canon Eagles on 2025/05/10
 
 
-Average Margin: Toshiba Brave Lupus by 11.1
+Average Margin: Toshiba Brave Lupus by 10.8
 
 Average Scoreline: 31-20
 
@@ -621,7 +621,7 @@ Average Scoreline: 31-20
 ### Kobelco Kobe Steelers V Shizuoka Blue Revs on 2025/05/10
 
 
-Average Margin: Kobelco Kobe Steelers by 6.6
+Average Margin: Kobelco Kobe Steelers by 6.8
 
 Average Scoreline: 32-25
 
@@ -634,7 +634,7 @@ Average Scoreline: 32-25
 ### Black Rams Tokyo V Mie Honda Heat on 2025/05/11
 
 
-Average Margin: Black Rams Tokyo by 12.8
+Average Margin: Black Rams Tokyo by 13.6
 
 Average Scoreline: 30-17
 

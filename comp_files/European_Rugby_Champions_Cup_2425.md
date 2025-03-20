@@ -1,6 +1,6 @@
 ---  
 title: "European Rugby Champions Cup 24/25 Status"  
-date: 2025-03-17 6:00:00 -0500  
+date: 2025-03-20 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -137,28 +137,28 @@ aside:
 
 |                    | Reach Round of Sixteen   | Reach Quarterfinals   | Reach Semifinals   | Reach Final   | Win Final   |
 |:-------------------|:-------------------------|:----------------------|:-------------------|:--------------|:------------|
-| Leinster           | 90.4 %                   | 93.8 %                | 84.2 %             | 55.8 %        | 43.4 %      |
-| Stade Toulousain   | 91.4 %                   | 92.1 %                | 83.5 %             | 65.0 %        | 39.2 %      |
-| Bordeaux Begles    | 86.1 %                   | 90.6 %                | 76.7 %             | 53.7 %        | 12.1 %      |
-| Glasgow Warriors   | 37.8 %                   | 86.3 %                | 24.1 %             | 6.6 %         | 1.7 %       |
-| Northampton Saints | 80.4 %                   | 79.5 %                | 59.9 %             | 9.5 %         | 1.2 %       |
-| Toulon             | 40.6 %                   | 80.6 %                | 21.2 %             | 4.2 %         | 1.0 %       |
-| Castres Olympique  | 40.8 %                   | 82.6 %                | 23.4 %             | 2.6 %         | 0.5 %       |
-| Munster            | 73.8 %                   | 32.8 %                | 6.6 %              | 1.1 %         | 0.3 %       |
-| La Rochelle        | 40.9 %                   | 67.2 %                | 8.1 %              | 0.6 %         | 0.2 %       |
-| Clermont Auvergne  | 81.3 %                   | 20.5 %                | 1.8 %              | 0.3 %         | 0.1 %       |
-| Leicester Tigers   | 88.2 %                   | 13.7 %                | 1.9 %              | 0.1 %         | 0.1 %       |
-| Sale Sharks        | 93.3 %                   | 7.9 %                 | 1.2 %              | 0.1 %         | 0.1 %       |
-| Harlequins         | 94.7 %                   | 6.2 %                 | 0.9 %              | 0.1 %         | 0.1 %       |
-| Saracens           | 84.0 %                   | 19.4 %                | 3.4 %              | 0.2 %         | 0.0 %       |
-| Benetton Treviso   | 84.6 %                   | 17.4 %                | 2.0 %              | 0.1 %         | 0.0 %       |
-| Ulster             | 91.7 %                   | 9.4 %                 | 1.1 %              | 0.0 %         | 0.0 %       |
+| Leinster           | 93.0 %                   | 92.8 %                | 85.8 %             | 56.0 %        | 44.5 %      |
+| Stade Toulousain   | 91.2 %                   | 92.5 %                | 83.7 %             | 62.9 %        | 37.2 %      |
+| Bordeaux Begles    | 87.3 %                   | 91.3 %                | 78.6 %             | 57.4 %        | 13.3 %      |
+| Toulon             | 45.4 %                   | 79.3 %                | 24.7 %             | 5.4 %         | 1.7 %       |
+| Northampton Saints | 77.4 %                   | 73.1 %                | 50.5 %             | 8.1 %         | 1.2 %       |
+| Glasgow Warriors   | 42.2 %                   | 75.6 %                | 17.8 %             | 3.4 %         | 0.9 %       |
+| Castres Olympique  | 44.6 %                   | 83.4 %                | 28.0 %             | 2.5 %         | 0.3 %       |
+| Munster            | 72.1 %                   | 36.6 %                | 8.7 %              | 1.4 %         | 0.2 %       |
+| Leicester Tigers   | 78.1 %                   | 24.4 %                | 2.5 %              | 0.6 %         | 0.2 %       |
+| Harlequins         | 94.4 %                   | 7.2 %                 | 1.6 %              | 0.3 %         | 0.2 %       |
+| La Rochelle        | 46.1 %                   | 63.4 %                | 9.5 %              | 1.4 %         | 0.1 %       |
+| Saracens           | 82.6 %                   | 20.7 %                | 3.3 %              | 0.3 %         | 0.1 %       |
+| Clermont Auvergne  | 75.5 %                   | 26.9 %                | 2.4 %              | 0.1 %         | 0.1 %       |
+| Benetton Treviso   | 85.4 %                   | 16.6 %                | 2.0 %              | 0.1 %         | 0.0 %       |
+| Sale Sharks        | 92.9 %                   | 7.5 %                 | 0.4 %              | 0.1 %         | 0.0 %       |
+| Ulster             | 91.8 %                   | 8.7 %                 | 0.5 %              | 0.0 %         | 0.0 %       |
 
 
 
 
 <p float="left">
-<img src="plots//European_Rugby_Champions_Cup_2425 2025-03-17.png" width="90%" />
+<img src="plots//European_Rugby_Champions_Cup_2425 2025-03-20.png" width="90%" />
 </p>
 
 # Knockout Match Predictions
@@ -168,7 +168,7 @@ aside:
 ### Stade Toulousain V Sale Sharks on 2025/04/04
 
 
-Average Margin: Stade Toulousain by 13.6
+Average Margin: Stade Toulousain by 13.5
 
 <p float="left">
 <img src="plots/performances_2025-04-04-StadeToulousain_V_SaleSharks.png" width="32%" />
@@ -179,7 +179,7 @@ Average Margin: Stade Toulousain by 13.6
 ### La Rochelle V Munster on 2025/04/04
 
 
-Average Margin: La Rochelle by 2.9
+Average Margin: La Rochelle by 1.9
 
 <p float="left">
 <img src="plots/performances_2025-04-04-LaRochelle_V_Munster.png" width="32%" />
@@ -190,7 +190,7 @@ Average Margin: La Rochelle by 2.9
 ### Glasgow Warriors V Leicester Tigers on 2025/04/04
 
 
-Average Margin: Glasgow Warriors by 8.5
+Average Margin: Glasgow Warriors by 4.5
 
 <p float="left">
 <img src="plots/performances_2025-04-04-GlasgowWarriors_V_LeicesterTigers.png" width="32%" />
@@ -201,7 +201,7 @@ Average Margin: Glasgow Warriors by 8.5
 ### Castres Olympique V Benetton Treviso on 2025/04/04
 
 
-Average Margin: Castres Olympique by 6.1
+Average Margin: Castres Olympique by 6.6
 
 <p float="left">
 <img src="plots/performances_2025-04-04-CastresOlympique_V_BenettonTreviso.png" width="32%" />
@@ -212,7 +212,7 @@ Average Margin: Castres Olympique by 6.1
 ### Toulon V Saracens on 2025/04/04
 
 
-Average Margin: Toulon by 6.2
+Average Margin: Toulon by 5.6
 
 <p float="left">
 <img src="plots/performances_2025-04-04-Toulon_V_Saracens.png" width="32%" />
@@ -223,7 +223,7 @@ Average Margin: Toulon by 6.2
 ### Leinster V Harlequins on 2025/04/04
 
 
-Average Margin: Leinster by 13.7
+Average Margin: Leinster by 13.6
 
 <p float="left">
 <img src="plots/performances_2025-04-04-Leinster_V_Harlequins.png" width="32%" />
@@ -234,7 +234,7 @@ Average Margin: Leinster by 13.7
 ### Bordeaux Begles V Ulster on 2025/04/04
 
 
-Average Margin: Bordeaux Begles by 11.6
+Average Margin: Bordeaux Begles by 12.0
 
 <p float="left">
 <img src="plots/performances_2025-04-04-BordeauxBegles_V_Ulster.png" width="32%" />
@@ -245,7 +245,7 @@ Average Margin: Bordeaux Begles by 11.6
 ### Northampton Saints V Clermont Auvergne on 2025/04/04
 
 
-Average Margin: Northampton Saints by 5.3
+Average Margin: Northampton Saints by 3.7
 
 <p float="left">
 <img src="plots/performances_2025-04-04-NorthamptonSaints_V_ClermontAuvergne.png" width="32%" />
@@ -255,164 +255,21 @@ Average Margin: Northampton Saints by 5.3
 
 ## Quarterfinals
 
-### Leinster V Castres Olympique on 2025/04/11
+### Castres Olympique V Saracens on 2025/04/11
 
 
-Average Margin: Leinster by 13.1
-
-<p float="left">
-<img src="plots/performances_2025-05-24-Leinster_V_CastresOlympique.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-Leinster_V_CastresOlympique.png" width="32%" />
-<img src="plots/spreads_2025-05-24-Leinster_V_CastresOlympique.png" width="32%" />
-</p>
-
-### Toulon V Glasgow Warriors on 2025/04/11
-
-
-Average Margin: Toulon by 1.6
+Average Margin: Saracens by 0.2
 
 <p float="left">
-<img src="plots/performances_2025-04-11-Toulon_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Toulon_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Toulon_V_GlasgowWarriors.png" width="32%" />
-</p>
-
-### Stade Toulousain V Benetton Treviso on 2025/04/11
-
-
-Average Margin: Stade Toulousain by 15.6
-
-<p float="left">
-<img src="plots/performances_2025-04-11-StadeToulousain_V_BenettonTreviso.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-StadeToulousain_V_BenettonTreviso.png" width="32%" />
-<img src="plots/spreads_2025-04-11-StadeToulousain_V_BenettonTreviso.png" width="32%" />
-</p>
-
-### Northampton Saints V Munster on 2025/04/11
-
-
-Average Margin: Northampton Saints by 2.5
-
-<p float="left">
-<img src="plots/performances_2025-04-11-NorthamptonSaints_V_Munster.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-NorthamptonSaints_V_Munster.png" width="32%" />
-<img src="plots/spreads_2025-04-11-NorthamptonSaints_V_Munster.png" width="32%" />
-</p>
-
-### Glasgow Warriors V La Rochelle on 2025/04/11
-
-
-Average Margin: Glasgow Warriors by 7.8
-
-<p float="left">
-<img src="plots/performances_2025-04-11-GlasgowWarriors_V_LaRochelle.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-GlasgowWarriors_V_LaRochelle.png" width="32%" />
-<img src="plots/spreads_2025-04-11-GlasgowWarriors_V_LaRochelle.png" width="32%" />
-</p>
-
-### Stade Toulousain V Harlequins on 2025/04/11
-
-
-Average Margin: Stade Toulousain by 12.9
-
-<p float="left">
-<img src="plots/performances_2025-04-11-StadeToulousain_V_Harlequins.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-StadeToulousain_V_Harlequins.png" width="32%" />
-<img src="plots/spreads_2025-04-11-StadeToulousain_V_Harlequins.png" width="32%" />
-</p>
-
-### Bordeaux Begles V Sale Sharks on 2025/04/11
-
-
-Average Margin: Bordeaux Begles by 6.9
-
-<p float="left">
-<img src="plots/performances_2025-04-11-BordeauxBegles_V_SaleSharks.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-BordeauxBegles_V_SaleSharks.png" width="32%" />
-<img src="plots/spreads_2025-04-11-BordeauxBegles_V_SaleSharks.png" width="32%" />
-</p>
-
-### Leinster V Leicester Tigers on 2025/04/11
-
-
-Average Margin: Leinster by 16.2
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Leinster_V_LeicesterTigers.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Leinster_V_LeicesterTigers.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Leinster_V_LeicesterTigers.png" width="32%" />
-</p>
-
-### Northampton Saints V Glasgow Warriors on 2025/04/11
-
-
-Average Margin: Glasgow Warriors by 2.0
-
-<p float="left">
-<img src="plots/performances_2025-04-11-NorthamptonSaints_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-NorthamptonSaints_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/spreads_2025-04-11-NorthamptonSaints_V_GlasgowWarriors.png" width="32%" />
-</p>
-
-### Leinster V Benetton Treviso on 2025/04/11
-
-
-Average Margin: Leinster by 15.1
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Leinster_V_BenettonTreviso.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Leinster_V_BenettonTreviso.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Leinster_V_BenettonTreviso.png" width="32%" />
-</p>
-
-### Bordeaux Begles V Benetton Treviso on 2025/04/11
-
-
-Average Margin: Bordeaux Begles by 11.0
-
-<p float="left">
-<img src="plots/performances_2025-04-11-BordeauxBegles_V_BenettonTreviso.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-BordeauxBegles_V_BenettonTreviso.png" width="32%" />
-<img src="plots/spreads_2025-04-11-BordeauxBegles_V_BenettonTreviso.png" width="32%" />
-</p>
-
-### Toulon V La Rochelle on 2025/04/11
-
-
-Average Margin: Toulon by 8.4
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Toulon_V_LaRochelle.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Toulon_V_LaRochelle.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Toulon_V_LaRochelle.png" width="32%" />
-</p>
-
-### Leinster V Saracens on 2025/04/11
-
-
-Average Margin: Leinster by 11.4
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Leinster_V_Saracens.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Leinster_V_Saracens.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Leinster_V_Saracens.png" width="32%" />
-</p>
-
-### Leinster V Clermont Auvergne on 2025/04/11
-
-
-Average Margin: Leinster by 17.6
-
-<p float="left">
-<img src="plots/performances_2025-05-24-Leinster_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-Leinster_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/spreads_2025-05-24-Leinster_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/performances_2025-04-11-CastresOlympique_V_Saracens.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-CastresOlympique_V_Saracens.png" width="32%" />
+<img src="plots/spreads_2025-04-11-CastresOlympique_V_Saracens.png" width="32%" />
 </p>
 
 ### Toulon V Munster on 2025/04/11
 
 
-Average Margin: Toulon by 3.8
+Average Margin: Toulon by 2.8
 
 <p float="left">
 <img src="plots/performances_2025-04-11-Toulon_V_Munster.png" width="32%" />
@@ -420,32 +277,32 @@ Average Margin: Toulon by 3.8
 <img src="plots/spreads_2025-04-11-Toulon_V_Munster.png" width="32%" />
 </p>
 
-### Leinster V Sale Sharks on 2025/04/11
+### Toulon V Glasgow Warriors on 2025/04/11
 
 
-Average Margin: Leinster by 12.0
+Average Margin: Toulon by 5.9
 
 <p float="left">
-<img src="plots/performances_2025-04-11-Leinster_V_SaleSharks.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Leinster_V_SaleSharks.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Leinster_V_SaleSharks.png" width="32%" />
+<img src="plots/performances_2025-04-11-Toulon_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Toulon_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Toulon_V_GlasgowWarriors.png" width="32%" />
 </p>
 
-### Northampton Saints V Saracens on 2025/04/11
+### Northampton Saints V La Rochelle on 2025/04/11
 
 
-Average Margin: Northampton Saints by 3.7
+Average Margin: Northampton Saints by 2.8
 
 <p float="left">
-<img src="plots/performances_2025-04-11-NorthamptonSaints_V_Saracens.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-NorthamptonSaints_V_Saracens.png" width="32%" />
-<img src="plots/spreads_2025-04-11-NorthamptonSaints_V_Saracens.png" width="32%" />
+<img src="plots/performances_2025-04-11-NorthamptonSaints_V_LaRochelle.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-NorthamptonSaints_V_LaRochelle.png" width="32%" />
+<img src="plots/spreads_2025-04-11-NorthamptonSaints_V_LaRochelle.png" width="32%" />
 </p>
 
 ### Glasgow Warriors V Toulon on 2025/04/11
 
 
-Average Margin: Glasgow Warriors by 8.5
+Average Margin: Glasgow Warriors by 2.9
 
 <p float="left">
 <img src="plots/performances_2025-04-11-GlasgowWarriors_V_Toulon.png" width="32%" />
@@ -453,628 +310,32 @@ Average Margin: Glasgow Warriors by 8.5
 <img src="plots/spreads_2025-04-11-GlasgowWarriors_V_Toulon.png" width="32%" />
 </p>
 
-### Castres Olympique V Munster on 2025/04/11
-
-
-Average Margin: Castres Olympique by 0.4
-
-<p float="left">
-<img src="plots/performances_2025-04-11-CastresOlympique_V_Munster.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-CastresOlympique_V_Munster.png" width="32%" />
-<img src="plots/spreads_2025-04-11-CastresOlympique_V_Munster.png" width="32%" />
-</p>
-
-### Leinster V Ulster on 2025/04/11
-
-
-Average Margin: Leinster by 16.9
-
-<p float="left">
-<img src="plots/performances_2025-05-02-Leinster_V_Ulster.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Leinster_V_Ulster.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Leinster_V_Ulster.png" width="32%" />
-</p>
-
-### Northampton Saints V Sale Sharks on 2025/04/11
-
-
-Average Margin: Northampton Saints by 8.7
-
-<p float="left">
-<img src="plots/performances_2025-04-11-NorthamptonSaints_V_SaleSharks.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-NorthamptonSaints_V_SaleSharks.png" width="32%" />
-<img src="plots/spreads_2025-04-11-NorthamptonSaints_V_SaleSharks.png" width="32%" />
-</p>
-
-### Northampton Saints V La Rochelle on 2025/04/11
-
-
-Average Margin: Northampton Saints by 6.4
-
-<p float="left">
-<img src="plots/performances_2025-04-11-NorthamptonSaints_V_LaRochelle.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-NorthamptonSaints_V_LaRochelle.png" width="32%" />
-<img src="plots/spreads_2025-04-11-NorthamptonSaints_V_LaRochelle.png" width="32%" />
-</p>
-
-### Castres Olympique V Saracens on 2025/04/11
-
-
-Average Margin: Saracens by 2.8
-
-<p float="left">
-<img src="plots/performances_2025-04-11-CastresOlympique_V_Saracens.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-CastresOlympique_V_Saracens.png" width="32%" />
-<img src="plots/spreads_2025-04-11-CastresOlympique_V_Saracens.png" width="32%" />
-</p>
-
-### Stade Toulousain V Leicester Tigers on 2025/04/11
-
-
-Average Margin: Stade Toulousain by 10.4
-
-<p float="left">
-<img src="plots/performances_2025-04-11-StadeToulousain_V_LeicesterTigers.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-StadeToulousain_V_LeicesterTigers.png" width="32%" />
-<img src="plots/spreads_2025-04-11-StadeToulousain_V_LeicesterTigers.png" width="32%" />
-</p>
-
-### Bordeaux Begles V Toulon on 2025/04/11
-
-
-Average Margin: Bordeaux Begles by 5.3
-
-<p float="left">
-<img src="plots/performances_2025-05-02-BordeauxBegles_V_Toulon.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-BordeauxBegles_V_Toulon.png" width="32%" />
-<img src="plots/spreads_2025-05-02-BordeauxBegles_V_Toulon.png" width="32%" />
-</p>
-
 ### Bordeaux Begles V Harlequins on 2025/04/11
 
 
-Average Margin: Bordeaux Begles by 5.7
+Average Margin: Bordeaux Begles by 6.2
 
 <p float="left">
-<img src="plots/performances_2025-04-11-BordeauxBegles_V_Harlequins.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-BordeauxBegles_V_Harlequins.png" width="32%" />
-<img src="plots/spreads_2025-04-11-BordeauxBegles_V_Harlequins.png" width="32%" />
-</p>
-
-### Northampton Saints V Castres Olympique on 2025/04/11
-
-
-Average Margin: Northampton Saints by 6.1
-
-<p float="left">
-<img src="plots/performances_2025-05-02-NorthamptonSaints_V_CastresOlympique.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-NorthamptonSaints_V_CastresOlympique.png" width="32%" />
-<img src="plots/spreads_2025-05-02-NorthamptonSaints_V_CastresOlympique.png" width="32%" />
-</p>
-
-### Leinster V Munster on 2025/04/11
-
-
-Average Margin: Leinster by 10.3
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Leinster_V_Munster.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Leinster_V_Munster.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Leinster_V_Munster.png" width="32%" />
-</p>
-
-### Stade Toulousain V Glasgow Warriors on 2025/04/11
-
-
-Average Margin: Stade Toulousain by 8.0
-
-<p float="left">
-<img src="plots/performances_2025-04-11-StadeToulousain_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-StadeToulousain_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/spreads_2025-04-11-StadeToulousain_V_GlasgowWarriors.png" width="32%" />
-</p>
-
-### Bordeaux Begles V Saracens on 2025/04/11
-
-
-Average Margin: Bordeaux Begles by 7.5
-
-<p float="left">
-<img src="plots/performances_2025-04-11-BordeauxBegles_V_Saracens.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-BordeauxBegles_V_Saracens.png" width="32%" />
-<img src="plots/spreads_2025-04-11-BordeauxBegles_V_Saracens.png" width="32%" />
-</p>
-
-### Castres Olympique V Glasgow Warriors on 2025/04/11
-
-
-Average Margin: Glasgow Warriors by 2.5
-
-<p float="left">
-<img src="plots/performances_2025-04-11-CastresOlympique_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-CastresOlympique_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/spreads_2025-04-11-CastresOlympique_V_GlasgowWarriors.png" width="32%" />
-</p>
-
-### Northampton Saints V Toulon on 2025/04/11
-
-
-Average Margin: Northampton Saints by 2.2
-
-<p float="left">
-<img src="plots/performances_2025-04-11-NorthamptonSaints_V_Toulon.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-NorthamptonSaints_V_Toulon.png" width="32%" />
-<img src="plots/spreads_2025-04-11-NorthamptonSaints_V_Toulon.png" width="32%" />
-</p>
-
-### Leinster V La Rochelle on 2025/04/11
-
-
-Average Margin: Leinster by 14.7
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Leinster_V_LaRochelle.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Leinster_V_LaRochelle.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Leinster_V_LaRochelle.png" width="32%" />
-</p>
-
-### Stade Toulousain V Ulster on 2025/04/11
-
-
-Average Margin: Stade Toulousain by 11.8
-
-<p float="left">
-<img src="plots/performances_2025-04-11-StadeToulousain_V_Ulster.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-StadeToulousain_V_Ulster.png" width="32%" />
-<img src="plots/spreads_2025-04-11-StadeToulousain_V_Ulster.png" width="32%" />
-</p>
-
-### Castres Olympique V Toulon on 2025/04/11
-
-
-Average Margin: Castres Olympique by 0.5
-
-<p float="left">
-<img src="plots/performances_2025-04-11-CastresOlympique_V_Toulon.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-CastresOlympique_V_Toulon.png" width="32%" />
-<img src="plots/spreads_2025-04-11-CastresOlympique_V_Toulon.png" width="32%" />
-</p>
-
-### Leinster V Glasgow Warriors on 2025/04/11
-
-
-Average Margin: Leinster by 9.4
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Leinster_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Leinster_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Leinster_V_GlasgowWarriors.png" width="32%" />
-</p>
-
-### Stade Toulousain V La Rochelle on 2025/04/11
-
-
-Average Margin: Stade Toulousain by 12.3
-
-<p float="left">
-<img src="plots/performances_2025-04-11-StadeToulousain_V_LaRochelle.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-StadeToulousain_V_LaRochelle.png" width="32%" />
-<img src="plots/spreads_2025-04-11-StadeToulousain_V_LaRochelle.png" width="32%" />
-</p>
-
-### Bordeaux Begles V Clermont Auvergne on 2025/04/11
-
-
-Average Margin: Bordeaux Begles by 10.2
-
-<p float="left">
-<img src="plots/performances_2025-04-11-BordeauxBegles_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-BordeauxBegles_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/spreads_2025-04-11-BordeauxBegles_V_ClermontAuvergne.png" width="32%" />
-</p>
-
-### Stade Toulousain V Saracens on 2025/04/11
-
-
-Average Margin: Stade Toulousain by 12.2
-
-<p float="left">
-<img src="plots/performances_2025-04-11-StadeToulousain_V_Saracens.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-StadeToulousain_V_Saracens.png" width="32%" />
-<img src="plots/spreads_2025-04-11-StadeToulousain_V_Saracens.png" width="32%" />
-</p>
-
-### Bordeaux Begles V Glasgow Warriors on 2025/04/11
-
-
-Average Margin: Bordeaux Begles by 3.7
-
-<p float="left">
-<img src="plots/performances_2025-04-11-BordeauxBegles_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-BordeauxBegles_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/spreads_2025-04-11-BordeauxBegles_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/performances_2025-05-02-BordeauxBegles_V_Harlequins.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-BordeauxBegles_V_Harlequins.png" width="32%" />
+<img src="plots/spreads_2025-05-02-BordeauxBegles_V_Harlequins.png" width="32%" />
 </p>
 
 ### Castres Olympique V La Rochelle on 2025/04/11
 
 
-Average Margin: Castres Olympique by 5.8
+Average Margin: Castres Olympique by 3.2
 
 <p float="left">
-<img src="plots/performances_2025-04-11-CastresOlympique_V_LaRochelle.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-CastresOlympique_V_LaRochelle.png" width="32%" />
-<img src="plots/spreads_2025-04-11-CastresOlympique_V_LaRochelle.png" width="32%" />
+<img src="plots/performances_2025-05-02-CastresOlympique_V_LaRochelle.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-CastresOlympique_V_LaRochelle.png" width="32%" />
+<img src="plots/spreads_2025-05-02-CastresOlympique_V_LaRochelle.png" width="32%" />
 </p>
 
-### Stade Toulousain V Munster on 2025/04/11
+### Stade Toulousain V Benetton Treviso on 2025/04/11
 
 
-Average Margin: Stade Toulousain by 9.7
-
-<p float="left">
-<img src="plots/performances_2025-04-11-StadeToulousain_V_Munster.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-StadeToulousain_V_Munster.png" width="32%" />
-<img src="plots/spreads_2025-04-11-StadeToulousain_V_Munster.png" width="32%" />
-</p>
-
-### Stade Toulousain V Toulon on 2025/04/11
-
-
-Average Margin: Stade Toulousain by 9.9
-
-<p float="left">
-<img src="plots/performances_2025-04-11-StadeToulousain_V_Toulon.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-StadeToulousain_V_Toulon.png" width="32%" />
-<img src="plots/spreads_2025-04-11-StadeToulousain_V_Toulon.png" width="32%" />
-</p>
-
-### Stade Toulousain V Clermont Auvergne on 2025/04/11
-
-
-Average Margin: Stade Toulousain by 13.2
-
-<p float="left">
-<img src="plots/performances_2025-04-11-StadeToulousain_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-StadeToulousain_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/spreads_2025-04-11-StadeToulousain_V_ClermontAuvergne.png" width="32%" />
-</p>
-
-### Bordeaux Begles V La Rochelle on 2025/04/11
-
-
-Average Margin: Bordeaux Begles by 7.2
-
-<p float="left">
-<img src="plots/performances_2025-04-11-BordeauxBegles_V_LaRochelle.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-BordeauxBegles_V_LaRochelle.png" width="32%" />
-<img src="plots/spreads_2025-04-11-BordeauxBegles_V_LaRochelle.png" width="32%" />
-</p>
-
-### Bordeaux Begles V Leicester Tigers on 2025/04/11
-
-
-Average Margin: Bordeaux Begles by 7.8
-
-<p float="left">
-<img src="plots/performances_2025-04-11-BordeauxBegles_V_LeicesterTigers.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-BordeauxBegles_V_LeicesterTigers.png" width="32%" />
-<img src="plots/spreads_2025-04-11-BordeauxBegles_V_LeicesterTigers.png" width="32%" />
-</p>
-
-### Leinster V Toulon on 2025/04/11
-
-
-Average Margin: Leinster by 11.4
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Leinster_V_Toulon.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Leinster_V_Toulon.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Leinster_V_Toulon.png" width="32%" />
-</p>
-
-### Munster V Glasgow Warriors on 2025/04/11
-
-
-Average Margin: Munster by 0.6
-
-<p float="left">
-<img src="plots/performances_2025-05-24-Munster_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-Munster_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/spreads_2025-05-24-Munster_V_GlasgowWarriors.png" width="32%" />
-</p>
-
-### Bordeaux Begles V Munster on 2025/04/11
-
-
-Average Margin: Bordeaux Begles by 5.7
-
-<p float="left">
-<img src="plots/performances_2025-04-11-BordeauxBegles_V_Munster.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-BordeauxBegles_V_Munster.png" width="32%" />
-<img src="plots/spreads_2025-04-11-BordeauxBegles_V_Munster.png" width="32%" />
-</p>
-
-## Semifinals
-
-### Castres Olympique V Munster on 2025/05/02
-
-
-Average Margin: Castres Olympique by 0.4
-
-<p float="left">
-<img src="plots/performances_2025-04-11-CastresOlympique_V_Munster.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-CastresOlympique_V_Munster.png" width="32%" />
-<img src="plots/spreads_2025-04-11-CastresOlympique_V_Munster.png" width="32%" />
-</p>
-
-### Munster V Glasgow Warriors on 2025/05/02
-
-
-Average Margin: Munster by 0.6
-
-<p float="left">
-<img src="plots/performances_2025-05-24-Munster_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-Munster_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/spreads_2025-05-24-Munster_V_GlasgowWarriors.png" width="32%" />
-</p>
-
-### Glasgow Warriors V La Rochelle on 2025/05/02
-
-
-Average Margin: Glasgow Warriors by 7.8
-
-<p float="left">
-<img src="plots/performances_2025-04-11-GlasgowWarriors_V_LaRochelle.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-GlasgowWarriors_V_LaRochelle.png" width="32%" />
-<img src="plots/spreads_2025-04-11-GlasgowWarriors_V_LaRochelle.png" width="32%" />
-</p>
-
-### Toulon V Munster on 2025/05/02
-
-
-Average Margin: Toulon by 3.8
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Toulon_V_Munster.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Toulon_V_Munster.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Toulon_V_Munster.png" width="32%" />
-</p>
-
-### Bordeaux Begles V Saracens on 2025/05/02
-
-
-Average Margin: Bordeaux Begles by 7.5
-
-<p float="left">
-<img src="plots/performances_2025-04-11-BordeauxBegles_V_Saracens.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-BordeauxBegles_V_Saracens.png" width="32%" />
-<img src="plots/spreads_2025-04-11-BordeauxBegles_V_Saracens.png" width="32%" />
-</p>
-
-### Leinster V Sale Sharks on 2025/05/02
-
-
-Average Margin: Leinster by 12.0
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Leinster_V_SaleSharks.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Leinster_V_SaleSharks.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Leinster_V_SaleSharks.png" width="32%" />
-</p>
-
-### Castres Olympique V Saracens on 2025/05/02
-
-
-Average Margin: Saracens by 2.8
-
-<p float="left">
-<img src="plots/performances_2025-04-11-CastresOlympique_V_Saracens.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-CastresOlympique_V_Saracens.png" width="32%" />
-<img src="plots/spreads_2025-04-11-CastresOlympique_V_Saracens.png" width="32%" />
-</p>
-
-### Leinster V Saracens on 2025/05/02
-
-
-Average Margin: Leinster by 11.4
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Leinster_V_Saracens.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Leinster_V_Saracens.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Leinster_V_Saracens.png" width="32%" />
-</p>
-
-### Leinster V Benetton Treviso on 2025/05/02
-
-
-Average Margin: Leinster by 15.1
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Leinster_V_BenettonTreviso.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Leinster_V_BenettonTreviso.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Leinster_V_BenettonTreviso.png" width="32%" />
-</p>
-
-### Castres Olympique V Toulon on 2025/05/02
-
-
-Average Margin: Castres Olympique by 0.5
-
-<p float="left">
-<img src="plots/performances_2025-04-11-CastresOlympique_V_Toulon.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-CastresOlympique_V_Toulon.png" width="32%" />
-<img src="plots/spreads_2025-04-11-CastresOlympique_V_Toulon.png" width="32%" />
-</p>
-
-### Northampton Saints V Glasgow Warriors on 2025/05/02
-
-
-Average Margin: Glasgow Warriors by 2.0
-
-<p float="left">
-<img src="plots/performances_2025-04-11-NorthamptonSaints_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-NorthamptonSaints_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/spreads_2025-04-11-NorthamptonSaints_V_GlasgowWarriors.png" width="32%" />
-</p>
-
-### Bordeaux Begles V Harlequins on 2025/05/02
-
-
-Average Margin: Bordeaux Begles by 5.7
-
-<p float="left">
-<img src="plots/performances_2025-04-11-BordeauxBegles_V_Harlequins.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-BordeauxBegles_V_Harlequins.png" width="32%" />
-<img src="plots/spreads_2025-04-11-BordeauxBegles_V_Harlequins.png" width="32%" />
-</p>
-
-### Leinster V La Rochelle on 2025/05/02
-
-
-Average Margin: Leinster by 14.7
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Leinster_V_LaRochelle.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Leinster_V_LaRochelle.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Leinster_V_LaRochelle.png" width="32%" />
-</p>
-
-### Bordeaux Begles V Leicester Tigers on 2025/05/02
-
-
-Average Margin: Bordeaux Begles by 7.8
-
-<p float="left">
-<img src="plots/performances_2025-04-11-BordeauxBegles_V_LeicesterTigers.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-BordeauxBegles_V_LeicesterTigers.png" width="32%" />
-<img src="plots/spreads_2025-04-11-BordeauxBegles_V_LeicesterTigers.png" width="32%" />
-</p>
-
-### Toulon V Glasgow Warriors on 2025/05/02
-
-
-Average Margin: Toulon by 1.6
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Toulon_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Toulon_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Toulon_V_GlasgowWarriors.png" width="32%" />
-</p>
-
-### Toulon V La Rochelle on 2025/05/02
-
-
-Average Margin: Toulon by 8.4
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Toulon_V_LaRochelle.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Toulon_V_LaRochelle.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Toulon_V_LaRochelle.png" width="32%" />
-</p>
-
-### Northampton Saints V La Rochelle on 2025/05/02
-
-
-Average Margin: Northampton Saints by 6.4
-
-<p float="left">
-<img src="plots/performances_2025-04-11-NorthamptonSaints_V_LaRochelle.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-NorthamptonSaints_V_LaRochelle.png" width="32%" />
-<img src="plots/spreads_2025-04-11-NorthamptonSaints_V_LaRochelle.png" width="32%" />
-</p>
-
-### Stade Toulousain V Clermont Auvergne on 2025/05/02
-
-
-Average Margin: Stade Toulousain by 13.2
-
-<p float="left">
-<img src="plots/performances_2025-04-11-StadeToulousain_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-StadeToulousain_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/spreads_2025-04-11-StadeToulousain_V_ClermontAuvergne.png" width="32%" />
-</p>
-
-### Stade Toulousain V Harlequins on 2025/05/02
-
-
-Average Margin: Stade Toulousain by 12.9
-
-<p float="left">
-<img src="plots/performances_2025-04-11-StadeToulousain_V_Harlequins.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-StadeToulousain_V_Harlequins.png" width="32%" />
-<img src="plots/spreads_2025-04-11-StadeToulousain_V_Harlequins.png" width="32%" />
-</p>
-
-### Stade Toulousain V Leicester Tigers on 2025/05/02
-
-
-Average Margin: Stade Toulousain by 10.4
-
-<p float="left">
-<img src="plots/performances_2025-04-11-StadeToulousain_V_LeicesterTigers.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-StadeToulousain_V_LeicesterTigers.png" width="32%" />
-<img src="plots/spreads_2025-04-11-StadeToulousain_V_LeicesterTigers.png" width="32%" />
-</p>
-
-### Leinster V Clermont Auvergne on 2025/05/02
-
-
-Average Margin: Leinster by 17.6
-
-<p float="left">
-<img src="plots/performances_2025-05-24-Leinster_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-Leinster_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/spreads_2025-05-24-Leinster_V_ClermontAuvergne.png" width="32%" />
-</p>
-
-### Bordeaux Begles V Sale Sharks on 2025/05/02
-
-
-Average Margin: Bordeaux Begles by 6.9
-
-<p float="left">
-<img src="plots/performances_2025-04-11-BordeauxBegles_V_SaleSharks.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-BordeauxBegles_V_SaleSharks.png" width="32%" />
-<img src="plots/spreads_2025-04-11-BordeauxBegles_V_SaleSharks.png" width="32%" />
-</p>
-
-### Stade Toulousain V Munster on 2025/05/02
-
-
-Average Margin: Stade Toulousain by 9.7
-
-<p float="left">
-<img src="plots/performances_2025-04-11-StadeToulousain_V_Munster.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-StadeToulousain_V_Munster.png" width="32%" />
-<img src="plots/spreads_2025-04-11-StadeToulousain_V_Munster.png" width="32%" />
-</p>
-
-### Bordeaux Begles V Castres Olympique on 2025/05/02
-
-
-Average Margin: Bordeaux Begles by 8.5
-
-<p float="left">
-<img src="plots/performances_2025-05-02-BordeauxBegles_V_CastresOlympique.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-BordeauxBegles_V_CastresOlympique.png" width="32%" />
-<img src="plots/spreads_2025-05-02-BordeauxBegles_V_CastresOlympique.png" width="32%" />
-</p>
-
-### Leinster V Castres Olympique on 2025/05/02
-
-
-Average Margin: Leinster by 13.1
-
-<p float="left">
-<img src="plots/performances_2025-05-24-Leinster_V_CastresOlympique.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-Leinster_V_CastresOlympique.png" width="32%" />
-<img src="plots/spreads_2025-05-24-Leinster_V_CastresOlympique.png" width="32%" />
-</p>
-
-### Stade Toulousain V Benetton Treviso on 2025/05/02
-
-
-Average Margin: Stade Toulousain by 15.6
+Average Margin: Stade Toulousain by 15.8
 
 <p float="left">
 <img src="plots/performances_2025-04-11-StadeToulousain_V_BenettonTreviso.png" width="32%" />
@@ -1082,120 +343,186 @@ Average Margin: Stade Toulousain by 15.6
 <img src="plots/spreads_2025-04-11-StadeToulousain_V_BenettonTreviso.png" width="32%" />
 </p>
 
-### Stade Toulousain V Castres Olympique on 2025/05/02
+### Northampton Saints V Toulon on 2025/04/11
 
 
-Average Margin: Stade Toulousain by 13.5
-
-<p float="left">
-<img src="plots/performances_2025-05-02-StadeToulousain_V_CastresOlympique.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-StadeToulousain_V_CastresOlympique.png" width="32%" />
-<img src="plots/spreads_2025-05-02-StadeToulousain_V_CastresOlympique.png" width="32%" />
-</p>
-
-### Bordeaux Begles V Leinster on 2025/05/02
-
-
-Average Margin: Leinster by 7.0
+Average Margin: Northampton Saints by 1.8
 
 <p float="left">
-<img src="plots/performances_2025-05-24-BordeauxBegles_V_Leinster.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-BordeauxBegles_V_Leinster.png" width="32%" />
-<img src="plots/spreads_2025-05-24-BordeauxBegles_V_Leinster.png" width="32%" />
+<img src="plots/performances_2025-04-11-NorthamptonSaints_V_Toulon.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-NorthamptonSaints_V_Toulon.png" width="32%" />
+<img src="plots/spreads_2025-04-11-NorthamptonSaints_V_Toulon.png" width="32%" />
 </p>
 
-### Castres Olympique V Glasgow Warriors on 2025/05/02
+### Bordeaux Begles V Toulon on 2025/04/11
 
 
-Average Margin: Glasgow Warriors by 2.5
+Average Margin: Bordeaux Begles by 5.8
 
 <p float="left">
-<img src="plots/performances_2025-04-11-CastresOlympique_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-CastresOlympique_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/spreads_2025-04-11-CastresOlympique_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/performances_2025-05-02-BordeauxBegles_V_Toulon.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-BordeauxBegles_V_Toulon.png" width="32%" />
+<img src="plots/spreads_2025-05-02-BordeauxBegles_V_Toulon.png" width="32%" />
 </p>
 
-### Stade Toulousain V La Rochelle on 2025/05/02
+### Leinster V Leicester Tigers on 2025/04/11
 
 
-Average Margin: Stade Toulousain by 12.3
+Average Margin: Leinster by 12.4
 
 <p float="left">
-<img src="plots/performances_2025-04-11-StadeToulousain_V_LaRochelle.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-StadeToulousain_V_LaRochelle.png" width="32%" />
-<img src="plots/spreads_2025-04-11-StadeToulousain_V_LaRochelle.png" width="32%" />
+<img src="plots/performances_2025-04-11-Leinster_V_LeicesterTigers.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Leinster_V_LeicesterTigers.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Leinster_V_LeicesterTigers.png" width="32%" />
 </p>
 
-### Bordeaux Begles V La Rochelle on 2025/05/02
+### Stade Toulousain V Munster on 2025/04/11
 
 
-Average Margin: Bordeaux Begles by 7.2
+Average Margin: Stade Toulousain by 10.3
 
 <p float="left">
-<img src="plots/performances_2025-04-11-BordeauxBegles_V_LaRochelle.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-BordeauxBegles_V_LaRochelle.png" width="32%" />
-<img src="plots/spreads_2025-04-11-BordeauxBegles_V_LaRochelle.png" width="32%" />
+<img src="plots/performances_2025-04-11-StadeToulousain_V_Munster.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-StadeToulousain_V_Munster.png" width="32%" />
+<img src="plots/spreads_2025-04-11-StadeToulousain_V_Munster.png" width="32%" />
 </p>
 
-### Stade Toulousain V Toulon on 2025/05/02
+### Bordeaux Begles V Saracens on 2025/04/11
 
 
-Average Margin: Stade Toulousain by 9.9
+Average Margin: Bordeaux Begles by 7.3
 
 <p float="left">
-<img src="plots/performances_2025-04-11-StadeToulousain_V_Toulon.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-StadeToulousain_V_Toulon.png" width="32%" />
-<img src="plots/spreads_2025-04-11-StadeToulousain_V_Toulon.png" width="32%" />
+<img src="plots/performances_2025-04-11-BordeauxBegles_V_Saracens.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-BordeauxBegles_V_Saracens.png" width="32%" />
+<img src="plots/spreads_2025-04-11-BordeauxBegles_V_Saracens.png" width="32%" />
 </p>
 
-### Stade Toulousain V Saracens on 2025/05/02
+### Northampton Saints V Munster on 2025/04/11
 
 
-Average Margin: Stade Toulousain by 12.2
+Average Margin: Northampton Saints by 0.3
 
 <p float="left">
-<img src="plots/performances_2025-04-11-StadeToulousain_V_Saracens.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-StadeToulousain_V_Saracens.png" width="32%" />
-<img src="plots/spreads_2025-04-11-StadeToulousain_V_Saracens.png" width="32%" />
+<img src="plots/performances_2025-04-11-NorthamptonSaints_V_Munster.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-NorthamptonSaints_V_Munster.png" width="32%" />
+<img src="plots/spreads_2025-04-11-NorthamptonSaints_V_Munster.png" width="32%" />
 </p>
 
-### Bordeaux Begles V Glasgow Warriors on 2025/05/02
+### Bordeaux Begles V Benetton Treviso on 2025/04/11
 
 
-Average Margin: Bordeaux Begles by 3.7
+Average Margin: Bordeaux Begles by 8.4
 
 <p float="left">
-<img src="plots/performances_2025-04-11-BordeauxBegles_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-BordeauxBegles_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/spreads_2025-04-11-BordeauxBegles_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/performances_2025-04-11-BordeauxBegles_V_BenettonTreviso.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-BordeauxBegles_V_BenettonTreviso.png" width="32%" />
+<img src="plots/spreads_2025-04-11-BordeauxBegles_V_BenettonTreviso.png" width="32%" />
 </p>
 
-### Leinster V Northampton Saints on 2025/05/02
+### Leinster V Clermont Auvergne on 2025/04/11
 
 
-Average Margin: Leinster by 13.8
+Average Margin: Leinster by 14.8
 
 <p float="left">
-<img src="plots/performances_2025-05-02-Leinster_V_NorthamptonSaints.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Leinster_V_NorthamptonSaints.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Leinster_V_NorthamptonSaints.png" width="32%" />
+<img src="plots/performances_2025-04-11-Leinster_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Leinster_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Leinster_V_ClermontAuvergne.png" width="32%" />
 </p>
 
-### Stade Toulousain V Northampton Saints on 2025/05/02
+### Leinster V Saracens on 2025/04/11
 
 
-Average Margin: Stade Toulousain by 11.8
+Average Margin: Leinster by 13.2
 
 <p float="left">
-<img src="plots/performances_2025-05-02-StadeToulousain_V_NorthamptonSaints.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-StadeToulousain_V_NorthamptonSaints.png" width="32%" />
-<img src="plots/spreads_2025-05-02-StadeToulousain_V_NorthamptonSaints.png" width="32%" />
+<img src="plots/performances_2025-04-11-Leinster_V_Saracens.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Leinster_V_Saracens.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Leinster_V_Saracens.png" width="32%" />
 </p>
 
-### Bordeaux Begles V Munster on 2025/05/02
+### Leinster V Castres Olympique on 2025/04/11
 
 
-Average Margin: Bordeaux Begles by 5.7
+Average Margin: Leinster by 14.1
+
+<p float="left">
+<img src="plots/performances_2025-05-02-Leinster_V_CastresOlympique.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Leinster_V_CastresOlympique.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Leinster_V_CastresOlympique.png" width="32%" />
+</p>
+
+### Leinster V Sale Sharks on 2025/04/11
+
+
+Average Margin: Leinster by 26.1
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Leinster_V_SaleSharks.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Leinster_V_SaleSharks.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Leinster_V_SaleSharks.png" width="32%" />
+</p>
+
+### Glasgow Warriors V La Rochelle on 2025/04/11
+
+
+Average Margin: Glasgow Warriors by 5.9
+
+<p float="left">
+<img src="plots/performances_2025-05-02-GlasgowWarriors_V_LaRochelle.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-GlasgowWarriors_V_LaRochelle.png" width="32%" />
+<img src="plots/spreads_2025-05-02-GlasgowWarriors_V_LaRochelle.png" width="32%" />
+</p>
+
+### Bordeaux Begles V Sale Sharks on 2025/04/11
+
+
+Average Margin: Bordeaux Begles by 11.5
+
+<p float="left">
+<img src="plots/performances_2025-04-11-BordeauxBegles_V_SaleSharks.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-BordeauxBegles_V_SaleSharks.png" width="32%" />
+<img src="plots/spreads_2025-04-11-BordeauxBegles_V_SaleSharks.png" width="32%" />
+</p>
+
+### Toulon V La Rochelle on 2025/04/11
+
+
+Average Margin: Toulon by 5.9
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Toulon_V_LaRochelle.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Toulon_V_LaRochelle.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Toulon_V_LaRochelle.png" width="32%" />
+</p>
+
+### Leinster V Benetton Treviso on 2025/04/11
+
+
+Average Margin: Leinster by 10.7
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Leinster_V_BenettonTreviso.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Leinster_V_BenettonTreviso.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Leinster_V_BenettonTreviso.png" width="32%" />
+</p>
+
+### Bordeaux Begles V Leicester Tigers on 2025/04/11
+
+
+Average Margin: Bordeaux Begles by 6.9
+
+<p float="left">
+<img src="plots/performances_2025-04-11-BordeauxBegles_V_LeicesterTigers.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-BordeauxBegles_V_LeicesterTigers.png" width="32%" />
+<img src="plots/spreads_2025-04-11-BordeauxBegles_V_LeicesterTigers.png" width="32%" />
+</p>
+
+### Bordeaux Begles V Munster on 2025/04/11
+
+
+Average Margin: Bordeaux Begles by 7.6
 
 <p float="left">
 <img src="plots/performances_2025-04-11-BordeauxBegles_V_Munster.png" width="32%" />
@@ -1203,21 +530,120 @@ Average Margin: Bordeaux Begles by 5.7
 <img src="plots/spreads_2025-04-11-BordeauxBegles_V_Munster.png" width="32%" />
 </p>
 
-### Stade Toulousain V Glasgow Warriors on 2025/05/02
+### Castres Olympique V Leicester Tigers on 2025/04/11
 
 
-Average Margin: Stade Toulousain by 8.0
+Average Margin: Castres Olympique by 1.1
 
 <p float="left">
-<img src="plots/performances_2025-04-11-StadeToulousain_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-StadeToulousain_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/spreads_2025-04-11-StadeToulousain_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/performances_2025-04-11-CastresOlympique_V_LeicesterTigers.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-CastresOlympique_V_LeicesterTigers.png" width="32%" />
+<img src="plots/spreads_2025-04-11-CastresOlympique_V_LeicesterTigers.png" width="32%" />
 </p>
 
-### Leinster V Munster on 2025/05/02
+### Stade Toulousain V Glasgow Warriors on 2025/04/11
 
 
-Average Margin: Leinster by 10.3
+Average Margin: Stade Toulousain by 9.7
+
+<p float="left">
+<img src="plots/performances_2025-05-02-StadeToulousain_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-StadeToulousain_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/spreads_2025-05-02-StadeToulousain_V_GlasgowWarriors.png" width="32%" />
+</p>
+
+### Bordeaux Begles V Clermont Auvergne on 2025/04/11
+
+
+Average Margin: Bordeaux Begles by 9.9
+
+<p float="left">
+<img src="plots/performances_2025-04-11-BordeauxBegles_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-BordeauxBegles_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/spreads_2025-04-11-BordeauxBegles_V_ClermontAuvergne.png" width="32%" />
+</p>
+
+### Leinster V Glasgow Warriors on 2025/04/11
+
+
+Average Margin: Leinster by 12.7
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Leinster_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Leinster_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Leinster_V_GlasgowWarriors.png" width="32%" />
+</p>
+
+### Castres Olympique V Toulon on 2025/04/11
+
+
+Average Margin: Toulon by 1.7
+
+<p float="left">
+<img src="plots/performances_2025-04-11-CastresOlympique_V_Toulon.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-CastresOlympique_V_Toulon.png" width="32%" />
+<img src="plots/spreads_2025-04-11-CastresOlympique_V_Toulon.png" width="32%" />
+</p>
+
+### Stade Toulousain V Clermont Auvergne on 2025/04/11
+
+
+Average Margin: Stade Toulousain by 12.7
+
+<p float="left">
+<img src="plots/performances_2025-04-11-StadeToulousain_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-StadeToulousain_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/spreads_2025-04-11-StadeToulousain_V_ClermontAuvergne.png" width="32%" />
+</p>
+
+### Leinster V Toulon on 2025/04/11
+
+
+Average Margin: Leinster by 10.9
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Leinster_V_Toulon.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Leinster_V_Toulon.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Leinster_V_Toulon.png" width="32%" />
+</p>
+
+### Bordeaux Begles V La Rochelle on 2025/04/11
+
+
+Average Margin: Bordeaux Begles by 8.0
+
+<p float="left">
+<img src="plots/performances_2025-04-11-BordeauxBegles_V_LaRochelle.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-BordeauxBegles_V_LaRochelle.png" width="32%" />
+<img src="plots/spreads_2025-04-11-BordeauxBegles_V_LaRochelle.png" width="32%" />
+</p>
+
+### Stade Toulousain V Leicester Tigers on 2025/04/11
+
+
+Average Margin: Stade Toulousain by 13.2
+
+<p float="left">
+<img src="plots/performances_2025-04-11-StadeToulousain_V_LeicesterTigers.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-StadeToulousain_V_LeicesterTigers.png" width="32%" />
+<img src="plots/spreads_2025-04-11-StadeToulousain_V_LeicesterTigers.png" width="32%" />
+</p>
+
+### Northampton Saints V Castres Olympique on 2025/04/11
+
+
+Average Margin: Northampton Saints by 5.6
+
+<p float="left">
+<img src="plots/performances_2025-04-11-NorthamptonSaints_V_CastresOlympique.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-NorthamptonSaints_V_CastresOlympique.png" width="32%" />
+<img src="plots/spreads_2025-04-11-NorthamptonSaints_V_CastresOlympique.png" width="32%" />
+</p>
+
+### Leinster V Munster on 2025/04/11
+
+
+Average Margin: Leinster by 11.5
 
 <p float="left">
 <img src="plots/performances_2025-04-11-Leinster_V_Munster.png" width="32%" />
@@ -1225,10 +651,419 @@ Average Margin: Leinster by 10.3
 <img src="plots/spreads_2025-04-11-Leinster_V_Munster.png" width="32%" />
 </p>
 
+### Stade Toulousain V Toulon on 2025/04/11
+
+
+Average Margin: Stade Toulousain by 7.7
+
+<p float="left">
+<img src="plots/performances_2025-04-11-StadeToulousain_V_Toulon.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-StadeToulousain_V_Toulon.png" width="32%" />
+<img src="plots/spreads_2025-04-11-StadeToulousain_V_Toulon.png" width="32%" />
+</p>
+
+### Bordeaux Begles V Glasgow Warriors on 2025/04/11
+
+
+Average Margin: Bordeaux Begles by 5.0
+
+<p float="left">
+<img src="plots/performances_2025-04-11-BordeauxBegles_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-BordeauxBegles_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/spreads_2025-04-11-BordeauxBegles_V_GlasgowWarriors.png" width="32%" />
+</p>
+
+### Castres Olympique V Munster on 2025/04/11
+
+
+Average Margin: Munster by 0.6
+
+<p float="left">
+<img src="plots/performances_2025-04-11-CastresOlympique_V_Munster.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-CastresOlympique_V_Munster.png" width="32%" />
+<img src="plots/spreads_2025-04-11-CastresOlympique_V_Munster.png" width="32%" />
+</p>
+
+### Stade Toulousain V Saracens on 2025/04/11
+
+
+Average Margin: Stade Toulousain by 13.7
+
+<p float="left">
+<img src="plots/performances_2025-04-11-StadeToulousain_V_Saracens.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-StadeToulousain_V_Saracens.png" width="32%" />
+<img src="plots/spreads_2025-04-11-StadeToulousain_V_Saracens.png" width="32%" />
+</p>
+
+### Stade Toulousain V La Rochelle on 2025/04/11
+
+
+Average Margin: Stade Toulousain by 10.7
+
+<p float="left">
+<img src="plots/performances_2025-04-11-StadeToulousain_V_LaRochelle.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-StadeToulousain_V_LaRochelle.png" width="32%" />
+<img src="plots/spreads_2025-04-11-StadeToulousain_V_LaRochelle.png" width="32%" />
+</p>
+
+### Stade Toulousain V Harlequins on 2025/04/11
+
+
+Average Margin: Stade Toulousain by 7.5
+
+<p float="left">
+<img src="plots/performances_2025-04-11-StadeToulousain_V_Harlequins.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-StadeToulousain_V_Harlequins.png" width="32%" />
+<img src="plots/spreads_2025-04-11-StadeToulousain_V_Harlequins.png" width="32%" />
+</p>
+
+### Leinster V La Rochelle on 2025/04/11
+
+
+Average Margin: Leinster by 13.7
+
+<p float="left">
+<img src="plots/performances_2025-05-24-Leinster_V_LaRochelle.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-Leinster_V_LaRochelle.png" width="32%" />
+<img src="plots/spreads_2025-05-24-Leinster_V_LaRochelle.png" width="32%" />
+</p>
+
+### Castres Olympique V Glasgow Warriors on 2025/04/11
+
+
+Average Margin: Glasgow Warriors by 0.5
+
+<p float="left">
+<img src="plots/performances_2025-04-11-CastresOlympique_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-CastresOlympique_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/spreads_2025-04-11-CastresOlympique_V_GlasgowWarriors.png" width="32%" />
+</p>
+
+### Northampton Saints V Glasgow Warriors on 2025/04/11
+
+
+Average Margin: Northampton Saints by 1.2
+
+<p float="left">
+<img src="plots/performances_2025-04-11-NorthamptonSaints_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-NorthamptonSaints_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/spreads_2025-04-11-NorthamptonSaints_V_GlasgowWarriors.png" width="32%" />
+</p>
+
+### Northampton Saints V Saracens on 2025/04/11
+
+
+Average Margin: Saracens by 2.4
+
+<p float="left">
+<img src="plots/performances_2025-04-11-NorthamptonSaints_V_Saracens.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-NorthamptonSaints_V_Saracens.png" width="32%" />
+<img src="plots/spreads_2025-04-11-NorthamptonSaints_V_Saracens.png" width="32%" />
+</p>
+
+### Stade Toulousain V Ulster on 2025/04/11
+
+
+Average Margin: Stade Toulousain by 14.3
+
+<p float="left">
+<img src="plots/performances_2025-04-11-StadeToulousain_V_Ulster.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-StadeToulousain_V_Ulster.png" width="32%" />
+<img src="plots/spreads_2025-04-11-StadeToulousain_V_Ulster.png" width="32%" />
+</p>
+
+## Semifinals
+
+### Northampton Saints V Glasgow Warriors on 2025/05/02
+
+
+Average Margin: Northampton Saints by 1.2
+
+<p float="left">
+<img src="plots/performances_2025-04-11-NorthamptonSaints_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-NorthamptonSaints_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/spreads_2025-04-11-NorthamptonSaints_V_GlasgowWarriors.png" width="32%" />
+</p>
+
+### Bordeaux Begles V Saracens on 2025/05/02
+
+
+Average Margin: Bordeaux Begles by 7.3
+
+<p float="left">
+<img src="plots/performances_2025-04-11-BordeauxBegles_V_Saracens.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-BordeauxBegles_V_Saracens.png" width="32%" />
+<img src="plots/spreads_2025-04-11-BordeauxBegles_V_Saracens.png" width="32%" />
+</p>
+
+### Leinster V Northampton Saints on 2025/05/02
+
+
+Average Margin: Leinster by 13.9
+
+<p float="left">
+<img src="plots/performances_2025-05-02-Leinster_V_NorthamptonSaints.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Leinster_V_NorthamptonSaints.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Leinster_V_NorthamptonSaints.png" width="32%" />
+</p>
+
+### Stade Toulousain V Toulon on 2025/05/02
+
+
+Average Margin: Stade Toulousain by 7.7
+
+<p float="left">
+<img src="plots/performances_2025-04-11-StadeToulousain_V_Toulon.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-StadeToulousain_V_Toulon.png" width="32%" />
+<img src="plots/spreads_2025-04-11-StadeToulousain_V_Toulon.png" width="32%" />
+</p>
+
+### Leinster V Leicester Tigers on 2025/05/02
+
+
+Average Margin: Leinster by 12.4
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Leinster_V_LeicesterTigers.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Leinster_V_LeicesterTigers.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Leinster_V_LeicesterTigers.png" width="32%" />
+</p>
+
+### Bordeaux Begles V Toulon on 2025/05/02
+
+
+Average Margin: Bordeaux Begles by 5.8
+
+<p float="left">
+<img src="plots/performances_2025-05-02-BordeauxBegles_V_Toulon.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-BordeauxBegles_V_Toulon.png" width="32%" />
+<img src="plots/spreads_2025-05-02-BordeauxBegles_V_Toulon.png" width="32%" />
+</p>
+
+### Northampton Saints V La Rochelle on 2025/05/02
+
+
+Average Margin: Northampton Saints by 2.8
+
+<p float="left">
+<img src="plots/performances_2025-04-11-NorthamptonSaints_V_LaRochelle.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-NorthamptonSaints_V_LaRochelle.png" width="32%" />
+<img src="plots/spreads_2025-04-11-NorthamptonSaints_V_LaRochelle.png" width="32%" />
+</p>
+
+### Bordeaux Begles V Munster on 2025/05/02
+
+
+Average Margin: Bordeaux Begles by 7.6
+
+<p float="left">
+<img src="plots/performances_2025-04-11-BordeauxBegles_V_Munster.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-BordeauxBegles_V_Munster.png" width="32%" />
+<img src="plots/spreads_2025-04-11-BordeauxBegles_V_Munster.png" width="32%" />
+</p>
+
+### Toulon V Glasgow Warriors on 2025/05/02
+
+
+Average Margin: Toulon by 5.9
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Toulon_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Toulon_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Toulon_V_GlasgowWarriors.png" width="32%" />
+</p>
+
+### Bordeaux Begles V Leinster on 2025/05/02
+
+
+Average Margin: Leinster by 5.3
+
+<p float="left">
+<img src="plots/performances_2025-05-02-BordeauxBegles_V_Leinster.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-BordeauxBegles_V_Leinster.png" width="32%" />
+<img src="plots/spreads_2025-05-02-BordeauxBegles_V_Leinster.png" width="32%" />
+</p>
+
+### Stade Toulousain V Northampton Saints on 2025/05/02
+
+
+Average Margin: Stade Toulousain by 10.9
+
+<p float="left">
+<img src="plots/performances_2025-05-02-StadeToulousain_V_NorthamptonSaints.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-StadeToulousain_V_NorthamptonSaints.png" width="32%" />
+<img src="plots/spreads_2025-05-02-StadeToulousain_V_NorthamptonSaints.png" width="32%" />
+</p>
+
+### Bordeaux Begles V Harlequins on 2025/05/02
+
+
+Average Margin: Bordeaux Begles by 6.2
+
+<p float="left">
+<img src="plots/performances_2025-05-02-BordeauxBegles_V_Harlequins.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-BordeauxBegles_V_Harlequins.png" width="32%" />
+<img src="plots/spreads_2025-05-02-BordeauxBegles_V_Harlequins.png" width="32%" />
+</p>
+
+### Toulon V Munster on 2025/05/02
+
+
+Average Margin: Toulon by 2.8
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Toulon_V_Munster.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Toulon_V_Munster.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Toulon_V_Munster.png" width="32%" />
+</p>
+
+### Stade Toulousain V Glasgow Warriors on 2025/05/02
+
+
+Average Margin: Stade Toulousain by 9.7
+
+<p float="left">
+<img src="plots/performances_2025-05-02-StadeToulousain_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-StadeToulousain_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/spreads_2025-05-02-StadeToulousain_V_GlasgowWarriors.png" width="32%" />
+</p>
+
+### Stade Toulousain V Castres Olympique on 2025/05/02
+
+
+Average Margin: Stade Toulousain by 14.7
+
+<p float="left">
+<img src="plots/performances_2025-05-02-StadeToulousain_V_CastresOlympique.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-StadeToulousain_V_CastresOlympique.png" width="32%" />
+<img src="plots/spreads_2025-05-02-StadeToulousain_V_CastresOlympique.png" width="32%" />
+</p>
+
+### Stade Toulousain V La Rochelle on 2025/05/02
+
+
+Average Margin: Stade Toulousain by 10.7
+
+<p float="left">
+<img src="plots/performances_2025-04-11-StadeToulousain_V_LaRochelle.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-StadeToulousain_V_LaRochelle.png" width="32%" />
+<img src="plots/spreads_2025-04-11-StadeToulousain_V_LaRochelle.png" width="32%" />
+</p>
+
+### Castres Olympique V Glasgow Warriors on 2025/05/02
+
+
+Average Margin: Glasgow Warriors by 0.5
+
+<p float="left">
+<img src="plots/performances_2025-04-11-CastresOlympique_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-CastresOlympique_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/spreads_2025-04-11-CastresOlympique_V_GlasgowWarriors.png" width="32%" />
+</p>
+
+### Northampton Saints V Munster on 2025/05/02
+
+
+Average Margin: Northampton Saints by 0.3
+
+<p float="left">
+<img src="plots/performances_2025-04-11-NorthamptonSaints_V_Munster.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-NorthamptonSaints_V_Munster.png" width="32%" />
+<img src="plots/spreads_2025-04-11-NorthamptonSaints_V_Munster.png" width="32%" />
+</p>
+
+### Bordeaux Begles V Sale Sharks on 2025/05/02
+
+
+Average Margin: Bordeaux Begles by 11.5
+
+<p float="left">
+<img src="plots/performances_2025-04-11-BordeauxBegles_V_SaleSharks.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-BordeauxBegles_V_SaleSharks.png" width="32%" />
+<img src="plots/spreads_2025-04-11-BordeauxBegles_V_SaleSharks.png" width="32%" />
+</p>
+
+### Stade Toulousain V Harlequins on 2025/05/02
+
+
+Average Margin: Stade Toulousain by 7.5
+
+<p float="left">
+<img src="plots/performances_2025-04-11-StadeToulousain_V_Harlequins.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-StadeToulousain_V_Harlequins.png" width="32%" />
+<img src="plots/spreads_2025-04-11-StadeToulousain_V_Harlequins.png" width="32%" />
+</p>
+
+### Castres Olympique V La Rochelle on 2025/05/02
+
+
+Average Margin: Castres Olympique by 3.2
+
+<p float="left">
+<img src="plots/performances_2025-05-02-CastresOlympique_V_LaRochelle.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-CastresOlympique_V_LaRochelle.png" width="32%" />
+<img src="plots/spreads_2025-05-02-CastresOlympique_V_LaRochelle.png" width="32%" />
+</p>
+
+### Northampton Saints V Saracens on 2025/05/02
+
+
+Average Margin: Saracens by 2.4
+
+<p float="left">
+<img src="plots/performances_2025-04-11-NorthamptonSaints_V_Saracens.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-NorthamptonSaints_V_Saracens.png" width="32%" />
+<img src="plots/spreads_2025-04-11-NorthamptonSaints_V_Saracens.png" width="32%" />
+</p>
+
+### Toulon V La Rochelle on 2025/05/02
+
+
+Average Margin: Toulon by 5.9
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Toulon_V_LaRochelle.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Toulon_V_LaRochelle.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Toulon_V_LaRochelle.png" width="32%" />
+</p>
+
+### Northampton Saints V Castres Olympique on 2025/05/02
+
+
+Average Margin: Northampton Saints by 5.6
+
+<p float="left">
+<img src="plots/performances_2025-04-11-NorthamptonSaints_V_CastresOlympique.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-NorthamptonSaints_V_CastresOlympique.png" width="32%" />
+<img src="plots/spreads_2025-04-11-NorthamptonSaints_V_CastresOlympique.png" width="32%" />
+</p>
+
+### Leinster V Benetton Treviso on 2025/05/02
+
+
+Average Margin: Leinster by 10.7
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Leinster_V_BenettonTreviso.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Leinster_V_BenettonTreviso.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Leinster_V_BenettonTreviso.png" width="32%" />
+</p>
+
+### Bordeaux Begles V Benetton Treviso on 2025/05/02
+
+
+Average Margin: Bordeaux Begles by 8.4
+
+<p float="left">
+<img src="plots/performances_2025-04-11-BordeauxBegles_V_BenettonTreviso.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-BordeauxBegles_V_BenettonTreviso.png" width="32%" />
+<img src="plots/spreads_2025-04-11-BordeauxBegles_V_BenettonTreviso.png" width="32%" />
+</p>
+
 ### Bordeaux Begles V Northampton Saints on 2025/05/02
 
 
-Average Margin: Bordeaux Begles by 6.8
+Average Margin: Bordeaux Begles by 8.7
 
 <p float="left">
 <img src="plots/performances_2025-05-02-BordeauxBegles_V_NorthamptonSaints.png" width="32%" />
@@ -1239,7 +1074,7 @@ Average Margin: Bordeaux Begles by 6.8
 ### Stade Toulousain V Leinster on 2025/05/02
 
 
-Average Margin: Leinster by 0.2
+Average Margin: Leinster by 0.0
 
 <p float="left">
 <img src="plots/performances_2025-05-02-StadeToulousain_V_Leinster.png" width="32%" />
@@ -1247,111 +1082,65 @@ Average Margin: Leinster by 0.2
 <img src="plots/spreads_2025-05-02-StadeToulousain_V_Leinster.png" width="32%" />
 </p>
 
-### Leinster V Glasgow Warriors on 2025/05/02
+### Leinster V Sale Sharks on 2025/05/02
 
 
-Average Margin: Leinster by 9.4
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Leinster_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Leinster_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Leinster_V_GlasgowWarriors.png" width="32%" />
-</p>
-
-### Northampton Saints V Castres Olympique on 2025/05/02
-
-
-Average Margin: Northampton Saints by 6.1
+Average Margin: Leinster by 26.1
 
 <p float="left">
-<img src="plots/performances_2025-05-02-NorthamptonSaints_V_CastresOlympique.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-NorthamptonSaints_V_CastresOlympique.png" width="32%" />
-<img src="plots/spreads_2025-05-02-NorthamptonSaints_V_CastresOlympique.png" width="32%" />
+<img src="plots/performances_2025-04-11-Leinster_V_SaleSharks.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Leinster_V_SaleSharks.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Leinster_V_SaleSharks.png" width="32%" />
 </p>
 
-### Northampton Saints V Munster on 2025/05/02
+### Leinster V Castres Olympique on 2025/05/02
 
 
-Average Margin: Northampton Saints by 2.5
+Average Margin: Leinster by 14.1
 
 <p float="left">
-<img src="plots/performances_2025-04-11-NorthamptonSaints_V_Munster.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-NorthamptonSaints_V_Munster.png" width="32%" />
-<img src="plots/spreads_2025-04-11-NorthamptonSaints_V_Munster.png" width="32%" />
+<img src="plots/performances_2025-05-02-Leinster_V_CastresOlympique.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Leinster_V_CastresOlympique.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Leinster_V_CastresOlympique.png" width="32%" />
 </p>
 
-### Leinster V Ulster on 2025/05/02
+### Castres Olympique V Toulon on 2025/05/02
 
 
-Average Margin: Leinster by 16.9
+Average Margin: Toulon by 1.7
 
 <p float="left">
-<img src="plots/performances_2025-05-02-Leinster_V_Ulster.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Leinster_V_Ulster.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Leinster_V_Ulster.png" width="32%" />
+<img src="plots/performances_2025-04-11-CastresOlympique_V_Toulon.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-CastresOlympique_V_Toulon.png" width="32%" />
+<img src="plots/spreads_2025-04-11-CastresOlympique_V_Toulon.png" width="32%" />
 </p>
 
-### Leinster V Toulon on 2025/05/02
+### Leinster V Munster on 2025/05/02
 
 
-Average Margin: Leinster by 11.4
+Average Margin: Leinster by 11.5
 
 <p float="left">
-<img src="plots/performances_2025-04-11-Leinster_V_Toulon.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Leinster_V_Toulon.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Leinster_V_Toulon.png" width="32%" />
+<img src="plots/performances_2025-04-11-Leinster_V_Munster.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Leinster_V_Munster.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Leinster_V_Munster.png" width="32%" />
 </p>
 
-### Bordeaux Begles V Benetton Treviso on 2025/05/02
+### Stade Toulousain V Munster on 2025/05/02
 
 
-Average Margin: Bordeaux Begles by 11.0
+Average Margin: Stade Toulousain by 10.3
 
 <p float="left">
-<img src="plots/performances_2025-04-11-BordeauxBegles_V_BenettonTreviso.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-BordeauxBegles_V_BenettonTreviso.png" width="32%" />
-<img src="plots/spreads_2025-04-11-BordeauxBegles_V_BenettonTreviso.png" width="32%" />
+<img src="plots/performances_2025-04-11-StadeToulousain_V_Munster.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-StadeToulousain_V_Munster.png" width="32%" />
+<img src="plots/spreads_2025-04-11-StadeToulousain_V_Munster.png" width="32%" />
 </p>
 
-### Bordeaux Begles V Toulon on 2025/05/02
+### Stade Toulousain V Saracens on 2025/05/02
 
 
-Average Margin: Bordeaux Begles by 5.3
-
-<p float="left">
-<img src="plots/performances_2025-05-02-BordeauxBegles_V_Toulon.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-BordeauxBegles_V_Toulon.png" width="32%" />
-<img src="plots/spreads_2025-05-02-BordeauxBegles_V_Toulon.png" width="32%" />
-</p>
-
-### Northampton Saints V Toulon on 2025/05/02
-
-
-Average Margin: Northampton Saints by 2.2
-
-<p float="left">
-<img src="plots/performances_2025-04-11-NorthamptonSaints_V_Toulon.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-NorthamptonSaints_V_Toulon.png" width="32%" />
-<img src="plots/spreads_2025-04-11-NorthamptonSaints_V_Toulon.png" width="32%" />
-</p>
-
-### Bordeaux Begles V Clermont Auvergne on 2025/05/02
-
-
-Average Margin: Bordeaux Begles by 10.2
-
-<p float="left">
-<img src="plots/performances_2025-04-11-BordeauxBegles_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-BordeauxBegles_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/spreads_2025-04-11-BordeauxBegles_V_ClermontAuvergne.png" width="32%" />
-</p>
-
-## Finals
-
-### Stade Toulousain V Saracens on 2025/05/24
-
-
-Average Margin: Stade Toulousain by 12.2
+Average Margin: Stade Toulousain by 13.7
 
 <p float="left">
 <img src="plots/performances_2025-04-11-StadeToulousain_V_Saracens.png" width="32%" />
@@ -1359,10 +1148,65 @@ Average Margin: Stade Toulousain by 12.2
 <img src="plots/spreads_2025-04-11-StadeToulousain_V_Saracens.png" width="32%" />
 </p>
 
-### Leinster V Saracens on 2025/05/24
+### Stade Toulousain V Clermont Auvergne on 2025/05/02
 
 
-Average Margin: Leinster by 11.4
+Average Margin: Stade Toulousain by 12.7
+
+<p float="left">
+<img src="plots/performances_2025-04-11-StadeToulousain_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-StadeToulousain_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/spreads_2025-04-11-StadeToulousain_V_ClermontAuvergne.png" width="32%" />
+</p>
+
+### Leinster V Toulon on 2025/05/02
+
+
+Average Margin: Leinster by 10.9
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Leinster_V_Toulon.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Leinster_V_Toulon.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Leinster_V_Toulon.png" width="32%" />
+</p>
+
+### Leinster V Glasgow Warriors on 2025/05/02
+
+
+Average Margin: Leinster by 12.7
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Leinster_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Leinster_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Leinster_V_GlasgowWarriors.png" width="32%" />
+</p>
+
+### Bordeaux Begles V La Rochelle on 2025/05/02
+
+
+Average Margin: Bordeaux Begles by 8.0
+
+<p float="left">
+<img src="plots/performances_2025-04-11-BordeauxBegles_V_LaRochelle.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-BordeauxBegles_V_LaRochelle.png" width="32%" />
+<img src="plots/spreads_2025-04-11-BordeauxBegles_V_LaRochelle.png" width="32%" />
+</p>
+
+### Stade Toulousain V Leicester Tigers on 2025/05/02
+
+
+Average Margin: Stade Toulousain by 13.2
+
+<p float="left">
+<img src="plots/performances_2025-04-11-StadeToulousain_V_LeicesterTigers.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-StadeToulousain_V_LeicesterTigers.png" width="32%" />
+<img src="plots/spreads_2025-04-11-StadeToulousain_V_LeicesterTigers.png" width="32%" />
+</p>
+
+### Leinster V Saracens on 2025/05/02
+
+
+Average Margin: Leinster by 13.2
 
 <p float="left">
 <img src="plots/performances_2025-04-11-Leinster_V_Saracens.png" width="32%" />
@@ -1370,54 +1214,287 @@ Average Margin: Leinster by 11.4
 <img src="plots/spreads_2025-04-11-Leinster_V_Saracens.png" width="32%" />
 </p>
 
-### Toulon V Glasgow Warriors on 2025/05/24
+### Bordeaux Begles V Leicester Tigers on 2025/05/02
 
 
-Average Margin: Toulon by 1.6
+Average Margin: Bordeaux Begles by 6.9
 
 <p float="left">
-<img src="plots/performances_2025-04-11-Toulon_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Toulon_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Toulon_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/performances_2025-04-11-BordeauxBegles_V_LeicesterTigers.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-BordeauxBegles_V_LeicesterTigers.png" width="32%" />
+<img src="plots/spreads_2025-04-11-BordeauxBegles_V_LeicesterTigers.png" width="32%" />
 </p>
+
+### Castres Olympique V Munster on 2025/05/02
+
+
+Average Margin: Munster by 0.6
+
+<p float="left">
+<img src="plots/performances_2025-04-11-CastresOlympique_V_Munster.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-CastresOlympique_V_Munster.png" width="32%" />
+<img src="plots/spreads_2025-04-11-CastresOlympique_V_Munster.png" width="32%" />
+</p>
+
+### Bordeaux Begles V Glasgow Warriors on 2025/05/02
+
+
+Average Margin: Bordeaux Begles by 5.0
+
+<p float="left">
+<img src="plots/performances_2025-04-11-BordeauxBegles_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-BordeauxBegles_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/spreads_2025-04-11-BordeauxBegles_V_GlasgowWarriors.png" width="32%" />
+</p>
+
+### Stade Toulousain V Benetton Treviso on 2025/05/02
+
+
+Average Margin: Stade Toulousain by 15.8
+
+<p float="left">
+<img src="plots/performances_2025-04-11-StadeToulousain_V_BenettonTreviso.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-StadeToulousain_V_BenettonTreviso.png" width="32%" />
+<img src="plots/spreads_2025-04-11-StadeToulousain_V_BenettonTreviso.png" width="32%" />
+</p>
+
+### Glasgow Warriors V La Rochelle on 2025/05/02
+
+
+Average Margin: Glasgow Warriors by 5.9
+
+<p float="left">
+<img src="plots/performances_2025-05-02-GlasgowWarriors_V_LaRochelle.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-GlasgowWarriors_V_LaRochelle.png" width="32%" />
+<img src="plots/spreads_2025-05-02-GlasgowWarriors_V_LaRochelle.png" width="32%" />
+</p>
+
+### Northampton Saints V Toulon on 2025/05/02
+
+
+Average Margin: Northampton Saints by 1.8
+
+<p float="left">
+<img src="plots/performances_2025-04-11-NorthamptonSaints_V_Toulon.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-NorthamptonSaints_V_Toulon.png" width="32%" />
+<img src="plots/spreads_2025-04-11-NorthamptonSaints_V_Toulon.png" width="32%" />
+</p>
+
+### Bordeaux Begles V Castres Olympique on 2025/05/02
+
+
+Average Margin: Bordeaux Begles by 9.0
+
+<p float="left">
+<img src="plots/performances_2025-05-02-BordeauxBegles_V_CastresOlympique.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-BordeauxBegles_V_CastresOlympique.png" width="32%" />
+<img src="plots/spreads_2025-05-02-BordeauxBegles_V_CastresOlympique.png" width="32%" />
+</p>
+
+### Bordeaux Begles V Clermont Auvergne on 2025/05/02
+
+
+Average Margin: Bordeaux Begles by 9.9
+
+<p float="left">
+<img src="plots/performances_2025-04-11-BordeauxBegles_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-BordeauxBegles_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/spreads_2025-04-11-BordeauxBegles_V_ClermontAuvergne.png" width="32%" />
+</p>
+
+### Leinster V La Rochelle on 2025/05/02
+
+
+Average Margin: Leinster by 13.7
+
+<p float="left">
+<img src="plots/performances_2025-05-24-Leinster_V_LaRochelle.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-Leinster_V_LaRochelle.png" width="32%" />
+<img src="plots/spreads_2025-05-24-Leinster_V_LaRochelle.png" width="32%" />
+</p>
+
+## Finals
 
 ### Leinster V Castres Olympique on 2025/05/24
 
 
-Average Margin: Leinster by 13.1
+Average Margin: Leinster by 14.1
 
 <p float="left">
-<img src="plots/performances_2025-05-24-Leinster_V_CastresOlympique.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-Leinster_V_CastresOlympique.png" width="32%" />
-<img src="plots/spreads_2025-05-24-Leinster_V_CastresOlympique.png" width="32%" />
+<img src="plots/performances_2025-05-02-Leinster_V_CastresOlympique.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Leinster_V_CastresOlympique.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Leinster_V_CastresOlympique.png" width="32%" />
 </p>
 
-### Leinster V Benetton Treviso on 2025/05/24
+### Stade Toulousain V Toulon on 2025/05/24
 
 
-Average Margin: Leinster by 15.1
+Average Margin: Stade Toulousain by 7.7
 
 <p float="left">
-<img src="plots/performances_2025-04-11-Leinster_V_BenettonTreviso.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Leinster_V_BenettonTreviso.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Leinster_V_BenettonTreviso.png" width="32%" />
+<img src="plots/performances_2025-04-11-StadeToulousain_V_Toulon.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-StadeToulousain_V_Toulon.png" width="32%" />
+<img src="plots/spreads_2025-04-11-StadeToulousain_V_Toulon.png" width="32%" />
 </p>
 
-### Bordeaux Begles V Leinster on 2025/05/24
+### Bordeaux Begles V Northampton Saints on 2025/05/24
 
 
-Average Margin: Leinster by 7.0
+Average Margin: Bordeaux Begles by 8.7
 
 <p float="left">
-<img src="plots/performances_2025-05-24-BordeauxBegles_V_Leinster.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-BordeauxBegles_V_Leinster.png" width="32%" />
-<img src="plots/spreads_2025-05-24-BordeauxBegles_V_Leinster.png" width="32%" />
+<img src="plots/performances_2025-05-02-BordeauxBegles_V_NorthamptonSaints.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-BordeauxBegles_V_NorthamptonSaints.png" width="32%" />
+<img src="plots/spreads_2025-05-02-BordeauxBegles_V_NorthamptonSaints.png" width="32%" />
+</p>
+
+### Stade Toulousain V Castres Olympique on 2025/05/24
+
+
+Average Margin: Stade Toulousain by 14.7
+
+<p float="left">
+<img src="plots/performances_2025-05-02-StadeToulousain_V_CastresOlympique.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-StadeToulousain_V_CastresOlympique.png" width="32%" />
+<img src="plots/spreads_2025-05-02-StadeToulousain_V_CastresOlympique.png" width="32%" />
+</p>
+
+### Northampton Saints V Glasgow Warriors on 2025/05/24
+
+
+Average Margin: Northampton Saints by 1.2
+
+<p float="left">
+<img src="plots/performances_2025-04-11-NorthamptonSaints_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-NorthamptonSaints_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/spreads_2025-04-11-NorthamptonSaints_V_GlasgowWarriors.png" width="32%" />
+</p>
+
+### Leinster V Saracens on 2025/05/24
+
+
+Average Margin: Leinster by 13.2
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Leinster_V_Saracens.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Leinster_V_Saracens.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Leinster_V_Saracens.png" width="32%" />
+</p>
+
+### Stade Toulousain V Glasgow Warriors on 2025/05/24
+
+
+Average Margin: Stade Toulousain by 9.7
+
+<p float="left">
+<img src="plots/performances_2025-05-02-StadeToulousain_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-StadeToulousain_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/spreads_2025-05-02-StadeToulousain_V_GlasgowWarriors.png" width="32%" />
+</p>
+
+### Bordeaux Begles V Munster on 2025/05/24
+
+
+Average Margin: Bordeaux Begles by 7.6
+
+<p float="left">
+<img src="plots/performances_2025-04-11-BordeauxBegles_V_Munster.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-BordeauxBegles_V_Munster.png" width="32%" />
+<img src="plots/spreads_2025-04-11-BordeauxBegles_V_Munster.png" width="32%" />
+</p>
+
+### Leinster V Leicester Tigers on 2025/05/24
+
+
+Average Margin: Leinster by 12.4
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Leinster_V_LeicesterTigers.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Leinster_V_LeicesterTigers.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Leinster_V_LeicesterTigers.png" width="32%" />
+</p>
+
+### Stade Toulousain V Northampton Saints on 2025/05/24
+
+
+Average Margin: Stade Toulousain by 10.9
+
+<p float="left">
+<img src="plots/performances_2025-05-02-StadeToulousain_V_NorthamptonSaints.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-StadeToulousain_V_NorthamptonSaints.png" width="32%" />
+<img src="plots/spreads_2025-05-02-StadeToulousain_V_NorthamptonSaints.png" width="32%" />
+</p>
+
+### Castres Olympique V Glasgow Warriors on 2025/05/24
+
+
+Average Margin: Glasgow Warriors by 0.5
+
+<p float="left">
+<img src="plots/performances_2025-04-11-CastresOlympique_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-CastresOlympique_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/spreads_2025-04-11-CastresOlympique_V_GlasgowWarriors.png" width="32%" />
+</p>
+
+### Toulon V La Rochelle on 2025/05/24
+
+
+Average Margin: Toulon by 5.9
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Toulon_V_LaRochelle.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Toulon_V_LaRochelle.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Toulon_V_LaRochelle.png" width="32%" />
+</p>
+
+### Stade Toulousain V La Rochelle on 2025/05/24
+
+
+Average Margin: Stade Toulousain by 10.7
+
+<p float="left">
+<img src="plots/performances_2025-04-11-StadeToulousain_V_LaRochelle.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-StadeToulousain_V_LaRochelle.png" width="32%" />
+<img src="plots/spreads_2025-04-11-StadeToulousain_V_LaRochelle.png" width="32%" />
+</p>
+
+### Northampton Saints V La Rochelle on 2025/05/24
+
+
+Average Margin: Northampton Saints by 2.8
+
+<p float="left">
+<img src="plots/performances_2025-04-11-NorthamptonSaints_V_LaRochelle.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-NorthamptonSaints_V_LaRochelle.png" width="32%" />
+<img src="plots/spreads_2025-04-11-NorthamptonSaints_V_LaRochelle.png" width="32%" />
+</p>
+
+### Stade Toulousain V Munster on 2025/05/24
+
+
+Average Margin: Stade Toulousain by 10.3
+
+<p float="left">
+<img src="plots/performances_2025-04-11-StadeToulousain_V_Munster.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-StadeToulousain_V_Munster.png" width="32%" />
+<img src="plots/spreads_2025-04-11-StadeToulousain_V_Munster.png" width="32%" />
+</p>
+
+### Bordeaux Begles V Toulon on 2025/05/24
+
+
+Average Margin: Bordeaux Begles by 5.8
+
+<p float="left">
+<img src="plots/performances_2025-05-02-BordeauxBegles_V_Toulon.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-BordeauxBegles_V_Toulon.png" width="32%" />
+<img src="plots/spreads_2025-05-02-BordeauxBegles_V_Toulon.png" width="32%" />
 </p>
 
 ### Stade Toulousain V Leinster on 2025/05/24
 
 
-Average Margin: Leinster by 0.2
+Average Margin: Leinster by 0.0
 
 <p float="left">
 <img src="plots/performances_2025-05-02-StadeToulousain_V_Leinster.png" width="32%" />
@@ -1428,7 +1505,7 @@ Average Margin: Leinster by 0.2
 ### Bordeaux Begles V Stade Toulousain on 2025/05/24
 
 
-Average Margin: Stade Toulousain by 4.4
+Average Margin: Stade Toulousain by 4.2
 
 <p float="left">
 <img src="plots/performances_2025-05-24-BordeauxBegles_V_StadeToulousain.png" width="32%" />
@@ -1436,252 +1513,21 @@ Average Margin: Stade Toulousain by 4.4
 <img src="plots/spreads_2025-05-24-BordeauxBegles_V_StadeToulousain.png" width="32%" />
 </p>
 
-### Northampton Saints V Glasgow Warriors on 2025/05/24
+### Stade Toulousain V Saracens on 2025/05/24
 
 
-Average Margin: Glasgow Warriors by 2.0
-
-<p float="left">
-<img src="plots/performances_2025-04-11-NorthamptonSaints_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-NorthamptonSaints_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/spreads_2025-04-11-NorthamptonSaints_V_GlasgowWarriors.png" width="32%" />
-</p>
-
-### Northampton Saints V La Rochelle on 2025/05/24
-
-
-Average Margin: Northampton Saints by 6.4
+Average Margin: Stade Toulousain by 13.7
 
 <p float="left">
-<img src="plots/performances_2025-04-11-NorthamptonSaints_V_LaRochelle.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-NorthamptonSaints_V_LaRochelle.png" width="32%" />
-<img src="plots/spreads_2025-04-11-NorthamptonSaints_V_LaRochelle.png" width="32%" />
-</p>
-
-### Bordeaux Begles V Castres Olympique on 2025/05/24
-
-
-Average Margin: Bordeaux Begles by 8.5
-
-<p float="left">
-<img src="plots/performances_2025-05-02-BordeauxBegles_V_CastresOlympique.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-BordeauxBegles_V_CastresOlympique.png" width="32%" />
-<img src="plots/spreads_2025-05-02-BordeauxBegles_V_CastresOlympique.png" width="32%" />
-</p>
-
-### Bordeaux Begles V Glasgow Warriors on 2025/05/24
-
-
-Average Margin: Bordeaux Begles by 3.7
-
-<p float="left">
-<img src="plots/performances_2025-04-11-BordeauxBegles_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-BordeauxBegles_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/spreads_2025-04-11-BordeauxBegles_V_GlasgowWarriors.png" width="32%" />
-</p>
-
-### Stade Toulousain V Glasgow Warriors on 2025/05/24
-
-
-Average Margin: Stade Toulousain by 8.0
-
-<p float="left">
-<img src="plots/performances_2025-04-11-StadeToulousain_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-StadeToulousain_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/spreads_2025-04-11-StadeToulousain_V_GlasgowWarriors.png" width="32%" />
-</p>
-
-### Northampton Saints V Castres Olympique on 2025/05/24
-
-
-Average Margin: Northampton Saints by 6.1
-
-<p float="left">
-<img src="plots/performances_2025-05-02-NorthamptonSaints_V_CastresOlympique.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-NorthamptonSaints_V_CastresOlympique.png" width="32%" />
-<img src="plots/spreads_2025-05-02-NorthamptonSaints_V_CastresOlympique.png" width="32%" />
-</p>
-
-### Leinster V Clermont Auvergne on 2025/05/24
-
-
-Average Margin: Leinster by 17.6
-
-<p float="left">
-<img src="plots/performances_2025-05-24-Leinster_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-Leinster_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/spreads_2025-05-24-Leinster_V_ClermontAuvergne.png" width="32%" />
-</p>
-
-### Bordeaux Begles V Toulon on 2025/05/24
-
-
-Average Margin: Bordeaux Begles by 5.3
-
-<p float="left">
-<img src="plots/performances_2025-05-02-BordeauxBegles_V_Toulon.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-BordeauxBegles_V_Toulon.png" width="32%" />
-<img src="plots/spreads_2025-05-02-BordeauxBegles_V_Toulon.png" width="32%" />
-</p>
-
-### Stade Toulousain V Castres Olympique on 2025/05/24
-
-
-Average Margin: Stade Toulousain by 13.5
-
-<p float="left">
-<img src="plots/performances_2025-05-02-StadeToulousain_V_CastresOlympique.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-StadeToulousain_V_CastresOlympique.png" width="32%" />
-<img src="plots/spreads_2025-05-02-StadeToulousain_V_CastresOlympique.png" width="32%" />
-</p>
-
-### Stade Toulousain V Northampton Saints on 2025/05/24
-
-
-Average Margin: Stade Toulousain by 11.8
-
-<p float="left">
-<img src="plots/performances_2025-05-02-StadeToulousain_V_NorthamptonSaints.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-StadeToulousain_V_NorthamptonSaints.png" width="32%" />
-<img src="plots/spreads_2025-05-02-StadeToulousain_V_NorthamptonSaints.png" width="32%" />
-</p>
-
-### Bordeaux Begles V Munster on 2025/05/24
-
-
-Average Margin: Bordeaux Begles by 5.7
-
-<p float="left">
-<img src="plots/performances_2025-04-11-BordeauxBegles_V_Munster.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-BordeauxBegles_V_Munster.png" width="32%" />
-<img src="plots/spreads_2025-04-11-BordeauxBegles_V_Munster.png" width="32%" />
-</p>
-
-### Stade Toulousain V Toulon on 2025/05/24
-
-
-Average Margin: Stade Toulousain by 9.9
-
-<p float="left">
-<img src="plots/performances_2025-04-11-StadeToulousain_V_Toulon.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-StadeToulousain_V_Toulon.png" width="32%" />
-<img src="plots/spreads_2025-04-11-StadeToulousain_V_Toulon.png" width="32%" />
-</p>
-
-### Leinster V Toulon on 2025/05/24
-
-
-Average Margin: Leinster by 11.4
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Leinster_V_Toulon.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Leinster_V_Toulon.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Leinster_V_Toulon.png" width="32%" />
-</p>
-
-### Leinster V Northampton Saints on 2025/05/24
-
-
-Average Margin: Leinster by 13.8
-
-<p float="left">
-<img src="plots/performances_2025-05-02-Leinster_V_NorthamptonSaints.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Leinster_V_NorthamptonSaints.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Leinster_V_NorthamptonSaints.png" width="32%" />
-</p>
-
-### Leinster V La Rochelle on 2025/05/24
-
-
-Average Margin: Leinster by 14.7
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Leinster_V_LaRochelle.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Leinster_V_LaRochelle.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Leinster_V_LaRochelle.png" width="32%" />
-</p>
-
-### Leinster V Munster on 2025/05/24
-
-
-Average Margin: Leinster by 10.3
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Leinster_V_Munster.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Leinster_V_Munster.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Leinster_V_Munster.png" width="32%" />
-</p>
-
-### Leinster V Glasgow Warriors on 2025/05/24
-
-
-Average Margin: Leinster by 9.4
-
-<p float="left">
-<img src="plots/performances_2025-04-11-Leinster_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-Leinster_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/spreads_2025-04-11-Leinster_V_GlasgowWarriors.png" width="32%" />
-</p>
-
-### Bordeaux Begles V Northampton Saints on 2025/05/24
-
-
-Average Margin: Bordeaux Begles by 6.8
-
-<p float="left">
-<img src="plots/performances_2025-05-02-BordeauxBegles_V_NorthamptonSaints.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-BordeauxBegles_V_NorthamptonSaints.png" width="32%" />
-<img src="plots/spreads_2025-05-02-BordeauxBegles_V_NorthamptonSaints.png" width="32%" />
-</p>
-
-### Northampton Saints V Toulon on 2025/05/24
-
-
-Average Margin: Northampton Saints by 2.2
-
-<p float="left">
-<img src="plots/performances_2025-04-11-NorthamptonSaints_V_Toulon.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-NorthamptonSaints_V_Toulon.png" width="32%" />
-<img src="plots/spreads_2025-04-11-NorthamptonSaints_V_Toulon.png" width="32%" />
-</p>
-
-### Stade Toulousain V La Rochelle on 2025/05/24
-
-
-Average Margin: Stade Toulousain by 12.3
-
-<p float="left">
-<img src="plots/performances_2025-04-11-StadeToulousain_V_LaRochelle.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-StadeToulousain_V_LaRochelle.png" width="32%" />
-<img src="plots/spreads_2025-04-11-StadeToulousain_V_LaRochelle.png" width="32%" />
-</p>
-
-### Castres Olympique V Glasgow Warriors on 2025/05/24
-
-
-Average Margin: Glasgow Warriors by 2.5
-
-<p float="left">
-<img src="plots/performances_2025-04-11-CastresOlympique_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-CastresOlympique_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/spreads_2025-04-11-CastresOlympique_V_GlasgowWarriors.png" width="32%" />
-</p>
-
-### Stade Toulousain V Munster on 2025/05/24
-
-
-Average Margin: Stade Toulousain by 9.7
-
-<p float="left">
-<img src="plots/performances_2025-04-11-StadeToulousain_V_Munster.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-StadeToulousain_V_Munster.png" width="32%" />
-<img src="plots/spreads_2025-04-11-StadeToulousain_V_Munster.png" width="32%" />
+<img src="plots/performances_2025-04-11-StadeToulousain_V_Saracens.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-StadeToulousain_V_Saracens.png" width="32%" />
+<img src="plots/spreads_2025-04-11-StadeToulousain_V_Saracens.png" width="32%" />
 </p>
 
 ### Stade Toulousain V Bordeaux Begles on 2025/05/24
 
 
-Average Margin: Stade Toulousain by 4.3
+Average Margin: Stade Toulousain by 5.2
 
 <p float="left">
 <img src="plots/performances_2025-05-24-StadeToulousain_V_BordeauxBegles.png" width="32%" />
@@ -1689,26 +1535,114 @@ Average Margin: Stade Toulousain by 4.3
 <img src="plots/spreads_2025-05-24-StadeToulousain_V_BordeauxBegles.png" width="32%" />
 </p>
 
-### Munster V Glasgow Warriors on 2025/05/24
+### Northampton Saints V Toulon on 2025/05/24
 
 
-Average Margin: Munster by 0.6
+Average Margin: Northampton Saints by 1.8
 
 <p float="left">
-<img src="plots/performances_2025-05-24-Munster_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-Munster_V_GlasgowWarriors.png" width="32%" />
-<img src="plots/spreads_2025-05-24-Munster_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/performances_2025-04-11-NorthamptonSaints_V_Toulon.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-NorthamptonSaints_V_Toulon.png" width="32%" />
+<img src="plots/spreads_2025-04-11-NorthamptonSaints_V_Toulon.png" width="32%" />
 </p>
 
-### Glasgow Warriors V Toulon on 2025/05/24
+### Bordeaux Begles V Leinster on 2025/05/24
 
 
-Average Margin: Glasgow Warriors by 8.5
+Average Margin: Leinster by 5.3
 
 <p float="left">
-<img src="plots/performances_2025-04-11-GlasgowWarriors_V_Toulon.png" width="32%" />
-<img src="plots/resultbar_2025-04-11-GlasgowWarriors_V_Toulon.png" width="32%" />
-<img src="plots/spreads_2025-04-11-GlasgowWarriors_V_Toulon.png" width="32%" />
+<img src="plots/performances_2025-05-02-BordeauxBegles_V_Leinster.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-BordeauxBegles_V_Leinster.png" width="32%" />
+<img src="plots/spreads_2025-05-02-BordeauxBegles_V_Leinster.png" width="32%" />
+</p>
+
+### Leinster V Toulon on 2025/05/24
+
+
+Average Margin: Leinster by 10.9
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Leinster_V_Toulon.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Leinster_V_Toulon.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Leinster_V_Toulon.png" width="32%" />
+</p>
+
+### Leinster V Glasgow Warriors on 2025/05/24
+
+
+Average Margin: Leinster by 12.7
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Leinster_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Leinster_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Leinster_V_GlasgowWarriors.png" width="32%" />
+</p>
+
+### Leinster V Munster on 2025/05/24
+
+
+Average Margin: Leinster by 11.5
+
+<p float="left">
+<img src="plots/performances_2025-04-11-Leinster_V_Munster.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-Leinster_V_Munster.png" width="32%" />
+<img src="plots/spreads_2025-04-11-Leinster_V_Munster.png" width="32%" />
+</p>
+
+### Northampton Saints V Castres Olympique on 2025/05/24
+
+
+Average Margin: Northampton Saints by 5.6
+
+<p float="left">
+<img src="plots/performances_2025-04-11-NorthamptonSaints_V_CastresOlympique.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-NorthamptonSaints_V_CastresOlympique.png" width="32%" />
+<img src="plots/spreads_2025-04-11-NorthamptonSaints_V_CastresOlympique.png" width="32%" />
+</p>
+
+### Leinster V La Rochelle on 2025/05/24
+
+
+Average Margin: Leinster by 13.7
+
+<p float="left">
+<img src="plots/performances_2025-05-24-Leinster_V_LaRochelle.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-Leinster_V_LaRochelle.png" width="32%" />
+<img src="plots/spreads_2025-05-24-Leinster_V_LaRochelle.png" width="32%" />
+</p>
+
+### Bordeaux Begles V Castres Olympique on 2025/05/24
+
+
+Average Margin: Bordeaux Begles by 9.0
+
+<p float="left">
+<img src="plots/performances_2025-05-02-BordeauxBegles_V_CastresOlympique.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-BordeauxBegles_V_CastresOlympique.png" width="32%" />
+<img src="plots/spreads_2025-05-02-BordeauxBegles_V_CastresOlympique.png" width="32%" />
+</p>
+
+### Leinster V Northampton Saints on 2025/05/24
+
+
+Average Margin: Leinster by 13.9
+
+<p float="left">
+<img src="plots/performances_2025-05-02-Leinster_V_NorthamptonSaints.png" width="32%" />
+<img src="plots/resultbar_2025-05-02-Leinster_V_NorthamptonSaints.png" width="32%" />
+<img src="plots/spreads_2025-05-02-Leinster_V_NorthamptonSaints.png" width="32%" />
+</p>
+
+### Bordeaux Begles V Glasgow Warriors on 2025/05/24
+
+
+Average Margin: Bordeaux Begles by 5.0
+
+<p float="left">
+<img src="plots/performances_2025-04-11-BordeauxBegles_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/resultbar_2025-04-11-BordeauxBegles_V_GlasgowWarriors.png" width="32%" />
+<img src="plots/spreads_2025-04-11-BordeauxBegles_V_GlasgowWarriors.png" width="32%" />
 </p>
 
 # Completed Match Review
@@ -1716,27 +1650,27 @@ Average Margin: Glasgow Warriors by 8.5
 
 | Match                                              |   Result |   Lineup Prediction |   Minutes Prediction |   Club Prediction |
 |:---------------------------------------------------|---------:|--------------------:|---------------------:|------------------:|
-| Clermont Auvergne V Benetton Treviso on 2024/12/07 |       28 |                -3.8 |                  0.3 |               6.8 |
-| Stormers V Toulon on 2024/12/07                    |      -10 |                -2.6 |                 -5.7 |               3.7 |
-| Saracens V Bulls on 2024/12/07                     |       22 |                -4.9 |                -26.1 |               1.6 |
-| Racing 92 V Harlequins on 2024/12/07               |       11 |                 9.7 |                  3.8 |               3.2 |
-| Leicester Tigers V Sharks on 2024/12/14            |       39 |                 5.8 |                  0.9 |               7.1 |
-| Leinster V Clermont Auvergne on 2024/12/14         |        8 |                13.8 |                  8.2 |              14   |
-| La Rochelle V Bristol Rugby on 2024/12/14          |       28 |                17   |                 18.9 |               3.7 |
+| Clermont Auvergne V Benetton Treviso on 2024/12/07 |       28 |                -3.4 |                  0.5 |               6.8 |
+| Stormers V Toulon on 2024/12/07                    |      -10 |                -2.8 |                 -5.8 |               3.7 |
+| Saracens V Bulls on 2024/12/07                     |       22 |                -4.7 |                -26.3 |               1.6 |
+| Racing 92 V Harlequins on 2024/12/07               |       11 |                 9.5 |                  3.5 |               3.2 |
+| Leicester Tigers V Sharks on 2024/12/14            |       39 |                 5.8 |                  1.1 |               7.1 |
+| Leinster V Clermont Auvergne on 2024/12/14         |        8 |                13.3 |                  7.9 |              14   |
+| La Rochelle V Bristol Rugby on 2024/12/14          |       28 |                17.1 |                 18.9 |               3.7 |
 | Benetton Treviso V Bath Rugby on 2024/12/15        |        1 |                -2.8 |                 -5.7 |              -2.2 |
-| Stade Francais Paris V Saracens on 2024/12/15      |      -11 |                -9.2 |                 22.9 |               0.1 |
+| Stade Francais Paris V Saracens on 2024/12/15      |      -11 |                -9.3 |                 23.4 |               0.1 |
 | Sharks V Stade Toulousain on 2025/01/11            |      -12 |               -18.7 |                -17.8 |              -4   |
-| Castres Olympique V Bulls on 2025/01/11            |       39 |                 1.3 |                 -2.1 |              -1.3 |
-| Toulon V Harlequins on 2025/01/12                  |       12 |                20.7 |                 24.1 |               6.9 |
-| Bristol Rugby V Benetton Treviso on 2025/01/12     |        6 |                 5.4 |                  5.4 |               8.7 |
-| Bulls V Stade Francais Paris on 2025/01/18         |       41 |                14.7 |                 12.5 |              10.6 |
-| Clermont Auvergne V Bristol Rugby on 2025/01/18    |        7 |                -7.7 |                 -4.2 |               3.4 |
-| Harlequins V Glasgow Warriors on 2025/01/18        |       17 |               -22.9 |                -13.4 |              -0.3 |
-| Leinster V Bath Rugby on 2025/01/18                |       26 |                 6.6 |                 13.8 |              10.1 |
-| Racing 92 V Stormers on 2025/01/18                 |        9 |                -4.8 |                  2.8 |               3.5 |
-| Bordeaux Begles V Sharks on 2025/01/19             |       54 |                16.9 |                 10.2 |               9.7 |
-| Saracens V Castres Olympique on 2025/01/19         |       -8 |                25.4 |                 14.5 |              10.1 |
-| Stade Toulousain V Leicester Tigers on 2025/01/19  |       68 |                23.2 |                 14.6 |              11.7 |
+| Castres Olympique V Bulls on 2025/01/11            |       39 |                 1.5 |                 -2   |              -1.3 |
+| Toulon V Harlequins on 2025/01/12                  |       12 |                21.3 |                 24.6 |               6.9 |
+| Bristol Rugby V Benetton Treviso on 2025/01/12     |        6 |                 5.6 |                  5.3 |               8.7 |
+| Bulls V Stade Francais Paris on 2025/01/18         |       41 |                14.4 |                 12.4 |              10.6 |
+| Clermont Auvergne V Bristol Rugby on 2025/01/18    |        7 |                -7.9 |                 -3.8 |               3.4 |
+| Harlequins V Glasgow Warriors on 2025/01/18        |       17 |               -23.1 |                -13.6 |              -0.3 |
+| Leinster V Bath Rugby on 2025/01/18                |       26 |                 6.2 |                 13.5 |              10.1 |
+| Racing 92 V Stormers on 2025/01/18                 |        9 |                -4.8 |                  2.9 |               3.5 |
+| Bordeaux Begles V Sharks on 2025/01/19             |       54 |                16.7 |                  9.8 |               9.7 |
+| Saracens V Castres Olympique on 2025/01/19         |       -8 |                25.6 |                 14.5 |              10.1 |
+| Stade Toulousain V Leicester Tigers on 2025/01/19  |       68 |                23.6 |                 14.8 |              11.7 |
 
 
 
@@ -1747,7 +1681,7 @@ Average Margin: Glasgow Warriors by 8.5
 | ------ | ------ | ------ |
 | Club Level | 77.1% | 17.6 |
 | Player Level: Lineup | 66.7% | 19.3 |
-| Player Level: Minutes | 66.7% | 21.1 |
+| Player Level: Minutes | 66.7% | 21.2 |
 
 
 

@@ -11,7 +11,7 @@ categories: "Six Nations Championship 2025" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.724, which translates to predicting France to win by 8.7.
 
-Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 21 to 30
+Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 21 to 29
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: France by 11.0
+## Prediction without Player Minutes: France by 8.6
 
 
-France by 4.9 on a neutral pitch
+France by 2.5 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ France by 4.9 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             52 | Pierre Schoeman     |             63.37 |        1 |             98.64 | Jean-Baptiste Gros   |             12 |
-|             79 | Dave Cherry         |             62.31 |        2 |             94.49 | Peato Mauvaka        |             13 |
-|             80 | Zander Fagerson     |             99.44 |        3 |             99.04 | Uini Atonio          |             27 |
-|             80 | Gregor Brown        |             51.47 |        4 |             95.92 | Thibaud Flament      |             18 |
-|             80 | Grant Gilchrist     |             95.16 |        5 |             76.26 | Mickael Guillard     |             71 |
-|             68 | Jamie Ritchie       |             99.62 |        6 |             97.42 | Francois Cros        |             62 |
-|             29 | Rory Darge          |             90.25 |        7 |              7.36 | Paul Boudehent       |              0 |
-|             67 | Matt Fagerson       |             95.7  |        8 |             99.39 | Gregory Alldritt     |             15 |
-|             47 | Ben White           |             85.69 |        9 |             98.78 | Maxime Lucu          |             19 |
-|             21 | Finn Russell        |             99.58 |       10 |             96.82 | Romain Ntamack       |              9 |
-|             21 | Duhan van der Merwe |             83.86 |       11 |             89.21 | Louis Bielle-Biarrey |             62 |
-|             33 | Tom Jordan          |             38.64 |       12 |             92.46 | Yoram Moefana        |             25 |
-|             80 | Huw Jones           |             71.8  |       13 |             98.35 | Gael Fickou          |             80 |
-|             51 | Darcy Graham        |             23.45 |       14 |             96.72 | Damian Penaud        |              9 |
-|             80 | Blair Kinghorn      |             99.8  |       15 |             95.71 | Thomas Ramos         |              1 |
-|             80 | Ewan Ashman         |             63.34 |       16 |             94.01 | Dorian Aldegheri     |             71 |
-|             66 | Marshall Sykes      |             32.95 |       17 |             99.8  | Anthony Jelonch      |             59 |
-|             80 | Ben Muncaster       |             42.01 |       18 |             70.08 | Oscar Jegou          |             80 |
-|             59 | Jamie Dobie         |             83.6  |       19 |             99.14 | Julien Marchand      |             25 |
-|             80 | Stafford McDowall   |             90.91 |       20 |             97.37 | Cyril Baille         |              0 |
-|             73 | Rory Sutherland     |             50.2  |       21 |             77.68 | Emmanuel Meafou      |             67 |
-|             80 | Ewan Johnson        |             28.58 |       22 |             59.92 | Hugo Auradou         |             80 |
-|            nan | nan                 |            nan    |       23 |             79.93 | Nolann Le Garrec     |             29 |
+|           80   | Pierre Schoeman     |             74.06 |        1 |             98.5  | Jean-Baptiste Gros   |             15 |
+|           15   | Dave Cherry         |             78.42 |        2 |             94.35 | Peato Mauvaka        |             18 |
+|           18   | Zander Fagerson     |             99.7  |        3 |             98.87 | Uini Atonio          |             25 |
+|           69   | Gregor Brown        |             68.57 |        4 |             91.14 | Thibaud Flament      |             19 |
+|           25   | Grant Gilchrist     |             96.95 |        5 |             64.67 | Mickael Guillard     |             55 |
+|           25   | Jamie Ritchie       |             99.91 |        6 |             96.04 | Francois Cros        |             53 |
+|           61   | Rory Darge          |             92.55 |        7 |              9.34 | Paul Boudehent       |             80 |
+|           80   | Matt Fagerson       |             96.6  |        8 |             98.8  | Gregory Alldritt     |             65 |
+|           55   | Ben White           |             95.7  |        9 |             99.31 | Maxime Lucu          |             80 |
+|            0   | Finn Russell        |             99.79 |       10 |             96.79 | Romain Ntamack       |              0 |
+|           25   | Duhan van der Merwe |             91.92 |       11 |             77.91 | Louis Bielle-Biarrey |             19 |
+|            0   | Tom Jordan          |             48.17 |       12 |             90.02 | Yoram Moefana        |              6 |
+|           55   | Huw Jones           |             81.87 |       13 |             98.57 | Gael Fickou          |             80 |
+|           80   | Darcy Graham        |             36.28 |       14 |             97.74 | Damian Penaud        |             62 |
+|           25   | Blair Kinghorn      |            100    |       15 |             94.5  | Thomas Ramos         |             25 |
+|           74   | Ewan Ashman         |             67.47 |       16 |             98.8  | Julien Marchand      |             65 |
+|           12.5 | Rory Sutherland     |             32.78 |       17 |             97.14 | Cyril Baille         |             80 |
+|           80   | Will Hurd           |             52.48 |       18 |             91.88 | Dorian Aldegheri     |             80 |
+|           80   | Ewan Johnson        |             48.86 |       19 |             51.24 | Hugo Auradou         |             40 |
+|           80   | Marshall Sykes      |             47.9  |       20 |             78.67 | Emmanuel Meafou      |             80 |
+|           12.5 | Ben Muncaster       |             42.6  |       21 |             61.79 | Oscar Jegou          |             80 |
+|           40   | Jamie Dobie         |             84.51 |       22 |             99    | Anthony Jelonch      |             62 |
+|           80   | Stafford McDowall   |             91.04 |       23 |             80.9  | Nolann Le Garrec     |             80 |
 

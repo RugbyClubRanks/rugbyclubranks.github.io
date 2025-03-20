@@ -11,7 +11,7 @@ categories: "Super Rugby Pacific 2025" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.789, which translates to predicting Queensland Reds to win by 12.0.
 
-Our Over/Under is 60.5 - and combined with the spread above, we have a predicted scoreline of 24 to 36
+Our Over/Under is 62.5 - and combined with the spread above, we have a predicted scoreline of 25 to 37
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Queensland Reds by 9.9
+## Prediction without Player Minutes: New South Wales Waratahs by 0.1
 
 
-Queensland Reds by 1.7 on a neutral pitch
+New South Wales Waratahs by 8.3 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,30 +69,36 @@ Queensland Reds by 1.7 on a neutral pitch
 
 |   Away Minutes | Away Player      |   Away Percentile |   Number |   Home Percentile | Home Player               |   Home Minutes |
 |---------------:|:-----------------|------------------:|---------:|------------------:|:--------------------------|---------------:|
-|             25 | Angus Bell       |             83.24 |        1 |             61.69 | Sef Fa'agase              |              8 |
-|             73 | Angus Bell       |             83.24 |        1 |             61.69 | Sef Fa'agase              |              8 |
-|             80 | Angus Bell       |             83.24 |        1 |             61.69 | Sef Fa'agase              |              8 |
-|             25 | Dave Porecki     |             83.13 |        2 |             77.97 | Matt Faessler             |             23 |
-|             80 | Taniela Tupou    |             93.22 |        3 |             82.12 | Zane Nonggorr             |             39 |
-|              9 | Hugh Sinclair    |              8.83 |        4 |             19.09 | Josh Canham               |             40 |
-|             51 | Ben Grant        |             97.91 |        5 |             25.55 | Ryan Smith                |             66 |
-|             54 | Rob Leota        |              1.91 |        6 |             76.2  | Seru Uru                  |             80 |
-|             23 | Charlie Gamble   |             54.78 |        7 |             95.79 | Fraser McReight           |             80 |
-|             66 | Leafi Talataina  |             28.89 |        8 |             61.27 | Harry Wilson              |             80 |
-|             66 | Leafi Talataina  |             28.89 |        8 |             61.27 | Harry Wilson              |             40 |
-|              8 | Teddy Wilson     |             41.54 |        9 |             77.31 | Tate McDermott            |              0 |
-|             50 | Lawson Creighton |              5.73 |       10 |             84.08 | Tom Lynagh                |             51 |
-|             63 | Max Jorgensen    |             40.62 |       11 |             69.61 | Tim Ryan                  |             80 |
-|             21 | Joey Walton      |             50.52 |       12 |             84.09 | Hunter Paisami            |             66 |
-|             40 | Henry O'Donnell  |             34.92 |       13 |             96.69 | Filipo Daugunu            |             59 |
-|             40 | Triston Reilly   |             24.95 |       14 |             75.05 | Lachie Anderson           |             50 |
-|              7 | Andrew Kellaway  |             29.39 |       15 |             17.96 | Heremaia Murray           |             66 |
-|             63 | Langi Gleeson    |             68.44 |       16 |             69.59 | Alex Hodgman              |              0 |
-|             80 | Sifa Amone       |            nan    |       17 |            nan    | Richie Asiata             |             17 |
-|             29 | Mahe Vailanu     |             16.18 |       18 |             29.3  | Joe Brial                 |             50 |
-|              0 | Felix Kalapu     |             61.92 |       19 |             91.38 | Jeff Toomaga-Allen        |             14 |
-|             19 | Jack Grant       |            nan    |       20 |             92.02 | Angus Blyth               |              5 |
-|             66 | Jamie Adamson    |            nan    |       21 |             82.02 | Kalani Thomas             |             17 |
-|             80 | Tom Lambert      |            nan    |       22 |            nan    | Dre Pakeho                |             14 |
-|              9 | Tane Edmed       |              7.64 |       23 |             63.69 | Harry McLaughlin-Phillips |             80 |
+|           80   | Angus Bell       |             80.3  |        1 |             75.64 | Sef Fa'agase              |             21 |
+|           29   | Angus Bell       |             80.3  |        1 |             75.64 | Sef Fa'agase              |             21 |
+|           37   | Angus Bell       |             80.3  |        1 |             75.64 | Sef Fa'agase              |             21 |
+|           34   | Angus Bell       |             80.3  |        1 |             75.64 | Sef Fa'agase              |             21 |
+|           18   | Angus Bell       |             80.3  |        1 |             75.64 | Sef Fa'agase              |             21 |
+|           21   | Angus Bell       |             80.3  |        1 |             75.64 | Sef Fa'agase              |             21 |
+|           65   | Angus Bell       |             80.3  |        1 |             75.64 | Sef Fa'agase              |             21 |
+|           17   | Angus Bell       |             80.3  |        1 |             75.64 | Sef Fa'agase              |             21 |
+|           10.5 | Angus Bell       |             80.3  |        1 |             75.64 | Sef Fa'agase              |             21 |
+|           63   | Dave Porecki     |             64.73 |        2 |             73.46 | Matt Faessler             |              0 |
+|           69   | Taniela Tupou    |             90.23 |        3 |             90.15 | Zane Nonggorr             |             71 |
+|           72   | Hugh Sinclair    |              3.24 |        4 |             24.1  | Josh Canham               |             40 |
+|           80   | Ben Grant        |             97.05 |        5 |             39.62 | Ryan Smith                |             63 |
+|           18   | Rob Leota        |              1.79 |        6 |             80.75 | Seru Uru                  |             59 |
+|           54   | Charlie Gamble   |             23.68 |        7 |             95.19 | Fraser McReight           |             18 |
+|           54   | Leafi Talataina  |             18.2  |        8 |             26.4  | Harry Wilson              |             80 |
+|           54   | Leafi Talataina  |             18.2  |        8 |             26.4  | Harry Wilson              |             71 |
+|           54   | Teddy Wilson     |             15.15 |        9 |             79.69 | Tate McDermott            |             14 |
+|           80   | Lawson Creighton |              3.21 |       10 |             81.84 | Tom Lynagh                |              9 |
+|           11   | Max Jorgensen    |             48.31 |       11 |             45.68 | Tim Ryan                  |             59 |
+|           43   | Joey Walton      |             28.21 |       12 |             82.99 | Hunter Paisami            |             15 |
+|           28.5 | Henry O'Donnell  |             30.45 |       13 |             96.84 | Filipo Daugunu            |             26 |
+|            0   | Triston Reilly   |             32.14 |       14 |             87.12 | Lachie Anderson           |             80 |
+|           17   | Andrew Kellaway  |             22.59 |       15 |             21.81 | Heremaia Murray           |             15 |
+|           80   | Mahe Vailanu     |             15.58 |       16 |            nan    | Richie Asiata             |              0 |
+|           72   | Tom Lambert      |            nan    |       17 |             76.54 | Alex Hodgman              |             21 |
+|           54   | Siosifa Amone    |            nan    |       18 |             92.63 | Jeff Toomaga-Allen        |             26 |
+|           28.5 | Felix Kalapu     |             62.57 |       19 |             93.71 | Angus Blyth               |              0 |
+|           80   | Jamie Adamson    |            nan    |       20 |             22    | Joe Brial                 |             66 |
+|           60   | Langi Gleeson    |             66.8  |       21 |             84.17 | Kalani Thomas             |             80 |
+|            0   | Jack Grant       |            nan    |       22 |             62.39 | Harry McLaughlin-Phillips |             80 |
+|           52   | Tane Edmed       |              7.91 |       23 |            nan    | Dre Pakeho                |             26 |
 
