@@ -12,19 +12,19 @@ key: page-recents
 
 Competition Accuracy: 14 of 20 (70.0%)
 
-Competition Error: 27.29 points per match
+Competition Error: 27.3 points per match
 
 Last Round Accuracy: 2 of 4 (50.0%)
 
-Last Round Error: 16.51 points per match
+Last Round Error: 16.4 points per match
 
 [2025-03-15 Belgium at Netherlands; 31-10](reviews//2025-03-15-Netherlands-Belgium)
 
 [2025-03-15 Switzerland at Germany; 20-17](reviews//2025-03-15-Germany-Switzerland)
 
-[2025-03-16 Spain at Georgia; 28-46](reviews//2025-03-16-Georgia-Spain)
-
 [2025-03-16 Romania at Portugal; 21-7](reviews//2025-03-16-Portugal-Romania)
+
+[2025-03-16 Spain at Georgia; 28-46](reviews//2025-03-16-Georgia-Spain)
 ## Six Nations Championship
 
 
@@ -32,7 +32,7 @@ Last Round Error: 16.51 points per match
 
 Competition Accuracy: 12 of 15 (80.0%)
 
-Competition Error: 14.62 points per match
+Competition Error: 12.85 points per match
 
 Last Round Accuracy: 3 of 3 (100.0%)
 
@@ -40,9 +40,9 @@ Last Round Error: 21.46 points per match
 
 [2025-03-15 Scotland at France; 16-35](reviews//2025-03-15-France-Scotland)
 
-[2025-03-15 England at Wales; 68-14](reviews//2025-03-15-Wales-England)
-
 [2025-03-15 Ireland at Italy; 22-17](reviews//2025-03-15-Italy-Ireland)
+
+[2025-03-15 England at Wales; 68-14](reviews//2025-03-15-Wales-England)
 # Top Flight Leagues
 
 ## Allianz Premier 15s
@@ -78,9 +78,9 @@ Last Round Error: 13.99 points per match
 
 [2025-03-15 Mie Honda Heat at Kobelco Kobe Steelers; 5-47](reviews//2025-03-15-KobelcoKobeSteelers-MieHondaHeat)
 
-[2025-03-15 Saitama Wild Knights at Shizuoka Blue Revs; 17-22](reviews//2025-03-15-ShizuokaBlueRevs-SaitamaWildKnights)
-
 [2025-03-15 Toshiba Brave Lupus at Toyota Verblitz; 33-22](reviews//2025-03-15-ToyotaVerblitz-ToshibaBraveLupus)
+
+[2025-03-15 Saitama Wild Knights at Shizuoka Blue Revs; 17-22](reviews//2025-03-15-ShizuokaBlueRevs-SaitamaWildKnights)
 
 [2025-03-16 Tokyo Sungoliath at Mitsubishi Dynaboars; 22-34](reviews//2025-03-16-MitsubishiDynaboars-TokyoSungoliath)
 ## Major League Rugby
@@ -88,21 +88,21 @@ Last Round Error: 13.99 points per match
 
 [In depth model review and projections for Major League Rugby 2025](comp_files/Major_League_Rugby_2025)
 
-Competition Accuracy: 17 of 23 (73.91%)
+Competition Accuracy: 17 of 22 (77.27%)
 
-Competition Error: 12.72 points per match
+Competition Error: 12.15 points per match
 
-Last Round Accuracy: 4 of 6 (66.67%)
+Last Round Accuracy: 5 of 6 (83.33%)
 
-Last Round Error: 8.34 points per match
-
-[2025-03-15 Seattle Seawolves at RFC Los Angeles; 29-35](reviews//2025-03-15-RFCLosAngeles-SeattleSeawolves)
+Last Round Error: 7.68 points per match
 
 [2025-03-15 Old Glory DC at Chicago Hounds; 26-30](reviews//2025-03-15-ChicagoHounds-OldGloryDC)
 
-[2025-03-15 NOLA Gold at New England Free Jacks; 31-35](reviews//2025-03-15-NewEnglandFreeJacks-NOLAGold)
+[2025-03-15 Seattle Seawolves at RFC Los Angeles; 29-35](reviews//2025-03-15-RFCLosAngeles-SeattleSeawolves)
 
 [2025-03-15 Utah Warriors at Miami Sharks; 36-19](reviews//2025-03-15-MiamiSharks-UtahWarriors)
+
+[2025-03-15 NOLA Gold at New England Free Jacks; 31-35](reviews//2025-03-15-NewEnglandFreeJacks-NOLAGold)
 ## Premiership Rugby Cup
 
 
@@ -112,9 +112,9 @@ Competition Accuracy: 53 of 67 (79.1%)
 
 Competition Error: 17.82 points per match
 
-Last Round Accuracy: 6 of 10 (60.0%)
+Last Round Accuracy: 7 of 10 (70.0%)
 
-Last Round Error: 13.72 points per match
+Last Round Error: 16.82 points per match
 
 [2025-03-16 Bath Rugby at Exeter Chiefs; 48-14](reviews//2025-03-16-ExeterChiefs-BathRugby)
 ## Super Rugby Americas
@@ -140,13 +140,13 @@ Last Round Error: 20.24 points per match
 
 [In depth model review and projections for Super Rugby Pacific 2025](comp_files/Super_Rugby_Pacific_2025)
 
-Competition Accuracy: 18 of 29 (62.07%)
+Competition Accuracy: 21 of 29 (72.41%)
 
-Competition Error: 11.27 points per match
+Competition Error: 10.0 points per match
 
-Last Round Accuracy: 2 of 6 (33.33%)
+Last Round Accuracy: 5 of 6 (83.33%)
 
-Last Round Error: 14.73 points per match
+Last Round Error: 8.2 points per match
 
 [2025-03-14 Western Force at Crusaders; 33-55](reviews//2025-03-14-Crusaders-WesternForce)
 
@@ -154,9 +154,11 @@ Last Round Error: 14.73 points per match
 
 [2025-03-14 Hurricanes at Highlanders; 20-18](reviews//2025-03-14-Highlanders-Hurricanes)
 
+[2025-03-15 New South Wales Waratahs at Queensland Reds; 15-35](reviews//2025-03-15-QueenslandReds-NewSouthWalesWaratahs)
+
 [2025-03-15 Blues at Chiefs; 31-32](reviews//2025-03-15-Chiefs-Blues)
 
-[2025-03-15 New South Wales Waratahs at Queensland Reds; 15-35](reviews//2025-03-15-QueenslandReds-NewSouthWalesWaratahs)
+[2025-03-21 Chiefs at Moana Pasifika; 50-35](reviews//2025-03-21-MoanaPasifika-Chiefs)
 # Domestic Leagues
 
 ## Japan Rugby League One D2
@@ -166,19 +168,19 @@ Last Round Error: 14.73 points per match
 
 Competition Accuracy: 20 of 32 (62.5%)
 
-Competition Error: 16.01 points per match
+Competition Error: 16.14 points per match
 
 Last Round Accuracy: 4 of 4 (100.0%)
 
-Last Round Error: 5.19 points per match
-
-[2025-03-15 Hanazono Kintetsu Liners at Shimizu Blue Sharks; 17-10](reviews//2025-03-15-ShimizuBlueSharks-HanazonoKintetsuLiners)
+Last Round Error: 5.6 points per match
 
 [2025-03-15 Hino Red Dolphins at Kamaishi Seawaves; 41-39](reviews//2025-03-15-KamaishiSeawaves-HinoRedDolphins)
 
 [2025-03-15 Green Rockets Tokatsu at Kyuden Voltex; 35-30](reviews//2025-03-15-KyudenVoltex-GreenRocketsTokatsu)
 
 [2025-03-15 Toyota Shuttles Aichi at Red Hurricanes Osaka; 21-7](reviews//2025-03-15-RedHurricanesOsaka-ToyotaShuttlesAichi)
+
+[2025-03-15 Hanazono Kintetsu Liners at Shimizu Blue Sharks; 17-10](reviews//2025-03-15-ShimizuBlueSharks-HanazonoKintetsuLiners)
 ## Japan Rugby League One D3
 
 

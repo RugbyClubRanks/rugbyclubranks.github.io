@@ -11,7 +11,7 @@ categories: "Japan Rugby League One 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.804, which translates to predicting Yokohama Canon Eagles to win by 12.6.
 
-Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 21 to 33
+Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 20 to 32
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Yokohama Canon Eagles by 9.1
+## Prediction without Player Minutes: Yokohama Canon Eagles by 10.9
 
 
-Yokohama Canon Eagles by 4.8 on a neutral pitch
+Yokohama Canon Eagles by 6.5 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,29 +69,29 @@ Yokohama Canon Eagles by 4.8 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|           25   | Taishi Tsumura     |             49.02 |        1 |             96.62 | Takato Okabe       |            2   |
-|           62   | Shin Ouchi         |             71.75 |        2 |             89.55 | Shunta Nakamura    |           28   |
-|           58   | Paddy Ryan         |             99.4  |        3 |              9.4  | Tatsuro Sugimoto   |           80   |
-|           60   | Paddy Ryan         |             99.4  |        3 |              9.4  | Tatsuro Sugimoto   |           80   |
-|           63   | Paddy Ryan         |             99.4  |        3 |              9.4  | Tatsuro Sugimoto   |           80   |
-|           79   | Pohiva Lotoahea    |             91.05 |        4 |              5.24 | Liaki Moli         |           80   |
-|           32   | Harrison Fox       |             61.24 |        5 |             38.86 | Matt Philip        |           58   |
-|           80   | Mike Stolberg      |              2.55 |        6 |             33.87 | Billy Harmon       |           19   |
-|           80   | Liam Gill          |             87.92 |        7 |             59.81 | Naoto Shimada      |           80   |
-|           58   | Amato Fakatava     |             11.2  |        8 |             95.8  | Amanaki Mafi       |           80   |
-|           66   | TJ Perenara        |             97.25 |        9 |             92.25 | Faf de Klerk       |           80   |
-|           34.5 | Ichigo Nakakusu    |             54.49 |       10 |             80.77 | Yu Tamura          |           80   |
-|           48   | Netani Vakayalia   |             70.02 |       11 |             95.39 | Viliame Takayawa   |            8   |
-|           80   | Yuki Ikeda         |             61.61 |       12 |             96.33 | Yusuke Kajimura    |           80   |
-|           55   | Penieli Jr Latu    |             50.51 |       13 |             98.88 | Jesse Kriel        |           30.5 |
-|           31   | Semisi Tupou       |             42.58 |       14 |             35.24 | Kippei Ishida      |           63   |
-|           80   | Taira Main         |             60.9  |       15 |             97.05 | Jumpei Ogura       |           80   |
-|           75   | Reijiro Yamamoto   |             30.29 |       16 |             71.43 | Kafazumi Yamasuga  |           80   |
-|            5   | Yuichiro Taniguchi |            nan    |       17 |             86.05 | Brendan Owen       |           80   |
-|           25   | Masaaki Onishi     |             61.82 |       18 |             68.84 | Yusuke Niwai       |           80   |
-|            5   | Daigo Sasagawa     |            nan    |       19 |             79.32 | Ryosuke Iwaihara   |           38   |
-|           48   | Brodi McCurran     |             64.72 |       20 |            nan    | Tom Jeffries       |           34.5 |
-|           30.5 | Ryohei Isoda       |             72.61 |       21 |             59.12 | Masayoshi Takezawa |           32   |
-|          nan   | nan                |            nan    |       22 |            nan    | Tomoki Minami      |           22   |
-|          nan   | nan                |            nan    |       23 |             64.53 | Masato Furukawa    |           42   |
+|             74 | Taishi Tsumura     |             46.2  |        1 |             93.65 | Takato Okabe       |           66   |
+|              0 | Shin Ouchi         |             65.66 |        2 |             87.54 | Shunta Nakamura    |           60   |
+|             68 | Paddy Ryan         |             99.92 |        3 |              2.35 | Tatsuro Sugimoto   |           59   |
+|             40 | Paddy Ryan         |             99.92 |        3 |              2.35 | Tatsuro Sugimoto   |           59   |
+|             80 | Paddy Ryan         |             99.92 |        3 |              2.35 | Tatsuro Sugimoto   |           59   |
+|             80 | Pohiva Lotoahea    |             90.98 |        4 |              4    | Liaki Moli         |           50   |
+|             80 | Harrison Fox       |             55.63 |        5 |             31.63 | Matt Philip        |           30.5 |
+|             20 | Mike Stolberg      |              3.08 |        6 |             16.42 | Billy Harmon       |           61   |
+|             25 | Liam Gill          |             88.34 |        7 |             39.55 | Naoto Shimada      |           80   |
+|             80 | Amato Fakatava     |             23.93 |        8 |             96.69 | Amanaki Mafi       |           53   |
+|             33 | TJ Perenara        |             97.76 |        9 |             92.93 | Faf de Klerk       |           30.5 |
+|             20 | Ichigo Nakakusu    |             45.53 |       10 |             74.04 | Yu Tamura          |           21   |
+|             34 | Netani Vakayalia   |             70.13 |       11 |             94.19 | Viliame Takayawa   |           72   |
+|             20 | Yuki Ikeda         |             68.8  |       12 |             95.8  | Yusuke Kajimura    |           80   |
+|             80 | Penieli Jr Latu    |             59.4  |       13 |             98.9  | Jesse Kriel        |           19   |
+|              0 | Semisi Tupou       |             16.29 |       14 |             21.72 | Kippei Ishida      |           80   |
+|              0 | Taira Main         |             42.68 |       15 |             95.73 | Jumpei Ogura       |           80   |
+|             20 | Reijiro Yamamoto   |             42.88 |       16 |             72.76 | Kafazumi Yamasuga  |           80   |
+|              0 | Yuichiro Taniguchi |            nan    |       17 |             86.38 | Brendan Owen       |           40   |
+|              6 | Masaaki Onishi     |             61.11 |       18 |             69.53 | Yusuke Niwai       |           80   |
+|             60 | Daigo Sasagawa     |            nan    |       19 |             64.31 | Ryosuke Iwaihara   |           30   |
+|             46 | Brodi McCurran     |             66.32 |       20 |            nan    | Tom Jeffries       |           30   |
+|             53 | Ryohei Isoda       |             69.6  |       21 |             64.04 | Masayoshi Takezawa |           19   |
+|            nan | nan                |            nan    |       22 |            nan    | Tomoki Minami      |           20   |
+|            nan | nan                |            nan    |       23 |             65.39 | Masato Furukawa    |           64   |
 

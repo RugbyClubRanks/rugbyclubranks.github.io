@@ -9,9 +9,9 @@ categories: "Major League Rugby 2025" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.77, which translates to predicting New England Free Jacks to win by 10.9.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.771, which translates to predicting New England Free Jacks to win by 11.0.
 
-Our Over/Under is 63.5 - and combined with the spread above, we have a predicted scoreline of 26 to 37
+Our Over/Under is 61.5 - and combined with the spread above, we have a predicted scoreline of 25 to 36
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: New England Free Jacks by 9.5
+## Prediction without Player Minutes: New England Free Jacks by 10.4
 
 
-New England Free Jacks by 6.6 on a neutral pitch
+New England Free Jacks by 7.6 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ New England Free Jacks by 6.6 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player             |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:------------------------|---------------:|
-|             56 | Matthew Harmon       |             27.44 |        1 |             18.35 | Malakai Hala-Ngatai     |             21 |
-|             80 | Alex Lopeti          |             56.16 |        2 |              3.6  | Andrew Quattrin         |             80 |
-|             12 | Isaac Salmon         |             67.52 |        3 |             68.12 | Jone Koroiduadua        |             56 |
-|             35 | Chase Jones          |             47.62 |        4 |             45.05 | Jeronimo Gomez Vara     |             80 |
-|             35 | William Waguespack   |             65.9  |        5 |              1.81 | Sam Caird               |             80 |
-|             80 | Malcolm May          |             45.66 |        6 |             79.81 | Jed Melvin              |             30 |
-|             24 | Jonah Mau'u          |             72.83 |        7 |             81.23 | Joe Johnston            |             24 |
-|             80 | Tupou Ma'afu-Afungia |             23.2  |        8 |             96    | Wian Conradie           |             68 |
-|              8 | Ruben de Haas        |             35.8  |        9 |             65.23 | Oscar Lennon            |             80 |
-|             80 | Luke Carty           |             29.7  |       10 |             95.09 | Jayson Potroz           |             24 |
-|             80 | Ed Fidow             |             82.71 |       11 |             46.33 | Killian Coghlan         |             50 |
-|             80 | Nikolai Foliaki      |              2.34 |       12 |             90.63 | Le Roux Malan           |             63 |
-|             58 | Isaac Te Tamaki      |              4.18 |       13 |             61.1  | Wayne van der Bank      |              9 |
-|             56 | Xavier Mignot        |             72.74 |       14 |             26.97 | Isaac Olson             |             17 |
-|             35 | Cooper Coats         |              8.84 |       15 |             39.29 | Simon-Peter Toleafoa    |             80 |
-|             55 | Joe Taufete'e        |             87.16 |       16 |            nan    | Foster Dewitt           |             30 |
-|             55 | Jarred Adams         |             91.5  |       17 |             67.37 | Cole Keith              |             17 |
-|             55 | Paul Mullen          |             31.13 |       18 |            nan    | Kaleb Geiger            |             24 |
-|             55 | Kaden Duguid         |             23.62 |       19 |             77.05 | Conor Keys              |             56 |
-|             17 | Aidan King           |            nan    |       20 |             60.57 | Kyle Baillie            |             59 |
-|             71 | Osaiasi Tongauiha    |            nan    |       21 |             18.24 | Cameron Nordli-Kelemeti |             56 |
-|             24 | Luke Campbell        |              3.96 |       22 |            nan    | Harrison Boyle          |             50 |
-|             30 | Reece Botha          |            nan    |       23 |            nan    | Faletoi Peni            |             80 |
+|           10.5 | Matthew Harmon       |             19.92 |        1 |             18.98 | Malakai Hala-Ngatai     |           23   |
+|           18   | Alex Lopeti          |             63.97 |        2 |              2.69 | Andrew Quattrin         |           52   |
+|           37   | Isaac Salmon         |             63.76 |        3 |             64.24 | Jone Koroiduadua        |           80   |
+|           80   | Chase Jones          |             49.3  |        4 |             61.3  | Jeronimo Gomez Vara     |           80   |
+|           10.5 | William Waguespack   |             65.58 |        5 |              1.86 | Sam Caird               |           28   |
+|           63   | Malcolm May          |             43.75 |        6 |             81.16 | Jed Melvin              |           80   |
+|           80   | Jonah Mau'u          |             66.7  |        7 |             79.48 | Joe Johnston            |           80   |
+|           17   | Tupou Ma'afu-Afungia |             26.26 |        8 |             95.53 | Wian Conradie           |           57   |
+|           21   | Ruben de Haas        |             53.62 |        9 |             55.86 | Oscar Lennon            |           12   |
+|           34   | Luke Carty           |             27.45 |       10 |             92.98 | Jayson Potroz           |           23   |
+|           37   | Ed Fidow             |             72.19 |       11 |             33.99 | Killian Coghlan         |           36   |
+|           29   | Nikolai Foliaki      |              2.8  |       12 |             90.8  | Le Roux Malan           |           28   |
+|            0   | Isaac Te Tamaki      |              3.9  |       13 |             44.7  | Wayne van der Bank      |           28   |
+|           80   | Xavier Mignot        |             79.78 |       14 |             21.25 | Isaac Olson             |           69   |
+|            8   | Cooper Coats         |             12.2  |       15 |             45.73 | Simon-Peter Toleafoa    |           54   |
+|           80   | Joe Taufete'e        |             88.05 |       16 |            nan    | Foster Dewitt           |           80   |
+|           65   | Jarred Adams         |             90.2  |       17 |             64    | Cole Keith              |           72   |
+|           80   | Paul Mullen          |             16.86 |       18 |             80.63 | Kaleb Geiger            |           28.5 |
+|           65   | Kaden Duguid         |             24.19 |       19 |             75.81 | Conor Keys              |           52   |
+|           80   | Aidan King           |            nan    |       20 |             60.47 | Kyle Baillie            |           60   |
+|           72   | Osaiasi Tongauiha    |            nan    |       21 |             19.83 | Cameron Nordli-Kelemeti |           18   |
+|           54   | Luke Campbell        |              4.48 |       22 |             42.34 | Harrison Boyle          |           54   |
+|           68   | Reece Botha          |            nan    |       23 |            nan    | Faletoi Peni            |           28.5 |
 

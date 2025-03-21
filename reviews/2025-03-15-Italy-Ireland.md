@@ -11,7 +11,7 @@ categories: "Six Nations Championship 2025" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.246, which translates to predicting Ireland to win by 10.1.
 
-Our Over/Under is 68.5 - and combined with the spread above, we have a predicted scoreline of 39 to 29
+Our Over/Under is 59.5 - and combined with the spread above, we have a predicted scoreline of 35 to 25
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Ireland by 7.4
+## Prediction without Player Minutes: Ireland by 8.5
 
 
-Ireland by 12.7 on a neutral pitch
+Ireland by 13.7 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,28 +69,28 @@ Ireland by 12.7 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             33 | Andrew Porter       |             89.55 |        1 |             65.49 | Danilo Fischetti   |        80      |
-|             33 | Dan Sheehan         |             42.47 |        2 |             86.3  | Gianmarco Lucchesi |        17      |
-|             31 | Finlay Bealham      |             96.02 |        3 |             96.09 | Simone Ferrari     |        49      |
-|             80 | James Ryan          |             94    |        4 |             66    | Dino Lamb          |        40      |
-|             47 | Tadhg Beirne        |             98.67 |        5 |             95.9  | Federico Ruzza     |        20      |
-|             80 | Jack Conan          |             98.77 |        6 |             82.74 | Sebastian Negri    |        35      |
-|             80 | Josh van der Flier  |             96.98 |        7 |             56.13 | Manuel Zuliani     |        18      |
-|             17 | Caelan Doris        |             94.2  |        8 |             96.2  | Lorenzo Cannone    |        40      |
-|             30 | Jamison Gibson-Park |             95.35 |        9 |             68.5  | Martin Page-Relo   |        75      |
-|             31 | Jack Crowley        |             11.75 |       10 |             83.55 | Paolo Garbisi      |        80      |
-|             13 | James Lowe          |            100    |       11 |             97.37 | Monty Ioane        |        80      |
-|             33 | Robbie Henshaw      |             92.46 |       12 |             94.7  | Tommaso Menoncello |        80      |
-|             50 | Garry Ringrose      |             98.07 |       13 |             93.69 | Juan Ignacio Brex  |        61      |
-|             33 | Mack Hansen         |             84.87 |       14 |             98.12 | Ange Capuozzo      |        54      |
-|             50 | Hugo Keenan         |             98.82 |       15 |             64.44 | Tommaso Allan      |        65      |
-|             47 | Gus McCarthy        |             51.88 |       16 |             96.58 | Giacomo Nicotera   |        22      |
-|             65 | Gus McCarthy        |             51.88 |       16 |             96.58 | Giacomo Nicotera   |        22      |
-|             37 | Jack Boyle          |             57.29 |       17 |             62.26 | Mirco Spagnolo     |         5      |
-|             80 | Tadhg Furlong       |             97.74 |       18 |             55.49 | Giosue Zilocchi    |        49      |
-|             47 | Joe McCarthy        |             72.67 |       19 |             62.1  | Niccolo Cannone    |        22      |
-|             80 | Peter O'Mahony      |             96.32 |       20 |             95.94 | Michele Lamaro     |        25      |
-|             80 | Conor Murray        |             99.48 |       21 |             78.4  | Ross Vintcent      |        20.6667 |
-|             19 | Sam Prendergast     |             19.02 |       22 |              0.52 | Stephen Varney     |        53      |
-|             22 | Bundee Aki          |             99.69 |       23 |             70.92 | Leonardo Marin     |        50      |
+|             80 | Andrew Porter       |             89.25 |        1 |             65.25 | Danilo Fischetti   |             80 |
+|             51 | Dan Sheehan         |             72.9  |        2 |             88.72 | Gianmarco Lucchesi |             80 |
+|             53 | Finlay Bealham      |             97.02 |        3 |             95.14 | Simone Ferrari     |              8 |
+|             18 | James Ryan          |             95.91 |        4 |             68.37 | Dino Lamb          |             51 |
+|             27 | Tadhg Beirne        |             99.72 |        5 |             95.16 | Federico Ruzza     |             80 |
+|             40 | Jack Conan          |             98.79 |        6 |             83.3  | Sebastian Negri    |             80 |
+|             21 | Josh van der Flier  |             98.51 |        7 |             63.71 | Manuel Zuliani     |             18 |
+|             25 | Caelan Doris        |             96.11 |        8 |             97.47 | Lorenzo Cannone    |             59 |
+|             66 | Jamison Gibson-Park |             96.03 |        9 |             68.1  | Martin Page-Relo   |             66 |
+|             63 | Jack Crowley        |             14.04 |       10 |             85.74 | Paolo Garbisi      |             60 |
+|             16 | James Lowe          |            100    |       11 |             97.47 | Monty Ioane        |             40 |
+|             80 | Robbie Henshaw      |             91.4  |       12 |             94.9  | Tommaso Menoncello |             72 |
+|             76 | Garry Ringrose      |             98.6  |       13 |             93.2  | Juan Ignacio Brex  |             52 |
+|             40 | Mack Hansen         |             79.96 |       14 |             98.03 | Ange Capuozzo      |             62 |
+|             40 | Hugo Keenan         |             99.19 |       15 |             68.09 | Tommaso Allan      |             80 |
+|             40 | Gus McCarthy        |             50    |       16 |             96.13 | Giacomo Nicotera   |             70 |
+|             62 | Gus McCarthy        |             50    |       16 |             96.13 | Giacomo Nicotera   |             70 |
+|              8 | Jack Boyle          |             53.65 |       17 |             59.06 | Mirco Spagnolo     |             59 |
+|             40 | Tadhg Furlong       |             97.18 |       18 |             51.45 | Giosue Zilocchi    |             80 |
+|             40 | Joe McCarthy        |             71.81 |       19 |             62.33 | Niccolo Cannone    |             13 |
+|             80 | Peter O'Mahony      |             97.2  |       20 |             95.8  | Michele Lamaro     |             26 |
+|             80 | Conor Murray        |             99.48 |       21 |             79.57 | Ross Vintcent      |              0 |
+|             80 | Sam Prendergast     |             21.91 |       22 |              0.52 | Stephen Varney     |             80 |
+|             30 | Bundee Aki          |             99.7  |       23 |             71.75 | Leonardo Marin     |             11 |
 

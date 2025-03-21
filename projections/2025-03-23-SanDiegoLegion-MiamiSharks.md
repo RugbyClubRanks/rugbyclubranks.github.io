@@ -9,9 +9,9 @@ categories: "Major League Rugby 2025" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.859, which translates to predicting San Diego Legion to win by 16.8.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.903, which translates to predicting San Diego Legion to win by 20.3.
 
-Our Over/Under is 54.5 - and combined with the spread above, we have a predicted scoreline of 19 to 36
+Our Over/Under is 56.5 - and combined with the spread above, we have a predicted scoreline of 18 to 38
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,8 +39,8 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Imputed Lineups: San Diego Legion by 16.0
+## Prediction with Imputed Lineups: San Diego Legion by 12.8
 
 
-San Diego Legion by 12.7 on a neutral pitch
+San Diego Legion by 9.4 on a neutral pitch
 

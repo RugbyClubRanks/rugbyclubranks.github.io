@@ -9,9 +9,9 @@ categories: "Japan Rugby League One D3 24/25" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.905, which translates to predicting Kurita Water Gush to win by 20.7.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.9, which translates to predicting Kurita Water Gush to win by 20.1.
 
-Our Over/Under is 64.5 - and combined with the spread above, we have a predicted scoreline of 22 to 43
+Our Over/Under is 64.5 - and combined with the spread above, we have a predicted scoreline of 22 to 42
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,8 +39,8 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction with Imputed Lineups: Kurita Water Gush by 2.7
+## Prediction with Imputed Lineups: Kurita Water Gush by 10.4
 
 
-Chugoku Red Regulions by 0.1 on a neutral pitch
+Kurita Water Gush by 7.6 on a neutral pitch
 
