@@ -11,7 +11,7 @@ categories: "Japan Rugby League One 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.681, which translates to predicting Mie Honda Heat to win by 6.9.
 
-Our Over/Under is 59.5 - and combined with the spread above, we have a predicted scoreline of 27 to 33
+Our Over/Under is 61.5 - and combined with the spread above, we have a predicted scoreline of 27 to 34
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Mie Honda Heat by 8.0
+## Prediction without Player Minutes: Mie Honda Heat by 1.4
 
 
-Mie Honda Heat by 4.3 on a neutral pitch
+Urayasu D-Rocks by 2.3 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Mie Honda Heat by 4.3 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player            |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:-----------------------|---------------:|
-|             35 | Hidetomo Nabeshima |              8.62 |        1 |              4.11 | Tatsuhiko Tsurukawa    |             35 |
-|             56 | Ryuji Fujimura     |             10.8  |        2 |             56.62 | Koki Hida              |             25 |
-|             21 | Kim Ryom           |             72.3  |        3 |              2.25 | Feinga Kihe Lotu Fakai |             80 |
-|             32 | Tom Parsons        |             68.2  |        4 |             23.34 | Mark Abbott            |             72 |
-|             21 | Lourens Erasmus    |             66.47 |        5 |             92.41 | Franco Mostert         |             56 |
-|             80 | Shinya Osugi       |             55.53 |        6 |             99.62 | Pablo Matera           |             48 |
-|             80 | Tetta Shigemitsu   |             48.85 |        7 |              2.77 | Ryota Kobayashi        |             80 |
-|             64 | Tone Tukufuka      |             94.12 |        8 |             30.83 | Talifolofola Tangipa   |             32 |
-|             80 | Ren Iinuma         |             72.23 |        9 |             15.29 | Taichi Takenaka        |             80 |
-|             32 | Otere Black        |             57.51 |       10 |             13.52 | Gwangtee Oh            |             80 |
-|             80 | Takuhei Yasuda     |             91.29 |       11 |             95.6  | Tevita Li              |             72 |
-|             13 | Samu Kerevi        |             89.71 |       12 |              6.01 | Fraser Quirk           |             56 |
-|             48 | Shane Gates        |             14.87 |       13 |             35.54 | Kyogo Okano            |             80 |
-|             35 | Soma Matsumoto     |             29.95 |       14 |             84.21 | Lomano Lemeki          |             32 |
-|             59 | Chris Cosgrave     |             76.49 |       15 |             78.88 | Tom Banks              |             80 |
-|             55 | Shin Takeuchi      |             65.55 |       16 |             85.4  | Janko Swanepoel        |             52 |
-|             21 | Hendrik Tui        |             23.95 |       17 |              3.15 | Ryo Furuta             |             48 |
-|             65 | James Moore        |              0.29 |       18 |             74.17 | Azuma Doei             |             32 |
-|             45 | Brody MacAskill    |             93.13 |       19 |             20.77 | Matthys Basson         |             24 |
-|             48 | Sekonaia Pole      |            nan    |       20 |             62.37 | Ikuma Yamada           |             32 |
-|              0 | Shokei Kin         |            nan    |       21 |             14.9  | Taiki Yoshioka         |             32 |
-|             79 | Yu Tamura          |             70.6  |       22 |              9.92 | Tony Ray Hunt          |             24 |
-|             80 | Norifumi Hashimoto |              1.76 |       23 |             86.7  | Hayata Nakao           |             76 |
+|             22 | Hidetomo Nabeshima |              7.05 |        1 |              1.64 | Tatsuhiko Tsurukawa    |             58 |
+|             24 | Ryuji Fujimura     |             12.91 |        2 |             31.13 | Koki Hida              |             58 |
+|             32 | Kim Ryom           |             77.29 |        3 |              3.52 | Feinga Kihe Lotu Fakai |             17 |
+|             24 | Tom Parsons        |             74.26 |        4 |             40.71 | Mark Abbott            |             22 |
+|             56 | Lourens Erasmus    |             77.04 |        5 |             88.94 | Franco Mostert         |             45 |
+|              6 | Shinya Osugi       |             27.46 |        6 |             99.06 | Pablo Matera           |             10 |
+|             24 | Tetta Shigemitsu   |             26.62 |        7 |              3.56 | Ryota Kobayashi        |             58 |
+|             32 | Tone Tukufuka      |             92.66 |        8 |             16.41 | Talifolofola Tangipa   |             68 |
+|             19 | Ren Iinuma         |             77.55 |        9 |             10.19 | Taichi Takenaka        |             63 |
+|             58 | Otere Black        |             63.99 |       10 |             14.4  | Gwangtee Oh            |             39 |
+|             19 | Takuhei Yasuda     |             89.33 |       11 |             95.17 | Tevita Li              |             80 |
+|             30 | Samu Kerevi        |             94.19 |       12 |              3.35 | Fraser Quirk           |             80 |
+|             80 | Shane Gates        |             23.25 |       13 |             38.52 | Kyogo Okano            |             19 |
+|             74 | Soma Matsumoto     |             64.45 |       14 |             75.02 | Lomano Lemeki          |             32 |
+|             80 | Chris Cosgrave     |             76.63 |       15 |             77.44 | Tom Banks              |              6 |
+|              5 | Shin Takeuchi      |             67.2  |       16 |             75.65 | Janko Swanepoel        |             46 |
+|             76 | Hendrik Tui        |             29.99 |       17 |              2.91 | Ryo Furuta             |             34 |
+|             22 | James Moore        |              0.19 |       18 |             55.96 | Azuma Doei             |             80 |
+|             35 | Brody MacAskill    |             93.53 |       19 |             20.2  | Matthys Basson         |             61 |
+|             41 | Sekonaia Pole      |            nan    |       20 |             62.58 | Ikuma Yamada           |             80 |
+|             50 | Shokei Kin         |            nan    |       21 |             15.19 | Taiki Yoshioka         |             70 |
+|             80 | Yu Tamura          |             86.01 |       22 |              5.9  | Tony Ray Hunt          |             80 |
+|             80 | Norifumi Hashimoto |              1.9  |       23 |             72.43 | Hayata Nakao           |             12 |
 

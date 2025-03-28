@@ -11,7 +11,7 @@ categories: "Nationale 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.509, which translates to predicting Suresnes to win by 0.3.
 
-Our Over/Under is 36.5 - and combined with the spread above, we have a predicted scoreline of 18 to 19
+Our Over/Under is 44.5 - and combined with the spread above, we have a predicted scoreline of 22 to 23
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Suresnes by 3.1
+## Prediction without Player Minutes: Suresnes by 2.1
 
 
-Massy by 0.4 on a neutral pitch
+Massy by 1.4 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Massy by 0.4 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player             |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:------------------------|---------------:|
-|             67 | Siegfried Fisi'ihoi |             53.14 |        1 |             70.29 | Elias Coulibaly         |              8 |
-|             80 | Pierre Trassoudaine |             93.38 |        2 |             75.61 | Gauthier Brute de Remur |             25 |
-|             80 | Nicolas Ferrer      |             82.29 |        3 |             17.07 | Guiterembi Vickos       |             80 |
-|             58 | Saba Pesvianidze    |             79.06 |        4 |             68.68 | Damien Bozic            |              8 |
-|             53 | Koen Bloemen        |             16.62 |        5 |             23.73 | Yakine Mohamed Djebarri |             25 |
-|             80 | Hugo Boutin         |             62.6  |        6 |              7.73 | Florian Desbordes       |             80 |
-|             40 | Giani Gamba         |             56.11 |        7 |             57.82 | Wian Vosloo             |             80 |
-|             31 | Simon Cowley        |             64.1  |        8 |             69.57 | Lakisipone Lee          |             80 |
-|             25 | Julien Blanc        |             68.37 |        9 |             33.57 | Germain Roques De Borda |             58 |
-|             80 | Christian Lacombe   |             10.73 |       10 |             54.29 | Tanguy Lacoste          |             27 |
-|             50 | Ilian El Yahyaoui   |             67.37 |       11 |             93.01 | Faraj Fartass           |             22 |
-|             13 | Luca Mignot         |             74.03 |       12 |             76.78 | Victor Barnier          |             13 |
-|             17 | Tom Cusson          |             25.66 |       13 |             28.92 | Gauthier Wolf           |             67 |
-|             56 | Giorgi Gogoladze    |             14.55 |       14 |              5.36 | Yohan Fournier          |             80 |
-|             50 | Alexandre Borie     |             22.71 |       15 |              1.79 | Goulwen Gueho           |             80 |
-|             80 | Nolan Pienaar       |             37.44 |       16 |             20.05 | Yanis Trabelsi          |             12 |
-|             40 | Tijde Visser        |             68.6  |       17 |            nan    | Antoine Marty-Rybak     |             56 |
-|             67 | Andrei Mahu         |             32.95 |       18 |             29.95 | Leandro Mario Assi      |             30 |
-|             47 | Lucas Rubio         |             43.59 |       19 |             70.39 | Jean Chezeau            |             33 |
-|             40 | Fernandez Correa    |              0.81 |       20 |             70.99 | Marvin Woki             |             40 |
-|              0 | Anthony Favier      |            nan    |       21 |             72.41 | Jean-Baptiste Lachaise  |             80 |
-|             50 | Arthur Seigneuret   |             76.88 |       22 |             10.9  | Thomas Lacroix          |             66 |
-|             30 | Noa Rolnin          |            nan    |       23 |            nan    | nan                     |            nan |
+|             16 | Siegfried Fisi'ihoi |             60.53 |        1 |             52.94 | Elias Coulibaly         |             34 |
+|             62 | Pierre Trassoudaine |             94.04 |        2 |             74.17 | Gauthier Brute de Remur |             20 |
+|             55 | Nicolas Ferrer      |             84.57 |        3 |             11.75 | Guiterembi Vickos       |             80 |
+|             80 | Saba Pesvianidze    |             84.67 |        4 |             50.37 | Damien Bozic            |             80 |
+|             80 | Koen Bloemen        |             21.28 |        5 |             25.46 | Yakine Mohamed Djebarri |             20 |
+|             47 | Hugo Boutin         |             58.11 |        6 |              9.93 | Florian Desbordes       |              0 |
+|             80 | Giani Gamba         |             73.85 |        7 |             64.01 | Wian Vosloo             |              0 |
+|             80 | Simon Cowley        |             73.55 |        8 |             66.8  | Lakisipone Lee          |             20 |
+|             55 | Julien Blanc        |             79.62 |        9 |             38.69 | Germain Roques De Borda |             20 |
+|             80 | Christian Lacombe   |             11.93 |       10 |             29.63 | Tanguy Lacoste          |             74 |
+|             67 | Ilian El Yahyaoui   |             76.03 |       11 |             93.62 | Faraj Fartass           |              0 |
+|             80 | Luca Mignot         |             85.91 |       12 |             70.74 | Victor Barnier          |             25 |
+|             80 | Tom Cusson          |             41.58 |       13 |             19.9  | Gauthier Wolf           |             80 |
+|             12 | Giorgi Gogoladze    |             16.86 |       14 |              3.92 | Yohan Fournier          |             80 |
+|             25 | Alexandre Borie     |             30.08 |       15 |              1.22 | Goulwen Gueho           |             66 |
+|             25 | Nolan Pienaar       |             41.58 |       16 |             31.79 | Yanis Trabelsi          |             53 |
+|             13 | Tijde Visser        |             73.3  |       17 |            nan    | Antoine Marty-Rybak     |             80 |
+|             67 | Andrei Mahu         |             53.44 |       18 |             28.97 | Leandro Mario Assi      |             64 |
+|             21 | Lucas Rubio         |             48.19 |       19 |             59.26 | Jean Chezeau            |             68 |
+|             55 | Fernandez Correa    |              1.02 |       20 |             71    | Marvin Woki             |             35 |
+|             35 | Anthony Favier      |             53.69 |       21 |             70.27 | Jean-Baptiste Lachaise  |             80 |
+|             64 | Arthur Seigneuret   |             79.41 |       22 |              4.15 | Thomas Lacroix          |             60 |
+|             21 | Noa Rolnin          |            nan    |       23 |            nan    | nan                     |            nan |
 

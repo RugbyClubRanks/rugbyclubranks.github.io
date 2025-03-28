@@ -1,17 +1,17 @@
 ---  
 layout: page  
-title: Fijian Drua at Western Force; 7-26  
+title: Fijian Drua at Western Force; 15-52  
 date: 2025-03-23 18:00:00 -0500  
 categories: "Super Rugby Pacific 2025" match review  
 ---
-# Fijian Drua at Western Force; 7-26
+# Fijian Drua at Western Force; 15-52
 
 # Club Level Predictions
 
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.649, which translates to predicting Western Force to win by 5.6.
 
-Our Over/Under is 67.5 - and combined with the spread above, we have a predicted scoreline of 31 to 37
+Our Over/Under is 62.5 - and combined with the spread above, we have a predicted scoreline of 28 to 34
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model

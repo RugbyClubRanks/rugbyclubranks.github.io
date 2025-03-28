@@ -9,9 +9,9 @@ categories: "United Rugby Championship 24/25" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.533, which translates to predicting Connacht to win by 1.1.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.527, which translates to predicting Connacht to win by 0.9.
 
-Our Over/Under is 69.5 - and combined with the spread above, we have a predicted scoreline of 34 to 36
+Our Over/Under is 69.5 - and combined with the spread above, we have a predicted scoreline of 34 to 35
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
