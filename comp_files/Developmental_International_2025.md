@@ -1,6 +1,6 @@
 ---  
 title: "Developmental International 2025 Status"  
-date: 2025-01-31 6:00:00 -0500  
+date: 2025-03-31 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -13,114 +13,64 @@ aside:
 # Current Rankings
 
 
-|   Rank | Team    |   Rating |
-|-------:|:--------|---------:|
-|      1 | Israel  |  1087.65 |
-|      2 | Andorra |  1060.87 |
+|   Rank | Team                   |   Rating |
+|-------:|:-----------------------|---------:|
+|      1 | Malta                  |  1300.04 |
+|      2 | Bosnia-Herzegovina     |  1163.48 |
+|      3 | Andorra                |  1159.92 |
+|      4 | Israel                 |  1032.95 |
+|      5 | Cyprus                 |  1031.9  |
+|      6 | Bosnia and Herzegovina |   603.23 |
+|      7 | Kosovo                 |   205.52 |
+# Completed Match Review
+
+
+| Model | Percent Correct Predictions | Spread Error |
+| ------ | ------ | ------ |
+| Club Level | 0.0% | 8.3 |
+| Player Level: Lineup | nan% | nan |
+| Player Level: Minutes | nan% | nan |
+
+
 # Future Predictions
 
-## Week 1
+## Week 3
 
-### Andorra V Israel on 2025/02/01
+### Cyprus V Andorra on 2025/04/05
 
 
-Average Margin: Israel by 2.4
+Average Margin: Andorra by 0.6
 
-Average Scoreline: 27-24
+Average Scoreline: 23-22
 
 <p float="left">
-<img src="plots/performances_2025-02-01-Andorra_V_Israel.png" width="32%" />
-<img src="plots/resultbar_2025-02-01-Andorra_V_Israel.png" width="32%" />
-<img src="plots/spreads_2025-02-01-Andorra_V_Israel.png" width="32%" />
+<img src="plots/performances_2025-04-05-Cyprus_V_Andorra.png" width="32%" />
+<img src="plots/resultbar_2025-04-05-Cyprus_V_Andorra.png" width="32%" />
+<img src="plots/spreads_2025-04-05-Cyprus_V_Andorra.png" width="32%" />
 </p>
 
-### Andorra V Israel on 2025/02/01
+### Bosnia and Herzegovina V Kosovo on 2025/04/05
 
 
-Average Margin: Israel by 2.4
+Average Margin: Bosnia and Herzegovina by 9.2
 
-Average Scoreline: 27-24
+Average Scoreline: 33-23
 
 <p float="left">
-<img src="plots/performances_2025-02-01-Andorra_V_Israel.png" width="32%" />
-<img src="plots/resultbar_2025-02-01-Andorra_V_Israel.png" width="32%" />
-<img src="plots/spreads_2025-02-01-Andorra_V_Israel.png" width="32%" />
+<img src="plots/performances_2025-04-05-BosniaandHerzegovina_V_Kosovo.png" width="32%" />
+<img src="plots/resultbar_2025-04-05-BosniaandHerzegovina_V_Kosovo.png" width="32%" />
+<img src="plots/spreads_2025-04-05-BosniaandHerzegovina_V_Kosovo.png" width="32%" />
 </p>
 
-### Andorra V Israel on 2025/02/01
+### Malta V Israel on 2025/04/05
 
 
-Average Margin: Israel by 2.4
+Average Margin: Malta by 16.8
 
-Average Scoreline: 27-24
-
-<p float="left">
-<img src="plots/performances_2025-02-01-Andorra_V_Israel.png" width="32%" />
-<img src="plots/resultbar_2025-02-01-Andorra_V_Israel.png" width="32%" />
-<img src="plots/spreads_2025-02-01-Andorra_V_Israel.png" width="32%" />
-</p>
-
-### Andorra V Israel on 2025/02/01
-
-
-Average Margin: Israel by 2.4
-
-Average Scoreline: 27-24
+Average Scoreline: 38-21
 
 <p float="left">
-<img src="plots/performances_2025-02-01-Andorra_V_Israel.png" width="32%" />
-<img src="plots/resultbar_2025-02-01-Andorra_V_Israel.png" width="32%" />
-<img src="plots/spreads_2025-02-01-Andorra_V_Israel.png" width="32%" />
-</p>
-
-### Israel V Andorra on 2025/02/01
-
-
-Average Margin: Israel by 10.3
-
-Average Scoreline: 31-20
-
-<p float="left">
-<img src="plots/performances_2025-02-01-Israel_V_Andorra.png" width="32%" />
-<img src="plots/resultbar_2025-02-01-Israel_V_Andorra.png" width="32%" />
-<img src="plots/spreads_2025-02-01-Israel_V_Andorra.png" width="32%" />
-</p>
-
-### Israel V Andorra on 2025/02/01
-
-
-Average Margin: Israel by 10.3
-
-Average Scoreline: 31-20
-
-<p float="left">
-<img src="plots/performances_2025-02-01-Israel_V_Andorra.png" width="32%" />
-<img src="plots/resultbar_2025-02-01-Israel_V_Andorra.png" width="32%" />
-<img src="plots/spreads_2025-02-01-Israel_V_Andorra.png" width="32%" />
-</p>
-
-### Israel V Andorra on 2025/02/01
-
-
-Average Margin: Israel by 10.3
-
-Average Scoreline: 31-20
-
-<p float="left">
-<img src="plots/performances_2025-02-01-Israel_V_Andorra.png" width="32%" />
-<img src="plots/resultbar_2025-02-01-Israel_V_Andorra.png" width="32%" />
-<img src="plots/spreads_2025-02-01-Israel_V_Andorra.png" width="32%" />
-</p>
-
-### Israel V Andorra on 2025/02/01
-
-
-Average Margin: Israel by 10.3
-
-Average Scoreline: 31-20
-
-<p float="left">
-<img src="plots/performances_2025-02-01-Israel_V_Andorra.png" width="32%" />
-<img src="plots/resultbar_2025-02-01-Israel_V_Andorra.png" width="32%" />
-<img src="plots/spreads_2025-02-01-Israel_V_Andorra.png" width="32%" />
+<img src="plots/performances_2025-04-05-Malta_V_Israel.png" width="32%" />
+<img src="plots/resultbar_2025-04-05-Malta_V_Israel.png" width="32%" />
+<img src="plots/spreads_2025-04-05-Malta_V_Israel.png" width="32%" />
 </p>
