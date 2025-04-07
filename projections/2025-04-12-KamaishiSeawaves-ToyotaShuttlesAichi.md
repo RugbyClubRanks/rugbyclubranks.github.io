@@ -9,7 +9,7 @@ categories: "Japan Rugby League One D2 24/25" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.209, which translates to predicting Toyota Shuttles Aichi to win by 12.4.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.202, which translates to predicting Toyota Shuttles Aichi to win by 12.6.
 
 Our Over/Under is 69.5 - and combined with the spread above, we have a predicted scoreline of 41 to 28
 

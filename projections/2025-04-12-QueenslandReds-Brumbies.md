@@ -9,7 +9,7 @@ categories: "Super Rugby Pacific 2025" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.595, which translates to predicting Queensland Reds to win by 4.2.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.592, which translates to predicting Queensland Reds to win by 3.9.
 
 Our Over/Under is 57.5 - and combined with the spread above, we have a predicted scoreline of 27 to 31
 

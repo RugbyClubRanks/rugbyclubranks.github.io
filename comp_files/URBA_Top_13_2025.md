@@ -38,18 +38,18 @@ aside:
 
 | Club                |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Belgrano            |                  21 |   15   |            133.538   |                   3.6 |                8.2 |                 71.9 |
-| Alumni              |                  21 |   14.2 |            107.411   |                   4.1 |                8.2 |                 68.9 |
-| CASI                |                  21 |   14   |            100.664   |                   4.1 |                7.6 |                 67.8 |
-| Newman              |                  21 |   12.8 |             71.2273  |                   4.6 |                8.6 |                 64.5 |
-| SIC                 |                  21 |   12.8 |             67.2771  |                   4.7 |                7.4 |                 63.2 |
-| Regatas Bella Vista |                  21 |   12.6 |             61.629   |                   4.7 |                6.6 |                 61.5 |
-| CUBA                |                  21 |   10.5 |              4.15781 |                   5.4 |                6.1 |                 53.6 |
-| Hindu               |                  21 |    9.1 |            -32.3141  |                   5.9 |                6.3 |                 48.6 |
-| San Luis            |                  21 |    6.9 |           -102.568   |                   5.6 |                4.7 |                 37.8 |
-| La Plata            |                  21 |    6.4 |           -127.144   |                   5.1 |                3.7 |                 34.6 |
-| Los Tilos           |                  21 |    6   |           -146.42    |                   5   |                3.9 |                 32.9 |
-| Buenos Aires        |                  21 |    5.8 |           -137.458   |                   5.5 |                3.8 |                 32.4 |
+| Belgrano            |                  21 |   14.9 |             129.18   |                   3.7 |                8.2 |                 71.3 |
+| Alumni              |                  21 |   14   |             106.465  |                   4.1 |                8.1 |                 68.4 |
+| CASI                |                  21 |   13.8 |              98.4695 |                   4.2 |                7.5 |                 67   |
+| Newman              |                  21 |   13   |              76.4062 |                   4.6 |                8.7 |                 65.2 |
+| SIC                 |                  21 |   12.8 |              67.0087 |                   4.6 |                7.3 |                 63.1 |
+| Regatas Bella Vista |                  21 |   12.7 |              60.9511 |                   4.6 |                6.5 |                 61.7 |
+| CUBA                |                  21 |   10.7 |              11.6632 |                   5.4 |                6.2 |                 54.5 |
+| Hindu               |                  21 |    9.4 |             -26.4022 |                   5.7 |                6.2 |                 49.3 |
+| San Luis            |                  21 |    6.7 |            -104.897  |                   5.7 |                4.6 |                 37.3 |
+| La Plata            |                  21 |    6.4 |            -131.59   |                   5.2 |                3.7 |                 34.3 |
+| Los Tilos           |                  21 |    5.9 |            -149.714  |                   5.1 |                3.8 |                 32.5 |
+| Buenos Aires        |                  21 |    5.7 |            -137.541  |                   5.6 |                3.8 |                 32.2 |
 
 
 
@@ -58,18 +58,18 @@ aside:
 
 | Club                |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Belgrano            |              23 |   17   |            165.538   |                   3.6 |                8.2 |                 79.9 |
-| Alumni              |              22 |   15.2 |            115.411   |                   4.1 |                9.2 |                 73.9 |
-| CASI                |              22 |   15   |            115.664   |                   4.1 |                8.6 |                 72.8 |
-| Regatas Bella Vista |              23 |   14.6 |             98.629   |                   4.7 |                6.6 |                 69.5 |
-| Newman              |              23 |   12.8 |             34.2273  |                   5.6 |               10.6 |                 67.5 |
-| SIC                 |              22 |   12.8 |             63.2771  |                   5.7 |                7.4 |                 64.2 |
-| CUBA                |              22 |   10.5 |             -3.84219 |                   5.4 |                6.1 |                 53.6 |
-| Hindu               |              22 |   10.1 |              2.68594 |                   5.9 |                6.3 |                 52.6 |
-| San Luis            |              22 |    6.9 |           -137.568   |                   5.6 |                4.7 |                 37.8 |
-| Los Tilos           |              22 |    7   |           -142.42    |                   5   |                3.9 |                 36.9 |
-| La Plata            |              22 |    6.4 |           -143.144   |                   5.1 |                3.7 |                 34.6 |
-| Buenos Aires        |              22 |    5.8 |           -152.458   |                   5.5 |                3.8 |                 32.4 |
+| Belgrano            |              23 |   16.9 |            161.18    |                   3.7 |                8.2 |                 79.3 |
+| Alumni              |              22 |   15   |            114.465   |                   4.1 |                9.1 |                 73.4 |
+| CASI                |              22 |   14.8 |            113.469   |                   4.2 |                8.5 |                 72   |
+| Regatas Bella Vista |              23 |   14.7 |             97.9511  |                   4.6 |                6.5 |                 69.7 |
+| Newman              |              23 |   13   |             39.4062  |                   5.6 |               10.7 |                 68.2 |
+| SIC                 |              22 |   12.8 |             63.0087  |                   5.6 |                7.3 |                 64.1 |
+| CUBA                |              22 |   10.7 |              3.66321 |                   5.4 |                6.2 |                 54.5 |
+| Hindu               |              22 |   10.4 |              8.59784 |                   5.7 |                6.2 |                 53.3 |
+| San Luis            |              22 |    6.7 |           -139.897   |                   5.7 |                4.6 |                 37.3 |
+| Los Tilos           |              22 |    6.9 |           -145.714   |                   5.1 |                3.8 |                 36.5 |
+| La Plata            |              22 |    6.4 |           -147.59    |                   5.2 |                3.7 |                 34.3 |
+| Buenos Aires        |              22 |    5.7 |           -152.541   |                   5.6 |                3.8 |                 32.2 |
 | La Plata Rugby Club |               1 |    0   |            -16       |                   0   |                0   |                  0   |
 
 
@@ -91,9 +91,9 @@ aside:
 ### CASI V La Plata on 2025/04/12
 
 
-Average Margin: CASI by 14.0
+Average Margin: CASI by 14.7
 
-Average Scoreline: 37-23
+Average Scoreline: 37-22
 
 <p float="left">
 <img src="plots/performances_2025-04-12-CASI_V_LaPlata.png" width="32%" />
@@ -104,9 +104,9 @@ Average Scoreline: 37-23
 ### Los Tilos V Alumni on 2025/04/12
 
 
-Average Margin: Alumni by 9.8
+Average Margin: Alumni by 9.5
 
-Average Scoreline: 38-28
+Average Scoreline: 37-28
 
 <p float="left">
 <img src="plots/performances_2025-04-12-LosTilos_V_Alumni.png" width="32%" />
@@ -117,7 +117,7 @@ Average Scoreline: 38-28
 ### San Luis V Buenos Aires on 2025/04/12
 
 
-Average Margin: San Luis by 5.3
+Average Margin: San Luis by 5.6
 
 Average Scoreline: 29-23
 
@@ -130,9 +130,9 @@ Average Scoreline: 29-23
 ### Regatas Bella Vista V Hindu on 2025/04/12
 
 
-Average Margin: Regatas Bella Vista by 7.6
+Average Margin: Regatas Bella Vista by 7.4
 
-Average Scoreline: 30-22
+Average Scoreline: 29-22
 
 <p float="left">
 <img src="plots/performances_2025-04-12-RegatasBellaVista_V_Hindu.png" width="32%" />
@@ -171,9 +171,9 @@ Average Scoreline: 32-21
 ### Hindu V SIC on 2025/04/26
 
 
-Average Margin: SIC by 0.6
+Average Margin: SIC by 0.9
 
-Average Scoreline: 27-27
+Average Scoreline: 28-27
 
 <p float="left">
 <img src="plots/performances_2025-04-26-Hindu_V_SIC.png" width="32%" />
@@ -184,7 +184,7 @@ Average Scoreline: 27-27
 ### La Plata V San Luis on 2025/04/26
 
 
-Average Margin: La Plata by 2.4
+Average Margin: La Plata by 2.3
 
 Average Scoreline: 34-32
 
@@ -197,7 +197,7 @@ Average Scoreline: 34-32
 ### Alumni V Belgrano on 2025/04/26
 
 
-Average Margin: Alumni by 2.9
+Average Margin: Alumni by 2.7
 
 Average Scoreline: 32-30
 
@@ -210,7 +210,7 @@ Average Scoreline: 32-30
 ### Newman V Los Tilos on 2025/04/26
 
 
-Average Margin: Newman by 13.8
+Average Margin: Newman by 14.5
 
 Average Scoreline: 35-21
 
@@ -223,7 +223,7 @@ Average Scoreline: 35-21
 ### Buenos Aires V Regatas Bella Vista on 2025/04/26
 
 
-Average Margin: Regatas Bella Vista by 6.0
+Average Margin: Regatas Bella Vista by 5.9
 
 Average Scoreline: 47-41
 
@@ -236,7 +236,7 @@ Average Scoreline: 47-41
 ### CUBA V CASI on 2025/04/26
 
 
-Average Margin: CASI by 1.4
+Average Margin: CASI by 1.1
 
 Average Scoreline: 36-35
 
@@ -251,7 +251,7 @@ Average Scoreline: 36-35
 ### CASI V Belgrano on 2025/05/03
 
 
-Average Margin: CASI by 2.2
+Average Margin: CASI by 1.7
 
 Average Scoreline: 32-30
 
@@ -277,9 +277,9 @@ Average Scoreline: 29-27
 ### San Luis V CUBA on 2025/05/03
 
 
-Average Margin: CUBA by 1.3
+Average Margin: CUBA by 1.9
 
-Average Scoreline: 31-30
+Average Scoreline: 32-30
 
 <p float="left">
 <img src="plots/performances_2025-05-03-SanLuis_V_CUBA.png" width="32%" />
@@ -290,7 +290,7 @@ Average Scoreline: 31-30
 ### Newman V Alumni on 2025/05/03
 
 
-Average Margin: Newman by 1.7
+Average Margin: Newman by 2.0
 
 Average Scoreline: 33-31
 
@@ -303,9 +303,9 @@ Average Scoreline: 33-31
 ### SIC V Buenos Aires on 2025/05/03
 
 
-Average Margin: SIC by 13.3
+Average Margin: SIC by 12.5
 
-Average Scoreline: 34-21
+Average Scoreline: 34-22
 
 <p float="left">
 <img src="plots/performances_2025-05-03-SIC_V_BuenosAires.png" width="32%" />
@@ -316,7 +316,7 @@ Average Scoreline: 34-21
 ### Regatas Bella Vista V La Plata on 2025/05/03
 
 
-Average Margin: Regatas Bella Vista by 12.2
+Average Margin: Regatas Bella Vista by 12.6
 
 Average Scoreline: 34-22
 
@@ -331,9 +331,9 @@ Average Scoreline: 34-22
 ### CUBA V Regatas Bella Vista on 2025/05/10
 
 
-Average Margin: CUBA by 1.0
+Average Margin: CUBA by 1.6
 
-Average Scoreline: 34-33
+Average Scoreline: 34-32
 
 <p float="left">
 <img src="plots/performances_2025-05-10-CUBA_V_RegatasBellaVista.png" width="32%" />
@@ -344,9 +344,9 @@ Average Scoreline: 34-33
 ### Belgrano V San Luis on 2025/05/10
 
 
-Average Margin: Belgrano by 15.0
+Average Margin: Belgrano by 14.0
 
-Average Scoreline: 36-21
+Average Scoreline: 35-21
 
 <p float="left">
 <img src="plots/performances_2025-05-10-Belgrano_V_SanLuis.png" width="32%" />
@@ -370,7 +370,7 @@ Average Scoreline: 32-25
 ### Hindu V Newman on 2025/05/10
 
 
-Average Margin: Newman by 1.4
+Average Margin: Newman by 0.4
 
 Average Scoreline: 34-33
 
@@ -383,9 +383,9 @@ Average Scoreline: 34-33
 ### Buenos Aires V Los Tilos on 2025/05/10
 
 
-Average Margin: Buenos Aires by 4.7
+Average Margin: Buenos Aires by 4.9
 
-Average Scoreline: 32-28
+Average Scoreline: 33-28
 
 <p float="left">
 <img src="plots/performances_2025-05-10-BuenosAires_V_LosTilos.png" width="32%" />
@@ -396,7 +396,7 @@ Average Scoreline: 32-28
 ### Alumni V CASI on 2025/05/10
 
 
-Average Margin: Alumni by 3.5
+Average Margin: Alumni by 4.4
 
 Average Scoreline: 34-30
 
@@ -411,9 +411,9 @@ Average Scoreline: 34-30
 ### Hindu V Alumni on 2025/05/17
 
 
-Average Margin: Alumni by 2.6
+Average Margin: Alumni by 2.4
 
-Average Scoreline: 35-32
+Average Scoreline: 35-33
 
 <p float="left">
 <img src="plots/performances_2025-05-17-Hindu_V_Alumni.png" width="32%" />
@@ -424,7 +424,7 @@ Average Scoreline: 35-32
 ### Regatas Bella Vista V Belgrano on 2025/05/17
 
 
-Average Margin: Regatas Bella Vista by 0.2
+Average Margin: Regatas Bella Vista by 0.5
 
 Average Scoreline: 27-27
 
@@ -450,9 +450,9 @@ Average Scoreline: 29-22
 ### San Luis V CASI on 2025/05/17
 
 
-Average Margin: CASI by 6.4
+Average Margin: CASI by 6.1
 
-Average Scoreline: 40-33
+Average Scoreline: 40-34
 
 <p float="left">
 <img src="plots/performances_2025-05-17-SanLuis_V_CASI.png" width="32%" />
@@ -463,7 +463,7 @@ Average Scoreline: 40-33
 ### Newman V Buenos Aires on 2025/05/17
 
 
-Average Margin: Newman by 13.0
+Average Margin: Newman by 13.3
 
 Average Scoreline: 35-22
 
@@ -476,9 +476,9 @@ Average Scoreline: 35-22
 ### Los Tilos V La Plata on 2025/05/17
 
 
-Average Margin: Los Tilos by 2.6
+Average Margin: Los Tilos by 3.0
 
-Average Scoreline: 29-27
+Average Scoreline: 29-26
 
 <p float="left">
 <img src="plots/performances_2025-05-17-LosTilos_V_LaPlata.png" width="32%" />
@@ -491,7 +491,7 @@ Average Scoreline: 29-27
 ### Belgrano V SIC on 2025/05/31
 
 
-Average Margin: Belgrano by 7.1
+Average Margin: Belgrano by 7.0
 
 Average Scoreline: 30-23
 
@@ -504,7 +504,7 @@ Average Scoreline: 30-23
 ### CUBA V Los Tilos on 2025/05/31
 
 
-Average Margin: CUBA by 10.7
+Average Margin: CUBA by 11.6
 
 Average Scoreline: 34-23
 
@@ -517,9 +517,9 @@ Average Scoreline: 34-23
 ### CASI V Regatas Bella Vista on 2025/05/31
 
 
-Average Margin: CASI by 5.6
+Average Margin: CASI by 6.1
 
-Average Scoreline: 34-29
+Average Scoreline: 34-28
 
 <p float="left">
 <img src="plots/performances_2025-05-31-CASI_V_RegatasBellaVista.png" width="32%" />
@@ -530,9 +530,9 @@ Average Scoreline: 34-29
 ### Buenos Aires V Hindu on 2025/05/31
 
 
-Average Margin: Hindu by 2.1
+Average Margin: Hindu by 2.3
 
-Average Scoreline: 37-35
+Average Scoreline: 37-34
 
 <p float="left">
 <img src="plots/performances_2025-05-31-BuenosAires_V_Hindu.png" width="32%" />
@@ -543,9 +543,9 @@ Average Scoreline: 37-35
 ### La Plata V Newman on 2025/05/31
 
 
-Average Margin: Newman by 5.9
+Average Margin: Newman by 6.9
 
-Average Scoreline: 34-29
+Average Scoreline: 35-28
 
 <p float="left">
 <img src="plots/performances_2025-05-31-LaPlata_V_Newman.png" width="32%" />
@@ -556,7 +556,7 @@ Average Scoreline: 34-29
 ### Alumni V San Luis on 2025/05/31
 
 
-Average Margin: Alumni by 13.6
+Average Margin: Alumni by 13.2
 
 Average Scoreline: 35-21
 
@@ -571,7 +571,7 @@ Average Scoreline: 35-21
 ### Buenos Aires V Alumni on 2025/06/07
 
 
-Average Margin: Alumni by 7.9
+Average Margin: Alumni by 8.1
 
 Average Scoreline: 38-30
 
@@ -584,7 +584,7 @@ Average Scoreline: 38-30
 ### Hindu V La Plata on 2025/06/07
 
 
-Average Margin: Hindu by 9.1
+Average Margin: Hindu by 8.6
 
 Average Scoreline: 34-25
 
@@ -597,7 +597,7 @@ Average Scoreline: 34-25
 ### SIC V CASI on 2025/06/07
 
 
-Average Margin: SIC by 2.1
+Average Margin: SIC by 2.2
 
 Average Scoreline: 33-31
 
@@ -610,7 +610,7 @@ Average Scoreline: 33-31
 ### Newman V CUBA on 2025/06/07
 
 
-Average Margin: Newman by 7.1
+Average Margin: Newman by 6.8
 
 Average Scoreline: 32-25
 
@@ -636,9 +636,9 @@ Average Scoreline: 36-27
 ### Regatas Bella Vista V San Luis on 2025/06/07
 
 
-Average Margin: Regatas Bella Vista by 10.3
+Average Margin: Regatas Bella Vista by 10.7
 
-Average Scoreline: 33-23
+Average Scoreline: 34-23
 
 <p float="left">
 <img src="plots/performances_2025-06-07-RegatasBellaVista_V_SanLuis.png" width="32%" />
@@ -651,7 +651,7 @@ Average Scoreline: 33-23
 ### San Luis V SIC on 2025/06/14
 
 
-Average Margin: SIC by 3.5
+Average Margin: SIC by 4.4
 
 Average Scoreline: 29-25
 
@@ -664,9 +664,9 @@ Average Scoreline: 29-25
 ### Belgrano V Newman on 2025/06/14
 
 
-Average Margin: Belgrano by 7.3
+Average Margin: Belgrano by 6.2
 
-Average Scoreline: 31-24
+Average Scoreline: 31-25
 
 <p float="left">
 <img src="plots/performances_2025-06-14-Belgrano_V_Newman.png" width="32%" />
@@ -677,7 +677,7 @@ Average Scoreline: 31-24
 ### Alumni V Regatas Bella Vista on 2025/06/14
 
 
-Average Margin: Alumni by 5.7
+Average Margin: Alumni by 6.6
 
 Average Scoreline: 31-25
 
@@ -703,7 +703,7 @@ Average Scoreline: 37-23
 ### La Plata V Buenos Aires on 2025/06/14
 
 
-Average Margin: La Plata by 4.2
+Average Margin: La Plata by 4.1
 
 Average Scoreline: 30-26
 
@@ -716,9 +716,9 @@ Average Scoreline: 30-26
 ### CUBA V Hindu on 2025/06/14
 
 
-Average Margin: CUBA by 4.7
+Average Margin: CUBA by 4.9
 
-Average Scoreline: 30-26
+Average Scoreline: 30-25
 
 <p float="left">
 <img src="plots/performances_2025-06-14-CUBA_V_Hindu.png" width="32%" />
@@ -731,9 +731,9 @@ Average Scoreline: 30-26
 ### La Plata V Alumni on 2025/06/21
 
 
-Average Margin: Alumni by 7.5
+Average Margin: Alumni by 7.0
 
-Average Scoreline: 39-31
+Average Scoreline: 39-32
 
 <p float="left">
 <img src="plots/performances_2025-06-21-LaPlata_V_Alumni.png" width="32%" />
@@ -757,9 +757,9 @@ Average Scoreline: 29-24
 ### Newman V CASI on 2025/06/21
 
 
-Average Margin: Newman by 2.2
+Average Margin: Newman by 2.6
 
-Average Scoreline: 32-30
+Average Scoreline: 33-30
 
 <p float="left">
 <img src="plots/performances_2025-06-21-Newman_V_CASI.png" width="32%" />
@@ -770,9 +770,9 @@ Average Scoreline: 32-30
 ### Hindu V Belgrano on 2025/06/21
 
 
-Average Margin: Belgrano by 3.2
+Average Margin: Belgrano by 2.2
 
-Average Scoreline: 32-29
+Average Scoreline: 31-29
 
 <p float="left">
 <img src="plots/performances_2025-06-21-Hindu_V_Belgrano.png" width="32%" />
@@ -783,9 +783,9 @@ Average Scoreline: 32-29
 ### Buenos Aires V CUBA on 2025/06/21
 
 
-Average Margin: CUBA by 3.0
+Average Margin: CUBA by 2.9
 
-Average Scoreline: 31-28
+Average Scoreline: 31-29
 
 <p float="left">
 <img src="plots/performances_2025-06-21-BuenosAires_V_CUBA.png" width="32%" />
@@ -796,9 +796,9 @@ Average Scoreline: 31-28
 ### Los Tilos V San Luis on 2025/06/21
 
 
-Average Margin: Los Tilos by 1.9
+Average Margin: Los Tilos by 1.5
 
-Average Scoreline: 32-30
+Average Scoreline: 32-31
 
 <p float="left">
 <img src="plots/performances_2025-06-21-LosTilos_V_SanLuis.png" width="32%" />
@@ -824,9 +824,9 @@ Average Scoreline: 34-30
 ### CASI V Hindu on 2025/06/28
 
 
-Average Margin: CASI by 9.4
+Average Margin: CASI by 9.3
 
-Average Scoreline: 36-26
+Average Scoreline: 35-26
 
 <p float="left">
 <img src="plots/performances_2025-06-28-CASI_V_Hindu.png" width="32%" />
@@ -837,9 +837,9 @@ Average Scoreline: 36-26
 ### Belgrano V Buenos Aires on 2025/06/28
 
 
-Average Margin: Belgrano by 14.3
+Average Margin: Belgrano by 15.7
 
-Average Scoreline: 36-22
+Average Scoreline: 37-21
 
 <p float="left">
 <img src="plots/performances_2025-06-28-Belgrano_V_BuenosAires.png" width="32%" />
@@ -850,9 +850,9 @@ Average Scoreline: 36-22
 ### CUBA V La Plata on 2025/06/28
 
 
-Average Margin: CUBA by 9.4
+Average Margin: CUBA by 10.3
 
-Average Scoreline: 33-24
+Average Scoreline: 33-23
 
 <p float="left">
 <img src="plots/performances_2025-06-28-CUBA_V_LaPlata.png" width="32%" />
@@ -863,9 +863,9 @@ Average Scoreline: 33-24
 ### Regatas Bella Vista V Los Tilos on 2025/06/28
 
 
-Average Margin: Regatas Bella Vista by 12.2
+Average Margin: Regatas Bella Vista by 13.1
 
-Average Scoreline: 35-23
+Average Scoreline: 35-22
 
 <p float="left">
 <img src="plots/performances_2025-06-28-RegatasBellaVista_V_LosTilos.png" width="32%" />
@@ -876,9 +876,9 @@ Average Scoreline: 35-23
 ### Alumni V SIC on 2025/06/28
 
 
-Average Margin: Alumni by 5.6
+Average Margin: Alumni by 5.9
 
-Average Scoreline: 29-24
+Average Scoreline: 29-23
 
 <p float="left">
 <img src="plots/performances_2025-06-28-Alumni_V_SIC.png" width="32%" />
@@ -904,7 +904,7 @@ Average Scoreline: 28-25
 ### San Luis V Hindu on 2025/07/12
 
 
-Average Margin: Hindu by 0.1
+Average Margin: Hindu by 0.4
 
 Average Scoreline: 30-30
 
@@ -917,9 +917,9 @@ Average Scoreline: 30-30
 ### Belgrano V La Plata on 2025/07/12
 
 
-Average Margin: Belgrano by 15.0
+Average Margin: Belgrano by 14.5
 
-Average Scoreline: 35-20
+Average Scoreline: 35-21
 
 <p float="left">
 <img src="plots/performances_2025-07-12-Belgrano_V_LaPlata.png" width="32%" />
@@ -930,9 +930,9 @@ Average Scoreline: 35-20
 ### CASI V Buenos Aires on 2025/07/12
 
 
-Average Margin: CASI by 13.6
+Average Margin: CASI by 13.7
 
-Average Scoreline: 39-26
+Average Scoreline: 39-25
 
 <p float="left">
 <img src="plots/performances_2025-07-12-CASI_V_BuenosAires.png" width="32%" />
@@ -943,7 +943,7 @@ Average Scoreline: 39-26
 ### SIC V Los Tilos on 2025/07/12
 
 
-Average Margin: SIC by 12.8
+Average Margin: SIC by 12.7
 
 Average Scoreline: 34-22
 
@@ -956,7 +956,7 @@ Average Scoreline: 34-22
 ### CUBA V Alumni on 2025/07/12
 
 
-Average Margin: Alumni by 0.8
+Average Margin: Alumni by 1.5
 
 Average Scoreline: 31-30
 
@@ -971,7 +971,7 @@ Average Scoreline: 31-30
 ### CUBA V Belgrano on 2025/07/19
 
 
-Average Margin: Belgrano by 2.2
+Average Margin: Belgrano by 2.0
 
 Average Scoreline: 32-30
 
@@ -997,9 +997,9 @@ Average Scoreline: 37-31
 ### Alumni V Los Tilos on 2025/07/19
 
 
-Average Margin: Alumni by 13.8
+Average Margin: Alumni by 14.5
 
-Average Scoreline: 35-21
+Average Scoreline: 36-21
 
 <p float="left">
 <img src="plots/performances_2025-07-19-Alumni_V_LosTilos.png" width="32%" />
@@ -1010,7 +1010,7 @@ Average Scoreline: 35-21
 ### Buenos Aires V San Luis on 2025/07/19
 
 
-Average Margin: Buenos Aires by 2.2
+Average Margin: Buenos Aires by 2.9
 
 Average Scoreline: 32-30
 
@@ -1023,9 +1023,9 @@ Average Scoreline: 32-30
 ### Hindu V Regatas Bella Vista on 2025/07/19
 
 
-Average Margin: Hindu by 0.6
+Average Margin: Hindu by 0.5
 
-Average Scoreline: 30-29
+Average Scoreline: 29-29
 
 <p float="left">
 <img src="plots/performances_2025-07-19-Hindu_V_RegatasBellaVista.png" width="32%" />
@@ -1051,9 +1051,9 @@ Average Scoreline: 29-25
 ### CASI V CUBA on 2025/08/02
 
 
-Average Margin: CASI by 8.7
+Average Margin: CASI by 8.3
 
-Average Scoreline: 37-28
+Average Scoreline: 37-29
 
 <p float="left">
 <img src="plots/performances_2025-08-02-CASI_V_CUBA.png" width="32%" />
@@ -1064,7 +1064,7 @@ Average Scoreline: 37-28
 ### San Luis V La Plata on 2025/08/02
 
 
-Average Margin: San Luis by 4.2
+Average Margin: San Luis by 4.7
 
 Average Scoreline: 31-27
 
@@ -1077,9 +1077,9 @@ Average Scoreline: 31-27
 ### Regatas Bella Vista V Buenos Aires on 2025/08/02
 
 
-Average Margin: Regatas Bella Vista by 11.3
+Average Margin: Regatas Bella Vista by 11.7
 
-Average Scoreline: 33-22
+Average Scoreline: 33-21
 
 <p float="left">
 <img src="plots/performances_2025-08-02-RegatasBellaVista_V_BuenosAires.png" width="32%" />
@@ -1090,7 +1090,7 @@ Average Scoreline: 33-22
 ### SIC V Hindu on 2025/08/02
 
 
-Average Margin: SIC by 8.7
+Average Margin: SIC by 7.6
 
 Average Scoreline: 31-23
 
@@ -1116,7 +1116,7 @@ Average Scoreline: 37-31
 ### Belgrano V Alumni on 2025/08/02
 
 
-Average Margin: Belgrano by 4.7
+Average Margin: Belgrano by 5.0
 
 Average Scoreline: 30-25
 
@@ -1131,7 +1131,7 @@ Average Scoreline: 30-25
 ### Buenos Aires V SIC on 2025/08/09
 
 
-Average Margin: SIC by 5.4
+Average Margin: SIC by 5.7
 
 Average Scoreline: 35-29
 
@@ -1144,7 +1144,7 @@ Average Scoreline: 35-29
 ### CUBA V San Luis on 2025/08/09
 
 
-Average Margin: CUBA by 8.3
+Average Margin: CUBA by 8.7
 
 Average Scoreline: 33-25
 
@@ -1157,7 +1157,7 @@ Average Scoreline: 33-25
 ### Hindu V Los Tilos on 2025/08/09
 
 
-Average Margin: Hindu by 8.4
+Average Margin: Hindu by 8.9
 
 Average Scoreline: 32-23
 
@@ -1172,7 +1172,7 @@ Average Scoreline: 32-23
 
 Average Margin: Belgrano by 5.4
 
-Average Scoreline: 33-28
+Average Scoreline: 34-28
 
 <p float="left">
 <img src="plots/performances_2025-08-09-Belgrano_V_CASI.png" width="32%" />
@@ -1183,9 +1183,9 @@ Average Scoreline: 33-28
 ### Alumni V Newman on 2025/08/09
 
 
-Average Margin: Alumni by 5.6
+Average Margin: Alumni by 4.4
 
-Average Scoreline: 32-26
+Average Scoreline: 31-27
 
 <p float="left">
 <img src="plots/performances_2025-08-09-Alumni_V_Newman.png" width="32%" />
@@ -1196,7 +1196,7 @@ Average Scoreline: 32-26
 ### La Plata V Regatas Bella Vista on 2025/08/09
 
 
-Average Margin: Regatas Bella Vista by 4.5
+Average Margin: Regatas Bella Vista by 4.0
 
 Average Scoreline: 37-33
 
@@ -1211,9 +1211,9 @@ Average Scoreline: 37-33
 ### CASI V Alumni on 2025/08/16
 
 
-Average Margin: CASI by 3.1
+Average Margin: CASI by 3.7
 
-Average Scoreline: 32-29
+Average Scoreline: 32-28
 
 <p float="left">
 <img src="plots/performances_2025-08-16-CASI_V_Alumni.png" width="32%" />
@@ -1224,7 +1224,7 @@ Average Scoreline: 32-29
 ### Newman V Hindu on 2025/08/16
 
 
-Average Margin: Newman by 7.9
+Average Margin: Newman by 8.0
 
 Average Scoreline: 33-25
 
@@ -1237,9 +1237,9 @@ Average Scoreline: 33-25
 ### Regatas Bella Vista V CUBA on 2025/08/16
 
 
-Average Margin: Regatas Bella Vista by 6.7
+Average Margin: Regatas Bella Vista by 5.5
 
-Average Scoreline: 29-22
+Average Scoreline: 28-23
 
 <p float="left">
 <img src="plots/performances_2025-08-16-RegatasBellaVista_V_CUBA.png" width="32%" />
@@ -1250,9 +1250,9 @@ Average Scoreline: 29-22
 ### Los Tilos V Buenos Aires on 2025/08/16
 
 
-Average Margin: Los Tilos by 3.9
+Average Margin: Los Tilos by 3.4
 
-Average Scoreline: 32-28
+Average Scoreline: 31-28
 
 <p float="left">
 <img src="plots/performances_2025-08-16-LosTilos_V_BuenosAires.png" width="32%" />
@@ -1263,7 +1263,7 @@ Average Scoreline: 32-28
 ### SIC V La Plata on 2025/08/16
 
 
-Average Margin: SIC by 11.5
+Average Margin: SIC by 11.4
 
 Average Scoreline: 33-22
 
@@ -1276,7 +1276,7 @@ Average Scoreline: 33-22
 ### San Luis V Belgrano on 2025/08/16
 
 
-Average Margin: Belgrano by 5.9
+Average Margin: Belgrano by 6.6
 
 Average Scoreline: 34-28
 
@@ -1291,7 +1291,7 @@ Average Scoreline: 34-28
 ### CUBA V SIC on 2025/08/30
 
 
-Average Margin: CUBA by 0.5
+Average Margin: CUBA by 0.3
 
 Average Scoreline: 28-28
 
@@ -1304,7 +1304,7 @@ Average Scoreline: 28-28
 ### Belgrano V Regatas Bella Vista on 2025/08/30
 
 
-Average Margin: Belgrano by 7.8
+Average Margin: Belgrano by 7.9
 
 Average Scoreline: 31-23
 
@@ -1317,9 +1317,9 @@ Average Scoreline: 31-23
 ### La Plata V Los Tilos on 2025/08/30
 
 
-Average Margin: La Plata by 4.6
+Average Margin: La Plata by 4.3
 
-Average Scoreline: 33-28
+Average Scoreline: 32-28
 
 <p float="left">
 <img src="plots/performances_2025-08-30-LaPlata_V_LosTilos.png" width="32%" />
@@ -1343,7 +1343,7 @@ Average Scoreline: 33-24
 ### CASI V San Luis on 2025/08/30
 
 
-Average Margin: CASI by 12.3
+Average Margin: CASI by 12.4
 
 Average Scoreline: 38-26
 
@@ -1356,7 +1356,7 @@ Average Scoreline: 38-26
 ### Buenos Aires V Newman on 2025/08/30
 
 
-Average Margin: Newman by 5.7
+Average Margin: Newman by 5.5
 
 Average Scoreline: 37-31
 
@@ -1371,9 +1371,9 @@ Average Scoreline: 37-31
 ### Regatas Bella Vista V CASI on 2025/09/06
 
 
-Average Margin: Regatas Bella Vista by 1.3
+Average Margin: Regatas Bella Vista by 2.0
 
-Average Scoreline: 31-30
+Average Scoreline: 32-30
 
 <p float="left">
 <img src="plots/performances_2025-09-06-RegatasBellaVista_V_CASI.png" width="32%" />
@@ -1384,9 +1384,9 @@ Average Scoreline: 31-30
 ### Hindu V Buenos Aires on 2025/09/06
 
 
-Average Margin: Hindu by 8.3
+Average Margin: Hindu by 8.7
 
-Average Scoreline: 29-21
+Average Scoreline: 30-21
 
 <p float="left">
 <img src="plots/performances_2025-09-06-Hindu_V_BuenosAires.png" width="32%" />
@@ -1397,7 +1397,7 @@ Average Scoreline: 29-21
 ### Los Tilos V CUBA on 2025/09/06
 
 
-Average Margin: CUBA by 1.4
+Average Margin: CUBA by 1.9
 
 Average Scoreline: 33-31
 
@@ -1410,7 +1410,7 @@ Average Scoreline: 33-31
 ### SIC V Belgrano on 2025/09/06
 
 
-Average Margin: SIC by 0.6
+Average Margin: SIC by 1.4
 
 Average Scoreline: 30-29
 
@@ -1423,7 +1423,7 @@ Average Scoreline: 30-29
 ### San Luis V Alumni on 2025/09/06
 
 
-Average Margin: Alumni by 5.5
+Average Margin: Alumni by 5.6
 
 Average Scoreline: 38-33
 
@@ -1436,9 +1436,9 @@ Average Scoreline: 38-33
 ### Newman V La Plata on 2025/09/06
 
 
-Average Margin: Newman by 11.4
+Average Margin: Newman by 12.0
 
-Average Scoreline: 34-23
+Average Scoreline: 34-22
 
 <p float="left">
 <img src="plots/performances_2025-09-06-Newman_V_LaPlata.png" width="32%" />
@@ -1451,9 +1451,9 @@ Average Scoreline: 34-23
 ### CUBA V Newman on 2025/09/13
 
 
-Average Margin: CUBA by 0.8
+Average Margin: CUBA by 1.3
 
-Average Scoreline: 31-31
+Average Scoreline: 32-30
 
 <p float="left">
 <img src="plots/performances_2025-09-13-CUBA_V_Newman.png" width="32%" />
@@ -1464,7 +1464,7 @@ Average Scoreline: 31-31
 ### CASI V SIC on 2025/09/13
 
 
-Average Margin: CASI by 5.2
+Average Margin: CASI by 5.7
 
 Average Scoreline: 32-27
 
@@ -1477,7 +1477,7 @@ Average Scoreline: 32-27
 ### Alumni V Buenos Aires on 2025/09/13
 
 
-Average Margin: Alumni by 13.8
+Average Margin: Alumni by 12.9
 
 Average Scoreline: 35-22
 
@@ -1490,7 +1490,7 @@ Average Scoreline: 35-22
 ### San Luis V Regatas Bella Vista on 2025/09/13
 
 
-Average Margin: Regatas Bella Vista by 2.7
+Average Margin: Regatas Bella Vista by 3.0
 
 Average Scoreline: 37-34
 
@@ -1503,7 +1503,7 @@ Average Scoreline: 37-34
 ### La Plata V Hindu on 2025/09/13
 
 
-Average Margin: Hindu by 0.3
+Average Margin: Hindu by 1.1
 
 Average Scoreline: 33-32
 
@@ -1516,9 +1516,9 @@ Average Scoreline: 33-32
 ### Belgrano V Los Tilos on 2025/09/13
 
 
-Average Margin: Belgrano by 15.6
+Average Margin: Belgrano by 14.3
 
-Average Scoreline: 36-20
+Average Scoreline: 35-21
 
 <p float="left">
 <img src="plots/performances_2025-09-13-Belgrano_V_LosTilos.png" width="32%" />
@@ -1531,7 +1531,7 @@ Average Scoreline: 36-20
 ### Hindu V CUBA on 2025/09/27
 
 
-Average Margin: Hindu by 3.3
+Average Margin: Hindu by 2.8
 
 Average Scoreline: 28-25
 
@@ -1544,7 +1544,7 @@ Average Scoreline: 28-25
 ### Regatas Bella Vista V Alumni on 2025/09/27
 
 
-Average Margin: Regatas Bella Vista by 1.5
+Average Margin: Regatas Bella Vista by 1.6
 
 Average Scoreline: 29-28
 
@@ -1557,7 +1557,7 @@ Average Scoreline: 29-28
 ### SIC V San Luis on 2025/09/27
 
 
-Average Margin: SIC by 10.8
+Average Margin: SIC by 11.0
 
 Average Scoreline: 34-23
 
@@ -1570,7 +1570,7 @@ Average Scoreline: 34-23
 ### Los Tilos V CASI on 2025/09/27
 
 
-Average Margin: CASI by 5.9
+Average Margin: CASI by 6.4
 
 Average Scoreline: 41-35
 
@@ -1596,7 +1596,7 @@ Average Scoreline: 30-29
 ### Buenos Aires V La Plata on 2025/09/27
 
 
-Average Margin: Buenos Aires by 3.3
+Average Margin: Buenos Aires by 3.7
 
 Average Scoreline: 31-27
 
@@ -1611,7 +1611,7 @@ Average Scoreline: 31-27
 ### Regatas Bella Vista V SIC on 2025/10/04
 
 
-Average Margin: Regatas Bella Vista by 3.3
+Average Margin: Regatas Bella Vista by 3.2
 
 Average Scoreline: 26-23
 
@@ -1624,7 +1624,7 @@ Average Scoreline: 26-23
 ### Alumni V La Plata on 2025/10/04
 
 
-Average Margin: Alumni by 13.0
+Average Margin: Alumni by 12.7
 
 Average Scoreline: 35-22
 
@@ -1637,7 +1637,7 @@ Average Scoreline: 35-22
 ### CUBA V Buenos Aires on 2025/10/04
 
 
-Average Margin: CUBA by 9.1
+Average Margin: CUBA by 9.5
 
 Average Scoreline: 33-24
 
@@ -1650,9 +1650,9 @@ Average Scoreline: 33-24
 ### CASI V Newman on 2025/10/04
 
 
-Average Margin: CASI by 5.3
+Average Margin: CASI by 4.4
 
-Average Scoreline: 33-28
+Average Scoreline: 33-29
 
 <p float="left">
 <img src="plots/performances_2025-10-04-CASI_V_Newman.png" width="32%" />
@@ -1663,9 +1663,9 @@ Average Scoreline: 33-28
 ### Belgrano V Hindu on 2025/10/04
 
 
-Average Margin: Belgrano by 10.5
+Average Margin: Belgrano by 9.2
 
-Average Scoreline: 36-25
+Average Scoreline: 35-26
 
 <p float="left">
 <img src="plots/performances_2025-10-04-Belgrano_V_Hindu.png" width="32%" />
@@ -1676,7 +1676,7 @@ Average Scoreline: 36-25
 ### San Luis V Los Tilos on 2025/10/04
 
 
-Average Margin: San Luis by 5.2
+Average Margin: San Luis by 5.4
 
 Average Scoreline: 32-26
 
@@ -1691,7 +1691,7 @@ Average Scoreline: 32-26
 ### Hindu V CASI on 2025/10/11
 
 
-Average Margin: CASI by 1.6
+Average Margin: CASI by 1.0
 
 Average Scoreline: 31-30
 
@@ -1704,7 +1704,7 @@ Average Scoreline: 31-30
 ### La Plata V CUBA on 2025/10/11
 
 
-Average Margin: CUBA by 1.1
+Average Margin: CUBA by 1.8
 
 Average Scoreline: 29-27
 
@@ -1717,7 +1717,7 @@ Average Scoreline: 29-27
 ### Newman V San Luis on 2025/10/11
 
 
-Average Margin: Newman by 10.8
+Average Margin: Newman by 11.4
 
 Average Scoreline: 35-24
 
@@ -1730,7 +1730,7 @@ Average Scoreline: 35-24
 ### Los Tilos V Regatas Bella Vista on 2025/10/11
 
 
-Average Margin: Regatas Bella Vista by 4.2
+Average Margin: Regatas Bella Vista by 3.9
 
 Average Scoreline: 38-34
 
@@ -1743,7 +1743,7 @@ Average Scoreline: 38-34
 ### SIC V Alumni on 2025/10/11
 
 
-Average Margin: SIC by 2.1
+Average Margin: SIC by 1.9
 
 Average Scoreline: 29-27
 
@@ -1756,7 +1756,7 @@ Average Scoreline: 29-27
 ### Buenos Aires V Belgrano on 2025/10/11
 
 
-Average Margin: Belgrano by 7.5
+Average Margin: Belgrano by 7.4
 
 Average Scoreline: 38-30
 

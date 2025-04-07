@@ -39,19 +39,19 @@ aside:
 
 | Club             |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Chambery         |                   2 |    1.5 |             11.0386  |                   0.3 |                1.2 |                  7.6 |
-| Narbonne         |                   2 |    1.6 |             15.7014  |                   0.3 |                0.9 |                  7.5 |
-| Carcassonne      |                   2 |    1.2 |              8.04264 |                   0.5 |                0.7 |                  6.1 |
-| Albi             |                   2 |    1.2 |              4.42538 |                   0.5 |                0.3 |                  5.7 |
-| Massy            |                   2 |    1.1 |              4.12296 |                   0.5 |                0.7 |                  5.6 |
-| Périgueux        |                   2 |    1.1 |              2.71447 |                   0.5 |                0.6 |                  5.6 |
-| Rouen            |                   2 |    1   |             -1.07094 |                   0.6 |                0.5 |                  5.1 |
-| Tarbes           |                   2 |    0.9 |             -4.43863 |                   0.5 |                0.9 |                  4.9 |
-| US Bressane      |                   2 |    0.8 |             -4.31007 |                   0.8 |                0.5 |                  4.3 |
-| Suresnes         |                   2 |    0.8 |             -8.5584  |                   0.5 |                0.6 |                  4.1 |
-| Langon           |                   2 |    0.3 |            -20.0624  |                   0.5 |                0.5 |                  2.1 |
-| Marcq-en-Baroeul |                   1 |    0.3 |             -3.63495 |                   0.4 |                0.4 |                  2   |
-| Bourgoin-Jallieu |                   1 |    0.3 |             -3.97009 |                   0.4 |                0.4 |                  1.9 |
+| Chambery         |                   2 |    1.5 |            12.3381   |                   0.3 |                1.3 |                  7.8 |
+| Narbonne         |                   2 |    1.6 |            15.8201   |                   0.2 |                0.9 |                  7.6 |
+| Carcassonne      |                   2 |    1.2 |             7.98352  |                   0.5 |                0.7 |                  6   |
+| Albi             |                   2 |    1.2 |             3.39725  |                   0.5 |                0.3 |                  5.7 |
+| Périgueux        |                   2 |    1.1 |             2.76573  |                   0.6 |                0.6 |                  5.6 |
+| Massy            |                   2 |    1.1 |             2.68138  |                   0.5 |                0.7 |                  5.5 |
+| Rouen            |                   2 |    1   |             0.453656 |                   0.5 |                0.6 |                  5.3 |
+| Tarbes           |                   2 |    0.8 |            -4.69344  |                   0.6 |                0.9 |                  4.7 |
+| US Bressane      |                   2 |    0.8 |            -3.25446  |                   0.8 |                0.5 |                  4.5 |
+| Suresnes         |                   2 |    0.7 |            -9.33219  |                   0.5 |                0.6 |                  3.9 |
+| Bourgoin-Jallieu |                   1 |    0.3 |            -3.56864  |                   0.4 |                0.4 |                  2.1 |
+| Langon           |                   2 |    0.3 |           -20.4231   |                   0.5 |                0.5 |                  2   |
+| Marcq-en-Baroeul |                   1 |    0.3 |            -4.16791  |                   0.4 |                0.4 |                  1.9 |
 
 
 
@@ -60,19 +60,19 @@ aside:
 
 | Club                |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Chambery            |              26 |   18.5 |             295.039  |                   5.3 |                1.2 |                 88.6 |
-| Narbonne            |              26 |   19.6 |             110.701  |                   3.3 |                0.9 |                 88.5 |
-| Périgueux           |              26 |   17.1 |             177.714  |                   6.5 |                0.6 |                 81.6 |
-| Rouen               |              26 |   18   |             194.929  |                   1.6 |                0.5 |                 80.1 |
-| Carcassonne         |              26 |   17.2 |             149.043  |                   4.5 |                0.7 |                 79.1 |
-| Albi                |              26 |   16.2 |             104.425  |                   5.5 |                0.3 |                 76.7 |
-| Massy               |              26 |   15.1 |             103.123  |                   7.5 |                0.7 |                 74.6 |
-| Tarbes              |              26 |   10.9 |             -65.4386 |                   7.5 |                0.9 |                 54.9 |
-| US Bressane         |              26 |   10.8 |             -40.3101 |                   6.8 |                0.5 |                 54.3 |
-| Marcq-en-Baroeul    |              26 |    9.3 |             -98.6349 |                   7.4 |                0.4 |                 50   |
-| Bourgoin-Jallieu    |              26 |   10.3 |             -72.9701 |                   4.4 |                0.4 |                 47.9 |
-| Suresnes            |              26 |    8.8 |             -76.5584 |                   8.5 |                0.6 |                 47.1 |
-| Langon              |              26 |    8.3 |            -131.062  |                   6.5 |                0.5 |                 43.1 |
+| Chambery            |              26 |   18.5 |             296.338  |                   5.3 |                1.3 |                 88.8 |
+| Narbonne            |              26 |   19.6 |             110.82   |                   3.2 |                0.9 |                 88.6 |
+| Périgueux           |              26 |   17.1 |             177.766  |                   6.6 |                0.6 |                 81.6 |
+| Rouen               |              26 |   18   |             196.454  |                   1.5 |                0.6 |                 80.3 |
+| Carcassonne         |              26 |   17.2 |             148.984  |                   4.5 |                0.7 |                 79   |
+| Albi                |              26 |   16.2 |             103.397  |                   5.5 |                0.3 |                 76.7 |
+| Massy               |              26 |   15.1 |             101.681  |                   7.5 |                0.7 |                 74.5 |
+| Tarbes              |              26 |   10.8 |             -65.6934 |                   7.6 |                0.9 |                 54.7 |
+| US Bressane         |              26 |   10.8 |             -39.2545 |                   6.8 |                0.5 |                 54.5 |
+| Marcq-en-Baroeul    |              26 |    9.3 |             -99.1679 |                   7.4 |                0.4 |                 49.9 |
+| Bourgoin-Jallieu    |              26 |   10.3 |             -72.5686 |                   4.4 |                0.4 |                 48.1 |
+| Suresnes            |              26 |    8.7 |             -77.3322 |                   8.5 |                0.6 |                 46.9 |
+| Langon              |              26 |    8.3 |            -131.423  |                   6.5 |                0.5 |                 43   |
 | Carqueiranne-Hyères |              26 |    0   |            -650      |                   0   |                0   |                  0   |
 
 
@@ -94,7 +94,7 @@ aside:
 ### Albi V Périgueux on 2025/04/11
 
 
-Average Margin: Albi by 2.6
+Average Margin: Albi by 2.4
 
 Average Scoreline: 22-19
 
@@ -107,7 +107,7 @@ Average Scoreline: 22-19
 ### Tarbes V Bourgoin-Jallieu on 2025/04/11
 
 
-Average Margin: Tarbes by 4.0
+Average Margin: Tarbes by 3.6
 
 Average Scoreline: 29-25
 
@@ -120,9 +120,9 @@ Average Scoreline: 29-25
 ### Rouen V Massy on 2025/04/11
 
 
-Average Margin: Rouen by 4.3
+Average Margin: Rouen by 5.6
 
-Average Scoreline: 25-21
+Average Scoreline: 26-20
 
 <p float="left">
 <img src="plots/performances_2025-04-11-Rouen_V_Massy.png" width="32%" />
@@ -133,7 +133,7 @@ Average Scoreline: 25-21
 ### Langon V Chambery on 2025/04/12
 
 
-Average Margin: Chambery by 7.4
+Average Margin: Chambery by 8.2
 
 Average Scoreline: 36-28
 
@@ -146,7 +146,7 @@ Average Scoreline: 36-28
 ### Suresnes V US Bressane on 2025/04/12
 
 
-Average Margin: Suresnes by 2.5
+Average Margin: Suresnes by 2.2
 
 Average Scoreline: 29-27
 
@@ -159,9 +159,9 @@ Average Scoreline: 29-27
 ### Narbonne V Carcassonne on 2025/04/12
 
 
-Average Margin: Narbonne by 3.0
+Average Margin: Narbonne by 3.6
 
-Average Scoreline: 27-24
+Average Scoreline: 27-23
 
 <p float="left">
 <img src="plots/performances_2025-04-12-Narbonne_V_Carcassonne.png" width="32%" />
@@ -174,9 +174,9 @@ Average Scoreline: 27-24
 ### Carcassonne V Suresnes on 2025/04/26
 
 
-Average Margin: Carcassonne by 11.1
+Average Margin: Carcassonne by 11.6
 
-Average Scoreline: 28-17
+Average Scoreline: 28-16
 
 <p float="left">
 <img src="plots/performances_2025-04-26-Carcassonne_V_Suresnes.png" width="32%" />
@@ -187,7 +187,7 @@ Average Scoreline: 28-17
 ### US Bressane V Albi on 2025/04/26
 
 
-Average Margin: Albi by 1.8
+Average Margin: Albi by 1.0
 
 Average Scoreline: 21-20
 
@@ -200,9 +200,9 @@ Average Scoreline: 21-20
 ### Marcq-en-Baroeul V Chambery on 2025/04/26
 
 
-Average Margin: Chambery by 3.6
+Average Margin: Chambery by 4.2
 
-Average Scoreline: 34-31
+Average Scoreline: 35-31
 
 <p float="left">
 <img src="plots/performances_2025-04-26-Marcq-en-Baroeul_V_Chambery.png" width="32%" />
@@ -213,7 +213,7 @@ Average Scoreline: 34-31
 ### Périgueux V Rouen on 2025/04/26
 
 
-Average Margin: Périgueux by 5.4
+Average Margin: Périgueux by 5.1
 
 Average Scoreline: 23-18
 
@@ -226,9 +226,9 @@ Average Scoreline: 23-18
 ### Narbonne V Langon on 2025/04/26
 
 
-Average Margin: Narbonne by 12.7
+Average Margin: Narbonne by 12.3
 
-Average Scoreline: 26-13
+Average Scoreline: 26-14
 
 <p float="left">
 <img src="plots/performances_2025-04-26-Narbonne_V_Langon.png" width="32%" />
@@ -239,7 +239,7 @@ Average Scoreline: 26-13
 ### Massy V Tarbes on 2025/04/26
 
 
-Average Margin: Massy by 8.4
+Average Margin: Massy by 8.3
 
 Average Scoreline: 30-22
 

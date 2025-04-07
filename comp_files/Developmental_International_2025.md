@@ -42,7 +42,7 @@ aside:
 ### Hungary V Ukraine on 2025/04/12
 
 
-Average Margin: Ukraine by 4.1
+Average Margin: Ukraine by 3.5
 
 Average Scoreline: 31-27
 
@@ -55,9 +55,9 @@ Average Scoreline: 31-27
 ### Turkey V Serbia on 2025/04/12
 
 
-Average Margin: Turkey by 23.8
+Average Margin: Turkey by 25.2
 
-Average Scoreline: 36-12
+Average Scoreline: 36-11
 
 <p float="left">
 <img src="plots/performances_2025-04-12-Turkey_V_Serbia.png" width="32%" />

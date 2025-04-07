@@ -17,8 +17,8 @@ aside:
 
 | Club                |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| CASI                |               1 |    0.9 |              25.0089 |                   0   |                0.7 |                  4.4 |
-| La Plata Rugby Club |               1 |    0.1 |             -25.0089 |                   0.1 |                0.1 |                  0.5 |
+| CASI                |               1 |    0.9 |              24.5721 |                   0.1 |                0.7 |                  4.4 |
+| La Plata Rugby Club |               1 |    0.1 |             -24.5721 |                   0.1 |                0.1 |                  0.6 |
 
 
 
@@ -29,9 +29,9 @@ aside:
 ### CASI V La Plata Rugby Club on 2025/04/12
 
 
-Average Margin: CASI by 25.0
+Average Margin: CASI by 24.6
 
-Average Scoreline: 40-15
+Average Scoreline: 39-15
 
 <p float="left">
 <img src="plots/performances_2025-04-12-CASI_V_LaPlataRugbyClub.png" width="32%" />

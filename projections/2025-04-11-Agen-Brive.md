@@ -9,7 +9,7 @@ categories: "Pro D2 24/25" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.48, which translates to predicting Brive to win by 1.0.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.482, which translates to predicting Brive to win by 0.8.
 
 Our Over/Under is 72.5 - and combined with the spread above, we have a predicted scoreline of 37 to 36
 

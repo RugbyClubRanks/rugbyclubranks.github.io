@@ -9,7 +9,7 @@ categories: "URBA Top 13 2025" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.743, which translates to predicting Belgrano to win by 10.2.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.738, which translates to predicting Belgrano to win by 10.2.
 
 Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 21 to 32
 
