@@ -11,7 +11,7 @@ categories: "RFU Championship 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.914, which translates to predicting Coventry to win by 21.0.
 
-Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 16 to 37
+Our Over/Under is 63.5 - and combined with the spread above, we have a predicted scoreline of 21 to 42
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,19 +69,19 @@ Coventry by 10.2 on a neutral pitch
 
 |   Away Minutes | Away Player      |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:-----------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|           80   | Monty Weatherby  |             63.23 |        1 |             10.94 | Jevaughn Warren    |             22 |
-|           34.5 | Matt Gallagher   |             33.17 |        2 |             16.09 | Will Biggs         |             22 |
-|           80   | Joe Sproston     |              5.55 |        3 |             83.28 | Vilikesa Nairau    |             80 |
-|           19   | Alex Groves      |             74.76 |        4 |             56.97 | Dan Green          |             64 |
-|           50   | Thomas Sanders   |             32.11 |        5 |             98.68 | Senitiki Nayalo    |             26 |
-|           27   | Callum Ridgway   |             11.01 |        6 |             92.41 | Tom Ball           |             62 |
-|           30   | Jordan Jones     |             31.12 |        7 |             35.39 | Aaron Hinkley      |             80 |
-|           40   | Josiah Dickinson |             16.53 |        8 |             34.68 | Chester Owen       |             80 |
-|           23   | Ollie Wynn       |             24.16 |        9 |             25.68 | Sam Maunder        |             80 |
-|           34   | Lewis Barker     |             10.1  |       10 |             62.89 | Tommy Mathews      |             18 |
-|           30   | William Robinson |              8.01 |       11 |             94.11 | James Martin       |             16 |
-|           34   | Michael Barlow   |             17.52 |       12 |             65.99 | Thomas Hitchcock   |             73 |
-|           80   | Connor Wilkinson |              7.13 |       13 |             48.88 | Dafydd-Rhys Tiueti |             35 |
-|           80   | Nick Royle       |             20.53 |       14 |             37.94 | Jacob Henry        |             80 |
-|           80   | Matt Kilcourse   |             16.57 |       15 |             31.72 | Charlie Robson     |             80 |
+|             80 | Monty Weatherby  |             63.83 |        1 |             12    | Jevaughn Warren    |             55 |
+|             80 | Matt Gallagher   |             29.26 |        2 |             18.56 | Will Biggs         |             55 |
+|             80 | Joe Sproston     |              5.48 |        3 |             82.27 | Vilikesa Nairau    |             47 |
+|             35 | Alex Groves      |             74.18 |        4 |             58.34 | Dan Green          |             80 |
+|             21 | Thomas Sanders   |             34.78 |        5 |             98.68 | Senitiki Nayalo    |             45 |
+|             35 | Callum Ridgway   |             11.7  |        6 |             92.51 | Tom Ball           |             80 |
+|             62 | Jordan Jones     |             29.59 |        7 |             35.11 | Aaron Hinkley      |             71 |
+|             67 | Josiah Dickinson |             15.65 |        8 |             32.11 | Chester Owen       |             59 |
+|             25 | Ollie Wynn       |             25.3  |        9 |             24.28 | Sam Maunder        |             69 |
+|             35 | Lewis Barker     |             10.25 |       10 |             67.42 | Tommy Mathews      |             72 |
+|             21 | William Robinson |              8.16 |       11 |             94.06 | James Martin       |             21 |
+|             40 | Michael Barlow   |             16.9  |       12 |             64.87 | Thomas Hitchcock   |             54 |
+|             80 | Connor Wilkinson |              7.54 |       13 |             51.02 | Dafydd-Rhys Tiueti |             54 |
+|             80 | Nick Royle       |             21.71 |       14 |             36.09 | Jacob Henry        |             65 |
+|             65 | Matt Kilcourse   |             16.53 |       15 |             30.41 | Charlie Robson     |             80 |
 

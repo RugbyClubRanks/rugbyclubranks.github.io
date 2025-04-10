@@ -9,7 +9,7 @@ categories: "Japan Rugby League One D3 24/25" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.951, which translates to predicting Skyactivs Hiroshima to win by 32.2.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.952, which translates to predicting Skyactivs Hiroshima to win by 32.3.
 
 Our Over/Under is 41.5 - and combined with the spread above, we have a predicted scoreline of 5 to 37
 

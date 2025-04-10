@@ -9,7 +9,7 @@ categories: "Nationale 24/25" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.588, which translates to predicting Narbonne to win by 3.6.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.582, which translates to predicting Narbonne to win by 3.8.
 
 Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 23 to 27
 
@@ -42,5 +42,5 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction with Imputed Lineups: Narbonne by 11.5
 
 
-Carcassonne by 1.7 on a neutral pitch
+Carcassonne by 1.8 on a neutral pitch
 

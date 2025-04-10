@@ -9,7 +9,7 @@ categories: "Guinness Women's Six Nations 2025" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.779, which translates to predicting Scotland Women to win by 12.4.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.787, which translates to predicting Scotland Women to win by 12.3.
 
 Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 18 to 30
 

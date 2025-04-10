@@ -1,6 +1,6 @@
 ---  
 title: "Rugby Europe Trophy 2025 Status"  
-date: 2025-04-07 6:00:00 -0500  
+date: 2025-04-10 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -31,8 +31,8 @@ aside:
 
 | Club   |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Sweden |                   1 |    0.9 |              21.7027 |                   0   |                0.6 |                  4.3 |
-| Poland |                   1 |    0.1 |             -21.7027 |                   0.1 |                0.1 |                  0.5 |
+| Sweden |                   1 |    0.9 |              22.7976 |                   0   |                0.6 |                  4.4 |
+| Poland |                   1 |    0.1 |             -22.7976 |                   0.1 |                0.1 |                  0.5 |
 
 
 
@@ -41,8 +41,8 @@ aside:
 
 | Club           |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Poland         |               3 |    2.1 |              32.2973 |                   0.1 |                0.1 |                  8.5 |
-| Sweden         |               2 |    1.9 |              60.7027 |                   0   |                0.6 |                  8.3 |
+| Poland         |               3 |    2.1 |              31.2024 |                   0.1 |                0.1 |                  8.5 |
+| Sweden         |               2 |    1.9 |              61.7976 |                   0   |                0.6 |                  8.4 |
 | Czech Republic |               2 |    2   |              65      |                   0   |                0   |                  8   |
 | Croatia        |               1 |    0   |             -31      |                   0   |                0   |                  0   |
 | Lithuania      |               1 |    0   |             -41      |                   0   |                0   |                  0   |
@@ -67,9 +67,9 @@ aside:
 ### Sweden V Poland on 2025/04/12
 
 
-Average Margin: Sweden by 21.7
+Average Margin: Sweden by 22.8
 
-Average Scoreline: 38-16
+Average Scoreline: 39-16
 
 <p float="left">
 <img src="plots/performances_2025-04-12-Sweden_V_Poland.png" width="32%" />

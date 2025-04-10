@@ -164,7 +164,7 @@ key: page-recents
 ## European Rugby Challenge Cup
 
 
-[2425](comp_files\European_Rugby_Challenge_Cup_2425) - Prediction Accuracy: 83.3% 
+[2425](comp_files\European_Rugby_Challenge_Cup_2425) - Prediction Accuracy: 75.0% 
 
 [2024](comp_files\European_Rugby_Challenge_Cup_2024) - Prediction Accuracy: 82.1% 
 

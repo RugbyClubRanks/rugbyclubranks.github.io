@@ -1,6 +1,6 @@
 ---  
 title: "Guinness Women's Six Nations 2025 Status"  
-date: 2025-04-07 6:00:00 -0500  
+date: 2025-04-10 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -31,12 +31,12 @@ aside:
 
 | Club           |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| England Women  |                   1 |    0.9 |              29.1575 |                   0   |                0.8 |                  4.5 |
-| France Women   |                   1 |    0.9 |              21.3314 |                   0   |                0.6 |                  4.4 |
-| Scotland Women |                   1 |    0.9 |              12.4269 |                   0.1 |                0.5 |                  4   |
-| Italy Women    |                   1 |    0.1 |             -12.4269 |                   0.2 |                0.2 |                  1   |
-| Ireland Women  |                   1 |    0.1 |             -29.1575 |                   0.1 |                0.4 |                  0.7 |
-| Wales Women    |                   1 |    0.1 |             -21.3314 |                   0.1 |                0.1 |                  0.5 |
+| England Women  |                   1 |    0.9 |              29.944  |                   0   |                0.7 |                  4.5 |
+| France Women   |                   1 |    0.9 |              22.4629 |                   0   |                0.6 |                  4.4 |
+| Scotland Women |                   1 |    0.9 |              12.2691 |                   0.1 |                0.5 |                  4.1 |
+| Italy Women    |                   1 |    0.1 |             -12.2691 |                   0.2 |                0.2 |                  1   |
+| Ireland Women  |                   1 |    0.1 |             -29.944  |                   0   |                0.4 |                  0.6 |
+| Wales Women    |                   1 |    0.1 |             -22.4629 |                   0.1 |                0.1 |                  0.4 |
 
 
 
@@ -45,12 +45,12 @@ aside:
 
 | Club           |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| England Women  |               3 |    2.9 |           117.158    |                   0   |                0.8 |                 12.5 |
-| France Women   |               3 |    2.9 |            56.3314   |                   0   |                0.6 |                 12.4 |
-| Scotland Women |               3 |    1.9 |            -7.57308  |                   0.1 |                0.5 |                  8   |
-| Ireland Women  |               3 |    1.1 |             0.842464 |                   0.1 |                0.4 |                  4.7 |
-| Wales Women    |               3 |    0.1 |           -79.3314   |                   1.1 |                0.1 |                  1.5 |
-| Italy Women    |               3 |    0.1 |           -87.4269   |                   0.2 |                0.2 |                  1   |
+| England Women  |               3 |    2.9 |          117.944     |                   0   |                0.7 |                 12.5 |
+| France Women   |               3 |    2.9 |           57.4629    |                   0   |                0.6 |                 12.4 |
+| Scotland Women |               3 |    1.9 |           -7.73095   |                   0.1 |                0.5 |                  8.1 |
+| Ireland Women  |               3 |    1.1 |            0.0559648 |                   0   |                0.4 |                  4.6 |
+| Wales Women    |               3 |    0.1 |          -80.4629    |                   1.1 |                0.1 |                  1.4 |
+| Italy Women    |               3 |    0.1 |          -87.2691    |                   0.2 |                0.2 |                  1   |
 
 
 
@@ -71,9 +71,9 @@ aside:
 ### France Women V Wales Women on 2025/04/12
 
 
-Average Margin: France Women by 21.3
+Average Margin: France Women by 22.5
 
-Average Scoreline: 38-17
+Average Scoreline: 38-16
 
 <p float="left">
 <img src="plots/performances_2025-04-12-FranceWomen_V_WalesWomen.png" width="32%" />
@@ -84,9 +84,9 @@ Average Scoreline: 38-17
 ### Ireland Women V England Women on 2025/04/12
 
 
-Average Margin: England Women by 29.2
+Average Margin: England Women by 29.9
 
-Average Scoreline: 39-10
+Average Scoreline: 40-10
 
 <p float="left">
 <img src="plots/performances_2025-04-12-IrelandWomen_V_EnglandWomen.png" width="32%" />
@@ -97,7 +97,7 @@ Average Scoreline: 39-10
 ### Scotland Women V Italy Women on 2025/04/13
 
 
-Average Margin: Scotland Women by 12.4
+Average Margin: Scotland Women by 12.3
 
 Average Scoreline: 30-18
 

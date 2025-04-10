@@ -1,6 +1,6 @@
 ---  
 title: "Developmental International 2025 Status"  
-date: 2025-04-07 6:00:00 -0500  
+date: 2025-04-10 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -39,23 +39,10 @@ aside:
 
 ## Week 4
 
-### Hungary V Ukraine on 2025/04/12
-
-
-Average Margin: Ukraine by 3.5
-
-Average Scoreline: 31-27
-
-<p float="left">
-<img src="plots/performances_2025-04-12-Hungary_V_Ukraine.png" width="32%" />
-<img src="plots/resultbar_2025-04-12-Hungary_V_Ukraine.png" width="32%" />
-<img src="plots/spreads_2025-04-12-Hungary_V_Ukraine.png" width="32%" />
-</p>
-
 ### Turkey V Serbia on 2025/04/12
 
 
-Average Margin: Turkey by 25.2
+Average Margin: Turkey by 24.4
 
 Average Scoreline: 36-11
 
@@ -63,4 +50,17 @@ Average Scoreline: 36-11
 <img src="plots/performances_2025-04-12-Turkey_V_Serbia.png" width="32%" />
 <img src="plots/resultbar_2025-04-12-Turkey_V_Serbia.png" width="32%" />
 <img src="plots/spreads_2025-04-12-Turkey_V_Serbia.png" width="32%" />
+</p>
+
+### Hungary V Ukraine on 2025/04/12
+
+
+Average Margin: Ukraine by 3.6
+
+Average Scoreline: 31-27
+
+<p float="left">
+<img src="plots/performances_2025-04-12-Hungary_V_Ukraine.png" width="32%" />
+<img src="plots/resultbar_2025-04-12-Hungary_V_Ukraine.png" width="32%" />
+<img src="plots/spreads_2025-04-12-Hungary_V_Ukraine.png" width="32%" />
 </p>

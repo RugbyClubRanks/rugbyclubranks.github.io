@@ -11,7 +11,7 @@ categories: "RFU Championship 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.55, which translates to predicting Doncaster to win by 1.8.
 
-Our Over/Under is 61.5 - and combined with the spread above, we have a predicted scoreline of 30 to 32
+Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 23 to 25
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,19 +69,19 @@ Bedford by 3.4 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player       |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:------------------|---------------:|
-|             21 | Jamie Jack           |             34.39 |        1 |             11.73 | Conor Davidson    |             40 |
-|              7 | James Fish           |             50.75 |        2 |             28.03 | George Roberts    |             30 |
-|             49 | Oisin Heffernan      |             90.49 |        3 |             95.96 | Logovi'i Mulipola |             15 |
-|             20 | Ed Prowse            |             63.56 |        4 |             56.59 | Ben Murphy        |             80 |
-|             40 | Alex Woolford        |             69.4  |        5 |             62.05 | Adam Hopkinson    |             80 |
-|             40 | Archie Benson        |             33.4  |        6 |             34.16 | Arthur Green      |             54 |
-|             30 | Joe Howard           |             14.04 |        7 |             30.83 | Rhys Tait         |             71 |
-|             50 | Freddie Tuilagi      |              9.88 |        8 |             29.44 | Morgan Strong     |             80 |
-|             19 | Alex Day             |             91.89 |        9 |             47.64 | Alex Dolly        |             41 |
-|             15 | William Maisey       |             91.13 |       10 |             94.43 | Russell Bennett   |             23 |
-|             18 | Dean Adamson         |             90.24 |       11 |             21.36 | Jordan Olowofela  |              0 |
-|             80 | Michael Le Bourgeois |             65.07 |       12 |             11.41 | Zach Kerr         |             13 |
-|             46 | Lucas Titherington   |             74.34 |       13 |              5.5  | George Wacokecoke |             49 |
-|             18 | Alfie Garside        |             78.08 |       14 |             90.79 | Semesa Rokoduguni |             40 |
-|             80 | Louis James          |             49.49 |       15 |             98.38 | Telusa Veainu     |             49 |
+|           40   | Jamie Jack           |             33.7  |        1 |             12.16 | Conor Davidson    |             46 |
+|           80   | James Fish           |             46.66 |        2 |             28.26 | George Roberts    |             43 |
+|           30.5 | Oisin Heffernan      |             90.54 |        3 |             96.1  | Logovi'i Mulipola |             80 |
+|           44   | Ed Prowse            |             63.43 |        4 |             54.1  | Ben Murphy        |             59 |
+|           80   | Alex Woolford        |             68.9  |        5 |             59.1  | Adam Hopkinson    |             43 |
+|           63   | Archie Benson        |             33.61 |        6 |             35.02 | Arthur Green      |             59 |
+|           66   | Joe Howard           |             14.42 |        7 |             26.03 | Rhys Tait         |              9 |
+|           30   | Freddie Tuilagi      |             10.77 |        8 |             23.98 | Morgan Strong     |             14 |
+|           80   | Alex Day             |             91.74 |        9 |             44.69 | Alex Dolly        |             21 |
+|           40   | William Maisey       |             90.98 |       10 |             94.67 | Russell Bennett   |             61 |
+|           40   | Dean Adamson         |             90.17 |       11 |             21.99 | Jordan Olowofela  |              0 |
+|           55   | Michael Le Bourgeois |             66.8  |       12 |             11.71 | Zach Kerr         |             37 |
+|           59   | Lucas Titherington   |             74.34 |       13 |              5.09 | George Wacokecoke |             21 |
+|           56   | Alfie Garside        |             77.37 |       14 |             91.09 | Semesa Rokoduguni |             80 |
+|           80   | Louis James          |             51.22 |       15 |             98.16 | Telusa Veainu     |             80 |
 

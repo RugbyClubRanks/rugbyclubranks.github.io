@@ -11,7 +11,7 @@ categories: "RFU Championship 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.123, which translates to predicting Ealing Trailfinders to win by 17.4.
 
-Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 35 to 17
+Our Over/Under is 57.5 - and combined with the spread above, we have a predicted scoreline of 37 to 20
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,19 +69,19 @@ Ealing Trailfinders by 21.7 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player                 |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:----------------------------|---------------:|
-|             65 | Elliott Chilvers    |             31.85 |        1 |             57.61 | Harrison Courtney           |             54 |
-|             80 | Mike Willemse       |             86.07 |        2 |             18.24 | Luke Thompson               |             80 |
-|             80 | Biyi Alo            |             97.23 |        3 |              5.07 | Callum Norrie               |             18 |
-|             31 | Bobby de Wee        |             96.61 |        4 |             49.81 | Kennedy Sylvester           |             16 |
-|              9 | Matas Jurevicius    |             26.55 |        5 |             13.65 | Aidan King                  |             80 |
-|             31 | Rob Farrar          |             90.42 |        6 |              7.97 | Lekima Ravuvu               |             80 |
-|              0 | Jordy Reid          |             80.27 |        7 |              7.87 | Charles Rylands             |             80 |
-|             80 | Josh Taylor         |             68.35 |        8 |              6.45 | Tino Mapapalangi            |             30 |
-|             80 | Micheal Stronge     |             21.45 |        9 |             12.33 | Rory Morgan                 |             80 |
-|             80 | Dan Jones           |             89.07 |       10 |              6.6  | Josh Barton                 |             45 |
-|             57 | Tom Collins         |             99.17 |       11 |             10.13 | Vereimi Qorowale            |             80 |
-|             80 | Jordan Holgate      |             97.35 |       12 |             71.79 | Fraser James Kevin Strachan |             80 |
-|             50 | Reuben Bird-Tulloch |             86.15 |       13 |             33.91 | Sione Va'enuku              |             80 |
-|             25 | Ben Harris          |             61.69 |       14 |             35.73 | Mason Cullen                |              0 |
-|             80 | Michael Dykes       |             83.64 |       15 |             23.64 | Evan Mitchell               |             58 |
+|           80   | Elliott Chilvers    |             38.24 |        1 |             49.76 | Harrison Courtney           |           80   |
+|           26   | Mike Willemse       |             83.11 |        2 |             16.56 | Luke Thompson               |           76   |
+|           10.5 | Biyi Alo            |             96.58 |        3 |              4.61 | Callum Norrie               |           40   |
+|           80   | Bobby de Wee        |             97.93 |        4 |             43.36 | Kennedy Sylvester           |           40   |
+|           18   | Matas Jurevicius    |             29.41 |        5 |             11.5  | Aidan King                  |           80   |
+|           66   | Rob Farrar          |             92.04 |        6 |              8.43 | Lekima Ravuvu               |           80   |
+|           80   | Jordy Reid          |             84.64 |        7 |              9.08 | Charles Rylands             |           53   |
+|            0   | Josh Taylor         |             58.74 |        8 |              5.69 | Tino Mapapalangi            |           59   |
+|           26   | Micheal Stronge     |             16.36 |        9 |             16.02 | Rory Morgan                 |           18   |
+|            0   | Dan Jones           |             87.09 |       10 |              6.35 | Josh Barton                 |           30.5 |
+|           37   | Tom Collins         |             99.17 |       11 |              9.83 | Vereimi Qorowale            |           80   |
+|           18   | Jordan Holgate      |             96.44 |       12 |             74.54 | Fraser James Kevin Strachan |           18   |
+|           10.5 | Reuben Bird-Tulloch |             85.03 |       13 |             32.89 | Sione Va'enuku              |           62   |
+|           80   | Ben Harris          |             71.61 |       14 |             23.65 | Mason Cullen                |           80   |
+|           80   | Michael Dykes       |             84.08 |       15 |             22.45 | Evan Mitchell               |           51   |
 

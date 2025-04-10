@@ -9,9 +9,9 @@ categories: "Pro D2 24/25" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.741, which translates to predicting Grenoble to win by 9.2.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.743, which translates to predicting Grenoble to win by 9.3.
 
-Our Over/Under is 66.5 - and combined with the spread above, we have a predicted scoreline of 29 to 38
+Our Over/Under is 63.5 - and combined with the spread above, we have a predicted scoreline of 27 to 36
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Grenoble by 22.8
+## Prediction without Player Minutes: Grenoble by 22.7
 
 
-Grenoble by 9.7 on a neutral pitch
+Grenoble by 9.6 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Grenoble by 9.7 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|           80   | Ali-Amjad Osman-Bosch |             49.45 |        1 |             91.05 | Tommy Raynaud      |            0   |
-|           80   | Luka Begic            |             59.54 |        2 |             37.81 | Mathis Sarragallet |           49   |
-|           62   | Gheorghe Gajion       |             84.94 |        3 |             40.41 | Johannes Jonker    |           80   |
-|           29   | Harrison Mataele      |              7.06 |        4 |             51.04 | Thomas Lainault    |           25   |
-|           47   | Romain Durand         |             70.15 |        5 |             68.17 | Pierce Phillips    |           57   |
-|           27   | Yann Brethous         |             60.82 |        6 |             85.01 | Antonin Berruyer   |           53   |
-|           40   | Waël Ponpon           |              9.77 |        7 |             82.16 | Thibaut Martel     |            0   |
-|           20   | Aurélien Lafforgue    |             24.4  |        8 |             90.93 | Hanru Sirgel       |           80   |
-|           80   | Nicolas Darquier      |             51.86 |        9 |             18.75 | Barnabe Couilloud  |           63   |
-|           25   | Patricio Fernandez    |             63.09 |       10 |             41.65 | Sam Davies         |           80   |
-|           80   | Pierre Sayerse        |             91.9  |       11 |             89.04 | Wilfried Hulleu    |           80   |
-|           80   | Baptiste Grulovic     |             43.28 |       12 |             98.27 | Bautista Ezcurra   |           60   |
-|           55   | Gatien Masse          |             68.13 |       13 |             75.36 | Romain Trouilloud  |           80   |
-|           80   | Simao Bento           |             12.52 |       14 |             91.71 | Kaminieli Rasaku   |            0   |
-|           60   | Théo Cortes           |             18.59 |       15 |             71.92 | Hugo Trouilloud    |           65   |
-|           15   | Ewan Bertheau         |              1.8  |       16 |             77.11 | Bastien Soury      |            4.5 |
-|           31.5 | Florian Dufour        |             45.11 |       17 |             93.79 | Giorgi Kveseladze  |           66   |
-|           65   | Mathis Bats           |            nan    |       18 |             58.95 | Eli Eglaine        |           11   |
-|           71   | Jules Dussutour       |             19.02 |       19 |             51.03 | Cody Thomas        |           31   |
-|           58   | Baptiste Canut        |             43.41 |       20 |             90.77 | Jose Madeira       |           59   |
-|           22   | Nacani Wakaya         |             88.09 |       21 |             53.02 | Richard Hardwick   |           49   |
-|           15   | Semi Lagivala         |             14.36 |       22 |              9.07 | Marc Palmier       |           80   |
-|           80   | Samuel Lagrange       |             31.01 |       23 |             85.98 | Max Clement        |           52   |
+|             60 | Ali-Amjad Osman-Bosch |             50.87 |        1 |             90.86 | Tommy Raynaud      |             80 |
+|             80 | Luka Begic            |             61.04 |        2 |             36.29 | Mathis Sarragallet |             63 |
+|             80 | Gheorghe Gajion       |             85.06 |        3 |             36.72 | Johannes Jonker    |             52 |
+|             80 | Harrison Mataele      |              6.88 |        4 |             51.84 | Thomas Lainault    |             80 |
+|             80 | Romain Durand         |             70.88 |        5 |             67.48 | Pierce Phillips    |             41 |
+|             52 | Yann Brethous         |             61.99 |        6 |             84.46 | Antonin Berruyer   |             41 |
+|             15 | Waël Ponpon           |             10.86 |        7 |             82.49 | Thibaut Martel     |             28 |
+|             80 | Aurélien Lafforgue    |             25    |        8 |             90.65 | Hanru Sirgel       |             65 |
+|             39 | Nicolas Darquier      |             53.46 |        9 |             18.04 | Barnabe Couilloud  |             63 |
+|             71 | Patricio Fernandez    |             63.93 |       10 |             39.55 | Sam Davies         |             80 |
+|             17 | Pierre Sayerse        |             91.74 |       11 |             88.68 | Wilfried Hulleu    |             80 |
+|             80 | Baptiste Grulovic     |             45.21 |       12 |             98.17 | Bautista Ezcurra   |             52 |
+|             28 | Gatien Masse          |             68.94 |       13 |             74.85 | Romain Trouilloud  |             50 |
+|             17 | Simao Bento           |             12.62 |       14 |             91.65 | Kaminieli Rasaku   |             80 |
+|             80 | Théo Cortes           |             19.8  |       15 |             72.04 | Hugo Trouilloud    |             63 |
+|              9 | Ewan Bertheau         |              2.34 |       16 |             77.09 | Bastien Soury      |             80 |
+|             63 | Florian Dufour        |             45.82 |       17 |             92.67 | Giorgi Kveseladze  |             80 |
+|             41 | Mathis Bats           |            nan    |       18 |             59.22 | Eli Eglaine        |              9 |
+|             19 | Jules Dussutour       |             19.42 |       19 |             51.11 | Cody Thomas        |             52 |
+|             24 | Baptiste Canut        |             43.51 |       20 |             90.2  | Jose Madeira       |             31 |
+|             80 | Nacani Wakaya         |             88.59 |       21 |             54.07 | Richard Hardwick   |             28 |
+|             15 | Semi Lagivala         |             14.56 |       22 |              8.81 | Marc Palmier       |              8 |
+|              3 | Samuel Lagrange       |             30.6  |       23 |             86.27 | Max Clement        |             80 |
 
