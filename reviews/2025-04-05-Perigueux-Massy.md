@@ -11,7 +11,7 @@ categories: "Nationale 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.679, which translates to predicting Périgueux to win by 6.6.
 
-Our Over/Under is 39.5 - and combined with the spread above, we have a predicted scoreline of 17 to 23
+Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 21 to 27
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Périgueux by 4.2
+## Prediction without Player Minutes: Périgueux by 4.3
 
 
-Périgueux by 1.2 on a neutral pitch
+Périgueux by 1.3 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Périgueux by 1.2 on a neutral pitch
 
 |   Away Minutes | Away Player            |   Away Percentile |   Number |   Home Percentile | Home Player       |   Home Minutes |
 |---------------:|:-----------------------|------------------:|---------:|------------------:|:------------------|---------------:|
-|             10 | Robin Poipy            |             56.52 |        1 |             75.52 | Emilien Borges    |             80 |
-|             23 | Pierre Trassoudaine    |             93.81 |        2 |              0.84 | Manu Leiataua     |             30 |
-|              4 | Nicolas Ferrer         |             84.18 |        3 |             63.91 | Kalaveti Tawake   |             75 |
-|             24 | Saba Pesvianidze       |             79.55 |        4 |             67.2  | Clement Lanen     |             80 |
-|             13 | Andrei Mahu            |             49.67 |        5 |             21.58 | Jaco Willemse     |             64 |
-|             80 | Hugo Boutin            |             49.25 |        6 |             65.54 | Karl Lambert      |             40 |
-|             28 | Clément Vidoni         |             62.45 |        7 |             97.47 | Afaesetiti Amosa  |             80 |
-|             23 | Alexandre Loubiere     |             77.44 |        8 |             75.41 | Masivesi Dakuwaqa |             62 |
-|             18 | Lucas Rubio            |             49.07 |        9 |             35.75 | Max Green         |             49 |
-|             57 | Gonzalo Lopez Bontempo |             43.85 |       10 |             74.59 | Greg Hutley       |             59 |
-|             31 | Ilian El Yahyaoui      |             60.39 |       11 |             83.67 | Tim Giresse       |             61 |
-|             20 | Arthur Seigneuret      |             81.57 |       12 |             87.58 | Cyril Couturier   |             50 |
-|             34 | Anthony Favier         |             53.05 |       13 |             67.21 | Dorian Lavernhe   |             18 |
-|             50 | Giorgi Gogoladze       |             20.59 |       14 |             92.58 | Fred Hickes       |             40 |
-|             50 | Alexandre Borie        |             62.86 |       15 |             62.45 | Yon Camou         |             21 |
-|             42 | Fernandez Correa       |              2.62 |       16 |             29.57 | Jason Tindiliere  |             80 |
-|             28 | Nolan Pienaar          |             49.52 |       17 |            nan    | Louis Martin      |             54 |
-|             62 | Tijde Visser           |             79.57 |       18 |             78.38 | Anthony Pelmard   |             80 |
-|             20 | Noa Rolnin             |            nan    |       19 |             66.73 | Richard Fourcade  |             56 |
-|             31 | Tony Tissot            |             33.15 |       20 |             57.11 | Nahum Merigan     |             80 |
-|             13 | Julien Blanc           |             72.68 |       21 |             29.01 | Nicolas Faltrept  |             40 |
-|             64 | Diego Pinheiro Ruiz    |             61.42 |       22 |             34.73 | Nicolas Piaton    |             75 |
-|            nan | nan                    |            nan    |       23 |             42.01 | Anderson Neisen   |             52 |
+|             80 | Robin Poipy            |             45.67 |        1 |             79.59 | Emilien Borges    |             80 |
+|             60 | Pierre Trassoudaine    |             92.99 |        2 |              0.83 | Manu Leiataua     |             61 |
+|             80 | Nicolas Ferrer         |             81.89 |        3 |             68.07 | Kalaveti Tawake   |             70 |
+|             18 | Saba Pesvianidze       |             79.2  |        4 |             70.85 | Clement Lanen     |             80 |
+|             21 | Andrei Mahu            |             37.42 |        5 |             24.69 | Jaco Willemse     |             61 |
+|              8 | Hugo Boutin            |             51.69 |        6 |             64.79 | Karl Lambert      |             14 |
+|             29 | Clément Vidoni         |             59.55 |        7 |             97.66 | Afaesetiti Amosa  |             65 |
+|             24 | Alexandre Loubiere     |             76.02 |        8 |             78.86 | Masivesi Dakuwaqa |             80 |
+|              0 | Lucas Rubio            |             49.07 |        9 |             44.35 | Max Green         |             66 |
+|             76 | Gonzalo Lopez Bontempo |             38.38 |       10 |             78.84 | Greg Hutley       |             80 |
+|             80 | Ilian El Yahyaoui      |             51.9  |       11 |             86.01 | Tim Giresse       |             80 |
+|             45 | Arthur Seigneuret      |             80.37 |       12 |             89.01 | Cyril Couturier   |             66 |
+|             56 | Anthony Favier         |             45.78 |       13 |             68.87 | Dorian Lavernhe   |             20 |
+|              0 | Giorgi Gogoladze       |             22.34 |       14 |             92.59 | Fred Hickes       |             14 |
+|             62 | Alexandre Borie        |             59.96 |       15 |             62.83 | Yon Camou         |              4 |
+|             35 | Fernandez Correa       |              2.7  |       16 |             29.71 | Jason Tindiliere  |             80 |
+|             80 | Nolan Pienaar          |             49.96 |       17 |            nan    | Louis Martin      |             44 |
+|             80 | Tijde Visser           |             80.06 |       18 |             78.47 | Anthony Pelmard   |             14 |
+|             35 | Noa Rolnin             |            nan    |       19 |             66.95 | Richard Fourcade  |             10 |
+|             80 | Tony Tissot            |             33.15 |       20 |             58.94 | Nahum Merigan     |             80 |
+|             80 | Julien Blanc           |             72.85 |       21 |             28.33 | Nicolas Faltrept  |             80 |
+|             80 | Diego Pinheiro Ruiz    |             60.49 |       22 |             33.98 | Nicolas Piaton    |             66 |
+|            nan | nan                    |            nan    |       23 |             43.15 | Anderson Neisen   |             42 |
 

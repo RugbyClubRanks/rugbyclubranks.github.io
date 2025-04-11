@@ -9,7 +9,7 @@ categories: "European Rugby Challenge Cup 24/25" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.765, which translates to predicting Connacht to win by 10.4.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.77, which translates to predicting Connacht to win by 10.7.
 
 Our Over/Under is 54.5 - and combined with the spread above, we have a predicted scoreline of 22 to 32
 

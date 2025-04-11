@@ -11,7 +11,7 @@ categories: "Super Rugby Americas 2025" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.431, which translates to predicting Dogos XV to win by 2.5.
 
-Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 23 to 21
+Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 28 to 25
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,25 +69,25 @@ Dogos XV by 9.1 on a neutral pitch
 
 |   Away Minutes | Away Player               |   Away Percentile |   Number |   Home Percentile | Home Player                      |   Home Minutes |
 |---------------:|:--------------------------|------------------:|---------:|------------------:|:---------------------------------|---------------:|
-|             27 | Boris Wenger              |             82.91 |        1 |             73.77 | Mariano Muntaner                 |             29 |
-|             51 | Leonel Oviedo             |             72.74 |        2 |             10.37 | Axel Zapata                      |              7 |
-|             75 | Pedro Delgado             |             66.61 |        3 |             20.35 | Rolando Portillo                 |             57 |
-|             53 | Lautaro Simes             |             80.3  |        4 |             12.82 | Mariano Garcete Elli             |             80 |
-|             50 | Federico Albrisi          |             46.84 |        5 |             99.06 | Lucas Sommer                     |             34 |
-|             68 | Aitor Bildosola           |             56.18 |        6 |              9.18 | Ramiro Nicolas Parada            |             30 |
-|             80 | Valentin Cabral           |             66.76 |        7 |              6.27 | Ariel Nunez Lesme                |             56 |
-|             32 | Gennaro Fissore           |             29.47 |        8 |             90.85 | Santiago Ruiz                    |             12 |
-|             80 | Agustin Moyano            |             83.31 |        9 |              9.95 | Juan Cruz Strada                 |             29 |
-|             80 | Juan Baronio              |             45.49 |       10 |             43.03 | Valentino Dicapua                |             58 |
-|             56 | Franco Rossetto           |             87.94 |       11 |             35.16 | Arturo Lopez                     |             21 |
-|             12 | Faustino Sánchez Valarolo |             89.71 |       12 |             19.55 | Ramiro Amarilla                  |             80 |
-|             80 | Agustin Segura            |             83.6  |       13 |             18.43 | Francisco Diez                   |             23 |
-|             56 | Mateo Soler               |             78.76 |       14 |             35.53 | Facundo Paiva                    |             80 |
-|             73 | Mateo Sanchez             |             19.39 |       15 |             10.41 | Julian Quetglas                  |             58 |
-|             80 | Julian Ignacio Hernandez  |             76.23 |       16 |              4.49 | Felipe Puertas                   |             80 |
-|             80 | Juan Cruz Caballero       |             42.07 |       17 |            nan    | Francisco Luis Bareiro Ochipinti |              0 |
-|             80 | Lorenzo Colidio           |             70.13 |       18 |            nan    | Luis Enrique Quinteros           |             48 |
-|             70 | Octavio Filippa           |             86.25 |       19 |            nan    | Jordi Chavez                     |             48 |
-|             80 | Gaston Revol              |            nan    |       20 |            nan    | Cesar Perez                      |             80 |
-|             80 | Ignacio Jose Gandini      |            nan    |       21 |            nan    | nan                              |            nan |
+|             80 | Boris Wenger              |             84.03 |        1 |             73.23 | Mariano Muntaner                 |             60 |
+|             80 | Leonel Oviedo             |             75.29 |        2 |             10.52 | Axel Zapata                      |             54 |
+|             54 | Pedro Delgado             |             69.02 |        3 |             18.03 | Rolando Portillo                 |             48 |
+|             34 | Lautaro Simes             |             81.67 |        4 |             11.49 | Mariano Garcete Elli             |             55 |
+|             34 | Federico Albrisi          |             50.24 |        5 |             99.05 | Lucas Sommer                     |             40 |
+|             34 | Aitor Bildosola           |             58.24 |        6 |              8.71 | Ramiro Nicolas Parada            |             69 |
+|             31 | Valentin Cabral           |             69.19 |        7 |              5.71 | Ariel Nunez Lesme                |             49 |
+|             80 | Gennaro Fissore           |             32.32 |        8 |             91.26 | Santiago Ruiz                    |             80 |
+|             80 | Agustin Moyano            |             85.16 |        9 |             10.12 | Juan Cruz Strada                 |              8 |
+|             40 | Juan Baronio              |             50.83 |       10 |             39.21 | Valentino Dicapua                |             69 |
+|             21 | Franco Rossetto           |             88.79 |       11 |             34.11 | Arturo Lopez                     |             80 |
+|             19 | Faustino Sánchez Valarolo |             89.83 |       12 |             16.79 | Ramiro Amarilla                  |             69 |
+|             58 | Agustin Segura            |             84.84 |       13 |             17.6  | Francisco Diez                   |             80 |
+|             72 | Mateo Soler               |             79.98 |       14 |             31.14 | Facundo Paiva                    |             80 |
+|             37 | Mateo Sanchez             |             21.15 |       15 |              9.86 | Julian Quetglas                  |             80 |
+|             43 | Julian Ignacio Hernandez  |             75.73 |       16 |              4.4  | Felipe Puertas                   |             56 |
+|             80 | Juan Cruz Caballero       |             42.68 |       17 |            nan    | Francisco Luis Bareiro Ochipinti |             80 |
+|             61 | Lorenzo Colidio           |             70.04 |       18 |            nan    | Luis Enrique Quinteros           |             80 |
+|             80 | Octavio Filippa           |             86.1  |       19 |            nan    | Jordi Chavez                     |             31 |
+|             66 | Gaston Revol              |            nan    |       20 |            nan    | Cesar Perez                      |             52 |
+|             26 | Ignacio Jose Gandini      |            nan    |       21 |            nan    | nan                              |            nan |
 

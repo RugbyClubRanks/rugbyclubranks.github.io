@@ -1,6 +1,6 @@
 ---  
 title: "Developmental International 2025 Status"  
-date: 2025-04-10 6:00:00 -0500  
+date: 2025-04-11 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -42,7 +42,7 @@ aside:
 ### Turkey V Serbia on 2025/04/12
 
 
-Average Margin: Turkey by 24.4
+Average Margin: Turkey by 24.6
 
 Average Scoreline: 36-11
 
@@ -55,7 +55,7 @@ Average Scoreline: 36-11
 ### Hungary V Ukraine on 2025/04/12
 
 
-Average Margin: Ukraine by 3.6
+Average Margin: Ukraine by 4.0
 
 Average Scoreline: 31-27
 

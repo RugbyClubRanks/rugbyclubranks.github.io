@@ -11,7 +11,7 @@ categories: "URBA Top 13 2025" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.404, which translates to predicting Belgrano to win by 3.5.
 
-Our Over/Under is 56.5 - and combined with the spread above, we have a predicted scoreline of 30 to 26
+Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 29 to 25
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,19 +69,19 @@ Belgrano by 12.8 on a neutral pitch
 
 |   Away Minutes | Away Player            |   Away Percentile |   Number |   Home Percentile | Home Player            |   Home Minutes |
 |---------------:|:-----------------------|------------------:|---------:|------------------:|:-----------------------|---------------:|
-|             56 | Francisco Ferronato    |             96.18 |        1 |             15.98 | Ariel Del Cerro        |             54 |
-|             80 | Santiago Villegas      |             66.89 |        2 |             37.29 | Facundo Scarpinelli    |             26 |
-|             51 | Lisandro Garcia Dragui |             80.13 |        3 |             24.88 | Ignacio Luna           |             80 |
-|             21 | Augusto Vaccarino      |             85.77 |        4 |             18.85 | Bautista Ozog          |             55 |
-|             21 | Mickael Blond Quesada  |             49.58 |        5 |             39.11 | Tomas Bernasconi       |             80 |
-|             80 | Joaquin de la Serna    |             95.41 |        6 |             30.81 | Juan Abriola           |             56 |
-|             21 | Julian Rebussone       |             88.86 |        7 |             26.12 | Francisco Humbert Lan  |             80 |
-|             80 | Franco Leon Vega       |             62.8  |        8 |             24.39 | Nicolas Chiappani      |             80 |
-|             80 | Theo Blaksley          |             41.65 |        9 |             27.66 | Joaquin Guimaraynz     |             80 |
-|             21 | Juan Aparicio          |             78.69 |       10 |             22.54 | Francisco Suarez Folch |             80 |
-|             63 | Pedro Arana            |             60.2  |       11 |            nan    | nan                    |            nan |
-|             25 | Martin Arana           |             75.25 |       12 |            nan    | nan                    |            nan |
-|             25 | Tomas Etchepare        |             83.71 |       13 |            nan    | nan                    |            nan |
-|             25 | Ignacio Diaz           |             84.69 |       14 |            nan    | nan                    |            nan |
-|              4 | Juan Lando             |             92.24 |       15 |            nan    | nan                    |            nan |
+|             57 | Francisco Ferronato    |             96.03 |        1 |             14.85 | Ariel Del Cerro        |             73 |
+|             80 | Santiago Villegas      |             65.28 |        2 |             27.05 | Facundo Scarpinelli    |             80 |
+|              7 | Lisandro Garcia Dragui |             74.34 |        3 |             39    | Ignacio Luna           |             15 |
+|             80 | Augusto Vaccarino      |             88.89 |        4 |             19.28 | Bautista Ozog          |             63 |
+|             80 | Mickael Blond Quesada  |             61.25 |        5 |             45.77 | Tomas Bernasconi       |             65 |
+|             33 | Joaquin de la Serna    |             93.63 |        6 |             28.46 | Juan Abriola           |             80 |
+|              0 | Julian Rebussone       |             87.83 |        7 |             40.92 | Francisco Humbert Lan  |             20 |
+|             80 | Franco Leon Vega       |             62.2  |        8 |             26.22 | Nicolas Chiappani      |             80 |
+|             28 | Theo Blaksley          |             27.32 |        9 |             38.95 | Joaquin Guimaraynz     |             34 |
+|             34 | Juan Aparicio          |             79.25 |       10 |             24.07 | Francisco Suarez Folch |             80 |
+|             23 | Pedro Arana            |             48.75 |       11 |            nan    | nan                    |            nan |
+|             30 | Martin Arana           |             75.48 |       12 |            nan    | nan                    |            nan |
+|             80 | Tomas Etchepare        |             86.47 |       13 |            nan    | nan                    |            nan |
+|             23 | Ignacio Diaz           |             84.34 |       14 |            nan    | nan                    |            nan |
+|             52 | Juan Lando             |             93.63 |       15 |            nan    | nan                    |            nan |
 
