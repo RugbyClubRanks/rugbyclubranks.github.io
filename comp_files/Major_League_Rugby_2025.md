@@ -1,6 +1,6 @@
 ---  
 title: "Major League Rugby 2025 Status"  
-date: 2025-04-11 6:00:00 -0500  
+date: 2025-04-14 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,18 +17,18 @@ aside:
 
 | Club                   |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Chicago Hounds         |        7 |      6 |                   44 |                     0 |                nan |                   28 |
-| San Diego Legion       |        7 |      5 |                   77 |                     1 |                nan |                   26 |
-| Houston SaberCats      |        8 |      5 |                   52 |                     3 |                nan |                   26 |
-| Utah Warriors          |        6 |      4 |                   41 |                     1 |                  4 |                   21 |
-| New England Free Jacks |        7 |      4 |                    9 |                     1 |                nan |                   20 |
-| RFC Los Angeles        |        7 |      4 |                   -7 |                     1 |                nan |                   18 |
-| Old Glory DC           |        6 |      3 |                    5 |                     1 |                nan |                   15 |
-| Seattle Seawolves      |        7 |      2 |                  -30 |                     3 |                nan |                   14 |
-| NOLA Gold              |        7 |      2 |                  -17 |                     4 |                nan |                   13 |
-| Miami Sharks           |        6 |      2 |                  -80 |                     0 |                nan |                    9 |
-| RFCLA                  |        1 |      1 |                    2 |                     0 |                nan |                    4 |
-| Anthem RC              |        7 |      0 |                  -96 |                     3 |                nan |                    3 |
+| Chicago Hounds         |        8 |      7 |                   52 |                     0 |                nan |                   32 |
+| Utah Warriors          |        8 |      6 |                   75 |                     1 |                nan |                   29 |
+| San Diego Legion       |        8 |      5 |                   50 |                     1 |                nan |                   26 |
+| Houston SaberCats      |        9 |      5 |                   45 |                     3 |                nan |                   26 |
+| New England Free Jacks |        8 |      5 |                   36 |                     1 |                nan |                   24 |
+| RFC Los Angeles        |        8 |      4 |                  -24 |                     1 |                nan |                   18 |
+| Miami Sharks           |        8 |      4 |                  -50 |                     0 |                nan |                   18 |
+| NOLA Gold              |        8 |      3 |                    5 |                     4 |                nan |                   17 |
+| Old Glory DC           |        8 |      3 |                  -38 |                     1 |                nan |                   16 |
+| Seattle Seawolves      |        7 |      2 |                  -32 |                     3 |                nan |                   14 |
+| RFCLA                  |        2 |      1 |                  -15 |                     0 |                nan |                    4 |
+| Anthem RC              |        8 |      0 |                 -104 |                     3 |                nan |                    3 |
 
 
 
@@ -37,18 +37,17 @@ aside:
 
 | Club                   |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Chicago Hounds         |                   9 |    6.9 |            86.8512   |                   1.3 |                4.7 |                 33.4 |
-| New England Free Jacks |                   9 |    6.7 |            55.4184   |                   1.5 |                4.1 |                 32.2 |
-| San Diego Legion       |                   9 |    6.1 |            43.4469   |                   1.7 |                3.7 |                 30   |
-| Houston SaberCats      |                   9 |    5.6 |            40.2515   |                   1.9 |                4.6 |                 29.1 |
-| Utah Warriors          |                  11 |    5.5 |            -0.810937 |                   2.6 |                3.8 |                 28.3 |
-| Seattle Seawolves      |                   9 |    4.6 |             9.04105  |                   2.4 |                2.9 |                 23.6 |
-| Old Glory DC           |                   9 |    4.3 |            -4.50876  |                   2.1 |                2.9 |                 22.4 |
-| RFC Los Angeles        |                   9 |    4.2 |             4.07039  |                   2.3 |                3.2 |                 22.2 |
-| NOLA Gold              |                   9 |    3.5 |           -29.0701   |                   2.3 |                2.1 |                 18.4 |
-| Miami Sharks           |                   9 |    1.8 |           -83.1013   |                   1.9 |                1.8 |                 10.9 |
-| Anthem RC              |                   9 |    1   |          -138.527    |                   1.4 |                1.4 |                  6.9 |
-| RFCLA                  |                   1 |    0.9 |            16.9387   |                   0.1 |                0.4 |                  3.9 |
+| New England Free Jacks |                   8 |    6.4 |             64.5656  |                   1   |                3.9 |                 30.4 |
+| Utah Warriors          |                   9 |    6.1 |             48.7139  |                   1.8 |                3.6 |                 29.8 |
+| Chicago Hounds         |                   8 |    5.9 |             59.2561  |                   1.3 |                3.8 |                 28.5 |
+| San Diego Legion       |                   8 |    5.1 |             28.1551  |                   1.7 |                3   |                 25.1 |
+| Seattle Seawolves      |                   9 |    4.5 |              1.39334 |                   2.3 |                2.8 |                 23.1 |
+| Houston SaberCats      |                   8 |    4.4 |             17.5505  |                   1.8 |                3.5 |                 22.9 |
+| RFC Los Angeles        |                   8 |    3.2 |            -19.9403  |                   1.9 |                4.1 |                 18.9 |
+| Old Glory DC           |                   8 |    3.3 |            -22.1811  |                   1.9 |                2.6 |                 17.7 |
+| NOLA Gold              |                   8 |    3   |            -24.7839  |                   2.4 |                1.9 |                 16.2 |
+| Miami Sharks           |                   8 |    2.2 |            -47.9321  |                   2.1 |                1.9 |                 12.7 |
+| Anthem RC              |                   8 |    1.1 |           -104.797   |                   1.5 |                1.3 |                  7.1 |
 
 
 
@@ -57,18 +56,18 @@ aside:
 
 | Club                   |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Chicago Hounds         |              16 |   12.9 |           130.851    |                   1.3 |                4.7 |                 61.4 |
-| San Diego Legion       |              16 |   11.1 |           120.447    |                   2.7 |                3.7 |                 56   |
-| Houston SaberCats      |              17 |   10.6 |            92.2515   |                   4.9 |                4.6 |                 55.1 |
-| New England Free Jacks |              16 |   10.7 |            64.4184   |                   2.5 |                4.1 |                 52.2 |
-| Utah Warriors          |              17 |    9.5 |            40.1891   |                   3.6 |                7.8 |                 49.3 |
-| RFC Los Angeles        |              16 |    8.2 |            -2.92961  |                   3.3 |                3.2 |                 40.2 |
-| Seattle Seawolves      |              16 |    6.6 |           -20.959    |                   5.4 |                2.9 |                 37.6 |
-| Old Glory DC           |              15 |    7.3 |             0.491244 |                   3.1 |                2.9 |                 37.4 |
-| NOLA Gold              |              16 |    5.5 |           -46.0701   |                   6.3 |                2.1 |                 31.4 |
-| Miami Sharks           |              15 |    3.8 |          -163.101    |                   1.9 |                1.8 |                 19.9 |
-| Anthem RC              |              16 |    1   |          -234.527    |                   4.4 |                1.4 |                  9.9 |
-| RFCLA                  |               2 |    1.9 |            18.9387   |                   0.1 |                0.4 |                  7.9 |
+| Chicago Hounds         |              16 |   12.9 |             111.256  |                   1.3 |                3.8 |                 60.5 |
+| Utah Warriors          |              17 |   12.1 |             123.714  |                   2.8 |                3.6 |                 58.8 |
+| New England Free Jacks |              16 |   11.4 |             100.566  |                   2   |                3.9 |                 54.4 |
+| San Diego Legion       |              16 |   10.1 |              78.1551 |                   2.7 |                3   |                 51.1 |
+| Houston SaberCats      |              17 |    9.4 |              62.5505 |                   4.8 |                3.5 |                 48.9 |
+| Seattle Seawolves      |              16 |    6.5 |             -30.6067 |                   5.3 |                2.8 |                 37.1 |
+| RFC Los Angeles        |              16 |    7.2 |             -43.9403 |                   2.9 |                4.1 |                 36.9 |
+| Old Glory DC           |              16 |    6.3 |             -60.1811 |                   2.9 |                2.6 |                 33.7 |
+| NOLA Gold              |              16 |    6   |             -19.7839 |                   6.4 |                1.9 |                 33.2 |
+| Miami Sharks           |              16 |    6.2 |             -97.9321 |                   2.1 |                1.9 |                 30.7 |
+| Anthem RC              |              16 |    1.1 |            -208.797  |                   4.5 |                1.3 |                 10.1 |
+| RFCLA                  |               2 |    1   |             -15      |                   0   |                0   |                  4   |
 
 
 
@@ -77,140 +76,21 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 68.4% | 12.7 |
-| Player Level: Lineup | 60.0% | 12.1 |
-| Player Level: Minutes | 70.0% | 11.9 |
+| Club Level | 66.7% | 13.7 |
+| Player Level: Lineup | 60.0% | 12.2 |
+| Player Level: Minutes | 50.0% | 11.9 |
 
 
 # Future Predictions
 
-## Week 9
-
-### New England Free Jacks V San Diego Legion on 2025/04/12
-
-
-Average Margin: New England Free Jacks by 2.3
-
-Average Scoreline: 30-28
-
-<p float="left">
-<img src="plots/performances_2025-04-12-NewEnglandFreeJacks_V_SanDiegoLegion.png" width="32%" />
-<img src="plots/resultbar_2025-04-12-NewEnglandFreeJacks_V_SanDiegoLegion.png" width="32%" />
-<img src="plots/spreads_2025-04-12-NewEnglandFreeJacks_V_SanDiegoLegion.png" width="32%" />
-</p>
-
-### RFC Los Angeles V Utah Warriors on 2025/04/13
-
-
-Average Margin: RFC Los Angeles by 2.3
-
-Average Scoreline: 30-28
-
-<p float="left">
-<img src="plots/performances_2025-04-13-RFCLosAngeles_V_UtahWarriors.png" width="32%" />
-<img src="plots/resultbar_2025-04-13-RFCLosAngeles_V_UtahWarriors.png" width="32%" />
-<img src="plots/spreads_2025-04-13-RFCLosAngeles_V_UtahWarriors.png" width="32%" />
-</p>
-
-### NOLA Gold V Old Glory DC on 2025/04/13
-
-
-Average Margin: NOLA Gold by 3.3
-
-Average Scoreline: 38-35
-
-<p float="left">
-<img src="plots/performances_2025-04-13-NOLAGold_V_OldGloryDC.png" width="32%" />
-<img src="plots/resultbar_2025-04-13-NOLAGold_V_OldGloryDC.png" width="32%" />
-<img src="plots/spreads_2025-04-13-NOLAGold_V_OldGloryDC.png" width="32%" />
-</p>
-
-### Miami Sharks V Houston SaberCats on 2025/04/13
-
-
-Average Margin: Houston SaberCats by 10.3
-
-Average Scoreline: 38-27
-
-<p float="left">
-<img src="plots/performances_2025-04-13-MiamiSharks_V_HoustonSaberCats.png" width="32%" />
-<img src="plots/resultbar_2025-04-13-MiamiSharks_V_HoustonSaberCats.png" width="32%" />
-<img src="plots/spreads_2025-04-13-MiamiSharks_V_HoustonSaberCats.png" width="32%" />
-</p>
-
-### Chicago Hounds V Anthem RC on 2025/04/13
-
-
-Average Margin: Chicago Hounds by 24.7
-
-Average Scoreline: 44-19
-
-<p float="left">
-<img src="plots/performances_2025-04-13-ChicagoHounds_V_AnthemRC.png" width="32%" />
-<img src="plots/resultbar_2025-04-13-ChicagoHounds_V_AnthemRC.png" width="32%" />
-<img src="plots/spreads_2025-04-13-ChicagoHounds_V_AnthemRC.png" width="32%" />
-</p>
-
 ## Week 10
-
-### Seattle Seawolves V Chicago Hounds on 2025/04/18
-
-
-Average Margin: Chicago Hounds by 2.7
-
-Average Scoreline: 38-36
-
-<p float="left">
-<img src="plots/performances_2025-04-18-SeattleSeawolves_V_ChicagoHounds.png" width="32%" />
-<img src="plots/resultbar_2025-04-18-SeattleSeawolves_V_ChicagoHounds.png" width="32%" />
-<img src="plots/spreads_2025-04-18-SeattleSeawolves_V_ChicagoHounds.png" width="32%" />
-</p>
-
-### Anthem RC V New England Free Jacks on 2025/04/18
-
-
-Average Margin: New England Free Jacks by 14.0
-
-Average Scoreline: 30-16
-
-<p float="left">
-<img src="plots/performances_2025-04-18-AnthemRC_V_NewEnglandFreeJacks.png" width="32%" />
-<img src="plots/resultbar_2025-04-18-AnthemRC_V_NewEnglandFreeJacks.png" width="32%" />
-<img src="plots/spreads_2025-04-18-AnthemRC_V_NewEnglandFreeJacks.png" width="32%" />
-</p>
-
-### San Diego Legion V Utah Warriors on 2025/04/19
-
-
-Average Margin: San Diego Legion by 6.6
-
-Average Scoreline: 32-25
-
-<p float="left">
-<img src="plots/performances_2025-04-19-SanDiegoLegion_V_UtahWarriors.png" width="32%" />
-<img src="plots/resultbar_2025-04-19-SanDiegoLegion_V_UtahWarriors.png" width="32%" />
-<img src="plots/spreads_2025-04-19-SanDiegoLegion_V_UtahWarriors.png" width="32%" />
-</p>
-
-### Houston SaberCats V NOLA Gold on 2025/04/19
-
-
-Average Margin: Houston SaberCats by 10.3
-
-Average Scoreline: 34-23
-
-<p float="left">
-<img src="plots/performances_2025-04-19-HoustonSaberCats_V_NOLAGold.png" width="32%" />
-<img src="plots/resultbar_2025-04-19-HoustonSaberCats_V_NOLAGold.png" width="32%" />
-<img src="plots/spreads_2025-04-19-HoustonSaberCats_V_NOLAGold.png" width="32%" />
-</p>
 
 ### Old Glory DC V Miami Sharks on 2025/04/19
 
 
-Average Margin: Old Glory DC by 10.9
+Average Margin: Old Glory DC by 6.3
 
-Average Scoreline: 34-23
+Average Scoreline: 32-26
 
 <p float="left">
 <img src="plots/performances_2025-04-19-OldGloryDC_V_MiamiSharks.png" width="32%" />
@@ -218,14 +98,66 @@ Average Scoreline: 34-23
 <img src="plots/spreads_2025-04-19-OldGloryDC_V_MiamiSharks.png" width="32%" />
 </p>
 
+### Anthem RC V New England Free Jacks on 2025/04/19
+
+
+Average Margin: New England Free Jacks by 14.8
+
+Average Scoreline: 43-28
+
+<p float="left">
+<img src="plots/performances_2025-04-19-AnthemRC_V_NewEnglandFreeJacks.png" width="32%" />
+<img src="plots/resultbar_2025-04-19-AnthemRC_V_NewEnglandFreeJacks.png" width="32%" />
+<img src="plots/spreads_2025-04-19-AnthemRC_V_NewEnglandFreeJacks.png" width="32%" />
+</p>
+
+### Seattle Seawolves V Chicago Hounds on 2025/04/19
+
+
+Average Margin: Chicago Hounds by 3.3
+
+Average Scoreline: 32-29
+
+<p float="left">
+<img src="plots/performances_2025-04-19-SeattleSeawolves_V_ChicagoHounds.png" width="32%" />
+<img src="plots/resultbar_2025-04-19-SeattleSeawolves_V_ChicagoHounds.png" width="32%" />
+<img src="plots/spreads_2025-04-19-SeattleSeawolves_V_ChicagoHounds.png" width="32%" />
+</p>
+
+### Houston SaberCats V NOLA Gold on 2025/04/20
+
+
+Average Margin: Houston SaberCats by 7.9
+
+Average Scoreline: 37-29
+
+<p float="left">
+<img src="plots/performances_2025-04-20-HoustonSaberCats_V_NOLAGold.png" width="32%" />
+<img src="plots/resultbar_2025-04-20-HoustonSaberCats_V_NOLAGold.png" width="32%" />
+<img src="plots/spreads_2025-04-20-HoustonSaberCats_V_NOLAGold.png" width="32%" />
+</p>
+
+### San Diego Legion V Utah Warriors on 2025/04/20
+
+
+Average Margin: San Diego Legion by 2.4
+
+Average Scoreline: 30-28
+
+<p float="left">
+<img src="plots/performances_2025-04-20-SanDiegoLegion_V_UtahWarriors.png" width="32%" />
+<img src="plots/resultbar_2025-04-20-SanDiegoLegion_V_UtahWarriors.png" width="32%" />
+<img src="plots/spreads_2025-04-20-SanDiegoLegion_V_UtahWarriors.png" width="32%" />
+</p>
+
 ## Week 11
 
 ### New England Free Jacks V RFC Los Angeles on 2025/04/22
 
 
-Average Margin: New England Free Jacks by 6.5
+Average Margin: New England Free Jacks by 10.8
 
-Average Scoreline: 34-27
+Average Scoreline: 33-22
 
 <p float="left">
 <img src="plots/performances_2025-04-22-NewEnglandFreeJacks_V_RFCLosAngeles.png" width="32%" />
@@ -236,9 +168,9 @@ Average Scoreline: 34-27
 ### Anthem RC V Seattle Seawolves on 2025/04/23
 
 
-Average Margin: Seattle Seawolves by 11.1
+Average Margin: Seattle Seawolves by 9.5
 
-Average Scoreline: 28-17
+Average Scoreline: 42-33
 
 <p float="left">
 <img src="plots/performances_2025-04-23-AnthemRC_V_SeattleSeawolves.png" width="32%" />
@@ -246,12 +178,25 @@ Average Scoreline: 28-17
 <img src="plots/spreads_2025-04-23-AnthemRC_V_SeattleSeawolves.png" width="32%" />
 </p>
 
+### RFC Los Angeles V San Diego Legion on 2025/04/26
+
+
+Average Margin: San Diego Legion by 1.1
+
+Average Scoreline: 28-27
+
+<p float="left">
+<img src="plots/performances_2025-04-26-RFCLosAngeles_V_SanDiegoLegion.png" width="32%" />
+<img src="plots/resultbar_2025-04-26-RFCLosAngeles_V_SanDiegoLegion.png" width="32%" />
+<img src="plots/spreads_2025-04-26-RFCLosAngeles_V_SanDiegoLegion.png" width="32%" />
+</p>
+
 ### Utah Warriors V Chicago Hounds on 2025/04/26
 
 
-Average Margin: Chicago Hounds by 0.6
+Average Margin: Utah Warriors by 2.2
 
-Average Scoreline: 29-28
+Average Scoreline: 24-22
 
 <p float="left">
 <img src="plots/performances_2025-04-26-UtahWarriors_V_ChicagoHounds.png" width="32%" />
@@ -262,9 +207,9 @@ Average Scoreline: 29-28
 ### Houston SaberCats V Old Glory DC on 2025/04/26
 
 
-Average Margin: Houston SaberCats by 9.6
+Average Margin: Houston SaberCats by 10.5
 
-Average Scoreline: 33-23
+Average Scoreline: 37-26
 
 <p float="left">
 <img src="plots/performances_2025-04-26-HoustonSaberCats_V_OldGloryDC.png" width="32%" />
@@ -272,38 +217,12 @@ Average Scoreline: 33-23
 <img src="plots/spreads_2025-04-26-HoustonSaberCats_V_OldGloryDC.png" width="32%" />
 </p>
 
-### RFC Los Angeles V San Diego Legion on 2025/04/26
-
-
-Average Margin: San Diego Legion by 1.3
-
-Average Scoreline: 30-29
-
-<p float="left">
-<img src="plots/performances_2025-04-26-RFCLosAngeles_V_SanDiegoLegion.png" width="32%" />
-<img src="plots/resultbar_2025-04-26-RFCLosAngeles_V_SanDiegoLegion.png" width="32%" />
-<img src="plots/spreads_2025-04-26-RFCLosAngeles_V_SanDiegoLegion.png" width="32%" />
-</p>
-
-### NOLA Gold V Seattle Seawolves on 2025/04/27
-
-
-Average Margin: NOLA Gold by 1.0
-
-Average Scoreline: 32-31
-
-<p float="left">
-<img src="plots/performances_2025-04-27-NOLAGold_V_SeattleSeawolves.png" width="32%" />
-<img src="plots/resultbar_2025-04-27-NOLAGold_V_SeattleSeawolves.png" width="32%" />
-<img src="plots/spreads_2025-04-27-NOLAGold_V_SeattleSeawolves.png" width="32%" />
-</p>
-
 ### Miami Sharks V Anthem RC on 2025/04/27
 
 
-Average Margin: Miami Sharks by 10.1
+Average Margin: Miami Sharks by 11.1
 
-Average Scoreline: 34-24
+Average Scoreline: 39-27
 
 <p float="left">
 <img src="plots/performances_2025-04-27-MiamiSharks_V_AnthemRC.png" width="32%" />
@@ -311,14 +230,27 @@ Average Scoreline: 34-24
 <img src="plots/spreads_2025-04-27-MiamiSharks_V_AnthemRC.png" width="32%" />
 </p>
 
+### NOLA Gold V Seattle Seawolves on 2025/04/27
+
+
+Average Margin: NOLA Gold by 2.4
+
+Average Scoreline: 32-29
+
+<p float="left">
+<img src="plots/performances_2025-04-27-NOLAGold_V_SeattleSeawolves.png" width="32%" />
+<img src="plots/resultbar_2025-04-27-NOLAGold_V_SeattleSeawolves.png" width="32%" />
+<img src="plots/spreads_2025-04-27-NOLAGold_V_SeattleSeawolves.png" width="32%" />
+</p>
+
 ## Week 12
 
 ### Utah Warriors V San Diego Legion on 2025/04/30
 
 
-Average Margin: Utah Warriors by 0.5
+Average Margin: Utah Warriors by 4.7
 
-Average Scoreline: 29-28
+Average Scoreline: 27-22
 
 <p float="left">
 <img src="plots/performances_2025-04-30-UtahWarriors_V_SanDiegoLegion.png" width="32%" />
@@ -329,9 +261,9 @@ Average Scoreline: 29-28
 ### Seattle Seawolves V RFC Los Angeles on 2025/05/02
 
 
-Average Margin: Seattle Seawolves by 3.3
+Average Margin: Seattle Seawolves by 5.2
 
-Average Scoreline: 27-24
+Average Scoreline: 34-29
 
 <p float="left">
 <img src="plots/performances_2025-05-02-SeattleSeawolves_V_RFCLosAngeles.png" width="32%" />
@@ -339,25 +271,12 @@ Average Scoreline: 27-24
 <img src="plots/spreads_2025-05-02-SeattleSeawolves_V_RFCLosAngeles.png" width="32%" />
 </p>
 
-### Old Glory DC V Utah Warriors on 2025/05/04
-
-
-Average Margin: Old Glory DC by 0.6
-
-Average Scoreline: 30-30
-
-<p float="left">
-<img src="plots/performances_2025-05-04-OldGloryDC_V_UtahWarriors.png" width="32%" />
-<img src="plots/resultbar_2025-05-04-OldGloryDC_V_UtahWarriors.png" width="32%" />
-<img src="plots/spreads_2025-05-04-OldGloryDC_V_UtahWarriors.png" width="32%" />
-</p>
-
 ### Chicago Hounds V Miami Sharks on 2025/05/04
 
 
-Average Margin: Chicago Hounds by 17.4
+Average Margin: Chicago Hounds by 15.3
 
-Average Scoreline: 36-18
+Average Scoreline: 37-21
 
 <p float="left">
 <img src="plots/performances_2025-05-04-ChicagoHounds_V_MiamiSharks.png" width="32%" />
@@ -365,25 +284,25 @@ Average Scoreline: 36-18
 <img src="plots/spreads_2025-05-04-ChicagoHounds_V_MiamiSharks.png" width="32%" />
 </p>
 
-### San Diego Legion V NOLA Gold on 2025/05/04
+### Old Glory DC V Utah Warriors on 2025/05/04
 
 
-Average Margin: San Diego Legion by 11.5
+Average Margin: Utah Warriors by 4.4
 
-Average Scoreline: 36-24
+Average Scoreline: 31-27
 
 <p float="left">
-<img src="plots/performances_2025-05-04-SanDiegoLegion_V_NOLAGold.png" width="32%" />
-<img src="plots/resultbar_2025-05-04-SanDiegoLegion_V_NOLAGold.png" width="32%" />
-<img src="plots/spreads_2025-05-04-SanDiegoLegion_V_NOLAGold.png" width="32%" />
+<img src="plots/performances_2025-05-04-OldGloryDC_V_UtahWarriors.png" width="32%" />
+<img src="plots/resultbar_2025-05-04-OldGloryDC_V_UtahWarriors.png" width="32%" />
+<img src="plots/spreads_2025-05-04-OldGloryDC_V_UtahWarriors.png" width="32%" />
 </p>
 
 ### New England Free Jacks V Houston SaberCats on 2025/05/04
 
 
-Average Margin: New England Free Jacks by 3.0
+Average Margin: New England Free Jacks by 6.2
 
-Average Scoreline: 31-28
+Average Scoreline: 29-23
 
 <p float="left">
 <img src="plots/performances_2025-05-04-NewEnglandFreeJacks_V_HoustonSaberCats.png" width="32%" />
@@ -391,14 +310,27 @@ Average Scoreline: 31-28
 <img src="plots/spreads_2025-05-04-NewEnglandFreeJacks_V_HoustonSaberCats.png" width="32%" />
 </p>
 
+### San Diego Legion V NOLA Gold on 2025/05/04
+
+
+Average Margin: San Diego Legion by 8.8
+
+Average Scoreline: 36-27
+
+<p float="left">
+<img src="plots/performances_2025-05-04-SanDiegoLegion_V_NOLAGold.png" width="32%" />
+<img src="plots/resultbar_2025-05-04-SanDiegoLegion_V_NOLAGold.png" width="32%" />
+<img src="plots/spreads_2025-05-04-SanDiegoLegion_V_NOLAGold.png" width="32%" />
+</p>
+
 ## Week 13
 
 ### NOLA Gold V Miami Sharks on 2025/05/09
 
 
-Average Margin: NOLA Gold by 9.7
+Average Margin: NOLA Gold by 7.9
 
-Average Scoreline: 33-23
+Average Scoreline: 33-25
 
 <p float="left">
 <img src="plots/performances_2025-05-09-NOLAGold_V_MiamiSharks.png" width="32%" />
@@ -409,9 +341,9 @@ Average Scoreline: 33-23
 ### New England Free Jacks V Chicago Hounds on 2025/05/10
 
 
-Average Margin: New England Free Jacks by 1.2
+Average Margin: New England Free Jacks by 2.5
 
-Average Scoreline: 31-30
+Average Scoreline: 30-27
 
 <p float="left">
 <img src="plots/performances_2025-05-10-NewEnglandFreeJacks_V_ChicagoHounds.png" width="32%" />
@@ -419,23 +351,10 @@ Average Scoreline: 31-30
 <img src="plots/spreads_2025-05-10-NewEnglandFreeJacks_V_ChicagoHounds.png" width="32%" />
 </p>
 
-### RFC Los Angeles V Anthem RC on 2025/05/10
-
-
-Average Margin: RFC Los Angeles by 17.2
-
-Average Scoreline: 40-22
-
-<p float="left">
-<img src="plots/performances_2025-05-10-RFCLosAngeles_V_AnthemRC.png" width="32%" />
-<img src="plots/resultbar_2025-05-10-RFCLosAngeles_V_AnthemRC.png" width="32%" />
-<img src="plots/spreads_2025-05-10-RFCLosAngeles_V_AnthemRC.png" width="32%" />
-</p>
-
 ### San Diego Legion V Houston SaberCats on 2025/05/10
 
 
-Average Margin: San Diego Legion by 5.4
+Average Margin: San Diego Legion by 4.7
 
 Average Scoreline: 32-27
 
@@ -445,14 +364,27 @@ Average Scoreline: 32-27
 <img src="plots/spreads_2025-05-10-SanDiegoLegion_V_HoustonSaberCats.png" width="32%" />
 </p>
 
+### RFC Los Angeles V Anthem RC on 2025/05/10
+
+
+Average Margin: RFC Los Angeles by 13.8
+
+Average Scoreline: 35-21
+
+<p float="left">
+<img src="plots/performances_2025-05-10-RFCLosAngeles_V_AnthemRC.png" width="32%" />
+<img src="plots/resultbar_2025-05-10-RFCLosAngeles_V_AnthemRC.png" width="32%" />
+<img src="plots/spreads_2025-05-10-RFCLosAngeles_V_AnthemRC.png" width="32%" />
+</p>
+
 ## Week 14
 
 ### Utah Warriors V Seattle Seawolves on 2025/05/12
 
 
-Average Margin: Utah Warriors by 5.9
+Average Margin: Utah Warriors by 8.6
 
-Average Scoreline: 29-23
+Average Scoreline: 31-23
 
 <p float="left">
 <img src="plots/performances_2025-05-12-UtahWarriors_V_SeattleSeawolves.png" width="32%" />
@@ -463,9 +395,9 @@ Average Scoreline: 29-23
 ### Old Glory DC V NOLA Gold on 2025/05/13
 
 
-Average Margin: Old Glory DC by 4.9
+Average Margin: Old Glory DC by 2.0
 
-Average Scoreline: 29-24
+Average Scoreline: 30-28
 
 <p float="left">
 <img src="plots/performances_2025-05-13-OldGloryDC_V_NOLAGold.png" width="32%" />
@@ -473,38 +405,12 @@ Average Scoreline: 29-24
 <img src="plots/spreads_2025-05-13-OldGloryDC_V_NOLAGold.png" width="32%" />
 </p>
 
-### Miami Sharks V New England Free Jacks on 2025/05/17
-
-
-Average Margin: New England Free Jacks by 9.2
-
-Average Scoreline: 37-28
-
-<p float="left">
-<img src="plots/performances_2025-05-17-MiamiSharks_V_NewEnglandFreeJacks.png" width="32%" />
-<img src="plots/resultbar_2025-05-17-MiamiSharks_V_NewEnglandFreeJacks.png" width="32%" />
-<img src="plots/spreads_2025-05-17-MiamiSharks_V_NewEnglandFreeJacks.png" width="32%" />
-</p>
-
-### Seattle Seawolves V San Diego Legion on 2025/05/17
-
-
-Average Margin: San Diego Legion by 1.0
-
-Average Scoreline: 29-28
-
-<p float="left">
-<img src="plots/performances_2025-05-17-SeattleSeawolves_V_SanDiegoLegion.png" width="32%" />
-<img src="plots/resultbar_2025-05-17-SeattleSeawolves_V_SanDiegoLegion.png" width="32%" />
-<img src="plots/spreads_2025-05-17-SeattleSeawolves_V_SanDiegoLegion.png" width="32%" />
-</p>
-
 ### Houston SaberCats V Utah Warriors on 2025/05/17
 
 
-Average Margin: Houston SaberCats by 5.8
+Average Margin: Houston SaberCats by 1.4
 
-Average Scoreline: 32-26
+Average Scoreline: 31-30
 
 <p float="left">
 <img src="plots/performances_2025-05-17-HoustonSaberCats_V_UtahWarriors.png" width="32%" />
@@ -512,12 +418,38 @@ Average Scoreline: 32-26
 <img src="plots/spreads_2025-05-17-HoustonSaberCats_V_UtahWarriors.png" width="32%" />
 </p>
 
+### Seattle Seawolves V San Diego Legion on 2025/05/17
+
+
+Average Margin: Seattle Seawolves by 0.7
+
+Average Scoreline: 30-29
+
+<p float="left">
+<img src="plots/performances_2025-05-17-SeattleSeawolves_V_SanDiegoLegion.png" width="32%" />
+<img src="plots/resultbar_2025-05-17-SeattleSeawolves_V_SanDiegoLegion.png" width="32%" />
+<img src="plots/spreads_2025-05-17-SeattleSeawolves_V_SanDiegoLegion.png" width="32%" />
+</p>
+
+### Miami Sharks V New England Free Jacks on 2025/05/17
+
+
+Average Margin: New England Free Jacks by 7.5
+
+Average Scoreline: 35-27
+
+<p float="left">
+<img src="plots/performances_2025-05-17-MiamiSharks_V_NewEnglandFreeJacks.png" width="32%" />
+<img src="plots/resultbar_2025-05-17-MiamiSharks_V_NewEnglandFreeJacks.png" width="32%" />
+<img src="plots/spreads_2025-05-17-MiamiSharks_V_NewEnglandFreeJacks.png" width="32%" />
+</p>
+
 ### Anthem RC V Old Glory DC on 2025/05/18
 
 
-Average Margin: Old Glory DC by 9.2
+Average Margin: Old Glory DC by 5.4
 
-Average Scoreline: 37-28
+Average Scoreline: 33-28
 
 <p float="left">
 <img src="plots/performances_2025-05-18-AnthemRC_V_OldGloryDC.png" width="32%" />
@@ -528,9 +460,9 @@ Average Scoreline: 37-28
 ### Chicago Hounds V RFC Los Angeles on 2025/05/18
 
 
-Average Margin: Chicago Hounds by 9.3
+Average Margin: Chicago Hounds by 12.3
 
-Average Scoreline: 31-21
+Average Scoreline: 42-30
 
 <p float="left">
 <img src="plots/performances_2025-05-18-ChicagoHounds_V_RFCLosAngeles.png" width="32%" />
@@ -543,9 +475,9 @@ Average Scoreline: 31-21
 ### Seattle Seawolves V Houston SaberCats on 2025/05/23
 
 
-Average Margin: Houston SaberCats by 0.2
+Average Margin: Seattle Seawolves by 0.2
 
-Average Scoreline: 29-29
+Average Scoreline: 31-31
 
 <p float="left">
 <img src="plots/performances_2025-05-23-SeattleSeawolves_V_HoustonSaberCats.png" width="32%" />
@@ -556,9 +488,9 @@ Average Scoreline: 29-29
 ### RFC Los Angeles V Miami Sharks on 2025/05/23
 
 
-Average Margin: RFC Los Angeles by 13.1
+Average Margin: RFC Los Angeles by 7.9
 
-Average Scoreline: 33-20
+Average Scoreline: 25-17
 
 <p float="left">
 <img src="plots/performances_2025-05-23-RFCLosAngeles_V_MiamiSharks.png" width="32%" />
@@ -566,25 +498,12 @@ Average Scoreline: 33-20
 <img src="plots/spreads_2025-05-23-RFCLosAngeles_V_MiamiSharks.png" width="32%" />
 </p>
 
-### NOLA Gold V Utah Warriors on 2025/05/24
-
-
-Average Margin: Utah Warriors by 1.3
-
-Average Scoreline: 28-27
-
-<p float="left">
-<img src="plots/performances_2025-05-24-NOLAGold_V_UtahWarriors.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-NOLAGold_V_UtahWarriors.png" width="32%" />
-<img src="plots/spreads_2025-05-24-NOLAGold_V_UtahWarriors.png" width="32%" />
-</p>
-
 ### New England Free Jacks V Old Glory DC on 2025/05/24
 
 
-Average Margin: New England Free Jacks by 9.5
+Average Margin: New England Free Jacks by 11.5
 
-Average Scoreline: 32-23
+Average Scoreline: 31-19
 
 <p float="left">
 <img src="plots/performances_2025-05-24-NewEnglandFreeJacks_V_OldGloryDC.png" width="32%" />
@@ -595,9 +514,9 @@ Average Scoreline: 32-23
 ### Anthem RC V Chicago Hounds on 2025/05/24
 
 
-Average Margin: Chicago Hounds by 15.3
+Average Margin: Chicago Hounds by 13.9
 
-Average Scoreline: 36-21
+Average Scoreline: 32-19
 
 <p float="left">
 <img src="plots/performances_2025-05-24-AnthemRC_V_ChicagoHounds.png" width="32%" />
@@ -605,27 +524,27 @@ Average Scoreline: 36-21
 <img src="plots/spreads_2025-05-24-AnthemRC_V_ChicagoHounds.png" width="32%" />
 </p>
 
-## Week 16
-
-### Miami Sharks V San Diego Legion on 2025/05/31
+### NOLA Gold V Utah Warriors on 2025/05/24
 
 
-Average Margin: San Diego Legion by 10.3
+Average Margin: Utah Warriors by 2.7
 
-Average Scoreline: 36-26
+Average Scoreline: 33-30
 
 <p float="left">
-<img src="plots/performances_2025-05-31-MiamiSharks_V_SanDiegoLegion.png" width="32%" />
-<img src="plots/resultbar_2025-05-31-MiamiSharks_V_SanDiegoLegion.png" width="32%" />
-<img src="plots/spreads_2025-05-31-MiamiSharks_V_SanDiegoLegion.png" width="32%" />
+<img src="plots/performances_2025-05-24-NOLAGold_V_UtahWarriors.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-NOLAGold_V_UtahWarriors.png" width="32%" />
+<img src="plots/spreads_2025-05-24-NOLAGold_V_UtahWarriors.png" width="32%" />
 </p>
+
+## Week 16
 
 ### Old Glory DC V RFC Los Angeles on 2025/05/31
 
 
-Average Margin: Old Glory DC by 2.6
+Average Margin: Old Glory DC by 1.9
 
-Average Scoreline: 33-31
+Average Scoreline: 31-29
 
 <p float="left">
 <img src="plots/performances_2025-05-31-OldGloryDC_V_RFCLosAngeles.png" width="32%" />
@@ -633,25 +552,25 @@ Average Scoreline: 33-31
 <img src="plots/spreads_2025-05-31-OldGloryDC_V_RFCLosAngeles.png" width="32%" />
 </p>
 
-### Utah Warriors V Anthem RC on 2025/05/31
+### Miami Sharks V San Diego Legion on 2025/05/31
 
 
-Average Margin: Utah Warriors by 18.9
+Average Margin: San Diego Legion by 5.1
 
-Average Scoreline: 39-20
+Average Scoreline: 34-28
 
 <p float="left">
-<img src="plots/performances_2025-05-31-UtahWarriors_V_AnthemRC.png" width="32%" />
-<img src="plots/resultbar_2025-05-31-UtahWarriors_V_AnthemRC.png" width="32%" />
-<img src="plots/spreads_2025-05-31-UtahWarriors_V_AnthemRC.png" width="32%" />
+<img src="plots/performances_2025-05-31-MiamiSharks_V_SanDiegoLegion.png" width="32%" />
+<img src="plots/resultbar_2025-05-31-MiamiSharks_V_SanDiegoLegion.png" width="32%" />
+<img src="plots/spreads_2025-05-31-MiamiSharks_V_SanDiegoLegion.png" width="32%" />
 </p>
 
 ### Chicago Hounds V NOLA Gold on 2025/05/31
 
 
-Average Margin: Chicago Hounds by 12.4
+Average Margin: Chicago Hounds by 11.3
 
-Average Scoreline: 32-19
+Average Scoreline: 36-24
 
 <p float="left">
 <img src="plots/performances_2025-05-31-ChicagoHounds_V_NOLAGold.png" width="32%" />
@@ -659,12 +578,25 @@ Average Scoreline: 32-19
 <img src="plots/spreads_2025-05-31-ChicagoHounds_V_NOLAGold.png" width="32%" />
 </p>
 
+### Utah Warriors V Anthem RC on 2025/05/31
+
+
+Average Margin: Utah Warriors by 19.6
+
+Average Scoreline: 41-22
+
+<p float="left">
+<img src="plots/performances_2025-05-31-UtahWarriors_V_AnthemRC.png" width="32%" />
+<img src="plots/resultbar_2025-05-31-UtahWarriors_V_AnthemRC.png" width="32%" />
+<img src="plots/spreads_2025-05-31-UtahWarriors_V_AnthemRC.png" width="32%" />
+</p>
+
 ### New England Free Jacks V Seattle Seawolves on 2025/06/01
 
 
-Average Margin: New England Free Jacks by 7.0
+Average Margin: New England Free Jacks by 8.8
 
-Average Scoreline: 31-24
+Average Scoreline: 32-23
 
 <p float="left">
 <img src="plots/performances_2025-06-01-NewEnglandFreeJacks_V_SeattleSeawolves.png" width="32%" />
@@ -677,9 +609,9 @@ Average Scoreline: 31-24
 ### Chicago Hounds V Houston SaberCats on 2025/06/04
 
 
-Average Margin: Chicago Hounds by 5.7
+Average Margin: Chicago Hounds by 7.9
 
-Average Scoreline: 26-21
+Average Scoreline: 31-23
 
 <p float="left">
 <img src="plots/performances_2025-06-04-ChicagoHounds_V_HoustonSaberCats.png" width="32%" />
@@ -687,25 +619,12 @@ Average Scoreline: 26-21
 <img src="plots/spreads_2025-06-04-ChicagoHounds_V_HoustonSaberCats.png" width="32%" />
 </p>
 
-### San Diego Legion V Old Glory DC on 2025/06/07
-
-
-Average Margin: San Diego Legion by 10.1
-
-Average Scoreline: 34-23
-
-<p float="left">
-<img src="plots/performances_2025-06-07-SanDiegoLegion_V_OldGloryDC.png" width="32%" />
-<img src="plots/resultbar_2025-06-07-SanDiegoLegion_V_OldGloryDC.png" width="32%" />
-<img src="plots/spreads_2025-06-07-SanDiegoLegion_V_OldGloryDC.png" width="32%" />
-</p>
-
 ### Utah Warriors V RFC Los Angeles on 2025/06/07
 
 
-Average Margin: Utah Warriors by 5.5
+Average Margin: Utah Warriors by 10.3
 
-Average Scoreline: 29-23
+Average Scoreline: 38-27
 
 <p float="left">
 <img src="plots/performances_2025-06-07-UtahWarriors_V_RFCLosAngeles.png" width="32%" />
@@ -716,9 +635,9 @@ Average Scoreline: 29-23
 ### NOLA Gold V New England Free Jacks on 2025/06/07
 
 
-Average Margin: New England Free Jacks by 2.6
+Average Margin: New England Free Jacks by 2.5
 
-Average Scoreline: 31-29
+Average Scoreline: 33-31
 
 <p float="left">
 <img src="plots/performances_2025-06-07-NOLAGold_V_NewEnglandFreeJacks.png" width="32%" />
@@ -726,12 +645,25 @@ Average Scoreline: 31-29
 <img src="plots/spreads_2025-06-07-NOLAGold_V_NewEnglandFreeJacks.png" width="32%" />
 </p>
 
+### San Diego Legion V Old Glory DC on 2025/06/07
+
+
+Average Margin: San Diego Legion by 11.4
+
+Average Scoreline: 35-23
+
+<p float="left">
+<img src="plots/performances_2025-06-07-SanDiegoLegion_V_OldGloryDC.png" width="32%" />
+<img src="plots/resultbar_2025-06-07-SanDiegoLegion_V_OldGloryDC.png" width="32%" />
+<img src="plots/spreads_2025-06-07-SanDiegoLegion_V_OldGloryDC.png" width="32%" />
+</p>
+
 ### Seattle Seawolves V Miami Sharks on 2025/06/08
 
 
-Average Margin: Seattle Seawolves by 12.3
+Average Margin: Seattle Seawolves by 8.9
 
-Average Scoreline: 32-20
+Average Scoreline: 35-26
 
 <p float="left">
 <img src="plots/performances_2025-06-08-SeattleSeawolves_V_MiamiSharks.png" width="32%" />
@@ -742,9 +674,9 @@ Average Scoreline: 32-20
 ### Houston SaberCats V Anthem RC on 2025/06/08
 
 
-Average Margin: Houston SaberCats by 18.2
+Average Margin: Houston SaberCats by 16.8
 
-Average Scoreline: 45-27
+Average Scoreline: 41-25
 
 <p float="left">
 <img src="plots/performances_2025-06-08-HoustonSaberCats_V_AnthemRC.png" width="32%" />
