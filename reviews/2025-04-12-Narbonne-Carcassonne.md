@@ -11,7 +11,7 @@ categories: "Nationale 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.612, which translates to predicting Narbonne to win by 4.0.
 
-Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 20 to 24
+Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 22 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Narbonne by 8.4
+## Prediction without Player Minutes: Narbonne by 8.2
 
 
-Carcassonne by 4.9 on a neutral pitch
+Carcassonne by 5.0 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Carcassonne by 4.9 on a neutral pitch
 
 |   Away Minutes | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player               |   Home Minutes |
 |---------------:|:------------------|------------------:|---------:|------------------:|:--------------------------|---------------:|
-|             16 | Yan Arnold        |             52.72 |        1 |             19.41 | Gregory Fichten           |             60 |
-|             67 | Raphael Carbou    |             60.03 |        2 |             12.44 | Clément Esteriola         |             20 |
-|             80 | Théo Sauzaret     |             64.14 |        3 |             30.43 | Mohammed Loukia           |             20 |
-|             20 | Romain Manchia    |             34.9  |        4 |             59.74 | Marius Antonescu          |             80 |
-|             15 | Marius Iftimiciuc |              7.9  |        5 |              6.77 | Leva Fifita               |             80 |
-|             80 | Maxime Millan     |             70.4  |        6 |             56.89 | Thibault Clauzade         |             59 |
-|             40 | Etienne Herjean   |             80.48 |        7 |              2.87 | Paul Belzons              |             80 |
-|             60 | Thomas Hoarau     |             22.09 |        8 |             79.35 | Luke Nakobukobua          |             13 |
-|             34 | Gaetan Pichon     |             36.03 |        9 |              6.57 | Pierrick Nova             |             21 |
-|             20 | Johnny McPhillips |             74.95 |       10 |              5.13 | Gilles Bosch              |              6 |
-|             13 | Clement Egiziano  |             90.87 |       11 |             79.68 | Clément Clavières         |             29 |
-|             80 | Jordan Puletua    |             14.13 |       12 |             59.43 | Parataiso Silafai-Lea'ana |             24 |
-|             70 | Sefa Naivalu      |             98.89 |       13 |             99.6  | Peter Betham              |             29 |
-|             80 | Paul Gadea        |             34.48 |       14 |             17.71 | Pierre-Hugo Ducom         |             43 |
-|             80 | Maxime Gianet     |             89.98 |       15 |              0.61 | Boris Goutard             |             32 |
-|             22 | Florent Lorenzon  |            nan    |       16 |             77.56 | Théo Castinel             |             25 |
-|             21 | Fabien Lorenzon   |             83.87 |       17 |             84.41 | Mehdi Boundjema           |             20 |
-|             52 | Baptiste Moreno   |            nan    |       18 |             26.84 | Chris Talakai             |             27 |
-|             46 | Clément Fontaine  |             54.56 |       19 |             23.42 | Dennis Visser             |             28 |
-|              8 | Valentin Sese     |             12.4  |       20 |             59.39 | Arthur Christienne        |             15 |
-|             29 | Gary Graham       |             79    |       21 |             69.36 | Pablo Barbaste            |             17 |
-|             80 | Nils Chalies      |             23.11 |       22 |             22.59 | Tom Chauvet               |             10 |
-|             32 | Naim Ben Alla     |             35.97 |       23 |             60.3  | Daniel Ikpefan            |             15 |
+|             77 | Yan Arnold        |             66.29 |        1 |             19.73 | Gregory Fichten           |             51 |
+|             59 | Raphael Carbou    |             59.07 |        2 |             12.98 | Clément Esteriola         |             16 |
+|             59 | Théo Sauzaret     |             59.35 |        3 |             31.71 | Mohammed Loukia           |              6 |
+|             40 | Romain Manchia    |             39.75 |        4 |             65.91 | Marius Antonescu          |             28 |
+|             80 | Marius Iftimiciuc |             16.05 |        5 |              7.93 | Leva Fifita               |             29 |
+|             59 | Maxime Millan     |             67.1  |        6 |             62.62 | Thibault Clauzade         |             19 |
+|             68 | Etienne Herjean   |             82.8  |        7 |              3.46 | Paul Belzons              |             11 |
+|             50 | Thomas Hoarau     |             21.34 |        8 |             75.61 | Luke Nakobukobua          |             59 |
+|             28 | Gaetan Pichon     |             34.58 |        9 |              5.42 | Pierrick Nova             |             51 |
+|             80 | Johnny McPhillips |             80.33 |       10 |              3.11 | Gilles Bosch              |             80 |
+|             32 | Clement Egiziano  |             91.36 |       11 |             77.79 | Clément Clavières         |             51 |
+|             66 | Jordan Puletua    |             13.88 |       12 |             47.72 | Parataiso Silafai-Lea'ana |             80 |
+|             80 | Sefa Naivalu      |             98.89 |       13 |             99.59 | Peter Betham              |             51 |
+|             80 | Paul Gadea        |             34.94 |       14 |             13.75 | Pierre-Hugo Ducom         |             80 |
+|             64 | Maxime Gianet     |             89.55 |       15 |              0.41 | Boris Goutard             |             51 |
+|             80 | Florent Lorenzon  |            nan    |       16 |             77.24 | Théo Castinel             |             29 |
+|             55 | Fabien Lorenzon   |             83.47 |       17 |             84.69 | Mehdi Boundjema           |             80 |
+|             80 | Baptiste Moreno   |            nan    |       18 |             26.6  | Chris Talakai             |             59 |
+|             50 | Clément Fontaine  |             53.82 |       19 |             23.61 | Dennis Visser             |             80 |
+|             18 | Valentin Sese     |             12.52 |       20 |             58.97 | Arthur Christienne        |             32 |
+|             19 | Gary Graham       |             78.79 |       21 |             70    | Pablo Barbaste            |             51 |
+|             80 | Nils Chalies      |             22.95 |       22 |             23.4  | Tom Chauvet               |             64 |
+|             21 | Naim Ben Alla     |             35.87 |       23 |             61.43 | Daniel Ikpefan            |             35 |
 

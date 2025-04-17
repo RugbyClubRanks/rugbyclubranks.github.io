@@ -11,7 +11,7 @@ categories: "Nationale 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.599, which translates to predicting Albi to win by 3.5.
 
-Our Over/Under is 40.5 - and combined with the spread above, we have a predicted scoreline of 19 to 22
+Our Over/Under is 44.5 - and combined with the spread above, we have a predicted scoreline of 20 to 24
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Périgueux by 3.1 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             29 | Emilien Borges      |             79.95 |        1 |             55.11 | Antoine Soave      |           39   |
-|             29 | Manu Leiataua       |              1.33 |        2 |             24.88 | Arthur Castant     |           19   |
-|             37 | Kalaveti Tawake     |             73.48 |        3 |             89.94 | Maks van Dyk       |           37   |
-|             65 | Richard Fourcade    |             57.67 |        4 |             80.06 | Yanis Horvat       |           33   |
-|             34 | Damien Lavergne     |             67.92 |        5 |             47.04 | Jonathan Kpoku     |           52   |
-|             80 | Karl Lambert        |             65.4  |        6 |             57.72 | Robin Dione        |           80   |
-|             80 | Afaesetiti Amosa    |             97.87 |        7 |             16.93 | Mattéo Coustalat   |           80   |
-|              7 | Nahum Merigan       |             66.05 |        8 |             31.7  | Camille Jarreau    |           80   |
-|             80 | Max Green           |             35.69 |        9 |             65.15 | Gilen Queheille    |           52   |
-|             65 | Greg Hutley         |             80.29 |       10 |             23    | Victor Pisano      |           28   |
-|             57 | Yon Camou           |             71.67 |       11 |             66.92 | Antoine Bouzerand  |           11   |
-|              0 | Nicolas Piaton      |             48.03 |       12 |             56.31 | Gabriel Aviragnet  |            0   |
-|             59 | Dorian Lavernhe     |             73.06 |       13 |             40.97 | Victorien Jacomme  |           47   |
-|             34 | Tim Giresse         |             84.34 |       14 |             76.23 | Simon Hartmann     |           80   |
-|             65 | Anderson Neisen     |             53.58 |       15 |             49.49 | Simeon Soenen      |           27.5 |
-|             80 | Thomas Vidal        |             78.83 |       16 |             37.3  | Lucas Pindor       |           20.5 |
-|             71 | Louis Martin        |            nan    |       17 |             23.05 | Reinach Venter     |           80   |
-|             65 | Anthony Pelmard     |             78.51 |       18 |            nan    | Thomas Cretu       |            0   |
-|             63 | Raphaël Vieilledent |             69.71 |       19 |             40.43 | Theo Mercadier     |           55   |
-|             80 | Clement Lanen       |             65.19 |       20 |             72.25 | Vincent Mutel      |           80   |
-|             63 | Masivesi Dakuwaqa   |             80.37 |       21 |             14.98 | Titouan Pouzoullic |           41   |
-|             67 | Nicolas Faltrept    |             27.61 |       22 |             87.04 | Théo Vidal         |           23   |
-|             80 | Cyril Couturier     |             87.79 |       23 |             12.71 | Leo Treilles       |           27.5 |
+|             40 | Emilien Borges      |             79.71 |        1 |             53.04 | Antoine Soave      |             16 |
+|             59 | Manu Leiataua       |              1.16 |        2 |             22.96 | Arthur Castant     |             80 |
+|             80 | Kalaveti Tawake     |             71.41 |        3 |             89.06 | Maks van Dyk       |             46 |
+|             72 | Richard Fourcade    |             65.34 |        4 |             78.66 | Yanis Horvat       |             80 |
+|             80 | Damien Lavergne     |             68.93 |        5 |             43.34 | Jonathan Kpoku     |             80 |
+|             51 | Karl Lambert        |             74.49 |        6 |             52.9  | Robin Dione        |             80 |
+|             62 | Afaesetiti Amosa    |             97.29 |        7 |             15.7  | Mattéo Coustalat   |             80 |
+|             45 | Nahum Merigan       |             61.18 |        8 |             29.27 | Camille Jarreau    |             80 |
+|             80 | Max Green           |             46.1  |        9 |             63.22 | Gilen Queheille    |             40 |
+|              4 | Greg Hutley         |             78.88 |       10 |             23.19 | Victor Pisano      |             19 |
+|             21 | Yon Camou           |             70.82 |       11 |             65.52 | Antoine Bouzerand  |             50 |
+|             45 | Nicolas Piaton      |             44.17 |       12 |             55.12 | Gabriel Aviragnet  |             46 |
+|             80 | Dorian Lavernhe     |             71.02 |       13 |             37.89 | Victorien Jacomme  |             34 |
+|             80 | Tim Giresse         |             86.9  |       14 |             74.16 | Simon Hartmann     |              8 |
+|             80 | Anderson Neisen     |             47.95 |       15 |             47.54 | Simeon Soenen      |             58 |
+|              0 | Thomas Vidal        |             78.99 |       16 |             36.66 | Lucas Pindor       |              0 |
+|             30 | Louis Martin        |            nan    |       17 |             23.13 | Reinach Venter     |              8 |
+|             39 | Anthony Pelmard     |             78.35 |       18 |            nan    | Thomas Cretu       |             80 |
+|             40 | Raphaël Vieilledent |             69.5  |       19 |             40.65 | Theo Mercadier     |             55 |
+|             26 | Clement Lanen       |             70.82 |       20 |             72.14 | Vincent Mutel      |             17 |
+|             76 | Masivesi Dakuwaqa   |             76.42 |       21 |             15.42 | Titouan Pouzoullic |             47 |
+|              8 | Nicolas Faltrept    |             28.31 |       22 |             86.95 | Théo Vidal         |             67 |
+|             70 | Cyril Couturier     |             87.74 |       23 |             13.07 | Leo Treilles       |             10 |
 

@@ -11,7 +11,7 @@ categories: "RFU Championship 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.78, which translates to predicting Bedford to win by 11.2.
 
-Our Over/Under is 63.5 - and combined with the spread above, we have a predicted scoreline of 26 to 38
+Our Over/Under is 61.5 - and combined with the spread above, we have a predicted scoreline of 25 to 37
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,19 +69,19 @@ Bedford by 12.1 on a neutral pitch
 
 |   Away Minutes | Away Player             |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:------------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             50 | Aniseko Sio             |             22.6  |        1 |             81.31 | Joey Conway          |             80 |
-|             58 | Jack Dickinson          |             72.97 |        2 |             76.62 | Tommy Herman         |             80 |
-|             75 | Dan Richardson          |             85.7  |        3 |             92.17 | Oisin Heffernan      |             62 |
-|             80 | Sebastien Ferreira      |              2.16 |        4 |             69.14 | Ed Prowse            |             67 |
-|             61 | Jack Shine              |             23.89 |        5 |             67.54 | Rory Ward            |             80 |
-|             80 | Osian Thomas            |              9.34 |        6 |             16.28 | Luke Frost           |             80 |
-|             52 | Seb Kelly               |             41.81 |        7 |             18.96 | Joe Howard           |             71 |
-|             52 | James Cherry            |             40.29 |        8 |             14.31 | Freddie Tuilagi      |             80 |
-|             50 | Josh Goodwin            |             31.48 |        9 |             92.76 | Alex Day             |             46 |
-|             64 | Matthew Arden           |             73.92 |       10 |             91.79 | William Maisey       |             50 |
-|             59 | Harry Graham            |             65.42 |       11 |             91.71 | Dean Adamson         |             80 |
-|             80 | Gwyn Parks              |              9.89 |       12 |             73.16 | Michael Le Bourgeois |             80 |
-|             59 | Kegan Christian-Goss    |             36.93 |       13 |             79.82 | Lucas Titherington   |             80 |
-|             80 | Marcus Alexander Ramage |              5.03 |       14 |             90.59 | Matt Worley          |             80 |
-|             80 | Jack Stapley            |              1.02 |       15 |             61.55 | Louis James          |             71 |
+|             65 | Aniseko Sio             |             15.1  |        1 |             82.27 | Joey Conway          |             80 |
+|             29 | Jack Dickinson          |             69.72 |        2 |             77.87 | Tommy Herman         |             80 |
+|             30 | Dan Richardson          |             85.62 |        3 |             90.81 | Oisin Heffernan      |             20 |
+|             40 | Sebastien Ferreira      |              2.08 |        4 |             67.52 | Ed Prowse            |             27 |
+|             15 | Jack Shine              |             25.78 |        5 |             64.02 | Rory Ward            |             27 |
+|             28 | Osian Thomas            |              9.91 |        6 |             15.79 | Luke Frost           |             39 |
+|              9 | Seb Kelly               |             47.48 |        7 |             17.2  | Joe Howard           |             16 |
+|             29 | James Cherry            |             31.91 |        8 |             10.98 | Freddie Tuilagi      |             16 |
+|             46 | Josh Goodwin            |             29.49 |        9 |             92.37 | Alex Day             |             20 |
+|             21 | Matthew Arden           |             68.32 |       10 |             92.34 | William Maisey       |             80 |
+|              0 | Harry Graham            |             69.42 |       11 |             91.91 | Dean Adamson         |             67 |
+|             80 | Gwyn Parks              |              7.4  |       12 |             74.27 | Michael Le Bourgeois |             80 |
+|             60 | Kegan Christian-Goss    |             26.14 |       13 |             75.89 | Lucas Titherington   |              0 |
+|             15 | Marcus Alexander Ramage |              4.37 |       14 |             87.17 | Matt Worley          |             22 |
+|             23 | Jack Stapley            |              1.02 |       15 |             63.93 | Louis James          |             80 |
 

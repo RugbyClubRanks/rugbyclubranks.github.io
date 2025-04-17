@@ -11,7 +11,7 @@ categories: "Pro D2 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.589, which translates to predicting Nevers to win by 3.1.
 
-Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 24 to 28
+Our Over/Under is 60.5 - and combined with the spread above, we have a predicted scoreline of 29 to 32
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Soyaux-Angouleme by 1.7 on a neutral pitch
 
 |   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player                 |   Home Minutes |
 |---------------:|:-------------------|------------------:|---------:|------------------:|:----------------------------|---------------:|
-|             80 | Sami Zouhair       |             97.92 |        1 |             41.05 | Aitor Kitutu                |             80 |
-|             80 | Rayne Barka        |             90.71 |        2 |             27.69 | Jean-Maxence Jules-Rosette  |             80 |
-|             80 | Omar Dahir         |             49.6  |        3 |             61.74 | Aselo Ikahehegi             |             69 |
-|             61 | Léo Labarthe       |             30.1  |        4 |             67.17 | Ugo Vignolles               |             80 |
-|             61 | Sikeli Nabou       |             92.85 |        5 |             37.35 | George Smith                |             40 |
-|             51 | Gautier Gibouin    |              4.44 |        6 |             59.94 | Luka Plataret               |             31 |
-|             80 | Clément Sentubery  |             45.14 |        7 |             90.38 | Hugues Bastide              |             19 |
-|             54 | Samuel Nollet      |             13.91 |        8 |             93.66 | Jason-Colin Fraser          |             26 |
-|             61 | Adrien Bau         |              5.22 |        9 |              3.2  | Hugo Bouyssou               |             72 |
-|             61 | Massimo Ortolan    |              9.65 |       10 |             17.25 | Shaun Reynolds              |             37 |
-|             43 | Nathan Farissier   |             29.54 |       11 |             16.12 | Arthur Mathiron             |             61 |
-|             19 | Mathis Lafon       |             62.16 |       12 |             30.68 | Atunaisa Taulanga Vaka Manu |             80 |
-|             19 | François Carlo Mey |             61.35 |       13 |             61.05 | Alifereti Loaloa            |             20 |
-|             11 | Matthys Gratien    |             76.42 |       14 |             47.81 | Perry Mayo                  |             34 |
-|             47 | Jules Dubecq       |             56.03 |       15 |             27.4  | Dylan Jaminet               |             80 |
-|             63 | Eoghan Barrett     |             45.95 |       16 |             12.96 | Simon Tarel                 |             18 |
-|             80 | Paul Tailhades     |             64.3  |       17 |             69.4  | Yohan Le Bourhis            |             29 |
-|             24 | Maxence Lemardelet |             81.56 |       18 |             30.75 | Louis Chanet                |             11 |
-|              6 | Franck Giraudeau   |             52.27 |       19 |             48.32 | Hugo Ndiaye                 |              7 |
-|             20 | Matt Beukeboom     |             17.76 |       20 |             57.54 | Rati Zazadze                |             28 |
-|             27 | Seydou Diakité     |             23.16 |       21 |             60.86 | Stefan Buruiana             |             31 |
-|             73 | Georgy Balakarev   |             82.99 |       22 |            nan    | Senio Toleafoa              |             29 |
-|             33 | Lucas Zamora       |            nan    |       23 |            nan    | Mahamadou Coulibaly         |             49 |
+|             29 | Sami Zouhair       |             97.6  |        1 |             41.29 | Aitor Kitutu                |             17 |
+|             52 | Rayne Barka        |             90.85 |        2 |             23.96 | Jean-Maxence Jules-Rosette  |             25 |
+|             29 | Omar Dahir         |             56.15 |        3 |             57.67 | Aselo Ikahehegi             |              0 |
+|             67 | Léo Labarthe       |             34.66 |        4 |             62.98 | Ugo Vignolles               |             80 |
+|             18 | Sikeli Nabou       |             92.63 |        5 |             33.52 | George Smith                |             40 |
+|             80 | Gautier Gibouin    |              4.86 |        6 |             54.86 | Luka Plataret               |              8 |
+|             52 | Clément Sentubery  |             52.52 |        7 |             89.81 | Hugues Bastide              |             72 |
+|             80 | Samuel Nollet      |             14.23 |        8 |             92.89 | Jason-Colin Fraser          |             80 |
+|             47 | Adrien Bau         |              6.1  |        9 |              3.39 | Hugo Bouyssou               |             80 |
+|             24 | Massimo Ortolan    |             11.8  |       10 |             17.81 | Shaun Reynolds              |             72 |
+|             80 | Nathan Farissier   |             31.78 |       11 |             14.5  | Arthur Mathiron             |             80 |
+|              5 | Mathis Lafon       |             62.41 |       12 |             30.9  | Atunaisa Taulanga Vaka Manu |             24 |
+|             50 | François Carlo Mey |             64.13 |       13 |             62.11 | Alifereti Loaloa            |             80 |
+|             80 | Matthys Gratien    |             77.42 |       14 |             41.26 | Perry Mayo                  |              1 |
+|             80 | Jules Dubecq       |             57.58 |       15 |             27.66 | Dylan Jaminet               |             14 |
+|             80 | Eoghan Barrett     |             48.88 |       16 |             10.68 | Simon Tarel                 |             21 |
+|             80 | Paul Tailhades     |             64.22 |       17 |             73.08 | Yohan Le Bourhis            |             22 |
+|             62 | Maxence Lemardelet |             81.49 |       18 |             39.94 | Louis Chanet                |             51 |
+|              2 | Franck Giraudeau   |             51.87 |       19 |             47.84 | Hugo Ndiaye                 |             51 |
+|             27 | Matt Beukeboom     |             25.61 |       20 |             56.82 | Rati Zazadze                |             40 |
+|             22 | Seydou Diakité     |             23.24 |       21 |             59.23 | Stefan Buruiana             |             74 |
+|             40 | Georgy Balakarev   |             84.19 |       22 |            nan    | Senio Toleafoa              |             68 |
+|             80 | Lucas Zamora       |            nan    |       23 |            nan    | Mahamadou Coulibaly         |              6 |
 

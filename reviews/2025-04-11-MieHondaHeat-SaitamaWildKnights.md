@@ -11,7 +11,7 @@ categories: "Japan Rugby League One 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.074, which translates to predicting Saitama Wild Knights to win by 22.6.
 
-Our Over/Under is 57.5 - and combined with the spread above, we have a predicted scoreline of 40 to 17
+Our Over/Under is 60.5 - and combined with the spread above, we have a predicted scoreline of 42 to 19
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -34,62 +34,3 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 <p float="left">
 <img src="plots/resultbar_2025-04-11-MieHondaHeat-SaitamaWildKnights.png" width="99%" />
 </p>
-
-# Player Level Predictions
-
-
-Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Saitama Wild Knights by 18.5
-
-
-Saitama Wild Knights by 22.2 on a neutral pitch
-
-
-## Projected Performances - Player Model
-
-
-<p float="left">
-<img src="plots/performances_plr_2025-04-11-MieHondaHeat-SaitamaWildKnights.png" width="99%" />
-</p>
-
-## Projected Spreads - Player Model
-
-
-<p float="left">
-<img src="plots/spreads_plr_2025-04-11-MieHondaHeat-SaitamaWildKnights.png" width="99%" />
-</p>
-
-## Projected Results - Player Model
-
-
-<p float="left">
-<img src="plots/resultbar_plr_2025-04-11-MieHondaHeat-SaitamaWildKnights.png" width="99%" />
-</p>
-
-
-|   Away Minutes | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player            |   Home Minutes |
-|---------------:|:------------------|------------------:|---------:|------------------:|:-----------------------|---------------:|
-|             52 | Keita Inagaki     |             98.16 |        1 |             14.62 | Matthys Basson         |             29 |
-|             28 | Kenji Sato        |             20.23 |        2 |             23.88 | Koki Hida              |              0 |
-|              0 | Lisala Finau      |             48.68 |        3 |             10.7  | Taiki Yoshioka         |             80 |
-|             15 | Liam Mitchell     |             81    |        4 |             14.02 | Mark Abbott            |             14 |
-|             12 | Lood de Jager     |             96.61 |        5 |             89.75 | Franco Mostert         |             51 |
-|             11 | Shota Fukui       |             46.62 |        6 |              3.05 | Ryota Kobayashi        |             20 |
-|             69 | Ben Gunter        |             95.84 |        7 |              1.76 | Ryo Furuta             |             80 |
-|             80 | Jack Cornelsen    |             97.55 |        8 |             60.74 | Tevita Tupou           |             80 |
-|             50 | Yuta Takagi       |             68.69 |        9 |             60.94 | Azuma Doei             |             28 |
-|             15 | Kyohei Yamasawa   |             72.69 |       10 |             10.88 | Gwangtee Oh            |             28 |
-|             41 | Marika Koroibete  |             95.9  |       11 |             78.66 | Larry Steven Sulunga   |             63 |
-|             56 | Damian de Allende |             99.29 |       12 |             61.15 | Manu Vunipola          |             21 |
-|             65 | Taniyama Hayata   |             50.05 |       13 |             10.29 | Dawid Kellerman        |             34 |
-|             69 | Koki Takeyama     |             96.92 |       14 |             22.18 | Naoki Motomura         |             62 |
-|             80 | Ryuji Noguchi     |             97.34 |       15 |             78.12 | Tom Banks              |             80 |
-|             15 | Takaya Saito      |            nan    |       16 |              6.39 | Feinga Kihe Lotu Fakai |             18 |
-|              0 | Atsushi Sakate    |             89.39 |       17 |            nan    | Shogo Nezuka           |             73 |
-|             52 | Craig Millar      |            nan    |       18 |             11.26 | Tatsuhiko Tsurukawa    |             18 |
-|             11 | Asaeli Ai Valu    |             98.88 |       19 |             86.08 | Ryoma Nishimura        |             80 |
-|             52 | Itsuki Onishi     |             94.48 |       20 |             88.24 | Janko Swanepoel        |             58 |
-|             80 | Shu Hagihara      |             48.82 |       21 |            nan    | Hiroaki Shirahama      |             54 |
-|             80 | Seijun Kawasaki   |            nan    |       22 |             96.09 | Tevita Li              |             13 |
-|             80 | Esei Ha'angana    |             70.56 |       23 |             10.64 | Tony Ray Hunt          |             42 |
-

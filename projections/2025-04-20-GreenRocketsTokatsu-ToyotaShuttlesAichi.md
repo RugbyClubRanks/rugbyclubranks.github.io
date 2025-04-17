@@ -9,7 +9,7 @@ categories: "Japan Rugby League One D2 24/25" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.568, which translates to predicting Green Rockets Tokatsu to win by 2.9.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.561, which translates to predicting Green Rockets Tokatsu to win by 2.4.
 
 Our Over/Under is 59.5 - and combined with the spread above, we have a predicted scoreline of 29 to 31
 

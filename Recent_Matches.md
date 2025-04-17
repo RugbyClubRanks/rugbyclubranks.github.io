@@ -44,17 +44,17 @@ Last Round Error: 30.69 points per match
 
 [In depth model review and projections for European Rugby Challenge Cup 24/25](comp_files/European_Rugby_Challenge_Cup_24/25)
 
-Competition Accuracy: 40 of 48 (83.33%)
+Competition Accuracy: 39 of 47 (82.98%)
 
-Competition Error: 13.55 points per match
+Competition Error: 12.9 points per match
 
 Last Round Accuracy: 8 of 11 (72.73%)
 
-Last Round Error: 13.94 points per match
+Last Round Error: 10.66 points per match
 
-[2025-04-12 Bulls at Edinburgh; 22-13](reviews//2025-04-12-Edinburgh-Bulls)
+[2025-04-12 Bulls at Edinburgh; 28-34](reviews//2025-04-12-Edinburgh-Bulls)
 
-[2025-04-12 Racing 92 at Connacht; 13-20](reviews//2025-04-12-Connacht-Racing92)
+[2025-04-12 Racing 92 at Connacht; 30-31](reviews//2025-04-12-Connacht-Racing92)
 
 [2025-04-12 Lyon at Ospreys; 20-18](reviews//2025-04-12-Ospreys-Lyon)
 
@@ -64,21 +64,21 @@ Last Round Error: 13.94 points per match
 
 [In depth model review and projections for European Rugby Champions Cup 24/25](comp_files/European_Rugby_Champions_Cup_24/25)
 
-Competition Accuracy: 47 of 60 (78.33%)
+Competition Accuracy: 46 of 60 (76.67%)
 
-Competition Error: 17.1 points per match
+Competition Error: 17.17 points per match
 
-Last Round Accuracy: 10 of 12 (83.33%)
+Last Round Accuracy: 9 of 12 (75.0%)
 
-Last Round Error: 15.16 points per match
+Last Round Error: 15.49 points per match
 
 [2025-04-11 Glasgow Warriors at Leinster; 0-52](reviews//2025-04-11-Leinster-GlasgowWarriors)
 
-[2025-04-12 Castres Olympique at Northampton Saints; 22-13](reviews//2025-04-12-NorthamptonSaints-CastresOlympique)
+[2025-04-12 Castres Olympique at Northampton Saints; 15-26](reviews//2025-04-12-NorthamptonSaints-CastresOlympique)
 
 [2025-04-12 Munster at Bordeaux Begles; 29-47](reviews//2025-04-12-BordeauxBegles-Munster)
 
-[2025-04-13 Stade Toulousain at Toulon; 21-18](reviews//2025-04-13-Toulon-StadeToulousain)
+[2025-04-13 Stade Toulousain at Toulon; 36-31](reviews//2025-04-13-Toulon-StadeToulousain)
 ## Japan Rugby League One
 
 
@@ -100,21 +100,21 @@ Last Round Error: 13.98 points per match
 
 [2025-04-12 Shizuoka Blue Revs at Toshiba Brave Lupus; 56-26](reviews//2025-04-12-ToshibaBraveLupus-ShizuokaBlueRevs)
 
-[2025-04-13 Toyota Verblitz at Black Rams Tokyo; 7-37](reviews//2025-04-13-BlackRamsTokyo-ToyotaVerblitz)
-
 [2025-04-13 Tokyo Sungoliath at Kubota Spears; 10-30](reviews//2025-04-13-KubotaSpears-TokyoSungoliath)
+
+[2025-04-13 Toyota Verblitz at Black Rams Tokyo; 7-37](reviews//2025-04-13-BlackRamsTokyo-ToyotaVerblitz)
 ## Major League Rugby
 
 
 [In depth model review and projections for Major League Rugby 2025](comp_files/Major_League_Rugby_2025)
 
-Competition Accuracy: 30 of 45 (66.67%)
+Competition Accuracy: 28 of 44 (63.64%)
 
-Competition Error: 13.67 points per match
+Competition Error: 13.53 points per match
 
 Last Round Accuracy: 3 of 6 (50.0%)
 
-Last Round Error: 18.06 points per match
+Last Round Error: 18.61 points per match
 
 [2025-04-12 San Diego Legion at New England Free Jacks; 12-39](reviews//2025-04-12-NewEnglandFreeJacks-SanDiegoLegion)
 
@@ -178,23 +178,23 @@ Last Round Error: 14.58 points per match
 
 [In depth model review and projections for Super Rugby Pacific 2025](comp_files/Super_Rugby_Pacific_2025)
 
-Competition Accuracy: 27 of 44 (61.36%)
+Competition Accuracy: 31 of 46 (67.39%)
 
-Competition Error: 11.55 points per match
+Competition Error: 13.4 points per match
 
-Last Round Accuracy: 1 of 6 (16.67%)
+Last Round Accuracy: 3 of 6 (50.0%)
 
-Last Round Error: 14.64 points per match
+Last Round Error: 21.44 points per match
 
-[2025-04-11 Chiefs at New South Wales Waratahs; 14-21](reviews//2025-04-11-NewSouthWalesWaratahs-Chiefs)
+[2025-04-11 Chiefs at New South Wales Waratahs; 35-12](reviews//2025-04-11-NewSouthWalesWaratahs-Chiefs)
 
-[2025-04-11 Crusaders at Hurricanes; 31-24](reviews//2025-04-11-Hurricanes-Crusaders)
+[2025-04-11 Crusaders at Hurricanes; 18-26](reviews//2025-04-11-Hurricanes-Crusaders)
 
-[2025-04-12 Brumbies at Queensland Reds; 39-26](reviews//2025-04-12-QueenslandReds-Brumbies)
+[2025-04-12 Brumbies at Queensland Reds; 13-33](reviews//2025-04-12-QueenslandReds-Brumbies)
 
-[2025-04-12 Moana Pasifika at Blues; 7-22](reviews//2025-04-12-Blues-MoanaPasifika)
+[2025-04-12 Moana Pasifika at Blues; 17-36](reviews//2025-04-12-Blues-MoanaPasifika)
 
-[2025-04-12 Fijian Drua at Highlanders; 29-7](reviews//2025-04-12-Highlanders-FijianDrua)
+[2025-04-12 Fijian Drua at Highlanders; 44-16](reviews//2025-04-12-Highlanders-FijianDrua)
 # Domestic Leagues
 
 ## Japan Rugby League One D2
@@ -202,13 +202,13 @@ Last Round Error: 14.64 points per match
 
 [In depth model review and projections for Japan Rugby League One D2 24/25](comp_files/Japan_Rugby_League_One_D2_24/25)
 
-Competition Accuracy: 29 of 44 (65.91%)
+Competition Accuracy: 28 of 44 (63.64%)
 
-Competition Error: 15.72 points per match
+Competition Error: 15.75 points per match
 
 Last Round Accuracy: 3 of 4 (75.0%)
 
-Last Round Error: 11.98 points per match
+Last Round Error: 12.18 points per match
 
 [2025-04-11 Hino Red Dolphins at Kyuden Voltex; 36-33](reviews//2025-04-11-KyudenVoltex-HinoRedDolphins)
 
@@ -266,11 +266,11 @@ Last Round Error: 8.09 points per match
 
 Competition Accuracy: 141 of 209 (67.46%)
 
-Competition Error: 11.38 points per match
+Competition Error: 11.29 points per match
 
-Last Round Accuracy: 5 of 8 (62.5%)
+Last Round Accuracy: 6 of 8 (75.0%)
 
-Last Round Error: 5.41 points per match
+Last Round Error: 5.17 points per match
 
 [2025-04-10 Grenoble at Valence Romans Drome Rugby; 22-26](reviews//2025-04-10-ValenceRomansDromeRugby-Grenoble)
 
@@ -308,15 +308,15 @@ Last Round Error: 23.96 points per match
 
 Competition Accuracy: 11 of 13 (84.62%)
 
-Competition Error: 13.02 points per match
+Competition Error: 12.02 points per match
 
 Last Round Accuracy: 7 of 7 (100.0%)
 
 Last Round Error: 10.8 points per match
 
-[2025-04-12 Hindu at Regatas Bella Vista; 21-31](reviews//2025-04-12-RegatasBellaVista-Hindu)
-
 [2025-04-12 Alumni at Los Tilos; 20-16](reviews//2025-04-12-LosTilos-Alumni)
+
+[2025-04-12 Hindu at Regatas Bella Vista; 21-31](reviews//2025-04-12-RegatasBellaVista-Hindu)
 
 [2025-04-12 Buenos Aires at San Luis; 21-35](reviews//2025-04-12-SanLuis-BuenosAires)
 
