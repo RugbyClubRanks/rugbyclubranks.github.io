@@ -11,7 +11,7 @@ categories: "Super Rugby Americas 2025" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.926, which translates to predicting Selknam to win by 23.1.
 
-Our Over/Under is 59.5 - and combined with the spread above, we have a predicted scoreline of 18 to 42
+Our Over/Under is 62.5 - and combined with the spread above, we have a predicted scoreline of 20 to 43
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Selknam by 13.2
+## Prediction without Player Minutes: Selknam by 13.6
 
 
-Selknam by 10.5 on a neutral pitch
+Selknam by 10.9 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,28 +69,27 @@ Selknam by 10.5 on a neutral pitch
 
 |   Away Minutes | Away Player               |   Away Percentile |   Number |   Home Percentile | Home Player             |   Home Minutes |
 |---------------:|:--------------------------|------------------:|---------:|------------------:|:------------------------|---------------:|
-|             59 | Vicente Galvao            |             36.18 |        1 |             86.18 | Javier Carrasco         |             80 |
-|             67 | Endy Willian              |             10.65 |        2 |             62.06 | Salvador Lues Soto      |             53 |
-|             51 | Tiago Gonçalves           |             42.49 |        3 |             77.88 | Nahuel Debiassi         |             60 |
-|             56 | Adrio Melo                |             45.51 |        4 |             83.19 | Santiago Pedrero Poduje |             53 |
-|             80 | Gabriel Paganini          |              1.51 |        5 |              1.04 | Agustin Toth            |             29 |
-|             80 | Matheus Claudio           |              6.64 |        6 |             70.37 | Martin Sigren           |             18 |
-|             24 | Cleber Dias               |              4.67 |        7 |             60.93 | Raimundo Martinez Amar  |             57 |
-|             80 | Andre Arruda              |              3.25 |        8 |             86.38 | Joaquin Milesi          |              9 |
-|             43 | Felipe Goncalves Cunha    |             49.32 |        9 |              6.95 | Marcelo Torrealba       |             27 |
-|             29 | Thiago Oviedo             |             38.72 |       10 |             74.12 | Juan Cruz Reyes         |             27 |
-|             33 | Widson Nascimento         |             36.99 |       11 |             77.04 | Frederico Kennedy       |             52 |
-|             29 | Robert Tenorio            |              6.38 |       12 |             64.24 | Tomas Baguley           |             26 |
-|              3 | Lorenzo Temer Massari     |             29.48 |       13 |             75.48 | Nicolas Saab            |             74 |
-|             80 | Robson Morais             |             11.8  |       14 |             48.7  | Benjamin Videla         |             80 |
-|             37 | Lucas Tranquez            |              5.94 |       15 |             59.84 | Tomas Salas Walther     |              9 |
-|             29 | Gabriel Oliveira          |             22.29 |       16 |             58.15 | Baltazar Gurruchaga     |             27 |
-|             21 | Henrique Ribeiro Ferreira |             15.31 |       17 |             21.8  | Augusto Bohme Alemparte |             29 |
-|             21 | Henrique Ribeiro Ferreira |             15.31 |       17 |             21.8  | Augusto Bohme Alemparte |             21 |
-|             80 | Manuel Todaro             |             69.81 |       18 |            nan    | Emilio Shea             |             51 |
-|             41 | Renato Santos             |            nan    |       19 |             71.29 | Bruno Saez              |             80 |
-|             80 | Rodolfo Martins           |             35.77 |       20 |             49.54 | Felipe Mendez           |             51 |
-|             60 | Andrei Santana            |             45.63 |       21 |            nan    | Norman Aguayo           |             74 |
-|             80 | Aquiles Schulter          |             42.73 |       22 |            nan    | Marco Alvano            |             80 |
-|            nan | nan                       |            nan    |       23 |            nan    | Santiago Valenzuela     |             80 |
+|             63 | Vicente Galvao            |             36.21 |        1 |             84.64 | Javier Carrasco         |             12 |
+|             34 | Endy Willian              |              5.9  |        2 |             61.72 | Salvador Lues Soto      |             40 |
+|             13 | Tiago Gonçalves           |             46.79 |        3 |             79    | Nahuel Debiassi         |             80 |
+|             13 | Adrio Melo                |             33.64 |        4 |             82.81 | Santiago Pedrero Poduje |             17 |
+|              7 | Gabriel Paganini          |              1.77 |        5 |              1.3  | Agustin Toth            |             32 |
+|             32 | Matheus Claudio           |              4.77 |        6 |             75.07 | Martin Sigren           |             72 |
+|             64 | Cleber Dias               |              3.02 |        7 |             61.23 | Raimundo Martinez Amar  |             46 |
+|              9 | Andre Arruda              |              3.47 |        8 |             87.96 | Joaquin Milesi          |             80 |
+|             30 | Felipe Goncalves Cunha    |             36.06 |        9 |              7.35 | Marcelo Torrealba       |             80 |
+|             30 | Thiago Oviedo             |             25.79 |       10 |             77.76 | Juan Cruz Reyes         |             80 |
+|              7 | Widson Nascimento         |             24.27 |       11 |             76.19 | Frederico Kennedy       |             24 |
+|              9 | Robert Tenorio            |              6.4  |       12 |             64.86 | Tomas Baguley           |             60 |
+|             80 | Lorenzo Temer Massari     |             15.94 |       13 |             75.3  | Nicolas Saab            |             80 |
+|             80 | Robson Morais             |             10.87 |       14 |             38.24 | Benjamin Videla         |             27 |
+|             73 | Lucas Tranquez            |              5.84 |       15 |             64.99 | Tomas Salas Walther     |             80 |
+|             67 | Gabriel Oliveira          |             18.87 |       16 |             57.05 | Baltazar Gurruchaga     |             20 |
+|             80 | Henrique Ribeiro Ferreira |              6.06 |       17 |             17.54 | Augusto Bohme Alemparte |             80 |
+|             34 | Manuel Todaro             |             54.49 |       18 |            nan    | Emilio Shea             |             80 |
+|             48 | Renato Santos             |             29.24 |       19 |             73.51 | Bruno Saez              |             80 |
+|              8 | Rodolfo Martins           |             36.94 |       20 |             49.02 | Felipe Mendez           |             65 |
+|             21 | Andrei Santana            |             29.43 |       21 |            nan    | Norman Aguayo           |             73 |
+|             15 | Aquiles Schulter          |             42.63 |       22 |            nan    | Marco Alvano            |             59 |
+|            nan | nan                       |            nan    |       23 |            nan    | Santiago Valenzuela     |             76 |
 

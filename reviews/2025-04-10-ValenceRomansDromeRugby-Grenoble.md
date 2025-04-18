@@ -9,9 +9,9 @@ categories: "Pro D2 24/25" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.487, which translates to predicting Grenoble to win by 0.4.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.488, which translates to predicting Grenoble to win by 0.4.
 
-Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 25 to 24
+Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 23 to 22
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Grenoble by 4.3 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             10 | Eli Eglaine         |             55.51 |        1 |             83.39 | Andrea Pontanier    |             80 |
-|             55 | Bastien Soury       |             72.71 |        2 |             84.86 | Dorian Marco Pena   |             18 |
-|             80 | Cody Thomas         |             37.14 |        3 |             26.28 | Gareth Milasinovich |             80 |
-|             70 | Pierce Phillips     |             64.59 |        4 |             66.1  | Ryan McCauley       |              5 |
-|             80 | Giorgi Javakhia     |             80.55 |        5 |             69.97 | Florian Goumat      |             57 |
-|             52 | Antonin Berruyer    |             84.02 |        6 |             77.76 | Adrien Roux         |             80 |
-|             14 | Thibaut Martel      |             81.96 |        7 |             28.69 | Ilia Spanderashvili |             16 |
-|             80 | Richard Hardwick    |             44.72 |        8 |             82.52 | Mathieu Vachon      |             16 |
-|             48 | Barnabe Couilloud   |             15.25 |        9 |             74.24 | Thomas Lhusero      |             21 |
-|             80 | Marc Palmier        |              7.25 |       10 |             62.11 | Lucas Meret         |             52 |
-|             80 | Geoffrey Cros       |             83.64 |       11 |             52.97 | Thomas Roziere      |             59 |
-|             80 | Bautista Ezcurra    |             97.97 |       12 |             85.21 | Louis Marrou        |             50 |
-|              0 | Romain Trouilloud   |             75.28 |       13 |             87.13 | Anatole Pauvert     |             80 |
-|             28 | Kaminieli Rasaku    |             91.26 |       14 |              2.79 | Owen Lane           |             78 |
-|             80 | Hugo Trouilloud     |             68.44 |       15 |             86.89 | Joris De Moura      |             50 |
-|             41 | Sam Davies          |            nan    |       16 |             81.21 | Thembelani Bholi    |             25 |
-|              0 | Giorgi Mamaiashvili |             48.72 |       17 |             87.73 | Mosese Mawalu       |             80 |
-|             28 | Tommy Raynaud       |             87.38 |       18 |             35.05 | Axel Bruchet        |             80 |
-|             39 | Mathis Baret        |            nan    |       19 |             18.98 | Mattéo Rodor        |             40 |
-|             48 | Yan Lestrade        |             90.68 |       20 |              0.5  | Cyril Deligny       |             80 |
-|              0 | Lilian Rossi        |             77.54 |       21 |             10.03 | Mathieu Guillomot   |             80 |
-|             32 | Giorgi Pertaia      |             90.02 |       22 |             68.61 | Esteban Chouteau    |             48 |
-|            nan | nan                 |            nan    |       23 |             61.1  | Vincent Vial        |             72 |
+|             80 | Eli Eglaine         |             53.06 |        1 |             81.5  | Andrea Pontanier    |           80   |
+|             12 | Bastien Soury       |             74    |        2 |             85.01 | Dorian Marco Pena   |           51   |
+|             51 | Cody Thomas         |             41.93 |        3 |             22.57 | Gareth Milasinovich |           60   |
+|             26 | Pierce Phillips     |             67.66 |        4 |             69.61 | Ryan McCauley       |           80   |
+|             40 | Giorgi Javakhia     |             81.41 |        5 |             71    | Florian Goumat      |           80   |
+|             25 | Antonin Berruyer    |             84.6  |        6 |             75.34 | Adrien Roux         |           25   |
+|             80 | Thibaut Martel      |             81.39 |        7 |             25.39 | Ilia Spanderashvili |           65   |
+|             80 | Richard Hardwick    |             49.8  |        8 |             81.43 | Mathieu Vachon      |           17   |
+|             80 | Barnabe Couilloud   |             15.36 |        9 |             71.79 | Thomas Lhusero      |           47   |
+|             80 | Marc Palmier        |              8.46 |       10 |             60.63 | Lucas Meret         |           24   |
+|             26 | Geoffrey Cros       |             85.1  |       11 |             42.27 | Thomas Roziere      |           70   |
+|             11 | Bautista Ezcurra    |             97.15 |       12 |             84.15 | Louis Marrou        |           80   |
+|             12 | Romain Trouilloud   |             74.31 |       13 |             84.55 | Anatole Pauvert     |           60   |
+|             35 | Kaminieli Rasaku    |             91.47 |       14 |              1.69 | Owen Lane           |           80   |
+|             21 | Hugo Trouilloud     |             71.83 |       15 |             85.51 | Joris De Moura      |            0   |
+|             80 | Sam Davies          |             43.31 |       16 |             81.51 | Thembelani Bholi    |           63   |
+|             31 | Giorgi Mamaiashvili |             48.59 |       17 |             87.54 | Mosese Mawalu       |           47   |
+|             80 | Tommy Raynaud       |             89.89 |       18 |             36.39 | Axel Bruchet        |           40   |
+|             55 | Mathis Baret        |            nan    |       19 |             18.53 | Mattéo Rodor        |           55   |
+|             80 | Yan Lestrade        |             89.37 |       20 |              0.64 | Cyril Deligny       |           80   |
+|             26 | Lilian Rossi        |             75.92 |       21 |             10.04 | Mathieu Guillomot   |            4.5 |
+|             51 | Giorgi Pertaia      |             88.79 |       22 |             66.14 | Esteban Chouteau    |           54   |
+|            nan | nan                 |            nan    |       23 |             62.62 | Vincent Vial        |           80   |
 

@@ -11,7 +11,7 @@ categories: "Nationale 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.581, which translates to predicting Suresnes to win by 2.9.
 
-Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 20 to 23
+Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 23 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -42,7 +42,7 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction without Player Minutes: Suresnes by 0.2
 
 
-US Bressane by 3.3 on a neutral pitch
+US Bressane by 3.4 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ US Bressane by 3.3 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player             |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:------------------------|---------------:|
-|             52 | Erich de Jager       |             51.76 |        1 |             68.21 | Elias Coulibaly         |             80 |
-|             28 | Arnaud Feltrin       |             13.98 |        2 |             29.95 | Antoine Marty-Rybak     |              0 |
-|             54 | Vazha Kapanadze      |             39.14 |        3 |             17.33 | Guiterembi Vickos       |              0 |
-|             80 | Quentin Witt         |             12.18 |        4 |             53.73 | Leo Vallee              |             80 |
-|             78 | Josh Peters          |              6.14 |        5 |             23.32 | Yakine Mohamed Djebarri |             50 |
-|             62 | Nail Ait Naceur      |             73.74 |        6 |             72.62 | Jean-Baptiste Lachaise  |             80 |
-|             42 | Pierre Reynaud       |             71.4  |        7 |              9.16 | Florian Desbordes       |             65 |
-|             35 | Loic Baradel         |             86.99 |        8 |             69.31 | Lakisipone Lee          |             80 |
-|             59 | Jeremie Martin       |             55.25 |        9 |             16.1  | Théo Bachiri            |             71 |
-|             61 | Aaron Stafford       |             28.99 |       10 |             55.28 | Jean Chezeau            |             80 |
-|             50 | Élie De Fleurian     |             20.07 |       11 |             90.43 | Faraj Fartass           |             80 |
-|             20 | Maxime Vacquier      |             38.91 |       12 |              2.03 | JJ Taulagi              |             59 |
-|             39 | Joe Margetts         |             50.15 |       13 |             73.86 | Victor Barnier          |             30 |
-|             40 | Alexandre Badet      |             21.84 |       14 |              6.97 | Yohan Fournier          |             13 |
-|             80 | Florent Massip       |             80.33 |       15 |              5.33 | Thomas Baudy            |             78 |
-|              0 | Louis Dasalmartini   |             25.79 |       16 |            nan    | Anthime Gobeaux         |             80 |
-|             80 | Lucas Lyons          |             87.94 |       17 |             36.02 | Nail Audoire            |             45 |
-|             26 | Nathan Azais         |             22.75 |       18 |             24.42 | Gauthier Wolf           |             61 |
-|             80 | Teo Bordenave        |             56.71 |       19 |             49.07 | Tanguy Lacoste          |             80 |
-|             80 | Atonio Ulutuipalelei |             15.58 |       20 |             50.24 | Yanis Trabelsi          |             48 |
-|             31 | Jeremy Valencot      |             80.85 |       21 |            nan    | nan                     |            nan |
-|             15 | Grégoire Demangel    |            nan    |       22 |            nan    | nan                     |            nan |
-|             32 | Jules Margarit       |             31.15 |       23 |            nan    | nan                     |            nan |
+|             11 | Erich de Jager       |             52.27 |        1 |             64.89 | Elias Coulibaly         |             14 |
+|             58 | Arnaud Feltrin       |             11.96 |        2 |             32.22 | Antoine Marty-Rybak     |             22 |
+|             69 | Vazha Kapanadze      |             33.62 |        3 |             21.55 | Guiterembi Vickos       |             66 |
+|             80 | Quentin Witt         |             11.62 |        4 |             55.02 | Leo Vallee              |             44 |
+|             80 | Josh Peters          |              5.3  |        5 |             29.65 | Yakine Mohamed Djebarri |             80 |
+|             34 | Nail Ait Naceur      |             72.69 |        6 |             73.24 | Jean-Baptiste Lachaise  |             50 |
+|             56 | Pierre Reynaud       |             69.94 |        7 |              9.53 | Florian Desbordes       |             80 |
+|             74 | Loic Baradel         |             86.33 |        8 |             72.04 | Lakisipone Lee          |             80 |
+|             61 | Jeremie Martin       |             52.42 |        9 |             16.86 | Théo Bachiri            |             47 |
+|             24 | Aaron Stafford       |             30.31 |       10 |             51.77 | Jean Chezeau            |              0 |
+|             80 | Élie De Fleurian     |             16.03 |       11 |             90.25 | Faraj Fartass           |             33 |
+|             51 | Maxime Vacquier      |             34.74 |       12 |              2.26 | JJ Taulagi              |             80 |
+|             60 | Joe Margetts         |             44.09 |       13 |             73.23 | Victor Barnier          |              8 |
+|             43 | Alexandre Badet      |             19.12 |       14 |              8.06 | Yohan Fournier          |             56 |
+|             80 | Florent Massip       |             78.87 |       15 |              6.04 | Thomas Baudy            |             80 |
+|             80 | Louis Dasalmartini   |             25.52 |       16 |            nan    | Anthime Gobeaux         |             22 |
+|             80 | Lucas Lyons          |             87.53 |       17 |             35.11 | Nail Audoire            |             80 |
+|             80 | Nathan Azais         |             21.93 |       18 |             24.02 | Gauthier Wolf           |             80 |
+|             49 | Teo Bordenave        |             56.11 |       19 |             50.98 | Tanguy Lacoste          |             80 |
+|             27 | Atonio Ulutuipalelei |             15.13 |       20 |             49.61 | Yanis Trabelsi          |             66 |
+|             17 | Jeremy Valencot      |             81.64 |       21 |            nan    | nan                     |            nan |
+|             54 | Grégoire Demangel    |            nan    |       22 |            nan    | nan                     |            nan |
+|             80 | Jules Margarit       |             32.19 |       23 |            nan    | nan                     |            nan |
 

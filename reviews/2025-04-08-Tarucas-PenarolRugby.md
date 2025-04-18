@@ -11,7 +11,7 @@ categories: "Super Rugby Americas 2025" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.432, which translates to predicting Penarol Rugby to win by 2.5.
 
-Our Over/Under is 58.5 - and combined with the spread above, we have a predicted scoreline of 30 to 28
+Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 26 to 24
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Tarucas by 3.4
+## Prediction without Player Minutes: Tarucas by 3.6
 
 
-Tarucas by 1.3 on a neutral pitch
+Tarucas by 1.4 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Tarucas by 1.3 on a neutral pitch
 
 |   Away Minutes | Away Player                     |   Away Percentile |   Number |   Home Percentile | Home Player             |   Home Minutes |
 |---------------:|:--------------------------------|------------------:|---------:|------------------:|:------------------------|---------------:|
-|           80   | Mateo Sanguinetti               |              5.67 |        1 |             23    | Benjamin Garrido        |           80   |
-|           80   | Guillermo Pujadas               |             87.35 |        2 |             38.6  | Tomas Bartolini         |           80   |
-|           75   | Juan Francisco Aguirre Gallardo |             59.66 |        3 |             53.35 | Francisco Moreno        |           80   |
-|           25   | Felipe Aliaga                   |             51.94 |        4 |             44.95 | Facundo Garcia Hamilton |           30   |
-|           80   | Manuel Rosmarino                |             37.68 |        5 |             64.78 | Alvaro Garcia Iandolino |           80   |
-|           80   | Santiago Civetta                |             46.36 |        6 |             40.84 | Facundo Javier Cardozo  |           80   |
-|           64   | Lucas Bianchi                   |             65.23 |        7 |             35.98 | Agustin Sarelli         |           80   |
-|           34   | Manuel Diana                    |              4.88 |        8 |             39.23 | Santiago Aguilar        |           25   |
-|           58   | Santiago Alvarez                |             63.39 |        9 |             78.64 | Simon Benitez Cruz      |           34   |
-|           48   | Felipe Etcheverry               |             35.61 |       10 |             28.36 | Nicolas Roger           |           12.5 |
-|           80   | Justo Ferrario                  |             60.04 |       11 |              9.76 | Tomas Vanni             |           52   |
-|            0   | Bautista Farisé                 |             60.79 |       12 |             18.95 | Mariano García Ascárate |           80   |
-|           30   | Alfonso Perillo Albarracin      |             48.43 |       13 |             25.13 | Bautista Estofan        |           12.5 |
-|           22   | Bautista Basso                  |             15.89 |       14 |              9.39 | Baltazar Garcia         |           64   |
-|           80   | Baltazar Amaya                  |             46.11 |       15 |             36.07 | Stefano Ferro           |           32   |
-|           60   | Mateo Perillo                   |             46.88 |       16 |            nan    | Julian Martin           |           80   |
-|           64   | Tomas Di Biase                  |             75.25 |       17 |            nan    | Agustin Iglesias        |            0   |
-|           27   | Bautista Vidal                  |             51.2  |       18 |             28.05 | Thiago Sbrocco          |           80   |
-|           38.5 | Bautista Viero                  |             34.94 |       19 |             32.54 | Estanislao Pregot       |           24   |
-|           58   | Carlos Deus                     |             46.55 |       20 |            nan    | Juan Manuel Molinuevo   |           30   |
-|           46   | Sebastian Perez                 |            nan    |       21 |             60.23 | Juan Manuel Vivas       |           66   |
-|          nan   | nan                             |            nan    |       22 |             41.64 | Luciano Asevedo         |           80   |
-|          nan   | nan                             |            nan    |       23 |            nan    | Pedro Coll              |           24   |
+|           29   | Mateo Sanguinetti               |              1.12 |        1 |             24.53 | Benjamin Garrido        |           49   |
+|           80   | Guillermo Pujadas               |             87.24 |        2 |             45.14 | Tomas Bartolini         |           31   |
+|           25   | Juan Francisco Aguirre Gallardo |             28.61 |        3 |             54.7  | Francisco Moreno        |           54   |
+|           40   | Felipe Aliaga                   |             31.88 |        4 |             40.43 | Facundo Garcia Hamilton |           54   |
+|           73   | Manuel Rosmarino                |             21    |        5 |             67.38 | Alvaro Garcia Iandolino |           45   |
+|           80   | Santiago Civetta                |             22.91 |        6 |             39.23 | Facundo Javier Cardozo  |           80   |
+|           80   | Lucas Bianchi                   |             60.22 |        7 |             43.9  | Agustin Sarelli         |           26   |
+|           80   | Manuel Diana                    |              3.27 |        8 |             31.43 | Santiago Aguilar        |           80   |
+|           44   | Santiago Alvarez                |             41.07 |        9 |             76.79 | Simon Benitez Cruz      |           80   |
+|           80   | Felipe Etcheverry               |             21.06 |       10 |             23.23 | Nicolas Roger           |           80   |
+|           24   | Justo Ferrario                  |             34.02 |       11 |              8.43 | Tomas Vanni             |           55   |
+|           35   | Bautista Farisé                 |             51.67 |       12 |             20.77 | Mariano García Ascárate |           40   |
+|           22   | Alfonso Perillo Albarracin      |             24.21 |       13 |             23.62 | Bautista Estofan        |           17.5 |
+|           71   | Bautista Basso                  |             14.53 |       14 |              8.81 | Baltazar Garcia         |           40   |
+|           17.5 | Baltazar Amaya                  |             18.91 |       15 |             29.58 | Stefano Ferro           |           80   |
+|           80   | Mateo Perillo                   |             59.09 |       16 |            nan    | Julian Martin           |           59   |
+|           31   | Tomas Di Biase                  |             75.79 |       17 |            nan    | Agustin Iglesias        |           21   |
+|            7   | Bautista Vidal                  |             51.72 |       18 |             28.37 | Thiago Sbrocco          |           74   |
+|           68   | Bautista Viero                  |             35.04 |       19 |             31.39 | Estanislao Pregot       |           31   |
+|           68   | Carlos Deus                     |             47.49 |       20 |            nan    | Juan Manuel Molinuevo   |           31   |
+|           26   | Sebastian Perez                 |            nan    |       21 |             59.49 | Juan Manuel Vivas       |           54   |
+|          nan   | nan                             |            nan    |       22 |             41.17 | Luciano Asevedo         |           80   |
+|          nan   | nan                             |            nan    |       23 |            nan    | Pedro Coll              |           59   |
 

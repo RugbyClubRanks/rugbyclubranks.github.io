@@ -11,7 +11,7 @@ categories: "Nationale 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.631, which translates to predicting Tarbes to win by 4.7.
 
-Our Over/Under is 42.5 - and combined with the spread above, we have a predicted scoreline of 19 to 24
+Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 19 to 24
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Tarbes by 2.2 on a neutral pitch
 
 |   Away Minutes | Away Player      |   Away Percentile |   Number |   Home Percentile | Home Player                |   Home Minutes |
 |---------------:|:-----------------|------------------:|---------:|------------------:|:---------------------------|---------------:|
-|            7   | Romain Favaretto |             13.5  |        1 |              4.39 | Ximun Bessonart            |             80 |
-|           57   | Maxime Castant   |             68.39 |        2 |              5.99 | Florian Lamothe            |             22 |
-|           80   | Keynan Knox      |             39.54 |        3 |             23.4  | Lucas Santamaria Polkowska |              0 |
-|           30   | Thomas Adélaïde  |             27.76 |        4 |             20.77 | Baptiste Peytavi           |             18 |
-|           19   | Robin Gascou     |              9.82 |        5 |             32.67 | Mathieu Soufflet           |             72 |
-|           66   | Kevin Chaudouard |              8.5  |        6 |             92.9  | Alexis Armary              |             15 |
-|           27   | Bynjamin Rabatel |             80.28 |        7 |             33.74 | Spike Salman               |             80 |
-|           35   | Poutasi Luafutu  |              2.24 |        8 |              0.81 | Filipe Manu                |             80 |
-|            0   | Yoan Cottin      |             67.8  |        9 |              3.22 | Thomas Millet              |             80 |
-|           35   | Nicolas Cachet   |              8.49 |       10 |              6.83 | Joris Pialot               |             64 |
-|           14   | Adrian Fugit     |             54.83 |       11 |             19.14 | Amona Artaud               |             80 |
-|            9   | Isaiah Leota     |             70.82 |       12 |              3.44 | Savenaca Rawaca            |             80 |
-|           59   | Tom Danovaro     |             59.78 |       13 |             14.08 | Hugo Cellier               |             80 |
-|           80   | Paul-Hugo Champ  |             12.92 |       14 |              7.81 | Jonathan Duffau            |             34 |
-|           80   | Remi Bouet       |              8.4  |       15 |              2.87 | Mathieu Berbizier          |             30 |
-|           45.5 | Rémy Gaborit     |             20.05 |       16 |             39.86 | Enzo Baggiani              |             34 |
-|           71   | Julien Ratajczak |              4.99 |       17 |             54.58 | Vincent Dolier             |             23 |
-|           40   | Dimitri Tchapnga |             42.25 |       18 |             78.12 | Irakli Mirtskhulava        |             50 |
-|           79   | Léandre Cotte    |              1.42 |       19 |             15.86 | Léo Estaque                |             23 |
-|           80   | Morgan Eames     |              0.66 |       20 |             48.79 | Jean Guicherd              |             16 |
-|           80   | Jeremy Gondrand  |             78.14 |       21 |             17.02 | Maile Mamao                |             30 |
-|           80   | Aviata Silago    |              2.63 |       22 |             55.59 | Mickael Thébault           |             50 |
-|           30   | Gaby Lovobalavu  |             46.3  |       23 |             23.14 | Clement Latorre            |             26 |
+|             19 | Romain Favaretto |             13.95 |        1 |              4.39 | Ximun Bessonart            |             80 |
+|              0 | Maxime Castant   |             48.96 |        2 |              3.67 | Florian Lamothe            |             63 |
+|             24 | Keynan Knox      |             21.08 |        3 |             11.29 | Lucas Santamaria Polkowska |             80 |
+|             80 | Thomas Adélaïde  |             44.8  |        4 |             15.33 | Baptiste Peytavi           |             55 |
+|             27 | Robin Gascou     |             11.15 |        5 |             35.41 | Mathieu Soufflet           |             68 |
+|             80 | Kevin Chaudouard |              8.71 |        6 |             90.19 | Alexis Armary              |             66 |
+|             70 | Bynjamin Rabatel |             84.51 |        7 |             35.29 | Spike Salman               |             80 |
+|             31 | Poutasi Luafutu  |              2.04 |        8 |              0.82 | Filipe Manu                |             80 |
+|             26 | Yoan Cottin      |             73.79 |        9 |              3.51 | Thomas Millet              |             63 |
+|             65 | Nicolas Cachet   |             12.6  |       10 |             11.61 | Joris Pialot               |             26 |
+|             14 | Adrian Fugit     |             53.98 |       11 |             27.46 | Amona Artaud               |             45 |
+|             54 | Isaiah Leota     |             76.38 |       12 |              3.54 | Savenaca Rawaca            |             80 |
+|             80 | Tom Danovaro     |             62.3  |       13 |             29.13 | Hugo Cellier               |              6 |
+|             80 | Paul-Hugo Champ  |             11.43 |       14 |              4.97 | Jonathan Duffau            |             80 |
+|             34 | Remi Bouet       |              6.24 |       15 |              1.81 | Mathieu Berbizier          |             80 |
+|             30 | Rémy Gaborit     |             20.06 |       16 |             39.73 | Enzo Baggiani              |             63 |
+|             34 | Julien Ratajczak |              5.1  |       17 |             54.07 | Vincent Dolier             |             30 |
+|             23 | Dimitri Tchapnga |             42.16 |       18 |             77.19 | Irakli Mirtskhulava        |             80 |
+|             40 | Léandre Cotte    |              1.49 |       19 |             16.45 | Léo Estaque                |             80 |
+|             80 | Morgan Eames     |              0.84 |       20 |             49.22 | Jean Guicherd              |             80 |
+|             80 | Jeremy Gondrand  |             79.13 |       21 |             17.22 | Maile Mamao                |              9 |
+|             71 | Aviata Silago    |              2.46 |       22 |             56.76 | Mickael Thébault           |             24 |
+|             46 | Gaby Lovobalavu  |             46.06 |       23 |             22.21 | Clement Latorre            |             49 |
 

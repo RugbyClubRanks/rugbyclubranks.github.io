@@ -1,6 +1,6 @@
 ---  
 title: "Developmental International 2025 Status"  
-date: 2025-04-17 6:00:00 -0500  
+date: 2025-04-18 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -50,7 +50,7 @@ aside:
 ### Bulgaria V Moldova on 2025/04/18
 
 
-Average Margin: Moldova by 15.6
+Average Margin: Moldova by 16.0
 
 Average Scoreline: 35-19
 
@@ -63,9 +63,9 @@ Average Scoreline: 35-19
 ### Malaysia V Sri Lanka on 2025/04/18
 
 
-Average Margin: Sri Lanka by 36.3
+Average Margin: Sri Lanka by 37.3
 
-Average Scoreline: 47-11
+Average Scoreline: 48-10
 
 <p float="left">
 <img src="plots/performances_2025-04-18-Malaysia_V_SriLanka.png" width="32%" />
@@ -73,23 +73,23 @@ Average Scoreline: 47-11
 <img src="plots/spreads_2025-04-18-Malaysia_V_SriLanka.png" width="32%" />
 </p>
 
-### Denmark V Latvia on 2025/04/19
+### Montenegro V Slovenia on 2025/04/19
 
 
-Average Margin: Denmark by 6.5
+Average Margin: Slovenia by 23.3
 
-Average Scoreline: 33-27
+Average Scoreline: 44-20
 
 <p float="left">
-<img src="plots/performances_2025-04-19-Denmark_V_Latvia.png" width="32%" />
-<img src="plots/resultbar_2025-04-19-Denmark_V_Latvia.png" width="32%" />
-<img src="plots/spreads_2025-04-19-Denmark_V_Latvia.png" width="32%" />
+<img src="plots/performances_2025-04-19-Montenegro_V_Slovenia.png" width="32%" />
+<img src="plots/resultbar_2025-04-19-Montenegro_V_Slovenia.png" width="32%" />
+<img src="plots/spreads_2025-04-19-Montenegro_V_Slovenia.png" width="32%" />
 </p>
 
 ### Sri Lanka V Malaysia on 2025/04/19
 
 
-Average Margin: Sri Lanka by 40.0
+Average Margin: Sri Lanka by 39.5
 
 Average Scoreline: 49-9
 
@@ -99,15 +99,15 @@ Average Scoreline: 49-9
 <img src="plots/spreads_2025-04-19-SriLanka_V_Malaysia.png" width="32%" />
 </p>
 
-### Montenegro V Slovenia on 2025/04/19
+### Denmark V Latvia on 2025/04/19
 
 
-Average Margin: Slovenia by 25.0
+Average Margin: Denmark by 7.5
 
-Average Scoreline: 44-20
+Average Scoreline: 34-26
 
 <p float="left">
-<img src="plots/performances_2025-04-19-Montenegro_V_Slovenia.png" width="32%" />
-<img src="plots/resultbar_2025-04-19-Montenegro_V_Slovenia.png" width="32%" />
-<img src="plots/spreads_2025-04-19-Montenegro_V_Slovenia.png" width="32%" />
+<img src="plots/performances_2025-04-19-Denmark_V_Latvia.png" width="32%" />
+<img src="plots/resultbar_2025-04-19-Denmark_V_Latvia.png" width="32%" />
+<img src="plots/spreads_2025-04-19-Denmark_V_Latvia.png" width="32%" />
 </p>

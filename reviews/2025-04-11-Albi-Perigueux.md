@@ -69,27 +69,27 @@ Périgueux by 3.1 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             40 | Emilien Borges      |             79.71 |        1 |             53.04 | Antoine Soave      |             16 |
-|             59 | Manu Leiataua       |              1.16 |        2 |             22.96 | Arthur Castant     |             80 |
-|             80 | Kalaveti Tawake     |             71.41 |        3 |             89.06 | Maks van Dyk       |             46 |
-|             72 | Richard Fourcade    |             65.34 |        4 |             78.66 | Yanis Horvat       |             80 |
-|             80 | Damien Lavergne     |             68.93 |        5 |             43.34 | Jonathan Kpoku     |             80 |
-|             51 | Karl Lambert        |             74.49 |        6 |             52.9  | Robin Dione        |             80 |
-|             62 | Afaesetiti Amosa    |             97.29 |        7 |             15.7  | Mattéo Coustalat   |             80 |
-|             45 | Nahum Merigan       |             61.18 |        8 |             29.27 | Camille Jarreau    |             80 |
-|             80 | Max Green           |             46.1  |        9 |             63.22 | Gilen Queheille    |             40 |
-|              4 | Greg Hutley         |             78.88 |       10 |             23.19 | Victor Pisano      |             19 |
-|             21 | Yon Camou           |             70.82 |       11 |             65.52 | Antoine Bouzerand  |             50 |
-|             45 | Nicolas Piaton      |             44.17 |       12 |             55.12 | Gabriel Aviragnet  |             46 |
-|             80 | Dorian Lavernhe     |             71.02 |       13 |             37.89 | Victorien Jacomme  |             34 |
-|             80 | Tim Giresse         |             86.9  |       14 |             74.16 | Simon Hartmann     |              8 |
-|             80 | Anderson Neisen     |             47.95 |       15 |             47.54 | Simeon Soenen      |             58 |
-|              0 | Thomas Vidal        |             78.99 |       16 |             36.66 | Lucas Pindor       |              0 |
-|             30 | Louis Martin        |            nan    |       17 |             23.13 | Reinach Venter     |              8 |
-|             39 | Anthony Pelmard     |             78.35 |       18 |            nan    | Thomas Cretu       |             80 |
-|             40 | Raphaël Vieilledent |             69.5  |       19 |             40.65 | Theo Mercadier     |             55 |
-|             26 | Clement Lanen       |             70.82 |       20 |             72.14 | Vincent Mutel      |             17 |
-|             76 | Masivesi Dakuwaqa   |             76.42 |       21 |             15.42 | Titouan Pouzoullic |             47 |
-|              8 | Nicolas Faltrept    |             28.31 |       22 |             86.95 | Théo Vidal         |             67 |
-|             70 | Cyril Couturier     |             87.74 |       23 |             13.07 | Leo Treilles       |             10 |
+|           58   | Emilien Borges      |             72.41 |        1 |             56.74 | Antoine Soave      |             80 |
+|           34.5 | Manu Leiataua       |              0.96 |        2 |             25.04 | Arthur Castant     |             18 |
+|           80   | Kalaveti Tawake     |             65.05 |        3 |             87.23 | Maks van Dyk       |             15 |
+|           24   | Richard Fourcade    |             53.35 |        4 |             79.65 | Yanis Horvat       |             18 |
+|           50   | Damien Lavergne     |             68.12 |        5 |             45.35 | Jonathan Kpoku     |              0 |
+|           80   | Karl Lambert        |             68.19 |        6 |             55.82 | Robin Dione        |             22 |
+|           64   | Afaesetiti Amosa    |             97.34 |        7 |             16.87 | Mattéo Coustalat   |             72 |
+|           57   | Nahum Merigan       |             58.57 |        8 |             31.84 | Camille Jarreau    |             62 |
+|           40   | Max Green           |             35.56 |        9 |             64.94 | Gilen Queheille    |             17 |
+|            7   | Greg Hutley         |             76.57 |       10 |             25.39 | Victor Pisano      |             62 |
+|           45.5 | Yon Camou           |             69.26 |       11 |             66.54 | Antoine Bouzerand  |             15 |
+|           73   | Nicolas Piaton      |             34.15 |       12 |             57.48 | Gabriel Aviragnet  |             50 |
+|           16   | Dorian Lavernhe     |             68.8  |       13 |             40.65 | Victorien Jacomme  |             56 |
+|           80   | Tim Giresse         |             84.16 |       14 |             75.16 | Simon Hartmann     |             68 |
+|           80   | Anderson Neisen     |             38.43 |       15 |             49.9  | Simeon Soenen      |             45 |
+|           23   | Thomas Vidal        |             78.13 |       16 |             36.83 | Lucas Pindor       |             18 |
+|           80   | Louis Martin        |            nan    |       17 |             23.6  | Reinach Venter     |             80 |
+|           59   | Anthony Pelmard     |             77.66 |       18 |            nan    | Thomas Cretu       |             52 |
+|           56   | Raphaël Vieilledent |             70.35 |       19 |             41.34 | Theo Mercadier     |             80 |
+|           58   | Clement Lanen       |             68.59 |       20 |             72.86 | Vincent Mutel      |             80 |
+|           40   | Masivesi Dakuwaqa   |             75.71 |       21 |             16.19 | Titouan Pouzoullic |             80 |
+|           40   | Nicolas Faltrept    |             28.05 |       22 |             86.64 | Théo Vidal         |             25 |
+|           80   | Cyril Couturier     |             86.42 |       23 |             13.19 | Leo Treilles       |              8 |
 
