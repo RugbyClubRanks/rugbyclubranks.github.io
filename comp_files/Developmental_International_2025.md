@@ -1,6 +1,6 @@
 ---  
 title: "Developmental International 2025 Status"  
-date: 2025-04-21 6:00:00 -0500  
+date: 2025-04-24 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -15,14 +15,14 @@ aside:
 
 |   Rank | Team                   |   Rating |
 |-------:|:-----------------------|---------:|
-|      1 | Bosnia-Herzegovina     |  1560.74 |
-|      2 | Sri Lanka              |  1307.57 |
-|      3 | Malta                  |  1227.79 |
-|      4 | Andorra                |  1223.07 |
-|      5 | Moldova                |  1181.41 |
-|      6 | Ukraine                |  1130.53 |
-|      7 | Israel                 |  1128.98 |
-|      8 | Denmark                |  1103.26 |
+|      1 | Sri Lanka              |  1307.57 |
+|      2 | Malta                  |  1227.79 |
+|      3 | Andorra                |  1223.07 |
+|      4 | Moldova                |  1181.41 |
+|      5 | Ukraine                |  1130.53 |
+|      6 | Israel                 |  1128.98 |
+|      7 | Denmark                |  1103.26 |
+|      8 | Bosnia-Herzegovina     |  1068.24 |
 |      9 | Latvia                 |  1068.24 |
 |     10 | Cyprus                 |  1048.12 |
 |     11 | Austria                |  1043.62 |
@@ -52,9 +52,9 @@ aside:
 ### Ukraine V Austria on 2025/04/25
 
 
-Average Margin: Ukraine by 7.5
+Average Margin: Ukraine by 6.7
 
-Average Scoreline: 28-20
+Average Scoreline: 27-21
 
 <p float="left">
 <img src="plots/performances_2025-04-25-Ukraine_V_Austria.png" width="32%" />
@@ -65,7 +65,7 @@ Average Scoreline: 28-20
 ### Israel V Cyprus on 2025/04/25
 
 
-Average Margin: Israel by 9.1
+Average Margin: Israel by 9.0
 
 Average Scoreline: 26-17
 
@@ -78,9 +78,9 @@ Average Scoreline: 26-17
 ### Slovenia V Bosnia-Herzegovina on 2025/04/26
 
 
-Average Margin: Bosnia-Herzegovina by 12.0
+Average Margin: Slovenia by 3.1
 
-Average Scoreline: 37-25
+Average Scoreline: 30-27
 
 <p float="left">
 <img src="plots/performances_2025-04-26-Slovenia_V_Bosnia-Herzegovina.png" width="32%" />

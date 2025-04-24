@@ -67,18 +67,20 @@ key: page-recents
 [2024](comp_files\Rugby_Europe_Trophy_2024) - Prediction Accuracy: 55.6% 
 
 [2023](comp_files\Rugby_Europe_Trophy_2023) - Prediction Accuracy: 42.9% 
+## World Rugby U20 Championship
+
+
+[2025](comp_files\World_Rugby_U20_Championship_2025)
+
+[2024](comp_files\World_Rugby_U20_Championship_2024) - Prediction Accuracy: 63.3% 
+
+[2023](comp_files\World_Rugby_U20_Championship_2023) - Prediction Accuracy: 100.0% 
 ## World Rugby U20 Trophy
 
 
 [2024](comp_files\World_Rugby_U20_Trophy_2024)
 
 [2023](comp_files\World_Rugby_U20_Trophy_2023)
-## World Rugby U20 Championship
-
-
-[2024](comp_files\World_Rugby_U20_Championship_2024) - Prediction Accuracy: 63.3% 
-
-[2023](comp_files\World_Rugby_U20_Championship_2023) - Prediction Accuracy: 100.0% 
 ## Asia Rugby Championship - Top 3
 
 
@@ -88,7 +90,7 @@ key: page-recents
 ## Guinness Womens Six Nations
 
 
-[2025](comp_files\Guinness_Womens_Six_Nations_2025) - Prediction Accuracy: 77.8% 
+[2025](comp_files\Guinness_Womens_Six_Nations_2025) - Prediction Accuracy: 83.3% 
 
 [2024](comp_files\Guinness_Womens_Six_Nations_2024) - Prediction Accuracy: 80.0% 
 ## Guinness U20 Six Nations
@@ -150,7 +152,7 @@ key: page-recents
 ## United Rugby Championship
 
 
-[2425](comp_files\United_Rugby_Championship_2425) - Prediction Accuracy: 71.5% 
+[2425](comp_files\United_Rugby_Championship_2425) - Prediction Accuracy: 69.4% 
 
 [2024](comp_files\United_Rugby_Championship_2024) - Prediction Accuracy: 74.4% 
 
@@ -192,7 +194,7 @@ key: page-recents
 ## Gallagher Premiership
 
 
-[2425](comp_files\Gallagher_Premiership_2425) - Prediction Accuracy: 62.3% 
+[2425](comp_files\Gallagher_Premiership_2425) - Prediction Accuracy: 65.7% 
 
 [2024](comp_files\Gallagher_Premiership_2024) - Prediction Accuracy: 67.3% 
 
@@ -206,7 +208,7 @@ key: page-recents
 ## Top 14 Orange
 
 
-[2425](comp_files\Top_14_Orange_2425) - Prediction Accuracy: 74.8% 
+[2425](comp_files\Top_14_Orange_2425) - Prediction Accuracy: 76.0% 
 
 [2024](comp_files\Top_14_Orange_2024) - Prediction Accuracy: 78.1% 
 
@@ -234,7 +236,7 @@ key: page-recents
 ## Major League Rugby
 
 
-[2025](comp_files\Major_League_Rugby_2025) - Prediction Accuracy: 64.4% 
+[2025](comp_files\Major_League_Rugby_2025) - Prediction Accuracy: 63.3% 
 
 [2024](comp_files\Major_League_Rugby_2024) - Prediction Accuracy: 63.5% 
 
@@ -248,7 +250,7 @@ key: page-recents
 ## Super Rugby Pacific
 
 
-[2025](comp_files\Super_Rugby_Pacific_2025) - Prediction Accuracy: 64.6% 
+[2025](comp_files\Super_Rugby_Pacific_2025) - Prediction Accuracy: 72.3% 
 
 [2024](comp_files\Super_Rugby_Pacific_2024) - Prediction Accuracy: 74.7% 
 
@@ -262,7 +264,7 @@ key: page-recents
 ## RFU Championship
 
 
-[2425](comp_files\RFU_Championship_2425) - Prediction Accuracy: 69.8% 
+[2425](comp_files\RFU_Championship_2425) - Prediction Accuracy: 70.6% 
 
 [2024](comp_files\RFU_Championship_2024) - Prediction Accuracy: 66.7% 
 
@@ -364,7 +366,7 @@ key: page-recents
 ## Pro D2
 
 
-[2425](comp_files\Pro_D2_2425) - Prediction Accuracy: 66.7% 
+[2425](comp_files\Pro_D2_2425) - Prediction Accuracy: 67.7% 
 
 [2024](comp_files\Pro_D2_2024) - Prediction Accuracy: 67.1% 
 
@@ -422,7 +424,7 @@ key: page-recents
 ## Japan Rugby League One D2
 
 
-[2425](comp_files\Japan_Rugby_League_One_D2_2425) - Prediction Accuracy: 61.4% 
+[2425](comp_files\Japan_Rugby_League_One_D2_2425) - Prediction Accuracy: 61.2% 
 
 [2024](comp_files\Japan_Rugby_League_One_D2_2024) - Prediction Accuracy: 43.8% 
 
@@ -430,7 +432,7 @@ key: page-recents
 ## Japan Rugby League One D3
 
 
-[2425](comp_files\Japan_Rugby_League_One_D3_2425) - Prediction Accuracy: 47.6% 
+[2425](comp_files\Japan_Rugby_League_One_D3_2425) - Prediction Accuracy: 46.7% 
 
 [2024](comp_files\Japan_Rugby_League_One_D3_2024) - Prediction Accuracy: 23.1% 
 

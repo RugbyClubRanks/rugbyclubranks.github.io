@@ -9,9 +9,9 @@ categories: "Japan Rugby League One D2 24/25" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.564, which translates to predicting Kamaishi Seawaves to win by 2.3.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.543, which translates to predicting Kamaishi Seawaves to win by 1.6.
 
-Our Over/Under is 66.5 - and combined with the spread above, we have a predicted scoreline of 32 to 34
+Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 22 to 24
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Shimizu Blue Sharks by 3.6
+## Prediction without Player Minutes: Shimizu Blue Sharks by 2.1
 
 
-Shimizu Blue Sharks by 6.4 on a neutral pitch
+Shimizu Blue Sharks by 4.9 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Shimizu Blue Sharks by 6.4 on a neutral pitch
 
 |   Away Minutes | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             70 | Sanshiro Nomura   |             70.75 |        1 |             37.18 | Yusuke Yamada       |             35 |
-|             29 | Naomichi Tatekawa |             48.35 |        2 |              3.96 | Daiki Ito           |              0 |
-|             80 | Uha Lee           |             79.76 |        3 |             24.31 | Taiki Noguchi       |             29 |
-|             51 | Koyo Adachi       |             51.18 |        4 |             33.08 | Satoshi Hatazawa    |             48 |
-|             34 | Ed Holmes         |             52.21 |        5 |              9.52 | Hamish Dalzell      |             48 |
-|             59 | Tetsunori Osaki   |             20.94 |        6 |             10.1  | Ben Nee Nee         |             80 |
-|             17 | Josh Basham       |             40.96 |        7 |             46.19 | Ryota Kono          |             21 |
-|             21 | Sosiceni Tokoqio  |             13.99 |        8 |             71.6  | Muller Uys          |             68 |
-|             21 | Tatsuya Kanetsuki |             19.29 |        9 |              3.21 | Youhei Murakami     |             80 |
-|             29 | Lima Sopoaga      |             95.23 |       10 |             41.35 | Mitch Hunt          |             65 |
-|             25 | John-Ben Kotze    |             77.8  |       11 |              9.98 | Ryuji Abe           |             57 |
-|             30 | Terrence Hepetema |             20.93 |       12 |             13.18 | Gerdus van der Walt |             54 |
-|             73 | Tatsuya Fujioka   |             49.5  |       13 |              2.62 | Osuka Lloyd Murata  |             67 |
-|             41 | Tatsuhiro Ozaki   |              3.45 |       14 |              8.96 | Gousuke Kawakami    |             80 |
-|             73 | Coenie van Wyk    |             75.51 |       15 |             38.26 | Kazuki Ochi         |             23 |
-|             29 | Kaito Tamori      |              3.63 |       16 |            nan    | Kohei Ishigaki      |             33 |
-|             48 | Shinya Nara       |            nan    |       17 |            nan    | Syou Kataoka        |             39 |
-|             80 | Fumiyake Mato     |            nan    |       18 |            nan    | Taichi Takahashi    |             36 |
-|             22 | Murphy Taramai    |              9.92 |       19 |            nan    | Sei Matsuyama       |             48 |
-|             80 | Ryo Sato          |             14.51 |       20 |            nan    | Naoki Ouno          |             39 |
-|             80 | Soichiro Kuwata   |              6.76 |       21 |            nan    | Atsushi Minami      |             69 |
-|             24 | Reijiro Usui      |             28.26 |       22 |            nan    | Mosese Tonga        |             51 |
-|             12 | Essendon Tuitupou |            nan    |       23 |            nan    | Ryunosuke Yamada    |             67 |
+|             63 | Sanshiro Nomura   |             66.47 |        1 |             33.53 | Yusuke Yamada       |             58 |
+|             49 | Naomichi Tatekawa |             53.68 |        2 |              2.84 | Daiki Ito           |             28 |
+|             76 | Uha Lee           |             77.92 |        3 |             22.65 | Taiki Noguchi       |             29 |
+|             45 | Koyo Adachi       |             46.49 |        4 |             39.37 | Satoshi Hatazawa    |             21 |
+|              4 | Ed Holmes         |             44.59 |        5 |             10.63 | Hamish Dalzell      |             54 |
+|             70 | Tetsunori Osaki   |             25.09 |        6 |             11.74 | Ben Nee Nee         |             70 |
+|             24 | Josh Basham       |             34.56 |        7 |             35.32 | Ryota Kono          |             76 |
+|             15 | Sosiceni Tokoqio  |             14.05 |        8 |             69.42 | Muller Uys          |             69 |
+|             26 | Tatsuya Kanetsuki |             19.83 |        9 |              3.25 | Youhei Murakami     |             80 |
+|             22 | Lima Sopoaga      |             95.39 |       10 |             58.49 | Mitch Hunt          |              0 |
+|             39 | John-Ben Kotze    |             76.42 |       11 |             12.69 | Ryuji Abe           |             26 |
+|             65 | Terrence Hepetema |             25.15 |       12 |             15.2  | Gerdus van der Walt |             29 |
+|             35 | Tatsuya Fujioka   |             38.3  |       13 |              2.98 | Osuka Lloyd Murata  |             29 |
+|             10 | Tatsuhiro Ozaki   |              2.46 |       14 |              9.19 | Gousuke Kawakami    |             72 |
+|             26 | Coenie van Wyk    |             67.9  |       15 |             29.01 | Kazuki Ochi         |             80 |
+|             80 | Kaito Tamori      |              3.85 |       16 |            nan    | Kohei Ishigaki      |             31 |
+|             80 | Shinya Nara       |            nan    |       17 |            nan    | Syou Kataoka        |             80 |
+|             66 | Fumiyake Mato     |            nan    |       18 |            nan    | Taichi Takahashi    |             14 |
+|             41 | Murphy Taramai    |              8.9  |       19 |            nan    | Sei Matsuyama       |             57 |
+|             80 | Ryo Sato          |             13.73 |       20 |            nan    | Naoki Ouno          |             67 |
+|             12 | Soichiro Kuwata   |              5.24 |       21 |            nan    | Atsushi Minami      |             56 |
+|             46 | Reijiro Usui      |             30.43 |       22 |            nan    | Mosese Tonga        |             29 |
+|             18 | Essendon Tuitupou |            nan    |       23 |            nan    | Ryunosuke Yamada    |             80 |
 

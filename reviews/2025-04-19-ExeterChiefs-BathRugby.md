@@ -1,15 +1,15 @@
 ---  
 layout: page  
-title: Bath Rugby at Exeter Chiefs; 29-26  
+title: Bath Rugby at Exeter Chiefs; 7-26  
 date: 2025-04-19 18:00:00 -0500  
 categories: "Gallagher Premiership 24/25" match review  
 ---
-# Bath Rugby at Exeter Chiefs; 29-26
+# Bath Rugby at Exeter Chiefs; 7-26
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.388, which translates to predicting Bath Rugby to win by 4.0.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.397, which translates to predicting Bath Rugby to win by 3.7.
 
 Our Over/Under is 54.5 - and combined with the spread above, we have a predicted scoreline of 29 to 25
 

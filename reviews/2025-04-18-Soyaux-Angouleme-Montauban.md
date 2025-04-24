@@ -11,7 +11,7 @@ categories: "Pro D2 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.67, which translates to predicting Soyaux-Angouleme to win by 6.2.
 
-Our Over/Under is 56.5 - and combined with the spread above, we have a predicted scoreline of 25 to 31
+Our Over/Under is 55.5 - and combined with the spread above, we have a predicted scoreline of 24 to 31
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -42,7 +42,7 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction without Player Minutes: Soyaux-Angouleme by 7.9
 
 
-Soyaux-Angouleme by 2.5 on a neutral pitch
+Soyaux-Angouleme by 2.4 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Soyaux-Angouleme by 2.5 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             53 | Lucas Seyrolle        |              8.31 |        1 |             96.55 | Sami Zouhair       |             33 |
-|             41 | Vakhtang Jintcharadze |             68.81 |        2 |             12.54 | Mamoudou Meite     |             45 |
-|             38 | Badri Alkhazashvili   |             19.14 |        3 |             50.43 | Omar Dahir         |             59 |
-|             80 | Clément Bitz          |             77.47 |        4 |             79.08 | Maxence Lemardelet |              0 |
-|             15 | Noa Kanika            |             63.52 |        5 |             91.99 | Sikeli Nabou       |             25 |
-|             40 | Frédéric Quercy       |              3.21 |        6 |              4.87 | Gautier Gibouin    |             25 |
-|             21 | Kyllian Ringuet       |             84.48 |        7 |             49.22 | Clément Sentubery  |             47 |
-|             72 | Sikhumbuzo Notshe     |             78.19 |        8 |             44.03 | Alexander Masibaka |             74 |
-|             80 | Joe Powell            |             86.8  |        9 |              5.41 | Adrien Bau         |             27 |
-|             26 | Jérôme Bosviel        |             91.25 |       10 |             67.2  | Corentin Glenat    |             35 |
-|             46 | Josua Vici            |             32.37 |       11 |             24.91 | Nathan Farissier   |             80 |
-|             17 | Maxime Mathy          |              5.53 |       12 |             93.46 | George Tilsley     |             27 |
-|             34 | JT Jackson            |             39.94 |       13 |              6.94 | Arthur Proult      |             80 |
-|             12 | Stephane Ahmed        |             95.71 |       14 |             36.1  | Eoghan Barrett     |             67 |
-|             29 | Segundo Tuculet       |              2.43 |       15 |              7.49 | Massimo Ortolan    |             80 |
-|             50 | Baptiste Mouchous     |             89.27 |       16 |             81.65 | Georgy Balakarev   |             76 |
-|             12 | Thomas Bue            |             39.45 |       17 |             12.05 | Motu Matu'u        |             80 |
-|             12 | Facundo Pomponio      |             66.98 |       18 |             39.69 | Yassine Boutemane  |             66 |
-|             30 | Jeremie Maurouard     |              4.29 |       19 |             71.91 | Manu Saubusse      |             55 |
-|             80 | Tomas Lezana          |            nan    |       20 |             18.55 | Matt Beukeboom     |             80 |
-|             58 | Hugo Zabalza          |             28.76 |       21 |             53.26 | Hubert Texier      |             40 |
-|             59 | Frank Bradshaw        |             85.11 |       22 |             62.88 | François Carlo Mey |              6 |
-|             45 | Victor Moreaux        |              3.86 |       23 |             18.93 | Samuel Nollet      |             45 |
+|        34      | Lucas Seyrolle        |              7.5  |        1 |             97.2  | Sami Zouhair       |             11 |
+|        72      | Vakhtang Jintcharadze |             68.73 |        2 |             14.05 | Mamoudou Meite     |             58 |
+|         0      | Badri Alkhazashvili   |             15.98 |        3 |             47.78 | Omar Dahir         |             52 |
+|        11      | Clément Bitz          |             74.76 |        4 |             79.89 | Maxence Lemardelet |             46 |
+|        20      | Noa Kanika            |             62.9  |        5 |             92.03 | Sikeli Nabou       |             80 |
+|        15      | Frédéric Quercy       |              2.84 |        6 |              3.6  | Gautier Gibouin    |             80 |
+|        30      | Kyllian Ringuet       |             84.38 |        7 |             37.97 | Clément Sentubery  |             80 |
+|        27      | Sikhumbuzo Notshe     |             76.24 |        8 |             48.55 | Alexander Masibaka |             60 |
+|         0      | Joe Powell            |             82.22 |        9 |              7.01 | Adrien Bau         |             19 |
+|        20.6667 | Jérôme Bosviel        |             90.99 |       10 |             60.38 | Corentin Glenat    |             80 |
+|        14      | Josua Vici            |             29.83 |       11 |             22.06 | Nathan Farissier   |             80 |
+|        22      | Maxime Mathy          |              5.44 |       12 |             92.2  | George Tilsley     |             80 |
+|        63      | JT Jackson            |             47.02 |       13 |              9.14 | Arthur Proult      |             22 |
+|        80      | Stephane Ahmed        |             96.59 |       14 |             38.16 | Eoghan Barrett     |             80 |
+|        13      | Segundo Tuculet       |              2.67 |       15 |             10.29 | Massimo Ortolan    |             22 |
+|        68      | Baptiste Mouchous     |             88.27 |       16 |             82.7  | Georgy Balakarev   |             67 |
+|        17      | Thomas Bue            |             37.97 |       17 |             14.21 | Motu Matu'u        |             80 |
+|        58      | Facundo Pomponio      |             66.56 |       18 |             40.36 | Yassine Boutemane  |             80 |
+|        34      | Jeremie Maurouard     |              4.01 |       19 |             73.85 | Manu Saubusse      |             49 |
+|        52      | Tomas Lezana          |            nan    |       20 |             21.5  | Matt Beukeboom     |             80 |
+|        80      | Hugo Zabalza          |             25.3  |       21 |             51.99 | Hubert Texier      |             80 |
+|        28      | Frank Bradshaw        |             85.29 |       22 |             64.89 | François Carlo Mey |             46 |
+|        74      | Victor Moreaux        |              3.98 |       23 |             17.98 | Samuel Nollet      |             22 |
 
