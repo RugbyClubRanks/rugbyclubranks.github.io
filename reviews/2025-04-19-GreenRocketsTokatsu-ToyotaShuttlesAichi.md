@@ -9,9 +9,9 @@ categories: "Japan Rugby League One D2 24/25" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.535, which translates to predicting Green Rockets Tokatsu to win by 1.3.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.542, which translates to predicting Green Rockets Tokatsu to win by 1.5.
 
-Our Over/Under is 57.5 - and combined with the spread above, we have a predicted scoreline of 28 to 29
+Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 24 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Green Rockets Tokatsu by 2.4 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             31 | Tomoki Yamaguchi     |             56.59 |        1 |             94.07 | Kosei Yamamoto        |             66 |
-|             80 | Takuma Oyama         |             78.93 |        2 |             59.53 | Ren Osawa             |             80 |
-|             80 | Nobuyuki Takahashi   |             67.38 |        3 |             91.93 | Keisuke Kikuta        |             80 |
-|             19 | Taishi Nakamura      |             80.93 |        4 |             77.99 | Daiki Yamagiwa        |             31 |
-|             80 | James Gaskell        |             57.02 |        5 |             95.83 | Pari Pari Parkinson   |             28 |
-|             51 | Tama Kapene          |             82.86 |        6 |             93.28 | Geoff Cridge          |             15 |
-|             57 | Chang Chao Yi        |             82.29 |        7 |             80.87 | Viliami Lutua Ahofono |              8 |
-|              0 | Taleni Seu           |             96.07 |        8 |             86.78 | Aseri Masivou         |             21 |
-|             66 | Atsushi Yumoto       |             79.83 |        9 |             22.05 | Tatsuya Fujii         |             80 |
-|             66 | Freddie Burns        |             93.92 |       10 |             97.69 | Rhys Patchell         |              8 |
-|             80 | Go Nakano            |             33.33 |       11 |             86.84 | Kenta Omata           |              0 |
-|             39 | Tiaan Thomas-Wheeler |              1.95 |       12 |              8.42 | Orbyn Leger           |             80 |
-|             50 | Daigo Doi            |             70.12 |       13 |              4.41 | Maritino Nemani       |             54 |
-|             50 | Chance Peni          |             58.14 |       14 |              7.01 | Teruya Goto           |             40 |
-|             17 | Josua Kerevi         |             75.93 |       15 |             51.44 | Keagan Faria          |             19 |
-|              5 | Hiroaki Saito        |              8.9  |       16 |             83.14 | Mitieli Tuinakauvadra |             80 |
-|             14 | Isi Manu             |            nan    |       17 |            nan    | Masaki Obata          |             63 |
-|             14 | Takumi Sue           |            nan    |       18 |            nan    | Yoshiki Yoshioka      |             80 |
-|             66 | James Mollentze      |             16.35 |       19 |            nan    | Ash Dixon             |             59 |
-|              0 | Seta Naivaluwaga     |             46.77 |       20 |             43.61 | Ko Yoshimura          |              9 |
-|             17 | Jone Kerevi          |             16.94 |       21 |            nan    | Sera Hwang            |             31 |
-|             65 | Ryuma Hirabayashi    |            nan    |       22 |            nan    | Suliasi Tolu          |             29 |
-|             72 | Takuya Tsushida      |            nan    |       23 |            nan    | nan                   |            nan |
+|             80 | Tomoki Yamaguchi     |             52.22 |        1 |             91.28 | Kosei Yamamoto        |          80    |
+|             40 | Takuma Oyama         |             78.74 |        2 |             35.03 | Ren Osawa             |          50    |
+|             40 | Nobuyuki Takahashi   |             61.58 |        3 |             91.2  | Keisuke Kikuta        |          71    |
+|             61 | Taishi Nakamura      |             82.56 |        4 |             73.89 | Daiki Yamagiwa        |          16    |
+|             80 | James Gaskell        |             41.71 |        5 |             96.63 | Pari Pari Parkinson   |          37    |
+|             80 | Tama Kapene          |             79.98 |        6 |             91.62 | Geoff Cridge          |          31    |
+|             61 | Chang Chao Yi        |             73.74 |        7 |             80.07 | Viliami Lutua Ahofono |          80    |
+|             50 | Taleni Seu           |             96.52 |        8 |             83.64 | Aseri Masivou         |          49    |
+|             19 | Atsushi Yumoto       |             67.57 |        9 |             11.66 | Tatsuya Fujii         |          49    |
+|             30 | Freddie Burns        |             92.91 |       10 |             97.57 | Rhys Patchell         |          48    |
+|             80 | Go Nakano            |             31.27 |       11 |             86.37 | Kenta Omata           |          24.25 |
+|             80 | Tiaan Thomas-Wheeler |              1.68 |       12 |              6.32 | Orbyn Leger           |          31    |
+|             56 | Daigo Doi            |             67.42 |       13 |              3.55 | Maritino Nemani       |          63    |
+|             16 | Chance Peni          |             52.43 |       14 |              5.24 | Teruya Goto           |          31    |
+|             40 | Josua Kerevi         |             74.59 |       15 |             49.39 | Keagan Faria          |          31    |
+|             80 | Hiroaki Saito        |              5.72 |       16 |             82.87 | Mitieli Tuinakauvadra |          31    |
+|             18 | Isi Manu             |            nan    |       17 |            nan    | Masaki Obata          |          30    |
+|             60 | Takumi Sue           |            nan    |       18 |            nan    | Yoshiki Yoshioka      |          74    |
+|             78 | James Mollentze      |             10.53 |       19 |            nan    | Ash Dixon             |          46    |
+|             53 | Seta Naivaluwaga     |             22.25 |       20 |             44.74 | Ko Yoshimura          |          34    |
+|             80 | Jone Kerevi          |              8    |       21 |            nan    | Sera Hwang            |          59    |
+|             72 | Ryuma Hirabayashi    |            nan    |       22 |            nan    | Suliasi Tolu          |          80    |
+|             18 | Takuya Tsushida      |            nan    |       23 |            nan    | nan                   |         nan    |
 

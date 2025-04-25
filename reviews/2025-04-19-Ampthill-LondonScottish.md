@@ -11,7 +11,7 @@ categories: "RFU Championship 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.63, which translates to predicting Ampthill to win by 4.7.
 
-Our Over/Under is 55.5 - and combined with the spread above, we have a predicted scoreline of 25 to 30
+Our Over/Under is 59.5 - and combined with the spread above, we have a predicted scoreline of 27 to 32
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Ampthill by 3.5 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player                 |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:----------------------------|---------------:|
-|             48 | Will Prior            |             74.46 |        1 |             64.25 | Harrison Courtney           |             65 |
-|             48 | Austin Wallis         |              1.67 |        2 |             97.99 | Rhys Marshall               |             19 |
-|             48 | Ntinga Mpiko          |              8.73 |        3 |             21.42 | James Johnston              |             60 |
-|             80 | Matt Wilkinson        |             23.43 |        4 |             38.9  | Aidan King                  |             80 |
-|             80 | Harry Browne          |             58.54 |        5 |             63.38 | Kaden Pearce-Paul           |             30 |
-|             20 | Will Trenholm         |             15.25 |        6 |              9.47 | Tino Mapapalangi            |             66 |
-|             80 | Zach Carr             |             31.72 |        7 |             25.57 | Charles Rylands             |             60 |
-|             61 | Tom Marshall          |             15.91 |        8 |             68.6  | Nathan Michelow             |             32 |
-|             54 | Jonny Law             |              6.67 |        9 |             11.97 | Rory Morgan                 |             12 |
-|             50 | Tom Wilstead          |             11.32 |       10 |              7.55 | Josh Barton                 |              0 |
-|             20 | Roma Zheng            |             60.61 |       11 |             56.91 | Brandon Jackson-Richards    |             35 |
-|             32 | Will Simonds          |              7.08 |       12 |             75.87 | Fraser James Kevin Strachan |             31 |
-|             20 | Robert David McCallum |              4.11 |       13 |             45.07 | Sione Va'enuku              |             32 |
-|             35 | Hayden Hyde           |             23.77 |       14 |             84.75 | Charlie Bracken             |             80 |
-|             80 | Jonah Holmes          |             76.54 |       15 |             28.81 | Evan Mitchell               |             24 |
-|            nan | nan                   |            nan    |       16 |             66.72 | Richard Barrington          |             24 |
-|            nan | nan                   |            nan    |       17 |             56.02 | James Isaacs                |             29 |
-|            nan | nan                   |            nan    |       18 |              4.04 | Callum Norrie               |             21 |
-|            nan | nan                   |            nan    |       19 |             76.85 | Olamide Sodeke              |             80 |
-|            nan | nan                   |            nan    |       20 |             48.01 | Kennedy Sylvester           |             29 |
-|            nan | nan                   |            nan    |       21 |             22.54 | Reggie Hammick              |             23 |
-|            nan | nan                   |            nan    |       22 |              7    | Oran McNulty                |             41 |
-|            nan | nan                   |            nan    |       23 |             21.03 | Roan Frostwick              |             71 |
+|             59 | Will Prior            |             80.31 |        1 |             76.59 | Harrison Courtney           |           70   |
+|             50 | Austin Wallis         |              2.38 |        2 |             98.47 | Rhys Marshall               |           55   |
+|             63 | Ntinga Mpiko          |              8.07 |        3 |             18.64 | James Johnston              |           40   |
+|             32 | Matt Wilkinson        |             44.61 |        4 |             18.88 | Aidan King                  |           25   |
+|             54 | Harry Browne          |             59.34 |        5 |             76.69 | Kaden Pearce-Paul           |           61   |
+|             80 | Will Trenholm         |             17.6  |        6 |             15.74 | Tino Mapapalangi            |           80   |
+|             51 | Zach Carr             |             32.68 |        7 |             14.34 | Charles Rylands             |            0   |
+|             25 | Tom Marshall          |             15.54 |        8 |             62.37 | Nathan Michelow             |           25   |
+|             29 | Jonny Law             |              7.77 |        9 |             17.91 | Rory Morgan                 |           51   |
+|             15 | Tom Wilstead          |             12.15 |       10 |             10.12 | Josh Barton                 |           26   |
+|             39 | Roma Zheng            |             61.2  |       11 |             65.4  | Brandon Jackson-Richards    |           80   |
+|              0 | Will Simonds          |             10.07 |       12 |             78.08 | Fraser James Kevin Strachan |           61   |
+|             20 | Robert David McCallum |              4.05 |       13 |             39.39 | Sione Va'enuku              |           10   |
+|              7 | Hayden Hyde           |             27.74 |       14 |             81.32 | Charlie Bracken             |           67   |
+|             59 | Jonah Holmes          |             77.46 |       15 |             35.86 | Evan Mitchell               |           25   |
+|            nan | nan                   |            nan    |       16 |             67.31 | Richard Barrington          |           17   |
+|            nan | nan                   |            nan    |       17 |             57.14 | James Isaacs                |           20   |
+|            nan | nan                   |            nan    |       18 |              3.39 | Callum Norrie               |           22.5 |
+|            nan | nan                   |            nan    |       19 |             78.03 | Olamide Sodeke              |           31   |
+|            nan | nan                   |            nan    |       20 |             52.79 | Kennedy Sylvester           |           68   |
+|            nan | nan                   |            nan    |       21 |             23.37 | Reggie Hammick              |           80   |
+|            nan | nan                   |            nan    |       22 |              8.2  | Oran McNulty                |           30.5 |
+|            nan | nan                   |            nan    |       23 |             21.45 | Roan Frostwick              |           30.5 |
 

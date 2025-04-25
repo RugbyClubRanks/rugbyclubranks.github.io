@@ -11,7 +11,7 @@ categories: "Pro D2 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.646, which translates to predicting Nevers to win by 5.3.
 
-Our Over/Under is 59.5 - and combined with the spread above, we have a predicted scoreline of 27 to 32
+Our Over/Under is 55.5 - and combined with the spread above, we have a predicted scoreline of 25 to 30
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,7 +39,7 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Nevers by 14.9
+## Prediction without Player Minutes: Nevers by 14.8
 
 
 Nevers by 9.7 on a neutral pitch
@@ -69,27 +69,27 @@ Nevers by 9.7 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player                |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:---------------------------|---------------:|
-|           80   | Killian Taofifenua  |             19.11 |        1 |             34.18 | Aitor Kitutu               |           37   |
-|           80   | Clement Martinez    |              5.18 |        2 |             77.26 | Stefan Buruiana            |           55   |
-|           55   | Zakaria El Fakir    |              4.2  |        3 |             53.05 | Aselo Ikahehegi            |           26   |
-|           80   | Charlie Matthews    |             19.07 |        4 |             54.93 | Ugo Vignolles              |           12   |
-|           25   | Eliande Sanderson   |             14.42 |        5 |             47.63 | Chris Gabriel              |           80   |
-|           65   | Johnny Dyer         |              0.38 |        6 |             89.39 | Hugues Bastide             |           15   |
-|            0   | Jessy Jegerlehner   |              1.04 |        7 |             21.88 | Mahamadou Coulibaly        |           19   |
-|           34   | Cornell du Preez    |             39.26 |        8 |             93.39 | Jason-Colin Fraser         |           54   |
-|           54   | Kerman Aurrekoetxea |             28.55 |        9 |              2.74 | Hugo Bouyssou              |           25   |
-|           43   | Edgar Retiere       |             14.47 |       10 |             19.71 | Shaun Reynolds             |           80   |
-|           80   | Mathieu Acebes      |             90.81 |       11 |             27.65 | Dylan Jaminet              |           61   |
-|           46   | Tyler Morgan        |             18.58 |       12 |             53.7  | Noa Pommelet               |           80   |
-|            5   | Yohan Tapie         |             12.32 |       13 |             48.77 | Alivereti Loaloa           |           66   |
-|           80   | Nicolas Elissondo   |             38.07 |       14 |             11.36 | Gabin Rocher               |           58   |
-|           58   | Kylian Jaminet      |             83.13 |       15 |             45.06 | Perry Mayo                 |           80   |
-|           32   | Aitor Hourcade      |              1.52 |       16 |             14.02 | Simon Tarel                |           32   |
-|           80   | François Mur        |            nan    |       17 |             27.04 | George Smith               |           34.5 |
-|           22   | Zach Kibirige       |              2.56 |       18 |             76.23 | Julien Kazubek             |           80   |
-|           42   | Imanol Biscay       |              6.15 |       19 |             42.59 | Louis Chanet               |           79   |
-|           34.5 | Adrian Motoc        |              1.99 |       20 |             48.43 | Hugo Ndiaye                |           48   |
-|           62   | Thomas Dolhagaray   |             24.32 |       21 |             63.26 | Luka Plataret              |           63   |
-|           25   | Luteru Tolai        |             59.36 |       22 |             21.4  | Jean-Maxence Jules-Rosette |           60   |
-|           61   | Nikoloz Narmania    |             70.43 |       23 |             72.12 | Yohan Le Bourhis           |           80   |
+|              4 | Killian Taofifenua  |             23.49 |        1 |             54.24 | Aitor Kitutu               |             80 |
+|             65 | Clement Martinez    |              5.1  |        2 |             82.65 | Stefan Buruiana            |             65 |
+|             68 | Zakaria El Fakir    |              3.95 |        3 |             65.13 | Aselo Ikahehegi            |             29 |
+|             27 | Charlie Matthews    |             20.04 |        4 |             65.22 | Ugo Vignolles              |             12 |
+|             12 | Eliande Sanderson   |             13.68 |        5 |             47.78 | Chris Gabriel              |             60 |
+|             19 | Johnny Dyer         |              0.65 |        6 |             90.78 | Hugues Bastide             |             25 |
+|             80 | Jessy Jegerlehner   |              1.02 |        7 |             36.96 | Mahamadou Coulibaly        |             60 |
+|             12 | Cornell du Preez    |             39.88 |        8 |             94.48 | Jason-Colin Fraser         |              0 |
+|             13 | Kerman Aurrekoetxea |             40.71 |        9 |              3.55 | Hugo Bouyssou              |             65 |
+|             80 | Edgar Retiere       |             13.16 |       10 |             19.84 | Shaun Reynolds             |             80 |
+|             79 | Mathieu Acebes      |             91.71 |       11 |             33.75 | Dylan Jaminet              |              0 |
+|             15 | Tyler Morgan        |             22.31 |       12 |             53.41 | Noa Pommelet               |             67 |
+|             47 | Yohan Tapie         |             11.65 |       13 |             46.69 | Alivereti Loaloa           |             52 |
+|             54 | Nicolas Elissondo   |             40.23 |       14 |             14.78 | Gabin Rocher               |             80 |
+|             72 | Kylian Jaminet      |             83.2  |       15 |             45.9  | Perry Mayo                 |             80 |
+|             80 | Aitor Hourcade      |              1.25 |       16 |             21.62 | Simon Tarel                |             29 |
+|             51 | François Mur        |             21.87 |       17 |             33.72 | George Smith               |             67 |
+|             13 | Zach Kibirige       |              2    |       18 |             75.61 | Julien Kazubek             |             80 |
+|             61 | Imanol Biscay       |              7.09 |       19 |             48.83 | Louis Chanet               |             80 |
+|             25 | Adrian Motoc        |              1.45 |       20 |             48.1  | Hugo Ndiaye                |             68 |
+|             29 | Thomas Dolhagaray   |             23.89 |       21 |             71.42 | Luka Plataret              |             53 |
+|              4 | Luteru Tolai        |             59.18 |       22 |             42.35 | Jean-Maxence Jules-Rosette |             61 |
+|              0 | Nikoloz Narmania    |             79.42 |       23 |             79.96 | Yohan Le Bourhis           |              0 |
 

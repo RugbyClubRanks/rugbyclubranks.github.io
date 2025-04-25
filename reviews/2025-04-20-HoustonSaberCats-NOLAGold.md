@@ -9,9 +9,9 @@ categories: "Major League Rugby 2025" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.81, which translates to predicting Houston SaberCats to win by 13.0.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.807, which translates to predicting Houston SaberCats to win by 12.8.
 
-Our Over/Under is 55.5 - and combined with the spread above, we have a predicted scoreline of 21 to 34
+Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 20 to 33
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Houston SaberCats by 10.0
+## Prediction without Player Minutes: Houston SaberCats by 10.7
 
 
-Houston SaberCats by 6.6 on a neutral pitch
+Houston SaberCats by 7.2 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,28 +69,28 @@ Houston SaberCats by 6.6 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             31 | Bart Vermeulen       |             56.75 |        1 |             68.45 | Ezekiel Lindenmuth |             80 |
-|              7 | Alex Lopeti          |             24.58 |        2 |             88.8  | Pita Anae Ah-Sue   |             80 |
-|             80 | Isaac Salmon         |             82.13 |        3 |              2.47 | Pono Davis         |             80 |
-|             23 | Jay Tuivaiti         |             29.7  |        4 |             91.37 | Justin Basson      |             44 |
-|              0 | Cam Dolan            |             16.89 |        5 |             23.72 | Nathan Den Hoedt   |             22 |
-|             80 | Moni Tonga'uiha      |              5.4  |        6 |             49.43 | Emmanuel Albert    |             22 |
-|             62 | Aidan King           |             55.87 |        7 |              2.65 | Johan Momsen       |             14 |
-|             18 | Tupou Ma'afu-Afungia |             15.08 |        8 |             53.31 | Sam Tuifua         |             13 |
-|             80 | Ruben de Haas        |             38.46 |        9 |             30.6  | Andre Warner       |             25 |
-|             80 | Luke Carty           |             10.48 |       10 |             23.27 | Max Schumacher     |             31 |
-|             70 | Ed Fidow             |             83.33 |       11 |              4.36 | Seimou Smith       |             22 |
-|             78 | JP Du Plessis        |              1.75 |       12 |             92.61 | Sam Hill           |              0 |
-|             72 | Nikolai Foliaki      |              1.85 |       13 |             47.43 | Tautalatasi Tasi   |             80 |
-|             80 | Xavier Mignot        |             78.88 |       14 |             48.48 | Rufus McLean       |             62 |
-|             67 | Julian Roberts       |             70.78 |       15 |             10.49 | Drew Wild          |             49 |
-|             80 | Paul Mullen          |             23.64 |       16 |              2.05 | Jay Renton         |             49 |
-|             62 | Paul Mullen          |             23.64 |       16 |              2.05 | Jay Renton         |             49 |
-|             79 | Paul Mullen          |             23.64 |       16 |              2.05 | Jay Renton         |             49 |
-|             62 | Cooper Coats         |              5.35 |       17 |             62.41 | Jeremy Misailegalu |             80 |
-|             58 | Matthew Harmon       |             24.79 |       18 |             67.51 | AJ Alatimu         |             75 |
-|             80 | Jonah Mau'u          |             60.33 |       19 |            nan    | LaRome White       |             35 |
-|             49 | Callum Botchar       |             61.57 |       20 |             22.32 | Valdermar Lee-Lo   |             17 |
-|             66 | Luke Campbell        |              9.74 |       21 |            nan    | nan                |            nan |
-|             80 | William Waguespack   |             67.93 |       22 |            nan    | nan                |            nan |
+|             80 | Bart Vermeulen       |             69.65 |        1 |             84.99 | Ezekiel Lindenmuth |              6 |
+|             67 | Alex Lopeti          |             46.09 |        2 |             89.29 | Pita Anae Ah-Sue   |             80 |
+|             55 | Isaac Salmon         |             90.88 |        3 |              2.91 | Pono Davis         |             21 |
+|             77 | Jay Tuivaiti         |             60.21 |        4 |             91.91 | Justin Basson      |              0 |
+|             80 | Cam Dolan            |             23.41 |        5 |             20.33 | Nathan Den Hoedt   |             13 |
+|             80 | Moni Tonga'uiha      |              8.01 |        6 |             48.88 | Emmanuel Albert    |             25 |
+|             80 | Aidan King           |             76.26 |        7 |              2.33 | Johan Momsen       |             27 |
+|             40 | Tupou Ma'afu-Afungia |             23.93 |        8 |             64.21 | Sam Tuifua         |             23 |
+|             20 | Ruben de Haas        |             16.39 |        9 |             41.22 | Andre Warner       |             21 |
+|             50 | Luke Carty           |              5.06 |       10 |             44.53 | Max Schumacher     |             24 |
+|             20 | Ed Fidow             |             86.75 |       11 |              3.34 | Seimou Smith       |             13 |
+|             80 | JP Du Plessis        |              1.38 |       12 |             89.83 | Sam Hill           |              6 |
+|             19 | Nikolai Foliaki      |              1.09 |       13 |             52.52 | Tautalatasi Tasi   |             77 |
+|             80 | Xavier Mignot        |             79.5  |       14 |             38.04 | Rufus McLean       |             27 |
+|             80 | Julian Roberts       |             84.02 |       15 |              7.17 | Drew Wild          |             53 |
+|             59 | Paul Mullen          |             17.27 |       16 |              2.53 | Jay Renton         |             40 |
+|             55 | Paul Mullen          |             17.27 |       16 |              2.53 | Jay Renton         |             40 |
+|             50 | Paul Mullen          |             17.27 |       16 |              2.53 | Jay Renton         |             40 |
+|             80 | Cooper Coats         |              6.35 |       17 |             68.54 | Jeremy Misailegalu |             80 |
+|             40 | Matthew Harmon       |             30.75 |       18 |             45.75 | AJ Alatimu         |             68 |
+|             80 | Jonah Mau'u          |             78.94 |       19 |            nan    | LaRome White       |             24 |
+|             80 | Callum Botchar       |             65.7  |       20 |             24.7  | Valdermar Lee-Lo   |             80 |
+|             25 | Luke Campbell        |             16.72 |       21 |            nan    | nan                |            nan |
+|             55 | William Waguespack   |             65.32 |       22 |            nan    | nan                |            nan |
 

@@ -11,7 +11,7 @@ categories: "Pro D2 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.655, which translates to predicting Brive to win by 5.6.
 
-Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 23 to 28
+Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 23 to 28
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Brive by 12.5
+## Prediction without Player Minutes: Brive by 12.2
 
 
-Provence Rugby by 0.5 on a neutral pitch
+Provence Rugby by 0.7 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Provence Rugby by 0.5 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player             |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:------------------------|---------------:|
-|           80   | Federico Wegrzyn      |             62.69 |        1 |             15.24 | Simon-Pierre Chauvac    |             40 |
-|           61   | Thomas Sauveterre     |             76.09 |        2 |             45.65 | Lucas da Silva          |             80 |
-|           25   | Tomas Francis         |             99.09 |        3 |              8.81 | Marcel van der Merwe    |             62 |
-|           74   | Yannick Youyoutte     |             86.72 |        4 |             80.27 | Retief Marais           |             69 |
-|           55   | Izack Rodda           |             82.16 |        5 |             89.85 | Asier Usarraga          |             53 |
-|           15   | Guillaume Piazzoli    |             83.52 |        6 |             79.36 | Asaeli Tuivuaka         |             80 |
-|            0   | Charly Gambini        |             80.68 |        7 |             97.25 | Courtney Lawes          |              6 |
-|           80   | Teimana Harrison      |             68.8  |        8 |             38.84 | Rahboni Warren-Vosayaco |             80 |
-|           80   | Kevin Viallard        |             22.39 |        9 |             52.48 | Mathis Ferté            |             19 |
-|           18   | Jimmy Gopperth        |             91.4  |       10 |             93.08 | Stuart Olding           |              0 |
-|           80   | Paul Cellio Zwiler    |             56.16 |       11 |             85.51 | Erwan Dridi             |             55 |
-|           25   | George North          |             99.49 |       12 |             52.46 | Georges Shvelidze       |             80 |
-|           80   | Eto Bainivalu         |             35.73 |       13 |             97.02 | Matias Moroni           |             80 |
-|           12.5 | Adrien Lapegue-Lafaye |             12.97 |       14 |             79.07 | Maxence Biasotto        |             18 |
-|           80   | Jules Soulan          |             80.04 |       15 |             86.42 | Curwin Bosch            |             25 |
-|           62   | Tornike Jalagonia     |              8.88 |       16 |             65.44 | Samuel Maximin          |             80 |
-|           80   | Arthur Coville        |             20    |       17 |              4.44 | Hugo Verdu              |             80 |
-|           80   | Kaveinga Finau        |             83.68 |       18 |             50.82 | Nathan Fraissenon       |             15 |
-|           25   | Léo Drouet            |             77.75 |       19 |             67.89 | Issam Hamel             |             25 |
-|           62   | Kapeli Pifeleti       |             10.54 |       20 |             81.05 | Vakh Abdaladze          |             65 |
-|            0   | Thomas Vernet         |             76.77 |       21 |              6.07 | Konstantin Mikautadze   |             25 |
-|           55   | Jérôme Dufour         |             85.96 |       22 |             28.23 | Paul Pimienta           |             65 |
-|          nan   | nan                   |            nan    |       23 |             39.05 | Taniela Sadrugu         |             19 |
+|             12 | Federico Wegrzyn      |             61.34 |        1 |             14.12 | Simon-Pierre Chauvac    |             42 |
+|              8 | Thomas Sauveterre     |             75.68 |        2 |             48.3  | Lucas da Silva          |             80 |
+|             50 | Tomas Francis         |             99.52 |        3 |              8.64 | Marcel van der Merwe    |             80 |
+|             28 | Yannick Youyoutte     |             85.26 |        4 |             81.12 | Retief Marais           |             80 |
+|             80 | Izack Rodda           |             84.68 |        5 |             89.79 | Asier Usarraga          |             68 |
+|             80 | Guillaume Piazzoli    |             84.73 |        6 |             80.35 | Asaeli Tuivuaka         |             38 |
+|             80 | Charly Gambini        |             83.43 |        7 |             95.53 | Courtney Lawes          |             28 |
+|             53 | Teimana Harrison      |             66.26 |        8 |             42.13 | Rahboni Warren-Vosayaco |             56 |
+|             16 | Kevin Viallard        |             19.76 |        9 |             57.26 | Mathis Ferté            |             28 |
+|             40 | Jimmy Gopperth        |             91.3  |       10 |             93.32 | Stuart Olding           |             24 |
+|             10 | Paul Cellio Zwiler    |             59.2  |       11 |             85.03 | Erwan Dridi             |             40 |
+|             29 | George North          |             99.01 |       12 |             48.86 | Georges Shvelidze       |             25 |
+|             80 | Eto Bainivalu         |             37.22 |       13 |             95.95 | Matias Moroni           |             80 |
+|             33 | Adrien Lapegue-Lafaye |             12.87 |       14 |             79.12 | Maxence Biasotto        |             63 |
+|             28 | Jules Soulan          |             78.69 |       15 |             86.48 | Curwin Bosch            |             68 |
+|             80 | Tornike Jalagonia     |             11.86 |       16 |             69.83 | Samuel Maximin          |             69 |
+|             55 | Arthur Coville        |             22.97 |       17 |              4.22 | Hugo Verdu              |             40 |
+|             80 | Kaveinga Finau        |             83.02 |       18 |             42.86 | Nathan Fraissenon       |             33 |
+|             80 | Léo Drouet            |             78.65 |       19 |             69.56 | Issam Hamel             |             58 |
+|             47 | Kapeli Pifeleti       |             12.41 |       20 |             81.19 | Vakh Abdaladze          |             80 |
+|             80 | Thomas Vernet         |             78.61 |       21 |              5.97 | Konstantin Mikautadze   |             40 |
+|             12 | Jérôme Dufour         |             86.61 |       22 |             27.84 | Paul Pimienta           |             28 |
+|            nan | nan                   |            nan    |       23 |             39.47 | Taniela Sadrugu         |              7 |
 

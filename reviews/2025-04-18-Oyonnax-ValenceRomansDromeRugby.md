@@ -11,7 +11,7 @@ categories: "Pro D2 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.676, which translates to predicting Oyonnax to win by 6.5.
 
-Our Over/Under is 56.5 - and combined with the spread above, we have a predicted scoreline of 25 to 32
+Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 23 to 30
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Oyonnax by 0.7 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             63 | Andrea Pontanier     |             77.35 |        1 |             29    | Antoine Abraham    |             56 |
-|             80 | Cyril Deligny        |              0.5  |        2 |             90.64 | Peniami Narisia    |             59 |
-|             80 | Gareth Milasinovich  |             15.65 |        3 |             17.46 | Ali Oz             |             58 |
-|             56 | Nathan Huguen        |             54.36 |        4 |             91.27 | Phoenix Battye     |             12 |
-|             17 | Florian Goumat       |             65.75 |        5 |             13.95 | Hugo Fabregue      |             24 |
-|             80 | Axel Bruchet         |             26.8  |        6 |             14.87 | Kevin Lebreton     |              9 |
-|             30 | Ilia Spanderashvili  |             27.27 |        7 |             88.64 | Wandrille Picault  |             24 |
-|             80 | Sven Bernat Girlando |             83.47 |        8 |             20.45 | Antoine Miquel     |             17 |
-|             21 | Mattéo Rodor         |             13.85 |        9 |             93.85 | Jonathan Ruru      |             71 |
-|             24 | Lucas Meret          |             55.97 |       10 |             76.31 | Zack Holmes        |             80 |
-|             30 | Mosese Mawalu        |             85.98 |       11 |             63.73 | Karim Qadiri       |             80 |
-|             30 | Louis Marrou         |             82.96 |       12 |             12.63 | Lucas Mensa        |             80 |
-|             80 | Anatole Pauvert      |             82.34 |       13 |             35.93 | Afusipa Taumoepeau |             24 |
-|             45 | Owen Lane            |              2.08 |       14 |             66.76 | Maxime Salles      |             50 |
-|             45 | Joris De Moura       |             84.57 |       15 |             15.02 | Martin Bogado      |             80 |
-|             45 | Loan Real            |             70.08 |       16 |            nan    | nan                |            nan |
-|             12 | Adrien Roux          |             77.08 |       17 |            nan    | nan                |            nan |
-|             17 | Mathieu Guillomot    |              9.96 |       18 |            nan    | nan                |            nan |
-|             55 | Gauthier Minguillon  |             71.4  |       19 |            nan    | nan                |            nan |
-|             80 | Dorian Marco Pena    |             83.61 |       20 |            nan    | nan                |            nan |
-|             55 | Esteban Chouteau     |             68.95 |       21 |            nan    | nan                |            nan |
-|             80 | Thomas Lhusero       |             69.91 |       22 |            nan    | nan                |            nan |
-|             52 | Vincent Vial         |             58.48 |       23 |            nan    | nan                |            nan |
+|             80 | Andrea Pontanier     |             82.49 |        1 |             30.43 | Antoine Abraham    |             57 |
+|             80 | Cyril Deligny        |              0.68 |        2 |             90.31 | Peniami Narisia    |             80 |
+|             80 | Gareth Milasinovich  |             19.85 |        3 |             15.66 | Ali Oz             |             71 |
+|             80 | Nathan Huguen        |             56.26 |        4 |             90.37 | Phoenix Battye     |             80 |
+|             80 | Florian Goumat       |             70.33 |        5 |             12.33 | Hugo Fabregue      |             80 |
+|             46 | Axel Bruchet         |             40.41 |        6 |             13.69 | Kevin Lebreton     |             30 |
+|             76 | Ilia Spanderashvili  |             25.98 |        7 |             88.36 | Wandrille Picault  |             45 |
+|              8 | Sven Bernat Girlando |             85.48 |        8 |             21.27 | Antoine Miquel     |             80 |
+|             80 | Mattéo Rodor         |             17.74 |        9 |             91.89 | Jonathan Ruru      |             57 |
+|             80 | Lucas Meret          |             59.92 |       10 |             78.34 | Zack Holmes        |             80 |
+|             27 | Mosese Mawalu        |             87.42 |       11 |             61.58 | Karim Qadiri       |             80 |
+|             80 | Louis Marrou         |             81.93 |       12 |             12.24 | Lucas Mensa        |             80 |
+|             68 | Anatole Pauvert      |             82.63 |       13 |             36.62 | Afusipa Taumoepeau |             80 |
+|             23 | Owen Lane            |              2.1  |       14 |             51.67 | Maxime Salles      |             51 |
+|             20 | Joris De Moura       |             86.27 |       15 |             18.24 | Martin Bogado      |             55 |
+|             12 | Loan Real            |             70.48 |       16 |            nan    | nan                |            nan |
+|             26 | Adrien Roux          |             78.12 |       17 |            nan    | nan                |            nan |
+|             26 | Mathieu Guillomot    |              9.97 |       18 |            nan    | nan                |            nan |
+|             37 | Gauthier Minguillon  |             75.41 |       19 |            nan    | nan                |            nan |
+|             26 | Dorian Marco Pena    |             88.27 |       20 |            nan    | nan                |            nan |
+|             49 | Esteban Chouteau     |             68.6  |       21 |            nan    | nan                |            nan |
+|             26 | Thomas Lhusero       |             72.13 |       22 |            nan    | nan                |            nan |
+|             80 | Vincent Vial         |             63.36 |       23 |            nan    | nan                |            nan |
 

@@ -11,7 +11,7 @@ categories: "RFU Championship 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.511, which translates to predicting Hartpury College to win by 0.4.
 
-Our Over/Under is 57.5 - and combined with the spread above, we have a predicted scoreline of 28 to 29
+Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 25 to 25
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -42,7 +42,7 @@ Treating teams instead as an entity made up of the currently active players, I h
 ## Prediction without Player Minutes: Hartpury College by 5.2
 
 
-Hartpury College by 1.0 on a neutral pitch
+Hartpury College by 0.9 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Hartpury College by 1.0 on a neutral pitch
 
 |   Away Minutes | Away Player      |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:-----------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             67 | Toby Trinder     |             92.5  |        1 |             86.9  | Aristot Benz-Salomon  |             30 |
-|             55 | Jordon Poole     |             89.13 |        2 |             81.44 | Ethan Hunt            |             80 |
-|             80 | Eliot Salt       |             53.71 |        3 |             58.81 | Jonathan Benz-Salomon |             40 |
-|             80 | Mackenzie Graham |             61.95 |        4 |             80.65 | Dale Lemon            |             73 |
-|             67 | Rhys Anstey      |             23.24 |        5 |             77.32 | Jack Rees Davies      |             80 |
-|             55 | Chester Owen     |             15.91 |        6 |             73.48 | Samuel Lewis          |             32 |
-|             80 | Tom Ball         |             88.54 |        7 |             93.47 | Harry Short           |             17 |
-|             80 | Senitiki Nayalo  |             98.14 |        8 |             55.58 | Cameron Cobbett       |             47 |
-|             15 | Josh Barton      |             26.84 |        9 |             86.32 | Michael Austin        |             63 |
-|             48 | Liam Richman     |             12.16 |       10 |             84.91 | Harry Bazalgette      |             48 |
-|             80 | James Martin     |             93.94 |       11 |             88.73 | Oliver Holliday       |             80 |
-|             50 | Tommy Mathews    |             67.45 |       12 |             66.12 | Robbie Smith          |             80 |
-|             33 | Oli Morris       |             52.26 |       13 |             46.1  | James Short           |             51 |
-|             50 | Jacob Henry      |             36.65 |       14 |             87.22 | Bradley Denty         |             80 |
-|              0 | Logan Trotter    |             41.77 |       15 |             94.24 | Matt Protheroe        |             80 |
-|             26 | Ralph Mceachran  |            nan    |       16 |             70.92 | Archie McArthur       |             56 |
-|             30 | Suva Ma'asi      |             88.83 |       17 |             14.25 | Alfie Petch           |             80 |
-|             30 | Tye Raymont      |            nan    |       18 |             73.35 | Josh Gray             |             40 |
-|              7 | Dan Green        |             56.83 |       19 |             38.05 | Will Jeanes           |             80 |
-|             46 | Jack Bennett     |             55.4  |       20 |             71.36 | Josiah Edwards-Giraud |             80 |
-|             34 | Sam Maunder      |             16.75 |       21 |             79.6  | William Crane         |             61 |
-|             29 | Thomas Hitchcock |             39.53 |       22 |            nan    | Keir Clark            |             80 |
-|             17 | Will Lane        |            nan    |       23 |            nan    | nan                   |            nan |
+|             58 | Toby Trinder     |             93.79 |        1 |             86.52 | Aristot Benz-Salomon  |             80 |
+|             80 | Jordon Poole     |             91.5  |        2 |             83.84 | Ethan Hunt            |             56 |
+|             74 | Eliot Salt       |             53.11 |        3 |             60.77 | Jonathan Benz-Salomon |             54 |
+|             54 | Mackenzie Graham |             65.41 |        4 |             81.21 | Dale Lemon            |             56 |
+|             80 | Rhys Anstey      |             22.35 |        5 |             68.21 | Jack Rees Davies      |             24 |
+|             62 | Chester Owen     |             16.95 |        6 |             70.11 | Samuel Lewis          |             80 |
+|             62 | Tom Ball         |             89.29 |        7 |             92.09 | Harry Short           |             49 |
+|             80 | Senitiki Nayalo  |             97.14 |        8 |             58.08 | Cameron Cobbett       |             74 |
+|             80 | Josh Barton      |             23.82 |        9 |             90.2  | Michael Austin        |             28 |
+|             63 | Liam Richman     |             11.54 |       10 |             88.26 | Harry Bazalgette      |              0 |
+|             45 | James Martin     |             95.04 |       11 |             90.37 | Oliver Holliday       |             80 |
+|             21 | Tommy Mathews    |             53.31 |       12 |             63.38 | Robbie Smith          |             16 |
+|             24 | Oli Morris       |             50.64 |       13 |             49.06 | James Short           |             80 |
+|             18 | Jacob Henry      |             30.03 |       14 |             89.51 | Bradley Denty         |             63 |
+|             11 | Logan Trotter    |             41.6  |       15 |             95.29 | Matt Protheroe        |             35 |
+|             24 | Ralph Mceachran  |            nan    |       16 |             70.78 | Archie McArthur       |             80 |
+|             80 | Suva Ma'asi      |             90.5  |       17 |             12.03 | Alfie Petch           |              1 |
+|             24 | Tye Raymont      |            nan    |       18 |             71.57 | Josh Gray             |             64 |
+|             48 | Dan Green        |             58.38 |       19 |             38.54 | Will Jeanes           |             80 |
+|             24 | Jack Bennett     |             56.05 |       20 |             70.78 | Josiah Edwards-Giraud |             80 |
+|             21 | Sam Maunder      |             11.15 |       21 |             80.95 | William Crane         |             80 |
+|              8 | Thomas Hitchcock |             62.19 |       22 |            nan    | Keir Clark            |             22 |
+|             56 | Will Lane        |            nan    |       23 |            nan    | nan                   |            nan |
 
