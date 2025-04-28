@@ -1,17 +1,17 @@
 ---  
 layout: page  
-title: Munster at Cardiff Blues; 22-41  
+title: Munster at Cardiff Blues; 21-26  
 date: 2025-04-25 18:00:00 -0500  
 categories: "United Rugby Championship 24/25" match review  
 ---
-# Munster at Cardiff Blues; 22-41
+# Munster at Cardiff Blues; 21-26
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.395, which translates to predicting Munster to win by 3.8.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.383, which translates to predicting Munster to win by 4.2.
 
-Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 28 to 24
+Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 28 to 24
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model

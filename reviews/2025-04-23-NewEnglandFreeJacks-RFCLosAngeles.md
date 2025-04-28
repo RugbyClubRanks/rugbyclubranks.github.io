@@ -9,7 +9,7 @@ categories: "Major League Rugby 2025" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.745, which translates to predicting New England Free Jacks to win by 9.7.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.746, which translates to predicting New England Free Jacks to win by 9.7.
 
 Our Over/Under is 63.5 - and combined with the spread above, we have a predicted scoreline of 27 to 37
 
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: New England Free Jacks by 4.5
+## Prediction without Player Minutes: New England Free Jacks by 5.6
 
 
-New England Free Jacks by 1.6 on a neutral pitch
+New England Free Jacks by 2.7 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ New England Free Jacks by 1.6 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             80 | Alessandro Heaney   |             37.13 |        1 |             34.79 | Malakai Hala-Ngatai |             50 |
-|             24 | Ben Sugars          |              6.97 |        2 |             92.86 | Connal McInerney    |             67 |
-|             14 | Maliu Niuafe        |             54.56 |        3 |             41.57 | Kyle Steeves        |             34 |
-|             25 | Lucas Bur           |             32.85 |        4 |             36.42 | Kyle Baillie        |             56 |
-|             55 | Jason Damm          |              4.53 |        5 |             63.97 | Conor Keys          |             32 |
-|             54 | Tim Anstee          |              3.07 |        6 |              7.82 | Ethan Fryer         |             25 |
-|             32 | Edward Timpson      |             56.8  |        7 |             45.62 | Kaipono Kayoshi     |             59 |
-|             80 | Semi Kunatani       |             97.96 |        8 |             96.73 | Wian Conradie       |             71 |
-|             80 | Tas Smith           |             60.64 |        9 |             72.3  | John Poland         |             43 |
-|             80 | Sean Nolan          |             45.34 |       10 |              5.67 | Dan Hollinshead     |             25 |
-|             54 | Will Leonard        |             63.68 |       11 |              8.96 | Paula Balekana      |             62 |
-|             40 | Nick Chan           |             52.62 |       12 |             46.59 | Isaac Olson         |             58 |
-|             50 | Matias Jensen       |             30.5  |       13 |              7.5  | Jack Reeves         |             46 |
-|              0 | Rory van Vugt       |              4.39 |       14 |             73.02 | Oscar Lennon        |             80 |
-|             24 | Vaughen Isaacs      |             60.25 |       15 |             72.75 | Brock Webster       |             12 |
-|             80 | Matt Heaton         |              0.47 |       16 |              4.14 | Josh Larsen         |             13 |
-|             55 | Franco van den Berg |              7.18 |       17 |            nan    | Lindsay Stevens     |             55 |
-|             73 | Reece MacDonald     |             83.61 |       18 |             91.02 | Le Roux Malan       |             80 |
-|             80 | Ben Strang          |             55.27 |       19 |             87.71 | Joe Johnston        |             30 |
-|             56 | Gonzalo Bertranou   |             83.45 |       20 |             86.36 | Kaleb Geiger        |             80 |
-|             80 | Ben Houston         |             50.31 |       21 |             74.82 | Tevita Sole         |             46 |
-|             80 | Mikaea Wynyard      |            nan    |       22 |             70.58 | Jed Melvin          |             13 |
-|             37 | Justus Tavai        |            nan    |       23 |            nan    | nan                 |            nan |
+|             80 | Alessandro Heaney   |             50.87 |        1 |             37.26 | Malakai Hala-Ngatai |             57 |
+|             12 | Ben Sugars          |             13.18 |        2 |             86.82 | Connal McInerney    |             61 |
+|             80 | Maliu Niuafe        |             68.43 |        3 |             58.12 | Kyle Steeves        |             29 |
+|             80 | Lucas Bur           |             40.17 |        4 |             44.18 | Kyle Baillie        |             80 |
+|             47 | Jason Damm          |              3.72 |        5 |             80.15 | Conor Keys          |             80 |
+|             80 | Tim Anstee          |              4.33 |        6 |              5.97 | Ethan Fryer         |             80 |
+|             80 | Edward Timpson      |             67.76 |        7 |             60.44 | Kaipono Kayoshi     |             40 |
+|             80 | Semi Kunatani       |             96.4  |        8 |             95.97 | Wian Conradie       |             80 |
+|             72 | Tas Smith           |             68.72 |        9 |             75.56 | John Poland         |             57 |
+|              0 | Sean Nolan          |             40.85 |       10 |              5.41 | Dan Hollinshead     |             80 |
+|             80 | Will Leonard        |             79.96 |       11 |             12.36 | Paula Balekana      |             33 |
+|             17 | Nick Chan           |             54.34 |       12 |             67.01 | Isaac Olson         |             15 |
+|             80 | Matias Jensen       |             52.5  |       13 |              9.5  | Jack Reeves         |             80 |
+|             49 | Rory van Vugt       |              6.77 |       14 |             75.45 | Oscar Lennon        |             26 |
+|             80 | Vaughen Isaacs      |             62.32 |       15 |             70.81 | Brock Webster       |             23 |
+|             65 | Matt Heaton         |              0.87 |       16 |              3.91 | Josh Larsen         |             57 |
+|             27 | Franco van den Berg |            nan    |       17 |            nan    | Lindsay Stevens     |             33 |
+|             12 | Reece MacDonald     |             83.23 |       18 |             95.2  | Le Roux Malan       |             62 |
+|             44 | Ben Strang          |             60.45 |       19 |             87.68 | Joe Johnston        |             67 |
+|             21 | Gonzalo Bertranou   |             86.15 |       20 |             91.01 | Kaleb Geiger        |             49 |
+|             45 | Ben Houston         |             56.57 |       21 |             71.15 | Tevita Sole         |             71 |
+|             67 | Mikaea Wynyard      |            nan    |       22 |             54.86 | Jed Melvin          |             27 |
+|             23 | Justus Tavai        |            nan    |       23 |            nan    | nan                 |            nan |
 
