@@ -11,7 +11,7 @@ categories: "Nationale 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.804, which translates to predicting Narbonne to win by 12.6.
 
-Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 19 to 32
+Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 17 to 29
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,7 +39,7 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Narbonne by 16.1
+## Prediction without Player Minutes: Narbonne by 16.2
 
 
 Narbonne by 2.9 on a neutral pitch
@@ -69,27 +69,27 @@ Narbonne by 2.9 on a neutral pitch
 
 |   Away Minutes | Away Player               |   Away Percentile |   Number |   Home Percentile | Home Player               |   Home Minutes |
 |---------------:|:--------------------------|------------------:|---------:|------------------:|:--------------------------|---------------:|
-|             51 | Jose Novak                |             23.74 |        1 |             31.16 | Gregory Fichten           |             51 |
-|             53 | Maxime Lancon             |             15.92 |        2 |             15.75 | Clément Esteriola         |             34 |
-|             63 | Emiliano Coria Marchetti  |             24.57 |        3 |             73.21 | Jérémy Boyadjis           |             17 |
-|             80 | Simon Lobjoit             |             20.9  |        4 |             70.04 | Marius Antonescu          |             21 |
-|             80 | Helmi Mimouna             |             19.56 |        5 |             10.31 | Leva Fifita               |             80 |
-|             63 | Jules Depoortere          |             61.12 |        6 |             69.97 | Thibault Clauzade         |             66 |
-|             21 | Ludovic Sempé             |             19.35 |        7 |              3.56 | Paul Belzons              |             29 |
-|             80 | Thomas Mendy              |             21.82 |        8 |              6.36 | Charles Malet             |             59 |
-|             71 | Bastien Cazale-Debat      |             52.82 |        9 |              7.18 | Pierrick Nova             |             15 |
-|             80 | Vincent Debladis          |              6.44 |       10 |              7.07 | Gilles Bosch              |             77 |
-|             47 | Jean-Baptiste Bretagnolle |             23.56 |       11 |             83.84 | Clément Clavières         |             25 |
-|             31 | Aurelien Tamagnan         |             25.23 |       12 |             63.23 | Parataiso Silafai-Lea'ana |             29 |
-|             39 | Sionasa Vunisa            |             76.1  |       13 |             99.8  | Peter Betham              |             80 |
-|             48 | Matthis Lieures           |             43.59 |       14 |             64.98 | Daniel Ikpefan            |             80 |
-|             23 | Baptiste Castanier        |             16.77 |       15 |             29.81 | Thibault Santoro          |              0 |
-|             41 | Maxime Lartigue           |             42.33 |       16 |             70.43 | Pablo Barbaste            |             42 |
-|             73 | Loïc Clave                |             14.67 |       17 |             53.82 | Morgan Maga               |             40 |
-|             30 | Clement Renaud            |              8.22 |       18 |             33.55 | Jamie Hagan               |             40 |
-|             80 | Vincent Bouet             |            nan    |       19 |             24.12 | Tom Chauvet               |             40 |
-|             80 | Nathan Lobjoit            |             38.21 |       20 |             82.48 | Luke Nakobukobua          |             24 |
-|             80 | Guillaume Christophe      |             28.8  |       21 |            nan    | Théo Mias                 |             40 |
-|             80 | Bastien Darriet           |            nan    |       22 |             77.33 | Théo Castinel             |             13 |
-|             59 | Guillaume Marin           |             51.24 |       23 |            nan    | nan                       |            nan |
+|             80 | Jose Novak                |             23.58 |        1 |             30.55 | Gregory Fichten           |             41 |
+|             80 | Maxime Lancon             |             16.26 |        2 |             16.08 | Clément Esteriola         |             16 |
+|             29 | Emiliano Coria Marchetti  |             28.07 |        3 |             76.18 | Jérémy Boyadjis           |             80 |
+|             80 | Simon Lobjoit             |             22.75 |        4 |             70.57 | Marius Antonescu          |             16 |
+|             29 | Helmi Mimouna             |             22.93 |        5 |             10.96 | Leva Fifita               |             33 |
+|             31 | Jules Depoortere          |             62.87 |        6 |             67.66 | Thibault Clauzade         |             33 |
+|             80 | Ludovic Sempé             |             16.84 |        7 |              3.25 | Paul Belzons              |             33 |
+|             55 | Thomas Mendy              |             23.53 |        8 |              6.3  | Charles Malet             |             33 |
+|              3 | Bastien Cazale-Debat      |             57.17 |        9 |              7.85 | Pierrick Nova             |             39 |
+|             30 | Vincent Debladis          |              7.16 |       10 |              6.75 | Gilles Bosch              |             68 |
+|             51 | Jean-Baptiste Bretagnolle |             18.36 |       11 |             83.94 | Clément Clavières         |             80 |
+|             80 | Aurelien Tamagnan         |             23.08 |       12 |             62.61 | Parataiso Silafai-Lea'ana |              8 |
+|             32 | Sionasa Vunisa            |             76.71 |       13 |             99.8  | Peter Betham              |             47 |
+|             80 | Matthis Lieures           |             38.24 |       14 |             61.85 | Daniel Ikpefan            |             80 |
+|             59 | Baptiste Castanier        |             16.29 |       15 |             39.18 | Thibault Santoro          |             80 |
+|             51 | Maxime Lartigue           |             38.62 |       16 |             70.14 | Pablo Barbaste            |             31 |
+|             51 | Loïc Clave                |             15.8  |       17 |             53.95 | Morgan Maga               |             80 |
+|             51 | Clement Renaud            |              9.09 |       18 |             34.88 | Jamie Hagan               |             69 |
+|              6 | Vincent Bouet             |            nan    |       19 |             23.72 | Tom Chauvet               |             21 |
+|             40 | Nathan Lobjoit            |             38.47 |       20 |             82.39 | Luke Nakobukobua          |             29 |
+|             80 | Guillaume Christophe      |             28.91 |       21 |            nan    | Théo Mias                 |             27 |
+|             50 | Bastien Darriet           |            nan    |       22 |             77.87 | Théo Castinel             |             29 |
+|             73 | Guillaume Marin           |             50.79 |       23 |            nan    | nan                       |            nan |
 

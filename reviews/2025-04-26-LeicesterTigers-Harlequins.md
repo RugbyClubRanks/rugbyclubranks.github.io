@@ -1,17 +1,17 @@
 ---  
 layout: page  
-title: Harlequins at Leicester Tigers; 3-36  
+title: Harlequins at Leicester Tigers; 3-20  
 date: 2025-04-26 18:00:00 -0500  
 categories: "Gallagher Premiership 24/25" match review  
 ---
-# Harlequins at Leicester Tigers; 3-36
+# Harlequins at Leicester Tigers; 3-20
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.623, which translates to predicting Leicester Tigers to win by 4.4.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.613, which translates to predicting Leicester Tigers to win by 4.1.
 
-Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 22 to 26
+Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 23 to 27
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model

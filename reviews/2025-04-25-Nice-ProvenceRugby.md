@@ -9,9 +9,9 @@ categories: "Pro D2 24/25" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.399, which translates to predicting Provence Rugby to win by 3.6.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.398, which translates to predicting Provence Rugby to win by 3.6.
 
-Our Over/Under is 59.5 - and combined with the spread above, we have a predicted scoreline of 31 to 28
+Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 29 to 25
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,26 +69,26 @@ Provence Rugby by 14.8 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             21 | Thomas Vernet         |             75.6  |        1 |              9.4  | Facundo Gigena        |             64 |
-|             56 | Kapeli Pifeleti       |              5.31 |        2 |             12.84 | Pierre Strippoli      |             80 |
-|             80 | Tomas Francis         |             98.68 |        3 |              3.87 | Tom Ross              |             80 |
-|             76 | Andres Zafra Tarazona |              1.53 |        4 |              2.67 | Thibault Rey          |             80 |
-|             70 | Izack Rodda           |             76.72 |        5 |             23.57 | Martin Freytes        |             80 |
-|             80 | Guillaume Piazzoli    |             78.63 |        6 |              6.83 | Hugo Sarrasin         |             50 |
-|             20 | Charly Gambini        |             78.54 |        7 |             89.89 | Louis Suaud           |             80 |
-|             29 | Teimana Harrison      |             53.81 |        8 |              9.96 | Kylian Laurans        |              5 |
-|             45 | Arthur Coville        |             13.5  |        9 |              8.38 | Jules Solinas         |             24 |
-|             56 | Jules Soulan          |             76.3  |       10 |             40.54 | Flavio Asquini        |             80 |
-|             63 | Nadir Bouhedjeur      |             89.62 |       11 |             51.81 | Alexis Bouton         |             26 |
-|             42 | Kaveinga Finau        |             81.21 |       12 |              1.94 | Alban Conduche        |             80 |
-|             80 | Atila Septar          |             61.39 |       13 |             15.02 | Nathan Courtade       |             20 |
-|             80 | Adrien Lapegue-Lafaye |             13.54 |       14 |             51.17 | Benjamin Dutard       |             11 |
-|             80 | Léo Drouet            |             61.7  |       15 |             86.54 | David Odiete          |             29 |
-|             67 | Joseph Laget          |             22.26 |       16 |             54.66 | Fabio Gonzalez        |             13 |
-|             80 | Federico Wegrzyn      |             64.47 |       17 |              7.42 | Luvuyo Pupuma         |              3 |
-|             60 | Paul Mallez           |             84.91 |       18 |              4.2  | Clément Chartier      |             80 |
-|             80 | Jimmy Gopperth        |             91.27 |       19 |             22.62 | Joris Sylvestre Simon |             29 |
-|             13 | Mathias Colombet      |             38.72 |       20 |             33.61 | Luca Cutayar          |             52 |
-|             52 | Baptiste Belhadj      |            nan    |       21 |            nan    | Julien Beaufils       |             10 |
-|             28 | Yannick Youyoutte     |             83.97 |       22 |             65.9  | Mathis Viard          |             67 |
+|             63 | Thomas Vernet         |             68.08 |        1 |              9.86 | Facundo Gigena        |           59   |
+|             40 | Kapeli Pifeleti       |              9.79 |        2 |              6.64 | Pierre Strippoli      |           29   |
+|             66 | Tomas Francis         |             98.8  |        3 |              3.85 | Tom Ross              |           21   |
+|             40 | Andres Zafra Tarazona |              2.14 |        4 |              2.69 | Thibault Rey          |           16   |
+|             40 | Izack Rodda           |             80.13 |        5 |             24.33 | Martin Freytes        |           80   |
+|             40 | Guillaume Piazzoli    |             80.96 |        6 |              7.18 | Hugo Sarrasin         |           64   |
+|             27 | Charly Gambini        |             79.33 |        7 |             88.33 | Louis Suaud           |           62   |
+|             62 | Teimana Harrison      |             55.25 |        8 |             10.92 | Kylian Laurans        |            9   |
+|              8 | Arthur Coville        |             17.41 |        9 |             10.24 | Jules Solinas         |           59   |
+|             80 | Jules Soulan          |             70.35 |       10 |             30.88 | Flavio Asquini        |           43   |
+|             30 | Nadir Bouhedjeur      |             90.34 |       11 |             45.7  | Alexis Bouton         |           54   |
+|             68 | Kaveinga Finau        |             79.67 |       12 |              1.23 | Alban Conduche        |           80   |
+|             53 | Atila Septar          |             64.76 |       13 |             18.69 | Nathan Courtade       |           80   |
+|             80 | Adrien Lapegue-Lafaye |              7.65 |       14 |             60.04 | Benjamin Dutard       |           63   |
+|             40 | Léo Drouet            |             67.42 |       15 |             87.01 | David Odiete          |           40   |
+|             19 | Joseph Laget          |             23.08 |       16 |             53.57 | Fabio Gonzalez        |           72   |
+|             30 | Federico Wegrzyn      |             64.55 |       17 |              7.46 | Luvuyo Pupuma         |           80   |
+|             19 | Paul Mallez           |             86.69 |       18 |              4.74 | Clément Chartier      |           76   |
+|             80 | Jimmy Gopperth        |             91    |       19 |             22.39 | Joris Sylvestre Simon |           80   |
+|              8 | Mathias Colombet      |             41.03 |       20 |             26.66 | Luca Cutayar          |           30.5 |
+|             80 | Baptiste Belhadj      |            nan    |       21 |            nan    | Julien Beaufils       |           69   |
+|             80 | Yannick Youyoutte     |             83.94 |       22 |             62.17 | Mathis Viard          |           16   |
 
