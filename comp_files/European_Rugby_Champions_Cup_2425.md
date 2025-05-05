@@ -1,6 +1,6 @@
 ---  
 title: "European Rugby Champions Cup 24/25 Status"  
-date: 2025-05-01 6:00:00 -0500  
+date: 2025-05-02 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -49,10 +49,10 @@ aside:
 
 |                    | Reach Round of 16   | Win Round of 16   | Reach Quarterfinal   | Win Quarterfinal   | Reach Semifinal   | Win Semifinal   | Reach Final   | Win Final   |
 |:-------------------|:--------------------|:------------------|:---------------------|:-------------------|:------------------|:----------------|:--------------|:------------|
-| Leinster           | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 76.8 %          | 76.8 %        | 57.3 %      |
-| Bordeaux Begles    | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 53.5 %          | 53.5 %        | 16.9 %      |
-| Stade Toulousain   | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 46.5 %          | 46.5 %        | 15.9 %      |
-| Northampton Saints | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 23.2 %          | 23.2 %        | 9.9 %       |
+| Leinster           | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 78.2 %          | 78.2 %        | 59.9 %      |
+| Stade Toulousain   | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 47.2 %          | 47.2 %        | 16.0 %      |
+| Bordeaux Begles    | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 52.8 %          | 52.8 %        | 14.5 %      |
+| Northampton Saints | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 21.8 %          | 21.8 %        | 9.6 %       |
 | Glasgow Warriors   | 100.0 %             | 100.0 %           | 100.0 %              | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
 | Castres Olympique  | 100.0 %             | 100.0 %           | 100.0 %              | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
 | Toulon             | 100.0 %             | 100.0 %           | 100.0 %              | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
@@ -73,7 +73,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 80.3% | 17.1 |
+| Club Level | 77.3% | 17.1 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -85,7 +85,7 @@ aside:
 ### Leinster V Northampton Saints on 2025-05-03
 
 
-Average Margin: Leinster by 7.2
+Average Margin: Leinster by 7.4
 
 <p float="left">
 <img src="C:\Users\Graeham\Documents\GITHUB_PROJECTS\grieman.github.io\comp_files\plots\2025-05-03-Leinster_V_NorthamptonSaints_performances.png" width="32%" />
@@ -96,7 +96,7 @@ Average Margin: Leinster by 7.2
 ### Bordeaux Begles V Stade Toulousain on 2025-05-04
 
 
-Average Margin: Bordeaux Begles by 1.1
+Average Margin: Bordeaux Begles by 1.2
 
 <p float="left">
 <img src="C:\Users\Graeham\Documents\GITHUB_PROJECTS\grieman.github.io\comp_files\plots\2025-05-04-BordeauxBegles_V_StadeToulousain_performances.png" width="32%" />
@@ -106,10 +106,32 @@ Average Margin: Bordeaux Begles by 1.1
 
 ## Final
 
+### Leinster V Stade Toulousain on 2025-05-24
+
+
+Average Margin: Leinster by 3.8
+
+<p float="left">
+<img src="C:\Users\Graeham\Documents\GITHUB_PROJECTS\grieman.github.io\comp_files\plots\2025-05-24-Leinster_V_StadeToulousain_performances.png" width="32%" />
+<img src="C:\Users\Graeham\Documents\GITHUB_PROJECTS\grieman.github.io\comp_files\plots\2025-05-24-Leinster_V_StadeToulousain_resultbar.png" width="32%" />
+<img src="C:\Users\Graeham\Documents\GITHUB_PROJECTS\grieman.github.io\comp_files\plots\2025-05-24-Leinster_V_StadeToulousain_spread.png" width="32%" />
+</p>
+
+### Leinster V Bordeaux Begles on 2025-05-24
+
+
+Average Margin: Leinster by 6.3
+
+<p float="left">
+<img src="C:\Users\Graeham\Documents\GITHUB_PROJECTS\grieman.github.io\comp_files\plots\2025-05-24-Leinster_V_BordeauxBegles_performances.png" width="32%" />
+<img src="C:\Users\Graeham\Documents\GITHUB_PROJECTS\grieman.github.io\comp_files\plots\2025-05-24-Leinster_V_BordeauxBegles_resultbar.png" width="32%" />
+<img src="C:\Users\Graeham\Documents\GITHUB_PROJECTS\grieman.github.io\comp_files\plots\2025-05-24-Leinster_V_BordeauxBegles_spread.png" width="32%" />
+</p>
+
 ### Northampton Saints V Stade Toulousain on 2025-05-24
 
 
-Average Margin: Stade Toulousain by 0.6
+Average Margin: Northampton Saints by 1.2
 
 <p float="left">
 <img src="C:\Users\Graeham\Documents\GITHUB_PROJECTS\grieman.github.io\comp_files\plots\2025-05-24-NorthamptonSaints_V_StadeToulousain_performances.png" width="32%" />
@@ -126,26 +148,4 @@ Average Margin: Northampton Saints by 0.7
 <img src="C:\Users\Graeham\Documents\GITHUB_PROJECTS\grieman.github.io\comp_files\plots\2025-05-24-NorthamptonSaints_V_BordeauxBegles_performances.png" width="32%" />
 <img src="C:\Users\Graeham\Documents\GITHUB_PROJECTS\grieman.github.io\comp_files\plots\2025-05-24-NorthamptonSaints_V_BordeauxBegles_resultbar.png" width="32%" />
 <img src="C:\Users\Graeham\Documents\GITHUB_PROJECTS\grieman.github.io\comp_files\plots\2025-05-24-NorthamptonSaints_V_BordeauxBegles_spread.png" width="32%" />
-</p>
-
-### Leinster V Bordeaux Begles on 2025-05-24
-
-
-Average Margin: Leinster by 5.3
-
-<p float="left">
-<img src="C:\Users\Graeham\Documents\GITHUB_PROJECTS\grieman.github.io\comp_files\plots\2025-05-24-Leinster_V_BordeauxBegles_performances.png" width="32%" />
-<img src="C:\Users\Graeham\Documents\GITHUB_PROJECTS\grieman.github.io\comp_files\plots\2025-05-24-Leinster_V_BordeauxBegles_resultbar.png" width="32%" />
-<img src="C:\Users\Graeham\Documents\GITHUB_PROJECTS\grieman.github.io\comp_files\plots\2025-05-24-Leinster_V_BordeauxBegles_spread.png" width="32%" />
-</p>
-
-### Leinster V Stade Toulousain on 2025-05-24
-
-
-Average Margin: Leinster by 4.3
-
-<p float="left">
-<img src="C:\Users\Graeham\Documents\GITHUB_PROJECTS\grieman.github.io\comp_files\plots\2025-05-24-Leinster_V_StadeToulousain_performances.png" width="32%" />
-<img src="C:\Users\Graeham\Documents\GITHUB_PROJECTS\grieman.github.io\comp_files\plots\2025-05-24-Leinster_V_StadeToulousain_resultbar.png" width="32%" />
-<img src="C:\Users\Graeham\Documents\GITHUB_PROJECTS\grieman.github.io\comp_files\plots\2025-05-24-Leinster_V_StadeToulousain_spread.png" width="32%" />
 </p>

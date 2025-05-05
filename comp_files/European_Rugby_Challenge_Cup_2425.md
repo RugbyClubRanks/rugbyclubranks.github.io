@@ -1,6 +1,6 @@
 ---  
 title: "European Rugby Challenge Cup 24/25 Status"  
-date: 2025-05-01 6:00:00 -0500  
+date: 2025-05-02 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -43,10 +43,10 @@ aside:
 
 |                     | Reach Round of 16   | Win Round of 16   | Reach Quarterfinal   | Win Quarterfinal   | Reach Semifinal   | Win Semifinal   | Reach Final   | Win Final   |
 |:--------------------|:--------------------|:------------------|:---------------------|:-------------------|:------------------|:----------------|:--------------|:------------|
-| Bath Rugby          | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 64.1 %          | 64.1 %        | 49.9 %      |
-| Edinburgh           | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 35.9 %          | 35.9 %        | 24.2 %      |
-| Lyon                | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 70.6 %          | 70.6 %        | 17.5 %      |
-| Racing 92           | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 29.4 %          | 29.4 %        | 8.4 %       |
+| Bath Rugby          | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 62.1 %          | 62.1 %        | 47.3 %      |
+| Edinburgh           | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 37.9 %          | 37.9 %        | 26.9 %      |
+| Lyon                | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 73.0 %          | 73.0 %        | 18.3 %      |
+| Racing 92           | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 27.0 %          | 27.0 %        | 7.5 %       |
 | Connacht            | 100.0 %             | 100.0 %           | 100.0 %              | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
 | Ospreys             | 100.0 %             | 100.0 %           | 100.0 %              | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
 | Bulls               | 100.0 %             | 100.0 %           | 100.0 %              | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
@@ -67,7 +67,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 75.9% | 13.0 |
+| Club Level | 75.9% | 12.4 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -76,21 +76,10 @@ aside:
 
 ## Semifinal
 
-### Lyon V Racing 92 on 2025-05-02
-
-
-Average Margin: Lyon by 1.9
-
-<p float="left">
-<img src="C:\Users\Graeham\Documents\GITHUB_PROJECTS\grieman.github.io\comp_files\plots\2025-05-02-Lyon_V_Racing92_performances.png" width="32%" />
-<img src="C:\Users\Graeham\Documents\GITHUB_PROJECTS\grieman.github.io\comp_files\plots\2025-05-02-Lyon_V_Racing92_resultbar.png" width="32%" />
-<img src="C:\Users\Graeham\Documents\GITHUB_PROJECTS\grieman.github.io\comp_files\plots\2025-05-02-Lyon_V_Racing92_spread.png" width="32%" />
-</p>
-
 ### Edinburgh V Bath Rugby on 2025-05-02
 
 
-Average Margin: Bath Rugby by 0.1
+Average Margin: Edinburgh by 0.1
 
 <p float="left">
 <img src="C:\Users\Graeham\Documents\GITHUB_PROJECTS\grieman.github.io\comp_files\plots\2025-05-02-Edinburgh_V_BathRugby_performances.png" width="32%" />
@@ -98,12 +87,34 @@ Average Margin: Bath Rugby by 0.1
 <img src="C:\Users\Graeham\Documents\GITHUB_PROJECTS\grieman.github.io\comp_files\plots\2025-05-02-Edinburgh_V_BathRugby_spread.png" width="32%" />
 </p>
 
+### Lyon V Racing 92 on 2025-05-02
+
+
+Average Margin: Lyon by 3.1
+
+<p float="left">
+<img src="C:\Users\Graeham\Documents\GITHUB_PROJECTS\grieman.github.io\comp_files\plots\2025-05-02-Lyon_V_Racing92_performances.png" width="32%" />
+<img src="C:\Users\Graeham\Documents\GITHUB_PROJECTS\grieman.github.io\comp_files\plots\2025-05-02-Lyon_V_Racing92_resultbar.png" width="32%" />
+<img src="C:\Users\Graeham\Documents\GITHUB_PROJECTS\grieman.github.io\comp_files\plots\2025-05-02-Lyon_V_Racing92_spread.png" width="32%" />
+</p>
+
 ## Final
+
+### Edinburgh V Lyon on 2025-05-24
+
+
+Average Margin: Edinburgh by 2.0
+
+<p float="left">
+<img src="C:\Users\Graeham\Documents\GITHUB_PROJECTS\grieman.github.io\comp_files\plots\2025-05-24-Edinburgh_V_Lyon_performances.png" width="32%" />
+<img src="C:\Users\Graeham\Documents\GITHUB_PROJECTS\grieman.github.io\comp_files\plots\2025-05-24-Edinburgh_V_Lyon_resultbar.png" width="32%" />
+<img src="C:\Users\Graeham\Documents\GITHUB_PROJECTS\grieman.github.io\comp_files\plots\2025-05-24-Edinburgh_V_Lyon_spread.png" width="32%" />
+</p>
 
 ### Bath Rugby V Lyon on 2025-05-24
 
 
-Average Margin: Bath Rugby by 6.1
+Average Margin: Bath Rugby by 5.3
 
 <p float="left">
 <img src="C:\Users\Graeham\Documents\GITHUB_PROJECTS\grieman.github.io\comp_files\plots\2025-05-24-BathRugby_V_Lyon_performances.png" width="32%" />
@@ -114,7 +125,7 @@ Average Margin: Bath Rugby by 6.1
 ### Edinburgh V Racing 92 on 2025-05-24
 
 
-Average Margin: Edinburgh by 0.8
+Average Margin: Edinburgh by 2.9
 
 <p float="left">
 <img src="C:\Users\Graeham\Documents\GITHUB_PROJECTS\grieman.github.io\comp_files\plots\2025-05-24-Edinburgh_V_Racing92_performances.png" width="32%" />
@@ -122,21 +133,10 @@ Average Margin: Edinburgh by 0.8
 <img src="C:\Users\Graeham\Documents\GITHUB_PROJECTS\grieman.github.io\comp_files\plots\2025-05-24-Edinburgh_V_Racing92_spread.png" width="32%" />
 </p>
 
-### Edinburgh V Lyon on 2025-05-24
-
-
-Average Margin: Edinburgh by 2.6
-
-<p float="left">
-<img src="C:\Users\Graeham\Documents\GITHUB_PROJECTS\grieman.github.io\comp_files\plots\2025-05-24-Edinburgh_V_Lyon_performances.png" width="32%" />
-<img src="C:\Users\Graeham\Documents\GITHUB_PROJECTS\grieman.github.io\comp_files\plots\2025-05-24-Edinburgh_V_Lyon_resultbar.png" width="32%" />
-<img src="C:\Users\Graeham\Documents\GITHUB_PROJECTS\grieman.github.io\comp_files\plots\2025-05-24-Edinburgh_V_Lyon_spread.png" width="32%" />
-</p>
-
 ### Bath Rugby V Racing 92 on 2025-05-24
 
 
-Average Margin: Bath Rugby by 6.0
+Average Margin: Bath Rugby by 4.9
 
 <p float="left">
 <img src="C:\Users\Graeham\Documents\GITHUB_PROJECTS\grieman.github.io\comp_files\plots\2025-05-24-BathRugby_V_Racing92_performances.png" width="32%" />
