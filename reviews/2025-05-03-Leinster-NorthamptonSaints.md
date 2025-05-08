@@ -1,15 +1,15 @@
 ---  
 layout: page  
-title: Northampton Saints at Leinster; 9-24  
+title: Northampton Saints at Leinster; 37-34  
 date: 2025-05-03 18:00:00 -0500  
 categories: "European Rugby Champions Cup 24/25" match review  
 ---
-# Northampton Saints at Leinster; 9-24
+# Northampton Saints at Leinster; 37-34
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.822, which translates to predicting Leinster to win by 13.4.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.83, which translates to predicting Leinster to win by 13.9.
 
 Our Over/Under is 58.5 - and combined with the spread above, we have a predicted scoreline of 22 to 36
 

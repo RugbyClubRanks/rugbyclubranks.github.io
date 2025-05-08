@@ -1,6 +1,6 @@
 ---  
 title: "Developmental International 2025 Status"  
-date: 2025-05-05 6:00:00 -0500  
+date: 2025-05-08 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -59,7 +59,7 @@ aside:
 ### Serbia V Bulgaria on 2025/05/10
 
 
-Average Margin: Serbia by 3.9
+Average Margin: Serbia by 4.4
 
 Average Scoreline: 34-30
 
@@ -72,7 +72,7 @@ Average Scoreline: 34-30
 ### Estonia V Finland on 2025/05/10
 
 
-Average Margin: Finland by 43.8
+Average Margin: Finland by 44.0
 
 Average Scoreline: 50-6
 
@@ -85,7 +85,7 @@ Average Scoreline: 50-6
 ### Norway V Denmark on 2025/05/10
 
 
-Average Margin: Denmark by 24.1
+Average Margin: Denmark by 23.9
 
 Average Scoreline: 42-18
 

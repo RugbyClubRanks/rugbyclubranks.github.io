@@ -11,7 +11,7 @@ categories: "Rugby Championship U20 2025" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.763, which translates to predicting New Zealand U20 to win by 11.3.
 
-Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 17 to 28
+Our Over/Under is 58.5 - and combined with the spread above, we have a predicted scoreline of 24 to 35
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: New Zealand U20 by 4.3
+## Prediction without Player Minutes: New Zealand U20 by 4.2
 
 
-New Zealand U20 by 2.1 on a neutral pitch
+New Zealand U20 by 2.0 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,19 +69,19 @@ New Zealand U20 by 2.1 on a neutral pitch
 
 |   Away Minutes | Away Player      |   Away Percentile |   Number |   Home Percentile | Home Player     |   Home Minutes |
 |---------------:|:-----------------|------------------:|---------:|------------------:|:----------------|---------------:|
-|              9 | Finn Baxter      |             47.62 |        1 |             61.1  | Sika Pole       |             80 |
-|             27 | Ollie Barrett    |             49.06 |        2 |             47.18 | Manumaua Letiu  |             80 |
-|             27 | Kaleb Ah-Colt    |             50.08 |        3 |             39.14 | Robson Faleafa  |             80 |
-|             52 | Eamon Doyle      |             56.31 |        4 |             39.9  | Randall Baker   |             80 |
-|             11 | Joe Mangelsdorf  |             47.99 |        5 |             39.9  | Josh Tengblad   |             80 |
-|             67 | Jacob Veiru      |             54.55 |        6 |             43.51 | Xavier Treacy   |             29 |
-|             80 | Eli Langi        |             55.81 |        7 |             40.5  | Aio Keith       |             57 |
-|             67 | Beau Morrison    |             50.21 |        8 |             42.36 | Mosese Bason    |             80 |
-|             43 | Hwi Sharples     |             44    |        9 |             73.74 | Dylan Pledger   |             60 |
-|             40 | Joey Fowler      |             25.83 |       10 |             66.25 | Rico Simpson    |             80 |
-|             26 | Sidney Harvey    |             49.05 |       11 |             41.78 | Harlyn Saunoa   |             26 |
-|             53 | Boston Fakafanua |             40.16 |       12 |             39.75 | Jack Wiseman    |             28 |
-|              9 | Liam Grover      |             43.44 |       13 |             38.63 | Cooper Roberts  |             41 |
-|             53 | Cooper Watters   |             52.65 |       14 |             39.04 | Maloni Kunawave |             53 |
-|             71 | Shane Wilcox     |             47.19 |       15 |             42.2  | Stanley Solomon |             51 |
+|             74 | Finn Baxter      |             55.66 |        1 |             65.77 | Sika Pole       |             34 |
+|             58 | Ollie Barrett    |             53.08 |        2 |             53.95 | Manumaua Letiu  |             29 |
+|             73 | Kaleb Ah-Colt    |             55.5  |        3 |             43.85 | Robson Faleafa  |             62 |
+|             63 | Eamon Doyle      |             56.37 |        4 |             45.32 | Randall Baker   |             26 |
+|             39 | Joe Mangelsdorf  |             51.03 |        5 |             42.98 | Josh Tengblad   |             62 |
+|             80 | Jacob Veiru      |             53.44 |        6 |             42.98 | Xavier Treacy   |             38 |
+|             26 | Eli Langi        |             48.11 |        7 |             42.21 | Aio Keith       |             51 |
+|             28 | Beau Morrison    |             46.86 |        8 |             45.4  | Mosese Bason    |             80 |
+|             53 | Hwi Sharples     |             44.52 |        9 |             73.39 | Dylan Pledger   |             71 |
+|              0 | Joey Fowler      |             26.12 |       10 |             66.33 | Rico Simpson    |             80 |
+|             64 | Sidney Harvey    |             51.39 |       11 |             37.66 | Harlyn Saunoa   |             80 |
+|             52 | Boston Fakafanua |             40.61 |       12 |             41.48 | Jack Wiseman    |             29 |
+|             27 | Liam Grover      |             45.61 |       13 |             41.48 | Cooper Roberts  |             29 |
+|             58 | Cooper Watters   |             50.82 |       14 |             41.79 | Maloni Kunawave |             29 |
+|              0 | Shane Wilcox     |             36.36 |       15 |             40.29 | Stanley Solomon |             50 |
 
