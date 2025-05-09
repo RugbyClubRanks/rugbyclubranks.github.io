@@ -1,6 +1,6 @@
 ---  
 title: "Super Rugby 2025 Status"  
-date: 2025-05-02 6:00:00 -0500  
+date: 2025-05-09 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -15,10 +15,12 @@ aside:
 ## Projected Total Table
 
 
-| Club          |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
-|:--------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Blues         |               1 |    0.9 |              12.3492 |                   0   |                0.5 |                  4.2 |
-| Western Force |               1 |    0.1 |             -12.3492 |                   0.2 |                0.1 |                  0.7 |
+| Club                     |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
+|:-------------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
+| Blues                    |               1 |    0.6 |              2.47588 |                   0.3 |                0.6 |                  3.3 |
+| Queensland Reds          |               1 |    0.6 |              2.43645 |                   0.3 |                0.5 |                  3.2 |
+| New South Wales Waratahs |               1 |    0.4 |             -2.43645 |                   0.4 |                0.2 |                  2.2 |
+| Fijian Drua              |               1 |    0.4 |             -2.47588 |                   0.4 |                0.2 |                  2.1 |
 
 
 
@@ -26,15 +28,28 @@ aside:
 
 ## Week 1
 
-### Blues V Western Force on 2025/05/02
+### Fijian Drua V Blues on 2025/05/09
 
 
-Average Margin: Blues by 12.3
+Average Margin: Blues by 2.5
 
-Average Scoreline: 39-27
+Average Scoreline: 32-29
 
 <p float="left">
-<img src="plots/performances_2025-05-02-Blues_V_WesternForce.png" width="32%" />
-<img src="plots/resultbar_2025-05-02-Blues_V_WesternForce.png" width="32%" />
-<img src="plots/spreads_2025-05-02-Blues_V_WesternForce.png" width="32%" />
+<img src="plots/performances_2025-05-09-FijianDrua_V_Blues.png" width="32%" />
+<img src="plots/resultbar_2025-05-09-FijianDrua_V_Blues.png" width="32%" />
+<img src="plots/spreads_2025-05-09-FijianDrua_V_Blues.png" width="32%" />
+</p>
+
+### New South Wales Waratahs V Queensland Reds on 2025/05/09
+
+
+Average Margin: Queensland Reds by 2.4
+
+Average Scoreline: 30-28
+
+<p float="left">
+<img src="plots/performances_2025-05-09-NewSouthWalesWaratahs_V_QueenslandReds.png" width="32%" />
+<img src="plots/resultbar_2025-05-09-NewSouthWalesWaratahs_V_QueenslandReds.png" width="32%" />
+<img src="plots/spreads_2025-05-09-NewSouthWalesWaratahs_V_QueenslandReds.png" width="32%" />
 </p>

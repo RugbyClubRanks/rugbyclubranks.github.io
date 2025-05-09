@@ -1,6 +1,6 @@
 ---  
 title: "Developmental International 2025 Status"  
-date: 2025-05-08 6:00:00 -0500  
+date: 2025-05-09 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -56,25 +56,12 @@ aside:
 
 ## Week 5
 
-### Serbia V Bulgaria on 2025/05/10
-
-
-Average Margin: Serbia by 4.4
-
-Average Scoreline: 34-30
-
-<p float="left">
-<img src="plots/performances_2025-05-10-Serbia_V_Bulgaria.png" width="32%" />
-<img src="plots/resultbar_2025-05-10-Serbia_V_Bulgaria.png" width="32%" />
-<img src="plots/spreads_2025-05-10-Serbia_V_Bulgaria.png" width="32%" />
-</p>
-
 ### Estonia V Finland on 2025/05/10
 
 
-Average Margin: Finland by 44.0
+Average Margin: Finland by 45.3
 
-Average Scoreline: 50-6
+Average Scoreline: 50-5
 
 <p float="left">
 <img src="plots/performances_2025-05-10-Estonia_V_Finland.png" width="32%" />
@@ -85,12 +72,25 @@ Average Scoreline: 50-6
 ### Norway V Denmark on 2025/05/10
 
 
-Average Margin: Denmark by 23.9
+Average Margin: Denmark by 23.5
 
-Average Scoreline: 42-18
+Average Scoreline: 41-18
 
 <p float="left">
 <img src="plots/performances_2025-05-10-Norway_V_Denmark.png" width="32%" />
 <img src="plots/resultbar_2025-05-10-Norway_V_Denmark.png" width="32%" />
 <img src="plots/spreads_2025-05-10-Norway_V_Denmark.png" width="32%" />
+</p>
+
+### Serbia V Bulgaria on 2025/05/10
+
+
+Average Margin: Serbia by 3.9
+
+Average Scoreline: 34-30
+
+<p float="left">
+<img src="plots/performances_2025-05-10-Serbia_V_Bulgaria.png" width="32%" />
+<img src="plots/resultbar_2025-05-10-Serbia_V_Bulgaria.png" width="32%" />
+<img src="plots/spreads_2025-05-10-Serbia_V_Bulgaria.png" width="32%" />
 </p>

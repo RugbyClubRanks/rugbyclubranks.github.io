@@ -11,7 +11,7 @@ categories: "RFU Championship 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.57, which translates to predicting Chinnor to win by 2.5.
 
-Our Over/Under is 76.5 - and combined with the spread above, we have a predicted scoreline of 37 to 39
+Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 25 to 28
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Chinnor by 3.0
+## Prediction without Player Minutes: Chinnor by 0.2
 
 
-Chinnor by 0.8 on a neutral pitch
+Nottingham by 2.1 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,19 +69,19 @@ Chinnor by 0.8 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|           33.5 | Archie Van der Flier |             51.59 |        1 |             10.68 | Tumy Onasanya      |             45 |
-|           64   | Harry Clayton        |             83.48 |        2 |             76.8  | Chris Moore        |             80 |
-|           49   | Ale Loman            |             61.12 |        3 |             76.2  | Rob Hardwick       |             27 |
-|            0   | Osian Thomas         |             11.14 |        4 |             79.21 | Willie Ryan        |             66 |
-|           80   | Tom Manz             |             39.7  |        5 |             70.04 | George Shaw        |             26 |
-|           31   | Finn Carnduff        |             90.51 |        6 |             35.72 | Harry Dugmore      |             31 |
-|           46   | Jacob Wright         |             33.4  |        7 |             69.41 | Max Clementson     |             39 |
-|           23   | James Cherry         |             42.05 |        8 |              5.86 | Scott Hall         |             65 |
-|           35   | Will Yarnell         |             14.61 |        9 |             88.7  | Luke Carter        |             27 |
-|           28   | Matthew Arden        |             73.27 |       10 |             63.47 | Nathan Chamberlain |             28 |
-|           45   | Harry Graham         |             57.16 |       11 |             55.33 | Kieran Goss        |             16 |
-|           27   | Kegan Christian-Goss |             32.86 |       12 |             65    | Morgan Passman     |             16 |
-|           63   | Jack Stapley         |              1.53 |       13 |             60.61 | Tom Watson         |              0 |
-|           18   | David Williams       |             12.3  |       14 |             48.7  | Grant Hughes       |             40 |
-|            8   | Ryan Olowofela       |             47.52 |       15 |             60.95 | Nick Smith         |             27 |
+|             41 | Archie Van der Flier |             49.55 |        1 |              8.59 | Tumy Onasanya      |             35 |
+|             41 | Harry Clayton        |             84.82 |        2 |             45.9  | Chris Moore        |             41 |
+|             80 | Ale Loman            |             48.9  |        3 |             56.75 | Rob Hardwick       |              3 |
+|             29 | Osian Thomas         |             11.55 |        4 |             77.84 | Willie Ryan        |             57 |
+|             80 | Tom Manz             |             38.64 |        5 |             60.32 | George Shaw        |             23 |
+|             45 | Finn Carnduff        |             89.08 |        6 |             37.07 | Harry Dugmore      |             36 |
+|             35 | Jacob Wright         |             34.48 |        7 |             38.22 | Max Clementson     |             18 |
+|             80 | James Cherry         |             31.98 |        8 |              2.35 | Scott Hall         |             28 |
+|             32 | Will Yarnell         |             13.67 |        9 |             82.87 | Luke Carter        |              7 |
+|             49 | Matthew Arden        |             68.69 |       10 |             72.73 | Nathan Chamberlain |             80 |
+|             35 | Harry Graham         |             62.79 |       11 |             26.15 | Kieran Goss        |              0 |
+|             35 | Kegan Christian-Goss |             29.55 |       12 |             75.46 | Morgan Passman     |             57 |
+|             39 | Jack Stapley         |              1.74 |       13 |             68.71 | Tom Watson         |             71 |
+|             35 | David Williams       |             10.87 |       14 |             29.9  | Grant Hughes       |             66 |
+|             48 | Ryan Olowofela       |             34.99 |       15 |             68.32 | Nick Smith         |             80 |
 

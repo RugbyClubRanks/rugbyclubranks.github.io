@@ -9,7 +9,7 @@ categories: "United Rugby Championship 24/25" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.69, which translates to predicting Sharks to win by 7.9.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.678, which translates to predicting Sharks to win by 7.2.
 
 Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 20 to 28
 

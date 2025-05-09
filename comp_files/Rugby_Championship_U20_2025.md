@@ -1,6 +1,6 @@
 ---  
 title: "Rugby Championship U20 2025 Status"  
-date: 2025-05-08 6:00:00 -0500  
+date: 2025-05-09 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,10 +17,10 @@ aside:
 
 | Club             |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| South Africa U20 |        1 |      1 |                   11 |                     0 |                  1 |                    5 |
-| New Zealand U20  |        1 |      0 |                    0 |                     0 |                  1 |                    3 |
-| Australia U20    |        1 |      0 |                    0 |                     0 |                  1 |                    3 |
-| Argentina U20    |        1 |      0 |                  -11 |                     0 |                  0 |                    0 |
+| New Zealand U20  |        2 |      1 |                   54 |                     0 |                  2 |                    8 |
+| Australia U20    |        2 |      1 |                    5 |                     0 |                  2 |                    8 |
+| South Africa U20 |        2 |      1 |                    6 |                     1 |                  1 |                    6 |
+| Argentina U20    |        2 |      0 |                  -65 |                     0 |                  0 |                    0 |
 
 
 
@@ -29,10 +29,10 @@ aside:
 
 | Club             |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Argentina U20    |                   1 |    0.8 |              12.4225 |                   0.1 |                0.5 |                  4   |
-| South Africa U20 |                   1 |    0.8 |              10.3191 |                   0.1 |                0.4 |                  3.7 |
-| New Zealand U20  |                   1 |    0.2 |             -10.3191 |                   0.2 |                0.5 |                  1.6 |
-| Australia U20    |                   1 |    0.2 |             -12.4225 |                   0.2 |                0.2 |                  1   |
+| New Zealand U20  |                   1 |    0.6 |              2.37399 |                   0.2 |                0.8 |                  3.3 |
+| Argentina U20    |                   1 |    0.6 |              3.36647 |                   0.2 |                0.3 |                  3   |
+| South Africa U20 |                   1 |    0.4 |             -2.37399 |                   0.2 |                0.3 |                  2.2 |
+| Australia U20    |                   1 |    0.4 |             -3.36647 |                   0.2 |                0.3 |                  2.1 |
 
 
 
@@ -41,10 +41,10 @@ aside:
 
 | Club             |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| South Africa U20 |               2 |    1.8 |             21.3191  |                   0.1 |                1.4 |                  8.7 |
-| New Zealand U20  |               2 |    0.2 |            -10.3191  |                   0.2 |                1.5 |                  4.6 |
-| Argentina U20    |               2 |    0.8 |              1.42249 |                   0.1 |                0.5 |                  4   |
-| Australia U20    |               2 |    0.2 |            -12.4225  |                   0.2 |                1.2 |                  4   |
+| New Zealand U20  |               3 |    1.6 |             56.374   |                   0.2 |                2.8 |                 11.3 |
+| Australia U20    |               3 |    1.4 |              1.63353 |                   0.2 |                2.3 |                 10.1 |
+| South Africa U20 |               3 |    1.4 |              3.62601 |                   1.2 |                1.3 |                  8.2 |
+| Argentina U20    |               3 |    0.6 |            -61.6335  |                   0.2 |                0.3 |                  3   |
 
 
 
@@ -53,21 +53,21 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 0.0% | 15.4 |
-| Player Level: Lineup | 50.0% | 7.0 |
-| Player Level: Minutes | 0.0% | 8.0 |
+| Club Level | 0.0% | 25.8 |
+| Player Level: Lineup | 50.0% | 18.8 |
+| Player Level: Minutes | 25.0% | 18.6 |
 
 
 # Future Predictions
 
-## Week 2
+## Week 3
 
 ### South Africa U20 V New Zealand U20 on 2025/05/11
 
 
-Average Margin: South Africa U20 by 10.3
+Average Margin: New Zealand U20 by 2.4
 
-Average Scoreline: 35-25
+Average Scoreline: 34-32
 
 <p float="left">
 <img src="plots/performances_2025-05-11-SouthAfricaU20_V_NewZealandU20.png" width="32%" />
@@ -78,9 +78,9 @@ Average Scoreline: 35-25
 ### Argentina U20 V Australia U20 on 2025/05/11
 
 
-Average Margin: Argentina U20 by 12.4
+Average Margin: Argentina U20 by 3.4
 
-Average Scoreline: 30-18
+Average Scoreline: 24-21
 
 <p float="left">
 <img src="plots/performances_2025-05-11-ArgentinaU20_V_AustraliaU20.png" width="32%" />

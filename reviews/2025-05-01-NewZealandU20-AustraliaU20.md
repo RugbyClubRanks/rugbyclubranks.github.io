@@ -11,7 +11,7 @@ categories: "Rugby Championship U20 2025" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.763, which translates to predicting New Zealand U20 to win by 11.3.
 
-Our Over/Under is 58.5 - and combined with the spread above, we have a predicted scoreline of 24 to 35
+Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 18 to 29
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,19 +69,19 @@ New Zealand U20 by 2.0 on a neutral pitch
 
 |   Away Minutes | Away Player      |   Away Percentile |   Number |   Home Percentile | Home Player     |   Home Minutes |
 |---------------:|:-----------------|------------------:|---------:|------------------:|:----------------|---------------:|
-|             74 | Finn Baxter      |             55.66 |        1 |             65.77 | Sika Pole       |             34 |
-|             58 | Ollie Barrett    |             53.08 |        2 |             53.95 | Manumaua Letiu  |             29 |
-|             73 | Kaleb Ah-Colt    |             55.5  |        3 |             43.85 | Robson Faleafa  |             62 |
-|             63 | Eamon Doyle      |             56.37 |        4 |             45.32 | Randall Baker   |             26 |
-|             39 | Joe Mangelsdorf  |             51.03 |        5 |             42.98 | Josh Tengblad   |             62 |
-|             80 | Jacob Veiru      |             53.44 |        6 |             42.98 | Xavier Treacy   |             38 |
-|             26 | Eli Langi        |             48.11 |        7 |             42.21 | Aio Keith       |             51 |
-|             28 | Beau Morrison    |             46.86 |        8 |             45.4  | Mosese Bason    |             80 |
-|             53 | Hwi Sharples     |             44.52 |        9 |             73.39 | Dylan Pledger   |             71 |
-|              0 | Joey Fowler      |             26.12 |       10 |             66.33 | Rico Simpson    |             80 |
-|             64 | Sidney Harvey    |             51.39 |       11 |             37.66 | Harlyn Saunoa   |             80 |
-|             52 | Boston Fakafanua |             40.61 |       12 |             41.48 | Jack Wiseman    |             29 |
-|             27 | Liam Grover      |             45.61 |       13 |             41.48 | Cooper Roberts  |             29 |
-|             58 | Cooper Watters   |             50.82 |       14 |             41.79 | Maloni Kunawave |             29 |
-|              0 | Shane Wilcox     |             36.36 |       15 |             40.29 | Stanley Solomon |             50 |
+|             15 | Finn Baxter      |             56.09 |        1 |             74    | Sika Pole       |             80 |
+|             29 | Ollie Barrett    |             57.94 |        2 |             53.05 | Manumaua Letiu  |             80 |
+|             56 | Kaleb Ah-Colt    |             52.9  |        3 |             48.16 | Robson Faleafa  |             34 |
+|             80 | Eamon Doyle      |             57.39 |        4 |             45.74 | Randall Baker   |             34 |
+|             80 | Joe Mangelsdorf  |             55.97 |        5 |             58.33 | Josh Tengblad   |             30 |
+|             80 | Jacob Veiru      |             51.72 |        6 |             65.06 | Xavier Treacy   |             46 |
+|             80 | Eli Langi        |             57.09 |        7 |             42.62 | Aio Keith       |             80 |
+|             51 | Beau Morrison    |             54.37 |        8 |             68.44 | Mosese Bason    |             80 |
+|             65 | Hwi Sharples     |             57.96 |        9 |             76.12 | Dylan Pledger   |             15 |
+|             80 | Joey Fowler      |             29.09 |       10 |             67.47 | Rico Simpson    |             80 |
+|             59 | Sidney Harvey    |             48.45 |       11 |             41.92 | Harlyn Saunoa   |             51 |
+|             80 | Boston Fakafanua |             40.08 |       12 |             41.21 | Jack Wiseman    |             29 |
+|             80 | Liam Grover      |             48.26 |       13 |             59.71 | Cooper Roberts  |             58 |
+|             65 | Cooper Watters   |             57.4  |       14 |             53.94 | Maloni Kunawave |             15 |
+|             80 | Shane Wilcox     |             43.69 |       15 |             59.63 | Stanley Solomon |             24 |
 

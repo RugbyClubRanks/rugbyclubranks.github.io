@@ -11,7 +11,7 @@ categories: "Japan Rugby League One D2 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.711, which translates to predicting Red Hurricanes Osaka to win by 8.1.
 
-Our Over/Under is 67.5 - and combined with the spread above, we have a predicted scoreline of 30 to 38
+Our Over/Under is 58.5 - and combined with the spread above, we have a predicted scoreline of 25 to 33
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Red Hurricanes Osaka by 12.5
+## Prediction without Player Minutes: Red Hurricanes Osaka by 12.1
 
 
-Red Hurricanes Osaka by 8.7 on a neutral pitch
+Red Hurricanes Osaka by 8.3 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Red Hurricanes Osaka by 8.7 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             80 | Yusuke Yamada       |             31.87 |        1 |              8.96 | Hiromichi Sakamoto   |             46 |
-|             80 | Naoki Ouno          |             18.63 |        2 |             31.99 | Hisamitsu Shimada    |             31 |
-|             31 | Taiki Noguchi       |             23.39 |        3 |             47.35 | Munekata Sashida     |             69 |
-|             23 | Dallas Tatana       |              6.09 |        4 |              7.4  | Toru Sugishita       |             80 |
-|              0 | Hamish Dalzell      |             10.77 |        5 |             12.55 | Tatsunari Fujita     |             80 |
-|             38 | Ben Nee Nee         |             11.42 |        6 |             54.02 | Isono Kaito          |             80 |
-|             80 | Ryota Kono          |             27.59 |        7 |             81.99 | Blake Gibson         |             80 |
-|             80 | Kohei Ishigaki      |              3.77 |        8 |             88.49 | Jack O'Sullivan      |             80 |
-|             71 | Youhei Murakami     |              2.43 |        9 |             75.65 | Tatsuya Hamano       |             62 |
-|             80 | Mitch Hunt          |             46.94 |       10 |             51.02 | Fumiya Dobashi       |             80 |
-|             23 | Ryuji Abe           |              8.84 |       11 |             65.61 | Kenya Nishikawa      |             29 |
-|              1 | Gerdus van der Walt |             13.47 |       12 |              4.39 | Mifiposeti Paea      |             29 |
-|             26 | Osuka Lloyd Murata  |              2.65 |       13 |              7.96 | Henry Taefu          |             34 |
-|             29 | Gousuke Kawakami    |              9.99 |       14 |             14.79 | Kouki Shigeno        |             34 |
-|             30 | Cam Bailey          |              1.03 |       15 |             59.5  | Taiki Yamaguchi      |             16 |
-|              0 | Sei Matsuyama       |            nan    |       16 |            nan    | Shota Takai          |             23 |
-|             11 | Hayato Nishibayashi |            nan    |       17 |            nan    | Yura Chinen          |             80 |
-|             22 | Takuya Takahashi    |            nan    |       18 |            nan    | Shinnosuke Toyonaga  |             80 |
-|             51 | Ryunosuke Yamada    |            nan    |       19 |            nan    | Toshihiro Yamamouchi |             57 |
-|             51 | Muller Uys          |            nan    |       20 |             50    | Daisuke Iba          |             69 |
-|             53 | Darius Thomas       |            nan    |       21 |             43.47 | Kanta Kurahashi      |             77 |
-|             80 | Mosese Tonga        |            nan    |       22 |            nan    | Hibiki Noda          |             46 |
-|             15 | Atsushi Minami      |            nan    |       23 |            nan    | Akuyi Yamada         |             80 |
+|             80 | Yusuke Yamada       |             38.35 |        1 |             11.04 | Hiromichi Sakamoto   |           73   |
+|             80 | Naoki Ouno          |             19.55 |        2 |             44.68 | Hisamitsu Shimada    |           51   |
+|             71 | Taiki Noguchi       |             22.89 |        3 |             46.28 | Munekata Sashida     |           17   |
+|             63 | Dallas Tatana       |              5.4  |        4 |              7.39 | Toru Sugishita       |            6.5 |
+|             58 | Hamish Dalzell      |             10.42 |        5 |             11.84 | Tatsunari Fujita     |           58   |
+|             51 | Ben Nee Nee         |             12.26 |        6 |             59.29 | Isono Kaito          |           69   |
+|             23 | Ryota Kono          |             43.77 |        7 |             81.23 | Blake Gibson         |           80   |
+|             51 | Kohei Ishigaki      |              3.41 |        8 |             88.06 | Jack O'Sullivan      |           11   |
+|             23 | Youhei Murakami     |              3.46 |        9 |             74.74 | Tatsuya Hamano       |           41   |
+|             23 | Mitch Hunt          |             57.58 |       10 |             58.59 | Fumiya Dobashi       |           80   |
+|             20 | Ryuji Abe           |             12.12 |       11 |             67.4  | Kenya Nishikawa      |           72   |
+|             80 | Gerdus van der Walt |             14.72 |       12 |              5.21 | Mifiposeti Paea      |           80   |
+|             80 | Osuka Lloyd Murata  |              2.86 |       13 |              6.44 | Henry Taefu          |           15.5 |
+|             80 | Gousuke Kawakami    |              9.13 |       14 |             15.96 | Kouki Shigeno        |           65   |
+|             63 | Cam Bailey          |              1.45 |       15 |             63.56 | Taiki Yamaguchi      |           53   |
+|             11 | Sei Matsuyama       |            nan    |       16 |            nan    | Shota Takai          |           33.5 |
+|             64 | Hayato Nishibayashi |            nan    |       17 |            nan    | Yura Chinen          |           49   |
+|             80 | Takuya Takahashi    |            nan    |       18 |            nan    | Shinnosuke Toyonaga  |           16   |
+|             29 | Ryunosuke Yamada    |            nan    |       19 |            nan    | Toshihiro Yamamouchi |           71   |
+|             80 | Muller Uys          |            nan    |       20 |             47.65 | Daisuke Iba          |           54   |
+|             48 | Darius Thomas       |            nan    |       21 |            nan    | Kanta Kurahashi      |           61   |
+|             80 | Mosese Tonga        |            nan    |       22 |            nan    | Hibiki Noda          |           61   |
+|             18 | Atsushi Minami      |            nan    |       23 |            nan    | Akuyi Yamada         |           80   |
 

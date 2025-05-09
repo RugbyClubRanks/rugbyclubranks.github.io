@@ -11,7 +11,7 @@ categories: "RFU Championship 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.69, which translates to predicting Coventry to win by 7.1.
 
-Our Over/Under is 73.5 - and combined with the spread above, we have a predicted scoreline of 33 to 40
+Our Over/Under is 59.5 - and combined with the spread above, we have a predicted scoreline of 26 to 33
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Coventry by 11.1
+## Prediction without Player Minutes: Coventry by 10.6
 
 
-Coventry by 7.4 on a neutral pitch
+Coventry by 6.9 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,19 +69,19 @@ Coventry by 7.4 on a neutral pitch
 
 |   Away Minutes | Away Player     |   Away Percentile |   Number |   Home Percentile | Home Player      |   Home Minutes |
 |---------------:|:----------------|------------------:|---------:|------------------:|:-----------------|---------------:|
-|             53 | Billy Young     |             42.38 |        1 |             95.68 | Toby Trinder     |             15 |
-|             80 | Sol Moody       |             28.47 |        2 |             92.62 | Jordon Poole     |             33 |
-|             80 | James French    |             52.89 |        3 |             40.67 | Eliot Salt       |             47 |
-|             25 | Charlie Rice    |             38.2  |        4 |             39.33 | Dan Green        |             41 |
-|             77 | Alfie Bell      |             64.7  |        5 |             17.79 | Rhys Anstey      |             54 |
-|             32 | Josh King       |             58.18 |        6 |             87.12 | Tom Ball         |             67 |
-|             32 | Jack Forsythe   |             56.53 |        7 |             87.61 | Suva Ma'asi      |             80 |
-|              0 | Alex Everett    |             53.97 |        8 |             15.06 | Chester Owen     |             80 |
-|             16 | Dan Hiscocks    |             34.61 |        9 |              8.52 | Sam Maunder      |             77 |
-|             26 | Bruce Houston   |             82.45 |       10 |             65.31 | Tommy Mathews    |             12 |
-|             63 | Matthew McNab   |             85.98 |       11 |             92.12 | James Martin     |             80 |
-|             28 | Chester Ribbons |             60    |       12 |             45.82 | Thomas Hitchcock |             80 |
-|             44 | Charlie McCaig  |             30    |       13 |             28.27 | Oli Morris       |             80 |
-|             33 | Arthur Relton   |             71.09 |       14 |             35.25 | Ryan Hutler      |             80 |
-|              3 | Will Trewin     |             84.09 |       15 |             34.3  | Logan Trotter    |             18 |
+|              2 | Billy Young     |             25.92 |        1 |             94.11 | Toby Trinder     |             58 |
+|              8 | Sol Moody       |             14.83 |        2 |             90.75 | Jordon Poole     |             80 |
+|              1 | James French    |             26.98 |        3 |             41.13 | Eliot Salt       |             49 |
+|             35 | Charlie Rice    |             44.79 |        4 |             31.53 | Dan Green        |             80 |
+|             45 | Alfie Bell      |             57.29 |        5 |             16.1  | Rhys Anstey      |             66 |
+|             45 | Josh King       |             59.1  |        6 |             87.55 | Tom Ball         |             80 |
+|             80 | Jack Forsythe   |             67.62 |        7 |             87.07 | Suva Ma'asi      |             80 |
+|             45 | Alex Everett    |             65.88 |        8 |             13.86 | Chester Owen     |             67 |
+|             14 | Dan Hiscocks    |             33.56 |        9 |             10.38 | Sam Maunder      |             80 |
+|             57 | Bruce Houston   |             85.05 |       10 |             46.06 | Tommy Mathews    |             80 |
+|             67 | Matthew McNab   |             85.67 |       11 |             92.31 | James Martin     |             75 |
+|             80 | Chester Ribbons |             68.4  |       12 |             58.79 | Thomas Hitchcock |             35 |
+|             80 | Charlie McCaig  |             35.48 |       13 |             25.66 | Oli Morris       |             80 |
+|             80 | Arthur Relton   |             77.98 |       14 |             56.63 | Ryan Hutler      |             28 |
+|             80 | Will Trewin     |             90.06 |       15 |             19.67 | Logan Trotter    |             69 |
 
