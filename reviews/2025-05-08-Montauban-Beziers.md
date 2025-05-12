@@ -11,7 +11,7 @@ categories: "Pro D2 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.569, which translates to predicting Montauban to win by 2.4.
 
-Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 24 to 26
+Our Over/Under is 44.5 - and combined with the spread above, we have a predicted scoreline of 21 to 23
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Montauban by 7.4
+## Prediction without Player Minutes: Montauban by 3.0
 
 
-Beziers by 3.8 on a neutral pitch
+Beziers by 8.2 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Beziers by 3.8 on a neutral pitch
 
 |   Away Minutes | Away Player                 |   Away Percentile |   Number |   Home Percentile | Home Player       |   Home Minutes |
 |---------------:|:----------------------------|------------------:|---------:|------------------:|:------------------|---------------:|
-|             29 | Francisco Fernandes Moreira |              5.4  |        1 |             69.09 | Leo Aouf          |             73 |
-|             80 | Yvann Lalevee               |             65.62 |        2 |              4.36 | Jeremie Maurouard |             41 |
-|             51 | Christian Judge             |             61.57 |        3 |             71.46 | Facundo Pomponio  |             54 |
-|             67 | Cam Dodson                  |             61.46 |        4 |             77.56 | Clément Bitz      |             51 |
-|             66 | Pierre Gayraud              |             37.41 |        5 |             66.67 | Noa Kanika        |             51 |
-|             80 | Clement Doumenc             |             86.11 |        6 |              3.07 | Frédéric Quercy   |             80 |
-|             67 | Gillian Benoy               |              8.62 |        7 |             11.78 | Tjuee Uanivi      |             80 |
-|             80 | Sias Koen                   |             58.64 |        8 |             20.04 | Tomas Lezana      |             80 |
-|             80 | Damien Añon                 |             30.8  |        9 |             84.08 | Joe Powell        |             54 |
-|             80 | Tim Nanai-Williams          |             91.11 |       10 |             37.98 | Thomas Fortunel   |             80 |
-|              0 | Nicolas Plazy               |             60.67 |       11 |             29.81 | Josua Vici        |             29 |
-|             39 | Taylor Gontineac            |             86.2  |       12 |             84.05 | Simon Renda       |             67 |
-|             28 | Paul Recor                  |             60.02 |       13 |             46.93 | JT Jackson        |             80 |
-|             28 | Pierre Courtaud             |             11.35 |       14 |             72.21 | Yvan Reilhac      |             58 |
-|             14 | Gabin Lorre                 |             87.37 |       15 |             89.03 | Baptiste Mouchous |             29 |
-|              0 | Yannick Arroyo              |             77.51 |       16 |             82.95 | Kyllian Ringuet   |             29 |
-|             28 | Marco Trauth                |             68.44 |       17 |              3.88 | Victor Moreaux    |             29 |
-|             65 | Jose Luis Gonzalez          |             91.97 |       18 |             73.35 | Sikhumbuzo Notshe |             29 |
-|             13 | Baptiste Abescat-Leroy      |             35.18 |       19 |             72.2  | Tietie Tuimauga   |             80 |
-|             28 | Shahn Eru                   |              0.38 |       20 |             18.69 | Hugo Zabalza      |             26 |
-|             67 | Hugo Gomes Camacho          |             37.72 |       21 |             38.68 | Thomas Bue        |             26 |
-|             26 | Watisoni Votu               |             77.4  |       22 |             43.98 | Ru-Hann Greyling  |             51 |
-|            nan | nan                         |            nan    |       23 |             90.51 | Jérôme Bosviel    |             70 |
+|             46 | Francisco Fernandes Moreira |              5.49 |        1 |             47.74 | Leo Aouf          |             73 |
+|             15 | Yvann Lalevee               |             72.18 |        2 |              3.87 | Jeremie Maurouard |             80 |
+|             80 | Christian Judge             |             55.65 |        3 |             53.88 | Facundo Pomponio  |             46 |
+|             80 | Cam Dodson                  |             60.59 |        4 |             76.39 | Clément Bitz      |             46 |
+|             46 | Pierre Gayraud              |             41.76 |        5 |             44.68 | Noa Kanika        |             64 |
+|             80 | Clement Doumenc             |             86.59 |        6 |              2.2  | Frédéric Quercy   |             70 |
+|             17 | Gillian Benoy               |              9.67 |        7 |              6.7  | Tjuee Uanivi      |             77 |
+|              8 | Sias Koen                   |             69.43 |        8 |             24.84 | Tomas Lezana      |             80 |
+|             80 | Damien Añon                 |             32.55 |        9 |             75.18 | Joe Powell        |             53 |
+|             32 | Tim Nanai-Williams          |             92.18 |       10 |             41.23 | Thomas Fortunel   |             50 |
+|             50 | Nicolas Plazy               |             49.22 |       11 |             18.09 | Josua Vici        |             80 |
+|              7 | Taylor Gontineac            |             85.04 |       12 |             81.9  | Simon Renda       |             33 |
+|             50 | Paul Recor                  |             53.69 |       13 |             23.05 | JT Jackson        |             26 |
+|             67 | Pierre Courtaud             |              8.95 |       14 |             80.64 | Yvan Reilhac      |             80 |
+|             80 | Gabin Lorre                 |             84.04 |       15 |             81.06 | Baptiste Mouchous |             30 |
+|             67 | Yannick Arroyo              |             81.1  |       16 |             74.14 | Kyllian Ringuet   |             30 |
+|             80 | Marco Trauth                |             68.09 |       17 |              4.1  | Victor Moreaux    |             26 |
+|             80 | Jose Luis Gonzalez          |             91.55 |       18 |             52.87 | Sikhumbuzo Notshe |              0 |
+|             55 | Baptiste Abescat-Leroy      |             43.32 |       19 |             72.37 | Tietie Tuimauga   |             34 |
+|             58 | Shahn Eru                   |              0.29 |       20 |              8.99 | Hugo Zabalza      |             34 |
+|             48 | Hugo Gomes Camacho          |            nan    |       21 |             38.45 | Thomas Bue        |             80 |
+|             55 | Watisoni Votu               |             78.31 |       22 |             44.01 | Ru-Hann Greyling  |             34 |
+|            nan | nan                         |            nan    |       23 |             85.84 | Jérôme Bosviel    |             80 |
 

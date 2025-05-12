@@ -9,9 +9,9 @@ categories: "Rugby Championship U20 2025" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.704, which translates to predicting South Africa U20 to win by 8.3.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.712, which translates to predicting South Africa U20 to win by 8.7.
 
-Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 18 to 26
+Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 17 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ South Africa U20 by 1.2 on a neutral pitch
 
 |   Away Minutes | Away Player      |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:-----------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             32 | Finn Baxter      |             56.09 |        1 |             56.01 | Simphiwe Ngobese   |             58 |
-|             33 | Ollie Barrett    |             57.94 |        2 |             29.67 | Jaundre Schoeman   |             80 |
-|             29 | Trevor King      |             45.13 |        3 |             42.19 | Herman Lubbe       |             38 |
-|             13 | Joe Mangelsdorf  |             55.97 |        4 |             46.88 | Riley Norton       |             80 |
-|             14 | Eamon Doyle      |             57.39 |        5 |             32.67 | Morne Venter       |             80 |
-|             61 | Luca Cleverley   |             57.28 |        6 |             28.35 | Xola Nyali         |             80 |
-|             34 | Eli Langi        |             57.09 |        7 |             69.54 | Batho Hlekani      |             80 |
-|             35 | Beau Morrison    |             54.37 |        8 |             54.8  | Wandile Mlaba      |             51 |
-|             75 | Hwi Sharples     |             57.96 |        9 |             37.54 | Ceano Everson      |             47 |
-|             61 | Finn Prass       |             52.73 |       10 |             37.37 | Vusi Simphiwe Moyo |             33 |
-|             32 | Cooper Watters   |             57.4  |       11 |             30.19 | Siya Ndlozi        |             80 |
-|             40 | Malakye Enasio   |             51.33 |       12 |             29.35 | Dominic Malgas     |             80 |
-|             40 | Xavier Rubens    |             18.51 |       13 |             33.13 | Scott Nel          |             54 |
-|             22 | Nick Conway      |             50.19 |       14 |             51.35 | Cheswill Jooste    |             16 |
-|             15 | Sidney Harvey    |             48.45 |       15 |             23.6  | JC Mars            |             80 |
-|             29 | Boston Fakafanua |             40.08 |       16 |             65.58 | Oliver Reid        |             26 |
-|             23 | Charlie Brosnan  |            nan    |       17 |            nan    | Jean Erasmus       |             80 |
-|             36 | Ollie Aylmer     |            nan    |       18 |             51.63 | Thando Biyela      |             45 |
-|             80 | Edwin Langi      |            nan    |       19 |             47.68 | Kyle Smith         |             47 |
-|             80 | Joey Fowler      |             29.09 |       20 |             56.73 | Gino Cupido        |             47 |
-|             80 | Lipina Ata       |            nan    |       21 |            nan    | HB Odendaal        |             64 |
-|             80 | Nick Hill        |            nan    |       22 |            nan    | Erich Visser       |             80 |
-|             65 | James Martens    |            nan    |       23 |            nan    | Neil Hansen        |             43 |
+|             40 | Finn Baxter      |             61.79 |        1 |             53.63 | Simphiwe Ngobese   |             57 |
+|             80 | Ollie Barrett    |             61.62 |        2 |             44.54 | Jaundre Schoeman   |             13 |
+|             60 | Trevor King      |             50    |        3 |             46.53 | Herman Lubbe       |             25 |
+|             80 | Joe Mangelsdorf  |             62.44 |        4 |             46.73 | Riley Norton       |             25 |
+|             68 | Eamon Doyle      |             62.15 |        5 |             45.56 | Morne Venter       |             13 |
+|             72 | Luca Cleverley   |             56.03 |        6 |             36.88 | Xola Nyali         |             48 |
+|             76 | Eli Langi        |             58.24 |        7 |             75.1  | Batho Hlekani      |             30 |
+|             64 | Beau Morrison    |             62.42 |        8 |             48.41 | Wandile Mlaba      |             30 |
+|             66 | Hwi Sharples     |             56.29 |        9 |             42.63 | Ceano Everson      |             17 |
+|             60 | Finn Prass       |             48.84 |       10 |             35.1  | Vusi Simphiwe Moyo |             48 |
+|             80 | Cooper Watters   |             63.91 |       11 |             35.21 | Siya Ndlozi        |             63 |
+|             25 | Malakye Enasio   |             46.71 |       12 |             34.98 | Dominic Malgas     |             59 |
+|             49 | Xavier Rubens    |             19.82 |       13 |             32.46 | Scott Nel          |             80 |
+|             31 | Nick Conway      |             51.17 |       14 |             52.82 | Cheswill Jooste    |             50 |
+|             20 | Sidney Harvey    |             46.38 |       15 |             28.94 | JC Mars            |             60 |
+|             31 | Boston Fakafanua |             41.25 |       16 |             65.35 | Oliver Reid        |             80 |
+|             31 | Charlie Brosnan  |            nan    |       17 |            nan    | Jean Erasmus       |             80 |
+|             80 | Ollie Aylmer     |            nan    |       18 |             47.61 | Thando Biyela      |             76 |
+|             80 | Edwin Langi      |            nan    |       19 |             45.24 | Kyle Smith         |             48 |
+|             80 | Joey Fowler      |             24.74 |       20 |             50.97 | Gino Cupido        |             80 |
+|             76 | Lipina Ata       |            nan    |       21 |            nan    | HB Odendaal        |             80 |
+|             40 | Nick Hill        |            nan    |       22 |            nan    | Erich Visser       |             80 |
+|             21 | James Martens    |            nan    |       23 |            nan    | Neil Hansen        |             21 |
 

@@ -1,6 +1,6 @@
 ---  
 title: "Top 14 Orange 24/25 Status"  
-date: 2025-05-09 6:00:00 -0500  
+date: 2025-05-12 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,20 +17,20 @@ aside:
 
 | Club                 |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Stade Toulousain     |       22 |     16 |                  364 |                     4 |                  9 |                   79 |
-| Toulon               |       22 |     14 |                  114 |                     4 |                  7 |                   67 |
-| Bordeaux Begles      |       22 |     14 |                  128 |                     5 |                  4 |                   65 |
-| Bayonne              |       22 |     12 |                  -14 |                     4 |                  2 |                   54 |
-| Castres Olympique    |       22 |     12 |                  -51 |                     3 |                  2 |                   53 |
-| Lyon                 |       22 |     12 |                   24 |                     2 |                  2 |                   52 |
-| La Rochelle          |       22 |     10 |                  -57 |                     3 |                  3 |                   48 |
-| Pau                  |       22 |     10 |                  -71 |                     4 |                  3 |                   47 |
-| Racing 92            |       22 |      9 |                  -23 |                     6 |                  1 |                   45 |
-| Clermont Auvergne    |       22 |      9 |                  -29 |                     4 |                  4 |                   44 |
-| Montpellier Herault  |       22 |      9 |                   15 |                     5 |                  2 |                   43 |
-| Perpignan            |       21 |      9 |                 -101 |                     2 |                  2 |                   42 |
-| Stade Francais Paris |       22 |      8 |                 -133 |                     2 |                  2 |                   36 |
-| Vannes               |       21 |      7 |                 -166 |                     4 |                  1 |                   33 |
+| Stade Toulousain     |       23 |     16 |                  345 |                     4 |                 10 |                   80 |
+| Bordeaux Begles      |       23 |     15 |                  134 |                     5 |                  4 |                   69 |
+| Toulon               |       22 |     14 |                   90 |                     4 |                  7 |                   67 |
+| Castres Olympique    |       22 |     14 |                   10 |                     2 |                  2 |                   60 |
+| Bayonne              |       23 |     13 |                  -11 |                     4 |                  2 |                   60 |
+| La Rochelle          |       23 |     11 |                  -56 |                     3 |                  3 |                   52 |
+| Montpellier Herault  |       23 |     10 |                   46 |                     6 |                  3 |                   49 |
+| Lyon                 |       23 |     11 |                    7 |                     3 |                  2 |                   49 |
+| Clermont Auvergne    |       22 |     10 |                   -5 |                     5 |                  4 |                   49 |
+| Pau                  |       23 |     10 |                  -81 |                     5 |                  3 |                   48 |
+| Racing 92            |       23 |     10 |                  -23 |                     6 |                  1 |                   47 |
+| Perpignan            |       23 |      9 |                 -144 |                     2 |                  2 |                   40 |
+| Stade Francais Paris |       23 |      8 |                 -135 |                     3 |                  2 |                   37 |
+| Vannes               |       22 |      6 |                 -177 |                     5 |                  0 |                   31 |
 
 
 
@@ -39,20 +39,20 @@ aside:
 
 | Club                 |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Stade Toulousain     |                   4 |    3.4 |             37.9782  |                   0.3 |                0.8 |                 14.5 |
-| La Rochelle          |                   4 |    2.9 |             19.2945  |                   0.6 |                0.5 |                 12.7 |
-| Bordeaux Begles      |                   4 |    2.8 |             23.5422  |                   0.6 |                0.5 |                 12.4 |
-| Toulon               |                   4 |    2.2 |              4.54933 |                   1   |                0.4 |                 10.3 |
-| Clermont Auvergne    |                   4 |    2.2 |              5.95066 |                   0.9 |                0.3 |                  9.9 |
-| Lyon                 |                   4 |    2.1 |             -3.44052 |                   0.6 |                0.2 |                  9.3 |
-| Castres Olympique    |                   4 |    2   |             -4.78722 |                   0.7 |                0.2 |                  8.8 |
-| Bayonne              |                   4 |    1.7 |             -2.12578 |                   1.1 |                0.2 |                  8.3 |
-| Racing 92            |                   4 |    1.8 |             -8.7325  |                   0.7 |                0.2 |                  8.2 |
-| Stade Francais Paris |                   4 |    1.6 |             -6.68083 |                   1.1 |                0.2 |                  7.9 |
-| Pau                  |                   4 |    1.6 |             -7.9666  |                   1.2 |                0.2 |                  7.7 |
-| Montpellier Herault  |                   4 |    1.5 |             -8.7589  |                   1.1 |                0.2 |                  7.4 |
-| Perpignan            |                   4 |    1.1 |            -22.771   |                   0.7 |                0.2 |                  5.3 |
-| Vannes               |                   4 |    1   |            -26.0516  |                   0.9 |                0.1 |                  5.1 |
+| Stade Toulousain     |                   3 |    2.7 |            36.8849   |                   0.1 |                1.1 |                 12.1 |
+| Clermont Auvergne    |                   4 |    2.3 |             9.88392  |                   0.9 |                0.7 |                 10.7 |
+| La Rochelle          |                   3 |    2.1 |            15.1381   |                   0.5 |                0.9 |                  9.9 |
+| Bordeaux Begles      |                   3 |    2.1 |            19.4156   |                   0.5 |                0.8 |                  9.6 |
+| Castres Olympique    |                   4 |    2.1 |            -1.38785  |                   0.8 |                0.3 |                  9.3 |
+| Toulon               |                   3 |    1.9 |             6.15782  |                   0.6 |                0.7 |                  9   |
+| Bayonne              |                   3 |    1.5 |             3.69573  |                   0.7 |                0.2 |                  7.1 |
+| Pau                  |                   3 |    1.5 |            -0.246531 |                   0.9 |                0.2 |                  6.9 |
+| Stade Francais Paris |                   3 |    1.4 |            -3.75202  |                   0.7 |                0.1 |                  6.3 |
+| Montpellier Herault  |                   3 |    1.2 |            -6.5474   |                   0.8 |                0.2 |                  5.7 |
+| Racing 92            |                   3 |    1.2 |            -9.98738  |                   0.6 |                0.2 |                  5.6 |
+| Lyon                 |                   3 |    1.1 |           -14.4117   |                   0.6 |                0.2 |                  5.2 |
+| Vannes               |                   3 |    0.7 |           -24.4366   |                   0.5 |                0.1 |                  3.2 |
+| Perpignan            |                   3 |    0.3 |           -30.4067   |                   0.4 |                0   |                  1.8 |
 
 
 
@@ -61,20 +61,20 @@ aside:
 
 | Club                 |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Stade Toulousain     |              26 |   19.4 |             401.978  |                   4.3 |                9.8 |                 93.5 |
-| Bordeaux Begles      |              26 |   16.8 |             151.542  |                   5.6 |                4.5 |                 77.4 |
-| Toulon               |              26 |   16.2 |             118.549  |                   5   |                7.4 |                 77.3 |
-| Bayonne              |              26 |   13.7 |             -16.1258 |                   5.1 |                2.2 |                 62.3 |
-| Castres Olympique    |              26 |   14   |             -55.7872 |                   3.7 |                2.2 |                 61.8 |
-| Lyon                 |              26 |   14.1 |              20.5595 |                   2.6 |                2.2 |                 61.3 |
-| La Rochelle          |              26 |   12.9 |             -37.7055 |                   3.6 |                3.5 |                 60.7 |
-| Pau                  |              26 |   11.6 |             -78.9666 |                   5.2 |                3.2 |                 54.7 |
-| Clermont Auvergne    |              26 |   11.2 |             -23.0493 |                   4.9 |                4.3 |                 53.9 |
-| Racing 92            |              26 |   10.8 |             -31.7325 |                   6.7 |                1.2 |                 53.2 |
-| Montpellier Herault  |              26 |   10.5 |               6.2411 |                   6.1 |                2.2 |                 50.4 |
-| Perpignan            |              25 |   10.1 |            -123.771  |                   2.7 |                2.2 |                 47.3 |
-| Stade Francais Paris |              26 |    9.6 |            -139.681  |                   3.1 |                2.2 |                 43.9 |
-| Vannes               |              25 |    8   |            -192.052  |                   4.9 |                1.1 |                 38.1 |
+| Stade Toulousain     |              26 |   18.7 |            381.885   |                   4.1 |               11.1 |                 92.1 |
+| Bordeaux Begles      |              26 |   17.1 |            153.416   |                   5.5 |                4.8 |                 78.6 |
+| Toulon               |              25 |   15.9 |             96.1578  |                   4.6 |                7.7 |                 76   |
+| Castres Olympique    |              26 |   16.1 |              8.61215 |                   2.8 |                2.3 |                 69.3 |
+| Bayonne              |              26 |   14.5 |             -7.30427 |                   4.7 |                2.2 |                 67.1 |
+| La Rochelle          |              26 |   13.1 |            -40.8619  |                   3.5 |                3.9 |                 61.9 |
+| Clermont Auvergne    |              26 |   12.3 |              4.88392 |                   5.9 |                4.7 |                 59.7 |
+| Pau                  |              26 |   11.5 |            -81.2465  |                   5.9 |                3.2 |                 54.9 |
+| Montpellier Herault  |              26 |   11.2 |             39.4526  |                   6.8 |                3.2 |                 54.7 |
+| Lyon                 |              26 |   12.1 |             -7.41166 |                   3.6 |                2.2 |                 54.2 |
+| Racing 92            |              26 |   11.2 |            -32.9874  |                   6.6 |                1.2 |                 52.6 |
+| Stade Francais Paris |              26 |    9.4 |           -138.752   |                   3.7 |                2.1 |                 43.3 |
+| Perpignan            |              26 |    9.3 |           -174.407   |                   2.4 |                2   |                 41.8 |
+| Vannes               |              25 |    6.7 |           -201.437   |                   5.5 |                0.1 |                 34.2 |
 
 
 
@@ -83,114 +83,21 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 73.2% | 10.4 |
-| Player Level: Lineup | 78.9% | 12.3 |
-| Player Level: Minutes | 75.4% | 12.9 |
+| Club Level | 73.0% | 10.0 |
+| Player Level: Lineup | 76.7% | 12.0 |
+| Player Level: Minutes | 73.3% | 12.9 |
 
 
 # Future Predictions
-
-## Week 23
-
-### Castres Olympique V Clermont Auvergne on 2025/05/10
-
-
-Average Margin: Castres Olympique by 3.1
-
-Average Scoreline: 24-21
-
-<p float="left">
-<img src="plots/performances_2025-05-10-CastresOlympique_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/resultbar_2025-05-10-CastresOlympique_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/spreads_2025-05-10-CastresOlympique_V_ClermontAuvergne.png" width="32%" />
-</p>
-
-### Toulon V Stade Toulousain on 2025/05/10
-
-
-Average Margin: Stade Toulousain by 2.1
-
-Average Scoreline: 32-30
-
-<p float="left">
-<img src="plots/performances_2025-05-10-Toulon_V_StadeToulousain.png" width="32%" />
-<img src="plots/resultbar_2025-05-10-Toulon_V_StadeToulousain.png" width="32%" />
-<img src="plots/spreads_2025-05-10-Toulon_V_StadeToulousain.png" width="32%" />
-</p>
-
-### Lyon V Pau on 2025/05/10
-
-
-Average Margin: Lyon by 6.1
-
-Average Scoreline: 31-25
-
-<p float="left">
-<img src="plots/performances_2025-05-10-Lyon_V_Pau.png" width="32%" />
-<img src="plots/resultbar_2025-05-10-Lyon_V_Pau.png" width="32%" />
-<img src="plots/spreads_2025-05-10-Lyon_V_Pau.png" width="32%" />
-</p>
-
-### Vannes V La Rochelle on 2025/05/10
-
-
-Average Margin: La Rochelle by 4.1
-
-Average Scoreline: 30-26
-
-<p float="left">
-<img src="plots/performances_2025-05-10-Vannes_V_LaRochelle.png" width="32%" />
-<img src="plots/resultbar_2025-05-10-Vannes_V_LaRochelle.png" width="32%" />
-<img src="plots/spreads_2025-05-10-Vannes_V_LaRochelle.png" width="32%" />
-</p>
-
-### Racing 92 V Bayonne on 2025/05/10
-
-
-Average Margin: Racing 92 by 4.4
-
-Average Scoreline: 31-26
-
-<p float="left">
-<img src="plots/performances_2025-05-10-Racing92_V_Bayonne.png" width="32%" />
-<img src="plots/resultbar_2025-05-10-Racing92_V_Bayonne.png" width="32%" />
-<img src="plots/spreads_2025-05-10-Racing92_V_Bayonne.png" width="32%" />
-</p>
-
-### Perpignan V Stade Francais Paris on 2025/05/10
-
-
-Average Margin: Perpignan by 3.2
-
-Average Scoreline: 27-24
-
-<p float="left">
-<img src="plots/performances_2025-05-10-Perpignan_V_StadeFrancaisParis.png" width="32%" />
-<img src="plots/resultbar_2025-05-10-Perpignan_V_StadeFrancaisParis.png" width="32%" />
-<img src="plots/spreads_2025-05-10-Perpignan_V_StadeFrancaisParis.png" width="32%" />
-</p>
-
-### Montpellier Herault V Bordeaux Begles on 2025/05/11
-
-
-Average Margin: Bordeaux Begles by 2.2
-
-Average Scoreline: 31-28
-
-<p float="left">
-<img src="plots/performances_2025-05-11-MontpellierHerault_V_BordeauxBegles.png" width="32%" />
-<img src="plots/resultbar_2025-05-11-MontpellierHerault_V_BordeauxBegles.png" width="32%" />
-<img src="plots/spreads_2025-05-11-MontpellierHerault_V_BordeauxBegles.png" width="32%" />
-</p>
 
 ## Week 24
 
 ### Clermont Auvergne V Perpignan on 2025/05/17
 
 
-Average Margin: Clermont Auvergne by 6.7
+Average Margin: Clermont Auvergne by 9.2
 
-Average Scoreline: 27-21
+Average Scoreline: 35-26
 
 <p float="left">
 <img src="plots/performances_2025-05-17-ClermontAuvergne_V_Perpignan.png" width="32%" />
@@ -201,9 +108,9 @@ Average Scoreline: 27-21
 ### Bordeaux Begles V Castres Olympique on 2025/05/17
 
 
-Average Margin: Bordeaux Begles by 10.4
+Average Margin: Bordeaux Begles by 8.5
 
-Average Scoreline: 40-29
+Average Scoreline: 33-24
 
 <p float="left">
 <img src="plots/performances_2025-05-17-BordeauxBegles_V_CastresOlympique.png" width="32%" />
@@ -211,38 +118,12 @@ Average Scoreline: 40-29
 <img src="plots/spreads_2025-05-17-BordeauxBegles_V_CastresOlympique.png" width="32%" />
 </p>
 
-### Bayonne V Vannes on 2025/05/17
-
-
-Average Margin: Bayonne by 8.7
-
-Average Scoreline: 32-23
-
-<p float="left">
-<img src="plots/performances_2025-05-17-Bayonne_V_Vannes.png" width="32%" />
-<img src="plots/resultbar_2025-05-17-Bayonne_V_Vannes.png" width="32%" />
-<img src="plots/spreads_2025-05-17-Bayonne_V_Vannes.png" width="32%" />
-</p>
-
-### Pau V Toulon on 2025/05/17
-
-
-Average Margin: Toulon by 1.8
-
-Average Scoreline: 34-32
-
-<p float="left">
-<img src="plots/performances_2025-05-17-Pau_V_Toulon.png" width="32%" />
-<img src="plots/resultbar_2025-05-17-Pau_V_Toulon.png" width="32%" />
-<img src="plots/spreads_2025-05-17-Pau_V_Toulon.png" width="32%" />
-</p>
-
 ### Stade Francais Paris V Lyon on 2025/05/17
 
 
-Average Margin: Stade Francais Paris by 0.7
+Average Margin: Stade Francais Paris by 2.8
 
-Average Scoreline: 23-22
+Average Scoreline: 29-27
 
 <p float="left">
 <img src="plots/performances_2025-05-17-StadeFrancaisParis_V_Lyon.png" width="32%" />
@@ -250,25 +131,25 @@ Average Scoreline: 23-22
 <img src="plots/spreads_2025-05-17-StadeFrancaisParis_V_Lyon.png" width="32%" />
 </p>
 
-### La Rochelle V Montpellier Herault on 2025/05/17
+### Pau V Toulon on 2025/05/17
 
 
-Average Margin: La Rochelle by 6.4
+Average Margin: Toulon by 2.4
 
-Average Scoreline: 24-17
+Average Scoreline: 35-33
 
 <p float="left">
-<img src="plots/performances_2025-05-17-LaRochelle_V_MontpellierHerault.png" width="32%" />
-<img src="plots/resultbar_2025-05-17-LaRochelle_V_MontpellierHerault.png" width="32%" />
-<img src="plots/spreads_2025-05-17-LaRochelle_V_MontpellierHerault.png" width="32%" />
+<img src="plots/performances_2025-05-17-Pau_V_Toulon.png" width="32%" />
+<img src="plots/resultbar_2025-05-17-Pau_V_Toulon.png" width="32%" />
+<img src="plots/spreads_2025-05-17-Pau_V_Toulon.png" width="32%" />
 </p>
 
 ### Stade Toulousain V Racing 92 on 2025/05/17
 
 
-Average Margin: Stade Toulousain by 13.2
+Average Margin: Stade Toulousain by 12.2
 
-Average Scoreline: 38-25
+Average Scoreline: 33-21
 
 <p float="left">
 <img src="plots/performances_2025-05-17-StadeToulousain_V_Racing92.png" width="32%" />
@@ -276,14 +157,81 @@ Average Scoreline: 38-25
 <img src="plots/spreads_2025-05-17-StadeToulousain_V_Racing92.png" width="32%" />
 </p>
 
+### Bayonne V Vannes on 2025/05/17
+
+
+Average Margin: Bayonne by 9.2
+
+Average Scoreline: 31-22
+
+<p float="left">
+<img src="plots/performances_2025-05-17-Bayonne_V_Vannes.png" width="32%" />
+<img src="plots/resultbar_2025-05-17-Bayonne_V_Vannes.png" width="32%" />
+<img src="plots/spreads_2025-05-17-Bayonne_V_Vannes.png" width="32%" />
+</p>
+
+### La Rochelle V Montpellier Herault on 2025/05/18
+
+
+Average Margin: La Rochelle by 5.5
+
+Average Scoreline: 27-22
+
+<p float="left">
+<img src="plots/performances_2025-05-18-LaRochelle_V_MontpellierHerault.png" width="32%" />
+<img src="plots/resultbar_2025-05-18-LaRochelle_V_MontpellierHerault.png" width="32%" />
+<img src="plots/spreads_2025-05-18-LaRochelle_V_MontpellierHerault.png" width="32%" />
+</p>
+
 ## Week 25
+
+### Castres Olympique V Clermont Auvergne on 2025/05/24
+
+
+Average Margin: Castres Olympique by 3.4
+
+Average Scoreline: 31-28
+
+<p float="left">
+<img src="plots/performances_2025-05-24-CastresOlympique_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-CastresOlympique_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/spreads_2025-05-24-CastresOlympique_V_ClermontAuvergne.png" width="32%" />
+</p>
+
+## Week 26
+
+### Vannes V Pau on 2025/05/31
+
+
+Average Margin: Pau by 1.6
+
+Average Scoreline: 37-35
+
+<p float="left">
+<img src="plots/performances_2025-05-31-Vannes_V_Pau.png" width="32%" />
+<img src="plots/resultbar_2025-05-31-Vannes_V_Pau.png" width="32%" />
+<img src="plots/spreads_2025-05-31-Vannes_V_Pau.png" width="32%" />
+</p>
+
+### Stade Toulousain V Lyon on 2025/05/31
+
+
+Average Margin: Stade Toulousain by 13.7
+
+Average Scoreline: 35-22
+
+<p float="left">
+<img src="plots/performances_2025-05-31-StadeToulousain_V_Lyon.png" width="32%" />
+<img src="plots/resultbar_2025-05-31-StadeToulousain_V_Lyon.png" width="32%" />
+<img src="plots/spreads_2025-05-31-StadeToulousain_V_Lyon.png" width="32%" />
+</p>
 
 ### Toulon V Bordeaux Begles on 2025/05/31
 
 
-Average Margin: Toulon by 2.9
+Average Margin: Toulon by 2.8
 
-Average Scoreline: 30-28
+Average Scoreline: 29-26
 
 <p float="left">
 <img src="plots/performances_2025-05-31-Toulon_V_BordeauxBegles.png" width="32%" />
@@ -291,30 +239,30 @@ Average Scoreline: 30-28
 <img src="plots/spreads_2025-05-31-Toulon_V_BordeauxBegles.png" width="32%" />
 </p>
 
-### Clermont Auvergne V Stade Francais Paris on 2025/05/31
+### Racing 92 V Montpellier Herault on 2025/05/31
 
 
-Average Margin: Clermont Auvergne by 6.1
+Average Margin: Racing 92 by 4.3
 
-Average Scoreline: 26-20
+Average Scoreline: 30-25
 
 <p float="left">
-<img src="plots/performances_2025-05-31-ClermontAuvergne_V_StadeFrancaisParis.png" width="32%" />
-<img src="plots/resultbar_2025-05-31-ClermontAuvergne_V_StadeFrancaisParis.png" width="32%" />
-<img src="plots/spreads_2025-05-31-ClermontAuvergne_V_StadeFrancaisParis.png" width="32%" />
+<img src="plots/performances_2025-05-31-Racing92_V_MontpellierHerault.png" width="32%" />
+<img src="plots/resultbar_2025-05-31-Racing92_V_MontpellierHerault.png" width="32%" />
+<img src="plots/spreads_2025-05-31-Racing92_V_MontpellierHerault.png" width="32%" />
 </p>
 
-### Vannes V Pau on 2025/05/31
+### La Rochelle V Perpignan on 2025/05/31
 
 
-Average Margin: Vannes by 0.5
+Average Margin: La Rochelle by 10.2
 
-Average Scoreline: 25-24
+Average Scoreline: 35-25
 
 <p float="left">
-<img src="plots/performances_2025-05-31-Vannes_V_Pau.png" width="32%" />
-<img src="plots/resultbar_2025-05-31-Vannes_V_Pau.png" width="32%" />
-<img src="plots/spreads_2025-05-31-Vannes_V_Pau.png" width="32%" />
+<img src="plots/performances_2025-05-31-LaRochelle_V_Perpignan.png" width="32%" />
+<img src="plots/resultbar_2025-05-31-LaRochelle_V_Perpignan.png" width="32%" />
+<img src="plots/spreads_2025-05-31-LaRochelle_V_Perpignan.png" width="32%" />
 </p>
 
 ### Castres Olympique V Bayonne on 2025/05/31
@@ -330,110 +278,32 @@ Average Scoreline: 28-24
 <img src="plots/spreads_2025-05-31-CastresOlympique_V_Bayonne.png" width="32%" />
 </p>
 
-### Stade Toulousain V Lyon on 2025/05/31
+### Clermont Auvergne V Stade Francais Paris on 2025/05/31
 
 
-Average Margin: Stade Toulousain by 12.6
+Average Margin: Clermont Auvergne by 7.3
 
-Average Scoreline: 31-18
+Average Scoreline: 33-26
 
 <p float="left">
-<img src="plots/performances_2025-05-31-StadeToulousain_V_Lyon.png" width="32%" />
-<img src="plots/resultbar_2025-05-31-StadeToulousain_V_Lyon.png" width="32%" />
-<img src="plots/spreads_2025-05-31-StadeToulousain_V_Lyon.png" width="32%" />
+<img src="plots/performances_2025-05-31-ClermontAuvergne_V_StadeFrancaisParis.png" width="32%" />
+<img src="plots/resultbar_2025-05-31-ClermontAuvergne_V_StadeFrancaisParis.png" width="32%" />
+<img src="plots/spreads_2025-05-31-ClermontAuvergne_V_StadeFrancaisParis.png" width="32%" />
 </p>
 
-### Racing 92 V Montpellier Herault on 2025/05/31
+## Week 27
+
+### Perpignan V Stade Toulousain on 2025/06/07
 
 
-Average Margin: Racing 92 by 3.9
+Average Margin: Stade Toulousain by 11.0
 
-Average Scoreline: 33-29
-
-<p float="left">
-<img src="plots/performances_2025-05-31-Racing92_V_MontpellierHerault.png" width="32%" />
-<img src="plots/resultbar_2025-05-31-Racing92_V_MontpellierHerault.png" width="32%" />
-<img src="plots/spreads_2025-05-31-Racing92_V_MontpellierHerault.png" width="32%" />
-</p>
-
-### La Rochelle V Perpignan on 2025/05/31
-
-
-Average Margin: La Rochelle by 9.2
-
-Average Scoreline: 31-21
+Average Scoreline: 41-30
 
 <p float="left">
-<img src="plots/performances_2025-05-31-LaRochelle_V_Perpignan.png" width="32%" />
-<img src="plots/resultbar_2025-05-31-LaRochelle_V_Perpignan.png" width="32%" />
-<img src="plots/spreads_2025-05-31-LaRochelle_V_Perpignan.png" width="32%" />
-</p>
-
-## Week 26
-
-### Montpellier Herault V Clermont Auvergne on 2025/06/07
-
-
-Average Margin: Montpellier Herault by 3.8
-
-Average Scoreline: 26-23
-
-<p float="left">
-<img src="plots/performances_2025-06-07-MontpellierHerault_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/resultbar_2025-06-07-MontpellierHerault_V_ClermontAuvergne.png" width="32%" />
-<img src="plots/spreads_2025-06-07-MontpellierHerault_V_ClermontAuvergne.png" width="32%" />
-</p>
-
-### Bayonne V Toulon on 2025/06/07
-
-
-Average Margin: Toulon by 2.0
-
-Average Scoreline: 35-33
-
-<p float="left">
-<img src="plots/performances_2025-06-07-Bayonne_V_Toulon.png" width="32%" />
-<img src="plots/resultbar_2025-06-07-Bayonne_V_Toulon.png" width="32%" />
-<img src="plots/spreads_2025-06-07-Bayonne_V_Toulon.png" width="32%" />
-</p>
-
-### Pau V La Rochelle on 2025/06/07
-
-
-Average Margin: Pau by 0.4
-
-Average Scoreline: 30-30
-
-<p float="left">
-<img src="plots/performances_2025-06-07-Pau_V_LaRochelle.png" width="32%" />
-<img src="plots/resultbar_2025-06-07-Pau_V_LaRochelle.png" width="32%" />
-<img src="plots/spreads_2025-06-07-Pau_V_LaRochelle.png" width="32%" />
-</p>
-
-### Lyon V Racing 92 on 2025/06/07
-
-
-Average Margin: Lyon by 3.8
-
-Average Scoreline: 29-26
-
-<p float="left">
-<img src="plots/performances_2025-06-07-Lyon_V_Racing92.png" width="32%" />
-<img src="plots/resultbar_2025-06-07-Lyon_V_Racing92.png" width="32%" />
-<img src="plots/spreads_2025-06-07-Lyon_V_Racing92.png" width="32%" />
-</p>
-
-### Stade Francais Paris V Castres Olympique on 2025/06/07
-
-
-Average Margin: Stade Francais Paris by 1.9
-
-Average Scoreline: 26-25
-
-<p float="left">
-<img src="plots/performances_2025-06-07-StadeFrancaisParis_V_CastresOlympique.png" width="32%" />
-<img src="plots/resultbar_2025-06-07-StadeFrancaisParis_V_CastresOlympique.png" width="32%" />
-<img src="plots/spreads_2025-06-07-StadeFrancaisParis_V_CastresOlympique.png" width="32%" />
+<img src="plots/performances_2025-06-07-Perpignan_V_StadeToulousain.png" width="32%" />
+<img src="plots/resultbar_2025-06-07-Perpignan_V_StadeToulousain.png" width="32%" />
+<img src="plots/spreads_2025-06-07-Perpignan_V_StadeToulousain.png" width="32%" />
 </p>
 
 ### Bordeaux Begles V Vannes on 2025/06/07
@@ -441,7 +311,7 @@ Average Scoreline: 26-25
 
 Average Margin: Bordeaux Begles by 13.7
 
-Average Scoreline: 42-28
+Average Scoreline: 34-20
 
 <p float="left">
 <img src="plots/performances_2025-06-07-BordeauxBegles_V_Vannes.png" width="32%" />
@@ -449,15 +319,67 @@ Average Scoreline: 42-28
 <img src="plots/spreads_2025-06-07-BordeauxBegles_V_Vannes.png" width="32%" />
 </p>
 
-### Perpignan V Stade Toulousain on 2025/06/07
+### Stade Francais Paris V Castres Olympique on 2025/06/07
 
 
-Average Margin: Stade Toulousain by 10.1
+Average Margin: Stade Francais Paris by 0.8
 
-Average Scoreline: 41-31
+Average Scoreline: 35-34
 
 <p float="left">
-<img src="plots/performances_2025-06-07-Perpignan_V_StadeToulousain.png" width="32%" />
-<img src="plots/resultbar_2025-06-07-Perpignan_V_StadeToulousain.png" width="32%" />
-<img src="plots/spreads_2025-06-07-Perpignan_V_StadeToulousain.png" width="32%" />
+<img src="plots/performances_2025-06-07-StadeFrancaisParis_V_CastresOlympique.png" width="32%" />
+<img src="plots/resultbar_2025-06-07-StadeFrancaisParis_V_CastresOlympique.png" width="32%" />
+<img src="plots/spreads_2025-06-07-StadeFrancaisParis_V_CastresOlympique.png" width="32%" />
+</p>
+
+### Bayonne V Toulon on 2025/06/07
+
+
+Average Margin: Toulon by 1.0
+
+Average Scoreline: 32-31
+
+<p float="left">
+<img src="plots/performances_2025-06-07-Bayonne_V_Toulon.png" width="32%" />
+<img src="plots/resultbar_2025-06-07-Bayonne_V_Toulon.png" width="32%" />
+<img src="plots/spreads_2025-06-07-Bayonne_V_Toulon.png" width="32%" />
+</p>
+
+### Montpellier Herault V Clermont Auvergne on 2025/06/07
+
+
+Average Margin: Montpellier Herault by 3.3
+
+Average Scoreline: 31-28
+
+<p float="left">
+<img src="plots/performances_2025-06-07-MontpellierHerault_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/resultbar_2025-06-07-MontpellierHerault_V_ClermontAuvergne.png" width="32%" />
+<img src="plots/spreads_2025-06-07-MontpellierHerault_V_ClermontAuvergne.png" width="32%" />
+</p>
+
+### Lyon V Racing 92 on 2025/06/07
+
+
+Average Margin: Lyon by 2.1
+
+Average Scoreline: 33-30
+
+<p float="left">
+<img src="plots/performances_2025-06-07-Lyon_V_Racing92.png" width="32%" />
+<img src="plots/resultbar_2025-06-07-Lyon_V_Racing92.png" width="32%" />
+<img src="plots/spreads_2025-06-07-Lyon_V_Racing92.png" width="32%" />
+</p>
+
+### Pau V La Rochelle on 2025/06/07
+
+
+Average Margin: Pau by 0.6
+
+Average Scoreline: 34-34
+
+<p float="left">
+<img src="plots/performances_2025-06-07-Pau_V_LaRochelle.png" width="32%" />
+<img src="plots/resultbar_2025-06-07-Pau_V_LaRochelle.png" width="32%" />
+<img src="plots/spreads_2025-06-07-Pau_V_LaRochelle.png" width="32%" />
 </p>

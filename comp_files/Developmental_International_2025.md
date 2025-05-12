@@ -1,6 +1,6 @@
 ---  
 title: "Developmental International 2025 Status"  
-date: 2025-05-09 6:00:00 -0500  
+date: 2025-05-12 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -21,33 +21,36 @@ aside:
 |      4 | Andorra                |  1218.28 |
 |      5 | Cayman Islands         |  1182.69 |
 |      6 | Moldova                |  1177.54 |
-|      7 | Ukraine                |  1126.25 |
-|      8 | Israel                 |  1124.69 |
-|      9 | Denmark                |  1098.91 |
-|     10 | Austria                |  1052.12 |
-|     11 | Cyprus                 |  1043.74 |
-|     12 | Latvia                 |  1019.94 |
-|     13 | Finland                |  1000.53 |
-|     14 | Slovenia               |   996.03 |
-|     15 | Bulgaria               |   977.45 |
-|     16 | Jamaica                |   886.04 |
-|     17 | Serbia                 |   842.55 |
-|     18 | Hungary                |   842.44 |
-|     19 | Turkey                 |   706.52 |
-|     20 | Bosnia and Herzegovina |   705.88 |
-|     21 | Guyana                 |   541.41 |
-|     22 | Norway                 |   518.54 |
-|     23 | Malaysia               |   466.84 |
-|     24 | Montenegro             |   361.23 |
-|     25 | Kosovo                 |   135.03 |
-|     26 | Slovakia               |   121.37 |
-|     27 | Estonia                |  -506.92 |
+|      7 | Barbados               |  1175.27 |
+|      8 | Ukraine                |  1126.25 |
+|      9 | Israel                 |  1124.69 |
+|     10 | Denmark                |  1116.26 |
+|     11 | Austria                |  1052.12 |
+|     12 | Cyprus                 |  1043.74 |
+|     13 | Latvia                 |  1019.94 |
+|     14 | Finland                |  1011.09 |
+|     15 | Serbia                 |  1006.54 |
+|     16 | Slovenia               |   996.03 |
+|     17 | Bulgaria               |   949.97 |
+|     18 | Jamaica                |   886.04 |
+|     19 | Hungary                |   842.44 |
+|     20 | Turkey                 |   706.52 |
+|     21 | Bosnia and Herzegovina |   705.88 |
+|     22 | Bermuda                |   673.89 |
+|     23 | Guyana                 |   541.41 |
+|     24 | Norway                 |   517.64 |
+|     25 | Malaysia               |   466.84 |
+|     26 | Montenegro             |   361.23 |
+|     27 | Kosovo                 |   135.03 |
+|     28 | Slovakia               |   121.37 |
+|     29 | Bahamas                |    -7.35 |
+|     30 | Estonia                |  -505.77 |
 # Completed Match Review
 
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 55.0% | 21.8 |
+| Club Level | 60.9% | 22.5 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -56,41 +59,28 @@ aside:
 
 ## Week 5
 
-### Estonia V Finland on 2025/05/10
+### Barbados V Guyana on 2025/05/17
 
 
-Average Margin: Finland by 45.3
+Average Margin: Barbados by 38.6
 
-Average Scoreline: 50-5
+Average Scoreline: 57-18
 
 <p float="left">
-<img src="plots/performances_2025-05-10-Estonia_V_Finland.png" width="32%" />
-<img src="plots/resultbar_2025-05-10-Estonia_V_Finland.png" width="32%" />
-<img src="plots/spreads_2025-05-10-Estonia_V_Finland.png" width="32%" />
+<img src="plots/performances_2025-05-17-Barbados_V_Guyana.png" width="32%" />
+<img src="plots/resultbar_2025-05-17-Barbados_V_Guyana.png" width="32%" />
+<img src="plots/spreads_2025-05-17-Barbados_V_Guyana.png" width="32%" />
 </p>
 
-### Norway V Denmark on 2025/05/10
+### Bahamas V Bermuda on 2025/05/17
 
 
-Average Margin: Denmark by 23.5
+Average Margin: Bermuda by 30.0
 
-Average Scoreline: 41-18
-
-<p float="left">
-<img src="plots/performances_2025-05-10-Norway_V_Denmark.png" width="32%" />
-<img src="plots/resultbar_2025-05-10-Norway_V_Denmark.png" width="32%" />
-<img src="plots/spreads_2025-05-10-Norway_V_Denmark.png" width="32%" />
-</p>
-
-### Serbia V Bulgaria on 2025/05/10
-
-
-Average Margin: Serbia by 3.9
-
-Average Scoreline: 34-30
+Average Scoreline: 43-13
 
 <p float="left">
-<img src="plots/performances_2025-05-10-Serbia_V_Bulgaria.png" width="32%" />
-<img src="plots/resultbar_2025-05-10-Serbia_V_Bulgaria.png" width="32%" />
-<img src="plots/spreads_2025-05-10-Serbia_V_Bulgaria.png" width="32%" />
+<img src="plots/performances_2025-05-17-Bahamas_V_Bermuda.png" width="32%" />
+<img src="plots/resultbar_2025-05-17-Bahamas_V_Bermuda.png" width="32%" />
+<img src="plots/spreads_2025-05-17-Bahamas_V_Bermuda.png" width="32%" />
 </p>
