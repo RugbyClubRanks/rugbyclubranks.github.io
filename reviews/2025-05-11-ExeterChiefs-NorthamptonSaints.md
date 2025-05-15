@@ -9,9 +9,9 @@ categories: "Gallagher Premiership 24/25" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.554, which translates to predicting Exeter Chiefs to win by 1.9.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.519, which translates to predicting Exeter Chiefs to win by 0.7.
 
-Our Over/Under is 44.5 - and combined with the spread above, we have a predicted scoreline of 21 to 23
+Our Over/Under is 65.5 - and combined with the spread above, we have a predicted scoreline of 32 to 33
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Exeter Chiefs by 16.5
+## Prediction without Player Minutes: Exeter Chiefs by 17.6
 
 
-Exeter Chiefs by 8.3 on a neutral pitch
+Exeter Chiefs by 9.5 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,19 +69,29 @@ Exeter Chiefs by 8.3 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player       |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:------------------|---------------:|
-|             78 | Tom West            |             60.58 |        1 |             98.14 | Scott Sio         |             80 |
-|             80 | Henry Walker        |             88.03 |        2 |             96.48 | Jack Yeandle      |             80 |
-|             49 | Elliot Millar Mills |             88.21 |        3 |             67.45 | Marcus Street     |             10 |
-|             80 | Ed Prowse           |             58.63 |        4 |             21.95 | Rusiate Tuima     |             40 |
-|             59 | Chunya Munga        |             62.05 |        5 |             90.83 | Dafydd Jenkins    |              0 |
-|             80 | Tom Lockett         |             17.62 |        6 |             87.84 | Jacques Vermeulen |             53 |
-|             78 | Fyn Brown           |             52.11 |        7 |              6.42 | Richard Capstick  |              2 |
-|             54 | Angus Scott-Young   |             24.63 |        8 |             84.29 | Ethan Roots       |              2 |
-|             78 | Jonny Weimann       |             27.7  |        9 |             91.19 | Stu Townsend      |             16 |
-|             80 | Tom James           |              9.09 |       10 |             32.56 | Harvey Skinner    |             31 |
-|             80 | William Glister     |             33.66 |       11 |             44.84 | Paul Brown-Bampoe |             78 |
-|             64 | Tom Litchfield      |             64.41 |       12 |             86.65 | Will Rigg         |             80 |
-|             70 | Tom Seabrook        |              4.15 |       13 |             98.79 | Henry Slade       |             80 |
-|             40 | Toby Cousins        |             84.63 |       14 |             48.25 | Nick Lilley       |             26 |
-|             80 | Jake Garside        |             28.09 |       15 |              2.55 | Josh Hodge        |              2 |
+|             80 | Tom West            |             70.89 |        1 |             98.04 | Scott Sio         |             80 |
+|             59 | Henry Walker        |             87.78 |        2 |             95.42 | Jack Yeandle      |             49 |
+|             53 | Elliot Millar Mills |             90.76 |        3 |             69.5  | Marcus Street     |             80 |
+|              2 | Ed Prowse           |             60    |        4 |             20.96 | Rusiate Tuima     |             24 |
+|             64 | Chunya Munga        |             64.31 |        5 |             89.38 | Dafydd Jenkins    |              7 |
+|              2 | Tom Lockett         |             29.06 |        6 |             88.03 | Jacques Vermeulen |             46 |
+|             31 | Fyn Brown           |             46.34 |        7 |              7.79 | Richard Capstick  |             80 |
+|             40 | Angus Scott-Young   |             27.4  |        8 |             87.32 | Ethan Roots       |             56 |
+|             40 | Angus Scott-Young   |             27.4  |        8 |             87.32 | Ethan Roots       |             80 |
+|             40 | Angus Scott-Young   |             27.4  |        8 |             87.32 | Ethan Roots       |             40 |
+|             49 | Jonny Weimann       |             43.46 |        9 |             90.64 | Stu Townsend      |             80 |
+|             80 | Tom James           |             69.04 |       10 |             33.47 | Harvey Skinner    |             80 |
+|             78 | Will Glister        |             40.57 |       11 |             35.79 | Paul Brown-Bampoe |             13 |
+|              0 | Tom Litchfield      |             67.18 |       12 |             85.74 | Will Rigg         |             49 |
+|             16 | Tom Seabrook        |              3.49 |       13 |             98.87 | Henry Slade       |             50 |
+|             80 | Toby Cousins        |             40.19 |       14 |             46.99 | Nick Lilley       |             31 |
+|             80 | Jake Garside        |             30.23 |       15 |              2.75 | Josh Hodge        |              0 |
+|              2 | Craig Wright        |            nan    |       16 |             81.49 | Dan Frost         |             31 |
+|             54 | Tarek Haffar        |             79.89 |       17 |            nan    | Kwenzo Blose      |             54 |
+|             78 | Luke Green          |            nan    |       18 |             83.57 | Josh Iosefa-Scott |             49 |
+|             78 | Callum Hunter-Hill  |             56.65 |       19 |             53.11 | Christ Tshiunza   |             67 |
+|             80 | Reuben Logan        |            nan    |       20 |             76.54 | Martin Moloney    |             59 |
+|             10 | Archie Benson       |            nan    |       21 |             85.87 | Tom Cairns        |             24 |
+|              2 | Rafe Witheat        |            nan    |       22 |             42.26 | Will Haydon-Wood  |             34 |
+|             26 | Ewan Baker          |            nan    |       23 |             63.18 | Tamati Tua        |             80 |
 

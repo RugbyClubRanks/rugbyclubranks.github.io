@@ -9,9 +9,9 @@ categories: "Pro D2 24/25" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.611, which translates to predicting Mont-de-Marsan to win by 4.0.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.612, which translates to predicting Mont-de-Marsan to win by 4.0.
 
-Our Over/Under is 39.5 - and combined with the spread above, we have a predicted scoreline of 18 to 22
+Our Over/Under is 58.5 - and combined with the spread above, we have a predicted scoreline of 27 to 31
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Mont-de-Marsan by 7.9
+## Prediction without Player Minutes: Mont-de-Marsan by 8.6
 
 
-Valence Romans Drome Rugby by 5.0 on a neutral pitch
+Valence Romans Drome Rugby by 4.3 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Valence Romans Drome Rugby by 5.0 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             80 | Julien Royer         |             14.7  |        1 |             55.17 | Luka Goginava         |             80 |
-|             48 | Brice Humbert        |             74.65 |        2 |             48.06 | Samuel Lagrange       |             80 |
-|             19 | Vincent Vial         |             65.91 |        3 |             85.22 | Mattéo Lalanne        |             80 |
-|             69 | Éloi Massot          |              8.29 |        4 |             76.1  | Romain Durand         |             80 |
-|             11 | Yassine Maamry       |             68.59 |        5 |             14.63 | Aston Fortuin         |             61 |
-|             80 | Axel Bruchet         |             27.49 |        6 |             12.16 | Waël Ponpon           |             80 |
-|             80 | Loan Real            |             53.83 |        7 |             45.11 | Nicolas Garrault      |             79 |
-|             80 | Sven Bernat Girlando |             83.23 |        8 |             92.57 | Ioane Iashagashvili   |             22 |
-|             54 | Mattéo Rodor         |             12.59 |        9 |             35.61 | Christophe Loustalot  |              0 |
-|             80 | Lucas Meret          |             50.32 |       10 |             90.91 | Willie du Plessis     |             62 |
-|             12 | Adam Vargas          |             96.79 |       11 |             93.29 | Pierre Sayerse        |             49 |
-|             80 | Louis Marrou         |             80.99 |       12 |             88.68 | Nacani Wakaya         |             62 |
-|             58 | Anatole Pauvert      |             82.71 |       13 |             69.77 | Gatien Masse          |             49 |
-|             80 | George Worth         |             35.7  |       14 |             11.19 | Simao Bento           |             27 |
-|             49 | Joris De Moura       |             85.53 |       15 |             19.36 | Yoann Laousse Azpiazu |             27 |
-|             66 | Charles Bouldoire    |             85.11 |       16 |             65.12 | Patricio Fernandez    |             69 |
-|             69 | Philippe Laville     |             21.44 |       17 |             47.89 | Florian Dufour        |             39 |
-|             64 | Otar Giorgadze       |            nan    |       18 |             13.57 | Anthony Alves         |             64 |
-|             26 | Andrea Pontanier     |             83.6  |       19 |              7.71 | Myles Edwards         |             80 |
-|             26 | Gareth Milasinovich  |             21.57 |       20 |             27.18 | Aurélien Lafforgue    |             54 |
-|              3 | Tim Menzel           |             89.03 |       21 |             39.9  | Thomas Bultel         |             16 |
-|             33 | Nathan Huguen        |             56.2  |       22 |             18.72 | Théo Cortes           |             46 |
-|             44 | Dorian Marco Pena    |             86.44 |       23 |             53.6  | Nicolas Darquier      |             53 |
+|             25 | Julien Royer         |             15.78 |        1 |             37.69 | Luka Goginava         |              4 |
+|             25 | Brice Humbert        |             69.27 |        2 |             52.29 | Samuel Lagrange       |             80 |
+|             13 | Vincent Vial         |             57.65 |        3 |             87.41 | Mattéo Lalanne        |             67 |
+|             13 | Éloi Massot          |              9.86 |        4 |             68.9  | Romain Durand         |             13 |
+|             30 | Yassine Maamry       |             62.01 |        5 |             14.16 | Aston Fortuin         |             60 |
+|             30 | Axel Bruchet         |             29.44 |        6 |              9.31 | Waël Ponpon           |             13 |
+|             15 | Loan Real            |             60.11 |        7 |             31.43 | Nicolas Garrault      |              6 |
+|             48 | Sven Bernat Girlando |             80.98 |        8 |             92.43 | Ioane Iashagashvili   |             31 |
+|             67 | Mattéo Rodor         |              9.89 |        9 |             42.58 | Christophe Loustalot  |             40 |
+|             80 | Lucas Meret          |             44.77 |       10 |             90.59 | Willie du Plessis     |             13 |
+|             55 | Adam Vargas          |             95.79 |       11 |             93.01 | Pierre Sayerse        |             32 |
+|             80 | Louis Marrou         |             79.59 |       12 |             86.97 | Nacani Wakaya         |             20 |
+|             80 | Anatole Pauvert      |             80.62 |       13 |             74.97 | Gatien Masse          |             65 |
+|             55 | George Worth         |             33.49 |       14 |             15.31 | Simao Bento           |             55 |
+|             67 | Joris De Moura       |             84.78 |       15 |             24.95 | Yoann Laousse Azpiazu |             49 |
+|             80 | Charles Bouldoire    |             86.26 |       16 |             64.23 | Patricio Fernandez    |             80 |
+|             31 | Philippe Laville     |             21.47 |       17 |             44.65 | Florian Dufour        |             80 |
+|             17 | Otar Giorgadze       |            nan    |       18 |             11.28 | Anthony Alves         |             80 |
+|             80 | Andrea Pontanier     |             81.6  |       19 |              7.94 | Myles Edwards         |             40 |
+|             80 | Gareth Milasinovich  |             22.98 |       20 |             25.97 | Aurélien Lafforgue    |             31 |
+|             74 | Tim Menzel           |             87.81 |       21 |             39.74 | Thomas Bultel         |             76 |
+|             80 | Nathan Huguen        |             60.57 |       22 |             19.03 | Théo Cortes           |             17 |
+|             67 | Dorian Marco Pena    |             83.36 |       23 |             51.94 | Nicolas Darquier      |             57 |
 

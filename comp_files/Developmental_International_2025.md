@@ -1,6 +1,6 @@
 ---  
 title: "Developmental International 2025 Status"  
-date: 2025-05-12 6:00:00 -0500  
+date: 2025-05-15 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -36,21 +36,21 @@ aside:
 |     19 | Hungary                |   842.44 |
 |     20 | Turkey                 |   706.52 |
 |     21 | Bosnia and Herzegovina |   705.88 |
-|     22 | Bermuda                |   673.89 |
-|     23 | Guyana                 |   541.41 |
-|     24 | Norway                 |   517.64 |
-|     25 | Malaysia               |   466.84 |
+|     22 | Guyana                 |   541.41 |
+|     23 | Norway                 |   517.64 |
+|     24 | Malaysia               |   466.84 |
+|     25 | Bermuda                |   460.21 |
 |     26 | Montenegro             |   361.23 |
-|     27 | Kosovo                 |   135.03 |
-|     28 | Slovakia               |   121.37 |
-|     29 | Bahamas                |    -7.35 |
+|     27 | Bahamas                |   328.1  |
+|     28 | Kosovo                 |   135.03 |
+|     29 | Slovakia               |   121.37 |
 |     30 | Estonia                |  -505.77 |
 # Completed Match Review
 
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 60.9% | 22.5 |
+| Club Level | 58.3% | 22.7 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -59,28 +59,28 @@ aside:
 
 ## Week 5
 
-### Barbados V Guyana on 2025/05/17
-
-
-Average Margin: Barbados by 38.6
-
-Average Scoreline: 57-18
-
-<p float="left">
-<img src="plots/performances_2025-05-17-Barbados_V_Guyana.png" width="32%" />
-<img src="plots/resultbar_2025-05-17-Barbados_V_Guyana.png" width="32%" />
-<img src="plots/spreads_2025-05-17-Barbados_V_Guyana.png" width="32%" />
-</p>
-
 ### Bahamas V Bermuda on 2025/05/17
 
 
-Average Margin: Bermuda by 30.0
+Average Margin: Bermuda by 1.9
 
-Average Scoreline: 43-13
+Average Scoreline: 27-26
 
 <p float="left">
 <img src="plots/performances_2025-05-17-Bahamas_V_Bermuda.png" width="32%" />
 <img src="plots/resultbar_2025-05-17-Bahamas_V_Bermuda.png" width="32%" />
 <img src="plots/spreads_2025-05-17-Bahamas_V_Bermuda.png" width="32%" />
+</p>
+
+### Barbados V Guyana on 2025/05/17
+
+
+Average Margin: Barbados by 37.2
+
+Average Scoreline: 56-19
+
+<p float="left">
+<img src="plots/performances_2025-05-17-Barbados_V_Guyana.png" width="32%" />
+<img src="plots/resultbar_2025-05-17-Barbados_V_Guyana.png" width="32%" />
+<img src="plots/spreads_2025-05-17-Barbados_V_Guyana.png" width="32%" />
 </p>

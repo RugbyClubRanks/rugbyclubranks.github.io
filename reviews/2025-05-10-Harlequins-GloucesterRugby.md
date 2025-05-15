@@ -9,9 +9,9 @@ categories: "Gallagher Premiership 24/25" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.713, which translates to predicting Harlequins to win by 8.0.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.757, which translates to predicting Harlequins to win by 10.0.
 
-Our Over/Under is 57.5 - and combined with the spread above, we have a predicted scoreline of 25 to 33
+Our Over/Under is 68.5 - and combined with the spread above, we have a predicted scoreline of 29 to 39
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Harlequins by 9.6
+## Prediction without Player Minutes: Harlequins by 8.9
 
 
-Gloucester Rugby by 4.4 on a neutral pitch
+Gloucester Rugby by 5.1 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -67,30 +67,30 @@ Gloucester Rugby by 4.4 on a neutral pitch
 </p>
 
 
-|   Away Minutes | Away Player        |   Away Percentile |   Number |   Home Percentile | Home Player     |   Home Minutes |
-|---------------:|:-------------------|------------------:|---------:|------------------:|:----------------|---------------:|
-|             50 | Val Rapava-Ruskin  |             80.78 |        1 |             24.47 | Fin Baxter      |             64 |
-|             80 | Sebastian Blake    |             49.3  |        2 |              2.11 | Jack Walker     |             67 |
-|             19 | Afolabi Fasogban   |             81.42 |        3 |             17.45 | Titi Lamositele |             53 |
-|             80 | Arthur Clark       |              8.39 |        4 |             31.22 | Irne Herbst     |             53 |
-|             30 | Freddie Thomas     |             52.29 |        5 |             76.98 | George Hammond  |             64 |
-|             34 | Jack Clement       |              4.5  |        6 |             92.82 | Jack Kenningham |             71 |
-|             80 | Lewis Ludlow       |              8.52 |        7 |             73.85 | Will Evans      |             46 |
-|             55 | Ruan Ackermann     |             64.97 |        8 |             83.01 | Alex Dombrandt  |             46 |
-|             67 | Tomos Williams     |             64.75 |        9 |             24.46 | Will Porter     |             29 |
-|             53 | Gareth Anscombe    |             59.2  |       10 |             77.59 | Marcus Smith    |             30 |
-|             80 | Jake Morris        |             10.21 |       11 |             15.76 | Cadan Murley    |             34 |
-|             35 | Sebastien Atkinson |             22.14 |       12 |             89.18 | Ben Waghorn     |             29 |
-|             24 | Chris Harris       |             30.43 |       13 |              2.22 | Oscar Beard     |             35 |
-|             80 | Christian Wade     |             96.98 |       14 |             70.14 | Rodrigo Isgro   |             80 |
-|             40 | Santiago Carreras  |             82.98 |       15 |             52.77 | Tyrone Green    |             80 |
-|             47 | Ciaran Knight      |              6.98 |       16 |             60.66 | Jordan Els      |             26 |
-|             47 | Jack Singleton     |             91.9  |       17 |             30.81 | Nathan Jibulu   |             69 |
-|             14 | Kirill Gotovtsev   |             88.53 |       18 |            nan    | Ollie Streeter  |             47 |
-|             61 | Cameron Jordan     |             97.46 |       19 |             98.24 | Joe Launchbury  |             60 |
-|             80 | Cameron Jordan     |             97.46 |       19 |             98.24 | Joe Launchbury  |             60 |
-|             80 | Freddie Clarke     |             21.56 |       20 |             63.41 | Tom Lawday      |             40 |
-|             30 | Caolan Englefield  |             35.97 |       21 |            nan    | Jake Murray     |             26 |
-|             26 | Jack Cotgreave     |             41.34 |       22 |             50.05 | Luke Northmore  |             56 |
-|             80 | Charlie Atkinson   |             81.4  |       23 |             19.45 | Jamie Benson    |             80 |
+|   Away Minutes | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player     |   Home Minutes |
+|---------------:|:------------------|------------------:|---------:|------------------:|:----------------|---------------:|
+|             45 | Val Rapava-Ruskin |             79.97 |        1 |             22.08 | Fin Baxter      |             43 |
+|             32 | Seb Blake         |             71.31 |        2 |              3.23 | Jack Walker     |             28 |
+|             40 | Afolabi Fasogbon  |             36.3  |        3 |             17.58 | Titi Lamositele |             43 |
+|             40 | Arthur Clark      |              9.76 |        4 |             31.77 | Irne Herbst     |             45 |
+|             22 | Freddie Thomas    |             55.98 |        5 |             75.12 | George Hammond  |             37 |
+|             80 | Jack Clement      |              4.08 |        6 |             92.59 | Jack Kenningham |             15 |
+|             51 | Lewis Ludlow      |             10.54 |        7 |             71.6  | Will Evans      |             11 |
+|             23 | Ruan Ackermann    |             65.44 |        8 |             83.03 | Alex Dombrandt  |             58 |
+|             29 | Tomos Williams    |             76.5  |        9 |             30.57 | Will Porter     |             48 |
+|             14 | Gareth Anscombe   |             63.81 |       10 |             77.41 | Marcus Smith    |             29 |
+|             66 | Jake Morris       |             11.39 |       11 |             12.82 | Cadan Murley    |              0 |
+|             60 | Seb Atkinson      |             24.1  |       12 |             89.44 | Ben Waghorn     |             13 |
+|             36 | Chris Harris      |             38.15 |       13 |              1.44 | Oscar Beard     |             66 |
+|             80 | Christian Wade    |             96.65 |       14 |             68.8  | Rodrigo Isgro   |             73 |
+|             79 | Santiago Carreras |             81.4  |       15 |             57.72 | Tyrone Green    |             80 |
+|             15 | Jack Singleton    |             90.32 |       16 |             28.52 | Nathan Jibulu   |             11 |
+|             35 | Ciaran Knight     |              5.64 |       17 |             60.92 | Jordan Els      |             36 |
+|             80 | Kirill Gotovtsev  |             88.96 |       18 |            nan    | Ollie Streeter  |             52 |
+|             80 | Cameron Jordan    |             96.94 |       19 |             97.51 | Joe Launchbury  |              9 |
+|             65 | Cameron Jordan    |             96.94 |       19 |             97.51 | Joe Launchbury  |              9 |
+|             80 | Freddie Clarke    |             22.49 |       20 |             65.81 | Tom Lawday      |             80 |
+|             58 | Caolan Englefield |             34.28 |       21 |            nan    | Jake Murray     |             80 |
+|             80 | Charlie Atkinson  |             80.75 |       22 |            nan    | Jamie Benson    |              7 |
+|             60 | Jack Cotgreave    |            nan    |       23 |             48.41 | Luke Northmore  |             60 |
 

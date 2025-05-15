@@ -9,9 +9,9 @@ categories: "Top 14 Orange 24/25" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.581, which translates to predicting Perpignan to win by 2.9.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.598, which translates to predicting Perpignan to win by 3.5.
 
-Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 24 to 27
+Our Over/Under is 71.5 - and combined with the spread above, we have a predicted scoreline of 34 to 38
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Perpignan by 19.0
+## Prediction without Player Minutes: Perpignan by 20.0
 
 
-Perpignan by 4.2 on a neutral pitch
+Perpignan by 5.2 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,26 +69,27 @@ Perpignan by 4.2 on a neutral pitch
 
 |   Away Minutes | Away Player              |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:-------------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|             51 | Clement Castets          |             68.74 |        1 |             14.05 | Bruce Devaux          |             52 |
-|             80 | Giacomo Nicotera         |             97.01 |        2 |             90.49 | Ignacio Ruiz          |             52 |
-|             58 | Paul Alo-Emile           |             54.2  |        3 |              4.04 | Kieran Brookes        |             50 |
-|             26 | Paul Gabrillagues        |              2.73 |        4 |             55.41 | Jacobus van Tonder    |             18 |
-|             80 | Baptiste Pesenti         |             28.59 |        5 |             69.95 | Mathieu Tanguy        |              4 |
-|             80 | Tanginoa Halaifonua      |              8.72 |        6 |             88.22 | Patrick Sobela        |             18 |
-|             65 | Romain Briatte           |              8.24 |        7 |             50.38 | Noe Della Schiava     |             18 |
-|             80 | Sekou Macalou            |             76.01 |        8 |              6.58 | Lucas Velarte         |             67 |
-|              9 | Louis Foursans-Bourdette |              3.24 |        9 |             83.99 | James Hall            |             80 |
-|             66 | Zack Henry               |             58.14 |       10 |             76.53 | Jake McIntyre         |             80 |
-|             80 | Lester Etien             |             64.01 |       11 |              1.56 | Alivereti Duguivalu   |             52 |
-|             37 | Julien Delbouis          |             91    |       12 |             96.26 | Jeronimo de la Fuente |             36 |
-|             80 | Joe Marchant             |             47.32 |       13 |              5.46 | Eneriko Buliruarua    |             80 |
-|             11 | Peniasi Dakuwaqa         |             57    |       14 |             26.17 | Tavite Veredamu       |             60 |
-|             60 | Joe Jonas                |             72.55 |       15 |             90    | Valentin Delpy        |             11 |
-|             73 | Jeremy Ward              |             52.68 |       16 |             60.26 | Pietro Ceccarelli     |             79 |
-|             58 | Moses Alo-Emile          |             18.09 |       17 |             10.73 | Posolo Tuilagi        |             80 |
-|             60 | Juan Martin Scelzo       |              7.12 |       18 |             80.61 | Giorgi Beria          |             61 |
-|             80 | Lucas Peyresblanques     |             13.03 |       19 |              9.76 | Max Hicks             |             80 |
-|             35 | Pierre-Henri Azagoh      |             88.1  |       20 |             60.21 | Seilala Lam           |             80 |
-|             15 | Giorgi Melikidze         |            nan    |       21 |             73.61 | Apisai Naqalevu       |             80 |
-|            nan | nan                      |            nan    |       22 |             60.04 | Tommaso Allan         |             13 |
+|             76 | Clement Castets          |             72.69 |        1 |             14.55 | Bruce Devaux          |             14 |
+|             51 | Giacomo Nicotera         |             94.23 |        2 |             87.61 | Ignacio Ruiz          |             26 |
+|             30 | Paul Alo-Emile           |             32.54 |        3 |              3.43 | Kieran Brookes        |             47 |
+|             28 | Paul Gabrillagues        |              3.16 |        4 |             42.78 | Jacobus van Tonder    |             80 |
+|             65 | Baptiste Pesenti         |             22.01 |        5 |             63.06 | Mathieu Tanguy        |             80 |
+|             31 | Tanginoa Halaifonua      |              7.88 |        6 |             89.84 | Patrick Sobela        |             14 |
+|             29 | Romain Briatte           |              7.03 |        7 |             40.84 | Noe Della Schiava     |             80 |
+|             29 | Sekou Macalou            |             65.64 |        8 |              6.95 | Lucas Velarte         |             65 |
+|             35 | Louis Foursans-Bourdette |              4.42 |        9 |             83.57 | James Hall            |             80 |
+|             80 | Zack Henry               |             60.46 |       10 |             82.64 | Jake McIntyre         |             14 |
+|             80 | Lester Etien             |             63.73 |       11 |              1.91 | Alivereti Duguivalu   |             53 |
+|             80 | Julien Delbouis          |             92.62 |       12 |             96.41 | Jeronimo de la Fuente |             53 |
+|             52 | Joe Marchant             |             28.21 |       13 |              3.9  | Eneriko Buliruarua    |             80 |
+|             29 | Peniasi Dakuwaqa         |             54.07 |       14 |             27.85 | Tavite Veredamu       |             66 |
+|             13 | Joe Jonas                |             70.61 |       15 |             87.1  | Valentin Delpy        |             80 |
+|             29 | Lucas Peyresblanques     |              1.7  |       16 |             42.61 | Seilala Lam           |             65 |
+|             69 | Moses Alo-Emile          |             13.25 |       17 |             79.72 | Giorgi Beria          |             80 |
+|             51 | Pierre-Henri Azagoh      |             87.27 |       18 |             11.1  | Posolo Tuilagi        |             80 |
+|             80 | Juan Martin Scelzo       |              7.66 |       19 |              7.37 | Max Hicks             |             29 |
+|             47 | Thibaut Motassi          |             39.58 |       20 |             15.02 | Gela Aprasidze        |             20 |
+|             53 | Louis Carbonel           |             29.71 |       21 |             48.74 | Tommaso Allan         |             24 |
+|             51 | Jeremy Ward              |             56    |       22 |             74.56 | Apisai Naqalevu       |             17 |
+|             62 | Giorgi Melikidze         |             93.46 |       23 |             38.59 | Pietro Ceccarelli     |             50 |
 

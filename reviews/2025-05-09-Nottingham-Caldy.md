@@ -11,7 +11,7 @@ categories: "RFU Championship 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.803, which translates to predicting Nottingham to win by 12.5.
 
-Our Over/Under is 65.5 - and combined with the spread above, we have a predicted scoreline of 27 to 39
+Our Over/Under is 64.5 - and combined with the spread above, we have a predicted scoreline of 26 to 39
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Nottingham by 9.9
+## Prediction without Player Minutes: Nottingham by 10.5
 
 
-Nottingham by 5.1 on a neutral pitch
+Nottingham by 5.7 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,19 +69,19 @@ Nottingham by 5.1 on a neutral pitch
 
 |   Away Minutes | Away Player       |   Away Percentile |   Number |   Home Percentile | Home Player          |   Home Minutes |
 |---------------:|:------------------|------------------:|---------:|------------------:|:---------------------|---------------:|
-|             80 | Monty Weatherby   |             81.02 |        1 |             23.18 | Aniseko Sio          |              0 |
-|             80 | Oliver Hearn      |              5.28 |        2 |             71.13 | Harry Clayton        |             67 |
-|             80 | Joe Sproston      |              7.03 |        3 |             81.66 | Dan Richardson       |             80 |
-|             80 | Freddie Stevenson |             36.39 |        4 |             88.59 | Finn Carnduff        |             34 |
-|             70 | Thomas Sanders    |             37.27 |        5 |             36.68 | Tom Manz             |             26 |
-|             80 | Jos Gilmore       |             62.64 |        6 |             29.98 | Jacob Wright         |              0 |
-|             13 | Callum Ridgway    |              8.43 |        7 |             41.28 | Seb Kelly            |             21 |
-|             26 | Josiah Dickinson  |             15.29 |        8 |             27.39 | James Cherry         |             25 |
-|             54 | Ollie Wynn        |             29.14 |        9 |             24.64 | Josh Goodwin         |             48 |
-|             80 | Lewis Barker      |             17.34 |       10 |              8.67 | Tom Threlfall        |             80 |
-|              6 | William Robinson  |              3.7  |       11 |             35.12 | Ryan Olowofela       |             10 |
-|             74 | Michael Barlow    |             25.78 |       12 |              7.28 | Gwyn Parks           |             80 |
-|             33 | Connor Wilkinson  |             10.11 |       13 |             16.89 | Kegan Christian-Goss |             70 |
-|             26 | Charlie Hyde      |             45.14 |       14 |              4.96 | David Williams       |             80 |
-|             10 | Matt Kilcourse    |             15.74 |       15 |              0.43 | Jack Stapley         |             70 |
+|             80 | Monty Weatherby   |             77.11 |        1 |             22.32 | Aniseko Sio          |             80 |
+|             68 | Oliver Hearn      |              7.47 |        2 |             79.8  | Harry Clayton        |             67 |
+|             73 | Joe Sproston      |              5.89 |        3 |             81.85 | Dan Richardson       |             61 |
+|             19 | Freddie Stevenson |             28.13 |        4 |             84.88 | Finn Carnduff        |             49 |
+|             29 | Thomas Sanders    |             26.12 |        5 |             32.63 | Tom Manz             |             80 |
+|             80 | Jos Gilmore       |             67.24 |        6 |             22.51 | Jacob Wright         |             80 |
+|             50 | Callum Ridgway    |             10.07 |        7 |             28.49 | Seb Kelly            |             80 |
+|             27 | Josiah Dickinson  |             15.75 |        8 |             48.88 | James Cherry         |             17 |
+|             80 | Ollie Wynn        |             45.41 |        9 |             25.09 | Josh Goodwin         |              0 |
+|             26 | Lewis Barker      |             11.92 |       10 |              9.62 | Tom Threlfall        |             49 |
+|             55 | William Robinson  |              8.42 |       11 |             25.17 | Ryan Olowofela       |              0 |
+|             70 | Michael Barlow    |             35.18 |       12 |              8.41 | Gwyn Parks           |              9 |
+|             64 | Connor Wilkinson  |             11.59 |       13 |             31.59 | Kegan Christian-Goss |             17 |
+|             77 | Charlie Hyde      |             70.53 |       14 |              9.19 | David Williams       |             32 |
+|             46 | Matt Kilcourse    |             14.8  |       15 |              0.63 | Jack Stapley         |             53 |
 
