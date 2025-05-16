@@ -1,6 +1,6 @@
 ---  
 title: "Developmental International 2025 Status"  
-date: 2025-05-15 6:00:00 -0500  
+date: 2025-05-16 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -75,7 +75,7 @@ Average Scoreline: 27-26
 ### Barbados V Guyana on 2025/05/17
 
 
-Average Margin: Barbados by 37.2
+Average Margin: Barbados by 36.8
 
 Average Scoreline: 56-19
 

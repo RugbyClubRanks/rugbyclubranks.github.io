@@ -1,6 +1,6 @@
 ---  
 title: "Super Rugby 2025 Status"  
-date: 2025-05-09 6:00:00 -0500  
+date: 2025-05-16 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,10 +17,10 @@ aside:
 
 | Club                     |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Blues                    |               1 |    0.6 |              2.47588 |                   0.3 |                0.6 |                  3.3 |
-| Queensland Reds          |               1 |    0.6 |              2.43645 |                   0.3 |                0.5 |                  3.2 |
-| New South Wales Waratahs |               1 |    0.4 |             -2.43645 |                   0.4 |                0.2 |                  2.2 |
-| Fijian Drua              |               1 |    0.4 |             -2.47588 |                   0.4 |                0.2 |                  2.1 |
+| Hurricanes               |               1 |    0.8 |              7.25955 |                   0.1 |                0.5 |                  3.9 |
+| Crusaders                |               1 |    0.8 |              6.66264 |                   0.1 |                0.6 |                  3.9 |
+| New South Wales Waratahs |               1 |    0.2 |             -6.66264 |                   0.3 |                0.2 |                  1.4 |
+| Highlanders              |               1 |    0.2 |             -7.25955 |                   0.4 |                0.3 |                  1.4 |
 
 
 
@@ -28,28 +28,28 @@ aside:
 
 ## Week 1
 
-### Fijian Drua V Blues on 2025/05/09
+### Hurricanes V Highlanders on 2025/05/16
 
 
-Average Margin: Blues by 2.5
+Average Margin: Hurricanes by 7.3
 
-Average Scoreline: 32-29
+Average Scoreline: 33-26
 
 <p float="left">
-<img src="plots/performances_2025-05-09-FijianDrua_V_Blues.png" width="32%" />
-<img src="plots/resultbar_2025-05-09-FijianDrua_V_Blues.png" width="32%" />
-<img src="plots/spreads_2025-05-09-FijianDrua_V_Blues.png" width="32%" />
+<img src="plots/performances_2025-05-16-Hurricanes_V_Highlanders.png" width="32%" />
+<img src="plots/resultbar_2025-05-16-Hurricanes_V_Highlanders.png" width="32%" />
+<img src="plots/spreads_2025-05-16-Hurricanes_V_Highlanders.png" width="32%" />
 </p>
 
-### New South Wales Waratahs V Queensland Reds on 2025/05/09
+### New South Wales Waratahs V Crusaders on 2025/05/16
 
 
-Average Margin: Queensland Reds by 2.4
+Average Margin: Crusaders by 6.7
 
-Average Scoreline: 30-28
+Average Scoreline: 39-33
 
 <p float="left">
-<img src="plots/performances_2025-05-09-NewSouthWalesWaratahs_V_QueenslandReds.png" width="32%" />
-<img src="plots/resultbar_2025-05-09-NewSouthWalesWaratahs_V_QueenslandReds.png" width="32%" />
-<img src="plots/spreads_2025-05-09-NewSouthWalesWaratahs_V_QueenslandReds.png" width="32%" />
+<img src="plots/performances_2025-05-16-NewSouthWalesWaratahs_V_Crusaders.png" width="32%" />
+<img src="plots/resultbar_2025-05-16-NewSouthWalesWaratahs_V_Crusaders.png" width="32%" />
+<img src="plots/spreads_2025-05-16-NewSouthWalesWaratahs_V_Crusaders.png" width="32%" />
 </p>

@@ -11,7 +11,7 @@ categories: "Pro D2 24/25" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.688, which translates to predicting Nevers to win by 6.9.
 
-Our Over/Under is 64.5 - and combined with the spread above, we have a predicted scoreline of 29 to 36
+Our Over/Under is 54.5 - and combined with the spread above, we have a predicted scoreline of 24 to 31
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Nevers by 4.6
+## Prediction without Player Minutes: Nevers by 4.4
 
 
-Aurillac by 0.5 on a neutral pitch
+Aurillac by 0.7 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Aurillac by 0.5 on a neutral pitch
 
 |   Away Minutes | Away Player           |   Away Percentile |   Number |   Home Percentile | Home Player                |   Home Minutes |
 |---------------:|:----------------------|------------------:|---------:|------------------:|:---------------------------|---------------:|
-|             80 | Robert Rodgers        |             29.44 |        1 |             16.52 | Lasha Pkhakadze            |             80 |
-|             17 | Ronan Loughnane       |             25.13 |        2 |             20.71 | Jean-Maxence Jules-Rosette |             14 |
-|             32 | Giorgi Kartvelishvili |             30.91 |        3 |             18.97 | Hugo Ndiaye                |             47 |
-|             25 | Louis Bruinsma        |             20.67 |        4 |             46.51 | Ugo Vignolles              |             57 |
-|             65 | Martial Rolland       |             51.87 |        5 |             33.68 | Chris Gabriel              |             80 |
-|             80 | Tim De Jong           |             70.75 |        6 |             44.73 | Luka Plataret              |             80 |
-|             20 | Lucas Oudard          |             54.8  |        7 |             88.6  | Hugues Bastide             |             49 |
-|             40 | Didier Tison          |             10.22 |        8 |             33.74 | Steven David               |             80 |
-|             20 | Mikheil Alania        |             39.22 |        9 |              3.18 | Hugo Bouyssou              |             73 |
-|             80 | Ugo Seunes            |             40.38 |       10 |             13.81 | Shaun Reynolds             |             35 |
-|             20 | Axel Bevia            |             68.42 |       11 |             11.2  | Arthur Mathiron            |             35 |
-|             15 | Ofa Manuofetoa        |             67.49 |       12 |             27.28 | Noa Pommelet               |             40 |
-|             49 | Karl Martin           |             29.13 |       13 |             38.36 | Alivereti Loaloa           |             24 |
-|             80 | Juun Pieters          |             78.56 |       14 |             18.85 | Dylan Jaminet              |             30 |
-|             67 | Jake Strachan         |             21.78 |       15 |             35.94 | Perry Mayo                 |             21 |
-|              8 | Luka Nioradze         |              8.66 |       16 |             27.18 | George Smith               |             55 |
-|              0 | Abongile Nonkontwana  |              0.96 |       17 |             76.26 | Julien Kazubek             |             80 |
-|             34 | Mehdi Slamani         |             39.9  |       18 |             48.05 | Efi Ma'afu                 |             20 |
-|             30 | Gymael Jean-Jacques   |             29.35 |       19 |             65.82 | Aselo Ikahehegi            |             80 |
-|             30 | Hugo Bastard          |             68.31 |       20 |             66.15 | Luka Ungiadze              |             80 |
-|             80 | Hugo Huurman          |             70.18 |       21 |             27.18 | Paula Walisolio            |             70 |
-|             13 | Léopold Dupas         |             74.56 |       22 |             12.76 | Tom Deleuze                |             80 |
-|            nan | nan                   |            nan    |       23 |             15.72 | Simon Tarel                |             80 |
+|             55 | Robert Rodgers        |             33.52 |        1 |             10.69 | Lasha Pkhakadze            |             66 |
+|              0 | Ronan Loughnane       |             15.47 |        2 |             16.52 | Jean-Maxence Jules-Rosette |             48 |
+|              0 | Giorgi Kartvelishvili |             15.8  |        3 |             12.37 | Hugo Ndiaye                |             54 |
+|             17 | Louis Bruinsma        |             21.53 |        4 |             56.28 | Ugo Vignolles              |             80 |
+|             17 | Martial Rolland       |             35.41 |        5 |             30.69 | Chris Gabriel              |             80 |
+|             23 | Tim De Jong           |             48.16 |        6 |             21.47 | Luka Plataret              |             75 |
+|             23 | Lucas Oudard          |             47.87 |        7 |             85.3  | Hugues Bastide             |             80 |
+|             16 | Didier Tison          |             12.66 |        8 |             29.75 | Steven David               |             26 |
+|             69 | Mikheil Alania        |             49.22 |        9 |              2.43 | Hugo Bouyssou              |             58 |
+|             23 | Ugo Seunes            |             50.53 |       10 |             12.84 | Shaun Reynolds             |             58 |
+|             70 | Axel Bevia            |             62.24 |       11 |             12.14 | Arthur Mathiron            |             15 |
+|              0 | Ofa Manuofetoa        |             77.73 |       12 |             27.33 | Noa Pommelet               |             80 |
+|             80 | Karl Martin           |             21.96 |       13 |             32.39 | Alivereti Loaloa           |             80 |
+|             63 | Juun Pieters          |             79.32 |       14 |             11.86 | Dylan Jaminet              |             52 |
+|             80 | Jake Strachan         |             18.03 |       15 |             17.19 | Perry Mayo                 |             80 |
+|             80 | Luka Nioradze         |              3.51 |       16 |             28.23 | George Smith               |             75 |
+|             59 | Abongile Nonkontwana  |              1.7  |       17 |             56.87 | Julien Kazubek             |             61 |
+|             59 | Mehdi Slamani         |             41.17 |       18 |             50.26 | Efi Ma'afu                 |             15 |
+|             80 | Gymael Jean-Jacques   |             29.21 |       19 |             65.28 | Aselo Ikahehegi            |             80 |
+|             14 | Hugo Bastard          |             37.65 |       20 |             65.36 | Luka Ungiadze              |             16 |
+|             24 | Hugo Huurman          |             71.28 |       21 |             29.86 | Paula Walisolio            |             46 |
+|             28 | Léopold Dupas         |             75.48 |       22 |              8.21 | Tom Deleuze                |             23 |
+|            nan | nan                   |            nan    |       23 |              5.22 | Simon Tarel                |             11 |
 

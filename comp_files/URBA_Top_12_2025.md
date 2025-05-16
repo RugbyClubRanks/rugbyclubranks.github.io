@@ -1,6 +1,6 @@
 ---  
 title: "URBA Top 12 2025 Status"  
-date: 2025-05-15 6:00:00 -0500  
+date: 2025-05-16 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -27,8 +27,8 @@ aside:
 
 | Club                |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Los Tilos           |                   1 |    0.9 |              13.5458 |                   0.1 |                0.5 |                  4   |
-| La Plata Rugby Club |                   1 |    0.1 |             -13.5458 |                   0.2 |                0.2 |                  0.9 |
+| Los Tilos           |                   1 |    0.8 |              9.99755 |                   0.1 |                0.4 |                  3.8 |
+| La Plata Rugby Club |                   1 |    0.2 |             -9.99755 |                   0.2 |                0.2 |                  1.2 |
 
 
 
@@ -37,9 +37,9 @@ aside:
 
 | Club                |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| CASI                |               1 |    1   |              40      |                   0   |                0   |                  4   |
-| Los Tilos           |               1 |    0.9 |              13.5458 |                   0.1 |                0.5 |                  4   |
-| La Plata Rugby Club |               2 |    0.1 |             -53.5458 |                   0.2 |                0.2 |                  0.9 |
+| CASI                |               1 |    1   |             40       |                   0   |                0   |                  4   |
+| Los Tilos           |               1 |    0.8 |              9.99755 |                   0.1 |                0.4 |                  3.8 |
+| La Plata Rugby Club |               2 |    0.2 |            -49.9976  |                   0.2 |                0.2 |                  1.2 |
 
 
 
@@ -60,9 +60,9 @@ aside:
 ### Los Tilos V La Plata Rugby Club on 2025/05/17
 
 
-Average Margin: Los Tilos by 13.5
+Average Margin: Los Tilos by 10.0
 
-Average Scoreline: 40-27
+Average Scoreline: 38-28
 
 <p float="left">
 <img src="plots/performances_2025-05-17-LosTilos_V_LaPlataRugbyClub.png" width="32%" />
