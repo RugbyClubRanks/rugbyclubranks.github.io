@@ -1,6 +1,6 @@
 ---  
 title: "World Rugby U20 Championship 2025 Status"  
-date: 2025-05-16 6:00:00 -0500  
+date: 2025-05-22 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,18 +17,18 @@ aside:
 
 | Club             |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| France U20       |               3 |    2.8 |             71.131   |                   0.1 |                2   |                 13.2 |
-| New Zealand U20  |               3 |    2.5 |             37.8532  |                   0.3 |                2.6 |                 12.8 |
-| England U20      |               3 |    2.6 |             46.1308  |                   0.2 |                1.5 |                 12.1 |
-| Australia U20    |               3 |    1.9 |             17.9491  |                   0.4 |                1.2 |                  9.3 |
-| Georgia U20      |               3 |    1.7 |              7.05273 |                   0.5 |                1.2 |                  8.6 |
-| Argentina U20    |               3 |    1.7 |              9.66117 |                   0.4 |                1.2 |                  8.5 |
-| Wales U20        |               3 |    1.2 |             -9.00636 |                   0.4 |                1.2 |                  6.4 |
-| South Africa U20 |               3 |    1.1 |            -14.5061  |                   0.5 |                0.9 |                  5.8 |
-| Ireland U20      |               3 |    1.1 |            -17.0202  |                   0.6 |                0.9 |                  5.8 |
-| Italy U20        |               3 |    0.7 |            -27.8857  |                   0.7 |                0.6 |                  4.1 |
-| Scotland U20     |               3 |    0.4 |            -49.5738  |                   0.4 |                0.5 |                  2.5 |
-| Spain U20        |               3 |    0.3 |            -71.7858  |                   0.3 |                0.5 |                  2   |
+| France U20       |               3 |    2.8 |             69.9755  |                   0.1 |                2.1 |                 13.2 |
+| New Zealand U20  |               3 |    2.5 |             37.124   |                   0.3 |                2.6 |                 12.9 |
+| England U20      |               3 |    2.6 |             47.1176  |                   0.2 |                1.6 |                 12.3 |
+| Australia U20    |               3 |    1.9 |             17.2002  |                   0.4 |                1.2 |                  9.3 |
+| Argentina U20    |               3 |    1.7 |              9.65942 |                   0.4 |                1.3 |                  8.6 |
+| Georgia U20      |               3 |    1.7 |              5.63694 |                   0.5 |                1.2 |                  8.4 |
+| Wales U20        |               3 |    1.2 |             -9.16411 |                   0.4 |                1.3 |                  6.5 |
+| Ireland U20      |               3 |    1.1 |            -15.8949  |                   0.6 |                0.9 |                  5.9 |
+| South Africa U20 |               3 |    1.1 |            -15.4679  |                   0.5 |                0.8 |                  5.6 |
+| Italy U20        |               3 |    0.7 |            -26.8661  |                   0.6 |                0.6 |                  4.2 |
+| Scotland U20     |               3 |    0.4 |            -48.8499  |                   0.4 |                0.5 |                  2.6 |
+| Spain U20        |               3 |    0.3 |            -70.4708  |                   0.3 |                0.5 |                  2   |
 
 
 
@@ -39,9 +39,9 @@ aside:
 ### Australia U20 V South Africa U20 on 2025/06/29
 
 
-Average Margin: Australia U20 by 10.5
+Average Margin: Australia U20 by 10.8
 
-Average Scoreline: 31-21
+Average Scoreline: 34-23
 
 <p float="left">
 <img src="plots/performances_2025-06-29-AustraliaU20_V_SouthAfricaU20.png" width="32%" />
@@ -49,38 +49,12 @@ Average Scoreline: 31-21
 <img src="plots/spreads_2025-06-29-AustraliaU20_V_SouthAfricaU20.png" width="32%" />
 </p>
 
-### England U20 V Scotland U20 on 2025/06/29
-
-
-Average Margin: England U20 by 22.3
-
-Average Scoreline: 44-21
-
-<p float="left">
-<img src="plots/performances_2025-06-29-EnglandU20_V_ScotlandU20.png" width="32%" />
-<img src="plots/resultbar_2025-06-29-EnglandU20_V_ScotlandU20.png" width="32%" />
-<img src="plots/spreads_2025-06-29-EnglandU20_V_ScotlandU20.png" width="32%" />
-</p>
-
-### Ireland U20 V Georgia U20 on 2025/06/29
-
-
-Average Margin: Georgia U20 by 4.8
-
-Average Scoreline: 33-28
-
-<p float="left">
-<img src="plots/performances_2025-06-29-IrelandU20_V_GeorgiaU20.png" width="32%" />
-<img src="plots/resultbar_2025-06-29-IrelandU20_V_GeorgiaU20.png" width="32%" />
-<img src="plots/spreads_2025-06-29-IrelandU20_V_GeorgiaU20.png" width="32%" />
-</p>
-
 ### Argentina U20 V Wales U20 on 2025/06/29
 
 
-Average Margin: Argentina U20 by 6.9
+Average Margin: Argentina U20 by 7.1
 
-Average Scoreline: 28-21
+Average Scoreline: 36-29
 
 <p float="left">
 <img src="plots/performances_2025-06-29-ArgentinaU20_V_WalesU20.png" width="32%" />
@@ -91,9 +65,9 @@ Average Scoreline: 28-21
 ### France U20 V Spain U20 on 2025/06/29
 
 
-Average Margin: France U20 by 33.1
+Average Margin: France U20 by 32.2
 
-Average Scoreline: 62-29
+Average Scoreline: 45-13
 
 <p float="left">
 <img src="plots/performances_2025-06-29-FranceU20_V_SpainU20.png" width="32%" />
@@ -101,14 +75,79 @@ Average Scoreline: 62-29
 <img src="plots/spreads_2025-06-29-FranceU20_V_SpainU20.png" width="32%" />
 </p>
 
+### England U20 V Scotland U20 on 2025/06/29
+
+
+Average Margin: England U20 by 22.3
+
+Average Scoreline: 49-26
+
+<p float="left">
+<img src="plots/performances_2025-06-29-EnglandU20_V_ScotlandU20.png" width="32%" />
+<img src="plots/resultbar_2025-06-29-EnglandU20_V_ScotlandU20.png" width="32%" />
+<img src="plots/spreads_2025-06-29-EnglandU20_V_ScotlandU20.png" width="32%" />
+</p>
+
+### Ireland U20 V Georgia U20 on 2025/06/29
+
+
+Average Margin: Georgia U20 by 4.4
+
+Average Scoreline: 31-27
+
+<p float="left">
+<img src="plots/performances_2025-06-29-IrelandU20_V_GeorgiaU20.png" width="32%" />
+<img src="plots/resultbar_2025-06-29-IrelandU20_V_GeorgiaU20.png" width="32%" />
+<img src="plots/spreads_2025-06-29-IrelandU20_V_GeorgiaU20.png" width="32%" />
+</p>
+
 ## Week 2
+
+### Italy U20 V New Zealand U20 on 2025/07/04
+
+
+Average Margin: New Zealand U20 by 14.1
+
+Average Scoreline: 44-30
+
+<p float="left">
+<img src="plots/performances_2025-07-04-ItalyU20_V_NewZealandU20.png" width="32%" />
+<img src="plots/resultbar_2025-07-04-ItalyU20_V_NewZealandU20.png" width="32%" />
+<img src="plots/spreads_2025-07-04-ItalyU20_V_NewZealandU20.png" width="32%" />
+</p>
+
+### Argentina U20 V Spain U20 on 2025/07/04
+
+
+Average Margin: Argentina U20 by 20.0
+
+Average Scoreline: 37-17
+
+<p float="left">
+<img src="plots/performances_2025-07-04-ArgentinaU20_V_SpainU20.png" width="32%" />
+<img src="plots/resultbar_2025-07-04-ArgentinaU20_V_SpainU20.png" width="32%" />
+<img src="plots/spreads_2025-07-04-ArgentinaU20_V_SpainU20.png" width="32%" />
+</p>
+
+### Italy U20 V Ireland U20 on 2025/07/04
+
+
+Average Margin: Ireland U20 by 3.2
+
+Average Scoreline: 35-32
+
+<p float="left">
+<img src="plots/performances_2025-07-04-ItalyU20_V_IrelandU20.png" width="32%" />
+<img src="plots/resultbar_2025-07-04-ItalyU20_V_IrelandU20.png" width="32%" />
+<img src="plots/spreads_2025-07-04-ItalyU20_V_IrelandU20.png" width="32%" />
+</p>
 
 ### Australia U20 V Scotland U20 on 2025/07/04
 
 
-Average Margin: Australia U20 by 16.8
+Average Margin: Australia U20 by 15.7
 
-Average Scoreline: 42-25
+Average Scoreline: 48-33
 
 <p float="left">
 <img src="plots/performances_2025-07-04-AustraliaU20_V_ScotlandU20.png" width="32%" />
@@ -119,9 +158,9 @@ Average Scoreline: 42-25
 ### England U20 V South Africa U20 on 2025/07/04
 
 
-Average Margin: England U20 by 14.5
+Average Margin: England U20 by 15.5
 
-Average Scoreline: 33-18
+Average Scoreline: 36-21
 
 <p float="left">
 <img src="plots/performances_2025-07-04-EnglandU20_V_SouthAfricaU20.png" width="32%" />
@@ -129,23 +168,10 @@ Average Scoreline: 33-18
 <img src="plots/spreads_2025-07-04-EnglandU20_V_SouthAfricaU20.png" width="32%" />
 </p>
 
-### New Zealand U20 V Georgia U20 on 2025/07/04
-
-
-Average Margin: New Zealand U20 by 8.2
-
-Average Scoreline: 36-28
-
-<p float="left">
-<img src="plots/performances_2025-07-04-NewZealandU20_V_GeorgiaU20.png" width="32%" />
-<img src="plots/resultbar_2025-07-04-NewZealandU20_V_GeorgiaU20.png" width="32%" />
-<img src="plots/spreads_2025-07-04-NewZealandU20_V_GeorgiaU20.png" width="32%" />
-</p>
-
 ### France U20 V Wales U20 on 2025/07/04
 
 
-Average Margin: France U20 by 20.4
+Average Margin: France U20 by 20.3
 
 Average Scoreline: 41-21
 
@@ -155,79 +181,27 @@ Average Scoreline: 41-21
 <img src="plots/spreads_2025-07-04-FranceU20_V_WalesU20.png" width="32%" />
 </p>
 
-### Argentina U20 V Spain U20 on 2025/07/04
+### New Zealand U20 V Georgia U20 on 2025/07/04
 
 
-Average Margin: Argentina U20 by 20.4
+Average Margin: New Zealand U20 by 8.3
 
-Average Scoreline: 42-21
-
-<p float="left">
-<img src="plots/performances_2025-07-04-ArgentinaU20_V_SpainU20.png" width="32%" />
-<img src="plots/resultbar_2025-07-04-ArgentinaU20_V_SpainU20.png" width="32%" />
-<img src="plots/spreads_2025-07-04-ArgentinaU20_V_SpainU20.png" width="32%" />
-</p>
-
-### Italy U20 V New Zealand U20 on 2025/07/04
-
-
-Average Margin: New Zealand U20 by 14.7
-
-Average Scoreline: 38-23
+Average Scoreline: 37-29
 
 <p float="left">
-<img src="plots/performances_2025-07-04-ItalyU20_V_NewZealandU20.png" width="32%" />
-<img src="plots/resultbar_2025-07-04-ItalyU20_V_NewZealandU20.png" width="32%" />
-<img src="plots/spreads_2025-07-04-ItalyU20_V_NewZealandU20.png" width="32%" />
-</p>
-
-### Italy U20 V Ireland U20 on 2025/07/04
-
-
-Average Margin: Ireland U20 by 2.7
-
-Average Scoreline: 31-29
-
-<p float="left">
-<img src="plots/performances_2025-07-04-ItalyU20_V_IrelandU20.png" width="32%" />
-<img src="plots/resultbar_2025-07-04-ItalyU20_V_IrelandU20.png" width="32%" />
-<img src="plots/spreads_2025-07-04-ItalyU20_V_IrelandU20.png" width="32%" />
+<img src="plots/performances_2025-07-04-NewZealandU20_V_GeorgiaU20.png" width="32%" />
+<img src="plots/resultbar_2025-07-04-NewZealandU20_V_GeorgiaU20.png" width="32%" />
+<img src="plots/spreads_2025-07-04-NewZealandU20_V_GeorgiaU20.png" width="32%" />
 </p>
 
 ## Week 3
 
-### New Zealand U20 V Ireland U20 on 2025/07/09
-
-
-Average Margin: New Zealand U20 by 15.0
-
-Average Scoreline: 37-22
-
-<p float="left">
-<img src="plots/performances_2025-07-09-NewZealandU20_V_IrelandU20.png" width="32%" />
-<img src="plots/resultbar_2025-07-09-NewZealandU20_V_IrelandU20.png" width="32%" />
-<img src="plots/spreads_2025-07-09-NewZealandU20_V_IrelandU20.png" width="32%" />
-</p>
-
-### South Africa U20 V Scotland U20 on 2025/07/09
-
-
-Average Margin: South Africa U20 by 10.4
-
-Average Scoreline: 39-28
-
-<p float="left">
-<img src="plots/performances_2025-07-09-SouthAfricaU20_V_ScotlandU20.png" width="32%" />
-<img src="plots/resultbar_2025-07-09-SouthAfricaU20_V_ScotlandU20.png" width="32%" />
-<img src="plots/spreads_2025-07-09-SouthAfricaU20_V_ScotlandU20.png" width="32%" />
-</p>
-
 ### Wales U20 V Spain U20 on 2025/07/09
 
 
-Average Margin: Wales U20 by 18.3
+Average Margin: Wales U20 by 18.2
 
-Average Scoreline: 40-22
+Average Scoreline: 38-20
 
 <p float="left">
 <img src="plots/performances_2025-07-09-WalesU20_V_SpainU20.png" width="32%" />
@@ -238,9 +212,9 @@ Average Scoreline: 40-22
 ### France U20 V Argentina U20 on 2025/07/09
 
 
-Average Margin: France U20 by 17.6
+Average Margin: France U20 by 17.5
 
-Average Scoreline: 38-20
+Average Scoreline: 37-19
 
 <p float="left">
 <img src="plots/performances_2025-07-09-FranceU20_V_ArgentinaU20.png" width="32%" />
@@ -248,17 +222,17 @@ Average Scoreline: 38-20
 <img src="plots/spreads_2025-07-09-FranceU20_V_ArgentinaU20.png" width="32%" />
 </p>
 
-### Italy U20 V Georgia U20 on 2025/07/09
+### New Zealand U20 V Ireland U20 on 2025/07/09
 
 
-Average Margin: Georgia U20 by 10.5
+Average Margin: New Zealand U20 by 14.7
 
-Average Scoreline: 39-28
+Average Scoreline: 40-25
 
 <p float="left">
-<img src="plots/performances_2025-07-09-ItalyU20_V_GeorgiaU20.png" width="32%" />
-<img src="plots/resultbar_2025-07-09-ItalyU20_V_GeorgiaU20.png" width="32%" />
-<img src="plots/spreads_2025-07-09-ItalyU20_V_GeorgiaU20.png" width="32%" />
+<img src="plots/performances_2025-07-09-NewZealandU20_V_IrelandU20.png" width="32%" />
+<img src="plots/resultbar_2025-07-09-NewZealandU20_V_IrelandU20.png" width="32%" />
+<img src="plots/spreads_2025-07-09-NewZealandU20_V_IrelandU20.png" width="32%" />
 </p>
 
 ### England U20 V Australia U20 on 2025/07/09
@@ -266,10 +240,36 @@ Average Scoreline: 39-28
 
 Average Margin: England U20 by 9.3
 
-Average Scoreline: 31-21
+Average Scoreline: 32-22
 
 <p float="left">
 <img src="plots/performances_2025-07-09-EnglandU20_V_AustraliaU20.png" width="32%" />
 <img src="plots/resultbar_2025-07-09-EnglandU20_V_AustraliaU20.png" width="32%" />
 <img src="plots/spreads_2025-07-09-EnglandU20_V_AustraliaU20.png" width="32%" />
+</p>
+
+### South Africa U20 V Scotland U20 on 2025/07/09
+
+
+Average Margin: South Africa U20 by 10.9
+
+Average Scoreline: 46-35
+
+<p float="left">
+<img src="plots/performances_2025-07-09-SouthAfricaU20_V_ScotlandU20.png" width="32%" />
+<img src="plots/resultbar_2025-07-09-SouthAfricaU20_V_ScotlandU20.png" width="32%" />
+<img src="plots/spreads_2025-07-09-SouthAfricaU20_V_ScotlandU20.png" width="32%" />
+</p>
+
+### Italy U20 V Georgia U20 on 2025/07/09
+
+
+Average Margin: Georgia U20 by 9.5
+
+Average Scoreline: 36-26
+
+<p float="left">
+<img src="plots/performances_2025-07-09-ItalyU20_V_GeorgiaU20.png" width="32%" />
+<img src="plots/resultbar_2025-07-09-ItalyU20_V_GeorgiaU20.png" width="32%" />
+<img src="plots/spreads_2025-07-09-ItalyU20_V_GeorgiaU20.png" width="32%" />
 </p>

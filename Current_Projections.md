@@ -5,202 +5,138 @@ key: page-projections
 ---
 # Top Flight Leagues
 
-## Gallagher Premiership
+## European Rugby Challenge Cup
 
 
-[In depth model review and projections for Gallagher Premiership 24/25](comp_files/Gallagher_Premiership_24/25)
+[In depth model review and projections for European Rugby Challenge Cup 24/25](comp_files/European_Rugby_Challenge_Cup_24/25)
 
-Competition Accuracy: 58 of 84 (69.05%)
+Competition Accuracy: 41 of 50 (82.0%)
 
-Competition Error: 13.62 points per match
+Competition Error: 12.63 points per match
 
-Last Round Accuracy: 4 of 5 (80.0%)
+Last Round Accuracy: 8 of 11 (72.73%)
 
-Last Round Error: 8.84 points per match
+Last Round Error: 9.31 points per match
 
-[2025-05-16 Gloucester Rugby (~1617.62) at Newcastle Falcons (~1508.13)](projections/2025-05-16-NewcastleFalcons-GloucesterRugby)
+[2025-05-23 Lyon (~1641.14) at Bath Rugby (~1852.16)](projections/2025-05-23-BathRugby-Lyon)
 
-[2025-05-16 Bristol Rugby (~1668.2) at Sale Sharks (~1739.23)](projections/2025-05-16-SaleSharks-BristolRugby)
+[2025-05-24 Bath Rugby (~1786.23) at Lyon (~1639.3)](projections/2025-05-24-Lyon-BathRugby)
+## European Rugby Champions Cup
 
-[2025-05-17 Saracens (~1693.12) at Northampton Saints (~1747.06)](projections/2025-05-17-NorthamptonSaints-Saracens)
 
-[2025-05-17 Leicester Tigers (~1728.84) at Bath Rugby (~1821.49)](projections/2025-05-17-BathRugby-LeicesterTigers)
+[In depth model review and projections for European Rugby Champions Cup 24/25](comp_files/European_Rugby_Champions_Cup_24/25)
 
-[2025-05-18 Exeter Chiefs (~1628.63) at Harlequins (~1754.66)](projections/2025-05-18-Harlequins-ExeterChiefs)
+Competition Accuracy: 48 of 62 (77.42%)
+
+Competition Error: 18.28 points per match
+
+Last Round Accuracy: 9 of 12 (75.0%)
+
+Last Round Error: 20.69 points per match
+
+[2025-05-24 Bordeaux Begles (~1752.86) at Northampton Saints (~1682.69)](projections/2025-05-24-NorthamptonSaints-BordeauxBegles)
 ## Major League Rugby
 
 
 [In depth model review and projections for Major League Rugby 2025](comp_files/Major_League_Rugby_2025)
 
-Competition Accuracy: 48 of 74 (64.86%)
+Competition Accuracy: 50 of 80 (62.5%)
 
-Competition Error: 12.25 points per match
+Competition Error: 12.16 points per match
 
-Last Round Accuracy: 4 of 6 (66.67%)
+Last Round Accuracy: 3 of 6 (50.0%)
 
-Last Round Error: 11.57 points per match
+Last Round Error: 12.15 points per match
 
-[2025-05-17 New England Free Jacks (~1626.5) at Miami Sharks (~1535.11)](projections/2025-05-17-MiamiSharks-NewEnglandFreeJacks)
+[2025-05-23 Houston SaberCats (~1574.93) at Seattle Seawolves (~1594.25)](projections/2025-05-23-SeattleSeawolves-HoustonSaberCats)
 
-[2025-05-18 Old Glory DC (~1490.02) at Anthem RC (~1245.8)](projections/2025-05-18-AnthemRC-OldGloryDC)
+[2025-05-23 Miami Sharks (~1497.05) at RFC Los Angeles (~1591.34)](projections/2025-05-23-RFCLosAngeles-MiamiSharks)
 
-[2025-05-18 San Diego Legion (~1527.59) at Seattle Seawolves (~1591.68)](projections/2025-05-18-SeattleSeawolves-SanDiegoLegion)
+[2025-05-24 Chicago Hounds (~1545.79) at Anthem RC (~1238.33)](projections/2025-05-24-AnthemRC-ChicagoHounds)
 
-[2025-05-18 Utah Warriors (~1578.15) at Houston SaberCats (~1633.05)](projections/2025-05-18-HoustonSaberCats-UtahWarriors)
+[2025-05-24 Utah Warriors (~1557.05) at NOLA Gold (~1551.94)](projections/2025-05-24-NOLAGold-UtahWarriors)
 
-[2025-05-18 RFC Los Angeles (~1508.16) at Chicago Hounds (~1640.8)](projections/2025-05-18-ChicagoHounds-RFCLosAngeles)
+[2025-05-24 Old Glory DC (~1498.68) at New England Free Jacks (~1668.13)](projections/2025-05-24-NewEnglandFreeJacks-OldGloryDC)
+
+[2025-05-25 Miami Sharks (~1495.48) at RFCLA (~1677.63)](projections/2025-05-25-RFCLA-MiamiSharks)
 ## RFU Championship
 
 
 [In depth model review and projections for RFU Championship 24/25](comp_files/RFU_Championship_24/25)
 
-Competition Accuracy: 83 of 115 (72.17%)
+Competition Accuracy: 87 of 122 (71.31%)
 
-Competition Error: 14.21 points per match
+Competition Error: 14.45 points per match
 
-Last Round Accuracy: 6 of 6 (100.0%)
+Last Round Accuracy: 3 of 6 (50.0%)
 
-Last Round Error: 7.21 points per match
+Last Round Error: 20.64 points per match
 
-[2025-05-17 Ampthill (~1254.53) at Cornish Pirates (~1454.53)](projections/2025-05-17-CornishPirates-Ampthill)
+[2025-05-23 Hartpury College (~1346.87) at Nottingham (~1307.77)](projections/2025-05-23-Nottingham-HartpuryCollege)
 
-[2025-05-17 Nottingham (~1248.44) at Coventry (~1458.99)](projections/2025-05-17-Coventry-Nottingham)
+[2025-05-24 Cornish Pirates (~1380.76) at Doncaster (~1486.87)](projections/2025-05-24-Doncaster-CornishPirates)
 
-[2025-05-17 Bedford (~1442.81) at Cambridge (~1067.4)](projections/2025-05-17-Cambridge-Bedford)
+[2025-05-24 Cambridge (~989.21) at Ampthill (~1326.43)](projections/2025-05-24-Ampthill-Cambridge)
 
-[2025-05-17 Ealing Trailfinders (~1659.43) at Caldy (~1191.15)](projections/2025-05-17-Caldy-EalingTrailfinders)
+[2025-05-24 Chinnor (~1233.36) at Bedford (~1516.62)](projections/2025-05-24-Bedford-Chinnor)
 
-[2025-05-17 London Scottish (~1233.66) at Chinnor (~1334.29)](projections/2025-05-17-Chinnor-LondonScottish)
+[2025-05-24 Coventry (~1398.59) at Ealing Trailfinders (~1727.66)](projections/2025-05-24-EalingTrailfinders-Coventry)
 
-[2025-05-18 Doncaster (~1401.46) at Hartpury College (~1430.24)](projections/2025-05-18-HartpuryCollege-Doncaster)
-## Super Rugby
-
-
-[In depth model review and projections for Super Rugby 2025](comp_files/Super_Rugby_2025)
-
-[2025-05-16 Crusaders (~1493.65) at New South Wales Waratahs (~1380.07)](projections/2025-05-16-NewSouthWalesWaratahs-Crusaders)
-
-[2025-05-16 Highlanders (~1378.17) at Hurricanes (~1506.89)](projections/2025-05-16-Hurricanes-Highlanders)
+[2025-05-24 Caldy (~1127.12) at London Scottish (~1311.04)](projections/2025-05-24-LondonScottish-Caldy)
 ## Super Rugby Americas
 
 
 [In depth model review and projections for Super Rugby Americas 2025](comp_files/Super_Rugby_Americas_2025)
 
-Competition Accuracy: 20 of 33 (60.61%)
+Competition Accuracy: 22 of 36 (61.11%)
 
-Competition Error: 12.45 points per match
+Competition Error: 12.13 points per match
 
-Last Round Accuracy: 2 of 4 (50.0%)
+Last Round Accuracy: 3 of 4 (75.0%)
 
-Last Round Error: 19.86 points per match
+Last Round Error: 8.88 points per match
 
-[2025-05-17 Dogos XV (~1609.78) at Tarucas (~1583.09)](projections/2025-05-17-Tarucas-DogosXV)
+[2025-05-24 Penarol Rugby (~1457.58) at Dogos XV (~1687.3)](projections/2025-05-24-DogosXV-PenarolRugby)
 
-[2025-05-18 Cobras (~1077.96) at Yacare XV (~1532.33)](projections/2025-05-18-YacareXV-Cobras)
+[2025-05-24 Yacare XV (~1462.91) at Selknam (~1517.77)](projections/2025-05-24-Selknam-YacareXV)
 
-[2025-05-19 Selknam (~1423.51) at Pampas XV (~1655.38)](projections/2025-05-19-PampasXV-Selknam)
+[2025-05-25 Tarucas (~1486.44) at Cobras (~1149.08)](projections/2025-05-25-Cobras-Tarucas)
 ## Super Rugby Pacific
 
 
 [In depth model review and projections for Super Rugby Pacific 2025](comp_files/Super_Rugby_Pacific_2025)
 
-Competition Accuracy: 43 of 66 (65.15%)
+Competition Accuracy: 45 of 70 (64.29%)
 
-Competition Error: 12.15 points per match
+Competition Error: 11.78 points per match
 
-Last Round Accuracy: 4 of 6 (66.67%)
+Last Round Accuracy: 3 of 6 (50.0%)
 
-Last Round Error: 11.18 points per match
+Last Round Error: 6.85 points per match
 
-[2025-05-17 Western Force (~1350.91) at Fijian Drua (~1351.84)](projections/2025-05-17-FijianDrua-WesternForce)
+[2025-05-23 Highlanders (~1379.04) at Crusaders (~1612.57)](projections/2025-05-23-Crusaders-Highlanders)
 
-[2025-05-17 Queensland Reds (~1494.53) at Brumbies (~1631.9)](projections/2025-05-17-Brumbies-QueenslandReds)
+[2025-05-23 Hurricanes (~1530.08) at Queensland Reds (~1492.63)](projections/2025-05-23-QueenslandReds-Hurricanes)
 
-[2025-05-17 Blues (~1576.75) at Moana Pasifika (~1434.75)](projections/2025-05-17-MoanaPasifika-Blues)
+[2025-05-24 Moana Pasifika (~1322.48) at Chiefs (~1674.83)](projections/2025-05-24-Chiefs-MoanaPasifika)
+
+[2025-05-24 New South Wales Waratahs (~1306.47) at Western Force (~1430.35)](projections/2025-05-24-WesternForce-NewSouthWalesWaratahs)
 ## Top 14 Orange
 
 
 [In depth model review and projections for Top 14 Orange 24/25](comp_files/Top_14_Orange_24/25)
 
-Competition Accuracy: 119 of 163 (73.01%)
+Competition Accuracy: 123 of 167 (73.65%)
 
-Competition Error: 10.04 points per match
+Competition Error: 10.2 points per match
 
-Last Round Accuracy: 5 of 7 (71.43%)
+Last Round Accuracy: 4 of 7 (57.14%)
 
-Last Round Error: 12.06 points per match
+Last Round Error: 11.02 points per match
 
-[2025-05-17 Perpignan (~1596.4) at Clermont Auvergne (~1729.07)](projections/2025-05-17-ClermontAuvergne-Perpignan)
-
-[2025-05-17 Castres Olympique (~1647.25) at Bordeaux Begles (~1805.5)](projections/2025-05-17-BordeauxBegles-CastresOlympique)
-
-[2025-05-17 Vannes (~1557.94) at Bayonne (~1710.37)](projections/2025-05-17-Bayonne-Vannes)
-
-[2025-05-17 Toulon (~1719.12) at Pau (~1689.31)](projections/2025-05-17-Pau-Toulon)
-
-[2025-05-17 Lyon (~1651.8) at Stade Francais Paris (~1672.59)](projections/2025-05-17-StadeFrancaisParis-Lyon)
-
-[2025-05-17 Racing 92 (~1661.2) at Stade Toulousain (~1898.98)](projections/2025-05-17-StadeToulousain-Racing92)
-
-[2025-05-18 Montpellier Herault (~1659.35) at La Rochelle (~1762.38)](projections/2025-05-18-LaRochelle-MontpellierHerault)
-## United Rugby Championship
-
-
-[In depth model review and projections for United Rugby Championship 24/25](comp_files/United_Rugby_Championship_24/25)
-
-Competition Accuracy: 98 of 146 (67.12%)
-
-Competition Error: 11.81 points per match
-
-Last Round Accuracy: 5 of 8 (62.5%)
-
-Last Round Error: 18.46 points per match
-
-[2025-05-16 Cardiff Blues (~1577.67) at Stormers (~1748.57)](projections/2025-05-16-Stormers-CardiffBlues)
-
-[2025-05-16 Benetton Treviso (~1654.76) at Munster (~1754.97)](projections/2025-05-16-Munster-BenettonTreviso)
-
-[2025-05-16 Ulster (~1616.59) at Edinburgh (~1729.9)](projections/2025-05-16-Edinburgh-Ulster)
-
-[2025-05-17 Ospreys (~1588.55) at Lions (~1699.88)](projections/2025-05-17-Lions-Ospreys)
-
-[2025-05-17 Connacht (~1576.11) at Zebre (~1597.94)](projections/2025-05-17-Zebre-Connacht)
-
-[2025-05-17 Glasgow Warriors (~1731.97) at Leinster (~1931.47)](projections/2025-05-17-Leinster-GlasgowWarriors)
-
-[2025-05-17 Scarlets (~1625.59) at Sharks (~1722.01)](projections/2025-05-17-Sharks-Scarlets)
-
-[2025-05-17 Dragons (~1427.52) at Bulls (~1803.98)](projections/2025-05-17-Bulls-Dragons)
+[2025-05-24 Clermont Auvergne (~1666.69) at Castres Olympique (~1718.86)](projections/2025-05-24-CastresOlympique-ClermontAuvergne)
 # Domestic Leagues
 
-## Pro D2
-
-
-[In depth model review and projections for Pro D2 24/25](comp_files/Pro_D2_24/25)
-
-Competition Accuracy: 160 of 233 (68.67%)
-
-Competition Error: 11.69 points per match
-
-Last Round Accuracy: 7 of 8 (87.5%)
-
-Last Round Error: 16.84 points per match
-
-[2025-05-16 Provence Rugby (~1490.76) at Oyonnax (~1542.83)](projections/2025-05-16-Oyonnax-ProvenceRugby)
-
-[2025-05-16 Montauban (~1426.88) at Aurillac (~1443.55)](projections/2025-05-16-Aurillac-Montauban)
-
-[2025-05-16 Soyaux-Angouleme (~1464.0) at Valence Romans Drome Rugby (~1500.29)](projections/2025-05-16-ValenceRomansDromeRugby-Soyaux-Angouleme)
-
-[2025-05-16 Colomiers (~1489.85) at Biarritz Olympique (~1473.3)](projections/2025-05-16-BiarritzOlympique-Colomiers)
-
-[2025-05-16 Brive (~1529.33) at Beziers (~1518.7)](projections/2025-05-16-Beziers-Brive)
-
-[2025-05-16 Dax (~1410.19) at Nice (~1380.59)](projections/2025-05-16-Nice-Dax)
-
-[2025-05-16 Nevers (~1416.78) at Grenoble (~1602.7)](projections/2025-05-16-Grenoble-Nevers)
-
-[2025-05-16 Mont-de-Marsan (~1439.63) at Agen (~1481.62)](projections/2025-05-16-Agen-Mont-de-Marsan)
 ## URBA Top 12
 
 
@@ -214,28 +150,14 @@ Last Round Accuracy: 1 of 1 (100.0%)
 
 Last Round Error: 23.96 points per match
 
-[2025-05-17 La Plata Rugby Club (~1592.14) at Los Tilos (~1770.78)](projections/2025-05-17-LosTilos-LaPlataRugbyClub)
-## URBA Top 13
+[2025-05-24 La Plata Rugby Club (~1798.42) at Los Tilos (~1723.37)](projections/2025-05-24-LosTilos-LaPlataRugbyClub)
 
+[2025-05-24 Alumni (~1664.25) at Hindu (~1689.22)](projections/2025-05-24-Hindu-Alumni)
 
-[In depth model review and projections for URBA Top 13 2025](comp_files/URBA_Top_13_2025)
+[2025-05-24 CASI (~1828.85) at San Luis (~1616.51)](projections/2025-05-24-SanLuis-CASI)
 
-Competition Accuracy: 25 of 41 (60.98%)
+[2025-05-24 Belgrano (~1798.65) at Regatas Bella Vista (~1697.68)](projections/2025-05-24-RegatasBellaVista-Belgrano)
 
-Competition Error: 13.89 points per match
+[2025-05-24 CUBA (~1695.14) at SIC (~1686.88)](projections/2025-05-24-SIC-CUBA)
 
-Last Round Accuracy: 2 of 7 (28.57%)
-
-Last Round Error: 9.14 points per match
-
-[2025-05-17 Belgrano (~1799.41) at Regatas Bella Vista (~1687.91)](projections/2025-05-17-RegatasBellaVista-Belgrano)
-
-[2025-05-17 CASI (~1792.19) at San Luis (~1650.05)](projections/2025-05-17-SanLuis-CASI)
-
-[2025-05-17 Buenos Aires (~1577.73) at Newman (~1826.52)](projections/2025-05-17-Newman-BuenosAires)
-
-[2025-05-17 CUBA (~1626.53) at SIC (~1756.82)](projections/2025-05-17-SIC-CUBA)
-
-[2025-05-17 La Plata (~1529.87) at Los Tilos (~1762.24)](projections/2025-05-17-LosTilos-LaPlata)
-
-[2025-05-17 Alumni (~1666.78) at Hindu (~1687.35)](projections/2025-05-17-Hindu-Alumni)
+[2025-05-24 Buenos Aires (~1573.34) at Newman (~1792.57)](projections/2025-05-24-Newman-BuenosAires)

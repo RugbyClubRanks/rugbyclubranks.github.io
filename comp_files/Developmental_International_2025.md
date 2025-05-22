@@ -1,6 +1,6 @@
 ---  
 title: "Developmental International 2025 Status"  
-date: 2025-05-16 6:00:00 -0500  
+date: 2025-05-22 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -19,9 +19,9 @@ aside:
 |      2 | Sri Lanka              |  1304.53 |
 |      3 | Malta                  |  1223.64 |
 |      4 | Andorra                |  1218.28 |
-|      5 | Cayman Islands         |  1182.69 |
-|      6 | Moldova                |  1177.54 |
-|      7 | Barbados               |  1175.27 |
+|      5 | Barbados               |  1203.29 |
+|      6 | Cayman Islands         |  1182.69 |
+|      7 | Moldova                |  1177.54 |
 |      8 | Ukraine                |  1126.25 |
 |      9 | Israel                 |  1124.69 |
 |     10 | Denmark                |  1116.26 |
@@ -36,7 +36,7 @@ aside:
 |     19 | Hungary                |   842.44 |
 |     20 | Turkey                 |   706.52 |
 |     21 | Bosnia and Herzegovina |   705.88 |
-|     22 | Guyana                 |   541.41 |
+|     22 | Guyana                 |   540.39 |
 |     23 | Norway                 |   517.64 |
 |     24 | Malaysia               |   466.84 |
 |     25 | Bermuda                |   460.21 |
@@ -50,7 +50,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 58.3% | 22.7 |
+| Club Level | 60.0% | 21.9 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -59,28 +59,15 @@ aside:
 
 ## Week 5
 
-### Bahamas V Bermuda on 2025/05/17
+### Denmark V Moldova on 2025/05/24
 
 
-Average Margin: Bermuda by 1.9
+Average Margin: Moldova by 3.0
 
-Average Scoreline: 27-26
-
-<p float="left">
-<img src="plots/performances_2025-05-17-Bahamas_V_Bermuda.png" width="32%" />
-<img src="plots/resultbar_2025-05-17-Bahamas_V_Bermuda.png" width="32%" />
-<img src="plots/spreads_2025-05-17-Bahamas_V_Bermuda.png" width="32%" />
-</p>
-
-### Barbados V Guyana on 2025/05/17
-
-
-Average Margin: Barbados by 36.8
-
-Average Scoreline: 56-19
+Average Scoreline: 24-21
 
 <p float="left">
-<img src="plots/performances_2025-05-17-Barbados_V_Guyana.png" width="32%" />
-<img src="plots/resultbar_2025-05-17-Barbados_V_Guyana.png" width="32%" />
-<img src="plots/spreads_2025-05-17-Barbados_V_Guyana.png" width="32%" />
+<img src="plots/performances_2025-05-24-Denmark_V_Moldova.png" width="32%" />
+<img src="plots/resultbar_2025-05-24-Denmark_V_Moldova.png" width="32%" />
+<img src="plots/spreads_2025-05-24-Denmark_V_Moldova.png" width="32%" />
 </p>
