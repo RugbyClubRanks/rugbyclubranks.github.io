@@ -9,9 +9,9 @@ categories: "Major League Rugby 2025" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.4, which translates to predicting New England Free Jacks to win by 3.6.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.415, which translates to predicting New England Free Jacks to win by 3.1.
 
-Our Over/Under is 65.5 - and combined with the spread above, we have a predicted scoreline of 35 to 31
+Our Over/Under is 64.5 - and combined with the spread above, we have a predicted scoreline of 34 to 31
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: New England Free Jacks by 2.9
+## Prediction without Player Minutes: New England Free Jacks by 1.1
 
 
-New England Free Jacks by 5.3 on a neutral pitch
+New England Free Jacks by 3.5 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,19 +69,19 @@ New England Free Jacks by 5.3 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|             31 | Tevita Sole          |             65.28 |        1 |             12.66 | Ma'ake Muti        |             21 |
-|             19 | Connal McInerney     |             85.82 |        2 |             10.46 | Kirby Myhill       |             21 |
-|             80 | Kyle Steeves         |             25.23 |        3 |             65.03 | Alec McDonnell     |             19 |
-|             48 | Josh Larsen          |              1.76 |        4 |             33.2  | Tomas Casares      |             29 |
-|             80 | Jeronimo Gomez Vara  |             10.28 |        5 |             57.98 | Federico Gutierrez |             80 |
-|             32 | Ethan Fryer          |              5.46 |        6 |              0.2  | Manuel Ardao       |             40 |
-|             80 | Joe Johnston         |             67.96 |        7 |             76.69 | Benja Bonassoa     |             33 |
-|             80 | Wian Conradie        |             96.09 |        8 |             66.74 | Ronan Foley        |             80 |
-|             80 | John Poland          |             82    |        9 |             36.01 | Tomas Cubelli      |             59 |
-|             15 | Dan Hollinshead      |              5.8  |       10 |             96.07 | Martin Elias       |             70 |
-|             80 | Jack Reeves          |              3.13 |       11 |             63.21 | Josiah Morra       |              0 |
-|             76 | Isaac Olson          |             27.59 |       12 |             79.31 | Tomas Cubilla      |             80 |
-|              0 | Killian Coghlan      |             42.19 |       13 |              6.09 | Matias Orlando     |             65 |
-|             20 | Simon-Peter Toleafoa |             38.26 |       14 |             20.94 | Marcos Young       |             80 |
-|             80 | Brock Webster        |             60.68 |       15 |              7.19 | Shane O'Leary      |             59 |
+|           63   | Tevita Sole          |             74.46 |        1 |             27.81 | Ma'ake Muti        |           80   |
+|            8   | Connal McInerney     |             84.39 |        2 |             17.6  | Kirby Myhill       |           53   |
+|           15.5 | Kyle Steeves         |             38.53 |        3 |             58.79 | Alec McDonnell     |           65   |
+|           15   | Josh Larsen          |              3.49 |        4 |             34.82 | Tomas Casares      |           15.5 |
+|           33.5 | Jeronimo Gomez Vara  |             11.64 |        5 |             70.71 | Federico Gutierrez |           80   |
+|           27   | Ethan Fryer          |              5.69 |        6 |              0.1  | Manuel Ardao       |           80   |
+|           57   | Joe Johnston         |             79.59 |        7 |             79.2  | Benja Bonassoa     |           49   |
+|           19   | Wian Conradie        |             95.71 |        8 |             67.17 | Ronan Foley        |           80   |
+|           72   | John Poland          |             84    |        9 |             50.91 | Tomas Cubelli      |           80   |
+|           39   | Dan Hollinshead      |              5.77 |       10 |             95.73 | Martin Elias       |           61   |
+|           30   | Jack Reeves          |              4.89 |       11 |             76.34 | Josiah Morra       |           41   |
+|           33.5 | Isaac Olson          |             29.34 |       12 |             80.76 | Tomas Cubilla      |           58   |
+|            6.5 | Killian Coghlan      |             38.59 |       13 |              5.78 | Matias Orlando     |           73   |
+|           30   | Simon-Peter Toleafoa |             34.9  |       14 |             35.48 | Marcos Young       |           61   |
+|           80   | Brock Webster        |             62.34 |       15 |             10.64 | Shane O'Leary      |           57   |
 

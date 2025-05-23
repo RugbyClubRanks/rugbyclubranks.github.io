@@ -9,9 +9,9 @@ categories: "Major League Rugby 2025" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.511, which translates to predicting Houston SaberCats to win by 0.4.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.512, which translates to predicting Houston SaberCats to win by 0.4.
 
-Our Over/Under is 57.5 - and combined with the spread above, we have a predicted scoreline of 29 to 29
+Our Over/Under is 74.5 - and combined with the spread above, we have a predicted scoreline of 37 to 38
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Utah Warriors by 5.8
+## Prediction without Player Minutes: Utah Warriors by 4.7
 
 
-Utah Warriors by 9.3 on a neutral pitch
+Utah Warriors by 8.2 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,19 +69,19 @@ Utah Warriors by 9.3 on a neutral pitch
 
 |   Away Minutes | Away Player     |   Away Percentile |   Number |   Home Percentile | Home Player        |   Home Minutes |
 |---------------:|:----------------|------------------:|---------:|------------------:|:-------------------|---------------:|
-|           26   | Fred Apulu      |             82.68 |        1 |             84.1  | Ezekiel Lindenmuth |             25 |
-|           80   | Tuvere Vugakoto |             13.65 |        2 |             85.11 | Seth Smith         |             55 |
-|           35.5 | Remsy Lemisio   |             80.1  |        3 |             89.73 | Pono Davis         |             25 |
-|           64   | Frank Lochore   |             68.56 |        4 |             98.53 | Justin Basson      |             52 |
-|           80   | Matt Jensen     |             48.29 |        5 |             59.35 | Nathan Den Hoedt   |              6 |
-|           55   | Lance Williams  |              8.43 |        6 |             93.06 | Marno Redelinghuys |             80 |
-|           25   | Kalisi Moli     |             33.13 |        7 |             19.54 | Johan Momsen       |             80 |
-|           66   | Dylan Nel       |             94.35 |        8 |             86.52 | Sam Tuifua         |             74 |
-|           80   | Zion Going      |             83.96 |        9 |              3.74 | Jay Renton         |             80 |
-|           80   | Joel Hodgson    |             34.78 |       10 |             71.01 | Davy Coetzer       |             43 |
-|           66   | Joe Mano        |             84.93 |       11 |             87.77 | Juan-Dee Oliver    |             14 |
-|           80   | D'Angelo Leuila |             10.55 |       12 |             93.41 | Dominic Akina      |             80 |
-|           64   | Cole Semu       |             60.04 |       13 |             76.88 | Tautalatasi Tasi   |             24 |
-|           80   | Nic Benn        |             72.31 |       14 |             89.73 | Pono Davis         |             80 |
-|           14   | Jordan Trainor  |             86.89 |       15 |             43.13 | Drew Wild          |             11 |
+|             68 | Fred Apulu      |             44.39 |        1 |             84.92 | Ezekiel Lindenmuth |           27   |
+|             56 | Tuvere Vugakoto |             18.51 |        2 |             88.57 | Seth Smith         |           60   |
+|             80 | Remsy Lemisio   |             65.83 |        3 |             51.22 | Pono Davis         |           53   |
+|             80 | Frank Lochore   |             77.89 |        4 |             96.22 | Justin Basson      |           80   |
+|             45 | Matt Jensen     |             36.66 |        5 |             78.08 | Nathan Den Hoedt   |           80   |
+|             80 | Lance Williams  |              7.26 |        6 |             84.2  | Marno Redelinghuys |           12   |
+|             80 | Kalisi Moli     |             20.22 |        7 |             24.44 | Johan Momsen       |           80   |
+|             61 | Dylan Nel       |             92.92 |        8 |             79.4  | Sam Tuifua         |           67   |
+|             50 | Zion Going      |             82.36 |        9 |              2.36 | Jay Renton         |           34   |
+|             80 | Joel Hodgson    |             12.39 |       10 |             73.08 | Davy Coetzer       |            9.5 |
+|             34 | Joe Mano        |             86.8  |       11 |             86.12 | Juan-Dee Oliver    |           34   |
+|             29 | D'Angelo Leuila |             13.35 |       12 |             88.01 | Dominic Akina      |            9.5 |
+|             33 | Cole Semu       |             49.32 |       13 |             75.6  | Tautalatasi Tasi   |           20   |
+|             29 | Nic Benn        |             85.24 |       14 |             51.22 | Pono Davis         |           13.5 |
+|             68 | Jordan Trainor  |             84.68 |       15 |             54.26 | Drew Wild          |           53   |
 

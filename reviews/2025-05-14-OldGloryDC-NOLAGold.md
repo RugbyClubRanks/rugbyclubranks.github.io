@@ -9,9 +9,9 @@ categories: "Major League Rugby 2025" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.508, which translates to predicting Old Glory DC to win by 0.3.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.496, which translates to predicting NOLA Gold to win by 0.1.
 
-Our Over/Under is 69.5 - and combined with the spread above, we have a predicted scoreline of 34 to 35
+Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 26 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Old Glory DC by 16.6
+## Prediction without Player Minutes: Old Glory DC by 14.0
 
 
-Old Glory DC by 13.7 on a neutral pitch
+Old Glory DC by 11.0 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,22 +69,22 @@ Old Glory DC by 13.7 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player              |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:-------------------------|---------------:|
-|             16 | Bart Vermeulen       |             53.54 |        1 |             14.9  | Jack Iscaro              |             21 |
-|             80 | Alex Lopeti          |             27.13 |        2 |             65.78 | Facundo Gattas           |             30 |
-|             62 | Paul Mullen          |              7.49 |        3 |              3.58 | Joe Rees                 |             67 |
-|             80 | Paul Mullen          |              7.49 |        3 |              3.58 | Joe Rees                 |             67 |
-|             35 | Paul Mullen          |              7.49 |        3 |              3.58 | Joe Rees                 |             67 |
-|             22 | Paul Mullen          |              7.49 |        3 |              3.58 | Joe Rees                 |             67 |
-|              0 | Chase Jones          |             46.52 |        4 |             94.52 | Rob Harley               |             80 |
-|             76 | William Waguespack   |             77.08 |        5 |             22.43 | Tevita Naqali            |             66 |
-|             22 | Moni Tonga'uiha      |              6.25 |        6 |             47.02 | Jamason Fa'anana-Schultz |             45 |
-|             80 | Jonah Mau'u          |             48.02 |        7 |             25.3  | Cory Daniel              |             45 |
-|             53 | Tupou Ma'afu-Afungia |             17.61 |        8 |             98.91 | Lautaro Bavaro           |             55 |
-|              6 | Luke Campbell        |              2.85 |        9 |             67.38 | Connor Buckley           |             39 |
-|             17 | Luke Carty           |              4.35 |       10 |              7.45 | Jason Emery              |             50 |
-|             25 | Julian Roberts       |             76.03 |       11 |             55.48 | John Rizzo               |             41 |
-|             80 | JP Du Plessis        |              1.22 |       12 |             10.85 | Nick Grigg               |             45 |
-|             80 | Isaac Te Tamaki      |              2.54 |       13 |             85.7  | Steffan Hughes           |             58 |
-|             39 | Nikolai Foliaki      |              0.68 |       14 |             25.64 | Perry Humphreys          |             58 |
-|             54 | Cooper Coats         |              5.29 |       15 |             70.61 | Damien Hoyland           |             72 |
+|           80   | Bart Vermeulen       |             51.93 |        1 |             18.43 | Jack Iscaro              |             80 |
+|           80   | Alex Lopeti          |             40.11 |        2 |             71.69 | Facundo Gattas           |             80 |
+|           13   | Paul Mullen          |              7.04 |        3 |              3.18 | Joe Rees                 |             80 |
+|           32   | Paul Mullen          |              7.04 |        3 |              3.18 | Joe Rees                 |             80 |
+|           15   | Paul Mullen          |              7.04 |        3 |              3.18 | Joe Rees                 |             80 |
+|           55   | Paul Mullen          |              7.04 |        3 |              3.18 | Joe Rees                 |             80 |
+|           36   | Chase Jones          |             47.33 |        4 |             92.43 | Rob Harley               |             44 |
+|           80   | William Waguespack   |             70.81 |        5 |             16.29 | Tevita Naqali            |             22 |
+|           12.5 | Moni Tonga'uiha      |              3.63 |        6 |             19.53 | Jamason Fa'anana-Schultz |             15 |
+|           40   | Jonah Mau'u          |             66.14 |        7 |             23.36 | Cory Daniel              |             52 |
+|           30   | Tupou Ma'afu-Afungia |             17.17 |        8 |             98.5  | Lautaro Bavaro           |             80 |
+|           80   | Luke Campbell        |             14.55 |        9 |             72.36 | Connor Buckley           |             78 |
+|           50   | Luke Carty           |              3.63 |       10 |              2.99 | Jason Emery              |             23 |
+|           80   | Julian Roberts       |             68.91 |       11 |             51.42 | John Rizzo               |             23 |
+|           80   | JP Du Plessis        |              1.16 |       12 |             10.73 | Nick Grigg               |              2 |
+|           40   | Isaac Te Tamaki      |              2.84 |       13 |             83.7  | Steffan Hughes           |             28 |
+|           80   | Nikolai Foliaki      |              1.37 |       14 |             34.12 | Perry Humphreys          |              8 |
+|           20   | Cooper Coats         |              4.47 |       15 |             63.4  | Damien Hoyland           |              9 |
 

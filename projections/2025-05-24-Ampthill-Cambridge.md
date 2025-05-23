@@ -9,7 +9,7 @@ categories: "RFU Championship 24/25" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.876, which translates to predicting Ampthill to win by 18.0.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.87, which translates to predicting Ampthill to win by 18.0.
 
 Our Over/Under is 79.5 - and combined with the spread above, we have a predicted scoreline of 31 to 49
 

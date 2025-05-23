@@ -1,6 +1,6 @@
 ---  
 title: "Developmental International 2025 Status"  
-date: 2025-05-22 6:00:00 -0500  
+date: 2025-05-23 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -62,9 +62,9 @@ aside:
 ### Denmark V Moldova on 2025/05/24
 
 
-Average Margin: Moldova by 3.0
+Average Margin: Moldova by 2.6
 
-Average Scoreline: 24-21
+Average Scoreline: 24-22
 
 <p float="left">
 <img src="plots/performances_2025-05-24-Denmark_V_Moldova.png" width="32%" />

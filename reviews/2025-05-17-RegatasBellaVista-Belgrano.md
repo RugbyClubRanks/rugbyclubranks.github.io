@@ -1,17 +1,17 @@
 ---  
 layout: page  
-title: Belgrano at Regatas Bella Vista; 38-3  
+title: Belgrano at Regatas Bella Vista; 14-28  
 date: 2025-05-17 18:00:00 -0500  
 categories: "URBA Top 13 2025" match review  
 ---
-# Belgrano at Regatas Bella Vista; 38-3
+# Belgrano at Regatas Bella Vista; 14-28
 
 # Club Level Predictions
 
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.422, which translates to predicting Belgrano to win by 2.8.
 
-Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 27 to 24
+Our Over/Under is 61.5 - and combined with the spread above, we have a predicted scoreline of 32 to 29
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
