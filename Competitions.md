@@ -198,7 +198,7 @@ key: page-recents
 ## Gallagher Premiership
 
 
-[2425](comp_files\Gallagher_Premiership_2425) - Prediction Accuracy: 69.4% 
+[2425](comp_files\Gallagher_Premiership_2425) - Prediction Accuracy: 67.1% 
 
 [2024](comp_files\Gallagher_Premiership_2024) - Prediction Accuracy: 67.3% 
 
@@ -212,7 +212,7 @@ key: page-recents
 ## Top 14 Orange
 
 
-[2425](comp_files\Top_14_Orange_2425) - Prediction Accuracy: 73.7% 
+[2425](comp_files\Top_14_Orange_2425) - Prediction Accuracy: 74.4% 
 
 [2024](comp_files\Top_14_Orange_2024) - Prediction Accuracy: 78.1% 
 
@@ -240,7 +240,7 @@ key: page-recents
 ## Major League Rugby
 
 
-[2025](comp_files\Major_League_Rugby_2025) - Prediction Accuracy: 62.5% 
+[2025](comp_files\Major_League_Rugby_2025) - Prediction Accuracy: 64.2% 
 
 [2024](comp_files\Major_League_Rugby_2024) - Prediction Accuracy: 63.5% 
 
@@ -254,7 +254,7 @@ key: page-recents
 ## Super Rugby Pacific
 
 
-[2025](comp_files\Super_Rugby_Pacific_2025) - Prediction Accuracy: 62.9% 
+[2025](comp_files\Super_Rugby_Pacific_2025) - Prediction Accuracy: 63.4% 
 
 [2024](comp_files\Super_Rugby_Pacific_2024) - Prediction Accuracy: 74.7% 
 
@@ -408,7 +408,7 @@ key: page-recents
 ## URBA Top 13
 
 
-[2025](comp_files\URBA_Top_13_2025) - Prediction Accuracy: 63.0% 
+[2025](comp_files\URBA_Top_13_2025) - Prediction Accuracy: 66.0% 
 
 [2024](comp_files\URBA_Top_13_2024) - Prediction Accuracy: 64.7% 
 
