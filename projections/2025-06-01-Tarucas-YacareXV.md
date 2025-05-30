@@ -9,7 +9,7 @@ categories: "Super Rugby Americas 2025" match projection imputed
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.651, which translates to predicting Tarucas to win by 5.9.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.662, which translates to predicting Tarucas to win by 6.2.
 
 Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 22 to 28
 

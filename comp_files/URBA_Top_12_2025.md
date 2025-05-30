@@ -1,6 +1,6 @@
 ---  
 title: "URBA Top 12 2025 Status"  
-date: 2025-05-23 6:00:00 -0500  
+date: 2025-05-27 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,48 +17,58 @@ aside:
 
 | Club                |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| CASI                |        1 |      1 |                   40 |                     0 |                nan |                    4 |
-| La Plata Rugby Club |        1 |      0 |                  -40 |                     0 |                nan |                    0 |
+| CASI                |        6 |      6 |                  115 |                     0 |                  3 |                   27 |
+| Los Tilos           |        6 |      5 |                   56 |                     1 |                  2 |                   23 |
+| Belgrano            |        6 |      5 |                   76 |                     1 |                  1 |                   22 |
+| SIC                 |        6 |      3 |                    5 |                     3 |                  3 |                   18 |
+| Regatas Bella Vista |        6 |      3 |                    7 |                     1 |                  1 |                   14 |
+| Alumni              |        6 |      3 |                  -22 |                     0 |                  2 |                   14 |
+| Newman              |        6 |      2 |                   -4 |                     3 |                  1 |                   12 |
+| Hindu               |        6 |      2 |                  -10 |                     2 |                  1 |                   11 |
+| CUBA                |        6 |      2 |                  -18 |                     2 |                  1 |                   11 |
+| Buenos Aires        |        6 |      2 |                  -40 |                     1 |                    |                    9 |
+| La Plata            |        6 |      2 |                  -80 |                     1 |                    |                    9 |
+| San Luis            |        6 |      1 |                  -85 |                     2 |                  1 |                    7 |
 
 
 
 ## Projected Remaining Table
 
 
-| Club                |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
-|:--------------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| CASI                |                   1 |    0.9 |             12.3461  |                   0.1 |                0.7 |                  4.3 |
-| Newman              |                   1 |    0.9 |              9.69476 |                   0.1 |                0.3 |                  3.9 |
-| Hindu               |                   1 |    0.8 |              6.31127 |                   0.1 |                0.5 |                  3.7 |
-| Los Tilos           |                   1 |    0.8 |              8.46662 |                   0.2 |                0.3 |                  3.5 |
-| SIC                 |                   1 |    0.7 |              3.38321 |                   0.2 |                0.2 |                  3.1 |
-| Belgrano            |                   1 |    0.6 |              2.69378 |                   0.2 |                0.2 |                  2.9 |
-| Regatas Bella Vista |                   1 |    0.4 |             -2.69378 |                   0.4 |                0.2 |                  2   |
-| CUBA                |                   1 |    0.3 |             -3.38321 |                   0.4 |                0.1 |                  1.8 |
-| Alumni              |                   1 |    0.2 |             -6.31127 |                   0.3 |                0.3 |                  1.5 |
-| La Plata Rugby Club |                   1 |    0.2 |             -8.46662 |                   0.3 |                0.1 |                  1.3 |
-| Buenos Aires        |                   1 |    0.1 |             -9.69476 |                   0.3 |                0.2 |                  1   |
-| San Luis            |                   1 |    0.1 |            -12.3461  |                   0.2 |                0.2 |                  0.8 |
+| Club                |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
+|:--------------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
+| Belgrano            |        16 |            10.34 |                    49.55 |                            2.77 |                              |                          46.03 |
+| CASI                |        16 |             9.86 |                    43.65 |                            3.17 |                              |                          44.51 |
+| Newman              |        16 |             9.55 |                    29.95 |                            3.31 |                              |                          43.25 |
+| SIC                 |        16 |             8.89 |                    20.7  |                            3.97 |                              |                          41.09 |
+| Alumni              |        16 |             8.46 |                    17.15 |                            3.97 |                              |                          39.99 |
+| CUBA                |        16 |             7.71 |                     5.9  |                            4.65 |                              |                          37.59 |
+| Hindu               |        16 |             6.85 |                   -11.06 |                            4.76 |                              |                          34.14 |
+| Los Tilos           |        16 |             6.73 |                   -12.21 |                            4.56 |                              |                          33.34 |
+| Regatas Bella Vista |        16 |             6.64 |                   -20.71 |                            4.71 |                              |                          33.01 |
+| Buenos Aires        |        16 |             5.3  |                   -33.76 |                            5.45 |                              |                          28.55 |
+| La Plata            |        16 |             5.07 |                   -46.95 |                            5.08 |                              |                          27.2  |
+| San Luis            |        16 |             4.96 |                   -42.21 |                            5.17 |                              |                          26.87 |
 
 
 
 ## Projected Total Table
 
 
-| Club                |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
-|:--------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| CASI                |               2 |    1.9 |             52.3461  |                   0.1 |                0.7 |                  8.3 |
-| Newman              |               1 |    0.9 |              9.69476 |                   0.1 |                0.3 |                  3.9 |
-| Hindu               |               1 |    0.8 |              6.31127 |                   0.1 |                0.5 |                  3.7 |
-| Los Tilos           |               1 |    0.8 |              8.46662 |                   0.2 |                0.3 |                  3.5 |
-| SIC                 |               1 |    0.7 |              3.38321 |                   0.2 |                0.2 |                  3.1 |
-| Belgrano            |               1 |    0.6 |              2.69378 |                   0.2 |                0.2 |                  2.9 |
-| Regatas Bella Vista |               1 |    0.4 |             -2.69378 |                   0.4 |                0.2 |                  2   |
-| CUBA                |               1 |    0.3 |             -3.38321 |                   0.4 |                0.1 |                  1.8 |
-| Alumni              |               1 |    0.2 |             -6.31127 |                   0.3 |                0.3 |                  1.5 |
-| La Plata Rugby Club |               2 |    0.2 |            -48.4666  |                   0.3 |                0.1 |                  1.3 |
-| Buenos Aires        |               1 |    0.1 |             -9.69476 |                   0.3 |                0.2 |                  1   |
-| San Luis            |               1 |    0.1 |            -12.3461  |                   0.2 |                0.2 |                  0.8 |
+| Club                |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
+|:--------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
+| CASI                |       22 |  15.86 |               158.65 |                  3.17 |                  3 |                71.51 |
+| Belgrano            |       22 |  15.34 |               125.55 |                  3.77 |                  1 |                68.03 |
+| SIC                 |       22 |  11.89 |                25.7  |                  6.97 |                  3 |                59.09 |
+| Los Tilos           |       22 |  11.73 |                43.79 |                  5.56 |                  2 |                56.34 |
+| Newman              |       22 |  11.55 |                25.95 |                  6.31 |                  1 |                55.25 |
+| Alumni              |       22 |  11.46 |                -4.85 |                  3.97 |                  2 |                53.99 |
+| CUBA                |       22 |   9.71 |               -12.1  |                  6.65 |                  1 |                48.59 |
+| Regatas Bella Vista |       22 |   9.64 |               -13.71 |                  5.71 |                  1 |                47.01 |
+| Hindu               |       22 |   8.85 |               -21.06 |                  6.76 |                  1 |                45.14 |
+| Buenos Aires        |       22 |   7.3  |               -73.76 |                  6.45 |                    |                37.55 |
+| La Plata            |       22 |   7.07 |              -126.95 |                  6.08 |                    |                36.2  |
+| San Luis            |       22 |   5.96 |              -127.21 |                  7.17 |                  1 |                33.87 |
 
 
 
@@ -67,89 +77,1097 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 100.0% | 24.0 |
+| Club Level | 69.7% | 9.0 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
 
 # Future Predictions
 
-## Week 2
+## Week 7
 
-### Los Tilos V La Plata Rugby Club on 2025/05/24
+### Buenos Aires V Hindu on 2025/05/31
 
 
-Average Margin: Los Tilos by 8.5
-
-Average Scoreline: 30-22
+Average Margin: Hindu by 2.1
 
 <p float="left">
-<img src="plots/performances_2025-05-24-LosTilos_V_LaPlataRugbyClub.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-LosTilos_V_LaPlataRugbyClub.png" width="32%" />
-<img src="plots/spreads_2025-05-24-LosTilos_V_LaPlataRugbyClub.png" width="32%" />
+<img src="plots\2025-05-31-BuenosAires_V_Hindu_performances.png" width="32%" />
+<img src="plots\2025-05-31-BuenosAires_V_Hindu_resultbar.png" width="32%" />
+<img src="plots\2025-05-31-BuenosAires_V_Hindu_spreads.png" width="32%" />
 </p>
 
-### Newman V Buenos Aires on 2025/05/24
+### CASI V Regatas Bella Vista on 2025/05/31
 
 
-Average Margin: Newman by 9.7
-
-Average Scoreline: 33-23
+Average Margin: CASI by 7.4
 
 <p float="left">
-<img src="plots/performances_2025-05-24-Newman_V_BuenosAires.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-Newman_V_BuenosAires.png" width="32%" />
-<img src="plots/spreads_2025-05-24-Newman_V_BuenosAires.png" width="32%" />
+<img src="plots\2025-05-31-CASI_V_RegatasBellaVista_performances.png" width="32%" />
+<img src="plots\2025-05-31-CASI_V_RegatasBellaVista_resultbar.png" width="32%" />
+<img src="plots\2025-05-31-CASI_V_RegatasBellaVista_spreads.png" width="32%" />
 </p>
 
-### Hindu V Alumni on 2025/05/24
+### CUBA V Los Tilos on 2025/05/31
 
 
-Average Margin: Hindu by 6.3
-
-Average Scoreline: 31-25
+Average Margin: CUBA by 2.3
 
 <p float="left">
-<img src="plots/performances_2025-05-24-Hindu_V_Alumni.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-Hindu_V_Alumni.png" width="32%" />
-<img src="plots/spreads_2025-05-24-Hindu_V_Alumni.png" width="32%" />
+<img src="plots\2025-05-31-CUBA_V_LosTilos_performances.png" width="32%" />
+<img src="plots\2025-05-31-CUBA_V_LosTilos_resultbar.png" width="32%" />
+<img src="plots\2025-05-31-CUBA_V_LosTilos_spreads.png" width="32%" />
 </p>
 
-### SIC V CUBA on 2025/05/24
+### Alumni V San Luis on 2025/05/31
 
 
-Average Margin: SIC by 3.4
-
-Average Scoreline: 30-27
+Average Margin: Alumni by 6.0
 
 <p float="left">
-<img src="plots/performances_2025-05-24-SIC_V_CUBA.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-SIC_V_CUBA.png" width="32%" />
-<img src="plots/spreads_2025-05-24-SIC_V_CUBA.png" width="32%" />
+<img src="plots\2025-05-31-Alumni_V_SanLuis_performances.png" width="32%" />
+<img src="plots\2025-05-31-Alumni_V_SanLuis_resultbar.png" width="32%" />
+<img src="plots\2025-05-31-Alumni_V_SanLuis_spreads.png" width="32%" />
 </p>
 
-### San Luis V CASI on 2025/05/24
+### Belgrano V SIC on 2025/05/31
 
 
-Average Margin: CASI by 12.3
-
-Average Scoreline: 40-27
+Average Margin: Belgrano by 3.5
 
 <p float="left">
-<img src="plots/performances_2025-05-24-SanLuis_V_CASI.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-SanLuis_V_CASI.png" width="32%" />
-<img src="plots/spreads_2025-05-24-SanLuis_V_CASI.png" width="32%" />
+<img src="plots\2025-05-31-Belgrano_V_SIC_performances.png" width="32%" />
+<img src="plots\2025-05-31-Belgrano_V_SIC_resultbar.png" width="32%" />
+<img src="plots\2025-05-31-Belgrano_V_SIC_spreads.png" width="32%" />
 </p>
 
-### Regatas Bella Vista V Belgrano on 2025/05/24
+### La Plata V Newman on 2025/05/31
 
 
-Average Margin: Belgrano by 2.7
-
-Average Scoreline: 32-30
+Average Margin: Newman by 4.5
 
 <p float="left">
-<img src="plots/performances_2025-05-24-RegatasBellaVista_V_Belgrano.png" width="32%" />
-<img src="plots/resultbar_2025-05-24-RegatasBellaVista_V_Belgrano.png" width="32%" />
-<img src="plots/spreads_2025-05-24-RegatasBellaVista_V_Belgrano.png" width="32%" />
+<img src="plots\2025-05-31-LaPlata_V_Newman_performances.png" width="32%" />
+<img src="plots\2025-05-31-LaPlata_V_Newman_resultbar.png" width="32%" />
+<img src="plots\2025-05-31-LaPlata_V_Newman_spreads.png" width="32%" />
+</p>
+
+## Week 8
+
+### Newman V CUBA on 2025/06/07
+
+
+Average Margin: Newman by 4.0
+
+<p float="left">
+<img src="plots\2025-06-07-Newman_V_CUBA_performances.png" width="32%" />
+<img src="plots\2025-06-07-Newman_V_CUBA_resultbar.png" width="32%" />
+<img src="plots\2025-06-07-Newman_V_CUBA_spreads.png" width="32%" />
+</p>
+
+### Regatas Bella Vista V San Luis on 2025/06/07
+
+
+Average Margin: Regatas Bella Vista by 5.2
+
+<p float="left">
+<img src="plots\2025-06-07-RegatasBellaVista_V_SanLuis_performances.png" width="32%" />
+<img src="plots\2025-06-07-RegatasBellaVista_V_SanLuis_resultbar.png" width="32%" />
+<img src="plots\2025-06-07-RegatasBellaVista_V_SanLuis_spreads.png" width="32%" />
+</p>
+
+### Buenos Aires V Alumni on 2025/06/07
+
+
+Average Margin: Alumni by 1.3
+
+<p float="left">
+<img src="plots\2025-06-07-BuenosAires_V_Alumni_performances.png" width="32%" />
+<img src="plots\2025-06-07-BuenosAires_V_Alumni_resultbar.png" width="32%" />
+<img src="plots\2025-06-07-BuenosAires_V_Alumni_spreads.png" width="32%" />
+</p>
+
+### Los Tilos V Belgrano on 2025/06/07
+
+
+Average Margin: Belgrano by 1.6
+
+<p float="left">
+<img src="plots\2025-06-07-LosTilos_V_Belgrano_performances.png" width="32%" />
+<img src="plots\2025-06-07-LosTilos_V_Belgrano_resultbar.png" width="32%" />
+<img src="plots\2025-06-07-LosTilos_V_Belgrano_spreads.png" width="32%" />
+</p>
+
+### Hindu V La Plata on 2025/06/07
+
+
+Average Margin: Hindu by 5.4
+
+<p float="left">
+<img src="plots\2025-06-07-Hindu_V_LaPlata_performances.png" width="32%" />
+<img src="plots\2025-06-07-Hindu_V_LaPlata_resultbar.png" width="32%" />
+<img src="plots\2025-06-07-Hindu_V_LaPlata_spreads.png" width="32%" />
+</p>
+
+### SIC V CASI on 2025/06/07
+
+
+Average Margin: SIC by 0.9
+
+<p float="left">
+<img src="plots\2025-06-07-SIC_V_CASI_performances.png" width="32%" />
+<img src="plots\2025-06-07-SIC_V_CASI_resultbar.png" width="32%" />
+<img src="plots\2025-06-07-SIC_V_CASI_spreads.png" width="32%" />
+</p>
+
+## Week 9
+
+### La Plata V Buenos Aires on 2025/06/14
+
+
+Average Margin: La Plata by 1.3
+
+<p float="left">
+<img src="plots\2025-06-14-LaPlata_V_BuenosAires_performances.png" width="32%" />
+<img src="plots\2025-06-14-LaPlata_V_BuenosAires_resultbar.png" width="32%" />
+<img src="plots\2025-06-14-LaPlata_V_BuenosAires_spreads.png" width="32%" />
+</p>
+
+### CUBA V Hindu on 2025/06/14
+
+
+Average Margin: CUBA by 0.7
+
+<p float="left">
+<img src="plots\2025-06-14-CUBA_V_Hindu_performances.png" width="32%" />
+<img src="plots\2025-06-14-CUBA_V_Hindu_resultbar.png" width="32%" />
+<img src="plots\2025-06-14-CUBA_V_Hindu_spreads.png" width="32%" />
+</p>
+
+### CASI V Los Tilos on 2025/06/14
+
+
+Average Margin: CASI by 5.8
+
+<p float="left">
+<img src="plots\2025-06-14-CASI_V_LosTilos_performances.png" width="32%" />
+<img src="plots\2025-06-14-CASI_V_LosTilos_resultbar.png" width="32%" />
+<img src="plots\2025-06-14-CASI_V_LosTilos_spreads.png" width="32%" />
+</p>
+
+### San Luis V SIC on 2025/06/14
+
+
+Average Margin: SIC by 0.1
+
+<p float="left">
+<img src="plots\2025-06-14-SanLuis_V_SIC_performances.png" width="32%" />
+<img src="plots\2025-06-14-SanLuis_V_SIC_resultbar.png" width="32%" />
+<img src="plots\2025-06-14-SanLuis_V_SIC_spreads.png" width="32%" />
+</p>
+
+### Belgrano V Newman on 2025/06/14
+
+
+Average Margin: Belgrano by 4.6
+
+<p float="left">
+<img src="plots\2025-06-14-Belgrano_V_Newman_performances.png" width="32%" />
+<img src="plots\2025-06-14-Belgrano_V_Newman_resultbar.png" width="32%" />
+<img src="plots\2025-06-14-Belgrano_V_Newman_spreads.png" width="32%" />
+</p>
+
+### Alumni V Regatas Bella Vista on 2025/06/14
+
+
+Average Margin: Alumni by 4.6
+
+<p float="left">
+<img src="plots\2025-06-14-Alumni_V_RegatasBellaVista_performances.png" width="32%" />
+<img src="plots\2025-06-14-Alumni_V_RegatasBellaVista_resultbar.png" width="32%" />
+<img src="plots\2025-06-14-Alumni_V_RegatasBellaVista_spreads.png" width="32%" />
+</p>
+
+## Week 10
+
+### Hindu V Belgrano on 2025/06/21
+
+
+Average Margin: Belgrano by 0.9
+
+<p float="left">
+<img src="plots\2025-06-21-Hindu_V_Belgrano_performances.png" width="32%" />
+<img src="plots\2025-06-21-Hindu_V_Belgrano_resultbar.png" width="32%" />
+<img src="plots\2025-06-21-Hindu_V_Belgrano_spreads.png" width="32%" />
+</p>
+
+### SIC V Regatas Bella Vista on 2025/06/21
+
+
+Average Margin: SIC by 3.7
+
+<p float="left">
+<img src="plots\2025-06-21-SIC_V_RegatasBellaVista_performances.png" width="32%" />
+<img src="plots\2025-06-21-SIC_V_RegatasBellaVista_resultbar.png" width="32%" />
+<img src="plots\2025-06-21-SIC_V_RegatasBellaVista_spreads.png" width="32%" />
+</p>
+
+### La Plata V Alumni on 2025/06/21
+
+
+Average Margin: Alumni by 3.0
+
+<p float="left">
+<img src="plots\2025-06-21-LaPlata_V_Alumni_performances.png" width="32%" />
+<img src="plots\2025-06-21-LaPlata_V_Alumni_resultbar.png" width="32%" />
+<img src="plots\2025-06-21-LaPlata_V_Alumni_spreads.png" width="32%" />
+</p>
+
+### Newman V CASI on 2025/06/21
+
+
+Average Margin: Newman by 1.8
+
+<p float="left">
+<img src="plots\2025-06-21-Newman_V_CASI_performances.png" width="32%" />
+<img src="plots\2025-06-21-Newman_V_CASI_resultbar.png" width="32%" />
+<img src="plots\2025-06-21-Newman_V_CASI_spreads.png" width="32%" />
+</p>
+
+### Los Tilos V San Luis on 2025/06/21
+
+
+Average Margin: Los Tilos by 5.6
+
+<p float="left">
+<img src="plots\2025-06-21-LosTilos_V_SanLuis_performances.png" width="32%" />
+<img src="plots\2025-06-21-LosTilos_V_SanLuis_resultbar.png" width="32%" />
+<img src="plots\2025-06-21-LosTilos_V_SanLuis_spreads.png" width="32%" />
+</p>
+
+### Buenos Aires V CUBA on 2025/06/21
+
+
+Average Margin: Buenos Aires by 0.3
+
+<p float="left">
+<img src="plots\2025-06-21-BuenosAires_V_CUBA_performances.png" width="32%" />
+<img src="plots\2025-06-21-BuenosAires_V_CUBA_resultbar.png" width="32%" />
+<img src="plots\2025-06-21-BuenosAires_V_CUBA_spreads.png" width="32%" />
+</p>
+
+## Week 11
+
+### Alumni V SIC on 2025/06/28
+
+
+Average Margin: Alumni by 3.2
+
+<p float="left">
+<img src="plots\2025-06-28-Alumni_V_SIC_performances.png" width="32%" />
+<img src="plots\2025-06-28-Alumni_V_SIC_resultbar.png" width="32%" />
+<img src="plots\2025-06-28-Alumni_V_SIC_spreads.png" width="32%" />
+</p>
+
+### Regatas Bella Vista V Los Tilos on 2025/06/28
+
+
+Average Margin: Regatas Bella Vista by 2.8
+
+<p float="left">
+<img src="plots\2025-06-28-RegatasBellaVista_V_LosTilos_performances.png" width="32%" />
+<img src="plots\2025-06-28-RegatasBellaVista_V_LosTilos_resultbar.png" width="32%" />
+<img src="plots\2025-06-28-RegatasBellaVista_V_LosTilos_spreads.png" width="32%" />
+</p>
+
+### CUBA V La Plata on 2025/06/28
+
+
+Average Margin: CUBA by 4.0
+
+<p float="left">
+<img src="plots\2025-06-28-CUBA_V_LaPlata_performances.png" width="32%" />
+<img src="plots\2025-06-28-CUBA_V_LaPlata_resultbar.png" width="32%" />
+<img src="plots\2025-06-28-CUBA_V_LaPlata_spreads.png" width="32%" />
+</p>
+
+### CASI V Hindu on 2025/06/28
+
+
+Average Margin: CASI by 5.4
+
+<p float="left">
+<img src="plots\2025-06-28-CASI_V_Hindu_performances.png" width="32%" />
+<img src="plots\2025-06-28-CASI_V_Hindu_resultbar.png" width="32%" />
+<img src="plots\2025-06-28-CASI_V_Hindu_spreads.png" width="32%" />
+</p>
+
+### Belgrano V Buenos Aires on 2025/06/28
+
+
+Average Margin: Belgrano by 6.7
+
+<p float="left">
+<img src="plots\2025-06-28-Belgrano_V_BuenosAires_performances.png" width="32%" />
+<img src="plots\2025-06-28-Belgrano_V_BuenosAires_resultbar.png" width="32%" />
+<img src="plots\2025-06-28-Belgrano_V_BuenosAires_spreads.png" width="32%" />
+</p>
+
+### San Luis V Newman on 2025/06/28
+
+
+Average Margin: Newman by 2.5
+
+<p float="left">
+<img src="plots\2025-06-28-SanLuis_V_Newman_performances.png" width="32%" />
+<img src="plots\2025-06-28-SanLuis_V_Newman_resultbar.png" width="32%" />
+<img src="plots\2025-06-28-SanLuis_V_Newman_spreads.png" width="32%" />
+</p>
+
+## Week 12
+
+### CUBA V Alumni on 2025/07/12
+
+
+Average Margin: CUBA by 1.4
+
+<p float="left">
+<img src="plots\2025-07-12-CUBA_V_Alumni_performances.png" width="32%" />
+<img src="plots\2025-07-12-CUBA_V_Alumni_resultbar.png" width="32%" />
+<img src="plots\2025-07-12-CUBA_V_Alumni_spreads.png" width="32%" />
+</p>
+
+### San Luis V Hindu on 2025/07/12
+
+
+Average Margin: San Luis by 2.3
+
+<p float="left">
+<img src="plots\2025-07-12-SanLuis_V_Hindu_performances.png" width="32%" />
+<img src="plots\2025-07-12-SanLuis_V_Hindu_resultbar.png" width="32%" />
+<img src="plots\2025-07-12-SanLuis_V_Hindu_spreads.png" width="32%" />
+</p>
+
+### CASI V Buenos Aires on 2025/07/12
+
+
+Average Margin: CASI by 7.4
+
+<p float="left">
+<img src="plots\2025-07-12-CASI_V_BuenosAires_performances.png" width="32%" />
+<img src="plots\2025-07-12-CASI_V_BuenosAires_resultbar.png" width="32%" />
+<img src="plots\2025-07-12-CASI_V_BuenosAires_spreads.png" width="32%" />
+</p>
+
+### Belgrano V La Plata on 2025/07/12
+
+
+Average Margin: Belgrano by 6.9
+
+<p float="left">
+<img src="plots\2025-07-12-Belgrano_V_LaPlata_performances.png" width="32%" />
+<img src="plots\2025-07-12-Belgrano_V_LaPlata_resultbar.png" width="32%" />
+<img src="plots\2025-07-12-Belgrano_V_LaPlata_spreads.png" width="32%" />
+</p>
+
+### SIC V Los Tilos on 2025/07/12
+
+
+Average Margin: SIC by 5.2
+
+<p float="left">
+<img src="plots\2025-07-12-SIC_V_LosTilos_performances.png" width="32%" />
+<img src="plots\2025-07-12-SIC_V_LosTilos_resultbar.png" width="32%" />
+<img src="plots\2025-07-12-SIC_V_LosTilos_spreads.png" width="32%" />
+</p>
+
+### Regatas Bella Vista V Newman on 2025/07/12
+
+
+Average Margin: Newman by 3.0
+
+<p float="left">
+<img src="plots\2025-07-12-RegatasBellaVista_V_Newman_performances.png" width="32%" />
+<img src="plots\2025-07-12-RegatasBellaVista_V_Newman_resultbar.png" width="32%" />
+<img src="plots\2025-07-12-RegatasBellaVista_V_Newman_spreads.png" width="32%" />
+</p>
+
+## Week 13
+
+### Newman V SIC on 2025/07/19
+
+
+Average Margin: Newman by 2.2
+
+<p float="left">
+<img src="plots\2025-07-19-Newman_V_SIC_performances.png" width="32%" />
+<img src="plots\2025-07-19-Newman_V_SIC_resultbar.png" width="32%" />
+<img src="plots\2025-07-19-Newman_V_SIC_spreads.png" width="32%" />
+</p>
+
+### Alumni V Los Tilos on 2025/07/19
+
+
+Average Margin: Alumni by 3.0
+
+<p float="left">
+<img src="plots\2025-07-19-Alumni_V_LosTilos_performances.png" width="32%" />
+<img src="plots\2025-07-19-Alumni_V_LosTilos_resultbar.png" width="32%" />
+<img src="plots\2025-07-19-Alumni_V_LosTilos_spreads.png" width="32%" />
+</p>
+
+### CUBA V Belgrano on 2025/07/19
+
+
+Average Margin: Belgrano by 2.3
+
+<p float="left">
+<img src="plots\2025-07-19-CUBA_V_Belgrano_performances.png" width="32%" />
+<img src="plots\2025-07-19-CUBA_V_Belgrano_resultbar.png" width="32%" />
+<img src="plots\2025-07-19-CUBA_V_Belgrano_spreads.png" width="32%" />
+</p>
+
+### La Plata V CASI on 2025/07/19
+
+
+Average Margin: CASI by 2.6
+
+<p float="left">
+<img src="plots\2025-07-19-LaPlata_V_CASI_performances.png" width="32%" />
+<img src="plots\2025-07-19-LaPlata_V_CASI_resultbar.png" width="32%" />
+<img src="plots\2025-07-19-LaPlata_V_CASI_spreads.png" width="32%" />
+</p>
+
+### Hindu V Regatas Bella Vista on 2025/07/19
+
+
+Average Margin: Hindu by 3.8
+
+<p float="left">
+<img src="plots\2025-07-19-Hindu_V_RegatasBellaVista_performances.png" width="32%" />
+<img src="plots\2025-07-19-Hindu_V_RegatasBellaVista_resultbar.png" width="32%" />
+<img src="plots\2025-07-19-Hindu_V_RegatasBellaVista_spreads.png" width="32%" />
+</p>
+
+### Buenos Aires V San Luis on 2025/07/19
+
+
+Average Margin: Buenos Aires by 3.0
+
+<p float="left">
+<img src="plots\2025-07-19-BuenosAires_V_SanLuis_performances.png" width="32%" />
+<img src="plots\2025-07-19-BuenosAires_V_SanLuis_resultbar.png" width="32%" />
+<img src="plots\2025-07-19-BuenosAires_V_SanLuis_spreads.png" width="32%" />
+</p>
+
+## Week 14
+
+### SIC V Hindu on 2025/08/02
+
+
+Average Margin: SIC by 5.3
+
+<p float="left">
+<img src="plots\2025-08-02-SIC_V_Hindu_performances.png" width="32%" />
+<img src="plots\2025-08-02-SIC_V_Hindu_resultbar.png" width="32%" />
+<img src="plots\2025-08-02-SIC_V_Hindu_spreads.png" width="32%" />
+</p>
+
+### Belgrano V Alumni on 2025/08/02
+
+
+Average Margin: Belgrano by 3.4
+
+<p float="left">
+<img src="plots\2025-08-02-Belgrano_V_Alumni_performances.png" width="32%" />
+<img src="plots\2025-08-02-Belgrano_V_Alumni_resultbar.png" width="32%" />
+<img src="plots\2025-08-02-Belgrano_V_Alumni_spreads.png" width="32%" />
+</p>
+
+### Los Tilos V Newman on 2025/08/02
+
+
+Average Margin: Los Tilos by 1.3
+
+<p float="left">
+<img src="plots\2025-08-02-LosTilos_V_Newman_performances.png" width="32%" />
+<img src="plots\2025-08-02-LosTilos_V_Newman_resultbar.png" width="32%" />
+<img src="plots\2025-08-02-LosTilos_V_Newman_spreads.png" width="32%" />
+</p>
+
+### CASI V CUBA on 2025/08/02
+
+
+Average Margin: CASI by 4.2
+
+<p float="left">
+<img src="plots\2025-08-02-CASI_V_CUBA_performances.png" width="32%" />
+<img src="plots\2025-08-02-CASI_V_CUBA_resultbar.png" width="32%" />
+<img src="plots\2025-08-02-CASI_V_CUBA_spreads.png" width="32%" />
+</p>
+
+### San Luis V La Plata on 2025/08/02
+
+
+Average Margin: San Luis by 2.1
+
+<p float="left">
+<img src="plots\2025-08-02-SanLuis_V_LaPlata_performances.png" width="32%" />
+<img src="plots\2025-08-02-SanLuis_V_LaPlata_resultbar.png" width="32%" />
+<img src="plots\2025-08-02-SanLuis_V_LaPlata_spreads.png" width="32%" />
+</p>
+
+### Regatas Bella Vista V Buenos Aires on 2025/08/02
+
+
+Average Margin: Regatas Bella Vista by 3.0
+
+<p float="left">
+<img src="plots\2025-08-02-RegatasBellaVista_V_BuenosAires_performances.png" width="32%" />
+<img src="plots\2025-08-02-RegatasBellaVista_V_BuenosAires_resultbar.png" width="32%" />
+<img src="plots\2025-08-02-RegatasBellaVista_V_BuenosAires_spreads.png" width="32%" />
+</p>
+
+## Week 15
+
+### Buenos Aires V SIC on 2025/08/09
+
+
+Average Margin: SIC by 2.2
+
+<p float="left">
+<img src="plots\2025-08-09-BuenosAires_V_SIC_performances.png" width="32%" />
+<img src="plots\2025-08-09-BuenosAires_V_SIC_resultbar.png" width="32%" />
+<img src="plots\2025-08-09-BuenosAires_V_SIC_spreads.png" width="32%" />
+</p>
+
+### Hindu V Los Tilos on 2025/08/09
+
+
+Average Margin: Hindu by 2.8
+
+<p float="left">
+<img src="plots\2025-08-09-Hindu_V_LosTilos_performances.png" width="32%" />
+<img src="plots\2025-08-09-Hindu_V_LosTilos_resultbar.png" width="32%" />
+<img src="plots\2025-08-09-Hindu_V_LosTilos_spreads.png" width="32%" />
+</p>
+
+### Belgrano V CASI on 2025/08/09
+
+
+Average Margin: Belgrano by 3.9
+
+<p float="left">
+<img src="plots\2025-08-09-Belgrano_V_CASI_performances.png" width="32%" />
+<img src="plots\2025-08-09-Belgrano_V_CASI_resultbar.png" width="32%" />
+<img src="plots\2025-08-09-Belgrano_V_CASI_spreads.png" width="32%" />
+</p>
+
+### Alumni V Newman on 2025/08/09
+
+
+Average Margin: Newman by 0.6
+
+<p float="left">
+<img src="plots\2025-08-09-Alumni_V_Newman_performances.png" width="32%" />
+<img src="plots\2025-08-09-Alumni_V_Newman_resultbar.png" width="32%" />
+<img src="plots\2025-08-09-Alumni_V_Newman_spreads.png" width="32%" />
+</p>
+
+### La Plata V Regatas Bella Vista on 2025/08/09
+
+
+Average Margin: La Plata by 1.7
+
+<p float="left">
+<img src="plots\2025-08-09-LaPlata_V_RegatasBellaVista_performances.png" width="32%" />
+<img src="plots\2025-08-09-LaPlata_V_RegatasBellaVista_resultbar.png" width="32%" />
+<img src="plots\2025-08-09-LaPlata_V_RegatasBellaVista_spreads.png" width="32%" />
+</p>
+
+### CUBA V San Luis on 2025/08/09
+
+
+Average Margin: CUBA by 6.7
+
+<p float="left">
+<img src="plots\2025-08-09-CUBA_V_SanLuis_performances.png" width="32%" />
+<img src="plots\2025-08-09-CUBA_V_SanLuis_resultbar.png" width="32%" />
+<img src="plots\2025-08-09-CUBA_V_SanLuis_spreads.png" width="32%" />
+</p>
+
+## Week 16
+
+### CASI V Alumni on 2025/08/16
+
+
+Average Margin: CASI by 4.8
+
+<p float="left">
+<img src="plots\2025-08-16-CASI_V_Alumni_performances.png" width="32%" />
+<img src="plots\2025-08-16-CASI_V_Alumni_resultbar.png" width="32%" />
+<img src="plots\2025-08-16-CASI_V_Alumni_spreads.png" width="32%" />
+</p>
+
+### San Luis V Belgrano on 2025/08/16
+
+
+Average Margin: Belgrano by 2.8
+
+<p float="left">
+<img src="plots\2025-08-16-SanLuis_V_Belgrano_performances.png" width="32%" />
+<img src="plots\2025-08-16-SanLuis_V_Belgrano_resultbar.png" width="32%" />
+<img src="plots\2025-08-16-SanLuis_V_Belgrano_spreads.png" width="32%" />
+</p>
+
+### Regatas Bella Vista V CUBA on 2025/08/16
+
+
+Average Margin: Regatas Bella Vista by 2.8
+
+<p float="left">
+<img src="plots\2025-08-16-RegatasBellaVista_V_CUBA_performances.png" width="32%" />
+<img src="plots\2025-08-16-RegatasBellaVista_V_CUBA_resultbar.png" width="32%" />
+<img src="plots\2025-08-16-RegatasBellaVista_V_CUBA_spreads.png" width="32%" />
+</p>
+
+### Los Tilos V Buenos Aires on 2025/08/16
+
+
+Average Margin: Los Tilos by 2.8
+
+<p float="left">
+<img src="plots\2025-08-16-LosTilos_V_BuenosAires_performances.png" width="32%" />
+<img src="plots\2025-08-16-LosTilos_V_BuenosAires_resultbar.png" width="32%" />
+<img src="plots\2025-08-16-LosTilos_V_BuenosAires_spreads.png" width="32%" />
+</p>
+
+### SIC V La Plata on 2025/08/16
+
+
+Average Margin: SIC by 7.6
+
+<p float="left">
+<img src="plots\2025-08-16-SIC_V_LaPlata_performances.png" width="32%" />
+<img src="plots\2025-08-16-SIC_V_LaPlata_resultbar.png" width="32%" />
+<img src="plots\2025-08-16-SIC_V_LaPlata_spreads.png" width="32%" />
+</p>
+
+### Newman V Hindu on 2025/08/16
+
+
+Average Margin: Newman by 4.5
+
+<p float="left">
+<img src="plots\2025-08-16-Newman_V_Hindu_performances.png" width="32%" />
+<img src="plots\2025-08-16-Newman_V_Hindu_resultbar.png" width="32%" />
+<img src="plots\2025-08-16-Newman_V_Hindu_spreads.png" width="32%" />
+</p>
+
+## Week 17
+
+### Alumni V Hindu on 2025/08/30
+
+
+Average Margin: Alumni by 1.6
+
+<p float="left">
+<img src="plots\2025-08-30-Alumni_V_Hindu_performances.png" width="32%" />
+<img src="plots\2025-08-30-Alumni_V_Hindu_resultbar.png" width="32%" />
+<img src="plots\2025-08-30-Alumni_V_Hindu_spreads.png" width="32%" />
+</p>
+
+### Belgrano V Regatas Bella Vista on 2025/08/30
+
+
+Average Margin: Belgrano by 4.6
+
+<p float="left">
+<img src="plots\2025-08-30-Belgrano_V_RegatasBellaVista_performances.png" width="32%" />
+<img src="plots\2025-08-30-Belgrano_V_RegatasBellaVista_resultbar.png" width="32%" />
+<img src="plots\2025-08-30-Belgrano_V_RegatasBellaVista_spreads.png" width="32%" />
+</p>
+
+### La Plata V Los Tilos on 2025/08/30
+
+
+Average Margin: Los Tilos by 0.3
+
+<p float="left">
+<img src="plots\2025-08-30-LaPlata_V_LosTilos_performances.png" width="32%" />
+<img src="plots\2025-08-30-LaPlata_V_LosTilos_resultbar.png" width="32%" />
+<img src="plots\2025-08-30-LaPlata_V_LosTilos_spreads.png" width="32%" />
+</p>
+
+### CUBA V SIC on 2025/08/30
+
+
+Average Margin: CUBA by 1.5
+
+<p float="left">
+<img src="plots\2025-08-30-CUBA_V_SIC_performances.png" width="32%" />
+<img src="plots\2025-08-30-CUBA_V_SIC_resultbar.png" width="32%" />
+<img src="plots\2025-08-30-CUBA_V_SIC_spreads.png" width="32%" />
+</p>
+
+### Buenos Aires V Newman on 2025/08/30
+
+
+Average Margin: Newman by 0.2
+
+<p float="left">
+<img src="plots\2025-08-30-BuenosAires_V_Newman_performances.png" width="32%" />
+<img src="plots\2025-08-30-BuenosAires_V_Newman_resultbar.png" width="32%" />
+<img src="plots\2025-08-30-BuenosAires_V_Newman_spreads.png" width="32%" />
+</p>
+
+### CASI V San Luis on 2025/08/30
+
+
+Average Margin: CASI by 7.1
+
+<p float="left">
+<img src="plots\2025-08-30-CASI_V_SanLuis_performances.png" width="32%" />
+<img src="plots\2025-08-30-CASI_V_SanLuis_resultbar.png" width="32%" />
+<img src="plots\2025-08-30-CASI_V_SanLuis_spreads.png" width="32%" />
+</p>
+
+## Week 18
+
+### Regatas Bella Vista V CASI on 2025/09/06
+
+
+Average Margin: CASI by 0.8
+
+<p float="left">
+<img src="plots\2025-09-06-RegatasBellaVista_V_CASI_performances.png" width="32%" />
+<img src="plots\2025-09-06-RegatasBellaVista_V_CASI_resultbar.png" width="32%" />
+<img src="plots\2025-09-06-RegatasBellaVista_V_CASI_spreads.png" width="32%" />
+</p>
+
+### SIC V Belgrano on 2025/09/06
+
+
+Average Margin: SIC by 0.7
+
+<p float="left">
+<img src="plots\2025-09-06-SIC_V_Belgrano_performances.png" width="32%" />
+<img src="plots\2025-09-06-SIC_V_Belgrano_resultbar.png" width="32%" />
+<img src="plots\2025-09-06-SIC_V_Belgrano_spreads.png" width="32%" />
+</p>
+
+### Newman V La Plata on 2025/09/06
+
+
+Average Margin: Newman by 7.3
+
+<p float="left">
+<img src="plots\2025-09-06-Newman_V_LaPlata_performances.png" width="32%" />
+<img src="plots\2025-09-06-Newman_V_LaPlata_resultbar.png" width="32%" />
+<img src="plots\2025-09-06-Newman_V_LaPlata_spreads.png" width="32%" />
+</p>
+
+### Hindu V Buenos Aires on 2025/09/06
+
+
+Average Margin: Hindu by 3.2
+
+<p float="left">
+<img src="plots\2025-09-06-Hindu_V_BuenosAires_performances.png" width="32%" />
+<img src="plots\2025-09-06-Hindu_V_BuenosAires_resultbar.png" width="32%" />
+<img src="plots\2025-09-06-Hindu_V_BuenosAires_spreads.png" width="32%" />
+</p>
+
+### San Luis V Alumni on 2025/09/06
+
+
+Average Margin: Alumni by 0.3
+
+<p float="left">
+<img src="plots\2025-09-06-SanLuis_V_Alumni_performances.png" width="32%" />
+<img src="plots\2025-09-06-SanLuis_V_Alumni_resultbar.png" width="32%" />
+<img src="plots\2025-09-06-SanLuis_V_Alumni_spreads.png" width="32%" />
+</p>
+
+### Los Tilos V CUBA on 2025/09/06
+
+
+Average Margin: Los Tilos by 1.9
+
+<p float="left">
+<img src="plots\2025-09-06-LosTilos_V_CUBA_performances.png" width="32%" />
+<img src="plots\2025-09-06-LosTilos_V_CUBA_resultbar.png" width="32%" />
+<img src="plots\2025-09-06-LosTilos_V_CUBA_spreads.png" width="32%" />
+</p>
+
+## Week 19
+
+### CASI V SIC on 2025/09/13
+
+
+Average Margin: CASI by 3.5
+
+<p float="left">
+<img src="plots\2025-09-13-CASI_V_SIC_performances.png" width="32%" />
+<img src="plots\2025-09-13-CASI_V_SIC_resultbar.png" width="32%" />
+<img src="plots\2025-09-13-CASI_V_SIC_spreads.png" width="32%" />
+</p>
+
+### CUBA V Newman on 2025/09/13
+
+
+Average Margin: CUBA by 0.9
+
+<p float="left">
+<img src="plots\2025-09-13-CUBA_V_Newman_performances.png" width="32%" />
+<img src="plots\2025-09-13-CUBA_V_Newman_resultbar.png" width="32%" />
+<img src="plots\2025-09-13-CUBA_V_Newman_spreads.png" width="32%" />
+</p>
+
+### La Plata V Hindu on 2025/09/13
+
+
+Average Margin: La Plata by 1.3
+
+<p float="left">
+<img src="plots\2025-09-13-LaPlata_V_Hindu_performances.png" width="32%" />
+<img src="plots\2025-09-13-LaPlata_V_Hindu_resultbar.png" width="32%" />
+<img src="plots\2025-09-13-LaPlata_V_Hindu_spreads.png" width="32%" />
+</p>
+
+### Belgrano V Los Tilos on 2025/09/13
+
+
+Average Margin: Belgrano by 3.6
+
+<p float="left">
+<img src="plots\2025-09-13-Belgrano_V_LosTilos_performances.png" width="32%" />
+<img src="plots\2025-09-13-Belgrano_V_LosTilos_resultbar.png" width="32%" />
+<img src="plots\2025-09-13-Belgrano_V_LosTilos_spreads.png" width="32%" />
+</p>
+
+### Alumni V Buenos Aires on 2025/09/13
+
+
+Average Margin: Alumni by 3.8
+
+<p float="left">
+<img src="plots\2025-09-13-Alumni_V_BuenosAires_performances.png" width="32%" />
+<img src="plots\2025-09-13-Alumni_V_BuenosAires_resultbar.png" width="32%" />
+<img src="plots\2025-09-13-Alumni_V_BuenosAires_spreads.png" width="32%" />
+</p>
+
+### San Luis V Regatas Bella Vista on 2025/09/13
+
+
+Average Margin: San Luis by 3.0
+
+<p float="left">
+<img src="plots\2025-09-13-SanLuis_V_RegatasBellaVista_performances.png" width="32%" />
+<img src="plots\2025-09-13-SanLuis_V_RegatasBellaVista_resultbar.png" width="32%" />
+<img src="plots\2025-09-13-SanLuis_V_RegatasBellaVista_spreads.png" width="32%" />
+</p>
+
+## Week 20
+
+### Newman V Belgrano on 2025/09/27
+
+
+Average Margin: Newman by 2.0
+
+<p float="left">
+<img src="plots\2025-09-27-Newman_V_Belgrano_performances.png" width="32%" />
+<img src="plots\2025-09-27-Newman_V_Belgrano_resultbar.png" width="32%" />
+<img src="plots\2025-09-27-Newman_V_Belgrano_spreads.png" width="32%" />
+</p>
+
+### Regatas Bella Vista V Alumni on 2025/09/27
+
+
+Average Margin: Regatas Bella Vista by 1.5
+
+<p float="left">
+<img src="plots\2025-09-27-RegatasBellaVista_V_Alumni_performances.png" width="32%" />
+<img src="plots\2025-09-27-RegatasBellaVista_V_Alumni_resultbar.png" width="32%" />
+<img src="plots\2025-09-27-RegatasBellaVista_V_Alumni_spreads.png" width="32%" />
+</p>
+
+### Los Tilos V CASI on 2025/09/27
+
+
+Average Margin: Los Tilos by 0.6
+
+<p float="left">
+<img src="plots\2025-09-27-LosTilos_V_CASI_performances.png" width="32%" />
+<img src="plots\2025-09-27-LosTilos_V_CASI_resultbar.png" width="32%" />
+<img src="plots\2025-09-27-LosTilos_V_CASI_spreads.png" width="32%" />
+</p>
+
+### Hindu V CUBA on 2025/09/27
+
+
+Average Margin: CUBA by 0.0
+
+<p float="left">
+<img src="plots\2025-09-27-Hindu_V_CUBA_performances.png" width="32%" />
+<img src="plots\2025-09-27-Hindu_V_CUBA_resultbar.png" width="32%" />
+<img src="plots\2025-09-27-Hindu_V_CUBA_spreads.png" width="32%" />
+</p>
+
+### Buenos Aires V La Plata on 2025/09/27
+
+
+Average Margin: Buenos Aires by 3.3
+
+<p float="left">
+<img src="plots\2025-09-27-BuenosAires_V_LaPlata_performances.png" width="32%" />
+<img src="plots\2025-09-27-BuenosAires_V_LaPlata_resultbar.png" width="32%" />
+<img src="plots\2025-09-27-BuenosAires_V_LaPlata_spreads.png" width="32%" />
+</p>
+
+### SIC V San Luis on 2025/09/27
+
+
+Average Margin: SIC by 7.0
+
+<p float="left">
+<img src="plots\2025-09-27-SIC_V_SanLuis_performances.png" width="32%" />
+<img src="plots\2025-09-27-SIC_V_SanLuis_resultbar.png" width="32%" />
+<img src="plots\2025-09-27-SIC_V_SanLuis_spreads.png" width="32%" />
+</p>
+
+## Week 21
+
+### Regatas Bella Vista V SIC on 2025/10/04
+
+
+Average Margin: Regatas Bella Vista by 0.2
+
+<p float="left">
+<img src="plots\2025-10-04-RegatasBellaVista_V_SIC_performances.png" width="32%" />
+<img src="plots\2025-10-04-RegatasBellaVista_V_SIC_resultbar.png" width="32%" />
+<img src="plots\2025-10-04-RegatasBellaVista_V_SIC_spreads.png" width="32%" />
+</p>
+
+### CASI V Newman on 2025/10/04
+
+
+Average Margin: CASI by 0.6
+
+<p float="left">
+<img src="plots\2025-10-04-CASI_V_Newman_performances.png" width="32%" />
+<img src="plots\2025-10-04-CASI_V_Newman_resultbar.png" width="32%" />
+<img src="plots\2025-10-04-CASI_V_Newman_spreads.png" width="32%" />
+</p>
+
+### San Luis V Los Tilos on 2025/10/04
+
+
+Average Margin: San Luis by 1.5
+
+<p float="left">
+<img src="plots\2025-10-04-SanLuis_V_LosTilos_performances.png" width="32%" />
+<img src="plots\2025-10-04-SanLuis_V_LosTilos_resultbar.png" width="32%" />
+<img src="plots\2025-10-04-SanLuis_V_LosTilos_spreads.png" width="32%" />
+</p>
+
+### CUBA V Buenos Aires on 2025/10/04
+
+
+Average Margin: CUBA by 3.8
+
+<p float="left">
+<img src="plots\2025-10-04-CUBA_V_BuenosAires_performances.png" width="32%" />
+<img src="plots\2025-10-04-CUBA_V_BuenosAires_resultbar.png" width="32%" />
+<img src="plots\2025-10-04-CUBA_V_BuenosAires_spreads.png" width="32%" />
+</p>
+
+### Belgrano V Hindu on 2025/10/04
+
+
+Average Margin: Belgrano by 4.8
+
+<p float="left">
+<img src="plots\2025-10-04-Belgrano_V_Hindu_performances.png" width="32%" />
+<img src="plots\2025-10-04-Belgrano_V_Hindu_resultbar.png" width="32%" />
+<img src="plots\2025-10-04-Belgrano_V_Hindu_spreads.png" width="32%" />
+</p>
+
+### Alumni V La Plata on 2025/10/04
+
+
+Average Margin: Alumni by 4.2
+
+<p float="left">
+<img src="plots\2025-10-04-Alumni_V_LaPlata_performances.png" width="32%" />
+<img src="plots\2025-10-04-Alumni_V_LaPlata_resultbar.png" width="32%" />
+<img src="plots\2025-10-04-Alumni_V_LaPlata_spreads.png" width="32%" />
+</p>
+
+## Week 22
+
+### Los Tilos V Regatas Bella Vista on 2025/10/11
+
+
+Average Margin: Los Tilos by 3.8
+
+<p float="left">
+<img src="plots\2025-10-11-LosTilos_V_RegatasBellaVista_performances.png" width="32%" />
+<img src="plots\2025-10-11-LosTilos_V_RegatasBellaVista_resultbar.png" width="32%" />
+<img src="plots\2025-10-11-LosTilos_V_RegatasBellaVista_spreads.png" width="32%" />
+</p>
+
+### Newman V San Luis on 2025/10/11
+
+
+Average Margin: Newman by 4.8
+
+<p float="left">
+<img src="plots\2025-10-11-Newman_V_SanLuis_performances.png" width="32%" />
+<img src="plots\2025-10-11-Newman_V_SanLuis_resultbar.png" width="32%" />
+<img src="plots\2025-10-11-Newman_V_SanLuis_spreads.png" width="32%" />
+</p>
+
+### Hindu V CASI on 2025/10/11
+
+
+Average Margin: CASI by 1.3
+
+<p float="left">
+<img src="plots\2025-10-11-Hindu_V_CASI_performances.png" width="32%" />
+<img src="plots\2025-10-11-Hindu_V_CASI_resultbar.png" width="32%" />
+<img src="plots\2025-10-11-Hindu_V_CASI_spreads.png" width="32%" />
+</p>
+
+### La Plata V CUBA on 2025/10/11
+
+
+Average Margin: CUBA by 0.0
+
+<p float="left">
+<img src="plots\2025-10-11-LaPlata_V_CUBA_performances.png" width="32%" />
+<img src="plots\2025-10-11-LaPlata_V_CUBA_resultbar.png" width="32%" />
+<img src="plots\2025-10-11-LaPlata_V_CUBA_spreads.png" width="32%" />
+</p>
+
+### Buenos Aires V Belgrano on 2025/10/11
+
+
+Average Margin: Belgrano by 2.6
+
+<p float="left">
+<img src="plots\2025-10-11-BuenosAires_V_Belgrano_performances.png" width="32%" />
+<img src="plots\2025-10-11-BuenosAires_V_Belgrano_resultbar.png" width="32%" />
+<img src="plots\2025-10-11-BuenosAires_V_Belgrano_spreads.png" width="32%" />
+</p>
+
+### SIC V Alumni on 2025/10/11
+
+
+Average Margin: SIC by 1.9
+
+<p float="left">
+<img src="plots\2025-10-11-SIC_V_Alumni_performances.png" width="32%" />
+<img src="plots\2025-10-11-SIC_V_Alumni_resultbar.png" width="32%" />
+<img src="plots\2025-10-11-SIC_V_Alumni_spreads.png" width="32%" />
 </p>

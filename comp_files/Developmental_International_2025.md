@@ -1,6 +1,6 @@
 ---  
 title: "Developmental International 2025 Status"  
-date: 2025-05-26 6:00:00 -0500  
+date: 2025-05-30 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -63,9 +63,9 @@ aside:
 ### Trinidad and Tobago V Barbados on 2025/05/31
 
 
-Average Margin: Trinidad and Tobago by 17.8
+Average Margin: Trinidad and Tobago by 18.5
 
-Average Scoreline: 37-19
+Average Scoreline: 37-18
 
 <p float="left">
 <img src="plots/performances_2025-05-31-TrinidadandTobago_V_Barbados.png" width="32%" />
