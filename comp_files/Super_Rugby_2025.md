@@ -1,6 +1,6 @@
 ---  
 title: "Super Rugby 2025 Status"  
-date: 2025-06-02 6:00:00 -0500  
+date: 2025-06-05 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -18,6 +18,8 @@ aside:
 | Club                     |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
 | Brumbies                 |        1 |      1 |                   23 |                     0 |                  1 |                    5 |
+| Queensland Reds          |        1 |      1 |                    4 |                     0 |                  1 |                    5 |
+| Western Force            |        1 |      0 |                   -4 |                     1 |                  0 |                    1 |
 | New South Wales Waratahs |        1 |      0 |                  -23 |                     0 |                  0 |                    0 |
 
 
@@ -27,12 +29,12 @@ aside:
 
 | Club            |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:----------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Chiefs          |                   1 |    0.9 |             13.2439  |                   0   |                0.5 |                  4.2 |
-| Crusaders       |                   1 |    0.9 |             11.0044  |                   0.1 |                0.4 |                  4   |
-| Brumbies        |                   1 |    0.6 |              3.16889 |                   0.2 |                0.3 |                  3.1 |
-| Hurricanes      |                   1 |    0.4 |             -3.16889 |                   0.3 |                0.3 |                  2   |
-| Queensland Reds |                   1 |    0.1 |            -11.0044  |                   0.2 |                0.2 |                  0.9 |
-| Blues           |                   1 |    0.1 |            -13.2439  |                   0.2 |                0.1 |                  0.7 |
+| Chiefs          |                   1 |    0.8 |              6.11789 |                   0.1 |                0.3 |                  3.6 |
+| Brumbies        |                   1 |    0.8 |              4.88852 |                   0.1 |                0.3 |                  3.5 |
+| Crusaders       |                   1 |    0.7 |              5.08075 |                   0.2 |                0.3 |                  3.4 |
+| Queensland Reds |                   1 |    0.3 |             -5.08075 |                   0.3 |                0.2 |                  1.7 |
+| Hurricanes      |                   1 |    0.2 |             -4.88852 |                   0.4 |                0.2 |                  1.6 |
+| Blues           |                   1 |    0.2 |             -6.11789 |                   0.4 |                0.2 |                  1.4 |
 
 
 
@@ -41,12 +43,13 @@ aside:
 
 | Club                     |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Brumbies                 |               2 |    1.6 |             26.1689  |                   0.2 |                1.3 |                  8.1 |
-| Chiefs                   |               1 |    0.9 |             13.2439  |                   0   |                0.5 |                  4.2 |
-| Crusaders                |               1 |    0.9 |             11.0044  |                   0.1 |                0.4 |                  4   |
-| Hurricanes               |               1 |    0.4 |             -3.16889 |                   0.3 |                0.3 |                  2   |
-| Queensland Reds          |               1 |    0.1 |            -11.0044  |                   0.2 |                0.2 |                  0.9 |
-| Blues                    |               1 |    0.1 |            -13.2439  |                   0.2 |                0.1 |                  0.7 |
+| Brumbies                 |               2 |    1.8 |             27.8885  |                   0.1 |                1.3 |                  8.5 |
+| Queensland Reds          |               2 |    1.3 |             -1.08075 |                   0.3 |                1.2 |                  6.7 |
+| Chiefs                   |               1 |    0.8 |              6.11789 |                   0.1 |                0.3 |                  3.6 |
+| Crusaders                |               1 |    0.7 |              5.08075 |                   0.2 |                0.3 |                  3.4 |
+| Hurricanes               |               1 |    0.2 |             -4.88852 |                   0.4 |                0.2 |                  1.6 |
+| Blues                    |               1 |    0.2 |             -6.11789 |                   0.4 |                0.2 |                  1.4 |
+| Western Force            |               1 |    0   |             -4       |                   1   |                0   |                  1   |
 | New South Wales Waratahs |               1 |    0   |            -23       |                   0   |                0   |                  0   |
 
 
@@ -56,7 +59,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 100.0% | 9.9 |
+| Club Level | 100.0% | 6.1 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -68,9 +71,9 @@ aside:
 ### Crusaders V Queensland Reds on 2025/06/06
 
 
-Average Margin: Crusaders by 11.0
+Average Margin: Crusaders by 5.1
 
-Average Scoreline: 34-23
+Average Scoreline: 31-26
 
 <p float="left">
 <img src="plots/performances_2025-06-06-Crusaders_V_QueenslandReds.png" width="32%" />
@@ -81,9 +84,9 @@ Average Scoreline: 34-23
 ### Chiefs V Blues on 2025/06/07
 
 
-Average Margin: Chiefs by 13.2
+Average Margin: Chiefs by 6.1
 
-Average Scoreline: 35-21
+Average Scoreline: 31-24
 
 <p float="left">
 <img src="plots/performances_2025-06-07-Chiefs_V_Blues.png" width="32%" />
@@ -94,9 +97,9 @@ Average Scoreline: 35-21
 ### Brumbies V Hurricanes on 2025/06/07
 
 
-Average Margin: Brumbies by 3.2
+Average Margin: Brumbies by 4.9
 
-Average Scoreline: 33-29
+Average Scoreline: 31-26
 
 <p float="left">
 <img src="plots/performances_2025-06-07-Brumbies_V_Hurricanes.png" width="32%" />

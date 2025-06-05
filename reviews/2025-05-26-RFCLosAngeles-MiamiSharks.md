@@ -9,9 +9,9 @@ categories: "Major League Rugby 2025" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.676, which translates to predicting RFC Los Angeles to win by 6.6.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.703, which translates to predicting RFC Los Angeles to win by 7.7.
 
-Our Over/Under is 71.5 - and combined with the spread above, we have a predicted scoreline of 33 to 39
+Our Over/Under is 68.5 - and combined with the spread above, we have a predicted scoreline of 31 to 38
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: RFC Los Angeles by 1.7
+## Prediction without Player Minutes: RFC Los Angeles by 3.2
 
 
-Miami Sharks by 0.6 on a neutral pitch
+RFC Los Angeles by 0.9 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Miami Sharks by 0.6 on a neutral pitch
 
 |   Away Minutes | Away Player      |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:-----------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|           27   | Ma'ake Muti      |              9.22 |        1 |             49.56 | Alessandro Heaney     |             36 |
-|           14   | Sean McNulty     |             50.65 |        2 |             14.47 | Ben Sugars            |             27 |
-|           14   | Alec McDonnell   |             41.67 |        3 |             54.43 | Maliu Niuafe          |             27 |
-|           80   | Tomas Casares    |             23.08 |        4 |              8.18 | Jason Damm            |             48 |
-|           80   | Mauro Rebussone  |             69.88 |        5 |             92.65 | Jurie van Vuuren      |             80 |
-|            8   | Tomas Bekerman   |             64.87 |        6 |              5.27 | Tim Anstee            |             80 |
-|           66   | Benja Bonassoa   |             77.53 |        7 |              1.9  | Matt Heaton           |             21 |
-|           78   | Marques Fuala'au |             64.61 |        8 |             94.65 | Semi Kunatani         |             40 |
-|           66   | Tomas Inciarte   |             80.27 |        9 |             66.28 | Tas Smith             |             80 |
-|           80   | Martin Elias     |             95.9  |       10 |             90.21 | Christian Leali'ifano |             80 |
-|           80   | Josiah Morra     |             55.2  |       11 |              5.55 | Rory van Vugt         |             40 |
-|           16   | Santiago Videla  |             73.01 |       12 |             94.85 | Bill Meakes           |             70 |
-|           60   | Matias Orlando   |              7.39 |       13 |             53.42 | Nick Chan             |             80 |
-|           40   | Tomas Malanos    |             72.45 |       14 |             55.8  | Andrew Coe            |              4 |
-|           80   | Shane O'Leary    |             10.43 |       15 |             66.6  | Vaughen Isaacs        |              0 |
-|           80   | Kirby Myhill     |             14.66 |       16 |             83.83 | Reece MacDonald       |             34 |
-|           27.5 | Manuel Ardao     |              8.12 |       17 |             75.55 | Lucas Bur             |             59 |
-|           53   | Tau Koloamatangi |             17.55 |       18 |            nan    | Franco van den Berg   |             80 |
-|           27.5 | Tomas Cubilla    |             74.58 |       19 |             57.7  | Ben Strang            |             72 |
-|           36   | Guiseppe du Toit |              4.82 |       20 |             93.7  | Reegan O'Gorman       |              2 |
-|           80   | Rick Rose        |             32.21 |       21 |            nan    | Timmy Ohlwein         |             60 |
-|           64   | Alex Tucci       |            nan    |       22 |            nan    | Matt Anticev          |             20 |
-|           61   | Marcos Young     |             56.81 |       23 |            nan    | Danny Christensen     |             58 |
+|             80 | Ma'ake Muti      |              8.51 |        1 |             48.35 | Alessandro Heaney     |             80 |
+|             80 | Sean McNulty     |             20.11 |        2 |             16.89 | Ben Sugars            |             63 |
+|             30 | Alec McDonnell   |             51.48 |        3 |             55.73 | Maliu Niuafe          |             80 |
+|             80 | Tomas Casares    |             19.44 |        4 |             13.37 | Jason Damm            |             49 |
+|             80 | Mauro Rebussone  |             70.88 |        5 |             91.98 | Jurie van Vuuren      |             31 |
+|             76 | Tomas Bekerman   |             65.04 |        6 |              4.45 | Tim Anstee            |             32 |
+|             80 | Benja Bonassoa   |             80.08 |        7 |              1.91 | Matt Heaton           |             60 |
+|             59 | Marques Fuala'au |             71.86 |        8 |             96.15 | Semi Kunatani         |             60 |
+|             80 | Tomas Inciarte   |             73.37 |        9 |             61.69 | Tas Smith             |              7 |
+|             20 | Martin Elias     |             96.18 |       10 |             86.52 | Christian Leali'ifano |             46 |
+|             40 | Josiah Morra     |             57.39 |       11 |             11.78 | Rory van Vugt         |             32 |
+|             58 | Santiago Videla  |             67.66 |       12 |             94.7  | Bill Meakes           |             32 |
+|             23 | Matias Orlando   |              6.95 |       13 |             48.68 | Nick Chan             |             22 |
+|             64 | Tomas Malanos    |             78.84 |       14 |             59.08 | Andrew Coe            |             47 |
+|              4 | Shane O'Leary    |             13.22 |       15 |             67.59 | Vaughen Isaacs        |             80 |
+|             60 | Kirby Myhill     |              5.69 |       16 |             85.07 | Reece MacDonald       |             80 |
+|             50 | Manuel Ardao     |              7.84 |       17 |             61.73 | Lucas Bur             |             76 |
+|             80 | Tau Koloamatangi |              9.46 |       18 |            nan    | Franco van den Berg   |             40 |
+|             31 | Tomas Cubilla    |             85.43 |       19 |             55.98 | Ben Strang            |             33 |
+|             31 | Guiseppe du Toit |              4.97 |       20 |             93.52 | Reegan O'Gorman       |             48 |
+|             21 | Rick Rose        |            nan    |       21 |            nan    | Timmy Ohlwein         |             48 |
+|             21 | Alex Tucci       |            nan    |       22 |            nan    | Matt Anticev          |             80 |
+|             25 | Marcos Young     |             54.49 |       23 |            nan    | Danny Christensen     |             57 |
 
