@@ -10,161 +10,103 @@ key: page-recents
 
 [In depth model review and projections for Gallagher Premiership 24/25](comp_files/Gallagher_Premiership_24/25)
 
-Competition Accuracy: 63 of 91 (69.23%)
+Competition Accuracy: 65 of 92 (70.65%)
 
-Competition Error: 13.93 points per match
+Competition Error: 13.94 points per match
 
-Last Round Accuracy: 4 of 5 (80.0%)
+Last Round Accuracy: 5 of 5 (100.0%)
 
-Last Round Error: 8.74 points per match
+Last Round Error: 15.03 points per match
 
-[2025-05-31 Northampton Saints at Gloucester Rugby; 6-25](reviews//2025-05-31-GloucesterRugby-NorthamptonSaints)
+[2025-06-06 Bristol Rugby at Bath Rugby; 20-34](reviews//2025-06-06-BathRugby-BristolRugby)
 
-[2025-05-31 Sale Sharks at Exeter Chiefs; 30-40](reviews//2025-05-31-ExeterChiefs-SaleSharks)
-
-[2025-05-31 Newcastle Falcons at Leicester Tigers; 16-23](reviews//2025-05-31-LeicesterTigers-NewcastleFalcons)
-
-[2025-05-31 Bath Rugby at Saracens; 26-36](reviews//2025-05-31-Saracens-BathRugby)
-
-[2025-05-31 Harlequins at Bristol Rugby; 30-40](reviews//2025-05-31-BristolRugby-Harlequins)
+[2025-06-07 Sale Sharks at Leicester Tigers; 16-21](reviews//2025-06-07-LeicesterTigers-SaleSharks)
 ## Major League Rugby
 
 
 [In depth model review and projections for Major League Rugby 2025](comp_files/Major_League_Rugby_2025)
 
-Competition Accuracy: 62 of 93 (66.67%)
+Competition Accuracy: 66 of 99 (66.67%)
 
-Competition Error: 11.27 points per match
-
-Last Round Accuracy: 4 of 6 (66.67%)
-
-Last Round Error: 7.67 points per match
-
-[2025-05-26 Miami Sharks at RFC Los Angeles; 20-26](reviews//2025-05-26-RFCLosAngeles-MiamiSharks)
-
-[2025-05-31 Anthem RC at Utah Warriors; 10-31](reviews//2025-05-31-UtahWarriors-AnthemRC)
-
-[2025-05-31 RFCLA at Old Glory DC; 43-32](reviews//2025-05-31-OldGloryDC-RFCLA)
-
-[2025-05-31 San Diego Legion at Miami Sharks; 32-36](reviews//2025-05-31-MiamiSharks-SanDiegoLegion)
-
-[2025-06-01 RFC Los Angeles at Old Glory DC; 43-32](reviews//2025-06-01-OldGloryDC-RFCLosAngeles)
-
-[2025-06-01 Seattle Seawolves at New England Free Jacks; 30-37](reviews//2025-06-01-NewEnglandFreeJacks-SeattleSeawolves)
-
-[2025-06-01 NOLA Gold at Chicago Hounds; 17-38](reviews//2025-06-01-ChicagoHounds-NOLAGold)
-
-[2025-06-05 Houston SaberCats at Chicago Hounds; 12-15](reviews//2025-06-05-ChicagoHounds-HoustonSaberCats)
-## RFU Championship
-
-
-[In depth model review and projections for RFU Championship 24/25](comp_files/RFU_Championship_24/25)
-
-Competition Accuracy: 99 of 136 (72.79%)
-
-Competition Error: 14.45 points per match
+Competition Error: 11.78 points per match
 
 Last Round Accuracy: 6 of 6 (100.0%)
 
-Last Round Error: 14.27 points per match
+Last Round Error: 16.45 points per match
 
-[2025-05-31 Nottingham at Cornish Pirates; 34-35](reviews//2025-05-31-CornishPirates-Nottingham)
+[2025-06-05 Houston SaberCats at Chicago Hounds; 12-15](reviews//2025-06-05-ChicagoHounds-HoustonSaberCats)
 
-[2025-05-31 Ealing Trailfinders at Hartpury College; 45-12](reviews//2025-05-31-HartpuryCollege-EalingTrailfinders)
+[2025-06-07 RFCLA at Utah Warriors; 33-48](reviews//2025-06-07-UtahWarriors-RFCLA)
 
-[2025-05-31 Ealing Trailfinders at Hartpury College; 45-12](reviews//2025-05-31-HartpuryCollege-EalingTrailfinders)
+[2025-06-08 RFC Los Angeles at Utah Warriors; 33-48](reviews//2025-06-08-UtahWarriors-RFCLosAngeles)
 
-[2025-05-31 London Scottish at Coventry; 31-50](reviews//2025-05-31-Coventry-LondonScottish)
+[2025-06-08 New England Free Jacks at NOLA Gold; 21-17](reviews//2025-06-08-NOLAGold-NewEnglandFreeJacks)
 
-[2025-05-31 Doncaster at Ampthill; 29-19](reviews//2025-05-31-Ampthill-Doncaster)
+[2025-06-08 Old Glory DC at San Diego Legion; 5-50](reviews//2025-06-08-SanDiegoLegion-OldGloryDC)
 
-[2025-05-31 Bedford at Caldy; 29-26](reviews//2025-05-31-Caldy-Bedford)
+[2025-06-09 Anthem RC at Houston SaberCats; 14-26](reviews//2025-06-09-HoustonSaberCats-AnthemRC)
 
-[2025-05-31 Cambridge at Chinnor; 34-82](reviews//2025-05-31-Chinnor-Cambridge)
-## Super Rugby Americas
-
-
-[In depth model review and projections for Super Rugby Americas 2025](comp_files/Super_Rugby_Americas_2025)
-
-Competition Accuracy: 26 of 40 (65.0%)
-
-Competition Error: 11.73 points per match
-
-Last Round Accuracy: 4 of 4 (100.0%)
-
-Last Round Error: 8.11 points per match
-
-[2025-05-31 Pampas XV at Penarol Rugby; 32-27](reviews//2025-05-31-PenarolRugby-PampasXV)
-
-[2025-06-01 Yacare XV at Tarucas; 24-44](reviews//2025-06-01-Tarucas-YacareXV)
+[2025-06-09 Miami Sharks at Seattle Seawolves; 17-42](reviews//2025-06-09-SeattleSeawolves-MiamiSharks)
 ## Super Rugby Pacific
 
 
 [In depth model review and projections for Super Rugby Pacific 2025](comp_files/Super_Rugby_Pacific_2025)
 
-Competition Accuracy: 49 of 76 (64.47%)
+Competition Accuracy: 52 of 77 (67.53%)
 
-Competition Error: 13.47 points per match
+Competition Error: 13.41 points per match
 
 Last Round Accuracy: 4 of 6 (66.67%)
 
-Last Round Error: 13.38 points per match
+Last Round Error: 20.48 points per match
 
-[2025-05-30 Chiefs at Highlanders; 41-24](reviews//2025-05-30-Highlanders-Chiefs)
+[2025-06-06 Queensland Reds at Crusaders; 12-32](reviews//2025-06-06-Crusaders-QueenslandReds)
 
-[2025-05-30 Crusaders at Brumbies; 33-31](reviews//2025-05-30-Brumbies-Crusaders)
+[2025-06-07 Blues at Chiefs; 20-19](reviews//2025-06-07-Chiefs-Blues)
 
-[2025-05-31 Fijian Drua at Queensland Reds; 29-39](reviews//2025-05-31-QueenslandReds-FijianDrua)
-
-[2025-05-31 Moana Pasifika at Hurricanes; 24-24](reviews//2025-05-31-Hurricanes-MoanaPasifika)
-
-[2025-05-31 New South Wales Waratahs at Blues; 6-46](reviews//2025-05-31-Blues-NewSouthWalesWaratahs)
+[2025-06-07 Hurricanes at Brumbies; 28-35](reviews//2025-06-07-Brumbies-Hurricanes)
 ## Top 14 Orange
 
 
 [In depth model review and projections for Top 14 Orange 24/25](comp_files/Top_14_Orange_24/25)
 
-Competition Accuracy: 129 of 175 (73.71%)
+Competition Accuracy: 133 of 182 (73.08%)
 
-Competition Error: 10.57 points per match
+Competition Error: 10.84 points per match
 
-Last Round Accuracy: 6 of 7 (85.71%)
+Last Round Accuracy: 4 of 7 (57.14%)
 
-Last Round Error: 20.38 points per match
+Last Round Error: 13.72 points per match
 
-[2025-05-31 Pau at Vannes; 52-26](reviews//2025-05-31-Vannes-Pau)
+[2025-06-07 Vannes at Bordeaux Begles; 28-59](reviews//2025-06-07-BordeauxBegles-Vannes)
 
-[2025-05-31 Stade Francais Paris at Clermont Auvergne; 20-55](reviews//2025-05-31-ClermontAuvergne-StadeFrancaisParis)
+[2025-06-07 Clermont Auvergne at Montpellier Herault; 23-10](reviews//2025-06-07-MontpellierHerault-ClermontAuvergne)
 
-[2025-05-31 Bayonne at Castres Olympique; 3-33](reviews//2025-05-31-CastresOlympique-Bayonne)
+[2025-06-07 Stade Toulousain at Perpignan; 35-42](reviews//2025-06-07-Perpignan-StadeToulousain)
 
-[2025-05-31 Montpellier Herault at Racing 92; 14-29](reviews//2025-05-31-Racing92-MontpellierHerault)
+[2025-06-07 La Rochelle at Pau; 18-32](reviews//2025-06-07-Pau-LaRochelle)
 
-[2025-05-31 Perpignan at La Rochelle; 15-38](reviews//2025-05-31-LaRochelle-Perpignan)
+[2025-06-07 Castres Olympique at Stade Francais Paris; 10-21](reviews//2025-06-07-StadeFrancaisParis-CastresOlympique)
 
-[2025-06-01 Bordeaux Begles at Toulon; 10-27](reviews//2025-06-01-Toulon-BordeauxBegles)
+[2025-06-07 Toulon at Bayonne; 10-18](reviews//2025-06-07-Bayonne-Toulon)
 
-[2025-06-01 Lyon at Stade Toulousain; 3-43](reviews//2025-06-01-StadeToulousain-Lyon)
+[2025-06-07 Racing 92 at Lyon; 47-34](reviews//2025-06-07-Lyon-Racing92)
 ## United Rugby Championship
 
 
 [In depth model review and projections for United Rugby Championship 24/25](comp_files/United_Rugby_Championship_24/25)
 
-Competition Accuracy: 102 of 151 (67.55%)
+Competition Accuracy: 106 of 154 (68.83%)
 
-Competition Error: 11.09 points per match
+Competition Error: 11.04 points per match
 
-Last Round Accuracy: 3 of 8 (37.5%)
+Last Round Accuracy: 6 of 8 (75.0%)
 
-Last Round Error: 14.94 points per match
+Last Round Error: 9.88 points per match
 
-[2025-05-30 Stormers at Glasgow Warriors; 18-36](reviews//2025-05-30-GlasgowWarriors-Stormers)
+[2025-06-07 Glasgow Warriors at Leinster; 19-37](reviews//2025-06-07-Leinster-GlasgowWarriors)
 
-[2025-05-31 Scarlets at Leinster; 21-33](reviews//2025-05-31-Leinster-Scarlets)
-
-[2025-05-31 Edinburgh at Bulls; 41-24](reviews//2025-05-31-Bulls-Edinburgh)
-
-[2025-05-31 Munster at Sharks; 29-20](reviews//2025-05-31-Sharks-Munster)
+[2025-06-07 Sharks at Bulls; 13-25](reviews//2025-06-07-Bulls-Sharks)
 # Domestic Leagues
 
 ## URBA Top 13
@@ -172,24 +114,24 @@ Last Round Error: 14.94 points per match
 
 [In depth model review and projections for URBA Top 13 2025](comp_files/URBA_Top_13_2025)
 
-Competition Accuracy: 37 of 54 (68.52%)
+Competition Accuracy: 41 of 61 (67.21%)
 
-Competition Error: 11.7 points per match
+Competition Error: 13.2 points per match
 
-Last Round Accuracy: 6 of 7 (85.71%)
+Last Round Accuracy: 5 of 7 (71.43%)
 
-Last Round Error: 5.62 points per match
+Last Round Error: 11.14 points per match
 
-[2025-05-31 Hindu at Buenos Aires; 25-17](reviews//2025-05-31-BuenosAires-Hindu)
+[2025-06-07 San Luis at Regatas Bella Vista; 14-37](reviews//2025-06-07-RegatasBellaVista-SanLuis)
 
-[2025-05-31 Los Tilos at CUBA; 26-25](reviews//2025-05-31-CUBA-LosTilos)
+[2025-06-07 Alumni at Buenos Aires; 33-13](reviews//2025-06-07-BuenosAires-Alumni)
 
-[2025-05-31 San Luis at Alumni; 29-39](reviews//2025-05-31-Alumni-SanLuis)
+[2025-06-07 Belgrano at Los Tilos; 42-14](reviews//2025-06-07-LosTilos-Belgrano)
 
-[2025-05-31 SIC at Belgrano; 31-43](reviews//2025-05-31-Belgrano-SIC)
+[2025-06-07 CASI at SIC; 13-16](reviews//2025-06-07-SIC-CASI)
 
-[2025-05-31 Newman at La Plata; 21-17](reviews//2025-05-31-LaPlata-Newman)
+[2025-06-07 CUBA at Newman; 20-21](reviews//2025-06-07-Newman-CUBA)
 
-[2025-05-31 Newman at La Plata Rugby Club; 21-17](reviews//2025-05-31-LaPlataRugbyClub-Newman)
+[2025-06-07 La Plata Rugby Club at Hindu; 20-24](reviews//2025-06-07-Hindu-LaPlataRugbyClub)
 
-[2025-05-31 Regatas Bella Vista at CASI; 23-47](reviews//2025-05-31-CASI-RegatasBellaVista)
+[2025-06-07 La Plata at Hindu; 20-24](reviews//2025-06-07-Hindu-LaPlata)
