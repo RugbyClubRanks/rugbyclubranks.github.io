@@ -10,13 +10,13 @@ key: page-recents
 
 [In depth model review and projections for Gallagher Premiership 24/25](comp_files/Gallagher_Premiership_24/25)
 
-Competition Accuracy: 65 of 92 (70.65%)
+Competition Accuracy: 61 of 92 (66.3%)
 
-Competition Error: 13.94 points per match
+Competition Error: 13.73 points per match
 
-Last Round Accuracy: 5 of 5 (100.0%)
+Last Round Accuracy: 4 of 5 (80.0%)
 
-Last Round Error: 15.03 points per match
+Last Round Error: 8.57 points per match
 
 [2025-06-06 Bristol Rugby at Bath Rugby; 20-34](reviews//2025-06-06-BathRugby-BristolRugby)
 
@@ -26,13 +26,13 @@ Last Round Error: 15.03 points per match
 
 [In depth model review and projections for Major League Rugby 2025](comp_files/Major_League_Rugby_2025)
 
-Competition Accuracy: 66 of 99 (66.67%)
+Competition Accuracy: 67 of 99 (67.68%)
 
-Competition Error: 11.78 points per match
+Competition Error: 11.5 points per match
 
 Last Round Accuracy: 6 of 6 (100.0%)
 
-Last Round Error: 16.45 points per match
+Last Round Error: 16.27 points per match
 
 [2025-06-05 Houston SaberCats at Chicago Hounds; 12-15](reviews//2025-06-05-ChicagoHounds-HoustonSaberCats)
 
@@ -52,13 +52,13 @@ Last Round Error: 16.45 points per match
 
 [In depth model review and projections for Super Rugby Pacific 2025](comp_files/Super_Rugby_Pacific_2025)
 
-Competition Accuracy: 52 of 77 (67.53%)
+Competition Accuracy: 50 of 81 (61.73%)
 
-Competition Error: 13.41 points per match
+Competition Error: 14.7 points per match
 
-Last Round Accuracy: 4 of 6 (66.67%)
+Last Round Accuracy: 3 of 6 (50.0%)
 
-Last Round Error: 20.48 points per match
+Last Round Error: 20.39 points per match
 
 [2025-06-06 Queensland Reds at Crusaders; 12-32](reviews//2025-06-06-Crusaders-QueenslandReds)
 
@@ -70,15 +70,15 @@ Last Round Error: 20.48 points per match
 
 [In depth model review and projections for Top 14 Orange 24/25](comp_files/Top_14_Orange_24/25)
 
-Competition Accuracy: 133 of 182 (73.08%)
+Competition Accuracy: 133 of 183 (72.68%)
 
-Competition Error: 10.84 points per match
+Competition Error: 10.58 points per match
 
 Last Round Accuracy: 4 of 7 (57.14%)
 
-Last Round Error: 13.72 points per match
+Last Round Error: 12.34 points per match
 
-[2025-06-07 Vannes at Bordeaux Begles; 28-59](reviews//2025-06-07-BordeauxBegles-Vannes)
+[2025-06-07 Racing 92 at Lyon; 47-34](reviews//2025-06-07-Lyon-Racing92)
 
 [2025-06-07 Clermont Auvergne at Montpellier Herault; 23-10](reviews//2025-06-07-MontpellierHerault-ClermontAuvergne)
 
@@ -90,19 +90,19 @@ Last Round Error: 13.72 points per match
 
 [2025-06-07 Toulon at Bayonne; 10-18](reviews//2025-06-07-Bayonne-Toulon)
 
-[2025-06-07 Racing 92 at Lyon; 47-34](reviews//2025-06-07-Lyon-Racing92)
+[2025-06-07 Vannes at Bordeaux Begles; 28-59](reviews//2025-06-07-BordeauxBegles-Vannes)
 ## United Rugby Championship
 
 
 [In depth model review and projections for United Rugby Championship 24/25](comp_files/United_Rugby_Championship_24/25)
 
-Competition Accuracy: 106 of 154 (68.83%)
+Competition Accuracy: 110 of 154 (71.43%)
 
-Competition Error: 11.04 points per match
+Competition Error: 11.02 points per match
 
-Last Round Accuracy: 6 of 8 (75.0%)
+Last Round Accuracy: 8 of 8 (100.0%)
 
-Last Round Error: 9.88 points per match
+Last Round Error: 10.52 points per match
 
 [2025-06-07 Glasgow Warriors at Leinster; 19-37](reviews//2025-06-07-Leinster-GlasgowWarriors)
 
@@ -114,19 +114,19 @@ Last Round Error: 9.88 points per match
 
 [In depth model review and projections for URBA Top 13 2025](comp_files/URBA_Top_13_2025)
 
-Competition Accuracy: 41 of 61 (67.21%)
+Competition Accuracy: 45 of 61 (73.77%)
 
-Competition Error: 13.2 points per match
+Competition Error: 11.36 points per match
 
-Last Round Accuracy: 5 of 7 (71.43%)
+Last Round Accuracy: 6 of 7 (85.71%)
 
-Last Round Error: 11.14 points per match
+Last Round Error: 11.35 points per match
 
-[2025-06-07 San Luis at Regatas Bella Vista; 14-37](reviews//2025-06-07-RegatasBellaVista-SanLuis)
+[2025-06-07 Belgrano at Los Tilos; 42-14](reviews//2025-06-07-LosTilos-Belgrano)
 
 [2025-06-07 Alumni at Buenos Aires; 33-13](reviews//2025-06-07-BuenosAires-Alumni)
 
-[2025-06-07 Belgrano at Los Tilos; 42-14](reviews//2025-06-07-LosTilos-Belgrano)
+[2025-06-07 San Luis at Regatas Bella Vista; 14-37](reviews//2025-06-07-RegatasBellaVista-SanLuis)
 
 [2025-06-07 CASI at SIC; 13-16](reviews//2025-06-07-SIC-CASI)
 

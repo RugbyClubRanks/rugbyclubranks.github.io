@@ -1,6 +1,6 @@
 ---  
 title: "Developmental International 2025 Status"  
-date: 2025-06-09 6:00:00 -0500  
+date: 2025-06-12 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -15,16 +15,16 @@ aside:
 
 |   Rank | Team                   |   Rating |
 |-------:|:-----------------------|---------:|
-|      1 | Barbados               |  1469.93 |
-|      2 | Trinidad and Tobago    |  1385.91 |
-|      3 | Mexico                 |  1343.35 |
-|      4 | Sri Lanka              |  1301.51 |
-|      5 | Malta                  |  1219.55 |
-|      6 | Denmark                |  1218.15 |
-|      7 | Andorra                |  1213.58 |
-|      8 | Cayman Islands         |  1180.01 |
-|      9 | Ukraine                |  1122.03 |
-|     10 | TBC                    |  1122.03 |
+|      1 | TBC                    |  1560.12 |
+|      2 | Barbados               |  1469.93 |
+|      3 | Trinidad and Tobago    |  1385.91 |
+|      4 | Mexico                 |  1343.35 |
+|      5 | Sri Lanka              |  1301.51 |
+|      6 | Malta                  |  1219.55 |
+|      7 | Denmark                |  1218.15 |
+|      8 | Andorra                |  1213.58 |
+|      9 | Cayman Islands         |  1180.01 |
+|     10 | Ukraine                |  1122.03 |
 |     11 | Israel                 |  1120.45 |
 |     12 | Moldova                |  1084.81 |
 |     13 | Austria                |  1048.21 |
@@ -67,7 +67,7 @@ aside:
 ### Cayman Islands V Bermuda on 2025/06/14
 
 
-Average Margin: Cayman Islands by 33.7
+Average Margin: Cayman Islands by 33.6
 
 Average Scoreline: 47-14
 
@@ -80,9 +80,9 @@ Average Scoreline: 47-14
 ### United Arab Emirates V Hong Kong on 2025/06/14
 
 
-Average Margin: Hong Kong by 15.1
+Average Margin: Hong Kong by 14.5
 
-Average Scoreline: 36-21
+Average Scoreline: 35-21
 
 <p float="left">
 <img src="plots/performances_2025-06-14-UnitedArabEmirates_V_HongKong.png" width="32%" />

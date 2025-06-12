@@ -9,9 +9,9 @@ categories: "Super Rugby Pacific 2025" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.653, which translates to predicting Brumbies to win by 5.6.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.678, which translates to predicting Brumbies to win by 6.6.
 
-Our Over/Under is 55.5 - and combined with the spread above, we have a predicted scoreline of 25 to 30
+Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 20 to 27
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -69,27 +69,27 @@ Hurricanes by 0.3 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|           80   | Xavier Numia        |             98.38 |        1 |             91.73 | James Slipper       |             80 |
-|           21   | Jacob Devery        |             87.19 |        2 |             76.65 | Billy Pollard       |             68 |
-|           15   | Tyrel Lomax         |             84.1  |        3 |             95.42 | Allan Alaalatoa     |              7 |
-|           24   | Zach Gallagher      |             10.65 |        4 |             47.36 | Nick Frost          |             50 |
-|           24   | Caleb Delany        |             64.24 |        5 |             73    | Tom Hooper          |              7 |
-|           80   | Devan Flanders      |             92.39 |        6 |             97.64 | Rob Valetini        |             30 |
-|           18   | Du'Plessis Kirifi   |             94    |        7 |             61.2  | Rory Scott          |             80 |
-|           62   | Peter Lakai         |             96.9  |        8 |             77.27 | Tuaina Taii Tualima |             41 |
-|           80   | Cam Roigard         |             76.83 |        9 |             92.47 | Ryan Lonergan       |             22 |
-|           80   | Brett Cameron       |             20.55 |       10 |             81.51 | Noah Lolesio        |             80 |
-|           66   | Fehi Fineanganofo   |             33.51 |       11 |             73.95 | Corey Toole         |             68 |
-|           80   | Peter Umaga-Jensen  |             46.32 |       12 |             33.98 | David Feliuai       |             22 |
-|           66   | Billy Proctor       |             96.94 |       13 |             77.69 | Len Ikitau          |             80 |
-|           56   | Bailyn Sullivan     |             59.98 |       14 |             93.8  | Andy Muirhead       |             58 |
-|           24   | Ruben Love          |             93.11 |       15 |             57.11 | Tom Wright          |              0 |
-|           31   | Raymond Tuputupu    |            nan    |       16 |            nan    | Lachlan Lonergan    |             30 |
-|           24.5 | Tevita Mafile'o     |             72.96 |       17 |            nan    | Lington Ieli        |             30 |
-|           49   | Pasilio Tosi        |            nan    |       18 |             62.17 | Feao Fotuaika       |             80 |
-|           14   | Hugo Plummer        |             84.6  |       19 |             51.05 | Lachlan Shaw        |             30 |
-|           18   | Brad Shields        |             78.99 |       20 |             55.2  | Luke Reimer         |              8 |
-|           14   | Ere Enari           |              2.9  |       21 |            nan    | Harrison Goddard    |             67 |
-|           67   | Ngantungane Punivai |            nan    |       22 |            nan    | Jack Debreczeni     |             34 |
-|           62   | Callum Harkin       |             20.89 |       23 |             86.52 | Ollie Sapsford      |             67 |
+|             11 | Xavier Numia        |             98.49 |        1 |             90.4  | James Slipper       |             80 |
+|             59 | Jacob Devery        |             89.73 |        2 |             75.29 | Billy Pollard       |             80 |
+|             77 | Tyrel Lomax         |             85.78 |        3 |             95.02 | Allan Alaalatoa     |             80 |
+|             56 | Zach Gallagher      |             11.3  |        4 |             45.72 | Nick Frost          |             15 |
+|             40 | Caleb Delany        |             67.9  |        5 |             70.86 | Tom Hooper          |             80 |
+|             69 | Devan Flanders      |             92.87 |        6 |             97.13 | Rob Valetini        |             80 |
+|             80 | Du'Plessis Kirifi   |             94.47 |        7 |             56.17 | Rory Scott          |             80 |
+|             80 | Peter Lakai         |             97.33 |        8 |             73.87 | Tuaina Taii Tualima |             73 |
+|             54 | Cam Roigard         |             78.78 |        9 |             92.16 | Ryan Lonergan       |             50 |
+|             16 | Brett Cameron       |             20.32 |       10 |             80.82 | Noah Lolesio        |             50 |
+|             27 | Fehi Fineanganofo   |             35.44 |       11 |             69.96 | Corey Toole         |             59 |
+|             30 | Peter Umaga-Jensen  |             46.84 |       12 |             30.52 | David Feliuai       |             50 |
+|             30 | Billy Proctor       |             96.89 |       13 |             76.03 | Len Ikitau          |             32 |
+|             16 | Bailyn Sullivan     |             59.67 |       14 |             92.67 | Andy Muirhead       |             80 |
+|             24 | Ruben Love          |             93.51 |       15 |             55.03 | Tom Wright          |             23 |
+|             27 | Raymond Tuputupu    |            nan    |       16 |            nan    | Lachlan Lonergan    |             32 |
+|             23 | Tevita Mafile'o     |             73.16 |       17 |            nan    | Lington Ieli        |             69 |
+|             40 | Pasilio Tosi        |            nan    |       18 |             62.22 | Feao Fotuaika       |             21 |
+|             57 | Hugo Plummer        |             84.79 |       19 |             50.69 | Lachlan Shaw        |              3 |
+|             11 | Brad Shields        |             78.72 |       20 |             55.32 | Luke Reimer         |             26 |
+|             30 | Ere Enari           |              2.87 |       21 |            nan    | Harrison Goddard    |             56 |
+|             30 | Ngantungane Punivai |            nan    |       22 |            nan    | Jack Debreczeni     |             64 |
+|             65 | Callum Harkin       |             21.48 |       23 |             86.46 | Ollie Sapsford      |             80 |
 

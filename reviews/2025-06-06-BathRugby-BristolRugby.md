@@ -9,9 +9,9 @@ categories: "Gallagher Premiership 24/25" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.741, which translates to predicting Bath Rugby to win by 9.2.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.738, which translates to predicting Bath Rugby to win by 9.1.
 
-Our Over/Under is 64.5 - and combined with the spread above, we have a predicted scoreline of 28 to 37
+Our Over/Under is 65.5 - and combined with the spread above, we have a predicted scoreline of 28 to 37
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,7 +39,7 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Bath Rugby by 11.9
+## Prediction without Player Minutes: Bath Rugby by 11.8
 
 
 Bristol Rugby by 2.3 on a neutral pitch
@@ -69,27 +69,27 @@ Bristol Rugby by 2.3 on a neutral pitch
 
 |   Away Minutes | Away Player                |   Away Percentile |   Number |   Home Percentile | Home Player      |   Home Minutes |
 |---------------:|:---------------------------|------------------:|---------:|------------------:|:-----------------|---------------:|
-|             50 | Ellis Genge                |             81.67 |        1 |             96.23 | Beno Obano       |              0 |
-|             31 | Gabriel Oghre              |             77.97 |        2 |             98.12 | Tom Dunn         |             58 |
-|             15 | George Kloska              |             86.79 |        3 |             58.13 | Will Stuart      |             64 |
-|             24 | James Dun                  |             93.14 |        4 |             94.62 | Quinn Roux       |             80 |
-|             24 | Joe Batley                 |             90.93 |        5 |             78.9  | Charlie Ewels    |             80 |
-|             16 | Steven Luatua              |             99.36 |        6 |             83.49 | Ted Hill         |             74 |
-|             21 | Fitz Harding               |             98.07 |        7 |             14.04 | Guy Pepper       |             78 |
-|             80 | Viliame Mata               |             45.87 |        8 |             91.94 | Alfie Barbeary   |             21 |
-|             50 | Harry Randall              |             96.72 |        9 |             85.14 | Ben Spencer      |             12 |
-|             22 | AJ MacGinty                |             89.95 |       10 |             99.32 | Finn Russell     |             22 |
-|             72 | Gabriel Ibitoye            |             97.48 |       11 |             43.07 | Will Muir        |             80 |
-|             65 | James Williams             |             88.11 |       12 |             41.34 | Cameron Redpath  |             49 |
-|             80 | Benhard Janse van Rensburg |             94.22 |       13 |             96.49 | Max Ojomoh       |             56 |
-|             58 | Kalaveti Ravouvou          |             77.94 |       14 |             96.01 | Joe Cokanasiga   |             80 |
-|             46 | Noah Heward                |             85.11 |       15 |             11.78 | Tom de Glanville |             80 |
-|             21 | Harry Thacker              |             64.41 |       16 |             70.24 | Niall Annett     |             65 |
-|             40 | Jake Woolmore              |             97.04 |       17 |             85.98 | Francois van Wyk |             14 |
-|             30 | Max Lahiff                 |             32.08 |       18 |             99.19 | Thomas du Toit   |             40 |
-|              6 | Pedro Rubiolo              |              9.81 |       19 |             94.41 | Ross Molony      |             26 |
-|              2 | Santiago Grondona          |             85.96 |       20 |             98.76 | Miles Reid       |             29 |
-|             24 | Kieran Marmion             |             85.33 |       21 |             93.63 | Tom Carr-Smith   |             56 |
-|             80 | Harry Byrne                |             90.41 |       22 |             78.08 | Ciaran Donoghue  |             80 |
-|             80 | Jack Bates                 |              9.87 |       23 |             28.72 | Josh Bayliss     |             80 |
+|             80 | Ellis Genge                |             78.58 |        1 |             96.8  | Beno Obano       |              4 |
+|             80 | Gabriel Oghre              |             76.81 |        2 |             98.67 | Tom Dunn         |             80 |
+|             80 | George Kloska              |             84.89 |        3 |             66.31 | Will Stuart      |             80 |
+|             18 | James Dun                  |             93.56 |        4 |             95.35 | Quinn Roux       |             44 |
+|              0 | Joe Batley                 |             91.45 |        5 |             79.94 | Charlie Ewels    |             10 |
+|             65 | Steven Luatua              |             99.15 |        6 |             86.17 | Ted Hill         |             80 |
+|             32 | Fitz Harding               |             97.55 |        7 |             17.55 | Guy Pepper       |             60 |
+|             29 | Viliame Mata               |             40.74 |        8 |             92.8  | Alfie Barbeary   |             48 |
+|             49 | Harry Randall              |             96.37 |        9 |             87.19 | Ben Spencer      |             40 |
+|             75 | AJ MacGinty                |             88.36 |       10 |             99.32 | Finn Russell     |              8 |
+|             80 | Gabriel Ibitoye            |             96.74 |       11 |             49.29 | Will Muir        |             31 |
+|             80 | James Williams             |             86.02 |       12 |             41.73 | Cameron Redpath  |              8 |
+|             80 | Benhard Janse van Rensburg |             93.56 |       13 |             96.78 | Max Ojomoh       |             10 |
+|             57 | Kalaveti Ravouvou          |             75.46 |       14 |             95.32 | Joe Cokanasiga   |              6 |
+|             61 | Noah Heward                |             83    |       15 |             15.66 | Tom de Glanville |             50 |
+|             22 | Harry Thacker              |             65.21 |       16 |             71.1  | Niall Annett     |             72 |
+|             24 | Jake Woolmore              |             97.33 |       17 |             86.22 | Francois van Wyk |             10 |
+|             80 | Max Lahiff                 |             32.62 |       18 |             99.11 | Thomas du Toit   |             47 |
+|              8 | Pedro Rubiolo              |              9.82 |       19 |             94.83 | Ross Molony      |             80 |
+|             72 | Santiago Grondona          |             85.53 |       20 |             98.56 | Miles Reid       |             25 |
+|             80 | Kieran Marmion             |             85.47 |       21 |             93.88 | Tom Carr-Smith   |             80 |
+|             61 | Harry Byrne                |             89.95 |       22 |             77.63 | Ciaran Donoghue  |             13 |
+|             65 | Jack Bates                 |             10.79 |       23 |             28.4  | Josh Bayliss     |             80 |
 
