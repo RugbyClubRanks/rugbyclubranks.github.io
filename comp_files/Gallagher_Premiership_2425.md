@@ -1,6 +1,6 @@
 ---  
 title: "Gallagher Premiership 24/25 Status"  
-date: 2025-06-12 6:00:00 -0500  
+date: 2025-06-13 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,16 +17,16 @@ aside:
 
 | Club               |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Bath Rugby         |       19 |     14 |                  225 |                     3 |                 16 |                   75 |
-| Bristol Rugby      |       19 |     11 |                   56 |                     2 |                 16 |                   62 |
-| Leicester Tigers   |       19 |     11 |                   70 |                     3 |                 12 |                   61 |
-| Saracens           |       18 |     11 |                   68 |                     3 |                 12 |                   59 |
-| Harlequins         |       18 |     10 |                   52 |                     3 |                 11 |                   56 |
-| Sale Sharks        |       19 |     11 |                   24 |                     2 |                 10 |                   56 |
-| Gloucester Rugby   |       18 |     10 |                   10 |                     3 |                 13 |                   56 |
-| Northampton Saints |       18 |      7 |                  -55 |                     3 |                 10 |                   41 |
-| Exeter Chiefs      |       18 |      3 |                  -93 |                     9 |                  5 |                   26 |
-| Newcastle Falcons  |       18 |      3 |                 -357 |                     3 |                  3 |                   18 |
+| Bath Rugby         |       20 |     15 |                  231 |                     2 |                nan |                   78 |
+| Leicester Tigers   |       20 |     12 |                  125 |                     3 |                nan |                   65 |
+| Bristol Rugby      |       19 |     10 |                   69 |                     4 |                 16 |                   60 |
+| Saracens           |       18 |     10 |                   60 |                     4 |                 12 |                   58 |
+| Sale Sharks        |       19 |     11 |                    8 |                     1 |                 10 |                   57 |
+| Gloucester Rugby   |       18 |     10 |                   81 |                     3 |                 13 |                   56 |
+| Harlequins         |       18 |      9 |                    1 |                     3 |                 11 |                   52 |
+| Northampton Saints |       18 |      8 |                  -41 |                     2 |                 10 |                   44 |
+| Exeter Chiefs      |       18 |      4 |                 -134 |                     7 |                  5 |                   28 |
+| Newcastle Falcons  |       18 |      2 |                 -400 |                     1 |                  3 |                   12 |
 
 
 
@@ -35,8 +35,8 @@ aside:
 
 | Club             |   Matches Remaining |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|--------------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Bath Rugby       |                   1 |    0.8 |              7.35112 |                   0.1 |                0.3 |                  3.8 |
-| Leicester Tigers |                   1 |    0.2 |             -7.35112 |                   0.4 |                0.2 |                  1.1 |
+| Bath Rugby       |                   1 |    0.8 |              6.87117 |                   0.1 |                0.2 |                  3.7 |
+| Leicester Tigers |                   1 |    0.2 |             -6.87117 |                   0.4 |                0.2 |                  1.3 |
 
 
 
@@ -45,16 +45,16 @@ aside:
 
 | Club               |   Total Matches |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------|----------------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Bath Rugby         |              20 |   14.8 |             232.351  |                   3.1 |               16.3 |                 78.8 |
-| Leicester Tigers   |              20 |   11.2 |              62.6489 |                   3.4 |               12.2 |                 62.1 |
-| Bristol Rugby      |              19 |   11   |              56      |                   2   |               16   |                 62   |
-| Saracens           |              18 |   11   |              68      |                   3   |               12   |                 59   |
-| Harlequins         |              18 |   10   |              52      |                   3   |               11   |                 56   |
-| Sale Sharks        |              19 |   11   |              24      |                   2   |               10   |                 56   |
-| Gloucester Rugby   |              18 |   10   |              10      |                   3   |               13   |                 56   |
-| Northampton Saints |              18 |    7   |             -55      |                   3   |               10   |                 41   |
-| Exeter Chiefs      |              18 |    3   |             -93      |                   9   |                5   |                 26   |
-| Newcastle Falcons  |              18 |    3   |            -357      |                   3   |                3   |                 18   |
+| Bath Rugby         |              21 |   15.8 |              237.871 |                   2.1 |                0.2 |                 81.7 |
+| Leicester Tigers   |              21 |   12.2 |              118.129 |                   3.4 |                0.2 |                 66.3 |
+| Bristol Rugby      |              19 |   10   |               69     |                   4   |               16   |                 60   |
+| Saracens           |              18 |   10   |               60     |                   4   |               12   |                 58   |
+| Sale Sharks        |              19 |   11   |                8     |                   1   |               10   |                 57   |
+| Gloucester Rugby   |              18 |   10   |               81     |                   3   |               13   |                 56   |
+| Harlequins         |              18 |    9   |                1     |                   3   |               11   |                 52   |
+| Northampton Saints |              18 |    8   |              -41     |                   2   |               10   |                 44   |
+| Exeter Chiefs      |              18 |    4   |             -134     |                   7   |                5   |                 28   |
+| Newcastle Falcons  |              18 |    2   |             -400     |                   1   |                3   |                 12   |
 
 
 
@@ -63,21 +63,21 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 66.3% | 13.7 |
+| Club Level | 71.0% | 13.4 |
 | Player Level: Lineup | 48.0% | 14.3 |
-| Player Level: Minutes | 56.0% | 18.4 |
+| Player Level: Minutes | 56.0% | 18.2 |
 
 
 # Future Predictions
 
-## Week 20
+## Week 21
 
 ### Bath Rugby V Leicester Tigers on 2025/06/14
 
 
-Average Margin: Bath Rugby by 7.4
+Average Margin: Bath Rugby by 6.9
 
-Average Scoreline: 33-26
+Average Scoreline: 37-31
 
 <p float="left">
 <img src="plots/performances_2025-06-14-BathRugby_V_LeicesterTigers.png" width="32%" />

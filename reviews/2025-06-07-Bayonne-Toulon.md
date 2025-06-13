@@ -9,9 +9,9 @@ categories: "Top 14 Orange 24/25" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.509, which translates to predicting Bayonne to win by 0.3.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.524, which translates to predicting Bayonne to win by 0.9.
 
-Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 22 to 22
+Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 24 to 25
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Bayonne by 7.2
+## Prediction without Player Minutes: Bayonne by 7.3
 
 
-Toulon by 6.2 on a neutral pitch
+Toulon by 6.1 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Toulon by 6.2 on a neutral pitch
 
 |   Away Minutes | Away Player            |   Away Percentile |   Number |   Home Percentile | Home Player             |   Home Minutes |
 |---------------:|:-----------------------|------------------:|---------:|------------------:|:------------------------|---------------:|
-|             40 | Dany Priso             |             92.89 |        1 |             63.73 | Swan Cormenier          |             30 |
-|             58 | Mickael Ivaldi         |             90.49 |        2 |             92.4  | Facundo Bosch           |             28 |
-|             52 | Beka Gigashvili        |             67.64 |        3 |             54.04 | Luke Tagi               |             40 |
-|             48 | David Ribbans          |             76.14 |        4 |             66.95 | Arthur Iturria          |             22 |
-|             52 | Matthias Halagahu      |             54.59 |        5 |             98.42 | Alex Moon               |             15 |
-|             48 | Lewis Ludlam           |             58.72 |        6 |             99.89 | Rodrigo Bruni           |             57 |
-|              0 | Jules Coulon           |             83.83 |        7 |             91.49 | Baptiste Chouzenoux     |             13 |
-|             13 | Facundo Isa            |             91.77 |        8 |             65.02 | Uzair Cassiem           |              0 |
-|             80 | Ben White              |             95.03 |        9 |             29.83 | Guillaume Rouet         |             56 |
-|             70 | Paolo Garbisi          |             72.6  |       10 |             76.94 | Joris Segonds           |             48 |
-|             32 | Gabin Villiere         |             95.52 |       11 |             21.89 | Mateo Carreras          |             48 |
-|             80 | Ma'a Nonu              |             83.24 |       12 |            100    | Manu Tuilagi            |             80 |
-|             80 | Leicester Fainga'anuku |             95.45 |       13 |             56.71 | Sireli Maqala           |              0 |
-|             60 | Jiuta Wainiqolo        |             92.26 |       14 |             18.02 | Tom Spring              |             16 |
-|             80 | Melvyn Jaminet         |             93.06 |       15 |             17.45 | Cheikh Tiberghien       |              8 |
-|             52 | Teddy Baubigny         |             83.08 |       16 |             97.15 | Lucas Martin            |             20 |
-|             80 | Jean-Baptiste Gros     |             98.31 |       17 |            nan    | Pierre Castillon        |             40 |
-|             80 | Swan Rebbadj           |            nan    |       18 |             82.98 | Baptiste Heguy          |             14 |
-|             80 | Matteo Le Corvec       |             87.34 |       19 |             91.98 | Giovanni Habel-Kueffner |             28 |
-|             72 | Marius Domon           |             57.72 |       20 |             96.94 | Maxime Machenaud        |             32 |
-|             52 | Baptiste Serin         |             98.09 |       21 |             82.65 | Camille Lopez           |             28 |
-|             80 | Seta Tuicuvu           |             75.15 |       22 |             24.13 | Arnaud Erbinartegaray   |             80 |
-|              7 | Kyle Sinckler          |             91.38 |       23 |              4.89 | Pieter Scholtz          |             80 |
+|             80 | Dany Priso             |             93.57 |        1 |             61.22 | Swan Cormenier          |             52 |
+|             79 | Mickael Ivaldi         |             89.39 |        2 |             91.1  | Facundo Bosch           |             80 |
+|             80 | Beka Gigashvili        |             72.87 |        3 |             50.09 | Luke Tagi               |             80 |
+|             73 | David Ribbans          |             78.73 |        4 |             65.38 | Arthur Iturria          |             53 |
+|             55 | Matthias Halagahu      |             60.69 |        5 |             98.33 | Alex Moon               |             80 |
+|             10 | Lewis Ludlam           |             62.37 |        6 |             99.79 | Rodrigo Bruni           |             48 |
+|             80 | Jules Coulon           |             83.72 |        7 |             91.33 | Baptiste Chouzenoux     |             50 |
+|             14 | Facundo Isa            |             92.21 |        8 |             65.68 | Uzair Cassiem           |             80 |
+|             80 | Ben White              |             95.21 |        9 |             25.48 | Guillaume Rouet         |             40 |
+|             80 | Paolo Garbisi          |             78.54 |       10 |             73.74 | Joris Segonds           |             80 |
+|             28 | Gabin Villiere         |             96.61 |       11 |             19.76 | Mateo Carreras          |             17 |
+|             40 | Ma'a Nonu              |             85.16 |       12 |             99.89 | Manu Tuilagi            |             80 |
+|             40 | Leicester Fainga'anuku |             96.04 |       13 |             57.98 | Sireli Maqala           |             63 |
+|             30 | Jiuta Wainiqolo        |             94.01 |       14 |             18.16 | Tom Spring              |             80 |
+|             57 | Melvyn Jaminet         |             93.44 |       15 |             16.19 | Cheikh Tiberghien       |              0 |
+|              8 | Teddy Baubigny         |             81.06 |       16 |             96.4  | Lucas Martin            |              0 |
+|             67 | Jean-Baptiste Gros     |             98.26 |       17 |            nan    | Pierre Castillon        |             80 |
+|             80 | Swan Rebbadj           |            nan    |       18 |             83.09 | Baptiste Heguy          |             51 |
+|             52 | Matteo Le Corvec       |             87.21 |       19 |             92    | Giovanni Habel-Kueffner |             24 |
+|             52 | Marius Domon           |             57.33 |       20 |             97.13 | Maxime Machenaud        |             20 |
+|             40 | Baptiste Serin         |             98.08 |       21 |             83.11 | Camille Lopez           |             20 |
+|             23 | Seta Tuicuvu           |             76.05 |       22 |             24.75 | Arnaud Erbinartegaray   |              0 |
+|             30 | Kyle Sinckler          |             91.3  |       23 |              6.61 | Pieter Scholtz          |             80 |
 

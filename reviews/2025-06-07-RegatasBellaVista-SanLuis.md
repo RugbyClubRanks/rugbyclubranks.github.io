@@ -9,9 +9,9 @@ categories: "URBA Top 13 2025" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.725, which translates to predicting Regatas Bella Vista to win by 8.7.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.728, which translates to predicting Regatas Bella Vista to win by 8.8.
 
-Our Over/Under is 54.5 - and combined with the spread above, we have a predicted scoreline of 23 to 31
+Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 17 to 26
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Regatas Bella Vista by 5.5
+## Prediction without Player Minutes: Regatas Bella Vista by 3.5
 
 
-Regatas Bella Vista by 0.1 on a neutral pitch
+San Luis by 1.9 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Regatas Bella Vista by 0.1 on a neutral pitch
 
 |   Away Minutes | Away Player                |   Away Percentile |   Number |   Home Percentile | Home Player           |   Home Minutes |
 |---------------:|:---------------------------|------------------:|---------:|------------------:|:----------------------|---------------:|
-|              0 | Alejo Garcia               |             24.36 |        1 |              2.76 | Tomas Barbaccia       |             30 |
-|             24 | Agustin Fitzsimons Herrera |             36.5  |        2 |             26.81 | Pedro Colinas         |             22 |
-|             73 | Facundo Suarez             |             31.38 |        3 |             82.31 | Marcos Camerlinckx    |              7 |
-|              0 | Martin Etchanchu           |             25.66 |        4 |             85.43 | Tomas Sanguinetti     |             68 |
-|             59 | Santiago Canal             |             16.16 |        5 |             57.13 | Valentin Sanguinetti  |             80 |
-|             80 | Matias Perissinotto        |             13.72 |        6 |             33.72 | Lucas Gobet           |             80 |
-|             80 | Manuel Gnecco              |             66.7  |        7 |             72.87 | Marcos Ferro          |             68 |
-|             80 | Agustin Torello            |             42.18 |        8 |             59.88 | Agustin Garcia Campos |             80 |
-|             12 | Martin Aereboe             |              4.97 |        9 |             92.54 | Marcos Joseph         |              7 |
-|             80 | Valentino Quattrocchi      |             26.26 |       10 |             42.47 | Justo Camerlinckx     |             30 |
-|             80 | Eduardo Ruesta             |              5.19 |       11 |              4.48 | Enrique Camerlinckx   |             80 |
-|             13 | Segundo Galan              |             18.87 |       12 |             31.52 | Mateo Camerlinckx     |             67 |
-|             39 | Facundo Gibert             |             80.91 |       13 |              7.55 | Alejo Barrera         |              0 |
-|             58 | Felipe Hernandez           |              4.07 |       14 |             56.11 | Rafael Santa Ana      |             41 |
-|             73 | Felipe Crispo              |             56.15 |       15 |             77.63 | Cruz Camerlinckx      |             80 |
-|             80 | Away Team 16               |            nan    |       16 |            nan    | Home Team 16          |             58 |
-|             40 | Away Team 17               |            nan    |       17 |            nan    | Home Team 17          |             80 |
-|             56 | Away Team 18               |            nan    |       18 |            nan    | Home Team 18          |             66 |
-|             51 | Away Team 19               |            nan    |       19 |            nan    | Home Team 19          |             80 |
-|             80 | Away Team 20               |            nan    |       20 |            nan    | Home Team 20          |             80 |
-|             50 | Away Team 21               |            nan    |       21 |            nan    | Home Team 21          |             80 |
-|             54 | Away Team 22               |            nan    |       22 |            nan    | Home Team 22          |              0 |
-|             80 | Away Team 23               |            nan    |       23 |            nan    | Home Team 23          |             50 |
+|             13 | Alejo Garcia               |             28.43 |        1 |              5.83 | Tomas Barbaccia       |             80 |
+|             18 | Agustin Fitzsimons Herrera |             32.01 |        2 |             43.75 | Pedro Colinas         |             80 |
+|             29 | Facundo Suarez             |             42.61 |        3 |             84.78 | Marcos Camerlinckx    |             72 |
+|             80 | Martin Etchanchu           |             23.57 |        4 |             85.51 | Tomas Sanguinetti     |             80 |
+|             80 | Santiago Canal             |             13.45 |        5 |             45.15 | Valentin Sanguinetti  |             49 |
+|             69 | Matias Perissinotto        |             14.59 |        6 |             23.36 | Lucas Gobet           |             80 |
+|             19 | Manuel Gnecco              |             73.47 |        7 |             67.02 | Marcos Ferro          |             61 |
+|             23 | Agustin Torello            |             56.21 |        8 |             52.84 | Agustin Garcia Campos |             65 |
+|             70 | Martin Aereboe             |              4.41 |        9 |             93.68 | Marcos Joseph         |             47 |
+|             24 | Valentino Quattrocchi      |             44.52 |       10 |             52.74 | Justo Camerlinckx     |             72 |
+|             32 | Eduardo Ruesta             |              6.49 |       11 |              3.89 | Enrique Camerlinckx   |             10 |
+|             29 | Segundo Galan              |             18.12 |       12 |             19.03 | Mateo Camerlinckx     |             48 |
+|             22 | Facundo Gibert             |             79.39 |       13 |              8.83 | Alejo Barrera         |             60 |
+|             50 | Felipe Hernandez           |              4.69 |       14 |             67.27 | Rafael Santa Ana      |             80 |
+|             65 | Felipe Crispo              |             50.77 |       15 |             70.46 | Cruz Camerlinckx      |             10 |
+|             35 | Away Team 16               |            nan    |       16 |            nan    | Home Team 16          |             80 |
+|             34 | Away Team 17               |            nan    |       17 |            nan    | Home Team 17          |             61 |
+|             63 | Away Team 18               |            nan    |       18 |            nan    | Home Team 18          |             80 |
+|             72 | Away Team 19               |            nan    |       19 |            nan    | Home Team 19          |             75 |
+|             80 | Away Team 20               |            nan    |       20 |            nan    | Home Team 20          |             25 |
+|             60 | Away Team 21               |            nan    |       21 |            nan    | Home Team 21          |              0 |
+|             80 | Away Team 22               |            nan    |       22 |            nan    | Home Team 22          |              8 |
+|             80 | Away Team 23               |            nan    |       23 |            nan    | Home Team 23          |             80 |
 

@@ -11,7 +11,7 @@ categories: "Major League Rugby 2025" match review
 
 The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.94, which translates to predicting Houston SaberCats to win by 24.8.
 
-Our Over/Under is 68.5 - and combined with the spread above, we have a predicted scoreline of 22 to 47
+Our Over/Under is 70.5 - and combined with the spread above, we have a predicted scoreline of 23 to 48
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Houston SaberCats by 18.4
+## Prediction without Player Minutes: Houston SaberCats by 19.9
 
 
-Houston SaberCats by 14.9 on a neutral pitch
+Houston SaberCats by 16.4 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,19 +69,19 @@ Houston SaberCats by 14.9 on a neutral pitch
 
 |   Away Minutes | Away Player          |   Away Percentile |   Number |   Home Percentile | Home Player            |   Home Minutes |
 |---------------:|:---------------------|------------------:|---------:|------------------:|:-----------------------|---------------:|
-|             80 | Dan Hanson           |              4.71 |        1 |             88.62 | Ezekiel Lindenmuth     |             70 |
-|             32 | Ethan Howard         |             45.63 |        2 |             96.01 | Pita Anae Ah-Sue       |             32 |
-|             24 | Stephan Bernal-Wendt |             12.8  |        3 |             92.18 | Pono Davis             |             77 |
-|             24 | Sam Golla            |             35.59 |        4 |             92.4  | Justin Basson          |             80 |
-|             40 | Mikey Grandy         |              7.18 |        5 |             45.41 | Nathan Den Hoedt       |             67 |
-|             45 | Colin Turner         |             47.02 |        6 |             81.17 | Emmanuel Albert        |             70 |
-|             57 | Makeen Alikhan       |             67.45 |        7 |              8.4  | Johan Momsen           |             80 |
-|            nan | nan                  |            nan    |        8 |             86.21 | Marno Redelinghuys     |             19 |
-|            nan | nan                  |            nan    |        9 |             72.85 | Andre Warner           |             80 |
-|            nan | nan                  |            nan    |       10 |             71.23 | AJ Alatimu             |             65 |
-|            nan | nan                  |            nan    |       11 |              3.67 | Seimou Smith           |             80 |
-|            nan | nan                  |            nan    |       12 |             23.09 | Louritz van der Schyff |             66 |
-|            nan | nan                  |            nan    |       13 |             93.01 | Sam Hill               |             58 |
-|            nan | nan                  |            nan    |       14 |             92.18 | Pono Davis             |              0 |
-|            nan | nan                  |            nan    |       15 |             40.94 | Rufus McLean           |             80 |
+|             52 | Dan Hanson           |              6.78 |        1 |             86.09 | Ezekiel Lindenmuth     |             80 |
+|             31 | Ethan Howard         |             46.02 |        2 |             95.45 | Pita Anae Ah-Sue       |             58 |
+|             16 | Stephan Bernal-Wendt |             14.52 |        3 |             93.39 | Pono Davis             |             80 |
+|             80 | Sam Golla            |             49.64 |        4 |             91.03 | Justin Basson          |             26 |
+|             17 | Mikey Grandy         |              6.57 |        5 |             66.53 | Nathan Den Hoedt       |             63 |
+|              0 | Colin Turner         |             45.56 |        6 |             79.6  | Emmanuel Albert        |             57 |
+|             28 | Makeen Alikhan       |             48.63 |        7 |              7.19 | Johan Momsen           |             63 |
+|            nan | nan                  |            nan    |        8 |             86.53 | Marno Redelinghuys     |             80 |
+|            nan | nan                  |            nan    |        9 |             66.48 | Andre Warner           |             57 |
+|            nan | nan                  |            nan    |       10 |             77.4  | AJ Alatimu             |             52 |
+|            nan | nan                  |            nan    |       11 |              4.29 | Seimou Smith           |             77 |
+|            nan | nan                  |            nan    |       12 |             32.16 | Louritz van der Schyff |             80 |
+|            nan | nan                  |            nan    |       13 |             93.88 | Sam Hill               |             80 |
+|            nan | nan                  |            nan    |       14 |             93.39 | Pono Davis             |             28 |
+|            nan | nan                  |            nan    |       15 |             42.67 | Rufus McLean           |             23 |
 

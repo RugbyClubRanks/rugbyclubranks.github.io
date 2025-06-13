@@ -9,9 +9,9 @@ categories: "Super Rugby Pacific 2025" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.678, which translates to predicting Brumbies to win by 6.6.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model has a prediction of 0.64, which translates to predicting Brumbies to win by 5.1.
 
-Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 20 to 27
+Our Over/Under is 64.5 - and combined with the spread above, we have a predicted scoreline of 30 to 35
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -39,10 +39,10 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 Treating teams instead as an entity made up of the currently active players, I have ratings for each player in an altogether different system. These can be combined to form team ratings once teamsheets are announced, weighting starters a bit higher than the reserves. After the match is played, players can be weighted by their minutes on the field, allowing for an accurate measure of the team's composition. With these compiled team ratings, we can make predictions, measure inaccuracy, and update the individual player ratings.
-## Prediction without Player Minutes: Brumbies by 8.1
+## Prediction without Player Minutes: Brumbies by 8.0
 
 
-Hurricanes by 0.3 on a neutral pitch
+Hurricanes by 0.5 on a neutral pitch
 
 
 ## Projected Performances - Player Model
@@ -69,27 +69,27 @@ Hurricanes by 0.3 on a neutral pitch
 
 |   Away Minutes | Away Player         |   Away Percentile |   Number |   Home Percentile | Home Player         |   Home Minutes |
 |---------------:|:--------------------|------------------:|---------:|------------------:|:--------------------|---------------:|
-|             11 | Xavier Numia        |             98.49 |        1 |             90.4  | James Slipper       |             80 |
-|             59 | Jacob Devery        |             89.73 |        2 |             75.29 | Billy Pollard       |             80 |
-|             77 | Tyrel Lomax         |             85.78 |        3 |             95.02 | Allan Alaalatoa     |             80 |
-|             56 | Zach Gallagher      |             11.3  |        4 |             45.72 | Nick Frost          |             15 |
-|             40 | Caleb Delany        |             67.9  |        5 |             70.86 | Tom Hooper          |             80 |
-|             69 | Devan Flanders      |             92.87 |        6 |             97.13 | Rob Valetini        |             80 |
-|             80 | Du'Plessis Kirifi   |             94.47 |        7 |             56.17 | Rory Scott          |             80 |
-|             80 | Peter Lakai         |             97.33 |        8 |             73.87 | Tuaina Taii Tualima |             73 |
-|             54 | Cam Roigard         |             78.78 |        9 |             92.16 | Ryan Lonergan       |             50 |
-|             16 | Brett Cameron       |             20.32 |       10 |             80.82 | Noah Lolesio        |             50 |
-|             27 | Fehi Fineanganofo   |             35.44 |       11 |             69.96 | Corey Toole         |             59 |
-|             30 | Peter Umaga-Jensen  |             46.84 |       12 |             30.52 | David Feliuai       |             50 |
-|             30 | Billy Proctor       |             96.89 |       13 |             76.03 | Len Ikitau          |             32 |
-|             16 | Bailyn Sullivan     |             59.67 |       14 |             92.67 | Andy Muirhead       |             80 |
-|             24 | Ruben Love          |             93.51 |       15 |             55.03 | Tom Wright          |             23 |
-|             27 | Raymond Tuputupu    |            nan    |       16 |            nan    | Lachlan Lonergan    |             32 |
-|             23 | Tevita Mafile'o     |             73.16 |       17 |            nan    | Lington Ieli        |             69 |
-|             40 | Pasilio Tosi        |            nan    |       18 |             62.22 | Feao Fotuaika       |             21 |
-|             57 | Hugo Plummer        |             84.79 |       19 |             50.69 | Lachlan Shaw        |              3 |
-|             11 | Brad Shields        |             78.72 |       20 |             55.32 | Luke Reimer         |             26 |
-|             30 | Ere Enari           |              2.87 |       21 |            nan    | Harrison Goddard    |             56 |
-|             30 | Ngantungane Punivai |            nan    |       22 |            nan    | Jack Debreczeni     |             64 |
-|             65 | Callum Harkin       |             21.48 |       23 |             86.46 | Ollie Sapsford      |             80 |
+|             31 | Xavier Numia        |             98.43 |        1 |             90.35 | James Slipper       |             80 |
+|             63 | Jacob Devery        |             88.26 |        2 |             73.48 | Billy Pollard       |             80 |
+|             57 | Tyrel Lomax         |             86    |        3 |             94.96 | Allan Alaalatoa     |             80 |
+|             40 | Zach Gallagher      |             11.37 |        4 |             39.94 | Nick Frost          |             80 |
+|             55 | Caleb Delany        |             69.76 |        5 |             71.85 | Tom Hooper          |             49 |
+|             30 | Devan Flanders      |             92.81 |        6 |             97.57 | Rob Valetini        |             67 |
+|             30 | Du'Plessis Kirifi   |             94.71 |        7 |             58.77 | Rory Scott          |             27 |
+|             30 | Peter Lakai         |             97.05 |        8 |             72    | Tuaina Taii Tualima |             80 |
+|             80 | Cam Roigard         |             79.69 |        9 |             91.95 | Ryan Lonergan       |             65 |
+|             21 | Brett Cameron       |             20.32 |       10 |             81.51 | Noah Lolesio        |             80 |
+|             13 | Fehi Fineanganofo   |             38.22 |       11 |             69.46 | Corey Toole         |             60 |
+|             23 | Peter Umaga-Jensen  |             48.47 |       12 |             27.86 | David Feliuai       |             55 |
+|             59 | Billy Proctor       |             97.06 |       13 |             75.99 | Len Ikitau          |             44 |
+|             15 | Bailyn Sullivan     |             64.57 |       14 |             93.01 | Andy Muirhead       |             80 |
+|             25 | Ruben Love          |             92.78 |       15 |             49.02 | Tom Wright          |             80 |
+|             20 | Raymond Tuputupu    |            nan    |       16 |            nan    | Lachlan Lonergan    |             80 |
+|             25 | Tevita Mafile'o     |             74.43 |       17 |            nan    | Lington Ieli        |             20 |
+|             61 | Pasilio Tosi        |            nan    |       18 |             62.87 | Feao Fotuaika       |             50 |
+|             25 | Hugo Plummer        |             84.88 |       19 |             51.72 | Lachlan Shaw        |             50 |
+|             30 | Brad Shields        |             80.44 |       20 |             54.65 | Luke Reimer         |             80 |
+|             80 | Ere Enari           |              2.87 |       21 |            nan    | Harrison Goddard    |             55 |
+|             40 | Ngantungane Punivai |            nan    |       22 |            nan    | Jack Debreczeni     |             24 |
+|             80 | Callum Harkin       |             21.66 |       23 |             86.3  | Ollie Sapsford      |             50 |
 
