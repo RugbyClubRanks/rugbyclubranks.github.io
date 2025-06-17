@@ -40,10 +40,10 @@ aside:
 
 | Club             |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:-----------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Bordeaux Begles  |         1 |            0.727 |                    4.358 |                           0.113 |                              |                          3.087 |
-| Stade Toulousain |         1 |            0.728 |                    7.89  |                           0.1   |                              |                          3.068 |
-| Toulon           |         1 |            0.24  |                   -4.358 |                           0.298 |                              |                          1.324 |
-| Bayonne          |         1 |            0.244 |                   -7.89  |                           0.132 |                              |                          1.164 |
+| Bordeaux Begles  |         1 |            0.75  |                    5.209 |                           0.108 |                              |                          3.178 |
+| Stade Toulousain |         1 |            0.736 |                    8.142 |                           0.104 |                              |                          3.096 |
+| Toulon           |         1 |            0.215 |                   -5.209 |                           0.319 |                              |                          1.249 |
+| Bayonne          |         1 |            0.24  |                   -8.142 |                           0.134 |                              |                          1.142 |
 
 
 
@@ -52,10 +52,10 @@ aside:
 
 | Club                 |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Stade Toulousain     |       27 | 18.728 |              436.89  |                 6.1   |                 15 |               98.068 |
-| Bordeaux Begles      |       27 | 17.727 |              157.358 |                 5.113 |                 11 |               87.087 |
-| Toulon               |       28 | 16.24  |              109.642 |                 6.298 |                 11 |               82.324 |
-| Bayonne              |       28 | 16.244 |               -8.89  |                 4.132 |                  7 |               78.164 |
+| Stade Toulousain     |       27 | 18.736 |              437.142 |                 6.104 |                 15 |               98.096 |
+| Bordeaux Begles      |       27 | 17.75  |              158.209 |                 5.108 |                 11 |               87.178 |
+| Toulon               |       28 | 16.215 |              108.791 |                 6.319 |                 11 |               82.249 |
+| Bayonne              |       28 | 16.24  |               -9.142 |                 4.134 |                  7 |               78.142 |
 | Castres Olympique    |       28 | 13     |              -62     |                 6     |                  9 |               73     |
 | Clermont Auvergne    |       28 | 13     |               30     |                 7     |                 11 |               72     |
 | Pau                  |       26 | 13     |              -37     |                 5     |                 10 |               67     |
@@ -75,7 +75,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 75.0% | 10.2 |
+| Club Level | 73.9% | 10.5 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -87,7 +87,7 @@ aside:
 ### Stade Toulousain V Bayonne on 2025/06/20
 
 
-Average Margin: Stade Toulousain by 7.9
+Average Margin: Stade Toulousain by 8.1
 
 <p float="left">
 <img src="plots\2025-06-20-StadeToulousain_V_Bayonne_performances.png" width="32%" />
@@ -98,7 +98,7 @@ Average Margin: Stade Toulousain by 7.9
 ### Bordeaux Begles V Toulon on 2025/06/21
 
 
-Average Margin: Bordeaux Begles by 4.4
+Average Margin: Bordeaux Begles by 5.2
 
 <p float="left">
 <img src="plots\2025-06-21-BordeauxBegles_V_Toulon_performances.png" width="32%" />

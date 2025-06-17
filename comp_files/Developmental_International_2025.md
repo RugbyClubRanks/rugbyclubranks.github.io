@@ -17,10 +17,10 @@ aside:
 
 | Club                 |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:---------------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Korea Republic       |         1 |            0.727 |                   16.098 |                           0.102 |                              |                          3.076 |
-| Mexico               |         1 |            0.536 |                    4.329 |                           0.158 |                              |                          2.372 |
-| Trinidad and Tobago  |         1 |            0.429 |                   -4.329 |                           0.154 |                              |                          1.94  |
-| United Arab Emirates |         1 |            0.24  |                  -16.098 |                           0.153 |                              |                          1.179 |
+| Korea Republic       |         1 |            0.728 |                   16.671 |                           0.115 |                              |                          3.055 |
+| Mexico               |         1 |            0.585 |                    4.651 |                           0.126 |                              |                          2.534 |
+| Trinidad and Tobago  |         1 |            0.381 |                   -4.651 |                           0.18  |                              |                          1.772 |
+| United Arab Emirates |         1 |            0.258 |                  -16.671 |                           0.156 |                              |                          1.216 |
 
 
 
@@ -29,10 +29,10 @@ aside:
 
 | Club                 |   Played |   Wins |   Point Differential |   Losing Bonus Points | Try Bonus Points   |   Competition Points |
 |:---------------------|---------:|-------:|---------------------:|----------------------:|:-------------------|---------------------:|
-| Korea Republic       |        1 |  0.727 |               16.098 |                 0.102 |                    |                3.076 |
-| Mexico               |        1 |  0.536 |                4.329 |                 0.158 |                    |                2.372 |
-| Trinidad and Tobago  |        1 |  0.429 |               -4.329 |                 0.154 |                    |                1.94  |
-| United Arab Emirates |        1 |  0.24  |              -16.098 |                 0.153 |                    |                1.179 |
+| Korea Republic       |        1 |  0.728 |               16.671 |                 0.115 |                    |                3.055 |
+| Mexico               |        1 |  0.585 |                4.651 |                 0.126 |                    |                2.534 |
+| Trinidad and Tobago  |        1 |  0.381 |               -4.651 |                 0.18  |                    |                1.772 |
+| United Arab Emirates |        1 |  0.258 |              -16.671 |                 0.156 |                    |                1.216 |
 
 
 
@@ -43,7 +43,7 @@ aside:
 ### Korea Republic V United Arab Emirates on 2025/06/21
 
 
-Average Margin: Korea Republic by 16.1
+Average Margin: Korea Republic by 16.7
 
 <p float="left">
 <img src="plots\2025-06-20-KoreaRepublic_V_UnitedArabEmirates_performances.png" width="32%" />
@@ -54,7 +54,7 @@ Average Margin: Korea Republic by 16.1
 ### Mexico V Trinidad and Tobago on 2025/06/21
 
 
-Average Margin: Mexico by 4.3
+Average Margin: Mexico by 4.7
 
 <p float="left">
 <img src="plots\2025-06-21-Mexico_V_TrinidadandTobago_performances.png" width="32%" />

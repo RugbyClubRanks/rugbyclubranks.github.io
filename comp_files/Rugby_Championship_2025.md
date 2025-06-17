@@ -17,10 +17,10 @@ aside:
 
 | Club         |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:-------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| South Africa |         6 |            3.363 |                   19.216 |                           1.098 |                              |                         15.056 |
-| New Zealand  |         6 |            3.324 |                   12.702 |                           1.195 |                              |                         15.003 |
-| Argentina    |         6 |            2.546 |                   -9.306 |                           1.402 |                              |                         12.088 |
-| Australia    |         6 |            2.254 |                  -22.612 |                           1.215 |                              |                         10.763 |
+| New Zealand  |         6 |            3.376 |                   15.439 |                           1.235 |                              |                         15.227 |
+| South Africa |         6 |            3.397 |                   21.002 |                           1.156 |                              |                         15.2   |
+| Argentina    |         6 |            2.529 |                  -10.732 |                           1.398 |                              |                         12.006 |
+| Australia    |         6 |            2.236 |                  -25.709 |                           1.246 |                              |                         10.602 |
 
 
 
@@ -29,10 +29,10 @@ aside:
 
 | Club         |   Played |   Wins |   Point Differential |   Losing Bonus Points | Try Bonus Points   |   Competition Points |
 |:-------------|---------:|-------:|---------------------:|----------------------:|:-------------------|---------------------:|
-| South Africa |        6 |  3.363 |               19.216 |                 1.098 |                    |               15.056 |
-| New Zealand  |        6 |  3.324 |               12.702 |                 1.195 |                    |               15.003 |
-| Argentina    |        6 |  2.546 |               -9.306 |                 1.402 |                    |               12.088 |
-| Australia    |        6 |  2.254 |              -22.612 |                 1.215 |                    |               10.763 |
+| New Zealand  |        6 |  3.376 |               15.439 |                 1.235 |                    |               15.227 |
+| South Africa |        6 |  3.397 |               21.002 |                 1.156 |                    |               15.2   |
+| Argentina    |        6 |  2.529 |              -10.732 |                 1.398 |                    |               12.006 |
+| Australia    |        6 |  2.236 |              -25.709 |                 1.246 |                    |               10.602 |
 
 
 
@@ -43,7 +43,7 @@ aside:
 ### South Africa V Australia on 2025/08/16
 
 
-Average Margin: South Africa by 9.5
+Average Margin: South Africa by 10.3
 
 <p float="left">
 <img src="plots\2025-08-16-SouthAfrica_V_Australia_performances.png" width="32%" />
@@ -54,7 +54,7 @@ Average Margin: South Africa by 9.5
 ### Argentina V New Zealand on 2025/08/16
 
 
-Average Margin: New Zealand by 1.4
+Average Margin: New Zealand by 1.9
 
 <p float="left">
 <img src="plots\2025-08-16-Argentina_V_NewZealand_performances.png" width="32%" />
@@ -67,7 +67,7 @@ Average Margin: New Zealand by 1.4
 ### Argentina V New Zealand on 2025/08/23
 
 
-Average Margin: New Zealand by 1.1
+Average Margin: New Zealand by 1.3
 
 <p float="left">
 <img src="plots\2025-08-23-Argentina_V_NewZealand_performances.png" width="32%" />
@@ -78,7 +78,7 @@ Average Margin: New Zealand by 1.1
 ### South Africa V Australia on 2025/08/23
 
 
-Average Margin: South Africa by 8.5
+Average Margin: South Africa by 9.1
 
 <p float="left">
 <img src="plots\2025-08-23-SouthAfrica_V_Australia_performances.png" width="32%" />
@@ -91,7 +91,7 @@ Average Margin: South Africa by 8.5
 ### New Zealand V South Africa on 2025/09/06
 
 
-Average Margin: New Zealand by 1.8
+Average Margin: New Zealand by 2.0
 
 <p float="left">
 <img src="plots\2025-09-06-NewZealand_V_SouthAfrica_performances.png" width="32%" />
@@ -102,7 +102,7 @@ Average Margin: New Zealand by 1.8
 ### Australia V Argentina on 2025/09/06
 
 
-Average Margin: Australia by 1.4
+Average Margin: Australia by 1.0
 
 <p float="left">
 <img src="plots\2025-09-06-Australia_V_Argentina_performances.png" width="32%" />
@@ -115,7 +115,7 @@ Average Margin: Australia by 1.4
 ### Australia V Argentina on 2025/09/13
 
 
-Average Margin: Australia by 0.5
+Average Margin: Australia by 0.9
 
 <p float="left">
 <img src="plots\2025-09-13-Australia_V_Argentina_performances.png" width="32%" />
@@ -126,7 +126,7 @@ Average Margin: Australia by 0.5
 ### New Zealand V South Africa on 2025/09/13
 
 
-Average Margin: New Zealand by 1.9
+Average Margin: New Zealand by 2.0
 
 <p float="left">
 <img src="plots\2025-09-13-NewZealand_V_SouthAfrica_performances.png" width="32%" />
@@ -139,7 +139,7 @@ Average Margin: New Zealand by 1.9
 ### South Africa V Argentina on 2025/09/27
 
 
-Average Margin: South Africa by 5.0
+Average Margin: South Africa by 5.4
 
 <p float="left">
 <img src="plots\2025-09-27-SouthAfrica_V_Argentina_performances.png" width="32%" />
@@ -150,7 +150,7 @@ Average Margin: South Africa by 5.0
 ### New Zealand V Australia on 2025/09/27
 
 
-Average Margin: New Zealand by 5.5
+Average Margin: New Zealand by 6.4
 
 <p float="left">
 <img src="plots\2025-09-27-NewZealand_V_Australia_performances.png" width="32%" />
@@ -163,7 +163,7 @@ Average Margin: New Zealand by 5.5
 ### Argentina V South Africa on 2025/10/04
 
 
-Average Margin: Argentina by 0.1
+Average Margin: South Africa by 0.3
 
 <p float="left">
 <img src="plots\2025-10-04-Argentina_V_SouthAfrica_performances.png" width="32%" />
@@ -174,7 +174,7 @@ Average Margin: Argentina by 0.1
 ### Australia V New Zealand on 2025/10/04
 
 
-Average Margin: New Zealand by 1.0
+Average Margin: New Zealand by 1.8
 
 <p float="left">
 <img src="plots\2025-10-04-Australia_V_NewZealand_performances.png" width="32%" />

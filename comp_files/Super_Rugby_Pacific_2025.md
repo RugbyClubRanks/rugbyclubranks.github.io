@@ -36,8 +36,8 @@ aside:
 
 | Club      |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:----------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Crusaders |         1 |            0.526 |                     0.88 |                           0.242 |                              |                          2.462 |
-| Chiefs    |         1 |            0.416 |                    -0.88 |                           0.294 |                              |                          2.074 |
+| Crusaders |         1 |            0.489 |                    0.454 |                           0.254 |                              |                          2.328 |
+| Chiefs    |         1 |            0.452 |                   -0.454 |                           0.266 |                              |                          2.192 |
 
 
 
@@ -46,17 +46,17 @@ aside:
 
 | Club                     |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Crusaders                |       17 | 13.526 |               127.88 |                 0.242 |                 10 |               64.462 |
-| Chiefs                   |       17 | 12.416 |               249.12 |                 3.294 |                  9 |               62.074 |
-| Brumbies                 |       16 | 10     |                74    |                 4     |                 12 |               56     |
-| Hurricanes               |       15 |  8     |                99    |                 4     |                  8 |               46     |
-| Queensland Reds          |       15 |  8     |                34    |                 2     |                 10 |               44     |
-| Blues                    |       16 |  7     |                41    |                 5     |                  6 |               39     |
-| Moana Pasifika           |       14 |  6     |              -139    |                 2     |                  9 |               35     |
-| New South Wales Waratahs |       14 |  6     |              -134    |                 1     |                  6 |               31     |
-| Western Force            |       14 |  4     |              -114    |                 3     |                  5 |               26     |
-| Highlanders              |       14 |  3     |               -90    |                 7     |                  5 |               24     |
-| Fijian Drua              |       14 |  4     |              -148    |                 3     |                  5 |               24     |
+| Crusaders                |       17 | 13.489 |              127.454 |                 0.254 |                 10 |               64.328 |
+| Chiefs                   |       17 | 12.452 |              249.546 |                 3.266 |                  9 |               62.192 |
+| Brumbies                 |       16 | 10     |               74     |                 4     |                 12 |               56     |
+| Hurricanes               |       15 |  8     |               99     |                 4     |                  8 |               46     |
+| Queensland Reds          |       15 |  8     |               34     |                 2     |                 10 |               44     |
+| Blues                    |       16 |  7     |               41     |                 5     |                  6 |               39     |
+| Moana Pasifika           |       14 |  6     |             -139     |                 2     |                  9 |               35     |
+| New South Wales Waratahs |       14 |  6     |             -134     |                 1     |                  6 |               31     |
+| Western Force            |       14 |  4     |             -114     |                 3     |                  5 |               26     |
+| Highlanders              |       14 |  3     |              -90     |                 7     |                  5 |               24     |
+| Fijian Drua              |       14 |  4     |             -148     |                 3     |                  5 |               24     |
 
 
 
@@ -77,7 +77,7 @@ aside:
 ### Crusaders V Chiefs on 2025/06/21
 
 
-Average Margin: Crusaders by 0.9
+Average Margin: Crusaders by 0.5
 
 <p float="left">
 <img src="plots\2025-06-21-Crusaders_V_Chiefs_performances.png" width="32%" />

@@ -17,8 +17,8 @@ aside:
 
 | Club                    |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:------------------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| British and Irish Lions |         1 |            0.59  |                     5.85 |                           0.146 |                              |                          2.562 |
-| Argentina               |         1 |            0.382 |                    -5.85 |                           0.175 |                              |                          1.759 |
+| British and Irish Lions |         1 |            0.597 |                    7.018 |                           0.152 |                              |                          2.616 |
+| Argentina               |         1 |            0.365 |                   -7.018 |                           0.154 |                              |                          1.69  |
 
 
 
@@ -27,8 +27,8 @@ aside:
 
 | Club                    |   Played |   Wins |   Point Differential |   Losing Bonus Points | Try Bonus Points   |   Competition Points |
 |:------------------------|---------:|-------:|---------------------:|----------------------:|:-------------------|---------------------:|
-| British and Irish Lions |        1 |  0.59  |                 5.85 |                 0.146 |                    |                2.562 |
-| Argentina               |        1 |  0.382 |                -5.85 |                 0.175 |                    |                1.759 |
+| British and Irish Lions |        1 |  0.597 |                7.018 |                 0.152 |                    |                2.616 |
+| Argentina               |        1 |  0.365 |               -7.018 |                 0.154 |                    |                1.69  |
 
 
 
@@ -39,7 +39,7 @@ aside:
 ### British and Irish Lions V Argentina on 2025/06/20
 
 
-Average Margin: British and Irish Lions by 5.8
+Average Margin: British and Irish Lions by 7.0
 
 <p float="left">
 <img src="plots\2025-06-19-BritishandIrishLions_V_Argentina_performances.png" width="32%" />

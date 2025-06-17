@@ -36,8 +36,8 @@ aside:
 
 | Club                   |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:-----------------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| New England Free Jacks |         1 |            0.649 |                    3.372 |                           0.16  |                              |                          2.852 |
-| Chicago Hounds         |         1 |            0.303 |                   -3.372 |                           0.301 |                              |                          1.609 |
+| New England Free Jacks |         1 |            0.615 |                    3.032 |                           0.164 |                              |                          2.742 |
+| Chicago Hounds         |         1 |            0.326 |                   -3.032 |                           0.282 |                              |                          1.704 |
 
 
 
@@ -47,8 +47,8 @@ aside:
 | Club                   |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
 | Utah Warriors          |       17 | 12     |               88     |                 2     |                 11 |               61     |
-| New England Free Jacks |       18 | 12.649 |              109.372 |                 2.16  |                  7 |               59.852 |
-| Chicago Hounds         |       18 | 12.303 |               76.628 |                 2.301 |                  7 |               58.609 |
+| New England Free Jacks |       18 | 12.615 |              109.032 |                 2.164 |                  7 |               59.742 |
+| Chicago Hounds         |       18 | 12.326 |               76.968 |                 2.282 |                  7 |               58.704 |
 | Houston SaberCats      |       16 | 10     |               92     |                 4     |                  8 |               52     |
 | Seattle Seawolves      |       17 |  8     |               36     |                 5     |                  8 |               47     |
 | San Diego Legion       |       16 |  8     |               60     |                 4     |                 10 |               46     |
@@ -65,7 +65,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 66.3% | 11.9 |
+| Club Level | 66.3% | 11.8 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -77,7 +77,7 @@ aside:
 ### New England Free Jacks V Chicago Hounds on 2025/06/21
 
 
-Average Margin: New England Free Jacks by 3.4
+Average Margin: New England Free Jacks by 3.0
 
 <p float="left">
 <img src="plots\2025-06-21-NewEnglandFreeJacks_V_ChicagoHounds_performances.png" width="32%" />
