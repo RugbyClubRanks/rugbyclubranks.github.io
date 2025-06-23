@@ -1,0 +1,1 @@
+This is a display site for my Rugby Club Rankings Project. It should display match predictions, reviews, team and player ratings, and whatever else I feel like adding.

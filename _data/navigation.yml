@@ -1,0 +1,29 @@
+header:
+
+  - titles: 
+      en      : &EN       Projections
+    url: /Current_Projections.html
+
+  - titles:
+      en      : &EN       Reviews
+    url: /Recent_Matches.html
+
+  - titles:
+      en      : &EN       Competitions
+    url: /Competitions.html
+
+  - titles:
+      en      : &EN       Player Ranks
+    url: /player_rankings.html
+
+  - titles:
+      en      : &EN       Accuracy
+    url: /accuracy_page.html
+
+  - titles:
+      en      : &EN       Archive
+    url: /archive.html
+
+  - titles:
+      en      : &EN       About
+    url: /about.html
