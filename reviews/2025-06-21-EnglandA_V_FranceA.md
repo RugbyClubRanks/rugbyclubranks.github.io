@@ -2,16 +2,16 @@
 layout: page  
 title: England A V France A on 2025/06/21  
 date: 2025-06-21  
-categories: "International Test Match 2025" match review  
+categories: "International Test Match 2025" match projection  
 ---
 # England A V France A on 2025/06/21
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting England A to win by 8.2.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting England A to win by 8.53.
 
-Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 30 to 22
+Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 30 to 21
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model

@@ -2,14 +2,14 @@
 layout: page  
 title: La Plata V Regatas Bella Vista on 2025/08/09  
 date: 2025-08-09  
-categories: "URBA Top 12 2025" match projection  
+categories: "URBA Top 12 2025" match review  
 ---
 # La Plata V Regatas Bella Vista on 2025/08/09
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting La Plata to win by 1.75.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting La Plata to win by 1.98.
 
 Our Over/Under is 32.5 - and combined with the spread above, we have a predicted scoreline of 17 to 15
 

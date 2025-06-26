@@ -2,14 +2,14 @@
 layout: page  
 title: CUBA V Alumni on 2025/07/12  
 date: 2025-07-12  
-categories: "URBA Top 12 2025" match projection  
+categories: "URBA Top 12 2025" match review  
 ---
 # CUBA V Alumni on 2025/07/12
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting CUBA to win by 0.57.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting CUBA to win by 0.69.
 
 Our Over/Under is 33.5 - and combined with the spread above, we have a predicted scoreline of 17 to 16
 

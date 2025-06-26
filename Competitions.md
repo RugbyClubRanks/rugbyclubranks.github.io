@@ -8,7 +8,7 @@ key: page-recents
 ## International Test Match
 
 
-[2025](comp_files\International_Test_Match_2025) - Prediction Accuracy: 66.7% 
+[2025](comp_files\International_Test_Match_2025) - Prediction Accuracy: 64.8% 
 
 [2024](comp_files\International_Test_Match_2024) - Prediction Accuracy: 73.3% 
 
@@ -154,7 +154,7 @@ key: page-recents
 ## Lions Tour
 
 
-[2025](comp_files\Lions_Tour_2025) - Prediction Accuracy: 33.3% 
+[2025](comp_files\Lions_Tour_2025) - Prediction Accuracy: 25.0% 
 ## IRB Pacific Nations Cup
 
 
@@ -232,7 +232,7 @@ key: page-recents
 ## Top 14 Orange
 
 
-[2425](comp_files\Top_14_Orange_2425) - Prediction Accuracy: 74.6% 
+[2425](comp_files\Top_14_Orange_2425) - Prediction Accuracy: 75.1% 
 
 [2024](comp_files\Top_14_Orange_2024) - Prediction Accuracy: 78.1% 
 
@@ -274,7 +274,7 @@ key: page-recents
 ## Major League Rugby
 
 
-[2025](comp_files\Major_League_Rugby_2025) - Prediction Accuracy: 66.0% 
+[2025](comp_files\Major_League_Rugby_2025) - Prediction Accuracy: 66.3% 
 
 [2024](comp_files\Major_League_Rugby_2024) - Prediction Accuracy: 63.5% 
 
@@ -488,7 +488,7 @@ key: page-recents
 ## URBA Top 12
 
 
-[2025](comp_files\URBA_Top_12_2025) - Prediction Accuracy: 68.8% 
+[2025](comp_files\URBA_Top_12_2025) - Prediction Accuracy: 68.1% 
 
 [2024](comp_files\URBA_Top_12_2024) - Prediction Accuracy: 62.8% 
 ## Bunnings NPC

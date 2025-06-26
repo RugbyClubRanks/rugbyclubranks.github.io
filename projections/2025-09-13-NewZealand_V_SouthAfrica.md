@@ -2,16 +2,16 @@
 layout: page  
 title: New Zealand V South Africa on 2025/09/13  
 date: 2025-09-13  
-categories: "Rugby Championship 2025" match projection  
+categories: "Rugby Championship 2025" match review  
 ---
 # New Zealand V South Africa on 2025/09/13
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting New Zealand to win by 1.85.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting New Zealand to win by 1.98.
 
-Our Over/Under is 32.5 - and combined with the spread above, we have a predicted scoreline of 17 to 15
+Our Over/Under is 29.5 - and combined with the spread above, we have a predicted scoreline of 16 to 14
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model

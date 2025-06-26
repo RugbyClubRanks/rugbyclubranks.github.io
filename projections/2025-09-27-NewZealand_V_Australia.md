@@ -2,16 +2,16 @@
 layout: page  
 title: New Zealand V Australia on 2025/09/27  
 date: 2025-09-27  
-categories: "Rugby Championship 2025" match projection  
+categories: "Rugby Championship 2025" match review  
 ---
 # New Zealand V Australia on 2025/09/27
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting New Zealand to win by 6.51.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting New Zealand to win by 6.26.
 
-Our Over/Under is 33.5 - and combined with the spread above, we have a predicted scoreline of 20 to 13
+Our Over/Under is 31.5 - and combined with the spread above, we have a predicted scoreline of 19 to 13
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model

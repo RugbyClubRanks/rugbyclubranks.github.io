@@ -2,16 +2,16 @@
 layout: page  
 title: Belgrano V La Plata on 2025/07/12  
 date: 2025-07-12  
-categories: "URBA Top 12 2025" match projection  
+categories: "URBA Top 12 2025" match review  
 ---
 # Belgrano V La Plata on 2025/07/12
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Belgrano to win by 8.81.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Belgrano to win by 8.42.
 
-Our Over/Under is 41.5 - and combined with the spread above, we have a predicted scoreline of 25 to 16
+Our Over/Under is 41.5 - and combined with the spread above, we have a predicted scoreline of 25 to 17
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model

@@ -2,14 +2,14 @@
 layout: page  
 title: SIC V Alumni on 2025/10/11  
 date: 2025-10-11  
-categories: "URBA Top 12 2025" match projection  
+categories: "URBA Top 12 2025" match review  
 ---
 # SIC V Alumni on 2025/10/11
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting SIC to win by 1.72.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting SIC to win by 1.84.
 
 Our Over/Under is 33.5 - and combined with the spread above, we have a predicted scoreline of 18 to 16
 

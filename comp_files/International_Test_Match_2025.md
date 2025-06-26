@@ -1,6 +1,6 @@
 ---  
 title: "International Test Match 2025 Status"  
-date: 2025-06-23 6:00:00 -0500  
+date: 2025-06-26 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -68,8 +68,8 @@ aside:
 
 | Club    |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:--------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Italy   |         1 |            0.67  |                    7.622 |                           0.159 |                              |                          2.901 |
-| Namibia |         1 |            0.299 |                   -7.622 |                           0.181 |                              |                          1.439 |
+| Italy   |         1 |            0.689 |                    7.289 |                           0.126 |                              |                          2.952 |
+| Namibia |         1 |            0.276 |                   -7.289 |                           0.205 |                              |                          1.379 |
 
 
 
@@ -103,12 +103,12 @@ aside:
 | Bulgaria               |        2 |  1     |              -15     |                 0     |                    |                4     |
 | Trinidad and Tobago    |        2 |  1     |              -30     |                 0     |                    |                4     |
 | Switzerland            |        5 |  1     |             -243     |                 0     |                    |                4     |
-| Italy                  |        1 |  0.67  |                7.622 |                 0.159 |                    |                2.901 |
+| Italy                  |        1 |  0.689 |                7.289 |                 0.126 |                    |                2.952 |
 | Bahamas                |        1 |  0     |                0     |                 0     |                    |                2     |
 | Latvia                 |        2 |  0     |               -4     |                 2     |                    |                2     |
 | Cyprus                 |        2 |  0     |               -9     |                 0     |                    |                2     |
 | Bermuda                |        3 |  0     |              -16     |                 0     |                    |                2     |
-| Namibia                |        1 |  0.299 |               -7.622 |                 0.181 |                    |                1.439 |
+| Namibia                |        1 |  0.276 |               -7.289 |                 0.205 |                    |                1.379 |
 | Malta                  |        1 |  0     |               -1     |                 1     |                    |                1     |
 | England A              |        1 |  0     |               -2     |                 1     |                    |                1     |
 | Lions                  |        1 |  0     |               -4     |                 1     |                    |                1     |
@@ -131,7 +131,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 66.7% | 23.9 |
+| Club Level | 64.8% | 24.2 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -143,7 +143,7 @@ aside:
 ### Namibia V Italy on 2025/06/27
 
 
-Average Margin: Italy by 7.6
+Average Margin: Italy by 7.3
 
 <p float="left">
 <img src="plots\2025-06-27-Namibia_V_Italy_performances.png" width="32%" />

@@ -2,7 +2,7 @@
 layout: page  
 title: Buenos Aires V CUBA on 2025/06/21  
 date: 2025-06-21  
-categories: "URBA Top 12 2025" match review  
+categories: "URBA Top 12 2025" match projection  
 ---
 # Buenos Aires V CUBA on 2025/06/21
 

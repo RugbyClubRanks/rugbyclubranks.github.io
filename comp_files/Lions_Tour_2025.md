@@ -1,6 +1,6 @@
 ---  
 title: "Lions Tour 2025 Status"  
-date: 2025-06-23 6:00:00 -0500  
+date: 2025-06-26 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -27,8 +27,9 @@ aside:
 
 | Club                    |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:------------------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| British and Irish Lions |         1 |            0.694 |                    6.378 |                           0.133 |                              |                          2.967 |
-| Western Force           |         1 |            0.277 |                   -6.378 |                           0.238 |                              |                          1.404 |
+| British and Irish Lions |         2 |            1.225 |                    8.458 |                           0.369 |                              |                          5.409 |
+| Queensland Reds         |         1 |            0.409 |                   -1.709 |                           0.264 |                              |                          1.984 |
+| Western Force           |         1 |            0.296 |                   -6.749 |                           0.209 |                              |                          1.449 |
 
 
 
@@ -38,8 +39,9 @@ aside:
 | Club                    |   Played |   Wins |   Point Differential |   Losing Bonus Points | Try Bonus Points   |   Competition Points |
 |:------------------------|---------:|-------:|---------------------:|----------------------:|:-------------------|---------------------:|
 | Argentina               |        2 |  2     |                8     |                 0     |                    |                8     |
-| British and Irish Lions |        3 |  0.694 |               -1.622 |                 2.133 |                    |                4.967 |
-| Western Force           |        1 |  0.277 |               -6.378 |                 0.238 |                    |                1.404 |
+| British and Irish Lions |        4 |  1.225 |                0.458 |                 2.369 |                    |                7.409 |
+| Queensland Reds         |        1 |  0.409 |               -1.709 |                 0.264 |                    |                1.984 |
+| Western Force           |        1 |  0.296 |               -6.749 |                 0.209 |                    |                1.449 |
 
 
 
@@ -48,7 +50,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 33.3% | 13.8 |
+| Club Level | 25.0% | 13.4 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -60,10 +62,23 @@ aside:
 ### Western Force V British and Irish Lions on 2025/06/28
 
 
-Average Margin: British and Irish Lions by 6.4
+Average Margin: British and Irish Lions by 6.7
 
 <p float="left">
 <img src="plots\2025-06-28-WesternForce_V_BritishandIrishLions_performances.png" width="32%" />
 <img src="plots\2025-06-28-WesternForce_V_BritishandIrishLions_resultbar.png" width="32%" />
 <img src="plots\2025-06-28-WesternForce_V_BritishandIrishLions_spreads.png" width="32%" />
+</p>
+
+## Week 4
+
+### Queensland Reds V British and Irish Lions on 2025/07/02
+
+
+Average Margin: British and Irish Lions by 1.7
+
+<p float="left">
+<img src="plots\2025-07-02-QueenslandReds_V_BritishandIrishLions_performances.png" width="32%" />
+<img src="plots\2025-07-02-QueenslandReds_V_BritishandIrishLions_resultbar.png" width="32%" />
+<img src="plots\2025-07-02-QueenslandReds_V_BritishandIrishLions_spreads.png" width="32%" />
 </p>
