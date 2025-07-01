@@ -3,115 +3,117 @@ layout: article
 title: Recent Matches  
 key: page-recents  
 ---
-# Top Flight Leagues
+# International Competitions
 
-## Gallagher Premiership
+## International Test Match
 
 
-[In depth model review and projections for Gallagher Premiership 24/25](comp_files/Gallagher_Premiership_24/25)
+[In depth model review and projections for International Test Match 2025](comp_files/International_Test_Match_2025)
 
-Competition Accuracy: 66 of 93 (70.97%)
+Competition Accuracy: 37 of 56 (66.07%)
 
-Competition Error: 12.89 points per match
+Competition Error: 25.07 points per match
 
-Last Round Accuracy: 5 of 5 (100.0%)
+Last Two Week Accuracy: 4 of 6 (66.67%)
 
-Last Round Error: 9.64 points per match
+Last Two Week Error: 26.44 points per match
 
-[2025-06-14 Leicester Tigers at Bath Rugby; 21-23](reviews//2025-06-14-BathRugby-LeicesterTigers)
+[2025/06/27 - Namibia V Italy, 6 to 73](reviews\2025-06-27-Namibia_V_Italy)
+
+[2025/06/28 - Japan A V New Zealand Maori, 20 to 53](reviews\2025-06-28-JapanA_V_NewZealandMaori)
+
+[2025/06/28 - South Africa V Barbarians, 54 to 7](reviews\2025-06-28-SouthAfrica_V_Barbarians)
+## Lions Tour
+
+
+[In depth model review and projections for Lions Tour 2025](comp_files/Lions_Tour_2025)
+
+Competition Accuracy: 1 of 3 (33.33%)
+
+Competition Error: 16.94 points per match
+
+Last Two Week Accuracy: 1 of 3 (33.33%)
+
+Last Two Week Error: 16.94 points per match
+
+[2025/06/28 - Western Force V British and Irish Lions, 7 to 54](reviews\2025-06-28-WesternForce_V_BritishandIrishLions)
+## U20 Championship
+
+
+[In depth model review and projections for U20 Championship 2025](comp_files/U20_Championship_2025)
+
+Competition Accuracy: 4 of 6 (66.67%)
+
+Competition Error: 20.07 points per match
+
+Last Two Week Accuracy: 4 of 6 (66.67%)
+
+Last Two Week Error: 20.07 points per match
+
+[2025/06/29 - Argentina U20 V Wales U20, 34 to 27](reviews\2025-06-29-ArgentinaU20_V_WalesU20)
+
+[2025/06/29 - Australia U20 V South Africa U20, 17 to 73](reviews\2025-06-29-AustraliaU20_V_SouthAfricaU20)
+
+[2025/06/29 - England U20 V Scotland U20, 56 to 19](reviews\2025-06-29-EnglandU20_V_ScotlandU20)
+
+[2025/06/29 - France U20 V Spain U20, 49 to 11](reviews\2025-06-29-FranceU20_V_SpainU20)
+
+[2025/06/29 - Ireland U20 V Georgia U20, 35 to 28](reviews\2025-06-29-IrelandU20_V_GeorgiaU20)
+
+[2025/06/29 - New Zealand U20 V Italy U20, 14 to 5](reviews\2025-06-29-NewZealandU20_V_ItalyU20)
+# Top Flight Competitions
+
 ## Major League Rugby
 
 
 [In depth model review and projections for Major League Rugby 2025](comp_files/Major_League_Rugby_2025)
 
-Competition Accuracy: 71 of 102 (69.61%)
+Competition Accuracy: 63 of 95 (66.32%)
 
-Competition Error: 11.42 points per match
+Competition Error: 11.67 points per match
 
-Last Round Accuracy: 6 of 6 (100.0%)
+Last Two Week Accuracy: 2 of 3 (66.67%)
 
-Last Round Error: 15.51 points per match
+Last Two Week Error: 7.63 points per match
 
-[2025-06-09 Miami Sharks at Seattle Seawolves; 17-42](reviews//2025-06-09-SeattleSeawolves-MiamiSharks)
-
-[2025-06-09 Anthem RC at Houston SaberCats; 14-26](reviews//2025-06-09-HoustonSaberCats-AnthemRC)
-
-[2025-06-14 Seattle Seawolves at Utah Warriors; 21-23](reviews//2025-06-14-UtahWarriors-SeattleSeawolves)
-
-[2025-06-14 Old Glory DC at Chicago Hounds; 16-27](reviews//2025-06-14-ChicagoHounds-OldGloryDC)
-
-[2025-06-15 Miami Sharks at New England Free Jacks; 10-32](reviews//2025-06-15-NewEnglandFreeJacks-MiamiSharks)
-## Super Rugby Pacific
-
-
-[In depth model review and projections for Super Rugby Pacific 2025](comp_files/Super_Rugby_Pacific_2025)
-
-Competition Accuracy: 54 of 80 (67.5%)
-
-Competition Error: 11.69 points per match
-
-Last Round Accuracy: 5 of 6 (83.33%)
-
-Last Round Error: 12.3 points per match
-
-[2025-06-13 Blues at Crusaders; 14-21](reviews//2025-06-13-Crusaders-Blues)
-
-[2025-06-14 Brumbies at Chiefs; 17-37](reviews//2025-06-14-Chiefs-Brumbies)
+[2025/06/28 - New England Free Jacks V Houston SaberCats, 28 to 22](reviews\2025-06-28-NewEnglandFreeJacks_V_HoustonSaberCats)
 ## Top 14 Orange
 
 
-[In depth model review and projections for Top 14 Orange 24/25](comp_files/Top_14_Orange_24/25)
+[In depth model review and projections for Top 14 Orange 24/25](comp_files/Top_14_Orange_2425)
 
-Competition Accuracy: 133 of 183 (72.68%)
+Competition Accuracy: 142 of 189 (75.13%)
 
-Competition Error: 10.99 points per match
+Competition Error: 10.24 points per match
 
-Last Round Accuracy: 4 of 7 (57.14%)
+Last Two Week Accuracy: 3 of 3 (100.0%)
 
-Last Round Error: 14.1 points per match
+Last Two Week Error: 6.64 points per match
 
-[2025-06-13 Clermont Auvergne at Bayonne; 3-20](reviews//2025-06-13-Bayonne-ClermontAuvergne)
+[2025/06/28 - Stade Toulousain V Bordeaux Begles, 39 to 33](reviews\2025-06-28-StadeToulousain_V_BordeauxBegles)
+# Domestic Competitions
 
-[2025-06-14 Castres Olympique at Toulon; 23-52](reviews//2025-06-14-Toulon-CastresOlympique)
-## United Rugby Championship
-
-
-[In depth model review and projections for United Rugby Championship 24/25](comp_files/United_Rugby_Championship_24/25)
-
-Competition Accuracy: 102 of 151 (67.55%)
-
-Competition Error: 11.23 points per match
-
-Last Round Accuracy: 6 of 8 (75.0%)
-
-Last Round Error: 14.05 points per match
-
-[2025-06-14 Bulls at Leinster; 7-32](reviews//2025-06-14-Leinster-Bulls)
-# Domestic Leagues
-
-## URBA Top 13
+## URBA Top 12
 
 
-[In depth model review and projections for URBA Top 13 2025](comp_files/URBA_Top_13_2025)
+[In depth model review and projections for URBA Top 12 2025](comp_files/URBA_Top_12_2025)
 
-Competition Accuracy: 48 of 69 (69.57%)
+Competition Accuracy: 54 of 72 (75.0%)
 
-Competition Error: 10.98 points per match
+Competition Error: 10.16 points per match
 
-Last Round Accuracy: 5 of 7 (71.43%)
+Last Two Week Accuracy: 8 of 12 (66.67%)
 
-Last Round Error: 6.79 points per match
+Last Two Week Error: 9.94 points per match
 
-[2025-06-14 Hindu at CUBA; 6-10](reviews//2025-06-14-CUBA-Hindu)
+[2025/06/28 - Alumni V SIC, 24 to 48](reviews\2025-06-28-Alumni_V_SIC)
 
-[2025-06-14 Los Tilos at CASI; 21-25](reviews//2025-06-14-CASI-LosTilos)
+[2025/06/28 - Belgrano V Buenos Aires, 41 to 32](reviews\2025-06-28-Belgrano_V_BuenosAires)
 
-[2025-06-14 Buenos Aires at La Plata; 17-20](reviews//2025-06-14-LaPlata-BuenosAires)
+[2025/06/28 - CASI V Hindu, 26 to 25](reviews\2025-06-28-CASI_V_Hindu)
 
-[2025-06-14 Newman at Belgrano; 21-41](reviews//2025-06-14-Belgrano-Newman)
+[2025/06/28 - CUBA V La Plata, 27 to 23](reviews\2025-06-28-CUBA_V_LaPlata)
 
-[2025-06-14 Regatas Bella Vista at Alumni; 12-9](reviews//2025-06-14-Alumni-RegatasBellaVista)
+[2025/06/28 - Regatas Bella Vista V Los Tilos, 20 to 13](reviews\2025-06-28-RegatasBellaVista_V_LosTilos)
 
-[2025-06-14 SIC at San Luis; 19-6](reviews//2025-06-14-SanLuis-SIC)
-
-[2025-06-14 Buenos Aires at La Plata Rugby Club; 17-20](reviews//2025-06-14-LaPlataRugbyClub-BuenosAires)
+[2025/06/28 - San Luis V Newman, 16 to 20](reviews\2025-06-28-SanLuis_V_Newman)
