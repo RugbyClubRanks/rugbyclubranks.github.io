@@ -14,9 +14,9 @@ Competition Accuracy: 37 of 56 (66.07%)
 
 Competition Error: 25.07 points per match
 
-Last Two Week Accuracy: 4 of 6 (66.67%)
+Last Two Week Accuracy: 2 of 3 (66.67%)
 
-Last Two Week Error: 26.44 points per match
+Last Two Week Error: 39.94 points per match
 
 [2025/06/27 - Namibia V Italy, 6 to 73](reviews\2025-06-27-Namibia_V_Italy)
 
@@ -28,15 +28,17 @@ Last Two Week Error: 26.44 points per match
 
 [In depth model review and projections for Lions Tour 2025](comp_files/Lions_Tour_2025)
 
-Competition Accuracy: 1 of 3 (33.33%)
+Competition Accuracy: 2 of 4 (50.0%)
 
-Competition Error: 16.94 points per match
+Competition Error: 21.46 points per match
 
-Last Two Week Accuracy: 1 of 3 (33.33%)
+Last Two Week Accuracy: 2 of 2 (100.0%)
 
-Last Two Week Error: 16.94 points per match
+Last Two Week Error: 26.81 points per match
 
 [2025/06/28 - Western Force V British and Irish Lions, 7 to 54](reviews\2025-06-28-WesternForce_V_BritishandIrishLions)
+
+[2025/07/02 - Queensland Reds V British and Irish Lions, 12 to 52](reviews\2025-07-02-QueenslandReds_V_BritishandIrishLions)
 ## U20 Championship
 
 
@@ -72,9 +74,9 @@ Competition Accuracy: 63 of 95 (66.32%)
 
 Competition Error: 11.67 points per match
 
-Last Two Week Accuracy: 2 of 3 (66.67%)
+Last Two Week Accuracy: 1 of 1 (100.0%)
 
-Last Two Week Error: 7.63 points per match
+Last Two Week Error: 2.39 points per match
 
 [2025/06/28 - New England Free Jacks V Houston SaberCats, 28 to 22](reviews\2025-06-28-NewEnglandFreeJacks_V_HoustonSaberCats)
 ## Top 14 Orange
@@ -86,9 +88,9 @@ Competition Accuracy: 142 of 189 (75.13%)
 
 Competition Error: 10.24 points per match
 
-Last Two Week Accuracy: 3 of 3 (100.0%)
+Last Two Week Accuracy: 1 of 1 (100.0%)
 
-Last Two Week Error: 6.64 points per match
+Last Two Week Error: 4.5 points per match
 
 [2025/06/28 - Stade Toulousain V Bordeaux Begles, 39 to 33](reviews\2025-06-28-StadeToulousain_V_BordeauxBegles)
 # Domestic Competitions
@@ -102,9 +104,9 @@ Competition Accuracy: 54 of 72 (75.0%)
 
 Competition Error: 10.16 points per match
 
-Last Two Week Accuracy: 8 of 12 (66.67%)
+Last Two Week Accuracy: 4 of 6 (66.67%)
 
-Last Two Week Error: 9.94 points per match
+Last Two Week Error: 10.62 points per match
 
 [2025/06/28 - Alumni V SIC, 24 to 48](reviews\2025-06-28-Alumni_V_SIC)
 

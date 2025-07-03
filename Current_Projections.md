@@ -20,9 +20,9 @@ Competition Accuracy: 37 of 56 (66.07%)
 
 Competition Error: 25.07 points per match
 
-Last Two Week Accuracy: 4 of 6 (66.67%)
+Last Two Week Accuracy: 2 of 3 (66.67%)
 
-Last Two Week Error: 26.44 points per match
+Last Two Week Error: 39.94 points per match
 
 [2025/07/05 - Argentina V England](projections\2025-07-05-Argentina_V_England)
 
@@ -44,17 +44,17 @@ Last Two Week Error: 26.44 points per match
 
 [In depth model review and projections for Lions Tour 2025](comp_files/Lions_Tour_2025)
 
-Competition Accuracy: 1 of 3 (33.33%)
+Competition Accuracy: 2 of 4 (50.0%)
 
-Competition Error: 16.94 points per match
+Competition Error: 21.46 points per match
 
-Last Two Week Accuracy: 1 of 3 (33.33%)
+Last Two Week Accuracy: 2 of 2 (100.0%)
 
-Last Two Week Error: 16.94 points per match
-
-[2025/07/02 - Queensland Reds V British and Irish Lions](projections\2025-07-02-QueenslandReds_V_BritishandIrishLions)
+Last Two Week Error: 26.81 points per match
 
 [2025/07/05 - New South Wales Waratahs V British and Irish Lions](projections\2025-07-05-NewSouthWalesWaratahs_V_BritishandIrishLions)
+
+[2025/07/09 - Brumbies V British and Irish Lions](projections\2025-07-09-Brumbies_V_BritishandIrishLions)
 ## Rugby Championship
 
 
@@ -112,8 +112,6 @@ Last Two Week Error: 20.07 points per match
 
 [2025/07/09 - France U20 V Argentina U20](projections\2025-07-09-FranceU20_V_ArgentinaU20)
 
-[2025/07/09 - Italy U20 V Georgia U20](projections\2025-07-09-ItalyU20_V_GeorgiaU20)
-
 [2025/07/09 - New Zealand U20 V Ireland U20](projections\2025-07-09-NewZealandU20_V_IrelandU20)
 
 [2025/07/09 - South Africa U20 V Scotland U20](projections\2025-07-09-SouthAfricaU20_V_ScotlandU20)
@@ -130,9 +128,9 @@ Competition Accuracy: 54 of 72 (75.0%)
 
 Competition Error: 10.16 points per match
 
-Last Two Week Accuracy: 8 of 12 (66.67%)
+Last Two Week Accuracy: 4 of 6 (66.67%)
 
-Last Two Week Error: 9.94 points per match
+Last Two Week Error: 10.62 points per match
 
 [2025/07/12 - Belgrano V La Plata](projections\2025-07-12-Belgrano_V_LaPlata)
 

@@ -1,6 +1,6 @@
 ---  
 title: "Developmental International 2025 Status"  
-date: 2025-07-01 6:00:00 -0500  
+date: 2025-07-03 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,8 +17,8 @@ aside:
 
 | Club           |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:---------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Korea Republic |         1 |            0.543 |                    2.943 |                           0.162 |                              |                          2.408 |
-| Hong Kong      |         1 |            0.42  |                   -2.943 |                           0.181 |                              |                          1.935 |
+| Korea Republic |         1 |            0.525 |                    2.573 |                           0.184 |                              |                          2.344 |
+| Hong Kong      |         1 |            0.445 |                   -2.573 |                           0.179 |                              |                          2.019 |
 
 
 
@@ -27,8 +27,8 @@ aside:
 
 | Club           |   Played |   Wins |   Point Differential |   Losing Bonus Points | Try Bonus Points   |   Competition Points |
 |:---------------|---------:|-------:|---------------------:|----------------------:|:-------------------|---------------------:|
-| Korea Republic |        1 |  0.543 |                2.943 |                 0.162 |                    |                2.408 |
-| Hong Kong      |        1 |  0.42  |               -2.943 |                 0.181 |                    |                1.935 |
+| Korea Republic |        1 |  0.525 |                2.573 |                 0.184 |                    |                2.344 |
+| Hong Kong      |        1 |  0.445 |               -2.573 |                 0.179 |                    |                2.019 |
 
 
 
@@ -39,7 +39,7 @@ aside:
 ### Korea Republic V Hong Kong on 2025/07/05
 
 
-Average Margin: Korea Republic by 2.9
+Average Margin: Korea Republic by 2.6
 
 <p float="left">
 <img src="plots\2025-07-05-KoreaRepublic_V_HongKong_performances.png" width="32%" />

@@ -9,9 +9,9 @@ categories: "U20 Championship 2025" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Argentina U20 to win by 4.14, and Argentina U20 won by 7. That's an absolute error of 2.9 for the margin of victory, while my average absolute error has been 13.8 over the past six months. This prediction was more accurate than 85.3% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Argentina U20 to win by 3.73, and Argentina U20 won by 7. That's an absolute error of 3.3 for the margin of victory, while my average absolute error has been 13.8 over the past six months. This prediction was more accurate than 83.5% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 53.5 and we have an actual total of 61. That's an absolute error of 7.5 compared to a six month average of 13.6. This prediction was more accurate than 65.7% of my recent predictions.
+For the Over/Under model, I predicted a total of 54.5 and we have an actual total of 61. That's an absolute error of 6.5 compared to a six month average of 13.6. This prediction was more accurate than 71.0% of my recent predictions.
 ## Projected Performances - Club Model
 
 
