@@ -8,7 +8,7 @@ key: page-recents
 ## International Test Match
 
 
-[2025](comp_files\International_Test_Match_2025) - Prediction Accuracy: 68.8% 
+[2025](comp_files\International_Test_Match_2025) - Prediction Accuracy: 67.2% 
 
 [2024](comp_files\International_Test_Match_2024) - Prediction Accuracy: 73.3% 
 
@@ -154,7 +154,7 @@ key: page-recents
 ## Lions Tour
 
 
-[2025](comp_files\Lions_Tour_2025) - Prediction Accuracy: 33.3% 
+[2025](comp_files\Lions_Tour_2025) - Prediction Accuracy: 50.0% 
 ## IRB Pacific Nations Cup
 
 
@@ -488,7 +488,7 @@ key: page-recents
 ## URBA Top 12
 
 
-[2025](comp_files\URBA_Top_12_2025) - Prediction Accuracy: 71.0% 
+[2025](comp_files\URBA_Top_12_2025) - Prediction Accuracy: 70.3% 
 
 [2024](comp_files\URBA_Top_12_2024) - Prediction Accuracy: 62.8% 
 ## Bunnings NPC

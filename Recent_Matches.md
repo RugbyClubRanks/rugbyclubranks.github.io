@@ -44,13 +44,13 @@ Last Two Week Error: 26.81 points per match
 
 [In depth model review and projections for U20 Championship 2025](comp_files/U20_Championship_2025)
 
-Competition Accuracy: 4 of 6 (66.67%)
+Competition Accuracy: 7 of 10 (70.0%)
 
-Competition Error: 20.07 points per match
+Competition Error: 15.09 points per match
 
-Last Two Week Accuracy: 4 of 6 (66.67%)
+Last Two Week Accuracy: 7 of 10 (70.0%)
 
-Last Two Week Error: 20.07 points per match
+Last Two Week Error: 15.09 points per match
 
 [2025/06/29 - Argentina U20 V Wales U20, 34 to 27](reviews\2025-06-29-ArgentinaU20_V_WalesU20)
 
@@ -63,6 +63,14 @@ Last Two Week Error: 20.07 points per match
 [2025/06/29 - Ireland U20 V Georgia U20, 35 to 28](reviews\2025-06-29-IrelandU20_V_GeorgiaU20)
 
 [2025/06/29 - New Zealand U20 V Italy U20, 14 to 5](reviews\2025-06-29-NewZealandU20_V_ItalyU20)
+
+[2025/07/04 - Australia U20 V Scotland U20, 34 to 24](reviews\2025-07-04-AustraliaU20_V_ScotlandU20)
+
+[2025/07/04 - England U20 V South Africa U20, 22 to 32](reviews\2025-07-04-EnglandU20_V_SouthAfricaU20)
+
+[2025/07/04 - France U20 V Wales U20, 35 to 21](reviews\2025-07-04-FranceU20_V_WalesU20)
+
+[2025/07/04 - New Zealand U20 V Georgia U20, 38 to 19](reviews\2025-07-04-NewZealandU20_V_GeorgiaU20)
 # Top Flight Competitions
 
 ## Major League Rugby

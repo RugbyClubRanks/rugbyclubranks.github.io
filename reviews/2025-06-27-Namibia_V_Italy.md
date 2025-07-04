@@ -9,9 +9,9 @@ categories: "International Test Match 2025" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Italy to win by 7.83, and Italy won by 67. That's an absolute error of 59.2 for the margin of victory, while my average absolute error has been 13.8 over the past six months. This prediction was more accurate than 1.2% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Italy to win by 7.84, and Italy won by 67. That's an absolute error of 59.2 for the margin of victory, while my average absolute error has been 13.8 over the past six months. This prediction was more accurate than 1.2% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 59.5 and we have an actual total of 79. That's an absolute error of 19.5 compared to a six month average of 13.6. This prediction was more accurate than 24.1% of my recent predictions.
+For the Over/Under model, I predicted a total of 57.5 and we have an actual total of 79. That's an absolute error of 21.5 compared to a six month average of 13.6. This prediction was more accurate than 20.6% of my recent predictions.
 ## Projected Performances - Club Model
 
 

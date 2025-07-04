@@ -88,25 +88,17 @@ Last Two Week Error: 26.81 points per match
 
 [In depth model review and projections for U20 Championship 2025](comp_files/U20_Championship_2025)
 
-Competition Accuracy: 4 of 6 (66.67%)
+Competition Accuracy: 7 of 10 (70.0%)
 
-Competition Error: 20.07 points per match
+Competition Error: 15.09 points per match
 
-Last Two Week Accuracy: 4 of 6 (66.67%)
+Last Two Week Accuracy: 7 of 10 (70.0%)
 
-Last Two Week Error: 20.07 points per match
+Last Two Week Error: 15.09 points per match
 
 [2025/07/04 - Argentina U20 V Spain U20](projections\2025-07-04-ArgentinaU20_V_SpainU20)
 
-[2025/07/04 - Australia U20 V Scotland U20](projections\2025-07-04-AustraliaU20_V_ScotlandU20)
-
-[2025/07/04 - England U20 V South Africa U20](projections\2025-07-04-EnglandU20_V_SouthAfricaU20)
-
-[2025/07/04 - France U20 V Wales U20](projections\2025-07-04-FranceU20_V_WalesU20)
-
 [2025/07/04 - Italy U20 V New Zealand U20](projections\2025-07-04-ItalyU20_V_NewZealandU20)
-
-[2025/07/04 - New Zealand U20 V Georgia U20](projections\2025-07-04-NewZealandU20_V_GeorgiaU20)
 
 [2025/07/09 - England U20 V Australia U20](projections\2025-07-09-EnglandU20_V_AustraliaU20)
 
