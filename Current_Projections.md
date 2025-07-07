@@ -10,51 +10,53 @@ key: page-projections
 
 [In depth model review and projections for Developmental International 2025](comp_files/Developmental_International_2025)
 
-[2025/07/05 - Korea Republic V Hong Kong](projections\2025-07-05-KoreaRepublic_V_HongKong)
+[2025/07/11 - Brazil V Romania](projections\2025-07-11-Brazil_V_Romania)
 ## International Test Match
 
 
 [In depth model review and projections for International Test Match 2025](comp_files/International_Test_Match_2025)
 
-Competition Accuracy: 37 of 56 (66.07%)
+Competition Accuracy: 44 of 65 (67.69%)
 
-Competition Error: 25.07 points per match
+Competition Error: 23.23 points per match
 
-Last Two Week Accuracy: 2 of 3 (66.67%)
+Last Two Week Accuracy: 9 of 12 (75.0%)
 
-Last Two Week Error: 39.94 points per match
+Last Two Week Error: 18.81 points per match
 
-[2025/07/05 - Argentina V England](projections\2025-07-05-Argentina_V_England)
+[2025/07/12 - Argentina V England](projections\2025-07-12-Argentina_V_England)
 
-[2025/07/05 - Chile V Romania](projections\2025-07-05-Chile_V_Romania)
+[2025/07/12 - Fiji V Scotland](projections\2025-07-11-Fiji_V_Scotland)
 
-[2025/07/05 - Georgia V Ireland](projections\2025-07-05-Georgia_V_Ireland)
+[2025/07/12 - Japan V Wales](projections\2025-07-12-Japan_V_Wales)
 
-[2025/07/05 - Japan V Wales](projections\2025-07-05-Japan_V_Wales)
+[2025/07/12 - New Zealand V France](projections\2025-07-12-NewZealand_V_France)
 
-[2025/07/05 - New Zealand V France](projections\2025-07-05-NewZealand_V_France)
+[2025/07/12 - Portugal V Ireland](projections\2025-07-12-Portugal_V_Ireland)
 
-[2025/07/05 - South Africa V Italy](projections\2025-07-05-SouthAfrica_V_Italy)
+[2025/07/12 - South Africa V Italy](projections\2025-07-12-SouthAfrica_V_Italy)
 
-[2025/07/06 - Australia V Fiji](projections\2025-07-05-Australia_V_Fiji)
+[2025/07/12 - Uruguay V Romania](projections\2025-07-12-Uruguay_V_Romania)
 
-[2025/07/06 - United States of America V Belgium](projections\2025-07-05-UnitedStatesofAmerica_V_Belgium)
+[2025/07/13 - Canada V Belgium](projections\2025-07-12-Canada_V_Belgium)
+
+[2025/07/13 - United States of America V Spain](projections\2025-07-12-UnitedStatesofAmerica_V_Spain)
 ## Lions Tour
 
 
 [In depth model review and projections for Lions Tour 2025](comp_files/Lions_Tour_2025)
 
-Competition Accuracy: 2 of 4 (50.0%)
+Competition Accuracy: 3 of 5 (60.0%)
 
-Competition Error: 21.46 points per match
+Competition Error: 17.19 points per match
 
-Last Two Week Accuracy: 2 of 2 (100.0%)
+Last Two Week Accuracy: 3 of 3 (100.0%)
 
-Last Two Week Error: 26.81 points per match
-
-[2025/07/05 - New South Wales Waratahs V British and Irish Lions](projections\2025-07-05-NewSouthWalesWaratahs_V_BritishandIrishLions)
+Last Two Week Error: 17.92 points per match
 
 [2025/07/09 - Brumbies V British and Irish Lions](projections\2025-07-09-Brumbies_V_BritishandIrishLions)
+
+[2025/07/12 - AUNZ XV V British and Irish Lions](projections\2025-07-12-AUNZXV_V_BritishandIrishLions)
 ## Rugby Championship
 
 
@@ -88,17 +90,13 @@ Last Two Week Error: 26.81 points per match
 
 [In depth model review and projections for U20 Championship 2025](comp_files/U20_Championship_2025)
 
-Competition Accuracy: 7 of 10 (70.0%)
+Competition Accuracy: 8 of 12 (66.67%)
 
-Competition Error: 15.09 points per match
+Competition Error: 14.99 points per match
 
-Last Two Week Accuracy: 7 of 10 (70.0%)
+Last Two Week Accuracy: 8 of 12 (66.67%)
 
-Last Two Week Error: 15.09 points per match
-
-[2025/07/04 - Argentina U20 V Spain U20](projections\2025-07-04-ArgentinaU20_V_SpainU20)
-
-[2025/07/04 - Italy U20 V New Zealand U20](projections\2025-07-04-ItalyU20_V_NewZealandU20)
+Last Two Week Error: 14.99 points per match
 
 [2025/07/09 - England U20 V Australia U20](projections\2025-07-09-EnglandU20_V_AustraliaU20)
 

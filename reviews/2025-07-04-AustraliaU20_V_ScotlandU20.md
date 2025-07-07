@@ -9,9 +9,9 @@ categories: "U20 Championship 2025" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Australia U20 to win by 4.93, and Australia U20 won by 10. That's an absolute error of 5.1 for the margin of victory, while my average absolute error has been 13.8 over the past six months. This prediction was more accurate than 73.7% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Australia U20 to win by 3.54, and Australia U20 won by 10. That's an absolute error of 6.5 for the margin of victory, while my average absolute error has been 13.8 over the past six months. This prediction was more accurate than 68.1% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 55.5 and we have an actual total of 58. That's an absolute error of 2.5 compared to a six month average of 13.6. This prediction was more accurate than 87.8% of my recent predictions.
+For the Over/Under model, I predicted a total of 56.5 and we have an actual total of 58. That's an absolute error of 1.5 compared to a six month average of 13.6. This prediction was more accurate than 92.2% of my recent predictions.
 ## Projected Performances - Club Model
 
 

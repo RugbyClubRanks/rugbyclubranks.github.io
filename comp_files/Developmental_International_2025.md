@@ -1,6 +1,6 @@
 ---  
 title: "Developmental International 2025 Status"  
-date: 2025-07-04 6:00:00 -0500  
+date: 2025-07-07 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -15,20 +15,20 @@ aside:
 ## Projected Remaining Table
 
 
-| Club           |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
-|:---------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Korea Republic |         1 |            0.533 |                    3.073 |                           0.197 |                              |                          2.385 |
-| Hong Kong      |         1 |            0.439 |                   -3.073 |                           0.202 |                              |                          2.014 |
+| Club    |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
+|:--------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
+| Brazil  |         1 |            0.58  |                     3.52 |                           0.195 |                              |                          2.589 |
+| Romania |         1 |            0.383 |                    -3.52 |                           0.225 |                              |                          1.831 |
 
 
 
 ## Projected Total Table
 
 
-| Club           |   Played |   Wins |   Point Differential |   Losing Bonus Points | Try Bonus Points   |   Competition Points |
-|:---------------|---------:|-------:|---------------------:|----------------------:|:-------------------|---------------------:|
-| Korea Republic |        1 |  0.533 |                3.073 |                 0.197 |                    |                2.385 |
-| Hong Kong      |        1 |  0.439 |               -3.073 |                 0.202 |                    |                2.014 |
+| Club    |   Played |   Wins |   Point Differential |   Losing Bonus Points | Try Bonus Points   |   Competition Points |
+|:--------|---------:|-------:|---------------------:|----------------------:|:-------------------|---------------------:|
+| Brazil  |        1 |  0.58  |                 3.52 |                 0.195 |                    |                2.589 |
+| Romania |        1 |  0.383 |                -3.52 |                 0.225 |                    |                1.831 |
 
 
 
@@ -36,13 +36,13 @@ aside:
 
 ## Week 1
 
-### Korea Republic V Hong Kong on 2025/07/05
+### Brazil V Romania on 2025/07/11
 
 
-Average Margin: Korea Republic by 3.1
+Average Margin: Brazil by 3.5
 
 <p float="left">
-<img src="plots\2025-07-05-KoreaRepublic_V_HongKong_performances.png" width="32%" />
-<img src="plots\2025-07-05-KoreaRepublic_V_HongKong_resultbar.png" width="32%" />
-<img src="plots\2025-07-05-KoreaRepublic_V_HongKong_spreads.png" width="32%" />
+<img src="plots\2025-07-11-Brazil_V_Romania_performances.png" width="32%" />
+<img src="plots\2025-07-11-Brazil_V_Romania_resultbar.png" width="32%" />
+<img src="plots\2025-07-11-Brazil_V_Romania_spreads.png" width="32%" />
 </p>
