@@ -16,13 +16,13 @@ key: page-projections
 
 [In depth model review and projections for International Test Match 2025](comp_files/International_Test_Match_2025)
 
-Competition Accuracy: 44 of 65 (67.69%)
+Competition Accuracy: 40 of 62 (64.52%)
 
-Competition Error: 23.23 points per match
+Competition Error: 23.34 points per match
 
 Last Two Week Accuracy: 9 of 12 (75.0%)
 
-Last Two Week Error: 18.81 points per match
+Last Two Week Error: 18.63 points per match
 
 [2025/07/12 - Argentina V England](projections\2025-07-12-Argentina_V_England)
 
@@ -46,13 +46,13 @@ Last Two Week Error: 18.81 points per match
 
 [In depth model review and projections for Lions Tour 2025](comp_files/Lions_Tour_2025)
 
-Competition Accuracy: 3 of 5 (60.0%)
+Competition Accuracy: 3 of 4 (75.0%)
 
-Competition Error: 17.19 points per match
+Competition Error: 17.56 points per match
 
 Last Two Week Accuracy: 3 of 3 (100.0%)
 
-Last Two Week Error: 17.92 points per match
+Last Two Week Error: 17.99 points per match
 
 [2025/07/09 - Brumbies V British and Irish Lions](projections\2025-07-09-Brumbies_V_BritishandIrishLions)
 
@@ -102,6 +102,8 @@ Last Two Week Error: 14.99 points per match
 
 [2025/07/09 - France U20 V Argentina U20](projections\2025-07-09-FranceU20_V_ArgentinaU20)
 
+[2025/07/09 - Italy U20 V Georgia U20](projections\2025-07-09-GeorgiaU20_V_GeorgiaU20)
+
 [2025/07/09 - New Zealand U20 V Ireland U20](projections\2025-07-09-NewZealandU20_V_IrelandU20)
 
 [2025/07/09 - South Africa U20 V Scotland U20](projections\2025-07-09-SouthAfricaU20_V_ScotlandU20)
@@ -116,11 +118,11 @@ Last Two Week Error: 14.99 points per match
 
 Competition Accuracy: 54 of 72 (75.0%)
 
-Competition Error: 10.16 points per match
+Competition Error: 10.14 points per match
 
 Last Two Week Accuracy: 4 of 6 (66.67%)
 
-Last Two Week Error: 10.62 points per match
+Last Two Week Error: 10.63 points per match
 
 [2025/07/12 - Belgrano V La Plata](projections\2025-07-12-Belgrano_V_LaPlata)
 
