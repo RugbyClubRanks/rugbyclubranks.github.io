@@ -8,7 +8,7 @@ key: page-recents
 ## International Test Match
 
 
-[2025](comp_files\International_Test_Match_2025) - Prediction Accuracy: 64.8% 
+[2025](comp_files\International_Test_Match_2025) - Prediction Accuracy: 65.4% 
 
 [2024](comp_files\International_Test_Match_2024) - Prediction Accuracy: 73.3% 
 
@@ -130,7 +130,7 @@ key: page-recents
 ## U20 Championship
 
 
-[2025](comp_files\U20_Championship_2025) - Prediction Accuracy: 72.2% 
+[2025](comp_files\U20_Championship_2025) - Prediction Accuracy: 72.0% 
 ## Rugby Championship U20
 
 
@@ -154,7 +154,7 @@ key: page-recents
 ## Lions Tour
 
 
-[2025](comp_files\Lions_Tour_2025) - Prediction Accuracy: 83.3% 
+[2025](comp_files\Lions_Tour_2025) - Prediction Accuracy: 71.4% 
 ## IRB Pacific Nations Cup
 
 
@@ -173,6 +173,22 @@ key: page-recents
 [2024](comp_files\WXV_3_2024) - Prediction Accuracy: 50.0% 
 # Top Flight Competitions
 
+## Top 14 Orange
+
+
+[2526](comp_files\Top_14_Orange_2526)
+
+[2425](comp_files\Top_14_Orange_2425) - Prediction Accuracy: 75.1% 
+
+[2024](comp_files\Top_14_Orange_2024) - Prediction Accuracy: 78.1% 
+
+[2023](comp_files\Top_14_Orange_2023) - Prediction Accuracy: 70.1% 
+
+[2022](comp_files\Top_14_Orange_2022) - Prediction Accuracy: 68.0% 
+
+[2021](comp_files\Top_14_Orange_2021) - Prediction Accuracy: 71.3% 
+
+[2020](comp_files\Top_14_Orange_2020) - Prediction Accuracy: 68.6% 
 ## United Rugby Championship
 
 
@@ -229,20 +245,6 @@ key: page-recents
 [2021](comp_files\Gallagher_Premiership_2021) - Prediction Accuracy: 62.8% 
 
 [2020](comp_files\Gallagher_Premiership_2020) - Prediction Accuracy: 68.8% 
-## Top 14 Orange
-
-
-[2425](comp_files\Top_14_Orange_2425) - Prediction Accuracy: 75.1% 
-
-[2024](comp_files\Top_14_Orange_2024) - Prediction Accuracy: 78.1% 
-
-[2023](comp_files\Top_14_Orange_2023) - Prediction Accuracy: 70.1% 
-
-[2022](comp_files\Top_14_Orange_2022) - Prediction Accuracy: 68.0% 
-
-[2021](comp_files\Top_14_Orange_2021) - Prediction Accuracy: 71.3% 
-
-[2020](comp_files\Top_14_Orange_2020) - Prediction Accuracy: 68.6% 
 ## Super Rugby Pacific
 
 
@@ -383,6 +385,22 @@ key: page-recents
 [2023](comp_files\Premiership_Rugby_Cup_2023) - Prediction Accuracy: 75.5% 
 # Domestic Competitions
 
+## Pro D2
+
+
+[2526](comp_files\Pro_D2_2526)
+
+[2425](comp_files\Pro_D2_2425) - Prediction Accuracy: 68.2% 
+
+[2024](comp_files\Pro_D2_2024) - Prediction Accuracy: 67.1% 
+
+[2023](comp_files\Pro_D2_2023) - Prediction Accuracy: 74.3% 
+
+[2022](comp_files\Pro_D2_2022) - Prediction Accuracy: 67.8% 
+
+[2021](comp_files\Pro_D2_2021) - Prediction Accuracy: 71.0% 
+
+[2020](comp_files\Pro_D2_2020) - Prediction Accuracy: 66.4% 
 ## Nationale
 
 
@@ -397,20 +415,6 @@ key: page-recents
 [2021](comp_files\Nationale_2021) - Prediction Accuracy: 68.8% 
 
 [2020](comp_files\Nationale_2020) - Prediction Accuracy: 60.4% 
-## Pro D2
-
-
-[2425](comp_files\Pro_D2_2425) - Prediction Accuracy: 68.2% 
-
-[2024](comp_files\Pro_D2_2024) - Prediction Accuracy: 67.1% 
-
-[2023](comp_files\Pro_D2_2023) - Prediction Accuracy: 74.3% 
-
-[2022](comp_files\Pro_D2_2022) - Prediction Accuracy: 67.8% 
-
-[2021](comp_files\Pro_D2_2021) - Prediction Accuracy: 71.0% 
-
-[2020](comp_files\Pro_D2_2020) - Prediction Accuracy: 66.4% 
 ## Bunnings Warehouse NPC
 
 
@@ -488,7 +492,7 @@ key: page-recents
 ## URBA Top 12
 
 
-[2025](comp_files\URBA_Top_12_2025) - Prediction Accuracy: 70.3% 
+[2025](comp_files\URBA_Top_12_2025) - Prediction Accuracy: 68.8% 
 
 [2024](comp_files\URBA_Top_12_2024) - Prediction Accuracy: 62.8% 
 ## Bunnings NPC
