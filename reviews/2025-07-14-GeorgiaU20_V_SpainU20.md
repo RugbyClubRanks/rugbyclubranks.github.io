@@ -9,9 +9,9 @@ categories: "U20 Championship 2025" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Georgia U20 to win by 11.64, and Georgia U20 won by 31.0. That's an absolute error of 19.4 for the margin of victory, while my average absolute error has been 13.8 over the past six months. This prediction was more accurate than 24.1% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Georgia U20 to win by 11.29, and Georgia U20 won by 31.0. That's an absolute error of 19.7 for the margin of victory, while my average absolute error has been 13.7 over the past six months. This prediction was more accurate than 22.8% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 57.5 and we have an actual total of 55.0. That's an absolute error of 2.5 compared to a six month average of 13.6. This prediction was more accurate than 87.8% of my recent predictions.
+For the Over/Under model, I predicted a total of 53.5 and we have an actual total of 55.0. That's an absolute error of 1.5 compared to a six month average of 13.9. This prediction was more accurate than 93.2% of my recent predictions.
 ## Projected Performances - Club Model
 
 

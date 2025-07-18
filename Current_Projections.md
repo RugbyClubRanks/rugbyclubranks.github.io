@@ -16,15 +16,13 @@ key: page-projections
 
 [In depth model review and projections for International Test Match 2025](comp_files/International_Test_Match_2025)
 
-Competition Accuracy: 46 of 72 (63.89%)
+Competition Accuracy: 47 of 73 (64.38%)
 
-Competition Error: 23.31 points per match
+Competition Error: 23.25 points per match
 
-Last Two Week Accuracy: 13 of 19 (68.42%)
+Last Two Week Accuracy: 7 of 11 (63.64%)
 
-Last Two Week Error: 17.72 points per match
-
-[2025/07/18 - Samoa V Scotland](projections\2025-07-18-Samoa_V_Scotland)
+Last Two Week Error: 22.83 points per match
 
 [2025/07/19 - Argentina V Uruguay](projections\2025-07-19-Argentina_V_Uruguay)
 
@@ -42,13 +40,15 @@ Last Two Week Error: 17.72 points per match
 
 Competition Accuracy: 5 of 6 (83.33%)
 
-Competition Error: 19.95 points per match
+Competition Error: 19.99 points per match
 
-Last Two Week Accuracy: 4 of 4 (100.0%)
+Last Two Week Accuracy: 2 of 2 (100.0%)
 
-Last Two Week Error: 21.15 points per match
+Last Two Week Error: 24.88 points per match
 
 [2025/07/19 - Australia V British and Irish Lions](projections\2025-07-19-Australia_V_BritishandIrishLions)
+
+[2025/07/22 - First Nations & Pasifika XV V British and Irish Lions](projections\2025-07-22-FirstNations&PasifikaXV_V_BritishandIrishLions)
 ## Rugby Championship
 
 
@@ -82,23 +82,203 @@ Last Two Week Error: 21.15 points per match
 
 [In depth model review and projections for U20 Championship 2025](comp_files/U20_Championship_2025)
 
-Competition Accuracy: 15 of 20 (75.0%)
+Competition Accuracy: 16 of 24 (66.67%)
 
-Competition Error: 16.16 points per match
+Competition Error: 15.43 points per match
 
-Last Two Week Accuracy: 11 of 14 (78.57%)
+Last Two Week Accuracy: 8 of 12 (66.67%)
 
-Last Two Week Error: 14.49 points per match
+Last Two Week Error: 16.63 points per match
 
-[2025/07/14 - France U20 V New Zealand U20](projections\2025-07-14-FranceU20_V_NewZealandU20)
+[2025/07/19 - Australia U20 V England U20](projections\2025-07-19-AustraliaU20_V_EnglandU20)
 
-[2025/07/14 - Ireland U20 V Scotland U20](projections\2025-07-14-IrelandU20_V_ScotlandU20)
+[2025/07/19 - France U20 V Argentina U20](projections\2025-07-19-FranceU20_V_ArgentinaU20)
 
-[2025/07/14 - Italy U20 V Australia U20](projections\2025-07-14-ItalyU20_V_AustraliaU20)
+[2025/07/19 - Georgia U20 V Scotland U20](projections\2025-07-19-GeorgiaU20_V_ScotlandU20)
 
-[2025/07/14 - South Africa U20 V Argentina U20](projections\2025-07-14-SouthAfricaU20_V_ArgentinaU20)
+[2025/07/19 - Italy U20 V Wales U20](projections\2025-07-19-ItalyU20_V_WalesU20)
+
+[2025/07/19 - New Zealand U20 V South Africa U20](projections\2025-07-19-NewZealandU20_V_SouthAfricaU20)
+
+[2025/07/19 - Spain U20 V Ireland U20](projections\2025-07-19-SpainU20_V_IrelandU20)
 # Top Flight Competitions
 
+## European Rugby Challenge Cup
+
+
+[In depth model review and projections for European Rugby Challenge Cup 25/26](comp_files/European_Rugby_Challenge_Cup_2526)
+
+[2025/12/05 - Ulster V Racing 92](projections\2025-12-05-Ulster_V_Racing92)
+
+[2025/12/06 - Black Lion V Montpellier Herault](projections\2025-12-06-BlackLion_V_MontpellierHerault)
+
+[2025/12/06 - Lions V Benetton Treviso](projections\2025-12-06-Lions_V_BenettonTreviso)
+
+[2025/12/06 - Lyon V Newcastle Falcons](projections\2025-12-06-Lyon_V_NewcastleFalcons)
+
+[2025/12/06 - Stade Francais Paris V Cardiff Blues](projections\2025-12-06-StadeFrancaisParis_V_CardiffBlues)
+
+[2025/12/06 - Zebre V Montauban](projections\2025-12-06-Zebre_V_Montauban)
+
+[2025/12/07 - Exeter Chiefs V Cheetahs](projections\2025-12-07-ExeterChiefs_V_Cheetahs)
+
+[2025/12/07 - Ospreys V Connacht](projections\2025-12-07-Ospreys_V_Connacht)
+
+[2025/12/07 - Perpignan V Dragons](projections\2025-12-07-Perpignan_V_Dragons)
+
+[2025/12/12 - Montpellier Herault V Zebre](projections\2025-12-12-MontpellierHerault_V_Zebre)
+
+[2025/12/13 - Benetton Treviso V Perpignan](projections\2025-12-13-BenettonTreviso_V_Perpignan)
+
+[2025/12/13 - Cardiff Blues V Ulster](projections\2025-12-13-CardiffBlues_V_Ulster)
+
+[2025/12/13 - Cheetahs V Stade Francais Paris](projections\2025-12-13-Cheetahs_V_StadeFrancaisParis)
+
+[2025/12/13 - Connacht V Black Lion](projections\2025-12-13-Connacht_V_BlackLion)
+
+[2025/12/13 - Montauban V Ospreys](projections\2025-12-13-Montauban_V_Ospreys)
+
+[2025/12/13 - Newcastle Falcons V Lions](projections\2025-12-13-NewcastleFalcons_V_Lions)
+
+[2025/12/14 - Dragons V Lyon](projections\2025-12-14-Dragons_V_Lyon)
+
+[2025/12/14 - Racing 92 V Exeter Chiefs](projections\2025-12-14-Racing92_V_ExeterChiefs)
+
+[2026/01/10 - Benetton Treviso V Dragons](projections\2026-01-10-BenettonTreviso_V_Dragons)
+
+[2026/01/10 - Cardiff Blues V Racing 92](projections\2026-01-10-CardiffBlues_V_Racing92)
+
+[2026/01/10 - Lions V Lyon](projections\2026-01-10-Lions_V_Lyon)
+
+[2026/01/10 - Montauban V Black Lion](projections\2026-01-10-Montauban_V_BlackLion)
+
+[2026/01/10 - Newcastle Falcons V Perpignan](projections\2026-01-10-NewcastleFalcons_V_Perpignan)
+
+[2026/01/10 - Stade Francais Paris V Exeter Chiefs](projections\2026-01-10-StadeFrancaisParis_V_ExeterChiefs)
+
+[2026/01/11 - Cheetahs V Ulster](projections\2026-01-11-Cheetahs_V_Ulster)
+
+[2026/01/11 - Montpellier Herault V Connacht](projections\2026-01-11-MontpellierHerault_V_Connacht)
+
+[2026/01/11 - Zebre V Ospreys](projections\2026-01-11-Zebre_V_Ospreys)
+
+[2026/01/16 - Dragons V Newcastle Falcons](projections\2026-01-16-Dragons_V_NewcastleFalcons)
+
+[2026/01/17 - Black Lion V Zebre](projections\2026-01-17-BlackLion_V_Zebre)
+
+[2026/01/17 - Connacht V Montauban](projections\2026-01-17-Connacht_V_Montauban)
+
+[2026/01/17 - Ospreys V Montpellier Herault](projections\2026-01-17-Ospreys_V_MontpellierHerault)
+
+[2026/01/17 - Perpignan V Lions](projections\2026-01-17-Perpignan_V_Lions)
+
+[2026/01/17 - Ulster V Stade Francais Paris](projections\2026-01-17-Ulster_V_StadeFrancaisParis)
+
+[2026/01/18 - Exeter Chiefs V Cardiff Blues](projections\2026-01-18-ExeterChiefs_V_CardiffBlues)
+
+[2026/01/18 - Lyon V Benetton Treviso](projections\2026-01-18-Lyon_V_BenettonTreviso)
+
+[2026/01/18 - Racing 92 V Cheetahs](projections\2026-01-18-Racing92_V_Cheetahs)
+## European Rugby Champions Cup
+
+
+[In depth model review and projections for European Rugby Champions Cup 25/26](comp_files/European_Rugby_Champions_Cup_2526)
+
+[2025/12/05 - Bayonne V Stormers](projections\2025-12-05-Bayonne_V_Stormers)
+
+[2025/12/05 - Sale Sharks V Glasgow Warriors](projections\2025-12-05-SaleSharks_V_GlasgowWarriors)
+
+[2025/12/06 - Bath Rugby V Munster](projections\2025-12-06-BathRugby_V_Munster)
+
+[2025/12/06 - Bulls V Bordeaux Begles](projections\2025-12-06-Bulls_V_BordeauxBegles)
+
+[2025/12/06 - La Rochelle V Leicester Tigers](projections\2025-12-06-LaRochelle_V_LeicesterTigers)
+
+[2025/12/06 - Leinster V Harlequins](projections\2025-12-06-Leinster_V_Harlequins)
+
+[2025/12/06 - Saracens V Clermont Auvergne](projections\2025-12-06-Saracens_V_ClermontAuvergne)
+
+[2025/12/06 - Scarlets V Bristol Rugby](projections\2025-12-06-Scarlets_V_BristolRugby)
+
+[2025/12/07 - Edinburgh V Toulon](projections\2025-12-07-Edinburgh_V_Toulon)
+
+[2025/12/07 - Gloucester Rugby V Castres Olympique](projections\2025-12-07-GloucesterRugby_V_CastresOlympique)
+
+[2025/12/07 - Pau V Northampton Saints](projections\2025-12-07-Pau_V_NorthamptonSaints)
+
+[2025/12/07 - Stade Toulousain V Sharks](projections\2025-12-07-StadeToulousain_V_Sharks)
+
+[2025/12/12 - Leicester Tigers V Leinster](projections\2025-12-12-LeicesterTigers_V_Leinster)
+
+[2025/12/13 - Bordeaux Begles V Scarlets](projections\2025-12-13-BordeauxBegles_V_Scarlets)
+
+[2025/12/13 - Clermont Auvergne V Sale Sharks](projections\2025-12-13-ClermontAuvergne_V_SaleSharks)
+
+[2025/12/13 - Glasgow Warriors V Stade Toulousain](projections\2025-12-13-GlasgowWarriors_V_StadeToulousain)
+
+[2025/12/13 - Munster V Gloucester Rugby](projections\2025-12-13-Munster_V_GloucesterRugby)
+
+[2025/12/13 - Sharks V Saracens](projections\2025-12-13-Sharks_V_Saracens)
+
+[2025/12/13 - Stormers V La Rochelle](projections\2025-12-13-Stormers_V_LaRochelle)
+
+[2025/12/14 - Bristol Rugby V Pau](projections\2025-12-14-BristolRugby_V_Pau)
+
+[2025/12/14 - Castres Olympique V Edinburgh](projections\2025-12-14-CastresOlympique_V_Edinburgh)
+
+[2025/12/14 - Harlequins V Bayonne](projections\2025-12-14-Harlequins_V_Bayonne)
+
+[2025/12/14 - Northampton Saints V Bulls](projections\2025-12-14-NorthamptonSaints_V_Bulls)
+
+[2025/12/14 - Toulon V Bath Rugby](projections\2025-12-14-Toulon_V_BathRugby)
+
+[2026/01/09 - Castres Olympique V Bath Rugby](projections\2026-01-09-CastresOlympique_V_BathRugby)
+
+[2026/01/09 - Edinburgh V Gloucester Rugby](projections\2026-01-09-Edinburgh_V_GloucesterRugby)
+
+[2026/01/10 - Bulls V Bristol Rugby](projections\2026-01-10-Bulls_V_BristolRugby)
+
+[2026/01/10 - Clermont Auvergne V Glasgow Warriors](projections\2026-01-10-ClermontAuvergne_V_GlasgowWarriors)
+
+[2026/01/10 - Leicester Tigers V Bayonne](projections\2026-01-10-LeicesterTigers_V_Bayonne)
+
+[2026/01/10 - Leinster V La Rochelle](projections\2026-01-10-Leinster_V_LaRochelle)
+
+[2026/01/10 - Sale Sharks V Sharks](projections\2026-01-10-SaleSharks_V_Sharks)
+
+[2026/01/10 - Scarlets V Pau](projections\2026-01-10-Scarlets_V_Pau)
+
+[2026/01/11 - Bordeaux Begles V Northampton Saints](projections\2026-01-11-BordeauxBegles_V_NorthamptonSaints)
+
+[2026/01/11 - Harlequins V Stormers](projections\2026-01-11-Harlequins_V_Stormers)
+
+[2026/01/11 - Saracens V Stade Toulousain](projections\2026-01-11-Saracens_V_StadeToulousain)
+
+[2026/01/11 - Toulon V Munster](projections\2026-01-11-Toulon_V_Munster)
+
+[2026/01/16 - Bath Rugby V Edinburgh](projections\2026-01-16-BathRugby_V_Edinburgh)
+
+[2026/01/16 - Pau V Bulls](projections\2026-01-16-Pau_V_Bulls)
+
+[2026/01/17 - Bayonne V Leinster](projections\2026-01-17-Bayonne_V_Leinster)
+
+[2026/01/17 - Gloucester Rugby V Toulon](projections\2026-01-17-GloucesterRugby_V_Toulon)
+
+[2026/01/17 - Munster V Castres Olympique](projections\2026-01-17-Munster_V_CastresOlympique)
+
+[2026/01/17 - Sharks V Clermont Auvergne](projections\2026-01-17-Sharks_V_ClermontAuvergne)
+
+[2026/01/17 - Stade Toulousain V Sale Sharks](projections\2026-01-17-StadeToulousain_V_SaleSharks)
+
+[2026/01/17 - Stormers V Leicester Tigers](projections\2026-01-17-Stormers_V_LeicesterTigers)
+
+[2026/01/18 - Bristol Rugby V Bordeaux Begles](projections\2026-01-18-BristolRugby_V_BordeauxBegles)
+
+[2026/01/18 - Glasgow Warriors V Saracens](projections\2026-01-18-GlasgowWarriors_V_Saracens)
+
+[2026/01/18 - La Rochelle V Harlequins](projections\2026-01-18-LaRochelle_V_Harlequins)
+
+[2026/01/18 - Northampton Saints V Scarlets](projections\2026-01-18-NorthamptonSaints_V_Scarlets)
 ## Top 14 Orange
 
 
@@ -960,11 +1140,11 @@ Last Two Week Error: 14.49 points per match
 
 Competition Accuracy: 59 of 78 (75.64%)
 
-Competition Error: 10.59 points per match
+Competition Error: 10.6 points per match
 
 Last Two Week Accuracy: 5 of 6 (83.33%)
 
-Last Two Week Error: 15.97 points per match
+Last Two Week Error: 15.95 points per match
 
 [2025/07/19 - Alumni V Los Tilos](projections\2025-07-19-Alumni_V_LosTilos)
 
