@@ -1,6 +1,6 @@
 ---  
 title: "Lions Tour 2025 Status"  
-date: 2025-07-18 6:00:00 -0500  
+date: 2025-07-21 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -32,9 +32,9 @@ aside:
 
 | Club                        |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:----------------------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| British and Irish Lions     |         2 |            1.104 |                    7.399 |                           0.357 |                              |                          4.937 |
-| Australia                   |         1 |            0.408 |                   -2.308 |                           0.22  |                              |                          1.946 |
-| First Nations & Pasifika XV |         1 |            0.406 |                   -5.091 |                           0.176 |                              |                          1.87  |
+| British and Irish Lions     |         2 |            1.128 |                    6.965 |                           0.379 |                              |                          5.035 |
+| First Nations & Pasifika XV |         1 |            0.425 |                   -4.331 |                           0.179 |                              |                          1.941 |
+| Australia                   |         1 |            0.375 |                   -2.634 |                           0.272 |                              |                          1.854 |
 
 
 
@@ -43,10 +43,10 @@ aside:
 
 | Club                        |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:----------------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| British and Irish Lions     |        8 |  6.104 |              161.399 |                 1.357 |                  4 |               29.937 |
+| British and Irish Lions     |        8 |  6.128 |              160.965 |                 1.379 |                  4 |               30.035 |
 | Argentina                   |        1 |  1     |                4     |                 0     |                    |                4     |
-| Australia                   |        1 |  0.408 |               -2.308 |                 0.22  |                    |                1.946 |
-| First Nations & Pasifika XV |        1 |  0.406 |               -5.091 |                 0.176 |                    |                1.87  |
+| First Nations & Pasifika XV |        1 |  0.425 |               -4.331 |                 0.179 |                    |                1.941 |
+| Australia                   |        1 |  0.375 |               -2.634 |                 0.272 |                    |                1.854 |
 | Brumbies                    |        1 |  0     |              -12     |                 0     |                  1 |                1     |
 | New South Wales Waratahs    |        1 |  0     |              -11     |                 0     |                    |                0     |
 | Queensland Reds             |        1 |  0     |              -40     |                 0     |                    |                0     |
@@ -60,7 +60,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 75.0% | 16.1 |
+| Club Level | 75.0% | 15.3 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -69,26 +69,24 @@ aside:
 
 ## Week 7
 
-### Australia V British and Irish Lions on 2025/07/19
-
-
-Average Margin: British and Irish Lions by 2.3
-
-<p float="left">
-<img src="plots\2025-07-19-Australia_V_BritishandIrishLions_performances.png" width="32%" />
-<img src="plots\2025-07-19-Australia_V_BritishandIrishLions_resultbar.png" width="32%" />
-<img src="plots\2025-07-19-Australia_V_BritishandIrishLions_spreads.png" width="32%" />
-</p>
-
-## Week 8
-
 ### First Nations & Pasifika XV V British and Irish Lions on 2025/07/22
 
 
-Average Margin: British and Irish Lions by 5.1
+Average Margin: British and Irish Lions by 4.3
 
 <p float="left">
 <img src="plots\2025-07-22-FirstNations&PasifikaXV_V_BritishandIrishLions_performances.png" width="32%" />
 <img src="plots\2025-07-22-FirstNations&PasifikaXV_V_BritishandIrishLions_resultbar.png" width="32%" />
 <img src="plots\2025-07-22-FirstNations&PasifikaXV_V_BritishandIrishLions_spreads.png" width="32%" />
+</p>
+
+### Australia V British and Irish Lions on 2025/07/26
+
+
+Average Margin: British and Irish Lions by 2.6
+
+<p float="left">
+<img src="plots\2025-07-26-Australia_V_BritishandIrishLions_performances.png" width="32%" />
+<img src="plots\2025-07-26-Australia_V_BritishandIrishLions_resultbar.png" width="32%" />
+<img src="plots\2025-07-26-Australia_V_BritishandIrishLions_spreads.png" width="32%" />
 </p>

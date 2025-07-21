@@ -389,6 +389,22 @@ key: page-recents
 [2023](comp_files\Premiership_Rugby_Cup_2023) - Prediction Accuracy: 75.5% 
 # Domestic Competitions
 
+## Nationale
+
+
+[2526](comp_files\Nationale_2526)
+
+[2425](comp_files\Nationale_2425) - Prediction Accuracy: 74.4% 
+
+[2024](comp_files\Nationale_2024) - Prediction Accuracy: 70.6% 
+
+[2023](comp_files\Nationale_2023) - Prediction Accuracy: 74.9% 
+
+[2022](comp_files\Nationale_2022) - Prediction Accuracy: 68.8% 
+
+[2021](comp_files\Nationale_2021) - Prediction Accuracy: 68.8% 
+
+[2020](comp_files\Nationale_2020) - Prediction Accuracy: 60.4% 
 ## Pro D2
 
 
@@ -405,20 +421,20 @@ key: page-recents
 [2021](comp_files\Pro_D2_2021) - Prediction Accuracy: 71.0% 
 
 [2020](comp_files\Pro_D2_2020) - Prediction Accuracy: 66.4% 
-## Nationale
+## Currie Cup
 
 
-[2425](comp_files\Nationale_2425) - Prediction Accuracy: 74.4% 
+[2025](comp_files\Currie_Cup_2025)
 
-[2024](comp_files\Nationale_2024) - Prediction Accuracy: 70.6% 
+[2024](comp_files\Currie_Cup_2024) - Prediction Accuracy: 53.1% 
 
-[2023](comp_files\Nationale_2023) - Prediction Accuracy: 74.9% 
+[2023](comp_files\Currie_Cup_2023) - Prediction Accuracy: 56.4% 
 
-[2022](comp_files\Nationale_2022) - Prediction Accuracy: 68.8% 
+[2022](comp_files\Currie_Cup_2022) - Prediction Accuracy: 63.6% 
 
-[2021](comp_files\Nationale_2021) - Prediction Accuracy: 68.8% 
+[2021](comp_files\Currie_Cup_2021) - Prediction Accuracy: 50.0% 
 
-[2020](comp_files\Nationale_2020) - Prediction Accuracy: 60.4% 
+[2020](comp_files\Currie_Cup_2020) - Prediction Accuracy: 68.2% 
 ## Bunnings Warehouse NPC
 
 
@@ -431,18 +447,6 @@ key: page-recents
 [2021](comp_files\Bunnings_Warehouse_NPC_2021) - Prediction Accuracy: 58.2% 
 
 [2020](comp_files\Bunnings_Warehouse_NPC_2020) - Prediction Accuracy: 70.0% 
-## Currie Cup
-
-
-[2024](comp_files\Currie_Cup_2024) - Prediction Accuracy: 53.1% 
-
-[2023](comp_files\Currie_Cup_2023) - Prediction Accuracy: 56.4% 
-
-[2022](comp_files\Currie_Cup_2022) - Prediction Accuracy: 63.6% 
-
-[2021](comp_files\Currie_Cup_2021) - Prediction Accuracy: 50.0% 
-
-[2020](comp_files\Currie_Cup_2020) - Prediction Accuracy: 68.2% 
 ## URBA Top 13
 
 
@@ -496,7 +500,7 @@ key: page-recents
 ## URBA Top 12
 
 
-[2025](comp_files\URBA_Top_12_2025) - Prediction Accuracy: 71.7% 
+[2025](comp_files\URBA_Top_12_2025) - Prediction Accuracy: 74.6% 
 
 [2024](comp_files\URBA_Top_12_2024) - Prediction Accuracy: 62.8% 
 ## Bunnings NPC

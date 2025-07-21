@@ -10,29 +10,9 @@ key: page-projections
 
 [In depth model review and projections for Developmental International 2025](comp_files/Developmental_International_2025)
 
-[2025/07/19 - Brazil V Chile](projections\2025-07-19-Brazil_V_Chile)
-## International Test Match
+[2025/07/26 - Chile V Brazil](projections\2025-07-26-Chile_V_Brazil)
 
-
-[In depth model review and projections for International Test Match 2025](comp_files/International_Test_Match_2025)
-
-Competition Accuracy: 47 of 73 (64.38%)
-
-Competition Error: 23.25 points per match
-
-Last Two Week Accuracy: 7 of 11 (63.64%)
-
-Last Two Week Error: 22.83 points per match
-
-[2025/07/19 - Argentina V Uruguay](projections\2025-07-19-Argentina_V_Uruguay)
-
-[2025/07/19 - Canada V Spain](projections\2025-07-18-Canada_V_Spain)
-
-[2025/07/19 - New Zealand V France](projections\2025-07-19-NewZealand_V_France)
-
-[2025/07/19 - South Africa V Georgia](projections\2025-07-19-SouthAfrica_V_Georgia)
-
-[2025/07/19 - United States of America V England](projections\2025-07-19-UnitedStatesofAmerica_V_England)
+[2025/07/26 - Paraguay V Uruguay](projections\2025-07-26-Paraguay_V_Uruguay)
 ## Lions Tour
 
 
@@ -40,15 +20,15 @@ Last Two Week Error: 22.83 points per match
 
 Competition Accuracy: 5 of 6 (83.33%)
 
-Competition Error: 19.99 points per match
+Competition Error: 15.65 points per match
 
 Last Two Week Accuracy: 2 of 2 (100.0%)
 
-Last Two Week Error: 24.88 points per match
-
-[2025/07/19 - Australia V British and Irish Lions](projections\2025-07-19-Australia_V_BritishandIrishLions)
+Last Two Week Error: 13.58 points per match
 
 [2025/07/22 - First Nations & Pasifika XV V British and Irish Lions](projections\2025-07-22-FirstNations&PasifikaXV_V_BritishandIrishLions)
+
+[2025/07/26 - Australia V British and Irish Lions](projections\2025-07-26-Australia_V_BritishandIrishLions)
 ## Rugby Championship
 
 
@@ -77,30 +57,6 @@ Last Two Week Error: 24.88 points per match
 [2025/10/04 - Argentina V South Africa](projections\2025-10-04-Argentina_V_SouthAfrica)
 
 [2025/10/04 - Australia V New Zealand](projections\2025-10-04-Australia_V_NewZealand)
-## U20 Championship
-
-
-[In depth model review and projections for U20 Championship 2025](comp_files/U20_Championship_2025)
-
-Competition Accuracy: 16 of 24 (66.67%)
-
-Competition Error: 15.43 points per match
-
-Last Two Week Accuracy: 8 of 12 (66.67%)
-
-Last Two Week Error: 16.63 points per match
-
-[2025/07/19 - Australia U20 V England U20](projections\2025-07-19-AustraliaU20_V_EnglandU20)
-
-[2025/07/19 - France U20 V Argentina U20](projections\2025-07-19-FranceU20_V_ArgentinaU20)
-
-[2025/07/19 - Georgia U20 V Scotland U20](projections\2025-07-19-GeorgiaU20_V_ScotlandU20)
-
-[2025/07/19 - Italy U20 V Wales U20](projections\2025-07-19-ItalyU20_V_WalesU20)
-
-[2025/07/19 - New Zealand U20 V South Africa U20](projections\2025-07-19-NewZealandU20_V_SouthAfricaU20)
-
-[2025/07/19 - Spain U20 V Ireland U20](projections\2025-07-19-SpainU20_V_IrelandU20)
 # Top Flight Competitions
 
 ## European Rugby Challenge Cup
@@ -649,6 +605,386 @@ Last Two Week Error: 16.63 points per match
 [2026/06/06 - Racing 92 V Stade Toulousain](projections\2026-06-06-Racing92_V_StadeToulousain)
 # Domestic Competitions
 
+## Currie Cup
+
+
+[In depth model review and projections for Currie Cup 2025](comp_files/Currie_Cup_2025)
+
+[2025/07/25 - Pumas V Griquas](projections\2025-07-25-Pumas_V_Griquas)
+
+[2025/07/26 - Golden Lions V Sharks](projections\2025-07-26-GoldenLions_V_Sharks)
+
+[2025/07/26 - Western Province V Blue Bulls](projections\2025-07-26-WesternProvince_V_BlueBulls)
+
+[2025/07/27 - Boland Cavaliers V Free State Cheetahs](projections\2025-07-27-BolandCavaliers_V_FreeStateCheetahs)
+## Nationale
+
+
+[In depth model review and projections for Nationale 25/26](comp_files/Nationale_2526)
+
+[2025/08/23 - Bourgoin-Jallieu V Albi](projections\2025-08-23-Bourgoin-Jallieu_V_Albi)
+
+[2025/08/23 - Chambery V US Bressane](projections\2025-08-23-Chambery_V_USBressane)
+
+[2025/08/23 - Massy V Narbonne](projections\2025-08-23-Massy_V_Narbonne)
+
+[2025/08/23 - Niort V Marcq-en-Baroeul](projections\2025-08-23-Niort_V_Marcq-en-Baroeul)
+
+[2025/08/23 - PÃ©rigueux V Rennes](projections\2025-08-23-Perigueux_V_Rennes)
+
+[2025/08/23 - Rouen V Suresnes](projections\2025-08-23-Rouen_V_Suresnes)
+
+[2025/08/23 - Tarbes V Nice](projections\2025-08-23-Tarbes_V_Nice)
+
+[2025/08/30 - Albi V Massy](projections\2025-08-30-Albi_V_Massy)
+
+[2025/08/30 - Marcq-en-Baroeul V Chambery](projections\2025-08-30-Marcq-en-Baroeul_V_Chambery)
+
+[2025/08/30 - Narbonne V Niort](projections\2025-08-30-Narbonne_V_Niort)
+
+[2025/08/30 - Nice V PÃ©rigueux](projections\2025-08-30-Nice_V_Perigueux)
+
+[2025/08/30 - Rennes V Bourgoin-Jallieu](projections\2025-08-30-Rennes_V_Bourgoin-Jallieu)
+
+[2025/08/30 - Suresnes V Tarbes](projections\2025-08-30-Suresnes_V_Tarbes)
+
+[2025/08/30 - US Bressane V Rouen](projections\2025-08-30-USBressane_V_Rouen)
+
+[2025/09/06 - Bourgoin-Jallieu V Nice](projections\2025-09-06-Bourgoin-Jallieu_V_Nice)
+
+[2025/09/06 - Chambery V Narbonne](projections\2025-09-06-Chambery_V_Narbonne)
+
+[2025/09/06 - Massy V Rennes](projections\2025-09-06-Massy_V_Rennes)
+
+[2025/09/06 - Niort V Albi](projections\2025-09-06-Niort_V_Albi)
+
+[2025/09/06 - Rouen V Marcq-en-Baroeul](projections\2025-09-06-Rouen_V_Marcq-en-Baroeul)
+
+[2025/09/06 - Suresnes V US Bressane](projections\2025-09-06-Suresnes_V_USBressane)
+
+[2025/09/06 - Tarbes V PÃ©rigueux](projections\2025-09-06-Tarbes_V_Perigueux)
+
+[2025/09/13 - Albi V Chambery](projections\2025-09-13-Albi_V_Chambery)
+
+[2025/09/13 - Marcq-en-Baroeul V Suresnes](projections\2025-09-13-Marcq-en-Baroeul_V_Suresnes)
+
+[2025/09/13 - Narbonne V Rouen](projections\2025-09-13-Narbonne_V_Rouen)
+
+[2025/09/13 - Nice V Massy](projections\2025-09-13-Nice_V_Massy)
+
+[2025/09/13 - PÃ©rigueux V Bourgoin-Jallieu](projections\2025-09-13-Perigueux_V_Bourgoin-Jallieu)
+
+[2025/09/13 - Rennes V Niort](projections\2025-09-13-Rennes_V_Niort)
+
+[2025/09/13 - US Bressane V Tarbes](projections\2025-09-13-USBressane_V_Tarbes)
+
+[2025/09/27 - Chambery V Rennes](projections\2025-09-27-Chambery_V_Rennes)
+
+[2025/09/27 - Massy V PÃ©rigueux](projections\2025-09-27-Massy_V_Perigueux)
+
+[2025/09/27 - Niort V Nice](projections\2025-09-27-Niort_V_Nice)
+
+[2025/09/27 - Rouen V Albi](projections\2025-09-27-Rouen_V_Albi)
+
+[2025/09/27 - Suresnes V Narbonne](projections\2025-09-27-Suresnes_V_Narbonne)
+
+[2025/09/27 - Tarbes V Bourgoin-Jallieu](projections\2025-09-27-Tarbes_V_Bourgoin-Jallieu)
+
+[2025/09/27 - US Bressane V Marcq-en-Baroeul](projections\2025-09-27-USBressane_V_Marcq-en-Baroeul)
+
+[2025/10/04 - Albi V Suresnes](projections\2025-10-04-Albi_V_Suresnes)
+
+[2025/10/04 - Bourgoin-Jallieu V Massy](projections\2025-10-04-Bourgoin-Jallieu_V_Massy)
+
+[2025/10/04 - Marcq-en-Baroeul V Tarbes](projections\2025-10-04-Marcq-en-Baroeul_V_Tarbes)
+
+[2025/10/04 - Narbonne V US Bressane](projections\2025-10-04-Narbonne_V_USBressane)
+
+[2025/10/04 - Nice V Chambery](projections\2025-10-04-Nice_V_Chambery)
+
+[2025/10/04 - PÃ©rigueux V Niort](projections\2025-10-04-Perigueux_V_Niort)
+
+[2025/10/04 - Rennes V Rouen](projections\2025-10-04-Rennes_V_Rouen)
+
+[2025/10/11 - Chambery V PÃ©rigueux](projections\2025-10-11-Chambery_V_Perigueux)
+
+[2025/10/11 - Marcq-en-Baroeul V Narbonne](projections\2025-10-11-Marcq-en-Baroeul_V_Narbonne)
+
+[2025/10/11 - Niort V Bourgoin-Jallieu](projections\2025-10-11-Niort_V_Bourgoin-Jallieu)
+
+[2025/10/11 - Rouen V Nice](projections\2025-10-11-Rouen_V_Nice)
+
+[2025/10/11 - Suresnes V Rennes](projections\2025-10-11-Suresnes_V_Rennes)
+
+[2025/10/11 - Tarbes V Massy](projections\2025-10-11-Tarbes_V_Massy)
+
+[2025/10/11 - US Bressane V Albi](projections\2025-10-11-USBressane_V_Albi)
+
+[2025/10/18 - Albi V Marcq-en-Baroeul](projections\2025-10-18-Albi_V_Marcq-en-Baroeul)
+
+[2025/10/18 - Bourgoin-Jallieu V Chambery](projections\2025-10-18-Bourgoin-Jallieu_V_Chambery)
+
+[2025/10/18 - Massy V Niort](projections\2025-10-18-Massy_V_Niort)
+
+[2025/10/18 - Narbonne V Tarbes](projections\2025-10-18-Narbonne_V_Tarbes)
+
+[2025/10/18 - Nice V Suresnes](projections\2025-10-18-Nice_V_Suresnes)
+
+[2025/10/18 - PÃ©rigueux V Rouen](projections\2025-10-18-Perigueux_V_Rouen)
+
+[2025/10/18 - Rennes V US Bressane](projections\2025-10-18-Rennes_V_USBressane)
+
+[2025/11/01 - Chambery V Massy](projections\2025-11-01-Chambery_V_Massy)
+
+[2025/11/01 - Marcq-en-Baroeul V Rennes](projections\2025-11-01-Marcq-en-Baroeul_V_Rennes)
+
+[2025/11/01 - Narbonne V Albi](projections\2025-11-01-Narbonne_V_Albi)
+
+[2025/11/01 - Rouen V Bourgoin-Jallieu](projections\2025-11-01-Rouen_V_Bourgoin-Jallieu)
+
+[2025/11/01 - Suresnes V PÃ©rigueux](projections\2025-11-01-Suresnes_V_Perigueux)
+
+[2025/11/01 - Tarbes V Niort](projections\2025-11-01-Tarbes_V_Niort)
+
+[2025/11/01 - US Bressane V Nice](projections\2025-11-01-USBressane_V_Nice)
+
+[2025/11/08 - Albi V Tarbes](projections\2025-11-08-Albi_V_Tarbes)
+
+[2025/11/08 - Bourgoin-Jallieu V Suresnes](projections\2025-11-08-Bourgoin-Jallieu_V_Suresnes)
+
+[2025/11/08 - Massy V Rouen](projections\2025-11-08-Massy_V_Rouen)
+
+[2025/11/08 - Nice V Marcq-en-Baroeul](projections\2025-11-08-Nice_V_Marcq-en-Baroeul)
+
+[2025/11/08 - Niort V Chambery](projections\2025-11-08-Niort_V_Chambery)
+
+[2025/11/08 - PÃ©rigueux V US Bressane](projections\2025-11-08-Perigueux_V_USBressane)
+
+[2025/11/08 - Rennes V Narbonne](projections\2025-11-08-Rennes_V_Narbonne)
+
+[2025/11/15 - Albi V Rennes](projections\2025-11-15-Albi_V_Rennes)
+
+[2025/11/15 - Marcq-en-Baroeul V PÃ©rigueux](projections\2025-11-15-Marcq-en-Baroeul_V_Perigueux)
+
+[2025/11/15 - Narbonne V Nice](projections\2025-11-15-Narbonne_V_Nice)
+
+[2025/11/15 - Rouen V Niort](projections\2025-11-15-Rouen_V_Niort)
+
+[2025/11/15 - Suresnes V Massy](projections\2025-11-15-Suresnes_V_Massy)
+
+[2025/11/15 - Tarbes V Chambery](projections\2025-11-15-Tarbes_V_Chambery)
+
+[2025/11/15 - US Bressane V Bourgoin-Jallieu](projections\2025-11-15-USBressane_V_Bourgoin-Jallieu)
+
+[2025/11/22 - Bourgoin-Jallieu V Marcq-en-Baroeul](projections\2025-11-22-Bourgoin-Jallieu_V_Marcq-en-Baroeul)
+
+[2025/11/22 - Chambery V Rouen](projections\2025-11-22-Chambery_V_Rouen)
+
+[2025/11/22 - Massy V US Bressane](projections\2025-11-22-Massy_V_USBressane)
+
+[2025/11/22 - Nice V Albi](projections\2025-11-22-Nice_V_Albi)
+
+[2025/11/22 - Niort V Suresnes](projections\2025-11-22-Niort_V_Suresnes)
+
+[2025/11/22 - PÃ©rigueux V Narbonne](projections\2025-11-22-Perigueux_V_Narbonne)
+
+[2025/11/22 - Rennes V Tarbes](projections\2025-11-22-Rennes_V_Tarbes)
+
+[2025/12/06 - Albi V PÃ©rigueux](projections\2025-12-06-Albi_V_Perigueux)
+
+[2025/12/06 - Marcq-en-Baroeul V Massy](projections\2025-12-06-Marcq-en-Baroeul_V_Massy)
+
+[2025/12/06 - Narbonne V Bourgoin-Jallieu](projections\2025-12-06-Narbonne_V_Bourgoin-Jallieu)
+
+[2025/12/06 - Rennes V Nice](projections\2025-12-06-Rennes_V_Nice)
+
+[2025/12/06 - Suresnes V Chambery](projections\2025-12-06-Suresnes_V_Chambery)
+
+[2025/12/06 - Tarbes V Rouen](projections\2025-12-06-Tarbes_V_Rouen)
+
+[2025/12/06 - US Bressane V Niort](projections\2025-12-06-USBressane_V_Niort)
+
+[2025/12/13 - Albi V Bourgoin-Jallieu](projections\2025-12-13-Albi_V_Bourgoin-Jallieu)
+
+[2025/12/13 - Marcq-en-Baroeul V Niort](projections\2025-12-13-Marcq-en-Baroeul_V_Niort)
+
+[2025/12/13 - Narbonne V Massy](projections\2025-12-13-Narbonne_V_Massy)
+
+[2025/12/13 - Nice V Tarbes](projections\2025-12-13-Nice_V_Tarbes)
+
+[2025/12/13 - Rennes V PÃ©rigueux](projections\2025-12-13-Rennes_V_Perigueux)
+
+[2025/12/13 - Suresnes V Rouen](projections\2025-12-13-Suresnes_V_Rouen)
+
+[2025/12/13 - US Bressane V Chambery](projections\2025-12-13-USBressane_V_Chambery)
+
+[2026/01/10 - Bourgoin-Jallieu V Rennes](projections\2026-01-10-Bourgoin-Jallieu_V_Rennes)
+
+[2026/01/10 - Chambery V Marcq-en-Baroeul](projections\2026-01-10-Chambery_V_Marcq-en-Baroeul)
+
+[2026/01/10 - Massy V Albi](projections\2026-01-10-Massy_V_Albi)
+
+[2026/01/10 - Niort V Narbonne](projections\2026-01-10-Niort_V_Narbonne)
+
+[2026/01/10 - PÃ©rigueux V Nice](projections\2026-01-10-Perigueux_V_Nice)
+
+[2026/01/10 - Rouen V US Bressane](projections\2026-01-10-Rouen_V_USBressane)
+
+[2026/01/10 - Tarbes V Suresnes](projections\2026-01-10-Tarbes_V_Suresnes)
+
+[2026/01/17 - Albi V Niort](projections\2026-01-17-Albi_V_Niort)
+
+[2026/01/17 - Marcq-en-Baroeul V Rouen](projections\2026-01-17-Marcq-en-Baroeul_V_Rouen)
+
+[2026/01/17 - Narbonne V Chambery](projections\2026-01-17-Narbonne_V_Chambery)
+
+[2026/01/17 - Nice V Bourgoin-Jallieu](projections\2026-01-17-Nice_V_Bourgoin-Jallieu)
+
+[2026/01/17 - PÃ©rigueux V Tarbes](projections\2026-01-17-Perigueux_V_Tarbes)
+
+[2026/01/17 - Rennes V Massy](projections\2026-01-17-Rennes_V_Massy)
+
+[2026/01/17 - US Bressane V Suresnes](projections\2026-01-17-USBressane_V_Suresnes)
+
+[2026/01/24 - Bourgoin-Jallieu V PÃ©rigueux](projections\2026-01-24-Bourgoin-Jallieu_V_Perigueux)
+
+[2026/01/24 - Chambery V Albi](projections\2026-01-24-Chambery_V_Albi)
+
+[2026/01/24 - Massy V Nice](projections\2026-01-24-Massy_V_Nice)
+
+[2026/01/24 - Niort V Rennes](projections\2026-01-24-Niort_V_Rennes)
+
+[2026/01/24 - Rouen V Narbonne](projections\2026-01-24-Rouen_V_Narbonne)
+
+[2026/01/24 - Suresnes V Marcq-en-Baroeul](projections\2026-01-24-Suresnes_V_Marcq-en-Baroeul)
+
+[2026/01/24 - Tarbes V US Bressane](projections\2026-01-24-Tarbes_V_USBressane)
+
+[2026/01/31 - Albi V Rouen](projections\2026-01-31-Albi_V_Rouen)
+
+[2026/01/31 - Bourgoin-Jallieu V Tarbes](projections\2026-01-31-Bourgoin-Jallieu_V_Tarbes)
+
+[2026/01/31 - Marcq-en-Baroeul V US Bressane](projections\2026-01-31-Marcq-en-Baroeul_V_USBressane)
+
+[2026/01/31 - Narbonne V Suresnes](projections\2026-01-31-Narbonne_V_Suresnes)
+
+[2026/01/31 - Nice V Niort](projections\2026-01-31-Nice_V_Niort)
+
+[2026/01/31 - PÃ©rigueux V Massy](projections\2026-01-31-Perigueux_V_Massy)
+
+[2026/01/31 - Rennes V Chambery](projections\2026-01-31-Rennes_V_Chambery)
+
+[2026/02/14 - Chambery V Nice](projections\2026-02-14-Chambery_V_Nice)
+
+[2026/02/14 - Massy V Bourgoin-Jallieu](projections\2026-02-14-Massy_V_Bourgoin-Jallieu)
+
+[2026/02/14 - Niort V PÃ©rigueux](projections\2026-02-14-Niort_V_Perigueux)
+
+[2026/02/14 - Rouen V Rennes](projections\2026-02-14-Rouen_V_Rennes)
+
+[2026/02/14 - Suresnes V Albi](projections\2026-02-14-Suresnes_V_Albi)
+
+[2026/02/14 - Tarbes V Marcq-en-Baroeul](projections\2026-02-14-Tarbes_V_Marcq-en-Baroeul)
+
+[2026/02/14 - US Bressane V Narbonne](projections\2026-02-14-USBressane_V_Narbonne)
+
+[2026/02/21 - Albi V US Bressane](projections\2026-02-21-Albi_V_USBressane)
+
+[2026/02/21 - Bourgoin-Jallieu V Niort](projections\2026-02-21-Bourgoin-Jallieu_V_Niort)
+
+[2026/02/21 - Massy V Tarbes](projections\2026-02-21-Massy_V_Tarbes)
+
+[2026/02/21 - Narbonne V Marcq-en-Baroeul](projections\2026-02-21-Narbonne_V_Marcq-en-Baroeul)
+
+[2026/02/21 - Nice V Rouen](projections\2026-02-21-Nice_V_Rouen)
+
+[2026/02/21 - PÃ©rigueux V Chambery](projections\2026-02-21-Perigueux_V_Chambery)
+
+[2026/02/21 - Rennes V Suresnes](projections\2026-02-21-Rennes_V_Suresnes)
+
+[2026/02/28 - Chambery V Bourgoin-Jallieu](projections\2026-02-28-Chambery_V_Bourgoin-Jallieu)
+
+[2026/02/28 - Marcq-en-Baroeul V Albi](projections\2026-02-28-Marcq-en-Baroeul_V_Albi)
+
+[2026/02/28 - Niort V Massy](projections\2026-02-28-Niort_V_Massy)
+
+[2026/02/28 - Rouen V PÃ©rigueux](projections\2026-02-28-Rouen_V_Perigueux)
+
+[2026/02/28 - Suresnes V Nice](projections\2026-02-28-Suresnes_V_Nice)
+
+[2026/02/28 - Tarbes V Narbonne](projections\2026-02-28-Tarbes_V_Narbonne)
+
+[2026/02/28 - US Bressane V Rennes](projections\2026-02-28-USBressane_V_Rennes)
+
+[2026/03/07 - Albi V Narbonne](projections\2026-03-07-Albi_V_Narbonne)
+
+[2026/03/07 - Bourgoin-Jallieu V Rouen](projections\2026-03-07-Bourgoin-Jallieu_V_Rouen)
+
+[2026/03/07 - Massy V Chambery](projections\2026-03-07-Massy_V_Chambery)
+
+[2026/03/07 - Nice V US Bressane](projections\2026-03-07-Nice_V_USBressane)
+
+[2026/03/07 - Niort V Tarbes](projections\2026-03-07-Niort_V_Tarbes)
+
+[2026/03/07 - PÃ©rigueux V Suresnes](projections\2026-03-07-Perigueux_V_Suresnes)
+
+[2026/03/07 - Rennes V Marcq-en-Baroeul](projections\2026-03-07-Rennes_V_Marcq-en-Baroeul)
+
+[2026/03/21 - Chambery V Niort](projections\2026-03-21-Chambery_V_Niort)
+
+[2026/03/21 - Marcq-en-Baroeul V Nice](projections\2026-03-21-Marcq-en-Baroeul_V_Nice)
+
+[2026/03/21 - Narbonne V Rennes](projections\2026-03-21-Narbonne_V_Rennes)
+
+[2026/03/21 - Rouen V Massy](projections\2026-03-21-Rouen_V_Massy)
+
+[2026/03/21 - Suresnes V Bourgoin-Jallieu](projections\2026-03-21-Suresnes_V_Bourgoin-Jallieu)
+
+[2026/03/21 - Tarbes V Albi](projections\2026-03-21-Tarbes_V_Albi)
+
+[2026/03/21 - US Bressane V PÃ©rigueux](projections\2026-03-21-USBressane_V_Perigueux)
+
+[2026/03/28 - Bourgoin-Jallieu V US Bressane](projections\2026-03-28-Bourgoin-Jallieu_V_USBressane)
+
+[2026/03/28 - Chambery V Tarbes](projections\2026-03-28-Chambery_V_Tarbes)
+
+[2026/03/28 - Massy V Suresnes](projections\2026-03-28-Massy_V_Suresnes)
+
+[2026/03/28 - Nice V Narbonne](projections\2026-03-28-Nice_V_Narbonne)
+
+[2026/03/28 - Niort V Rouen](projections\2026-03-28-Niort_V_Rouen)
+
+[2026/03/28 - PÃ©rigueux V Marcq-en-Baroeul](projections\2026-03-28-Perigueux_V_Marcq-en-Baroeul)
+
+[2026/03/28 - Rennes V Albi](projections\2026-03-28-Rennes_V_Albi)
+
+[2026/04/11 - Albi V Nice](projections\2026-04-11-Albi_V_Nice)
+
+[2026/04/11 - Marcq-en-Baroeul V Bourgoin-Jallieu](projections\2026-04-11-Marcq-en-Baroeul_V_Bourgoin-Jallieu)
+
+[2026/04/11 - Narbonne V PÃ©rigueux](projections\2026-04-11-Narbonne_V_Perigueux)
+
+[2026/04/11 - Rouen V Chambery](projections\2026-04-11-Rouen_V_Chambery)
+
+[2026/04/11 - Suresnes V Niort](projections\2026-04-11-Suresnes_V_Niort)
+
+[2026/04/11 - Tarbes V Rennes](projections\2026-04-11-Tarbes_V_Rennes)
+
+[2026/04/11 - US Bressane V Massy](projections\2026-04-11-USBressane_V_Massy)
+
+[2026/04/25 - Bourgoin-Jallieu V Narbonne](projections\2026-04-25-Bourgoin-Jallieu_V_Narbonne)
+
+[2026/04/25 - Chambery V Suresnes](projections\2026-04-25-Chambery_V_Suresnes)
+
+[2026/04/25 - Massy V Marcq-en-Baroeul](projections\2026-04-25-Massy_V_Marcq-en-Baroeul)
+
+[2026/04/25 - Nice V Rennes](projections\2026-04-25-Nice_V_Rennes)
+
+[2026/04/25 - Niort V US Bressane](projections\2026-04-25-Niort_V_USBressane)
+
+[2026/04/25 - PÃ©rigueux V Albi](projections\2026-04-25-Perigueux_V_Albi)
+
+[2026/04/25 - Rouen V Tarbes](projections\2026-04-25-Rouen_V_Tarbes)
 ## Pro D2
 
 
@@ -1138,25 +1474,13 @@ Last Two Week Error: 16.63 points per match
 
 [In depth model review and projections for URBA Top 12 2025](comp_files/URBA_Top_12_2025)
 
-Competition Accuracy: 59 of 78 (75.64%)
+Competition Accuracy: 67 of 84 (79.76%)
 
-Competition Error: 10.6 points per match
+Competition Error: 9.87 points per match
 
-Last Two Week Accuracy: 5 of 6 (83.33%)
+Last Two Week Accuracy: 10 of 12 (83.33%)
 
-Last Two Week Error: 15.95 points per match
-
-[2025/07/19 - Alumni V Los Tilos](projections\2025-07-19-Alumni_V_LosTilos)
-
-[2025/07/19 - Buenos Aires V San Luis](projections\2025-07-19-BuenosAires_V_SanLuis)
-
-[2025/07/19 - CUBA V Belgrano](projections\2025-07-19-CUBA_V_Belgrano)
-
-[2025/07/19 - Hindu V Regatas Bella Vista](projections\2025-07-19-Hindu_V_RegatasBellaVista)
-
-[2025/07/19 - La Plata V CASI](projections\2025-07-19-LaPlata_V_CASI)
-
-[2025/07/19 - Newman V SIC](projections\2025-07-19-Newman_V_SIC)
+Last Two Week Error: 13.33 points per match
 
 [2025/08/02 - Belgrano V Alumni](projections\2025-08-02-Belgrano_V_Alumni)
 

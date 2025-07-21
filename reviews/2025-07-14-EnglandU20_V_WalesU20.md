@@ -9,9 +9,9 @@ categories: "U20 Championship 2025" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted England U20 to win by 9.94, and England U20 won by 38.0. That's an absolute error of 28.1 for the margin of victory, while my average absolute error has been 13.7 over the past six months. This prediction was more accurate than 10.2% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted England U20 to win by 6.89, and England U20 won by 38.0. That's an absolute error of 31.1 for the margin of victory, while my average absolute error has been 13.6 over the past six months. This prediction was more accurate than 7.2% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 56.5 and we have an actual total of 64.0. That's an absolute error of 7.5 compared to a six month average of 13.9. This prediction was more accurate than 66.8% of my recent predictions.
+For the Over/Under model, I predicted a total of 54.5 and we have an actual total of 64.0. That's an absolute error of 9.5 compared to a six month average of 13.9. This prediction was more accurate than 56.8% of my recent predictions.
 ## Projected Performances - Club Model
 
 
