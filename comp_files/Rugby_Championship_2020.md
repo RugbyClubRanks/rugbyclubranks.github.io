@@ -1,11 +1,15 @@
 ---  
 title: "Rugby Championship 2020 Status"  
-date: 2023-05-09 6:00:00 -0500  
+date: 2025-07-28 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
     toc: true  
 ---
+# Current Team Rankings
+
+
+![Club Rankings](plots/rankings_Rugby_Championship_2020.png)
 # Standings
 
 ## Current Standings
@@ -14,8 +18,8 @@ aside:
 | Club        |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
 | New Zealand |        4 |      2 |                   64 |                     1 |                  2 |                   11 |
-| Argentina   |        5 |      2 |                  -28 |                     0 |                nan |                   10 |
-| Australia   |        5 |      2 |                  -36 |                     0 |                nan |                   10 |
+| Argentina   |        5 |      1 |                  -28 |                     0 |                    |                   10 |
+| Australia   |        3 |      1 |                  -36 |                     0 |                    |                    6 |
 
 
 
@@ -24,7 +28,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 28.6% | 16.5 |
-| Player Level: Lineup | 14.3% | 19.2 |
-| Player Level: Minutes | 14.3% | 20.2 |
+| Club Level | 16.7% | 18.7 |
+| Player Level: Lineup | nan% | nan |
+| Player Level: Minutes | nan% | nan |
 

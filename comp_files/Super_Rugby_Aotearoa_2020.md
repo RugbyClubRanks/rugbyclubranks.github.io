@@ -1,11 +1,15 @@
 ---  
 title: "Super Rugby Aotearoa 2020 Status"  
-date: 2023-05-09 6:00:00 -0500  
+date: 2025-07-28 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
     toc: true  
 ---
+# Current Team Rankings
+
+
+![Club Rankings](plots/rankings_Super_Rugby_Aotearoa_2020.png)
 # Standings
 
 ## Current Standings
@@ -13,8 +17,8 @@ aside:
 
 | Club        |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Crusaders   |        7 |      6 |                   71 |                     1 |                  5 |                   30 |
-| Blues       |        7 |      5 |                   27 |                     1 |                  3 |                   24 |
+| Crusaders   |        8 |      6 |                   71 |                     1 |                  5 |                   32 |
+| Blues       |        8 |      5 |                   27 |                     1 |                  3 |                   26 |
 | Hurricanes  |        8 |      5 |                  -11 |                     0 |                  2 |                   22 |
 | Highlanders |        8 |      3 |                  -30 |                     2 |                  2 |                   16 |
 | Chiefs      |        8 |      0 |                  -57 |                     5 |                  1 |                    6 |
@@ -26,7 +30,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 68.4% | 8.4 |
-| Player Level: Lineup | 73.7% | 9.9 |
-| Player Level: Minutes | 84.2% | 9.4 |
+| Club Level | 65.0% | 7.5 |
+| Player Level: Lineup | nan% | nan |
+| Player Level: Minutes | nan% | nan |
 

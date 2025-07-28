@@ -1,32 +1,34 @@
 ---  
 title: "Major League Rugby 2021 Status"  
-date: 2023-05-09 6:00:00 -0500  
+date: 2025-07-28 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
     toc: true  
 ---
+# Current Team Rankings
+
+
+![Club Rankings](plots/rankings_Major_League_Rugby_2021.png)
 # Standings
 
 ## Current Standings
 
 
-| Club                   |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
-|:-----------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| L. A. Giltinis         |       19 |     14 |                  256 |                     5 |                nan |                   61 |
-| Rugby ATL              |       19 |     12 |                   79 |                     5 |                nan |                   53 |
-| Utah Warriors          |       18 |     11 |                   39 |                     5 |                nan |                   49 |
-| NOLA Gold              |       17 |     11 |                    0 |                     2 |                nan |                   48 |
-| New England Free Jacks |       17 |     10 |                   21 |                     1 |                nan |                   41 |
-| Austin Gilgronis       |       15 |      9 |                   74 |                     3 |                nan |                   39 |
-| R.U. New York          |       12 |      9 |                   73 |                     2 |                nan |                   38 |
-| Old Glory DC           |       17 |      6 |                  -85 |                     6 |                nan |                   32 |
-| Toronto Arrows         |       17 |      6 |                   40 |                     5 |                nan |                   29 |
-| San Diego Legion       |       16 |      6 |                  -34 |                     5 |                nan |                   29 |
-| Rugby New York         |       13 |      6 |                  -32 |                     4 |                nan |                   28 |
-| Seattle Seawolves      |       16 |      4 |                 -118 |                     6 |                nan |                   22 |
-| Houston SaberCats      |       17 |      2 |                 -311 |                     2 |                nan |                   10 |
-| Austin Herd            |        1 |      0 |                   -2 |                     1 |                nan |                    1 |
+| Club                   |   Played |   Wins |   Point Differential |   Losing Bonus Points | Try Bonus Points   |   Competition Points |
+|:-----------------------|---------:|-------:|---------------------:|----------------------:|:-------------------|---------------------:|
+| L. A. Giltinis         |       23 |     18 |                  356 |                     5 |                    |                   77 |
+| Rugby ATL              |       20 |     13 |                  102 |                     5 |                    |                   57 |
+| Austin Gilgronis       |       19 |     11 |                  101 |                     5 |                    |                   49 |
+| Utah Warriors          |       18 |     11 |                   39 |                     5 |                    |                   49 |
+| Rugby New York         |       18 |     11 |                   30 |                     4 |                    |                   48 |
+| NOLA Gold              |       18 |     11 |                  -26 |                     2 |                    |                   48 |
+| New England Free Jacks |       17 |     11 |                   34 |                     1 |                    |                   45 |
+| San Diego Legion       |       19 |      7 |                  -43 |                     7 |                    |                   35 |
+| Seattle Seawolves      |       25 |      6 |                 -188 |                     9 |                    |                   33 |
+| Old Glory DC           |       17 |      6 |                  -87 |                     6 |                    |                   32 |
+| Toronto Arrows         |       17 |      6 |                    5 |                     5 |                    |                   29 |
+| Houston SaberCats      |       17 |      2 |                 -323 |                     2 |                    |                   10 |
 
 
 
@@ -35,7 +37,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 61.7% | 12.3 |
-| Player Level: Lineup | 57.9% | 24.6 |
-| Player Level: Minutes | 61.7% | 23.5 |
+| Club Level | 64.0% | 11.4 |
+| Player Level: Lineup | nan% | nan |
+| Player Level: Minutes | nan% | nan |
 

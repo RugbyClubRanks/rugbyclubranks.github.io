@@ -1,6 +1,6 @@
 ---  
 title: "European Rugby Champions Cup 24/25 Status"  
-date: 2025-05-15 6:00:00 -0500  
+date: 2025-07-28 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -49,20 +49,20 @@ aside:
 
 |                    | Reach Round of 16   | Win Round of 16   | Reach Quarterfinal   | Win Quarterfinal   | Reach Semifinal   | Win Semifinal   | Reach Final   | Win Final   |
 |:-------------------|:--------------------|:------------------|:---------------------|:-------------------|:------------------|:----------------|:--------------|:------------|
-| Bordeaux Begles    | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 100.0 %         | 100.0 %       | 76.9 %      |
-| Northampton Saints | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 100.0 %         | 100.0 %       | 23.1 %      |
+| Bordeaux Begles    | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 100.0 %         | 100.0 %       | 100.0 %     |
+| Northampton Saints | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 100.0 %         | 100.0 %       | 0.0 %       |
 | Leinster           | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 0.0 %           | 0.0 %         | 0.0 %       |
 | Stade Toulousain   | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 0.0 %           | 0.0 %         | 0.0 %       |
-| Toulon             | 100.0 %             | 100.0 %           | 100.0 %              | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
 | Glasgow Warriors   | 100.0 %             | 100.0 %           | 100.0 %              | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
 | Castres Olympique  | 100.0 %             | 100.0 %           | 100.0 %              | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
+| Toulon             | 100.0 %             | 100.0 %           | 100.0 %              | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
 | Munster            | 100.0 %             | 100.0 %           | 100.0 %              | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
 | La Rochelle        | 100.0 %             | 0.0 %             | 0.0 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
 | Clermont Auvergne  | 100.0 %             | 0.0 %             | 0.0 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
-| Saracens           | 100.0 %             | 0.0 %             | 0.0 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
-| Harlequins         | 100.0 %             | 0.0 %             | 0.0 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
 | Leicester Tigers   | 100.0 %             | 0.0 %             | 0.0 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
+| Harlequins         | 100.0 %             | 0.0 %             | 0.0 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
 | Benetton Treviso   | 100.0 %             | 0.0 %             | 0.0 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
+| Saracens           | 100.0 %             | 0.0 %             | 0.0 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
 | Sale Sharks        | 100.0 %             | 0.0 %             | 0.0 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
 | Ulster             | 100.0 %             | 0.0 %             | 0.0 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
 
@@ -73,22 +73,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 79.4% | 18.0 |
+| Club Level | 79.4% | 17.2 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
-
-# Future Predictions
-
-## Final
-
-### Bordeaux Begles V Northampton Saints on 2025-05-23
-
-
-Average Margin: Bordeaux Begles by 4.0
-
-<p float="left">
-<img src="plots\2025-05-23-BordeauxBegles_V_NorthamptonSaints_performances.png" width="32%" />
-<img src="plots\2025-05-23-BordeauxBegles_V_NorthamptonSaints_resultbar.png" width="32%" />
-<img src="plots\2025-05-23-BordeauxBegles_V_NorthamptonSaints_spreads.png" width="32%" />
-</p>

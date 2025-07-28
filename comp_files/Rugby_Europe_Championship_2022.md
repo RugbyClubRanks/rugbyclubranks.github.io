@@ -1,11 +1,15 @@
 ---  
 title: "Rugby Europe Championship 2022 Status"  
-date: 2023-05-09 6:00:00 -0500  
+date: 2025-07-28 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
     toc: true  
 ---
+# Current Team Rankings
+
+
+![Club Rankings](plots/rankings_Rugby_Europe_Championship_2022.png)
 # Standings
 
 ## Current Standings
@@ -17,10 +21,8 @@ aside:
 | Georgia     |        4 |      3 |                   99 |                     0 |                  3 |                   17 |
 | Romania     |        5 |      3 |                   25 |                     1 |                  3 |                   16 |
 | Portugal    |        4 |      1 |                   41 |                     1 |                  2 |                    9 |
-| Germany     |        1 |      1 |                    5 |                     0 |                  0 |                    4 |
 | Russia      |        2 |      0 |                  -13 |                     1 |                  1 |                    2 |
-| Poland      |        1 |      0 |                   -5 |                     1 |                  0 |                    1 |
-| Netherlands |        4 |      0 |                 -187 |                     0 |                  0 |                    0 |
+| Netherlands |        4 |      0 |                 -187 |                     0 |                    |                    0 |
 
 
 
@@ -29,7 +31,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 92.3% | 12.6 |
-| Player Level: Lineup | 75.0% | 17.9 |
-| Player Level: Minutes | 75.0% | 18.1 |
+| Club Level | 91.7% | 10.6 |
+| Player Level: Lineup | nan% | nan |
+| Player Level: Minutes | nan% | nan |
 

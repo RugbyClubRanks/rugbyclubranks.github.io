@@ -2,14 +2,14 @@
 layout: page  
 title: Alumni V Newman on 2025/08/09  
 date: 2025-08-09  
-categories: "URBA Top 12 2025" match review  
+categories: "URBA Top 13 2025" match review  
 ---
 # Alumni V Newman on 2025/08/09
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Alumni to win by 0.11.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Alumni to win by 0.1.
 
 Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 24 to 24
 

@@ -1,11 +1,15 @@
 ---  
 title: "Major League Rugby 2022 Status"  
-date: 2023-05-09 6:00:00 -0500  
+date: 2025-07-28 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
     toc: true  
 ---
+# Current Team Rankings
+
+
+![Club Rankings](plots/rankings_Major_League_Rugby_2022.png)
 # Standings
 
 ## Current Standings
@@ -13,20 +17,19 @@ aside:
 
 | Club                   |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| New England Free Jacks |       20 |     16 |                  138 |                     2 |                nan |                   66 |
-| Austin Gilgronis       |       16 |     12 |                  246 |                     1 |                nan |                   57 |
-| Seattle Seawolves      |       21 |     11 |                   86 |                     4 |                nan |                   54 |
-| Rugby ATL              |       18 |     12 |                  156 |                     3 |                nan |                   53 |
-| L. A. Giltinis         |       16 |     11 |                  160 |                     1 |                nan |                   51 |
-| San Diego Legion       |       19 |      9 |                   33 |                     4 |                nan |                   47 |
-| Rugby New York         |       17 |     11 |                   10 |                     2 |                nan |                   47 |
-| Houston SaberCats      |       18 |      9 |                  -17 |                     4 |                nan |                   47 |
-| Toronto Arrows         |       18 |      9 |                   12 |                     2 |                nan |                   39 |
-| R.U. New York          |       12 |      8 |                   24 |                     2 |                nan |                   35 |
-| Utah Warriors          |       16 |      5 |                   29 |                     7 |                nan |                   33 |
-| NOLA Gold              |       18 |      5 |                 -151 |                     3 |                nan |                   24 |
-| Old Glory DC           |       17 |      3 |                 -172 |                     4 |                nan |                   16 |
-| Dallas Jackals         |       16 |      0 |                 -554 |                     2 |                nan |                    4 |
+| Seattle Seawolves      |       24 |     15 |                  210 |                     4 |                  6 |                   70 |
+| Austin Gilgronis       |       19 |     14 |                  293 |                     2 |                  8 |                   66 |
+| L. A. Giltinis         |       22 |     14 |                  188 |                     2 |                  7 |                   65 |
+| Rugby New York         |       20 |     14 |                   12 |                     2 |                  2 |                   60 |
+| New England Free Jacks |       19 |     14 |                  166 |                     3 |                    |                   59 |
+| Rugby ATL              |       19 |     13 |                  148 |                     3 |                  2 |                   57 |
+| Houston SaberCats      |       19 |     10 |                  -32 |                     4 |                  7 |                   51 |
+| San Diego Legion       |       22 |     10 |                   -8 |                     3 |                  7 |                   50 |
+| Utah Warriors          |       17 |      6 |                   38 |                     7 |                  6 |                   37 |
+| Toronto Arrows         |       17 |      8 |                   11 |                     2 |                  1 |                   35 |
+| NOLA Gold              |       17 |      4 |                 -211 |                     3 |                  1 |                   20 |
+| Old Glory DC           |       18 |      3 |                 -194 |                     3 |                    |                   15 |
+| Dallas Jackals         |       17 |      0 |                 -621 |                     2 |                  2 |                    4 |
 
 
 
@@ -35,7 +38,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 64.5% | 13.1 |
-| Player Level: Lineup | 57.6% | 25.3 |
-| Player Level: Minutes | 57.6% | 23.9 |
+| Club Level | 65.6% | 13.9 |
+| Player Level: Lineup | nan% | nan |
+| Player Level: Minutes | nan% | nan |
 

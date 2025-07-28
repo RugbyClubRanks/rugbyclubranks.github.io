@@ -1,30 +1,33 @@
 ---  
-title: "RFU Championship 2021 Status"  
-date: 2023-05-09 6:00:00 -0500  
+title: "RFU Championship 20/21 Status"  
+date: 2025-07-28 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
     toc: true  
 ---
+# Current Team Rankings
+
+
+![Club Rankings](plots/rankings_RFU_Championship_2021.png)
 # Standings
 
 ## Current Standings
 
 
-| Club                |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
-|:--------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Ealing Trailfinders |       30 |     25 |                  898 |                     1 |                nan |                  101 |
-| Doncaster           |       30 |     25 |                  213 |                     0 |                nan |                  100 |
-| Cornish Pirates     |       30 |     21 |                  214 |                     4 |                nan |                   88 |
-| Jersey              |       30 |     18 |                  132 |                     3 |                nan |                   77 |
-| Coventry            |       30 |     15 |                 -144 |                     3 |                nan |                   63 |
-| Ampthill            |       30 |     13 |                 -199 |                     6 |                nan |                   58 |
-| Bedford             |       30 |     12 |                  -22 |                     7 |                nan |                   55 |
-| Hartpury College    |       29 |      9 |                 -123 |                     7 |                nan |                   45 |
-| Richmond            |       30 |      8 |                 -334 |                     5 |                nan |                   39 |
-| Nottingham          |       30 |      7 |                 -458 |                     6 |                nan |                   34 |
-| Saracens            |        9 |      8 |                  343 |                     0 |                nan |                   32 |
-| London Scottish     |       20 |      1 |                 -520 |                     2 |                nan |                    8 |
+| Club                |   Played |   Wins |   Point Differential |   Losing Bonus Points | Try Bonus Points   |   Competition Points |
+|:--------------------|---------:|-------:|---------------------:|----------------------:|:-------------------|---------------------:|
+| Ealing Trailfinders |       10 |      9 |                  344 |                     0 |                    |                   36 |
+| Saracens            |        9 |      8 |                  343 |                     0 |                    |                   32 |
+| Doncaster           |       10 |      8 |                   11 |                     0 |                    |                   32 |
+| Cornish Pirates     |       10 |      6 |                   58 |                     3 |                    |                   27 |
+| Coventry            |       10 |      6 |                  -30 |                     1 |                    |                   25 |
+| Jersey              |       10 |      5 |                  -28 |                     0 |                    |                   20 |
+| Ampthill            |       10 |      4 |                 -108 |                     2 |                    |                   18 |
+| Bedford             |       10 |      3 |                  -55 |                     3 |                    |                   15 |
+| Nottingham          |       10 |      2 |                 -175 |                     2 |                    |                   10 |
+| Hartpury College    |        9 |      2 |                 -132 |                     1 |                    |                    9 |
+| Richmond            |       10 |      1 |                 -228 |                     0 |                    |                    4 |
 
 
 
@@ -33,7 +36,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 72.0% | 14.6 |
-| Player Level: Lineup | 66.5% | 17.4 |
-| Player Level: Minutes | 77.4% | 14.2 |
+| Club Level | 75.9% | 15.4 |
+| Player Level: Lineup | nan% | nan |
+| Player Level: Minutes | nan% | nan |
 

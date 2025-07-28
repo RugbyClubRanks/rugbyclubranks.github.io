@@ -1,6 +1,6 @@
 ---  
 title: "United Rugby Championship 24/25 Status"  
-date: 2025-06-15 6:00:00 -0500  
+date: 2025-07-28 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,19 +17,19 @@ aside:
 
 | Club             |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Leinster         |       18 |     16 |                  285 |                     1 |                 11 |                   76 |
-| Bulls            |       19 |     14 |                  182 |                     3 |                  9 |                   70 |
+| Leinster         |       18 |     16 |                  286 |                     1 |                 11 |                   76 |
+| Bulls            |       19 |     14 |                  181 |                     3 |                  9 |                   70 |
 | Sharks           |       19 |     13 |                   34 |                     3 |                  7 |                   64 |
 | Glasgow Warriors |       18 |     11 |                  141 |                     5 |                 10 |                   59 |
-| Stormers         |       19 |     10 |                   88 |                     4 |                 11 |                   57 |
+| Stormers         |       19 |     10 |                   89 |                     4 |                 11 |                   57 |
 | Munster          |       18 |      9 |                   15 |                     4 |                 11 |                   51 |
 | Edinburgh        |       18 |      8 |                   64 |                     6 |                  9 |                   49 |
 | Scarlets         |       18 |      9 |                   45 |                     4 |                  6 |                   48 |
-| Cardiff Blues    |       18 |      8 |                  -67 |                     3 |                 10 |                   47 |
+| Cardiff Rugby    |       18 |      8 |                  -68 |                     3 |                 10 |                   47 |
 | Benetton Treviso |       18 |      9 |                  -85 |                     1 |                  7 |                   46 |
-| Lions            |       19 |      8 |                  -39 |                     3 |                  5 |                   42 |
+| Lions            |       19 |      8 |                  -38 |                     3 |                  5 |                   42 |
 | Ospreys          |       18 |      7 |                  -17 |                     4 |                  6 |                   40 |
-| Connacht         |       18 |      6 |                  -51 |                     7 |                  9 |                   40 |
+| Connacht         |       18 |      6 |                  -52 |                     6 |                  9 |                   39 |
 | Ulster           |       18 |      7 |                  -92 |                     5 |                  5 |                   38 |
 | Zebre            |       18 |      5 |                 -201 |                     4 |                  3 |                   29 |
 | Dragons          |       18 |      1 |                 -302 |                     4 |                  1 |                    9 |
@@ -47,8 +47,8 @@ aside:
 | Sharks           | 200.0 %              | 0.0 %              | 100.0 %           | 0.0 %           | 0.0 %         | 0.0 %       |
 | Munster          | 0.0 %                | 100.0 %            | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
 | Stormers         | 100.0 %              | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
-| Edinburgh        | 100.0 %              | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
 | Scarlets         | 100.0 %              | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
+| Edinburgh        | 100.0 %              | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
 
 
 
@@ -57,7 +57,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 72.5% | 10.3 |
+| Club Level | 71.9% | 10.3 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 

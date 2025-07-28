@@ -2,14 +2,14 @@
 layout: page  
 title: Perpignan V Racing 92 on 2025/09/20  
 date: 2025-09-20  
-categories: "Top 14 Orange 25/26" match review  
+categories: "Top 14 25/26" match review  
 ---
 # Perpignan V Racing 92 on 2025/09/20
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Perpignan to win by 0.53.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Perpignan to win by 1.43.
 
 Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 25 to 24
 

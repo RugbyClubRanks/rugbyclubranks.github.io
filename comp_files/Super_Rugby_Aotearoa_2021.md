@@ -1,11 +1,15 @@
 ---  
 title: "Super Rugby Aotearoa 2021 Status"  
-date: 2023-05-09 6:00:00 -0500  
+date: 2025-07-28 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
     toc: true  
 ---
+# Current Team Rankings
+
+
+![Club Rankings](plots/rankings_Super_Rugby_Aotearoa_2021.png)
 # Standings
 
 ## Current Standings
@@ -26,7 +30,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 52.4% | 10.4 |
-| Player Level: Lineup | 71.4% | 10.4 |
-| Player Level: Minutes | 66.7% | 11.2 |
+| Club Level | 52.4% | 10.7 |
+| Player Level: Lineup | nan% | nan |
+| Player Level: Minutes | nan% | nan |
 

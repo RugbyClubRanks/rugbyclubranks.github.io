@@ -2,14 +2,14 @@
 layout: page  
 title: Lyon V Montpellier Herault on 2026/06/06  
 date: 2026-06-06  
-categories: "Top 14 Orange 25/26" match review  
+categories: "Top 14 25/26" match review  
 ---
 # Lyon V Montpellier Herault on 2026/06/06
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Lyon to win by 4.06.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Lyon to win by 3.9.
 
 Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 28 to 24
 

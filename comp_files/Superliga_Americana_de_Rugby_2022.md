@@ -1,11 +1,15 @@
 ---  
 title: "Superliga Americana de Rugby 2022 Status"  
-date: 2023-05-09 6:00:00 -0500  
+date: 2025-07-28 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
     toc: true  
 ---
+# Current Team Rankings
+
+
+![Club Rankings](plots/rankings_Superliga_Americana_de_Rugby_2022.png)
 # Standings
 
 ## Current Standings
@@ -27,7 +31,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 66.7% | 16.0 |
-| Player Level: Lineup | 72.7% | 14.0 |
-| Player Level: Minutes | 78.8% | 13.5 |
+| Club Level | 72.7% | 16.4 |
+| Player Level: Lineup | nan% | nan |
+| Player Level: Minutes | nan% | nan |
 

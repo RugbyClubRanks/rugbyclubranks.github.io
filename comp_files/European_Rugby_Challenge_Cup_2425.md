@@ -1,6 +1,6 @@
 ---  
 title: "European Rugby Challenge Cup 24/25 Status"  
-date: 2025-05-15 6:00:00 -0500  
+date: 2025-07-28 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -29,7 +29,7 @@ aside:
 | Lions               |        4 |      2 |                   19 |                     0 |                  2 |                   10 |
 | Gloucester Rugby    |        4 |      2 |                  -33 |                     0 |                  1 |                    9 |
 | Vannes              |        4 |      1 |                    7 |                     2 |                  2 |                    8 |
-| Cardiff Blues       |        4 |      1 |                   -7 |                     1 |                  2 |                    7 |
+| Cardiff Rugby       |        4 |      1 |                   -7 |                     1 |                  2 |                    7 |
 | Cheetahs            |        4 |      1 |                  -59 |                     0 |                    |                    6 |
 | Dragons             |        4 |      1 |                  -55 |                     1 |                    |                    5 |
 | Black Lion          |        4 |      1 |                  -61 |                     0 |                    |                    4 |
@@ -43,8 +43,8 @@ aside:
 
 |                     | Reach Round of 16   | Win Round of 16   | Reach Quarterfinal   | Win Quarterfinal   | Reach Semifinal   | Win Semifinal   | Reach Final   | Win Final   |
 |:--------------------|:--------------------|:------------------|:---------------------|:-------------------|:------------------|:----------------|:--------------|:------------|
-| Bath Rugby          | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 100.0 %         | 100.0 %       | 65.6 %      |
-| Lyon                | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 100.0 %         | 100.0 %       | 34.4 %      |
+| Bath Rugby          | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 100.0 %         | 100.0 %       | 100.0 %     |
+| Lyon                | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 100.0 %         | 100.0 %       | 0.0 %       |
 | Edinburgh           | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 0.0 %           | 0.0 %         | 0.0 %       |
 | Racing 92           | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 0.0 %           | 0.0 %         | 0.0 %       |
 | Connacht            | 100.0 %             | 100.0 %           | 100.0 %              | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
@@ -56,7 +56,7 @@ aside:
 | Bayonne             | 100.0 %             | 0.0 %             | 0.0 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
 | Montpellier Herault | 100.0 %             | 0.0 %             | 0.0 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
 | Lions               | 100.0 %             | 0.0 %             | 0.0 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
-| Cardiff Blues       | 100.0 %             | 0.0 %             | 0.0 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
+| Cardiff Rugby       | 100.0 %             | 0.0 %             | 0.0 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
 | Sharks              | 100.0 %             | 0.0 %             | 0.0 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
 | Scarlets            | 100.0 %             | 0.0 %             | 0.0 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
 
@@ -67,22 +67,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 78.4% | 13.1 |
+| Club Level | 78.4% | 12.5 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
-
-# Future Predictions
-
-## Final
-
-### Lyon V Bath Rugby on 2025-05-23
-
-
-Average Margin: Bath Rugby by 0.5
-
-<p float="left">
-<img src="plots\2025-05-23-Lyon_V_BathRugby_performances.png" width="32%" />
-<img src="plots\2025-05-23-Lyon_V_BathRugby_resultbar.png" width="32%" />
-<img src="plots\2025-05-23-Lyon_V_BathRugby_spreads.png" width="32%" />
-</p>

@@ -1,11 +1,15 @@
 ---  
 title: "Super Rugby AU 2020 Status"  
-date: 2023-05-09 6:00:00 -0500  
+date: 2025-07-28 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
     toc: true  
 ---
+# Current Team Rankings
+
+
+![Club Rankings](plots/rankings_Super_Rugby_AU_2020.png)
 # Standings
 
 ## Current Standings
@@ -26,7 +30,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 50.0% | 14.9 |
-| Player Level: Lineup | 77.3% | 13.6 |
-| Player Level: Minutes | 72.7% | 14.3 |
+| Club Level | 63.6% | 13.8 |
+| Player Level: Lineup | nan% | nan |
+| Player Level: Minutes | nan% | nan |
 

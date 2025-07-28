@@ -1,25 +1,29 @@
 ---  
 title: "Currie Cup 2021 Status"  
-date: 2023-05-09 6:00:00 -0500  
+date: 2025-07-28 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
     toc: true  
 ---
+# Current Team Rankings
+
+
+![Club Rankings](plots/rankings_Currie_Cup_2021.png)
 # Standings
 
 ## Current Standings
 
 
-| Club                |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
-|:--------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Blue Bulls          |       11 |      9 |                  125 |                     1 |                nan |                   38 |
-| Western Province    |       13 |      6 |                  -11 |                     2 |                nan |                   28 |
-| Griquas             |       12 |      5 |                   15 |                     4 |                nan |                   26 |
-| Natal Sharks        |       10 |      6 |                   35 |                     1 |                nan |                   25 |
-| Pumas               |       10 |      5 |                   18 |                     3 |                nan |                   23 |
-| Free State Cheetahs |       10 |      3 |                  -39 |                     3 |                nan |                   17 |
-| Golden Lions        |       10 |      2 |                 -143 |                     1 |                nan |                   11 |
+| Club             |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
+|:-----------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
+| Blue Bulls       |       18 |     12 |                  114 |                     1 |                  1 |                   56 |
+| Natal Sharks     |       18 |      8 |                   66 |                     2 |                    |                   44 |
+| Western Province |       16 |      7 |                  -19 |                     2 |                    |                   34 |
+| Pumas            |       14 |      5 |                   40 |                     3 |                    |                   31 |
+| Griquas          |       15 |      5 |                  -17 |                     5 |                    |                   29 |
+| Cheetahs         |       14 |      4 |                  -37 |                     4 |                    |                   26 |
+| Golden Lions     |       15 |      3 |                 -147 |                     3 |                    |                   21 |
 
 
 
@@ -28,7 +32,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 50.0% | 13.3 |
-| Player Level: Lineup | 55.3% | 12.0 |
-| Player Level: Minutes | 60.5% | 12.6 |
+| Club Level | 47.3% | 11.9 |
+| Player Level: Lineup | nan% | nan |
+| Player Level: Minutes | nan% | nan |
 

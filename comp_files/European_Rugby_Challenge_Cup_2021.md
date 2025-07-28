@@ -1,39 +1,49 @@
 ---  
-title: "European Rugby Challenge Cup 2021 Status"  
-date: 2023-05-09 6:00:00 -0500  
+title: "European Rugby Challenge Cup 20/21 Status"  
+date: 2025-07-28 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
     toc: true  
 ---
+# Current Team Rankings
+
+
+![Club Rankings](plots/rankings_European_Rugby_Challenge_Cup_2021.png)
 # Standings
 
 ## Current Standings
 
 
-| Club               |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
-|:-------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Lyon               |        8 |      8 |                  107 |                     0 |                nan |                   32 |
-| Toulon             |        7 |      5 |                   33 |                     1 |                nan |                   21 |
-| Edinburgh          |        6 |      4 |                  132 |                     2 |                nan |                   18 |
-| Saracens           |        6 |      4 |                   95 |                     1 |                nan |                   17 |
-| Gloucester Rugby   |        6 |      4 |                   58 |                     1 |                nan |                   17 |
-| London Irish       |        5 |      3 |                   32 |                     1 |                nan |                   13 |
-| Newcastle Falcons  |        4 |      3 |                    2 |                     0 |                nan |                   12 |
-| Wasps              |        3 |      2 |                   12 |                     1 |                nan |                    9 |
-| Biarritz Olympique |        4 |      2 |                    2 |                     1 |                nan |                    9 |
-| Benetton Treviso   |        5 |      2 |                  -39 |                     0 |                nan |                    8 |
-| Worcester Warriors |        4 |      1 |                  -20 |                     1 |                nan |                    5 |
-| Glasgow Warriors   |        2 |      1 |                    2 |                     0 |                nan |                    4 |
-| Perpignan          |        4 |      1 |                  -84 |                     0 |                nan |                    4 |
-| Brive              |        3 |      1 |                 -105 |                     0 |                nan |                    4 |
-| Dragons            |        4 |      0 |                  -38 |                     2 |                nan |                    2 |
-| Cardiff Blues      |        1 |      0 |                   -7 |                     1 |                nan |                    1 |
-| Zebre              |        4 |      0 |                  -40 |                     1 |                nan |                    1 |
-| Northampton Saints |        1 |      0 |                  -10 |                     0 |                nan |                    0 |
-| Bath Rugby         |        1 |      0 |                  -22 |                     0 |                nan |                    0 |
-| Castres Olympique  |        1 |      0 |                  -37 |                     0 |                nan |                    0 |
-| Pau                |        3 |      0 |                  -73 |                     0 |                nan |                    0 |
+| Club                 |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
+|:---------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
+| Leicester Tigers     |        8 |      5 |                   63 |                     1 |                    |                   23 |
+| Montpellier Herault  |        4 |      4 |                   21 |                     0 |                    |                   16 |
+| Bristol Rugby        |        3 |      3 |                   69 |                     0 |                  2 |                   14 |
+| London Irish         |        4 |      3 |                   28 |                     0 |                    |                   12 |
+| Benetton Treviso     |        3 |      2 |                   31 |                     1 |                    |                    9 |
+| Ospreys              |        3 |      2 |                   29 |                     1 |                    |                    9 |
+| Toulon               |        3 |      2 |                    7 |                     0 |                  1 |                    9 |
+| Ulster               |        3 |      2 |                   35 |                     0 |                    |                    8 |
+| Bath Rugby           |        3 |      2 |                   12 |                     0 |                    |                    8 |
+| Newcastle Falcons    |        4 |      2 |                  -24 |                     0 |                    |                    8 |
+| Zebre                |        3 |      1 |                   -6 |                     0 |                    |                    6 |
+| Cardiff Rugby        |        2 |      1 |                    7 |                     1 |                    |                    5 |
+| Northampton Saints   |        2 |      1 |                   -4 |                     0 |                    |                    4 |
+| Pau                  |        2 |      1 |                   -5 |                     0 |                    |                    4 |
+| Bordeaux Begles      |        2 |      1 |                   -8 |                     0 |                    |                    4 |
+| Bayonne              |        2 |      0 |                   -8 |                     0 |                    |                    2 |
+| Castres Olympique    |        3 |      0 |                  -33 |                     0 |                    |                    2 |
+| Glasgow Warriors     |        1 |      0 |                   -5 |                     1 |                    |                    1 |
+| Scarlets             |        1 |      0 |                   -5 |                     1 |                    |                    1 |
+| Worcester Warriors   |        2 |      0 |                  -13 |                     1 |                    |                    1 |
+| Brive                |        2 |      0 |                  -24 |                     1 |                    |                    1 |
+| Dragons              |        2 |      0 |                  -43 |                     1 |                    |                    1 |
+| Edinburgh            |        1 |      0 |                   -9 |                     0 |                    |                    0 |
+| Connacht             |        1 |      0 |                  -16 |                     0 |                    |                    0 |
+| Stade Francais Paris |        1 |      0 |                  -24 |                     0 |                    |                    0 |
+| Harlequins           |        1 |      0 |                  -36 |                     0 |                    |                    0 |
+| Agen                 |        2 |      0 |                  -39 |                     0 |                    |                    0 |
 
 
 
@@ -42,7 +52,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 85.4% | 12.6 |
-| Player Level: Lineup | 75.6% | 16.6 |
-| Player Level: Minutes | 75.6% | 15.0 |
+| Club Level | 58.8% | 11.2 |
+| Player Level: Lineup | nan% | nan |
+| Player Level: Minutes | nan% | nan |
 
