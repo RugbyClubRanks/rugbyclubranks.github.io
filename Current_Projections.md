@@ -10,13 +10,13 @@ key: page-projections
 
 [In depth model review and projections for International Test Match 2025](comp_files/International_Test_Match_2025)
 
-Competition Accuracy: 41 of 55 (74.55%)
+Competition Accuracy: 43 of 61 (70.49%)
 
-Competition Error: 20.56 points per match
+Competition Error: 20.42 points per match
 
-Last Two Week Accuracy: 9 of 9 (100.0%)
+Last Two Week Accuracy: 10 of 12 (83.33%)
 
-Last Two Week Error: 16.18 points per match
+Last Two Week Error: 16.55 points per match
 
 [2025/08/22 - Uruguay V Paraguay](projections\2025-08-22-Uruguay_V_Paraguay)
 ## Lions Tour
@@ -30,7 +30,7 @@ Competition Error: 16.09 points per match
 
 Last Two Week Accuracy: 1 of 3 (33.33%)
 
-Last Two Week Error: 5.84 points per match
+Last Two Week Error: 5.83 points per match
 
 [2025/08/02 - Australia V British and Irish Lions](projections\2025-08-02-Australia_V_BritishandIrishLions)
 ## Pacific Nations Cup
@@ -56,7 +56,7 @@ Last Two Week Error: 5.84 points per match
 ## Women's International Test Match
 
 
-[In depth model review and projections for Women's International Test Match 2025](comp_files/Women's_International_Test_Match_2025)
+[In depth model review and projections for Women's International Test Match 2025](comp_files/Womens_International_Test_Match_2025)
 
 Competition Accuracy: 24 of 39 (61.54%)
 

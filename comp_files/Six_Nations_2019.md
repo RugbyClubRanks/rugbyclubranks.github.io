@@ -1,6 +1,6 @@
 ---  
-title: "Six Nations 2019 Status"  
-date: 2025-07-28 6:00:00 -0500  
+title: "Six Nations 2019"  
+date: 2025-07-29 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -31,7 +31,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 80.0% | 10.1 |
+| Club Level | 86.7% | 10.0 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 

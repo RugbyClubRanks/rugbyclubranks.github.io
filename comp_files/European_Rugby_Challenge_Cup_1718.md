@@ -1,6 +1,6 @@
 ---  
-title: "European Rugby Challenge Cup 17/18 Status"  
-date: 2025-07-28 6:00:00 -0500  
+title: "European Rugby Challenge Cup 17/18"  
+date: 2025-07-29 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -45,22 +45,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 73.5% | 13.3 |
+| Club Level | 73.1% | 13.3 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
-
-# Future Predictions
-
-## Week 10
-
-### Newcastle Falcons V RC Enisei on 2018/01/12
-
-
-Average Margin: Newcastle Falcons by 14.3
-
-<p float="left">
-<img src="plots\2018-01-12-NewcastleFalcons_V_RCEnisei_performances.png" width="32%" />
-<img src="plots\2018-01-12-NewcastleFalcons_V_RCEnisei_resultbar.png" width="32%" />
-<img src="plots\2018-01-12-NewcastleFalcons_V_RCEnisei_spreads.png" width="32%" />
-</p>

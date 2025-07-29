@@ -1,6 +1,6 @@
 ---  
-title: "Rugby World Cup Qualifier 2018 Status"  
-date: 2025-07-28 6:00:00 -0500  
+title: "Rugby World Cup Qualifier 2018"  
+date: 2025-07-29 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -33,7 +33,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 58.3% | 25.1 |
+| Club Level | 66.7% | 25.0 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 

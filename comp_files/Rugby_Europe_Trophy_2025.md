@@ -1,6 +1,6 @@
 ---  
-title: "Rugby Europe Trophy 2025 Status"  
-date: 2025-07-28 6:00:00 -0500  
+title: "Rugby Europe Trophy 2025"  
+date: 2025-07-29 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -31,7 +31,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 50.0% | 28.1 |
+| Club Level | 50.0% | 28.3 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 

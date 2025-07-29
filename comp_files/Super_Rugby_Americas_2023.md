@@ -1,6 +1,6 @@
 ---  
-title: "Super Rugby Americas 2023 Status"  
-date: 2025-07-28 6:00:00 -0500  
+title: "Super Rugby Americas 2023"  
+date: 2025-07-29 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -32,8 +32,8 @@ aside:
 
 | Club      |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:----------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Selknam   |         1 |             0.55 |                     2.37 |                            0.13 |                              |                           2.39 |
-| Yacare XV |         1 |             0.42 |                    -2.37 |                            0.18 |                              |                           1.92 |
+| Selknam   |         1 |            0.483 |                    1.076 |                           0.182 |                              |                          2.202 |
+| Yacare XV |         1 |            0.473 |                   -1.076 |                           0.171 |                              |                          2.151 |
 
 
 
@@ -42,13 +42,13 @@ aside:
 
 | Club             |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Penarol Rugby    |       14 |  12    |               200    |                  2    |                 10 |                60    |
-| Dogos XV         |       14 |  10    |                70    |                  2    |                  9 |                51    |
-| Pampas XV        |       13 |   8    |                91    |                  2    |                  3 |                37    |
-| Yacare XV        |       13 |   6.42 |               -28.37 |                  2.18 |                  5 |                32.92 |
-| Selknam          |       12 |   4.55 |                 4.37 |                  3.13 |                  4 |                25.39 |
-| American Raptors |       12 |   2    |              -176    |                  2    |                  6 |                16    |
-| Cobras           |       12 |   2    |              -161    |                  2    |                  3 |                13    |
+| Penarol Rugby    |       14 | 12     |              200     |                 2     |                 10 |               60     |
+| Dogos XV         |       14 | 10     |               70     |                 2     |                  9 |               51     |
+| Pampas XV        |       13 |  8     |               91     |                 2     |                  3 |               37     |
+| Yacare XV        |       13 |  6.473 |              -27.076 |                 2.171 |                  5 |               33.151 |
+| Selknam          |       12 |  4.483 |                3.076 |                 3.182 |                  4 |               25.202 |
+| American Raptors |       12 |  2     |             -176     |                 2     |                  6 |               16     |
+| Cobras           |       12 |  2     |             -161     |                 2     |                  3 |               13     |
 
 
 
@@ -69,7 +69,7 @@ aside:
 ### Yacare XV V Selknam on 2023/04/01
 
 
-Average Margin: Selknam by 0.9
+Average Margin: Selknam by 1.1
 
 <p float="left">
 <img src="plots\2023-04-01-YacareXV_V_Selknam_performances.png" width="32%" />

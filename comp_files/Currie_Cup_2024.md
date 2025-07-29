@@ -1,6 +1,6 @@
 ---  
-title: "Currie Cup 2024 Status"  
-date: 2025-07-28 6:00:00 -0500  
+title: "Currie Cup 2024"  
+date: 2025-07-29 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -33,8 +33,8 @@ aside:
 
 | Club         |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:-------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Golden Lions |         1 |             0.64 |                     3.19 |                            0.16 |                              |                           2.8  |
-| Natal Sharks |         1 |             0.32 |                    -3.19 |                            0.27 |                              |                           1.63 |
+| Golden Lions |         1 |            0.615 |                    3.992 |                           0.189 |                              |                          2.747 |
+| Natal Sharks |         1 |            0.336 |                   -3.992 |                           0.23  |                              |                          1.672 |
 
 
 
@@ -43,14 +43,14 @@ aside:
 
 | Club             |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Blue Bulls       |        8 |   6    |               125    |                  0    |                  5 |                33    |
-| Golden Lions     |        8 |   6.64 |               117.19 |                  0.16 |                  3 |                29.8  |
-| Cheetahs         |        7 |   4    |                70    |                  0    |                  5 |                23    |
-| Natal Sharks     |        8 |   2.32 |                14.81 |                  2.27 |                  5 |                20.63 |
-| Pumas            |        7 |   3    |               -43    |                  0    |                  5 |                19    |
-| Western Province |        6 |   2    |                23    |                  2    |                  4 |                14    |
-| Griquas          |        7 |   2    |               -44    |                  0    |                  4 |                12    |
-| Griffons         |        7 |   0    |              -263    |                  1    |                  1 |                 2    |
+| Blue Bulls       |        8 |  6     |              125     |                 0     |                  5 |               33     |
+| Golden Lions     |        8 |  6.615 |              117.992 |                 0.189 |                  3 |               29.747 |
+| Cheetahs         |        7 |  4     |               70     |                 0     |                  5 |               23     |
+| Natal Sharks     |        8 |  2.336 |               14.008 |                 2.23  |                  5 |               20.672 |
+| Pumas            |        7 |  3     |              -43     |                 0     |                  5 |               19     |
+| Western Province |        6 |  2     |               23     |                 2     |                  4 |               14     |
+| Griquas          |        7 |  2     |              -44     |                 0     |                  4 |               12     |
+| Griffons         |        7 |  0     |             -263     |                 1     |                  1 |                2     |
 
 
 
@@ -59,7 +59,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 62.1% | 16.5 |
+| Club Level | 62.1% | 16.4 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -71,7 +71,7 @@ aside:
 ### Golden Lions V Natal Sharks on 2024/09/21
 
 
-Average Margin: Golden Lions by 3.2
+Average Margin: Golden Lions by 4.0
 
 <p float="left">
 <img src="plots\2024-09-21-GoldenLions_V_NatalSharks_performances.png" width="32%" />

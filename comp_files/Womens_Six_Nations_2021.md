@@ -1,6 +1,6 @@
 ---  
-title: "Women's Six Nations 2021 Status"  
-date: 2025-07-28 6:00:00 -0500  
+title: "Women's Six Nations 2021"  
+date: 2025-07-29 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -31,7 +31,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 88.9% | 21.5 |
+| Club Level | 88.9% | 21.4 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 

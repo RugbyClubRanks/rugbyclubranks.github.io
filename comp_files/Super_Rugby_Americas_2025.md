@@ -1,6 +1,6 @@
 ---  
-title: "Super Rugby Americas 2025 Status"  
-date: 2025-07-28 6:00:00 -0500  
+title: "Super Rugby Americas 2025"  
+date: 2025-07-29 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -32,9 +32,9 @@ aside:
 
 | Club          |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:--------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Dogos XV      |         2 |             1.49 |                     15.8 |                            0.21 |                              |                           6.33 |
-| Penarol Rugby |         1 |             0.22 |                     -6.5 |                            0.27 |                              |                           1.25 |
-| Selknam       |         1 |             0.21 |                     -9.3 |                            0.17 |                              |                           1.07 |
+| Dogos XV      |         2 |            1.397 |                   14.463 |                           0.307 |                              |                          6.029 |
+| Penarol Rugby |         1 |            0.271 |                   -6.897 |                           0.222 |                              |                          1.368 |
+| Selknam       |         1 |            0.265 |                   -7.566 |                           0.195 |                              |                          1.327 |
 
 
 
@@ -43,13 +43,13 @@ aside:
 
 | Club          |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Dogos XV      |       12 |   7.49 |                160.8 |                  3.21 |                  4 |                39.33 |
-| Pampas XV     |       12 |   8    |                150   |                  2    |                  3 |                39    |
-| Penarol Rugby |       12 |   7.22 |                 55.5 |                  2.27 |                  3 |                34.25 |
-| Selknam       |       12 |   6.21 |                 15.7 |                  4.17 |                  4 |                33.07 |
-| Tarucas       |       12 |   6    |                 44   |                  3    |                  3 |                30    |
-| Yacare XV     |       12 |   6    |                -23   |                  2    |                  2 |                28    |
-| Cobras        |       12 |   0    |               -403   |                  2    |                  2 |                 4    |
+| Dogos XV      |       12 |  7.397 |              159.463 |                 3.307 |                  4 |               39.029 |
+| Pampas XV     |       12 |  8     |              150     |                 2     |                  3 |               39     |
+| Penarol Rugby |       12 |  7.271 |               55.103 |                 2.222 |                  3 |               34.368 |
+| Selknam       |       12 |  6.265 |               17.434 |                 4.195 |                  4 |               33.327 |
+| Tarucas       |       12 |  6     |               44     |                 3     |                  3 |               30     |
+| Yacare XV     |       12 |  6     |              -23     |                 2     |                  2 |               28     |
+| Cobras        |       12 |  0     |             -403     |                 2     |                  2 |                4     |
 
 
 
@@ -70,7 +70,7 @@ aside:
 ### Dogos XV V Penarol Rugby on 2025/05/24
 
 
-Average Margin: Dogos XV by 6.5
+Average Margin: Dogos XV by 6.9
 
 <p float="left">
 <img src="plots\2025-05-24-DogosXV_V_PenarolRugby_performances.png" width="32%" />
@@ -83,7 +83,7 @@ Average Margin: Dogos XV by 6.5
 ### Dogos XV V Selknam on 2025/05/30
 
 
-Average Margin: Dogos XV by 9.3
+Average Margin: Dogos XV by 7.6
 
 <p float="left">
 <img src="plots\2025-05-30-DogosXV_V_Selknam_performances.png" width="32%" />

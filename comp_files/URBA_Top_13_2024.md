@@ -1,6 +1,6 @@
 ---  
-title: "URBA Top 13 2024 Status"  
-date: 2025-07-28 6:00:00 -0500  
+title: "URBA Top 13 2024"  
+date: 2025-07-29 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -37,7 +37,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 65.9% | 12.2 |
+| Club Level | 65.2% | 12.2 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 

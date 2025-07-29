@@ -1,6 +1,6 @@
 ---  
-title: "Women's International Test Match 2019 Status"  
-date: 2025-07-28 6:00:00 -0500  
+title: "Women's International Test Match 2019"  
+date: 2025-07-29 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  

@@ -1,6 +1,6 @@
 ---  
-title: "European Rugby Challenge Cup 18/19 Status"  
-date: 2025-07-28 6:00:00 -0500  
+title: "European Rugby Challenge Cup 18/19"  
+date: 2025-07-29 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -45,7 +45,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 80.6% | 13.4 |
+| Club Level | 80.6% | 13.3 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 

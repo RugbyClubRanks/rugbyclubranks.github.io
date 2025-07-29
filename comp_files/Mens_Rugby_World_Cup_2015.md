@@ -1,6 +1,6 @@
 ---  
-title: "Men's Rugby World Cup 2015 Status"  
-date: 2025-07-28 6:00:00 -0500  
+title: "Men's Rugby World Cup 2015"  
+date: 2025-07-29 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -45,7 +45,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 60.4% | 14.0 |
+| Club Level | 58.3% | 14.0 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 

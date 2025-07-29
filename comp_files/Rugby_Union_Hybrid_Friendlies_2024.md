@@ -1,6 +1,6 @@
 ---  
-title: "Rugby Union Hybrid Friendlies 2024 Status"  
-date: 2025-07-28 6:00:00 -0500  
+title: "Rugby Union Hybrid Friendlies 2024"  
+date: 2025-07-29 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -38,7 +38,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 11.1% | 20.8 |
+| Club Level | 11.1% | 19.9 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 

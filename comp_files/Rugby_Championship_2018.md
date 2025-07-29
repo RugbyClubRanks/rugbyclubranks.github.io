@@ -1,6 +1,6 @@
 ---  
-title: "Rugby Championship 2018 Status"  
-date: 2025-07-28 6:00:00 -0500  
+title: "Rugby Championship 2018"  
+date: 2025-07-29 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -29,7 +29,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 75.0% | 11.2 |
+| Club Level | 75.0% | 11.1 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 

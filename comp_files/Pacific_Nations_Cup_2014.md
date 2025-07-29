@@ -1,6 +1,6 @@
 ---  
-title: "Pacific Nations Cup 2014 Status"  
-date: 2025-07-28 6:00:00 -0500  
+title: "Pacific Nations Cup 2014"  
+date: 2025-07-29 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -31,7 +31,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 75.0% | 6.4 |
+| Club Level | 66.7% | 7.4 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 

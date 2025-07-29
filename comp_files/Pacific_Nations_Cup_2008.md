@@ -1,6 +1,6 @@
 ---  
-title: "Pacific Nations Cup 2008 Status"  
-date: 2025-07-28 6:00:00 -0500  
+title: "Pacific Nations Cup 2008"  
+date: 2025-07-29 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -31,7 +31,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 60.0% | 21.1 |
+| Club Level | 58.3% | 22.1 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 

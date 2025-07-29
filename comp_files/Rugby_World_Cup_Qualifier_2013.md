@@ -1,6 +1,6 @@
 ---  
-title: "Rugby World Cup Qualifier 2013 Status"  
-date: 2025-07-28 6:00:00 -0500  
+title: "Rugby World Cup Qualifier 2013"  
+date: 2025-07-29 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -74,7 +74,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 64.7% | 24.0 |
+| Club Level | 67.2% | 25.2 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 

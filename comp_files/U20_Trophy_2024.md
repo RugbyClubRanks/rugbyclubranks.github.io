@@ -1,6 +1,6 @@
 ---  
-title: "U20 Trophy 2024 Status"  
-date: 2025-07-28 6:00:00 -0500  
+title: "U20 Trophy 2024"  
+date: 2025-07-29 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -33,8 +33,8 @@ aside:
 
 | Club                         |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:-----------------------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| United States of America U20 |         1 |             0.54 |                     5.02 |                            0.13 |                              |                           2.43 |
-| Scotland U20                 |         1 |             0.39 |                    -5.02 |                            0.15 |                              |                           1.85 |
+| United States of America U20 |         1 |            0.6   |                    7.513 |                           0.146 |                              |                          2.618 |
+| Scotland U20                 |         1 |            0.364 |                   -7.513 |                           0.166 |                              |                          1.694 |
 
 
 
@@ -43,14 +43,14 @@ aside:
 
 | Club                         |   Played |   Wins |   Point Differential |   Losing Bonus Points | Try Bonus Points   |   Competition Points |
 |:-----------------------------|---------:|-------:|---------------------:|----------------------:|:-------------------|---------------------:|
-| United States of America U20 |        4 |   3.54 |                46.02 |                  0.13 |                    |                14.43 |
-| Scotland U20                 |        4 |   3.39 |               239.98 |                  0.15 |                    |                13.85 |
-| Japan U20                    |        4 |   3    |               176    |                  0    |                    |                12    |
-| Netherlands U20              |        4 |   2    |                38    |                  0    |                    |                 8    |
-| Uruguay U20                  |        4 |   2    |               -36    |                  0    |                    |                 8    |
-| Samoa U20                    |        4 |   1    |              -179    |                  0    |                    |                 4    |
-| Hong Kong U20                |        4 |   1    |              -186    |                  0    |                    |                 4    |
-| Kenya U20                    |        4 |   0    |               -99    |                  0    |                    |                 0    |
+| United States of America U20 |        4 |  3.6   |               48.513 |                 0.146 |                    |               14.618 |
+| Scotland U20                 |        4 |  3.364 |              237.487 |                 0.166 |                    |               13.694 |
+| Japan U20                    |        4 |  3     |              176     |                 0     |                    |               12     |
+| Netherlands U20              |        4 |  2     |               38     |                 0     |                    |                8     |
+| Uruguay U20                  |        4 |  2     |              -36     |                 0     |                    |                8     |
+| Samoa U20                    |        4 |  1     |             -179     |                 0     |                    |                4     |
+| Hong Kong U20                |        4 |  1     |             -186     |                 0     |                    |                4     |
+| Kenya U20                    |        4 |  0     |              -99     |                 0     |                    |                0     |
 
 
 
@@ -71,7 +71,7 @@ aside:
 ### Scotland U20 V United States of America U20 on 2024/07/17
 
 
-Average Margin: United States of America U20 by 7.7
+Average Margin: United States of America U20 by 7.5
 
 <p float="left">
 <img src="plots\2024-07-17-ScotlandU20_V_UnitedStatesofAmericaU20_performances.png" width="32%" />

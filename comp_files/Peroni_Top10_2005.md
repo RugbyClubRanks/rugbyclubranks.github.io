@@ -1,6 +1,6 @@
 ---  
-title: "Peroni Top10 2005 Status"  
-date: 2025-07-28 6:00:00 -0500  
+title: "Peroni Top10 2005"  
+date: 2025-07-29 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  

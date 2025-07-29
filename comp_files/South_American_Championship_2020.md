@@ -1,6 +1,6 @@
 ---  
-title: "South American Championship 2020 Status"  
-date: 2025-07-28 6:00:00 -0500  
+title: "South American Championship 2020"  
+date: 2025-07-29 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -29,7 +29,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 66.7% | 17.7 |
+| Club Level | 66.7% | 17.8 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 

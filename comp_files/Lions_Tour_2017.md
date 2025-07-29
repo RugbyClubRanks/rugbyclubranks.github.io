@@ -1,6 +1,6 @@
 ---  
-title: "Lions Tour 2017 Status"  
-date: 2025-07-28 6:00:00 -0500  
+title: "Lions Tour 2017"  
+date: 2025-07-29 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -34,7 +34,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 54.5% | 12.7 |
+| Club Level | 50.0% | 12.2 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 

@@ -1,6 +1,6 @@
 ---  
-title: "Japan Rugby League One D2 22/23 Status"  
-date: 2025-07-28 6:00:00 -0500  
+title: "Japan Rugby League One D2 22/23"  
+date: 2025-07-29 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -31,8 +31,8 @@ aside:
 
 | Club              |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:------------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Hino Red Dolphins |         1 |             0.63 |                     5.06 |                            0.2  |                              |                           2.86 |
-| Kamaishi Seawaves |         1 |             0.3  |                    -5.06 |                            0.24 |                              |                           1.58 |
+| Hino Red Dolphins |         1 |            0.594 |                    4.643 |                           0.178 |                              |                          2.636 |
+| Kamaishi Seawaves |         1 |            0.365 |                   -4.643 |                           0.207 |                              |                          1.749 |
 
 
 
@@ -41,12 +41,12 @@ aside:
 
 | Club                  |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:----------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Urayasu D-Rocks       |        9 |   9    |               340    |                  0    |                  8 |                44    |
-| Mie Honda Heat        |        9 |   7    |               159    |                  0    |                  6 |                34    |
-| Toyota Shuttles Aichi |        9 |   5    |               -32    |                  0    |                  5 |                25    |
-| Kamaishi Seawaves     |       10 |   1.3  |              -259.06 |                  1.24 |                  6 |                12.58 |
-| Hino Red Dolphins     |        5 |   1.63 |                 5.06 |                  2.2  |                  3 |                11.86 |
-| Shimizu Blue Sharks   |        8 |   1    |              -213    |                  0    |                  1 |                 5    |
+| Urayasu D-Rocks       |        9 |  9     |              340     |                 0     |                  8 |               44     |
+| Mie Honda Heat        |        9 |  7     |              159     |                 0     |                  6 |               34     |
+| Toyota Shuttles Aichi |        9 |  5     |              -32     |                 0     |                  5 |               25     |
+| Kamaishi Seawaves     |       10 |  1.365 |             -258.643 |                 1.207 |                  6 |               12.749 |
+| Hino Red Dolphins     |        5 |  1.594 |                4.643 |                 2.178 |                  3 |               11.636 |
+| Shimizu Blue Sharks   |        8 |  1     |             -213     |                 0     |                  1 |                5     |
 
 
 
@@ -67,7 +67,7 @@ aside:
 ### Kamaishi Seawaves V Hino Red Dolphins on 2023/03/26
 
 
-Average Margin: Hino Red Dolphins by 5.0
+Average Margin: Hino Red Dolphins by 4.6
 
 <p float="left">
 <img src="plots\2023-03-26-KamaishiSeawaves_V_HinoRedDolphins_performances.png" width="32%" />

@@ -1,6 +1,6 @@
 ---  
-title: "Currie Cup First Division 2013 Status"  
-date: 2025-07-28 6:00:00 -0500  
+title: "Currie Cup First Division 2013"  
+date: 2025-07-29 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
