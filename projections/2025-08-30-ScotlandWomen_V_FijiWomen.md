@@ -9,7 +9,7 @@ categories: "Women's Rugby World Cup 2025" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Scotland Women to win by 11.3.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Scotland Women to win by 11.42.
 
 Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 30 to 19
 
