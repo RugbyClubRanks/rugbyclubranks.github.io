@@ -62,7 +62,7 @@ key: page-recents
 ## International Test Match
 
 
-[2025](comp_files\International_Test_Match_2025) - Prediction Accuracy: 60.7% 
+[2025](comp_files\International_Test_Match_2025) - Prediction Accuracy: 67.4% 
 
 [2024](comp_files\International_Test_Match_2024) - Prediction Accuracy: 72.3% 
 
@@ -368,7 +368,7 @@ key: page-recents
 ## Womens International Test Match
 
 
-[2025](comp_files\Womens_International_Test_Match_2025) - Prediction Accuracy: 66.0% 
+[2025](comp_files\Womens_International_Test_Match_2025) - Prediction Accuracy: 61.7% 
 
 [2024](comp_files\Womens_International_Test_Match_2024) - Prediction Accuracy: 61.5% 
 
@@ -964,7 +964,7 @@ key: page-recents
 ## Currie Cup
 
 
-[2025](comp_files\Currie_Cup_2025) - Prediction Accuracy: 64.3% 
+[2025](comp_files\Currie_Cup_2025) - Prediction Accuracy: 71.4% 
 
 [2024](comp_files\Currie_Cup_2024) - Prediction Accuracy: 62.1% 
 
@@ -1006,7 +1006,7 @@ key: page-recents
 ## NPC
 
 
-[2025](comp_files\NPC_2025) - Prediction Accuracy: 58.6% 
+[2025](comp_files\NPC_2025) - Prediction Accuracy: 52.9% 
 
 [2024](comp_files\NPC_2024) - Prediction Accuracy: 71.4% 
 
@@ -1046,7 +1046,7 @@ key: page-recents
 ## URBA Top 13
 
 
-[2025](comp_files\URBA_Top_13_2025) - Prediction Accuracy: 72.5% 
+[2025](comp_files\URBA_Top_13_2025) - Prediction Accuracy: 73.2% 
 
 [2024](comp_files\URBA_Top_13_2024) - Prediction Accuracy: 65.2% 
 

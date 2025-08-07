@@ -1,6 +1,6 @@
 ---  
 title: "Pacific Nations Cup 2025"  
-date: 2025-08-04 6:00:00 -0500  
+date: 2025-08-07 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,12 +17,12 @@ aside:
 
 | Club                     |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:-------------------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Fiji                     |         2 |            1.409 |                   20.576 |                           0.256 |                              |                          6.016 |
-| Japan                    |         2 |            1.17  |                    8.382 |                           0.349 |                              |                          5.185 |
-| United States of America |         2 |            1.118 |                    5.242 |                           0.399 |                              |                          5.037 |
-| Samoa                    |         2 |            0.903 |                   -1.023 |                           0.451 |                              |                          4.253 |
-| Canada                   |         2 |            0.596 |                  -13.624 |                           0.409 |                              |                          2.935 |
-| Tonga                    |         2 |            0.574 |                  -19.553 |                           0.383 |                              |                          2.821 |
+| Fiji                     |         2 |            1.381 |                   20.595 |                           0.273 |                              |                          5.937 |
+| Japan                    |         2 |            1.186 |                    8.307 |                           0.328 |                              |                          5.242 |
+| United States of America |         2 |            1.086 |                    4.672 |                           0.392 |                              |                          4.94  |
+| Samoa                    |         2 |            0.943 |                   -0.635 |                           0.424 |                              |                          4.372 |
+| Canada                   |         2 |            0.591 |                  -12.979 |                           0.417 |                              |                          2.955 |
+| Tonga                    |         2 |            0.558 |                  -19.96  |                           0.386 |                              |                          2.774 |
 
 
 
@@ -31,12 +31,12 @@ aside:
 
 | Club                     |   Played |   Wins |   Point Differential |   Losing Bonus Points | Try Bonus Points   |   Competition Points |
 |:-------------------------|---------:|-------:|---------------------:|----------------------:|:-------------------|---------------------:|
-| Fiji                     |        2 |  1.409 |               20.576 |                 0.256 |                    |                6.016 |
-| Japan                    |        2 |  1.17  |                8.382 |                 0.349 |                    |                5.185 |
-| United States of America |        2 |  1.118 |                5.242 |                 0.399 |                    |                5.037 |
-| Samoa                    |        2 |  0.903 |               -1.023 |                 0.451 |                    |                4.253 |
-| Canada                   |        2 |  0.596 |              -13.624 |                 0.409 |                    |                2.935 |
-| Tonga                    |        2 |  0.574 |              -19.553 |                 0.383 |                    |                2.821 |
+| Fiji                     |        2 |  1.381 |               20.595 |                 0.273 |                    |                5.937 |
+| Japan                    |        2 |  1.186 |                8.307 |                 0.328 |                    |                5.242 |
+| United States of America |        2 |  1.086 |                4.672 |                 0.392 |                    |                4.94  |
+| Samoa                    |        2 |  0.943 |               -0.635 |                 0.424 |                    |                4.372 |
+| Canada                   |        2 |  0.591 |              -12.979 |                 0.417 |                    |                2.955 |
+| Tonga                    |        2 |  0.558 |              -19.96  |                 0.386 |                    |                2.774 |
 
 
 
@@ -58,7 +58,7 @@ Average Margin: United States of America by 3.8
 ### Tonga V Samoa on 2025/08/22
 
 
-Average Margin: Samoa by 3.4
+Average Margin: Samoa by 3.8
 
 <p float="left">
 <img src="plots\2025-08-22-Tonga_V_Samoa_performances.png" width="32%" />
@@ -82,7 +82,7 @@ Average Margin: Fiji by 16.2
 ### Japan V Canada on 2025/08/30
 
 
-Average Margin: Japan by 9.8
+Average Margin: Japan by 9.2
 
 <p float="left">
 <img src="plots\2025-08-30-Japan_V_Canada_performances.png" width="32%" />
@@ -95,7 +95,7 @@ Average Margin: Japan by 9.8
 ### United States of America V Japan on 2025/09/05
 
 
-Average Margin: United States of America by 1.5
+Average Margin: United States of America by 0.9
 
 <p float="left">
 <img src="plots\2025-09-05-UnitedStatesofAmerica_V_Japan_performances.png" width="32%" />

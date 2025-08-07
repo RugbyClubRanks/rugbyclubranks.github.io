@@ -9,9 +9,9 @@ categories: "Women's International Test Match 2025" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Ireland Women to win by 7.8, and Ireland Women won by 6.0. That's an absolute error of 1.8 for the margin of victory, while my average absolute error has been 14.2 over the past six months. This prediction was more accurate than 91.0% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Ireland Women to win by 6.59, and Ireland Women won by 6.0. That's an absolute error of 0.6 for the margin of victory, while my average absolute error has been 14.2 over the past six months. This prediction was more accurate than 96.8% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 48.0. That's an absolute error of 0.5 compared to a six month average of 14.0. This prediction was more accurate than 96.9% of my recent predictions.
+For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 48.0. That's an absolute error of 1.5 compared to a six month average of 14.0. This prediction was more accurate than 93.3% of my recent predictions.
 ## Projected Performances - Club Model
 
 

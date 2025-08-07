@@ -14,9 +14,9 @@ Competition Accuracy: 44 of 62 (70.97%)
 
 Competition Error: 20.25 points per match
 
-Last Two Week Accuracy: 3 of 4 (75.0%)
+Last Two Week Accuracy: 1 of 1 (100.0%)
 
-Last Two Week Error: 13.85 points per match
+Last Two Week Error: 9.74 points per match
 
 [2025/08/22 - Uruguay V Paraguay](projections\2025-08-22-Uruguay_V_Paraguay)
 ## Pacific Nations Cup
@@ -52,9 +52,9 @@ Competition Accuracy: 28 of 43 (65.12%)
 
 Competition Error: 29.47 points per match
 
-Last Two Week Accuracy: 6 of 7 (85.71%)
+Last Two Week Accuracy: 4 of 4 (100.0%)
 
-Last Two Week Error: 16.28 points per match
+Last Two Week Error: 21.89 points per match
 
 [2025/08/08 - Fiji Women V Samoa Women](projections\2025-08-08-FijiWomen_V_SamoaWomen)
 
@@ -74,9 +74,9 @@ Competition Accuracy: 7 of 8 (87.5%)
 
 Competition Error: 18.54 points per match
 
-Last Two Week Accuracy: 7 of 8 (87.5%)
+Last Two Week Accuracy: 4 of 4 (100.0%)
 
-Last Two Week Error: 18.54 points per match
+Last Two Week Error: 18.49 points per match
 
 [2025/08/08 - Griquas V Western Province](projections\2025-08-08-Griquas_V_WesternProvince)
 

@@ -14,9 +14,9 @@ Competition Accuracy: 44 of 62 (70.97%)
 
 Competition Error: 20.25 points per match
 
-Last Two Week Accuracy: 3 of 4 (75.0%)
+Last Two Week Accuracy: 1 of 1 (100.0%)
 
-Last Two Week Error: 13.85 points per match
+Last Two Week Error: 9.74 points per match
 
 [2025/08/02 - Australia V Lions, 22.0 to 12.0](reviews\2025-08-02-Australia_V_Lions)
 ## Lions Tour
@@ -28,9 +28,9 @@ Competition Accuracy: 6 of 10 (60.0%)
 
 Competition Error: 16.81 points per match
 
-Last Two Week Accuracy: 1 of 3 (33.33%)
+Last Two Week Accuracy: 0 of 1 (0.0%)
 
-Last Two Week Error: 10.4 points per match
+Last Two Week Error: 23.27 points per match
 
 [2025/08/02 - Australia V British and Irish Lions, 22.0 to 12.0](reviews\2025-08-02-Australia_V_BritishandIrishLions)
 ## Women's International Test Match
@@ -42,9 +42,9 @@ Competition Accuracy: 28 of 43 (65.12%)
 
 Competition Error: 29.47 points per match
 
-Last Two Week Accuracy: 6 of 7 (85.71%)
+Last Two Week Accuracy: 4 of 4 (100.0%)
 
-Last Two Week Error: 16.28 points per match
+Last Two Week Error: 21.89 points per match
 
 [2025/08/01 - Australia Women V Wales Women, 36.0 to 5.0](reviews\2025-08-01-AustraliaWomen_V_WalesWomen)
 
@@ -64,9 +64,9 @@ Competition Accuracy: 7 of 8 (87.5%)
 
 Competition Error: 18.54 points per match
 
-Last Two Week Accuracy: 7 of 8 (87.5%)
+Last Two Week Accuracy: 4 of 4 (100.0%)
 
-Last Two Week Error: 18.54 points per match
+Last Two Week Error: 18.49 points per match
 
 [2025/08/01 - Cheetahs V Pumas, 42.0 to 25.0](reviews\2025-08-01-Cheetahs_V_Pumas)
 
@@ -92,15 +92,15 @@ Last Two Week Error: 16.26 points per match
 
 [2025/08/01 - Manawatu V North Harbour, 38.0 to 25.0](reviews\2025-08-01-Manawatu_V_NorthHarbour)
 
-[2025/08/01 - Southland V Otago, 15.0 to 24.0](reviews\2025-08-01-Southland_V_Otago)
-
 [2025/08/01 - Wellington V Canterbury, 15.0 to 33.0](reviews\2025-08-01-Wellington_V_Canterbury)
 
 [2025/08/02 - Bay of Plenty V Tasman, 37.0 to 7.0](reviews\2025-08-02-BayofPlenty_V_Tasman)
 
-[2025/08/02 - Hawke's Bay V Counties Manukau, 54.0 to 14.0](reviews\2025-08-02-HawkesBay_V_CountiesManukau)
+[2025/08/02 - Southland V Otago, 15.0 to 24.0](reviews\2025-08-02-Southland_V_Otago)
 
 [2025/08/02 - Taranaki V Northland, 23.0 to 3.0](reviews\2025-08-02-Taranaki_V_Northland)
+
+[2025/08/03 - Hawke's Bay V Counties Manukau, 54.0 to 14.0](reviews\2025-08-03-HawkesBay_V_CountiesManukau)
 ## URBA Top 13
 
 
