@@ -70,15 +70,13 @@ Last Two Week Error: 21.89 points per match
 
 [In depth model review and projections for Currie Cup 2025](comp_files/Currie_Cup_2025)
 
-Competition Accuracy: 7 of 8 (87.5%)
+Competition Accuracy: 8 of 9 (88.89%)
 
-Competition Error: 18.54 points per match
+Competition Error: 19.46 points per match
 
-Last Two Week Accuracy: 4 of 4 (100.0%)
+Last Two Week Accuracy: 5 of 5 (100.0%)
 
-Last Two Week Error: 18.49 points per match
-
-[2025/08/08 - Griquas V Western Province](projections\2025-08-08-Griquas_V_WesternProvince)
+Last Two Week Error: 20.22 points per match
 
 [2025/08/09 - Blue Bulls V Pumas](projections\2025-08-09-BlueBulls_V_Pumas)
 
@@ -114,17 +112,15 @@ Last Two Week Error: 18.49 points per match
 
 [In depth model review and projections for NPC 2025](comp_files/NPC_2025)
 
-Competition Accuracy: 5 of 7 (71.43%)
+Competition Accuracy: 6 of 8 (75.0%)
 
-Competition Error: 16.26 points per match
+Competition Error: 14.37 points per match
 
-Last Two Week Accuracy: 5 of 7 (71.43%)
+Last Two Week Accuracy: 6 of 8 (75.0%)
 
-Last Two Week Error: 16.26 points per match
+Last Two Week Error: 14.37 points per match
 
 [2025/08/08 - North Harbour V Taranaki](projections\2025-08-08-NorthHarbour_V_Taranaki)
-
-[2025/08/08 - Northland V Southland](projections\2025-08-08-Northland_V_Southland)
 
 [2025/08/08 - Waikato V Wellington](projections\2025-08-08-Waikato_V_Wellington)
 

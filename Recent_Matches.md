@@ -60,13 +60,13 @@ Last Two Week Error: 21.89 points per match
 
 [In depth model review and projections for Currie Cup 2025](comp_files/Currie_Cup_2025)
 
-Competition Accuracy: 7 of 8 (87.5%)
+Competition Accuracy: 8 of 9 (88.89%)
 
-Competition Error: 18.54 points per match
+Competition Error: 19.46 points per match
 
-Last Two Week Accuracy: 4 of 4 (100.0%)
+Last Two Week Accuracy: 5 of 5 (100.0%)
 
-Last Two Week Error: 18.49 points per match
+Last Two Week Error: 20.22 points per match
 
 [2025/08/01 - Cheetahs V Pumas, 42.0 to 25.0](reviews\2025-08-01-Cheetahs_V_Pumas)
 
@@ -75,18 +75,20 @@ Last Two Week Error: 18.49 points per match
 [2025/08/02 - Golden Lions V Western Province, 40.0 to 19.0](reviews\2025-08-02-GoldenLions_V_WesternProvince)
 
 [2025/08/03 - Griquas V Boland Cavaliers, 48.0 to 39.0](reviews\2025-08-03-Griquas_V_BolandCavaliers)
+
+[2025/08/08 - Griquas V Western Province, 47.0 to 17.0](reviews\2025-08-08-Griquas_V_WesternProvince)
 ## NPC
 
 
 [In depth model review and projections for NPC 2025](comp_files/NPC_2025)
 
-Competition Accuracy: 5 of 7 (71.43%)
+Competition Accuracy: 6 of 8 (75.0%)
 
-Competition Error: 16.26 points per match
+Competition Error: 14.37 points per match
 
-Last Two Week Accuracy: 5 of 7 (71.43%)
+Last Two Week Accuracy: 6 of 8 (75.0%)
 
-Last Two Week Error: 16.26 points per match
+Last Two Week Error: 14.37 points per match
 
 [2025/07/31 - Auckland V Waikato, 35.0 to 36.0](reviews\2025-07-31-Auckland_V_Waikato)
 
@@ -101,6 +103,8 @@ Last Two Week Error: 16.26 points per match
 [2025/08/02 - Taranaki V Northland, 23.0 to 3.0](reviews\2025-08-02-Taranaki_V_Northland)
 
 [2025/08/03 - Hawke's Bay V Counties Manukau, 54.0 to 14.0](reviews\2025-08-03-HawkesBay_V_CountiesManukau)
+
+[2025/08/08 - Northland V Southland, 22.0 to 17.0](reviews\2025-08-08-Northland_V_Southland)
 ## URBA Top 13
 
 

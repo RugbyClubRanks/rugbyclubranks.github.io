@@ -1,6 +1,6 @@
 ---  
 title: "Women's International Test Match 2025"  
-date: 2025-08-07 6:00:00 -0500  
+date: 2025-08-08 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -58,14 +58,14 @@ aside:
 
 | Club          |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:--------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Italy Women   |         1 |            0.631 |                    4.311 |                           0.175 |                              |                          2.771 |
-| Samoa Women   |         1 |            0.626 |                    6.846 |                           0.16  |                              |                          2.75  |
-| England Women |         1 |            0.608 |                    4.078 |                           0.184 |                              |                          2.708 |
-| Canada Women  |         1 |            0.618 |                    4.51  |                           0.163 |                              |                          2.705 |
-| France Women  |         1 |            0.346 |                   -4.078 |                           0.236 |                              |                          1.712 |
-| Ireland Women |         1 |            0.347 |                   -4.51  |                           0.237 |                              |                          1.695 |
-| Japan Women   |         1 |            0.333 |                   -4.311 |                           0.237 |                              |                          1.641 |
-| Fiji Women    |         1 |            0.331 |                   -6.846 |                           0.179 |                              |                          1.589 |
+| Samoa Women   |         1 |            0.657 |                    7.9   |                           0.148 |                              |                          2.848 |
+| Italy Women   |         1 |            0.642 |                    4.522 |                           0.172 |                              |                          2.82  |
+| Canada Women  |         1 |            0.627 |                    4.708 |                           0.168 |                              |                          2.762 |
+| England Women |         1 |            0.579 |                    3.976 |                           0.198 |                              |                          2.62  |
+| France Women  |         1 |            0.368 |                   -3.976 |                           0.209 |                              |                          1.787 |
+| Ireland Women |         1 |            0.33  |                   -4.708 |                           0.221 |                              |                          1.627 |
+| Japan Women   |         1 |            0.318 |                   -4.522 |                           0.263 |                              |                          1.615 |
+| Fiji Women    |         1 |            0.307 |                   -7.9   |                           0.186 |                              |                          1.486 |
 
 
 
@@ -74,9 +74,9 @@ aside:
 
 | Club                      |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Japan Women               |        6 |  5.333 |              173.689 |                 0.237 |                  2 |               23.641 |
+| Japan Women               |        6 |  5.318 |              173.478 |                 0.263 |                  2 |               23.615 |
 | Spain Women               |        8 |  4     |              -16     |                 0     |                    |               16     |
-| Canada Women              |        4 |  3.618 |               94.51  |                 0.163 |                  1 |               15.705 |
+| Canada Women              |        4 |  3.627 |               94.708 |                 0.168 |                  1 |               15.762 |
 | Uganda Women              |        3 |  3     |              125     |                 0     |                    |               12     |
 | Netherlands Women         |        5 |  3     |              118     |                 0     |                    |               12     |
 | Brazil Women              |        5 |  3     |               23     |                 0     |                    |               12     |
@@ -84,9 +84,9 @@ aside:
 | Belgium Women             |        2 |  2     |               35     |                 0     |                    |                8     |
 | Tunisia Women             |        3 |  2     |               20     |                 0     |                    |                8     |
 | Kazakhstan Women          |        4 |  2     |              -33     |                 0     |                    |                8     |
-| England Women             |        2 |  1.608 |               94.078 |                 0.184 |                  1 |                7.708 |
-| Italy Women               |        2 |  1.631 |                9.311 |                 0.175 |                    |                6.771 |
-| Ireland Women             |        2 |  1.347 |                1.49  |                 0.237 |                  1 |                6.695 |
+| England Women             |        2 |  1.579 |               93.976 |                 0.198 |                  1 |                7.62  |
+| Italy Women               |        2 |  1.642 |                9.522 |                 0.172 |                    |                6.82  |
+| Ireland Women             |        2 |  1.33  |                1.292 |                 0.221 |                  1 |                6.627 |
 | New Zealand Women         |        1 |  1     |               25     |                 0     |                  1 |                5     |
 | Mexico Women              |        2 |  1     |               18     |                 1     |                    |                5     |
 | Portugal Women            |        4 |  1     |              -19     |                 1     |                    |                5     |
@@ -98,10 +98,10 @@ aside:
 | South Africa Women        |        3 |  1     |              -36     |                 0     |                    |                4     |
 | Hong Kong Women           |        2 |  1     |              -41     |                 0     |                    |                4     |
 | Trinidad and Tobago Women |        2 |  1     |              -62     |                 0     |                    |                4     |
-| Samoa Women               |        1 |  0.626 |                6.846 |                 0.16  |                    |                2.75  |
-| Fiji Women                |        3 |  0.331 |              -49.846 |                 1.179 |                    |                2.589 |
+| Samoa Women               |        1 |  0.657 |                7.9   |                 0.148 |                    |                2.848 |
+| Fiji Women                |        3 |  0.307 |              -50.9   |                 1.186 |                    |                2.486 |
 | Scotland Women            |        2 |  0     |              -11     |                 2     |                    |                2     |
-| France Women              |        1 |  0.346 |               -4.078 |                 0.236 |                    |                1.712 |
+| France Women              |        1 |  0.368 |               -3.976 |                 0.209 |                    |                1.787 |
 | Germany Women             |        1 |  0     |               -4     |                 1     |                    |                1     |
 | Norway Women              |        1 |  0     |              -27     |                 0     |                    |                0     |
 | Finland Women             |        1 |  0     |              -31     |                 0     |                    |                0     |
@@ -117,7 +117,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 61.7% | 27.7 |
+| Club Level | 66.0% | 27.7 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -129,7 +129,7 @@ aside:
 ### Fiji Women V Samoa Women on 2025/08/08
 
 
-Average Margin: Samoa Women by 6.8
+Average Margin: Samoa Women by 7.9
 
 <p float="left">
 <img src="plots\2025-08-08-FijiWomen_V_SamoaWomen_performances.png" width="32%" />
@@ -137,21 +137,10 @@ Average Margin: Samoa Women by 6.8
 <img src="plots\2025-08-08-FijiWomen_V_SamoaWomen_spreads.png" width="32%" />
 </p>
 
-### France Women V England Women on 2025/08/09
-
-
-Average Margin: England Women by 4.1
-
-<p float="left">
-<img src="plots\2025-08-09-FranceWomen_V_EnglandWomen_performances.png" width="32%" />
-<img src="plots\2025-08-09-FranceWomen_V_EnglandWomen_resultbar.png" width="32%" />
-<img src="plots\2025-08-09-FranceWomen_V_EnglandWomen_spreads.png" width="32%" />
-</p>
-
 ### Italy Women V Japan Women on 2025/08/09
 
 
-Average Margin: Italy Women by 4.3
+Average Margin: Italy Women by 4.5
 
 <p float="left">
 <img src="plots\2025-08-09-ItalyWomen_V_JapanWomen_performances.png" width="32%" />
@@ -162,10 +151,21 @@ Average Margin: Italy Women by 4.3
 ### Ireland Women V Canada Women on 2025/08/09
 
 
-Average Margin: Canada Women by 4.5
+Average Margin: Canada Women by 4.7
 
 <p float="left">
 <img src="plots\2025-08-09-IrelandWomen_V_CanadaWomen_performances.png" width="32%" />
 <img src="plots\2025-08-09-IrelandWomen_V_CanadaWomen_resultbar.png" width="32%" />
 <img src="plots\2025-08-09-IrelandWomen_V_CanadaWomen_spreads.png" width="32%" />
+</p>
+
+### France Women V England Women on 2025/08/09
+
+
+Average Margin: England Women by 4.0
+
+<p float="left">
+<img src="plots\2025-08-09-FranceWomen_V_EnglandWomen_performances.png" width="32%" />
+<img src="plots\2025-08-09-FranceWomen_V_EnglandWomen_resultbar.png" width="32%" />
+<img src="plots\2025-08-09-FranceWomen_V_EnglandWomen_spreads.png" width="32%" />
 </p>

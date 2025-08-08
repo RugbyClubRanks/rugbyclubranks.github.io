@@ -1,6 +1,6 @@
 ---  
 title: "Currie Cup 2025"  
-date: 2025-08-07 6:00:00 -0500  
+date: 2025-08-08 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -19,11 +19,11 @@ aside:
 |:-----------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
 | Blue Bulls       |        2 |      2 |                   89 |                     0 |                  2 |                   10 |
 | Golden Lions     |        2 |      2 |                   62 |                     0 |                  2 |                   10 |
+| Griquas          |        3 |      2 |                   18 |                     0 |                  2 |                   10 |
 | Cheetahs         |        2 |      1 |                   15 |                     1 |                  2 |                    7 |
 | Pumas            |        2 |      1 |                    4 |                     0 |                  2 |                    6 |
 | Boland Cavaliers |        2 |      1 |                   -7 |                     0 |                  2 |                    6 |
-| Griquas          |        2 |      1 |                  -12 |                     0 |                  1 |                    5 |
-| Western Province |        2 |      0 |                  -46 |                     0 |                    |                    0 |
+| Western Province |        3 |      0 |                  -76 |                     0 |                    |                    0 |
 | Natal Sharks     |        2 |      0 |                 -105 |                     0 |                    |                    0 |
 
 
@@ -33,14 +33,14 @@ aside:
 
 | Club             |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:-----------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Blue Bulls       |         5 |            3.252 |                   31.732 |                           0.787 |                              |                         14.155 |
-| Golden Lions     |         5 |            3.069 |                   22     |                           0.903 |                              |                         13.601 |
-| Natal Sharks     |         5 |            2.921 |                   15.633 |                           1.009 |                              |                         13.069 |
-| Cheetahs         |         5 |            2.461 |                    2.974 |                           1.1   |                              |                         11.342 |
-| Pumas            |         5 |            2.114 |                  -10.493 |                           1.075 |                              |                          9.899 |
-| Western Province |         5 |            2.016 |                  -11.464 |                           1.163 |                              |                          9.633 |
-| Griquas          |         5 |            1.737 |                  -25.742 |                           1.008 |                              |                          8.302 |
-| Boland Cavaliers |         5 |            1.675 |                  -24.64  |                           1.099 |                              |                          8.143 |
+| Blue Bulls       |         5 |            3.192 |                   28.772 |                           0.815 |                              |                         13.979 |
+| Golden Lions     |         5 |            3.063 |                   21.268 |                           0.947 |                              |                         13.637 |
+| Natal Sharks     |         5 |            2.81  |                   13.765 |                           1.005 |                              |                         12.701 |
+| Cheetahs         |         5 |            2.445 |                    2.263 |                           1.064 |                              |                         11.302 |
+| Pumas            |         5 |            2.211 |                   -7.386 |                           1.055 |                              |                         10.269 |
+| Boland Cavaliers |         5 |            1.684 |                  -24.4   |                           1.09  |                              |                          8.226 |
+| Western Province |         4 |            1.444 |                  -15.062 |                           0.9   |                              |                          7.02  |
+| Griquas          |         4 |            1.348 |                  -19.22  |                           0.902 |                              |                          6.644 |
 
 
 
@@ -49,14 +49,14 @@ aside:
 
 | Club             |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Blue Bulls       |        7 |  5.252 |              120.732 |                 0.787 |                  2 |               24.155 |
-| Golden Lions     |        7 |  5.069 |               84     |                 0.903 |                  2 |               23.601 |
-| Cheetahs         |        7 |  3.461 |               17.974 |                 2.1   |                  2 |               18.342 |
-| Pumas            |        7 |  3.114 |               -6.493 |                 1.075 |                  2 |               15.899 |
-| Boland Cavaliers |        7 |  2.675 |              -31.64  |                 1.099 |                  2 |               14.143 |
-| Griquas          |        7 |  2.737 |              -37.742 |                 1.008 |                  1 |               13.302 |
-| Natal Sharks     |        7 |  2.921 |              -89.367 |                 1.009 |                    |               13.069 |
-| Western Province |        7 |  2.016 |              -57.464 |                 1.163 |                    |                9.633 |
+| Blue Bulls       |        7 |  5.192 |              117.772 |                 0.815 |                  2 |               23.979 |
+| Golden Lions     |        7 |  5.063 |               83.268 |                 0.947 |                  2 |               23.637 |
+| Cheetahs         |        7 |  3.445 |               17.263 |                 2.064 |                  2 |               18.302 |
+| Griquas          |        7 |  3.348 |               -1.22  |                 0.902 |                  2 |               16.644 |
+| Pumas            |        7 |  3.211 |               -3.386 |                 1.055 |                  2 |               16.269 |
+| Boland Cavaliers |        7 |  2.684 |              -31.4   |                 1.09  |                  2 |               14.226 |
+| Natal Sharks     |        7 |  2.81  |              -91.235 |                 1.005 |                    |               12.701 |
+| Western Province |        7 |  1.444 |              -91.062 |                 0.9   |                    |                7.02  |
 
 
 
@@ -65,41 +65,19 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 71.4% | 13.0 |
+| Club Level | 71.4% | 15.8 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
 
 # Future Predictions
 
-## Week 3
-
-### Griquas V Western Province on 2025/08/08
-
-
-Average Margin: Griquas by 2.2
-
-<p float="left">
-<img src="plots\2025-08-08-Griquas_V_WesternProvince_performances.png" width="32%" />
-<img src="plots\2025-08-08-Griquas_V_WesternProvince_resultbar.png" width="32%" />
-<img src="plots\2025-08-08-Griquas_V_WesternProvince_spreads.png" width="32%" />
-</p>
-
-### Natal Sharks V Cheetahs on 2025/08/09
-
-
-Average Margin: Natal Sharks by 2.0
-
-<p float="left">
-<img src="plots\2025-08-09-NatalSharks_V_Cheetahs_performances.png" width="32%" />
-<img src="plots\2025-08-09-NatalSharks_V_Cheetahs_resultbar.png" width="32%" />
-<img src="plots\2025-08-09-NatalSharks_V_Cheetahs_spreads.png" width="32%" />
-</p>
+## Week 4
 
 ### Blue Bulls V Pumas on 2025/08/09
 
 
-Average Margin: Blue Bulls by 9.0
+Average Margin: Blue Bulls by 8.4
 
 <p float="left">
 <img src="plots\2025-08-09-BlueBulls_V_Pumas_performances.png" width="32%" />
@@ -107,10 +85,21 @@ Average Margin: Blue Bulls by 9.0
 <img src="plots\2025-08-09-BlueBulls_V_Pumas_spreads.png" width="32%" />
 </p>
 
+### Natal Sharks V Cheetahs on 2025/08/09
+
+
+Average Margin: Natal Sharks by 1.0
+
+<p float="left">
+<img src="plots\2025-08-09-NatalSharks_V_Cheetahs_performances.png" width="32%" />
+<img src="plots\2025-08-09-NatalSharks_V_Cheetahs_resultbar.png" width="32%" />
+<img src="plots\2025-08-09-NatalSharks_V_Cheetahs_spreads.png" width="32%" />
+</p>
+
 ### Boland Cavaliers V Golden Lions on 2025/08/10
 
 
-Average Margin: Golden Lions by 6.1
+Average Margin: Golden Lions by 6.5
 
 <p float="left">
 <img src="plots\2025-08-10-BolandCavaliers_V_GoldenLions_performances.png" width="32%" />
@@ -118,7 +107,18 @@ Average Margin: Golden Lions by 6.1
 <img src="plots\2025-08-10-BolandCavaliers_V_GoldenLions_spreads.png" width="32%" />
 </p>
 
-## Week 4
+## Week 5
+
+### Griquas V Natal Sharks on 2025/08/15
+
+
+Average Margin: Griquas by 1.7
+
+<p float="left">
+<img src="plots\2025-08-15-Griquas_V_NatalSharks_performances.png" width="32%" />
+<img src="plots\2025-08-15-Griquas_V_NatalSharks_resultbar.png" width="32%" />
+<img src="plots\2025-08-15-Griquas_V_NatalSharks_spreads.png" width="32%" />
+</p>
 
 ### Pumas V Golden Lions on 2025/08/15
 
@@ -131,21 +131,10 @@ Average Margin: Golden Lions by 3.7
 <img src="plots\2025-08-15-Pumas_V_GoldenLions_spreads.png" width="32%" />
 </p>
 
-### Griquas V Natal Sharks on 2025/08/15
-
-
-Average Margin: Natal Sharks by 0.6
-
-<p float="left">
-<img src="plots\2025-08-15-Griquas_V_NatalSharks_performances.png" width="32%" />
-<img src="plots\2025-08-15-Griquas_V_NatalSharks_resultbar.png" width="32%" />
-<img src="plots\2025-08-15-Griquas_V_NatalSharks_spreads.png" width="32%" />
-</p>
-
 ### Cheetahs V Western Province on 2025/08/16
 
 
-Average Margin: Cheetahs by 5.8
+Average Margin: Cheetahs by 7.2
 
 <p float="left">
 <img src="plots\2025-08-16-Cheetahs_V_WesternProvince_performances.png" width="32%" />
@@ -164,23 +153,12 @@ Average Margin: Blue Bulls by 6.6
 <img src="plots\2025-08-17-BolandCavaliers_V_BlueBulls_spreads.png" width="32%" />
 </p>
 
-## Week 5
-
-### Pumas V Boland Cavaliers on 2025/08/22
-
-
-Average Margin: Pumas by 4.9
-
-<p float="left">
-<img src="plots\2025-08-22-Pumas_V_BolandCavaliers_performances.png" width="32%" />
-<img src="plots\2025-08-22-Pumas_V_BolandCavaliers_resultbar.png" width="32%" />
-<img src="plots\2025-08-22-Pumas_V_BolandCavaliers_spreads.png" width="32%" />
-</p>
+## Week 6
 
 ### Natal Sharks V Western Province on 2025/08/22
 
 
-Average Margin: Natal Sharks by 5.5
+Average Margin: Natal Sharks by 6.8
 
 <p float="left">
 <img src="plots\2025-08-22-NatalSharks_V_WesternProvince_performances.png" width="32%" />
@@ -188,10 +166,21 @@ Average Margin: Natal Sharks by 5.5
 <img src="plots\2025-08-22-NatalSharks_V_WesternProvince_spreads.png" width="32%" />
 </p>
 
+### Pumas V Boland Cavaliers on 2025/08/22
+
+
+Average Margin: Pumas by 5.1
+
+<p float="left">
+<img src="plots\2025-08-22-Pumas_V_BolandCavaliers_performances.png" width="32%" />
+<img src="plots\2025-08-22-Pumas_V_BolandCavaliers_resultbar.png" width="32%" />
+<img src="plots\2025-08-22-Pumas_V_BolandCavaliers_spreads.png" width="32%" />
+</p>
+
 ### Cheetahs V Golden Lions on 2025/08/23
 
 
-Average Margin: Golden Lions by 1.5
+Average Margin: Golden Lions by 2.2
 
 <p float="left">
 <img src="plots\2025-08-23-Cheetahs_V_GoldenLions_performances.png" width="32%" />
@@ -202,7 +191,7 @@ Average Margin: Golden Lions by 1.5
 ### Blue Bulls V Griquas on 2025/08/24
 
 
-Average Margin: Blue Bulls by 11.5
+Average Margin: Blue Bulls by 8.9
 
 <p float="left">
 <img src="plots\2025-08-24-BlueBulls_V_Griquas_performances.png" width="32%" />
@@ -210,12 +199,12 @@ Average Margin: Blue Bulls by 11.5
 <img src="plots\2025-08-24-BlueBulls_V_Griquas_spreads.png" width="32%" />
 </p>
 
-## Week 6
+## Week 7
 
 ### Cheetahs V Griquas on 2025/08/29
 
 
-Average Margin: Cheetahs by 6.8
+Average Margin: Cheetahs by 4.4
 
 <p float="left">
 <img src="plots\2025-08-29-Cheetahs_V_Griquas_performances.png" width="32%" />
@@ -223,21 +212,10 @@ Average Margin: Cheetahs by 6.8
 <img src="plots\2025-08-29-Cheetahs_V_Griquas_spreads.png" width="32%" />
 </p>
 
-### Western Province V Pumas on 2025/08/30
-
-
-Average Margin: Western Province by 0.6
-
-<p float="left">
-<img src="plots\2025-08-30-WesternProvince_V_Pumas_performances.png" width="32%" />
-<img src="plots\2025-08-30-WesternProvince_V_Pumas_resultbar.png" width="32%" />
-<img src="plots\2025-08-30-WesternProvince_V_Pumas_spreads.png" width="32%" />
-</p>
-
 ### Natal Sharks V Boland Cavaliers on 2025/08/30
 
 
-Average Margin: Natal Sharks by 5.5
+Average Margin: Natal Sharks by 5.8
 
 <p float="left">
 <img src="plots\2025-08-30-NatalSharks_V_BolandCavaliers_performances.png" width="32%" />
@@ -248,7 +226,7 @@ Average Margin: Natal Sharks by 5.5
 ### Golden Lions V Blue Bulls on 2025/08/30
 
 
-Average Margin: Golden Lions by 1.5
+Average Margin: Golden Lions by 1.2
 
 <p float="left">
 <img src="plots\2025-08-30-GoldenLions_V_BlueBulls_performances.png" width="32%" />
@@ -256,12 +234,23 @@ Average Margin: Golden Lions by 1.5
 <img src="plots\2025-08-30-GoldenLions_V_BlueBulls_spreads.png" width="32%" />
 </p>
 
-## Week 7
+### Western Province V Pumas on 2025/08/30
+
+
+Average Margin: Pumas by 1.4
+
+<p float="left">
+<img src="plots\2025-08-30-WesternProvince_V_Pumas_performances.png" width="32%" />
+<img src="plots\2025-08-30-WesternProvince_V_Pumas_resultbar.png" width="32%" />
+<img src="plots\2025-08-30-WesternProvince_V_Pumas_spreads.png" width="32%" />
+</p>
+
+## Week 8
 
 ### Natal Sharks V Pumas on 2025/09/05
 
 
-Average Margin: Natal Sharks by 2.1
+Average Margin: Natal Sharks by 1.8
 
 <p float="left">
 <img src="plots\2025-09-05-NatalSharks_V_Pumas_performances.png" width="32%" />
@@ -272,7 +261,7 @@ Average Margin: Natal Sharks by 2.1
 ### Blue Bulls V Cheetahs on 2025/09/06
 
 
-Average Margin: Blue Bulls by 6.2
+Average Margin: Blue Bulls by 6.1
 
 <p float="left">
 <img src="plots\2025-09-06-BlueBulls_V_Cheetahs_performances.png" width="32%" />
@@ -280,24 +269,24 @@ Average Margin: Blue Bulls by 6.2
 <img src="plots\2025-09-06-BlueBulls_V_Cheetahs_spreads.png" width="32%" />
 </p>
 
-### Western Province V Boland Cavaliers on 2025/09/06
-
-
-Average Margin: Western Province by 1.5
-
-<p float="left">
-<img src="plots\2025-09-06-WesternProvince_V_BolandCavaliers_performances.png" width="32%" />
-<img src="plots\2025-09-06-WesternProvince_V_BolandCavaliers_resultbar.png" width="32%" />
-<img src="plots\2025-09-06-WesternProvince_V_BolandCavaliers_spreads.png" width="32%" />
-</p>
-
 ### Golden Lions V Griquas on 2025/09/06
 
 
-Average Margin: Golden Lions by 9.2
+Average Margin: Golden Lions by 7.6
 
 <p float="left">
 <img src="plots\2025-09-06-GoldenLions_V_Griquas_performances.png" width="32%" />
 <img src="plots\2025-09-06-GoldenLions_V_Griquas_resultbar.png" width="32%" />
 <img src="plots\2025-09-06-GoldenLions_V_Griquas_spreads.png" width="32%" />
+</p>
+
+### Western Province V Boland Cavaliers on 2025/09/06
+
+
+Average Margin: Western Province by 0.4
+
+<p float="left">
+<img src="plots\2025-09-06-WesternProvince_V_BolandCavaliers_performances.png" width="32%" />
+<img src="plots\2025-09-06-WesternProvince_V_BolandCavaliers_resultbar.png" width="32%" />
+<img src="plots\2025-09-06-WesternProvince_V_BolandCavaliers_spreads.png" width="32%" />
 </p>

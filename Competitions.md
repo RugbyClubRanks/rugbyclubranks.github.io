@@ -62,7 +62,7 @@ key: page-recents
 ## International Test Match
 
 
-[2025](comp_files\International_Test_Match_2025) - Prediction Accuracy: 67.4% 
+[2025](comp_files\International_Test_Match_2025) - Prediction Accuracy: 71.9% 
 
 [2024](comp_files\International_Test_Match_2024) - Prediction Accuracy: 72.3% 
 
@@ -368,7 +368,7 @@ key: page-recents
 ## Womens International Test Match
 
 
-[2025](comp_files\Womens_International_Test_Match_2025) - Prediction Accuracy: 61.7% 
+[2025](comp_files\Womens_International_Test_Match_2025) - Prediction Accuracy: 66.0% 
 
 [2024](comp_files\Womens_International_Test_Match_2024) - Prediction Accuracy: 61.5% 
 
@@ -434,7 +434,7 @@ key: page-recents
 ## Rugby Union Hybrid Friendlies
 
 
-[2025](comp_files\Rugby_Union_Hybrid_Friendlies_2025) - Prediction Accuracy: 50.0% 
+[2025](comp_files\Rugby_Union_Hybrid_Friendlies_2025) - Prediction Accuracy: 62.5% 
 
 [2024](comp_files\Rugby_Union_Hybrid_Friendlies_2024) - Prediction Accuracy: 11.1% 
 ## U20 Rugby Championship
@@ -1006,7 +1006,7 @@ key: page-recents
 ## NPC
 
 
-[2025](comp_files\NPC_2025) - Prediction Accuracy: 52.9% 
+[2025](comp_files\NPC_2025) - Prediction Accuracy: 60.0% 
 
 [2024](comp_files\NPC_2024) - Prediction Accuracy: 71.4% 
 
@@ -1046,7 +1046,7 @@ key: page-recents
 ## URBA Top 13
 
 
-[2025](comp_files\URBA_Top_13_2025) - Prediction Accuracy: 73.2% 
+[2025](comp_files\URBA_Top_13_2025) - Prediction Accuracy: 72.5% 
 
 [2024](comp_files\URBA_Top_13_2024) - Prediction Accuracy: 65.2% 
 

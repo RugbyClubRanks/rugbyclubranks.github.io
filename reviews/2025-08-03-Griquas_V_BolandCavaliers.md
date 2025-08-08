@@ -9,9 +9,9 @@ categories: "Currie Cup 2025" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Griquas to win by 2.62, and Griquas won by 9.0. That's an absolute error of 6.4 for the margin of victory, while my average absolute error has been 14.2 over the past six months. This prediction was more accurate than 69.2% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Griquas to win by 2.26, and Griquas won by 9.0. That's an absolute error of 6.7 for the margin of victory, while my average absolute error has been 14.2 over the past six months. This prediction was more accurate than 67.7% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 61.5 and we have an actual total of 87.0. That's an absolute error of 25.5 compared to a six month average of 14.0. This prediction was more accurate than 14.8% of my recent predictions.
+For the Over/Under model, I predicted a total of 62.5 and we have an actual total of 87.0. That's an absolute error of 24.5 compared to a six month average of 14.1. This prediction was more accurate than 16.2% of my recent predictions.
 ## Projected Performances - Club Model
 
 

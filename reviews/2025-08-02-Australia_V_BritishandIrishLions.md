@@ -9,9 +9,9 @@ categories: "Lions Tour 2025" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted British and Irish Lions to win by 7.1, and Australia won by 10.0. That's an absolute error of 17.1 for the margin of victory, while my average absolute error has been 14.2 over the past six months. This prediction was more accurate than 30.5% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted British and Irish Lions to win by 7.01, and Australia won by 10.0. That's an absolute error of 17.0 for the margin of victory, while my average absolute error has been 14.2 over the past six months. This prediction was more accurate than 30.6% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 56.5 and we have an actual total of 34.0. That's an absolute error of 22.5 compared to a six month average of 14.0. This prediction was more accurate than 19.7% of my recent predictions.
+For the Over/Under model, I predicted a total of 56.5 and we have an actual total of 34.0. That's an absolute error of 22.5 compared to a six month average of 14.1. This prediction was more accurate than 19.8% of my recent predictions.
 ## Projected Performances - Club Model
 
 

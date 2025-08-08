@@ -9,9 +9,9 @@ categories: "Women's International Test Match 2025" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted England Women to win by 24.88, and England Women won by 90.0. That's an absolute error of 65.1 for the margin of victory, while my average absolute error has been 14.2 over the past six months. This prediction was more accurate than 1.0% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted England Women to win by 23.1, and England Women won by 90.0. That's an absolute error of 66.9 for the margin of victory, while my average absolute error has been 14.2 over the past six months. This prediction was more accurate than 1.0% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 64.5 and we have an actual total of 104.0. That's an absolute error of 39.5 compared to a six month average of 14.0. This prediction was more accurate than 3.2% of my recent predictions.
+For the Over/Under model, I predicted a total of 66.5 and we have an actual total of 104.0. That's an absolute error of 37.5 compared to a six month average of 14.1. This prediction was more accurate than 3.8% of my recent predictions.
 ## Projected Performances - Club Model
 
 
