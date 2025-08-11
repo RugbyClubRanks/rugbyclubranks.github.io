@@ -964,7 +964,7 @@ key: page-recents
 ## Currie Cup
 
 
-[2025](comp_files\Currie_Cup_2025) - Prediction Accuracy: 71.4% 
+[2025](comp_files\Currie_Cup_2025) - Prediction Accuracy: 53.6% 
 
 [2024](comp_files\Currie_Cup_2024) - Prediction Accuracy: 62.1% 
 
@@ -1006,7 +1006,7 @@ key: page-recents
 ## NPC
 
 
-[2025](comp_files\NPC_2025) - Prediction Accuracy: 60.0% 
+[2025](comp_files\NPC_2025) - Prediction Accuracy: 65.7% 
 
 [2024](comp_files\NPC_2024) - Prediction Accuracy: 71.4% 
 
@@ -1046,7 +1046,7 @@ key: page-recents
 ## URBA Top 13
 
 
-[2025](comp_files\URBA_Top_13_2025) - Prediction Accuracy: 72.5% 
+[2025](comp_files\URBA_Top_13_2025) - Prediction Accuracy: 71.7% 
 
 [2024](comp_files\URBA_Top_13_2024) - Prediction Accuracy: 65.2% 
 
