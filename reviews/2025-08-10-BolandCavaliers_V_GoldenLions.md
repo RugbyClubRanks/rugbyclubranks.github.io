@@ -9,9 +9,9 @@ categories: "Currie Cup 2025" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Golden Lions to win by 10.5, and Boland Cavaliers won by 19.0. That's an absolute error of 29.5 for the margin of victory, while my average absolute error has been 14.2 over the past six months. This prediction was more accurate than 10.0% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Golden Lions to win by 5.99, and Boland Cavaliers won by 19.0. That's an absolute error of 25.0 for the margin of victory, while my average absolute error has been 14.2 over the past six months. This prediction was more accurate than 15.4% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 60.5 and we have an actual total of 39.0. That's an absolute error of 21.5 compared to a six month average of 14.1. This prediction was more accurate than 21.9% of my recent predictions.
+For the Over/Under model, I predicted a total of 60.5 and we have an actual total of 39.0. That's an absolute error of 21.5 compared to a six month average of 14.1. This prediction was more accurate than 21.4% of my recent predictions.
 ## Projected Performances - Club Model
 
 

@@ -10,13 +10,13 @@ key: page-recents
 
 [In depth model review and projections for Women's International Test Match 2025](comp_files/Womens_International_Test_Match_2025)
 
-Competition Accuracy: 40 of 47 (85.11%)
+Competition Accuracy: 31 of 47 (65.96%)
 
-Competition Error: 18.28 points per match
+Competition Error: 28.74 points per match
 
 Last Two Week Accuracy: 3 of 4 (75.0%)
 
-Last Two Week Error: 20.39 points per match
+Last Two Week Error: 20.85 points per match
 
 [2025/08/08 - Fiji Women V Samoa Women, 31.0 to 12.0](reviews\2025-08-08-FijiWomen_V_SamoaWomen)
 
@@ -32,13 +32,13 @@ Last Two Week Error: 20.39 points per match
 
 [In depth model review and projections for Currie Cup 2025](comp_files/Currie_Cup_2025)
 
-Competition Accuracy: 8 of 12 (66.67%)
+Competition Accuracy: 8 of 13 (61.54%)
 
-Competition Error: 19.99 points per match
+Competition Error: 20.9 points per match
 
-Last Two Week Accuracy: 1 of 4 (25.0%)
+Last Two Week Accuracy: 1 of 5 (20.0%)
 
-Last Two Week Error: 25.14 points per match
+Last Two Week Error: 24.77 points per match
 
 [2025/08/08 - Griquas V Western Province, 47.0 to 17.0](reviews\2025-08-08-Griquas_V_WesternProvince)
 
@@ -47,18 +47,20 @@ Last Two Week Error: 25.14 points per match
 [2025/08/09 - Natal Sharks V Cheetahs, 5.0 to 7.0](reviews\2025-08-09-NatalSharks_V_Cheetahs)
 
 [2025/08/10 - Boland Cavaliers V Golden Lions, 29.0 to 10.0](reviews\2025-08-10-BolandCavaliers_V_GoldenLions)
+
+[2025/08/15 - Griquas V Natal Sharks, 26.0 to 17.0](reviews\2025-08-15-Griquas_V_NatalSharks)
 ## NPC
 
 
 [In depth model review and projections for NPC 2025](comp_files/NPC_2025)
 
-Competition Accuracy: 9 of 14 (64.29%)
+Competition Accuracy: 10 of 15 (66.67%)
 
-Competition Error: 13.24 points per match
+Competition Error: 12.95 points per match
 
-Last Two Week Accuracy: 4 of 7 (57.14%)
+Last Two Week Accuracy: 5 of 8 (62.5%)
 
-Last Two Week Error: 10.81 points per match
+Last Two Week Error: 10.05 points per match
 
 [2025/08/08 - North Harbour V Taranaki, 24.0 to 46.0](reviews\2025-08-08-NorthHarbour_V_Taranaki)
 
@@ -73,18 +75,20 @@ Last Two Week Error: 10.81 points per match
 [2025/08/09 - Tasman V Manawatu, 49.0 to 17.0](reviews\2025-08-09-Tasman_V_Manawatu)
 
 [2025/08/10 - Otago V Hawke's Bay, 21.0 to 27.0](reviews\2025-08-10-Otago_V_HawkesBay)
+
+[2025/08/15 - Southland V Manawatu, 29.0 to 22.0](reviews\2025-08-15-Southland_V_Manawatu)
 ## URBA Top 13
 
 
 [In depth model review and projections for URBA Top 13 2025](comp_files/URBA_Top_13_2025)
 
-Competition Accuracy: 74 of 96 (77.08%)
+Competition Accuracy: 73 of 96 (76.04%)
 
-Competition Error: 9.58 points per match
+Competition Error: 10.18 points per match
 
-Last Two Week Accuracy: 3 of 6 (50.0%)
+Last Two Week Accuracy: 4 of 6 (66.67%)
 
-Last Two Week Error: 6.84 points per match
+Last Two Week Error: 6.95 points per match
 
 [2025/08/09 - Alumni V Newman, 22.0 to 30.0](reviews\2025-08-09-Alumni_V_Newman)
 

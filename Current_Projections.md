@@ -10,9 +10,9 @@ key: page-projections
 
 [In depth model review and projections for International Test Match 2025](comp_files/International_Test_Match_2025)
 
-Competition Accuracy: 46 of 62 (74.19%)
+Competition Accuracy: 44 of 62 (70.97%)
 
-Competition Error: 17.35 points per match
+Competition Error: 20.25 points per match
 
 [2025/08/22 - Uruguay V Paraguay](projections\2025-08-22-Uruguay_V_Paraguay)
 ## Pacific Nations Cup
@@ -126,15 +126,13 @@ Competition Error: 17.35 points per match
 
 [In depth model review and projections for Currie Cup 2025](comp_files/Currie_Cup_2025)
 
-Competition Accuracy: 8 of 12 (66.67%)
+Competition Accuracy: 8 of 13 (61.54%)
 
-Competition Error: 19.99 points per match
+Competition Error: 20.9 points per match
 
-Last Two Week Accuracy: 1 of 4 (25.0%)
+Last Two Week Accuracy: 1 of 5 (20.0%)
 
-Last Two Week Error: 25.14 points per match
-
-[2025/08/15 - Griquas V Natal Sharks](projections\2025-08-15-Griquas_V_NatalSharks)
+Last Two Week Error: 24.77 points per match
 
 [2025/08/16 - Cheetahs V Western Province](projections\2025-08-16-Cheetahs_V_WesternProvince)
 
@@ -170,19 +168,17 @@ Last Two Week Error: 25.14 points per match
 
 [In depth model review and projections for NPC 2025](comp_files/NPC_2025)
 
-Competition Accuracy: 9 of 14 (64.29%)
+Competition Accuracy: 10 of 15 (66.67%)
 
-Competition Error: 13.24 points per match
+Competition Error: 12.95 points per match
 
-Last Two Week Accuracy: 4 of 7 (57.14%)
+Last Two Week Accuracy: 5 of 8 (62.5%)
 
-Last Two Week Error: 10.81 points per match
+Last Two Week Error: 10.05 points per match
 
 [2025/08/15 - Bay of Plenty V Canterbury](projections\2025-08-15-BayofPlenty_V_Canterbury)
 
 [2025/08/15 - Northland V Tasman](projections\2025-08-15-Northland_V_Tasman)
-
-[2025/08/15 - Southland V Manawatu](projections\2025-08-15-Southland_V_Manawatu)
 
 [2025/08/16 - Auckland V Taranaki](projections\2025-08-16-Auckland_V_Taranaki)
 
@@ -320,13 +316,13 @@ Last Two Week Error: 10.81 points per match
 
 [In depth model review and projections for URBA Top 13 2025](comp_files/URBA_Top_13_2025)
 
-Competition Accuracy: 74 of 96 (77.08%)
+Competition Accuracy: 73 of 96 (76.04%)
 
-Competition Error: 9.58 points per match
+Competition Error: 10.18 points per match
 
-Last Two Week Accuracy: 3 of 6 (50.0%)
+Last Two Week Accuracy: 4 of 6 (66.67%)
 
-Last Two Week Error: 6.84 points per match
+Last Two Week Error: 6.95 points per match
 
 [2025/08/16 - CASI V Alumni](projections\2025-08-16-CASI_V_Alumni)
 
