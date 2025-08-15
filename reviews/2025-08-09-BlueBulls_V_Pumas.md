@@ -9,9 +9,9 @@ categories: "Currie Cup 2025" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Blue Bulls to win by 7.17, and Pumas won by 34.0. That's an absolute error of 41.2 for the margin of victory, while my average absolute error has been 14.2 over the past six months. This prediction was more accurate than 4.6% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Blue Bulls to win by 9.9, and Pumas won by 34.0. That's an absolute error of 43.9 for the margin of victory, while my average absolute error has been 14.2 over the past six months. This prediction was more accurate than 3.8% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 61.5 and we have an actual total of 48.0. That's an absolute error of 13.5 compared to a six month average of 14.1. This prediction was more accurate than 42.5% of my recent predictions.
+For the Over/Under model, I predicted a total of 60.5 and we have an actual total of 48.0. That's an absolute error of 12.5 compared to a six month average of 14.1. This prediction was more accurate than 46.0% of my recent predictions.
 ## Projected Performances - Club Model
 
 

@@ -10,13 +10,15 @@ key: page-recents
 
 [In depth model review and projections for Women's International Test Match 2025](comp_files/Womens_International_Test_Match_2025)
 
-Competition Accuracy: 31 of 46 (67.39%)
+Competition Accuracy: 40 of 47 (85.11%)
 
-Competition Error: 28.66 points per match
+Competition Error: 18.28 points per match
 
-Last Two Week Accuracy: 7 of 7 (100.0%)
+Last Two Week Accuracy: 3 of 4 (75.0%)
 
-Last Two Week Error: 19.8 points per match
+Last Two Week Error: 20.39 points per match
+
+[2025/08/08 - Fiji Women V Samoa Women, 31.0 to 12.0](reviews\2025-08-08-FijiWomen_V_SamoaWomen)
 
 [2025/08/09 - France Women V England Women, 6.0 to 40.0](reviews\2025-08-09-FranceWomen_V_EnglandWomen)
 
@@ -32,11 +34,11 @@ Last Two Week Error: 19.8 points per match
 
 Competition Accuracy: 8 of 12 (66.67%)
 
-Competition Error: 21.58 points per match
+Competition Error: 19.99 points per match
 
-Last Two Week Accuracy: 5 of 8 (62.5%)
+Last Two Week Accuracy: 1 of 4 (25.0%)
 
-Last Two Week Error: 23.1 points per match
+Last Two Week Error: 25.14 points per match
 
 [2025/08/08 - Griquas V Western Province, 47.0 to 17.0](reviews\2025-08-08-Griquas_V_WesternProvince)
 
@@ -52,17 +54,15 @@ Last Two Week Error: 23.1 points per match
 
 Competition Accuracy: 9 of 14 (64.29%)
 
-Competition Error: 13.62 points per match
+Competition Error: 13.24 points per match
 
-Last Two Week Accuracy: 9 of 14 (64.29%)
+Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 13.62 points per match
+Last Two Week Error: 10.81 points per match
 
 [2025/08/08 - North Harbour V Taranaki, 24.0 to 46.0](reviews\2025-08-08-NorthHarbour_V_Taranaki)
 
 [2025/08/08 - Northland V Southland, 22.0 to 17.0](reviews\2025-08-08-Northland_V_Southland)
-
-[2025/08/08 - Tasman V Manawatu, 49.0 to 17.0](reviews\2025-08-08-Tasman_V_Manawatu)
 
 [2025/08/08 - Waikato V Wellington, 24.0 to 35.0](reviews\2025-08-08-Waikato_V_Wellington)
 
@@ -70,19 +70,21 @@ Last Two Week Error: 13.62 points per match
 
 [2025/08/09 - Counties Manukau V Bay of Plenty, 22.0 to 39.0](reviews\2025-08-09-CountiesManukau_V_BayofPlenty)
 
-[2025/08/09 - Otago V Hawke's Bay, 21.0 to 27.0](reviews\2025-08-09-Otago_V_HawkesBay)
+[2025/08/09 - Tasman V Manawatu, 49.0 to 17.0](reviews\2025-08-09-Tasman_V_Manawatu)
+
+[2025/08/10 - Otago V Hawke's Bay, 21.0 to 27.0](reviews\2025-08-10-Otago_V_HawkesBay)
 ## URBA Top 13
 
 
 [In depth model review and projections for URBA Top 13 2025](comp_files/URBA_Top_13_2025)
 
-Competition Accuracy: 73 of 96 (76.04%)
+Competition Accuracy: 74 of 96 (77.08%)
 
-Competition Error: 10.18 points per match
+Competition Error: 9.58 points per match
 
-Last Two Week Accuracy: 8 of 12 (66.67%)
+Last Two Week Accuracy: 3 of 6 (50.0%)
 
-Last Two Week Error: 7.26 points per match
+Last Two Week Error: 6.84 points per match
 
 [2025/08/09 - Alumni V Newman, 22.0 to 30.0](reviews\2025-08-09-Alumni_V_Newman)
 

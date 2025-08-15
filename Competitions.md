@@ -62,7 +62,7 @@ key: page-recents
 ## International Test Match
 
 
-[2025](comp_files\International_Test_Match_2025) - Prediction Accuracy: 71.9% 
+[2025](comp_files\International_Test_Match_2025) - Prediction Accuracy: 70.8% 
 
 [2024](comp_files\International_Test_Match_2024) - Prediction Accuracy: 72.3% 
 
@@ -323,6 +323,30 @@ key: page-recents
 [2009](comp_files\Asia_Rugby_Championship_-_Top_3_2009) - Prediction Accuracy: 50.0% 
 
 [2008](comp_files\Asia_Rugby_Championship_-_Top_3_2008) - Prediction Accuracy: 30.0% 
+## Rugby World Cup Qualifier
+
+
+[2022](comp_files\Rugby_World_Cup_Qualifier_2022) - Prediction Accuracy: 52.4% 
+
+[2021](comp_files\Rugby_World_Cup_Qualifier_2021) - Prediction Accuracy: 100.0% 
+
+[2018](comp_files\Rugby_World_Cup_Qualifier_2018) - Prediction Accuracy: 66.7% 
+
+[2017](comp_files\Rugby_World_Cup_Qualifier_2017) - Prediction Accuracy: 60.0% 
+
+[2016](comp_files\Rugby_World_Cup_Qualifier_2016) - Prediction Accuracy: 58.8% 
+
+[2014](comp_files\Rugby_World_Cup_Qualifier_2014) - Prediction Accuracy: 58.8% 
+
+[2013](comp_files\Rugby_World_Cup_Qualifier_2013) - Prediction Accuracy: 67.2% 
+
+[2012](comp_files\Rugby_World_Cup_Qualifier_2012) - Prediction Accuracy: 80.0% 
+
+[2010](comp_files\Rugby_World_Cup_Qualifier_2010) - Prediction Accuracy: 68.2% 
+
+[2009](comp_files\Rugby_World_Cup_Qualifier_2009) - Prediction Accuracy: 63.9% 
+
+[2008](comp_files\Rugby_World_Cup_Qualifier_2008) - Prediction Accuracy: 47.7% 
 ## Rugby Africa Cup
 
 
@@ -383,6 +407,20 @@ key: page-recents
 [2019](comp_files\Womens_International_Test_Match_2019) - Prediction Accuracy: 80.0% 
 
 [2018](comp_files\Womens_International_Test_Match_2018) - Prediction Accuracy: 77.8% 
+## Mens Rugby World Cup
+
+
+[2023](comp_files\Mens_Rugby_World_Cup_2023) - Prediction Accuracy: 75.0% 
+
+[2019](comp_files\Mens_Rugby_World_Cup_2019) - Prediction Accuracy: 77.1% 
+
+[2015](comp_files\Mens_Rugby_World_Cup_2015) - Prediction Accuracy: 58.3% 
+
+[2011](comp_files\Mens_Rugby_World_Cup_2011) - Prediction Accuracy: 66.7% 
+
+[2007](comp_files\Mens_Rugby_World_Cup_2007) - Prediction Accuracy: 79.2% 
+
+[2003](comp_files\Mens_Rugby_World_Cup_2003) - Prediction Accuracy: 87.5% 
 ## South American Championship
 
 
@@ -395,6 +433,16 @@ key: page-recents
 [2016](comp_files\South_American_Championship_2016) - Prediction Accuracy: 52.4% 
 
 [2010](comp_files\South_American_Championship_2010) - Prediction Accuracy: 100.0% 
+## Womens Rugby World Cup
+
+
+[2025](comp_files\Womens_Rugby_World_Cup_2025)
+
+[2022](comp_files\Womens_Rugby_World_Cup_2022) - Prediction Accuracy: 76.9% 
+
+[2017](comp_files\Womens_Rugby_World_Cup_2017) - Prediction Accuracy: 83.3% 
+
+[2014](comp_files\Womens_Rugby_World_Cup_2014) - Prediction Accuracy: 75.0% 
 ## Lions Tour
 
 
@@ -419,24 +467,18 @@ key: page-recents
 [2024](comp_files\U20_Six_Nations_2024) - Prediction Accuracy: 66.7% 
 
 [2023](comp_files\U20_Six_Nations_2023) - Prediction Accuracy: 46.7% 
-## WXV 1
-
-
-[2024](comp_files\WXV_1_2024) - Prediction Accuracy: 80.0% 
-
-[2023](comp_files\WXV_1_2023) - Prediction Accuracy: 66.7% 
 ## WXV 2
 
 
 [2024](comp_files\WXV_2_2024) - Prediction Accuracy: 44.4% 
 
 [2023](comp_files\WXV_2_2023) - Prediction Accuracy: 77.8% 
-## Rugby Union Hybrid Friendlies
+## WXV 1
 
 
-[2025](comp_files\Rugby_Union_Hybrid_Friendlies_2025) - Prediction Accuracy: 62.5% 
+[2024](comp_files\WXV_1_2024) - Prediction Accuracy: 80.0% 
 
-[2024](comp_files\Rugby_Union_Hybrid_Friendlies_2024) - Prediction Accuracy: 11.1% 
+[2023](comp_files\WXV_1_2023) - Prediction Accuracy: 66.7% 
 ## U20 Rugby Championship
 
 
@@ -449,6 +491,12 @@ key: page-recents
 [Status](comp_files\Developmental_International_2025)
 
 [Status](comp_files\Developmental_International_2024) - Prediction Accuracy: 69.5% 
+## Rugby Union Hybrid Friendlies
+
+
+[2025](comp_files\Rugby_Union_Hybrid_Friendlies_2025) - Prediction Accuracy: 62.5% 
+
+[2024](comp_files\Rugby_Union_Hybrid_Friendlies_2024) - Prediction Accuracy: 11.1% 
 ## WXV 3
 
 
@@ -964,7 +1012,7 @@ key: page-recents
 ## Currie Cup
 
 
-[2025](comp_files\Currie_Cup_2025) - Prediction Accuracy: 53.6% 
+[2025](comp_files\Currie_Cup_2025) - Prediction Accuracy: 71.4% 
 
 [2024](comp_files\Currie_Cup_2024) - Prediction Accuracy: 62.1% 
 
@@ -1006,7 +1054,7 @@ key: page-recents
 ## NPC
 
 
-[2025](comp_files\NPC_2025) - Prediction Accuracy: 65.7% 
+[2025](comp_files\NPC_2025) - Prediction Accuracy: 62.9% 
 
 [2024](comp_files\NPC_2024) - Prediction Accuracy: 71.4% 
 
@@ -1046,7 +1094,7 @@ key: page-recents
 ## URBA Top 13
 
 
-[2025](comp_files\URBA_Top_13_2025) - Prediction Accuracy: 71.7% 
+[2025](comp_files\URBA_Top_13_2025) - Prediction Accuracy: 72.5% 
 
 [2024](comp_files\URBA_Top_13_2024) - Prediction Accuracy: 65.2% 
 

@@ -10,13 +10,9 @@ key: page-projections
 
 [In depth model review and projections for International Test Match 2025](comp_files/International_Test_Match_2025)
 
-Competition Accuracy: 44 of 62 (70.97%)
+Competition Accuracy: 46 of 62 (74.19%)
 
-Competition Error: 20.25 points per match
-
-Last Two Week Accuracy: 1 of 1 (100.0%)
-
-Last Two Week Error: 9.74 points per match
+Competition Error: 17.35 points per match
 
 [2025/08/22 - Uruguay V Paraguay](projections\2025-08-22-Uruguay_V_Paraguay)
 ## Pacific Nations Cup
@@ -51,20 +47,58 @@ Last Two Week Error: 9.74 points per match
 [2025/09/05 - Australia V Argentina](projections\2025-09-05-Australia_V_Argentina)
 
 [2025/09/06 - New Zealand V South Africa](projections\2025-09-06-NewZealand_V_SouthAfrica)
-## Women's International Test Match
+## Women's Rugby World Cup
 
 
-[In depth model review and projections for Women's International Test Match 2025](comp_files/Womens_International_Test_Match_2025)
+[In depth model review and projections for Women's Rugby World Cup 2025](comp_files/Womens_Rugby_World_Cup_2025)
 
-Competition Accuracy: 31 of 46 (67.39%)
+[2025/08/22 - England Women V USA Women](projections\2025-08-22-EnglandWomen_V_USAWomen)
 
-Competition Error: 28.66 points per match
+[2025/08/23 - Australia Women V Samoa Women](projections\2025-08-23-AustraliaWomen_V_SamoaWomen)
 
-Last Two Week Accuracy: 7 of 7 (100.0%)
+[2025/08/23 - Canada Women V Fiji Women](projections\2025-08-23-CanadaWomen_V_FijiWomen)
 
-Last Two Week Error: 19.8 points per match
+[2025/08/23 - France Women V Italy Women](projections\2025-08-23-FranceWomen_V_ItalyWomen)
 
-[2025/08/08 - Fiji Women V Samoa Women](projections\2025-08-08-FijiWomen_V_SamoaWomen)
+[2025/08/23 - Scotland Women V Wales Women](projections\2025-08-23-ScotlandWomen_V_WalesWomen)
+
+[2025/08/24 - Ireland Women V Japan Women](projections\2025-08-24-IrelandWomen_V_JapanWomen)
+
+[2025/08/24 - New Zealand Women V Spain Women](projections\2025-08-24-NewZealandWomen_V_SpainWomen)
+
+[2025/08/24 - South Africa Women V Brazil Women](projections\2025-08-24-SouthAfricaWomen_V_BrazilWomen)
+
+[2025/08/30 - Canada Women V Wales Women](projections\2025-08-30-CanadaWomen_V_WalesWomen)
+
+[2025/08/30 - England Women V Samoa Women](projections\2025-08-30-EnglandWomen_V_SamoaWomen)
+
+[2025/08/30 - Scotland Women V Fiji Women](projections\2025-08-30-ScotlandWomen_V_FijiWomen)
+
+[2025/08/30 - USA Women V Australia Women](projections\2025-08-30-USAWomen_V_AustraliaWomen)
+
+[2025/08/31 - France Women V Brazil Women](projections\2025-08-31-FranceWomen_V_BrazilWomen)
+
+[2025/08/31 - Ireland Women V Spain Women](projections\2025-08-31-IrelandWomen_V_SpainWomen)
+
+[2025/08/31 - Italy Women V South Africa Women](projections\2025-08-31-ItalyWomen_V_SouthAfricaWomen)
+
+[2025/08/31 - New Zealand Women V Japan Women](projections\2025-08-31-NewZealandWomen_V_JapanWomen)
+
+[2025/09/06 - Canada Women V Scotland Women](projections\2025-09-06-CanadaWomen_V_ScotlandWomen)
+
+[2025/09/06 - England Women V Australia Women](projections\2025-09-06-EnglandWomen_V_AustraliaWomen)
+
+[2025/09/06 - USA Women V Samoa Women](projections\2025-09-06-USAWomen_V_SamoaWomen)
+
+[2025/09/06 - Wales Women V Fiji Women](projections\2025-09-06-WalesWomen_V_FijiWomen)
+
+[2025/09/07 - France Women V South Africa Women](projections\2025-09-07-FranceWomen_V_SouthAfricaWomen)
+
+[2025/09/07 - Italy Women V Brazil Women](projections\2025-09-07-ItalyWomen_V_BrazilWomen)
+
+[2025/09/07 - Japan Women V Spain Women](projections\2025-09-07-JapanWomen_V_SpainWomen)
+
+[2025/09/07 - New Zealand Women V Ireland Women](projections\2025-09-07-NewZealandWomen_V_IrelandWomen)
 # Top Flight Competitions
 
 ## Top 14
@@ -94,11 +128,11 @@ Last Two Week Error: 19.8 points per match
 
 Competition Accuracy: 8 of 12 (66.67%)
 
-Competition Error: 21.58 points per match
+Competition Error: 19.99 points per match
 
-Last Two Week Accuracy: 5 of 8 (62.5%)
+Last Two Week Accuracy: 1 of 4 (25.0%)
 
-Last Two Week Error: 23.1 points per match
+Last Two Week Error: 25.14 points per match
 
 [2025/08/15 - Griquas V Natal Sharks](projections\2025-08-15-Griquas_V_NatalSharks)
 
@@ -138,11 +172,11 @@ Last Two Week Error: 23.1 points per match
 
 Competition Accuracy: 9 of 14 (64.29%)
 
-Competition Error: 13.62 points per match
+Competition Error: 13.24 points per match
 
-Last Two Week Accuracy: 9 of 14 (64.29%)
+Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 13.62 points per match
+Last Two Week Error: 10.81 points per match
 
 [2025/08/15 - Bay of Plenty V Canterbury](projections\2025-08-15-BayofPlenty_V_Canterbury)
 
@@ -286,13 +320,13 @@ Last Two Week Error: 13.62 points per match
 
 [In depth model review and projections for URBA Top 13 2025](comp_files/URBA_Top_13_2025)
 
-Competition Accuracy: 73 of 96 (76.04%)
+Competition Accuracy: 74 of 96 (77.08%)
 
-Competition Error: 10.18 points per match
+Competition Error: 9.58 points per match
 
-Last Two Week Accuracy: 8 of 12 (66.67%)
+Last Two Week Accuracy: 3 of 6 (50.0%)
 
-Last Two Week Error: 7.26 points per match
+Last Two Week Error: 6.84 points per match
 
 [2025/08/16 - CASI V Alumni](projections\2025-08-16-CASI_V_Alumni)
 
