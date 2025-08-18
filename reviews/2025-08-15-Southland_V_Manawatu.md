@@ -9,9 +9,9 @@ categories: "NPC 2025" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Southland to win by 6.3, and Southland won by 7.0. That's an absolute error of 0.7 for the margin of victory, while my average absolute error has been 14.2 over the past six months. This prediction was more accurate than 96.6% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Southland to win by 5.46, and Southland won by 7.0. That's an absolute error of 1.5 for the margin of victory, while my average absolute error has been 14.2 over the past six months. This prediction was more accurate than 91.9% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 58.5 and we have an actual total of 51.0. That's an absolute error of 7.5 compared to a six month average of 14.1. This prediction was more accurate than 65.7% of my recent predictions.
+For the Over/Under model, I predicted a total of 58.5 and we have an actual total of 51.0. That's an absolute error of 7.5 compared to a six month average of 14.0. This prediction was more accurate than 65.8% of my recent predictions.
 ## Projected Performances - Club Model
 
 

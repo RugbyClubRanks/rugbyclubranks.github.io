@@ -9,7 +9,7 @@ categories: "Women's Rugby World Cup 2025" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting England Women to win by 5.35.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting England Women to win by 5.33.
 
 Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 19 to 24
 
