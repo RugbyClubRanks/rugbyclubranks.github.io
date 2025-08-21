@@ -84,11 +84,11 @@ key: page-projections
 
 [2025-09-12 - Canada Women V Samoa Women on 2025-09-12](projections\2025-09-12-CanadaWomen_V_SamoaWomen)
 
-[2025-09-12 - Fiji Women V Australia Women on 2025-09-12](projections\2025-09-12-FijiWomen_V_AustraliaWomen)
-
-[2025-09-12 - Australia Women V Canada Women on 2025-09-12](projections\2025-09-12-AustraliaWomen_V_CanadaWomen)
+[2025-09-12 - France Women V Ireland Women on 2025-09-12](projections\2025-09-12-FranceWomen_V_IrelandWomen)
 
 [2025-09-12 - Australia Women V Scotland Women on 2025-09-12](projections\2025-09-12-AustraliaWomen_V_ScotlandWomen)
+
+[2025-09-12 - Australia Women V Wales Women on 2025-09-12](projections\2025-09-12-AustraliaWomen_V_WalesWomen)
 
 [2025-09-12 - Brazil Women V Ireland Women on 2025-09-12](projections\2025-09-12-BrazilWomen_V_IrelandWomen)
 
@@ -96,7 +96,7 @@ key: page-projections
 
 [2025-09-12 - Canada Women V England Women on 2025-09-12](projections\2025-09-12-CanadaWomen_V_EnglandWomen)
 
-[2025-09-12 - Italy Women V New Zealand Women on 2025-09-12](projections\2025-09-12-ItalyWomen_V_NewZealandWomen)
+[2025-09-12 - Italy Women V Spain Women on 2025-09-12](projections\2025-09-12-ItalyWomen_V_SpainWomen)
 
 [2025-09-12 - Canada Women V USA Women on 2025-09-12](projections\2025-09-12-CanadaWomen_V_USAWomen)
 
@@ -107,8 +107,6 @@ key: page-projections
 [2025-09-12 - England Women V Wales Women on 2025-09-12](projections\2025-09-12-EnglandWomen_V_WalesWomen)
 
 [2025-09-12 - England Women V Scotland Women on 2025-09-12](projections\2025-09-12-EnglandWomen_V_ScotlandWomen)
-
-[2025-09-12 - France Women V Ireland Women on 2025-09-12](projections\2025-09-12-FranceWomen_V_IrelandWomen)
 
 [2025-09-12 - France Women V Japan Women on 2025-09-12](projections\2025-09-12-FranceWomen_V_JapanWomen)
 
@@ -127,6 +125,8 @@ key: page-projections
 [2025-09-12 - Italy Women V Ireland Women on 2025-09-12](projections\2025-09-12-ItalyWomen_V_IrelandWomen)
 
 [2025-09-12 - Italy Women V Japan Women on 2025-09-12](projections\2025-09-12-ItalyWomen_V_JapanWomen)
+
+[2025-09-12 - Italy Women V New Zealand Women on 2025-09-12](projections\2025-09-12-ItalyWomen_V_NewZealandWomen)
 ## Rugby Championship
 
 
@@ -220,11 +220,11 @@ Competition Error: 20.25 points per match
 
 Competition Accuracy: 10 of 16 (62.5%)
 
-Competition Error: 18.55 points per match
+Competition Error: 18.53 points per match
 
-Last Two Week Accuracy: 3 of 8 (37.5%)
+Last Two Week Accuracy: 2 of 4 (50.0%)
 
-Last Two Week Error: 18.57 points per match
+Last Two Week Error: 9.39 points per match
 
 [2025/08/22 - Natal Sharks V Western Province](projections\2025-08-22-NatalSharks_V_WesternProvince)
 
@@ -254,7 +254,9 @@ Last Two Week Error: 18.57 points per match
 
 [In depth model review and projections for Pro D2 25/26](comp_files/Pro_D2_2526)
 
-[2025/08/28 - Biarritz Olympique V Beziers](projections\2025-08-28-BiarritzOlympique_V_Beziers)
+[2025/08/28 - Brive V Vannes](projections\2025-08-28-Brive_V_Vannes)
+
+[2025/09/04 - Grenoble V Aurillac](projections\2025-09-04-Grenoble_V_Aurillac)
 
 [2025/09/04 - Dax V Brive](projections\2025-09-04-Dax_V_Brive)
 
@@ -276,17 +278,17 @@ Last Two Week Error: 18.57 points per match
 
 [2025/08/28 - Mont-de-Marsan V Colomiers](projections\2025-08-28-Mont-de-Marsan_V_Colomiers)
 
-[2025/08/28 - Brive V Vannes](projections\2025-08-28-Brive_V_Vannes)
+[2025/08/28 - Biarritz Olympique V Beziers](projections\2025-08-28-BiarritzOlympique_V_Beziers)
 
 [2025/08/28 - Aurillac V Carcassonne](projections\2025-08-28-Aurillac_V_Carcassonne)
 
 [2025/09/04 - Provence Rugby V Valence Romans Drome Rugby](projections\2025-09-04-ProvenceRugby_V_ValenceRomansDromeRugby)
 
-[2025/09/04 - Grenoble V Aurillac](projections\2025-09-04-Grenoble_V_Aurillac)
-
 [2025/09/04 - Vannes V Soyaux-Angouleme](projections\2025-09-04-Vannes_V_Soyaux-Angouleme)
 
 [2025/09/11 - Agen V Grenoble](projections\2025-09-11-Agen_V_Grenoble)
+
+[2025/09/11 - Aurillac V Beziers](projections\2025-09-11-Aurillac_V_Beziers)
 
 [2025/09/11 - USON Nevers V Carcassonne](projections\2025-09-11-USONNevers_V_Carcassonne)
 
@@ -299,12 +301,12 @@ Last Two Week Error: 18.57 points per match
 [2025/09/11 - Mont-de-Marsan V Vannes](projections\2025-09-11-Mont-de-Marsan_V_Vannes)
 
 [2025/09/11 - Brive V Valence Romans Drome Rugby](projections\2025-09-11-Brive_V_ValenceRomansDromeRugby)
-
-[2025/09/11 - Aurillac V Beziers](projections\2025-09-11-Aurillac_V_Beziers)
 ## Nationale
 
 
 [In depth model review and projections for Nationale 25/26](comp_files/Nationale_2526)
+
+[2025/09/05 - Rouen V Marcq-en-Baroeul](projections\2025-09-05-Rouen_V_Marcq-en-Baroeul)
 
 [2025/09/13 - Rennes V Niort](projections\2025-09-13-Rennes_V_Niort)
 
@@ -327,8 +329,6 @@ Last Two Week Error: 18.57 points per match
 [2025/09/06 - Bourgoin-Jallieu V Nice](projections\2025-09-06-Bourgoin-Jallieu_V_Nice)
 
 [2025/09/05 - Tarbes V PÃ©rigueux](projections\2025-09-05-Tarbes_V_Perigueux)
-
-[2025/09/05 - Rouen V Marcq-en-Baroeul](projections\2025-09-05-Rouen_V_Marcq-en-Baroeul)
 
 [2025/09/05 - Massy V Rennes](projections\2025-09-05-Massy_V_Rennes)
 
@@ -370,11 +370,9 @@ Competition Accuracy: 79 of 102 (77.45%)
 
 Competition Error: 9.85 points per match
 
-Last Two Week Accuracy: 10 of 12 (83.33%)
+Last Two Week Accuracy: 6 of 6 (100.0%)
 
-Last Two Week Error: 5.69 points per match
-
-[2025/08/30 - La Plata V Los Tilos](projections\2025-08-30-LaPlata_V_LosTilos)
+Last Two Week Error: 4.43 points per match
 
 [2025/09/13 - La Plata V Hindu](projections\2025-09-13-LaPlata_V_Hindu)
 
@@ -398,6 +396,8 @@ Last Two Week Error: 5.69 points per match
 
 [2025/09/06 - Hindu V Buenos Aires](projections\2025-09-06-Hindu_V_BuenosAires)
 
+[2025/08/30 - La Plata V Los Tilos](projections\2025-08-30-LaPlata_V_LosTilos)
+
 [2025/08/30 - CUBA V SIC](projections\2025-08-30-CUBA_V_SIC)
 
 [2025/08/30 - CASI V San Luis](projections\2025-08-30-CASI_V_SanLuis)
@@ -414,15 +414,17 @@ Last Two Week Error: 5.69 points per match
 
 [In depth model review and projections for NPC 2025](comp_files/NPC_2025)
 
-Competition Accuracy: 14 of 21 (66.67%)
+Competition Accuracy: 14 of 22 (63.64%)
 
-Competition Error: 13.96 points per match
+Competition Error: 14.34 points per match
 
-Last Two Week Accuracy: 9 of 14 (64.29%)
+Last Two Week Accuracy: 5 of 8 (62.5%)
 
-Last Two Week Error: 12.82 points per match
+Last Two Week Error: 15.6 points per match
 
-[2025/08/22 - Taranaki V Waikato](projections\2025-08-22-Taranaki_V_Waikato)
+[2025/08/23 - Auckland V Northland](projections\2025-08-23-Auckland_V_Northland)
+
+[2025/09/04 - Counties Manukau V North Harbour](projections\2025-09-04-CountiesManukau_V_NorthHarbour)
 
 [2025/08/30 - Wellington V Auckland](projections\2025-08-30-Wellington_V_Auckland)
 
@@ -444,19 +446,17 @@ Last Two Week Error: 12.82 points per match
 
 [2025/08/23 - North Harbour V Tasman](projections\2025-08-23-NorthHarbour_V_Tasman)
 
-[2025/08/23 - Auckland V Northland](projections\2025-08-23-Auckland_V_Northland)
+[2025/08/22 - Taranaki V Waikato](projections\2025-08-22-Taranaki_V_Waikato)
 
 [2025/08/22 - Hawke's Bay V Canterbury](projections\2025-08-22-Hawke'sBay_V_Canterbury)
-
-[2025/08/21 - Bay of Plenty V Southland](projections\2025-08-21-BayofPlenty_V_Southland)
-
-[2025/09/04 - Counties Manukau V North Harbour](projections\2025-09-04-CountiesManukau_V_NorthHarbour)
 
 [2025/09/05 - Hawke's Bay V Wellington](projections\2025-09-05-Hawke'sBay_V_Wellington)
 
 [2025/09/05 - Manawatu V Waikato](projections\2025-09-05-Manawatu_V_Waikato)
 
 [2025/09/05 - Otago V Northland](projections\2025-09-05-Otago_V_Northland)
+
+[2025/09/05 - Southland V Canterbury](projections\2025-09-05-Southland_V_Canterbury)
 
 [2025/09/13 - Southland V Counties Manukau](projections\2025-09-13-Southland_V_CountiesManukau)
 
@@ -475,5 +475,3 @@ Last Two Week Error: 12.82 points per match
 [2025/09/06 - Tasman V Auckland](projections\2025-09-06-Tasman_V_Auckland)
 
 [2025/09/06 - Taranaki V Bay of Plenty](projections\2025-09-06-Taranaki_V_BayofPlenty)
-
-[2025/09/05 - Southland V Canterbury](projections\2025-09-05-Southland_V_Canterbury)

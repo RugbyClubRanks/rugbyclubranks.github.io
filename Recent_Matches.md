@@ -30,11 +30,11 @@ Last Two Week Error: 24.68 points per match
 
 Competition Accuracy: 10 of 16 (62.5%)
 
-Competition Error: 18.55 points per match
+Competition Error: 18.53 points per match
 
-Last Two Week Accuracy: 3 of 8 (37.5%)
+Last Two Week Accuracy: 2 of 4 (50.0%)
 
-Last Two Week Error: 18.57 points per match
+Last Two Week Error: 9.39 points per match
 
 [2025/08/15 - Griquas V Natal Sharks, 26.0 to 17.0](reviews\2025-08-15-Griquas_V_NatalSharks)
 
@@ -43,32 +43,6 @@ Last Two Week Error: 18.57 points per match
 [2025/08/17 - Boland Cavaliers V Blue Bulls, 28.0 to 20.0](reviews\2025-08-17-BolandCavaliers_V_BlueBulls)
 
 [2025/08/16 - Pumas V Golden Lions, 35.0 to 36.0](reviews\2025-08-16-Pumas_V_GoldenLions)
-## NPC
-
-
-[In depth model review and projections for NPC 2025](comp_files/NPC_2025)
-
-Competition Accuracy: 14 of 21 (66.67%)
-
-Competition Error: 13.96 points per match
-
-Last Two Week Accuracy: 9 of 14 (64.29%)
-
-Last Two Week Error: 12.82 points per match
-
-[2025/08/16 - Waikato V Counties Manukau, 27.0 to 26.0](reviews\2025-08-16-Waikato_V_CountiesManukau)
-
-[2025/08/16 - Wellington V Otago, 41.0 to 46.0](reviews\2025-08-16-Wellington_V_Otago)
-
-[2025/08/16 - Hawke's Bay V North Harbour, 36.0 to 22.0](reviews\2025-08-16-HawkesBay_V_NorthHarbour)
-
-[2025/08/15 - Southland V Manawatu, 29.0 to 22.0](reviews\2025-08-15-Southland_V_Manawatu)
-
-[2025/08/15 - Northland V Tasman, 14.0 to 28.0](reviews\2025-08-15-Northland_V_Tasman)
-
-[2025/08/15 - Bay of Plenty V Canterbury, 7.0 to 21.0](reviews\2025-08-15-BayofPlenty_V_Canterbury)
-
-[2025/08/15 - Auckland V Taranaki, 8.0 to 50.0](reviews\2025-08-15-Auckland_V_Taranaki)
 ## URBA Top 13
 
 
@@ -78,9 +52,9 @@ Competition Accuracy: 79 of 102 (77.45%)
 
 Competition Error: 9.85 points per match
 
-Last Two Week Accuracy: 10 of 12 (83.33%)
+Last Two Week Accuracy: 6 of 6 (100.0%)
 
-Last Two Week Error: 5.69 points per match
+Last Two Week Error: 4.43 points per match
 
 [2025/08/16 - SIC V La Plata, 26.0 to 10.0](reviews\2025-08-16-SIC_V_LaPlata)
 
@@ -93,3 +67,31 @@ Last Two Week Error: 5.69 points per match
 [2025/08/16 - CASI V Alumni, 31.0 to 20.0](reviews\2025-08-16-CASI_V_Alumni)
 
 [2025/08/16 - San Luis V Belgrano AC, 17.0 to 22.0](reviews\2025-08-16-SanLuis_V_BelgranoAC)
+## NPC
+
+
+[In depth model review and projections for NPC 2025](comp_files/NPC_2025)
+
+Competition Accuracy: 14 of 22 (63.64%)
+
+Competition Error: 14.34 points per match
+
+Last Two Week Accuracy: 5 of 8 (62.5%)
+
+Last Two Week Error: 15.6 points per match
+
+[2025/08/21 - Bay of Plenty V Southland, 25.0 to 30.0](reviews\2025-08-21-BayofPlenty_V_Southland)
+
+[2025/08/17 - Waikato V Counties Manukau, 27.0 to 26.0](reviews\2025-08-17-Waikato_V_CountiesManukau)
+
+[2025/08/16 - Wellington V Otago, 41.0 to 46.0](reviews\2025-08-16-Wellington_V_Otago)
+
+[2025/08/16 - Hawke's Bay V North Harbour, 36.0 to 22.0](reviews\2025-08-16-HawkesBay_V_NorthHarbour)
+
+[2025/08/16 - Auckland V Taranaki, 8.0 to 50.0](reviews\2025-08-16-Auckland_V_Taranaki)
+
+[2025/08/15 - Southland V Manawatu, 29.0 to 22.0](reviews\2025-08-15-Southland_V_Manawatu)
+
+[2025/08/15 - Northland V Tasman, 14.0 to 28.0](reviews\2025-08-15-Northland_V_Tasman)
+
+[2025/08/15 - Bay of Plenty V Canterbury, 7.0 to 21.0](reviews\2025-08-15-BayofPlenty_V_Canterbury)
