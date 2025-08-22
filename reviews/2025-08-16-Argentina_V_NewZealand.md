@@ -9,9 +9,9 @@ categories: "Rugby Championship 2025" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted New Zealand to win by 4.28, and New Zealand won by 17.0. That's an absolute error of 12.7 for the margin of victory, while my average absolute error has been 14.2 over the past six months. This prediction was more accurate than 43.5% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted New Zealand to win by 4.94, and New Zealand won by 17.0. That's an absolute error of 12.1 for the margin of victory, while my average absolute error has been 14.2 over the past six months. This prediction was more accurate than 45.9% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 59.5 and we have an actual total of 65.0. That's an absolute error of 5.5 compared to a six month average of 13.9. This prediction was more accurate than 75.5% of my recent predictions.
+For the Over/Under model, I predicted a total of 62.5 and we have an actual total of 65.0. That's an absolute error of 2.5 compared to a six month average of 13.9. This prediction was more accurate than 88.2% of my recent predictions.
 ## Projected Performances - Club Model
 
 
