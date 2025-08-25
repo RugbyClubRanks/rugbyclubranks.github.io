@@ -5,22 +5,80 @@ key: page-recents
 ---
 # International Competitions
 
+## Women's Rugby World Cup
+
+
+[In depth model review and projections for Women's Rugby World Cup 2025](comp_files/Womens_Rugby_World_Cup_2025)
+
+Competition Accuracy: 7 of 8 (87.5%)
+
+Competition Error: 25.34 points per match
+
+Last Two Week Accuracy: 7 of 8 (87.5%)
+
+Last Two Week Error: 25.34 points per match
+
+[2025/08/22 - England Women V USA Women, 69.0 to 7.0](reviews\2025-08-22-EnglandWomen_V_USAWomen)
+
+[2025/08/23 - Australia Women V Samoa Women, 73.0 to 0.0](reviews\2025-08-23-AustraliaWomen_V_SamoaWomen)
+
+[2025/08/23 - Canada Women V Fiji Women, 65.0 to 7.0](reviews\2025-08-23-CanadaWomen_V_FijiWomen)
+
+[2025/08/23 - France Women V Italy Women, 24.0 to 0.0](reviews\2025-08-23-FranceWomen_V_ItalyWomen)
+
+[2025/08/23 - Scotland Women V Wales Women, 38.0 to 8.0](reviews\2025-08-23-ScotlandWomen_V_WalesWomen)
+
+[2025/08/24 - Ireland Women V Japan Women, 42.0 to 14.0](reviews\2025-08-24-IrelandWomen_V_JapanWomen)
+
+[2025/08/24 - New Zealand Women V Spain Women, 54.0 to 8.0](reviews\2025-08-24-NewZealandWomen_V_SpainWomen)
+
+[2025/08/24 - South Africa Women V Brazil Women, 66.0 to 6.0](reviews\2025-08-24-SouthAfricaWomen_V_BrazilWomen)
+## International Test Match
+
+
+[In depth model review and projections for International Test Match 2025](comp_files/International_Test_Match_2025)
+
+Competition Accuracy: 45 of 63 (71.43%)
+
+Competition Error: 20.48 points per match
+
+Last Two Week Accuracy: 1 of 1 (100.0%)
+
+Last Two Week Error: 34.68 points per match
+
+[2025/08/23 - Uruguay V Paraguay, 78.0 to 10.0](reviews\2025-08-23-Uruguay_V_Paraguay)
+## Pacific Nations Cup
+
+
+[In depth model review and projections for Pacific Nations Cup 2025](comp_files/Pacific_Nations_Cup_2025)
+
+Competition Accuracy: 0 of 2 (0.0%)
+
+Competition Error: 20.71 points per match
+
+Last Two Week Accuracy: 0 of 2 (0.0%)
+
+Last Two Week Error: 20.71 points per match
+
+[2025/08/22 - Canada V United States of America, 34.0 to 20.0](reviews\2025-08-22-Canada_V_UnitedStatesofAmerica)
+
+[2025/08/22 - Tonga V Samoa, 30.0 to 16.0](reviews\2025-08-22-Tonga_V_Samoa)
 ## Rugby Championship
 
 
 [In depth model review and projections for Rugby Championship 2025](comp_files/Rugby_Championship_2025)
 
-Competition Accuracy: 1 of 2 (50.0%)
+Competition Accuracy: 2 of 4 (50.0%)
 
-Competition Error: 24.68 points per match
+Competition Error: 20.28 points per match
 
-Last Two Week Accuracy: 1 of 2 (50.0%)
+Last Two Week Accuracy: 2 of 4 (50.0%)
 
-Last Two Week Error: 24.68 points per match
+Last Two Week Error: 20.28 points per match
 
-[2025/08/16 - Argentina V New Zealand, 24.0 to 41.0](reviews\2025-08-16-Argentina_V_NewZealand)
+[2025/08/23 - Argentina V New Zealand, 29.0 to 23.0](reviews\2025-08-23-Argentina_V_NewZealand)
 
-[2025/08/16 - South Africa V Australia, 22.0 to 38.0](reviews\2025-08-16-SouthAfrica_V_Australia)
+[2025/08/23 - South Africa V Australia, 30.0 to 22.0](reviews\2025-08-23-SouthAfrica_V_Australia)
 # Domestic Competitions
 
 ## Currie Cup
@@ -28,76 +86,70 @@ Last Two Week Error: 24.68 points per match
 
 [In depth model review and projections for Currie Cup 2025](comp_files/Currie_Cup_2025)
 
-Competition Accuracy: 10 of 18 (55.56%)
+Competition Accuracy: 11 of 20 (55.0%)
 
-Competition Error: 18.29 points per match
+Competition Error: 18.67 points per match
 
-Last Two Week Accuracy: 2 of 6 (33.33%)
+Last Two Week Accuracy: 3 of 8 (37.5%)
 
-Last Two Week Error: 11.72 points per match
+Last Two Week Error: 14.25 points per match
 
-[2025/08/15 - Griquas V Natal Sharks, 26.0 to 17.0](reviews\2025-08-15-Griquas_V_NatalSharks)
-
-[2025/08/16 - Cheetahs V Western Province, 31.0 to 24.0](reviews\2025-08-16-Cheetahs_V_WesternProvince)
+[2025/08/22 - Natal Sharks V Western Province, 29.0 to 21.0](reviews\2025-08-22-NatalSharks_V_WesternProvince)
 
 [2025/08/22 - Pumas V Boland Cavaliers, 26.0 to 29.0](reviews\2025-08-22-Pumas_V_BolandCavaliers)
 
-[2025/08/22 - Natal Sharks V Western Province, 5.0 to 14.0](reviews\2025-08-22-NatalSharks_V_WesternProvince)
+[2025/08/24 - Blue Bulls V Griquas, 21.0 to 42.0](reviews\2025-08-24-BlueBulls_V_Griquas)
 
-[2025/08/17 - Boland Cavaliers V Blue Bulls, 28.0 to 20.0](reviews\2025-08-17-BolandCavaliers_V_BlueBulls)
+[2025/08/23 - Cheetahs V Golden Lions, 47.0 to 31.0](reviews\2025-08-23-Cheetahs_V_GoldenLions)
+## Nationale
 
-[2025/08/16 - Pumas V Golden Lions, 35.0 to 36.0](reviews\2025-08-16-Pumas_V_GoldenLions)
+
+[In depth model review and projections for Nationale 25/26](comp_files/Nationale_2526)
+
+Competition Accuracy: 4 of 7 (57.14%)
+
+Competition Error: 13.12 points per match
+
+Last Two Week Accuracy: 4 of 7 (57.14%)
+
+Last Two Week Error: 13.12 points per match
+
+[2025/08/23 - PÃ©rigueux V Rennes, 42.0 to 21.0](reviews\2025-08-23-Perigueux_V_Rennes)
+
+[2025/08/23 - Niort V Marcq-en-Baroeul, 24.0 to 16.0](reviews\2025-08-23-Niort_V_Marcq-en-Baroeul)
+
+[2025/08/23 - Bourgoin-Jallieu V Albi, 24.0 to 17.0](reviews\2025-08-23-Bourgoin-Jallieu_V_Albi)
+
+[2025/08/22 - Tarbes V Nice, 6.0 to 42.0](reviews\2025-08-22-Tarbes_V_Nice)
+
+[2025/08/22 - Massy V Narbonne, 17.0 to 23.0](reviews\2025-08-22-Massy_V_Narbonne)
+
+[2025/08/22 - Chambery V US Bressane, 48.0 to 20.0](reviews\2025-08-22-Chambery_V_USBressane)
+
+[2025/08/23 - Rouen V Suresnes, 13.0 to 17.0](reviews\2025-08-23-Rouen_V_Suresnes)
 ## NPC
 
 
 [In depth model review and projections for NPC 2025](comp_files/NPC_2025)
 
-Competition Accuracy: 15 of 23 (65.22%)
+Competition Accuracy: 17 of 28 (60.71%)
 
-Competition Error: 14.43 points per match
+Competition Error: 15.42 points per match
 
-Last Two Week Accuracy: 6 of 9 (66.67%)
+Last Two Week Accuracy: 8 of 14 (57.14%)
 
-Last Two Week Error: 15.69 points per match
+Last Two Week Error: 17.22 points per match
 
-[2025/08/16 - Wellington V Otago, 41.0 to 46.0](reviews\2025-08-16-Wellington_V_Otago)
+[2025/08/23 - Otago V Counties Manukau, 33.0 to 19.0](reviews\2025-08-23-Otago_V_CountiesManukau)
+
+[2025/08/23 - Manawatu V Wellington, 38.0 to 28.0](reviews\2025-08-23-Manawatu_V_Wellington)
+
+[2025/08/23 - Auckland V Northland, 24.0 to 43.0](reviews\2025-08-23-Auckland_V_Northland)
+
+[2025/08/22 - Taranaki V Waikato, 22.0 to 23.0](reviews\2025-08-22-Taranaki_V_Waikato)
+
+[2025/08/22 - North Harbour V Tasman, 19.0 to 43.0](reviews\2025-08-22-NorthHarbour_V_Tasman)
 
 [2025/08/22 - Hawke's Bay V Canterbury, 7.0 to 26.0](reviews\2025-08-22-HawkesBay_V_Canterbury)
 
 [2025/08/21 - Bay of Plenty V Southland, 25.0 to 30.0](reviews\2025-08-21-BayofPlenty_V_Southland)
-
-[2025/08/17 - Waikato V Counties Manukau, 27.0 to 26.0](reviews\2025-08-17-Waikato_V_CountiesManukau)
-
-[2025/08/16 - Hawke's Bay V North Harbour, 36.0 to 22.0](reviews\2025-08-16-HawkesBay_V_NorthHarbour)
-
-[2025/08/16 - Auckland V Taranaki, 8.0 to 50.0](reviews\2025-08-16-Auckland_V_Taranaki)
-
-[2025/08/15 - Southland V Manawatu, 29.0 to 22.0](reviews\2025-08-15-Southland_V_Manawatu)
-
-[2025/08/15 - Northland V Tasman, 14.0 to 28.0](reviews\2025-08-15-Northland_V_Tasman)
-
-[2025/08/15 - Bay of Plenty V Canterbury, 7.0 to 21.0](reviews\2025-08-15-BayofPlenty_V_Canterbury)
-## URBA Top 13
-
-
-[In depth model review and projections for URBA Top 13 2025](comp_files/URBA_Top_13_2025)
-
-Competition Accuracy: 79 of 102 (77.45%)
-
-Competition Error: 9.85 points per match
-
-Last Two Week Accuracy: 6 of 6 (100.0%)
-
-Last Two Week Error: 4.43 points per match
-
-[2025/08/16 - SIC V La Plata, 26.0 to 10.0](reviews\2025-08-16-SIC_V_LaPlata)
-
-[2025/08/16 - Regatas Bella Vista V CUBA, 25.0 to 22.0](reviews\2025-08-16-RegatasBellaVista_V_CUBA)
-
-[2025/08/16 - Newman V Hindu, 34.0 to 17.0](reviews\2025-08-16-Newman_V_Hindu)
-
-[2025/08/16 - Los Tilos V Buenos Aires, 37.0 to 30.0](reviews\2025-08-16-LosTilos_V_BuenosAires)
-
-[2025/08/16 - CASI V Alumni, 31.0 to 20.0](reviews\2025-08-16-CASI_V_Alumni)
-
-[2025/08/16 - San Luis V Belgrano AC, 17.0 to 22.0](reviews\2025-08-16-SanLuis_V_BelgranoAC)
