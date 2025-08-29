@@ -8,7 +8,7 @@ key: page-recents
 ## International Test Match
 
 
-[2025](comp_files\International_Test_Match_2025) - Prediction Accuracy: 69.6% 
+[2025](comp_files\International_Test_Match_2025) - Prediction Accuracy: 70.2% 
 
 [2024](comp_files\International_Test_Match_2024) - Prediction Accuracy: 72.3% 
 
@@ -116,7 +116,7 @@ key: page-recents
 ## Rugby Championship
 
 
-[2025](comp_files\Rugby_Championship_2025) - Prediction Accuracy: 58.3% 
+[2025](comp_files\Rugby_Championship_2025) - Prediction Accuracy: 66.7% 
 
 [2024](comp_files\Rugby_Championship_2024) - Prediction Accuracy: 75.0% 
 
@@ -244,7 +244,7 @@ key: page-recents
 ## Pacific Nations Cup
 
 
-[2025](comp_files\Pacific_Nations_Cup_2025) - Prediction Accuracy: 33.3% 
+[2025](comp_files\Pacific_Nations_Cup_2025) - Prediction Accuracy: 66.7% 
 
 [2024](comp_files\Pacific_Nations_Cup_2024) - Prediction Accuracy: 90.9% 
 
@@ -436,7 +436,7 @@ key: page-recents
 ## Womens Rugby World Cup
 
 
-[2025](comp_files\Womens_Rugby_World_Cup_2025) - Prediction Accuracy: 62.3% 
+[2025](comp_files\Womens_Rugby_World_Cup_2025) - Prediction Accuracy: 64.0% 
 
 [2022](comp_files\Womens_Rugby_World_Cup_2022) - Prediction Accuracy: 76.9% 
 
@@ -494,7 +494,7 @@ key: page-recents
 ## Rugby Union Hybrid Friendlies
 
 
-[2025](comp_files\Rugby_Union_Hybrid_Friendlies_2025) - Prediction Accuracy: 62.5% 
+[2025](comp_files\Rugby_Union_Hybrid_Friendlies_2025) - Prediction Accuracy: 50.0% 
 
 [2024](comp_files\Rugby_Union_Hybrid_Friendlies_2024) - Prediction Accuracy: 11.1% 
 ## WXV 2
@@ -968,7 +968,7 @@ key: page-recents
 ## Pro D2
 
 
-[25/26](comp_files\Pro_D2_2526)
+[25/26](comp_files\Pro_D2_2526) - Prediction Accuracy: 69.6% 
 
 [24/25](comp_files\Pro_D2_2425) - Prediction Accuracy: 71.4% 
 
@@ -1012,7 +1012,7 @@ key: page-recents
 ## Currie Cup
 
 
-[2025](comp_files\Currie_Cup_2025) - Prediction Accuracy: 50.0% 
+[2025](comp_files\Currie_Cup_2025) - Prediction Accuracy: 53.6% 
 
 [2024](comp_files\Currie_Cup_2024) - Prediction Accuracy: 62.1% 
 
@@ -1054,7 +1054,7 @@ key: page-recents
 ## NPC
 
 
-[2025](comp_files\NPC_2025) - Prediction Accuracy: 62.9% 
+[2025](comp_files\NPC_2025) - Prediction Accuracy: 67.1% 
 
 [2024](comp_files\NPC_2024) - Prediction Accuracy: 71.4% 
 
@@ -1094,7 +1094,7 @@ key: page-recents
 ## URBA Top 13
 
 
-[2025](comp_files\URBA_Top_13_2025) - Prediction Accuracy: 73.9% 
+[2025](comp_files\URBA_Top_13_2025) - Prediction Accuracy: 73.2% 
 
 [2024](comp_files\URBA_Top_13_2024) - Prediction Accuracy: 65.2% 
 
