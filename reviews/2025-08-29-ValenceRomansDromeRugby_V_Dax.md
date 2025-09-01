@@ -4,14 +4,14 @@ title: Valence Romans Drome Rugby V Dax on 2025/08/29
 date: 2025-08-29  
 categories: "Pro D2 25/26" match projection  
 ---
-# Valence Romans Drome Rugby V Dax on 2025/08/29, 15.0 to 13.0
+# Valence Romans Drome Rugby V Dax on 2025/08/29, 36.0 to 23.0
 
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Valence Romans Drome Rugby to win by 4.93, and Valence Romans Drome Rugby won by 2.0. That's an absolute error of 2.9 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 86.0% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Valence Romans Drome Rugby to win by 4.74, and Valence Romans Drome Rugby won by 13.0. That's an absolute error of 8.3 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 60.4% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 28.0. That's an absolute error of 22.5 compared to a six month average of 13.9. This prediction was more accurate than 19.2% of my recent predictions.
+For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 59.0. That's an absolute error of 10.5 compared to a six month average of 13.8. This prediction was more accurate than 53.3% of my recent predictions.
 ## Projected Performances - Club Model
 
 
