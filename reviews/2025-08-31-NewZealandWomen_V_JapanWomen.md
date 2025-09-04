@@ -9,9 +9,9 @@ categories: "Women's Rugby World Cup 2025" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted New Zealand Women to win by 13.71, and New Zealand Women won by 43.0. That's an absolute error of 29.3 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 10.8% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted New Zealand Women to win by 13.26, and New Zealand Women won by 43.0. That's an absolute error of 29.7 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 10.8% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 54.5 and we have an actual total of 81.0. That's an absolute error of 26.5 compared to a six month average of 13.8. This prediction was more accurate than 12.6% of my recent predictions.
+For the Over/Under model, I predicted a total of 56.5 and we have an actual total of 81.0. That's an absolute error of 24.5 compared to a six month average of 14.0. This prediction was more accurate than 17.1% of my recent predictions.
 ## Projected Performances - Club Model
 
 

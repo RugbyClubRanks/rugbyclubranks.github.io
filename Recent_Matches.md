@@ -14,9 +14,9 @@ Competition Accuracy: 13 of 16 (81.25%)
 
 Competition Error: 22.55 points per match
 
-Last Two Week Accuracy: 13 of 16 (81.25%)
+Last Two Week Accuracy: 6 of 8 (75.0%)
 
-Last Two Week Error: 22.55 points per match
+Last Two Week Error: 19.75 points per match
 
 [2025/08/30 - Canada Women V Wales Women, 42.0 to 0.0](reviews\2025-08-30-CanadaWomen_V_WalesWomen)
 
@@ -42,9 +42,9 @@ Competition Accuracy: 45 of 64 (70.31%)
 
 Competition Error: 20.46 points per match
 
-Last Two Week Accuracy: 1 of 2 (50.0%)
+Last Two Week Accuracy: 0 of 1 (0.0%)
 
-Last Two Week Error: 27.12 points per match
+Last Two Week Error: 19.55 points per match
 
 [2025/08/30 - Chile V Uruguay, 16.0 to 28.0](reviews\2025-08-30-Chile_V_Uruguay)
 ## Pacific Nations Cup
@@ -56,9 +56,9 @@ Competition Accuracy: 2 of 4 (50.0%)
 
 Competition Error: 18.57 points per match
 
-Last Two Week Accuracy: 2 of 4 (50.0%)
+Last Two Week Accuracy: 2 of 2 (100.0%)
 
-Last Two Week Error: 18.57 points per match
+Last Two Week Error: 16.43 points per match
 
 [2025/08/29 - Fiji V Tonga, 32.0 to 10.0](reviews\2025-08-29-Fiji_V_Tonga)
 
@@ -72,11 +72,11 @@ Last Two Week Error: 18.57 points per match
 
 Competition Accuracy: 14 of 24 (58.33%)
 
-Competition Error: 20.15 points per match
+Competition Error: 20.13 points per match
 
-Last Two Week Accuracy: 4 of 8 (50.0%)
+Last Two Week Accuracy: 3 of 4 (75.0%)
 
-Last Two Week Error: 23.34 points per match
+Last Two Week Error: 27.52 points per match
 
 [2025/08/29 - Cheetahs V Griquas, 10.0 to 40.0](reviews\2025-08-29-Cheetahs_V_Griquas)
 
@@ -90,13 +90,15 @@ Last Two Week Error: 23.34 points per match
 
 [In depth model review and projections for Nationale 25/26](comp_files/Nationale_2526)
 
-Competition Accuracy: 9 of 13 (69.23%)
+Competition Accuracy: 9 of 14 (64.29%)
 
-Competition Error: 8.24 points per match
+Competition Error: 8.49 points per match
 
-Last Two Week Accuracy: 9 of 13 (69.23%)
+Last Two Week Accuracy: 5 of 7 (71.43%)
 
-Last Two Week Error: 8.24 points per match
+Last Two Week Error: 3.85 points per match
+
+[2025/08/30 - Rennes V Bourgoin-Jallieu, 22.0 to 18.0](reviews\2025-08-30-Rennes_V_Bourgoin-Jallieu)
 
 [2025/08/30 - Suresnes V Tarbes, 19.0 to 10.0](reviews\2025-08-30-Suresnes_V_Tarbes)
 
@@ -166,21 +168,23 @@ Last Two Week Error: 12.04 points per match
 
 [In depth model review and projections for NPC 2025](comp_files/NPC_2025)
 
-Competition Accuracy: 21 of 35 (60.0%)
+Competition Accuracy: 22 of 36 (61.11%)
 
-Competition Error: 15.13 points per match
+Competition Error: 14.89 points per match
 
-Last Two Week Accuracy: 7 of 14 (50.0%)
+Last Two Week Accuracy: 5 of 8 (62.5%)
 
-Last Two Week Error: 16.88 points per match
+Last Two Week Error: 13.06 points per match
+
+[2025/09/04 - Counties Manukau V North Harbour, 22.0 to 19.0](reviews\2025-09-04-CountiesManukau_V_NorthHarbour)
+
+[2025/08/31 - Waikato V Southland, 10.0 to 25.0](reviews\2025-08-31-Waikato_V_Southland)
 
 [2025/08/30 - Wellington V Auckland, 36.0 to 17.0](reviews\2025-08-30-Wellington_V_Auckland)
 
-[2025/08/30 - Waikato V Southland, 10.0 to 25.0](reviews\2025-08-30-Waikato_V_Southland)
-
 [2025/08/30 - Tasman V Otago, 31.0 to 27.0](reviews\2025-08-30-Tasman_V_Otago)
 
-[2025/08/29 - Northland V Hawke's Bay, 27.0 to 22.0](reviews\2025-08-29-Northland_V_HawkesBay)
+[2025/08/30 - Northland V Hawke's Bay, 27.0 to 22.0](reviews\2025-08-30-Northland_V_HawkesBay)
 
 [2025/08/29 - North Harbour V Bay of Plenty, 7.0 to 19.0](reviews\2025-08-29-NorthHarbour_V_BayofPlenty)
 

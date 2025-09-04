@@ -8,7 +8,7 @@ key: page-recents
 ## International Test Match
 
 
-[2025](comp_files\International_Test_Match_2025) - Prediction Accuracy: 64.9% 
+[2025](comp_files\International_Test_Match_2025) - Prediction Accuracy: 73.4% 
 
 [2024](comp_files\International_Test_Match_2024) - Prediction Accuracy: 72.3% 
 
@@ -116,7 +116,7 @@ key: page-recents
 ## Rugby Championship
 
 
-[2025](comp_files\Rugby_Championship_2025) - Prediction Accuracy: 66.7% 
+[2025](comp_files\Rugby_Championship_2025) - Prediction Accuracy: 33.3% 
 
 [2024](comp_files\Rugby_Championship_2024) - Prediction Accuracy: 75.0% 
 
@@ -436,7 +436,7 @@ key: page-recents
 ## Womens Rugby World Cup
 
 
-[2025](comp_files\Womens_Rugby_World_Cup_2025) - Prediction Accuracy: 73.2% 
+[2025](comp_files\Womens_Rugby_World_Cup_2025) - Prediction Accuracy: 66.1% 
 
 [2022](comp_files\Womens_Rugby_World_Cup_2022) - Prediction Accuracy: 76.9% 
 
@@ -494,7 +494,7 @@ key: page-recents
 ## Rugby Union Hybrid Friendlies
 
 
-[2025](comp_files\Rugby_Union_Hybrid_Friendlies_2025) - Prediction Accuracy: 50.0% 
+[2025](comp_files\Rugby_Union_Hybrid_Friendlies_2025) - Prediction Accuracy: 62.5% 
 
 [2024](comp_files\Rugby_Union_Hybrid_Friendlies_2024) - Prediction Accuracy: 11.1% 
 ## WXV 2
@@ -968,7 +968,7 @@ key: page-recents
 ## Pro D2
 
 
-[25/26](comp_files\Pro_D2_2526) - Prediction Accuracy: 63.7% 
+[25/26](comp_files\Pro_D2_2526) - Prediction Accuracy: 67.5% 
 
 [24/25](comp_files\Pro_D2_2425) - Prediction Accuracy: 71.4% 
 
@@ -1054,7 +1054,7 @@ key: page-recents
 ## NPC
 
 
-[2025](comp_files\NPC_2025) - Prediction Accuracy: 58.6% 
+[2025](comp_files\NPC_2025) - Prediction Accuracy: 54.3% 
 
 [2024](comp_files\NPC_2024) - Prediction Accuracy: 71.4% 
 
@@ -1094,7 +1094,7 @@ key: page-recents
 ## URBA Top 13
 
 
-[2025](comp_files\URBA_Top_13_2025) - Prediction Accuracy: 74.6% 
+[2025](comp_files\URBA_Top_13_2025) - Prediction Accuracy: 73.9% 
 
 [2024](comp_files\URBA_Top_13_2024) - Prediction Accuracy: 65.2% 
 
@@ -1204,7 +1204,7 @@ key: page-recents
 ## Nationale
 
 
-[25/26](comp_files\Nationale_2526) - Prediction Accuracy: 65.9% 
+[25/26](comp_files\Nationale_2526) - Prediction Accuracy: 63.7% 
 
 [24/25](comp_files\Nationale_2425) - Prediction Accuracy: 73.6% 
 

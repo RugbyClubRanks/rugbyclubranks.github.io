@@ -14,13 +14,15 @@ Competition Accuracy: 13 of 16 (81.25%)
 
 Competition Error: 22.55 points per match
 
-Last Two Week Accuracy: 13 of 16 (81.25%)
+Last Two Week Accuracy: 6 of 8 (75.0%)
 
-Last Two Week Error: 22.55 points per match
+Last Two Week Error: 19.75 points per match
 
-[2025-09-18 - Ireland Women V Scotland Women on 2025-09-18](projections\2025-09-18-IrelandWomen_V_ScotlandWomen)
+[2025-09-18 - Ireland Women V England Women on 2025-09-18](projections\2025-09-18-IrelandWomen_V_EnglandWomen)
 
-[2025-09-18 - New Zealand Women V Australia Women on 2025-09-18](projections\2025-09-18-NewZealandWomen_V_AustraliaWomen)
+[2025-09-26 - France Women V England Women on 2025-09-26](projections\2025-09-26-FranceWomen_V_EnglandWomen)
+
+[2025-09-18 - New Zealand Women V Canada Women on 2025-09-18](projections\2025-09-18-NewZealandWomen_V_CanadaWomen)
 
 [2025-09-18 - New Zealand Women V England Women on 2025-09-18](projections\2025-09-18-NewZealandWomen_V_EnglandWomen)
 
@@ -31,8 +33,6 @@ Last Two Week Error: 22.55 points per match
 [2025-09-18 - South Africa Women V Canada Women on 2025-09-18](projections\2025-09-18-SouthAfricaWomen_V_CanadaWomen)
 
 [2025-09-18 - South Africa Women V England Women on 2025-09-18](projections\2025-09-18-SouthAfricaWomen_V_EnglandWomen)
-
-[2025-09-18 - South Africa Women V Scotland Women on 2025-09-18](projections\2025-09-18-SouthAfricaWomen_V_ScotlandWomen)
 
 [2025-09-26 - Australia Women V England Women on 2025-09-26](projections\2025-09-26-AustraliaWomen_V_EnglandWomen)
 
@@ -48,9 +48,9 @@ Last Two Week Error: 22.55 points per match
 
 [2025-09-26 - Canada Women V Scotland Women on 2025-09-26](projections\2025-09-26-CanadaWomen_V_ScotlandWomen)
 
-[2025-09-26 - France Women V England Women on 2025-09-26](projections\2025-09-26-FranceWomen_V_EnglandWomen)
-
 [2025-09-26 - New Zealand Women V England Women on 2025-09-26](projections\2025-09-26-NewZealandWomen_V_EnglandWomen)
+
+[2025-09-18 - Ireland Women V Scotland Women on 2025-09-18](projections\2025-09-18-IrelandWomen_V_ScotlandWomen)
 
 [2025-09-26 - New Zealand Women V France Women on 2025-09-26](projections\2025-09-26-NewZealandWomen_V_FranceWomen)
 
@@ -58,13 +58,11 @@ Last Two Week Error: 22.55 points per match
 
 [2025-09-26 - New Zealand Women V Scotland Women on 2025-09-26](projections\2025-09-26-NewZealandWomen_V_ScotlandWomen)
 
-[2025-09-26 - New Zealand Women V South Africa Women on 2025-09-26](projections\2025-09-26-NewZealandWomen_V_SouthAfricaWomen)
+[2025-09-26 - Scotland Women V France Women on 2025-09-26](projections\2025-09-26-ScotlandWomen_V_FranceWomen)
 
 [2025-09-26 - South Africa Women V England Women on 2025-09-26](projections\2025-09-26-SouthAfricaWomen_V_EnglandWomen)
 
 [2025-09-26 - South Africa Women V France Women on 2025-09-26](projections\2025-09-26-SouthAfricaWomen_V_FranceWomen)
-
-[2025-09-26 - South Africa Women V Scotland Women on 2025-09-26](projections\2025-09-26-SouthAfricaWomen_V_ScotlandWomen)
 
 [2025/09/06 - Canada Women V Scotland Women](projections\2025-09-06-CanadaWomen_V_ScotlandWomen)
 
@@ -80,13 +78,13 @@ Last Two Week Error: 22.55 points per match
 
 [2025/09/07 - Japan Women V Spain Women](projections\2025-09-07-JapanWomen_V_SpainWomen)
 
-[2025-09-18 - New Zealand Women V Canada Women on 2025-09-18](projections\2025-09-18-NewZealandWomen_V_CanadaWomen)
+[2025-09-18 - New Zealand Women V Australia Women on 2025-09-18](projections\2025-09-18-NewZealandWomen_V_AustraliaWomen)
 
 [2025/09/07 - New Zealand Women V Ireland Women](projections\2025-09-07-NewZealandWomen_V_IrelandWomen)
 
 [2025-09-12 - France Women V New Zealand Women on 2025-09-12](projections\2025-09-12-FranceWomen_V_NewZealandWomen)
 
-[2025-09-12 - New Zealand Women V South Africa Women on 2025-09-12](projections\2025-09-12-NewZealandWomen_V_SouthAfricaWomen)
+[2025-09-12 - New Zealand Women V France Women on 2025-09-12](projections\2025-09-12-NewZealandWomen_V_FranceWomen)
 
 [2025-09-12 - Australia Women V Canada Women on 2025-09-12](projections\2025-09-12-AustraliaWomen_V_CanadaWomen)
 
@@ -102,13 +100,13 @@ Last Two Week Error: 22.55 points per match
 
 [2025-09-12 - France Women V Ireland Women on 2025-09-12](projections\2025-09-12-FranceWomen_V_IrelandWomen)
 
-[2025-09-18 - Ireland Women V England Women on 2025-09-18](projections\2025-09-18-IrelandWomen_V_EnglandWomen)
+[2025-09-18 - Ireland Women V Canada Women on 2025-09-18](projections\2025-09-18-IrelandWomen_V_CanadaWomen)
 
 [2025-09-12 - Ireland Women V France Women on 2025-09-12](projections\2025-09-12-IrelandWomen_V_FranceWomen)
 
 [2025-09-12 - Ireland Women V South Africa Women on 2025-09-12](projections\2025-09-12-IrelandWomen_V_SouthAfricaWomen)
 
-[2025-09-12 - New Zealand Women V France Women on 2025-09-12](projections\2025-09-12-NewZealandWomen_V_FranceWomen)
+[2025-09-12 - New Zealand Women V South Africa Women on 2025-09-12](projections\2025-09-12-NewZealandWomen_V_SouthAfricaWomen)
 
 [2025-09-12 - Scotland Women V Australia Women on 2025-09-12](projections\2025-09-12-ScotlandWomen_V_AustraliaWomen)
 
@@ -127,8 +125,6 @@ Last Two Week Error: 22.55 points per match
 [2025-09-18 - France Women V Scotland Women on 2025-09-18](projections\2025-09-18-FranceWomen_V_ScotlandWomen)
 
 [2025-09-18 - Ireland Women V Australia Women on 2025-09-18](projections\2025-09-18-IrelandWomen_V_AustraliaWomen)
-
-[2025-09-18 - Ireland Women V Canada Women on 2025-09-18](projections\2025-09-18-IrelandWomen_V_CanadaWomen)
 ## Rugby Championship
 
 
@@ -137,10 +133,6 @@ Last Two Week Error: 22.55 points per match
 Competition Accuracy: 2 of 4 (50.0%)
 
 Competition Error: 20.28 points per match
-
-Last Two Week Accuracy: 1 of 2 (50.0%)
-
-Last Two Week Error: 15.89 points per match
 
 [2025/09/13 - Australia V Argentina](projections\2025-09-13-Australia_V_Argentina)
 
@@ -162,13 +154,13 @@ Competition Accuracy: 2 of 4 (50.0%)
 
 Competition Error: 18.57 points per match
 
-Last Two Week Accuracy: 2 of 4 (50.0%)
+Last Two Week Accuracy: 2 of 2 (100.0%)
 
-Last Two Week Error: 18.57 points per match
+Last Two Week Error: 16.43 points per match
+
+[2025/09/06 - Samoa V Fiji](projections\2025-09-06-Samoa_V_Fiji)
 
 [2025/09/05 - United States of America V Japan](projections\2025-09-05-UnitedStatesofAmerica_V_Japan)
-
-[2025/09/05 - Samoa V Fiji](projections\2025-09-05-Samoa_V_Fiji)
 ## International Test Match
 
 
@@ -178,9 +170,9 @@ Competition Accuracy: 45 of 64 (70.31%)
 
 Competition Error: 20.46 points per match
 
-Last Two Week Accuracy: 1 of 2 (50.0%)
+Last Two Week Accuracy: 0 of 1 (0.0%)
 
-Last Two Week Error: 27.12 points per match
+Last Two Week Error: 19.55 points per match
 
 [2025/09/06 - Uruguay V Chile](projections\2025-09-06-Uruguay_V_Chile)
 # Top Flight Competitions
@@ -288,11 +280,11 @@ Last Two Week Error: 27.12 points per match
 
 Competition Accuracy: 14 of 24 (58.33%)
 
-Competition Error: 20.15 points per match
+Competition Error: 20.13 points per match
 
-Last Two Week Accuracy: 4 of 8 (50.0%)
+Last Two Week Accuracy: 3 of 4 (75.0%)
 
-Last Two Week Error: 23.34 points per match
+Last Two Week Error: 27.52 points per match
 
 [2025/09/05 - Natal Sharks V Pumas](projections\2025-09-05-NatalSharks_V_Pumas)
 
@@ -314,6 +306,8 @@ Last Two Week Accuracy: 5 of 8 (62.5%)
 
 Last Two Week Error: 12.04 points per match
 
+[2025/09/11 - Oyonnax V Colomiers](projections\2025-09-11-Oyonnax_V_Colomiers)
+
 [2025/09/18 - Valence Romans Drome Rugby V Soyaux-Angouleme](projections\2025-09-18-ValenceRomansDromeRugby_V_Soyaux-Angouleme)
 
 [2025/09/18 - Grenoble V USON Nevers](projections\2025-09-18-Grenoble_V_USONNevers)
@@ -334,9 +328,9 @@ Last Two Week Error: 12.04 points per match
 
 [2025/09/11 - Provence Rugby V Biarritz Olympique](projections\2025-09-11-ProvenceRugby_V_BiarritzOlympique)
 
-[2025/09/11 - Oyonnax V Colomiers](projections\2025-09-11-Oyonnax_V_Colomiers)
-
 [2025/09/11 - Mont-de-Marsan V Vannes](projections\2025-09-11-Mont-de-Marsan_V_Vannes)
+
+[2025/09/25 - Agen V Beziers](projections\2025-09-25-Agen_V_Beziers)
 
 [2025/09/11 - Brive V Valence Romans Drome Rugby](projections\2025-09-11-Brive_V_ValenceRomansDromeRugby)
 
@@ -358,11 +352,7 @@ Last Two Week Error: 12.04 points per match
 
 [2025/09/05 - Agen V Mont-de-Marsan](projections\2025-09-05-Agen_V_Mont-de-Marsan)
 
-[2025/09/04 - Colomiers V Biarritz Olympique](projections\2025-09-04-Colomiers_V_BiarritzOlympique)
-
 [2025/09/18 - Vannes V Provence Rugby](projections\2025-09-18-Vannes_V_ProvenceRugby)
-
-[2025/09/25 - Agen V Beziers](projections\2025-09-25-Agen_V_Beziers)
 
 [2025/09/25 - Aurillac V Vannes](projections\2025-09-25-Aurillac_V_Vannes)
 
@@ -377,6 +367,8 @@ Last Two Week Error: 12.04 points per match
 [2025/09/25 - Oyonnax V Valence Romans Drome Rugby](projections\2025-09-25-Oyonnax_V_ValenceRomansDromeRugby)
 
 [2025/09/25 - Mont-de-Marsan V Carcassonne](projections\2025-09-25-Mont-de-Marsan_V_Carcassonne)
+
+[2025/09/04 - Colomiers V Biarritz Olympique](projections\2025-09-04-Colomiers_V_BiarritzOlympique)
 ## URBA Top 13
 
 
@@ -430,13 +422,13 @@ Last Two Week Error: 9.27 points per match
 
 [In depth model review and projections for Nationale 25/26](comp_files/Nationale_2526)
 
-Competition Accuracy: 9 of 13 (69.23%)
+Competition Accuracy: 9 of 14 (64.29%)
 
-Competition Error: 8.24 points per match
+Competition Error: 8.49 points per match
 
-Last Two Week Accuracy: 9 of 13 (69.23%)
+Last Two Week Accuracy: 5 of 7 (71.43%)
 
-Last Two Week Error: 8.24 points per match
+Last Two Week Error: 3.85 points per match
 
 [2025/09/27 - Suresnes V Narbonne](projections\2025-09-27-Suresnes_V_Narbonne)
 
@@ -445,8 +437,6 @@ Last Two Week Error: 8.24 points per match
 [2025/09/26 - US Bressane V Marcq-en-Baroeul](projections\2025-09-26-USBressane_V_Marcq-en-Baroeul)
 
 [2025/09/26 - Tarbes V Bourgoin-Jallieu](projections\2025-09-26-Tarbes_V_Bourgoin-Jallieu)
-
-[2025/09/06 - Suresnes V US Bressane](projections\2025-09-06-Suresnes_V_USBressane)
 
 [2025/09/26 - Rouen V Albi](projections\2025-09-26-Rouen_V_Albi)
 
@@ -468,6 +458,8 @@ Last Two Week Error: 8.24 points per match
 
 [2025/09/12 - Albi V Chambery](projections\2025-09-12-Albi_V_Chambery)
 
+[2025/09/06 - Suresnes V US Bressane](projections\2025-09-06-Suresnes_V_USBressane)
+
 [2025/09/06 - Niort V Albi](projections\2025-09-06-Niort_V_Albi)
 
 [2025/09/06 - Bourgoin-Jallieu V Nice](projections\2025-09-06-Bourgoin-Jallieu_V_Nice)
@@ -479,22 +471,22 @@ Last Two Week Error: 8.24 points per match
 [2025/09/05 - Massy V Rennes](projections\2025-09-05-Massy_V_Rennes)
 
 [2025/09/05 - Chambery V Narbonne](projections\2025-09-05-Chambery_V_Narbonne)
-
-[2025/08/30 - Rennes V Bourgoin-Jallieu](projections\2025-08-30-Rennes_V_Bourgoin-Jallieu)
 ## NPC
 
 
 [In depth model review and projections for NPC 2025](comp_files/NPC_2025)
 
-Competition Accuracy: 21 of 35 (60.0%)
+Competition Accuracy: 22 of 36 (61.11%)
 
-Competition Error: 15.13 points per match
+Competition Error: 14.89 points per match
 
-Last Two Week Accuracy: 7 of 14 (50.0%)
+Last Two Week Accuracy: 5 of 8 (62.5%)
 
-Last Two Week Error: 16.88 points per match
+Last Two Week Error: 13.06 points per match
 
-[2025/09/12 - Otago V Taranaki](projections\2025-09-12-Otago_V_Taranaki)
+[2025/09/12 - Waikato V North Harbour](projections\2025-09-12-Waikato_V_NorthHarbour)
+
+[2025/09/20 - Tasman V Waikato](projections\2025-09-20-Tasman_V_Waikato)
 
 [2025/09/20 - North Harbour V Northland](projections\2025-09-20-NorthHarbour_V_Northland)
 
@@ -514,11 +506,9 @@ Last Two Week Error: 16.88 points per match
 
 [2025/09/13 - Auckland V Manawatu](projections\2025-09-13-Auckland_V_Manawatu)
 
-[2025/09/12 - Waikato V North Harbour](projections\2025-09-12-Waikato_V_NorthHarbour)
+[2025/09/12 - Otago V Taranaki](projections\2025-09-12-Otago_V_Taranaki)
 
 [2025/09/12 - Bay of Plenty V Hawke's Bay](projections\2025-09-12-BayofPlenty_V_Hawke'sBay)
-
-[2025/09/25 - Hawke's Bay V Auckland](projections\2025-09-25-Hawke'sBay_V_Auckland)
 
 [2025/09/11 - Northland V Wellington](projections\2025-09-11-Northland_V_Wellington)
 
@@ -534,18 +524,16 @@ Last Two Week Error: 16.88 points per match
 
 [2025/09/05 - Hawke's Bay V Wellington](projections\2025-09-05-Hawke'sBay_V_Wellington)
 
-[2025/09/04 - Counties Manukau V North Harbour](projections\2025-09-04-CountiesManukau_V_NorthHarbour)
-
-[2025/09/20 - Tasman V Waikato](projections\2025-09-20-Tasman_V_Waikato)
+[2025/09/25 - Hawke's Bay V Auckland](projections\2025-09-25-Hawke'sBay_V_Auckland)
 
 [2025/09/26 - Otago V North Harbour](projections\2025-09-26-Otago_V_NorthHarbour)
 
 [2025/09/26 - Southland V Tasman](projections\2025-09-26-Southland_V_Tasman)
+
+[2025/09/26 - Taranaki V Wellington](projections\2025-09-26-Taranaki_V_Wellington)
 
 [2025/09/27 - Northland V Canterbury](projections\2025-09-27-Northland_V_Canterbury)
 
 [2025/09/27 - Counties Manukau V Manawatu](projections\2025-09-27-CountiesManukau_V_Manawatu)
 
 [2025/09/27 - Bay of Plenty V Waikato](projections\2025-09-27-BayofPlenty_V_Waikato)
-
-[2025/09/26 - Taranaki V Wellington](projections\2025-09-26-Taranaki_V_Wellington)

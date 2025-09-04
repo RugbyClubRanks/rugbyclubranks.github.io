@@ -9,9 +9,9 @@ categories: "Pro D2 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Mont-de-Marsan to win by 2.02, and Colomiers won by 4.0. That's an absolute error of 6.0 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 72.2% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Mont-de-Marsan to win by 1.68, and Colomiers won by 4.0. That's an absolute error of 5.7 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 73.5% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 44.0. That's an absolute error of 5.5 compared to a six month average of 13.8. This prediction was more accurate than 75.4% of my recent predictions.
+For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 44.0. That's an absolute error of 6.5 compared to a six month average of 14.0. This prediction was more accurate than 70.6% of my recent predictions.
 ## Projected Performances - Club Model
 
 

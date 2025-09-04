@@ -1,6 +1,6 @@
 ---  
 title: "Currie Cup 2025"  
-date: 2025-09-01 6:00:00 -0500  
+date: 2025-09-04 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -33,14 +33,14 @@ aside:
 
 | Club             |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:-----------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Boland Cavaliers |         1 |            0.677 |                    6.028 |                           0.155 |                              |                          2.947 |
-| Pumas            |         1 |            0.558 |                    2.215 |                           0.212 |                              |                          2.548 |
-| Golden Lions     |         1 |            0.5   |                    0.716 |                           0.24  |                              |                          2.338 |
-| Cheetahs         |         1 |            0.489 |                    0.38  |                           0.234 |                              |                          2.3   |
-| Blue Bulls       |         1 |            0.456 |                   -0.38  |                           0.239 |                              |                          2.173 |
-| Griquas          |         1 |            0.451 |                   -0.716 |                           0.252 |                              |                          2.154 |
-| Natal Sharks     |         1 |            0.39  |                   -2.215 |                           0.261 |                              |                          1.925 |
-| Western Province |         1 |            0.281 |                   -6.028 |                           0.248 |                              |                          1.456 |
+| Boland Cavaliers |         1 |            0.644 |                    5.37  |                           0.183 |                              |                          2.841 |
+| Pumas            |         1 |            0.546 |                    1.942 |                           0.217 |                              |                          2.491 |
+| Golden Lions     |         1 |            0.523 |                    1.3   |                           0.23  |                              |                          2.414 |
+| Cheetahs         |         1 |            0.48  |                    0.084 |                           0.25  |                              |                          2.264 |
+| Blue Bulls       |         1 |            0.473 |                   -0.084 |                           0.262 |                              |                          2.248 |
+| Griquas          |         1 |            0.431 |                   -1.3   |                           0.233 |                              |                          2.049 |
+| Natal Sharks     |         1 |            0.409 |                   -1.942 |                           0.258 |                              |                          1.984 |
+| Western Province |         1 |            0.315 |                   -5.37  |                           0.223 |                              |                          1.565 |
 
 
 
@@ -49,14 +49,14 @@ aside:
 
 | Club             |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Griquas          |        7 |  5.451 |               77.284 |                 0.252 |                  4 |               26.154 |
-| Boland Cavaliers |        7 |  4.677 |               27.028 |                 1.155 |                  6 |               25.947 |
-| Pumas            |        7 |  3.558 |               62.215 |                 2.212 |                  6 |               22.548 |
-| Golden Lions     |        7 |  4.5   |               67.716 |                 0.24  |                  4 |               22.338 |
-| Cheetahs         |        7 |  4.489 |               10.38  |                 1.234 |                  3 |               22.3   |
-| Blue Bulls       |        7 |  2.456 |              -13.38  |                 0.239 |                  2 |               12.173 |
-| Natal Sharks     |        7 |  2.39  |             -108.215 |                 1.261 |                    |               10.925 |
-| Western Province |        7 |  0.281 |             -123.028 |                 1.248 |                    |                2.456 |
+| Griquas          |        7 |  5.431 |               76.7   |                 0.233 |                  4 |               26.049 |
+| Boland Cavaliers |        7 |  4.644 |               26.37  |                 1.183 |                  6 |               25.841 |
+| Pumas            |        7 |  3.546 |               61.942 |                 2.217 |                  6 |               22.491 |
+| Golden Lions     |        7 |  4.523 |               68.3   |                 0.23  |                  4 |               22.414 |
+| Cheetahs         |        7 |  4.48  |               10.084 |                 1.25  |                  3 |               22.264 |
+| Blue Bulls       |        7 |  2.473 |              -13.084 |                 0.262 |                  2 |               12.248 |
+| Natal Sharks     |        7 |  2.409 |             -107.942 |                 1.258 |                    |               10.984 |
+| Western Province |        7 |  0.315 |             -122.37  |                 1.223 |                    |                2.565 |
 
 
 
@@ -65,7 +65,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 60.7% | 18.1 |
+| Club Level | 60.7% | 18.0 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -77,7 +77,7 @@ aside:
 ### Natal Sharks V Pumas on 2025/09/05
 
 
-Average Margin: Pumas by 2.2
+Average Margin: Pumas by 1.9
 
 <p float="left">
 <img src="plots\2025-09-05-NatalSharks_V_Pumas_performances.png" width="32%" />
@@ -85,21 +85,10 @@ Average Margin: Pumas by 2.2
 <img src="plots\2025-09-05-NatalSharks_V_Pumas_spreads.png" width="32%" />
 </p>
 
-### Blue Bulls V Cheetahs on 2025/09/06
-
-
-Average Margin: Cheetahs by 0.4
-
-<p float="left">
-<img src="plots\2025-09-06-BlueBulls_V_Cheetahs_performances.png" width="32%" />
-<img src="plots\2025-09-06-BlueBulls_V_Cheetahs_resultbar.png" width="32%" />
-<img src="plots\2025-09-06-BlueBulls_V_Cheetahs_spreads.png" width="32%" />
-</p>
-
 ### Western Province V Boland Cavaliers on 2025/09/06
 
 
-Average Margin: Boland Cavaliers by 6.0
+Average Margin: Boland Cavaliers by 5.4
 
 <p float="left">
 <img src="plots\2025-09-06-WesternProvince_V_BolandCavaliers_performances.png" width="32%" />
@@ -107,10 +96,21 @@ Average Margin: Boland Cavaliers by 6.0
 <img src="plots\2025-09-06-WesternProvince_V_BolandCavaliers_spreads.png" width="32%" />
 </p>
 
+### Blue Bulls V Cheetahs on 2025/09/06
+
+
+Average Margin: Cheetahs by 0.1
+
+<p float="left">
+<img src="plots\2025-09-06-BlueBulls_V_Cheetahs_performances.png" width="32%" />
+<img src="plots\2025-09-06-BlueBulls_V_Cheetahs_resultbar.png" width="32%" />
+<img src="plots\2025-09-06-BlueBulls_V_Cheetahs_spreads.png" width="32%" />
+</p>
+
 ### Golden Lions V Griquas on 2025/09/06
 
 
-Average Margin: Golden Lions by 0.7
+Average Margin: Golden Lions by 1.3
 
 <p float="left">
 <img src="plots\2025-09-06-GoldenLions_V_Griquas_performances.png" width="32%" />
