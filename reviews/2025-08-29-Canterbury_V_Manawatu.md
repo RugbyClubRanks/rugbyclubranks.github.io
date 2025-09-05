@@ -9,9 +9,9 @@ categories: "NPC 2025" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Canterbury to win by 12.55, and Canterbury won by 39.0. That's an absolute error of 26.4 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 14.5% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Canterbury to win by 12.75, and Canterbury won by 39.0. That's an absolute error of 26.2 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 14.7% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 59.5 and we have an actual total of 67.0. That's an absolute error of 7.5 compared to a six month average of 14.0. This prediction was more accurate than 65.8% of my recent predictions.
+For the Over/Under model, I predicted a total of 60.5 and we have an actual total of 67.0. That's an absolute error of 6.5 compared to a six month average of 14.0. This prediction was more accurate than 69.9% of my recent predictions.
 ## Projected Performances - Club Model
 
 

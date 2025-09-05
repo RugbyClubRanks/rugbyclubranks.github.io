@@ -9,9 +9,9 @@ categories: "Nationale 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Suresnes to win by 2.48, and Suresnes won by 9.0. That's an absolute error of 6.5 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 69.8% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Suresnes to win by 2.77, and Suresnes won by 9.0. That's an absolute error of 6.2 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 71.1% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 42.5 and we have an actual total of 29.0. That's an absolute error of 13.5 compared to a six month average of 14.0. This prediction was more accurate than 41.9% of my recent predictions.
+For the Over/Under model, I predicted a total of 42.5 and we have an actual total of 29.0. That's an absolute error of 13.5 compared to a six month average of 14.0. This prediction was more accurate than 42.3% of my recent predictions.
 ## Projected Performances - Club Model
 
 

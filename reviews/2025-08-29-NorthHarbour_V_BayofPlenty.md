@@ -9,9 +9,9 @@ categories: "NPC 2025" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Bay of Plenty to win by 1.58, and Bay of Plenty won by 12.0. That's an absolute error of 10.4 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 51.1% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Bay of Plenty to win by 2.06, and Bay of Plenty won by 12.0. That's an absolute error of 9.9 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 52.9% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 54.5 and we have an actual total of 26.0. That's an absolute error of 28.5 compared to a six month average of 14.0. This prediction was more accurate than 10.0% of my recent predictions.
+For the Over/Under model, I predicted a total of 56.5 and we have an actual total of 26.0. That's an absolute error of 30.5 compared to a six month average of 14.0. This prediction was more accurate than 8.0% of my recent predictions.
 ## Projected Performances - Club Model
 
 
