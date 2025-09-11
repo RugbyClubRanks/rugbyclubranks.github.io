@@ -1,6 +1,6 @@
 ---  
 title: "Rugby Union Hybrid Friendlies 2025"  
-date: 2025-09-05 6:00:00 -0500  
+date: 2025-09-11 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -36,8 +36,8 @@ aside:
 
 | Club        |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Australia A |         1 |            0.627 |                    8.282 |                           0.164 |                              |                          2.744 |
-| Japan XV    |         1 |            0.337 |                   -8.282 |                           0.181 |                              |                          1.601 |
+| Australia A |         1 |            0.635 |                    8.673 |                            0.15 |                              |                           2.76 |
+| Japan XV    |         1 |            0.33  |                   -8.673 |                            0.17 |                              |                           1.56 |
 
 
 
@@ -46,18 +46,18 @@ aside:
 
 | Club                     |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Japan XV                 |        4 |  2.337 |               19.718 |                 0.181 |                  1 |               10.601 |
-| Maori All Blacks         |        2 |  1     |               30     |                 1     |                  2 |                7     |
-| South Africa             |        1 |  1     |               47     |                 0     |                  1 |                5     |
-| England A                |        1 |  1     |               16     |                 0     |                  1 |                5     |
-| Scotland                 |        1 |  1     |                3     |                 0     |                  1 |                5     |
-| France XV                |        1 |  1     |                2     |                 0     |                  1 |                5     |
-| Australia A              |        1 |  0.627 |                8.282 |                 0.164 |                    |                2.744 |
-| England XV               |        1 |  0     |               -2     |                 1     |                  1 |                2     |
-| New Zealand Universities |        1 |  0     |               -9     |                 0     |                    |                0     |
-| Ireland A                |        1 |  0     |              -16     |                 0     |                    |                0     |
-| Barbarians               |        1 |  0     |              -47     |                 0     |                    |                0     |
-| Hong Kong                |        1 |  0     |              -52     |                 0     |                    |                0     |
+| Japan XV                 |        4 |  2.33  |               19.327 |                  0.17 |                  1 |                10.56 |
+| Maori All Blacks         |        2 |  1     |               30     |                  1    |                  2 |                 7    |
+| South Africa             |        1 |  1     |               47     |                  0    |                  1 |                 5    |
+| England A                |        1 |  1     |               16     |                  0    |                  1 |                 5    |
+| Scotland                 |        1 |  1     |                3     |                  0    |                  1 |                 5    |
+| France XV                |        1 |  1     |                2     |                  0    |                  1 |                 5    |
+| Australia A              |        1 |  0.635 |                8.673 |                  0.15 |                    |                 2.76 |
+| England XV               |        1 |  0     |               -2     |                  1    |                  1 |                 2    |
+| New Zealand Universities |        1 |  0     |               -9     |                  0    |                    |                 0    |
+| Ireland A                |        1 |  0     |              -16     |                  0    |                    |                 0    |
+| Barbarians               |        1 |  0     |              -47     |                  0    |                    |                 0    |
+| Hong Kong                |        1 |  0     |              -52     |                  0    |                    |                 0    |
 
 
 
@@ -66,7 +66,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 62.5% | 18.3 |
+| Club Level | 62.5% | 19.3 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -78,7 +78,7 @@ aside:
 ### Japan XV V Australia A on 2025/10/17
 
 
-Average Margin: Australia A by 8.3
+Average Margin: Australia A by 8.7
 
 <p float="left">
 <img src="plots\2025-10-17-JapanXV_V_AustraliaA_performances.png" width="32%" />
