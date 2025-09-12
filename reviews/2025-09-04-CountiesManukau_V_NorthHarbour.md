@@ -9,9 +9,9 @@ categories: "NPC 2025" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Counties Manukau to win by 5.02, and Counties Manukau won by 3.0. That's an absolute error of 2.0 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 89.5% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Counties Manukau to win by 4.4, and Counties Manukau won by 3.0. That's an absolute error of 1.4 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 93.0% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 55.5 and we have an actual total of 41.0. That's an absolute error of 14.5 compared to a six month average of 13.8. This prediction was more accurate than 38.0% of my recent predictions.
+For the Over/Under model, I predicted a total of 55.5 and we have an actual total of 41.0. That's an absolute error of 14.5 compared to a six month average of 13.8. This prediction was more accurate than 38.3% of my recent predictions.
 ## Projected Performances - Club Model
 
 

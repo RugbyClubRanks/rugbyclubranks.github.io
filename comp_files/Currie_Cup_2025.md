@@ -1,6 +1,6 @@
 ---  
 title: "Currie Cup 2025"  
-date: 2025-09-11 6:00:00 -0500  
+date: 2025-09-12 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -33,10 +33,10 @@ aside:
 
 | Club             |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:-----------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Griquas          |         1 |            0.661 |                    4.778 |                           0.159 |                              |                          2.883 |
-| Golden Lions     |         1 |            0.656 |                    5.322 |                           0.182 |                              |                          2.868 |
-| Boland Cavaliers |         1 |            0.313 |                   -5.322 |                           0.212 |                              |                          1.526 |
-| Cheetahs         |         1 |            0.299 |                   -4.778 |                           0.249 |                              |                          1.525 |
+| Golden Lions     |         1 |            0.675 |                    5.941 |                           0.169 |                              |                          2.935 |
+| Griquas          |         1 |            0.645 |                    5.001 |                           0.177 |                              |                          2.837 |
+| Cheetahs         |         1 |            0.315 |                   -5.001 |                           0.229 |                              |                          1.569 |
+| Boland Cavaliers |         1 |            0.292 |                   -5.941 |                           0.223 |                              |                          1.457 |
 
 
 
@@ -45,10 +45,10 @@ aside:
 
 | Club             |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Griquas          |        8 |  5.661 |               52.778 |                 0.159 |                  4 |               26.883 |
-| Golden Lions     |        8 |  5.656 |              102.322 |                 0.182 |                  4 |               26.868 |
-| Boland Cavaliers |        8 |  4.313 |               -2.322 |                 1.212 |                  6 |               24.526 |
-| Cheetahs         |        8 |  4.299 |                1.222 |                 2.249 |                  3 |               22.525 |
+| Golden Lions     |        8 |  5.675 |              102.941 |                 0.169 |                  4 |               26.935 |
+| Griquas          |        8 |  5.645 |               53.001 |                 0.177 |                  4 |               26.837 |
+| Boland Cavaliers |        8 |  4.292 |               -2.941 |                 1.223 |                  6 |               24.457 |
+| Cheetahs         |        8 |  4.315 |                0.999 |                 2.229 |                  3 |               22.569 |
 | Pumas            |        7 |  3     |               54     |                 3     |                  6 |               21     |
 | Blue Bulls       |        7 |  3     |               -9     |                 0     |                  2 |               14     |
 | Natal Sharks     |        7 |  3     |             -100     |                 1     |                    |               13     |
@@ -61,7 +61,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 56.7% | 18.7 |
+| Club Level | 56.7% | 18.9 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -73,7 +73,7 @@ aside:
 ### Golden Lions V Boland Cavaliers on 2025/09/13
 
 
-Average Margin: Golden Lions by 5.3
+Average Margin: Golden Lions by 5.9
 
 <p float="left">
 <img src="plots\2025-09-13-GoldenLions_V_BolandCavaliers_performances.png" width="32%" />
@@ -84,7 +84,7 @@ Average Margin: Golden Lions by 5.3
 ### Griquas V Cheetahs on 2025/09/13
 
 
-Average Margin: Griquas by 4.8
+Average Margin: Griquas by 5.0
 
 <p float="left">
 <img src="plots\2025-09-13-Griquas_V_Cheetahs_performances.png" width="32%" />

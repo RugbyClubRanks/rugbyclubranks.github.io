@@ -11,7 +11,7 @@ categories: "Currie Cup 2025" match projection
 
 Now that the game has been played, lets see how the club predictions did. I predicted Cheetahs to win by 0.58, and Blue Bulls won by 4.0. That's an absolute error of 4.6 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 78.4% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 60.5 and we have an actual total of 66.0. That's an absolute error of 5.5 compared to a six month average of 13.8. This prediction was more accurate than 74.6% of my recent predictions.
+For the Over/Under model, I predicted a total of 60.5 and we have an actual total of 66.0. That's an absolute error of 5.5 compared to a six month average of 13.8. This prediction was more accurate than 74.5% of my recent predictions.
 ## Projected Performances - Club Model
 
 

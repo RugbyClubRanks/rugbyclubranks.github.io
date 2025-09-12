@@ -126,9 +126,39 @@ Last Two Week Error: 17.74 points per match
 
 [2025/09/06 - Blue Bulls V Cheetahs, 35.0 to 31.0](reviews\2025-09-06-BlueBulls_V_Cheetahs)
 
-[2025/09/06 - Western Province V Boland Cavaliers, 40.0 to 22.0](reviews\2025-09-06-WesternProvince_V_BolandCavaliers)
-
 [2025/09/06 - Golden Lions V Griquas, 37.0 to 7.0](reviews\2025-09-06-GoldenLions_V_Griquas)
+
+[2025/09/06 - Western Province V Boland Cavaliers, 40.0 to 22.0](reviews\2025-09-06-WesternProvince_V_BolandCavaliers)
+## Pro D2
+
+
+[In depth model review and projections for Pro D2 25/26](comp_files/Pro_D2_2526)
+
+Competition Accuracy: 11 of 17 (64.71%)
+
+Competition Error: 14.99 points per match
+
+Last Two Week Accuracy: 6 of 9 (66.67%)
+
+Last Two Week Error: 17.62 points per match
+
+[2025/09/05 - Provence Rugby V Valence Romans Drome Rugby, 30.0 to 33.0](reviews\2025-09-05-ProvenceRugby_V_ValenceRomansDromeRugby)
+
+[2025/09/04 - Colomiers V Biarritz Olympique, 44.0 to 10.0](reviews\2025-09-04-Colomiers_V_BiarritzOlympique)
+
+[2025/09/05 - Agen V Mont-de-Marsan, 53.0 to 7.0](reviews\2025-09-05-Agen_V_Mont-de-Marsan)
+
+[2025/09/05 - Beziers V USON Nevers, 49.0 to 12.0](reviews\2025-09-05-Beziers_V_USONNevers)
+
+[2025/09/05 - Carcassonne V Oyonnax, 19.0 to 17.0](reviews\2025-09-05-Carcassonne_V_Oyonnax)
+
+[2025/09/05 - Dax V Brive, 8.0 to 23.0](reviews\2025-09-05-Dax_V_Brive)
+
+[2025/09/05 - Grenoble V Aurillac, 38.0 to 16.0](reviews\2025-09-05-Grenoble_V_Aurillac)
+
+[2025/09/05 - Vannes V Soyaux-Angouleme, 28.0 to 9.0](reviews\2025-09-05-Vannes_V_Soyaux-Angouleme)
+
+[2025/09/11 - Agen V Grenoble, 38.0 to 20.0](reviews\2025-09-11-Agen_V_Grenoble)
 ## Nationale
 
 
@@ -142,58 +172,70 @@ Last Two Week Accuracy: 4 of 7 (57.14%)
 
 Last Two Week Error: 10.0 points per match
 
-[2025/09/06 - Suresnes V US Bressane, 32.0 to 32.0](reviews\2025-09-06-Suresnes_V_USBressane)
-
 [2025/09/06 - Niort V Albi, 37.0 to 17.0](reviews\2025-09-06-Niort_V_Albi)
+
+[2025/09/06 - Suresnes V US Bressane, 32.0 to 32.0](reviews\2025-09-06-Suresnes_V_USBressane)
 
 [2025/09/06 - Bourgoin-Jallieu V Nice, 20.0 to 23.0](reviews\2025-09-06-Bourgoin-Jallieu_V_Nice)
 
 [2025/09/05 - Tarbes V PÃ©rigueux, 25.0 to 20.0](reviews\2025-09-05-Tarbes_V_Perigueux)
 
-[2025/09/05 - Rouen V Marcq-en-Baroeul, 53.0 to 19.0](reviews\2025-09-05-Rouen_V_Marcq-en-Baroeul)
+[2025/09/05 - Chambery V Narbonne, 31.0 to 17.0](reviews\2025-09-05-Chambery_V_Narbonne)
 
 [2025/09/05 - Massy V Rennes, 41.0 to 21.0](reviews\2025-09-05-Massy_V_Rennes)
 
-[2025/09/05 - Chambery V Narbonne, 31.0 to 17.0](reviews\2025-09-05-Chambery_V_Narbonne)
+[2025/09/05 - Rouen V Marcq-en-Baroeul, 53.0 to 19.0](reviews\2025-09-05-Rouen_V_Marcq-en-Baroeul)
+## URBA Top 13
+
+
+[In depth model review and projections for URBA Top 13 2025](comp_files/URBA_Top_13_2025)
+
+Competition Accuracy: 87 of 114 (76.32%)
+
+Competition Error: 9.68 points per match
+
+Last Two Week Accuracy: 4 of 6 (66.67%)
+
+Last Two Week Error: 7.22 points per match
+
+[2025/09/06 - Hindu V Buenos Aires, 31.0 to 13.0](reviews\2025-09-06-Hindu_V_BuenosAires)
+
+[2025/09/06 - Los Tilos V CUBA, 35.0 to 34.0](reviews\2025-09-06-LosTilos_V_CUBA)
+
+[2025/09/06 - Newman V La Plata, 41.0 to 12.0](reviews\2025-09-06-Newman_V_LaPlata)
+
+[2025/09/06 - Regatas Bella Vista V CASI, 23.0 to 27.0](reviews\2025-09-06-RegatasBellaVista_V_CASI)
+
+[2025/09/06 - SIC V Belgrano AC, 50.0 to 39.0](reviews\2025-09-06-SIC_V_BelgranoAC)
+
+[2025/09/06 - San Luis V Alumni, 29.0 to 26.0](reviews\2025-09-06-SanLuis_V_Alumni)
 ## NPC
 
 
 [In depth model review and projections for NPC 2025](comp_files/NPC_2025)
 
-Competition Accuracy: 26 of 43 (60.47%)
+Competition Accuracy: 27 of 44 (61.36%)
 
-Competition Error: 15.92 points per match
+Competition Error: 15.87 points per match
 
-Last Two Week Accuracy: 5 of 8 (62.5%)
+Last Two Week Accuracy: 6 of 9 (66.67%)
 
-Last Two Week Error: 19.39 points per match
-
-[2025/09/11 - Northland V Wellington, 43.0 to 26.0](reviews\2025-09-11-Northland_V_Wellington)
-
-[2025/09/07 - Tasman V Auckland, 21.0 to 29.0](reviews\2025-09-07-Tasman_V_Auckland)
-
-[2025/09/06 - Taranaki V Bay of Plenty, 17.0 to 43.0](reviews\2025-09-06-Taranaki_V_BayofPlenty)
+Last Two Week Error: 18.74 points per match
 
 [2025/09/06 - Southland V Canterbury, 14.0 to 54.0](reviews\2025-09-06-Southland_V_Canterbury)
 
-[2025/09/05 - Otago V Northland, 29.0 to 10.0](reviews\2025-09-05-Otago_V_Northland)
-
-[2025/09/05 - Manawatu V Waikato, 36.0 to 26.0](reviews\2025-09-05-Manawatu_V_Waikato)
+[2025/09/04 - Counties Manukau V North Harbour, 22.0 to 19.0](reviews\2025-09-04-CountiesManukau_V_NorthHarbour)
 
 [2025/09/05 - Hawke's Bay V Wellington, 45.0 to 19.0](reviews\2025-09-05-HawkesBay_V_Wellington)
 
-[2025/09/04 - Counties Manukau V North Harbour, 22.0 to 19.0](reviews\2025-09-04-CountiesManukau_V_NorthHarbour)
-## Pro D2
+[2025/09/05 - Manawatu V Waikato, 36.0 to 26.0](reviews\2025-09-05-Manawatu_V_Waikato)
 
+[2025/09/05 - Otago V Northland, 29.0 to 10.0](reviews\2025-09-05-Otago_V_Northland)
 
-[In depth model review and projections for Pro D2 25/26](comp_files/Pro_D2_2526)
+[2025/09/06 - Taranaki V Bay of Plenty, 17.0 to 43.0](reviews\2025-09-06-Taranaki_V_BayofPlenty)
 
-Competition Accuracy: 6 of 9 (66.67%)
+[2025/09/07 - Tasman V Auckland, 21.0 to 29.0](reviews\2025-09-07-Tasman_V_Auckland)
 
-Competition Error: 13.34 points per match
+[2025/09/11 - Northland V Wellington, 43.0 to 26.0](reviews\2025-09-11-Northland_V_Wellington)
 
-Last Two Week Accuracy: 1 of 1 (100.0%)
-
-Last Two Week Error: 23.79 points per match
-
-[2025/09/04 - Colomiers V Biarritz Olympique, 44.0 to 10.0](reviews\2025-09-04-Colomiers_V_BiarritzOlympique)
+[2025/09/12 - Waikato V North Harbour, 29.0 to 28.0](reviews\2025-09-12-Waikato_V_NorthHarbour)
