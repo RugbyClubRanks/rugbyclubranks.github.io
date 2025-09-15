@@ -1,6 +1,6 @@
 ---  
 title: "Nationale 25/26"  
-date: 2025-09-12 6:00:00 -0500  
+date: 2025-09-15 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,20 +17,20 @@ aside:
 
 | Club             |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Chambery         |        3 |      2 |                   40 |                     1 |                  2 |                   11 |
-| Nice             |        3 |      2 |                   35 |                     1 |                  1 |                   10 |
-| Niort            |        3 |      2 |                   24 |                     1 |                  1 |                   10 |
-| Périgueux        |        3 |      2 |                   20 |                     1 |                  1 |                   10 |
-| Suresnes         |        3 |      2 |                   13 |                     0 |                    |                   10 |
-| Rouen            |        3 |      1 |                   30 |                     1 |                  1 |                    8 |
-| Narbonne         |        3 |      2 |                   -4 |                     0 |                    |                    8 |
-| Massy            |        3 |      1 |                   11 |                     2 |                  1 |                    7 |
-| Bourgoin-Jallieu |        3 |      1 |                    0 |                     2 |                    |                    6 |
-| Albi             |        3 |      1 |                  -24 |                     1 |                    |                    5 |
-| US Bressane      |        3 |      0 |                  -28 |                     0 |                    |                    4 |
-| Rennes           |        3 |      1 |                  -37 |                     0 |                    |                    4 |
-| Marcq-en-Baroeul |        3 |      1 |                  -40 |                     0 |                    |                    4 |
-| Tarbes           |        3 |      1 |                  -40 |                     0 |                    |                    4 |
+| Nice             |        4 |      3 |                   52 |                     1 |                  2 |                   15 |
+| Périgueux        |        4 |      3 |                   33 |                     1 |                  1 |                   14 |
+| Suresnes         |        4 |      3 |                   17 |                     0 |                    |                   14 |
+| Chambery         |        4 |      2 |                   36 |                     2 |                  2 |                   12 |
+| Narbonne         |        4 |      3 |                   10 |                     0 |                    |                   12 |
+| Niort            |        4 |      2 |                   19 |                     2 |                  1 |                   11 |
+| Albi             |        4 |      2 |                  -20 |                     1 |                    |                    9 |
+| Rouen            |        4 |      1 |                   16 |                     1 |                  1 |                    8 |
+| US Bressane      |        4 |      1 |                  -27 |                     0 |                    |                    8 |
+| Rennes           |        4 |      2 |                  -32 |                     0 |                    |                    8 |
+| Massy            |        4 |      1 |                   -6 |                     2 |                  1 |                    7 |
+| Bourgoin-Jallieu |        4 |      1 |                  -13 |                     2 |                    |                    6 |
+| Tarbes           |        4 |      1 |                  -41 |                     1 |                    |                    5 |
+| Marcq-en-Baroeul |        4 |      1 |                  -44 |                     1 |                    |                    5 |
 
 
 
@@ -39,20 +39,20 @@ aside:
 
 | Club             |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:-----------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Chambery         |        23 |           13.137 |                   55.086 |                           5.056 |                              |                         59.772 |
-| Narbonne         |        23 |           12.279 |                   29.953 |                           5.26  |                              |                         56.548 |
-| Rouen            |        23 |           12.14  |                   28.038 |                           5.45  |                              |                         56.21  |
-| Périgueux        |        23 |           11.701 |                   21.938 |                           5.403 |                              |                         54.449 |
-| Massy            |        23 |           11.558 |                   15.167 |                           5.562 |                              |                         53.938 |
-| Albi             |        23 |           11.442 |                   13.91  |                           5.578 |                              |                         53.652 |
-| Nice             |        23 |           11.225 |                    3.572 |                           5.488 |                              |                         52.79  |
-| Niort            |        23 |           11.374 |                   24.773 |                           4.988 |                              |                         52.482 |
-| US Bressane      |        23 |           10.292 |                  -17.583 |                           5.779 |                              |                         49.229 |
-| Marcq-en-Baroeul |        23 |           10.259 |                  -13.462 |                           5.652 |                              |                         48.896 |
-| Bourgoin-Jallieu |        23 |            9.983 |                  -27.275 |                           5.558 |                              |                         47.7   |
-| Suresnes         |        23 |            9.613 |                  -30.212 |                           6.156 |                              |                         46.828 |
-| Tarbes           |        23 |            9.117 |                  -47.681 |                           5.744 |                              |                         44.372 |
-| Rennes           |        23 |            9.202 |                  -56.224 |                           5.441 |                              |                         44.249 |
+| Chambery         |        22 |           12.506 |                   50.081 |                           4.81  |                              |                         56.88  |
+| Narbonne         |        22 |           11.802 |                   31.439 |                           5.102 |                              |                         54.354 |
+| Rouen            |        22 |           11.638 |                   25.112 |                           5.093 |                              |                         53.789 |
+| Massy            |        22 |           11.145 |                   13.484 |                           5.119 |                              |                         51.815 |
+| Périgueux        |        22 |           11.082 |                   19.829 |                           5.279 |                              |                         51.767 |
+| Albi             |        22 |           11.039 |                   17.758 |                           5.379 |                              |                         51.593 |
+| Nice             |        22 |           10.796 |                    8.468 |                           5.362 |                              |                         50.66  |
+| Niort            |        22 |           10.676 |                   11.218 |                           4.761 |                              |                         49.381 |
+| Bourgoin-Jallieu |        22 |            9.674 |                  -19.757 |                           5.478 |                              |                         46.272 |
+| Suresnes         |        22 |            9.517 |                  -23.777 |                           5.697 |                              |                         45.915 |
+| US Bressane      |        22 |            9.521 |                  -23.217 |                           5.491 |                              |                         45.823 |
+| Marcq-en-Baroeul |        22 |            9.376 |                  -27.468 |                           5.434 |                              |                         44.956 |
+| Tarbes           |        22 |            8.97  |                  -38.472 |                           5.455 |                              |                         43.559 |
+| Rennes           |        22 |            8.93  |                  -44.698 |                           5.275 |                              |                         42.971 |
 
 
 
@@ -61,20 +61,20 @@ aside:
 
 | Club             |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Chambery         |       26 | 15.137 |               95.086 |                 6.056 |                  2 |               70.772 |
-| Narbonne         |       26 | 14.279 |               25.953 |                 5.26  |                    |               64.548 |
-| Périgueux        |       26 | 13.701 |               41.938 |                 6.403 |                  1 |               64.449 |
-| Rouen            |       26 | 13.14  |               58.038 |                 6.45  |                  1 |               64.21  |
-| Nice             |       26 | 13.225 |               38.572 |                 6.488 |                  1 |               62.79  |
-| Niort            |       26 | 13.374 |               48.773 |                 5.988 |                  1 |               62.482 |
-| Massy            |       26 | 12.558 |               26.167 |                 7.562 |                  1 |               60.938 |
-| Albi             |       26 | 12.442 |              -10.09  |                 6.578 |                    |               58.652 |
-| Suresnes         |       26 | 11.613 |              -17.212 |                 6.156 |                    |               56.828 |
-| Bourgoin-Jallieu |       26 | 10.983 |              -27.275 |                 7.558 |                    |               53.7   |
-| US Bressane      |       26 | 10.292 |              -45.583 |                 5.779 |                    |               53.229 |
-| Marcq-en-Baroeul |       26 | 11.259 |              -53.462 |                 5.652 |                    |               52.896 |
-| Tarbes           |       26 | 10.117 |              -87.681 |                 5.744 |                    |               48.372 |
-| Rennes           |       26 | 10.202 |              -93.224 |                 5.441 |                    |               48.249 |
+| Chambery         |       26 | 14.506 |               86.081 |                 6.81  |                  2 |               68.88  |
+| Narbonne         |       26 | 14.802 |               41.439 |                 5.102 |                    |               66.354 |
+| Périgueux        |       26 | 14.082 |               52.829 |                 6.279 |                  1 |               65.767 |
+| Nice             |       26 | 13.796 |               60.468 |                 6.362 |                  2 |               65.66  |
+| Rouen            |       26 | 12.638 |               41.112 |                 6.093 |                  1 |               61.789 |
+| Albi             |       26 | 13.039 |               -2.242 |                 6.379 |                    |               60.593 |
+| Niort            |       26 | 12.676 |               30.218 |                 6.761 |                  1 |               60.381 |
+| Suresnes         |       26 | 12.517 |               -6.777 |                 5.697 |                    |               59.915 |
+| Massy            |       26 | 12.145 |                7.484 |                 7.119 |                  1 |               58.815 |
+| US Bressane      |       26 | 10.521 |              -50.217 |                 5.491 |                    |               53.823 |
+| Bourgoin-Jallieu |       26 | 10.674 |              -32.757 |                 7.478 |                    |               52.272 |
+| Rennes           |       26 | 10.93  |              -76.698 |                 5.275 |                    |               50.971 |
+| Marcq-en-Baroeul |       26 | 10.376 |              -71.468 |                 6.434 |                    |               49.956 |
+| Tarbes           |       26 |  9.97  |              -79.472 |                 6.455 |                    |               48.559 |
 
 
 
@@ -83,131 +83,19 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 57.7% | 8.0 |
+| Club Level | 58.8% | 8.9 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
 
 # Future Predictions
 
-## Week 4
-
-### Albi V Chambery on 2025/09/12
-
-
-Average Margin: Albi by 1.6
-
-<p float="left">
-<img src="plots\2025-09-12-Albi_V_Chambery_performances.png" width="32%" />
-<img src="plots\2025-09-12-Albi_V_Chambery_resultbar.png" width="32%" />
-<img src="plots\2025-09-12-Albi_V_Chambery_spreads.png" width="32%" />
-</p>
-
-### US Bressane V Tarbes on 2025/09/12
-
-
-Average Margin: US Bressane by 5.1
-
-<p float="left">
-<img src="plots\2025-09-12-USBressane_V_Tarbes_performances.png" width="32%" />
-<img src="plots\2025-09-12-USBressane_V_Tarbes_resultbar.png" width="32%" />
-<img src="plots\2025-09-12-USBressane_V_Tarbes_spreads.png" width="32%" />
-</p>
-
-### Marcq-en-Baroeul V Suresnes on 2025/09/13
-
-
-Average Margin: Marcq-en-Baroeul by 3.3
-
-<p float="left">
-<img src="plots\2025-09-13-Marcq-en-Baroeul_V_Suresnes_performances.png" width="32%" />
-<img src="plots\2025-09-13-Marcq-en-Baroeul_V_Suresnes_resultbar.png" width="32%" />
-<img src="plots\2025-09-13-Marcq-en-Baroeul_V_Suresnes_spreads.png" width="32%" />
-</p>
-
-### Nice V Massy on 2025/09/13
-
-
-Average Margin: Nice by 2.5
-
-<p float="left">
-<img src="plots\2025-09-13-Nice_V_Massy_performances.png" width="32%" />
-<img src="plots\2025-09-13-Nice_V_Massy_resultbar.png" width="32%" />
-<img src="plots\2025-09-13-Nice_V_Massy_spreads.png" width="32%" />
-</p>
-
-### Périgueux V Bourgoin-Jallieu on 2025/09/13
-
-
-Average Margin: Périgueux by 6.6
-
-<p float="left">
-<img src="plots\2025-09-13-Perigueux_V_Bourgoin-Jallieu_performances.png" width="32%" />
-<img src="plots\2025-09-13-Perigueux_V_Bourgoin-Jallieu_resultbar.png" width="32%" />
-<img src="plots\2025-09-13-Perigueux_V_Bourgoin-Jallieu_spreads.png" width="32%" />
-</p>
-
-### Narbonne V Rouen on 2025/09/13
-
-
-Average Margin: Narbonne by 3.1
-
-<p float="left">
-<img src="plots\2025-09-13-Narbonne_V_Rouen_performances.png" width="32%" />
-<img src="plots\2025-09-13-Narbonne_V_Rouen_resultbar.png" width="32%" />
-<img src="plots\2025-09-13-Narbonne_V_Rouen_spreads.png" width="32%" />
-</p>
-
-### Rennes V Niort on 2025/09/13
-
-
-Average Margin: Niort by 7.4
-
-<p float="left">
-<img src="plots\2025-09-13-Rennes_V_Niort_performances.png" width="32%" />
-<img src="plots\2025-09-13-Rennes_V_Niort_resultbar.png" width="32%" />
-<img src="plots\2025-09-13-Rennes_V_Niort_spreads.png" width="32%" />
-</p>
-
 ## Week 5
-
-### Chambery V Rennes on 2025/09/26
-
-
-Average Margin: Chambery by 10.4
-
-<p float="left">
-<img src="plots\2025-09-26-Chambery_V_Rennes_performances.png" width="32%" />
-<img src="plots\2025-09-26-Chambery_V_Rennes_resultbar.png" width="32%" />
-<img src="plots\2025-09-26-Chambery_V_Rennes_spreads.png" width="32%" />
-</p>
-
-### Tarbes V Bourgoin-Jallieu on 2025/09/26
-
-
-Average Margin: Tarbes by 2.6
-
-<p float="left">
-<img src="plots\2025-09-26-Tarbes_V_Bourgoin-Jallieu_performances.png" width="32%" />
-<img src="plots\2025-09-26-Tarbes_V_Bourgoin-Jallieu_resultbar.png" width="32%" />
-<img src="plots\2025-09-26-Tarbes_V_Bourgoin-Jallieu_spreads.png" width="32%" />
-</p>
-
-### Massy V Périgueux on 2025/09/26
-
-
-Average Margin: Massy by 2.9
-
-<p float="left">
-<img src="plots\2025-09-26-Massy_V_Perigueux_performances.png" width="32%" />
-<img src="plots\2025-09-26-Massy_V_Perigueux_resultbar.png" width="32%" />
-<img src="plots\2025-09-26-Massy_V_Perigueux_spreads.png" width="32%" />
-</p>
 
 ### US Bressane V Marcq-en-Baroeul on 2025/09/26
 
 
-Average Margin: US Bressane by 2.7
+Average Margin: US Bressane by 3.7
 
 <p float="left">
 <img src="plots\2025-09-26-USBressane_V_Marcq-en-Baroeul_performances.png" width="32%" />
@@ -215,10 +103,32 @@ Average Margin: US Bressane by 2.7
 <img src="plots\2025-09-26-USBressane_V_Marcq-en-Baroeul_spreads.png" width="32%" />
 </p>
 
+### Massy V Périgueux on 2025/09/26
+
+
+Average Margin: Massy by 2.6
+
+<p float="left">
+<img src="plots\2025-09-26-Massy_V_Perigueux_performances.png" width="32%" />
+<img src="plots\2025-09-26-Massy_V_Perigueux_resultbar.png" width="32%" />
+<img src="plots\2025-09-26-Massy_V_Perigueux_spreads.png" width="32%" />
+</p>
+
+### Tarbes V Bourgoin-Jallieu on 2025/09/26
+
+
+Average Margin: Tarbes by 3.1
+
+<p float="left">
+<img src="plots\2025-09-26-Tarbes_V_Bourgoin-Jallieu_performances.png" width="32%" />
+<img src="plots\2025-09-26-Tarbes_V_Bourgoin-Jallieu_resultbar.png" width="32%" />
+<img src="plots\2025-09-26-Tarbes_V_Bourgoin-Jallieu_spreads.png" width="32%" />
+</p>
+
 ### Rouen V Albi on 2025/09/26
 
 
-Average Margin: Rouen by 4.0
+Average Margin: Rouen by 3.3
 
 <p float="left">
 <img src="plots\2025-09-26-Rouen_V_Albi_performances.png" width="32%" />
@@ -226,10 +136,21 @@ Average Margin: Rouen by 4.0
 <img src="plots\2025-09-26-Rouen_V_Albi_spreads.png" width="32%" />
 </p>
 
+### Chambery V Rennes on 2025/09/26
+
+
+Average Margin: Chambery by 10.0
+
+<p float="left">
+<img src="plots\2025-09-26-Chambery_V_Rennes_performances.png" width="32%" />
+<img src="plots\2025-09-26-Chambery_V_Rennes_resultbar.png" width="32%" />
+<img src="plots\2025-09-26-Chambery_V_Rennes_spreads.png" width="32%" />
+</p>
+
 ### Suresnes V Narbonne on 2025/09/27
 
 
-Average Margin: Suresnes by 0.4
+Average Margin: Narbonne by 0.1
 
 <p float="left">
 <img src="plots\2025-09-27-Suresnes_V_Narbonne_performances.png" width="32%" />
@@ -240,7 +161,7 @@ Average Margin: Suresnes by 0.4
 ### Niort V Nice on 2025/09/27
 
 
-Average Margin: Niort by 6.6
+Average Margin: Niort by 4.0
 
 <p float="left">
 <img src="plots\2025-09-27-Niort_V_Nice_performances.png" width="32%" />
@@ -253,7 +174,7 @@ Average Margin: Niort by 6.6
 ### Albi V Suresnes on 2025/10/03
 
 
-Average Margin: Albi by 4.8
+Average Margin: Albi by 5.0
 
 <p float="left">
 <img src="plots\2025-10-03-Albi_V_Suresnes_performances.png" width="32%" />
@@ -261,21 +182,10 @@ Average Margin: Albi by 4.8
 <img src="plots\2025-10-03-Albi_V_Suresnes_spreads.png" width="32%" />
 </p>
 
-### Narbonne V US Bressane on 2025/10/04
-
-
-Average Margin: Narbonne by 5.7
-
-<p float="left">
-<img src="plots\2025-10-04-Narbonne_V_USBressane_performances.png" width="32%" />
-<img src="plots\2025-10-04-Narbonne_V_USBressane_resultbar.png" width="32%" />
-<img src="plots\2025-10-04-Narbonne_V_USBressane_spreads.png" width="32%" />
-</p>
-
 ### Bourgoin-Jallieu V Massy on 2025/10/04
 
 
-Average Margin: Bourgoin-Jallieu by 1.7
+Average Margin: Bourgoin-Jallieu by 1.6
 
 <p float="left">
 <img src="plots\2025-10-04-Bourgoin-Jallieu_V_Massy_performances.png" width="32%" />
@@ -283,32 +193,10 @@ Average Margin: Bourgoin-Jallieu by 1.7
 <img src="plots\2025-10-04-Bourgoin-Jallieu_V_Massy_spreads.png" width="32%" />
 </p>
 
-### Périgueux V Niort on 2025/10/04
-
-
-Average Margin: Périgueux by 3.5
-
-<p float="left">
-<img src="plots\2025-10-04-Perigueux_V_Niort_performances.png" width="32%" />
-<img src="plots\2025-10-04-Perigueux_V_Niort_resultbar.png" width="32%" />
-<img src="plots\2025-10-04-Perigueux_V_Niort_spreads.png" width="32%" />
-</p>
-
-### Marcq-en-Baroeul V Tarbes on 2025/10/04
-
-
-Average Margin: Marcq-en-Baroeul by 4.5
-
-<p float="left">
-<img src="plots\2025-10-04-Marcq-en-Baroeul_V_Tarbes_performances.png" width="32%" />
-<img src="plots\2025-10-04-Marcq-en-Baroeul_V_Tarbes_resultbar.png" width="32%" />
-<img src="plots\2025-10-04-Marcq-en-Baroeul_V_Tarbes_spreads.png" width="32%" />
-</p>
-
 ### Nice V Chambery on 2025/10/04
 
 
-Average Margin: Nice by 0.8
+Average Margin: Nice by 1.2
 
 <p float="left">
 <img src="plots\2025-10-04-Nice_V_Chambery_performances.png" width="32%" />
@@ -316,10 +204,43 @@ Average Margin: Nice by 0.8
 <img src="plots\2025-10-04-Nice_V_Chambery_spreads.png" width="32%" />
 </p>
 
+### Marcq-en-Baroeul V Tarbes on 2025/10/04
+
+
+Average Margin: Marcq-en-Baroeul by 4.2
+
+<p float="left">
+<img src="plots\2025-10-04-Marcq-en-Baroeul_V_Tarbes_performances.png" width="32%" />
+<img src="plots\2025-10-04-Marcq-en-Baroeul_V_Tarbes_resultbar.png" width="32%" />
+<img src="plots\2025-10-04-Marcq-en-Baroeul_V_Tarbes_spreads.png" width="32%" />
+</p>
+
+### Narbonne V US Bressane on 2025/10/04
+
+
+Average Margin: Narbonne by 5.9
+
+<p float="left">
+<img src="plots\2025-10-04-Narbonne_V_USBressane_performances.png" width="32%" />
+<img src="plots\2025-10-04-Narbonne_V_USBressane_resultbar.png" width="32%" />
+<img src="plots\2025-10-04-Narbonne_V_USBressane_spreads.png" width="32%" />
+</p>
+
+### Périgueux V Niort on 2025/10/04
+
+
+Average Margin: Périgueux by 4.3
+
+<p float="left">
+<img src="plots\2025-10-04-Perigueux_V_Niort_performances.png" width="32%" />
+<img src="plots\2025-10-04-Perigueux_V_Niort_resultbar.png" width="32%" />
+<img src="plots\2025-10-04-Perigueux_V_Niort_spreads.png" width="32%" />
+</p>
+
 ### Rennes V Rouen on 2025/10/04
 
 
-Average Margin: Rouen by 2.3
+Average Margin: Rouen by 2.0
 
 <p float="left">
 <img src="plots\2025-10-04-Rennes_V_Rouen_performances.png" width="32%" />
@@ -332,7 +253,7 @@ Average Margin: Rouen by 2.3
 ### US Bressane V Albi on 2025/10/10
 
 
-Average Margin: US Bressane by 1.1
+Average Margin: US Bressane by 1.2
 
 <p float="left">
 <img src="plots\2025-10-10-USBressane_V_Albi_performances.png" width="32%" />
@@ -340,10 +261,21 @@ Average Margin: US Bressane by 1.1
 <img src="plots\2025-10-10-USBressane_V_Albi_spreads.png" width="32%" />
 </p>
 
+### Rouen V Nice on 2025/10/10
+
+
+Average Margin: Rouen by 3.4
+
+<p float="left">
+<img src="plots\2025-10-10-Rouen_V_Nice_performances.png" width="32%" />
+<img src="plots\2025-10-10-Rouen_V_Nice_resultbar.png" width="32%" />
+<img src="plots\2025-10-10-Rouen_V_Nice_spreads.png" width="32%" />
+</p>
+
 ### Tarbes V Massy on 2025/10/10
 
 
-Average Margin: Tarbes by 0.1
+Average Margin: Massy by 0.0
 
 <p float="left">
 <img src="plots\2025-10-10-Tarbes_V_Massy_performances.png" width="32%" />
@@ -354,7 +286,7 @@ Average Margin: Tarbes by 0.1
 ### Chambery V Périgueux on 2025/10/10
 
 
-Average Margin: Chambery by 5.0
+Average Margin: Chambery by 3.9
 
 <p float="left">
 <img src="plots\2025-10-10-Chambery_V_Perigueux_performances.png" width="32%" />
@@ -362,43 +294,10 @@ Average Margin: Chambery by 5.0
 <img src="plots\2025-10-10-Chambery_V_Perigueux_spreads.png" width="32%" />
 </p>
 
-### Rouen V Nice on 2025/10/10
-
-
-Average Margin: Rouen by 3.3
-
-<p float="left">
-<img src="plots\2025-10-10-Rouen_V_Nice_performances.png" width="32%" />
-<img src="plots\2025-10-10-Rouen_V_Nice_resultbar.png" width="32%" />
-<img src="plots\2025-10-10-Rouen_V_Nice_spreads.png" width="32%" />
-</p>
-
-### Marcq-en-Baroeul V Narbonne on 2025/10/11
-
-
-Average Margin: Marcq-en-Baroeul by 0.6
-
-<p float="left">
-<img src="plots\2025-10-11-Marcq-en-Baroeul_V_Narbonne_performances.png" width="32%" />
-<img src="plots\2025-10-11-Marcq-en-Baroeul_V_Narbonne_resultbar.png" width="32%" />
-<img src="plots\2025-10-11-Marcq-en-Baroeul_V_Narbonne_spreads.png" width="32%" />
-</p>
-
-### Niort V Bourgoin-Jallieu on 2025/10/11
-
-
-Average Margin: Niort by 5.1
-
-<p float="left">
-<img src="plots\2025-10-11-Niort_V_Bourgoin-Jallieu_performances.png" width="32%" />
-<img src="plots\2025-10-11-Niort_V_Bourgoin-Jallieu_resultbar.png" width="32%" />
-<img src="plots\2025-10-11-Niort_V_Bourgoin-Jallieu_spreads.png" width="32%" />
-</p>
-
 ### Suresnes V Rennes on 2025/10/11
 
 
-Average Margin: Suresnes by 4.9
+Average Margin: Suresnes by 4.7
 
 <p float="left">
 <img src="plots\2025-10-11-Suresnes_V_Rennes_performances.png" width="32%" />
@@ -406,23 +305,34 @@ Average Margin: Suresnes by 4.9
 <img src="plots\2025-10-11-Suresnes_V_Rennes_spreads.png" width="32%" />
 </p>
 
-## Week 8
-
-### Albi V Marcq-en-Baroeul on 2025/10/17
+### Niort V Bourgoin-Jallieu on 2025/10/11
 
 
-Average Margin: Albi by 4.8
+Average Margin: Niort by 4.2
 
 <p float="left">
-<img src="plots\2025-10-17-Albi_V_Marcq-en-Baroeul_performances.png" width="32%" />
-<img src="plots\2025-10-17-Albi_V_Marcq-en-Baroeul_resultbar.png" width="32%" />
-<img src="plots\2025-10-17-Albi_V_Marcq-en-Baroeul_spreads.png" width="32%" />
+<img src="plots\2025-10-11-Niort_V_Bourgoin-Jallieu_performances.png" width="32%" />
+<img src="plots\2025-10-11-Niort_V_Bourgoin-Jallieu_resultbar.png" width="32%" />
+<img src="plots\2025-10-11-Niort_V_Bourgoin-Jallieu_spreads.png" width="32%" />
 </p>
+
+### Marcq-en-Baroeul V Narbonne on 2025/10/11
+
+
+Average Margin: Narbonne by 0.1
+
+<p float="left">
+<img src="plots\2025-10-11-Marcq-en-Baroeul_V_Narbonne_performances.png" width="32%" />
+<img src="plots\2025-10-11-Marcq-en-Baroeul_V_Narbonne_resultbar.png" width="32%" />
+<img src="plots\2025-10-11-Marcq-en-Baroeul_V_Narbonne_spreads.png" width="32%" />
+</p>
+
+## Week 8
 
 ### Massy V Niort on 2025/10/17
 
 
-Average Margin: Massy by 3.8
+Average Margin: Massy by 3.2
 
 <p float="left">
 <img src="plots\2025-10-17-Massy_V_Niort_performances.png" width="32%" />
@@ -430,10 +340,21 @@ Average Margin: Massy by 3.8
 <img src="plots\2025-10-17-Massy_V_Niort_spreads.png" width="32%" />
 </p>
 
+### Albi V Marcq-en-Baroeul on 2025/10/17
+
+
+Average Margin: Albi by 5.7
+
+<p float="left">
+<img src="plots\2025-10-17-Albi_V_Marcq-en-Baroeul_performances.png" width="32%" />
+<img src="plots\2025-10-17-Albi_V_Marcq-en-Baroeul_resultbar.png" width="32%" />
+<img src="plots\2025-10-17-Albi_V_Marcq-en-Baroeul_spreads.png" width="32%" />
+</p>
+
 ### Narbonne V Tarbes on 2025/10/18
 
 
-Average Margin: Narbonne by 7.0
+Average Margin: Narbonne by 6.7
 
 <p float="left">
 <img src="plots\2025-10-18-Narbonne_V_Tarbes_performances.png" width="32%" />
@@ -441,43 +362,10 @@ Average Margin: Narbonne by 7.0
 <img src="plots\2025-10-18-Narbonne_V_Tarbes_spreads.png" width="32%" />
 </p>
 
-### Bourgoin-Jallieu V Chambery on 2025/10/18
-
-
-Average Margin: Chambery by 0.1
-
-<p float="left">
-<img src="plots\2025-10-18-Bourgoin-Jallieu_V_Chambery_performances.png" width="32%" />
-<img src="plots\2025-10-18-Bourgoin-Jallieu_V_Chambery_resultbar.png" width="32%" />
-<img src="plots\2025-10-18-Bourgoin-Jallieu_V_Chambery_spreads.png" width="32%" />
-</p>
-
-### Nice V Suresnes on 2025/10/18
-
-
-Average Margin: Nice by 4.9
-
-<p float="left">
-<img src="plots\2025-10-18-Nice_V_Suresnes_performances.png" width="32%" />
-<img src="plots\2025-10-18-Nice_V_Suresnes_resultbar.png" width="32%" />
-<img src="plots\2025-10-18-Nice_V_Suresnes_spreads.png" width="32%" />
-</p>
-
-### Rennes V US Bressane on 2025/10/18
-
-
-Average Margin: Rennes by 0.3
-
-<p float="left">
-<img src="plots\2025-10-18-Rennes_V_USBressane_performances.png" width="32%" />
-<img src="plots\2025-10-18-Rennes_V_USBressane_resultbar.png" width="32%" />
-<img src="plots\2025-10-18-Rennes_V_USBressane_spreads.png" width="32%" />
-</p>
-
 ### Périgueux V Rouen on 2025/10/18
 
 
-Average Margin: Périgueux by 2.7
+Average Margin: Périgueux by 3.8
 
 <p float="left">
 <img src="plots\2025-10-18-Perigueux_V_Rouen_performances.png" width="32%" />
@@ -485,12 +373,45 @@ Average Margin: Périgueux by 2.7
 <img src="plots\2025-10-18-Perigueux_V_Rouen_spreads.png" width="32%" />
 </p>
 
+### Bourgoin-Jallieu V Chambery on 2025/10/18
+
+
+Average Margin: Chambery by 0.2
+
+<p float="left">
+<img src="plots\2025-10-18-Bourgoin-Jallieu_V_Chambery_performances.png" width="32%" />
+<img src="plots\2025-10-18-Bourgoin-Jallieu_V_Chambery_resultbar.png" width="32%" />
+<img src="plots\2025-10-18-Bourgoin-Jallieu_V_Chambery_spreads.png" width="32%" />
+</p>
+
+### Rennes V US Bressane on 2025/10/18
+
+
+Average Margin: Rennes by 1.6
+
+<p float="left">
+<img src="plots\2025-10-18-Rennes_V_USBressane_performances.png" width="32%" />
+<img src="plots\2025-10-18-Rennes_V_USBressane_resultbar.png" width="32%" />
+<img src="plots\2025-10-18-Rennes_V_USBressane_spreads.png" width="32%" />
+</p>
+
+### Nice V Suresnes on 2025/10/18
+
+
+Average Margin: Nice by 4.2
+
+<p float="left">
+<img src="plots\2025-10-18-Nice_V_Suresnes_performances.png" width="32%" />
+<img src="plots\2025-10-18-Nice_V_Suresnes_resultbar.png" width="32%" />
+<img src="plots\2025-10-18-Nice_V_Suresnes_spreads.png" width="32%" />
+</p>
+
 ## Week 9
 
 ### Rouen V Bourgoin-Jallieu on 2025/10/31
 
 
-Average Margin: Rouen by 6.3
+Average Margin: Rouen by 6.1
 
 <p float="left">
 <img src="plots\2025-10-31-Rouen_V_Bourgoin-Jallieu_performances.png" width="32%" />
@@ -501,7 +422,7 @@ Average Margin: Rouen by 6.3
 ### Chambery V Massy on 2025/10/31
 
 
-Average Margin: Chambery by 4.9
+Average Margin: Chambery by 4.6
 
 <p float="left">
 <img src="plots\2025-10-31-Chambery_V_Massy_performances.png" width="32%" />
@@ -512,7 +433,7 @@ Average Margin: Chambery by 4.9
 ### US Bressane V Nice on 2025/10/31
 
 
-Average Margin: US Bressane by 1.1
+Average Margin: US Bressane by 0.9
 
 <p float="left">
 <img src="plots\2025-10-31-USBressane_V_Nice_performances.png" width="32%" />
@@ -523,7 +444,7 @@ Average Margin: US Bressane by 1.1
 ### Tarbes V Niort on 2025/10/31
 
 
-Average Margin: Niort by 0.1
+Average Margin: Tarbes by 1.0
 
 <p float="left">
 <img src="plots\2025-10-31-Tarbes_V_Niort_performances.png" width="32%" />
@@ -534,7 +455,7 @@ Average Margin: Niort by 0.1
 ### Narbonne V Albi on 2025/11/01
 
 
-Average Margin: Narbonne by 3.7
+Average Margin: Narbonne by 4.0
 
 <p float="left">
 <img src="plots\2025-11-01-Narbonne_V_Albi_performances.png" width="32%" />
@@ -545,7 +466,7 @@ Average Margin: Narbonne by 3.7
 ### Suresnes V Périgueux on 2025/11/01
 
 
-Average Margin: Suresnes by 0.6
+Average Margin: Suresnes by 1.1
 
 <p float="left">
 <img src="plots\2025-11-01-Suresnes_V_Perigueux_performances.png" width="32%" />
@@ -556,7 +477,7 @@ Average Margin: Suresnes by 0.6
 ### Marcq-en-Baroeul V Rennes on 2025/11/01
 
 
-Average Margin: Marcq-en-Baroeul by 5.0
+Average Margin: Marcq-en-Baroeul by 3.5
 
 <p float="left">
 <img src="plots\2025-11-01-Marcq-en-Baroeul_V_Rennes_performances.png" width="32%" />
@@ -566,21 +487,10 @@ Average Margin: Marcq-en-Baroeul by 5.0
 
 ## Week 10
 
-### Albi V Tarbes on 2025/11/07
-
-
-Average Margin: Albi by 5.7
-
-<p float="left">
-<img src="plots\2025-11-07-Albi_V_Tarbes_performances.png" width="32%" />
-<img src="plots\2025-11-07-Albi_V_Tarbes_resultbar.png" width="32%" />
-<img src="plots\2025-11-07-Albi_V_Tarbes_spreads.png" width="32%" />
-</p>
-
 ### Massy V Rouen on 2025/11/07
 
 
-Average Margin: Massy by 2.5
+Average Margin: Massy by 2.4
 
 <p float="left">
 <img src="plots\2025-11-07-Massy_V_Rouen_performances.png" width="32%" />
@@ -588,32 +498,32 @@ Average Margin: Massy by 2.5
 <img src="plots\2025-11-07-Massy_V_Rouen_spreads.png" width="32%" />
 </p>
 
-### Nice V Marcq-en-Baroeul on 2025/11/08
+### Albi V Tarbes on 2025/11/07
 
 
-Average Margin: Nice by 4.2
+Average Margin: Albi by 6.1
 
 <p float="left">
-<img src="plots\2025-11-08-Nice_V_Marcq-en-Baroeul_performances.png" width="32%" />
-<img src="plots\2025-11-08-Nice_V_Marcq-en-Baroeul_resultbar.png" width="32%" />
-<img src="plots\2025-11-08-Nice_V_Marcq-en-Baroeul_spreads.png" width="32%" />
+<img src="plots\2025-11-07-Albi_V_Tarbes_performances.png" width="32%" />
+<img src="plots\2025-11-07-Albi_V_Tarbes_resultbar.png" width="32%" />
+<img src="plots\2025-11-07-Albi_V_Tarbes_spreads.png" width="32%" />
 </p>
 
-### Niort V Chambery on 2025/11/08
+### Bourgoin-Jallieu V Suresnes on 2025/11/08
 
 
-Average Margin: Niort by 1.7
+Average Margin: Bourgoin-Jallieu by 3.6
 
 <p float="left">
-<img src="plots\2025-11-08-Niort_V_Chambery_performances.png" width="32%" />
-<img src="plots\2025-11-08-Niort_V_Chambery_resultbar.png" width="32%" />
-<img src="plots\2025-11-08-Niort_V_Chambery_spreads.png" width="32%" />
+<img src="plots\2025-11-08-Bourgoin-Jallieu_V_Suresnes_performances.png" width="32%" />
+<img src="plots\2025-11-08-Bourgoin-Jallieu_V_Suresnes_resultbar.png" width="32%" />
+<img src="plots\2025-11-08-Bourgoin-Jallieu_V_Suresnes_spreads.png" width="32%" />
 </p>
 
 ### Rennes V Narbonne on 2025/11/08
 
 
-Average Margin: Narbonne by 1.0
+Average Margin: Narbonne by 1.5
 
 <p float="left">
 <img src="plots\2025-11-08-Rennes_V_Narbonne_performances.png" width="32%" />
@@ -624,7 +534,7 @@ Average Margin: Narbonne by 1.0
 ### Périgueux V US Bressane on 2025/11/08
 
 
-Average Margin: Périgueux by 5.7
+Average Margin: Périgueux by 5.8
 
 <p float="left">
 <img src="plots\2025-11-08-Perigueux_V_USBressane_performances.png" width="32%" />
@@ -632,56 +542,34 @@ Average Margin: Périgueux by 5.7
 <img src="plots\2025-11-08-Perigueux_V_USBressane_spreads.png" width="32%" />
 </p>
 
-### Bourgoin-Jallieu V Suresnes on 2025/11/08
+### Nice V Marcq-en-Baroeul on 2025/11/08
 
 
-Average Margin: Bourgoin-Jallieu by 3.7
+Average Margin: Nice by 4.7
 
 <p float="left">
-<img src="plots\2025-11-08-Bourgoin-Jallieu_V_Suresnes_performances.png" width="32%" />
-<img src="plots\2025-11-08-Bourgoin-Jallieu_V_Suresnes_resultbar.png" width="32%" />
-<img src="plots\2025-11-08-Bourgoin-Jallieu_V_Suresnes_spreads.png" width="32%" />
+<img src="plots\2025-11-08-Nice_V_Marcq-en-Baroeul_performances.png" width="32%" />
+<img src="plots\2025-11-08-Nice_V_Marcq-en-Baroeul_resultbar.png" width="32%" />
+<img src="plots\2025-11-08-Nice_V_Marcq-en-Baroeul_spreads.png" width="32%" />
+</p>
+
+### Niort V Chambery on 2025/11/08
+
+
+Average Margin: Niort by 2.1
+
+<p float="left">
+<img src="plots\2025-11-08-Niort_V_Chambery_performances.png" width="32%" />
+<img src="plots\2025-11-08-Niort_V_Chambery_resultbar.png" width="32%" />
+<img src="plots\2025-11-08-Niort_V_Chambery_spreads.png" width="32%" />
 </p>
 
 ## Week 11
 
-### US Bressane V Bourgoin-Jallieu on 2025/11/14
-
-
-Average Margin: US Bressane by 3.3
-
-<p float="left">
-<img src="plots\2025-11-14-USBressane_V_Bourgoin-Jallieu_performances.png" width="32%" />
-<img src="plots\2025-11-14-USBressane_V_Bourgoin-Jallieu_resultbar.png" width="32%" />
-<img src="plots\2025-11-14-USBressane_V_Bourgoin-Jallieu_spreads.png" width="32%" />
-</p>
-
-### Albi V Rennes on 2025/11/14
-
-
-Average Margin: Albi by 5.5
-
-<p float="left">
-<img src="plots\2025-11-14-Albi_V_Rennes_performances.png" width="32%" />
-<img src="plots\2025-11-14-Albi_V_Rennes_resultbar.png" width="32%" />
-<img src="plots\2025-11-14-Albi_V_Rennes_spreads.png" width="32%" />
-</p>
-
-### Rouen V Niort on 2025/11/14
-
-
-Average Margin: Rouen by 3.3
-
-<p float="left">
-<img src="plots\2025-11-14-Rouen_V_Niort_performances.png" width="32%" />
-<img src="plots\2025-11-14-Rouen_V_Niort_resultbar.png" width="32%" />
-<img src="plots\2025-11-14-Rouen_V_Niort_spreads.png" width="32%" />
-</p>
-
 ### Tarbes V Chambery on 2025/11/14
 
 
-Average Margin: Chambery by 1.7
+Average Margin: Chambery by 1.1
 
 <p float="left">
 <img src="plots\2025-11-14-Tarbes_V_Chambery_performances.png" width="32%" />
@@ -689,10 +577,43 @@ Average Margin: Chambery by 1.7
 <img src="plots\2025-11-14-Tarbes_V_Chambery_spreads.png" width="32%" />
 </p>
 
+### US Bressane V Bourgoin-Jallieu on 2025/11/14
+
+
+Average Margin: US Bressane by 3.0
+
+<p float="left">
+<img src="plots\2025-11-14-USBressane_V_Bourgoin-Jallieu_performances.png" width="32%" />
+<img src="plots\2025-11-14-USBressane_V_Bourgoin-Jallieu_resultbar.png" width="32%" />
+<img src="plots\2025-11-14-USBressane_V_Bourgoin-Jallieu_spreads.png" width="32%" />
+</p>
+
+### Rouen V Niort on 2025/11/14
+
+
+Average Margin: Rouen by 3.7
+
+<p float="left">
+<img src="plots\2025-11-14-Rouen_V_Niort_performances.png" width="32%" />
+<img src="plots\2025-11-14-Rouen_V_Niort_resultbar.png" width="32%" />
+<img src="plots\2025-11-14-Rouen_V_Niort_spreads.png" width="32%" />
+</p>
+
+### Albi V Rennes on 2025/11/14
+
+
+Average Margin: Albi by 6.5
+
+<p float="left">
+<img src="plots\2025-11-14-Albi_V_Rennes_performances.png" width="32%" />
+<img src="plots\2025-11-14-Albi_V_Rennes_resultbar.png" width="32%" />
+<img src="plots\2025-11-14-Albi_V_Rennes_spreads.png" width="32%" />
+</p>
+
 ### Marcq-en-Baroeul V Périgueux on 2025/11/15
 
 
-Average Margin: Marcq-en-Baroeul by 1.8
+Average Margin: Marcq-en-Baroeul by 1.0
 
 <p float="left">
 <img src="plots\2025-11-15-Marcq-en-Baroeul_V_Perigueux_performances.png" width="32%" />
@@ -703,7 +624,7 @@ Average Margin: Marcq-en-Baroeul by 1.8
 ### Suresnes V Massy on 2025/11/15
 
 
-Average Margin: Suresnes by 1.0
+Average Margin: Suresnes by 1.5
 
 <p float="left">
 <img src="plots\2025-11-15-Suresnes_V_Massy_performances.png" width="32%" />
@@ -724,21 +645,10 @@ Average Margin: Narbonne by 3.3
 
 ## Week 12
 
-### Chambery V Rouen on 2025/11/21
-
-
-Average Margin: Chambery by 4.3
-
-<p float="left">
-<img src="plots\2025-11-21-Chambery_V_Rouen_performances.png" width="32%" />
-<img src="plots\2025-11-21-Chambery_V_Rouen_resultbar.png" width="32%" />
-<img src="plots\2025-11-21-Chambery_V_Rouen_spreads.png" width="32%" />
-</p>
-
 ### Massy V US Bressane on 2025/11/21
 
 
-Average Margin: Massy by 4.9
+Average Margin: Massy by 5.2
 
 <p float="left">
 <img src="plots\2025-11-21-Massy_V_USBressane_performances.png" width="32%" />
@@ -746,21 +656,32 @@ Average Margin: Massy by 4.9
 <img src="plots\2025-11-21-Massy_V_USBressane_spreads.png" width="32%" />
 </p>
 
-### Bourgoin-Jallieu V Marcq-en-Baroeul on 2025/11/22
+### Chambery V Rouen on 2025/11/21
 
 
-Average Margin: Bourgoin-Jallieu by 3.6
+Average Margin: Chambery by 4.2
 
 <p float="left">
-<img src="plots\2025-11-22-Bourgoin-Jallieu_V_Marcq-en-Baroeul_performances.png" width="32%" />
-<img src="plots\2025-11-22-Bourgoin-Jallieu_V_Marcq-en-Baroeul_resultbar.png" width="32%" />
-<img src="plots\2025-11-22-Bourgoin-Jallieu_V_Marcq-en-Baroeul_spreads.png" width="32%" />
+<img src="plots\2025-11-21-Chambery_V_Rouen_performances.png" width="32%" />
+<img src="plots\2025-11-21-Chambery_V_Rouen_resultbar.png" width="32%" />
+<img src="plots\2025-11-21-Chambery_V_Rouen_spreads.png" width="32%" />
+</p>
+
+### Rennes V Tarbes on 2025/11/22
+
+
+Average Margin: Rennes by 1.8
+
+<p float="left">
+<img src="plots\2025-11-22-Rennes_V_Tarbes_performances.png" width="32%" />
+<img src="plots\2025-11-22-Rennes_V_Tarbes_resultbar.png" width="32%" />
+<img src="plots\2025-11-22-Rennes_V_Tarbes_spreads.png" width="32%" />
 </p>
 
 ### Périgueux V Narbonne on 2025/11/22
 
 
-Average Margin: Périgueux by 3.6
+Average Margin: Périgueux by 3.0
 
 <p float="left">
 <img src="plots\2025-11-22-Perigueux_V_Narbonne_performances.png" width="32%" />
@@ -768,15 +689,15 @@ Average Margin: Périgueux by 3.6
 <img src="plots\2025-11-22-Perigueux_V_Narbonne_spreads.png" width="32%" />
 </p>
 
-### Niort V Suresnes on 2025/11/22
+### Bourgoin-Jallieu V Marcq-en-Baroeul on 2025/11/22
 
 
-Average Margin: Niort by 4.6
+Average Margin: Bourgoin-Jallieu by 4.3
 
 <p float="left">
-<img src="plots\2025-11-22-Niort_V_Suresnes_performances.png" width="32%" />
-<img src="plots\2025-11-22-Niort_V_Suresnes_resultbar.png" width="32%" />
-<img src="plots\2025-11-22-Niort_V_Suresnes_spreads.png" width="32%" />
+<img src="plots\2025-11-22-Bourgoin-Jallieu_V_Marcq-en-Baroeul_performances.png" width="32%" />
+<img src="plots\2025-11-22-Bourgoin-Jallieu_V_Marcq-en-Baroeul_resultbar.png" width="32%" />
+<img src="plots\2025-11-22-Bourgoin-Jallieu_V_Marcq-en-Baroeul_spreads.png" width="32%" />
 </p>
 
 ### Nice V Albi on 2025/11/22
@@ -790,23 +711,34 @@ Average Margin: Nice by 2.7
 <img src="plots\2025-11-22-Nice_V_Albi_spreads.png" width="32%" />
 </p>
 
-### Rennes V Tarbes on 2025/11/22
+### Niort V Suresnes on 2025/11/22
 
 
-Average Margin: Rennes by 1.9
+Average Margin: Niort by 5.2
 
 <p float="left">
-<img src="plots\2025-11-22-Rennes_V_Tarbes_performances.png" width="32%" />
-<img src="plots\2025-11-22-Rennes_V_Tarbes_resultbar.png" width="32%" />
-<img src="plots\2025-11-22-Rennes_V_Tarbes_spreads.png" width="32%" />
+<img src="plots\2025-11-22-Niort_V_Suresnes_performances.png" width="32%" />
+<img src="plots\2025-11-22-Niort_V_Suresnes_resultbar.png" width="32%" />
+<img src="plots\2025-11-22-Niort_V_Suresnes_spreads.png" width="32%" />
 </p>
 
 ## Week 13
 
+### US Bressane V Niort on 2025/12/05
+
+
+Average Margin: US Bressane by 1.8
+
+<p float="left">
+<img src="plots\2025-12-05-USBressane_V_Niort_performances.png" width="32%" />
+<img src="plots\2025-12-05-USBressane_V_Niort_resultbar.png" width="32%" />
+<img src="plots\2025-12-05-USBressane_V_Niort_spreads.png" width="32%" />
+</p>
+
 ### Tarbes V Rouen on 2025/12/05
 
 
-Average Margin: Rouen by 0.3
+Average Margin: Tarbes by 0.3
 
 <p float="left">
 <img src="plots\2025-12-05-Tarbes_V_Rouen_performances.png" width="32%" />
@@ -817,7 +749,7 @@ Average Margin: Rouen by 0.3
 ### Albi V Périgueux on 2025/12/05
 
 
-Average Margin: Albi by 2.6
+Average Margin: Albi by 3.2
 
 <p float="left">
 <img src="plots\2025-12-05-Albi_V_Perigueux_performances.png" width="32%" />
@@ -825,32 +757,21 @@ Average Margin: Albi by 2.6
 <img src="plots\2025-12-05-Albi_V_Perigueux_spreads.png" width="32%" />
 </p>
 
-### US Bressane V Niort on 2025/12/05
+### Marcq-en-Baroeul V Massy on 2025/12/06
 
 
-Average Margin: US Bressane by 1.6
-
-<p float="left">
-<img src="plots\2025-12-05-USBressane_V_Niort_performances.png" width="32%" />
-<img src="plots\2025-12-05-USBressane_V_Niort_resultbar.png" width="32%" />
-<img src="plots\2025-12-05-USBressane_V_Niort_spreads.png" width="32%" />
-</p>
-
-### Rennes V Nice on 2025/12/06
-
-
-Average Margin: Rennes by 0.5
+Average Margin: Marcq-en-Baroeul by 1.7
 
 <p float="left">
-<img src="plots\2025-12-06-Rennes_V_Nice_performances.png" width="32%" />
-<img src="plots\2025-12-06-Rennes_V_Nice_resultbar.png" width="32%" />
-<img src="plots\2025-12-06-Rennes_V_Nice_spreads.png" width="32%" />
+<img src="plots\2025-12-06-Marcq-en-Baroeul_V_Massy_performances.png" width="32%" />
+<img src="plots\2025-12-06-Marcq-en-Baroeul_V_Massy_resultbar.png" width="32%" />
+<img src="plots\2025-12-06-Marcq-en-Baroeul_V_Massy_spreads.png" width="32%" />
 </p>
 
 ### Suresnes V Chambery on 2025/12/06
 
 
-Average Margin: Chambery by 0.2
+Average Margin: Suresnes by 0.1
 
 <p float="left">
 <img src="plots\2025-12-06-Suresnes_V_Chambery_performances.png" width="32%" />
@@ -861,7 +782,7 @@ Average Margin: Chambery by 0.2
 ### Narbonne V Bourgoin-Jallieu on 2025/12/06
 
 
-Average Margin: Narbonne by 5.3
+Average Margin: Narbonne by 5.0
 
 <p float="left">
 <img src="plots\2025-12-06-Narbonne_V_Bourgoin-Jallieu_performances.png" width="32%" />
@@ -869,15 +790,15 @@ Average Margin: Narbonne by 5.3
 <img src="plots\2025-12-06-Narbonne_V_Bourgoin-Jallieu_spreads.png" width="32%" />
 </p>
 
-### Marcq-en-Baroeul V Massy on 2025/12/06
+### Rennes V Nice on 2025/12/06
 
 
-Average Margin: Marcq-en-Baroeul by 1.6
+Average Margin: Rennes by 0.2
 
 <p float="left">
-<img src="plots\2025-12-06-Marcq-en-Baroeul_V_Massy_performances.png" width="32%" />
-<img src="plots\2025-12-06-Marcq-en-Baroeul_V_Massy_resultbar.png" width="32%" />
-<img src="plots\2025-12-06-Marcq-en-Baroeul_V_Massy_spreads.png" width="32%" />
+<img src="plots\2025-12-06-Rennes_V_Nice_performances.png" width="32%" />
+<img src="plots\2025-12-06-Rennes_V_Nice_resultbar.png" width="32%" />
+<img src="plots\2025-12-06-Rennes_V_Nice_spreads.png" width="32%" />
 </p>
 
 ## Week 14
@@ -885,7 +806,7 @@ Average Margin: Marcq-en-Baroeul by 1.6
 ### US Bressane V Chambery on 2025/12/12
 
 
-Average Margin: Chambery by 0.1
+Average Margin: Chambery by 0.3
 
 <p float="left">
 <img src="plots\2025-12-12-USBressane_V_Chambery_performances.png" width="32%" />
@@ -896,12 +817,23 @@ Average Margin: Chambery by 0.1
 ### Albi V Bourgoin-Jallieu on 2025/12/12
 
 
-Average Margin: Albi by 4.8
+Average Margin: Albi by 5.7
 
 <p float="left">
 <img src="plots\2025-12-12-Albi_V_Bourgoin-Jallieu_performances.png" width="32%" />
 <img src="plots\2025-12-12-Albi_V_Bourgoin-Jallieu_resultbar.png" width="32%" />
 <img src="plots\2025-12-12-Albi_V_Bourgoin-Jallieu_spreads.png" width="32%" />
+</p>
+
+### Marcq-en-Baroeul V Niort on 2025/12/13
+
+
+Average Margin: Marcq-en-Baroeul by 1.1
+
+<p float="left">
+<img src="plots\2025-12-13-Marcq-en-Baroeul_V_Niort_performances.png" width="32%" />
+<img src="plots\2025-12-13-Marcq-en-Baroeul_V_Niort_resultbar.png" width="32%" />
+<img src="plots\2025-12-13-Marcq-en-Baroeul_V_Niort_spreads.png" width="32%" />
 </p>
 
 ### Nice V Tarbes on 2025/12/13
@@ -915,26 +847,26 @@ Average Margin: Nice by 5.0
 <img src="plots\2025-12-13-Nice_V_Tarbes_spreads.png" width="32%" />
 </p>
 
+### Narbonne V Massy on 2025/12/13
+
+
+Average Margin: Narbonne by 3.8
+
+<p float="left">
+<img src="plots\2025-12-13-Narbonne_V_Massy_performances.png" width="32%" />
+<img src="plots\2025-12-13-Narbonne_V_Massy_resultbar.png" width="32%" />
+<img src="plots\2025-12-13-Narbonne_V_Massy_spreads.png" width="32%" />
+</p>
+
 ### Rennes V Périgueux on 2025/12/13
 
 
-Average Margin: Rennes by 0.2
+Average Margin: Rennes by 0.1
 
 <p float="left">
 <img src="plots\2025-12-13-Rennes_V_Perigueux_performances.png" width="32%" />
 <img src="plots\2025-12-13-Rennes_V_Perigueux_resultbar.png" width="32%" />
 <img src="plots\2025-12-13-Rennes_V_Perigueux_spreads.png" width="32%" />
-</p>
-
-### Marcq-en-Baroeul V Niort on 2025/12/13
-
-
-Average Margin: Marcq-en-Baroeul by 2.1
-
-<p float="left">
-<img src="plots\2025-12-13-Marcq-en-Baroeul_V_Niort_performances.png" width="32%" />
-<img src="plots\2025-12-13-Marcq-en-Baroeul_V_Niort_resultbar.png" width="32%" />
-<img src="plots\2025-12-13-Marcq-en-Baroeul_V_Niort_spreads.png" width="32%" />
 </p>
 
 ### Suresnes V Rouen on 2025/12/13
@@ -948,45 +880,12 @@ Average Margin: Suresnes by 0.7
 <img src="plots\2025-12-13-Suresnes_V_Rouen_spreads.png" width="32%" />
 </p>
 
-### Narbonne V Massy on 2025/12/13
-
-
-Average Margin: Narbonne by 3.7
-
-<p float="left">
-<img src="plots\2025-12-13-Narbonne_V_Massy_performances.png" width="32%" />
-<img src="plots\2025-12-13-Narbonne_V_Massy_resultbar.png" width="32%" />
-<img src="plots\2025-12-13-Narbonne_V_Massy_spreads.png" width="32%" />
-</p>
-
 ## Week 15
-
-### Chambery V Marcq-en-Baroeul on 2026/01/09
-
-
-Average Margin: Chambery by 5.7
-
-<p float="left">
-<img src="plots\2026-01-09-Chambery_V_Marcq-en-Baroeul_performances.png" width="32%" />
-<img src="plots\2026-01-09-Chambery_V_Marcq-en-Baroeul_resultbar.png" width="32%" />
-<img src="plots\2026-01-09-Chambery_V_Marcq-en-Baroeul_spreads.png" width="32%" />
-</p>
-
-### Massy V Albi on 2026/01/09
-
-
-Average Margin: Massy by 3.4
-
-<p float="left">
-<img src="plots\2026-01-09-Massy_V_Albi_performances.png" width="32%" />
-<img src="plots\2026-01-09-Massy_V_Albi_resultbar.png" width="32%" />
-<img src="plots\2026-01-09-Massy_V_Albi_spreads.png" width="32%" />
-</p>
 
 ### Tarbes V Suresnes on 2026/01/09
 
 
-Average Margin: Tarbes by 2.9
+Average Margin: Tarbes by 3.0
 
 <p float="left">
 <img src="plots\2026-01-09-Tarbes_V_Suresnes_performances.png" width="32%" />
@@ -994,10 +893,21 @@ Average Margin: Tarbes by 2.9
 <img src="plots\2026-01-09-Tarbes_V_Suresnes_spreads.png" width="32%" />
 </p>
 
+### Chambery V Marcq-en-Baroeul on 2026/01/09
+
+
+Average Margin: Chambery by 6.8
+
+<p float="left">
+<img src="plots\2026-01-09-Chambery_V_Marcq-en-Baroeul_performances.png" width="32%" />
+<img src="plots\2026-01-09-Chambery_V_Marcq-en-Baroeul_resultbar.png" width="32%" />
+<img src="plots\2026-01-09-Chambery_V_Marcq-en-Baroeul_spreads.png" width="32%" />
+</p>
+
 ### Rouen V US Bressane on 2026/01/09
 
 
-Average Margin: Rouen by 5.1
+Average Margin: Rouen by 5.5
 
 <p float="left">
 <img src="plots\2026-01-09-Rouen_V_USBressane_performances.png" width="32%" />
@@ -1005,21 +915,21 @@ Average Margin: Rouen by 5.1
 <img src="plots\2026-01-09-Rouen_V_USBressane_spreads.png" width="32%" />
 </p>
 
-### Bourgoin-Jallieu V Rennes on 2026/01/10
+### Massy V Albi on 2026/01/09
 
 
-Average Margin: Bourgoin-Jallieu by 4.0
+Average Margin: Massy by 2.9
 
 <p float="left">
-<img src="plots\2026-01-10-Bourgoin-Jallieu_V_Rennes_performances.png" width="32%" />
-<img src="plots\2026-01-10-Bourgoin-Jallieu_V_Rennes_resultbar.png" width="32%" />
-<img src="plots\2026-01-10-Bourgoin-Jallieu_V_Rennes_spreads.png" width="32%" />
+<img src="plots\2026-01-09-Massy_V_Albi_performances.png" width="32%" />
+<img src="plots\2026-01-09-Massy_V_Albi_resultbar.png" width="32%" />
+<img src="plots\2026-01-09-Massy_V_Albi_spreads.png" width="32%" />
 </p>
 
 ### Niort V Narbonne on 2026/01/10
 
 
-Average Margin: Niort by 3.2
+Average Margin: Niort by 2.9
 
 <p float="left">
 <img src="plots\2026-01-10-Niort_V_Narbonne_performances.png" width="32%" />
@@ -1027,10 +937,21 @@ Average Margin: Niort by 3.2
 <img src="plots\2026-01-10-Niort_V_Narbonne_spreads.png" width="32%" />
 </p>
 
+### Bourgoin-Jallieu V Rennes on 2026/01/10
+
+
+Average Margin: Bourgoin-Jallieu by 3.6
+
+<p float="left">
+<img src="plots\2026-01-10-Bourgoin-Jallieu_V_Rennes_performances.png" width="32%" />
+<img src="plots\2026-01-10-Bourgoin-Jallieu_V_Rennes_resultbar.png" width="32%" />
+<img src="plots\2026-01-10-Bourgoin-Jallieu_V_Rennes_spreads.png" width="32%" />
+</p>
+
 ### Périgueux V Nice on 2026/01/10
 
 
-Average Margin: Périgueux by 3.7
+Average Margin: Périgueux by 4.1
 
 <p float="left">
 <img src="plots\2026-01-10-Perigueux_V_Nice_performances.png" width="32%" />
@@ -1040,21 +961,10 @@ Average Margin: Périgueux by 3.7
 
 ## Week 16
 
-### Albi V Niort on 2026/01/16
-
-
-Average Margin: Albi by 2.5
-
-<p float="left">
-<img src="plots\2026-01-16-Albi_V_Niort_performances.png" width="32%" />
-<img src="plots\2026-01-16-Albi_V_Niort_resultbar.png" width="32%" />
-<img src="plots\2026-01-16-Albi_V_Niort_spreads.png" width="32%" />
-</p>
-
 ### US Bressane V Suresnes on 2026/01/16
 
 
-Average Margin: US Bressane by 3.0
+Average Margin: US Bressane by 3.2
 
 <p float="left">
 <img src="plots\2026-01-16-USBressane_V_Suresnes_performances.png" width="32%" />
@@ -1062,21 +972,32 @@ Average Margin: US Bressane by 3.0
 <img src="plots\2026-01-16-USBressane_V_Suresnes_spreads.png" width="32%" />
 </p>
 
-### Périgueux V Tarbes on 2026/01/17
+### Albi V Niort on 2026/01/16
 
 
-Average Margin: Périgueux by 6.1
+Average Margin: Albi by 2.4
 
 <p float="left">
-<img src="plots\2026-01-17-Perigueux_V_Tarbes_performances.png" width="32%" />
-<img src="plots\2026-01-17-Perigueux_V_Tarbes_resultbar.png" width="32%" />
-<img src="plots\2026-01-17-Perigueux_V_Tarbes_spreads.png" width="32%" />
+<img src="plots\2026-01-16-Albi_V_Niort_performances.png" width="32%" />
+<img src="plots\2026-01-16-Albi_V_Niort_resultbar.png" width="32%" />
+<img src="plots\2026-01-16-Albi_V_Niort_spreads.png" width="32%" />
+</p>
+
+### Nice V Bourgoin-Jallieu on 2026/01/17
+
+
+Average Margin: Nice by 4.6
+
+<p float="left">
+<img src="plots\2026-01-17-Nice_V_Bourgoin-Jallieu_performances.png" width="32%" />
+<img src="plots\2026-01-17-Nice_V_Bourgoin-Jallieu_resultbar.png" width="32%" />
+<img src="plots\2026-01-17-Nice_V_Bourgoin-Jallieu_spreads.png" width="32%" />
 </p>
 
 ### Marcq-en-Baroeul V Rouen on 2026/01/17
 
 
-Average Margin: Marcq-en-Baroeul by 0.4
+Average Margin: Marcq-en-Baroeul by 0.6
 
 <p float="left">
 <img src="plots\2026-01-17-Marcq-en-Baroeul_V_Rouen_performances.png" width="32%" />
@@ -1084,10 +1005,21 @@ Average Margin: Marcq-en-Baroeul by 0.4
 <img src="plots\2026-01-17-Marcq-en-Baroeul_V_Rouen_spreads.png" width="32%" />
 </p>
 
+### Périgueux V Tarbes on 2026/01/17
+
+
+Average Margin: Périgueux by 6.2
+
+<p float="left">
+<img src="plots\2026-01-17-Perigueux_V_Tarbes_performances.png" width="32%" />
+<img src="plots\2026-01-17-Perigueux_V_Tarbes_resultbar.png" width="32%" />
+<img src="plots\2026-01-17-Perigueux_V_Tarbes_spreads.png" width="32%" />
+</p>
+
 ### Rennes V Massy on 2026/01/17
 
 
-Average Margin: Rennes by 0.2
+Average Margin: Rennes by 0.5
 
 <p float="left">
 <img src="plots\2026-01-17-Rennes_V_Massy_performances.png" width="32%" />
@@ -1098,7 +1030,7 @@ Average Margin: Rennes by 0.2
 ### Narbonne V Chambery on 2026/01/17
 
 
-Average Margin: Narbonne by 1.2
+Average Margin: Narbonne by 2.0
 
 <p float="left">
 <img src="plots\2026-01-17-Narbonne_V_Chambery_performances.png" width="32%" />
@@ -1106,23 +1038,12 @@ Average Margin: Narbonne by 1.2
 <img src="plots\2026-01-17-Narbonne_V_Chambery_spreads.png" width="32%" />
 </p>
 
-### Nice V Bourgoin-Jallieu on 2026/01/17
-
-
-Average Margin: Nice by 3.8
-
-<p float="left">
-<img src="plots\2026-01-17-Nice_V_Bourgoin-Jallieu_performances.png" width="32%" />
-<img src="plots\2026-01-17-Nice_V_Bourgoin-Jallieu_resultbar.png" width="32%" />
-<img src="plots\2026-01-17-Nice_V_Bourgoin-Jallieu_spreads.png" width="32%" />
-</p>
-
 ## Week 17
 
 ### Tarbes V US Bressane on 2026/01/23
 
 
-Average Margin: Tarbes by 3.1
+Average Margin: Tarbes by 2.5
 
 <p float="left">
 <img src="plots\2026-01-23-Tarbes_V_USBressane_performances.png" width="32%" />
@@ -1130,21 +1051,10 @@ Average Margin: Tarbes by 3.1
 <img src="plots\2026-01-23-Tarbes_V_USBressane_spreads.png" width="32%" />
 </p>
 
-### Chambery V Albi on 2026/01/23
-
-
-Average Margin: Chambery by 5.3
-
-<p float="left">
-<img src="plots\2026-01-23-Chambery_V_Albi_performances.png" width="32%" />
-<img src="plots\2026-01-23-Chambery_V_Albi_resultbar.png" width="32%" />
-<img src="plots\2026-01-23-Chambery_V_Albi_spreads.png" width="32%" />
-</p>
-
 ### Rouen V Narbonne on 2026/01/23
 
 
-Average Margin: Rouen by 4.0
+Average Margin: Rouen by 2.7
 
 <p float="left">
 <img src="plots\2026-01-23-Rouen_V_Narbonne_performances.png" width="32%" />
@@ -1152,10 +1062,21 @@ Average Margin: Rouen by 4.0
 <img src="plots\2026-01-23-Rouen_V_Narbonne_spreads.png" width="32%" />
 </p>
 
+### Chambery V Albi on 2026/01/23
+
+
+Average Margin: Chambery by 4.4
+
+<p float="left">
+<img src="plots\2026-01-23-Chambery_V_Albi_performances.png" width="32%" />
+<img src="plots\2026-01-23-Chambery_V_Albi_resultbar.png" width="32%" />
+<img src="plots\2026-01-23-Chambery_V_Albi_spreads.png" width="32%" />
+</p>
+
 ### Massy V Nice on 2026/01/23
 
 
-Average Margin: Massy by 3.8
+Average Margin: Massy by 3.3
 
 <p float="left">
 <img src="plots\2026-01-23-Massy_V_Nice_performances.png" width="32%" />
@@ -1163,32 +1084,10 @@ Average Margin: Massy by 3.8
 <img src="plots\2026-01-23-Massy_V_Nice_spreads.png" width="32%" />
 </p>
 
-### Bourgoin-Jallieu V Périgueux on 2026/01/24
-
-
-Average Margin: Bourgoin-Jallieu by 2.0
-
-<p float="left">
-<img src="plots\2026-01-24-Bourgoin-Jallieu_V_Perigueux_performances.png" width="32%" />
-<img src="plots\2026-01-24-Bourgoin-Jallieu_V_Perigueux_resultbar.png" width="32%" />
-<img src="plots\2026-01-24-Bourgoin-Jallieu_V_Perigueux_spreads.png" width="32%" />
-</p>
-
-### Suresnes V Marcq-en-Baroeul on 2026/01/24
-
-
-Average Margin: Suresnes by 2.8
-
-<p float="left">
-<img src="plots\2026-01-24-Suresnes_V_Marcq-en-Baroeul_performances.png" width="32%" />
-<img src="plots\2026-01-24-Suresnes_V_Marcq-en-Baroeul_resultbar.png" width="32%" />
-<img src="plots\2026-01-24-Suresnes_V_Marcq-en-Baroeul_spreads.png" width="32%" />
-</p>
-
 ### Niort V Rennes on 2026/01/24
 
 
-Average Margin: Niort by 5.6
+Average Margin: Niort by 5.0
 
 <p float="left">
 <img src="plots\2026-01-24-Niort_V_Rennes_performances.png" width="32%" />
@@ -1196,12 +1095,34 @@ Average Margin: Niort by 5.6
 <img src="plots\2026-01-24-Niort_V_Rennes_spreads.png" width="32%" />
 </p>
 
+### Suresnes V Marcq-en-Baroeul on 2026/01/24
+
+
+Average Margin: Suresnes by 3.8
+
+<p float="left">
+<img src="plots\2026-01-24-Suresnes_V_Marcq-en-Baroeul_performances.png" width="32%" />
+<img src="plots\2026-01-24-Suresnes_V_Marcq-en-Baroeul_resultbar.png" width="32%" />
+<img src="plots\2026-01-24-Suresnes_V_Marcq-en-Baroeul_spreads.png" width="32%" />
+</p>
+
+### Bourgoin-Jallieu V Périgueux on 2026/01/24
+
+
+Average Margin: Bourgoin-Jallieu by 2.3
+
+<p float="left">
+<img src="plots\2026-01-24-Bourgoin-Jallieu_V_Perigueux_performances.png" width="32%" />
+<img src="plots\2026-01-24-Bourgoin-Jallieu_V_Perigueux_resultbar.png" width="32%" />
+<img src="plots\2026-01-24-Bourgoin-Jallieu_V_Perigueux_spreads.png" width="32%" />
+</p>
+
 ## Week 18
 
 ### Albi V Rouen on 2026/01/30
 
 
-Average Margin: Albi by 1.7
+Average Margin: Albi by 2.0
 
 <p float="left">
 <img src="plots\2026-01-30-Albi_V_Rouen_performances.png" width="32%" />
@@ -1209,21 +1130,21 @@ Average Margin: Albi by 1.7
 <img src="plots\2026-01-30-Albi_V_Rouen_spreads.png" width="32%" />
 </p>
 
-### Nice V Niort on 2026/01/31
+### Bourgoin-Jallieu V Tarbes on 2026/01/31
 
 
-Average Margin: Nice by 1.5
+Average Margin: Bourgoin-Jallieu by 4.6
 
 <p float="left">
-<img src="plots\2026-01-31-Nice_V_Niort_performances.png" width="32%" />
-<img src="plots\2026-01-31-Nice_V_Niort_resultbar.png" width="32%" />
-<img src="plots\2026-01-31-Nice_V_Niort_spreads.png" width="32%" />
+<img src="plots\2026-01-31-Bourgoin-Jallieu_V_Tarbes_performances.png" width="32%" />
+<img src="plots\2026-01-31-Bourgoin-Jallieu_V_Tarbes_resultbar.png" width="32%" />
+<img src="plots\2026-01-31-Bourgoin-Jallieu_V_Tarbes_spreads.png" width="32%" />
 </p>
 
 ### Marcq-en-Baroeul V US Bressane on 2026/01/31
 
 
-Average Margin: Marcq-en-Baroeul by 3.0
+Average Margin: Marcq-en-Baroeul by 2.6
 
 <p float="left">
 <img src="plots\2026-01-31-Marcq-en-Baroeul_V_USBressane_performances.png" width="32%" />
@@ -1231,10 +1152,32 @@ Average Margin: Marcq-en-Baroeul by 3.0
 <img src="plots\2026-01-31-Marcq-en-Baroeul_V_USBressane_spreads.png" width="32%" />
 </p>
 
+### Nice V Niort on 2026/01/31
+
+
+Average Margin: Nice by 2.7
+
+<p float="left">
+<img src="plots\2026-01-31-Nice_V_Niort_performances.png" width="32%" />
+<img src="plots\2026-01-31-Nice_V_Niort_resultbar.png" width="32%" />
+<img src="plots\2026-01-31-Nice_V_Niort_spreads.png" width="32%" />
+</p>
+
+### Périgueux V Massy on 2026/01/31
+
+
+Average Margin: Périgueux by 3.6
+
+<p float="left">
+<img src="plots\2026-01-31-Perigueux_V_Massy_performances.png" width="32%" />
+<img src="plots\2026-01-31-Perigueux_V_Massy_resultbar.png" width="32%" />
+<img src="plots\2026-01-31-Perigueux_V_Massy_spreads.png" width="32%" />
+</p>
+
 ### Rennes V Chambery on 2026/01/31
 
 
-Average Margin: Chambery by 1.9
+Average Margin: Chambery by 1.2
 
 <p float="left">
 <img src="plots\2026-01-31-Rennes_V_Chambery_performances.png" width="32%" />
@@ -1245,7 +1188,7 @@ Average Margin: Chambery by 1.9
 ### Narbonne V Suresnes on 2026/01/31
 
 
-Average Margin: Narbonne by 4.8
+Average Margin: Narbonne by 4.7
 
 <p float="left">
 <img src="plots\2026-01-31-Narbonne_V_Suresnes_performances.png" width="32%" />
@@ -1253,56 +1196,12 @@ Average Margin: Narbonne by 4.8
 <img src="plots\2026-01-31-Narbonne_V_Suresnes_spreads.png" width="32%" />
 </p>
 
-### Bourgoin-Jallieu V Tarbes on 2026/01/31
-
-
-Average Margin: Bourgoin-Jallieu by 4.3
-
-<p float="left">
-<img src="plots\2026-01-31-Bourgoin-Jallieu_V_Tarbes_performances.png" width="32%" />
-<img src="plots\2026-01-31-Bourgoin-Jallieu_V_Tarbes_resultbar.png" width="32%" />
-<img src="plots\2026-01-31-Bourgoin-Jallieu_V_Tarbes_spreads.png" width="32%" />
-</p>
-
-### Périgueux V Massy on 2026/01/31
-
-
-Average Margin: Périgueux by 3.1
-
-<p float="left">
-<img src="plots\2026-01-31-Perigueux_V_Massy_performances.png" width="32%" />
-<img src="plots\2026-01-31-Perigueux_V_Massy_resultbar.png" width="32%" />
-<img src="plots\2026-01-31-Perigueux_V_Massy_spreads.png" width="32%" />
-</p>
-
 ## Week 19
-
-### Massy V Bourgoin-Jallieu on 2026/02/13
-
-
-Average Margin: Massy by 5.0
-
-<p float="left">
-<img src="plots\2026-02-13-Massy_V_Bourgoin-Jallieu_performances.png" width="32%" />
-<img src="plots\2026-02-13-Massy_V_Bourgoin-Jallieu_resultbar.png" width="32%" />
-<img src="plots\2026-02-13-Massy_V_Bourgoin-Jallieu_spreads.png" width="32%" />
-</p>
-
-### US Bressane V Narbonne on 2026/02/13
-
-
-Average Margin: US Bressane by 1.8
-
-<p float="left">
-<img src="plots\2026-02-13-USBressane_V_Narbonne_performances.png" width="32%" />
-<img src="plots\2026-02-13-USBressane_V_Narbonne_resultbar.png" width="32%" />
-<img src="plots\2026-02-13-USBressane_V_Narbonne_spreads.png" width="32%" />
-</p>
 
 ### Tarbes V Marcq-en-Baroeul on 2026/02/13
 
 
-Average Margin: Tarbes by 2.4
+Average Margin: Tarbes by 3.3
 
 <p float="left">
 <img src="plots\2026-02-13-Tarbes_V_Marcq-en-Baroeul_performances.png" width="32%" />
@@ -1310,21 +1209,32 @@ Average Margin: Tarbes by 2.4
 <img src="plots\2026-02-13-Tarbes_V_Marcq-en-Baroeul_spreads.png" width="32%" />
 </p>
 
-### Rouen V Rennes on 2026/02/13
+### US Bressane V Narbonne on 2026/02/13
 
 
-Average Margin: Rouen by 5.2
+Average Margin: US Bressane by 1.4
 
 <p float="left">
-<img src="plots\2026-02-13-Rouen_V_Rennes_performances.png" width="32%" />
-<img src="plots\2026-02-13-Rouen_V_Rennes_resultbar.png" width="32%" />
-<img src="plots\2026-02-13-Rouen_V_Rennes_spreads.png" width="32%" />
+<img src="plots\2026-02-13-USBressane_V_Narbonne_performances.png" width="32%" />
+<img src="plots\2026-02-13-USBressane_V_Narbonne_resultbar.png" width="32%" />
+<img src="plots\2026-02-13-USBressane_V_Narbonne_spreads.png" width="32%" />
+</p>
+
+### Massy V Bourgoin-Jallieu on 2026/02/13
+
+
+Average Margin: Massy by 4.8
+
+<p float="left">
+<img src="plots\2026-02-13-Massy_V_Bourgoin-Jallieu_performances.png" width="32%" />
+<img src="plots\2026-02-13-Massy_V_Bourgoin-Jallieu_resultbar.png" width="32%" />
+<img src="plots\2026-02-13-Massy_V_Bourgoin-Jallieu_spreads.png" width="32%" />
 </p>
 
 ### Chambery V Nice on 2026/02/13
 
 
-Average Margin: Chambery by 4.2
+Average Margin: Chambery by 4.3
 
 <p float="left">
 <img src="plots\2026-02-13-Chambery_V_Nice_performances.png" width="32%" />
@@ -1332,10 +1242,21 @@ Average Margin: Chambery by 4.2
 <img src="plots\2026-02-13-Chambery_V_Nice_spreads.png" width="32%" />
 </p>
 
+### Rouen V Rennes on 2026/02/13
+
+
+Average Margin: Rouen by 4.6
+
+<p float="left">
+<img src="plots\2026-02-13-Rouen_V_Rennes_performances.png" width="32%" />
+<img src="plots\2026-02-13-Rouen_V_Rennes_resultbar.png" width="32%" />
+<img src="plots\2026-02-13-Rouen_V_Rennes_spreads.png" width="32%" />
+</p>
+
 ### Suresnes V Albi on 2026/02/14
 
 
-Average Margin: Suresnes by 1.8
+Average Margin: Suresnes by 1.9
 
 <p float="left">
 <img src="plots\2026-02-14-Suresnes_V_Albi_performances.png" width="32%" />
@@ -1346,7 +1267,7 @@ Average Margin: Suresnes by 1.8
 ### Niort V Périgueux on 2026/02/14
 
 
-Average Margin: Niort by 3.5
+Average Margin: Niort by 3.2
 
 <p float="left">
 <img src="plots\2026-02-14-Niort_V_Perigueux_performances.png" width="32%" />
@@ -1370,7 +1291,7 @@ Average Margin: Albi by 4.1
 ### Massy V Tarbes on 2026/02/20
 
 
-Average Margin: Massy by 5.4
+Average Margin: Massy by 5.2
 
 <p float="left">
 <img src="plots\2026-02-20-Massy_V_Tarbes_performances.png" width="32%" />
@@ -1381,7 +1302,7 @@ Average Margin: Massy by 5.4
 ### Périgueux V Chambery on 2026/02/21
 
 
-Average Margin: Périgueux by 1.7
+Average Margin: Périgueux by 2.0
 
 <p float="left">
 <img src="plots\2026-02-21-Perigueux_V_Chambery_performances.png" width="32%" />
@@ -1389,43 +1310,10 @@ Average Margin: Périgueux by 1.7
 <img src="plots\2026-02-21-Perigueux_V_Chambery_spreads.png" width="32%" />
 </p>
 
-### Rennes V Suresnes on 2026/02/21
-
-
-Average Margin: Rennes by 2.4
-
-<p float="left">
-<img src="plots\2026-02-21-Rennes_V_Suresnes_performances.png" width="32%" />
-<img src="plots\2026-02-21-Rennes_V_Suresnes_resultbar.png" width="32%" />
-<img src="plots\2026-02-21-Rennes_V_Suresnes_spreads.png" width="32%" />
-</p>
-
-### Nice V Rouen on 2026/02/21
-
-
-Average Margin: Nice by 1.8
-
-<p float="left">
-<img src="plots\2026-02-21-Nice_V_Rouen_performances.png" width="32%" />
-<img src="plots\2026-02-21-Nice_V_Rouen_resultbar.png" width="32%" />
-<img src="plots\2026-02-21-Nice_V_Rouen_spreads.png" width="32%" />
-</p>
-
-### Narbonne V Marcq-en-Baroeul on 2026/02/21
-
-
-Average Margin: Narbonne by 5.1
-
-<p float="left">
-<img src="plots\2026-02-21-Narbonne_V_Marcq-en-Baroeul_performances.png" width="32%" />
-<img src="plots\2026-02-21-Narbonne_V_Marcq-en-Baroeul_resultbar.png" width="32%" />
-<img src="plots\2026-02-21-Narbonne_V_Marcq-en-Baroeul_spreads.png" width="32%" />
-</p>
-
 ### Bourgoin-Jallieu V Niort on 2026/02/21
 
 
-Average Margin: Bourgoin-Jallieu by 1.9
+Average Margin: Bourgoin-Jallieu by 2.3
 
 <p float="left">
 <img src="plots\2026-02-21-Bourgoin-Jallieu_V_Niort_performances.png" width="32%" />
@@ -1433,34 +1321,45 @@ Average Margin: Bourgoin-Jallieu by 1.9
 <img src="plots\2026-02-21-Bourgoin-Jallieu_V_Niort_spreads.png" width="32%" />
 </p>
 
+### Rennes V Suresnes on 2026/02/21
+
+
+Average Margin: Rennes by 2.3
+
+<p float="left">
+<img src="plots\2026-02-21-Rennes_V_Suresnes_performances.png" width="32%" />
+<img src="plots\2026-02-21-Rennes_V_Suresnes_resultbar.png" width="32%" />
+<img src="plots\2026-02-21-Rennes_V_Suresnes_spreads.png" width="32%" />
+</p>
+
+### Narbonne V Marcq-en-Baroeul on 2026/02/21
+
+
+Average Margin: Narbonne by 5.3
+
+<p float="left">
+<img src="plots\2026-02-21-Narbonne_V_Marcq-en-Baroeul_performances.png" width="32%" />
+<img src="plots\2026-02-21-Narbonne_V_Marcq-en-Baroeul_resultbar.png" width="32%" />
+<img src="plots\2026-02-21-Narbonne_V_Marcq-en-Baroeul_spreads.png" width="32%" />
+</p>
+
+### Nice V Rouen on 2026/02/21
+
+
+Average Margin: Nice by 1.9
+
+<p float="left">
+<img src="plots\2026-02-21-Nice_V_Rouen_performances.png" width="32%" />
+<img src="plots\2026-02-21-Nice_V_Rouen_resultbar.png" width="32%" />
+<img src="plots\2026-02-21-Nice_V_Rouen_spreads.png" width="32%" />
+</p>
+
 ## Week 21
-
-### Rouen V Périgueux on 2026/02/27
-
-
-Average Margin: Rouen by 4.0
-
-<p float="left">
-<img src="plots\2026-02-27-Rouen_V_Perigueux_performances.png" width="32%" />
-<img src="plots\2026-02-27-Rouen_V_Perigueux_resultbar.png" width="32%" />
-<img src="plots\2026-02-27-Rouen_V_Perigueux_spreads.png" width="32%" />
-</p>
-
-### Chambery V Bourgoin-Jallieu on 2026/02/27
-
-
-Average Margin: Chambery by 6.3
-
-<p float="left">
-<img src="plots\2026-02-27-Chambery_V_Bourgoin-Jallieu_performances.png" width="32%" />
-<img src="plots\2026-02-27-Chambery_V_Bourgoin-Jallieu_resultbar.png" width="32%" />
-<img src="plots\2026-02-27-Chambery_V_Bourgoin-Jallieu_spreads.png" width="32%" />
-</p>
 
 ### US Bressane V Rennes on 2026/02/27
 
 
-Average Margin: US Bressane by 2.4
+Average Margin: US Bressane by 3.0
 
 <p float="left">
 <img src="plots\2026-02-27-USBressane_V_Rennes_performances.png" width="32%" />
@@ -1471,7 +1370,7 @@ Average Margin: US Bressane by 2.4
 ### Tarbes V Narbonne on 2026/02/27
 
 
-Average Margin: Tarbes by 1.2
+Average Margin: Tarbes by 0.9
 
 <p float="left">
 <img src="plots\2026-02-27-Tarbes_V_Narbonne_performances.png" width="32%" />
@@ -1479,21 +1378,32 @@ Average Margin: Tarbes by 1.2
 <img src="plots\2026-02-27-Tarbes_V_Narbonne_spreads.png" width="32%" />
 </p>
 
-### Marcq-en-Baroeul V Albi on 2026/02/28
+### Chambery V Bourgoin-Jallieu on 2026/02/27
 
 
-Average Margin: Marcq-en-Baroeul by 1.9
+Average Margin: Chambery by 5.7
 
 <p float="left">
-<img src="plots\2026-02-28-Marcq-en-Baroeul_V_Albi_performances.png" width="32%" />
-<img src="plots\2026-02-28-Marcq-en-Baroeul_V_Albi_resultbar.png" width="32%" />
-<img src="plots\2026-02-28-Marcq-en-Baroeul_V_Albi_spreads.png" width="32%" />
+<img src="plots\2026-02-27-Chambery_V_Bourgoin-Jallieu_performances.png" width="32%" />
+<img src="plots\2026-02-27-Chambery_V_Bourgoin-Jallieu_resultbar.png" width="32%" />
+<img src="plots\2026-02-27-Chambery_V_Bourgoin-Jallieu_spreads.png" width="32%" />
+</p>
+
+### Rouen V Périgueux on 2026/02/27
+
+
+Average Margin: Rouen by 3.4
+
+<p float="left">
+<img src="plots\2026-02-27-Rouen_V_Perigueux_performances.png" width="32%" />
+<img src="plots\2026-02-27-Rouen_V_Perigueux_resultbar.png" width="32%" />
+<img src="plots\2026-02-27-Rouen_V_Perigueux_spreads.png" width="32%" />
 </p>
 
 ### Niort V Massy on 2026/02/28
 
 
-Average Margin: Niort by 3.0
+Average Margin: Niort by 3.1
 
 <p float="left">
 <img src="plots\2026-02-28-Niort_V_Massy_performances.png" width="32%" />
@@ -1504,7 +1414,7 @@ Average Margin: Niort by 3.0
 ### Suresnes V Nice on 2026/02/28
 
 
-Average Margin: Suresnes by 1.6
+Average Margin: Suresnes by 2.1
 
 <p float="left">
 <img src="plots\2026-02-28-Suresnes_V_Nice_performances.png" width="32%" />
@@ -1512,23 +1422,23 @@ Average Margin: Suresnes by 1.6
 <img src="plots\2026-02-28-Suresnes_V_Nice_spreads.png" width="32%" />
 </p>
 
-## Week 22
-
-### Massy V Chambery on 2026/03/06
+### Marcq-en-Baroeul V Albi on 2026/02/28
 
 
-Average Margin: Massy by 1.7
+Average Margin: Marcq-en-Baroeul by 1.7
 
 <p float="left">
-<img src="plots\2026-03-06-Massy_V_Chambery_performances.png" width="32%" />
-<img src="plots\2026-03-06-Massy_V_Chambery_resultbar.png" width="32%" />
-<img src="plots\2026-03-06-Massy_V_Chambery_spreads.png" width="32%" />
+<img src="plots\2026-02-28-Marcq-en-Baroeul_V_Albi_performances.png" width="32%" />
+<img src="plots\2026-02-28-Marcq-en-Baroeul_V_Albi_resultbar.png" width="32%" />
+<img src="plots\2026-02-28-Marcq-en-Baroeul_V_Albi_spreads.png" width="32%" />
 </p>
+
+## Week 22
 
 ### Albi V Narbonne on 2026/03/06
 
 
-Average Margin: Albi by 2.8
+Average Margin: Albi by 2.7
 
 <p float="left">
 <img src="plots\2026-03-06-Albi_V_Narbonne_performances.png" width="32%" />
@@ -1536,10 +1446,21 @@ Average Margin: Albi by 2.8
 <img src="plots\2026-03-06-Albi_V_Narbonne_spreads.png" width="32%" />
 </p>
 
+### Massy V Chambery on 2026/03/06
+
+
+Average Margin: Massy by 1.6
+
+<p float="left">
+<img src="plots\2026-03-06-Massy_V_Chambery_performances.png" width="32%" />
+<img src="plots\2026-03-06-Massy_V_Chambery_resultbar.png" width="32%" />
+<img src="plots\2026-03-06-Massy_V_Chambery_spreads.png" width="32%" />
+</p>
+
 ### Périgueux V Suresnes on 2026/03/07
 
 
-Average Margin: Périgueux by 4.4
+Average Margin: Périgueux by 4.9
 
 <p float="left">
 <img src="plots\2026-03-07-Perigueux_V_Suresnes_performances.png" width="32%" />
@@ -1547,32 +1468,10 @@ Average Margin: Périgueux by 4.4
 <img src="plots\2026-03-07-Perigueux_V_Suresnes_spreads.png" width="32%" />
 </p>
 
-### Rennes V Marcq-en-Baroeul on 2026/03/07
-
-
-Average Margin: Rennes by 2.4
-
-<p float="left">
-<img src="plots\2026-03-07-Rennes_V_Marcq-en-Baroeul_performances.png" width="32%" />
-<img src="plots\2026-03-07-Rennes_V_Marcq-en-Baroeul_resultbar.png" width="32%" />
-<img src="plots\2026-03-07-Rennes_V_Marcq-en-Baroeul_spreads.png" width="32%" />
-</p>
-
-### Bourgoin-Jallieu V Rouen on 2026/03/07
-
-
-Average Margin: Bourgoin-Jallieu by 1.7
-
-<p float="left">
-<img src="plots\2026-03-07-Bourgoin-Jallieu_V_Rouen_performances.png" width="32%" />
-<img src="plots\2026-03-07-Bourgoin-Jallieu_V_Rouen_resultbar.png" width="32%" />
-<img src="plots\2026-03-07-Bourgoin-Jallieu_V_Rouen_spreads.png" width="32%" />
-</p>
-
 ### Niort V Tarbes on 2026/03/07
 
 
-Average Margin: Niort by 4.8
+Average Margin: Niort by 3.8
 
 <p float="left">
 <img src="plots\2026-03-07-Niort_V_Tarbes_performances.png" width="32%" />
@@ -1580,10 +1479,32 @@ Average Margin: Niort by 4.8
 <img src="plots\2026-03-07-Niort_V_Tarbes_spreads.png" width="32%" />
 </p>
 
+### Bourgoin-Jallieu V Rouen on 2026/03/07
+
+
+Average Margin: Bourgoin-Jallieu by 1.5
+
+<p float="left">
+<img src="plots\2026-03-07-Bourgoin-Jallieu_V_Rouen_performances.png" width="32%" />
+<img src="plots\2026-03-07-Bourgoin-Jallieu_V_Rouen_resultbar.png" width="32%" />
+<img src="plots\2026-03-07-Bourgoin-Jallieu_V_Rouen_spreads.png" width="32%" />
+</p>
+
+### Rennes V Marcq-en-Baroeul on 2026/03/07
+
+
+Average Margin: Rennes by 2.6
+
+<p float="left">
+<img src="plots\2026-03-07-Rennes_V_Marcq-en-Baroeul_performances.png" width="32%" />
+<img src="plots\2026-03-07-Rennes_V_Marcq-en-Baroeul_resultbar.png" width="32%" />
+<img src="plots\2026-03-07-Rennes_V_Marcq-en-Baroeul_spreads.png" width="32%" />
+</p>
+
 ### Nice V US Bressane on 2026/03/07
 
 
-Average Margin: Nice by 4.1
+Average Margin: Nice by 4.4
 
 <p float="left">
 <img src="plots\2026-03-07-Nice_V_USBressane_performances.png" width="32%" />
@@ -1596,7 +1517,7 @@ Average Margin: Nice by 4.1
 ### Tarbes V Albi on 2026/03/20
 
 
-Average Margin: Tarbes by 1.7
+Average Margin: Tarbes by 1.0
 
 <p float="left">
 <img src="plots\2026-03-20-Tarbes_V_Albi_performances.png" width="32%" />
@@ -1604,21 +1525,10 @@ Average Margin: Tarbes by 1.7
 <img src="plots\2026-03-20-Tarbes_V_Albi_spreads.png" width="32%" />
 </p>
 
-### Chambery V Niort on 2026/03/20
-
-
-Average Margin: Chambery by 4.6
-
-<p float="left">
-<img src="plots\2026-03-20-Chambery_V_Niort_performances.png" width="32%" />
-<img src="plots\2026-03-20-Chambery_V_Niort_resultbar.png" width="32%" />
-<img src="plots\2026-03-20-Chambery_V_Niort_spreads.png" width="32%" />
-</p>
-
 ### US Bressane V Périgueux on 2026/03/20
 
 
-Average Margin: US Bressane by 1.9
+Average Margin: US Bressane by 1.7
 
 <p float="left">
 <img src="plots\2026-03-20-USBressane_V_Perigueux_performances.png" width="32%" />
@@ -1637,21 +1547,21 @@ Average Margin: Rouen by 3.3
 <img src="plots\2026-03-20-Rouen_V_Massy_spreads.png" width="32%" />
 </p>
 
-### Narbonne V Rennes on 2026/03/21
+### Chambery V Niort on 2026/03/20
 
 
-Average Margin: Narbonne by 4.2
+Average Margin: Chambery by 4.0
 
 <p float="left">
-<img src="plots\2026-03-21-Narbonne_V_Rennes_performances.png" width="32%" />
-<img src="plots\2026-03-21-Narbonne_V_Rennes_resultbar.png" width="32%" />
-<img src="plots\2026-03-21-Narbonne_V_Rennes_spreads.png" width="32%" />
+<img src="plots\2026-03-20-Chambery_V_Niort_performances.png" width="32%" />
+<img src="plots\2026-03-20-Chambery_V_Niort_resultbar.png" width="32%" />
+<img src="plots\2026-03-20-Chambery_V_Niort_spreads.png" width="32%" />
 </p>
 
 ### Suresnes V Bourgoin-Jallieu on 2026/03/21
 
 
-Average Margin: Suresnes by 3.0
+Average Margin: Suresnes by 3.3
 
 <p float="left">
 <img src="plots\2026-03-21-Suresnes_V_Bourgoin-Jallieu_performances.png" width="32%" />
@@ -1662,7 +1572,7 @@ Average Margin: Suresnes by 3.0
 ### Marcq-en-Baroeul V Nice on 2026/03/21
 
 
-Average Margin: Marcq-en-Baroeul by 2.1
+Average Margin: Marcq-en-Baroeul by 1.4
 
 <p float="left">
 <img src="plots\2026-03-21-Marcq-en-Baroeul_V_Nice_performances.png" width="32%" />
@@ -1670,23 +1580,23 @@ Average Margin: Marcq-en-Baroeul by 2.1
 <img src="plots\2026-03-21-Marcq-en-Baroeul_V_Nice_spreads.png" width="32%" />
 </p>
 
-## Week 24
-
-### Chambery V Tarbes on 2026/03/27
+### Narbonne V Rennes on 2026/03/21
 
 
-Average Margin: Chambery by 6.1
+Average Margin: Narbonne by 3.7
 
 <p float="left">
-<img src="plots\2026-03-27-Chambery_V_Tarbes_performances.png" width="32%" />
-<img src="plots\2026-03-27-Chambery_V_Tarbes_resultbar.png" width="32%" />
-<img src="plots\2026-03-27-Chambery_V_Tarbes_spreads.png" width="32%" />
+<img src="plots\2026-03-21-Narbonne_V_Rennes_performances.png" width="32%" />
+<img src="plots\2026-03-21-Narbonne_V_Rennes_resultbar.png" width="32%" />
+<img src="plots\2026-03-21-Narbonne_V_Rennes_spreads.png" width="32%" />
 </p>
+
+## Week 24
 
 ### Massy V Suresnes on 2026/03/27
 
 
-Average Margin: Massy by 4.6
+Average Margin: Massy by 4.3
 
 <p float="left">
 <img src="plots\2026-03-27-Massy_V_Suresnes_performances.png" width="32%" />
@@ -1694,54 +1604,21 @@ Average Margin: Massy by 4.6
 <img src="plots\2026-03-27-Massy_V_Suresnes_spreads.png" width="32%" />
 </p>
 
-### Périgueux V Marcq-en-Baroeul on 2026/03/28
+### Chambery V Tarbes on 2026/03/27
 
 
-Average Margin: Périgueux by 5.2
-
-<p float="left">
-<img src="plots\2026-03-28-Perigueux_V_Marcq-en-Baroeul_performances.png" width="32%" />
-<img src="plots\2026-03-28-Perigueux_V_Marcq-en-Baroeul_resultbar.png" width="32%" />
-<img src="plots\2026-03-28-Perigueux_V_Marcq-en-Baroeul_spreads.png" width="32%" />
-</p>
-
-### Rennes V Albi on 2026/03/28
-
-
-Average Margin: Rennes by 1.4
+Average Margin: Chambery by 5.9
 
 <p float="left">
-<img src="plots\2026-03-28-Rennes_V_Albi_performances.png" width="32%" />
-<img src="plots\2026-03-28-Rennes_V_Albi_resultbar.png" width="32%" />
-<img src="plots\2026-03-28-Rennes_V_Albi_spreads.png" width="32%" />
-</p>
-
-### Nice V Narbonne on 2026/03/28
-
-
-Average Margin: Nice by 2.1
-
-<p float="left">
-<img src="plots\2026-03-28-Nice_V_Narbonne_performances.png" width="32%" />
-<img src="plots\2026-03-28-Nice_V_Narbonne_resultbar.png" width="32%" />
-<img src="plots\2026-03-28-Nice_V_Narbonne_spreads.png" width="32%" />
-</p>
-
-### Bourgoin-Jallieu V US Bressane on 2026/03/28
-
-
-Average Margin: Bourgoin-Jallieu by 3.8
-
-<p float="left">
-<img src="plots\2026-03-28-Bourgoin-Jallieu_V_USBressane_performances.png" width="32%" />
-<img src="plots\2026-03-28-Bourgoin-Jallieu_V_USBressane_resultbar.png" width="32%" />
-<img src="plots\2026-03-28-Bourgoin-Jallieu_V_USBressane_spreads.png" width="32%" />
+<img src="plots\2026-03-27-Chambery_V_Tarbes_performances.png" width="32%" />
+<img src="plots\2026-03-27-Chambery_V_Tarbes_resultbar.png" width="32%" />
+<img src="plots\2026-03-27-Chambery_V_Tarbes_spreads.png" width="32%" />
 </p>
 
 ### Niort V Rouen on 2026/03/28
 
 
-Average Margin: Niort by 2.2
+Average Margin: Niort by 2.8
 
 <p float="left">
 <img src="plots\2026-03-28-Niort_V_Rouen_performances.png" width="32%" />
@@ -1749,18 +1626,51 @@ Average Margin: Niort by 2.2
 <img src="plots\2026-03-28-Niort_V_Rouen_spreads.png" width="32%" />
 </p>
 
-## Week 25
-
-### Tarbes V Rennes on 2026/04/10
+### Bourgoin-Jallieu V US Bressane on 2026/03/28
 
 
-Average Margin: Tarbes by 2.1
+Average Margin: Bourgoin-Jallieu by 3.5
 
 <p float="left">
-<img src="plots\2026-04-10-Tarbes_V_Rennes_performances.png" width="32%" />
-<img src="plots\2026-04-10-Tarbes_V_Rennes_resultbar.png" width="32%" />
-<img src="plots\2026-04-10-Tarbes_V_Rennes_spreads.png" width="32%" />
+<img src="plots\2026-03-28-Bourgoin-Jallieu_V_USBressane_performances.png" width="32%" />
+<img src="plots\2026-03-28-Bourgoin-Jallieu_V_USBressane_resultbar.png" width="32%" />
+<img src="plots\2026-03-28-Bourgoin-Jallieu_V_USBressane_spreads.png" width="32%" />
 </p>
+
+### Périgueux V Marcq-en-Baroeul on 2026/03/28
+
+
+Average Margin: Périgueux by 4.8
+
+<p float="left">
+<img src="plots\2026-03-28-Perigueux_V_Marcq-en-Baroeul_performances.png" width="32%" />
+<img src="plots\2026-03-28-Perigueux_V_Marcq-en-Baroeul_resultbar.png" width="32%" />
+<img src="plots\2026-03-28-Perigueux_V_Marcq-en-Baroeul_spreads.png" width="32%" />
+</p>
+
+### Nice V Narbonne on 2026/03/28
+
+
+Average Margin: Nice by 2.8
+
+<p float="left">
+<img src="plots\2026-03-28-Nice_V_Narbonne_performances.png" width="32%" />
+<img src="plots\2026-03-28-Nice_V_Narbonne_resultbar.png" width="32%" />
+<img src="plots\2026-03-28-Nice_V_Narbonne_spreads.png" width="32%" />
+</p>
+
+### Rennes V Albi on 2026/03/28
+
+
+Average Margin: Rennes by 1.5
+
+<p float="left">
+<img src="plots\2026-03-28-Rennes_V_Albi_performances.png" width="32%" />
+<img src="plots\2026-03-28-Rennes_V_Albi_resultbar.png" width="32%" />
+<img src="plots\2026-03-28-Rennes_V_Albi_spreads.png" width="32%" />
+</p>
+
+## Week 25
 
 ### US Bressane V Massy on 2026/04/10
 
@@ -1773,10 +1683,21 @@ Average Margin: US Bressane by 2.2
 <img src="plots\2026-04-10-USBressane_V_Massy_spreads.png" width="32%" />
 </p>
 
+### Tarbes V Rennes on 2026/04/10
+
+
+Average Margin: Tarbes by 2.1
+
+<p float="left">
+<img src="plots\2026-04-10-Tarbes_V_Rennes_performances.png" width="32%" />
+<img src="plots\2026-04-10-Tarbes_V_Rennes_resultbar.png" width="32%" />
+<img src="plots\2026-04-10-Tarbes_V_Rennes_spreads.png" width="32%" />
+</p>
+
 ### Rouen V Chambery on 2026/04/10
 
 
-Average Margin: Rouen by 2.3
+Average Margin: Rouen by 2.4
 
 <p float="left">
 <img src="plots\2026-04-10-Rouen_V_Chambery_performances.png" width="32%" />
@@ -1787,12 +1708,23 @@ Average Margin: Rouen by 2.3
 ### Albi V Nice on 2026/04/10
 
 
-Average Margin: Albi by 3.2
+Average Margin: Albi by 2.7
 
 <p float="left">
 <img src="plots\2026-04-10-Albi_V_Nice_performances.png" width="32%" />
 <img src="plots\2026-04-10-Albi_V_Nice_resultbar.png" width="32%" />
 <img src="plots\2026-04-10-Albi_V_Nice_spreads.png" width="32%" />
+</p>
+
+### Suresnes V Niort on 2026/04/11
+
+
+Average Margin: Suresnes by 2.6
+
+<p float="left">
+<img src="plots\2026-04-11-Suresnes_V_Niort_performances.png" width="32%" />
+<img src="plots\2026-04-11-Suresnes_V_Niort_resultbar.png" width="32%" />
+<img src="plots\2026-04-11-Suresnes_V_Niort_spreads.png" width="32%" />
 </p>
 
 ### Marcq-en-Baroeul V Bourgoin-Jallieu on 2026/04/11
@@ -1809,7 +1741,7 @@ Average Margin: Marcq-en-Baroeul by 3.5
 ### Narbonne V Périgueux on 2026/04/11
 
 
-Average Margin: Narbonne by 3.2
+Average Margin: Narbonne by 3.8
 
 <p float="left">
 <img src="plots\2026-04-11-Narbonne_V_Perigueux_performances.png" width="32%" />
@@ -1817,56 +1749,23 @@ Average Margin: Narbonne by 3.2
 <img src="plots\2026-04-11-Narbonne_V_Perigueux_spreads.png" width="32%" />
 </p>
 
-### Suresnes V Niort on 2026/04/11
-
-
-Average Margin: Suresnes by 2.0
-
-<p float="left">
-<img src="plots\2026-04-11-Suresnes_V_Niort_performances.png" width="32%" />
-<img src="plots\2026-04-11-Suresnes_V_Niort_resultbar.png" width="32%" />
-<img src="plots\2026-04-11-Suresnes_V_Niort_spreads.png" width="32%" />
-</p>
-
 ## Week 26
 
-### Niort V US Bressane on 2026/04/25
+### Nice V Rennes on 2026/04/25
 
 
-Average Margin: Niort by 3.9
-
-<p float="left">
-<img src="plots\2026-04-25-Niort_V_USBressane_performances.png" width="32%" />
-<img src="plots\2026-04-25-Niort_V_USBressane_resultbar.png" width="32%" />
-<img src="plots\2026-04-25-Niort_V_USBressane_spreads.png" width="32%" />
-</p>
-
-### Périgueux V Albi on 2026/04/25
-
-
-Average Margin: Périgueux by 3.2
+Average Margin: Nice by 3.7
 
 <p float="left">
-<img src="plots\2026-04-25-Perigueux_V_Albi_performances.png" width="32%" />
-<img src="plots\2026-04-25-Perigueux_V_Albi_resultbar.png" width="32%" />
-<img src="plots\2026-04-25-Perigueux_V_Albi_spreads.png" width="32%" />
-</p>
-
-### Bourgoin-Jallieu V Narbonne on 2026/04/25
-
-
-Average Margin: Bourgoin-Jallieu by 1.6
-
-<p float="left">
-<img src="plots\2026-04-25-Bourgoin-Jallieu_V_Narbonne_performances.png" width="32%" />
-<img src="plots\2026-04-25-Bourgoin-Jallieu_V_Narbonne_resultbar.png" width="32%" />
-<img src="plots\2026-04-25-Bourgoin-Jallieu_V_Narbonne_spreads.png" width="32%" />
+<img src="plots\2026-04-25-Nice_V_Rennes_performances.png" width="32%" />
+<img src="plots\2026-04-25-Nice_V_Rennes_resultbar.png" width="32%" />
+<img src="plots\2026-04-25-Nice_V_Rennes_spreads.png" width="32%" />
 </p>
 
 ### Massy V Marcq-en-Baroeul on 2026/04/25
 
 
-Average Margin: Massy by 4.4
+Average Margin: Massy by 3.9
 
 <p float="left">
 <img src="plots\2026-04-25-Massy_V_Marcq-en-Baroeul_performances.png" width="32%" />
@@ -1874,21 +1773,32 @@ Average Margin: Massy by 4.4
 <img src="plots\2026-04-25-Massy_V_Marcq-en-Baroeul_spreads.png" width="32%" />
 </p>
 
-### Chambery V Suresnes on 2026/04/25
+### Niort V US Bressane on 2026/04/25
 
 
-Average Margin: Chambery by 5.3
+Average Margin: Niort by 4.0
 
 <p float="left">
-<img src="plots\2026-04-25-Chambery_V_Suresnes_performances.png" width="32%" />
-<img src="plots\2026-04-25-Chambery_V_Suresnes_resultbar.png" width="32%" />
-<img src="plots\2026-04-25-Chambery_V_Suresnes_spreads.png" width="32%" />
+<img src="plots\2026-04-25-Niort_V_USBressane_performances.png" width="32%" />
+<img src="plots\2026-04-25-Niort_V_USBressane_resultbar.png" width="32%" />
+<img src="plots\2026-04-25-Niort_V_USBressane_spreads.png" width="32%" />
+</p>
+
+### Bourgoin-Jallieu V Narbonne on 2026/04/25
+
+
+Average Margin: Bourgoin-Jallieu by 1.9
+
+<p float="left">
+<img src="plots\2026-04-25-Bourgoin-Jallieu_V_Narbonne_performances.png" width="32%" />
+<img src="plots\2026-04-25-Bourgoin-Jallieu_V_Narbonne_resultbar.png" width="32%" />
+<img src="plots\2026-04-25-Bourgoin-Jallieu_V_Narbonne_spreads.png" width="32%" />
 </p>
 
 ### Rouen V Tarbes on 2026/04/25
 
 
-Average Margin: Rouen by 5.7
+Average Margin: Rouen by 4.8
 
 <p float="left">
 <img src="plots\2026-04-25-Rouen_V_Tarbes_performances.png" width="32%" />
@@ -1896,13 +1806,24 @@ Average Margin: Rouen by 5.7
 <img src="plots\2026-04-25-Rouen_V_Tarbes_spreads.png" width="32%" />
 </p>
 
-### Nice V Rennes on 2026/04/25
+### Périgueux V Albi on 2026/04/25
 
 
-Average Margin: Nice by 3.6
+Average Margin: Périgueux by 3.7
 
 <p float="left">
-<img src="plots\2026-04-25-Nice_V_Rennes_performances.png" width="32%" />
-<img src="plots\2026-04-25-Nice_V_Rennes_resultbar.png" width="32%" />
-<img src="plots\2026-04-25-Nice_V_Rennes_spreads.png" width="32%" />
+<img src="plots\2026-04-25-Perigueux_V_Albi_performances.png" width="32%" />
+<img src="plots\2026-04-25-Perigueux_V_Albi_resultbar.png" width="32%" />
+<img src="plots\2026-04-25-Perigueux_V_Albi_spreads.png" width="32%" />
+</p>
+
+### Chambery V Suresnes on 2026/04/25
+
+
+Average Margin: Chambery by 4.9
+
+<p float="left">
+<img src="plots\2026-04-25-Chambery_V_Suresnes_performances.png" width="32%" />
+<img src="plots\2026-04-25-Chambery_V_Suresnes_resultbar.png" width="32%" />
+<img src="plots\2026-04-25-Chambery_V_Suresnes_spreads.png" width="32%" />
 </p>

@@ -1,0 +1,34 @@
+---  
+layout: page  
+title: England Women V Scotland Women on 2025/09/14  
+date: 2025-09-14  
+categories: "Women's Rugby World Cup 2025" match projection  
+---
+# England Women V Scotland Women on 2025/09/14, 40.0 to 8.0
+
+# Club Level Predictions
+
+
+Now that the game has been played, lets see how the club predictions did. I predicted England Women to win by 21.15, and England Women won by 32.0. That's an absolute error of 10.9 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 49.3% of my recent predictions.
+
+For the Over/Under model, I predicted a total of 52.5 and we have an actual total of 48.0. That's an absolute error of 4.5 compared to a six month average of 13.6. This prediction was more accurate than 79.7% of my recent predictions.
+## Projected Performances - Club Model
+
+
+<p float="left">
+<img src="../comp_files/plots/2025-09-14-EnglandWomen_V_ScotlandWomen_performances.png" width="99%" />
+</p>
+
+## Projected Spreads - Club Model
+
+
+<p float="left">
+<img src="../comp_files/plots/2025-09-14-EnglandWomen_V_ScotlandWomen_spreads.png" width="99%" />
+</p>
+
+## Projected Results - Club Model
+
+
+<p float="left">
+<img src="../comp_files/plots/2025-09-14-EnglandWomen_V_ScotlandWomen_resultbar.png" width="99%" />
+</p>

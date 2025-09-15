@@ -1,15 +1,15 @@
 ---  
 layout: page  
-title: Gloucester Rugby V Bristol Rugby on 2025/09/19  
+title: Gloucester Rugby V Bristol Bears on 2025/09/19  
 date: 2025-09-19  
 categories: "Premiership Rugby Cup 25/26" match review  
 ---
-# Gloucester Rugby V Bristol Rugby on 2025/09/19
+# Gloucester Rugby V Bristol Bears on 2025/09/19
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Gloucester Rugby to win by 1.58.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Gloucester Rugby to win by 1.76.
 
 Our Over/Under is 58.5 - and combined with the spread above, we have a predicted scoreline of 30 to 28
 
