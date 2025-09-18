@@ -14,9 +14,9 @@ Competition Accuracy: 24 of 28 (85.71%)
 
 Competition Error: 19.82 points per match
 
-Last Two Week Accuracy: 11 of 12 (91.67%)
+Last Two Week Accuracy: 4 of 4 (100.0%)
 
-Last Two Week Error: 16.18 points per match
+Last Two Week Error: 8.56 points per match
 
 [2025-09-26 - Canada Women V England Women on 2025-09-26](projections\2025-09-26-CanadaWomen_V_EnglandWomen)
 
@@ -38,9 +38,7 @@ Competition Accuracy: 45 of 65 (69.23%)
 
 Competition Error: 20.32 points per match
 
-Last Two Week Accuracy: 0 of 1 (0.0%)
-
-Last Two Week Error: 11.26 points per match
+[2025/09/20 - Samoa V Chile](projections\2025-09-20-Samoa_V_Chile)
 
 [2025/10/10 - Paraguay V Brazil](projections\2025-10-10-Paraguay_V_Brazil)
 ## Pacific Nations Cup
@@ -52,9 +50,9 @@ Competition Accuracy: 6 of 9 (66.67%)
 
 Competition Error: 20.1 points per match
 
-Last Two Week Accuracy: 4 of 5 (80.0%)
+Last Two Week Accuracy: 2 of 3 (66.67%)
 
-Last Two Week Error: 21.33 points per match
+Last Two Week Error: 27.11 points per match
 
 [2025/09/20 - Japan V Fiji](projections\2025-09-20-Japan_V_Fiji)
 
@@ -68,9 +66,9 @@ Competition Accuracy: 4 of 8 (50.0%)
 
 Competition Error: 16.29 points per match
 
-Last Two Week Accuracy: 2 of 4 (50.0%)
+Last Two Week Accuracy: 0 of 2 (0.0%)
 
-Last Two Week Error: 12.3 points per match
+Last Two Week Error: 23.8 points per match
 
 [2025/09/27 - New Zealand V Australia](projections\2025-09-27-NewZealand_V_Australia)
 
@@ -124,9 +122,9 @@ Competition Accuracy: 11 of 14 (78.57%)
 
 Competition Error: 9.27 points per match
 
-Last Two Week Accuracy: 11 of 14 (78.57%)
+Last Two Week Accuracy: 7 of 7 (100.0%)
 
-Last Two Week Error: 9.27 points per match
+Last Two Week Error: 7.74 points per match
 
 [2025/10/10 - Clermont Auvergne V Toulon](projections\2025-10-10-ClermontAuvergne_V_Toulon)
 
@@ -296,11 +294,7 @@ Last Two Week Error: 9.06 points per match
 
 Competition Accuracy: 15 of 28 (53.57%)
 
-Competition Error: 19.78 points per match
-
-Last Two Week Accuracy: 1 of 4 (25.0%)
-
-Last Two Week Error: 17.74 points per match
+Competition Error: 19.8 points per match
 
 [2025/09/20 - Golden Lions V Griquas](projections\2025-09-20-GoldenLions_V_Griquas)
 ## Pro D2
@@ -310,11 +304,11 @@ Last Two Week Error: 17.74 points per match
 
 Competition Accuracy: 17 of 24 (70.83%)
 
-Competition Error: 14.6 points per match
+Competition Error: 14.59 points per match
 
-Last Two Week Accuracy: 12 of 16 (75.0%)
+Last Two Week Accuracy: 6 of 8 (75.0%)
 
-Last Two Week Error: 15.87 points per match
+Last Two Week Error: 14.26 points per match
 
 [2025/09/25 - Mont-de-Marsan V Carcassonne](projections\2025-09-25-Mont-de-Marsan_V_Carcassonne)
 
@@ -372,9 +366,9 @@ Competition Accuracy: 90 of 120 (75.0%)
 
 Competition Error: 9.5 points per match
 
-Last Two Week Accuracy: 7 of 12 (58.33%)
+Last Two Week Accuracy: 3 of 6 (50.0%)
 
-Last Two Week Error: 6.68 points per match
+Last Two Week Error: 6.13 points per match
 
 [2025/10/11 - Newman V San Luis](projections\2025-10-11-Newman_V_SanLuis)
 
@@ -420,9 +414,9 @@ Competition Accuracy: 18 of 28 (64.29%)
 
 Competition Error: 8.78 points per match
 
-Last Two Week Accuracy: 9 of 14 (64.29%)
+Last Two Week Accuracy: 5 of 7 (71.43%)
 
-Last Two Week Error: 9.07 points per match
+Last Two Week Error: 8.15 points per match
 
 [2025/10/11 - Suresnes V Rennes](projections\2025-10-11-Suresnes_V_Rennes)
 
@@ -474,9 +468,9 @@ Competition Accuracy: 29 of 49 (59.18%)
 
 Competition Error: 16.39 points per match
 
-Last Two Week Accuracy: 8 of 14 (57.14%)
+Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 19.55 points per match
+Last Two Week Error: 19.32 points per match
 
 [2025/09/19 - Counties Manukau V Auckland](projections\2025-09-19-CountiesManukau_V_Auckland)
 

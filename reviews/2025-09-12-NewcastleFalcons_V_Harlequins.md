@@ -9,9 +9,9 @@ categories: "Premiership Rugby Cup 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Harlequins to win by 3.78, and Newcastle Falcons won by 12.0. That's an absolute error of 15.8 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 33.7% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Harlequins to win by 3.63, and Newcastle Falcons won by 12.0. That's an absolute error of 15.6 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 34.2% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 63.5 and we have an actual total of 40.0. That's an absolute error of 23.5 compared to a six month average of 13.6. This prediction was more accurate than 16.7% of my recent predictions.
+For the Over/Under model, I predicted a total of 63.5 and we have an actual total of 40.0. That's an absolute error of 23.5 compared to a six month average of 13.6. This prediction was more accurate than 17.1% of my recent predictions.
 ## Projected Performances - Club Model
 
 

@@ -1,6 +1,6 @@
 ---  
 title: "Rugby Championship 2025"  
-date: 2025-09-15 6:00:00 -0500  
+date: 2025-09-18 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -29,10 +29,10 @@ aside:
 
 | Club         |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:-------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| South Africa |         2 |            1.222 |                    8.068 |                           0.362 |                              |                          5.458 |
-| New Zealand  |         2 |            1.196 |                    6.271 |                           0.393 |                              |                          5.349 |
-| Australia    |         2 |            0.718 |                   -6.271 |                           0.499 |                              |                          3.543 |
-| Argentina    |         2 |            0.674 |                   -8.068 |                           0.475 |                              |                          3.379 |
+| South Africa |         2 |            1.243 |                    8.58  |                           0.386 |                              |                          5.524 |
+| New Zealand  |         2 |            1.155 |                    5.506 |                           0.427 |                              |                          5.219 |
+| Australia    |         2 |            0.759 |                   -5.506 |                           0.485 |                              |                          3.693 |
+| Argentina    |         2 |            0.674 |                   -8.58  |                           0.48  |                              |                          3.342 |
 
 
 
@@ -41,10 +41,10 @@ aside:
 
 | Club         |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Australia    |        6 |  2.718 |                3.729 |                 1.499 |                  3 |               15.543 |
-| South Africa |        6 |  3.222 |               26.068 |                 1.362 |                  1 |               15.458 |
-| New Zealand  |        6 |  3.196 |               -8.729 |                 1.393 |                  1 |               15.349 |
-| Argentina    |        6 |  2.674 |              -21.068 |                 1.475 |                    |               12.379 |
+| Australia    |        6 |  2.759 |                4.494 |                 1.485 |                  3 |               15.693 |
+| South Africa |        6 |  3.243 |               26.58  |                 1.386 |                  1 |               15.524 |
+| New Zealand  |        6 |  3.155 |               -9.494 |                 1.427 |                  1 |               15.219 |
+| Argentina    |        6 |  2.674 |              -21.58  |                 1.48  |                    |               12.342 |
 
 
 
@@ -53,7 +53,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 50.0% | 14.3 |
+| Club Level | 58.3% | 12.9 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -65,7 +65,7 @@ aside:
 ### New Zealand V Australia on 2025/09/27
 
 
-Average Margin: New Zealand by 5.9
+Average Margin: New Zealand by 5.3
 
 <p float="left">
 <img src="plots\2025-09-27-NewZealand_V_Australia_performances.png" width="32%" />
@@ -76,7 +76,7 @@ Average Margin: New Zealand by 5.9
 ### South Africa V Argentina on 2025/09/27
 
 
-Average Margin: South Africa by 6.5
+Average Margin: South Africa by 6.6
 
 <p float="left">
 <img src="plots\2025-09-27-SouthAfrica_V_Argentina_performances.png" width="32%" />
@@ -89,7 +89,7 @@ Average Margin: South Africa by 6.5
 ### Australia V New Zealand on 2025/10/04
 
 
-Average Margin: New Zealand by 0.4
+Average Margin: New Zealand by 0.2
 
 <p float="left">
 <img src="plots\2025-10-04-Australia_V_NewZealand_performances.png" width="32%" />
@@ -100,7 +100,7 @@ Average Margin: New Zealand by 0.4
 ### Argentina V South Africa on 2025/10/04
 
 
-Average Margin: South Africa by 1.6
+Average Margin: South Africa by 1.9
 
 <p float="left">
 <img src="plots\2025-10-04-Argentina_V_SouthAfrica_performances.png" width="32%" />

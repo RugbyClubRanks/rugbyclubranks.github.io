@@ -1,6 +1,6 @@
 ---  
 title: "Currie Cup 2025"  
-date: 2025-09-15 6:00:00 -0500  
+date: 2025-09-18 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -33,8 +33,8 @@ aside:
 
 | Club         |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:-------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Golden Lions |         1 |            0.622 |                    3.675 |                           0.187 |                              |                          2.757 |
-| Griquas      |         1 |            0.337 |                   -3.675 |                           0.26  |                              |                          1.69  |
+| Golden Lions |         1 |            0.649 |                    4.036 |                           0.177 |                              |                          2.857 |
+| Griquas      |         1 |            0.309 |                   -4.036 |                           0.276 |                              |                          1.596 |
 
 
 
@@ -43,8 +43,8 @@ aside:
 
 | Club             |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Golden Lions     |        8 |  5.622 |              100.675 |                 0.187 |                  4 |               26.757 |
-| Griquas          |        8 |  5.337 |               44.325 |                 0.26  |                  4 |               25.69  |
+| Golden Lions     |        8 |  5.649 |              101.036 |                 0.177 |                  4 |               26.857 |
+| Griquas          |        8 |  5.309 |               43.964 |                 0.276 |                  4 |               25.596 |
 | Boland Cavaliers |        7 |  4     |                3     |                 1     |                  6 |               23     |
 | Pumas            |        7 |  3     |               54     |                 3     |                  6 |               21     |
 | Cheetahs         |        7 |  4     |                6     |                 2     |                  3 |               21     |
@@ -59,7 +59,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 55.2% | 19.3 |
+| Club Level | 51.7% | 19.4 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -71,7 +71,7 @@ aside:
 ### Golden Lions V Griquas on 2025/09/20
 
 
-Average Margin: Golden Lions by 3.7
+Average Margin: Golden Lions by 4.0
 
 <p float="left">
 <img src="plots\2025-09-20-GoldenLions_V_Griquas_performances.png" width="32%" />

@@ -14,9 +14,9 @@ Competition Accuracy: 24 of 28 (85.71%)
 
 Competition Error: 19.82 points per match
 
-Last Two Week Accuracy: 11 of 12 (91.67%)
+Last Two Week Accuracy: 4 of 4 (100.0%)
 
-Last Two Week Error: 16.18 points per match
+Last Two Week Error: 8.56 points per match
 
 [2025/09/13 - Canada Women V Australia Women, 46.0 to 5.0](reviews\2025-09-13-CanadaWomen_V_AustraliaWomen)
 
@@ -34,9 +34,9 @@ Competition Accuracy: 6 of 9 (66.67%)
 
 Competition Error: 20.1 points per match
 
-Last Two Week Accuracy: 4 of 5 (80.0%)
+Last Two Week Accuracy: 2 of 3 (66.67%)
 
-Last Two Week Error: 21.33 points per match
+Last Two Week Error: 27.11 points per match
 
 [2025/09/14 - Fiji V Canada, 63.0 to 10.0](reviews\2025-09-14-Fiji_V_Canada)
 
@@ -52,9 +52,9 @@ Competition Accuracy: 4 of 8 (50.0%)
 
 Competition Error: 16.29 points per match
 
-Last Two Week Accuracy: 2 of 4 (50.0%)
+Last Two Week Accuracy: 0 of 2 (0.0%)
 
-Last Two Week Error: 12.3 points per match
+Last Two Week Error: 23.8 points per match
 
 [2025/09/13 - Australia V Argentina, 26.0 to 28.0](reviews\2025-09-13-Australia_V_Argentina)
 
@@ -90,9 +90,9 @@ Competition Accuracy: 11 of 14 (78.57%)
 
 Competition Error: 9.27 points per match
 
-Last Two Week Accuracy: 11 of 14 (78.57%)
+Last Two Week Accuracy: 7 of 7 (100.0%)
 
-Last Two Week Error: 9.27 points per match
+Last Two Week Error: 7.74 points per match
 
 [2025/09/13 - Bayonne V Montpellier Herault, 26.0 to 23.0](reviews\2025-09-13-Bayonne_V_MontpellierHerault)
 
@@ -118,9 +118,9 @@ Competition Accuracy: 29 of 49 (59.18%)
 
 Competition Error: 16.39 points per match
 
-Last Two Week Accuracy: 8 of 14 (57.14%)
+Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 19.55 points per match
+Last Two Week Error: 19.32 points per match
 
 [2025/09/11 - Northland V Wellington, 43.0 to 26.0](reviews\2025-09-11-Northland_V_Wellington)
 
@@ -144,9 +144,9 @@ Competition Accuracy: 90 of 120 (75.0%)
 
 Competition Error: 9.5 points per match
 
-Last Two Week Accuracy: 7 of 12 (58.33%)
+Last Two Week Accuracy: 3 of 6 (50.0%)
 
-Last Two Week Error: 6.68 points per match
+Last Two Week Error: 6.13 points per match
 
 [2025/09/13 - La Plata V Hindu, 36.0 to 29.0](reviews\2025-09-13-LaPlata_V_Hindu)
 
@@ -166,11 +166,11 @@ Last Two Week Error: 6.68 points per match
 
 Competition Accuracy: 17 of 24 (70.83%)
 
-Competition Error: 14.6 points per match
+Competition Error: 14.59 points per match
 
-Last Two Week Accuracy: 12 of 16 (75.0%)
+Last Two Week Accuracy: 6 of 8 (75.0%)
 
-Last Two Week Error: 15.87 points per match
+Last Two Week Error: 14.26 points per match
 
 [2025/09/12 - USON Nevers V Carcassonne, 26.0 to 17.0](reviews\2025-09-12-USONNevers_V_Carcassonne)
 
@@ -196,9 +196,9 @@ Competition Accuracy: 18 of 28 (64.29%)
 
 Competition Error: 8.78 points per match
 
-Last Two Week Accuracy: 9 of 14 (64.29%)
+Last Two Week Accuracy: 5 of 7 (71.43%)
 
-Last Two Week Error: 9.07 points per match
+Last Two Week Error: 8.15 points per match
 
 [2025/09/13 - Rennes V Niort, 17.0 to 12.0](reviews\2025-09-13-Rennes_V_Niort)
 
