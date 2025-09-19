@@ -9,9 +9,9 @@ categories: "NPC 2025" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Waikato to win by 7.41, and Waikato won by 1.0. That's an absolute error of 6.4 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 70.4% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Waikato to win by 8.27, and Waikato won by 1.0. That's an absolute error of 7.3 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 66.3% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 54.5 and we have an actual total of 57.0. That's an absolute error of 2.5 compared to a six month average of 13.6. This prediction was more accurate than 88.1% of my recent predictions.
+For the Over/Under model, I predicted a total of 54.5 and we have an actual total of 57.0. That's an absolute error of 2.5 compared to a six month average of 13.7. This prediction was more accurate than 88.3% of my recent predictions.
 ## Projected Performances - Club Model
 
 

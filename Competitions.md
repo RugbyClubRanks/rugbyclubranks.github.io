@@ -8,7 +8,7 @@ key: page-recents
 ## International Test Match
 
 
-[2025](comp_files\International_Test_Match_2025) - Prediction Accuracy: 67.4% 
+[2025](comp_files\International_Test_Match_2025) - Prediction Accuracy: 68.4% 
 
 [2024](comp_files\International_Test_Match_2024) - Prediction Accuracy: 72.3% 
 
@@ -116,7 +116,7 @@ key: page-recents
 ## Rugby Championship
 
 
-[2025](comp_files\Rugby_Championship_2025) - Prediction Accuracy: 58.3% 
+[2025](comp_files\Rugby_Championship_2025) - Prediction Accuracy: 50.0% 
 
 [2024](comp_files\Rugby_Championship_2024) - Prediction Accuracy: 75.0% 
 
@@ -436,7 +436,7 @@ key: page-recents
 ## Womens Rugby World Cup
 
 
-[2025](comp_files\Womens_Rugby_World_Cup_2025) - Prediction Accuracy: 85.3% 
+[2025](comp_files\Womens_Rugby_World_Cup_2025) - Prediction Accuracy: 82.4% 
 
 [2022](comp_files\Womens_Rugby_World_Cup_2022) - Prediction Accuracy: 76.9% 
 
@@ -618,7 +618,7 @@ key: page-recents
 ## Top 14
 
 
-[25/26](comp_files\Top_14_2526) - Prediction Accuracy: 67.6% 
+[25/26](comp_files\Top_14_2526) - Prediction Accuracy: 65.9% 
 
 [24/25](comp_files\Top_14_2425) - Prediction Accuracy: 75.1% 
 
@@ -910,7 +910,7 @@ key: page-recents
 ## Premiership Rugby Cup
 
 
-[25/26](comp_files\Premiership_Rugby_Cup_2526) - Prediction Accuracy: 60.0% 
+[25/26](comp_files\Premiership_Rugby_Cup_2526) - Prediction Accuracy: 75.0% 
 
 [24/25](comp_files\Premiership_Rugby_Cup_2425) - Prediction Accuracy: 79.1% 
 
@@ -970,7 +970,7 @@ key: page-recents
 ## Pro D2
 
 
-[25/26](comp_files\Pro_D2_2526) - Prediction Accuracy: 69.6% 
+[25/26](comp_files\Pro_D2_2526) - Prediction Accuracy: 62.9% 
 
 [24/25](comp_files\Pro_D2_2425) - Prediction Accuracy: 71.4% 
 
@@ -1014,7 +1014,7 @@ key: page-recents
 ## Currie Cup
 
 
-[2025](comp_files\Currie_Cup_2025) - Prediction Accuracy: 51.7% 
+[2025](comp_files\Currie_Cup_2025) - Prediction Accuracy: 55.2% 
 
 [2024](comp_files\Currie_Cup_2024) - Prediction Accuracy: 62.1% 
 
@@ -1096,7 +1096,7 @@ key: page-recents
 ## URBA Top 13
 
 
-[2025](comp_files\URBA_Top_13_2025) - Prediction Accuracy: 72.5% 
+[2025](comp_files\URBA_Top_13_2025) - Prediction Accuracy: 71.7% 
 
 [2024](comp_files\URBA_Top_13_2024) - Prediction Accuracy: 65.2% 
 
@@ -1206,7 +1206,7 @@ key: page-recents
 ## Nationale
 
 
-[25/26](comp_files\Nationale_2526) - Prediction Accuracy: 63.7% 
+[25/26](comp_files\Nationale_2526) - Prediction Accuracy: 65.4% 
 
 [24/25](comp_files\Nationale_2425) - Prediction Accuracy: 73.6% 
 

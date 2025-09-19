@@ -9,9 +9,9 @@ categories: "Women's Rugby World Cup 2025" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted France Women to win by 9.16, and France Women won by 5.0. That's an absolute error of 4.2 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 80.5% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted France Women to win by 9.12, and France Women won by 5.0. That's an absolute error of 4.1 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 80.7% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 52.5 and we have an actual total of 31.0. That's an absolute error of 21.5 compared to a six month average of 13.6. This prediction was more accurate than 20.4% of my recent predictions.
+For the Over/Under model, I predicted a total of 53.5 and we have an actual total of 31.0. That's an absolute error of 22.5 compared to a six month average of 13.7. This prediction was more accurate than 19.2% of my recent predictions.
 ## Projected Performances - Club Model
 
 
