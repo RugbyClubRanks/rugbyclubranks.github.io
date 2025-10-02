@@ -1,6 +1,6 @@
 ---  
 title: "Women's Rugby World Cup 2025"  
-date: 2025-09-22 6:00:00 -0500  
+date: 2025-09-26 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -151,8 +151,8 @@ aside:
 
 |                    | Reach Quarterfinal   | Win Quarterfinal   | Reach Semifinal   | Win Semifinal   | Reach Final   | Win Final   |
 |:-------------------|:---------------------|:-------------------|:------------------|:----------------|:--------------|:------------|
-| England Women      | 100.0 %              | 100.0 %            | 100.0 %           | 100.0 %         | 100.0 %       | 54.7 %      |
-| Canada Women       | 100.0 %              | 100.0 %            | 100.0 %           | 100.0 %         | 100.0 %       | 45.3 %      |
+| England Women      | 100.0 %              | 100.0 %            | 100.0 %           | 100.0 %         | 100.0 %       | 52.0 %      |
+| Canada Women       | 100.0 %              | 100.0 %            | 100.0 %           | 100.0 %         | 100.0 %       | 48.0 %      |
 | New Zealand Women  | 100.0 %              | 100.0 %            | 100.0 %           | 0.0 %           | 0.0 %         | 0.0 %       |
 | France Women       | 100.0 %              | 100.0 %            | 100.0 %           | 0.0 %           | 0.0 %         | 0.0 %       |
 | South Africa Women | 100.0 %              | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
@@ -167,7 +167,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 81.2% | 18.4 |
+| Club Level | 81.2% | 18.9 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -179,7 +179,7 @@ aside:
 ### New Zealand Women V France Women on 2025/09/27
 
 
-Average Margin: New Zealand Women by 4.3
+Average Margin: New Zealand Women by 4.6
 
 <p float="left">
 <img src="plots\2025-09-27-NewZealandWomen_V_FranceWomen_performances.png" width="32%" />
@@ -190,7 +190,7 @@ Average Margin: New Zealand Women by 4.3
 ### Canada Women V England Women on 2025/09/27
 
 
-Average Margin: England Women by 0.5
+Average Margin: Canada Women by 0.3
 
 <p float="left">
 <img src="plots\2025-09-27-CanadaWomen_V_EnglandWomen_performances.png" width="32%" />
