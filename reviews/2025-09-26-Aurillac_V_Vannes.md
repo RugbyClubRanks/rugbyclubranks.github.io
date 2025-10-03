@@ -9,9 +9,9 @@ categories: "Pro D2 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Vannes to win by 0.27, and Vannes won by 5.0. That's an absolute error of 4.7 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 77.4% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Vannes to win by 0.4, and Vannes won by 5.0. That's an absolute error of 4.6 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 77.7% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 39.0. That's an absolute error of 11.5 compared to a six month average of 13.7. This prediction was more accurate than 48.4% of my recent predictions.
+For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 39.0. That's an absolute error of 11.5 compared to a six month average of 13.8. This prediction was more accurate than 48.9% of my recent predictions.
 ## Projected Performances - Club Model
 
 

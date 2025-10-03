@@ -9,9 +9,9 @@ categories: "International Test Match 2025" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Chile to win by 2.76, and Chile won by 19.0. That's an absolute error of 16.2 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 33.8% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Chile to win by 3.01, and Chile won by 19.0. That's an absolute error of 16.0 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 33.9% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 43.0. That's an absolute error of 5.5 compared to a six month average of 13.7. This prediction was more accurate than 74.4% of my recent predictions.
+For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 43.0. That's an absolute error of 5.5 compared to a six month average of 13.8. This prediction was more accurate than 75.1% of my recent predictions.
 ## Projected Performances - Club Model
 
 

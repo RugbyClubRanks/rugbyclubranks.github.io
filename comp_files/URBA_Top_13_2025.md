@@ -1,6 +1,6 @@
 ---  
 title: "URBA Top 13 2025"  
-date: 2025-10-02 6:00:00 -0500  
+date: 2025-10-03 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -37,18 +37,18 @@ aside:
 
 | Club                |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:--------------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Belgrano AC         |         2 |            1.412 |                   11.078 |                           0.284 |                              |                          6.086 |
-| SIC                 |         2 |            1.253 |                    6.149 |                           0.409 |                              |                          5.567 |
-| CUBA                |         2 |            1.249 |                    6.861 |                           0.379 |                              |                          5.563 |
-| Los Tilos           |         2 |            1.197 |                    5.368 |                           0.408 |                              |                          5.374 |
-| CASI                |         2 |            1.146 |                    3.354 |                           0.481 |                              |                          5.257 |
-| Newman              |         2 |            1.12  |                    6.335 |                           0.445 |                              |                          5.091 |
-| Alumni              |         2 |            0.965 |                   -0.398 |                           0.42  |                              |                          4.406 |
-| La Plata            |         2 |            0.698 |                   -5.348 |                           0.579 |                              |                          3.545 |
-| Regatas Bella Vista |         2 |            0.693 |                   -6.056 |                           0.583 |                              |                          3.513 |
-| Hindu               |         2 |            0.623 |                   -7.741 |                           0.582 |                              |                          3.23  |
-| San Luis            |         2 |            0.637 |                   -8.97  |                           0.468 |                              |                          3.184 |
-| Buenos Aires        |         2 |            0.514 |                  -10.632 |                           0.522 |                              |                          2.744 |
+| Belgrano AC         |         2 |            1.398 |                   10.531 |                           0.276 |                              |                          6.032 |
+| SIC                 |         2 |            1.252 |                    6.852 |                           0.395 |                              |                          5.591 |
+| CUBA                |         2 |            1.246 |                    6.427 |                           0.355 |                              |                          5.531 |
+| Los Tilos           |         2 |            1.198 |                    5.271 |                           0.42  |                              |                          5.37  |
+| CASI                |         2 |            1.127 |                    3.766 |                           0.494 |                              |                          5.224 |
+| Newman              |         2 |            1.155 |                    6.88  |                           0.399 |                              |                          5.185 |
+| Alumni              |         2 |            0.938 |                   -0.444 |                           0.432 |                              |                          4.346 |
+| La Plata            |         2 |            0.706 |                   -5.317 |                           0.555 |                              |                          3.597 |
+| Regatas Bella Vista |         2 |            0.679 |                   -6.105 |                           0.588 |                              |                          3.516 |
+| Hindu               |         2 |            0.636 |                   -7.517 |                           0.583 |                              |                          3.311 |
+| San Luis            |         2 |            0.634 |                   -9.45  |                           0.473 |                              |                          3.145 |
+| Buenos Aires        |         2 |            0.487 |                  -10.894 |                           0.506 |                              |                          2.628 |
 
 
 
@@ -57,18 +57,18 @@ aside:
 
 | Club                |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| CASI                |       23 | 19.146 |              230.354 |                 1.481 |                  7 |               85.257 |
-| Newman              |       23 | 17.12  |              132.335 |                 3.445 |                  8 |               80.091 |
-| SIC                 |       23 | 16.253 |              105.149 |                 4.409 |                  9 |               78.567 |
-| Belgrano AC         |       23 | 18.412 |              204.078 |                 2.284 |                    |               76.086 |
-| Los Tilos           |       23 | 14.197 |               46.368 |                 5.408 |                  9 |               73.374 |
-| Regatas Bella Vista |       23 |  9.693 |              -32.056 |                 7.583 |                  5 |               51.513 |
-| Alumni              |       23 |  9.965 |              -52.398 |                 5.42  |                  6 |               51.406 |
-| CUBA                |       23 |  8.249 |              -40.139 |                10.379 |                  7 |               50.563 |
-| Hindu               |       23 |  8.623 |               31.259 |                 8.582 |                    |               43.23  |
-| La Plata            |       23 |  5.698 |             -205.348 |                 8.579 |                  1 |               32.545 |
-| San Luis            |       23 |  4.637 |             -218.97  |                 5.468 |                  1 |               27.184 |
-| Buenos Aires        |       23 |  4.514 |             -200.632 |                 7.522 |                    |               25.744 |
+| CASI                |       23 | 19.127 |              230.766 |                 1.494 |                  7 |               85.224 |
+| Newman              |       23 | 17.155 |              132.88  |                 3.399 |                  8 |               80.185 |
+| SIC                 |       23 | 16.252 |              105.852 |                 4.395 |                  9 |               78.591 |
+| Belgrano AC         |       23 | 18.398 |              203.531 |                 2.276 |                    |               76.032 |
+| Los Tilos           |       23 | 14.198 |               46.271 |                 5.42  |                  9 |               73.37  |
+| Regatas Bella Vista |       23 |  9.679 |              -32.105 |                 7.588 |                  5 |               51.516 |
+| Alumni              |       23 |  9.938 |              -52.444 |                 5.432 |                  6 |               51.346 |
+| CUBA                |       23 |  8.246 |              -40.573 |                10.355 |                  7 |               50.531 |
+| Hindu               |       23 |  8.636 |               31.483 |                 8.583 |                    |               43.311 |
+| La Plata            |       23 |  5.706 |             -205.317 |                 8.555 |                  1 |               32.597 |
+| San Luis            |       23 |  4.634 |             -219.45  |                 5.473 |                  1 |               27.145 |
+| Buenos Aires        |       23 |  4.487 |             -200.894 |                 7.506 |                    |               25.628 |
 
 
 
@@ -86,10 +86,32 @@ aside:
 
 ## Week 22
 
+### CUBA V Buenos Aires on 2025/10/04
+
+
+Average Margin: CUBA by 5.9
+
+<p float="left">
+<img src="plots\2025-10-04-CUBA_V_BuenosAires_performances.png" width="32%" />
+<img src="plots\2025-10-04-CUBA_V_BuenosAires_resultbar.png" width="32%" />
+<img src="plots\2025-10-04-CUBA_V_BuenosAires_spreads.png" width="32%" />
+</p>
+
+### CASI V Newman on 2025/10/04
+
+
+Average Margin: CASI by 1.8
+
+<p float="left">
+<img src="plots\2025-10-04-CASI_V_Newman_performances.png" width="32%" />
+<img src="plots\2025-10-04-CASI_V_Newman_resultbar.png" width="32%" />
+<img src="plots\2025-10-04-CASI_V_Newman_spreads.png" width="32%" />
+</p>
+
 ### San Luis V Los Tilos on 2025/10/04
 
 
-Average Margin: Los Tilos by 0.9
+Average Margin: Los Tilos by 0.8
 
 <p float="left">
 <img src="plots\2025-10-04-SanLuis_V_LosTilos_performances.png" width="32%" />
@@ -108,21 +130,10 @@ Average Margin: SIC by 1.6
 <img src="plots\2025-10-04-RegatasBellaVista_V_SIC_spreads.png" width="32%" />
 </p>
 
-### CASI V Newman on 2025/10/04
-
-
-Average Margin: CASI by 1.7
-
-<p float="left">
-<img src="plots\2025-10-04-CASI_V_Newman_performances.png" width="32%" />
-<img src="plots\2025-10-04-CASI_V_Newman_resultbar.png" width="32%" />
-<img src="plots\2025-10-04-CASI_V_Newman_spreads.png" width="32%" />
-</p>
-
 ### Belgrano AC V Hindu on 2025/10/04
 
 
-Average Margin: Belgrano AC by 6.1
+Average Margin: Belgrano AC by 5.5
 
 <p float="left">
 <img src="plots\2025-10-04-BelgranoAC_V_Hindu_performances.png" width="32%" />
@@ -133,7 +144,7 @@ Average Margin: Belgrano AC by 6.1
 ### Alumni V La Plata on 2025/10/04
 
 
-Average Margin: Alumni by 4.1
+Average Margin: Alumni by 4.8
 
 <p float="left">
 <img src="plots\2025-10-04-Alumni_V_LaPlata_performances.png" width="32%" />
@@ -141,73 +152,7 @@ Average Margin: Alumni by 4.1
 <img src="plots\2025-10-04-Alumni_V_LaPlata_spreads.png" width="32%" />
 </p>
 
-### CUBA V Buenos Aires on 2025/10/04
-
-
-Average Margin: CUBA by 5.6
-
-<p float="left">
-<img src="plots\2025-10-04-CUBA_V_BuenosAires_performances.png" width="32%" />
-<img src="plots\2025-10-04-CUBA_V_BuenosAires_resultbar.png" width="32%" />
-<img src="plots\2025-10-04-CUBA_V_BuenosAires_spreads.png" width="32%" />
-</p>
-
 ## Week 23
-
-### SIC V Alumni on 2025/10/11
-
-
-Average Margin: SIC by 4.5
-
-<p float="left">
-<img src="plots\2025-10-11-SIC_V_Alumni_performances.png" width="32%" />
-<img src="plots\2025-10-11-SIC_V_Alumni_resultbar.png" width="32%" />
-<img src="plots\2025-10-11-SIC_V_Alumni_spreads.png" width="32%" />
-</p>
-
-### La Plata V CUBA on 2025/10/11
-
-
-Average Margin: CUBA by 1.2
-
-<p float="left">
-<img src="plots\2025-10-11-LaPlata_V_CUBA_performances.png" width="32%" />
-<img src="plots\2025-10-11-LaPlata_V_CUBA_resultbar.png" width="32%" />
-<img src="plots\2025-10-11-LaPlata_V_CUBA_spreads.png" width="32%" />
-</p>
-
-### Newman V San Luis on 2025/10/11
-
-
-Average Margin: Newman by 8.0
-
-<p float="left">
-<img src="plots\2025-10-11-Newman_V_SanLuis_performances.png" width="32%" />
-<img src="plots\2025-10-11-Newman_V_SanLuis_resultbar.png" width="32%" />
-<img src="plots\2025-10-11-Newman_V_SanLuis_spreads.png" width="32%" />
-</p>
-
-### Los Tilos V Regatas Bella Vista on 2025/10/11
-
-
-Average Margin: Los Tilos by 4.4
-
-<p float="left">
-<img src="plots\2025-10-11-LosTilos_V_RegatasBellaVista_performances.png" width="32%" />
-<img src="plots\2025-10-11-LosTilos_V_RegatasBellaVista_resultbar.png" width="32%" />
-<img src="plots\2025-10-11-LosTilos_V_RegatasBellaVista_spreads.png" width="32%" />
-</p>
-
-### Hindu V CASI on 2025/10/11
-
-
-Average Margin: CASI by 1.7
-
-<p float="left">
-<img src="plots\2025-10-11-Hindu_V_CASI_performances.png" width="32%" />
-<img src="plots\2025-10-11-Hindu_V_CASI_resultbar.png" width="32%" />
-<img src="plots\2025-10-11-Hindu_V_CASI_spreads.png" width="32%" />
-</p>
 
 ### Buenos Aires V Belgrano AC on 2025/10/11
 
@@ -218,4 +163,59 @@ Average Margin: Belgrano AC by 5.0
 <img src="plots\2025-10-11-BuenosAires_V_BelgranoAC_performances.png" width="32%" />
 <img src="plots\2025-10-11-BuenosAires_V_BelgranoAC_resultbar.png" width="32%" />
 <img src="plots\2025-10-11-BuenosAires_V_BelgranoAC_spreads.png" width="32%" />
+</p>
+
+### SIC V Alumni on 2025/10/11
+
+
+Average Margin: SIC by 5.2
+
+<p float="left">
+<img src="plots\2025-10-11-SIC_V_Alumni_performances.png" width="32%" />
+<img src="plots\2025-10-11-SIC_V_Alumni_resultbar.png" width="32%" />
+<img src="plots\2025-10-11-SIC_V_Alumni_spreads.png" width="32%" />
+</p>
+
+### La Plata V CUBA on 2025/10/11
+
+
+Average Margin: CUBA by 0.6
+
+<p float="left">
+<img src="plots\2025-10-11-LaPlata_V_CUBA_performances.png" width="32%" />
+<img src="plots\2025-10-11-LaPlata_V_CUBA_resultbar.png" width="32%" />
+<img src="plots\2025-10-11-LaPlata_V_CUBA_spreads.png" width="32%" />
+</p>
+
+### Newman V San Luis on 2025/10/11
+
+
+Average Margin: Newman by 8.6
+
+<p float="left">
+<img src="plots\2025-10-11-Newman_V_SanLuis_performances.png" width="32%" />
+<img src="plots\2025-10-11-Newman_V_SanLuis_resultbar.png" width="32%" />
+<img src="plots\2025-10-11-Newman_V_SanLuis_spreads.png" width="32%" />
+</p>
+
+### Los Tilos V Regatas Bella Vista on 2025/10/11
+
+
+Average Margin: Los Tilos by 4.5
+
+<p float="left">
+<img src="plots\2025-10-11-LosTilos_V_RegatasBellaVista_performances.png" width="32%" />
+<img src="plots\2025-10-11-LosTilos_V_RegatasBellaVista_resultbar.png" width="32%" />
+<img src="plots\2025-10-11-LosTilos_V_RegatasBellaVista_spreads.png" width="32%" />
+</p>
+
+### Hindu V CASI on 2025/10/11
+
+
+Average Margin: CASI by 2.0
+
+<p float="left">
+<img src="plots\2025-10-11-Hindu_V_CASI_performances.png" width="32%" />
+<img src="plots\2025-10-11-Hindu_V_CASI_resultbar.png" width="32%" />
+<img src="plots\2025-10-11-Hindu_V_CASI_spreads.png" width="32%" />
 </p>
