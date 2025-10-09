@@ -10,15 +10,11 @@ key: page-projections
 
 [In depth model review and projections for International Test Match 2025](comp_files/International_Test_Match_2025)
 
-Competition Accuracy: 33 of 67 (49.25%)
+Competition Accuracy: 46 of 67 (68.66%)
 
-Competition Error: 25.05 points per match
+Competition Error: 19.94 points per match
 
-Last Two Week Accuracy: 1 of 1 (100.0%)
-
-Last Two Week Error: 21.49 points per match
-
-[2025/10/10 - Paraguay V Brazil](projections\2025-10-10-Paraguay_V_Brazil)
+[2025/10/11 - Paraguay V Brazil](projections\2025-10-11-Paraguay_V_Brazil)
 
 [2025/10/17 - Brazil V Paraguay](projections\2025-10-17-Brazil_V_Paraguay)
 
@@ -38,7 +34,7 @@ Last Two Week Error: 21.49 points per match
 
 Competition Accuracy: 4 of 7 (57.14%)
 
-Competition Error: 26.7 points per match
+Competition Error: 20.82 points per match
 
 [2025/10/17 - Japan XV V Australia A](projections\2025-10-17-JapanXV_V_AustraliaA)
 # Top Flight Competitions
@@ -50,11 +46,11 @@ Competition Error: 26.7 points per match
 
 Competition Accuracy: 8 of 10 (80.0%)
 
-Competition Error: 10.96 points per match
+Competition Error: 10.68 points per match
 
-Last Two Week Accuracy: 8 of 10 (80.0%)
+Last Two Week Accuracy: 4 of 5 (80.0%)
 
-Last Two Week Error: 10.96 points per match
+Last Two Week Error: 9.24 points per match
 
 [2025/10/10 - Sale Sharks V Newcastle Falcons](projections\2025-10-10-SaleSharks_V_NewcastleFalcons)
 
@@ -90,13 +86,13 @@ Last Two Week Error: 10.96 points per match
 
 [In depth model review and projections for Top 14 25/26](comp_files/Top_14_2526)
 
-Competition Accuracy: 24 of 35 (68.57%)
+Competition Accuracy: 25 of 35 (71.43%)
 
-Competition Error: 14.1 points per match
+Competition Error: 12.8 points per match
 
-Last Two Week Accuracy: 11 of 14 (78.57%)
+Last Two Week Accuracy: 5 of 7 (71.43%)
 
-Last Two Week Error: 14.18 points per match
+Last Two Week Error: 14.17 points per match
 
 [2025/10/24 - Lyon V La Rochelle](projections\2025-10-24-Lyon_V_LaRochelle)
 
@@ -158,13 +154,13 @@ Last Two Week Error: 14.18 points per match
 
 [In depth model review and projections for United Rugby Championship 25/26](comp_files/United_Rugby_Championship_2526)
 
-Competition Accuracy: 10 of 15 (66.67%)
+Competition Accuracy: 9 of 15 (60.0%)
 
-Competition Error: 9.25 points per match
+Competition Error: 9.15 points per match
 
-Last Two Week Accuracy: 10 of 15 (66.67%)
+Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 9.25 points per match
+Last Two Week Error: 6.37 points per match
 
 [2025/10/04 - Connacht V Scarlets](projections\2025-10-04-Connacht_V_Scarlets)
 
@@ -220,13 +216,13 @@ Last Two Week Error: 9.25 points per match
 
 [In depth model review and projections for RFU Championship 25/26](comp_files/RFU_Championship_2526)
 
-Competition Accuracy: 5 of 7 (71.43%)
+Competition Accuracy: 3 of 7 (42.86%)
 
-Competition Error: 17.0 points per match
+Competition Error: 13.37 points per match
 
-Last Two Week Accuracy: 5 of 7 (71.43%)
+Last Two Week Accuracy: 3 of 7 (42.86%)
 
-Last Two Week Error: 17.0 points per match
+Last Two Week Error: 13.37 points per match
 
 [2025/10/11 - Ealing Trailfinders V Chinnor](projections\2025-10-11-EalingTrailfinders_V_Chinnor)
 
@@ -288,9 +284,9 @@ Last Two Week Error: 17.0 points per match
 
 [In depth model review and projections for Premiership Rugby Cup 25/26](comp_files/Premiership_Rugby_Cup_2526)
 
-Competition Accuracy: 4 of 8 (50.0%)
+Competition Accuracy: 3 of 8 (37.5%)
 
-Competition Error: 13.35 points per match
+Competition Error: 13.59 points per match
 
 [2025/11/02 - Sale Sharks V Gloucester Rugby](projections\2025-11-02-SaleSharks_V_GloucesterRugby)
 
@@ -306,33 +302,33 @@ Competition Error: 13.35 points per match
 
 [In depth model review and projections for NPC 2025](comp_files/NPC_2025)
 
-Competition Accuracy: 40 of 70 (57.14%)
+Competition Accuracy: 46 of 70 (65.71%)
 
-Competition Error: 18.18 points per match
+Competition Error: 15.71 points per match
 
-Last Two Week Accuracy: 10 of 14 (71.43%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 13.88 points per match
+Last Two Week Error: 11.93 points per match
+
+[2025/10/10 - Bay of Plenty V Tasman](projections\2025-10-10-BayofPlenty_V_Tasman)
 
 [2025/10/10 - Otago V Waikato](projections\2025-10-10-Otago_V_Waikato)
 
-[2025/10/11 - Bay of Plenty V Tasman](projections\2025-10-11-BayofPlenty_V_Tasman)
+[2025/10/11 - Canterbury V Counties Manukau](projections\2025-10-11-Canterbury_V_CountiesManukau)
 
 [2025/10/11 - Hawke's Bay V Taranaki](projections\2025-10-11-Hawke'sBay_V_Taranaki)
-
-[2025/10/12 - Canterbury V Counties Manukau](projections\2025-10-12-Canterbury_V_CountiesManukau)
 ## Pro D2
 
 
 [In depth model review and projections for Pro D2 25/26](comp_files/Pro_D2_2526)
 
-Competition Accuracy: 37 of 48 (77.08%)
+Competition Accuracy: 36 of 48 (75.0%)
 
-Competition Error: 15.21 points per match
+Competition Error: 14.03 points per match
 
-Last Two Week Accuracy: 12 of 16 (75.0%)
+Last Two Week Accuracy: 6 of 8 (75.0%)
 
-Last Two Week Error: 11.5 points per match
+Last Two Week Error: 8.97 points per match
 
 [2025/10/30 - Agen V Dax](projections\2025-10-30-Agen_V_Dax)
 
@@ -386,13 +382,13 @@ Last Two Week Error: 11.5 points per match
 
 [In depth model review and projections for URBA Top 13 2025](comp_files/URBA_Top_13_2025)
 
-Competition Accuracy: 99 of 132 (75.0%)
+Competition Accuracy: 101 of 132 (76.52%)
 
-Competition Error: 10.56 points per match
+Competition Error: 9.31 points per match
 
-Last Two Week Accuracy: 9 of 12 (75.0%)
+Last Two Week Accuracy: 6 of 6 (100.0%)
 
-Last Two Week Error: 8.18 points per match
+Last Two Week Error: 7.92 points per match
 
 [2025/10/11 - Buenos Aires V Belgrano AC](projections\2025-10-11-BuenosAires_V_BelgranoAC)
 
@@ -410,13 +406,13 @@ Last Two Week Error: 8.18 points per match
 
 [In depth model review and projections for Nationale 25/26](comp_files/Nationale_2526)
 
-Competition Accuracy: 27 of 42 (64.29%)
+Competition Accuracy: 28 of 42 (66.67%)
 
-Competition Error: 10.21 points per match
+Competition Error: 8.71 points per match
 
-Last Two Week Accuracy: 8 of 14 (57.14%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 9.35 points per match
+Last Two Week Error: 11.97 points per match
 
 [2025/10/18 - Bourgoin-Jallieu V Chambery](projections\2025-10-18-Bourgoin-Jallieu_V_Chambery)
 

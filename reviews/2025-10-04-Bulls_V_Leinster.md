@@ -9,9 +9,9 @@ categories: "United Rugby Championship 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Bulls to win by 3.99, and Bulls won by 8.0. That's an absolute error of 4.0 for the margin of victory, while my average absolute error has been 16.6 over the past six months. This prediction was more accurate than 83.1% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Bulls to win by 1.16, and Bulls won by 8.0. That's an absolute error of 6.8 for the margin of victory, while my average absolute error has been 14.4 over the past six months. This prediction was more accurate than 67.6% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 54.5 and we have an actual total of 70.0. That's an absolute error of 15.5 compared to a six month average of 13.7. This prediction was more accurate than 33.8% of my recent predictions.
+For the Over/Under model, I predicted a total of 65.5 and we have an actual total of 70.0. That's an absolute error of 4.5 compared to a six month average of 14.3. This prediction was more accurate than 78.7% of my recent predictions.
 ## Projected Performances - Club Model
 
 

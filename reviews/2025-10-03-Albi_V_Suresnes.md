@@ -9,9 +9,9 @@ categories: "Nationale 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Albi to win by 6.08, and Albi won by 15.0. That's an absolute error of 8.9 for the margin of victory, while my average absolute error has been 16.6 over the past six months. This prediction was more accurate than 61.3% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Albi to win by 5.62, and Albi won by 15.0. That's an absolute error of 9.4 for the margin of victory, while my average absolute error has been 14.4 over the past six months. This prediction was more accurate than 54.4% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 42.5 and we have an actual total of 45.0. That's an absolute error of 2.5 compared to a six month average of 13.7. This prediction was more accurate than 88.1% of my recent predictions.
+For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 45.0. That's an absolute error of 5.5 compared to a six month average of 14.3. This prediction was more accurate than 75.9% of my recent predictions.
 ## Projected Performances - Club Model
 
 

@@ -10,13 +10,13 @@ key: page-recents
 
 [In depth model review and projections for Rugby Championship 2025](comp_files/Rugby_Championship_2025)
 
-Competition Accuracy: 7 of 12 (58.33%)
+Competition Accuracy: 8 of 12 (66.67%)
 
-Competition Error: 22.68 points per match
+Competition Error: 14.86 points per match
 
-Last Two Week Accuracy: 3 of 4 (75.0%)
+Last Two Week Accuracy: 2 of 2 (100.0%)
 
-Last Two Week Error: 14.21 points per match
+Last Two Week Error: 8.91 points per match
 
 [2025/10/04 - Argentina V South Africa, 27.0 to 29.0](reviews\2025-10-04-Argentina_V_SouthAfrica)
 
@@ -30,11 +30,11 @@ Last Two Week Error: 14.21 points per match
 
 Competition Accuracy: 8 of 10 (80.0%)
 
-Competition Error: 10.96 points per match
+Competition Error: 10.68 points per match
 
-Last Two Week Accuracy: 8 of 10 (80.0%)
+Last Two Week Accuracy: 4 of 5 (80.0%)
 
-Last Two Week Error: 10.96 points per match
+Last Two Week Error: 9.24 points per match
 
 [2025/10/03 - Bath Rugby V Sale Sharks, 28.0 to 16.0](reviews\2025-10-03-BathRugby_V_SaleSharks)
 
@@ -50,13 +50,13 @@ Last Two Week Error: 10.96 points per match
 
 [In depth model review and projections for United Rugby Championship 25/26](comp_files/United_Rugby_Championship_2526)
 
-Competition Accuracy: 10 of 15 (66.67%)
+Competition Accuracy: 9 of 15 (60.0%)
 
-Competition Error: 9.25 points per match
+Competition Error: 9.15 points per match
 
-Last Two Week Accuracy: 10 of 15 (66.67%)
+Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 9.25 points per match
+Last Two Week Error: 6.37 points per match
 
 [2025/10/04 - Munster V Cardiff Rugby, 23.0 to 20.0](reviews\2025-10-04-Munster_V_CardiffRugby)
 
@@ -76,13 +76,13 @@ Last Two Week Error: 9.25 points per match
 
 [In depth model review and projections for Top 14 25/26](comp_files/Top_14_2526)
 
-Competition Accuracy: 24 of 35 (68.57%)
+Competition Accuracy: 25 of 35 (71.43%)
 
-Competition Error: 14.1 points per match
+Competition Error: 12.8 points per match
 
-Last Two Week Accuracy: 11 of 14 (78.57%)
+Last Two Week Accuracy: 5 of 7 (71.43%)
 
-Last Two Week Error: 14.18 points per match
+Last Two Week Error: 14.17 points per match
 
 [2025/10/05 - Bayonne V Stade Toulousain, 40.0 to 26.0](reviews\2025-10-05-Bayonne_V_StadeToulousain)
 
@@ -102,13 +102,13 @@ Last Two Week Error: 14.18 points per match
 
 [In depth model review and projections for RFU Championship 25/26](comp_files/RFU_Championship_2526)
 
-Competition Accuracy: 5 of 7 (71.43%)
+Competition Accuracy: 3 of 7 (42.86%)
 
-Competition Error: 17.0 points per match
+Competition Error: 13.37 points per match
 
-Last Two Week Accuracy: 5 of 7 (71.43%)
+Last Two Week Accuracy: 3 of 7 (42.86%)
 
-Last Two Week Error: 17.0 points per match
+Last Two Week Error: 13.37 points per match
 
 [2025/10/04 - Worcester Warriors V Coventry, 29.0 to 19.0](reviews\2025-10-04-WorcesterWarriors_V_Coventry)
 
@@ -130,13 +130,13 @@ Last Two Week Error: 17.0 points per match
 
 [In depth model review and projections for NPC 2025](comp_files/NPC_2025)
 
-Competition Accuracy: 40 of 70 (57.14%)
+Competition Accuracy: 46 of 70 (65.71%)
 
-Competition Error: 18.18 points per match
+Competition Error: 15.71 points per match
 
-Last Two Week Accuracy: 10 of 14 (71.43%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 13.88 points per match
+Last Two Week Error: 11.93 points per match
 
 [2025/10/03 - Auckland V Otago, 17.0 to 51.0](reviews\2025-10-03-Auckland_V_Otago)
 
@@ -156,13 +156,13 @@ Last Two Week Error: 13.88 points per match
 
 [In depth model review and projections for URBA Top 13 2025](comp_files/URBA_Top_13_2025)
 
-Competition Accuracy: 99 of 132 (75.0%)
+Competition Accuracy: 101 of 132 (76.52%)
 
-Competition Error: 10.56 points per match
+Competition Error: 9.31 points per match
 
-Last Two Week Accuracy: 9 of 12 (75.0%)
+Last Two Week Accuracy: 6 of 6 (100.0%)
 
-Last Two Week Error: 8.18 points per match
+Last Two Week Error: 7.92 points per match
 
 [2025/10/04 - Regatas Bella Vista V SIC, 15.0 to 19.0](reviews\2025-10-04-RegatasBellaVista_V_SIC)
 
@@ -180,13 +180,13 @@ Last Two Week Error: 8.18 points per match
 
 [In depth model review and projections for Pro D2 25/26](comp_files/Pro_D2_2526)
 
-Competition Accuracy: 37 of 48 (77.08%)
+Competition Accuracy: 36 of 48 (75.0%)
 
-Competition Error: 15.21 points per match
+Competition Error: 14.03 points per match
 
-Last Two Week Accuracy: 12 of 16 (75.0%)
+Last Two Week Accuracy: 6 of 8 (75.0%)
 
-Last Two Week Error: 11.5 points per match
+Last Two Week Error: 8.97 points per match
 
 [2025/10/03 - Valence Romans Drome Rugby V Mont-de-Marsan, 35.0 to 21.0](reviews\2025-10-03-ValenceRomansDromeRugby_V_Mont-de-Marsan)
 
@@ -208,13 +208,13 @@ Last Two Week Error: 11.5 points per match
 
 [In depth model review and projections for Nationale 25/26](comp_files/Nationale_2526)
 
-Competition Accuracy: 27 of 42 (64.29%)
+Competition Accuracy: 28 of 42 (66.67%)
 
-Competition Error: 10.21 points per match
+Competition Error: 8.71 points per match
 
-Last Two Week Accuracy: 8 of 14 (57.14%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 9.35 points per match
+Last Two Week Error: 11.97 points per match
 
 [2025/10/04 - Rennes V Rouen, 10.0 to 12.0](reviews\2025-10-04-Rennes_V_Rouen)
 
