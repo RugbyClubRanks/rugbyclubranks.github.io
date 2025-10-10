@@ -302,17 +302,15 @@ Competition Error: 13.59 points per match
 
 [In depth model review and projections for NPC 2025](comp_files/NPC_2025)
 
-Competition Accuracy: 46 of 70 (65.71%)
+Competition Accuracy: 47 of 71 (66.2%)
 
-Competition Error: 15.71 points per match
+Competition Error: 15.62 points per match
 
-Last Two Week Accuracy: 6 of 7 (85.71%)
+Last Two Week Accuracy: 7 of 8 (87.5%)
 
-Last Two Week Error: 11.93 points per match
+Last Two Week Error: 11.64 points per match
 
 [2025/10/10 - Bay of Plenty V Tasman](projections\2025-10-10-BayofPlenty_V_Tasman)
-
-[2025/10/10 - Otago V Waikato](projections\2025-10-10-Otago_V_Waikato)
 
 [2025/10/11 - Canterbury V Counties Manukau](projections\2025-10-11-Canterbury_V_CountiesManukau)
 
@@ -356,8 +354,6 @@ Last Two Week Error: 8.97 points per match
 
 [2025/10/30 - Aurillac V Oyonnax](projections\2025-10-30-Aurillac_V_Oyonnax)
 
-[2025/10/16 - Carcassonne V Colomiers](projections\2025-10-16-Carcassonne_V_Colomiers)
-
 [2025/10/30 - Beziers V Colomiers](projections\2025-10-30-Beziers_V_Colomiers)
 
 [2025/10/30 - Carcassonne V Biarritz Olympique](projections\2025-10-30-Carcassonne_V_BiarritzOlympique)
@@ -371,6 +367,8 @@ Last Two Week Error: 8.97 points per match
 [2025/10/30 - Vannes V Valence Romans Drome Rugby](projections\2025-10-30-Vannes_V_ValenceRomansDromeRugby)
 
 [2025/10/16 - Mont-de-Marsan V Grenoble](projections\2025-10-16-Mont-de-Marsan_V_Grenoble)
+
+[2025/10/16 - Carcassonne V Colomiers](projections\2025-10-16-Carcassonne_V_Colomiers)
 
 [2025/10/16 - Beziers V Valence Romans Drome Rugby](projections\2025-10-16-Beziers_V_ValenceRomansDromeRugby)
 
@@ -414,8 +412,6 @@ Last Two Week Accuracy: 6 of 7 (85.71%)
 
 Last Two Week Error: 11.97 points per match
 
-[2025/10/18 - Bourgoin-Jallieu V Chambery](projections\2025-10-18-Bourgoin-Jallieu_V_Chambery)
-
 [2025/10/10 - Chambery V PÃ©rigueux](projections\2025-10-10-Chambery_V_Perigueux)
 
 [2025/10/10 - Rouen V Nice](projections\2025-10-10-Rouen_V_Nice)
@@ -433,6 +429,8 @@ Last Two Week Error: 11.97 points per match
 [2025/10/17 - Albi V Marcq-en-Baroeul](projections\2025-10-17-Albi_V_Marcq-en-Baroeul)
 
 [2025/10/17 - Massy V Niort](projections\2025-10-17-Massy_V_Niort)
+
+[2025/10/18 - Bourgoin-Jallieu V Chambery](projections\2025-10-18-Bourgoin-Jallieu_V_Chambery)
 
 [2025/10/18 - Narbonne V Tarbes](projections\2025-10-18-Narbonne_V_Tarbes)
 

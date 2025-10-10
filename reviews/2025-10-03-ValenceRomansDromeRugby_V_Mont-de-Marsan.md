@@ -9,9 +9,9 @@ categories: "Pro D2 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Valence Romans Drome Rugby to win by 5.42, and Valence Romans Drome Rugby won by 14.0. That's an absolute error of 8.6 for the margin of victory, while my average absolute error has been 14.4 over the past six months. This prediction was more accurate than 58.7% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Valence Romans Drome Rugby to win by 5.53, and Valence Romans Drome Rugby won by 14.0. That's an absolute error of 8.5 for the margin of victory, while my average absolute error has been 14.2 over the past six months. This prediction was more accurate than 58.9% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 57.5 and we have an actual total of 56.0. That's an absolute error of 1.5 compared to a six month average of 14.3. This prediction was more accurate than 92.4% of my recent predictions.
+For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 56.0. That's an absolute error of 6.5 compared to a six month average of 13.7. This prediction was more accurate than 69.7% of my recent predictions.
 ## Projected Performances - Club Model
 
 

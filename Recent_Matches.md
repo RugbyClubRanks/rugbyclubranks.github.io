@@ -130,17 +130,19 @@ Last Two Week Error: 13.37 points per match
 
 [In depth model review and projections for NPC 2025](comp_files/NPC_2025)
 
-Competition Accuracy: 46 of 70 (65.71%)
+Competition Accuracy: 47 of 71 (66.2%)
 
-Competition Error: 15.71 points per match
+Competition Error: 15.62 points per match
 
-Last Two Week Accuracy: 6 of 7 (85.71%)
+Last Two Week Accuracy: 7 of 8 (87.5%)
 
-Last Two Week Error: 11.93 points per match
+Last Two Week Error: 11.64 points per match
 
 [2025/10/03 - Auckland V Otago, 17.0 to 51.0](reviews\2025-10-03-Auckland_V_Otago)
 
 [2025/10/03 - North Harbour V Southland, 15.0 to 14.0](reviews\2025-10-03-NorthHarbour_V_Southland)
+
+[2025/10/10 - Otago V Waikato, 44.0 to 41.0](reviews\2025-10-10-Otago_V_Waikato)
 
 [2025/10/04 - Tasman V Counties Manukau, 41.0 to 49.0](reviews\2025-10-04-Tasman_V_CountiesManukau)
 
@@ -151,6 +153,34 @@ Last Two Week Error: 11.93 points per match
 [2025/10/03 - Wellington V Bay of Plenty, 26.0 to 33.0](reviews\2025-10-03-Wellington_V_BayofPlenty)
 
 [2025/10/03 - Waikato V Northland, 25.0 to 19.0](reviews\2025-10-03-Waikato_V_Northland)
+## Pro D2
+
+
+[In depth model review and projections for Pro D2 25/26](comp_files/Pro_D2_2526)
+
+Competition Accuracy: 36 of 48 (75.0%)
+
+Competition Error: 14.03 points per match
+
+Last Two Week Accuracy: 6 of 8 (75.0%)
+
+Last Two Week Error: 8.97 points per match
+
+[2025/10/02 - Dax V Vannes, 15.0 to 16.0](reviews\2025-10-02-Dax_V_Vannes)
+
+[2025/10/03 - Valence Romans Drome Rugby V Mont-de-Marsan, 35.0 to 21.0](reviews\2025-10-03-ValenceRomansDromeRugby_V_Mont-de-Marsan)
+
+[2025/10/03 - USON Nevers V Soyaux-Angouleme, 33.0 to 10.0](reviews\2025-10-03-USONNevers_V_Soyaux-Angouleme)
+
+[2025/10/03 - Grenoble V Provence Rugby, 23.0 to 24.0](reviews\2025-10-03-Grenoble_V_ProvenceRugby)
+
+[2025/10/03 - Colomiers V Agen, 31.0 to 5.0](reviews\2025-10-03-Colomiers_V_Agen)
+
+[2025/10/03 - Brive V Oyonnax, 33.0 to 18.0](reviews\2025-10-03-Brive_V_Oyonnax)
+
+[2025/10/03 - Biarritz Olympique V Aurillac, 13.0 to 19.0](reviews\2025-10-03-BiarritzOlympique_V_Aurillac)
+
+[2025/10/03 - Beziers V Carcassonne, 31.0 to 19.0](reviews\2025-10-03-Beziers_V_Carcassonne)
 ## URBA Top 13
 
 
@@ -175,34 +205,6 @@ Last Two Week Error: 7.92 points per match
 [2025/10/04 - Alumni V La Plata, 50.0 to 19.0](reviews\2025-10-04-Alumni_V_LaPlata)
 
 [2025/10/04 - San Luis V Los Tilos, 9.0 to 13.0](reviews\2025-10-04-SanLuis_V_LosTilos)
-## Pro D2
-
-
-[In depth model review and projections for Pro D2 25/26](comp_files/Pro_D2_2526)
-
-Competition Accuracy: 36 of 48 (75.0%)
-
-Competition Error: 14.03 points per match
-
-Last Two Week Accuracy: 6 of 8 (75.0%)
-
-Last Two Week Error: 8.97 points per match
-
-[2025/10/03 - Valence Romans Drome Rugby V Mont-de-Marsan, 35.0 to 21.0](reviews\2025-10-03-ValenceRomansDromeRugby_V_Mont-de-Marsan)
-
-[2025/10/03 - USON Nevers V Soyaux-Angouleme, 33.0 to 10.0](reviews\2025-10-03-USONNevers_V_Soyaux-Angouleme)
-
-[2025/10/03 - Grenoble V Provence Rugby, 23.0 to 24.0](reviews\2025-10-03-Grenoble_V_ProvenceRugby)
-
-[2025/10/03 - Colomiers V Agen, 31.0 to 5.0](reviews\2025-10-03-Colomiers_V_Agen)
-
-[2025/10/03 - Brive V Oyonnax, 33.0 to 18.0](reviews\2025-10-03-Brive_V_Oyonnax)
-
-[2025/10/03 - Biarritz Olympique V Aurillac, 13.0 to 19.0](reviews\2025-10-03-BiarritzOlympique_V_Aurillac)
-
-[2025/10/03 - Beziers V Carcassonne, 31.0 to 19.0](reviews\2025-10-03-Beziers_V_Carcassonne)
-
-[2025/10/02 - Dax V Vannes, 15.0 to 16.0](reviews\2025-10-02-Dax_V_Vannes)
 ## Nationale
 
 

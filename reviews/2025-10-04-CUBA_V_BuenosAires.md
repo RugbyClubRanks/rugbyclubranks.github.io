@@ -9,9 +9,9 @@ categories: "URBA Top 13 2025" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted CUBA to win by 5.51, and CUBA won by 19.0. That's an absolute error of 13.5 for the margin of victory, while my average absolute error has been 14.4 over the past six months. This prediction was more accurate than 39.8% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted CUBA to win by 5.61, and CUBA won by 19.0. That's an absolute error of 13.4 for the margin of victory, while my average absolute error has been 14.2 over the past six months. This prediction was more accurate than 39.1% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 55.5 and we have an actual total of 65.0. That's an absolute error of 9.5 compared to a six month average of 14.3. This prediction was more accurate than 58.9% of my recent predictions.
+For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 65.0. That's an absolute error of 14.5 compared to a six month average of 13.7. This prediction was more accurate than 38.6% of my recent predictions.
 ## Projected Performances - Club Model
 
 
