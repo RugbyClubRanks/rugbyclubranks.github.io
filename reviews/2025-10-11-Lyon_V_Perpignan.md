@@ -9,9 +9,9 @@ categories: "Top 14 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Lyon to win by 6.98, and Lyon won by 25.0. That's an absolute error of 18.0 for the margin of victory, while my average absolute error has been 14.1 over the past six months. This prediction was more accurate than 28.7% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Lyon to win by 6.76, and Lyon won by 25.0. That's an absolute error of 18.2 for the margin of victory, while my average absolute error has been 14.1 over the past six months. This prediction was more accurate than 28.1% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 63.0. That's an absolute error of 14.5 compared to a six month average of 13.7. This prediction was more accurate than 38.3% of my recent predictions.
+For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 63.0. That's an absolute error of 14.5 compared to a six month average of 13.8. This prediction was more accurate than 38.6% of my recent predictions.
 ## Projected Performances - Club Model
 
 

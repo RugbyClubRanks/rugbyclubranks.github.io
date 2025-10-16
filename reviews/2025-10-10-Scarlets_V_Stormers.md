@@ -9,9 +9,9 @@ categories: "United Rugby Championship 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Scarlets to win by 0.03, and Stormers won by 34.0. That's an absolute error of 34.0 for the margin of victory, while my average absolute error has been 14.1 over the past six months. This prediction was more accurate than 7.4% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Stormers to win by 1.16, and Stormers won by 34.0. That's an absolute error of 32.8 for the margin of victory, while my average absolute error has been 14.1 over the past six months. This prediction was more accurate than 7.3% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 34.0. That's an absolute error of 15.5 compared to a six month average of 13.7. This prediction was more accurate than 35.4% of my recent predictions.
+For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 34.0. That's an absolute error of 14.5 compared to a six month average of 13.8. This prediction was more accurate than 38.6% of my recent predictions.
 ## Projected Performances - Club Model
 
 

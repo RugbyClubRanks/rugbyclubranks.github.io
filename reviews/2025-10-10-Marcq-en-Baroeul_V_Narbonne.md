@@ -9,9 +9,9 @@ categories: "Nationale 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Narbonne to win by 0.44, and Narbonne won by 9.0. That's an absolute error of 8.6 for the margin of victory, while my average absolute error has been 14.1 over the past six months. This prediction was more accurate than 58.3% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Narbonne to win by 0.67, and Narbonne won by 9.0. That's an absolute error of 8.3 for the margin of victory, while my average absolute error has been 14.1 over the past six months. This prediction was more accurate than 59.0% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 47.5 and we have an actual total of 63.0. That's an absolute error of 15.5 compared to a six month average of 13.7. This prediction was more accurate than 35.4% of my recent predictions.
+For the Over/Under model, I predicted a total of 46.5 and we have an actual total of 63.0. That's an absolute error of 16.5 compared to a six month average of 13.8. This prediction was more accurate than 32.9% of my recent predictions.
 ## Projected Performances - Club Model
 
 

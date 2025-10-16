@@ -18,7 +18,7 @@ Last Two Week Accuracy: 0 of 1 (0.0%)
 
 Last Two Week Error: 28.07 points per match
 
-[2025/10/17 - Brazil V Paraguay](projections\2025-10-17-Brazil_V_Paraguay)
+[2025/10/18 - Brazil V Paraguay](projections\2025-10-18-Brazil_V_Paraguay)
 
 [2025/10/24 - Japan V Australia](projections\2025-10-24-Japan_V_Australia)
 
@@ -62,9 +62,9 @@ Competition Accuracy: 13 of 15 (86.67%)
 
 Competition Error: 10.89 points per match
 
-Last Two Week Accuracy: 9 of 10 (90.0%)
+Last Two Week Accuracy: 5 of 5 (100.0%)
 
-Last Two Week Error: 10.28 points per match
+Last Two Week Error: 11.33 points per match
 
 [2025/10/17 - Gloucester Rugby V Bristol Rugby](projections\2025-10-17-GloucesterRugby_V_BristolRugby)
 
@@ -94,9 +94,9 @@ Competition Accuracy: 32 of 42 (76.19%)
 
 Competition Error: 12.46 points per match
 
-Last Two Week Accuracy: 12 of 14 (85.71%)
+Last Two Week Accuracy: 7 of 7 (100.0%)
 
-Last Two Week Error: 12.46 points per match
+Last Two Week Error: 10.75 points per match
 
 [2025/10/24 - Clermont Auvergne V Castres Olympique](projections\2025-10-24-ClermontAuvergne_V_CastresOlympique)
 
@@ -118,19 +118,19 @@ Last Two Week Error: 12.46 points per match
 
 [2025/10/31 - Montpellier Herault V Clermont Auvergne](projections\2025-10-31-MontpellierHerault_V_ClermontAuvergne)
 
-[2025/10/17 - Toulon V Racing 92](projections\2025-10-17-Toulon_V_Racing92)
+[2025/10/19 - Toulon V Racing 92](projections\2025-10-19-Toulon_V_Racing92)
 
-[2025/10/17 - Perpignan V Bordeaux Begles](projections\2025-10-17-Perpignan_V_BordeauxBegles)
+[2025/10/18 - Pau V Stade Toulousain](projections\2025-10-18-Pau_V_StadeToulousain)
 
-[2025/10/17 - Pau V Stade Toulousain](projections\2025-10-17-Pau_V_StadeToulousain)
+[2025/10/18 - Montpellier Herault V Lyon](projections\2025-10-18-MontpellierHerault_V_Lyon)
 
-[2025/10/17 - Montpellier Herault V Lyon](projections\2025-10-17-MontpellierHerault_V_Lyon)
+[2025/10/18 - La Rochelle V US Montauban](projections\2025-10-18-LaRochelle_V_USMontauban)
 
-[2025/10/17 - La Rochelle V US Montauban](projections\2025-10-17-LaRochelle_V_USMontauban)
+[2025/10/18 - Castres Olympique V Stade Francais Paris](projections\2025-10-18-CastresOlympique_V_StadeFrancaisParis)
 
-[2025/10/17 - Castres Olympique V Stade Francais Paris](projections\2025-10-17-CastresOlympique_V_StadeFrancaisParis)
+[2025/10/18 - Bayonne V Clermont Auvergne](projections\2025-10-18-Bayonne_V_ClermontAuvergne)
 
-[2025/10/17 - Bayonne V Clermont Auvergne](projections\2025-10-17-Bayonne_V_ClermontAuvergne)
+[2025/10/17 - Perpignan V Bordeaux Begles](projections\2025-10-18-Perpignan_V_BordeauxBegles)
 
 [2025/10/31 - La Rochelle V Racing 92](projections\2025-10-31-LaRochelle_V_Racing92)
 
@@ -148,9 +148,9 @@ Competition Accuracy: 7 of 14 (50.0%)
 
 Competition Error: 11.5 points per match
 
-Last Two Week Accuracy: 7 of 14 (50.0%)
+Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 11.5 points per match
+Last Two Week Error: 9.63 points per match
 
 [2025/11/08 - Cambridge V Richmond](projections\2025-11-08-Cambridge_V_Richmond)
 
@@ -216,9 +216,9 @@ Competition Accuracy: 16 of 23 (69.57%)
 
 Competition Error: 11.97 points per match
 
-Last Two Week Accuracy: 11 of 15 (73.33%)
+Last Two Week Accuracy: 7 of 8 (87.5%)
 
-Last Two Week Error: 12.18 points per match
+Last Two Week Error: 17.25 points per match
 
 [2025/10/18 - Zebre V Stormers](projections\2025-10-18-Zebre_V_Stormers)
 
@@ -278,9 +278,9 @@ Competition Accuracy: 50 of 74 (67.57%)
 
 Competition Error: 15.34 points per match
 
-Last Two Week Accuracy: 10 of 11 (90.91%)
+Last Two Week Accuracy: 4 of 4 (100.0%)
 
-Last Two Week Error: 10.8 points per match
+Last Two Week Error: 8.81 points per match
 
 [2025/10/17 - Otago V Bay of Plenty](projections\2025-10-17-Otago_V_BayofPlenty)
 
@@ -294,13 +294,9 @@ Competition Accuracy: 36 of 48 (75.0%)
 
 Competition Error: 14.03 points per match
 
-Last Two Week Accuracy: 6 of 8 (75.0%)
-
-Last Two Week Error: 8.97 points per match
-
 [2025/10/30 - Beziers V Colomiers](projections\2025-10-30-Beziers_V_Colomiers)
 
-[2025/10/16 - Vannes V Oyonnax](projections\2025-10-16-Vannes_V_Oyonnax)
+[2025/10/17 - Soyaux-Angouleme V Biarritz Olympique](projections\2025-10-17-Soyaux-Angouleme_V_BiarritzOlympique)
 
 [2025/10/23 - Biarritz Olympique V Mont-de-Marsan](projections\2025-10-23-BiarritzOlympique_V_Mont-de-Marsan)
 
@@ -324,7 +320,7 @@ Last Two Week Error: 8.97 points per match
 
 [2025/10/30 - Carcassonne V Biarritz Olympique](projections\2025-10-30-Carcassonne_V_BiarritzOlympique)
 
-[2025/10/16 - Provence Rugby V USON Nevers](projections\2025-10-16-ProvenceRugby_V_USONNevers)
+[2025/10/17 - Mont-de-Marsan V Grenoble](projections\2025-10-17-Mont-de-Marsan_V_Grenoble)
 
 [2025/10/30 - Mont-de-Marsan V USON Nevers](projections\2025-10-30-Mont-de-Marsan_V_USONNevers)
 
@@ -348,17 +344,17 @@ Last Two Week Error: 8.97 points per match
 
 [2025/11/06 - USON Nevers V Vannes](projections\2025-11-06-USONNevers_V_Vannes)
 
-[2025/10/16 - Soyaux-Angouleme V Biarritz Olympique](projections\2025-10-16-Soyaux-Angouleme_V_BiarritzOlympique)
+[2025/10/17 - Provence Rugby V USON Nevers](projections\2025-10-17-ProvenceRugby_V_USONNevers)
 
-[2025/10/16 - Mont-de-Marsan V Grenoble](projections\2025-10-16-Mont-de-Marsan_V_Grenoble)
+[2025/10/17 - Carcassonne V Colomiers](projections\2025-10-17-Carcassonne_V_Colomiers)
 
-[2025/10/16 - Carcassonne V Colomiers](projections\2025-10-16-Carcassonne_V_Colomiers)
+[2025/10/17 - Beziers V Valence Romans Drome Rugby](projections\2025-10-17-Beziers_V_ValenceRomansDromeRugby)
 
-[2025/10/16 - Agen V Brive](projections\2025-10-16-Agen_V_Brive)
+[2025/10/16 - Vannes V Oyonnax](projections\2025-10-16-Vannes_V_Oyonnax)
 
-[2025/10/16 - Aurillac V Dax](projections\2025-10-16-Aurillac_V_Dax)
+[2025/10/17 - Agen V Brive](projections\2025-10-17-Agen_V_Brive)
 
-[2025/10/16 - Beziers V Valence Romans Drome Rugby](projections\2025-10-16-Beziers_V_ValenceRomansDromeRugby)
+[2025/10/17 - Aurillac V Dax](projections\2025-10-17-Aurillac_V_Dax)
 
 [2025/11/06 - Valence Romans Drome Rugby V Aurillac](projections\2025-11-06-ValenceRomansDromeRugby_V_Aurillac)
 ## Nationale
@@ -370,9 +366,9 @@ Competition Accuracy: 32 of 49 (65.31%)
 
 Competition Error: 9.34 points per match
 
-Last Two Week Accuracy: 10 of 14 (71.43%)
+Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 12.56 points per match
+Last Two Week Error: 13.15 points per match
 
 [2025/11/01 - Marcq-en-Baroeul V Rennes](projections\2025-11-01-Marcq-en-Baroeul_V_Rennes)
 

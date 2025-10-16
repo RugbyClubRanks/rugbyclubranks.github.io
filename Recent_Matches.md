@@ -18,7 +18,7 @@ Last Two Week Accuracy: 0 of 1 (0.0%)
 
 Last Two Week Error: 28.07 points per match
 
-[2025/10/10 - Paraguay V Brazil, 39.0 to 19.0](reviews\2025-10-10-Paraguay_V_Brazil)
+[2025/10/11 - Paraguay V Brazil, 39.0 to 19.0](reviews\2025-10-11-Paraguay_V_Brazil)
 # Top Flight Competitions
 
 ## Gallagher Premiership
@@ -30,9 +30,9 @@ Competition Accuracy: 13 of 15 (86.67%)
 
 Competition Error: 10.89 points per match
 
-Last Two Week Accuracy: 9 of 10 (90.0%)
+Last Two Week Accuracy: 5 of 5 (100.0%)
 
-Last Two Week Error: 10.28 points per match
+Last Two Week Error: 11.33 points per match
 
 [2025/10/10 - Sale Sharks V Newcastle Falcons, 57.0 to 5.0](reviews\2025-10-10-SaleSharks_V_NewcastleFalcons)
 
@@ -52,9 +52,9 @@ Competition Accuracy: 32 of 42 (76.19%)
 
 Competition Error: 12.46 points per match
 
-Last Two Week Accuracy: 12 of 14 (85.71%)
+Last Two Week Accuracy: 7 of 7 (100.0%)
 
-Last Two Week Error: 12.46 points per match
+Last Two Week Error: 10.75 points per match
 
 [2025/10/11 - Pau V Bayonne, 47.0 to 24.0](reviews\2025-10-11-Pau_V_Bayonne)
 
@@ -78,9 +78,9 @@ Competition Accuracy: 16 of 23 (69.57%)
 
 Competition Error: 11.97 points per match
 
-Last Two Week Accuracy: 11 of 15 (73.33%)
+Last Two Week Accuracy: 7 of 8 (87.5%)
 
-Last Two Week Error: 12.18 points per match
+Last Two Week Error: 17.25 points per match
 
 [2025/10/11 - Ospreys V Zebre, 24.0 to 0.0](reviews\2025-10-11-Ospreys_V_Zebre)
 
@@ -106,11 +106,11 @@ Competition Accuracy: 7 of 14 (50.0%)
 
 Competition Error: 11.5 points per match
 
-Last Two Week Accuracy: 7 of 14 (50.0%)
+Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 11.5 points per match
+Last Two Week Error: 9.63 points per match
 
-[2025/10/11 - Hartpury College V Worcester Warriors, 28.0 to 25.0](reviews\2025-10-11-HartpuryCollege_V_WorcesterWarriors)
+[2025/10/11 - Hartpury College RFC V Worcester Warriors, 28.0 to 25.0](reviews\2025-10-11-HartpuryCollege_V_WorcesterWarriors)
 
 [2025/10/11 - Ealing Trailfinders V Chinnor, 55.0 to 7.0](reviews\2025-10-11-EalingTrailfinders_V_Chinnor)
 
@@ -134,9 +134,9 @@ Competition Accuracy: 50 of 74 (67.57%)
 
 Competition Error: 15.34 points per match
 
-Last Two Week Accuracy: 10 of 11 (90.91%)
+Last Two Week Accuracy: 4 of 4 (100.0%)
 
-Last Two Week Error: 10.8 points per match
+Last Two Week Error: 8.81 points per match
 
 [2025/10/10 - Bay of Plenty V Tasman, 27.0 to 7.0](reviews\2025-10-10-BayofPlenty_V_Tasman)
 
@@ -154,9 +154,9 @@ Competition Accuracy: 32 of 49 (65.31%)
 
 Competition Error: 9.34 points per match
 
-Last Two Week Accuracy: 10 of 14 (71.43%)
+Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 12.56 points per match
+Last Two Week Error: 13.15 points per match
 
 [2025/10/11 - Suresnes V Rennes, 12.0 to 14.0](reviews\2025-10-11-Suresnes_V_Rennes)
 
@@ -180,9 +180,9 @@ Competition Accuracy: 103 of 138 (74.64%)
 
 Competition Error: 9.73 points per match
 
-Last Two Week Accuracy: 8 of 12 (66.67%)
+Last Two Week Accuracy: 2 of 6 (33.33%)
 
-Last Two Week Error: 13.48 points per match
+Last Two Week Error: 19.04 points per match
 
 [2025/10/11 - Newman V San Luis, 29.0 to 26.0](reviews\2025-10-11-Newman_V_SanLuis)
 
