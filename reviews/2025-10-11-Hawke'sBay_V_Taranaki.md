@@ -9,9 +9,9 @@ categories: "NPC 2025" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Hawke's Bay to win by 1.39, and Hawke's Bay won by 14.0. That's an absolute error of 12.6 for the margin of victory, while my average absolute error has been 14.1 over the past six months. This prediction was more accurate than 42.7% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Hawke's Bay to win by 0.91, and Hawke's Bay won by 14.0. That's an absolute error of 13.1 for the margin of victory, while my average absolute error has been 14.0 over the past six months. This prediction was more accurate than 40.4% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 56.5 and we have an actual total of 38.0. That's an absolute error of 18.5 compared to a six month average of 13.8. This prediction was more accurate than 27.2% of my recent predictions.
+For the Over/Under model, I predicted a total of 56.5 and we have an actual total of 38.0. That's an absolute error of 18.5 compared to a six month average of 13.9. This prediction was more accurate than 27.7% of my recent predictions.
 ## Projected Performances - Club Model
 
 

@@ -130,17 +130,19 @@ Last Two Week Error: 9.63 points per match
 
 [In depth model review and projections for NPC 2025](comp_files/NPC_2025)
 
-Competition Accuracy: 50 of 74 (67.57%)
+Competition Accuracy: 51 of 75 (68.0%)
 
-Competition Error: 15.34 points per match
+Competition Error: 15.44 points per match
 
-Last Two Week Accuracy: 4 of 4 (100.0%)
+Last Two Week Accuracy: 5 of 5 (100.0%)
 
-Last Two Week Error: 8.81 points per match
+Last Two Week Error: 11.62 points per match
 
 [2025/10/10 - Bay of Plenty V Tasman, 27.0 to 7.0](reviews\2025-10-10-BayofPlenty_V_Tasman)
 
 [2025/10/10 - Otago V Waikato, 44.0 to 41.0](reviews\2025-10-10-Otago_V_Waikato)
+
+[2025/10/17 - Otago V Bay of Plenty, 41.0 to 17.0](reviews\2025-10-17-Otago_V_BayofPlenty)
 
 [2025/10/11 - Hawke's Bay V Taranaki, 26.0 to 12.0](reviews\2025-10-11-HawkesBay_V_Taranaki)
 
@@ -195,3 +197,17 @@ Last Two Week Error: 19.04 points per match
 [2025/10/11 - Buenos Aires V Belgrano AC, 39.0 to 14.0](reviews\2025-10-11-BuenosAires_V_BelgranoAC)
 
 [2025/10/11 - SIC V Alumni, 44.0 to 47.0](reviews\2025-10-11-SIC_V_Alumni)
+## Pro D2
+
+
+[In depth model review and projections for Pro D2 25/26](comp_files/Pro_D2_2526)
+
+Competition Accuracy: 37 of 49 (75.51%)
+
+Competition Error: 13.91 points per match
+
+Last Two Week Accuracy: 1 of 1 (100.0%)
+
+Last Two Week Error: 7.82 points per match
+
+[2025/10/16 - Vannes V Oyonnax, 36.0 to 17.0](reviews\2025-10-16-Vannes_V_Oyonnax)

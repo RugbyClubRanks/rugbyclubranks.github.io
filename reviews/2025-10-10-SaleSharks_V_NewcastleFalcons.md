@@ -9,9 +9,9 @@ categories: "Gallagher Premiership 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Sale Sharks to win by 9.06, and Sale Sharks won by 52.0. That's an absolute error of 42.9 for the margin of victory, while my average absolute error has been 14.1 over the past six months. This prediction was more accurate than 3.2% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Sale Sharks to win by 8.54, and Sale Sharks won by 52.0. That's an absolute error of 43.5 for the margin of victory, while my average absolute error has been 14.0 over the past six months. This prediction was more accurate than 2.9% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 53.5 and we have an actual total of 62.0. That's an absolute error of 8.5 compared to a six month average of 13.8. This prediction was more accurate than 61.3% of my recent predictions.
+For the Over/Under model, I predicted a total of 53.5 and we have an actual total of 62.0. That's an absolute error of 8.5 compared to a six month average of 13.9. This prediction was more accurate than 61.4% of my recent predictions.
 ## Projected Performances - Club Model
 
 
