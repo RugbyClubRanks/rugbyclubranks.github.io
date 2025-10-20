@@ -8,7 +8,7 @@ key: page-recents
 ## International Test Match
 
 
-[2025](comp_files\International_Test_Match_2025) - Prediction Accuracy: 66.7% 
+[2025](comp_files\International_Test_Match_2025) - Prediction Accuracy: 61.9% 
 
 [2024](comp_files\International_Test_Match_2024) - Prediction Accuracy: 72.3% 
 
@@ -570,7 +570,7 @@ key: page-recents
 ## Gallagher Premiership
 
 
-[25/26](comp_files\Gallagher_Premiership_2526) - Prediction Accuracy: 67.8% 
+[25/26](comp_files\Gallagher_Premiership_2526) - Prediction Accuracy: 63.3% 
 
 [24/25](comp_files\Gallagher_Premiership_2425) - Prediction Accuracy: 71.0% 
 
@@ -618,7 +618,7 @@ key: page-recents
 ## Top 14
 
 
-[25/26](comp_files\Top_14_2526) - Prediction Accuracy: 68.1% 
+[25/26](comp_files\Top_14_2526) - Prediction Accuracy: 73.1% 
 
 [24/25](comp_files\Top_14_2425) - Prediction Accuracy: 75.1% 
 
@@ -706,7 +706,7 @@ key: page-recents
 ## United Rugby Championship
 
 
-[25/26](comp_files\United_Rugby_Championship_2526) - Prediction Accuracy: 64.7% 
+[25/26](comp_files\United_Rugby_Championship_2526) - Prediction Accuracy: 65.5% 
 
 [24/25](comp_files\United_Rugby_Championship_2425) - Prediction Accuracy: 71.9% 
 
@@ -838,7 +838,7 @@ key: page-recents
 ## RFU Championship
 
 
-[25/26](comp_files\RFU_Championship_2526) - Prediction Accuracy: 65.4% 
+[25/26](comp_files\RFU_Championship_2526) - Prediction Accuracy: 68.1% 
 
 [24/25](comp_files\RFU_Championship_2425) - Prediction Accuracy: 72.7% 
 
@@ -880,6 +880,8 @@ key: page-recents
 ## PWR
 
 
+[25/26](comp_files\PWR_2526)
+
 [24/25](comp_files\PWR_2425) - Prediction Accuracy: 76.0% 
 
 [23/24](comp_files\PWR_2324) - Prediction Accuracy: 73.0% 
@@ -910,7 +912,7 @@ key: page-recents
 ## Premiership Rugby Cup
 
 
-[25/26](comp_files\Premiership_Rugby_Cup_2526) - Prediction Accuracy: 50.0% 
+[25/26](comp_files\Premiership_Rugby_Cup_2526) - Prediction Accuracy: 65.0% 
 
 [24/25](comp_files\Premiership_Rugby_Cup_2425) - Prediction Accuracy: 79.1% 
 
@@ -943,18 +945,18 @@ key: page-recents
 [2021](comp_files\Superliga_Americana_de_Rugby_2021) - Prediction Accuracy: 62.5% 
 
 [2020](comp_files\Superliga_Americana_de_Rugby_2020) - Prediction Accuracy: 33.3% 
-## Super Rugby Aotearoa
-
-
-[2021](comp_files\Super_Rugby_Aotearoa_2021) - Prediction Accuracy: 52.4% 
-
-[2020](comp_files\Super_Rugby_Aotearoa_2020) - Prediction Accuracy: 65.0% 
 ## Super Rugby AU
 
 
 [2021](comp_files\Super_Rugby_AU_2021) - Prediction Accuracy: 72.7% 
 
 [2020](comp_files\Super_Rugby_AU_2020) - Prediction Accuracy: 63.6% 
+## Super Rugby Aotearoa
+
+
+[2021](comp_files\Super_Rugby_Aotearoa_2021) - Prediction Accuracy: 52.4% 
+
+[2020](comp_files\Super_Rugby_Aotearoa_2020) - Prediction Accuracy: 65.0% 
 ## Premiership Rugby
 
 
@@ -970,7 +972,7 @@ key: page-recents
 ## Pro D2
 
 
-[25/26](comp_files\Pro_D2_2526) - Prediction Accuracy: 74.2% 
+[25/26](comp_files\Pro_D2_2526) - Prediction Accuracy: 66.2% 
 
 [24/25](comp_files\Pro_D2_2425) - Prediction Accuracy: 71.4% 
 
@@ -1056,7 +1058,7 @@ key: page-recents
 ## NPC
 
 
-[2025](comp_files\NPC_2025) - Prediction Accuracy: 68.4% 
+[2025](comp_files\NPC_2025) - Prediction Accuracy: 68.8% 
 
 [2024](comp_files\NPC_2024) - Prediction Accuracy: 71.4% 
 
@@ -1206,7 +1208,7 @@ key: page-recents
 ## Nationale
 
 
-[25/26](comp_files\Nationale_2526) - Prediction Accuracy: 60.4% 
+[25/26](comp_files\Nationale_2526) - Prediction Accuracy: 61.0% 
 
 [24/25](comp_files\Nationale_2425) - Prediction Accuracy: 73.6% 
 
