@@ -10,13 +10,15 @@ key: page-recents
 
 [In depth model review and projections for International Test Match 2025](comp_files/International_Test_Match_2025)
 
-Competition Accuracy: 46 of 70 (65.71%)
+Competition Accuracy: 47 of 71 (66.2%)
 
-Competition Error: 20.14 points per match
+Competition Error: 20.45 points per match
 
-Last Two Week Accuracy: 0 of 3 (0.0%)
+Last Two Week Accuracy: 1 of 3 (33.33%)
 
-Last Two Week Error: 24.51 points per match
+Last Two Week Error: 29.18 points per match
+
+[2025/10/17 - Japan A V Australia A, 7.0 to 71.0](reviews\2025-10-17-JapanA_V_AustraliaA)
 
 [2025/10/18 - Brazil V Paraguay, 24.0 to 31.0](reviews\2025-10-18-Brazil_V_Paraguay)
 
@@ -32,9 +34,9 @@ Competition Accuracy: 17 of 20 (85.0%)
 
 Competition Error: 13.47 points per match
 
-Last Two Week Accuracy: 9 of 10 (90.0%)
+Last Two Week Accuracy: 4 of 5 (80.0%)
 
-Last Two Week Error: 16.27 points per match
+Last Two Week Error: 21.21 points per match
 
 [2025/10/17 - Gloucester Rugby V Bristol Rugby, 34.0 to 49.0](reviews\2025-10-17-GloucesterRugby_V_BristolRugby)
 
@@ -54,9 +56,9 @@ Competition Accuracy: 38 of 49 (77.55%)
 
 Competition Error: 12.45 points per match
 
-Last Two Week Accuracy: 13 of 14 (92.86%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 11.56 points per match
+Last Two Week Error: 12.37 points per match
 
 [2025/10/18 - Castres Olympique V Stade Francais Paris, 29.0 to 24.0](reviews\2025-10-18-CastresOlympique_V_StadeFrancaisParis)
 
@@ -80,9 +82,9 @@ Competition Accuracy: 22 of 31 (70.97%)
 
 Competition Error: 12.83 points per match
 
-Last Two Week Accuracy: 13 of 16 (81.25%)
+Last Two Week Accuracy: 6 of 8 (75.0%)
 
-Last Two Week Error: 16.27 points per match
+Last Two Week Error: 15.28 points per match
 
 [2025/10/18 - Sharks V Ulster, 26.0 to 34.0](reviews\2025-10-18-Sharks_V_Ulster)
 
@@ -108,9 +110,9 @@ Competition Accuracy: 11 of 21 (52.38%)
 
 Competition Error: 10.82 points per match
 
-Last Two Week Accuracy: 8 of 14 (57.14%)
+Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 9.55 points per match
+Last Two Week Error: 9.47 points per match
 
 [2025/10/18 - Cornish Pirates V Doncaster, 15.0 to 15.0](reviews\2025-10-18-CornishPirates_V_Doncaster)
 
@@ -136,9 +138,9 @@ Competition Accuracy: 52 of 76 (68.42%)
 
 Competition Error: 15.44 points per match
 
-Last Two Week Accuracy: 6 of 6 (100.0%)
+Last Two Week Accuracy: 2 of 2 (100.0%)
 
-Last Two Week Error: 12.3 points per match
+Last Two Week Error: 19.27 points per match
 
 [2025/10/17 - Otago V Bay of Plenty, 41.0 to 17.0](reviews\2025-10-17-Otago_V_BayofPlenty)
 
@@ -154,7 +156,7 @@ Competition Error: 13.54 points per match
 
 Last Two Week Accuracy: 4 of 8 (50.0%)
 
-Last Two Week Error: 10.58 points per match
+Last Two Week Error: 10.57 points per match
 
 [2025/10/16 - Vannes V Oyonnax, 36.0 to 17.0](reviews\2025-10-16-Vannes_V_Oyonnax)
 
@@ -180,9 +182,9 @@ Competition Accuracy: 38 of 56 (67.86%)
 
 Competition Error: 8.7 points per match
 
-Last Two Week Accuracy: 10 of 14 (71.43%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 8.68 points per match
+Last Two Week Error: 4.21 points per match
 
 [2025/10/18 - Rennes V US Bressane, 27.0 to 27.0](reviews\2025-10-18-Rennes_V_USBressane)
 

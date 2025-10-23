@@ -10,17 +10,17 @@ key: page-projections
 
 [In depth model review and projections for International Test Match 2025](comp_files/International_Test_Match_2025)
 
-Competition Accuracy: 46 of 70 (65.71%)
+Competition Accuracy: 47 of 71 (66.2%)
 
-Competition Error: 20.14 points per match
+Competition Error: 20.45 points per match
 
-Last Two Week Accuracy: 0 of 3 (0.0%)
+Last Two Week Accuracy: 1 of 3 (33.33%)
 
-Last Two Week Error: 24.51 points per match
+Last Two Week Error: 29.18 points per match
 
-[2025/10/25 - Japan V Australia](projections\2025-10-25-Japan_V_Australia)
+[2025/10/24 - Hong Kong V Japan A](projections\2025-10-24-HongKong_V_JapanA)
 
-[2025/11/01 - England V Australia](projections\2025-11-01-England_V_Australia)
+[2025/11/08 - Scotland V New Zealand](projections\2025-11-08-Scotland_V_NewZealand)
 
 [2025/11/16 - Scotland V Argentina](projections\2025-11-16-Scotland_V_Argentina)
 
@@ -36,9 +36,9 @@ Last Two Week Error: 24.51 points per match
 
 [2025/11/09 - Wales V Argentina](projections\2025-11-09-Wales_V_Argentina)
 
-[2025/11/08 - Scotland V New Zealand](projections\2025-11-08-Scotland_V_NewZealand)
-
 [2025/11/08 - Italy V Australia](projections\2025-11-08-Italy_V_Australia)
+
+[2025/10/25 - Japan V Australia](projections\2025-10-25-Japan_V_Australia)
 
 [2025/11/08 - Ireland V Japan](projections\2025-11-08-Ireland_V_Japan)
 
@@ -51,6 +51,8 @@ Last Two Week Error: 24.51 points per match
 [2025/11/01 - Scotland V United States of America](projections\2025-11-01-Scotland_V_UnitedStatesofAmerica)
 
 [2025/11/01 - Ireland V New Zealand](projections\2025-11-01-Ireland_V_NewZealand)
+
+[2025/11/01 - England V Australia](projections\2025-11-01-England_V_Australia)
 ## Rugby Union Hybrid Friendlies
 
 
@@ -72,9 +74,9 @@ Competition Accuracy: 17 of 20 (85.0%)
 
 Competition Error: 13.47 points per match
 
-Last Two Week Accuracy: 9 of 10 (90.0%)
+Last Two Week Accuracy: 4 of 5 (80.0%)
 
-Last Two Week Error: 16.27 points per match
+Last Two Week Error: 21.21 points per match
 
 [2025/10/24 - Northampton Saints V Saracens](projections\2025-10-24-NorthamptonSaints_V_Saracens)
 
@@ -94,9 +96,9 @@ Competition Accuracy: 38 of 49 (77.55%)
 
 Competition Error: 12.45 points per match
 
-Last Two Week Accuracy: 13 of 14 (92.86%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 11.56 points per match
+Last Two Week Error: 12.37 points per match
 
 [2025/10/25 - US Montauban V Perpignan](projections\2025-10-25-USMontauban_V_Perpignan)
 
@@ -134,9 +136,9 @@ Competition Accuracy: 11 of 21 (52.38%)
 
 Competition Error: 10.82 points per match
 
-Last Two Week Accuracy: 8 of 14 (57.14%)
+Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 9.55 points per match
+Last Two Week Error: 9.47 points per match
 
 [2025/11/08 - Cambridge V Richmond](projections\2025-11-08-Cambridge_V_Richmond)
 
@@ -202,9 +204,9 @@ Competition Accuracy: 22 of 31 (70.97%)
 
 Competition Error: 12.83 points per match
 
-Last Two Week Accuracy: 13 of 16 (81.25%)
+Last Two Week Accuracy: 6 of 8 (75.0%)
 
-Last Two Week Error: 16.27 points per match
+Last Two Week Error: 15.28 points per match
 
 [2025/10/24 - Glasgow Warriors V Bulls](projections\2025-10-24-GlasgowWarriors_V_Bulls)
 
@@ -268,9 +270,9 @@ Competition Accuracy: 52 of 76 (68.42%)
 
 Competition Error: 15.44 points per match
 
-Last Two Week Accuracy: 6 of 6 (100.0%)
+Last Two Week Accuracy: 2 of 2 (100.0%)
 
-Last Two Week Error: 12.3 points per match
+Last Two Week Error: 19.27 points per match
 
 [2025/10/25 - Canterbury V Otago](projections\2025-10-25-Canterbury_V_Otago)
 ## Pro D2
@@ -284,11 +286,11 @@ Competition Error: 13.54 points per match
 
 Last Two Week Accuracy: 4 of 8 (50.0%)
 
-Last Two Week Error: 10.58 points per match
+Last Two Week Error: 10.57 points per match
 
 [2025/11/06 - Colomiers V Provence Rugby](projections\2025-11-06-Colomiers_V_ProvenceRugby)
 
-[2025/10/23 - Valence Romans Drome Rugby V Agen](projections\2025-10-23-ValenceRomansDromeRugby_V_Agen)
+[2025/10/24 - USON Nevers V Aurillac](projections\2025-10-24-USONNevers_V_Aurillac)
 
 [2025/10/30 - Agen V Dax](projections\2025-10-30-Agen_V_Dax)
 
@@ -334,19 +336,19 @@ Last Two Week Error: 10.58 points per match
 
 [2025/11/13 - Mont-de-Marsan V Soyaux-Angouleme](projections\2025-11-13-Mont-de-Marsan_V_Soyaux-Angouleme)
 
-[2025/10/23 - USON Nevers V Aurillac](projections\2025-10-23-USONNevers_V_Aurillac)
+[2025/10/24 - Oyonnax V Provence Rugby](projections\2025-10-24-Oyonnax_V_ProvenceRugby)
 
-[2025/10/23 - Oyonnax V Provence Rugby](projections\2025-10-23-Oyonnax_V_ProvenceRugby)
+[2025/10/24 - Grenoble V Carcassonne](projections\2025-10-24-Grenoble_V_Carcassonne)
 
-[2025/10/23 - Grenoble V Carcassonne](projections\2025-10-23-Grenoble_V_Carcassonne)
+[2025/10/24 - Dax V Beziers](projections\2025-10-24-Dax_V_Beziers)
 
-[2025/10/23 - Dax V Beziers](projections\2025-10-23-Dax_V_Beziers)
+[2025/10/24 - Colomiers V Vannes](projections\2025-10-24-Colomiers_V_Vannes)
 
-[2025/10/23 - Biarritz Olympique V Mont-de-Marsan](projections\2025-10-23-BiarritzOlympique_V_Mont-de-Marsan)
+[2025/10/23 - Valence Romans Drome Rugby V Agen](projections\2025-10-23-ValenceRomansDromeRugby_V_Agen)
 
-[2025/10/23 - Brive V Soyaux-Angouleme](projections\2025-10-23-Brive_V_Soyaux-Angouleme)
+[2025/10/24 - Biarritz Olympique V Mont-de-Marsan](projections\2025-10-24-BiarritzOlympique_V_Mont-de-Marsan)
 
-[2025/10/23 - Colomiers V Vannes](projections\2025-10-23-Colomiers_V_Vannes)
+[2025/10/24 - Brive V Soyaux-Angouleme](projections\2025-10-24-Brive_V_Soyaux-Angouleme)
 
 [2025/11/13 - Vannes V Grenoble](projections\2025-11-13-Vannes_V_Grenoble)
 ## Nationale
@@ -358,9 +360,9 @@ Competition Accuracy: 38 of 56 (67.86%)
 
 Competition Error: 8.7 points per match
 
-Last Two Week Accuracy: 10 of 14 (71.43%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 8.68 points per match
+Last Two Week Error: 4.21 points per match
 
 [2025/10/31 - Chambery V Massy](projections\2025-10-31-Chambery_V_Massy)
 

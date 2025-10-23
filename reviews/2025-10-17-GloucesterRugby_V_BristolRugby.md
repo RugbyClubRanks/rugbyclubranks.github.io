@@ -9,9 +9,9 @@ categories: "Gallagher Premiership 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Gloucester Rugby to win by 0.7, and Bristol Rugby won by 15.0. That's an absolute error of 15.7 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 33.1% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Gloucester Rugby to win by 0.66, and Bristol Rugby won by 15.0. That's an absolute error of 15.7 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 33.3% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 54.5 and we have an actual total of 83.0. That's an absolute error of 28.5 compared to a six month average of 13.7. This prediction was more accurate than 9.4% of my recent predictions.
+For the Over/Under model, I predicted a total of 55.5 and we have an actual total of 83.0. That's an absolute error of 27.5 compared to a six month average of 13.7. This prediction was more accurate than 10.2% of my recent predictions.
 ## Projected Performances - Club Model
 
 
