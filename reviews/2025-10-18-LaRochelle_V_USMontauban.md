@@ -9,9 +9,9 @@ categories: "Top 14 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted La Rochelle to win by 10.76, and La Rochelle won by 35.0. That's an absolute error of 24.2 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 16.3% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted La Rochelle to win by 10.84, and La Rochelle won by 35.0. That's an absolute error of 24.2 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 16.4% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 54.5 and we have an actual total of 73.0. That's an absolute error of 18.5 compared to a six month average of 13.7. This prediction was more accurate than 27.1% of my recent predictions.
+For the Over/Under model, I predicted a total of 55.5 and we have an actual total of 73.0. That's an absolute error of 17.5 compared to a six month average of 13.6. This prediction was more accurate than 29.1% of my recent predictions.
 ## Projected Performances - Club Model
 
 

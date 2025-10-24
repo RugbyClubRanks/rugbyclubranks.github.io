@@ -1,15 +1,15 @@
 ---  
 layout: page  
-title: Bordeaux Begles V Bayonne on 2025/10/24  
+title: Bordeaux Begles V Bayonne on 2025/10/25  
 date: 2025-10-25  
 categories: "Top 14 25/26" match review  
 ---
-# Bordeaux Begles V Bayonne on 2025/10/24
+# Bordeaux Begles V Bayonne on 2025/10/25
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Bordeaux Begles to win by 5.52.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Bordeaux Begles to win by 5.86.
 
 Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 30 to 24
 

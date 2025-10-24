@@ -9,9 +9,9 @@ categories: "Pro D2 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Soyaux-Angouleme to win by 3.46, and Biarritz Olympique won by 1.0. That's an absolute error of 4.5 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 77.8% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Soyaux-Angouleme to win by 3.98, and Biarritz Olympique won by 1.0. That's an absolute error of 5.0 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 74.8% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 46.5 and we have an actual total of 41.0. That's an absolute error of 5.5 compared to a six month average of 13.7. This prediction was more accurate than 74.9% of my recent predictions.
+For the Over/Under model, I predicted a total of 46.5 and we have an actual total of 41.0. That's an absolute error of 5.5 compared to a six month average of 13.6. This prediction was more accurate than 75.2% of my recent predictions.
 ## Projected Performances - Club Model
 
 

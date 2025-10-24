@@ -10,17 +10,17 @@ key: page-projections
 
 [In depth model review and projections for International Test Match 2025](comp_files/International_Test_Match_2025)
 
-Competition Accuracy: 47 of 71 (66.2%)
+Competition Accuracy: 47 of 72 (65.28%)
 
-Competition Error: 20.45 points per match
+Competition Error: 20.93 points per match
 
-Last Two Week Accuracy: 1 of 3 (33.33%)
+Last Two Week Accuracy: 1 of 4 (25.0%)
 
-Last Two Week Error: 29.18 points per match
+Last Two Week Error: 35.77 points per match
 
-[2025/10/24 - Hong Kong V Japan A](projections\2025-10-24-HongKong_V_JapanA)
+[2025/10/25 - Japan V Australia](projections\2025-10-25-Japan_V_Australia)
 
-[2025/11/08 - Scotland V New Zealand](projections\2025-11-08-Scotland_V_NewZealand)
+[2025/11/01 - England V Australia](projections\2025-11-01-England_V_Australia)
 
 [2025/11/16 - Scotland V Argentina](projections\2025-11-16-Scotland_V_Argentina)
 
@@ -36,9 +36,9 @@ Last Two Week Error: 29.18 points per match
 
 [2025/11/09 - Wales V Argentina](projections\2025-11-09-Wales_V_Argentina)
 
-[2025/11/08 - Italy V Australia](projections\2025-11-08-Italy_V_Australia)
+[2025/11/08 - Scotland V New Zealand](projections\2025-11-08-Scotland_V_NewZealand)
 
-[2025/10/25 - Japan V Australia](projections\2025-10-25-Japan_V_Australia)
+[2025/11/08 - Italy V Australia](projections\2025-11-08-Italy_V_Australia)
 
 [2025/11/08 - Ireland V Japan](projections\2025-11-08-Ireland_V_Japan)
 
@@ -51,8 +51,6 @@ Last Two Week Error: 29.18 points per match
 [2025/11/01 - Scotland V United States of America](projections\2025-11-01-Scotland_V_UnitedStatesofAmerica)
 
 [2025/11/01 - Ireland V New Zealand](projections\2025-11-01-Ireland_V_NewZealand)
-
-[2025/11/01 - England V Australia](projections\2025-11-01-England_V_Australia)
 ## Rugby Union Hybrid Friendlies
 
 
@@ -80,7 +78,7 @@ Last Two Week Error: 21.21 points per match
 
 [2025/10/24 - Northampton Saints V Saracens](projections\2025-10-24-NorthamptonSaints_V_Saracens)
 
-[2025/10/25 - Bath Rugby V Bristol Bears](projections\2025-10-25-BathRugby_V_BristolRugby)
+[2025/10/25 - Bath Rugby V Bristol Rugby](projections\2025-10-25-BathRugby_V_BristolRugby)
 
 [2025/10/25 - Exeter Chiefs V Gloucester Rugby](projections\2025-10-25-ExeterChiefs_V_GloucesterRugby)
 
@@ -102,7 +100,7 @@ Last Two Week Error: 12.37 points per match
 
 [2025/10/25 - US Montauban V Perpignan](projections\2025-10-25-USMontauban_V_Perpignan)
 
-[2025/10/24 - Bordeaux Begles V Bayonne](projections\2025-10-25-BordeauxBegles_V_Bayonne)
+[2025/10/25 - Bordeaux Begles V Bayonne](projections\2025-10-25-BordeauxBegles_V_Bayonne)
 
 [2025/10/25 - Clermont Auvergne V Castres Olympique](projections\2025-10-25-ClermontAuvergne_V_CastresOlympique)
 
@@ -280,17 +278,15 @@ Last Two Week Error: 19.27 points per match
 
 [In depth model review and projections for Pro D2 25/26](comp_files/Pro_D2_2526)
 
-Competition Accuracy: 40 of 56 (71.43%)
+Competition Accuracy: 41 of 57 (71.93%)
 
-Competition Error: 13.54 points per match
+Competition Error: 13.88 points per match
 
-Last Two Week Accuracy: 4 of 8 (50.0%)
+Last Two Week Accuracy: 5 of 9 (55.56%)
 
-Last Two Week Error: 10.57 points per match
+Last Two Week Error: 13.05 points per match
 
-[2025/11/06 - Colomiers V Provence Rugby](projections\2025-11-06-Colomiers_V_ProvenceRugby)
-
-[2025/10/24 - USON Nevers V Aurillac](projections\2025-10-24-USONNevers_V_Aurillac)
+[2025/10/24 - Oyonnax V Provence Rugby](projections\2025-10-24-Oyonnax_V_ProvenceRugby)
 
 [2025/10/30 - Agen V Dax](projections\2025-10-30-Agen_V_Dax)
 
@@ -311,6 +307,8 @@ Last Two Week Error: 10.57 points per match
 [2025/11/06 - Biarritz Olympique V Agen](projections\2025-11-06-BiarritzOlympique_V_Agen)
 
 [2025/11/06 - Brive V Mont-de-Marsan](projections\2025-11-06-Brive_V_Mont-de-Marsan)
+
+[2025/11/06 - Colomiers V Provence Rugby](projections\2025-11-06-Colomiers_V_ProvenceRugby)
 
 [2025/11/06 - Dax V Carcassonne](projections\2025-11-06-Dax_V_Carcassonne)
 
@@ -336,19 +334,17 @@ Last Two Week Error: 10.57 points per match
 
 [2025/11/13 - Mont-de-Marsan V Soyaux-Angouleme](projections\2025-11-13-Mont-de-Marsan_V_Soyaux-Angouleme)
 
-[2025/10/24 - Oyonnax V Provence Rugby](projections\2025-10-24-Oyonnax_V_ProvenceRugby)
+[2025/10/24 - USON Nevers V Aurillac](projections\2025-10-24-USONNevers_V_Aurillac)
 
 [2025/10/24 - Grenoble V Carcassonne](projections\2025-10-24-Grenoble_V_Carcassonne)
 
 [2025/10/24 - Dax V Beziers](projections\2025-10-24-Dax_V_Beziers)
 
-[2025/10/24 - Colomiers V Vannes](projections\2025-10-24-Colomiers_V_Vannes)
-
-[2025/10/23 - Valence Romans Drome Rugby V Agen](projections\2025-10-23-ValenceRomansDromeRugby_V_Agen)
-
 [2025/10/24 - Biarritz Olympique V Mont-de-Marsan](projections\2025-10-24-BiarritzOlympique_V_Mont-de-Marsan)
 
 [2025/10/24 - Brive V Soyaux-Angouleme](projections\2025-10-24-Brive_V_Soyaux-Angouleme)
+
+[2025/10/24 - Colomiers V Vannes](projections\2025-10-24-Colomiers_V_Vannes)
 
 [2025/11/13 - Vannes V Grenoble](projections\2025-11-13-Vannes_V_Grenoble)
 ## Nationale

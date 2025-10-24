@@ -1,17 +1,17 @@
 ---  
 layout: page  
-title: Bath Rugby V Bristol Bears on 2025/10/25  
+title: Bath Rugby V Bristol Rugby on 2025/10/25  
 date: 2025-10-25  
 categories: "Gallagher Premiership 25/26" match review  
 ---
-# Bath Rugby V Bristol Bears on 2025/10/25
+# Bath Rugby V Bristol Rugby on 2025/10/25
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Bath Rugby to win by 4.42.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Bath Rugby to win by 5.06.
 
-Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 27 to 23
+Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 28 to 23
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model

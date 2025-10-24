@@ -10,19 +10,21 @@ key: page-recents
 
 [In depth model review and projections for International Test Match 2025](comp_files/International_Test_Match_2025)
 
-Competition Accuracy: 47 of 71 (66.2%)
+Competition Accuracy: 47 of 72 (65.28%)
 
-Competition Error: 20.45 points per match
+Competition Error: 20.93 points per match
 
-Last Two Week Accuracy: 1 of 3 (33.33%)
+Last Two Week Accuracy: 1 of 4 (25.0%)
 
-Last Two Week Error: 29.18 points per match
+Last Two Week Error: 35.77 points per match
 
 [2025/10/17 - Japan A V Australia A, 7.0 to 71.0](reviews\2025-10-17-JapanA_V_AustraliaA)
 
 [2025/10/18 - Brazil V Paraguay, 24.0 to 31.0](reviews\2025-10-18-Brazil_V_Paraguay)
 
 [2025/10/18 - Colombia V Peru, 38.0 to 24.0](reviews\2025-10-18-Colombia_V_Peru)
+
+[2025/10/24 - Hong Kong V Japan A, 14.0 to 59.0](reviews\2025-10-24-HongKong_V_JapanA)
 # Top Flight Competitions
 
 ## Gallagher Premiership
@@ -150,15 +152,15 @@ Last Two Week Error: 19.27 points per match
 
 [In depth model review and projections for Pro D2 25/26](comp_files/Pro_D2_2526)
 
-Competition Accuracy: 40 of 56 (71.43%)
+Competition Accuracy: 41 of 57 (71.93%)
 
-Competition Error: 13.54 points per match
+Competition Error: 13.88 points per match
 
-Last Two Week Accuracy: 4 of 8 (50.0%)
+Last Two Week Accuracy: 5 of 9 (55.56%)
 
-Last Two Week Error: 10.57 points per match
+Last Two Week Error: 13.05 points per match
 
-[2025/10/16 - Vannes V Oyonnax, 36.0 to 17.0](reviews\2025-10-16-Vannes_V_Oyonnax)
+[2025/10/17 - Soyaux-Angouleme V Biarritz Olympique, 20.0 to 21.0](reviews\2025-10-17-Soyaux-Angouleme_V_BiarritzOlympique)
 
 [2025/10/17 - Provence Rugby V USON Nevers, 39.0 to 33.0](reviews\2025-10-17-ProvenceRugby_V_USONNevers)
 
@@ -172,7 +174,9 @@ Last Two Week Error: 10.57 points per match
 
 [2025/10/17 - Agen V Brive, 41.0 to 10.0](reviews\2025-10-17-Agen_V_Brive)
 
-[2025/10/17 - Soyaux-Angouleme V Biarritz Olympique, 20.0 to 21.0](reviews\2025-10-17-Soyaux-Angouleme_V_BiarritzOlympique)
+[2025/10/16 - Vannes V Oyonnax, 36.0 to 17.0](reviews\2025-10-16-Vannes_V_Oyonnax)
+
+[2025/10/23 - Valence Romans Drome Rugby V Agen, 56.0 to 17.0](reviews\2025-10-23-ValenceRomansDromeRugby_V_Agen)
 ## Nationale
 
 

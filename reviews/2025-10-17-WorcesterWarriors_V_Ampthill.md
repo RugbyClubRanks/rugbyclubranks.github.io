@@ -9,9 +9,9 @@ categories: "RFU Championship 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Worcester Warriors to win by 11.98, and Worcester Warriors won by 28.0. That's an absolute error of 16.0 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 32.1% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Worcester Warriors to win by 12.06, and Worcester Warriors won by 28.0. That's an absolute error of 15.9 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 32.4% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 56.5 and we have an actual total of 84.0. That's an absolute error of 27.5 compared to a six month average of 13.7. This prediction was more accurate than 10.2% of my recent predictions.
+For the Over/Under model, I predicted a total of 58.5 and we have an actual total of 84.0. That's an absolute error of 25.5 compared to a six month average of 13.6. This prediction was more accurate than 12.7% of my recent predictions.
 ## Projected Performances - Club Model
 
 

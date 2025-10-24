@@ -9,9 +9,9 @@ categories: "United Rugby Championship 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Edinburgh to win by 3.77, and Edinburgh won by 43.0. That's an absolute error of 39.2 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 4.8% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Edinburgh to win by 4.53, and Edinburgh won by 43.0. That's an absolute error of 38.5 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 5.1% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 43.0. That's an absolute error of 5.5 compared to a six month average of 13.7. This prediction was more accurate than 74.9% of my recent predictions.
+For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 43.0. That's an absolute error of 5.5 compared to a six month average of 13.6. This prediction was more accurate than 75.2% of my recent predictions.
 ## Projected Performances - Club Model
 
 

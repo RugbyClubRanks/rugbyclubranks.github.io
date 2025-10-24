@@ -9,9 +9,9 @@ categories: "Pro D2 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Agen to win by 1.84, and Agen won by 31.0. That's an absolute error of 29.2 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 10.0% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Agen to win by 2.56, and Agen won by 31.0. That's an absolute error of 28.4 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 10.8% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 44.5 and we have an actual total of 51.0. That's an absolute error of 6.5 compared to a six month average of 13.7. This prediction was more accurate than 70.7% of my recent predictions.
+For the Over/Under model, I predicted a total of 44.5 and we have an actual total of 51.0. That's an absolute error of 6.5 compared to a six month average of 13.6. This prediction was more accurate than 70.5% of my recent predictions.
 ## Projected Performances - Club Model
 
 
