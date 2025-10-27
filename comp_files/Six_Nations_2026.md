@@ -1,6 +1,6 @@
 ---  
 title: "Six Nations 2026"  
-date: 2025-10-24 6:00:00 -0500  
+date: 2025-10-27 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,12 +17,12 @@ aside:
 
 | Club     |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:---------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| France   |         5 |            2.964 |                   18.629 |                           0.976 |                              |                         13.24  |
-| Ireland  |         5 |            2.824 |                   14.689 |                           0.907 |                              |                         12.585 |
-| England  |         5 |            2.747 |                   12.208 |                           1.036 |                              |                         12.42  |
-| Scotland |         5 |            2.257 |                   -3.94  |                           1.188 |                              |                         10.658 |
-| Wales    |         5 |            1.858 |                  -19.006 |                           1.064 |                              |                          8.934 |
-| Italy    |         5 |            1.731 |                  -22.58  |                           1.128 |                              |                          8.462 |
+| France   |         5 |            2.979 |                   20.359 |                           1.005 |                              |                         13.371 |
+| Ireland  |         5 |            2.828 |                   14.791 |                           0.899 |                              |                         12.605 |
+| England  |         5 |            2.77  |                   12.052 |                           0.996 |                              |                         12.514 |
+| Scotland |         5 |            2.234 |                   -4.1   |                           1.179 |                              |                         10.559 |
+| Wales    |         5 |            1.788 |                  -21.041 |                           1.112 |                              |                          8.638 |
+| Italy    |         5 |            1.785 |                  -22.061 |                           1.09  |                              |                          8.594 |
 
 
 
@@ -31,12 +31,12 @@ aside:
 
 | Club     |   Played |   Wins |   Point Differential |   Losing Bonus Points | Try Bonus Points   |   Competition Points |
 |:---------|---------:|-------:|---------------------:|----------------------:|:-------------------|---------------------:|
-| France   |        5 |  2.964 |               18.629 |                 0.976 |                    |               13.24  |
-| Ireland  |        5 |  2.824 |               14.689 |                 0.907 |                    |               12.585 |
-| England  |        5 |  2.747 |               12.208 |                 1.036 |                    |               12.42  |
-| Scotland |        5 |  2.257 |               -3.94  |                 1.188 |                    |               10.658 |
-| Wales    |        5 |  1.858 |              -19.006 |                 1.064 |                    |                8.934 |
-| Italy    |        5 |  1.731 |              -22.58  |                 1.128 |                    |                8.462 |
+| France   |        5 |  2.979 |               20.359 |                 1.005 |                    |               13.371 |
+| Ireland  |        5 |  2.828 |               14.791 |                 0.899 |                    |               12.605 |
+| England  |        5 |  2.77  |               12.052 |                 0.996 |                    |               12.514 |
+| Scotland |        5 |  2.234 |               -4.1   |                 1.179 |                    |               10.559 |
+| Wales    |        5 |  1.788 |              -21.041 |                 1.112 |                    |                8.638 |
+| Italy    |        5 |  1.785 |              -22.061 |                 1.09  |                    |                8.594 |
 
 
 
@@ -47,7 +47,7 @@ aside:
 ### France V Ireland on 2026/02/05
 
 
-Average Margin: France by 3.3
+Average Margin: France by 4.1
 
 <p float="left">
 <img src="plots\2026-02-05-France_V_Ireland_performances.png" width="32%" />
@@ -58,7 +58,7 @@ Average Margin: France by 3.3
 ### England V Wales on 2026/02/07
 
 
-Average Margin: England by 9.0
+Average Margin: England by 9.1
 
 <p float="left">
 <img src="plots\2026-02-07-England_V_Wales_performances.png" width="32%" />
@@ -69,7 +69,7 @@ Average Margin: England by 9.0
 ### Italy V Scotland on 2026/02/07
 
 
-Average Margin: Scotland by 1.4
+Average Margin: Scotland by 1.1
 
 <p float="left">
 <img src="plots\2026-02-07-Italy_V_Scotland_performances.png" width="32%" />
@@ -93,7 +93,7 @@ Average Margin: Ireland by 8.4
 ### Scotland V England on 2026/02/14
 
 
-Average Margin: England by 1.0
+Average Margin: England by 0.7
 
 <p float="left">
 <img src="plots\2026-02-14-Scotland_V_England_performances.png" width="32%" />
@@ -104,7 +104,7 @@ Average Margin: England by 1.0
 ### Wales V France on 2026/02/15
 
 
-Average Margin: France by 3.7
+Average Margin: France by 4.4
 
 <p float="left">
 <img src="plots\2026-02-15-Wales_V_France_performances.png" width="32%" />
@@ -128,7 +128,7 @@ Average Margin: England by 2.9
 ### Wales V Scotland on 2026/02/21
 
 
-Average Margin: Scotland by 0.5
+Average Margin: Scotland by 1.0
 
 <p float="left">
 <img src="plots\2026-02-21-Wales_V_Scotland_performances.png" width="32%" />
@@ -139,7 +139,7 @@ Average Margin: Scotland by 0.5
 ### France V Italy on 2026/02/22
 
 
-Average Margin: France by 9.1
+Average Margin: France by 8.9
 
 <p float="left">
 <img src="plots\2026-02-22-France_V_Italy_performances.png" width="32%" />
@@ -152,7 +152,7 @@ Average Margin: France by 9.1
 ### Ireland V Wales on 2026/03/06
 
 
-Average Margin: Ireland by 7.5
+Average Margin: Ireland by 8.1
 
 <p float="left">
 <img src="plots\2026-03-06-Ireland_V_Wales_performances.png" width="32%" />
@@ -163,7 +163,7 @@ Average Margin: Ireland by 7.5
 ### Scotland V France on 2026/03/07
 
 
-Average Margin: Scotland by 0.2
+Average Margin: France by 0.2
 
 <p float="left">
 <img src="plots\2026-03-07-Scotland_V_France_performances.png" width="32%" />
@@ -187,7 +187,7 @@ Average Margin: England by 2.0
 ### Ireland V Scotland on 2026/03/14
 
 
-Average Margin: Ireland by 5.0
+Average Margin: Ireland by 5.3
 
 <p float="left">
 <img src="plots\2026-03-14-Ireland_V_Scotland_performances.png" width="32%" />
@@ -198,7 +198,7 @@ Average Margin: Ireland by 5.0
 ### Wales V Italy on 2026/03/14
 
 
-Average Margin: Wales by 1.7
+Average Margin: Wales by 1.6
 
 <p float="left">
 <img src="plots\2026-03-14-Wales_V_Italy_performances.png" width="32%" />
