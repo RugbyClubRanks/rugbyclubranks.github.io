@@ -1,6 +1,6 @@
 ---  
 title: "International Test Match 2025"  
-date: 2025-10-27 6:00:00 -0500  
+date: 2025-10-30 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -90,25 +90,27 @@ aside:
 
 | Club                     |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:-------------------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| South Africa             |         5 |            3.153 |                   30.469 |                           0.85  |                              |                         13.878 |
-| England                  |         4 |            2.642 |                   21.248 |                           0.658 |                              |                         11.546 |
-| Scotland                 |         4 |            2.467 |                   26.964 |                           0.664 |                              |                         10.844 |
-| Ireland                  |         4 |            2.402 |                   15.887 |                           0.758 |                              |                         10.688 |
-| New Zealand              |         4 |            2.119 |                    7.395 |                           0.845 |                              |                          9.683 |
-| France                   |         3 |            1.898 |                   14.305 |                           0.543 |                              |                          8.369 |
-| Australia                |         4 |            1.346 |                  -17.05  |                           0.898 |                              |                          6.604 |
-| Wales                    |         4 |            1.301 |                  -20.451 |                           0.848 |                              |                          6.396 |
-| Italy                    |         3 |            1.389 |                    0.061 |                           0.574 |                              |                          6.368 |
-| Argentina                |         3 |            1.3   |                   -3.991 |                           0.638 |                              |                          6.112 |
-| Japan                    |         4 |            1.211 |                  -27.943 |                           0.801 |                              |                          5.995 |
-| Korea Republic           |         1 |            0.699 |                   13.333 |                           0.124 |                              |                          2.982 |
-| Hong Kong                |         1 |            0.668 |                    9.807 |                           0.142 |                              |                          2.88  |
-| Georgia                  |         1 |            0.61  |                    3.881 |                           0.188 |                              |                          2.732 |
-| United Arab Emirates     |         2 |            0.569 |                  -23.14  |                           0.321 |                              |                          2.725 |
-| Fiji                     |         2 |            0.53  |                  -13.894 |                           0.436 |                              |                          2.688 |
-| Samoa                    |         1 |            0.225 |                  -10.052 |                           0.187 |                              |                          1.145 |
-| United States of America |         1 |            0.216 |                  -12.44  |                           0.158 |                              |                          1.078 |
-| Tonga                    |         1 |            0.218 |                  -14.389 |                           0.14  |                              |                          1.06  |
+| South Africa             |         5 |            3.142 |                   29.159 |                           0.82  |                              |                         13.798 |
+| England                  |         4 |            2.541 |                   18.467 |                           0.701 |                              |                         11.209 |
+| Scotland                 |         4 |            2.512 |                   29.09  |                           0.676 |                              |                         11.06  |
+| Ireland                  |         4 |            2.39  |                   16.453 |                           0.726 |                              |                         10.596 |
+| New Zealand              |         4 |            2.14  |                    7.612 |                           0.848 |                              |                          9.754 |
+| France                   |         3 |            1.855 |                   12.917 |                           0.525 |                              |                          8.213 |
+| Australia                |         4 |            1.429 |                  -14.891 |                           0.919 |                              |                          6.931 |
+| Wales                    |         4 |            1.332 |                  -20.211 |                           0.847 |                              |                          6.485 |
+| Italy                    |         3 |            1.404 |                    0.493 |                           0.576 |                              |                          6.418 |
+| Argentina                |         3 |            1.296 |                   -3.01  |                           0.698 |                              |                          6.16  |
+| Japan                    |         4 |            1.215 |                  -28.267 |                           0.813 |                              |                          5.965 |
+| Korea Republic           |         1 |            0.698 |                   13.336 |                           0.134 |                              |                          2.996 |
+| Hong Kong                |         1 |            0.672 |                    9.375 |                           0.14  |                              |                          2.894 |
+| Fiji                     |         2 |            0.557 |                  -12.207 |                           0.467 |                              |                          2.875 |
+| Georgia                  |         1 |            0.604 |                    3.756 |                           0.207 |                              |                          2.711 |
+| United Arab Emirates     |         2 |            0.562 |                  -22.711 |                           0.32  |                              |                          2.704 |
+| New Zealand A            |         1 |            0.588 |                    5.803 |                           0.176 |                              |                          2.604 |
+| Barbarians               |         1 |            0.374 |                   -5.803 |                           0.178 |                              |                          1.75  |
+| Samoa                    |         1 |            0.216 |                  -10.403 |                           0.168 |                              |                          1.09  |
+| United States of America |         1 |            0.199 |                  -13.162 |                           0.152 |                              |                          1.008 |
+| Tonga                    |         1 |            0.202 |                  -15.796 |                           0.125 |                              |                          0.995 |
 
 
 
@@ -117,23 +119,23 @@ aside:
 
 | Club                     |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| South Africa             |        8 |  6.153 |              138.469 |                 0.85  |                  3 |               28.878 |
-| England                  |        7 |  5.642 |               84.248 |                 0.658 |                  2 |               25.546 |
-| New Zealand              |        7 |  5.119 |               47.395 |                 0.845 |                  3 |               24.683 |
+| South Africa             |        8 |  6.142 |              137.159 |                 0.82  |                  3 |               28.798 |
+| England                  |        7 |  5.541 |               81.467 |                 0.701 |                  2 |               25.209 |
+| New Zealand              |        7 |  5.14  |               47.612 |                 0.848 |                  3 |               24.754 |
 | Chile                    |        7 |  5     |               63     |                 0     |                  1 |               23     |
-| Ireland                  |        6 |  4.402 |              143.887 |                 0.758 |                  2 |               20.688 |
-| Australia                |        9 |  4.346 |              -11.05  |                 1.898 |                    |               19.604 |
+| Ireland                  |        6 |  4.39  |              144.453 |                 0.726 |                  2 |               20.596 |
+| Australia                |        9 |  4.429 |               -8.891 |                 1.919 |                    |               19.931 |
 | Uruguay                  |        6 |  4     |              142     |                 1     |                    |               17     |
-| Argentina                |        7 |  3.3   |                7.009 |                 1.638 |                  1 |               16.112 |
-| Scotland                 |        6 |  3.467 |               40.964 |                 0.664 |                  1 |               15.844 |
-| Wales                    |        6 |  2.301 |              -16.451 |                 1.848 |                  1 |               12.396 |
+| Argentina                |        7 |  3.296 |                7.99  |                 1.698 |                  1 |               16.16  |
+| Scotland                 |        6 |  3.512 |               43.09  |                 0.676 |                  1 |               16.06  |
+| Wales                    |        6 |  2.332 |              -16.211 |                 1.847 |                  1 |               12.485 |
 | Denmark                  |        3 |  3     |               64     |                 0     |                    |               12     |
-| Italy                    |        6 |  2.389 |                4.061 |                 0.574 |                  1 |               11.368 |
-| Japan                    |        7 |  2.211 |              -35.943 |                 1.801 |                    |               10.995 |
-| France                   |        6 |  1.898 |              -25.695 |                 1.543 |                    |                9.369 |
+| Italy                    |        6 |  2.404 |                4.493 |                 0.576 |                  1 |               11.418 |
+| Japan                    |        7 |  2.215 |              -36.267 |                 1.813 |                    |               10.965 |
+| France                   |        6 |  1.855 |              -27.083 |                 1.525 |                    |                9.213 |
 | Spain                    |        2 |  2     |               12     |                 0     |                  1 |                9     |
 | Lions                    |        4 |  2     |               -3     |                 1     |                    |                9     |
-| Fiji                     |        4 |  1.53  |               -1.894 |                 1.436 |                  1 |                8.688 |
+| Fiji                     |        4 |  1.557 |               -0.207 |                 1.467 |                  1 |                8.875 |
 | Finland                  |        2 |  2     |              116     |                 0     |                    |                8     |
 | Mexico                   |        2 |  2     |               44     |                 0     |                    |                8     |
 | Cayman Islands           |        2 |  2     |               39     |                 0     |                    |                8     |
@@ -141,12 +143,12 @@ aside:
 | Slovenia                 |        2 |  2     |               30     |                 0     |                    |                8     |
 | Andorra                  |        2 |  2     |               12     |                 0     |                    |                8     |
 | Paraguay                 |        4 |  2     |              -79     |                 0     |                    |                8     |
-| United States of America |        4 |  1.216 |              -39.44  |                 0.158 |                  1 |                6.078 |
+| United States of America |        4 |  1.199 |              -40.162 |                 0.152 |                  1 |                6.008 |
 | Austria                  |        2 |  1     |              114     |                 0     |                    |                6     |
 | Ukraine                  |        2 |  1     |               76     |                 0     |                    |                6     |
 | Barbados                 |        2 |  1     |               39     |                 1     |                    |                5     |
 | Israel                   |        2 |  1     |               -2     |                 1     |                    |                5     |
-| Samoa                    |        4 |  0.225 |              -58.052 |                 0.187 |                  1 |                4.145 |
+| Samoa                    |        4 |  0.216 |              -58.403 |                 0.168 |                  1 |                4.09  |
 | Australia A              |        1 |  1     |               64     |                 0     |                    |                4     |
 | Bosnia and Herzegovina   |        2 |  1     |               54     |                 0     |                    |                4     |
 | Argentina A              |        1 |  1     |               38     |                 0     |                    |                4     |
@@ -161,19 +163,21 @@ aside:
 | Trinidad and Tobago      |        2 |  1     |              -30     |                 0     |                    |                4     |
 | Japan A                  |        3 |  1     |              -52     |                 0     |                    |                4     |
 | Brazil                   |        5 |  0     |              -56     |                 1     |                    |                3     |
-| Korea Republic           |        1 |  0.699 |               13.333 |                 0.124 |                    |                2.982 |
-| Hong Kong                |        2 |  0.668 |              -35.193 |                 0.142 |                    |                2.88  |
-| Georgia                  |        3 |  0.61  |              -70.119 |                 0.188 |                    |                2.732 |
-| United Arab Emirates     |        2 |  0.569 |              -23.14  |                 0.321 |                    |                2.725 |
+| Korea Republic           |        1 |  0.698 |               13.336 |                 0.134 |                    |                2.996 |
+| Hong Kong                |        2 |  0.672 |              -35.625 |                 0.14  |                    |                2.894 |
+| Georgia                  |        3 |  0.604 |              -70.244 |                 0.207 |                    |                2.711 |
+| United Arab Emirates     |        2 |  0.562 |              -22.711 |                 0.32  |                    |                2.704 |
+| New Zealand A            |        1 |  0.588 |                5.803 |                 0.176 |                    |                2.604 |
 | Bahamas                  |        1 |  0     |                0     |                 0     |                    |                2     |
 | Latvia                   |        2 |  0     |               -4     |                 2     |                    |                2     |
 | Bermuda                  |        2 |  0     |               -8     |                 0     |                    |                2     |
 | Canada                   |        2 |  0     |               -8     |                 2     |                    |                2     |
 | Romania                  |        4 |  0     |             -124     |                 0     |                    |                2     |
-| Tonga                    |        1 |  0.218 |              -14.389 |                 0.14  |                    |                1.06  |
+| Barbarians               |        1 |  0.374 |               -5.803 |                 0.178 |                    |                1.75  |
 | Malta                    |        1 |  0     |               -1     |                 1     |                    |                1     |
 | England A                |        1 |  0     |               -2     |                 1     |                    |                1     |
 | Moldova                  |        2 |  0     |              -36     |                 1     |                    |                1     |
+| Tonga                    |        1 |  0.202 |              -15.796 |                 0.125 |                    |                0.995 |
 | Jamaica                  |        1 |  0     |              -13     |                 0     |                    |                0     |
 | Peru                     |        1 |  0     |              -14     |                 0     |                    |                0     |
 | Turkey                   |        1 |  0     |              -16     |                 0     |                    |                0     |
@@ -193,7 +197,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 66.7% | 18.1 |
+| Club Level | 63.0% | 18.4 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -205,7 +209,7 @@ aside:
 ### United Arab Emirates V Hong Kong on 2025/06/13
 
 
-Average Margin: Hong Kong by 9.8
+Average Margin: Hong Kong by 9.4
 
 <p float="left">
 <img src="plots\2025-06-13-UnitedArabEmirates_V_HongKong_performances.png" width="32%" />
@@ -228,21 +232,10 @@ Average Margin: Korea Republic by 13.3
 
 ## Week 10
 
-### England V Australia on 2025/11/01
-
-
-Average Margin: England by 6.4
-
-<p float="left">
-<img src="plots\2025-11-01-England_V_Australia_performances.png" width="32%" />
-<img src="plots\2025-11-01-England_V_Australia_resultbar.png" width="32%" />
-<img src="plots\2025-11-01-England_V_Australia_spreads.png" width="32%" />
-</p>
-
 ### Scotland V United States of America on 2025/11/01
 
 
-Average Margin: Scotland by 12.4
+Average Margin: Scotland by 13.2
 
 <p float="left">
 <img src="plots\2025-11-01-Scotland_V_UnitedStatesofAmerica_performances.png" width="32%" />
@@ -253,7 +246,7 @@ Average Margin: Scotland by 12.4
 ### South Africa V Japan on 2025/11/01
 
 
-Average Margin: South Africa by 13.3
+Average Margin: South Africa by 13.2
 
 <p float="left">
 <img src="plots\2025-11-01-SouthAfrica_V_Japan_performances.png" width="32%" />
@@ -261,10 +254,32 @@ Average Margin: South Africa by 13.3
 <img src="plots\2025-11-01-SouthAfrica_V_Japan_spreads.png" width="32%" />
 </p>
 
+### Barbarians V New Zealand A on 2025/11/01
+
+
+Average Margin: New Zealand A by 5.8
+
+<p float="left">
+<img src="plots\2025-11-01-Barbarians_V_NewZealandA_performances.png" width="32%" />
+<img src="plots\2025-11-01-Barbarians_V_NewZealandA_resultbar.png" width="32%" />
+<img src="plots\2025-11-01-Barbarians_V_NewZealandA_spreads.png" width="32%" />
+</p>
+
+### England V Australia on 2025/11/01
+
+
+Average Margin: England by 5.6
+
+<p float="left">
+<img src="plots\2025-11-01-England_V_Australia_performances.png" width="32%" />
+<img src="plots\2025-11-01-England_V_Australia_resultbar.png" width="32%" />
+<img src="plots\2025-11-01-England_V_Australia_spreads.png" width="32%" />
+</p>
+
 ### Ireland V New Zealand on 2025/11/01
 
 
-Average Margin: Ireland by 0.5
+Average Margin: Ireland by 0.8
 
 <p float="left">
 <img src="plots\2025-11-01-Ireland_V_NewZealand_performances.png" width="32%" />
@@ -274,21 +289,10 @@ Average Margin: Ireland by 0.5
 
 ## Week 11
 
-### England V Fiji on 2025/11/08
-
-
-Average Margin: England by 7.0
-
-<p float="left">
-<img src="plots\2025-11-08-England_V_Fiji_performances.png" width="32%" />
-<img src="plots\2025-11-08-England_V_Fiji_resultbar.png" width="32%" />
-<img src="plots\2025-11-08-England_V_Fiji_spreads.png" width="32%" />
-</p>
-
 ### Italy V Australia on 2025/11/08
 
 
-Average Margin: Australia by 1.8
+Average Margin: Australia by 1.6
 
 <p float="left">
 <img src="plots\2025-11-08-Italy_V_Australia_performances.png" width="32%" />
@@ -299,7 +303,7 @@ Average Margin: Australia by 1.8
 ### Ireland V Japan on 2025/11/08
 
 
-Average Margin: Ireland by 9.9
+Average Margin: Ireland by 10.5
 
 <p float="left">
 <img src="plots\2025-11-08-Ireland_V_Japan_performances.png" width="32%" />
@@ -310,7 +314,7 @@ Average Margin: Ireland by 9.9
 ### France V South Africa on 2025/11/08
 
 
-Average Margin: France by 0.7
+Average Margin: France by 1.0
 
 <p float="left">
 <img src="plots\2025-11-08-France_V_SouthAfrica_performances.png" width="32%" />
@@ -329,10 +333,21 @@ Average Margin: New Zealand by 2.0
 <img src="plots\2025-11-08-Scotland_V_NewZealand_spreads.png" width="32%" />
 </p>
 
+### England V Fiji on 2025/11/08
+
+
+Average Margin: England by 6.1
+
+<p float="left">
+<img src="plots\2025-11-08-England_V_Fiji_performances.png" width="32%" />
+<img src="plots\2025-11-08-England_V_Fiji_resultbar.png" width="32%" />
+<img src="plots\2025-11-08-England_V_Fiji_spreads.png" width="32%" />
+</p>
+
 ### Wales V Argentina on 2025/11/09
 
 
-Average Margin: Argentina by 4.3
+Average Margin: Argentina by 4.4
 
 <p float="left">
 <img src="plots\2025-11-09-Wales_V_Argentina_performances.png" width="32%" />
@@ -342,21 +357,10 @@ Average Margin: Argentina by 4.3
 
 ## Week 12
 
-### France V Fiji on 2025/11/15
-
-
-Average Margin: France by 6.9
-
-<p float="left">
-<img src="plots\2025-11-15-France_V_Fiji_performances.png" width="32%" />
-<img src="plots\2025-11-15-France_V_Fiji_resultbar.png" width="32%" />
-<img src="plots\2025-11-15-France_V_Fiji_spreads.png" width="32%" />
-</p>
-
 ### England V New Zealand on 2025/11/15
 
 
-Average Margin: England by 1.8
+Average Margin: England by 1.5
 
 <p float="left">
 <img src="plots\2025-11-15-England_V_NewZealand_performances.png" width="32%" />
@@ -364,10 +368,32 @@ Average Margin: England by 1.8
 <img src="plots\2025-11-15-England_V_NewZealand_spreads.png" width="32%" />
 </p>
 
+### France V Fiji on 2025/11/15
+
+
+Average Margin: France by 6.1
+
+<p float="left">
+<img src="plots\2025-11-15-France_V_Fiji_performances.png" width="32%" />
+<img src="plots\2025-11-15-France_V_Fiji_resultbar.png" width="32%" />
+<img src="plots\2025-11-15-France_V_Fiji_spreads.png" width="32%" />
+</p>
+
+### Italy V South Africa on 2025/11/15
+
+
+Average Margin: South Africa by 8.3
+
+<p float="left">
+<img src="plots\2025-11-15-Italy_V_SouthAfrica_performances.png" width="32%" />
+<img src="plots\2025-11-15-Italy_V_SouthAfrica_resultbar.png" width="32%" />
+<img src="plots\2025-11-15-Italy_V_SouthAfrica_spreads.png" width="32%" />
+</p>
+
 ### Ireland V Australia on 2025/11/15
 
 
-Average Margin: Ireland by 5.8
+Average Margin: Ireland by 5.1
 
 <p float="left">
 <img src="plots\2025-11-15-Ireland_V_Australia_performances.png" width="32%" />
@@ -386,21 +412,10 @@ Average Margin: Wales by 0.9
 <img src="plots\2025-11-15-Wales_V_Japan_spreads.png" width="32%" />
 </p>
 
-### Italy V South Africa on 2025/11/15
-
-
-Average Margin: South Africa by 8.2
-
-<p float="left">
-<img src="plots\2025-11-15-Italy_V_SouthAfrica_performances.png" width="32%" />
-<img src="plots\2025-11-15-Italy_V_SouthAfrica_resultbar.png" width="32%" />
-<img src="plots\2025-11-15-Italy_V_SouthAfrica_spreads.png" width="32%" />
-</p>
-
 ### Scotland V Argentina on 2025/11/16
 
 
-Average Margin: Scotland by 2.2
+Average Margin: Scotland by 2.1
 
 <p float="left">
 <img src="plots\2025-11-16-Scotland_V_Argentina_performances.png" width="32%" />
@@ -413,7 +428,7 @@ Average Margin: Scotland by 2.2
 ### Ireland V South Africa on 2025/11/22
 
 
-Average Margin: South Africa by 0.4
+Average Margin: South Africa by 0.0
 
 <p float="left">
 <img src="plots\2025-11-22-Ireland_V_SouthAfrica_performances.png" width="32%" />
@@ -424,7 +439,7 @@ Average Margin: South Africa by 0.4
 ### Wales V New Zealand on 2025/11/22
 
 
-Average Margin: New Zealand by 7.6
+Average Margin: New Zealand by 7.9
 
 <p float="left">
 <img src="plots\2025-11-22-Wales_V_NewZealand_performances.png" width="32%" />
@@ -435,7 +450,7 @@ Average Margin: New Zealand by 7.6
 ### France V Australia on 2025/11/22
 
 
-Average Margin: France by 6.6
+Average Margin: France by 5.8
 
 <p float="left">
 <img src="plots\2025-11-22-France_V_Australia_performances.png" width="32%" />
@@ -446,7 +461,7 @@ Average Margin: France by 6.6
 ### Georgia V Japan on 2025/11/22
 
 
-Average Margin: Georgia by 3.9
+Average Margin: Georgia by 3.8
 
 <p float="left">
 <img src="plots\2025-11-22-Georgia_V_Japan_performances.png" width="32%" />
@@ -457,7 +472,7 @@ Average Margin: Georgia by 3.9
 ### Italy V Samoa on 2025/11/22
 
 
-Average Margin: Italy by 10.1
+Average Margin: Italy by 10.4
 
 <p float="left">
 <img src="plots\2025-11-22-Italy_V_Samoa_performances.png" width="32%" />
@@ -468,7 +483,7 @@ Average Margin: Italy by 10.1
 ### England V Argentina on 2025/11/23
 
 
-Average Margin: England by 6.1
+Average Margin: England by 5.3
 
 <p float="left">
 <img src="plots\2025-11-23-England_V_Argentina_performances.png" width="32%" />
@@ -479,7 +494,7 @@ Average Margin: England by 6.1
 ### Scotland V Tonga on 2025/11/23
 
 
-Average Margin: Scotland by 14.4
+Average Margin: Scotland by 15.8
 
 <p float="left">
 <img src="plots\2025-11-23-Scotland_V_Tonga_performances.png" width="32%" />
@@ -492,7 +507,7 @@ Average Margin: Scotland by 14.4
 ### Wales V South Africa on 2025/11/29
 
 
-Average Margin: South Africa by 9.4
+Average Margin: South Africa by 8.8
 
 <p float="left">
 <img src="plots\2025-11-29-Wales_V_SouthAfrica_performances.png" width="32%" />

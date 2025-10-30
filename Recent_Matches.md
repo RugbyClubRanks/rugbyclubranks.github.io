@@ -12,11 +12,11 @@ key: page-recents
 
 Competition Accuracy: 48 of 73 (65.75%)
 
-Competition Error: 20.67 points per match
+Competition Error: 20.66 points per match
 
-Last Two Week Accuracy: 2 of 5 (40.0%)
+Last Two Week Accuracy: 1 of 2 (50.0%)
 
-Last Two Week Error: 28.91 points per match
+Last Two Week Error: 28.45 points per match
 
 [2025/10/24 - Hong Kong V Japan A, 14.0 to 59.0](reviews\2025-10-24-HongKong_V_JapanA)
 
@@ -32,9 +32,9 @@ Competition Accuracy: 22 of 25 (88.0%)
 
 Competition Error: 13.87 points per match
 
-Last Two Week Accuracy: 9 of 10 (90.0%)
+Last Two Week Accuracy: 5 of 5 (100.0%)
 
-Last Two Week Error: 18.34 points per match
+Last Two Week Error: 15.46 points per match
 
 [2025/10/24 - Northampton Saints V Saracens, 43.0 to 31.0](reviews\2025-10-24-NorthamptonSaints_V_Saracens)
 
@@ -54,9 +54,9 @@ Competition Accuracy: 44 of 56 (78.57%)
 
 Competition Error: 13.18 points per match
 
-Last Two Week Accuracy: 12 of 14 (85.71%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 15.33 points per match
+Last Two Week Error: 18.29 points per match
 
 [2025/10/25 - Bordeaux Begles V Bayonne, 41.0 to 12.0](reviews\2025-10-25-BordeauxBegles_V_Bayonne)
 
@@ -80,9 +80,9 @@ Competition Accuracy: 28 of 39 (71.79%)
 
 Competition Error: 11.51 points per match
 
-Last Two Week Accuracy: 12 of 16 (75.0%)
+Last Two Week Accuracy: 6 of 8 (75.0%)
 
-Last Two Week Error: 10.86 points per match
+Last Two Week Error: 6.43 points per match
 
 [2025/10/25 - Munster V Connacht, 17.0 to 15.0](reviews\2025-10-25-Munster_V_Connacht)
 
@@ -108,13 +108,13 @@ Competition Accuracy: 17 of 28 (60.71%)
 
 Competition Error: 12.2 points per match
 
-Last Two Week Accuracy: 10 of 14 (71.43%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 12.9 points per match
+Last Two Week Error: 16.33 points per match
 
 [2025/10/25 - London Scottish V Cornish Pirates, 10.0 to 38.0](reviews\2025-10-25-LondonScottish_V_CornishPirates)
 
-[2025/10/25 - Hartpury College V Chinnor, 25.0 to 19.0](reviews\2025-10-25-HartpuryCollege_V_Chinnor)
+[2025/10/25 - Hartpury College RFC V Chinnor, 25.0 to 19.0](reviews\2025-10-25-HartpuryCollege_V_Chinnor)
 
 [2025/10/25 - Doncaster V Worcester Warriors, 34.0 to 31.0](reviews\2025-10-25-Doncaster_V_WorcesterWarriors)
 
@@ -156,11 +156,11 @@ Competition Accuracy: 53 of 77 (68.83%)
 
 Competition Error: 15.24 points per match
 
-Last Two Week Accuracy: 3 of 3 (100.0%)
+Last Two Week Accuracy: 1 of 1 (100.0%)
 
-Last Two Week Error: 12.9 points per match
+Last Two Week Error: 0.17 points per match
 
-[2025/10/24 - Canterbury V Otago, 36.0 to 28.0](reviews\2025-10-24-Canterbury_V_Otago)
+[2025/10/25 - Canterbury V Otago, 36.0 to 28.0](reviews\2025-10-25-Canterbury_V_Otago)
 ## Pro D2
 
 
@@ -170,9 +170,9 @@ Competition Accuracy: 46 of 64 (71.88%)
 
 Competition Error: 14.52 points per match
 
-Last Two Week Accuracy: 10 of 16 (62.5%)
+Last Two Week Accuracy: 6 of 8 (75.0%)
 
-Last Two Week Error: 15.99 points per match
+Last Two Week Error: 21.4 points per match
 
 [2025/10/23 - Valence Romans Drome Rugby V Agen, 56.0 to 17.0](reviews\2025-10-23-ValenceRomansDromeRugby_V_Agen)
 
