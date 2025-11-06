@@ -9,9 +9,9 @@ categories: "Pro D2 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Beziers to win by 1.23, and Colomiers won by 21.0. That's an absolute error of 22.2 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 19.7% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Beziers to win by 1.45, and Colomiers won by 21.0. That's an absolute error of 22.4 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 19.7% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 47.5 and we have an actual total of 65.0. That's an absolute error of 17.5 compared to a six month average of 13.5. This prediction was more accurate than 28.5% of my recent predictions.
+For the Over/Under model, I predicted a total of 46.5 and we have an actual total of 65.0. That's an absolute error of 18.5 compared to a six month average of 13.4. This prediction was more accurate than 25.9% of my recent predictions.
 ## Projected Performances - Club Model
 
 

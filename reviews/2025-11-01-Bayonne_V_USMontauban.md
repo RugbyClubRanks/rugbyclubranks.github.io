@@ -9,9 +9,9 @@ categories: "Top 14 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Bayonne to win by 9.61, and Bayonne won by 42.0. That's an absolute error of 32.4 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 7.9% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Bayonne to win by 9.25, and Bayonne won by 42.0. That's an absolute error of 32.8 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 7.8% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 56.5 and we have an actual total of 56.0. That's an absolute error of 0.5 compared to a six month average of 13.5. This prediction was more accurate than 97.0% of my recent predictions.
+For the Over/Under model, I predicted a total of 56.5 and we have an actual total of 56.0. That's an absolute error of 0.5 compared to a six month average of 13.4. This prediction was more accurate than 97.3% of my recent predictions.
 ## Projected Performances - Club Model
 
 

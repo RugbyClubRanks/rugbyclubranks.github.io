@@ -14,9 +14,9 @@ Competition Accuracy: 52 of 78 (66.67%)
 
 Competition Error: 20.83 points per match
 
-Last Two Week Accuracy: 5 of 7 (71.43%)
+Last Two Week Accuracy: 4 of 5 (80.0%)
 
-Last Two Week Error: 24.71 points per match
+Last Two Week Error: 23.18 points per match
 
 [2025/11/08 - Colombia V Mexico](projections\2025-11-08-Colombia_V_Mexico)
 
@@ -76,10 +76,6 @@ Competition Accuracy: 22 of 25 (88.0%)
 
 Competition Error: 13.87 points per match
 
-Last Two Week Accuracy: 5 of 5 (100.0%)
-
-Last Two Week Error: 15.46 points per match
-
 [2025/11/28 - Newcastle Falcons V Leicester Tigers](projections\2025-11-28-NewcastleFalcons_V_LeicesterTigers)
 
 [2025/11/28 - Sale Sharks V Exeter Chiefs](projections\2025-11-28-SaleSharks_V_ExeterChiefs)
@@ -98,9 +94,9 @@ Competition Accuracy: 24 of 35 (68.57%)
 
 Competition Error: 11.86 points per match
 
-Last Two Week Accuracy: 13 of 14 (92.86%)
+Last Two Week Accuracy: 7 of 7 (100.0%)
 
-Last Two Week Error: 13.41 points per match
+Last Two Week Error: 10.49 points per match
 
 [2025/11/28 - Nottingham V Bedford](projections\2025-11-28-Nottingham_V_Bedford)
 
@@ -152,9 +148,9 @@ Competition Accuracy: 49 of 63 (77.78%)
 
 Competition Error: 13.14 points per match
 
-Last Two Week Accuracy: 11 of 14 (78.57%)
+Last Two Week Accuracy: 5 of 7 (71.43%)
 
-Last Two Week Error: 15.57 points per match
+Last Two Week Error: 12.84 points per match
 
 [2025/11/08 - Toulon V La Rochelle](projections\2025-11-08-Toulon_V_LaRochelle)
 
@@ -194,10 +190,6 @@ Competition Accuracy: 28 of 39 (71.79%)
 
 Competition Error: 11.51 points per match
 
-Last Two Week Accuracy: 6 of 8 (75.0%)
-
-Last Two Week Error: 6.43 points per match
-
 [2025/11/28 - Dragons V Leinster](projections\2025-11-28-Dragons_V_Leinster)
 
 [2025/11/28 - Ulster V Benetton Treviso](projections\2025-11-28-Ulster_V_BenettonTreviso)
@@ -222,9 +214,9 @@ Competition Accuracy: 7 of 8 (87.5%)
 
 Competition Error: 20.57 points per match
 
-Last Two Week Accuracy: 7 of 8 (87.5%)
+Last Two Week Accuracy: 4 of 4 (100.0%)
 
-Last Two Week Error: 20.57 points per match
+Last Two Week Error: 26.09 points per match
 
 [2025/11/08 - Sale Sharks Women V Trailfinders Women](projections\2025-11-08-SaleSharksWomen_V_TrailfindersWomen)
 
@@ -280,13 +272,13 @@ Last Two Week Error: 9.48 points per match
 
 [2025/11/07 - Massy V Rouen](projections\2025-11-07-Massy_V_Rouen)
 
+[2025/11/07 - PÃ©rigueux V US Bressane](projections\2025-11-07-Perigueux_V_USBressane)
+
 [2025/11/08 - Bourgoin-Jallieu V Suresnes](projections\2025-11-08-Bourgoin-Jallieu_V_Suresnes)
 
 [2025/11/08 - Nice V Marcq-en-Baroeul](projections\2025-11-08-Nice_V_Marcq-en-Baroeul)
 
 [2025/11/08 - Niort V Chambery](projections\2025-11-08-Niort_V_Chambery)
-
-[2025/11/08 - PÃ©rigueux V US Bressane](projections\2025-11-08-Perigueux_V_USBressane)
 
 [2025/11/08 - Rennes V Narbonne](projections\2025-11-08-Rennes_V_Narbonne)
 
@@ -326,9 +318,9 @@ Competition Accuracy: 52 of 72 (72.22%)
 
 Competition Error: 15.33 points per match
 
-Last Two Week Accuracy: 12 of 16 (75.0%)
+Last Two Week Accuracy: 6 of 8 (75.0%)
 
-Last Two Week Error: 21.6 points per match
+Last Two Week Error: 21.8 points per match
 
 [2025/11/06 - Colomiers V Provence Rugby](projections\2025-11-06-Colomiers_V_ProvenceRugby)
 

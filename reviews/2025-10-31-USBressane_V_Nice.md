@@ -9,9 +9,9 @@ categories: "Nationale 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted US Bressane to win by 1.04, and US Bressane won by 11.0. That's an absolute error of 10.0 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 51.1% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted US Bressane to win by 0.91, and US Bressane won by 11.0. That's an absolute error of 10.1 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 50.6% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 42.5 and we have an actual total of 59.0. That's an absolute error of 16.5 compared to a six month average of 13.5. This prediction was more accurate than 31.6% of my recent predictions.
+For the Over/Under model, I predicted a total of 41.5 and we have an actual total of 59.0. That's an absolute error of 17.5 compared to a six month average of 13.4. This prediction was more accurate than 28.9% of my recent predictions.
 ## Projected Performances - Club Model
 
 

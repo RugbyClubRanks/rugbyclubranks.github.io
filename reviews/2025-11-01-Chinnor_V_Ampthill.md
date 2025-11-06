@@ -9,9 +9,9 @@ categories: "RFU Championship 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Chinnor to win by 3.12, and Chinnor won by 7.0. That's an absolute error of 3.9 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 80.4% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Chinnor to win by 3.9, and Chinnor won by 7.0. That's an absolute error of 3.1 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 84.5% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 59.5 and we have an actual total of 27.0. That's an absolute error of 32.5 compared to a six month average of 13.5. This prediction was more accurate than 4.7% of my recent predictions.
+For the Over/Under model, I predicted a total of 60.5 and we have an actual total of 27.0. That's an absolute error of 33.5 compared to a six month average of 13.4. This prediction was more accurate than 4.6% of my recent predictions.
 ## Projected Performances - Club Model
 
 

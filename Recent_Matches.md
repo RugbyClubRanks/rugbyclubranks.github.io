@@ -14,9 +14,9 @@ Competition Accuracy: 52 of 78 (66.67%)
 
 Competition Error: 20.83 points per match
 
-Last Two Week Accuracy: 5 of 7 (71.43%)
+Last Two Week Accuracy: 4 of 5 (80.0%)
 
-Last Two Week Error: 24.71 points per match
+Last Two Week Error: 23.18 points per match
 
 [2025/11/01 - Barbarians V New Zealand A, 19.0 to 33.0](reviews\2025-11-01-Barbarians_V_NewZealandA)
 
@@ -38,9 +38,9 @@ Competition Accuracy: 7 of 8 (87.5%)
 
 Competition Error: 20.57 points per match
 
-Last Two Week Accuracy: 7 of 8 (87.5%)
+Last Two Week Accuracy: 4 of 4 (100.0%)
 
-Last Two Week Error: 20.57 points per match
+Last Two Week Error: 26.09 points per match
 
 [2025/11/01 - Exeter Chiefs Women V Gloucester-Hartpury, 31.0 to 47.0](reviews\2025-11-01-ExeterChiefsWomen_V_Gloucester-Hartpury)
 
@@ -58,9 +58,9 @@ Competition Accuracy: 49 of 63 (77.78%)
 
 Competition Error: 13.14 points per match
 
-Last Two Week Accuracy: 11 of 14 (78.57%)
+Last Two Week Accuracy: 5 of 7 (71.43%)
 
-Last Two Week Error: 15.57 points per match
+Last Two Week Error: 12.84 points per match
 
 [2025/11/01 - Toulon V Lyon, 54.0 to 21.0](reviews\2025-11-01-Toulon_V_Lyon)
 
@@ -84,13 +84,13 @@ Competition Accuracy: 24 of 35 (68.57%)
 
 Competition Error: 11.86 points per match
 
-Last Two Week Accuracy: 13 of 14 (92.86%)
+Last Two Week Accuracy: 7 of 7 (100.0%)
 
-Last Two Week Error: 13.41 points per match
+Last Two Week Error: 10.49 points per match
 
 [2025/11/01 - Richmond V Coventry, 17.0 to 52.0](reviews\2025-11-01-Richmond_V_Coventry)
 
-[2025/11/01 - Ealing Trailfinders V Hartpury College, 27.0 to 19.0](reviews\2025-11-01-EalingTrailfinders_V_HartpuryCollege)
+[2025/11/01 - Ealing Trailfinders V Hartpury College RFC, 27.0 to 19.0](reviews\2025-11-01-EalingTrailfinders_V_HartpuryCollege)
 
 [2025/11/01 - Cornish Pirates V Caldy, 34.0 to 27.0](reviews\2025-11-01-CornishPirates_V_Caldy)
 
@@ -120,7 +120,7 @@ Last Two Week Error: 12.23 points per match
 
 [2025/10/31 - Newcastle Falcons V Leicester Tigers, 8.0 to 10.0](reviews\2025-10-31-NewcastleFalcons_V_LeicesterTigers)
 
-[2025/10/31 - Bristol Rugby V Bath Rugby, 19.0 to 49.0](reviews\2025-10-31-BristolRugby_V_BathRugby)
+[2025/10/31 - Bristol Bears V Bath Rugby, 19.0 to 49.0](reviews\2025-10-31-BristolRugby_V_BathRugby)
 # Domestic Competitions
 
 ## Nationale
@@ -158,9 +158,9 @@ Competition Accuracy: 52 of 72 (72.22%)
 
 Competition Error: 15.33 points per match
 
-Last Two Week Accuracy: 12 of 16 (75.0%)
+Last Two Week Accuracy: 6 of 8 (75.0%)
 
-Last Two Week Error: 21.6 points per match
+Last Two Week Error: 21.8 points per match
 
 [2025/10/30 - Soyaux-Angouleme V Grenoble, 34.0 to 28.0](reviews\2025-10-30-Soyaux-Angouleme_V_Grenoble)
 
