@@ -1,0 +1,34 @@
+---  
+layout: page  
+title: Bourgoin-Jallieu V Suresnes on 2025/11/08  
+date: 2025-11-08  
+categories: "Nationale 25/26" match projection  
+---
+# Bourgoin-Jallieu V Suresnes on 2025/11/08, 26.0 to 16.0
+
+# Club Level Predictions
+
+
+Now that the game has been played, lets see how the club predictions did. I predicted Bourgoin-Jallieu to win by 4.0, and Bourgoin-Jallieu won by 10.0. That's an absolute error of 6.0 for the margin of victory, while my average absolute error has been 13.7 over the past six months. This prediction was more accurate than 69.6% of my recent predictions.
+
+For the Over/Under model, I predicted a total of 41.5 and we have an actual total of 42.0. That's an absolute error of 0.5 compared to a six month average of 13.4. This prediction was more accurate than 98.0% of my recent predictions.
+## Projected Performances - Club Model
+
+
+<p float="left">
+<img src="../comp_files/plots/2025-11-08-Bourgoin-Jallieu_V_Suresnes_performances.png" width="99%" />
+</p>
+
+## Projected Spreads - Club Model
+
+
+<p float="left">
+<img src="../comp_files/plots/2025-11-08-Bourgoin-Jallieu_V_Suresnes_spreads.png" width="99%" />
+</p>
+
+## Projected Results - Club Model
+
+
+<p float="left">
+<img src="../comp_files/plots/2025-11-08-Bourgoin-Jallieu_V_Suresnes_resultbar.png" width="99%" />
+</p>
