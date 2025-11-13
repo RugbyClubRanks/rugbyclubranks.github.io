@@ -9,9 +9,9 @@ categories: "RFU Championship 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Nottingham to win by 0.5, and Cornish Pirates won by 8.0. That's an absolute error of 8.5 for the margin of victory, while my average absolute error has been 13.7 over the past six months. This prediction was more accurate than 56.5% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Nottingham to win by 0.47, and Cornish Pirates won by 8.0. That's an absolute error of 8.5 for the margin of victory, while my average absolute error has been 13.7 over the past six months. This prediction was more accurate than 56.8% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 53.5 and we have an actual total of 64.0. That's an absolute error of 10.5 compared to a six month average of 13.4. This prediction was more accurate than 51.7% of my recent predictions.
+For the Over/Under model, I predicted a total of 54.5 and we have an actual total of 64.0. That's an absolute error of 9.5 compared to a six month average of 13.2. This prediction was more accurate than 55.3% of my recent predictions.
 ## Projected Performances - Club Model
 
 

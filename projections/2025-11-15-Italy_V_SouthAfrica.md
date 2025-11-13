@@ -9,9 +9,9 @@ categories: "International Test Match 2025" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting South Africa to win by 7.94.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting South Africa to win by 8.1.
 
-Our Over/Under is 82.5 - and combined with the spread above, we have a predicted scoreline of 37 to 45
+Our Over/Under is 69.5 - and combined with the spread above, we have a predicted scoreline of 31 to 39
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model

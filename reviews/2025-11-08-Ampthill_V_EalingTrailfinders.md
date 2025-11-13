@@ -9,9 +9,9 @@ categories: "RFU Championship 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Ealing Trailfinders to win by 10.38, and Ealing Trailfinders won by 71.0. That's an absolute error of 60.6 for the margin of victory, while my average absolute error has been 13.7 over the past six months. This prediction was more accurate than 0.8% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Ealing Trailfinders to win by 10.65, and Ealing Trailfinders won by 71.0. That's an absolute error of 60.4 for the margin of victory, while my average absolute error has been 13.7 over the past six months. This prediction was more accurate than 0.7% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 72.5 and we have an actual total of 71.0. That's an absolute error of 1.5 compared to a six month average of 13.4. This prediction was more accurate than 92.0% of my recent predictions.
+For the Over/Under model, I predicted a total of 73.5 and we have an actual total of 71.0. That's an absolute error of 2.5 compared to a six month average of 13.2. This prediction was more accurate than 89.0% of my recent predictions.
 ## Projected Performances - Club Model
 
 
