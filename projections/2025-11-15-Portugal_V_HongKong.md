@@ -2,14 +2,14 @@
 layout: page  
 title: Portugal V Hong Kong on 2025/11/15  
 date: 2025-11-15  
-categories: "International Test Match 2025" match review  
+categories: "Test Matchs 2025" match review  
 ---
 # Portugal V Hong Kong on 2025/11/15
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Portugal to win by 3.99.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Portugal to win by 3.83.
 
 Our Over/Under is 60.5 - and combined with the spread above, we have a predicted scoreline of 32 to 28
 

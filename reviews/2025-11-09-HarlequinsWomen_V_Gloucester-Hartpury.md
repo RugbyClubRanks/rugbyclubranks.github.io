@@ -9,9 +9,9 @@ categories: "PWR 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Gloucester-Hartpury to win by 4.49, and Gloucester-Hartpury won by 7.0. That's an absolute error of 2.5 for the margin of victory, while my average absolute error has been 13.7 over the past six months. This prediction was more accurate than 87.0% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Gloucester-Hartpury to win by 4.53, and Gloucester-Hartpury won by 7.0. That's an absolute error of 2.5 for the margin of victory, while my average absolute error has been 13.8 over the past six months. This prediction was more accurate than 87.3% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 57.5 and we have an actual total of 59.0. That's an absolute error of 1.5 compared to a six month average of 13.2. This prediction was more accurate than 92.2% of my recent predictions.
+For the Over/Under model, I predicted a total of 56.5 and we have an actual total of 59.0. That's an absolute error of 2.5 compared to a six month average of 13.2. This prediction was more accurate than 88.2% of my recent predictions.
 ## Projected Performances - Club Model
 
 

@@ -9,9 +9,9 @@ categories: "PWR 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Bristol Bears Women to win by 1.34, and Saracens Women won by 21.0. That's an absolute error of 22.3 for the margin of victory, while my average absolute error has been 13.7 over the past six months. This prediction was more accurate than 19.2% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Bristol Bears Women to win by 2.28, and Saracens Women won by 21.0. That's an absolute error of 23.3 for the margin of victory, while my average absolute error has been 13.8 over the past six months. This prediction was more accurate than 17.9% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 56.5 and we have an actual total of 45.0. That's an absolute error of 11.5 compared to a six month average of 13.2. This prediction was more accurate than 47.9% of my recent predictions.
+For the Over/Under model, I predicted a total of 57.5 and we have an actual total of 45.0. That's an absolute error of 12.5 compared to a six month average of 13.2. This prediction was more accurate than 44.2% of my recent predictions.
 ## Projected Performances - Club Model
 
 
