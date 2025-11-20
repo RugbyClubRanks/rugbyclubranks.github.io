@@ -9,9 +9,9 @@ categories: "International Test Match 2025" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted South Africa to win by 7.35, and South Africa won by 18.0. That's an absolute error of 10.6 for the margin of victory, while my average absolute error has been 13.8 over the past six months. This prediction was more accurate than 48.6% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted South Africa to win by 6.52, and South Africa won by 18.0. That's an absolute error of 11.5 for the margin of victory, while my average absolute error has been 13.8 over the past six months. This prediction was more accurate than 45.4% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 69.5 and we have an actual total of 46.0. That's an absolute error of 23.5 compared to a six month average of 13.1. This prediction was more accurate than 16.2% of my recent predictions.
+For the Over/Under model, I predicted a total of 66.5 and we have an actual total of 46.0. That's an absolute error of 20.5 compared to a six month average of 13.2. This prediction was more accurate than 21.3% of my recent predictions.
 ## Projected Performances - Club Model
 
 

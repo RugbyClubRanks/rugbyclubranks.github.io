@@ -14,9 +14,9 @@ Competition Accuracy: 62 of 91 (68.13%)
 
 Competition Error: 19.19 points per match
 
-Last Two Week Accuracy: 10 of 13 (76.92%)
+Last Two Week Accuracy: 5 of 6 (83.33%)
 
-Last Two Week Error: 9.36 points per match
+Last Two Week Error: 7.8 points per match
 
 [2025/11/15 - England V New Zealand, 33.0 to 19.0](reviews\2025-11-15-England_V_NewZealand)
 
@@ -34,17 +34,21 @@ Last Two Week Error: 9.36 points per match
 
 [In depth model review and projections for Rugby World Cup 2027 Final Qualification Tournament 2025](comp_files/Rugby_World_Cup_2027_Final_Qualification_Tournament_2025)
 
-Competition Accuracy: 4 of 4 (100.0%)
+Competition Accuracy: 5 of 6 (83.33%)
 
-Competition Error: 13.14 points per match
+Competition Error: 9.73 points per match
 
-Last Two Week Accuracy: 4 of 4 (100.0%)
+Last Two Week Accuracy: 3 of 4 (75.0%)
 
-Last Two Week Error: 13.14 points per match
+Last Two Week Error: 8.32 points per match
 
 [2025/11/13 - Belgium V Brazil, 30.0 to 27.0](reviews\2025-11-13-Belgium_V_Brazil)
 
 [2025/11/13 - Samoa V Namibia, 26.0 to 8.0](reviews\2025-11-13-Samoa_V_Namibia)
+
+[2025/11/18 - Namibia V Brazil, 40.0 to 31.0](reviews\2025-11-18-Namibia_V_Brazil)
+
+[2025/11/18 - Samoa V Belgium, 13.0 to 13.0](reviews\2025-11-18-Samoa_V_Belgium)
 ## Test Matchs
 
 
@@ -52,11 +56,11 @@ Last Two Week Error: 13.14 points per match
 
 Competition Accuracy: 9 of 10 (90.0%)
 
-Competition Error: 12.92 points per match
+Competition Error: 12.94 points per match
 
-Last Two Week Accuracy: 9 of 10 (90.0%)
+Last Two Week Accuracy: 5 of 5 (100.0%)
 
-Last Two Week Error: 12.92 points per match
+Last Two Week Error: 11.42 points per match
 
 [2025/11/15 - Georgia V Canada, 38.0 to 17.0](reviews\2025-11-15-Georgia_V_Canada)
 
@@ -78,9 +82,9 @@ Competition Accuracy: 12 of 16 (75.0%)
 
 Competition Error: 20.45 points per match
 
-Last Two Week Accuracy: 5 of 8 (62.5%)
+Last Two Week Accuracy: 3 of 4 (75.0%)
 
-Last Two Week Error: 20.33 points per match
+Last Two Week Error: 24.35 points per match
 
 [2025/11/15 - Gloucester-Hartpury V Sale Sharks Women, 40.0 to 24.0](reviews\2025-11-15-Gloucester-Hartpury_V_SaleSharksWomen)
 
@@ -118,15 +122,15 @@ Competition Accuracy: 35 of 49 (71.43%)
 
 Competition Error: 13.14 points per match
 
-Last Two Week Accuracy: 11 of 14 (78.57%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 16.35 points per match
+Last Two Week Error: 14.06 points per match
 
 [2025/11/14 - Bedford V Caldy, 20.0 to 8.0](reviews\2025-11-14-Bedford_V_Caldy)
 
 [2025/11/14 - Chinnor V London Scottish, 22.0 to 20.0](reviews\2025-11-14-Chinnor_V_LondonScottish)
 
-[2025/11/14 - Richmond V Hartpury College, 17.0 to 12.0](reviews\2025-11-14-Richmond_V_HartpuryCollege)
+[2025/11/14 - Richmond V Hartpury College RFC, 17.0 to 12.0](reviews\2025-11-14-Richmond_V_HartpuryCollege)
 
 [2025/11/15 - Cornish Pirates V Cambridge, 52.0 to 0.0](reviews\2025-11-15-CornishPirates_V_Cambridge)
 
@@ -146,9 +150,9 @@ Competition Accuracy: 54 of 77 (70.13%)
 
 Competition Error: 8.32 points per match
 
-Last Two Week Accuracy: 12 of 14 (85.71%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 6.2 points per match
+Last Two Week Error: 7.15 points per match
 
 [2025/11/14 - Albi V Rennes, 24.0 to 18.0](reviews\2025-11-14-Albi_V_Rennes)
 
@@ -172,9 +176,9 @@ Competition Accuracy: 61 of 88 (69.32%)
 
 Competition Error: 15.18 points per match
 
-Last Two Week Accuracy: 9 of 16 (56.25%)
+Last Two Week Accuracy: 3 of 8 (37.5%)
 
-Last Two Week Error: 14.49 points per match
+Last Two Week Error: 11.63 points per match
 
 [2025/11/14 - Agen V Oyonnax, 23.0 to 27.0](reviews\2025-11-14-Agen_V_Oyonnax)
 

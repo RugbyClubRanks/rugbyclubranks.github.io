@@ -14,9 +14,9 @@ Competition Accuracy: 62 of 91 (68.13%)
 
 Competition Error: 19.19 points per match
 
-Last Two Week Accuracy: 10 of 13 (76.92%)
+Last Two Week Accuracy: 5 of 6 (83.33%)
 
-Last Two Week Error: 9.36 points per match
+Last Two Week Error: 7.8 points per match
 
 [2025/11/22 - France V Australia](projections\2025-11-22-France_V_Australia)
 
@@ -72,9 +72,9 @@ Competition Accuracy: 35 of 49 (71.43%)
 
 Competition Error: 13.14 points per match
 
-Last Two Week Accuracy: 11 of 14 (78.57%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 16.35 points per match
+Last Two Week Error: 14.06 points per match
 
 [2025/12/06 - Coventry V London Scottish](projections\2025-12-06-Coventry_V_LondonScottish)
 
@@ -126,13 +126,9 @@ Competition Accuracy: 50 of 64 (78.12%)
 
 Competition Error: 13.22 points per match
 
-Last Two Week Accuracy: 1 of 1 (100.0%)
-
-Last Two Week Error: 17.9 points per match
-
 [2025/11/21 - Bordeaux Begles V Pau](projections\2025-11-21-BordeauxBegles_V_Pau)
 
-[2025/11/21 - La Rochelle V Castres Olympique](projections\2025-11-21-LaRochelle_V_CastresOlympique)
+[2025/11/22 - La Rochelle V Castres Olympique](projections\2025-11-22-LaRochelle_V_CastresOlympique)
 
 [2025/11/28 - Toulon V US Montauban](projections\2025-11-28-Toulon_V_USMontauban)
 
@@ -148,15 +144,15 @@ Last Two Week Error: 17.9 points per match
 
 [2025/11/28 - Bayonne V Lyon](projections\2025-11-28-Bayonne_V_Lyon)
 
-[2025/11/21 - US Montauban V Stade Toulousain](projections\2025-11-21-USMontauban_V_StadeToulousain)
+[2025/11/23 - Stade Francais Paris V Toulon](projections\2025-11-23-StadeFrancaisParis_V_Toulon)
 
-[2025/11/21 - Stade Francais Paris V Toulon](projections\2025-11-21-StadeFrancaisParis_V_Toulon)
+[2025/11/22 - US Montauban V Stade Toulousain](projections\2025-11-22-USMontauban_V_StadeToulousain)
 
-[2025/11/21 - Racing 92 V Bayonne](projections\2025-11-21-Racing92_V_Bayonne)
+[2025/11/22 - Racing 92 V Bayonne](projections\2025-11-22-Racing92_V_Bayonne)
 
-[2025/11/21 - Perpignan V Montpellier Herault](projections\2025-11-21-Perpignan_V_MontpellierHerault)
+[2025/11/22 - Perpignan V Montpellier Herault](projections\2025-11-22-Perpignan_V_MontpellierHerault)
 
-[2025/11/21 - Lyon V Clermont Auvergne](projections\2025-11-21-Lyon_V_ClermontAuvergne)
+[2025/11/22 - Lyon V Clermont Auvergne](projections\2025-11-22-Lyon_V_ClermontAuvergne)
 ## United Rugby Championship
 
 
@@ -302,9 +298,9 @@ Competition Accuracy: 54 of 77 (70.13%)
 
 Competition Error: 8.32 points per match
 
-Last Two Week Accuracy: 12 of 14 (85.71%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 6.2 points per match
+Last Two Week Error: 7.15 points per match
 
 [2025/11/21 - Massy V US Bressane](projections\2025-11-21-Massy_V_USBressane)
 
@@ -356,9 +352,9 @@ Competition Accuracy: 61 of 88 (69.32%)
 
 Competition Error: 15.18 points per match
 
-Last Two Week Accuracy: 9 of 16 (56.25%)
+Last Two Week Accuracy: 3 of 8 (37.5%)
 
-Last Two Week Error: 14.49 points per match
+Last Two Week Error: 11.63 points per match
 
 [2025/11/27 - Grenoble V Biarritz Olympique](projections\2025-11-27-Grenoble_V_BiarritzOlympique)
 

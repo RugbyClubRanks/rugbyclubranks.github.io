@@ -1,17 +1,17 @@
 ---  
 layout: page  
-title: Richmond V Hartpury College on 2025/11/14  
+title: Richmond V Hartpury College RFC on 2025/11/14  
 date: 2025-11-14  
 categories: "RFU Championship 25/26" match projection  
 ---
-# Richmond V Hartpury College on 2025/11/14, 17.0 to 12.0
+# Richmond V Hartpury College RFC on 2025/11/14, 17.0 to 12.0
 
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Hartpury College to win by 3.08, and Richmond won by 5.0. That's an absolute error of 8.1 for the margin of victory, while my average absolute error has been 13.8 over the past six months. This prediction was more accurate than 60.0% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Hartpury College to win by 2.27, and Richmond won by 5.0. That's an absolute error of 7.3 for the margin of victory, while my average absolute error has been 13.8 over the past six months. This prediction was more accurate than 63.7% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 56.5 and we have an actual total of 29.0. That's an absolute error of 27.5 compared to a six month average of 13.1. This prediction was more accurate than 9.4% of my recent predictions.
+For the Over/Under model, I predicted a total of 56.5 and we have an actual total of 29.0. That's an absolute error of 27.5 compared to a six month average of 13.2. This prediction was more accurate than 9.8% of my recent predictions.
 ## Projected Performances - Club Model
 
 
