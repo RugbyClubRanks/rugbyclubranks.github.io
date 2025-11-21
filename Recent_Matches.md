@@ -56,11 +56,11 @@ Last Two Week Error: 8.32 points per match
 
 Competition Accuracy: 9 of 10 (90.0%)
 
-Competition Error: 12.94 points per match
+Competition Error: 12.92 points per match
 
 Last Two Week Accuracy: 5 of 5 (100.0%)
 
-Last Two Week Error: 11.42 points per match
+Last Two Week Error: 11.4 points per match
 
 [2025/11/15 - Georgia V Canada, 38.0 to 17.0](reviews\2025-11-15-Georgia_V_Canada)
 
@@ -130,7 +130,7 @@ Last Two Week Error: 14.06 points per match
 
 [2025/11/14 - Chinnor V London Scottish, 22.0 to 20.0](reviews\2025-11-14-Chinnor_V_LondonScottish)
 
-[2025/11/14 - Richmond V Hartpury College RFC, 17.0 to 12.0](reviews\2025-11-14-Richmond_V_HartpuryCollege)
+[2025/11/14 - Richmond V Hartpury College, 17.0 to 12.0](reviews\2025-11-14-Richmond_V_HartpuryCollege)
 
 [2025/11/15 - Cornish Pirates V Cambridge, 52.0 to 0.0](reviews\2025-11-15-CornishPirates_V_Cambridge)
 

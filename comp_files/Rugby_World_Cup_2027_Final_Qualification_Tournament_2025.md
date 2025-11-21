@@ -1,6 +1,6 @@
 ---  
 title: "Rugby World Cup 2027 Final Qualification Tournament 2025"  
-date: 2025-11-20 6:00:00 -0500  
+date: 2025-11-21 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  

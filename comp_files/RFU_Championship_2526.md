@@ -1,6 +1,6 @@
 ---  
 title: "RFU Championship 25/26"  
-date: 2025-11-20 6:00:00 -0500  
+date: 2025-11-21 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -39,20 +39,20 @@ aside:
 
 | Club                |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:--------------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Ealing Trailfinders |        19 |           13.957 |                  180.953 |                           2.305 |                              |                         59.281 |
-| Bedford             |        19 |           11.409 |                   65.409 |                           3.574 |                              |                         50.854 |
-| Doncaster           |        19 |           10.863 |                   43.986 |                           3.882 |                              |                         49.216 |
-| Coventry            |        19 |           10.622 |                   40.642 |                           3.848 |                              |                         48.024 |
-| Hartpury College    |        19 |           10.005 |                   25.369 |                           4.34  |                              |                         46.168 |
-| Worcester Warriors  |        19 |            9.605 |                   21.88  |                           4.048 |                              |                         44.138 |
-| Cornish Pirates     |        19 |            9.461 |                    9.084 |                           4.249 |                              |                         43.751 |
-| Chinnor             |        19 |            9.123 |                    4.345 |                           4.458 |                              |                         42.638 |
-| Nottingham          |        19 |            7.857 |                  -32.998 |                           4.601 |                              |                         37.709 |
-| Ampthill            |        19 |            7.726 |                  -37.481 |                           4.857 |                              |                         37.495 |
-| Caldy               |        19 |            7.515 |                  -43.773 |                           4.965 |                              |                         36.829 |
-| Richmond            |        19 |            7.627 |                  -43.389 |                           4.395 |                              |                         36.673 |
-| London Scottish     |        19 |            6.63  |                  -70.636 |                           4.653 |                              |                         32.915 |
-| Cambridge           |        19 |            4.799 |                 -163.391 |                           3.766 |                              |                         24.25  |
+| Ealing Trailfinders |        19 |           13.925 |                  181.379 |                           2.305 |                              |                         59.207 |
+| Bedford             |        19 |           11.393 |                   67.045 |                           3.706 |                              |                         50.864 |
+| Doncaster           |        19 |           10.956 |                   46.836 |                           3.978 |                              |                         49.592 |
+| Coventry            |        19 |           10.608 |                   40.673 |                           3.891 |                              |                         48.007 |
+| Hartpury College    |        19 |            9.991 |                   24.438 |                           4.357 |                              |                         46.121 |
+| Worcester Warriors  |        19 |            9.555 |                   19.667 |                           4.036 |                              |                         43.974 |
+| Cornish Pirates     |        19 |            9.467 |                    9.403 |                           4.306 |                              |                         43.822 |
+| Chinnor             |        19 |            9.199 |                    3.502 |                           4.244 |                              |                         42.768 |
+| Ampthill            |        19 |            7.873 |                  -35.258 |                           4.748 |                              |                         38.054 |
+| Nottingham          |        19 |            7.834 |                  -31.341 |                           4.559 |                              |                         37.747 |
+| Caldy               |        19 |            7.452 |                  -46.434 |                           4.964 |                              |                         36.522 |
+| Richmond            |        19 |            7.566 |                  -45.174 |                           4.443 |                              |                         36.329 |
+| London Scottish     |        19 |            6.614 |                  -68.9   |                           4.706 |                              |                         32.82  |
+| Cambridge           |        19 |            4.797 |                 -165.836 |                           3.751 |                              |                         24.167 |
 
 
 
@@ -61,20 +61,20 @@ aside:
 
 | Club                |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Ealing Trailfinders |       26 | 20.957 |              407.953 |                 2.305 |                  6 |               93.281 |
-| Bedford             |       26 | 16.409 |              129.409 |                 4.574 |                  6 |               77.854 |
-| Worcester Warriors  |       26 | 14.605 |               90.88  |                 6.048 |                  5 |               71.138 |
-| Cornish Pirates     |       26 | 13.461 |               98.084 |                 6.249 |                  3 |               66.751 |
-| Coventry            |       26 | 13.622 |               59.642 |                 4.848 |                  5 |               66.024 |
-| Hartpury College    |       26 | 14.005 |               19.369 |                 5.34  |                  2 |               65.168 |
-| Doncaster           |       26 | 12.863 |               35.986 |                 5.882 |                  2 |               63.216 |
-| Nottingham          |       26 | 11.857 |               -6.998 |                 6.601 |                  6 |               61.709 |
-| Chinnor             |       26 | 13.123 |              -22.655 |                 6.458 |                  1 |               61.638 |
-| Caldy               |       26 | 11.515 |              -18.773 |                 6.965 |                  5 |               59.829 |
-| Richmond            |       26 | 10.627 |              -58.389 |                 6.395 |                  1 |               51.673 |
-| Ampthill            |       26 |  9.726 |             -213.481 |                 5.857 |                  3 |               49.495 |
-| London Scottish     |       26 |  7.63  |             -164.636 |                 5.653 |                  1 |               38.915 |
-| Cambridge           |       26 |  4.799 |             -356.391 |                 4.766 |                  3 |               28.25  |
+| Ealing Trailfinders |       26 | 20.925 |              408.379 |                 2.305 |                  6 |               93.207 |
+| Bedford             |       26 | 16.393 |              131.045 |                 4.706 |                  6 |               77.864 |
+| Worcester Warriors  |       26 | 14.555 |               88.667 |                 6.036 |                  5 |               70.974 |
+| Cornish Pirates     |       26 | 13.467 |               98.403 |                 6.306 |                  3 |               66.822 |
+| Coventry            |       26 | 13.608 |               59.673 |                 4.891 |                  5 |               66.007 |
+| Hartpury College    |       26 | 13.991 |               18.438 |                 5.357 |                  2 |               65.121 |
+| Doncaster           |       26 | 12.956 |               38.836 |                 5.978 |                  2 |               63.592 |
+| Chinnor             |       26 | 13.199 |              -23.498 |                 6.244 |                  1 |               61.768 |
+| Nottingham          |       26 | 11.834 |               -5.341 |                 6.559 |                  6 |               61.747 |
+| Caldy               |       26 | 11.452 |              -21.434 |                 6.964 |                  5 |               59.522 |
+| Richmond            |       26 | 10.566 |              -60.174 |                 6.443 |                  1 |               51.329 |
+| Ampthill            |       26 |  9.873 |             -211.258 |                 5.748 |                  3 |               50.054 |
+| London Scottish     |       26 |  7.614 |             -162.9   |                 5.706 |                  1 |               38.82  |
+| Cambridge           |       26 |  4.797 |             -358.836 |                 4.751 |                  3 |               28.167 |
 
 
 
@@ -83,7 +83,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 64.8% | 10.7 |
+| Club Level | 69.2% | 9.7 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -95,7 +95,7 @@ aside:
 ### Nottingham V Bedford on 2025/11/28
 
 
-Average Margin: Bedford by 2.9
+Average Margin: Bedford by 3.0
 
 <p float="left">
 <img src="plots\2025-11-28-Nottingham_V_Bedford_performances.png" width="32%" />
@@ -106,7 +106,7 @@ Average Margin: Bedford by 2.9
 ### Caldy V Chinnor on 2025/11/29
 
 
-Average Margin: Chinnor by 0.1
+Average Margin: Chinnor by 0.3
 
 <p float="left">
 <img src="plots\2025-11-29-Caldy_V_Chinnor_performances.png" width="32%" />
@@ -117,7 +117,7 @@ Average Margin: Chinnor by 0.1
 ### London Scottish V Ealing Trailfinders on 2025/11/29
 
 
-Average Margin: Ealing Trailfinders by 12.7
+Average Margin: Ealing Trailfinders by 12.0
 
 <p float="left">
 <img src="plots\2025-11-29-LondonScottish_V_EalingTrailfinders_performances.png" width="32%" />
@@ -128,7 +128,7 @@ Average Margin: Ealing Trailfinders by 12.7
 ### Ampthill V Hartpury College on 2025/11/29
 
 
-Average Margin: Hartpury College by 1.2
+Average Margin: Hartpury College by 0.8
 
 <p float="left">
 <img src="plots\2025-11-29-Ampthill_V_HartpuryCollege_performances.png" width="32%" />
@@ -139,7 +139,7 @@ Average Margin: Hartpury College by 1.2
 ### Cambridge V Worcester Warriors on 2025/11/29
 
 
-Average Margin: Worcester Warriors by 11.5
+Average Margin: Worcester Warriors by 11.8
 
 <p float="left">
 <img src="plots\2025-11-29-Cambridge_V_WorcesterWarriors_performances.png" width="32%" />
@@ -150,7 +150,7 @@ Average Margin: Worcester Warriors by 11.5
 ### Cornish Pirates V Richmond on 2025/11/29
 
 
-Average Margin: Cornish Pirates by 7.1
+Average Margin: Cornish Pirates by 6.7
 
 <p float="left">
 <img src="plots\2025-11-29-CornishPirates_V_Richmond_performances.png" width="32%" />
@@ -161,7 +161,7 @@ Average Margin: Cornish Pirates by 7.1
 ### Doncaster V Coventry on 2025/11/29
 
 
-Average Margin: Doncaster by 2.8
+Average Margin: Doncaster by 3.4
 
 <p float="left">
 <img src="plots\2025-11-29-Doncaster_V_Coventry_performances.png" width="32%" />
@@ -174,7 +174,7 @@ Average Margin: Doncaster by 2.8
 ### Chinnor V Nottingham on 2025/12/05
 
 
-Average Margin: Chinnor by 3.2
+Average Margin: Chinnor by 3.1
 
 <p float="left">
 <img src="plots\2025-12-05-Chinnor_V_Nottingham_performances.png" width="32%" />
@@ -185,7 +185,7 @@ Average Margin: Chinnor by 3.2
 ### Ealing Trailfinders V Caldy on 2025/12/06
 
 
-Average Margin: Ealing Trailfinders by 14.2
+Average Margin: Ealing Trailfinders by 15.0
 
 <p float="left">
 <img src="plots\2025-12-06-EalingTrailfinders_V_Caldy_performances.png" width="32%" />
@@ -196,7 +196,7 @@ Average Margin: Ealing Trailfinders by 14.2
 ### Richmond V Ampthill on 2025/12/06
 
 
-Average Margin: Richmond by 2.0
+Average Margin: Richmond by 2.1
 
 <p float="left">
 <img src="plots\2025-12-06-Richmond_V_Ampthill_performances.png" width="32%" />
@@ -207,7 +207,7 @@ Average Margin: Richmond by 2.0
 ### Coventry V London Scottish on 2025/12/06
 
 
-Average Margin: Coventry by 7.9
+Average Margin: Coventry by 8.1
 
 <p float="left">
 <img src="plots\2025-12-06-Coventry_V_LondonScottish_performances.png" width="32%" />
@@ -218,7 +218,7 @@ Average Margin: Coventry by 7.9
 ### Worcester Warriors V Cornish Pirates on 2025/12/06
 
 
-Average Margin: Worcester Warriors by 3.9
+Average Margin: Worcester Warriors by 2.8
 
 <p float="left">
 <img src="plots\2025-12-06-WorcesterWarriors_V_CornishPirates_performances.png" width="32%" />
@@ -229,7 +229,7 @@ Average Margin: Worcester Warriors by 3.9
 ### Bedford V Cambridge on 2025/12/06
 
 
-Average Margin: Bedford by 15.4
+Average Margin: Bedford by 15.7
 
 <p float="left">
 <img src="plots\2025-12-06-Bedford_V_Cambridge_performances.png" width="32%" />
@@ -240,7 +240,7 @@ Average Margin: Bedford by 15.4
 ### Hartpury College V Doncaster on 2025/12/06
 
 
-Average Margin: Hartpury College by 1.1
+Average Margin: Hartpury College by 0.9
 
 <p float="left">
 <img src="plots\2025-12-06-HartpuryCollege_V_Doncaster_performances.png" width="32%" />
@@ -253,7 +253,7 @@ Average Margin: Hartpury College by 1.1
 ### Cornish Pirates V Bedford on 2025/12/12
 
 
-Average Margin: Cornish Pirates by 0.2
+Average Margin: Cornish Pirates by 0.6
 
 <p float="left">
 <img src="plots\2025-12-12-CornishPirates_V_Bedford_performances.png" width="32%" />
@@ -264,7 +264,7 @@ Average Margin: Cornish Pirates by 0.2
 ### Nottingham V Ealing Trailfinders on 2025/12/12
 
 
-Average Margin: Ealing Trailfinders by 9.2
+Average Margin: Ealing Trailfinders by 8.7
 
 <p float="left">
 <img src="plots\2025-12-12-Nottingham_V_EalingTrailfinders_performances.png" width="32%" />
@@ -275,7 +275,7 @@ Average Margin: Ealing Trailfinders by 9.2
 ### Worcester Warriors V Richmond on 2025/12/13
 
 
-Average Margin: Worcester Warriors by 7.5
+Average Margin: Worcester Warriors by 7.1
 
 <p float="left">
 <img src="plots\2025-12-13-WorcesterWarriors_V_Richmond_performances.png" width="32%" />
@@ -286,7 +286,7 @@ Average Margin: Worcester Warriors by 7.5
 ### Doncaster V Ampthill on 2025/12/13
 
 
-Average Margin: Doncaster by 7.6
+Average Margin: Doncaster by 6.7
 
 <p float="left">
 <img src="plots\2025-12-13-Doncaster_V_Ampthill_performances.png" width="32%" />
@@ -297,7 +297,7 @@ Average Margin: Doncaster by 7.6
 ### London Scottish V Hartpury College on 2025/12/13
 
 
-Average Margin: Hartpury College by 2.5
+Average Margin: Hartpury College by 2.7
 
 <p float="left">
 <img src="plots\2025-12-13-LondonScottish_V_HartpuryCollege_performances.png" width="32%" />
@@ -308,7 +308,7 @@ Average Margin: Hartpury College by 2.5
 ### Caldy V Coventry on 2025/12/13
 
 
-Average Margin: Coventry by 2.2
+Average Margin: Coventry by 2.4
 
 <p float="left">
 <img src="plots\2025-12-13-Caldy_V_Coventry_performances.png" width="32%" />
@@ -319,7 +319,7 @@ Average Margin: Coventry by 2.2
 ### Cambridge V Chinnor on 2025/12/13
 
 
-Average Margin: Chinnor by 8.1
+Average Margin: Chinnor by 7.8
 
 <p float="left">
 <img src="plots\2025-12-13-Cambridge_V_Chinnor_performances.png" width="32%" />
@@ -332,7 +332,7 @@ Average Margin: Chinnor by 8.1
 ### Richmond V Doncaster on 2025/12/19
 
 
-Average Margin: Doncaster by 3.0
+Average Margin: Doncaster by 3.1
 
 <p float="left">
 <img src="plots\2025-12-19-Richmond_V_Doncaster_performances.png" width="32%" />
@@ -343,7 +343,7 @@ Average Margin: Doncaster by 3.0
 ### Ealing Trailfinders V Cambridge on 2025/12/20
 
 
-Average Margin: Ealing Trailfinders by 22.0
+Average Margin: Ealing Trailfinders by 22.1
 
 <p float="left">
 <img src="plots\2025-12-20-EalingTrailfinders_V_Cambridge_performances.png" width="32%" />
@@ -354,7 +354,7 @@ Average Margin: Ealing Trailfinders by 22.0
 ### Hartpury College V Caldy on 2025/12/20
 
 
-Average Margin: Hartpury College by 5.2
+Average Margin: Hartpury College by 5.4
 
 <p float="left">
 <img src="plots\2025-12-20-HartpuryCollege_V_Caldy_performances.png" width="32%" />
@@ -365,7 +365,7 @@ Average Margin: Hartpury College by 5.2
 ### Coventry V Nottingham on 2025/12/20
 
 
-Average Margin: Coventry by 5.8
+Average Margin: Coventry by 6.1
 
 <p float="left">
 <img src="plots\2025-12-20-Coventry_V_Nottingham_performances.png" width="32%" />
@@ -376,7 +376,7 @@ Average Margin: Coventry by 5.8
 ### Ampthill V London Scottish on 2025/12/20
 
 
-Average Margin: Ampthill by 3.1
+Average Margin: Ampthill by 3.0
 
 <p float="left">
 <img src="plots\2025-12-20-Ampthill_V_LondonScottish_performances.png" width="32%" />
@@ -387,7 +387,7 @@ Average Margin: Ampthill by 3.1
 ### Chinnor V Cornish Pirates on 2025/12/20
 
 
-Average Margin: Chinnor by 1.4
+Average Margin: Chinnor by 1.7
 
 <p float="left">
 <img src="plots\2025-12-20-Chinnor_V_CornishPirates_performances.png" width="32%" />
@@ -398,7 +398,7 @@ Average Margin: Chinnor by 1.4
 ### Bedford V Worcester Warriors on 2025/12/20
 
 
-Average Margin: Bedford by 4.4
+Average Margin: Bedford by 4.0
 
 <p float="left">
 <img src="plots\2025-12-20-Bedford_V_WorcesterWarriors_performances.png" width="32%" />
@@ -411,7 +411,7 @@ Average Margin: Bedford by 4.4
 ### Caldy V Ampthill on 2025/12/26
 
 
-Average Margin: Caldy by 2.5
+Average Margin: Caldy by 2.1
 
 <p float="left">
 <img src="plots\2025-12-26-Caldy_V_Ampthill_performances.png" width="32%" />
@@ -433,7 +433,7 @@ Average Margin: Nottingham by 0.1
 ### Cambridge V Coventry on 2025/12/26
 
 
-Average Margin: Coventry by 9.6
+Average Margin: Coventry by 10.1
 
 <p float="left">
 <img src="plots\2025-12-26-Cambridge_V_Coventry_performances.png" width="32%" />
@@ -444,7 +444,7 @@ Average Margin: Coventry by 9.6
 ### Bedford V Richmond on 2025/12/26
 
 
-Average Margin: Bedford by 8.5
+Average Margin: Bedford by 8.7
 
 <p float="left">
 <img src="plots\2025-12-26-Bedford_V_Richmond_performances.png" width="32%" />
@@ -455,7 +455,7 @@ Average Margin: Bedford by 8.5
 ### London Scottish V Doncaster on 2025/12/26
 
 
-Average Margin: Doncaster by 4.3
+Average Margin: Doncaster by 4.4
 
 <p float="left">
 <img src="plots\2025-12-26-LondonScottish_V_Doncaster_performances.png" width="32%" />
@@ -466,7 +466,7 @@ Average Margin: Doncaster by 4.3
 ### Worcester Warriors V Chinnor on 2025/12/26
 
 
-Average Margin: Worcester Warriors by 4.8
+Average Margin: Worcester Warriors by 5.4
 
 <p float="left">
 <img src="plots\2025-12-26-WorcesterWarriors_V_Chinnor_performances.png" width="32%" />
@@ -477,7 +477,7 @@ Average Margin: Worcester Warriors by 4.8
 ### Cornish Pirates V Ealing Trailfinders on 2025/12/26
 
 
-Average Margin: Ealing Trailfinders by 6.8
+Average Margin: Ealing Trailfinders by 6.9
 
 <p float="left">
 <img src="plots\2025-12-26-CornishPirates_V_EalingTrailfinders_performances.png" width="32%" />
@@ -490,7 +490,7 @@ Average Margin: Ealing Trailfinders by 6.8
 ### Coventry V Cornish Pirates on 2026/01/01
 
 
-Average Margin: Coventry by 2.7
+Average Margin: Coventry by 3.1
 
 <p float="left">
 <img src="plots\2026-01-01-Coventry_V_CornishPirates_performances.png" width="32%" />
@@ -501,7 +501,7 @@ Average Margin: Coventry by 2.7
 ### Ealing Trailfinders V Worcester Warriors on 2026/01/03
 
 
-Average Margin: Ealing Trailfinders by 10.1
+Average Margin: Ealing Trailfinders by 11.0
 
 <p float="left">
 <img src="plots\2026-01-03-EalingTrailfinders_V_WorcesterWarriors_performances.png" width="32%" />
@@ -512,7 +512,7 @@ Average Margin: Ealing Trailfinders by 10.1
 ### Chinnor V Bedford on 2026/01/03
 
 
-Average Margin: Bedford by 0.8
+Average Margin: Bedford by 1.6
 
 <p float="left">
 <img src="plots\2026-01-03-Chinnor_V_Bedford_performances.png" width="32%" />
@@ -523,7 +523,7 @@ Average Margin: Bedford by 0.8
 ### Hartpury College V Cambridge on 2026/01/03
 
 
-Average Margin: Hartpury College by 10.2
+Average Margin: Hartpury College by 10.6
 
 <p float="left">
 <img src="plots\2026-01-03-HartpuryCollege_V_Cambridge_performances.png" width="32%" />
@@ -534,7 +534,7 @@ Average Margin: Hartpury College by 10.2
 ### Doncaster V Caldy on 2026/01/03
 
 
-Average Margin: Doncaster by 5.3
+Average Margin: Doncaster by 5.9
 
 <p float="left">
 <img src="plots\2026-01-03-Doncaster_V_Caldy_performances.png" width="32%" />
@@ -545,7 +545,7 @@ Average Margin: Doncaster by 5.3
 ### Richmond V London Scottish on 2026/01/03
 
 
-Average Margin: Richmond by 3.0
+Average Margin: Richmond by 2.9
 
 <p float="left">
 <img src="plots\2026-01-03-Richmond_V_LondonScottish_performances.png" width="32%" />
@@ -556,7 +556,7 @@ Average Margin: Richmond by 3.0
 ### Ampthill V Nottingham on 2026/01/03
 
 
-Average Margin: Ampthill by 0.2
+Average Margin: Ampthill by 0.7
 
 <p float="left">
 <img src="plots\2026-01-03-Ampthill_V_Nottingham_performances.png" width="32%" />
@@ -569,7 +569,7 @@ Average Margin: Ampthill by 0.2
 ### Nottingham V London Scottish on 2026/01/24
 
 
-Average Margin: Nottingham by 4.0
+Average Margin: Nottingham by 4.3
 
 <p float="left">
 <img src="plots\2026-01-24-Nottingham_V_LondonScottish_performances.png" width="32%" />
@@ -580,7 +580,7 @@ Average Margin: Nottingham by 4.0
 ### Worcester Warriors V Hartpury College on 2026/01/24
 
 
-Average Margin: Worcester Warriors by 2.4
+Average Margin: Worcester Warriors by 2.6
 
 <p float="left">
 <img src="plots\2026-01-24-WorcesterWarriors_V_HartpuryCollege_performances.png" width="32%" />
@@ -591,7 +591,7 @@ Average Margin: Worcester Warriors by 2.4
 ### Richmond V Caldy on 2026/01/24
 
 
-Average Margin: Richmond by 2.0
+Average Margin: Richmond by 1.8
 
 <p float="left">
 <img src="plots\2026-01-24-Richmond_V_Caldy_performances.png" width="32%" />
@@ -602,7 +602,7 @@ Average Margin: Richmond by 2.0
 ### Bedford V Coventry on 2026/01/24
 
 
-Average Margin: Bedford by 3.7
+Average Margin: Bedford by 4.5
 
 <p float="left">
 <img src="plots\2026-01-24-Bedford_V_Coventry_performances.png" width="32%" />
@@ -613,7 +613,7 @@ Average Margin: Bedford by 3.7
 ### Chinnor V Ealing Trailfinders on 2026/01/24
 
 
-Average Margin: Ealing Trailfinders by 6.4
+Average Margin: Ealing Trailfinders by 6.8
 
 <p float="left">
 <img src="plots\2026-01-24-Chinnor_V_EalingTrailfinders_performances.png" width="32%" />
@@ -635,7 +635,7 @@ Average Margin: Doncaster by 8.2
 ### Cornish Pirates V Ampthill on 2026/01/24
 
 
-Average Margin: Cornish Pirates by 6.1
+Average Margin: Cornish Pirates by 5.9
 
 <p float="left">
 <img src="plots\2026-01-24-CornishPirates_V_Ampthill_performances.png" width="32%" />
@@ -648,7 +648,7 @@ Average Margin: Cornish Pirates by 6.1
 ### Hartpury College V Bedford on 2026/01/31
 
 
-Average Margin: Hartpury College by 0.6
+Average Margin: Bedford by 0.3
 
 <p float="left">
 <img src="plots\2026-01-31-HartpuryCollege_V_Bedford_performances.png" width="32%" />
@@ -659,7 +659,7 @@ Average Margin: Hartpury College by 0.6
 ### Caldy V Nottingham on 2026/01/31
 
 
-Average Margin: Caldy by 0.9
+Average Margin: Caldy by 0.7
 
 <p float="left">
 <img src="plots\2026-01-31-Caldy_V_Nottingham_performances.png" width="32%" />
@@ -670,7 +670,7 @@ Average Margin: Caldy by 0.9
 ### Doncaster V Cornish Pirates on 2026/01/31
 
 
-Average Margin: Doncaster by 3.2
+Average Margin: Doncaster by 3.0
 
 <p float="left">
 <img src="plots\2026-01-31-Doncaster_V_CornishPirates_performances.png" width="32%" />
@@ -681,7 +681,7 @@ Average Margin: Doncaster by 3.2
 ### Ealing Trailfinders V Richmond on 2026/01/31
 
 
-Average Margin: Ealing Trailfinders by 13.4
+Average Margin: Ealing Trailfinders by 11.9
 
 <p float="left">
 <img src="plots\2026-01-31-EalingTrailfinders_V_Richmond_performances.png" width="32%" />
@@ -692,7 +692,7 @@ Average Margin: Ealing Trailfinders by 13.4
 ### Coventry V Chinnor on 2026/01/31
 
 
-Average Margin: Coventry by 4.4
+Average Margin: Coventry by 5.0
 
 <p float="left">
 <img src="plots\2026-01-31-Coventry_V_Chinnor_performances.png" width="32%" />
@@ -703,7 +703,7 @@ Average Margin: Coventry by 4.4
 ### London Scottish V Cambridge on 2026/01/31
 
 
-Average Margin: London Scottish by 6.8
+Average Margin: London Scottish by 6.3
 
 <p float="left">
 <img src="plots\2026-01-31-LondonScottish_V_Cambridge_performances.png" width="32%" />
@@ -714,7 +714,7 @@ Average Margin: London Scottish by 6.8
 ### Ampthill V Worcester Warriors on 2026/01/31
 
 
-Average Margin: Worcester Warriors by 0.7
+Average Margin: Worcester Warriors by 0.9
 
 <p float="left">
 <img src="plots\2026-01-31-Ampthill_V_WorcesterWarriors_performances.png" width="32%" />
@@ -727,7 +727,7 @@ Average Margin: Worcester Warriors by 0.7
 ### Cornish Pirates V London Scottish on 2026/02/07
 
 
-Average Margin: Cornish Pirates by 6.6
+Average Margin: Cornish Pirates by 6.4
 
 <p float="left">
 <img src="plots\2026-02-07-CornishPirates_V_LondonScottish_performances.png" width="32%" />
@@ -738,7 +738,7 @@ Average Margin: Cornish Pirates by 6.6
 ### Richmond V Nottingham on 2026/02/07
 
 
-Average Margin: Richmond by 2.1
+Average Margin: Richmond by 1.7
 
 <p float="left">
 <img src="plots\2026-02-07-Richmond_V_Nottingham_performances.png" width="32%" />
@@ -749,7 +749,7 @@ Average Margin: Richmond by 2.1
 ### Cambridge V Caldy on 2026/02/07
 
 
-Average Margin: Caldy by 4.1
+Average Margin: Caldy by 4.8
 
 <p float="left">
 <img src="plots\2026-02-07-Cambridge_V_Caldy_performances.png" width="32%" />
@@ -760,7 +760,7 @@ Average Margin: Caldy by 4.1
 ### Ealing Trailfinders V Coventry on 2026/02/07
 
 
-Average Margin: Ealing Trailfinders by 9.2
+Average Margin: Ealing Trailfinders by 9.6
 
 <p float="left">
 <img src="plots\2026-02-07-EalingTrailfinders_V_Coventry_performances.png" width="32%" />
@@ -771,7 +771,7 @@ Average Margin: Ealing Trailfinders by 9.2
 ### Bedford V Ampthill on 2026/02/07
 
 
-Average Margin: Bedford by 6.8
+Average Margin: Bedford by 6.2
 
 <p float="left">
 <img src="plots\2026-02-07-Bedford_V_Ampthill_performances.png" width="32%" />
@@ -782,7 +782,7 @@ Average Margin: Bedford by 6.8
 ### Chinnor V Hartpury College on 2026/02/07
 
 
-Average Margin: Chinnor by 2.3
+Average Margin: Chinnor by 2.9
 
 <p float="left">
 <img src="plots\2026-02-07-Chinnor_V_HartpuryCollege_performances.png" width="32%" />
@@ -793,7 +793,7 @@ Average Margin: Chinnor by 2.3
 ### Worcester Warriors V Doncaster on 2026/02/07
 
 
-Average Margin: Worcester Warriors by 2.6
+Average Margin: Worcester Warriors by 1.9
 
 <p float="left">
 <img src="plots\2026-02-07-WorcesterWarriors_V_Doncaster_performances.png" width="32%" />
@@ -817,7 +817,7 @@ Average Margin: Ealing Trailfinders by 5.1
 ### Doncaster V Bedford on 2026/02/14
 
 
-Average Margin: Doncaster by 1.0
+Average Margin: Doncaster by 1.6
 
 <p float="left">
 <img src="plots\2026-02-14-Doncaster_V_Bedford_performances.png" width="32%" />
@@ -828,7 +828,7 @@ Average Margin: Doncaster by 1.0
 ### Ampthill V Chinnor on 2026/02/14
 
 
-Average Margin: Ampthill by 0.6
+Average Margin: Ampthill by 0.2
 
 <p float="left">
 <img src="plots\2026-02-14-Ampthill_V_Chinnor_performances.png" width="32%" />
@@ -839,7 +839,7 @@ Average Margin: Ampthill by 0.6
 ### London Scottish V Worcester Warriors on 2026/02/14
 
 
-Average Margin: Worcester Warriors by 2.6
+Average Margin: Worcester Warriors by 1.6
 
 <p float="left">
 <img src="plots\2026-02-14-LondonScottish_V_WorcesterWarriors_performances.png" width="32%" />
@@ -850,7 +850,7 @@ Average Margin: Worcester Warriors by 2.6
 ### Caldy V Cornish Pirates on 2026/02/14
 
 
-Average Margin: Cornish Pirates by 1.0
+Average Margin: Cornish Pirates by 0.9
 
 <p float="left">
 <img src="plots\2026-02-14-Caldy_V_CornishPirates_performances.png" width="32%" />
@@ -861,7 +861,7 @@ Average Margin: Cornish Pirates by 1.0
 ### Coventry V Richmond on 2026/02/14
 
 
-Average Margin: Coventry by 4.3
+Average Margin: Coventry by 5.6
 
 <p float="left">
 <img src="plots\2026-02-14-Coventry_V_Richmond_performances.png" width="32%" />
@@ -872,7 +872,7 @@ Average Margin: Coventry by 4.3
 ### Nottingham V Cambridge on 2026/02/14
 
 
-Average Margin: Nottingham by 8.5
+Average Margin: Nottingham by 8.4
 
 <p float="left">
 <img src="plots\2026-02-14-Nottingham_V_Cambridge_performances.png" width="32%" />
@@ -885,7 +885,7 @@ Average Margin: Nottingham by 8.5
 ### Richmond V Cambridge on 2026/02/21
 
 
-Average Margin: Richmond by 7.3
+Average Margin: Richmond by 7.4
 
 <p float="left">
 <img src="plots\2026-02-21-Richmond_V_Cambridge_performances.png" width="32%" />
@@ -896,7 +896,7 @@ Average Margin: Richmond by 7.3
 ### Bedford V London Scottish on 2026/02/21
 
 
-Average Margin: Bedford by 7.1
+Average Margin: Bedford by 7.4
 
 <p float="left">
 <img src="plots\2026-02-21-Bedford_V_LondonScottish_performances.png" width="32%" />
@@ -907,7 +907,7 @@ Average Margin: Bedford by 7.1
 ### Cornish Pirates V Nottingham on 2026/02/21
 
 
-Average Margin: Cornish Pirates by 5.2
+Average Margin: Cornish Pirates by 5.1
 
 <p float="left">
 <img src="plots\2026-02-21-CornishPirates_V_Nottingham_performances.png" width="32%" />
@@ -918,7 +918,7 @@ Average Margin: Cornish Pirates by 5.2
 ### Chinnor V Doncaster on 2026/02/21
 
 
-Average Margin: Chinnor by 0.7
+Average Margin: Chinnor by 0.6
 
 <p float="left">
 <img src="plots\2026-02-21-Chinnor_V_Doncaster_performances.png" width="32%" />
@@ -929,7 +929,7 @@ Average Margin: Chinnor by 0.7
 ### Ealing Trailfinders V Ampthill on 2026/02/21
 
 
-Average Margin: Ealing Trailfinders by 12.1
+Average Margin: Ealing Trailfinders by 12.6
 
 <p float="left">
 <img src="plots\2026-02-21-EalingTrailfinders_V_Ampthill_performances.png" width="32%" />
@@ -940,7 +940,7 @@ Average Margin: Ealing Trailfinders by 12.1
 ### Worcester Warriors V Caldy on 2026/02/21
 
 
-Average Margin: Worcester Warriors by 4.6
+Average Margin: Worcester Warriors by 4.3
 
 <p float="left">
 <img src="plots\2026-02-21-WorcesterWarriors_V_Caldy_performances.png" width="32%" />
@@ -951,7 +951,7 @@ Average Margin: Worcester Warriors by 4.6
 ### Coventry V Hartpury College on 2026/02/21
 
 
-Average Margin: Coventry by 3.3
+Average Margin: Coventry by 3.2
 
 <p float="left">
 <img src="plots\2026-02-21-Coventry_V_HartpuryCollege_performances.png" width="32%" />
@@ -964,7 +964,7 @@ Average Margin: Coventry by 3.3
 ### Cambridge V Cornish Pirates on 2026/02/28
 
 
-Average Margin: Cornish Pirates by 6.2
+Average Margin: Cornish Pirates by 6.0
 
 <p float="left">
 <img src="plots\2026-02-28-Cambridge_V_CornishPirates_performances.png" width="32%" />
@@ -975,7 +975,7 @@ Average Margin: Cornish Pirates by 6.2
 ### Ampthill V Coventry on 2026/02/28
 
 
-Average Margin: Coventry by 1.0
+Average Margin: Coventry by 0.7
 
 <p float="left">
 <img src="plots\2026-02-28-Ampthill_V_Coventry_performances.png" width="32%" />
@@ -986,7 +986,7 @@ Average Margin: Coventry by 1.0
 ### Caldy V Bedford on 2026/02/28
 
 
-Average Margin: Bedford by 2.6
+Average Margin: Bedford by 2.7
 
 <p float="left">
 <img src="plots\2026-02-28-Caldy_V_Bedford_performances.png" width="32%" />
@@ -997,7 +997,7 @@ Average Margin: Bedford by 2.6
 ### Doncaster V Ealing Trailfinders on 2026/02/28
 
 
-Average Margin: Ealing Trailfinders by 4.5
+Average Margin: Ealing Trailfinders by 4.3
 
 <p float="left">
 <img src="plots\2026-02-28-Doncaster_V_EalingTrailfinders_performances.png" width="32%" />
@@ -1008,7 +1008,7 @@ Average Margin: Ealing Trailfinders by 4.5
 ### Hartpury College V Richmond on 2026/02/28
 
 
-Average Margin: Hartpury College by 4.2
+Average Margin: Hartpury College by 4.5
 
 <p float="left">
 <img src="plots\2026-02-28-HartpuryCollege_V_Richmond_performances.png" width="32%" />
@@ -1019,7 +1019,7 @@ Average Margin: Hartpury College by 4.2
 ### London Scottish V Chinnor on 2026/02/28
 
 
-Average Margin: Chinnor by 0.7
+Average Margin: Chinnor by 1.1
 
 <p float="left">
 <img src="plots\2026-02-28-LondonScottish_V_Chinnor_performances.png" width="32%" />
@@ -1043,7 +1043,7 @@ Average Margin: Nottingham by 0.4
 ### Worcester Warriors V Cambridge on 2026/03/21
 
 
-Average Margin: Worcester Warriors by 8.0
+Average Margin: Worcester Warriors by 8.6
 
 <p float="left">
 <img src="plots\2026-03-21-WorcesterWarriors_V_Cambridge_performances.png" width="32%" />
@@ -1054,7 +1054,7 @@ Average Margin: Worcester Warriors by 8.0
 ### Hartpury College V Ampthill on 2026/03/21
 
 
-Average Margin: Hartpury College by 4.1
+Average Margin: Hartpury College by 4.7
 
 <p float="left">
 <img src="plots\2026-03-21-HartpuryCollege_V_Ampthill_performances.png" width="32%" />
@@ -1065,7 +1065,7 @@ Average Margin: Hartpury College by 4.1
 ### Ealing Trailfinders V London Scottish on 2026/03/21
 
 
-Average Margin: Ealing Trailfinders by 12.4
+Average Margin: Ealing Trailfinders by 11.9
 
 <p float="left">
 <img src="plots\2026-03-21-EalingTrailfinders_V_LondonScottish_performances.png" width="32%" />
@@ -1076,7 +1076,7 @@ Average Margin: Ealing Trailfinders by 12.4
 ### Richmond V Cornish Pirates on 2026/03/21
 
 
-Average Margin: Richmond by 0.2
+Average Margin: Richmond by 0.3
 
 <p float="left">
 <img src="plots\2026-03-21-Richmond_V_CornishPirates_performances.png" width="32%" />
@@ -1087,7 +1087,7 @@ Average Margin: Richmond by 0.2
 ### Chinnor V Caldy on 2026/03/21
 
 
-Average Margin: Chinnor by 2.6
+Average Margin: Chinnor by 3.0
 
 <p float="left">
 <img src="plots\2026-03-21-Chinnor_V_Caldy_performances.png" width="32%" />
@@ -1098,7 +1098,7 @@ Average Margin: Chinnor by 2.6
 ### Bedford V Nottingham on 2026/03/21
 
 
-Average Margin: Bedford by 5.4
+Average Margin: Bedford by 4.9
 
 <p float="left">
 <img src="plots\2026-03-21-Bedford_V_Nottingham_performances.png" width="32%" />
@@ -1109,7 +1109,7 @@ Average Margin: Bedford by 5.4
 ### Coventry V Doncaster on 2026/03/21
 
 
-Average Margin: Coventry by 2.1
+Average Margin: Coventry by 1.8
 
 <p float="left">
 <img src="plots\2026-03-21-Coventry_V_Doncaster_performances.png" width="32%" />
@@ -1133,7 +1133,7 @@ Average Margin: Cornish Pirates by 3.0
 ### Nottingham V Chinnor on 2026/03/28
 
 
-Average Margin: Nottingham by 1.8
+Average Margin: Nottingham by 2.0
 
 <p float="left">
 <img src="plots\2026-03-28-Nottingham_V_Chinnor_performances.png" width="32%" />
@@ -1144,7 +1144,7 @@ Average Margin: Nottingham by 1.8
 ### Doncaster V Hartpury College on 2026/03/28
 
 
-Average Margin: Doncaster by 3.7
+Average Margin: Doncaster by 3.6
 
 <p float="left">
 <img src="plots\2026-03-28-Doncaster_V_HartpuryCollege_performances.png" width="32%" />
@@ -1155,7 +1155,7 @@ Average Margin: Doncaster by 3.7
 ### Ampthill V Richmond on 2026/03/28
 
 
-Average Margin: Ampthill by 1.8
+Average Margin: Ampthill by 2.3
 
 <p float="left">
 <img src="plots\2026-03-28-Ampthill_V_Richmond_performances.png" width="32%" />
@@ -1166,7 +1166,7 @@ Average Margin: Ampthill by 1.8
 ### London Scottish V Coventry on 2026/03/28
 
 
-Average Margin: Coventry by 1.1
+Average Margin: Coventry by 1.4
 
 <p float="left">
 <img src="plots\2026-03-28-LondonScottish_V_Coventry_performances.png" width="32%" />
@@ -1177,7 +1177,7 @@ Average Margin: Coventry by 1.1
 ### Caldy V Ealing Trailfinders on 2026/03/28
 
 
-Average Margin: Ealing Trailfinders by 6.1
+Average Margin: Ealing Trailfinders by 6.2
 
 <p float="left">
 <img src="plots\2026-03-28-Caldy_V_EalingTrailfinders_performances.png" width="32%" />
@@ -1188,7 +1188,7 @@ Average Margin: Ealing Trailfinders by 6.1
 ### Cambridge V Bedford on 2026/03/28
 
 
-Average Margin: Bedford by 6.6
+Average Margin: Bedford by 6.3
 
 <p float="left">
 <img src="plots\2026-03-28-Cambridge_V_Bedford_performances.png" width="32%" />
@@ -1201,7 +1201,7 @@ Average Margin: Bedford by 6.6
 ### Ampthill V Doncaster on 2026/04/04
 
 
-Average Margin: Doncaster by 0.8
+Average Margin: Doncaster by 1.1
 
 <p float="left">
 <img src="plots\2026-04-04-Ampthill_V_Doncaster_performances.png" width="32%" />
@@ -1212,7 +1212,7 @@ Average Margin: Doncaster by 0.8
 ### Coventry V Caldy on 2026/04/04
 
 
-Average Margin: Coventry by 4.3
+Average Margin: Coventry by 4.1
 
 <p float="left">
 <img src="plots\2026-04-04-Coventry_V_Caldy_performances.png" width="32%" />
@@ -1223,7 +1223,7 @@ Average Margin: Coventry by 4.3
 ### Bedford V Cornish Pirates on 2026/04/04
 
 
-Average Margin: Bedford by 4.0
+Average Margin: Bedford by 3.6
 
 <p float="left">
 <img src="plots\2026-04-04-Bedford_V_CornishPirates_performances.png" width="32%" />
@@ -1234,7 +1234,7 @@ Average Margin: Bedford by 4.0
 ### Ealing Trailfinders V Nottingham on 2026/04/04
 
 
-Average Margin: Ealing Trailfinders by 9.6
+Average Margin: Ealing Trailfinders by 9.5
 
 <p float="left">
 <img src="plots\2026-04-04-EalingTrailfinders_V_Nottingham_performances.png" width="32%" />
@@ -1245,7 +1245,7 @@ Average Margin: Ealing Trailfinders by 9.6
 ### Chinnor V Cambridge on 2026/04/04
 
 
-Average Margin: Chinnor by 6.6
+Average Margin: Chinnor by 7.2
 
 <p float="left">
 <img src="plots\2026-04-04-Chinnor_V_Cambridge_performances.png" width="32%" />
@@ -1256,7 +1256,7 @@ Average Margin: Chinnor by 6.6
 ### Hartpury College V London Scottish on 2026/04/04
 
 
-Average Margin: Hartpury College by 5.6
+Average Margin: Hartpury College by 4.6
 
 <p float="left">
 <img src="plots\2026-04-04-HartpuryCollege_V_LondonScottish_performances.png" width="32%" />
@@ -1267,7 +1267,7 @@ Average Margin: Hartpury College by 5.6
 ### Richmond V Worcester Warriors on 2026/04/04
 
 
-Average Margin: Richmond by 0.6
+Average Margin: Richmond by 0.2
 
 <p float="left">
 <img src="plots\2026-04-04-Richmond_V_WorcesterWarriors_performances.png" width="32%" />
@@ -1280,7 +1280,7 @@ Average Margin: Richmond by 0.6
 ### London Scottish V Ampthill on 2026/04/11
 
 
-Average Margin: London Scottish by 0.9
+Average Margin: London Scottish by 0.7
 
 <p float="left">
 <img src="plots\2026-04-11-LondonScottish_V_Ampthill_performances.png" width="32%" />
@@ -1291,7 +1291,7 @@ Average Margin: London Scottish by 0.9
 ### Cornish Pirates V Chinnor on 2026/04/11
 
 
-Average Margin: Cornish Pirates by 3.9
+Average Margin: Cornish Pirates by 3.6
 
 <p float="left">
 <img src="plots\2026-04-11-CornishPirates_V_Chinnor_performances.png" width="32%" />
@@ -1302,7 +1302,7 @@ Average Margin: Cornish Pirates by 3.9
 ### Nottingham V Coventry on 2026/04/11
 
 
-Average Margin: Nottingham by 1.4
+Average Margin: Nottingham by 1.3
 
 <p float="left">
 <img src="plots\2026-04-11-Nottingham_V_Coventry_performances.png" width="32%" />
@@ -1313,7 +1313,7 @@ Average Margin: Nottingham by 1.4
 ### Cambridge V Ealing Trailfinders on 2026/04/11
 
 
-Average Margin: Ealing Trailfinders by 9.4
+Average Margin: Ealing Trailfinders by 9.6
 
 <p float="left">
 <img src="plots\2026-04-11-Cambridge_V_EalingTrailfinders_performances.png" width="32%" />
@@ -1324,7 +1324,7 @@ Average Margin: Ealing Trailfinders by 9.4
 ### Worcester Warriors V Bedford on 2026/04/11
 
 
-Average Margin: Worcester Warriors by 0.6
+Average Margin: Bedford by 0.0
 
 <p float="left">
 <img src="plots\2026-04-11-WorcesterWarriors_V_Bedford_performances.png" width="32%" />
@@ -1335,7 +1335,7 @@ Average Margin: Worcester Warriors by 0.6
 ### Doncaster V Richmond on 2026/04/11
 
 
-Average Margin: Doncaster by 5.6
+Average Margin: Doncaster by 5.2
 
 <p float="left">
 <img src="plots\2026-04-11-Doncaster_V_Richmond_performances.png" width="32%" />
@@ -1359,7 +1359,7 @@ Average Margin: Caldy by 0.3
 ### Ealing Trailfinders V Cornish Pirates on 2026/04/18
 
 
-Average Margin: Ealing Trailfinders by 8.9
+Average Margin: Ealing Trailfinders by 8.6
 
 <p float="left">
 <img src="plots\2026-04-18-EalingTrailfinders_V_CornishPirates_performances.png" width="32%" />
@@ -1392,7 +1392,7 @@ Average Margin: Ampthill by 1.3
 ### Coventry V Cambridge on 2026/04/18
 
 
-Average Margin: Coventry by 8.3
+Average Margin: Coventry by 8.0
 
 <p float="left">
 <img src="plots\2026-04-18-Coventry_V_Cambridge_performances.png" width="32%" />
@@ -1403,7 +1403,7 @@ Average Margin: Coventry by 8.3
 ### Doncaster V London Scottish on 2026/04/18
 
 
-Average Margin: Doncaster by 5.8
+Average Margin: Doncaster by 5.9
 
 <p float="left">
 <img src="plots\2026-04-18-Doncaster_V_LondonScottish_performances.png" width="32%" />
@@ -1425,7 +1425,7 @@ Average Margin: Hartpury College by 4.1
 ### Richmond V Bedford on 2026/04/18
 
 
-Average Margin: Bedford by 1.4
+Average Margin: Bedford by 2.0
 
 <p float="left">
 <img src="plots\2026-04-18-Richmond_V_Bedford_performances.png" width="32%" />
@@ -1438,7 +1438,7 @@ Average Margin: Bedford by 1.4
 ### Bedford V Chinnor on 2026/05/02
 
 
-Average Margin: Bedford by 4.4
+Average Margin: Bedford by 4.7
 
 <p float="left">
 <img src="plots\2026-05-02-Bedford_V_Chinnor_performances.png" width="32%" />
@@ -1449,7 +1449,7 @@ Average Margin: Bedford by 4.4
 ### Cambridge V Hartpury College on 2026/05/02
 
 
-Average Margin: Hartpury College by 2.2
+Average Margin: Hartpury College by 2.3
 
 <p float="left">
 <img src="plots\2026-05-02-Cambridge_V_HartpuryCollege_performances.png" width="32%" />
@@ -1460,7 +1460,7 @@ Average Margin: Hartpury College by 2.2
 ### Cornish Pirates V Coventry on 2026/05/02
 
 
-Average Margin: Cornish Pirates by 2.8
+Average Margin: Cornish Pirates by 3.1
 
 <p float="left">
 <img src="plots\2026-05-02-CornishPirates_V_Coventry_performances.png" width="32%" />
@@ -1471,7 +1471,7 @@ Average Margin: Cornish Pirates by 2.8
 ### Caldy V Doncaster on 2026/05/02
 
 
-Average Margin: Caldy by 0.2
+Average Margin: Doncaster by 0.5
 
 <p float="left">
 <img src="plots\2026-05-02-Caldy_V_Doncaster_performances.png" width="32%" />
@@ -1482,7 +1482,7 @@ Average Margin: Caldy by 0.2
 ### London Scottish V Richmond on 2026/05/02
 
 
-Average Margin: London Scottish by 0.8
+Average Margin: London Scottish by 1.5
 
 <p float="left">
 <img src="plots\2026-05-02-LondonScottish_V_Richmond_performances.png" width="32%" />
@@ -1493,7 +1493,7 @@ Average Margin: London Scottish by 0.8
 ### Worcester Warriors V Ealing Trailfinders on 2026/05/02
 
 
-Average Margin: Ealing Trailfinders by 2.6
+Average Margin: Ealing Trailfinders by 3.1
 
 <p float="left">
 <img src="plots\2026-05-02-WorcesterWarriors_V_EalingTrailfinders_performances.png" width="32%" />
@@ -1514,21 +1514,21 @@ Average Margin: Nottingham by 3.3
 
 ## Week 26
 
-### Hartpury College V Cornish Pirates on 2026/05/09
+### Ampthill V Cambridge on 2026/05/09
 
 
-Average Margin: Hartpury College by 1.7
+Average Margin: Ampthill by 4.9
 
 <p float="left">
-<img src="plots\2026-05-09-HartpuryCollege_V_CornishPirates_performances.png" width="32%" />
-<img src="plots\2026-05-09-HartpuryCollege_V_CornishPirates_resultbar.png" width="32%" />
-<img src="plots\2026-05-09-HartpuryCollege_V_CornishPirates_spreads.png" width="32%" />
+<img src="plots\2026-05-09-Ampthill_V_Cambridge_performances.png" width="32%" />
+<img src="plots\2026-05-09-Ampthill_V_Cambridge_resultbar.png" width="32%" />
+<img src="plots\2026-05-09-Ampthill_V_Cambridge_spreads.png" width="32%" />
 </p>
 
 ### Chinnor V Richmond on 2026/05/09
 
 
-Average Margin: Chinnor by 3.1
+Average Margin: Chinnor by 2.9
 
 <p float="left">
 <img src="plots\2026-05-09-Chinnor_V_Richmond_performances.png" width="32%" />
@@ -1539,7 +1539,7 @@ Average Margin: Chinnor by 3.1
 ### Coventry V Worcester Warriors on 2026/05/09
 
 
-Average Margin: Coventry by 3.6
+Average Margin: Coventry by 3.1
 
 <p float="left">
 <img src="plots\2026-05-09-Coventry_V_WorcesterWarriors_performances.png" width="32%" />
@@ -1550,7 +1550,7 @@ Average Margin: Coventry by 3.6
 ### Doncaster V Nottingham on 2026/05/09
 
 
-Average Margin: Doncaster by 3.8
+Average Margin: Doncaster by 3.7
 
 <p float="left">
 <img src="plots\2026-05-09-Doncaster_V_Nottingham_performances.png" width="32%" />
@@ -1561,7 +1561,7 @@ Average Margin: Doncaster by 3.8
 ### Ealing Trailfinders V Bedford on 2026/05/09
 
 
-Average Margin: Ealing Trailfinders by 6.3
+Average Margin: Ealing Trailfinders by 6.4
 
 <p float="left">
 <img src="plots\2026-05-09-EalingTrailfinders_V_Bedford_performances.png" width="32%" />
@@ -1580,13 +1580,13 @@ Average Margin: London Scottish by 0.3
 <img src="plots\2026-05-09-LondonScottish_V_Caldy_spreads.png" width="32%" />
 </p>
 
-### Ampthill V Cambridge on 2026/05/09
+### Hartpury College V Cornish Pirates on 2026/05/09
 
 
-Average Margin: Ampthill by 4.5
+Average Margin: Hartpury College by 1.9
 
 <p float="left">
-<img src="plots\2026-05-09-Ampthill_V_Cambridge_performances.png" width="32%" />
-<img src="plots\2026-05-09-Ampthill_V_Cambridge_resultbar.png" width="32%" />
-<img src="plots\2026-05-09-Ampthill_V_Cambridge_spreads.png" width="32%" />
+<img src="plots\2026-05-09-HartpuryCollege_V_CornishPirates_performances.png" width="32%" />
+<img src="plots\2026-05-09-HartpuryCollege_V_CornishPirates_resultbar.png" width="32%" />
+<img src="plots\2026-05-09-HartpuryCollege_V_CornishPirates_spreads.png" width="32%" />
 </p>

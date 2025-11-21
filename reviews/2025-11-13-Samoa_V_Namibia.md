@@ -9,9 +9,9 @@ categories: "Rugby World Cup 2027 Final Qualification Tournament 2025" match pro
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Samoa to win by 5.15, and Samoa won by 18.0. That's an absolute error of 12.8 for the margin of victory, while my average absolute error has been 13.8 over the past six months. This prediction was more accurate than 39.9% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Samoa to win by 5.52, and Samoa won by 18.0. That's an absolute error of 12.5 for the margin of victory, while my average absolute error has been 13.8 over the past six months. This prediction was more accurate than 41.9% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 47.5 and we have an actual total of 34.0. That's an absolute error of 13.5 compared to a six month average of 13.2. This prediction was more accurate than 39.8% of my recent predictions.
+For the Over/Under model, I predicted a total of 47.5 and we have an actual total of 34.0. That's an absolute error of 13.5 compared to a six month average of 13.0. This prediction was more accurate than 39.2% of my recent predictions.
 ## Projected Performances - Club Model
 
 

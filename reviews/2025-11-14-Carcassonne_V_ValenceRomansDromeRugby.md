@@ -9,9 +9,9 @@ categories: "Pro D2 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Carcassonne to win by 1.57, and Valence Romans Drome Rugby won by 4.0. That's an absolute error of 5.6 for the margin of victory, while my average absolute error has been 13.8 over the past six months. This prediction was more accurate than 71.0% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Carcassonne to win by 2.02, and Valence Romans Drome Rugby won by 4.0. That's an absolute error of 6.0 for the margin of victory, while my average absolute error has been 13.8 over the past six months. This prediction was more accurate than 69.3% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 47.5 and we have an actual total of 60.0. That's an absolute error of 12.5 compared to a six month average of 13.2. This prediction was more accurate than 43.0% of my recent predictions.
+For the Over/Under model, I predicted a total of 46.5 and we have an actual total of 60.0. That's an absolute error of 13.5 compared to a six month average of 13.0. This prediction was more accurate than 39.2% of my recent predictions.
 ## Projected Performances - Club Model
 
 
