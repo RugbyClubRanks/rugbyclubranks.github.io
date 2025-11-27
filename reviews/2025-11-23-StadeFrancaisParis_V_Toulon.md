@@ -9,9 +9,9 @@ categories: "Top 14 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Stade Francais Paris to win by 1.82, and Stade Francais Paris won by 27.0. That's an absolute error of 25.2 for the margin of victory, while my average absolute error has been 13.7 over the past six months. This prediction was more accurate than 15.8% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Stade Francais Paris to win by 2.19, and Stade Francais Paris won by 27.0. That's an absolute error of 24.8 for the margin of victory, while my average absolute error has been 13.8 over the past six months. This prediction was more accurate than 16.2% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 47.5 and we have an actual total of 75.0. That's an absolute error of 27.5 compared to a six month average of 13.0. This prediction was more accurate than 9.3% of my recent predictions.
+For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 75.0. That's an absolute error of 26.5 compared to a six month average of 13.1. This prediction was more accurate than 11.0% of my recent predictions.
 ## Projected Performances - Club Model
 
 

@@ -14,9 +14,9 @@ Competition Accuracy: 68 of 97 (70.1%)
 
 Competition Error: 18.68 points per match
 
-Last Two Week Accuracy: 11 of 12 (91.67%)
+Last Two Week Accuracy: 6 of 6 (100.0%)
 
-Last Two Week Error: 9.37 points per match
+Last Two Week Error: 10.94 points per match
 
 [2025/11/22 - France V Australia, 48.0 to 33.0](reviews\2025-11-22-France_V_Australia)
 
@@ -38,9 +38,9 @@ Competition Accuracy: 5 of 6 (83.33%)
 
 Competition Error: 9.73 points per match
 
-Last Two Week Accuracy: 3 of 4 (75.0%)
+Last Two Week Accuracy: 1 of 2 (50.0%)
 
-Last Two Week Error: 8.32 points per match
+Last Two Week Error: 2.89 points per match
 
 [2025/11/18 - Namibia V Brazil, 40.0 to 31.0](reviews\2025-11-18-Namibia_V_Brazil)
 
@@ -54,9 +54,9 @@ Competition Accuracy: 12 of 14 (85.71%)
 
 Competition Error: 10.5 points per match
 
-Last Two Week Accuracy: 8 of 9 (88.89%)
+Last Two Week Accuracy: 3 of 4 (75.0%)
 
-Last Two Week Error: 8.31 points per match
+Last Two Week Error: 4.45 points per match
 
 [2025/11/22 - Georgia V Japan, 23.0 to 25.0](reviews\2025-11-22-Georgia_V_Japan)
 
@@ -76,15 +76,15 @@ Competition Accuracy: 12 of 20 (60.0%)
 
 Competition Error: 14.64 points per match
 
-Last Two Week Accuracy: 6 of 8 (75.0%)
+Last Two Week Accuracy: 4 of 4 (100.0%)
 
-Last Two Week Error: 16.9 points per match
+Last Two Week Error: 10.26 points per match
 
 [2025/11/21 - Leicester Tigers V Northampton Saints, 34.0 to 22.0](reviews\2025-11-21-LeicesterTigers_V_NorthamptonSaints)
 
 [2025/11/22 - Bath Rugby V Sale Sharks, 20.0 to 0.0](reviews\2025-11-22-BathRugby_V_SaleSharks)
 
-[2025/11/22 - Exeter Chiefs V Bristol Rugby, 22.0 to 17.0](reviews\2025-11-22-ExeterChiefs_V_BristolRugby)
+[2025/11/22 - Exeter Chiefs V Bristol Bears, 22.0 to 17.0](reviews\2025-11-22-ExeterChiefs_V_BristolRugby)
 
 [2025/11/22 - Saracens V Newcastle Falcons, 43.0 to 0.0](reviews\2025-11-22-Saracens_V_NewcastleFalcons)
 ## Top 14
@@ -124,9 +124,9 @@ Competition Accuracy: 60 of 84 (71.43%)
 
 Competition Error: 7.94 points per match
 
-Last Two Week Accuracy: 12 of 14 (85.71%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 5.47 points per match
+Last Two Week Error: 3.79 points per match
 
 [2025/11/21 - Massy V US Bressane, 26.0 to 19.0](reviews\2025-11-21-Massy_V_USBressane)
 
