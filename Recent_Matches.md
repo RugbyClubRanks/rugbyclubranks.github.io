@@ -52,7 +52,7 @@ Last Two Week Error: 2.89 points per match
 
 Competition Accuracy: 12 of 14 (85.71%)
 
-Competition Error: 10.5 points per match
+Competition Error: 10.49 points per match
 
 Last Two Week Accuracy: 3 of 4 (75.0%)
 
@@ -141,3 +141,17 @@ Last Two Week Error: 3.79 points per match
 [2025/11/22 - PÃ©rigueux V Narbonne, 25.0 to 20.0](reviews\2025-11-22-Perigueux_V_Narbonne)
 
 [2025/11/22 - Rennes V Tarbes, 10.0 to 6.0](reviews\2025-11-22-Rennes_V_Tarbes)
+## Pro D2
+
+
+[In depth model review and projections for Pro D2 25/26](comp_files/Pro_D2_2526)
+
+Competition Accuracy: 62 of 89 (69.66%)
+
+Competition Error: 15.08 points per match
+
+Last Two Week Accuracy: 1 of 1 (100.0%)
+
+Last Two Week Error: 6.02 points per match
+
+[2025/11/27 - Brive V Colomiers, 27.0 to 18.0](reviews\2025-11-27-Brive_V_Colomiers)

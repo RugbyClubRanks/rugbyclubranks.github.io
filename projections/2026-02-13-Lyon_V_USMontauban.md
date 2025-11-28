@@ -9,7 +9,7 @@ categories: "Top 14 25/26" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Lyon to win by 8.43.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Lyon to win by 8.2.
 
 Our Over/Under is 57.5 - and combined with the spread above, we have a predicted scoreline of 33 to 25
 
