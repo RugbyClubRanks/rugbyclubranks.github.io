@@ -10,148 +10,166 @@ key: page-recents
 
 [In depth model review and projections for International Test Match 2025](comp_files/International_Test_Match_2025)
 
-Competition Accuracy: 68 of 97 (70.1%)
+Competition Accuracy: 69 of 98 (70.41%)
 
-Competition Error: 18.68 points per match
+Competition Error: 19.06 points per match
 
-Last Two Week Accuracy: 6 of 6 (100.0%)
+Last Two Week Accuracy: 7 of 7 (100.0%)
 
-Last Two Week Error: 10.94 points per match
+Last Two Week Error: 17.35 points per match
 
-[2025/11/22 - France V Australia, 48.0 to 33.0](reviews\2025-11-22-France_V_Australia)
-
-[2025/11/22 - Ireland V South Africa, 13.0 to 24.0](reviews\2025-11-22-Ireland_V_SouthAfrica)
-
-[2025/11/22 - Italy V Chile, 34.0 to 19.0](reviews\2025-11-22-Italy_V_Chile)
-
-[2025/11/22 - Wales V New Zealand, 26.0 to 52.0](reviews\2025-11-22-Wales_V_NewZealand)
-
-[2025/11/23 - England V Argentina, 27.0 to 23.0](reviews\2025-11-23-England_V_Argentina)
-
-[2025/11/23 - Scotland V Tonga, 56.0 to 0.0](reviews\2025-11-23-Scotland_V_Tonga)
-## Rugby World Cup 2027 Final Qualification Tournament
-
-
-[In depth model review and projections for Rugby World Cup 2027 Final Qualification Tournament 2025](comp_files/Rugby_World_Cup_2027_Final_Qualification_Tournament_2025)
-
-Competition Accuracy: 5 of 6 (83.33%)
-
-Competition Error: 9.73 points per match
-
-Last Two Week Accuracy: 1 of 2 (50.0%)
-
-Last Two Week Error: 2.89 points per match
-
-[2025/11/18 - Namibia V Brazil, 40.0 to 31.0](reviews\2025-11-18-Namibia_V_Brazil)
-
-[2025/11/18 - Samoa V Belgium, 13.0 to 13.0](reviews\2025-11-18-Samoa_V_Belgium)
-## Test Matchs
-
-
-[In depth model review and projections for Test Matchs 2025](comp_files/Test_Matchs_2025)
-
-Competition Accuracy: 12 of 14 (85.71%)
-
-Competition Error: 10.49 points per match
-
-Last Two Week Accuracy: 3 of 4 (75.0%)
-
-Last Two Week Error: 4.45 points per match
-
-[2025/11/22 - Georgia V Japan, 23.0 to 25.0](reviews\2025-11-22-Georgia_V_Japan)
-
-[2025/11/22 - Portugal V Canada, 33.0 to 27.0](reviews\2025-11-22-Portugal_V_Canada)
-
-[2025/11/22 - Romania V Uruguay, 21.0 to 31.0](reviews\2025-11-22-Romania_V_Uruguay)
-
-[2025/11/22 - Spain V Fiji, 33.0 to 41.0](reviews\2025-11-22-Spain_V_Fiji)
+[2025/11/29 - Wales V South Africa, 0.0 to 73.0](reviews\2025-11-29-Wales_V_SouthAfrica)
 # Top Flight Competitions
 
-## Premiership Rugby Cup
+## Gallagher Premiership
 
 
-[In depth model review and projections for Premiership Rugby Cup 25/26](comp_files/Premiership_Rugby_Cup_2526)
+[In depth model review and projections for Gallagher Premiership 25/26](comp_files/Gallagher_Premiership_2526)
 
-Competition Accuracy: 12 of 20 (60.0%)
+Competition Accuracy: 26 of 30 (86.67%)
 
-Competition Error: 14.64 points per match
+Competition Error: 13.72 points per match
 
-Last Two Week Accuracy: 4 of 4 (100.0%)
+Last Two Week Accuracy: 4 of 5 (80.0%)
 
-Last Two Week Error: 10.26 points per match
+Last Two Week Error: 12.94 points per match
 
-[2025/11/21 - Leicester Tigers V Northampton Saints, 34.0 to 22.0](reviews\2025-11-21-LeicesterTigers_V_NorthamptonSaints)
+[2025/11/28 - Newcastle Falcons V Leicester Tigers, 17.0 to 39.0](reviews\2025-11-28-NewcastleFalcons_V_LeicesterTigers)
 
-[2025/11/22 - Bath Rugby V Sale Sharks, 20.0 to 0.0](reviews\2025-11-22-BathRugby_V_SaleSharks)
+[2025/11/28 - Sale Sharks V Exeter Chiefs, 26.0 to 27.0](reviews\2025-11-28-SaleSharks_V_ExeterChiefs)
 
-[2025/11/22 - Exeter Chiefs V Bristol Bears, 22.0 to 17.0](reviews\2025-11-22-ExeterChiefs_V_BristolRugby)
+[2025/11/30 - Saracens V Bath Rugby, 29.0 to 36.0](reviews\2025-11-30-Saracens_V_BathRugby)
 
-[2025/11/22 - Saracens V Newcastle Falcons, 43.0 to 0.0](reviews\2025-11-22-Saracens_V_NewcastleFalcons)
+[2025/11/29 - Gloucester Rugby V Harlequins, 26.0 to 15.0](reviews\2025-11-29-GloucesterRugby_V_Harlequins)
+
+[2025/11/29 - Bristol Rugby V Northampton Saints, 46.0 to 12.0](reviews\2025-11-29-BristolRugby_V_NorthamptonSaints)
+## United Rugby Championship
+
+
+[In depth model review and projections for United Rugby Championship 25/26](comp_files/United_Rugby_Championship_2526)
+
+Competition Accuracy: 33 of 47 (70.21%)
+
+Competition Error: 12.27 points per match
+
+Last Two Week Accuracy: 5 of 8 (62.5%)
+
+Last Two Week Error: 15.98 points per match
+
+[2025/11/29 - Scarlets V Glasgow Warriors, 23.0 to 0.0](reviews\2025-11-29-Scarlets_V_GlasgowWarriors)
+
+[2025/11/29 - Munster V Stormers, 21.0 to 27.0](reviews\2025-11-29-Munster_V_Stormers)
+
+[2025/11/29 - Edinburgh V Ospreys, 19.0 to 17.0](reviews\2025-11-29-Edinburgh_V_Ospreys)
+
+[2025/11/29 - Connacht V Sharks, 44.0 to 17.0](reviews\2025-11-29-Connacht_V_Sharks)
+
+[2025/11/29 - Bulls V Lions, 33.0 to 43.0](reviews\2025-11-29-Bulls_V_Lions)
+
+[2025/11/28 - Ulster V Benetton Treviso, 47.0 to 13.0](reviews\2025-11-28-Ulster_V_BenettonTreviso)
+
+[2025/11/28 - Dragons V Leinster, 10.0 to 24.0](reviews\2025-11-28-Dragons_V_Leinster)
+
+[2025/11/29 - Zebre V Cardiff Rugby, 14.0 to 29.0](reviews\2025-11-29-Zebre_V_CardiffRugby)
 ## Top 14
 
 
 [In depth model review and projections for Top 14 25/26](comp_files/Top_14_2526)
 
-Competition Accuracy: 55 of 71 (77.46%)
+Competition Accuracy: 62 of 78 (79.49%)
 
-Competition Error: 13.79 points per match
+Competition Error: 13.15 points per match
 
-Last Two Week Accuracy: 5 of 7 (71.43%)
+Last Two Week Accuracy: 12 of 14 (85.71%)
 
-Last Two Week Error: 19.02 points per match
+Last Two Week Error: 12.87 points per match
 
-[2025/11/21 - Bordeaux Begles V Pau, 33.0 to 34.0](reviews\2025-11-21-BordeauxBegles_V_Pau)
+[2025/11/30 - Pau V La Rochelle, 53.0 to 33.0](reviews\2025-11-30-Pau_V_LaRochelle)
 
-[2025/11/22 - La Rochelle V Castres Olympique, 17.0 to 19.0](reviews\2025-11-22-LaRochelle_V_CastresOlympique)
+[2025/11/29 - Toulon V US Montauban, 54.0 to 28.0](reviews\2025-11-29-Toulon_V_USMontauban)
 
-[2025/11/22 - Lyon V Clermont Auvergne, 43.0 to 24.0](reviews\2025-11-22-Lyon_V_ClermontAuvergne)
+[2025/11/29 - Stade Toulousain V Racing 92, 48.0 to 24.0](reviews\2025-11-29-StadeToulousain_V_Racing92)
 
-[2025/11/22 - Perpignan V Montpellier Herault, 0.0 to 28.0](reviews\2025-11-22-Perpignan_V_MontpellierHerault)
+[2025/11/29 - Clermont Auvergne V Stade Francais Paris, 36.0 to 32.0](reviews\2025-11-29-ClermontAuvergne_V_StadeFrancaisParis)
 
-[2025/11/22 - Racing 92 V Bayonne, 47.0 to 27.0](reviews\2025-11-22-Racing92_V_Bayonne)
+[2025/11/29 - Castres Olympique V Perpignan, 23.0 to 7.0](reviews\2025-11-29-CastresOlympique_V_Perpignan)
 
-[2025/11/22 - US Montauban V Stade Toulousain, 7.0 to 49.0](reviews\2025-11-22-USMontauban_V_StadeToulousain)
+[2025/11/29 - Bayonne V Lyon, 22.0 to 20.0](reviews\2025-11-29-Bayonne_V_Lyon)
 
-[2025/11/23 - Stade Francais Paris V Toulon, 51.0 to 24.0](reviews\2025-11-23-StadeFrancaisParis_V_Toulon)
+[2025/11/28 - Montpellier Herault V Bordeaux Begles, 28.0 to 24.0](reviews\2025-11-29-MontpellierHerault_V_BordeauxBegles)
+## PWR
+
+
+[In depth model review and projections for PWR 25/26](comp_files/PWR_2526)
+
+Competition Accuracy: 15 of 20 (75.0%)
+
+Competition Error: 21.74 points per match
+
+Last Two Week Accuracy: 3 of 4 (75.0%)
+
+Last Two Week Error: 26.9 points per match
+
+[2025/11/30 - Bristol Bears Women V Gloucester-Hartpury, 14.0 to 54.0](reviews\2025-11-30-BristolBearsWomen_V_Gloucester-Hartpury)
+
+[2025/11/29 - Trailfinders Women V Saracens Women, 5.0 to 57.0](reviews\2025-11-29-TrailfindersWomen_V_SaracensWomen)
+
+[2025/11/29 - Sale Sharks Women V Exeter Chiefs Women, 26.0 to 26.0](reviews\2025-11-29-SaleSharksWomen_V_ExeterChiefsWomen)
+
+[2025/11/29 - Loughborough Lightning V Leicester Tigers Women, 50.0 to 15.0](reviews\2025-11-29-LoughboroughLightning_V_LeicesterTigersWomen)
 # Domestic Competitions
 
-## Nationale
-
-
-[In depth model review and projections for Nationale 25/26](comp_files/Nationale_2526)
-
-Competition Accuracy: 60 of 84 (71.43%)
-
-Competition Error: 7.94 points per match
-
-Last Two Week Accuracy: 6 of 7 (85.71%)
-
-Last Two Week Error: 3.79 points per match
-
-[2025/11/21 - Massy V US Bressane, 26.0 to 19.0](reviews\2025-11-21-Massy_V_USBressane)
-
-[2025/11/22 - Bourgoin-Jallieu V Marcq-en-Baroeul, 20.0 to 9.0](reviews\2025-11-22-Bourgoin-Jallieu_V_Marcq-en-Baroeul)
-
-[2025/11/22 - Chambery V Rouen, 23.0 to 18.0](reviews\2025-11-22-Chambery_V_Rouen)
-
-[2025/11/22 - Nice V Albi, 21.0 to 24.0](reviews\2025-11-22-Nice_V_Albi)
-
-[2025/11/22 - Niort V Suresnes, 32.0 to 21.0](reviews\2025-11-22-Niort_V_Suresnes)
-
-[2025/11/22 - PÃ©rigueux V Narbonne, 25.0 to 20.0](reviews\2025-11-22-Perigueux_V_Narbonne)
-
-[2025/11/22 - Rennes V Tarbes, 10.0 to 6.0](reviews\2025-11-22-Rennes_V_Tarbes)
 ## Pro D2
 
 
 [In depth model review and projections for Pro D2 25/26](comp_files/Pro_D2_2526)
 
-Competition Accuracy: 62 of 89 (69.66%)
+Competition Accuracy: 68 of 96 (70.83%)
 
-Competition Error: 15.08 points per match
+Competition Error: 14.98 points per match
 
-Last Two Week Accuracy: 1 of 1 (100.0%)
+Last Two Week Accuracy: 7 of 8 (87.5%)
 
-Last Two Week Error: 6.02 points per match
+Last Two Week Error: 12.8 points per match
 
 [2025/11/27 - Brive V Colomiers, 27.0 to 18.0](reviews\2025-11-27-Brive_V_Colomiers)
+
+[2025/11/28 - Dax V Mont-de-Marsan, 68.0 to 14.0](reviews\2025-11-28-Dax_V_Mont-de-Marsan)
+
+[2025/11/28 - Grenoble V Biarritz Olympique, 33.0 to 25.0](reviews\2025-11-28-Grenoble_V_BiarritzOlympique)
+
+[2025/11/28 - Oyonnax V Beziers, 35.0 to 24.0](reviews\2025-11-28-Oyonnax_V_Beziers)
+
+[2025/11/28 - Provence Rugby V Carcassonne, 48.0 to 16.0](reviews\2025-11-28-ProvenceRugby_V_Carcassonne)
+
+[2025/11/28 - Soyaux-Angouleme V Aurillac, 15.0 to 20.0](reviews\2025-11-28-Soyaux-Angouleme_V_Aurillac)
+
+[2025/11/28 - Valence Romans Drome Rugby V USON Nevers, 13.0 to 3.0](reviews\2025-11-28-ValenceRomansDromeRugby_V_USONNevers)
+
+[2025/11/28 - Vannes V Agen, 36.0 to 15.0](reviews\2025-11-28-Vannes_V_Agen)
+## RFU Championship
+
+
+[In depth model review and projections for RFU Championship 25/26](comp_files/RFU_Championship_2526)
+
+Competition Accuracy: 41 of 56 (73.21%)
+
+Competition Error: 12.43 points per match
+
+Last Two Week Accuracy: 6 of 7 (85.71%)
+
+Last Two Week Error: 7.45 points per match
+
+[2025/11/28 - Nottingham V Bedford, 28.0 to 28.0](reviews\2025-11-28-Nottingham_V_Bedford)
+
+[2025/11/29 - Ampthill V Hartpury College, 21.0 to 31.0](reviews\2025-11-29-Ampthill_V_HartpuryCollege)
+
+[2025/11/29 - Caldy V Chinnor, 28.0 to 36.0](reviews\2025-11-29-Caldy_V_Chinnor)
+
+[2025/11/29 - Cambridge V Worcester Warriors, 14.0 to 61.0](reviews\2025-11-29-Cambridge_V_WorcesterWarriors)
+
+[2025/11/29 - Cornish Pirates V Richmond, 28.0 to 19.0](reviews\2025-11-29-CornishPirates_V_Richmond)
+
+[2025/11/29 - Doncaster V Coventry, 24.0 to 21.0](reviews\2025-11-29-Doncaster_V_Coventry)
+
+[2025/11/29 - London Scottish V Ealing Trailfinders, 14.0 to 38.0](reviews\2025-11-29-LondonScottish_V_EalingTrailfinders)
