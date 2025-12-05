@@ -14,9 +14,9 @@ Competition Accuracy: 69 of 98 (70.41%)
 
 Competition Error: 19.06 points per match
 
-Last Two Week Accuracy: 7 of 7 (100.0%)
+Last Two Week Accuracy: 1 of 1 (100.0%)
 
-Last Two Week Error: 17.35 points per match
+Last Two Week Error: 55.83 points per match
 
 [2025/11/29 - Wales V South Africa, 0.0 to 73.0](reviews\2025-11-29-Wales_V_SouthAfrica)
 # Top Flight Competitions
@@ -80,9 +80,9 @@ Competition Accuracy: 62 of 78 (79.49%)
 
 Competition Error: 13.15 points per match
 
-Last Two Week Accuracy: 12 of 14 (85.71%)
+Last Two Week Accuracy: 7 of 7 (100.0%)
 
-Last Two Week Error: 12.87 points per match
+Last Two Week Error: 6.72 points per match
 
 [2025/11/30 - Pau V La Rochelle, 53.0 to 33.0](reviews\2025-11-30-Pau_V_LaRochelle)
 
@@ -124,13 +124,13 @@ Last Two Week Error: 26.9 points per match
 
 [In depth model review and projections for Pro D2 25/26](comp_files/Pro_D2_2526)
 
-Competition Accuracy: 68 of 96 (70.83%)
+Competition Accuracy: 69 of 97 (71.13%)
 
-Competition Error: 14.98 points per match
+Competition Error: 15.12 points per match
 
-Last Two Week Accuracy: 7 of 8 (87.5%)
+Last Two Week Accuracy: 8 of 9 (88.89%)
 
-Last Two Week Error: 12.8 points per match
+Last Two Week Error: 14.56 points per match
 
 [2025/11/27 - Brive V Colomiers, 27.0 to 18.0](reviews\2025-11-27-Brive_V_Colomiers)
 
@@ -147,6 +147,8 @@ Last Two Week Error: 12.8 points per match
 [2025/11/28 - Valence Romans Drome Rugby V USON Nevers, 13.0 to 3.0](reviews\2025-11-28-ValenceRomansDromeRugby_V_USONNevers)
 
 [2025/11/28 - Vannes V Agen, 36.0 to 15.0](reviews\2025-11-28-Vannes_V_Agen)
+
+[2025/12/04 - Colomiers V Grenoble, 43.0 to 7.0](reviews\2025-12-04-Colomiers_V_Grenoble)
 ## RFU Championship
 
 
@@ -162,7 +164,7 @@ Last Two Week Error: 7.45 points per match
 
 [2025/11/28 - Nottingham V Bedford, 28.0 to 28.0](reviews\2025-11-28-Nottingham_V_Bedford)
 
-[2025/11/29 - Ampthill V Hartpury College, 21.0 to 31.0](reviews\2025-11-29-Ampthill_V_HartpuryCollege)
+[2025/11/29 - Ampthill V Hartpury College RFC, 21.0 to 31.0](reviews\2025-11-29-Ampthill_V_HartpuryCollege)
 
 [2025/11/29 - Caldy V Chinnor, 28.0 to 36.0](reviews\2025-11-29-Caldy_V_Chinnor)
 

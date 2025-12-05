@@ -1,6 +1,6 @@
 ---  
 title: "Women's Six Nations 2026"  
-date: 2025-12-01 6:00:00 -0500  
+date: 2025-12-05 6:00:00 -0500  
 categories: model review projection  
 layout: article  
 aside:  
@@ -17,12 +17,12 @@ aside:
 
 | Club           |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:---------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| England Women  |         5 |            3.739 |                   80.955 |                           0.553 |                              |                         15.799 |
-| France Women   |         5 |            2.908 |                   20.46  |                           0.833 |                              |                         12.805 |
-| Ireland Women  |         5 |            2.55  |                   -3.768 |                           0.74  |                              |                         11.268 |
-| Scotland Women |         5 |            2.01  |                  -18.431 |                           1.045 |                              |                          9.509 |
-| Italy Women    |         5 |            1.788 |                  -27.176 |                           0.974 |                              |                          8.464 |
-| Wales Women    |         5 |            1.486 |                  -52.04  |                           0.966 |                              |                          7.266 |
+| England Women  |         5 |            3.789 |                   84.67  |                           0.548 |                              |                         15.958 |
+| France Women   |         5 |            2.871 |                   19.815 |                           0.795 |                              |                         12.645 |
+| Ireland Women  |         5 |            2.539 |                   -3.501 |                           0.803 |                              |                         11.265 |
+| Scotland Women |         5 |            2.019 |                  -18.94  |                           1.023 |                              |                          9.443 |
+| Italy Women    |         5 |            1.795 |                  -28.971 |                           0.925 |                              |                          8.469 |
+| Wales Women    |         5 |            1.497 |                  -53.073 |                           0.935 |                              |                          7.249 |
 
 
 
@@ -31,12 +31,12 @@ aside:
 
 | Club           |   Played |   Wins |   Point Differential |   Losing Bonus Points | Try Bonus Points   |   Competition Points |
 |:---------------|---------:|-------:|---------------------:|----------------------:|:-------------------|---------------------:|
-| England Women  |        5 |  3.739 |               80.955 |                 0.553 |                    |               15.799 |
-| France Women   |        5 |  2.908 |               20.46  |                 0.833 |                    |               12.805 |
-| Ireland Women  |        5 |  2.55  |               -3.768 |                 0.74  |                    |               11.268 |
-| Scotland Women |        5 |  2.01  |              -18.431 |                 1.045 |                    |                9.509 |
-| Italy Women    |        5 |  1.788 |              -27.176 |                 0.974 |                    |                8.464 |
-| Wales Women    |        5 |  1.486 |              -52.04  |                 0.966 |                    |                7.266 |
+| England Women  |        5 |  3.789 |               84.67  |                 0.548 |                    |               15.958 |
+| France Women   |        5 |  2.871 |               19.815 |                 0.795 |                    |               12.645 |
+| Ireland Women  |        5 |  2.539 |               -3.501 |                 0.803 |                    |               11.265 |
+| Scotland Women |        5 |  2.019 |              -18.94  |                 1.023 |                    |                9.443 |
+| Italy Women    |        5 |  1.795 |              -28.971 |                 0.925 |                    |                8.469 |
+| Wales Women    |        5 |  1.497 |              -53.073 |                 0.935 |                    |                7.249 |
 
 
 
@@ -44,21 +44,10 @@ aside:
 
 ## Week 1
 
-### Wales Women V Scotland Women on 2026/04/11
-
-
-Average Margin: Scotland Women by 3.3
-
-<p float="left">
-<img src="plots\2026-04-11-WalesWomen_V_ScotlandWomen_performances.png" width="32%" />
-<img src="plots\2026-04-11-WalesWomen_V_ScotlandWomen_resultbar.png" width="32%" />
-<img src="plots\2026-04-11-WalesWomen_V_ScotlandWomen_spreads.png" width="32%" />
-</p>
-
 ### England Women V Ireland Women on 2026/04/11
 
 
-Average Margin: England Women by 19.5
+Average Margin: England Women by 19.2
 
 <p float="left">
 <img src="plots\2026-04-11-EnglandWomen_V_IrelandWomen_performances.png" width="32%" />
@@ -69,7 +58,7 @@ Average Margin: England Women by 19.5
 ### France Women V Italy Women on 2026/04/11
 
 
-Average Margin: France Women by 11.2
+Average Margin: France Women by 11.4
 
 <p float="left">
 <img src="plots\2026-04-11-FranceWomen_V_ItalyWomen_performances.png" width="32%" />
@@ -77,12 +66,34 @@ Average Margin: France Women by 11.2
 <img src="plots\2026-04-11-FranceWomen_V_ItalyWomen_spreads.png" width="32%" />
 </p>
 
+### Wales Women V Scotland Women on 2026/04/11
+
+
+Average Margin: Scotland Women by 4.1
+
+<p float="left">
+<img src="plots\2026-04-11-WalesWomen_V_ScotlandWomen_performances.png" width="32%" />
+<img src="plots\2026-04-11-WalesWomen_V_ScotlandWomen_resultbar.png" width="32%" />
+<img src="plots\2026-04-11-WalesWomen_V_ScotlandWomen_spreads.png" width="32%" />
+</p>
+
 ## Week 2
+
+### Scotland Women V England Women on 2026/04/18
+
+
+Average Margin: England Women by 16.1
+
+<p float="left">
+<img src="plots\2026-04-18-ScotlandWomen_V_EnglandWomen_performances.png" width="32%" />
+<img src="plots\2026-04-18-ScotlandWomen_V_EnglandWomen_resultbar.png" width="32%" />
+<img src="plots\2026-04-18-ScotlandWomen_V_EnglandWomen_spreads.png" width="32%" />
+</p>
 
 ### Wales Women V France Women on 2026/04/18
 
 
-Average Margin: France Women by 9.7
+Average Margin: France Women by 9.6
 
 <p float="left">
 <img src="plots\2026-04-18-WalesWomen_V_FranceWomen_performances.png" width="32%" />
@@ -93,7 +104,7 @@ Average Margin: France Women by 9.7
 ### Ireland Women V Italy Women on 2026/04/18
 
 
-Average Margin: Ireland Women by 7.0
+Average Margin: Ireland Women by 6.9
 
 <p float="left">
 <img src="plots\2026-04-18-IrelandWomen_V_ItalyWomen_performances.png" width="32%" />
@@ -101,34 +112,12 @@ Average Margin: Ireland Women by 7.0
 <img src="plots\2026-04-18-IrelandWomen_V_ItalyWomen_spreads.png" width="32%" />
 </p>
 
-### Scotland Women V England Women on 2026/04/18
-
-
-Average Margin: England Women by 14.5
-
-<p float="left">
-<img src="plots\2026-04-18-ScotlandWomen_V_EnglandWomen_performances.png" width="32%" />
-<img src="plots\2026-04-18-ScotlandWomen_V_EnglandWomen_resultbar.png" width="32%" />
-<img src="plots\2026-04-18-ScotlandWomen_V_EnglandWomen_spreads.png" width="32%" />
-</p>
-
 ## Week 3
-
-### England Women V Wales Women on 2026/04/25
-
-
-Average Margin: England Women by 27.0
-
-<p float="left">
-<img src="plots\2026-04-25-EnglandWomen_V_WalesWomen_performances.png" width="32%" />
-<img src="plots\2026-04-25-EnglandWomen_V_WalesWomen_resultbar.png" width="32%" />
-<img src="plots\2026-04-25-EnglandWomen_V_WalesWomen_spreads.png" width="32%" />
-</p>
 
 ### Italy Women V Scotland Women on 2026/04/25
 
 
-Average Margin: Italy Women by 2.3
+Average Margin: Italy Women by 2.1
 
 <p float="left">
 <img src="plots\2026-04-25-ItalyWomen_V_ScotlandWomen_performances.png" width="32%" />
@@ -139,7 +128,7 @@ Average Margin: Italy Women by 2.3
 ### France Women V Ireland Women on 2026/04/25
 
 
-Average Margin: France Women by 7.5
+Average Margin: France Women by 7.7
 
 <p float="left">
 <img src="plots\2026-04-25-FranceWomen_V_IrelandWomen_performances.png" width="32%" />
@@ -147,12 +136,34 @@ Average Margin: France Women by 7.5
 <img src="plots\2026-04-25-FranceWomen_V_IrelandWomen_spreads.png" width="32%" />
 </p>
 
+### England Women V Wales Women on 2026/04/25
+
+
+Average Margin: England Women by 27.7
+
+<p float="left">
+<img src="plots\2026-04-25-EnglandWomen_V_WalesWomen_performances.png" width="32%" />
+<img src="plots\2026-04-25-EnglandWomen_V_WalesWomen_resultbar.png" width="32%" />
+<img src="plots\2026-04-25-EnglandWomen_V_WalesWomen_spreads.png" width="32%" />
+</p>
+
 ## Week 4
+
+### Italy Women V England Women on 2026/05/09
+
+
+Average Margin: England Women by 13.3
+
+<p float="left">
+<img src="plots\2026-05-09-ItalyWomen_V_EnglandWomen_performances.png" width="32%" />
+<img src="plots\2026-05-09-ItalyWomen_V_EnglandWomen_resultbar.png" width="32%" />
+<img src="plots\2026-05-09-ItalyWomen_V_EnglandWomen_spreads.png" width="32%" />
+</p>
 
 ### Scotland Women V France Women on 2026/05/09
 
 
-Average Margin: Scotland Women by 0.1
+Average Margin: Scotland Women by 0.5
 
 <p float="left">
 <img src="plots\2026-05-09-ScotlandWomen_V_FranceWomen_performances.png" width="32%" />
@@ -171,23 +182,12 @@ Average Margin: Ireland Women by 11.2
 <img src="plots\2026-05-09-IrelandWomen_V_WalesWomen_spreads.png" width="32%" />
 </p>
 
-### Italy Women V England Women on 2026/05/09
-
-
-Average Margin: England Women by 12.1
-
-<p float="left">
-<img src="plots\2026-05-09-ItalyWomen_V_EnglandWomen_performances.png" width="32%" />
-<img src="plots\2026-05-09-ItalyWomen_V_EnglandWomen_resultbar.png" width="32%" />
-<img src="plots\2026-05-09-ItalyWomen_V_EnglandWomen_spreads.png" width="32%" />
-</p>
-
 ## Week 5
 
 ### Wales Women V Italy Women on 2026/05/17
 
 
-Average Margin: Italy Women by 0.8
+Average Margin: Italy Women by 0.4
 
 <p float="left">
 <img src="plots\2026-05-17-WalesWomen_V_ItalyWomen_performances.png" width="32%" />
@@ -198,7 +198,7 @@ Average Margin: Italy Women by 0.8
 ### Ireland Women V Scotland Women on 2026/05/17
 
 
-Average Margin: Ireland Women by 5.0
+Average Margin: Ireland Women by 5.4
 
 <p float="left">
 <img src="plots\2026-05-17-IrelandWomen_V_ScotlandWomen_performances.png" width="32%" />
@@ -209,7 +209,7 @@ Average Margin: Ireland Women by 5.0
 ### France Women V England Women on 2026/05/17
 
 
-Average Margin: England Women by 7.8
+Average Margin: England Women by 8.4
 
 <p float="left">
 <img src="plots\2026-05-17-FranceWomen_V_EnglandWomen_performances.png" width="32%" />

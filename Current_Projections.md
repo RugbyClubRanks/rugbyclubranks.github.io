@@ -66,9 +66,9 @@ Competition Accuracy: 62 of 78 (79.49%)
 
 Competition Error: 13.15 points per match
 
-Last Two Week Accuracy: 12 of 14 (85.71%)
+Last Two Week Accuracy: 7 of 7 (100.0%)
 
-Last Two Week Error: 12.87 points per match
+Last Two Week Error: 6.72 points per match
 
 [2025/12/26 - Bayonne V Stade Francais Paris](projections\2025-12-26-Bayonne_V_StadeFrancaisParis)
 
@@ -244,15 +244,9 @@ Competition Accuracy: 60 of 84 (71.43%)
 
 Competition Error: 7.94 points per match
 
-Last Two Week Accuracy: 6 of 7 (85.71%)
-
-Last Two Week Error: 3.79 points per match
-
 [2025/12/05 - Albi V PÃ©rigueux](projections\2025-12-05-Albi_V_Perigueux)
 
 [2025/12/05 - Tarbes V Rouen](projections\2025-12-05-Tarbes_V_Rouen)
-
-[2025/12/05 - US Bressane V Niort](projections\2025-12-05-USBressane_V_Niort)
 
 [2025/12/06 - Marcq-en-Baroeul V Massy](projections\2025-12-06-Marcq-en-Baroeul_V_Massy)
 
@@ -261,6 +255,8 @@ Last Two Week Error: 3.79 points per match
 [2025/12/06 - Rennes V Nice](projections\2025-12-06-Rennes_V_Nice)
 
 [2025/12/06 - Suresnes V Chambery](projections\2025-12-06-Suresnes_V_Chambery)
+
+[2025/12/06 - US Bressane V Niort](projections\2025-12-06-USBressane_V_Niort)
 
 [2025/12/12 - Albi V Bourgoin-Jallieu](projections\2025-12-12-Albi_V_Bourgoin-Jallieu)
 
@@ -275,6 +271,64 @@ Last Two Week Error: 3.79 points per match
 [2025/12/13 - Rennes V PÃ©rigueux](projections\2025-12-13-Rennes_V_Perigueux)
 
 [2025/12/13 - Suresnes V Rouen](projections\2025-12-13-Suresnes_V_Rouen)
+## Pro D2
+
+
+[In depth model review and projections for Pro D2 25/26](comp_files/Pro_D2_2526)
+
+Competition Accuracy: 69 of 97 (71.13%)
+
+Competition Error: 15.12 points per match
+
+Last Two Week Accuracy: 8 of 9 (88.89%)
+
+Last Two Week Error: 14.56 points per match
+
+[2025/12/18 - Colomiers V Valence Romans Drome Rugby](projections\2025-12-18-Colomiers_V_ValenceRomansDromeRugby)
+
+[2025/12/18 - Mont-de-Marsan V Provence Rugby](projections\2025-12-18-Mont-de-Marsan_V_ProvenceRugby)
+
+[2025/12/18 - USON Nevers V Brive](projections\2025-12-18-USONNevers_V_Brive)
+
+[2025/12/18 - Grenoble V Dax](projections\2025-12-18-Grenoble_V_Dax)
+
+[2025/12/18 - Carcassonne V Soyaux-Angouleme](projections\2025-12-18-Carcassonne_V_Soyaux-Angouleme)
+
+[2025/12/18 - Biarritz Olympique V Oyonnax](projections\2025-12-18-BiarritzOlympique_V_Oyonnax)
+
+[2025/12/05 - Agen V Provence Rugby](projections\2025-12-05-Agen_V_ProvenceRugby)
+
+[2025/12/05 - Aurillac V Brive](projections\2025-12-05-Aurillac_V_Brive)
+
+[2025/12/05 - Beziers V Soyaux-Angouleme](projections\2025-12-05-Beziers_V_Soyaux-Angouleme)
+
+[2025/12/05 - Biarritz Olympique V Valence Romans Drome Rugby](projections\2025-12-05-BiarritzOlympique_V_ValenceRomansDromeRugby)
+
+[2025/12/05 - Carcassonne V Vannes](projections\2025-12-05-Carcassonne_V_Vannes)
+
+[2025/12/05 - Mont-de-Marsan V Oyonnax](projections\2025-12-05-Mont-de-Marsan_V_Oyonnax)
+
+[2025/12/05 - USON Nevers V Dax](projections\2025-12-05-USONNevers_V_Dax)
+
+[2025/12/11 - Aurillac V Mont-de-Marsan](projections\2025-12-11-Aurillac_V_Mont-de-Marsan)
+
+[2025/12/11 - Brive V Carcassonne](projections\2025-12-11-Brive_V_Carcassonne)
+
+[2025/12/11 - Dax V Colomiers](projections\2025-12-11-Dax_V_Colomiers)
+
+[2025/12/11 - Oyonnax V USON Nevers](projections\2025-12-11-Oyonnax_V_USONNevers)
+
+[2025/12/11 - Provence Rugby V Beziers](projections\2025-12-11-ProvenceRugby_V_Beziers)
+
+[2025/12/11 - Soyaux-Angouleme V Agen](projections\2025-12-11-Soyaux-Angouleme_V_Agen)
+
+[2025/12/11 - Valence Romans Drome Rugby V Grenoble](projections\2025-12-11-ValenceRomansDromeRugby_V_Grenoble)
+
+[2025/12/11 - Vannes V Biarritz Olympique](projections\2025-12-11-Vannes_V_BiarritzOlympique)
+
+[2025/12/18 - Agen V Aurillac](projections\2025-12-18-Agen_V_Aurillac)
+
+[2025/12/18 - Beziers V Vannes](projections\2025-12-18-Beziers_V_Vannes)
 ## RFU Championship
 
 
@@ -287,8 +341,6 @@ Competition Error: 12.43 points per match
 Last Two Week Accuracy: 6 of 7 (85.71%)
 
 Last Two Week Error: 7.45 points per match
-
-[2025/12/13 - Doncaster V Ampthill](projections\2025-12-13-Doncaster_V_Ampthill)
 
 [2025/12/05 - Chinnor V Nottingham](projections\2025-12-05-Chinnor_V_Nottingham)
 
@@ -311,6 +363,8 @@ Last Two Week Error: 7.45 points per match
 [2025/12/13 - Caldy V Coventry](projections\2025-12-13-Caldy_V_Coventry)
 
 [2025/12/13 - Cambridge V Chinnor](projections\2025-12-13-Cambridge_V_Chinnor)
+
+[2025/12/13 - Doncaster V Ampthill](projections\2025-12-13-Doncaster_V_Ampthill)
 
 [2025/12/13 - London Scottish V Hartpury College](projections\2025-12-13-LondonScottish_V_HartpuryCollege)
 
@@ -343,63 +397,3 @@ Last Two Week Error: 7.45 points per match
 [2025/12/26 - Nottingham V Hartpury College](projections\2025-12-26-Nottingham_V_HartpuryCollege)
 
 [2025/12/26 - Worcester Warriors V Chinnor](projections\2025-12-26-WorcesterWarriors_V_Chinnor)
-## Pro D2
-
-
-[In depth model review and projections for Pro D2 25/26](comp_files/Pro_D2_2526)
-
-Competition Accuracy: 68 of 96 (70.83%)
-
-Competition Error: 14.98 points per match
-
-Last Two Week Accuracy: 7 of 8 (87.5%)
-
-Last Two Week Error: 12.8 points per match
-
-[2025/12/18 - Grenoble V Dax](projections\2025-12-18-Grenoble_V_Dax)
-
-[2025/12/18 - Mont-de-Marsan V Provence Rugby](projections\2025-12-18-Mont-de-Marsan_V_ProvenceRugby)
-
-[2025/12/18 - USON Nevers V Brive](projections\2025-12-18-USONNevers_V_Brive)
-
-[2025/12/18 - Colomiers V Valence Romans Drome Rugby](projections\2025-12-18-Colomiers_V_ValenceRomansDromeRugby)
-
-[2025/12/18 - Carcassonne V Soyaux-Angouleme](projections\2025-12-18-Carcassonne_V_Soyaux-Angouleme)
-
-[2025/12/18 - Biarritz Olympique V Oyonnax](projections\2025-12-18-BiarritzOlympique_V_Oyonnax)
-
-[2025/12/18 - Beziers V Vannes](projections\2025-12-18-Beziers_V_Vannes)
-
-[2025/12/04 - Agen V Provence Rugby](projections\2025-12-04-Agen_V_ProvenceRugby)
-
-[2025/12/04 - Aurillac V Brive](projections\2025-12-04-Aurillac_V_Brive)
-
-[2025/12/04 - Beziers V Soyaux-Angouleme](projections\2025-12-04-Beziers_V_Soyaux-Angouleme)
-
-[2025/12/04 - Biarritz Olympique V Valence Romans Drome Rugby](projections\2025-12-04-BiarritzOlympique_V_ValenceRomansDromeRugby)
-
-[2025/12/04 - Carcassonne V Vannes](projections\2025-12-04-Carcassonne_V_Vannes)
-
-[2025/12/04 - Colomiers V Grenoble](projections\2025-12-04-Colomiers_V_Grenoble)
-
-[2025/12/04 - Mont-de-Marsan V Oyonnax](projections\2025-12-04-Mont-de-Marsan_V_Oyonnax)
-
-[2025/12/04 - USON Nevers V Dax](projections\2025-12-04-USONNevers_V_Dax)
-
-[2025/12/11 - Aurillac V Mont-de-Marsan](projections\2025-12-11-Aurillac_V_Mont-de-Marsan)
-
-[2025/12/11 - Brive V Carcassonne](projections\2025-12-11-Brive_V_Carcassonne)
-
-[2025/12/11 - Dax V Colomiers](projections\2025-12-11-Dax_V_Colomiers)
-
-[2025/12/11 - Oyonnax V USON Nevers](projections\2025-12-11-Oyonnax_V_USONNevers)
-
-[2025/12/11 - Provence Rugby V Beziers](projections\2025-12-11-ProvenceRugby_V_Beziers)
-
-[2025/12/11 - Soyaux-Angouleme V Agen](projections\2025-12-11-Soyaux-Angouleme_V_Agen)
-
-[2025/12/11 - Valence Romans Drome Rugby V Grenoble](projections\2025-12-11-ValenceRomansDromeRugby_V_Grenoble)
-
-[2025/12/11 - Vannes V Biarritz Olympique](projections\2025-12-11-Vannes_V_BiarritzOlympique)
-
-[2025/12/18 - Agen V Aurillac](projections\2025-12-18-Agen_V_Aurillac)
