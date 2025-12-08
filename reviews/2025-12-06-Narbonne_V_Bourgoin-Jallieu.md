@@ -1,0 +1,34 @@
+---  
+layout: page  
+title: Narbonne V Bourgoin-Jallieu on 2025/12/06  
+date: 2025-12-06  
+categories: "Nationale 25/26" match projection  
+---
+# Narbonne V Bourgoin-Jallieu on 2025/12/06, 31.0 to 10.0
+
+# Club Level Predictions
+
+
+Now that the game has been played, lets see how the club predictions did. I predicted Narbonne to win by 6.73, and Narbonne won by 21.0. That's an absolute error of 14.3 for the margin of victory, while my average absolute error has been 13.8 over the past six months. This prediction was more accurate than 36.7% of my recent predictions.
+
+For the Over/Under model, I predicted a total of 42.5 and we have an actual total of 41.0. That's an absolute error of 1.5 compared to a six month average of 13.2. This prediction was more accurate than 92.5% of my recent predictions.
+## Projected Performances - Club Model
+
+
+<p float="left">
+<img src="../comp_files/plots/2025-12-06-Narbonne_V_Bourgoin-Jallieu_performances.png" width="99%" />
+</p>
+
+## Projected Spreads - Club Model
+
+
+<p float="left">
+<img src="../comp_files/plots/2025-12-06-Narbonne_V_Bourgoin-Jallieu_spreads.png" width="99%" />
+</p>
+
+## Projected Results - Club Model
+
+
+<p float="left">
+<img src="../comp_files/plots/2025-12-06-Narbonne_V_Bourgoin-Jallieu_resultbar.png" width="99%" />
+</p>
