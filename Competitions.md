@@ -520,7 +520,7 @@ key: page-recents
 ## European Rugby Champions Cup
 
 
-[25/26](comp_files\European_Rugby_Champions_Cup_2526) - Prediction Accuracy: 64.5% 
+[25/26](comp_files\European_Rugby_Champions_Cup_2526) - Prediction Accuracy: 66.0% 
 
 [24/25](comp_files\European_Rugby_Champions_Cup_2425) - Prediction Accuracy: 79.4% 
 
@@ -574,7 +574,7 @@ key: page-recents
 ## Gallagher Premiership
 
 
-[25/26](comp_files\Gallagher_Premiership_2526) - Prediction Accuracy: 74.4% 
+[25/26](comp_files\Gallagher_Premiership_2526) - Prediction Accuracy: 71.1% 
 
 [24/25](comp_files\Gallagher_Premiership_2425) - Prediction Accuracy: 71.0% 
 
@@ -622,7 +622,7 @@ key: page-recents
 ## Top 14
 
 
-[25/26](comp_files\Top_14_2526) - Prediction Accuracy: 75.4% 
+[25/26](comp_files\Top_14_2526) - Prediction Accuracy: 74.9% 
 
 [24/25](comp_files\Top_14_2425) - Prediction Accuracy: 75.1% 
 
@@ -748,7 +748,7 @@ key: page-recents
 ## United Rugby Championship
 
 
-[25/26](comp_files\United_Rugby_Championship_2526) - Prediction Accuracy: 66.7% 
+[25/26](comp_files\United_Rugby_Championship_2526) - Prediction Accuracy: 63.2% 
 
 [24/25](comp_files\United_Rugby_Championship_2425) - Prediction Accuracy: 71.9% 
 
@@ -785,6 +785,8 @@ key: page-recents
 [08/09](comp_files\United_Rugby_Championship_0809) - Prediction Accuracy: 63.3% 
 ## Japan Rugby League One
 
+
+[25/26](comp_files\Japan_Rugby_League_One_2526)
 
 [24/25](comp_files\Japan_Rugby_League_One_2425) - Prediction Accuracy: 68.4% 
 
@@ -925,12 +927,6 @@ key: page-recents
 [2021](comp_files\Superliga_Americana_de_Rugby_2021) - Prediction Accuracy: 62.5% 
 
 [2020](comp_files\Superliga_Americana_de_Rugby_2020) - Prediction Accuracy: 33.3% 
-## Premiership Rugby
-
-
-[Status](comp_files\Premiership_Rugby_2025)
-
-[Status](comp_files\Premiership_Rugby_2024)
 ## Super Rugby AU
 
 
@@ -943,6 +939,12 @@ key: page-recents
 [2021](comp_files\Super_Rugby_Aotearoa_2021) - Prediction Accuracy: 52.4% 
 
 [2020](comp_files\Super_Rugby_Aotearoa_2020) - Prediction Accuracy: 65.0% 
+## Premiership Rugby
+
+
+[Status](comp_files\Premiership_Rugby_2025)
+
+[Status](comp_files\Premiership_Rugby_2024)
 ## Serie A Elite
 
 
@@ -952,7 +954,7 @@ key: page-recents
 ## Pro D2
 
 
-[25/26](comp_files\Pro_D2_2526) - Prediction Accuracy: 68.3% 
+[25/26](comp_files\Pro_D2_2526) - Prediction Accuracy: 69.2% 
 
 [24/25](comp_files\Pro_D2_2425) - Prediction Accuracy: 71.4% 
 
@@ -1212,7 +1214,7 @@ key: page-recents
 ## Nationale
 
 
-[25/26](comp_files\Nationale_2526) - Prediction Accuracy: 62.1% 
+[25/26](comp_files\Nationale_2526) - Prediction Accuracy: 70.9% 
 
 [24/25](comp_files\Nationale_2425) - Prediction Accuracy: 73.6% 
 

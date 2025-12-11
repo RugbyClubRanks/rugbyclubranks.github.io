@@ -14,9 +14,9 @@ Competition Accuracy: 19 of 24 (79.17%)
 
 Competition Error: 20.74 points per match
 
-Last Two Week Accuracy: 7 of 8 (87.5%)
+Last Two Week Accuracy: 4 of 4 (100.0%)
 
-Last Two Week Error: 21.31 points per match
+Last Two Week Error: 15.72 points per match
 
 [2025/12/07 - Saracens Women V Loughborough Lightning, 33.0 to 15.0](reviews\2025-12-07-SaracensWomen_V_LoughboroughLightning)
 
@@ -128,13 +128,13 @@ Competition Accuracy: 45 of 63 (71.43%)
 
 Competition Error: 12.74 points per match
 
-Last Two Week Accuracy: 10 of 14 (71.43%)
+Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 11.32 points per match
+Last Two Week Error: 15.19 points per match
 
 [2025/12/06 - Richmond V Ampthill, 20.0 to 25.0](reviews\2025-12-06-Richmond_V_Ampthill)
 
-[2025/12/06 - Hartpury College V Doncaster, 33.0 to 33.0](reviews\2025-12-06-HartpuryCollege_V_Doncaster)
+[2025/12/06 - Hartpury College RFC V Doncaster, 33.0 to 33.0](reviews\2025-12-06-HartpuryCollege_V_Doncaster)
 
 [2025/12/06 - Ealing Trailfinders V Caldy, 38.0 to 0.0](reviews\2025-12-06-EalingTrailfinders_V_Caldy)
 
@@ -154,9 +154,9 @@ Competition Accuracy: 73 of 104 (70.19%)
 
 Competition Error: 15.0 points per match
 
-Last Two Week Accuracy: 12 of 16 (75.0%)
+Last Two Week Accuracy: 5 of 8 (62.5%)
 
-Last Two Week Error: 14.05 points per match
+Last Two Week Error: 15.29 points per match
 
 [2025/12/05 - USON Nevers V Dax, 32.0 to 26.0](reviews\2025-12-05-USONNevers_V_Dax)
 

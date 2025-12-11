@@ -9,9 +9,9 @@ categories: "European Rugby Champions Cup 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Gloucester Rugby to win by 2.08, and Gloucester Rugby won by 20.0. That's an absolute error of 17.9 for the margin of victory, while my average absolute error has been 13.8 over the past six months. This prediction was more accurate than 27.8% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Gloucester Rugby to win by 2.67, and Gloucester Rugby won by 20.0. That's an absolute error of 17.3 for the margin of victory, while my average absolute error has been 13.8 over the past six months. This prediction was more accurate than 28.9% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 48.0. That's an absolute error of 1.5 compared to a six month average of 13.2. This prediction was more accurate than 92.5% of my recent predictions.
+For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 48.0. That's an absolute error of 1.5 compared to a six month average of 13.0. This prediction was more accurate than 92.5% of my recent predictions.
 ## Projected Performances - Club Model
 
 
