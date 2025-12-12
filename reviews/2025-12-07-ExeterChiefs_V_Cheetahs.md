@@ -9,9 +9,9 @@ categories: "European Rugby Challenge Cup 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Exeter Chiefs to win by 8.79, and Exeter Chiefs won by 30.0. That's an absolute error of 21.2 for the margin of victory, while my average absolute error has been 13.8 over the past six months. This prediction was more accurate than 22.0% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Exeter Chiefs to win by 8.02, and Exeter Chiefs won by 30.0. That's an absolute error of 22.0 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 20.9% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 52.5 and we have an actual total of 54.0. That's an absolute error of 1.5 compared to a six month average of 13.0. This prediction was more accurate than 92.5% of my recent predictions.
+For the Over/Under model, I predicted a total of 52.5 and we have an actual total of 54.0. That's an absolute error of 1.5 compared to a six month average of 13.0. This prediction was more accurate than 92.7% of my recent predictions.
 ## Projected Performances - Club Model
 
 

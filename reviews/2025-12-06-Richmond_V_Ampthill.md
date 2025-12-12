@@ -9,9 +9,9 @@ categories: "RFU Championship 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Richmond to win by 1.63, and Ampthill won by 5.0. That's an absolute error of 6.6 for the margin of victory, while my average absolute error has been 13.8 over the past six months. This prediction was more accurate than 66.8% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Richmond to win by 2.43, and Ampthill won by 5.0. That's an absolute error of 7.4 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 63.2% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 55.5 and we have an actual total of 45.0. That's an absolute error of 10.5 compared to a six month average of 13.0. This prediction was more accurate than 50.0% of my recent predictions.
+For the Over/Under model, I predicted a total of 55.5 and we have an actual total of 45.0. That's an absolute error of 10.5 compared to a six month average of 13.0. This prediction was more accurate than 50.1% of my recent predictions.
 ## Projected Performances - Club Model
 
 

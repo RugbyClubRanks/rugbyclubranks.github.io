@@ -119,6 +119,36 @@ Last Two Week Error: 9.24 points per match
 [2025/12/06 - Narbonne V Bourgoin-Jallieu, 31.0 to 10.0](reviews\2025-12-06-Narbonne_V_Bourgoin-Jallieu)
 
 [2025/12/06 - Marcq-en-Baroeul V Massy, 19.0 to 24.0](reviews\2025-12-06-Marcq-en-Baroeul_V_Massy)
+## Pro D2
+
+
+[In depth model review and projections for Pro D2 25/26](comp_files/Pro_D2_2526)
+
+Competition Accuracy: 74 of 105 (70.48%)
+
+Competition Error: 14.89 points per match
+
+Last Two Week Accuracy: 6 of 9 (66.67%)
+
+Last Two Week Error: 13.97 points per match
+
+[2025/12/05 - Carcassonne V Vannes, 15.0 to 52.0](reviews\2025-12-05-Carcassonne_V_Vannes)
+
+[2025/12/11 - Soyaux-Angouleme V Agen, 22.0 to 20.0](reviews\2025-12-11-Soyaux-Angouleme_V_Agen)
+
+[2025/12/05 - USON Nevers V Dax, 32.0 to 26.0](reviews\2025-12-05-USONNevers_V_Dax)
+
+[2025/12/05 - Mont-de-Marsan V Oyonnax, 12.0 to 36.0](reviews\2025-12-05-Mont-de-Marsan_V_Oyonnax)
+
+[2025/12/05 - Biarritz Olympique V Valence Romans Drome Rugby, 25.0 to 37.0](reviews\2025-12-05-BiarritzOlympique_V_ValenceRomansDromeRugby)
+
+[2025/12/05 - Beziers V Soyaux-Angouleme, 15.0 to 20.0](reviews\2025-12-05-Beziers_V_Soyaux-Angouleme)
+
+[2025/12/05 - Aurillac V Brive, 24.0 to 13.0](reviews\2025-12-05-Aurillac_V_Brive)
+
+[2025/12/05 - Agen V Provence Rugby, 27.0 to 23.0](reviews\2025-12-05-Agen_V_ProvenceRugby)
+
+[2025/12/04 - Colomiers V Grenoble, 43.0 to 7.0](reviews\2025-12-04-Colomiers_V_Grenoble)
 ## RFU Championship
 
 
@@ -145,31 +175,3 @@ Last Two Week Error: 15.19 points per match
 [2025/12/05 - Chinnor V Nottingham, 6.0 to 11.0](reviews\2025-12-05-Chinnor_V_Nottingham)
 
 [2025/12/06 - Worcester Warriors V Cornish Pirates, 40.0 to 24.0](reviews\2025-12-06-WorcesterWarriors_V_CornishPirates)
-## Pro D2
-
-
-[In depth model review and projections for Pro D2 25/26](comp_files/Pro_D2_2526)
-
-Competition Accuracy: 73 of 104 (70.19%)
-
-Competition Error: 15.0 points per match
-
-Last Two Week Accuracy: 5 of 8 (62.5%)
-
-Last Two Week Error: 15.29 points per match
-
-[2025/12/05 - USON Nevers V Dax, 32.0 to 26.0](reviews\2025-12-05-USONNevers_V_Dax)
-
-[2025/12/05 - Mont-de-Marsan V Oyonnax, 12.0 to 36.0](reviews\2025-12-05-Mont-de-Marsan_V_Oyonnax)
-
-[2025/12/05 - Carcassonne V Vannes, 15.0 to 52.0](reviews\2025-12-05-Carcassonne_V_Vannes)
-
-[2025/12/05 - Biarritz Olympique V Valence Romans Drome Rugby, 25.0 to 37.0](reviews\2025-12-05-BiarritzOlympique_V_ValenceRomansDromeRugby)
-
-[2025/12/05 - Beziers V Soyaux-Angouleme, 15.0 to 20.0](reviews\2025-12-05-Beziers_V_Soyaux-Angouleme)
-
-[2025/12/05 - Aurillac V Brive, 24.0 to 13.0](reviews\2025-12-05-Aurillac_V_Brive)
-
-[2025/12/05 - Agen V Provence Rugby, 27.0 to 23.0](reviews\2025-12-05-Agen_V_ProvenceRugby)
-
-[2025/12/04 - Colomiers V Grenoble, 43.0 to 7.0](reviews\2025-12-04-Colomiers_V_Grenoble)

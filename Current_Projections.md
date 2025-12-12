@@ -224,7 +224,7 @@ Last Two Week Error: 13.12 points per match
 
 [2025/12/13 - Stormers V La Rochelle](projections\2025-12-13-Stormers_V_LaRochelle)
 
-[2025/12/14 - Bristol Bears V Pau](projections\2025-12-14-BristolRugby_V_Pau)
+[2025/12/14 - Bristol Rugby V Pau](projections\2025-12-14-BristolRugby_V_Pau)
 
 [2025/12/14 - Castres Olympique V Edinburgh](projections\2025-12-14-CastresOlympique_V_Edinburgh)
 
@@ -260,7 +260,7 @@ Last Two Week Error: 16.97 points per match
 
 [2025/12/14 - Racing 92 V Exeter Chiefs](projections\2025-12-14-Racing92_V_ExeterChiefs)
 
-[2025/12/13 - Benetton Rugby V Perpignan](projections\2025-12-13-BenettonTreviso_V_Perpignan)
+[2025/12/13 - Benetton Treviso V Perpignan](projections\2025-12-13-BenettonTreviso_V_Perpignan)
 
 [2025/12/12 - Montpellier Herault V Zebre](projections\2025-12-12-MontpellierHerault_V_Zebre)
 # Domestic Competitions
@@ -328,8 +328,6 @@ Last Two Week Error: 15.19 points per match
 
 [2025/12/26 - Cambridge V Coventry](projections\2025-12-26-Cambridge_V_Coventry)
 
-[2025/12/13 - Cambridge V Chinnor](projections\2025-12-13-Cambridge_V_Chinnor)
-
 [2025/12/26 - Cornish Pirates V Ealing Trailfinders](projections\2025-12-26-CornishPirates_V_EalingTrailfinders)
 
 [2025/12/26 - London Scottish V Doncaster](projections\2025-12-26-LondonScottish_V_Doncaster)
@@ -352,6 +350,8 @@ Last Two Week Error: 15.19 points per match
 
 [2025/12/13 - Doncaster V Ampthill](projections\2025-12-13-Doncaster_V_Ampthill)
 
+[2025/12/13 - Cambridge V Chinnor](projections\2025-12-13-Cambridge_V_Chinnor)
+
 [2025/12/13 - Caldy V Coventry](projections\2025-12-13-Caldy_V_Coventry)
 
 [2025/12/12 - Nottingham V Ealing Trailfinders](projections\2025-12-12-Nottingham_V_EalingTrailfinders)
@@ -364,17 +364,13 @@ Last Two Week Error: 15.19 points per match
 
 [In depth model review and projections for Pro D2 25/26](comp_files/Pro_D2_2526)
 
-Competition Accuracy: 73 of 104 (70.19%)
+Competition Accuracy: 74 of 105 (70.48%)
 
-Competition Error: 15.0 points per match
+Competition Error: 14.89 points per match
 
-Last Two Week Accuracy: 5 of 8 (62.5%)
+Last Two Week Accuracy: 6 of 9 (66.67%)
 
-Last Two Week Error: 15.29 points per match
-
-[2025/12/12 - Provence Rugby V Beziers](projections\2025-12-12-ProvenceRugby_V_Beziers)
-
-[2025/12/11 - Soyaux-Angouleme V Agen](projections\2025-12-11-Soyaux-Angouleme_V_Agen)
+Last Two Week Error: 13.97 points per match
 
 [2025/12/12 - Aurillac V Mont-de-Marsan](projections\2025-12-12-Aurillac_V_Mont-de-Marsan)
 
@@ -383,6 +379,8 @@ Last Two Week Error: 15.29 points per match
 [2025/12/12 - Dax V Colomiers](projections\2025-12-12-Dax_V_Colomiers)
 
 [2025/12/12 - Oyonnax V USON Nevers](projections\2025-12-12-Oyonnax_V_USONNevers)
+
+[2025/12/12 - Provence Rugby V Beziers](projections\2025-12-12-ProvenceRugby_V_Beziers)
 
 [2025/12/12 - Valence Romans Drome Rugby V Grenoble](projections\2025-12-12-ValenceRomansDromeRugby_V_Grenoble)
 
