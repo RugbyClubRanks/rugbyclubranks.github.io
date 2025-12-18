@@ -9,9 +9,9 @@ categories: "Japan Rugby League One D2 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Green Rockets Tokatsu to win by 8.43, and Green Rockets Tokatsu won by 17.0. That's an absolute error of 8.6 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 56.0% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Green Rockets Tokatsu to win by 7.79, and Green Rockets Tokatsu won by 17.0. That's an absolute error of 9.2 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 53.3% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 60.5 and we have an actual total of 45.0. That's an absolute error of 15.5 compared to a six month average of 12.9. This prediction was more accurate than 32.3% of my recent predictions.
+For the Over/Under model, I predicted a total of 60.5 and we have an actual total of 45.0. That's an absolute error of 15.5 compared to a six month average of 12.9. This prediction was more accurate than 32.4% of my recent predictions.
 ## Projected Performances - Club Model
 
 

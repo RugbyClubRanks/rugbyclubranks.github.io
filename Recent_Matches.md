@@ -14,9 +14,9 @@ Competition Accuracy: 22 of 28 (78.57%)
 
 Competition Error: 20.05 points per match
 
-Last Two Week Accuracy: 7 of 8 (87.5%)
+Last Two Week Accuracy: 3 of 4 (75.0%)
 
-Last Two Week Error: 15.81 points per match
+Last Two Week Error: 15.91 points per match
 
 [2025/12/14 - Bristol Bears Women V Loughborough Lightning, 19.0 to 31.0](reviews\2025-12-14-BristolBearsWomen_V_LoughboroughLightning)
 
@@ -58,9 +58,9 @@ Competition Accuracy: 17 of 24 (70.83%)
 
 Competition Error: 17.95 points per match
 
-Last Two Week Accuracy: 17 of 24 (70.83%)
+Last Two Week Accuracy: 9 of 12 (75.0%)
 
-Last Two Week Error: 17.95 points per match
+Last Two Week Error: 22.77 points per match
 
 [2025/12/14 - Bristol Rugby V Pau, 61.0 to 12.0](reviews\2025-12-14-BristolRugby_V_Pau)
 
@@ -94,9 +94,9 @@ Competition Accuracy: 13 of 18 (72.22%)
 
 Competition Error: 13.74 points per match
 
-Last Two Week Accuracy: 13 of 18 (72.22%)
+Last Two Week Accuracy: 6 of 9 (66.67%)
 
-Last Two Week Error: 13.74 points per match
+Last Two Week Error: 10.52 points per match
 
 [2025/12/12 - Montpellier Herault V Zebre, 31.0 to 7.0](reviews\2025-12-12-MontpellierHerault_V_Zebre)
 
@@ -146,9 +146,9 @@ Competition Accuracy: 81 of 112 (72.32%)
 
 Competition Error: 14.54 points per match
 
-Last Two Week Accuracy: 13 of 16 (81.25%)
+Last Two Week Accuracy: 8 of 8 (100.0%)
 
-Last Two Week Error: 11.93 points per match
+Last Two Week Error: 8.56 points per match
 
 [2025/12/12 - Aurillac V Mont-de-Marsan, 32.0 to 19.0](reviews\2025-12-12-Aurillac_V_Mont-de-Marsan)
 
@@ -174,11 +174,11 @@ Competition Accuracy: 51 of 70 (72.86%)
 
 Competition Error: 12.47 points per match
 
-Last Two Week Accuracy: 10 of 14 (71.43%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 12.65 points per match
+Last Two Week Error: 10.12 points per match
 
-[2025/12/13 - London Scottish V Hartpury College, 24.0 to 33.0](reviews\2025-12-13-LondonScottish_V_HartpuryCollege)
+[2025/12/13 - London Scottish V Hartpury College RFC, 24.0 to 33.0](reviews\2025-12-13-LondonScottish_V_HartpuryCollege)
 
 [2025/12/13 - Doncaster V Ampthill, 30.0 to 38.0](reviews\2025-12-13-Doncaster_V_Ampthill)
 
@@ -200,9 +200,9 @@ Competition Accuracy: 69 of 98 (70.41%)
 
 Competition Error: 8.0 points per match
 
-Last Two Week Accuracy: 9 of 14 (64.29%)
+Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 8.33 points per match
+Last Two Week Error: 7.42 points per match
 
 [2025/12/13 - US Bressane V Chambery, 20.0 to 17.0](reviews\2025-12-13-USBressane_V_Chambery)
 

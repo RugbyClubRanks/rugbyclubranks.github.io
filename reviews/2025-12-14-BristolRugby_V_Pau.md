@@ -9,9 +9,9 @@ categories: "European Rugby Champions Cup 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Bristol Rugby to win by 2.7, and Bristol Rugby won by 49.0. That's an absolute error of 46.3 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 3.1% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Bristol Rugby to win by 3.08, and Bristol Rugby won by 49.0. That's an absolute error of 45.9 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 3.1% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 54.5 and we have an actual total of 73.0. That's an absolute error of 18.5 compared to a six month average of 12.9. This prediction was more accurate than 25.1% of my recent predictions.
+For the Over/Under model, I predicted a total of 54.5 and we have an actual total of 73.0. That's an absolute error of 18.5 compared to a six month average of 12.9. This prediction was more accurate than 24.8% of my recent predictions.
 ## Projected Performances - Club Model
 
 

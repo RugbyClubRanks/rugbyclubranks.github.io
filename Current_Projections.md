@@ -14,9 +14,9 @@ Competition Accuracy: 22 of 28 (78.57%)
 
 Competition Error: 20.05 points per match
 
-Last Two Week Accuracy: 7 of 8 (87.5%)
+Last Two Week Accuracy: 3 of 4 (75.0%)
 
-Last Two Week Error: 15.81 points per match
+Last Two Week Error: 15.91 points per match
 
 [2025/12/21 - Sale Sharks Women V Saracens Women](projections\2025-12-21-SaleSharksWomen_V_SaracensWomen)
 
@@ -118,19 +118,19 @@ Competition Error: 13.15 points per match
 
 [2025/12/26 - Bayonne V Stade Francais Paris](projections\2025-12-26-Bayonne_V_StadeFrancaisParis)
 
-[2025/12/19 - US Montauban V Pau](projections\2025-12-19-USMontauban_V_Pau)
+[2025/12/20 - US Montauban V Pau](projections\2025-12-20-USMontauban_V_Pau)
 
-[2025/12/19 - Stade Francais Paris V Racing 92](projections\2025-12-19-StadeFrancaisParis_V_Racing92)
+[2025/12/20 - Stade Francais Paris V Racing 92](projections\2025-12-20-StadeFrancaisParis_V_Racing92)
 
-[2025/12/19 - Perpignan V Clermont Auvergne](projections\2025-12-19-Perpignan_V_ClermontAuvergne)
+[2025/12/20 - Perpignan V Clermont Auvergne](projections\2025-12-20-Perpignan_V_ClermontAuvergne)
 
-[2025/12/19 - Montpellier Herault V Castres Olympique](projections\2025-12-19-MontpellierHerault_V_CastresOlympique)
+[2025/12/20 - Montpellier Herault V Castres Olympique](projections\2025-12-20-MontpellierHerault_V_CastresOlympique)
 
-[2025/12/19 - Lyon V Stade Toulousain](projections\2025-12-19-Lyon_V_StadeToulousain)
+[2025/12/20 - Lyon V Stade Toulousain](projections\2025-12-20-Lyon_V_StadeToulousain)
 
-[2025/12/19 - Bordeaux Begles V Toulon](projections\2025-12-19-BordeauxBegles_V_Toulon)
+[2025/12/19 - Bordeaux Begles V Toulon](projections\2025-12-21-BordeauxBegles_V_Toulon)
 
-[2025/12/19 - La Rochelle V Bayonne](projections\2025-12-19-LaRochelle_V_Bayonne)
+[2025/12/20 - La Rochelle V Bayonne](projections\2025-12-20-LaRochelle_V_Bayonne)
 ## Gallagher Premiership
 
 
@@ -146,7 +146,7 @@ Competition Error: 13.72 points per match
 
 [2025/12/19 - Leicester Tigers V Gloucester Rugby](projections\2025-12-19-LeicesterTigers_V_GloucesterRugby)
 
-[2025/12/20 - Harlequins V Bristol Rugby](projections\2025-12-20-Harlequins_V_BristolRugby)
+[2025/12/20 - Harlequins V Bristol Bears](projections\2025-12-20-Harlequins_V_BristolRugby)
 
 [2025/12/20 - Saracens V Exeter Chiefs](projections\2025-12-20-Saracens_V_ExeterChiefs)
 
@@ -202,9 +202,9 @@ Competition Accuracy: 17 of 24 (70.83%)
 
 Competition Error: 17.95 points per match
 
-Last Two Week Accuracy: 17 of 24 (70.83%)
+Last Two Week Accuracy: 9 of 12 (75.0%)
 
-Last Two Week Error: 17.95 points per match
+Last Two Week Error: 22.77 points per match
 
 [2026/01/10 - Bulls V Bristol Rugby](projections\2026-01-10-Bulls_V_BristolRugby)
 
@@ -238,9 +238,9 @@ Competition Accuracy: 13 of 18 (72.22%)
 
 Competition Error: 13.74 points per match
 
-Last Two Week Accuracy: 13 of 18 (72.22%)
+Last Two Week Accuracy: 6 of 9 (66.67%)
 
-Last Two Week Error: 13.74 points per match
+Last Two Week Error: 10.52 points per match
 
 [2026/01/10 - Lions V Lyon](projections\2026-01-10-Lions_V_Lyon)
 
@@ -290,9 +290,9 @@ Competition Accuracy: 51 of 70 (72.86%)
 
 Competition Error: 12.47 points per match
 
-Last Two Week Accuracy: 10 of 14 (71.43%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 12.65 points per match
+Last Two Week Error: 10.12 points per match
 
 [2025/12/26 - Caldy V Ampthill](projections\2025-12-26-Caldy_V_Ampthill)
 
@@ -344,9 +344,9 @@ Competition Accuracy: 81 of 112 (72.32%)
 
 Competition Error: 14.54 points per match
 
-Last Two Week Accuracy: 13 of 16 (81.25%)
+Last Two Week Accuracy: 8 of 8 (100.0%)
 
-Last Two Week Error: 11.93 points per match
+Last Two Week Error: 8.56 points per match
 
 [2026/01/08 - Valence Romans Drome Rugby V Beziers](projections\2026-01-08-ValenceRomansDromeRugby_V_Beziers)
 
@@ -360,21 +360,21 @@ Last Two Week Error: 11.93 points per match
 
 [2026/01/08 - Dax V Agen](projections\2026-01-08-Dax_V_Agen)
 
-[2025/12/18 - Agen V Aurillac](projections\2025-12-18-Agen_V_Aurillac)
-
 [2025/12/18 - Beziers V Vannes](projections\2025-12-18-Beziers_V_Vannes)
 
-[2025/12/18 - Biarritz Olympique V Oyonnax](projections\2025-12-18-BiarritzOlympique_V_Oyonnax)
+[2025/12/19 - Agen V Aurillac](projections\2025-12-19-Agen_V_Aurillac)
 
-[2025/12/18 - Carcassonne V Soyaux-Angouleme](projections\2025-12-18-Carcassonne_V_Soyaux-Angouleme)
+[2025/12/19 - Biarritz Olympique V Oyonnax](projections\2025-12-19-BiarritzOlympique_V_Oyonnax)
 
-[2025/12/18 - Colomiers V Valence Romans Drome Rugby](projections\2025-12-18-Colomiers_V_ValenceRomansDromeRugby)
+[2025/12/19 - Carcassonne V Soyaux-Angouleme](projections\2025-12-19-Carcassonne_V_Soyaux-Angouleme)
 
-[2025/12/18 - Grenoble V Dax](projections\2025-12-18-Grenoble_V_Dax)
+[2025/12/19 - Colomiers V Valence Romans Drome Rugby](projections\2025-12-19-Colomiers_V_ValenceRomansDromeRugby)
 
-[2025/12/18 - Mont-de-Marsan V Provence Rugby](projections\2025-12-18-Mont-de-Marsan_V_ProvenceRugby)
+[2025/12/19 - Grenoble V Dax](projections\2025-12-19-Grenoble_V_Dax)
 
-[2025/12/18 - USON Nevers V Brive](projections\2025-12-18-USONNevers_V_Brive)
+[2025/12/19 - Mont-de-Marsan V Provence Rugby](projections\2025-12-19-Mont-de-Marsan_V_ProvenceRugby)
+
+[2025/12/19 - USON Nevers V Brive](projections\2025-12-19-USONNevers_V_Brive)
 
 [2026/01/08 - Aurillac V Colomiers](projections\2026-01-08-Aurillac_V_Colomiers)
 
@@ -388,9 +388,9 @@ Competition Accuracy: 69 of 98 (70.41%)
 
 Competition Error: 8.0 points per match
 
-Last Two Week Accuracy: 9 of 14 (64.29%)
+Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 8.33 points per match
+Last Two Week Error: 7.42 points per match
 
 [2026/01/10 - Niort V Narbonne](projections\2026-01-10-Niort_V_Narbonne)
 
