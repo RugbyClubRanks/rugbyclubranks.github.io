@@ -1,17 +1,17 @@
 ---  
 layout: page  
-title: Hartpury College V Caldy on 2025/12/20  
+title: Hartpury College RFC V Caldy on 2025/12/20  
 date: 2025-12-20  
 categories: "RFU Championship 25/26" match projection  
 ---
-# Hartpury College V Caldy on 2025/12/20, 38.0 to 22.0
+# Hartpury College RFC V Caldy on 2025/12/20, 38.0 to 22.0
 
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Hartpury College to win by 5.67, and Hartpury College won by 16.0. That's an absolute error of 10.3 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 48.6% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Hartpury College to win by 5.94, and Hartpury College won by 16.0. That's an absolute error of 10.1 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 49.4% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 53.5 and we have an actual total of 60.0. That's an absolute error of 6.5 compared to a six month average of 13.0. This prediction was more accurate than 67.6% of my recent predictions.
+For the Over/Under model, I predicted a total of 54.5 and we have an actual total of 60.0. That's an absolute error of 5.5 compared to a six month average of 12.8. This prediction was more accurate than 71.5% of my recent predictions.
 ## Projected Performances - Club Model
 
 

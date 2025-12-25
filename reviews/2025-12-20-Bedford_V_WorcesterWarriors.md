@@ -9,9 +9,9 @@ categories: "RFU Championship 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Bedford to win by 2.8, and Bedford won by 16.0. That's an absolute error of 13.2 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 39.5% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Bedford to win by 2.76, and Bedford won by 16.0. That's an absolute error of 13.2 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 39.5% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 53.5 and we have an actual total of 54.0. That's an absolute error of 0.5 compared to a six month average of 13.0. This prediction was more accurate than 97.7% of my recent predictions.
+For the Over/Under model, I predicted a total of 52.5 and we have an actual total of 54.0. That's an absolute error of 1.5 compared to a six month average of 12.8. This prediction was more accurate than 92.4% of my recent predictions.
 ## Projected Performances - Club Model
 
 

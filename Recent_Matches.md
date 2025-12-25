@@ -90,9 +90,9 @@ Competition Accuracy: 25 of 32 (78.12%)
 
 Competition Error: 19.43 points per match
 
-Last Two Week Accuracy: 6 of 8 (75.0%)
+Last Two Week Accuracy: 3 of 4 (75.0%)
 
-Last Two Week Error: 15.51 points per match
+Last Two Week Error: 15.1 points per match
 
 [2025/12/21 - Sale Sharks Women V Saracens Women, 17.0 to 36.0](reviews\2025-12-21-SaleSharksWomen_V_SaracensWomen)
 
@@ -110,21 +110,21 @@ Competition Accuracy: 10 of 12 (83.33%)
 
 Competition Error: 9.92 points per match
 
-Last Two Week Accuracy: 10 of 12 (83.33%)
+Last Two Week Accuracy: 6 of 6 (100.0%)
 
-Last Two Week Error: 9.92 points per match
+Last Two Week Error: 6.4 points per match
 
-[2025/12/21 - Shizuoka Blue Revs V Toshiba Brave Lupus, 22.0 to 26.0](reviews\2025-12-21-ShizuokaBlueRevs_V_ToshibaBraveLupus)
+[2025/12/20 - Shizuoka Blue Revs V Toshiba Brave Lupus, 22.0 to 26.0](reviews\2025-12-20-ShizuokaBlueRevs_V_ToshibaBraveLupus)
 
-[2025/12/21 - Saitama Wild Knights V Urayasu D-Rocks, 37.0 to 19.0](reviews\2025-12-21-SaitamaWildKnights_V_UrayasuD-Rocks)
+[2025/12/20 - Saitama Wild Knights V Urayasu D-Rocks, 37.0 to 19.0](reviews\2025-12-20-SaitamaWildKnights_V_UrayasuD-Rocks)
 
-[2025/12/21 - Mitsubishi Dynaboars V Yokohama Canon Eagles, 17.0 to 10.0](reviews\2025-12-21-MitsubishiDynaboars_V_YokohamaCanonEagles)
+[2025/12/20 - Mitsubishi Dynaboars V Yokohama Canon Eagles, 17.0 to 10.0](reviews\2025-12-20-MitsubishiDynaboars_V_YokohamaCanonEagles)
 
-[2025/12/21 - Mie Honda Heat V Kobelco Kobe Steelers, 23.0 to 28.0](reviews\2025-12-21-MieHondaHeat_V_KobelcoKobeSteelers)
+[2025/12/20 - Mie Honda Heat V Kobelco Kobe Steelers, 23.0 to 28.0](reviews\2025-12-20-MieHondaHeat_V_KobelcoKobeSteelers)
 
-[2025/12/20 - Tokyo Sungoliath V Toyota Verblitz, 43.0 to 25.0](reviews\2025-12-20-TokyoSungoliath_V_ToyotaVerblitz)
+[2025/12/19 - Tokyo Sungoliath V Toyota Verblitz, 43.0 to 25.0](reviews\2025-12-19-TokyoSungoliath_V_ToyotaVerblitz)
 
-[2025/12/20 - Kubota Spears V Black Rams Tokyo, 50.0 to 28.0](reviews\2025-12-20-KubotaSpears_V_BlackRamsTokyo)
+[2025/12/19 - Kubota Spears V Black Rams Tokyo, 50.0 to 28.0](reviews\2025-12-19-KubotaSpears_V_BlackRamsTokyo)
 # Domestic Competitions
 
 ## Japan Rugby League One D2
@@ -136,9 +136,9 @@ Competition Accuracy: 5 of 8 (62.5%)
 
 Competition Error: 17.14 points per match
 
-Last Two Week Accuracy: 5 of 8 (62.5%)
+Last Two Week Accuracy: 3 of 4 (75.0%)
 
-Last Two Week Error: 17.14 points per match
+Last Two Week Error: 23.08 points per match
 
 [2025/12/20 - Hanazono Kintetsu Liners V Green Rockets Tokatsu, 40.0 to 10.0](reviews\2025-12-20-HanazonoKintetsuLiners_V_GreenRocketsTokatsu)
 
@@ -156,9 +156,9 @@ Competition Accuracy: 58 of 77 (75.32%)
 
 Competition Error: 12.41 points per match
 
-Last Two Week Accuracy: 13 of 14 (92.86%)
+Last Two Week Accuracy: 7 of 7 (100.0%)
 
-Last Two Week Error: 10.93 points per match
+Last Two Week Error: 11.74 points per match
 
 [2025/12/20 - Ealing Trailfinders V Cambridge, 68.0 to 17.0](reviews\2025-12-20-EalingTrailfinders_V_Cambridge)
 
@@ -172,7 +172,7 @@ Last Two Week Error: 10.93 points per match
 
 [2025/12/19 - Richmond V Doncaster, 7.0 to 31.0](reviews\2025-12-19-Richmond_V_Doncaster)
 
-[2025/12/20 - Hartpury College V Caldy, 38.0 to 22.0](reviews\2025-12-20-HartpuryCollege_V_Caldy)
+[2025/12/20 - Hartpury College RFC V Caldy, 38.0 to 22.0](reviews\2025-12-20-HartpuryCollege_V_Caldy)
 ## Pro D2
 
 
@@ -182,9 +182,9 @@ Competition Accuracy: 87 of 120 (72.5%)
 
 Competition Error: 13.98 points per match
 
-Last Two Week Accuracy: 14 of 16 (87.5%)
+Last Two Week Accuracy: 6 of 8 (75.0%)
 
-Last Two Week Error: 7.35 points per match
+Last Two Week Error: 6.15 points per match
 
 [2025/12/19 - USON Nevers V Brive, 33.0 to 31.0](reviews\2025-12-19-USONNevers_V_Brive)
 
@@ -210,9 +210,9 @@ Competition Accuracy: 5 of 6 (83.33%)
 
 Competition Error: 15.26 points per match
 
-Last Two Week Accuracy: 5 of 6 (83.33%)
+Last Two Week Accuracy: 3 of 3 (100.0%)
 
-Last Two Week Error: 15.26 points per match
+Last Two Week Error: 18.55 points per match
 
 [2025/12/21 - Skyactivs Hiroshima V Kurita Water Gush, 57.0 to 7.0](reviews\2025-12-21-SkyactivsHiroshima_V_KuritaWaterGush)
 

@@ -18,7 +18,7 @@ Last Two Week Accuracy: 4 of 5 (80.0%)
 
 Last Two Week Error: 20.53 points per match
 
-[2025/12/27 - Bristol Rugby V Newcastle Falcons](projections\2025-12-27-BristolRugby_V_NewcastleFalcons)
+[2025/12/27 - Bristol Bears V Newcastle Falcons](projections\2025-12-27-BristolRugby_V_NewcastleFalcons)
 
 [2026/01/04 - Leicester Tigers V Saracens](projections\2026-01-04-LeicesterTigers_V_Saracens)
 
@@ -46,9 +46,9 @@ Competition Accuracy: 10 of 12 (83.33%)
 
 Competition Error: 9.92 points per match
 
-Last Two Week Accuracy: 10 of 12 (83.33%)
+Last Two Week Accuracy: 6 of 6 (100.0%)
 
-Last Two Week Error: 9.92 points per match
+Last Two Week Error: 6.4 points per match
 
 [2025/12/28 - Shizuoka Blue Revs V Urayasu D-Rocks](projections\2025-12-28-ShizuokaBlueRevs_V_UrayasuD-Rocks)
 
@@ -74,19 +74,19 @@ Last Two Week Accuracy: 5 of 7 (71.43%)
 
 Last Two Week Error: 17.19 points per match
 
-[2025/12/26 - Toulon V Perpignan](projections\2025-12-26-Toulon_V_Perpignan)
+[2025/12/28 - Toulon V Perpignan](projections\2025-12-28-Toulon_V_Perpignan)
 
-[2025/12/26 - Stade Toulousain V La Rochelle](projections\2025-12-26-StadeToulousain_V_LaRochelle)
+[2025/12/28 - Stade Toulousain V La Rochelle](projections\2025-12-28-StadeToulousain_V_LaRochelle)
 
-[2025/12/26 - Racing 92 V US Montauban](projections\2025-12-26-Racing92_V_USMontauban)
+[2025/12/28 - Pau V Montpellier Herault](projections\2025-12-28-Pau_V_MontpellierHerault)
 
-[2025/12/26 - Pau V Montpellier Herault](projections\2025-12-26-Pau_V_MontpellierHerault)
+[2025/12/27 - Racing 92 V US Montauban](projections\2025-12-27-Racing92_V_USMontauban)
 
-[2025/12/26 - Clermont Auvergne V Bordeaux Begles](projections\2025-12-26-ClermontAuvergne_V_BordeauxBegles)
+[2025/12/27 - Castres Olympique V Lyon](projections\2025-12-27-CastresOlympique_V_Lyon)
 
-[2025/12/26 - Castres Olympique V Lyon](projections\2025-12-26-CastresOlympique_V_Lyon)
+[2025/12/27 - Bayonne V Stade Francais Paris](projections\2025-12-27-Bayonne_V_StadeFrancaisParis)
 
-[2025/12/26 - Bayonne V Stade Francais Paris](projections\2025-12-26-Bayonne_V_StadeFrancaisParis)
+[2025/12/26 - Clermont Auvergne V Bordeaux Begles](projections\2025-12-27-ClermontAuvergne_V_BordeauxBegles)
 
 [2026/01/02 - La Rochelle V Toulon](projections\2026-01-02-LaRochelle_V_Toulon)
 
@@ -152,11 +152,7 @@ Last Two Week Error: 10.7 points per match
 
 Competition Accuracy: 13 of 18 (72.22%)
 
-Competition Error: 13.74 points per match
-
-Last Two Week Accuracy: 6 of 9 (66.67%)
-
-Last Two Week Error: 10.52 points per match
+Competition Error: 13.75 points per match
 
 [2026/01/17 - Connacht V US Montauban](projections\2026-01-17-Connacht_V_USMontauban)
 
@@ -201,10 +197,6 @@ Last Two Week Error: 10.52 points per match
 Competition Accuracy: 17 of 24 (70.83%)
 
 Competition Error: 17.95 points per match
-
-Last Two Week Accuracy: 9 of 12 (75.0%)
-
-Last Two Week Error: 22.77 points per match
 
 [2026/01/10 - Bulls V Bristol Rugby](projections\2026-01-10-Bulls_V_BristolRugby)
 
@@ -264,10 +256,6 @@ Competition Accuracy: 69 of 98 (70.41%)
 
 Competition Error: 8.0 points per match
 
-Last Two Week Accuracy: 4 of 7 (57.14%)
-
-Last Two Week Error: 7.42 points per match
-
 [2026/01/09 - Chambery V Marcq-en-Baroeul](projections\2026-01-09-Chambery_V_Marcq-en-Baroeul)
 
 [2026/01/09 - Massy V Albi](projections\2026-01-09-Massy_V_Albi)
@@ -304,9 +292,9 @@ Competition Accuracy: 87 of 120 (72.5%)
 
 Competition Error: 13.98 points per match
 
-Last Two Week Accuracy: 14 of 16 (87.5%)
+Last Two Week Accuracy: 6 of 8 (75.0%)
 
-Last Two Week Error: 7.35 points per match
+Last Two Week Error: 6.15 points per match
 
 [2026/01/15 - Carcassonne V Dax](projections\2026-01-15-Carcassonne_V_Dax)
 
@@ -348,9 +336,9 @@ Competition Accuracy: 58 of 77 (75.32%)
 
 Competition Error: 12.41 points per match
 
-Last Two Week Accuracy: 13 of 14 (92.86%)
+Last Two Week Accuracy: 7 of 7 (100.0%)
 
-Last Two Week Error: 10.93 points per match
+Last Two Week Error: 11.74 points per match
 
 [2025/12/26 - Bedford V Richmond](projections\2025-12-26-Bedford_V_Richmond)
 
