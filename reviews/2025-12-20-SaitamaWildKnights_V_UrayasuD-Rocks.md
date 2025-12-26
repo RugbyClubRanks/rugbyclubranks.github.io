@@ -9,9 +9,9 @@ categories: "Japan Rugby League One 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Saitama Wild Knights to win by 13.09, and Saitama Wild Knights won by 18.0. That's an absolute error of 4.9 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 74.8% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Saitama Wild Knights to win by 12.12, and Saitama Wild Knights won by 18.0. That's an absolute error of 5.9 for the margin of victory, while my average absolute error has been 13.8 over the past six months. This prediction was more accurate than 69.3% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 57.5 and we have an actual total of 56.0. That's an absolute error of 1.5 compared to a six month average of 12.8. This prediction was more accurate than 92.4% of my recent predictions.
+For the Over/Under model, I predicted a total of 57.5 and we have an actual total of 56.0. That's an absolute error of 1.5 compared to a six month average of 12.8. This prediction was more accurate than 92.6% of my recent predictions.
 ## Projected Performances - Club Model
 
 

@@ -18,49 +18,25 @@ Last Two Week Accuracy: 4 of 5 (80.0%)
 
 Last Two Week Error: 20.53 points per match
 
-[2025/12/27 - Bristol Bears V Newcastle Falcons](projections\2025-12-27-BristolRugby_V_NewcastleFalcons)
-
-[2026/01/04 - Leicester Tigers V Saracens](projections\2026-01-04-LeicesterTigers_V_Saracens)
+[2026/01/03 - Bath Rugby V Exeter Chiefs](projections\2026-01-03-BathRugby_V_ExeterChiefs)
 
 [2026/01/03 - Northampton Saints V Harlequins](projections\2026-01-03-NorthamptonSaints_V_Harlequins)
 
-[2026/01/03 - Bath Rugby V Exeter Chiefs](projections\2026-01-03-BathRugby_V_ExeterChiefs)
-
-[2026/01/02 - Newcastle Falcons V Gloucester Rugby](projections\2026-01-02-NewcastleFalcons_V_GloucesterRugby)
+[2026/01/04 - Leicester Tigers V Saracens](projections\2026-01-04-LeicesterTigers_V_Saracens)
 
 [2026/01/02 - Bristol Rugby V Sale Sharks](projections\2026-01-02-BristolRugby_V_SaleSharks)
 
+[2025/12/28 - Exeter Chiefs V Leicester Tigers](projections\2025-12-28-ExeterChiefs_V_LeicesterTigers)
+
 [2025/12/27 - Gloucester Rugby V Saracens](projections\2025-12-27-GloucesterRugby_V_Saracens)
 
-[2025/12/28 - Exeter Chiefs V Leicester Tigers](projections\2025-12-28-ExeterChiefs_V_LeicesterTigers)
+[2025/12/27 - Bristol Rugby V Newcastle Falcons](projections\2025-12-27-BristolRugby_V_NewcastleFalcons)
 
 [2025/12/27 - Bath Rugby V Northampton Saints](projections\2025-12-27-BathRugby_V_NorthamptonSaints)
 
 [2025/12/26 - Sale Sharks V Harlequins](projections\2025-12-26-SaleSharks_V_Harlequins)
-## Japan Rugby League One
 
-
-[In depth model review and projections for Japan Rugby League One 25/26](comp_files/Japan_Rugby_League_One_2526)
-
-Competition Accuracy: 10 of 12 (83.33%)
-
-Competition Error: 9.92 points per match
-
-Last Two Week Accuracy: 6 of 6 (100.0%)
-
-Last Two Week Error: 6.4 points per match
-
-[2025/12/28 - Shizuoka Blue Revs V Urayasu D-Rocks](projections\2025-12-28-ShizuokaBlueRevs_V_UrayasuD-Rocks)
-
-[2025/12/28 - Yokohama Canon Eagles V Toshiba Brave Lupus](projections\2025-12-28-YokohamaCanonEagles_V_ToshibaBraveLupus)
-
-[2025/12/28 - Mitsubishi Dynaboars V Saitama Wild Knights](projections\2025-12-28-MitsubishiDynaboars_V_SaitamaWildKnights)
-
-[2025/12/27 - Kubota Spears V Tokyo Sungoliath](projections\2025-12-27-KubotaSpears_V_TokyoSungoliath)
-
-[2025/12/27 - Kobelco Kobe Steelers V Toyota Verblitz](projections\2025-12-27-KobelcoKobeSteelers_V_ToyotaVerblitz)
-
-[2025/12/27 - Black Rams Tokyo V Mie Honda Heat](projections\2025-12-27-BlackRamsTokyo_V_MieHondaHeat)
+[2026/01/02 - Newcastle Falcons V Gloucester Rugby](projections\2026-01-02-NewcastleFalcons_V_GloucesterRugby)
 ## Top 14
 
 
@@ -74,47 +50,93 @@ Last Two Week Accuracy: 5 of 7 (71.43%)
 
 Last Two Week Error: 17.19 points per match
 
-[2025/12/28 - Toulon V Perpignan](projections\2025-12-28-Toulon_V_Perpignan)
+[2025/12/28 - Pau V Montpellier Herault](projections\2025-12-28-Pau_V_MontpellierHerault)
+
+[2025/12/26 - Clermont Auvergne V Bordeaux Begles](projections\2025-12-26-ClermontAuvergne_V_BordeauxBegles)
+
+[2025/12/26 - Castres Olympique V Lyon](projections\2025-12-26-CastresOlympique_V_Lyon)
+
+[2025/12/26 - Bayonne V Stade Francais Paris](projections\2025-12-26-Bayonne_V_StadeFrancaisParis)
+
+[2025/12/26 - Racing 92 V US Montauban](projections\2025-12-26-Racing92_V_USMontauban)
 
 [2025/12/28 - Stade Toulousain V La Rochelle](projections\2025-12-28-StadeToulousain_V_LaRochelle)
 
-[2025/12/28 - Pau V Montpellier Herault](projections\2025-12-28-Pau_V_MontpellierHerault)
-
-[2025/12/27 - Racing 92 V US Montauban](projections\2025-12-27-Racing92_V_USMontauban)
-
-[2025/12/27 - Castres Olympique V Lyon](projections\2025-12-27-CastresOlympique_V_Lyon)
-
-[2025/12/27 - Bayonne V Stade Francais Paris](projections\2025-12-27-Bayonne_V_StadeFrancaisParis)
-
-[2025/12/26 - Clermont Auvergne V Bordeaux Begles](projections\2025-12-27-ClermontAuvergne_V_BordeauxBegles)
-
-[2026/01/02 - La Rochelle V Toulon](projections\2026-01-02-LaRochelle_V_Toulon)
-
-[2026/01/02 - Bordeaux Begles V Racing 92](projections\2026-01-02-BordeauxBegles_V_Racing92)
-
-[2026/01/02 - Lyon V Pau](projections\2026-01-02-Lyon_V_Pau)
-
-[2026/01/02 - Montpellier Herault V Bayonne](projections\2026-01-02-MontpellierHerault_V_Bayonne)
+[2025/12/28 - Toulon V Perpignan](projections\2025-12-28-Toulon_V_Perpignan)
 
 [2026/01/02 - US Montauban V Clermont Auvergne](projections\2026-01-02-USMontauban_V_ClermontAuvergne)
 
 [2026/01/02 - Stade Francais Paris V Castres Olympique](projections\2026-01-02-StadeFrancaisParis_V_CastresOlympique)
 
 [2026/01/02 - Perpignan V Stade Toulousain](projections\2026-01-02-Perpignan_V_StadeToulousain)
+
+[2026/01/02 - Montpellier Herault V Bayonne](projections\2026-01-02-MontpellierHerault_V_Bayonne)
+
+[2026/01/02 - Lyon V Pau](projections\2026-01-02-Lyon_V_Pau)
+
+[2026/01/02 - La Rochelle V Toulon](projections\2026-01-02-LaRochelle_V_Toulon)
+
+[2026/01/02 - Bordeaux Begles V Racing 92](projections\2026-01-02-BordeauxBegles_V_Racing92)
+## Japan Rugby League One
+
+
+[In depth model review and projections for Japan Rugby League One 25/26](comp_files/Japan_Rugby_League_One_2526)
+
+Competition Accuracy: 10 of 12 (83.33%)
+
+Competition Error: 9.92 points per match
+
+Last Two Week Accuracy: 6 of 6 (100.0%)
+
+Last Two Week Error: 6.4 points per match
+
+[2026/01/17 - Yokohama Canon Eagles V Saitama Wild Knights](projections\2026-01-17-YokohamaCanonEagles_V_SaitamaWildKnights)
+
+[2026/01/17 - Urayasu D-Rocks V Toshiba Brave Lupus](projections\2026-01-17-UrayasuD-Rocks_V_ToshibaBraveLupus)
+
+[2026/01/17 - Tokyo Sungoliath V Mie Honda Heat](projections\2026-01-17-TokyoSungoliath_V_MieHondaHeat)
+
+[2026/01/17 - Shizuoka Blue Revs V Mitsubishi Dynaboars](projections\2026-01-17-ShizuokaBlueRevs_V_MitsubishiDynaboars)
+
+[2026/01/17 - Kubota Spears V Toyota Verblitz](projections\2026-01-17-KubotaSpears_V_ToyotaVerblitz)
+
+[2026/01/17 - Kobelco Kobe Steelers V Black Rams Tokyo](projections\2026-01-17-KobelcoKobeSteelers_V_BlackRamsTokyo)
+
+[2026/01/11 - Mie Honda Heat V Kubota Spears](projections\2026-01-11-MieHondaHeat_V_KubotaSpears)
+
+[2026/01/10 - Urayasu D-Rocks V Yokohama Canon Eagles](projections\2026-01-10-UrayasuD-Rocks_V_YokohamaCanonEagles)
+
+[2026/01/10 - Toyota Verblitz V Toshiba Brave Lupus](projections\2026-01-10-ToyotaVerblitz_V_ToshibaBraveLupus)
+
+[2026/01/10 - Tokyo Sungoliath V Kobelco Kobe Steelers](projections\2026-01-10-TokyoSungoliath_V_KobelcoKobeSteelers)
+
+[2026/01/10 - Saitama Wild Knights V Shizuoka Blue Revs](projections\2026-01-10-SaitamaWildKnights_V_ShizuokaBlueRevs)
+
+[2026/01/10 - Black Rams Tokyo V Mitsubishi Dynaboars](projections\2026-01-10-BlackRamsTokyo_V_MitsubishiDynaboars)
+
+[2025/12/27 - Yokohama Canon Eagles V Toshiba Brave Lupus](projections\2025-12-27-YokohamaCanonEagles_V_ToshibaBraveLupus)
+
+[2025/12/27 - Shizuoka Blue Revs V Urayasu D-Rocks](projections\2025-12-27-ShizuokaBlueRevs_V_UrayasuD-Rocks)
+
+[2025/12/27 - Mitsubishi Dynaboars V Saitama Wild Knights](projections\2025-12-27-MitsubishiDynaboars_V_SaitamaWildKnights)
+
+[2025/12/26 - Kubota Spears V Tokyo Sungoliath](projections\2025-12-26-KubotaSpears_V_TokyoSungoliath)
+
+[2025/12/26 - Kobelco Kobe Steelers V Toyota Verblitz](projections\2025-12-26-KobelcoKobeSteelers_V_ToyotaVerblitz)
+
+[2025/12/26 - Black Rams Tokyo V Mie Honda Heat](projections\2025-12-26-BlackRamsTokyo_V_MieHondaHeat)
 ## United Rugby Championship
 
 
 [In depth model review and projections for United Rugby Championship 25/26](comp_files/United_Rugby_Championship_2526)
 
-Competition Accuracy: 38 of 55 (69.09%)
+Competition Accuracy: 39 of 56 (69.64%)
 
-Competition Error: 12.05 points per match
+Competition Error: 12.04 points per match
 
-Last Two Week Accuracy: 5 of 8 (62.5%)
+Last Two Week Accuracy: 6 of 9 (66.67%)
 
-Last Two Week Error: 10.7 points per match
-
-[2025/12/27 - Munster V Leinster](projections\2025-12-27-Munster_V_Leinster)
+Last Two Week Error: 10.83 points per match
 
 [2026/01/03 - Sharks V Lions](projections\2026-01-03-Sharks_V_Lions)
 
@@ -132,6 +154,8 @@ Last Two Week Error: 10.7 points per match
 
 [2025/12/27 - Zebre V Benetton Treviso](projections\2025-12-27-Zebre_V_BenettonTreviso)
 
+[2025/12/27 - Munster V Leinster](projections\2025-12-27-Munster_V_Leinster)
+
 [2025/12/27 - Lions V Sharks](projections\2025-12-27-Lions_V_Sharks)
 
 [2025/12/27 - Edinburgh V Glasgow Warriors](projections\2025-12-27-Edinburgh_V_GlasgowWarriors)
@@ -142,8 +166,6 @@ Last Two Week Error: 10.7 points per match
 
 [2025/12/26 - Scarlets V Ospreys](projections\2025-12-26-Scarlets_V_Ospreys)
 
-[2025/12/26 - Cardiff Rugby V Dragons](projections\2025-12-26-CardiffRugby_V_Dragons)
-
 [2026/01/03 - Stormers V Bulls](projections\2026-01-03-Stormers_V_Bulls)
 ## European Rugby Challenge Cup
 
@@ -152,27 +174,29 @@ Last Two Week Error: 10.7 points per match
 
 Competition Accuracy: 13 of 18 (72.22%)
 
-Competition Error: 13.75 points per match
-
-[2026/01/17 - Connacht V US Montauban](projections\2026-01-17-Connacht_V_USMontauban)
-
-[2026/01/18 - Racing 92 V Cheetahs](projections\2026-01-18-Racing92_V_Cheetahs)
-
-[2026/01/18 - Lyon V Benetton Treviso](projections\2026-01-18-Lyon_V_BenettonTreviso)
-
-[2026/01/18 - Exeter Chiefs V Cardiff Rugby](projections\2026-01-18-ExeterChiefs_V_CardiffRugby)
-
-[2026/01/17 - Ulster V Stade Francais Paris](projections\2026-01-17-Ulster_V_StadeFrancaisParis)
-
-[2026/01/17 - Perpignan V Lions](projections\2026-01-17-Perpignan_V_Lions)
-
-[2026/01/17 - Ospreys V Montpellier Herault](projections\2026-01-17-Ospreys_V_MontpellierHerault)
+Competition Error: 13.74 points per match
 
 [2026/01/10 - Cardiff Rugby V Racing 92](projections\2026-01-10-CardiffRugby_V_Racing92)
 
-[2026/01/16 - Dragons V Newcastle Falcons](projections\2026-01-16-Dragons_V_NewcastleFalcons)
+[2026/01/18 - Lyon V Benetton Treviso](projections\2026-01-18-Lyon_V_BenettonTreviso)
+
+[2026/01/17 - Perpignan V Lions](projections\2026-01-17-Perpignan_V_Lions)
+
+[2026/01/17 - Ulster V Stade Francais Paris](projections\2026-01-17-Ulster_V_StadeFrancaisParis)
+
+[2026/01/18 - Exeter Chiefs V Cardiff Rugby](projections\2026-01-18-ExeterChiefs_V_CardiffRugby)
+
+[2026/01/18 - Racing 92 V Cheetahs](projections\2026-01-18-Racing92_V_Cheetahs)
+
+[2026/01/17 - Connacht V US Montauban](projections\2026-01-17-Connacht_V_USMontauban)
+
+[2026/01/17 - Ospreys V Montpellier Herault](projections\2026-01-17-Ospreys_V_MontpellierHerault)
 
 [2026/01/11 - Zebre V Ospreys](projections\2026-01-11-Zebre_V_Ospreys)
+
+[2026/01/17 - Black Lion V Zebre](projections\2026-01-17-BlackLion_V_Zebre)
+
+[2026/01/16 - Dragons V Newcastle Falcons](projections\2026-01-16-Dragons_V_NewcastleFalcons)
 
 [2026/01/11 - Montpellier Herault V Connacht](projections\2026-01-11-MontpellierHerault_V_Connacht)
 
@@ -186,8 +210,6 @@ Competition Error: 13.75 points per match
 
 [2026/01/10 - Lions V Lyon](projections\2026-01-10-Lions_V_Lyon)
 
-[2026/01/17 - Black Lion V Zebre](projections\2026-01-17-BlackLion_V_Zebre)
-
 [2026/01/10 - Benetton Treviso V Dragons](projections\2026-01-10-BenettonTreviso_V_Dragons)
 ## European Rugby Champions Cup
 
@@ -198,19 +220,19 @@ Competition Accuracy: 17 of 24 (70.83%)
 
 Competition Error: 17.95 points per match
 
-[2026/01/10 - Bulls V Bristol Rugby](projections\2026-01-10-Bulls_V_BristolRugby)
-
 [2026/01/09 - Edinburgh V Gloucester Rugby](projections\2026-01-09-Edinburgh_V_GloucesterRugby)
 
 [2026/01/09 - Castres Olympique V Bath Rugby](projections\2026-01-09-CastresOlympique_V_BathRugby)
 
 [2026/01/10 - Clermont Auvergne V Glasgow Warriors](projections\2026-01-10-ClermontAuvergne_V_GlasgowWarriors)
 
+[2026/01/10 - Bulls V Bristol Rugby](projections\2026-01-10-Bulls_V_BristolRugby)
+
+[2026/01/10 - Scarlets V Pau](projections\2026-01-10-Scarlets_V_Pau)
+
 [2026/01/10 - Leicester Tigers V Bayonne](projections\2026-01-10-LeicesterTigers_V_Bayonne)
 
 [2026/01/10 - Leinster V La Rochelle](projections\2026-01-10-Leinster_V_LaRochelle)
-
-[2026/01/10 - Sale Sharks V Sharks](projections\2026-01-10-SaleSharks_V_Sharks)
 
 [2026/01/18 - Northampton Saints V Scarlets](projections\2026-01-18-NorthamptonSaints_V_Scarlets)
 
@@ -244,7 +266,7 @@ Competition Error: 17.95 points per match
 
 [2026/01/11 - Bordeaux Begles V Northampton Saints](projections\2026-01-11-BordeauxBegles_V_NorthamptonSaints)
 
-[2026/01/10 - Scarlets V Pau](projections\2026-01-10-Scarlets_V_Pau)
+[2026/01/10 - Sale Sharks V Sharks](projections\2026-01-10-SaleSharks_V_Sharks)
 # Domestic Competitions
 
 ## Nationale

@@ -27,18 +27,46 @@ Last Two Week Error: 20.53 points per match
 [2025/12/20 - Saracens V Exeter Chiefs, 24.0 to 30.0](reviews\2025-12-20-Saracens_V_ExeterChiefs)
 
 [2025/12/20 - Northampton Saints V Sale Sharks, 47.0 to 21.0](reviews\2025-12-20-NorthamptonSaints_V_SaleSharks)
+## Top 14
+
+
+[In depth model review and projections for Top 14 25/26](comp_files/Top_14_2526)
+
+Competition Accuracy: 67 of 85 (78.82%)
+
+Competition Error: 13.49 points per match
+
+Last Two Week Accuracy: 5 of 7 (71.43%)
+
+Last Two Week Error: 17.19 points per match
+
+[2025/12/20 - La Rochelle V Bayonne, 49.0 to 17.0](reviews\2025-12-20-LaRochelle_V_Bayonne)
+
+[2025/12/20 - US Montauban V Pau, 17.0 to 53.0](reviews\2025-12-20-USMontauban_V_Pau)
+
+[2025/12/20 - Stade Francais Paris V Racing 92, 20.0 to 20.0](reviews\2025-12-20-StadeFrancaisParis_V_Racing92)
+
+[2025/12/20 - Perpignan V Clermont Auvergne, 26.0 to 20.0](reviews\2025-12-20-Perpignan_V_ClermontAuvergne)
+
+[2025/12/20 - Montpellier Herault V Castres Olympique, 33.0 to 31.0](reviews\2025-12-20-MontpellierHerault_V_CastresOlympique)
+
+[2025/12/20 - Lyon V Stade Toulousain, 19.0 to 41.0](reviews\2025-12-20-Lyon_V_StadeToulousain)
+
+[2025/12/19 - Bordeaux Begles V Toulon, 46.0 to 7.0](reviews\2025-12-21-BordeauxBegles_V_Toulon)
 ## United Rugby Championship
 
 
 [In depth model review and projections for United Rugby Championship 25/26](comp_files/United_Rugby_Championship_2526)
 
-Competition Accuracy: 38 of 55 (69.09%)
+Competition Accuracy: 39 of 56 (69.64%)
 
-Competition Error: 12.05 points per match
+Competition Error: 12.04 points per match
 
-Last Two Week Accuracy: 5 of 8 (62.5%)
+Last Two Week Accuracy: 6 of 9 (66.67%)
 
-Last Two Week Error: 10.7 points per match
+Last Two Week Error: 10.83 points per match
+
+[2025/12/20 - Stormers V Lions, 34.0 to 27.0](reviews\2025-12-20-Stormers_V_Lions)
 
 [2025/12/20 - Sharks V Bulls, 21.0 to 12.0](reviews\2025-12-20-Sharks_V_Bulls)
 
@@ -54,33 +82,7 @@ Last Two Week Error: 10.7 points per match
 
 [2025/12/19 - Cardiff Rugby V Scarlets, 17.0 to 21.0](reviews\2025-12-19-CardiffRugby_V_Scarlets)
 
-[2025/12/20 - Stormers V Lions, 34.0 to 27.0](reviews\2025-12-20-Stormers_V_Lions)
-## Top 14
-
-
-[In depth model review and projections for Top 14 25/26](comp_files/Top_14_2526)
-
-Competition Accuracy: 67 of 85 (78.82%)
-
-Competition Error: 13.49 points per match
-
-Last Two Week Accuracy: 5 of 7 (71.43%)
-
-Last Two Week Error: 17.19 points per match
-
-[2025/12/20 - US Montauban V Pau, 17.0 to 53.0](reviews\2025-12-20-USMontauban_V_Pau)
-
-[2025/12/20 - Stade Francais Paris V Racing 92, 20.0 to 20.0](reviews\2025-12-20-StadeFrancaisParis_V_Racing92)
-
-[2025/12/20 - Perpignan V Clermont Auvergne, 26.0 to 20.0](reviews\2025-12-20-Perpignan_V_ClermontAuvergne)
-
-[2025/12/20 - Montpellier Herault V Castres Olympique, 33.0 to 31.0](reviews\2025-12-20-MontpellierHerault_V_CastresOlympique)
-
-[2025/12/20 - Lyon V Stade Toulousain, 19.0 to 41.0](reviews\2025-12-20-Lyon_V_StadeToulousain)
-
-[2025/12/20 - La Rochelle V Bayonne, 49.0 to 17.0](reviews\2025-12-20-LaRochelle_V_Bayonne)
-
-[2025/12/19 - Bordeaux Begles V Toulon, 46.0 to 7.0](reviews\2025-12-21-BordeauxBegles_V_Toulon)
+[2025/12/26 - Cardiff Rugby V Dragons, 22.0 to 19.0](reviews\2025-12-26-CardiffRugby_V_Dragons)
 ## PWR
 
 

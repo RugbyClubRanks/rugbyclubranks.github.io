@@ -9,9 +9,9 @@ categories: "Pro D2 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Vannes to win by 1.43, and Beziers won by 6.0. That's an absolute error of 7.4 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 62.5% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Vannes to win by 1.08, and Beziers won by 6.0. That's an absolute error of 7.1 for the margin of victory, while my average absolute error has been 13.8 over the past six months. This prediction was more accurate than 63.7% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 40.0. That's an absolute error of 10.5 compared to a six month average of 12.8. This prediction was more accurate than 49.7% of my recent predictions.
+For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 40.0. That's an absolute error of 10.5 compared to a six month average of 12.8. This prediction was more accurate than 48.8% of my recent predictions.
 ## Projected Performances - Club Model
 
 
