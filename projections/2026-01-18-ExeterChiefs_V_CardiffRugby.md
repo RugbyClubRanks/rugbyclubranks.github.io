@@ -1,17 +1,17 @@
----  
-layout: page  
-title: Exeter Chiefs V Cardiff Rugby on 2026/01/18  
-date: 2026-01-18  
-categories: "European Rugby Challenge Cup 25/26" match review  
+---
+layout: page
+title: Exeter Chiefs V Cardiff Rugby on 2026/01/18
+date: 2026-01-18
+categories: "European Rugby Challenge Cup 25/26" match review
 ---
 # Exeter Chiefs V Cardiff Rugby on 2026/01/18
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Exeter Chiefs to win by 5.44.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Exeter Chiefs to win by 6.16.
 
-Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 27 to 22
+Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 27 to 21
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model

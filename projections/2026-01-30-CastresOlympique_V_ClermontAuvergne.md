@@ -1,15 +1,15 @@
----  
-layout: page  
-title: Castres Olympique V Clermont Auvergne on 2026/01/30  
-date: 2026-01-30  
-categories: "Top 14 25/26" match review  
+---
+layout: page
+title: Castres Olympique V Clermont Auvergne on 2026/01/30
+date: 2026-01-30
+categories: "Top 14 25/26" match review
 ---
 # Castres Olympique V Clermont Auvergne on 2026/01/30
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Castres Olympique to win by 4.12.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Castres Olympique to win by 4.02.
 
 Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 25 to 21
 

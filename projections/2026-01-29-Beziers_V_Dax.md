@@ -1,15 +1,15 @@
----  
-layout: page  
-title: Beziers V Dax on 2026/01/29  
-date: 2026-01-29  
-categories: "Pro D2 25/26" match review  
+---
+layout: page
+title: Beziers V Dax on 2026/01/29
+date: 2026-01-29
+categories: "Pro D2 25/26" match review
 ---
 # Beziers V Dax on 2026/01/29
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Beziers to win by 2.2.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Beziers to win by 2.32.
 
 Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 25 to 23
 

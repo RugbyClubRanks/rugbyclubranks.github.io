@@ -1,15 +1,15 @@
----  
-layout: page  
-title: Stade Toulousain V Pau on 2026/01/23  
-date: 2026-01-23  
-categories: "Top 14 25/26" match review  
+---
+layout: page
+title: Stade Toulousain V Pau on 2026/01/23
+date: 2026-01-23
+categories: "Top 14 25/26" match review
 ---
 # Stade Toulousain V Pau on 2026/01/23
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Stade Toulousain to win by 8.4.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Stade Toulousain to win by 8.34.
 
 Our Over/Under is 54.5 - and combined with the spread above, we have a predicted scoreline of 31 to 23
 

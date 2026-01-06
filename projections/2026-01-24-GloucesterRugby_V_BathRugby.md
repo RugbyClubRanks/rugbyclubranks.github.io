@@ -1,15 +1,15 @@
----  
-layout: page  
-title: Gloucester Rugby V Bath Rugby on 2026/01/24  
-date: 2026-01-24  
-categories: "Gallagher Premiership 25/26" match review  
+---
+layout: page
+title: Gloucester Rugby V Bath Rugby on 2026/01/24
+date: 2026-01-24
+categories: "Gallagher Premiership 25/26" match review
 ---
 # Gloucester Rugby V Bath Rugby on 2026/01/24
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Bath Rugby to win by 2.68.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Bath Rugby to win by 2.89.
 
 Our Over/Under is 59.5 - and combined with the spread above, we have a predicted scoreline of 28 to 31
 

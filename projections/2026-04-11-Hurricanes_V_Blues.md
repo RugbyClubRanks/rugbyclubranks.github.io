@@ -1,15 +1,15 @@
----  
-layout: page  
-title: Hurricanes V Blues on 2026/04/11  
-date: 2026-04-11  
-categories: "Super Rugby Pacific 2026" match review  
+---
+layout: page
+title: Hurricanes V Blues on 2026/04/11
+date: 2026-04-11
+categories: "Super Rugby Pacific 2026" match review
 ---
 # Hurricanes V Blues on 2026/04/11
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Hurricanes to win by 1.39.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Hurricanes to win by 1.28.
 
 Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 27 to 26
 

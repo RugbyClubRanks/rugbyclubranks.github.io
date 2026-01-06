@@ -1,15 +1,15 @@
----  
-layout: page  
-title: Newcastle Falcons V Perpignan on 2026/01/10  
-date: 2026-01-10  
-categories: "European Rugby Challenge Cup 25/26" match review  
+---
+layout: page
+title: Newcastle Falcons V Perpignan on 2026/01/10
+date: 2026-01-10
+categories: "European Rugby Challenge Cup 25/26" match review
 ---
 # Newcastle Falcons V Perpignan on 2026/01/10
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Newcastle Falcons to win by 2.05.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Newcastle Falcons to win by 2.16.
 
 Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 26 to 24
 

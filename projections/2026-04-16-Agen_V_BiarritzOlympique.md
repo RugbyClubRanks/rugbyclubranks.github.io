@@ -1,15 +1,15 @@
----  
-layout: page  
-title: Agen V Biarritz Olympique on 2026/04/16  
-date: 2026-04-16  
-categories: "Pro D2 25/26" match review  
+---
+layout: page
+title: Agen V Biarritz Olympique on 2026/04/16
+date: 2026-04-16
+categories: "Pro D2 25/26" match review
 ---
 # Agen V Biarritz Olympique on 2026/04/16
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Agen to win by 3.82.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Agen to win by 4.33.
 
 Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 26 to 22
 

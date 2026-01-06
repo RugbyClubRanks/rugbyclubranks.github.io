@@ -1,17 +1,17 @@
----  
-layout: page  
-title: Cambridge V Doncaster on 2026/01/24  
-date: 2026-01-24  
-categories: "RFU Championship 25/26" match review  
+---
+layout: page
+title: Cambridge V Doncaster on 2026/01/24
+date: 2026-01-24
+categories: "RFU Championship 25/26" match review
 ---
 # Cambridge V Doncaster on 2026/01/24
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Doncaster to win by 8.8.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Doncaster to win by 9.04.
 
-Our Over/Under is 77.5 - and combined with the spread above, we have a predicted scoreline of 34 to 43
+Our Over/Under is 75.5 - and combined with the spread above, we have a predicted scoreline of 33 to 42
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model

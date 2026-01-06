@@ -1,15 +1,15 @@
----  
-layout: page  
-title: Vannes V Brive on 2026/01/15  
-date: 2026-01-15  
-categories: "Pro D2 25/26" match review  
+---
+layout: page
+title: Vannes V Brive on 2026/01/15
+date: 2026-01-15
+categories: "Pro D2 25/26" match review
 ---
 # Vannes V Brive on 2026/01/15
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Vannes to win by 5.83.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Vannes to win by 6.48.
 
 Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 26 to 20
 

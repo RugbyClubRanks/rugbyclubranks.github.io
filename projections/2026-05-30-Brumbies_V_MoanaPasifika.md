@@ -1,15 +1,15 @@
----  
-layout: page  
-title: Brumbies V Moana Pasifika on 2026/05/30  
-date: 2026-05-30  
-categories: "Super Rugby Pacific 2026" match review  
+---
+layout: page
+title: Brumbies V Moana Pasifika on 2026/05/30
+date: 2026-05-30
+categories: "Super Rugby Pacific 2026" match review
 ---
 # Brumbies V Moana Pasifika on 2026/05/30
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Brumbies to win by 4.18.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Brumbies to win by 3.64.
 
 Our Over/Under is 60.5 - and combined with the spread above, we have a predicted scoreline of 32 to 28
 

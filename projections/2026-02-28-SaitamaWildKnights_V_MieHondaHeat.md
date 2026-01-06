@@ -1,15 +1,15 @@
----  
-layout: page  
-title: Saitama Wild Knights V Mie Honda Heat on 2026/02/28  
-date: 2026-02-28  
-categories: "Japan Rugby League One 25/26" match review  
+---
+layout: page
+title: Saitama Wild Knights V Mie Honda Heat on 2026/02/28
+date: 2026-02-28
+categories: "Japan Rugby League One 25/26" match review
 ---
 # Saitama Wild Knights V Mie Honda Heat on 2026/02/28
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Saitama Wild Knights to win by 12.77.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Saitama Wild Knights to win by 12.61.
 
 Our Over/Under is 57.5 - and combined with the spread above, we have a predicted scoreline of 35 to 22
 

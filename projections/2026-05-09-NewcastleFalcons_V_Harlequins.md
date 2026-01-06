@@ -1,15 +1,15 @@
----  
-layout: page  
-title: Newcastle Falcons V Harlequins on 2026/05/09  
-date: 2026-05-09  
-categories: "Gallagher Premiership 25/26" match review  
+---
+layout: page
+title: Newcastle Falcons V Harlequins on 2026/05/09
+date: 2026-05-09
+categories: "Gallagher Premiership 25/26" match review
 ---
 # Newcastle Falcons V Harlequins on 2026/05/09
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Newcastle Falcons to win by 0.57.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Newcastle Falcons to win by 0.66.
 
 Our Over/Under is 56.5 - and combined with the spread above, we have a predicted scoreline of 29 to 28
 

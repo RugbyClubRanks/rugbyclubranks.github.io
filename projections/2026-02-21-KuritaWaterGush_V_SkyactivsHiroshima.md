@@ -1,17 +1,17 @@
----  
-layout: page  
-title: Kurita Water Gush V Skyactivs Hiroshima on 2026/02/21  
-date: 2026-02-21  
-categories: "Japan Rugby League One D3 25/26" match review  
+---
+layout: page
+title: Kurita Water Gush V Skyactivs Hiroshima on 2026/02/21
+date: 2026-02-21
+categories: "Japan Rugby League One D3 25/26" match review
 ---
 # Kurita Water Gush V Skyactivs Hiroshima on 2026/02/21
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Skyactivs Hiroshima to win by 2.61.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Skyactivs Hiroshima to win by 2.68.
 
-Our Over/Under is 59.5 - and combined with the spread above, we have a predicted scoreline of 28 to 31
+Our Over/Under is 63.5 - and combined with the spread above, we have a predicted scoreline of 30 to 33
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model

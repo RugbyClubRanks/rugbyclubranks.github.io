@@ -1,17 +1,17 @@
----  
-layout: page  
-title: US Montauban V La Rochelle on 2026/05/29  
-date: 2026-05-29  
-categories: "Top 14 25/26" match review  
+---
+layout: page
+title: US Montauban V La Rochelle on 2026/05/29
+date: 2026-05-29
+categories: "Top 14 25/26" match review
 ---
 # US Montauban V La Rochelle on 2026/05/29
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting La Rochelle to win by 3.32.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting La Rochelle to win by 3.98.
 
-Our Over/Under is 59.5 - and combined with the spread above, we have a predicted scoreline of 28 to 31
+Our Over/Under is 69.5 - and combined with the spread above, we have a predicted scoreline of 33 to 37
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model

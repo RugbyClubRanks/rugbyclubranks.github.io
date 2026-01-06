@@ -1,17 +1,17 @@
----  
-layout: page  
-title: New South Wales Waratahs V Hurricanes on 2026/03/06  
-date: 2026-03-06  
-categories: "Super Rugby Pacific 2026" match review  
+---
+layout: page
+title: New South Wales Waratahs V Hurricanes on 2026/03/06
+date: 2026-03-06
+categories: "Super Rugby Pacific 2026" match review
 ---
 # New South Wales Waratahs V Hurricanes on 2026/03/06
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Hurricanes to win by 2.59.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Hurricanes to win by 2.76.
 
-Our Over/Under is 69.5 - and combined with the spread above, we have a predicted scoreline of 33 to 36
+Our Over/Under is 65.5 - and combined with the spread above, we have a predicted scoreline of 31 to 34
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model

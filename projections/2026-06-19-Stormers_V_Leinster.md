@@ -1,15 +1,15 @@
----  
-layout: page  
-title: Stormers V Leinster on 2026-06-19  
-date: 2026-06-19  
-categories: "United Rugby Championship 25/26" match review  
+---
+layout: page
+title: Stormers V Leinster on 2026-06-19
+date: 2026-06-19
+categories: "United Rugby Championship 25/26" match review
 ---
 # Stormers V Leinster on 2026-06-19
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Stormers to win by 1.03.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Stormers to win by 0.55.
 
 Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 24 to 23
 

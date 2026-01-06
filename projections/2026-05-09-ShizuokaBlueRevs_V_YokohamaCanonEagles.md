@@ -1,15 +1,15 @@
----  
-layout: page  
-title: Shizuoka Blue Revs V Yokohama Canon Eagles on 2026/05/09  
-date: 2026-05-09  
-categories: "Japan Rugby League One 25/26" match review  
+---
+layout: page
+title: Shizuoka Blue Revs V Yokohama Canon Eagles on 2026/05/09
+date: 2026-05-09
+categories: "Japan Rugby League One 25/26" match review
 ---
 # Shizuoka Blue Revs V Yokohama Canon Eagles on 2026/05/09
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Shizuoka Blue Revs to win by 4.27.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Shizuoka Blue Revs to win by 4.21.
 
 Our Over/Under is 56.5 - and combined with the spread above, we have a predicted scoreline of 30 to 26
 

@@ -1,15 +1,15 @@
----  
-layout: page  
-title: Colomiers V Carcassonne on 2026/04/16  
-date: 2026-04-16  
-categories: "Pro D2 25/26" match review  
+---
+layout: page
+title: Colomiers V Carcassonne on 2026/04/16
+date: 2026-04-16
+categories: "Pro D2 25/26" match review
 ---
 # Colomiers V Carcassonne on 2026/04/16
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Colomiers to win by 7.74.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Colomiers to win by 8.23.
 
 Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 27 to 19
 

@@ -1,15 +1,15 @@
----  
-layout: page  
-title: Marcq-en-Baroeul V US Bressane on 2026/01/31  
-date: 2026-01-31  
-categories: "Nationale 25/26" match review  
+---
+layout: page
+title: Marcq-en-Baroeul V US Bressane on 2026/01/31
+date: 2026-01-31
+categories: "Nationale 25/26" match review
 ---
 # Marcq-en-Baroeul V US Bressane on 2026/01/31
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Marcq-en-Baroeul to win by 0.71.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Marcq-en-Baroeul to win by 0.94.
 
 Our Over/Under is 44.5 - and combined with the spread above, we have a predicted scoreline of 23 to 22
 

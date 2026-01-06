@@ -1,15 +1,15 @@
----  
-layout: page  
-title: Agen V Colomiers on 2026/01/22  
-date: 2026-01-22  
-categories: "Pro D2 25/26" match review  
+---
+layout: page
+title: Agen V Colomiers on 2026/01/22
+date: 2026-01-22
+categories: "Pro D2 25/26" match review
 ---
 # Agen V Colomiers on 2026/01/22
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Agen to win by 0.7.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Agen to win by 0.91.
 
 Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 23 to 22
 

@@ -1,15 +1,15 @@
----  
-layout: page  
-title: Marcq-en-Baroeul V Bourgoin-Jallieu on 2026/04/11  
-date: 2026-04-11  
-categories: "Nationale 25/26" match review  
+---
+layout: page
+title: Marcq-en-Baroeul V Bourgoin-Jallieu on 2026/04/11
+date: 2026-04-11
+categories: "Nationale 25/26" match review
 ---
 # Marcq-en-Baroeul V Bourgoin-Jallieu on 2026/04/11
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Marcq-en-Baroeul to win by 2.84.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Marcq-en-Baroeul to win by 3.4.
 
 Our Over/Under is 41.5 - and combined with the spread above, we have a predicted scoreline of 22 to 19
 

@@ -1,15 +1,15 @@
----  
-layout: page  
-title: Soyaux-Angouleme V Vannes on 2026/04/16  
-date: 2026-04-16  
-categories: "Pro D2 25/26" match review  
+---
+layout: page
+title: Soyaux-Angouleme V Vannes on 2026/04/16
+date: 2026-04-16
+categories: "Pro D2 25/26" match review
 ---
 # Soyaux-Angouleme V Vannes on 2026/04/16
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Vannes to win by 0.03.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Vannes to win by 0.28.
 
 Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 24 to 24
 

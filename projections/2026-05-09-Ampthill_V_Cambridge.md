@@ -1,17 +1,17 @@
----  
-layout: page  
-title: Ampthill V Cambridge on 2026/05/09  
-date: 2026-05-09  
-categories: "RFU Championship 25/26" match review  
+---
+layout: page
+title: Ampthill V Cambridge on 2026/05/09
+date: 2026-05-09
+categories: "RFU Championship 25/26" match review
 ---
 # Ampthill V Cambridge on 2026/05/09
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Ampthill to win by 5.63.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Ampthill to win by 6.36.
 
-Our Over/Under is 63.5 - and combined with the spread above, we have a predicted scoreline of 35 to 29
+Our Over/Under is 69.5 - and combined with the spread above, we have a predicted scoreline of 38 to 32
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model

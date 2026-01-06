@@ -1,15 +1,15 @@
----  
-layout: page  
-title: Oyonnax V Brive on 2026/04/09  
-date: 2026-04-09  
-categories: "Pro D2 25/26" match review  
+---
+layout: page
+title: Oyonnax V Brive on 2026/04/09
+date: 2026-04-09
+categories: "Pro D2 25/26" match review
 ---
 # Oyonnax V Brive on 2026/04/09
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Oyonnax to win by 4.08.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Oyonnax to win by 4.1.
 
 Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 25 to 21
 

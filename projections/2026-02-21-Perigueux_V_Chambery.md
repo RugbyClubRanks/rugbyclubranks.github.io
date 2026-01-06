@@ -1,15 +1,15 @@
----  
-layout: page  
-title: Périgueux V Chambery on 2026/02/21  
-date: 2026-02-21  
-categories: "Nationale 25/26" match review  
+---
+layout: page
+title: Périgueux V Chambery on 2026/02/21
+date: 2026-02-21
+categories: "Nationale 25/26" match review
 ---
 # Périgueux V Chambery on 2026/02/21
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Perigueux to win by 2.3.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Perigueux to win by 2.17.
 
 Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 23 to 21
 

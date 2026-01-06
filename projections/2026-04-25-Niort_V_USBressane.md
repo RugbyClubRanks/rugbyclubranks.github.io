@@ -1,15 +1,15 @@
----  
-layout: page  
-title: Niort V US Bressane on 2026/04/25  
-date: 2026-04-25  
-categories: "Nationale 25/26" match review  
+---
+layout: page
+title: Niort V US Bressane on 2026/04/25
+date: 2026-04-25
+categories: "Nationale 25/26" match review
 ---
 # Niort V US Bressane on 2026/04/25
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Niort to win by 3.92.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Niort to win by 3.63.
 
 Our Over/Under is 42.5 - and combined with the spread above, we have a predicted scoreline of 23 to 19
 

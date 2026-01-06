@@ -1,15 +1,15 @@
----  
-layout: page  
-title: Massy V Suresnes on 2026/03/27  
-date: 2026-03-27  
-categories: "Nationale 25/26" match review  
+---
+layout: page
+title: Massy V Suresnes on 2026/03/27
+date: 2026-03-27
+categories: "Nationale 25/26" match review
 ---
 # Massy V Suresnes on 2026/03/27
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Massy to win by 6.05.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Massy to win by 5.96.
 
 Our Over/Under is 42.5 - and combined with the spread above, we have a predicted scoreline of 24 to 18
 
