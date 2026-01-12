@@ -1,6 +1,6 @@
 ---
 title: "Premiership Rugby Cup 25/26"
-date: 2026-01-05 6:00:00 -0500
+date: 2026-01-12 6:00:00 -0500
 categories: model review projection
 layout: article
 aside:
@@ -35,16 +35,16 @@ aside:
 
 | Club               |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:-------------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Northampton Saints |         4 |            2.646 |                   13.302 |                           0.677 |                              |                         11.663 |
-| Bath Rugby         |         4 |            2.373 |                   12.049 |                           0.888 |                              |                         10.752 |
-| Bristol Rugby      |         4 |            2.255 |                    6.782 |                           0.783 |                              |                         10.183 |
-| Saracens           |         4 |            2.21  |                    6.571 |                           0.926 |                              |                         10.122 |
-| Exeter Chiefs      |         4 |            2.15  |                    5.812 |                           0.941 |                              |                          9.967 |
-| Leicester Tigers   |         4 |            2.107 |                    7.235 |                           0.892 |                              |                          9.61  |
-| Sale Sharks        |         4 |            1.538 |                   -6.388 |                           1.269 |                              |                          7.881 |
-| Harlequins         |         4 |            1.521 |                   -8.871 |                           0.981 |                              |                          7.419 |
-| Gloucester Rugby   |         4 |            1.199 |                  -18.255 |                           0.966 |                              |                          6.064 |
-| Newcastle Falcons  |         4 |            1.077 |                  -18.237 |                           1.148 |                              |                          5.81  |
+| Northampton Saints |         4 |            2.468 |                   10.768 |                           0.812 |                              |                         11.168 |
+| Bath Rugby         |         4 |            2.449 |                   12.592 |                           0.837 |                              |                         11.007 |
+| Bristol Rugby      |         4 |            2.343 |                    8.891 |                           0.765 |                              |                         10.507 |
+| Saracens           |         4 |            2.299 |                    8.076 |                           0.845 |                              |                         10.469 |
+| Exeter Chiefs      |         4 |            2.11  |                    4.703 |                           0.967 |                              |                          9.787 |
+| Leicester Tigers   |         4 |            2.105 |                    8.381 |                           0.928 |                              |                          9.726 |
+| Sale Sharks        |         4 |            1.446 |                   -7.169 |                           1.347 |                              |                          7.589 |
+| Harlequins         |         4 |            1.523 |                   -9.009 |                           0.992 |                              |                          7.462 |
+| Gloucester Rugby   |         4 |            1.171 |                  -19.017 |                           0.973 |                              |                          5.999 |
+| Newcastle Falcons  |         4 |            1.103 |                  -18.216 |                           1.097 |                              |                          5.849 |
 
 
 
@@ -53,16 +53,16 @@ aside:
 
 | Club               |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Leicester Tigers   |        8 |  6.107 |               42.235 |                 0.892 |                  2 |               27.61  |
-| Bath Rugby         |        8 |  4.373 |               51.049 |                 1.888 |                  2 |               21.752 |
-| Northampton Saints |        8 |  4.646 |                8.302 |                 0.677 |                  2 |               21.663 |
-| Gloucester Rugby   |        8 |  4.199 |              -17.255 |                 0.966 |                  3 |               21.064 |
-| Saracens           |        8 |  4.21  |               46.571 |                 0.926 |                  2 |               20.122 |
-| Sale Sharks        |        8 |  3.538 |               12.612 |                 2.269 |                  3 |               19.881 |
-| Exeter Chiefs      |        8 |  4.15  |              -25.188 |                 0.941 |                    |               17.967 |
-| Newcastle Falcons  |        8 |  3.077 |              -34.237 |                 2.148 |                  2 |               16.81  |
-| Bristol Rugby      |        8 |  3.255 |              -21.218 |                 1.783 |                  1 |               16.183 |
-| Harlequins         |        8 |  1.521 |              -62.871 |                 0.981 |                    |                7.419 |
+| Leicester Tigers   |        8 |  6.105 |               43.381 |                 0.928 |                  2 |               27.726 |
+| Bath Rugby         |        8 |  4.449 |               51.592 |                 1.837 |                  2 |               22.007 |
+| Northampton Saints |        8 |  4.468 |                5.768 |                 0.812 |                  2 |               21.168 |
+| Gloucester Rugby   |        8 |  4.171 |              -18.017 |                 0.973 |                  3 |               20.999 |
+| Saracens           |        8 |  4.299 |               48.076 |                 0.845 |                  2 |               20.469 |
+| Sale Sharks        |        8 |  3.446 |               11.831 |                 2.347 |                  3 |               19.589 |
+| Exeter Chiefs      |        8 |  4.11  |              -26.297 |                 0.967 |                    |               17.787 |
+| Newcastle Falcons  |        8 |  3.103 |              -34.216 |                 2.097 |                  2 |               16.849 |
+| Bristol Rugby      |        8 |  3.343 |              -19.109 |                 1.765 |                  1 |               16.507 |
+| Harlequins         |        8 |  1.523 |              -63.009 |                 0.992 |                    |                7.462 |
 
 
 
@@ -71,7 +71,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 67.5% | 10.5 |
+| Club Level | 70.0% | 11.0 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -83,23 +83,12 @@ aside:
 ### Newcastle Falcons V Saracens on 2026/01/30
 
 
-Average Margin: Saracens by 2.6
+Average Margin: Saracens by 2.7
 
 <p float="left">
 <img src="plots/2026-01-30-NewcastleFalcons_V_Saracens_performances.png" width="32%" />
 <img src="plots/2026-01-30-NewcastleFalcons_V_Saracens_resultbar.png" width="32%" />
 <img src="plots/2026-01-30-NewcastleFalcons_V_Saracens_spreads.png" width="32%" />
-</p>
-
-### Northampton Saints V Leicester Tigers on 2026/01/31
-
-
-Average Margin: Northampton Saints by 3.5
-
-<p float="left">
-<img src="plots/2026-01-31-NorthamptonSaints_V_LeicesterTigers_performances.png" width="32%" />
-<img src="plots/2026-01-31-NorthamptonSaints_V_LeicesterTigers_resultbar.png" width="32%" />
-<img src="plots/2026-01-31-NorthamptonSaints_V_LeicesterTigers_spreads.png" width="32%" />
 </p>
 
 ### Exeter Chiefs V Sale Sharks on 2026/01/31
@@ -113,10 +102,21 @@ Average Margin: Exeter Chiefs by 3.6
 <img src="plots/2026-01-31-ExeterChiefs_V_SaleSharks_spreads.png" width="32%" />
 </p>
 
+### Northampton Saints V Leicester Tigers on 2026/01/31
+
+
+Average Margin: Northampton Saints by 3.2
+
+<p float="left">
+<img src="plots/2026-01-31-NorthamptonSaints_V_LeicesterTigers_performances.png" width="32%" />
+<img src="plots/2026-01-31-NorthamptonSaints_V_LeicesterTigers_resultbar.png" width="32%" />
+<img src="plots/2026-01-31-NorthamptonSaints_V_LeicesterTigers_spreads.png" width="32%" />
+</p>
+
 ### Bristol Rugby V Gloucester Rugby on 2026/02/01
 
 
-Average Margin: Bristol Rugby by 5.7
+Average Margin: Bristol Rugby by 6.2
 
 <p float="left">
 <img src="plots/2026-02-01-BristolRugby_V_GloucesterRugby_performances.png" width="32%" />
@@ -126,10 +126,21 @@ Average Margin: Bristol Rugby by 5.7
 
 ## Week 6
 
+### Bristol Rugby V Exeter Chiefs on 2026/02/07
+
+
+Average Margin: Bristol Rugby by 3.9
+
+<p float="left">
+<img src="plots/2026-02-07-BristolRugby_V_ExeterChiefs_performances.png" width="32%" />
+<img src="plots/2026-02-07-BristolRugby_V_ExeterChiefs_resultbar.png" width="32%" />
+<img src="plots/2026-02-07-BristolRugby_V_ExeterChiefs_spreads.png" width="32%" />
+</p>
+
 ### Leicester Tigers V Newcastle Falcons on 2026/02/07
 
 
-Average Margin: Leicester Tigers by 7.9
+Average Margin: Leicester Tigers by 7.7
 
 <p float="left">
 <img src="plots/2026-02-07-LeicesterTigers_V_NewcastleFalcons_performances.png" width="32%" />
@@ -140,7 +151,7 @@ Average Margin: Leicester Tigers by 7.9
 ### Saracens V Harlequins on 2026/02/07
 
 
-Average Margin: Saracens by 5.0
+Average Margin: Saracens by 6.0
 
 <p float="left">
 <img src="plots/2026-02-07-Saracens_V_Harlequins_performances.png" width="32%" />
@@ -148,21 +159,10 @@ Average Margin: Saracens by 5.0
 <img src="plots/2026-02-07-Saracens_V_Harlequins_spreads.png" width="32%" />
 </p>
 
-### Bristol Rugby V Exeter Chiefs on 2026/02/07
-
-
-Average Margin: Bristol Rugby by 3.3
-
-<p float="left">
-<img src="plots/2026-02-07-BristolRugby_V_ExeterChiefs_performances.png" width="32%" />
-<img src="plots/2026-02-07-BristolRugby_V_ExeterChiefs_resultbar.png" width="32%" />
-<img src="plots/2026-02-07-BristolRugby_V_ExeterChiefs_spreads.png" width="32%" />
-</p>
-
 ### Sale Sharks V Bath Rugby on 2026/02/08
 
 
-Average Margin: Sale Sharks by 0.3
+Average Margin: Bath Rugby by 0.0
 
 <p float="left">
 <img src="plots/2026-02-08-SaleSharks_V_BathRugby_performances.png" width="32%" />
@@ -175,7 +175,7 @@ Average Margin: Sale Sharks by 0.3
 ### Saracens V Leicester Tigers on 2026/02/14
 
 
-Average Margin: Saracens by 2.7
+Average Margin: Saracens by 2.4
 
 <p float="left">
 <img src="plots/2026-02-14-Saracens_V_LeicesterTigers_performances.png" width="32%" />
@@ -186,7 +186,7 @@ Average Margin: Saracens by 2.7
 ### Harlequins V Northampton Saints on 2026/02/14
 
 
-Average Margin: Northampton Saints by 2.2
+Average Margin: Northampton Saints by 1.1
 
 <p float="left">
 <img src="plots/2026-02-14-Harlequins_V_NorthamptonSaints_performances.png" width="32%" />
@@ -197,7 +197,7 @@ Average Margin: Northampton Saints by 2.2
 ### Bath Rugby V Bristol Rugby on 2026/02/14
 
 
-Average Margin: Bath Rugby by 5.0
+Average Margin: Bath Rugby by 4.3
 
 <p float="left">
 <img src="plots/2026-02-14-BathRugby_V_BristolRugby_performances.png" width="32%" />
@@ -208,7 +208,7 @@ Average Margin: Bath Rugby by 5.0
 ### Exeter Chiefs V Gloucester Rugby on 2026/02/14
 
 
-Average Margin: Exeter Chiefs by 5.2
+Average Margin: Exeter Chiefs by 5.5
 
 <p float="left">
 <img src="plots/2026-02-14-ExeterChiefs_V_GloucesterRugby_performances.png" width="32%" />
@@ -221,7 +221,7 @@ Average Margin: Exeter Chiefs by 5.2
 ### Newcastle Falcons V Northampton Saints on 2026/02/20
 
 
-Average Margin: Northampton Saints by 3.8
+Average Margin: Northampton Saints by 3.5
 
 <p float="left">
 <img src="plots/2026-02-20-NewcastleFalcons_V_NorthamptonSaints_performances.png" width="32%" />
@@ -232,7 +232,7 @@ Average Margin: Northampton Saints by 3.8
 ### Leicester Tigers V Harlequins on 2026/02/21
 
 
-Average Margin: Leicester Tigers by 5.5
+Average Margin: Leicester Tigers by 6.2
 
 <p float="left">
 <img src="plots/2026-02-21-LeicesterTigers_V_Harlequins_performances.png" width="32%" />
@@ -243,7 +243,7 @@ Average Margin: Leicester Tigers by 5.5
 ### Exeter Chiefs V Bath Rugby on 2026/02/21
 
 
-Average Margin: Exeter Chiefs by 0.3
+Average Margin: Bath Rugby by 0.5
 
 <p float="left">
 <img src="plots/2026-02-21-ExeterChiefs_V_BathRugby_performances.png" width="32%" />
@@ -254,7 +254,7 @@ Average Margin: Exeter Chiefs by 0.3
 ### Gloucester Rugby V Sale Sharks on 2026/02/21
 
 
-Average Margin: Gloucester Rugby by 0.3
+Average Margin: Gloucester Rugby by 0.4
 
 <p float="left">
 <img src="plots/2026-02-21-GloucesterRugby_V_SaleSharks_performances.png" width="32%" />
@@ -267,7 +267,7 @@ Average Margin: Gloucester Rugby by 0.3
 ### Harlequins V Newcastle Falcons on 2026/02/28
 
 
-Average Margin: Harlequins by 3.9
+Average Margin: Harlequins by 4.3
 
 <p float="left">
 <img src="plots/2026-02-28-Harlequins_V_NewcastleFalcons_performances.png" width="32%" />
@@ -278,7 +278,7 @@ Average Margin: Harlequins by 3.9
 ### Northampton Saints V Saracens on 2026/02/28
 
 
-Average Margin: Northampton Saints by 3.8
+Average Margin: Northampton Saints by 2.9
 
 <p float="left">
 <img src="plots/2026-02-28-NorthamptonSaints_V_Saracens_performances.png" width="32%" />
@@ -300,7 +300,7 @@ Average Margin: Bath Rugby by 7.7
 ### Bristol Rugby V Sale Sharks on 2026/03/01
 
 
-Average Margin: Bristol Rugby by 2.8
+Average Margin: Bristol Rugby by 3.1
 
 <p float="left">
 <img src="plots/2026-03-01-BristolRugby_V_SaleSharks_performances.png" width="32%" />
