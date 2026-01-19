@@ -10,91 +10,91 @@ key: page-recents
 
 [In depth model review and projections for Japan Rugby League One 25/26](comp_files/Japan_Rugby_League_One_2526)
 
-Competition Accuracy: 19 of 24 (79.17%)
+Competition Accuracy: 25 of 30 (83.33%)
 
-Competition Error: 11.03 points per match
+Competition Error: 10.75 points per match
 
-Last Two Week Accuracy: 4 of 6 (66.67%)
+Last Two Week Accuracy: 10 of 12 (83.33%)
 
-Last Two Week Error: 4.0 points per match
+Last Two Week Error: 6.8 points per match
 
-[2026/01/10 - Mie Honda Heat V Kubota Spears, 21.0 to 45.0](reviews/2026-01-10-MieHondaHeat_V_KubotaSpears)
+[2026/01/16 - Yokohama Canon Eagles V Saitama Wild Knights, 21.0 to 50.0](reviews/2026-01-16-YokohamaCanonEagles_V_SaitamaWildKnights)
 
-[2026/01/09 - Urayasu D-Rocks V Yokohama Canon Eagles, 28.0 to 22.0](reviews/2026-01-09-UrayasuD-Rocks_V_YokohamaCanonEagles)
+[2026/01/16 - Urayasu D-Rocks V Toshiba Brave Lupus, 27.0 to 38.0](reviews/2026-01-16-UrayasuD-Rocks_V_ToshibaBraveLupus)
 
-[2026/01/09 - Toyota Verblitz V Black Rams Tokyo, 29.0 to 37.0](reviews/2026-01-09-ToyotaVerblitz_V_BlackRamsTokyo)
+[2026/01/16 - Tokyo Sungoliath V Mie Honda Heat, 30.0 to 15.0](reviews/2026-01-16-TokyoSungoliath_V_MieHondaHeat)
 
-[2026/01/09 - Toshiba Brave Lupus V Mitsubishi Dynaboars, 47.0 to 22.0](reviews/2026-01-09-ToshibaBraveLupus_V_MitsubishiDynaboars)
+[2026/01/16 - Shizuoka Blue Revs V Mitsubishi Dynaboars, 47.0 to 36.0](reviews/2026-01-16-ShizuokaBlueRevs_V_MitsubishiDynaboars)
 
-[2026/01/09 - Tokyo Sungoliath V Kobelco Kobe Steelers, 20.0 to 22.0](reviews/2026-01-09-TokyoSungoliath_V_KobelcoKobeSteelers)
+[2026/01/16 - Kubota Spears V Toyota Verblitz, 39.0 to 10.0](reviews/2026-01-16-KubotaSpears_V_ToyotaVerblitz)
 
-[2026/01/09 - Saitama Wild Knights V Shizuoka Blue Revs, 37.0 to 22.0](reviews/2026-01-09-SaitamaWildKnights_V_ShizuokaBlueRevs)
+[2026/01/16 - Kobelco Kobe Steelers V Black Rams Tokyo, 67.0 to 21.0](reviews/2026-01-16-KobelcoKobeSteelers_V_BlackRamsTokyo)
 ## European Rugby Champions Cup
 
 
 [In depth model review and projections for European Rugby Champions Cup 25/26](comp_files/European_Rugby_Champions_Cup_2526)
 
-Competition Accuracy: 25 of 36 (69.44%)
+Competition Accuracy: 32 of 48 (66.67%)
 
-Competition Error: 17.55 points per match
+Competition Error: 17.98 points per match
 
-Last Two Week Accuracy: 8 of 12 (66.67%)
+Last Two Week Accuracy: 15 of 24 (62.5%)
 
-Last Two Week Error: 16.73 points per match
+Last Two Week Error: 18.01 points per match
 
-[2026/01/10 - Leinster V La Rochelle, 25.0 to 24.0](reviews/2026-01-10-Leinster_V_LaRochelle)
+[2026/01/17 - Sharks V Clermont Auvergne, 50.0 to 12.0](reviews/2026-01-17-Sharks_V_ClermontAuvergne)
 
-[2026/01/11 - Toulon V Munster, 27.0 to 25.0](reviews/2026-01-11-Toulon_V_Munster)
+[2026/01/18 - Northampton Saints V Scarlets, 43.0 to 28.0](reviews/2026-01-18-NorthamptonSaints_V_Scarlets)
 
-[2026/01/11 - Saracens V Stade Toulousain, 20.0 to 14.0](reviews/2026-01-11-Saracens_V_StadeToulousain)
+[2026/01/18 - La Rochelle V Harlequins, 17.0 to 27.0](reviews/2026-01-18-LaRochelle_V_Harlequins)
 
-[2026/01/11 - Harlequins V Stormers, 61.0 to 10.0](reviews/2026-01-11-Harlequins_V_Stormers)
+[2026/01/18 - Glasgow Warriors V Saracens, 28.0 to 3.0](reviews/2026-01-18-GlasgowWarriors_V_Saracens)
 
-[2026/01/11 - Bordeaux Begles V Northampton Saints, 50.0 to 28.0](reviews/2026-01-11-BordeauxBegles_V_NorthamptonSaints)
+[2026/01/18 - Bristol Rugby V Bordeaux Begles, 15.0 to 27.0](reviews/2026-01-18-BristolRugby_V_BordeauxBegles)
 
-[2026/01/10 - Scarlets V Pau, 38.0 to 47.0](reviews/2026-01-10-Scarlets_V_Pau)
+[2026/01/17 - Stormers V Leicester Tigers, 39.0 to 26.0](reviews/2026-01-17-Stormers_V_LeicesterTigers)
 
-[2026/01/10 - Sale Sharks V Sharks, 26.0 to 10.0](reviews/2026-01-10-SaleSharks_V_Sharks)
+[2026/01/17 - Stade Toulousain V Sale Sharks, 77.0 to 7.0](reviews/2026-01-17-StadeToulousain_V_SaleSharks)
 
-[2026/01/10 - Clermont Auvergne V Glasgow Warriors, 21.0 to 33.0](reviews/2026-01-10-ClermontAuvergne_V_GlasgowWarriors)
+[2026/01/17 - Gloucester Rugby V Toulon, 14.0 to 31.0](reviews/2026-01-17-GloucesterRugby_V_Toulon)
 
-[2026/01/10 - Bulls V Bristol Rugby, 49.0 to 61.0](reviews/2026-01-10-Bulls_V_BristolRugby)
+[2026/01/17 - Bayonne V Leinster, 13.0 to 22.0](reviews/2026-01-17-Bayonne_V_Leinster)
 
-[2026/01/09 - Edinburgh V Gloucester Rugby, 26.0 to 24.0](reviews/2026-01-09-Edinburgh_V_GloucesterRugby)
+[2026/01/16 - Pau V Bulls, 24.0 to 26.0](reviews/2026-01-16-Pau_V_Bulls)
 
-[2026/01/09 - Castres Olympique V Bath Rugby, 20.0 to 43.0](reviews/2026-01-09-CastresOlympique_V_BathRugby)
+[2026/01/16 - Bath Rugby V Edinburgh, 63.0 to 10.0](reviews/2026-01-16-BathRugby_V_Edinburgh)
 
-[2026/01/10 - Leicester Tigers V Bayonne, 57.0 to 14.0](reviews/2026-01-10-LeicesterTigers_V_Bayonne)
+[2026/01/17 - Munster V Castres Olympique, 29.0 to 31.0](reviews/2026-01-17-Munster_V_CastresOlympique)
 ## European Rugby Challenge Cup
 
 
 [In depth model review and projections for European Rugby Challenge Cup 25/26](comp_files/European_Rugby_Challenge_Cup_2526)
 
-Competition Accuracy: 19 of 27 (70.37%)
+Competition Accuracy: 25 of 36 (69.44%)
 
-Competition Error: 12.78 points per match
+Competition Error: 13.83 points per match
 
-Last Two Week Accuracy: 6 of 9 (66.67%)
+Last Two Week Accuracy: 12 of 18 (66.67%)
 
-Last Two Week Error: 10.86 points per match
+Last Two Week Error: 13.91 points per match
 
-[2026/01/10 - Benetton Treviso V Dragons, 74.0 to 21.0](reviews/2026-01-10-BenettonTreviso_V_Dragons)
+[2026/01/16 - Dragons V Newcastle Falcons, 35.0 to 12.0](reviews/2026-01-16-Dragons_V_NewcastleFalcons)
 
-[2026/01/10 - Cardiff Rugby V Racing 92, 32.0 to 13.0](reviews/2026-01-10-CardiffRugby_V_Racing92)
+[2026/01/17 - Black Lion V Zebre, 14.0 to 28.0](reviews/2026-01-17-BlackLion_V_Zebre)
 
-[2026/01/11 - Zebre V Ospreys, 23.0 to 19.0](reviews/2026-01-11-Zebre_V_Ospreys)
+[2026/01/18 - Racing 92 V Cheetahs, 31.0 to 28.0](reviews/2026-01-18-Racing92_V_Cheetahs)
 
-[2026/01/11 - Montpellier Herault V Connacht, 33.0 to 31.0](reviews/2026-01-11-MontpellierHerault_V_Connacht)
+[2026/01/18 - Lyon V Benetton Treviso, 19.0 to 38.0](reviews/2026-01-18-Lyon_V_BenettonTreviso)
 
-[2026/01/11 - Cheetahs V Ulster, 0.0 to 0.0](reviews/2026-01-11-Cheetahs_V_Ulster)
+[2026/01/18 - Exeter Chiefs V Cardiff Rugby, 31.0 to 0.0](reviews/2026-01-18-ExeterChiefs_V_CardiffRugby)
 
-[2026/01/10 - US Montauban V Black Lion, 28.0 to 31.0](reviews/2026-01-10-USMontauban_V_BlackLion)
+[2026/01/17 - Ulster V Stade Francais Paris, 26.0 to 19.0](reviews/2026-01-17-Ulster_V_StadeFrancaisParis)
 
-[2026/01/10 - Stade Francais Paris V Exeter Chiefs, 27.0 to 25.0](reviews/2026-01-10-StadeFrancaisParis_V_ExeterChiefs)
+[2026/01/17 - Perpignan V Lions, 20.0 to 20.0](reviews/2026-01-17-Perpignan_V_Lions)
 
-[2026/01/10 - Newcastle Falcons V Perpignan, 26.0 to 19.0](reviews/2026-01-10-NewcastleFalcons_V_Perpignan)
+[2026/01/17 - Ospreys V Montpellier Herault, 26.0 to 31.0](reviews/2026-01-17-Ospreys_V_MontpellierHerault)
 
-[2026/01/10 - Lions V Lyon, 42.0 to 33.0](reviews/2026-01-10-Lions_V_Lyon)
+[2026/01/17 - Connacht V US Montauban, 75.0 to 14.0](reviews/2026-01-17-Connacht_V_USMontauban)
 # Domestic Competitions
 
 ## Japan Rugby League One D2
@@ -102,86 +102,100 @@ Last Two Week Error: 10.86 points per match
 
 [In depth model review and projections for Japan Rugby League One D2 25/26](comp_files/Japan_Rugby_League_One_D2_2526)
 
-Competition Accuracy: 7 of 12 (58.33%)
+Competition Accuracy: 9 of 15 (60.0%)
 
-Competition Error: 14.78 points per match
+Competition Error: 14.16 points per match
 
-Last Two Week Accuracy: 2 of 3 (66.67%)
+Last Two Week Accuracy: 4 of 6 (66.67%)
 
-Last Two Week Error: 11.21 points per match
+Last Two Week Error: 11.45 points per match
 
-[2026/01/10 - Green Rockets Tokatsu V Toyota Shuttles Aichi, 24.0 to 40.0](reviews/2026-01-10-GreenRocketsTokatsu_V_ToyotaShuttlesAichi)
+[2026/01/16 - Red Hurricanes Osaka V Hanazono Kintetsu Liners, 35.0 to 40.0](reviews/2026-01-16-RedHurricanesOsaka_V_HanazonoKintetsuLiners)
 
-[2026/01/10 - Hanazono Kintetsu Liners V Hino Red Dolphins, 47.0 to 34.0](reviews/2026-01-10-HanazonoKintetsuLiners_V_HinoRedDolphins)
+[2026/01/16 - Toyota Shuttles Aichi V Kamaishi Seawaves, 52.0 to 54.0](reviews/2026-01-16-ToyotaShuttlesAichi_V_KamaishiSeawaves)
 
-[2026/01/10 - Shimizu Blue Sharks V Red Hurricanes Osaka, 26.0 to 21.0](reviews/2026-01-10-ShimizuBlueSharks_V_RedHurricanesOsaka)
-## Pro D2
-
-
-[In depth model review and projections for Pro D2 25/26](comp_files/Pro_D2_2526)
-
-Competition Accuracy: 94 of 128 (73.44%)
-
-Competition Error: 13.79 points per match
-
-Last Two Week Accuracy: 7 of 8 (87.5%)
-
-Last Two Week Error: 10.87 points per match
-
-[2026/01/09 - Valence Romans Drome Rugby V Beziers, 8.0 to 0.0](reviews/2026-01-09-ValenceRomansDromeRugby_V_Beziers)
-
-[2026/01/09 - Soyaux-Angouleme V USON Nevers, 27.0 to 3.0](reviews/2026-01-09-Soyaux-Angouleme_V_USONNevers)
-
-[2026/01/09 - Oyonnax V Carcassonne, 33.0 to 7.0](reviews/2026-01-09-Oyonnax_V_Carcassonne)
-
-[2026/01/09 - Dax V Agen, 20.0 to 14.0](reviews/2026-01-09-Dax_V_Agen)
-
-[2026/01/09 - Brive V Biarritz Olympique, 61.0 to 22.0](reviews/2026-01-09-Brive_V_BiarritzOlympique)
-
-[2026/01/09 - Aurillac V Colomiers, 14.0 to 15.0](reviews/2026-01-09-Aurillac_V_Colomiers)
-
-[2026/01/08 - Provence Rugby V Grenoble, 45.0 to 15.0](reviews/2026-01-08-ProvenceRugby_V_Grenoble)
-
-[2026/01/09 - Vannes V Mont-de-Marsan, 47.0 to 29.0](reviews/2026-01-09-Vannes_V_Mont-de-Marsan)
+[2026/01/17 - Hino Red Dolphins V Shimizu Blue Sharks, 14.0 to 24.0](reviews/2026-01-17-HinoRedDolphins_V_ShimizuBlueSharks)
 ## Nationale
 
 
 [In depth model review and projections for Nationale 25/26](comp_files/Nationale_2526)
 
-Competition Accuracy: 73 of 104 (70.19%)
+Competition Accuracy: 77 of 111 (69.37%)
 
-Competition Error: 8.04 points per match
+Competition Error: 8.35 points per match
 
-Last Two Week Accuracy: 4 of 6 (66.67%)
+Last Two Week Accuracy: 8 of 13 (61.54%)
 
-Last Two Week Error: 8.78 points per match
+Last Two Week Error: 11.05 points per match
 
-[2026/01/10 - Niort V Narbonne, 15.0 to 23.0](reviews/2026-01-10-Niort_V_Narbonne)
+[2026/01/17 - Rennes V Massy, 10.0 to 14.0](reviews/2026-01-17-Rennes_V_Massy)
 
-[2026/01/10 - Nice V Périgueux, 43.0 to 27.0](reviews/2026-01-10-Nice_V_Perigueux)
+[2026/01/17 - Périgueux V Tarbes, 49.0 to 10.0](reviews/2026-01-17-Perigueux_V_Tarbes)
 
-[2026/01/10 - Bourgoin-Jallieu V Rennes, 15.0 to 9.0](reviews/2026-01-10-Bourgoin-Jallieu_V_Rennes)
+[2026/01/17 - Nice V Bourgoin-Jallieu, 45.0 to 5.0](reviews/2026-01-17-Nice_V_Bourgoin-Jallieu)
 
-[2026/01/09 - Tarbes V Suresnes, 0.0 to 3.0](reviews/2026-01-09-Tarbes_V_Suresnes)
+[2026/01/17 - Narbonne V Chambery, 15.0 to 20.0](reviews/2026-01-17-Narbonne_V_Chambery)
 
-[2026/01/09 - Massy V Albi, 28.0 to 6.0](reviews/2026-01-09-Massy_V_Albi)
+[2026/01/17 - Marcq-en-Baroeul V Rouen, 26.0 to 21.0](reviews/2026-01-17-Marcq-en-Baroeul_V_Rouen)
 
-[2026/01/09 - Chambery V Marcq-en-Baroeul, 26.0 to 19.0](reviews/2026-01-09-Chambery_V_Marcq-en-Baroeul)
+[2026/01/16 - US Bressane V Suresnes, 18.0 to 23.0](reviews/2026-01-16-USBressane_V_Suresnes)
+
+[2026/01/16 - Albi V Niort, 38.0 to 21.0](reviews/2026-01-16-Albi_V_Niort)
+## Pro D2
+
+
+[In depth model review and projections for Pro D2 25/26](comp_files/Pro_D2_2526)
+
+Competition Accuracy: 100 of 136 (73.53%)
+
+Competition Error: 13.71 points per match
+
+Last Two Week Accuracy: 13 of 16 (81.25%)
+
+Last Two Week Error: 11.65 points per match
+
+[2026/01/17 - Vannes V Brive, 35.0 to 7.0](reviews/2026-01-17-Vannes_V_Brive)
+
+[2026/01/16 - USON Nevers V Provence Rugby, 10.0 to 45.0](reviews/2026-01-16-USONNevers_V_ProvenceRugby)
+
+[2026/01/16 - Mont-de-Marsan V Valence Romans Drome Rugby, 18.0 to 13.0](reviews/2026-01-16-Mont-de-Marsan_V_ValenceRomansDromeRugby)
+
+[2026/01/16 - Grenoble V Agen, 45.0 to 36.0](reviews/2026-01-16-Grenoble_V_Agen)
+
+[2026/01/16 - Colomiers V Oyonnax, 24.0 to 23.0](reviews/2026-01-16-Colomiers_V_Oyonnax)
+
+[2026/01/16 - Carcassonne V Dax, 20.0 to 15.0](reviews/2026-01-16-Carcassonne_V_Dax)
+
+[2026/01/16 - Biarritz Olympique V Soyaux-Angouleme, 46.0 to 22.0](reviews/2026-01-16-BiarritzOlympique_V_Soyaux-Angouleme)
+
+[2026/01/16 - Beziers V Aurillac, 22.0 to 7.0](reviews/2026-01-16-Beziers_V_Aurillac)
 ## Japan Rugby League One D3
 
 
 [In depth model review and projections for Japan Rugby League One D3 25/26](comp_files/Japan_Rugby_League_One_D3_2526)
 
-Competition Accuracy: 7 of 9 (77.78%)
+Competition Accuracy: 8 of 11 (72.73%)
 
-Competition Error: 18.23 points per match
+Competition Error: 18.79 points per match
 
-Last Two Week Accuracy: 2 of 3 (66.67%)
+Last Two Week Accuracy: 3 of 5 (60.0%)
 
-Last Two Week Error: 24.18 points per match
+Last Two Week Error: 23.04 points per match
 
-[2026/01/10 - LeRIRO Fukuoka V Kurita Water Gush, 20.0 to 18.0](reviews/2026-01-10-LeRIROFukuoka_V_KuritaWaterGush)
+[2026/01/17 - Chugoku Red Regulions V LeRIRO Fukuoka, 45.0 to 45.0](reviews/2026-01-17-ChugokuRedRegulions_V_LeRIROFukuoka)
 
-[2026/01/09 - Skyactivs Hiroshima V Chugoku Red Regulions, 61.0 to 27.0](reviews/2026-01-09-SkyactivsHiroshima_V_ChugokuRedRegulions)
+[2026/01/16 - Kurita Water Gush V Sayama Secom Rugguts, 24.0 to 59.0](reviews/2026-01-16-KuritaWaterGush_V_SayamaSecomRugguts)
+## RFU Championship
 
-[2026/01/09 - Sayama Secom Rugguts V Yakult Levins Toda, 70.0 to 3.0](reviews/2026-01-09-SayamaSecomRugguts_V_YakultLevinsToda)
+
+[In depth model review and projections for RFU Championship 25/26](comp_files/RFU_Championship_2526)
+
+Competition Accuracy: 66 of 91 (72.53%)
+
+Competition Error: 12.16 points per match
+
+Last Two Week Accuracy: 1 of 1 (100.0%)
+
+Last Two Week Error: 9.65 points per match
+
+[2026/01/17 - Chinnor V Bedford, 27.0 to 17.0](reviews/2026-01-17-Chinnor_V_Bedford)
