@@ -1,6 +1,6 @@
 ---
 title: "Japan Rugby League One D2 25/26"
-date: 2026-01-19 6:00:00 -0500
+date: 2026-01-26 6:00:00 -0500
 categories: model review projection
 layout: article
 aside:
@@ -21,8 +21,8 @@ aside:
 | Shimizu Blue Sharks      |        4 |      4 |                   39 |                     0 |                  2 |                   18 |
 | Toyota Shuttles Aichi    |        4 |      2 |                   31 |                     1 |                  3 |                   12 |
 | Kamaishi Seawaves        |        4 |      2 |                    8 |                     1 |                    |                    9 |
-| Kyuden Voltex            |        3 |      2 |                   -5 |                     0 |                    |                    8 |
-| Green Rockets Tokatsu    |        3 |      1 |                  -29 |                     0 |                  1 |                    5 |
+| Kyuden Voltex            |        4 |      2 |                   -7 |                     1 |                    |                    9 |
+| Green Rockets Tokatsu    |        4 |      2 |                  -27 |                     0 |                  1 |                    9 |
 | Hino Red Dolphins        |        4 |      0 |                  -48 |                     1 |                  1 |                    2 |
 | Red Hurricanes Osaka     |        4 |      0 |                  -70 |                     2 |                    |                    2 |
 
@@ -33,14 +33,14 @@ aside:
 
 | Club                     |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:-------------------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Green Rockets Tokatsu    |         2 |            1.269 |                    8.118 |                           0.347 |                              |                          5.573 |
-| Kyuden Voltex            |         2 |            0.912 |                   -0.937 |                           0.48  |                              |                          4.278 |
-| Toyota Shuttles Aichi    |         1 |            0.695 |                    6.557 |                           0.147 |                              |                          2.993 |
-| Hanazono Kintetsu Liners |         1 |            0.692 |                    5.877 |                           0.146 |                              |                          2.986 |
-| Red Hurricanes Osaka     |         1 |            0.422 |                   -1.921 |                           0.25  |                              |                          2.012 |
-| Kamaishi Seawaves        |         1 |            0.285 |                   -5.26  |                           0.255 |                              |                          1.469 |
-| Shimizu Blue Sharks      |         1 |            0.272 |                   -5.877 |                           0.25  |                              |                          1.41  |
-| Hino Red Dolphins        |         1 |            0.272 |                   -6.557 |                           0.226 |                              |                          1.38  |
+| Toyota Shuttles Aichi    |         1 |            0.683 |                    6.043 |                           0.147 |                              |                          2.951 |
+| Green Rockets Tokatsu    |         1 |            0.66  |                    4.817 |                           0.167 |                              |                          2.869 |
+| Hanazono Kintetsu Liners |         1 |            0.657 |                    4.959 |                           0.155 |                              |                          2.855 |
+| Kyuden Voltex            |         1 |            0.542 |                    1.566 |                           0.223 |                              |                          2.475 |
+| Red Hurricanes Osaka     |         1 |            0.416 |                   -1.566 |                           0.262 |                              |                          2.01  |
+| Kamaishi Seawaves        |         1 |            0.309 |                   -4.817 |                           0.248 |                              |                          1.546 |
+| Shimizu Blue Sharks      |         1 |            0.307 |                   -4.959 |                           0.241 |                              |                          1.541 |
+| Hino Red Dolphins        |         1 |            0.281 |                   -6.043 |                           0.221 |                              |                          1.417 |
 
 
 
@@ -49,14 +49,14 @@ aside:
 
 | Club                     |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Hanazono Kintetsu Liners |        5 |  4.692 |               79.877 |                 0.146 |                  3 |               21.986 |
-| Shimizu Blue Sharks      |        5 |  4.272 |               33.123 |                 0.25  |                  2 |               19.41  |
-| Toyota Shuttles Aichi    |        5 |  2.695 |               37.557 |                 1.147 |                  3 |               14.993 |
-| Kyuden Voltex            |        5 |  2.912 |               -5.937 |                 0.48  |                    |               12.278 |
-| Green Rockets Tokatsu    |        5 |  2.269 |              -20.882 |                 0.347 |                  1 |               10.573 |
-| Kamaishi Seawaves        |        5 |  2.285 |                2.74  |                 1.255 |                    |               10.469 |
-| Red Hurricanes Osaka     |        5 |  0.422 |              -71.921 |                 2.25  |                    |                4.012 |
-| Hino Red Dolphins        |        5 |  0.272 |              -54.557 |                 1.226 |                  1 |                3.38  |
+| Hanazono Kintetsu Liners |        5 |  4.657 |               78.959 |                 0.155 |                  3 |               21.855 |
+| Shimizu Blue Sharks      |        5 |  4.307 |               34.041 |                 0.241 |                  2 |               19.541 |
+| Toyota Shuttles Aichi    |        5 |  2.683 |               37.043 |                 1.147 |                  3 |               14.951 |
+| Green Rockets Tokatsu    |        5 |  2.66  |              -22.183 |                 0.167 |                  1 |               11.869 |
+| Kyuden Voltex            |        5 |  2.542 |               -5.434 |                 1.223 |                    |               11.475 |
+| Kamaishi Seawaves        |        5 |  2.309 |                3.183 |                 1.248 |                    |               10.546 |
+| Red Hurricanes Osaka     |        5 |  0.416 |              -71.566 |                 2.262 |                    |                4.01  |
+| Hino Red Dolphins        |        5 |  0.281 |              -54.043 |                 1.221 |                  1 |                3.417 |
 
 
 
@@ -65,7 +65,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 70.0% | 12.7 |
+| Club Level | 65.0% | 12.7 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -74,23 +74,10 @@ aside:
 
 ## Week 5
 
-### Kyuden Voltex V Green Rockets Tokatsu on 2026/01/24
-
-
-Average Margin: Green Rockets Tokatsu by 2.9
-
-<p float="left">
-<img src="plots/2026-01-24-KyudenVoltex_V_GreenRocketsTokatsu_performances.png" width="32%" />
-<img src="plots/2026-01-24-KyudenVoltex_V_GreenRocketsTokatsu_resultbar.png" width="32%" />
-<img src="plots/2026-01-24-KyudenVoltex_V_GreenRocketsTokatsu_spreads.png" width="32%" />
-</p>
-
-## Week 6
-
 ### Hino Red Dolphins V Toyota Shuttles Aichi on 2026/01/31
 
 
-Average Margin: Toyota Shuttles Aichi by 6.6
+Average Margin: Toyota Shuttles Aichi by 6.0
 
 <p float="left">
 <img src="plots/2026-01-31-HinoRedDolphins_V_ToyotaShuttlesAichi_performances.png" width="32%" />
@@ -98,12 +85,12 @@ Average Margin: Toyota Shuttles Aichi by 6.6
 <img src="plots/2026-01-31-HinoRedDolphins_V_ToyotaShuttlesAichi_spreads.png" width="32%" />
 </p>
 
-## Week 7
+## Week 6
 
 ### Shimizu Blue Sharks V Hanazono Kintetsu Liners on 2026/02/07
 
 
-Average Margin: Hanazono Kintetsu Liners by 5.9
+Average Margin: Hanazono Kintetsu Liners by 5.0
 
 <p float="left">
 <img src="plots/2026-02-07-ShimizuBlueSharks_V_HanazonoKintetsuLiners_performances.png" width="32%" />
@@ -114,7 +101,7 @@ Average Margin: Hanazono Kintetsu Liners by 5.9
 ### Green Rockets Tokatsu V Kamaishi Seawaves on 2026/02/08
 
 
-Average Margin: Green Rockets Tokatsu by 5.3
+Average Margin: Green Rockets Tokatsu by 4.8
 
 <p float="left">
 <img src="plots/2026-02-08-GreenRocketsTokatsu_V_KamaishiSeawaves_performances.png" width="32%" />
@@ -125,7 +112,7 @@ Average Margin: Green Rockets Tokatsu by 5.3
 ### Kyuden Voltex V Red Hurricanes Osaka on 2026/02/08
 
 
-Average Margin: Kyuden Voltex by 1.9
+Average Margin: Kyuden Voltex by 1.6
 
 <p float="left">
 <img src="plots/2026-02-08-KyudenVoltex_V_RedHurricanesOsaka_performances.png" width="32%" />
