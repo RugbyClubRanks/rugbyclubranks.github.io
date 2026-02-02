@@ -1,8 +1,8 @@
----  
-layout: page  
-title: Model Accuracies  
-date: 2025-06-16 6:00:00 -0500  
-categories: model  
+---
+layout: page
+title: Model Accuracies
+date: 2026-02-02 6:00:00 -0500
+categories: model
 ---
 
 
@@ -73,7 +73,7 @@ This drastically increases the complexity, but also allows the chance to forecas
 
 <p float="left">
 <img src="reviews/plots/club_comp_rmse_skills.png" width="49%" />
-<img src="reviews/plots/v2_comp_rmse_skills.png" width="49%" />
+<img src="reviews/plots/player_comp_rmse_skills.png" width="49%" />
 </p>
 
 
