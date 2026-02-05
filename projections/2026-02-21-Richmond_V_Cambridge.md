@@ -9,7 +9,7 @@ categories: "RFU Championship 25/26" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Richmond to win by 6.62.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Richmond to win by 6.77.
 
 Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 28 to 21
 
@@ -18,19 +18,19 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 <p float="left">
-<img src="../comp_files/plots/2026-02-21-Richmond_V_Cambridge_performances.png" width="99%" />
+<img src="../comp_files/plots/2026-02-21-Richmond_V_Cambridge_club_performances.png" width="99%" />
 </p>
 
 ## Projected Spreads - Club Model
 
 
 <p float="left">
-<img src="../comp_files/plots/2026-02-21-Richmond_V_Cambridge_spreads.png" width="99%" />
+<img src="../comp_files/plots/2026-02-21-Richmond_V_Cambridge_club_spreads.png" width="99%" />
 </p>
 
 ## Projected Results - Club Model
 
 
 <p float="left">
-<img src="../comp_files/plots/2026-02-21-Richmond_V_Cambridge_resultbar.png" width="99%" />
+<img src="../comp_files/plots/2026-02-21-Richmond_V_Cambridge_club_resultbar.png" width="99%" />
 </p>

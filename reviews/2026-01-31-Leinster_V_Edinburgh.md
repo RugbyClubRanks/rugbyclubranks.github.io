@@ -9,34 +9,34 @@ categories: "United Rugby Championship 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Leinster to win by 7.49, and Leinster won by 8.0. That's an absolute error of 0.5 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 97.3% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Leinster to win by 8.45, and Leinster won by 8.0. That's an absolute error of 0.4 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 97.4% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 42.5 and we have an actual total of 48.0. That's an absolute error of 5.5 compared to a six month average of 12.5. This prediction was more accurate than 73.0% of my recent predictions.
+For the Over/Under model, I predicted a total of 42.5 and we have an actual total of 48.0. That's an absolute error of 5.5 compared to a six month average of 12.5. This prediction was more accurate than 73.1% of my recent predictions.
 ## Projected Performances - Club Model
 
 
 <p float="left">
-<img src="../comp_files/plots/2026-01-31-Leinster_V_Edinburgh_performances.png" width="99%" />
+<img src="../comp_files/plots/2026-01-31-Leinster_V_Edinburgh_club_performances.png" width="99%" />
 </p>
 
 ## Projected Spreads - Club Model
 
 
 <p float="left">
-<img src="../comp_files/plots/2026-01-31-Leinster_V_Edinburgh_spreads.png" width="99%" />
+<img src="../comp_files/plots/2026-01-31-Leinster_V_Edinburgh_club_spreads.png" width="99%" />
 </p>
 
 ## Projected Results - Club Model
 
 
 <p float="left">
-<img src="../comp_files/plots/2026-01-31-Leinster_V_Edinburgh_resultbar.png" width="99%" />
+<img src="../comp_files/plots/2026-01-31-Leinster_V_Edinburgh_club_resultbar.png" width="99%" />
 </p>
 
 # Player Level Predictions
 
 
-With the player model, I predicted Leinster to win by 3.86,  and Leinster won by 8.0. That's an absolute error of (np.float64(4.0), 1) for the margin of victory, while the average error as been 14.7 for the past six months. So this prediction was more accurate than 69.5% of my recent predictions.
+With the player model, I predicted Leinster to win by 1.45,  and Leinster won by 8.0. That's an absolute error of (np.float64(7.0), 1) for the margin of victory, while the average error as been 15.6 for the past six months. So this prediction was more accurate than 60.6% of my recent predictions.
 ## Projected Performances - Player Model
 
 

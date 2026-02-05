@@ -9,34 +9,34 @@ categories: "RFU Championship 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Doncaster to win by 2.24, and Doncaster won by 32.0. That's an absolute error of 29.8 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 10.6% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Doncaster to win by 3.33, and Doncaster won by 32.0. That's an absolute error of 28.7 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 11.1% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 45.5 and we have an actual total of 56.0. That's an absolute error of 10.5 compared to a six month average of 12.5. This prediction was more accurate than 49.0% of my recent predictions.
+For the Over/Under model, I predicted a total of 46.5 and we have an actual total of 56.0. That's an absolute error of 9.5 compared to a six month average of 12.5. This prediction was more accurate than 53.4% of my recent predictions.
 ## Projected Performances - Club Model
 
 
 <p float="left">
-<img src="../comp_files/plots/2026-01-31-Doncaster_V_CornishPirates_performances.png" width="99%" />
+<img src="../comp_files/plots/2026-01-31-Doncaster_V_CornishPirates_club_performances.png" width="99%" />
 </p>
 
 ## Projected Spreads - Club Model
 
 
 <p float="left">
-<img src="../comp_files/plots/2026-01-31-Doncaster_V_CornishPirates_spreads.png" width="99%" />
+<img src="../comp_files/plots/2026-01-31-Doncaster_V_CornishPirates_club_spreads.png" width="99%" />
 </p>
 
 ## Projected Results - Club Model
 
 
 <p float="left">
-<img src="../comp_files/plots/2026-01-31-Doncaster_V_CornishPirates_resultbar.png" width="99%" />
+<img src="../comp_files/plots/2026-01-31-Doncaster_V_CornishPirates_club_resultbar.png" width="99%" />
 </p>
 
 # Player Level Predictions
 
 
-With the player model, I predicted Doncaster to win by 0.37,  and Doncaster won by 32.0. That's an absolute error of (np.float64(32.0), 1) for the margin of victory, while the average error as been 14.7 for the past six months. So this prediction was more accurate than 11.0% of my recent predictions.
+With the player model, I predicted Cornish Pirates to win by 0.96,  and Doncaster won by 32.0. That's an absolute error of (np.float64(33.0), 1) for the margin of victory, while the average error as been 15.6 for the past six months. So this prediction was more accurate than 11.5% of my recent predictions.
 ## Projected Performances - Player Model
 
 

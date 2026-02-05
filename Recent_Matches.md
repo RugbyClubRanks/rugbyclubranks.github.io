@@ -34,9 +34,9 @@ Competition Accuracy: 91 of 113 (80.53%)
 
 Competition Error: 13.68 points per match
 
-Last Two Week Accuracy: 11 of 14 (78.57%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 11.66 points per match
+Last Two Week Error: 13.7 points per match
 
 [2026/01/31 - Stade Toulousain V Bayonne, 31.0 to 10.0](reviews/2026-01-31-StadeToulousain_V_Bayonne)
 
@@ -60,9 +60,9 @@ Competition Accuracy: 53 of 85 (62.35%)
 
 Competition Error: 11.84 points per match
 
-Last Two Week Accuracy: 9 of 16 (56.25%)
+Last Two Week Accuracy: 5 of 8 (62.5%)
 
-Last Two Week Error: 11.18 points per match
+Last Two Week Error: 12.2 points per match
 
 [2026/01/31 - Ulster V Cardiff Rugby, 21.0 to 14.0](reviews/2026-01-31-Ulster_V_CardiffRugby)
 
@@ -110,9 +110,9 @@ Competition Accuracy: 11 of 17 (64.71%)
 
 Competition Error: 15.25 points per match
 
-Last Two Week Accuracy: 2 of 2 (100.0%)
+Last Two Week Accuracy: 1 of 1 (100.0%)
 
-Last Two Week Error: 21.95 points per match
+Last Two Week Error: 38.24 points per match
 
 [2026/01/30 - Hino Red Dolphins V Toyota Shuttles Aichi, 12.0 to 62.0](reviews/2026-01-30-HinoRedDolphins_V_ToyotaShuttlesAichi)
 ## Pro D2
@@ -124,9 +124,9 @@ Competition Accuracy: 112 of 152 (73.68%)
 
 Competition Error: 13.36 points per match
 
-Last Two Week Accuracy: 11 of 16 (68.75%)
+Last Two Week Accuracy: 6 of 8 (75.0%)
 
-Last Two Week Error: 11.26 points per match
+Last Two Week Error: 12.87 points per match
 
 [2026/01/30 - Beziers V Dax, 10.0 to 6.0](reviews/2026-01-30-Beziers_V_Dax)
 
@@ -152,9 +152,9 @@ Competition Accuracy: 73 of 105 (69.52%)
 
 Competition Error: 12.16 points per match
 
-Last Two Week Accuracy: 9 of 14 (64.29%)
+Last Two Week Accuracy: 5 of 7 (71.43%)
 
-Last Two Week Error: 12.34 points per match
+Last Two Week Error: 14.5 points per match
 
 [2026/01/31 - Hartpury College V Bedford, 18.0 to 13.0](reviews/2026-01-31-HartpuryCollege_V_Bedford)
 
@@ -178,9 +178,9 @@ Competition Accuracy: 11 of 15 (73.33%)
 
 Competition Error: 18.33 points per match
 
-Last Two Week Accuracy: 3 of 4 (75.0%)
+Last Two Week Accuracy: 2 of 3 (66.67%)
 
-Last Two Week Error: 16.64 points per match
+Last Two Week Error: 13.39 points per match
 
 [2026/01/30 - Chugoku Red Regulions V Sayama Secom Rugguts, 0.0 to 40.0](reviews/2026-01-30-ChugokuRedRegulions_V_SayamaSecomRugguts)
 
@@ -196,9 +196,9 @@ Competition Accuracy: 89 of 124 (71.77%)
 
 Competition Error: 8.04 points per match
 
-Last Two Week Accuracy: 13 of 13 (100.0%)
+Last Two Week Accuracy: 6 of 6 (100.0%)
 
-Last Two Week Error: 5.48 points per match
+Last Two Week Error: 4.33 points per match
 
 [2026/01/31 - Périgueux V Massy, 35.0 to 20.0](reviews/2026-01-31-Perigueux_V_Massy)
 

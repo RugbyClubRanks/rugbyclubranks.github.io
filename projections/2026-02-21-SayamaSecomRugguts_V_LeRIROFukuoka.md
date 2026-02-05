@@ -9,7 +9,7 @@ categories: "Japan Rugby League One D3 25/26" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Sayama Secom Rugguts to win by 6.69.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Sayama Secom Rugguts to win by 7.16.
 
 Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 27 to 20
 
@@ -18,19 +18,19 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 <p float="left">
-<img src="../comp_files/plots/2026-02-21-SayamaSecomRugguts_V_LeRIROFukuoka_performances.png" width="99%" />
+<img src="../comp_files/plots/2026-02-21-SayamaSecomRugguts_V_LeRIROFukuoka_club_performances.png" width="99%" />
 </p>
 
 ## Projected Spreads - Club Model
 
 
 <p float="left">
-<img src="../comp_files/plots/2026-02-21-SayamaSecomRugguts_V_LeRIROFukuoka_spreads.png" width="99%" />
+<img src="../comp_files/plots/2026-02-21-SayamaSecomRugguts_V_LeRIROFukuoka_club_spreads.png" width="99%" />
 </p>
 
 ## Projected Results - Club Model
 
 
 <p float="left">
-<img src="../comp_files/plots/2026-02-21-SayamaSecomRugguts_V_LeRIROFukuoka_resultbar.png" width="99%" />
+<img src="../comp_files/plots/2026-02-21-SayamaSecomRugguts_V_LeRIROFukuoka_club_resultbar.png" width="99%" />
 </p>

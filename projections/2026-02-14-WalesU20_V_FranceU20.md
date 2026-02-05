@@ -9,28 +9,28 @@ categories: "U20 Six Nations 2026" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting France U20 to win by 0.49.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting France U20 to win by 0.4.
 
-Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 25 to 25
+Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 24 to 24
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
 
 
 <p float="left">
-<img src="../comp_files/plots/2026-02-14-WalesU20_V_FranceU20_performances.png" width="99%" />
+<img src="../comp_files/plots/2026-02-14-WalesU20_V_FranceU20_club_performances.png" width="99%" />
 </p>
 
 ## Projected Spreads - Club Model
 
 
 <p float="left">
-<img src="../comp_files/plots/2026-02-14-WalesU20_V_FranceU20_spreads.png" width="99%" />
+<img src="../comp_files/plots/2026-02-14-WalesU20_V_FranceU20_club_spreads.png" width="99%" />
 </p>
 
 ## Projected Results - Club Model
 
 
 <p float="left">
-<img src="../comp_files/plots/2026-02-14-WalesU20_V_FranceU20_resultbar.png" width="99%" />
+<img src="../comp_files/plots/2026-02-14-WalesU20_V_FranceU20_club_resultbar.png" width="99%" />
 </p>

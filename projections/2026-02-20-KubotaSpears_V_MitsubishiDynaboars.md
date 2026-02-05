@@ -18,19 +18,19 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 <p float="left">
-<img src="../comp_files/plots/2026-02-20-KubotaSpears_V_MitsubishiDynaboars_performances.png" width="99%" />
+<img src="../comp_files/plots/2026-02-20-KubotaSpears_V_MitsubishiDynaboars_club_performances.png" width="99%" />
 </p>
 
 ## Projected Spreads - Club Model
 
 
 <p float="left">
-<img src="../comp_files/plots/2026-02-20-KubotaSpears_V_MitsubishiDynaboars_spreads.png" width="99%" />
+<img src="../comp_files/plots/2026-02-20-KubotaSpears_V_MitsubishiDynaboars_club_spreads.png" width="99%" />
 </p>
 
 ## Projected Results - Club Model
 
 
 <p float="left">
-<img src="../comp_files/plots/2026-02-20-KubotaSpears_V_MitsubishiDynaboars_resultbar.png" width="99%" />
+<img src="../comp_files/plots/2026-02-20-KubotaSpears_V_MitsubishiDynaboars_club_resultbar.png" width="99%" />
 </p>

@@ -9,7 +9,7 @@ categories: "PWR 25/26" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Gloucester-Hartpury to win by 10.97.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Gloucester-Hartpury to win by 11.01.
 
 Our Over/Under is 44.5 - and combined with the spread above, we have a predicted scoreline of 17 to 28
 
@@ -18,19 +18,19 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 <p float="left">
-<img src="../comp_files/plots/2026-02-07-SaleSharksWomen_V_Gloucester-Hartpury_performances.png" width="99%" />
+<img src="../comp_files/plots/2026-02-07-SaleSharksWomen_V_Gloucester-Hartpury_club_performances.png" width="99%" />
 </p>
 
 ## Projected Spreads - Club Model
 
 
 <p float="left">
-<img src="../comp_files/plots/2026-02-07-SaleSharksWomen_V_Gloucester-Hartpury_spreads.png" width="99%" />
+<img src="../comp_files/plots/2026-02-07-SaleSharksWomen_V_Gloucester-Hartpury_club_spreads.png" width="99%" />
 </p>
 
 ## Projected Results - Club Model
 
 
 <p float="left">
-<img src="../comp_files/plots/2026-02-07-SaleSharksWomen_V_Gloucester-Hartpury_resultbar.png" width="99%" />
+<img src="../comp_files/plots/2026-02-07-SaleSharksWomen_V_Gloucester-Hartpury_club_resultbar.png" width="99%" />
 </p>

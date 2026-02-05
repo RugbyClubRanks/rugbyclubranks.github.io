@@ -9,7 +9,7 @@ categories: "Super Rugby Pacific 2026" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Blues to win by 0.46.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Blues to win by 0.1.
 
 Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 23 to 23
 
@@ -18,19 +18,19 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 
 <p float="left">
-<img src="../comp_files/plots/2026-02-14-Blues_V_Chiefs_performances.png" width="99%" />
+<img src="../comp_files/plots/2026-02-14-Blues_V_Chiefs_club_performances.png" width="99%" />
 </p>
 
 ## Projected Spreads - Club Model
 
 
 <p float="left">
-<img src="../comp_files/plots/2026-02-14-Blues_V_Chiefs_spreads.png" width="99%" />
+<img src="../comp_files/plots/2026-02-14-Blues_V_Chiefs_club_spreads.png" width="99%" />
 </p>
 
 ## Projected Results - Club Model
 
 
 <p float="left">
-<img src="../comp_files/plots/2026-02-14-Blues_V_Chiefs_resultbar.png" width="99%" />
+<img src="../comp_files/plots/2026-02-14-Blues_V_Chiefs_club_resultbar.png" width="99%" />
 </p>
