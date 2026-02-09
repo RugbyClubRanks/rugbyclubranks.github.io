@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Harlequins Women V Exeter Chiefs Women on 2026/02/08
+title: Harlequins Ladies V Exeter Chiefs Women on 2026/02/08
 date: 2026-02-08
 categories: "PWR 25/26" match review
 ---
-# Harlequins Women V Exeter Chiefs Women on 2026/02/08
+# Harlequins Ladies V Exeter Chiefs Women on 2026/02/08
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Harlequins Women to win by 2.68.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Harlequins Women to win by 3.5.
 
-Our Over/Under is 39.5 - and combined with the spread above, we have a predicted scoreline of 21 to 18
+Our Over/Under is 41.5 - and combined with the spread above, we have a predicted scoreline of 22 to 19
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
