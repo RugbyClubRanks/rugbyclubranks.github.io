@@ -12,13 +12,13 @@ key: page-recents
 
 Competition Accuracy: 2 of 4 (50.0%)
 
-Competition Error: 24.25 points per match
+Competition Error: 23.55 points per match
 
 Last Two Week Accuracy: 2 of 4 (50.0%)
 
-Last Two Week Error: 24.25 points per match
+Last Two Week Error: 23.55 points per match
 
-[2026/02/07 - Belgium V Portugal, 14.0 to 47.0](reviews/2026-02-07-Belgium_V_Portugal)
+[2026/02/07 - Belgium V Portugal, 17.0 to 47.0](reviews/2026-02-07-Belgium_V_Portugal)
 
 [2026/02/07 - Netherlands V Spain, 33.0 to 51.0](reviews/2026-02-07-Netherlands_V_Spain)
 
@@ -32,11 +32,11 @@ Last Two Week Error: 24.25 points per match
 
 Competition Accuracy: 2 of 3 (66.67%)
 
-Competition Error: 11.15 points per match
+Competition Error: 11.06 points per match
 
 Last Two Week Accuracy: 2 of 3 (66.67%)
 
-Last Two Week Error: 11.15 points per match
+Last Two Week Error: 11.06 points per match
 
 [2026/02/05 - France V Ireland, 36.0 to 14.0](reviews/2026-02-05-France_V_Ireland)
 
@@ -94,9 +94,9 @@ Competition Accuracy: 16 of 28 (57.14%)
 
 Competition Error: 16.45 points per match
 
-Last Two Week Accuracy: 4 of 8 (50.0%)
+Last Two Week Accuracy: 2 of 4 (50.0%)
 
-Last Two Week Error: 21.08 points per match
+Last Two Week Error: 19.38 points per match
 
 [2026/02/06 - Leicester Tigers V Newcastle Red Bulls, 28.0 to 19.0](reviews/2026-02-06-LeicesterTigers_V_NewcastleRedBulls)
 
@@ -116,9 +116,9 @@ Competition Accuracy: 12 of 16 (75.0%)
 
 Competition Error: 17.25 points per match
 
-Last Two Week Accuracy: 3 of 4 (75.0%)
+Last Two Week Accuracy: 1 of 1 (100.0%)
 
-Last Two Week Error: 10.31 points per match
+Last Two Week Error: 1.06 points per match
 
 [2026/02/06 - Skyactivs Hiroshima V Yakult Levins Toda, 40.0 to 14.0](reviews/2026-02-06-SkyactivsHiroshima_V_YakultLevinsToda)
 ## RFU Championship
@@ -130,9 +130,9 @@ Competition Accuracy: 78 of 112 (69.64%)
 
 Competition Error: 12.22 points per match
 
-Last Two Week Accuracy: 10 of 14 (71.43%)
+Last Two Week Accuracy: 5 of 7 (71.43%)
 
-Last Two Week Error: 13.81 points per match
+Last Two Week Error: 13.11 points per match
 
 [2026/02/06 - Bedford V Ampthill, 35.0 to 13.0](reviews/2026-02-06-Bedford_V_Ampthill)
 

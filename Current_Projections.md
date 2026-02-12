@@ -12,11 +12,11 @@ key: page-projections
 
 Competition Accuracy: 2 of 4 (50.0%)
 
-Competition Error: 24.25 points per match
+Competition Error: 23.55 points per match
 
 Last Two Week Accuracy: 2 of 4 (50.0%)
 
-Last Two Week Error: 24.25 points per match
+Last Two Week Error: 23.55 points per match
 
 [2026/02/14 - Germany V Portugal](projections/2026-02-14-Germany_V_Portugal)
 
@@ -40,11 +40,11 @@ Last Two Week Error: 24.25 points per match
 
 Competition Accuracy: 2 of 3 (66.67%)
 
-Competition Error: 11.15 points per match
+Competition Error: 11.06 points per match
 
 Last Two Week Accuracy: 2 of 3 (66.67%)
 
-Last Two Week Error: 11.15 points per match
+Last Two Week Error: 11.06 points per match
 
 [2026/02/15 - Wales V France](projections/2026-02-15-Wales_V_France)
 
@@ -148,9 +148,9 @@ Competition Accuracy: 16 of 28 (57.14%)
 
 Competition Error: 16.45 points per match
 
-Last Two Week Accuracy: 4 of 8 (50.0%)
+Last Two Week Accuracy: 2 of 4 (50.0%)
 
-Last Two Week Error: 21.08 points per match
+Last Two Week Error: 19.38 points per match
 
 [2026/02/28 - Northampton Saints V Saracens](projections/2026-02-28-NorthamptonSaints_V_Saracens)
 
@@ -183,10 +183,6 @@ Last Two Week Error: 21.08 points per match
 Competition Accuracy: 91 of 113 (80.53%)
 
 Competition Error: 13.68 points per match
-
-Last Two Week Accuracy: 6 of 7 (85.71%)
-
-Last Two Week Error: 13.69 points per match
 
 [2026/02/14 - Bayonne V Racing 92](projections/2026-02-14-Bayonne_V_Racing92)
 
@@ -258,10 +254,6 @@ Competition Accuracy: 53 of 85 (62.35%)
 
 Competition Error: 11.84 points per match
 
-Last Two Week Accuracy: 5 of 8 (62.5%)
-
-Last Two Week Error: 12.2 points per match
-
 [2026/02/21 - Lions V Sharks](projections/2026-02-21-Lions_V_Sharks)
 
 [2026/02/28 - Munster V Zebre](projections/2026-02-28-Munster_V_Zebre)
@@ -287,10 +279,6 @@ Last Two Week Error: 12.2 points per match
 Competition Accuracy: 28 of 36 (77.78%)
 
 Competition Error: 17.66 points per match
-
-Last Two Week Accuracy: 3 of 4 (75.0%)
-
-Last Two Week Error: 6.54 points per match
 
 [2026/02/07 - Bristol Bears Women V Trailfinders Women](projections/2026-02-07-BristolBearsWomen_V_TrailfindersWomen)
 
@@ -326,10 +314,6 @@ Competition Accuracy: 11 of 17 (64.71%)
 
 Competition Error: 15.25 points per match
 
-Last Two Week Accuracy: 1 of 1 (100.0%)
-
-Last Two Week Error: 38.24 points per match
-
 [2026/02/07 - Shimizu Blue Sharks V Hanazono Kintetsu Liners](projections/2026-02-07-ShimizuBlueSharks_V_HanazonoKintetsuLiners)
 
 [2026/02/08 - Green Rockets Tokatsu V Kamaishi Seawaves](projections/2026-02-08-GreenRocketsTokatsu_V_KamaishiSeawaves)
@@ -344,9 +328,9 @@ Competition Accuracy: 78 of 112 (69.64%)
 
 Competition Error: 12.22 points per match
 
-Last Two Week Accuracy: 10 of 14 (71.43%)
+Last Two Week Accuracy: 5 of 7 (71.43%)
 
-Last Two Week Error: 13.81 points per match
+Last Two Week Error: 13.11 points per match
 
 [2026/02/14 - Coventry V Richmond](projections/2026-02-14-Coventry_V_Richmond)
 
@@ -397,10 +381,6 @@ Last Two Week Error: 13.81 points per match
 Competition Accuracy: 112 of 152 (73.68%)
 
 Competition Error: 13.36 points per match
-
-Last Two Week Accuracy: 6 of 8 (75.0%)
-
-Last Two Week Error: 12.87 points per match
 
 [2026/02/26 - Vannes V Colomiers](projections/2026-02-26-Vannes_V_Colomiers)
 
@@ -458,10 +438,6 @@ Competition Accuracy: 89 of 124 (71.77%)
 
 Competition Error: 8.04 points per match
 
-Last Two Week Accuracy: 6 of 6 (100.0%)
-
-Last Two Week Error: 4.33 points per match
-
 [2026/02/20 - Massy V Tarbes](projections/2026-02-20-Massy_V_Tarbes)
 
 [2026/02/20 - Albi V US Bressane](projections/2026-02-20-Albi_V_USBressane)
@@ -512,9 +488,9 @@ Competition Accuracy: 12 of 16 (75.0%)
 
 Competition Error: 17.25 points per match
 
-Last Two Week Accuracy: 3 of 4 (75.0%)
+Last Two Week Accuracy: 1 of 1 (100.0%)
 
-Last Two Week Error: 10.31 points per match
+Last Two Week Error: 1.06 points per match
 
 [2026/02/22 - Yakult Levins Toda V Chugoku Red Regulions](projections/2026-02-22-YakultLevinsToda_V_ChugokuRedRegulions)
 

@@ -9,9 +9,9 @@ categories: "Japan Rugby League One 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Saitama Wild Knights to win by 7.17, and Saitama Wild Knights won by 7.0. That's an absolute error of 0.2 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 99.1% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Saitama Wild Knights to win by 7.6, and Saitama Wild Knights won by 7.0. That's an absolute error of 0.6 for the margin of victory, while my average absolute error has been 13.4 over the past six months. This prediction was more accurate than 96.9% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 19.0. That's an absolute error of 30.5 compared to a six month average of 12.5. This prediction was more accurate than 6.1% of my recent predictions.
+For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 19.0. That's an absolute error of 29.5 compared to a six month average of 12.6. This prediction was more accurate than 7.3% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 49.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Saitama Wild Knights to win by 5.05,  and Saitama Wild Knights won by 7.0. That's an absolute error of 2.0 for the margin of victory, while the average error as been 15.6 for the past six months. So this prediction was more accurate than 80.1% of my recent predictions.
+With the player model, I predicted Saitama Wild Knights to win by 4.43,  and Saitama Wild Knights won by 7.0. That's an absolute error of 2.6 for the margin of victory, while the average error as been 15.6 for the past six months. So this prediction was more accurate than 76.8% of my recent predictions.
 ## Projected Performances - Player Model
 
 

@@ -9,9 +9,9 @@ categories: "Japan Rugby League One 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Kobelco Kobe Steelers to win by 4.26, and Kobelco Kobe Steelers won by 15.0. That's an absolute error of 10.7 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 45.6% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Kobelco Kobe Steelers to win by 4.56, and Kobelco Kobe Steelers won by 15.0. That's an absolute error of 10.4 for the margin of victory, while my average absolute error has been 13.4 over the past six months. This prediction was more accurate than 47.2% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 55.5 and we have an actual total of 105.0. That's an absolute error of 49.5 compared to a six month average of 12.5. This prediction was more accurate than 0.2% of my recent predictions.
+For the Over/Under model, I predicted a total of 54.5 and we have an actual total of 105.0. That's an absolute error of 50.5 compared to a six month average of 12.6. This prediction was more accurate than 0.2% of my recent predictions.
 ## Projected Performances - Club Model
 
 

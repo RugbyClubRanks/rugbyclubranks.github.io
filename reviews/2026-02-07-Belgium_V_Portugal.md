@@ -4,14 +4,14 @@ title: Belgium V Portugal on 2026/02/07
 date: 2026-02-07
 categories: "Rugby Europe Championship 2026" match projection
 ---
-# Belgium V Portugal on 2026/02/07, 14.0 to 47.0
+# Belgium V Portugal on 2026/02/07, 17.0 to 47.0
 
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Belgium to win by 0.76, and Portugal won by 33.0. That's an absolute error of 33.8 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 6.8% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Belgium to win by 1.15, and Portugal won by 30.0. That's an absolute error of 31.2 for the margin of victory, while my average absolute error has been 13.4 over the past six months. This prediction was more accurate than 9.3% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 61.0. That's an absolute error of 10.5 compared to a six month average of 12.5. This prediction was more accurate than 48.8% of my recent predictions.
+For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 64.0. That's an absolute error of 12.5 compared to a six month average of 12.6. This prediction was more accurate than 41.2% of my recent predictions.
 ## Projected Performances - Club Model
 
 

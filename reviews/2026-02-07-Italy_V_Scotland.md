@@ -9,9 +9,9 @@ categories: "Six Nations 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Scotland to win by 0.5, and Italy won by 3.0. That's an absolute error of 3.5 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 81.3% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Italy to win by 0.09, and Italy won by 3.0. That's an absolute error of 2.9 for the margin of victory, while my average absolute error has been 13.4 over the past six months. This prediction was more accurate than 84.8% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 46.5 and we have an actual total of 33.0. That's an absolute error of 13.5 compared to a six month average of 12.5. This prediction was more accurate than 38.1% of my recent predictions.
+For the Over/Under model, I predicted a total of 45.5 and we have an actual total of 33.0. That's an absolute error of 12.5 compared to a six month average of 12.6. This prediction was more accurate than 41.2% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 46.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Scotland to win by 1.82,  and Italy won by 3.0. That's an absolute error of 4.8 for the margin of victory, while the average error as been 15.6 for the past six months. So this prediction was more accurate than 67.1% of my recent predictions.
+With the player model, I predicted Scotland to win by 2.2,  and Italy won by 3.0. That's an absolute error of 5.2 for the margin of victory, while the average error as been 15.6 for the past six months. So this prediction was more accurate than 64.9% of my recent predictions.
 ## Projected Performances - Player Model
 
 
