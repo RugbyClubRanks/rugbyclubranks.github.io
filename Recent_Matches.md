@@ -12,11 +12,11 @@ key: page-recents
 
 Competition Accuracy: 2 of 4 (50.0%)
 
-Competition Error: 23.55 points per match
+Competition Error: 23.5 points per match
 
 Last Two Week Accuracy: 2 of 4 (50.0%)
 
-Last Two Week Error: 23.55 points per match
+Last Two Week Error: 23.5 points per match
 
 [2026/02/07 - Belgium V Portugal, 17.0 to 47.0](reviews/2026-02-07-Belgium_V_Portugal)
 
@@ -32,11 +32,11 @@ Last Two Week Error: 23.55 points per match
 
 Competition Accuracy: 2 of 3 (66.67%)
 
-Competition Error: 11.06 points per match
+Competition Error: 11.1 points per match
 
 Last Two Week Accuracy: 2 of 3 (66.67%)
 
-Last Two Week Error: 11.06 points per match
+Last Two Week Error: 11.1 points per match
 
 [2026/02/05 - France V Ireland, 36.0 to 14.0](reviews/2026-02-05-France_V_Ireland)
 
@@ -105,6 +105,22 @@ Last Two Week Error: 19.38 points per match
 [2026/02/07 - Saracens V Harlequins, 40.0 to 43.0](reviews/2026-02-07-Saracens_V_Harlequins)
 
 [2026/02/08 - Sale Sharks V Bath Rugby, 19.0 to 60.0](reviews/2026-02-08-SaleSharks_V_BathRugby)
+## Super Rugby Pacific
+
+
+[In depth model review and projections for Super Rugby Pacific 2026](comp_files/Super_Rugby_Pacific_2026)
+
+Competition Accuracy: 1 of 2 (50.0%)
+
+Competition Error: 16.16 points per match
+
+Last Two Week Accuracy: 1 of 2 (50.0%)
+
+Last Two Week Error: 16.16 points per match
+
+[2026/02/13 - Highlanders V Crusaders, 25.0 to 23.0](reviews/2026-02-13-Highlanders_V_Crusaders)
+
+[2026/02/13 - New South Wales Waratahs V Queensland Reds, 36.0 to 12.0](reviews/2026-02-13-NewSouthWalesWaratahs_V_QueenslandReds)
 # Domestic Competitions
 
 ## Japan Rugby League One D3
@@ -121,6 +137,20 @@ Last Two Week Accuracy: 1 of 1 (100.0%)
 Last Two Week Error: 1.06 points per match
 
 [2026/02/06 - Skyactivs Hiroshima V Yakult Levins Toda, 40.0 to 14.0](reviews/2026-02-06-SkyactivsHiroshima_V_YakultLevinsToda)
+## Pro D2
+
+
+[In depth model review and projections for Pro D2 25/26](comp_files/Pro_D2_2526)
+
+Competition Accuracy: 113 of 153 (73.86%)
+
+Competition Error: 13.32 points per match
+
+Last Two Week Accuracy: 1 of 1 (100.0%)
+
+Last Two Week Error: 7.91 points per match
+
+[2026/02/12 - USON Nevers V Colomiers, 27.0 to 39.0](reviews/2026-02-12-USONNevers_V_Colomiers)
 ## RFU Championship
 
 

@@ -9,9 +9,9 @@ categories: "RFU Championship 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Worcester Warriors to win by 4.73, and Worcester Warriors won by 5.0. That's an absolute error of 0.3 for the margin of victory, while my average absolute error has been 13.4 over the past six months. This prediction was more accurate than 98.7% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Worcester Warriors to win by 5.04, and Worcester Warriors won by 5.0. That's an absolute error of 0.0 for the margin of victory, while my average absolute error has been 13.4 over the past six months. This prediction was more accurate than 99.8% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 47.5 and we have an actual total of 45.0. That's an absolute error of 2.5 compared to a six month average of 12.6. This prediction was more accurate than 87.6% of my recent predictions.
+For the Over/Under model, I predicted a total of 47.5 and we have an actual total of 45.0. That's an absolute error of 2.5 compared to a six month average of 12.6. This prediction was more accurate than 87.5% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 47.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Worcester Warriors to win by 3.72,  and Worcester Warriors won by 5.0. That's an absolute error of 1.3 for the margin of victory, while the average error as been 15.6 for the past six months. So this prediction was more accurate than 83.1% of my recent predictions.
+With the player model, I predicted Worcester Warriors to win by 3.4,  and Worcester Warriors won by 5.0. That's an absolute error of 1.6 for the margin of victory, while the average error as been 15.6 for the past six months. So this prediction was more accurate than 82.0% of my recent predictions.
 ## Projected Performances - Player Model
 
 

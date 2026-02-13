@@ -9,7 +9,7 @@ categories: "Super Rugby Pacific 2026" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Brumbies to win by 4.34.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Brumbies to win by 4.42.
 
 Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 21 to 25
 
@@ -38,7 +38,7 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 # Player Level Predictions
 
 
-The second set of predictions is based around the players themselves - each player gets a rating, and their contribution is weighted by their time on the field. The player model is currently predicting Brumbies to win by 1.02
+The second set of predictions is based around the players themselves - each player gets a rating, and their contribution is weighted by their time on the field. The player model is currently predicting Brumbies to win by 0.74
 ## Projected Performances - Player Model
 
 

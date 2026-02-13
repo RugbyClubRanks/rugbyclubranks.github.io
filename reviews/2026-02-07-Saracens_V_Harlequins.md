@@ -9,9 +9,9 @@ categories: "Premiership Rugby Cup 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Saracens to win by 6.72, and Harlequins won by 3.0. That's an absolute error of 9.7 for the margin of victory, while my average absolute error has been 13.4 over the past six months. This prediction was more accurate than 49.8% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Saracens to win by 6.33, and Harlequins won by 3.0. That's an absolute error of 9.3 for the margin of victory, while my average absolute error has been 13.4 over the past six months. This prediction was more accurate than 51.8% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 83.0. That's an absolute error of 32.5 compared to a six month average of 12.6. This prediction was more accurate than 4.4% of my recent predictions.
+For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 83.0. That's an absolute error of 31.5 compared to a six month average of 12.6. This prediction was more accurate than 5.6% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 50.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Saracens to win by 4.19,  and Harlequins won by 3.0. That's an absolute error of 7.2 for the margin of victory, while the average error as been 15.6 for the past six months. So this prediction was more accurate than 56.7% of my recent predictions.
+With the player model, I predicted Saracens to win by 3.8,  and Harlequins won by 3.0. That's an absolute error of 6.8 for the margin of victory, while the average error as been 15.6 for the past six months. So this prediction was more accurate than 58.8% of my recent predictions.
 ## Projected Performances - Player Model
 
 
