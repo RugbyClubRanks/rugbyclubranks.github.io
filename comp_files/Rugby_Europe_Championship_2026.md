@@ -1,6 +1,6 @@
 ---
 title: "Rugby Europe Championship 2026"
-date: 2026-02-13 6:00:00 -0500
+date: 2026-02-16 6:00:00 -0500
 categories: model review projection
 layout: article
 aside:
@@ -17,14 +17,14 @@ aside:
 
 | Club        |   Played |   Wins |   Point Differential |   Losing Bonus Points | Try Bonus Points   |   Competition Points |
 |:------------|---------:|-------:|---------------------:|----------------------:|:-------------------|---------------------:|
+| Portugal    |        2 |      2 |                   86 |                     0 |                    |                    8 |
+| Spain       |        2 |      2 |                   57 |                     0 |                    |                    8 |
+| Romania     |        2 |      1 |                   11 |                     1 |                    |                    5 |
 | Georgia     |        1 |      1 |                   51 |                     0 |                    |                    4 |
-| Portugal    |        1 |      1 |                   30 |                     0 |                    |                    4 |
-| Spain       |        1 |      1 |                   18 |                     0 |                    |                    4 |
-| Germany     |        1 |      1 |                    6 |                     0 |                    |                    4 |
-| Romania     |        1 |      0 |                   -6 |                     1 |                    |                    1 |
+| Germany     |        2 |      1 |                  -50 |                     0 |                    |                    4 |
 | Netherlands |        1 |      0 |                  -18 |                     0 |                    |                    0 |
-| Belgium     |        1 |      0 |                  -30 |                     0 |                    |                    0 |
-| Switzerland |        1 |      0 |                  -51 |                     0 |                    |                    0 |
+| Belgium     |        2 |      0 |                  -47 |                     0 |                    |                    0 |
+| Switzerland |        2 |      0 |                  -90 |                     0 |                    |                    0 |
 
 
 
@@ -33,14 +33,14 @@ aside:
 
 | Club        |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Portugal    |         2 |            1.334 |                   13.204 |                           0.307 |                              |                          5.799 |
-| Georgia     |         2 |            1.324 |                   13.149 |                           0.311 |                              |                          5.759 |
-| Spain       |         2 |            1.069 |                    7.805 |                           0.346 |                              |                          4.76  |
-| Belgium     |         2 |            1.028 |                    2.672 |                           0.398 |                              |                          4.67  |
-| Romania     |         2 |            0.848 |                   -3.993 |                           0.43  |                              |                          3.986 |
-| Netherlands |         2 |            0.789 |                   -6.65  |                           0.359 |                              |                          3.665 |
-| Switzerland |         2 |            0.674 |                  -14.304 |                           0.348 |                              |                          3.18  |
-| Germany     |         2 |            0.632 |                  -11.883 |                           0.434 |                              |                          3.114 |
+| Georgia     |         2 |            1.246 |                    9.585 |                           0.341 |                              |                          5.491 |
+| Netherlands |         2 |            0.904 |                   -1.643 |                           0.413 |                              |                          4.195 |
+| Portugal    |         1 |            0.676 |                    6.578 |                           0.144 |                              |                          2.95  |
+| Belgium     |         1 |            0.656 |                    5.972 |                           0.154 |                              |                          2.838 |
+| Switzerland |         1 |            0.414 |                   -3.042 |                           0.219 |                              |                          1.949 |
+| Spain       |         1 |            0.316 |                   -4.9   |                           0.233 |                              |                          1.571 |
+| Germany     |         1 |            0.314 |                   -5.972 |                           0.208 |                              |                          1.524 |
+| Romania     |         1 |            0.273 |                   -6.578 |                           0.216 |                              |                          1.41  |
 
 
 
@@ -49,14 +49,14 @@ aside:
 
 | Club        |   Played |   Wins |   Point Differential |   Losing Bonus Points | Try Bonus Points   |   Competition Points |
 |:------------|---------:|-------:|---------------------:|----------------------:|:-------------------|---------------------:|
-| Portugal    |        3 |  2.334 |               43.204 |                 0.307 |                    |                9.799 |
-| Georgia     |        3 |  2.324 |               64.149 |                 0.311 |                    |                9.759 |
-| Spain       |        3 |  2.069 |               25.805 |                 0.346 |                    |                8.76  |
-| Germany     |        3 |  1.632 |               -5.883 |                 0.434 |                    |                7.114 |
-| Romania     |        3 |  0.848 |               -9.993 |                 1.43  |                    |                4.986 |
-| Belgium     |        3 |  1.028 |              -27.328 |                 0.398 |                    |                4.67  |
-| Netherlands |        3 |  0.789 |              -24.65  |                 0.359 |                    |                3.665 |
-| Switzerland |        3 |  0.674 |              -65.304 |                 0.348 |                    |                3.18  |
+| Portugal    |        3 |  2.676 |               92.578 |                 0.144 |                    |               10.95  |
+| Spain       |        3 |  2.316 |               52.1   |                 0.233 |                    |                9.571 |
+| Georgia     |        3 |  2.246 |               60.585 |                 0.341 |                    |                9.491 |
+| Romania     |        3 |  1.273 |                4.422 |                 1.216 |                    |                6.41  |
+| Germany     |        3 |  1.314 |              -55.972 |                 0.208 |                    |                5.524 |
+| Netherlands |        3 |  0.904 |              -19.643 |                 0.413 |                    |                4.195 |
+| Belgium     |        3 |  0.656 |              -41.028 |                 0.154 |                    |                2.838 |
+| Switzerland |        3 |  0.414 |              -93.042 |                 0.219 |                    |                1.949 |
 
 
 
@@ -65,41 +65,19 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 58.3% | 15.3 |
+| Club Level | 66.7% | 19.4 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
 
 # Future Predictions
 
-## Week 2
-
-### Spain V Switzerland on 2026/02/14
-
-
-Average Margin: Spain by 12.9
-
-<p float="left">
-<img src="plots/2026-02-14-Spain_V_Switzerland_performances.png" width="32%" />
-<img src="plots/2026-02-14-Spain_V_Switzerland_resultbar.png" width="32%" />
-<img src="plots/2026-02-14-Spain_V_Switzerland_spreads.png" width="32%" />
-</p>
-
-### Germany V Portugal on 2026/02/14
-
-
-Average Margin: Portugal by 6.4
-
-<p float="left">
-<img src="plots/2026-02-14-Germany_V_Portugal_performances.png" width="32%" />
-<img src="plots/2026-02-14-Germany_V_Portugal_resultbar.png" width="32%" />
-<img src="plots/2026-02-14-Germany_V_Portugal_spreads.png" width="32%" />
-</p>
+## Week 3
 
 ### Netherlands V Georgia on 2026/02/15
 
 
-Average Margin: Georgia by 8.1
+Average Margin: Georgia by 4.7
 
 <p float="left">
 <img src="plots/2026-02-15-Netherlands_V_Georgia_performances.png" width="32%" />
@@ -107,23 +85,12 @@ Average Margin: Georgia by 8.1
 <img src="plots/2026-02-15-Netherlands_V_Georgia_spreads.png" width="32%" />
 </p>
 
-### Romania V Belgium on 2026/02/15
-
-
-Average Margin: Romania by 2.8
-
-<p float="left">
-<img src="plots/2026-02-15-Romania_V_Belgium_performances.png" width="32%" />
-<img src="plots/2026-02-15-Romania_V_Belgium_resultbar.png" width="32%" />
-<img src="plots/2026-02-15-Romania_V_Belgium_spreads.png" width="32%" />
-</p>
-
-## Week 3
+## Week 4
 
 ### Belgium V Germany on 2026/02/21
 
 
-Average Margin: Belgium by 5.5
+Average Margin: Belgium by 6.0
 
 <p float="left">
 <img src="plots/2026-02-21-Belgium_V_Germany_performances.png" width="32%" />
@@ -134,7 +101,7 @@ Average Margin: Belgium by 5.5
 ### Georgia V Spain on 2026/02/21
 
 
-Average Margin: Georgia by 5.1
+Average Margin: Georgia by 4.9
 
 <p float="left">
 <img src="plots/2026-02-21-Georgia_V_Spain_performances.png" width="32%" />
@@ -142,24 +109,24 @@ Average Margin: Georgia by 5.1
 <img src="plots/2026-02-21-Georgia_V_Spain_spreads.png" width="32%" />
 </p>
 
-### Switzerland V Netherlands on 2026/02/22
-
-
-Average Margin: Netherlands by 1.4
-
-<p float="left">
-<img src="plots/2026-02-22-Switzerland_V_Netherlands_performances.png" width="32%" />
-<img src="plots/2026-02-22-Switzerland_V_Netherlands_resultbar.png" width="32%" />
-<img src="plots/2026-02-22-Switzerland_V_Netherlands_spreads.png" width="32%" />
-</p>
-
 ### Portugal V Romania on 2026/02/22
 
 
-Average Margin: Portugal by 6.8
+Average Margin: Portugal by 6.6
 
 <p float="left">
 <img src="plots/2026-02-22-Portugal_V_Romania_performances.png" width="32%" />
 <img src="plots/2026-02-22-Portugal_V_Romania_resultbar.png" width="32%" />
 <img src="plots/2026-02-22-Portugal_V_Romania_spreads.png" width="32%" />
+</p>
+
+### Switzerland V Netherlands on 2026/02/22
+
+
+Average Margin: Netherlands by 3.0
+
+<p float="left">
+<img src="plots/2026-02-22-Switzerland_V_Netherlands_performances.png" width="32%" />
+<img src="plots/2026-02-22-Switzerland_V_Netherlands_resultbar.png" width="32%" />
+<img src="plots/2026-02-22-Switzerland_V_Netherlands_spreads.png" width="32%" />
 </p>
