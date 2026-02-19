@@ -10,15 +10,13 @@ key: page-projections
 
 [In depth model review and projections for Rugby Europe Championship 2026](comp_files/Rugby_Europe_Championship_2026)
 
-Competition Accuracy: 5 of 7 (71.43%)
+Competition Accuracy: 6 of 8 (75.0%)
 
-Competition Error: 24.08 points per match
+Competition Error: 26.05 points per match
 
-Last Two Week Accuracy: 5 of 7 (71.43%)
+Last Two Week Accuracy: 4 of 4 (100.0%)
 
-Last Two Week Error: 24.08 points per match
-
-[2026/02/15 - Netherlands V Georgia](projections/2026-02-15-Netherlands_V_Georgia)
+Last Two Week Error: 28.56 points per match
 
 [2026/02/21 - Belgium V Germany](projections/2026-02-21-Belgium_V_Germany)
 
@@ -34,11 +32,11 @@ Last Two Week Error: 24.08 points per match
 
 Competition Accuracy: 4 of 6 (66.67%)
 
-Competition Error: 14.16 points per match
+Competition Error: 14.15 points per match
 
-Last Two Week Accuracy: 4 of 6 (66.67%)
+Last Two Week Accuracy: 2 of 3 (66.67%)
 
-Last Two Week Error: 14.16 points per match
+Last Two Week Error: 17.19 points per match
 
 [2026/02/21 - England V Ireland](projections/2026-02-21-England_V_Ireland)
 
@@ -60,9 +58,9 @@ Competition Accuracy: 4 of 6 (66.67%)
 
 Competition Error: 13.72 points per match
 
-Last Two Week Accuracy: 4 of 6 (66.67%)
+Last Two Week Accuracy: 2 of 3 (66.67%)
 
-Last Two Week Error: 13.72 points per match
+Last Two Week Error: 9.19 points per match
 
 [2026/02/20 - England U20 V Ireland U20](projections/2026-02-20-EnglandU20_V_IrelandU20)
 
@@ -80,9 +78,9 @@ Competition Accuracy: 35 of 47 (74.47%)
 
 Competition Error: 11.1 points per match
 
-Last Two Week Accuracy: 7 of 11 (63.64%)
+Last Two Week Accuracy: 4 of 6 (66.67%)
 
-Last Two Week Error: 13.07 points per match
+Last Two Week Error: 14.99 points per match
 
 [2026/02/20 - Black Rams Tokyo V Urayasu D-Rocks](projections/2026-02-20-BlackRamsTokyo_V_UrayasuD-Rocks)
 
@@ -236,9 +234,9 @@ Competition Accuracy: 19 of 32 (59.38%)
 
 Competition Error: 15.72 points per match
 
-Last Two Week Accuracy: 5 of 8 (62.5%)
+Last Two Week Accuracy: 3 of 4 (75.0%)
 
-Last Two Week Error: 15.0 points per match
+Last Two Week Error: 10.63 points per match
 
 [2026/02/20 - Newcastle Red Bulls V Northampton Saints](projections/2026-02-20-NewcastleRedBulls_V_NorthamptonSaints)
 
@@ -265,10 +263,6 @@ Last Two Week Error: 15.0 points per match
 Competition Accuracy: 12 of 16 (75.0%)
 
 Competition Error: 17.25 points per match
-
-Last Two Week Accuracy: 1 of 1 (100.0%)
-
-Last Two Week Error: 1.06 points per match
 
 [2026/02/15 - Sayama Secom Rugguts V Kurita Water Gush](projections/2026-02-15-SayamaSecomRugguts_V_KuritaWaterGush)
 
@@ -346,9 +340,9 @@ Competition Accuracy: 84 of 119 (70.59%)
 
 Competition Error: 12.85 points per match
 
-Last Two Week Accuracy: 11 of 14 (78.57%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 18.03 points per match
+Last Two Week Error: 22.95 points per match
 
 [2026/02/21 - Bedford V London Scottish](projections/2026-02-21-Bedford_V_LondonScottish)
 

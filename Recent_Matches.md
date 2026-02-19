@@ -10,17 +10,19 @@ key: page-recents
 
 [In depth model review and projections for Rugby Europe Championship 2026](comp_files/Rugby_Europe_Championship_2026)
 
-Competition Accuracy: 5 of 7 (71.43%)
+Competition Accuracy: 6 of 8 (75.0%)
 
-Competition Error: 24.08 points per match
+Competition Error: 26.05 points per match
 
-Last Two Week Accuracy: 5 of 7 (71.43%)
+Last Two Week Accuracy: 4 of 4 (100.0%)
 
-Last Two Week Error: 24.08 points per match
+Last Two Week Error: 28.56 points per match
 
 [2026/02/14 - Germany V Portugal, 12.0 to 68.0](reviews/2026-02-14-Germany_V_Portugal)
 
 [2026/02/14 - Spain V Switzerland, 53.0 to 14.0](reviews/2026-02-14-Spain_V_Switzerland)
+
+[2026/02/15 - Netherlands V Georgia, 12.0 to 61.0](reviews/2026-02-15-Netherlands_V_Georgia)
 
 [2026/02/15 - Romania V Belgium, 23.0 to 6.0](reviews/2026-02-15-Romania_V_Belgium)
 ## Six Nations
@@ -30,11 +32,11 @@ Last Two Week Error: 24.08 points per match
 
 Competition Accuracy: 4 of 6 (66.67%)
 
-Competition Error: 14.16 points per match
+Competition Error: 14.15 points per match
 
-Last Two Week Accuracy: 4 of 6 (66.67%)
+Last Two Week Accuracy: 2 of 3 (66.67%)
 
-Last Two Week Error: 14.16 points per match
+Last Two Week Error: 17.19 points per match
 
 [2026/02/14 - Ireland V Italy, 20.0 to 13.0](reviews/2026-02-14-Ireland_V_Italy)
 
@@ -50,9 +52,9 @@ Competition Accuracy: 4 of 6 (66.67%)
 
 Competition Error: 13.72 points per match
 
-Last Two Week Accuracy: 4 of 6 (66.67%)
+Last Two Week Accuracy: 2 of 3 (66.67%)
 
-Last Two Week Error: 13.72 points per match
+Last Two Week Error: 9.19 points per match
 
 [2026/02/13 - Ireland U20 V Italy U20, 30.0 to 27.0](reviews/2026-02-13-IrelandU20_V_ItalyU20)
 
@@ -70,9 +72,9 @@ Competition Accuracy: 35 of 47 (74.47%)
 
 Competition Error: 11.1 points per match
 
-Last Two Week Accuracy: 7 of 11 (63.64%)
+Last Two Week Accuracy: 4 of 6 (66.67%)
 
-Last Two Week Error: 13.07 points per match
+Last Two Week Error: 14.99 points per match
 
 [2026/02/13 - Mitsubishi Dynaboars V Mie Honda Heat, 44.0 to 34.0](reviews/2026-02-13-MitsubishiDynaboars_V_MieHondaHeat)
 
@@ -140,9 +142,9 @@ Competition Accuracy: 19 of 32 (59.38%)
 
 Competition Error: 15.72 points per match
 
-Last Two Week Accuracy: 5 of 8 (62.5%)
+Last Two Week Accuracy: 3 of 4 (75.0%)
 
-Last Two Week Error: 15.0 points per match
+Last Two Week Error: 10.63 points per match
 
 [2026/02/14 - Saracens V Leicester Tigers, 26.0 to 31.0](reviews/2026-02-14-Saracens_V_LeicesterTigers)
 
@@ -206,9 +208,9 @@ Competition Accuracy: 84 of 119 (70.59%)
 
 Competition Error: 12.85 points per match
 
-Last Two Week Accuracy: 11 of 14 (78.57%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 18.03 points per match
+Last Two Week Error: 22.95 points per match
 
 [2026/02/14 - Doncaster V Bedford, 50.0 to 12.0](reviews/2026-02-14-Doncaster_V_Bedford)
 

@@ -9,7 +9,7 @@ categories: "Nationale 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Suresnes to win by 0.19, and Albi won by 6.0. That's an absolute error of 6.2 for the margin of victory, while my average absolute error has been 13.4 over the past six months. This prediction was more accurate than 68.0% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Albi to win by 0.6, and Albi won by 6.0. That's an absolute error of 5.4 for the margin of victory, while my average absolute error has been 13.4 over the past six months. This prediction was more accurate than 72.8% of my recent predictions.
 
 For the Over/Under model, I predicted a total of 42.5 and we have an actual total of 54.0. That's an absolute error of 11.5 compared to a six month average of 12.8. This prediction was more accurate than 46.7% of my recent predictions.
 ## Projected Performances - Club Model
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 42.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Suresnes to win by 1.37,  and Albi won by 6.0. That's an absolute error of 7.4 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 54.6% of my recent predictions.
+With the player model, I predicted Suresnes to win by 1.01,  and Albi won by 6.0. That's an absolute error of 7.0 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 56.0% of my recent predictions.
 ## Projected Performances - Player Model
 
 

@@ -9,9 +9,9 @@ categories: "Japan Rugby League One 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Toshiba Brave Lupus to win by 3.48, and Kobelco Kobe Steelers won by 1.0. That's an absolute error of 4.5 for the margin of victory, while my average absolute error has been 13.4 over the past six months. This prediction was more accurate than 77.4% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Toshiba Brave Lupus to win by 4.6, and Kobelco Kobe Steelers won by 1.0. That's an absolute error of 5.6 for the margin of victory, while my average absolute error has been 13.4 over the past six months. This prediction was more accurate than 71.2% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 57.5 and we have an actual total of 67.0. That's an absolute error of 9.5 compared to a six month average of 12.8. This prediction was more accurate than 54.5% of my recent predictions.
+For the Over/Under model, I predicted a total of 56.5 and we have an actual total of 67.0. That's an absolute error of 10.5 compared to a six month average of 12.8. This prediction was more accurate than 50.1% of my recent predictions.
 ## Projected Performances - Club Model
 
 
