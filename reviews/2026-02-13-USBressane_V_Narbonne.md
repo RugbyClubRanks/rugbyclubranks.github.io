@@ -9,7 +9,7 @@ categories: "Nationale 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted US Bressane to win by 0.19, and Narbonne won by 3.0. That's an absolute error of 3.2 for the margin of victory, while my average absolute error has been 13.4 over the past six months. This prediction was more accurate than 83.7% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted US Bressane to win by 0.47, and Narbonne won by 3.0. That's an absolute error of 3.5 for the margin of victory, while my average absolute error has been 13.5 over the past six months. This prediction was more accurate than 82.2% of my recent predictions.
 
 For the Over/Under model, I predicted a total of 44.5 and we have an actual total of 41.0. That's an absolute error of 3.5 compared to a six month average of 12.8. This prediction was more accurate than 82.6% of my recent predictions.
 ## Projected Performances - Club Model
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 44.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted US Bressane to win by 1.86,  and Narbonne won by 3.0. That's an absolute error of 4.9 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 66.5% of my recent predictions.
+With the player model, I predicted US Bressane to win by 1.66,  and Narbonne won by 3.0. That's an absolute error of 4.7 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 67.4% of my recent predictions.
 ## Projected Performances - Player Model
 
 

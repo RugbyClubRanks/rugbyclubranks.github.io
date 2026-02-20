@@ -9,9 +9,9 @@ categories: "Nationale 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Niort to win by 1.16, and Niort won by 6.0. That's an absolute error of 4.8 for the margin of victory, while my average absolute error has been 13.4 over the past six months. This prediction was more accurate than 75.7% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Niort to win by 1.42, and Niort won by 6.0. That's an absolute error of 4.6 for the margin of victory, while my average absolute error has been 13.5 over the past six months. This prediction was more accurate than 76.5% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 43.5 and we have an actual total of 46.0. That's an absolute error of 2.5 compared to a six month average of 12.8. This prediction was more accurate than 88.0% of my recent predictions.
+For the Over/Under model, I predicted a total of 44.5 and we have an actual total of 46.0. That's an absolute error of 1.5 compared to a six month average of 12.8. This prediction was more accurate than 93.1% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 43.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Niort to win by 2.01,  and Niort won by 6.0. That's an absolute error of 4.0 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 69.7% of my recent predictions.
+With the player model, I predicted Niort to win by 1.8,  and Niort won by 6.0. That's an absolute error of 4.2 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 69.2% of my recent predictions.
 ## Projected Performances - Player Model
 
 

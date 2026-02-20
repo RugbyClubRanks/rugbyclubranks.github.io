@@ -9,9 +9,9 @@ categories: "Six Nations 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted France to win by 7.65, and France won by 42.0. That's an absolute error of 34.4 for the margin of victory, while my average absolute error has been 13.4 over the past six months. This prediction was more accurate than 6.2% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted France to win by 8.0, and France won by 42.0. That's an absolute error of 34.0 for the margin of victory, while my average absolute error has been 13.5 over the past six months. This prediction was more accurate than 6.8% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 46.5 and we have an actual total of 66.0. That's an absolute error of 19.5 compared to a six month average of 12.8. This prediction was more accurate than 21.5% of my recent predictions.
+For the Over/Under model, I predicted a total of 46.5 and we have an actual total of 66.0. That's an absolute error of 19.5 compared to a six month average of 12.8. This prediction was more accurate than 21.6% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 46.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted France to win by 0.15,  and France won by 42.0. That's an absolute error of 41.8 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 4.0% of my recent predictions.
+With the player model, I predicted Wales to win by 0.17,  and France won by 42.0. That's an absolute error of 42.2 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 4.0% of my recent predictions.
 ## Projected Performances - Player Model
 
 

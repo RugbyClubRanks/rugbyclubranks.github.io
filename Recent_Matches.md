@@ -12,11 +12,11 @@ key: page-recents
 
 Competition Accuracy: 6 of 8 (75.0%)
 
-Competition Error: 26.05 points per match
+Competition Error: 25.98 points per match
 
 Last Two Week Accuracy: 4 of 4 (100.0%)
 
-Last Two Week Error: 28.56 points per match
+Last Two Week Error: 28.47 points per match
 
 [2026/02/14 - Germany V Portugal, 12.0 to 68.0](reviews/2026-02-14-Germany_V_Portugal)
 
@@ -32,11 +32,11 @@ Last Two Week Error: 28.56 points per match
 
 Competition Accuracy: 4 of 6 (66.67%)
 
-Competition Error: 14.15 points per match
+Competition Error: 14.22 points per match
 
 Last Two Week Accuracy: 2 of 3 (66.67%)
 
-Last Two Week Error: 17.19 points per match
+Last Two Week Error: 17.26 points per match
 
 [2026/02/14 - Ireland V Italy, 20.0 to 13.0](reviews/2026-02-14-Ireland_V_Italy)
 
@@ -92,21 +92,25 @@ Last Two Week Error: 14.99 points per match
 
 [In depth model review and projections for Super Rugby Pacific 2026](comp_files/Super_Rugby_Pacific_2026)
 
-Competition Accuracy: 2 of 5 (40.0%)
+Competition Accuracy: 4 of 7 (57.14%)
 
-Competition Error: 15.36 points per match
+Competition Error: 17.34 points per match
 
-Last Two Week Accuracy: 2 of 5 (40.0%)
+Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 15.36 points per match
+Last Two Week Error: 17.34 points per match
 
-[2026/02/13 - Highlanders V Crusaders, 25.0 to 23.0](reviews/2026-02-13-Highlanders_V_Crusaders)
+[2026/02/13 - New South Wales Waratahs V Queensland Reds, 36.0 to 12.0](reviews/2026-02-13-NewSouthWalesWaratahs_V_QueenslandReds)
+
+[2026/02/20 - New South Wales Waratahs V Fijian Drua, 36.0 to 13.0](reviews/2026-02-20-NewSouthWalesWaratahs_V_FijianDrua)
+
+[2026/02/20 - Hurricanes V Moana Pasifika, 52.0 to 10.0](reviews/2026-02-20-Hurricanes_V_MoanaPasifika)
 
 [2026/02/14 - Western Force V Brumbies, 24.0 to 56.0](reviews/2026-02-14-WesternForce_V_Brumbies)
 
 [2026/02/14 - Blues V Chiefs, 15.0 to 19.0](reviews/2026-02-14-Blues_V_Chiefs)
 
-[2026/02/13 - New South Wales Waratahs V Queensland Reds, 36.0 to 12.0](reviews/2026-02-13-NewSouthWalesWaratahs_V_QueenslandReds)
+[2026/02/13 - Highlanders V Crusaders, 25.0 to 23.0](reviews/2026-02-13-Highlanders_V_Crusaders)
 
 [2026/02/13 - Fijian Drua V Moana Pasifika, 26.0 to 40.0](reviews/2026-02-13-FijianDrua_V_MoanaPasifika)
 ## Top 14
