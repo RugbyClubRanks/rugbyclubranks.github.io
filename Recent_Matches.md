@@ -10,17 +10,19 @@ key: page-recents
 
 [In depth model review and projections for Rugby Europe Championship 2026](comp_files/Rugby_Europe_Championship_2026)
 
-Competition Accuracy: 8 of 11 (72.73%)
+Competition Accuracy: 9 of 12 (75.0%)
 
-Competition Error: 20.33 points per match
+Competition Error: 21.14 points per match
 
-Last Two Week Accuracy: 6 of 7 (85.71%)
+Last Two Week Accuracy: 3 of 4 (75.0%)
 
-Last Two Week Error: 18.53 points per match
+Last Two Week Error: 11.42 points per match
 
 [2026/02/21 - Belgium V Germany, 18.0 to 3.0](reviews/2026-02-21-Belgium_V_Germany)
 
 [2026/02/21 - Georgia V Spain, 42.0 to 30.0](reviews/2026-02-21-Georgia_V_Spain)
+
+[2026/02/22 - Portugal V Romania, 44.0 to 7.0](reviews/2026-02-22-Portugal_V_Romania)
 
 [2026/02/22 - Switzerland V Netherlands, 29.0 to 23.0](reviews/2026-02-22-Switzerland_V_Netherlands)
 ## Six Nations
@@ -30,11 +32,11 @@ Last Two Week Error: 18.53 points per match
 
 Competition Accuracy: 6 of 9 (66.67%)
 
-Competition Error: 14.67 points per match
+Competition Error: 14.65 points per match
 
-Last Two Week Accuracy: 4 of 6 (66.67%)
+Last Two Week Accuracy: 2 of 3 (66.67%)
 
-Last Two Week Error: 16.42 points per match
+Last Two Week Error: 15.65 points per match
 
 [2026/02/21 - England V Ireland, 21.0 to 42.0](reviews/2026-02-21-England_V_Ireland)
 
@@ -50,9 +52,9 @@ Competition Accuracy: 6 of 9 (66.67%)
 
 Competition Error: 12.68 points per match
 
-Last Two Week Accuracy: 4 of 6 (66.67%)
+Last Two Week Accuracy: 2 of 3 (66.67%)
 
-Last Two Week Error: 9.89 points per match
+Last Two Week Error: 10.59 points per match
 
 [2026/02/20 - England U20 V Ireland U20, 21.0 to 31.0](reviews/2026-02-20-EnglandU20_V_IrelandU20)
 
@@ -70,9 +72,9 @@ Competition Accuracy: 38 of 53 (71.7%)
 
 Competition Error: 12.16 points per match
 
-Last Two Week Accuracy: 7 of 12 (58.33%)
+Last Two Week Accuracy: 3 of 6 (50.0%)
 
-Last Two Week Error: 17.72 points per match
+Last Two Week Error: 20.45 points per match
 
 [2026/02/20 - Black Rams Tokyo V Urayasu D-Rocks, 41.0 to 19.0](reviews/2026-02-20-BlackRamsTokyo_V_UrayasuD-Rocks)
 
@@ -94,9 +96,9 @@ Competition Accuracy: 23 of 36 (63.89%)
 
 Competition Error: 15.51 points per match
 
-Last Two Week Accuracy: 7 of 8 (87.5%)
+Last Two Week Accuracy: 4 of 4 (100.0%)
 
-Last Two Week Error: 12.23 points per match
+Last Two Week Error: 13.83 points per match
 
 [2026/02/20 - Gloucester Rugby V Sale Sharks, 43.0 to 17.0](reviews/2026-02-20-GloucesterRugby_V_SaleSharks)
 
@@ -114,9 +116,9 @@ Competition Accuracy: 6 of 10 (60.0%)
 
 Competition Error: 16.15 points per match
 
-Last Two Week Accuracy: 6 of 10 (60.0%)
+Last Two Week Accuracy: 4 of 5 (80.0%)
 
-Last Two Week Error: 16.15 points per match
+Last Two Week Error: 16.94 points per match
 
 [2026/02/20 - Hurricanes V Moana Pasifika, 52.0 to 10.0](reviews/2026-02-20-Hurricanes_V_MoanaPasifika)
 
@@ -156,9 +158,9 @@ Competition Accuracy: 90 of 126 (71.43%)
 
 Competition Error: 12.67 points per match
 
-Last Two Week Accuracy: 12 of 14 (85.71%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 16.32 points per match
+Last Two Week Error: 9.69 points per match
 
 [2026/02/21 - Ealing Trailfinders V Ampthill, 50.0 to 12.0](reviews/2026-02-21-EalingTrailfinders_V_Ampthill)
 
@@ -182,9 +184,9 @@ Competition Accuracy: 128 of 168 (76.19%)
 
 Competition Error: 12.88 points per match
 
-Last Two Week Accuracy: 16 of 16 (100.0%)
+Last Two Week Accuracy: 8 of 8 (100.0%)
 
-Last Two Week Error: 8.38 points per match
+Last Two Week Error: 11.31 points per match
 
 [2026/02/21 - Grenoble V Brive, 20.0 to 18.0](reviews/2026-02-21-Grenoble_V_Brive)
 
@@ -210,9 +212,9 @@ Competition Accuracy: 97 of 136 (71.32%)
 
 Competition Error: 7.94 points per match
 
-Last Two Week Accuracy: 8 of 12 (66.67%)
+Last Two Week Accuracy: 5 of 6 (83.33%)
 
-Last Two Week Error: 6.86 points per match
+Last Two Week Error: 7.52 points per match
 
 [2026/02/21 - Rennes V Suresnes, 7.0 to 19.0](reviews/2026-02-21-Rennes_V_Suresnes)
 

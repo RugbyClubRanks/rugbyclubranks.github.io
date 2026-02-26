@@ -9,9 +9,9 @@ categories: "Pro D2 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Oyonnax to win by 8.46, and Oyonnax won by 66.0. That's an absolute error of 57.5 for the margin of victory, while my average absolute error has been 13.5 over the past six months. This prediction was more accurate than 0.5% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Oyonnax to win by 9.0, and Oyonnax won by 66.0. That's an absolute error of 57.0 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 0.4% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 47.5 and we have an actual total of 80.0. That's an absolute error of 32.5 compared to a six month average of 12.8. This prediction was more accurate than 4.7% of my recent predictions.
+For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 80.0. That's an absolute error of 31.5 compared to a six month average of 12.9. This prediction was more accurate than 5.8% of my recent predictions.
 ## Projected Performances - Club Model
 
 

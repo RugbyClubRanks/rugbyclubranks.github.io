@@ -9,9 +9,9 @@ categories: "Premiership Rugby Cup 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Northampton Saints to win by 7.02, and Northampton Saints won by 28.0. That's an absolute error of 21.0 for the margin of victory, while my average absolute error has been 13.5 over the past six months. This prediction was more accurate than 21.1% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Northampton Saints to win by 7.32, and Northampton Saints won by 28.0. That's an absolute error of 20.7 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 21.4% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 52.5 and we have an actual total of 70.0. That's an absolute error of 17.5 compared to a six month average of 12.8. This prediction was more accurate than 26.4% of my recent predictions.
+For the Over/Under model, I predicted a total of 52.5 and we have an actual total of 70.0. That's an absolute error of 17.5 compared to a six month average of 12.9. This prediction was more accurate than 26.8% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 52.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Northampton Saints to win by 0.06,  and Northampton Saints won by 28.0. That's an absolute error of 27.9 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 12.7% of my recent predictions.
+With the player model, I predicted Northampton Saints to win by 0.9,  and Northampton Saints won by 28.0. That's an absolute error of 27.1 for the margin of victory, while the average error as been 14.2 for the past six months. So this prediction was more accurate than 12.4% of my recent predictions.
 ## Projected Performances - Player Model
 
 

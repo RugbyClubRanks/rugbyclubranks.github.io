@@ -9,9 +9,9 @@ categories: "Rugby Europe Championship 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Georgia to win by 5.7, and Georgia won by 12.0. That's an absolute error of 6.3 for the margin of victory, while my average absolute error has been 13.5 over the past six months. This prediction was more accurate than 67.3% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Georgia to win by 6.41, and Georgia won by 12.0. That's an absolute error of 5.6 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 70.7% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 72.0. That's an absolute error of 20.5 compared to a six month average of 12.8. This prediction was more accurate than 19.8% of my recent predictions.
+For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 72.0. That's an absolute error of 21.5 compared to a six month average of 12.9. This prediction was more accurate than 18.2% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 51.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Georgia to win by 1.3,  and Georgia won by 12.0. That's an absolute error of 10.7 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 44.2% of my recent predictions.
+With the player model, I predicted Georgia to win by 3.16,  and Georgia won by 12.0. That's an absolute error of 8.8 for the margin of victory, while the average error as been 14.2 for the past six months. So this prediction was more accurate than 47.3% of my recent predictions.
 ## Projected Performances - Player Model
 
 

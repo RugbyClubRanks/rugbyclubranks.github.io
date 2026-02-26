@@ -5,20 +5,6 @@ key: page-projections
 ---
 # International Competitions
 
-## Rugby Europe Championship
-
-
-[In depth model review and projections for Rugby Europe Championship 2026](comp_files/Rugby_Europe_Championship_2026)
-
-Competition Accuracy: 8 of 11 (72.73%)
-
-Competition Error: 20.33 points per match
-
-Last Two Week Accuracy: 6 of 7 (85.71%)
-
-Last Two Week Error: 18.53 points per match
-
-[2026/02/22 - Portugal V Romania](projections/2026-02-22-Portugal_V_Romania)
 ## Six Nations
 
 
@@ -26,11 +12,11 @@ Last Two Week Error: 18.53 points per match
 
 Competition Accuracy: 6 of 9 (66.67%)
 
-Competition Error: 14.67 points per match
+Competition Error: 14.65 points per match
 
-Last Two Week Accuracy: 4 of 6 (66.67%)
+Last Two Week Accuracy: 2 of 3 (66.67%)
 
-Last Two Week Error: 16.42 points per match
+Last Two Week Error: 15.65 points per match
 
 [2026/03/06 - Ireland V Wales](projections/2026-03-06-Ireland_V_Wales)
 
@@ -54,9 +40,9 @@ Competition Accuracy: 38 of 53 (71.7%)
 
 Competition Error: 12.16 points per match
 
-Last Two Week Accuracy: 7 of 12 (58.33%)
+Last Two Week Accuracy: 3 of 6 (50.0%)
 
-Last Two Week Error: 17.72 points per match
+Last Two Week Error: 20.45 points per match
 
 [2026/02/28 - Saitama Wild Knights V Mie Honda Heat](projections/2026-02-28-SaitamaWildKnights_V_MieHondaHeat)
 
@@ -90,9 +76,9 @@ Competition Accuracy: 6 of 10 (60.0%)
 
 Competition Error: 16.15 points per match
 
-Last Two Week Accuracy: 6 of 10 (60.0%)
+Last Two Week Accuracy: 4 of 5 (80.0%)
 
-Last Two Week Error: 16.15 points per match
+Last Two Week Error: 16.94 points per match
 
 [2026/03/07 - Brumbies V Queensland Reds](projections/2026-03-07-Brumbies_V_QueenslandReds)
 
@@ -114,15 +100,15 @@ Last Two Week Error: 16.15 points per match
 
 [2026/03/06 - Chiefs V Moana Pasifika](projections/2026-03-06-Chiefs_V_MoanaPasifika)
 
-[2026/02/28 - Fijian Drua V Hurricanes](projections/2026-02-28-FijianDrua_V_Hurricanes)
+[2026/02/28 - Chiefs V Crusaders](projections/2026-02-28-Chiefs_V_Crusaders)
+
+[2026/02/27 - Fijian Drua V Hurricanes](projections/2026-02-27-FijianDrua_V_Hurricanes)
 
 [2026/02/27 - Moana Pasifika V Western Force](projections/2026-02-27-MoanaPasifika_V_WesternForce)
 
 [2026/02/27 - Queensland Reds V Highlanders](projections/2026-02-27-QueenslandReds_V_Highlanders)
 
 [2026/02/28 - Brumbies V Blues](projections/2026-02-28-Brumbies_V_Blues)
-
-[2026/02/28 - Chiefs V Crusaders](projections/2026-02-28-Chiefs_V_Crusaders)
 ## Top 14
 
 
@@ -131,10 +117,6 @@ Last Two Week Error: 16.15 points per match
 Competition Accuracy: 93 of 119 (78.15%)
 
 Competition Error: 13.94 points per match
-
-Last Two Week Accuracy: 2 of 6 (33.33%)
-
-Last Two Week Error: 18.85 points per match
 
 [2026/02/27 - Castres Olympique V La Rochelle](projections/2026-02-27-CastresOlympique_V_LaRochelle)
 
@@ -202,9 +184,9 @@ Competition Accuracy: 23 of 36 (63.89%)
 
 Competition Error: 15.51 points per match
 
-Last Two Week Accuracy: 7 of 8 (87.5%)
+Last Two Week Accuracy: 4 of 4 (100.0%)
 
-Last Two Week Error: 12.23 points per match
+Last Two Week Error: 13.83 points per match
 
 [2026/02/28 - Bath Rugby V Gloucester Rugby](projections/2026-02-28-BathRugby_V_GloucesterRugby)
 
@@ -224,9 +206,9 @@ Competition Accuracy: 97 of 136 (71.32%)
 
 Competition Error: 7.94 points per match
 
-Last Two Week Accuracy: 8 of 12 (66.67%)
+Last Two Week Accuracy: 5 of 6 (83.33%)
 
-Last Two Week Error: 6.86 points per match
+Last Two Week Error: 7.52 points per match
 
 [2026/02/20 - Massy V Tarbes](projections/2026-02-20-Massy_V_Tarbes)
 
@@ -266,9 +248,9 @@ Competition Accuracy: 128 of 168 (76.19%)
 
 Competition Error: 12.88 points per match
 
-Last Two Week Accuracy: 16 of 16 (100.0%)
+Last Two Week Accuracy: 8 of 8 (100.0%)
 
-Last Two Week Error: 8.38 points per match
+Last Two Week Error: 11.31 points per match
 
 [2026/03/05 - Mont-de-Marsan V Beziers](projections/2026-03-05-Mont-de-Marsan_V_Beziers)
 
@@ -310,9 +292,9 @@ Competition Accuracy: 90 of 126 (71.43%)
 
 Competition Error: 12.67 points per match
 
-Last Two Week Accuracy: 12 of 14 (85.71%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 16.32 points per match
+Last Two Week Error: 9.69 points per match
 
 [2026/02/28 - Ampthill V Coventry](projections/2026-02-28-Ampthill_V_Coventry)
 

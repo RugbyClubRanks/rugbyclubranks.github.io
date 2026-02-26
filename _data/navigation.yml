@@ -23,7 +23,4 @@ header:
   - titles:
       en      : &EN       Archive
     url: /archive.html
-
-  - titles:
-      en      : &EN       About
-    url: /about.html
+    

@@ -1,6 +1,6 @@
 ---
 title: "European Rugby Champions Cup 25/26"
-date: 2026-02-23 6:00:00 -0500
+date: 2026-02-26 6:00:00 -0500
 categories: model review projection
 layout: article
 aside:
@@ -167,22 +167,22 @@ aside:
 
 |                    | Reach Round of 16   | Win Round of 16   | Reach Quarterfinal   | Win Quarterfinal   | Reach Semifinal   | Win Semifinal   | Reach Final   | Win Final   |
 |:-------------------|:--------------------|:------------------|:---------------------|:-------------------|:------------------|:----------------|:--------------|:------------|
-| Bordeaux Begles    | 100.0 %             | 72.5 %            | 72.5 %               | 47.3 %             | 47.3 %            | 31.7 %          | 31.7 %        | 22.0 %      |
-| Stade Toulousain   | 100.0 %             | 75.3 %            | 75.3 %               | 32.4 %             | 32.4 %            | 21.2 %          | 21.2 %        | 16.1 %      |
-| Bath Rugby         | 100.0 %             | 71.0 %            | 71.0 %               | 48.6 %             | 48.6 %            | 20.5 %          | 20.5 %        | 13.9 %      |
-| Glasgow Warriors   | 100.0 %             | 72.8 %            | 72.8 %               | 52.4 %             | 52.4 %            | 35.8 %          | 35.8 %        | 12.9 %      |
-| Leinster           | 100.0 %             | 73.8 %            | 73.8 %               | 54.9 %             | 54.9 %            | 24.4 %          | 24.4 %        | 8.2 %       |
-| Northampton Saints | 100.0 %             | 72.8 %            | 72.8 %               | 27.1 %             | 27.1 %            | 9.7 %           | 9.7 %         | 7.0 %       |
-| Saracens           | 100.0 %             | 29.0 %            | 29.0 %               | 15.9 %             | 15.9 %            | 5.6 %           | 5.6 %         | 3.8 %       |
-| Leicester Tigers   | 100.0 %             | 27.5 %            | 27.5 %               | 13.0 %             | 13.0 %            | 5.6 %           | 5.6 %         | 3.1 %       |
-| Toulon             | 100.0 %             | 65.4 %            | 65.4 %               | 18.2 %             | 18.2 %            | 10.0 %          | 10.0 %        | 2.6 %       |
-| Stormers           | 100.0 %             | 34.6 %            | 34.6 %               | 12.1 %             | 12.1 %            | 8.0 %           | 8.0 %         | 2.0 %       |
-| Bristol Rugby      | 100.0 %             | 24.7 %            | 24.7 %               | 7.3 %              | 7.3 %             | 3.2 %           | 3.2 %         | 1.9 %       |
-| Bulls              | 100.0 %             | 27.2 %            | 27.2 %               | 17.3 %             | 17.3 %            | 8.9 %           | 8.9 %         | 1.8 %       |
-| Castres Olympique  | 100.0 %             | 27.2 %            | 27.2 %               | 8.4 %              | 8.4 %             | 2.5 %           | 2.5 %         | 1.4 %       |
-| Edinburgh          | 100.0 %             | 26.2 %            | 26.2 %               | 15.4 %             | 15.4 %            | 4.4 %           | 4.4 %         | 1.3 %       |
-| Harlequins         | 100.0 %             | 56.4 %            | 56.4 %               | 16.5 %             | 16.5 %            | 4.6 %           | 4.6 %         | 1.0 %       |
-| Sale Sharks        | 100.0 %             | 43.6 %            | 43.6 %               | 13.2 %             | 13.2 %            | 3.9 %           | 3.9 %         | 1.0 %       |
+| Bordeaux Begles    | 100.0 %             | 69.8 %            | 69.8 %               | 43.4 %             | 43.4 %            | 29.4 %          | 29.4 %        | 20.5 %      |
+| Stade Toulousain   | 100.0 %             | 73.5 %            | 73.5 %               | 31.9 %             | 31.9 %            | 22.7 %          | 22.7 %        | 17.2 %      |
+| Bath Rugby         | 100.0 %             | 72.2 %            | 72.2 %               | 47.8 %             | 47.8 %            | 18.9 %          | 18.9 %        | 13.9 %      |
+| Glasgow Warriors   | 100.0 %             | 73.5 %            | 73.5 %               | 53.9 %             | 53.9 %            | 35.7 %          | 35.7 %        | 11.6 %      |
+| Leinster           | 100.0 %             | 74.8 %            | 74.8 %               | 53.2 %             | 53.2 %            | 23.8 %          | 23.8 %        | 6.8 %       |
+| Northampton Saints | 100.0 %             | 76.0 %            | 76.0 %               | 29.1 %             | 29.1 %            | 10.1 %          | 10.1 %        | 6.8 %       |
+| Leicester Tigers   | 100.0 %             | 30.2 %            | 30.2 %               | 16.2 %             | 16.2 %            | 8.5 %           | 8.5 %         | 5.5 %       |
+| Saracens           | 100.0 %             | 27.8 %            | 27.8 %               | 16.7 %             | 16.7 %            | 5.2 %           | 5.2 %         | 3.4 %       |
+| Bulls              | 100.0 %             | 26.5 %            | 26.5 %               | 16.0 %             | 16.0 %            | 8.4 %           | 8.4 %         | 2.6 %       |
+| Toulon             | 100.0 %             | 61.5 %            | 61.5 %               | 17.2 %             | 17.2 %            | 9.8 %           | 9.8 %         | 2.3 %       |
+| Bristol Rugby      | 100.0 %             | 26.5 %            | 26.5 %               | 8.5 %              | 8.5 %             | 3.8 %           | 3.8 %         | 2.3 %       |
+| Stormers           | 100.0 %             | 38.5 %            | 38.5 %               | 12.9 %             | 12.9 %            | 7.2 %           | 7.2 %         | 1.9 %       |
+| Harlequins         | 100.0 %             | 55.8 %            | 55.8 %               | 18.0 %             | 18.0 %            | 5.4 %           | 5.4 %         | 1.5 %       |
+| Edinburgh          | 100.0 %             | 25.2 %            | 25.2 %               | 15.6 %             | 15.6 %            | 5.3 %           | 5.3 %         | 1.5 %       |
+| Sale Sharks        | 100.0 %             | 44.2 %            | 44.2 %               | 13.2 %             | 13.2 %            | 4.4 %           | 4.4 %         | 1.4 %       |
+| Castres Olympique  | 100.0 %             | 24.0 %            | 24.0 %               | 6.4 %              | 6.4 %             | 1.4 %           | 1.4 %         | 0.8 %       |
 
 
 
@@ -191,7 +191,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 70.2% | 11.6 |
+| Club Level | 66.3% | 10.9 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -200,92 +200,92 @@ aside:
 
 ## Week 5
 
-### Harlequins V Sale Sharks on 2026-04-02
-
-
-Average Margin: Harlequins by 1.8
-
-<p float="left">
-<img src="plots/2026-04-02-Harlequins_V_SaleSharks_performances.png" width="32%" />
-<img src="plots/2026-04-02-Harlequins_V_SaleSharks_resultbar.png" width="32%" />
-<img src="plots/2026-04-02-Harlequins_V_SaleSharks_spreads.png" width="32%" />
-</p>
-
-### Bordeaux Begles V Leicester Tigers on 2026-04-02
-
-
-Average Margin: Bordeaux Begles by 5.9
-
-<p float="left">
-<img src="plots/2026-04-02-BordeauxBegles_V_LeicesterTigers_performances.png" width="32%" />
-<img src="plots/2026-04-02-BordeauxBegles_V_LeicesterTigers_resultbar.png" width="32%" />
-<img src="plots/2026-04-02-BordeauxBegles_V_LeicesterTigers_spreads.png" width="32%" />
-</p>
-
-### Stade Toulousain V Bristol Rugby on 2026-04-02
-
-
-Average Margin: Stade Toulousain by 7.2
-
-<p float="left">
-<img src="plots/2026-04-02-StadeToulousain_V_BristolRugby_performances.png" width="32%" />
-<img src="plots/2026-04-02-StadeToulousain_V_BristolRugby_resultbar.png" width="32%" />
-<img src="plots/2026-04-02-StadeToulousain_V_BristolRugby_spreads.png" width="32%" />
-</p>
-
-### Toulon V Stormers on 2026-04-02
-
-
-Average Margin: Toulon by 3.0
-
-<p float="left">
-<img src="plots/2026-04-02-Toulon_V_Stormers_performances.png" width="32%" />
-<img src="plots/2026-04-02-Toulon_V_Stormers_resultbar.png" width="32%" />
-<img src="plots/2026-04-02-Toulon_V_Stormers_spreads.png" width="32%" />
-</p>
-
-### Leinster V Edinburgh on 2026-04-02
-
-
-Average Margin: Leinster by 7.7
-
-<p float="left">
-<img src="plots/2026-04-02-Leinster_V_Edinburgh_performances.png" width="32%" />
-<img src="plots/2026-04-02-Leinster_V_Edinburgh_resultbar.png" width="32%" />
-<img src="plots/2026-04-02-Leinster_V_Edinburgh_spreads.png" width="32%" />
-</p>
-
 ### Glasgow Warriors V Bulls on 2026-04-02
 
 
 Average Margin: Glasgow Warriors by 6.9
 
 <p float="left">
-<img src="plots/2026-04-02-GlasgowWarriors_V_Bulls_performances.png" width="32%" />
-<img src="plots/2026-04-02-GlasgowWarriors_V_Bulls_resultbar.png" width="32%" />
-<img src="plots/2026-04-02-GlasgowWarriors_V_Bulls_spreads.png" width="32%" />
+<img src="plots/2026-04-02-GlasgowWarriors_V_Bulls_club_performances.png" width="32%" />
+<img src="plots/2026-04-02-GlasgowWarriors_V_Bulls_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-02-GlasgowWarriors_V_Bulls_club_spreads.png" width="32%" />
 </p>
 
 ### Northampton Saints V Castres Olympique on 2026-04-02
 
 
-Average Margin: Northampton Saints by 6.5
+Average Margin: Northampton Saints by 7.2
 
 <p float="left">
-<img src="plots/2026-04-02-NorthamptonSaints_V_CastresOlympique_performances.png" width="32%" />
-<img src="plots/2026-04-02-NorthamptonSaints_V_CastresOlympique_resultbar.png" width="32%" />
-<img src="plots/2026-04-02-NorthamptonSaints_V_CastresOlympique_spreads.png" width="32%" />
+<img src="plots/2026-04-02-NorthamptonSaints_V_CastresOlympique_club_performances.png" width="32%" />
+<img src="plots/2026-04-02-NorthamptonSaints_V_CastresOlympique_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-02-NorthamptonSaints_V_CastresOlympique_club_spreads.png" width="32%" />
+</p>
+
+### Toulon V Stormers on 2026-04-02
+
+
+Average Margin: Toulon by 2.3
+
+<p float="left">
+<img src="plots/2026-04-02-Toulon_V_Stormers_club_performances.png" width="32%" />
+<img src="plots/2026-04-02-Toulon_V_Stormers_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-02-Toulon_V_Stormers_club_spreads.png" width="32%" />
 </p>
 
 ### Bath Rugby V Saracens on 2026-04-02
 
 
-Average Margin: Bath Rugby by 5.2
+Average Margin: Bath Rugby by 5.3
 
 <p float="left">
-<img src="plots/2026-04-02-BathRugby_V_Saracens_performances.png" width="32%" />
-<img src="plots/2026-04-02-BathRugby_V_Saracens_resultbar.png" width="32%" />
-<img src="plots/2026-04-02-BathRugby_V_Saracens_spreads.png" width="32%" />
+<img src="plots/2026-04-02-BathRugby_V_Saracens_club_performances.png" width="32%" />
+<img src="plots/2026-04-02-BathRugby_V_Saracens_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-02-BathRugby_V_Saracens_club_spreads.png" width="32%" />
+</p>
+
+### Harlequins V Sale Sharks on 2026-04-02
+
+
+Average Margin: Harlequins by 1.7
+
+<p float="left">
+<img src="plots/2026-04-02-Harlequins_V_SaleSharks_club_performances.png" width="32%" />
+<img src="plots/2026-04-02-Harlequins_V_SaleSharks_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-02-Harlequins_V_SaleSharks_club_spreads.png" width="32%" />
+</p>
+
+### Stade Toulousain V Bristol Rugby on 2026-04-02
+
+
+Average Margin: Stade Toulousain by 7.0
+
+<p float="left">
+<img src="plots/2026-04-02-StadeToulousain_V_BristolRugby_club_performances.png" width="32%" />
+<img src="plots/2026-04-02-StadeToulousain_V_BristolRugby_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-02-StadeToulousain_V_BristolRugby_club_spreads.png" width="32%" />
+</p>
+
+### Leinster V Edinburgh on 2026-04-02
+
+
+Average Margin: Leinster by 7.5
+
+<p float="left">
+<img src="plots/2026-04-02-Leinster_V_Edinburgh_club_performances.png" width="32%" />
+<img src="plots/2026-04-02-Leinster_V_Edinburgh_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-02-Leinster_V_Edinburgh_club_spreads.png" width="32%" />
+</p>
+
+### Bordeaux Begles V Leicester Tigers on 2026-04-02
+
+
+Average Margin: Bordeaux Begles by 5.0
+
+<p float="left">
+<img src="plots/2026-04-02-BordeauxBegles_V_LeicesterTigers_club_performances.png" width="32%" />
+<img src="plots/2026-04-02-BordeauxBegles_V_LeicesterTigers_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-02-BordeauxBegles_V_LeicesterTigers_club_spreads.png" width="32%" />
 </p>
 
 ## Week 6
@@ -293,45 +293,144 @@ Average Margin: Bath Rugby by 5.2
 ### Glasgow Warriors V Toulon on 2026-04-09
 
 
-Average Margin: Glasgow Warriors by 7.6
+Average Margin: Glasgow Warriors by 7.9
 
 <p float="left">
-<img src="plots/2026-04-09-GlasgowWarriors_V_Toulon_performances.png" width="32%" />
-<img src="plots/2026-04-09-GlasgowWarriors_V_Toulon_resultbar.png" width="32%" />
-<img src="plots/2026-04-09-GlasgowWarriors_V_Toulon_spreads.png" width="32%" />
-</p>
-
-### Bulls V Toulon on 2026-04-09
-
-
-Average Margin: Bulls by 2.7
-
-<p float="left">
-<img src="plots/2026-04-09-Bulls_V_Toulon_performances.png" width="32%" />
-<img src="plots/2026-04-09-Bulls_V_Toulon_resultbar.png" width="32%" />
-<img src="plots/2026-04-09-Bulls_V_Toulon_spreads.png" width="32%" />
+<img src="plots/2026-04-09-GlasgowWarriors_V_Toulon_club_performances.png" width="32%" />
+<img src="plots/2026-04-09-GlasgowWarriors_V_Toulon_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-09-GlasgowWarriors_V_Toulon_club_spreads.png" width="32%" />
 </p>
 
 ### Glasgow Warriors V Stormers on 2026-04-09
 
 
-Average Margin: Glasgow Warriors by 5.7
+Average Margin: Glasgow Warriors by 5.5
 
 <p float="left">
-<img src="plots/2026-04-09-GlasgowWarriors_V_Stormers_performances.png" width="32%" />
-<img src="plots/2026-04-09-GlasgowWarriors_V_Stormers_resultbar.png" width="32%" />
-<img src="plots/2026-04-09-GlasgowWarriors_V_Stormers_spreads.png" width="32%" />
+<img src="plots/2026-04-09-GlasgowWarriors_V_Stormers_club_performances.png" width="32%" />
+<img src="plots/2026-04-09-GlasgowWarriors_V_Stormers_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-09-GlasgowWarriors_V_Stormers_club_spreads.png" width="32%" />
+</p>
+
+### Bulls V Toulon on 2026-04-09
+
+
+Average Margin: Bulls by 2.5
+
+<p float="left">
+<img src="plots/2026-04-09-Bulls_V_Toulon_club_performances.png" width="32%" />
+<img src="plots/2026-04-09-Bulls_V_Toulon_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-09-Bulls_V_Toulon_club_spreads.png" width="32%" />
 </p>
 
 ### Bulls V Stormers on 2026-04-09
 
 
-Average Margin: Bulls by 2.1
+Average Margin: Bulls by 1.9
 
 <p float="left">
-<img src="plots/2026-04-09-Bulls_V_Stormers_performances.png" width="32%" />
-<img src="plots/2026-04-09-Bulls_V_Stormers_resultbar.png" width="32%" />
-<img src="plots/2026-04-09-Bulls_V_Stormers_spreads.png" width="32%" />
+<img src="plots/2026-04-09-Bulls_V_Stormers_club_performances.png" width="32%" />
+<img src="plots/2026-04-09-Bulls_V_Stormers_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-09-Bulls_V_Stormers_club_spreads.png" width="32%" />
+</p>
+
+### Leinster V Harlequins on 2026-04-09
+
+
+Average Margin: Leinster by 7.4
+
+<p float="left">
+<img src="plots/2026-04-09-Leinster_V_Harlequins_club_performances.png" width="32%" />
+<img src="plots/2026-04-09-Leinster_V_Harlequins_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-09-Leinster_V_Harlequins_club_spreads.png" width="32%" />
+</p>
+
+### Leinster V Sale Sharks on 2026-04-09
+
+
+Average Margin: Leinster by 7.0
+
+<p float="left">
+<img src="plots/2026-04-09-Leinster_V_SaleSharks_club_performances.png" width="32%" />
+<img src="plots/2026-04-09-Leinster_V_SaleSharks_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-09-Leinster_V_SaleSharks_club_spreads.png" width="32%" />
+</p>
+
+### Edinburgh V Harlequins on 2026-04-09
+
+
+Average Margin: Edinburgh by 2.6
+
+<p float="left">
+<img src="plots/2026-04-09-Edinburgh_V_Harlequins_club_performances.png" width="32%" />
+<img src="plots/2026-04-09-Edinburgh_V_Harlequins_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-09-Edinburgh_V_Harlequins_club_spreads.png" width="32%" />
+</p>
+
+### Edinburgh V Sale Sharks on 2026-04-09
+
+
+Average Margin: Edinburgh by 3.7
+
+<p float="left">
+<img src="plots/2026-04-09-Edinburgh_V_SaleSharks_club_performances.png" width="32%" />
+<img src="plots/2026-04-09-Edinburgh_V_SaleSharks_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-09-Edinburgh_V_SaleSharks_club_spreads.png" width="32%" />
+</p>
+
+### Bordeaux Begles V Stade Toulousain on 2026-04-09
+
+
+Average Margin: Bordeaux Begles by 2.1
+
+<p float="left">
+<img src="plots/2026-04-09-BordeauxBegles_V_StadeToulousain_club_performances.png" width="32%" />
+<img src="plots/2026-04-09-BordeauxBegles_V_StadeToulousain_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-09-BordeauxBegles_V_StadeToulousain_club_spreads.png" width="32%" />
+</p>
+
+### Leicester Tigers V Bristol Rugby on 2026-04-09
+
+
+Average Margin: Leicester Tigers by 2.3
+
+<p float="left">
+<img src="plots/2026-04-09-LeicesterTigers_V_BristolRugby_club_performances.png" width="32%" />
+<img src="plots/2026-04-09-LeicesterTigers_V_BristolRugby_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-09-LeicesterTigers_V_BristolRugby_club_spreads.png" width="32%" />
+</p>
+
+### Leicester Tigers V Stade Toulousain on 2026-04-09
+
+
+Average Margin: Leicester Tigers by 0.5
+
+<p float="left">
+<img src="plots/2026-04-09-LeicesterTigers_V_StadeToulousain_club_performances.png" width="32%" />
+<img src="plots/2026-04-09-LeicesterTigers_V_StadeToulousain_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-09-LeicesterTigers_V_StadeToulousain_club_spreads.png" width="32%" />
+</p>
+
+### Bordeaux Begles V Bristol Rugby on 2026-04-09
+
+
+Average Margin: Bordeaux Begles by 5.2
+
+<p float="left">
+<img src="plots/2026-04-09-BordeauxBegles_V_BristolRugby_club_performances.png" width="32%" />
+<img src="plots/2026-04-09-BordeauxBegles_V_BristolRugby_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-09-BordeauxBegles_V_BristolRugby_club_spreads.png" width="32%" />
+</p>
+
+### Saracens V Castres Olympique on 2026-04-09
+
+
+Average Margin: Saracens by 5.0
+
+<p float="left">
+<img src="plots/2026-04-09-Saracens_V_CastresOlympique_club_performances.png" width="32%" />
+<img src="plots/2026-04-09-Saracens_V_CastresOlympique_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-09-Saracens_V_CastresOlympique_club_spreads.png" width="32%" />
 </p>
 
 ### Bath Rugby V Castres Olympique on 2026-04-09
@@ -340,882 +439,1003 @@ Average Margin: Bulls by 2.1
 Average Margin: Bath Rugby by 6.9
 
 <p float="left">
-<img src="plots/2026-04-09-BathRugby_V_CastresOlympique_performances.png" width="32%" />
-<img src="plots/2026-04-09-BathRugby_V_CastresOlympique_resultbar.png" width="32%" />
-<img src="plots/2026-04-09-BathRugby_V_CastresOlympique_spreads.png" width="32%" />
+<img src="plots/2026-04-09-BathRugby_V_CastresOlympique_club_performances.png" width="32%" />
+<img src="plots/2026-04-09-BathRugby_V_CastresOlympique_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-09-BathRugby_V_CastresOlympique_club_spreads.png" width="32%" />
 </p>
 
 ### Bath Rugby V Northampton Saints on 2026-04-09
 
 
-Average Margin: Bath Rugby by 3.7
+Average Margin: Bath Rugby by 3.5
 
 <p float="left">
-<img src="plots/2026-04-09-BathRugby_V_NorthamptonSaints_performances.png" width="32%" />
-<img src="plots/2026-04-09-BathRugby_V_NorthamptonSaints_resultbar.png" width="32%" />
-<img src="plots/2026-04-09-BathRugby_V_NorthamptonSaints_spreads.png" width="32%" />
+<img src="plots/2026-04-09-BathRugby_V_NorthamptonSaints_club_performances.png" width="32%" />
+<img src="plots/2026-04-09-BathRugby_V_NorthamptonSaints_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-09-BathRugby_V_NorthamptonSaints_club_spreads.png" width="32%" />
 </p>
 
 ### Saracens V Northampton Saints on 2026-04-09
 
 
-Average Margin: Saracens by 1.2
+Average Margin: Saracens by 1.0
 
 <p float="left">
-<img src="plots/2026-04-09-Saracens_V_NorthamptonSaints_performances.png" width="32%" />
-<img src="plots/2026-04-09-Saracens_V_NorthamptonSaints_resultbar.png" width="32%" />
-<img src="plots/2026-04-09-Saracens_V_NorthamptonSaints_spreads.png" width="32%" />
-</p>
-
-### Saracens V Castres Olympique on 2026-04-09
-
-
-Average Margin: Saracens by 4.6
-
-<p float="left">
-<img src="plots/2026-04-09-Saracens_V_CastresOlympique_performances.png" width="32%" />
-<img src="plots/2026-04-09-Saracens_V_CastresOlympique_resultbar.png" width="32%" />
-<img src="plots/2026-04-09-Saracens_V_CastresOlympique_spreads.png" width="32%" />
-</p>
-
-### Edinburgh V Sale Sharks on 2026-04-09
-
-
-Average Margin: Edinburgh by 1.6
-
-<p float="left">
-<img src="plots/2026-04-09-Edinburgh_V_SaleSharks_performances.png" width="32%" />
-<img src="plots/2026-04-09-Edinburgh_V_SaleSharks_resultbar.png" width="32%" />
-<img src="plots/2026-04-09-Edinburgh_V_SaleSharks_spreads.png" width="32%" />
-</p>
-
-### Edinburgh V Harlequins on 2026-04-09
-
-
-Average Margin: Edinburgh by 2.3
-
-<p float="left">
-<img src="plots/2026-04-09-Edinburgh_V_Harlequins_performances.png" width="32%" />
-<img src="plots/2026-04-09-Edinburgh_V_Harlequins_resultbar.png" width="32%" />
-<img src="plots/2026-04-09-Edinburgh_V_Harlequins_spreads.png" width="32%" />
-</p>
-
-### Leinster V Harlequins on 2026-04-09
-
-
-Average Margin: Leinster by 7.6
-
-<p float="left">
-<img src="plots/2026-04-09-Leinster_V_Harlequins_performances.png" width="32%" />
-<img src="plots/2026-04-09-Leinster_V_Harlequins_resultbar.png" width="32%" />
-<img src="plots/2026-04-09-Leinster_V_Harlequins_spreads.png" width="32%" />
-</p>
-
-### Leinster V Sale Sharks on 2026-04-09
-
-
-Average Margin: Leinster by 7.4
-
-<p float="left">
-<img src="plots/2026-04-09-Leinster_V_SaleSharks_performances.png" width="32%" />
-<img src="plots/2026-04-09-Leinster_V_SaleSharks_resultbar.png" width="32%" />
-<img src="plots/2026-04-09-Leinster_V_SaleSharks_spreads.png" width="32%" />
-</p>
-
-### Bordeaux Begles V Stade Toulousain on 2026-04-09
-
-
-Average Margin: Bordeaux Begles by 1.9
-
-<p float="left">
-<img src="plots/2026-04-09-BordeauxBegles_V_StadeToulousain_performances.png" width="32%" />
-<img src="plots/2026-04-09-BordeauxBegles_V_StadeToulousain_resultbar.png" width="32%" />
-<img src="plots/2026-04-09-BordeauxBegles_V_StadeToulousain_spreads.png" width="32%" />
-</p>
-
-### Bordeaux Begles V Bristol Rugby on 2026-04-09
-
-
-Average Margin: Bordeaux Begles by 5.3
-
-<p float="left">
-<img src="plots/2026-04-09-BordeauxBegles_V_BristolRugby_performances.png" width="32%" />
-<img src="plots/2026-04-09-BordeauxBegles_V_BristolRugby_resultbar.png" width="32%" />
-<img src="plots/2026-04-09-BordeauxBegles_V_BristolRugby_spreads.png" width="32%" />
-</p>
-
-### Leicester Tigers V Stade Toulousain on 2026-04-09
-
-
-Average Margin: Stade Toulousain by 0.3
-
-<p float="left">
-<img src="plots/2026-04-09-LeicesterTigers_V_StadeToulousain_performances.png" width="32%" />
-<img src="plots/2026-04-09-LeicesterTigers_V_StadeToulousain_resultbar.png" width="32%" />
-<img src="plots/2026-04-09-LeicesterTigers_V_StadeToulousain_spreads.png" width="32%" />
-</p>
-
-### Leicester Tigers V Bristol Rugby on 2026-04-09
-
-
-Average Margin: Leicester Tigers by 2.0
-
-<p float="left">
-<img src="plots/2026-04-09-LeicesterTigers_V_BristolRugby_performances.png" width="32%" />
-<img src="plots/2026-04-09-LeicesterTigers_V_BristolRugby_resultbar.png" width="32%" />
-<img src="plots/2026-04-09-LeicesterTigers_V_BristolRugby_spreads.png" width="32%" />
+<img src="plots/2026-04-09-Saracens_V_NorthamptonSaints_club_performances.png" width="32%" />
+<img src="plots/2026-04-09-Saracens_V_NorthamptonSaints_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-09-Saracens_V_NorthamptonSaints_club_spreads.png" width="32%" />
 </p>
 
 ## Week 7
 
-### Stade Toulousain V Bath Rugby on 2026-04-30
-
-
-Average Margin: Stade Toulousain by 3.1
-
-<p float="left">
-<img src="plots/2026-04-30-StadeToulousain_V_BathRugby_performances.png" width="32%" />
-<img src="plots/2026-04-30-StadeToulousain_V_BathRugby_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-StadeToulousain_V_BathRugby_spreads.png" width="32%" />
-</p>
-
-### Stormers V Sale Sharks on 2026-04-30
-
-
-Average Margin: Stormers by 7.5
-
-<p float="left">
-<img src="plots/2026-04-30-Stormers_V_SaleSharks_performances.png" width="32%" />
-<img src="plots/2026-04-30-Stormers_V_SaleSharks_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-Stormers_V_SaleSharks_spreads.png" width="32%" />
-</p>
-
-### Toulon V Harlequins on 2026-04-30
-
-
-Average Margin: Toulon by 4.1
-
-<p float="left">
-<img src="plots/2026-04-30-Toulon_V_Harlequins_performances.png" width="32%" />
-<img src="plots/2026-04-30-Toulon_V_Harlequins_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-Toulon_V_Harlequins_spreads.png" width="32%" />
-</p>
-
-### Bulls V Edinburgh on 2026-04-30
-
-
-Average Margin: Bulls by 5.7
-
-<p float="left">
-<img src="plots/2026-04-30-Bulls_V_Edinburgh_performances.png" width="32%" />
-<img src="plots/2026-04-30-Bulls_V_Edinburgh_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-Bulls_V_Edinburgh_spreads.png" width="32%" />
-</p>
-
-### Toulon V Edinburgh on 2026-04-30
-
-
-Average Margin: Toulon by 4.4
-
-<p float="left">
-<img src="plots/2026-04-30-Toulon_V_Edinburgh_performances.png" width="32%" />
-<img src="plots/2026-04-30-Toulon_V_Edinburgh_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-Toulon_V_Edinburgh_spreads.png" width="32%" />
-</p>
-
-### Stormers V Leinster on 2026-04-30
-
-
-Average Margin: Leinster by 0.2
-
-<p float="left">
-<img src="plots/2026-04-30-Stormers_V_Leinster_performances.png" width="32%" />
-<img src="plots/2026-04-30-Stormers_V_Leinster_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-Stormers_V_Leinster_spreads.png" width="32%" />
-</p>
-
-### Bulls V Harlequins on 2026-04-30
-
-
-Average Margin: Bulls by 3.2
-
-<p float="left">
-<img src="plots/2026-04-30-Bulls_V_Harlequins_performances.png" width="32%" />
-<img src="plots/2026-04-30-Bulls_V_Harlequins_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-Bulls_V_Harlequins_spreads.png" width="32%" />
-</p>
-
-### Bulls V Sale Sharks on 2026-04-30
-
-
-Average Margin: Bulls by 0.5
-
-<p float="left">
-<img src="plots/2026-04-30-Bulls_V_SaleSharks_performances.png" width="32%" />
-<img src="plots/2026-04-30-Bulls_V_SaleSharks_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-Bulls_V_SaleSharks_spreads.png" width="32%" />
-</p>
-
-### Toulon V Sale Sharks on 2026-04-30
-
-
-Average Margin: Toulon by 5.1
-
-<p float="left">
-<img src="plots/2026-04-30-Toulon_V_SaleSharks_performances.png" width="32%" />
-<img src="plots/2026-04-30-Toulon_V_SaleSharks_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-Toulon_V_SaleSharks_spreads.png" width="32%" />
-</p>
-
-### Glasgow Warriors V Harlequins on 2026-04-30
-
-
-Average Margin: Glasgow Warriors by 8.3
-
-<p float="left">
-<img src="plots/2026-04-30-GlasgowWarriors_V_Harlequins_performances.png" width="32%" />
-<img src="plots/2026-04-30-GlasgowWarriors_V_Harlequins_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-GlasgowWarriors_V_Harlequins_spreads.png" width="32%" />
-</p>
-
 ### Toulon V Leinster on 2026-04-30
 
 
-Average Margin: Leinster by 0.4
+Average Margin: Toulon by 0.1
 
 <p float="left">
-<img src="plots/2026-04-30-Toulon_V_Leinster_performances.png" width="32%" />
-<img src="plots/2026-04-30-Toulon_V_Leinster_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-Toulon_V_Leinster_spreads.png" width="32%" />
-</p>
-
-### Bulls V Leinster on 2026-04-30
-
-
-Average Margin: Leinster by 0.7
-
-<p float="left">
-<img src="plots/2026-04-30-Bulls_V_Leinster_performances.png" width="32%" />
-<img src="plots/2026-04-30-Bulls_V_Leinster_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-Bulls_V_Leinster_spreads.png" width="32%" />
-</p>
-
-### Glasgow Warriors V Leinster on 2026-04-30
-
-
-Average Margin: Glasgow Warriors by 3.5
-
-<p float="left">
-<img src="plots/2026-04-30-GlasgowWarriors_V_Leinster_performances.png" width="32%" />
-<img src="plots/2026-04-30-GlasgowWarriors_V_Leinster_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-GlasgowWarriors_V_Leinster_spreads.png" width="32%" />
-</p>
-
-### Glasgow Warriors V Edinburgh on 2026-04-30
-
-
-Average Margin: Glasgow Warriors by 7.6
-
-<p float="left">
-<img src="plots/2026-04-30-GlasgowWarriors_V_Edinburgh_performances.png" width="32%" />
-<img src="plots/2026-04-30-GlasgowWarriors_V_Edinburgh_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-GlasgowWarriors_V_Edinburgh_spreads.png" width="32%" />
-</p>
-
-### Glasgow Warriors V Sale Sharks on 2026-04-30
-
-
-Average Margin: Glasgow Warriors by 7.8
-
-<p float="left">
-<img src="plots/2026-04-30-GlasgowWarriors_V_SaleSharks_performances.png" width="32%" />
-<img src="plots/2026-04-30-GlasgowWarriors_V_SaleSharks_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-GlasgowWarriors_V_SaleSharks_spreads.png" width="32%" />
-</p>
-
-### Bristol Rugby V Castres Olympique on 2026-04-30
-
-
-Average Margin: Bristol Rugby by 2.8
-
-<p float="left">
-<img src="plots/2026-04-30-BristolRugby_V_CastresOlympique_performances.png" width="32%" />
-<img src="plots/2026-04-30-BristolRugby_V_CastresOlympique_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-BristolRugby_V_CastresOlympique_spreads.png" width="32%" />
+<img src="plots/2026-04-30-Toulon_V_Leinster_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-Toulon_V_Leinster_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-Toulon_V_Leinster_club_spreads.png" width="32%" />
 </p>
 
 ### Bristol Rugby V Saracens on 2026-04-30
 
 
-Average Margin: Bristol Rugby by 1.9
+Average Margin: Saracens by 2.0
 
 <p float="left">
-<img src="plots/2026-04-30-BristolRugby_V_Saracens_performances.png" width="32%" />
-<img src="plots/2026-04-30-BristolRugby_V_Saracens_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-BristolRugby_V_Saracens_spreads.png" width="32%" />
+<img src="plots/2026-04-30-BristolRugby_V_Saracens_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-BristolRugby_V_Saracens_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-BristolRugby_V_Saracens_club_spreads.png" width="32%" />
 </p>
 
 ### Bordeaux Begles V Castres Olympique on 2026-04-30
 
 
-Average Margin: Bordeaux Begles by 7.0
+Average Margin: Bordeaux Begles by 12.0
 
 <p float="left">
-<img src="plots/2026-04-30-BordeauxBegles_V_CastresOlympique_performances.png" width="32%" />
-<img src="plots/2026-04-30-BordeauxBegles_V_CastresOlympique_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-BordeauxBegles_V_CastresOlympique_spreads.png" width="32%" />
+<img src="plots/2026-04-30-BordeauxBegles_V_CastresOlympique_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-BordeauxBegles_V_CastresOlympique_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-BordeauxBegles_V_CastresOlympique_club_spreads.png" width="32%" />
 </p>
 
 ### Leicester Tigers V Castres Olympique on 2026-04-30
 
 
-Average Margin: Leicester Tigers by 1.2
+Average Margin: Leicester Tigers by 2.0
 
 <p float="left">
-<img src="plots/2026-04-30-LeicesterTigers_V_CastresOlympique_performances.png" width="32%" />
-<img src="plots/2026-04-30-LeicesterTigers_V_CastresOlympique_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-LeicesterTigers_V_CastresOlympique_spreads.png" width="32%" />
-</p>
-
-### Bordeaux Begles V Northampton Saints on 2026-04-30
-
-
-Average Margin: Bordeaux Begles by 3.2
-
-<p float="left">
-<img src="plots/2026-04-30-BordeauxBegles_V_NorthamptonSaints_performances.png" width="32%" />
-<img src="plots/2026-04-30-BordeauxBegles_V_NorthamptonSaints_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-BordeauxBegles_V_NorthamptonSaints_spreads.png" width="32%" />
+<img src="plots/2026-04-30-LeicesterTigers_V_CastresOlympique_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-LeicesterTigers_V_CastresOlympique_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-LeicesterTigers_V_CastresOlympique_club_spreads.png" width="32%" />
 </p>
 
 ### Bristol Rugby V Northampton Saints on 2026-04-30
 
 
-Average Margin: Northampton Saints by 0.8
+Average Margin: Bristol Rugby by 0.8
 
 <p float="left">
-<img src="plots/2026-04-30-BristolRugby_V_NorthamptonSaints_performances.png" width="32%" />
-<img src="plots/2026-04-30-BristolRugby_V_NorthamptonSaints_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-BristolRugby_V_NorthamptonSaints_spreads.png" width="32%" />
-</p>
-
-### Leicester Tigers V Saracens on 2026-04-30
-
-
-Average Margin: Saracens by 2.0
-
-<p float="left">
-<img src="plots/2026-04-30-LeicesterTigers_V_Saracens_performances.png" width="32%" />
-<img src="plots/2026-04-30-LeicesterTigers_V_Saracens_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-LeicesterTigers_V_Saracens_spreads.png" width="32%" />
-</p>
-
-### Stade Toulousain V Castres Olympique on 2026-04-30
-
-
-Average Margin: Stade Toulousain by 6.0
-
-<p float="left">
-<img src="plots/2026-04-30-StadeToulousain_V_CastresOlympique_performances.png" width="32%" />
-<img src="plots/2026-04-30-StadeToulousain_V_CastresOlympique_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-StadeToulousain_V_CastresOlympique_spreads.png" width="32%" />
-</p>
-
-### Stade Toulousain V Saracens on 2026-04-30
-
-
-Average Margin: Stade Toulousain by 7.8
-
-<p float="left">
-<img src="plots/2026-04-30-StadeToulousain_V_Saracens_performances.png" width="32%" />
-<img src="plots/2026-04-30-StadeToulousain_V_Saracens_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-StadeToulousain_V_Saracens_spreads.png" width="32%" />
-</p>
-
-### Leicester Tigers V Northampton Saints on 2026-04-30
-
-
-Average Margin: Leicester Tigers by 0.3
-
-<p float="left">
-<img src="plots/2026-04-30-LeicesterTigers_V_NorthamptonSaints_performances.png" width="32%" />
-<img src="plots/2026-04-30-LeicesterTigers_V_NorthamptonSaints_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-LeicesterTigers_V_NorthamptonSaints_spreads.png" width="32%" />
-</p>
-
-### Leicester Tigers V Bath Rugby on 2026-04-30
-
-
-Average Margin: Bath Rugby by 1.9
-
-<p float="left">
-<img src="plots/2026-04-30-LeicesterTigers_V_BathRugby_performances.png" width="32%" />
-<img src="plots/2026-04-30-LeicesterTigers_V_BathRugby_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-LeicesterTigers_V_BathRugby_spreads.png" width="32%" />
-</p>
-
-### Stade Toulousain V Northampton Saints on 2026-04-30
-
-
-Average Margin: Stade Toulousain by 5.2
-
-<p float="left">
-<img src="plots/2026-04-30-StadeToulousain_V_NorthamptonSaints_performances.png" width="32%" />
-<img src="plots/2026-04-30-StadeToulousain_V_NorthamptonSaints_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-StadeToulousain_V_NorthamptonSaints_spreads.png" width="32%" />
-</p>
-
-### Bordeaux Begles V Saracens on 2026-04-30
-
-
-Average Margin: Bordeaux Begles by 4.7
-
-<p float="left">
-<img src="plots/2026-04-30-BordeauxBegles_V_Saracens_performances.png" width="32%" />
-<img src="plots/2026-04-30-BordeauxBegles_V_Saracens_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-BordeauxBegles_V_Saracens_spreads.png" width="32%" />
+<img src="plots/2026-04-30-BristolRugby_V_NorthamptonSaints_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-BristolRugby_V_NorthamptonSaints_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-BristolRugby_V_NorthamptonSaints_club_spreads.png" width="32%" />
 </p>
 
 ### Bristol Rugby V Bath Rugby on 2026-04-30
 
 
-Average Margin: Bath Rugby by 1.1
+Average Margin: Bath Rugby by 2.1
 
 <p float="left">
-<img src="plots/2026-04-30-BristolRugby_V_BathRugby_performances.png" width="32%" />
-<img src="plots/2026-04-30-BristolRugby_V_BathRugby_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-BristolRugby_V_BathRugby_spreads.png" width="32%" />
+<img src="plots/2026-04-30-BristolRugby_V_BathRugby_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-BristolRugby_V_BathRugby_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-BristolRugby_V_BathRugby_club_spreads.png" width="32%" />
+</p>
+
+### Bordeaux Begles V Saracens on 2026-04-30
+
+
+Average Margin: Bordeaux Begles by 4.2
+
+<p float="left">
+<img src="plots/2026-04-30-BordeauxBegles_V_Saracens_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-BordeauxBegles_V_Saracens_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-BordeauxBegles_V_Saracens_club_spreads.png" width="32%" />
+</p>
+
+### Bordeaux Begles V Northampton Saints on 2026-04-30
+
+
+Average Margin: Bordeaux Begles by 2.9
+
+<p float="left">
+<img src="plots/2026-04-30-BordeauxBegles_V_NorthamptonSaints_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-BordeauxBegles_V_NorthamptonSaints_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-BordeauxBegles_V_NorthamptonSaints_club_spreads.png" width="32%" />
+</p>
+
+### Stade Toulousain V Saracens on 2026-04-30
+
+
+Average Margin: Stade Toulousain by 6.0
+
+<p float="left">
+<img src="plots/2026-04-30-StadeToulousain_V_Saracens_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-StadeToulousain_V_Saracens_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-StadeToulousain_V_Saracens_club_spreads.png" width="32%" />
+</p>
+
+### Leicester Tigers V Saracens on 2026-04-30
+
+
+Average Margin: Leicester Tigers by 3.0
+
+<p float="left">
+<img src="plots/2026-04-30-LeicesterTigers_V_Saracens_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-LeicesterTigers_V_Saracens_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-LeicesterTigers_V_Saracens_club_spreads.png" width="32%" />
+</p>
+
+### Stade Toulousain V Northampton Saints on 2026-04-30
+
+
+Average Margin: Stade Toulousain by 5.7
+
+<p float="left">
+<img src="plots/2026-04-30-StadeToulousain_V_NorthamptonSaints_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-StadeToulousain_V_NorthamptonSaints_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-StadeToulousain_V_NorthamptonSaints_club_spreads.png" width="32%" />
+</p>
+
+### Stade Toulousain V Bath Rugby on 2026-04-30
+
+
+Average Margin: Stade Toulousain by 4.7
+
+<p float="left">
+<img src="plots/2026-04-30-StadeToulousain_V_BathRugby_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-StadeToulousain_V_BathRugby_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-StadeToulousain_V_BathRugby_club_spreads.png" width="32%" />
 </p>
 
 ### Bordeaux Begles V Bath Rugby on 2026-04-30
 
 
-Average Margin: Bordeaux Begles by 3.4
+Average Margin: Bordeaux Begles by 2.5
 
 <p float="left">
-<img src="plots/2026-04-30-BordeauxBegles_V_BathRugby_performances.png" width="32%" />
-<img src="plots/2026-04-30-BordeauxBegles_V_BathRugby_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-BordeauxBegles_V_BathRugby_spreads.png" width="32%" />
+<img src="plots/2026-04-30-BordeauxBegles_V_BathRugby_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-BordeauxBegles_V_BathRugby_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-BordeauxBegles_V_BathRugby_club_spreads.png" width="32%" />
 </p>
 
-### Stormers V Harlequins on 2026-04-30
+### Leicester Tigers V Bath Rugby on 2026-04-30
 
 
-Average Margin: Stormers by 8.5
+Average Margin: Bath Rugby by 0.8
 
 <p float="left">
-<img src="plots/2026-04-30-Stormers_V_Harlequins_performances.png" width="32%" />
-<img src="plots/2026-04-30-Stormers_V_Harlequins_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-Stormers_V_Harlequins_spreads.png" width="32%" />
+<img src="plots/2026-04-30-LeicesterTigers_V_BathRugby_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-LeicesterTigers_V_BathRugby_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-LeicesterTigers_V_BathRugby_club_spreads.png" width="32%" />
+</p>
+
+### Stade Toulousain V Castres Olympique on 2026-04-30
+
+
+Average Margin: Stade Toulousain by 10.8
+
+<p float="left">
+<img src="plots/2026-04-30-StadeToulousain_V_CastresOlympique_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-StadeToulousain_V_CastresOlympique_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-StadeToulousain_V_CastresOlympique_club_spreads.png" width="32%" />
+</p>
+
+### Bulls V Harlequins on 2026-04-30
+
+
+Average Margin: Bulls by 2.5
+
+<p float="left">
+<img src="plots/2026-04-30-Bulls_V_Harlequins_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-Bulls_V_Harlequins_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-Bulls_V_Harlequins_club_spreads.png" width="32%" />
+</p>
+
+### Bulls V Edinburgh on 2026-04-30
+
+
+Average Margin: Bulls by 4.2
+
+<p float="left">
+<img src="plots/2026-04-30-Bulls_V_Edinburgh_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-Bulls_V_Edinburgh_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-Bulls_V_Edinburgh_club_spreads.png" width="32%" />
 </p>
 
 ### Stormers V Edinburgh on 2026-04-30
 
 
-Average Margin: Stormers by 3.7
+Average Margin: Stormers by 1.3
 
 <p float="left">
-<img src="plots/2026-04-30-Stormers_V_Edinburgh_performances.png" width="32%" />
-<img src="plots/2026-04-30-Stormers_V_Edinburgh_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-Stormers_V_Edinburgh_spreads.png" width="32%" />
+<img src="plots/2026-04-30-Stormers_V_Edinburgh_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-Stormers_V_Edinburgh_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-Stormers_V_Edinburgh_club_spreads.png" width="32%" />
+</p>
+
+### Toulon V Edinburgh on 2026-04-30
+
+
+Average Margin: Toulon by 3.6
+
+<p float="left">
+<img src="plots/2026-04-30-Toulon_V_Edinburgh_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-Toulon_V_Edinburgh_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-Toulon_V_Edinburgh_club_spreads.png" width="32%" />
+</p>
+
+### Stormers V Harlequins on 2026-04-30
+
+
+Average Margin: Stormers by 2.0
+
+<p float="left">
+<img src="plots/2026-04-30-Stormers_V_Harlequins_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-Stormers_V_Harlequins_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-Stormers_V_Harlequins_club_spreads.png" width="32%" />
+</p>
+
+### Toulon V Sale Sharks on 2026-04-30
+
+
+Average Margin: Toulon by 5.7
+
+<p float="left">
+<img src="plots/2026-04-30-Toulon_V_SaleSharks_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-Toulon_V_SaleSharks_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-Toulon_V_SaleSharks_club_spreads.png" width="32%" />
+</p>
+
+### Bulls V Sale Sharks on 2026-04-30
+
+
+Average Margin: Bulls by 6.8
+
+<p float="left">
+<img src="plots/2026-04-30-Bulls_V_SaleSharks_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-Bulls_V_SaleSharks_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-Bulls_V_SaleSharks_club_spreads.png" width="32%" />
+</p>
+
+### Bulls V Leinster on 2026-04-30
+
+
+Average Margin: Leinster by 0.3
+
+<p float="left">
+<img src="plots/2026-04-30-Bulls_V_Leinster_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-Bulls_V_Leinster_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-Bulls_V_Leinster_club_spreads.png" width="32%" />
+</p>
+
+### Stormers V Sale Sharks on 2026-04-30
+
+
+Average Margin: Stormers by 3.5
+
+<p float="left">
+<img src="plots/2026-04-30-Stormers_V_SaleSharks_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-Stormers_V_SaleSharks_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-Stormers_V_SaleSharks_club_spreads.png" width="32%" />
+</p>
+
+### Glasgow Warriors V Edinburgh on 2026-04-30
+
+
+Average Margin: Glasgow Warriors by 8.4
+
+<p float="left">
+<img src="plots/2026-04-30-GlasgowWarriors_V_Edinburgh_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-GlasgowWarriors_V_Edinburgh_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-GlasgowWarriors_V_Edinburgh_club_spreads.png" width="32%" />
+</p>
+
+### Glasgow Warriors V Harlequins on 2026-04-30
+
+
+Average Margin: Glasgow Warriors by 7.6
+
+<p float="left">
+<img src="plots/2026-04-30-GlasgowWarriors_V_Harlequins_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-GlasgowWarriors_V_Harlequins_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-GlasgowWarriors_V_Harlequins_club_spreads.png" width="32%" />
+</p>
+
+### Toulon V Harlequins on 2026-04-30
+
+
+Average Margin: Toulon by 4.8
+
+<p float="left">
+<img src="plots/2026-04-30-Toulon_V_Harlequins_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-Toulon_V_Harlequins_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-Toulon_V_Harlequins_club_spreads.png" width="32%" />
+</p>
+
+### Stormers V Leinster on 2026-04-30
+
+
+Average Margin: Stormers by 1.4
+
+<p float="left">
+<img src="plots/2026-04-30-Stormers_V_Leinster_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-Stormers_V_Leinster_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-Stormers_V_Leinster_club_spreads.png" width="32%" />
+</p>
+
+### Glasgow Warriors V Leinster on 2026-04-30
+
+
+Average Margin: Glasgow Warriors by 3.2
+
+<p float="left">
+<img src="plots/2026-04-30-GlasgowWarriors_V_Leinster_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-GlasgowWarriors_V_Leinster_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-GlasgowWarriors_V_Leinster_club_spreads.png" width="32%" />
+</p>
+
+### Glasgow Warriors V Sale Sharks on 2026-04-30
+
+
+Average Margin: Glasgow Warriors by 4.2
+
+<p float="left">
+<img src="plots/2026-04-30-GlasgowWarriors_V_SaleSharks_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-GlasgowWarriors_V_SaleSharks_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-GlasgowWarriors_V_SaleSharks_club_spreads.png" width="32%" />
+</p>
+
+### Leicester Tigers V Northampton Saints on 2026-04-30
+
+
+Average Margin: Leicester Tigers by 2.6
+
+<p float="left">
+<img src="plots/2026-04-30-LeicesterTigers_V_NorthamptonSaints_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-LeicesterTigers_V_NorthamptonSaints_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-LeicesterTigers_V_NorthamptonSaints_club_spreads.png" width="32%" />
+</p>
+
+### Bristol Rugby V Castres Olympique on 2026-04-30
+
+
+Average Margin: Bristol Rugby by 0.5
+
+<p float="left">
+<img src="plots/2026-04-30-BristolRugby_V_CastresOlympique_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-BristolRugby_V_CastresOlympique_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-BristolRugby_V_CastresOlympique_club_spreads.png" width="32%" />
 </p>
 
 ## Final
 
-### Stade Toulousain V Glasgow Warriors on 2026-05-21
+### Castres Olympique V Leinster on 2026-05-21
 
 
-Average Margin: Stade Toulousain by 6.3
-
-<p float="left">
-<img src="plots/2026-05-21-StadeToulousain_V_GlasgowWarriors_performances.png" width="32%" />
-<img src="plots/2026-05-21-StadeToulousain_V_GlasgowWarriors_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-StadeToulousain_V_GlasgowWarriors_spreads.png" width="32%" />
-</p>
-
-### Saracens V Stormers on 2026-05-21
-
-
-Average Margin: Saracens by 0.8
+Average Margin: Castres Olympique by 2.0
 
 <p float="left">
-<img src="plots/2026-05-21-Saracens_V_Stormers_performances.png" width="32%" />
-<img src="plots/2026-05-21-Saracens_V_Stormers_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Saracens_V_Stormers_spreads.png" width="32%" />
-</p>
-
-### Saracens V Harlequins on 2026-05-21
-
-
-Average Margin: Harlequins by 0.0
-
-<p float="left">
-<img src="plots/2026-05-21-Saracens_V_Harlequins_performances.png" width="32%" />
-<img src="plots/2026-05-21-Saracens_V_Harlequins_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Saracens_V_Harlequins_spreads.png" width="32%" />
-</p>
-
-### Bath Rugby V Stormers on 2026-05-21
-
-
-Average Margin: Bath Rugby by 7.0
-
-<p float="left">
-<img src="plots/2026-05-21-BathRugby_V_Stormers_performances.png" width="32%" />
-<img src="plots/2026-05-21-BathRugby_V_Stormers_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-BathRugby_V_Stormers_spreads.png" width="32%" />
-</p>
-
-### Stade Toulousain V Stormers on 2026-05-21
-
-
-Average Margin: Stade Toulousain by 2.8
-
-<p float="left">
-<img src="plots/2026-05-21-StadeToulousain_V_Stormers_performances.png" width="32%" />
-<img src="plots/2026-05-21-StadeToulousain_V_Stormers_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-StadeToulousain_V_Stormers_spreads.png" width="32%" />
-</p>
-
-### Northampton Saints V Toulon on 2026-05-21
-
-
-Average Margin: Northampton Saints by 7.4
-
-<p float="left">
-<img src="plots/2026-05-21-NorthamptonSaints_V_Toulon_performances.png" width="32%" />
-<img src="plots/2026-05-21-NorthamptonSaints_V_Toulon_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-NorthamptonSaints_V_Toulon_spreads.png" width="32%" />
-</p>
-
-### Saracens V Leinster on 2026-05-21
-
-
-Average Margin: Saracens by 4.2
-
-<p float="left">
-<img src="plots/2026-05-21-Saracens_V_Leinster_performances.png" width="32%" />
-<img src="plots/2026-05-21-Saracens_V_Leinster_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Saracens_V_Leinster_spreads.png" width="32%" />
-</p>
-
-### Saracens V Bulls on 2026-05-21
-
-
-Average Margin: Saracens by 2.8
-
-<p float="left">
-<img src="plots/2026-05-21-Saracens_V_Bulls_performances.png" width="32%" />
-<img src="plots/2026-05-21-Saracens_V_Bulls_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Saracens_V_Bulls_spreads.png" width="32%" />
-</p>
-
-### Bristol Rugby V Harlequins on 2026-05-21
-
-
-Average Margin: Bristol Rugby by 6.0
-
-<p float="left">
-<img src="plots/2026-05-21-BristolRugby_V_Harlequins_performances.png" width="32%" />
-<img src="plots/2026-05-21-BristolRugby_V_Harlequins_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-BristolRugby_V_Harlequins_spreads.png" width="32%" />
-</p>
-
-### Stade Toulousain V Sale Sharks on 2026-05-21
-
-
-Average Margin: Stade Toulousain by 3.9
-
-<p float="left">
-<img src="plots/2026-05-21-StadeToulousain_V_SaleSharks_performances.png" width="32%" />
-<img src="plots/2026-05-21-StadeToulousain_V_SaleSharks_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-StadeToulousain_V_SaleSharks_spreads.png" width="32%" />
-</p>
-
-### Castres Olympique V Sale Sharks on 2026-05-21
-
-
-Average Margin: Sale Sharks by 4.0
-
-<p float="left">
-<img src="plots/2026-05-21-CastresOlympique_V_SaleSharks_performances.png" width="32%" />
-<img src="plots/2026-05-21-CastresOlympique_V_SaleSharks_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-CastresOlympique_V_SaleSharks_spreads.png" width="32%" />
-</p>
-
-### Northampton Saints V Bulls on 2026-05-21
-
-
-Average Margin: Northampton Saints by 9.3
-
-<p float="left">
-<img src="plots/2026-05-21-NorthamptonSaints_V_Bulls_performances.png" width="32%" />
-<img src="plots/2026-05-21-NorthamptonSaints_V_Bulls_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-NorthamptonSaints_V_Bulls_spreads.png" width="32%" />
-</p>
-
-### Stade Toulousain V Edinburgh on 2026-05-21
-
-
-Average Margin: Stade Toulousain by 6.6
-
-<p float="left">
-<img src="plots/2026-05-21-StadeToulousain_V_Edinburgh_performances.png" width="32%" />
-<img src="plots/2026-05-21-StadeToulousain_V_Edinburgh_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-StadeToulousain_V_Edinburgh_spreads.png" width="32%" />
-</p>
-
-### Bordeaux Begles V Sale Sharks on 2026-05-21
-
-
-Average Margin: Bordeaux Begles by 9.7
-
-<p float="left">
-<img src="plots/2026-05-21-BordeauxBegles_V_SaleSharks_performances.png" width="32%" />
-<img src="plots/2026-05-21-BordeauxBegles_V_SaleSharks_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-BordeauxBegles_V_SaleSharks_spreads.png" width="32%" />
-</p>
-
-### Bath Rugby V Leinster on 2026-05-21
-
-
-Average Margin: Bath Rugby by 2.1
-
-<p float="left">
-<img src="plots/2026-05-21-BathRugby_V_Leinster_performances.png" width="32%" />
-<img src="plots/2026-05-21-BathRugby_V_Leinster_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-BathRugby_V_Leinster_spreads.png" width="32%" />
-</p>
-
-### Leicester Tigers V Stormers on 2026-05-21
-
-
-Average Margin: Leicester Tigers by 5.5
-
-<p float="left">
-<img src="plots/2026-05-21-LeicesterTigers_V_Stormers_performances.png" width="32%" />
-<img src="plots/2026-05-21-LeicesterTigers_V_Stormers_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-LeicesterTigers_V_Stormers_spreads.png" width="32%" />
-</p>
-
-### Saracens V Toulon on 2026-05-21
-
-
-Average Margin: Toulon by 0.0
-
-<p float="left">
-<img src="plots/2026-05-21-Saracens_V_Toulon_performances.png" width="32%" />
-<img src="plots/2026-05-21-Saracens_V_Toulon_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Saracens_V_Toulon_spreads.png" width="32%" />
+<img src="plots/2026-05-21-CastresOlympique_V_Leinster_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-CastresOlympique_V_Leinster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-CastresOlympique_V_Leinster_club_spreads.png" width="32%" />
 </p>
 
 ### Leicester Tigers V Sale Sharks on 2026-05-21
 
 
-Average Margin: Leicester Tigers by 10.5
+Average Margin: Leicester Tigers by 13.1
 
 <p float="left">
-<img src="plots/2026-05-21-LeicesterTigers_V_SaleSharks_performances.png" width="32%" />
-<img src="plots/2026-05-21-LeicesterTigers_V_SaleSharks_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-LeicesterTigers_V_SaleSharks_spreads.png" width="32%" />
+<img src="plots/2026-05-21-LeicesterTigers_V_SaleSharks_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-LeicesterTigers_V_SaleSharks_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-LeicesterTigers_V_SaleSharks_club_spreads.png" width="32%" />
 </p>
 
-### Castres Olympique V Bulls on 2026-05-21
+### Saracens V Edinburgh on 2026-05-21
 
 
-Average Margin: Castres Olympique by 11.0
+Average Margin: Edinburgh by 3.0
 
 <p float="left">
-<img src="plots/2026-05-21-CastresOlympique_V_Bulls_performances.png" width="32%" />
-<img src="plots/2026-05-21-CastresOlympique_V_Bulls_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-CastresOlympique_V_Bulls_spreads.png" width="32%" />
+<img src="plots/2026-05-21-Saracens_V_Edinburgh_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Saracens_V_Edinburgh_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Saracens_V_Edinburgh_club_spreads.png" width="32%" />
 </p>
 
-### Bristol Rugby V Bulls on 2026-05-21
+### Stade Toulousain V Edinburgh on 2026-05-21
 
 
-Average Margin: Bulls by 5.0
+Average Margin: Stade Toulousain by 4.5
 
 <p float="left">
-<img src="plots/2026-05-21-BristolRugby_V_Bulls_performances.png" width="32%" />
-<img src="plots/2026-05-21-BristolRugby_V_Bulls_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-BristolRugby_V_Bulls_spreads.png" width="32%" />
+<img src="plots/2026-05-21-StadeToulousain_V_Edinburgh_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-StadeToulousain_V_Edinburgh_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-StadeToulousain_V_Edinburgh_club_spreads.png" width="32%" />
 </p>
 
-### Northampton Saints V Stormers on 2026-05-21
+### Stade Toulousain V Bulls on 2026-05-21
 
 
-Average Margin: Northampton Saints by 1.2
+Average Margin: Stade Toulousain by 13.6
 
 <p float="left">
-<img src="plots/2026-05-21-NorthamptonSaints_V_Stormers_performances.png" width="32%" />
-<img src="plots/2026-05-21-NorthamptonSaints_V_Stormers_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-NorthamptonSaints_V_Stormers_spreads.png" width="32%" />
+<img src="plots/2026-05-21-StadeToulousain_V_Bulls_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-StadeToulousain_V_Bulls_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-StadeToulousain_V_Bulls_club_spreads.png" width="32%" />
 </p>
 
-### Castres Olympique V Leinster on 2026-05-21
+### Castres Olympique V Edinburgh on 2026-05-21
 
 
-Average Margin: Leinster by 2.7
+Average Margin: Castres Olympique by 9.0
 
 <p float="left">
-<img src="plots/2026-05-21-CastresOlympique_V_Leinster_performances.png" width="32%" />
-<img src="plots/2026-05-21-CastresOlympique_V_Leinster_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-CastresOlympique_V_Leinster_spreads.png" width="32%" />
+<img src="plots/2026-05-21-CastresOlympique_V_Edinburgh_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-CastresOlympique_V_Edinburgh_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-CastresOlympique_V_Edinburgh_club_spreads.png" width="32%" />
 </p>
 
-### Castres Olympique V Toulon on 2026-05-21
+### Leicester Tigers V Edinburgh on 2026-05-21
 
 
-Average Margin: Toulon by 11.7
+Average Margin: Leicester Tigers by 2.5
 
 <p float="left">
-<img src="plots/2026-05-21-CastresOlympique_V_Toulon_performances.png" width="32%" />
-<img src="plots/2026-05-21-CastresOlympique_V_Toulon_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-CastresOlympique_V_Toulon_spreads.png" width="32%" />
+<img src="plots/2026-05-21-LeicesterTigers_V_Edinburgh_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-LeicesterTigers_V_Edinburgh_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-LeicesterTigers_V_Edinburgh_club_spreads.png" width="32%" />
 </p>
 
-### Saracens V Sale Sharks on 2026-05-21
+### Saracens V Harlequins on 2026-05-21
 
 
-Average Margin: Saracens by 11.0
+Average Margin: Harlequins by 1.0
 
 <p float="left">
-<img src="plots/2026-05-21-Saracens_V_SaleSharks_performances.png" width="32%" />
-<img src="plots/2026-05-21-Saracens_V_SaleSharks_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Saracens_V_SaleSharks_spreads.png" width="32%" />
+<img src="plots/2026-05-21-Saracens_V_Harlequins_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Saracens_V_Harlequins_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Saracens_V_Harlequins_club_spreads.png" width="32%" />
 </p>
 
-### Northampton Saints V Edinburgh on 2026-05-21
+### Bath Rugby V Sale Sharks on 2026-05-21
 
 
-Average Margin: Northampton Saints by 9.5
+Average Margin: Bath Rugby by 3.2
 
 <p float="left">
-<img src="plots/2026-05-21-NorthamptonSaints_V_Edinburgh_performances.png" width="32%" />
-<img src="plots/2026-05-21-NorthamptonSaints_V_Edinburgh_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-NorthamptonSaints_V_Edinburgh_spreads.png" width="32%" />
+<img src="plots/2026-05-21-BathRugby_V_SaleSharks_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-BathRugby_V_SaleSharks_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-BathRugby_V_SaleSharks_club_spreads.png" width="32%" />
 </p>
 
-### Castres Olympique V Harlequins on 2026-05-21
+### Leicester Tigers V Bulls on 2026-05-21
 
 
-Average Margin: Harlequins by 1.5
+Average Margin: Leicester Tigers by 1.4
 
 <p float="left">
-<img src="plots/2026-05-21-CastresOlympique_V_Harlequins_performances.png" width="32%" />
-<img src="plots/2026-05-21-CastresOlympique_V_Harlequins_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-CastresOlympique_V_Harlequins_spreads.png" width="32%" />
+<img src="plots/2026-05-21-LeicesterTigers_V_Bulls_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-LeicesterTigers_V_Bulls_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-LeicesterTigers_V_Bulls_club_spreads.png" width="32%" />
 </p>
 
-### Northampton Saints V Sale Sharks on 2026-05-21
+### Leicester Tigers V Stormers on 2026-05-21
 
 
-Average Margin: Sale Sharks by 8.0
+Average Margin: Leicester Tigers by 2.1
 
 <p float="left">
-<img src="plots/2026-05-21-NorthamptonSaints_V_SaleSharks_performances.png" width="32%" />
-<img src="plots/2026-05-21-NorthamptonSaints_V_SaleSharks_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-NorthamptonSaints_V_SaleSharks_spreads.png" width="32%" />
+<img src="plots/2026-05-21-LeicesterTigers_V_Stormers_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-LeicesterTigers_V_Stormers_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-LeicesterTigers_V_Stormers_club_spreads.png" width="32%" />
 </p>
 
-### Bristol Rugby V Toulon on 2026-05-21
+### Northampton Saints V Bulls on 2026-05-21
 
 
-Average Margin: Bristol Rugby by 9.8
+Average Margin: Northampton Saints by 7.6
 
 <p float="left">
-<img src="plots/2026-05-21-BristolRugby_V_Toulon_performances.png" width="32%" />
-<img src="plots/2026-05-21-BristolRugby_V_Toulon_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-BristolRugby_V_Toulon_spreads.png" width="32%" />
+<img src="plots/2026-05-21-NorthamptonSaints_V_Bulls_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-NorthamptonSaints_V_Bulls_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-NorthamptonSaints_V_Bulls_club_spreads.png" width="32%" />
+</p>
+
+### Bath Rugby V Bulls on 2026-05-21
+
+
+Average Margin: Bath Rugby by 8.7
+
+<p float="left">
+<img src="plots/2026-05-21-BathRugby_V_Bulls_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-BathRugby_V_Bulls_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-BathRugby_V_Bulls_club_spreads.png" width="32%" />
+</p>
+
+### Saracens V Bulls on 2026-05-21
+
+
+Average Margin: Saracens by 5.2
+
+<p float="left">
+<img src="plots/2026-05-21-Saracens_V_Bulls_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Saracens_V_Bulls_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Saracens_V_Bulls_club_spreads.png" width="32%" />
 </p>
 
 ### Northampton Saints V Harlequins on 2026-05-21
 
 
-Average Margin: Northampton Saints by 9.0
+Average Margin: Northampton Saints by 13.3
 
 <p float="left">
-<img src="plots/2026-05-21-NorthamptonSaints_V_Harlequins_performances.png" width="32%" />
-<img src="plots/2026-05-21-NorthamptonSaints_V_Harlequins_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-NorthamptonSaints_V_Harlequins_spreads.png" width="32%" />
+<img src="plots/2026-05-21-NorthamptonSaints_V_Harlequins_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-NorthamptonSaints_V_Harlequins_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-NorthamptonSaints_V_Harlequins_club_spreads.png" width="32%" />
+</p>
+
+### Castres Olympique V Toulon on 2026-05-21
+
+
+Average Margin: Castres Olympique by 3.5
+
+<p float="left">
+<img src="plots/2026-05-21-CastresOlympique_V_Toulon_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-CastresOlympique_V_Toulon_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-CastresOlympique_V_Toulon_club_spreads.png" width="32%" />
+</p>
+
+### Bordeaux Begles V Sale Sharks on 2026-05-21
+
+
+Average Margin: Sale Sharks by 0.5
+
+<p float="left">
+<img src="plots/2026-05-21-BordeauxBegles_V_SaleSharks_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-BordeauxBegles_V_SaleSharks_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-BordeauxBegles_V_SaleSharks_club_spreads.png" width="32%" />
+</p>
+
+### Bristol Rugby V Harlequins on 2026-05-21
+
+
+Average Margin: Bristol Rugby by 3.7
+
+<p float="left">
+<img src="plots/2026-05-21-BristolRugby_V_Harlequins_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-BristolRugby_V_Harlequins_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-BristolRugby_V_Harlequins_club_spreads.png" width="32%" />
+</p>
+
+### Bristol Rugby V Bulls on 2026-05-21
+
+
+Average Margin: Bristol Rugby by 7.4
+
+<p float="left">
+<img src="plots/2026-05-21-BristolRugby_V_Bulls_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-BristolRugby_V_Bulls_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-BristolRugby_V_Bulls_club_spreads.png" width="32%" />
+</p>
+
+### Bristol Rugby V Toulon on 2026-05-21
+
+
+Average Margin: Bristol Rugby by 3.7
+
+<p float="left">
+<img src="plots/2026-05-21-BristolRugby_V_Toulon_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-BristolRugby_V_Toulon_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-BristolRugby_V_Toulon_club_spreads.png" width="32%" />
+</p>
+
+### Saracens V Toulon on 2026-05-21
+
+
+Average Margin: Saracens by 15.5
+
+<p float="left">
+<img src="plots/2026-05-21-Saracens_V_Toulon_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Saracens_V_Toulon_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Saracens_V_Toulon_club_spreads.png" width="32%" />
+</p>
+
+### Northampton Saints V Stormers on 2026-05-21
+
+
+Average Margin: Northampton Saints by 7.6
+
+<p float="left">
+<img src="plots/2026-05-21-NorthamptonSaints_V_Stormers_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-NorthamptonSaints_V_Stormers_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-NorthamptonSaints_V_Stormers_club_spreads.png" width="32%" />
+</p>
+
+### Castres Olympique V Sale Sharks on 2026-05-21
+
+
+Average Margin: Castres Olympique by 6.0
+
+<p float="left">
+<img src="plots/2026-05-21-CastresOlympique_V_SaleSharks_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-CastresOlympique_V_SaleSharks_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-CastresOlympique_V_SaleSharks_club_spreads.png" width="32%" />
+</p>
+
+### Bristol Rugby V Sale Sharks on 2026-05-21
+
+
+Average Margin: Sale Sharks by 6.0
+
+<p float="left">
+<img src="plots/2026-05-21-BristolRugby_V_SaleSharks_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-BristolRugby_V_SaleSharks_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-BristolRugby_V_SaleSharks_club_spreads.png" width="32%" />
+</p>
+
+### Northampton Saints V Edinburgh on 2026-05-21
+
+
+Average Margin: Northampton Saints by 12.7
+
+<p float="left">
+<img src="plots/2026-05-21-NorthamptonSaints_V_Edinburgh_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-NorthamptonSaints_V_Edinburgh_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-NorthamptonSaints_V_Edinburgh_club_spreads.png" width="32%" />
+</p>
+
+### Bristol Rugby V Edinburgh on 2026-05-21
+
+
+Average Margin: Bristol Rugby by 10.5
+
+<p float="left">
+<img src="plots/2026-05-21-BristolRugby_V_Edinburgh_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-BristolRugby_V_Edinburgh_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-BristolRugby_V_Edinburgh_club_spreads.png" width="32%" />
+</p>
+
+### Castres Olympique V Bulls on 2026-05-21
+
+
+Average Margin: Bulls by 18.0
+
+<p float="left">
+<img src="plots/2026-05-21-CastresOlympique_V_Bulls_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-CastresOlympique_V_Bulls_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-CastresOlympique_V_Bulls_club_spreads.png" width="32%" />
 </p>
 
 ### Bristol Rugby V Stormers on 2026-05-21
 
 
-Average Margin: Bristol Rugby by 3.0
+Average Margin: Bristol Rugby by 7.0
 
 <p float="left">
-<img src="plots/2026-05-21-BristolRugby_V_Stormers_performances.png" width="32%" />
-<img src="plots/2026-05-21-BristolRugby_V_Stormers_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-BristolRugby_V_Stormers_spreads.png" width="32%" />
+<img src="plots/2026-05-21-BristolRugby_V_Stormers_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-BristolRugby_V_Stormers_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-BristolRugby_V_Stormers_club_spreads.png" width="32%" />
 </p>
 
-### Bath Rugby V Harlequins on 2026-05-21
+### Bordeaux Begles V Harlequins on 2026-05-21
 
 
-Average Margin: Bath Rugby by 6.2
+Average Margin: Bordeaux Begles by 5.5
 
 <p float="left">
-<img src="plots/2026-05-21-BathRugby_V_Harlequins_performances.png" width="32%" />
-<img src="plots/2026-05-21-BathRugby_V_Harlequins_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-BathRugby_V_Harlequins_spreads.png" width="32%" />
+<img src="plots/2026-05-21-BordeauxBegles_V_Harlequins_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-BordeauxBegles_V_Harlequins_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-BordeauxBegles_V_Harlequins_club_spreads.png" width="32%" />
 </p>
 
-### Stade Toulousain V Toulon on 2026-05-21
+### Stade Toulousain V Harlequins on 2026-05-21
 
 
-Average Margin: Stade Toulousain by 7.1
+Average Margin: Stade Toulousain by 8.3
 
 <p float="left">
-<img src="plots/2026-05-21-StadeToulousain_V_Toulon_performances.png" width="32%" />
-<img src="plots/2026-05-21-StadeToulousain_V_Toulon_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-StadeToulousain_V_Toulon_spreads.png" width="32%" />
+<img src="plots/2026-05-21-StadeToulousain_V_Harlequins_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-StadeToulousain_V_Harlequins_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-StadeToulousain_V_Harlequins_club_spreads.png" width="32%" />
 </p>
 
-### Leicester Tigers V Toulon on 2026-05-21
+### Bath Rugby V Edinburgh on 2026-05-21
 
 
-Average Margin: Leicester Tigers by 9.8
+Average Margin: Bath Rugby by 8.6
 
 <p float="left">
-<img src="plots/2026-05-21-LeicesterTigers_V_Toulon_performances.png" width="32%" />
-<img src="plots/2026-05-21-LeicesterTigers_V_Toulon_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-LeicesterTigers_V_Toulon_spreads.png" width="32%" />
+<img src="plots/2026-05-21-BathRugby_V_Edinburgh_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-BathRugby_V_Edinburgh_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-BathRugby_V_Edinburgh_club_spreads.png" width="32%" />
 </p>
 
-### Bordeaux Begles V Glasgow Warriors on 2026-05-21
+### Northampton Saints V Toulon on 2026-05-21
 
 
-Average Margin: Bordeaux Begles by 4.4
+Average Margin: Northampton Saints by 0.1
 
 <p float="left">
-<img src="plots/2026-05-21-BordeauxBegles_V_GlasgowWarriors_performances.png" width="32%" />
-<img src="plots/2026-05-21-BordeauxBegles_V_GlasgowWarriors_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-BordeauxBegles_V_GlasgowWarriors_spreads.png" width="32%" />
+<img src="plots/2026-05-21-NorthamptonSaints_V_Toulon_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-NorthamptonSaints_V_Toulon_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-NorthamptonSaints_V_Toulon_club_spreads.png" width="32%" />
+</p>
+
+### Stade Toulousain V Glasgow Warriors on 2026-05-21
+
+
+Average Margin: Stade Toulousain by 5.7
+
+<p float="left">
+<img src="plots/2026-05-21-StadeToulousain_V_GlasgowWarriors_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-StadeToulousain_V_GlasgowWarriors_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-StadeToulousain_V_GlasgowWarriors_club_spreads.png" width="32%" />
 </p>
 
 ### Bath Rugby V Glasgow Warriors on 2026-05-21
 
 
-Average Margin: Bath Rugby by 3.4
+Average Margin: Bath Rugby by 3.1
 
 <p float="left">
-<img src="plots/2026-05-21-BathRugby_V_GlasgowWarriors_performances.png" width="32%" />
-<img src="plots/2026-05-21-BathRugby_V_GlasgowWarriors_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-BathRugby_V_GlasgowWarriors_spreads.png" width="32%" />
+<img src="plots/2026-05-21-BathRugby_V_GlasgowWarriors_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-BathRugby_V_GlasgowWarriors_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-BathRugby_V_GlasgowWarriors_club_spreads.png" width="32%" />
+</p>
+
+### Bordeaux Begles V Stormers on 2026-05-21
+
+
+Average Margin: Bordeaux Begles by 7.2
+
+<p float="left">
+<img src="plots/2026-05-21-BordeauxBegles_V_Stormers_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-BordeauxBegles_V_Stormers_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-BordeauxBegles_V_Stormers_club_spreads.png" width="32%" />
+</p>
+
+### Bath Rugby V Harlequins on 2026-05-21
+
+
+Average Margin: Bath Rugby by 6.0
+
+<p float="left">
+<img src="plots/2026-05-21-BathRugby_V_Harlequins_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-BathRugby_V_Harlequins_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-BathRugby_V_Harlequins_club_spreads.png" width="32%" />
+</p>
+
+### Saracens V Glasgow Warriors on 2026-05-21
+
+
+Average Margin: Saracens by 3.5
+
+<p float="left">
+<img src="plots/2026-05-21-Saracens_V_GlasgowWarriors_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Saracens_V_GlasgowWarriors_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Saracens_V_GlasgowWarriors_club_spreads.png" width="32%" />
+</p>
+
+### Leicester Tigers V Glasgow Warriors on 2026-05-21
+
+
+Average Margin: Leicester Tigers by 1.2
+
+<p float="left">
+<img src="plots/2026-05-21-LeicesterTigers_V_GlasgowWarriors_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-LeicesterTigers_V_GlasgowWarriors_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-LeicesterTigers_V_GlasgowWarriors_club_spreads.png" width="32%" />
+</p>
+
+### Saracens V Sale Sharks on 2026-05-21
+
+
+Average Margin: Saracens by 11.3
+
+<p float="left">
+<img src="plots/2026-05-21-Saracens_V_SaleSharks_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Saracens_V_SaleSharks_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Saracens_V_SaleSharks_club_spreads.png" width="32%" />
+</p>
+
+### Leicester Tigers V Leinster on 2026-05-21
+
+
+Average Margin: Leicester Tigers by 0.2
+
+<p float="left">
+<img src="plots/2026-05-21-LeicesterTigers_V_Leinster_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-LeicesterTigers_V_Leinster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-LeicesterTigers_V_Leinster_club_spreads.png" width="32%" />
+</p>
+
+### Saracens V Stormers on 2026-05-21
+
+
+Average Margin: Saracens by 4.4
+
+<p float="left">
+<img src="plots/2026-05-21-Saracens_V_Stormers_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Saracens_V_Stormers_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Saracens_V_Stormers_club_spreads.png" width="32%" />
+</p>
+
+### Northampton Saints V Leinster on 2026-05-21
+
+
+Average Margin: Northampton Saints by 3.9
+
+<p float="left">
+<img src="plots/2026-05-21-NorthamptonSaints_V_Leinster_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-NorthamptonSaints_V_Leinster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-NorthamptonSaints_V_Leinster_club_spreads.png" width="32%" />
+</p>
+
+### Stade Toulousain V Leinster on 2026-05-21
+
+
+Average Margin: Stade Toulousain by 8.3
+
+<p float="left">
+<img src="plots/2026-05-21-StadeToulousain_V_Leinster_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-StadeToulousain_V_Leinster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-StadeToulousain_V_Leinster_club_spreads.png" width="32%" />
+</p>
+
+### Bath Rugby V Toulon on 2026-05-21
+
+
+Average Margin: Bath Rugby by 2.3
+
+<p float="left">
+<img src="plots/2026-05-21-BathRugby_V_Toulon_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-BathRugby_V_Toulon_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-BathRugby_V_Toulon_club_spreads.png" width="32%" />
+</p>
+
+### Bordeaux Begles V Toulon on 2026-05-21
+
+
+Average Margin: Bordeaux Begles by 8.7
+
+<p float="left">
+<img src="plots/2026-05-21-BordeauxBegles_V_Toulon_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-BordeauxBegles_V_Toulon_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-BordeauxBegles_V_Toulon_club_spreads.png" width="32%" />
+</p>
+
+### Leicester Tigers V Harlequins on 2026-05-21
+
+
+Average Margin: Leicester Tigers by 10.0
+
+<p float="left">
+<img src="plots/2026-05-21-LeicesterTigers_V_Harlequins_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-LeicesterTigers_V_Harlequins_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-LeicesterTigers_V_Harlequins_club_spreads.png" width="32%" />
+</p>
+
+### Leicester Tigers V Toulon on 2026-05-21
+
+
+Average Margin: Leicester Tigers by 11.6
+
+<p float="left">
+<img src="plots/2026-05-21-LeicesterTigers_V_Toulon_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-LeicesterTigers_V_Toulon_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-LeicesterTigers_V_Toulon_club_spreads.png" width="32%" />
+</p>
+
+### Stade Toulousain V Sale Sharks on 2026-05-21
+
+
+Average Margin: Stade Toulousain by 9.1
+
+<p float="left">
+<img src="plots/2026-05-21-StadeToulousain_V_SaleSharks_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-StadeToulousain_V_SaleSharks_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-StadeToulousain_V_SaleSharks_club_spreads.png" width="32%" />
+</p>
+
+### Bristol Rugby V Leinster on 2026-05-21
+
+
+Average Margin: Bristol Rugby by 0.2
+
+<p float="left">
+<img src="plots/2026-05-21-BristolRugby_V_Leinster_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-BristolRugby_V_Leinster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-BristolRugby_V_Leinster_club_spreads.png" width="32%" />
 </p>
 
 ### Bordeaux Begles V Bulls on 2026-05-21
 
 
-Average Margin: Bordeaux Begles by 6.9
+Average Margin: Bordeaux Begles by 2.2
 
 <p float="left">
-<img src="plots/2026-05-21-BordeauxBegles_V_Bulls_performances.png" width="32%" />
-<img src="plots/2026-05-21-BordeauxBegles_V_Bulls_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-BordeauxBegles_V_Bulls_spreads.png" width="32%" />
+<img src="plots/2026-05-21-BordeauxBegles_V_Bulls_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-BordeauxBegles_V_Bulls_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-BordeauxBegles_V_Bulls_club_spreads.png" width="32%" />
+</p>
+
+### Bath Rugby V Stormers on 2026-05-21
+
+
+Average Margin: Bath Rugby by 5.6
+
+<p float="left">
+<img src="plots/2026-05-21-BathRugby_V_Stormers_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-BathRugby_V_Stormers_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-BathRugby_V_Stormers_club_spreads.png" width="32%" />
+</p>
+
+### Bordeaux Begles V Edinburgh on 2026-05-21
+
+
+Average Margin: Bordeaux Begles by 4.8
+
+<p float="left">
+<img src="plots/2026-05-21-BordeauxBegles_V_Edinburgh_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-BordeauxBegles_V_Edinburgh_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-BordeauxBegles_V_Edinburgh_club_spreads.png" width="32%" />
+</p>
+
+### Bath Rugby V Leinster on 2026-05-21
+
+
+Average Margin: Bath Rugby by 5.4
+
+<p float="left">
+<img src="plots/2026-05-21-BathRugby_V_Leinster_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-BathRugby_V_Leinster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-BathRugby_V_Leinster_club_spreads.png" width="32%" />
+</p>
+
+### Northampton Saints V Glasgow Warriors on 2026-05-21
+
+
+Average Margin: Northampton Saints by 3.1
+
+<p float="left">
+<img src="plots/2026-05-21-NorthamptonSaints_V_GlasgowWarriors_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-NorthamptonSaints_V_GlasgowWarriors_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-NorthamptonSaints_V_GlasgowWarriors_club_spreads.png" width="32%" />
+</p>
+
+### Stade Toulousain V Stormers on 2026-05-21
+
+
+Average Margin: Stade Toulousain by 1.7
+
+<p float="left">
+<img src="plots/2026-05-21-StadeToulousain_V_Stormers_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-StadeToulousain_V_Stormers_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-StadeToulousain_V_Stormers_club_spreads.png" width="32%" />
+</p>
+
+### Castres Olympique V Glasgow Warriors on 2026-05-21
+
+
+Average Margin: Castres Olympique by 4.1
+
+<p float="left">
+<img src="plots/2026-05-21-CastresOlympique_V_GlasgowWarriors_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-CastresOlympique_V_GlasgowWarriors_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-CastresOlympique_V_GlasgowWarriors_club_spreads.png" width="32%" />
 </p>
 
 ### Bristol Rugby V Glasgow Warriors on 2026-05-21
@@ -1224,304 +1444,62 @@ Average Margin: Bordeaux Begles by 6.9
 Average Margin: Bristol Rugby by 3.2
 
 <p float="left">
-<img src="plots/2026-05-21-BristolRugby_V_GlasgowWarriors_performances.png" width="32%" />
-<img src="plots/2026-05-21-BristolRugby_V_GlasgowWarriors_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-BristolRugby_V_GlasgowWarriors_spreads.png" width="32%" />
+<img src="plots/2026-05-21-BristolRugby_V_GlasgowWarriors_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-BristolRugby_V_GlasgowWarriors_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-BristolRugby_V_GlasgowWarriors_club_spreads.png" width="32%" />
 </p>
 
-### Bordeaux Begles V Toulon on 2026-05-21
+### Saracens V Leinster on 2026-05-21
 
 
-Average Margin: Bordeaux Begles by 6.2
-
-<p float="left">
-<img src="plots/2026-05-21-BordeauxBegles_V_Toulon_performances.png" width="32%" />
-<img src="plots/2026-05-21-BordeauxBegles_V_Toulon_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-BordeauxBegles_V_Toulon_spreads.png" width="32%" />
-</p>
-
-### Leicester Tigers V Glasgow Warriors on 2026-05-21
-
-
-Average Margin: Leicester Tigers by 0.4
+Average Margin: Saracens by 4.9
 
 <p float="left">
-<img src="plots/2026-05-21-LeicesterTigers_V_GlasgowWarriors_performances.png" width="32%" />
-<img src="plots/2026-05-21-LeicesterTigers_V_GlasgowWarriors_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-LeicesterTigers_V_GlasgowWarriors_spreads.png" width="32%" />
-</p>
-
-### Bath Rugby V Sale Sharks on 2026-05-21
-
-
-Average Margin: Bath Rugby by 6.5
-
-<p float="left">
-<img src="plots/2026-05-21-BathRugby_V_SaleSharks_performances.png" width="32%" />
-<img src="plots/2026-05-21-BathRugby_V_SaleSharks_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-BathRugby_V_SaleSharks_spreads.png" width="32%" />
-</p>
-
-### Northampton Saints V Glasgow Warriors on 2026-05-21
-
-
-Average Margin: Northampton Saints by 4.1
-
-<p float="left">
-<img src="plots/2026-05-21-NorthamptonSaints_V_GlasgowWarriors_performances.png" width="32%" />
-<img src="plots/2026-05-21-NorthamptonSaints_V_GlasgowWarriors_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-NorthamptonSaints_V_GlasgowWarriors_spreads.png" width="32%" />
-</p>
-
-### Stade Toulousain V Leinster on 2026-05-21
-
-
-Average Margin: Stade Toulousain by 4.7
-
-<p float="left">
-<img src="plots/2026-05-21-StadeToulousain_V_Leinster_performances.png" width="32%" />
-<img src="plots/2026-05-21-StadeToulousain_V_Leinster_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-StadeToulousain_V_Leinster_spreads.png" width="32%" />
-</p>
-
-### Castres Olympique V Edinburgh on 2026-05-21
-
-
-Average Margin: Castres Olympique by 10.0
-
-<p float="left">
-<img src="plots/2026-05-21-CastresOlympique_V_Edinburgh_performances.png" width="32%" />
-<img src="plots/2026-05-21-CastresOlympique_V_Edinburgh_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-CastresOlympique_V_Edinburgh_spreads.png" width="32%" />
-</p>
-
-### Saracens V Glasgow Warriors on 2026-05-21
-
-
-Average Margin: Saracens by 2.5
-
-<p float="left">
-<img src="plots/2026-05-21-Saracens_V_GlasgowWarriors_performances.png" width="32%" />
-<img src="plots/2026-05-21-Saracens_V_GlasgowWarriors_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Saracens_V_GlasgowWarriors_spreads.png" width="32%" />
-</p>
-
-### Bristol Rugby V Sale Sharks on 2026-05-21
-
-
-Average Margin: Bristol Rugby by 5.0
-
-<p float="left">
-<img src="plots/2026-05-21-BristolRugby_V_SaleSharks_performances.png" width="32%" />
-<img src="plots/2026-05-21-BristolRugby_V_SaleSharks_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-BristolRugby_V_SaleSharks_spreads.png" width="32%" />
-</p>
-
-### Castres Olympique V Glasgow Warriors on 2026-05-21
-
-
-Average Margin: Glasgow Warriors by 3.6
-
-<p float="left">
-<img src="plots/2026-05-21-CastresOlympique_V_GlasgowWarriors_performances.png" width="32%" />
-<img src="plots/2026-05-21-CastresOlympique_V_GlasgowWarriors_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-CastresOlympique_V_GlasgowWarriors_spreads.png" width="32%" />
-</p>
-
-### Bordeaux Begles V Harlequins on 2026-05-21
-
-
-Average Margin: Bordeaux Begles by 7.8
-
-<p float="left">
-<img src="plots/2026-05-21-BordeauxBegles_V_Harlequins_performances.png" width="32%" />
-<img src="plots/2026-05-21-BordeauxBegles_V_Harlequins_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-BordeauxBegles_V_Harlequins_spreads.png" width="32%" />
-</p>
-
-### Bristol Rugby V Leinster on 2026-05-21
-
-
-Average Margin: Leinster by 1.2
-
-<p float="left">
-<img src="plots/2026-05-21-BristolRugby_V_Leinster_performances.png" width="32%" />
-<img src="plots/2026-05-21-BristolRugby_V_Leinster_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-BristolRugby_V_Leinster_spreads.png" width="32%" />
-</p>
-
-### Stade Toulousain V Bulls on 2026-05-21
-
-
-Average Margin: Stade Toulousain by 5.6
-
-<p float="left">
-<img src="plots/2026-05-21-StadeToulousain_V_Bulls_performances.png" width="32%" />
-<img src="plots/2026-05-21-StadeToulousain_V_Bulls_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-StadeToulousain_V_Bulls_spreads.png" width="32%" />
+<img src="plots/2026-05-21-Saracens_V_Leinster_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Saracens_V_Leinster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Saracens_V_Leinster_club_spreads.png" width="32%" />
 </p>
 
 ### Bordeaux Begles V Leinster on 2026-05-21
 
 
-Average Margin: Bordeaux Begles by 3.0
+Average Margin: Bordeaux Begles by 3.5
 
 <p float="left">
-<img src="plots/2026-05-21-BordeauxBegles_V_Leinster_performances.png" width="32%" />
-<img src="plots/2026-05-21-BordeauxBegles_V_Leinster_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-BordeauxBegles_V_Leinster_spreads.png" width="32%" />
+<img src="plots/2026-05-21-BordeauxBegles_V_Leinster_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-BordeauxBegles_V_Leinster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-BordeauxBegles_V_Leinster_club_spreads.png" width="32%" />
 </p>
 
-### Saracens V Edinburgh on 2026-05-21
+### Stade Toulousain V Toulon on 2026-05-21
 
 
-Average Margin: Saracens by 4.5
+Average Margin: Stade Toulousain by 11.5
 
 <p float="left">
-<img src="plots/2026-05-21-Saracens_V_Edinburgh_performances.png" width="32%" />
-<img src="plots/2026-05-21-Saracens_V_Edinburgh_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Saracens_V_Edinburgh_spreads.png" width="32%" />
+<img src="plots/2026-05-21-StadeToulousain_V_Toulon_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-StadeToulousain_V_Toulon_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-StadeToulousain_V_Toulon_club_spreads.png" width="32%" />
 </p>
 
-### Bath Rugby V Bulls on 2026-05-21
+### Bordeaux Begles V Glasgow Warriors on 2026-05-21
 
 
-Average Margin: Bath Rugby by 6.6
-
-<p float="left">
-<img src="plots/2026-05-21-BathRugby_V_Bulls_performances.png" width="32%" />
-<img src="plots/2026-05-21-BathRugby_V_Bulls_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-BathRugby_V_Bulls_spreads.png" width="32%" />
-</p>
-
-### Leicester Tigers V Harlequins on 2026-05-21
-
-
-Average Margin: Harlequins by 0.3
+Average Margin: Bordeaux Begles by 2.9
 
 <p float="left">
-<img src="plots/2026-05-21-LeicesterTigers_V_Harlequins_performances.png" width="32%" />
-<img src="plots/2026-05-21-LeicesterTigers_V_Harlequins_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-LeicesterTigers_V_Harlequins_spreads.png" width="32%" />
-</p>
-
-### Bath Rugby V Edinburgh on 2026-05-21
-
-
-Average Margin: Bath Rugby by 9.6
-
-<p float="left">
-<img src="plots/2026-05-21-BathRugby_V_Edinburgh_performances.png" width="32%" />
-<img src="plots/2026-05-21-BathRugby_V_Edinburgh_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-BathRugby_V_Edinburgh_spreads.png" width="32%" />
-</p>
-
-### Leicester Tigers V Leinster on 2026-05-21
-
-
-Average Margin: Leicester Tigers by 1.2
-
-<p float="left">
-<img src="plots/2026-05-21-LeicesterTigers_V_Leinster_performances.png" width="32%" />
-<img src="plots/2026-05-21-LeicesterTigers_V_Leinster_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-LeicesterTigers_V_Leinster_spreads.png" width="32%" />
-</p>
-
-### Bordeaux Begles V Stormers on 2026-05-21
-
-
-Average Margin: Bordeaux Begles by 3.8
-
-<p float="left">
-<img src="plots/2026-05-21-BordeauxBegles_V_Stormers_performances.png" width="32%" />
-<img src="plots/2026-05-21-BordeauxBegles_V_Stormers_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-BordeauxBegles_V_Stormers_spreads.png" width="32%" />
+<img src="plots/2026-05-21-BordeauxBegles_V_GlasgowWarriors_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-BordeauxBegles_V_GlasgowWarriors_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-BordeauxBegles_V_GlasgowWarriors_club_spreads.png" width="32%" />
 </p>
 
 ### Castres Olympique V Stormers on 2026-05-21
 
 
-Average Margin: Castres Olympique by 9.3
+Average Margin: Stormers by 3.0
 
 <p float="left">
-<img src="plots/2026-05-21-CastresOlympique_V_Stormers_performances.png" width="32%" />
-<img src="plots/2026-05-21-CastresOlympique_V_Stormers_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-CastresOlympique_V_Stormers_spreads.png" width="32%" />
-</p>
-
-### Northampton Saints V Leinster on 2026-05-21
-
-
-Average Margin: Northampton Saints by 4.9
-
-<p float="left">
-<img src="plots/2026-05-21-NorthamptonSaints_V_Leinster_performances.png" width="32%" />
-<img src="plots/2026-05-21-NorthamptonSaints_V_Leinster_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-NorthamptonSaints_V_Leinster_spreads.png" width="32%" />
-</p>
-
-### Bordeaux Begles V Edinburgh on 2026-05-21
-
-
-Average Margin: Bordeaux Begles by 2.5
-
-<p float="left">
-<img src="plots/2026-05-21-BordeauxBegles_V_Edinburgh_performances.png" width="32%" />
-<img src="plots/2026-05-21-BordeauxBegles_V_Edinburgh_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-BordeauxBegles_V_Edinburgh_spreads.png" width="32%" />
-</p>
-
-### Leicester Tigers V Edinburgh on 2026-05-21
-
-
-Average Margin: Edinburgh by 4.0
-
-<p float="left">
-<img src="plots/2026-05-21-LeicesterTigers_V_Edinburgh_performances.png" width="32%" />
-<img src="plots/2026-05-21-LeicesterTigers_V_Edinburgh_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-LeicesterTigers_V_Edinburgh_spreads.png" width="32%" />
-</p>
-
-### Stade Toulousain V Harlequins on 2026-05-21
-
-
-Average Margin: Stade Toulousain by 10.4
-
-<p float="left">
-<img src="plots/2026-05-21-StadeToulousain_V_Harlequins_performances.png" width="32%" />
-<img src="plots/2026-05-21-StadeToulousain_V_Harlequins_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-StadeToulousain_V_Harlequins_spreads.png" width="32%" />
-</p>
-
-### Bath Rugby V Toulon on 2026-05-21
-
-
-Average Margin: Bath Rugby by 8.3
-
-<p float="left">
-<img src="plots/2026-05-21-BathRugby_V_Toulon_performances.png" width="32%" />
-<img src="plots/2026-05-21-BathRugby_V_Toulon_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-BathRugby_V_Toulon_spreads.png" width="32%" />
-</p>
-
-### Bristol Rugby V Edinburgh on 2026-05-21
-
-
-Average Margin: Bristol Rugby by 8.0
-
-<p float="left">
-<img src="plots/2026-05-21-BristolRugby_V_Edinburgh_performances.png" width="32%" />
-<img src="plots/2026-05-21-BristolRugby_V_Edinburgh_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-BristolRugby_V_Edinburgh_spreads.png" width="32%" />
-</p>
-
-### Leicester Tigers V Bulls on 2026-05-21
-
-
-Average Margin: Leicester Tigers by 9.0
-
-<p float="left">
-<img src="plots/2026-05-21-LeicesterTigers_V_Bulls_performances.png" width="32%" />
-<img src="plots/2026-05-21-LeicesterTigers_V_Bulls_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-LeicesterTigers_V_Bulls_spreads.png" width="32%" />
+<img src="plots/2026-05-21-CastresOlympique_V_Stormers_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-CastresOlympique_V_Stormers_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-CastresOlympique_V_Stormers_club_spreads.png" width="32%" />
 </p>

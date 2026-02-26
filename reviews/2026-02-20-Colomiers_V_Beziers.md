@@ -9,9 +9,9 @@ categories: "Pro D2 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Colomiers to win by 7.87, and Colomiers won by 18.0. That's an absolute error of 10.1 for the margin of victory, while my average absolute error has been 13.5 over the past six months. This prediction was more accurate than 48.9% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Colomiers to win by 7.94, and Colomiers won by 18.0. That's an absolute error of 10.1 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 48.6% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 45.5 and we have an actual total of 18.0. That's an absolute error of 27.5 compared to a six month average of 12.8. This prediction was more accurate than 9.6% of my recent predictions.
+For the Over/Under model, I predicted a total of 45.5 and we have an actual total of 18.0. That's an absolute error of 27.5 compared to a six month average of 12.9. This prediction was more accurate than 9.5% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 45.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Colomiers to win by 7.81,  and Colomiers won by 18.0. That's an absolute error of 10.2 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 45.2% of my recent predictions.
+With the player model, I predicted Colomiers to win by 8.5,  and Colomiers won by 18.0. That's an absolute error of 9.5 for the margin of victory, while the average error as been 14.2 for the past six months. So this prediction was more accurate than 46.0% of my recent predictions.
 ## Projected Performances - Player Model
 
 

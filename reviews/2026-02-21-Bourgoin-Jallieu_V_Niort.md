@@ -9,9 +9,9 @@ categories: "Nationale 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Bourgoin-Jallieu to win by 2.08, and Bourgoin-Jallieu won by 3.0. That's an absolute error of 0.9 for the margin of victory, while my average absolute error has been 13.5 over the past six months. This prediction was more accurate than 94.5% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Bourgoin-Jallieu to win by 2.14, and Bourgoin-Jallieu won by 3.0. That's an absolute error of 0.9 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 94.9% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 41.5 and we have an actual total of 37.0. That's an absolute error of 4.5 compared to a six month average of 12.8. This prediction was more accurate than 78.5% of my recent predictions.
+For the Over/Under model, I predicted a total of 41.5 and we have an actual total of 37.0. That's an absolute error of 4.5 compared to a six month average of 12.9. This prediction was more accurate than 79.0% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 41.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Bourgoin-Jallieu to win by 2.6,  and Bourgoin-Jallieu won by 3.0. That's an absolute error of 0.4 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 86.5% of my recent predictions.
+With the player model, I predicted Bourgoin-Jallieu to win by 1.19,  and Bourgoin-Jallieu won by 3.0. That's an absolute error of 1.8 for the margin of victory, while the average error as been 14.2 for the past six months. So this prediction was more accurate than 77.8% of my recent predictions.
 ## Projected Performances - Player Model
 
 

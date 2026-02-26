@@ -9,9 +9,9 @@ categories: "Pro D2 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Vannes to win by 1.34, and Vannes won by 7.0. That's an absolute error of 5.7 for the margin of victory, while my average absolute error has been 13.5 over the past six months. This prediction was more accurate than 71.0% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Vannes to win by 1.78, and Vannes won by 7.0. That's an absolute error of 5.2 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 73.3% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 47.5 and we have an actual total of 73.0. That's an absolute error of 25.5 compared to a six month average of 12.8. This prediction was more accurate than 11.6% of my recent predictions.
+For the Over/Under model, I predicted a total of 47.5 and we have an actual total of 73.0. That's an absolute error of 25.5 compared to a six month average of 12.9. This prediction was more accurate than 11.8% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 47.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Vannes to win by 0.49,  and Vannes won by 7.0. That's an absolute error of 6.5 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 58.8% of my recent predictions.
+With the player model, I predicted Biarritz Olympique to win by 1.22,  and Vannes won by 7.0. That's an absolute error of 8.2 for the margin of victory, while the average error as been 14.2 for the past six months. So this prediction was more accurate than 50.0% of my recent predictions.
 ## Projected Performances - Player Model
 
 

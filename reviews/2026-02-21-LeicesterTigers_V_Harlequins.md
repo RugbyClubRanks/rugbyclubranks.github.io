@@ -9,9 +9,9 @@ categories: "Premiership Rugby Cup 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Leicester Tigers to win by 6.05, and Leicester Tigers won by 6.0. That's an absolute error of 0.0 for the margin of victory, while my average absolute error has been 13.5 over the past six months. This prediction was more accurate than 99.6% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Leicester Tigers to win by 4.89, and Leicester Tigers won by 6.0. That's an absolute error of 1.1 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 93.6% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 52.5 and we have an actual total of 60.0. That's an absolute error of 7.5 compared to a six month average of 12.8. This prediction was more accurate than 63.3% of my recent predictions.
+For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 60.0. That's an absolute error of 8.5 compared to a six month average of 12.9. This prediction was more accurate than 59.7% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 52.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Leicester Tigers to win by 5.43,  and Leicester Tigers won by 6.0. That's an absolute error of 0.6 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 85.4% of my recent predictions.
+With the player model, I predicted Leicester Tigers to win by 6.44,  and Leicester Tigers won by 6.0. That's an absolute error of 0.4 for the margin of victory, while the average error as been 14.2 for the past six months. So this prediction was more accurate than 84.9% of my recent predictions.
 ## Projected Performances - Player Model
 
 
