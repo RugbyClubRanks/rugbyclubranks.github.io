@@ -16,7 +16,7 @@ Competition Error: 14.65 points per match
 
 Last Two Week Accuracy: 2 of 3 (66.67%)
 
-Last Two Week Error: 15.65 points per match
+Last Two Week Error: 15.64 points per match
 
 [2026/03/06 - Ireland V Wales](projections/2026-03-06-Ireland_V_Wales)
 
@@ -44,17 +44,17 @@ Last Two Week Accuracy: 3 of 6 (50.0%)
 
 Last Two Week Error: 20.45 points per match
 
-[2026/02/28 - Saitama Wild Knights V Mie Honda Heat](projections/2026-02-28-SaitamaWildKnights_V_MieHondaHeat)
+[2026/02/27 - Saitama Wild Knights V Mie Honda Heat](projections/2026-02-27-SaitamaWildKnights_V_MieHondaHeat)
 
-[2026/02/28 - Toshiba Brave Lupus V Black Rams Tokyo](projections/2026-02-28-ToshibaBraveLupus_V_BlackRamsTokyo)
+[2026/02/27 - Toshiba Brave Lupus V Black Rams Tokyo](projections/2026-02-27-ToshibaBraveLupus_V_BlackRamsTokyo)
 
-[2026/02/28 - Urayasu D-Rocks V Kobelco Kobe Steelers](projections/2026-02-28-UrayasuD-Rocks_V_KobelcoKobeSteelers)
+[2026/02/27 - Urayasu D-Rocks V Kobelco Kobe Steelers](projections/2026-02-27-UrayasuD-Rocks_V_KobelcoKobeSteelers)
 
-[2026/03/01 - Mitsubishi Dynaboars V Toyota Verblitz](projections/2026-03-01-MitsubishiDynaboars_V_ToyotaVerblitz)
+[2026/02/28 - Mitsubishi Dynaboars V Toyota Verblitz](projections/2026-02-28-MitsubishiDynaboars_V_ToyotaVerblitz)
 
-[2026/03/01 - Shizuoka Blue Revs V Tokyo Sungoliath](projections/2026-03-01-ShizuokaBlueRevs_V_TokyoSungoliath)
+[2026/02/28 - Shizuoka Blue Revs V Tokyo Sungoliath](projections/2026-02-28-ShizuokaBlueRevs_V_TokyoSungoliath)
 
-[2026/03/01 - Yokohama Canon Eagles V Kubota Spears](projections/2026-03-01-YokohamaCanonEagles_V_KubotaSpears)
+[2026/02/28 - Yokohama Canon Eagles V Kubota Spears](projections/2026-02-28-YokohamaCanonEagles_V_KubotaSpears)
 
 [2026/03/14 - Black Rams Tokyo V Shizuoka Blue Revs](projections/2026-03-14-BlackRamsTokyo_V_ShizuokaBlueRevs)
 
@@ -67,20 +67,40 @@ Last Two Week Error: 20.45 points per match
 [2026/03/15 - Tokyo Sungoliath V Toshiba Brave Lupus](projections/2026-03-15-TokyoSungoliath_V_ToshibaBraveLupus)
 
 [2026/03/15 - Toyota Verblitz V Urayasu D-Rocks](projections/2026-03-15-ToyotaVerblitz_V_UrayasuD-Rocks)
+## Top 14
+
+
+[In depth model review and projections for Top 14 25/26](comp_files/Top_14_2526)
+
+Competition Accuracy: 93 of 119 (78.15%)
+
+Competition Error: 13.94 points per match
+
+[2026/02/27 - Pau V Bordeaux Begles](projections/2026-02-27-Pau_V_BordeauxBegles)
+
+[2026/02/27 - Castres Olympique V La Rochelle](projections/2026-02-27-CastresOlympique_V_LaRochelle)
+
+[2026/02/27 - Clermont Auvergne V Bayonne](projections/2026-02-27-ClermontAuvergne_V_Bayonne)
+
+[2026/02/27 - Lyon V Toulon](projections/2026-02-27-Lyon_V_Toulon)
+
+[2026/02/27 - Montpellier Herault V Racing 92](projections/2026-02-27-MontpellierHerault_V_Racing92)
+
+[2026/02/27 - Stade Francais Paris V Perpignan](projections/2026-02-27-StadeFrancaisParis_V_Perpignan)
+
+[2026/02/27 - Stade Toulousain V US Montauban](projections/2026-02-27-StadeToulousain_V_USMontauban)
 ## Super Rugby Pacific
 
 
 [In depth model review and projections for Super Rugby Pacific 2026](comp_files/Super_Rugby_Pacific_2026)
 
-Competition Accuracy: 6 of 10 (60.0%)
+Competition Accuracy: 7 of 12 (58.33%)
 
-Competition Error: 16.15 points per match
+Competition Error: 16.41 points per match
 
-Last Two Week Accuracy: 4 of 5 (80.0%)
+Last Two Week Accuracy: 5 of 7 (71.43%)
 
-Last Two Week Error: 16.94 points per match
-
-[2026/03/07 - Brumbies V Queensland Reds](projections/2026-03-07-Brumbies_V_QueenslandReds)
+Last Two Week Error: 17.15 points per match
 
 [2026/03/07 - Highlanders V Western Force](projections/2026-03-07-Highlanders_V_WesternForce)
 
@@ -94,43 +114,19 @@ Last Two Week Error: 16.94 points per match
 
 [2026/03/15 - Blues V Moana Pasifika](projections/2026-03-15-Blues_V_MoanaPasifika)
 
+[2026/03/07 - Brumbies V Queensland Reds](projections/2026-03-07-Brumbies_V_QueenslandReds)
+
 [2026/03/07 - Blues V Crusaders](projections/2026-03-07-Blues_V_Crusaders)
 
 [2026/03/06 - New South Wales Waratahs V Hurricanes](projections/2026-03-06-NewSouthWalesWaratahs_V_Hurricanes)
 
 [2026/03/06 - Chiefs V Moana Pasifika](projections/2026-03-06-Chiefs_V_MoanaPasifika)
 
-[2026/02/28 - Chiefs V Crusaders](projections/2026-02-28-Chiefs_V_Crusaders)
-
 [2026/02/27 - Fijian Drua V Hurricanes](projections/2026-02-27-FijianDrua_V_Hurricanes)
 
-[2026/02/27 - Moana Pasifika V Western Force](projections/2026-02-27-MoanaPasifika_V_WesternForce)
-
-[2026/02/27 - Queensland Reds V Highlanders](projections/2026-02-27-QueenslandReds_V_Highlanders)
-
 [2026/02/28 - Brumbies V Blues](projections/2026-02-28-Brumbies_V_Blues)
-## Top 14
 
-
-[In depth model review and projections for Top 14 25/26](comp_files/Top_14_2526)
-
-Competition Accuracy: 93 of 119 (78.15%)
-
-Competition Error: 13.94 points per match
-
-[2026/02/27 - Castres Olympique V La Rochelle](projections/2026-02-27-CastresOlympique_V_LaRochelle)
-
-[2026/02/27 - Clermont Auvergne V Bayonne](projections/2026-02-27-ClermontAuvergne_V_Bayonne)
-
-[2026/02/27 - Lyon V Toulon](projections/2026-02-27-Lyon_V_Toulon)
-
-[2026/02/27 - Montpellier Herault V Racing 92](projections/2026-02-27-MontpellierHerault_V_Racing92)
-
-[2026/02/27 - Pau V Bordeaux Begles](projections/2026-02-27-Pau_V_BordeauxBegles)
-
-[2026/02/27 - Stade Francais Paris V Perpignan](projections/2026-02-27-StadeFrancaisParis_V_Perpignan)
-
-[2026/02/27 - Stade Toulousain V US Montauban](projections/2026-02-27-StadeToulousain_V_USMontauban)
+[2026/02/28 - Chiefs V Crusaders](projections/2026-02-28-Chiefs_V_Crusaders)
 ## United Rugby Championship
 
 
@@ -186,15 +182,15 @@ Competition Error: 15.51 points per match
 
 Last Two Week Accuracy: 4 of 4 (100.0%)
 
-Last Two Week Error: 13.83 points per match
+Last Two Week Error: 13.82 points per match
 
 [2026/02/28 - Bath Rugby V Gloucester Rugby](projections/2026-02-28-BathRugby_V_GloucesterRugby)
+
+[2026/02/28 - Bristol Rugby V Sale Sharks](projections/2026-02-28-BristolRugby_V_SaleSharks)
 
 [2026/02/28 - Harlequins V Newcastle Red Bulls](projections/2026-02-28-Harlequins_V_NewcastleRedBulls)
 
 [2026/02/28 - Northampton Saints V Saracens](projections/2026-02-28-NorthamptonSaints_V_Saracens)
-
-[2026/03/01 - Bristol Rugby V Sale Sharks](projections/2026-03-01-BristolRugby_V_SaleSharks)
 # Domestic Competitions
 
 ## Nationale
@@ -208,7 +204,7 @@ Competition Error: 7.94 points per match
 
 Last Two Week Accuracy: 5 of 6 (83.33%)
 
-Last Two Week Error: 7.52 points per match
+Last Two Week Error: 7.54 points per match
 
 [2026/02/20 - Massy V Tarbes](projections/2026-02-20-Massy_V_Tarbes)
 
@@ -244,19 +240,17 @@ Last Two Week Error: 7.52 points per match
 
 [In depth model review and projections for Pro D2 25/26](comp_files/Pro_D2_2526)
 
-Competition Accuracy: 128 of 168 (76.19%)
+Competition Accuracy: 129 of 169 (76.33%)
 
-Competition Error: 12.88 points per match
+Competition Error: 12.83 points per match
 
-Last Two Week Accuracy: 8 of 8 (100.0%)
+Last Two Week Accuracy: 9 of 9 (100.0%)
 
-Last Two Week Error: 11.31 points per match
+Last Two Week Error: 10.44 points per match
 
-[2026/03/05 - Mont-de-Marsan V Beziers](projections/2026-03-05-Mont-de-Marsan_V_Beziers)
+[2026/02/27 - Provence Rugby V Agen](projections/2026-02-27-ProvenceRugby_V_Agen)
 
-[2026/02/26 - USON Nevers V Grenoble](projections/2026-02-26-USONNevers_V_Grenoble)
-
-[2026/02/26 - Vannes V Colomiers](projections/2026-02-26-Vannes_V_Colomiers)
+[2026/02/27 - Vannes V Colomiers](projections/2026-02-27-Vannes_V_Colomiers)
 
 [2026/03/05 - Agen V Carcassonne](projections/2026-03-05-Agen_V_Carcassonne)
 
@@ -268,21 +262,21 @@ Last Two Week Error: 11.31 points per match
 
 [2026/03/05 - Grenoble V Soyaux-Angouleme](projections/2026-03-05-Grenoble_V_Soyaux-Angouleme)
 
+[2026/03/05 - Mont-de-Marsan V Beziers](projections/2026-03-05-Mont-de-Marsan_V_Beziers)
+
 [2026/03/05 - Oyonnax V Dax](projections/2026-03-05-Oyonnax_V_Dax)
 
 [2026/03/05 - Valence Romans Drome Rugby V Vannes](projections/2026-03-05-ValenceRomansDromeRugby_V_Vannes)
 
-[2026/02/26 - Soyaux-Angouleme V Valence Romans Drome Rugby](projections/2026-02-26-Soyaux-Angouleme_V_ValenceRomansDromeRugby)
+[2026/02/27 - USON Nevers V Grenoble](projections/2026-02-27-USONNevers_V_Grenoble)
 
-[2026/02/26 - Provence Rugby V Agen](projections/2026-02-26-ProvenceRugby_V_Agen)
+[2026/02/27 - Mont-de-Marsan V Biarritz Olympique](projections/2026-02-27-Mont-de-Marsan_V_BiarritzOlympique)
 
-[2026/02/26 - Mont-de-Marsan V Biarritz Olympique](projections/2026-02-26-Mont-de-Marsan_V_BiarritzOlympique)
+[2026/02/27 - Carcassonne V Aurillac](projections/2026-02-27-Carcassonne_V_Aurillac)
 
-[2026/02/26 - Carcassonne V Aurillac](projections/2026-02-26-Carcassonne_V_Aurillac)
+[2026/02/27 - Beziers V Oyonnax](projections/2026-02-27-Beziers_V_Oyonnax)
 
-[2026/02/26 - Beziers V Oyonnax](projections/2026-02-26-Beziers_V_Oyonnax)
-
-[2026/02/26 - Brive V Dax](projections/2026-02-26-Brive_V_Dax)
+[2026/02/27 - Brive V Dax](projections/2026-02-27-Brive_V_Dax)
 ## RFU Championship
 
 

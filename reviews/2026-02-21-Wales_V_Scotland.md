@@ -9,9 +9,9 @@ categories: "Six Nations 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Scotland to win by 4.05, and Scotland won by 3.0. That's an absolute error of 1.0 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 93.9% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Scotland to win by 4.72, and Scotland won by 3.0. That's an absolute error of 1.7 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 90.2% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 44.5 and we have an actual total of 49.0. That's an absolute error of 4.5 compared to a six month average of 12.9. This prediction was more accurate than 79.0% of my recent predictions.
+For the Over/Under model, I predicted a total of 43.5 and we have an actual total of 49.0. That's an absolute error of 5.5 compared to a six month average of 12.9. This prediction was more accurate than 74.1% of my recent predictions.
 ## Projected Performances - Club Model
 
 

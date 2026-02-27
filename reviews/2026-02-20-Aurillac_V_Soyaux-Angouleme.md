@@ -9,9 +9,9 @@ categories: "Pro D2 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Aurillac to win by 4.87, and Aurillac won by 15.0. That's an absolute error of 10.1 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 48.2% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Aurillac to win by 4.56, and Aurillac won by 15.0. That's an absolute error of 10.4 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 47.1% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 44.5 and we have an actual total of 21.0. That's an absolute error of 23.5 compared to a six month average of 12.9. This prediction was more accurate than 15.2% of my recent predictions.
+For the Over/Under model, I predicted a total of 45.5 and we have an actual total of 21.0. That's an absolute error of 24.5 compared to a six month average of 12.9. This prediction was more accurate than 13.4% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 44.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Aurillac to win by 3.67,  and Aurillac won by 15.0. That's an absolute error of 11.3 for the margin of victory, while the average error as been 14.2 for the past six months. So this prediction was more accurate than 41.3% of my recent predictions.
+With the player model, I predicted Aurillac to win by 3.36,  and Aurillac won by 15.0. That's an absolute error of 11.6 for the margin of victory, while the average error as been 13.4 for the past six months. So this prediction was more accurate than 38.1% of my recent predictions.
 ## Projected Performances - Player Model
 
 

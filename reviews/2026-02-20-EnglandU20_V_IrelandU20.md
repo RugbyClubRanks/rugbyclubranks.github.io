@@ -9,9 +9,9 @@ categories: "U20 Six Nations 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted England U20 to win by 7.02, and Ireland U20 won by 10.0. That's an absolute error of 17.0 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 27.8% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted England U20 to win by 6.43, and Ireland U20 won by 10.0. That's an absolute error of 16.4 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 29.1% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 52.0. That's an absolute error of 2.5 compared to a six month average of 12.9. This prediction was more accurate than 88.7% of my recent predictions.
+For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 52.0. That's an absolute error of 1.5 compared to a six month average of 12.9. This prediction was more accurate than 93.2% of my recent predictions.
 ## Projected Performances - Club Model
 
 

@@ -9,9 +9,9 @@ categories: "Japan Rugby League One D3 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Skyactivs Hiroshima to win by 8.62, and Skyactivs Hiroshima won by 6.0. That's an absolute error of 2.6 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 86.2% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Skyactivs Hiroshima to win by 8.5, and Skyactivs Hiroshima won by 6.0. That's an absolute error of 2.5 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 86.5% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 52.5 and we have an actual total of 88.0. That's an absolute error of 35.5 compared to a six month average of 12.9. This prediction was more accurate than 2.9% of my recent predictions.
+For the Over/Under model, I predicted a total of 52.5 and we have an actual total of 88.0. That's an absolute error of 35.5 compared to a six month average of 12.9. This prediction was more accurate than 2.8% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 52.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Skyactivs Hiroshima to win by 7.18,  and Skyactivs Hiroshima won by 6.0. That's an absolute error of 1.2 for the margin of victory, while the average error as been 14.2 for the past six months. So this prediction was more accurate than 81.4% of my recent predictions.
+With the player model, I predicted Skyactivs Hiroshima to win by 6.21,  and Skyactivs Hiroshima won by 6.0. That's an absolute error of 0.2 for the margin of victory, while the average error as been 13.4 for the past six months. So this prediction was more accurate than 87.8% of my recent predictions.
 ## Projected Performances - Player Model
 
 

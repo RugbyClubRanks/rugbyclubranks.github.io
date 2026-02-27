@@ -9,7 +9,7 @@ categories: "Premiership Rugby Cup 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Gloucester Rugby to win by 0.5, and Gloucester Rugby won by 26.0. That's an absolute error of 25.5 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 14.2% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Gloucester Rugby to win by 1.21, and Gloucester Rugby won by 26.0. That's an absolute error of 24.8 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 15.1% of my recent predictions.
 
 For the Over/Under model, I predicted a total of 47.5 and we have an actual total of 60.0. That's an absolute error of 12.5 compared to a six month average of 12.9. This prediction was more accurate than 42.0% of my recent predictions.
 ## Projected Performances - Club Model
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 47.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Gloucester Rugby to win by 1.11,  and Gloucester Rugby won by 26.0. That's an absolute error of 24.9 for the margin of victory, while the average error as been 14.2 for the past six months. So this prediction was more accurate than 15.6% of my recent predictions.
+With the player model, I predicted Gloucester Rugby to win by 0.69,  and Gloucester Rugby won by 26.0. That's an absolute error of 25.3 for the margin of victory, while the average error as been 13.4 for the past six months. So this prediction was more accurate than 13.4% of my recent predictions.
 ## Projected Performances - Player Model
 
 
