@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Model Accuracies
-date: 2026-02-27 6:00:00 -0500
+date: 2026-03-02 6:00:00 -0500
 categories: model
 ---
 
@@ -35,12 +35,22 @@ For comparison purposes, I've included the accuruacy score of a naive model, one
 
 However, with smaller sample sizes accuracy rates can be hard to compare. For example, in a full year the Rugby Championship has twelve matches, and in some years (often world cup years) it has only six matches. If all three models were correct for 5 of those 6 games, they'd all have the same accuracy rate. 
 While a correct summary of the models, this makes them difficult to actually compare. The [Brier score](https://en.wikipedia.org/wiki/Brier_score) avoids this issue, as it measures a distance between the prediction and the observed outcome. In the case where the home team wins, which I assign the positive case value of 1.0, an accuracy rate would score predictions of 0.7 and 0.8 equally, but a Brier score would favor the prediction of 0.8.
-For visualization purposes, I use a Brier Skill Score, which is equal to 1 - (Brier Score / Naive Brier Score), where the Naive Brier Score is calculated using the predictions from a simple reference model, with each prediction equal to the win rate of the home teams in the sample being evaluated.
-A Skill Score greater than 0 indicates that the forecast is better than the reference model, while a score less than 0 indicates that the forecast is worse than the reference model.
     
 
 <p float="left">
 <img src="reviews/plots/mod_binary_brier.png" width="100%" />
+</p>
+
+
+
+
+
+For visualization purposes, I often use a Brier Skill Score (see below), which is equal to 1 - (Brier Score / Naive Brier Score), where the Naive Brier Score is calculated using the predictions from a simple reference model, with each prediction equal to the win rate of the home teams in the sample being evaluated.
+A Skill Score greater than 0 indicates that the forecast is better than the reference model, while a score less than 0 indicates that the forecast is worse than the reference model.
+    
+
+<p float="left">
+<img src="reviews/plots/mod_binary_brier_skill.png" width="100%" />
 </p>
 
 
@@ -70,6 +80,23 @@ I'm making predictions for a few different levels of competition, ranging from d
 The club based model mostly ignores this issue, as clubs at different levels of competition rarely play eachother. But the player models assign a score to each athlete, and then those athletes can compete against anyone else. 
 This drastically increases the complexity, but also allows the chance to forecast the consequences of player signings and call-ups. Naturally, then, these models may vary in accuracy across competition type.
     
+## RMSEs
+
+
+<p float="left">
+<img src="reviews/plots/club_comp_rmse.png" width="49%" />
+<img src="reviews/plots/player_comp_rmse.png" width="49%" />
+</p>
+
+
+<p float="left">
+<img src="reviews/plots/international_rmse.png" width="32%" />
+<img src="reviews/plots/pro_rmse.png" width="32%" />
+<img src="reviews/plots/domestic_rmse.png" width="32%" />
+</p>
+
+## RMSE Skills
+
 
 <p float="left">
 <img src="reviews/plots/club_comp_rmse_skills.png" width="49%" />
@@ -81,4 +108,34 @@ This drastically increases the complexity, but also allows the chance to forecas
 <img src="reviews/plots/international_rmse_skills.png" width="32%" />
 <img src="reviews/plots/pro_rmse_skills.png" width="32%" />
 <img src="reviews/plots/domestic_rmse_skills.png" width="32%" />
+</p>
+
+## Briers
+
+
+<p float="left">
+<img src="reviews/plots/club_comp_brier.png" width="49%" />
+<img src="reviews/plots/player_comp_brier.png" width="49%" />
+</p>
+
+
+<p float="left">
+<img src="reviews/plots/international_brier.png" width="32%" />
+<img src="reviews/plots/pro_brier.png" width="32%" />
+<img src="reviews/plots/domestic_brier.png" width="32%" />
+</p>
+
+## Brier Skills
+
+
+<p float="left">
+<img src="reviews/plots/club_comp_brier_skills.png" width="49%" />
+<img src="reviews/plots/player_comp_brier_skills.png" width="49%" />
+</p>
+
+
+<p float="left">
+<img src="reviews/plots/international_brier_skills.png" width="32%" />
+<img src="reviews/plots/pro_brier_skills.png" width="32%" />
+<img src="reviews/plots/domestic_brier_skills.png" width="32%" />
 </p>
