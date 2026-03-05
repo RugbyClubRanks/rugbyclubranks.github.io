@@ -9,9 +9,9 @@ categories: "RFU Championship 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Cornish Pirates to win by 6.78, and Cornish Pirates won by 28.0. That's an absolute error of 21.2 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 20.4% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Cornish Pirates to win by 6.42, and Cornish Pirates won by 28.0. That's an absolute error of 21.6 for the margin of victory, while my average absolute error has been 13.2 over the past six months. This prediction was more accurate than 20.0% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 70.0. That's an absolute error of 20.5 compared to a six month average of 12.9. This prediction was more accurate than 20.4% of my recent predictions.
+For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 70.0. That's an absolute error of 20.5 compared to a six month average of 13.0. This prediction was more accurate than 20.9% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 49.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Cornish Pirates to win by 5.76,  and Cornish Pirates won by 28.0. That's an absolute error of 22.2 for the margin of victory, while the average error as been 13.4 for the past six months. So this prediction was more accurate than 17.1% of my recent predictions.
+With the player model, I predicted Cornish Pirates to win by 6.56,  and Cornish Pirates won by 28.0. That's an absolute error of 21.4 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 17.3% of my recent predictions.
 ## Projected Performances - Player Model
 
 

@@ -9,9 +9,9 @@ categories: "Top 14 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Castres Olympique to win by 3.74, and La Rochelle won by 5.0. That's an absolute error of 8.7 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 54.3% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Castres Olympique to win by 3.38, and La Rochelle won by 5.0. That's an absolute error of 8.4 for the margin of victory, while my average absolute error has been 13.2 over the past six months. This prediction was more accurate than 56.0% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 57.0. That's an absolute error of 8.5 compared to a six month average of 12.9. This prediction was more accurate than 59.6% of my recent predictions.
+For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 57.0. That's an absolute error of 7.5 compared to a six month average of 13.0. This prediction was more accurate than 63.5% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -31,4 +31,29 @@ For the Over/Under model, I predicted a total of 48.5 and we have an actual tota
 
 <p float="left">
 <img src="../comp_files/plots/2026-02-28-CastresOlympique_V_LaRochelle_club_resultbar.png" width="99%" />
+</p>
+
+# Player Level Predictions
+
+
+With the player model, I predicted Castres Olympique to win by 0.77,  and La Rochelle won by 5.0. That's an absolute error of 5.8 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 61.0% of my recent predictions.
+## Projected Performances - Player Model
+
+
+<p float="left">
+<img src="../comp_files/plots/2026-02-28-CastresOlympique_V_LaRochelle_plr_performances.png" width="99%" />
+</p>
+
+## Projected Spreads - Player Model
+
+
+<p float="left">
+<img src="../comp_files/plots/2026-02-28-CastresOlympique_V_LaRochelle_plr_spreads.png" width="99%" />
+</p>
+
+## Projected Results - Player Model
+
+
+<p float="left">
+<img src="../comp_files/plots/2026-02-28-CastresOlympique_V_LaRochelle_plr_resultbar.png" width="99%" />
 </p>

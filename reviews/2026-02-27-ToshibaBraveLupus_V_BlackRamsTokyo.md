@@ -9,9 +9,9 @@ categories: "Japan Rugby League One 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Toshiba Brave Lupus to win by 8.78, and Black Rams Tokyo won by 19.0. That's an absolute error of 27.8 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 11.6% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Toshiba Brave Lupus to win by 8.38, and Black Rams Tokyo won by 19.0. That's an absolute error of 27.4 for the margin of victory, while my average absolute error has been 13.2 over the past six months. This prediction was more accurate than 11.4% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 47.0. That's an absolute error of 3.5 compared to a six month average of 12.9. This prediction was more accurate than 83.4% of my recent predictions.
+For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 47.0. That's an absolute error of 3.5 compared to a six month average of 13.0. This prediction was more accurate than 83.1% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 50.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Toshiba Brave Lupus to win by 6.35,  and Black Rams Tokyo won by 19.0. That's an absolute error of 25.4 for the margin of victory, while the average error as been 13.4 for the past six months. So this prediction was more accurate than 13.4% of my recent predictions.
+With the player model, I predicted Toshiba Brave Lupus to win by 6.7,  and Black Rams Tokyo won by 19.0. That's an absolute error of 25.7 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 12.6% of my recent predictions.
 ## Projected Performances - Player Model
 
 

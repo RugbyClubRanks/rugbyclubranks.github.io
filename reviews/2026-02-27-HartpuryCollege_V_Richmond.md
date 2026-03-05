@@ -9,9 +9,9 @@ categories: "RFU Championship 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Hartpury College to win by 8.24, and Richmond won by 0.0. That's an absolute error of 8.2 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 56.4% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Hartpury College to win by 7.69, and Richmond won by 0.0. That's an absolute error of 7.7 for the margin of victory, while my average absolute error has been 13.2 over the past six months. This prediction was more accurate than 59.5% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 47.5 and we have an actual total of 14.0. That's an absolute error of 33.5 compared to a six month average of 12.9. This prediction was more accurate than 3.5% of my recent predictions.
+For the Over/Under model, I predicted a total of 46.5 and we have an actual total of 14.0. That's an absolute error of 32.5 compared to a six month average of 13.0. This prediction was more accurate than 4.6% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 47.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Hartpury College to win by 5.73,  and Richmond won by 0.0. That's an absolute error of 5.7 for the margin of victory, while the average error as been 13.4 for the past six months. So this prediction was more accurate than 62.1% of my recent predictions.
+With the player model, I predicted Hartpury College to win by 5.05,  and Richmond won by 0.0. That's an absolute error of 5.0 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 64.0% of my recent predictions.
 ## Projected Performances - Player Model
 
 

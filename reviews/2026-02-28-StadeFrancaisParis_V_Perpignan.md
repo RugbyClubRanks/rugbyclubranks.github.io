@@ -9,9 +9,9 @@ categories: "Top 14 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Stade Francais Paris to win by 8.66, and Stade Francais Paris won by 21.0. That's an absolute error of 12.3 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 40.2% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Stade Francais Paris to win by 8.73, and Stade Francais Paris won by 21.0. That's an absolute error of 12.3 for the margin of victory, while my average absolute error has been 13.2 over the past six months. This prediction was more accurate than 40.8% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 46.5 and we have an actual total of 63.0. That's an absolute error of 16.5 compared to a six month average of 12.9. This prediction was more accurate than 29.7% of my recent predictions.
+For the Over/Under model, I predicted a total of 46.5 and we have an actual total of 63.0. That's an absolute error of 16.5 compared to a six month average of 13.0. This prediction was more accurate than 30.0% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -31,4 +31,29 @@ For the Over/Under model, I predicted a total of 46.5 and we have an actual tota
 
 <p float="left">
 <img src="../comp_files/plots/2026-02-28-StadeFrancaisParis_V_Perpignan_club_resultbar.png" width="99%" />
+</p>
+
+# Player Level Predictions
+
+
+With the player model, I predicted Stade Francais Paris to win by 10.4,  and Stade Francais Paris won by 21.0. That's an absolute error of 10.6 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 41.2% of my recent predictions.
+## Projected Performances - Player Model
+
+
+<p float="left">
+<img src="../comp_files/plots/2026-02-28-StadeFrancaisParis_V_Perpignan_plr_performances.png" width="99%" />
+</p>
+
+## Projected Spreads - Player Model
+
+
+<p float="left">
+<img src="../comp_files/plots/2026-02-28-StadeFrancaisParis_V_Perpignan_plr_spreads.png" width="99%" />
+</p>
+
+## Projected Results - Player Model
+
+
+<p float="left">
+<img src="../comp_files/plots/2026-02-28-StadeFrancaisParis_V_Perpignan_plr_resultbar.png" width="99%" />
 </p>
