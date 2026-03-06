@@ -9,9 +9,9 @@ categories: "United Rugby Championship 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Stormers to win by 0.27, and Lions won by 14.0. That's an absolute error of 14.3 for the margin of victory, while my average absolute error has been 13.2 over the past six months. This prediction was more accurate than 35.0% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Stormers to win by 0.33, and Lions won by 14.0. That's an absolute error of 14.3 for the margin of victory, while my average absolute error has been 13.2 over the past six months. This prediction was more accurate than 34.7% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 47.5 and we have an actual total of 34.0. That's an absolute error of 13.5 compared to a six month average of 13.0. This prediction was more accurate than 39.8% of my recent predictions.
+For the Over/Under model, I predicted a total of 46.5 and we have an actual total of 34.0. That's an absolute error of 12.5 compared to a six month average of 12.9. This prediction was more accurate than 42.4% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 47.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Lions to win by 1.25,  and Lions won by 14.0. That's an absolute error of 12.8 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 33.9% of my recent predictions.
+With the player model, I predicted Lions to win by 1.11,  and Lions won by 14.0. That's an absolute error of 12.9 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 33.5% of my recent predictions.
 ## Projected Performances - Player Model
 
 

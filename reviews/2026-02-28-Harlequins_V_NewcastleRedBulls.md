@@ -9,9 +9,9 @@ categories: "Premiership Rugby Cup 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Harlequins to win by 6.7, and Harlequins won by 21.0. That's an absolute error of 14.3 for the margin of victory, while my average absolute error has been 13.2 over the past six months. This prediction was more accurate than 34.9% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Harlequins to win by 6.47, and Harlequins won by 21.0. That's an absolute error of 14.5 for the margin of victory, while my average absolute error has been 13.2 over the past six months. This prediction was more accurate than 34.3% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 49.0. That's an absolute error of 1.5 compared to a six month average of 13.0. This prediction was more accurate than 93.3% of my recent predictions.
+For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 49.0. That's an absolute error of 1.5 compared to a six month average of 12.9. This prediction was more accurate than 93.2% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 50.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Harlequins to win by 2.75,  and Harlequins won by 21.0. That's an absolute error of 18.2 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 21.6% of my recent predictions.
+With the player model, I predicted Harlequins to win by 2.51,  and Harlequins won by 21.0. That's an absolute error of 18.5 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 21.5% of my recent predictions.
 ## Projected Performances - Player Model
 
 

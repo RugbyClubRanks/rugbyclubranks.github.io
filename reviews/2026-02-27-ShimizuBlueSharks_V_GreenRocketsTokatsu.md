@@ -9,9 +9,9 @@ categories: "Japan Rugby League One D2 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Green Rockets Tokatsu to win by 0.08, and Shimizu Blue Sharks won by 8.0. That's an absolute error of 8.1 for the margin of victory, while my average absolute error has been 13.2 over the past six months. This prediction was more accurate than 57.4% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Green Rockets Tokatsu to win by 0.52, and Shimizu Blue Sharks won by 8.0. That's an absolute error of 8.5 for the margin of victory, while my average absolute error has been 13.2 over the past six months. This prediction was more accurate than 55.6% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 36.0. That's an absolute error of 12.5 compared to a six month average of 13.0. This prediction was more accurate than 42.4% of my recent predictions.
+For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 36.0. That's an absolute error of 12.5 compared to a six month average of 12.9. This prediction was more accurate than 42.4% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 48.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Green Rockets Tokatsu to win by 0.74,  and Shimizu Blue Sharks won by 8.0. That's an absolute error of 8.7 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 48.5% of my recent predictions.
+With the player model, I predicted Green Rockets Tokatsu to win by 0.57,  and Shimizu Blue Sharks won by 8.0. That's an absolute error of 8.6 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 49.2% of my recent predictions.
 ## Projected Performances - Player Model
 
 

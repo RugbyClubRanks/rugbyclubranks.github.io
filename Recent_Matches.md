@@ -40,7 +40,7 @@ Competition Error: 11.6 points per match
 
 Last Two Week Accuracy: 3 of 8 (37.5%)
 
-Last Two Week Error: 9.04 points per match
+Last Two Week Error: 9.06 points per match
 
 [2026/02/28 - Munster V Zebre, 21.0 to 7.0](reviews/2026-02-28-Munster_V_Zebre)
 
@@ -68,7 +68,7 @@ Competition Error: 13.85 points per match
 
 Last Two Week Accuracy: 5 of 7 (71.43%)
 
-Last Two Week Error: 12.37 points per match
+Last Two Week Error: 12.38 points per match
 
 [2026/03/01 - Pau V Bordeaux Begles, 39.0 to 17.0](reviews/2026-03-01-Pau_V_BordeauxBegles)
 
@@ -88,13 +88,17 @@ Last Two Week Error: 12.37 points per match
 
 [In depth model review and projections for Super Rugby Pacific 2026](comp_files/Super_Rugby_Pacific_2026)
 
-Competition Accuracy: 8 of 15 (53.33%)
+Competition Accuracy: 10 of 17 (58.82%)
 
-Competition Error: 14.96 points per match
+Competition Error: 16.45 points per match
 
-Last Two Week Accuracy: 2 of 5 (40.0%)
+Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 12.57 points per match
+Last Two Week Error: 16.87 points per match
+
+[2026/03/06 - New South Wales Waratahs V Hurricanes, 19.0 to 59.0](reviews/2026-03-06-NewSouthWalesWaratahs_V_Hurricanes)
+
+[2026/03/06 - Chiefs V Moana Pasifika, 57.0 to 24.0](reviews/2026-03-06-Chiefs_V_MoanaPasifika)
 
 [2026/02/28 - Chiefs V Crusaders, 33.0 to 43.0](reviews/2026-02-28-Chiefs_V_Crusaders)
 
@@ -145,34 +149,6 @@ Last Two Week Error: 11.38 points per match
 [2026/02/27 - Shimizu Blue Sharks V Green Rockets Tokatsu, 22.0 to 14.0](reviews/2026-02-27-ShimizuBlueSharks_V_GreenRocketsTokatsu)
 
 [2026/02/27 - Toyota Shuttles Aichi V Kyuden Voltex, 68.0 to 28.0](reviews/2026-02-27-ToyotaShuttlesAichi_V_KyudenVoltex)
-## Pro D2
-
-
-[In depth model review and projections for Pro D2 25/26](comp_files/Pro_D2_2526)
-
-Competition Accuracy: 133 of 176 (75.57%)
-
-Competition Error: 12.72 points per match
-
-Last Two Week Accuracy: 5 of 8 (62.5%)
-
-Last Two Week Error: 9.36 points per match
-
-[2026/02/27 - Brive V Dax, 48.0 to 24.0](reviews/2026-02-27-Brive_V_Dax)
-
-[2026/02/27 - Vannes V Colomiers, 40.0 to 12.0](reviews/2026-02-27-Vannes_V_Colomiers)
-
-[2026/02/27 - USON Nevers V Grenoble, 26.0 to 27.0](reviews/2026-02-27-USONNevers_V_Grenoble)
-
-[2026/02/27 - Provence Rugby V Agen, 22.0 to 24.0](reviews/2026-02-27-ProvenceRugby_V_Agen)
-
-[2026/02/27 - Mont-de-Marsan V Biarritz Olympique, 34.0 to 16.0](reviews/2026-02-27-Mont-de-Marsan_V_BiarritzOlympique)
-
-[2026/02/27 - Carcassonne V Aurillac, 23.0 to 21.0](reviews/2026-02-27-Carcassonne_V_Aurillac)
-
-[2026/02/27 - Beziers V Oyonnax, 16.0 to 15.0](reviews/2026-02-27-Beziers_V_Oyonnax)
-
-[2026/02/26 - Soyaux-Angouleme V Valence Romans Drome Rugby, 17.0 to 13.0](reviews/2026-02-26-Soyaux-Angouleme_V_ValenceRomansDromeRugby)
 ## RFU Championship
 
 
@@ -199,6 +175,36 @@ Last Two Week Error: 9.94 points per match
 [2026/02/27 - Hartpury College V Richmond, 7.0 to 7.0](reviews/2026-02-27-HartpuryCollege_V_Richmond)
 
 [2026/02/28 - London Scottish V Chinnor, 24.0 to 21.0](reviews/2026-02-28-LondonScottish_V_Chinnor)
+## Pro D2
+
+
+[In depth model review and projections for Pro D2 25/26](comp_files/Pro_D2_2526)
+
+Competition Accuracy: 133 of 177 (75.14%)
+
+Competition Error: 12.79 points per match
+
+Last Two Week Accuracy: 5 of 9 (55.56%)
+
+Last Two Week Error: 11.04 points per match
+
+[2026/03/05 - Colomiers V Brive, 10.0 to 23.0](reviews/2026-03-05-Colomiers_V_Brive)
+
+[2026/02/27 - Vannes V Colomiers, 40.0 to 12.0](reviews/2026-02-27-Vannes_V_Colomiers)
+
+[2026/02/27 - USON Nevers V Grenoble, 26.0 to 27.0](reviews/2026-02-27-USONNevers_V_Grenoble)
+
+[2026/02/27 - Provence Rugby V Agen, 22.0 to 24.0](reviews/2026-02-27-ProvenceRugby_V_Agen)
+
+[2026/02/27 - Mont-de-Marsan V Biarritz Olympique, 34.0 to 16.0](reviews/2026-02-27-Mont-de-Marsan_V_BiarritzOlympique)
+
+[2026/02/27 - Carcassonne V Aurillac, 23.0 to 21.0](reviews/2026-02-27-Carcassonne_V_Aurillac)
+
+[2026/02/27 - Brive V Dax, 48.0 to 24.0](reviews/2026-02-27-Brive_V_Dax)
+
+[2026/02/27 - Beziers V Oyonnax, 16.0 to 15.0](reviews/2026-02-27-Beziers_V_Oyonnax)
+
+[2026/02/26 - Soyaux-Angouleme V Valence Romans Drome Rugby, 17.0 to 13.0](reviews/2026-02-26-Soyaux-Angouleme_V_ValenceRomansDromeRugby)
 ## Nationale
 
 
@@ -210,7 +216,7 @@ Competition Error: 7.9 points per match
 
 Last Two Week Accuracy: 5 of 6 (83.33%)
 
-Last Two Week Error: 7.05 points per match
+Last Two Week Error: 7.06 points per match
 
 [2026/02/28 - Suresnes V Nice, 17.0 to 24.0](reviews/2026-02-28-Suresnes_V_Nice)
 

@@ -9,9 +9,9 @@ categories: "Japan Rugby League One D2 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Red Hurricanes Osaka to win by 1.01, and Red Hurricanes Osaka won by 3.0. That's an absolute error of 2.0 for the margin of victory, while my average absolute error has been 13.2 over the past six months. This prediction was more accurate than 89.4% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Red Hurricanes Osaka to win by 1.18, and Red Hurricanes Osaka won by 3.0. That's an absolute error of 1.8 for the margin of victory, while my average absolute error has been 13.2 over the past six months. This prediction was more accurate than 89.9% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 42.5 and we have an actual total of 45.0. That's an absolute error of 2.5 compared to a six month average of 13.0. This prediction was more accurate than 88.5% of my recent predictions.
+For the Over/Under model, I predicted a total of 40.5 and we have an actual total of 45.0. That's an absolute error of 4.5 compared to a six month average of 12.9. This prediction was more accurate than 78.5% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 42.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Red Hurricanes Osaka to win by 0.63,  and Red Hurricanes Osaka won by 3.0. That's an absolute error of 2.4 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 76.8% of my recent predictions.
+With the player model, I predicted Red Hurricanes Osaka to win by 0.32,  and Red Hurricanes Osaka won by 3.0. That's an absolute error of 2.7 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 76.0% of my recent predictions.
 ## Projected Performances - Player Model
 
 

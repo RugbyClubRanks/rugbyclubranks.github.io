@@ -9,9 +9,9 @@ categories: "Japan Rugby League One 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Saitama Wild Knights to win by 14.61, and Saitama Wild Knights won by 47.0. That's an absolute error of 32.4 for the margin of victory, while my average absolute error has been 13.2 over the past six months. This prediction was more accurate than 7.7% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Saitama Wild Knights to win by 14.39, and Saitama Wild Knights won by 47.0. That's an absolute error of 32.6 for the margin of victory, while my average absolute error has been 13.2 over the past six months. This prediction was more accurate than 7.4% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 85.0. That's an absolute error of 35.5 compared to a six month average of 13.0. This prediction was more accurate than 2.7% of my recent predictions.
+For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 85.0. That's an absolute error of 35.5 compared to a six month average of 12.9. This prediction was more accurate than 2.7% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 49.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Saitama Wild Knights to win by 16.6,  and Saitama Wild Knights won by 47.0. That's an absolute error of 30.4 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 8.7% of my recent predictions.
+With the player model, I predicted Saitama Wild Knights to win by 15.7,  and Saitama Wild Knights won by 47.0. That's an absolute error of 31.3 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 8.5% of my recent predictions.
 ## Projected Performances - Player Model
 
 

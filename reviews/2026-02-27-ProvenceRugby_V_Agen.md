@@ -9,9 +9,9 @@ categories: "Pro D2 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Provence Rugby to win by 6.51, and Agen won by 2.0. That's an absolute error of 8.5 for the margin of victory, while my average absolute error has been 13.2 over the past six months. This prediction was more accurate than 55.5% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Provence Rugby to win by 7.16, and Agen won by 2.0. That's an absolute error of 9.2 for the margin of victory, while my average absolute error has been 13.2 over the past six months. This prediction was more accurate than 52.5% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 47.5 and we have an actual total of 46.0. That's an absolute error of 1.5 compared to a six month average of 13.0. This prediction was more accurate than 93.3% of my recent predictions.
+For the Over/Under model, I predicted a total of 46.5 and we have an actual total of 46.0. That's an absolute error of 0.5 compared to a six month average of 12.9. This prediction was more accurate than 97.5% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 47.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Provence Rugby to win by 4.56,  and Agen won by 2.0. That's an absolute error of 6.6 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 57.2% of my recent predictions.
+With the player model, I predicted Provence Rugby to win by 4.21,  and Agen won by 2.0. That's an absolute error of 6.2 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 59.4% of my recent predictions.
 ## Projected Performances - Player Model
 
 
