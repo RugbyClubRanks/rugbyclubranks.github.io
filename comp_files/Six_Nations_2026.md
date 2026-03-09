@@ -1,6 +1,6 @@
 ---
 title: "Six Nations 2026"
-date: 2026-03-06 6:00:00 -0500
+date: 2026-03-09 6:00:00 -0500
 categories: model review projection
 layout: article
 aside:
@@ -17,12 +17,12 @@ aside:
 
 | Club     |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| France   |        3 |      3 |                   89 |                     0 |                  3 |                   15 |
-| Scotland |        3 |      2 |                   11 |                     1 |                  2 |                   11 |
-| Ireland  |        3 |      2 |                    6 |                     0 |                  1 |                    9 |
-| England  |        3 |      1 |                    9 |                     0 |                  2 |                    6 |
-| Italy    |        3 |      1 |                  -29 |                     1 |                    |                    5 |
-| Wales    |        3 |      0 |                  -86 |                     1 |                    |                    1 |
+| France   |        4 |      3 |                   79 |                     0 |                  4 |                   16 |
+| Scotland |        4 |      3 |                   21 |                     1 |                  3 |                   16 |
+| Ireland  |        4 |      3 |                   16 |                     0 |                  2 |                   14 |
+| Italy    |        4 |      2 |                  -24 |                     1 |                    |                    9 |
+| England  |        4 |      1 |                    4 |                     1 |                  2 |                    7 |
+| Wales    |        4 |      0 |                  -96 |                     1 |                    |                    1 |
 
 
 
@@ -31,12 +31,12 @@ aside:
 
 | Club     |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:---------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Ireland  |         2 |            1.366 |                   16.144 |                           0.296 |                              |                          5.89  |
-| France   |         2 |            1.168 |                    6.736 |                           0.416 |                              |                          5.27  |
-| Italy    |         2 |            0.954 |                    0.154 |                           0.459 |                              |                          4.455 |
-| England  |         2 |            0.872 |                   -3.337 |                           0.445 |                              |                          4.107 |
-| Scotland |         2 |            0.773 |                   -5.557 |                           0.488 |                              |                          3.738 |
-| Wales    |         2 |            0.621 |                  -14.14  |                           0.399 |                              |                          3.043 |
+| France   |         1 |            0.683 |                    5.334 |                           0.153 |                              |                          2.957 |
+| Ireland  |         1 |            0.621 |                    3.681 |                           0.19  |                              |                          2.762 |
+| Italy    |         1 |            0.581 |                    2.615 |                           0.2   |                              |                          2.622 |
+| Wales    |         1 |            0.37  |                   -2.615 |                           0.26  |                              |                          1.838 |
+| Scotland |         1 |            0.335 |                   -3.681 |                           0.256 |                              |                          1.684 |
+| England  |         1 |            0.281 |                   -5.334 |                           0.266 |                              |                          1.462 |
 
 
 
@@ -45,12 +45,12 @@ aside:
 
 | Club     |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| France   |        5 |  4.168 |               95.736 |                 0.416 |                  3 |               20.27  |
-| Ireland  |        5 |  3.366 |               22.144 |                 0.296 |                  1 |               14.89  |
-| Scotland |        5 |  2.773 |                5.443 |                 1.488 |                  2 |               14.738 |
-| England  |        5 |  1.872 |                5.663 |                 0.445 |                  2 |               10.107 |
-| Italy    |        5 |  1.954 |              -28.846 |                 1.459 |                    |                9.455 |
-| Wales    |        5 |  0.621 |             -100.14  |                 1.399 |                    |                4.043 |
+| France   |        5 |  3.683 |               84.334 |                 0.153 |                  4 |               18.957 |
+| Scotland |        5 |  3.335 |               17.319 |                 1.256 |                  3 |               17.684 |
+| Ireland  |        5 |  3.621 |               19.681 |                 0.19  |                  2 |               16.762 |
+| Italy    |        5 |  2.581 |              -21.385 |                 1.2   |                    |               11.622 |
+| England  |        5 |  1.281 |               -1.334 |                 1.266 |                  2 |                8.462 |
+| Wales    |        5 |  0.37  |              -98.615 |                 1.26  |                    |                2.838 |
 
 
 
@@ -59,54 +59,19 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 53.3% | 13.2 |
+| Club Level | 60.0% | 13.6 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
 
 # Future Predictions
 
-## Week 4
-
-### Ireland V Wales on 2026/03/06
-
-
-Average Margin: Ireland by 12.0
-
-<p float="left">
-<img src="plots/2026-03-06-Ireland_V_Wales_club_performances.png" width="32%" />
-<img src="plots/2026-03-06-Ireland_V_Wales_club_resultbar.png" width="32%" />
-<img src="plots/2026-03-06-Ireland_V_Wales_club_spreads.png" width="32%" />
-</p>
-
-### Scotland V France on 2026/03/07
-
-
-Average Margin: France by 1.4
-
-<p float="left">
-<img src="plots/2026-03-07-Scotland_V_France_club_performances.png" width="32%" />
-<img src="plots/2026-03-07-Scotland_V_France_club_resultbar.png" width="32%" />
-<img src="plots/2026-03-07-Scotland_V_France_club_spreads.png" width="32%" />
-</p>
-
-### Italy V England on 2026/03/07
-
-
-Average Margin: England by 2.0
-
-<p float="left">
-<img src="plots/2026-03-07-Italy_V_England_club_performances.png" width="32%" />
-<img src="plots/2026-03-07-Italy_V_England_club_resultbar.png" width="32%" />
-<img src="plots/2026-03-07-Italy_V_England_club_spreads.png" width="32%" />
-</p>
-
 ## Week 5
 
 ### Ireland V Scotland on 2026/03/14
 
 
-Average Margin: Ireland by 4.1
+Average Margin: Ireland by 3.7
 
 <p float="left">
 <img src="plots/2026-03-14-Ireland_V_Scotland_club_performances.png" width="32%" />
@@ -128,7 +93,7 @@ Average Margin: France by 5.3
 ### Wales V Italy on 2026/03/14
 
 
-Average Margin: Italy by 2.1
+Average Margin: Italy by 2.6
 
 <p float="left">
 <img src="plots/2026-03-14-Wales_V_Italy_club_performances.png" width="32%" />
