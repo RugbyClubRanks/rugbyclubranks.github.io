@@ -10,17 +10,21 @@ key: page-recents
 
 [In depth model review and projections for Rugby Europe Championship 2026](comp_files/Rugby_Europe_Championship_2026)
 
-Competition Accuracy: 14 of 18 (77.78%)
+Competition Accuracy: 14 of 20 (70.0%)
 
-Competition Error: 17.16 points per match
+Competition Error: 20.23 points per match
 
-Last Two Week Accuracy: 5 of 6 (83.33%)
+Last Two Week Accuracy: 1 of 4 (25.0%)
 
-Last Two Week Error: 9.15 points per match
+Last Two Week Error: 28.17 points per match
 
 [2026/03/15 - Georgia V Portugal, 17.0 to 19.0](reviews/2026-03-15-Georgia_V_Portugal)
 
+[2026/03/15 - Germany V Netherlands, 7.0 to 76.0](reviews/2026-03-15-Germany_V_Netherlands)
+
 [2026/03/15 - Romania V Spain, 23.0 to 29.0](reviews/2026-03-15-Romania_V_Spain)
+
+[2026/03/15 - Switzerland V Belgium, 16.0 to 39.0](reviews/2026-03-15-Switzerland_V_Belgium)
 ## Six Nations
 
 
@@ -28,11 +32,11 @@ Last Two Week Error: 9.15 points per match
 
 Competition Accuracy: 9 of 15 (60.0%)
 
-Competition Error: 13.77 points per match
+Competition Error: 13.78 points per match
 
-Last Two Week Accuracy: 3 of 6 (50.0%)
+Last Two Week Accuracy: 2 of 3 (66.67%)
 
-Last Two Week Error: 12.47 points per match
+Last Two Week Error: 13.13 points per match
 
 [2026/03/14 - France V England, 48.0 to 46.0](reviews/2026-03-14-France_V_England)
 
@@ -48,9 +52,9 @@ Competition Accuracy: 11 of 15 (73.33%)
 
 Competition Error: 14.31 points per match
 
-Last Two Week Accuracy: 5 of 6 (83.33%)
+Last Two Week Accuracy: 2 of 3 (66.67%)
 
-Last Two Week Error: 16.76 points per match
+Last Two Week Error: 19.4 points per match
 
 [2026/03/15 - France U20 V England U20, 31.0 to 28.0](reviews/2026-03-15-FranceU20_V_EnglandU20)
 
@@ -66,11 +70,11 @@ Last Two Week Error: 16.76 points per match
 
 Competition Accuracy: 45 of 65 (69.23%)
 
-Competition Error: 14.04 points per match
+Competition Error: 14.03 points per match
 
 Last Two Week Accuracy: 4 of 6 (66.67%)
 
-Last Two Week Error: 19.15 points per match
+Last Two Week Error: 19.11 points per match
 
 [2026/03/13 - Black Rams Tokyo V Shizuoka Blue Revs, 37.0 to 33.0](reviews/2026-03-13-BlackRamsTokyo_V_ShizuokaBlueRevs)
 
@@ -92,9 +96,9 @@ Competition Accuracy: 28 of 43 (65.12%)
 
 Competition Error: 15.72 points per match
 
-Last Two Week Accuracy: 2 of 3 (66.67%)
+Last Two Week Accuracy: 1 of 1 (100.0%)
 
-Last Two Week Error: 29.32 points per match
+Last Two Week Error: 50.19 points per match
 
 [2026/03/15 - Leicester Tigers V Exeter Chiefs, 66.0 to 14.0](reviews/2026-03-15-LeicesterTigers_V_ExeterChiefs)
 ## Super Rugby Pacific
@@ -106,9 +110,9 @@ Competition Accuracy: 16 of 25 (64.0%)
 
 Competition Error: 14.83 points per match
 
-Last Two Week Accuracy: 8 of 10 (80.0%)
+Last Two Week Accuracy: 4 of 5 (80.0%)
 
-Last Two Week Error: 14.65 points per match
+Last Two Week Error: 12.21 points per match
 
 [2026/03/13 - Fijian Drua V Brumbies, 42.0 to 27.0](reviews/2026-03-13-FijianDrua_V_Brumbies)
 

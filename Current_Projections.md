@@ -62,9 +62,9 @@ Competition Accuracy: 16 of 25 (64.0%)
 
 Competition Error: 14.83 points per match
 
-Last Two Week Accuracy: 8 of 10 (80.0%)
+Last Two Week Accuracy: 4 of 5 (80.0%)
 
-Last Two Week Error: 14.65 points per match
+Last Two Week Error: 12.21 points per match
 
 [2026/04/04 - Queensland Reds V Western Force](projections/2026-04-04-QueenslandReds_V_WesternForce)
 
@@ -170,11 +170,11 @@ Competition Error: 14.64 points per match
 
 Competition Accuracy: 45 of 65 (69.23%)
 
-Competition Error: 14.04 points per match
+Competition Error: 14.03 points per match
 
 Last Two Week Accuracy: 4 of 6 (66.67%)
 
-Last Two Week Error: 19.15 points per match
+Last Two Week Error: 19.11 points per match
 
 [2026/03/22 - Toshiba Brave Lupus V Mie Honda Heat](projections/2026-03-22-ToshibaBraveLupus_V_MieHondaHeat)
 
@@ -184,7 +184,7 @@ Last Two Week Error: 19.15 points per match
 
 [2026/03/21 - Urayasu D-Rocks V Kubota Spears](projections/2026-03-21-UrayasuD-Rocks_V_KubotaSpears)
 
-[2026/03/21 - Mitsubishi Dynaboars V Tokyo Sungoliath](projections/2026-03-21-MitsubishiDynaboars_V_TokyoSungoliath)
+[2026/03/20 - Mitsubishi Dynaboars V Tokyo Sungoliath](projections/2026-03-20-MitsubishiDynaboars_V_TokyoSungoliath)
 
 [2026/03/22 - Toyota Verblitz V Shizuoka Blue Revs](projections/2026-03-22-ToyotaVerblitz_V_ShizuokaBlueRevs)
 
@@ -269,10 +269,6 @@ Competition Error: 13.45 points per match
 Competition Accuracy: 107 of 148 (72.3%)
 
 Competition Error: 8.2 points per match
-
-Last Two Week Accuracy: 5 of 6 (83.33%)
-
-Last Two Week Error: 15.34 points per match
 
 [2026/03/20 - Chambery V Niort](projections/2026-03-20-Chambery_V_Niort)
 
@@ -361,10 +357,6 @@ Competition Error: 12.53 points per match
 Competition Accuracy: 139 of 184 (75.54%)
 
 Competition Error: 12.78 points per match
-
-Last Two Week Accuracy: 6 of 8 (75.0%)
-
-Last Two Week Error: 14.06 points per match
 
 [2026/04/02 - USON Nevers V Beziers](projections/2026-04-02-USONNevers_V_Beziers)
 

@@ -9,9 +9,9 @@ categories: "Super Rugby Pacific 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Crusaders to win by 5.18, and Crusaders won by 11.0. That's an absolute error of 5.8 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 69.8% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Crusaders to win by 5.57, and Crusaders won by 11.0. That's an absolute error of 5.4 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 72.2% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 47.0. That's an absolute error of 2.5 compared to a six month average of 13.2. This prediction was more accurate than 88.0% of my recent predictions.
+For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 47.0. That's an absolute error of 1.5 compared to a six month average of 13.2. This prediction was more accurate than 92.3% of my recent predictions.
 ## Projected Performances - Club Model
 
 

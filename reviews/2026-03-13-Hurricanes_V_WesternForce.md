@@ -9,9 +9,9 @@ categories: "Super Rugby Pacific 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Hurricanes to win by 8.17, and Hurricanes won by 8.0. That's an absolute error of 0.2 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 99.0% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Hurricanes to win by 8.56, and Hurricanes won by 8.0. That's an absolute error of 0.6 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 96.9% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 54.0. That's an absolute error of 4.5 compared to a six month average of 13.2. This prediction was more accurate than 78.7% of my recent predictions.
+For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 54.0. That's an absolute error of 5.5 compared to a six month average of 13.2. This prediction was more accurate than 73.1% of my recent predictions.
 ## Projected Performances - Club Model
 
 
