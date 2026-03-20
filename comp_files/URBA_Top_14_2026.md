@@ -1,6 +1,6 @@
 ---
 title: "URBA Top 14 2026"
-date: 2026-03-19 6:00:00 -0500
+date: 2026-03-20 6:00:00 -0500
 categories: model review projection
 layout: article
 aside:
@@ -39,20 +39,20 @@ aside:
 
 | Club                 |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:---------------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| CUBA                 |         1 |            0.744 |                   10.379 |                           0.122 |                              |                          3.146 |
-| Los Tilos            |         1 |            0.729 |                    7.536 |                           0.135 |                              |                          3.119 |
-| SIC                  |         1 |            0.647 |                    7.201 |                           0.165 |                              |                          2.815 |
-| CASI                 |         1 |            0.604 |                    2.916 |                           0.197 |                              |                          2.707 |
-| Alumni               |         1 |            0.519 |                    0.924 |                           0.24  |                              |                          2.426 |
-| Newman               |         1 |            0.518 |                    1.057 |                           0.253 |                              |                          2.419 |
-| Regatas Bella Vista  |         1 |            0.496 |                    0.441 |                           0.228 |                              |                          2.302 |
-| Atlético del Rosario |         1 |            0.459 |                   -0.441 |                           0.231 |                              |                          2.157 |
-| Belgrano AC          |         1 |            0.435 |                   -1.057 |                           0.278 |                              |                          2.112 |
-| Buenos Aires         |         1 |            0.426 |                   -0.924 |                           0.27  |                              |                          2.084 |
-| Hindu                |         1 |            0.349 |                   -2.916 |                           0.284 |                              |                          1.774 |
-| Los Matreros         |         1 |            0.322 |                   -7.201 |                           0.193 |                              |                          1.543 |
-| La Plata             |         1 |            0.237 |                   -7.536 |                           0.22  |                              |                          1.236 |
-| Champagnat           |         1 |            0.232 |                  -10.379 |                           0.172 |                              |                          1.148 |
+| CUBA                 |         1 |            0.756 |                   10.414 |                           0.112 |                              |                          3.214 |
+| Los Tilos            |         1 |            0.685 |                    7.264 |                           0.156 |                              |                          3.004 |
+| CASI                 |         1 |            0.634 |                    3.169 |                           0.188 |                              |                          2.816 |
+| SIC                  |         1 |            0.637 |                    7.287 |                           0.169 |                              |                          2.799 |
+| Alumni               |         1 |            0.539 |                    1.212 |                           0.241 |                              |                          2.497 |
+| Newman               |         1 |            0.533 |                    1.049 |                           0.242 |                              |                          2.472 |
+| Regatas Bella Vista  |         1 |            0.471 |                    0.194 |                           0.239 |                              |                          2.251 |
+| Atlético del Rosario |         1 |            0.465 |                   -0.194 |                           0.22  |                              |                          2.208 |
+| Belgrano AC          |         1 |            0.418 |                   -1.049 |                           0.282 |                              |                          2.052 |
+| Buenos Aires         |         1 |            0.411 |                   -1.212 |                           0.307 |                              |                          2.051 |
+| Hindu                |         1 |            0.32  |                   -3.169 |                           0.309 |                              |                          1.681 |
+| Los Matreros         |         1 |            0.322 |                   -7.287 |                           0.187 |                              |                          1.557 |
+| La Plata             |         1 |            0.261 |                   -7.264 |                           0.194 |                              |                          1.346 |
+| Champagnat           |         1 |            0.205 |                  -10.414 |                           0.194 |                              |                          1.092 |
 
 
 
@@ -61,20 +61,20 @@ aside:
 
 | Club                 |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| SIC                  |        2 |  1.647 |               47.201 |                 0.165 |                  1 |                7.815 |
-| CASI                 |        2 |  1.604 |               26.916 |                 0.197 |                  1 |                7.707 |
-| Newman               |        2 |  1.518 |               29.057 |                 0.253 |                  1 |                7.419 |
-| Alumni               |        2 |  1.519 |                2.924 |                 0.24  |                    |                6.426 |
-| Atlético del Rosario |        2 |  1.459 |                6.559 |                 0.231 |                    |                6.157 |
-| Hindu                |        2 |  1.349 |               31.084 |                 0.284 |                    |                5.774 |
-| Los Matreros         |        2 |  1.322 |               -5.201 |                 0.193 |                    |                5.543 |
-| Regatas Bella Vista  |        2 |  0.496 |               -1.559 |                 1.228 |                  1 |                4.302 |
-| CUBA                 |        2 |  0.744 |                8.379 |                 1.122 |                    |                4.146 |
-| Los Tilos            |        2 |  0.729 |              -26.464 |                 0.135 |                    |                3.119 |
-| La Plata             |        2 |  0.237 |              -14.536 |                 1.22  |                    |                2.236 |
-| Belgrano AC          |        2 |  0.435 |              -41.057 |                 0.278 |                    |                2.112 |
-| Buenos Aires         |        2 |  0.426 |              -28.924 |                 0.27  |                    |                2.084 |
-| Champagnat           |        2 |  0.232 |              -34.379 |                 0.172 |                    |                1.148 |
+| CASI                 |        2 |  1.634 |               27.169 |                 0.188 |                  1 |                7.816 |
+| SIC                  |        2 |  1.637 |               47.287 |                 0.169 |                  1 |                7.799 |
+| Newman               |        2 |  1.533 |               29.049 |                 0.242 |                  1 |                7.472 |
+| Alumni               |        2 |  1.539 |                3.212 |                 0.241 |                    |                6.497 |
+| Atlético del Rosario |        2 |  1.465 |                6.806 |                 0.22  |                    |                6.208 |
+| Hindu                |        2 |  1.32  |               30.831 |                 0.309 |                    |                5.681 |
+| Los Matreros         |        2 |  1.322 |               -5.287 |                 0.187 |                    |                5.557 |
+| Regatas Bella Vista  |        2 |  0.471 |               -1.806 |                 1.239 |                  1 |                4.251 |
+| CUBA                 |        2 |  0.756 |                8.414 |                 1.112 |                    |                4.214 |
+| Los Tilos            |        2 |  0.685 |              -26.736 |                 0.156 |                    |                3.004 |
+| La Plata             |        2 |  0.261 |              -14.264 |                 1.194 |                    |                2.346 |
+| Belgrano AC          |        2 |  0.418 |              -41.049 |                 0.282 |                    |                2.052 |
+| Buenos Aires         |        2 |  0.411 |              -29.212 |                 0.307 |                    |                2.051 |
+| Champagnat           |        2 |  0.205 |              -34.414 |                 0.194 |                    |                1.092 |
 
 
 
@@ -83,7 +83,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 64.3% | 12.2 |
+| Club Level | 64.3% | 14.4 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -92,43 +92,10 @@ aside:
 
 ## Week 2
 
-### SIC V Los Matreros on 2026/03/21
-
-
-Average Margin: SIC by 7.2
-
-<p float="left">
-<img src="plots/2026-03-21-SIC_V_LosMatreros_club_performances.png" width="32%" />
-<img src="plots/2026-03-21-SIC_V_LosMatreros_club_resultbar.png" width="32%" />
-<img src="plots/2026-03-21-SIC_V_LosMatreros_club_spreads.png" width="32%" />
-</p>
-
-### Los Tilos V La Plata on 2026/03/21
-
-
-Average Margin: Los Tilos by 7.5
-
-<p float="left">
-<img src="plots/2026-03-21-LosTilos_V_LaPlata_club_performances.png" width="32%" />
-<img src="plots/2026-03-21-LosTilos_V_LaPlata_club_resultbar.png" width="32%" />
-<img src="plots/2026-03-21-LosTilos_V_LaPlata_club_spreads.png" width="32%" />
-</p>
-
-### Atlético del Rosario V Regatas Bella Vista on 2026/03/21
-
-
-Average Margin: Regatas Bella Vista by 0.4
-
-<p float="left">
-<img src="plots/2026-03-21-AtleticodelRosario_V_RegatasBellaVista_club_performances.png" width="32%" />
-<img src="plots/2026-03-21-AtleticodelRosario_V_RegatasBellaVista_club_resultbar.png" width="32%" />
-<img src="plots/2026-03-21-AtleticodelRosario_V_RegatasBellaVista_club_spreads.png" width="32%" />
-</p>
-
 ### CASI V Hindu on 2026/03/21
 
 
-Average Margin: CASI by 2.9
+Average Margin: CASI by 3.2
 
 <p float="left">
 <img src="plots/2026-03-21-CASI_V_Hindu_club_performances.png" width="32%" />
@@ -139,7 +106,7 @@ Average Margin: CASI by 2.9
 ### Belgrano AC V Newman on 2026/03/21
 
 
-Average Margin: Newman by 1.1
+Average Margin: Newman by 1.0
 
 <p float="left">
 <img src="plots/2026-03-21-BelgranoAC_V_Newman_club_performances.png" width="32%" />
@@ -150,7 +117,7 @@ Average Margin: Newman by 1.1
 ### Buenos Aires V Alumni on 2026/03/21
 
 
-Average Margin: Alumni by 0.9
+Average Margin: Alumni by 1.2
 
 <p float="left">
 <img src="plots/2026-03-21-BuenosAires_V_Alumni_club_performances.png" width="32%" />
@@ -167,4 +134,37 @@ Average Margin: CUBA by 10.4
 <img src="plots/2026-03-21-CUBA_V_Champagnat_club_performances.png" width="32%" />
 <img src="plots/2026-03-21-CUBA_V_Champagnat_club_resultbar.png" width="32%" />
 <img src="plots/2026-03-21-CUBA_V_Champagnat_club_spreads.png" width="32%" />
+</p>
+
+### SIC V Los Matreros on 2026/03/21
+
+
+Average Margin: SIC by 7.3
+
+<p float="left">
+<img src="plots/2026-03-21-SIC_V_LosMatreros_club_performances.png" width="32%" />
+<img src="plots/2026-03-21-SIC_V_LosMatreros_club_resultbar.png" width="32%" />
+<img src="plots/2026-03-21-SIC_V_LosMatreros_club_spreads.png" width="32%" />
+</p>
+
+### Atlético del Rosario V Regatas Bella Vista on 2026/03/21
+
+
+Average Margin: Regatas Bella Vista by 0.2
+
+<p float="left">
+<img src="plots/2026-03-21-AtleticodelRosario_V_RegatasBellaVista_club_performances.png" width="32%" />
+<img src="plots/2026-03-21-AtleticodelRosario_V_RegatasBellaVista_club_resultbar.png" width="32%" />
+<img src="plots/2026-03-21-AtleticodelRosario_V_RegatasBellaVista_club_spreads.png" width="32%" />
+</p>
+
+### Los Tilos V La Plata on 2026/03/21
+
+
+Average Margin: Los Tilos by 7.3
+
+<p float="left">
+<img src="plots/2026-03-21-LosTilos_V_LaPlata_club_performances.png" width="32%" />
+<img src="plots/2026-03-21-LosTilos_V_LaPlata_club_resultbar.png" width="32%" />
+<img src="plots/2026-03-21-LosTilos_V_LaPlata_club_spreads.png" width="32%" />
 </p>

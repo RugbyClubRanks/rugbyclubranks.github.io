@@ -2,16 +2,16 @@
 layout: page
 title: Tokyo Sungoliath V Toshiba Brave Lupus on 2026/03/15
 date: 2026-03-15
-categories: "Japan Rugby League One 25/26" match projection
+categories: rugby "Japan Rugby League One 25/26" match projection
 ---
 # Tokyo Sungoliath V Toshiba Brave Lupus on 2026/03/15, 60.0 to 21.0
 
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Tokyo Sungoliath to win by 6.72, and Tokyo Sungoliath won by 39.0. That's an absolute error of 32.3 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 7.7% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Tokyo Sungoliath to win by 6.09, and Tokyo Sungoliath won by 39.0. That's an absolute error of 32.9 for the margin of victory, while my average absolute error has been 13.4 over the past six months. This prediction was more accurate than 7.0% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 81.0. That's an absolute error of 29.5 compared to a six month average of 13.2. This prediction was more accurate than 7.8% of my recent predictions.
+For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 81.0. That's an absolute error of 29.5 compared to a six month average of 13.2. This prediction was more accurate than 7.7% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 51.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Tokyo Sungoliath to win by 5.4,  and Tokyo Sungoliath won by 39.0. That's an absolute error of 33.6 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 6.3% of my recent predictions.
+With the player model, I predicted Tokyo Sungoliath to win by 4.47,  and Tokyo Sungoliath won by 39.0. That's an absolute error of 34.5 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 5.5% of my recent predictions.
 ## Projected Performances - Player Model
 
 

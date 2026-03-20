@@ -2,14 +2,14 @@
 layout: page
 title: Sharks V Munster on 2026/03/21
 date: 2026-03-21
-categories: "United Rugby Championship 25/26" match review
+categories: rugby "United Rugby Championship 25/26" match review
 ---
 # Sharks V Munster on 2026/03/21
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Sharks to win by 2.31.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Sharks to win by 1.81.
 
 Our Over/Under is 42.5 - and combined with the spread above, we have a predicted scoreline of 22 to 20
 
@@ -38,7 +38,7 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 # Player Level Predictions
 
 
-The second set of predictions is based around the players themselves - each player gets a rating, and their contribution is weighted by their time on the field. The player model is currently predicting Sharks to win by 1.89
+The second set of predictions is based around the players themselves - each player gets a rating, and their contribution is weighted by their time on the field. The player model is currently predicting Sharks to win by 1.54
 ## Projected Performances - Player Model
 
 

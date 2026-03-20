@@ -2,14 +2,14 @@
 layout: page
 title: Suresnes V Bourgoin-Jallieu on 2026/03/21
 date: 2026-03-21
-categories: "Nationale 25/26" match review
+categories: rugby "Nationale 25/26" match review
 ---
 # Suresnes V Bourgoin-Jallieu on 2026/03/21
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Suresnes to win by 5.16.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Suresnes to win by 4.87.
 
 Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 24 to 19
 

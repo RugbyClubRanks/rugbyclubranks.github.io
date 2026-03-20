@@ -2,14 +2,14 @@
 layout: page
 title: Crusaders V Fijian Drua on 2026/04/03
 date: 2026-04-03
-categories: "Super Rugby Pacific 2026" match review
+categories: rugby "Super Rugby Pacific 2026" match review
 ---
 # Crusaders V Fijian Drua on 2026/04/03
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Crusaders to win by 6.33.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Crusaders to win by 6.3.
 
 Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 27 to 21
 

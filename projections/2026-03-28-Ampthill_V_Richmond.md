@@ -2,14 +2,14 @@
 layout: page
 title: Ampthill V Richmond on 2026/03/28
 date: 2026-03-28
-categories: "RFU Championship 25/26" match review
+categories: rugby "RFU Championship 25/26" match review
 ---
 # Ampthill V Richmond on 2026/03/28
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Ampthill to win by 2.47.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Ampthill to win by 2.32.
 
 Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 24 to 22
 

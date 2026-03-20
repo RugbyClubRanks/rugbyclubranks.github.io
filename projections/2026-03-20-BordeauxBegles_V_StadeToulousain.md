@@ -2,14 +2,14 @@
 layout: page
 title: Bordeaux Begles V Stade Toulousain on 2026/03/20
 date: 2026-03-20
-categories: "Top 14 25/26" match review
+categories: rugby "Top 14 25/26" match review
 ---
 # Bordeaux Begles V Stade Toulousain on 2026/03/20
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Bordeaux Begles to win by 1.56.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Bordeaux Begles to win by 2.44.
 
 Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 24 to 22
 

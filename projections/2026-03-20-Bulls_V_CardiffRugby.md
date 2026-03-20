@@ -2,16 +2,16 @@
 layout: page
 title: Bulls V Cardiff Rugby on 2026/03/20
 date: 2026-03-20
-categories: "United Rugby Championship 25/26" match review
+categories: rugby "United Rugby Championship 25/26" match review
 ---
 # Bulls V Cardiff Rugby on 2026/03/20
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Bulls to win by 4.55.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Bulls to win by 5.1.
 
-Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 26 to 21
+Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 26 to 21
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model
@@ -38,7 +38,7 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 # Player Level Predictions
 
 
-The second set of predictions is based around the players themselves - each player gets a rating, and their contribution is weighted by their time on the field. The player model is currently predicting Bulls to win by 9.96
+The second set of predictions is based around the players themselves - each player gets a rating, and their contribution is weighted by their time on the field. The player model is currently predicting Bulls to win by 9.64
 ## Projected Performances - Player Model
 
 

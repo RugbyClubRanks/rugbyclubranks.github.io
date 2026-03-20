@@ -2,14 +2,14 @@
 layout: page
 title: Seattle Seawolves V Old Glory DC on 2026/04/03
 date: 2026-04-03
-categories: "Major League Rugby 2026" match review
+categories: rugby "Major League Rugby 2026" match review
 ---
 # Seattle Seawolves V Old Glory DC on 2026/04/03
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Seattle Seawolves to win by 4.78.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Seattle Seawolves to win by 5.41.
 
 Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 26 to 21
 

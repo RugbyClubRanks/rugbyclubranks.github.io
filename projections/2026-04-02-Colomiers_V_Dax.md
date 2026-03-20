@@ -2,14 +2,14 @@
 layout: page
 title: Colomiers V Dax on 2026/04/02
 date: 2026-04-02
-categories: "Pro D2 25/26" match review
+categories: rugby "Pro D2 25/26" match review
 ---
 # Colomiers V Dax on 2026/04/02
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Colomiers to win by 7.25.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Colomiers to win by 6.52.
 
 Our Over/Under is 45.5 - and combined with the spread above, we have a predicted scoreline of 26 to 19
 

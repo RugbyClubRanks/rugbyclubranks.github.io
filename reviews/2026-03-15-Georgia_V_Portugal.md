@@ -2,16 +2,16 @@
 layout: page
 title: Georgia V Portugal on 2026/03/15
 date: 2026-03-15
-categories: "Rugby Europe Championship 2026" match projection
+categories: rugby "Rugby Europe Championship 2026" match projection
 ---
 # Georgia V Portugal on 2026/03/15, 17.0 to 19.0
 
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Georgia to win by 6.2, and Portugal won by 2.0. That's an absolute error of 8.2 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 57.5% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Georgia to win by 6.11, and Portugal won by 2.0. That's an absolute error of 8.1 for the margin of victory, while my average absolute error has been 13.4 over the past six months. This prediction was more accurate than 58.1% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 36.0. That's an absolute error of 14.5 compared to a six month average of 13.2. This prediction was more accurate than 37.7% of my recent predictions.
+For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 36.0. That's an absolute error of 14.5 compared to a six month average of 13.2. This prediction was more accurate than 37.8% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 50.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Georgia to win by 1.27,  and Portugal won by 2.0. That's an absolute error of 3.3 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 70.5% of my recent predictions.
+With the player model, I predicted Georgia to win by 1.6,  and Portugal won by 2.0. That's an absolute error of 3.6 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 69.3% of my recent predictions.
 ## Projected Performances - Player Model
 
 

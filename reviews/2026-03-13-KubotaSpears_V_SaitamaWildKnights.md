@@ -2,14 +2,14 @@
 layout: page
 title: Kubota Spears V Saitama Wild Knights on 2026/03/13
 date: 2026-03-13
-categories: "Japan Rugby League One 25/26" match projection
+categories: rugby "Japan Rugby League One 25/26" match projection
 ---
 # Kubota Spears V Saitama Wild Knights on 2026/03/13, 30.0 to 32.0
 
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Kubota Spears to win by 4.77, and Saitama Wild Knights won by 2.0. That's an absolute error of 6.8 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 64.2% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Kubota Spears to win by 4.05, and Saitama Wild Knights won by 2.0. That's an absolute error of 6.0 for the margin of victory, while my average absolute error has been 13.4 over the past six months. This prediction was more accurate than 68.3% of my recent predictions.
 
 For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 62.0. That's an absolute error of 13.5 compared to a six month average of 13.2. This prediction was more accurate than 41.3% of my recent predictions.
 ## Projected Performances - Club Model
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 48.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Kubota Spears to win by 2.74,  and Saitama Wild Knights won by 2.0. That's an absolute error of 4.7 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 63.6% of my recent predictions.
+With the player model, I predicted Kubota Spears to win by 3.38,  and Saitama Wild Knights won by 2.0. That's an absolute error of 5.4 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 60.7% of my recent predictions.
 ## Projected Performances - Player Model
 
 

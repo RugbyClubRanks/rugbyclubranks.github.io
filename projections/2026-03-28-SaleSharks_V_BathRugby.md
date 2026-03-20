@@ -2,7 +2,7 @@
 layout: page
 title: Sale Sharks V Bath Rugby on 2026/03/28
 date: 2026-03-28
-categories: "Gallagher Premiership 25/26" match review
+categories: rugby "Gallagher Premiership 25/26" match review
 ---
 # Sale Sharks V Bath Rugby on 2026/03/28
 

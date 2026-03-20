@@ -2,16 +2,16 @@
 layout: page
 title: Ireland V Scotland on 2026/03/14
 date: 2026-03-14
-categories: "Six Nations 2026" match projection
+categories: rugby "Six Nations 2026" match projection
 ---
 # Ireland V Scotland on 2026/03/14, 43.0 to 21.0
 
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Ireland to win by 4.52, and Ireland won by 22.0. That's an absolute error of 17.5 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 27.5% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Ireland to win by 4.46, and Ireland won by 22.0. That's an absolute error of 17.5 for the margin of victory, while my average absolute error has been 13.4 over the past six months. This prediction was more accurate than 27.6% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 46.5 and we have an actual total of 64.0. That's an absolute error of 17.5 compared to a six month average of 13.2. This prediction was more accurate than 28.0% of my recent predictions.
+For the Over/Under model, I predicted a total of 46.5 and we have an actual total of 64.0. That's an absolute error of 17.5 compared to a six month average of 13.2. This prediction was more accurate than 28.1% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 46.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Ireland to win by 3.76,  and Ireland won by 22.0. That's an absolute error of 18.2 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 21.5% of my recent predictions.
+With the player model, I predicted Ireland to win by 4.32,  and Ireland won by 22.0. That's an absolute error of 17.7 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 22.0% of my recent predictions.
 ## Projected Performances - Player Model
 
 

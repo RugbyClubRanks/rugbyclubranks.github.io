@@ -12,11 +12,11 @@ key: page-recents
 
 Competition Accuracy: 14 of 20 (70.0%)
 
-Competition Error: 20.23 points per match
+Competition Error: 20.24 points per match
 
 Last Two Week Accuracy: 1 of 4 (25.0%)
 
-Last Two Week Error: 28.17 points per match
+Last Two Week Error: 28.12 points per match
 
 [2026/03/15 - Georgia V Portugal, 17.0 to 19.0](reviews/2026-03-15-Georgia_V_Portugal)
 
@@ -36,7 +36,7 @@ Competition Error: 13.78 points per match
 
 Last Two Week Accuracy: 2 of 3 (66.67%)
 
-Last Two Week Error: 13.13 points per match
+Last Two Week Error: 13.16 points per match
 
 [2026/03/14 - France V England, 48.0 to 46.0](reviews/2026-03-14-France_V_England)
 
@@ -68,25 +68,71 @@ Last Two Week Error: 19.4 points per match
 
 [In depth model review and projections for Japan Rugby League One 25/26](comp_files/Japan_Rugby_League_One_2526)
 
-Competition Accuracy: 45 of 65 (69.23%)
+Competition Accuracy: 45 of 66 (68.18%)
 
-Competition Error: 14.03 points per match
+Competition Error: 14.32 points per match
 
-Last Two Week Accuracy: 4 of 6 (66.67%)
+Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 19.11 points per match
+Last Two Week Error: 21.07 points per match
 
 [2026/03/13 - Black Rams Tokyo V Shizuoka Blue Revs, 37.0 to 33.0](reviews/2026-03-13-BlackRamsTokyo_V_ShizuokaBlueRevs)
 
 [2026/03/13 - Kubota Spears V Saitama Wild Knights, 30.0 to 32.0](reviews/2026-03-13-KubotaSpears_V_SaitamaWildKnights)
 
-[2026/03/13 - Mie Honda Heat V Yokohama Canon Eagles, 26.0 to 31.0](reviews/2026-03-13-MieHondaHeat_V_YokohamaCanonEagles)
+[2026/03/20 - Kobelco Kobe Steelers V Yokohama Canon Eagles, 29.0 to 38.0](reviews/2026-03-20-KobelcoKobeSteelers_V_YokohamaCanonEagles)
 
-[2026/03/14 - Kobelco Kobe Steelers V Mitsubishi Dynaboars, 61.0 to 10.0](reviews/2026-03-14-KobelcoKobeSteelers_V_MitsubishiDynaboars)
+[2026/03/15 - Toyota Verblitz V Urayasu D-Rocks, 59.0 to 19.0](reviews/2026-03-15-ToyotaVerblitz_V_UrayasuD-Rocks)
 
 [2026/03/15 - Tokyo Sungoliath V Toshiba Brave Lupus, 60.0 to 21.0](reviews/2026-03-15-TokyoSungoliath_V_ToshibaBraveLupus)
 
-[2026/03/15 - Toyota Verblitz V Urayasu D-Rocks, 59.0 to 19.0](reviews/2026-03-15-ToyotaVerblitz_V_UrayasuD-Rocks)
+[2026/03/14 - Kobelco Kobe Steelers V Mitsubishi Dynaboars, 61.0 to 10.0](reviews/2026-03-14-KobelcoKobeSteelers_V_MitsubishiDynaboars)
+
+[2026/03/13 - Mie Honda Heat V Yokohama Canon Eagles, 26.0 to 31.0](reviews/2026-03-13-MieHondaHeat_V_YokohamaCanonEagles)
+## United Rugby Championship
+
+
+[In depth model review and projections for United Rugby Championship 25/26](comp_files/United_Rugby_Championship_2526)
+
+Competition Accuracy: 58 of 96 (60.42%)
+
+Competition Error: 11.73 points per match
+
+Last Two Week Accuracy: 2 of 3 (66.67%)
+
+Last Two Week Error: 15.58 points per match
+
+[2026/03/13 - Edinburgh V Ulster, 19.0 to 40.0](reviews/2026-03-13-Edinburgh_V_Ulster)
+
+[2026/03/13 - Connacht V Scarlets, 31.0 to 14.0](reviews/2026-03-13-Connacht_V_Scarlets)
+
+[2026/03/14 - Bulls V Stormers, 19.0 to 32.0](reviews/2026-03-14-Bulls_V_Stormers)
+## Super Rugby Pacific
+
+
+[In depth model review and projections for Super Rugby Pacific 2026](comp_files/Super_Rugby_Pacific_2026)
+
+Competition Accuracy: 18 of 27 (66.67%)
+
+Competition Error: 15.29 points per match
+
+Last Two Week Accuracy: 6 of 7 (85.71%)
+
+Last Two Week Error: 14.71 points per match
+
+[2026/03/20 - Highlanders V Hurricanes, 7.0 to 50.0](reviews/2026-03-20-Highlanders_V_Hurricanes)
+
+[2026/03/20 - Brumbies V Chiefs, 33.0 to 24.0](reviews/2026-03-20-Brumbies_V_Chiefs)
+
+[2026/03/14 - Queensland Reds V New South Wales Waratahs, 26.0 to 17.0](reviews/2026-03-14-QueenslandReds_V_NewSouthWalesWaratahs)
+
+[2026/03/14 - Crusaders V Highlanders, 29.0 to 18.0](reviews/2026-03-14-Crusaders_V_Highlanders)
+
+[2026/03/14 - Blues V Moana Pasifika, 43.0 to 7.0](reviews/2026-03-14-Blues_V_MoanaPasifika)
+
+[2026/03/13 - Hurricanes V Western Force, 31.0 to 23.0](reviews/2026-03-13-Hurricanes_V_WesternForce)
+
+[2026/03/13 - Fijian Drua V Brumbies, 42.0 to 27.0](reviews/2026-03-13-FijianDrua_V_Brumbies)
 ## Premiership Rugby Cup
 
 
@@ -101,46 +147,6 @@ Last Two Week Accuracy: 1 of 1 (100.0%)
 Last Two Week Error: 50.19 points per match
 
 [2026/03/15 - Leicester Tigers V Exeter Chiefs, 66.0 to 14.0](reviews/2026-03-15-LeicesterTigers_V_ExeterChiefs)
-## Super Rugby Pacific
-
-
-[In depth model review and projections for Super Rugby Pacific 2026](comp_files/Super_Rugby_Pacific_2026)
-
-Competition Accuracy: 16 of 25 (64.0%)
-
-Competition Error: 14.83 points per match
-
-Last Two Week Accuracy: 4 of 5 (80.0%)
-
-Last Two Week Error: 12.21 points per match
-
-[2026/03/13 - Fijian Drua V Brumbies, 42.0 to 27.0](reviews/2026-03-13-FijianDrua_V_Brumbies)
-
-[2026/03/13 - Hurricanes V Western Force, 31.0 to 23.0](reviews/2026-03-13-Hurricanes_V_WesternForce)
-
-[2026/03/14 - Blues V Moana Pasifika, 43.0 to 7.0](reviews/2026-03-14-Blues_V_MoanaPasifika)
-
-[2026/03/14 - Crusaders V Highlanders, 29.0 to 18.0](reviews/2026-03-14-Crusaders_V_Highlanders)
-
-[2026/03/14 - Queensland Reds V New South Wales Waratahs, 26.0 to 17.0](reviews/2026-03-14-QueenslandReds_V_NewSouthWalesWaratahs)
-## United Rugby Championship
-
-
-[In depth model review and projections for United Rugby Championship 25/26](comp_files/United_Rugby_Championship_2526)
-
-Competition Accuracy: 58 of 96 (60.42%)
-
-Competition Error: 11.73 points per match
-
-Last Two Week Accuracy: 2 of 3 (66.67%)
-
-Last Two Week Error: 15.58 points per match
-
-[2026/03/13 - Connacht V Scarlets, 31.0 to 14.0](reviews/2026-03-13-Connacht_V_Scarlets)
-
-[2026/03/13 - Edinburgh V Ulster, 19.0 to 40.0](reviews/2026-03-13-Edinburgh_V_Ulster)
-
-[2026/03/14 - Bulls V Stormers, 19.0 to 32.0](reviews/2026-03-14-Bulls_V_Stormers)
 # Domestic Competitions
 
 ## URBA Top 14

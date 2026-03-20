@@ -2,16 +2,16 @@
 layout: page
 title: Edinburgh V Ulster on 2026/03/13
 date: 2026-03-13
-categories: "United Rugby Championship 25/26" match projection
+categories: rugby "United Rugby Championship 25/26" match projection
 ---
 # Edinburgh V Ulster on 2026/03/13, 19.0 to 40.0
 
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Edinburgh to win by 0.25, and Ulster won by 21.0. That's an absolute error of 21.2 for the margin of victory, while my average absolute error has been 13.3 over the past six months. This prediction was more accurate than 20.5% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Edinburgh to win by 0.43, and Ulster won by 21.0. That's an absolute error of 21.4 for the margin of victory, while my average absolute error has been 13.4 over the past six months. This prediction was more accurate than 20.4% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 42.5 and we have an actual total of 59.0. That's an absolute error of 16.5 compared to a six month average of 13.2. This prediction was more accurate than 31.1% of my recent predictions.
+For the Over/Under model, I predicted a total of 42.5 and we have an actual total of 59.0. That's an absolute error of 16.5 compared to a six month average of 13.2. This prediction was more accurate than 31.2% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 42.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Ulster to win by 2.32,  and Ulster won by 21.0. That's an absolute error of 18.7 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 21.0% of my recent predictions.
+With the player model, I predicted Ulster to win by 2.17,  and Ulster won by 21.0. That's an absolute error of 18.8 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 21.0% of my recent predictions.
 ## Projected Performances - Player Model
 
 
