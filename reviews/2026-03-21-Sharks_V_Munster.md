@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 43.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Sharks to win by 1.92,  and Sharks won by 45.0. That's an absolute error of 43.1 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 2.2% of my recent predictions.
+With the player model, I predicted Sharks to win by 1.13,  and Sharks won by 45.0. That's an absolute error of 43.9 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 2.2% of my recent predictions.
 ## Projected Performances - Player Model
 
 

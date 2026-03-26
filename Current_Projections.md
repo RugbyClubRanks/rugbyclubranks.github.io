@@ -48,9 +48,9 @@ Competition Accuracy: 21 of 30 (70.0%)
 
 Competition Error: 15.48 points per match
 
-Last Two Week Accuracy: 9 of 10 (90.0%)
+Last Two Week Accuracy: 5 of 5 (100.0%)
 
-Last Two Week Error: 15.47 points per match
+Last Two Week Error: 18.73 points per match
 
 [2026/03/28 - Blues V Fijian Drua](projections/2026-03-28-Blues_V_FijianDrua)
 
@@ -104,9 +104,9 @@ Competition Accuracy: 47 of 71 (66.2%)
 
 Competition Error: 14.09 points per match
 
-Last Two Week Accuracy: 6 of 12 (50.0%)
+Last Two Week Accuracy: 2 of 6 (33.33%)
 
-Last Two Week Error: 16.92 points per match
+Last Two Week Error: 14.7 points per match
 
 [2026/04/05 - Toshiba Brave Lupus V Urayasu D-Rocks](projections/2026-04-05-ToshibaBraveLupus_V_UrayasuD-Rocks)
 
@@ -140,9 +140,9 @@ Competition Accuracy: 65 of 104 (62.5%)
 
 Competition Error: 12.25 points per match
 
-Last Two Week Accuracy: 9 of 11 (81.82%)
+Last Two Week Accuracy: 7 of 8 (87.5%)
 
-Last Two Week Error: 17.7 points per match
+Last Two Week Error: 18.49 points per match
 
 [2026/03/28 - Stormers V Edinburgh](projections/2026-03-28-Stormers_V_Edinburgh)
 
@@ -164,13 +164,13 @@ Last Two Week Error: 17.7 points per match
 
 [In depth model review and projections for Top 14 25/26](comp_files/Top_14_2526)
 
-Competition Accuracy: 101 of 133 (75.94%)
+Competition Accuracy: 102 of 133 (76.69%)
 
-Competition Error: 13.9 points per match
+Competition Error: 14.03 points per match
 
-Last Two Week Accuracy: 3 of 7 (42.86%)
+Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 14.71 points per match
+Last Two Week Error: 17.12 points per match
 
 [2026/03/28 - Stade Toulousain V Montpellier Herault](projections/2026-03-28-StadeToulousain_V_MontpellierHerault)
 
@@ -310,7 +310,7 @@ Competition Error: 8.23 points per match
 
 Last Two Week Accuracy: 4 of 5 (80.0%)
 
-Last Two Week Error: 9.2 points per match
+Last Two Week Error: 9.22 points per match
 
 [2026/03/20 - Chambery V Niort](projections/2026-03-20-Chambery_V_Niort)
 
@@ -464,9 +464,9 @@ Competition Accuracy: 9 of 14 (64.29%)
 
 Competition Error: 14.58 points per match
 
-Last Two Week Accuracy: 9 of 14 (64.29%)
+Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 14.58 points per match
+Last Two Week Error: 11.97 points per match
 
 [2026/03/28 - Alumni V Belgrano AC](projections/2026-03-28-Alumni_V_BelgranoAC)
 

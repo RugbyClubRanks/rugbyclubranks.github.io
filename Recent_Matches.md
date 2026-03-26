@@ -32,17 +32,17 @@ Last Two Week Error: 15.81 points per match
 
 [In depth model review and projections for Top 14 25/26](comp_files/Top_14_2526)
 
-Competition Accuracy: 101 of 133 (75.94%)
+Competition Accuracy: 102 of 133 (76.69%)
 
-Competition Error: 13.9 points per match
+Competition Error: 14.03 points per match
 
-Last Two Week Accuracy: 3 of 7 (42.86%)
+Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 14.71 points per match
+Last Two Week Error: 17.12 points per match
 
 [2026/03/21 - Clermont Auvergne V Montpellier Herault, 17.0 to 20.0](reviews/2026-03-21-ClermontAuvergne_V_MontpellierHerault)
 
-[2026/03/22 - Bordeaux Begles V Stade Toulousain, 0.0 to 0.0](reviews/2026-03-22-BordeauxBegles_V_StadeToulousain)
+[2026/03/22 - Bordeaux Begles V Stade Toulousain, 44.0 to 20.0](reviews/2026-03-22-BordeauxBegles_V_StadeToulousain)
 
 [2026/03/21 - US Montauban V Bayonne, 26.0 to 60.0](reviews/2026-03-21-USMontauban_V_Bayonne)
 
@@ -62,9 +62,9 @@ Competition Accuracy: 65 of 104 (62.5%)
 
 Competition Error: 12.25 points per match
 
-Last Two Week Accuracy: 9 of 11 (81.82%)
+Last Two Week Accuracy: 7 of 8 (87.5%)
 
-Last Two Week Error: 17.7 points per match
+Last Two Week Error: 18.49 points per match
 
 [2026/03/21 - Sharks V Munster, 45.0 to 0.0](reviews/2026-03-21-Sharks_V_Munster)
 
@@ -90,9 +90,9 @@ Competition Accuracy: 21 of 30 (70.0%)
 
 Competition Error: 15.48 points per match
 
-Last Two Week Accuracy: 9 of 10 (90.0%)
+Last Two Week Accuracy: 5 of 5 (100.0%)
 
-Last Two Week Error: 15.47 points per match
+Last Two Week Error: 18.73 points per match
 
 [2026/03/21 - New South Wales Waratahs V Blues, 20.0 to 35.0](reviews/2026-03-21-NewSouthWalesWaratahs_V_Blues)
 
@@ -112,9 +112,9 @@ Competition Accuracy: 47 of 71 (66.2%)
 
 Competition Error: 14.09 points per match
 
-Last Two Week Accuracy: 6 of 12 (50.0%)
+Last Two Week Accuracy: 2 of 6 (33.33%)
 
-Last Two Week Error: 16.92 points per match
+Last Two Week Error: 14.7 points per match
 
 [2026/03/22 - Toyota Verblitz V Shizuoka Blue Revs, 24.0 to 34.0](reviews/2026-03-22-ToyotaVerblitz_V_ShizuokaBlueRevs)
 
@@ -136,11 +136,11 @@ Last Two Week Error: 16.92 points per match
 
 Competition Accuracy: 17 of 25 (68.0%)
 
-Competition Error: 16.97 points per match
+Competition Error: 16.96 points per match
 
 Last Two Week Accuracy: 0 of 1 (0.0%)
 
-Last Two Week Error: 23.37 points per match
+Last Two Week Error: 23.16 points per match
 
 [2026/03/20 - Kurita Water Gush V Yakult Levins Toda, 22.0 to 28.0](reviews/2026-03-20-KuritaWaterGush_V_YakultLevinsToda)
 ## Nationale
@@ -154,7 +154,7 @@ Competition Error: 8.23 points per match
 
 Last Two Week Accuracy: 4 of 5 (80.0%)
 
-Last Two Week Error: 9.2 points per match
+Last Two Week Error: 9.22 points per match
 
 [2026/03/20 - Rouen V Massy, 18.0 to 22.0](reviews/2026-03-20-Rouen_V_Massy)
 
@@ -174,9 +174,9 @@ Competition Accuracy: 9 of 14 (64.29%)
 
 Competition Error: 14.58 points per match
 
-Last Two Week Accuracy: 9 of 14 (64.29%)
+Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 14.58 points per match
+Last Two Week Error: 11.97 points per match
 
 [2026/03/21 - Los Tilos V La Plata, 17.0 to 13.0](reviews/2026-03-21-LosTilos_V_LaPlata)
 

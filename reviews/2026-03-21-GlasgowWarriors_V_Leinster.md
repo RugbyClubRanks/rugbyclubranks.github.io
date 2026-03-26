@@ -9,7 +9,7 @@ categories: rugby "United Rugby Championship 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Glasgow Warriors to win by 3.83, and Glasgow Warriors won by 21.0. That's an absolute error of 17.2 for the margin of victory, while my average absolute error has been 13.4 over the past six months. This prediction was more accurate than 28.1% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Glasgow Warriors to win by 3.53, and Glasgow Warriors won by 21.0. That's an absolute error of 17.5 for the margin of victory, while my average absolute error has been 13.4 over the past six months. This prediction was more accurate than 27.8% of my recent predictions.
 
 For the Over/Under model, I predicted a total of 43.5 and we have an actual total of 55.0. That's an absolute error of 11.5 compared to a six month average of 13.3. This prediction was more accurate than 48.5% of my recent predictions.
 ## Projected Performances - Club Model
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 43.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Glasgow Warriors to win by 1.67,  and Glasgow Warriors won by 21.0. That's an absolute error of 19.3 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 19.6% of my recent predictions.
+With the player model, I predicted Glasgow Warriors to win by 1.38,  and Glasgow Warriors won by 21.0. That's an absolute error of 19.6 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 19.0% of my recent predictions.
 ## Projected Performances - Player Model
 
 

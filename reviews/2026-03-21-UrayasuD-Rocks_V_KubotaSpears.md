@@ -9,9 +9,9 @@ categories: rugby "Japan Rugby League One 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Kubota Spears to win by 10.62, and Kubota Spears won by 24.0. That's an absolute error of 13.4 for the margin of victory, while my average absolute error has been 13.4 over the past six months. This prediction was more accurate than 38.8% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Kubota Spears to win by 10.89, and Kubota Spears won by 24.0. That's an absolute error of 13.1 for the margin of victory, while my average absolute error has been 13.4 over the past six months. This prediction was more accurate than 39.7% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 94.0. That's an absolute error of 45.5 compared to a six month average of 13.3. This prediction was more accurate than 1.0% of my recent predictions.
+For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 94.0. That's an absolute error of 44.5 compared to a six month average of 13.3. This prediction was more accurate than 1.1% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 48.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Kubota Spears to win by 6.9,  and Kubota Spears won by 24.0. That's an absolute error of 17.1 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 23.0% of my recent predictions.
+With the player model, I predicted Kubota Spears to win by 6.17,  and Kubota Spears won by 24.0. That's an absolute error of 17.8 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 21.5% of my recent predictions.
 ## Projected Performances - Player Model
 
 

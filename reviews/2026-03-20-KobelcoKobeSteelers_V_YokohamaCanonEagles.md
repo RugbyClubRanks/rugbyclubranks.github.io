@@ -9,9 +9,9 @@ categories: rugby "Japan Rugby League One 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Kobelco Kobe Steelers to win by 13.43, and Yokohama Canon Eagles won by 9.0. That's an absolute error of 22.4 for the margin of victory, while my average absolute error has been 13.4 over the past six months. This prediction was more accurate than 19.5% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Kobelco Kobe Steelers to win by 12.18, and Yokohama Canon Eagles won by 9.0. That's an absolute error of 21.2 for the margin of victory, while my average absolute error has been 13.4 over the past six months. This prediction was more accurate than 21.1% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 52.5 and we have an actual total of 67.0. That's an absolute error of 14.5 compared to a six month average of 13.3. This prediction was more accurate than 37.9% of my recent predictions.
+For the Over/Under model, I predicted a total of 53.5 and we have an actual total of 67.0. That's an absolute error of 13.5 compared to a six month average of 13.3. This prediction was more accurate than 41.3% of my recent predictions.
 ## Projected Performances - Club Model
 
 

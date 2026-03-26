@@ -1,6 +1,6 @@
 ---
 title: "European Rugby Challenge Cup 25/26"
-date: 2026-03-23 6:00:00 -0500
+date: 2026-03-26 6:00:00 -0500
 categories: model review projection
 layout: article
 aside:
@@ -129,22 +129,22 @@ aside:
 
 |                      | Reach Round of 16   | Win Round of 16   | Reach Quarterfinal   | Win Quarterfinal   | Reach Semifinal   | Win Semifinal   | Reach Final   | Win Final   |
 |:---------------------|:--------------------|:------------------|:---------------------|:-------------------|:------------------|:----------------|:--------------|:------------|
-| Stade Francais Paris | 100.0 %             | 74.1 %            | 74.1 %               | 54.0 %             | 54.0 %            | 25.3 %          | 25.3 %        | 17.3 %      |
-| Montpellier Herault  | 100.0 %             | 76.1 %            | 76.1 %               | 53.8 %             | 53.8 %            | 40.2 %          | 40.2 %        | 17.2 %      |
-| Benetton Treviso     | 100.0 %             | 64.9 %            | 64.9 %               | 38.7 %             | 38.7 %            | 23.9 %          | 23.9 %        | 11.2 %      |
-| Exeter Chiefs        | 100.0 %             | 73.4 %            | 73.4 %               | 28.7 %             | 28.7 %            | 21.5 %          | 21.5 %        | 10.9 %      |
-| Connacht             | 100.0 %             | 59.9 %            | 59.9 %               | 24.7 %             | 24.7 %            | 15.4 %          | 15.4 %        | 9.2 %       |
-| Pau                  | 100.0 %             | 65.2 %            | 65.2 %               | 23.2 %             | 23.2 %            | 10.2 %          | 10.2 %        | 6.6 %       |
-| Ulster               | 100.0 %             | 71.8 %            | 71.8 %               | 49.5 %             | 49.5 %            | 14.9 %          | 14.9 %        | 6.5 %       |
-| Sharks               | 100.0 %             | 40.1 %            | 40.1 %               | 17.6 %             | 17.6 %            | 10.2 %          | 10.2 %        | 5.6 %       |
-| Lions                | 100.0 %             | 35.1 %            | 35.1 %               | 19.0 %             | 19.0 %            | 9.5 %           | 9.5 %         | 5.5 %       |
-| Cardiff Rugby        | 100.0 %             | 23.9 %            | 23.9 %               | 10.3 %             | 10.3 %            | 6.4 %           | 6.4 %         | 2.5 %       |
-| La Rochelle          | 100.0 %             | 50.0 %            | 50.0 %               | 19.2 %             | 19.2 %            | 6.1 %           | 6.1 %         | 2.4 %       |
-| Munster              | 100.0 %             | 26.6 %            | 26.6 %               | 7.2 %              | 7.2 %             | 3.9 %           | 3.9 %         | 1.7 %       |
-| Dragons              | 100.0 %             | 50.0 %            | 50.0 %               | 15.5 %             | 15.5 %            | 3.7 %           | 3.7 %         | 1.0 %       |
-| Perpignan            | 100.0 %             | 25.9 %            | 25.9 %               | 12.9 %             | 12.9 %            | 3.2 %           | 3.2 %         | 0.9 %       |
-| Ospreys              | 100.0 %             | 28.2 %            | 28.2 %               | 15.8 %             | 15.8 %            | 3.3 %           | 3.3 %         | 0.8 %       |
-| Zebre                | 100.0 %             | 34.8 %            | 34.8 %               | 9.9 %              | 9.9 %             | 2.3 %           | 2.3 %         | 0.7 %       |
+| Stade Francais Paris | 100.0 %             | 78.1 %            | 78.1 %               | 55.3 %             | 55.3 %            | 25.6 %          | 25.6 %        | 16.8 %      |
+| Montpellier Herault  | 100.0 %             | 73.7 %            | 73.7 %               | 50.3 %             | 50.3 %            | 36.0 %          | 36.0 %        | 16.7 %      |
+| Benetton Treviso     | 100.0 %             | 64.2 %            | 64.2 %               | 39.6 %             | 39.6 %            | 22.6 %          | 22.6 %        | 11.9 %      |
+| Exeter Chiefs        | 100.0 %             | 71.5 %            | 71.5 %               | 28.0 %             | 28.0 %            | 20.2 %          | 20.2 %        | 9.9 %       |
+| Connacht             | 100.0 %             | 62.8 %            | 62.8 %               | 24.4 %             | 24.4 %            | 14.1 %          | 14.1 %        | 7.6 %       |
+| Ulster               | 100.0 %             | 69.3 %            | 69.3 %               | 51.0 %             | 51.0 %            | 17.5 %          | 17.5 %        | 7.0 %       |
+| Pau                  | 100.0 %             | 66.1 %            | 66.1 %               | 23.8 %             | 23.8 %            | 10.2 %          | 10.2 %        | 6.4 %       |
+| Sharks               | 100.0 %             | 37.2 %            | 37.2 %               | 16.3 %             | 16.3 %            | 9.7 %           | 9.7 %         | 6.1 %       |
+| Lions                | 100.0 %             | 35.8 %            | 35.8 %               | 19.7 %             | 19.7 %            | 11.9 %          | 11.9 %        | 5.9 %       |
+| Cardiff Rugby        | 100.0 %             | 26.3 %            | 26.3 %               | 12.2 %             | 12.2 %            | 6.9 %           | 6.9 %         | 2.5 %       |
+| Munster              | 100.0 %             | 28.5 %            | 28.5 %               | 9.5 %              | 9.5 %             | 5.6 %           | 5.6 %         | 2.4 %       |
+| La Rochelle          | 100.0 %             | 51.7 %            | 51.7 %               | 17.3 %             | 17.3 %            | 5.1 %           | 5.1 %         | 1.9 %       |
+| Ospreys              | 100.0 %             | 30.7 %            | 30.7 %               | 19.8 %             | 19.8 %            | 5.2 %           | 5.2 %         | 1.3 %       |
+| Perpignan            | 100.0 %             | 21.9 %            | 21.9 %               | 11.9 %             | 11.9 %            | 3.5 %           | 3.5 %         | 1.3 %       |
+| Dragons              | 100.0 %             | 48.3 %            | 48.3 %               | 11.9 %             | 11.9 %            | 3.5 %           | 3.5 %         | 1.2 %       |
+| Zebre                | 100.0 %             | 33.9 %            | 33.9 %               | 9.0 %              | 9.0 %             | 2.4 %           | 2.4 %         | 1.1 %       |
 
 
 
@@ -153,7 +153,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 61.4% | 9.4 |
+| Club Level | 61.3% | 9.4 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -165,7 +165,7 @@ aside:
 ### Benetton Treviso V Lions on 2026-04-02
 
 
-Average Margin: Benetton Treviso by 3.5
+Average Margin: Benetton Treviso by 3.7
 
 <p float="left">
 <img src="plots/2026-04-02-BenettonTreviso_V_Lions_club_performances.png" width="32%" />
@@ -173,21 +173,10 @@ Average Margin: Benetton Treviso by 3.5
 <img src="plots/2026-04-02-BenettonTreviso_V_Lions_club_spreads.png" width="32%" />
 </p>
 
-### Zebre V Pau on 2026-04-02
-
-
-Average Margin: Pau by 2.6
-
-<p float="left">
-<img src="plots/2026-04-02-Zebre_V_Pau_club_performances.png" width="32%" />
-<img src="plots/2026-04-02-Zebre_V_Pau_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-02-Zebre_V_Pau_club_spreads.png" width="32%" />
-</p>
-
 ### Connacht V Sharks on 2026-04-02
 
 
-Average Margin: Connacht by 2.4
+Average Margin: Connacht by 2.9
 
 <p float="left">
 <img src="plots/2026-04-02-Connacht_V_Sharks_club_performances.png" width="32%" />
@@ -195,21 +184,10 @@ Average Margin: Connacht by 2.4
 <img src="plots/2026-04-02-Connacht_V_Sharks_club_spreads.png" width="32%" />
 </p>
 
-### Montpellier Herault V Cardiff Rugby on 2026-04-02
-
-
-Average Margin: Montpellier Herault by 7.9
-
-<p float="left">
-<img src="plots/2026-04-02-MontpellierHerault_V_CardiffRugby_club_performances.png" width="32%" />
-<img src="plots/2026-04-02-MontpellierHerault_V_CardiffRugby_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-02-MontpellierHerault_V_CardiffRugby_club_spreads.png" width="32%" />
-</p>
-
 ### Ulster V Ospreys on 2026-04-02
 
 
-Average Margin: Ulster by 6.1
+Average Margin: Ulster by 5.8
 
 <p float="left">
 <img src="plots/2026-04-02-Ulster_V_Ospreys_club_performances.png" width="32%" />
@@ -217,10 +195,43 @@ Average Margin: Ulster by 6.1
 <img src="plots/2026-04-02-Ulster_V_Ospreys_club_spreads.png" width="32%" />
 </p>
 
+### Zebre V Pau on 2026-04-02
+
+
+Average Margin: Pau by 2.7
+
+<p float="left">
+<img src="plots/2026-04-02-Zebre_V_Pau_club_performances.png" width="32%" />
+<img src="plots/2026-04-02-Zebre_V_Pau_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-02-Zebre_V_Pau_club_spreads.png" width="32%" />
+</p>
+
+### Stade Francais Paris V Perpignan on 2026-04-02
+
+
+Average Margin: Stade Francais Paris by 9.8
+
+<p float="left">
+<img src="plots/2026-04-02-StadeFrancaisParis_V_Perpignan_club_performances.png" width="32%" />
+<img src="plots/2026-04-02-StadeFrancaisParis_V_Perpignan_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-02-StadeFrancaisParis_V_Perpignan_club_spreads.png" width="32%" />
+</p>
+
+### Montpellier Herault V Cardiff Rugby on 2026-04-02
+
+
+Average Margin: Montpellier Herault by 7.3
+
+<p float="left">
+<img src="plots/2026-04-02-MontpellierHerault_V_CardiffRugby_club_performances.png" width="32%" />
+<img src="plots/2026-04-02-MontpellierHerault_V_CardiffRugby_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-02-MontpellierHerault_V_CardiffRugby_club_spreads.png" width="32%" />
+</p>
+
 ### Exeter Chiefs V Munster on 2026-04-02
 
 
-Average Margin: Exeter Chiefs by 6.6
+Average Margin: Exeter Chiefs by 5.8
 
 <p float="left">
 <img src="plots/2026-04-02-ExeterChiefs_V_Munster_club_performances.png" width="32%" />
@@ -231,7 +242,7 @@ Average Margin: Exeter Chiefs by 6.6
 ### Dragons V La Rochelle on 2026-04-02
 
 
-Average Margin: Dragons by 0.5
+Average Margin: Dragons by 0.2
 
 <p float="left">
 <img src="plots/2026-04-02-Dragons_V_LaRochelle_club_performances.png" width="32%" />
@@ -239,23 +250,23 @@ Average Margin: Dragons by 0.5
 <img src="plots/2026-04-02-Dragons_V_LaRochelle_club_spreads.png" width="32%" />
 </p>
 
-### Stade Francais Paris V Perpignan on 2026-04-02
+## Week 6
+
+### Perpignan V Pau on 2026-04-09
 
 
-Average Margin: Stade Francais Paris by 8.7
+Average Margin: Pau by 0.4
 
 <p float="left">
-<img src="plots/2026-04-02-StadeFrancaisParis_V_Perpignan_club_performances.png" width="32%" />
-<img src="plots/2026-04-02-StadeFrancaisParis_V_Perpignan_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-02-StadeFrancaisParis_V_Perpignan_club_spreads.png" width="32%" />
+<img src="plots/2026-04-09-Perpignan_V_Pau_club_performances.png" width="32%" />
+<img src="plots/2026-04-09-Perpignan_V_Pau_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-09-Perpignan_V_Pau_club_spreads.png" width="32%" />
 </p>
-
-## Week 6
 
 ### Stade Francais Paris V Pau on 2026-04-09
 
 
-Average Margin: Stade Francais Paris by 5.3
+Average Margin: Stade Francais Paris by 5.1
 
 <p float="left">
 <img src="plots/2026-04-09-StadeFrancaisParis_V_Pau_club_performances.png" width="32%" />
@@ -274,21 +285,10 @@ Average Margin: Stade Francais Paris by 9.9
 <img src="plots/2026-04-09-StadeFrancaisParis_V_Zebre_club_spreads.png" width="32%" />
 </p>
 
-### Perpignan V Pau on 2026-04-09
-
-
-Average Margin: Pau by 0.9
-
-<p float="left">
-<img src="plots/2026-04-09-Perpignan_V_Pau_club_performances.png" width="32%" />
-<img src="plots/2026-04-09-Perpignan_V_Pau_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-09-Perpignan_V_Pau_club_spreads.png" width="32%" />
-</p>
-
 ### Perpignan V Zebre on 2026-04-09
 
 
-Average Margin: Perpignan by 3.2
+Average Margin: Perpignan by 4.1
 
 <p float="left">
 <img src="plots/2026-04-09-Perpignan_V_Zebre_club_performances.png" width="32%" />
@@ -299,7 +299,7 @@ Average Margin: Perpignan by 3.2
 ### Ulster V La Rochelle on 2026-04-09
 
 
-Average Margin: Ulster by 4.5
+Average Margin: Ulster by 5.2
 
 <p float="left">
 <img src="plots/2026-04-09-Ulster_V_LaRochelle_club_performances.png" width="32%" />
@@ -310,7 +310,7 @@ Average Margin: Ulster by 4.5
 ### Ulster V Dragons on 2026-04-09
 
 
-Average Margin: Ulster by 7.3
+Average Margin: Ulster by 8.5
 
 <p float="left">
 <img src="plots/2026-04-09-Ulster_V_Dragons_club_performances.png" width="32%" />
@@ -318,21 +318,10 @@ Average Margin: Ulster by 7.3
 <img src="plots/2026-04-09-Ulster_V_Dragons_club_spreads.png" width="32%" />
 </p>
 
-### Ospreys V La Rochelle on 2026-04-09
-
-
-Average Margin: Ospreys by 0.5
-
-<p float="left">
-<img src="plots/2026-04-09-Ospreys_V_LaRochelle_club_performances.png" width="32%" />
-<img src="plots/2026-04-09-Ospreys_V_LaRochelle_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-09-Ospreys_V_LaRochelle_club_spreads.png" width="32%" />
-</p>
-
 ### Ospreys V Dragons on 2026-04-09
 
 
-Average Margin: Ospreys by 4.2
+Average Margin: Ospreys by 4.6
 
 <p float="left">
 <img src="plots/2026-04-09-Ospreys_V_Dragons_club_performances.png" width="32%" />
@@ -340,54 +329,21 @@ Average Margin: Ospreys by 4.2
 <img src="plots/2026-04-09-Ospreys_V_Dragons_club_spreads.png" width="32%" />
 </p>
 
-### Benetton Treviso V Connacht on 2026-04-09
+### Ospreys V La Rochelle on 2026-04-09
 
 
-Average Margin: Benetton Treviso by 2.3
-
-<p float="left">
-<img src="plots/2026-04-09-BenettonTreviso_V_Connacht_club_performances.png" width="32%" />
-<img src="plots/2026-04-09-BenettonTreviso_V_Connacht_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-09-BenettonTreviso_V_Connacht_club_spreads.png" width="32%" />
-</p>
-
-### Lions V Sharks on 2026-04-09
-
-
-Average Margin: Lions by 0.5
+Average Margin: Ospreys by 1.1
 
 <p float="left">
-<img src="plots/2026-04-09-Lions_V_Sharks_club_performances.png" width="32%" />
-<img src="plots/2026-04-09-Lions_V_Sharks_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-09-Lions_V_Sharks_club_spreads.png" width="32%" />
-</p>
-
-### Benetton Treviso V Sharks on 2026-04-09
-
-
-Average Margin: Benetton Treviso by 2.4
-
-<p float="left">
-<img src="plots/2026-04-09-BenettonTreviso_V_Sharks_club_performances.png" width="32%" />
-<img src="plots/2026-04-09-BenettonTreviso_V_Sharks_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-09-BenettonTreviso_V_Sharks_club_spreads.png" width="32%" />
-</p>
-
-### Lions V Connacht on 2026-04-09
-
-
-Average Margin: Lions by 1.5
-
-<p float="left">
-<img src="plots/2026-04-09-Lions_V_Connacht_club_performances.png" width="32%" />
-<img src="plots/2026-04-09-Lions_V_Connacht_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-09-Lions_V_Connacht_club_spreads.png" width="32%" />
+<img src="plots/2026-04-09-Ospreys_V_LaRochelle_club_performances.png" width="32%" />
+<img src="plots/2026-04-09-Ospreys_V_LaRochelle_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-09-Ospreys_V_LaRochelle_club_spreads.png" width="32%" />
 </p>
 
 ### Montpellier Herault V Exeter Chiefs on 2026-04-09
 
 
-Average Margin: Montpellier Herault by 3.5
+Average Margin: Montpellier Herault by 3.3
 
 <p float="left">
 <img src="plots/2026-04-09-MontpellierHerault_V_ExeterChiefs_club_performances.png" width="32%" />
@@ -395,21 +351,10 @@ Average Margin: Montpellier Herault by 3.5
 <img src="plots/2026-04-09-MontpellierHerault_V_ExeterChiefs_club_spreads.png" width="32%" />
 </p>
 
-### Cardiff Rugby V Exeter Chiefs on 2026-04-09
-
-
-Average Margin: Exeter Chiefs by 1.2
-
-<p float="left">
-<img src="plots/2026-04-09-CardiffRugby_V_ExeterChiefs_club_performances.png" width="32%" />
-<img src="plots/2026-04-09-CardiffRugby_V_ExeterChiefs_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-09-CardiffRugby_V_ExeterChiefs_club_spreads.png" width="32%" />
-</p>
-
 ### Montpellier Herault V Munster on 2026-04-09
 
 
-Average Margin: Montpellier Herault by 6.8
+Average Margin: Montpellier Herault by 6.5
 
 <p float="left">
 <img src="plots/2026-04-09-MontpellierHerault_V_Munster_club_performances.png" width="32%" />
@@ -420,7 +365,7 @@ Average Margin: Montpellier Herault by 6.8
 ### Cardiff Rugby V Munster on 2026-04-09
 
 
-Average Margin: Cardiff Rugby by 2.7
+Average Margin: Cardiff Rugby by 1.7
 
 <p float="left">
 <img src="plots/2026-04-09-CardiffRugby_V_Munster_club_performances.png" width="32%" />
@@ -428,23 +373,133 @@ Average Margin: Cardiff Rugby by 2.7
 <img src="plots/2026-04-09-CardiffRugby_V_Munster_club_spreads.png" width="32%" />
 </p>
 
-## Week 7
-
-### Benetton Treviso V Stade Francais Paris on 2026-04-30
+### Cardiff Rugby V Exeter Chiefs on 2026-04-09
 
 
-Average Margin: Benetton Treviso by 1.5
+Average Margin: Exeter Chiefs by 0.8
 
 <p float="left">
-<img src="plots/2026-04-30-BenettonTreviso_V_StadeFrancaisParis_club_performances.png" width="32%" />
-<img src="plots/2026-04-30-BenettonTreviso_V_StadeFrancaisParis_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-BenettonTreviso_V_StadeFrancaisParis_club_spreads.png" width="32%" />
+<img src="plots/2026-04-09-CardiffRugby_V_ExeterChiefs_club_performances.png" width="32%" />
+<img src="plots/2026-04-09-CardiffRugby_V_ExeterChiefs_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-09-CardiffRugby_V_ExeterChiefs_club_spreads.png" width="32%" />
+</p>
+
+### Benetton Treviso V Connacht on 2026-04-09
+
+
+Average Margin: Benetton Treviso by 3.2
+
+<p float="left">
+<img src="plots/2026-04-09-BenettonTreviso_V_Connacht_club_performances.png" width="32%" />
+<img src="plots/2026-04-09-BenettonTreviso_V_Connacht_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-09-BenettonTreviso_V_Connacht_club_spreads.png" width="32%" />
+</p>
+
+### Lions V Connacht on 2026-04-09
+
+
+Average Margin: Lions by 1.7
+
+<p float="left">
+<img src="plots/2026-04-09-Lions_V_Connacht_club_performances.png" width="32%" />
+<img src="plots/2026-04-09-Lions_V_Connacht_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-09-Lions_V_Connacht_club_spreads.png" width="32%" />
+</p>
+
+### Benetton Treviso V Sharks on 2026-04-09
+
+
+Average Margin: Benetton Treviso by 2.6
+
+<p float="left">
+<img src="plots/2026-04-09-BenettonTreviso_V_Sharks_club_performances.png" width="32%" />
+<img src="plots/2026-04-09-BenettonTreviso_V_Sharks_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-09-BenettonTreviso_V_Sharks_club_spreads.png" width="32%" />
+</p>
+
+### Lions V Sharks on 2026-04-09
+
+
+Average Margin: Lions by 1.5
+
+<p float="left">
+<img src="plots/2026-04-09-Lions_V_Sharks_club_performances.png" width="32%" />
+<img src="plots/2026-04-09-Lions_V_Sharks_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-09-Lions_V_Sharks_club_spreads.png" width="32%" />
+</p>
+
+## Week 7
+
+### Benetton Treviso V Perpignan on 2026-04-30
+
+
+Average Margin: Benetton Treviso by 7.8
+
+<p float="left">
+<img src="plots/2026-04-30-BenettonTreviso_V_Perpignan_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-BenettonTreviso_V_Perpignan_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-BenettonTreviso_V_Perpignan_club_spreads.png" width="32%" />
+</p>
+
+### Montpellier Herault V Dragons on 2026-04-30
+
+
+Average Margin: Montpellier Herault by 7.1
+
+<p float="left">
+<img src="plots/2026-04-30-MontpellierHerault_V_Dragons_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-MontpellierHerault_V_Dragons_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-MontpellierHerault_V_Dragons_club_spreads.png" width="32%" />
+</p>
+
+### Munster V La Rochelle on 2026-04-30
+
+
+Average Margin: Munster by 1.8
+
+<p float="left">
+<img src="plots/2026-04-30-Munster_V_LaRochelle_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-Munster_V_LaRochelle_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-Munster_V_LaRochelle_club_spreads.png" width="32%" />
+</p>
+
+### Munster V Ulster on 2026-04-30
+
+
+Average Margin: Munster by 0.7
+
+<p float="left">
+<img src="plots/2026-04-30-Munster_V_Ulster_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-Munster_V_Ulster_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-Munster_V_Ulster_club_spreads.png" width="32%" />
+</p>
+
+### Cardiff Rugby V Dragons on 2026-04-30
+
+
+Average Margin: Cardiff Rugby by 7.1
+
+<p float="left">
+<img src="plots/2026-04-30-CardiffRugby_V_Dragons_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-CardiffRugby_V_Dragons_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-CardiffRugby_V_Dragons_club_spreads.png" width="32%" />
+</p>
+
+### Exeter Chiefs V Ospreys on 2026-04-30
+
+
+Average Margin: Exeter Chiefs by 7.0
+
+<p float="left">
+<img src="plots/2026-04-30-ExeterChiefs_V_Ospreys_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-ExeterChiefs_V_Ospreys_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-ExeterChiefs_V_Ospreys_club_spreads.png" width="32%" />
 </p>
 
 ### Munster V Ospreys on 2026-04-30
 
 
-Average Margin: Munster by 5.0
+Average Margin: Munster by 3.4
 
 <p float="left">
 <img src="plots/2026-04-30-Munster_V_Ospreys_club_performances.png" width="32%" />
@@ -455,7 +510,7 @@ Average Margin: Munster by 5.0
 ### Cardiff Rugby V Ospreys on 2026-04-30
 
 
-Average Margin: Cardiff Rugby by 3.2
+Average Margin: Cardiff Rugby by 2.5
 
 <p float="left">
 <img src="plots/2026-04-30-CardiffRugby_V_Ospreys_club_performances.png" width="32%" />
@@ -463,10 +518,43 @@ Average Margin: Cardiff Rugby by 3.2
 <img src="plots/2026-04-30-CardiffRugby_V_Ospreys_club_spreads.png" width="32%" />
 </p>
 
+### Exeter Chiefs V Ulster on 2026-04-30
+
+
+Average Margin: Exeter Chiefs by 4.9
+
+<p float="left">
+<img src="plots/2026-04-30-ExeterChiefs_V_Ulster_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-ExeterChiefs_V_Ulster_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-ExeterChiefs_V_Ulster_club_spreads.png" width="32%" />
+</p>
+
+### Montpellier Herault V La Rochelle on 2026-04-30
+
+
+Average Margin: Montpellier Herault by 5.9
+
+<p float="left">
+<img src="plots/2026-04-30-MontpellierHerault_V_LaRochelle_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-MontpellierHerault_V_LaRochelle_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-MontpellierHerault_V_LaRochelle_club_spreads.png" width="32%" />
+</p>
+
+### Montpellier Herault V Ospreys on 2026-04-30
+
+
+Average Margin: Montpellier Herault by 9.7
+
+<p float="left">
+<img src="plots/2026-04-30-MontpellierHerault_V_Ospreys_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-MontpellierHerault_V_Ospreys_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-MontpellierHerault_V_Ospreys_club_spreads.png" width="32%" />
+</p>
+
 ### Exeter Chiefs V La Rochelle on 2026-04-30
 
 
-Average Margin: Exeter Chiefs by 5.8
+Average Margin: Exeter Chiefs by 8.6
 
 <p float="left">
 <img src="plots/2026-04-30-ExeterChiefs_V_LaRochelle_club_performances.png" width="32%" />
@@ -474,32 +562,21 @@ Average Margin: Exeter Chiefs by 5.8
 <img src="plots/2026-04-30-ExeterChiefs_V_LaRochelle_club_spreads.png" width="32%" />
 </p>
 
-### Munster V Ulster on 2026-04-30
+### Cardiff Rugby V Ulster on 2026-04-30
 
 
-Average Margin: Ulster by 1.6
-
-<p float="left">
-<img src="plots/2026-04-30-Munster_V_Ulster_club_performances.png" width="32%" />
-<img src="plots/2026-04-30-Munster_V_Ulster_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-Munster_V_Ulster_club_spreads.png" width="32%" />
-</p>
-
-### Exeter Chiefs V Ospreys on 2026-04-30
-
-
-Average Margin: Exeter Chiefs by 8.6
+Average Margin: Cardiff Rugby by 0.7
 
 <p float="left">
-<img src="plots/2026-04-30-ExeterChiefs_V_Ospreys_club_performances.png" width="32%" />
-<img src="plots/2026-04-30-ExeterChiefs_V_Ospreys_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-ExeterChiefs_V_Ospreys_club_spreads.png" width="32%" />
+<img src="plots/2026-04-30-CardiffRugby_V_Ulster_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-CardiffRugby_V_Ulster_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-CardiffRugby_V_Ulster_club_spreads.png" width="32%" />
 </p>
 
 ### Cardiff Rugby V La Rochelle on 2026-04-30
 
 
-Average Margin: Cardiff Rugby by 1.7
+Average Margin: La Rochelle by 0.8
 
 <p float="left">
 <img src="plots/2026-04-30-CardiffRugby_V_LaRochelle_club_performances.png" width="32%" />
@@ -507,26 +584,180 @@ Average Margin: Cardiff Rugby by 1.7
 <img src="plots/2026-04-30-CardiffRugby_V_LaRochelle_club_spreads.png" width="32%" />
 </p>
 
-### Montpellier Herault V Dragons on 2026-04-30
+### Montpellier Herault V Ulster on 2026-04-30
 
 
-Average Margin: Montpellier Herault by 9.7
+Average Margin: Montpellier Herault by 5.2
 
 <p float="left">
-<img src="plots/2026-04-30-MontpellierHerault_V_Dragons_club_performances.png" width="32%" />
-<img src="plots/2026-04-30-MontpellierHerault_V_Dragons_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-MontpellierHerault_V_Dragons_club_spreads.png" width="32%" />
+<img src="plots/2026-04-30-MontpellierHerault_V_Ulster_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-MontpellierHerault_V_Ulster_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-MontpellierHerault_V_Ulster_club_spreads.png" width="32%" />
 </p>
 
-### Cardiff Rugby V Dragons on 2026-04-30
+### Lions V Perpignan on 2026-04-30
 
 
-Average Margin: Cardiff Rugby by 2.5
+Average Margin: Lions by 2.1
 
 <p float="left">
-<img src="plots/2026-04-30-CardiffRugby_V_Dragons_club_performances.png" width="32%" />
-<img src="plots/2026-04-30-CardiffRugby_V_Dragons_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-CardiffRugby_V_Dragons_club_spreads.png" width="32%" />
+<img src="plots/2026-04-30-Lions_V_Perpignan_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-Lions_V_Perpignan_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-Lions_V_Perpignan_club_spreads.png" width="32%" />
+</p>
+
+### Connacht V Perpignan on 2026-04-30
+
+
+Average Margin: Connacht by 7.9
+
+<p float="left">
+<img src="plots/2026-04-30-Connacht_V_Perpignan_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-Connacht_V_Perpignan_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-Connacht_V_Perpignan_club_spreads.png" width="32%" />
+</p>
+
+### Benetton Treviso V Zebre on 2026-04-30
+
+
+Average Margin: Benetton Treviso by 9.1
+
+<p float="left">
+<img src="plots/2026-04-30-BenettonTreviso_V_Zebre_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-BenettonTreviso_V_Zebre_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-BenettonTreviso_V_Zebre_club_spreads.png" width="32%" />
+</p>
+
+### Benetton Treviso V Pau on 2026-04-30
+
+
+Average Margin: Benetton Treviso by 1.1
+
+<p float="left">
+<img src="plots/2026-04-30-BenettonTreviso_V_Pau_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-BenettonTreviso_V_Pau_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-BenettonTreviso_V_Pau_club_spreads.png" width="32%" />
+</p>
+
+### Sharks V Perpignan on 2026-04-30
+
+
+Average Margin: Sharks by 9.5
+
+<p float="left">
+<img src="plots/2026-04-30-Sharks_V_Perpignan_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-Sharks_V_Perpignan_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-Sharks_V_Perpignan_club_spreads.png" width="32%" />
+</p>
+
+### Sharks V Zebre on 2026-04-30
+
+
+Average Margin: Sharks by 6.8
+
+<p float="left">
+<img src="plots/2026-04-30-Sharks_V_Zebre_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-Sharks_V_Zebre_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-Sharks_V_Zebre_club_spreads.png" width="32%" />
+</p>
+
+### Lions V Zebre on 2026-04-30
+
+
+Average Margin: Lions by 4.1
+
+<p float="left">
+<img src="plots/2026-04-30-Lions_V_Zebre_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-Lions_V_Zebre_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-Lions_V_Zebre_club_spreads.png" width="32%" />
+</p>
+
+### Lions V Pau on 2026-04-30
+
+
+Average Margin: Lions by 2.5
+
+<p float="left">
+<img src="plots/2026-04-30-Lions_V_Pau_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-Lions_V_Pau_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-Lions_V_Pau_club_spreads.png" width="32%" />
+</p>
+
+### Connacht V Stade Francais Paris on 2026-04-30
+
+
+Average Margin: Connacht by 0.3
+
+<p float="left">
+<img src="plots/2026-04-30-Connacht_V_StadeFrancaisParis_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-Connacht_V_StadeFrancaisParis_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-Connacht_V_StadeFrancaisParis_club_spreads.png" width="32%" />
+</p>
+
+### Sharks V Pau on 2026-04-30
+
+
+Average Margin: Sharks by 0.2
+
+<p float="left">
+<img src="plots/2026-04-30-Sharks_V_Pau_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-Sharks_V_Pau_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-Sharks_V_Pau_club_spreads.png" width="32%" />
+</p>
+
+### Connacht V Zebre on 2026-04-30
+
+
+Average Margin: Connacht by 6.0
+
+<p float="left">
+<img src="plots/2026-04-30-Connacht_V_Zebre_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-Connacht_V_Zebre_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-Connacht_V_Zebre_club_spreads.png" width="32%" />
+</p>
+
+### Connacht V Pau on 2026-04-30
+
+
+Average Margin: Connacht by 3.4
+
+<p float="left">
+<img src="plots/2026-04-30-Connacht_V_Pau_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-Connacht_V_Pau_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-Connacht_V_Pau_club_spreads.png" width="32%" />
+</p>
+
+### Sharks V Stade Francais Paris on 2026-04-30
+
+
+Average Margin: Sharks by 0.8
+
+<p float="left">
+<img src="plots/2026-04-30-Sharks_V_StadeFrancaisParis_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-Sharks_V_StadeFrancaisParis_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-Sharks_V_StadeFrancaisParis_club_spreads.png" width="32%" />
+</p>
+
+### Benetton Treviso V Stade Francais Paris on 2026-04-30
+
+
+Average Margin: Benetton Treviso by 1.0
+
+<p float="left">
+<img src="plots/2026-04-30-BenettonTreviso_V_StadeFrancaisParis_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-BenettonTreviso_V_StadeFrancaisParis_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-BenettonTreviso_V_StadeFrancaisParis_club_spreads.png" width="32%" />
+</p>
+
+### Lions V Stade Francais Paris on 2026-04-30
+
+
+Average Margin: Lions by 1.4
+
+<p float="left">
+<img src="plots/2026-04-30-Lions_V_StadeFrancaisParis_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-Lions_V_StadeFrancaisParis_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-Lions_V_StadeFrancaisParis_club_spreads.png" width="32%" />
 </p>
 
 ### Exeter Chiefs V Dragons on 2026-04-30
@@ -540,230 +771,10 @@ Average Margin: Exeter Chiefs by 9.6
 <img src="plots/2026-04-30-ExeterChiefs_V_Dragons_club_spreads.png" width="32%" />
 </p>
 
-### Cardiff Rugby V Ulster on 2026-04-30
-
-
-Average Margin: Cardiff Rugby by 1.6
-
-<p float="left">
-<img src="plots/2026-04-30-CardiffRugby_V_Ulster_club_performances.png" width="32%" />
-<img src="plots/2026-04-30-CardiffRugby_V_Ulster_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-CardiffRugby_V_Ulster_club_spreads.png" width="32%" />
-</p>
-
-### Exeter Chiefs V Ulster on 2026-04-30
-
-
-Average Margin: Exeter Chiefs by 5.7
-
-<p float="left">
-<img src="plots/2026-04-30-ExeterChiefs_V_Ulster_club_performances.png" width="32%" />
-<img src="plots/2026-04-30-ExeterChiefs_V_Ulster_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-ExeterChiefs_V_Ulster_club_spreads.png" width="32%" />
-</p>
-
-### Montpellier Herault V La Rochelle on 2026-04-30
-
-
-Average Margin: Montpellier Herault by 6.8
-
-<p float="left">
-<img src="plots/2026-04-30-MontpellierHerault_V_LaRochelle_club_performances.png" width="32%" />
-<img src="plots/2026-04-30-MontpellierHerault_V_LaRochelle_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-MontpellierHerault_V_LaRochelle_club_spreads.png" width="32%" />
-</p>
-
-### Montpellier Herault V Ospreys on 2026-04-30
-
-
-Average Margin: Montpellier Herault by 9.4
-
-<p float="left">
-<img src="plots/2026-04-30-MontpellierHerault_V_Ospreys_club_performances.png" width="32%" />
-<img src="plots/2026-04-30-MontpellierHerault_V_Ospreys_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-MontpellierHerault_V_Ospreys_club_spreads.png" width="32%" />
-</p>
-
-### Montpellier Herault V Ulster on 2026-04-30
-
-
-Average Margin: Montpellier Herault by 5.9
-
-<p float="left">
-<img src="plots/2026-04-30-MontpellierHerault_V_Ulster_club_performances.png" width="32%" />
-<img src="plots/2026-04-30-MontpellierHerault_V_Ulster_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-MontpellierHerault_V_Ulster_club_spreads.png" width="32%" />
-</p>
-
-### Connacht V Pau on 2026-04-30
-
-
-Average Margin: Connacht by 4.0
-
-<p float="left">
-<img src="plots/2026-04-30-Connacht_V_Pau_club_performances.png" width="32%" />
-<img src="plots/2026-04-30-Connacht_V_Pau_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-Connacht_V_Pau_club_spreads.png" width="32%" />
-</p>
-
-### Sharks V Zebre on 2026-04-30
-
-
-Average Margin: Sharks by 9.5
-
-<p float="left">
-<img src="plots/2026-04-30-Sharks_V_Zebre_club_performances.png" width="32%" />
-<img src="plots/2026-04-30-Sharks_V_Zebre_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-Sharks_V_Zebre_club_spreads.png" width="32%" />
-</p>
-
-### Connacht V Perpignan on 2026-04-30
-
-
-Average Margin: Connacht by 5.7
-
-<p float="left">
-<img src="plots/2026-04-30-Connacht_V_Perpignan_club_performances.png" width="32%" />
-<img src="plots/2026-04-30-Connacht_V_Perpignan_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-Connacht_V_Perpignan_club_spreads.png" width="32%" />
-</p>
-
-### Connacht V Zebre on 2026-04-30
-
-
-Average Margin: Connacht by 5.7
-
-<p float="left">
-<img src="plots/2026-04-30-Connacht_V_Zebre_club_performances.png" width="32%" />
-<img src="plots/2026-04-30-Connacht_V_Zebre_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-Connacht_V_Zebre_club_spreads.png" width="32%" />
-</p>
-
-### Sharks V Perpignan on 2026-04-30
-
-
-Average Margin: Sharks by 8.3
-
-<p float="left">
-<img src="plots/2026-04-30-Sharks_V_Perpignan_club_performances.png" width="32%" />
-<img src="plots/2026-04-30-Sharks_V_Perpignan_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-Sharks_V_Perpignan_club_spreads.png" width="32%" />
-</p>
-
-### Lions V Perpignan on 2026-04-30
-
-
-Average Margin: Lions by 5.4
-
-<p float="left">
-<img src="plots/2026-04-30-Lions_V_Perpignan_club_performances.png" width="32%" />
-<img src="plots/2026-04-30-Lions_V_Perpignan_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-Lions_V_Perpignan_club_spreads.png" width="32%" />
-</p>
-
-### Benetton Treviso V Perpignan on 2026-04-30
-
-
-Average Margin: Benetton Treviso by 8.2
-
-<p float="left">
-<img src="plots/2026-04-30-BenettonTreviso_V_Perpignan_club_performances.png" width="32%" />
-<img src="plots/2026-04-30-BenettonTreviso_V_Perpignan_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-BenettonTreviso_V_Perpignan_club_spreads.png" width="32%" />
-</p>
-
-### Lions V Stade Francais Paris on 2026-04-30
-
-
-Average Margin: Stade Francais Paris by 1.3
-
-<p float="left">
-<img src="plots/2026-04-30-Lions_V_StadeFrancaisParis_club_performances.png" width="32%" />
-<img src="plots/2026-04-30-Lions_V_StadeFrancaisParis_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-Lions_V_StadeFrancaisParis_club_spreads.png" width="32%" />
-</p>
-
-### Lions V Pau on 2026-04-30
-
-
-Average Margin: Lions by 0.1
-
-<p float="left">
-<img src="plots/2026-04-30-Lions_V_Pau_club_performances.png" width="32%" />
-<img src="plots/2026-04-30-Lions_V_Pau_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-Lions_V_Pau_club_spreads.png" width="32%" />
-</p>
-
-### Sharks V Pau on 2026-04-30
-
-
-Average Margin: Sharks by 4.1
-
-<p float="left">
-<img src="plots/2026-04-30-Sharks_V_Pau_club_performances.png" width="32%" />
-<img src="plots/2026-04-30-Sharks_V_Pau_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-Sharks_V_Pau_club_spreads.png" width="32%" />
-</p>
-
-### Benetton Treviso V Zebre on 2026-04-30
-
-
-Average Margin: Benetton Treviso by 10.8
-
-<p float="left">
-<img src="plots/2026-04-30-BenettonTreviso_V_Zebre_club_performances.png" width="32%" />
-<img src="plots/2026-04-30-BenettonTreviso_V_Zebre_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-BenettonTreviso_V_Zebre_club_spreads.png" width="32%" />
-</p>
-
-### Benetton Treviso V Pau on 2026-04-30
-
-
-Average Margin: Benetton Treviso by 2.1
-
-<p float="left">
-<img src="plots/2026-04-30-BenettonTreviso_V_Pau_club_performances.png" width="32%" />
-<img src="plots/2026-04-30-BenettonTreviso_V_Pau_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-BenettonTreviso_V_Pau_club_spreads.png" width="32%" />
-</p>
-
-### Lions V Zebre on 2026-04-30
-
-
-Average Margin: Lions by 7.2
-
-<p float="left">
-<img src="plots/2026-04-30-Lions_V_Zebre_club_performances.png" width="32%" />
-<img src="plots/2026-04-30-Lions_V_Zebre_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-Lions_V_Zebre_club_spreads.png" width="32%" />
-</p>
-
-### Sharks V Stade Francais Paris on 2026-04-30
-
-
-Average Margin: Stade Francais Paris by 0.0
-
-<p float="left">
-<img src="plots/2026-04-30-Sharks_V_StadeFrancaisParis_club_performances.png" width="32%" />
-<img src="plots/2026-04-30-Sharks_V_StadeFrancaisParis_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-Sharks_V_StadeFrancaisParis_club_spreads.png" width="32%" />
-</p>
-
-### Connacht V Stade Francais Paris on 2026-04-30
-
-
-Average Margin: Connacht by 2.8
-
-<p float="left">
-<img src="plots/2026-04-30-Connacht_V_StadeFrancaisParis_club_performances.png" width="32%" />
-<img src="plots/2026-04-30-Connacht_V_StadeFrancaisParis_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-Connacht_V_StadeFrancaisParis_club_spreads.png" width="32%" />
-</p>
-
 ### Munster V Dragons on 2026-04-30
 
 
-Average Margin: Munster by 3.1
+Average Margin: Munster by 6.9
 
 <p float="left">
 <img src="plots/2026-04-30-Munster_V_Dragons_club_performances.png" width="32%" />
@@ -771,78 +782,100 @@ Average Margin: Munster by 3.1
 <img src="plots/2026-04-30-Munster_V_Dragons_club_spreads.png" width="32%" />
 </p>
 
-### Munster V La Rochelle on 2026-04-30
-
-
-Average Margin: Munster by 5.9
-
-<p float="left">
-<img src="plots/2026-04-30-Munster_V_LaRochelle_club_performances.png" width="32%" />
-<img src="plots/2026-04-30-Munster_V_LaRochelle_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-Munster_V_LaRochelle_club_spreads.png" width="32%" />
-</p>
-
 ## Final
 
-### Benetton Treviso V Ulster on 2026-05-21
+### Perpignan V Ulster on 2026-05-21
 
 
-Average Margin: Benetton Treviso by 0.3
+Average Margin: Perpignan by 7.5
 
 <p float="left">
-<img src="plots/2026-05-21-BenettonTreviso_V_Ulster_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-BenettonTreviso_V_Ulster_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-BenettonTreviso_V_Ulster_club_spreads.png" width="32%" />
+<img src="plots/2026-05-21-Perpignan_V_Ulster_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Perpignan_V_Ulster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Perpignan_V_Ulster_club_spreads.png" width="32%" />
 </p>
 
-### Connacht V Dragons on 2026-05-21
+### Perpignan V Exeter Chiefs on 2026-05-21
 
 
-Average Margin: Connacht by 4.6
+Average Margin: Exeter Chiefs by 4.3
 
 <p float="left">
-<img src="plots/2026-05-21-Connacht_V_Dragons_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Connacht_V_Dragons_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Connacht_V_Dragons_club_spreads.png" width="32%" />
+<img src="plots/2026-05-21-Perpignan_V_ExeterChiefs_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Perpignan_V_ExeterChiefs_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Perpignan_V_ExeterChiefs_club_spreads.png" width="32%" />
 </p>
 
-### Sharks V Munster on 2026-05-21
+### Stade Francais Paris V Munster on 2026-05-21
 
 
-Average Margin: Sharks by 0.2
+Average Margin: Stade Francais Paris by 0.8
 
 <p float="left">
-<img src="plots/2026-05-21-Sharks_V_Munster_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Sharks_V_Munster_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Sharks_V_Munster_club_spreads.png" width="32%" />
+<img src="plots/2026-05-21-StadeFrancaisParis_V_Munster_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-StadeFrancaisParis_V_Munster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-StadeFrancaisParis_V_Munster_club_spreads.png" width="32%" />
 </p>
 
-### Zebre V Montpellier Herault on 2026-05-21
+### Lions V Ulster on 2026-05-21
 
 
-Average Margin: Montpellier Herault by 9.8
+Average Margin: Lions by 1.5
 
 <p float="left">
-<img src="plots/2026-05-21-Zebre_V_MontpellierHerault_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Zebre_V_MontpellierHerault_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Zebre_V_MontpellierHerault_club_spreads.png" width="32%" />
+<img src="plots/2026-05-21-Lions_V_Ulster_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Lions_V_Ulster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Lions_V_Ulster_club_spreads.png" width="32%" />
 </p>
 
-### Sharks V Ospreys on 2026-05-21
+### Stade Francais Paris V Dragons on 2026-05-21
 
 
-Average Margin: Sharks by 9.2
+Average Margin: Dragons by 0.7
 
 <p float="left">
-<img src="plots/2026-05-21-Sharks_V_Ospreys_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Sharks_V_Ospreys_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Sharks_V_Ospreys_club_spreads.png" width="32%" />
+<img src="plots/2026-05-21-StadeFrancaisParis_V_Dragons_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-StadeFrancaisParis_V_Dragons_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-StadeFrancaisParis_V_Dragons_club_spreads.png" width="32%" />
+</p>
+
+### Lions V Munster on 2026-05-21
+
+
+Average Margin: Munster by 1.6
+
+<p float="left">
+<img src="plots/2026-05-21-Lions_V_Munster_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Lions_V_Munster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Lions_V_Munster_club_spreads.png" width="32%" />
+</p>
+
+### Lions V Exeter Chiefs on 2026-05-21
+
+
+Average Margin: Exeter Chiefs by 1.7
+
+<p float="left">
+<img src="plots/2026-05-21-Lions_V_ExeterChiefs_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Lions_V_ExeterChiefs_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Lions_V_ExeterChiefs_club_spreads.png" width="32%" />
+</p>
+
+### Pau V Exeter Chiefs on 2026-05-21
+
+
+Average Margin: Pau by 0.5
+
+<p float="left">
+<img src="plots/2026-05-21-Pau_V_ExeterChiefs_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Pau_V_ExeterChiefs_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Pau_V_ExeterChiefs_club_spreads.png" width="32%" />
 </p>
 
 ### Pau V Cardiff Rugby on 2026-05-21
 
 
-Average Margin: Pau by 1.7
+Average Margin: Pau by 6.6
 
 <p float="left">
 <img src="plots/2026-05-21-Pau_V_CardiffRugby_club_performances.png" width="32%" />
@@ -850,26 +883,213 @@ Average Margin: Pau by 1.7
 <img src="plots/2026-05-21-Pau_V_CardiffRugby_club_spreads.png" width="32%" />
 </p>
 
-### Stade Francais Paris V Ospreys on 2026-05-21
+### Pau V Dragons on 2026-05-21
 
 
-Average Margin: Stade Francais Paris by 6.4
+Average Margin: Pau by 6.0
 
 <p float="left">
-<img src="plots/2026-05-21-StadeFrancaisParis_V_Ospreys_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-StadeFrancaisParis_V_Ospreys_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-StadeFrancaisParis_V_Ospreys_club_spreads.png" width="32%" />
+<img src="plots/2026-05-21-Pau_V_Dragons_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Pau_V_Dragons_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Pau_V_Dragons_club_spreads.png" width="32%" />
 </p>
 
 ### Sharks V La Rochelle on 2026-05-21
 
 
-Average Margin: Sharks by 7.3
+Average Margin: Sharks by 5.7
 
 <p float="left">
 <img src="plots/2026-05-21-Sharks_V_LaRochelle_club_performances.png" width="32%" />
 <img src="plots/2026-05-21-Sharks_V_LaRochelle_club_resultbar.png" width="32%" />
 <img src="plots/2026-05-21-Sharks_V_LaRochelle_club_spreads.png" width="32%" />
+</p>
+
+### Stade Francais Paris V Cardiff Rugby on 2026-05-21
+
+
+Average Margin: Stade Francais Paris by 5.1
+
+<p float="left">
+<img src="plots/2026-05-21-StadeFrancaisParis_V_CardiffRugby_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-StadeFrancaisParis_V_CardiffRugby_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-StadeFrancaisParis_V_CardiffRugby_club_spreads.png" width="32%" />
+</p>
+
+### Perpignan V Ospreys on 2026-05-21
+
+
+Average Margin: Ospreys by 1.0
+
+<p float="left">
+<img src="plots/2026-05-21-Perpignan_V_Ospreys_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Perpignan_V_Ospreys_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Perpignan_V_Ospreys_club_spreads.png" width="32%" />
+</p>
+
+### Sharks V Ospreys on 2026-05-21
+
+
+Average Margin: Ospreys by 1.0
+
+<p float="left">
+<img src="plots/2026-05-21-Sharks_V_Ospreys_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Sharks_V_Ospreys_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Sharks_V_Ospreys_club_spreads.png" width="32%" />
+</p>
+
+### Connacht V Dragons on 2026-05-21
+
+
+Average Margin: Connacht by 4.8
+
+<p float="left">
+<img src="plots/2026-05-21-Connacht_V_Dragons_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Connacht_V_Dragons_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Connacht_V_Dragons_club_spreads.png" width="32%" />
+</p>
+
+### Zebre V Montpellier Herault on 2026-05-21
+
+
+Average Margin: Montpellier Herault by 1.8
+
+<p float="left">
+<img src="plots/2026-05-21-Zebre_V_MontpellierHerault_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Zebre_V_MontpellierHerault_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Zebre_V_MontpellierHerault_club_spreads.png" width="32%" />
+</p>
+
+### Sharks V Dragons on 2026-05-21
+
+
+Average Margin: Dragons by 2.5
+
+<p float="left">
+<img src="plots/2026-05-21-Sharks_V_Dragons_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Sharks_V_Dragons_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Sharks_V_Dragons_club_spreads.png" width="32%" />
+</p>
+
+### Connacht V La Rochelle on 2026-05-21
+
+
+Average Margin: Connacht by 5.6
+
+<p float="left">
+<img src="plots/2026-05-21-Connacht_V_LaRochelle_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Connacht_V_LaRochelle_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Connacht_V_LaRochelle_club_spreads.png" width="32%" />
+</p>
+
+### Zebre V Exeter Chiefs on 2026-05-21
+
+
+Average Margin: Exeter Chiefs by 6.7
+
+<p float="left">
+<img src="plots/2026-05-21-Zebre_V_ExeterChiefs_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Zebre_V_ExeterChiefs_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Zebre_V_ExeterChiefs_club_spreads.png" width="32%" />
+</p>
+
+### Perpignan V Munster on 2026-05-21
+
+
+Average Margin: Perpignan by 14.0
+
+<p float="left">
+<img src="plots/2026-05-21-Perpignan_V_Munster_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Perpignan_V_Munster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Perpignan_V_Munster_club_spreads.png" width="32%" />
+</p>
+
+### Perpignan V Dragons on 2026-05-21
+
+
+Average Margin: Perpignan by 6.0
+
+<p float="left">
+<img src="plots/2026-05-21-Perpignan_V_Dragons_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Perpignan_V_Dragons_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Perpignan_V_Dragons_club_spreads.png" width="32%" />
+</p>
+
+### Benetton Treviso V Dragons on 2026-05-21
+
+
+Average Margin: Benetton Treviso by 4.8
+
+<p float="left">
+<img src="plots/2026-05-21-BenettonTreviso_V_Dragons_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-BenettonTreviso_V_Dragons_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-BenettonTreviso_V_Dragons_club_spreads.png" width="32%" />
+</p>
+
+### Lions V Cardiff Rugby on 2026-05-21
+
+
+Average Margin: Lions by 2.3
+
+<p float="left">
+<img src="plots/2026-05-21-Lions_V_CardiffRugby_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Lions_V_CardiffRugby_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Lions_V_CardiffRugby_club_spreads.png" width="32%" />
+</p>
+
+### Connacht V Cardiff Rugby on 2026-05-21
+
+
+Average Margin: Connacht by 7.3
+
+<p float="left">
+<img src="plots/2026-05-21-Connacht_V_CardiffRugby_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Connacht_V_CardiffRugby_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Connacht_V_CardiffRugby_club_spreads.png" width="32%" />
+</p>
+
+### Connacht V Munster on 2026-05-21
+
+
+Average Margin: Connacht by 12.2
+
+<p float="left">
+<img src="plots/2026-05-21-Connacht_V_Munster_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Connacht_V_Munster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Connacht_V_Munster_club_spreads.png" width="32%" />
+</p>
+
+### Pau V Munster on 2026-05-21
+
+
+Average Margin: Munster by 6.3
+
+<p float="left">
+<img src="plots/2026-05-21-Pau_V_Munster_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Pau_V_Munster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Pau_V_Munster_club_spreads.png" width="32%" />
+</p>
+
+### Lions V La Rochelle on 2026-05-21
+
+
+Average Margin: Lions by 6.0
+
+<p float="left">
+<img src="plots/2026-05-21-Lions_V_LaRochelle_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Lions_V_LaRochelle_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Lions_V_LaRochelle_club_spreads.png" width="32%" />
+</p>
+
+### Perpignan V La Rochelle on 2026-05-21
+
+
+Average Margin: Perpignan by 4.0
+
+<p float="left">
+<img src="plots/2026-05-21-Perpignan_V_LaRochelle_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Perpignan_V_LaRochelle_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Perpignan_V_LaRochelle_club_spreads.png" width="32%" />
 </p>
 
 ### Lions V Dragons on 2026-05-21
@@ -883,175 +1103,10 @@ Average Margin: Lions by 7.5
 <img src="plots/2026-05-21-Lions_V_Dragons_club_spreads.png" width="32%" />
 </p>
 
-### Zebre V Ulster on 2026-05-21
-
-
-Average Margin: Zebre by 15.0
-
-<p float="left">
-<img src="plots/2026-05-21-Zebre_V_Ulster_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Zebre_V_Ulster_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Zebre_V_Ulster_club_spreads.png" width="32%" />
-</p>
-
-### Lions V Munster on 2026-05-21
-
-
-Average Margin: Munster by 6.0
-
-<p float="left">
-<img src="plots/2026-05-21-Lions_V_Munster_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Lions_V_Munster_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Lions_V_Munster_club_spreads.png" width="32%" />
-</p>
-
-### Connacht V Ospreys on 2026-05-21
-
-
-Average Margin: Ospreys by 8.7
-
-<p float="left">
-<img src="plots/2026-05-21-Connacht_V_Ospreys_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Connacht_V_Ospreys_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Connacht_V_Ospreys_club_spreads.png" width="32%" />
-</p>
-
-### Perpignan V La Rochelle on 2026-05-21
-
-
-Average Margin: La Rochelle by 6.7
-
-<p float="left">
-<img src="plots/2026-05-21-Perpignan_V_LaRochelle_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Perpignan_V_LaRochelle_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Perpignan_V_LaRochelle_club_spreads.png" width="32%" />
-</p>
-
-### Stade Francais Paris V Dragons on 2026-05-21
-
-
-Average Margin: Stade Francais Paris by 5.0
-
-<p float="left">
-<img src="plots/2026-05-21-StadeFrancaisParis_V_Dragons_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-StadeFrancaisParis_V_Dragons_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-StadeFrancaisParis_V_Dragons_club_spreads.png" width="32%" />
-</p>
-
-### Sharks V Dragons on 2026-05-21
-
-
-Average Margin: Sharks by 3.5
-
-<p float="left">
-<img src="plots/2026-05-21-Sharks_V_Dragons_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Sharks_V_Dragons_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Sharks_V_Dragons_club_spreads.png" width="32%" />
-</p>
-
-### Benetton Treviso V Munster on 2026-05-21
-
-
-Average Margin: Benetton Treviso by 2.8
-
-<p float="left">
-<img src="plots/2026-05-21-BenettonTreviso_V_Munster_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-BenettonTreviso_V_Munster_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-BenettonTreviso_V_Munster_club_spreads.png" width="32%" />
-</p>
-
-### Perpignan V Munster on 2026-05-21
-
-
-Average Margin: Munster by 5.0
-
-<p float="left">
-<img src="plots/2026-05-21-Perpignan_V_Munster_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Perpignan_V_Munster_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Perpignan_V_Munster_club_spreads.png" width="32%" />
-</p>
-
-### Lions V Cardiff Rugby on 2026-05-21
-
-
-Average Margin: Lions by 7.2
-
-<p float="left">
-<img src="plots/2026-05-21-Lions_V_CardiffRugby_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Lions_V_CardiffRugby_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Lions_V_CardiffRugby_club_spreads.png" width="32%" />
-</p>
-
-### Lions V La Rochelle on 2026-05-21
-
-
-Average Margin: La Rochelle by 2.4
-
-<p float="left">
-<img src="plots/2026-05-21-Lions_V_LaRochelle_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Lions_V_LaRochelle_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Lions_V_LaRochelle_club_spreads.png" width="32%" />
-</p>
-
-### Pau V Munster on 2026-05-21
-
-
-Average Margin: Pau by 2.0
-
-<p float="left">
-<img src="plots/2026-05-21-Pau_V_Munster_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Pau_V_Munster_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Pau_V_Munster_club_spreads.png" width="32%" />
-</p>
-
-### Perpignan V Ospreys on 2026-05-21
-
-
-Average Margin: Perpignan by 13.0
-
-<p float="left">
-<img src="plots/2026-05-21-Perpignan_V_Ospreys_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Perpignan_V_Ospreys_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Perpignan_V_Ospreys_club_spreads.png" width="32%" />
-</p>
-
-### Connacht V Munster on 2026-05-21
-
-
-Average Margin: Connacht by 0.1
-
-<p float="left">
-<img src="plots/2026-05-21-Connacht_V_Munster_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Connacht_V_Munster_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Connacht_V_Munster_club_spreads.png" width="32%" />
-</p>
-
-### Stade Francais Paris V Munster on 2026-05-21
-
-
-Average Margin: Munster by 0.9
-
-<p float="left">
-<img src="plots/2026-05-21-StadeFrancaisParis_V_Munster_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-StadeFrancaisParis_V_Munster_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-StadeFrancaisParis_V_Munster_club_spreads.png" width="32%" />
-</p>
-
-### Lions V Ospreys on 2026-05-21
-
-
-Average Margin: Lions by 3.7
-
-<p float="left">
-<img src="plots/2026-05-21-Lions_V_Ospreys_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Lions_V_Ospreys_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Lions_V_Ospreys_club_spreads.png" width="32%" />
-</p>
-
 ### Zebre V Dragons on 2026-05-21
 
 
-Average Margin: Dragons by 9.0
+Average Margin: Zebre by 1.5
 
 <p float="left">
 <img src="plots/2026-05-21-Zebre_V_Dragons_club_performances.png" width="32%" />
@@ -1059,54 +1114,10 @@ Average Margin: Dragons by 9.0
 <img src="plots/2026-05-21-Zebre_V_Dragons_club_spreads.png" width="32%" />
 </p>
 
-### Perpignan V Dragons on 2026-05-21
-
-
-Average Margin: Dragons by 0.0
-
-<p float="left">
-<img src="plots/2026-05-21-Perpignan_V_Dragons_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Perpignan_V_Dragons_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Perpignan_V_Dragons_club_spreads.png" width="32%" />
-</p>
-
-### Perpignan V Exeter Chiefs on 2026-05-21
-
-
-Average Margin: Exeter Chiefs by 6.0
-
-<p float="left">
-<img src="plots/2026-05-21-Perpignan_V_ExeterChiefs_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Perpignan_V_ExeterChiefs_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Perpignan_V_ExeterChiefs_club_spreads.png" width="32%" />
-</p>
-
-### Pau V Ospreys on 2026-05-21
-
-
-Average Margin: Pau by 3.7
-
-<p float="left">
-<img src="plots/2026-05-21-Pau_V_Ospreys_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Pau_V_Ospreys_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Pau_V_Ospreys_club_spreads.png" width="32%" />
-</p>
-
-### Sharks V Ulster on 2026-05-21
-
-
-Average Margin: Ulster by 3.4
-
-<p float="left">
-<img src="plots/2026-05-21-Sharks_V_Ulster_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Sharks_V_Ulster_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Sharks_V_Ulster_club_spreads.png" width="32%" />
-</p>
-
 ### Zebre V La Rochelle on 2026-05-21
 
 
-Average Margin: La Rochelle by 0.5
+Average Margin: Zebre by 3.0
 
 <p float="left">
 <img src="plots/2026-05-21-Zebre_V_LaRochelle_club_performances.png" width="32%" />
@@ -1117,7 +1128,7 @@ Average Margin: La Rochelle by 0.5
 ### Sharks V Exeter Chiefs on 2026-05-21
 
 
-Average Margin: Exeter Chiefs by 1.6
+Average Margin: Sharks by 1.9
 
 <p float="left">
 <img src="plots/2026-05-21-Sharks_V_ExeterChiefs_club_performances.png" width="32%" />
@@ -1125,21 +1136,10 @@ Average Margin: Exeter Chiefs by 1.6
 <img src="plots/2026-05-21-Sharks_V_ExeterChiefs_club_spreads.png" width="32%" />
 </p>
 
-### Benetton Treviso V Ospreys on 2026-05-21
-
-
-Average Margin: Benetton Treviso by 2.9
-
-<p float="left">
-<img src="plots/2026-05-21-BenettonTreviso_V_Ospreys_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-BenettonTreviso_V_Ospreys_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-BenettonTreviso_V_Ospreys_club_spreads.png" width="32%" />
-</p>
-
 ### Connacht V Ulster on 2026-05-21
 
 
-Average Margin: Connacht by 1.2
+Average Margin: Ulster by 0.8
 
 <p float="left">
 <img src="plots/2026-05-21-Connacht_V_Ulster_club_performances.png" width="32%" />
@@ -1150,7 +1150,7 @@ Average Margin: Connacht by 1.2
 ### Stade Francais Paris V Montpellier Herault on 2026-05-21
 
 
-Average Margin: Stade Francais Paris by 4.4
+Average Margin: Stade Francais Paris by 3.1
 
 <p float="left">
 <img src="plots/2026-05-21-StadeFrancaisParis_V_MontpellierHerault_club_performances.png" width="32%" />
@@ -1158,285 +1158,10 @@ Average Margin: Stade Francais Paris by 4.4
 <img src="plots/2026-05-21-StadeFrancaisParis_V_MontpellierHerault_club_spreads.png" width="32%" />
 </p>
 
-### Lions V Montpellier Herault on 2026-05-21
-
-
-Average Margin: Lions by 1.5
-
-<p float="left">
-<img src="plots/2026-05-21-Lions_V_MontpellierHerault_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Lions_V_MontpellierHerault_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Lions_V_MontpellierHerault_club_spreads.png" width="32%" />
-</p>
-
-### Benetton Treviso V Exeter Chiefs on 2026-05-21
-
-
-Average Margin: Exeter Chiefs by 1.4
-
-<p float="left">
-<img src="plots/2026-05-21-BenettonTreviso_V_ExeterChiefs_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-BenettonTreviso_V_ExeterChiefs_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-BenettonTreviso_V_ExeterChiefs_club_spreads.png" width="32%" />
-</p>
-
-### Benetton Treviso V Cardiff Rugby on 2026-05-21
-
-
-Average Margin: Benetton Treviso by 1.9
-
-<p float="left">
-<img src="plots/2026-05-21-BenettonTreviso_V_CardiffRugby_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-BenettonTreviso_V_CardiffRugby_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-BenettonTreviso_V_CardiffRugby_club_spreads.png" width="32%" />
-</p>
-
-### Zebre V Exeter Chiefs on 2026-05-21
-
-
-Average Margin: Exeter Chiefs by 4.0
-
-<p float="left">
-<img src="plots/2026-05-21-Zebre_V_ExeterChiefs_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Zebre_V_ExeterChiefs_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Zebre_V_ExeterChiefs_club_spreads.png" width="32%" />
-</p>
-
-### Benetton Treviso V Montpellier Herault on 2026-05-21
-
-
-Average Margin: Montpellier Herault by 0.8
-
-<p float="left">
-<img src="plots/2026-05-21-BenettonTreviso_V_MontpellierHerault_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-BenettonTreviso_V_MontpellierHerault_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-BenettonTreviso_V_MontpellierHerault_club_spreads.png" width="32%" />
-</p>
-
-### Pau V Montpellier Herault on 2026-05-21
-
-
-Average Margin: Pau by 3.7
-
-<p float="left">
-<img src="plots/2026-05-21-Pau_V_MontpellierHerault_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Pau_V_MontpellierHerault_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Pau_V_MontpellierHerault_club_spreads.png" width="32%" />
-</p>
-
-### Connacht V Montpellier Herault on 2026-05-21
-
-
-Average Margin: Connacht by 2.2
-
-<p float="left">
-<img src="plots/2026-05-21-Connacht_V_MontpellierHerault_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Connacht_V_MontpellierHerault_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Connacht_V_MontpellierHerault_club_spreads.png" width="32%" />
-</p>
-
-### Pau V Exeter Chiefs on 2026-05-21
-
-
-Average Margin: Pau by 1.0
-
-<p float="left">
-<img src="plots/2026-05-21-Pau_V_ExeterChiefs_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Pau_V_ExeterChiefs_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Pau_V_ExeterChiefs_club_spreads.png" width="32%" />
-</p>
-
-### Connacht V Exeter Chiefs on 2026-05-21
-
-
-Average Margin: Connacht by 1.7
-
-<p float="left">
-<img src="plots/2026-05-21-Connacht_V_ExeterChiefs_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Connacht_V_ExeterChiefs_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Connacht_V_ExeterChiefs_club_spreads.png" width="32%" />
-</p>
-
-### Perpignan V Ulster on 2026-05-21
-
-
-Average Margin: Perpignan by 6.5
-
-<p float="left">
-<img src="plots/2026-05-21-Perpignan_V_Ulster_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Perpignan_V_Ulster_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Perpignan_V_Ulster_club_spreads.png" width="32%" />
-</p>
-
-### Pau V Dragons on 2026-05-21
-
-
-Average Margin: Pau by 5.2
-
-<p float="left">
-<img src="plots/2026-05-21-Pau_V_Dragons_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Pau_V_Dragons_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Pau_V_Dragons_club_spreads.png" width="32%" />
-</p>
-
-### Sharks V Montpellier Herault on 2026-05-21
-
-
-Average Margin: Sharks by 2.2
-
-<p float="left">
-<img src="plots/2026-05-21-Sharks_V_MontpellierHerault_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Sharks_V_MontpellierHerault_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Sharks_V_MontpellierHerault_club_spreads.png" width="32%" />
-</p>
-
-### Benetton Treviso V Dragons on 2026-05-21
-
-
-Average Margin: Benetton Treviso by 5.0
-
-<p float="left">
-<img src="plots/2026-05-21-BenettonTreviso_V_Dragons_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-BenettonTreviso_V_Dragons_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-BenettonTreviso_V_Dragons_club_spreads.png" width="32%" />
-</p>
-
-### Sharks V Cardiff Rugby on 2026-05-21
-
-
-Average Margin: Sharks by 2.2
-
-<p float="left">
-<img src="plots/2026-05-21-Sharks_V_CardiffRugby_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Sharks_V_CardiffRugby_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Sharks_V_CardiffRugby_club_spreads.png" width="32%" />
-</p>
-
-### Perpignan V Montpellier Herault on 2026-05-21
-
-
-Average Margin: Perpignan by 0.2
-
-<p float="left">
-<img src="plots/2026-05-21-Perpignan_V_MontpellierHerault_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Perpignan_V_MontpellierHerault_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Perpignan_V_MontpellierHerault_club_spreads.png" width="32%" />
-</p>
-
-### Pau V La Rochelle on 2026-05-21
-
-
-Average Margin: Pau by 5.3
-
-<p float="left">
-<img src="plots/2026-05-21-Pau_V_LaRochelle_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Pau_V_LaRochelle_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Pau_V_LaRochelle_club_spreads.png" width="32%" />
-</p>
-
-### Lions V Ulster on 2026-05-21
-
-
-Average Margin: Ulster by 0.2
-
-<p float="left">
-<img src="plots/2026-05-21-Lions_V_Ulster_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Lions_V_Ulster_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Lions_V_Ulster_club_spreads.png" width="32%" />
-</p>
-
-### Connacht V La Rochelle on 2026-05-21
-
-
-Average Margin: Connacht by 3.6
-
-<p float="left">
-<img src="plots/2026-05-21-Connacht_V_LaRochelle_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Connacht_V_LaRochelle_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Connacht_V_LaRochelle_club_spreads.png" width="32%" />
-</p>
-
-### Connacht V Cardiff Rugby on 2026-05-21
-
-
-Average Margin: Connacht by 3.2
-
-<p float="left">
-<img src="plots/2026-05-21-Connacht_V_CardiffRugby_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Connacht_V_CardiffRugby_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Connacht_V_CardiffRugby_club_spreads.png" width="32%" />
-</p>
-
-### Stade Francais Paris V Exeter Chiefs on 2026-05-21
-
-
-Average Margin: Stade Francais Paris by 3.5
-
-<p float="left">
-<img src="plots/2026-05-21-StadeFrancaisParis_V_ExeterChiefs_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-StadeFrancaisParis_V_ExeterChiefs_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-StadeFrancaisParis_V_ExeterChiefs_club_spreads.png" width="32%" />
-</p>
-
-### Lions V Exeter Chiefs on 2026-05-21
-
-
-Average Margin: Lions by 0.4
-
-<p float="left">
-<img src="plots/2026-05-21-Lions_V_ExeterChiefs_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Lions_V_ExeterChiefs_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Lions_V_ExeterChiefs_club_spreads.png" width="32%" />
-</p>
-
-### Stade Francais Paris V Cardiff Rugby on 2026-05-21
-
-
-Average Margin: Stade Francais Paris by 7.0
-
-<p float="left">
-<img src="plots/2026-05-21-StadeFrancaisParis_V_CardiffRugby_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-StadeFrancaisParis_V_CardiffRugby_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-StadeFrancaisParis_V_CardiffRugby_club_spreads.png" width="32%" />
-</p>
-
-### Stade Francais Paris V Ulster on 2026-05-21
-
-
-Average Margin: Stade Francais Paris by 3.0
-
-<p float="left">
-<img src="plots/2026-05-21-StadeFrancaisParis_V_Ulster_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-StadeFrancaisParis_V_Ulster_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-StadeFrancaisParis_V_Ulster_club_spreads.png" width="32%" />
-</p>
-
-### Stade Francais Paris V La Rochelle on 2026-05-21
-
-
-Average Margin: Stade Francais Paris by 5.6
-
-<p float="left">
-<img src="plots/2026-05-21-StadeFrancaisParis_V_LaRochelle_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-StadeFrancaisParis_V_LaRochelle_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-StadeFrancaisParis_V_LaRochelle_club_spreads.png" width="32%" />
-</p>
-
-### Pau V Ulster on 2026-05-21
-
-
-Average Margin: Pau by 0.1
-
-<p float="left">
-<img src="plots/2026-05-21-Pau_V_Ulster_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Pau_V_Ulster_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Pau_V_Ulster_club_spreads.png" width="32%" />
-</p>
-
 ### Benetton Treviso V La Rochelle on 2026-05-21
 
 
-Average Margin: Benetton Treviso by 8.1
+Average Margin: La Rochelle by 0.0
 
 <p float="left">
 <img src="plots/2026-05-21-BenettonTreviso_V_LaRochelle_club_performances.png" width="32%" />
@@ -1444,10 +1169,307 @@ Average Margin: Benetton Treviso by 8.1
 <img src="plots/2026-05-21-BenettonTreviso_V_LaRochelle_club_spreads.png" width="32%" />
 </p>
 
+### Sharks V Cardiff Rugby on 2026-05-21
+
+
+Average Margin: Sharks by 4.8
+
+<p float="left">
+<img src="plots/2026-05-21-Sharks_V_CardiffRugby_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Sharks_V_CardiffRugby_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Sharks_V_CardiffRugby_club_spreads.png" width="32%" />
+</p>
+
+### Benetton Treviso V Exeter Chiefs on 2026-05-21
+
+
+Average Margin: Benetton Treviso by 0.4
+
+<p float="left">
+<img src="plots/2026-05-21-BenettonTreviso_V_ExeterChiefs_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-BenettonTreviso_V_ExeterChiefs_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-BenettonTreviso_V_ExeterChiefs_club_spreads.png" width="32%" />
+</p>
+
+### Connacht V Ospreys on 2026-05-21
+
+
+Average Margin: Connacht by 6.8
+
+<p float="left">
+<img src="plots/2026-05-21-Connacht_V_Ospreys_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Connacht_V_Ospreys_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Connacht_V_Ospreys_club_spreads.png" width="32%" />
+</p>
+
+### Connacht V Exeter Chiefs on 2026-05-21
+
+
+Average Margin: Connacht by 2.3
+
+<p float="left">
+<img src="plots/2026-05-21-Connacht_V_ExeterChiefs_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Connacht_V_ExeterChiefs_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Connacht_V_ExeterChiefs_club_spreads.png" width="32%" />
+</p>
+
+### Benetton Treviso V Montpellier Herault on 2026-05-21
+
+
+Average Margin: Benetton Treviso by 0.1
+
+<p float="left">
+<img src="plots/2026-05-21-BenettonTreviso_V_MontpellierHerault_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-BenettonTreviso_V_MontpellierHerault_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-BenettonTreviso_V_MontpellierHerault_club_spreads.png" width="32%" />
+</p>
+
+### Sharks V Montpellier Herault on 2026-05-21
+
+
+Average Margin: Montpellier Herault by 0.7
+
+<p float="left">
+<img src="plots/2026-05-21-Sharks_V_MontpellierHerault_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Sharks_V_MontpellierHerault_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Sharks_V_MontpellierHerault_club_spreads.png" width="32%" />
+</p>
+
+### Connacht V Montpellier Herault on 2026-05-21
+
+
+Average Margin: Connacht by 1.4
+
+<p float="left">
+<img src="plots/2026-05-21-Connacht_V_MontpellierHerault_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Connacht_V_MontpellierHerault_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Connacht_V_MontpellierHerault_club_spreads.png" width="32%" />
+</p>
+
+### Pau V La Rochelle on 2026-05-21
+
+
+Average Margin: La Rochelle by 2.0
+
+<p float="left">
+<img src="plots/2026-05-21-Pau_V_LaRochelle_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Pau_V_LaRochelle_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Pau_V_LaRochelle_club_spreads.png" width="32%" />
+</p>
+
+### Perpignan V Montpellier Herault on 2026-05-21
+
+
+Average Margin: Montpellier Herault by 3.2
+
+<p float="left">
+<img src="plots/2026-05-21-Perpignan_V_MontpellierHerault_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Perpignan_V_MontpellierHerault_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Perpignan_V_MontpellierHerault_club_spreads.png" width="32%" />
+</p>
+
+### Pau V Ulster on 2026-05-21
+
+
+Average Margin: Pau by 3.6
+
+<p float="left">
+<img src="plots/2026-05-21-Pau_V_Ulster_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Pau_V_Ulster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Pau_V_Ulster_club_spreads.png" width="32%" />
+</p>
+
+### Lions V Montpellier Herault on 2026-05-21
+
+
+Average Margin: Lions by 0.6
+
+<p float="left">
+<img src="plots/2026-05-21-Lions_V_MontpellierHerault_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Lions_V_MontpellierHerault_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Lions_V_MontpellierHerault_club_spreads.png" width="32%" />
+</p>
+
+### Benetton Treviso V Ospreys on 2026-05-21
+
+
+Average Margin: Benetton Treviso by 3.9
+
+<p float="left">
+<img src="plots/2026-05-21-BenettonTreviso_V_Ospreys_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-BenettonTreviso_V_Ospreys_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-BenettonTreviso_V_Ospreys_club_spreads.png" width="32%" />
+</p>
+
+### Lions V Ospreys on 2026-05-21
+
+
+Average Margin: Lions by 7.6
+
+<p float="left">
+<img src="plots/2026-05-21-Lions_V_Ospreys_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Lions_V_Ospreys_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Lions_V_Ospreys_club_spreads.png" width="32%" />
+</p>
+
+### Pau V Montpellier Herault on 2026-05-21
+
+
+Average Margin: Pau by 2.6
+
+<p float="left">
+<img src="plots/2026-05-21-Pau_V_MontpellierHerault_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Pau_V_MontpellierHerault_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Pau_V_MontpellierHerault_club_spreads.png" width="32%" />
+</p>
+
+### Sharks V Ulster on 2026-05-21
+
+
+Average Margin: Sharks by 3.4
+
+<p float="left">
+<img src="plots/2026-05-21-Sharks_V_Ulster_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Sharks_V_Ulster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Sharks_V_Ulster_club_spreads.png" width="32%" />
+</p>
+
+### Benetton Treviso V Munster on 2026-05-21
+
+
+Average Margin: Benetton Treviso by 2.7
+
+<p float="left">
+<img src="plots/2026-05-21-BenettonTreviso_V_Munster_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-BenettonTreviso_V_Munster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-BenettonTreviso_V_Munster_club_spreads.png" width="32%" />
+</p>
+
+### Zebre V Ulster on 2026-05-21
+
+
+Average Margin: Zebre by 2.2
+
+<p float="left">
+<img src="plots/2026-05-21-Zebre_V_Ulster_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Zebre_V_Ulster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Zebre_V_Ulster_club_spreads.png" width="32%" />
+</p>
+
+### Pau V Ospreys on 2026-05-21
+
+
+Average Margin: Pau by 5.5
+
+<p float="left">
+<img src="plots/2026-05-21-Pau_V_Ospreys_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Pau_V_Ospreys_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Pau_V_Ospreys_club_spreads.png" width="32%" />
+</p>
+
+### Benetton Treviso V Cardiff Rugby on 2026-05-21
+
+
+Average Margin: Benetton Treviso by 2.6
+
+<p float="left">
+<img src="plots/2026-05-21-BenettonTreviso_V_CardiffRugby_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-BenettonTreviso_V_CardiffRugby_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-BenettonTreviso_V_CardiffRugby_club_spreads.png" width="32%" />
+</p>
+
+### Stade Francais Paris V Exeter Chiefs on 2026-05-21
+
+
+Average Margin: Stade Francais Paris by 1.4
+
+<p float="left">
+<img src="plots/2026-05-21-StadeFrancaisParis_V_ExeterChiefs_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-StadeFrancaisParis_V_ExeterChiefs_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-StadeFrancaisParis_V_ExeterChiefs_club_spreads.png" width="32%" />
+</p>
+
+### Sharks V Munster on 2026-05-21
+
+
+Average Margin: Sharks by 4.0
+
+<p float="left">
+<img src="plots/2026-05-21-Sharks_V_Munster_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Sharks_V_Munster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Sharks_V_Munster_club_spreads.png" width="32%" />
+</p>
+
+### Zebre V Munster on 2026-05-21
+
+
+Average Margin: Zebre by 9.0
+
+<p float="left">
+<img src="plots/2026-05-21-Zebre_V_Munster_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Zebre_V_Munster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Zebre_V_Munster_club_spreads.png" width="32%" />
+</p>
+
+### Stade Francais Paris V Ulster on 2026-05-21
+
+
+Average Margin: Stade Francais Paris by 4.4
+
+<p float="left">
+<img src="plots/2026-05-21-StadeFrancaisParis_V_Ulster_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-StadeFrancaisParis_V_Ulster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-StadeFrancaisParis_V_Ulster_club_spreads.png" width="32%" />
+</p>
+
+### Stade Francais Paris V Ospreys on 2026-05-21
+
+
+Average Margin: Stade Francais Paris by 12.3
+
+<p float="left">
+<img src="plots/2026-05-21-StadeFrancaisParis_V_Ospreys_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-StadeFrancaisParis_V_Ospreys_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-StadeFrancaisParis_V_Ospreys_club_spreads.png" width="32%" />
+</p>
+
+### Benetton Treviso V Ulster on 2026-05-21
+
+
+Average Margin: Benetton Treviso by 0.3
+
+<p float="left">
+<img src="plots/2026-05-21-BenettonTreviso_V_Ulster_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-BenettonTreviso_V_Ulster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-BenettonTreviso_V_Ulster_club_spreads.png" width="32%" />
+</p>
+
+### Stade Francais Paris V La Rochelle on 2026-05-21
+
+
+Average Margin: Stade Francais Paris by 0.7
+
+<p float="left">
+<img src="plots/2026-05-21-StadeFrancaisParis_V_LaRochelle_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-StadeFrancaisParis_V_LaRochelle_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-StadeFrancaisParis_V_LaRochelle_club_spreads.png" width="32%" />
+</p>
+
+### Zebre V Cardiff Rugby on 2026-05-21
+
+
+Average Margin: Zebre by 2.3
+
+<p float="left">
+<img src="plots/2026-05-21-Zebre_V_CardiffRugby_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Zebre_V_CardiffRugby_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Zebre_V_CardiffRugby_club_spreads.png" width="32%" />
+</p>
+
 ### Perpignan V Cardiff Rugby on 2026-05-21
 
 
-Average Margin: Cardiff Rugby by 16.0
+Average Margin: Cardiff Rugby by 28.0
 
 <p float="left">
 <img src="plots/2026-05-21-Perpignan_V_CardiffRugby_club_performances.png" width="32%" />

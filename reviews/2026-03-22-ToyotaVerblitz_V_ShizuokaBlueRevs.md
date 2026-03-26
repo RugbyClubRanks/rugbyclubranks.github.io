@@ -9,7 +9,7 @@ categories: rugby "Japan Rugby League One 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Toyota Verblitz to win by 2.53, and Shizuoka Blue Revs won by 10.0. That's an absolute error of 12.5 for the margin of victory, while my average absolute error has been 13.4 over the past six months. This prediction was more accurate than 41.5% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Toyota Verblitz to win by 1.91, and Shizuoka Blue Revs won by 10.0. That's an absolute error of 11.9 for the margin of victory, while my average absolute error has been 13.4 over the past six months. This prediction was more accurate than 43.5% of my recent predictions.
 
 For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 58.0. That's an absolute error of 6.5 compared to a six month average of 13.3. This prediction was more accurate than 67.7% of my recent predictions.
 ## Projected Performances - Club Model
