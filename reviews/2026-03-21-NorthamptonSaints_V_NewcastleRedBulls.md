@@ -9,9 +9,9 @@ categories: rugby "Gallagher Premiership 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Northampton Saints to win by 13.1, and Northampton Saints won by 1.0. That's an absolute error of 12.1 for the margin of victory, while my average absolute error has been 13.4 over the past six months. This prediction was more accurate than 42.8% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Northampton Saints to win by 13.92, and Northampton Saints won by 1.0. That's an absolute error of 12.9 for the margin of victory, while my average absolute error has been 13.5 over the past six months. This prediction was more accurate than 40.5% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 55.0. That's an absolute error of 4.5 compared to a six month average of 13.3. This prediction was more accurate than 79.0% of my recent predictions.
+For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 55.0. That's an absolute error of 4.5 compared to a six month average of 13.2. This prediction was more accurate than 78.8% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 50.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Northampton Saints to win by 9.7,  and Northampton Saints won by 1.0. That's an absolute error of 8.7 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 47.0% of my recent predictions.
+With the player model, I predicted Northampton Saints to win by 9.44,  and Northampton Saints won by 1.0. That's an absolute error of 8.4 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 48.1% of my recent predictions.
 ## Projected Performances - Player Model
 
 

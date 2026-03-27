@@ -9,9 +9,9 @@ categories: rugby "United Rugby Championship 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Stormers to win by 5.68, and Stormers won by 8.0. That's an absolute error of 2.3 for the margin of victory, while my average absolute error has been 13.4 over the past six months. This prediction was more accurate than 87.5% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Stormers to win by 6.59, and Stormers won by 8.0. That's an absolute error of 1.4 for the margin of victory, while my average absolute error has been 13.5 over the past six months. This prediction was more accurate than 91.6% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 44.5 and we have an actual total of 50.0. That's an absolute error of 5.5 compared to a six month average of 13.3. This prediction was more accurate than 73.4% of my recent predictions.
+For the Over/Under model, I predicted a total of 44.5 and we have an actual total of 50.0. That's an absolute error of 5.5 compared to a six month average of 13.2. This prediction was more accurate than 73.4% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 44.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Stormers to win by 9.27,  and Stormers won by 8.0. That's an absolute error of 1.3 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 78.5% of my recent predictions.
+With the player model, I predicted Stormers to win by 9.63,  and Stormers won by 8.0. That's an absolute error of 1.6 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 77.3% of my recent predictions.
 ## Projected Performances - Player Model
 
 

@@ -9,9 +9,9 @@ categories: rugby "RFU Championship 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Hartpury College to win by 6.27, and Ampthill won by 5.0. That's an absolute error of 11.3 for the margin of victory, while my average absolute error has been 13.4 over the past six months. This prediction was more accurate than 45.7% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Hartpury College to win by 6.14, and Ampthill won by 5.0. That's an absolute error of 11.1 for the margin of victory, while my average absolute error has been 13.5 over the past six months. This prediction was more accurate than 46.2% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 47.5 and we have an actual total of 59.0. That's an absolute error of 11.5 compared to a six month average of 13.3. This prediction was more accurate than 48.5% of my recent predictions.
+For the Over/Under model, I predicted a total of 47.5 and we have an actual total of 59.0. That's an absolute error of 11.5 compared to a six month average of 13.2. This prediction was more accurate than 48.5% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 47.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Hartpury College to win by 5.39,  and Ampthill won by 5.0. That's an absolute error of 10.4 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 40.2% of my recent predictions.
+With the player model, I predicted Hartpury College to win by 5.28,  and Ampthill won by 5.0. That's an absolute error of 10.3 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 40.7% of my recent predictions.
 ## Projected Performances - Player Model
 
 
