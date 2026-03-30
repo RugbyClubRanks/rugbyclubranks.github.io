@@ -1,0 +1,36 @@
+---
+layout: page
+title: Toulon V Stormers on 2026/04/04
+date: 2026-04-04
+categories: rugby "European Rugby Champions Cup 25/26" match review
+---
+# Toulon V Stormers on 2026/04/04
+
+# Club Level Predictions
+
+
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Toulon to win by 1.07.
+
+Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 24 to 23
+
+Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
+## Projected Performances - Club Model
+
+
+<p float="left">
+<img src="../comp_files/plots/2026-04-04-Toulon_V_Stormers_club_performances.png" width="99%" />
+</p>
+
+## Projected Spreads - Club Model
+
+
+<p float="left">
+<img src="../comp_files/plots/2026-04-04-Toulon_V_Stormers_club_spreads.png" width="99%" />
+</p>
+
+## Projected Results - Club Model
+
+
+<p float="left">
+<img src="../comp_files/plots/2026-04-04-Toulon_V_Stormers_club_resultbar.png" width="99%" />
+</p>

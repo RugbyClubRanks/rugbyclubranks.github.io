@@ -10,228 +10,258 @@ key: page-recents
 
 [In depth model review and projections for Gallagher Premiership 25/26](comp_files/Gallagher_Premiership_2526)
 
-Competition Accuracy: 46 of 55 (83.64%)
+Competition Accuracy: 48 of 60 (80.0%)
 
-Competition Error: 14.75 points per match
+Competition Error: 14.27 points per match
 
-Last Two Week Accuracy: 4 of 5 (80.0%)
+Last Two Week Accuracy: 6 of 10 (60.0%)
 
-Last Two Week Error: 15.81 points per match
+Last Two Week Error: 12.43 points per match
 
-[2026/03/20 - Bath Rugby V Saracens, 62.0 to 15.0](reviews/2026-03-20-BathRugby_V_Saracens)
+[2026/03/27 - Newcastle Red Bulls V Exeter Chiefs, 14.0 to 38.0](reviews/2026-03-27-NewcastleRedBulls_V_ExeterChiefs)
 
-[2026/03/21 - Exeter Chiefs V Sale Sharks, 26.0 to 14.0](reviews/2026-03-21-ExeterChiefs_V_SaleSharks)
+[2026/03/28 - Bristol Rugby V Harlequins, 14.0 to 18.0](reviews/2026-03-28-BristolRugby_V_Harlequins)
 
-[2026/03/22 - Leicester Tigers V Bristol Rugby, 33.0 to 19.0](reviews/2026-03-22-LeicesterTigers_V_BristolRugby)
+[2026/03/29 - Sale Sharks V Bath Rugby, 26.0 to 31.0](reviews/2026-03-29-SaleSharks_V_BathRugby)
 
-[2026/03/21 - Northampton Saints V Newcastle Red Bulls, 28.0 to 27.0](reviews/2026-03-21-NorthamptonSaints_V_NewcastleRedBulls)
+[2026/03/28 - Saracens V Northampton Saints, 17.0 to 21.0](reviews/2026-03-28-Saracens_V_NorthamptonSaints)
 
-[2026/03/21 - Harlequins V Gloucester Rugby, 19.0 to 26.0](reviews/2026-03-21-Harlequins_V_GloucesterRugby)
-## Super Rugby Pacific
-
-
-[In depth model review and projections for Super Rugby Pacific 2026](comp_files/Super_Rugby_Pacific_2026)
-
-Competition Accuracy: 21 of 32 (65.62%)
-
-Competition Error: 15.66 points per match
-
-Last Two Week Accuracy: 5 of 7 (71.43%)
-
-Last Two Week Error: 18.61 points per match
-
-[2026/03/27 - Moana Pasifika V Highlanders, 19.0 to 39.0](reviews/2026-03-27-MoanaPasifika_V_Highlanders)
-
-[2026/03/27 - Brumbies V New South Wales Waratahs, 28.0 to 30.0](reviews/2026-03-27-Brumbies_V_NewSouthWalesWaratahs)
-
-[2026/03/21 - New South Wales Waratahs V Blues, 20.0 to 35.0](reviews/2026-03-21-NewSouthWalesWaratahs_V_Blues)
-
-[2026/03/21 - Moana Pasifika V Crusaders, 21.0 to 50.0](reviews/2026-03-21-MoanaPasifika_V_Crusaders)
-
-[2026/03/20 - Highlanders V Hurricanes, 7.0 to 50.0](reviews/2026-03-20-Highlanders_V_Hurricanes)
-
-[2026/03/20 - Fijian Drua V Queensland Reds, 6.0 to 21.0](reviews/2026-03-20-FijianDrua_V_QueenslandReds)
-
-[2026/03/20 - Brumbies V Chiefs, 33.0 to 24.0](reviews/2026-03-20-Brumbies_V_Chiefs)
+[2026/03/28 - Gloucester Rugby V Leicester Tigers, 17.0 to 36.0](reviews/2026-03-28-GloucesterRugby_V_LeicesterTigers)
 ## United Rugby Championship
 
 
 [In depth model review and projections for United Rugby Championship 25/26](comp_files/United_Rugby_Championship_2526)
 
-Competition Accuracy: 65 of 104 (62.5%)
+Competition Accuracy: 73 of 112 (65.18%)
 
-Competition Error: 12.25 points per match
+Competition Error: 11.71 points per match
 
-Last Two Week Accuracy: 7 of 8 (87.5%)
+Last Two Week Accuracy: 15 of 16 (93.75%)
 
-Last Two Week Error: 18.49 points per match
+Last Two Week Error: 11.65 points per match
 
-[2026/03/21 - Sharks V Munster, 45.0 to 0.0](reviews/2026-03-21-Sharks_V_Munster)
+[2026/03/28 - Stormers V Edinburgh, 33.0 to 14.0](reviews/2026-03-28-Stormers_V_Edinburgh)
 
-[2026/03/21 - Lions V Edinburgh, 54.0 to 17.0](reviews/2026-03-21-Lions_V_Edinburgh)
+[2026/03/28 - Lions V Dragons, 42.0 to 26.0](reviews/2026-03-28-Lions_V_Dragons)
 
-[2026/03/21 - Glasgow Warriors V Leinster, 38.0 to 17.0](reviews/2026-03-21-GlasgowWarriors_V_Leinster)
+[2026/03/28 - Connacht V Ospreys, 21.0 to 14.0](reviews/2026-03-28-Connacht_V_Ospreys)
 
-[2026/03/21 - Benetton Treviso V Ospreys, 31.0 to 19.0](reviews/2026-03-21-BenettonTreviso_V_Ospreys)
+[2026/03/28 - Bulls V Munster, 34.0 to 31.0](reviews/2026-03-28-Bulls_V_Munster)
 
-[2026/03/20 - Ulster V Connacht, 19.0 to 26.0](reviews/2026-03-20-Ulster_V_Connacht)
+[2026/03/27 - Sharks V Cardiff Rugby, 21.0 to 15.0](reviews/2026-03-27-Sharks_V_CardiffRugby)
 
-[2026/03/20 - Scarlets V Zebre, 36.0 to 17.0](reviews/2026-03-20-Scarlets_V_Zebre)
+[2026/03/27 - Leinster V Scarlets, 36.0 to 19.0](reviews/2026-03-27-Leinster_V_Scarlets)
 
-[2026/03/20 - Bulls V Cardiff Rugby, 40.0 to 7.0](reviews/2026-03-20-Bulls_V_CardiffRugby)
+[2026/03/27 - Glasgow Warriors V Benetton Treviso, 31.0 to 10.0](reviews/2026-03-27-GlasgowWarriors_V_BenettonTreviso)
 
-[2026/03/21 - Stormers V Dragons, 29.0 to 21.0](reviews/2026-03-21-Stormers_V_Dragons)
+[2026/03/28 - Zebre V Ulster, 12.0 to 28.0](reviews/2026-03-28-Zebre_V_Ulster)
 ## Top 14
 
 
 [In depth model review and projections for Top 14 25/26](comp_files/Top_14_2526)
 
-Competition Accuracy: 102 of 133 (76.69%)
+Competition Accuracy: 109 of 140 (77.86%)
 
-Competition Error: 14.03 points per match
+Competition Error: 13.87 points per match
 
-Last Two Week Accuracy: 4 of 7 (57.14%)
+Last Two Week Accuracy: 11 of 14 (78.57%)
 
-Last Two Week Error: 17.12 points per match
+Last Two Week Error: 14.03 points per match
 
-[2026/03/22 - Bordeaux Begles V Stade Toulousain, 44.0 to 20.0](reviews/2026-03-22-BordeauxBegles_V_StadeToulousain)
+[2026/03/29 - Stade Francais Paris V Clermont Auvergne, 64.0 to 20.0](reviews/2026-03-29-StadeFrancaisParis_V_ClermontAuvergne)
 
-[2026/03/21 - US Montauban V Bayonne, 26.0 to 60.0](reviews/2026-03-21-USMontauban_V_Bayonne)
+[2026/03/28 - Stade Toulousain V Montpellier Herault, 45.0 to 29.0](reviews/2026-03-28-StadeToulousain_V_MontpellierHerault)
 
-[2026/03/21 - Toulon V Stade Francais Paris, 27.0 to 46.0](reviews/2026-03-21-Toulon_V_StadeFrancaisParis)
+[2026/03/28 - Perpignan V Toulon, 36.0 to 20.0](reviews/2026-03-28-Perpignan_V_Toulon)
 
-[2026/03/21 - Racing 92 V Castres Olympique, 52.0 to 21.0](reviews/2026-03-21-Racing92_V_CastresOlympique)
+[2026/03/28 - Pau V Racing 92, 27.0 to 17.0](reviews/2026-03-28-Pau_V_Racing92)
 
-[2026/03/21 - Perpignan V Lyon, 28.0 to 32.0](reviews/2026-03-21-Perpignan_V_Lyon)
+[2026/03/28 - Lyon V Bordeaux Begles, 17.0 to 21.0](reviews/2026-03-28-Lyon_V_BordeauxBegles)
 
-[2026/03/21 - La Rochelle V Pau, 20.0 to 6.0](reviews/2026-03-21-LaRochelle_V_Pau)
+[2026/03/28 - Castres Olympique V US Montauban, 49.0 to 17.0](reviews/2026-03-28-CastresOlympique_V_USMontauban)
 
-[2026/03/21 - Clermont Auvergne V Montpellier Herault, 17.0 to 20.0](reviews/2026-03-21-ClermontAuvergne_V_MontpellierHerault)
+[2026/03/28 - Bayonne V La Rochelle, 26.0 to 15.0](reviews/2026-03-28-Bayonne_V_LaRochelle)
+## Super Rugby Pacific
+
+
+[In depth model review and projections for Super Rugby Pacific 2026](comp_files/Super_Rugby_Pacific_2026)
+
+Competition Accuracy: 24 of 35 (68.57%)
+
+Competition Error: 15.24 points per match
+
+Last Two Week Accuracy: 8 of 10 (80.0%)
+
+Last Two Week Error: 16.27 points per match
+
+[2026/03/28 - Western Force V Chiefs, 14.0 to 24.0](reviews/2026-03-28-WesternForce_V_Chiefs)
+
+[2026/03/28 - Blues V Fijian Drua, 40.0 to 15.0](reviews/2026-03-28-Blues_V_FijianDrua)
+
+[2026/03/27 - Moana Pasifika V Highlanders, 19.0 to 39.0](reviews/2026-03-27-MoanaPasifika_V_Highlanders)
+
+[2026/03/27 - Hurricanes V Queensland Reds, 52.0 to 14.0](reviews/2026-03-27-Hurricanes_V_QueenslandReds)
+
+[2026/03/27 - Brumbies V New South Wales Waratahs, 28.0 to 30.0](reviews/2026-03-27-Brumbies_V_NewSouthWalesWaratahs)
+## Major League Rugby
+
+
+[In depth model review and projections for Major League Rugby 2026](comp_files/Major_League_Rugby_2026)
+
+Competition Accuracy: 0 of 1 (0.0%)
+
+Competition Error: 43.31 points per match
+
+Last Two Week Accuracy: 0 of 1 (0.0%)
+
+Last Two Week Error: 43.31 points per match
+
+[2026/03/28 - California Legion V Anthem RC, 26.0 to 39.0](reviews/2026-03-28-CaliforniaLegion_V_AnthemRC)
 ## Japan Rugby League One
 
 
 [In depth model review and projections for Japan Rugby League One 25/26](comp_files/Japan_Rugby_League_One_2526)
 
-Competition Accuracy: 47 of 71 (66.2%)
+Competition Accuracy: 52 of 77 (67.53%)
 
-Competition Error: 14.09 points per match
+Competition Error: 14.05 points per match
 
-Last Two Week Accuracy: 2 of 6 (33.33%)
+Last Two Week Accuracy: 7 of 12 (58.33%)
 
-Last Two Week Error: 14.73 points per match
+Last Two Week Error: 14.11 points per match
 
-[2026/03/22 - Toyota Verblitz V Shizuoka Blue Revs, 24.0 to 34.0](reviews/2026-03-22-ToyotaVerblitz_V_ShizuokaBlueRevs)
+[2026/03/29 - Urayasu D-Rocks V Mie Honda Heat, 17.0 to 43.0](reviews/2026-03-29-UrayasuD-Rocks_V_MieHondaHeat)
 
-[2026/03/22 - Toshiba Brave Lupus V Mie Honda Heat, 22.0 to 24.0](reviews/2026-03-22-ToshibaBraveLupus_V_MieHondaHeat)
+[2026/03/29 - Black Rams Tokyo V Mitsubishi Dynaboars, 33.0 to 7.0](reviews/2026-03-29-BlackRamsTokyo_V_MitsubishiDynaboars)
 
-[2026/03/21 - Urayasu D-Rocks V Kubota Spears, 35.0 to 59.0](reviews/2026-03-21-UrayasuD-Rocks_V_KubotaSpears)
+[2026/03/28 - Yokohama Canon Eagles V Toyota Verblitz, 27.0 to 33.0](reviews/2026-03-28-YokohamaCanonEagles_V_ToyotaVerblitz)
 
-[2026/03/21 - Saitama Wild Knights V Black Rams Tokyo, 31.0 to 7.0](reviews/2026-03-21-SaitamaWildKnights_V_BlackRamsTokyo)
+[2026/03/28 - Tokyo Sungoliath V Saitama Wild Knights, 34.0 to 36.0](reviews/2026-03-28-TokyoSungoliath_V_SaitamaWildKnights)
 
-[2026/03/20 - Mitsubishi Dynaboars V Tokyo Sungoliath, 35.0 to 32.0](reviews/2026-03-20-MitsubishiDynaboars_V_TokyoSungoliath)
+[2026/03/28 - Shizuoka Blue Revs V Kobelco Kobe Steelers, 20.0 to 41.0](reviews/2026-03-28-ShizuokaBlueRevs_V_KobelcoKobeSteelers)
 
-[2026/03/20 - Kobelco Kobe Steelers V Yokohama Canon Eagles, 29.0 to 38.0](reviews/2026-03-20-KobelcoKobeSteelers_V_YokohamaCanonEagles)
+[2026/03/27 - Kubota Spears V Toshiba Brave Lupus, 51.0 to 7.0](reviews/2026-03-27-KubotaSpears_V_ToshibaBraveLupus)
 # Domestic Competitions
 
-## Japan Rugby League One D3
+## Japan Rugby League One D2
 
 
-[In depth model review and projections for Japan Rugby League One D3 25/26](comp_files/Japan_Rugby_League_One_D3_2526)
+[In depth model review and projections for Japan Rugby League One D2 25/26](comp_files/Japan_Rugby_League_One_D2_2526)
 
-Competition Accuracy: 17 of 25 (68.0%)
+Competition Accuracy: 18 of 27 (66.67%)
 
-Competition Error: 16.96 points per match
+Competition Error: 15.56 points per match
 
-Last Two Week Accuracy: 0 of 1 (0.0%)
+Last Two Week Accuracy: 2 of 4 (50.0%)
 
-Last Two Week Error: 23.26 points per match
+Last Two Week Error: 11.17 points per match
 
-[2026/03/20 - Kurita Water Gush V Yakult Levins Toda, 22.0 to 28.0](reviews/2026-03-20-KuritaWaterGush_V_YakultLevinsToda)
-## RFU Championship
+[2026/03/27 - Green Rockets Tokatsu V Shimizu Blue Sharks, 19.0 to 24.0](reviews/2026-03-27-GreenRocketsTokatsu_V_ShimizuBlueSharks)
 
+[2026/03/27 - Hanazono Kintetsu Liners V Kamaishi Seawaves, 59.0 to 31.0](reviews/2026-03-27-HanazonoKintetsuLiners_V_KamaishiSeawaves)
 
-[In depth model review and projections for RFU Championship 25/26](comp_files/RFU_Championship_2526)
+[2026/03/27 - Toyota Shuttles Aichi V Hino Red Dolphins, 45.0 to 7.0](reviews/2026-03-27-ToyotaShuttlesAichi_V_HinoRedDolphins)
 
-Competition Accuracy: 99 of 140 (70.71%)
-
-Competition Error: 13.05 points per match
-
-Last Two Week Accuracy: 5 of 7 (71.43%)
-
-Last Two Week Error: 22.97 points per match
-
-[2026/03/21 - Ealing Trailfinders V London Scottish, 72.0 to 19.0](reviews/2026-03-21-EalingTrailfinders_V_LondonScottish)
-
-[2026/03/21 - Worcester Warriors V Cambridge, 76.0 to 10.0](reviews/2026-03-21-WorcesterWarriors_V_Cambridge)
-
-[2026/03/21 - Richmond V Cornish Pirates, 13.0 to 66.0](reviews/2026-03-21-Richmond_V_CornishPirates)
-
-[2026/03/21 - Coventry V Doncaster, 44.0 to 24.0](reviews/2026-03-21-Coventry_V_Doncaster)
-
-[2026/03/21 - Chinnor V Caldy, 48.0 to 36.0](reviews/2026-03-21-Chinnor_V_Caldy)
-
-[2026/03/21 - Bedford V Nottingham, 10.0 to 14.0](reviews/2026-03-21-Bedford_V_Nottingham)
-
-[2026/03/20 - Hartpury College V Ampthill, 27.0 to 32.0](reviews/2026-03-20-HartpuryCollege_V_Ampthill)
-## URBA Top 14
-
-
-[In depth model review and projections for URBA Top 14 2026](comp_files/URBA_Top_14_2026)
-
-Competition Accuracy: 9 of 14 (64.29%)
-
-Competition Error: 14.58 points per match
-
-Last Two Week Accuracy: 4 of 7 (57.14%)
-
-Last Two Week Error: 11.97 points per match
-
-[2026/03/21 - Los Tilos V La Plata, 17.0 to 13.0](reviews/2026-03-21-LosTilos_V_LaPlata)
-
-[2026/03/21 - CUBA V Champagnat, 25.0 to 29.0](reviews/2026-03-21-CUBA_V_Champagnat)
-
-[2026/03/21 - CASI V Hindu, 12.0 to 15.0](reviews/2026-03-21-CASI_V_Hindu)
-
-[2026/03/21 - Buenos Aires V Alumni, 20.0 to 15.0](reviews/2026-03-21-BuenosAires_V_Alumni)
-
-[2026/03/21 - Belgrano AC V Newman, 25.0 to 33.0](reviews/2026-03-21-BelgranoAC_V_Newman)
-
-[2026/03/21 - Atlético del Rosario V Regatas Bella Vista, 12.0 to 20.0](reviews/2026-03-21-AtleticodelRosario_V_RegatasBellaVista)
-
-[2026/03/21 - SIC V Los Matreros, 25.0 to 20.0](reviews/2026-03-21-SIC_V_LosMatreros)
-## Nationale
-
-
-[In depth model review and projections for Nationale 25/26](comp_files/Nationale_2526)
-
-Competition Accuracy: 111 of 153 (72.55%)
-
-Competition Error: 8.24 points per match
-
-Last Two Week Accuracy: 4 of 5 (80.0%)
-
-Last Two Week Error: 9.26 points per match
-
-[2026/03/20 - Rouen V Massy, 18.0 to 22.0](reviews/2026-03-20-Rouen_V_Massy)
-
-[2026/03/21 - Suresnes V Bourgoin-Jallieu, 71.0 to 26.0](reviews/2026-03-21-Suresnes_V_Bourgoin-Jallieu)
-
-[2026/03/21 - Narbonne V Rennes, 36.0 to 24.0](reviews/2026-03-21-Narbonne_V_Rennes)
-
-[2026/03/21 - Marcq-en-Baroeul V Nice, 23.0 to 29.0](reviews/2026-03-21-Marcq-en-Baroeul_V_Nice)
-
-[2026/03/20 - US Bressane V Périgueux, 16.0 to 13.0](reviews/2026-03-20-USBressane_V_Perigueux)
+[2026/03/27 - Red Hurricanes Osaka V Kyuden Voltex, 24.0 to 31.0](reviews/2026-03-27-RedHurricanesOsaka_V_KyudenVoltex)
 ## Pro D2
 
 
 [In depth model review and projections for Pro D2 25/26](comp_files/Pro_D2_2526)
 
-Competition Accuracy: 139 of 185 (75.14%)
+Competition Accuracy: 143 of 192 (74.48%)
 
-Competition Error: 12.76 points per match
+Competition Error: 12.87 points per match
 
-Last Two Week Accuracy: 0 of 1 (0.0%)
+Last Two Week Accuracy: 4 of 8 (50.0%)
 
-Last Two Week Error: 9.17 points per match
+Last Two Week Error: 14.92 points per match
+
+[2026/03/27 - Vannes V USON Nevers, 52.0 to 7.0](reviews/2026-03-27-Vannes_V_USONNevers)
+
+[2026/03/27 - Valence Romans Drome Rugby V Oyonnax, 40.0 to 21.0](reviews/2026-03-27-ValenceRomansDromeRugby_V_Oyonnax)
+
+[2026/03/27 - Soyaux-Angouleme V Brive, 9.0 to 28.0](reviews/2026-03-27-Soyaux-Angouleme_V_Brive)
+
+[2026/03/27 - Dax V Grenoble, 50.0 to 26.0](reviews/2026-03-27-Dax_V_Grenoble)
+
+[2026/03/27 - Carcassonne V Mont-de-Marsan, 28.0 to 29.0](reviews/2026-03-27-Carcassonne_V_Mont-de-Marsan)
+
+[2026/03/27 - Beziers V Agen, 32.0 to 13.0](reviews/2026-03-27-Beziers_V_Agen)
+
+[2026/03/27 - Aurillac V Biarritz Olympique, 24.0 to 27.0](reviews/2026-03-27-Aurillac_V_BiarritzOlympique)
 
 [2026/03/26 - Provence Rugby V Colomiers, 20.0 to 25.0](reviews/2026-03-26-ProvenceRugby_V_Colomiers)
+## URBA Top 14
+
+
+[In depth model review and projections for URBA Top 14 2026](comp_files/URBA_Top_14_2026)
+
+Competition Accuracy: 12 of 21 (57.14%)
+
+Competition Error: 13.82 points per match
+
+Last Two Week Accuracy: 7 of 14 (50.0%)
+
+Last Two Week Error: 12.14 points per match
+
+[2026/03/28 - Newman V SIC, 10.0 to 37.0](reviews/2026-03-28-Newman_V_SIC)
+
+[2026/03/28 - Los Matreros V Atlético del Rosario, 25.0 to 22.0](reviews/2026-03-28-LosMatreros_V_AtleticodelRosario)
+
+[2026/03/28 - La Plata V CASI, 13.0 to 39.0](reviews/2026-03-28-LaPlata_V_CASI)
+
+[2026/03/28 - Hindu V CUBA, 43.0 to 36.0](reviews/2026-03-28-Hindu_V_CUBA)
+
+[2026/03/28 - Champagnat V Buenos Aires, 13.0 to 10.0](reviews/2026-03-28-Champagnat_V_BuenosAires)
+
+[2026/03/28 - Alumni V Belgrano AC, 26.0 to 21.0](reviews/2026-03-28-Alumni_V_BelgranoAC)
+
+[2026/03/28 - Regatas Bella Vista V Los Tilos, 29.0 to 20.0](reviews/2026-03-28-RegatasBellaVista_V_LosTilos)
+## RFU Championship
+
+
+[In depth model review and projections for RFU Championship 25/26](comp_files/RFU_Championship_2526)
+
+Competition Accuracy: 104 of 147 (70.75%)
+
+Competition Error: 13.36 points per match
+
+Last Two Week Accuracy: 10 of 14 (71.43%)
+
+Last Two Week Error: 21.21 points per match
+
+[2026/03/28 - Nottingham V Chinnor, 19.0 to 26.0](reviews/2026-03-28-Nottingham_V_Chinnor)
+
+[2026/03/28 - London Scottish V Coventry, 29.0 to 54.0](reviews/2026-03-28-LondonScottish_V_Coventry)
+
+[2026/03/28 - Cornish Pirates V Worcester Warriors, 7.0 to 29.0](reviews/2026-03-28-CornishPirates_V_WorcesterWarriors)
+
+[2026/03/28 - Cambridge V Bedford, 21.0 to 50.0](reviews/2026-03-28-Cambridge_V_Bedford)
+
+[2026/03/28 - Caldy V Ealing Trailfinders, 19.0 to 21.0](reviews/2026-03-28-Caldy_V_EalingTrailfinders)
+
+[2026/03/28 - Ampthill V Richmond, 62.0 to 14.0](reviews/2026-03-28-Ampthill_V_Richmond)
+
+[2026/03/27 - Doncaster V Hartpury College, 35.0 to 22.0](reviews/2026-03-27-Doncaster_V_HartpuryCollege)
+## Nationale
+
+
+[In depth model review and projections for Nationale 25/26](comp_files/Nationale_2526)
+
+Competition Accuracy: 115 of 158 (72.78%)
+
+Competition Error: 8.26 points per match
+
+Last Two Week Accuracy: 8 of 10 (80.0%)
+
+Last Two Week Error: 9.08 points per match
+
+[2026/03/28 - Rennes V Albi, 20.0 to 43.0](reviews/2026-03-28-Rennes_V_Albi)
+
+[2026/03/28 - Périgueux V Marcq-en-Baroeul, 33.0 to 7.0](reviews/2026-03-28-Perigueux_V_Marcq-en-Baroeul)
+
+[2026/03/28 - Nice V Narbonne, 32.0 to 27.0](reviews/2026-03-28-Nice_V_Narbonne)
+
+[2026/03/28 - Bourgoin-Jallieu V US Bressane, 13.0 to 16.0](reviews/2026-03-28-Bourgoin-Jallieu_V_USBressane)
+
+[2026/03/27 - Massy V Suresnes, 35.0 to 19.0](reviews/2026-03-27-Massy_V_Suresnes)
