@@ -9,9 +9,9 @@ categories: rugby "RFU Championship 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Ealing Trailfinders to win by 11.19, and Ealing Trailfinders won by 2.0. That's an absolute error of 9.2 for the margin of victory, while my average absolute error has been 13.5 over the past six months. This prediction was more accurate than 53.5% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Ealing Trailfinders to win by 11.19, and Ealing Trailfinders won by 2.0. That's an absolute error of 9.2 for the margin of victory, while my average absolute error has been 13.5 over the past six months. This prediction was more accurate than 54.0% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 40.0. That's an absolute error of 11.5 compared to a six month average of 13.2. This prediction was more accurate than 48.2% of my recent predictions.
+For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 40.0. That's an absolute error of 11.5 compared to a six month average of 13.1. This prediction was more accurate than 47.7% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 51.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Ealing Trailfinders to win by 12.66,  and Ealing Trailfinders won by 2.0. That's an absolute error of 10.7 for the margin of victory, while the average error as been 13.2 for the past six months. So this prediction was more accurate than 39.8% of my recent predictions.
+With the player model, I predicted Ealing Trailfinders to win by 12.66,  and Ealing Trailfinders won by 2.0. That's an absolute error of 10.7 for the margin of victory, while the average error as been 13.3 for the past six months. So this prediction was more accurate than 39.6% of my recent predictions.
 ## Projected Performances - Player Model
 
 
