@@ -9,9 +9,9 @@ categories: rugby "Gallagher Premiership 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Exeter Chiefs to win by 7.16, and Exeter Chiefs won by 24.0. That's an absolute error of 16.8 for the margin of victory, while my average absolute error has been 13.5 over the past six months. This prediction was more accurate than 29.1% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Exeter Chiefs to win by 6.86, and Exeter Chiefs won by 24.0. That's an absolute error of 17.1 for the margin of victory, while my average absolute error has been 13.5 over the past six months. This prediction was more accurate than 28.3% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 52.0. That's an absolute error of 2.5 compared to a six month average of 13.1. This prediction was more accurate than 88.4% of my recent predictions.
+For the Over/Under model, I predicted a total of 47.5 and we have an actual total of 52.0. That's an absolute error of 4.5 compared to a six month average of 13.1. This prediction was more accurate than 78.6% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 49.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Exeter Chiefs to win by 2.35,  and Exeter Chiefs won by 24.0. That's an absolute error of 21.6 for the margin of victory, while the average error as been 13.3 for the past six months. So this prediction was more accurate than 16.2% of my recent predictions.
+With the player model, I predicted Exeter Chiefs to win by 2.64,  and Exeter Chiefs won by 24.0. That's an absolute error of 21.4 for the margin of victory, while the average error as been 13.3 for the past six months. So this prediction was more accurate than 16.5% of my recent predictions.
 ## Projected Performances - Player Model
 
 

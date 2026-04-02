@@ -9,9 +9,9 @@ categories: rugby "Japan Rugby League One D2 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Toyota Shuttles Aichi to win by 12.72, and Toyota Shuttles Aichi won by 38.0. That's an absolute error of 25.3 for the margin of victory, while my average absolute error has been 13.5 over the past six months. This prediction was more accurate than 14.7% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Toyota Shuttles Aichi to win by 12.82, and Toyota Shuttles Aichi won by 38.0. That's an absolute error of 25.2 for the margin of victory, while my average absolute error has been 13.5 over the past six months. This prediction was more accurate than 14.7% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 56.5 and we have an actual total of 52.0. That's an absolute error of 4.5 compared to a six month average of 13.1. This prediction was more accurate than 78.6% of my recent predictions.
+For the Over/Under model, I predicted a total of 55.5 and we have an actual total of 52.0. That's an absolute error of 3.5 compared to a six month average of 13.1. This prediction was more accurate than 82.8% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 56.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Toyota Shuttles Aichi to win by 10.02,  and Toyota Shuttles Aichi won by 38.0. That's an absolute error of 28.0 for the margin of victory, while the average error as been 13.3 for the past six months. So this prediction was more accurate than 9.7% of my recent predictions.
+With the player model, I predicted Toyota Shuttles Aichi to win by 10.49,  and Toyota Shuttles Aichi won by 38.0. That's an absolute error of 27.5 for the margin of victory, while the average error as been 13.3 for the past six months. So this prediction was more accurate than 10.0% of my recent predictions.
 ## Projected Performances - Player Model
 
 

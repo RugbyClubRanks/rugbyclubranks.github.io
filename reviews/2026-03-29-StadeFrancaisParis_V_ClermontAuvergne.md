@@ -9,9 +9,9 @@ categories: rugby "Top 14 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Stade Francais Paris to win by 5.52, and Stade Francais Paris won by 44.0. That's an absolute error of 38.5 for the margin of victory, while my average absolute error has been 13.5 over the past six months. This prediction was more accurate than 4.7% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Stade Francais Paris to win by 4.81, and Stade Francais Paris won by 44.0. That's an absolute error of 39.2 for the margin of victory, while my average absolute error has been 13.5 over the past six months. This prediction was more accurate than 4.5% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 84.0. That's an absolute error of 33.5 compared to a six month average of 13.1. This prediction was more accurate than 3.6% of my recent predictions.
+For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 84.0. That's an absolute error of 34.5 compared to a six month average of 13.1. This prediction was more accurate than 3.0% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 50.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Stade Francais Paris to win by 4.7,  and Stade Francais Paris won by 44.0. That's an absolute error of 39.3 for the margin of victory, while the average error as been 13.3 for the past six months. So this prediction was more accurate than 3.8% of my recent predictions.
+With the player model, I predicted Stade Francais Paris to win by 4.52,  and Stade Francais Paris won by 44.0. That's an absolute error of 39.5 for the margin of victory, while the average error as been 13.3 for the past six months. So this prediction was more accurate than 3.8% of my recent predictions.
 ## Projected Performances - Player Model
 
 

@@ -9,9 +9,9 @@ categories: rugby "Japan Rugby League One D2 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Green Rockets Tokatsu to win by 1.99, and Shimizu Blue Sharks won by 5.0. That's an absolute error of 7.0 for the margin of victory, while my average absolute error has been 13.5 over the past six months. This prediction was more accurate than 64.2% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Green Rockets Tokatsu to win by 1.76, and Shimizu Blue Sharks won by 5.0. That's an absolute error of 6.8 for the margin of victory, while my average absolute error has been 13.5 over the past six months. This prediction was more accurate than 64.8% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 43.0. That's an absolute error of 6.5 compared to a six month average of 13.1. This prediction was more accurate than 67.5% of my recent predictions.
+For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 43.0. That's an absolute error of 5.5 compared to a six month average of 13.1. This prediction was more accurate than 73.0% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 49.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Green Rockets Tokatsu to win by 1.08,  and Shimizu Blue Sharks won by 5.0. That's an absolute error of 6.1 for the margin of victory, while the average error as been 13.3 for the past six months. So this prediction was more accurate than 57.5% of my recent predictions.
+With the player model, I predicted Green Rockets Tokatsu to win by 1.17,  and Shimizu Blue Sharks won by 5.0. That's an absolute error of 6.2 for the margin of victory, while the average error as been 13.3 for the past six months. So this prediction was more accurate than 57.0% of my recent predictions.
 ## Projected Performances - Player Model
 
 

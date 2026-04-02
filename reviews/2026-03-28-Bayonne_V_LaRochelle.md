@@ -9,9 +9,9 @@ categories: rugby "Top 14 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted La Rochelle to win by 0.13, and Bayonne won by 11.0. That's an absolute error of 11.1 for the margin of victory, while my average absolute error has been 13.5 over the past six months. This prediction was more accurate than 46.4% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Bayonne to win by 0.34, and Bayonne won by 11.0. That's an absolute error of 10.7 for the margin of victory, while my average absolute error has been 13.5 over the past six months. This prediction was more accurate than 48.3% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 41.0. That's an absolute error of 8.5 compared to a six month average of 13.1. This prediction was more accurate than 59.3% of my recent predictions.
+For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 41.0. That's an absolute error of 7.5 compared to a six month average of 13.1. This prediction was more accurate than 62.9% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 49.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Bayonne to win by 3.85,  and Bayonne won by 11.0. That's an absolute error of 7.2 for the margin of victory, while the average error as been 13.3 for the past six months. So this prediction was more accurate than 52.5% of my recent predictions.
+With the player model, I predicted Bayonne to win by 4.48,  and Bayonne won by 11.0. That's an absolute error of 6.5 for the margin of victory, while the average error as been 13.3 for the past six months. So this prediction was more accurate than 55.3% of my recent predictions.
 ## Projected Performances - Player Model
 
 

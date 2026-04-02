@@ -14,9 +14,9 @@ Competition Accuracy: 48 of 60 (80.0%)
 
 Competition Error: 14.27 points per match
 
-Last Two Week Accuracy: 6 of 10 (60.0%)
+Last Two Week Accuracy: 2 of 5 (40.0%)
 
-Last Two Week Error: 12.43 points per match
+Last Two Week Error: 9.06 points per match
 
 [2026/03/27 - Newcastle Red Bulls V Exeter Chiefs, 14.0 to 38.0](reviews/2026-03-27-NewcastleRedBulls_V_ExeterChiefs)
 
@@ -36,9 +36,9 @@ Competition Accuracy: 73 of 112 (65.18%)
 
 Competition Error: 11.71 points per match
 
-Last Two Week Accuracy: 15 of 16 (93.75%)
+Last Two Week Accuracy: 8 of 8 (100.0%)
 
-Last Two Week Error: 11.65 points per match
+Last Two Week Error: 4.79 points per match
 
 [2026/03/28 - Stormers V Edinburgh, 33.0 to 14.0](reviews/2026-03-28-Stormers_V_Edinburgh)
 
@@ -64,9 +64,9 @@ Competition Accuracy: 109 of 140 (77.86%)
 
 Competition Error: 13.87 points per match
 
-Last Two Week Accuracy: 11 of 14 (78.57%)
+Last Two Week Accuracy: 7 of 7 (100.0%)
 
-Last Two Week Error: 14.03 points per match
+Last Two Week Error: 10.94 points per match
 
 [2026/03/29 - Stade Francais Paris V Clermont Auvergne, 64.0 to 20.0](reviews/2026-03-29-StadeFrancaisParis_V_ClermontAuvergne)
 
@@ -90,9 +90,9 @@ Competition Accuracy: 24 of 35 (68.57%)
 
 Competition Error: 15.24 points per match
 
-Last Two Week Accuracy: 8 of 10 (80.0%)
+Last Two Week Accuracy: 3 of 5 (60.0%)
 
-Last Two Week Error: 16.27 points per match
+Last Two Week Error: 13.8 points per match
 
 [2026/03/28 - Western Force V Chiefs, 14.0 to 24.0](reviews/2026-03-28-WesternForce_V_Chiefs)
 
@@ -126,9 +126,9 @@ Competition Accuracy: 52 of 77 (67.53%)
 
 Competition Error: 14.05 points per match
 
-Last Two Week Accuracy: 7 of 12 (58.33%)
+Last Two Week Accuracy: 5 of 6 (83.33%)
 
-Last Two Week Error: 14.11 points per match
+Last Two Week Error: 13.53 points per match
 
 [2026/03/29 - Urayasu D-Rocks V Mie Honda Heat, 17.0 to 43.0](reviews/2026-03-29-UrayasuD-Rocks_V_MieHondaHeat)
 
@@ -154,7 +154,7 @@ Competition Error: 15.56 points per match
 
 Last Two Week Accuracy: 2 of 4 (50.0%)
 
-Last Two Week Error: 11.17 points per match
+Last Two Week Error: 11.18 points per match
 
 [2026/03/27 - Green Rockets Tokatsu V Shimizu Blue Sharks, 19.0 to 24.0](reviews/2026-03-27-GreenRocketsTokatsu_V_ShimizuBlueSharks)
 
@@ -200,9 +200,9 @@ Competition Accuracy: 12 of 21 (57.14%)
 
 Competition Error: 13.82 points per match
 
-Last Two Week Accuracy: 7 of 14 (50.0%)
+Last Two Week Accuracy: 3 of 7 (42.86%)
 
-Last Two Week Error: 12.14 points per match
+Last Two Week Error: 12.3 points per match
 
 [2026/03/28 - Newman V SIC, 10.0 to 37.0](reviews/2026-03-28-Newman_V_SIC)
 
@@ -226,9 +226,9 @@ Competition Accuracy: 104 of 147 (70.75%)
 
 Competition Error: 13.36 points per match
 
-Last Two Week Accuracy: 10 of 14 (71.43%)
+Last Two Week Accuracy: 5 of 7 (71.43%)
 
-Last Two Week Error: 21.21 points per match
+Last Two Week Error: 19.45 points per match
 
 [2026/03/28 - Nottingham V Chinnor, 19.0 to 26.0](reviews/2026-03-28-Nottingham_V_Chinnor)
 
@@ -252,9 +252,9 @@ Competition Accuracy: 115 of 158 (72.78%)
 
 Competition Error: 8.26 points per match
 
-Last Two Week Accuracy: 8 of 10 (80.0%)
+Last Two Week Accuracy: 4 of 5 (80.0%)
 
-Last Two Week Error: 9.08 points per match
+Last Two Week Error: 8.93 points per match
 
 [2026/03/28 - Rennes V Albi, 20.0 to 43.0](reviews/2026-03-28-Rennes_V_Albi)
 

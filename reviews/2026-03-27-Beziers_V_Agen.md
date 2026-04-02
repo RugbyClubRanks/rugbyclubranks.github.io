@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 47.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Beziers to win by 3.99,  and Beziers won by 19.0. That's an absolute error of 15.0 for the margin of victory, while the average error as been 13.3 for the past six months. So this prediction was more accurate than 27.1% of my recent predictions.
+With the player model, I predicted Beziers to win by 4.11,  and Beziers won by 19.0. That's an absolute error of 14.9 for the margin of victory, while the average error as been 13.3 for the past six months. So this prediction was more accurate than 27.4% of my recent predictions.
 ## Projected Performances - Player Model
 
 

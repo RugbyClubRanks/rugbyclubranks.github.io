@@ -9,9 +9,9 @@ categories: rugby "Pro D2 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Carcassonne to win by 2.83, and Mont-de-Marsan won by 1.0. That's an absolute error of 3.8 for the margin of victory, while my average absolute error has been 13.5 over the past six months. This prediction was more accurate than 80.8% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Carcassonne to win by 2.75, and Mont-de-Marsan won by 1.0. That's an absolute error of 3.8 for the margin of victory, while my average absolute error has been 13.5 over the past six months. This prediction was more accurate than 81.1% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 47.5 and we have an actual total of 57.0. That's an absolute error of 9.5 compared to a six month average of 13.1. This prediction was more accurate than 54.6% of my recent predictions.
+For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 57.0. That's an absolute error of 8.5 compared to a six month average of 13.1. This prediction was more accurate than 59.3% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 47.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Carcassonne to win by 1.99,  and Mont-de-Marsan won by 1.0. That's an absolute error of 3.0 for the margin of victory, while the average error as been 13.3 for the past six months. So this prediction was more accurate than 70.4% of my recent predictions.
+With the player model, I predicted Carcassonne to win by 1.83,  and Mont-de-Marsan won by 1.0. That's an absolute error of 2.8 for the margin of victory, while the average error as been 13.3 for the past six months. So this prediction was more accurate than 71.6% of my recent predictions.
 ## Projected Performances - Player Model
 
 

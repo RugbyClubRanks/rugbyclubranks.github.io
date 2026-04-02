@@ -9,9 +9,9 @@ categories: rugby "Top 14 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Bordeaux Begles to win by 1.34, and Bordeaux Begles won by 4.0. That's an absolute error of 2.7 for the margin of victory, while my average absolute error has been 13.5 over the past six months. This prediction was more accurate than 85.9% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Bordeaux Begles to win by 1.94, and Bordeaux Begles won by 4.0. That's an absolute error of 2.1 for the margin of victory, while my average absolute error has been 13.5 over the past six months. This prediction was more accurate than 89.0% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 38.0. That's an absolute error of 13.5 compared to a six month average of 13.1. This prediction was more accurate than 40.1% of my recent predictions.
+For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 38.0. That's an absolute error of 11.5 compared to a six month average of 13.1. This prediction was more accurate than 47.7% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 51.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Bordeaux Begles to win by 0.5,  and Bordeaux Begles won by 4.0. That's an absolute error of 3.5 for the margin of victory, while the average error as been 13.3 for the past six months. So this prediction was more accurate than 68.4% of my recent predictions.
+With the player model, I predicted Bordeaux Begles to win by 0.83,  and Bordeaux Begles won by 4.0. That's an absolute error of 3.2 for the margin of victory, while the average error as been 13.3 for the past six months. So this prediction was more accurate than 69.6% of my recent predictions.
 ## Projected Performances - Player Model
 
 
