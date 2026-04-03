@@ -9,9 +9,9 @@ categories: rugby "RFU Championship 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Cornish Pirates to win by 1.14, and Worcester Warriors won by 22.0. That's an absolute error of 23.1 for the margin of victory, while my average absolute error has been 13.5 over the past six months. This prediction was more accurate than 18.4% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Cornish Pirates to win by 1.21, and Worcester Warriors won by 22.0. That's an absolute error of 23.2 for the margin of victory, while my average absolute error has been 13.5 over the past six months. This prediction was more accurate than 18.2% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 47.5 and we have an actual total of 36.0. That's an absolute error of 11.5 compared to a six month average of 13.1. This prediction was more accurate than 47.7% of my recent predictions.
+For the Over/Under model, I predicted a total of 47.5 and we have an actual total of 36.0. That's an absolute error of 11.5 compared to a six month average of 13.1. This prediction was more accurate than 47.5% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 47.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Worcester Warriors to win by 0.72,  and Worcester Warriors won by 22.0. That's an absolute error of 21.3 for the margin of victory, while the average error as been 13.3 for the past six months. So this prediction was more accurate than 16.6% of my recent predictions.
+With the player model, I predicted Worcester Warriors to win by 1.34,  and Worcester Warriors won by 22.0. That's an absolute error of 20.7 for the margin of victory, while the average error as been 13.3 for the past six months. So this prediction was more accurate than 17.2% of my recent predictions.
 ## Projected Performances - Player Model
 
 

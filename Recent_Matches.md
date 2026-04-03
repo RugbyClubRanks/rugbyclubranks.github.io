@@ -38,7 +38,7 @@ Competition Error: 11.71 points per match
 
 Last Two Week Accuracy: 8 of 8 (100.0%)
 
-Last Two Week Error: 4.79 points per match
+Last Two Week Error: 4.8 points per match
 
 [2026/03/28 - Stormers V Edinburgh, 33.0 to 14.0](reviews/2026-03-28-Stormers_V_Edinburgh)
 
@@ -150,11 +150,11 @@ Last Two Week Error: 13.53 points per match
 
 Competition Accuracy: 18 of 27 (66.67%)
 
-Competition Error: 15.56 points per match
+Competition Error: 15.55 points per match
 
 Last Two Week Accuracy: 2 of 4 (50.0%)
 
-Last Two Week Error: 11.18 points per match
+Last Two Week Error: 11.1 points per match
 
 [2026/03/27 - Green Rockets Tokatsu V Shimizu Blue Sharks, 19.0 to 24.0](reviews/2026-03-27-GreenRocketsTokatsu_V_ShimizuBlueSharks)
 
@@ -250,11 +250,11 @@ Last Two Week Error: 19.45 points per match
 
 Competition Accuracy: 115 of 158 (72.78%)
 
-Competition Error: 8.26 points per match
+Competition Error: 8.25 points per match
 
 Last Two Week Accuracy: 4 of 5 (80.0%)
 
-Last Two Week Error: 8.93 points per match
+Last Two Week Error: 8.91 points per match
 
 [2026/03/28 - Rennes V Albi, 20.0 to 43.0](reviews/2026-03-28-Rennes_V_Albi)
 

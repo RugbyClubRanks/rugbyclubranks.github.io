@@ -166,7 +166,7 @@ Competition Error: 11.71 points per match
 
 Last Two Week Accuracy: 8 of 8 (100.0%)
 
-Last Two Week Error: 4.79 points per match
+Last Two Week Error: 4.8 points per match
 
 [2026/04/18 - Scarlets V Cardiff Rugby](projections/2026-04-18-Scarlets_V_CardiffRugby)
 
@@ -216,7 +216,7 @@ Last Two Week Error: 10.94 points per match
 
 Competition Accuracy: 24 of 36 (66.67%)
 
-Competition Error: 13.45 points per match
+Competition Error: 13.46 points per match
 
 [2026-04-09 - Benetton Treviso V Munster](projections/2026-04-09-BenettonTreviso_V_Munster)
 
@@ -272,7 +272,7 @@ Competition Error: 13.45 points per match
 
 Competition Accuracy: 34 of 48 (70.83%)
 
-Competition Error: 17.83 points per match
+Competition Error: 17.84 points per match
 
 [2026-04-09 - Bath Rugby V Castres Olympique](projections/2026-04-09-BathRugby_V_CastresOlympique)
 
@@ -330,11 +330,11 @@ Competition Error: 17.83 points per match
 
 Competition Accuracy: 115 of 158 (72.78%)
 
-Competition Error: 8.26 points per match
+Competition Error: 8.25 points per match
 
 Last Two Week Accuracy: 4 of 5 (80.0%)
 
-Last Two Week Error: 8.93 points per match
+Last Two Week Error: 8.91 points per match
 
 [2026/03/27 - Chambery V Tarbes](projections/2026-03-27-Chambery_V_Tarbes)
 
