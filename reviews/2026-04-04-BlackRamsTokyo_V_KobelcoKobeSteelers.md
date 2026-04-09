@@ -9,9 +9,9 @@ categories: rugby "Japan Rugby League One 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Kobelco Kobe Steelers to win by 3.29, and Kobelco Kobe Steelers won by 21.0. That's an absolute error of 17.7 for the margin of victory, while my average absolute error has been 13.5 over the past six months. This prediction was more accurate than 27.4% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Kobelco Kobe Steelers to win by 2.52, and Kobelco Kobe Steelers won by 21.0. That's an absolute error of 18.5 for the margin of victory, while my average absolute error has been 13.7 over the past six months. This prediction was more accurate than 26.6% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 52.5 and we have an actual total of 59.0. That's an absolute error of 6.5 compared to a six month average of 13.1. This prediction was more accurate than 67.6% of my recent predictions.
+For the Over/Under model, I predicted a total of 52.5 and we have an actual total of 59.0. That's an absolute error of 6.5 compared to a six month average of 13.2. This prediction was more accurate than 67.4% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 52.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Kobelco Kobe Steelers to win by 5.0,  and Kobelco Kobe Steelers won by 21.0. That's an absolute error of 16.0 for the margin of victory, while the average error as been 13.3 for the past six months. So this prediction was more accurate than 24.9% of my recent predictions.
+With the player model, I predicted Kobelco Kobe Steelers to win by 5.48,  and Kobelco Kobe Steelers won by 21.0. That's an absolute error of 15.5 for the margin of victory, while the average error as been 13.8 for the past six months. So this prediction was more accurate than 30.4% of my recent predictions.
 ## Projected Performances - Player Model
 
 

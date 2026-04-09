@@ -9,9 +9,9 @@ categories: rugby "Pro D2 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Mont-de-Marsan to win by 6.18, and Mont-de-Marsan won by 10.0. That's an absolute error of 3.8 for the margin of victory, while my average absolute error has been 13.5 over the past six months. This prediction was more accurate than 80.9% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Mont-de-Marsan to win by 5.98, and Mont-de-Marsan won by 10.0. That's an absolute error of 4.0 for the margin of victory, while my average absolute error has been 13.7 over the past six months. This prediction was more accurate than 79.8% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 60.0. That's an absolute error of 9.5 compared to a six month average of 13.1. This prediction was more accurate than 54.5% of my recent predictions.
+For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 60.0. That's an absolute error of 11.5 compared to a six month average of 13.2. This prediction was more accurate than 48.1% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 50.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Mont-de-Marsan to win by 2.88,  and Mont-de-Marsan won by 10.0. That's an absolute error of 7.1 for the margin of victory, while the average error as been 13.3 for the past six months. So this prediction was more accurate than 52.5% of my recent predictions.
+With the player model, I predicted Mont-de-Marsan to win by 2.71,  and Mont-de-Marsan won by 10.0. That's an absolute error of 7.3 for the margin of victory, while the average error as been 13.8 for the past six months. So this prediction was more accurate than 57.8% of my recent predictions.
 ## Projected Performances - Player Model
 
 

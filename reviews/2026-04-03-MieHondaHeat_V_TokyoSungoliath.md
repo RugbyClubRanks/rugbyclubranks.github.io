@@ -9,9 +9,9 @@ categories: rugby "Japan Rugby League One 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Tokyo Sungoliath to win by 6.98, and Mie Honda Heat won by 7.0. That's an absolute error of 14.0 for the margin of victory, while my average absolute error has been 13.5 over the past six months. This prediction was more accurate than 37.3% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Tokyo Sungoliath to win by 6.26, and Mie Honda Heat won by 7.0. That's an absolute error of 13.3 for the margin of victory, while my average absolute error has been 13.7 over the past six months. This prediction was more accurate than 40.6% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 41.0. That's an absolute error of 10.5 compared to a six month average of 13.1. This prediction was more accurate than 51.1% of my recent predictions.
+For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 41.0. That's an absolute error of 10.5 compared to a six month average of 13.2. This prediction was more accurate than 51.1% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 51.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Tokyo Sungoliath to win by 5.66,  and Mie Honda Heat won by 7.0. That's an absolute error of 12.7 for the margin of victory, while the average error as been 13.3 for the past six months. So this prediction was more accurate than 33.0% of my recent predictions.
+With the player model, I predicted Tokyo Sungoliath to win by 5.87,  and Mie Honda Heat won by 7.0. That's an absolute error of 12.9 for the margin of victory, while the average error as been 13.8 for the past six months. So this prediction was more accurate than 37.0% of my recent predictions.
 ## Projected Performances - Player Model
 
 

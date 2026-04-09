@@ -9,9 +9,9 @@ categories: rugby "European Rugby Champions Cup 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Northampton Saints to win by 12.31, and Northampton Saints won by 8.0. That's an absolute error of 4.3 for the margin of victory, while my average absolute error has been 13.5 over the past six months. This prediction was more accurate than 78.3% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Northampton Saints to win by 11.73, and Northampton Saints won by 8.0. That's an absolute error of 3.7 for the margin of victory, while my average absolute error has been 13.7 over the past six months. This prediction was more accurate than 81.1% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 90.0. That's an absolute error of 39.5 compared to a six month average of 13.1. This prediction was more accurate than 1.5% of my recent predictions.
+For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 90.0. That's an absolute error of 38.5 compared to a six month average of 13.2. This prediction was more accurate than 2.2% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 50.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Northampton Saints to win by 13.23,  and Northampton Saints won by 8.0. That's an absolute error of 5.2 for the margin of victory, while the average error as been 13.3 for the past six months. So this prediction was more accurate than 60.9% of my recent predictions.
+With the player model, I predicted Northampton Saints to win by 12.93,  and Northampton Saints won by 8.0. That's an absolute error of 4.9 for the margin of victory, while the average error as been 13.8 for the past six months. So this prediction was more accurate than 68.0% of my recent predictions.
 ## Projected Performances - Player Model
 
 

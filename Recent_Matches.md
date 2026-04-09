@@ -30,9 +30,9 @@ Competition Accuracy: 25 of 38 (65.79%)
 
 Competition Error: 15.98 points per match
 
-Last Two Week Accuracy: 5 of 8 (62.5%)
+Last Two Week Accuracy: 2 of 3 (66.67%)
 
-Last Two Week Error: 17.92 points per match
+Last Two Week Error: 24.4 points per match
 
 [2026/04/04 - Queensland Reds V Western Force, 19.0 to 42.0](reviews/2026-04-04-QueenslandReds_V_WesternForce)
 
@@ -48,9 +48,9 @@ Competition Accuracy: 2 of 4 (50.0%)
 
 Competition Error: 29.39 points per match
 
-Last Two Week Accuracy: 2 of 4 (50.0%)
+Last Two Week Accuracy: 2 of 3 (66.67%)
 
-Last Two Week Error: 29.39 points per match
+Last Two Week Error: 24.75 points per match
 
 [2026/04/04 - California Legion V New England Free Jacks, 43.0 to 5.0](reviews/2026-04-04-CaliforniaLegion_V_NewEnglandFreeJacks)
 
@@ -66,9 +66,9 @@ Competition Accuracy: 56 of 83 (67.47%)
 
 Competition Error: 13.92 points per match
 
-Last Two Week Accuracy: 9 of 12 (75.0%)
+Last Two Week Accuracy: 4 of 6 (66.67%)
 
-Last Two Week Error: 12.91 points per match
+Last Two Week Error: 12.29 points per match
 
 [2026/04/04 - Toyota Verblitz V Kubota Spears, 24.0 to 7.0](reviews/2026-04-04-ToyotaVerblitz_V_KubotaSpears)
 
@@ -148,9 +148,9 @@ Competition Accuracy: 21 of 31 (67.74%)
 
 Competition Error: 14.79 points per match
 
-Last Two Week Accuracy: 5 of 8 (62.5%)
+Last Two Week Accuracy: 3 of 4 (75.0%)
 
-Last Two Week Error: 10.45 points per match
+Last Two Week Error: 9.84 points per match
 
 [2026/04/03 - Green Rockets Tokatsu V Kyuden Voltex, 21.0 to 22.0](reviews/2026-04-03-GreenRocketsTokatsu_V_KyudenVoltex)
 
@@ -168,9 +168,9 @@ Competition Accuracy: 110 of 154 (71.43%)
 
 Competition Error: 13.69 points per match
 
-Last Two Week Accuracy: 11 of 14 (78.57%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 20.05 points per match
+Last Two Week Error: 20.65 points per match
 
 [2026/04/04 - Hartpury College V London Scottish, 45.0 to 7.0](reviews/2026-04-04-HartpuryCollege_V_LondonScottish)
 
@@ -194,9 +194,9 @@ Competition Accuracy: 150 of 200 (75.0%)
 
 Competition Error: 13.14 points per match
 
-Last Two Week Accuracy: 11 of 16 (68.75%)
+Last Two Week Accuracy: 7 of 8 (87.5%)
 
-Last Two Week Error: 17.23 points per match
+Last Two Week Error: 19.54 points per match
 
 [2026/04/03 - USON Nevers V Beziers, 44.0 to 41.0](reviews/2026-04-03-USONNevers_V_Beziers)
 
@@ -220,11 +220,11 @@ Last Two Week Error: 17.23 points per match
 
 Competition Accuracy: 20 of 28 (71.43%)
 
-Competition Error: 16.39 points per match
+Competition Error: 16.38 points per match
 
 Last Two Week Accuracy: 3 of 3 (100.0%)
 
-Last Two Week Error: 12.29 points per match
+Last Two Week Error: 12.31 points per match
 
 [2026/04/04 - Skyactivs Hiroshima V Chugoku Red Regulions, 49.0 to 7.0](reviews/2026-04-04-SkyactivsHiroshima_V_ChugokuRedRegulions)
 

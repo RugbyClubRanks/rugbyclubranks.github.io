@@ -38,9 +38,9 @@ Competition Accuracy: 25 of 38 (65.79%)
 
 Competition Error: 15.98 points per match
 
-Last Two Week Accuracy: 5 of 8 (62.5%)
+Last Two Week Accuracy: 2 of 3 (66.67%)
 
-Last Two Week Error: 17.92 points per match
+Last Two Week Error: 24.4 points per match
 
 [2026/04/11 - Hurricanes V Blues](projections/2026-04-11-Hurricanes_V_Blues)
 
@@ -80,10 +80,6 @@ Competition Accuracy: 109 of 140 (77.86%)
 
 Competition Error: 13.87 points per match
 
-Last Two Week Accuracy: 7 of 7 (100.0%)
-
-Last Two Week Error: 10.97 points per match
-
 [2026/04/24 - Perpignan V La Rochelle](projections/2026-04-24-Perpignan_V_LaRochelle)
 
 [2026/04/24 - Bordeaux Begles V Montpellier Herault](projections/2026-04-24-BordeauxBegles_V_MontpellierHerault)
@@ -119,10 +115,6 @@ Last Two Week Error: 10.97 points per match
 Competition Accuracy: 73 of 112 (65.18%)
 
 Competition Error: 11.72 points per match
-
-Last Two Week Accuracy: 8 of 8 (100.0%)
-
-Last Two Week Error: 4.76 points per match
 
 [2026/04/25 - Scarlets V Bulls](projections/2026-04-25-Scarlets_V_Bulls)
 
@@ -164,9 +156,9 @@ Competition Accuracy: 56 of 83 (67.47%)
 
 Competition Error: 13.92 points per match
 
-Last Two Week Accuracy: 9 of 12 (75.0%)
+Last Two Week Accuracy: 4 of 6 (66.67%)
 
-Last Two Week Error: 12.91 points per match
+Last Two Week Error: 12.29 points per match
 
 [2026/04/18 - Tokyo Sungoliath V Kubota Spears](projections/2026-04-18-TokyoSungoliath_V_KubotaSpears)
 
@@ -200,10 +192,6 @@ Competition Accuracy: 50 of 60 (83.33%)
 
 Competition Error: 14.17 points per match
 
-Last Two Week Accuracy: 3 of 5 (60.0%)
-
-Last Two Week Error: 9.21 points per match
-
 [2026/04/25 - Harlequins V Sale Sharks](projections/2026-04-25-Harlequins_V_SaleSharks)
 
 [2026/04/25 - Saracens V Leicester Tigers](projections/2026-04-25-Saracens_V_LeicesterTigers)
@@ -232,9 +220,9 @@ Competition Accuracy: 2 of 4 (50.0%)
 
 Competition Error: 29.39 points per match
 
-Last Two Week Accuracy: 2 of 4 (50.0%)
+Last Two Week Accuracy: 2 of 3 (66.67%)
 
-Last Two Week Error: 29.39 points per match
+Last Two Week Error: 24.75 points per match
 
 [2026/04/18 - Anthem RC V Old Glory DC](projections/2026-04-18-AnthemRC_V_OldGloryDC)
 
@@ -304,10 +292,6 @@ Competition Accuracy: 115 of 158 (72.78%)
 
 Competition Error: 8.25 points per match
 
-Last Two Week Accuracy: 4 of 5 (80.0%)
-
-Last Two Week Error: 8.75 points per match
-
 [2026/04/03 - Rouen V US Bressane](projections/2026-04-03-Rouen_V_USBressane)
 
 [2026/04/10 - Albi V Nice](projections/2026-04-10-Albi_V_Nice)
@@ -345,10 +329,6 @@ Last Two Week Error: 8.75 points per match
 Competition Accuracy: 12 of 21 (57.14%)
 
 Competition Error: 13.84 points per match
-
-Last Two Week Accuracy: 3 of 7 (42.86%)
-
-Last Two Week Error: 12.32 points per match
 
 [2026/04/11 - CASI V Regatas Bella Vista](projections/2026-04-11-CASI_V_RegatasBellaVista)
 
@@ -400,9 +380,9 @@ Competition Accuracy: 110 of 154 (71.43%)
 
 Competition Error: 13.69 points per match
 
-Last Two Week Accuracy: 11 of 14 (78.57%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 20.05 points per match
+Last Two Week Error: 20.65 points per match
 
 [2026/04/18 - Richmond V Bedford](projections/2026-04-18-Richmond_V_Bedford)
 
@@ -440,9 +420,9 @@ Competition Accuracy: 150 of 200 (75.0%)
 
 Competition Error: 13.14 points per match
 
-Last Two Week Accuracy: 11 of 16 (68.75%)
+Last Two Week Accuracy: 7 of 8 (87.5%)
 
-Last Two Week Error: 17.23 points per match
+Last Two Week Error: 19.54 points per match
 
 [2026/04/23 - Vannes V Aurillac](projections/2026-04-23-Vannes_V_Aurillac)
 

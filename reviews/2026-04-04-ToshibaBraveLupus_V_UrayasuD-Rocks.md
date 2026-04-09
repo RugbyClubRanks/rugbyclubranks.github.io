@@ -9,9 +9,9 @@ categories: rugby "Japan Rugby League One 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Toshiba Brave Lupus to win by 13.72, and Toshiba Brave Lupus won by 16.0. That's an absolute error of 2.3 for the margin of victory, while my average absolute error has been 13.5 over the past six months. This prediction was more accurate than 87.6% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Toshiba Brave Lupus to win by 14.22, and Toshiba Brave Lupus won by 16.0. That's an absolute error of 1.8 for the margin of victory, while my average absolute error has been 13.7 over the past six months. This prediction was more accurate than 89.8% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 64.0. That's an absolute error of 12.5 compared to a six month average of 13.1. This prediction was more accurate than 42.7% of my recent predictions.
+For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 64.0. That's an absolute error of 12.5 compared to a six month average of 13.2. This prediction was more accurate than 43.5% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 51.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Toshiba Brave Lupus to win by 9.95,  and Toshiba Brave Lupus won by 16.0. That's an absolute error of 6.1 for the margin of victory, while the average error as been 13.3 for the past six months. So this prediction was more accurate than 57.8% of my recent predictions.
+With the player model, I predicted Toshiba Brave Lupus to win by 9.82,  and Toshiba Brave Lupus won by 16.0. That's an absolute error of 6.2 for the margin of victory, while the average error as been 13.8 for the past six months. So this prediction was more accurate than 63.1% of my recent predictions.
 ## Projected Performances - Player Model
 
 

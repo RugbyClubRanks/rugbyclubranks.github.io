@@ -1,6 +1,6 @@
 ---
 title: "European Rugby Challenge Cup 25/26"
-date: 2026-04-06 6:00:00 -0500
+date: 2026-04-09 6:00:00 -0500
 categories: model review projection
 layout: article
 aside:
@@ -131,14 +131,14 @@ aside:
 
 |                      | Reach Round of 16   | Win Round of 16   | Reach Quarterfinal   | Win Quarterfinal   | Reach Semifinal   | Win Semifinal   | Reach Final   | Win Final   |
 |:---------------------|:--------------------|:------------------|:---------------------|:-------------------|:------------------|:----------------|:--------------|:------------|
-| Montpellier Herault  | 100.0 %             | 100.0 %           | 100.0 %              | 93.2 %             | 93.2 %            | 92.7 %          | 92.7 %        | 78.2 %      |
-| Exeter Chiefs        | 100.0 %             | 100.0 %           | 100.0 %              | 64.5 %             | 64.5 %            | 59.1 %          | 59.1 %        | 14.3 %      |
-| Connacht             | 100.0 %             | 100.0 %           | 100.0 %              | 6.8 %              | 6.8 %             | 6.3 %           | 6.3 %         | 4.4 %       |
-| Ulster               | 100.0 %             | 100.0 %           | 100.0 %              | 88.9 %             | 88.9 %            | 18.3 %          | 18.3 %        | 1.9 %       |
-| Benetton Treviso     | 100.0 %             | 100.0 %           | 100.0 %              | 35.5 %             | 35.5 %            | 21.8 %          | 21.8 %        | 0.9 %       |
-| Dragons              | 100.0 %             | 100.0 %           | 100.0 %              | 48.1 %             | 48.1 %            | 0.8 %           | 0.8 %         | 0.3 %       |
-| La Rochelle          | 100.0 %             | 100.0 %           | 100.0 %              | 11.1 %             | 11.1 %            | 0.8 %           | 0.8 %         | 0.0 %       |
-| Zebre                | 100.0 %             | 100.0 %           | 100.0 %              | 51.9 %             | 51.9 %            | 0.2 %           | 0.2 %         | 0.0 %       |
+| Montpellier Herault  | 100.0 %             | 100.0 %           | 100.0 %              | 93.0 %             | 93.0 %            | 92.5 %          | 92.5 %        | 77.5 %      |
+| Exeter Chiefs        | 100.0 %             | 100.0 %           | 100.0 %              | 65.0 %             | 65.0 %            | 57.5 %          | 57.5 %        | 15.0 %      |
+| Connacht             | 100.0 %             | 100.0 %           | 100.0 %              | 7.0 %              | 7.0 %             | 6.7 %           | 6.7 %         | 3.5 %       |
+| Ulster               | 100.0 %             | 100.0 %           | 100.0 %              | 90.4 %             | 90.4 %            | 19.8 %          | 19.8 %        | 2.7 %       |
+| Benetton Treviso     | 100.0 %             | 100.0 %           | 100.0 %              | 35.0 %             | 35.0 %            | 21.8 %          | 21.8 %        | 0.8 %       |
+| Dragons              | 100.0 %             | 100.0 %           | 100.0 %              | 52.6 %             | 52.6 %            | 0.7 %           | 0.7 %         | 0.4 %       |
+| Zebre                | 100.0 %             | 100.0 %           | 100.0 %              | 47.4 %             | 47.4 %            | 0.1 %           | 0.1 %         | 0.1 %       |
+| La Rochelle          | 100.0 %             | 100.0 %           | 100.0 %              | 9.6 %              | 9.6 %             | 0.9 %           | 0.9 %         | 0.0 %       |
 | Newcastle Red Bulls  | 100.0 %             | 0.0 %             | 0.0 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
 | Stade Francais Paris | 100.0 %             | 0.0 %             | 0.0 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
 | Sharks               | 100.0 %             | 0.0 %             | 0.0 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
@@ -155,7 +155,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 74.6% | 10.7 |
+| Club Level | 77.3% | 10.4 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -178,7 +178,7 @@ Average Margin: Ulster by 9.2
 ### Montpellier Herault V Connacht on 2026/04/11
 
 
-Average Margin: Montpellier Herault by 10.2
+Average Margin: Montpellier Herault by 9.9
 
 <p float="left">
 <img src="plots/2026-04-11-MontpellierHerault_V_Connacht_club_performances.png" width="32%" />
@@ -189,7 +189,7 @@ Average Margin: Montpellier Herault by 10.2
 ### Zebre V Dragons on 2026/04/11
 
 
-Average Margin: Zebre by 0.6
+Average Margin: Zebre by 0.2
 
 <p float="left">
 <img src="plots/2026-04-11-Zebre_V_Dragons_club_performances.png" width="32%" />
@@ -200,7 +200,7 @@ Average Margin: Zebre by 0.6
 ### Benetton Treviso V Exeter Chiefs on 2026/04/12
 
 
-Average Margin: Exeter Chiefs by 2.0
+Average Margin: Exeter Chiefs by 2.1
 
 <p float="left">
 <img src="plots/2026-04-12-BenettonTreviso_V_ExeterChiefs_club_performances.png" width="32%" />
@@ -210,54 +210,21 @@ Average Margin: Exeter Chiefs by 2.0
 
 ## Week 6
 
-### Montpellier Herault V Zebre on 2026-04-30
+### Benetton Treviso V La Rochelle on 2026-04-30
 
 
-Average Margin: Montpellier Herault by 19.9
-
-<p float="left">
-<img src="plots/2026-04-30-MontpellierHerault_V_Zebre_club_performances.png" width="32%" />
-<img src="plots/2026-04-30-MontpellierHerault_V_Zebre_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-MontpellierHerault_V_Zebre_club_spreads.png" width="32%" />
-</p>
-
-### Montpellier Herault V Dragons on 2026-04-30
-
-
-Average Margin: Montpellier Herault by 15.5
+Average Margin: Benetton Treviso by 6.9
 
 <p float="left">
-<img src="plots/2026-04-30-MontpellierHerault_V_Dragons_club_performances.png" width="32%" />
-<img src="plots/2026-04-30-MontpellierHerault_V_Dragons_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-MontpellierHerault_V_Dragons_club_spreads.png" width="32%" />
-</p>
-
-### Connacht V Dragons on 2026-04-30
-
-
-Average Margin: Connacht by 10.1
-
-<p float="left">
-<img src="plots/2026-04-30-Connacht_V_Dragons_club_performances.png" width="32%" />
-<img src="plots/2026-04-30-Connacht_V_Dragons_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-Connacht_V_Dragons_club_spreads.png" width="32%" />
-</p>
-
-### Connacht V Zebre on 2026-04-30
-
-
-Average Margin: Connacht by 16.0
-
-<p float="left">
-<img src="plots/2026-04-30-Connacht_V_Zebre_club_performances.png" width="32%" />
-<img src="plots/2026-04-30-Connacht_V_Zebre_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-Connacht_V_Zebre_club_spreads.png" width="32%" />
+<img src="plots/2026-04-30-BenettonTreviso_V_LaRochelle_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-BenettonTreviso_V_LaRochelle_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-BenettonTreviso_V_LaRochelle_club_spreads.png" width="32%" />
 </p>
 
 ### Exeter Chiefs V Ulster on 2026-04-30
 
 
-Average Margin: Exeter Chiefs by 8.8
+Average Margin: Exeter Chiefs by 8.2
 
 <p float="left">
 <img src="plots/2026-04-30-ExeterChiefs_V_Ulster_club_performances.png" width="32%" />
@@ -268,7 +235,7 @@ Average Margin: Exeter Chiefs by 8.8
 ### Benetton Treviso V Ulster on 2026-04-30
 
 
-Average Margin: Benetton Treviso by 1.7
+Average Margin: Benetton Treviso by 2.4
 
 <p float="left">
 <img src="plots/2026-04-30-BenettonTreviso_V_Ulster_club_performances.png" width="32%" />
@@ -279,7 +246,7 @@ Average Margin: Benetton Treviso by 1.7
 ### Exeter Chiefs V La Rochelle on 2026-04-30
 
 
-Average Margin: Exeter Chiefs by 12.3
+Average Margin: Exeter Chiefs by 11.1
 
 <p float="left">
 <img src="plots/2026-04-30-ExeterChiefs_V_LaRochelle_club_performances.png" width="32%" />
@@ -287,23 +254,67 @@ Average Margin: Exeter Chiefs by 12.3
 <img src="plots/2026-04-30-ExeterChiefs_V_LaRochelle_club_spreads.png" width="32%" />
 </p>
 
-### Benetton Treviso V La Rochelle on 2026-04-30
+### Montpellier Herault V Dragons on 2026-04-30
 
 
-Average Margin: Benetton Treviso by 6.4
+Average Margin: Montpellier Herault by 15.3
 
 <p float="left">
-<img src="plots/2026-04-30-BenettonTreviso_V_LaRochelle_club_performances.png" width="32%" />
-<img src="plots/2026-04-30-BenettonTreviso_V_LaRochelle_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-BenettonTreviso_V_LaRochelle_club_spreads.png" width="32%" />
+<img src="plots/2026-04-30-MontpellierHerault_V_Dragons_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-MontpellierHerault_V_Dragons_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-MontpellierHerault_V_Dragons_club_spreads.png" width="32%" />
+</p>
+
+### Montpellier Herault V Zebre on 2026-04-30
+
+
+Average Margin: Montpellier Herault by 19.6
+
+<p float="left">
+<img src="plots/2026-04-30-MontpellierHerault_V_Zebre_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-MontpellierHerault_V_Zebre_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-MontpellierHerault_V_Zebre_club_spreads.png" width="32%" />
+</p>
+
+### Connacht V Zebre on 2026-04-30
+
+
+Average Margin: Connacht by 16.8
+
+<p float="left">
+<img src="plots/2026-04-30-Connacht_V_Zebre_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-Connacht_V_Zebre_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-Connacht_V_Zebre_club_spreads.png" width="32%" />
+</p>
+
+### Connacht V Dragons on 2026-04-30
+
+
+Average Margin: Connacht by 11.3
+
+<p float="left">
+<img src="plots/2026-04-30-Connacht_V_Dragons_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-Connacht_V_Dragons_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-Connacht_V_Dragons_club_spreads.png" width="32%" />
 </p>
 
 ## Final
 
+### Montpellier Herault V Benetton Treviso on 2026-05-21
+
+
+Average Margin: Montpellier Herault by 11.2
+
+<p float="left">
+<img src="plots/2026-05-21-MontpellierHerault_V_BenettonTreviso_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-MontpellierHerault_V_BenettonTreviso_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-MontpellierHerault_V_BenettonTreviso_club_spreads.png" width="32%" />
+</p>
+
 ### Montpellier Herault V Exeter Chiefs on 2026-05-21
 
 
-Average Margin: Montpellier Herault by 4.9
+Average Margin: Montpellier Herault by 5.0
 
 <p float="left">
 <img src="plots/2026-05-21-MontpellierHerault_V_ExeterChiefs_club_performances.png" width="32%" />
@@ -314,7 +325,7 @@ Average Margin: Montpellier Herault by 4.9
 ### Montpellier Herault V Ulster on 2026-05-21
 
 
-Average Margin: Montpellier Herault by 8.6
+Average Margin: Montpellier Herault by 8.2
 
 <p float="left">
 <img src="plots/2026-05-21-MontpellierHerault_V_Ulster_club_performances.png" width="32%" />
@@ -322,21 +333,10 @@ Average Margin: Montpellier Herault by 8.6
 <img src="plots/2026-05-21-MontpellierHerault_V_Ulster_club_spreads.png" width="32%" />
 </p>
 
-### Montpellier Herault V Benetton Treviso on 2026-05-21
-
-
-Average Margin: Montpellier Herault by 11.5
-
-<p float="left">
-<img src="plots/2026-05-21-MontpellierHerault_V_BenettonTreviso_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-MontpellierHerault_V_BenettonTreviso_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-MontpellierHerault_V_BenettonTreviso_club_spreads.png" width="32%" />
-</p>
-
 ### Connacht V Exeter Chiefs on 2026-05-21
 
 
-Average Margin: Connacht by 1.6
+Average Margin: Connacht by 0.3
 
 <p float="left">
 <img src="plots/2026-05-21-Connacht_V_ExeterChiefs_club_performances.png" width="32%" />
@@ -344,43 +344,10 @@ Average Margin: Connacht by 1.6
 <img src="plots/2026-05-21-Connacht_V_ExeterChiefs_club_spreads.png" width="32%" />
 </p>
 
-### Montpellier Herault V La Rochelle on 2026-05-21
-
-
-Average Margin: Montpellier Herault by 8.4
-
-<p float="left">
-<img src="plots/2026-05-21-MontpellierHerault_V_LaRochelle_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-MontpellierHerault_V_LaRochelle_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-MontpellierHerault_V_LaRochelle_club_spreads.png" width="32%" />
-</p>
-
-### Connacht V Benetton Treviso on 2026-05-21
-
-
-Average Margin: Connacht by 11.5
-
-<p float="left">
-<img src="plots/2026-05-21-Connacht_V_BenettonTreviso_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Connacht_V_BenettonTreviso_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Connacht_V_BenettonTreviso_club_spreads.png" width="32%" />
-</p>
-
-### Zebre V Exeter Chiefs on 2026-05-21
-
-
-Average Margin: Exeter Chiefs by 13.0
-
-<p float="left">
-<img src="plots/2026-05-21-Zebre_V_ExeterChiefs_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-Zebre_V_ExeterChiefs_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-Zebre_V_ExeterChiefs_club_spreads.png" width="32%" />
-</p>
-
 ### Connacht V Ulster on 2026-05-21
 
 
-Average Margin: Connacht by 5.5
+Average Margin: Connacht by 2.7
 
 <p float="left">
 <img src="plots/2026-05-21-Connacht_V_Ulster_club_performances.png" width="32%" />
@@ -391,7 +358,7 @@ Average Margin: Connacht by 5.5
 ### Dragons V Exeter Chiefs on 2026-05-21
 
 
-Average Margin: Exeter Chiefs by 4.3
+Average Margin: Exeter Chiefs by 3.2
 
 <p float="left">
 <img src="plots/2026-05-21-Dragons_V_ExeterChiefs_club_performances.png" width="32%" />
@@ -399,10 +366,32 @@ Average Margin: Exeter Chiefs by 4.3
 <img src="plots/2026-05-21-Dragons_V_ExeterChiefs_club_spreads.png" width="32%" />
 </p>
 
+### Montpellier Herault V La Rochelle on 2026-05-21
+
+
+Average Margin: Montpellier Herault by 11.7
+
+<p float="left">
+<img src="plots/2026-05-21-MontpellierHerault_V_LaRochelle_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-MontpellierHerault_V_LaRochelle_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-MontpellierHerault_V_LaRochelle_club_spreads.png" width="32%" />
+</p>
+
+### Connacht V Benetton Treviso on 2026-05-21
+
+
+Average Margin: Connacht by 10.6
+
+<p float="left">
+<img src="plots/2026-05-21-Connacht_V_BenettonTreviso_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-Connacht_V_BenettonTreviso_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-Connacht_V_BenettonTreviso_club_spreads.png" width="32%" />
+</p>
+
 ### Zebre V Ulster on 2026-05-21
 
 
-Average Margin: Ulster by 17.0
+Average Margin: Zebre by 11.0
 
 <p float="left">
 <img src="plots/2026-05-21-Zebre_V_Ulster_club_performances.png" width="32%" />
@@ -413,7 +402,7 @@ Average Margin: Ulster by 17.0
 ### Dragons V Benetton Treviso on 2026-05-21
 
 
-Average Margin: Dragons by 5.5
+Average Margin: Dragons by 4.0
 
 <p float="left">
 <img src="plots/2026-05-21-Dragons_V_BenettonTreviso_club_performances.png" width="32%" />
