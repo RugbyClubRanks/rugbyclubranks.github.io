@@ -26,13 +26,15 @@ Last Two Week Error: 32.66 points per match
 
 [In depth model review and projections for Super Rugby Pacific 2026](comp_files/Super_Rugby_Pacific_2026)
 
-Competition Accuracy: 25 of 38 (65.79%)
+Competition Accuracy: 26 of 39 (66.67%)
 
-Competition Error: 15.98 points per match
+Competition Error: 15.65 points per match
 
-Last Two Week Accuracy: 2 of 3 (66.67%)
+Last Two Week Accuracy: 3 of 4 (75.0%)
 
-Last Two Week Error: 24.4 points per match
+Last Two Week Error: 19.13 points per match
+
+[2026/04/10 - Highlanders V Brumbies, 10.0 to 14.0](reviews/2026-04-10-Highlanders_V_Brumbies)
 
 [2026/04/04 - Queensland Reds V Western Force, 19.0 to 42.0](reviews/2026-04-04-QueenslandReds_V_WesternForce)
 
@@ -81,34 +83,6 @@ Last Two Week Error: 12.29 points per match
 [2026/04/03 - Mitsubishi Dynaboars V Shizuoka Blue Revs, 41.0 to 45.0](reviews/2026-04-03-MitsubishiDynaboars_V_ShizuokaBlueRevs)
 
 [2026/04/03 - Mie Honda Heat V Tokyo Sungoliath, 24.0 to 17.0](reviews/2026-04-03-MieHondaHeat_V_TokyoSungoliath)
-## European Rugby Challenge Cup
-
-
-[In depth model review and projections for European Rugby Challenge Cup 25/26](comp_files/European_Rugby_Challenge_Cup_2526)
-
-Competition Accuracy: 31 of 44 (70.45%)
-
-Competition Error: 13.02 points per match
-
-Last Two Week Accuracy: 6 of 8 (75.0%)
-
-Last Two Week Error: 11.87 points per match
-
-[2026/04/04 - Benetton Treviso V Cardiff Rugby, 38.0 to 35.0](reviews/2026-04-04-BenettonTreviso_V_CardiffRugby)
-
-[2026/04/03 - Connacht V Sharks, 29.0 to 12.0](reviews/2026-04-03-Connacht_V_Sharks)
-
-[2026/04/05 - Zebre V Pau, 31.0 to 15.0](reviews/2026-04-05-Zebre_V_Pau)
-
-[2026/04/05 - Stade Francais Paris V Dragons, 31.0 to 36.0](reviews/2026-04-05-StadeFrancaisParis_V_Dragons)
-
-[2026/04/04 - Ulster V Ospreys, 28.0 to 24.0](reviews/2026-04-04-Ulster_V_Ospreys)
-
-[2026/04/04 - Newcastle Red Bulls V La Rochelle, 18.0 to 26.0](reviews/2026-04-04-NewcastleRedBulls_V_LaRochelle)
-
-[2026/04/04 - Montpellier Herault V Perpignan, 53.0 to 13.0](reviews/2026-04-04-MontpellierHerault_V_Perpignan)
-
-[2026/04/04 - Exeter Chiefs V Munster, 31.0 to 21.0](reviews/2026-04-04-ExeterChiefs_V_Munster)
 ## European Rugby Champions Cup
 
 
@@ -120,7 +94,7 @@ Competition Error: 16.88 points per match
 
 Last Two Week Accuracy: 7 of 8 (87.5%)
 
-Last Two Week Error: 11.16 points per match
+Last Two Week Error: 11.15 points per match
 
 [2026/04/05 - Leinster V Edinburgh, 49.0 to 31.0](reviews/2026-04-05-Leinster_V_Edinburgh)
 
@@ -137,6 +111,34 @@ Last Two Week Error: 11.16 points per match
 [2026/04/03 - Northampton Saints V Castres Olympique, 49.0 to 41.0](reviews/2026-04-03-NorthamptonSaints_V_CastresOlympique)
 
 [2026/04/05 - Bordeaux Begles V Leicester Tigers, 64.0 to 14.0](reviews/2026-04-05-BordeauxBegles_V_LeicesterTigers)
+## European Rugby Challenge Cup
+
+
+[In depth model review and projections for European Rugby Challenge Cup 25/26](comp_files/European_Rugby_Challenge_Cup_2526)
+
+Competition Accuracy: 31 of 44 (70.45%)
+
+Competition Error: 13.02 points per match
+
+Last Two Week Accuracy: 6 of 8 (75.0%)
+
+Last Two Week Error: 11.87 points per match
+
+[2026/04/03 - Connacht V Sharks, 29.0 to 12.0](reviews/2026-04-03-Connacht_V_Sharks)
+
+[2026/04/04 - Benetton Treviso V Cardiff Rugby, 38.0 to 35.0](reviews/2026-04-04-BenettonTreviso_V_CardiffRugby)
+
+[2026/04/05 - Zebre V Pau, 31.0 to 15.0](reviews/2026-04-05-Zebre_V_Pau)
+
+[2026/04/05 - Stade Francais Paris V Dragons, 31.0 to 36.0](reviews/2026-04-05-StadeFrancaisParis_V_Dragons)
+
+[2026/04/04 - Ulster V Ospreys, 28.0 to 24.0](reviews/2026-04-04-Ulster_V_Ospreys)
+
+[2026/04/04 - Newcastle Red Bulls V La Rochelle, 18.0 to 26.0](reviews/2026-04-04-NewcastleRedBulls_V_LaRochelle)
+
+[2026/04/04 - Montpellier Herault V Perpignan, 53.0 to 13.0](reviews/2026-04-04-MontpellierHerault_V_Perpignan)
+
+[2026/04/04 - Exeter Chiefs V Munster, 31.0 to 21.0](reviews/2026-04-04-ExeterChiefs_V_Munster)
 # Domestic Competitions
 
 ## Japan Rugby League One D2
@@ -146,11 +148,11 @@ Last Two Week Error: 11.16 points per match
 
 Competition Accuracy: 21 of 31 (67.74%)
 
-Competition Error: 14.79 points per match
+Competition Error: 14.78 points per match
 
 Last Two Week Accuracy: 3 of 4 (75.0%)
 
-Last Two Week Error: 9.84 points per match
+Last Two Week Error: 9.79 points per match
 
 [2026/04/03 - Green Rockets Tokatsu V Kyuden Voltex, 21.0 to 22.0](reviews/2026-04-03-GreenRocketsTokatsu_V_KyudenVoltex)
 
@@ -224,7 +226,7 @@ Competition Error: 16.38 points per match
 
 Last Two Week Accuracy: 3 of 3 (100.0%)
 
-Last Two Week Error: 12.31 points per match
+Last Two Week Error: 12.26 points per match
 
 [2026/04/04 - Skyactivs Hiroshima V Chugoku Red Regulions, 49.0 to 7.0](reviews/2026-04-04-SkyactivsHiroshima_V_ChugokuRedRegulions)
 

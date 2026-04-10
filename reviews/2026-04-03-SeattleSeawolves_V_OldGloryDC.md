@@ -9,9 +9,9 @@ categories: rugby "Major League Rugby 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Seattle Seawolves to win by 9.25, and Seattle Seawolves won by 17.0. That's an absolute error of 7.8 for the margin of victory, while my average absolute error has been 13.7 over the past six months. This prediction was more accurate than 60.7% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Seattle Seawolves to win by 9.34, and Seattle Seawolves won by 17.0. That's an absolute error of 7.7 for the margin of victory, while my average absolute error has been 13.7 over the past six months. This prediction was more accurate than 61.5% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 47.5 and we have an actual total of 49.0. That's an absolute error of 1.5 compared to a six month average of 13.2. This prediction was more accurate than 92.6% of my recent predictions.
+For the Over/Under model, I predicted a total of 46.5 and we have an actual total of 49.0. That's an absolute error of 2.5 compared to a six month average of 13.2. This prediction was more accurate than 88.2% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 47.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Seattle Seawolves to win by 9.62,  and Seattle Seawolves won by 17.0. That's an absolute error of 7.4 for the margin of victory, while the average error as been 13.8 for the past six months. So this prediction was more accurate than 57.4% of my recent predictions.
+With the player model, I predicted Seattle Seawolves to win by 9.27,  and Seattle Seawolves won by 17.0. That's an absolute error of 7.7 for the margin of victory, while the average error as been 13.8 for the past six months. So this prediction was more accurate than 56.0% of my recent predictions.
 ## Projected Performances - Player Model
 
 

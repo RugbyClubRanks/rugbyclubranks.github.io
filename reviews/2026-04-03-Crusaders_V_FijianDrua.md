@@ -9,9 +9,9 @@ categories: rugby "Super Rugby Pacific 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Crusaders to win by 17.2, and Crusaders won by 43.0. That's an absolute error of 25.8 for the margin of victory, while my average absolute error has been 13.7 over the past six months. This prediction was more accurate than 15.1% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Crusaders to win by 17.55, and Crusaders won by 43.0. That's an absolute error of 25.4 for the margin of victory, while my average absolute error has been 13.7 over the past six months. This prediction was more accurate than 15.3% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 95.0. That's an absolute error of 46.5 compared to a six month average of 13.2. This prediction was more accurate than 0.3% of my recent predictions.
+For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 95.0. That's an absolute error of 46.5 compared to a six month average of 13.2. This prediction was more accurate than 0.4% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 48.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Crusaders to win by 12.44,  and Crusaders won by 43.0. That's an absolute error of 30.6 for the margin of victory, while the average error as been 13.8 for the past six months. So this prediction was more accurate than 9.4% of my recent predictions.
+With the player model, I predicted Crusaders to win by 12.56,  and Crusaders won by 43.0. That's an absolute error of 30.4 for the margin of victory, while the average error as been 13.8 for the past six months. So this prediction was more accurate than 9.7% of my recent predictions.
 ## Projected Performances - Player Model
 
 

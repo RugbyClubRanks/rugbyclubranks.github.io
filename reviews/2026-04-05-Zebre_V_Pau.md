@@ -9,9 +9,9 @@ categories: rugby "European Rugby Challenge Cup 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Pau to win by 5.82, and Zebre won by 16.0. That's an absolute error of 21.8 for the margin of victory, while my average absolute error has been 13.7 over the past six months. This prediction was more accurate than 20.8% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Pau to win by 6.52, and Zebre won by 16.0. That's an absolute error of 22.5 for the margin of victory, while my average absolute error has been 13.7 over the past six months. This prediction was more accurate than 19.8% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 45.5 and we have an actual total of 46.0. That's an absolute error of 0.5 compared to a six month average of 13.2. This prediction was more accurate than 97.2% of my recent predictions.
+For the Over/Under model, I predicted a total of 45.5 and we have an actual total of 46.0. That's an absolute error of 0.5 compared to a six month average of 13.2. This prediction was more accurate than 97.1% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 45.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Pau to win by 8.81,  and Zebre won by 16.0. That's an absolute error of 24.8 for the margin of victory, while the average error as been 13.8 for the past six months. So this prediction was more accurate than 14.6% of my recent predictions.
+With the player model, I predicted Pau to win by 8.53,  and Zebre won by 16.0. That's an absolute error of 24.5 for the margin of victory, while the average error as been 13.8 for the past six months. So this prediction was more accurate than 15.1% of my recent predictions.
 ## Projected Performances - Player Model
 
 

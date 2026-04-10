@@ -9,9 +9,9 @@ categories: rugby "Pro D2 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Soyaux-Angouleme to win by 7.92, and Soyaux-Angouleme won by 39.0. That's an absolute error of 31.1 for the margin of victory, while my average absolute error has been 13.7 over the past six months. This prediction was more accurate than 9.7% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Soyaux-Angouleme to win by 8.31, and Soyaux-Angouleme won by 39.0. That's an absolute error of 30.7 for the margin of victory, while my average absolute error has been 13.7 over the past six months. This prediction was more accurate than 10.1% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 42.5 and we have an actual total of 65.0. That's an absolute error of 22.5 compared to a six month average of 13.2. This prediction was more accurate than 19.6% of my recent predictions.
+For the Over/Under model, I predicted a total of 42.5 and we have an actual total of 65.0. That's an absolute error of 22.5 compared to a six month average of 13.2. This prediction was more accurate than 19.7% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 42.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Soyaux-Angouleme to win by 4.06,  and Soyaux-Angouleme won by 39.0. That's an absolute error of 34.9 for the margin of victory, while the average error as been 13.8 for the past six months. So this prediction was more accurate than 6.5% of my recent predictions.
+With the player model, I predicted Soyaux-Angouleme to win by 4.47,  and Soyaux-Angouleme won by 39.0. That's an absolute error of 34.5 for the margin of victory, while the average error as been 13.8 for the past six months. So this prediction was more accurate than 6.6% of my recent predictions.
 ## Projected Performances - Player Model
 
 

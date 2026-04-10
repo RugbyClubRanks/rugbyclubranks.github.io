@@ -1,6 +1,6 @@
 ---
 title: "European Rugby Champions Cup 25/26"
-date: 2026-04-09 6:00:00 -0500
+date: 2026-04-10 6:00:00 -0500
 categories: model review projection
 layout: article
 aside:
@@ -167,22 +167,22 @@ aside:
 
 |                    | Reach Round of 16   | Win Round of 16   | Reach Quarterfinal   | Win Quarterfinal   | Reach Semifinal   | Win Semifinal   | Reach Final   | Win Final   |
 |:-------------------|:--------------------|:------------------|:---------------------|:-------------------|:------------------|:----------------|:--------------|:------------|
-| Bordeaux Begles    | 100.0 %             | 100.0 %           | 100.0 %              | 77.5 %             | 77.5 %            | 61.1 %          | 61.1 %        | 49.1 %      |
-| Stade Toulousain   | 100.0 %             | 100.0 %           | 100.0 %              | 22.5 %             | 22.5 %            | 19.4 %          | 19.4 %        | 17.4 %      |
-| Glasgow Warriors   | 100.0 %             | 100.0 %           | 100.0 %              | 98.6 %             | 98.6 %            | 82.3 %          | 82.3 %        | 16.5 %      |
-| Bath Rugby         | 100.0 %             | 100.0 %           | 100.0 %              | 83.2 %             | 83.2 %            | 17.8 %          | 17.8 %        | 13.7 %      |
-| Leinster           | 100.0 %             | 100.0 %           | 100.0 %              | 95.3 %             | 95.3 %            | 17.2 %          | 17.2 %        | 2.2 %       |
-| Northampton Saints | 100.0 %             | 100.0 %           | 100.0 %              | 16.8 %             | 16.8 %            | 1.7 %           | 1.7 %         | 1.1 %       |
-| Toulon             | 100.0 %             | 100.0 %           | 100.0 %              | 1.4 %              | 1.4 %             | 0.5 %           | 0.5 %         | 0.0 %       |
-| Sale Sharks        | 100.0 %             | 100.0 %           | 100.0 %              | 4.7 %              | 4.7 %             | 0.0 %           | 0.0 %         | 0.0 %       |
+| Bordeaux Begles    | 100.0 %             | 100.0 %           | 100.0 %              | 75.5 %             | 75.5 %            | 58.8 %          | 58.8 %        | 47.0 %      |
+| Stade Toulousain   | 100.0 %             | 100.0 %           | 100.0 %              | 24.5 %             | 24.5 %            | 20.1 %          | 20.1 %        | 18.4 %      |
+| Bath Rugby         | 100.0 %             | 100.0 %           | 115.6 %              | 84.4 %             | 100.0 %           | 21.1 %          | 21.1 %        | 17.5 %      |
+| Glasgow Warriors   | 100.0 %             | 100.0 %           | 100.0 %              | 98.9 %             | 98.9 %            | 82.1 %          | 82.1 %        | 13.7 %      |
+| Leinster           | 100.0 %             | 100.0 %           | 100.0 %              | 94.9 %             | 94.9 %            | 17.3 %          | 17.3 %        | 3.4 %       |
+| Sale Sharks        | 100.0 %             | 100.0 %           | 100.0 %              | 5.1 %              | 5.1 %             | 0.3 %           | 0.3 %         | 0.0 %       |
+| Toulon             | 100.0 %             | 100.0 %           | 100.0 %              | 1.1 %              | 1.1 %             | 0.3 %           | 0.3 %         | 0.0 %       |
+| Northampton Saints | 100.0 %             | 100.0 %           | 84.4 %               | 15.6 %             | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
 | Harlequins         | 100.0 %             | 0.0 %             | 0.0 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
 | Castres Olympique  | 100.0 %             | 0.0 %             | 0.0 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
+| Saracens           | 100.0 %             | 0.0 %             | 0.0 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
 | Stormers           | 100.0 %             | 0.0 %             | 0.0 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
 | Bulls              | 100.0 %             | 0.0 %             | 0.0 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
 | Bristol Rugby      | 100.0 %             | 0.0 %             | 0.0 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
-| Saracens           | 100.0 %             | 0.0 %             | 0.0 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
-| Edinburgh          | 100.0 %             | 0.0 %             | 0.0 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
 | Leicester Tigers   | 100.0 %             | 0.0 %             | 0.0 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
+| Edinburgh          | 100.0 %             | 0.0 %             | 0.0 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
 
 
 
@@ -191,7 +191,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 75.3% | 13.9 |
+| Club Level | 80.3% | 13.9 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -203,7 +203,7 @@ aside:
 ### Bath Rugby V Northampton Saints on 2026/04/10
 
 
-Average Margin: Bath Rugby by 6.5
+Average Margin: Bath Rugby by 6.6
 
 <p float="left">
 <img src="plots/2026-04-10-BathRugby_V_NorthamptonSaints_club_performances.png" width="32%" />
@@ -214,7 +214,7 @@ Average Margin: Bath Rugby by 6.5
 ### Glasgow Warriors V Toulon on 2026/04/11
 
 
-Average Margin: Glasgow Warriors by 15.7
+Average Margin: Glasgow Warriors by 15.8
 
 <p float="left">
 <img src="plots/2026-04-11-GlasgowWarriors_V_Toulon_club_performances.png" width="32%" />
@@ -225,7 +225,7 @@ Average Margin: Glasgow Warriors by 15.7
 ### Leinster V Sale Sharks on 2026/04/11
 
 
-Average Margin: Leinster by 12.4
+Average Margin: Leinster by 12.2
 
 <p float="left">
 <img src="plots/2026-04-11-Leinster_V_SaleSharks_club_performances.png" width="32%" />
@@ -236,7 +236,7 @@ Average Margin: Leinster by 12.4
 ### Bordeaux Begles V Stade Toulousain on 2026/04/12
 
 
-Average Margin: Bordeaux Begles by 5.0
+Average Margin: Bordeaux Begles by 4.6
 
 <p float="left">
 <img src="plots/2026-04-12-BordeauxBegles_V_StadeToulousain_club_performances.png" width="32%" />
@@ -249,7 +249,7 @@ Average Margin: Bordeaux Begles by 5.0
 ### Glasgow Warriors V Leinster on 2026-04-30
 
 
-Average Margin: Glasgow Warriors by 6.8
+Average Margin: Glasgow Warriors by 6.9
 
 <p float="left">
 <img src="plots/2026-04-30-GlasgowWarriors_V_Leinster_club_performances.png" width="32%" />
@@ -260,7 +260,7 @@ Average Margin: Glasgow Warriors by 6.8
 ### Glasgow Warriors V Sale Sharks on 2026-04-30
 
 
-Average Margin: Glasgow Warriors by 13.7
+Average Margin: Glasgow Warriors by 12.2
 
 <p float="left">
 <img src="plots/2026-04-30-GlasgowWarriors_V_SaleSharks_club_performances.png" width="32%" />
@@ -271,7 +271,7 @@ Average Margin: Glasgow Warriors by 13.7
 ### Toulon V Leinster on 2026-04-30
 
 
-Average Margin: Toulon by 1.1
+Average Margin: Leinster by 4.8
 
 <p float="left">
 <img src="plots/2026-04-30-Toulon_V_Leinster_club_performances.png" width="32%" />
@@ -279,21 +279,21 @@ Average Margin: Toulon by 1.1
 <img src="plots/2026-04-30-Toulon_V_Leinster_club_spreads.png" width="32%" />
 </p>
 
-### Bordeaux Begles V Northampton Saints on 2026-04-30
+### Toulon V Sale Sharks on 2026-04-30
 
 
-Average Margin: Bordeaux Begles by 7.7
+Average Margin: Toulon by 11.0
 
 <p float="left">
-<img src="plots/2026-04-30-BordeauxBegles_V_NorthamptonSaints_club_performances.png" width="32%" />
-<img src="plots/2026-04-30-BordeauxBegles_V_NorthamptonSaints_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-BordeauxBegles_V_NorthamptonSaints_club_spreads.png" width="32%" />
+<img src="plots/2026-04-30-Toulon_V_SaleSharks_club_performances.png" width="32%" />
+<img src="plots/2026-04-30-Toulon_V_SaleSharks_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-30-Toulon_V_SaleSharks_club_spreads.png" width="32%" />
 </p>
 
 ### Bordeaux Begles V Bath Rugby on 2026-04-30
 
 
-Average Margin: Bordeaux Begles by 4.9
+Average Margin: Bordeaux Begles by 5.2
 
 <p float="left">
 <img src="plots/2026-04-30-BordeauxBegles_V_BathRugby_club_performances.png" width="32%" />
@@ -304,23 +304,12 @@ Average Margin: Bordeaux Begles by 4.9
 ### Stade Toulousain V Bath Rugby on 2026-04-30
 
 
-Average Margin: Stade Toulousain by 7.5
+Average Margin: Stade Toulousain by 6.4
 
 <p float="left">
 <img src="plots/2026-04-30-StadeToulousain_V_BathRugby_club_performances.png" width="32%" />
 <img src="plots/2026-04-30-StadeToulousain_V_BathRugby_club_resultbar.png" width="32%" />
 <img src="plots/2026-04-30-StadeToulousain_V_BathRugby_club_spreads.png" width="32%" />
-</p>
-
-### Stade Toulousain V Northampton Saints on 2026-04-30
-
-
-Average Margin: Stade Toulousain by 10.1
-
-<p float="left">
-<img src="plots/2026-04-30-StadeToulousain_V_NorthamptonSaints_club_performances.png" width="32%" />
-<img src="plots/2026-04-30-StadeToulousain_V_NorthamptonSaints_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-30-StadeToulousain_V_NorthamptonSaints_club_spreads.png" width="32%" />
 </p>
 
 ## Final
@@ -336,10 +325,21 @@ Average Margin: Bordeaux Begles by 5.9
 <img src="plots/2026-05-21-BordeauxBegles_V_GlasgowWarriors_club_spreads.png" width="32%" />
 </p>
 
+### Stade Toulousain V Glasgow Warriors on 2026-05-21
+
+
+Average Margin: Stade Toulousain by 8.9
+
+<p float="left">
+<img src="plots/2026-05-21-StadeToulousain_V_GlasgowWarriors_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-StadeToulousain_V_GlasgowWarriors_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-StadeToulousain_V_GlasgowWarriors_club_spreads.png" width="32%" />
+</p>
+
 ### Bordeaux Begles V Leinster on 2026-05-21
 
 
-Average Margin: Bordeaux Begles by 6.6
+Average Margin: Bordeaux Begles by 5.3
 
 <p float="left">
 <img src="plots/2026-05-21-BordeauxBegles_V_Leinster_club_performances.png" width="32%" />
@@ -350,7 +350,7 @@ Average Margin: Bordeaux Begles by 6.6
 ### Bath Rugby V Glasgow Warriors on 2026-05-21
 
 
-Average Margin: Bath Rugby by 5.0
+Average Margin: Bath Rugby by 5.3
 
 <p float="left">
 <img src="plots/2026-05-21-BathRugby_V_GlasgowWarriors_club_performances.png" width="32%" />
@@ -358,43 +358,10 @@ Average Margin: Bath Rugby by 5.0
 <img src="plots/2026-05-21-BathRugby_V_GlasgowWarriors_club_spreads.png" width="32%" />
 </p>
 
-### Bath Rugby V Leinster on 2026-05-21
-
-
-Average Margin: Bath Rugby by 5.1
-
-<p float="left">
-<img src="plots/2026-05-21-BathRugby_V_Leinster_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-BathRugby_V_Leinster_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-BathRugby_V_Leinster_club_spreads.png" width="32%" />
-</p>
-
-### Stade Toulousain V Glasgow Warriors on 2026-05-21
-
-
-Average Margin: Stade Toulousain by 8.7
-
-<p float="left">
-<img src="plots/2026-05-21-StadeToulousain_V_GlasgowWarriors_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-StadeToulousain_V_GlasgowWarriors_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-StadeToulousain_V_GlasgowWarriors_club_spreads.png" width="32%" />
-</p>
-
-### Bordeaux Begles V Toulon on 2026-05-21
-
-
-Average Margin: Bordeaux Begles by 16.8
-
-<p float="left">
-<img src="plots/2026-05-21-BordeauxBegles_V_Toulon_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-BordeauxBegles_V_Toulon_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-BordeauxBegles_V_Toulon_club_spreads.png" width="32%" />
-</p>
-
 ### Stade Toulousain V Leinster on 2026-05-21
 
 
-Average Margin: Stade Toulousain by 9.9
+Average Margin: Stade Toulousain by 8.5
 
 <p float="left">
 <img src="plots/2026-05-21-StadeToulousain_V_Leinster_club_performances.png" width="32%" />
@@ -402,35 +369,57 @@ Average Margin: Stade Toulousain by 9.9
 <img src="plots/2026-05-21-StadeToulousain_V_Leinster_club_spreads.png" width="32%" />
 </p>
 
-### Northampton Saints V Glasgow Warriors on 2026-05-21
+### Bath Rugby V Leinster on 2026-05-21
 
 
-Average Margin: Northampton Saints by 1.4
+Average Margin: Bath Rugby by 6.8
 
 <p float="left">
-<img src="plots/2026-05-21-NorthamptonSaints_V_GlasgowWarriors_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-NorthamptonSaints_V_GlasgowWarriors_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-NorthamptonSaints_V_GlasgowWarriors_club_spreads.png" width="32%" />
+<img src="plots/2026-05-21-BathRugby_V_Leinster_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-BathRugby_V_Leinster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-BathRugby_V_Leinster_club_spreads.png" width="32%" />
 </p>
 
-### Northampton Saints V Leinster on 2026-05-21
+### Stade Toulousain V Sale Sharks on 2026-05-21
 
 
-Average Margin: Northampton Saints by 7.0
+Average Margin: Stade Toulousain by 14.0
 
 <p float="left">
-<img src="plots/2026-05-21-NorthamptonSaints_V_Leinster_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-NorthamptonSaints_V_Leinster_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-NorthamptonSaints_V_Leinster_club_spreads.png" width="32%" />
+<img src="plots/2026-05-21-StadeToulousain_V_SaleSharks_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-StadeToulousain_V_SaleSharks_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-StadeToulousain_V_SaleSharks_club_spreads.png" width="32%" />
 </p>
 
-### Northampton Saints V Toulon on 2026-05-21
+### Stade Toulousain V Toulon on 2026-05-21
 
 
-Average Margin: Northampton Saints by 28.0
+Average Margin: Stade Toulousain by 9.0
 
 <p float="left">
-<img src="plots/2026-05-21-NorthamptonSaints_V_Toulon_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-NorthamptonSaints_V_Toulon_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-NorthamptonSaints_V_Toulon_club_spreads.png" width="32%" />
+<img src="plots/2026-05-21-StadeToulousain_V_Toulon_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-StadeToulousain_V_Toulon_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-StadeToulousain_V_Toulon_club_spreads.png" width="32%" />
+</p>
+
+### Bordeaux Begles V Sale Sharks on 2026-05-21
+
+
+Average Margin: Bordeaux Begles by 3.0
+
+<p float="left">
+<img src="plots/2026-05-21-BordeauxBegles_V_SaleSharks_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-BordeauxBegles_V_SaleSharks_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-BordeauxBegles_V_SaleSharks_club_spreads.png" width="32%" />
+</p>
+
+### Bordeaux Begles V Toulon on 2026-05-21
+
+
+Average Margin: Bordeaux Begles by 12.0
+
+<p float="left">
+<img src="plots/2026-05-21-BordeauxBegles_V_Toulon_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-BordeauxBegles_V_Toulon_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-BordeauxBegles_V_Toulon_club_spreads.png" width="32%" />
 </p>

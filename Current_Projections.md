@@ -5,6 +5,20 @@ key: page-projections
 ---
 # International Competitions
 
+## International Test Match
+
+
+[In depth model review and projections for International Test Match 2026](comp_files/International_Test_Match_2026)
+
+Competition Accuracy: 0 of 1 (0.0%)
+
+Competition Error: 32.66 points per match
+
+Last Two Week Accuracy: 0 of 1 (0.0%)
+
+Last Two Week Error: 32.66 points per match
+
+[2026/04/10 - Croatia V Mexico](projections/2026-04-10-Croatia_V_Mexico)
 ## Women's Six Nations
 
 
@@ -34,13 +48,13 @@ key: page-projections
 
 [In depth model review and projections for Super Rugby Pacific 2026](comp_files/Super_Rugby_Pacific_2026)
 
-Competition Accuracy: 25 of 38 (65.79%)
+Competition Accuracy: 26 of 39 (66.67%)
 
-Competition Error: 15.98 points per match
+Competition Error: 15.65 points per match
 
-Last Two Week Accuracy: 2 of 3 (66.67%)
+Last Two Week Accuracy: 3 of 4 (75.0%)
 
-Last Two Week Error: 24.4 points per match
+Last Two Week Error: 19.13 points per match
 
 [2026/04/11 - Hurricanes V Blues](projections/2026-04-11-Hurricanes_V_Blues)
 
@@ -67,8 +81,6 @@ Last Two Week Error: 24.4 points per match
 [2026/04/17 - Blues V Highlanders](projections/2026-04-17-Blues_V_Highlanders)
 
 [2026/04/11 - Fijian Drua V Western Force](projections/2026-04-11-FijianDrua_V_WesternForce)
-
-[2026/04/10 - Highlanders V Brumbies](projections/2026-04-10-Highlanders_V_Brumbies)
 
 [2026/04/10 - Moana Pasifika V Chiefs](projections/2026-04-10-MoanaPasifika_V_Chiefs)
 ## Top 14
@@ -168,21 +180,21 @@ Last Two Week Error: 12.29 points per match
 
 [2026/04/17 - Mie Honda Heat V Black Rams Tokyo](projections/2026-04-17-MieHondaHeat_V_BlackRamsTokyo)
 
-[2026/04/18 - Yokohama Canon Eagles V Urayasu D-Rocks](projections/2026-04-18-YokohamaCanonEagles_V_UrayasuD-Rocks)
+[2026/04/24 - Urayasu D-Rocks V Shizuoka Blue Revs](projections/2026-04-24-UrayasuD-Rocks_V_ShizuokaBlueRevs)
 
 [2026/04/18 - Toyota Verblitz V Kobelco Kobe Steelers](projections/2026-04-18-ToyotaVerblitz_V_KobelcoKobeSteelers)
 
-[2026/04/24 - Urayasu D-Rocks V Shizuoka Blue Revs](projections/2026-04-24-UrayasuD-Rocks_V_ShizuokaBlueRevs)
+[2026/04/18 - Yokohama Canon Eagles V Urayasu D-Rocks](projections/2026-04-18-YokohamaCanonEagles_V_UrayasuD-Rocks)
 
-[2026/04/25 - Black Rams Tokyo V Toyota Verblitz](projections/2026-04-25-BlackRamsTokyo_V_ToyotaVerblitz)
-
-[2026/04/25 - Toshiba Brave Lupus V Yokohama Canon Eagles](projections/2026-04-25-ToshibaBraveLupus_V_YokohamaCanonEagles)
-
-[2026/04/25 - Saitama Wild Knights V Mitsubishi Dynaboars](projections/2026-04-25-SaitamaWildKnights_V_MitsubishiDynaboars)
+[2026/04/25 - Kobelco Kobe Steelers V Tokyo Sungoliath](projections/2026-04-25-KobelcoKobeSteelers_V_TokyoSungoliath)
 
 [2026/04/25 - Kubota Spears V Mie Honda Heat](projections/2026-04-25-KubotaSpears_V_MieHondaHeat)
 
-[2026/04/25 - Kobelco Kobe Steelers V Tokyo Sungoliath](projections/2026-04-25-KobelcoKobeSteelers_V_TokyoSungoliath)
+[2026/04/25 - Saitama Wild Knights V Mitsubishi Dynaboars](projections/2026-04-25-SaitamaWildKnights_V_MitsubishiDynaboars)
+
+[2026/04/25 - Toshiba Brave Lupus V Yokohama Canon Eagles](projections/2026-04-25-ToshibaBraveLupus_V_YokohamaCanonEagles)
+
+[2026/04/25 - Black Rams Tokyo V Toyota Verblitz](projections/2026-04-25-BlackRamsTokyo_V_ToyotaVerblitz)
 ## Gallagher Premiership
 
 
@@ -226,21 +238,21 @@ Last Two Week Error: 24.75 points per match
 
 [2026/04/18 - Anthem RC V Old Glory DC](projections/2026-04-18-AnthemRC_V_OldGloryDC)
 
-[2026/04/26 - Old Glory DC V California Legion](projections/2026-04-26-OldGloryDC_V_CaliforniaLegion)
-
-[2026/04/26 - New England Free Jacks V Anthem RC](projections/2026-04-26-NewEnglandFreeJacks_V_AnthemRC)
-
-[2026/04/24 - Seattle Seawolves V Chicago Hounds](projections/2026-04-24-SeattleSeawolves_V_ChicagoHounds)
-
-[2026/04/19 - Chicago Hounds V New England Free Jacks](projections/2026-04-19-ChicagoHounds_V_NewEnglandFreeJacks)
-
-[2026/04/19 - California Legion V Seattle Seawolves](projections/2026-04-19-CaliforniaLegion_V_SeattleSeawolves)
-
-[2026/04/12 - Chicago Hounds V California Legion](projections/2026-04-12-ChicagoHounds_V_CaliforniaLegion)
+[2026/04/11 - New England Free Jacks V Old Glory DC](projections/2026-04-11-NewEnglandFreeJacks_V_OldGloryDC)
 
 [2026/04/12 - Anthem RC V Seattle Seawolves](projections/2026-04-12-AnthemRC_V_SeattleSeawolves)
 
-[2026/04/11 - New England Free Jacks V Old Glory DC](projections/2026-04-11-NewEnglandFreeJacks_V_OldGloryDC)
+[2026/04/12 - Chicago Hounds V California Legion](projections/2026-04-12-ChicagoHounds_V_CaliforniaLegion)
+
+[2026/04/19 - California Legion V Seattle Seawolves](projections/2026-04-19-CaliforniaLegion_V_SeattleSeawolves)
+
+[2026/04/19 - Chicago Hounds V New England Free Jacks](projections/2026-04-19-ChicagoHounds_V_NewEnglandFreeJacks)
+
+[2026/04/24 - Seattle Seawolves V Chicago Hounds](projections/2026-04-24-SeattleSeawolves_V_ChicagoHounds)
+
+[2026/04/26 - New England Free Jacks V Anthem RC](projections/2026-04-26-NewEnglandFreeJacks_V_AnthemRC)
+
+[2026/04/26 - Old Glory DC V California Legion](projections/2026-04-26-OldGloryDC_V_CaliforniaLegion)
 ## European Rugby Challenge Cup
 
 
@@ -272,7 +284,7 @@ Competition Error: 16.88 points per match
 
 Last Two Week Accuracy: 7 of 8 (87.5%)
 
-Last Two Week Error: 11.16 points per match
+Last Two Week Error: 11.15 points per match
 
 [2026/04/10 - Bath Rugby V Northampton Saints](projections/2026-04-10-BathRugby_V_NorthamptonSaints)
 
@@ -432,15 +444,15 @@ Last Two Week Error: 19.54 points per match
 
 [2026/04/23 - Oyonnax V Agen](projections/2026-04-23-Oyonnax_V_Agen)
 
-[2026/04/09 - Biarritz Olympique V USON Nevers](projections/2026-04-09-BiarritzOlympique_V_USONNevers)
-
-[2026/04/09 - Aurillac V Agen](projections/2026-04-09-Aurillac_V_Agen)
-
-[2026/04/09 - Carcassonne V Grenoble](projections/2026-04-09-Carcassonne_V_Grenoble)
-
-[2026/04/09 - Dax V Soyaux-Angouleme](projections/2026-04-09-Dax_V_Soyaux-Angouleme)
+[2026/04/10 - Aurillac V Agen](projections/2026-04-10-Aurillac_V_Agen)
 
 [2026/04/09 - Oyonnax V Brive](projections/2026-04-09-Oyonnax_V_Brive)
+
+[2026/04/10 - Biarritz Olympique V USON Nevers](projections/2026-04-10-BiarritzOlympique_V_USONNevers)
+
+[2026/04/10 - Carcassonne V Grenoble](projections/2026-04-10-Carcassonne_V_Grenoble)
+
+[2026/04/10 - Dax V Soyaux-Angouleme](projections/2026-04-10-Dax_V_Soyaux-Angouleme)
 
 [2026/04/16 - Mont-de-Marsan V Dax](projections/2026-04-16-Mont-de-Marsan_V_Dax)
 
@@ -458,7 +470,7 @@ Last Two Week Error: 19.54 points per match
 
 [2026/04/16 - Grenoble V Oyonnax](projections/2026-04-16-Grenoble_V_Oyonnax)
 
-[2026/04/09 - Provence Rugby V Mont-de-Marsan](projections/2026-04-09-ProvenceRugby_V_Mont-de-Marsan)
+[2026/04/10 - Provence Rugby V Mont-de-Marsan](projections/2026-04-10-ProvenceRugby_V_Mont-de-Marsan)
 
 [2026/04/16 - Colomiers V Carcassonne](projections/2026-04-16-Colomiers_V_Carcassonne)
 
@@ -468,6 +480,6 @@ Last Two Week Error: 19.54 points per match
 
 [2026/04/16 - Agen V Biarritz Olympique](projections/2026-04-16-Agen_V_BiarritzOlympique)
 
-[2026/04/09 - Vannes V Beziers](projections/2026-04-09-Vannes_V_Beziers)
+[2026/04/10 - Vannes V Beziers](projections/2026-04-10-Vannes_V_Beziers)
 
-[2026/04/09 - Valence Romans Drome Rugby V Colomiers](projections/2026-04-09-ValenceRomansDromeRugby_V_Colomiers)
+[2026/04/10 - Valence Romans Drome Rugby V Colomiers](projections/2026-04-10-ValenceRomansDromeRugby_V_Colomiers)
