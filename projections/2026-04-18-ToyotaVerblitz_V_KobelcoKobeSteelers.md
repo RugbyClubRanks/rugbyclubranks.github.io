@@ -9,7 +9,7 @@ categories: rugby "Japan Rugby League One 25/26" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Kobelco Kobe Steelers to win by 7.11.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Kobelco Kobe Steelers to win by 7.0.
 
 Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 22 to 29
 
