@@ -9,9 +9,9 @@ categories: rugby "Gallagher Premiership 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Bath Rugby to win by 14.19, and Bath Rugby won by 33.0. That's an absolute error of 18.8 for the margin of victory, while my average absolute error has been 13.8 over the past six months. This prediction was more accurate than 25.8% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Bath Rugby to win by 13.93, and Bath Rugby won by 33.0. That's an absolute error of 19.1 for the margin of victory, while my average absolute error has been 14.0 over the past six months. This prediction was more accurate than 25.6% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 63.0. That's an absolute error of 13.5 compared to a six month average of 13.4. This prediction was more accurate than 40.8% of my recent predictions.
+For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 63.0. That's an absolute error of 13.5 compared to a six month average of 13.6. This prediction was more accurate than 41.2% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 49.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Bath Rugby to win by 10.71,  and Bath Rugby won by 33.0. That's an absolute error of 22.3 for the margin of victory, while the average error as been 13.9 for the past six months. So this prediction was more accurate than 17.3% of my recent predictions.
+With the player model, I predicted Bath Rugby to win by 10.97,  and Bath Rugby won by 33.0. That's an absolute error of 22.0 for the margin of victory, while the average error as been 14.0 for the past six months. So this prediction was more accurate than 18.2% of my recent predictions.
 ## Projected Performances - Player Model
 
 

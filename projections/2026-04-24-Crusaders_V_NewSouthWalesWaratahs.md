@@ -34,3 +34,28 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 <p float="left">
 <img src="../comp_files/plots/2026-04-24-Crusaders_V_NewSouthWalesWaratahs_club_resultbar.png" width="99%" />
 </p>
+
+# Player Level Predictions
+
+
+The second set of predictions is based around the players themselves - each player gets a rating, and their contribution is weighted by their time on the field. The player model is currently predicting Crusaders to win by 7.55
+## Projected Performances - Player Model
+
+
+<p float="left">
+<img src="../comp_files/plots/2026-04-24-Crusaders_V_NewSouthWalesWaratahs_plr_performances.png" width="99%" />
+</p>
+
+## Projected Spreads - Player Model
+
+
+<p float="left">
+<img src="../comp_files/plots/2026-04-24-Crusaders_V_NewSouthWalesWaratahs_plr_spreads.png" width="99%" />
+</p>
+
+## Projected Results - Player Model
+
+
+<p float="left">
+<img src="../comp_files/plots/2026-04-24-Crusaders_V_NewSouthWalesWaratahs_plr_resultbar.png" width="99%" />
+</p>

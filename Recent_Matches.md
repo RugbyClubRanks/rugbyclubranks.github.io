@@ -14,9 +14,9 @@ Competition Accuracy: 6 of 6 (100.0%)
 
 Competition Error: 19.1 points per match
 
-Last Two Week Accuracy: 6 of 6 (100.0%)
+Last Two Week Accuracy: 3 of 3 (100.0%)
 
-Last Two Week Error: 19.1 points per match
+Last Two Week Error: 27.0 points per match
 
 [2026/04/18 - Ireland Women V Italy Women, 57.0 to 20.0](reviews/2026-04-18-IrelandWomen_V_ItalyWomen)
 
@@ -110,9 +110,9 @@ Competition Accuracy: 33 of 48 (68.75%)
 
 Competition Error: 14.8 points per match
 
-Last Two Week Accuracy: 8 of 10 (80.0%)
+Last Two Week Accuracy: 3 of 5 (60.0%)
 
-Last Two Week Error: 10.31 points per match
+Last Two Week Error: 9.31 points per match
 
 [2026/04/18 - Western Force V Crusaders, 31.0 to 26.0](reviews/2026-04-18-WesternForce_V_Crusaders)
 
@@ -132,9 +132,9 @@ Competition Accuracy: 5 of 10 (50.0%)
 
 Competition Error: 22.6 points per match
 
-Last Two Week Accuracy: 3 of 6 (50.0%)
+Last Two Week Accuracy: 2 of 3 (66.67%)
 
-Last Two Week Error: 18.08 points per match
+Last Two Week Error: 20.53 points per match
 
 [2026/04/19 - Chicago Hounds V New England Free Jacks, 50.0 to 26.0](reviews/2026-04-19-ChicagoHounds_V_ChicagoHounds)
 
@@ -176,9 +176,9 @@ Competition Accuracy: 160 of 216 (74.07%)
 
 Competition Error: 13.18 points per match
 
-Last Two Week Accuracy: 10 of 16 (62.5%)
+Last Two Week Accuracy: 4 of 8 (50.0%)
 
-Last Two Week Error: 13.76 points per match
+Last Two Week Error: 13.86 points per match
 
 [2026/04/16 - Agen V Biarritz Olympique, 26.0 to 7.0](reviews/2026-04-16-Agen_V_BiarritzOlympique)
 
@@ -204,9 +204,9 @@ Competition Accuracy: 20 of 35 (57.14%)
 
 Competition Error: 13.05 points per match
 
-Last Two Week Accuracy: 8 of 14 (57.14%)
+Last Two Week Accuracy: 5 of 7 (71.43%)
 
-Last Two Week Error: 11.85 points per match
+Last Two Week Error: 8.29 points per match
 
 [2026/04/18 - Los Matreros V Los Tilos, 23.0 to 32.0](reviews/2026-04-18-LosMatreros_V_LosTilos)
 
@@ -230,9 +230,9 @@ Competition Accuracy: 120 of 168 (71.43%)
 
 Competition Error: 14.04 points per match
 
-Last Two Week Accuracy: 10 of 14 (71.43%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 17.9 points per match
+Last Two Week Error: 21.14 points per match
 
 [2026/04/18 - Richmond V Bedford, 33.0 to 52.0](reviews/2026-04-18-Richmond_V_Bedford)
 

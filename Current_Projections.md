@@ -14,9 +14,9 @@ Competition Accuracy: 6 of 6 (100.0%)
 
 Competition Error: 19.1 points per match
 
-Last Two Week Accuracy: 6 of 6 (100.0%)
+Last Two Week Accuracy: 3 of 3 (100.0%)
 
-Last Two Week Error: 19.1 points per match
+Last Two Week Error: 27.0 points per match
 
 [2026/04/25 - England Women V Wales Women](projections/2026-04-25-EnglandWomen_V_WalesWomen)
 
@@ -40,9 +40,9 @@ Competition Accuracy: 33 of 48 (68.75%)
 
 Competition Error: 14.8 points per match
 
-Last Two Week Accuracy: 8 of 10 (80.0%)
+Last Two Week Accuracy: 3 of 5 (60.0%)
 
-Last Two Week Error: 10.31 points per match
+Last Two Week Error: 9.31 points per match
 
 [2026/04/25 - Hurricanes V Brumbies](projections/2026-04-25-Hurricanes_V_Brumbies)
 
@@ -246,9 +246,9 @@ Competition Accuracy: 5 of 10 (50.0%)
 
 Competition Error: 22.6 points per match
 
-Last Two Week Accuracy: 3 of 6 (50.0%)
+Last Two Week Accuracy: 2 of 3 (66.67%)
 
-Last Two Week Error: 18.08 points per match
+Last Two Week Error: 20.53 points per match
 
 [2026/04/24 - Chicago Hounds V Seattle Seawolves](projections/2026-04-24-ChicagoHounds_V_ChicagoHounds)
 
@@ -274,10 +274,6 @@ Competition Accuracy: 45 of 60 (75.0%)
 
 Competition Error: 16.62 points per match
 
-Last Two Week Accuracy: 3 of 4 (75.0%)
-
-Last Two Week Error: 12.96 points per match
-
 [2026-04-30 - Bordeaux Begles V Bath Rugby](projections/2026-04-30-BordeauxBegles_V_BathRugby)
 
 [2026-04-30 - Toulon V Leinster](projections/2026-04-30-Toulon_V_Leinster)
@@ -289,10 +285,6 @@ Last Two Week Error: 12.96 points per match
 Competition Accuracy: 34 of 48 (70.83%)
 
 Competition Error: 12.43 points per match
-
-Last Two Week Accuracy: 3 of 4 (75.0%)
-
-Last Two Week Error: 6.06 points per match
 
 [2026-04-30 - Montpellier Herault V Dragons](projections/2026-04-30-MontpellierHerault_V_Dragons)
 
@@ -307,10 +299,6 @@ Last Two Week Error: 6.06 points per match
 Competition Accuracy: 118 of 163 (72.39%)
 
 Competition Error: 8.69 points per match
-
-Last Two Week Accuracy: 3 of 5 (60.0%)
-
-Last Two Week Error: 22.49 points per match
 
 [2026/04/25 - Bourgoin-Jallieu V Narbonne](projections/2026-04-25-Bourgoin-Jallieu_V_Narbonne)
 
@@ -334,9 +322,9 @@ Competition Accuracy: 20 of 35 (57.14%)
 
 Competition Error: 13.05 points per match
 
-Last Two Week Accuracy: 8 of 14 (57.14%)
+Last Two Week Accuracy: 5 of 7 (71.43%)
 
-Last Two Week Error: 11.85 points per match
+Last Two Week Error: 8.29 points per match
 
 [2026/04/25 - Belgrano AC V La Plata](projections/2026-04-25-BelgranoAC_V_LaPlata)
 
@@ -374,9 +362,9 @@ Competition Accuracy: 120 of 168 (71.43%)
 
 Competition Error: 14.04 points per match
 
-Last Two Week Accuracy: 10 of 14 (71.43%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 17.9 points per match
+Last Two Week Error: 21.14 points per match
 
 [2026/05/02 - Nottingham V Ampthill](projections/2026-05-02-Nottingham_V_Ampthill)
 
@@ -414,9 +402,9 @@ Competition Accuracy: 160 of 216 (74.07%)
 
 Competition Error: 13.18 points per match
 
-Last Two Week Accuracy: 10 of 16 (62.5%)
+Last Two Week Accuracy: 4 of 8 (50.0%)
 
-Last Two Week Error: 13.76 points per match
+Last Two Week Error: 13.86 points per match
 
 [2026/04/23 - Provence Rugby V Soyaux-Angouleme](projections/2026-04-23-ProvenceRugby_V_Soyaux-Angouleme)
 

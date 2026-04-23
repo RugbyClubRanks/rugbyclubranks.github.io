@@ -9,9 +9,9 @@ categories: rugby "Top 14 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Stade Toulousain to win by 5.23, and Stade Toulousain won by 17.0. That's an absolute error of 11.8 for the margin of victory, while my average absolute error has been 13.8 over the past six months. This prediction was more accurate than 45.0% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Stade Toulousain to win by 4.71, and Stade Toulousain won by 17.0. That's an absolute error of 12.3 for the margin of victory, while my average absolute error has been 14.0 over the past six months. This prediction was more accurate than 43.4% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 67.0. That's an absolute error of 17.5 compared to a six month average of 13.4. This prediction was more accurate than 29.9% of my recent predictions.
+For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 67.0. That's an absolute error of 17.5 compared to a six month average of 13.6. This prediction was more accurate than 30.0% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 49.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Castres Olympique to win by 0.53,  and Stade Toulousain won by 17.0. That's an absolute error of 17.5 for the margin of victory, while the average error as been 13.9 for the past six months. So this prediction was more accurate than 25.1% of my recent predictions.
+With the player model, I predicted Castres Olympique to win by 0.03,  and Stade Toulousain won by 17.0. That's an absolute error of 17.0 for the margin of victory, while the average error as been 14.0 for the past six months. So this prediction was more accurate than 26.2% of my recent predictions.
 ## Projected Performances - Player Model
 
 
