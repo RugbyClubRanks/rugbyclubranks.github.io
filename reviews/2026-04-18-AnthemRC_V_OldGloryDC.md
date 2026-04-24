@@ -9,9 +9,9 @@ categories: rugby "Major League Rugby 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Old Glory DC to win by 9.07, and Old Glory DC won by 17.0. That's an absolute error of 7.9 for the margin of victory, while my average absolute error has been 14.0 over the past six months. This prediction was more accurate than 61.0% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Old Glory DC to win by 9.58, and Old Glory DC won by 17.0. That's an absolute error of 7.4 for the margin of victory, while my average absolute error has been 14.0 over the past six months. This prediction was more accurate than 63.2% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 40.5 and we have an actual total of 45.0. That's an absolute error of 4.5 compared to a six month average of 13.6. This prediction was more accurate than 79.5% of my recent predictions.
+For the Over/Under model, I predicted a total of 41.5 and we have an actual total of 45.0. That's an absolute error of 3.5 compared to a six month average of 13.6. This prediction was more accurate than 84.0% of my recent predictions.
 ## Projected Performances - Club Model
 
 

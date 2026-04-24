@@ -1,6 +1,6 @@
 ---
 title: "Nationale 25/26"
-date: 2026-04-23 6:00:00 -0500
+date: 2026-04-24 6:00:00 -0500
 categories: model review projection
 layout: article
 aside:
@@ -39,20 +39,20 @@ aside:
 
 | Club             |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:-----------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Chambery         |         4 |            3.531 |                   46.365 |                           0.29  |                              |                         14.558 |
-| Niort            |         5 |            2.82  |                   15.09  |                           0.963 |                              |                         12.531 |
-| Rouen            |         3 |            2.059 |                   14.192 |                           0.385 |                              |                          8.789 |
-| Massy            |         2 |            1.994 |                   37.003 |                           0.003 |                              |                          7.985 |
-| Narbonne         |         2 |            1.623 |                   13.173 |                           0.25  |                              |                          6.926 |
-| Tarbes           |         8 |            1.198 |                  -82.338 |                           1.642 |                              |                          6.802 |
-| Albi             |         2 |            1.221 |                    6.039 |                           0.475 |                              |                          5.493 |
-| Rennes           |         3 |            0.837 |                  -17.583 |                           0.728 |                              |                          4.25  |
-| Nice             |         1 |            0.981 |                   13.747 |                           0.013 |                              |                          3.945 |
-| Suresnes         |         2 |            0.709 |                   -8.365 |                           0.385 |                              |                          3.339 |
-| Périgueux        |         1 |            0.627 |                    2.675 |                           0.252 |                              |                          2.854 |
-| Marcq-en-Baroeul |         2 |            0.425 |                  -19.463 |                           0.384 |                              |                          2.222 |
-| US Bressane      |         2 |            0.275 |                  -15.357 |                           0.685 |                              |                          1.895 |
-| Bourgoin-Jallieu |         1 |            0.187 |                   -5.178 |                           0.383 |                              |                          1.249 |
+| Chambery         |         4 |            3.525 |                   45.43  |                           0.282 |                              |                         14.538 |
+| Niort            |         5 |            2.857 |                   14.976 |                           0.943 |                              |                         12.693 |
+| Rouen            |         3 |            2.028 |                   14.521 |                           0.434 |                              |                          8.696 |
+| Massy            |         2 |            1.993 |                   37.126 |                           0.003 |                              |                          7.983 |
+| Tarbes           |         8 |            1.268 |                  -80.83  |                           1.674 |                              |                          7.138 |
+| Narbonne         |         2 |            1.602 |                   12.593 |                           0.274 |                              |                          6.852 |
+| Albi             |         2 |            1.178 |                    5.251 |                           0.451 |                              |                          5.309 |
+| Rennes           |         3 |            0.791 |                  -18.005 |                           0.792 |                              |                          4.17  |
+| Nice             |         1 |            0.97  |                   14.024 |                           0.017 |                              |                          3.919 |
+| Suresnes         |         2 |            0.692 |                   -8.442 |                           0.421 |                              |                          3.323 |
+| Périgueux        |         1 |            0.65  |                    3.194 |                           0.237 |                              |                          2.937 |
+| Marcq-en-Baroeul |         2 |            0.427 |                  -19.548 |                           0.391 |                              |                          2.213 |
+| US Bressane      |         2 |            0.288 |                  -15.164 |                           0.648 |                              |                          1.94  |
+| Bourgoin-Jallieu |         1 |            0.191 |                   -5.126 |                           0.411 |                              |                          1.267 |
 
 
 
@@ -61,20 +61,20 @@ aside:
 
 | Club             |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Nice             |       26 | 18.981 |              245.747 |                 4.013 |                  8 |               87.945 |
-| Albi             |       26 | 20.221 |              177.039 |                 2.475 |                  4 |               87.493 |
-| Massy            |       26 | 18.994 |              141.003 |                 4.003 |                  4 |               83.985 |
-| Narbonne         |       26 | 17.623 |              204.173 |                 6.25  |                  4 |               82.926 |
-| Chambery         |       26 | 16.531 |              163.365 |                 8.29  |                  5 |               79.558 |
-| Périgueux        |       26 | 15.627 |              111.675 |                 6.252 |                  4 |               72.854 |
-| Niort            |       26 | 11.82  |               35.09  |                 6.963 |                  6 |               62.531 |
-| Rouen            |       26 | 11.059 |               -5.808 |                 7.385 |                  1 |               54.789 |
-| US Bressane      |       26 |  9.275 |              -93.357 |                 7.685 |                  2 |               52.895 |
-| Suresnes         |       26 |  9.709 |              -69.365 |                 4.385 |                  1 |               48.339 |
-| Rennes           |       26 |  8.837 |             -141.583 |                 6.728 |                  1 |               45.25  |
-| Bourgoin-Jallieu |       26 |  9.187 |             -191.178 |                 6.383 |                    |               43.249 |
-| Marcq-en-Baroeul |       26 |  5.425 |             -249.463 |                 5.384 |                  2 |               31.222 |
-| Tarbes           |       26 |  3.198 |             -327.338 |                 8.642 |                    |               21.802 |
+| Nice             |       26 | 18.97  |              246.024 |                 4.017 |                  8 |               87.919 |
+| Albi             |       26 | 20.178 |              176.251 |                 2.451 |                  4 |               87.309 |
+| Massy            |       26 | 18.993 |              141.126 |                 4.003 |                  4 |               83.983 |
+| Narbonne         |       26 | 17.602 |              203.593 |                 6.274 |                  4 |               82.852 |
+| Chambery         |       26 | 16.525 |              162.43  |                 8.282 |                  5 |               79.538 |
+| Périgueux        |       26 | 15.65  |              112.194 |                 6.237 |                  4 |               72.937 |
+| Niort            |       26 | 11.857 |               34.976 |                 6.943 |                  6 |               62.693 |
+| Rouen            |       26 | 11.028 |               -5.479 |                 7.434 |                  1 |               54.696 |
+| US Bressane      |       26 |  9.288 |              -93.164 |                 7.648 |                  2 |               52.94  |
+| Suresnes         |       26 |  9.692 |              -69.442 |                 4.421 |                  1 |               48.323 |
+| Rennes           |       26 |  8.791 |             -142.005 |                 6.792 |                  1 |               45.17  |
+| Bourgoin-Jallieu |       26 |  9.191 |             -191.126 |                 6.411 |                    |               43.267 |
+| Marcq-en-Baroeul |       26 |  5.427 |             -249.548 |                 5.391 |                  2 |               31.213 |
+| Tarbes           |       26 |  3.268 |             -325.83  |                 8.674 |                    |               22.138 |
 
 
 
@@ -95,7 +95,7 @@ aside:
 ### Rennes V Chambery on 2026/01/31
 
 
-Average Margin: Chambery by 4.6
+Average Margin: Chambery by 4.4
 
 <p float="left">
 <img src="plots/2026-01-31-Rennes_V_Chambery_club_performances.png" width="32%" />
@@ -121,7 +121,7 @@ Average Margin: Tarbes by 0.9
 ### Massy V Tarbes on 2026/02/20
 
 
-Average Margin: Massy by 18.4
+Average Margin: Massy by 18.5
 
 <p float="left">
 <img src="plots/2026-02-20-Massy_V_Tarbes_club_performances.png" width="32%" />
@@ -134,7 +134,7 @@ Average Margin: Massy by 18.4
 ### Tarbes V Narbonne on 2026/02/27
 
 
-Average Margin: Narbonne by 8.0
+Average Margin: Narbonne by 7.5
 
 <p float="left">
 <img src="plots/2026-02-27-Tarbes_V_Narbonne_club_performances.png" width="32%" />
@@ -157,21 +157,10 @@ Average Margin: Niort by 14.8
 
 ## Week 31
 
-### Tarbes V Albi on 2026/03/20
-
-
-Average Margin: Albi by 8.7
-
-<p float="left">
-<img src="plots/2026-03-20-Tarbes_V_Albi_club_performances.png" width="32%" />
-<img src="plots/2026-03-20-Tarbes_V_Albi_club_resultbar.png" width="32%" />
-<img src="plots/2026-03-20-Tarbes_V_Albi_club_spreads.png" width="32%" />
-</p>
-
 ### Chambery V Niort on 2026/03/20
 
 
-Average Margin: Chambery by 10.5
+Average Margin: Chambery by 10.3
 
 <p float="left">
 <img src="plots/2026-03-20-Chambery_V_Niort_club_performances.png" width="32%" />
@@ -179,12 +168,23 @@ Average Margin: Chambery by 10.5
 <img src="plots/2026-03-20-Chambery_V_Niort_club_spreads.png" width="32%" />
 </p>
 
+### Tarbes V Albi on 2026/03/20
+
+
+Average Margin: Albi by 8.4
+
+<p float="left">
+<img src="plots/2026-03-20-Tarbes_V_Albi_club_performances.png" width="32%" />
+<img src="plots/2026-03-20-Tarbes_V_Albi_club_resultbar.png" width="32%" />
+<img src="plots/2026-03-20-Tarbes_V_Albi_club_spreads.png" width="32%" />
+</p>
+
 ## Week 32
 
 ### Chambery V Tarbes on 2026/03/27
 
 
-Average Margin: Chambery by 19.0
+Average Margin: Chambery by 18.6
 
 <p float="left">
 <img src="plots/2026-03-27-Chambery_V_Tarbes_club_performances.png" width="32%" />
@@ -195,7 +195,7 @@ Average Margin: Chambery by 19.0
 ### Niort V Rouen on 2026/03/28
 
 
-Average Margin: Niort by 6.5
+Average Margin: Niort by 6.4
 
 <p float="left">
 <img src="plots/2026-03-28-Niort_V_Rouen_club_performances.png" width="32%" />
@@ -208,7 +208,7 @@ Average Margin: Niort by 6.5
 ### Rouen V US Bressane on 2026/04/03
 
 
-Average Margin: Rouen by 7.1
+Average Margin: Rouen by 7.3
 
 <p float="left">
 <img src="plots/2026-04-03-Rouen_V_USBressane_club_performances.png" width="32%" />
@@ -221,7 +221,7 @@ Average Margin: Rouen by 7.1
 ### Tarbes V Rennes on 2026/04/10
 
 
-Average Margin: Rennes by 0.7
+Average Margin: Rennes by 0.4
 
 <p float="left">
 <img src="plots/2026-04-10-Tarbes_V_Rennes_club_performances.png" width="32%" />
@@ -232,7 +232,7 @@ Average Margin: Rennes by 0.7
 ### Suresnes V Niort on 2026/04/11
 
 
-Average Margin: Suresnes by 3.9
+Average Margin: Suresnes by 3.7
 
 <p float="left">
 <img src="plots/2026-04-11-Suresnes_V_Niort_club_performances.png" width="32%" />
@@ -242,21 +242,10 @@ Average Margin: Suresnes by 3.9
 
 ## Week 35
 
-### Périgueux V Albi on 2026/04/25
-
-
-Average Margin: Périgueux by 2.7
-
-<p float="left">
-<img src="plots/2026-04-25-Perigueux_V_Albi_club_performances.png" width="32%" />
-<img src="plots/2026-04-25-Perigueux_V_Albi_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-25-Perigueux_V_Albi_club_spreads.png" width="32%" />
-</p>
-
 ### Chambery V Suresnes on 2026/04/25
 
 
-Average Margin: Chambery by 12.3
+Average Margin: Chambery by 12.2
 
 <p float="left">
 <img src="plots/2026-04-25-Chambery_V_Suresnes_club_performances.png" width="32%" />
@@ -264,21 +253,10 @@ Average Margin: Chambery by 12.3
 <img src="plots/2026-04-25-Chambery_V_Suresnes_club_spreads.png" width="32%" />
 </p>
 
-### Nice V Rennes on 2026/04/25
-
-
-Average Margin: Nice by 13.7
-
-<p float="left">
-<img src="plots/2026-04-25-Nice_V_Rennes_club_performances.png" width="32%" />
-<img src="plots/2026-04-25-Nice_V_Rennes_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-25-Nice_V_Rennes_club_spreads.png" width="32%" />
-</p>
-
 ### Niort V US Bressane on 2026/04/25
 
 
-Average Margin: Niort by 8.2
+Average Margin: Niort by 7.9
 
 <p float="left">
 <img src="plots/2026-04-25-Niort_V_USBressane_club_performances.png" width="32%" />
@@ -286,21 +264,32 @@ Average Margin: Niort by 8.2
 <img src="plots/2026-04-25-Niort_V_USBressane_club_spreads.png" width="32%" />
 </p>
 
-### Massy V Marcq-en-Baroeul on 2026/04/25
+### Périgueux V Albi on 2026/04/25
 
 
-Average Margin: Massy by 18.6
+Average Margin: Périgueux by 3.2
 
 <p float="left">
-<img src="plots/2026-04-25-Massy_V_Marcq-en-Baroeul_club_performances.png" width="32%" />
-<img src="plots/2026-04-25-Massy_V_Marcq-en-Baroeul_club_resultbar.png" width="32%" />
-<img src="plots/2026-04-25-Massy_V_Marcq-en-Baroeul_club_spreads.png" width="32%" />
+<img src="plots/2026-04-25-Perigueux_V_Albi_club_performances.png" width="32%" />
+<img src="plots/2026-04-25-Perigueux_V_Albi_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-25-Perigueux_V_Albi_club_spreads.png" width="32%" />
+</p>
+
+### Nice V Rennes on 2026/04/25
+
+
+Average Margin: Nice by 14.0
+
+<p float="left">
+<img src="plots/2026-04-25-Nice_V_Rennes_club_performances.png" width="32%" />
+<img src="plots/2026-04-25-Nice_V_Rennes_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-25-Nice_V_Rennes_club_spreads.png" width="32%" />
 </p>
 
 ### Bourgoin-Jallieu V Narbonne on 2026/04/25
 
 
-Average Margin: Narbonne by 5.2
+Average Margin: Narbonne by 5.1
 
 <p float="left">
 <img src="plots/2026-04-25-Bourgoin-Jallieu_V_Narbonne_club_performances.png" width="32%" />
@@ -317,4 +306,15 @@ Average Margin: Rouen by 13.6
 <img src="plots/2026-04-25-Rouen_V_Tarbes_club_performances.png" width="32%" />
 <img src="plots/2026-04-25-Rouen_V_Tarbes_club_resultbar.png" width="32%" />
 <img src="plots/2026-04-25-Rouen_V_Tarbes_club_spreads.png" width="32%" />
+</p>
+
+### Massy V Marcq-en-Baroeul on 2026/04/25
+
+
+Average Margin: Massy by 18.7
+
+<p float="left">
+<img src="plots/2026-04-25-Massy_V_Marcq-en-Baroeul_club_performances.png" width="32%" />
+<img src="plots/2026-04-25-Massy_V_Marcq-en-Baroeul_club_resultbar.png" width="32%" />
+<img src="plots/2026-04-25-Massy_V_Marcq-en-Baroeul_club_spreads.png" width="32%" />
 </p>
