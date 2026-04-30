@@ -10,15 +10,17 @@ key: page-recents
 
 [In depth model review and projections for U20 Rugby Championship 2026](comp_files/U20_Rugby_Championship_2026)
 
-Competition Accuracy: 1 of 1 (100.0%)
+Competition Accuracy: 2 of 2 (100.0%)
 
-Competition Error: 0.3 points per match
+Competition Error: 1.27 points per match
 
-Last Two Week Accuracy: 1 of 1 (100.0%)
+Last Two Week Accuracy: 2 of 2 (100.0%)
 
-Last Two Week Error: 0.3 points per match
+Last Two Week Error: 1.27 points per match
 
 [2026/04/27 - New Zealand U20 V Australia U20, 34.0 to 29.0](reviews/2026-04-27-NewZealandU20_V_AustraliaU20)
+
+[2026/04/27 - South Africa U20 V Argentina U20, 48.0 to 21.0](reviews/2026-04-27-SouthAfricaU20_V_ArgentinaU20)
 ## Women's Six Nations
 
 
@@ -28,9 +30,9 @@ Competition Accuracy: 9 of 9 (100.0%)
 
 Competition Error: 18.62 points per match
 
-Last Two Week Accuracy: 6 of 6 (100.0%)
+Last Two Week Accuracy: 3 of 3 (100.0%)
 
-Last Two Week Error: 22.33 points per match
+Last Two Week Error: 17.65 points per match
 
 [2026/04/25 - England Women V Wales Women, 62.0 to 24.0](reviews/2026-04-25-EnglandWomen_V_WalesWomen)
 
@@ -48,11 +50,11 @@ Competition Accuracy: 56 of 70 (80.0%)
 
 Competition Error: 15.53 points per match
 
-Last Two Week Accuracy: 6 of 10 (60.0%)
+Last Two Week Accuracy: 3 of 5 (60.0%)
 
-Last Two Week Error: 23.65 points per match
+Last Two Week Error: 12.49 points per match
 
-[2026/04/24 - Newcastle Red Bulls V Bristol Rugby, 19.0 to 52.0](reviews/2026-04-24-NewcastleRedBulls_V_BristolRugby)
+[2026/04/24 - Newcastle Red Bulls V Bristol Bears, 19.0 to 52.0](reviews/2026-04-24-NewcastleRedBulls_V_BristolRugby)
 
 [2026/04/25 - Harlequins V Sale Sharks, 33.0 to 52.0](reviews/2026-04-25-Harlequins_V_SaleSharks)
 
@@ -70,9 +72,9 @@ Competition Accuracy: 117 of 155 (75.48%)
 
 Competition Error: 14.14 points per match
 
-Last Two Week Accuracy: 9 of 14 (64.29%)
+Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 16.6 points per match
+Last Two Week Error: 13.95 points per match
 
 [2026/04/26 - Stade Toulousain V Clermont Auvergne, 24.0 to 27.0](reviews/2026-04-26-StadeToulousain_V_ClermontAuvergne)
 
@@ -96,9 +98,9 @@ Competition Accuracy: 81 of 129 (62.79%)
 
 Competition Error: 12.2 points per match
 
-Last Two Week Accuracy: 7 of 16 (43.75%)
+Last Two Week Accuracy: 4 of 8 (50.0%)
 
-Last Two Week Error: 15.59 points per match
+Last Two Week Error: 10.6 points per match
 
 [2026/04/24 - Cardiff Rugby V Ospreys, 24.0 to 21.0](reviews/2026-04-24-CardiffRugby_V_Ospreys)
 
@@ -124,15 +126,15 @@ Competition Accuracy: 38 of 53 (71.7%)
 
 Competition Error: 14.1 points per match
 
-Last Two Week Accuracy: 8 of 10 (80.0%)
+Last Two Week Accuracy: 5 of 5 (100.0%)
 
-Last Two Week Error: 8.36 points per match
+Last Two Week Error: 7.41 points per match
+
+[2026/04/26 - Highlanders V Moana Pasifika, 27.0 to 17.0](reviews/2026-04-26-Highlanders_V_MoanaPasifika)
 
 [2026/04/26 - Chiefs V Fijian Drua, 42.0 to 22.0](reviews/2026-04-26-Chiefs_V_FijianDrua)
 
 [2026/04/25 - Hurricanes V Brumbies, 45.0 to 12.0](reviews/2026-04-25-Hurricanes_V_Brumbies)
-
-[2026/04/25 - Highlanders V Moana Pasifika, 27.0 to 17.0](reviews/2026-04-25-Highlanders_V_MoanaPasifika)
 
 [2026/04/25 - Blues V Queensland Reds, 36.0 to 33.0](reviews/2026-04-25-Blues_V_QueenslandReds)
 
@@ -146,9 +148,9 @@ Competition Accuracy: 6 of 13 (46.15%)
 
 Competition Error: 24.77 points per match
 
-Last Two Week Accuracy: 3 of 6 (50.0%)
+Last Two Week Accuracy: 1 of 3 (33.33%)
 
-Last Two Week Error: 26.26 points per match
+Last Two Week Error: 31.99 points per match
 
 [2026/04/26 - Old Glory DC V California Legion, 23.0 to 36.0](reviews/2026-04-26-OldGloryDC_V_CaliforniaLegion)
 
@@ -164,9 +166,9 @@ Competition Accuracy: 66 of 95 (69.47%)
 
 Competition Error: 14.07 points per match
 
-Last Two Week Accuracy: 10 of 12 (83.33%)
+Last Two Week Accuracy: 4 of 6 (66.67%)
 
-Last Two Week Error: 15.09 points per match
+Last Two Week Error: 17.99 points per match
 
 [2026/04/26 - Black Rams Tokyo V Toyota Verblitz, 28.0 to 40.0](reviews/2026-04-26-BlackRamsTokyo_V_ToyotaVerblitz)
 
@@ -210,9 +212,9 @@ Competition Accuracy: 166 of 224 (74.11%)
 
 Competition Error: 13.17 points per match
 
-Last Two Week Accuracy: 10 of 16 (62.5%)
+Last Two Week Accuracy: 6 of 8 (75.0%)
 
-Last Two Week Error: 13.41 points per match
+Last Two Week Error: 12.96 points per match
 
 [2026/04/24 - Carcassonne V Beziers, 20.0 to 30.0](reviews/2026-04-24-Carcassonne_V_Beziers)
 
@@ -238,9 +240,9 @@ Competition Accuracy: 26 of 42 (61.9%)
 
 Competition Error: 12.47 points per match
 
-Last Two Week Accuracy: 11 of 14 (78.57%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 8.93 points per match
+Last Two Week Error: 9.57 points per match
 
 [2026/04/25 - Newman V Champagnat, 47.0 to 8.0](reviews/2026-04-25-Newman_V_Champagnat)
 
