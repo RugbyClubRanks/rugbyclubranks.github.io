@@ -1,6 +1,6 @@
 ---
 title: "European Rugby Challenge Cup 25/26"
-date: 2026-04-30 6:00:00 -0500
+date: 2026-05-01 6:00:00 -0500
 categories: model review projection
 layout: article
 aside:
@@ -131,10 +131,10 @@ aside:
 
 |                      | Reach Round of 16   | Win Round of 16   | Reach Quarterfinal   | Win Quarterfinal   | Reach Semifinal   | Win Semifinal   | Reach Final   | Win Final   |
 |:---------------------|:--------------------|:------------------|:---------------------|:-------------------|:------------------|:----------------|:--------------|:------------|
-| Montpellier Herault  | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 99.6 %          | 99.6 %        | 89.8 %      |
-| Exeter Chiefs        | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 38.3 %          | 38.3 %        | 6.8 %       |
-| Ulster               | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 61.7 %          | 61.7 %        | 3.2 %       |
-| Dragons              | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 0.4 %           | 0.4 %         | 0.2 %       |
+| Montpellier Herault  | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 99.4 %          | 99.4 %        | 90.4 %      |
+| Exeter Chiefs        | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 40.3 %          | 40.3 %        | 4.8 %       |
+| Ulster               | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 59.7 %          | 59.7 %        | 4.6 %       |
+| Dragons              | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 0.6 %           | 0.6 %         | 0.2 %       |
 | Connacht             | 100.0 %             | 100.0 %           | 100.0 %              | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
 | Benetton Treviso     | 100.0 %             | 100.0 %           | 100.0 %              | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
 | Zebre                | 100.0 %             | 100.0 %           | 100.0 %              | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
@@ -155,7 +155,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 70.4% | 11.5 |
+| Club Level | 72.2% | 11.5 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -167,7 +167,7 @@ aside:
 ### Ulster V Exeter Chiefs on 2026/05/02
 
 
-Average Margin: Ulster by 2.5
+Average Margin: Ulster by 2.3
 
 <p float="left">
 <img src="plots/2026-05-02-Ulster_V_ExeterChiefs_club_performances.png" width="32%" />
@@ -178,7 +178,7 @@ Average Margin: Ulster by 2.5
 ### Montpellier Herault V Dragons on 2026/05/03
 
 
-Average Margin: Montpellier Herault by 17.2
+Average Margin: Montpellier Herault by 16.9
 
 <p float="left">
 <img src="plots/2026-05-03-MontpellierHerault_V_Dragons_club_performances.png" width="32%" />
@@ -191,7 +191,7 @@ Average Margin: Montpellier Herault by 17.2
 ### Montpellier Herault V Exeter Chiefs on 2026-05-21
 
 
-Average Margin: Montpellier Herault by 6.4
+Average Margin: Montpellier Herault by 7.4
 
 <p float="left">
 <img src="plots/2026-05-21-MontpellierHerault_V_ExeterChiefs_club_performances.png" width="32%" />
@@ -213,7 +213,7 @@ Average Margin: Montpellier Herault by 10.6
 ### Dragons V Ulster on 2026-05-21
 
 
-Average Margin: Dragons by 2.3
+Average Margin: Dragons by 0.8
 
 <p float="left">
 <img src="plots/2026-05-21-Dragons_V_Ulster_club_performances.png" width="32%" />
@@ -224,7 +224,7 @@ Average Margin: Dragons by 2.3
 ### Dragons V Exeter Chiefs on 2026-05-21
 
 
-Average Margin: Exeter Chiefs by 1.0
+Average Margin: Dragons by 3.5
 
 <p float="left">
 <img src="plots/2026-05-21-Dragons_V_ExeterChiefs_club_performances.png" width="32%" />

@@ -9,7 +9,7 @@ categories: rugby "Major League Rugby 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Seattle Seawolves to win by 4.49, and Chicago Hounds won by 37.0. That's an absolute error of 41.5 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 4.0% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Seattle Seawolves to win by 3.85, and Chicago Hounds won by 37.0. That's an absolute error of 40.8 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 4.3% of my recent predictions.
 
 For the Over/Under model, I predicted a total of 47.5 and we have an actual total of 81.0. That's an absolute error of 33.5 compared to a six month average of 13.5. This prediction was more accurate than 4.3% of my recent predictions.
 ## Projected Performances - Club Model
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 47.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Seattle Seawolves to win by 13.06,  and Chicago Hounds won by 37.0. That's an absolute error of 50.1 for the margin of victory, while the average error as been 13.9 for the past six months. So this prediction was more accurate than 1.2% of my recent predictions.
+With the player model, I predicted Seattle Seawolves to win by 12.64,  and Chicago Hounds won by 37.0. That's an absolute error of 49.6 for the margin of victory, while the average error as been 14.0 for the past six months. So this prediction was more accurate than 1.3% of my recent predictions.
 ## Projected Performances - Player Model
 
 

@@ -9,9 +9,9 @@ categories: rugby "Pro D2 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Dax to win by 11.72, and Dax won by 26.0. That's an absolute error of 14.3 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 37.8% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Dax to win by 11.92, and Dax won by 26.0. That's an absolute error of 14.1 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 38.5% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 46.0. That's an absolute error of 2.5 compared to a six month average of 13.5. This prediction was more accurate than 89.3% of my recent predictions.
+For the Over/Under model, I predicted a total of 47.5 and we have an actual total of 46.0. That's an absolute error of 1.5 compared to a six month average of 13.5. This prediction was more accurate than 93.0% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 48.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Dax to win by 15.13,  and Dax won by 26.0. That's an absolute error of 10.9 for the margin of victory, while the average error as been 13.9 for the past six months. So this prediction was more accurate than 42.2% of my recent predictions.
+With the player model, I predicted Dax to win by 14.84,  and Dax won by 26.0. That's an absolute error of 11.2 for the margin of victory, while the average error as been 14.0 for the past six months. So this prediction was more accurate than 41.6% of my recent predictions.
 ## Projected Performances - Player Model
 
 

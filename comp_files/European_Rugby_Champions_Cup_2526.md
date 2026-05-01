@@ -1,6 +1,6 @@
 ---
 title: "European Rugby Champions Cup 25/26"
-date: 2026-04-30 6:00:00 -0500
+date: 2026-05-01 6:00:00 -0500
 categories: model review projection
 layout: article
 aside:
@@ -167,10 +167,10 @@ aside:
 
 |                    | Reach Round of 16   | Win Round of 16   | Reach Quarterfinal   | Win Quarterfinal   | Reach Semifinal   | Win Semifinal   | Reach Final   | Win Final   |
 |:-------------------|:--------------------|:------------------|:---------------------|:-------------------|:------------------|:----------------|:--------------|:------------|
-| Bordeaux Begles    | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 69.7 %          | 69.7 %        | 54.6 %      |
-| Bath Rugby         | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 30.3 %          | 30.3 %        | 24.4 %      |
-| Leinster           | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 95.4 %          | 95.4 %        | 21.0 %      |
-| Toulon             | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 4.6 %           | 4.6 %         | 0.0 %       |
+| Bordeaux Begles    | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 69.2 %          | 69.2 %        | 54.8 %      |
+| Bath Rugby         | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 30.8 %          | 30.8 %        | 23.3 %      |
+| Leinster           | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 96.2 %          | 96.2 %        | 21.9 %      |
+| Toulon             | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 3.8 %           | 3.8 %         | 0.0 %       |
 | Northampton Saints | 100.0 %             | 100.0 %           | 100.0 %              | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
 | Stade Toulousain   | 100.0 %             | 100.0 %           | 100.0 %              | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
 | Glasgow Warriors   | 100.0 %             | 100.0 %           | 100.0 %              | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
@@ -191,7 +191,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 77.3% | 15.5 |
+| Club Level | 75.8% | 15.4 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -203,7 +203,7 @@ aside:
 ### Leinster V Toulon on 2026/05/02
 
 
-Average Margin: Leinster by 12.8
+Average Margin: Leinster by 13.1
 
 <p float="left">
 <img src="plots/2026-05-02-Leinster_V_Toulon_club_performances.png" width="32%" />
@@ -214,7 +214,7 @@ Average Margin: Leinster by 12.8
 ### Bordeaux-Begles V Bath Rugby on 2026/05/03
 
 
-Average Margin: Bordeaux Begles by 3.7
+Average Margin: Bordeaux Begles by 3.5
 
 <p float="left">
 <img src="plots/2026-05-03-BordeauxBegles_V_BathRugby_club_performances.png" width="32%" />
@@ -224,32 +224,10 @@ Average Margin: Bordeaux Begles by 3.7
 
 ## Final
 
-### Bordeaux Begles V Toulon on 2026-05-21
-
-
-Average Margin: Bordeaux Begles by 13.3
-
-<p float="left">
-<img src="plots/2026-05-21-BordeauxBegles_V_Toulon_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-BordeauxBegles_V_Toulon_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-BordeauxBegles_V_Toulon_club_spreads.png" width="32%" />
-</p>
-
-### Bordeaux Begles V Leinster on 2026-05-21
-
-
-Average Margin: Bordeaux Begles by 5.3
-
-<p float="left">
-<img src="plots/2026-05-21-BordeauxBegles_V_Leinster_club_performances.png" width="32%" />
-<img src="plots/2026-05-21-BordeauxBegles_V_Leinster_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-21-BordeauxBegles_V_Leinster_club_spreads.png" width="32%" />
-</p>
-
 ### Bath Rugby V Leinster on 2026-05-21
 
 
-Average Margin: Bath Rugby by 5.7
+Average Margin: Bath Rugby by 5.3
 
 <p float="left">
 <img src="plots/2026-05-21-BathRugby_V_Leinster_club_performances.png" width="32%" />
@@ -257,10 +235,32 @@ Average Margin: Bath Rugby by 5.7
 <img src="plots/2026-05-21-BathRugby_V_Leinster_club_spreads.png" width="32%" />
 </p>
 
+### Bordeaux Begles V Leinster on 2026-05-21
+
+
+Average Margin: Bordeaux Begles by 5.4
+
+<p float="left">
+<img src="plots/2026-05-21-BordeauxBegles_V_Leinster_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-BordeauxBegles_V_Leinster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-BordeauxBegles_V_Leinster_club_spreads.png" width="32%" />
+</p>
+
+### Bordeaux Begles V Toulon on 2026-05-21
+
+
+Average Margin: Bordeaux Begles by 12.4
+
+<p float="left">
+<img src="plots/2026-05-21-BordeauxBegles_V_Toulon_club_performances.png" width="32%" />
+<img src="plots/2026-05-21-BordeauxBegles_V_Toulon_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-21-BordeauxBegles_V_Toulon_club_spreads.png" width="32%" />
+</p>
+
 ### Bath Rugby V Toulon on 2026-05-21
 
 
-Average Margin: Bath Rugby by 13.9
+Average Margin: Bath Rugby by 10.8
 
 <p float="left">
 <img src="plots/2026-05-21-BathRugby_V_Toulon_club_performances.png" width="32%" />

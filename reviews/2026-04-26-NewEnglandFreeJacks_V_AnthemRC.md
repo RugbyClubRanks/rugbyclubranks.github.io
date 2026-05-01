@@ -9,9 +9,9 @@ categories: rugby "Major League Rugby 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted New England Free Jacks to win by 23.45, and New England Free Jacks won by 12.0. That's an absolute error of 11.4 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 46.6% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted New England Free Jacks to win by 23.73, and New England Free Jacks won by 12.0. That's an absolute error of 11.7 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 45.6% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 42.5 and we have an actual total of 64.0. That's an absolute error of 21.5 compared to a six month average of 13.5. This prediction was more accurate than 21.5% of my recent predictions.
+For the Over/Under model, I predicted a total of 42.5 and we have an actual total of 64.0. That's an absolute error of 21.5 compared to a six month average of 13.5. This prediction was more accurate than 21.6% of my recent predictions.
 ## Projected Performances - Club Model
 
 
