@@ -9,9 +9,9 @@ categories: rugby "Japan Rugby League One D2 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Kamaishi Seawaves to win by 5.24, and Hino Red Dolphins won by 13.0. That's an absolute error of 18.2 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 27.2% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Kamaishi Seawaves to win by 5.11, and Hino Red Dolphins won by 13.0. That's an absolute error of 18.1 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 27.5% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 60.5 and we have an actual total of 57.0. That's an absolute error of 3.5 compared to a six month average of 13.5. This prediction was more accurate than 84.1% of my recent predictions.
+For the Over/Under model, I predicted a total of 62.5 and we have an actual total of 57.0. That's an absolute error of 5.5 compared to a six month average of 13.4. This prediction was more accurate than 73.9% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 60.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Hino Red Dolphins to win by 0.12,  and Hino Red Dolphins won by 13.0. That's an absolute error of 12.9 for the margin of victory, while the average error as been 14.0 for the past six months. So this prediction was more accurate than 35.8% of my recent predictions.
+With the player model, I predicted Hino Red Dolphins to win by 0.59,  and Hino Red Dolphins won by 13.0. That's an absolute error of 12.4 for the margin of victory, while the average error as been 13.8 for the past six months. So this prediction was more accurate than 37.0% of my recent predictions.
 ## Projected Performances - Player Model
 
 

@@ -14,10 +14,6 @@ Competition Accuracy: 9 of 9 (100.0%)
 
 Competition Error: 18.62 points per match
 
-Last Two Week Accuracy: 3 of 3 (100.0%)
-
-Last Two Week Error: 17.65 points per match
-
 [2026/05/09 - Ireland Women V Wales Women](projections/2026-05-09-IrelandWomen_V_WalesWomen)
 
 [2026/05/09 - Italy Women V England Women](projections/2026-05-09-ItalyWomen_V_EnglandWomen)
@@ -40,9 +36,9 @@ Competition Accuracy: 43 of 58 (74.14%)
 
 Competition Error: 13.44 points per match
 
-Last Two Week Accuracy: 10 of 10 (100.0%)
+Last Two Week Accuracy: 5 of 5 (100.0%)
 
-Last Two Week Error: 6.91 points per match
+Last Two Week Error: 6.42 points per match
 
 [2026/05/16 - Western Force V Queensland Reds](projections/2026-05-16-WesternForce_V_QueenslandReds)
 
@@ -80,11 +76,7 @@ Competition Accuracy: 117 of 155 (75.48%)
 
 Competition Error: 14.14 points per match
 
-Last Two Week Accuracy: 4 of 7 (57.14%)
-
-Last Two Week Error: 13.95 points per match
-
-[2026/05/08 - Racing 92 V La Rochelle](projections/2026-05-08-Racing92_V_LaRochelle)
+[2026/05/09 - Pau V Castres Olympique](projections/2026-05-09-Pau_V_CastresOlympique)
 
 [2026/05/15 - Lyon V Bayonne](projections/2026-05-15-Lyon_V_Bayonne)
 
@@ -94,19 +86,19 @@ Last Two Week Error: 13.95 points per match
 
 [2026/05/15 - Bordeaux Begles V Perpignan](projections/2026-05-15-BordeauxBegles_V_Perpignan)
 
-[2026/05/08 - Toulon V Stade Toulousain](projections/2026-05-08-Toulon_V_StadeToulousain)
+[2026/05/09 - Toulon V Stade Toulousain](projections/2026-05-09-Toulon_V_StadeToulousain)
 
-[2026/05/08 - Stade Francais Paris V Lyon](projections/2026-05-08-StadeFrancaisParis_V_Lyon)
+[2026/05/09 - Stade Francais Paris V Lyon](projections/2026-05-09-StadeFrancaisParis_V_Lyon)
 
-[2026/05/08 - Pau V Castres Olympique](projections/2026-05-08-Pau_V_CastresOlympique)
+[2026/05/09 - Montpellier Herault V US Montauban](projections/2026-05-09-MontpellierHerault_V_USMontauban)
 
 [2026/05/15 - Racing 92 V Toulon](projections/2026-05-15-Racing92_V_Toulon)
 
-[2026/05/08 - Montpellier Herault V US Montauban](projections/2026-05-08-MontpellierHerault_V_USMontauban)
+[2026/05/09 - Clermont Auvergne V Perpignan](projections/2026-05-09-ClermontAuvergne_V_Perpignan)
 
-[2026/05/08 - Clermont Auvergne V Perpignan](projections/2026-05-08-ClermontAuvergne_V_Perpignan)
+[2026/05/08 - Racing 92 V La Rochelle](projections/2026-05-08-Racing92_V_LaRochelle)
 
-[2026/05/08 - Bayonne V Bordeaux Begles](projections/2026-05-08-Bayonne_V_BordeauxBegles)
+[2026/05/08 - Bayonne V Bordeaux Begles](projections/2026-05-09-Bayonne_V_BordeauxBegles)
 
 [2026/05/15 - Pau V Clermont Auvergne](projections/2026-05-15-Pau_V_ClermontAuvergne)
 
@@ -119,10 +111,6 @@ Last Two Week Error: 13.95 points per match
 Competition Accuracy: 81 of 129 (62.79%)
 
 Competition Error: 12.2 points per match
-
-Last Two Week Accuracy: 4 of 8 (50.0%)
-
-Last Two Week Error: 10.6 points per match
 
 [2026/05/15 - Cardiff Rugby V Stormers](projections/2026-05-15-CardiffRugby_V_Stormers)
 
@@ -164,9 +152,9 @@ Competition Accuracy: 7 of 15 (46.67%)
 
 Competition Error: 23.12 points per match
 
-Last Two Week Accuracy: 2 of 5 (40.0%)
+Last Two Week Accuracy: 1 of 2 (50.0%)
 
-Last Two Week Error: 24.15 points per match
+Last Two Week Error: 12.39 points per match
 
 [2026/05/09 - New England Free Jacks V California Legion](projections/2026-05-09-NewEnglandFreeJacks_V_CaliforniaLegion)
 
@@ -194,10 +182,6 @@ Competition Accuracy: 56 of 70 (80.0%)
 
 Competition Error: 15.53 points per match
 
-Last Two Week Accuracy: 3 of 5 (60.0%)
-
-Last Two Week Error: 12.49 points per match
-
 [2026/05/09 - Leicester Tigers V Northampton Saints](projections/2026-05-09-LeicesterTigers_V_NorthamptonSaints)
 
 [2026/05/10 - Exeter Chiefs V Bath Rugby](projections/2026-05-10-ExeterChiefs_V_BathRugby)
@@ -216,7 +200,7 @@ Last Two Week Error: 12.49 points per match
 
 [2026/05/08 - Gloucester Rugby V Sale Sharks](projections/2026-05-08-GloucesterRugby_V_SaleSharks)
 
-[2026/05/09 - Bristol Rugby V Saracens](projections/2026-05-09-BristolRugby_V_Saracens)
+[2026/05/09 - Bristol Bears V Saracens](projections/2026-05-09-BristolRugby_V_Saracens)
 ## Japan Rugby League One
 
 
@@ -226,9 +210,9 @@ Competition Accuracy: 71 of 101 (70.3%)
 
 Competition Error: 14.24 points per match
 
-Last Two Week Accuracy: 9 of 12 (75.0%)
+Last Two Week Accuracy: 5 of 6 (83.33%)
 
-Last Two Week Error: 17.5 points per match
+Last Two Week Error: 17.01 points per match
 
 [2026/05/09 - Mie Honda Heat V Toyota Verblitz](projections/2026-05-09-MieHondaHeat_V_ToyotaVerblitz)
 
@@ -246,9 +230,9 @@ Last Two Week Error: 17.5 points per match
 
 [In depth model review and projections for European Rugby Champions Cup 25/26](comp_files/European_Rugby_Champions_Cup_2526)
 
-Competition Accuracy: 46 of 62 (74.19%)
+Competition Accuracy: 47 of 62 (75.81%)
 
-Competition Error: 16.37 points per match
+Competition Error: 16.36 points per match
 
 Last Two Week Accuracy: 2 of 2 (100.0%)
 
@@ -279,10 +263,6 @@ Last Two Week Error: 12.88 points per match
 Competition Accuracy: 166 of 224 (74.11%)
 
 Competition Error: 13.17 points per match
-
-Last Two Week Accuracy: 6 of 8 (75.0%)
-
-Last Two Week Error: 12.96 points per match
 
 [2026/05/07 - Agen V Soyaux-Angouleme](projections/2026-05-07-Agen_V_Soyaux-Angouleme)
 
@@ -323,10 +303,6 @@ Last Two Week Error: 12.96 points per match
 Competition Accuracy: 26 of 42 (61.9%)
 
 Competition Error: 12.47 points per match
-
-Last Two Week Accuracy: 6 of 7 (85.71%)
-
-Last Two Week Error: 9.57 points per match
 
 [2026/05/09 - Champagnat V Alumni](projections/2026-05-09-Champagnat_V_Alumni)
 

@@ -9,9 +9,9 @@ categories: rugby "Super Rugby Pacific 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Hurricanes to win by 12.99, and Hurricanes won by 7.0. That's an absolute error of 6.0 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 69.7% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Hurricanes to win by 11.94, and Hurricanes won by 7.0. That's an absolute error of 4.9 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 74.9% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 69.0. That's an absolute error of 19.5 compared to a six month average of 13.5. This prediction was more accurate than 25.6% of my recent predictions.
+For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 69.0. That's an absolute error of 19.5 compared to a six month average of 13.4. This prediction was more accurate than 24.8% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 49.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Hurricanes to win by 12.58,  and Hurricanes won by 7.0. That's an absolute error of 5.6 for the margin of victory, while the average error as been 14.0 for the past six months. So this prediction was more accurate than 63.3% of my recent predictions.
+With the player model, I predicted Hurricanes to win by 13.17,  and Hurricanes won by 7.0. That's an absolute error of 6.2 for the margin of victory, while the average error as been 13.8 for the past six months. So this prediction was more accurate than 61.0% of my recent predictions.
 ## Projected Performances - Player Model
 
 

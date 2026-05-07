@@ -14,9 +14,9 @@ Competition Accuracy: 3 of 4 (75.0%)
 
 Competition Error: 14.28 points per match
 
-Last Two Week Accuracy: 3 of 4 (75.0%)
+Last Two Week Accuracy: 1 of 2 (50.0%)
 
-Last Two Week Error: 14.28 points per match
+Last Two Week Error: 27.29 points per match
 
 [2026/04/27 - New Zealand U20 V Australia U20, 34.0 to 29.0](reviews/2026-04-27-NewZealandU20_V_AustraliaU20)
 
@@ -36,9 +36,9 @@ Competition Accuracy: 71 of 101 (70.3%)
 
 Competition Error: 14.24 points per match
 
-Last Two Week Accuracy: 9 of 12 (75.0%)
+Last Two Week Accuracy: 5 of 6 (83.33%)
 
-Last Two Week Error: 17.5 points per match
+Last Two Week Error: 17.01 points per match
 
 [2026/05/02 - Toyota Verblitz V Tokyo Sungoliath, 38.0 to 54.0](reviews/2026-05-02-ToyotaVerblitz_V_TokyoSungoliath)
 
@@ -60,9 +60,9 @@ Competition Accuracy: 43 of 58 (74.14%)
 
 Competition Error: 13.44 points per match
 
-Last Two Week Accuracy: 10 of 10 (100.0%)
+Last Two Week Accuracy: 5 of 5 (100.0%)
 
-Last Two Week Error: 6.91 points per match
+Last Two Week Error: 6.42 points per match
 
 [2026/05/02 - Moana Pasifika V Blues, 19.0 to 45.0](reviews/2026-05-02-MoanaPasifika_V_Blues)
 
@@ -82,9 +82,9 @@ Competition Accuracy: 7 of 15 (46.67%)
 
 Competition Error: 23.12 points per match
 
-Last Two Week Accuracy: 2 of 5 (40.0%)
+Last Two Week Accuracy: 1 of 2 (50.0%)
 
-Last Two Week Error: 24.15 points per match
+Last Two Week Error: 12.39 points per match
 
 [2026/05/03 - New England Free Jacks V Seattle Seawolves, 11.0 to 27.0](reviews/2026-05-03-NewEnglandFreeJacks_V_SeattleSeawolves)
 
@@ -110,15 +110,15 @@ Last Two Week Error: 12.88 points per match
 
 [In depth model review and projections for European Rugby Champions Cup 25/26](comp_files/European_Rugby_Champions_Cup_2526)
 
-Competition Accuracy: 46 of 62 (74.19%)
+Competition Accuracy: 47 of 62 (75.81%)
 
-Competition Error: 16.37 points per match
+Competition Error: 16.36 points per match
 
 Last Two Week Accuracy: 2 of 2 (100.0%)
 
 Last Two Week Error: 8.62 points per match
 
-[2026/05/03 - Bordeaux Begles V Bath Rugby, 38.0 to 26.0](reviews/2026-05-03-BordeauxBegles_V_BathRugby)
+[2026/05/03 - Bordeaux-Begles V Bath Rugby, 38.0 to 26.0](reviews/2026-05-03-BordeauxBegles_V_BathRugby)
 
 [2026/05/02 - Leinster V Toulon, 29.0 to 25.0](reviews/2026-05-02-Leinster_V_Toulon)
 # Domestic Competitions
@@ -130,11 +130,11 @@ Last Two Week Error: 8.62 points per match
 
 Competition Accuracy: 28 of 43 (65.12%)
 
-Competition Error: 15.79 points per match
+Competition Error: 15.77 points per match
 
-Last Two Week Accuracy: 4 of 8 (50.0%)
+Last Two Week Accuracy: 2 of 4 (50.0%)
 
-Last Two Week Error: 21.11 points per match
+Last Two Week Error: 20.98 points per match
 
 [2026/05/01 - Shimizu Blue Sharks V Kyuden Voltex, 34.0 to 26.0](reviews/2026-05-01-ShimizuBlueSharks_V_KyudenVoltex)
 
@@ -152,15 +152,31 @@ Competition Accuracy: 28 of 37 (75.68%)
 
 Competition Error: 14.96 points per match
 
-Last Two Week Accuracy: 5 of 6 (83.33%)
+Last Two Week Accuracy: 2 of 3 (66.67%)
 
-Last Two Week Error: 11.33 points per match
+Last Two Week Error: 13.16 points per match
 
 [2026/05/01 - Kurita Water Gush V Skyactivs Hiroshima, 13.0 to 44.0](reviews/2026-05-01-KuritaWaterGush_V_SkyactivsHiroshima)
 
 [2026/05/01 - Sayama Secom Rugguts V LeRIRO Fukuoka, 31.0 to 31.0](reviews/2026-05-01-SayamaSecomRugguts_V_LeRIROFukuoka)
 
 [2026/05/02 - Yakult Levins Toda V Chugoku Red Regulions, 25.0 to 26.0](reviews/2026-05-02-YakultLevinsToda_V_ChugokuRedRegulions)
+## Nationale
+
+
+[In depth model review and projections for Nationale 25/26](comp_files/Nationale_2526)
+
+Competition Accuracy: 123 of 170 (72.35%)
+
+Competition Error: 8.89 points per match
+
+Last Two Week Accuracy: 1 of 2 (50.0%)
+
+Last Two Week Error: 15.21 points per match
+
+[2026/05/02 - Chambery V Périgueux, 34.0 to 13.0](reviews/2026-05-02-Chambery_V_Perigueux)
+
+[2026/05/02 - Massy V Narbonne, 31.0 to 43.0](reviews/2026-05-02-Massy_V_Narbonne)
 ## RFU Championship
 
 
@@ -180,7 +196,7 @@ Last Two Week Error: 11.36 points per match
 
 [2026/05/02 - Caldy V Doncaster, 17.0 to 37.0](reviews/2026-05-02-Caldy_V_Doncaster)
 
-[2026/05/02 - Cambridge V Hartpury College, 14.0 to 70.0](reviews/2026-05-02-Cambridge_V_HartpuryCollege)
+[2026/05/02 - Cambridge V Hartpury College RFC, 14.0 to 70.0](reviews/2026-05-02-Cambridge_V_HartpuryCollege)
 
 [2026/05/02 - Cornish Pirates V Coventry, 29.0 to 24.0](reviews/2026-05-02-CornishPirates_V_Coventry)
 

@@ -9,7 +9,7 @@ categories: rugby "Super Rugby Pacific 2026" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Western Force to win by 10.09.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Western Force to win by 10.23.
 
 Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 28 to 18
 

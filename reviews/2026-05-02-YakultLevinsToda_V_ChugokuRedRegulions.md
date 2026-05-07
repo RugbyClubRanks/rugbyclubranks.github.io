@@ -9,9 +9,9 @@ categories: rugby "Japan Rugby League One D3 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Chugoku Red Regulions to win by 1.39, and Chugoku Red Regulions won by 1.0. That's an absolute error of 0.4 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 98.0% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Chugoku Red Regulions to win by 1.33, and Chugoku Red Regulions won by 1.0. That's an absolute error of 0.3 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 98.3% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 51.0. That's an absolute error of 1.5 compared to a six month average of 13.5. This prediction was more accurate than 93.0% of my recent predictions.
+For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 51.0. That's an absolute error of 0.5 compared to a six month average of 13.4. This prediction was more accurate than 97.2% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 49.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Yakult Levins Toda to win by 0.42,  and Chugoku Red Regulions won by 1.0. That's an absolute error of 1.4 for the margin of victory, while the average error as been 14.0 for the past six months. So this prediction was more accurate than 81.1% of my recent predictions.
+With the player model, I predicted Yakult Levins Toda to win by 0.01,  and Chugoku Red Regulions won by 1.0. That's an absolute error of 1.0 for the margin of victory, while the average error as been 13.8 for the past six months. So this prediction was more accurate than 83.2% of my recent predictions.
 ## Projected Performances - Player Model
 
 
