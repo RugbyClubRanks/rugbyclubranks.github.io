@@ -1,6 +1,6 @@
 ---
 title: "United Rugby Championship 25/26"
-date: 2026-05-07 6:00:00 -0500
+date: 2026-05-08 6:00:00 -0500
 categories: model review projection
 layout: article
 aside:
@@ -41,22 +41,22 @@ aside:
 
 | Club             |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:-----------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Bulls            |         3 |            2.306 |                   24.638 |                           0.384 |                              |                          9.734 |
-| Connacht         |         3 |            2.096 |                   14.537 |                           0.629 |                              |                          9.253 |
-| Sharks           |         3 |            1.872 |                   11.142 |                           0.496 |                              |                          8.17  |
-| Leinster         |         2 |            1.889 |                   24.374 |                           0.078 |                              |                          7.692 |
-| Stormers         |         3 |            1.31  |                   -2.081 |                           0.992 |                              |                          6.5   |
-| Ulster           |         2 |            1.447 |                    8.888 |                           0.41  |                              |                          6.35  |
-| Glasgow Warriors |         2 |            1.184 |                    6.933 |                           0.442 |                              |                          5.298 |
-| Lions            |         3 |            1.064 |                   -8.358 |                           0.758 |                              |                          5.198 |
-| Scarlets         |         3 |            0.95  |                  -12.328 |                           0.828 |                              |                          4.844 |
-| Dragons          |         2 |            1.021 |                    1.361 |                           0.556 |                              |                          4.814 |
-| Munster          |         2 |            1.024 |                    1.147 |                           0.527 |                              |                          4.769 |
-| Ospreys          |         2 |            0.862 |                   -6.2   |                           0.249 |                              |                          3.777 |
-| Edinburgh        |         2 |            0.611 |                   -6.865 |                           0.715 |                              |                          3.341 |
-| Cardiff Rugby    |         2 |            0.474 |                  -11.851 |                           0.574 |                              |                          2.616 |
-| Benetton Treviso |         2 |            0.216 |                  -17.362 |                           0.602 |                              |                          1.56  |
-| Zebre            |         2 |            0.068 |                  -27.975 |                           0.306 |                              |                          0.63  |
+| Bulls            |         3 |            2.28  |                   25.069 |                           0.409 |                              |                          9.663 |
+| Connacht         |         3 |            2.12  |                   14.307 |                           0.571 |                              |                          9.321 |
+| Sharks           |         3 |            1.875 |                   10.432 |                           0.476 |                              |                          8.128 |
+| Leinster         |         2 |            1.885 |                   24.406 |                           0.077 |                              |                          7.673 |
+| Stormers         |         3 |            1.324 |                   -1.034 |                           0.989 |                              |                          6.599 |
+| Ulster           |         2 |            1.402 |                    7.767 |                           0.414 |                              |                          6.202 |
+| Glasgow Warriors |         2 |            1.195 |                    6.902 |                           0.437 |                              |                          5.333 |
+| Lions            |         3 |            1.085 |                   -8.026 |                           0.744 |                              |                          5.244 |
+| Scarlets         |         3 |            0.962 |                  -12.343 |                           0.8   |                              |                          4.87  |
+| Dragons          |         2 |            1.024 |                    1.846 |                           0.544 |                              |                          4.82  |
+| Munster          |         2 |            1.004 |                    1.213 |                           0.566 |                              |                          4.728 |
+| Ospreys          |         2 |            0.865 |                   -6.183 |                           0.268 |                              |                          3.812 |
+| Edinburgh        |         2 |            0.555 |                   -7.346 |                           0.754 |                              |                          3.186 |
+| Cardiff Rugby    |         2 |            0.48  |                  -11.724 |                           0.582 |                              |                          2.662 |
+| Benetton Treviso |         2 |            0.249 |                  -16.949 |                           0.587 |                              |                          1.687 |
+| Zebre            |         2 |            0.064 |                  -28.337 |                           0.291 |                              |                          0.581 |
 
 
 
@@ -65,22 +65,22 @@ aside:
 
 | Club             |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-----------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Glasgow Warriors |       18 | 12.184 |              120.933 |                 2.442 |                 11 |               62.298 |
-| Stormers         |       19 | 13.31  |              163.919 |                 0.992 |                  7 |               61.5   |
-| Leinster         |       18 | 11.889 |               91.374 |                 2.078 |                 11 |               60.692 |
-| Bulls            |       19 | 12.306 |              123.638 |                 1.384 |                  8 |               58.734 |
-| Lions            |       19 | 11.064 |               81.642 |                 2.758 |                  8 |               57.198 |
-| Ulster           |       19 | 10.447 |               86.888 |                 3.41  |                  8 |               55.35  |
-| Munster          |       18 | 11.024 |               33.147 |                 3.527 |                  7 |               54.769 |
-| Connacht         |       19 | 10.096 |               21.537 |                 4.629 |                  8 |               53.253 |
-| Cardiff Rugby    |       18 | 10.474 |              -13.851 |                 4.574 |                  3 |               49.616 |
-| Sharks           |       19 |  7.872 |              -23.858 |                 3.496 |                  7 |               44.17  |
-| Ospreys          |       18 |  6.862 |              -37.2   |                 3.249 |                  4 |               38.777 |
-| Edinburgh        |       19 |  6.611 |              -71.865 |                 4.715 |                  5 |               38.341 |
-| Benetton Treviso |       18 |  6.216 |             -118.362 |                 1.602 |                  4 |               34.56  |
-| Dragons          |       18 |  4.021 |             -120.639 |                 4.556 |                  3 |               29.814 |
-| Scarlets         |       19 |  4.95  |             -104.328 |                 4.828 |                  2 |               28.844 |
-| Zebre            |       18 |  2.068 |             -232.975 |                 4.306 |                  3 |               15.63  |
+| Glasgow Warriors |       18 | 12.195 |              120.902 |                 2.437 |                 11 |               62.333 |
+| Stormers         |       19 | 13.324 |              164.966 |                 0.989 |                  7 |               61.599 |
+| Leinster         |       18 | 11.885 |               91.406 |                 2.077 |                 11 |               60.673 |
+| Bulls            |       19 | 12.28  |              124.069 |                 1.409 |                  8 |               58.663 |
+| Lions            |       19 | 11.085 |               81.974 |                 2.744 |                  8 |               57.244 |
+| Ulster           |       19 | 10.402 |               85.767 |                 3.414 |                  8 |               55.202 |
+| Munster          |       18 | 11.004 |               33.213 |                 3.566 |                  7 |               54.728 |
+| Connacht         |       19 | 10.12  |               21.307 |                 4.571 |                  8 |               53.321 |
+| Cardiff Rugby    |       18 | 10.48  |              -13.724 |                 4.582 |                  3 |               49.662 |
+| Sharks           |       19 |  7.875 |              -24.568 |                 3.476 |                  7 |               44.128 |
+| Ospreys          |       18 |  6.865 |              -37.183 |                 3.268 |                  4 |               38.812 |
+| Edinburgh        |       19 |  6.555 |              -72.346 |                 4.754 |                  5 |               38.186 |
+| Benetton Treviso |       18 |  6.249 |             -117.949 |                 1.587 |                  4 |               34.687 |
+| Dragons          |       18 |  4.024 |             -120.154 |                 4.544 |                  3 |               29.82  |
+| Scarlets         |       19 |  4.962 |             -104.343 |                 4.8   |                  2 |               28.87  |
+| Zebre            |       18 |  2.064 |             -233.337 |                 4.291 |                  3 |               15.581 |
 
 
 
@@ -89,15 +89,15 @@ aside:
 
 |                  | Reach Quarterfinal   | Win Quarterfinal   | Reach Semifinal   | Win Semifinal   | Reach Final   | Win Final   |
 |:-----------------|:---------------------|:-------------------|:------------------|:----------------|:--------------|:------------|
-| Glasgow Warriors | 100.0 %              | 82.4 %             | 82.4 %            | 59.5 %          | 59.5 %        | 29.8 %      |
-| Stormers         | 100.0 %              | 78.8 %             | 78.8 %            | 42.8 %          | 42.8 %        | 29.4 %      |
-| Leinster         | 100.0 %              | 84.2 %             | 84.2 %            | 48.8 %          | 48.8 %        | 21.1 %      |
-| Bulls            | 100.0 %              | 70.4 %             | 70.4 %            | 15.1 %          | 15.1 %        | 9.4 %       |
-| Munster          | 98.1 %               | 24.0 %             | 24.0 %            | 13.5 %          | 13.5 %        | 3.3 %       |
-| Connacht         | 93.5 %               | 15.4 %             | 15.4 %            | 9.1 %           | 9.1 %         | 3.1 %       |
-| Lions            | 100.0 %              | 25.3 %             | 25.3 %            | 5.3 %           | 5.3 %         | 2.3 %       |
-| Ulster           | 98.9 %               | 18.8 %             | 18.8 %            | 5.5 %           | 5.5 %         | 1.4 %       |
-| Cardiff Rugby    | 9.5 %                | 0.7 %              | 0.7 %             | 0.4 %           | 0.4 %         | 0.2 %       |
+| Stormers         | 100.0 %              | 77.8 %             | 77.8 %            | 49.7 %          | 49.7 %        | 31.4 %      |
+| Glasgow Warriors | 100.0 %              | 84.9 %             | 84.9 %            | 61.1 %          | 61.1 %        | 24.4 %      |
+| Leinster         | 100.0 %              | 90.9 %             | 90.9 %            | 39.1 %          | 39.1 %        | 16.4 %      |
+| Bulls            | 100.0 %              | 46.4 %             | 46.4 %            | 11.9 %          | 11.9 %        | 8.6 %       |
+| Munster          | 99.5 %               | 22.6 %             | 22.6 %            | 14.6 %          | 14.6 %        | 8.5 %       |
+| Connacht         | 95.0 %               | 13.9 %             | 13.9 %            | 9.1 %           | 9.1 %         | 4.9 %       |
+| Lions            | 100.0 %              | 42.1 %             | 42.1 %            | 10.2 %          | 10.2 %        | 4.0 %       |
+| Ulster           | 100.0 %              | 20.9 %             | 20.9 %            | 4.2 %           | 4.2 %         | 1.8 %       |
+| Cardiff Rugby    | 5.5 %                | 0.5 %              | 0.5 %             | 0.1 %           | 0.1 %         | 0.0 %       |
 
 
 
@@ -106,7 +106,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 69.0% | 9.0 |
+| Club Level | 67.1% | 9.3 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -118,7 +118,7 @@ aside:
 ### Connacht V Scarlets on 2025/10/04
 
 
-Average Margin: Connacht by 8.3
+Average Margin: Connacht by 8.2
 
 <p float="left">
 <img src="plots/2025-10-04-Connacht_V_Scarlets_club_performances.png" width="32%" />
@@ -142,7 +142,7 @@ Average Margin: Stormers by 1.9
 ### Lions V Sharks on 2025/12/25
 
 
-Average Margin: Lions by 7.7
+Average Margin: Lions by 7.9
 
 <p float="left">
 <img src="plots/2025-12-25-Lions_V_Sharks_club_performances.png" width="32%" />
@@ -152,21 +152,10 @@ Average Margin: Lions by 7.7
 
 ## Week 20
 
-### Glasgow Warriors V Cardiff Rugby on 2026/05/08
-
-
-Average Margin: Glasgow Warriors by 11.1
-
-<p float="left">
-<img src="plots/2026-05-08-GlasgowWarriors_V_CardiffRugby_club_performances.png" width="32%" />
-<img src="plots/2026-05-08-GlasgowWarriors_V_CardiffRugby_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-08-GlasgowWarriors_V_CardiffRugby_club_spreads.png" width="32%" />
-</p>
-
 ### Ulster V Stormers on 2026/05/08
 
 
-Average Margin: Ulster by 4.8
+Average Margin: Ulster by 3.7
 
 <p float="left">
 <img src="plots/2026-05-08-Ulster_V_Stormers_club_performances.png" width="32%" />
@@ -174,10 +163,21 @@ Average Margin: Ulster by 4.8
 <img src="plots/2026-05-08-Ulster_V_Stormers_club_spreads.png" width="32%" />
 </p>
 
+### Glasgow Warriors V Cardiff Rugby on 2026/05/08
+
+
+Average Margin: Glasgow Warriors by 10.9
+
+<p float="left">
+<img src="plots/2026-05-08-GlasgowWarriors_V_CardiffRugby_club_performances.png" width="32%" />
+<img src="plots/2026-05-08-GlasgowWarriors_V_CardiffRugby_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-08-GlasgowWarriors_V_CardiffRugby_club_spreads.png" width="32%" />
+</p>
+
 ### Connacht V Munster on 2026/05/09
 
 
-Average Margin: Connacht by 4.7
+Average Margin: Connacht by 4.4
 
 <p float="left">
 <img src="plots/2026-05-09-Connacht_V_Munster_club_performances.png" width="32%" />
@@ -185,32 +185,10 @@ Average Margin: Connacht by 4.7
 <img src="plots/2026-05-09-Connacht_V_Munster_club_spreads.png" width="32%" />
 </p>
 
-### Ospreys V Scarlets on 2026/05/09
-
-
-Average Margin: Ospreys by 8.0
-
-<p float="left">
-<img src="plots/2026-05-09-Ospreys_V_Scarlets_club_performances.png" width="32%" />
-<img src="plots/2026-05-09-Ospreys_V_Scarlets_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-09-Ospreys_V_Scarlets_club_spreads.png" width="32%" />
-</p>
-
-### Sharks V Benetton Treviso on 2026/05/09
-
-
-Average Margin: Sharks by 6.8
-
-<p float="left">
-<img src="plots/2026-05-09-Sharks_V_BenettonTreviso_club_performances.png" width="32%" />
-<img src="plots/2026-05-09-Sharks_V_BenettonTreviso_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-09-Sharks_V_BenettonTreviso_club_spreads.png" width="32%" />
-</p>
-
 ### Dragons V Edinburgh on 2026/05/09
 
 
-Average Margin: Dragons by 5.4
+Average Margin: Dragons by 5.6
 
 <p float="left">
 <img src="plots/2026-05-09-Dragons_V_Edinburgh_club_performances.png" width="32%" />
@@ -221,7 +199,7 @@ Average Margin: Dragons by 5.4
 ### Bulls V Zebre on 2026/05/09
 
 
-Average Margin: Bulls by 15.9
+Average Margin: Bulls by 16.2
 
 <p float="left">
 <img src="plots/2026-05-09-Bulls_V_Zebre_club_performances.png" width="32%" />
@@ -229,10 +207,21 @@ Average Margin: Bulls by 15.9
 <img src="plots/2026-05-09-Bulls_V_Zebre_club_spreads.png" width="32%" />
 </p>
 
+### Ospreys V Scarlets on 2026/05/09
+
+
+Average Margin: Ospreys by 7.9
+
+<p float="left">
+<img src="plots/2026-05-09-Ospreys_V_Scarlets_club_performances.png" width="32%" />
+<img src="plots/2026-05-09-Ospreys_V_Scarlets_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-09-Ospreys_V_Scarlets_club_spreads.png" width="32%" />
+</p>
+
 ### Leinster V Lions on 2026/05/09
 
 
-Average Margin: Leinster by 10.1
+Average Margin: Leinster by 10.3
 
 <p float="left">
 <img src="plots/2026-05-09-Leinster_V_Lions_club_performances.png" width="32%" />
@@ -240,7 +229,40 @@ Average Margin: Leinster by 10.1
 <img src="plots/2026-05-09-Leinster_V_Lions_club_spreads.png" width="32%" />
 </p>
 
+### Sharks V Benetton Treviso on 2026/05/09
+
+
+Average Margin: Sharks by 6.2
+
+<p float="left">
+<img src="plots/2026-05-09-Sharks_V_BenettonTreviso_club_performances.png" width="32%" />
+<img src="plots/2026-05-09-Sharks_V_BenettonTreviso_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-09-Sharks_V_BenettonTreviso_club_spreads.png" width="32%" />
+</p>
+
 ## Week 21
+
+### Ulster V Glasgow Warriors on 2026/05/15
+
+
+Average Margin: Ulster by 4.0
+
+<p float="left">
+<img src="plots/2026-05-15-Ulster_V_GlasgowWarriors_club_performances.png" width="32%" />
+<img src="plots/2026-05-15-Ulster_V_GlasgowWarriors_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-15-Ulster_V_GlasgowWarriors_club_spreads.png" width="32%" />
+</p>
+
+### Edinburgh V Connacht on 2026/05/15
+
+
+Average Margin: Connacht by 1.7
+
+<p float="left">
+<img src="plots/2026-05-15-Edinburgh_V_Connacht_club_performances.png" width="32%" />
+<img src="plots/2026-05-15-Edinburgh_V_Connacht_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-15-Edinburgh_V_Connacht_club_spreads.png" width="32%" />
+</p>
 
 ### Cardiff Rugby V Stormers on 2026/05/15
 
@@ -253,43 +275,21 @@ Average Margin: Stormers by 0.8
 <img src="plots/2026-05-15-CardiffRugby_V_Stormers_club_spreads.png" width="32%" />
 </p>
 
-### Edinburgh V Connacht on 2026/05/15
+### Leinster V Ospreys on 2026/05/16
 
 
-Average Margin: Connacht by 1.5
-
-<p float="left">
-<img src="plots/2026-05-15-Edinburgh_V_Connacht_club_performances.png" width="32%" />
-<img src="plots/2026-05-15-Edinburgh_V_Connacht_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-15-Edinburgh_V_Connacht_club_spreads.png" width="32%" />
-</p>
-
-### Ulster V Glasgow Warriors on 2026/05/15
-
-
-Average Margin: Ulster by 4.1
+Average Margin: Leinster by 14.1
 
 <p float="left">
-<img src="plots/2026-05-15-Ulster_V_GlasgowWarriors_club_performances.png" width="32%" />
-<img src="plots/2026-05-15-Ulster_V_GlasgowWarriors_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-15-Ulster_V_GlasgowWarriors_club_spreads.png" width="32%" />
-</p>
-
-### Sharks V Zebre on 2026/05/16
-
-
-Average Margin: Sharks by 12.0
-
-<p float="left">
-<img src="plots/2026-05-16-Sharks_V_Zebre_club_performances.png" width="32%" />
-<img src="plots/2026-05-16-Sharks_V_Zebre_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-16-Sharks_V_Zebre_club_spreads.png" width="32%" />
+<img src="plots/2026-05-16-Leinster_V_Ospreys_club_performances.png" width="32%" />
+<img src="plots/2026-05-16-Leinster_V_Ospreys_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-16-Leinster_V_Ospreys_club_spreads.png" width="32%" />
 </p>
 
 ### Scarlets V Dragons on 2026/05/16
 
 
-Average Margin: Scarlets by 4.0
+Average Margin: Scarlets by 3.8
 
 <p float="left">
 <img src="plots/2026-05-16-Scarlets_V_Dragons_club_performances.png" width="32%" />
@@ -300,7 +300,7 @@ Average Margin: Scarlets by 4.0
 ### Munster V Lions on 2026/05/16
 
 
-Average Margin: Munster by 5.9
+Average Margin: Munster by 5.6
 
 <p float="left">
 <img src="plots/2026-05-16-Munster_V_Lions_club_performances.png" width="32%" />
@@ -308,10 +308,21 @@ Average Margin: Munster by 5.9
 <img src="plots/2026-05-16-Munster_V_Lions_club_spreads.png" width="32%" />
 </p>
 
+### Sharks V Zebre on 2026/05/16
+
+
+Average Margin: Sharks by 12.1
+
+<p float="left">
+<img src="plots/2026-05-16-Sharks_V_Zebre_club_performances.png" width="32%" />
+<img src="plots/2026-05-16-Sharks_V_Zebre_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-16-Sharks_V_Zebre_club_spreads.png" width="32%" />
+</p>
+
 ### Bulls V Benetton Treviso on 2026/05/16
 
 
-Average Margin: Bulls by 10.6
+Average Margin: Bulls by 10.7
 
 <p float="left">
 <img src="plots/2026-05-16-Bulls_V_BenettonTreviso_club_performances.png" width="32%" />
@@ -319,386 +330,12 @@ Average Margin: Bulls by 10.6
 <img src="plots/2026-05-16-Bulls_V_BenettonTreviso_club_spreads.png" width="32%" />
 </p>
 
-### Leinster V Ospreys on 2026/05/16
-
-
-Average Margin: Leinster by 14.2
-
-<p float="left">
-<img src="plots/2026-05-16-Leinster_V_Ospreys_club_performances.png" width="32%" />
-<img src="plots/2026-05-16-Leinster_V_Ospreys_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-16-Leinster_V_Ospreys_club_spreads.png" width="32%" />
-</p>
-
 ## Week 22
-
-### Stormers V Connacht on 2026-05-29
-
-
-Average Margin: Stormers by 6.1
-
-<p float="left">
-<img src="plots/2026-05-29-Stormers_V_Connacht_club_performances.png" width="32%" />
-<img src="plots/2026-05-29-Stormers_V_Connacht_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-29-Stormers_V_Connacht_club_spreads.png" width="32%" />
-</p>
-
-### Ulster V Lions on 2026-05-29
-
-
-Average Margin: Ulster by 4.0
-
-<p float="left">
-<img src="plots/2026-05-29-Ulster_V_Lions_club_performances.png" width="32%" />
-<img src="plots/2026-05-29-Ulster_V_Lions_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-29-Ulster_V_Lions_club_spreads.png" width="32%" />
-</p>
-
-### Ulster V Leinster on 2026-05-29
-
-
-Average Margin: Ulster by 2.8
-
-<p float="left">
-<img src="plots/2026-05-29-Ulster_V_Leinster_club_performances.png" width="32%" />
-<img src="plots/2026-05-29-Ulster_V_Leinster_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-29-Ulster_V_Leinster_club_spreads.png" width="32%" />
-</p>
-
-### Bulls V Munster on 2026-05-29
-
-
-Average Margin: Bulls by 5.6
-
-<p float="left">
-<img src="plots/2026-05-29-Bulls_V_Munster_club_performances.png" width="32%" />
-<img src="plots/2026-05-29-Bulls_V_Munster_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-29-Bulls_V_Munster_club_spreads.png" width="32%" />
-</p>
-
-### Bulls V Ulster on 2026-05-29
-
-
-Average Margin: Bulls by 5.4
-
-<p float="left">
-<img src="plots/2026-05-29-Bulls_V_Ulster_club_performances.png" width="32%" />
-<img src="plots/2026-05-29-Bulls_V_Ulster_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-29-Bulls_V_Ulster_club_spreads.png" width="32%" />
-</p>
-
-### Bulls V Leinster on 2026-05-29
-
-
-Average Margin: Bulls by 1.7
-
-<p float="left">
-<img src="plots/2026-05-29-Bulls_V_Leinster_club_performances.png" width="32%" />
-<img src="plots/2026-05-29-Bulls_V_Leinster_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-29-Bulls_V_Leinster_club_spreads.png" width="32%" />
-</p>
-
-### Munster V Ulster on 2026-05-29
-
-
-Average Margin: Munster by 8.3
-
-<p float="left">
-<img src="plots/2026-05-29-Munster_V_Ulster_club_performances.png" width="32%" />
-<img src="plots/2026-05-29-Munster_V_Ulster_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-29-Munster_V_Ulster_club_spreads.png" width="32%" />
-</p>
-
-### Bulls V Lions on 2026-05-29
-
-
-Average Margin: Bulls by 6.5
-
-<p float="left">
-<img src="plots/2026-05-29-Bulls_V_Lions_club_performances.png" width="32%" />
-<img src="plots/2026-05-29-Bulls_V_Lions_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-29-Bulls_V_Lions_club_spreads.png" width="32%" />
-</p>
-
-### Stormers V Bulls on 2026-05-29
-
-
-Average Margin: Stormers by 6.3
-
-<p float="left">
-<img src="plots/2026-05-29-Stormers_V_Bulls_club_performances.png" width="32%" />
-<img src="plots/2026-05-29-Stormers_V_Bulls_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-29-Stormers_V_Bulls_club_spreads.png" width="32%" />
-</p>
-
-### Stormers V Lions on 2026-05-29
-
-
-Average Margin: Stormers by 4.9
-
-<p float="left">
-<img src="plots/2026-05-29-Stormers_V_Lions_club_performances.png" width="32%" />
-<img src="plots/2026-05-29-Stormers_V_Lions_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-29-Stormers_V_Lions_club_spreads.png" width="32%" />
-</p>
-
-### Glasgow Warriors V Leinster on 2026-05-29
-
-
-Average Margin: Leinster by 0.0
-
-<p float="left">
-<img src="plots/2026-05-29-GlasgowWarriors_V_Leinster_club_performances.png" width="32%" />
-<img src="plots/2026-05-29-GlasgowWarriors_V_Leinster_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-29-GlasgowWarriors_V_Leinster_club_spreads.png" width="32%" />
-</p>
-
-### Leinster V Lions on 2026-05-29
-
-
-Average Margin: Leinster by 10.0
-
-<p float="left">
-<img src="plots/2026-05-29-Leinster_V_Lions_club_performances.png" width="32%" />
-<img src="plots/2026-05-29-Leinster_V_Lions_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-29-Leinster_V_Lions_club_spreads.png" width="32%" />
-</p>
-
-### Bulls V Connacht on 2026-05-29
-
-
-Average Margin: Bulls by 14.0
-
-<p float="left">
-<img src="plots/2026-05-29-Bulls_V_Connacht_club_performances.png" width="32%" />
-<img src="plots/2026-05-29-Bulls_V_Connacht_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-29-Bulls_V_Connacht_club_spreads.png" width="32%" />
-</p>
-
-### Lions V Ulster on 2026-05-29
-
-
-Average Margin: Lions by 7.2
-
-<p float="left">
-<img src="plots/2026-05-29-Lions_V_Ulster_club_performances.png" width="32%" />
-<img src="plots/2026-05-29-Lions_V_Ulster_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-29-Lions_V_Ulster_club_spreads.png" width="32%" />
-</p>
-
-### Stormers V Leinster on 2026-05-29
-
-
-Average Margin: Stormers by 0.5
-
-<p float="left">
-<img src="plots/2026-05-29-Stormers_V_Leinster_club_performances.png" width="32%" />
-<img src="plots/2026-05-29-Stormers_V_Leinster_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-29-Stormers_V_Leinster_club_spreads.png" width="32%" />
-</p>
-
-### Glasgow Warriors V Lions on 2026-05-29
-
-
-Average Margin: Glasgow Warriors by 9.0
-
-<p float="left">
-<img src="plots/2026-05-29-GlasgowWarriors_V_Lions_club_performances.png" width="32%" />
-<img src="plots/2026-05-29-GlasgowWarriors_V_Lions_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-29-GlasgowWarriors_V_Lions_club_spreads.png" width="32%" />
-</p>
-
-### Glasgow Warriors V Bulls on 2026-05-29
-
-
-Average Margin: Glasgow Warriors by 5.5
-
-<p float="left">
-<img src="plots/2026-05-29-GlasgowWarriors_V_Bulls_club_performances.png" width="32%" />
-<img src="plots/2026-05-29-GlasgowWarriors_V_Bulls_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-29-GlasgowWarriors_V_Bulls_club_spreads.png" width="32%" />
-</p>
-
-### Lions V Connacht on 2026-05-29
-
-
-Average Margin: Lions by 6.4
-
-<p float="left">
-<img src="plots/2026-05-29-Lions_V_Connacht_club_performances.png" width="32%" />
-<img src="plots/2026-05-29-Lions_V_Connacht_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-29-Lions_V_Connacht_club_spreads.png" width="32%" />
-</p>
-
-### Glasgow Warriors V Munster on 2026-05-29
-
-
-Average Margin: Glasgow Warriors by 6.4
-
-<p float="left">
-<img src="plots/2026-05-29-GlasgowWarriors_V_Munster_club_performances.png" width="32%" />
-<img src="plots/2026-05-29-GlasgowWarriors_V_Munster_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-29-GlasgowWarriors_V_Munster_club_spreads.png" width="32%" />
-</p>
-
-### Glasgow Warriors V Cardiff Rugby on 2026-05-29
-
-
-Average Margin: Glasgow Warriors by 11.8
-
-<p float="left">
-<img src="plots/2026-05-29-GlasgowWarriors_V_CardiffRugby_club_performances.png" width="32%" />
-<img src="plots/2026-05-29-GlasgowWarriors_V_CardiffRugby_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-29-GlasgowWarriors_V_CardiffRugby_club_spreads.png" width="32%" />
-</p>
-
-### Stormers V Munster on 2026-05-29
-
-
-Average Margin: Stormers by 5.1
-
-<p float="left">
-<img src="plots/2026-05-29-Stormers_V_Munster_club_performances.png" width="32%" />
-<img src="plots/2026-05-29-Stormers_V_Munster_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-29-Stormers_V_Munster_club_spreads.png" width="32%" />
-</p>
-
-### Glasgow Warriors V Ulster on 2026-05-29
-
-
-Average Margin: Glasgow Warriors by 6.9
-
-<p float="left">
-<img src="plots/2026-05-29-GlasgowWarriors_V_Ulster_club_performances.png" width="32%" />
-<img src="plots/2026-05-29-GlasgowWarriors_V_Ulster_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-29-GlasgowWarriors_V_Ulster_club_spreads.png" width="32%" />
-</p>
-
-### Glasgow Warriors V Connacht on 2026-05-29
-
-
-Average Margin: Glasgow Warriors by 7.6
-
-<p float="left">
-<img src="plots/2026-05-29-GlasgowWarriors_V_Connacht_club_performances.png" width="32%" />
-<img src="plots/2026-05-29-GlasgowWarriors_V_Connacht_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-29-GlasgowWarriors_V_Connacht_club_spreads.png" width="32%" />
-</p>
-
-### Lions V Munster on 2026-05-29
-
-
-Average Margin: Lions by 4.3
-
-<p float="left">
-<img src="plots/2026-05-29-Lions_V_Munster_club_performances.png" width="32%" />
-<img src="plots/2026-05-29-Lions_V_Munster_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-29-Lions_V_Munster_club_spreads.png" width="32%" />
-</p>
-
-### Lions V Leinster on 2026-05-29
-
-
-Average Margin: Lions by 0.9
-
-<p float="left">
-<img src="plots/2026-05-29-Lions_V_Leinster_club_performances.png" width="32%" />
-<img src="plots/2026-05-29-Lions_V_Leinster_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-29-Lions_V_Leinster_club_spreads.png" width="32%" />
-</p>
-
-### Leinster V Connacht on 2026-05-29
-
-
-Average Margin: Leinster by 11.7
-
-<p float="left">
-<img src="plots/2026-05-29-Leinster_V_Connacht_club_performances.png" width="32%" />
-<img src="plots/2026-05-29-Leinster_V_Connacht_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-29-Leinster_V_Connacht_club_spreads.png" width="32%" />
-</p>
-
-### Stormers V Cardiff Rugby on 2026-05-29
-
-
-Average Margin: Stormers by 10.9
-
-<p float="left">
-<img src="plots/2026-05-29-Stormers_V_CardiffRugby_club_performances.png" width="32%" />
-<img src="plots/2026-05-29-Stormers_V_CardiffRugby_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-29-Stormers_V_CardiffRugby_club_spreads.png" width="32%" />
-</p>
-
-### Leinster V Cardiff Rugby on 2026-05-29
-
-
-Average Margin: Leinster by 18.3
-
-<p float="left">
-<img src="plots/2026-05-29-Leinster_V_CardiffRugby_club_performances.png" width="32%" />
-<img src="plots/2026-05-29-Leinster_V_CardiffRugby_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-29-Leinster_V_CardiffRugby_club_spreads.png" width="32%" />
-</p>
-
-### Leinster V Munster on 2026-05-29
-
-
-Average Margin: Leinster by 10.8
-
-<p float="left">
-<img src="plots/2026-05-29-Leinster_V_Munster_club_performances.png" width="32%" />
-<img src="plots/2026-05-29-Leinster_V_Munster_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-29-Leinster_V_Munster_club_spreads.png" width="32%" />
-</p>
-
-### Lions V Cardiff Rugby on 2026-05-29
-
-
-Average Margin: Cardiff Rugby by 4.0
-
-<p float="left">
-<img src="plots/2026-05-29-Lions_V_CardiffRugby_club_performances.png" width="32%" />
-<img src="plots/2026-05-29-Lions_V_CardiffRugby_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-29-Lions_V_CardiffRugby_club_spreads.png" width="32%" />
-</p>
-
-### Leinster V Bulls on 2026-05-29
-
-
-Average Margin: Leinster by 10.4
-
-<p float="left">
-<img src="plots/2026-05-29-Leinster_V_Bulls_club_performances.png" width="32%" />
-<img src="plots/2026-05-29-Leinster_V_Bulls_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-29-Leinster_V_Bulls_club_spreads.png" width="32%" />
-</p>
-
-### Leinster V Ulster on 2026-05-29
-
-
-Average Margin: Leinster by 9.3
-
-<p float="left">
-<img src="plots/2026-05-29-Leinster_V_Ulster_club_performances.png" width="32%" />
-<img src="plots/2026-05-29-Leinster_V_Ulster_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-29-Leinster_V_Ulster_club_spreads.png" width="32%" />
-</p>
-
-### Stormers V Ulster on 2026-05-29
-
-
-Average Margin: Stormers by 7.6
-
-<p float="left">
-<img src="plots/2026-05-29-Stormers_V_Ulster_club_performances.png" width="32%" />
-<img src="plots/2026-05-29-Stormers_V_Ulster_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-29-Stormers_V_Ulster_club_spreads.png" width="32%" />
-</p>
 
 ### Lions V Bulls on 2026-05-29
 
 
-Average Margin: Lions by 3.4
+Average Margin: Lions by 4.6
 
 <p float="left">
 <img src="plots/2026-05-29-Lions_V_Bulls_club_performances.png" width="32%" />
@@ -706,221 +343,342 @@ Average Margin: Lions by 3.4
 <img src="plots/2026-05-29-Lions_V_Bulls_club_spreads.png" width="32%" />
 </p>
 
+### Glasgow Warriors V Bulls on 2026-05-29
+
+
+Average Margin: Glasgow Warriors by 7.0
+
+<p float="left">
+<img src="plots/2026-05-29-GlasgowWarriors_V_Bulls_club_performances.png" width="32%" />
+<img src="plots/2026-05-29-GlasgowWarriors_V_Bulls_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-29-GlasgowWarriors_V_Bulls_club_spreads.png" width="32%" />
+</p>
+
+### Glasgow Warriors V Cardiff Rugby on 2026-05-29
+
+
+Average Margin: Glasgow Warriors by 10.1
+
+<p float="left">
+<img src="plots/2026-05-29-GlasgowWarriors_V_CardiffRugby_club_performances.png" width="32%" />
+<img src="plots/2026-05-29-GlasgowWarriors_V_CardiffRugby_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-29-GlasgowWarriors_V_CardiffRugby_club_spreads.png" width="32%" />
+</p>
+
+### Stormers V Cardiff Rugby on 2026-05-29
+
+
+Average Margin: Stormers by 12.3
+
+<p float="left">
+<img src="plots/2026-05-29-Stormers_V_CardiffRugby_club_performances.png" width="32%" />
+<img src="plots/2026-05-29-Stormers_V_CardiffRugby_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-29-Stormers_V_CardiffRugby_club_spreads.png" width="32%" />
+</p>
+
+### Glasgow Warriors V Connacht on 2026-05-29
+
+
+Average Margin: Glasgow Warriors by 16.0
+
+<p float="left">
+<img src="plots/2026-05-29-GlasgowWarriors_V_Connacht_club_performances.png" width="32%" />
+<img src="plots/2026-05-29-GlasgowWarriors_V_Connacht_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-29-GlasgowWarriors_V_Connacht_club_spreads.png" width="32%" />
+</p>
+
+### Glasgow Warriors V Munster on 2026-05-29
+
+
+Average Margin: Munster by 6.0
+
+<p float="left">
+<img src="plots/2026-05-29-GlasgowWarriors_V_Munster_club_performances.png" width="32%" />
+<img src="plots/2026-05-29-GlasgowWarriors_V_Munster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-29-GlasgowWarriors_V_Munster_club_spreads.png" width="32%" />
+</p>
+
+### Stormers V Munster on 2026-05-29
+
+
+Average Margin: Stormers by 10.2
+
+<p float="left">
+<img src="plots/2026-05-29-Stormers_V_Munster_club_performances.png" width="32%" />
+<img src="plots/2026-05-29-Stormers_V_Munster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-29-Stormers_V_Munster_club_spreads.png" width="32%" />
+</p>
+
+### Bulls V Connacht on 2026-05-29
+
+
+Average Margin: Bulls by 17.0
+
+<p float="left">
+<img src="plots/2026-05-29-Bulls_V_Connacht_club_performances.png" width="32%" />
+<img src="plots/2026-05-29-Bulls_V_Connacht_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-29-Bulls_V_Connacht_club_spreads.png" width="32%" />
+</p>
+
+### Glasgow Warriors V Lions on 2026-05-29
+
+
+Average Margin: Glasgow Warriors by 4.5
+
+<p float="left">
+<img src="plots/2026-05-29-GlasgowWarriors_V_Lions_club_performances.png" width="32%" />
+<img src="plots/2026-05-29-GlasgowWarriors_V_Lions_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-29-GlasgowWarriors_V_Lions_club_spreads.png" width="32%" />
+</p>
+
+### Stormers V Connacht on 2026-05-29
+
+
+Average Margin: Stormers by 3.1
+
+<p float="left">
+<img src="plots/2026-05-29-Stormers_V_Connacht_club_performances.png" width="32%" />
+<img src="plots/2026-05-29-Stormers_V_Connacht_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-29-Stormers_V_Connacht_club_spreads.png" width="32%" />
+</p>
+
+### Stormers V Leinster on 2026-05-29
+
+
+Average Margin: Leinster by 2.0
+
+<p float="left">
+<img src="plots/2026-05-29-Stormers_V_Leinster_club_performances.png" width="32%" />
+<img src="plots/2026-05-29-Stormers_V_Leinster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-29-Stormers_V_Leinster_club_spreads.png" width="32%" />
+</p>
+
+### Glasgow Warriors V Ulster on 2026-05-29
+
+
+Average Margin: Glasgow Warriors by 7.7
+
+<p float="left">
+<img src="plots/2026-05-29-GlasgowWarriors_V_Ulster_club_performances.png" width="32%" />
+<img src="plots/2026-05-29-GlasgowWarriors_V_Ulster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-29-GlasgowWarriors_V_Ulster_club_spreads.png" width="32%" />
+</p>
+
+### Bulls V Lions on 2026-05-29
+
+
+Average Margin: Bulls by 10.6
+
+<p float="left">
+<img src="plots/2026-05-29-Bulls_V_Lions_club_performances.png" width="32%" />
+<img src="plots/2026-05-29-Bulls_V_Lions_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-29-Bulls_V_Lions_club_spreads.png" width="32%" />
+</p>
+
+### Lions V Ulster on 2026-05-29
+
+
+Average Margin: Lions by 4.9
+
+<p float="left">
+<img src="plots/2026-05-29-Lions_V_Ulster_club_performances.png" width="32%" />
+<img src="plots/2026-05-29-Lions_V_Ulster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-29-Lions_V_Ulster_club_spreads.png" width="32%" />
+</p>
+
+### Lions V Cardiff Rugby on 2026-05-29
+
+
+Average Margin: Cardiff Rugby by 7.0
+
+<p float="left">
+<img src="plots/2026-05-29-Lions_V_CardiffRugby_club_performances.png" width="32%" />
+<img src="plots/2026-05-29-Lions_V_CardiffRugby_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-29-Lions_V_CardiffRugby_club_spreads.png" width="32%" />
+</p>
+
+### Stormers V Lions on 2026-05-29
+
+
+Average Margin: Stormers by 6.8
+
+<p float="left">
+<img src="plots/2026-05-29-Stormers_V_Lions_club_performances.png" width="32%" />
+<img src="plots/2026-05-29-Stormers_V_Lions_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-29-Stormers_V_Lions_club_spreads.png" width="32%" />
+</p>
+
+### Stormers V Ulster on 2026-05-29
+
+
+Average Margin: Stormers by 14.0
+
+<p float="left">
+<img src="plots/2026-05-29-Stormers_V_Ulster_club_performances.png" width="32%" />
+<img src="plots/2026-05-29-Stormers_V_Ulster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-29-Stormers_V_Ulster_club_spreads.png" width="32%" />
+</p>
+
+### Munster V Ulster on 2026-05-29
+
+
+Average Margin: Munster by 2.5
+
+<p float="left">
+<img src="plots/2026-05-29-Munster_V_Ulster_club_performances.png" width="32%" />
+<img src="plots/2026-05-29-Munster_V_Ulster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-29-Munster_V_Ulster_club_spreads.png" width="32%" />
+</p>
+
+### Leinster V Lions on 2026-05-29
+
+
+Average Margin: Leinster by 10.3
+
+<p float="left">
+<img src="plots/2026-05-29-Leinster_V_Lions_club_performances.png" width="32%" />
+<img src="plots/2026-05-29-Leinster_V_Lions_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-29-Leinster_V_Lions_club_spreads.png" width="32%" />
+</p>
+
+### Stormers V Bulls on 2026-05-29
+
+
+Average Margin: Stormers by 4.8
+
+<p float="left">
+<img src="plots/2026-05-29-Stormers_V_Bulls_club_performances.png" width="32%" />
+<img src="plots/2026-05-29-Stormers_V_Bulls_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-29-Stormers_V_Bulls_club_spreads.png" width="32%" />
+</p>
+
+### Lions V Connacht on 2026-05-29
+
+
+Average Margin: Lions by 4.3
+
+<p float="left">
+<img src="plots/2026-05-29-Lions_V_Connacht_club_performances.png" width="32%" />
+<img src="plots/2026-05-29-Lions_V_Connacht_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-29-Lions_V_Connacht_club_spreads.png" width="32%" />
+</p>
+
+### Leinster V Connacht on 2026-05-29
+
+
+Average Margin: Leinster by 7.0
+
+<p float="left">
+<img src="plots/2026-05-29-Leinster_V_Connacht_club_performances.png" width="32%" />
+<img src="plots/2026-05-29-Leinster_V_Connacht_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-29-Leinster_V_Connacht_club_spreads.png" width="32%" />
+</p>
+
+### Munster V Leinster on 2026-05-29
+
+
+Average Margin: Munster by 3.5
+
+<p float="left">
+<img src="plots/2026-05-29-Munster_V_Leinster_club_performances.png" width="32%" />
+<img src="plots/2026-05-29-Munster_V_Leinster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-29-Munster_V_Leinster_club_spreads.png" width="32%" />
+</p>
+
+### Leinster V Bulls on 2026-05-29
+
+
+Average Margin: Leinster by 8.8
+
+<p float="left">
+<img src="plots/2026-05-29-Leinster_V_Bulls_club_performances.png" width="32%" />
+<img src="plots/2026-05-29-Leinster_V_Bulls_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-29-Leinster_V_Bulls_club_spreads.png" width="32%" />
+</p>
+
+### Ulster V Lions on 2026-05-29
+
+
+Average Margin: Ulster by 6.5
+
+<p float="left">
+<img src="plots/2026-05-29-Ulster_V_Lions_club_performances.png" width="32%" />
+<img src="plots/2026-05-29-Ulster_V_Lions_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-29-Ulster_V_Lions_club_spreads.png" width="32%" />
+</p>
+
+### Lions V Munster on 2026-05-29
+
+
+Average Margin: Lions by 3.2
+
+<p float="left">
+<img src="plots/2026-05-29-Lions_V_Munster_club_performances.png" width="32%" />
+<img src="plots/2026-05-29-Lions_V_Munster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-29-Lions_V_Munster_club_spreads.png" width="32%" />
+</p>
+
+### Bulls V Munster on 2026-05-29
+
+
+Average Margin: Bulls by 5.0
+
+<p float="left">
+<img src="plots/2026-05-29-Bulls_V_Munster_club_performances.png" width="32%" />
+<img src="plots/2026-05-29-Bulls_V_Munster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-29-Bulls_V_Munster_club_spreads.png" width="32%" />
+</p>
+
+### Leinster V Ulster on 2026-05-29
+
+
+Average Margin: Leinster by 11.7
+
+<p float="left">
+<img src="plots/2026-05-29-Leinster_V_Ulster_club_performances.png" width="32%" />
+<img src="plots/2026-05-29-Leinster_V_Ulster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-29-Leinster_V_Ulster_club_spreads.png" width="32%" />
+</p>
+
+### Bulls V Ulster on 2026-05-29
+
+
+Average Margin: Bulls by 5.9
+
+<p float="left">
+<img src="plots/2026-05-29-Bulls_V_Ulster_club_performances.png" width="32%" />
+<img src="plots/2026-05-29-Bulls_V_Ulster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-29-Bulls_V_Ulster_club_spreads.png" width="32%" />
+</p>
+
+### Leinster V Munster on 2026-05-29
+
+
+Average Margin: Leinster by 7.6
+
+<p float="left">
+<img src="plots/2026-05-29-Leinster_V_Munster_club_performances.png" width="32%" />
+<img src="plots/2026-05-29-Leinster_V_Munster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-29-Leinster_V_Munster_club_spreads.png" width="32%" />
+</p>
+
+### Glasgow Warriors V Leinster on 2026-05-29
+
+
+Average Margin: Glasgow Warriors by 7.0
+
+<p float="left">
+<img src="plots/2026-05-29-GlasgowWarriors_V_Leinster_club_performances.png" width="32%" />
+<img src="plots/2026-05-29-GlasgowWarriors_V_Leinster_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-29-GlasgowWarriors_V_Leinster_club_spreads.png" width="32%" />
+</p>
+
 ## Week 23
-
-### Stormers V Bulls on 2026-06-05
-
-
-Average Margin: Stormers by 6.3
-
-<p float="left">
-<img src="plots/2026-06-05-Stormers_V_Bulls_club_performances.png" width="32%" />
-<img src="plots/2026-06-05-Stormers_V_Bulls_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-05-Stormers_V_Bulls_club_spreads.png" width="32%" />
-</p>
-
-### Cardiff Rugby V Bulls on 2026-06-05
-
-
-Average Margin: Cardiff Rugby by 1.5
-
-<p float="left">
-<img src="plots/2026-06-05-CardiffRugby_V_Bulls_club_performances.png" width="32%" />
-<img src="plots/2026-06-05-CardiffRugby_V_Bulls_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-05-CardiffRugby_V_Bulls_club_spreads.png" width="32%" />
-</p>
-
-### Stormers V Connacht on 2026-06-05
-
-
-Average Margin: Stormers by 7.4
-
-<p float="left">
-<img src="plots/2026-06-05-Stormers_V_Connacht_club_performances.png" width="32%" />
-<img src="plots/2026-06-05-Stormers_V_Connacht_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-05-Stormers_V_Connacht_club_spreads.png" width="32%" />
-</p>
-
-### Ulster V Bulls on 2026-06-05
-
-
-Average Margin: Ulster by 6.0
-
-<p float="left">
-<img src="plots/2026-06-05-Ulster_V_Bulls_club_performances.png" width="32%" />
-<img src="plots/2026-06-05-Ulster_V_Bulls_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-05-Ulster_V_Bulls_club_spreads.png" width="32%" />
-</p>
-
-### Munster V Leinster on 2026-06-05
-
-
-Average Margin: Leinster by 1.8
-
-<p float="left">
-<img src="plots/2026-06-05-Munster_V_Leinster_club_performances.png" width="32%" />
-<img src="plots/2026-06-05-Munster_V_Leinster_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-05-Munster_V_Leinster_club_spreads.png" width="32%" />
-</p>
-
-### Cardiff Rugby V Leinster on 2026-06-05
-
-
-Average Margin: Cardiff Rugby by 9.0
-
-<p float="left">
-<img src="plots/2026-06-05-CardiffRugby_V_Leinster_club_performances.png" width="32%" />
-<img src="plots/2026-06-05-CardiffRugby_V_Leinster_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-05-CardiffRugby_V_Leinster_club_spreads.png" width="32%" />
-</p>
-
-### Leinster V Stormers on 2026-06-05
-
-
-Average Margin: Leinster by 8.6
-
-<p float="left">
-<img src="plots/2026-06-05-Leinster_V_Stormers_club_performances.png" width="32%" />
-<img src="plots/2026-06-05-Leinster_V_Stormers_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-05-Leinster_V_Stormers_club_spreads.png" width="32%" />
-</p>
-
-### Glasgow Warriors V Connacht on 2026-06-05
-
-
-Average Margin: Glasgow Warriors by 5.7
-
-<p float="left">
-<img src="plots/2026-06-05-GlasgowWarriors_V_Connacht_club_performances.png" width="32%" />
-<img src="plots/2026-06-05-GlasgowWarriors_V_Connacht_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-05-GlasgowWarriors_V_Connacht_club_spreads.png" width="32%" />
-</p>
-
-### Connacht V Munster on 2026-06-05
-
-
-Average Margin: Connacht by 8.0
-
-<p float="left">
-<img src="plots/2026-06-05-Connacht_V_Munster_club_performances.png" width="32%" />
-<img src="plots/2026-06-05-Connacht_V_Munster_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-05-Connacht_V_Munster_club_spreads.png" width="32%" />
-</p>
-
-### Bulls V Leinster on 2026-06-05
-
-
-Average Margin: Leinster by 0.2
-
-<p float="left">
-<img src="plots/2026-06-05-Bulls_V_Leinster_club_performances.png" width="32%" />
-<img src="plots/2026-06-05-Bulls_V_Leinster_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-05-Bulls_V_Leinster_club_spreads.png" width="32%" />
-</p>
-
-### Leinster V Lions on 2026-06-05
-
-
-Average Margin: Leinster by 9.2
-
-<p float="left">
-<img src="plots/2026-06-05-Leinster_V_Lions_club_performances.png" width="32%" />
-<img src="plots/2026-06-05-Leinster_V_Lions_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-05-Leinster_V_Lions_club_spreads.png" width="32%" />
-</p>
-
-### Stormers V Glasgow Warriors on 2026-06-05
-
-
-Average Margin: Stormers by 1.0
-
-<p float="left">
-<img src="plots/2026-06-05-Stormers_V_GlasgowWarriors_club_performances.png" width="32%" />
-<img src="plots/2026-06-05-Stormers_V_GlasgowWarriors_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-05-Stormers_V_GlasgowWarriors_club_spreads.png" width="32%" />
-</p>
-
-### Munster V Glasgow Warriors on 2026-06-05
-
-
-Average Margin: Munster by 3.1
-
-<p float="left">
-<img src="plots/2026-06-05-Munster_V_GlasgowWarriors_club_performances.png" width="32%" />
-<img src="plots/2026-06-05-Munster_V_GlasgowWarriors_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-05-Munster_V_GlasgowWarriors_club_spreads.png" width="32%" />
-</p>
-
-### Ulster V Munster on 2026-06-05
-
-
-Average Margin: Munster by 0.6
-
-<p float="left">
-<img src="plots/2026-06-05-Ulster_V_Munster_club_performances.png" width="32%" />
-<img src="plots/2026-06-05-Ulster_V_Munster_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-05-Ulster_V_Munster_club_spreads.png" width="32%" />
-</p>
-
-### Munster V Connacht on 2026-06-05
-
-
-Average Margin: Munster by 5.5
-
-<p float="left">
-<img src="plots/2026-06-05-Munster_V_Connacht_club_performances.png" width="32%" />
-<img src="plots/2026-06-05-Munster_V_Connacht_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-05-Munster_V_Connacht_club_spreads.png" width="32%" />
-</p>
-
-### Bulls V Glasgow Warriors on 2026-06-05
-
-
-Average Margin: Glasgow Warriors by 3.5
-
-<p float="left">
-<img src="plots/2026-06-05-Bulls_V_GlasgowWarriors_club_performances.png" width="32%" />
-<img src="plots/2026-06-05-Bulls_V_GlasgowWarriors_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-05-Bulls_V_GlasgowWarriors_club_spreads.png" width="32%" />
-</p>
-
-### Leinster V Cardiff Rugby on 2026-06-05
-
-
-Average Margin: Leinster by 11.0
-
-<p float="left">
-<img src="plots/2026-06-05-Leinster_V_CardiffRugby_club_performances.png" width="32%" />
-<img src="plots/2026-06-05-Leinster_V_CardiffRugby_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-05-Leinster_V_CardiffRugby_club_spreads.png" width="32%" />
-</p>
-
-### Ulster V Leinster on 2026-06-05
-
-
-Average Margin: Ulster by 0.2
-
-<p float="left">
-<img src="plots/2026-06-05-Ulster_V_Leinster_club_performances.png" width="32%" />
-<img src="plots/2026-06-05-Ulster_V_Leinster_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-05-Ulster_V_Leinster_club_spreads.png" width="32%" />
-</p>
-
-### Connacht V Leinster on 2026-06-05
-
-
-Average Margin: Leinster by 0.0
-
-<p float="left">
-<img src="plots/2026-06-05-Connacht_V_Leinster_club_performances.png" width="32%" />
-<img src="plots/2026-06-05-Connacht_V_Leinster_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-05-Connacht_V_Leinster_club_spreads.png" width="32%" />
-</p>
 
 ### Munster V Lions on 2026-06-05
 
 
-Average Margin: Munster by 5.2
+Average Margin: Munster by 4.6
 
 <p float="left">
 <img src="plots/2026-06-05-Munster_V_Lions_club_performances.png" width="32%" />
@@ -928,10 +686,142 @@ Average Margin: Munster by 5.2
 <img src="plots/2026-06-05-Munster_V_Lions_club_spreads.png" width="32%" />
 </p>
 
+### Lions V Stormers on 2026-06-05
+
+
+Average Margin: Lions by 4.0
+
+<p float="left">
+<img src="plots/2026-06-05-Lions_V_Stormers_club_performances.png" width="32%" />
+<img src="plots/2026-06-05-Lions_V_Stormers_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-05-Lions_V_Stormers_club_spreads.png" width="32%" />
+</p>
+
+### Leinster V Ulster on 2026-06-05
+
+
+Average Margin: Leinster by 12.2
+
+<p float="left">
+<img src="plots/2026-06-05-Leinster_V_Ulster_club_performances.png" width="32%" />
+<img src="plots/2026-06-05-Leinster_V_Ulster_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-05-Leinster_V_Ulster_club_spreads.png" width="32%" />
+</p>
+
+### Ulster V Bulls on 2026-06-05
+
+
+Average Margin: Bulls by 0.0
+
+<p float="left">
+<img src="plots/2026-06-05-Ulster_V_Bulls_club_performances.png" width="32%" />
+<img src="plots/2026-06-05-Ulster_V_Bulls_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-05-Ulster_V_Bulls_club_spreads.png" width="32%" />
+</p>
+
+### Glasgow Warriors V Connacht on 2026-06-05
+
+
+Average Margin: Glasgow Warriors by 2.5
+
+<p float="left">
+<img src="plots/2026-06-05-GlasgowWarriors_V_Connacht_club_performances.png" width="32%" />
+<img src="plots/2026-06-05-GlasgowWarriors_V_Connacht_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-05-GlasgowWarriors_V_Connacht_club_spreads.png" width="32%" />
+</p>
+
+### Ulster V Lions on 2026-06-05
+
+
+Average Margin: Ulster by 5.0
+
+<p float="left">
+<img src="plots/2026-06-05-Ulster_V_Lions_club_performances.png" width="32%" />
+<img src="plots/2026-06-05-Ulster_V_Lions_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-05-Ulster_V_Lions_club_spreads.png" width="32%" />
+</p>
+
+### Lions V Leinster on 2026-06-05
+
+
+Average Margin: Lions by 2.7
+
+<p float="left">
+<img src="plots/2026-06-05-Lions_V_Leinster_club_performances.png" width="32%" />
+<img src="plots/2026-06-05-Lions_V_Leinster_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-05-Lions_V_Leinster_club_spreads.png" width="32%" />
+</p>
+
+### Cardiff Rugby V Munster on 2026-06-05
+
+
+Average Margin: Munster by 16.0
+
+<p float="left">
+<img src="plots/2026-06-05-CardiffRugby_V_Munster_club_performances.png" width="32%" />
+<img src="plots/2026-06-05-CardiffRugby_V_Munster_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-05-CardiffRugby_V_Munster_club_spreads.png" width="32%" />
+</p>
+
+### Connacht V Lions on 2026-06-05
+
+
+Average Margin: Connacht by 7.6
+
+<p float="left">
+<img src="plots/2026-06-05-Connacht_V_Lions_club_performances.png" width="32%" />
+<img src="plots/2026-06-05-Connacht_V_Lions_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-05-Connacht_V_Lions_club_spreads.png" width="32%" />
+</p>
+
+### Cardiff Rugby V Bulls on 2026-06-05
+
+
+Average Margin: Bulls by 5.7
+
+<p float="left">
+<img src="plots/2026-06-05-CardiffRugby_V_Bulls_club_performances.png" width="32%" />
+<img src="plots/2026-06-05-CardiffRugby_V_Bulls_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-05-CardiffRugby_V_Bulls_club_spreads.png" width="32%" />
+</p>
+
+### Glasgow Warriors V Stormers on 2026-06-05
+
+
+Average Margin: Glasgow Warriors by 6.0
+
+<p float="left">
+<img src="plots/2026-06-05-GlasgowWarriors_V_Stormers_club_performances.png" width="32%" />
+<img src="plots/2026-06-05-GlasgowWarriors_V_Stormers_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-05-GlasgowWarriors_V_Stormers_club_spreads.png" width="32%" />
+</p>
+
+### Munster V Bulls on 2026-06-05
+
+
+Average Margin: Munster by 5.9
+
+<p float="left">
+<img src="plots/2026-06-05-Munster_V_Bulls_club_performances.png" width="32%" />
+<img src="plots/2026-06-05-Munster_V_Bulls_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-05-Munster_V_Bulls_club_spreads.png" width="32%" />
+</p>
+
+### Munster V Leinster on 2026-06-05
+
+
+Average Margin: Munster by 3.6
+
+<p float="left">
+<img src="plots/2026-06-05-Munster_V_Leinster_club_performances.png" width="32%" />
+<img src="plots/2026-06-05-Munster_V_Leinster_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-05-Munster_V_Leinster_club_spreads.png" width="32%" />
+</p>
+
 ### Glasgow Warriors V Leinster on 2026-06-05
 
 
-Average Margin: Glasgow Warriors by 3.8
+Average Margin: Glasgow Warriors by 3.1
 
 <p float="left">
 <img src="plots/2026-06-05-GlasgowWarriors_V_Leinster_club_performances.png" width="32%" />
@@ -939,10 +829,120 @@ Average Margin: Glasgow Warriors by 3.8
 <img src="plots/2026-06-05-GlasgowWarriors_V_Leinster_club_spreads.png" width="32%" />
 </p>
 
+### Stormers V Connacht on 2026-06-05
+
+
+Average Margin: Stormers by 4.6
+
+<p float="left">
+<img src="plots/2026-06-05-Stormers_V_Connacht_club_performances.png" width="32%" />
+<img src="plots/2026-06-05-Stormers_V_Connacht_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-05-Stormers_V_Connacht_club_spreads.png" width="32%" />
+</p>
+
+### Munster V Ulster on 2026-06-05
+
+
+Average Margin: Munster by 7.6
+
+<p float="left">
+<img src="plots/2026-06-05-Munster_V_Ulster_club_performances.png" width="32%" />
+<img src="plots/2026-06-05-Munster_V_Ulster_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-05-Munster_V_Ulster_club_spreads.png" width="32%" />
+</p>
+
+### Connacht V Leinster on 2026-06-05
+
+
+Average Margin: Connacht by 2.3
+
+<p float="left">
+<img src="plots/2026-06-05-Connacht_V_Leinster_club_performances.png" width="32%" />
+<img src="plots/2026-06-05-Connacht_V_Leinster_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-05-Connacht_V_Leinster_club_spreads.png" width="32%" />
+</p>
+
+### Stormers V Munster on 2026-06-05
+
+
+Average Margin: Stormers by 2.0
+
+<p float="left">
+<img src="plots/2026-06-05-Stormers_V_Munster_club_performances.png" width="32%" />
+<img src="plots/2026-06-05-Stormers_V_Munster_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-05-Stormers_V_Munster_club_spreads.png" width="32%" />
+</p>
+
+### Connacht V Ulster on 2026-06-05
+
+
+Average Margin: Connacht by 6.8
+
+<p float="left">
+<img src="plots/2026-06-05-Connacht_V_Ulster_club_performances.png" width="32%" />
+<img src="plots/2026-06-05-Connacht_V_Ulster_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-05-Connacht_V_Ulster_club_spreads.png" width="32%" />
+</p>
+
+### Connacht V Munster on 2026-06-05
+
+
+Average Margin: Munster by 3.6
+
+<p float="left">
+<img src="plots/2026-06-05-Connacht_V_Munster_club_performances.png" width="32%" />
+<img src="plots/2026-06-05-Connacht_V_Munster_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-05-Connacht_V_Munster_club_spreads.png" width="32%" />
+</p>
+
+### Connacht V Bulls on 2026-06-05
+
+
+Average Margin: Connacht by 5.3
+
+<p float="left">
+<img src="plots/2026-06-05-Connacht_V_Bulls_club_performances.png" width="32%" />
+<img src="plots/2026-06-05-Connacht_V_Bulls_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-05-Connacht_V_Bulls_club_spreads.png" width="32%" />
+</p>
+
+### Glasgow Warriors V Munster on 2026-06-05
+
+
+Average Margin: Glasgow Warriors by 6.4
+
+<p float="left">
+<img src="plots/2026-06-05-GlasgowWarriors_V_Munster_club_performances.png" width="32%" />
+<img src="plots/2026-06-05-GlasgowWarriors_V_Munster_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-05-GlasgowWarriors_V_Munster_club_spreads.png" width="32%" />
+</p>
+
+### Stormers V Ulster on 2026-06-05
+
+
+Average Margin: Stormers by 6.1
+
+<p float="left">
+<img src="plots/2026-06-05-Stormers_V_Ulster_club_performances.png" width="32%" />
+<img src="plots/2026-06-05-Stormers_V_Ulster_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-05-Stormers_V_Ulster_club_spreads.png" width="32%" />
+</p>
+
+### Cardiff Rugby V Lions on 2026-06-05
+
+
+Average Margin: Cardiff Rugby by 3.0
+
+<p float="left">
+<img src="plots/2026-06-05-CardiffRugby_V_Lions_club_performances.png" width="32%" />
+<img src="plots/2026-06-05-CardiffRugby_V_Lions_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-05-CardiffRugby_V_Lions_club_spreads.png" width="32%" />
+</p>
+
 ### Glasgow Warriors V Bulls on 2026-06-05
 
 
-Average Margin: Glasgow Warriors by 6.2
+Average Margin: Glasgow Warriors by 6.4
 
 <p float="left">
 <img src="plots/2026-06-05-GlasgowWarriors_V_Bulls_club_performances.png" width="32%" />
@@ -953,7 +953,7 @@ Average Margin: Glasgow Warriors by 6.2
 ### Stormers V Lions on 2026-06-05
 
 
-Average Margin: Stormers by 5.4
+Average Margin: Stormers by 6.2
 
 <p float="left">
 <img src="plots/2026-06-05-Stormers_V_Lions_club_performances.png" width="32%" />
@@ -961,32 +961,10 @@ Average Margin: Stormers by 5.4
 <img src="plots/2026-06-05-Stormers_V_Lions_club_spreads.png" width="32%" />
 </p>
 
-### Glasgow Warriors V Munster on 2026-06-05
-
-
-Average Margin: Glasgow Warriors by 5.7
-
-<p float="left">
-<img src="plots/2026-06-05-GlasgowWarriors_V_Munster_club_performances.png" width="32%" />
-<img src="plots/2026-06-05-GlasgowWarriors_V_Munster_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-05-GlasgowWarriors_V_Munster_club_spreads.png" width="32%" />
-</p>
-
-### Glasgow Warriors V Lions on 2026-06-05
-
-
-Average Margin: Glasgow Warriors by 8.8
-
-<p float="left">
-<img src="plots/2026-06-05-GlasgowWarriors_V_Lions_club_performances.png" width="32%" />
-<img src="plots/2026-06-05-GlasgowWarriors_V_Lions_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-05-GlasgowWarriors_V_Lions_club_spreads.png" width="32%" />
-</p>
-
 ### Stormers V Leinster on 2026-06-05
 
 
-Average Margin: Stormers by 2.9
+Average Margin: Stormers by 2.7
 
 <p float="left">
 <img src="plots/2026-06-05-Stormers_V_Leinster_club_performances.png" width="32%" />
@@ -994,109 +972,32 @@ Average Margin: Stormers by 2.9
 <img src="plots/2026-06-05-Stormers_V_Leinster_club_spreads.png" width="32%" />
 </p>
 
-### Connacht V Ulster on 2026-06-05
+### Glasgow Warriors V Lions on 2026-06-05
 
 
-Average Margin: Connacht by 5.3
+Average Margin: Glasgow Warriors by 7.7
 
 <p float="left">
-<img src="plots/2026-06-05-Connacht_V_Ulster_club_performances.png" width="32%" />
-<img src="plots/2026-06-05-Connacht_V_Ulster_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-05-Connacht_V_Ulster_club_spreads.png" width="32%" />
+<img src="plots/2026-06-05-GlasgowWarriors_V_Lions_club_performances.png" width="32%" />
+<img src="plots/2026-06-05-GlasgowWarriors_V_Lions_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-05-GlasgowWarriors_V_Lions_club_spreads.png" width="32%" />
 </p>
 
-### Connacht V Lions on 2026-06-05
+### Stormers V Bulls on 2026-06-05
 
 
-Average Margin: Connacht by 6.6
-
-<p float="left">
-<img src="plots/2026-06-05-Connacht_V_Lions_club_performances.png" width="32%" />
-<img src="plots/2026-06-05-Connacht_V_Lions_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-05-Connacht_V_Lions_club_spreads.png" width="32%" />
-</p>
-
-### Munster V Bulls on 2026-06-05
-
-
-Average Margin: Munster by 3.8
+Average Margin: Stormers by 4.7
 
 <p float="left">
-<img src="plots/2026-06-05-Munster_V_Bulls_club_performances.png" width="32%" />
-<img src="plots/2026-06-05-Munster_V_Bulls_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-05-Munster_V_Bulls_club_spreads.png" width="32%" />
-</p>
-
-### Stormers V Munster on 2026-06-05
-
-
-Average Margin: Stormers by 4.0
-
-<p float="left">
-<img src="plots/2026-06-05-Stormers_V_Munster_club_performances.png" width="32%" />
-<img src="plots/2026-06-05-Stormers_V_Munster_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-05-Stormers_V_Munster_club_spreads.png" width="32%" />
-</p>
-
-### Connacht V Bulls on 2026-06-05
-
-
-Average Margin: Connacht by 5.1
-
-<p float="left">
-<img src="plots/2026-06-05-Connacht_V_Bulls_club_performances.png" width="32%" />
-<img src="plots/2026-06-05-Connacht_V_Bulls_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-05-Connacht_V_Bulls_club_spreads.png" width="32%" />
-</p>
-
-### Glasgow Warriors V Stormers on 2026-06-05
-
-
-Average Margin: Glasgow Warriors by 4.1
-
-<p float="left">
-<img src="plots/2026-06-05-GlasgowWarriors_V_Stormers_club_performances.png" width="32%" />
-<img src="plots/2026-06-05-GlasgowWarriors_V_Stormers_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-05-GlasgowWarriors_V_Stormers_club_spreads.png" width="32%" />
-</p>
-
-### Lions V Ulster on 2026-06-05
-
-
-Average Margin: Lions by 10.5
-
-<p float="left">
-<img src="plots/2026-06-05-Lions_V_Ulster_club_performances.png" width="32%" />
-<img src="plots/2026-06-05-Lions_V_Ulster_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-05-Lions_V_Ulster_club_spreads.png" width="32%" />
-</p>
-
-### Stormers V Ulster on 2026-06-05
-
-
-Average Margin: Stormers by 6.3
-
-<p float="left">
-<img src="plots/2026-06-05-Stormers_V_Ulster_club_performances.png" width="32%" />
-<img src="plots/2026-06-05-Stormers_V_Ulster_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-05-Stormers_V_Ulster_club_spreads.png" width="32%" />
-</p>
-
-### Leinster V Bulls on 2026-06-05
-
-
-Average Margin: Leinster by 8.8
-
-<p float="left">
-<img src="plots/2026-06-05-Leinster_V_Bulls_club_performances.png" width="32%" />
-<img src="plots/2026-06-05-Leinster_V_Bulls_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-05-Leinster_V_Bulls_club_spreads.png" width="32%" />
+<img src="plots/2026-06-05-Stormers_V_Bulls_club_performances.png" width="32%" />
+<img src="plots/2026-06-05-Stormers_V_Bulls_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-05-Stormers_V_Bulls_club_spreads.png" width="32%" />
 </p>
 
 ### Glasgow Warriors V Ulster on 2026-06-05
 
 
-Average Margin: Glasgow Warriors by 5.5
+Average Margin: Glasgow Warriors by 6.7
 
 <p float="left">
 <img src="plots/2026-06-05-GlasgowWarriors_V_Ulster_club_performances.png" width="32%" />
@@ -1104,78 +1005,34 @@ Average Margin: Glasgow Warriors by 5.5
 <img src="plots/2026-06-05-GlasgowWarriors_V_Ulster_club_spreads.png" width="32%" />
 </p>
 
-### Lions V Bulls on 2026-06-05
+### Bulls V Leinster on 2026-06-05
 
 
-Average Margin: Lions by 2.0
-
-<p float="left">
-<img src="plots/2026-06-05-Lions_V_Bulls_club_performances.png" width="32%" />
-<img src="plots/2026-06-05-Lions_V_Bulls_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-05-Lions_V_Bulls_club_spreads.png" width="32%" />
-</p>
-
-### Munster V Ulster on 2026-06-05
-
-
-Average Margin: Munster by 6.6
+Average Margin: Bulls by 5.1
 
 <p float="left">
-<img src="plots/2026-06-05-Munster_V_Ulster_club_performances.png" width="32%" />
-<img src="plots/2026-06-05-Munster_V_Ulster_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-05-Munster_V_Ulster_club_spreads.png" width="32%" />
-</p>
-
-### Cardiff Rugby V Glasgow Warriors on 2026-06-05
-
-
-Average Margin: Glasgow Warriors by 1.0
-
-<p float="left">
-<img src="plots/2026-06-05-CardiffRugby_V_GlasgowWarriors_club_performances.png" width="32%" />
-<img src="plots/2026-06-05-CardiffRugby_V_GlasgowWarriors_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-05-CardiffRugby_V_GlasgowWarriors_club_spreads.png" width="32%" />
-</p>
-
-### Bulls V Lions on 2026-06-05
-
-
-Average Margin: Bulls by 11.0
-
-<p float="left">
-<img src="plots/2026-06-05-Bulls_V_Lions_club_performances.png" width="32%" />
-<img src="plots/2026-06-05-Bulls_V_Lions_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-05-Bulls_V_Lions_club_spreads.png" width="32%" />
+<img src="plots/2026-06-05-Bulls_V_Leinster_club_performances.png" width="32%" />
+<img src="plots/2026-06-05-Bulls_V_Leinster_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-05-Bulls_V_Leinster_club_spreads.png" width="32%" />
 </p>
 
 ## Final
 
-### Bulls V Glasgow Warriors on 2026-06-19
+### Munster V Glasgow Warriors on 2026-06-19
 
 
-Average Margin: Bulls by 6.0
-
-<p float="left">
-<img src="plots/2026-06-19-Bulls_V_GlasgowWarriors_club_performances.png" width="32%" />
-<img src="plots/2026-06-19-Bulls_V_GlasgowWarriors_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-19-Bulls_V_GlasgowWarriors_club_spreads.png" width="32%" />
-</p>
-
-### Cardiff Rugby V Glasgow Warriors on 2026-06-19
-
-
-Average Margin: Cardiff Rugby by 9.0
+Average Margin: Munster by 4.2
 
 <p float="left">
-<img src="plots/2026-06-19-CardiffRugby_V_GlasgowWarriors_club_performances.png" width="32%" />
-<img src="plots/2026-06-19-CardiffRugby_V_GlasgowWarriors_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-19-CardiffRugby_V_GlasgowWarriors_club_spreads.png" width="32%" />
+<img src="plots/2026-06-19-Munster_V_GlasgowWarriors_club_performances.png" width="32%" />
+<img src="plots/2026-06-19-Munster_V_GlasgowWarriors_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-19-Munster_V_GlasgowWarriors_club_spreads.png" width="32%" />
 </p>
 
 ### Bulls V Ulster on 2026-06-19
 
 
-Average Margin: Bulls by 8.2
+Average Margin: Bulls by 12.0
 
 <p float="left">
 <img src="plots/2026-06-19-Bulls_V_Ulster_club_performances.png" width="32%" />
@@ -1183,87 +1040,54 @@ Average Margin: Bulls by 8.2
 <img src="plots/2026-06-19-Bulls_V_Ulster_club_spreads.png" width="32%" />
 </p>
 
-### Connacht V Ulster on 2026-06-19
+### Lions V Connacht on 2026-06-19
 
 
-Average Margin: Connacht by 0.8
+Average Margin: Lions by 8.0
 
 <p float="left">
-<img src="plots/2026-06-19-Connacht_V_Ulster_club_performances.png" width="32%" />
-<img src="plots/2026-06-19-Connacht_V_Ulster_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-19-Connacht_V_Ulster_club_spreads.png" width="32%" />
+<img src="plots/2026-06-19-Lions_V_Connacht_club_performances.png" width="32%" />
+<img src="plots/2026-06-19-Lions_V_Connacht_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-19-Lions_V_Connacht_club_spreads.png" width="32%" />
 </p>
 
-### Munster V Ulster on 2026-06-19
+### Munster V Bulls on 2026-06-19
 
 
-Average Margin: Munster by 5.3
+Average Margin: Bulls by 0.7
 
 <p float="left">
-<img src="plots/2026-06-19-Munster_V_Ulster_club_performances.png" width="32%" />
-<img src="plots/2026-06-19-Munster_V_Ulster_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-19-Munster_V_Ulster_club_spreads.png" width="32%" />
+<img src="plots/2026-06-19-Munster_V_Bulls_club_performances.png" width="32%" />
+<img src="plots/2026-06-19-Munster_V_Bulls_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-19-Munster_V_Bulls_club_spreads.png" width="32%" />
 </p>
 
-### Lions V Leinster on 2026-06-19
+### Ulster V Stormers on 2026-06-19
 
 
-Average Margin: Lions by 1.2
+Average Margin: Ulster by 1.2
 
 <p float="left">
-<img src="plots/2026-06-19-Lions_V_Leinster_club_performances.png" width="32%" />
-<img src="plots/2026-06-19-Lions_V_Leinster_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-19-Lions_V_Leinster_club_spreads.png" width="32%" />
+<img src="plots/2026-06-19-Ulster_V_Stormers_club_performances.png" width="32%" />
+<img src="plots/2026-06-19-Ulster_V_Stormers_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-19-Ulster_V_Stormers_club_spreads.png" width="32%" />
 </p>
 
-### Glasgow Warriors V Ulster on 2026-06-19
+### Connacht V Munster on 2026-06-19
 
 
-Average Margin: Glasgow Warriors by 5.4
-
-<p float="left">
-<img src="plots/2026-06-19-GlasgowWarriors_V_Ulster_club_performances.png" width="32%" />
-<img src="plots/2026-06-19-GlasgowWarriors_V_Ulster_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-19-GlasgowWarriors_V_Ulster_club_spreads.png" width="32%" />
-</p>
-
-### Connacht V Lions on 2026-06-19
-
-
-Average Margin: Connacht by 5.4
+Average Margin: Connacht by 2.7
 
 <p float="left">
-<img src="plots/2026-06-19-Connacht_V_Lions_club_performances.png" width="32%" />
-<img src="plots/2026-06-19-Connacht_V_Lions_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-19-Connacht_V_Lions_club_spreads.png" width="32%" />
-</p>
-
-### Stormers V Munster on 2026-06-19
-
-
-Average Margin: Stormers by 6.7
-
-<p float="left">
-<img src="plots/2026-06-19-Stormers_V_Munster_club_performances.png" width="32%" />
-<img src="plots/2026-06-19-Stormers_V_Munster_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-19-Stormers_V_Munster_club_spreads.png" width="32%" />
-</p>
-
-### Bulls V Connacht on 2026-06-19
-
-
-Average Margin: Bulls by 11.8
-
-<p float="left">
-<img src="plots/2026-06-19-Bulls_V_Connacht_club_performances.png" width="32%" />
-<img src="plots/2026-06-19-Bulls_V_Connacht_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-19-Bulls_V_Connacht_club_spreads.png" width="32%" />
+<img src="plots/2026-06-19-Connacht_V_Munster_club_performances.png" width="32%" />
+<img src="plots/2026-06-19-Connacht_V_Munster_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-19-Connacht_V_Munster_club_spreads.png" width="32%" />
 </p>
 
 ### Glasgow Warriors V Lions on 2026-06-19
 
 
-Average Margin: Glasgow Warriors by 5.4
+Average Margin: Glasgow Warriors by 8.8
 
 <p float="left">
 <img src="plots/2026-06-19-GlasgowWarriors_V_Lions_club_performances.png" width="32%" />
@@ -1271,10 +1095,131 @@ Average Margin: Glasgow Warriors by 5.4
 <img src="plots/2026-06-19-GlasgowWarriors_V_Lions_club_spreads.png" width="32%" />
 </p>
 
-### Lions V Munster on 2026-06-19
+### Lions V Leinster on 2026-06-19
+
+
+Average Margin: Leinster by 1.4
+
+<p float="left">
+<img src="plots/2026-06-19-Lions_V_Leinster_club_performances.png" width="32%" />
+<img src="plots/2026-06-19-Lions_V_Leinster_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-19-Lions_V_Leinster_club_spreads.png" width="32%" />
+</p>
+
+### Leinster V Connacht on 2026-06-19
+
+
+Average Margin: Leinster by 8.8
+
+<p float="left">
+<img src="plots/2026-06-19-Leinster_V_Connacht_club_performances.png" width="32%" />
+<img src="plots/2026-06-19-Leinster_V_Connacht_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-19-Leinster_V_Connacht_club_spreads.png" width="32%" />
+</p>
+
+### Glasgow Warriors V Ulster on 2026-06-19
+
+
+Average Margin: Glasgow Warriors by 7.5
+
+<p float="left">
+<img src="plots/2026-06-19-GlasgowWarriors_V_Ulster_club_performances.png" width="32%" />
+<img src="plots/2026-06-19-GlasgowWarriors_V_Ulster_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-19-GlasgowWarriors_V_Ulster_club_spreads.png" width="32%" />
+</p>
+
+### Ulster V Leinster on 2026-06-19
+
+
+Average Margin: Ulster by 5.2
+
+<p float="left">
+<img src="plots/2026-06-19-Ulster_V_Leinster_club_performances.png" width="32%" />
+<img src="plots/2026-06-19-Ulster_V_Leinster_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-19-Ulster_V_Leinster_club_spreads.png" width="32%" />
+</p>
+
+### Bulls V Glasgow Warriors on 2026-06-19
+
+
+Average Margin: Bulls by 4.4
+
+<p float="left">
+<img src="plots/2026-06-19-Bulls_V_GlasgowWarriors_club_performances.png" width="32%" />
+<img src="plots/2026-06-19-Bulls_V_GlasgowWarriors_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-19-Bulls_V_GlasgowWarriors_club_spreads.png" width="32%" />
+</p>
+
+### Munster V Ulster on 2026-06-19
+
+
+Average Margin: Munster by 2.3
+
+<p float="left">
+<img src="plots/2026-06-19-Munster_V_Ulster_club_performances.png" width="32%" />
+<img src="plots/2026-06-19-Munster_V_Ulster_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-19-Munster_V_Ulster_club_spreads.png" width="32%" />
+</p>
+
+### Munster V Leinster on 2026-06-19
+
+
+Average Margin: Munster by 2.0
+
+<p float="left">
+<img src="plots/2026-06-19-Munster_V_Leinster_club_performances.png" width="32%" />
+<img src="plots/2026-06-19-Munster_V_Leinster_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-19-Munster_V_Leinster_club_spreads.png" width="32%" />
+</p>
+
+### Munster V Stormers on 2026-06-19
+
+
+Average Margin: Munster by 2.9
+
+<p float="left">
+<img src="plots/2026-06-19-Munster_V_Stormers_club_performances.png" width="32%" />
+<img src="plots/2026-06-19-Munster_V_Stormers_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-19-Munster_V_Stormers_club_spreads.png" width="32%" />
+</p>
+
+### Connacht V Glasgow Warriors on 2026-06-19
+
+
+Average Margin: Connacht by 3.1
+
+<p float="left">
+<img src="plots/2026-06-19-Connacht_V_GlasgowWarriors_club_performances.png" width="32%" />
+<img src="plots/2026-06-19-Connacht_V_GlasgowWarriors_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-19-Connacht_V_GlasgowWarriors_club_spreads.png" width="32%" />
+</p>
+
+### Lions V Stormers on 2026-06-19
 
 
 Average Margin: Lions by 2.3
+
+<p float="left">
+<img src="plots/2026-06-19-Lions_V_Stormers_club_performances.png" width="32%" />
+<img src="plots/2026-06-19-Lions_V_Stormers_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-19-Lions_V_Stormers_club_spreads.png" width="32%" />
+</p>
+
+### Connacht V Stormers on 2026-06-19
+
+
+Average Margin: Connacht by 3.3
+
+<p float="left">
+<img src="plots/2026-06-19-Connacht_V_Stormers_club_performances.png" width="32%" />
+<img src="plots/2026-06-19-Connacht_V_Stormers_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-19-Connacht_V_Stormers_club_spreads.png" width="32%" />
+</p>
+
+### Lions V Munster on 2026-06-19
+
+
+Average Margin: Lions by 5.9
 
 <p float="left">
 <img src="plots/2026-06-19-Lions_V_Munster_club_performances.png" width="32%" />
@@ -1285,7 +1230,7 @@ Average Margin: Lions by 2.3
 ### Bulls V Lions on 2026-06-19
 
 
-Average Margin: Bulls by 8.3
+Average Margin: Bulls by 6.1
 
 <p float="left">
 <img src="plots/2026-06-19-Bulls_V_Lions_club_performances.png" width="32%" />
@@ -1293,153 +1238,10 @@ Average Margin: Bulls by 8.3
 <img src="plots/2026-06-19-Bulls_V_Lions_club_spreads.png" width="32%" />
 </p>
 
-### Munster V Connacht on 2026-06-19
-
-
-Average Margin: Munster by 5.3
-
-<p float="left">
-<img src="plots/2026-06-19-Munster_V_Connacht_club_performances.png" width="32%" />
-<img src="plots/2026-06-19-Munster_V_Connacht_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-19-Munster_V_Connacht_club_spreads.png" width="32%" />
-</p>
-
-### Ulster V Leinster on 2026-06-19
-
-
-Average Margin: Ulster by 0.1
-
-<p float="left">
-<img src="plots/2026-06-19-Ulster_V_Leinster_club_performances.png" width="32%" />
-<img src="plots/2026-06-19-Ulster_V_Leinster_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-19-Ulster_V_Leinster_club_spreads.png" width="32%" />
-</p>
-
-### Lions V Stormers on 2026-06-19
-
-
-Average Margin: Lions by 3.7
-
-<p float="left">
-<img src="plots/2026-06-19-Lions_V_Stormers_club_performances.png" width="32%" />
-<img src="plots/2026-06-19-Lions_V_Stormers_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-19-Lions_V_Stormers_club_spreads.png" width="32%" />
-</p>
-
-### Bulls V Munster on 2026-06-19
-
-
-Average Margin: Bulls by 7.6
-
-<p float="left">
-<img src="plots/2026-06-19-Bulls_V_Munster_club_performances.png" width="32%" />
-<img src="plots/2026-06-19-Bulls_V_Munster_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-19-Bulls_V_Munster_club_spreads.png" width="32%" />
-</p>
-
-### Stormers V Ulster on 2026-06-19
-
-
-Average Margin: Stormers by 11.2
-
-<p float="left">
-<img src="plots/2026-06-19-Stormers_V_Ulster_club_performances.png" width="32%" />
-<img src="plots/2026-06-19-Stormers_V_Ulster_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-19-Stormers_V_Ulster_club_spreads.png" width="32%" />
-</p>
-
-### Stormers V Bulls on 2026-06-19
-
-
-Average Margin: Stormers by 8.1
-
-<p float="left">
-<img src="plots/2026-06-19-Stormers_V_Bulls_club_performances.png" width="32%" />
-<img src="plots/2026-06-19-Stormers_V_Bulls_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-19-Stormers_V_Bulls_club_spreads.png" width="32%" />
-</p>
-
-### Stormers V Glasgow Warriors on 2026-06-19
-
-
-Average Margin: Stormers by 5.2
-
-<p float="left">
-<img src="plots/2026-06-19-Stormers_V_GlasgowWarriors_club_performances.png" width="32%" />
-<img src="plots/2026-06-19-Stormers_V_GlasgowWarriors_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-19-Stormers_V_GlasgowWarriors_club_spreads.png" width="32%" />
-</p>
-
-### Glasgow Warriors V Munster on 2026-06-19
-
-
-Average Margin: Glasgow Warriors by 6.9
-
-<p float="left">
-<img src="plots/2026-06-19-GlasgowWarriors_V_Munster_club_performances.png" width="32%" />
-<img src="plots/2026-06-19-GlasgowWarriors_V_Munster_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-19-GlasgowWarriors_V_Munster_club_spreads.png" width="32%" />
-</p>
-
-### Connacht V Leinster on 2026-06-19
-
-
-Average Margin: Connacht by 1.6
-
-<p float="left">
-<img src="plots/2026-06-19-Connacht_V_Leinster_club_performances.png" width="32%" />
-<img src="plots/2026-06-19-Connacht_V_Leinster_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-19-Connacht_V_Leinster_club_spreads.png" width="32%" />
-</p>
-
-### Stormers V Connacht on 2026-06-19
-
-
-Average Margin: Stormers by 7.1
-
-<p float="left">
-<img src="plots/2026-06-19-Stormers_V_Connacht_club_performances.png" width="32%" />
-<img src="plots/2026-06-19-Stormers_V_Connacht_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-19-Stormers_V_Connacht_club_spreads.png" width="32%" />
-</p>
-
-### Bulls V Leinster on 2026-06-19
-
-
-Average Margin: Bulls by 0.5
-
-<p float="left">
-<img src="plots/2026-06-19-Bulls_V_Leinster_club_performances.png" width="32%" />
-<img src="plots/2026-06-19-Bulls_V_Leinster_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-19-Bulls_V_Leinster_club_spreads.png" width="32%" />
-</p>
-
-### Leinster V Munster on 2026-06-19
-
-
-Average Margin: Leinster by 8.7
-
-<p float="left">
-<img src="plots/2026-06-19-Leinster_V_Munster_club_performances.png" width="32%" />
-<img src="plots/2026-06-19-Leinster_V_Munster_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-19-Leinster_V_Munster_club_spreads.png" width="32%" />
-</p>
-
-### Glasgow Warriors V Leinster on 2026-06-19
-
-
-Average Margin: Glasgow Warriors by 3.9
-
-<p float="left">
-<img src="plots/2026-06-19-GlasgowWarriors_V_Leinster_club_performances.png" width="32%" />
-<img src="plots/2026-06-19-GlasgowWarriors_V_Leinster_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-19-GlasgowWarriors_V_Leinster_club_spreads.png" width="32%" />
-</p>
-
 ### Stormers V Leinster on 2026-06-19
 
 
-Average Margin: Stormers by 1.2
+Average Margin: Stormers by 3.0
 
 <p float="left">
 <img src="plots/2026-06-19-Stormers_V_Leinster_club_performances.png" width="32%" />
@@ -1447,35 +1249,68 @@ Average Margin: Stormers by 1.2
 <img src="plots/2026-06-19-Stormers_V_Leinster_club_spreads.png" width="32%" />
 </p>
 
-### Glasgow Warriors V Connacht on 2026-06-19
+### Cardiff Rugby V Glasgow Warriors on 2026-06-19
 
 
-Average Margin: Glasgow Warriors by 5.7
+Average Margin: Glasgow Warriors by 4.0
 
 <p float="left">
-<img src="plots/2026-06-19-GlasgowWarriors_V_Connacht_club_performances.png" width="32%" />
-<img src="plots/2026-06-19-GlasgowWarriors_V_Connacht_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-19-GlasgowWarriors_V_Connacht_club_spreads.png" width="32%" />
+<img src="plots/2026-06-19-CardiffRugby_V_GlasgowWarriors_club_performances.png" width="32%" />
+<img src="plots/2026-06-19-CardiffRugby_V_GlasgowWarriors_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-19-CardiffRugby_V_GlasgowWarriors_club_spreads.png" width="32%" />
+</p>
+
+### Stormers V Glasgow Warriors on 2026-06-19
+
+
+Average Margin: Stormers by 4.3
+
+<p float="left">
+<img src="plots/2026-06-19-Stormers_V_GlasgowWarriors_club_performances.png" width="32%" />
+<img src="plots/2026-06-19-Stormers_V_GlasgowWarriors_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-19-Stormers_V_GlasgowWarriors_club_spreads.png" width="32%" />
+</p>
+
+### Glasgow Warriors V Leinster on 2026-06-19
+
+
+Average Margin: Glasgow Warriors by 2.8
+
+<p float="left">
+<img src="plots/2026-06-19-GlasgowWarriors_V_Leinster_club_performances.png" width="32%" />
+<img src="plots/2026-06-19-GlasgowWarriors_V_Leinster_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-19-GlasgowWarriors_V_Leinster_club_spreads.png" width="32%" />
+</p>
+
+### Bulls V Leinster on 2026-06-19
+
+
+Average Margin: Bulls by 2.2
+
+<p float="left">
+<img src="plots/2026-06-19-Bulls_V_Leinster_club_performances.png" width="32%" />
+<img src="plots/2026-06-19-Bulls_V_Leinster_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-19-Bulls_V_Leinster_club_spreads.png" width="32%" />
+</p>
+
+### Bulls V Stormers on 2026-06-19
+
+
+Average Margin: Bulls by 5.7
+
+<p float="left">
+<img src="plots/2026-06-19-Bulls_V_Stormers_club_performances.png" width="32%" />
+<img src="plots/2026-06-19-Bulls_V_Stormers_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-19-Bulls_V_Stormers_club_spreads.png" width="32%" />
 </p>
 
 ### Lions V Ulster on 2026-06-19
 
 
-Average Margin: Lions by 12.5
+Average Margin: Ulster by 7.0
 
 <p float="left">
 <img src="plots/2026-06-19-Lions_V_Ulster_club_performances.png" width="32%" />
 <img src="plots/2026-06-19-Lions_V_Ulster_club_resultbar.png" width="32%" />
 <img src="plots/2026-06-19-Lions_V_Ulster_club_spreads.png" width="32%" />
-</p>
-
-### Cardiff Rugby V Leinster on 2026-06-19
-
-
-Average Margin: Leinster by 10.5
-
-<p float="left">
-<img src="plots/2026-06-19-CardiffRugby_V_Leinster_club_performances.png" width="32%" />
-<img src="plots/2026-06-19-CardiffRugby_V_Leinster_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-19-CardiffRugby_V_Leinster_club_spreads.png" width="32%" />
 </p>

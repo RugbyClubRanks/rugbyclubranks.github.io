@@ -9,9 +9,9 @@ categories: rugby "RFU Championship 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted London Scottish to win by 2.71, and Richmond won by 7.0. That's an absolute error of 9.7 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 53.2% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted London Scottish to win by 2.69, and Richmond won by 7.0. That's an absolute error of 9.7 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 53.3% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 46.5 and we have an actual total of 41.0. That's an absolute error of 5.5 compared to a six month average of 13.4. This prediction was more accurate than 73.9% of my recent predictions.
+For the Over/Under model, I predicted a total of 45.5 and we have an actual total of 41.0. That's an absolute error of 4.5 compared to a six month average of 13.4. This prediction was more accurate than 79.0% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 46.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted London Scottish to win by 0.73,  and Richmond won by 7.0. That's an absolute error of 7.7 for the margin of victory, while the average error as been 13.8 for the past six months. So this prediction was more accurate than 53.9% of my recent predictions.
+With the player model, I predicted London Scottish to win by 0.86,  and Richmond won by 7.0. That's an absolute error of 7.9 for the margin of victory, while the average error as been 13.8 for the past six months. So this prediction was more accurate than 53.5% of my recent predictions.
 ## Projected Performances - Player Model
 
 

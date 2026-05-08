@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Bristol Bears V Saracens on 2026/05/09
+title: Bristol Rugby V Saracens on 2026/05/09
 date: 2026-05-09
 categories: rugby "Gallagher Premiership 25/26" match review
 ---
-# Bristol Bears V Saracens on 2026/05/09
+# Bristol Rugby V Saracens on 2026/05/09
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Bristol Rugby to win by 1.66.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Bristol Rugby to win by 1.77.
 
 Our Over/Under is 48.5 - and combined with the spread above, we have a predicted scoreline of 25 to 23
 

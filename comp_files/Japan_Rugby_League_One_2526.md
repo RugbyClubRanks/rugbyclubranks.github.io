@@ -1,6 +1,6 @@
 ---
 title: "Japan Rugby League One 25/26"
-date: 2026-05-07 6:00:00 -0500
+date: 2026-05-08 6:00:00 -0500
 categories: model review projection
 layout: article
 aside:
@@ -37,18 +37,18 @@ aside:
 
 | Club                  |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:----------------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Tokyo Sungoliath      |         2 |            1.802 |                   24.871 |                           0.15  |                              |                          7.408 |
-| Saitama Wild Knights  |         1 |            0.975 |                   16.802 |                           0.016 |                              |                          3.928 |
-| Mitsubishi Dynaboars  |         2 |            0.836 |                   -7.924 |                           0.288 |                              |                          3.724 |
-| Kubota Spears         |         1 |            0.719 |                    5.407 |                           0.185 |                              |                          3.137 |
-| Shizuoka Blue Revs    |         1 |            0.675 |                    4.384 |                           0.201 |                              |                          2.995 |
-| Mie Honda Heat        |         1 |            0.547 |                    1.161 |                           0.258 |                              |                          2.53  |
-| Toyota Verblitz       |         1 |            0.411 |                   -1.161 |                           0.317 |                              |                          2.045 |
-| Yokohama Canon Eagles |         1 |            0.278 |                   -4.384 |                           0.323 |                              |                          1.529 |
-| Kobelco Kobe Steelers |         1 |            0.243 |                   -5.407 |                           0.303 |                              |                          1.351 |
-| Urayasu D-Rocks       |         1 |            0.169 |                   -7.678 |                           0.261 |                              |                          1.019 |
-| Black Rams Tokyo      |         1 |            0.127 |                   -9.269 |                           0.265 |                              |                          0.813 |
-| Toshiba Brave Lupus   |         1 |            0.019 |                  -16.802 |                           0.118 |                              |                          0.206 |
+| Tokyo Sungoliath      |         2 |            1.814 |                   25.341 |                           0.118 |                              |                          7.47  |
+| Saitama Wild Knights  |         1 |            0.963 |                   16.339 |                           0.022 |                              |                          3.9   |
+| Mitsubishi Dynaboars  |         2 |            0.864 |                   -7.639 |                           0.255 |                              |                          3.805 |
+| Kubota Spears         |         1 |            0.739 |                    5.577 |                           0.154 |                              |                          3.186 |
+| Shizuoka Blue Revs    |         1 |            0.689 |                    4.832 |                           0.194 |                              |                          3.036 |
+| Mie Honda Heat        |         1 |            0.525 |                    1.254 |                           0.262 |                              |                          2.464 |
+| Toyota Verblitz       |         1 |            0.424 |                   -1.254 |                           0.287 |                              |                          2.085 |
+| Yokohama Canon Eagles |         1 |            0.268 |                   -4.832 |                           0.305 |                              |                          1.463 |
+| Kobelco Kobe Steelers |         1 |            0.223 |                   -5.577 |                           0.327 |                              |                          1.295 |
+| Urayasu D-Rocks       |         1 |            0.151 |                   -7.984 |                           0.286 |                              |                          0.956 |
+| Black Rams Tokyo      |         1 |            0.09  |                   -9.718 |                           0.268 |                              |                          0.696 |
+| Toshiba Brave Lupus   |         1 |            0.024 |                  -16.339 |                           0.114 |                              |                          0.236 |
 
 
 
@@ -57,18 +57,18 @@ aside:
 
 | Club                  |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:----------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Saitama Wild Knights  |       18 | 15.975 |              299.802 |                 1.016 |                  6 |               70.928 |
-| Kobelco Kobe Steelers |       18 | 15.243 |              283.593 |                 1.303 |                  4 |               66.351 |
-| Kubota Spears         |       18 | 14.719 |              362.407 |                 2.185 |                  5 |               66.137 |
-| Tokyo Sungoliath      |       18 |  9.802 |              113.871 |                 6.15  |                  4 |               49.408 |
-| Toshiba Brave Lupus   |       18 |  8.019 |             -121.802 |                 3.118 |                  5 |               40.206 |
-| Black Rams Tokyo      |       18 |  9.127 |              -41.269 |                 1.265 |                  2 |               39.813 |
-| Toyota Verblitz       |       18 |  7.411 |              -33.161 |                 2.317 |                  3 |               35.045 |
-| Shizuoka Blue Revs    |       18 |  6.675 |              -60.616 |                 4.201 |                  3 |               33.995 |
-| Mie Honda Heat        |       18 |  6.547 |             -146.839 |                 4.258 |                  3 |               33.53  |
-| Yokohama Canon Eagles |       18 |  6.278 |             -120.384 |                 4.323 |                  1 |               30.529 |
-| Mitsubishi Dynaboars  |       18 |  3.836 |             -230.924 |                 3.288 |                  2 |               20.724 |
-| Urayasu D-Rocks       |       18 |  4.169 |             -304.678 |                 0.261 |                  2 |               19.019 |
+| Saitama Wild Knights  |       18 | 15.963 |              299.339 |                 1.022 |                  6 |               70.9   |
+| Kobelco Kobe Steelers |       18 | 15.223 |              283.423 |                 1.327 |                  4 |               66.295 |
+| Kubota Spears         |       18 | 14.739 |              362.577 |                 2.154 |                  5 |               66.186 |
+| Tokyo Sungoliath      |       18 |  9.814 |              114.341 |                 6.118 |                  4 |               49.47  |
+| Toshiba Brave Lupus   |       18 |  8.024 |             -121.339 |                 3.114 |                  5 |               40.236 |
+| Black Rams Tokyo      |       18 |  9.09  |              -41.718 |                 1.268 |                  2 |               39.696 |
+| Toyota Verblitz       |       18 |  7.424 |              -33.254 |                 2.287 |                  3 |               35.085 |
+| Shizuoka Blue Revs    |       18 |  6.689 |              -60.168 |                 4.194 |                  3 |               34.036 |
+| Mie Honda Heat        |       18 |  6.525 |             -146.746 |                 4.262 |                  3 |               33.464 |
+| Yokohama Canon Eagles |       18 |  6.268 |             -120.832 |                 4.305 |                  1 |               30.463 |
+| Mitsubishi Dynaboars  |       18 |  3.864 |             -230.639 |                 3.255 |                  2 |               20.805 |
+| Urayasu D-Rocks       |       18 |  4.151 |             -304.984 |                 0.286 |                  2 |               18.956 |
 
 
 
@@ -77,7 +77,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 72.2% | 13.6 |
+| Club Level | 71.3% | 13.8 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -102,7 +102,7 @@ Average Margin: Tokyo Sungoliath by 15.6
 ### Mie Honda Heat V Toyota Verblitz on 2026/05/09
 
 
-Average Margin: Mie Honda Heat by 1.2
+Average Margin: Mie Honda Heat by 1.3
 
 <p float="left">
 <img src="plots/2026-05-09-MieHondaHeat_V_ToyotaVerblitz_club_performances.png" width="32%" />
@@ -113,7 +113,7 @@ Average Margin: Mie Honda Heat by 1.2
 ### Shizuoka Blue Revs V Yokohama Canon Eagles on 2026/05/09
 
 
-Average Margin: Shizuoka Blue Revs by 4.4
+Average Margin: Shizuoka Blue Revs by 4.8
 
 <p float="left">
 <img src="plots/2026-05-09-ShizuokaBlueRevs_V_YokohamaCanonEagles_club_performances.png" width="32%" />
@@ -124,7 +124,7 @@ Average Margin: Shizuoka Blue Revs by 4.4
 ### Saitama Wild Knights V Toshiba Brave Lupus on 2026/05/09
 
 
-Average Margin: Saitama Wild Knights by 16.8
+Average Margin: Saitama Wild Knights by 16.3
 
 <p float="left">
 <img src="plots/2026-05-09-SaitamaWildKnights_V_ToshibaBraveLupus_club_performances.png" width="32%" />
@@ -135,7 +135,7 @@ Average Margin: Saitama Wild Knights by 16.8
 ### Kubota Spears V Kobelco Kobe Steelers on 2026/05/10
 
 
-Average Margin: Kubota Spears by 5.4
+Average Margin: Kubota Spears by 5.6
 
 <p float="left">
 <img src="plots/2026-05-10-KubotaSpears_V_KobelcoKobeSteelers_club_performances.png" width="32%" />
@@ -146,7 +146,7 @@ Average Margin: Kubota Spears by 5.4
 ### Mitsubishi Dynaboars V Urayasu D-Rocks on 2026/05/10
 
 
-Average Margin: Mitsubishi Dynaboars by 7.7
+Average Margin: Mitsubishi Dynaboars by 8.0
 
 <p float="left">
 <img src="plots/2026-05-10-MitsubishiDynaboars_V_UrayasuD-Rocks_club_performances.png" width="32%" />
@@ -157,7 +157,7 @@ Average Margin: Mitsubishi Dynaboars by 7.7
 ### Tokyo Sungoliath V Black Rams Tokyo on 2026/05/10
 
 
-Average Margin: Tokyo Sungoliath by 9.3
+Average Margin: Tokyo Sungoliath by 9.7
 
 <p float="left">
 <img src="plots/2026-05-10-TokyoSungoliath_V_BlackRamsTokyo_club_performances.png" width="32%" />

@@ -9,9 +9,9 @@ categories: rugby "Nationale 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Massy to win by 5.17, and Narbonne won by 12.0. That's an absolute error of 17.2 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 29.7% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Massy to win by 5.26, and Narbonne won by 12.0. That's an absolute error of 17.3 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 29.5% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 74.0. That's an absolute error of 25.5 compared to a six month average of 13.4. This prediction was more accurate than 14.5% of my recent predictions.
+For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 74.0. That's an absolute error of 25.5 compared to a six month average of 13.4. This prediction was more accurate than 14.6% of my recent predictions.
 ## Projected Performances - Club Model
 
 

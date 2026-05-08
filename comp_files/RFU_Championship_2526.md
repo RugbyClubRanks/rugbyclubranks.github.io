@@ -1,6 +1,6 @@
 ---
 title: "RFU Championship 25/26"
-date: 2026-05-07 6:00:00 -0500
+date: 2026-05-08 6:00:00 -0500
 categories: model review projection
 layout: article
 aside:
@@ -39,20 +39,20 @@ aside:
 
 | Club                |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:--------------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Ampthill            |         1 |            0.998 |                   21.789 |                           0.001 |                              |                          3.995 |
-| Ealing Trailfinders |         1 |            0.953 |                   14.483 |                           0.032 |                              |                          3.87  |
-| Chinnor             |         1 |            0.943 |                   14.111 |                           0.045 |                              |                          3.841 |
-| Doncaster           |         1 |            0.83  |                    7.238 |                           0.113 |                              |                          3.503 |
-| Coventry            |         1 |            0.832 |                    7.575 |                           0.119 |                              |                          3.497 |
-| Hartpury College    |         1 |            0.697 |                    4.396 |                           0.211 |                              |                          3.093 |
-| Caldy               |         1 |            0.578 |                    1.828 |                           0.276 |                              |                          2.7   |
-| London Scottish     |         1 |            0.366 |                   -1.828 |                           0.377 |                              |                          1.953 |
-| Cornish Pirates     |         1 |            0.256 |                   -4.396 |                           0.374 |                              |                          1.492 |
-| Worcester Warriors  |         1 |            0.143 |                   -7.575 |                           0.355 |                              |                          0.977 |
-| Nottingham          |         1 |            0.135 |                   -7.238 |                           0.344 |                              |                          0.954 |
-| Richmond            |         1 |            0.045 |                  -14.111 |                           0.17  |                              |                          0.374 |
-| Bedford             |         1 |            0.034 |                  -14.483 |                           0.138 |                              |                          0.3   |
-| Cambridge           |         1 |            0.001 |                  -21.789 |                           0.026 |                              |                          0.032 |
+| Ampthill            |         1 |            0.997 |                   22.043 |                           0.002 |                              |                          3.992 |
+| Ealing Trailfinders |         1 |            0.961 |                   15.103 |                           0.023 |                              |                          3.895 |
+| Chinnor             |         1 |            0.957 |                   14.805 |                           0.032 |                              |                          3.872 |
+| Doncaster           |         1 |            0.83  |                    6.976 |                           0.12  |                              |                          3.51  |
+| Coventry            |         1 |            0.813 |                    7.198 |                           0.132 |                              |                          3.444 |
+| Hartpury College    |         1 |            0.729 |                    4.829 |                           0.178 |                              |                          3.196 |
+| Caldy               |         1 |            0.593 |                    2.021 |                           0.26  |                              |                          2.75  |
+| London Scottish     |         1 |            0.348 |                   -2.021 |                           0.38  |                              |                          1.89  |
+| Cornish Pirates     |         1 |            0.22  |                   -4.829 |                           0.372 |                              |                          1.354 |
+| Worcester Warriors  |         1 |            0.157 |                   -7.198 |                           0.314 |                              |                          1.002 |
+| Nottingham          |         1 |            0.135 |                   -6.976 |                           0.369 |                              |                          0.979 |
+| Richmond            |         1 |            0.037 |                  -14.805 |                           0.144 |                              |                          0.304 |
+| Bedford             |         1 |            0.025 |                  -15.103 |                           0.133 |                              |                          0.261 |
+| Cambridge           |         1 |            0.002 |                  -22.043 |                           0.028 |                              |                          0.038 |
 
 
 
@@ -61,20 +61,20 @@ aside:
 
 | Club                |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Ealing Trailfinders |       26 | 25.953 |              664.483 |                 0.032 |                  8 |              111.87  |
-| Bedford             |       26 | 18.034 |              182.517 |                 3.138 |                 10 |               87.3   |
-| Coventry            |       26 | 15.832 |              301.575 |                 7.119 |                  8 |               78.497 |
-| Worcester Warriors  |       26 | 15.143 |              275.425 |                 6.355 |                  7 |               73.977 |
-| Chinnor             |       26 | 15.943 |               61.111 |                 6.045 |                  2 |               71.841 |
-| Hartpury College    |       26 | 14.697 |              135.396 |                 3.211 |                  4 |               70.093 |
-| Nottingham          |       26 | 12.135 |               -6.238 |                 8.344 |                  8 |               66.954 |
-| Cornish Pirates     |       26 | 13.256 |              103.604 |                 3.374 |                  6 |               64.492 |
-| Doncaster           |       26 | 11.83  |               72.238 |                 4.113 |                  4 |               61.503 |
-| Ampthill            |       26 | 11.998 |              -82.211 |                 5.001 |                  4 |               56.995 |
-| Caldy               |       26 |  9.578 |             -233.172 |                 4.276 |                  6 |               48.7   |
-| Richmond            |       26 |  7.045 |             -297.111 |                 4.17  |                  1 |               35.374 |
-| London Scottish     |       26 |  5.366 |             -454.828 |                 3.377 |                  2 |               26.953 |
-| Cambridge           |       26 |  0.001 |             -722.789 |                 4.026 |                  4 |               10.032 |
+| Ealing Trailfinders |       26 | 25.961 |              665.103 |                 0.023 |                  8 |              111.895 |
+| Bedford             |       26 | 18.025 |              181.897 |                 3.133 |                 10 |               87.261 |
+| Coventry            |       26 | 15.813 |              301.198 |                 7.132 |                  8 |               78.444 |
+| Worcester Warriors  |       26 | 15.157 |              275.802 |                 6.314 |                  7 |               74.002 |
+| Chinnor             |       26 | 15.957 |               61.805 |                 6.032 |                  2 |               71.872 |
+| Hartpury College    |       26 | 14.729 |              135.829 |                 3.178 |                  4 |               70.196 |
+| Nottingham          |       26 | 12.135 |               -5.976 |                 8.369 |                  8 |               66.979 |
+| Cornish Pirates     |       26 | 13.22  |              103.171 |                 3.372 |                  6 |               64.354 |
+| Doncaster           |       26 | 11.83  |               71.976 |                 4.12  |                  4 |               61.51  |
+| Ampthill            |       26 | 11.997 |              -81.957 |                 5.002 |                  4 |               56.992 |
+| Caldy               |       26 |  9.593 |             -232.979 |                 4.26  |                  6 |               48.75  |
+| Richmond            |       26 |  7.037 |             -297.805 |                 4.144 |                  1 |               35.304 |
+| London Scottish     |       26 |  5.348 |             -455.021 |                 3.38  |                  2 |               26.89  |
+| Cambridge           |       26 |  0.002 |             -723.043 |                 4.028 |                  4 |               10.038 |
 
 
 
@@ -83,7 +83,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 73.1% | 13.6 |
+| Club Level | 72.5% | 13.6 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -92,54 +92,10 @@ aside:
 
 ## Week 26
 
-### Ealing Trailfinders V Bedford on 2026/05/09
-
-
-Average Margin: Ealing Trailfinders by 14.5
-
-<p float="left">
-<img src="plots/2026-05-09-EalingTrailfinders_V_Bedford_club_performances.png" width="32%" />
-<img src="plots/2026-05-09-EalingTrailfinders_V_Bedford_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-09-EalingTrailfinders_V_Bedford_club_spreads.png" width="32%" />
-</p>
-
-### London Scottish V Caldy on 2026/05/09
-
-
-Average Margin: Caldy by 1.8
-
-<p float="left">
-<img src="plots/2026-05-09-LondonScottish_V_Caldy_club_performances.png" width="32%" />
-<img src="plots/2026-05-09-LondonScottish_V_Caldy_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-09-LondonScottish_V_Caldy_club_spreads.png" width="32%" />
-</p>
-
-### Coventry V Worcester Warriors on 2026/05/09
-
-
-Average Margin: Coventry by 7.6
-
-<p float="left">
-<img src="plots/2026-05-09-Coventry_V_WorcesterWarriors_club_performances.png" width="32%" />
-<img src="plots/2026-05-09-Coventry_V_WorcesterWarriors_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-09-Coventry_V_WorcesterWarriors_club_spreads.png" width="32%" />
-</p>
-
-### Chinnor V Richmond on 2026/05/09
-
-
-Average Margin: Chinnor by 14.1
-
-<p float="left">
-<img src="plots/2026-05-09-Chinnor_V_Richmond_club_performances.png" width="32%" />
-<img src="plots/2026-05-09-Chinnor_V_Richmond_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-09-Chinnor_V_Richmond_club_spreads.png" width="32%" />
-</p>
-
 ### Doncaster V Nottingham on 2026/05/09
 
 
-Average Margin: Doncaster by 7.2
+Average Margin: Doncaster by 7.0
 
 <p float="left">
 <img src="plots/2026-05-09-Doncaster_V_Nottingham_club_performances.png" width="32%" />
@@ -147,10 +103,54 @@ Average Margin: Doncaster by 7.2
 <img src="plots/2026-05-09-Doncaster_V_Nottingham_club_spreads.png" width="32%" />
 </p>
 
+### Chinnor V Richmond on 2026/05/09
+
+
+Average Margin: Chinnor by 14.8
+
+<p float="left">
+<img src="plots/2026-05-09-Chinnor_V_Richmond_club_performances.png" width="32%" />
+<img src="plots/2026-05-09-Chinnor_V_Richmond_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-09-Chinnor_V_Richmond_club_spreads.png" width="32%" />
+</p>
+
+### Ealing Trailfinders V Bedford on 2026/05/09
+
+
+Average Margin: Ealing Trailfinders by 15.1
+
+<p float="left">
+<img src="plots/2026-05-09-EalingTrailfinders_V_Bedford_club_performances.png" width="32%" />
+<img src="plots/2026-05-09-EalingTrailfinders_V_Bedford_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-09-EalingTrailfinders_V_Bedford_club_spreads.png" width="32%" />
+</p>
+
+### Hartpury College RFC V Cornish Pirates on 2026/05/09
+
+
+Average Margin: Hartpury College by 4.8
+
+<p float="left">
+<img src="plots/2026-05-09-HartpuryCollege_V_CornishPirates_club_performances.png" width="32%" />
+<img src="plots/2026-05-09-HartpuryCollege_V_CornishPirates_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-09-HartpuryCollege_V_CornishPirates_club_spreads.png" width="32%" />
+</p>
+
+### London Scottish V Caldy on 2026/05/09
+
+
+Average Margin: Caldy by 2.0
+
+<p float="left">
+<img src="plots/2026-05-09-LondonScottish_V_Caldy_club_performances.png" width="32%" />
+<img src="plots/2026-05-09-LondonScottish_V_Caldy_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-09-LondonScottish_V_Caldy_club_spreads.png" width="32%" />
+</p>
+
 ### Ampthill V Cambridge on 2026/05/09
 
 
-Average Margin: Ampthill by 21.8
+Average Margin: Ampthill by 22.0
 
 <p float="left">
 <img src="plots/2026-05-09-Ampthill_V_Cambridge_club_performances.png" width="32%" />
@@ -158,13 +158,13 @@ Average Margin: Ampthill by 21.8
 <img src="plots/2026-05-09-Ampthill_V_Cambridge_club_spreads.png" width="32%" />
 </p>
 
-### Hartpury College RFC V Cornish Pirates on 2026/05/09
+### Coventry V Worcester Warriors on 2026/05/09
 
 
-Average Margin: Hartpury College by 4.4
+Average Margin: Coventry by 7.2
 
 <p float="left">
-<img src="plots/2026-05-09-HartpuryCollege_V_CornishPirates_club_performances.png" width="32%" />
-<img src="plots/2026-05-09-HartpuryCollege_V_CornishPirates_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-09-HartpuryCollege_V_CornishPirates_club_spreads.png" width="32%" />
+<img src="plots/2026-05-09-Coventry_V_WorcesterWarriors_club_performances.png" width="32%" />
+<img src="plots/2026-05-09-Coventry_V_WorcesterWarriors_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-09-Coventry_V_WorcesterWarriors_club_spreads.png" width="32%" />
 </p>

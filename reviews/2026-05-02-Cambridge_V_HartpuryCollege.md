@@ -9,9 +9,9 @@ categories: rugby "RFU Championship 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Hartpury College to win by 14.57, and Hartpury College won by 56.0. That's an absolute error of 41.4 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 3.8% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Hartpury College to win by 14.81, and Hartpury College won by 56.0. That's an absolute error of 41.2 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 4.1% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 47.5 and we have an actual total of 84.0. That's an absolute error of 36.5 compared to a six month average of 13.4. This prediction was more accurate than 2.8% of my recent predictions.
+For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 84.0. That's an absolute error of 35.5 compared to a six month average of 13.4. This prediction was more accurate than 3.2% of my recent predictions.
 ## Projected Performances - Club Model
 
 

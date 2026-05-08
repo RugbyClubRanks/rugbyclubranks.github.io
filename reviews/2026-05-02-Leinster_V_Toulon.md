@@ -9,9 +9,9 @@ categories: rugby "European Rugby Champions Cup 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Leinster to win by 13.16, and Leinster won by 4.0. That's an absolute error of 9.2 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 55.4% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Leinster to win by 13.0, and Leinster won by 4.0. That's an absolute error of 9.0 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 56.4% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 54.0. That's an absolute error of 4.5 compared to a six month average of 13.4. This prediction was more accurate than 78.9% of my recent predictions.
+For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 54.0. That's an absolute error of 5.5 compared to a six month average of 13.4. This prediction was more accurate than 74.0% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 49.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Leinster to win by 12.47,  and Leinster won by 4.0. That's an absolute error of 8.5 for the margin of victory, while the average error as been 13.8 for the past six months. So this prediction was more accurate than 51.5% of my recent predictions.
+With the player model, I predicted Leinster to win by 12.85,  and Leinster won by 4.0. That's an absolute error of 8.8 for the margin of victory, while the average error as been 13.8 for the past six months. So this prediction was more accurate than 50.2% of my recent predictions.
 ## Projected Performances - Player Model
 
 
