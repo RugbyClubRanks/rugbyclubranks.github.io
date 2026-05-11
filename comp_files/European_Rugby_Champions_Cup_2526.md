@@ -1,6 +1,6 @@
 ---
 title: "European Rugby Champions Cup 25/26"
-date: 2026-05-08 6:00:00 -0500
+date: 2026-05-11 6:00:00 -0500
 categories: model review projection
 layout: article
 aside:
@@ -191,7 +191,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 76.2% | 16.3 |
+| Club Level | 76.2% | 16.1 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -203,7 +203,7 @@ aside:
 ### Bordeaux Begles V Leinster on 2026-05-21
 
 
-Average Margin: Bordeaux Begles by 6.3
+Average Margin: Bordeaux Begles by 5.6
 
 <p float="left">
 <img src="plots/2026-05-21-BordeauxBegles_V_Leinster_club_performances.png" width="32%" />

@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Northampton Saints V Bristol Rugby on 2026/05/15
+title: Northampton Saints V Bristol Bears on 2026/05/15
 date: 2026-05-15
 categories: rugby "Gallagher Premiership 25/26" match review
 ---
-# Northampton Saints V Bristol Rugby on 2026/05/15
+# Northampton Saints V Bristol Bears on 2026/05/15
 
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Northampton Saints to win by 9.73.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Northampton Saints to win by 10.14.
 
 Our Over/Under is 49.5 - and combined with the spread above, we have a predicted scoreline of 30 to 20
 
