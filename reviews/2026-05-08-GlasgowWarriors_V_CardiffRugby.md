@@ -9,9 +9,9 @@ categories: rugby "United Rugby Championship 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Glasgow Warriors to win by 11.01, and Glasgow Warriors won by 23.0. That's an absolute error of 12.0 for the margin of victory, while my average absolute error has been 13.8 over the past six months. This prediction was more accurate than 45.0% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Glasgow Warriors to win by 10.99, and Glasgow Warriors won by 23.0. That's an absolute error of 12.0 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 45.6% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 44.5 and we have an actual total of 57.0. That's an absolute error of 12.5 compared to a six month average of 13.4. This prediction was more accurate than 43.2% of my recent predictions.
+For the Over/Under model, I predicted a total of 44.5 and we have an actual total of 57.0. That's an absolute error of 12.5 compared to a six month average of 13.4. This prediction was more accurate than 43.1% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 44.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Glasgow Warriors to win by 12.53,  and Glasgow Warriors won by 23.0. That's an absolute error of 10.5 for the margin of victory, while the average error as been 13.8 for the past six months. So this prediction was more accurate than 43.7% of my recent predictions.
+With the player model, I predicted Glasgow Warriors to win by 12.26,  and Glasgow Warriors won by 23.0. That's an absolute error of 10.7 for the margin of victory, while the average error as been 13.8 for the past six months. So this prediction was more accurate than 42.9% of my recent predictions.
 ## Projected Performances - Player Model
 
 

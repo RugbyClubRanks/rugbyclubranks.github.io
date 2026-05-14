@@ -9,9 +9,9 @@ categories: rugby "Top 14 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Clermont Auvergne to win by 12.88, and Clermont Auvergne won by 31.0. That's an absolute error of 18.1 for the margin of victory, while my average absolute error has been 13.8 over the past six months. This prediction was more accurate than 27.4% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Clermont Auvergne to win by 12.76, and Clermont Auvergne won by 31.0. That's an absolute error of 18.2 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 27.2% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 59.0. That's an absolute error of 7.5 compared to a six month average of 13.4. This prediction was more accurate than 64.3% of my recent predictions.
+For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 59.0. That's an absolute error of 8.5 compared to a six month average of 13.4. This prediction was more accurate than 61.1% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 51.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Clermont Auvergne to win by 17.93,  and Clermont Auvergne won by 31.0. That's an absolute error of 13.1 for the margin of victory, while the average error as been 13.8 for the past six months. So this prediction was more accurate than 34.9% of my recent predictions.
+With the player model, I predicted Clermont Auvergne to win by 18.26,  and Clermont Auvergne won by 31.0. That's an absolute error of 12.7 for the margin of victory, while the average error as been 13.8 for the past six months. So this prediction was more accurate than 35.7% of my recent predictions.
 ## Projected Performances - Player Model
 
 

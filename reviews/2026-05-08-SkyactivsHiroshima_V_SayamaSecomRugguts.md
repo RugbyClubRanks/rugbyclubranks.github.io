@@ -9,9 +9,9 @@ categories: rugby "Japan Rugby League One D3 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Skyactivs Hiroshima to win by 0.91, and Sayama Secom Rugguts won by 68.0. That's an absolute error of 68.9 for the margin of victory, while my average absolute error has been 13.8 over the past six months. This prediction was more accurate than 0.1% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Skyactivs Hiroshima to win by 1.84, and Sayama Secom Rugguts won by 68.0. That's an absolute error of 69.8 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 0.0% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 88.0. That's an absolute error of 37.5 compared to a six month average of 13.4. This prediction was more accurate than 2.5% of my recent predictions.
+For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 88.0. That's an absolute error of 38.5 compared to a six month average of 13.4. This prediction was more accurate than 2.4% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 50.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Sayama Secom Rugguts to win by 0.27,  and Sayama Secom Rugguts won by 68.0. That's an absolute error of 67.7 for the margin of victory, while the average error as been 13.8 for the past six months. So this prediction was more accurate than 0.2% of my recent predictions.
+With the player model, I predicted Skyactivs Hiroshima to win by 0.14,  and Sayama Secom Rugguts won by 68.0. That's an absolute error of 68.1 for the margin of victory, while the average error as been 13.8 for the past six months. So this prediction was more accurate than 0.2% of my recent predictions.
 ## Projected Performances - Player Model
 
 

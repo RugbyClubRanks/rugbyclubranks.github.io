@@ -9,9 +9,9 @@ categories: rugby "U20 Rugby Championship 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Australia U20 to win by 8.39, and Australia U20 won by 2.0. That's an absolute error of 6.4 for the margin of victory, while my average absolute error has been 13.8 over the past six months. This prediction was more accurate than 67.4% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Australia U20 to win by 8.45, and Australia U20 won by 2.0. That's an absolute error of 6.4 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 67.4% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 55.5 and we have an actual total of 62.0. That's an absolute error of 6.5 compared to a six month average of 13.4. This prediction was more accurate than 69.0% of my recent predictions.
+For the Over/Under model, I predicted a total of 53.5 and we have an actual total of 62.0. That's an absolute error of 8.5 compared to a six month average of 13.4. This prediction was more accurate than 61.1% of my recent predictions.
 ## Projected Performances - Club Model
 
 

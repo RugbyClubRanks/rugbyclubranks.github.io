@@ -9,9 +9,9 @@ categories: rugby "Super Rugby Pacific 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Brumbies to win by 3.45, and Brumbies won by 17.0. That's an absolute error of 13.6 for the margin of victory, while my average absolute error has been 13.8 over the past six months. This prediction was more accurate than 39.8% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Brumbies to win by 3.7, and Brumbies won by 17.0. That's an absolute error of 13.3 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 41.4% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 47.5 and we have an actual total of 47.0. That's an absolute error of 0.5 compared to a six month average of 13.4. This prediction was more accurate than 97.3% of my recent predictions.
+For the Over/Under model, I predicted a total of 46.5 and we have an actual total of 47.0. That's an absolute error of 0.5 compared to a six month average of 13.4. This prediction was more accurate than 97.0% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 47.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Brumbies to win by 7.83,  and Brumbies won by 17.0. That's an absolute error of 9.2 for the margin of victory, while the average error as been 13.8 for the past six months. So this prediction was more accurate than 48.5% of my recent predictions.
+With the player model, I predicted Brumbies to win by 8.08,  and Brumbies won by 17.0. That's an absolute error of 8.9 for the margin of victory, while the average error as been 13.8 for the past six months. So this prediction was more accurate than 49.5% of my recent predictions.
 ## Projected Performances - Player Model
 
 
