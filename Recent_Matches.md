@@ -58,11 +58,11 @@ Last Two Week Error: 23.28 points per match
 
 [2026/05/09 - Bristol Rugby V Saracens, 26.0 to 41.0](reviews/2026-05-09-BristolRugby_V_Saracens)
 
-[2026/05/10 - Newcastle Red Bulls V Harlequins, 17.0 to 76.0](reviews/2026-05-10-NewcastleRedBulls_V_Harlequins)
+[2026/05/09 - Leicester Tigers V Northampton Saints, 41.0 to 17.0](reviews/2026-05-09-LeicesterTigers_V_NorthamptonSaints)
 
 [2026/05/10 - Exeter Chiefs V Bath Rugby, 35.0 to 12.0](reviews/2026-05-10-ExeterChiefs_V_BathRugby)
 
-[2026/05/09 - Leicester Tigers V Northampton Saints, 41.0 to 17.0](reviews/2026-05-09-LeicesterTigers_V_NorthamptonSaints)
+[2026/05/10 - Newcastle Red Bulls V Harlequins, 17.0 to 76.0](reviews/2026-05-10-NewcastleRedBulls_V_Harlequins)
 ## Top 14
 
 
@@ -122,41 +122,25 @@ Last Two Week Error: 13.76 points per match
 
 [In depth model review and projections for Super Rugby Pacific 2026](comp_files/Super_Rugby_Pacific_2026)
 
-Competition Accuracy: 48 of 63 (76.19%)
+Competition Accuracy: 49 of 64 (76.56%)
 
-Competition Error: 13.08 points per match
+Competition Error: 13.11 points per match
 
-Last Two Week Accuracy: 5 of 5 (100.0%)
+Last Two Week Accuracy: 6 of 6 (100.0%)
 
-Last Two Week Error: 8.95 points per match
+Last Two Week Error: 9.91 points per match
 
 [2026/05/09 - Moana Pasifika V Hurricanes, 17.0 to 50.0](reviews/2026-05-09-MoanaPasifika_V_Hurricanes)
+
+[2026/05/15 - Chiefs V Highlanders, 42.0 to 12.0](reviews/2026-05-15-Chiefs_V_Highlanders)
 
 [2026/05/09 - Highlanders V New South Wales Waratahs, 31.0 to 26.0](reviews/2026-05-09-Highlanders_V_NewSouthWalesWaratahs)
 
 [2026/05/09 - Brumbies V Western Force, 32.0 to 15.0](reviews/2026-05-09-Brumbies_V_WesternForce)
 
-[2026/05/08 - Queensland Reds V Chiefs, 21.0 to 31.0](reviews/2026-05-08-QueenslandReds_V_Chiefs)
-
 [2026/05/08 - Crusaders V Blues, 36.0 to 20.0](reviews/2026-05-08-Crusaders_V_Blues)
-## Major League Rugby
 
-
-[In depth model review and projections for Major League Rugby 2026](comp_files/Major_League_Rugby_2026)
-
-Competition Accuracy: 8 of 18 (44.44%)
-
-Competition Error: 23.3 points per match
-
-Last Two Week Accuracy: 1 of 3 (33.33%)
-
-Last Two Week Error: 24.19 points per match
-
-[2026/05/10 - Old Glory DC V Seattle Seawolves, 25.0 to 30.0](reviews/2026-05-10-OldGloryDC_V_SeattleSeawolves)
-
-[2026/05/10 - Chicago Hounds V Anthem RC, 61.0 to 36.0](reviews/2026-05-10-ChicagoHounds_V_AnthemRC)
-
-[2026/05/09 - New England Free Jacks V California Legion, 26.0 to 21.0](reviews/2026-05-09-NewEnglandFreeJacks_V_CaliforniaLegion)
+[2026/05/08 - Queensland Reds V Chiefs, 21.0 to 31.0](reviews/2026-05-08-QueenslandReds_V_Chiefs)
 ## Japan Rugby League One
 
 
@@ -170,17 +154,35 @@ Last Two Week Accuracy: 3 of 6 (50.0%)
 
 Last Two Week Error: 15.96 points per match
 
-[2026/05/10 - Tokyo Sungoliath V Black Rams Tokyo, 39.0 to 22.0](reviews/2026-05-10-TokyoSungoliath_V_BlackRamsTokyo)
-
-[2026/05/10 - Mitsubishi Dynaboars V Urayasu D-Rocks, 22.0 to 29.0](reviews/2026-05-10-MitsubishiDynaboars_V_UrayasuD-Rocks)
-
 [2026/05/10 - Kubota Spears V Kobelco Kobe Steelers, 19.0 to 24.0](reviews/2026-05-10-KubotaSpears_V_KobelcoKobeSteelers)
 
-[2026/05/09 - Shizuoka Blue Revs V Yokohama Canon Eagles, 42.0 to 15.0](reviews/2026-05-09-ShizuokaBlueRevs_V_YokohamaCanonEagles)
+[2026/05/09 - Mie Honda Heat V Toyota Verblitz, 38.0 to 26.0](reviews/2026-05-09-MieHondaHeat_V_ToyotaVerblitz)
 
 [2026/05/09 - Saitama Wild Knights V Toshiba Brave Lupus, 45.0 to 0.0](reviews/2026-05-09-SaitamaWildKnights_V_ToshibaBraveLupus)
 
-[2026/05/09 - Mie Honda Heat V Toyota Verblitz, 38.0 to 26.0](reviews/2026-05-09-MieHondaHeat_V_ToyotaVerblitz)
+[2026/05/09 - Shizuoka Blue Revs V Yokohama Canon Eagles, 42.0 to 15.0](reviews/2026-05-09-ShizuokaBlueRevs_V_YokohamaCanonEagles)
+
+[2026/05/10 - Mitsubishi Dynaboars V Urayasu D-Rocks, 22.0 to 29.0](reviews/2026-05-10-MitsubishiDynaboars_V_UrayasuD-Rocks)
+
+[2026/05/10 - Tokyo Sungoliath V Black Rams Tokyo, 39.0 to 22.0](reviews/2026-05-10-TokyoSungoliath_V_BlackRamsTokyo)
+## Major League Rugby
+
+
+[In depth model review and projections for Major League Rugby 2026](comp_files/Major_League_Rugby_2026)
+
+Competition Accuracy: 8 of 18 (44.44%)
+
+Competition Error: 23.3 points per match
+
+Last Two Week Accuracy: 1 of 3 (33.33%)
+
+Last Two Week Error: 24.19 points per match
+
+[2026/05/09 - New England Free Jacks V California Legion, 26.0 to 21.0](reviews/2026-05-09-NewEnglandFreeJacks_V_CaliforniaLegion)
+
+[2026/05/10 - Chicago Hounds V Anthem RC, 61.0 to 36.0](reviews/2026-05-10-ChicagoHounds_V_AnthemRC)
+
+[2026/05/10 - Old Glory DC V Seattle Seawolves, 25.0 to 30.0](reviews/2026-05-10-OldGloryDC_V_SeattleSeawolves)
 # Domestic Competitions
 
 ## Japan Rugby League One D2
@@ -268,7 +270,7 @@ Competition Error: 8.83 points per match
 
 Last Two Week Accuracy: 1 of 2 (50.0%)
 
-Last Two Week Error: 3.8 points per match
+Last Two Week Error: 3.78 points per match
 
 [2026/05/09 - Nice V Chambery, 25.0 to 19.0](reviews/2026-05-09-Nice_V_Chambery)
 
@@ -280,11 +282,11 @@ Last Two Week Error: 3.8 points per match
 
 Competition Accuracy: 30 of 40 (75.0%)
 
-Competition Error: 15.68 points per match
+Competition Error: 15.69 points per match
 
 Last Two Week Accuracy: 2 of 3 (66.67%)
 
-Last Two Week Error: 24.33 points per match
+Last Two Week Error: 24.36 points per match
 
 [2026/05/09 - LeRIRO Fukuoka V Yakult Levins Toda, 29.0 to 25.0](reviews/2026-05-09-LeRIROFukuoka_V_YakultLevinsToda)
 

@@ -9,9 +9,9 @@ categories: rugby "Japan Rugby League One D2 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Kyuden Voltex to win by 19.68, and Kyuden Voltex won by 6.0. That's an absolute error of 13.7 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 40.1% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Kyuden Voltex to win by 20.26, and Kyuden Voltex won by 6.0. That's an absolute error of 14.3 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 38.3% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 56.0. That's an absolute error of 4.5 compared to a six month average of 13.4. This prediction was more accurate than 79.0% of my recent predictions.
+For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 56.0. That's an absolute error of 4.5 compared to a six month average of 13.5. This prediction was more accurate than 79.1% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 51.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Kyuden Voltex to win by 13.06,  and Kyuden Voltex won by 6.0. That's an absolute error of 7.1 for the margin of victory, while the average error as been 13.8 for the past six months. So this prediction was more accurate than 57.1% of my recent predictions.
+With the player model, I predicted Kyuden Voltex to win by 13.66,  and Kyuden Voltex won by 6.0. That's an absolute error of 7.7 for the margin of victory, while the average error as been 13.8 for the past six months. So this prediction was more accurate than 54.5% of my recent predictions.
 ## Projected Performances - Player Model
 
 

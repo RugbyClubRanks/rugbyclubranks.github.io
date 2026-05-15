@@ -9,9 +9,9 @@ categories: rugby "Japan Rugby League One D3 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Kurita Water Gush to win by 5.74, and Kurita Water Gush won by 5.0. That's an absolute error of 0.7 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 95.7% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Kurita Water Gush to win by 6.01, and Kurita Water Gush won by 5.0. That's an absolute error of 1.0 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 94.4% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 52.5 and we have an actual total of 85.0. That's an absolute error of 32.5 compared to a six month average of 13.4. This prediction was more accurate than 5.8% of my recent predictions.
+For the Over/Under model, I predicted a total of 52.5 and we have an actual total of 85.0. That's an absolute error of 32.5 compared to a six month average of 13.5. This prediction was more accurate than 5.9% of my recent predictions.
 ## Projected Performances - Club Model
 
 

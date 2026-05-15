@@ -9,9 +9,9 @@ categories: rugby "Top 14 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Montpellier Herault to win by 30.96, and Montpellier Herault won by 52.0. That's an absolute error of 21.0 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 21.9% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Montpellier Herault to win by 31.43, and Montpellier Herault won by 52.0. That's an absolute error of 20.6 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 23.1% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 66.0. That's an absolute error of 14.5 compared to a six month average of 13.4. This prediction was more accurate than 37.3% of my recent predictions.
+For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 66.0. That's an absolute error of 14.5 compared to a six month average of 13.5. This prediction was more accurate than 37.3% of my recent predictions.
 ## Projected Performances - Club Model
 
 

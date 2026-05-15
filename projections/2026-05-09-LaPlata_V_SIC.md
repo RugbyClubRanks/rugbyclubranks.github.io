@@ -9,7 +9,7 @@ categories: rugby "URBA Top 14 2026" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting SIC to win by 10.87.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting SIC to win by 10.93.
 
 Our Over/Under is 46.5 - and combined with the spread above, we have a predicted scoreline of 18 to 29
 
@@ -38,7 +38,7 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 # Player Level Predictions
 
 
-The second set of predictions is based around the players themselves - each player gets a rating, and their contribution is weighted by their time on the field. The player model is currently predicting SIC to win by 11.36
+The second set of predictions is based around the players themselves - each player gets a rating, and their contribution is weighted by their time on the field. The player model is currently predicting SIC to win by 11.26
 ## Projected Performances - Player Model
 
 

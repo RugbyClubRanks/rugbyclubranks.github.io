@@ -1,6 +1,6 @@
 ---
 title: "European Rugby Challenge Cup 25/26"
-date: 2026-05-14 6:00:00 -0500
+date: 2026-05-15 6:00:00 -0500
 categories: model review projection
 layout: article
 aside:
@@ -131,8 +131,8 @@ aside:
 
 |                      | Reach Round of 16   | Win Round of 16   | Reach Quarterfinal   | Win Quarterfinal   | Reach Semifinal   | Win Semifinal   | Reach Final   | Win Final   |
 |:---------------------|:--------------------|:------------------|:---------------------|:-------------------|:------------------|:----------------|:--------------|:------------|
-| Montpellier Herault  | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 100.0 %         | 100.0 %       | 93.1 %      |
-| Ulster               | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 100.0 %         | 100.0 %       | 6.9 %       |
+| Montpellier Herault  | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 100.0 %         | 100.0 %       | 93.2 %      |
+| Ulster               | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 100.0 %         | 100.0 %       | 6.8 %       |
 | Exeter Chiefs        | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 0.0 %           | 0.0 %         | 0.0 %       |
 | Dragons              | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 0.0 %           | 0.0 %         | 0.0 %       |
 | Connacht             | 100.0 %             | 100.0 %           | 100.0 %              | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
@@ -167,7 +167,7 @@ aside:
 ### Montpellier Herault V Ulster on 2026-05-21
 
 
-Average Margin: Montpellier Herault by 10.0
+Average Margin: Montpellier Herault by 10.1
 
 <p float="left">
 <img src="plots/2026-05-21-MontpellierHerault_V_Ulster_club_performances.png" width="32%" />

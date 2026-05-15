@@ -9,9 +9,9 @@ categories: rugby "Major League Rugby 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted California Legion to win by 56.73, and New England Free Jacks won by 5.0. That's an absolute error of 61.7 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 0.4% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted California Legion to win by 56.35, and New England Free Jacks won by 5.0. That's an absolute error of 61.4 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 0.4% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 47.0. That's an absolute error of 2.5 compared to a six month average of 13.4. This prediction was more accurate than 88.8% of my recent predictions.
+For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 47.0. That's an absolute error of 2.5 compared to a six month average of 13.5. This prediction was more accurate than 88.6% of my recent predictions.
 ## Projected Performances - Club Model
 
 

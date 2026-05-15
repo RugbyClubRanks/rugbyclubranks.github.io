@@ -1,6 +1,6 @@
 ---
 title: "European Rugby Champions Cup 25/26"
-date: 2026-05-14 6:00:00 -0500
+date: 2026-05-15 6:00:00 -0500
 categories: model review projection
 layout: article
 aside:
@@ -167,8 +167,8 @@ aside:
 
 |                    | Reach Round of 16   | Win Round of 16   | Reach Quarterfinal   | Win Quarterfinal   | Reach Semifinal   | Win Semifinal   | Reach Final   | Win Final   |
 |:-------------------|:--------------------|:------------------|:---------------------|:-------------------|:------------------|:----------------|:--------------|:------------|
-| Bordeaux Begles    | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 100.0 %         | 100.0 %       | 78.2 %      |
-| Leinster           | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 100.0 %         | 100.0 %       | 21.8 %      |
+| Bordeaux Begles    | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 100.0 %         | 100.0 %       | 80.1 %      |
+| Leinster           | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 100.0 %         | 100.0 %       | 19.9 %      |
 | Bath Rugby         | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 0.0 %           | 0.0 %         | 0.0 %       |
 | Toulon             | 100.0 %             | 100.0 %           | 100.0 %              | 100.0 %            | 100.0 %           | 0.0 %           | 0.0 %         | 0.0 %       |
 | Northampton Saints | 100.0 %             | 100.0 %           | 100.0 %              | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
@@ -203,7 +203,7 @@ aside:
 ### Bordeaux Begles V Leinster on 2026-05-21
 
 
-Average Margin: Bordeaux Begles by 5.0
+Average Margin: Bordeaux Begles by 5.8
 
 <p float="left">
 <img src="plots/2026-05-21-BordeauxBegles_V_Leinster_club_performances.png" width="32%" />

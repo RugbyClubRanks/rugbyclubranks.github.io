@@ -9,9 +9,9 @@ categories: rugby "RFU Championship 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Coventry to win by 7.43, and Coventry won by 36.0. That's an absolute error of 28.6 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 11.6% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Coventry to win by 7.68, and Coventry won by 36.0. That's an absolute error of 28.3 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 11.9% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 92.0. That's an absolute error of 42.5 compared to a six month average of 13.4. This prediction was more accurate than 1.3% of my recent predictions.
+For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 92.0. That's an absolute error of 41.5 compared to a six month average of 13.5. This prediction was more accurate than 1.5% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 49.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Coventry to win by 8.32,  and Coventry won by 36.0. That's an absolute error of 27.7 for the margin of victory, while the average error as been 13.8 for the past six months. So this prediction was more accurate than 10.6% of my recent predictions.
+With the player model, I predicted Coventry to win by 8.58,  and Coventry won by 36.0. That's an absolute error of 27.4 for the margin of victory, while the average error as been 13.8 for the past six months. So this prediction was more accurate than 11.2% of my recent predictions.
 ## Projected Performances - Player Model
 
 
