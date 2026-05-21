@@ -14,9 +14,9 @@ Competition Accuracy: 15 of 15 (100.0%)
 
 Competition Error: 17.19 points per match
 
-Last Two Week Accuracy: 6 of 6 (100.0%)
+Last Two Week Accuracy: 3 of 3 (100.0%)
 
-Last Two Week Error: 15.06 points per match
+Last Two Week Error: 16.53 points per match
 
 [2026/05/17 - France Women V England Women, 28.0 to 43.0](reviews/2026-05-17-FranceWomen_V_EnglandWomen)
 
@@ -34,11 +34,11 @@ Competition Accuracy: 64 of 80 (80.0%)
 
 Competition Error: 16.61 points per match
 
-Last Two Week Accuracy: 8 of 10 (80.0%)
+Last Two Week Accuracy: 4 of 5 (80.0%)
 
-Last Two Week Error: 24.21 points per match
+Last Two Week Error: 25.13 points per match
 
-[2026/05/15 - Northampton Saints V Bristol Rugby, 94.0 to 33.0](reviews/2026-05-15-NorthamptonSaints_V_BristolRugby)
+[2026/05/15 - Northampton Saints V Bristol Bears, 94.0 to 33.0](reviews/2026-05-15-NorthamptonSaints_V_BristolRugby)
 
 [2026/05/16 - Bath Rugby V Newcastle Red Bulls, 69.0 to 12.0](reviews/2026-05-16-BathRugby_V_NewcastleRedBulls)
 
@@ -56,9 +56,9 @@ Competition Accuracy: 129 of 169 (76.33%)
 
 Competition Error: 14.12 points per match
 
-Last Two Week Accuracy: 12 of 14 (85.71%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 13.95 points per match
+Last Two Week Error: 12.92 points per match
 
 [2026/05/16 - Lyon V Bayonne, 42.0 to 35.0](reviews/2026-05-16-Lyon_V_Bayonne)
 
@@ -82,9 +82,9 @@ Competition Accuracy: 92 of 145 (63.45%)
 
 Competition Error: 12.43 points per match
 
-Last Two Week Accuracy: 11 of 16 (68.75%)
+Last Two Week Accuracy: 5 of 8 (62.5%)
 
-Last Two Week Error: 14.24 points per match
+Last Two Week Error: 14.73 points per match
 
 [2026/05/16 - Scarlets V Dragons, 35.0 to 35.0](reviews/2026-05-16-Scarlets_V_Dragons)
 
@@ -110,9 +110,9 @@ Competition Accuracy: 51 of 67 (76.12%)
 
 Competition Error: 13.14 points per match
 
-Last Two Week Accuracy: 8 of 9 (88.89%)
+Last Two Week Accuracy: 3 of 4 (75.0%)
 
-Last Two Week Error: 11.2 points per match
+Last Two Week Error: 14.02 points per match
 
 [2026/05/16 - Western Force V Queensland Reds, 19.0 to 14.0](reviews/2026-05-16-WesternForce_V_QueenslandReds)
 
@@ -130,9 +130,9 @@ Competition Accuracy: 10 of 21 (47.62%)
 
 Competition Error: 24.53 points per match
 
-Last Two Week Accuracy: 3 of 6 (50.0%)
+Last Two Week Accuracy: 2 of 3 (66.67%)
 
-Last Two Week Error: 28.04 points per match
+Last Two Week Error: 31.9 points per match
 
 [2026/05/17 - Seattle Seawolves V Anthem RC, 57.0 to 21.0](reviews/2026-05-17-SeattleSeawolves_V_AnthemRC)
 
@@ -150,10 +150,6 @@ Competition Accuracy: 30 of 47 (63.83%)
 
 Competition Error: 16.02 points per match
 
-Last Two Week Accuracy: 2 of 4 (50.0%)
-
-Last Two Week Error: 18.63 points per match
-
 [2026/05/11 - Red Hurricanes Osaka V Green Rockets Tokatsu, 5.0 to 42.0](reviews/2026-05-11-RedHurricanesOsaka_V_GreenRocketsTokatsu)
 ## Nationale
 
@@ -164,9 +160,9 @@ Competition Accuracy: 124 of 173 (71.68%)
 
 Competition Error: 8.83 points per match
 
-Last Two Week Accuracy: 1 of 3 (33.33%)
+Last Two Week Accuracy: 0 of 1 (0.0%)
 
-Last Two Week Error: 5.62 points per match
+Last Two Week Error: 9.29 points per match
 
 [2026/05/16 - Nice V Narbonne, 20.0 to 23.0](reviews/2026-05-16-Nice_V_Narbonne)
 ## Pro D2
@@ -178,9 +174,9 @@ Competition Accuracy: 178 of 240 (74.17%)
 
 Competition Error: 13.23 points per match
 
-Last Two Week Accuracy: 12 of 16 (75.0%)
+Last Two Week Accuracy: 7 of 8 (87.5%)
 
-Last Two Week Error: 14.01 points per match
+Last Two Week Error: 16.09 points per match
 
 [2026/05/15 - Biarritz Olympique V Carcassonne, 41.0 to 15.0](reviews/2026-05-15-BiarritzOlympique_V_Carcassonne)
 
@@ -206,9 +202,9 @@ Competition Accuracy: 135 of 185 (72.97%)
 
 Competition Error: 13.79 points per match
 
-Last Two Week Accuracy: 9 of 10 (90.0%)
+Last Two Week Accuracy: 3 of 3 (100.0%)
 
-Last Two Week Error: 11.37 points per match
+Last Two Week Error: 9.27 points per match
 
 [2026/05/16 - Coventry V Hartpury College RFC, 28.0 to 25.0](reviews/2026-05-16-Coventry_V_HartpuryCollege)
 

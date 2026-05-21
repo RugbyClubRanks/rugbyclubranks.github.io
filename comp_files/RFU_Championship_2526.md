@@ -1,6 +1,6 @@
 ---
 title: "RFU Championship 25/26"
-date: 2026-05-18 6:00:00 -0500
+date: 2026-05-21 6:00:00 -0500
 categories: model review projection
 layout: article
 aside:
@@ -39,10 +39,10 @@ aside:
 
 | Club                |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:--------------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Ealing Trailfinders |         1 |            0.989 |                   19.157 |                           0.008 |                              |                          3.968 |
-| Bedford             |         1 |            0.637 |                    2.744 |                           0.245 |                              |                          2.899 |
-| Coventry            |         1 |            0.31  |                   -2.744 |                           0.404 |                              |                          1.75  |
-| Worcester Warriors  |         1 |            0.009 |                  -19.157 |                           0.065 |                              |                          0.105 |
+| Ealing Trailfinders |         1 |            0.984 |                   18.684 |                           0.01  |                              |                          3.958 |
+| Bedford             |         1 |            0.647 |                    2.851 |                           0.252 |                              |                          2.934 |
+| Coventry            |         1 |            0.306 |                   -2.851 |                           0.421 |                              |                          1.739 |
+| Worcester Warriors  |         1 |            0.01  |                  -18.684 |                           0.073 |                              |                          0.125 |
 
 
 
@@ -51,10 +51,10 @@ aside:
 
 | Club                |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Ealing Trailfinders |       27 | 26.989 |              707.157 |                 0.008 |                  8 |              115.968 |
-| Bedford             |       27 | 18.637 |              161.744 |                 3.245 |                 10 |               89.899 |
-| Coventry            |       28 | 17.31  |              330.256 |                 7.404 |                  8 |               84.75  |
-| Worcester Warriors  |       28 | 16.009 |              233.843 |                 6.065 |                  7 |               77.105 |
+| Ealing Trailfinders |       27 | 26.984 |              706.684 |                 0.01  |                  8 |              115.958 |
+| Bedford             |       27 | 18.647 |              161.851 |                 3.252 |                 10 |               89.934 |
+| Coventry            |       28 | 17.306 |              330.149 |                 7.421 |                  8 |               84.739 |
+| Worcester Warriors  |       28 | 16.01  |              234.316 |                 6.073 |                  7 |               77.125 |
 | Chinnor             |       27 | 16     |               56     |                 7     |                  2 |               73     |
 | Hartpury College    |       27 | 15     |              137     |                 4     |                  4 |               72     |
 | Nottingham          |       26 | 12     |               -8     |                 8     |                  8 |               66     |
@@ -85,7 +85,7 @@ aside:
 ### Bedford V Coventry on 2026/05/22
 
 
-Average Margin: Bedford by 2.7
+Average Margin: Bedford by 2.9
 
 <p float="left">
 <img src="plots/2026-05-22-Bedford_V_Coventry_club_performances.png" width="32%" />
@@ -96,7 +96,7 @@ Average Margin: Bedford by 2.7
 ### Ealing Trailfinders V Worcester Warriors on 2026/05/23
 
 
-Average Margin: Ealing Trailfinders by 19.2
+Average Margin: Ealing Trailfinders by 18.7
 
 <p float="left">
 <img src="plots/2026-05-23-EalingTrailfinders_V_WorcesterWarriors_club_performances.png" width="32%" />

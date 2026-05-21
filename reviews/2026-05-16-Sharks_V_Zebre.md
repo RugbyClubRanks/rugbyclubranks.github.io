@@ -9,9 +9,9 @@ categories: rugby "United Rugby Championship 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Sharks to win by 12.13, and Sharks won by 35.0. That's an absolute error of 22.9 for the margin of victory, while my average absolute error has been 13.9 over the past six months. This prediction was more accurate than 19.1% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Sharks to win by 11.7, and Sharks won by 35.0. That's an absolute error of 23.3 for the margin of victory, while my average absolute error has been 14.0 over the past six months. This prediction was more accurate than 18.3% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 45.5 and we have an actual total of 73.0. That's an absolute error of 27.5 compared to a six month average of 13.5. This prediction was more accurate than 11.6% of my recent predictions.
+For the Over/Under model, I predicted a total of 44.5 and we have an actual total of 73.0. That's an absolute error of 28.5 compared to a six month average of 13.7. This prediction was more accurate than 10.4% of my recent predictions.
 ## Projected Performances - Club Model
 
 

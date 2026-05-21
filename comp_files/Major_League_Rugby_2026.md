@@ -1,6 +1,6 @@
 ---
 title: "Major League Rugby 2026"
-date: 2026-05-18 6:00:00 -0500
+date: 2026-05-21 6:00:00 -0500
 categories: model review projection
 layout: article
 aside:
@@ -31,12 +31,12 @@ aside:
 
 | Club                   |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:-----------------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Chicago Hounds         |         4 |            2.821 |                   31.62  |                           0.52  |                              |                         12.008 |
-| California Legion      |         4 |            2.806 |                   49.062 |                           0.423 |                              |                         11.781 |
-| Seattle Seawolves      |         4 |            1.611 |                  -19.998 |                           0.544 |                              |                          7.138 |
-| Old Glory DC           |         3 |            1.057 |                  -25.106 |                           0.375 |                              |                          4.711 |
-| New England Free Jacks |         2 |            0.883 |                   -2.033 |                           0.406 |                              |                          4.074 |
-| Anthem RC              |         3 |            0.597 |                  -33.545 |                           0.569 |                              |                          3.125 |
+| Chicago Hounds         |         4 |            2.833 |                   32.223 |                           0.526 |                              |                         12.008 |
+| California Legion      |         4 |            2.782 |                   47.295 |                           0.385 |                              |                         11.643 |
+| Seattle Seawolves      |         4 |            1.644 |                  -18.818 |                           0.565 |                              |                          7.273 |
+| Old Glory DC           |         3 |            1.041 |                  -25.703 |                           0.368 |                              |                          4.636 |
+| New England Free Jacks |         2 |            0.879 |                   -1.613 |                           0.433 |                              |                          4.063 |
+| Anthem RC              |         3 |            0.624 |                  -33.384 |                           0.529 |                              |                          3.183 |
 
 
 
@@ -45,12 +45,12 @@ aside:
 
 | Club                   |   Played |   Wins |   Point Differential |   Losing Bonus Points | Try Bonus Points   |   Competition Points |
 |:-----------------------|---------:|-------:|---------------------:|----------------------:|:-------------------|---------------------:|
-| Chicago Hounds         |       12 |  9.821 |              159.62  |                 0.52  |                    |               40.008 |
-| California Legion      |       11 |  5.806 |               57.062 |                 1.423 |                    |               24.781 |
-| Seattle Seawolves      |       11 |  5.611 |               -0.998 |                 0.544 |                    |               23.138 |
-| Old Glory DC           |       10 |  4.057 |              -58.106 |                 1.375 |                    |               17.711 |
-| New England Free Jacks |        8 |  2.883 |              -42.033 |                 2.406 |                    |               14.074 |
-| Anthem RC              |       10 |  2.597 |             -115.545 |                 0.569 |                    |               11.125 |
+| Chicago Hounds         |       12 |  9.833 |              160.223 |                 0.526 |                    |               40.008 |
+| California Legion      |       11 |  5.782 |               55.295 |                 1.385 |                    |               24.643 |
+| Seattle Seawolves      |       11 |  5.644 |                0.182 |                 0.565 |                    |               23.273 |
+| Old Glory DC           |       10 |  4.041 |              -58.703 |                 1.368 |                    |               17.636 |
+| New England Free Jacks |        8 |  2.879 |              -41.613 |                 2.433 |                    |               14.063 |
+| Anthem RC              |       10 |  2.624 |             -115.384 |                 0.529 |                    |               11.183 |
 
 
 
@@ -59,7 +59,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 61.3% | 19.2 |
+| Club Level | 64.5% | 21.6 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -71,7 +71,7 @@ aside:
 ### Anthem RC V New England Free Jacks on 2026/05/23
 
 
-Average Margin: New England Free Jacks by 5.5
+Average Margin: New England Free Jacks by 5.4
 
 <p float="left">
 <img src="plots/2026-05-23-AnthemRC_V_NewEnglandFreeJacks_club_performances.png" width="32%" />
@@ -82,7 +82,7 @@ Average Margin: New England Free Jacks by 5.5
 ### California Legion V Old Glory DC on 2026/05/24
 
 
-Average Margin: California Legion by 21.7
+Average Margin: California Legion by 21.2
 
 <p float="left">
 <img src="plots/2026-05-24-CaliforniaLegion_V_OldGloryDC_club_performances.png" width="32%" />
@@ -93,7 +93,7 @@ Average Margin: California Legion by 21.7
 ### Chicago Hounds V Seattle Seawolves on 2026/05/24
 
 
-Average Margin: Chicago Hounds by 18.1
+Average Margin: Chicago Hounds by 17.9
 
 <p float="left">
 <img src="plots/2026-05-24-ChicagoHounds_V_SeattleSeawolves_club_performances.png" width="32%" />
@@ -106,7 +106,7 @@ Average Margin: Chicago Hounds by 18.1
 ### Old Glory DC V Chicago Hounds on 2026/05/30
 
 
-Average Margin: Chicago Hounds by 13.5
+Average Margin: Chicago Hounds by 14.4
 
 <p float="left">
 <img src="plots/2026-05-30-OldGloryDC_V_ChicagoHounds_club_performances.png" width="32%" />
@@ -117,7 +117,7 @@ Average Margin: Chicago Hounds by 13.5
 ### Seattle Seawolves V New England Free Jacks on 2026/05/31
 
 
-Average Margin: Seattle Seawolves by 7.5
+Average Margin: Seattle Seawolves by 7.0
 
 <p float="left">
 <img src="plots/2026-05-31-SeattleSeawolves_V_NewEnglandFreeJacks_club_performances.png" width="32%" />
@@ -128,7 +128,7 @@ Average Margin: Seattle Seawolves by 7.5
 ### Anthem RC V California Legion on 2026/05/31
 
 
-Average Margin: California Legion by 17.9
+Average Margin: California Legion by 18.1
 
 <p float="left">
 <img src="plots/2026-05-31-AnthemRC_V_CaliforniaLegion_club_performances.png" width="32%" />
@@ -141,7 +141,7 @@ Average Margin: California Legion by 17.9
 ### California Legion V Seattle Seawolves on 2026/06/03
 
 
-Average Margin: California Legion by 10.1
+Average Margin: California Legion by 9.3
 
 <p float="left">
 <img src="plots/2026-06-03-CaliforniaLegion_V_SeattleSeawolves_club_performances.png" width="32%" />
@@ -152,7 +152,7 @@ Average Margin: California Legion by 10.1
 ### Old Glory DC V Anthem RC on 2026/06/06
 
 
-Average Margin: Old Glory DC by 10.1
+Average Margin: Old Glory DC by 9.9
 
 <p float="left">
 <img src="plots/2026-06-06-OldGloryDC_V_AnthemRC_club_performances.png" width="32%" />
@@ -163,7 +163,7 @@ Average Margin: Old Glory DC by 10.1
 ### Chicago Hounds V New England Free Jacks on 2026/06/07
 
 
-Average Margin: Chicago Hounds by 6.1
+Average Margin: Chicago Hounds by 5.9
 
 <p float="left">
 <img src="plots/2026-06-07-ChicagoHounds_V_ChicagoHounds_club_performances.png" width="32%" />
@@ -174,7 +174,7 @@ Average Margin: Chicago Hounds by 6.1
 ### Seattle Seawolves V California Legion on 2026/06/07
 
 
-Average Margin: Seattle Seawolves by 0.7
+Average Margin: Seattle Seawolves by 1.4
 
 <p float="left">
 <img src="plots/2026-06-07-SeattleSeawolves_V_CaliforniaLegion_club_performances.png" width="32%" />
