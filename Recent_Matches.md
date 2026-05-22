@@ -38,7 +38,7 @@ Last Two Week Accuracy: 4 of 5 (80.0%)
 
 Last Two Week Error: 25.13 points per match
 
-[2026/05/15 - Northampton Saints V Bristol Bears, 94.0 to 33.0](reviews/2026-05-15-NorthamptonSaints_V_BristolRugby)
+[2026/05/15 - Northampton Saints V Bristol Rugby, 94.0 to 33.0](reviews/2026-05-15-NorthamptonSaints_V_BristolRugby)
 
 [2026/05/16 - Bath Rugby V Newcastle Red Bulls, 69.0 to 12.0](reviews/2026-05-16-BathRugby_V_NewcastleRedBulls)
 
@@ -60,7 +60,7 @@ Last Two Week Accuracy: 6 of 7 (85.71%)
 
 Last Two Week Error: 12.92 points per match
 
-[2026/05/16 - Lyon V Bayonne, 42.0 to 35.0](reviews/2026-05-16-Lyon_V_Bayonne)
+[2026/05/16 - Castres Olympique V Montpellier Herault, 33.0 to 36.0](reviews/2026-05-16-CastresOlympique_V_MontpellierHerault)
 
 [2026/05/17 - La Rochelle V Stade Toulousain, 38.0 to 10.0](reviews/2026-05-17-LaRochelle_V_StadeToulousain)
 
@@ -70,7 +70,7 @@ Last Two Week Error: 12.92 points per match
 
 [2026/05/16 - Pau V Clermont Auvergne, 24.0 to 19.0](reviews/2026-05-16-Pau_V_ClermontAuvergne)
 
-[2026/05/16 - Castres Olympique V Montpellier Herault, 33.0 to 36.0](reviews/2026-05-16-CastresOlympique_V_MontpellierHerault)
+[2026/05/16 - Lyon V Bayonne, 42.0 to 35.0](reviews/2026-05-16-Lyon_V_Bayonne)
 
 [2026/05/15 - Bordeaux Begles V Perpignan, 37.0 to 32.0](reviews/2026-05-16-BordeauxBegles_V_Perpignan)
 ## United Rugby Championship
@@ -106,13 +106,17 @@ Last Two Week Error: 14.73 points per match
 
 [In depth model review and projections for Super Rugby Pacific 2026](comp_files/Super_Rugby_Pacific_2026)
 
-Competition Accuracy: 51 of 67 (76.12%)
+Competition Accuracy: 51 of 69 (73.91%)
 
-Competition Error: 13.14 points per match
+Competition Error: 12.95 points per match
 
-Last Two Week Accuracy: 3 of 4 (75.0%)
+Last Two Week Accuracy: 3 of 6 (50.0%)
 
-Last Two Week Error: 14.02 points per match
+Last Two Week Error: 11.53 points per match
+
+[2026/05/22 - New South Wales Waratahs V Brumbies, 14.0 to 21.0](reviews/2026-05-22-NewSouthWalesWaratahs_V_Brumbies)
+
+[2026/05/22 - Crusaders V Chiefs, 36.0 to 32.0](reviews/2026-05-22-Crusaders_V_Chiefs)
 
 [2026/05/16 - Western Force V Queensland Reds, 19.0 to 14.0](reviews/2026-05-16-WesternForce_V_QueenslandReds)
 
@@ -170,13 +174,13 @@ Last Two Week Error: 9.29 points per match
 
 [In depth model review and projections for Pro D2 25/26](comp_files/Pro_D2_2526)
 
-Competition Accuracy: 178 of 240 (74.17%)
+Competition Accuracy: 179 of 241 (74.27%)
 
-Competition Error: 13.23 points per match
+Competition Error: 13.24 points per match
 
-Last Two Week Accuracy: 7 of 8 (87.5%)
+Last Two Week Accuracy: 8 of 9 (88.89%)
 
-Last Two Week Error: 16.09 points per match
+Last Two Week Error: 15.95 points per match
 
 [2026/05/15 - Biarritz Olympique V Carcassonne, 41.0 to 15.0](reviews/2026-05-15-BiarritzOlympique_V_Carcassonne)
 
@@ -193,6 +197,8 @@ Last Two Week Error: 16.09 points per match
 [2026/05/15 - Valence Romans Drome Rugby V Provence Rugby, 21.0 to 34.0](reviews/2026-05-15-ValenceRomansDromeRugby_V_ProvenceRugby)
 
 [2026/05/15 - Vannes V Dax, 47.0 to 0.0](reviews/2026-05-15-Vannes_V_Dax)
+
+[2026/05/21 - Oyonnax V Valence Romans Drome Rugby, 39.0 to 14.0](reviews/2026-05-21-Oyonnax_V_ValenceRomansDromeRugby)
 ## RFU Championship
 
 
