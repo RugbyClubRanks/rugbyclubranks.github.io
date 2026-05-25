@@ -9,9 +9,9 @@ categories: rugby "Super Rugby Pacific 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Chiefs to win by 1.55, and Crusaders won by 4.0. That's an absolute error of 5.6 for the margin of victory, while my average absolute error has been 14.0 over the past six months. This prediction was more accurate than 72.0% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Chiefs to win by 0.99, and Crusaders won by 4.0. That's an absolute error of 5.0 for the margin of victory, while my average absolute error has been 14.0 over the past six months. This prediction was more accurate than 74.9% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 68.0. That's an absolute error of 18.5 compared to a six month average of 13.7. This prediction was more accurate than 28.2% of my recent predictions.
+For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 68.0. That's an absolute error of 18.5 compared to a six month average of 13.7. This prediction was more accurate than 28.1% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 49.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Crusaders to win by 2.16,  and Crusaders won by 4.0. That's an absolute error of 1.8 for the margin of victory, while the average error as been 13.9 for the past six months. So this prediction was more accurate than 78.8% of my recent predictions.
+With the player model, I predicted Crusaders to win by 2.24,  and Crusaders won by 4.0. That's an absolute error of 1.8 for the margin of victory, while the average error as been 13.8 for the past six months. So this prediction was more accurate than 79.4% of my recent predictions.
 ## Projected Performances - Player Model
 
 
