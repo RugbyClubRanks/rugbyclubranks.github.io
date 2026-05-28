@@ -16,7 +16,7 @@ Competition Error: 14.2 points per match
 
 Last Two Week Accuracy: 4 of 4 (100.0%)
 
-Last Two Week Error: 10.49 points per match
+Last Two Week Error: 10.53 points per match
 
 [2026/05/23 - Shimizu Blue Sharks V Urayasu D-Rocks, 15.0 to 37.0](reviews/2026-05-23-ShimizuBlueSharks_V_UrayasuD-Rocks)
 
@@ -34,9 +34,9 @@ Competition Accuracy: 13 of 24 (54.17%)
 
 Competition Error: 24.25 points per match
 
-Last Two Week Accuracy: 5 of 6 (83.33%)
+Last Two Week Accuracy: 3 of 3 (100.0%)
 
-Last Two Week Error: 27.11 points per match
+Last Two Week Error: 22.31 points per match
 
 [2026/05/23 - Anthem RC V New England Free Jacks, 7.0 to 20.0](reviews/2026-05-23-AnthemRC_V_NewEnglandFreeJacks)
 
@@ -52,9 +52,9 @@ Competition Accuracy: 54 of 72 (75.0%)
 
 Competition Error: 12.6 points per match
 
-Last Two Week Accuracy: 6 of 9 (66.67%)
+Last Two Week Accuracy: 3 of 5 (60.0%)
 
-Last Two Week Error: 9.23 points per match
+Last Two Week Error: 5.39 points per match
 
 [2026/05/22 - Crusaders V Chiefs, 36.0 to 32.0](reviews/2026-05-22-Crusaders_V_Chiefs)
 
@@ -92,7 +92,7 @@ Last Two Week Accuracy: 0 of 1 (0.0%)
 
 Last Two Week Error: 28.72 points per match
 
-[2026/05/23 - Leinster V Bordeaux Begles, 19.0 to 41.0](reviews/2026-05-23-Leinster_V_BordeauxBegles)
+[2026/05/23 - Leinster V Bordeaux-Begles, 19.0 to 41.0](reviews/2026-05-23-Leinster_V_BordeauxBegles)
 # Domestic Competitions
 
 ## Japan Rugby League One D2
@@ -102,7 +102,7 @@ Last Two Week Error: 28.72 points per match
 
 Competition Accuracy: 30 of 49 (61.22%)
 
-Competition Error: 15.71 points per match
+Competition Error: 15.7 points per match
 
 Last Two Week Accuracy: 0 of 2 (0.0%)
 
@@ -120,9 +120,9 @@ Competition Accuracy: 180 of 242 (74.38%)
 
 Competition Error: 13.24 points per match
 
-Last Two Week Accuracy: 9 of 10 (90.0%)
+Last Two Week Accuracy: 2 of 2 (100.0%)
 
-Last Two Week Error: 15.69 points per match
+Last Two Week Error: 14.1 points per match
 
 [2026/05/21 - Oyonnax V Valence Romans Drome Rugby, 39.0 to 14.0](reviews/2026-05-21-Oyonnax_V_ValenceRomansDromeRugby)
 
@@ -136,9 +136,9 @@ Competition Accuracy: 136 of 187 (72.73%)
 
 Competition Error: 13.93 points per match
 
-Last Two Week Accuracy: 4 of 5 (80.0%)
+Last Two Week Accuracy: 1 of 2 (50.0%)
 
-Last Two Week Error: 16.13 points per match
+Last Two Week Error: 26.43 points per match
 
 [2026/05/22 - Bedford V Coventry, 58.0 to 24.0](reviews/2026-05-22-Bedford_V_Coventry)
 

@@ -14,10 +14,6 @@ Competition Accuracy: 64 of 80 (80.0%)
 
 Competition Error: 16.61 points per match
 
-Last Two Week Accuracy: 4 of 5 (80.0%)
-
-Last Two Week Error: 25.13 points per match
-
 [2026/05/29 - Bristol Bears V Bath Rugby](projections/2026-05-29-BristolRugby_V_BathRugby)
 
 [2026/05/30 - Newcastle Red Bulls V Sale Sharks](projections/2026-05-30-NewcastleRedBulls_V_SaleSharks)
@@ -45,10 +41,6 @@ Last Two Week Error: 25.13 points per match
 Competition Accuracy: 129 of 169 (76.33%)
 
 Competition Error: 14.12 points per match
-
-Last Two Week Accuracy: 6 of 7 (85.71%)
-
-Last Two Week Error: 12.92 points per match
 
 [2026/06/06 - Pau V US Montauban](projections/2026-06-06-Pau_V_USMontauban)
 
@@ -86,10 +78,6 @@ Competition Accuracy: 92 of 145 (63.45%)
 
 Competition Error: 12.43 points per match
 
-Last Two Week Accuracy: 5 of 8 (62.5%)
-
-Last Two Week Error: 14.72 points per match
-
 [2026-06-05 - Connacht V Bulls](projections/2026-06-05-Connacht_V_Bulls)
 
 [2026-06-05 - Connacht V Munster](projections/2026-06-05-Connacht_V_Munster)
@@ -120,9 +108,9 @@ Competition Accuracy: 54 of 72 (75.0%)
 
 Competition Error: 12.6 points per match
 
-Last Two Week Accuracy: 6 of 9 (66.67%)
+Last Two Week Accuracy: 3 of 5 (60.0%)
 
-Last Two Week Error: 9.23 points per match
+Last Two Week Error: 5.39 points per match
 
 [2026/05/30 - Western Force V New South Wales Waratahs](projections/2026-05-30-WesternForce_V_NewSouthWalesWaratahs)
 
@@ -142,9 +130,9 @@ Competition Accuracy: 13 of 24 (54.17%)
 
 Competition Error: 24.25 points per match
 
-Last Two Week Accuracy: 5 of 6 (83.33%)
+Last Two Week Accuracy: 3 of 3 (100.0%)
 
-Last Two Week Error: 27.11 points per match
+Last Two Week Error: 22.31 points per match
 
 [2026/05/31 - Seattle Seawolves V New England Free Jacks](projections/2026-05-31-SeattleSeawolves_V_NewEnglandFreeJacks)
 
@@ -186,9 +174,9 @@ Competition Accuracy: 136 of 187 (72.73%)
 
 Competition Error: 13.93 points per match
 
-Last Two Week Accuracy: 4 of 5 (80.0%)
+Last Two Week Accuracy: 1 of 2 (50.0%)
 
-Last Two Week Error: 16.13 points per match
+Last Two Week Error: 26.43 points per match
 
 [2026/05/31 - Bedford V Worcester Warriors](projections/2026-05-31-Bedford_V_WorcesterWarriors)
 ## URBA Top 14

@@ -9,9 +9,9 @@ categories: rugby "Japan Rugby League One 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Mitsubishi Dynaboars to win by 3.12, and Mitsubishi Dynaboars won by 22.0. That's an absolute error of 18.9 for the margin of victory, while my average absolute error has been 14.0 over the past six months. This prediction was more accurate than 26.8% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Mitsubishi Dynaboars to win by 3.07, and Mitsubishi Dynaboars won by 22.0. That's an absolute error of 18.9 for the margin of victory, while my average absolute error has been 14.1 over the past six months. This prediction was more accurate than 27.0% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 53.5 and we have an actual total of 50.0. That's an absolute error of 3.5 compared to a six month average of 13.7. This prediction was more accurate than 84.1% of my recent predictions.
+For the Over/Under model, I predicted a total of 53.5 and we have an actual total of 50.0. That's an absolute error of 3.5 compared to a six month average of 13.7. This prediction was more accurate than 84.6% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 53.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Toyota Shuttles Aichi to win by 15.82,  and Mitsubishi Dynaboars won by 22.0. That's an absolute error of 37.8 for the margin of victory, while the average error as been 13.8 for the past six months. So this prediction was more accurate than 5.0% of my recent predictions.
+With the player model, I predicted Toyota Shuttles Aichi to win by 15.81,  and Mitsubishi Dynaboars won by 22.0. That's an absolute error of 37.8 for the margin of victory, while the average error as been 14.0 for the past six months. So this prediction was more accurate than 4.9% of my recent predictions.
 ## Projected Performances - Player Model
 
 

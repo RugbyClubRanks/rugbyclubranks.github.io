@@ -1,6 +1,6 @@
 ---
 title: "RFU Championship 25/26"
-date: 2026-05-25 6:00:00 -0500
+date: 2026-05-28 6:00:00 -0500
 categories: model review projection
 layout: article
 aside:
@@ -39,8 +39,8 @@ aside:
 
 | Club               |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:-------------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Bedford            |         1 |            0.766 |                    5.611 |                           0.16  |                              |                          3.298 |
-| Worcester Warriors |         1 |            0.197 |                   -5.611 |                           0.378 |                              |                          1.24  |
+| Bedford            |         1 |            0.744 |                    5.332 |                           0.173 |                              |                          3.265 |
+| Worcester Warriors |         1 |            0.198 |                   -5.332 |                           0.371 |                              |                          1.279 |
 
 
 
@@ -50,9 +50,9 @@ aside:
 | Club                |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
 | Ealing Trailfinders |       27 | 26     |              683     |                 1     |                  8 |              113     |
-| Bedford             |       28 | 19.766 |              198.611 |                 3.16  |                 10 |               94.298 |
+| Bedford             |       28 | 19.744 |              198.332 |                 3.173 |                 10 |               94.265 |
 | Coventry            |       28 | 17     |              299     |                 7     |                  8 |               83     |
-| Worcester Warriors  |       29 | 17.197 |              252.389 |                 6.378 |                  7 |               82.24  |
+| Worcester Warriors  |       29 | 17.198 |              252.668 |                 6.371 |                  7 |               82.279 |
 | Chinnor             |       27 | 16     |               56     |                 7     |                  2 |               73     |
 | Hartpury College    |       27 | 15     |              137     |                 4     |                  4 |               72     |
 | Nottingham          |       26 | 12     |               -8     |                 8     |                  8 |               66     |
@@ -83,7 +83,7 @@ aside:
 ### Bedford V Worcester Warriors on 2026/05/31
 
 
-Average Margin: Bedford by 5.6
+Average Margin: Bedford by 5.3
 
 <p float="left">
 <img src="plots/2026-05-31-Bedford_V_WorcesterWarriors_club_performances.png" width="32%" />
