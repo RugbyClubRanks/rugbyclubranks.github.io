@@ -16,7 +16,7 @@ Competition Error: 14.2 points per match
 
 Last Two Week Accuracy: 4 of 4 (100.0%)
 
-Last Two Week Error: 10.53 points per match
+Last Two Week Error: 10.51 points per match
 
 [2026/05/23 - Shimizu Blue Sharks V Urayasu D-Rocks, 15.0 to 37.0](reviews/2026-05-23-ShimizuBlueSharks_V_UrayasuD-Rocks)
 
@@ -48,13 +48,13 @@ Last Two Week Error: 22.31 points per match
 
 [In depth model review and projections for Super Rugby Pacific 2026](comp_files/Super_Rugby_Pacific_2026)
 
-Competition Accuracy: 54 of 72 (75.0%)
+Competition Accuracy: 55 of 74 (74.32%)
 
-Competition Error: 12.6 points per match
+Competition Error: 12.9 points per match
 
-Last Two Week Accuracy: 3 of 5 (60.0%)
+Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 5.39 points per match
+Last Two Week Error: 10.6 points per match
 
 [2026/05/22 - Crusaders V Chiefs, 36.0 to 32.0](reviews/2026-05-22-Crusaders_V_Chiefs)
 
@@ -65,6 +65,10 @@ Last Two Week Error: 5.39 points per match
 [2026/05/23 - Moana Pasifika V Queensland Reds, 31.0 to 33.0](reviews/2026-05-23-MoanaPasifika_V_QueenslandReds)
 
 [2026/05/23 - Western Force V Fijian Drua, 19.0 to 15.0](reviews/2026-05-23-WesternForce_V_FijianDrua)
+
+[2026/05/29 - Crusaders V Hurricanes, 47.0 to 14.0](reviews/2026-05-29-Crusaders_V_Hurricanes)
+
+[2026/05/29 - Queensland Reds V Fijian Drua, 45.0 to 24.0](reviews/2026-05-29-QueenslandReds_V_FijianDrua)
 ## European Rugby Challenge Cup
 
 
@@ -106,7 +110,7 @@ Competition Error: 15.7 points per match
 
 Last Two Week Accuracy: 0 of 2 (0.0%)
 
-Last Two Week Error: 8.23 points per match
+Last Two Week Error: 8.26 points per match
 
 [2026/05/22 - Hino Red Dolphins V Skyactivs Hiroshima, 20.0 to 17.0](reviews/2026-05-22-HinoRedDolphins_V_SkyactivsHiroshima)
 
@@ -116,17 +120,19 @@ Last Two Week Error: 8.23 points per match
 
 [In depth model review and projections for Pro D2 25/26](comp_files/Pro_D2_2526)
 
-Competition Accuracy: 180 of 242 (74.38%)
+Competition Accuracy: 181 of 243 (74.49%)
 
-Competition Error: 13.24 points per match
+Competition Error: 13.3 points per match
 
-Last Two Week Accuracy: 2 of 2 (100.0%)
+Last Two Week Accuracy: 3 of 3 (100.0%)
 
-Last Two Week Error: 14.1 points per match
+Last Two Week Error: 19.05 points per match
 
 [2026/05/21 - Oyonnax V Valence Romans Drome Rugby, 39.0 to 14.0](reviews/2026-05-21-Oyonnax_V_ValenceRomansDromeRugby)
 
 [2026/05/23 - Provence Rugby V Brive, 39.0 to 21.0](reviews/2026-05-23-ProvenceRugby_V_Brive)
+
+[2026/05/28 - Vannes V Oyonnax, 48.0 to 7.0](reviews/2026-05-28-Vannes_V_Oyonnax)
 ## RFU Championship
 
 

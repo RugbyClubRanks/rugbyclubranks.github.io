@@ -9,9 +9,9 @@ categories: rugby "Major League Rugby 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted California Legion to win by 69.49, and California Legion won by 32.0. That's an absolute error of 37.5 for the margin of victory, while my average absolute error has been 14.1 over the past six months. This prediction was more accurate than 5.5% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted California Legion to win by 69.93, and California Legion won by 32.0. That's an absolute error of 37.9 for the margin of victory, while my average absolute error has been 14.1 over the past six months. This prediction was more accurate than 5.4% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 52.0. That's an absolute error of 2.5 compared to a six month average of 13.7. This prediction was more accurate than 89.3% of my recent predictions.
+For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 52.0. That's an absolute error of 3.5 compared to a six month average of 13.7. This prediction was more accurate than 84.6% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 49.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted California Legion to win by 12.01,  and California Legion won by 32.0. That's an absolute error of 20.0 for the margin of victory, while the average error as been 14.0 for the past six months. So this prediction was more accurate than 20.9% of my recent predictions.
+With the player model, I predicted California Legion to win by 12.9,  and California Legion won by 32.0. That's an absolute error of 19.1 for the margin of victory, while the average error as been 14.0 for the past six months. So this prediction was more accurate than 22.7% of my recent predictions.
 ## Projected Performances - Player Model
 
 

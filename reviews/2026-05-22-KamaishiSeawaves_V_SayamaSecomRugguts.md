@@ -9,7 +9,7 @@ categories: rugby "Japan Rugby League One D2 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Sayama Secom Rugguts to win by 4.49, and Kamaishi Seawaves won by 2.0. That's an absolute error of 6.5 for the margin of victory, while my average absolute error has been 14.1 over the past six months. This prediction was more accurate than 67.9% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Sayama Secom Rugguts to win by 3.58, and Kamaishi Seawaves won by 2.0. That's an absolute error of 5.6 for the margin of victory, while my average absolute error has been 14.1 over the past six months. This prediction was more accurate than 72.3% of my recent predictions.
 
 For the Over/Under model, I predicted a total of 53.5 and we have an actual total of 36.0. That's an absolute error of 17.5 compared to a six month average of 13.7. This prediction was more accurate than 29.8% of my recent predictions.
 ## Projected Performances - Club Model
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 53.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Sayama Secom Rugguts to win by 12.45,  and Kamaishi Seawaves won by 2.0. That's an absolute error of 14.4 for the margin of victory, while the average error as been 14.0 for the past six months. So this prediction was more accurate than 31.5% of my recent predictions.
+With the player model, I predicted Sayama Secom Rugguts to win by 12.46,  and Kamaishi Seawaves won by 2.0. That's an absolute error of 14.5 for the margin of victory, while the average error as been 14.0 for the past six months. So this prediction was more accurate than 31.6% of my recent predictions.
 ## Projected Performances - Player Model
 
 

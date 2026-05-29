@@ -9,9 +9,9 @@ categories: rugby "European Rugby Champions Cup 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Leinster to win by 6.77, and Bordeaux Begles won by 22.0. That's an absolute error of 28.8 for the margin of victory, while my average absolute error has been 14.1 over the past six months. This prediction was more accurate than 11.9% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Leinster to win by 6.8, and Bordeaux Begles won by 22.0. That's an absolute error of 28.8 for the margin of victory, while my average absolute error has been 14.1 over the past six months. This prediction was more accurate than 11.9% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 60.0. That's an absolute error of 10.5 compared to a six month average of 13.7. This prediction was more accurate than 52.4% of my recent predictions.
+For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 60.0. That's an absolute error of 11.5 compared to a six month average of 13.7. This prediction was more accurate than 48.8% of my recent predictions.
 ## Projected Performances - Club Model
 
 
