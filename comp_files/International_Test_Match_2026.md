@@ -1,6 +1,6 @@
 ---
 title: "International Test Match 2026"
-date: 2026-06-01 6:00:00 -0500
+date: 2026-06-08 6:00:00 -0500
 categories: model review projection
 layout: article
 aside:
@@ -28,11 +28,11 @@ aside:
 
 | Club         |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:-------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| South Africa |         3 |            2.317 |                   27.478 |                           0.384 |                              |                          9.834 |
-| Australia    |         3 |            1.544 |                    2.131 |                           0.574 |                              |                          6.892 |
-| Argentina    |         2 |            1.046 |                    2.396 |                           0.341 |                              |                          4.627 |
-| Japan        |         2 |            0.576 |                  -12.269 |                           0.465 |                              |                          2.879 |
-| New Zealand  |         2 |            0.355 |                  -19.736 |                           0.422 |                              |                          1.954 |
+| South Africa |         3 |            2.341 |                   27.304 |                           0.365 |                              |                          9.899 |
+| Australia    |         3 |            1.535 |                    1.289 |                           0.533 |                              |                          6.825 |
+| Argentina    |         2 |            1.032 |                    3.171 |                           0.396 |                              |                          4.64  |
+| Japan        |         2 |            0.581 |                  -11.726 |                           0.481 |                              |                          2.907 |
+| New Zealand  |         2 |            0.35  |                  -20.038 |                           0.413 |                              |                          1.917 |
 
 
 
@@ -41,13 +41,13 @@ aside:
 
 | Club         |   Played |   Wins |   Point Differential |   Losing Bonus Points | Try Bonus Points   |   Competition Points |
 |:-------------|---------:|-------:|---------------------:|----------------------:|:-------------------|---------------------:|
-| South Africa |        3 |  2.317 |               27.478 |                 0.384 |                    |                9.834 |
-| Australia    |        3 |  1.544 |                2.131 |                 0.574 |                    |                6.892 |
-| Argentina    |        2 |  1.046 |                2.396 |                 0.341 |                    |                4.627 |
+| South Africa |        3 |  2.341 |               27.304 |                 0.365 |                    |                9.899 |
+| Australia    |        3 |  1.535 |                1.289 |                 0.533 |                    |                6.825 |
+| Argentina    |        2 |  1.032 |                3.171 |                 0.396 |                    |                4.64  |
 | Czechia      |        1 |  1     |               27     |                 0     |                    |                4     |
 | Mexico       |        2 |  1     |              -11     |                 0     |                    |                4     |
-| Japan        |        2 |  0.576 |              -12.269 |                 0.465 |                    |                2.879 |
-| New Zealand  |        2 |  0.355 |              -19.736 |                 0.422 |                    |                1.954 |
+| Japan        |        2 |  0.581 |              -11.726 |                 0.481 |                    |                2.907 |
+| New Zealand  |        2 |  0.35  |              -20.038 |                 0.413 |                    |                1.917 |
 | Croatia      |        1 |  0     |              -16     |                 0     |                    |                0     |
 
 
@@ -57,7 +57,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 75.0% | 10.6 |
+| Club Level | 62.5% | 8.1 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -66,21 +66,10 @@ aside:
 
 ## Week 3
 
-### Japan V Australia on 2026/08/08
-
-
-Average Margin: Australia by 1.7
-
-<p float="left">
-<img src="plots/2026-08-08-Japan_V_Australia_club_performances.png" width="32%" />
-<img src="plots/2026-08-08-Japan_V_Australia_club_resultbar.png" width="32%" />
-<img src="plots/2026-08-08-Japan_V_Australia_club_spreads.png" width="32%" />
-</p>
-
 ### Argentina V South Africa on 2026/08/08
 
 
-Average Margin: South Africa by 7.7
+Average Margin: South Africa by 7.3
 
 <p float="left">
 <img src="plots/2026-08-08-Argentina_V_SouthAfrica_club_performances.png" width="32%" />
@@ -88,12 +77,23 @@ Average Margin: South Africa by 7.7
 <img src="plots/2026-08-08-Argentina_V_SouthAfrica_club_spreads.png" width="32%" />
 </p>
 
+### Japan V Australia on 2026/08/08
+
+
+Average Margin: Australia by 1.4
+
+<p float="left">
+<img src="plots/2026-08-08-Japan_V_Australia_club_performances.png" width="32%" />
+<img src="plots/2026-08-08-Japan_V_Australia_club_resultbar.png" width="32%" />
+<img src="plots/2026-08-08-Japan_V_Australia_club_spreads.png" width="32%" />
+</p>
+
 ## Week 4
 
 ### Australia V Japan on 2026/08/15
 
 
-Average Margin: Australia by 10.6
+Average Margin: Australia by 10.3
 
 <p float="left">
 <img src="plots/2026-08-15-Australia_V_Japan_club_performances.png" width="32%" />
@@ -116,24 +116,24 @@ Average Margin: South Africa by 9.9
 
 ## Week 6
 
-### Argentina V Australia on 2026/08/29
-
-
-Average Margin: Argentina by 10.1
-
-<p float="left">
-<img src="plots/2026-08-29-Argentina_V_Australia_club_performances.png" width="32%" />
-<img src="plots/2026-08-29-Argentina_V_Australia_club_resultbar.png" width="32%" />
-<img src="plots/2026-08-29-Argentina_V_Australia_club_spreads.png" width="32%" />
-</p>
-
 ### South Africa V New Zealand on 2026/08/29
 
 
-Average Margin: South Africa by 9.8
+Average Margin: South Africa by 10.1
 
 <p float="left">
 <img src="plots/2026-08-29-SouthAfrica_V_NewZealand_club_performances.png" width="32%" />
 <img src="plots/2026-08-29-SouthAfrica_V_NewZealand_club_resultbar.png" width="32%" />
 <img src="plots/2026-08-29-SouthAfrica_V_NewZealand_club_spreads.png" width="32%" />
+</p>
+
+### Argentina V Australia on 2026/08/29
+
+
+Average Margin: Argentina by 10.4
+
+<p float="left">
+<img src="plots/2026-08-29-Argentina_V_Australia_club_performances.png" width="32%" />
+<img src="plots/2026-08-29-Argentina_V_Australia_club_resultbar.png" width="32%" />
+<img src="plots/2026-08-29-Argentina_V_Australia_club_spreads.png" width="32%" />
 </p>

@@ -1,6 +1,6 @@
 ---
 title: "Super Rugby Pacific 2026"
-date: 2026-06-01 6:00:00 -0500
+date: 2026-06-08 6:00:00 -0500
 categories: model review projection
 layout: article
 aside:
@@ -17,12 +17,12 @@ aside:
 
 | Club                     |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Hurricanes               |       14 |     11 |                  264 |                     2 |                 11 |                   57 |
-| Chiefs                   |       14 |     11 |                  190 |                     1 |                 10 |                   55 |
-| Crusaders                |       14 |      8 |                  100 |                     4 |                 12 |                   48 |
-| Blues                    |       14 |      8 |                   44 |                     2 |                 11 |                   45 |
-| Brumbies                 |       14 |      7 |                   29 |                     4 |                  9 |                   41 |
-| Queensland Reds          |       14 |      8 |                  -22 |                     2 |                  7 |                   41 |
+| Hurricanes               |       15 |     12 |                  318 |                     2 |                 12 |                   62 |
+| Chiefs                   |       15 |     12 |                  212 |                     1 |                 11 |                   60 |
+| Crusaders                |       15 |      9 |                  121 |                     4 |                 13 |                   53 |
+| Blues                    |       15 |      8 |                   23 |                     2 |                 12 |                   46 |
+| Brumbies                 |       15 |      7 |                  -25 |                     4 |                  9 |                   41 |
+| Queensland Reds          |       15 |      8 |                  -44 |                     2 |                  7 |                   41 |
 | Western Force            |       14 |      7 |                  -25 |                     1 |                  7 |                   36 |
 | New South Wales Waratahs |       14 |      5 |                  -49 |                     4 |                  5 |                   29 |
 | Highlanders              |       14 |      5 |                  -97 |                     3 |                  6 |                   29 |
@@ -34,14 +34,12 @@ aside:
 ## Projected Remaining Table
 
 
-| Club            |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
-|:----------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Chiefs          |         1 |            0.953 |                   15.299 |                           0.036 |                              |                          3.868 |
-| Hurricanes      |         1 |            0.95  |                   15.507 |                           0.035 |                              |                          3.859 |
-| Crusaders       |         1 |            0.878 |                   10.642 |                           0.081 |                              |                          3.629 |
-| Blues           |         1 |            0.104 |                  -10.642 |                           0.236 |                              |                          0.688 |
-| Brumbies        |         1 |            0.038 |                  -15.507 |                           0.137 |                              |                          0.313 |
-| Queensland Reds |         1 |            0.037 |                  -15.299 |                           0.139 |                              |                          0.307 |
+| Club       |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
+|:-----------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
+| Hurricanes |         1 |            0.94  |                   14.375 |                           0.043 |                              |                          3.821 |
+| Chiefs     |         1 |            0.729 |                    5.616 |                           0.179 |                              |                          3.183 |
+| Crusaders  |         1 |            0.227 |                   -5.616 |                           0.326 |                              |                          1.322 |
+| Blues      |         1 |            0.051 |                  -14.375 |                           0.142 |                              |                          0.364 |
 
 
 
@@ -50,12 +48,12 @@ aside:
 
 | Club                     |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Hurricanes               |       15 | 11.95  |              279.507 |                 2.035 |                 11 |               60.859 |
-| Chiefs                   |       15 | 11.953 |              205.299 |                 1.036 |                 10 |               58.868 |
-| Crusaders                |       15 |  8.878 |              110.642 |                 4.081 |                 12 |               51.629 |
-| Blues                    |       15 |  8.104 |               33.358 |                 2.236 |                 11 |               45.688 |
-| Brumbies                 |       15 |  7.038 |               13.493 |                 4.137 |                  9 |               41.313 |
-| Queensland Reds          |       15 |  8.037 |              -37.299 |                 2.139 |                  7 |               41.307 |
+| Hurricanes               |       16 | 12.94  |              332.375 |                 2.043 |                 12 |               65.821 |
+| Chiefs                   |       16 | 12.729 |              217.616 |                 1.179 |                 11 |               63.183 |
+| Crusaders                |       16 |  9.227 |              115.384 |                 4.326 |                 13 |               54.322 |
+| Blues                    |       16 |  8.051 |                8.625 |                 2.142 |                 12 |               46.364 |
+| Brumbies                 |       15 |  7     |              -25     |                 4     |                  9 |               41     |
+| Queensland Reds          |       15 |  8     |              -44     |                 2     |                  7 |               41     |
 | Western Force            |       14 |  7     |              -25     |                 1     |                  7 |               36     |
 | New South Wales Waratahs |       14 |  5     |              -49     |                 4     |                  5 |               29     |
 | Highlanders              |       14 |  5     |              -97     |                 3     |                  6 |               29     |
@@ -69,44 +67,33 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 75.0% | 12.6 |
+| Club Level | 74.4% | 12.9 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
 
 # Future Predictions
 
-## Week 15
+## Week 16
 
-### Hurricanes V Brumbies on 2026/06/05
+### Chiefs V Crusaders on 2026/06/12
 
 
-Average Margin: Hurricanes by 15.5
+Average Margin: Chiefs by 5.6
 
 <p float="left">
-<img src="plots/2026-06-05-Hurricanes_V_Brumbies_club_performances.png" width="32%" />
-<img src="plots/2026-06-05-Hurricanes_V_Brumbies_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-05-Hurricanes_V_Brumbies_club_spreads.png" width="32%" />
+<img src="plots/2026-06-12-Chiefs_V_Crusaders_club_performances.png" width="32%" />
+<img src="plots/2026-06-12-Chiefs_V_Crusaders_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-12-Chiefs_V_Crusaders_club_spreads.png" width="32%" />
 </p>
 
-### Chiefs V Queensland Reds on 2026/06/06
+### Hurricanes V Blues on 2026/06/13
 
 
-Average Margin: Chiefs by 15.3
-
-<p float="left">
-<img src="plots/2026-06-06-Chiefs_V_QueenslandReds_club_performances.png" width="32%" />
-<img src="plots/2026-06-06-Chiefs_V_QueenslandReds_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-06-Chiefs_V_QueenslandReds_club_spreads.png" width="32%" />
-</p>
-
-### Crusaders V Blues on 2026/06/06
-
-
-Average Margin: Crusaders by 10.6
+Average Margin: Hurricanes by 14.4
 
 <p float="left">
-<img src="plots/2026-06-06-Crusaders_V_Blues_club_performances.png" width="32%" />
-<img src="plots/2026-06-06-Crusaders_V_Blues_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-06-Crusaders_V_Blues_club_spreads.png" width="32%" />
+<img src="plots/2026-06-13-Hurricanes_V_Blues_club_performances.png" width="32%" />
+<img src="plots/2026-06-13-Hurricanes_V_Blues_club_resultbar.png" width="32%" />
+<img src="plots/2026-06-13-Hurricanes_V_Blues_club_spreads.png" width="32%" />
 </p>

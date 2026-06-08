@@ -1,6 +1,6 @@
 ---
 title: "United Rugby Championship 25/26"
-date: 2026-06-01 6:00:00 -0500
+date: 2026-06-08 6:00:00 -0500
 categories: model review projection
 layout: article
 aside:
@@ -41,12 +41,12 @@ aside:
 
 | Club     |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:---------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Lions    |         1 |            0.809 |                    7.235 |                           0.137 |                              |                          3.421 |
-| Connacht |         1 |            0.807 |                    7.596 |                           0.123 |                              |                          3.407 |
-| Stormers |         1 |            0.59  |                    1.946 |                           0.266 |                              |                          2.726 |
-| Bulls    |         1 |            0.36  |                   -1.946 |                           0.366 |                              |                          1.906 |
-| Sharks   |         1 |            0.167 |                   -7.235 |                           0.324 |                              |                          1.04  |
-| Scarlets |         1 |            0.165 |                   -7.596 |                           0.3   |                              |                          1.016 |
+| Lions    |         1 |            0.828 |                    8.017 |                           0.132 |                              |                          3.484 |
+| Connacht |         1 |            0.806 |                    8.125 |                           0.139 |                              |                          3.419 |
+| Stormers |         1 |            0.588 |                    2.09  |                           0.261 |                              |                          2.703 |
+| Bulls    |         1 |            0.367 |                   -2.09  |                           0.34  |                              |                          1.898 |
+| Scarlets |         1 |            0.166 |                   -8.125 |                           0.279 |                              |                          0.999 |
+| Sharks   |         1 |            0.152 |                   -8.017 |                           0.293 |                              |                          0.941 |
 
 
 
@@ -57,18 +57,18 @@ aside:
 |:-----------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
 | Glasgow Warriors |       18 | 13     |              141     |                 2     |                 13 |               67     |
 | Leinster         |       18 | 12     |              145     |                 2     |                 13 |               63     |
-| Stormers         |       19 | 12.59  |              161.946 |                 1.266 |                  8 |               61.726 |
-| Bulls            |       19 | 12.36  |              158.054 |                 1.366 |                 10 |               60.906 |
-| Connacht         |       19 | 10.807 |               54.596 |                 4.123 |                 10 |               57.407 |
-| Lions            |       19 | 10.809 |               66.235 |                 3.137 |                  8 |               56.421 |
+| Stormers         |       19 | 12.588 |              162.09  |                 1.261 |                  8 |               61.703 |
+| Bulls            |       19 | 12.367 |              157.91  |                 1.34  |                 10 |               60.898 |
+| Connacht         |       19 | 10.806 |               55.125 |                 4.139 |                 10 |               57.419 |
+| Lions            |       19 | 10.828 |               67.017 |                 3.132 |                  8 |               56.484 |
 | Ulster           |       19 |  9     |               74     |                 4     |                 10 |               54     |
 | Munster          |       18 | 11     |               20     |                 3     |                  7 |               54     |
 | Cardiff Rugby    |       18 | 11     |              -19     |                 4     |                  3 |               51     |
-| Sharks           |       19 |  8.167 |               31.765 |                 3.324 |                  9 |               47.04  |
+| Sharks           |       19 |  8.152 |               30.983 |                 3.293 |                  9 |               46.941 |
 | Edinburgh        |       19 |  7     |              -77     |                 4     |                  6 |               40     |
 | Ospreys          |       18 |  7     |              -78     |                 3     |                  4 |               39     |
 | Benetton Treviso |       18 |  6     |             -166     |                 1     |                  4 |               33     |
-| Scarlets         |       19 |  4.165 |             -106.596 |                 5.3   |                  3 |               29.016 |
+| Scarlets         |       19 |  4.166 |             -107.125 |                 5.279 |                  3 |               28.999 |
 | Dragons          |       18 |  3     |             -131     |                 4     |                  3 |               27     |
 | Zebre            |       18 |  2     |             -275     |                 4     |                  3 |               15     |
 
@@ -79,10 +79,10 @@ aside:
 
 |                  | Reach Quarterfinal   | Win Quarterfinal   | Reach Semifinal   | Win Semifinal   | Reach Final   | Win Final   |
 |:-----------------|:---------------------|:-------------------|:------------------|:----------------|:--------------|:------------|
-| Glasgow Warriors | 100.0 %              | 100.0 %            | 100.0 %           | 80.6 %          | 80.6 %        | 58.5 %      |
-| Leinster         | 100.0 %              | 100.0 %            | 100.0 %           | 84.1 %          | 84.1 %        | 24.7 %      |
-| Bulls            | 100.0 %              | 100.0 %            | 100.0 %           | 19.4 %          | 19.4 %        | 13.1 %      |
-| Stormers         | 100.0 %              | 100.0 %            | 100.0 %           | 15.9 %          | 15.9 %        | 3.7 %       |
+| Bulls            | 100.0 %              | 100.0 %            | 100.0 %           | 100.0 %         | 100.0 %       | 66.8 %      |
+| Leinster         | 100.0 %              | 100.0 %            | 100.0 %           | 100.0 %         | 100.0 %       | 33.2 %      |
+| Glasgow Warriors | 100.0 %              | 100.0 %            | 100.0 %           | 0.0 %           | 0.0 %         | 0.0 %       |
+| Stormers         | 100.0 %              | 100.0 %            | 100.0 %           | 0.0 %           | 0.0 %         | 0.0 %       |
 | Connacht         | 100.0 %              | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
 | Munster          | 100.0 %              | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
 | Cardiff Rugby    | 100.0 %              | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
@@ -95,7 +95,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 65.2% | 12.1 |
+| Club Level | 64.5% | 12.3 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -107,7 +107,7 @@ aside:
 ### Connacht V Scarlets on 2025/10/04
 
 
-Average Margin: Connacht by 7.6
+Average Margin: Connacht by 8.1
 
 <p float="left">
 <img src="plots/2025-10-04-Connacht_V_Scarlets_club_performances.png" width="32%" />
@@ -120,7 +120,7 @@ Average Margin: Connacht by 7.6
 ### Bulls V Stormers on 2025/12/25
 
 
-Average Margin: Stormers by 1.9
+Average Margin: Stormers by 2.1
 
 <p float="left">
 <img src="plots/2025-12-25-Bulls_V_Stormers_club_performances.png" width="32%" />
@@ -131,7 +131,7 @@ Average Margin: Stormers by 1.9
 ### Lions V Sharks on 2025/12/25
 
 
-Average Margin: Lions by 7.2
+Average Margin: Lions by 8.0
 
 <p float="left">
 <img src="plots/2025-12-25-Lions_V_Sharks_club_performances.png" width="32%" />
@@ -139,42 +139,7 @@ Average Margin: Lions by 7.2
 <img src="plots/2025-12-25-Lions_V_Sharks_club_spreads.png" width="32%" />
 </p>
 
-## Week 22
-
-### Leinster V Stormers on 2026/06/06
-
-
-Average Margin: Leinster by 7.6
-
-<p float="left">
-<img src="plots/2026-06-06-Leinster_V_Stormers_club_performances.png" width="32%" />
-<img src="plots/2026-06-06-Leinster_V_Stormers_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-06-Leinster_V_Stormers_club_spreads.png" width="32%" />
-</p>
-
-### Glasgow Warriors V Bulls on 2026/06/06
-
-
-Average Margin: Glasgow Warriors by 6.2
-
-<p float="left">
-<img src="plots/2026-06-06-GlasgowWarriors_V_Bulls_club_performances.png" width="32%" />
-<img src="plots/2026-06-06-GlasgowWarriors_V_Bulls_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-06-GlasgowWarriors_V_Bulls_club_spreads.png" width="32%" />
-</p>
-
 ## Final
-
-### Glasgow Warriors V Leinster on 2026-06-19
-
-
-Average Margin: Glasgow Warriors by 4.3
-
-<p float="left">
-<img src="plots/2026-06-19-GlasgowWarriors_V_Leinster_club_performances.png" width="32%" />
-<img src="plots/2026-06-19-GlasgowWarriors_V_Leinster_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-19-GlasgowWarriors_V_Leinster_club_spreads.png" width="32%" />
-</p>
 
 ### Bulls V Leinster on 2026-06-19
 
@@ -185,26 +150,4 @@ Average Margin: Bulls by 3.2
 <img src="plots/2026-06-19-Bulls_V_Leinster_club_performances.png" width="32%" />
 <img src="plots/2026-06-19-Bulls_V_Leinster_club_resultbar.png" width="32%" />
 <img src="plots/2026-06-19-Bulls_V_Leinster_club_spreads.png" width="32%" />
-</p>
-
-### Glasgow Warriors V Stormers on 2026-06-19
-
-
-Average Margin: Glasgow Warriors by 5.3
-
-<p float="left">
-<img src="plots/2026-06-19-GlasgowWarriors_V_Stormers_club_performances.png" width="32%" />
-<img src="plots/2026-06-19-GlasgowWarriors_V_Stormers_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-19-GlasgowWarriors_V_Stormers_club_spreads.png" width="32%" />
-</p>
-
-### Bulls V Stormers on 2026-06-19
-
-
-Average Margin: Bulls by 2.1
-
-<p float="left">
-<img src="plots/2026-06-19-Bulls_V_Stormers_club_performances.png" width="32%" />
-<img src="plots/2026-06-19-Bulls_V_Stormers_club_resultbar.png" width="32%" />
-<img src="plots/2026-06-19-Bulls_V_Stormers_club_spreads.png" width="32%" />
 </p>
