@@ -9,9 +9,9 @@ categories: rugby "Top 14 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Montpellier Herault to win by 2.29, and Montpellier Herault won by 3.0. That's an absolute error of 0.7 for the margin of victory, while my average absolute error has been 14.2 over the past six months. This prediction was more accurate than 95.9% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Montpellier Herault to win by 2.12, and Montpellier Herault won by 3.0. That's an absolute error of 0.9 for the margin of victory, while my average absolute error has been 14.2 over the past six months. This prediction was more accurate than 94.9% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 53.0. That's an absolute error of 1.5 compared to a six month average of 13.9. This prediction was more accurate than 93.6% of my recent predictions.
+For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 53.0. That's an absolute error of 1.5 compared to a six month average of 14.0. This prediction was more accurate than 93.3% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 51.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Montpellier Herault to win by 5.06,  and Montpellier Herault won by 3.0. That's an absolute error of 2.1 for the margin of victory, while the average error as been 14.0 for the past six months. So this prediction was more accurate than 77.0% of my recent predictions.
+With the player model, I predicted Montpellier Herault to win by 4.94,  and Montpellier Herault won by 3.0. That's an absolute error of 1.9 for the margin of victory, while the average error as been 14.0 for the past six months. So this prediction was more accurate than 76.9% of my recent predictions.
 ## Projected Performances - Player Model
 
 

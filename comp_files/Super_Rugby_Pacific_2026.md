@@ -1,6 +1,6 @@
 ---
 title: "Super Rugby Pacific 2026"
-date: 2026-06-08 6:00:00 -0500
+date: 2026-06-11 6:00:00 -0500
 categories: model review projection
 layout: article
 aside:
@@ -36,10 +36,10 @@ aside:
 
 | Club       |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:-----------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Hurricanes |         1 |            0.94  |                   14.375 |                           0.043 |                              |                          3.821 |
-| Chiefs     |         1 |            0.729 |                    5.616 |                           0.179 |                              |                          3.183 |
-| Crusaders  |         1 |            0.227 |                   -5.616 |                           0.326 |                              |                          1.322 |
-| Blues      |         1 |            0.051 |                  -14.375 |                           0.142 |                              |                          0.364 |
+| Hurricanes |         1 |            0.949 |                   13.597 |                           0.039 |                              |                          3.851 |
+| Chiefs     |         1 |            0.738 |                    6.029 |                           0.171 |                              |                          3.209 |
+| Crusaders  |         1 |            0.219 |                   -6.029 |                           0.322 |                              |                          1.284 |
+| Blues      |         1 |            0.043 |                  -13.597 |                           0.177 |                              |                          0.365 |
 
 
 
@@ -48,10 +48,10 @@ aside:
 
 | Club                     |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Hurricanes               |       16 | 12.94  |              332.375 |                 2.043 |                 12 |               65.821 |
-| Chiefs                   |       16 | 12.729 |              217.616 |                 1.179 |                 11 |               63.183 |
-| Crusaders                |       16 |  9.227 |              115.384 |                 4.326 |                 13 |               54.322 |
-| Blues                    |       16 |  8.051 |                8.625 |                 2.142 |                 12 |               46.364 |
+| Hurricanes               |       16 | 12.949 |              331.597 |                 2.039 |                 12 |               65.851 |
+| Chiefs                   |       16 | 12.738 |              218.029 |                 1.171 |                 11 |               63.209 |
+| Crusaders                |       16 |  9.219 |              114.971 |                 4.322 |                 13 |               54.284 |
+| Blues                    |       16 |  8.043 |                9.403 |                 2.177 |                 12 |               46.365 |
 | Brumbies                 |       15 |  7     |              -25     |                 4     |                  9 |               41     |
 | Queensland Reds          |       15 |  8     |              -44     |                 2     |                  7 |               41     |
 | Western Force            |       14 |  7     |              -25     |                 1     |                  7 |               36     |
@@ -67,7 +67,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 74.4% | 12.9 |
+| Club Level | 75.6% | 12.9 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -79,7 +79,7 @@ aside:
 ### Chiefs V Crusaders on 2026/06/12
 
 
-Average Margin: Chiefs by 5.6
+Average Margin: Chiefs by 6.0
 
 <p float="left">
 <img src="plots/2026-06-12-Chiefs_V_Crusaders_club_performances.png" width="32%" />
@@ -90,7 +90,7 @@ Average Margin: Chiefs by 5.6
 ### Hurricanes V Blues on 2026/06/13
 
 
-Average Margin: Hurricanes by 14.4
+Average Margin: Hurricanes by 13.6
 
 <p float="left">
 <img src="plots/2026-06-13-Hurricanes_V_Blues_club_performances.png" width="32%" />

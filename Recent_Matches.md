@@ -14,9 +14,9 @@ Competition Accuracy: 70 of 90 (77.78%)
 
 Competition Error: 15.94 points per match
 
-Last Two Week Accuracy: 6 of 10 (60.0%)
+Last Two Week Accuracy: 4 of 5 (80.0%)
 
-Last Two Week Error: 10.57 points per match
+Last Two Week Error: 13.16 points per match
 
 [2026/06/06 - Bath Rugby V Leicester Tigers, 24.0 to 22.0](reviews/2026-06-06-BathRugby_V_LeicesterTigers)
 
@@ -36,9 +36,9 @@ Competition Accuracy: 97 of 151 (64.24%)
 
 Competition Error: 12.53 points per match
 
-Last Two Week Accuracy: 5 of 6 (83.33%)
+Last Two Week Accuracy: 1 of 2 (50.0%)
 
-Last Two Week Error: 15.06 points per match
+Last Two Week Error: 4.24 points per match
 
 [2026/06/06 - Glasgow Warriors V Bulls, 21.0 to 22.0](reviews/2026-06-06-GlasgowWarriors_V_Bulls)
 
@@ -52,9 +52,9 @@ Competition Accuracy: 140 of 183 (76.5%)
 
 Competition Error: 14.08 points per match
 
-Last Two Week Accuracy: 11 of 14 (78.57%)
+Last Two Week Accuracy: 5 of 7 (71.43%)
 
-Last Two Week Error: 13.53 points per match
+Last Two Week Error: 13.1 points per match
 
 [2026/06/06 - Racing 92 V Stade Toulousain, 31.0 to 20.0](reviews/2026-06-06-Racing92_V_StadeToulousain)
 
@@ -78,9 +78,9 @@ Competition Accuracy: 60 of 80 (75.0%)
 
 Competition Error: 13.1 points per match
 
-Last Two Week Accuracy: 6 of 8 (75.0%)
+Last Two Week Accuracy: 3 of 3 (100.0%)
 
-Last Two Week Error: 17.62 points per match
+Last Two Week Error: 18.5 points per match
 
 [2026/06/06 - Crusaders V Blues, 52.0 to 31.0](reviews/2026-06-06-Crusaders_V_Blues)
 
@@ -96,9 +96,9 @@ Competition Accuracy: 55 of 72 (76.39%)
 
 Competition Error: 17.31 points per match
 
-Last Two Week Accuracy: 6 of 8 (75.0%)
+Last Two Week Accuracy: 3 of 4 (75.0%)
 
-Last Two Week Error: 23.39 points per match
+Last Two Week Error: 22.93 points per match
 
 [2026/06/07 - Saracens Women V Trailfinders Women, 80.0 to 14.0](reviews/2026-06-07-SaracensWomen_V_TrailfindersWomen)
 
@@ -116,9 +116,9 @@ Competition Accuracy: 18 of 30 (60.0%)
 
 Competition Error: 21.96 points per match
 
-Last Two Week Accuracy: 5 of 6 (83.33%)
+Last Two Week Accuracy: 2 of 3 (66.67%)
 
-Last Two Week Error: 12.82 points per match
+Last Two Week Error: 9.28 points per match
 
 [2026/06/07 - Seattle Seawolves V California Legion, 33.0 to 19.0](reviews/2026-06-07-SeattleSeawolves_V_CaliforniaLegion)
 
@@ -134,9 +134,9 @@ Competition Accuracy: 83 of 117 (70.94%)
 
 Competition Error: 14.27 points per match
 
-Last Two Week Accuracy: 5 of 6 (83.33%)
+Last Two Week Accuracy: 2 of 2 (100.0%)
 
-Last Two Week Error: 15.44 points per match
+Last Two Week Error: 5.51 points per match
 
 [2026/06/07 - Kobelco Kobe Steelers V Kubota Spears, 22.0 to 13.0](reviews/2026-06-07-KobelcoKobeSteelers_V_KubotaSpears)
 
@@ -152,9 +152,9 @@ Competition Accuracy: 183 of 246 (74.39%)
 
 Competition Error: 13.25 points per match
 
-Last Two Week Accuracy: 3 of 4 (75.0%)
+Last Two Week Accuracy: 1 of 1 (100.0%)
 
-Last Two Week Error: 14.26 points per match
+Last Two Week Error: 7.73 points per match
 
 [2026/06/06 - Vannes V Provence Rugby, 18.0 to 14.0](reviews/2026-06-06-Vannes_V_ProvenceRugby)
 ## URBA Top 14
@@ -166,9 +166,9 @@ Competition Accuracy: 34 of 56 (60.71%)
 
 Competition Error: 12.53 points per match
 
-Last Two Week Accuracy: 8 of 14 (57.14%)
+Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 12.71 points per match
+Last Two Week Error: 9.57 points per match
 
 [2026/06/06 - Atlético del Rosario V Alumni, 23.0 to 38.0](reviews/2026-06-06-AtleticodelRosario_V_Alumni)
 

@@ -9,9 +9,9 @@ categories: rugby "Top 14 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Stade Toulousain to win by 1.17, and Racing 92 won by 11.0. That's an absolute error of 12.2 for the margin of victory, while my average absolute error has been 14.2 over the past six months. This prediction was more accurate than 46.3% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Stade Toulousain to win by 1.28, and Racing 92 won by 11.0. That's an absolute error of 12.3 for the margin of victory, while my average absolute error has been 14.2 over the past six months. This prediction was more accurate than 45.2% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 51.0. That's an absolute error of 0.5 compared to a six month average of 13.9. This prediction was more accurate than 97.6% of my recent predictions.
+For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 51.0. That's an absolute error of 0.5 compared to a six month average of 14.0. This prediction was more accurate than 97.2% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 51.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Racing 92 to win by 7.74,  and Racing 92 won by 11.0. That's an absolute error of 3.3 for the margin of victory, while the average error as been 14.0 for the past six months. So this prediction was more accurate than 72.1% of my recent predictions.
+With the player model, I predicted Racing 92 to win by 7.52,  and Racing 92 won by 11.0. That's an absolute error of 3.5 for the margin of victory, while the average error as been 14.0 for the past six months. So this prediction was more accurate than 69.7% of my recent predictions.
 ## Projected Performances - Player Model
 
 
