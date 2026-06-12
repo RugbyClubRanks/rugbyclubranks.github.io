@@ -1,6 +1,6 @@
 ---
 title: "Gallagher Premiership 25/26"
-date: 2026-06-11 6:00:00 -0500
+date: 2026-06-12 6:00:00 -0500
 categories: model review projection
 layout: article
 aside:
@@ -35,10 +35,10 @@ aside:
 
 | Club               |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:-------------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Bath Rugby         |         1 |            0.791 |                    5.421 |                           0.143 |                              |                          3.421 |
-| Northampton Saints |         1 |            0.66  |                    3.162 |                           0.227 |                              |                          3.017 |
-| Leicester Tigers   |         1 |            0.265 |                   -3.162 |                           0.418 |                              |                          1.628 |
-| Exeter Chiefs      |         1 |            0.152 |                   -5.421 |                           0.435 |                              |                          1.157 |
+| Bath Rugby         |         1 |            0.794 |                    5.363 |                           0.148 |                              |                          3.402 |
+| Northampton Saints |         1 |            0.755 |                    4.522 |                           0.171 |                              |                          3.299 |
+| Leicester Tigers   |         1 |            0.191 |                   -4.522 |                           0.453 |                              |                          1.325 |
+| Exeter Chiefs      |         1 |            0.167 |                   -5.363 |                           0.433 |                              |                          1.179 |
 
 
 
@@ -47,10 +47,10 @@ aside:
 
 | Club                |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:--------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Northampton Saints  |       19 | 14.66  |              160.162 |                 1.227 |                 15 |               77.017 |
-| Bath Rugby          |       19 | 13.791 |              227.421 |                 3.143 |                 14 |               72.421 |
-| Exeter Chiefs       |       19 | 11.152 |              148.579 |                 5.435 |                 14 |               66.157 |
-| Leicester Tigers    |       19 | 12.265 |              174.838 |                 3.418 |                 12 |               64.628 |
+| Northampton Saints  |       19 | 14.755 |              161.522 |                 1.171 |                 15 |               77.299 |
+| Bath Rugby          |       19 | 13.794 |              227.363 |                 3.148 |                 14 |               72.402 |
+| Exeter Chiefs       |       19 | 11.167 |              148.637 |                 5.433 |                 14 |               66.179 |
+| Leicester Tigers    |       19 | 12.191 |              173.478 |                 3.453 |                 12 |               64.325 |
 | Saracens            |       18 | 10     |              179     |                 4     |                 12 |               56     |
 | Bristol Rugby       |       18 | 11     |               16     |                 1     |                  9 |               54     |
 | Sale Sharks         |       18 |  5     |              -78     |                 6     |                 10 |               36     |
@@ -65,7 +65,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 78.3% | 15.7 |
+| Club Level | 78.3% | 15.6 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -77,7 +77,7 @@ aside:
 ### Northampton Saints V Leicester Tigers on 2026/06/12
 
 
-Average Margin: Northampton Saints by 3.2
+Average Margin: Northampton Saints by 4.5
 
 <p float="left">
 <img src="plots/2026-06-12-NorthamptonSaints_V_LeicesterTigers_club_performances.png" width="32%" />

@@ -1,6 +1,6 @@
 ---
 title: "Major League Rugby 2026"
-date: 2026-06-11 6:00:00 -0500
+date: 2026-06-12 6:00:00 -0500
 categories: model review projection
 layout: article
 aside:
@@ -31,8 +31,8 @@ aside:
 
 | Club              |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:------------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| California Legion |         2 |            0.991 |                    7.116 |                           0.292 |                              |                          4.338 |
-| Seattle Seawolves |         2 |            0.968 |                   -7.116 |                           0.23  |                              |                          4.184 |
+| Seattle Seawolves |         2 |            1.032 |                   -3.651 |                           0.263 |                              |                          4.473 |
+| California Legion |         2 |            0.927 |                    3.651 |                           0.314 |                              |                          4.104 |
 
 
 
@@ -42,8 +42,8 @@ aside:
 | Club                   |   Played |   Wins |   Point Differential |   Losing Bonus Points | Try Bonus Points   |   Competition Points |
 |:-----------------------|---------:|-------:|---------------------:|----------------------:|:-------------------|---------------------:|
 | Chicago Hounds         |       11 | 10     |              185     |                 0     |                    |               40     |
-| Seattle Seawolves      |       12 |  6.968 |               -6.116 |                 0.23  |                    |               28.184 |
-| California Legion      |       12 |  5.991 |               62.116 |                 1.292 |                    |               25.338 |
+| Seattle Seawolves      |       12 |  7.032 |               -2.651 |                 0.263 |                    |               28.473 |
+| California Legion      |       12 |  5.927 |               58.651 |                 1.314 |                    |               25.104 |
 | Old Glory DC           |       10 |  4     |              -58     |                 2     |                    |               18     |
 | New England Free Jacks |        9 |  3     |              -51     |                 2     |                    |               14     |
 | Anthem RC              |       10 |  2     |             -132     |                 0     |                    |                8     |
@@ -55,7 +55,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 62.5% | 21.1 |
+| Club Level | 62.5% | 20.7 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -67,7 +67,7 @@ aside:
 ### California Legion V Seattle Seawolves on 2026/06/03
 
 
-Average Margin: California Legion by 13.7
+Average Margin: California Legion by 11.6
 
 <p float="left">
 <img src="plots/2026-06-03-CaliforniaLegion_V_SeattleSeawolves_club_performances.png" width="32%" />
@@ -80,7 +80,7 @@ Average Margin: California Legion by 13.7
 ### Seattle Seawolves V California Legion on 2026/06/14
 
 
-Average Margin: Seattle Seawolves by 6.6
+Average Margin: Seattle Seawolves by 8.0
 
 <p float="left">
 <img src="plots/2026-06-14-SeattleSeawolves_V_CaliforniaLegion_club_performances.png" width="32%" />

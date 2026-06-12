@@ -58,15 +58,13 @@ Last Two Week Error: 22.93 points per match
 
 [In depth model review and projections for Super Rugby Pacific 2026](comp_files/Super_Rugby_Pacific_2026)
 
-Competition Accuracy: 60 of 80 (75.0%)
+Competition Accuracy: 61 of 81 (75.31%)
 
-Competition Error: 13.1 points per match
+Competition Error: 13.32 points per match
 
-Last Two Week Accuracy: 3 of 3 (100.0%)
+Last Two Week Accuracy: 4 of 4 (100.0%)
 
-Last Two Week Error: 18.5 points per match
-
-[2026/06/12 - Chiefs V Crusaders](projections/2026-06-12-Chiefs_V_Crusaders)
+Last Two Week Error: 21.66 points per match
 
 [2026/06/13 - Hurricanes V Blues](projections/2026-06-13-Hurricanes_V_Blues)
 ## Top 14
@@ -108,11 +106,11 @@ Last Two Week Error: 4.24 points per match
 
 Competition Accuracy: 34 of 56 (60.71%)
 
-Competition Error: 12.53 points per match
+Competition Error: 12.54 points per match
 
 Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 9.57 points per match
+Last Two Week Error: 9.65 points per match
 
 [2026/06/20 - Alumni V Los Tilos](projections/2026-06-20-Alumni_V_LosTilos)
 

@@ -9,7 +9,7 @@ categories: rugby "Gallagher Premiership 25/26" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Bath Rugby to win by 5.12, and Bath Rugby won by 2.0. That's an absolute error of 3.1 for the margin of victory, while my average absolute error has been 14.2 over the past six months. This prediction was more accurate than 84.4% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Bath Rugby to win by 5.07, and Bath Rugby won by 2.0. That's an absolute error of 3.1 for the margin of victory, while my average absolute error has been 14.2 over the past six months. This prediction was more accurate than 84.6% of my recent predictions.
 
 For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 46.0. That's an absolute error of 4.5 compared to a six month average of 14.0. This prediction was more accurate than 80.1% of my recent predictions.
 ## Projected Performances - Club Model
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 50.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Bath Rugby to win by 7.83,  and Bath Rugby won by 2.0. That's an absolute error of 5.8 for the margin of victory, while the average error as been 14.0 for the past six months. So this prediction was more accurate than 60.6% of my recent predictions.
+With the player model, I predicted Bath Rugby to win by 7.98,  and Bath Rugby won by 2.0. That's an absolute error of 6.0 for the margin of victory, while the average error as been 14.0 for the past six months. So this prediction was more accurate than 60.4% of my recent predictions.
 ## Projected Performances - Player Model
 
 

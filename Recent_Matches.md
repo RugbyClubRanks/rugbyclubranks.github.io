@@ -27,6 +27,26 @@ Last Two Week Error: 13.16 points per match
 [2026/06/06 - Harlequins V Northampton Saints, 38.0 to 31.0](reviews/2026-06-06-Harlequins_V_NorthamptonSaints)
 
 [2026/06/06 - Gloucester Rugby V Newcastle Red Bulls, 54.0 to 21.0](reviews/2026-06-06-GloucesterRugby_V_NewcastleRedBulls)
+## Super Rugby Pacific
+
+
+[In depth model review and projections for Super Rugby Pacific 2026](comp_files/Super_Rugby_Pacific_2026)
+
+Competition Accuracy: 61 of 81 (75.31%)
+
+Competition Error: 13.32 points per match
+
+Last Two Week Accuracy: 4 of 4 (100.0%)
+
+Last Two Week Error: 21.66 points per match
+
+[2026/06/05 - Hurricanes V Brumbies, 66.0 to 12.0](reviews/2026-06-05-Hurricanes_V_Brumbies)
+
+[2026/06/12 - Chiefs V Crusaders, 49.0 to 12.0](reviews/2026-06-12-Chiefs_V_Crusaders)
+
+[2026/06/06 - Crusaders V Blues, 52.0 to 31.0](reviews/2026-06-06-Crusaders_V_Blues)
+
+[2026/06/06 - Chiefs V Queensland Reds, 46.0 to 24.0](reviews/2026-06-06-Chiefs_V_QueenslandReds)
 ## United Rugby Championship
 
 
@@ -69,24 +89,6 @@ Last Two Week Error: 13.1 points per match
 [2026/06/06 - Bordeaux Begles V Clermont Auvergne, 31.0 to 34.0](reviews/2026-06-06-BordeauxBegles_V_ClermontAuvergne)
 
 [2026/06/06 - Bayonne V Perpignan, 52.0 to 7.0](reviews/2026-06-06-Bayonne_V_Perpignan)
-## Super Rugby Pacific
-
-
-[In depth model review and projections for Super Rugby Pacific 2026](comp_files/Super_Rugby_Pacific_2026)
-
-Competition Accuracy: 60 of 80 (75.0%)
-
-Competition Error: 13.1 points per match
-
-Last Two Week Accuracy: 3 of 3 (100.0%)
-
-Last Two Week Error: 18.5 points per match
-
-[2026/06/06 - Crusaders V Blues, 52.0 to 31.0](reviews/2026-06-06-Crusaders_V_Blues)
-
-[2026/06/06 - Chiefs V Queensland Reds, 46.0 to 24.0](reviews/2026-06-06-Chiefs_V_QueenslandReds)
-
-[2026/06/05 - Hurricanes V Brumbies, 66.0 to 12.0](reviews/2026-06-05-Hurricanes_V_Brumbies)
 ## PWR
 
 
@@ -164,11 +166,11 @@ Last Two Week Error: 7.73 points per match
 
 Competition Accuracy: 34 of 56 (60.71%)
 
-Competition Error: 12.53 points per match
+Competition Error: 12.54 points per match
 
 Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 9.57 points per match
+Last Two Week Error: 9.65 points per match
 
 [2026/06/06 - Atlético del Rosario V Alumni, 23.0 to 38.0](reviews/2026-06-06-AtleticodelRosario_V_Alumni)
 
