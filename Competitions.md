@@ -8,7 +8,7 @@ key: page-recents
 ## International Test Match
 
 
-[2026](comp_files/International_Test_Match_2026) - Prediction Accuracy: 75.0% 
+[2026](comp_files/International_Test_Match_2026) - Prediction Accuracy: 87.5% 
 
 [2025](comp_files/International_Test_Match_2025) - Prediction Accuracy: 71.6% 
 
@@ -584,7 +584,7 @@ key: page-recents
 ## Gallagher Premiership
 
 
-[25/26](comp_files/Gallagher_Premiership_2526) - Prediction Accuracy: 78.3% 
+[25/26](comp_files/Gallagher_Premiership_2526) - Prediction Accuracy: 76.3% 
 
 [24/25](comp_files/Gallagher_Premiership_2425) - Prediction Accuracy: 71.0% 
 
@@ -632,7 +632,7 @@ key: page-recents
 ## Top 14
 
 
-[25/26](comp_files/Top_14_2526) - Prediction Accuracy: 76.3% 
+[25/26](comp_files/Top_14_2526) - Prediction Accuracy: 75.7% 
 
 [24/25](comp_files/Top_14_2425) - Prediction Accuracy: 75.1% 
 
@@ -678,7 +678,7 @@ key: page-recents
 ## Super Rugby Pacific
 
 
-[2026](comp_files/Super_Rugby_Pacific_2026) - Prediction Accuracy: 75.6% 
+[2026](comp_files/Super_Rugby_Pacific_2026) - Prediction Accuracy: 75.9% 
 
 [2025](comp_files/Super_Rugby_Pacific_2025) - Prediction Accuracy: 66.3% 
 
@@ -1258,7 +1258,7 @@ key: page-recents
 ## URBA Top 14
 
 
-[2026](comp_files/URBA_Top_14_2026) - Prediction Accuracy: 67.9% 
+[2026](comp_files/URBA_Top_14_2026) - Prediction Accuracy: 77.1% 
 ## prorugby
 
 
