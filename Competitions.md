@@ -449,6 +449,16 @@ key: page-recents
 [2017](comp_files/Womens_Rugby_World_Cup_2017) - Prediction Accuracy: 83.3% 
 
 [2014](comp_files/Womens_Rugby_World_Cup_2014) - Prediction Accuracy: 75.0% 
+## U20 Championship
+
+
+[2026](comp_files/U20_Championship_2026)
+
+[2025](comp_files/U20_Championship_2025) - Prediction Accuracy: 63.3% 
+
+[2024](comp_files/U20_Championship_2024) - Prediction Accuracy: 66.7% 
+
+[2023](comp_files/U20_Championship_2023) - Prediction Accuracy: 60.0% 
 ## U20 Six Nations
 
 
@@ -459,14 +469,6 @@ key: page-recents
 [2024](comp_files/U20_Six_Nations_2024) - Prediction Accuracy: 66.7% 
 
 [2023](comp_files/U20_Six_Nations_2023) - Prediction Accuracy: 46.7% 
-## U20 Championship
-
-
-[2025](comp_files/U20_Championship_2025) - Prediction Accuracy: 63.3% 
-
-[2024](comp_files/U20_Championship_2024) - Prediction Accuracy: 66.7% 
-
-[2023](comp_files/U20_Championship_2023) - Prediction Accuracy: 60.0% 
 ## Rugby Union Hybrid Friendlies
 
 
@@ -483,12 +485,6 @@ key: page-recents
 [2021](comp_files/Lions_Tour_2021) - Prediction Accuracy: 57.1% 
 
 [2017](comp_files/Lions_Tour_2017) - Prediction Accuracy: 50.0% 
-## WXV 2
-
-
-[2024](comp_files/WXV_2_2024) - Prediction Accuracy: 44.4% 
-
-[2023](comp_files/WXV_2_2023) - Prediction Accuracy: 77.8% 
 ## U20 Rugby Championship
 
 
@@ -501,6 +497,12 @@ key: page-recents
 [Status](comp_files/Developmental_International_2025)
 
 [Status](comp_files/Developmental_International_2024) - Prediction Accuracy: 69.5% 
+## WXV 2
+
+
+[2024](comp_files/WXV_2_2024) - Prediction Accuracy: 44.4% 
+
+[2023](comp_files/WXV_2_2023) - Prediction Accuracy: 77.8% 
 ## WXV 3
 
 
@@ -632,7 +634,7 @@ key: page-recents
 ## Top 14
 
 
-[25/26](comp_files/Top_14_2526) - Prediction Accuracy: 75.7% 
+[25/26](comp_files/Top_14_2526) - Prediction Accuracy: 75.8% 
 
 [24/25](comp_files/Top_14_2425) - Prediction Accuracy: 75.1% 
 
@@ -876,7 +878,7 @@ key: page-recents
 ## PWR
 
 
-[25/26](comp_files/PWR_2526) - Prediction Accuracy: 77.0% 
+[25/26](comp_files/PWR_2526) - Prediction Accuracy: 76.0% 
 
 [24/25](comp_files/PWR_2425) - Prediction Accuracy: 76.0% 
 
@@ -1258,7 +1260,7 @@ key: page-recents
 ## URBA Top 14
 
 
-[2026](comp_files/URBA_Top_14_2026) - Prediction Accuracy: 77.1% 
+[2026](comp_files/URBA_Top_14_2026) - Prediction Accuracy: 74.3% 
 ## prorugby
 
 
