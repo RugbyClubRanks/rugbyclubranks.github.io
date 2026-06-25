@@ -36,10 +36,6 @@ Competition Accuracy: 56 of 74 (75.68%)
 
 Competition Error: 17.27 points per match
 
-Last Two Week Accuracy: 1 of 2 (50.0%)
-
-Last Two Week Error: 15.99 points per match
-
 [2026/06/28 - Saracens Women V Trailfinders Women](projections/2026-06-28-SaracensWomen_V_TrailfindersWomen)
 ## Top 14
 
@@ -50,9 +46,9 @@ Competition Accuracy: 143 of 188 (76.06%)
 
 Competition Error: 14.3 points per match
 
-Last Two Week Accuracy: 3 of 5 (60.0%)
+Last Two Week Accuracy: 2 of 2 (100.0%)
 
-Last Two Week Error: 22.58 points per match
+Last Two Week Error: 20.9 points per match
 
 [2026/06/27 - Stade Toulousain V Montpellier Herault](projections/2026-06-27-StadeToulousain_V_MontpellierHerault)
 # Domestic Competitions
@@ -64,13 +60,13 @@ Last Two Week Error: 22.58 points per match
 
 Competition Accuracy: 39 of 63 (61.9%)
 
-Competition Error: 12.2 points per match
+Competition Error: 12.33 points per match
 
 Last Two Week Accuracy: 5 of 7 (71.43%)
 
-Last Two Week Error: 9.55 points per match
+Last Two Week Error: 10.67 points per match
 
-[2026/06/27 - Atlético del Rosario V Hindu](projections/2026-06-27-AtleticodelRosario_V_Hindu)
+[2026/06/27 - Alumni V CASI](projections/2026-06-27-Alumni_V_Alumni)
 
 [2026/07/04 - CUBA V Alumni](projections/2026-07-04-CUBA_V_Alumni)
 
@@ -92,7 +88,7 @@ Last Two Week Error: 9.55 points per match
 
 [2026/07/04 - CASI V Champagnat](projections/2026-07-04-CASI_V_Champagnat)
 
-[2026/06/27 - Buenos Aires V SIC](projections/2026-06-27-BuenosAires_V_SIC)
+[2026/06/27 - Atlético del Rosario V Hindu](projections/2026-06-27-AtleticodelRosario_V_AtleticodelRosario)
 
 [2026/07/04 - Buenos Aires V Newman](projections/2026-07-04-BuenosAires_V_Newman)
 
@@ -100,14 +96,14 @@ Last Two Week Error: 9.55 points per match
 
 [2026/07/04 - Atlético del Rosario V La Plata](projections/2026-07-04-AtleticodelRosario_V_LaPlata)
 
-[2026/06/27 - Regatas Bella Vista V La Plata](projections/2026-06-27-RegatasBellaVista_V_LaPlata)
+[2026/06/27 - La Plata V Regatas Bella Vista](projections/2026-06-27-LaPlata_V_LaPlata)
 
-[2026/06/27 - Los Tilos V Champagnat](projections/2026-06-27-LosTilos_V_Champagnat)
+[2026/06/27 - Champagnat V Los Tilos](projections/2026-06-27-Champagnat_V_Champagnat)
 
-[2026/06/27 - Los Matreros V Belgrano AC](projections/2026-06-27-LosMatreros_V_BelgranoAC)
+[2026/06/27 - CUBA V Newman](projections/2026-06-27-CUBA_V_CUBA)
 
-[2026/06/27 - CUBA V Newman](projections/2026-06-27-CUBA_V_Newman)
+[2026/06/27 - Buenos Aires V SIC](projections/2026-06-27-BuenosAires_V_SIC)
 
-[2026/06/27 - CASI V Alumni](projections/2026-06-27-CASI_V_Alumni)
+[2026/06/27 - Belgrano AC V Los Matreros](projections/2026-06-27-BelgranoAC_V_BelgranoAC)
 
 [2026/07/11 - Regatas Bella Vista V Atlético del Rosario](projections/2026-07-11-RegatasBellaVista_V_AtleticodelRosario)

@@ -12,11 +12,11 @@ key: page-recents
 
 Competition Accuracy: 2 of 2 (100.0%)
 
-Competition Error: 12.53 points per match
+Competition Error: 12.45 points per match
 
 Last Two Week Accuracy: 2 of 2 (100.0%)
 
-Last Two Week Error: 12.53 points per match
+Last Two Week Error: 12.45 points per match
 
 [2026/06/19 - France A V England A, 35.0 to 19.0](reviews/2026-06-19-FranceA_V_EnglandA)
 
@@ -32,9 +32,9 @@ Competition Accuracy: 72 of 93 (77.42%)
 
 Competition Error: 15.65 points per match
 
-Last Two Week Accuracy: 2 of 3 (66.67%)
+Last Two Week Accuracy: 1 of 1 (100.0%)
 
-Last Two Week Error: 6.79 points per match
+Last Two Week Error: 3.5 points per match
 
 [2026/06/20 - Northampton Saints V Exeter Chiefs, 26.0 to 17.0](reviews/2026-06-20-NorthamptonSaints_V_ExeterChiefs)
 ## Major League Rugby
@@ -44,15 +44,15 @@ Last Two Week Error: 6.79 points per match
 
 Competition Accuracy: 21 of 33 (63.64%)
 
-Competition Error: 21.04 points per match
+Competition Error: 20.89 points per match
 
-Last Two Week Accuracy: 3 of 3 (100.0%)
+Last Two Week Accuracy: 1 of 1 (100.0%)
 
-Last Two Week Error: 11.82 points per match
+Last Two Week Error: 7.59 points per match
 
 [2026/06/15 - Chicago Hounds V Old Glory DC, 59.0 to 22.0](reviews/2026-06-15-ChicagoHounds_V_OldGloryDC)
 
-[2026/06/21 - California Legion V Chicago Hounds, 35.0 to 17.0](reviews/2026-06-21-CaliforniaLegion_V_CaliforniaLegion)
+[2026/06/21 - Chicago Hounds V California Legion, 35.0 to 17.0](reviews/2026-06-21-ChicagoHounds_V_CaliforniaLegion)
 ## Super Rugby Pacific
 
 
@@ -62,9 +62,9 @@ Competition Accuracy: 63 of 83 (75.9%)
 
 Competition Error: 13.9 points per match
 
-Last Two Week Accuracy: 3 of 3 (100.0%)
+Last Two Week Accuracy: 1 of 1 (100.0%)
 
-Last Two Week Error: 35.12 points per match
+Last Two Week Error: 50.77 points per match
 
 [2026/06/20 - Hurricanes V Chiefs, 60.0 to 5.0](reviews/2026-06-20-Hurricanes_V_Chiefs)
 ## Top 14
@@ -76,9 +76,9 @@ Competition Accuracy: 143 of 188 (76.06%)
 
 Competition Error: 14.3 points per match
 
-Last Two Week Accuracy: 3 of 5 (60.0%)
+Last Two Week Accuracy: 2 of 2 (100.0%)
 
-Last Two Week Error: 22.58 points per match
+Last Two Week Error: 20.9 points per match
 
 [2026/06/19 - Stade Toulousain V Racing 92, 71.0 to 17.0](reviews/2026-06-19-StadeToulousain_V_Racing92)
 
@@ -106,22 +106,22 @@ Last Two Week Error: 21.39 points per match
 
 Competition Accuracy: 39 of 63 (61.9%)
 
-Competition Error: 12.2 points per match
+Competition Error: 12.33 points per match
 
 Last Two Week Accuracy: 5 of 7 (71.43%)
 
-Last Two Week Error: 9.55 points per match
+Last Two Week Error: 10.67 points per match
 
-[2026/06/20 - Alumni V Los Tilos, 52.0 to 26.0](reviews/2026-06-20-Alumni_V_LosTilos)
+[2026/06/20 - Alumni V Los Tilos, 52.0 to 26.0](reviews/2026-06-20-Alumni_V_Alumni)
 
-[2026/06/20 - Belgrano AC V Buenos Aires, 36.0 to 20.0](reviews/2026-06-20-BelgranoAC_V_BuenosAires)
+[2026/06/20 - Atlético del Rosario V Champagnat, 22.0 to 27.0](reviews/2026-06-20-AtleticodelRosario_V_AtleticodelRosario)
 
-[2026/06/20 - Champagnat V Atlético del Rosario, 22.0 to 27.0](reviews/2026-06-20-Champagnat_V_AtleticodelRosario)
+[2026/06/20 - Belgrano AC V Buenos Aires, 36.0 to 20.0](reviews/2026-06-20-BelgranoAC_V_BelgranoAC)
 
-[2026/06/20 - Hindu V Regatas Bella Vista, 20.0 to 23.0](reviews/2026-06-20-Hindu_V_RegatasBellaVista)
+[2026/06/20 - CASI V Newman, 37.0 to 28.0](reviews/2026-06-20-CASI_V_CASI)
+
+[2026/06/20 - Hindu V Regatas Bella Vista, 20.0 to 23.0](reviews/2026-06-20-Hindu_V_Hindu)
 
 [2026/06/20 - La Plata V Los Matreros, 44.0 to 23.0](reviews/2026-06-20-LaPlata_V_LosMatreros)
-
-[2026/06/20 - Newman V CASI, 37.0 to 28.0](reviews/2026-06-20-Newman_V_CASI)
 
 [2026/06/20 - SIC V CUBA, 40.0 to 25.0](reviews/2026-06-20-SIC_V_CUBA)
