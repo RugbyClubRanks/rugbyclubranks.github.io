@@ -25,6 +25,22 @@ key: page-projections
 [2026/06/27 - South Africa U20 V Uruguay U20](projections/2026-06-27-SouthAfricaU20_V_UruguayU20)
 
 [2026/06/27 - Wales U20 V Georgia U20](projections/2026-06-27-WalesU20_V_GeorgiaU20)
+
+[2026/07/02 - Argentina U20 V Ireland U20](projections/2026-07-02-ArgentinaU20_V_IrelandU20)
+
+[2026/07/02 - Australia U20 V Fiji U20](projections/2026-07-02-AustraliaU20_V_FijiU20)
+
+[2026/07/02 - England U20 V USA U20](projections/2026-07-02-EnglandU20_V_USAU20)
+
+[2026/07/02 - France U20 V Spain U20](projections/2026-07-02-FranceU20_V_SpainU20)
+
+[2026/07/02 - Italy U20 V Japan U20](projections/2026-07-02-ItalyU20_V_JapanU20)
+
+[2026/07/02 - New Zealand U20 V Scotland U20](projections/2026-07-02-NewZealandU20_V_ScotlandU20)
+
+[2026/07/02 - South Africa U20 V Georgia U20](projections/2026-07-02-SouthAfricaU20_V_GeorgiaU20)
+
+[2026/07/02 - Wales U20 V Uruguay U20](projections/2026-07-02-WalesU20_V_UruguayU20)
 # Top Flight Competitions
 
 ## PWR
@@ -60,11 +76,11 @@ Last Two Week Error: 20.9 points per match
 
 Competition Accuracy: 39 of 63 (61.9%)
 
-Competition Error: 12.33 points per match
+Competition Error: 12.32 points per match
 
 Last Two Week Accuracy: 5 of 7 (71.43%)
 
-Last Two Week Error: 10.67 points per match
+Last Two Week Error: 10.61 points per match
 
 [2026/06/27 - Alumni V CASI](projections/2026-06-27-Alumni_V_Alumni)
 

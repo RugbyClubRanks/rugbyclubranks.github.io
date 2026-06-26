@@ -12,11 +12,11 @@ key: page-recents
 
 Competition Accuracy: 2 of 2 (100.0%)
 
-Competition Error: 12.45 points per match
+Competition Error: 12.53 points per match
 
 Last Two Week Accuracy: 2 of 2 (100.0%)
 
-Last Two Week Error: 12.45 points per match
+Last Two Week Error: 12.53 points per match
 
 [2026/06/19 - France A V England A, 35.0 to 19.0](reviews/2026-06-19-FranceA_V_EnglandA)
 
@@ -106,11 +106,11 @@ Last Two Week Error: 21.39 points per match
 
 Competition Accuracy: 39 of 63 (61.9%)
 
-Competition Error: 12.33 points per match
+Competition Error: 12.32 points per match
 
 Last Two Week Accuracy: 5 of 7 (71.43%)
 
-Last Two Week Error: 10.67 points per match
+Last Two Week Error: 10.61 points per match
 
 [2026/06/20 - Alumni V Los Tilos, 52.0 to 26.0](reviews/2026-06-20-Alumni_V_Alumni)
 

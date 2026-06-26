@@ -9,9 +9,9 @@ categories: rugby "U20 Championship 2026" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Australia U20 to win by 21.18.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Australia U20 to win by 20.6.
 
-Our Over/Under is 52.5 - and combined with the spread above, we have a predicted scoreline of 37 to 16
+Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 36 to 15
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ## Projected Performances - Club Model

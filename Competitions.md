@@ -634,7 +634,7 @@ key: page-recents
 ## Top 14
 
 
-[25/26](comp_files/Top_14_2526) - Prediction Accuracy: 75.8% 
+[25/26](comp_files/Top_14_2526) - Prediction Accuracy: 75.3% 
 
 [24/25](comp_files/Top_14_2425) - Prediction Accuracy: 75.1% 
 
@@ -1260,7 +1260,7 @@ key: page-recents
 ## URBA Top 14
 
 
-[2026](comp_files/URBA_Top_14_2026) - Prediction Accuracy: 72.1% 
+[2026](comp_files/URBA_Top_14_2026) - Prediction Accuracy: 74.3% 
 ## prorugby
 
 
