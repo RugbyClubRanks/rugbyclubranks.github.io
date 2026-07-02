@@ -5,98 +5,84 @@ key: page-recents
 ---
 # International Competitions
 
-## Test Matchs
+## International Test Match
 
 
-[In depth model review and projections for Test Matchs 2026](comp_files/Test_Matchs_2026)
+[In depth model review and projections for International Test Match 2026](comp_files/International_Test_Match_2026)
 
-Competition Accuracy: 2 of 2 (100.0%)
+Competition Accuracy: 4 of 6 (66.67%)
 
-Competition Error: 12.53 points per match
+Competition Error: 12.4 points per match
 
-Last Two Week Accuracy: 2 of 2 (100.0%)
+Last Two Week Accuracy: 1 of 2 (50.0%)
 
-Last Two Week Error: 12.53 points per match
+Last Two Week Error: 6.07 points per match
 
-[2026/06/19 - France A V England A, 35.0 to 19.0](reviews/2026-06-19-FranceA_V_EnglandA)
+[2026/06/27 - Barbarians V Wales, 31.0 to 33.0](reviews/2026-06-27-Barbarians_V_Wales)
 
-[2026/06/20 - South Africa V Barbarians, 80.0 to 31.0](reviews/2026-06-20-SouthAfrica_V_Barbarians)
+[2026/06/27 - Japan A V Maori All Blacks, 31.0 to 38.0](reviews/2026-06-27-JapanA_V_MaoriAllBlacks)
+## U20 Championship
+
+
+[In depth model review and projections for U20 Championship 2026](comp_files/U20_Championship_2026)
+
+Competition Accuracy: 7 of 10 (70.0%)
+
+Competition Error: 24.53 points per match
+
+Last Two Week Accuracy: 7 of 10 (70.0%)
+
+Last Two Week Error: 24.53 points per match
+
+[2026/06/27 - Argentina U20 V USA U20, 78.0 to 14.0](reviews/2026-06-27-ArgentinaU20_V_USAU20)
+
+[2026/06/27 - Australia U20 V Spain U20, 90.0 to 22.0](reviews/2026-06-27-AustraliaU20_V_SpainU20)
+
+[2026/06/27 - England U20 V Ireland U20, 34.0 to 27.0](reviews/2026-06-27-EnglandU20_V_IrelandU20)
+
+[2026/06/27 - France U20 V Fiji U20, 45.0 to 15.0](reviews/2026-06-27-FranceU20_V_FijiU20)
+
+[2026/06/27 - Italy U20 V Scotland U20, 32.0 to 38.0](reviews/2026-06-27-ItalyU20_V_ScotlandU20)
+
+[2026/06/27 - New Zealand U20 V Japan U20, 38.0 to 21.0](reviews/2026-06-27-NewZealandU20_V_JapanU20)
+
+[2026/06/27 - South Africa U20 V Uruguay U20, 104.0 to 7.0](reviews/2026-06-27-SouthAfricaU20_V_UruguayU20)
+
+[2026/06/27 - Wales U20 V Georgia U20, 25.0 to 24.0](reviews/2026-06-27-WalesU20_V_GeorgiaU20)
+
+[2026/07/02 - France U20 V Spain U20, 57.0 to 32.0](reviews/2026-07-02-FranceU20_V_SpainU20)
+
+[2026/07/02 - Wales U20 V Uruguay U20, 47.0 to 0.0](reviews/2026-07-02-WalesU20_V_UruguayU20)
 # Top Flight Competitions
 
-## Gallagher Premiership
+## PWR
 
 
-[In depth model review and projections for Gallagher Premiership 25/26](comp_files/Gallagher_Premiership_2526)
+[In depth model review and projections for PWR 25/26](comp_files/PWR_2526)
 
-Competition Accuracy: 72 of 93 (77.42%)
+Competition Accuracy: 57 of 75 (76.0%)
 
-Competition Error: 15.65 points per match
-
-Last Two Week Accuracy: 1 of 1 (100.0%)
-
-Last Two Week Error: 3.5 points per match
-
-[2026/06/20 - Northampton Saints V Exeter Chiefs, 26.0 to 17.0](reviews/2026-06-20-NorthamptonSaints_V_ExeterChiefs)
-## Major League Rugby
-
-
-[In depth model review and projections for Major League Rugby 2026](comp_files/Major_League_Rugby_2026)
-
-Competition Accuracy: 21 of 33 (63.64%)
-
-Competition Error: 20.89 points per match
+Competition Error: 17.3 points per match
 
 Last Two Week Accuracy: 1 of 1 (100.0%)
 
-Last Two Week Error: 7.59 points per match
+Last Two Week Error: 19.59 points per match
 
-[2026/06/15 - Chicago Hounds V Old Glory DC, 59.0 to 22.0](reviews/2026-06-15-ChicagoHounds_V_OldGloryDC)
-
-[2026/06/21 - Chicago Hounds V California Legion, 35.0 to 17.0](reviews/2026-06-21-ChicagoHounds_V_CaliforniaLegion)
-## Super Rugby Pacific
-
-
-[In depth model review and projections for Super Rugby Pacific 2026](comp_files/Super_Rugby_Pacific_2026)
-
-Competition Accuracy: 63 of 83 (75.9%)
-
-Competition Error: 13.9 points per match
-
-Last Two Week Accuracy: 1 of 1 (100.0%)
-
-Last Two Week Error: 50.77 points per match
-
-[2026/06/20 - Hurricanes V Chiefs, 60.0 to 5.0](reviews/2026-06-20-Hurricanes_V_Chiefs)
+[2026/06/28 - Saracens Women V Trailfinders Women, 52.0 to 14.0](reviews/2026-06-28-SaracensWomen_V_TrailfindersWomen)
 ## Top 14
 
 
 [In depth model review and projections for Top 14 25/26](comp_files/Top_14_2526)
 
-Competition Accuracy: 143 of 188 (76.06%)
+Competition Accuracy: 144 of 189 (76.19%)
 
-Competition Error: 14.3 points per match
-
-Last Two Week Accuracy: 2 of 2 (100.0%)
-
-Last Two Week Error: 20.9 points per match
-
-[2026/06/19 - Stade Toulousain V Racing 92, 71.0 to 17.0](reviews/2026-06-19-StadeToulousain_V_Racing92)
-
-[2026/06/20 - Montpellier Herault V Stade Francais Paris, 25.0 to 15.0](reviews/2026-06-20-MontpellierHerault_V_StadeFrancaisParis)
-## United Rugby Championship
-
-
-[In depth model review and projections for United Rugby Championship 25/26](comp_files/United_Rugby_Championship_2526)
-
-Competition Accuracy: 98 of 152 (64.47%)
-
-Competition Error: 12.59 points per match
+Competition Error: 14.23 points per match
 
 Last Two Week Accuracy: 1 of 1 (100.0%)
 
-Last Two Week Error: 21.39 points per match
+Last Two Week Error: 1.17 points per match
 
-[2026/06/19 - Leinster V Bulls, 36.0 to 7.0](reviews/2026-06-19-Leinster_V_Bulls)
+[2026/06/27 - Stade Toulousain V Montpellier Herault, 28.0 to 20.0](reviews/2026-06-27-StadeToulousain_V_MontpellierHerault)
 # Domestic Competitions
 
 ## URBA Top 14
@@ -104,24 +90,24 @@ Last Two Week Error: 21.39 points per match
 
 [In depth model review and projections for URBA Top 14 2026](comp_files/URBA_Top_14_2026)
 
-Competition Accuracy: 39 of 63 (61.9%)
+Competition Accuracy: 45 of 70 (64.29%)
 
-Competition Error: 12.32 points per match
+Competition Error: 11.81 points per match
 
-Last Two Week Accuracy: 5 of 7 (71.43%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 10.61 points per match
+Last Two Week Error: 7.21 points per match
 
-[2026/06/20 - Alumni V Los Tilos, 52.0 to 26.0](reviews/2026-06-20-Alumni_V_Alumni)
+[2026/06/27 - Alumni V CASI, 28.0 to 23.0](reviews/2026-06-27-Alumni_V_Alumni)
 
-[2026/06/20 - Atlético del Rosario V Champagnat, 22.0 to 27.0](reviews/2026-06-20-AtleticodelRosario_V_AtleticodelRosario)
+[2026/06/27 - Atlético del Rosario V Hindu, 32.0 to 30.0](reviews/2026-06-27-AtleticodelRosario_V_AtleticodelRosario)
 
-[2026/06/20 - Belgrano AC V Buenos Aires, 36.0 to 20.0](reviews/2026-06-20-BelgranoAC_V_BelgranoAC)
+[2026/06/27 - Belgrano AC V Los Matreros, 38.0 to 35.0](reviews/2026-06-27-BelgranoAC_V_BelgranoAC)
 
-[2026/06/20 - CASI V Newman, 37.0 to 28.0](reviews/2026-06-20-CASI_V_CASI)
+[2026/06/27 - Buenos Aires V SIC, 13.0 to 37.0](reviews/2026-06-27-BuenosAires_V_SIC)
 
-[2026/06/20 - Hindu V Regatas Bella Vista, 20.0 to 23.0](reviews/2026-06-20-Hindu_V_Hindu)
+[2026/06/27 - CUBA V Newman, 25.0 to 31.0](reviews/2026-06-27-CUBA_V_CUBA)
 
-[2026/06/20 - La Plata V Los Matreros, 44.0 to 23.0](reviews/2026-06-20-LaPlata_V_LosMatreros)
+[2026/06/27 - Champagnat V Los Tilos, 34.0 to 29.0](reviews/2026-06-27-Champagnat_V_Champagnat)
 
-[2026/06/20 - SIC V CUBA, 40.0 to 25.0](reviews/2026-06-20-SIC_V_CUBA)
+[2026/06/27 - La Plata V Regatas Bella Vista, 53.0 to 28.0](reviews/2026-06-27-LaPlata_V_LaPlata)
