@@ -9,9 +9,9 @@ categories: rugby "U20 Championship 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Japan U20 to win by 1.03, and New Zealand U20 won by 17.0. That's an absolute error of 18.0 for the margin of victory, while my average absolute error has been 14.4 over the past six months. This prediction was more accurate than 29.5% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Japan U20 to win by 1.36, and New Zealand U20 won by 17.0. That's an absolute error of 18.4 for the margin of victory, while my average absolute error has been 14.4 over the past six months. This prediction was more accurate than 28.7% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 57.5 and we have an actual total of 59.0. That's an absolute error of 1.5 compared to a six month average of 14.3. This prediction was more accurate than 93.5% of my recent predictions.
+For the Over/Under model, I predicted a total of 56.5 and we have an actual total of 59.0. That's an absolute error of 2.5 compared to a six month average of 14.3. This prediction was more accurate than 89.7% of my recent predictions.
 ## Projected Performances - Club Model
 
 

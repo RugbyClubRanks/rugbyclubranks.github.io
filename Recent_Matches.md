@@ -12,11 +12,11 @@ key: page-recents
 
 Competition Accuracy: 4 of 6 (66.67%)
 
-Competition Error: 12.4 points per match
+Competition Error: 12.45 points per match
 
 Last Two Week Accuracy: 1 of 2 (50.0%)
 
-Last Two Week Error: 6.07 points per match
+Last Two Week Error: 6.13 points per match
 
 [2026/06/27 - Barbarians V Wales, 31.0 to 33.0](reviews/2026-06-27-Barbarians_V_Wales)
 
@@ -26,31 +26,43 @@ Last Two Week Error: 6.07 points per match
 
 [In depth model review and projections for U20 Championship 2026](comp_files/U20_Championship_2026)
 
-Competition Accuracy: 7 of 10 (70.0%)
+Competition Accuracy: 12 of 16 (75.0%)
 
-Competition Error: 24.53 points per match
+Competition Error: 20.11 points per match
 
-Last Two Week Accuracy: 7 of 10 (70.0%)
+Last Two Week Accuracy: 12 of 16 (75.0%)
 
-Last Two Week Error: 24.53 points per match
+Last Two Week Error: 20.11 points per match
 
-[2026/06/27 - Argentina U20 V USA U20, 78.0 to 14.0](reviews/2026-06-27-ArgentinaU20_V_USAU20)
+[2026/07/02 - South Africa U20 V Georgia U20, 33.0 to 5.0](reviews/2026-07-02-SouthAfricaU20_V_GeorgiaU20)
 
-[2026/06/27 - Australia U20 V Spain U20, 90.0 to 22.0](reviews/2026-06-27-AustraliaU20_V_SpainU20)
+[2026/07/02 - New Zealand U20 V Scotland U20, 36.0 to 26.0](reviews/2026-07-02-NewZealandU20_V_ScotlandU20)
 
-[2026/06/27 - England U20 V Ireland U20, 34.0 to 27.0](reviews/2026-06-27-EnglandU20_V_IrelandU20)
+[2026/07/02 - Italy U20 V Japan U20, 41.0 to 25.0](reviews/2026-07-02-ItalyU20_V_JapanU20)
 
-[2026/06/27 - France U20 V Fiji U20, 45.0 to 15.0](reviews/2026-06-27-FranceU20_V_FijiU20)
+[2026/07/02 - France U20 V Spain U20, 57.0 to 32.0](reviews/2026-07-02-FranceU20_V_SpainU20)
 
-[2026/06/27 - Italy U20 V Scotland U20, 32.0 to 38.0](reviews/2026-06-27-ItalyU20_V_ScotlandU20)
+[2026/07/02 - England U20 V USA U20, 68.0 to 40.0](reviews/2026-07-02-EnglandU20_V_USAU20)
 
-[2026/06/27 - New Zealand U20 V Japan U20, 38.0 to 21.0](reviews/2026-06-27-NewZealandU20_V_JapanU20)
+[2026/07/02 - Australia U20 V Fiji U20, 53.0 to 17.0](reviews/2026-07-02-AustraliaU20_V_FijiU20)
 
-[2026/06/27 - South Africa U20 V Uruguay U20, 104.0 to 7.0](reviews/2026-06-27-SouthAfricaU20_V_UruguayU20)
+[2026/07/02 - Argentina U20 V Ireland U20, 62.0 to 40.0](reviews/2026-07-02-ArgentinaU20_V_IrelandU20)
 
 [2026/06/27 - Wales U20 V Georgia U20, 25.0 to 24.0](reviews/2026-06-27-WalesU20_V_GeorgiaU20)
 
-[2026/07/02 - France U20 V Spain U20, 57.0 to 32.0](reviews/2026-07-02-FranceU20_V_SpainU20)
+[2026/06/27 - South Africa U20 V Uruguay U20, 104.0 to 7.0](reviews/2026-06-27-SouthAfricaU20_V_UruguayU20)
+
+[2026/06/27 - New Zealand U20 V Japan U20, 38.0 to 21.0](reviews/2026-06-27-NewZealandU20_V_JapanU20)
+
+[2026/06/27 - Italy U20 V Scotland U20, 32.0 to 38.0](reviews/2026-06-27-ItalyU20_V_ScotlandU20)
+
+[2026/06/27 - France U20 V Fiji U20, 45.0 to 15.0](reviews/2026-06-27-FranceU20_V_FijiU20)
+
+[2026/06/27 - England U20 V Ireland U20, 34.0 to 27.0](reviews/2026-06-27-EnglandU20_V_IrelandU20)
+
+[2026/06/27 - Australia U20 V Spain U20, 90.0 to 22.0](reviews/2026-06-27-AustraliaU20_V_SpainU20)
+
+[2026/06/27 - Argentina U20 V USA U20, 78.0 to 14.0](reviews/2026-06-27-ArgentinaU20_V_USAU20)
 
 [2026/07/02 - Wales U20 V Uruguay U20, 47.0 to 0.0](reviews/2026-07-02-WalesU20_V_UruguayU20)
 # Top Flight Competitions
@@ -92,7 +104,7 @@ Last Two Week Error: 1.17 points per match
 
 Competition Accuracy: 45 of 70 (64.29%)
 
-Competition Error: 11.81 points per match
+Competition Error: 11.83 points per match
 
 Last Two Week Accuracy: 6 of 7 (85.71%)
 

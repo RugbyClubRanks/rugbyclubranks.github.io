@@ -1,6 +1,6 @@
 ---
 title: "United Rugby Championship 26/27"
-date: 2026-07-02 6:00:00 -0500
+date: 2026-07-03 6:00:00 -0500
 categories: model review projection
 layout: article
 aside:
@@ -17,13 +17,13 @@ aside:
 
 | Club             |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:-----------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Connacht         |         2 |            1.287 |                    6.711 |                           0.441 |                              |                          5.757 |
-| Stormers         |         2 |            0.931 |                   -0.596 |                           0.567 |                              |                          4.451 |
-| Ulster           |         1 |            0.936 |                   12.195 |                           0.042 |                              |                          3.822 |
-| Cardiff Rugby    |         1 |            0.908 |                   11.507 |                           0.069 |                              |                          3.739 |
-| Benetton Treviso |         1 |            0.393 |                   -1.672 |                           0.322 |                              |                          1.982 |
-| Edinburgh        |         2 |            0.311 |                  -16.638 |                           0.536 |                              |                          1.896 |
-| Zebre            |         1 |            0.073 |                  -11.507 |                           0.235 |                              |                          0.565 |
+| Connacht         |         2 |            1.286 |                    6.204 |                           0.43  |                              |                          5.746 |
+| Stormers         |         2 |            0.924 |                   -0.896 |                           0.528 |                              |                          4.408 |
+| Ulster           |         1 |            0.938 |                   11.908 |                           0.045 |                              |                          3.825 |
+| Cardiff Rugby    |         1 |            0.907 |                   11.143 |                           0.066 |                              |                          3.73  |
+| Benetton Treviso |         1 |            0.39  |                   -1.306 |                           0.345 |                              |                          1.991 |
+| Edinburgh        |         2 |            0.313 |                  -15.91  |                           0.566 |                              |                          1.944 |
+| Zebre            |         1 |            0.075 |                  -11.143 |                           0.245 |                              |                          0.581 |
 
 
 
@@ -32,13 +32,13 @@ aside:
 
 | Club             |   Played |   Wins |   Point Differential |   Losing Bonus Points | Try Bonus Points   |   Competition Points |
 |:-----------------|---------:|-------:|---------------------:|----------------------:|:-------------------|---------------------:|
-| Connacht         |        2 |  1.287 |                6.711 |                 0.441 |                    |                5.757 |
-| Stormers         |        2 |  0.931 |               -0.596 |                 0.567 |                    |                4.451 |
-| Ulster           |        1 |  0.936 |               12.195 |                 0.042 |                    |                3.822 |
-| Cardiff Rugby    |        1 |  0.908 |               11.507 |                 0.069 |                    |                3.739 |
-| Benetton Treviso |        1 |  0.393 |               -1.672 |                 0.322 |                    |                1.982 |
-| Edinburgh        |        2 |  0.311 |              -16.638 |                 0.536 |                    |                1.896 |
-| Zebre            |        1 |  0.073 |              -11.507 |                 0.235 |                    |                0.565 |
+| Connacht         |        2 |  1.286 |                6.204 |                 0.43  |                    |                5.746 |
+| Stormers         |        2 |  0.924 |               -0.896 |                 0.528 |                    |                4.408 |
+| Ulster           |        1 |  0.938 |               11.908 |                 0.045 |                    |                3.825 |
+| Cardiff Rugby    |        1 |  0.907 |               11.143 |                 0.066 |                    |                3.73  |
+| Benetton Treviso |        1 |  0.39  |               -1.306 |                 0.345 |                    |                1.991 |
+| Edinburgh        |        2 |  0.313 |              -15.91  |                 0.566 |                    |                1.944 |
+| Zebre            |        1 |  0.075 |              -11.143 |                 0.245 |                    |                0.581 |
 
 
 
@@ -46,21 +46,10 @@ aside:
 
 ## Week 1
 
-### Ulster V Edinburgh on 2026/09/25
-
-
-Average Margin: Ulster by 12.2
-
-<p float="left">
-<img src="plots/2026-09-25-Ulster_V_Edinburgh_club_performances.png" width="32%" />
-<img src="plots/2026-09-25-Ulster_V_Edinburgh_club_resultbar.png" width="32%" />
-<img src="plots/2026-09-25-Ulster_V_Edinburgh_club_spreads.png" width="32%" />
-</p>
-
 ### Connacht V Stormers on 2026/09/25
 
 
-Average Margin: Connacht by 5.0
+Average Margin: Connacht by 4.9
 
 <p float="left">
 <img src="plots/2026-09-25-Connacht_V_Stormers_club_performances.png" width="32%" />
@@ -68,12 +57,23 @@ Average Margin: Connacht by 5.0
 <img src="plots/2026-09-25-Connacht_V_Stormers_club_spreads.png" width="32%" />
 </p>
 
+### Ulster V Edinburgh on 2026/09/25
+
+
+Average Margin: Ulster by 11.9
+
+<p float="left">
+<img src="plots/2026-09-25-Ulster_V_Edinburgh_club_performances.png" width="32%" />
+<img src="plots/2026-09-25-Ulster_V_Edinburgh_club_resultbar.png" width="32%" />
+<img src="plots/2026-09-25-Ulster_V_Edinburgh_club_spreads.png" width="32%" />
+</p>
+
 ## Week 2
 
 ### Benetton Treviso V Connacht on 2026/10/02
 
 
-Average Margin: Connacht by 1.7
+Average Margin: Connacht by 1.3
 
 <p float="left">
 <img src="plots/2026-10-02-BenettonTreviso_V_Connacht_club_performances.png" width="32%" />
@@ -84,7 +84,7 @@ Average Margin: Connacht by 1.7
 ### Cardiff Rugby V Zebre on 2026/10/02
 
 
-Average Margin: Cardiff Rugby by 11.5
+Average Margin: Cardiff Rugby by 11.1
 
 <p float="left">
 <img src="plots/2026-10-02-CardiffRugby_V_Zebre_club_performances.png" width="32%" />
@@ -95,7 +95,7 @@ Average Margin: Cardiff Rugby by 11.5
 ### Edinburgh V Stormers on 2026/10/02
 
 
-Average Margin: Stormers by 4.4
+Average Margin: Stormers by 4.0
 
 <p float="left">
 <img src="plots/2026-10-02-Edinburgh_V_Stormers_club_performances.png" width="32%" />

@@ -442,7 +442,7 @@ key: page-recents
 ## U20 Championship
 
 
-[2026](comp_files/U20_Championship_2026) - Prediction Accuracy: 83.3% 
+[2026](comp_files/U20_Championship_2026) - Prediction Accuracy: 75.0% 
 
 [2025](comp_files/U20_Championship_2025) - Prediction Accuracy: 63.3% 
 
@@ -1266,7 +1266,7 @@ key: page-recents
 ## URBA Top 14
 
 
-[2026](comp_files/URBA_Top_14_2026) - Prediction Accuracy: 76.6% 
+[2026](comp_files/URBA_Top_14_2026) - Prediction Accuracy: 71.7% 
 ## prorugby
 
 
