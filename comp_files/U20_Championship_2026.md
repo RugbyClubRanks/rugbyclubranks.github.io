@@ -1,6 +1,6 @@
 ---
 title: "U20 Championship 2026"
-date: 2026-07-03 6:00:00 -0500
+date: 2026-07-06 6:00:00 -0500
 categories: model review projection
 layout: article
 aside:
@@ -41,22 +41,22 @@ aside:
 
 | Club             |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:-----------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| South Africa U20 |         1 |            0.989 |                   28.606 |                           0.006 |                              |                          3.968 |
-| New Zealand U20  |         1 |            0.946 |                   20.493 |                           0.038 |                              |                          3.836 |
-| Georgia U20      |         1 |            0.883 |                   22.412 |                           0.055 |                              |                          3.605 |
-| Ireland U20      |         1 |            0.843 |                   14.924 |                           0.071 |                              |                          3.469 |
-| Argentina U20    |         1 |            0.828 |                   13.818 |                           0.089 |                              |                          3.435 |
-| Spain U20        |         1 |            0.721 |                   12.456 |                           0.103 |                              |                          3.023 |
-| Scotland U20     |         1 |            0.627 |                    5.284 |                           0.147 |                              |                          2.713 |
-| France U20       |         1 |            0.556 |                    2.396 |                           0.18  |                              |                          2.488 |
-| Australia U20    |         1 |            0.402 |                   -2.396 |                           0.213 |                              |                          1.905 |
-| Japan U20        |         1 |            0.344 |                   -5.284 |                           0.187 |                              |                          1.621 |
-| Fiji U20         |         1 |            0.261 |                  -12.456 |                           0.124 |                              |                          1.204 |
-| England U20      |         1 |            0.155 |                  -13.818 |                           0.156 |                              |                          0.81  |
-| USA U20          |         1 |            0.144 |                  -14.924 |                           0.148 |                              |                          0.75  |
-| Uruguay U20      |         1 |            0.108 |                  -22.412 |                           0.093 |                              |                          0.543 |
-| Italy U20        |         1 |            0.047 |                  -20.493 |                           0.107 |                              |                          0.309 |
-| Wales U20        |         1 |            0.008 |                  -28.606 |                           0.044 |                              |                          0.082 |
+| South Africa U20 |         1 |            0.985 |                   28.904 |                           0.012 |                              |                          3.952 |
+| New Zealand U20  |         1 |            0.926 |                   19.809 |                           0.046 |                              |                          3.762 |
+| Georgia U20      |         1 |            0.881 |                   21.811 |                           0.057 |                              |                          3.593 |
+| Argentina U20    |         1 |            0.834 |                   13.048 |                           0.088 |                              |                          3.456 |
+| Ireland U20      |         1 |            0.809 |                   15.182 |                           0.104 |                              |                          3.386 |
+| Spain U20        |         1 |            0.739 |                   12.941 |                           0.074 |                              |                          3.064 |
+| Scotland U20     |         1 |            0.613 |                    4.673 |                           0.155 |                              |                          2.647 |
+| France U20       |         1 |            0.529 |                    1.852 |                           0.195 |                              |                          2.363 |
+| Australia U20    |         1 |            0.445 |                   -1.852 |                           0.193 |                              |                          2.025 |
+| Japan U20        |         1 |            0.367 |                   -4.673 |                           0.175 |                              |                          1.683 |
+| Fiji U20         |         1 |            0.244 |                  -12.941 |                           0.122 |                              |                          1.132 |
+| USA U20          |         1 |            0.168 |                  -15.182 |                           0.134 |                              |                          0.852 |
+| England U20      |         1 |            0.15  |                  -13.048 |                           0.174 |                              |                          0.806 |
+| Uruguay U20      |         1 |            0.113 |                  -21.811 |                           0.085 |                              |                          0.549 |
+| Italy U20        |         1 |            0.068 |                  -19.809 |                           0.097 |                              |                          0.381 |
+| Wales U20        |         1 |            0.015 |                  -28.904 |                           0.041 |                              |                          0.101 |
 
 
 
@@ -65,22 +65,22 @@ aside:
 
 | Club             |   Played |   Wins |   Point Differential |   Losing Bonus Points | Try Bonus Points   |   Competition Points |
 |:-----------------|---------:|-------:|---------------------:|----------------------:|:-------------------|---------------------:|
-| South Africa U20 |        3 |  2.989 |              153.606 |                 0.006 |                    |               11.968 |
-| New Zealand U20  |        3 |  2.946 |               47.493 |                 0.038 |                    |               11.836 |
-| Argentina U20    |        3 |  2.828 |               99.818 |                 0.089 |                    |               11.435 |
-| France U20       |        3 |  2.556 |               57.396 |                 0.18  |                    |               10.488 |
-| Australia U20    |        3 |  2.402 |              101.604 |                 0.213 |                    |                9.905 |
-| England U20      |        3 |  2.155 |               21.182 |                 0.156 |                    |                8.81  |
-| Wales U20        |        3 |  2.008 |               19.394 |                 0.044 |                    |                8.082 |
-| Scotland U20     |        3 |  1.627 |                1.284 |                 0.147 |                    |                6.713 |
-| Italy U20        |        3 |  1.047 |              -10.493 |                 1.107 |                    |                5.309 |
-| Georgia U20      |        3 |  0.883 |               -6.588 |                 1.055 |                    |                4.605 |
-| Ireland U20      |        3 |  0.843 |              -14.076 |                 1.071 |                    |                4.469 |
-| Spain U20        |        3 |  0.721 |              -80.544 |                 0.103 |                    |                3.023 |
-| Japan U20        |        3 |  0.344 |              -38.284 |                 0.187 |                    |                1.621 |
-| Fiji U20         |        3 |  0.261 |              -78.456 |                 0.124 |                    |                1.204 |
-| USA U20          |        3 |  0.144 |             -106.924 |                 0.148 |                    |                0.75  |
-| Uruguay U20      |        3 |  0.108 |             -166.412 |                 0.093 |                    |                0.543 |
+| South Africa U20 |        3 |  2.985 |              153.904 |                 0.012 |                    |               11.952 |
+| New Zealand U20  |        3 |  2.926 |               46.809 |                 0.046 |                    |               11.762 |
+| Argentina U20    |        3 |  2.834 |               99.048 |                 0.088 |                    |               11.456 |
+| France U20       |        3 |  2.529 |               56.852 |                 0.195 |                    |               10.363 |
+| Australia U20    |        3 |  2.445 |              102.148 |                 0.193 |                    |               10.025 |
+| England U20      |        3 |  2.15  |               21.952 |                 0.174 |                    |                8.806 |
+| Wales U20        |        3 |  2.015 |               19.096 |                 0.041 |                    |                8.101 |
+| Scotland U20     |        3 |  1.613 |                0.673 |                 0.155 |                    |                6.647 |
+| Italy U20        |        3 |  1.068 |               -9.809 |                 1.097 |                    |                5.381 |
+| Georgia U20      |        3 |  0.881 |               -7.189 |                 1.057 |                    |                4.593 |
+| Ireland U20      |        3 |  0.809 |              -13.818 |                 1.104 |                    |                4.386 |
+| Spain U20        |        3 |  0.739 |              -80.059 |                 0.074 |                    |                3.064 |
+| Japan U20        |        3 |  0.367 |              -37.673 |                 0.175 |                    |                1.683 |
+| Fiji U20         |        3 |  0.244 |              -78.941 |                 0.122 |                    |                1.132 |
+| USA U20          |        3 |  0.168 |             -107.182 |                 0.134 |                    |                0.852 |
+| Uruguay U20      |        3 |  0.113 |             -165.811 |                 0.085 |                    |                0.549 |
 
 
 
@@ -89,7 +89,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 75.0% | 16.9 |
+| Club Level | 83.3% | 17.6 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -101,7 +101,7 @@ aside:
 ### Ireland U20 V USA U20 on 2026/07/07
 
 
-Average Margin: Ireland U20 by 14.9
+Average Margin: Ireland U20 by 15.2
 
 <p float="left">
 <img src="plots/2026-07-07-IrelandU20_V_USAU20_club_performances.png" width="32%" />
@@ -112,7 +112,7 @@ Average Margin: Ireland U20 by 14.9
 ### New Zealand U20 V Italy U20 on 2026/07/07
 
 
-Average Margin: New Zealand U20 by 20.5
+Average Margin: New Zealand U20 by 19.8
 
 <p float="left">
 <img src="plots/2026-07-07-NewZealandU20_V_ItalyU20_club_performances.png" width="32%" />
@@ -123,7 +123,7 @@ Average Margin: New Zealand U20 by 20.5
 ### Argentina U20 V England U20 on 2026/07/07
 
 
-Average Margin: Argentina U20 by 13.8
+Average Margin: Argentina U20 by 13.0
 
 <p float="left">
 <img src="plots/2026-07-07-ArgentinaU20_V_EnglandU20_club_performances.png" width="32%" />
@@ -134,7 +134,7 @@ Average Margin: Argentina U20 by 13.8
 ### Scotland U20 V Japan U20 on 2026/07/07
 
 
-Average Margin: Scotland U20 by 5.3
+Average Margin: Scotland U20 by 4.7
 
 <p float="left">
 <img src="plots/2026-07-07-ScotlandU20_V_JapanU20_club_performances.png" width="32%" />
@@ -145,7 +145,7 @@ Average Margin: Scotland U20 by 5.3
 ### France U20 V Australia U20 on 2026/07/07
 
 
-Average Margin: France U20 by 2.4
+Average Margin: France U20 by 1.9
 
 <p float="left">
 <img src="plots/2026-07-07-FranceU20_V_AustraliaU20_club_performances.png" width="32%" />
@@ -156,7 +156,7 @@ Average Margin: France U20 by 2.4
 ### South Africa U20 V Wales U20 on 2026/07/07
 
 
-Average Margin: South Africa U20 by 28.6
+Average Margin: South Africa U20 by 28.9
 
 <p float="left">
 <img src="plots/2026-07-07-SouthAfricaU20_V_WalesU20_club_performances.png" width="32%" />
@@ -167,7 +167,7 @@ Average Margin: South Africa U20 by 28.6
 ### Georgia U20 V Uruguay U20 on 2026/07/07
 
 
-Average Margin: Georgia U20 by 22.4
+Average Margin: Georgia U20 by 21.8
 
 <p float="left">
 <img src="plots/2026-07-07-GeorgiaU20_V_UruguayU20_club_performances.png" width="32%" />
@@ -178,7 +178,7 @@ Average Margin: Georgia U20 by 22.4
 ### Spain U20 V Fiji U20 on 2026/07/07
 
 
-Average Margin: Spain U20 by 12.5
+Average Margin: Spain U20 by 12.9
 
 <p float="left">
 <img src="plots/2026-07-07-SpainU20_V_FijiU20_club_performances.png" width="32%" />
