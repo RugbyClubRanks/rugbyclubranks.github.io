@@ -9,9 +9,9 @@ categories: rugby "URBA Top 14 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted CASI to win by 3.71, and CASI won by 17.0. That's an absolute error of 13.3 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 43.6% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted CASI to win by 3.02, and CASI won by 17.0. That's an absolute error of 14.0 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 41.0% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 58.5 and we have an actual total of 77.0. That's an absolute error of 18.5 compared to a six month average of 14.5. This prediction was more accurate than 30.5% of my recent predictions.
+For the Over/Under model, I predicted a total of 56.5 and we have an actual total of 77.0. That's an absolute error of 20.5 compared to a six month average of 14.5. This prediction was more accurate than 25.5% of my recent predictions.
 ## Projected Performances - Club Model
 
 

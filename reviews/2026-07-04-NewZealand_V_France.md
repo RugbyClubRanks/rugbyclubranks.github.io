@@ -9,9 +9,9 @@ categories: rugby "Nations Championship 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted New Zealand to win by 8.19, and New Zealand won by 2.0. That's an absolute error of 6.2 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 70.4% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted New Zealand to win by 8.51, and New Zealand won by 2.0. That's an absolute error of 6.5 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 68.4% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 53.5 and we have an actual total of 66.0. That's an absolute error of 12.5 compared to a six month average of 14.5. This prediction was more accurate than 47.4% of my recent predictions.
+For the Over/Under model, I predicted a total of 53.5 and we have an actual total of 66.0. That's an absolute error of 12.5 compared to a six month average of 14.5. This prediction was more accurate than 47.3% of my recent predictions.
 ## Projected Performances - Club Model
 
 

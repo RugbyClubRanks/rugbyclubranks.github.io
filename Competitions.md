@@ -442,7 +442,7 @@ key: page-recents
 ## U20 Championship
 
 
-[2026](comp_files/U20_Championship_2026) - Prediction Accuracy: 83.3% 
+[2026](comp_files/U20_Championship_2026) - Prediction Accuracy: 71.9% 
 
 [2025](comp_files/U20_Championship_2025) - Prediction Accuracy: 63.3% 
 
@@ -530,7 +530,7 @@ key: page-recents
 ## Nations Championship
 
 
-[2026](comp_files/Nations_Championship_2026) - Prediction Accuracy: 63.3% 
+[2026](comp_files/Nations_Championship_2026) - Prediction Accuracy: 67.6% 
 # Top Flight Competitions
 
 ## European Rugby Champions Cup
@@ -973,6 +973,50 @@ key: page-recents
 [23/24](comp_files/Serie_A_Elite_2324) - Prediction Accuracy: 71.4% 
 # Domestic Competitions
 
+## Currie Cup
+
+
+[2026](comp_files/Currie_Cup_2026)
+
+[2025](comp_files/Currie_Cup_2025) - Prediction Accuracy: 55.2% 
+
+[2024](comp_files/Currie_Cup_2024) - Prediction Accuracy: 62.1% 
+
+[2023](comp_files/Currie_Cup_2023) - Prediction Accuracy: 54.2% 
+
+[2022](comp_files/Currie_Cup_2022) - Prediction Accuracy: 60.0% 
+
+[2021](comp_files/Currie_Cup_2021) - Prediction Accuracy: 47.3% 
+
+[2020](comp_files/Currie_Cup_2020) - Prediction Accuracy: 60.0% 
+
+[2019](comp_files/Currie_Cup_2019) - Prediction Accuracy: 50.0% 
+
+[2018](comp_files/Currie_Cup_2018) - Prediction Accuracy: 72.0% 
+
+[2017](comp_files/Currie_Cup_2017) - Prediction Accuracy: 60.9% 
+
+[2016](comp_files/Currie_Cup_2016) - Prediction Accuracy: 69.2% 
+
+[2015](comp_files/Currie_Cup_2015) - Prediction Accuracy: 74.4% 
+
+[2014](comp_files/Currie_Cup_2014) - Prediction Accuracy: 72.1% 
+
+[2013](comp_files/Currie_Cup_2013) - Prediction Accuracy: 55.9% 
+
+[2012](comp_files/Currie_Cup_2012) - Prediction Accuracy: 57.6% 
+
+[2011](comp_files/Currie_Cup_2011) - Prediction Accuracy: 72.9% 
+
+[2010](comp_files/Currie_Cup_2010) - Prediction Accuracy: 76.3% 
+
+[2009](comp_files/Currie_Cup_2009) - Prediction Accuracy: 71.2% 
+
+[2008](comp_files/Currie_Cup_2008) - Prediction Accuracy: 67.6% 
+
+[2007](comp_files/Currie_Cup_2007) - Prediction Accuracy: 33.3% 
+
+[2006](comp_files/Currie_Cup_2006) - Prediction Accuracy: 33.3% 
 ## Pro D2
 
 
@@ -1017,48 +1061,6 @@ key: page-recents
 [06/07](comp_files/Pro_D2_0607) - Prediction Accuracy: 73.7% 
 
 [05/06](comp_files/Pro_D2_0506) - Prediction Accuracy: 70.8% 
-## Currie Cup
-
-
-[2025](comp_files/Currie_Cup_2025) - Prediction Accuracy: 55.2% 
-
-[2024](comp_files/Currie_Cup_2024) - Prediction Accuracy: 62.1% 
-
-[2023](comp_files/Currie_Cup_2023) - Prediction Accuracy: 54.2% 
-
-[2022](comp_files/Currie_Cup_2022) - Prediction Accuracy: 60.0% 
-
-[2021](comp_files/Currie_Cup_2021) - Prediction Accuracy: 47.3% 
-
-[2020](comp_files/Currie_Cup_2020) - Prediction Accuracy: 60.0% 
-
-[2019](comp_files/Currie_Cup_2019) - Prediction Accuracy: 50.0% 
-
-[2018](comp_files/Currie_Cup_2018) - Prediction Accuracy: 72.0% 
-
-[2017](comp_files/Currie_Cup_2017) - Prediction Accuracy: 60.9% 
-
-[2016](comp_files/Currie_Cup_2016) - Prediction Accuracy: 69.2% 
-
-[2015](comp_files/Currie_Cup_2015) - Prediction Accuracy: 74.4% 
-
-[2014](comp_files/Currie_Cup_2014) - Prediction Accuracy: 72.1% 
-
-[2013](comp_files/Currie_Cup_2013) - Prediction Accuracy: 55.9% 
-
-[2012](comp_files/Currie_Cup_2012) - Prediction Accuracy: 57.6% 
-
-[2011](comp_files/Currie_Cup_2011) - Prediction Accuracy: 72.9% 
-
-[2010](comp_files/Currie_Cup_2010) - Prediction Accuracy: 76.3% 
-
-[2009](comp_files/Currie_Cup_2009) - Prediction Accuracy: 71.2% 
-
-[2008](comp_files/Currie_Cup_2008) - Prediction Accuracy: 67.6% 
-
-[2007](comp_files/Currie_Cup_2007) - Prediction Accuracy: 33.3% 
-
-[2006](comp_files/Currie_Cup_2006) - Prediction Accuracy: 33.3% 
 ## NPC
 
 
@@ -1266,7 +1268,7 @@ key: page-recents
 ## URBA Top 14
 
 
-[2026](comp_files/URBA_Top_14_2026) - Prediction Accuracy: 72.4% 
+[2026](comp_files/URBA_Top_14_2026) - Prediction Accuracy: 71.0% 
 ## prorugby
 
 
