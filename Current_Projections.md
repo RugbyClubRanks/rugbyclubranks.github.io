@@ -10,17 +10,21 @@ key: page-projections
 
 [In depth model review and projections for Nations Championship 2026](comp_files/Nations_Championship_2026)
 
-Competition Accuracy: 13 of 22 (59.09%)
+Competition Accuracy: 15 of 24 (62.5%)
 
-Competition Error: 13.34 points per match
+Competition Error: 13.51 points per match
 
-Last Two Week Accuracy: 13 of 22 (59.09%)
+Last Two Week Accuracy: 9 of 12 (75.0%)
 
-Last Two Week Error: 13.34 points per match
+Last Two Week Error: 14.88 points per match
 
-[2026/07/11 - Canada V Portugal](projections/2026-07-11-Canada_V_Portugal)
+[2026/07/18 - Argentina V England](projections/2026-07-18-Argentina_V_England)
 
-[2026/07/11 - Tonga V Spain](projections/2026-07-11-Tonga_V_Spain)
+[2026/07/18 - Australia V Italy](projections/2026-07-18-Australia_V_Italy)
+
+[2026/07/19 - United States of America V Spain](projections/2026-07-19-UnitedStatesofAmerica_V_Spain)
+
+[2026/07/19 - Canada V Zimbabwe](projections/2026-07-19-Canada_V_Zimbabwe)
 
 [2026/07/18 - Uruguay V Hong Kong](projections/2026-07-18-Uruguay_V_HongKong)
 
@@ -37,38 +41,34 @@ Last Two Week Error: 13.34 points per match
 [2026/07/18 - Fiji V Scotland](projections/2026-07-18-Fiji_V_Scotland)
 
 [2026/07/18 - Chile V Georgia](projections/2026-07-18-Chile_V_Georgia)
-
-[2026/07/18 - Australia V Italy](projections/2026-07-18-Australia_V_Italy)
-
-[2026/07/18 - Argentina V England](projections/2026-07-18-Argentina_V_England)
 ## U20 Championship
 
 
 [In depth model review and projections for U20 Championship 2026](comp_files/U20_Championship_2026)
 
-Competition Accuracy: 17 of 24 (70.83%)
+Competition Accuracy: 22 of 32 (68.75%)
 
-Competition Error: 19.37 points per match
+Competition Error: 20.44 points per match
 
-Last Two Week Accuracy: 12 of 16 (75.0%)
+Last Two Week Accuracy: 10 of 16 (62.5%)
 
-Last Two Week Error: 16.24 points per match
+Last Two Week Error: 20.78 points per match
 
-[2026/07/13 - Ireland U20 V Fiji U20](projections/2026-07-13-IrelandU20_V_FijiU20)
+[2026/07/18 - Italy U20 V Ireland U20](projections/2026-07-18-ItalyU20_V_IrelandU20)
 
-[2026/07/13 - Georgia U20 V Italy U20](projections/2026-07-13-GeorgiaU20_V_ItalyU20)
+[2026/07/18 - Georgia U20 V Fiji U20](projections/2026-07-18-GeorgiaU20_V_FijiU20)
 
-[2026/07/13 - France U20 V New Zealand U20](projections/2026-07-13-FranceU20_V_NewZealandU20)
+[2026/07/18 - France U20 V South Africa U20](projections/2026-07-18-FranceU20_V_SouthAfricaU20)
 
-[2026/07/12 - Spain U20 V Uruguay U20](projections/2026-07-12-SpainU20_V_UruguayU20)
+[2026/07/17 - USA U20 V Uruguay U20](projections/2026-07-17-USAU20_V_UruguayU20)
 
-[2026/07/12 - Japan U20 V USA U20](projections/2026-07-12-JapanU20_V_USAU20)
+[2026/07/17 - Scotland U20 V Wales U20](projections/2026-07-17-ScotlandU20_V_WalesU20)
 
-[2026/07/12 - Australia U20 V Wales U20](projections/2026-07-12-AustraliaU20_V_WalesU20)
+[2026/07/17 - Japan U20 V Spain U20](projections/2026-07-17-JapanU20_V_SpainU20)
 
-[2026/07/12 - Argentina U20 V Scotland U20](projections/2026-07-12-ArgentinaU20_V_ScotlandU20)
+[2026/07/17 - Argentina U20 V Australia U20](projections/2026-07-17-ArgentinaU20_V_AustraliaU20)
 
-[2026/07/13 - South Africa U20 V England U20](projections/2026-07-13-SouthAfricaU20_V_EnglandU20)
+[2026/07/18 - New Zealand U20 V England U20](projections/2026-07-18-NewZealandU20_V_EnglandU20)
 # Domestic Competitions
 
 ## Currie Cup
@@ -79,6 +79,44 @@ Last Two Week Error: 16.24 points per match
 [2026/07/17 - Pumas V Natal Sharks](projections/2026-07-17-Pumas_V_NatalSharks)
 
 [2026/07/17 - Western Province V Griquas](projections/2026-07-17-WesternProvince_V_Griquas)
+
+[2026/08/02 - Boland Cavaliers V Pumas](projections/2026-08-02-BolandCavaliers_V_Pumas)
+
+[2026/08/01 - Western Province V Natal Sharks](projections/2026-08-01-WesternProvince_V_NatalSharks)
+
+[2026/08/01 - Golden Lions V Blue Bulls](projections/2026-08-01-GoldenLions_V_BlueBulls)
+
+[2026/07/31 - Griquas V Cheetahs](projections/2026-07-31-Griquas_V_Cheetahs)
+
+[2026/07/26 - Boland Cavaliers V Western Province](projections/2026-07-26-BolandCavaliers_V_WesternProvince)
+
+[2026/07/25 - Griquas V Blue Bulls](projections/2026-07-25-Griquas_V_BlueBulls)
+
+[2026/07/25 - Golden Lions V Pumas](projections/2026-07-25-GoldenLions_V_Pumas)
+
+[2026/07/24 - Cheetahs V Natal Sharks](projections/2026-07-24-Cheetahs_V_NatalSharks)
+
+[2026/07/19 - Cheetahs V Golden Lions](projections/2026-07-19-Cheetahs_V_GoldenLions)
+
+[2026/07/19 - Boland Cavaliers V Blue Bulls](projections/2026-07-19-BolandCavaliers_V_BlueBulls)
+## NPC
+
+
+[In depth model review and projections for NPC 2026](comp_files/NPC_2026)
+
+[2026/08/01 - Southland V Otago](projections/2026-08-01-Southland_V_Otago)
+
+[2026/08/02 - Wellington V Hawke's Bay](projections/2026-08-02-Wellington_V_Hawke'sBay)
+
+[2026/08/01 - Northland V Manawatu](projections/2026-08-01-Northland_V_Manawatu)
+
+[2026/08/01 - Canterbury V Auckland](projections/2026-08-01-Canterbury_V_Auckland)
+
+[2026/07/31 - Tasman V North Harbour](projections/2026-07-31-Tasman_V_NorthHarbour)
+
+[2026/07/31 - Counties Manukau V Taranaki](projections/2026-07-31-CountiesManukau_V_Taranaki)
+
+[2026/07/30 - Waikato V Bay of Plenty](projections/2026-07-30-Waikato_V_BayofPlenty)
 ## URBA Top 14
 
 
@@ -86,22 +124,36 @@ Last Two Week Error: 16.24 points per match
 
 Competition Accuracy: 50 of 84 (59.52%)
 
-Competition Error: 13.78 points per match
+Competition Error: 13.77 points per match
 
-Last Two Week Accuracy: 5 of 14 (35.71%)
+Last Two Week Accuracy: 2 of 7 (28.57%)
 
-Last Two Week Error: 23.6 points per match
+Last Two Week Error: 21.41 points per match
 
-[2026/07/18 - Atlético del Rosario V Los Matreros](projections/2026-07-18-AtleticodelRosario_V_LosMatreros)
+[2026/08/01 - Los Matreros V Newman](projections/2026-08-01-LosMatreros_V_Newman)
 
-[2026/07/18 - Belgrano AC V Alumni](projections/2026-07-18-BelgranoAC_V_Alumni)
+[2026/08/01 - La Plata V CUBA](projections/2026-08-01-LaPlata_V_CUBA)
 
-[2026/07/18 - Buenos Aires V Champagnat](projections/2026-07-18-BuenosAires_V_Champagnat)
+[2026/08/01 - Hindu V Buenos Aires](projections/2026-08-01-Hindu_V_BuenosAires)
 
-[2026/07/18 - CASI V La Plata](projections/2026-07-18-CASI_V_LaPlata)
+[2026/08/01 - Champagnat V Belgrano AC](projections/2026-08-01-Champagnat_V_BelgranoAC)
 
-[2026/07/18 - CUBA V Hindu](projections/2026-07-18-CUBA_V_Hindu)
+[2026/08/01 - Atlético del Rosario V Los Tilos](projections/2026-08-01-AtleticodelRosario_V_LosTilos)
+
+[2026/08/01 - Alumni V SIC](projections/2026-08-01-Alumni_V_SIC)
+
+[2026/07/18 - SIC V Newman](projections/2026-07-18-SIC_V_Newman)
 
 [2026/07/18 - Los Tilos V Regatas Bella Vista](projections/2026-07-18-LosTilos_V_RegatasBellaVista)
 
-[2026/07/18 - SIC V Newman](projections/2026-07-18-SIC_V_Newman)
+[2026/07/18 - CUBA V Hindu](projections/2026-07-18-CUBA_V_Hindu)
+
+[2026/07/18 - CASI V La Plata](projections/2026-07-18-CASI_V_LaPlata)
+
+[2026/07/18 - Buenos Aires V Champagnat](projections/2026-07-18-BuenosAires_V_Champagnat)
+
+[2026/07/18 - Belgrano AC V Alumni](projections/2026-07-18-BelgranoAC_V_Alumni)
+
+[2026/07/18 - Atlético del Rosario V Los Matreros](projections/2026-07-18-AtleticodelRosario_V_LosMatreros)
+
+[2026/08/01 - Regatas Bella Vista V CASI](projections/2026-08-01-RegatasBellaVista_V_CASI)
