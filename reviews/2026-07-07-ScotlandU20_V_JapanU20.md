@@ -9,9 +9,9 @@ categories: rugby "U20 Championship 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Japan U20 to win by 8.76, and Scotland U20 won by 11.0. That's an absolute error of 19.8 for the margin of victory, while my average absolute error has been 14.7 over the past six months. This prediction was more accurate than 26.6% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Japan U20 to win by 7.82, and Scotland U20 won by 11.0. That's an absolute error of 18.8 for the margin of victory, while my average absolute error has been 14.7 over the past six months. This prediction was more accurate than 28.5% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 54.5 and we have an actual total of 75.0. That's an absolute error of 20.5 compared to a six month average of 14.4. This prediction was more accurate than 25.8% of my recent predictions.
+For the Over/Under model, I predicted a total of 55.5 and we have an actual total of 75.0. That's an absolute error of 19.5 compared to a six month average of 14.4. This prediction was more accurate than 27.5% of my recent predictions.
 ## Projected Performances - Club Model
 
 

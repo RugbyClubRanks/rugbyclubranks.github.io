@@ -9,9 +9,9 @@ categories: rugby "Nations Championship 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted South Africa to win by 18.63, and South Africa won by 14.0. That's an absolute error of 4.6 for the margin of victory, while my average absolute error has been 14.7 over the past six months. This prediction was more accurate than 78.0% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted South Africa to win by 19.56, and South Africa won by 14.0. That's an absolute error of 5.6 for the margin of victory, while my average absolute error has been 14.7 over the past six months. This prediction was more accurate than 73.2% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 70.0. That's an absolute error of 21.5 compared to a six month average of 14.4. This prediction was more accurate than 23.6% of my recent predictions.
+For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 70.0. That's an absolute error of 19.5 compared to a six month average of 14.4. This prediction was more accurate than 27.5% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 48.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted South Africa to win by 2.55,  and South Africa won by 14.0. That's an absolute error of 11.4 for the margin of victory, while the average error as been 14.4 for the past six months. So this prediction was more accurate than 37.7% of my recent predictions.
+With the player model, I predicted South Africa to win by 2.93,  and South Africa won by 14.0. That's an absolute error of 11.1 for the margin of victory, while the average error as been 14.4 for the past six months. So this prediction was more accurate than 39.3% of my recent predictions.
 ## Projected Performances - Player Model
 
 

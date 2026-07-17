@@ -24,8 +24,6 @@ Last Two Week Error: 14.88 points per match
 
 [2026/07/19 - United States of America V Spain](projections/2026-07-19-UnitedStatesofAmerica_V_Spain)
 
-[2026/07/19 - Canada V Zimbabwe](projections/2026-07-19-Canada_V_Zimbabwe)
-
 [2026/07/18 - Uruguay V Hong Kong](projections/2026-07-18-Uruguay_V_HongKong)
 
 [2026/07/18 - Tonga V Portugal](projections/2026-07-18-Tonga_V_Portugal)
@@ -41,6 +39,8 @@ Last Two Week Error: 14.88 points per match
 [2026/07/18 - Fiji V Scotland](projections/2026-07-18-Fiji_V_Scotland)
 
 [2026/07/18 - Chile V Georgia](projections/2026-07-18-Chile_V_Georgia)
+
+[2026/07/18 - Canada V Zimbabwe](projections/2026-07-18-Canada_V_Zimbabwe)
 ## U20 Championship
 
 
@@ -124,11 +124,11 @@ Last Two Week Error: 20.78 points per match
 
 Competition Accuracy: 50 of 84 (59.52%)
 
-Competition Error: 13.77 points per match
+Competition Error: 13.78 points per match
 
 Last Two Week Accuracy: 2 of 7 (28.57%)
 
-Last Two Week Error: 21.41 points per match
+Last Two Week Error: 21.43 points per match
 
 [2026/08/01 - Los Matreros V Newman](projections/2026-08-01-LosMatreros_V_Newman)
 

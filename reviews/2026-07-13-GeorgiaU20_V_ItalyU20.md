@@ -9,9 +9,9 @@ categories: rugby "U20 Championship 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Georgia U20 to win by 13.17, and Italy U20 won by 24.0. That's an absolute error of 37.2 for the margin of victory, while my average absolute error has been 14.7 over the past six months. This prediction was more accurate than 6.8% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Georgia U20 to win by 13.43, and Italy U20 won by 24.0. That's an absolute error of 37.4 for the margin of victory, while my average absolute error has been 14.7 over the past six months. This prediction was more accurate than 6.7% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 62.0. That's an absolute error of 11.5 compared to a six month average of 14.4. This prediction was more accurate than 51.4% of my recent predictions.
+For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 62.0. That's an absolute error of 11.5 compared to a six month average of 14.4. This prediction was more accurate than 51.2% of my recent predictions.
 ## Projected Performances - Club Model
 
 

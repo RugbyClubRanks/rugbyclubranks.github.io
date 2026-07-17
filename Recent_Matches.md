@@ -108,11 +108,11 @@ Last Two Week Error: 22.84 points per match
 
 Competition Accuracy: 50 of 84 (59.52%)
 
-Competition Error: 13.77 points per match
+Competition Error: 13.78 points per match
 
 Last Two Week Accuracy: 2 of 7 (28.57%)
 
-Last Two Week Error: 21.41 points per match
+Last Two Week Error: 21.43 points per match
 
 [2026/07/11 - Atlético del Rosario V Regatas Bella Vista, 50.0 to 17.0](reviews/2026-07-11-AtleticodelRosario_V_RegatasBellaVista)
 

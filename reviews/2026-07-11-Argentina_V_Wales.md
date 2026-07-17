@@ -9,9 +9,9 @@ categories: rugby "Nations Championship 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Argentina to win by 15.93, and Argentina won by 14.0. That's an absolute error of 1.9 for the margin of victory, while my average absolute error has been 14.7 over the past six months. This prediction was more accurate than 89.9% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Argentina to win by 16.1, and Argentina won by 14.0. That's an absolute error of 2.1 for the margin of victory, while my average absolute error has been 14.7 over the past six months. This prediction was more accurate than 88.9% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 52.5 and we have an actual total of 56.0. That's an absolute error of 3.5 compared to a six month average of 14.4. This prediction was more accurate than 85.4% of my recent predictions.
+For the Over/Under model, I predicted a total of 53.5 and we have an actual total of 56.0. That's an absolute error of 2.5 compared to a six month average of 14.4. This prediction was more accurate than 89.7% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 52.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Argentina to win by 10.71,  and Argentina won by 14.0. That's an absolute error of 3.3 for the margin of victory, while the average error as been 14.4 for the past six months. So this prediction was more accurate than 66.3% of my recent predictions.
+With the player model, I predicted Argentina to win by 10.38,  and Argentina won by 14.0. That's an absolute error of 3.6 for the margin of victory, while the average error as been 14.4 for the past six months. So this prediction was more accurate than 65.2% of my recent predictions.
 ## Projected Performances - Player Model
 
 
