@@ -1,0 +1,34 @@
+---
+layout: page
+title: Argentina U20 V Australia U20 on 2026/07/17
+date: 2026-07-17
+categories: rugby "U20 Championship 2026" match projection
+---
+# Argentina U20 V Australia U20 on 2026/07/17, 29.0 to 52.0
+
+# Club Level Predictions
+
+
+Now that the game has been played, lets see how the club predictions did. I predicted Argentina U20 to win by 4.72, and Australia U20 won by 23.0. That's an absolute error of 27.7 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 14.1% of my recent predictions.
+
+For the Over/Under model, I predicted a total of 52.5 and we have an actual total of 81.0. That's an absolute error of 28.5 compared to a six month average of 14.2. This prediction was more accurate than 11.5% of my recent predictions.
+## Projected Performances - Club Model
+
+
+<p float="left">
+<img src="../comp_files/plots/2026-07-17-ArgentinaU20_V_AustraliaU20_club_performances.png" width="99%" />
+</p>
+
+## Projected Spreads - Club Model
+
+
+<p float="left">
+<img src="../comp_files/plots/2026-07-17-ArgentinaU20_V_AustraliaU20_club_spreads.png" width="99%" />
+</p>
+
+## Projected Results - Club Model
+
+
+<p float="left">
+<img src="../comp_files/plots/2026-07-17-ArgentinaU20_V_AustraliaU20_club_resultbar.png" width="99%" />
+</p>

@@ -8,7 +8,7 @@ key: page-recents
 ## International Test Match
 
 
-[2026](comp_files/International_Test_Match_2026) - Prediction Accuracy: 63.6% 
+[2026](comp_files/International_Test_Match_2026) - Prediction Accuracy: 72.7% 
 
 [2025](comp_files/International_Test_Match_2025) - Prediction Accuracy: 71.6% 
 
@@ -303,30 +303,6 @@ key: page-recents
 [2010](comp_files/Asia_Rugby_Championship_-_D1_2010) - Prediction Accuracy: 75.0% 
 
 [2009](comp_files/Asia_Rugby_Championship_-_D1_2009) - Prediction Accuracy: 100.0% 
-## Rugby World Cup Qualifier
-
-
-[2022](comp_files/Rugby_World_Cup_Qualifier_2022) - Prediction Accuracy: 52.4% 
-
-[2021](comp_files/Rugby_World_Cup_Qualifier_2021) - Prediction Accuracy: 100.0% 
-
-[2018](comp_files/Rugby_World_Cup_Qualifier_2018) - Prediction Accuracy: 66.7% 
-
-[2017](comp_files/Rugby_World_Cup_Qualifier_2017) - Prediction Accuracy: 60.0% 
-
-[2016](comp_files/Rugby_World_Cup_Qualifier_2016) - Prediction Accuracy: 58.8% 
-
-[2014](comp_files/Rugby_World_Cup_Qualifier_2014) - Prediction Accuracy: 58.8% 
-
-[2013](comp_files/Rugby_World_Cup_Qualifier_2013) - Prediction Accuracy: 67.2% 
-
-[2012](comp_files/Rugby_World_Cup_Qualifier_2012) - Prediction Accuracy: 80.0% 
-
-[2010](comp_files/Rugby_World_Cup_Qualifier_2010) - Prediction Accuracy: 68.2% 
-
-[2009](comp_files/Rugby_World_Cup_Qualifier_2009) - Prediction Accuracy: 63.9% 
-
-[2008](comp_files/Rugby_World_Cup_Qualifier_2008) - Prediction Accuracy: 47.7% 
 ## Asia Rugby Championship - Top 3
 
 
@@ -351,6 +327,30 @@ key: page-recents
 [2009](comp_files/Asia_Rugby_Championship_-_Top_3_2009) - Prediction Accuracy: 50.0% 
 
 [2008](comp_files/Asia_Rugby_Championship_-_Top_3_2008) - Prediction Accuracy: 30.0% 
+## Rugby World Cup Qualifier
+
+
+[2022](comp_files/Rugby_World_Cup_Qualifier_2022) - Prediction Accuracy: 52.4% 
+
+[2021](comp_files/Rugby_World_Cup_Qualifier_2021) - Prediction Accuracy: 100.0% 
+
+[2018](comp_files/Rugby_World_Cup_Qualifier_2018) - Prediction Accuracy: 66.7% 
+
+[2017](comp_files/Rugby_World_Cup_Qualifier_2017) - Prediction Accuracy: 60.0% 
+
+[2016](comp_files/Rugby_World_Cup_Qualifier_2016) - Prediction Accuracy: 58.8% 
+
+[2014](comp_files/Rugby_World_Cup_Qualifier_2014) - Prediction Accuracy: 58.8% 
+
+[2013](comp_files/Rugby_World_Cup_Qualifier_2013) - Prediction Accuracy: 67.2% 
+
+[2012](comp_files/Rugby_World_Cup_Qualifier_2012) - Prediction Accuracy: 80.0% 
+
+[2010](comp_files/Rugby_World_Cup_Qualifier_2010) - Prediction Accuracy: 68.2% 
+
+[2009](comp_files/Rugby_World_Cup_Qualifier_2009) - Prediction Accuracy: 63.9% 
+
+[2008](comp_files/Rugby_World_Cup_Qualifier_2008) - Prediction Accuracy: 47.7% 
 ## Rugby Africa Cup
 
 
@@ -373,6 +373,26 @@ key: page-recents
 [2011](comp_files/Rugby_Africa_Cup_2011) - Prediction Accuracy: 54.5% 
 
 [2008](comp_files/Rugby_Africa_Cup_2008) - Prediction Accuracy: 53.3% 
+## Womens International Test Match
+
+
+[2026](comp_files/Womens_International_Test_Match_2026) - Prediction Accuracy: 33.3% 
+
+[2025](comp_files/Womens_International_Test_Match_2025) - Prediction Accuracy: 66.0% 
+
+[2024](comp_files/Womens_International_Test_Match_2024) - Prediction Accuracy: 61.5% 
+
+[2023](comp_files/Womens_International_Test_Match_2023) - Prediction Accuracy: 100.0% 
+
+[2022](comp_files/Womens_International_Test_Match_2022) - Prediction Accuracy: 65.0% 
+
+[2021](comp_files/Womens_International_Test_Match_2021) - Prediction Accuracy: 72.2% 
+
+[2020](comp_files/Womens_International_Test_Match_2020) - Prediction Accuracy: 100.0% 
+
+[2019](comp_files/Womens_International_Test_Match_2019) - Prediction Accuracy: 80.0% 
+
+[2018](comp_files/Womens_International_Test_Match_2018) - Prediction Accuracy: 77.8% 
 ## Womens Six Nations
 
 
@@ -393,24 +413,6 @@ key: page-recents
 [2019](comp_files/Womens_Six_Nations_2019) - Prediction Accuracy: 66.7% 
 
 [2018](comp_files/Womens_Six_Nations_2018) - Prediction Accuracy: 60.0% 
-## Womens International Test Match
-
-
-[2025](comp_files/Womens_International_Test_Match_2025) - Prediction Accuracy: 66.0% 
-
-[2024](comp_files/Womens_International_Test_Match_2024) - Prediction Accuracy: 61.5% 
-
-[2023](comp_files/Womens_International_Test_Match_2023) - Prediction Accuracy: 100.0% 
-
-[2022](comp_files/Womens_International_Test_Match_2022) - Prediction Accuracy: 65.0% 
-
-[2021](comp_files/Womens_International_Test_Match_2021) - Prediction Accuracy: 72.2% 
-
-[2020](comp_files/Womens_International_Test_Match_2020) - Prediction Accuracy: 100.0% 
-
-[2019](comp_files/Womens_International_Test_Match_2019) - Prediction Accuracy: 80.0% 
-
-[2018](comp_files/Womens_International_Test_Match_2018) - Prediction Accuracy: 77.8% 
 ## Mens Rugby World Cup
 
 
@@ -472,7 +474,7 @@ key: page-recents
 ## Rugby Union Hybrid Friendlies
 
 
-[2026](comp_files/Rugby_Union_Hybrid_Friendlies_2026)
+[2026](comp_files/Rugby_Union_Hybrid_Friendlies_2026) - Prediction Accuracy: 66.7% 
 
 [2025](comp_files/Rugby_Union_Hybrid_Friendlies_2025) - Prediction Accuracy: 62.5% 
 
@@ -976,7 +978,7 @@ key: page-recents
 ## Currie Cup
 
 
-[2026](comp_files/Currie_Cup_2026)
+[2026](comp_files/Currie_Cup_2026) - Prediction Accuracy: 66.7% 
 
 [2025](comp_files/Currie_Cup_2025) - Prediction Accuracy: 55.2% 
 
@@ -1268,7 +1270,7 @@ key: page-recents
 ## URBA Top 14
 
 
-[2026](comp_files/URBA_Top_14_2026) - Prediction Accuracy: 66.9% 
+[2026](comp_files/URBA_Top_14_2026) - Prediction Accuracy: 68.3% 
 ## prorugby
 
 
