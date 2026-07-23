@@ -8,7 +8,7 @@ key: page-recents
 ## International Test Match
 
 
-[2026](comp_files/International_Test_Match_2026) - Prediction Accuracy: 72.7% 
+[2026](comp_files/International_Test_Match_2026) - Prediction Accuracy: 63.6% 
 
 [2025](comp_files/International_Test_Match_2025) - Prediction Accuracy: 71.6% 
 
@@ -376,7 +376,7 @@ key: page-recents
 ## Womens International Test Match
 
 
-[2026](comp_files/Womens_International_Test_Match_2026) - Prediction Accuracy: 33.3% 
+[2026](comp_files/Womens_International_Test_Match_2026) - Prediction Accuracy: 66.7% 
 
 [2025](comp_files/Womens_International_Test_Match_2025) - Prediction Accuracy: 66.0% 
 
@@ -978,7 +978,7 @@ key: page-recents
 ## Currie Cup
 
 
-[2026](comp_files/Currie_Cup_2026) - Prediction Accuracy: 66.7% 
+[2026](comp_files/Currie_Cup_2026) - Prediction Accuracy: 73.3% 
 
 [2025](comp_files/Currie_Cup_2025) - Prediction Accuracy: 55.2% 
 
@@ -1270,7 +1270,7 @@ key: page-recents
 ## URBA Top 14
 
 
-[2026](comp_files/URBA_Top_14_2026) - Prediction Accuracy: 68.3% 
+[2026](comp_files/URBA_Top_14_2026) - Prediction Accuracy: 71.0% 
 ## prorugby
 
 

@@ -9,9 +9,9 @@ categories: rugby "U20 Championship 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted USA U20 to win by 14.98, and USA U20 won by 24.0. That's an absolute error of 9.0 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 59.5% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted USA U20 to win by 13.58, and USA U20 won by 24.0. That's an absolute error of 10.4 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 54.9% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 54.0. That's an absolute error of 2.5 compared to a six month average of 14.2. This prediction was more accurate than 89.4% of my recent predictions.
+For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 54.0. That's an absolute error of 2.5 compared to a six month average of 14.2. This prediction was more accurate than 89.6% of my recent predictions.
 ## Projected Performances - Club Model
 
 

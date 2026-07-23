@@ -1,6 +1,6 @@
 ---
 title: "Rugby Union Hybrid Friendlies 2026"
-date: 2026-07-20 6:00:00 -0500
+date: 2026-07-23 6:00:00 -0500
 categories: model review projection
 layout: article
 aside:
@@ -32,10 +32,10 @@ aside:
 
 | Club        |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| New Zealand |         1 |            0.687 |                    4.399 |                           0.194 |                              |                          3.022 |
-| Ireland A   |         1 |            0.724 |                   17.224 |                           0.085 |                              |                          3.003 |
-| Stormers    |         1 |            0.273 |                   -4.399 |                           0.329 |                              |                          1.501 |
-| England A   |         1 |            0.265 |                  -17.224 |                           0.089 |                              |                          1.171 |
+| Ireland A   |         1 |            0.751 |                   18.512 |                           0.066 |                              |                          3.088 |
+| New Zealand |         1 |            0.649 |                    4.046 |                           0.223 |                              |                          2.911 |
+| Stormers    |         1 |            0.305 |                   -4.046 |                           0.301 |                              |                          1.613 |
+| England A   |         1 |            0.24  |                  -18.512 |                           0.089 |                              |                          1.067 |
 
 
 
@@ -48,10 +48,10 @@ aside:
 | South Africa A   |        1 |  1     |               40     |                 0     |                    |                4     |
 | Maori All Blacks |        1 |  1     |                7     |                 0     |                    |                4     |
 | Wales            |        1 |  1     |                2     |                 0     |                    |                4     |
-| New Zealand      |        1 |  0.687 |                4.399 |                 0.194 |                    |                3.022 |
-| Ireland A        |        1 |  0.724 |               17.224 |                 0.085 |                    |                3.003 |
-| Stormers         |        1 |  0.273 |               -4.399 |                 0.329 |                    |                1.501 |
-| England A        |        1 |  0.265 |              -17.224 |                 0.089 |                    |                1.171 |
+| Ireland A        |        1 |  0.751 |               18.512 |                 0.066 |                    |                3.088 |
+| New Zealand      |        1 |  0.649 |                4.046 |                 0.223 |                    |                2.911 |
+| Stormers         |        1 |  0.305 |               -4.046 |                 0.301 |                    |                1.613 |
+| England A        |        1 |  0.24  |              -18.512 |                 0.089 |                    |                1.067 |
 | Japan XV         |        1 |  0     |               -7     |                 1     |                    |                1     |
 | Barbarians       |        2 |  0     |              -51     |                 1     |                    |                1     |
 | Zimbabwe         |        1 |  0     |              -40     |                 0     |                    |                0     |
@@ -63,7 +63,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 66.7% | 17.0 |
+| Club Level | 66.7% | 17.6 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -75,7 +75,7 @@ aside:
 ### Ireland A V England A on 2026/02/06
 
 
-Average Margin: Ireland A by 17.2
+Average Margin: Ireland A by 18.5
 
 <p float="left">
 <img src="plots/2026-02-06-IrelandA_V_EnglandA_club_performances.png" width="32%" />
@@ -88,7 +88,7 @@ Average Margin: Ireland A by 17.2
 ### Stormers V New Zealand on 2026/08/07
 
 
-Average Margin: New Zealand by 4.4
+Average Margin: New Zealand by 4.0
 
 <p float="left">
 <img src="plots/2026-08-07-Stormers_V_NewZealand_club_performances.png" width="32%" />

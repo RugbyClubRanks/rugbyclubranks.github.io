@@ -14,13 +14,15 @@ Competition Accuracy: 22 of 36 (61.11%)
 
 Competition Error: 14.51 points per match
 
-Last Two Week Accuracy: 16 of 24 (66.67%)
+Last Two Week Accuracy: 7 of 12 (58.33%)
 
-Last Two Week Error: 15.69 points per match
-
-[2026/07/17 - United States of America V Spain, 29.0 to 22.0](reviews/2026-07-17-UnitedStatesofAmerica_V_Spain)
+Last Two Week Error: 16.5 points per match
 
 [2026/07/18 - Argentina V England, 24.0 to 31.0](reviews/2026-07-18-Argentina_V_England)
+
+[2026/07/18 - Australia V Italy, 57.0 to 10.0](reviews/2026-07-18-Australia_V_Italy)
+
+[2026/07/19 - United States of America V Spain, 29.0 to 22.0](reviews/2026-07-19-UnitedStatesofAmerica_V_Spain)
 
 [2026/07/18 - Uruguay V Hong Kong, 40.0 to 42.0](reviews/2026-07-18-Uruguay_V_HongKong)
 
@@ -39,8 +41,6 @@ Last Two Week Error: 15.69 points per match
 [2026/07/18 - Chile V Georgia, 22.0 to 49.0](reviews/2026-07-18-Chile_V_Georgia)
 
 [2026/07/18 - Canada V Zimbabwe, 23.0 to 19.0](reviews/2026-07-18-Canada_V_Zimbabwe)
-
-[2026/07/18 - Australia V Italy, 57.0 to 10.0](reviews/2026-07-18-Australia_V_Italy)
 ## U20 Championship
 
 
@@ -50,9 +50,9 @@ Competition Accuracy: 28 of 40 (70.0%)
 
 Competition Error: 18.93 points per match
 
-Last Two Week Accuracy: 16 of 24 (66.67%)
+Last Two Week Accuracy: 6 of 8 (75.0%)
 
-Last Two Week Error: 18.14 points per match
+Last Two Week Error: 12.88 points per match
 
 [2026/07/18 - Italy U20 V Ireland U20, 26.0 to 34.0](reviews/2026-07-18-ItalyU20_V_IrelandU20)
 
@@ -108,9 +108,9 @@ Competition Accuracy: 54 of 91 (59.34%)
 
 Competition Error: 13.42 points per match
 
-Last Two Week Accuracy: 6 of 14 (42.86%)
+Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 15.32 points per match
+Last Two Week Error: 9.21 points per match
 
 [2026/07/18 - Atlético del Rosario V Los Matreros, 28.0 to 38.0](reviews/2026-07-18-AtleticodelRosario_V_LosMatreros)
 

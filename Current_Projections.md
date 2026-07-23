@@ -12,7 +12,7 @@ key: page-projections
 
 Competition Accuracy: 3 of 4 (75.0%)
 
-Competition Error: 9.75 points per match
+Competition Error: 9.83 points per match
 
 [2026/08/08 - Argentina V South Africa](projections/2026-08-08-Argentina_V_SouthAfrica)
 
@@ -35,10 +35,6 @@ Competition Error: 21.38 points per match
 Competition Accuracy: 1 of 2 (50.0%)
 
 Competition Error: 12.84 points per match
-
-Last Two Week Accuracy: 0 of 1 (0.0%)
-
-Last Two Week Error: 22.84 points per match
 
 [2026/08/07 - Fiji Women V South Africa Women](projections/2026-08-07-FijiWomen_V_SouthAfricaWomen)
 # Domestic Competitions
@@ -86,9 +82,9 @@ Competition Accuracy: 54 of 91 (59.34%)
 
 Competition Error: 13.42 points per match
 
-Last Two Week Accuracy: 6 of 14 (42.86%)
+Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 15.32 points per match
+Last Two Week Error: 9.21 points per match
 
 [2026/08/01 - Los Matreros V Newman](projections/2026-08-01-LosMatreros_V_Newman)
 

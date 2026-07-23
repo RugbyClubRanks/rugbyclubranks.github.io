@@ -9,9 +9,9 @@ categories: rugby "Nations Championship 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Portugal to win by 9.46, and Portugal won by 4.0. That's an absolute error of 5.5 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 73.4% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Portugal to win by 8.21, and Portugal won by 4.0. That's an absolute error of 4.2 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 80.6% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 60.0. That's an absolute error of 9.5 compared to a six month average of 14.2. This prediction was more accurate than 56.7% of my recent predictions.
+For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 60.0. That's an absolute error of 9.5 compared to a six month average of 14.2. This prediction was more accurate than 56.8% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 50.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Portugal to win by 1.19,  and Portugal won by 4.0. That's an absolute error of 2.8 for the margin of victory, while the average error as been 14.4 for the past six months. So this prediction was more accurate than 66.9% of my recent predictions.
+With the player model, I predicted Portugal to win by 1.42,  and Portugal won by 4.0. That's an absolute error of 2.6 for the margin of victory, while the average error as been 14.4 for the past six months. So this prediction was more accurate than 68.0% of my recent predictions.
 ## Projected Performances - Player Model
 
 

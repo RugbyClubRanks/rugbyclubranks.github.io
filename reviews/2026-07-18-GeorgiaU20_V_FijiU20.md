@@ -9,9 +9,9 @@ categories: rugby "U20 Championship 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Georgia U20 to win by 15.18, and Fiji U20 won by 20.0. That's an absolute error of 35.2 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 8.1% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Georgia U20 to win by 16.41, and Fiji U20 won by 20.0. That's an absolute error of 36.4 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 7.4% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 40.0. That's an absolute error of 8.5 compared to a six month average of 14.2. This prediction was more accurate than 62.5% of my recent predictions.
+For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 40.0. That's an absolute error of 9.5 compared to a six month average of 14.2. This prediction was more accurate than 56.8% of my recent predictions.
 ## Projected Performances - Club Model
 
 
