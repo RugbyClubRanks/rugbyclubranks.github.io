@@ -12,7 +12,7 @@ key: page-recents
 
 Competition Accuracy: 22 of 36 (61.11%)
 
-Competition Error: 14.51 points per match
+Competition Error: 14.5 points per match
 
 Last Two Week Accuracy: 7 of 12 (58.33%)
 
@@ -110,7 +110,7 @@ Competition Error: 13.42 points per match
 
 Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 9.21 points per match
+Last Two Week Error: 9.23 points per match
 
 [2026/07/18 - Atlético del Rosario V Los Matreros, 28.0 to 38.0](reviews/2026-07-18-AtleticodelRosario_V_LosMatreros)
 

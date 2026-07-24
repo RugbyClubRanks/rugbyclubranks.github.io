@@ -1,6 +1,6 @@
 ---
 title: "Women's International Test Match 2026"
-date: 2026-07-23 6:00:00 -0500
+date: 2026-07-24 6:00:00 -0500
 categories: model review projection
 layout: article
 aside:
@@ -27,8 +27,8 @@ aside:
 
 | Club               |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:-------------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Fiji Women         |         1 |            0.612 |                    5.518 |                           0.156 |                              |                          2.658 |
-| South Africa Women |         1 |            0.361 |                   -5.518 |                           0.161 |                              |                          1.659 |
+| Fiji Women         |         1 |            0.605 |                    4.601 |                           0.144 |                              |                          2.614 |
+| South Africa Women |         1 |            0.37  |                   -4.601 |                           0.16  |                              |                          1.69  |
 
 
 
@@ -37,9 +37,9 @@ aside:
 
 | Club               |   Played |   Wins |   Point Differential |   Losing Bonus Points | Try Bonus Points   |   Competition Points |
 |:-------------------|---------:|-------:|---------------------:|----------------------:|:-------------------|---------------------:|
-| South Africa Women |        3 |  1.361 |                0.482 |                 1.161 |                    |                6.659 |
+| South Africa Women |        3 |  1.37  |                1.399 |                 1.16  |                    |                6.69  |
 | USA Women          |        2 |  1     |               -6     |                 0     |                    |                4     |
-| Fiji Women         |        1 |  0.612 |                5.518 |                 0.156 |                    |                2.658 |
+| Fiji Women         |        1 |  0.605 |                4.601 |                 0.144 |                    |                2.614 |
 
 
 
@@ -48,7 +48,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 66.7% | 9.9 |
+| Club Level | 66.7% | 21.2 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -60,7 +60,7 @@ aside:
 ### Fiji Women V South Africa Women on 2026/08/07
 
 
-Average Margin: Fiji Women by 5.5
+Average Margin: Fiji Women by 4.6
 
 <p float="left">
 <img src="plots/2026-08-07-FijiWomen_V_SouthAfricaWomen_club_performances.png" width="32%" />

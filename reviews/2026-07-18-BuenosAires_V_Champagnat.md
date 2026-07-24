@@ -9,9 +9,9 @@ categories: rugby "URBA Top 14 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Buenos Aires to win by 2.95, and Buenos Aires won by 15.0. That's an absolute error of 12.0 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 48.2% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Buenos Aires to win by 3.57, and Buenos Aires won by 15.0. That's an absolute error of 11.4 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 50.9% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 47.0. That's an absolute error of 4.5 compared to a six month average of 14.2. This prediction was more accurate than 80.0% of my recent predictions.
+For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 47.0. That's an absolute error of 4.5 compared to a six month average of 14.2. This prediction was more accurate than 80.1% of my recent predictions.
 ## Projected Performances - Club Model
 
 
