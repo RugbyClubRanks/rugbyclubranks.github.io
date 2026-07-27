@@ -8,7 +8,7 @@ key: page-recents
 ## International Test Match
 
 
-[2026](comp_files/International_Test_Match_2026) - Prediction Accuracy: 90.9% 
+[2026](comp_files/International_Test_Match_2026) - Prediction Accuracy: 72.2% 
 
 [2025](comp_files/International_Test_Match_2025) - Prediction Accuracy: 71.6% 
 
@@ -376,7 +376,7 @@ key: page-recents
 ## Womens International Test Match
 
 
-[2026](comp_files/Womens_International_Test_Match_2026) - Prediction Accuracy: 66.7% 
+[2026](comp_files/Womens_International_Test_Match_2026) - Prediction Accuracy: 33.3% 
 
 [2025](comp_files/Womens_International_Test_Match_2025) - Prediction Accuracy: 66.0% 
 
@@ -474,7 +474,7 @@ key: page-recents
 ## Rugby Union Hybrid Friendlies
 
 
-[2026](comp_files/Rugby_Union_Hybrid_Friendlies_2026) - Prediction Accuracy: 66.7% 
+[2026](comp_files/Rugby_Union_Hybrid_Friendlies_2026) - Prediction Accuracy: 50.0% 
 
 [2025](comp_files/Rugby_Union_Hybrid_Friendlies_2025) - Prediction Accuracy: 62.5% 
 
@@ -537,6 +537,8 @@ key: page-recents
 
 ## European Rugby Champions Cup
 
+
+[26/27](comp_files/European_Rugby_Champions_Cup_2627)
 
 [25/26](comp_files/European_Rugby_Champions_Cup_2526) - Prediction Accuracy: 76.2% 
 
@@ -639,6 +641,8 @@ key: page-recents
 [03/04](comp_files/Gallagher_Premiership_0304) - Prediction Accuracy: 66.4% 
 ## Top 14
 
+
+[26/27](comp_files/Top_14_2627)
 
 [25/26](comp_files/Top_14_2526) - Prediction Accuracy: 75.3% 
 
@@ -769,6 +773,8 @@ key: page-recents
 [08/09](comp_files/United_Rugby_Championship_0809) - Prediction Accuracy: 63.3% 
 ## European Rugby Challenge Cup
 
+
+[26/27](comp_files/European_Rugby_Challenge_Cup_2627)
 
 [25/26](comp_files/European_Rugby_Challenge_Cup_2526) - Prediction Accuracy: 72.5% 
 
@@ -978,7 +984,7 @@ key: page-recents
 ## Currie Cup
 
 
-[2026](comp_files/Currie_Cup_2026) - Prediction Accuracy: 46.7% 
+[2026](comp_files/Currie_Cup_2026) - Prediction Accuracy: 60.0% 
 
 [2025](comp_files/Currie_Cup_2025) - Prediction Accuracy: 55.2% 
 
@@ -1270,7 +1276,7 @@ key: page-recents
 ## URBA Top 14
 
 
-[2026](comp_files/URBA_Top_14_2026) - Prediction Accuracy: 69.0% 
+[2026](comp_files/URBA_Top_14_2026) - Prediction Accuracy: 72.0% 
 ## prorugby
 
 
