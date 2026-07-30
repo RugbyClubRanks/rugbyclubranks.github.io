@@ -8,7 +8,7 @@ key: page-recents
 ## International Test Match
 
 
-[2026](comp_files/International_Test_Match_2026) - Prediction Accuracy: 72.2% 
+[2026](comp_files/International_Test_Match_2026) - Prediction Accuracy: 77.8% 
 
 [2025](comp_files/International_Test_Match_2025) - Prediction Accuracy: 71.6% 
 
@@ -474,7 +474,7 @@ key: page-recents
 ## Rugby Union Hybrid Friendlies
 
 
-[2026](comp_files/Rugby_Union_Hybrid_Friendlies_2026) - Prediction Accuracy: 50.0% 
+[2026](comp_files/Rugby_Union_Hybrid_Friendlies_2026) - Prediction Accuracy: 66.7% 
 
 [2025](comp_files/Rugby_Union_Hybrid_Friendlies_2025) - Prediction Accuracy: 62.5% 
 
@@ -593,6 +593,8 @@ key: page-recents
 [00/01](comp_files/European_Rugby_Champions_Cup_0001) - Prediction Accuracy: 63.3% 
 ## Gallagher Premiership
 
+
+[26/27](comp_files/Gallagher_Premiership_2627)
 
 [25/26](comp_files/Gallagher_Premiership_2526) - Prediction Accuracy: 76.3% 
 
@@ -731,46 +733,6 @@ key: page-recents
 [2007](comp_files/Super_Rugby_Pacific_2007) - Prediction Accuracy: 61.7% 
 
 [2006](comp_files/Super_Rugby_Pacific_2006) - Prediction Accuracy: 66.0% 
-## United Rugby Championship
-
-
-[26/27](comp_files/United_Rugby_Championship_2627)
-
-[25/26](comp_files/United_Rugby_Championship_2526) - Prediction Accuracy: 65.2% 
-
-[24/25](comp_files/United_Rugby_Championship_2425) - Prediction Accuracy: 71.9% 
-
-[23/24](comp_files/United_Rugby_Championship_2324) - Prediction Accuracy: 74.2% 
-
-[22/23](comp_files/United_Rugby_Championship_2223) - Prediction Accuracy: 70.9% 
-
-[21/22](comp_files/United_Rugby_Championship_2122) - Prediction Accuracy: 67.5% 
-
-[20/21](comp_files/United_Rugby_Championship_2021) - Prediction Accuracy: 62.5% 
-
-[19/20](comp_files/United_Rugby_Championship_1920) - Prediction Accuracy: 44.2% 
-
-[18/19](comp_files/United_Rugby_Championship_1819) - Prediction Accuracy: 75.2% 
-
-[17/18](comp_files/United_Rugby_Championship_1718) - Prediction Accuracy: 69.7% 
-
-[16/17](comp_files/United_Rugby_Championship_1617) - Prediction Accuracy: 72.2% 
-
-[15/16](comp_files/United_Rugby_Championship_1516) - Prediction Accuracy: 71.9% 
-
-[14/15](comp_files/United_Rugby_Championship_1415) - Prediction Accuracy: 70.4% 
-
-[13/14](comp_files/United_Rugby_Championship_1314) - Prediction Accuracy: 70.4% 
-
-[12/13](comp_files/United_Rugby_Championship_1213) - Prediction Accuracy: 72.8% 
-
-[11/12](comp_files/United_Rugby_Championship_1112) - Prediction Accuracy: 71.9% 
-
-[10/11](comp_files/United_Rugby_Championship_1011) - Prediction Accuracy: 71.9% 
-
-[09/10](comp_files/United_Rugby_Championship_0910) - Prediction Accuracy: 61.3% 
-
-[08/09](comp_files/United_Rugby_Championship_0809) - Prediction Accuracy: 63.3% 
 ## European Rugby Challenge Cup
 
 
@@ -811,6 +773,46 @@ key: page-recents
 [09/10](comp_files/European_Rugby_Challenge_Cup_0910) - Prediction Accuracy: 74.6% 
 
 [08/09](comp_files/European_Rugby_Challenge_Cup_0809) - Prediction Accuracy: 68.7% 
+## United Rugby Championship
+
+
+[26/27](comp_files/United_Rugby_Championship_2627)
+
+[25/26](comp_files/United_Rugby_Championship_2526) - Prediction Accuracy: 65.2% 
+
+[24/25](comp_files/United_Rugby_Championship_2425) - Prediction Accuracy: 71.9% 
+
+[23/24](comp_files/United_Rugby_Championship_2324) - Prediction Accuracy: 74.2% 
+
+[22/23](comp_files/United_Rugby_Championship_2223) - Prediction Accuracy: 70.9% 
+
+[21/22](comp_files/United_Rugby_Championship_2122) - Prediction Accuracy: 67.5% 
+
+[20/21](comp_files/United_Rugby_Championship_2021) - Prediction Accuracy: 62.5% 
+
+[19/20](comp_files/United_Rugby_Championship_1920) - Prediction Accuracy: 44.2% 
+
+[18/19](comp_files/United_Rugby_Championship_1819) - Prediction Accuracy: 75.2% 
+
+[17/18](comp_files/United_Rugby_Championship_1718) - Prediction Accuracy: 69.7% 
+
+[16/17](comp_files/United_Rugby_Championship_1617) - Prediction Accuracy: 72.2% 
+
+[15/16](comp_files/United_Rugby_Championship_1516) - Prediction Accuracy: 71.9% 
+
+[14/15](comp_files/United_Rugby_Championship_1415) - Prediction Accuracy: 70.4% 
+
+[13/14](comp_files/United_Rugby_Championship_1314) - Prediction Accuracy: 70.4% 
+
+[12/13](comp_files/United_Rugby_Championship_1213) - Prediction Accuracy: 72.8% 
+
+[11/12](comp_files/United_Rugby_Championship_1112) - Prediction Accuracy: 71.9% 
+
+[10/11](comp_files/United_Rugby_Championship_1011) - Prediction Accuracy: 71.9% 
+
+[09/10](comp_files/United_Rugby_Championship_0910) - Prediction Accuracy: 61.3% 
+
+[08/09](comp_files/United_Rugby_Championship_0809) - Prediction Accuracy: 63.3% 
 ## Japan Rugby League One
 
 
@@ -984,7 +986,7 @@ key: page-recents
 ## Currie Cup
 
 
-[2026](comp_files/Currie_Cup_2026) - Prediction Accuracy: 60.0% 
+[2026](comp_files/Currie_Cup_2026) - Prediction Accuracy: 66.7% 
 
 [2025](comp_files/Currie_Cup_2025) - Prediction Accuracy: 55.2% 
 
@@ -1072,7 +1074,7 @@ key: page-recents
 ## NPC
 
 
-[2026](comp_files/NPC_2026)
+[2026](comp_files/NPC_2026) - Prediction Accuracy: 76.8% 
 
 [2025](comp_files/NPC_2025) - Prediction Accuracy: 68.8% 
 
@@ -1276,7 +1278,7 @@ key: page-recents
 ## URBA Top 14
 
 
-[2026](comp_files/URBA_Top_14_2026) - Prediction Accuracy: 72.0% 
+[2026](comp_files/URBA_Top_14_2026) - Prediction Accuracy: 73.6% 
 ## prorugby
 
 
