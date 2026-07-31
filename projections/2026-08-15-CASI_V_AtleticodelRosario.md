@@ -9,7 +9,7 @@ categories: rugby "URBA Top 14 2026" match review
 # Club Level Predictions
 
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting CASI to win by 21.17.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting CASI to win by 21.45.
 
 Our Over/Under is 51.5 - and combined with the spread above, we have a predicted scoreline of 36 to 15
 

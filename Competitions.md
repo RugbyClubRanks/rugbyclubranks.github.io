@@ -8,7 +8,7 @@ key: page-recents
 ## International Test Match
 
 
-[2026](comp_files/International_Test_Match_2026) - Prediction Accuracy: 77.8% 
+[2026](comp_files/International_Test_Match_2026) - Prediction Accuracy: 72.2% 
 
 [2025](comp_files/International_Test_Match_2025) - Prediction Accuracy: 71.6% 
 
@@ -1074,7 +1074,7 @@ key: page-recents
 ## NPC
 
 
-[2026](comp_files/NPC_2026) - Prediction Accuracy: 76.8% 
+[2026](comp_files/NPC_2026) - Prediction Accuracy: 72.9% 
 
 [2025](comp_files/NPC_2025) - Prediction Accuracy: 68.8% 
 
@@ -1278,7 +1278,7 @@ key: page-recents
 ## URBA Top 14
 
 
-[2026](comp_files/URBA_Top_14_2026) - Prediction Accuracy: 73.6% 
+[2026](comp_files/URBA_Top_14_2026) - Prediction Accuracy: 68.1% 
 ## prorugby
 
 
