@@ -8,7 +8,7 @@ key: page-recents
 ## International Test Match
 
 
-[2026](comp_files/International_Test_Match_2026) - Prediction Accuracy: 77.8% 
+[2026](comp_files/International_Test_Match_2026) - Prediction Accuracy: 88.9% 
 
 [2025](comp_files/International_Test_Match_2025) - Prediction Accuracy: 71.6% 
 
@@ -474,7 +474,7 @@ key: page-recents
 ## Rugby Union Hybrid Friendlies
 
 
-[2026](comp_files/Rugby_Union_Hybrid_Friendlies_2026) - Prediction Accuracy: 66.7% 
+[2026](comp_files/Rugby_Union_Hybrid_Friendlies_2026) - Prediction Accuracy: 50.0% 
 
 [2025](comp_files/Rugby_Union_Hybrid_Friendlies_2025) - Prediction Accuracy: 62.5% 
 
@@ -1278,7 +1278,7 @@ key: page-recents
 ## URBA Top 14
 
 
-[2026](comp_files/URBA_Top_14_2026) - Prediction Accuracy: 67.6% 
+[2026](comp_files/URBA_Top_14_2026) - Prediction Accuracy: 70.9% 
 ## prorugby
 
 
