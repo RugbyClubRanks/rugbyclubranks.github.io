@@ -12,7 +12,7 @@ key: page-projections
 
 Competition Accuracy: 3 of 4 (75.0%)
 
-Competition Error: 9.75 points per match
+Competition Error: 9.83 points per match
 
 [2026/08/08 - Argentina V South Africa](projections/2026-08-08-Argentina_V_SouthAfrica)
 
@@ -114,13 +114,13 @@ Last Two Week Error: 25.25 points per match
 
 [In depth model review and projections for NPC 2026](comp_files/NPC_2026)
 
-Competition Accuracy: 5 of 8 (62.5%)
+Competition Accuracy: 5 of 9 (55.56%)
 
-Competition Error: 17.45 points per match
+Competition Error: 17.24 points per match
 
-Last Two Week Accuracy: 5 of 8 (62.5%)
+Last Two Week Accuracy: 5 of 9 (55.56%)
 
-Last Two Week Error: 17.45 points per match
+Last Two Week Error: 17.24 points per match
 
 [2026/08/21 - Tasman V Southland](projections/2026-08-21-Tasman_V_Southland)
 
@@ -132,19 +132,17 @@ Last Two Week Error: 17.45 points per match
 
 [2026/08/23 - Otago V Wellington](projections/2026-08-23-Otago_V_Wellington)
 
-[2026/08/20 - Canterbury V Northland](projections/2026-08-20-Canterbury_V_Northland)
-
 [2026/08/21 - Hawke's Bay V Manawatu](projections/2026-08-21-Hawke'sBay_V_Manawatu)
+
+[2026/08/20 - Canterbury V Northland](projections/2026-08-20-Canterbury_V_Northland)
 
 [2026/08/16 - Counties Manukau V Tasman](projections/2026-08-16-CountiesManukau_V_Tasman)
 
-[2026/08/07 - Taranaki V Waikato](projections/2026-08-07-Taranaki_V_Waikato)
+[2026/08/15 - Southland V Waikato](projections/2026-08-15-Southland_V_Waikato)
 
 [2026/08/07 - Auckland V Wellington](projections/2026-08-07-Auckland_V_Wellington)
 
 [2026/08/08 - Bay of Plenty V Northland](projections/2026-08-08-BayofPlenty_V_Northland)
-
-[2026/08/15 - Southland V Waikato](projections/2026-08-15-Southland_V_Waikato)
 
 [2026/08/08 - Hawke's Bay V Tasman](projections/2026-08-08-Hawke'sBay_V_Tasman)
 

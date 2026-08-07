@@ -474,7 +474,7 @@ key: page-recents
 ## Rugby Union Hybrid Friendlies
 
 
-[2026](comp_files/Rugby_Union_Hybrid_Friendlies_2026) - Prediction Accuracy: 50.0% 
+[2026](comp_files/Rugby_Union_Hybrid_Friendlies_2026) - Prediction Accuracy: 66.7% 
 
 [2025](comp_files/Rugby_Union_Hybrid_Friendlies_2025) - Prediction Accuracy: 62.5% 
 
@@ -986,7 +986,7 @@ key: page-recents
 ## Currie Cup
 
 
-[2026](comp_files/Currie_Cup_2026) - Prediction Accuracy: 76.5% 
+[2026](comp_files/Currie_Cup_2026) - Prediction Accuracy: 64.7% 
 
 [2025](comp_files/Currie_Cup_2025) - Prediction Accuracy: 55.2% 
 
@@ -1074,7 +1074,7 @@ key: page-recents
 ## NPC
 
 
-[2026](comp_files/NPC_2026) - Prediction Accuracy: 78.6% 
+[2026](comp_files/NPC_2026) - Prediction Accuracy: 72.9% 
 
 [2025](comp_files/NPC_2025) - Prediction Accuracy: 68.8% 
 
@@ -1278,7 +1278,7 @@ key: page-recents
 ## URBA Top 14
 
 
-[2026](comp_files/URBA_Top_14_2026) - Prediction Accuracy: 70.9% 
+[2026](comp_files/URBA_Top_14_2026) - Prediction Accuracy: 67.6% 
 ## prorugby
 
 

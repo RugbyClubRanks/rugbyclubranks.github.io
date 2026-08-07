@@ -10,13 +10,13 @@ key: page-recents
 
 [In depth model review and projections for NPC 2026](comp_files/NPC_2026)
 
-Competition Accuracy: 5 of 8 (62.5%)
+Competition Accuracy: 5 of 9 (55.56%)
 
-Competition Error: 17.45 points per match
+Competition Error: 17.24 points per match
 
-Last Two Week Accuracy: 5 of 8 (62.5%)
+Last Two Week Accuracy: 5 of 9 (55.56%)
 
-Last Two Week Error: 17.45 points per match
+Last Two Week Error: 17.24 points per match
 
 [2026/07/30 - Waikato V Bay of Plenty, 38.0 to 26.0](reviews/2026-07-30-Waikato_V_BayofPlenty)
 
@@ -33,6 +33,8 @@ Last Two Week Error: 17.45 points per match
 [2026/08/02 - Wellington V Hawke's Bay, 33.0 to 52.0](reviews/2026-08-02-Wellington_V_HawkesBay)
 
 [2026/08/06 - North Harbour V Counties Manukau, 59.0 to 19.0](reviews/2026-08-06-NorthHarbour_V_CountiesManukau)
+
+[2026/08/07 - Taranaki V Waikato, 32.0 to 38.0](reviews/2026-08-07-Taranaki_V_Waikato)
 ## URBA Top 14
 
 
