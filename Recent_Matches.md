@@ -12,7 +12,7 @@ key: page-recents
 
 Competition Accuracy: 5 of 6 (83.33%)
 
-Competition Error: 7.53 points per match
+Competition Error: 7.58 points per match
 
 Last Two Week Accuracy: 2 of 2 (100.0%)
 
@@ -28,13 +28,13 @@ Last Two Week Error: 3.17 points per match
 
 [In depth model review and projections for NPC 2026](comp_files/NPC_2026)
 
-Competition Accuracy: 8 of 14 (57.14%)
+Competition Accuracy: 8 of 15 (53.33%)
 
-Competition Error: 13.83 points per match
+Competition Error: 16.26 points per match
 
-Last Two Week Accuracy: 8 of 14 (57.14%)
+Last Two Week Accuracy: 3 of 8 (37.5%)
 
-Last Two Week Error: 13.83 points per match
+Last Two Week Error: 18.48 points per match
 
 [2026/08/06 - North Harbour V Counties Manukau, 59.0 to 19.0](reviews/2026-08-06-NorthHarbour_V_CountiesManukau)
 
@@ -49,3 +49,5 @@ Last Two Week Error: 13.83 points per match
 [2026/08/08 - Otago V Canterbury, 15.0 to 19.0](reviews/2026-08-08-Otago_V_Canterbury)
 
 [2026/08/09 - Manawatu V Southland, 36.0 to 35.0](reviews/2026-08-09-Manawatu_V_Southland)
+
+[2026/08/13 - Wellington V North Harbour, 7.0 to 47.0](reviews/2026-08-13-Wellington_V_NorthHarbour)
