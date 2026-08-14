@@ -12,7 +12,7 @@ key: page-projections
 
 Competition Accuracy: 5 of 6 (83.33%)
 
-Competition Error: 7.58 points per match
+Competition Error: 7.56 points per match
 
 Last Two Week Accuracy: 2 of 2 (100.0%)
 
@@ -69,58 +69,6 @@ Competition Error: 8.9 points per match
 [2026/08/15 - Pumas V Western Province](projections/2026-08-15-Pumas_V_WesternProvince)
 
 [2026/08/16 - Blue Bulls V Cheetahs](projections/2026-08-16-BlueBulls_V_Cheetahs)
-## NPC
-
-
-[In depth model review and projections for NPC 2026](comp_files/NPC_2026)
-
-Competition Accuracy: 8 of 15 (53.33%)
-
-Competition Error: 16.26 points per match
-
-Last Two Week Accuracy: 3 of 8 (37.5%)
-
-Last Two Week Error: 18.48 points per match
-
-[2026/08/30 - Northland V Tasman](projections/2026-08-30-Northland_V_Tasman)
-
-[2026/08/29 - Wellington V Counties Manukau](projections/2026-08-29-Wellington_V_CountiesManukau)
-
-[2026/08/29 - Otago V Waikato](projections/2026-08-29-Otago_V_Waikato)
-
-[2026/08/29 - Manawatu V North Harbour](projections/2026-08-29-Manawatu_V_NorthHarbour)
-
-[2026/08/15 - Southland V Waikato](projections/2026-08-15-Southland_V_Waikato)
-
-[2026/08/14 - Canterbury V Bay of Plenty](projections/2026-08-14-Canterbury_V_BayofPlenty)
-
-[2026/08/14 - Northland V Taranaki](projections/2026-08-14-Northland_V_Taranaki)
-
-[2026/08/15 - Auckland V Hawke's Bay](projections/2026-08-15-Auckland_V_Hawke'sBay)
-
-[2026/08/15 - Manawatu V Otago](projections/2026-08-15-Manawatu_V_Otago)
-
-[2026/08/16 - Counties Manukau V Tasman](projections/2026-08-16-CountiesManukau_V_Tasman)
-
-[2026/08/28 - Taranaki V Canterbury](projections/2026-08-28-Taranaki_V_Canterbury)
-
-[2026/08/20 - Canterbury V Northland](projections/2026-08-20-Canterbury_V_Northland)
-
-[2026/08/21 - Hawke's Bay V Manawatu](projections/2026-08-21-Hawke'sBay_V_Manawatu)
-
-[2026/08/21 - Tasman V Southland](projections/2026-08-21-Tasman_V_Southland)
-
-[2026/08/22 - Bay of Plenty V Taranaki](projections/2026-08-22-BayofPlenty_V_Taranaki)
-
-[2026/08/22 - North Harbour V Auckland](projections/2026-08-22-NorthHarbour_V_Auckland)
-
-[2026/08/22 - Waikato V Counties Manukau](projections/2026-08-22-Waikato_V_CountiesManukau)
-
-[2026/08/23 - Otago V Wellington](projections/2026-08-23-Otago_V_Wellington)
-
-[2026/08/27 - Southland V Hawke's Bay](projections/2026-08-27-Southland_V_Hawke'sBay)
-
-[2026/08/28 - Auckland V Bay of Plenty](projections/2026-08-28-Auckland_V_BayofPlenty)
 ## URBA Top 14
 
 
@@ -128,7 +76,9 @@ Last Two Week Error: 18.48 points per match
 
 Competition Accuracy: 55 of 98 (56.12%)
 
-Competition Error: 14.28 points per match
+Competition Error: 14.27 points per match
+
+[2026/08/22 - Hindu V SIC](projections/2026-08-22-Hindu_V_SIC)
 
 [2026/08/15 - Belgrano AC V Hindu](projections/2026-08-15-BelgranoAC_V_Hindu)
 
@@ -147,8 +97,6 @@ Competition Error: 14.28 points per match
 [2026/08/22 - Atlético del Rosario V CUBA](projections/2026-08-22-AtleticodelRosario_V_CUBA)
 
 [2026/08/22 - Champagnat V Newman](projections/2026-08-22-Champagnat_V_Newman)
-
-[2026/08/22 - Hindu V SIC](projections/2026-08-22-Hindu_V_SIC)
 
 [2026/08/22 - La Plata V Belgrano AC](projections/2026-08-22-LaPlata_V_BelgranoAC)
 
@@ -171,3 +119,53 @@ Competition Error: 14.28 points per match
 [2026/08/29 - Newman V Hindu](projections/2026-08-29-Newman_V_Hindu)
 
 [2026/08/29 - SIC V La Plata](projections/2026-08-29-SIC_V_LaPlata)
+## NPC
+
+
+[In depth model review and projections for NPC 2026](comp_files/NPC_2026)
+
+Competition Accuracy: 8 of 16 (50.0%)
+
+Competition Error: 18.11 points per match
+
+Last Two Week Accuracy: 3 of 9 (33.33%)
+
+Last Two Week Error: 21.53 points per match
+
+[2026/08/29 - Wellington V Counties Manukau](projections/2026-08-29-Wellington_V_CountiesManukau)
+
+[2026/08/30 - Northland V Tasman](projections/2026-08-30-Northland_V_Tasman)
+
+[2026/08/29 - Otago V Waikato](projections/2026-08-29-Otago_V_Waikato)
+
+[2026/08/16 - Counties Manukau V Tasman](projections/2026-08-16-CountiesManukau_V_Tasman)
+
+[2026/08/14 - Canterbury V Bay of Plenty](projections/2026-08-14-Canterbury_V_BayofPlenty)
+
+[2026/08/15 - Auckland V Hawke's Bay](projections/2026-08-15-Auckland_V_Hawke'sBay)
+
+[2026/08/15 - Manawatu V Otago](projections/2026-08-15-Manawatu_V_Otago)
+
+[2026/08/15 - Southland V Waikato](projections/2026-08-15-Southland_V_Waikato)
+
+[2026/08/20 - Canterbury V Northland](projections/2026-08-20-Canterbury_V_Northland)
+
+[2026/08/29 - Manawatu V North Harbour](projections/2026-08-29-Manawatu_V_NorthHarbour)
+
+[2026/08/21 - Hawke's Bay V Manawatu](projections/2026-08-21-Hawke'sBay_V_Manawatu)
+
+[2026/08/21 - Tasman V Southland](projections/2026-08-21-Tasman_V_Southland)
+
+[2026/08/22 - Bay of Plenty V Taranaki](projections/2026-08-22-BayofPlenty_V_Taranaki)
+
+[2026/08/22 - North Harbour V Auckland](projections/2026-08-22-NorthHarbour_V_Auckland)
+
+[2026/08/22 - Waikato V Counties Manukau](projections/2026-08-22-Waikato_V_CountiesManukau)
+
+[2026/08/23 - Otago V Wellington](projections/2026-08-23-Otago_V_Wellington)
+
+[2026/08/27 - Southland V Hawke's Bay](projections/2026-08-27-Southland_V_Hawke'sBay)
+
+[2026/08/28 - Auckland V Bay of Plenty](projections/2026-08-28-Auckland_V_BayofPlenty)
+
+[2026/08/28 - Taranaki V Canterbury](projections/2026-08-28-Taranaki_V_Canterbury)

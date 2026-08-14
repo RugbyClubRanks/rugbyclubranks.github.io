@@ -9,9 +9,9 @@ categories: rugby "International Test Match 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted South Africa to win by 12.8, and South Africa won by 7.0. That's an absolute error of 5.8 for the margin of victory, while my average absolute error has been 15.0 over the past six months. This prediction was more accurate than 72.6% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted South Africa to win by 12.66, and South Africa won by 7.0. That's an absolute error of 5.7 for the margin of victory, while my average absolute error has been 15.0 over the past six months. This prediction was more accurate than 73.0% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 47.5 and we have an actual total of 27.0. That's an absolute error of 20.5 compared to a six month average of 14.4. This prediction was more accurate than 26.2% of my recent predictions.
+For the Over/Under model, I predicted a total of 47.5 and we have an actual total of 27.0. That's an absolute error of 20.5 compared to a six month average of 14.4. This prediction was more accurate than 26.0% of my recent predictions.
 ## Projected Performances - Club Model
 
 
