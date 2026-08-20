@@ -12,15 +12,15 @@ key: page-recents
 
 Competition Accuracy: 7 of 8 (87.5%)
 
-Competition Error: 8.57 points per match
+Competition Error: 8.59 points per match
 
-Last Two Week Accuracy: 3 of 4 (75.0%)
+Last Two Week Accuracy: 1 of 2 (50.0%)
 
-Last Two Week Error: 9.05 points per match
+Last Two Week Error: 14.86 points per match
+
+[2026/08/14 - United States of America V Argentina A, 25.0 to 24.0](reviews/2026-08-14-UnitedStatesofAmerica_V_ArgentinaA)
 
 [2026/08/15 - Australia V Japan, 56.0 to 17.0](reviews/2026-08-15-Australia_V_Japan)
-
-[2026/08/15 - United States of America V Argentina A, 25.0 to 24.0](reviews/2026-08-15-UnitedStatesofAmerica_V_ArgentinaA)
 # Domestic Competitions
 
 ## NPC
@@ -28,13 +28,13 @@ Last Two Week Error: 9.05 points per match
 
 [In depth model review and projections for NPC 2026](comp_files/NPC_2026)
 
-Competition Accuracy: 11 of 21 (52.38%)
+Competition Accuracy: 11 of 22 (50.0%)
 
-Competition Error: 16.25 points per match
+Competition Error: 17.34 points per match
 
-Last Two Week Accuracy: 6 of 14 (42.86%)
+Last Two Week Accuracy: 3 of 8 (37.5%)
 
-Last Two Week Error: 17.46 points per match
+Last Two Week Error: 23.68 points per match
 
 [2026/08/13 - Wellington V North Harbour, 7.0 to 47.0](reviews/2026-08-13-Wellington_V_NorthHarbour)
 
@@ -49,6 +49,8 @@ Last Two Week Error: 17.46 points per match
 [2026/08/15 - Southland V Waikato, 32.0 to 31.0](reviews/2026-08-15-Southland_V_Waikato)
 
 [2026/08/16 - Counties Manukau V Tasman, 35.0 to 50.0](reviews/2026-08-16-CountiesManukau_V_Tasman)
+
+[2026/08/20 - Canterbury V Northland, 12.0 to 36.0](reviews/2026-08-20-Canterbury_V_Northland)
 ## URBA Top 14
 
 
@@ -56,11 +58,11 @@ Last Two Week Error: 17.46 points per match
 
 Competition Accuracy: 63 of 105 (60.0%)
 
-Competition Error: 13.87 points per match
+Competition Error: 13.85 points per match
 
 Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 8.71 points per match
+Last Two Week Error: 8.63 points per match
 
 [2026/08/15 - Belgrano AC V Hindu, 36.0 to 13.0](reviews/2026-08-15-BelgranoAC_V_Hindu)
 

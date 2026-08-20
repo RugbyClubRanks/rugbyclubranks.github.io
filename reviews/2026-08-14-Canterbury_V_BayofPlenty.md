@@ -9,9 +9,9 @@ categories: rugby "NPC 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Canterbury to win by 9.95, and Canterbury won by 5.0. That's an absolute error of 4.9 for the margin of victory, while my average absolute error has been 14.8 over the past six months. This prediction was more accurate than 75.9% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Canterbury to win by 10.45, and Canterbury won by 5.0. That's an absolute error of 5.4 for the margin of victory, while my average absolute error has been 14.7 over the past six months. This prediction was more accurate than 74.1% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 61.0. That's an absolute error of 9.5 compared to a six month average of 14.4. This prediction was more accurate than 58.0% of my recent predictions.
+For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 61.0. That's an absolute error of 9.5 compared to a six month average of 14.3. This prediction was more accurate than 57.5% of my recent predictions.
 ## Projected Performances - Club Model
 
 
