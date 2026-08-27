@@ -9,9 +9,9 @@ categories: rugby "URBA Top 14 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Alumni to win by 1.08, and Alumni won by 23.0. That's an absolute error of 21.9 for the margin of victory, while my average absolute error has been 14.8 over the past six months. This prediction was more accurate than 22.3% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Alumni to win by 1.59, and Alumni won by 23.0. That's an absolute error of 21.4 for the margin of victory, while my average absolute error has been 14.8 over the past six months. This prediction was more accurate than 23.7% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 59.5 and we have an actual total of 81.0. That's an absolute error of 21.5 compared to a six month average of 14.3. This prediction was more accurate than 23.7% of my recent predictions.
+For the Over/Under model, I predicted a total of 60.5 and we have an actual total of 81.0. That's an absolute error of 20.5 compared to a six month average of 14.3. This prediction was more accurate than 25.1% of my recent predictions.
 ## Projected Performances - Club Model
 
 

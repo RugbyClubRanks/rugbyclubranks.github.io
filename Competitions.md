@@ -1074,7 +1074,7 @@ key: page-recents
 ## NPC
 
 
-[2026](comp_files/NPC_2026) - Prediction Accuracy: 68.6% 
+[2026](comp_files/NPC_2026) - Prediction Accuracy: 70.0% 
 
 [2025](comp_files/NPC_2025) - Prediction Accuracy: 68.8% 
 
@@ -1278,7 +1278,7 @@ key: page-recents
 ## URBA Top 14
 
 
-[2026](comp_files/URBA_Top_14_2026) - Prediction Accuracy: 69.8% 
+[2026](comp_files/URBA_Top_14_2026) - Prediction Accuracy: 68.7% 
 ## prorugby
 
 

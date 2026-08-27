@@ -1,6 +1,6 @@
 ---
 title: "European Rugby Champions Cup 26/27"
-date: 2026-08-24 6:00:00 -0500
+date: 2026-08-27 6:00:00 -0500
 categories: model review projection
 layout: article
 aside:
@@ -17,30 +17,30 @@ aside:
 
 | Club                 |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:---------------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Northampton Saints   |         1 |            0.935 |                   12.183 |                           0.043 |                              |                          3.821 |
-| Stormers             |         1 |            0.888 |                    9.218 |                           0.077 |                              |                          3.665 |
-| La Rochelle          |         1 |            0.882 |                    8.202 |                           0.083 |                              |                          3.653 |
-| Stade Toulousain     |         1 |            0.836 |                    7.603 |                           0.105 |                              |                          3.525 |
-| Bulls                |         1 |            0.773 |                    6.755 |                           0.158 |                              |                          3.314 |
-| Bath Rugby           |         1 |            0.731 |                    5.074 |                           0.193 |                              |                          3.201 |
-| Connacht             |         1 |            0.726 |                    4.957 |                           0.183 |                              |                          3.171 |
-| Munster              |         1 |            0.693 |                    4.36  |                           0.208 |                              |                          3.056 |
-| Bordeaux Begles      |         1 |            0.566 |                    1.772 |                           0.284 |                              |                          2.664 |
-| Glasgow Warriors     |         1 |            0.536 |                    1.224 |                           0.289 |                              |                          2.551 |
-| Pau                  |         1 |            0.507 |                    0.741 |                           0.317 |                              |                          2.477 |
-| Leinster             |         1 |            0.484 |                    0.265 |                           0.331 |                              |                          2.393 |
-| Clermont Auvergne    |         1 |            0.453 |                   -0.265 |                           0.345 |                              |                          2.283 |
-| Leicester Tigers     |         1 |            0.427 |                   -0.741 |                           0.346 |                              |                          2.186 |
-| Sale Sharks          |         1 |            0.405 |                   -1.224 |                           0.34  |                              |                          2.078 |
-| Gloucester Rugby     |         1 |            0.376 |                   -1.772 |                           0.358 |                              |                          1.978 |
-| Racing 92            |         1 |            0.269 |                   -4.36  |                           0.347 |                              |                          1.499 |
-| Saracens             |         1 |            0.232 |                   -4.957 |                           0.351 |                              |                          1.363 |
-| Montpellier Herault  |         1 |            0.227 |                   -5.074 |                           0.351 |                              |                          1.343 |
-| Stade Francais Paris |         1 |            0.195 |                   -6.755 |                           0.298 |                              |                          1.142 |
-| Exeter Chiefs        |         1 |            0.126 |                   -7.603 |                           0.328 |                              |                          0.908 |
-| Lions                |         1 |            0.097 |                   -8.202 |                           0.357 |                              |                          0.787 |
-| Bristol Rugby        |         1 |            0.094 |                   -9.218 |                           0.288 |                              |                          0.7   |
-| Cardiff Rugby        |         1 |            0.046 |                  -12.183 |                           0.184 |                              |                          0.406 |
+| Northampton Saints   |         1 |            0.948 |                   12.235 |                           0.038 |                              |                          3.852 |
+| Stade Toulousain     |         1 |            0.877 |                    8.37  |                           0.093 |                              |                          3.641 |
+| Stormers             |         1 |            0.866 |                    9.664 |                           0.087 |                              |                          3.621 |
+| La Rochelle          |         1 |            0.838 |                    7.502 |                           0.115 |                              |                          3.531 |
+| Bulls                |         1 |            0.776 |                    6.101 |                           0.158 |                              |                          3.326 |
+| Bath Rugby           |         1 |            0.747 |                    5.08  |                           0.191 |                              |                          3.253 |
+| Connacht             |         1 |            0.723 |                    4.983 |                           0.184 |                              |                          3.158 |
+| Munster              |         1 |            0.688 |                    4.289 |                           0.222 |                              |                          3.048 |
+| Bordeaux Begles      |         1 |            0.584 |                    1.879 |                           0.259 |                              |                          2.725 |
+| Pau                  |         1 |            0.519 |                    0.72  |                           0.3   |                              |                          2.472 |
+| Glasgow Warriors     |         1 |            0.515 |                    0.579 |                           0.295 |                              |                          2.453 |
+| Leinster             |         1 |            0.507 |                    0.526 |                           0.326 |                              |                          2.442 |
+| Clermont Auvergne    |         1 |            0.449 |                   -0.526 |                           0.328 |                              |                          2.212 |
+| Sale Sharks          |         1 |            0.436 |                   -0.579 |                           0.339 |                              |                          2.181 |
+| Leicester Tigers     |         1 |            0.433 |                   -0.72  |                           0.351 |                              |                          2.179 |
+| Gloucester Rugby     |         1 |            0.351 |                   -1.879 |                           0.368 |                              |                          1.902 |
+| Racing 92            |         1 |            0.275 |                   -4.289 |                           0.35  |                              |                          1.524 |
+| Saracens             |         1 |            0.236 |                   -4.983 |                           0.357 |                              |                          1.383 |
+| Montpellier Herault  |         1 |            0.216 |                   -5.08  |                           0.384 |                              |                          1.322 |
+| Stade Francais Paris |         1 |            0.192 |                   -6.101 |                           0.335 |                              |                          1.167 |
+| Lions                |         1 |            0.13  |                   -7.502 |                           0.328 |                              |                          0.912 |
+| Exeter Chiefs        |         1 |            0.103 |                   -8.37  |                           0.339 |                              |                          0.791 |
+| Bristol Rugby        |         1 |            0.099 |                   -9.664 |                           0.242 |                              |                          0.708 |
+| Cardiff Rugby        |         1 |            0.041 |                  -12.235 |                           0.186 |                              |                          0.372 |
 
 
 
@@ -49,30 +49,30 @@ aside:
 
 | Club                 |   Played |   Wins |   Point Differential |   Losing Bonus Points | Try Bonus Points   |   Competition Points |
 |:---------------------|---------:|-------:|---------------------:|----------------------:|:-------------------|---------------------:|
-| Northampton Saints   |        1 |  0.935 |               12.183 |                 0.043 |                    |                3.821 |
-| Stormers             |        1 |  0.888 |                9.218 |                 0.077 |                    |                3.665 |
-| La Rochelle          |        1 |  0.882 |                8.202 |                 0.083 |                    |                3.653 |
-| Stade Toulousain     |        1 |  0.836 |                7.603 |                 0.105 |                    |                3.525 |
-| Bulls                |        1 |  0.773 |                6.755 |                 0.158 |                    |                3.314 |
-| Bath Rugby           |        1 |  0.731 |                5.074 |                 0.193 |                    |                3.201 |
-| Connacht             |        1 |  0.726 |                4.957 |                 0.183 |                    |                3.171 |
-| Munster              |        1 |  0.693 |                4.36  |                 0.208 |                    |                3.056 |
-| Bordeaux Begles      |        1 |  0.566 |                1.772 |                 0.284 |                    |                2.664 |
-| Glasgow Warriors     |        1 |  0.536 |                1.224 |                 0.289 |                    |                2.551 |
-| Pau                  |        1 |  0.507 |                0.741 |                 0.317 |                    |                2.477 |
-| Leinster             |        1 |  0.484 |                0.265 |                 0.331 |                    |                2.393 |
-| Clermont Auvergne    |        1 |  0.453 |               -0.265 |                 0.345 |                    |                2.283 |
-| Leicester Tigers     |        1 |  0.427 |               -0.741 |                 0.346 |                    |                2.186 |
-| Sale Sharks          |        1 |  0.405 |               -1.224 |                 0.34  |                    |                2.078 |
-| Gloucester Rugby     |        1 |  0.376 |               -1.772 |                 0.358 |                    |                1.978 |
-| Racing 92            |        1 |  0.269 |               -4.36  |                 0.347 |                    |                1.499 |
-| Saracens             |        1 |  0.232 |               -4.957 |                 0.351 |                    |                1.363 |
-| Montpellier Herault  |        1 |  0.227 |               -5.074 |                 0.351 |                    |                1.343 |
-| Stade Francais Paris |        1 |  0.195 |               -6.755 |                 0.298 |                    |                1.142 |
-| Exeter Chiefs        |        1 |  0.126 |               -7.603 |                 0.328 |                    |                0.908 |
-| Lions                |        1 |  0.097 |               -8.202 |                 0.357 |                    |                0.787 |
-| Bristol Rugby        |        1 |  0.094 |               -9.218 |                 0.288 |                    |                0.7   |
-| Cardiff Rugby        |        1 |  0.046 |              -12.183 |                 0.184 |                    |                0.406 |
+| Northampton Saints   |        1 |  0.948 |               12.235 |                 0.038 |                    |                3.852 |
+| Stade Toulousain     |        1 |  0.877 |                8.37  |                 0.093 |                    |                3.641 |
+| Stormers             |        1 |  0.866 |                9.664 |                 0.087 |                    |                3.621 |
+| La Rochelle          |        1 |  0.838 |                7.502 |                 0.115 |                    |                3.531 |
+| Bulls                |        1 |  0.776 |                6.101 |                 0.158 |                    |                3.326 |
+| Bath Rugby           |        1 |  0.747 |                5.08  |                 0.191 |                    |                3.253 |
+| Connacht             |        1 |  0.723 |                4.983 |                 0.184 |                    |                3.158 |
+| Munster              |        1 |  0.688 |                4.289 |                 0.222 |                    |                3.048 |
+| Bordeaux Begles      |        1 |  0.584 |                1.879 |                 0.259 |                    |                2.725 |
+| Pau                  |        1 |  0.519 |                0.72  |                 0.3   |                    |                2.472 |
+| Glasgow Warriors     |        1 |  0.515 |                0.579 |                 0.295 |                    |                2.453 |
+| Leinster             |        1 |  0.507 |                0.526 |                 0.326 |                    |                2.442 |
+| Clermont Auvergne    |        1 |  0.449 |               -0.526 |                 0.328 |                    |                2.212 |
+| Sale Sharks          |        1 |  0.436 |               -0.579 |                 0.339 |                    |                2.181 |
+| Leicester Tigers     |        1 |  0.433 |               -0.72  |                 0.351 |                    |                2.179 |
+| Gloucester Rugby     |        1 |  0.351 |               -1.879 |                 0.368 |                    |                1.902 |
+| Racing 92            |        1 |  0.275 |               -4.289 |                 0.35  |                    |                1.524 |
+| Saracens             |        1 |  0.236 |               -4.983 |                 0.357 |                    |                1.383 |
+| Montpellier Herault  |        1 |  0.216 |               -5.08  |                 0.384 |                    |                1.322 |
+| Stade Francais Paris |        1 |  0.192 |               -6.101 |                 0.335 |                    |                1.167 |
+| Lions                |        1 |  0.13  |               -7.502 |                 0.328 |                    |                0.912 |
+| Exeter Chiefs        |        1 |  0.103 |               -8.37  |                 0.339 |                    |                0.791 |
+| Bristol Rugby        |        1 |  0.099 |               -9.664 |                 0.242 |                    |                0.708 |
+| Cardiff Rugby        |        1 |  0.041 |              -12.235 |                 0.186 |                    |                0.372 |
 
 
 
@@ -83,34 +83,12 @@ aside:
 ### Gloucester Rugby V Bordeaux Begles on 2026/10/16
 
 
-Average Margin: Bordeaux Begles by 1.8
+Average Margin: Bordeaux Begles by 1.9
 
 <p float="left">
 <img src="plots/2026-10-16-GloucesterRugby_V_BordeauxBegles_club_performances.png" width="32%" />
 <img src="plots/2026-10-16-GloucesterRugby_V_BordeauxBegles_club_resultbar.png" width="32%" />
 <img src="plots/2026-10-16-GloucesterRugby_V_BordeauxBegles_club_spreads.png" width="32%" />
-</p>
-
-### Bath Rugby V Montpellier Herault on 2026/10/17
-
-
-Average Margin: Bath Rugby by 5.1
-
-<p float="left">
-<img src="plots/2026-10-17-BathRugby_V_MontpellierHerault_club_performances.png" width="32%" />
-<img src="plots/2026-10-17-BathRugby_V_MontpellierHerault_club_resultbar.png" width="32%" />
-<img src="plots/2026-10-17-BathRugby_V_MontpellierHerault_club_spreads.png" width="32%" />
-</p>
-
-### Bulls V Stade Francais Paris on 2026/10/17
-
-
-Average Margin: Bulls by 6.8
-
-<p float="left">
-<img src="plots/2026-10-17-Bulls_V_StadeFrancaisParis_club_performances.png" width="32%" />
-<img src="plots/2026-10-17-Bulls_V_StadeFrancaisParis_club_resultbar.png" width="32%" />
-<img src="plots/2026-10-17-Bulls_V_StadeFrancaisParis_club_spreads.png" width="32%" />
 </p>
 
 ### Connacht V Saracens on 2026/10/17
@@ -124,43 +102,21 @@ Average Margin: Connacht by 5.0
 <img src="plots/2026-10-17-Connacht_V_Saracens_club_spreads.png" width="32%" />
 </p>
 
-### Stormers V Bristol Rugby on 2026/10/17
+### Sale Sharks V Glasgow Warriors on 2026/10/17
 
 
-Average Margin: Stormers by 9.2
-
-<p float="left">
-<img src="plots/2026-10-17-Stormers_V_BristolRugby_club_performances.png" width="32%" />
-<img src="plots/2026-10-17-Stormers_V_BristolRugby_club_resultbar.png" width="32%" />
-<img src="plots/2026-10-17-Stormers_V_BristolRugby_club_spreads.png" width="32%" />
-</p>
-
-### Clermont Auvergne V Leinster on 2026/10/17
-
-
-Average Margin: Leinster by 0.3
+Average Margin: Glasgow Warriors by 0.6
 
 <p float="left">
-<img src="plots/2026-10-17-ClermontAuvergne_V_Leinster_club_performances.png" width="32%" />
-<img src="plots/2026-10-17-ClermontAuvergne_V_Leinster_club_resultbar.png" width="32%" />
-<img src="plots/2026-10-17-ClermontAuvergne_V_Leinster_club_spreads.png" width="32%" />
-</p>
-
-### Munster V Racing 92 on 2026/10/17
-
-
-Average Margin: Munster by 4.4
-
-<p float="left">
-<img src="plots/2026-10-17-Munster_V_Racing92_club_performances.png" width="32%" />
-<img src="plots/2026-10-17-Munster_V_Racing92_club_resultbar.png" width="32%" />
-<img src="plots/2026-10-17-Munster_V_Racing92_club_spreads.png" width="32%" />
+<img src="plots/2026-10-17-SaleSharks_V_GlasgowWarriors_club_performances.png" width="32%" />
+<img src="plots/2026-10-17-SaleSharks_V_GlasgowWarriors_club_resultbar.png" width="32%" />
+<img src="plots/2026-10-17-SaleSharks_V_GlasgowWarriors_club_spreads.png" width="32%" />
 </p>
 
 ### La Rochelle V Lions on 2026/10/17
 
 
-Average Margin: La Rochelle by 8.2
+Average Margin: La Rochelle by 7.5
 
 <p float="left">
 <img src="plots/2026-10-17-LaRochelle_V_Lions_club_performances.png" width="32%" />
@@ -168,15 +124,59 @@ Average Margin: La Rochelle by 8.2
 <img src="plots/2026-10-17-LaRochelle_V_Lions_club_spreads.png" width="32%" />
 </p>
 
-### Sale Sharks V Glasgow Warriors on 2026/10/17
+### Munster V Racing 92 on 2026/10/17
 
 
-Average Margin: Glasgow Warriors by 1.2
+Average Margin: Munster by 4.3
 
 <p float="left">
-<img src="plots/2026-10-17-SaleSharks_V_GlasgowWarriors_club_performances.png" width="32%" />
-<img src="plots/2026-10-17-SaleSharks_V_GlasgowWarriors_club_resultbar.png" width="32%" />
-<img src="plots/2026-10-17-SaleSharks_V_GlasgowWarriors_club_spreads.png" width="32%" />
+<img src="plots/2026-10-17-Munster_V_Racing92_club_performances.png" width="32%" />
+<img src="plots/2026-10-17-Munster_V_Racing92_club_resultbar.png" width="32%" />
+<img src="plots/2026-10-17-Munster_V_Racing92_club_spreads.png" width="32%" />
+</p>
+
+### Bath Rugby V Montpellier Herault on 2026/10/17
+
+
+Average Margin: Bath Rugby by 5.1
+
+<p float="left">
+<img src="plots/2026-10-17-BathRugby_V_MontpellierHerault_club_performances.png" width="32%" />
+<img src="plots/2026-10-17-BathRugby_V_MontpellierHerault_club_resultbar.png" width="32%" />
+<img src="plots/2026-10-17-BathRugby_V_MontpellierHerault_club_spreads.png" width="32%" />
+</p>
+
+### Stormers V Bristol Rugby on 2026/10/17
+
+
+Average Margin: Stormers by 9.7
+
+<p float="left">
+<img src="plots/2026-10-17-Stormers_V_BristolRugby_club_performances.png" width="32%" />
+<img src="plots/2026-10-17-Stormers_V_BristolRugby_club_resultbar.png" width="32%" />
+<img src="plots/2026-10-17-Stormers_V_BristolRugby_club_spreads.png" width="32%" />
+</p>
+
+### Bulls V Stade Francais Paris on 2026/10/17
+
+
+Average Margin: Bulls by 6.1
+
+<p float="left">
+<img src="plots/2026-10-17-Bulls_V_StadeFrancaisParis_club_performances.png" width="32%" />
+<img src="plots/2026-10-17-Bulls_V_StadeFrancaisParis_club_resultbar.png" width="32%" />
+<img src="plots/2026-10-17-Bulls_V_StadeFrancaisParis_club_spreads.png" width="32%" />
+</p>
+
+### Clermont Auvergne V Leinster on 2026/10/17
+
+
+Average Margin: Leinster by 0.5
+
+<p float="left">
+<img src="plots/2026-10-17-ClermontAuvergne_V_Leinster_club_performances.png" width="32%" />
+<img src="plots/2026-10-17-ClermontAuvergne_V_Leinster_club_resultbar.png" width="32%" />
+<img src="plots/2026-10-17-ClermontAuvergne_V_Leinster_club_spreads.png" width="32%" />
 </p>
 
 ### Northampton Saints V Cardiff Rugby on 2026/10/18
@@ -193,7 +193,7 @@ Average Margin: Northampton Saints by 12.2
 ### Stade Toulousain V Exeter Chiefs on 2026/10/18
 
 
-Average Margin: Stade Toulousain by 7.6
+Average Margin: Stade Toulousain by 8.4
 
 <p float="left">
 <img src="plots/2026-10-18-StadeToulousain_V_ExeterChiefs_club_performances.png" width="32%" />

@@ -12,11 +12,7 @@ key: page-projections
 
 Competition Accuracy: 7 of 8 (87.5%)
 
-Competition Error: 8.59 points per match
-
-Last Two Week Accuracy: 1 of 2 (50.0%)
-
-Last Two Week Error: 14.86 points per match
+Competition Error: 8.57 points per match
 
 [2026/08/29 - Argentina V Australia](projections/2026-08-29-Argentina_V_Australia)
 
@@ -88,11 +84,11 @@ Competition Error: 9.56 points per match
 
 Competition Accuracy: 66 of 111 (59.46%)
 
-Competition Error: 13.76 points per match
+Competition Error: 13.74 points per match
 
-Last Two Week Accuracy: 7 of 13 (53.85%)
+Last Two Week Accuracy: 3 of 6 (50.0%)
 
-Last Two Week Error: 10.09 points per match
+Last Two Week Error: 11.78 points per match
 
 [2026/09/05 - Hindu V Alumni](projections/2026-09-05-Hindu_V_Alumni)
 
@@ -146,9 +142,9 @@ Competition Accuracy: 17 of 28 (60.71%)
 
 Competition Error: 17.12 points per match
 
-Last Two Week Accuracy: 9 of 14 (64.29%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 20.53 points per match
+Last Two Week Error: 19.73 points per match
 
 [2026/09/13 - Southland V Bay of Plenty](projections/2026-09-13-Southland_V_BayofPlenty)
 

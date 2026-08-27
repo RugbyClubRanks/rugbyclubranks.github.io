@@ -9,9 +9,9 @@ categories: rugby "NPC 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Otago to win by 13.25, and Otago won by 39.0. That's an absolute error of 25.8 for the margin of victory, while my average absolute error has been 14.8 over the past six months. This prediction was more accurate than 16.7% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Otago to win by 13.64, and Otago won by 39.0. That's an absolute error of 25.4 for the margin of victory, while my average absolute error has been 14.8 over the past six months. This prediction was more accurate than 17.1% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 83.0. That's an absolute error of 31.5 compared to a six month average of 14.3. This prediction was more accurate than 8.0% of my recent predictions.
+For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 83.0. That's an absolute error of 31.5 compared to a six month average of 14.3. This prediction was more accurate than 8.3% of my recent predictions.
 ## Projected Performances - Club Model
 
 

@@ -28,9 +28,9 @@ Competition Accuracy: 17 of 28 (60.71%)
 
 Competition Error: 17.12 points per match
 
-Last Two Week Accuracy: 9 of 14 (64.29%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 20.53 points per match
+Last Two Week Error: 19.73 points per match
 
 [2026/08/20 - Canterbury V Northland, 12.0 to 36.0](reviews/2026-08-20-Canterbury_V_Northland)
 
@@ -52,11 +52,11 @@ Last Two Week Error: 20.53 points per match
 
 Competition Accuracy: 66 of 111 (59.46%)
 
-Competition Error: 13.76 points per match
+Competition Error: 13.74 points per match
 
-Last Two Week Accuracy: 7 of 13 (53.85%)
+Last Two Week Accuracy: 3 of 6 (50.0%)
 
-Last Two Week Error: 10.09 points per match
+Last Two Week Error: 11.78 points per match
 
 [2026/08/22 - Champagnat V Newman, 21.0 to 41.0](reviews/2026-08-22-Champagnat_V_Newman)
 
