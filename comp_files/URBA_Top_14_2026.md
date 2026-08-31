@@ -1,6 +1,6 @@
 ---
 title: "URBA Top 14 2026"
-date: 2026-08-27 6:00:00 -0500
+date: 2026-08-31 6:00:00 -0500
 categories: model review projection
 layout: article
 aside:
@@ -17,20 +17,20 @@ aside:
 
 | Club                 |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| CASI                 |       19 |     11 |                  118 |                     4 |                 11 |                   59 |
-| Alumni               |       19 |     10 |                   65 |                     4 |                 10 |                   54 |
-| Belgrano AC          |       20 |      9 |                  -26 |                     5 |                 11 |                   52 |
-| Hindu                |       15 |     12 |                  123 |                     1 |                  1 |                   50 |
-| SIC                  |       16 |     10 |                  116 |                     3 |                  7 |                   50 |
-| Newman               |       12 |     10 |                  147 |                     0 |                  8 |                   48 |
-| CUBA                 |       17 |      6 |                   19 |                     8 |                  7 |                   39 |
-| Buenos Aires         |       16 |      8 |                  -37 |                     3 |                  2 |                   37 |
-| Atlético del Rosario |       19 |      7 |                  -79 |                     5 |                  2 |                   35 |
-| La Plata             |       16 |      7 |                  -52 |                     4 |                  1 |                   33 |
-| Los Tilos            |       11 |      6 |                  -31 |                     2 |                  6 |                   32 |
-| Los Matreros         |       17 |      6 |                 -151 |                     2 |                  6 |                   32 |
-| Regatas Bella Vista  |       12 |      5 |                  -71 |                     2 |                  4 |                   26 |
-| Champagnat           |       13 |      4 |                 -141 |                     1 |                  2 |                   19 |
+| CASI                 |       20 |     12 |                  151 |                     4 |                 12 |                   64 |
+| Alumni               |       20 |     11 |                  108 |                     4 |                 11 |                   59 |
+| SIC                  |       17 |     11 |                  168 |                     3 |                  8 |                   55 |
+| Newman               |       13 |     11 |                  167 |                     0 |                  9 |                   53 |
+| Belgrano AC          |       21 |      9 |                  -44 |                     5 |                 11 |                   52 |
+| Hindu                |       16 |     12 |                  103 |                     1 |                  1 |                   50 |
+| CUBA                 |       19 |      6 |                   -3 |                     9 |                  9 |                   42 |
+| Buenos Aires         |       17 |      9 |                  -34 |                     3 |                  2 |                   41 |
+| Atlético del Rosario |       21 |      8 |                  -75 |                     6 |                  2 |                   40 |
+| Los Tilos            |       12 |      7 |                  -16 |                     2 |                  7 |                   37 |
+| La Plata             |       17 |      7 |                 -104 |                     4 |                  1 |                   33 |
+| Los Matreros         |       18 |      6 |                 -184 |                     2 |                  6 |                   32 |
+| Regatas Bella Vista  |       13 |      6 |                  -53 |                     2 |                  5 |                   31 |
+| Champagnat           |       14 |      4 |                 -184 |                     1 |                  2 |                   19 |
 
 
 
@@ -39,20 +39,20 @@ aside:
 
 | Club                 |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points |   Projected Try Bonus Points |   Projected Competition Points |
 |:---------------------|----------:|-----------------:|-------------------------:|--------------------------------:|-----------------------------:|-------------------------------:|
-| SIC                  |        10 |            8.218 |                   93.222 |                           1.146 |                            3 |                         37.526 |
-| Newman               |        10 |            8.096 |                  106.036 |                           1.145 |                            1 |                         35.001 |
-| Hindu                |        10 |            7.922 |                  102.049 |                           1.182 |                              |                         33.328 |
-| Alumni               |        10 |            6.403 |                   51.138 |                           1.797 |                            2 |                         30.015 |
-| CASI                 |        10 |            5.987 |                   51.546 |                           2.124 |                            3 |                         29.722 |
-| Belgrano AC          |        10 |            6.59  |                   56.525 |                           1.739 |                            1 |                         29.673 |
-| Los Tilos            |        10 |            5.335 |                   10.866 |                           2.372 |                            3 |                         27.428 |
-| Buenos Aires         |        10 |            5.016 |                   14.316 |                           2.088 |                              |                         22.774 |
-| CUBA                 |        11 |            3.334 |                  -53.9   |                           2.486 |                            4 |                         20.382 |
-| Champagnat           |        10 |            3.315 |                  -49.091 |                           1.984 |                            1 |                         16.788 |
-| La Plata             |        10 |            3.355 |                  -43.398 |                           2.02  |                              |                         15.914 |
-| Regatas Bella Vista  |        10 |            2.229 |                  -69.273 |                           2.605 |                              |                         12.103 |
-| Los Matreros         |        10 |            1.506 |                 -133.543 |                           1.387 |                            2 |                          9.723 |
-| Atlético del Rosario |        11 |            1.823 |                 -136.493 |                           1.714 |                              |                          9.412 |
+| SIC                  |         9 |            7.26  |                   84.687 |                           1.065 |                            3 |                         33.605 |
+| Newman               |         9 |            7.487 |                  105.727 |                           0.919 |                            1 |                         32.233 |
+| Hindu                |         9 |            7.49  |                   98.954 |                           0.973 |                              |                         31.387 |
+| CASI                 |         9 |            5.224 |                   33.958 |                           1.98  |                            3 |                         26.44  |
+| Alumni               |         9 |            5.302 |                   31.905 |                           1.928 |                            2 |                         25.714 |
+| Los Tilos            |         9 |            4.905 |                   13.512 |                           2.039 |                            3 |                         25.345 |
+| Belgrano AC          |         9 |            5.256 |                   33.208 |                           1.815 |                            1 |                         24.435 |
+| Buenos Aires         |         9 |            3.844 |                   -7.921 |                           2.078 |                              |                         18.084 |
+| Champagnat           |         9 |            2.952 |                  -41.431 |                           2.019 |                            1 |                         15.285 |
+| CUBA                 |         9 |            2.442 |                  -59.908 |                           1.7   |                            3 |                         14.88  |
+| La Plata             |         9 |            3.177 |                  -37.484 |                           1.74  |                              |                         14.866 |
+| Regatas Bella Vista  |         9 |            2.636 |                  -45.678 |                           2.394 |                              |                         13.51  |
+| Los Matreros         |         9 |            1.629 |                 -106.711 |                           1.384 |                            2 |                         10.122 |
+| Atlético del Rosario |         9 |            1.692 |                 -102.818 |                           1.421 |                              |                          8.549 |
 
 
 
@@ -61,20 +61,20 @@ aside:
 
 | Club                 |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| CASI                 |       29 | 16.987 |              169.546 |                 6.124 |                 14 |               88.722 |
-| SIC                  |       26 | 18.218 |              209.222 |                 4.146 |                 10 |               87.526 |
-| Alumni               |       29 | 16.403 |              116.138 |                 5.797 |                 12 |               84.015 |
-| Hindu                |       25 | 19.922 |              225.049 |                 2.182 |                  1 |               83.328 |
-| Newman               |       22 | 18.096 |              253.036 |                 1.145 |                  9 |               83.001 |
-| Belgrano AC          |       30 | 15.59  |               30.525 |                 6.739 |                 12 |               81.673 |
-| Buenos Aires         |       26 | 13.016 |              -22.684 |                 5.088 |                  2 |               59.774 |
-| Los Tilos            |       21 | 11.335 |              -20.134 |                 4.372 |                  9 |               59.428 |
-| CUBA                 |       28 |  9.334 |              -34.9   |                10.486 |                 11 |               59.382 |
-| La Plata             |       26 | 10.355 |              -95.398 |                 6.02  |                  1 |               48.914 |
-| Atlético del Rosario |       30 |  8.823 |             -215.493 |                 6.714 |                  2 |               44.412 |
-| Los Matreros         |       27 |  7.506 |             -284.543 |                 3.387 |                  8 |               41.723 |
-| Regatas Bella Vista  |       22 |  7.229 |             -140.273 |                 4.605 |                  4 |               38.103 |
-| Champagnat           |       23 |  7.315 |             -190.091 |                 2.984 |                  3 |               35.788 |
+| CASI                 |       29 | 17.224 |              184.958 |                 5.98  |                 15 |               90.44  |
+| SIC                  |       26 | 18.26  |              252.687 |                 4.065 |                 11 |               88.605 |
+| Newman               |       22 | 18.487 |              272.727 |                 0.919 |                 10 |               85.233 |
+| Alumni               |       29 | 16.302 |              139.905 |                 5.928 |                 13 |               84.714 |
+| Hindu                |       25 | 19.49  |              201.954 |                 1.973 |                  1 |               81.387 |
+| Belgrano AC          |       30 | 14.256 |              -10.792 |                 6.815 |                 12 |               76.435 |
+| Los Tilos            |       21 | 11.905 |               -2.488 |                 4.039 |                 10 |               62.345 |
+| Buenos Aires         |       26 | 12.844 |              -41.921 |                 5.078 |                  2 |               59.084 |
+| CUBA                 |       28 |  8.442 |              -62.908 |                10.7   |                 12 |               56.88  |
+| Atlético del Rosario |       30 |  9.692 |             -177.818 |                 7.421 |                  2 |               48.549 |
+| La Plata             |       26 | 10.177 |             -141.484 |                 5.74  |                  1 |               47.866 |
+| Regatas Bella Vista  |       22 |  8.636 |              -98.678 |                 4.394 |                  5 |               44.51  |
+| Los Matreros         |       27 |  7.629 |             -290.711 |                 3.384 |                  8 |               42.122 |
+| Champagnat           |       23 |  6.952 |             -225.431 |                 3.019 |                  3 |               34.285 |
 
 
 
@@ -83,14 +83,25 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 68.7% | 10.2 |
+| Club Level | 70.3% | 10.8 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
 
 # Future Predictions
 
-## Week 21
+## Week 22
+
+### Atlético del Rosario V Buenos Aires on 2026/05/09
+
+
+Average Margin: Atlético del Rosario by 4.7
+
+<p float="left">
+<img src="plots/2026-05-09-AtleticodelRosario_V_BuenosAires_club_performances.png" width="32%" />
+<img src="plots/2026-05-09-AtleticodelRosario_V_BuenosAires_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-09-AtleticodelRosario_V_BuenosAires_club_spreads.png" width="32%" />
+</p>
 
 ### Hindu V Newman on 2026/05/09
 
@@ -101,39 +112,6 @@ Average Margin: Hindu by 2.5
 <img src="plots/2026-05-09-Hindu_V_Newman_club_performances.png" width="32%" />
 <img src="plots/2026-05-09-Hindu_V_Newman_club_resultbar.png" width="32%" />
 <img src="plots/2026-05-09-Hindu_V_Newman_club_spreads.png" width="32%" />
-</p>
-
-### Regatas Bella Vista V Belgrano AC on 2026/05/09
-
-
-Average Margin: Regatas Bella Vista by 5.0
-
-<p float="left">
-<img src="plots/2026-05-09-RegatasBellaVista_V_BelgranoAC_club_performances.png" width="32%" />
-<img src="plots/2026-05-09-RegatasBellaVista_V_BelgranoAC_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-09-RegatasBellaVista_V_BelgranoAC_club_spreads.png" width="32%" />
-</p>
-
-### Los Matreros V CASI on 2026/05/09
-
-
-Average Margin: CASI by 8.6
-
-<p float="left">
-<img src="plots/2026-05-09-LosMatreros_V_CASI_club_performances.png" width="32%" />
-<img src="plots/2026-05-09-LosMatreros_V_CASI_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-09-LosMatreros_V_CASI_club_spreads.png" width="32%" />
-</p>
-
-### Champagnat V Alumni on 2026/05/09
-
-
-Average Margin: Alumni by 1.4
-
-<p float="left">
-<img src="plots/2026-05-09-Champagnat_V_Alumni_club_performances.png" width="32%" />
-<img src="plots/2026-05-09-Champagnat_V_Alumni_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-09-Champagnat_V_Alumni_club_spreads.png" width="32%" />
 </p>
 
 ### La Plata V SIC on 2026/05/09
@@ -158,50 +136,50 @@ Average Margin: Los Tilos by 4.5
 <img src="plots/2026-05-09-LosTilos_V_CUBA_club_spreads.png" width="32%" />
 </p>
 
-### Atlético del Rosario V Buenos Aires on 2026/05/09
+### Champagnat V Alumni on 2026/05/09
 
 
-Average Margin: Atlético del Rosario by 5.1
+Average Margin: Alumni by 0.9
 
 <p float="left">
-<img src="plots/2026-05-09-AtleticodelRosario_V_BuenosAires_club_performances.png" width="32%" />
-<img src="plots/2026-05-09-AtleticodelRosario_V_BuenosAires_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-09-AtleticodelRosario_V_BuenosAires_club_spreads.png" width="32%" />
+<img src="plots/2026-05-09-Champagnat_V_Alumni_club_performances.png" width="32%" />
+<img src="plots/2026-05-09-Champagnat_V_Alumni_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-09-Champagnat_V_Alumni_club_spreads.png" width="32%" />
 </p>
 
-## Week 22
-
-### Buenos Aires V Los Tilos on 2026/05/16
+### Regatas Bella Vista V Belgrano AC on 2026/05/09
 
 
-Average Margin: Los Tilos by 0.7
+Average Margin: Regatas Bella Vista by 5.0
 
 <p float="left">
-<img src="plots/2026-05-16-BuenosAires_V_LosTilos_club_performances.png" width="32%" />
-<img src="plots/2026-05-16-BuenosAires_V_LosTilos_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-16-BuenosAires_V_LosTilos_club_spreads.png" width="32%" />
+<img src="plots/2026-05-09-RegatasBellaVista_V_BelgranoAC_club_performances.png" width="32%" />
+<img src="plots/2026-05-09-RegatasBellaVista_V_BelgranoAC_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-09-RegatasBellaVista_V_BelgranoAC_club_spreads.png" width="32%" />
 </p>
 
-### Alumni V Hindu on 2026/05/16
+### Los Matreros V CASI on 2026/05/09
 
 
-Average Margin: Hindu by 3.4
+Average Margin: CASI by 8.7
 
 <p float="left">
-<img src="plots/2026-05-16-Alumni_V_Hindu_club_performances.png" width="32%" />
-<img src="plots/2026-05-16-Alumni_V_Hindu_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-16-Alumni_V_Hindu_club_spreads.png" width="32%" />
+<img src="plots/2026-05-09-LosMatreros_V_CASI_club_performances.png" width="32%" />
+<img src="plots/2026-05-09-LosMatreros_V_CASI_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-09-LosMatreros_V_CASI_club_spreads.png" width="32%" />
 </p>
 
-### SIC V Regatas Bella Vista on 2026/05/16
+## Week 23
+
+### Champagnat V Los Matreros on 2026/05/16
 
 
-Average Margin: SIC by 11.9
+Average Margin: Champagnat by 8.7
 
 <p float="left">
-<img src="plots/2026-05-16-SIC_V_RegatasBellaVista_club_performances.png" width="32%" />
-<img src="plots/2026-05-16-SIC_V_RegatasBellaVista_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-16-SIC_V_RegatasBellaVista_club_spreads.png" width="32%" />
+<img src="plots/2026-05-16-Champagnat_V_LosMatreros_club_performances.png" width="32%" />
+<img src="plots/2026-05-16-Champagnat_V_LosMatreros_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-16-Champagnat_V_LosMatreros_club_spreads.png" width="32%" />
 </p>
 
 ### Newman V La Plata on 2026/05/16
@@ -215,21 +193,10 @@ Average Margin: Newman by 20.0
 <img src="plots/2026-05-16-Newman_V_LaPlata_club_spreads.png" width="32%" />
 </p>
 
-### Champagnat V Los Matreros on 2026/05/16
-
-
-Average Margin: Champagnat by 9.2
-
-<p float="left">
-<img src="plots/2026-05-16-Champagnat_V_LosMatreros_club_performances.png" width="32%" />
-<img src="plots/2026-05-16-Champagnat_V_LosMatreros_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-16-Champagnat_V_LosMatreros_club_spreads.png" width="32%" />
-</p>
-
 ### Belgrano AC V Atlético del Rosario on 2026/05/16
 
 
-Average Margin: Belgrano AC by 7.2
+Average Margin: Belgrano AC by 7.3
 
 <p float="left">
 <img src="plots/2026-05-16-BelgranoAC_V_AtleticodelRosario_club_performances.png" width="32%" />
@@ -240,7 +207,7 @@ Average Margin: Belgrano AC by 7.2
 ### CUBA V CASI on 2026/05/16
 
 
-Average Margin: CASI by 3.2
+Average Margin: CASI by 3.0
 
 <p float="left">
 <img src="plots/2026-05-16-CUBA_V_CASI_club_performances.png" width="32%" />
@@ -248,23 +215,56 @@ Average Margin: CASI by 3.2
 <img src="plots/2026-05-16-CUBA_V_CASI_club_spreads.png" width="32%" />
 </p>
 
-## Week 23
-
-### Los Matreros V CUBA on 2026/05/23
+### SIC V Regatas Bella Vista on 2026/05/16
 
 
-Average Margin: CUBA by 1.9
+Average Margin: SIC by 11.7
 
 <p float="left">
-<img src="plots/2026-05-23-LosMatreros_V_CUBA_club_performances.png" width="32%" />
-<img src="plots/2026-05-23-LosMatreros_V_CUBA_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-23-LosMatreros_V_CUBA_club_spreads.png" width="32%" />
+<img src="plots/2026-05-16-SIC_V_RegatasBellaVista_club_performances.png" width="32%" />
+<img src="plots/2026-05-16-SIC_V_RegatasBellaVista_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-16-SIC_V_RegatasBellaVista_club_spreads.png" width="32%" />
+</p>
+
+### Alumni V Hindu on 2026/05/16
+
+
+Average Margin: Hindu by 3.4
+
+<p float="left">
+<img src="plots/2026-05-16-Alumni_V_Hindu_club_performances.png" width="32%" />
+<img src="plots/2026-05-16-Alumni_V_Hindu_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-16-Alumni_V_Hindu_club_spreads.png" width="32%" />
+</p>
+
+### Buenos Aires V Los Tilos on 2026/05/16
+
+
+Average Margin: Los Tilos by 0.7
+
+<p float="left">
+<img src="plots/2026-05-16-BuenosAires_V_LosTilos_club_performances.png" width="32%" />
+<img src="plots/2026-05-16-BuenosAires_V_LosTilos_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-16-BuenosAires_V_LosTilos_club_spreads.png" width="32%" />
+</p>
+
+## Week 24
+
+### Atlético del Rosario V SIC on 2026/05/23
+
+
+Average Margin: SIC by 9.8
+
+<p float="left">
+<img src="plots/2026-05-23-AtleticodelRosario_V_SIC_club_performances.png" width="32%" />
+<img src="plots/2026-05-23-AtleticodelRosario_V_SIC_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-23-AtleticodelRosario_V_SIC_club_spreads.png" width="32%" />
 </p>
 
 ### CASI V Buenos Aires on 2026/05/23
 
 
-Average Margin: CASI by 15.1
+Average Margin: CASI by 14.5
 
 <p float="left">
 <img src="plots/2026-05-23-CASI_V_BuenosAires_club_performances.png" width="32%" />
@@ -275,12 +275,34 @@ Average Margin: CASI by 15.1
 ### La Plata V Alumni on 2026/05/23
 
 
-Average Margin: Alumni by 4.7
+Average Margin: Alumni by 3.4
 
 <p float="left">
 <img src="plots/2026-05-23-LaPlata_V_Alumni_club_performances.png" width="32%" />
 <img src="plots/2026-05-23-LaPlata_V_Alumni_club_resultbar.png" width="32%" />
 <img src="plots/2026-05-23-LaPlata_V_Alumni_club_spreads.png" width="32%" />
+</p>
+
+### Los Matreros V CUBA on 2026/05/23
+
+
+Average Margin: CUBA by 2.2
+
+<p float="left">
+<img src="plots/2026-05-23-LosMatreros_V_CUBA_club_performances.png" width="32%" />
+<img src="plots/2026-05-23-LosMatreros_V_CUBA_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-23-LosMatreros_V_CUBA_club_spreads.png" width="32%" />
+</p>
+
+### Hindu V Champagnat on 2026/05/23
+
+
+Average Margin: Hindu by 15.9
+
+<p float="left">
+<img src="plots/2026-05-23-Hindu_V_Champagnat_club_performances.png" width="32%" />
+<img src="plots/2026-05-23-Hindu_V_Champagnat_club_resultbar.png" width="32%" />
+<img src="plots/2026-05-23-Hindu_V_Champagnat_club_spreads.png" width="32%" />
 </p>
 
 ### Los Tilos V Belgrano AC on 2026/05/23
@@ -297,7 +319,7 @@ Average Margin: Los Tilos by 4.7
 ### Regatas Bella Vista V Newman on 2026/05/23
 
 
-Average Margin: Newman by 6.3
+Average Margin: Newman by 6.7
 
 <p float="left">
 <img src="plots/2026-05-23-RegatasBellaVista_V_Newman_club_performances.png" width="32%" />
@@ -305,148 +327,12 @@ Average Margin: Newman by 6.3
 <img src="plots/2026-05-23-RegatasBellaVista_V_Newman_club_spreads.png" width="32%" />
 </p>
 
-### Atlético del Rosario V SIC on 2026/05/23
-
-
-Average Margin: SIC by 9.6
-
-<p float="left">
-<img src="plots/2026-05-23-AtleticodelRosario_V_SIC_club_performances.png" width="32%" />
-<img src="plots/2026-05-23-AtleticodelRosario_V_SIC_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-23-AtleticodelRosario_V_SIC_club_spreads.png" width="32%" />
-</p>
-
-### Hindu V Champagnat on 2026/05/23
-
-
-Average Margin: Hindu by 16.0
-
-<p float="left">
-<img src="plots/2026-05-23-Hindu_V_Champagnat_club_performances.png" width="32%" />
-<img src="plots/2026-05-23-Hindu_V_Champagnat_club_resultbar.png" width="32%" />
-<img src="plots/2026-05-23-Hindu_V_Champagnat_club_spreads.png" width="32%" />
-</p>
-
-## Week 24
-
-### Atlético del Rosario V CUBA on 2026/08/22
-
-
-Average Margin: CUBA by 2.4
-
-<p float="left">
-<img src="plots/2026-08-22-AtleticodelRosario_V_CUBA_club_performances.png" width="32%" />
-<img src="plots/2026-08-22-AtleticodelRosario_V_CUBA_club_resultbar.png" width="32%" />
-<img src="plots/2026-08-22-AtleticodelRosario_V_CUBA_club_spreads.png" width="32%" />
-</p>
-
 ## Week 25
-
-### Newman V Hindu on 2026/08/29
-
-
-Average Margin: Newman by 4.9
-
-<p float="left">
-<img src="plots/2026-08-29-Newman_V_Hindu_club_performances.png" width="32%" />
-<img src="plots/2026-08-29-Newman_V_Hindu_club_resultbar.png" width="32%" />
-<img src="plots/2026-08-29-Newman_V_Hindu_club_spreads.png" width="32%" />
-</p>
-
-### CUBA V Los Tilos on 2026/08/29
-
-
-Average Margin: Los Tilos by 4.6
-
-<p float="left">
-<img src="plots/2026-08-29-CUBA_V_LosTilos_club_performances.png" width="32%" />
-<img src="plots/2026-08-29-CUBA_V_LosTilos_club_resultbar.png" width="32%" />
-<img src="plots/2026-08-29-CUBA_V_LosTilos_club_spreads.png" width="32%" />
-</p>
-
-### Belgrano AC V Regatas Bella Vista on 2026/08/29
-
-
-Average Margin: Belgrano AC by 10.6
-
-<p float="left">
-<img src="plots/2026-08-29-BelgranoAC_V_RegatasBellaVista_club_performances.png" width="32%" />
-<img src="plots/2026-08-29-BelgranoAC_V_RegatasBellaVista_club_resultbar.png" width="32%" />
-<img src="plots/2026-08-29-BelgranoAC_V_RegatasBellaVista_club_spreads.png" width="32%" />
-</p>
-
-### Alumni V Champagnat on 2026/08/29
-
-
-Average Margin: Alumni by 16.8
-
-<p float="left">
-<img src="plots/2026-08-29-Alumni_V_Champagnat_club_performances.png" width="32%" />
-<img src="plots/2026-08-29-Alumni_V_Champagnat_club_resultbar.png" width="32%" />
-<img src="plots/2026-08-29-Alumni_V_Champagnat_club_spreads.png" width="32%" />
-</p>
-
-### SIC V La Plata on 2026/08/29
-
-
-Average Margin: SIC by 9.5
-
-<p float="left">
-<img src="plots/2026-08-29-SIC_V_LaPlata_club_performances.png" width="32%" />
-<img src="plots/2026-08-29-SIC_V_LaPlata_club_resultbar.png" width="32%" />
-<img src="plots/2026-08-29-SIC_V_LaPlata_club_spreads.png" width="32%" />
-</p>
-
-### Buenos Aires V Atlético del Rosario on 2026/08/29
-
-
-Average Margin: Buenos Aires by 19.0
-
-<p float="left">
-<img src="plots/2026-08-29-BuenosAires_V_AtleticodelRosario_club_performances.png" width="32%" />
-<img src="plots/2026-08-29-BuenosAires_V_AtleticodelRosario_club_resultbar.png" width="32%" />
-<img src="plots/2026-08-29-BuenosAires_V_AtleticodelRosario_club_spreads.png" width="32%" />
-</p>
-
-### CASI V Los Matreros on 2026/08/29
-
-
-Average Margin: CASI by 23.0
-
-<p float="left">
-<img src="plots/2026-08-29-CASI_V_LosMatreros_club_performances.png" width="32%" />
-<img src="plots/2026-08-29-CASI_V_LosMatreros_club_resultbar.png" width="32%" />
-<img src="plots/2026-08-29-CASI_V_LosMatreros_club_spreads.png" width="32%" />
-</p>
-
-## Week 26
-
-### Atlético del Rosario V Belgrano AC on 2026/09/05
-
-
-Average Margin: Belgrano AC by 13.5
-
-<p float="left">
-<img src="plots/2026-09-05-AtleticodelRosario_V_BelgranoAC_club_performances.png" width="32%" />
-<img src="plots/2026-09-05-AtleticodelRosario_V_BelgranoAC_club_resultbar.png" width="32%" />
-<img src="plots/2026-09-05-AtleticodelRosario_V_BelgranoAC_club_spreads.png" width="32%" />
-</p>
-
-### Los Tilos V Buenos Aires on 2026/09/05
-
-
-Average Margin: Los Tilos by 4.9
-
-<p float="left">
-<img src="plots/2026-09-05-LosTilos_V_BuenosAires_club_performances.png" width="32%" />
-<img src="plots/2026-09-05-LosTilos_V_BuenosAires_club_resultbar.png" width="32%" />
-<img src="plots/2026-09-05-LosTilos_V_BuenosAires_club_spreads.png" width="32%" />
-</p>
 
 ### Los Matreros V Champagnat on 2026/09/05
 
 
-Average Margin: Champagnat by 4.1
+Average Margin: Champagnat by 3.4
 
 <p float="left">
 <img src="plots/2026-09-05-LosMatreros_V_Champagnat_club_performances.png" width="32%" />
@@ -454,21 +340,10 @@ Average Margin: Champagnat by 4.1
 <img src="plots/2026-09-05-LosMatreros_V_Champagnat_club_spreads.png" width="32%" />
 </p>
 
-### Regatas Bella Vista V SIC on 2026/09/05
-
-
-Average Margin: SIC by 6.9
-
-<p float="left">
-<img src="plots/2026-09-05-RegatasBellaVista_V_SIC_club_performances.png" width="32%" />
-<img src="plots/2026-09-05-RegatasBellaVista_V_SIC_club_resultbar.png" width="32%" />
-<img src="plots/2026-09-05-RegatasBellaVista_V_SIC_club_spreads.png" width="32%" />
-</p>
-
 ### Hindu V Alumni on 2026/09/05
 
 
-Average Margin: Hindu by 7.1
+Average Margin: Hindu by 6.2
 
 <p float="left">
 <img src="plots/2026-09-05-Hindu_V_Alumni_club_performances.png" width="32%" />
@@ -476,10 +351,43 @@ Average Margin: Hindu by 7.1
 <img src="plots/2026-09-05-Hindu_V_Alumni_club_spreads.png" width="32%" />
 </p>
 
+### Regatas Bella Vista V SIC on 2026/09/05
+
+
+Average Margin: SIC by 5.3
+
+<p float="left">
+<img src="plots/2026-09-05-RegatasBellaVista_V_SIC_club_performances.png" width="32%" />
+<img src="plots/2026-09-05-RegatasBellaVista_V_SIC_club_resultbar.png" width="32%" />
+<img src="plots/2026-09-05-RegatasBellaVista_V_SIC_club_spreads.png" width="32%" />
+</p>
+
+### Los Tilos V Buenos Aires on 2026/09/05
+
+
+Average Margin: Los Tilos by 6.9
+
+<p float="left">
+<img src="plots/2026-09-05-LosTilos_V_BuenosAires_club_performances.png" width="32%" />
+<img src="plots/2026-09-05-LosTilos_V_BuenosAires_club_resultbar.png" width="32%" />
+<img src="plots/2026-09-05-LosTilos_V_BuenosAires_club_spreads.png" width="32%" />
+</p>
+
+### Atlético del Rosario V Belgrano AC on 2026/09/05
+
+
+Average Margin: Belgrano AC by 8.9
+
+<p float="left">
+<img src="plots/2026-09-05-AtleticodelRosario_V_BelgranoAC_club_performances.png" width="32%" />
+<img src="plots/2026-09-05-AtleticodelRosario_V_BelgranoAC_club_resultbar.png" width="32%" />
+<img src="plots/2026-09-05-AtleticodelRosario_V_BelgranoAC_club_spreads.png" width="32%" />
+</p>
+
 ### La Plata V Newman on 2026/09/05
 
 
-Average Margin: Newman by 6.7
+Average Margin: Newman by 7.9
 
 <p float="left">
 <img src="plots/2026-09-05-LaPlata_V_Newman_club_performances.png" width="32%" />
@@ -490,7 +398,7 @@ Average Margin: Newman by 6.7
 ### CASI V CUBA on 2026/09/05
 
 
-Average Margin: CASI by 13.1
+Average Margin: CASI by 15.3
 
 <p float="left">
 <img src="plots/2026-09-05-CASI_V_CUBA_club_performances.png" width="32%" />
@@ -498,34 +406,12 @@ Average Margin: CASI by 13.1
 <img src="plots/2026-09-05-CASI_V_CUBA_club_spreads.png" width="32%" />
 </p>
 
-## Week 27
-
-### Champagnat V Hindu on 2026/09/12
-
-
-Average Margin: Hindu by 12.5
-
-<p float="left">
-<img src="plots/2026-09-12-Champagnat_V_Hindu_club_performances.png" width="32%" />
-<img src="plots/2026-09-12-Champagnat_V_Hindu_club_resultbar.png" width="32%" />
-<img src="plots/2026-09-12-Champagnat_V_Hindu_club_spreads.png" width="32%" />
-</p>
-
-### Buenos Aires V CASI on 2026/09/12
-
-
-Average Margin: Buenos Aires by 1.6
-
-<p float="left">
-<img src="plots/2026-09-12-BuenosAires_V_CASI_club_performances.png" width="32%" />
-<img src="plots/2026-09-12-BuenosAires_V_CASI_club_resultbar.png" width="32%" />
-<img src="plots/2026-09-12-BuenosAires_V_CASI_club_spreads.png" width="32%" />
-</p>
+## Week 26
 
 ### Belgrano AC V Los Tilos on 2026/09/12
 
 
-Average Margin: Belgrano AC by 4.9
+Average Margin: Belgrano AC by 1.9
 
 <p float="left">
 <img src="plots/2026-09-12-BelgranoAC_V_LosTilos_club_performances.png" width="32%" />
@@ -533,32 +419,10 @@ Average Margin: Belgrano AC by 4.9
 <img src="plots/2026-09-12-BelgranoAC_V_LosTilos_club_spreads.png" width="32%" />
 </p>
 
-### CUBA V Los Matreros on 2026/09/12
-
-
-Average Margin: CUBA by 13.5
-
-<p float="left">
-<img src="plots/2026-09-12-CUBA_V_LosMatreros_club_performances.png" width="32%" />
-<img src="plots/2026-09-12-CUBA_V_LosMatreros_club_resultbar.png" width="32%" />
-<img src="plots/2026-09-12-CUBA_V_LosMatreros_club_spreads.png" width="32%" />
-</p>
-
-### Newman V Regatas Bella Vista on 2026/09/12
-
-
-Average Margin: Newman by 17.8
-
-<p float="left">
-<img src="plots/2026-09-12-Newman_V_RegatasBellaVista_club_performances.png" width="32%" />
-<img src="plots/2026-09-12-Newman_V_RegatasBellaVista_club_resultbar.png" width="32%" />
-<img src="plots/2026-09-12-Newman_V_RegatasBellaVista_club_spreads.png" width="32%" />
-</p>
-
 ### SIC V Atlético del Rosario on 2026/09/12
 
 
-Average Margin: SIC by 22.4
+Average Margin: SIC by 21.8
 
 <p float="left">
 <img src="plots/2026-09-12-SIC_V_AtleticodelRosario_club_performances.png" width="32%" />
@@ -569,7 +433,7 @@ Average Margin: SIC by 22.4
 ### Alumni V La Plata on 2026/09/12
 
 
-Average Margin: Alumni by 8.9
+Average Margin: Alumni by 10.0
 
 <p float="left">
 <img src="plots/2026-09-12-Alumni_V_LaPlata_club_performances.png" width="32%" />
@@ -577,12 +441,100 @@ Average Margin: Alumni by 8.9
 <img src="plots/2026-09-12-Alumni_V_LaPlata_club_spreads.png" width="32%" />
 </p>
 
-## Week 28
+### CUBA V Los Matreros on 2026/09/12
+
+
+Average Margin: CUBA by 12.2
+
+<p float="left">
+<img src="plots/2026-09-12-CUBA_V_LosMatreros_club_performances.png" width="32%" />
+<img src="plots/2026-09-12-CUBA_V_LosMatreros_club_resultbar.png" width="32%" />
+<img src="plots/2026-09-12-CUBA_V_LosMatreros_club_spreads.png" width="32%" />
+</p>
+
+### Buenos Aires V CASI on 2026/09/12
+
+
+Average Margin: CASI by 0.4
+
+<p float="left">
+<img src="plots/2026-09-12-BuenosAires_V_CASI_club_performances.png" width="32%" />
+<img src="plots/2026-09-12-BuenosAires_V_CASI_club_resultbar.png" width="32%" />
+<img src="plots/2026-09-12-BuenosAires_V_CASI_club_spreads.png" width="32%" />
+</p>
+
+### Champagnat V Hindu on 2026/09/12
+
+
+Average Margin: Hindu by 12.4
+
+<p float="left">
+<img src="plots/2026-09-12-Champagnat_V_Hindu_club_performances.png" width="32%" />
+<img src="plots/2026-09-12-Champagnat_V_Hindu_club_resultbar.png" width="32%" />
+<img src="plots/2026-09-12-Champagnat_V_Hindu_club_spreads.png" width="32%" />
+</p>
+
+### Newman V Regatas Bella Vista on 2026/09/12
+
+
+Average Margin: Newman by 16.4
+
+<p float="left">
+<img src="plots/2026-09-12-Newman_V_RegatasBellaVista_club_performances.png" width="32%" />
+<img src="plots/2026-09-12-Newman_V_RegatasBellaVista_club_resultbar.png" width="32%" />
+<img src="plots/2026-09-12-Newman_V_RegatasBellaVista_club_spreads.png" width="32%" />
+</p>
+
+## Week 27
+
+### Los Matreros V Hindu on 2026/09/26
+
+
+Average Margin: Hindu by 19.7
+
+<p float="left">
+<img src="plots/2026-09-26-LosMatreros_V_Hindu_club_performances.png" width="32%" />
+<img src="plots/2026-09-26-LosMatreros_V_Hindu_club_resultbar.png" width="32%" />
+<img src="plots/2026-09-26-LosMatreros_V_Hindu_club_spreads.png" width="32%" />
+</p>
+
+### CASI V Belgrano AC on 2026/09/26
+
+
+Average Margin: CASI by 6.2
+
+<p float="left">
+<img src="plots/2026-09-26-CASI_V_BelgranoAC_club_performances.png" width="32%" />
+<img src="plots/2026-09-26-CASI_V_BelgranoAC_club_resultbar.png" width="32%" />
+<img src="plots/2026-09-26-CASI_V_BelgranoAC_club_spreads.png" width="32%" />
+</p>
+
+### Atlético del Rosario V Newman on 2026/09/26
+
+
+Average Margin: Newman by 18.8
+
+<p float="left">
+<img src="plots/2026-09-26-AtleticodelRosario_V_Newman_club_performances.png" width="32%" />
+<img src="plots/2026-09-26-AtleticodelRosario_V_Newman_club_resultbar.png" width="32%" />
+<img src="plots/2026-09-26-AtleticodelRosario_V_Newman_club_spreads.png" width="32%" />
+</p>
+
+### CUBA V Buenos Aires on 2026/09/26
+
+
+Average Margin: Buenos Aires by 5.2
+
+<p float="left">
+<img src="plots/2026-09-26-CUBA_V_BuenosAires_club_performances.png" width="32%" />
+<img src="plots/2026-09-26-CUBA_V_BuenosAires_club_resultbar.png" width="32%" />
+<img src="plots/2026-09-26-CUBA_V_BuenosAires_club_spreads.png" width="32%" />
+</p>
 
 ### Regatas Bella Vista V Alumni on 2026/09/26
 
 
-Average Margin: Alumni by 4.8
+Average Margin: Alumni by 4.2
 
 <p float="left">
 <img src="plots/2026-09-26-RegatasBellaVista_V_Alumni_club_performances.png" width="32%" />
@@ -593,7 +545,7 @@ Average Margin: Alumni by 4.8
 ### La Plata V Champagnat on 2026/09/26
 
 
-Average Margin: La Plata by 11.5
+Average Margin: La Plata by 12.1
 
 <p float="left">
 <img src="plots/2026-09-26-LaPlata_V_Champagnat_club_performances.png" width="32%" />
@@ -601,32 +553,10 @@ Average Margin: La Plata by 11.5
 <img src="plots/2026-09-26-LaPlata_V_Champagnat_club_spreads.png" width="32%" />
 </p>
 
-### CUBA V Buenos Aires on 2026/09/26
-
-
-Average Margin: Buenos Aires by 4.5
-
-<p float="left">
-<img src="plots/2026-09-26-CUBA_V_BuenosAires_club_performances.png" width="32%" />
-<img src="plots/2026-09-26-CUBA_V_BuenosAires_club_resultbar.png" width="32%" />
-<img src="plots/2026-09-26-CUBA_V_BuenosAires_club_spreads.png" width="32%" />
-</p>
-
-### CASI V Belgrano AC on 2026/09/26
-
-
-Average Margin: CASI by 3.4
-
-<p float="left">
-<img src="plots/2026-09-26-CASI_V_BelgranoAC_club_performances.png" width="32%" />
-<img src="plots/2026-09-26-CASI_V_BelgranoAC_club_resultbar.png" width="32%" />
-<img src="plots/2026-09-26-CASI_V_BelgranoAC_club_spreads.png" width="32%" />
-</p>
-
 ### Los Tilos V SIC on 2026/09/26
 
 
-Average Margin: Los Tilos by 0.8
+Average Margin: Los Tilos by 1.1
 
 <p float="left">
 <img src="plots/2026-09-26-LosTilos_V_SIC_club_performances.png" width="32%" />
@@ -634,100 +564,12 @@ Average Margin: Los Tilos by 0.8
 <img src="plots/2026-09-26-LosTilos_V_SIC_club_spreads.png" width="32%" />
 </p>
 
-### Los Matreros V Hindu on 2026/09/26
-
-
-Average Margin: Hindu by 19.9
-
-<p float="left">
-<img src="plots/2026-09-26-LosMatreros_V_Hindu_club_performances.png" width="32%" />
-<img src="plots/2026-09-26-LosMatreros_V_Hindu_club_resultbar.png" width="32%" />
-<img src="plots/2026-09-26-LosMatreros_V_Hindu_club_spreads.png" width="32%" />
-</p>
-
-### Atlético del Rosario V Newman on 2026/09/26
-
-
-Average Margin: Newman by 19.0
-
-<p float="left">
-<img src="plots/2026-09-26-AtleticodelRosario_V_Newman_club_performances.png" width="32%" />
-<img src="plots/2026-09-26-AtleticodelRosario_V_Newman_club_resultbar.png" width="32%" />
-<img src="plots/2026-09-26-AtleticodelRosario_V_Newman_club_spreads.png" width="32%" />
-</p>
-
-## Week 29
-
-### Champagnat V Regatas Bella Vista on 2026/10/03
-
-
-Average Margin: Regatas Bella Vista by 0.4
-
-<p float="left">
-<img src="plots/2026-10-03-Champagnat_V_RegatasBellaVista_club_performances.png" width="32%" />
-<img src="plots/2026-10-03-Champagnat_V_RegatasBellaVista_club_resultbar.png" width="32%" />
-<img src="plots/2026-10-03-Champagnat_V_RegatasBellaVista_club_spreads.png" width="32%" />
-</p>
-
-### Belgrano AC V CUBA on 2026/10/03
-
-
-Average Margin: Belgrano AC by 13.2
-
-<p float="left">
-<img src="plots/2026-10-03-BelgranoAC_V_CUBA_club_performances.png" width="32%" />
-<img src="plots/2026-10-03-BelgranoAC_V_CUBA_club_resultbar.png" width="32%" />
-<img src="plots/2026-10-03-BelgranoAC_V_CUBA_club_spreads.png" width="32%" />
-</p>
-
-### Newman V Los Tilos on 2026/10/03
-
-
-Average Margin: Newman by 11.6
-
-<p float="left">
-<img src="plots/2026-10-03-Newman_V_LosTilos_club_performances.png" width="32%" />
-<img src="plots/2026-10-03-Newman_V_LosTilos_club_resultbar.png" width="32%" />
-<img src="plots/2026-10-03-Newman_V_LosTilos_club_spreads.png" width="32%" />
-</p>
-
-### Buenos Aires V Los Matreros on 2026/10/03
-
-
-Average Margin: Buenos Aires by 20.2
-
-<p float="left">
-<img src="plots/2026-10-03-BuenosAires_V_LosMatreros_club_performances.png" width="32%" />
-<img src="plots/2026-10-03-BuenosAires_V_LosMatreros_club_resultbar.png" width="32%" />
-<img src="plots/2026-10-03-BuenosAires_V_LosMatreros_club_spreads.png" width="32%" />
-</p>
-
-### Hindu V La Plata on 2026/10/03
-
-
-Average Margin: Hindu by 11.2
-
-<p float="left">
-<img src="plots/2026-10-03-Hindu_V_LaPlata_club_performances.png" width="32%" />
-<img src="plots/2026-10-03-Hindu_V_LaPlata_club_resultbar.png" width="32%" />
-<img src="plots/2026-10-03-Hindu_V_LaPlata_club_spreads.png" width="32%" />
-</p>
-
-### Alumni V Atlético del Rosario on 2026/10/03
-
-
-Average Margin: Alumni by 21.7
-
-<p float="left">
-<img src="plots/2026-10-03-Alumni_V_AtleticodelRosario_club_performances.png" width="32%" />
-<img src="plots/2026-10-03-Alumni_V_AtleticodelRosario_club_resultbar.png" width="32%" />
-<img src="plots/2026-10-03-Alumni_V_AtleticodelRosario_club_spreads.png" width="32%" />
-</p>
+## Week 28
 
 ### SIC V CASI on 2026/10/03
 
 
-Average Margin: SIC by 5.6
+Average Margin: SIC by 5.4
 
 <p float="left">
 <img src="plots/2026-10-03-SIC_V_CASI_club_performances.png" width="32%" />
@@ -735,45 +577,78 @@ Average Margin: SIC by 5.6
 <img src="plots/2026-10-03-SIC_V_CASI_club_spreads.png" width="32%" />
 </p>
 
-## Week 30
-
-### Los Matreros V La Plata on 2026/10/10
+### Belgrano AC V CUBA on 2026/10/03
 
 
-Average Margin: La Plata by 10.8
+Average Margin: Belgrano AC by 12.7
 
 <p float="left">
-<img src="plots/2026-10-10-LosMatreros_V_LaPlata_club_performances.png" width="32%" />
-<img src="plots/2026-10-10-LosMatreros_V_LaPlata_club_resultbar.png" width="32%" />
-<img src="plots/2026-10-10-LosMatreros_V_LaPlata_club_spreads.png" width="32%" />
+<img src="plots/2026-10-03-BelgranoAC_V_CUBA_club_performances.png" width="32%" />
+<img src="plots/2026-10-03-BelgranoAC_V_CUBA_club_resultbar.png" width="32%" />
+<img src="plots/2026-10-03-BelgranoAC_V_CUBA_club_spreads.png" width="32%" />
 </p>
 
-### Regatas Bella Vista V Hindu on 2026/10/10
+### Alumni V Atlético del Rosario on 2026/10/03
 
 
-Average Margin: Hindu by 9.2
+Average Margin: Alumni by 20.4
 
 <p float="left">
-<img src="plots/2026-10-10-RegatasBellaVista_V_Hindu_club_performances.png" width="32%" />
-<img src="plots/2026-10-10-RegatasBellaVista_V_Hindu_club_resultbar.png" width="32%" />
-<img src="plots/2026-10-10-RegatasBellaVista_V_Hindu_club_spreads.png" width="32%" />
+<img src="plots/2026-10-03-Alumni_V_AtleticodelRosario_club_performances.png" width="32%" />
+<img src="plots/2026-10-03-Alumni_V_AtleticodelRosario_club_resultbar.png" width="32%" />
+<img src="plots/2026-10-03-Alumni_V_AtleticodelRosario_club_spreads.png" width="32%" />
 </p>
 
-### CASI V Newman on 2026/10/10
+### Hindu V La Plata on 2026/10/03
 
 
-Average Margin: Newman by 2.5
+Average Margin: Hindu by 11.4
 
 <p float="left">
-<img src="plots/2026-10-10-CASI_V_Newman_club_performances.png" width="32%" />
-<img src="plots/2026-10-10-CASI_V_Newman_club_resultbar.png" width="32%" />
-<img src="plots/2026-10-10-CASI_V_Newman_club_spreads.png" width="32%" />
+<img src="plots/2026-10-03-Hindu_V_LaPlata_club_performances.png" width="32%" />
+<img src="plots/2026-10-03-Hindu_V_LaPlata_club_resultbar.png" width="32%" />
+<img src="plots/2026-10-03-Hindu_V_LaPlata_club_spreads.png" width="32%" />
 </p>
+
+### Champagnat V Regatas Bella Vista on 2026/10/03
+
+
+Average Margin: Regatas Bella Vista by 3.6
+
+<p float="left">
+<img src="plots/2026-10-03-Champagnat_V_RegatasBellaVista_club_performances.png" width="32%" />
+<img src="plots/2026-10-03-Champagnat_V_RegatasBellaVista_club_resultbar.png" width="32%" />
+<img src="plots/2026-10-03-Champagnat_V_RegatasBellaVista_club_spreads.png" width="32%" />
+</p>
+
+### Buenos Aires V Los Matreros on 2026/10/03
+
+
+Average Margin: Buenos Aires by 20.0
+
+<p float="left">
+<img src="plots/2026-10-03-BuenosAires_V_LosMatreros_club_performances.png" width="32%" />
+<img src="plots/2026-10-03-BuenosAires_V_LosMatreros_club_resultbar.png" width="32%" />
+<img src="plots/2026-10-03-BuenosAires_V_LosMatreros_club_spreads.png" width="32%" />
+</p>
+
+### Newman V Los Tilos on 2026/10/03
+
+
+Average Margin: Newman by 12.1
+
+<p float="left">
+<img src="plots/2026-10-03-Newman_V_LosTilos_club_performances.png" width="32%" />
+<img src="plots/2026-10-03-Newman_V_LosTilos_club_resultbar.png" width="32%" />
+<img src="plots/2026-10-03-Newman_V_LosTilos_club_spreads.png" width="32%" />
+</p>
+
+## Week 29
 
 ### Buenos Aires V Belgrano AC on 2026/10/10
 
 
-Average Margin: Buenos Aires by 2.1
+Average Margin: Buenos Aires by 2.9
 
 <p float="left">
 <img src="plots/2026-10-10-BuenosAires_V_BelgranoAC_club_performances.png" width="32%" />
@@ -781,10 +656,54 @@ Average Margin: Buenos Aires by 2.1
 <img src="plots/2026-10-10-BuenosAires_V_BelgranoAC_club_spreads.png" width="32%" />
 </p>
 
+### Los Matreros V La Plata on 2026/10/10
+
+
+Average Margin: La Plata by 10.6
+
+<p float="left">
+<img src="plots/2026-10-10-LosMatreros_V_LaPlata_club_performances.png" width="32%" />
+<img src="plots/2026-10-10-LosMatreros_V_LaPlata_club_resultbar.png" width="32%" />
+<img src="plots/2026-10-10-LosMatreros_V_LaPlata_club_spreads.png" width="32%" />
+</p>
+
+### CASI V Newman on 2026/10/10
+
+
+Average Margin: Newman by 3.8
+
+<p float="left">
+<img src="plots/2026-10-10-CASI_V_Newman_club_performances.png" width="32%" />
+<img src="plots/2026-10-10-CASI_V_Newman_club_resultbar.png" width="32%" />
+<img src="plots/2026-10-10-CASI_V_Newman_club_spreads.png" width="32%" />
+</p>
+
+### Atlético del Rosario V Champagnat on 2026/10/10
+
+
+Average Margin: Atlético del Rosario by 1.4
+
+<p float="left">
+<img src="plots/2026-10-10-AtleticodelRosario_V_Champagnat_club_performances.png" width="32%" />
+<img src="plots/2026-10-10-AtleticodelRosario_V_Champagnat_club_resultbar.png" width="32%" />
+<img src="plots/2026-10-10-AtleticodelRosario_V_Champagnat_club_spreads.png" width="32%" />
+</p>
+
+### Regatas Bella Vista V Hindu on 2026/10/10
+
+
+Average Margin: Hindu by 5.6
+
+<p float="left">
+<img src="plots/2026-10-10-RegatasBellaVista_V_Hindu_club_performances.png" width="32%" />
+<img src="plots/2026-10-10-RegatasBellaVista_V_Hindu_club_resultbar.png" width="32%" />
+<img src="plots/2026-10-10-RegatasBellaVista_V_Hindu_club_spreads.png" width="32%" />
+</p>
+
 ### Los Tilos V Alumni on 2026/10/10
 
 
-Average Margin: Los Tilos by 1.9
+Average Margin: Los Tilos by 2.4
 
 <p float="left">
 <img src="plots/2026-10-10-LosTilos_V_Alumni_club_performances.png" width="32%" />
@@ -795,7 +714,7 @@ Average Margin: Los Tilos by 1.9
 ### CUBA V SIC on 2026/10/10
 
 
-Average Margin: SIC by 8.9
+Average Margin: SIC by 11.1
 
 <p float="left">
 <img src="plots/2026-10-10-CUBA_V_SIC_club_performances.png" width="32%" />
@@ -803,67 +722,12 @@ Average Margin: SIC by 8.9
 <img src="plots/2026-10-10-CUBA_V_SIC_club_spreads.png" width="32%" />
 </p>
 
-### Atlético del Rosario V Champagnat on 2026/10/10
-
-
-Average Margin: Champagnat by 1.7
-
-<p float="left">
-<img src="plots/2026-10-10-AtleticodelRosario_V_Champagnat_club_performances.png" width="32%" />
-<img src="plots/2026-10-10-AtleticodelRosario_V_Champagnat_club_resultbar.png" width="32%" />
-<img src="plots/2026-10-10-AtleticodelRosario_V_Champagnat_club_spreads.png" width="32%" />
-</p>
-
-## Week 31
-
-### La Plata V Regatas Bella Vista on 2026/10/17
-
-
-Average Margin: La Plata by 7.1
-
-<p float="left">
-<img src="plots/2026-10-17-LaPlata_V_RegatasBellaVista_club_performances.png" width="32%" />
-<img src="plots/2026-10-17-LaPlata_V_RegatasBellaVista_club_resultbar.png" width="32%" />
-<img src="plots/2026-10-17-LaPlata_V_RegatasBellaVista_club_spreads.png" width="32%" />
-</p>
-
-### Champagnat V Los Tilos on 2026/10/17
-
-
-Average Margin: Los Tilos by 5.4
-
-<p float="left">
-<img src="plots/2026-10-17-Champagnat_V_LosTilos_club_performances.png" width="32%" />
-<img src="plots/2026-10-17-Champagnat_V_LosTilos_club_resultbar.png" width="32%" />
-<img src="plots/2026-10-17-Champagnat_V_LosTilos_club_spreads.png" width="32%" />
-</p>
-
-### Newman V CUBA on 2026/10/17
-
-
-Average Margin: Newman by 19.7
-
-<p float="left">
-<img src="plots/2026-10-17-Newman_V_CUBA_club_performances.png" width="32%" />
-<img src="plots/2026-10-17-Newman_V_CUBA_club_resultbar.png" width="32%" />
-<img src="plots/2026-10-17-Newman_V_CUBA_club_spreads.png" width="32%" />
-</p>
-
-### SIC V Buenos Aires on 2026/10/17
-
-
-Average Margin: SIC by 7.3
-
-<p float="left">
-<img src="plots/2026-10-17-SIC_V_BuenosAires_club_performances.png" width="32%" />
-<img src="plots/2026-10-17-SIC_V_BuenosAires_club_resultbar.png" width="32%" />
-<img src="plots/2026-10-17-SIC_V_BuenosAires_club_spreads.png" width="32%" />
-</p>
+## Week 30
 
 ### Alumni V CASI on 2026/10/17
 
 
-Average Margin: Alumni by 5.2
+Average Margin: Alumni by 4.9
 
 <p float="left">
 <img src="plots/2026-10-17-Alumni_V_CASI_club_performances.png" width="32%" />
@@ -874,7 +738,7 @@ Average Margin: Alumni by 5.2
 ### Belgrano AC V Los Matreros on 2026/10/17
 
 
-Average Margin: Belgrano AC by 22.4
+Average Margin: Belgrano AC by 21.2
 
 <p float="left">
 <img src="plots/2026-10-17-BelgranoAC_V_LosMatreros_club_performances.png" width="32%" />
@@ -882,13 +746,57 @@ Average Margin: Belgrano AC by 22.4
 <img src="plots/2026-10-17-BelgranoAC_V_LosMatreros_club_spreads.png" width="32%" />
 </p>
 
+### SIC V Buenos Aires on 2026/10/17
+
+
+Average Margin: SIC by 8.8
+
+<p float="left">
+<img src="plots/2026-10-17-SIC_V_BuenosAires_club_performances.png" width="32%" />
+<img src="plots/2026-10-17-SIC_V_BuenosAires_club_resultbar.png" width="32%" />
+<img src="plots/2026-10-17-SIC_V_BuenosAires_club_spreads.png" width="32%" />
+</p>
+
+### La Plata V Regatas Bella Vista on 2026/10/17
+
+
+Average Margin: La Plata by 4.4
+
+<p float="left">
+<img src="plots/2026-10-17-LaPlata_V_RegatasBellaVista_club_performances.png" width="32%" />
+<img src="plots/2026-10-17-LaPlata_V_RegatasBellaVista_club_resultbar.png" width="32%" />
+<img src="plots/2026-10-17-LaPlata_V_RegatasBellaVista_club_spreads.png" width="32%" />
+</p>
+
+### Champagnat V Los Tilos on 2026/10/17
+
+
+Average Margin: Los Tilos by 7.2
+
+<p float="left">
+<img src="plots/2026-10-17-Champagnat_V_LosTilos_club_performances.png" width="32%" />
+<img src="plots/2026-10-17-Champagnat_V_LosTilos_club_resultbar.png" width="32%" />
+<img src="plots/2026-10-17-Champagnat_V_LosTilos_club_spreads.png" width="32%" />
+</p>
+
 ### Hindu V Atlético del Rosario on 2026/10/17
 
 
-Average Margin: Hindu by 25.0
+Average Margin: Hindu by 21.8
 
 <p float="left">
 <img src="plots/2026-10-17-Hindu_V_AtleticodelRosario_club_performances.png" width="32%" />
 <img src="plots/2026-10-17-Hindu_V_AtleticodelRosario_club_resultbar.png" width="32%" />
 <img src="plots/2026-10-17-Hindu_V_AtleticodelRosario_club_spreads.png" width="32%" />
+</p>
+
+### Newman V CUBA on 2026/10/17
+
+
+Average Margin: Newman by 22.5
+
+<p float="left">
+<img src="plots/2026-10-17-Newman_V_CUBA_club_performances.png" width="32%" />
+<img src="plots/2026-10-17-Newman_V_CUBA_club_resultbar.png" width="32%" />
+<img src="plots/2026-10-17-Newman_V_CUBA_club_spreads.png" width="32%" />
 </p>
