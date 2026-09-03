@@ -9,9 +9,9 @@ categories: rugby "Pro D2 26/27" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Grenoble to win by 8.44, and Grenoble won by 24.0. That's an absolute error of 15.6 for the margin of victory, while my average absolute error has been 14.8 over the past six months. This prediction was more accurate than 37.9% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Grenoble to win by 7.92, and Grenoble won by 24.0. That's an absolute error of 16.1 for the margin of victory, while my average absolute error has been 15.0 over the past six months. This prediction was more accurate than 37.5% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 90.0. That's an absolute error of 39.5 compared to a six month average of 14.2. This prediction was more accurate than 2.7% of my recent predictions.
+For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 90.0. That's an absolute error of 40.5 compared to a six month average of 14.4. This prediction was more accurate than 2.3% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 50.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Aurillac to win by 1.87,  and Grenoble won by 24.0. That's an absolute error of 25.9 for the margin of victory, while the average error as been 15.1 for the past six months. So this prediction was more accurate than 15.3% of my recent predictions.
+With the player model, I predicted Aurillac to win by 2.73,  and Grenoble won by 24.0. That's an absolute error of 26.7 for the margin of victory, while the average error as been 15.3 for the past six months. So this prediction was more accurate than 14.1% of my recent predictions.
 ## Projected Performances - Player Model
 
 

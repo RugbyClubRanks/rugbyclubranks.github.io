@@ -9,9 +9,9 @@ categories: rugby "NPC 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Wellington to win by 4.65, and Counties Manukau won by 11.0. That's an absolute error of 15.6 for the margin of victory, while my average absolute error has been 14.8 over the past six months. This prediction was more accurate than 37.8% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Wellington to win by 3.42, and Counties Manukau won by 11.0. That's an absolute error of 14.4 for the margin of victory, while my average absolute error has been 15.0 over the past six months. This prediction was more accurate than 41.5% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 81.0. That's an absolute error of 29.5 compared to a six month average of 14.2. This prediction was more accurate than 10.3% of my recent predictions.
+For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 81.0. That's an absolute error of 29.5 compared to a six month average of 14.4. This prediction was more accurate than 10.6% of my recent predictions.
 ## Projected Performances - Club Model
 
 

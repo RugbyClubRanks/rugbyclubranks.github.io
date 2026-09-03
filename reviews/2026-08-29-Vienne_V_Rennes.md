@@ -9,9 +9,9 @@ categories: rugby "Nationale 26/27" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Rennes to win by 16.45, and Vienne won by 2.0. That's an absolute error of 18.4 for the margin of victory, while my average absolute error has been 14.8 over the past six months. This prediction was more accurate than 30.5% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Rennes to win by 15.67, and Vienne won by 2.0. That's an absolute error of 17.7 for the margin of victory, while my average absolute error has been 15.0 over the past six months. This prediction was more accurate than 32.7% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 40.5 and we have an actual total of 44.0. That's an absolute error of 3.5 compared to a six month average of 14.2. This prediction was more accurate than 85.0% of my recent predictions.
+For the Over/Under model, I predicted a total of 38.5 and we have an actual total of 44.0. That's an absolute error of 5.5 compared to a six month average of 14.4. This prediction was more accurate than 75.3% of my recent predictions.
 ## Projected Performances - Club Model
 
 

@@ -9,9 +9,9 @@ categories: rugby "Pro D2 26/27" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Oyonnax to win by 0.56, and Oyonnax won by 10.0. That's an absolute error of 9.4 for the margin of victory, while my average absolute error has been 14.8 over the past six months. This prediction was more accurate than 59.2% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Oyonnax to win by 0.29, and Oyonnax won by 10.0. That's an absolute error of 9.7 for the margin of victory, while my average absolute error has been 15.0 over the past six months. This prediction was more accurate than 58.5% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 52.0. That's an absolute error of 3.5 compared to a six month average of 14.2. This prediction was more accurate than 85.0% of my recent predictions.
+For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 52.0. That's an absolute error of 3.5 compared to a six month average of 14.4. This prediction was more accurate than 85.7% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 48.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Oyonnax to win by 2.69,  and Oyonnax won by 10.0. That's an absolute error of 7.3 for the margin of victory, while the average error as been 15.1 for the past six months. So this prediction was more accurate than 59.9% of my recent predictions.
+With the player model, I predicted Oyonnax to win by 3.05,  and Oyonnax won by 10.0. That's an absolute error of 7.0 for the margin of victory, while the average error as been 15.3 for the past six months. So this prediction was more accurate than 61.2% of my recent predictions.
 ## Projected Performances - Player Model
 
 

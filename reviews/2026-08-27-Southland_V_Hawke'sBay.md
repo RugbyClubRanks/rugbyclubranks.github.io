@@ -9,9 +9,9 @@ categories: rugby "NPC 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Hawke's Bay to win by 12.9, and Hawke's Bay won by 15.0. That's an absolute error of 2.1 for the margin of victory, while my average absolute error has been 14.8 over the past six months. This prediction was more accurate than 89.3% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Hawke's Bay to win by 12.66, and Hawke's Bay won by 15.0. That's an absolute error of 2.3 for the margin of victory, while my average absolute error has been 15.0 over the past six months. This prediction was more accurate than 88.5% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 57.0. That's an absolute error of 6.5 compared to a six month average of 14.2. This prediction was more accurate than 70.5% of my recent predictions.
+For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 57.0. That's an absolute error of 7.5 compared to a six month average of 14.4. This prediction was more accurate than 65.5% of my recent predictions.
 ## Projected Performances - Club Model
 
 

@@ -12,7 +12,7 @@ key: page-projections
 
 Competition Accuracy: 7 of 9 (77.78%)
 
-Competition Error: 8.96 points per match
+Competition Error: 8.97 points per match
 
 Last Two Week Accuracy: 0 of 1 (0.0%)
 
@@ -80,7 +80,7 @@ Last Two Week Error: 12.03 points per match
 
 [2026/09/05 - Castres Olympique V Vannes](projections/2026-09-05-CastresOlympique_V_Vannes)
 
-[2026/09/05 - Bordeaux Begles V Racing 92](projections/2026-09-05-BordeauxBegles_V_Racing92)
+[2026/09/05 - Bordeaux-Begles V Racing 92](projections/2026-09-05-BordeauxBegles_V_Racing92)
 
 [2026/09/05 - Bayonne V Toulon](projections/2026-09-05-Bayonne_V_Toulon)
 
@@ -104,27 +104,23 @@ Competition Error: 9.56 points per match
 
 [In depth model review and projections for NPC 2026](comp_files/NPC_2026)
 
-Competition Accuracy: 23 of 35 (65.71%)
+Competition Accuracy: 24 of 36 (66.67%)
 
-Competition Error: 15.03 points per match
+Competition Error: 14.75 points per match
 
-Last Two Week Accuracy: 12 of 14 (85.71%)
+Last Two Week Accuracy: 7 of 8 (87.5%)
 
-Last Two Week Error: 13.2 points per match
-
-[2026/09/19 - North Harbour V Canterbury](projections/2026-09-19-NorthHarbour_V_Canterbury)
-
-[2026/09/19 - Wellington V Northland](projections/2026-09-19-Wellington_V_Northland)
-
-[2026/09/20 - Taranaki V Southland](projections/2026-09-20-Taranaki_V_Southland)
+Last Two Week Error: 6.43 points per match
 
 [2026/09/19 - Waikato V Manawatu](projections/2026-09-19-Waikato_V_Manawatu)
 
+[2026/09/20 - Taranaki V Southland](projections/2026-09-20-Taranaki_V_Southland)
+
+[2026/09/19 - Wellington V Northland](projections/2026-09-19-Wellington_V_Northland)
+
+[2026/09/19 - North Harbour V Canterbury](projections/2026-09-19-NorthHarbour_V_Canterbury)
+
 [2026/09/18 - Tasman V Auckland](projections/2026-09-18-Tasman_V_Auckland)
-
-[2026/09/18 - Bay of Plenty V Hawke's Bay](projections/2026-09-18-BayofPlenty_V_Hawke'sBay)
-
-[2026/09/03 - Taranaki V Auckland](projections/2026-09-03-Taranaki_V_Auckland)
 
 [2026/09/04 - Bay of Plenty V Manawatu](projections/2026-09-04-BayofPlenty_V_Manawatu)
 
@@ -153,6 +149,22 @@ Last Two Week Error: 13.2 points per match
 [2026/09/13 - Southland V Bay of Plenty](projections/2026-09-13-Southland_V_BayofPlenty)
 
 [2026/09/17 - Counties Manukau V Otago](projections/2026-09-17-CountiesManukau_V_Otago)
+
+[2026/09/18 - Bay of Plenty V Hawke's Bay](projections/2026-09-18-BayofPlenty_V_Hawke'sBay)
+## Pro D2
+
+
+[In depth model review and projections for Pro D2 26/27](comp_files/Pro_D2_2627)
+
+Competition Accuracy: 6 of 8 (75.0%)
+
+Competition Error: 18.18 points per match
+
+Last Two Week Accuracy: 6 of 8 (75.0%)
+
+Last Two Week Error: 18.18 points per match
+
+[2026/09/03 - Colomiers V Provence Rugby](projections/2026-09-03-Colomiers_V_ProvenceRugby)
 ## URBA Top 14
 
 
@@ -160,11 +172,11 @@ Last Two Week Error: 13.2 points per match
 
 Competition Accuracy: 72 of 119 (60.5%)
 
-Competition Error: 14.23 points per match
+Competition Error: 14.25 points per match
 
-Last Two Week Accuracy: 9 of 14 (64.29%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 17.05 points per match
+Last Two Week Error: 22.68 points per match
 
 [2026/09/05 - Atlético del Rosario V Belgrano AC](projections/2026-09-05-AtleticodelRosario_V_BelgranoAC)
 

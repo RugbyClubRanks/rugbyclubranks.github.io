@@ -9,9 +9,9 @@ categories: rugby "Nationale 26/27" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Orleans to win by 7.15, and Rouen won by 30.0. That's an absolute error of 37.2 for the margin of victory, while my average absolute error has been 14.8 over the past six months. This prediction was more accurate than 6.5% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Orleans to win by 8.2, and Rouen won by 30.0. That's an absolute error of 38.2 for the margin of victory, while my average absolute error has been 15.0 over the past six months. This prediction was more accurate than 6.2% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 41.5 and we have an actual total of 88.0. That's an absolute error of 46.5 compared to a six month average of 14.2. This prediction was more accurate than 1.4% of my recent predictions.
+For the Over/Under model, I predicted a total of 42.5 and we have an actual total of 88.0. That's an absolute error of 45.5 compared to a six month average of 14.4. This prediction was more accurate than 2.0% of my recent predictions.
 ## Projected Performances - Club Model
 
 

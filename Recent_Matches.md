@@ -14,39 +14,25 @@ Competition Accuracy: 1 of 2 (50.0%)
 
 Competition Error: 14.54 points per match
 
-Last Two Week Accuracy: 1 of 2 (50.0%)
+Last Two Week Accuracy: 1 of 1 (100.0%)
 
-Last Two Week Error: 14.54 points per match
+Last Two Week Error: 2.54 points per match
 
 [2026/08/29 - South Africa V New Zealand, 33.0 to 26.0](reviews/2026-08-29-SouthAfrica_V_NewZealand)
-## Pro D2
+## International Test Match
 
 
-[In depth model review and projections for Pro D2 26/27](comp_files/Pro_D2_2627)
+[In depth model review and projections for International Test Match 2026](comp_files/International_Test_Match_2026)
 
-Competition Accuracy: 6 of 8 (75.0%)
+Competition Accuracy: 7 of 9 (77.78%)
 
-Competition Error: 18.18 points per match
+Competition Error: 8.97 points per match
 
-Last Two Week Accuracy: 6 of 8 (75.0%)
+Last Two Week Accuracy: 0 of 1 (0.0%)
 
-Last Two Week Error: 18.18 points per match
+Last Two Week Error: 12.03 points per match
 
-[2026/08/27 - Beziers V Oyonnax, 21.0 to 31.0](reviews/2026-08-27-Beziers_V_Oyonnax)
-
-[2026/08/28 - Brive V Valence Romans Drome Rugby, 23.0 to 21.0](reviews/2026-08-28-Brive_V_ValenceRomansDromeRugby)
-
-[2026/08/27 - USON Nevers V US Montauban, 21.0 to 25.0](reviews/2026-08-27-USONNevers_V_USMontauban)
-
-[2026/08/27 - Soyaux-Angouleme V Colomiers, 38.0 to 26.0](reviews/2026-08-27-Soyaux-Angouleme_V_Colomiers)
-
-[2026/08/27 - Provence Rugby V Agen, 44.0 to 10.0](reviews/2026-08-27-ProvenceRugby_V_Agen)
-
-[2026/08/27 - Grenoble V Aurillac, 57.0 to 33.0](reviews/2026-08-27-Grenoble_V_Aurillac)
-
-[2026/08/27 - Dax V Narbonne, 57.0 to 19.0](reviews/2026-08-27-Dax_V_Narbonne)
-
-[2026/08/27 - Biarritz Olympique V Nice, 36.0 to 5.0](reviews/2026-08-27-BiarritzOlympique_V_Nice)
+[2026/08/29 - Argentina V Australia, 21.0 to 27.0](reviews/2026-08-29-Argentina_V_Australia)
 ## URBA Top 14
 
 
@@ -54,11 +40,11 @@ Last Two Week Error: 18.18 points per match
 
 Competition Accuracy: 72 of 119 (60.5%)
 
-Competition Error: 14.23 points per match
+Competition Error: 14.25 points per match
 
-Last Two Week Accuracy: 9 of 14 (64.29%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 17.05 points per match
+Last Two Week Error: 22.68 points per match
 
 [2026/08/29 - Newman V Hindu, 40.0 to 20.0](reviews/2026-08-29-Newman_V_Hindu)
 
@@ -73,6 +59,34 @@ Last Two Week Error: 17.05 points per match
 [2026/08/29 - Alumni V Champagnat, 48.0 to 5.0](reviews/2026-08-29-Alumni_V_Champagnat)
 
 [2026/08/29 - SIC V La Plata, 71.0 to 19.0](reviews/2026-08-29-SIC_V_LaPlata)
+## Pro D2
+
+
+[In depth model review and projections for Pro D2 26/27](comp_files/Pro_D2_2627)
+
+Competition Accuracy: 6 of 8 (75.0%)
+
+Competition Error: 18.18 points per match
+
+Last Two Week Accuracy: 6 of 8 (75.0%)
+
+Last Two Week Error: 18.18 points per match
+
+[2026/08/28 - Brive V Valence Romans Drome Rugby, 23.0 to 21.0](reviews/2026-08-28-Brive_V_ValenceRomansDromeRugby)
+
+[2026/08/27 - USON Nevers V US Montauban, 21.0 to 25.0](reviews/2026-08-27-USONNevers_V_USMontauban)
+
+[2026/08/27 - Soyaux-Angouleme V Colomiers, 38.0 to 26.0](reviews/2026-08-27-Soyaux-Angouleme_V_Colomiers)
+
+[2026/08/27 - Provence Rugby V Agen, 44.0 to 10.0](reviews/2026-08-27-ProvenceRugby_V_Agen)
+
+[2026/08/27 - Grenoble V Aurillac, 57.0 to 33.0](reviews/2026-08-27-Grenoble_V_Aurillac)
+
+[2026/08/27 - Dax V Narbonne, 57.0 to 19.0](reviews/2026-08-27-Dax_V_Narbonne)
+
+[2026/08/27 - Biarritz Olympique V Nice, 36.0 to 5.0](reviews/2026-08-27-BiarritzOlympique_V_Nice)
+
+[2026/08/27 - Beziers V Oyonnax, 21.0 to 31.0](reviews/2026-08-27-Beziers_V_Oyonnax)
 ## Nationale
 
 
@@ -82,9 +96,9 @@ Competition Accuracy: 8 of 14 (57.14%)
 
 Competition Error: 14.2 points per match
 
-Last Two Week Accuracy: 8 of 14 (57.14%)
+Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 14.2 points per match
+Last Two Week Error: 16.78 points per match
 
 [2026/08/29 - Vienne V Rennes, 23.0 to 21.0](reviews/2026-08-29-Vienne_V_Rennes)
 
@@ -99,32 +113,20 @@ Last Two Week Error: 14.2 points per match
 [2026/08/28 - Chambery V Périgueux, 51.0 to 24.0](reviews/2026-08-28-Chambery_V_Perigueux)
 
 [2026/08/28 - Albi V Mont-de-Marsan, 21.0 to 17.0](reviews/2026-08-28-Albi_V_Mont-de-Marsan)
-## International Test Match
-
-
-[In depth model review and projections for International Test Match 2026](comp_files/International_Test_Match_2026)
-
-Competition Accuracy: 7 of 9 (77.78%)
-
-Competition Error: 8.96 points per match
-
-Last Two Week Accuracy: 0 of 1 (0.0%)
-
-Last Two Week Error: 12.03 points per match
-
-[2026/08/29 - Argentina V Australia, 21.0 to 27.0](reviews/2026-08-29-Argentina_V_Australia)
 ## NPC
 
 
 [In depth model review and projections for NPC 2026](comp_files/NPC_2026)
 
-Competition Accuracy: 23 of 35 (65.71%)
+Competition Accuracy: 24 of 36 (66.67%)
 
-Competition Error: 15.03 points per match
+Competition Error: 14.75 points per match
 
-Last Two Week Accuracy: 12 of 14 (85.71%)
+Last Two Week Accuracy: 7 of 8 (87.5%)
 
-Last Two Week Error: 13.2 points per match
+Last Two Week Error: 6.43 points per match
+
+[2026/09/03 - Taranaki V Auckland, 28.0 to 12.0](reviews/2026-09-03-Taranaki_V_Auckland)
 
 [2026/08/30 - Northland V Tasman, 20.0 to 10.0](reviews/2026-08-30-Northland_V_Tasman)
 

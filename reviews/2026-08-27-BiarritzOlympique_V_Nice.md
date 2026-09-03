@@ -9,9 +9,9 @@ categories: rugby "Pro D2 26/27" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Biarritz Olympique to win by 3.89, and Biarritz Olympique won by 31.0. That's an absolute error of 27.1 for the margin of victory, while my average absolute error has been 14.8 over the past six months. This prediction was more accurate than 14.9% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Biarritz Olympique to win by 4.21, and Biarritz Olympique won by 31.0. That's an absolute error of 26.8 for the margin of victory, while my average absolute error has been 15.0 over the past six months. This prediction was more accurate than 15.9% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 41.0. That's an absolute error of 7.5 compared to a six month average of 14.2. This prediction was more accurate than 65.2% of my recent predictions.
+For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 41.0. That's an absolute error of 7.5 compared to a six month average of 14.4. This prediction was more accurate than 65.5% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 48.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Biarritz Olympique to win by 4.47,  and Biarritz Olympique won by 31.0. That's an absolute error of 26.5 for the margin of victory, while the average error as been 15.1 for the past six months. So this prediction was more accurate than 14.1% of my recent predictions.
+With the player model, I predicted Biarritz Olympique to win by 4.22,  and Biarritz Olympique won by 31.0. That's an absolute error of 26.8 for the margin of victory, while the average error as been 15.3 for the past six months. So this prediction was more accurate than 14.0% of my recent predictions.
 ## Projected Performances - Player Model
 
 
