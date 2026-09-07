@@ -5,6 +5,20 @@ key: page-projections
 ---
 # International Competitions
 
+## Greatest Rivalry
+
+
+[In depth model review and projections for Greatest Rivalry 2026](comp_files/Greatest_Rivalry_2026)
+
+Competition Accuracy: 1 of 2 (50.0%)
+
+Competition Error: 14.54 points per match
+
+Last Two Week Accuracy: 1 of 1 (100.0%)
+
+Last Two Week Error: 2.54 points per match
+
+[2026/09/05 - South Africa V New Zealand](projections/2026-09-05-SouthAfrica_V_NewZealand)
 ## International Test Match
 
 
@@ -12,7 +26,7 @@ key: page-projections
 
 Competition Accuracy: 7 of 9 (77.78%)
 
-Competition Error: 8.97 points per match
+Competition Error: 8.96 points per match
 
 Last Two Week Accuracy: 0 of 1 (0.0%)
 
@@ -21,8 +35,6 @@ Last Two Week Error: 12.03 points per match
 [2026/09/05 - Argentina V Australia](projections/2026-09-05-Argentina_V_Australia)
 
 [2026/09/05 - Japan V Canada](projections/2026-09-05-Japan_V_Canada)
-
-[2026/09/05 - South Africa V New Zealand](projections/2026-09-05-SouthAfrica_V_NewZealand)
 
 [2026/09/12 - South Africa V New Zealand](projections/2026-09-12-SouthAfrica_V_NewZealand)
 # Top Flight Competitions
@@ -99,32 +111,90 @@ Competition Error: 9.56 points per match
 [2026/09/06 - Cheetahs V Pumas](projections/2026-09-06-Cheetahs_V_Pumas)
 
 [2026/09/06 - Griquas V Golden Lions](projections/2026-09-06-Griquas_V_GoldenLions)
+## URBA Top 14
+
+
+[In depth model review and projections for URBA Top 14 2026](comp_files/URBA_Top_14_2026)
+
+Competition Accuracy: 72 of 119 (60.5%)
+
+Competition Error: 14.23 points per match
+
+Last Two Week Accuracy: 6 of 7 (85.71%)
+
+Last Two Week Error: 22.63 points per match
+
+[2026/09/05 - La Plata V Newman](projections/2026-09-05-LaPlata_V_Newman)
+
+[2026/09/05 - Atlético del Rosario V Belgrano AC](projections/2026-09-05-AtleticodelRosario_V_BelgranoAC)
+
+[2026/09/05 - CASI V CUBA](projections/2026-09-05-CASI_V_CUBA)
+
+[2026/09/05 - Hindu V Alumni](projections/2026-09-05-Hindu_V_Alumni)
+
+[2026/09/05 - Los Matreros V Champagnat](projections/2026-09-05-LosMatreros_V_Champagnat)
+
+[2026/09/05 - Los Tilos V Buenos Aires](projections/2026-09-05-LosTilos_V_BuenosAires)
+
+[2026/09/05 - Regatas Bella Vista V SIC](projections/2026-09-05-RegatasBellaVista_V_SIC)
+
+[2026/09/12 - Alumni V La Plata](projections/2026-09-12-Alumni_V_LaPlata)
+
+[2026/09/12 - Belgrano AC V Los Tilos](projections/2026-09-12-BelgranoAC_V_LosTilos)
+
+[2026/09/12 - Buenos Aires V CASI](projections/2026-09-12-BuenosAires_V_CASI)
+
+[2026/09/12 - CUBA V Los Matreros](projections/2026-09-12-CUBA_V_LosMatreros)
+
+[2026/09/12 - Champagnat V Hindu](projections/2026-09-12-Champagnat_V_Hindu)
+
+[2026/09/12 - Newman V Regatas Bella Vista](projections/2026-09-12-Newman_V_RegatasBellaVista)
+
+[2026/09/12 - SIC V Atlético del Rosario](projections/2026-09-12-SIC_V_AtleticodelRosario)
+## Pro D2
+
+
+[In depth model review and projections for Pro D2 26/27](comp_files/Pro_D2_2627)
+
+Competition Accuracy: 6 of 9 (66.67%)
+
+Competition Error: 17.26 points per match
+
+Last Two Week Accuracy: 6 of 9 (66.67%)
+
+Last Two Week Error: 17.26 points per match
+
+[2026/09/04 - Narbonne V USON Nevers](projections/2026-09-04-Narbonne_V_USONNevers)
+
+[2026/09/04 - Nice V Beziers](projections/2026-09-04-Nice_V_Beziers)
+
+[2026/09/04 - Oyonnax V Biarritz Olympique](projections/2026-09-04-Oyonnax_V_BiarritzOlympique)
+
+[2026/09/04 - US Montauban V Grenoble](projections/2026-09-04-USMontauban_V_Grenoble)
+
+[2026/09/04 - Valence Romans Drome Rugby V Soyaux-Angouleme](projections/2026-09-04-ValenceRomansDromeRugby_V_Soyaux-Angouleme)
+
+[2026/09/04 - Aurillac V Dax](projections/2026-09-04-Aurillac_V_Dax)
+
+[2026/09/04 - Agen V Brive](projections/2026-09-04-Agen_V_Brive)
 ## NPC
 
 
 [In depth model review and projections for NPC 2026](comp_files/NPC_2026)
 
-Competition Accuracy: 24 of 36 (66.67%)
+Competition Accuracy: 25 of 37 (67.57%)
 
-Competition Error: 14.75 points per match
+Competition Error: 14.41 points per match
 
-Last Two Week Accuracy: 7 of 8 (87.5%)
+Last Two Week Accuracy: 8 of 9 (88.89%)
 
-Last Two Week Error: 6.43 points per match
-
-[2026/09/19 - Waikato V Manawatu](projections/2026-09-19-Waikato_V_Manawatu)
+Last Two Week Error: 5.99 points per match
 
 [2026/09/20 - Taranaki V Southland](projections/2026-09-20-Taranaki_V_Southland)
 
 [2026/09/19 - Wellington V Northland](projections/2026-09-19-Wellington_V_Northland)
 
-[2026/09/19 - North Harbour V Canterbury](projections/2026-09-19-NorthHarbour_V_Canterbury)
-
-[2026/09/18 - Tasman V Auckland](projections/2026-09-18-Tasman_V_Auckland)
-
 [2026/09/04 - Bay of Plenty V Manawatu](projections/2026-09-04-BayofPlenty_V_Manawatu)
-
-[2026/09/04 - Hawke's Bay V Otago](projections/2026-09-04-Hawke'sBay_V_Otago)
 
 [2026/09/05 - Counties Manukau V Southland](projections/2026-09-05-CountiesManukau_V_Southland)
 
@@ -151,57 +221,9 @@ Last Two Week Error: 6.43 points per match
 [2026/09/17 - Counties Manukau V Otago](projections/2026-09-17-CountiesManukau_V_Otago)
 
 [2026/09/18 - Bay of Plenty V Hawke's Bay](projections/2026-09-18-BayofPlenty_V_Hawke'sBay)
-## Pro D2
 
+[2026/09/18 - Tasman V Auckland](projections/2026-09-18-Tasman_V_Auckland)
 
-[In depth model review and projections for Pro D2 26/27](comp_files/Pro_D2_2627)
+[2026/09/19 - North Harbour V Canterbury](projections/2026-09-19-NorthHarbour_V_Canterbury)
 
-Competition Accuracy: 6 of 8 (75.0%)
-
-Competition Error: 18.18 points per match
-
-Last Two Week Accuracy: 6 of 8 (75.0%)
-
-Last Two Week Error: 18.18 points per match
-
-[2026/09/03 - Colomiers V Provence Rugby](projections/2026-09-03-Colomiers_V_ProvenceRugby)
-## URBA Top 14
-
-
-[In depth model review and projections for URBA Top 14 2026](comp_files/URBA_Top_14_2026)
-
-Competition Accuracy: 72 of 119 (60.5%)
-
-Competition Error: 14.25 points per match
-
-Last Two Week Accuracy: 6 of 7 (85.71%)
-
-Last Two Week Error: 22.68 points per match
-
-[2026/09/05 - Atlético del Rosario V Belgrano AC](projections/2026-09-05-AtleticodelRosario_V_BelgranoAC)
-
-[2026/09/05 - CASI V CUBA](projections/2026-09-05-CASI_V_CUBA)
-
-[2026/09/05 - Hindu V Alumni](projections/2026-09-05-Hindu_V_Alumni)
-
-[2026/09/05 - La Plata V Newman](projections/2026-09-05-LaPlata_V_Newman)
-
-[2026/09/05 - Los Matreros V Champagnat](projections/2026-09-05-LosMatreros_V_Champagnat)
-
-[2026/09/05 - Los Tilos V Buenos Aires](projections/2026-09-05-LosTilos_V_BuenosAires)
-
-[2026/09/05 - Regatas Bella Vista V SIC](projections/2026-09-05-RegatasBellaVista_V_SIC)
-
-[2026/09/12 - Alumni V La Plata](projections/2026-09-12-Alumni_V_LaPlata)
-
-[2026/09/12 - Belgrano AC V Los Tilos](projections/2026-09-12-BelgranoAC_V_LosTilos)
-
-[2026/09/12 - Buenos Aires V CASI](projections/2026-09-12-BuenosAires_V_CASI)
-
-[2026/09/12 - CUBA V Los Matreros](projections/2026-09-12-CUBA_V_LosMatreros)
-
-[2026/09/12 - Champagnat V Hindu](projections/2026-09-12-Champagnat_V_Hindu)
-
-[2026/09/12 - Newman V Regatas Bella Vista](projections/2026-09-12-Newman_V_RegatasBellaVista)
-
-[2026/09/12 - SIC V Atlético del Rosario](projections/2026-09-12-SIC_V_AtleticodelRosario)
+[2026/09/19 - Waikato V Manawatu](projections/2026-09-19-Waikato_V_Manawatu)

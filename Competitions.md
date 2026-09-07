@@ -8,7 +8,7 @@ key: page-recents
 ## International Test Match
 
 
-[2026](comp_files/International_Test_Match_2026) - Prediction Accuracy: 73.7% 
+[2026](comp_files/International_Test_Match_2026) - Prediction Accuracy: 77.8% 
 
 [2025](comp_files/International_Test_Match_2025) - Prediction Accuracy: 71.6% 
 
@@ -373,26 +373,6 @@ key: page-recents
 [2011](comp_files/Rugby_Africa_Cup_2011) - Prediction Accuracy: 54.5% 
 
 [2008](comp_files/Rugby_Africa_Cup_2008) - Prediction Accuracy: 53.3% 
-## Womens International Test Match
-
-
-[2026](comp_files/Womens_International_Test_Match_2026) - Prediction Accuracy: 66.7% 
-
-[2025](comp_files/Womens_International_Test_Match_2025) - Prediction Accuracy: 66.0% 
-
-[2024](comp_files/Womens_International_Test_Match_2024) - Prediction Accuracy: 61.5% 
-
-[2023](comp_files/Womens_International_Test_Match_2023) - Prediction Accuracy: 100.0% 
-
-[2022](comp_files/Womens_International_Test_Match_2022) - Prediction Accuracy: 65.0% 
-
-[2021](comp_files/Womens_International_Test_Match_2021) - Prediction Accuracy: 72.2% 
-
-[2020](comp_files/Womens_International_Test_Match_2020) - Prediction Accuracy: 100.0% 
-
-[2019](comp_files/Womens_International_Test_Match_2019) - Prediction Accuracy: 80.0% 
-
-[2018](comp_files/Womens_International_Test_Match_2018) - Prediction Accuracy: 77.8% 
 ## Womens Six Nations
 
 
@@ -413,6 +393,26 @@ key: page-recents
 [2019](comp_files/Womens_Six_Nations_2019) - Prediction Accuracy: 66.7% 
 
 [2018](comp_files/Womens_Six_Nations_2018) - Prediction Accuracy: 60.0% 
+## Womens International Test Match
+
+
+[2026](comp_files/Womens_International_Test_Match_2026) - Prediction Accuracy: 66.7% 
+
+[2025](comp_files/Womens_International_Test_Match_2025) - Prediction Accuracy: 66.0% 
+
+[2024](comp_files/Womens_International_Test_Match_2024) - Prediction Accuracy: 61.5% 
+
+[2023](comp_files/Womens_International_Test_Match_2023) - Prediction Accuracy: 100.0% 
+
+[2022](comp_files/Womens_International_Test_Match_2022) - Prediction Accuracy: 65.0% 
+
+[2021](comp_files/Womens_International_Test_Match_2021) - Prediction Accuracy: 72.2% 
+
+[2020](comp_files/Womens_International_Test_Match_2020) - Prediction Accuracy: 100.0% 
+
+[2019](comp_files/Womens_International_Test_Match_2019) - Prediction Accuracy: 80.0% 
+
+[2018](comp_files/Womens_International_Test_Match_2018) - Prediction Accuracy: 77.8% 
 ## Mens Rugby World Cup
 
 
@@ -441,26 +441,6 @@ key: page-recents
 [2016](comp_files/South_American_Championship_2016) - Prediction Accuracy: 52.4% 
 
 [2010](comp_files/South_American_Championship_2010) - Prediction Accuracy: 100.0% 
-## U20 Championship
-
-
-[2026](comp_files/U20_Championship_2026) - Prediction Accuracy: 67.5% 
-
-[2025](comp_files/U20_Championship_2025) - Prediction Accuracy: 63.3% 
-
-[2024](comp_files/U20_Championship_2024) - Prediction Accuracy: 66.7% 
-
-[2023](comp_files/U20_Championship_2023) - Prediction Accuracy: 60.0% 
-## Womens Rugby World Cup
-
-
-[2025](comp_files/Womens_Rugby_World_Cup_2025) - Prediction Accuracy: 81.2% 
-
-[2022](comp_files/Womens_Rugby_World_Cup_2022) - Prediction Accuracy: 76.9% 
-
-[2017](comp_files/Womens_Rugby_World_Cup_2017) - Prediction Accuracy: 83.3% 
-
-[2014](comp_files/Womens_Rugby_World_Cup_2014) - Prediction Accuracy: 75.0% 
 ## U20 Six Nations
 
 
@@ -471,6 +451,26 @@ key: page-recents
 [2024](comp_files/U20_Six_Nations_2024) - Prediction Accuracy: 66.7% 
 
 [2023](comp_files/U20_Six_Nations_2023) - Prediction Accuracy: 46.7% 
+## Womens Rugby World Cup
+
+
+[2025](comp_files/Womens_Rugby_World_Cup_2025) - Prediction Accuracy: 81.2% 
+
+[2022](comp_files/Womens_Rugby_World_Cup_2022) - Prediction Accuracy: 76.9% 
+
+[2017](comp_files/Womens_Rugby_World_Cup_2017) - Prediction Accuracy: 83.3% 
+
+[2014](comp_files/Womens_Rugby_World_Cup_2014) - Prediction Accuracy: 75.0% 
+## U20 Championship
+
+
+[2026](comp_files/U20_Championship_2026) - Prediction Accuracy: 67.5% 
+
+[2025](comp_files/U20_Championship_2025) - Prediction Accuracy: 63.3% 
+
+[2024](comp_files/U20_Championship_2024) - Prediction Accuracy: 66.7% 
+
+[2023](comp_files/U20_Championship_2023) - Prediction Accuracy: 60.0% 
 ## Rugby Union Hybrid Friendlies
 
 
@@ -493,12 +493,6 @@ key: page-recents
 [2025](comp_files/U20_Rugby_Championship_2025) - Prediction Accuracy: 33.3% 
 
 [2024](comp_files/U20_Rugby_Championship_2024) - Prediction Accuracy: 50.0% 
-## Developmental International
-
-
-[Status](comp_files/Developmental_International_2025)
-
-[Status](comp_files/Developmental_International_2024) - Prediction Accuracy: 69.5% 
 ## WXV 2
 
 
@@ -511,12 +505,22 @@ key: page-recents
 [2024](comp_files/WXV_1_2024) - Prediction Accuracy: 80.0% 
 
 [2023](comp_files/WXV_1_2023) - Prediction Accuracy: 66.7% 
+## Developmental International
+
+
+[Status](comp_files/Developmental_International_2025)
+
+[Status](comp_files/Developmental_International_2024) - Prediction Accuracy: 69.5% 
 ## WXV 3
 
 
 [2024](comp_files/WXV_3_2024) - Prediction Accuracy: 55.6% 
 
 [2023](comp_files/WXV_3_2023) - Prediction Accuracy: 55.6% 
+## Greatest Rivalry
+
+
+[2026](comp_files/Greatest_Rivalry_2026) - Prediction Accuracy: 33.3% 
 ## U20 Trophy
 
 
@@ -532,7 +536,7 @@ key: page-recents
 ## Nations Championship
 
 
-[2026](comp_files/Nations_Championship_2026) - Prediction Accuracy: 61.1% 
+[2026](comp_files/Nations_Championship_2026) - Prediction Accuracy: 63.0% 
 # Top Flight Competitions
 
 ## European Rugby Champions Cup
@@ -988,7 +992,7 @@ key: page-recents
 ## Pro D2
 
 
-[26/27](comp_files/Pro_D2_2627) - Prediction Accuracy: 77.8% 
+[26/27](comp_files/Pro_D2_2627) - Prediction Accuracy: 81.2% 
 
 [25/26](comp_files/Pro_D2_2526) - Prediction Accuracy: 74.6% 
 
@@ -1078,7 +1082,7 @@ key: page-recents
 ## NPC
 
 
-[2026](comp_files/NPC_2026) - Prediction Accuracy: 74.3% 
+[2026](comp_files/NPC_2026) - Prediction Accuracy: 71.4% 
 
 [2025](comp_files/NPC_2025) - Prediction Accuracy: 68.8% 
 
@@ -1282,7 +1286,7 @@ key: page-recents
 ## URBA Top 14
 
 
-[2026](comp_files/URBA_Top_14_2026) - Prediction Accuracy: 69.8% 
+[2026](comp_files/URBA_Top_14_2026) - Prediction Accuracy: 69.2% 
 ## prorugby
 
 

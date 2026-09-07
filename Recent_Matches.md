@@ -26,13 +26,45 @@ Last Two Week Error: 2.54 points per match
 
 Competition Accuracy: 7 of 9 (77.78%)
 
-Competition Error: 8.97 points per match
+Competition Error: 8.96 points per match
 
 Last Two Week Accuracy: 0 of 1 (0.0%)
 
 Last Two Week Error: 12.03 points per match
 
 [2026/08/29 - Argentina V Australia, 21.0 to 27.0](reviews/2026-08-29-Argentina_V_Australia)
+# Domestic Competitions
+
+## NPC
+
+
+[In depth model review and projections for NPC 2026](comp_files/NPC_2026)
+
+Competition Accuracy: 25 of 37 (67.57%)
+
+Competition Error: 14.41 points per match
+
+Last Two Week Accuracy: 8 of 9 (88.89%)
+
+Last Two Week Error: 5.99 points per match
+
+[2026/08/27 - Southland V Hawke's Bay, 21.0 to 36.0](reviews/2026-08-27-Southland_V_HawkesBay)
+
+[2026/08/28 - Auckland V Bay of Plenty, 19.0 to 22.0](reviews/2026-08-28-Auckland_V_BayofPlenty)
+
+[2026/09/04 - Hawke's Bay V Otago, 35.0 to 24.0](reviews/2026-09-04-HawkesBay_V_Otago)
+
+[2026/09/03 - Taranaki V Auckland, 28.0 to 12.0](reviews/2026-09-03-Taranaki_V_Auckland)
+
+[2026/08/30 - Northland V Tasman, 20.0 to 10.0](reviews/2026-08-30-Northland_V_Tasman)
+
+[2026/08/29 - Wellington V Counties Manukau, 35.0 to 46.0](reviews/2026-08-29-Wellington_V_CountiesManukau)
+
+[2026/08/29 - Otago V Waikato, 43.0 to 38.0](reviews/2026-08-29-Otago_V_Waikato)
+
+[2026/08/29 - Manawatu V North Harbour, 43.0 to 40.0](reviews/2026-08-29-Manawatu_V_NorthHarbour)
+
+[2026/08/28 - Taranaki V Canterbury, 40.0 to 26.0](reviews/2026-08-28-Taranaki_V_Canterbury)
 ## URBA Top 14
 
 
@@ -40,11 +72,11 @@ Last Two Week Error: 12.03 points per match
 
 Competition Accuracy: 72 of 119 (60.5%)
 
-Competition Error: 14.25 points per match
+Competition Error: 14.23 points per match
 
 Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 22.68 points per match
+Last Two Week Error: 22.63 points per match
 
 [2026/08/29 - Newman V Hindu, 40.0 to 20.0](reviews/2026-08-29-Newman_V_Hindu)
 
@@ -64,13 +96,15 @@ Last Two Week Error: 22.68 points per match
 
 [In depth model review and projections for Pro D2 26/27](comp_files/Pro_D2_2627)
 
-Competition Accuracy: 6 of 8 (75.0%)
+Competition Accuracy: 6 of 9 (66.67%)
 
-Competition Error: 18.18 points per match
+Competition Error: 17.26 points per match
 
-Last Two Week Accuracy: 6 of 8 (75.0%)
+Last Two Week Accuracy: 6 of 9 (66.67%)
 
-Last Two Week Error: 18.18 points per match
+Last Two Week Error: 17.26 points per match
+
+[2026/09/03 - Colomiers V Provence Rugby, 13.0 to 18.0](reviews/2026-09-03-Colomiers_V_ProvenceRugby)
 
 [2026/08/28 - Brive V Valence Romans Drome Rugby, 23.0 to 21.0](reviews/2026-08-28-Brive_V_ValenceRomansDromeRugby)
 
@@ -98,7 +132,7 @@ Competition Error: 14.2 points per match
 
 Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 16.78 points per match
+Last Two Week Error: 16.76 points per match
 
 [2026/08/29 - Vienne V Rennes, 23.0 to 21.0](reviews/2026-08-29-Vienne_V_Rennes)
 
@@ -113,31 +147,3 @@ Last Two Week Error: 16.78 points per match
 [2026/08/28 - Chambery V Périgueux, 51.0 to 24.0](reviews/2026-08-28-Chambery_V_Perigueux)
 
 [2026/08/28 - Albi V Mont-de-Marsan, 21.0 to 17.0](reviews/2026-08-28-Albi_V_Mont-de-Marsan)
-## NPC
-
-
-[In depth model review and projections for NPC 2026](comp_files/NPC_2026)
-
-Competition Accuracy: 24 of 36 (66.67%)
-
-Competition Error: 14.75 points per match
-
-Last Two Week Accuracy: 7 of 8 (87.5%)
-
-Last Two Week Error: 6.43 points per match
-
-[2026/09/03 - Taranaki V Auckland, 28.0 to 12.0](reviews/2026-09-03-Taranaki_V_Auckland)
-
-[2026/08/30 - Northland V Tasman, 20.0 to 10.0](reviews/2026-08-30-Northland_V_Tasman)
-
-[2026/08/29 - Wellington V Counties Manukau, 35.0 to 46.0](reviews/2026-08-29-Wellington_V_CountiesManukau)
-
-[2026/08/29 - Otago V Waikato, 43.0 to 38.0](reviews/2026-08-29-Otago_V_Waikato)
-
-[2026/08/29 - Manawatu V North Harbour, 43.0 to 40.0](reviews/2026-08-29-Manawatu_V_NorthHarbour)
-
-[2026/08/28 - Taranaki V Canterbury, 40.0 to 26.0](reviews/2026-08-28-Taranaki_V_Canterbury)
-
-[2026/08/28 - Auckland V Bay of Plenty, 19.0 to 22.0](reviews/2026-08-28-Auckland_V_BayofPlenty)
-
-[2026/08/27 - Southland V Hawke's Bay, 21.0 to 36.0](reviews/2026-08-27-Southland_V_HawkesBay)
