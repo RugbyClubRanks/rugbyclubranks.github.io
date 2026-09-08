@@ -8,7 +8,7 @@ key: page-recents
 ## International Test Match
 
 
-[2026](comp_files/International_Test_Match_2026) - Prediction Accuracy: 77.8% 
+[2026](comp_files/International_Test_Match_2026) - Prediction Accuracy: 83.3% 
 
 [2025](comp_files/International_Test_Match_2025) - Prediction Accuracy: 71.6% 
 
@@ -536,7 +536,7 @@ key: page-recents
 ## Nations Championship
 
 
-[2026](comp_files/Nations_Championship_2026) - Prediction Accuracy: 63.0% 
+[2026](comp_files/Nations_Championship_2026) - Prediction Accuracy: 61.1% 
 # Top Flight Competitions
 
 ## European Rugby Champions Cup
@@ -648,7 +648,7 @@ key: page-recents
 ## Top 14
 
 
-[26/27](comp_files/Top_14_2627)
+[26/27](comp_files/Top_14_2627) - Prediction Accuracy: 75.3% 
 
 [25/26](comp_files/Top_14_2526) - Prediction Accuracy: 75.3% 
 
@@ -930,7 +930,7 @@ key: page-recents
 ## Premiership Rugby Cup
 
 
-[26/27](comp_files/Premiership_Rugby_Cup_2627)
+[26/27](comp_files/Premiership_Rugby_Cup_2627) - Prediction Accuracy: 62.5% 
 
 [25/26](comp_files/Premiership_Rugby_Cup_2526) - Prediction Accuracy: 64.3% 
 
@@ -1038,7 +1038,7 @@ key: page-recents
 ## Currie Cup
 
 
-[2026](comp_files/Currie_Cup_2026) - Prediction Accuracy: 70.6% 
+[2026](comp_files/Currie_Cup_2026) - Prediction Accuracy: 75.0% 
 
 [2025](comp_files/Currie_Cup_2025) - Prediction Accuracy: 55.2% 
 
@@ -1286,7 +1286,7 @@ key: page-recents
 ## URBA Top 14
 
 
-[2026](comp_files/URBA_Top_14_2026) - Prediction Accuracy: 69.2% 
+[2026](comp_files/URBA_Top_14_2026) - Prediction Accuracy: 70.3% 
 ## prorugby
 
 
