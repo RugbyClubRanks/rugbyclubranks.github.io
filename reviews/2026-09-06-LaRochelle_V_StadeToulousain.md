@@ -9,7 +9,7 @@ categories: rugby "Top 14 26/27" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted La Rochelle to win by 1.35, and La Rochelle won by 3.0. That's an absolute error of 1.6 for the margin of victory, while my average absolute error has been 14.9 over the past six months. This prediction was more accurate than 92.1% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted La Rochelle to win by 2.01, and La Rochelle won by 3.0. That's an absolute error of 1.0 for the margin of victory, while my average absolute error has been 14.9 over the past six months. This prediction was more accurate than 95.0% of my recent predictions.
 
 For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 57.0. That's an absolute error of 7.5 compared to a six month average of 14.4. This prediction was more accurate than 65.9% of my recent predictions.
 ## Projected Performances - Club Model
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 49.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Stade Toulousain to win by 2.15,  and La Rochelle won by 3.0. That's an absolute error of 5.2 for the margin of victory, while the average error as been 15.3 for the past six months. So this prediction was more accurate than 65.0% of my recent predictions.
+With the player model, I predicted Stade Toulousain to win by 1.68,  and La Rochelle won by 3.0. That's an absolute error of 4.7 for the margin of victory, while the average error as been 15.3 for the past six months. So this prediction was more accurate than 66.8% of my recent predictions.
 ## Projected Performances - Player Model
 
 

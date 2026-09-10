@@ -9,9 +9,9 @@ categories: rugby "NPC 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Bay of Plenty to win by 19.65, and Manawatu won by 17.0. That's an absolute error of 36.6 for the margin of victory, while my average absolute error has been 14.9 over the past six months. This prediction was more accurate than 7.5% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Bay of Plenty to win by 19.08, and Manawatu won by 17.0. That's an absolute error of 36.1 for the margin of victory, while my average absolute error has been 14.9 over the past six months. This prediction was more accurate than 7.9% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 52.5 and we have an actual total of 41.0. That's an absolute error of 11.5 compared to a six month average of 14.4. This prediction was more accurate than 50.4% of my recent predictions.
+For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 41.0. That's an absolute error of 10.5 compared to a six month average of 14.4. This prediction was more accurate than 53.0% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 52.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Bay of Plenty to win by 11.4,  and Manawatu won by 17.0. That's an absolute error of 28.4 for the margin of victory, while the average error as been 15.3 for the past six months. So this prediction was more accurate than 12.7% of my recent predictions.
+With the player model, I predicted Bay of Plenty to win by 11.15,  and Manawatu won by 17.0. That's an absolute error of 28.2 for the margin of victory, while the average error as been 15.3 for the past six months. So this prediction was more accurate than 13.2% of my recent predictions.
 ## Projected Performances - Player Model
 
 

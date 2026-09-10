@@ -9,9 +9,9 @@ categories: rugby "Top 14 26/27" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Castres Olympique to win by 3.97, and Castres Olympique won by 9.0. That's an absolute error of 5.0 for the margin of victory, while my average absolute error has been 14.9 over the past six months. This prediction was more accurate than 75.4% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Castres Olympique to win by 3.76, and Castres Olympique won by 9.0. That's an absolute error of 5.2 for the margin of victory, while my average absolute error has been 14.9 over the past six months. This prediction was more accurate than 74.6% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 49.0. That's an absolute error of 0.5 compared to a six month average of 14.4. This prediction was more accurate than 97.7% of my recent predictions.
+For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 49.0. That's an absolute error of 0.5 compared to a six month average of 14.4. This prediction was more accurate than 97.6% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 48.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Vannes to win by 1.52,  and Castres Olympique won by 9.0. That's an absolute error of 10.5 for the margin of victory, while the average error as been 15.3 for the past six months. So this prediction was more accurate than 47.0% of my recent predictions.
+With the player model, I predicted Vannes to win by 1.39,  and Castres Olympique won by 9.0. That's an absolute error of 10.4 for the margin of victory, while the average error as been 15.3 for the past six months. So this prediction was more accurate than 47.4% of my recent predictions.
 ## Projected Performances - Player Model
 
 

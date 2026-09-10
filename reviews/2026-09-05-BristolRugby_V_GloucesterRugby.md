@@ -9,9 +9,9 @@ categories: rugby "Premiership Rugby Cup 26/27" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Bristol Rugby to win by 5.31, and Bristol Rugby won by 3.0. That's an absolute error of 2.3 for the margin of victory, while my average absolute error has been 14.9 over the past six months. This prediction was more accurate than 88.9% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Bristol Rugby to win by 4.59, and Bristol Rugby won by 3.0. That's an absolute error of 1.6 for the margin of victory, while my average absolute error has been 14.9 over the past six months. This prediction was more accurate than 92.1% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 54.5 and we have an actual total of 83.0. That's an absolute error of 28.5 compared to a six month average of 14.4. This prediction was more accurate than 11.8% of my recent predictions.
+For the Over/Under model, I predicted a total of 54.5 and we have an actual total of 83.0. That's an absolute error of 28.5 compared to a six month average of 14.4. This prediction was more accurate than 11.7% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 54.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Bristol Rugby to win by 4.98,  and Bristol Rugby won by 3.0. That's an absolute error of 2.0 for the margin of victory, while the average error as been 15.3 for the past six months. So this prediction was more accurate than 77.5% of my recent predictions.
+With the player model, I predicted Bristol Rugby to win by 5.05,  and Bristol Rugby won by 3.0. That's an absolute error of 2.0 for the margin of victory, while the average error as been 15.3 for the past six months. So this prediction was more accurate than 77.3% of my recent predictions.
 ## Projected Performances - Player Model
 
 

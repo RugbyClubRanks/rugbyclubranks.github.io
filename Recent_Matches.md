@@ -150,7 +150,7 @@ Competition Error: 13.67 points per match
 
 Last Two Week Accuracy: 11 of 14 (78.57%)
 
-Last Two Week Error: 13.44 points per match
+Last Two Week Error: 13.42 points per match
 
 [2026/09/05 - Los Tilos V Buenos Aires, 24.0 to 21.0](reviews/2026-09-05-LosTilos_V_BuenosAires)
 
@@ -176,7 +176,7 @@ Competition Error: 13.13 points per match
 
 Last Two Week Accuracy: 9 of 14 (64.29%)
 
-Last Two Week Error: 13.9 points per match
+Last Two Week Error: 13.89 points per match
 
 [2026/09/05 - Vienne V Albi, 13.0 to 29.0](reviews/2026-09-05-Vienne_V_Albi)
 

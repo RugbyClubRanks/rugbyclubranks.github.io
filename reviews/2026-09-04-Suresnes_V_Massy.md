@@ -9,9 +9,9 @@ categories: rugby "Nationale 26/27" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Massy to win by 0.17, and Massy won by 23.0. That's an absolute error of 22.8 for the margin of victory, while my average absolute error has been 14.9 over the past six months. This prediction was more accurate than 21.3% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Massy to win by 0.21, and Massy won by 23.0. That's an absolute error of 22.8 for the margin of victory, while my average absolute error has been 14.9 over the past six months. This prediction was more accurate than 21.3% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 44.5 and we have an actual total of 61.0. That's an absolute error of 16.5 compared to a six month average of 14.4. This prediction was more accurate than 34.1% of my recent predictions.
+For the Over/Under model, I predicted a total of 45.5 and we have an actual total of 61.0. That's an absolute error of 15.5 compared to a six month average of 14.4. This prediction was more accurate than 36.7% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 44.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Suresnes to win by 1.04,  and Massy won by 23.0. That's an absolute error of 24.0 for the margin of victory, while the average error as been 15.3 for the past six months. So this prediction was more accurate than 17.9% of my recent predictions.
+With the player model, I predicted Suresnes to win by 1.94,  and Massy won by 23.0. That's an absolute error of 24.9 for the margin of victory, while the average error as been 15.3 for the past six months. So this prediction was more accurate than 17.1% of my recent predictions.
 ## Projected Performances - Player Model
 
 

@@ -9,9 +9,9 @@ categories: rugby "Top 14 26/27" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Montpellier Herault to win by 12.26, and Pau won by 8.0. That's an absolute error of 20.3 for the margin of victory, while my average absolute error has been 14.9 over the past six months. This prediction was more accurate than 26.9% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Montpellier Herault to win by 12.24, and Pau won by 8.0. That's an absolute error of 20.2 for the margin of victory, while my average absolute error has been 14.9 over the past six months. This prediction was more accurate than 26.9% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 46.0. That's an absolute error of 3.5 compared to a six month average of 14.4. This prediction was more accurate than 85.4% of my recent predictions.
+For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 46.0. That's an absolute error of 3.5 compared to a six month average of 14.4. This prediction was more accurate than 85.5% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 49.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Montpellier Herault to win by 11.5,  and Pau won by 8.0. That's an absolute error of 19.5 for the margin of victory, while the average error as been 15.3 for the past six months. So this prediction was more accurate than 24.8% of my recent predictions.
+With the player model, I predicted Montpellier Herault to win by 11.0,  and Pau won by 8.0. That's an absolute error of 19.0 for the margin of victory, while the average error as been 15.3 for the past six months. So this prediction was more accurate than 26.0% of my recent predictions.
 ## Projected Performances - Player Model
 
 

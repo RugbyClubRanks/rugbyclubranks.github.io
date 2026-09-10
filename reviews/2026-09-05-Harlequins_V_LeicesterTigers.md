@@ -9,7 +9,7 @@ categories: rugby "Premiership Rugby Cup 26/27" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Leicester Tigers to win by 3.69, and Harlequins won by 24.0. That's an absolute error of 27.7 for the margin of victory, while my average absolute error has been 14.9 over the past six months. This prediction was more accurate than 15.2% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Leicester Tigers to win by 3.59, and Harlequins won by 24.0. That's an absolute error of 27.6 for the margin of victory, while my average absolute error has been 14.9 over the past six months. This prediction was more accurate than 15.4% of my recent predictions.
 
 For the Over/Under model, I predicted a total of 53.5 and we have an actual total of 66.0. That's an absolute error of 12.5 compared to a six month average of 14.4. This prediction was more accurate than 47.1% of my recent predictions.
 ## Projected Performances - Club Model
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 53.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Leicester Tigers to win by 6.15,  and Harlequins won by 24.0. That's an absolute error of 30.2 for the margin of victory, while the average error as been 15.3 for the past six months. So this prediction was more accurate than 10.2% of my recent predictions.
+With the player model, I predicted Leicester Tigers to win by 6.21,  and Harlequins won by 24.0. That's an absolute error of 30.2 for the margin of victory, while the average error as been 15.3 for the past six months. So this prediction was more accurate than 10.2% of my recent predictions.
 ## Projected Performances - Player Model
 
 

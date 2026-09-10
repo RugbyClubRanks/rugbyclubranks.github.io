@@ -9,9 +9,9 @@ categories: rugby "URBA Top 14 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Newman to win by 8.34, and Newman won by 15.0. That's an absolute error of 6.7 for the margin of victory, while my average absolute error has been 14.9 over the past six months. This prediction was more accurate than 69.3% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Newman to win by 7.99, and Newman won by 15.0. That's an absolute error of 7.0 for the margin of victory, while my average absolute error has been 14.9 over the past six months. This prediction was more accurate than 66.4% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 52.5 and we have an actual total of 53.0. That's an absolute error of 0.5 compared to a six month average of 14.4. This prediction was more accurate than 97.7% of my recent predictions.
+For the Over/Under model, I predicted a total of 52.5 and we have an actual total of 53.0. That's an absolute error of 0.5 compared to a six month average of 14.4. This prediction was more accurate than 97.6% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 52.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Newman to win by 7.34,  and Newman won by 15.0. That's an absolute error of 7.7 for the margin of victory, while the average error as been 15.3 for the past six months. So this prediction was more accurate than 57.8% of my recent predictions.
+With the player model, I predicted Newman to win by 6.79,  and Newman won by 15.0. That's an absolute error of 8.2 for the margin of victory, while the average error as been 15.3 for the past six months. So this prediction was more accurate than 55.4% of my recent predictions.
 ## Projected Performances - Player Model
 
 
